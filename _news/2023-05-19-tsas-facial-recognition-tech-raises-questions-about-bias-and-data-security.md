@@ -68,12 +68,12 @@ related:
         isCached: true
   - title: "TSA tries out facial recognition technology at 16 U.S. airports"
     excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through -- all without having to hand over their identification to the TSA officer sitting behind the screen."
-    publishedDateTime: 2023-05-21T07:41:00Z
-    webUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/?business-national"
+    publishedDateTime: 2023-05-21T07:46:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
     type: article
     provider:
-      name: Northwest Arkansas Democrat Gazette
-      domain: nwaonline.com
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
     quality: 54
     images:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204387909_1G2facial0521_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
@@ -81,18 +81,18 @@ related:
         height: 400
         isCached: true
   - title: "TSA testing facial recognition at more airports, raising privacy concerns"
-    excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"
+    excerpt: "The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen. It’s all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country."
     publishedDateTime: 2023-05-21T00:30:00Z
-    webUrl: "https://omaha.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_afb8746e-ea8a-551c-bb05-26bfc9b02f28.html"
+    webUrl: "https://tulsaworld.com/eedition/page-a4/page_ec7d726c-513f-5e72-92a1-549cc4a8604f.html"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: Tulsa World
+      domain: tulsaworld.com
     quality: 53
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/78/d7899d8f-cf01-52ab-acbe-16fe1f61c88c/64642a155739f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/eedition/e/c7/ec7d726c-513f-5e72-92a1-549cc4a8604f/64696e8c27c1c.fullsize-img.jpg"
+        width: 792
+        height: 1638
         isCached: true
   - title: "Harry Reid International Airport in Las Vegas testing TSA facial recognition technology"
     excerpt: "Harry Reid International Airport in Las Vegas is part of a pilot project by the TSA to assess the use of facial recognition technology."

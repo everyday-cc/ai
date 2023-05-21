@@ -55,6 +55,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-18-baidu-exec-charged-with-stealing-apples-self-driving-car-tech.md",
+      "title": "Baidu exec charged with stealing Apple’s self-driving car tech",
+      "excerpt": "A former Apple engineer and the executive at an electric vehicle startup owned by the Chinese tech giant Baidu has been charged with stealing Apple’s self-driving technology, as reported earlier by CNBC.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/5/17/23726769/apple-baidu-self-driving-trade-secrets-stolen",
+      "originalUrl": "https://www.theverge.com/2023/5/17/23726769/apple-baidu-self-driving-trade-secrets-stolen",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/x2E5qk82ChtE9vZvW1p2duIOnxA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24401980/STK071_ACastro_apple_0003.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-17T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-20-amazing-and-free-data-sources-anyone-can-use-to-build-ais.md",
       "title": "20+ Amazing (And Free) Data Sources Anyone Can Use To Build AIs",
       "excerpt": "When we talk about artificial intelligence (AI) in business and society today ... including product information and ratings. Waymo Open Dataset – Alphabet’s autonomous driving subsidiary Waymo makes a huge amount of data collected via self-driving ...",
@@ -328,6 +380,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-chatgpt-chief-says-ai-should-be-regulated-china-ready-to-smash-taiwan-self-rule-76ers-fire-coach-doc-rivers-top-headlines-for-may-16-.md",
+      "title": "ChatGPT chief says AI should be regulated; China ready to 'smash' Taiwan self-rule; 76ers fire coach Doc Rivers | Top headlines for May 16 & 17, 2023",
+      "excerpt": "On the version of Hot off the Wire posted May 16 at 4 p.m. CT: OpenAI CEO Sam Altman, the head of the artificial intelligence company that makes ChatGPT, told",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/audio_45629a65-9fdf-5b61-8df4-4ccc518beddb.html",
+      "originalUrl": "https://www.stltoday.com/audio_45629a65-9fdf-5b61-8df4-4ccc518beddb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1321,101 +1407,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-european-union-set-to-be-trailblazer-in-global-rush-to-regulate-artificial-intelligence.md",
-      "title": "European Union Set to Be Trailblazer in Global Rush to Regulate Artificial Intelligence",
-      "excerpt": "Even European Union officials working on groundbreaking rules to govern the emerging technology were caught off guard by AI’s rapid rise. The 27-nation bloc proposed the Western world’s first AI rules two years ago,",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6278144/european-union-artificial-intelligence-regulation/",
-      "originalUrl": "https://time.com/6278144/european-union-artificial-intelligence-regulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://time.com/img/icons/wallet-connect.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-ai-dude-the-most-sophisticated-artificial-intelligence-technology.md",
-      "title": "AI DUDE: The Most Sophisticated Artificial Intelligence Technology",
-      "excerpt": "The AIDUDE company is proud to announce the launch of its latest innovation, Ai Dude, which utilizes the most sophisticated Artificial Intelligence (AI) technology to provide businesses with a powerful tool for content creation and optimization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-dude-the-most-sophisticated-artificial-intelligence-technology-2023-05-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-dude-the-most-sophisticated-artificial-intelligence-technology-2023-05-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

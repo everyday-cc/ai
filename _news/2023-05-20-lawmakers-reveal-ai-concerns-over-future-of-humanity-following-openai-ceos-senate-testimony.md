@@ -46,22 +46,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "AI technology “can go quite wrong,” OpenAI CEO tells Senate"
-    excerpt: "OpenAI CEO Sam Altman testified in the US Senate today about the potential dangers of artificial intelligence technology made by his company and others, and urged lawmakers to impose licensing requirements and other regulations on organizations that make advanced AI systems such as OpenAI's GPT-4."
-    publishedDateTime: 2023-05-16T21:02:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2023/05/ai-technology-can-go-quite-wrong-openai-ceo-tells-senate/"
-    ampWebUrl: "https://arstechnica.com/tech-policy/2023/05/ai-technology-can-go-quite-wrong-openai-ceo-tells-senate/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/05/ai-technology-can-go-quite-wrong-openai-ceo-tells-senate/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-sam-altman-800x534.jpg"
-        width: 800
-        height: 534
-        isCached: true
   - title: "US senator introduces bill to create a federal agency to regulate AI"
     excerpt: "Days after OpenAI CEO Sam Altman testified in front of Congress and proposed creating a new federal agency to regulate artificial intelligence, a US senator has introduced a bill to do just that."
     publishedDateTime: 2023-05-18T09:00:00Z
@@ -77,22 +61,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/230517144152-senator-michael-bennet-file-restricted-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Google follows OpenAI in saying almost nothing about its new PaLM 2 AI program"
-    excerpt: "When Google artificial intelligence scientists revealed a significant new program -- the Pathways Language Model (PaLM) -- a year ago, they spent several hundred words in a technical paper describing the significant new AI techniques used to achieve the program's results."
-    publishedDateTime: 2023-05-16T21:42:00Z
-    webUrl: "https://www.zdnet.com/article/google-follows-openai-in-saying-almost-nothing-about-its-new-palm-2-ai-program/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-follows-openai-in-saying-almost-nothing-about-its-new-palm-2-ai-program/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-follows-openai-in-saying-almost-nothing-about-its-new-palm-2-ai-program/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/7a81d87b5825f36b755507a1a1ab14e8fdec5dc1/2023/05/16/966da46b-19b4-42e8-ab6d-300f61c09302/google-palm-2-graphic.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Sam Altman Sends A Message To Corporate Leaders On AI Risk Management"
     excerpt: "The OpenAI CEO’s Senate testimony on the potential risks of AI and its need for regulation prompts boards to accelerate their oversight of how AI is applied in their own organizations."
@@ -153,31 +121,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230517vl202_files/1_2b.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "OpenAI’s Sam Altman urges AI regulation in Senate hearing"
-    excerpt: "Altman implored lawmakers to regulate artificial intelligence as members of the committee displayed a budding understanding of the technology."
-    publishedDateTime: 2023-05-16T22:21:00Z
-    webUrl: "https://www.seattletimes.com/business/openais-sam-altman-urges-ai-regulation-in-senate-hearing/"
-    ampWebUrl: "https://www.seattletimes.com/business/openais-sam-altman-urges-ai-regulation-in-senate-hearing/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/openais-sam-altman-urges-ai-regulation-in-senate-hearing/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
-  - title: "OpenAI CEO Sam Altman calls for increased AI regulation in Senate hearing"
-    excerpt: "OpenAI LP Chief Executive Sam Altman has told lawmakers that the U.S. should consider implementing new rules to ensure the safety of artificial intelligence systems. Altman (pictured) made the remarks this morning during a hearing before a Senate Judiciary subcommittee."
-    publishedDateTime: 2023-05-16T20:02:00Z
-    webUrl: "https://siliconangle.com/2023/05/16/openai-ceo-sam-altman-calls-increased-ai-regulation-senate-hearing/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/21470472099_8e78d53ecf_k.jpg"
-        width: 2048
-        height: 1363
         isCached: true
   - title: "Tech reporter breaks down OpenAI CEO's testimony, potential regulatory challenges"
     excerpt: "OpenAI CEO Sam Altman, whose company developed the widely used AI conversation program ChatGPT, warned federal lawmakers Tuesday that artificial intelligence could pose significant risks to the world if the technology goes wrong."

@@ -7,8 +7,8 @@ originalUrl: "https://www.theverge.com/2023/5/17/23726769/apple-baidu-self-drivi
 webUrl: "https://www.theverge.com/2023/5/17/23726769/apple-baidu-self-driving-trade-secrets-stolen"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 139
+published: true
 
 provider:
   name: The Verge
@@ -29,38 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ex-Apple employee accused of stealing trade secrets is exec at Baidu self-driving car joint venture"
-    excerpt: "an electric vehicle joint venture between Baidu and Chinese car maker Geely. On Tuesday, the DOJ accused Wang of stealing trade secrets from Apple's self-driving car division. Wang is the third ..."
-    publishedDateTime: 2023-05-16T21:59:00Z
-    webUrl: "https://www.cnbc.com/2023/05/16/ex-apple-employee-accused-of-stealing-secrets-is-jidu-automotive-exec.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/05/16/ex-apple-employee-accused-of-stealing-secrets-is-jidu-automotive-exec.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/16/ex-apple-employee-accused-of-stealing-secrets-is-jidu-automotive-exec.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 75
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107194711-1676427099559-gettyimages-1453437554-vcg111416077998.jpeg?v=1684262125"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Ex-Apple Employee Stole Self-Driving Car Tech For Chinese Competitor, DOJ Alleges"
-    excerpt: "The former Apple engineer, 35-year-old Weibao Wang, allegedly overlapped his time at Apple with a stint working a U.S. based job with a Chinese company, and after his last day with Apple, the company discovered he had accessed large amounts of “sensitive proprietary and confidential information,” the Justice Department said."
-    publishedDateTime: 2023-05-16T20:38:00Z
-    webUrl: "https://www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges/"
-    ampWebUrl: "https://www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anafaguy/2023/05/16/ex-apple-employee-stole-self-driving-car-tech-for-chinese-competitor-doj-alleges/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6463c7e6c7a4deb718c2ff1a/0x0.jpg?format=jpg&crop=2149,1618,x278,y0,safe&width=1200"
-        width: 1200
-        height: 903
-        isCached: true
   - title: "A third former Apple employee has been charged with stealing self-driving car tech"
     excerpt: "A federal court in the Northern District of California has unsealed charges against Weibao Wang, a former Apple software engineer. Wang started working at the company in 2016 as part of a team that developed hardware and software for autonomous systems — technology that could conceivably wind up in self-driving cars."
     publishedDateTime: 2023-05-18T04:29:00Z
@@ -139,15 +107,15 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Former Apple employee charged in theft of self-driving car trade secrets"
-    excerpt: "Wang signed a letter accepting an offer of full-time employment as a staff engineer with the U.S.-based subsidiary of another company that was headquartered in the People's Republic of China and was working to develop self-driving cars,\" the Justice ..."
-    publishedDateTime: 2023-05-16T19:44:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2023/05/16/former-apple-employee-charged-stealing-trade-secrets-china/6861684260937/"
+  - title: "Ex-Apple Engineer Charged With Stealing Self-Driving Tech For Chinese Company"
+    excerpt: "After authorities searched his home for allegedly stealing Apple's autonomous tech in 2018, Weibao Wang boarded a flight to China, where he remains"
+    publishedDateTime: 2023-05-17T02:34:00Z
+    webUrl: "https://www.carscoops.com/2023/05/ex-apple-engineer-charged-with-stealing-self-driving-tech-for-chinese-company/"
     type: article
     provider:
-      name: UPI
-      domain: upi.com
-    quality: 3
+      name: Carscoops
+      domain: carscoops.com
+    quality: 1
   - title: "DOJ charges former Apple engineer with stealing self-driving car technology for China"
     excerpt: "The Department of Justice today charged a former Apple Inc. engineer with stealing autonomous technology and giving it to a Chinese self-driving car company. The indictment, filed at federal court in the Northern District of California, alleges that Weibao ..."
     publishedDateTime: 2023-05-17T01:02:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/markets/us/wall-st-week-ahead-artificial-i
 webUrl: "https://www.reuters.com/markets/us/wall-st-week-ahead-artificial-intelligence-gives-real-boost-us-stock-market-2023-05-19/"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Wall St Week Ahead Artificial intelligence gives real boost to U.S. stock market"
+    excerpt: "Recent advances in artificial intelligence are fueling optimism over how businesses can operate more productively in the years ahead. They are also providing a big boost to the stock market."
+    publishedDateTime: 2023-05-21T12:00:00Z
+    webUrl: "https://www.reuters.com/article/usa-stocks-weekahead-idUSL1N37F2GC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 62
+    images:
+      - url: "https://www.reuters.com/resizer/jUM9WeanIabp58xV9iwqGoIdO5U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PCM7EYO3OFP4HKRIZ7ZMUVK77U.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Wall Street Week Ahead: Artificial intelligence gives real boost to U.S. stock market"
     excerpt: "Recent advances in artificial intelligence are fueling optimism over how businesses can operate more productively in the years ahead. They are also providing a big boost to the stock market."
     publishedDateTime: 2023-05-19T21:52:00Z

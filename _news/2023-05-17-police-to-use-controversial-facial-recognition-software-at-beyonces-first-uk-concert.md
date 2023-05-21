@@ -73,20 +73,6 @@ related:
         width: 1008
         height: 672
         isCached: true
-  - title: "Police to use controversial facial recognition technology at Beyonce UK tour stop"
-    excerpt: "Controversial security protocols will be in gear when Beyoncé kicks off the United Kingdom leg of her highly anticipated Renaissance World Tour this week."
-    publishedDateTime: 2023-05-16T22:51:00Z
-    webUrl: "https://www.nydailynews.com/snyde/ny-beyonce-uk-tour-facial-recognition-technology-20230516-w7al2mfmazas3ah3qttftxqede-story.html"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 34
-    images:
-      - url: "https://www.nydailynews.com/resizer/wrGxK_VWI08YlQOE2xYd91vrqoI=/1200x630/filters:format(jpg):quality(70):focal(1660x595:1670x605)/cloudfront-us-east-1.images.arcpublishing.com/tronc/O37PFHSBJFHTXKSYRL3KSTLOHE.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "vNaf2G+6g3BbXHwD5259zuMP44GgYhnhhjfVs+2x5rDQiktFsECRm9wwWdUAxK2MoPAk1UAJN0TJrDdBCYTTX1jNY4vtBhe9Q6R18OXINENpYHtAA6vCAWefgapB/4Zpkj46qG8jX9oP8AD8YCpYD7862sxxvZvYqKvxrTV9PyefOgSYaRkEbG4IDXr/0QeAmhAoQpDuxskaEcwHEK5wmCV6u1ODoyxKnmbf6/Vj+27YuGIPNEwVKhOFrNd9OX8t14EpmIe1vQXjY6sexHXAxJ6SgBNefMVOrkdwGecN2b5DP5k6j18IEY3P6C5rXagmp20fMcv/881hwMT3rSaEpEC6a+eq2lfwugAns0Szz9n1gNhTHGJhNPNGKJCAtAHT3jQj3DQiZcQTVdrFqQn2KkVvFSqwoX4X5DAeHtEljfyACO3wDge7nEiUhkJbK2+wvvXzEhNCnTvbRh7WRs+G4YJ0SwCBn5yXz4cDHxmmyniVzo68YfQqGP21FDa4MfUNen37sPuks6Hts0ziStgERQ==;F6w1CcfZAygIpj5RCyJ8pw=="
 ---

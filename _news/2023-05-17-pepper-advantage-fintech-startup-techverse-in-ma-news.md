@@ -57,17 +57,6 @@ related:
         width: 500
         height: 223
         isCached: true
-  - title: "The Ethical Dilemmas of Fintech Breed Distrust; Top 3 Challenges"
-    excerpt: "Financial technology is yet another digital convenience streamlining everyday financial transactions that used to require standing in line at a bank, writing checks, or navigating between several websites."
-    publishedDateTime: 2023-05-16T21:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32435011/the-ethical-dilemmas-of-fintech-breed-distrust-top-3-challenges"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32435011"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32435011"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
   - title: "Opportunities remain for fintech to turbocharge MSME growth"
     excerpt: "Speaking from a fintech’s point-of-view, the positive impact of digital technologies on solving the credit constraint of MSME enterprises has been noted at the scientific level, with AI-based credit fintech solutions able to provide an adequate response ..."
     publishedDateTime: 2023-05-18T05:05:00Z

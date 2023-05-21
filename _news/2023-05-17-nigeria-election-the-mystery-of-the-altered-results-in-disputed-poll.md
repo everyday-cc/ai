@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/65163713.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/65163713.amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,23 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Nigeria election: Di unexplained Nigeria election votes wey political parties dey contest"
-    excerpt: "Wen we compare di profile image for dis account to di television pictures of Dr Ariaga using Amazon Rekognition software, we achieve a match of 97.2%, wey indicate a very high probability say dem be di same man. Dr Ariaga no respond to messages wey we send ..."
-    publishedDateTime: 2023-05-16T21:15:00Z
-    webUrl: "https://www.bbc.com/pidgin/tori-65564971?at_link_origin=bbcnewspidgin&at_campaign_type=owned&at_format=link&at_link_id=7E3B4882-F3B1-11ED-9926-EF73AD7C7D13&at_ptr_name=twitter&at_link_type=web_link&at_bbc_team=editorial"
-    ampWebUrl: "https://www.bbc.com/pidgin/tori-65564971.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/pidgin/tori-65564971.amp"
+  - title: "Nigeria's High Cost of Low Education - a System in Crisis"
+    excerpt: "Opinion - \"Well, as I've repeatedly said in the past, Nigeria's problem has never been the absence of solutions to its problems; it has always been the absence of the will to implement the solutions that can mitigate its problems."
+    publishedDateTime: 2023-05-20T16:14:00Z
+    webUrl: "https://allafrica.com/stories/202305200133.html"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 80
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 41
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_pidgin/7854/production/_129440803_tinubu1.png"
-        width: 1024
-        height: 576
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
         isCached: true
 
-secured: "nx6sPxhnGnCBfab8VN7NR1UWJ2+i4mtO6ixaLe6pNneL9wgI4Q3AA+u7Rjy+qdJk8QF0GgXBpm0a3bfPWkM32OUZrlYpeA3qcV+7Io7XigqUWasBXbQYxmr6LbPc9BagMMwGsMCsAQRMPnUELi+yeemBxLVUz1Ch5ivG/9Qx4pV5jYJY1VXc3vxUIdZ8izdq/Mr9EhRCWkheqnGzm+4Y923zj9Hi2vDvv54sBmEq4pP1fzYChB9wMKo5mG4FtnHlu0KLwsx1FUnsFye5BMvDRoSJTMU7NR30lehfdAMkJUZDCfHZt38DgoORREXORF9BO/pMsToglwPk5w0t5JdW8lbdUduLKCmsZl3NinfMygQ=;qL7YnbbYFZBQpTbecC6oTg=="
+secured: "20htT/WxeDeZNfw4teAocY13c3kKnyyTsgxJknJ384rhA/AwTjaP29uVvEk9QxDzZIeblVTD8zoVY54DC/dhGmEQiHoNGt67KiT5STSOUfRGW6SSCSb4v5XtNfE6QFmGbV12tyaDXszk/VfYHpICvVTJEaCxBe7CdYGJsUR0VgmAN6CU66n+Ih++jUdPcN5PO907SDLhKExgxf6UlExlQuIakhcMC2FAJHDgaoqlPbikt2ByYo7Co/JP6KjiAnQQ2CiPFYX5n51uIEZaX1IjClEzUgQYAavJgqGNnf1RDVkmePuqHpQyRZ0ZEI7UUFXs4JQbgYbvbllxAKY2NUUsHk6JbYdzerDUMEegyJFciu8=;PWKJce71cg0LDawMRQRvcA=="
 ---
 

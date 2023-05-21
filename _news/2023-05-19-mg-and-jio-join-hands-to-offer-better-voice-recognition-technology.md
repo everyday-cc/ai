@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Ministers look to enhance policing with body-worn facial recognition technology"
+    excerpt: "Ministers in Wales and England spark debate with plans for facial recognition technology in policing. How far will they go?"
+    publishedDateTime: 2023-05-21T13:12:00Z
+    webUrl: "https://interestingengineering.com/culture/ministers-look-to-enhance-policing-with-facial-recognition"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 15
   - title: "MG Comet's voice commands to be powered by Reliance Jio"
     excerpt: "MG Comet EV is using Jio's e-SIM to provide connected car technology. The manufacturer has also embedded a Jio voice assistant that has been specifically trained to understand Indian dialect. It can be activated using a wake word,"
     publishedDateTime: 2023-05-19T11:54:00Z

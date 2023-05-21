@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Artificial Intelligence: Existential Threat and Litmus Test"
-    excerpt: "A.I. raises many existential questions, such as the meaning of human life and freedom. Developing A.I. safely may come down to the ability of humans to effectively collaborate. “It’s as if aliens had landed, but we didn’t really take it in because they speak good English.”— Geoffrey Hinton, the “godfather of A.I.” on PBS NewsHour"
-    publishedDateTime: 2023-05-16T19:41:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-pacific-heart/202305/artificial-intelligence-existential-threat-and-litmus-test"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 37
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-05/Robot%20and%20human%20sdecoret%20adobe.jpeg.jpg?itok=iGhs4X7b"
-        width: 1528
-        height: 800
-        isCached: true
 
 secured: "A6pT6eGAACXKYZXBosI0UFC5PMZOfye7xU67g/2FMNty8upV8AkPcAD+5Q018hN28qRLa7CS+Ow/DX+h9jq1Fd+bxyGMKNd1J8uGFa+v4dZD71h/MRc6A48Q11WR/q+LtAMla+exjxvrWQDqETcdZ0zQ9A8G7TwiPWV9CntcZQQCzMJe9CuVGh799S8FVMKDrSyv8f4zvoe3bi7oEsUX/hMlSPhU2lscABa8hw8JM+18kIz6stHo1Z8BI0pbw8DjUEigAD8+dQOUM+nHzEu7oL9RGocySUi+SvFVSat0wG8yFY07db/0FuznwTpgdXgpO8hPMZ67Yc/mlyWfzAYebJ+hvA7xaVqBazAFRpfkXoV793/gl0YZiaKhsPMwmqpKWvwPfbq1HezhZeL1dqvwJfx9xag38/fSB+X67LIr0ahb3y7CoBML84wL9ea66+geem6ZHULnl02dPI1kRwwD3alREyzCSiPCribkfjQQ9Hlx5kULCrYMAOgSUUqAbKnhxlmGQ76RyO+NZzzJ8kNIVg==;8MhxTZX2KxwGmFV5uOHTXg=="
 ---

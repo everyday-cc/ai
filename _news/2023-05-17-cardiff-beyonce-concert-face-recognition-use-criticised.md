@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/uk-wales-65622404.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-wales-65622404.amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://mixmag.net/assets/uploads/images/_full/Beyonce-Mason-Poole.png"
         width: 1008
         height: 672
-        isCached: true
-  - title: "Police to use controversial facial recognition technology at Beyonce UK tour stop"
-    excerpt: "Controversial security protocols will be in gear when Beyoncé kicks off the United Kingdom leg of her highly anticipated Renaissance World Tour this week."
-    publishedDateTime: 2023-05-16T22:51:00Z
-    webUrl: "https://www.nydailynews.com/snyde/ny-beyonce-uk-tour-facial-recognition-technology-20230516-w7al2mfmazas3ah3qttftxqede-story.html"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 34
-    images:
-      - url: "https://www.nydailynews.com/resizer/wrGxK_VWI08YlQOE2xYd91vrqoI=/1200x630/filters:format(jpg):quality(70):focal(1660x595:1670x605)/cloudfront-us-east-1.images.arcpublishing.com/tronc/O37PFHSBJFHTXKSYRL3KSTLOHE.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Police to use controversial facial recognition software at Beyonce’s first UK concert"
     excerpt: "Police will use live facial recognition software to scan crowds attending Beyonce’s first UK tour date in Cardiff. The global star kicks off the UK leg of her Renaissance World Tour at the city’s Principality Stadium – her first tour in seven years."

@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "WHO warns about healthcare AI bias"
-    excerpt: "WHO warns healthcare organizations about the potential bias and inaccuracy of AI-based models, and calls for clinical oversight to ensure safe, effective."
-    publishedDateTime: 2023-05-16T20:19:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/who-warns-about-healthcare-ai-bias.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "7 Semiconductor Stocks Cashing In on the AI Hype"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Semiconductor stocks are gaining importance as the technology is increasingly"
     publishedDateTime: 2023-05-18T10:31:00Z
@@ -94,15 +80,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "The First Year of AI College Ends in Ruin"
-    excerpt: "The problem breaks down into more problems: whether it’s possible to know for certain that a student used AI, what it even means to “use” AI for writing papers, and when that use amounts to cheating."
-    publishedDateTime: 2023-05-16T19:19:00Z
-    webUrl: "https://www.theatlantic.com/technology/archive/2023/05/chatbot-cheating-college-campuses/674073/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 47
   - title: "Risks Posed by AI Technology Spur Calls for New Regulatory Agency"
     excerpt: "It could be charged with granting licenses for AI platforms, setting operating standards and enforcing compliance with the rules, according to proponents including Sam Altman, chief executive of ChatGPT creator OpenAI."
     publishedDateTime: 2023-05-18T12:59:00Z

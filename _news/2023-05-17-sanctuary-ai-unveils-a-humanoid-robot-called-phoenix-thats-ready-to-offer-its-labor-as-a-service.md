@@ -24,17 +24,6 @@ images:
     height: 586
     isCached: true
 
-related:
-  - title: "Sanctuary AI Unveils Phoenix - A Humanoid General-Purpose Robot Designed for Work"
-    excerpt: "Sanctuary AI, a company on a mission to create the world's-first human-like intelligence in general-purpose robots, announced a major step forward with the unveiling of its sixth-generation general-purpose robot named Phoenix."
-    publishedDateTime: 2023-05-16T19:35:00Z
-    webUrl: "https://www.bctechnology.com/news/2023/5/16/Sanctuary-AI-Unveils-Phoenix---A-Humanoid-General-Purpose-Robot-Designed-for-Work.cfm"
-    type: article
-    provider:
-      name: T-Net
-      domain: bctechnology.com
-    quality: 29
-
 secured: "hrVe+dQpngMVWnDZBph4lBxW/x4jH8QxcVgU5Xuy11PFWeYjK7SLF6HX1SgI9bs0E6gWTZCEKJNXVLpdb5G9TfvNn1e+LW4+IoiKF3mSRN0WyRglUcAxOFsjmry1ymZSf+Zjh3dgjjwW0I/66blDeTAQNxv1vYnzkPaOKpSuLz53cTmjLBeEUxDB1jb52zq2hGYlCLLndnOpUn88y4E+KPTuximIiwzCDvGNKHZv59/U65mF40EZnEhh+FR7rYZ3fJ3XLP8lckNQ8GyORni72nryd2J+Bfv4ktW/WFTaa/QFpxK4/8qG+g5COl/ympk1YqqgRlDAF1ehUZfuuNwnhLYLsBx6yKgu/UeQU/Yj+HhWijQnFCOEb2uQQ6l3+WpR15ugqZulg2MQQLCTQwBcSfrCR0PGLtCbc2pfLn23i/lWr8AR6Zv4GigJd+rxfliBNZVcEM0lh94ETR8GtXxfasbxAJ186PHOkDs/nrGMPTyYZhEGkxrXnNKV4zqt44st2zkJ3dtKVC1QHGFwtKW/Ig==;muTal0d73kXAbwYnxthFhw=="
 ---
 

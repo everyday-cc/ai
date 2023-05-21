@@ -72,34 +72,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "This Magnificent Fintech Stock Is Surprisingly Climbing Aboard the Generative AI Train"
-    excerpt: "If generative AI is here to stay, I'd expect these to become common fintech features, not providing any company the upper hand. The bigger issue for Block is staying relevant and controlling costs ..."
-    publishedDateTime: 2023-05-16T21:29:00Z
-    webUrl: "https://www.fool.com/investing/2023/05/16/this-magnificent-fintech-stock-is-surprisingly-cli/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 61
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/731487/square-retail-point-of-sale-resize.jpg"
-        width: 1500
-        height: 1116
-        isCached: true
-  - title: "Meet the Startup Promising to Deliver the 1st Healthcare-focused Generative AI Model"
-    excerpt: "Hippocratic AI emerged from stealth, as well as announced $50 million in seed funding through a round co-led by General Catalyst and Andreessen Horowitz. The Palo Alto-based startup bills itself as the first large language model designed specifically for healthcare."
-    publishedDateTime: 2023-05-16T22:34:00Z
-    webUrl: "https://medcitynews.com/2023/05/chatgpt-gpt4-burnout-generative-ai-healthcare-workforce-general-catalyst-andreessen-horowitz/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 47
-    images:
-      - url: "https://medcitynews.com/uploads/2023/03/GettyImages-1465456623.jpg"
-        width: 724
-        height: 483
-        isCached: true
   - title: "Fear the fire or harness the flame: The future of generative AI"
     excerpt: "AI may be more advanced than we think. We must harness its benefits while mitigating the dangers through standards and common sense."
     publishedDateTime: 2023-05-20T13:39:00Z

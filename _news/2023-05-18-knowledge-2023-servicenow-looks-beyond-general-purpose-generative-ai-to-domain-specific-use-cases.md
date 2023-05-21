@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 599
         isCached: true
-  - title: "Knowledge 2023 - ServiceNow pitches the ‘exponential enterprise’ as it announces ERP workflows and generative AI tools"
-    excerpt: "ServiceNow pitches the ‘exponential enterprise’ as it announces ERP workflows and generative AI tools Some 15,000 attendees descended on Las Vegas this week for ServiceNow’s annual user event, Knowledge,"
-    publishedDateTime: 2023-05-16T20:44:00Z
-    webUrl: "https://diginomica.com/knowledge-2023-servicenow-pitches-exponential-enterprise-it-announces-erp-workflows-and-generative"
-    ampWebUrl: "https://diginomica.com/knowledge-2023-servicenow-pitches-exponential-enterprise-it-announces-erp-workflows-and-generative?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/knowledge-2023-servicenow-pitches-exponential-enterprise-it-announces-erp-workflows-and-generative?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 35
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-05/928E053D-C767-4B3F-9A73-B48F5CE5CC5B.jpeg"
-        width: 4000
-        height: 3000
-        isCached: true
   - title: "CLM Provider Evisort Announces Generative AI Integration, Partners With ServiceNow"
     excerpt: "After joining the lineup of CLM companies leveraging generative AI solutions, Evisort also announced that it would be partnering with ServiceNow to offer its contracting capabilities to the organization's customer base."
     publishedDateTime: 2023-05-17T21:07:00Z

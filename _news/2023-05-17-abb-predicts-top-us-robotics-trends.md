@@ -7,7 +7,7 @@ originalUrl: "https://www.manufacturing.net/operations/news/22862117/abb-predict
 webUrl: "https://www.manufacturing.net/operations/news/22862117/abb-predicts-top-us-robotics-trends"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "ABB: Top US robotics trends"
-    excerpt: "John Bubnikovich, ABB US Robotics Division President, is making several predictions on key trends in robotics automation in the US for 2023 and beyond."
-    publishedDateTime: 2023-05-16T20:57:00Z
-    webUrl: "https://www.roboticsbusinessreview.com/news/abb-top-us-robotics-trends/"
-    type: article
-    provider:
-      name: Robotics
-      domain: roboticsbusinessreview.com
-    quality: 54
-    images:
-      - url: "https://www.roboticsbusinessreview.com/wp-content/uploads/2023/05/SWIFTI-CRB-1300-Machine-Tending-featured.jpg"
-        width: 770
-        height: 500
-        isCached: true
 
 secured: "kd8BmYCZjVgBwm53rIAEfZva/IInOxfDsOwA+7r5RxLqeHawFCyKIpF2f/ggoySflPDWLH7oDYM8of7d9MmC8M/PH7tc8b04F140bdCrPKAhAx3yli8Q3D85dOhd7+5PHOyeWBqsuZjXsORHUMLRoNa0ipr8QQaO/Esd40jcL+ZPtg8KGNblw5zXWC3T4K5iAMKlvmOtFwdP1l2mNTs7Tz38s0yedI+CjcU+NvG/trgMY3+dScbjhnME3dD5F0+CqhRQJAh/Hg/aC39a2UbncADkHSElRIilD0gvvtECrkcwCXO9rOggFrM+haBCgN8y135Zrc0zVLVy36beFxDzYr3K6Vy0hAlJuB/cisdE01oHAKDZ87DRe1KadxCJN1mQ+9tNlgEGJuSf5Fzmv3r3GKl5lYrcQZkLAsXK4PtRtozlXVnYsy4M7oqXmTrw3xSk1ilSpd0DaSMgkFTqOO939896ORsdYG+pKTivvNgiHe8B/mG3sdMagm2pgXyk8V6ne65FH/xUYVrBAkuxx6aqkg==;lYkL+zLJ9vl4+/jhRcKRig=="
 ---

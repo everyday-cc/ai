@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Pecan AI Broadens Platform and Fast Predictive Modeling for All Data Professionals"
+    excerpt: "Pecan AI, the leader in AI-based predictive analytics, today announced that it has opened its predictive analytics platform to all users."
+    publishedDateTime: 2023-05-21T11:27:00Z
+    webUrl: "https://enterprisetalk.com/news/pecan-ai-broadens-platform-and-fast-predictive-modeling-for-all-data-professionals/"
+    ampWebUrl: "https://enterprisetalk.com/news/pecan-ai-broadens-platform-and-fast-predictive-modeling-for-all-data-professionals/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/pecan-ai-broadens-platform-and-fast-predictive-modeling-for-all-data-professionals/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 53
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/Pecan-AI-Broadens-Platform-and-Fast-Predictive-Modeling-for-All-Data-Professionals.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Pecan AI Opens Platform and Fast Predictive Modeling for All Data Professionals"
     excerpt: "Platform now open to all users for free trials of fast, easy-to-use predictive modeling, accessible to all business teams Pecan AI, the leader in AI-based predictive analytics for BI analysts and business teams,"
     publishedDateTime: 2023-05-17T17:35:00Z

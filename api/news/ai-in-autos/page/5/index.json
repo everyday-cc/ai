@@ -2,6 +2,93 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-04-18-baidu-rises-as-it-unveils-new-advanced-driving-updates.md",
+      "title": "Baidu rises as it unveils new advanced driving updates",
+      "excerpt": "Never miss a trade again with the fastest news alerts in the world! This headline only article is a sample of real-time intelligence Benzinga Pro traders use to win in the markets everyday. Want ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/content/seekingalpha-com/23/04/31835666/baidu-rises-as-it-unveils-new-advanced-driving-updates",
+      "originalUrl": "https://www.benzinga.com/content/seekingalpha-com/23/04/31835666/baidu-rises-as-it-unveils-new-advanced-driving-updates",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-fears-of-artificial-intelligence-overblown.md",
+      "title": "Fears of artificial intelligence overblown",
+      "excerpt": "While AI is still a developing technology and not without its limitations, a robotic world domination is far from something we need to fear.",
+      "sourceUrl": null,
+      "webUrl": "https://independentaustralia.net/business/business-display/fear-of-artificial-intelligence-overblown,17432",
+      "originalUrl": "https://independentaustralia.net/business/business-display/fear-of-artificial-intelligence-overblown,17432",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://independentaustralia.net/_lib/slir/w800/i/article/img/article-17432-hero.jpg",
+          "width": 650,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "independentaustralia.net",
+        "domain": "independentaustralia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-ai-anxiety-the-workers-who-fear-losing-their-jobs-to-artificial-intelligence.md",
       "title": "AI anxiety: The workers who fear losing their jobs to artificial intelligence",
       "excerpt": "Many workers worry AI is coming for their jobs. Can we get past the fear and find a silver lining? Claire has worked as a PR at a major consulting firm, based in London, for six years. The 34-year-old enjoys her job and earns a comfortable salary,",
@@ -1228,92 +1315,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-ahlenius-where-will-ai-impact-our-jobs-most.md",
-      "title": "AHLENIUS: Where will AI impact our jobs most?",
-      "excerpt": "The first phases of AI have yet to move the needle in labor market performance, such as labor productivity or manufacturing productivity growth. In addition, it is hard to aggregate productivity numbers and productivity gains with internet applications like GPS navigation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.beaumontenterprise.com/business/article/ai-impact-jobs-most-17884647.php",
-      "originalUrl": "https://www.beaumontenterprise.com/business/article/ai-impact-jobs-most-17884647.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/30/33/36/23181207/5/rawImage.jpg",
-          "width": 1573,
-          "height": 2048,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-10T20:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Beaumont Enterprise",
-        "domain": "beaumontenterprise.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-11-china-speeds-up-digital-green-transformation-in-coal-industry.md",
-      "title": "China speeds up digital, green transformation in coal industry",
-      "excerpt": "Riding on a driverless, rubber-tired vehicle to the coalface at a depth of 150 meters has become part of the daily routine for miners in Shangwan",
-      "sourceUrl": null,
-      "webUrl": "https://www.macaubusiness.com/china-speeds-up-digital-green-transformation-in-coal-industry/",
-      "originalUrl": "https://www.macaubusiness.com/china-speeds-up-digital-green-transformation-in-coal-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/10/MB-Still-Pop-up-Banner-800x480px.jpg",
-          "width": 800,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-10T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macau Business",
-        "domain": "macaubusiness.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

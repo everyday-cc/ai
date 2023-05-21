@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-21-a-young-billionaire-buys-forbes-a-startup-offers-free-tvs-and-chatgpt-goes-mobile.md",
+      "title": "A young billionaire buys Forbes, a startup offers free TVs and ChatGPT goes mobile",
+      "excerpt": "In this week's edition of Week in Review, we cover the new ChatGPT mobile app, a startup building humanoid robots and free TVs -- with ads.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/20/a-young-billionaire-buys-forbes-a-startup-offers-free-tvs-and-chatgpt-goes-mobile/",
+      "originalUrl": "https://techcrunch.com/2023/05/20/a-young-billionaire-buys-forbes-a-startup-offers-free-tvs-and-chatgpt-goes-mobile/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/venture-economic-warfare.jpg?resize=1200,645",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/20/a-young-billionaire-buys-forbes-a-startup-offers-free-tvs-and-chatgpt-goes-mobile/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/20/a-young-billionaire-buys-forbes-a-startup-offers-free-tvs-and-chatgpt-goes-mobile/amp/",
+      "publishedDateTime": "2023-05-21T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-21-pecan-ai-broadens-platform-and-fast-predictive-modeling-for-all-data-professionals.md",
+      "title": "Pecan AI Broadens Platform and Fast Predictive Modeling for All Data Professionals",
+      "excerpt": "Pecan AI, the leader in AI-based predictive analytics, today announced that it has opened its predictive analytics platform to all users.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/pecan-ai-broadens-platform-and-fast-predictive-modeling-for-all-data-professionals/",
+      "originalUrl": "https://enterprisetalk.com/news/pecan-ai-broadens-platform-and-fast-predictive-modeling-for-all-data-professionals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2023/05/Pecan-AI-Broadens-Platform-and-Fast-Predictive-Modeling-for-All-Data-Professionals.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/pecan-ai-broadens-platform-and-fast-predictive-modeling-for-all-data-professionals/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/pecan-ai-broadens-platform-and-fast-predictive-modeling-for-all-data-professionals/amp/",
+      "publishedDateTime": "2023-05-21T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-21-generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law.md",
       "title": "Generative AI That’s Based On The Murky Devious Dark Web Might Ironically Be The Best Thing Ever, Says AI Ethics And AI Law",
       "excerpt": "Generative AI That’s Based On The Murky Devious Dark Web Might Ironically Be The Best Thing Ever, Says AI Ethics And AI Law",
@@ -311,7 +405,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -713,7 +807,7 @@
       "originalUrl": "https://www.reuters.com/markets/us/wall-st-week-ahead-artificial-intelligence-gives-real-boost-us-stock-market-2023-05-19/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1156,108 +1250,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-apple-is-on-the-hunt-for-generative-ai-talent.md",
-      "title": "Apple is on the hunt for generative AI talent",
-      "excerpt": "Apple currently has a dozen of job postings on its career page to look for experts in the field of generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/",
-      "originalUrl": "https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1247232650.jpg?resize=1200,700",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/apple-generative-ai-jobs/amp/",
-      "publishedDateTime": "2023-05-19T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-artists-deserve-fairness-and-control-over-ai-use-says-soundexchange-ceo.md",
-      "title": "Artists deserve “fairness and control” over AI use, says SoundExchange CEO",
-      "excerpt": "Michael Huppe, CEO of SoundExchange, speaks out about OpenAI CEO Sam Altman's Senate testimony about AI regulation earlier this week.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/artists-deserve-fairness-and-control-over-ai-use-says-soundexchange-ceo/",
-      "originalUrl": "https://venturebeat.com/ai/artists-deserve-fairness-and-control-over-ai-use-says-soundexchange-ceo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Michael-Huppe-Headshot18-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/artists-deserve-fairness-and-control-over-ai-use-says-soundexchange-ceo/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/artists-deserve-fairness-and-control-over-ai-use-says-soundexchange-ceo/amp/",
-      "publishedDateTime": "2023-05-19T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

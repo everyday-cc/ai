@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-19-apple-is-on-the-hunt-for-generative-ai-talent.md",
+      "title": "Apple is on the hunt for generative AI talent",
+      "excerpt": "Apple currently has a dozen of job postings on its career page to look for experts in the field of generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/",
+      "originalUrl": "https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1247232650.jpg?resize=1200,700",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/apple-generative-ai-jobs/amp/",
+      "publishedDateTime": "2023-05-19T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-artists-deserve-fairness-and-control-over-ai-use-says-soundexchange-ceo.md",
+      "title": "Artists deserve “fairness and control” over AI use, says SoundExchange CEO",
+      "excerpt": "Michael Huppe, CEO of SoundExchange, speaks out about OpenAI CEO Sam Altman's Senate testimony about AI regulation earlier this week.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/artists-deserve-fairness-and-control-over-ai-use-says-soundexchange-ceo/",
+      "originalUrl": "https://venturebeat.com/ai/artists-deserve-fairness-and-control-over-ai-use-says-soundexchange-ceo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Michael-Huppe-Headshot18-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/artists-deserve-fairness-and-control-over-ai-use-says-soundexchange-ceo/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/artists-deserve-fairness-and-control-over-ai-use-says-soundexchange-ceo/amp/",
+      "publishedDateTime": "2023-05-19T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-19-china-is-ramping-up-efforts-to-drive-ai-development.md",
       "title": "China is ramping up efforts to drive AI development",
       "excerpt": "Tagging artificial intelligence as an important focus for the country, the Chinese government plans to step up efforts in research and development, including the establishment of regional AI industrial hubs.",
@@ -450,7 +552,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2023/05/19/machine-learning-creates-new-technologies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1095,101 +1197,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-ibm-named-a-leader-in-the-latest-forrester-wave-report-for-ai-decisioning.md",
-      "title": "IBM named a Leader in the latest Forrester Wave™ report for AI Decisioning",
-      "excerpt": "Forrester Research just released the latest Forrester Wave™ report, and IBM is proud to be recognized as a Leader. \nThe post IBM named a Leader in the latest Forrester Wave™ report for AI Decisioning appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-the-latest-forrester-wave-report-for-ai-decisioning/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-the-latest-forrester-wave-report-for-ai-decisioning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T11:25:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-worlds-first-100-ai-controlled-and-executed-house-purchase-processed-by-morgan.md",
-      "title": "World's First 100% AI-Controlled and Executed House Purchase Processed by MORGAN",
-      "excerpt": "From home finding to mortgage application to ownership, the homeowner's personal AI assistant is making home buying easier using Celligence",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/world-s-first-100-ai-controlled-and-executed-house-purchase-processed-by-morgan-1032338191",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/world-s-first-100-ai-controlled-and-executed-house-purchase-processed-by-morgan-1032338191",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.accesswire.com/users/newswire/images/755900/1487acf2f0fc70a46e1a65320d42.jpg",
-          "width": 697,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

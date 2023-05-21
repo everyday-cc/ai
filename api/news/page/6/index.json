@@ -2,6 +2,152 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-05-17-dataai-mobile-game-app-revenue-split-evenly-between-ads-iap.md",
+      "title": "Data.ai: Mobile game app revenue split evenly between ads, IAP",
+      "excerpt": "Data.ai's total app revenue metric shows monetization trends for games and other apps. Mobile game spend is split between ad spend and IAP.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/dataai-total-app-revenue-mobile-games-in-app-ad-spend/",
+      "originalUrl": "https://venturebeat.com/games/dataai-total-app-revenue-mobile-games-in-app-ad-spend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Data-AI-Ad-revenue-in-app-puchase-trends-2022.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/dataai-total-app-revenue-mobile-games-in-app-ad-spend/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/dataai-total-app-revenue-mobile-games-in-app-ad-spend/amp/",
+      "publishedDateTime": "2023-05-16T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-kustomer-the-crm-startup-acquired-by-meta-last-year-for-1b-spins-out-on-a-250m-valuation.md",
+      "title": "Kustomer, the CRM startup acquired by Meta last year for $1B, spins out on a $250M valuation",
+      "excerpt": "Meta's intention to divest itself of Kustomer was first reported in March, amid a bigger cost-cutting and restructuring effort at the company.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/16/kustomer-meta-spin-out/",
+      "originalUrl": "https://techcrunch.com/2023/05/16/kustomer-meta-spin-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-twist.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/16/kustomer-meta-spin-out/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/16/kustomer-meta-spin-out/amp/",
+      "publishedDateTime": "2023-05-16T16:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-microsoft-ceo-speaks-on-the-future-of-artificial-intelligence.md",
+      "title": "Microsoft CEO speaks on the future of artificial intelligence",
+      "excerpt": "The CEO of OpenAI, the company responsible for ChatGPT, called on Congress today to regulate artificial intelligence. CNBC’s Andrew Ross Sorkin sat down with Microsoft’s CEO Satya Nadella to talk about both the concerns and benefits after his company invested billions in OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/microsoft-ceo-speaks-on-the-future-of-artificial-intelligence-174560325527",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/microsoft-ceo-speaks-on-the-future-of-artificial-intelligence-174560325527",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684278439038_nn_aso_hill_hearings_satya_nadella_exclusive_230516_1920x1080-e9hhf5.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174560325527",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174560325527",
+      "publishedDateTime": "2023-05-16T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-personal-crm-app-clay-adds-an-ai-helper-to-help-you-navigate-your-relationships.md",
       "title": "Personal CRM app Clay adds an AI helper to help you navigate your relationships",
       "excerpt": "The app is popular among many industries, ranging from MBA students to those who have expansive networks, like VCs.",
@@ -239,6 +385,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-chatgpt-chief-says-ai-should-be-regulated-china-ready-to-smash-taiwan-self-rule-76ers-fire-coach-doc-rivers-top-headlines-for-may-16-.md",
+      "title": "ChatGPT chief says AI should be regulated; China ready to 'smash' Taiwan self-rule; 76ers fire coach Doc Rivers | Top headlines for May 16 & 17, 2023",
+      "excerpt": "On the version of Hot off the Wire posted May 16 at 4 p.m. CT: OpenAI CEO Sam Altman, the head of the artificial intelligence company that makes ChatGPT, told",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/audio_45629a65-9fdf-5b61-8df4-4ccc518beddb.html",
+      "originalUrl": "https://www.stltoday.com/audio_45629a65-9fdf-5b61-8df4-4ccc518beddb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1018,196 +1198,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-these-4-popular-microsoft-apps-are-getting-a-big-ai-boost.md",
-      "title": "These 4 popular Microsoft apps are getting a big AI boost",
-      "excerpt": "Swiftkey, Microsoft's virtual keyboard app that allows you to access Bing Chat across different apps, is getting a monumental boost.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/",
-      "originalUrl": "https://www.zdnet.com/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 316,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b2cb30563f660d5191369ced51bf355a07f5bcaf/2023/05/16/f302e472-37a2-411d-8228-8b582e4c1d81/image-11.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/",
-      "publishedDateTime": "2023-05-16T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down.md",
-      "title": "Tesla’s “Full Self-Driving” sees pedestrian, chooses not to slow down",
-      "excerpt": "But alarmingly, a video posted to Twitter over the weekend shows that although the Tesla system can see pedestrians crossing the road, a Tesla can choose not to stop or even slow down as it drives past.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/",
-      "originalUrl": "https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/FSD-screenshot-800x452.jpg",
-          "width": 800,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/amp/",
-      "publishedDateTime": "2023-05-16T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-cheat-sheets-for-ai-information-overload.md",
-      "title": "Cheat Sheets For AI Information Overload",
-      "excerpt": "There is now a firehose stream of AI-related information published each day, and it is getting harder to keep up with what's happening in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/",
-      "originalUrl": "https://www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646272cf4f56e282d1dd3ffb/0x0.jpg?format=jpg&width=1200",
-          "width": 887,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/amp/",
-      "publishedDateTime": "2023-05-16T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-ai-demand-triggers-gpu-shortage-and-unusual-big-tech-alliances.md",
-      "title": "AI Demand Triggers GPU Shortage and Unusual Big Tech Alliances",
-      "excerpt": "When our analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* They just revealed what ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ai-demand-triggers-gpu-shortage-and-unusual-big-tech-alliances?time=1684233000",
-      "originalUrl": "https://www.nasdaq.com/articles/ai-demand-triggers-gpu-shortage-and-unusual-big-tech-alliances?time=1684233000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

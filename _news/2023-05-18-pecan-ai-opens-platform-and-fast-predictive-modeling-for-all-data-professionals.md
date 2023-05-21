@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32451257"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32451257"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Pecan AI Broadens Platform and Fast Predictive Modeling for All Data Professionals"
+    excerpt: "Pecan AI, the leader in AI-based predictive analytics, today announced that it has opened its predictive analytics platform to all users."
+    publishedDateTime: 2023-05-21T11:27:00Z
+    webUrl: "https://enterprisetalk.com/news/pecan-ai-broadens-platform-and-fast-predictive-modeling-for-all-data-professionals/"
+    ampWebUrl: "https://enterprisetalk.com/news/pecan-ai-broadens-platform-and-fast-predictive-modeling-for-all-data-professionals/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/pecan-ai-broadens-platform-and-fast-predictive-modeling-for-all-data-professionals/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 53
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/Pecan-AI-Broadens-Platform-and-Fast-Predictive-Modeling-for-All-Data-Professionals.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Pecan AI Opens Platform and Fast Predictive Modeling for All Data Professionals"
     excerpt: "Data analysts and other data professionals can dive right in and quickly build their own predictive models without the assistance of data scientists — a critical step toward making data science available for all business teams."
     publishedDateTime: 2023-05-18T18:25:00Z
