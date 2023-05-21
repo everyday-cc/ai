@@ -45,6 +45,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "GIGABYTE to Introduce Leading-Edge AI Solutions and Computers at COMPUTEX 2023, Unveiling “Future of COMPUTING”"
+    excerpt: "Take the Lead in the AI Era with GIGABYTE’s Trailblazing GPU/HPC Servers The emergence of ChatGPT and various generative AI applications are making huge waves of industry evolution, driving all-time demand for AI computing servers. At COMPUTEX ..."
+    publishedDateTime: 2023-05-17T03:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230516005112/en/GIGABYTE-to-Introduce-Leading-Edge-AI-Solutions-and-Computers-at-COMPUTEX-2023-Unveiling-“Future-of-COMPUTING”"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 0
 
 secured: "Uebc/P2LcVJGkOLat67PIwxNY0q1FS4mu4KMh5v3hwgzoifXC0fEa0S9mxFDauemUt4HgjqUYZce2dHu8A9AGmZvdYZq+i+9z6hbwtZe/MzIC7v/XV58byBBlcmJQ4F703218Qc5VWHoXbPOxusm9klzkMHoz71Kp2vSdSWGCRPuPMTDlg0wVD0bhCRd5vf4PFYN46A1YmnRGO1PZX6fElPh05tIlCRGXn7G4q9VgM4GVjTjh2/AnXjxV13h9eRMEYrHjQKeRbXVvmKjWHf8Pt9Q6fOjHSKUmqnagCjXVR3oLZFSmRi8NTDT12q9GfgS3fmoP1jfINbxhcUl+K8XNFQZYFCxZlJ6sNOKxky7rpJ7kF8gUeox4ooCcmMqD/jjKiEOq91d/fBtkpQFhC7QYK8eG6zZouGB4/nfUqZH+MA0QIzd8YGChAD1Gmt30oy/2pn/NQQVh4mgRCRQBo661tDDkfyURBOT0vc6l/er8wD2lzaomiHXlj2muQKzGyTCXN2mUJ8gyzmEzdiVRaoZdQ==;jIvZ5B1z/1j8HUxUq3fpOg=="
 ---

@@ -30,53 +30,49 @@ images:
     isCached: true
 
 related:
-  - title: "SAP Develops AI-Driven Skills For Workforce Processes"
-    excerpt: "Embedding generative AI and chatbots into SAP is all about increasing the productivity of all users and opening up new workplace innovations says SAP CEO Christian Klein."
-    publishedDateTime: 2023-05-16T15:43:00Z
-    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/05/16/sap-develops-ai-driven-skills-for-workforce-processes/"
-    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/05/16/sap-develops-ai-driven-skills-for-workforce-processes/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/05/16/sap-develops-ai-driven-skills-for-workforce-processes/amp/"
+  - title: "Meta and Google news adds fuel to the open-source AI fire"
+    excerpt: "The open-source AI debate is getting even hotter in Big Tech, thanks to recent headlines from Google and Meta's Yann LeCun."
+    publishedDateTime: 2023-05-18T16:54:00Z
+    webUrl: "https://venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/"
+    ampWebUrl: "https://venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6463a2c2725d839f05c2ff1c/0x0.jpg?format=jpg&width=1200"
-        width: 640
-        height: 403
-        isCached: true
-  - title: "AI Will Have The Most Negative Impact On Emerging Workforces"
-    excerpt: "AI has been around for a while, as have its many dangers. In ‘The Levelling’ we wrote about how algorithms were both causing and provoking inequalities and social injustice. Last summer we flagged the very sinister example of how the Spiez Laboratory in Switzerland (see the Final Problem) one of whose specialisations is the study of deadly toxins and infectious diseases (located not too far away from the Reichenbach Falls),"
-    publishedDateTime: 2023-05-20T09:19:00Z
-    webUrl: "https://www.forbes.com/sites/mikeosullivan/2023/05/20/ai-will-have-the-most-negative-impact-on-emerging-workforces/"
-    ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/05/20/ai-will-have-the-most-negative-impact-on-emerging-workforces/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/05/20/ai-will-have-the-most-negative-impact-on-emerging-workforces/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64688f919388e7fff92e9948/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "China is ramping up efforts to drive AI development"
-    excerpt: "Tagging artificial intelligence as an important focus for the country, the Chinese government plans to step up efforts in research and development, including the establishment of regional AI industrial hubs."
-    publishedDateTime: 2023-05-19T14:27:00Z
-    webUrl: "https://www.zdnet.com/article/china-is-ramping-up-efforts-to-drive-ai-development/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/china-is-ramping-up-efforts-to-drive-ai-development/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-is-ramping-up-efforts-to-drive-ai-development/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/f3aece405a9b8b745b147b29ab5e92e4c58801c4/2023/05/19/ec3c66b3-fdd5-49c1-b530-039359f1add7/gettyimages-1250716865.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-70.png?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 750
+        isCached: true
+  - title: "The Optimist’s Guide to Artificial Intelligence and Work"
+    excerpt: "Companies like IBM and the British telecommunications company BT have cited artificial intelligence as a reason for reducing head count, and new tools like ChatGPT and DALL-E make it possible for anyone to understand the extraordinary abilities of artificial intelligence for themselves."
+    publishedDateTime: 2023-05-20T12:01:00Z
+    webUrl: "https://www.nytimes.com/2023/05/20/business/dealbook/the-optimists-guide-to-artificial-intelligence-and-work.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 69
+    images:
+      - url: "https://static01.nyt.com/images/2023/05/20/business/20DB-AI/20DB-AI-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "We Put Google’s New AI Writing Assistant to the Test"
+    excerpt: "I used Duet AI to send emails and plan my wedding. Its writing can be stuffy and stereotyping—but it’s a glimpse of the future of productivity apps."
+    publishedDateTime: 2023-05-20T10:00:00Z
+    webUrl: "https://www.wired.com/story/googles-duet-ai-writing-assistant-review-test/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/6467cb66f2de86183cf5b3b2/191:100/w_1280,c_limit/Google-Duet-Hands-On-Business-Business-1468320082.jpg"
+        width: 1280
+        height: 670
         isCached: true
 
 secured: "Pplt3ij5Hb0V8aL9rAc50YsCPiNctH2GcIPnqiRONE4WN3h3E0b0OH86qKPwMTQIjbORV8i083FMn/NUR3IuHe431WcISDh7IoHbzIWppF1OexEeHT3juhG62ZneMnkfT1o+LsUCOaKc6CLlFKjDlxSRuXOeHEesifUrT/ZY95UX0lXtEbSzfIEG2ygljujCYaxkkAWVU60iJns15/F4vWwO14DxrXI8553pK5IHCxVeX7t3vPCqAow224sothLwOsNq5Ro3pQUv42+aI8SEO6zRf09NNHDSRWrOTl7104LkA74S2cRG+7Ij0Hl3iDNCddvveEcQD+E3Bd5yhRZmrUSuSlzN0NHKsfEbKHxA9Pz4V1G5jqMzP1MikFLe1ZTtBxx5WDOZyPSaNFKIRQN0JA00W+k7TRW2350WNC93rZZYj6/xTaw7FxtQdfe53nkGkB58s9Uw2IfllpqHP1tgrsTCclJfXoINQM6rMQYm9K4NgNWlM+/Im22pnCil73sOiQMnKBGwYl6+/UwrnIWmyw==;uCXCb4QCEWawj1mgQmHQTg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/ai-driven-personalization-at-scale-the-ke
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-driven-personalization-at-scale-the-key-to-boosting-fintech-customer-engagement-and-revenue/amp/"
 type: article
 quality: 77
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Prepare training and validation dataset for facies classification using Snowflake integration and train using Amazon SageMaker Canvas"
+    excerpt: "This post is co-written with Thatcher Thornberry from bpx energy.&nbsp; Facies classification is the process of segmenting lithologic formations from geologic data at the wellbore location. During drilling, wireline logs are obtained, which have depth-dependent geologic information. Geologists are deployed"
+    publishedDateTime: 2023-05-17T18:57:32Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-training-and-validation-dataset-for-facies-classification-using-snowflake-integration-and-train-using-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 53
   - title: "Climate Fintech: The Key to Unlocking Wider Climate Tech Solutions"
     excerpt: "Even with challenges such as a lack of standardised ESG reporting, limited access to quality climate risk data, and regulatory hurdles likely to slow down the adoption of new technologies, climate fintech has the potential to transform the entire climate tech sector and be an integral part of the solution to combat climate change."
     publishedDateTime: 2023-05-19T14:45:00Z

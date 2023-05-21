@@ -3,16 +3,16 @@ category: news
 title: "World’s First 100% AI-Controlled and Executed House Purchase Processed by MORGAN"
 excerpt: "From home finding to mortgage application to ownership, the homeowner’s personal AI assistant is making home buying easier using Celligence technology."
 publishedDateTime: 2023-05-18T16:05:00Z
-originalUrl: "https://www.sacbee.com/press-releases/article275552816.html"
-webUrl: "https://www.sacbee.com/press-releases/article275552816.html"
+originalUrl: "https://www.kansascity.com/press-releases/article275552816.html"
+webUrl: "https://www.kansascity.com/press-releases/article275552816.html"
 type: article
 quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Kansas City Star
+  domain: kansascity.com
 
 topics:
   - AI in Finance
@@ -48,6 +48,6 @@ related:
         height: 450
         isCached: true
 
-secured: "+Eo3mFIWGwAC+UefyFKBGqJQvIzKwoieWran2a1QTba1BLfo1xowlgylBl10hx8cMy6HIivjKJLRUzC0GjpcMwWsl9WvDpblLJPCQIKvMNn56YYOx8eotRHUV7O71xKnpHuX/hG+cxB29EM6gpnviIFonNZEwbvY35Ugd4rqk39BPJRApduNhEsrWOBdccT1jfde2ujMz4UIYp3DTIZuVwxB1wSsREi544AYuDiAZ30cM0G0YxkTM9ZjMk0DY5LmVlpS7FufMW3HkYG0gfoHZ7XtWjF9wG+dRJO2oGO8n7mDqrnRlyMNHsXtQEy0OeOqO/batFxCLPlyeZ4NLAbZ+G3BlM75jTtrDdFwKaM17op8eWz0jKHQuNL8Ygk314bAVfC08ju4BbDkUFqc9ave2AmOj81jT7SeFXgodS3dYMIZqnbH/XBNaw/KnLSi33Fu4seJe8+l8xWp4QOFurJqxqslN0Mq88tgUYO7fSK//7CZCqKTh52W8Oqi+YV6/6H8nTD5BEEWM1MAt4sEl4Z5zQ==;yDWlGiVyu8adHczxTTvFQw=="
+secured: "QEEsAD88A+4fIwUnC3FHCQgi/rgnOwbLT0/dhCbwRBlxdtGNT9IYlOu4VtwxhHO6BNeAQucNdYA+hJ7M+WILGNtcLfB7gVIYP9XG3Pd1SulPqszFTmMlPd/mx0xID6z74HeLifDlDYZ4QzXUdBfGRWY8UjKisXjI9UwmL45nJePNyn5kAD/yM+UfGL1CU9XQggGA9hOHuaWLzMPn17v1bX/pkghpXa99qPlF/dGjMmx85Cyjw/je1NplwzBtvnekj3eNYm5hfuHBf3Mm2sJ+mHoDZz78+brDBH5onKhtClLGfbDQDUg7wK0f/EvQI170muPMANokMcGdRzPFLUq2ybyGSNie87Rhe8lgnYN/5XT+wBxMhJLkFU1SPqZGGJ65cEsg0NmUZ0IzZOd5pYpwXw+NTt+dQawwzEG9zOs33zb7muZLTz87O/eABIbQ0xt8V5m8b+MC2mPw7BLFMh22Zp6D3+FVEyhLGRpR1c+hXyj1t5eDPEpjtbIUIraODZCDezRT1qSxqjmmowKf3PcslQ==;xRmZ6qBlqicUzOoQkhHPnA=="
 ---
 

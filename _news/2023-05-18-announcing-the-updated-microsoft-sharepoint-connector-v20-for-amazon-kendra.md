@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-the-updat
 webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-the-updated-microsoft-sharepoint-connector-v2-0-for-amazon-kendra/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1068
     height: 535
     isCached: true
+
+related:
+  - title: "Microsoft announces four new languages added to Microsoft Translator"
+    excerpt: "Microsoft India announced that it had added four new languages - Konkani, Maithili, Sindhi, and Sinhala - to its Microsoft Translator platform."
+    publishedDateTime: 2023-05-18T10:32:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-announces-four-new-languages-added-microsoft-translator/article66865673.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-announces-four-new-languages-added-microsoft-translator/article66865673.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-announces-four-new-languages-added-microsoft-translator/article66865673.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th-i.thgim.com/public/sci-tech/technology/h9z0z/article38412180.ece/alternates/FREE_1200/microsoftnewrulesjpg"
+        width: 1200
+        height: 780
+        isCached: true
 
 secured: "e0J1m1BX5D2KbHzbbO7uPMoWE3+UkXEO1ZDlSANTvNmaLtOOqYTkmFDYNEinpPAIxKrk29rg+A6jiE5+78eaW5rK7zOxwevA7WffKokaS9fNdwyyCk+6tyP5bkWmR3Qk7hZguGBQMTrVHh1aUxPCWJgjxqNFdCVv4AqUVj7EK8ASJQBFWxqNblRYGPfFWaLGjycyDIi5GDhfJSYB691KbVauRJuzCz2CVPQx2O7I4Vtn7K7H7fJITg6bjO1SWbrCijEUuWGW5qpr8yeruUu4j5wDvUhQR/rTJn4gt7a4NX5qiyOGVL8kXpdPpcjW59LMDWrTj2Wa9a9peDSRh06qJYijYV8jEI/dn6jkgysQcIE=;zZVPMsdVLujOACTl0oTJeQ=="
 ---

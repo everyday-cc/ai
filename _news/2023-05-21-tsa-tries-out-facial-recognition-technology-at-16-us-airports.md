@@ -108,20 +108,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Las Vegas airport among sites testing TSA facial recognition technology, raising privacy concerns"
-    excerpt: "TSA says the pilot is voluntary and accurate, but critics have raised concerns about questions of bias in facial recognition technology and possible repercussions for passengers who want to opt out."
-    publishedDateTime: 2023-05-16T15:46:00Z
-    webUrl: "https://www.rgj.com/story/news/2023/05/16/las-vegas-airport-among-ttsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/70223093007/"
-    type: article
-    provider:
-      name: Reno Gazette-Journal
-      domain: rgj.com
-    quality: 41
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/05/16/PREN/08c5e615-7904-4d40-8684-d11579b6c89f-AP23116691290041.jpg?auto=webp&crop=7421,4175,x0,y378&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Police Facial Recognition Technology Can’t Tell Black People Apart"
     excerpt: "This happened three years ago to Robert Williams, a Black father in suburban Detroit. Sadly Williams’ story is not a one-off. In a recent case of mistaken identity, facial recognition technology led to the wrongful arrest of a Black Georgian for purse thefts in Louisiana."
     publishedDateTime: 2023-05-18T14:38:00Z
@@ -169,6 +155,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "5PYZtw2T2mqyZLJ0mPjszXfyuV6yGDtq/8cchDAon19DzWcZAFQVDAv1/UvXPHdmKWtJ1tKsaNYkvSvddgbegpBjxuQ3hEvH3Y+PWJb+efOgv7nFgAxJwQ+cpIBMw+3Ej/yBN/IYC6xUyKdGuQa5IHARMqNO5fz9JNSwuieXYzmKjgWINGiG2dZs3I5LusmuhSB4Ga5YLFhH5a4WB1u3c0Hp5lNqjpqz2rWtNgV3JCHRbPFQSlBiShPHfEkpmL6HwKMlHaI5HjK/hRJCp5scqys7tejDfDFC7PPpnWRfJEIi7YsSaXzavP8m+oZk7gY1ngPy69wSIz/dlMrdgRaxLmFNDd33BkEZ75WBCFjfYD4=;xtFQTnYaXrd0VXdm/qKGsA=="
+secured: "puHZK7xCtEnWCxF16pTwKrXRv0OFKcd/JZ+cg2Ep23unsrBC0xivP5RDJGOpmBory2SLdhLd1bTWr6h9n4WCelU0BVt6PhFYOYzoIuNN9wSg3NHLTy8T/Htz6Rkm/bLNyg1DYOlFraN9eW/Y23yIMfI4ZC6YTu6plOytrzyjkj7HjfNceXetW+0EGuujOY+AmhiEP588fdJ7kABSiLakUGNocl/wkltw4bNiKiVlFoIs25WRvnh8ZJ5a36JJETTfCXBu1XZ6B5aawiRhOD3j54pZe3jzva9K/9n1Ul4HC5/L5ULPmCbMJKq5XsFpYXeCmI8z9ey127nHiujzp+3jtdlHB7HLwompiAOp8hctp4Qifs/pxKQxy+iSVkI01IRx1OsCw6HtEj3Tb+La51ptrdFL7Ys22h81ZIy28zIiBini2Rl9XADiYbpRA++iynt5VtGl/VvOBsKDnJ4Rso386tUZ8MDI9W5adSD1Y90UzqEwel6QbYg1I28J1OH0VF4g11fFuAr45mzzUvLs+y8FHg==;jvEX62L3hxmPYTGsgPQFBA=="
 ---
 

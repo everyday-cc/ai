@@ -43,22 +43,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Nigeria election: Àṣírí àwọn èsì ìdìbò tí wọ́n kọwọ́ bọ̀ lójú rèé"
-    excerpt: "Nigba ti a ṣe ayẹwo aworan to wa lori atẹ Facebook naa pẹlu aworan ti Ariaga nigba to wa ka esi ibo naa, ẹ̀rọ Amazon Rekognition jẹ ko ye wa pe eniyan kan naa ni awọn mejeeji. Dr Ariaga ko fun wa lesi si gbogbo awọn atẹjiṣẹ ta kọ ..."
-    publishedDateTime: 2023-05-16T15:39:00Z
-    webUrl: "https://www.bbc.com/yoruba/afrika-65613862"
-    ampWebUrl: "https://www.bbc.com/yoruba/afrika-65613862.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/yoruba/afrika-65613862.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_yoruba/7854/production/_129440803_tinubu1.png"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "nx6sPxhnGnCBfab8VN7NR1UWJ2+i4mtO6ixaLe6pNneL9wgI4Q3AA+u7Rjy+qdJk8QF0GgXBpm0a3bfPWkM32OUZrlYpeA3qcV+7Io7XigqUWasBXbQYxmr6LbPc9BagMMwGsMCsAQRMPnUELi+yeemBxLVUz1Ch5ivG/9Qx4pV5jYJY1VXc3vxUIdZ8izdq/Mr9EhRCWkheqnGzm+4Y923zj9Hi2vDvv54sBmEq4pP1fzYChB9wMKo5mG4FtnHlu0KLwsx1FUnsFye5BMvDRoSJTMU7NR30lehfdAMkJUZDCfHZt38DgoORREXORF9BO/pMsToglwPk5w0t5JdW8lbdUduLKCmsZl3NinfMygQ=;qL7YnbbYFZBQpTbecC6oTg=="
 ---

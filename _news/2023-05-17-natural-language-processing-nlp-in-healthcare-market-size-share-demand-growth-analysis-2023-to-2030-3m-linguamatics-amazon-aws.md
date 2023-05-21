@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-size-share-demand-growth-analysis-2023-to-2030-3m-linguamatics-amazon-aws-2023-05-17"
 type: article
 quality: 86
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -95,20 +95,6 @@ related:
       - url: "https://menafn.com/updates/pr/2023-05/19/EP_ad739image_story.jpeg"
         width: 738
         height: 386
-        isCached: true
-  - title: "Machine Learning Market Growth, Share, 2023 Global Trends, Opportunities, Future Plans, Competitive Landscape and Size by Forecast 2030"
-    excerpt: "The Global Machine Learning Market is Forecasted to Reach a Multimillion-Dollar Valuation by 2030, Exhibiting an Unexpected CAGR During the Forecast Period of 2023-2030, as Compared to Data from 2018 to 2022.Ask for a Sample Report According to our latest ..."
-    publishedDateTime: 2023-05-16T15:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-growth-share-2023-global-trends-opportunities-future-plans-competitive-landscape-and-size-by-forecast-2030-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "8fwRNVumWhxqMCCUPpJ14rVKOySU2PLFqfGb2KftIt5vgmJ+hsasJfuBWMqoxrzMI+wjirMWwat2RZdpxY5GTW2MMkUKdz9DzTrwBLf7jKM0gSbIR9ofDqqrLojl+IdsibaXy1O32W3NK9IYgddhmQ7mdrCc/TyN3AJ013V7dY1eZSH2+8JVLNJNzqfoNVsjMQX86n6MokY47tZ/V4p3DNYZRSZlcQ4tfJCz5HTqCNHAtW5tSfNzAUwmWfnnxuZzLKX3QXyH1miZvk4bAkPH9fiVhXDXVT5nqem/khtQyqPYjk8vKU0MTK5q6gi8acBP9OjTnKj8b1avqJ9VsIwtxozVwUBdftmrEWhm7qse9/s=;7rqdlsfhEWlrDN7eT78lxA=="

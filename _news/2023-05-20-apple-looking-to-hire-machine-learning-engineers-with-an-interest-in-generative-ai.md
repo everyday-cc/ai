@@ -9,8 +9,8 @@ ampWebUrl: "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-mac
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/"
 type: article
 quality: 68
-heat: 98
-published: true
+heat: -1
+published: false
 
 provider:
   name: AppleInsider
@@ -27,38 +27,24 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Integration In Language Apps For ESL Learning: Tops Apps AI Releases Report"
-    excerpt: "Top Apps AI is announcing a comprehensive report on the potential of integrating AI technology into educational"
-    publishedDateTime: 2023-05-17T03:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-integration-in-language-apps-for-esl-learning-tops-apps-ai-releases-report-2023-05-16"
+  - title: "Introducing an image-to-speech Generative AI application using Amazon SageMaker and Hugging Face"
+    excerpt: "Vision loss comes in various forms. For some, it’s from birth, for others, it’s a slow descent over time which comes with many expiration dates: The day you can’t see pictures, recognize yourself, or loved ones faces or even read your mail. In our previous blogpost Enable the Visually Impaired to Hear"
+    publishedDateTime: 2023-05-19T18:11:25Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-an-image-to-speech-generative-ai-application-using-amazon-sagemaker-and-hugging-face/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Stop Serving Dogfood, Invest In Generative Artificial Intelligence With Purpose"
-    excerpt: "Don't fall prey to the trends, make sure your generative artificial intelligence investments are meaningful to your customers before launching dogfood to your users."
-    publishedDateTime: 2023-05-18T13:29:00Z
-    webUrl: "https://www.forbes.com/sites/joetoscano1/2023/05/18/stop-serving-dogfood-invest-in-generative-artificial-intelligence-with-purpose/"
+      name: AWS
+      domain: aws.amazon.com
+    quality: 71
+  - title: "Build a serverless meeting summarization backend with large language models on Amazon SageMaker JumpStart"
+    excerpt: "AWS delivers services that meet customers’ artificial intelligence (AI) and machine learning (ML) needs with services ranging from custom hardware like AWS Trainium and AWS Inferentia to generative AI foundation models (FMs) on Amazon Bedrock. In February 2022, AWS and Hugging Face announced a collaboration"
+    publishedDateTime: 2023-05-17T19:04:06Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-meeting-summarization-backend-with-large-language-models-on-amazon-sagemaker-jumpstart/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 43
-  - title: "Using AI to find rare minerals"
-    excerpt: "A machine learning model can predict the locations of minerals on Earth—and potentially other planets—by taking advantage of patterns in mineral associations. Science and industry seek mineral deposits to both better understand the history of our planet and to extract for use in technologies like rechargeable batteries."
-    publishedDateTime: 2023-05-17T18:07:00Z
-    webUrl: "https://phys.org/news/2023-05-ai-rare-minerals.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 17
+      name: AWS
+      domain: aws.amazon.com
+    quality: 52
 
 secured: "TtuPrpn0ZeLi8RWKEME/EEylNYY8xH3VRZKGmMCiE3vn1ir4iDuZDQr4w25IZiHRuM73qxjxTjwyBu4JfeaC4MnSzzJtqNLpdSGSmpLf9ITnFWiwDmVINi1PBt+Xr6Zf/oCVd7CHfZXc1heMvRhE6MWisgHF0mIEVFEbZ4QQuFGtPkAb9m57TqO2OUXGXgQERgjJ5NsMcHimYk65kTU+yJcfVK4vViVcn1HOdBiW2LYPNrJUSGA+/GrhAtUQfPLpxVbdh1+/Jcg4S86LbKo2CoNNr1oaUwBbj6el9wHllOSYbqd+3xbXEH2BYMaZj/GV65qzsvHT04hCNPy8UOuLEWdHoAWqgWK2XRO3tpyjiLTqyY9Me3K7HWVsnmyPLrJSSCaR3ZPrUVkJ53kj6GsB1DVb2b8EjDwC/ul9nbOFQPfsA5E1txm7N6J7kNwNAOwy+O9qRabBvCO1+wwZLnawA3F+8LmWiP8wX6Qv7IwIN17elPQwhmfNk2dD8YL0z2eF3qyoy7VPLZp9cPLIw3kKlQ==;bejG/OpY0vEZiuEz6gkMUQ=="
 ---

@@ -47,22 +47,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "OpenAI CEO testifies at Senate hearing on AI regulation"
-    excerpt: "OpenAI CEO Sam Altman testified at a Senate Judiciary Subcommittee hearing and seemed open to the idea of the government helping license and regulate the development of artificial intelligence systems."
-    publishedDateTime: 2023-05-16T16:55:00Z
-    webUrl: "https://www.nbcnews.com/now/video/openai-ceo-testifies-at-senate-hearing-on-ai-regulation-174511173819"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo174511173819"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174511173819"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684255782233_now_daily_a_kovack_openAI_senate_230516_1920x1080-lej9ho.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI technology “can go quite wrong,” OpenAI CEO tells Senate"
     excerpt: "OpenAI CEO Sam Altman testified in the US Senate today about the potential dangers of artificial intelligence technology made by his company and others, and urged lawmakers to impose licensing requirements and other regulations on organizations that make advanced AI systems such as OpenAI's GPT-4."
     publishedDateTime: 2023-05-16T21:02:00Z
@@ -126,36 +110,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bae5da6-5fb6-41ce-94a2-52971e5432f0/24af8e1e-0e18-48c0-8e11-238b317f713c/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
         height: 675
-        isCached: true
-  - title: "OpenAI, IBM Urge Senate to Act on AI Regulation After Past Tech Failures"
-    excerpt: "Executives from two major AI companies asked senators on Tuesday to pass regulations for the ground-breaking but nascent technology as rapid innovation raises ethical, legal and national security questions."
-    publishedDateTime: 2023-05-16T16:04:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-16/openai-ibm-urge-senate-to-act-on-ai-after-past-tech-failures"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 66
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5znHSCG3Bh8/v2/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "OpenAI CEO calls for laws to mitigate ‘risks of increasingly powerful’ AI"
-    excerpt: "Sam Altman says before Senate judiciary committee that he supports guardrails for technology to minimize harms"
-    publishedDateTime: 2023-05-16T15:35:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/16/ceo-openai-chatgpt-ai-tech-regulations?ref=biztoc.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/16/ceo-openai-chatgpt-ai-tech-regulations"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/16/ceo-openai-chatgpt-ai-tech-regulations"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 56
-    images:
-      - url: "https://i.guim.co.uk/img/media/bd83bf5b1e8f0123175a43a4ba20d501c27a30a6/0_166_3936_2362/master/3936.jpg?width=620&quality=85&auto=format&fit=max&s=bb8b305d10e17ef960294c2fd08d1456"
-        width: 620
-        height: 372
         isCached: true
   - title: "OpenAI’s Sam Altman calls for ‘incredible scrutiny’ of major AI tech companies, including his own"
     excerpt: "OpenAI’s partnership with Microsoft, and the implications of the tech giant’s stake in the artificial intelligence powerhouse, were raised as an issue Tuesday during a U.S. Senate Judiciary subcommittee"

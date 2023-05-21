@@ -36,6 +36,15 @@ related:
         width: 1200
         height: 625
         isCached: true
+  - title: "Using AI to find rare minerals"
+    excerpt: "A machine learning model can predict the locations of minerals on Earth—and potentially other planets—by taking advantage of patterns in mineral associations. Science and industry seek mineral deposits to both better understand the history of our planet and to extract for use in technologies like rechargeable batteries."
+    publishedDateTime: 2023-05-17T18:07:00Z
+    webUrl: "https://phys.org/news/2023-05-ai-rare-minerals.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 17
 
 secured: "ZwStyE624TnZP4px43q5OCY8j73TBXCyGk8E0/TbAT2wfSCqrCj2u3ddkSy8mc6gLzhECAqil17BFK4kNy+JRMpLfbntB96qFmQ0v7sixvMG3xmYkRgKiyQlZBs6AeVyNMq180V5QXXMUBIu3Q89Ha9ELL9BWtYHsHjq/Up4mN5aLJjjoRl74QGL7LfTWwZwoXh4mbjKVkzvIeyqRduUjIvjPb+OVcQqFOQERI3s6tC46x5yo7XdqLDxZIouWNxaJhp43xt93/kuz93oXEz95cjxjrfMCkccdaUkKPqdJfb2C3ZR4/L5LBpysTkQI0kPT77ZYlAONZPBhsjyGEdVNc/bJe17cB5YjAKCRyxK+XbDKVwycIc4TVBxOEqFD9dpObb3KUP4MzmyKZXWgA1c2e2l1rvFiI1KDYMhPfykVCMu5S+MX3vAnmIyaXSLYIUgw6zqMrm8bu89kPECqxoSetQxflarSbFnfIiZCKEtHM1Lhwyv2QvicyGpmD+C369IlzQxSSPfHh6mUAAtu9xKzQ==;ETK2O/Gg7RKmqgz5XPFBsg=="
 ---

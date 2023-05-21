@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/article/usa-stocks-chips/nvidia-amd-micron
 webUrl: "https://www.reuters.com/article/usa-stocks-chips/nvidia-amd-micron-lead-chip-sector-higher-with-ai-japan-in-focus-idUSL1N37F2MO"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: Reuters
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia CEO highlights accelerated computing and AI’s role in chip manufacturing at ITF World 2023"
-    excerpt: "Huang stressed the need for a new approach to meet the rising demand for computing power while addressing concerns regarding net-zero goals."
-    publishedDateTime: 2023-05-16T17:06:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/"
-    ampWebUrl: "https://venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-ceo-highlights-accelerated-computing-and-ais-role-in-chip-manufacturing-at-itf-world-2023/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/02/nvidia-ceo-jensen-huang-at-gtc-fall-2022-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 637
-        isCached: true
   - title: "NVIDIA, AMD, and Micron are in the Forefront in the Chip Sector Higher with AI"
     excerpt: "NVIDIA, AMD, and Micron are experiencing significant growth in the chip sector, driven by their emphasis on AI and targeting the Japanese market."
     publishedDateTime: 2023-05-19T14:56:00Z
@@ -61,15 +45,34 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "GIGABYTE to Introduce Leading-Edge AI Solutions and Computers at COMPUTEX 2023, Unveiling “Future of COMPUTING”"
-    excerpt: "Take the Lead in the AI Era with GIGABYTE’s Trailblazing GPU/HPC Servers The emergence of ChatGPT and various generative AI applications are making huge waves of industry evolution, driving all-time demand for AI computing servers. At COMPUTEX ..."
-    publishedDateTime: 2023-05-17T03:16:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230516005112/en/GIGABYTE-to-Introduce-Leading-Edge-AI-Solutions-and-Computers-at-COMPUTEX-2023-Unveiling-“Future-of-COMPUTING”"
+  - title: "Nvidia Chip King's Fortune Doubles This Year to $27.3B on AI Boom"
+    excerpt: "Huang’s wealth has grown 98% this year to $27.3 billion, making him the biggest gainer among US and global tech billionaires, according to the Bloomberg Billionaires Index. Nearly all of Huang’s fortune is in Nvidia shares and options,"
+    publishedDateTime: 2023-05-18T14:48:00Z
+    webUrl: "https://www.wealthmanagement.com/high-net-worth/nvidia-chip-kings-fortune-doubles-year-273b-ai-boom"
     type: article
     provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 0
+      name: WealthManagement.com
+      domain: wealthmanagement.com
+    quality: 54
+    images:
+      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/nvidia-ceo-jensen-huang.jpg"
+        width: 1540
+        height: 800
+        isCached: true
+  - title: "Nvidia sees AI GPU orders ramp up"
+    excerpt: "Nvidia has seen a ramp-up in orders for its A100 and H100 AI GPUs, as a result of the generative AI boom, which has led to an increase in wafer starts at TSMC, according to market sources."
+    publishedDateTime: 2023-05-19T02:50:00Z
+    webUrl: "https://www.digitimes.com/news/a20230518PD215/nvidia-ic-manufacturing-ai-gpu-ai-server-tsmc.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230518pd215_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "Wbwb9XsZlFqIcSXb235B2nUYwmUy7j5RgL5RuAMLPvPjYIKgMkdK0tz6g/ZfwYAcGCZR3u4zBcUPgdZ7E8/c992GnHLCc4TVHm8YG6QO5QTR3FmTBm6VGS6rmhlnz4AiqQ7KDL3g9a85Fql9fQKw8B0iqAu1+7DHaK228ElGHlGyOjxOwUyPF1wJ47CwI7gcbit9kH2gzIjAmmpAWwc5grpXaJi4pMInbM4l0vU61K8odkgNi3cN9xHtpSpNY4Iks9BmVGZhMbXs9DY80j3TjtUvH6792+tr3S0QCOomtSdq+aHX1unOXKpmhfrqvzDE8d/PjSl2EvblKH0GDFI3gYfrUf6jX5gBjZK+mS2TwDeXS6ru6o7XZDmXq7bjhAQNPbx6OOVOM8hs4Dw/h8xYx+OeZGzrNc7kcfIjVQsU6nkXN51n56xAwT1oG+Ry8Ws6/J3g5TQM/qxVmIOdkLR4iuLSh6oZq9pVH6wCIWOwks2JxYGweZGNg4j3o6aJJCKq97PwozpKtpOuN1HFUbSOuA==;Jolq/FIHFBBrtcRBe65rHw=="
 ---

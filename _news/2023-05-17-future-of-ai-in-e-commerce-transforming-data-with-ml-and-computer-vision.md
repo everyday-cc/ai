@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/"
 type: article
 quality: 70
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "GIGABYTE to Introduce Leading-Edge AI Solutions and Computers at COMPUTEX 2023, Unveiling “Future of COMPUTING”"
+    excerpt: "Take the Lead in the AI Era with GIGABYTE’s Trailblazing GPU/HPC Servers The emergence of ChatGPT and various generative AI applications are making huge waves of industry evolution, driving all-time demand for AI computing servers. At COMPUTEX ..."
+    publishedDateTime: 2023-05-17T03:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230516005112/en/GIGABYTE-to-Introduce-Leading-Edge-AI-Solutions-and-Computers-at-COMPUTEX-2023-Unveiling-“Future-of-COMPUTING”"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 0
 
 secured: "b3HaeRpDdA4lF9EStCsM189gLzHhPBzYLGgOLBmYLzwF/DjPLGs1f32ZI4GkPeMcO9wK3Xx72CQxFuinJ+qmWaHLoiAemVk/tNChT6uAM+LB9nXUyULy0iPt+6gQ02wHwGifI88uBvytrcYcGqE9o7EVoUCUv0LN1//2Mw9Q76n5qc7iLx56O4XttB6puGYLVlvRHgpGw7KdOoQxTDqLecj0qp58lUbrRfBM/Upi0Eufb9kYT1cW7YL2Z6RiYAt3fm/6YQAZc4e/MF6fiU5qUycm01Fa1fGoUKiQ4Smp470AdAPiwnQtn8UZBbMNsm22u/4Z0zkbfkUu3F+smrERGjqOt0XjcGYRNaAPsXnSAi5QXjegKsOQqA/MviXdmZFpwqlMPopLC3tfTJPiUkJ5GIEe+i6b91yrRxV8ExUdeSxaAckVFZZnilNjUgUqNqLPgFAr6XfMh3SxZ7v2MRLP7/9YogjkcWxBedkQfYG3hcD4miNXMRyl7BBYjqHbpYwGx0OMQHyWvzivEUKfG0mC4g==;dmwxpClicNTMmrKHQDL/dQ=="
 ---

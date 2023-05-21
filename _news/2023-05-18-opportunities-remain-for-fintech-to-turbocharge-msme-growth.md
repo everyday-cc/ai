@@ -68,20 +68,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
-  - title: "Opportunities remain for fintech to turbocharge MSME growth"
-    excerpt: "Mere disruptors no more, financial technologies have offered considerable evidence that affirm them as significant contributors to economies and its digital ecosystems."
-    publishedDateTime: 2023-05-16T16:00:00Z
-    webUrl: "https://www.philstar.com/opinion/2023/05/17/2266852/opportunities-remain-fintech-turbocharge-msme-growth"
-    type: article
-    provider:
-      name: philstar.com
-      domain: philstar.com
-    quality: 39
-    images:
-      - url: "https://media.philstar.com/images/filler/opinion-logo-filler-thumbnail.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Rising importance of AI in the fintech space"
     excerpt: "Advantage of AI in fintech industry is its capacity to automate and augment a multitude of laborious processes related to banking"
     publishedDateTime: 2023-05-18T11:25:00Z

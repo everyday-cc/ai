@@ -1,23 +1,25 @@
 ---
 category: news
 title: "HeartSciences Named as a Top 10 Healthcare Artificial Intelligence Solutions Provider 2023 by Healthcare Tech Outlook Magazine"
-excerpt: "In announcing the “ ” Healthcare Tech Outlook stated, “Artificial Intelligence (AI) is at the forefront of healthcare innovation… healthcare expenditure on AI software is predicted to ..."
-publishedDateTime: 2023-05-17T12:11:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8840938/heartsciences-named-as-a-top-10-healthcare-artificial-intelligence-solutions-provider-2023-by-healthcare-tech-outlook-magazine"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8840938/heartsciences-named-as-a-top-10-healthcare-artificial-intelligence-solutions-provider-2023-by-healthcare-tech-outlook-magazine"
+excerpt: "Southlake, Texas, May 17, 2023 (GLOBE NEWSWIRE) -- Heart Test Laboratories, Inc. d/b/a HeartSciences HSCS HSCSW))) (\"HeartSciences\" or the \"Company\"), an artificial ..."
+publishedDateTime: 2023-05-17T12:07:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/05/g32442207/heartsciences-named-as-a-top-10-healthcare-artificial-intelligence-solutions-provider-2023-by-heal"
+webUrl: "https://www.benzinga.com/pressreleases/23/05/g32442207/heartsciences-named-as-a-top-10-healthcare-artificial-intelligence-solutions-provider-2023-by-heal"
+ampWebUrl: "https://www.benzinga.com/amp/content/32442207"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32442207"
 type: article
-quality: 6
-heat: 6
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "4LEqrQhcpt7Q0koBuQ/ycGgl4f//ZrZklXngBqpqortiyZZJpLpiKl+vA/owmuhPQHPvacPJSjuV30NTPC8wfzUKpGd/opGZB7SlDgJt2pXwBKa6KY+ygGZQQmnjadiqBMHhkS2UoqU7kbDm5cKRd2/GZRi+MSHu6TPwYx1s9AT21g2dqOevBl2i3eOZb9WPjhFbHrfSHiiq2KAcHyXBhem5zODiwADE3GswquJwo7thysWOlwb4Gl7+kNUn4h5D2p0Yo/RYkq+1aupiwAp3y0MyLtDp1lvK9WpTPhMkk2CW10jFK87OY+B1XE7lac3rFoAZEvY5dSSxLqdZqif9X2s1gifR5kPIsC0TAkKUXxU=;c8qEI5X8PWvqrl8MkDh91A=="
+secured: "9OKW8qy5cRhI55pzzMDYUXkYkE15YQVh2KgFnqVSnc4Z+D5qcHYjUuXTCBiqP4zjFCpziixpI1DfR4febQK0cFEi9WYw5qkP0rwoRVHj105fsJr38HkJu3UKnz5yFugHafP0Dzqvo8T1OTJojumFQYeXFplGxarI3VGGw1EkYxQrSJu3JR2YuoyxHlTfAoTZ6r54bLypaJFsSeNudZkpY716EU5G/o7AOH0rxogTPow4Oy5IPSLq60eptIQW8wWGRrKYw9FTdu7vrf613fM0vapFdy871GAx0WJJA1yZ5Fwd8T6BdYF/q/G3GjBD7hMyrc4l2p8zjZAQsQFu0SU8l23qcn7WvfZyMRd/2GKE4pA=;/7vuHoRJy/qTDsJZfvVgCw=="
 ---
 

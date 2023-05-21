@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trying to make sense of artificial intelligence? Here’s your guide"
-    excerpt: "ChatGPT came on the scene as something different. Not only could it answer a seemingly unlimited number of questions, but it could also write screenplays, summarize huge amounts of information and imitate a human in conversation somewhat convincingly. It immediately seemed, at a minimum, that it could one day make everyday life more efficient."
-    publishedDateTime: 2023-05-16T15:43:00Z
-    webUrl: "https://www.nbcnews.com/tech/innovation/ai-explain-openai-chatgpt-how-to-rcna77889"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna77889"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna77889"
+  - title: "Is Tom Hanks Doomed To Be Digitally Resurrected By AI?"
+    excerpt: "James Dean, who died in 1955, was set to be digitally resurrected for the war film Finding Jack, which was reportedly canceled, but not before sparking uproar from movie-lovers and actors. Chris Evans ( Captain America) and Elijah Wood, ( The Lord of the Rings) both tweeted their distaste for the proposed project."
+    publishedDateTime: 2023-05-18T19:15:00Z
+    webUrl: "https://www.forbes.com/sites/danidiplacido/2023/05/18/is-tom-hanks-doomed-to-be-digitally-resurrected-by-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/danidiplacido/2023/05/18/is-tom-hanks-doomed-to-be-digitally-resurrected-by-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2023/05/18/is-tom-hanks-doomed-to-be-digitally-resurrected-by-ai/amp/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 93
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-04/230428-ai-explainer-lr-5c8005.jpg"
-        width: 2500
-        height: 1250
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6466780977fe545ec0b1abca/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Who Is Going to Regulate AI?"
     excerpt: "As businesses and governments race to make sense of the impacts of new, powerful AI systems, governments around the world are jostling to take the lead on regulation. Business leaders should be focused on who is likely to win this race,"

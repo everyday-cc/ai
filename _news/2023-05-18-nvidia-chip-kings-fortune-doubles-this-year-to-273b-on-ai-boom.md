@@ -25,21 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia CEO Jensen Huang sees his fortune balloon to $27.3 billion as the chipmaker rides the AI wave with a sizzling 2023 rally"
-    excerpt: "Nvidia CEO Jensen Huang has seen his wealth surge at a faster pace than for any other US billionaire this year, according to Bloomberg."
-    publishedDateTime: 2023-05-18T09:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-ceo-fortune-balloon-273-billion-artificial-intelligence-boom-2023-5"
-    ampWebUrl: "https://markets.businessinsider.com/news/stocks/nvidia-ceo-fortune-balloon-273-billion-artificial-intelligence-boom-2023-5?amp"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/nvidia-ceo-fortune-balloon-273-billion-artificial-intelligence-boom-2023-5?amp"
+  - title: "Nvidia, AMD, Micron lead chip sector higher with AI, Japan in focus"
+    excerpt: "Shares in Nvdia Corp , Advanced Micro Devices and Micron Technology on Thursday provided the biggest boosts to the chip sector, which outperformed the broader market as investors looked for ways to invest in artificial intelligence and in Japan."
+    publishedDateTime: 2023-05-18T21:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-stocks-chips/nvidia-amd-micron-lead-chip-sector-higher-with-ai-japan-in-focus-idUSL1N37F2MO"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
+      name: Reuters
+      domain: reuters.com
+    quality: 84
     images:
-      - url: "https://i.insider.com/6421ac8b0237f900185313fc?width=1200&format=jpeg"
+      - url: "https://www.reuters.com/resizer/MSbbwGzXoN4m5_yDKbUTrwFQOMg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2OUEX3PTTNP3DO72D3UQ4PPP7A.jpg"
         width: 1200
-        height: 600
+        height: 628
+        isCached: true
+  - title: "NVIDIA, AMD, and Micron are in the Forefront in the Chip Sector Higher with AI"
+    excerpt: "NVIDIA, AMD, and Micron are experiencing significant growth in the chip sector, driven by their emphasis on AI and targeting the Japanese market."
+    publishedDateTime: 2023-05-19T14:56:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/nvidia-amd-and-micron-are-in-the-forefront-in-the-chip-sector-higher-with-ai/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/nvidia-amd-and-micron-are-in-the-forefront-in-the-chip-sector-higher-with-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/nvidia-amd-and-micron-are-in-the-forefront-in-the-chip-sector-higher-with-ai/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 70
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/NVIDIA-AMD-and-Micron-are-in-the-Forefront-in-the-Chip-Sector.jpg"
+        width: 1500
+        height: 844
+        isCached: true
+  - title: "Nvidia sees AI GPU orders ramp up"
+    excerpt: "Nvidia has seen a ramp-up in orders for its A100 and H100 AI GPUs, as a result of the generative AI boom, which has led to an increase in wafer starts at TSMC, according to market sources."
+    publishedDateTime: 2023-05-19T02:50:00Z
+    webUrl: "https://www.digitimes.com/news/a20230518PD215/nvidia-ic-manufacturing-ai-gpu-ai-server-tsmc.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230518pd215_files/2_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "lENJ0DXAq+DPPKfMr3fMWg+sZHC4A7t3QdxXRzrBktsoQ3bQlN2RWXtvDbiOgRPqe9dnrjCn9/5GmExlfyFHpEqgxAjJi6FMibs9OLJPiyqJwPwLP0gxOhKowOhJy7Dg4w64kOJ5uEmLWsF3EB4YlVG9XyOz0xd4xcwQsHghdvWFepPDWLiVUKmZjw6Aki9C7mRIH/k+JbOOnA4KOXTq58hoGeS8a9w8URAoHO7iy7cZjk0e/Q2AeCv6nRQQgp1LJot1Eq7Ah3uVl7cmdhJFSQkK9rxGmBT5fvWKR8B4dSostWayDOI89quJhhycfag2JeX7XKG/+iFUEi2yNTRO/a+SpXzAjvxNKOnKOIuGKZJHSrQXltQRB/zFhZamcLBruJPj7rP2rPncJroWPwEayq4G5RQBgi/76UFwijbqkY/jOHwWNO4G7QTZD0tQDsioBJBeXLfHgi50uFhkoCMfszYTaqr9TmFSJHMy63vrUXdZp9N/thBHAGd+U7W2e6ISNC0RbWEbLUxSqLeB0Pah/A==;0voRHQpnuRFeRajDX0+oaQ=="

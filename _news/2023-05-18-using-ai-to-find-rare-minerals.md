@@ -18,45 +18,29 @@ topics:
   - AI
 
 related:
-  - title: "Apple looking to hire machine learning engineers with an interest in generative AI"
-    excerpt: "Apple's Technology Development Group (TDG) is looking for Machine-Learning engineers with a background and/or interest in Generative AI! You will be leveraging innovative Generative models to build fundamental applications on top of Apple's most advanced ..."
-    publishedDateTime: 2023-05-19T17:17:00Z
-    webUrl: "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai"
-    ampWebUrl: "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/"
+  - title: "Hiding Behind the AI Apocalypse"
+    excerpt: "Damon: There was not really any talk at the hearing about the impacts of AI on labor. There were broad allusions to the idea of job loss. But there are so many specific ways that jobs are already threatened by automation today."
+    publishedDateTime: 2023-05-17T21:51:00Z
+    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/05/altman-hearing-ai-existential-risk/674096/"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 68
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 67
     images:
-      - url: "https://photos5.appleinsider.com/gallery/54505-110094-Apple-Siri-xl.jpg"
-        width: 1312
-        height: 738
-        isCached: true
-  - title: "AI-Integration In Language Apps For ESL Learning: Tops Apps AI Releases Report"
-    excerpt: "Top Apps AI is announcing a comprehensive report on the potential of integrating AI technology into educational"
-    publishedDateTime: 2023-05-17T03:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-integration-in-language-apps-for-esl-learning-tops-apps-ai-releases-report-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://cdn.theatlantic.com/thumbor/Pmsh2bl4fBptpEm7XQ-8qcgKkmE=/0x401:5463x3246/1200x625/media/img/mt/2023/05/GettyImages_1255306219/original.jpg"
         width: 1200
-        height: 630
+        height: 625
         isCached: true
-  - title: "Stop Serving Dogfood, Invest In Generative Artificial Intelligence With Purpose"
-    excerpt: "Don't fall prey to the trends, make sure your generative artificial intelligence investments are meaningful to your customers before launching dogfood to your users."
-    publishedDateTime: 2023-05-18T13:29:00Z
-    webUrl: "https://www.forbes.com/sites/joetoscano1/2023/05/18/stop-serving-dogfood-invest-in-generative-artificial-intelligence-with-purpose/"
+  - title: "How To Minimize Ageism Through The Use Of AI"
+    excerpt: "Artificial intelligence (AI) holds great promise in the fight against ageism, and future technologies powered by AI can be a first step to ensure older adults are fully involved in the processes, systems and,"
+    publishedDateTime: 2023-05-18T12:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/how-to-minimize-ageism-through-the-use-of-ai/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 43
+    quality: 47
 
 secured: "ZOjxl7EuJ58vooLxv+olz/UEJwTpA0/7MzTVHNEq42UfQXf8n8IzyOtDIJzdc1Hg8xzHN5tb3MxFJVzufjom+uQ5Q/7yFaLU9ezVCpMgA+szD7ZRyCXKR0xf/r4yP0maEozvMt+17HbEp5bABLlnD0K1AtCsucRGpl6SmIlqwjqb4jWLVN0WUDBLoKV63GvNa5diuZ9ajdlpmOFkohnATa8ejOWtYpoNbDXyiLEO8cHFJZURiUE2RUR5VWSBJfHxM48Y+5i5paE98v76r+Iy51CTI8WSJB26VSoVqpTMsxx1Trg6lKABZdjF+ORdQjl1v5EIJtOBDs+UmmtF7n13vcyra9OtS0wOo7MOruIquUxlsARFNdUJmNkNS2bBhVkk+CB4prLVPRm4IBvnIYPmBujiUTGn3Cqy82+ijjiwkVzpc0pGw9rCrThiEHHCE1tCuf/UIbq3lNaEGoaclzczi7dEb8T+KSjbjXcEXi5MtmsDxf2HMgZpNyuCZGNrO3pfsiMNb4JLxnN4qEkFLSX9XQ==;16ZKRSYBmXRQkIORHWWOHg=="
 ---

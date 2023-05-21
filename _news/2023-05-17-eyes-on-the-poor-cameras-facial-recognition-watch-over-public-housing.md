@@ -18,17 +18,6 @@ topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "Facial Recognition Used to Evict Single Mother for Taking Night Classes"
-    excerpt: "Local officials across the US are using surveillance cameras equipped with facial recognition technology to \"punish and evict public housing residents\" — often for minor or even trivial offenses ..."
-    publishedDateTime: 2023-05-18T12:01:00Z
-    webUrl: "https://futurism.com/facial-recognition-housing-projects"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 19
-
 secured: "2Aoqa5PVZBi2vQDvgJJkB4VPBgnndEEl+iaZOpQ1YMvdqXjC4B7LFocj3xiDa0AisLO/bjXlUAb5Ztbn3M52cb/V3itPH3zUlvMFQtAPOJ7Mm42W4bgPPcqmd6eWidWkyvAFb3CflXRxgq43KNo1Cf2iDF3HQzH9qyWNgfxwzdifB0pkrOYnVpsL179W2SK6ukK0UbmfARoXI/HMJSwWfCx3/bwtqybk+RGf6ZgJDxwHP0kRB5gCySFOKaHjCUOtJwZGcT3q+r1wJ1mJOG8cQOtih+dfjBXFMJZuedIFkApupNi1WgNR07Gdd5CfEAWF+Gi/Acnu21F8OmElQJ80PmCsoLn225j3wBQSHHVsbH0=;1jG5EVi2FxxNMTGEjF/Lvg=="
 ---
 

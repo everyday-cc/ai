@@ -7,7 +7,7 @@ originalUrl: "https://www.phonearena.com/news/mediatek-flagship-ap-2024-nvidia-g
 webUrl: "https://www.phonearena.com/news/mediatek-flagship-ap-2024-nvidia-gpu_id147577"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -25,34 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "MediaTek looking to build a chipset with an Nvidia GPU next year"
-    excerpt: "This chip will target Windows on ARM laptops, according to insiders. Besides graphics, Nvidia tech will also bring AI acceleration."
-    publishedDateTime: 2023-05-16T16:55:00Z
-    webUrl: "https://www.gsmarena.com/report_claims_that_mediatek_will_build_a_chipset_with_an_nvidia_gpu_as_early_as_next_year-news-58575.php"
+  - title: "PNY Introduces Latest NVIDIA GeForce RTX 40 Series GPU Family"
+    excerpt: "PNY announced today the expansion of its revolutionary NVIDIA GeForce RTX 40 Series PNY and XLR8 Gaming family of GPUs with the addition of the new GeForce RTX 4060 family."
+    publishedDateTime: 2023-05-18T12:59:00Z
+    webUrl: "https://worthplaying.com/article/2023/5/18/news/137276-pny-introduces-latest-nvidia-geforce-rtx-40-series-gpu-family/"
     type: article
     provider:
-      name: GSM Arena
-      domain: gsmarena.com
-    quality: 54
-    images:
-      - url: "https://fdn.gsmarena.com/imgroot/news/23/05/mediatek-nvidia-chipset/-952x498w6/gsmarena_000.jpg"
-        width: 952
-        height: 498
-        isCached: true
-  - title: "Nvidia sees AI GPU orders ramp up"
-    excerpt: "Nvidia has seen a ramp-up in orders for its A100 and H100 AI GPUs, as a result of the generative AI boom, which has led to an increase in wafer starts at TSMC, according to market sources."
-    publishedDateTime: 2023-05-19T02:50:00Z
-    webUrl: "https://www.digitimes.com/news/a20230518PD215/nvidia-ic-manufacturing-ai-gpu-ai-server-tsmc.html"
+      name: Worth Playing
+      domain: worthplaying.com
+    quality: 19
+  - title: "NVIDIA's massive RTX 4060 GPU giveaway comes with hints of overcompensation"
+    excerpt: "So, gamers get the chance to win 170 GPUs (plus a couple of monitors and GPU backplates), which are mostly GeForce RTX 4060s - 164 of them. There's also an RTX 4060 Ti Founders Edition up for grabs, and a pair of NVIDIA's own RTX 4080 and 4090 graphics cards. Oh, and a GeForce RTX Garage 4090 build, a gaming PC worth a cool $7,500."
+    publishedDateTime: 2023-05-19T13:35:00Z
+    webUrl: "https://www.tweaktown.com/news/91535/nvidias-massive-rtx-4060-gpu-giveaway-comes-with-hints-of-overcompensation/index.html"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230518pd215_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 17
 
 secured: "2kCEBw0Kj+178PgHxKt0muGJacOhTJqAdMTTu344Q6NfBnGSLUC1ErpullLJc9C6zev+wifHWF2QKBBqY7Nsp2whG3aU5bnJ4XybK4MaoMIi3LTAQ4XWIsqeKKwnUjxn+uJoN+DbefOu87fflJldt2Y2YMulp0APkH2oBcdm+V9bNUML3S9+klEb+W8CE0N8CCtfZjtC8uq78YsqPyJfXj5e9zWo/nt8/9KDb/q0cy5pHbeJsC0MZUJ6Zcp8II71PQQWN+gClnkm7JKEjUYFzwqytOXBK4pIPBCJ9wJgAnFIzP/BbVhVkZwRM45oHhMD6sMdFlV3ioOS27cqvjFmY+LvKQEMuyftj/jRHDWDQBTI+WWyiIwdHsJPQFos9kMa1xTz46ZHVMO6a/Cp44Nh5O3pf2178KfPyba+qN9xdgUsztEWPEm2XWld6LZPjI2ol8IjoU7L5sUjDJbJV2kQ5GWPBm/NItL+KiA10DzTSZWoCGJTuEdFX5VlS1aMvfI8kCeGU668kw7UO40TSQa6qw==;QlcuxzOUCzjvPuMJj5OVjw=="
 ---

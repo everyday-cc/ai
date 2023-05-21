@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-05-qa-potential-artificial-intellig
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-qa-potential-artificial-intelligence.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "ServiceNow unveils transformative innovations at Knowledge 2023"
-    excerpt: "ServiceNow (NYSE: NOW), the leading digital workflow company making the world work better for everyone, today announced significant expansions to the Now Platform’s capabilities, offering businesses new,"
-    publishedDateTime: 2023-05-16T15:06:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230516005423/en/ServiceNow-unveils-transformative-innovations-at-Knowledge-2023"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 4
 
 secured: "fH9yOPm3Sf9z7U3BriHcr4l8drx6WX+iAWps7x+2+dvfavcVD0RzHu3USNdBEV9NX2PzaJD/u+Nwxama7Q4XIu9Ys4MdtIUrpNfoRhKBmimw2RagFNK/sIwavjnWd7sU0C697Anu+WBlzCqgM6k/8dVTx2F6Ffpv7jvo5rTR2DIbQI1LbhWU0sd62WiPu+z1fcq+duXyW11H3QPzcfbW91z0FWrDunopT1NXCHkUhAaVJmsJxS/Kb0EPLRUhIgiUUadiFgn6SdzCsn0sxLJV/sSM7QcFwHR9gOd5MpntxOlG94mhIQZ2U78glP9zelDwb5JxGn91qohKt+OJ/m5ENZJzh95aOwwQUf+2PWqaenTQsjdqkjILEK0kdzrIqfaWiCJnJMQ2lbvIF+SV6bqjxsmFBSHech5eO5UjzZFoojtMw+RPmpIZChWUCLdsgHTIQnxoOp4Z90M9TJSEb+qSdgAMyYvevWG9UGIyLfiTqk3JkXPZN+OoQ33IMfygvLCorE7nWlYdmjNT72sGSFHcxw==;TlQSrCDjlCDUlnNcmFnLcQ=="
 ---

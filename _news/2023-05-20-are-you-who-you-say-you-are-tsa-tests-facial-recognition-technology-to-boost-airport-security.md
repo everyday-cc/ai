@@ -109,20 +109,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Las Vegas airport among sites testing TSA facial recognition technology, raising privacy concerns"
-    excerpt: "TSA says the pilot is voluntary and accurate, but critics have raised concerns about questions of bias in facial recognition technology and possible repercussions for passengers who want to opt out."
-    publishedDateTime: 2023-05-16T15:46:00Z
-    webUrl: "https://www.rgj.com/story/news/2023/05/16/las-vegas-airport-among-ttsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/70223093007/"
-    type: article
-    provider:
-      name: Reno Gazette-Journal
-      domain: rgj.com
-    quality: 41
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/05/16/PREN/08c5e615-7904-4d40-8684-d11579b6c89f-AP23116691290041.jpg?auto=webp&crop=7421,4175,x0,y378&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Police Facial Recognition Technology Can’t Tell Black People Apart"
     excerpt: "This happened three years ago to Robert Williams, a Black father in suburban Detroit. Sadly Williams’ story is not a one-off. In a recent case of mistaken identity, facial recognition technology led to the wrongful arrest of a Black Georgian for purse thefts in Louisiana."
     publishedDateTime: 2023-05-18T14:38:00Z

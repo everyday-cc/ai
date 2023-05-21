@@ -65,20 +65,6 @@ related:
       domain: benzinga.com
     quality: 41
   - title: "Opportunities remain for fintech to turbocharge MSME growth"
-    excerpt: "Mere disruptors no more, financial technologies have offered considerable evidence that affirm them as significant contributors to economies and its digital ecosystems."
-    publishedDateTime: 2023-05-16T16:00:00Z
-    webUrl: "https://www.philstar.com/opinion/2023/05/17/2266852/opportunities-remain-fintech-turbocharge-msme-growth"
-    type: article
-    provider:
-      name: philstar.com
-      domain: philstar.com
-    quality: 39
-    images:
-      - url: "https://media.philstar.com/images/filler/opinion-logo-filler-thumbnail.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Opportunities remain for fintech to turbocharge MSME growth"
     excerpt: "Speaking from a fintech’s point-of-view, the positive impact of digital technologies on solving the credit constraint of MSME enterprises has been noted at the scientific level, with AI-based credit fintech solutions able to provide an adequate response ..."
     publishedDateTime: 2023-05-18T05:05:00Z
     webUrl: "https://www.philstar.com/other-sections/newsmakers/2023/05/17/2266852/opportunities-remain-fintech-turbocharge-msme-growth"

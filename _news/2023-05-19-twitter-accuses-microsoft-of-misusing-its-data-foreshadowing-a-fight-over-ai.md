@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "These 4 popular Microsoft apps are getting a big AI boost"
-    excerpt: "Swiftkey, Microsoft's virtual keyboard app that allows you to access Bing Chat across different apps, is getting a monumental boost."
-    publishedDateTime: 2023-05-16T15:17:00Z
-    webUrl: "https://www.zdnet.com/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-4-popular-microsoft-apps-are-getting-a-big-ai-boost/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 106
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/b2cb30563f660d5191369ced51bf355a07f5bcaf/2023/05/16/f302e472-37a2-411d-8228-8b582e4c1d81/image-11.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft CEO speaks on the future of artificial intelligence"
     excerpt: "The CEO of OpenAI, the company responsible for ChatGPT, called on Congress today to regulate artificial intelligence. CNBC’s Andrew Ross Sorkin sat down with Microsoft’s CEO Satya Nadella to talk about both the concerns and benefits after his company invested billions in OpenAI."
     publishedDateTime: 2023-05-16T23:08:00Z
@@ -59,49 +43,37 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft Bing AI Chat Widgets: How to Get Them on iOS and Android"
-    excerpt: "Microsoft launched artificial intelligence-powered search on Bing 100 days ago, celebrating the milestone with a few updates to the system this week. One of those is adding a chatbot widget for phone screens across both iOS and Android."
-    publishedDateTime: 2023-05-19T17:43:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/microsoft-bing-ai-chat-widgets-how-to-get-them-on-ios-and-android/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-bing-ai-chat-widgets-how-to-get-them-on-ios-and-android/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-bing-ai-chat-widgets-how-to-get-them-on-ios-and-android/"
+  - title: "Special Edition with Andrew Ross Sorkin: AI and Microsoft CEO Satya Nadella"
+    excerpt: "Artificial Intelligence is a profound new technology that will have implications – good and bad – on all our lives. In this latest episode of “Special Edition,” host Andrew Ross Sorkin sits down with Microsoft CEO Satya Nadella."
+    publishedDateTime: 2023-05-17T01:48:00Z
+    webUrl: "https://www.nbcnews.com/now/video/special-edition-with-andrew-ross-sorkin-ai-and-microsoft-ceo-satya-nadella-174543941895"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo174543941895"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174543941895"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 104
+      name: NBC News
+      domain: nbcnews.com
+    quality: 102
     images:
-      - url: "https://www.cnet.com/a/img/resize/853677a4b747a7181eb4ba245c6a405d29d1bdbe/hub/2023/05/16/17988a0d-2942-4201-b8b7-7192081b55c4/gettyimages-1249309512.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/101422_NBC_NEWS_NOW_GFX_SORKIN_FS_copy_3-esrvh7.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "KPI Partners achieves Microsoft Azure Solutions Partner Designation for Data & AI"
-    excerpt: "KPI Partners, a global trusted strategic partner for Analytics and Digital Transformation solutions, announced today that it has achieved Microsoft Azure Solution Partner status in Data & AI. This recognition showcases the company's extensive ability to support customers in managing and governing their data across various systems."
-    publishedDateTime: 2023-05-16T17:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/kpi-partners-achieves-microsoft-azure-solutions-partner-designation-for-data-ai-1032332063"
+  - title: "Microsoft CEO wants to 'mitigate unintended consequences' involving artificial intelligence"
+    excerpt: "NBC's Andrew Ross Sorkin sat down with Microsoft CEO Satya Nadella to discuss his concerns on where artificial intelligence is heading. Nadella says that he wants to \"mitigate unintended consequences\" involving A."
+    publishedDateTime: 2023-05-16T23:43:00Z
+    webUrl: "https://www.nbcnews.com/news/amp-video/mmvo174563909885"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo174563909885"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174563909885"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 94
     images:
-      - url: "https://mma.prnewswire.com/media/2030241/KPI_Partners_Logo.jpg"
-        width: 400
-        height: 283
-        isCached: true
-  - title: "Infogain NAVIK Sales and NAVIK Marketing Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Infogain's NAVIK is an AI platform that addresses AI solution needs, including data infrastructure, data engineering, and data analytics. NAVIK's modular components include data integration repositories and pipeline scripts,"
-    publishedDateTime: 2023-05-19T04:00:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Infogain-NAVIK-Sales-and-NAVIK-Marketing-Now-Available-in-the-Microsoft-Azure-Marketplace-158740.aspx"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 94
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/152405-0423_SpeechAnalytics_NICE_480x610-ORG.png"
-        width: 480
-        height: 610
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684280605884_now_hallie_microsoft_interview_230516_1920x1080-svh6io.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Microsoft Rolls out Bing AI Chat Widget on Mobiles & Other Cool Features"
     excerpt: "In addition to existing features, Microsoft Bing has received new ones, including a Bing AI widget for mobiles. Check out the details."
@@ -119,6 +91,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Fintech Ramp Launches Money Saving AI Tools For Businesses—Announces Microsoft CEO, More As Investors"
+    excerpt: "The four-year-old corporate credit card startup is using OpenAI's GPT-4 and billions of dollars of transaction data to tell businesses whether quoted software prices are a good deal—or not."
+    publishedDateTime: 2023-05-18T14:01:00Z
+    webUrl: "https://www.forbes.com/sites/jonathanponciano/2023/05/18/fintech-ramp-launches-money-saving-ai-tools-for-businesses-announces-microsoft-ceo-more-as-investors/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/635744bdc68efe4cf2c46738/0x0.jpg?format=jpg&crop=1851,1042,x0,y124,safe&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "After Apple, Amazon, Google and Microsoft, Meta Now Builds Its Own AI Chips"
     excerpt: "Meta recently introduced its first in-house silicon chip designed for AI workloads, called MTIA (meta training and inference accelerator)."
     publishedDateTime: 2023-05-19T09:21:00Z
@@ -133,79 +119,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft India announces the addition of 4 new languages to Translator"
-    excerpt: "Users can translate Konkani, Maithili, Sindhi, and Sinhala text, supported in more than 125 languages, for their apps, websites, workflows, and tools with Azure Cognitive Services Translator"
-    publishedDateTime: 2023-05-19T11:48:00Z
-    webUrl: "https://www.mid-day.com/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
-    ampWebUrl: "https://www.mid-day.com/amp/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
-    type: article
-    provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 61
-    images:
-      - url: "https://images.mid-day.com/images/images/2023/may/Microsoft-afp_d.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft announces four new languages added to Microsoft Translator"
-    excerpt: "Microsoft India announced that it had added four new languages - Konkani, Maithili, Sindhi, and Sinhala - to its Microsoft Translator platform."
-    publishedDateTime: 2023-05-18T10:32:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-announces-four-new-languages-added-microsoft-translator/article66865673.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-announces-four-new-languages-added-microsoft-translator/article66865673.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-announces-four-new-languages-added-microsoft-translator/article66865673.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://th-i.thgim.com/public/sci-tech/technology/h9z0z/article38412180.ece/alternates/FREE_1200/microsoftnewrulesjpg"
-        width: 1200
-        height: 780
-        isCached: true
-  - title: "Microsoft India adds 4 new languages to Translator"
-    excerpt: "Microsoft India on Thursday announced the addition of three new Indian languages -- Konkani, Maithili, and Sindhi, in Translator along with Sinhala, the official language of Sri Lanka."
-    publishedDateTime: 2023-05-18T21:20:00Z
-    webUrl: "https://www.thestatesman.com/technology/microsoft-india-adds-4-new-languages-to-translator-1503182658.html"
-    ampWebUrl: "https://www.thestatesman.com/technology/microsoft-india-adds-4-new-languages-to-translator-1503182658.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/microsoft-india-adds-4-new-languages-to-translator-1503182658.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 59
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2021/07/MicrosoftiStoc.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Microsoft’s Bing AI adds contextual chat, widget on Android and iOS"
-    excerpt: "Microsoft has just delivered a bunch of updates to Bing AI, including contextual chat and a new widget on Android and iOS."
-    publishedDateTime: 2023-05-16T16:19:00Z
-    webUrl: "https://9to5google.com/2023/05/16/microsoft-bing-ai-widget-android-ios/"
-    type: article
-    provider:
-      name: 9to5google
-      domain: 9to5google.com
-    quality: 56
-    images:
-      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/bing-logo-circle-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Four more languages introduced to Microsoft Translator, Details here"
-    excerpt: "The Microsoft Translator software now supports Konkani, Maithili, Sindhi, and Sinhala, a statement from Microsoft India read. Assamese, B..|News Track"
-    publishedDateTime: 2023-05-18T10:49:00Z
-    webUrl: "https://english.newstracklive.com/news/four-more-languages-introduced-to-microsoft-translator-details-here-sc71-nu318-ta318-1277188-1.html"
-    ampWebUrl: "https://english.newstracklive.com/ampnews/four-more-languages-introduced-to-microsoft-translator-details-here-sc71-nu318-ta318-1277188-1.html"
-    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/four-more-languages-introduced-to-microsoft-translator-details-here-sc71-nu318-ta318-1277188-1.html"
-    type: article
-    provider:
-      name: News Track
-      domain: newstracklive.com
-    quality: 54
   - title: "Microsoft Previews AI-Based Code Optimizations for .NET Apps"
     excerpt: "Azure Monitor users can now try a public preview of Code Optimizations to detect performance issues with their .NET apps and services, per a Thursday Microsoft announcement."
     publishedDateTime: 2023-05-18T21:44:00Z
@@ -234,20 +147,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI startup cloud deals by Microsoft, Google and Amazon ring 'accounting alarm bells' across Silicon Valley over revenue 'round-tripping'"
-    excerpt: "For Microsoft, the bigger goal is to \"leapfrog Google in some ways, while positioning Azure as the leading cloud provider for these new AI models,\" he said. Additionally, the ability to incentivize AI startups with access to valuable computing power allows ..."
-    publishedDateTime: 2023-05-19T09:07:00Z
-    webUrl: "https://www.businessinsider.com/ai-startup-cloud-deals-microsoft-google-raise-accounting-alarm-bells-2023-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: "https://i.insider.com/63e50c8a96242f0019e820a9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "What to Expect at Microsoft Build 2023"
     excerpt: "In Seattle next week, expect AI, AI, and more AI, with some Azure and Arm thrown in. Microsoft Build kicks off in Seattle on Tuesday, and since Microsoft has already made lots of news around AI, Bing,"
     publishedDateTime: 2023-05-18T16:42:00Z
@@ -257,15 +156,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 49
-  - title: "KPI Partners Attains Microsoft Azure Solution Partner Status in Data & AI"
-    excerpt: "KPI Partners, a leading global provider of Analytics and Digital Transformation solutions, announced today its achievement of Microsoft Azure Solution Partner status in Data & AI."
-    publishedDateTime: 2023-05-18T12:38:00Z
-    webUrl: "https://analyticsindiamag.com/kpi-partners-attains-microsoft-azure-solution-partner-status-in-data-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 48
   - title: "Twitter accuses Microsoft of misusing its data, foreshadowing a possible fight over AI"
     excerpt: "A lawyer for Twitter owner Elon Musk accused Microsoft of misusing the service’s data and demanded an audit from the software giant."
     publishedDateTime: 2023-05-19T01:45:00Z
@@ -277,38 +167,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 46
-  - title: "Microsoft India Adds 4 New Languages To Translator"
-    excerpt: "Microsoft India on Thursday announced the addition of three new Indian languages -- Konkani, Maithili, and Sindhi, in Transl"
-    publishedDateTime: 2023-05-18T11:38:00Z
-    webUrl: "https://menafn.com/1106270433/Microsoft-India-Adds-4-New-Languages-To-Translator"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 41
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/18/I_2f472image_story.jpg"
-        width: 800
-        height: 500
-        isCached: true
-  - title: "Microsoft Translator app get support for these three Indian languages"
-    excerpt: "Microsoft has announced the addition of three new Indian languages in Micorosft Translator. The company has revealed that it has added Konkani, Maithi"
-    publishedDateTime: 2023-05-18T12:18:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-translator-app-get-support-for-these-three-indian-languages/articleshow/100332128.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
-  - title: "Check Point Software extends its Industry-Leading Cloud Firewall to Secure Microsoft Azure Virtual WAN"
-    excerpt: "Check Point® Software Technologies Ltd. (NASDAQ: CHKP), a leading provider of cyber security solutions globally, announces the general availability of its industry-leading Next-Generation Cloud Firewall natively integrated with Microsoft Azure Virtual WAN to provide customers with top-notch security."
-    publishedDateTime: 2023-05-18T21:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-check-point-software-extends-its-industry-leading-cloud-/2023/05/18/9817479.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
 
 secured: "it3YT0WVaJMxf7J1hC4FG9qIWqh7dO6RCDx617zclRptrmgarb9hz7ieAXtPK8AoyhFihwDNZt2gBxo0iJc6c2HYF0JPZhB2E43hb1l0PPVi6z7iyMZndJYXdVc8grfyGLI4D2dOaMTvtbGkSY1bdBx31XYEtWL4yI3yIOBQsi8U0sXtUZSTEmZ81J3SnAUXhECbQ1riJsSDjkda35aRO+gdYklDMEbrvrT1oqy8uyMSCQYj3lxtFLAjKdjXm/S7OdyB4/BpkURzvhimN6s7GPzy2x+euMJRSHmZU0eW+I6Tf5qWTJGvPTGDzHZIvIiGgmMFpyxJ+gbNoOk44Yc5aHsHZ3ezhEMyTdPinN8r810NaeBatoBe5WYCImK5IGdrLXTPSbYXZuRLokC51OhAcl4PVlpShuGJcdlqKR9ESQSLtGyxjcSpmMOzXpHX6USWyQDh3vMfoD2XScQObXYOUIYeblTA1KdHJU36P2iRgfSK5d7JGWBbDhhqOizSKVWGXpjPB/lFheWVpDeipEN4zQ==;eYchhQa9zMIP90q8yqZ4Ow=="
 ---

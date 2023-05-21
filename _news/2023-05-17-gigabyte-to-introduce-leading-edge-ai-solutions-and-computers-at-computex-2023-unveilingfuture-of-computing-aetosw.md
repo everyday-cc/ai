@@ -45,6 +45,15 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 45
+  - title: "GIGABYTE to Introduce Leading-Edge AI Solutions and Computers at COMPUTEX 2023, Unveiling “Future of COMPUTING”"
+    excerpt: "Take the Lead in the AI Era with GIGABYTE’s Trailblazing GPU/HPC Servers The emergence of ChatGPT and various generative AI applications are making huge waves of industry evolution, driving all-time demand for AI computing servers. At COMPUTEX ..."
+    publishedDateTime: 2023-05-17T03:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230516005112/en/GIGABYTE-to-Introduce-Leading-Edge-AI-Solutions-and-Computers-at-COMPUTEX-2023-Unveiling-“Future-of-COMPUTING”"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 0
 
 secured: "oVw+reT7Zb+527hoEtmu0cfrF0uneJlzMnudzIrS8imf7ir3H/pFqgNdCjItJnOhZRpOtMymcJ38dedgYtxOM4rF3llAlmLQU44Skaw30zEQHLs1Xm2qARGGBJOIVCpSaIzX1PrhZcDTW8KB2B94nek1G3DEO5j6rwZpm2rGZxZgXq0fmCvqEguLbxL0XYBHp3IHN0qyvrUKhFEcbJONJOF/UZS8BRz70K8cFFNmVEVBUgx6cw7wt7Xs7HhhjmakEDkJSabZD7pIGCPKv6YdoPzTDzCDEIZftmWPJlC8/wZW60XHX5j4f65XEGUjf4SuOXDKrsEfEuNe0x/F3VeHCelbrvcmik3W52wuIs2bxXRm4bYNct5GnVIAW+yL9aX7ybLnLgmE85Qi2nA7KiojNird3S74m/qbLc0KOIAvrV2mw/hXC6WeNcomvuVr0X2zHzyGs5wkcY7TF8b5fNzT8xyRyMCv4WZYO/N+3F3AYgWMR4X5ZX4e7lQVt52S6viYEkcZuoWHEoLXOLS4DnEOdQ==;03KbCiAPDiGx2CeN5IeA8Q=="
 ---

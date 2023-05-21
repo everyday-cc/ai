@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-ope
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Stability AI open sources its AI-powered design studio"
+    excerpt: "Stability AI has open sourced its AI-powered design studio, which taps generative AI for image creation and editing."
+    publishedDateTime: 2023-05-18T22:31:00Z
+    webUrl: "https://techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/"
+    ampWebUrl: "https://techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Optimist’s Guide to Artificial Intelligence and Work"
     excerpt: "Companies like IBM and the British telecommunications company BT have cited artificial intelligence as a reason for reducing head count, and new tools like ChatGPT and DALL-E make it possible for anyone to understand the extraordinary abilities of artificial intelligence for themselves."
     publishedDateTime: 2023-05-20T12:01:00Z

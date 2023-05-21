@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/pidgin/tori-65564971.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/pidgin/tori-65564971.amp"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nigeria election: Àṣírí àwọn èsì ìdìbò tí wọ́n kọwọ́ bọ̀ lójú rèé"
-    excerpt: "Nigba ti a ṣe ayẹwo aworan to wa lori atẹ Facebook naa pẹlu aworan ti Ariaga nigba to wa ka esi ibo naa, ẹ̀rọ Amazon Rekognition jẹ ko ye wa pe eniyan kan naa ni awọn mejeeji. Dr Ariaga ko fun wa lesi si gbogbo awọn atẹjiṣẹ ta kọ ..."
-    publishedDateTime: 2023-05-16T15:39:00Z
-    webUrl: "https://www.bbc.com/yoruba/afrika-65613862"
-    ampWebUrl: "https://www.bbc.com/yoruba/afrika-65613862.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/yoruba/afrika-65613862.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_yoruba/7854/production/_129440803_tinubu1.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Nigeria election: The mystery of the altered results in disputed poll"
     excerpt: "When we compared an image from this account to the television pictures of Dr Ariaga using Amazon Rekognition software, we achieved a match of 97.2%, indicating a very high probability they're the ..."
     publishedDateTime: 2023-05-17T06:30:00Z

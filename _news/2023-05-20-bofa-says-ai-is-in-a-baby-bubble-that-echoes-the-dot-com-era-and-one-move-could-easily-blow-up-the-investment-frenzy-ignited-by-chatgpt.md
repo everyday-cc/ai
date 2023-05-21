@@ -271,22 +271,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "ChatGPT's chief to testify before Congress amid concerns about AI risks"
-    excerpt: "The head of the artificial intelligence company that makes ChatGPT will testify before Congress as lawmakers call for new rules to guide the rapid development of AI technology. OpenAI CEO Sam Altman is scheduled to speak at a Senate hearing Tuesday."
-    publishedDateTime: 2023-05-16T15:17:00Z
-    webUrl: "https://www.fox7austin.com/news/chatgpts-chief-to-testify-congress-concerns-ai-risks"
-    ampWebUrl: "https://www.fox7austin.com/news/chatgpts-chief-to-testify-congress-concerns-ai-risks.amp"
-    cdnAmpWebUrl: "https://www-fox7austin-com.cdn.ampproject.org/c/s/www.fox7austin.com/news/chatgpts-chief-to-testify-congress-concerns-ai-risks.amp"
-    type: article
-    provider:
-      name: FOX 7 Austin KTBC
-      domain: fox7austin.com
-    quality: 57
-    images:
-      - url: "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2023/05/932/470/Chat-GPT.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
   - title: "ChatGPT chief says AI should be regulated by US, global agency"
     excerpt: "While Congress isn’t poised to act, U.S. agencies are promising to crack down on harmful AI products that break existing civil rights and consumer protection laws."
     publishedDateTime: 2023-05-17T04:39:00Z
@@ -347,21 +331,19 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "ChatGPT boss calls on Congress for new agency to regulate artificial intelligence"
-    excerpt: "As this technology advances, we understand that people are anxious about how it could change the way we live. We are too,” OpenAI CEO Sam Altman testified."
-    publishedDateTime: 2023-05-16T16:58:00Z
-    webUrl: "https://www.syracuse.com/us-news/2023/05/chatgpt-boss-calls-on-congress-for-new-agency-to-regulate-artificial-intelligence.html"
-    ampWebUrl: "https://www.syracuse.com/us-news/2023/05/chatgpt-boss-calls-on-congress-for-new-agency-to-regulate-artificial-intelligence.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/us-news/2023/05/chatgpt-boss-calls-on-congress-for-new-agency-to-regulate-artificial-intelligence.html?outputType=amp"
+  - title: "The marriage of embedded finance and AI"
+    excerpt: "Nima Montazeri, CPO of embedded finance solutions platform, Liberis, discusses how embedded finance and AI will revolutionise financial services The hype around artificial intelligence (AI) isn’t going to die down any time soon,"
+    publishedDateTime: 2023-05-21T08:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/the-marriage-of-embedded-finance-and-ai"
     type: article
     provider:
-      name: syracuse.com
-      domain: syracuse.com
-    quality: 52
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 54
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/24T6KPDC2BETDF6QUSNKH63WCM.jpg"
-        width: 4338
-        height: 2892
+      - url: "https://assets.bizclikmedia.net/1200/d0d86a8689971e7a4803707450b2c8c4:e745e31c7b801419fe5a19cb4e5e4e22/nima.jpeg.jpg"
+        width: 1200
+        height: 632
         isCached: true
   - title: "Are you using AI tools like ChatGPT in your day-to-day life? We want to hear from you"
     excerpt: "Artificial intelligence-powered tools such as ChatGPT have exploded online over the last several months. If you're using AI in your day-to-day life, CTVNews.ca wants to hear from you."
@@ -379,22 +361,6 @@ related:
         width: 1020
         height: 572
         isCached: true
-  - title: "ChatGPT chief says artificial intelligence should be regulated by a US or global agency"
-    excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention “will be critical to mitigate the risks of increasingly powerful” AI systems."
-    publishedDateTime: 2023-05-16T15:12:00Z
-    webUrl: "https://www.wdbj7.com/2023/05/16/chatgpts-chief-testifies-before-congress-concerns-grow-about-artificial-intelligence-risks/"
-    ampWebUrl: "https://www.wdbj7.com/2023/05/16/chatgpts-chief-testifies-before-congress-concerns-grow-about-artificial-intelligence-risks/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wdbj7-com.cdn.ampproject.org/c/s/www.wdbj7.com/2023/05/16/chatgpts-chief-testifies-before-congress-concerns-grow-about-artificial-intelligence-risks/?outputType=amp"
-    type: article
-    provider:
-      name: WDBJ
-      domain: wdbj7.com
-    quality: 51
-    images:
-      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/Mw0Zl0A1m1GcWOF1J-XI3NFPyNY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/PHH3LE4TOZHSFHJ4IVE2CQWMY4.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Generative AI For Business Leaders 101"
     excerpt: "AI stands for \"artificial intelligence,\" which is the simulation of human intelligence in machines to perform tasks that typically require human intelligence, such as decision making, perception and language translation. AI is powered by various techniques ..."
     publishedDateTime: 2023-05-19T14:05:00Z
@@ -404,22 +370,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "ChatGPT’s chief testifies before Congress as concerns grow about artificial intelligence risks"
-    excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention “will be critical to mitigate the risks of increasingly powerful” AI systems."
-    publishedDateTime: 2023-05-16T15:12:00Z
-    webUrl: "https://www.ky3.com/2023/05/16/chatgpts-chief-testifies-before-congress-concerns-grow-about-artificial-intelligence-risks/"
-    ampWebUrl: "https://www.ky3.com/2023/05/16/chatgpts-chief-testifies-before-congress-concerns-grow-about-artificial-intelligence-risks/?outputType=amp"
-    cdnAmpWebUrl: "https://www-ky3-com.cdn.ampproject.org/c/s/www.ky3.com/2023/05/16/chatgpts-chief-testifies-before-congress-concerns-grow-about-artificial-intelligence-risks/?outputType=amp"
-    type: article
-    provider:
-      name: KY3
-      domain: ky3.com
-    quality: 47
-    images:
-      - url: "https://gray-ky3-prod.cdn.arcpublishing.com/resizer/BR31D5Zu8TF1TlABWCjwhE39c8U=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/GBASQ5AZXVEKZN6MWEJOUX5FSE.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Going Beyond Generative AI To Truly Solve Productivity"
     excerpt: "With generative AI output, it’s important to note that the information provided is usually of a descriptive or informative nature."
     publishedDateTime: 2023-05-17T13:45:00Z
@@ -447,22 +397,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "ChatGPT's chief testifies before Congress, calls for new agency to regulate artificial intelligence"
-    excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention “will be critical to mitigate the risks of increasingly powerful” AI systems. O"
-    publishedDateTime: 2023-05-16T16:36:00Z
-    webUrl: "https://www.postregister.com/businessreport/healthcare/chatgpts-chief-testifies-before-congress-calls-for-new-agency-to-regulate-artificial-intelligence/article_5ae12cde-4d8e-5722-905f-80bc921bdbf2.html"
-    ampWebUrl: "https://www.postregister.com/businessreport/healthcare/chatgpts-chief-testifies-before-congress-calls-for-new-agency-to-regulate-artificial-intelligence/article_5ae12cde-4d8e-5722-905f-80bc921bdbf2.amp.html"
-    cdnAmpWebUrl: "https://www-postregister-com.cdn.ampproject.org/c/s/www.postregister.com/businessreport/healthcare/chatgpts-chief-testifies-before-congress-calls-for-new-agency-to-regulate-artificial-intelligence/article_5ae12cde-4d8e-5722-905f-80bc921bdbf2.amp.html"
-    type: article
-    provider:
-      name: Post Register
-      domain: postregister.com
-    quality: 45
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/e/c4/ec4644a6-b018-5378-91d3-183bbd39eab1/6462bc5b5dc5a.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "ChatGPT’s chief testifies before Congress, calls for new agency to regulate artificial intelligence"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention “will be critical to mitigate the risks of increasingly powerful” AI systems."
     publishedDateTime: 2023-05-16T17:47:00Z
@@ -494,20 +428,6 @@ related:
       - url: "https://cdn.redmondpie.com/wp-content/uploads/2023/05/chatGPT-iPhone.jpg"
         width: 1200
         height: 640
-        isCached: true
-  - title: "AI Triumph: ChatGPT Passes Radiology Exams"
-    excerpt: "ChatGPT has successfully passed a radiology board-style exam, demonstrating the potential of large language models in medical contexts."
-    publishedDateTime: 2023-05-16T16:31:00Z
-    webUrl: "https://neurosciencenews.com/ai-radiology-chatgpt-23252/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 39
-    images:
-      - url: "https://neurosciencenews.com/files/2023/05/chatgpt-radiology-exam-neurosinces.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "AI isn’t new to the supply chain, but ChatGPT is expanding its role"
     excerpt: "ChatGPT and other advanced AI tools are looking to find homes in supply chain software and in some cases already have."
@@ -589,34 +509,6 @@ related:
       - url: "https://i.cdn.newsbytesapp.com/images/l5520230519104316.jpeg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "ChatGPT CEO testifies before Congress as concerns grow about AI risks"
-    excerpt: "Sam Altman told Congress on Tuesday that government intervention \"will be critical to mitigate the risks of increasingly powerful” AI systems."
-    publishedDateTime: 2023-05-16T15:07:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2023/05/16/chatgpt-ceo-testifies-before-congress-as-concerns-grow-about-ai-risks/70222916007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 37
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/05/16/PDTN/f3f9d9f4-7be7-4295-8e3c-c3a5f0bb873a-AP23124580482542.jpg?auto=webp&crop=509,287,x501,y51&format=pjpg&width=1200"
-        width: 1200
-        height: 677
-        isCached: true
-  - title: "ChatGPT’s chief calls for new federal agency to regulate AI"
-    excerpt: "And while there’s no immediate sign that Congress will craft sweeping new AI rules, as European lawmakers are doing, the societal concerns brought Altman and other tech CEOs to"
-    publishedDateTime: 2023-05-16T16:43:00Z
-    webUrl: "https://www.c4isrnet.com/federal-oversight/congress/2023/05/16/chatgpts-chief-calls-for-new-federal-agency-to-regulate-ai/"
-    type: article
-    provider:
-      name: C4ISRNET
-      domain: c4isrnet.com
-    quality: 37
-    images:
-      - url: "https://www.c4isrnet.com/resizer/mXwHQ7VIhta78WsJT7efTcguf28=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/WBTSLREOY5ER7KEUW5BJIK46PY.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "ChatGPT chief says AI should be regulated"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention will be critical to mitigating the risks of increasingly powerful AI systems."
@@ -774,15 +666,6 @@ related:
       name: Mint
       domain: livemint.com
     quality: 19
-  - title: "ChatGPT’s chief testifies before Congress as AI concerns grow"
-    excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention \"will be critical to mitigate the risks of"
-    publishedDateTime: 2023-05-16T15:51:00Z
-    webUrl: "https://lasvegassun.com/news/2023/may/16/chatgpts-chief-testifies-before-congress-as-ai-con/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 17
   - title: "ChatGPT chief calls for AI rules"
     excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention will be critical to mitigating the risks of increasingly powerful AI systems."
     publishedDateTime: 2023-05-17T10:39:00Z

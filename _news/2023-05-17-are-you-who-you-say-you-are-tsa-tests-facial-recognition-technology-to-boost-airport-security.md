@@ -9,7 +9,7 @@ ampWebUrl: "https://abc7news.com/amp/tsa-facial-recognition-airport-security-tra
 cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
 type: article
 quality: 79
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       name: The Spectrum
       domain: thespectrum.com
     quality: 46
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/05/16/PREN/08c5e615-7904-4d40-8684-d11579b6c89f-AP23116691290041.jpg?auto=webp&crop=7421,4175,x0,y378&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Las Vegas airport among sites testing TSA facial recognition technology, raising privacy concerns"
-    excerpt: "TSA says the pilot is voluntary and accurate, but critics have raised concerns about questions of bias in facial recognition technology and possible repercussions for passengers who want to opt out."
-    publishedDateTime: 2023-05-16T15:46:00Z
-    webUrl: "https://www.rgj.com/story/news/2023/05/16/las-vegas-airport-among-ttsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/70223093007/"
-    type: article
-    provider:
-      name: Reno Gazette-Journal
-      domain: rgj.com
-    quality: 41
     images:
       - url: "https://www.gannett-cdn.com/presto/2023/05/16/PREN/08c5e615-7904-4d40-8684-d11579b6c89f-AP23116691290041.jpg?auto=webp&crop=7421,4175,x0,y378&format=pjpg&width=1200"
         width: 1200

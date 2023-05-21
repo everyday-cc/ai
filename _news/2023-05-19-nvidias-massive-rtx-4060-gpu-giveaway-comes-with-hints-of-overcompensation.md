@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "MediaTek will reportedly build a flagship SoC with an integrated Nvidia GPU for 2024"
+    excerpt: "MediaTek is reportedly working with Nvidia to develop a flagship smartphone SoC that would include an Nvidia GPU."
+    publishedDateTime: 2023-05-18T05:30:00Z
+    webUrl: "https://www.phonearena.com/news/mediatek-flagship-ap-2024-nvidia-gpu_id147577"
+    type: article
+    provider:
+      name: PhoneArena
+      domain: phonearena.com
+    quality: 32
+    images:
+      - url: "https://m-cdn.phonearena.com/images/article/147577-wide-two_1200/MediaTek-will-reportedly-build-a-flagship-SoC-with-an-integrated-Nvidia-GPU-for-2024.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "PNY Introduces Latest NVIDIA GeForce RTX 40 Series GPU Family"
     excerpt: "PNY announced today the expansion of its revolutionary NVIDIA GeForce RTX 40 Series PNY and XLR8 Gaming family of GPUs with the addition of the new GeForce RTX 4060 family."
     publishedDateTime: 2023-05-18T12:59:00Z
@@ -28,29 +42,6 @@ related:
       name: Worth Playing
       domain: worthplaying.com
     quality: 19
-  - title: "AMD RX 7600 GPU specs spilled ahead of imminent NVIDIA RTX 4060 Ti launch"
-    excerpt: "A fresh leak from GPU-Z gives us the full lowdown on the spec, which lines up with previous rumors - all we need to know now is the price of the RX 7600.."
-    publishedDateTime: 2023-05-18T11:56:00Z
-    webUrl: "https://www.tweaktown.com/news/91519/amd-rx-7600-gpu-specs-spilled-ahead-of-imminent-nvidia-rtx-4060-ti-launch/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 18
-  - title: "PNY VERTO™ GeForce RTX™ 4060 Family of Graphics Cards; PNY Introduces Latest NVIDIA® GeForce RTX™ 40 Series GPU Family with DLSS 3"
-    excerpt: "PNY announced today the expansion of its revolutionary NVIDIA GeForce® RTX™ 40 Series PNY and XLR8 Gaming family of GPUs with the addition of the new GeForce RTX 4060 family. PNY GeForce RTX 4060 Ti 8GB will be available May 24th at top retail partners,"
-    publishedDateTime: 2023-05-18T14:44:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/18/9817111.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
-    images:
-      - url: "https://mma.prnewswire.com/media/2079789/PNY_NVIDIA_GeForce_RTX_40_Series_GPU_Family_with_DLSS_3.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "kMAnHY2ejEQlFjG83sBNqCKlzOK+LRTZ9dEPXMtzv9NBf/Zja4A655Nta9z10QTaPi9UvnFr+gutrV5fJiwYgVXhJ9oUTDcr9eY/ZK6a5UfLTnN3fjwJyG5Wss7/1mEq08oAV3+KpbYK6wFZrYklZtYV/JR3TIPwXau9mgtL+ZbpHKQfO1GMaw/Rjp7rA/0YvbBvLRSBKzuzIByPJJWEEfWIzoCsHVjgi8/bngzp4bdlRM85r0/Dg2Cbs3RzBbVFAdpWmMSSKNgWju1yIioSVgc9sZKhrhrGuehiJiWhI8/cFlfTwooJxOFvJJfbg93NIMHRUu2Wlsm7f+gmcpdPezypji3U59k++72UpqeFq6yfxM4V2ZS3JXOEAo6OKXMd8od+CGgMVqPyfDTSyZz+dMJsJrXsfeOkywXGOxN7cQMbsKUMV00GgaiOao+oDwdEVPQWN6yVNRjdpaYhU2CPYPgOlMT5G1QiYkrXIqnkWZ22cptvy053aokBOX78+gawANE1IUYhIx13680ZJAcGPg==;0gztltMv6+M4ikLPehvG/A=="
 ---

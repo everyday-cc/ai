@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Stability AI open sources its AI-powered design studio"
+    excerpt: "Stability AI has open sourced its AI-powered design studio, which taps generative AI for image creation and editing."
+    publishedDateTime: 2023-05-18T22:31:00Z
+    webUrl: "https://techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/"
+    ampWebUrl: "https://techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "We Put Google’s New AI Writing Assistant to the Test"
     excerpt: "I used Duet AI to send emails and plan my wedding. Its writing can be stuffy and stereotyping—but it’s a glimpse of the future of productivity apps."
     publishedDateTime: 2023-05-20T10:00:00Z

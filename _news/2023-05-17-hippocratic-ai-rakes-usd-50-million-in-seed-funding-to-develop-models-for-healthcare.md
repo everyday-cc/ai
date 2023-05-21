@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/hippocratic-ai-rakes-usd-50-m
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare/amp/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/stethoscope-2617701_1280.jpg"
         width: 1280
         height: 816
-        isCached: true
-  - title: "Hippocratic AI launches with $50M seed"
-    excerpt: "Hippocratic AI launched with a $50 million seed round from General Catalyst and Andreessen Horowitz for its large language model (LLM) in health care. Why it matters: This is one of the largest seed checks a16z has written for a health care company, signaling its strong desire to get in on the ground floor of AI."
-    publishedDateTime: 2023-05-16T16:57:00Z
-    webUrl: "https://www.axios.com/pro/health-tech-deals/2023/05/16/hippocratic-ai-launches-with-50m-seed"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 39
-    images:
-      - url: "https://images.axios.com/WTw81py2ID-YqF993r4SVsbNq0A=/0x0:1920x1080/1366x768/2023/05/16/1684247431226.jpg"
-        width: 1366
-        height: 768
         isCached: true
 
 secured: "wxwhIM5A7U1ycCtGPWt+MmfUAPo031f6NHz0adQCrG2mkSv4K+HM6+REvPFhrsAFCPtL/C5Yi5C4rAgCp/1VbTuUh2ckoWwn6QFzCjtDLr/D5axFAxtjhAmhXxMzk5kSyaEp7xBopsQCgPG5NJBuMojTwZR9u0L/lYwMUCmgXSv6kCm2hG2diOylM9GmcGrvuSpWPS7HiK7FwhFAQSQ5lW2l1dLbnZ88CTt7N0SH12sSsehgkjNJ9AbCnz5snTdIEccb+X58pdykS2iA6+r0cEOrCge4vcRDEMK967XKYCbtcjXyMkIxFC6zuIboyjOsRrUNG4K2UvJg4L7fajG+YjMUu8mQtRexsjrBkxN19QG65Zu9ItRslOyEOdRhP4UZ/WlR/L2AF0p+S2q+U+ovjwOoGEnVJZsEuznYs8oHeVz+Yjw8rwprM3P9ZKdKAiO/nsLbNLTAaKSc9GHrriCTB0iftSSzL1gA+IfScrt5CTnMAvS0s/b380cvj5e0n+xmiM9SS6vW12xnITqWwmB/2A==;IDG98T8tCWiKRbcSCz3uuQ=="

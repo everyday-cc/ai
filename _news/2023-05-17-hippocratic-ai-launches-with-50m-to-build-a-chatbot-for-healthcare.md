@@ -41,20 +41,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "Hippocratic AI launches with $50M seed"
-    excerpt: "Hippocratic AI launched with a $50 million seed round from General Catalyst and Andreessen Horowitz for its large language model (LLM) in health care. Why it matters: This is one of the largest seed checks a16z has written for a health care company, signaling its strong desire to get in on the ground floor of AI."
-    publishedDateTime: 2023-05-16T16:57:00Z
-    webUrl: "https://www.axios.com/pro/health-tech-deals/2023/05/16/hippocratic-ai-launches-with-50m-seed"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 39
-    images:
-      - url: "https://images.axios.com/WTw81py2ID-YqF993r4SVsbNq0A=/0x0:1920x1080/1366x768/2023/05/16/1684247431226.jpg"
-        width: 1366
-        height: 768
-        isCached: true
 
 secured: "pe6OLUl+W4nfFqPjpQkeGHwnxQ5wMLjyLIUEwX9WadBgyemGM/GDrFB0AgQXdqwGk38QKOyr+Qk15p8XQRASlEX13WoizB93dF6Yh4B8L5G2xsUQoiEM5olwdaLiNUxpX7ibBZr7KX0r1TmdhOZp5bjbcUMTDjtRh3HrtfAuu66A8tjS8326Veja5tYfLIroP4Drw4TCY1LysFRI5FVlzsS0szvLyt8bAaFkLLeENLlR4jyCDvYDbbod2DAHZCmRVZ5y+uFVC6A6fNeGBUdShtJd6i3opHGNdfDSU3Lm90H9LzHax//BfIg1aA2X5vZMBgf6vnB2YwhPL575TSRNyi7PwONAvja50GuktYKU1SPtf2vLdXfIL0/jx1ZvGdDeI2Ur51wvncja393iky+ao5t7QI8HuMsca41kiJ2TO3iFuWLXITCD8PRD4UlF/1SarC1pArjN9cyj1jcs5G55ZRvbebugGWmXYjYr8wd3CaExBByvcA/QdMj9+SlgPy1EqM5aBtrlZ2V/jWlTPJsscg==;L7yyU05yMeAz2cMHwrhBXQ=="
 ---
