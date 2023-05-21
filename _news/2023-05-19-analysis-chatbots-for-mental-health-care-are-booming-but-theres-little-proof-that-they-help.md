@@ -31,15 +31,20 @@ images:
     isCached: true
 
 related:
-  - title: "The frightening truth about AI chatbots: Nobody knows exactly how they work"
-    excerpt: "Nobody really knows how chatbots work. The AI community is divided on whether that fact could come to haunt us as the technology improves and proliferates."
-    publishedDateTime: 2023-05-17T03:59:00Z
-    webUrl: "https://www.fastcompany.com/90896928/the-frightening-truth-about-ai-chatbots-nobody-knows-exactly-how-they-work"
+  - title: "Tech wants AI chatbots to help ease loneliness. Experts are skeptical"
+    excerpt: "For example, for some people who are in a very isolated state and incapable of doing basic prosocial activities, an AI bot could help start a conversation with a human. However, one potential drawback is that some people may start to feel safer or more ..."
+    publishedDateTime: 2023-05-21T20:06:00Z
+    webUrl: "https://www.salon.com/2023/05/21/tech-wants-ai-chatbots-to-help-ease-loneliness-experts-are-skeptical/"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 15
+      name: Salon
+      domain: salon.com
+    quality: 37
+    images:
+      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/05/person_talking_to_chatgpt_logo_1227304735.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "kyVdx7X7+QeAN6DuC8Ueu5JWSCTfb+tKT2pTOhMc+Mp/Ez0jqLkb0uGqoISEmtGfQmgI55CUwuI3Srn+benF3kHhAqeJZ8LZWPWrJ1FJ1wp59hIgPTLcGij5vV9/XhxhM89RIjUU2KEvI/ZzkmSEExB0RopYzyDBh+MzLymKs0pTZMYIqAg/wdQz1dWhjXpmqbkHmqfXVbcIuNOl2W47Et0lEKYvV1lKj1wxR4vmqnfirz4vpKsiA1pPqh5HizczOHCqk+jFBRJA3287SuLhb3uV4XKPnNY+cjHYHCop6zmkD39tAiNfq8ZItpCGda4j6MJB+OcUC62QA5P6OOfFqkU53ec9IjS14ttm/CANOJ4=;zayWaG5SpBU6m7/QnLR0Jw=="
 ---

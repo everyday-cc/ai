@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-19-is-tom-hanks-doomed-to-be-digitally-resurrected-by-ai.md",
+      "title": "Is Tom Hanks Doomed To Be Digitally Resurrected By AI?",
+      "excerpt": "James Dean, who died in 1955, was set to be digitally resurrected for the war film Finding Jack, which was reportedly canceled, but not before sparking uproar from movie-lovers and actors. Chris Evans ( Captain America) and Elijah Wood, ( The Lord of the Rings) both tweeted their distaste for the proposed project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danidiplacido/2023/05/18/is-tom-hanks-doomed-to-be-digitally-resurrected-by-ai/",
+      "originalUrl": "https://www.forbes.com/sites/danidiplacido/2023/05/18/is-tom-hanks-doomed-to-be-digitally-resurrected-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6466780977fe545ec0b1abca/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danidiplacido/2023/05/18/is-tom-hanks-doomed-to-be-digitally-resurrected-by-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2023/05/18/is-tom-hanks-doomed-to-be-digitally-resurrected-by-ai/amp/",
+      "publishedDateTime": "2023-05-18T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-ibm-named-a-leader-in-the-latest-forrester-wave-report-for-ai-decisioning.md",
       "title": "IBM named a Leader in the latest Forrester Wave™ report for AI Decisioning",
       "excerpt": "Forrester Research just released the latest Forrester Wave™ report, and IBM is proud to be recognized as a Leader. \nThe post IBM named a Leader in the latest Forrester Wave™ report for AI Decisioning appeared first on IBM Blog.\n",
@@ -41,58 +92,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-worlds-first-100-ai-controlled-and-executed-house-purchase-processed-by-morgan.md",
-      "title": "World's First 100% AI-Controlled and Executed House Purchase Processed by MORGAN",
-      "excerpt": "From home finding to mortgage application to ownership, the homeowner's personal AI assistant is making home buying easier using Celligence",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/world-s-first-100-ai-controlled-and-executed-house-purchase-processed-by-morgan-1032338191",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/world-s-first-100-ai-controlled-and-executed-house-purchase-processed-by-morgan-1032338191",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.accesswire.com/users/newswire/images/755900/1487acf2f0fc70a46e1a65320d42.jpg",
-          "width": 697,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     },

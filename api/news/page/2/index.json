@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-19-improved-cpu-throttling-measurement.md",
+      "title": "Improved CPU throttling measurement",
+      "excerpt": "IBM Turbonomic now offers a significant improvement in the way that we measure the level of CPU throttling.\nThe post Improved CPU throttling measurement appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/improved-cpu-throttling-measurement/",
+      "originalUrl": "https://www.ibm.com/blog/improved-cpu-throttling-measurement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/donedsc07769retocada.lr_-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-19T10:08:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-19-new-meta-ai-chip-to-power-the-metaverse-and-create-a-new-virtual-world.md",
       "title": "New Meta AI Chip to Power the Metaverse and Create a New Virtual World",
       "excerpt": "Meta, the parent company of Facebook, Instagram, and WhatsApp, is developing its own AI chip to power its next-generation AI applications. The chip, called the Meta Training and Inference Accelerator (MTIA),",
@@ -215,7 +266,7 @@
       "originalUrl": "https://www.thenews.com.pk/latest/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -404,7 +455,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1154,57 +1205,6 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-is-tom-hanks-doomed-to-be-digitally-resurrected-by-ai.md",
-      "title": "Is Tom Hanks Doomed To Be Digitally Resurrected By AI?",
-      "excerpt": "James Dean, who died in 1955, was set to be digitally resurrected for the war film Finding Jack, which was reportedly canceled, but not before sparking uproar from movie-lovers and actors. Chris Evans ( Captain America) and Elijah Wood, ( The Lord of the Rings) both tweeted their distaste for the proposed project.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danidiplacido/2023/05/18/is-tom-hanks-doomed-to-be-digitally-resurrected-by-ai/",
-      "originalUrl": "https://www.forbes.com/sites/danidiplacido/2023/05/18/is-tom-hanks-doomed-to-be-digitally-resurrected-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6466780977fe545ec0b1abca/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danidiplacido/2023/05/18/is-tom-hanks-doomed-to-be-digitally-resurrected-by-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2023/05/18/is-tom-hanks-doomed-to-be-digitally-resurrected-by-ai/amp/",
-      "publishedDateTime": "2023-05-18T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

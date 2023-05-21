@@ -274,22 +274,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "ChatGPT chief says AI should be regulated by US, global agency"
-    excerpt: "While Congress isn’t poised to act, U.S. agencies are promising to crack down on harmful AI products that break existing civil rights and consumer protection laws."
-    publishedDateTime: 2023-05-17T04:39:00Z
-    webUrl: "https://www.dailynews.com/2023/05/16/chatgpt-chief-says-ai-should-be-regulated-by-us-global-agency/"
-    ampWebUrl: "https://www.dailynews.com/2023/05/16/chatgpt-chief-says-ai-should-be-regulated-by-us-global-agency/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2023/05/16/chatgpt-chief-says-ai-should-be-regulated-by-us-global-agency/amp/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 57
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2023/05/sjm-542619.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "BofA says AI is in a 'baby bubble' that echoes the dot-com era, and one move could easily blow up the investment frenzy ignited by ChatGPT"
     excerpt: "The Nasdaq is soaring this year as AI investing inspired by ChatGPT rages on. Bank of America says a Fed policy error could burst the bubble."
     publishedDateTime: 2023-05-20T14:15:00Z

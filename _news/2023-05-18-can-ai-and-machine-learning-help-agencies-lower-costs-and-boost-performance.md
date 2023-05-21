@@ -34,6 +34,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
+  - title: "Kaiser creates new AI, machine learning grant program"
+    excerpt: "The Permanente Medical Group, part of Oakland, Calif.-based Kaiser Permanente, has launched a new AI and machine learning program that will grant three to five health systems up to $750,000. The program, dubbed the Kaiser Permanente Northern California ..."
+    publishedDateTime: 2023-05-17T14:53:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/kaiser-creates-new-ai-machine-learning-grant-program.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "PlARBWfej4BUgvcD0EWThzm70/Wr6QQd09Y+TnU5SdIUYpyiYq2JIiMeWS92tOXDdDOq0KSPAc1a9dOJXFreEvqg64lTx81jYA0DOvSlekQ95vub075gkSY+qyBpRmiMq6rS6Y8rqUiJjuDtcQwDPrew15piaKOK9KYvh04hg+V09YvpSwtwp7I4goC1zIWxe4Xk51a4w8+BSUJkURyV1wwd8xNWhFWOj+Eb56J2nsciU3GrRYh2Ziv5ba9uooGUwiF8lDlzcxiwiDyObjegQj/nowfTcSOPqOrDA3Ymn4A/7uwVCkHVRHFvvUSjLVnebjPXcFqSF0R7N/4JOuA3KlkuwGBFoEMi1Otj0Pg/S0sekwUqiYgHqiv0CYrgPytrR0CAMO5QpD3AuuG2zyyPClWzDrSL3EXAjXpthsJSR2KtPtpl5GJMg0tey8NX+IT7MvkdjX5QsuYBhIyIkIy4nmAPSrhfVcVJ05e5utCntJ1Xlr72z6OW5zKfjSdYO5x+hAV9jYp37wlVZ9PLMqhVnA==;tFLV52VD2WXoBMCX8p5uiA=="
 ---

@@ -2,45 +2,23 @@
 category: news
 title: "TSA tries out facial recognition technology at 16 U.S. airports"
 excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through -- all without having to hand over their identification to the TSA officer sitting behind the screen."
-publishedDateTime: 2023-05-21T07:41:00Z
-originalUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
-webUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+publishedDateTime: 2023-05-21T07:46:00Z
+originalUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+webUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Northwest Arkansas Democrat Gazette
-  domain: nwaonline.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204387909_1G2facial0521_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-    width: 600
-    height: 400
-    isCached: true
-
 related:
-  - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
-    excerpt: "It's all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country. \"What we are trying to ..."
-    publishedDateTime: 2023-05-17T05:02:00Z
-    webUrl: "https://abc7news.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
-    ampWebUrl: "https://abc7news.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
-    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/"
-    type: article
-    provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
-    quality: 79
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/10994202_090221-cc-ap-tsa-generic-img.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Las Vegas airport testing facial recognition to screen passengers"
     excerpt: "The TSA says the security program is voluntary and accurate, but critics have raised concerns about bias in facial recognition technology."
     publishedDateTime: 2023-05-17T16:14:00Z
@@ -72,18 +50,18 @@ related:
         height: 480
         isCached: true
   - title: "TSA testing facial recognition at more airports, raising privacy concerns"
-    excerpt: "The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen. It’s all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country."
+    excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"
     publishedDateTime: 2023-05-21T00:30:00Z
-    webUrl: "https://tulsaworld.com/eedition/page-a4/page_ec7d726c-513f-5e72-92a1-549cc4a8604f.html"
+    webUrl: "https://omaha.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_afb8746e-ea8a-551c-bb05-26bfc9b02f28.html"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 53
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/eedition/e/c7/ec7d726c-513f-5e72-92a1-549cc4a8604f/64696e8c27c1c.fullsize-img.jpg"
-        width: 792
-        height: 1638
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/78/d7899d8f-cf01-52ab-acbe-16fe1f61c88c/64642a155739f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "TSA's Facial Recognition Tech Raises Questions About Bias and Data Security"
     excerpt: "Analysts and lawmakers are concerned about a new TSA program that instructs passengers to insert their IDs into a machine and takes a pictures of them."
@@ -94,67 +72,7 @@ related:
       name: Reason
       domain: reason.com
     quality: 49
-  - title: "Harry Reid International Airport in Las Vegas testing TSA facial recognition technology"
-    excerpt: "Harry Reid International Airport in Las Vegas is part of a pilot project by the TSA to assess the use of facial recognition technology."
-    publishedDateTime: 2023-05-17T16:42:00Z
-    webUrl: "https://www.thespectrum.com/story/news/2023/05/17/las-vegas-airport-among-ttsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/70227099007/"
-    type: article
-    provider:
-      name: The Spectrum
-      domain: thespectrum.com
-    quality: 46
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/05/16/PREN/08c5e615-7904-4d40-8684-d11579b6c89f-AP23116691290041.jpg?auto=webp&crop=7421,4175,x0,y378&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Police Facial Recognition Technology Can’t Tell Black People Apart"
-    excerpt: "This happened three years ago to Robert Williams, a Black father in suburban Detroit. Sadly Williams’ story is not a one-off. In a recent case of mistaken identity, facial recognition technology led to the wrongful arrest of a Black Georgian for purse thefts in Louisiana."
-    publishedDateTime: 2023-05-18T14:38:00Z
-    webUrl: "https://www.scientificamerican.com/article/police-facial-recognition-technology-cant-tell-black-people-apart/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 39
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/3A8C75EC-F138-434F-A822F5103920B5AB.jpg"
-        width: 790
-        height: 497
-        isCached: true
-  - title: "Police officers on patrol to deploy facial recognition technology"
-    excerpt: "Facial-recognition technology is to be used in body-worn cameras by officers on patrol as part of government plans to “embed” it in everyday policing.The poli"
-    publishedDateTime: 2023-05-17T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/police-officers-on-patrol-to-deploy-facial-recognition-technology-nkcgxh2f5"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F69d79e6a-f4db-11ed-97af-27f55025e763.jpg?crop=3576%2C2012%2C376%2C656&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Harry Reid International Airport in Las Vegas testing TSA facial recognition technology"
-    excerpt: "It's all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country, including Harry Reid ..."
-    publishedDateTime: 2023-05-18T04:10:00Z
-    webUrl: "https://www.rgj.com/story/news/2023/05/16/las-vegas-airport-among-ttsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/70223093007/"
-    type: article
-    provider:
-      name: Reno Gazette-Journal
-      domain: rgj.com
-    quality: 26
-  - title: "TSA Ramps Up Facial Recognition Pilot"
-    excerpt: "Next time you’re trying to catch a flight, you might spot a new initiative from the Transportation Security Administration (TSA) with a controversial component: facial recognition. The TSA has ramped up its biometric identity verification pilot by installing facial recognition systems in more airports."
-    publishedDateTime: 2023-05-17T19:20:00Z
-    webUrl: "https://www.extremetech.com/internet/tsa-ramps-up-facial-recognition-pilot"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
 
-secured: "SK+OtYBqAuQcG6BdnADoOGRcSrY0zAbDJ3adBkLJPD1S4n+6/zK3JErWq7wUlqrz0P4FK0DvY+3SEmBWe3qkFE44u/1wkW4ILf2JOPvf84Z1xExfysIDuH7026oXANvQY7fiiMLbXRiIM4VtWhnLYINCPqzO9dQlyVpXy3/JBaSpQ8fkHT1BNKma4V8199U+0YiscVYwij4YcdTxCGdpir+eCHtAgmDGsDWuG3rJ/WqOAKtEbmD7qfr2upQReLMZyZnkfceeBqtEu2xdI61lEcNtdJCqawIGSbWdhlA24l49R7I01giucqQwN1QYo8ZpVLlBycE1rZKELtnlfRKQqvuRT+uYDlpHB6JsMUlfw6I=;4uYq+TnxL6SY1MCA7hs+TQ=="
+secured: "uPZ2usUjHE0sPa40slFcoacEd1AxUx55r/x9ZgYBJus4ZXxbkiAn32k6FP34PwbkqFNbRwspL4xMivqjOMMuMgddfV6aba9QTKjwojCSSpnSMFQul+spCrZ28UYbQbb3KMeKNFSoh4Z0UzshTPZWG87ixIDa91CEfbpriOscRVmMPMjzI2Wd5v/tPoRUI6Eq+QxEHfyhiekyqsFR0XwR50rc7a0veRo0Vg5l9jXUMVGjkWvZ9mBAOAcl//NVbSVSy1ZAv48G8sp8qvvvuqWAP5i2lweOmFbTz47e+OgmMM0w7/PCK/XiecRRKEQYe9mLMKsn3UgnvJGacq0i71H/o+AkvXjWw2X/4TCE4uhXdv9duTzG76q5Qp8xh2qFTlI6XLiC9CW8oA0IJ27M0pjJXUsLhoCFQ4bYhaxOjrTXjARAKbM5WerllStG9P+BHxBrXKTUcwpnbEVO8HfkOAchzTENMROPOHcdnqpyqwFLxQSGCHmdzVtzkRjZwh4NR6+8O+/0C6iizhrJhGKFWDG9Pg==;owcfAfYaT43OHnjoIQ/Bvg=="
 ---
 

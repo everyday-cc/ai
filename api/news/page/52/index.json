@@ -2,6 +2,49 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2023-04-20-artificial-intelligence-ai-chips-market-to-grow-at-a-cagr-of-6151-from-2022-to-2027-growth-from-asics-segment-will-be-significant-technavio.md",
+      "title": "Artificial intelligence (AI) chips market to grow at a CAGR of 61.51% from 2022 to 2027: Growth from ASICs segment will be significant - Technavio",
+      "excerpt": "NEW YORK, April 19, 2023 /PRNewswire/ -- The artificial intelligence (AI) chips market size is estimated to grow by USD 210,506.47 million during 2022-2027. Moreover, the growth momentum will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/n31906424/artificial-intelligence-ai-chips-market-to-grow-at-a-cagr-of-61-51-from-2022-to-2027-growth-from-a",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/n31906424/artificial-intelligence-ai-chips-market-to-grow-at-a-cagr-of-61-51-from-2022-to-2027-growth-from-a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-artificial-intelligence-ai-chips-market-predictions-a-comprehensive-forecast-for-2023-2030.md",
       "title": "Artificial Intelligence (AI) Chips Market Predictions: A Comprehensive Forecast for 2023-2030",
       "excerpt": "Apr 20, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" This comprehensive market research",
@@ -1120,58 +1163,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-04-19T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-self-driving-investment-crash-58-drop-in-autonomous-vehicle-dollars.md",
-      "title": "Self-Driving Investment Crash: 58% Drop In Autonomous Vehicle Dollars",
-      "excerpt": "In 2021, investors poured a record $9.7 billion into autonomous vehicle development. Last year however, that dropped by almost 60% to just $4.1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/19/self-driving-investment-crash-58-drop-in-autonomous-vehicle-dollars/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/19/self-driving-investment-crash-58-drop-in-autonomous-vehicle-dollars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64406323e0d582303d1e5605/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/04/19/self-driving-investment-crash-58-drop-in-autonomous-vehicle-dollars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/04/19/self-driving-investment-crash-58-drop-in-autonomous-vehicle-dollars/amp/",
-      "publishedDateTime": "2023-04-19T15:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/uk-wales-65622404.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-wales-65622404.amp"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Police scan thousands of Beyoncé fans in Cardiff with live face recognition cameras in move branded 'China-like surveillance' by campaigners"
+    excerpt: "Police scanned thousands of Beyoncé fans in Cardiff with live face recognition cameras as campaigners warn of a potential descent into 'China-like surveillance'. Fans flocked to the ..."
+    publishedDateTime: 2023-05-19T07:18:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12099811/Police-scan-Beyonc-fans-Cardiff-live-face-recognition-cameras-China-like-surveillance.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
 
 secured: "XOoSxm09raPoxx9v+Ty1hdKyn/5/kS4Z5U/cdL5pazlAkuk7Ssa083J82r8KoHUyVSXmO6Kr78mSJ6ti5IE6MSMEVJ0pkvspZ+kJQbXmcikpVjJLMsrrXi/EarQoMqznFgTYgzIzsKqAIR9qTBYKYVg0lLJniesgiAHJM2oY3mx8Qokg4jMZMsHhddEr17uaxD5YPsh+qjgrhRzmQgFs6TNRBhf1WkjqkkBv8kkoOjoK+HZaNjOcn4LXH6DnMziESfw7KxB4pKtCUzN65f5eSC1Vuu2u0RVyretOHjGAlr9NdcnpcVCR+sXyOiApxPdtZw2qJOwjNXiiMugoH9Q4UFIFwnGmO+WbouiLpPDGJ6WXR3/B6YQSXIctxpu0WAuyc270qksLvdOG+1hMbW1K3ytDm386Km3oq08EStt2qVhpAtcZtqUfwz47rSQ/T+JXQ5y5F2DZv/yzPnGbYx8fp6wtE3U9cRmndqOD6wBkKTFcBHC9UUbCBS5KZHJ7KHvi8Nsr5ZK7NTuSANYwQ5d45Q==;zIAbyFCvH/NC5LRCZT1bnA=="
 ---

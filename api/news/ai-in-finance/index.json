@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-05-19-worlds-first-100-ai-controlled-and-executed-house-purchase-processed-by-morgan.md",
-      "title": "World's First 100% AI-Controlled and Executed House Purchase Processed by MORGAN",
-      "excerpt": "From home finding to mortgage application to ownership, the homeowner's personal AI assistant is making home buying easier using Celligence",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/world-s-first-100-ai-controlled-and-executed-house-purchase-processed-by-morgan-1032338191",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/world-s-first-100-ai-controlled-and-executed-house-purchase-processed-by-morgan-1032338191",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.accesswire.com/users/newswire/images/755900/1487acf2f0fc70a46e1a65320d42.jpg",
-          "width": 697,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-18-fintech-ramp-launches-money-saving-ai-tools-for-businessesannounces-microsoft-ceo-more-as-investors.md",
       "title": "Fintech Ramp Launches Money Saving AI Tools For Businesses—Announces Microsoft CEO, More As Investors",
       "excerpt": "The four-year-old corporate credit card startup is using OpenAI's GPT-4 and billions of dollars of transaction data to tell businesses whether quoted software prices are a good deal—or not.",
@@ -210,7 +158,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/05/17/chatgpt-and-generative-artificial-intelligence-in-finance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 554,
+      "heat": 544,
       "tags": null,
       "images": [
         {
@@ -1392,6 +1340,58 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-02-best-fintech-app-development-companies-in-the-usa.md",
+      "title": "Best Fintech App Development Companies in the USA",
+      "excerpt": "Fintech app development services are known to develop diverse fintech apps. The introduction involves creating",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/best-fintech-app-development-companies-in-the-usa-2023-05-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     }
   ],

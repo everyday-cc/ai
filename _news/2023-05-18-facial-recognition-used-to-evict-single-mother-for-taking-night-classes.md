@@ -28,15 +28,6 @@ related:
       name: The Washington Post
       domain: washingtonpost.com
     quality: 19
-  - title: "Home Office pushes for more police facial-recognition deployments"
-    excerpt: "UK policing minister Chris Philp is pressing for facial-recognition technology to be rolled out by police forces across England and Wales, and will likely push to integrate the tech with police body-worn video cameras. According to a report co-authored by ..."
-    publishedDateTime: 2023-05-17T13:21:00Z
-    webUrl: "https://www.computerweekly.com/news/366537695/Home-Office-pushes-for-more-police-facial-recognition-deployments"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 4
 
 secured: "y5bPTNFtFSHkmP7kWSruNtfC7mxJOGu7U9ynlws1/kquXInFUh5/iqsdMD6OiHVB5/v+z0/krgNJSPNOaKgemZpSG1uwjt9D7iecNvME/cTDPWdP0TI2wM6ODAfHyA+yA1yBL791GNtSGWTui04oCn2uY9sqo1tLaD3H0DW7S2gNGt/uv+tGE68gWIb6LFMBwPTvp+tQTdLnSCwi2waI9dORrLskhBBIU+RT/jZmxEl3VZ8PPfHwGRtD0qGArT/8VYe/k6lDWZYs9CIVLOUum9gJfeoW7V+9VM5lF7ZxttBduf/wibT5xoEh/H48YAf53cgqNhodbBlzwE5glJHT0geDDRTAipW0rpTJALU3Z8k=;XViVC4Mz98KMRJIVo9oeEw=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/how-to-protect-workers-from-ai-displac
 webUrl: "https://thenextweb.com/news/how-to-protect-workers-from-ai-displacing-jobs"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Next Web
@@ -27,6 +27,17 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Regulating the machine: Europe’s race to get to grips with AI drugs"
+    excerpt: "How do you regulate a drug developed by artificial intelligence? That’s the question Europe's regulators are grappling with as AI medicines speed toward market. At the heart of a regulator's job is the responsibility to ensure that the benefits of a new ..."
+    publishedDateTime: 2023-05-20T16:22:00Z
+    webUrl: "https://www.politico.eu/article/regulate-europe-race-artificial-intelligence-ai-drugs-medicines/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 19
 
 secured: "CRkYAmgq6cSLUB6AEDzFzxc1WS14CihCn1FGRw80TZrxj/FfSjwHI1oDkRpwbgZaBuEMhaRombPudj25uprR8aKAxAbU8Vv6Z63gaCwKsvOE7r76tYi3Y164A5jXsuucO3gMPplFPsNK6sAsKn4zI9BzE6zIngFSBOIyzch4auS4GnlbV5Ha1cBcECaQ8Z8XteD5a2x0Pe/OfPWEwcJP4iUwkfvKrtQI9hBp2dCQoGr5ApzdOm3BkxStCJgFyd1n5LGzSZGAUvpwK0ecmgadZvoZR5LF8hkFsd1Mg3vLl7XMS0FVBCUYBezrq/ycssSNuRkA+O22BZxCxDZU/gsATZraNTLd+qwein1ubqBDZ82+OZIlsRb7wLWj6VwN9TT457NgjWrRHSwSyiw6lk/CY2Z6jULL5At6LQEgDUW/o3809EWyoCpqV2zbTo0FV13Rsj+7FpzU8Tzu4l7JhVGk/ezmk/IoRXvbqOJmQsk+8W9rpKBnWd6mT1MEncO47QAN2DoiFpIeQk4Bm5Mqr5EvjA==;fZUYTKbJlKvz1qdZydAthg=="
 ---

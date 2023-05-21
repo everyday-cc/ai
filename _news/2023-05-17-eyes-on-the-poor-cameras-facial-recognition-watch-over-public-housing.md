@@ -28,15 +28,6 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 19
-  - title: "Home Office pushes for more police facial-recognition deployments"
-    excerpt: "UK policing minister Chris Philp is pressing for facial-recognition technology to be rolled out by police forces across England and Wales, and will likely push to integrate the tech with police body-worn video cameras. According to a report co-authored by ..."
-    publishedDateTime: 2023-05-17T13:21:00Z
-    webUrl: "https://www.computerweekly.com/news/366537695/Home-Office-pushes-for-more-police-facial-recognition-deployments"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 4
 
 secured: "2Aoqa5PVZBi2vQDvgJJkB4VPBgnndEEl+iaZOpQ1YMvdqXjC4B7LFocj3xiDa0AisLO/bjXlUAb5Ztbn3M52cb/V3itPH3zUlvMFQtAPOJ7Mm42W4bgPPcqmd6eWidWkyvAFb3CflXRxgq43KNo1Cf2iDF3HQzH9qyWNgfxwzdifB0pkrOYnVpsL179W2SK6ukK0UbmfARoXI/HMJSwWfCx3/bwtqybk+RGf6ZgJDxwHP0kRB5gCySFOKaHjCUOtJwZGcT3q+r1wJ1mJOG8cQOtih+dfjBXFMJZuedIFkApupNi1WgNR07Gdd5CfEAWF+Gi/Acnu21F8OmElQJ80PmCsoLn225j3wBQSHHVsbH0=;1jG5EVi2FxxNMTGEjF/Lvg=="
 ---

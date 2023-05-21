@@ -71,22 +71,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Ex-Apple employee charged with stealing car tech for China; is now exec at Baidu’s self-driving car JV"
-    excerpt: "Apple has been rumoured to be working on a self-driving car for years. It is said to be one of the biggest projects that the iPhone maker is working o"
-    publishedDateTime: 2023-05-17T03:06:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/ex-apple-employee-charged-with-stealing-car-tech-for-china-is-now-exec-at-baidus-self-driving-car-jv/articleshow/100291514.cms"
-    ampWebUrl: "https://m.timesofindia.com/gadgets-news/ex-apple-employee-charged-with-stealing-car-tech-for-china-is-now-exec-at-baidus-self-driving-car-jv/amp_articleshow/100291514.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/ex-apple-employee-charged-with-stealing-car-tech-for-china-is-now-exec-at-baidus-self-driving-car-jv/amp_articleshow/100291514.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 43
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-100291502,width-1070,height-580,imgsize-8852,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1068
-        height: 580
-        isCached: true
   - title: "Former Apple engineer charged for stealing self-driving tech for Chinese company"
     excerpt: "Weibao Wang was a software engineer at Apple between 2016 and 2018 and served on the Annotation Team, granting him access to exclusive databases, which were restricted to a select few employees."
     publishedDateTime: 2023-05-17T07:47:00Z
@@ -103,15 +87,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Ex-Apple Engineer Charged With Stealing Self-Driving Tech For Chinese Company"
-    excerpt: "After authorities searched his home for allegedly stealing Apple's autonomous tech in 2018, Weibao Wang boarded a flight to China, where he remains"
-    publishedDateTime: 2023-05-17T02:34:00Z
-    webUrl: "https://www.carscoops.com/2023/05/ex-apple-engineer-charged-with-stealing-self-driving-tech-for-chinese-company/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 1
 
 secured: "DscbLfRrdKYX7oxJmbAuoYk6C69dHiH54EqR4i5fDW8gYt4e6IG4bgna7hiuFE+MWitt1vcLtznVCITgj7Ug00zqg7I/5TmQA7d9bnkv6u0kiFNMBtqqIXUj4y0LlpSI9sdTcXa2DvXJNiZE6ecul6+oruJfyswWlKk3XWiWf5QCwqxDcF/yARE+8D6yXSfl5xFFA39sF7EkUXfol4paLyoUu7J+iTQZjejagffWulzbnhbWtdU/RP5EpJ477QidkAbK+PFPGjKB5Yun6PQE/ocxPPl6gZzgriViVbAMe94m/UULOCs6oIz9WYKYnpQATYV3AWVy/xmiEbS4KMwpmpYnqxcpvl8E+HvNekFqrvVZ0n0VoNjNp49x0PW4sjyOxbjm5faphmQmy2QWkc/E06GOwr0AGsKUzORt2h10hLxAj64e8ViZ5Lo0Do4C5XESnm5PZilOyzJhRKBJZOtn3AxpNqZAv8sUBaxiExhx9GdYV8Hvh6M6lOqFWzcWsyhOJhgatUGYv2XiMfYnz2mdwA==;/n/Lno103FE5vDtHhEbZYA=="
 ---

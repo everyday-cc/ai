@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Special Edition with Andrew Ross Sorkin: AI and Microsoft CEO Satya Nadella"
-    excerpt: "Artificial Intelligence is a profound new technology that will have implications – good and bad – on all our lives. In this latest episode of “Special Edition,” host Andrew Ross Sorkin sits down with Microsoft CEO Satya Nadella."
-    publishedDateTime: 2023-05-17T01:48:00Z
-    webUrl: "https://www.nbcnews.com/now/video/special-edition-with-andrew-ross-sorkin-ai-and-microsoft-ceo-satya-nadella-174543941895"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo174543941895"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174543941895"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 102
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/101422_NBC_NEWS_NOW_GFX_SORKIN_FS_copy_3-esrvh7.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Twitter accuses Microsoft of misusing its data, foreshadowing a fight over AI"
     excerpt: "In a letter, a lawyer for Musk accused Microsoft of misusing the service’s data and demanded an audit from the software giant."
     publishedDateTime: 2023-05-19T14:53:00Z

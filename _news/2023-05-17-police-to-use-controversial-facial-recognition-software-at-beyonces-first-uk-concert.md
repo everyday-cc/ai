@@ -73,6 +73,15 @@ related:
         width: 1008
         height: 672
         isCached: true
+  - title: "Police scan thousands of Beyoncé fans in Cardiff with live face recognition cameras in move branded 'China-like surveillance' by campaigners"
+    excerpt: "Police scanned thousands of Beyoncé fans in Cardiff with live face recognition cameras as campaigners warn of a potential descent into 'China-like surveillance'. Fans flocked to the ..."
+    publishedDateTime: 2023-05-19T07:18:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12099811/Police-scan-Beyonc-fans-Cardiff-live-face-recognition-cameras-China-like-surveillance.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
 
 secured: "vNaf2G+6g3BbXHwD5259zuMP44GgYhnhhjfVs+2x5rDQiktFsECRm9wwWdUAxK2MoPAk1UAJN0TJrDdBCYTTX1jNY4vtBhe9Q6R18OXINENpYHtAA6vCAWefgapB/4Zpkj46qG8jX9oP8AD8YCpYD7862sxxvZvYqKvxrTV9PyefOgSYaRkEbG4IDXr/0QeAmhAoQpDuxskaEcwHEK5wmCV6u1ODoyxKnmbf6/Vj+27YuGIPNEwVKhOFrNd9OX8t14EpmIe1vQXjY6sexHXAxJ6SgBNefMVOrkdwGecN2b5DP5k6j18IEY3P6C5rXagmp20fMcv/881hwMT3rSaEpEC6a+eq2lfwugAns0Szz9n1gNhTHGJhNPNGKJCAtAHT3jQj3DQiZcQTVdrFqQn2KkVvFSqwoX4X5DAeHtEljfyACO3wDge7nEiUhkJbK2+wvvXzEhNCnTvbRh7WRs+G4YJ0SwCBn5yXz4cDHxmmyniVzo68YfQqGP21FDa4MfUNen37sPuks6Hts0ziStgERQ==;F6w1CcfZAygIpj5RCyJ8pw=="
 ---

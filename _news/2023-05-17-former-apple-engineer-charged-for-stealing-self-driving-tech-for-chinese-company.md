@@ -73,22 +73,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Ex-Apple employee charged with stealing car tech for China; is now exec at Baidu’s self-driving car JV"
-    excerpt: "Apple has been rumoured to be working on a self-driving car for years. It is said to be one of the biggest projects that the iPhone maker is working o"
-    publishedDateTime: 2023-05-17T03:06:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/ex-apple-employee-charged-with-stealing-car-tech-for-china-is-now-exec-at-baidus-self-driving-car-jv/articleshow/100291514.cms"
-    ampWebUrl: "https://m.timesofindia.com/gadgets-news/ex-apple-employee-charged-with-stealing-car-tech-for-china-is-now-exec-at-baidus-self-driving-car-jv/amp_articleshow/100291514.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/ex-apple-employee-charged-with-stealing-car-tech-for-china-is-now-exec-at-baidus-self-driving-car-jv/amp_articleshow/100291514.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 43
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-100291502,width-1070,height-580,imgsize-8852,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1068
-        height: 580
-        isCached: true
   - title: "Self-Driving Trucks Start Hauling Freight"
     excerpt: "This undated photo shows Chris Urmson, CEO of self-driving vehicle technology company Aurora Innovation. Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston. The trucks will run on an ..."
     publishedDateTime: 2023-05-20T04:53:00Z
@@ -103,15 +87,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Ex-Apple Engineer Charged With Stealing Self-Driving Tech For Chinese Company"
-    excerpt: "After authorities searched his home for allegedly stealing Apple's autonomous tech in 2018, Weibao Wang boarded a flight to China, where he remains"
-    publishedDateTime: 2023-05-17T02:34:00Z
-    webUrl: "https://www.carscoops.com/2023/05/ex-apple-engineer-charged-with-stealing-self-driving-tech-for-chinese-company/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 1
 
 secured: "wcByVPQDdcuhWf0oGA50SyrPj2IvJs9FNYVQRpkX361w+VAPojhw6Q8zKjXpH4lfbL8c/lwCcvIKUt9Bx9K7ocrAy9+8FSWXJzKDpyG1dO4FKZgoj2JsXrsso9+Zod+kWujIrMWq+LAA/Oi75QTpgaWYhiD5Wt/cwBtz8SDDdsDc+1EKP87cV3AQ/ul/Q6ung+DpH5pT1ZpOvaBP0EVPbewOBFiT1yHXZYx40HvnZzTGQkbHrPmmrsgCBjny6djRTPDT9b6KmleIm9t3yIAJIIhdENeEvd9AcZsxPGk0p0MSDnIuhtCuGJsnwj4pILWpTLcfdx8qupnnKRX6ZFEeJoC98b2dTy2po/N23PrbrOsABsqqi3bhMLNb4SfSgcI0cUCpkZAylPuIiEHQswKuPMeU+jboVQdQnCduW3GQVRSYKJYKoCol45mN9DWaDnN1nWm7RZPYSC7SgEMWatjjc7ur+xQxeqprPfw7bzbE9VZSCMPn+Q31nyNQ/lO9NEfQtfpfAdaJateMw5oufuhwDA==;wCQJlYNmH9TGlIEVLi5jhg=="
 ---

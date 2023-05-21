@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/show/the-promises-and-potential-pit
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/the-promises-and-potential-pitfalls-of-artificial-intelligence-in-medicine"
 type: article
 quality: 57
-heat: 77
+heat: 79
 published: true
 
 provider:

@@ -24,6 +24,17 @@ images:
     height: 750
     isCached: true
 
+related:
+  - title: "Check your smartphone NOW: 19 popular devices have facial recognition that can 'easily' be tricked with 2D photos - so is yours affected?"
+    excerpt: "Since launching on the iPhone X back in 2017, facial recognition has become a staple feature in most smartphones. But while the technology is undeniably handy, it could land you in hot water if ..."
+    publishedDateTime: 2023-05-19T00:01:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-12097981/Check-phone-19-devices-facial-recognition-tricked-photos.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
+
 secured: "pMT4QYjFet514WU2nhZdxMiPXQN8rKtmLJ1hWo4iMp0zC300etKK1cI7sAbGK4j/iWkimFN+B7f4XsPpYEG3E2QXwLAXVGse5qdFQYcLkeNK79dTrQ0DSmw0H+Rzy2ePeFNG5rs9D1PbSQsVOr1n+zBO3BQycbe+bZOc7Cv2d3ewbfJ+KEwa8WVgd5liHYhpE+FDCFd0O5WLDDvxsvNynxO9Bj5jiWm7XXW1L9qQnaZ/Cab6o54RBoRtN/L/Lcad++kEBwBo9yFwh3q2ers+go3dBULP617FfscjKPH1qWg/qzlPOcc2FTFgnGtLXa5yghn8BgTM0MDF2AG/2vb1VNDKiLDRTOy+nBPatf87Od/xch52rlfgrgIVPBpVNRm5v6M0DX11gcBTKBG7hC3j6PfAuZ9EP3QDfzf5yHpA1U1UlLfS/HJacBygh/5Mpnz54ar8HWErl8yY6lLZ7kbg96yCxclmRm1agn94B0w2Nf4zZJgLQpJOMvFOC6HbabqNFo548uQoLM64MyFXFJBjJg==;2CbGgBnSfQGc2TgKLk5QIg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/kaiser-permanente-
 webUrl: "https://markets.businessinsider.com/news/stocks/kaiser-permanente-announces-new-grant-program-for-artificial-intelligence-and-machine-learning-in-health-care-1032334654"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -24,6 +24,20 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Kaiser creates new AI, machine learning grant program"
+    excerpt: "The Permanente Medical Group, part of Oakland, Calif.-based Kaiser Permanente, has launched a new AI and machine learning program that will grant three to five health systems up to $750,000. The program, dubbed the Kaiser Permanente Northern California ..."
+    publishedDateTime: 2023-05-17T14:53:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/kaiser-creates-new-ai-machine-learning-grant-program.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Can AI and machine learning help agencies lower costs and boost performance?"
     excerpt: "In this episode of Performance Talks, we look at how artificial intelligence (AI) and machine learning can help agencies design and deliver their most efficient campaigns."
     publishedDateTime: 2023-05-18T02:00:00Z

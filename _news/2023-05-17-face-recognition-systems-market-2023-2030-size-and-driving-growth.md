@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/face-recognition-systems
 webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2023-2030-size-and-driving-growth-2023-05-17"
 type: article
 quality: 69
-heat: 169
+heat: 139
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Self-driving Chip Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
-    excerpt: "Automotive Self-driving Chip report is a comprehensive analysis of the market, covering various components such"
-    publishedDateTime: 2023-05-17T03:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-self-driving-chip-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Employee Recognition Ideas For 2023"
     excerpt: "Everyone likes being recognized for their effort and accomplishments. Employees who are recognized for their work are more likely to be satisfied and fulfilled in their jobs, contribute more and stay long-term at the company."
     publishedDateTime: 2023-05-17T16:00:00Z
@@ -71,29 +57,6 @@ related:
         width: 958
         height: 539
         isCached: true
-  - title: "Speech & Voice Recognition Systems Market by 2030"
-    excerpt: "Research Reports has published a new report titled as \" Speech and Voice Recognition Systems Market \" by End User ( Consumer Entertainment, Telematics, Home Applications, Enterprise Applications ), Types ( Hardware,"
-    publishedDateTime: 2023-05-17T02:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-by-2030-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023-2030 Computer Vision Market: Highlights with Growth Rate"
-    excerpt: "Computer Vision Market Report Insights: (Report Pages: 107) CAGR and Revenue: “CAGR of 31.74% during the forecast"
-    publishedDateTime: 2023-05-17T04:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2030-computer-vision-market-highlights-with-growth-rate-2023-05-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
   - title: "Self Driving Bus Market Size 2023, Latest Trends, Growth Drivers, Industry Analysis by Top Companies and Forecast 2028"
     excerpt: "Self Driving Bus Market Size, Share, and Covid-19 Impact Analysis, By Type (Advanced Metering Infrastructure and Auto"
     publishedDateTime: 2023-05-17T05:30:00Z

@@ -2,6 +2,57 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-05-10-ai-could-cause-patients-harm-as-a-result-of-bias-and-errors-health-experts-say.md",
+      "title": "AI could cause patients harm as a result of bias and errors, health experts say",
+      "excerpt": "Health professionals said that while healthcare could benefit from AI, the technology \"also has the potential to produce negative health impacts.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-harm-human-health-public-health-experts-2023-5",
+      "originalUrl": "https://www.businessinsider.com/ai-harm-human-health-public-health-experts-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/645b62bd65a21600192fe28a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-harm-human-health-public-health-experts-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-harm-human-health-public-health-experts-2023-5?amp",
+      "publishedDateTime": "2023-05-10T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-fiscalnote-announces-first-quarter-2023-financial-results-with-21-revenue-growth-year-over-year.md",
       "title": "FiscalNote Announces First Quarter 2023 Financial Results with 21% Revenue Growth Year-over-Year",
       "excerpt": "FiscalNote reiterates its revenue guidance for full year 2023 and its expectation to be Adjusted EBITDA positive in the fourth quarter of 2023 as the Company continues to grow revenue, maintains strong adjusted gross margins in the 80% range,",
@@ -1163,48 +1214,6 @@
         "AI in Robotics",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-artificial-intelligence-study-decodes-brain-activity-into-dialogue.md",
-      "title": "Artificial intelligence study decodes brain activity into dialogue",
-      "excerpt": "Scientists at UT Austin conducted a study where they created a 3D view of a person's mind and used artificial intelligence to decode brain activity into dialogue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/artificial-intelligence-study-decodes-brain-activity-into-diaglogue-173774917826",
-      "originalUrl": "https://www.nbcnews.com/now/video/artificial-intelligence-study-decodes-brain-activity-into-diaglogue-173774917826",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1683684426844_now_staytuned_mind_reading_230509_1920x1080-b011uy.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo173774917826",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo173774917826",
-      "publishedDateTime": "2023-05-09T19:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

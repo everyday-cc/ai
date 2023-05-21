@@ -287,22 +287,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "ChatGPT chief says AI should be regulated by US, global agency"
-    excerpt: "While Congress isn’t poised to act, U.S. agencies are promising to crack down on harmful AI products that break existing civil rights and consumer protection laws."
-    publishedDateTime: 2023-05-17T04:39:00Z
-    webUrl: "https://www.dailynews.com/2023/05/16/chatgpt-chief-says-ai-should-be-regulated-by-us-global-agency/"
-    ampWebUrl: "https://www.dailynews.com/2023/05/16/chatgpt-chief-says-ai-should-be-regulated-by-us-global-agency/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2023/05/16/chatgpt-chief-says-ai-should-be-regulated-by-us-global-agency/amp/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 57
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2023/05/sjm-542619.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Korean AI chip startups face losses in 2022 despite ChatGPT momentum"
     excerpt: "Although the artificial intelligence (AI) market, including chatbot technologies like ChatGPT, is gradually expanding and expected to drive growth in the IC design industry, South Korean AI chip startups faced significant losses in 2022."
     publishedDateTime: 2023-05-19T06:54:00Z

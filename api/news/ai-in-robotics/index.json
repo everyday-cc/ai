@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-20-5-ways-europe-can-reduce-the-risks-of-ai-replacing-jobs.md",
+      "title": "5 ways Europe can reduce the risks of AI replacing jobs",
+      "excerpt": "Italy has launched a new $30m fund to support workers threatened by AI. It's one of numerous responses that governments are considering.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/how-to-protect-workers-from-ai-displacing-jobs",
+      "originalUrl": "https://thenextweb.com/news/how-to-protect-workers-from-ai-displacing-jobs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2FUntitled-design-10.jpg&signature=00d9b661998a59ae5ea9ffd38b47ff4b",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-20T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-20-ai-will-have-the-most-negative-impact-on-emerging-workforces.md",
       "title": "AI Will Have The Most Negative Impact On Emerging Workforces",
       "excerpt": "AI has been around for a while, as have its many dangers. In ‘The Levelling’ we wrote about how algorithms were both causing and provoking inequalities and social injustice. Last summer we flagged the very sinister example of how the Spiez Laboratory in Switzerland (see the Final Problem) one of whose specialisations is the study of deadly toxins and infectious diseases (located not too far away from the Reichenbach Falls),",
@@ -1371,59 +1423,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund.md",
-      "title": "AMP Robotics attracts investment from Microsoft’s Climate Innovation Fund",
-      "excerpt": "AMP Robotics, a Denver, Colorado-based startup creating robotic systems that can automatically ... infrastructure and expanding new infrastructure based on our application of AI-powered automation,” founder and CEO Matanya Horowitz told TechCrunch ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/",
-      "originalUrl": "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 240,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-172878844.jpg?w=1200",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/amp/",
-      "publishedDateTime": "2023-05-11T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],
