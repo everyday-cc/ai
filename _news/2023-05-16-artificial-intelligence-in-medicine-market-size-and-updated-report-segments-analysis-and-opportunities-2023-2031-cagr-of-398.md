@@ -136,15 +136,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2030, Facial Recognition Door Lock Market Growth | Expansion Plan and Latest Updates"
-    excerpt: "The \"Facial Recognition Door Lock Market\" research report for the period 2023-2030 offers a comprehensive analysis of"
-    publishedDateTime: 2023-05-16T12:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2030-facial-recognition-door-lock-market-growth-expansion-plan-and-latest-updates-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
   - title: "Automotive Speech Recognition System Market Business Strategies, Industry Share, Size 2023 to 2030 | Nuance, Microsoft, Alphabet"
     excerpt: "A detailed study accumulated to offer current insights about important features of the Automotive Speech Recognition"
     publishedDateTime: 2023-05-17T07:23:00Z

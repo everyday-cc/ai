@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -22,6 +22,15 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Revolutionising retail ecommerce with artificial intelligence and machine learning"
+    excerpt: "AI and ML are transforming the retail ecommerce landscape, providing retailers with powerful tools for overcoming their most pressing challenges. By harnessing the power of AI and ML, retailers can streamline their operations, increase efficiency, and improve the customer experience."
+    publishedDateTime: 2023-05-20T12:15:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-revolutionising-retail-ecommerce-with-artificial-intelligence-and-machine-learning-3094979/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 45
   - title: "GIGABYTE To Introduce Leading-Edge AI Solutions And Computers At COMPUTEX 2023, Unveiling“Future Of COMPUTING” - AETOSW..."
     excerpt: "GIGABYTE, a leading innovator of computer hardware and server solutions, announces its unprecedented exhibits at COMPUTEX 2023. R"
     publishedDateTime: 2023-05-17T08:49:00Z

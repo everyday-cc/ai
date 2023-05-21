@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-orga
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "dataPARC Introduces AWS and Azure-Compatible Data Historian Platform for Advanced Industrial Applications and Cloud AI/ML Integration"
+    excerpt: "PRNewswire/ -- dataPARC, innovators in industrial analytics and manufacturing decision support, today announced the release of its next-generation data historian platform, aimed at delivering federated plant operations data to engineering,"
+    publishedDateTime: 2023-05-16T14:16:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/16/9815052.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
   - title: "Can any organization train generative AI models? CAST AI brings it a step closer"
     excerpt: "CAST AI specializes in optimizing cloud costs, specifically around Kubernetes. Today it is coming out with new features within the platform that it uses"
     publishedDateTime: 2023-05-17T21:39:00Z

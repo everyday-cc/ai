@@ -7,8 +7,8 @@ originalUrl: "https://www.digitimes.com/news/a20230519VL200/ai-infineon.html"
 webUrl: "https://www.digitimes.com/news/a20230519VL200/ai-infineon.html"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Digi Times
@@ -38,20 +38,6 @@ related:
       - url: "https://www.newelectronics.co.uk/media/5rib3u4n/imagimob.jpg?width=1200&height=630&mode=crop"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Infineon Acquires Tiny Machine Learning Leader Imagimob To Strengthen Its Offering In Embedded AI Solutions"
-    excerpt: "With this acquisition Infineon advances its position to offer a world-class Machine Learning (ML) solution and significantly complements its AI offerings. Imagimob provides an end-to-end machine learning toolchain that is highly flexible and easy to use with a strong focus on delivering production-grade ML-models."
-    publishedDateTime: 2023-05-16T11:20:00Z
-    webUrl: "https://menafn.com/1106251947/Infineon-Acquires-Tiny-Machine-Learning-Leader-Imagimob-To-Strengthen-Its-Offering-In-Embedded-AI-Solutions"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 36
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/16/MON_0eec1b44-6_Image_In_Body.jpg"
-        width: 318
-        height: 213
         isCached: true
 
 secured: "hHzxAwflH8BanUVaxI1chznQbcKbIRqiX3UU9gQrLp7PWMygDu/IscWemvB4EhzQSZnpv/sRdhdBlCg/886HrRk6EMCocW2C4U3T96bT78/muiVjWvrYKFMrD4aGsa5/DDEGnttKQ7Qonmv/bO8GxQl3rqzIO0bT9kXGoyj7Sef62DYwTIayKGuwlXzTmMRy4Vtg/ConFKw3JtlHEyW2kLdlU+e1E2aXO/kuPgSnHrWz0gOxwvWcdeZcZZACH5/mCzlHnH6eJkeCERnEQuSs4W0GZBzHBjRQXPmtgxeynFF8TTao8lXDoDBgf/Ej8K3Yh1ZyrExj/L8462EDx3sL1xdAkUBAI/I36zmlP07I4ZC+2f3MljXikrVmTWH+xz0pqhv7VL8sVxhiPfZyWJ98YLnxobZi1E1pdJ/Tg9h2yr658v+DZAYONc5cSV3P4AwTS/STj+pK0P8x8o6b2jp9+DQU1eRxPgMI6GrrOYQy/FPB629RGYep4PhIhlHgD3p1b736IM+k+5fFBmU5hhFwAw==;TeH7GI+lzNAZPlGZDIX8OQ=="

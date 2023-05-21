@@ -41,15 +41,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "AI and ML based fintech solution comes to GITEX Africa"
-    excerpt: "CredBraine can review 25 million accounts yearly and logs 100 million transactions per month. AI and ML based fintech solution comes to GITEX Africa. Artificial Intelligece, FinTech, Gitex, GITEX AFRICA,"
-    publishedDateTime: 2023-05-16T11:42:00Z
-    webUrl: "https://www.itp.net/gitex/ai-and-ml-based-fintech-solution-comes-to-gitex-africa"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 36
   - title: "Teen-focussed fintech signs with Yoti to enhance security, verify age"
     excerpt: "The tool also enhances the platform's current Know Your Customer (KYC) and Anti-Money Laundering (AML) processes, the companies say."
     publishedDateTime: 2023-05-18T19:20:00Z

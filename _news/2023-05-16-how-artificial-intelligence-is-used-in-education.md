@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 830
         isCached: true
-  - title: "UP RERA Floats Tender For Installation Of Artificial Intelligence"
-    excerpt: "AI will contribute to the development of three major categories of systems: supportive systems, function-based automation systems and autonomous systems."
-    publishedDateTime: 2023-05-16T11:09:00Z
-    webUrl: "https://www.republicworld.com/business-news/india-business/up-rera-floats-tender-for-installation-of-artificial-intelligence-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/up-rera-floats-tender-for-installation-of-artificial-intelligence-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/up-rera-floats-tender-for-installation-of-artificial-intelligence-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 61
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/e9geoifv1itnkiqg_1684234298.jpeg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "Elections in UK and US at risk from AI-driven disinformation, say experts"
     excerpt: "False news stories, images, video and audio could be tailored to audiences and created at scale by next spring"
     publishedDateTime: 2023-05-20T09:00:00Z

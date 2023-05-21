@@ -20,90 +20,31 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Navigating The AI Revolution: How To Successfully Implement AI In Business"
-    excerpt: "The next step is to test the new processes powered by AI, make the final tweaks and eventually establish service-level agreements (SLAs) for their use. 1. Start small. Begin by implementing AI in a specific area or department and gradually expand to other ..."
-    publishedDateTime: 2023-05-16T11:16:00Z
-    webUrl: "https://www.forbes.com/sites/theyec/2023/05/16/navigating-the-ai-revolution-how-to-successfully-implement-ai-in-business/"
-    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/16/navigating-the-ai-revolution-how-to-successfully-implement-ai-in-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/16/navigating-the-ai-revolution-how-to-successfully-implement-ai-in-business/amp/"
+  - title: "Future of AI in e-commerce: Transforming data with ML and computer vision"
+    excerpt: "While a lot has been discussedin areas of face recognition, graphical capabilities, some of the following use cases in e-Commerce can greatly benefit from computer vision, image processing. As a customer you want to know the best offers on your favourite ..."
+    publishedDateTime: 2023-05-17T06:54:00Z
+    webUrl: "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/"
+    ampWebUrl: "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
+      name: Dataquest
+      domain: dqindia.com
+    quality: 70
+  - title: "GIGABYTE To Introduce Leading-Edge AI Solutions And Computers At COMPUTEX 2023, Unveiling“Future Of COMPUTING” - AETOSW..."
+    excerpt: "GIGABYTE, a leading innovator of computer hardware and server solutions, announces its unprecedented exhibits at COMPUTEX 2023. R"
+    publishedDateTime: 2023-05-17T08:49:00Z
+    webUrl: "https://menafn.com/1106260387/GIGABYTE-To-Introduce-Leading-Edge-AI-Solutions-And-Computers-At-COMPUTEX-2023-UnveilingFuture-Of-COMPUTING-AETOSW"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 13
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646253945a385db669dd3ff9/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 674
+      - url: "https://menafn.com/updates/pr/2023-05/17/A_03834image_story.jpg"
+        width: 480
+        height: 270
         isCached: true
-  - title: "How Natural Language Processing Is Revolutionizing Business Operations"
-    excerpt: "Today, many companies look closely at NLP solutions primarily based on the potential for cost savings. The technology has proven to be useful in saving resources such as time, money and human effort."
-    publishedDateTime: 2023-05-16T12:31:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/16/how-natural-language-processing-is-revolutionizing-business-operations/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Retail revolution: new data reveals next generation of shoppers ready for AI, AR and Robots"
-    excerpt: "New research shows that next generation of shoppers will prefer real-life shopping over virtual reality but crave tech innovation to elevate their shopping experience, with 81% of Gen Z'ers & Millenni"
-    publishedDateTime: 2023-05-16T14:39:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32424333/retail-revolution-new-data-reveals-next-generation-of-shoppers-ready-for-ai-ar-and-robots"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32424333"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32424333"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-  - title: "Retail Revolution: New Data Reveals Next-generation of Shoppers Ready for AI, AR and Robots!"
-    excerpt: "New data released today by Klarna, the global payments and shopping service, reveals how retailers will need to adapt their offering to win shoppers in the future. With recent advancements in technology,"
-    publishedDateTime: 2023-05-17T04:48:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/retail-revolution-new-data-reveals-next-generation-shoppers-ready-ai-ar"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 43
-    images:
-      - url: "https://financialit.net/sites/default/files/klarna_14.png"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "For chemists, the AI revolution has yet to happen"
-    excerpt: "Machine-learning systems in chemistry need accurate and accessible training data. Until they get it, they won’t achieve their potential."
-    publishedDateTime: 2023-05-17T10:41:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-01612-x"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01612-x/d41586-023-01612-x_25360562.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "How Scottish Mortgage and other trusts are playing the AI revolution"
-    excerpt: "News archive including articles on Fund Managers, Fund Selection, Asset Allocation, Absolute Return, Offshore Investments, Tax Shelters, Insurance bonds. How Scottish Mortgage and other trusts are pla"
-    publishedDateTime: 2023-05-18T16:01:00Z
-    webUrl: "https://www.trustnet.com/news/13378456/how-scottish-mortgage-and-other-trusts-are-playing-the-ai-revolution"
-    type: article
-    provider:
-      name: FE Trustnet
-      domain: trustnet.com
-    quality: 19
-  - title: "Xiao-I Launches Revolutionary Intelligent Document Processing Solution, Catalyzing the Future of Enterprise Document Management"
-    excerpt: "Xiao-I Corporation (NASDAQ:AIXI) (\"Xiao-I\" or the \"Company\"), a leading cognitive artificial intelligence (\"AI\") enterprise in China, today announced the launch of its"
-    publishedDateTime: 2023-05-19T02:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32479684/xiao-i-launches-revolutionary-intelligent-document-processing-solution-catalyzing-the-future-of-en"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32479684"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32479684"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "Uebc/P2LcVJGkOLat67PIwxNY0q1FS4mu4KMh5v3hwgzoifXC0fEa0S9mxFDauemUt4HgjqUYZce2dHu8A9AGmZvdYZq+i+9z6hbwtZe/MzIC7v/XV58byBBlcmJQ4F703218Qc5VWHoXbPOxusm9klzkMHoz71Kp2vSdSWGCRPuPMTDlg0wVD0bhCRd5vf4PFYN46A1YmnRGO1PZX6fElPh05tIlCRGXn7G4q9VgM4GVjTjh2/AnXjxV13h9eRMEYrHjQKeRbXVvmKjWHf8Pt9Q6fOjHSKUmqnagCjXVR3oLZFSmRi8NTDT12q9GfgS3fmoP1jfINbxhcUl+K8XNFQZYFCxZlJ6sNOKxky7rpJ7kF8gUeox4ooCcmMqD/jjKiEOq91d/fBtkpQFhC7QYK8eG6zZouGB4/nfUqZH+MA0QIzd8YGChAD1Gmt30oy/2pn/NQQVh4mgRCRQBo661tDDkfyURBOT0vc6l/er8wD2lzaomiHXlj2muQKzGyTCXN2mUJ8gyzmEzdiVRaoZdQ==;jIvZ5B1z/1j8HUxUq3fpOg=="
 ---

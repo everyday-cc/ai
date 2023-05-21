@@ -42,6 +42,15 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "dataPARC Introduces AWS and Azure-Compatible Data Historian Platform for Advanced Industrial Applications and Cloud AI/ML Integration"
+    excerpt: "PRNewswire/ -- dataPARC, innovators in industrial analytics and manufacturing decision support, today announced the release of its next-generation data historian platform, aimed at delivering federated plant operations data to engineering,"
+    publishedDateTime: 2023-05-16T14:16:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/16/9815052.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
   - title: "Kubernetes firm CAST AI adds support for reducing generative AI deployment costs"
     excerpt: "Kubernetes operations and cost management startup Cast AI Group Inc. today announced several new features for its platform to reduce cloud costs for organizations that are using generative artificial intelligence models."
     publishedDateTime: 2023-05-18T15:30:00Z

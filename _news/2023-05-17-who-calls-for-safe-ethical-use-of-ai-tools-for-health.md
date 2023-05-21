@@ -159,15 +159,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "General Catalyst leads $50M investment in healthcare AI company"
-    excerpt: "Hippocratic AI, which is building a generative AI large language model designed for healthcare, launched Tuesday."
-    publishedDateTime: 2023-05-16T13:00:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/andreessen-horowitz-general-catalyst-fund-hippocratic-ai"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 34
   - title: "WHO warns against bias, misinformation in using AI in healthcare"
     excerpt: "The World Health Organization called for caution on Tuesday in using artificial intelligence for public healthcare, saying data used by AI to reach decisions could be biased or misused. The WHO said it was enthusiastic about the potential of AI but had concerns over how it will be used to improve access to health information,"
     publishedDateTime: 2023-05-17T09:41:00Z
@@ -186,15 +177,6 @@ related:
       name: The Nation
       domain: thenation.com
     quality: 19
-  - title: "UP RERA to use artificial intelligence for faster resolution of cases in e-Courts"
-    excerpt: "Read more about UP RERA to use artificial intelligence for faster resolution of cases in e-Courts on Devdiscourse"
-    publishedDateTime: 2023-05-16T12:46:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2453755-up-rera-to-use-artificial-intelligence-for-faster-resolution-of-cases-in-e-courts"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 12
 
 secured: "GCqyuToX2RmaMym4VjaoAHyEOZgtai+jGkvDctSyp+5YxyHOn69TDRkHTPlU8x1ApkyMPYvJj/huONeIUGNMh4DWOFl/za3KmImwlg7Z92PMCiipwESfXXm4wirzmNTDM7kz8XsbdfYbu71euN00mZ0wvfWfo7HqbAvaK+4xjhDwaNNna7PYyh1DhogDMJ9YpCLiHAkYvrL7nJvV7PT0lfwLB4IzRJzkt75DsMLV6rRw7DhsP4mBnfJTdudZqIO3Go06Y89zI/oT1wjUGO3VQOpFtyW1oKX14FUfOIA8/04Mjf4a80/3YrEIgbVbKxKjv9HVXSHvtvL9kJWOTKXcWfgjWX9JsuybbJcY5zfQZ+hxo8ozMRuwkR3NoF/dYwm82eImVajSZv0bTKTFGjTYO5xpEgqoTzrGQO/RsafDEAEUByd+UUyhmcktN0ZJxJFHOLe9x9feDkiTBdDrfUvPwaTLiM0RV5t68vGkO2IwBa0AAjLzgJiBilEjGXPjsFm7FOHbTbnztggpCXiIgfr9nw==;0Ke49mHctvotoXZ7inyP3Q=="
 ---

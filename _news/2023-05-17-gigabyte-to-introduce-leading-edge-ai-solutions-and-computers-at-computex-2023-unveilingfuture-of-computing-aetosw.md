@@ -36,6 +36,15 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 70
+  - title: "Revolutionising retail ecommerce with artificial intelligence and machine learning"
+    excerpt: "AI and ML are transforming the retail ecommerce landscape, providing retailers with powerful tools for overcoming their most pressing challenges. By harnessing the power of AI and ML, retailers can streamline their operations, increase efficiency, and improve the customer experience."
+    publishedDateTime: 2023-05-20T12:15:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-revolutionising-retail-ecommerce-with-artificial-intelligence-and-machine-learning-3094979/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 45
 
 secured: "oVw+reT7Zb+527hoEtmu0cfrF0uneJlzMnudzIrS8imf7ir3H/pFqgNdCjItJnOhZRpOtMymcJ38dedgYtxOM4rF3llAlmLQU44Skaw30zEQHLs1Xm2qARGGBJOIVCpSaIzX1PrhZcDTW8KB2B94nek1G3DEO5j6rwZpm2rGZxZgXq0fmCvqEguLbxL0XYBHp3IHN0qyvrUKhFEcbJONJOF/UZS8BRz70K8cFFNmVEVBUgx6cw7wt7Xs7HhhjmakEDkJSabZD7pIGCPKv6YdoPzTDzCDEIZftmWPJlC8/wZW60XHX5j4f65XEGUjf4SuOXDKrsEfEuNe0x/F3VeHCelbrvcmik3W52wuIs2bxXRm4bYNct5GnVIAW+yL9aX7ybLnLgmE85Qi2nA7KiojNird3S74m/qbLc0KOIAvrV2mw/hXC6WeNcomvuVr0X2zHzyGs5wkcY7TF8b5fNzT8xyRyMCv4WZYO/N+3F3AYgWMR4X5ZX4e7lQVt52S6viYEkcZuoWHEoLXOLS4DnEOdQ==;03KbCiAPDiGx2CeN5IeA8Q=="
 ---

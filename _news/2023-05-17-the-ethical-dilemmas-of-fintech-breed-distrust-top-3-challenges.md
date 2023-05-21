@@ -135,20 +135,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Climate Fintech: The Key to Unlocking Wider Climate Tech Solutions"
-    excerpt: "Even with challenges such as a lack of standardised ESG reporting, limited access to quality climate risk data, and regulatory hurdles likely to slow down the adoption of new technologies, climate fintech has the potential to transform the entire climate tech sector and be an integral part of the solution to combat climate change."
-    publishedDateTime: 2023-05-19T14:45:00Z
-    webUrl: "https://financialit.net/blog/fintech/climate-fintech-key-unlocking-wider-climate-tech-solutions"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/lee_chin_jian_3417_copy.png"
-        width: 399
-        height: 432
-        isCached: true
   - title: "Data security issues Fintech firms are facing"
     excerpt: "The covid crisis represented a big concern in the fintech sector. First, more people are remotely managing their money with technology. Second, that’s led to new data security challenges. Hackers are"
     publishedDateTime: 2023-05-18T11:06:00Z
@@ -176,15 +162,6 @@ related:
       name: Proactiveinvestors
       domain: proactiveinvestors.com
     quality: 13
-  - title: "Partnerships Play A Key Role In Fintech's Future"
-    excerpt: "Partnerships Play a Key Role in Fintech's Future Vancouver, Kelowna, and Delta, British Columbia--(Newsfile Corp. - May 16, 2023) - investorideas"
-    publishedDateTime: 2023-05-16T12:43:00Z
-    webUrl: "https://menafn.com/1106252789/Partnerships-Play-A-Key-Role-In-Fintechs-Future"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
 
 secured: "Du3hI9AA21g1NWDQi/kWw17D2h+1l7qt5FU47binsrJDRWulDxNDKs9uFcsYbvBvgJcGMrg68sWzxedxlccAQcxyCiJC55lA+wK1FYOQzAbtcROiaPSh4lLUrbGnhZ7EVXQSbq0Fs+4bOQaP05yzCwXFC03oCt1M5O6VIHHNwO5BohBlV6lh2HFG7QjlnguucVJ3+acr1F/9ccA0V2D3xUPc/mD0j1kk1NUkb07pyOJzmoTGYO09Hdw4FwvzTF17w4gEJlvz3411n2DBiEjUtMqdJGDEUM2kZy8tXZPNb9Flr5mwXWIdBditecftm/XpDd+1oWKON3Xk4GJnXWuoWP4WB86+kD3ODxGTleXEGRA=;2oH9t56vjEKVq51AN+SwaQ=="
 ---

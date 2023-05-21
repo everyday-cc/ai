@@ -7,7 +7,7 @@ originalUrl: "https://worthplaying.com/article/2023/5/18/news/137276-pny-introdu
 webUrl: "https://worthplaying.com/article/2023/5/18/news/137276-pny-introduces-latest-nvidia-geforce-rtx-40-series-gpu-family/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,22 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Save More Than $100 On The ASUS Dual NVIDIA GeForce RTX 3070 V2 OC Edition GPU"
-    excerpt: "Picking up a new GPU just got cheaper, with the ASUS Dual NVIDIA GeForce RTX 3070 V2 OC Edition GPU now selling for just $469.99."
-    publishedDateTime: 2023-05-16T12:57:00Z
-    webUrl: "https://www.redmondpie.com/save-more-than-100-on-the-asus-dual-nvidia-geforce-rtx-3070-v2-oc-edition-gpu/"
-    ampWebUrl: "https://www.redmondpie.com/save-more-than-100-on-the-asus-dual-nvidia-geforce-rtx-3070-v2-oc-edition-gpu/amp/"
-    cdnAmpWebUrl: "https://www-redmondpie-com.cdn.ampproject.org/c/s/www.redmondpie.com/save-more-than-100-on-the-asus-dual-nvidia-geforce-rtx-3070-v2-oc-edition-gpu/amp/"
+  - title: "AMD RX 7600 GPU specs spilled ahead of imminent NVIDIA RTX 4060 Ti launch"
+    excerpt: "A fresh leak from GPU-Z gives us the full lowdown on the spec, which lines up with previous rumors - all we need to know now is the price of the RX 7600.."
+    publishedDateTime: 2023-05-18T11:56:00Z
+    webUrl: "https://www.tweaktown.com/news/91519/amd-rx-7600-gpu-specs-spilled-ahead-of-imminent-nvidia-rtx-4060-ti-launch/index.html"
     type: article
     provider:
-      name: Redmond Pie
-      domain: redmondpie.com
-    quality: 55
-    images:
-      - url: "https://cdn.redmondpie.com/wp-content/uploads/2023/05/asus-dual-3070-1.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 18
   - title: "NVIDIA's massive RTX 4060 GPU giveaway comes with hints of overcompensation"
     excerpt: "So, gamers get the chance to win 170 GPUs (plus a couple of monitors and GPU backplates), which are mostly GeForce RTX 4060s - 164 of them. There's also an RTX 4060 Ti Founders Edition up for grabs, and a pair of NVIDIA's own RTX 4080 and 4090 graphics cards. Oh, and a GeForce RTX Garage 4090 build, a gaming PC worth a cool $7,500."
     publishedDateTime: 2023-05-19T13:35:00Z

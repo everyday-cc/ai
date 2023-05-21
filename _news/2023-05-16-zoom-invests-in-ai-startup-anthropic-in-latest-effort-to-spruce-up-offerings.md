@@ -54,15 +54,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "Zoom adds its own AI assistant named Claude"
-    excerpt: "Zoom just announced a strategic partnership with Anthropic, an artificial intelligence company that conducts research into AI safety and develops tools based on that work. The collaboration will integrate Anthropic's AI assistant, Claude, into the Zoom platform, including the Zoom Contact Center."
-    publishedDateTime: 2023-05-16T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/zoom-adds-its-own-ai-assistant-named-claude/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
   - title: "Zoom Introduces Claude AI Integration"
     excerpt: "The new integration will launch for Zoom Contact Center first, but the plan is to roll it out to other services soon."
     publishedDateTime: 2023-05-17T20:36:00Z

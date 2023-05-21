@@ -134,20 +134,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Climate Fintech: The Key to Unlocking Wider Climate Tech Solutions"
-    excerpt: "Even with challenges such as a lack of standardised ESG reporting, limited access to quality climate risk data, and regulatory hurdles likely to slow down the adoption of new technologies, climate fintech has the potential to transform the entire climate tech sector and be an integral part of the solution to combat climate change."
-    publishedDateTime: 2023-05-19T14:45:00Z
-    webUrl: "https://financialit.net/blog/fintech/climate-fintech-key-unlocking-wider-climate-tech-solutions"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/lee_chin_jian_3417_copy.png"
-        width: 399
-        height: 432
-        isCached: true
   - title: "Data security issues Fintech firms are facing"
     excerpt: "The covid crisis represented a big concern in the fintech sector. First, more people are remotely managing their money with technology. Second, that’s led to new data security challenges. Hackers are"
     publishedDateTime: 2023-05-18T11:06:00Z
@@ -175,15 +161,6 @@ related:
       name: Proactiveinvestors
       domain: proactiveinvestors.com
     quality: 13
-  - title: "Partnerships Play A Key Role In Fintech's Future"
-    excerpt: "Partnerships Play a Key Role in Fintech's Future Vancouver, Kelowna, and Delta, British Columbia--(Newsfile Corp. - May 16, 2023) - investorideas"
-    publishedDateTime: 2023-05-16T12:43:00Z
-    webUrl: "https://menafn.com/1106252789/Partnerships-Play-A-Key-Role-In-Fintechs-Future"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
 
 secured: "t8e92Cmb/PHsaRapEw42J4NsWQ7OpuS2bd3Nmtp97290NiqbvUg2/PvJxa35u20lGVBnbrXd1+ILGtF/q6tKa/9ukQ3ZbRXVLPyQn9a7OQUPUdf9+dBuPITwVGhGVKSR1wO38YMVPo5xo7bD0nKjvO5LtvtNZH+01CdNCKwMc1vFjGyXFPeXoSsL27qnFRfEnOIbGSfbPq5CsZYeeY2vnDlKa5IXh0NFuHl0h0GUAPioZvqXGW/eI8ROBd1kx7KwLwU/ItfW1t0g/ypNxPzQNwAfHN/oT5gDbHctPQ4XYCnBJ5ZuXPyTF9XcQ1pT1vrKCB/Pb2VJKEwl8GuSEoLZprTKUvbMrzL9RDEfNq1Eo/OSeBUNfKyH8QCtNX3+SIpkBHpn6chxzx80bVdJyIDnaXgamug6VFnaii3YLEVu3FSfV7jme7CDl9m+GBWmZmNP+XhXX5moEqZgUbRTsC8+oeNjswb14NgJhD4L2AIR+If6aW38dwOIlqGtlWEA44Ky5R/yzSa0wdYj6ggTWj/7kA==;r7sFb5yNFNxTwfFc17P/Wg=="
 ---

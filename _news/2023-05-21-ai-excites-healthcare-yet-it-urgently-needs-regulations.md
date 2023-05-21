@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare
 ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/amp/"
 type: article
-quality: 104
-heat: 134
+quality: 106
+heat: 136
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/646989f4cacc478d7bbd2c16/0x0.jpg?format=jpg&width=1200"
@@ -66,6 +67,6 @@ related:
       domain: bbc.co.uk
     quality: 17
 
-secured: "J9fDe7HZrzoD0YQO8RhcS+z56owzGkffxVbuMnTXsw6pgWT1HyRpNsAHrAvk7Tj/wryAVI3SkHp4JqpNcpKCUHW6EkdjNX41VpGR/VAMBbOcDrtrJ6X3VRn2Sl0Kmb7db9hF4i4bsBnhC4XvqTKm14IobwAygGF5n//xRXJG8YRaMB6Ilo3zmvlE0IPOrtlu515/5zCK/WJAWW/fA80GmH0Edxbs+u2Z6q7iqqAdkR57nFa6jJbf7NtxpY/3I7tdxMo5iQlRlsfTkz72s31LJyerw6exUZmj+6Vol7lnDf82pCApYcqn79w96SbC6qhwsPxZzh0XxPfzkOPVX5GFd86f0aJBnC8iZpy1UrM13H4=;E7AnarVXqJIR+Qve++HchQ=="
+secured: "ro2+ehMNGbGEEoXAAyhhsHWe9RR3HiIRitCTcFbRCCAyxswHaKxrJBBxsa3rny4MmdaVyTzyLiR4d7OSdfpdTPjvvws9ZVOLxKaneFbmIlAIpHEnALoR+y84g7Ol8TcLdmCGAzx2tsPCi2mN85ABTQM+hknacZ76QHrmhjaB75WpN1unfpHPHb3RizpRW3tUCTf/gAU/+QZY6yNDH0VTyE4pJ67Ki+ZvmoCxM9cPl/SW+DrsKNHZDYGb6kFNwFnLNbLqwAMO9r7z7LYwNCHgdSP6wMDSrubpTP8fLAut+ihhkIFoZrt//GheI05BbIVgR3GLj6CGaLpjxXzWkuHxq/BsajcXYqZV+J+BJ80rLOInQf5lj2CMWemRQlocu06i/OPtUfxtnsXHDNWMNDDn8AoRTflNsg4jIdJ1L7jXhQ43XPvZcNjGK/Hkb1XQqR+DFmbzzoR91I3n5J9IRpxA2ev2q7HfHtFbK6l/8Hs/qQMXGDbeGA+hJ1AUIDehe6lRA+3aP/hCEOYWpHPSJLlR1A==;IedWgSdeH4cyNXDE7eusgA=="
 ---
 

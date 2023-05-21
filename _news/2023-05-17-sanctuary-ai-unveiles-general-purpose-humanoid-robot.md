@@ -7,8 +7,8 @@ originalUrl: "https://www.therobotreport.com/sanctuary-ai-unveiles-general-purpo
 webUrl: "https://www.therobotreport.com/sanctuary-ai-unveiles-general-purpose-humanoid-robot/"
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: The Robot Report
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Sanctuary AI Unveils Phoenix™ - A Humanoid General-Purpose Robot Designed for Work"
-    excerpt: "Sanctuary AI Unveils Phoenix™ - A Humanoid General-Purpose Robot Designed for Work May 16, 2023 (PRNewswire via COMTEX) -- PR Newswire VANCOUVER, BC, May"
-    publishedDateTime: 2023-05-16T13:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/sanctuary-ai-unveils-phoenixtm---a-humanoid-general-purpose-robot-designed-for-work-2023-05-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Sanctuary AI unveils general purpose humanoid robot"
     excerpt: "Sanctuary AI announces the launch of its first human-scale, bipedal robot called Pheonix, powered by Carbon AI."
     publishedDateTime: 2023-05-16T17:56:00Z

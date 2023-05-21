@@ -49,15 +49,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "TV series about AI stirs resonance online"
-    excerpt: "Consisting of 33 episodes, the TV series has recently concluded its first run on CCTV-1 and is now available on the streaming sites iQiyi and Tencent Video. Set in a fictional city named Pengcheng, the tale is narrated through four parallel storylines,"
-    publishedDateTime: 2023-05-16T12:37:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202305/16/WS64633165a310b6054fad342f.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 19
 
 secured: "iKhr5bkJufamOQygN4m/sUGaWfML3fDQfxyagm3LkybyAo6xlbI4OlHzTcI7PtI9G/rGPP8rSBRNcJIrPEnhnc9s05Ahai44kltBjIajjO46f74L35xDcohpikqIIkaqt8NRdPRDSPd1DDzV2S9D1uLmqzyTXYqTvYnEh2I6bxCI32q3vGSYBX0Re23AmZELEwfvDTRtYzs3hR1xZTM8DQrg47me4HtwtfGrY+X9NgD392DvXMDSXL3FRhZVOBS18Nz2R3P3/EEUwC0XA3D1WvnsNLxo4FCoStgtcdeu9RRIfLgRKXFNFD7kKLjSEQKK82EKnQPNC601geJwbDKfRbh8MoImgdB47Pxpn9iRc1EnN3S/HThonokpKu+OFEvSX9q5nfOSA35zKZ/gxIGAY+JqOHhJj1bfSZ8iqGVUPp83EZDVfRNMfLmLl+VPDzCKtKKYbJCh6B49PZULJ265bWRwwmvkpv6Ky6eKMPdDtVFIlaHnvxXNfQ0EyZExz4vnYEbfaJonY6LAnemZR+knXQ==;x1MESwl5izrMwk6OiIQXwA=="
 ---

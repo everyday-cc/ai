@@ -21,33 +21,49 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "ActiveCampaign Introduces Content Generation Powered by AI"
-    excerpt: "The marketing automation provider invests in generative AI, helping customers improve engagement, conversion rates, and the overall customer"
-    publishedDateTime: 2023-05-16T11:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/activecampaign-introduces-content-generation-powered-by-ai-1032330723"
+  - title: "CAST AI Slashes Cloud Costs for Organizations that Build, Train and Run Artificial Intelligence (AI) Applications"
+    excerpt: "CAST AI introduced a series of new features into its platform, designed to dramatically reduce cloud costs for organizations."
+    publishedDateTime: 2023-05-18T12:05:00Z
+    webUrl: "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/"
+    ampWebUrl: "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
     images:
-      - url: "https://mma.prnewswire.com/media/2077354/Chat_GPT_AI_Assistant___Opengraph_Twitter_Linkedin.jpg"
-        width: 400
-        height: 210
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/CAST-AI-Slashes-Cloud-Costs-for-Organizations-that-Build-Train-and-Run-Artificial-Intelligence-AI-Applications.jpg"
+        width: 700
+        height: 400
         isCached: true
-  - title: "Saifr introduces risk interpretation and suggested language AI models for compliant content creation"
-    excerpt: "Saifr, an AI-focused regulatory technology (RegTech) provider that assists financial institutions with the creation, review, and approval of communications to help mitigate brand, regulatory, and reputational risk,"
-    publishedDateTime: 2023-05-16T14:53:00Z
-    webUrl: "https://www.finextra.com/pressarticle/96868/saifr-introduces-risk-interpretation-and-suggested-language-ai-models-for-compliant-content-creation"
+  - title: "Can any organization train generative AI models? CAST AI brings it a step closer"
+    excerpt: "CAST AI specializes in optimizing cloud costs, specifically around Kubernetes. Today it is coming out with new features within the platform that it uses"
+    publishedDateTime: 2023-05-17T21:39:00Z
+    webUrl: "https://www.techzine.eu/news/analytics/106213/can-any-organization-train-generative-ai-models-cast-ai-brings-it-a-step-closer/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
+      name: techzine
+      domain: techzine.eu
+    quality: 36
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/03/Databricks-Dolly-AItool_freepick.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Kubernetes firm CAST AI adds support for reducing generative AI deployment costs"
+    excerpt: "Kubernetes operations and cost management startup Cast AI Group Inc. today announced several new features for its platform to reduce cloud costs for organizations that are using generative artificial intelligence models."
+    publishedDateTime: 2023-05-18T15:30:00Z
+    webUrl: "https://siliconangle.com/2023/05/18/kubernetes-firm-cast-ai-adds-support-reducing-generative-ai-deployment-costs/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/castai.png"
+        width: 672
+        height: 450
         isCached: true
 
 secured: "qqyPhCS5VrjjoIvbc2Y36HaXgs3tG7TVLmO8zAQOFKKG7uOkYcSJePLIhyCy7UekZ1Qy1KLFyReTgJx9G+6fVo7p0e+TD304l+BKGtIAseRJgGpNOKLj1gu/5eEFnda8ZKEkeoEZQizMh2SQ6+jLn8hNH+0RV4EPuljJknyR2FjIx4xqPON/Rte3bPmfRBAUS186qmhCIUnCsQHxXqh9MpnYvSaDwqYs2dojmlyMBXtvNG2cLHHJ4z6XThLKd3sI1Nu919rBYqxoYTfzZ3FCqIR+uQPeFRhlQcOGcqDW1nzWe4SiHV2PqhV6rfxbTg5+I/SH3TsN3Hz2C1Z1zLtPhUInfs6jXBXiA0Bu4QruBdc=;aI014g4gwkZM1LsnY8gGnA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/world/middle-east/bahrain-set-to-host-top-f
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/middle-east/bahrain-set-to-host-top-fintech-summit-hoiy388r?amp=1"
 type: article
 quality: 59
-heat: 189
+heat: 169
 published: true
 
 provider:
@@ -135,20 +135,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Climate Fintech: The Key to Unlocking Wider Climate Tech Solutions"
-    excerpt: "Even with challenges such as a lack of standardised ESG reporting, limited access to quality climate risk data, and regulatory hurdles likely to slow down the adoption of new technologies, climate fintech has the potential to transform the entire climate tech sector and be an integral part of the solution to combat climate change."
-    publishedDateTime: 2023-05-19T14:45:00Z
-    webUrl: "https://financialit.net/blog/fintech/climate-fintech-key-unlocking-wider-climate-tech-solutions"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/lee_chin_jian_3417_copy.png"
-        width: 399
-        height: 432
-        isCached: true
   - title: "Data security issues Fintech firms are facing"
     excerpt: "The covid crisis represented a big concern in the fintech sector. First, more people are remotely managing their money with technology. Second, that’s led to new data security challenges. Hackers are"
     publishedDateTime: 2023-05-18T11:06:00Z
@@ -176,15 +162,6 @@ related:
       name: Proactiveinvestors
       domain: proactiveinvestors.com
     quality: 13
-  - title: "Partnerships Play A Key Role In Fintech's Future"
-    excerpt: "Partnerships Play a Key Role in Fintech's Future Vancouver, Kelowna, and Delta, British Columbia--(Newsfile Corp. - May 16, 2023) - investorideas"
-    publishedDateTime: 2023-05-16T12:43:00Z
-    webUrl: "https://menafn.com/1106252789/Partnerships-Play-A-Key-Role-In-Fintechs-Future"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
 
 secured: "2l45gKL6EVRATI/HeBnWLmYoG9x57uYwQH+5s4ZfpM1Xn8xWm4SKtWrTnFdRMEjhkRKjnSZ4pFPgIRv6csxwlrelf2QvH38mG1LV2oBT7fChdjYp0DDMAwpgPr6lh8sjoaAtGe5ALuH9U4J7cnD5yshcNuzLo87osVWf29+nSB7o8zrIU0UxCthOo5rtI73rHupNfsr84tm3eKIqRQD3/Q1SAKmnNDe5rw+nRfhvmhUFQnZzPlRcwpOwMOen9fsN+lsjcUyvbysPKmPOJvtbX+bwrgmISWNXq6UCsFBP11AtDjPWodkPrA/Y1/a3BlYXWdeLmJqZOyZPvuxkMAPPGeeaY6fKMN2/X4pPJXsx/4w=;Bz823l9BZfc6peHdCG8D4Q=="
 ---
