@@ -50,6 +50,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 31
+  - title: "Automotive Robotics Market Size to Grow USD 13.60 Billion by 2027 at a CAGR of 12.8% | Valuates Reports"
+    excerpt: "The global automotive robotics market size was valued at USD 6.63 Billion in 2019 and is projected to reach USD 13.60 Billion by 2027, registering a CAGR of 12.8% from 2020 to 2027. Major factors driving the growth of the Automotive robotics market: The automotive robot market is predicted to develop as a result of rising automation in the sector and improvements in accuracy,"
+    publishedDateTime: 2023-05-22T16:13:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/22/9818506.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
 
 secured: "JJDblE3yZm6Pb0NnIpk8+Bq3dcF4ppCkuiUOffhk7/2RlFzDHMuLi6xwLTUnFHtv/J+iYOvlacjJ0nvAPrJqncq3WRRj8DUnSQ7irfmfQh3bSZpDYTLXkCHdREQokNUDaOiNZwvilnlEfNiQccj3H6Iq/xmVvBEoo5wOe6zAq4kRglq5zBrbM3oXzawuh14Mv+/4H6ef2kbUfk+1E5dSWPZRlEDfjwkqyZ6wtbjo3dnGwotUJi4UQKqOgp5lgQ8QuEec4bM5JQXyLbxLghJkHo1r9YkUKI2w85JMVzeKD+/5U1Dvf8kQ6GHaPRCzXcaLCT9mvDJldYvryialNsgVj3+06Kj/t1wnKnfAuzkM2pQ=;1XKQXxFnWhWdWT29AeEnCQ=="
 ---

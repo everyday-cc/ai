@@ -23,6 +23,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Seattle startup uses AI to streamline rental process"
+    excerpt: "Building on models created by ride-share platforms like Uber, tenants can also use Marble's app to report maintenance problems, which are then directed to a (human-powered) 24-hour operation center that dispatches local vendors and contractors such as plumbers."
+    publishedDateTime: 2023-05-22T13:18:00Z
+    webUrl: "https://www.axios.com/local/seattle/2023/05/22/seattle-ai-real-estate-tech-marble"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
+
 secured: "YCumpqDmzuJ2IW1izE3D/jrFm3KgKdme9t20yn8GX/Z4RKjDvk9UCdhrxCV0GG7nnRS9LgHdDv7j7vwfG5sFy4HKwI86MuncwYgDGKgyi0yDWFQkpKzkTl6D6OuvOJ2tb4U8T3EjRC34+Q/0roGz5E2m+fCBvb+MalIn9QvHq2nbUHx26qfg6ou1AX45+uDeqQHHhbKfMd4sK/im9mVXmQ/HOZDY0xij+sb/487w+Wx8vlFtkASih+EDbW9tqitSo3sWM7Ec/tkOJPpqSaEo+jXk6NN2QOxtzZ9wDfWAkGiN2r34ZRQEsyQV6lkPGNA1UilRw3x6/AJj9iPbctpR/7i0dZ9rhkICd/LynWYs5EmMj/PUh2ADPYm5RFi5wr4zFC2F0hq0Jh/eKXmAiW5FdQhic2NVcQUQ+njRSq/J0Gj4fRwhqinlS9vWxydeQ1i1UpCrdTtkxUfvSjnXk3gLr2GHhOVLXGyw4Qj+hTFrocxM0jQSAYmy9RCxPbT+UBn3bBz6XA2BMzhV21XC/P6r/w==;WwGwpJE0nF6OB7vN9mw1Nw=="
 ---
 

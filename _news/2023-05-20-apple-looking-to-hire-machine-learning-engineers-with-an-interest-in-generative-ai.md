@@ -9,8 +9,8 @@ ampWebUrl: "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-mac
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/"
 type: article
 quality: 68
-heat: -1
-published: false
+heat: 88
+published: true
 
 provider:
   name: AppleInsider
@@ -27,15 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Introducing an image-to-speech Generative AI application using Amazon SageMaker and Hugging Face"
-    excerpt: "Vision loss comes in various forms. For some, it’s from birth, for others, it’s a slow descent over time which comes with many expiration dates: The day you can’t see pictures, recognize yourself, or loved ones faces or even read your mail. In our previous blogpost Enable the Visually Impaired to Hear"
-    publishedDateTime: 2023-05-19T18:11:25Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-an-image-to-speech-generative-ai-application-using-amazon-sagemaker-and-hugging-face/"
+  - title: "Generative AI Adds New Dimensions to Election Interference"
+    excerpt: "Election administrators are still digging out from the mountains of misinformation from the 2020 election cycle. Bad actors are using AI to ramp up for the next one. Can AI help level the playing field for the good guys?"
+    publishedDateTime: 2023-05-19T05:40:00Z
+    webUrl: "https://www.governing.com/security/generative-ai-adds-new-dimensions-to-election-interference"
+    ampWebUrl: "https://www.governing.com/security/generative-ai-adds-new-dimensions-to-election-interference?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/generative-ai-adds-new-dimensions-to-election-interference?_amp=true"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 71
+      name: Governing
+      domain: governing.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/2cfba84/2147483647/strip/true/crop/1679x875+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa6%2F8d%2F75d7c3b64a09b15bf3759f57b52d%2Fus-news-senate-ai-regulation-get.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "Stop Serving Dogfood, Invest In Generative Artificial Intelligence With Purpose"
+    excerpt: "Don't fall prey to the trends, make sure your generative artificial intelligence investments are meaningful to your customers before launching dogfood to your users."
+    publishedDateTime: 2023-05-18T13:29:00Z
+    webUrl: "https://www.forbes.com/sites/joetoscano1/2023/05/18/stop-serving-dogfood-invest-in-generative-artificial-intelligence-with-purpose/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 43
 
 secured: "TtuPrpn0ZeLi8RWKEME/EEylNYY8xH3VRZKGmMCiE3vn1ir4iDuZDQr4w25IZiHRuM73qxjxTjwyBu4JfeaC4MnSzzJtqNLpdSGSmpLf9ITnFWiwDmVINi1PBt+Xr6Zf/oCVd7CHfZXc1heMvRhE6MWisgHF0mIEVFEbZ4QQuFGtPkAb9m57TqO2OUXGXgQERgjJ5NsMcHimYk65kTU+yJcfVK4vViVcn1HOdBiW2LYPNrJUSGA+/GrhAtUQfPLpxVbdh1+/Jcg4S86LbKo2CoNNr1oaUwBbj6el9wHllOSYbqd+3xbXEH2BYMaZj/GV65qzsvHT04hCNPy8UOuLEWdHoAWqgWK2XRO3tpyjiLTqyY9Me3K7HWVsnmyPLrJSSCaR3ZPrUVkJ53kj6GsB1DVb2b8EjDwC/ul9nbOFQPfsA5E1txm7N6J7kNwNAOwy+O9qRabBvCO1+wwZLnawA3F+8LmWiP8wX6Qv7IwIN17elPQwhmfNk2dD8YL0z2eF3qyoy7VPLZp9cPLIw3kKlQ==;bejG/OpY0vEZiuEz6gkMUQ=="
 ---

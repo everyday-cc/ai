@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-is-trouncing-money-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-is-trouncing-money-managers-and-is-destined-to-turn-the-investing-world-upside-down/"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "Finance expert explains why people are turning to AI for investment advice"
-    excerpt: "With ChatGPT and other artificial intelligence systems making waves, some people are turning to AI for financial planning, according to one West Virginia University researcher."
-    publishedDateTime: 2023-05-17T19:22:00Z
-    webUrl: "https://phys.org/news/2023-05-expert-people-ai-investment-advice.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 32
 
 secured: "fls7nB3cRBSk2hWrfkYlpr1wQS+NXkpCWdQR/82nK+qkBwhheVYf+m9B2LVuRcKWh238WcRm+hjjOY1EIglyE5Jo/gGfEvLTnGHRUZmTlSDSw81zmxCq1gCoJi9MN480mj5AkBzq5dfq4rC1NRVpWV3jyL/NcxR7pSOF4280VpKI+exE8XuylzN2I50Qn8Vpkn+OZ0mHXuAfSx3S4EFC8umNUkswSb+eZGXv2H2rYCAyntxCFiYJrw2PvobWpZ3z6NCXUGWv/cGWhT2PQlW1k0ZPetKA80jLcDShI8ZncFUfBVL8s1jqqk4ARCK8GsWoTrbQ6Nypu577E3ON0cl+JneHAmCdAUAiH6HV800cZ/c=;itF/UkwNui2uJcfGzpPhsA=="
 ---

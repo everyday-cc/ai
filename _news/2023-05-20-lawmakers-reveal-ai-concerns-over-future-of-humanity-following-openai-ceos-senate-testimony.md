@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/lawmakers-reveal-ai-concerns-over-f
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lawmakers-reveal-ai-concerns-over-future-humanity-following-openai-ceos-senate-testimony.amp"
 type: article
 quality: 75
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Tech reporter breaks down OpenAI CEO's testimony, potential regulatory challenges"
-    excerpt: "OpenAI CEO Sam Altman, whose company developed the widely used AI conversation program ChatGPT, warned federal lawmakers Tuesday that artificial intelligence could pose significant risks to the world if the technology goes wrong."
-    publishedDateTime: 2023-05-17T23:00:00Z
-    webUrl: "https://abc7news.com/tech-reporter-breaks-down-openai-ceos-testimony-potential-regulat/13261680/"
-    type: article
-    provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
-    quality: 34
-    images:
-      - url: "https://s.abcnews.com/images/US/sam-altman-ap-jef-230517_1684338504336_hpMain_16x9_608.jpg?w=1600"
-        width: 608
-        height: 342
-        isCached: true
 
 secured: "ISrWBWZYLBbv8oNQxQ1GnHoGX6nAmREsXt/D6wy5flEx6GAY3gK3Hr6UHR1QGp3l3NmxpvGyVaGHO7G96LlZ0c88ii7YkfRGLiVAYnGB3vYs1AaOiRMG97U+GhypNuz/z/7i3n7ZRHhulHGY4HjTtOkCeQ/l4JDUcVQ3Eca4nkuzXNVnPOiNe5a1tjnMiX+ehRDqdS+U/7y2VvQTm5cNWz5+BIV7m2ygxcihjgojlel9oqSJZT3bPd/VEHSwzXa/KqMEJFu0abqcGrYJ6z7OYgwBNMuFcaxCByNDhEnafd0+0yQS6O4z6DasTSQcpB1S/B/OoNGyD4HylrUyVLKBEEMl/SBOEPDbcx/R/Ox+BN0=;LycR8+cpcSd0tjTHrMBSUw=="
 ---

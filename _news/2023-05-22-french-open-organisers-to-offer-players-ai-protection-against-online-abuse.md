@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/sport/2023/may/22/french-open-organisers
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2023/may/22/french-open-organisers-to-offer-players-ai-protection-against-online-abuse-tennis"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -29,6 +29,17 @@ images:
     height: 372
     isCached: true
 
-secured: "Koebyv9GNJgaCdKIULUrOBmm3m3eILCE4bwdM2X6cvLUwj7nq4oQGU0uEgp9ZLz4k4Eg3v/n3tuChtYxb4gyr2Emnaysch2J7IfQsZ05IfjbayL8GE3Q4/ZEhJ2rW7kNVCceYfJSNAK1VFbwRxtVUjsjLUlJyFS7HdAwDur/M3zNQkhchukN0rOhs0Z2W384Wyy/Dj3COevMuEKwILDVqpsqck4BLGEh5DeGmNw1E3Zt4H7LCdmO0xOWCVjS1ZOkgqgA0oHPE52sx3qReXSIizWJBtZYfDauVzdDIQE4jVWQv+1XaglubePVuXTMsjUuy98HaWJLQpcQr4jU9mURtSd7yARG1VT7vlg2z9QIgTQ=;EecSCVEFMNfa8dVSsE2uUg=="
+related:
+  - title: "French Open to provide anti-hate social media AI for tennis players"
+    excerpt: "Tennis stars will be provided with artificial intelligence software that can filter out racist and homophobic comments and other hate speech on social media throughout the French Open, tournament officials said Monday."
+    publishedDateTime: 2023-05-22T13:24:00Z
+    webUrl: "https://www.upi.com/Sports_News/2023/05/22/france-anti-hate-AI-tennis-french-open/5621684759315/"
+    type: article
+    provider:
+      name: UPI
+      domain: upi.com
+    quality: 17
+
+secured: "BJ4TmqREgQmIZvVPPeLwSygXoSJ6vhHTD2U5/YtW9wK5aaPl/BWvqbGsmWAwpanX3Hxmp1C+w+azlLVFCMs2V7NgVlaxfUoA2kJFz68D9xMdD7T1l0It0Racxafs1LloVy9xQi7j30FSDEhWdNHsG3Yjp6ECWTQNKQKZwRdLa17ZHwE2c0xvjCavuDOOfE3yZEClS6TrNSGE4w2qktObrAXKDJDln/jjr0er8UeQAwBwhVeeNzoLUIiK92YPZiVGsTfWM0AnprCrQZ65ygVF5HK8y2i+q/8csUfQ9IbrpEaeDadTqn/5v5mI46n9Wmel1cwoLE9t5eKbwnopzH7HjqVqoZcohlT3j5R190ruN8q3eg3Yhf8Q7EmMyHxCAXGLnoKJTxf9sUcni+HccG8mx/DNVif1Z7wHIotwrRiRa3iWBfLNknlqN1GoTRibaOgumvHq9iYWsNHn5KHr1EaTx6zgEx1UCZWODyP5IPYNAqAlMJorE328+zmdKiUM5Zg7BNZLZbKkAglcxlPC9/bsFQ==;vd1t/vjCG7ful26b5TIMUg=="
 ---
 

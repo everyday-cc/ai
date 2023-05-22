@@ -55,6 +55,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Microsoft healthcare AI subsidiary Nuance hit with job cuts"
+    excerpt: "Nuance Communications, a Microsoft subsidiary, is undergoing layoffs to focus on its healthcare business. CEO Mark Benjamin notified employees of the job cuts May 19."
+    publishedDateTime: 2023-05-22T17:10:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/microsoft-healthcare-ai-subsidiary-nuance-hit-with-job-cuts.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 71
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "After Apple, Amazon, Google and Microsoft, Meta Now Builds Its Own AI Chips"
     excerpt: "Meta recently introduced its first in-house silicon chip designed for AI workloads, called MTIA (meta training and inference accelerator)."
     publishedDateTime: 2023-05-19T09:21:00Z
@@ -110,6 +124,24 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 46
+  - title: "AI Activists to Target Microsoft at Build 2023"
+    excerpt: "The activists from Ekō have published a full-page ad in The Seattle Times and a billboard outside of Microsoft Build 2023."
+    publishedDateTime: 2023-05-22T15:11:00Z
+    webUrl: "https://www.thurrott.com/microsoft/283436/ai-activists-to-target-microsoft-at-build-2023"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 36
+  - title: "Microsoft says new AI shows signs of human reasoning"
+    excerpt: "A provocative paper from researchers at Microsoft claims AI shows the ability to understand the way people do. Critics say scientists are kidding themselves."
+    publishedDateTime: 2023-05-22T13:09:00Z
+    webUrl: "https://www.seattletimes.com/business/microsoft-says-new-ai-shows-signs-of-human-reasoning/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 34
 
 secured: "3SmCeQdx5xIWTnnHffccRRqYBL+LWXxuMAUkeebE5AaEESGNlvx2J6+uy8vuVNGFBxvpiqmwnnAPuqrVfQbe1jp9h2MU5pM68/18c0+lU1guyh5qd/NlEcQB9LLew1F6CfFp+NSey8bAalzy8ODwDSuolZXT7EPYOIaIzWfS2Ng3tfECcf0Mv7MSPQ5z8/TPrhWw9ojH3tu6mOoeDPfn9ogt/ZoqiI0DXsVEUcPC2gMBXnVtkuLiVa6ECgDJHDNPmb+NEWbzs1yw8B6Y+NW/MTfFj8RPpSiSqLgAkz01lF1Yq1/nTsqjCM6bc76hYlTDQ7AiXShc36pKtZOW/WSBybFwopKm/6aEzhYMq+fCTao=;1IHojK+xK1jUeQiiet4hdw=="
 ---

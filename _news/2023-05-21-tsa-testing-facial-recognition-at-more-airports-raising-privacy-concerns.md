@@ -50,15 +50,6 @@ related:
       name: Reno Gazette-Journal
       domain: rgj.com
     quality: 26
-  - title: "TSA Ramps Up Facial Recognition Pilot"
-    excerpt: "Next time you’re trying to catch a flight, you might spot a new initiative from the Transportation Security Administration (TSA) with a controversial component: facial recognition. The TSA has ramped up its biometric identity verification pilot by installing facial recognition systems in more airports."
-    publishedDateTime: 2023-05-17T19:20:00Z
-    webUrl: "https://www.extremetech.com/internet/tsa-ramps-up-facial-recognition-pilot"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
 
 secured: "8TGbTP8DfkLDZRe+sCBMgTllyV76msNK6o3m974CpxeVes66U7L/m/Vukgd4WLTEcvjiQNG3hV9qAEg5ofQ4XRx7Jg5ZioiKundtobXuiVhkCoKMJcpQiNNVjmZ/x8ht+mR6pCkDz/cZeGX10M6EZJsSJ/sF1XUxD4CcWeGhF4YaaKZ9pl5E9TTmMqNhmy1Vbb3pN0zBP0gZsPMCyLSEfqAcrNxprjrOdZ8Kbuiiv1odQ5q1lJqhJBMU9tR9EbDc3eJtZ5uxdK8SkdlA+TxgU9QPoeGnsO1jM5BFayWX4M2D2U6KABTi2Z34ZmRv9juisGzHJQweaRKKjszWcs0gSWaVjPU6niIhxWNKZJZfS6meug/aLPRcfqMgSF0hPOaOFEjWpzmsujtvyxLBwylHVrfNACJ1Bl0BeFUce+9TleQ1aoDNGrsbeh7vqy+n9M+o7zubHTMMM5KMaMQp8YJFQHm7dg5SrHZxFOtNEjVmqblyZU+jr/Wi4BSLc9C5/p0UCOXBtBOyoDWooaXgDSR1Yw==;+4OJ4UWxzy/AdXB005nyjA=="
 ---

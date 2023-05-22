@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/05/20/winning-custom
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/05/20/winning-customer-service-through-ai-and-automation-in-hybrid-work-environments/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Preserving the World’s Language Diversity Through AI"
+    excerpt: "Our Massively Multilingual Speech AI research models can identify more than 4,000 spoken languages, 40 times more than any known previous technology. These models expand text-to-speech and speech-to-text technology from around 100 languages to more than 1,"
+    publishedDateTime: 2023-05-22T16:15:00Z
+    webUrl: "https://about.fb.com/news/2023/05/ai-massively-multilingual-speech-technology/"
+    ampWebUrl: "https://about.fb.com/news/2023/05/ai-massively-multilingual-speech-technology/amp/"
+    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/05/ai-massively-multilingual-speech-technology/amp/"
+    type: article
+    provider:
+      name: about.fb
+      domain: fb.com
+    quality: 59
+    images:
+      - url: "https://about.fb.com/wp-content/uploads/2023/05/Massively-Multilingual-Speech_Social-Share.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Detecting wildfires through artificial intelligence"
     excerpt: "The company said they are already in talks with multiple fire agencies in Arizona, including the Bureau of Land Management."
     publishedDateTime: 2023-05-22T04:08:00Z

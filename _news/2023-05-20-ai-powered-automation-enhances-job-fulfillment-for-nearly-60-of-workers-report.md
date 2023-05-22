@@ -31,6 +31,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
+  - title: "Artificial intelligence could help mothers with overload"
+    excerpt: "Earlier this year, I made a dumb financial decision. I bought a car that was beyond our budget. We had just been through an eight-week stretch of demanding work schedules, kitchen renovations and checking-account fraud. Our daughter's child care center ..."
+    publishedDateTime: 2023-05-21T14:09:00Z
+    webUrl: "https://richmond.com/artificial-intelligence-could-help-mothers-with-overload/article_fe090554-9202-55ab-9d12-7227a233f7e8.html"
+    type: article
+    provider:
+      name: Richmond
+      domain: richmond.com
+    quality: 19
 
 secured: "vKWE5CFeZm4Idf2gXf3YQXjDIcKgW3BB8SZCDRjwEbX7a56j54OSboELWw39tNcBFKtrfUzrGUQR/p7FtV0i0dXmVqW1Ze96wcHf8F2E1iz1EHca2l+hgow27pfutYSsj9vSRqGRAP3Vu8O3ZptJ1ycZ1cvxIdF5JJdoAVUPkzdd0ITvh1BT3nIirhKQMpvl1jKlAGlhi5G7QbPDRcOXRB9ThA/T0wHdOgp/NrF4m5p8gHdSD0BSOHCYeW0JOQQBGr+NYRmKL8uM1WpqWEdVuTdu8+aNuhtOlsXjfo3zhJp1QCnOt/rv1AyenJyg2rEmx5/E6UOnntzXfQYWY85cM8yhE//Xhp1My4eIOdCNN4qs7lwbGpI0GjPKkG9+yjHwD26cyJLTgo5zxmDT9f9e44vriN1KiITb2xqrEGvqt01qvUS8Z7q8RApSwzeSyPfbscH7mRJfR3UH1ybOt3GbG1Fv+nUi60XWo5yTpypXHtCSKYj/rkrtn0jV/WnYyFR9j8zur2ywbh880Ngrg4eBhw==;Vbm9phXA8NEOaW/NNx54KQ=="
 ---

@@ -35,6 +35,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Meta fined record $1.3 billion by EU over handling of Facebook user data"
+    excerpt: "European Union data regulators have hit Meta with a $1.3 billion fine (about €1.2 billion) and ordered the company to cease transferring EU Facebook user data to the US by October. The fine exceeds Amazon's $886 million fine from the EU for data protection violations in 2021."
+    publishedDateTime: 2023-05-22T16:49:00Z
+    webUrl: "https://www.zdnet.com/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 73
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/51f5cfda5dbc9796f18e715d4ae239f452ffb46a/2023/05/22/84c5ed15-7609-42d0-bd54-9a07cb0e23c1/gettyimages-1244644879.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Meta is working on its own chip, data center design for AI workloads"
     excerpt: "The Facebook parent said that it is working on a new AI-optimized data center design and the second phase of its 16,000 GPU supercomputer for AI research."
     publishedDateTime: 2023-05-19T13:37:00Z
@@ -44,6 +60,33 @@ related:
       name: Network World
       domain: networkworld.com
     quality: 38
+  - title: "Meta makes it easier to apply deals in-feed for Facebook"
+    excerpt: "The new promotional ads format enables users to click an ad to automatically claim an offer and be notified before the deal ends."
+    publishedDateTime: 2023-05-22T14:51:00Z
+    webUrl: "https://www.marketingdive.com/news/meta-tests-promotional-ads-format-new-lead-generation-tools/650819/"
+    type: article
+    provider:
+      name: Marketing Dive
+      domain: marketingdive.com
+    quality: 4
+  - title: "‘You can’t unsee it’: the content moderators taking on Facebook"
+    excerpt: "In his job, he had to watch a new Facebook video roughly every 55 seconds ... which had been working in Nairobi for several years on labelling data to train artificial intelligence software for clients including Meta and Tesla — take on the work of ..."
+    publishedDateTime: 2023-05-22T13:21:00Z
+    webUrl: "https://www.ft.com/content/afeb56f2-9ba5-4103-890d-91291aea4caa?trk=public_post_comment-text"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 4
+  - title: "Facebook parent Meta fined $1.3 billion for violating EU data transfer rules, company responds"
+    excerpt: "According to the Irish privacy watchdog, Meta's use of a legal instrument known as standard contractual clauses (SCCs) to move data to the US \"did not"
+    publishedDateTime: 2023-05-22T12:03:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/facebook-parent-meta-fined-1-3-billion-for-violating-eu-data-transfer-rules-company-responds/articleshow/100422243.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 0
 
 secured: "5ADpbfZXiR1uGu5EgqGMUthZrsW34W8EWkdiVSumyB+b0+uN5uOdoiRm8HO7k3LhYqXzXru2FuRnnCzlj06Is5TFTqbVzWfZ5cUjTh7+ekmJKHkBMp8DXXzA1gLltBaDVNuS2Ha53H8GsNiFEAPJOzMgwyeR/3m4Gr3XZ98AzOyVfJPg+dkdxMI90GCbecLt6wq0iksE7ngqYikbqDRX4itIir78cEQ8e2BW2xqCPhwHSorzd9+5d+CfIqD4NA0ZW/i0F9IKTEFICRc0xthL1MYaFMFNJLMBL1IWLdyy70UY6NJIjbd1Pl7CpnwIuHI045UBEDBAl07IN+m8BPjCHz2MoFEXV60D3KiSnT6iyql7qmNeeEHurOi8cMDoBKAh68ILxV5DuqjAdMMMA8eGF3zkx7jzngCluHjUHcZlTu0ds1rrQxYl0zz0LweRVnty4fYxj23CXT43eJiJgwvvJpNFSbiLQbFlrPsfRXKAUW/0+qfx15b8kyM8s7HKnzqLC/KKYxbolRQiJdkYJrC0iw==;KcGpRl2OkrT6v5M6ZtosCQ=="
 ---

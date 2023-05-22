@@ -29,20 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Can any organization train generative AI models? CAST AI brings it a step closer"
-    excerpt: "CAST AI specializes in optimizing cloud costs, specifically around Kubernetes. Today it is coming out with new features within the platform that it uses"
-    publishedDateTime: 2023-05-17T21:39:00Z
-    webUrl: "https://www.techzine.eu/news/analytics/106213/can-any-organization-train-generative-ai-models-cast-ai-brings-it-a-step-closer/"
+  - title: "FlowX.ai raises $35M for its AI-based approach to application integration"
+    excerpt: "“Digital transformation” and AI remain very buzzy terms in the world of enterprise software, and today a startup operating in Romania that’s built a platform that taps into both concepts, and is seeing user traction in the financial sector, has ..."
+    publishedDateTime: 2023-05-22T12:03:00Z
+    webUrl: "https://techcrunch.com/2023/05/22/romanias-flowx-ai-raises-35m-for-its-ai-based-approach-to-application-integration/"
     type: article
     provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 36
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/03/Databricks-Dolly-AItool_freepick.jpg"
-        width: 800
-        height: 533
-        isCached: true
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 46
   - title: "Kubernetes firm CAST AI adds support for reducing generative AI deployment costs"
     excerpt: "Kubernetes operations and cost management startup Cast AI Group Inc. today announced several new features for its platform to reduce cloud costs for organizations that are using generative artificial intelligence models."
     publishedDateTime: 2023-05-18T15:30:00Z

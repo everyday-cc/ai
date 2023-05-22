@@ -31,6 +31,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 42
+  - title: "Artificial intelligence could help mothers with overload"
+    excerpt: "Earlier this year, I made a dumb financial decision. I bought a car that was beyond our budget. We had just been through an eight-week stretch of demanding work schedules, kitchen renovations and checking-account fraud. Our daughter's child care center ..."
+    publishedDateTime: 2023-05-21T14:09:00Z
+    webUrl: "https://richmond.com/artificial-intelligence-could-help-mothers-with-overload/article_fe090554-9202-55ab-9d12-7227a233f7e8.html"
+    type: article
+    provider:
+      name: Richmond
+      domain: richmond.com
+    quality: 19
 
 secured: "6mIy/9OT8mwTATHnEiEpI8yoUCFfeA/GgPBSDYLhZ/yYEM46XWnCm/Y+ZXh4fdHCwAYPV0K+lmQfSwAvYuFq5Ks+ubnyuC99y4Dh8+7eieJCYdQh/TEjRgkYGGXP18bHL8uLMM1eE4bjTkhKUrINnr/a7/b1kG24UP8d8rRqMDNJIn7c5GIGMoW0sUKUD1ppJKu17i1C5p6ETx2nnFI+M48obZgTNNGvlZRwPiZYsyPB0rx6DEF5Z5jV8Tud2i4xUSylbjTsZtAIPxj0OGQlC+zNzRcAf3EF8D2bpJ8kN3FsGJDiiJLouc7SWf9lWzJm780a1Vq+LBzS0NqWVWKuMOuM/5QcV3bgt7cLXK2CL4XXdvbT5SUv1+Kk+g2+V4fV4vOaPkzfZ+1+oAt5Q3rtGtAHEXEKu3gbdwdaGucWgZVqZstaroQA0IH2Ex+H82H+4A7wmE06qbdEuemFYxv745UlY1IKEHy5DJJrfmA/Ghm0wybxRW9QjMQnLVqXv1qOc8Jo9XVWHRDT5OCReJ/Yww==;tpDMuH7w1OzHUDIExRrdNg=="
 ---

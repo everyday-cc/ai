@@ -80,6 +80,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Financial Tech Platform Modak, Digital Identity Firm Yoti to Create Safe Fintech Platform for Teens"
+    excerpt: "Modak, a fintech company for teens and families in the US ... On top of it, Modak now “leverages Yoti’s AI facial age estimation technology to enhance platform security.” Yoti’s facial age estimation is “an inclusive and privacy-preserving ..."
+    publishedDateTime: 2023-05-22T16:23:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/05/207434-financial-tech-platform-modak-digital-identity-firm-yoti-to-create-safe-fintech-platform-for-teens/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/05/207434-financial-tech-platform-modak-digital-identity-firm-yoti-to-create-safe-fintech-platform-for-teens/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207434-financial-tech-platform-modak-digital-identity-firm-yoti-to-create-safe-fintech-platform-for-teens/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 30
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/08/School-Bus-Students-Education.jpg"
+        width: 1280
+        height: 1062
+        isCached: true
   - title: "Fintech Startup Techverve and Pepper Advantage in M&A News"
     excerpt: "Fintech Startup Techverve and Pepper Advantage in M&A News - Global credit intelligence company Pepper Advantage announced, the acquisition of artificial"
     publishedDateTime: 2023-05-18T03:23:00Z
@@ -117,14 +133,32 @@ related:
       name: TechRound
       domain: techround.co.uk
     quality: 21
-  - title: "Nextech3D.ai Receives $2 Million in Cash From $400 million FinTech Ratio Tech"
-    excerpt: "With access to a $400 million credit facility, Ratio is able to fund Nextech3D.ai Accounts Receivables With ... initial $2,000,000 cash infusion from FinTech Ratio Tech representing zero-dilutive ..."
-    publishedDateTime: 2023-05-18T11:58:00Z
-    webUrl: "https://www.morningstar.com/news/accesswire/755714msn/nextech3dai-receives-2-million-in-cash-from-400-million-fintech-ratio-tech"
+  - title: "LatAm fintech Kiwi raises $80 million"
+    excerpt: "Kiwi, a fintech dedicated to helping consumers build credit history and improve financial literacy, today announced that it has closed a $75 million credit facility and $4.5 million pre-series A funding round."
+    publishedDateTime: 2023-05-22T15:11:00Z
+    webUrl: "https://www.finextra.com/pressarticle/96927/latam-fintech-kiwi-raises-80-million"
     type: article
     provider:
-      name: Morningstar
-      domain: morningstar.com
+      name: Finextra
+      domain: finextra.com
+    quality: 19
+  - title: "What impact will AI have on FinTech in 2023?"
+    excerpt: "Artificial intelligence (AI) is emerging as one of the key driving forces behind financial technology, as in many other industries recently. It’s a defining"
+    publishedDateTime: 2023-05-22T17:20:00Z
+    webUrl: "https://www.businesslancashire.co.uk/2023/05/22/what-impact-will-ai-have-on-fintech-in-2023/"
+    type: article
+    provider:
+      name: https//businesslancashire.co.uk
+      domain: businesslancashire.co.uk
+    quality: 19
+  - title: "Nextech3D.ai Receives $2 Million in Cash From $400 million FinTech Ratio Tech"
+    excerpt: "With access to a $400 million credit facility, Ratio is able to fund Nextech3D.ai Accounts Receivables With ... initial $2,000,000 cash infusion from FinTech Ratio Tech representing zero-dilutive ..."
+    publishedDateTime: 2023-05-18T12:17:00Z
+    webUrl: "https://tulsaworld.com/ap/state/nextech3d-ai-receives-2-million-in-cash-from-400-million-fintech-ratio-tech/article_3eefe327-531a-522e-b87b-da964e5c6b12.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
     quality: 16
   - title: "Nextech3D.AI receives initial $2M cash infusion from fintech firm Ratio Technology"
     excerpt: "Nextech3D.AI (CSE:NTAR, OTCQX:NEXCF) said it has received an initial $2 million cash infusion from fintech firm Ratio Technology. The funding represents a zero-dilutive capital source for the company as the cash was paid against future invoices for ..."
@@ -136,6 +170,6 @@ related:
       domain: proactiveinvestors.com
     quality: 13
 
-secured: "aEjZcQd/BhKvsj+4LJhSx27OVxIpGhIOErzg9fdfZGw/1LPXjfsYAWRIZdo/YDM/Zl2M5u/ZbFxhBzuXr2GQ3OX+2oxoUpTOeJEBOQmZFRnG5uMrNEVQrbgkNQQADDjwebIa7528zrAhsG0HQiF8UpqnzXAT6k/TIUjmlTkmeRkt3CivVGSISJv+TE7mHJD9hej3oq0CxyRhczErLPskGpwKc2vK4kb4FeigkDJK3uS6SDt25KCVroIBGYcfcp2L0KIBxcNwQXKojQ5lqFeI1eDXrJI8TDckIfc+cKsP2Rk3UOD47k8kXvpbaRmp6tCuI3qBkSkiPpOLqRzG0MhWaYX7dl4u/AwBsFq472miRxA=;7vKlgkKRuwMK5Nxxggm0ig=="
+secured: "HUqaSDnYx+wkGA1ry5renfBErAOxBYfFNphRIEr5DBD5+wSTu1NEQIFU29lARrqEgPxQiWjrvJXwHOW/Qhm1AYFniZ4aeF4PPgxIFEaUCUYD4gKN43ZdCmoc4f6fRDYQSInMj6luEj3fBjxzGomnuOMqBH9L/W0WSgNxQCPbvspXrG0wxryY13cmrUFEKIKWhOfZdkcVFF7ALFxRTyPzyOj01RTZ22hUuB/SuowVxQBOcq81asTphelLtDBrdk7/7SDpPBTjapzkrMJYOu1pr6A7d7K/2S8vIfaMR/uM6ygsZudEpjdRWedVSmmyO2fZKduvMQFEer5FGe3Hg4LmrDlvb9+u97+veb/ENUZ/44P2vTOKgJsU2n0HIecJTMGO1hqJZJ49BtS0JfyvKr8zUTqYfNuDdH4I4WecTK99puAQee6knQ+rEWeQkmzbCPpvfy96Yt/1g45zkcljUZCIhYI7kYMxonYheV4RahgDAnu9ySK2DtzTbYP79nlCzp/34vCz9c6w/HnSWRHPpxZouQ==;e0/ndV4s4xUXcfNOO+OP4A=="
 ---
 

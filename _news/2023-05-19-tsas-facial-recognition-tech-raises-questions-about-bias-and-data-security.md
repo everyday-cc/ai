@@ -76,20 +76,6 @@ related:
         width: 790
         height: 497
         isCached: true
-  - title: "Police officers on patrol to deploy facial recognition technology"
-    excerpt: "Facial-recognition technology is to be used in body-worn cameras by officers on patrol as part of government plans to “embed” it in everyday policing.The poli"
-    publishedDateTime: 2023-05-17T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/police-officers-on-patrol-to-deploy-facial-recognition-technology-nkcgxh2f5"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F69d79e6a-f4db-11ed-97af-27f55025e763.jpg?crop=3576%2C2012%2C376%2C656&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "8xPunaiKPovStu+e0A04+SW1kaDLMcDcn06d8A6UWjsK92LVncuDUdKApH4A1VkrT1uATij+X2xq9Eq2icefhCs/kB5BQNGsPcTQFkRwF3+CfVgLJC18MgJAeQEEod8vgGhutEKA9iM+cdeDtRO2JQZKNBraclj/+nCe+Vx8hekxcXQByID3K951mybtmthjnB2EjtiVfgWqPzjvAS+dTp84ZE22gbVcnPua5EgNG+o6WJxDED6hsiNH9HQEsZyFqTn+Ly/4vF1n3USEMovl9pTw5m9IwPGUx7btAn1MEVcEApJIGBjInBtqkC6LhMAr/xWiEU2gy+620gfMvejHwlKH+6XTv9lODroQPArUzc9l23J8vCnJmzI/hNN4DRBb2c0YwNmCu1TtZiO7R6V//+1ejNuwp1Bi1dA4LUJc1fPFwmkI4eyvMxIaQYN3Q0ofheTAwQc1y51brAkCvcMqMfKTTU1TOqCrxdpmeAfVrMfXSLPtHyfUHo5b2dZwhysO5EUqa3cGgUMQSoNHP1AdoA==;Egz1pmOVjCa+pFbHpIZWcQ=="
 ---

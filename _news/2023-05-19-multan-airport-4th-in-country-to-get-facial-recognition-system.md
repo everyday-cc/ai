@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thenews.com.pk/amp/1071894-multan-airport-4th-in-country
 cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -51,15 +51,6 @@ related:
       name: Reno Gazette-Journal
       domain: rgj.com
     quality: 26
-  - title: "TSA Ramps Up Facial Recognition Pilot"
-    excerpt: "Next time you’re trying to catch a flight, you might spot a new initiative from the Transportation Security Administration (TSA) with a controversial component: facial recognition. The TSA has ramped up its biometric identity verification pilot by installing facial recognition systems in more airports."
-    publishedDateTime: 2023-05-17T19:20:00Z
-    webUrl: "https://www.extremetech.com/internet/tsa-ramps-up-facial-recognition-pilot"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
 
 secured: "GrL1ye4eRk6kDMncPam6yqbw6rJFjrTykw/dPqWqPNyintlILt6AkEvUB9Pz/3Xd+gFk9GGfAX27pQXZQl3KTnUemmciErOvpvcJtE6HeOMINILtdmJyUEhsGrB78af6OAdpXhYmu0ECKEL49j1epfeY6X03dJCwp7YXs4FGbcxIdgr0wV0bux3FALJMW43dpJNmjeNL6Q7UHe1Ab2i3tWmXcYgBFXnt3doNmHEsihkz8FNefTVbYQpWf7sfEu0+mvCBgrKt/WPErif7bOLa/s7RUPcjO/lS2YcJbbJa6SJNMsTgx3gPr7LCjSIGCK//LToR1fDHtx/TgvpDh43sJz5P0PergwxoeQdP0U5+Hro=;4v7W/tn6GoByBWY//xSctA=="
 ---

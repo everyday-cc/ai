@@ -74,15 +74,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "Finance expert explains why people are turning to AI for investment advice"
-    excerpt: "With ChatGPT and other artificial intelligence systems making waves, some people are turning to AI for financial planning, according to one West Virginia University researcher."
-    publishedDateTime: 2023-05-17T19:22:00Z
-    webUrl: "https://phys.org/news/2023-05-expert-people-ai-investment-advice.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 32
 
 secured: "HSJ0Y45sCHmxD/JuublGGoZLxqGEdcHZMedxSmDojqy5f4FLLZSAVfIe3XvFXqtcq4E59R16BeA4nFfVcLj8ZavKb+gykkE9hqd/fe5alUKHQD6wO69vzGItUliJOw5umObgWt2hgs/S+WUecxBdPuABhLtj6Wd1JwffLA29etK0NpXYLrbm9nVJ8E2WpR3M26FK1o9O8TLJ0uUecj7aX4486WUHKI0tMEYXiupfjUYxkYXdkCYsDTkQFWovKhVtNMY3/cX/sVNScCVRrYQsEyt6TiYjSh7m851RPAtHuItAI/oNh4GIqoWF5gM6sgsY/yI/WaxWxmuFxwMOsOUBbZ6f9HBA4Kqauzf8r8xwgD4=;FquUhW4GmlUedtZid0cnag=="
 ---

@@ -34,15 +34,6 @@ related:
         width: 600
         height: 500
         isCached: true
-  - title: "Modak partners with Yoti to create the safest fintech platform for teens"
-    excerpt: "Modak, a fintech company for teens and families in the US, has partnered with digital identity company Yoti to enhance safety features for teens on its platform. Since launching in December 2022, 25,000 teens have signed up for Modak using Yoti's facial age estimation technology."
-    publishedDateTime: 2023-05-17T21:59:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/17/9816625.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
 
 secured: "gnXtZUqtlP6uYLlufqqf6LbC9wZ+zQmcMymM1Nqd4fmDPXz8IpUI5hPlYfsiXXiyDJd2Hyhgc6z/q5Xq3jy7Dh4zGVgcUR86Nu/zyRicNm+/yCPnzXCDzJpKEgcEIOXAO5pyt7hR6cZuifXYrv4oMC4An+Nmbn/m72q5v31HFE7EfnovuRltDywUHmvn0o7xayvC+grc4/C0qdtBwzRCPNXBSaZCGtfFifdIoOJdpCjdKqoZk+X5Y2jp5uGezG1w6TzPZJ1Ja79g6i/DGsSv3CSP2cYHYV6Hida0Npr5MD+uBxanx/2VgxXOpB9p6TmQXzwCmxHutblYVvx+Ooi8MGVuPz9wHJwXeDKRJob2GEEeYxJM8igDGvH4T5FJIOzETYCnHdT2bmoByZ+tAjWRjSBK3r74PdRYuI1qe6Y61XaeyHEpdZJZqndC9VT5bqteF99SutLnoaqIgRfOI3Hu4sOgjr1RzxieP2IdtAoc1naa7zqSnhAs/k4SEUn9I1jIi1tpmTItluHmarP0DrOV9g==;e0k0kThvNbx1W34TMDBvVg=="
 ---

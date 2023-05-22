@@ -9,8 +9,8 @@ ampWebUrl: "https://www.engadget.com/amp/doj-charges-a-third-former-apple-employ
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/doj-charges-a-third-former-apple-employee-with-stealing-self-driving-car-tech-180824584.html"
 type: article
 quality: 68
-heat: -1
-published: false
+heat: 88
+published: true
 
 provider:
   name: Engadget
@@ -31,36 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu exec charged with stealing Apple’s self-driving car tech"
-    excerpt: "A former Apple engineer and the executive at an electric vehicle startup owned by the Chinese tech giant Baidu has been charged with stealing Apple’s self-driving technology, as reported earlier by CNBC."
-    publishedDateTime: 2023-05-17T20:15:00Z
-    webUrl: "https://www.theverge.com/2023/5/17/23726769/apple-baidu-self-driving-trade-secrets-stolen"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 69
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/x2E5qk82ChtE9vZvW1p2duIOnxA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24401980/STK071_ACastro_apple_0003.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Chinese search giant Baidu reports better-than-expected earnings and looks to the future with ChatGPT-style services"
-    excerpt: "Baidu, which operates China’s biggest search engine and is an artificial intelligence (AI) pioneer, beat revenue estimates for the first quarter in the company’s first earnings report since it ..."
-    publishedDateTime: 2023-05-18T02:52:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3220746/chinese-search-giant-baidu-reports-better-expected-earnings-it-refocuses-chatgpt-style-services"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3220746/chinese-search-giant-baidu-reports-better-expected-earnings-it-refocuses-chatgpt-style-services"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3220746/chinese-search-giant-baidu-reports-better-expected-earnings-it-refocuses-chatgpt-style-services"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 66
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/05/16/67533885-321f-4093-8917-74b9f8e9db85_5395d865.jpg?itok=fPhWhJ6M&v=1684230577"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-Driving Trucks Start Hauling Freight"
     excerpt: "This undated photo shows Chris Urmson, CEO of self-driving vehicle technology company Aurora Innovation. Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston. The trucks will run on an ..."
     publishedDateTime: 2023-05-20T04:53:00Z

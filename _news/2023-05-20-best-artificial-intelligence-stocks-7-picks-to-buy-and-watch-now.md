@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/best-artificial-intelligence-stocks-7-14295325
 webUrl: "https://www.aol.com/best-artificial-intelligence-stocks-7-142953252.html"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "The 3 AI Stocks You Need to Own Now for Maximum Returns"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The popularity of artificial intelligence has surged since the launch of"
+    publishedDateTime: 2023-05-22T16:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-ai-stocks-you-need-to-own-now-for-maximum-returns-1032343211"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "uSHY2tjFhUgrr9sHWbDz001xaKoAqjMxqfLo9+qmyEMBvg2y3OVd5B6JwZLpJVnmV0XdM9D7OqOia2aMiRnvmOBRhBk3fvO8omRuikVvVibkBQe5zaY31C7GitDHqr8LTyuWzSUOldyGZaOToDFr8VH8EhVKS02g99CYxrr3+gQ/NlU4Ckaa1ffXOofsUOR1nxnktWepsm2SBIa8vqeqU2iGrGkBJKrZNbfCwz0v+yiecQbfXPlVtyrwawIdoDc53CES0m32OBUwm/rkM/euaalyGVbd07gck720aSSYp4PubuozkCmeyDeQ0wZWyJvNYkVDYOL6pPg3AYop0n1o1kwXA+pOhA90TwHH2uItG1aFACZSXFWCpKIeX6du0q2AtVr0oJwKrCGR3UzF28wr3Yqt2jAY4fDUT1K+0CpPeaozdwAZmFmMrKngcEfUdTyU3x7z6sx+Vt9wQK7fKYClYu/wqjO4yP/CjU9oTSCXLZnvM8z6Hwu8kUVPSOwlx9yJS6b53kamj0QBeWddrvcSAQ==;ne0xhx9B4i4G0WR1iijrdg=="
 ---

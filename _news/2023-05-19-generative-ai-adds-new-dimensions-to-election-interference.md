@@ -27,15 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "How Does AI add Value To Sales Intelligence?"
-    excerpt: "AI improves sales pipeline intelligence by leveraging advanced algorithms and data analysis techniques to extract valuable insights from large volumes of data. Here are several ways AI enhances sales pipeline intelligence:"
-    publishedDateTime: 2023-05-21T18:10:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/05/21/how-does-ai-add-value-to-sales--intelligence/"
+  - title: "Apple looking to hire machine learning engineers with an interest in generative AI"
+    excerpt: "Apple's Technology Development Group (TDG) is looking for Machine-Learning engineers with a background and/or interest in Generative AI! You will be leveraging innovative Generative models to build fundamental applications on top of Apple's most advanced ..."
+    publishedDateTime: 2023-05-19T17:17:00Z
+    webUrl: "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai"
+    ampWebUrl: "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 68
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/54505-110094-Apple-Siri-xl.jpg"
+        width: 1312
+        height: 738
+        isCached: true
+  - title: "Stop Serving Dogfood, Invest In Generative Artificial Intelligence With Purpose"
+    excerpt: "Don't fall prey to the trends, make sure your generative artificial intelligence investments are meaningful to your customers before launching dogfood to your users."
+    publishedDateTime: 2023-05-18T13:29:00Z
+    webUrl: "https://www.forbes.com/sites/joetoscano1/2023/05/18/stop-serving-dogfood-invest-in-generative-artificial-intelligence-with-purpose/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 64
+    quality: 43
 
 secured: "OAhwLhLf4yrsdzYVfQrQnk1xbmL2AxsZx+00/l4zqIDCSx4YucXu/AQLVLg8l8iUO7+i4judFRHeBm98cqUnZ2ps701T0SxAQRBW9O/pduY21t4I3vgMI8JlXaTtQMf5XBkUPrNrXwBPKxSb99kC4bUPoRfzf0hK+j2Qw9Ik9YwQu33o4WXzJHQ8deFPzpd/oSfieR9b6VHd5tsSfAkVBld/Onbq8WFB/G1/ztlix3xw/lNAeyoLCi2dEV/3xamW8QO2V0iwGX9sAnFcT2J4aCYlH/cov3p5P1MZ4UCqXXnqQ0Wpj0uwrBnKW5U83uEMcY06owZPJoSlW9bxXefkMm5JrC4VozssuV/6C/u4pCPKBzOY0sdOJhD64ZqIxKy+ogmOz3yfrNIOzW46Gmv9eGt0PnyT2Q+Ce1e0w2fS7CoxCE9CYFqGQzSYpR3oH53w/KG5HKZ37ROQ1kNchJ64839iMP66suoehnYDyX7KQWvh1EnblvfIPySgjw8RsPbDe29Oeq84Mu/poMRZGS+A9w==;LCaVDkbkf3vUSndxjDxY4A=="
 ---

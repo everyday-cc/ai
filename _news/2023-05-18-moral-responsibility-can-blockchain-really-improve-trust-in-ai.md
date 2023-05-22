@@ -41,15 +41,6 @@ related:
         width: 1300
         height: 733
         isCached: true
-  - title: "CNAS Responds: Oversight of A.I.: Rules for Artificial Intelligence"
-    excerpt: "Sam Altman, the CEO of OpenAI, testified alongside other representatives from the artificial intelligence industry before the Senate Judiciary subcommittee on Privacy, Technology, and the Law. Researchers from CNAS's AI Safety and Stability Project have provided their insights and analysis on the testimony and its implications for the future of AI regulation in the United States."
-    publishedDateTime: 2023-05-17T19:32:00Z
-    webUrl: "https://www.cnas.org/press/press-note/cnas-responds-oversight-of-a-i-rules-for-artificial-intelligence"
-    type: article
-    provider:
-      name: CNAS
-      domain: cnas.org
-    quality: 19
 
 secured: "0FqbVm9w/52R20CNKwSHnvaocQ61NYzW0ZRC4J5XxcrrPtwbWB22Y5TtBTTIyIPRYff5w8s7U0mjNU47GOa2X9NNC+DpljoQvB2KmwJA1mj6Hc95zrtjCKgMD5sc9E1K62BpKk9dxNKlflTNYauti0aV0XbQXhBtvPaMKb/76yskV0n9H5wURD1wuQDOd5nxq9I38zf1Nv4bpgsUWzrhyCTTgovv6lEyAmXZafuyuMIbMELXlgAh/jd+fuQvUQ0HAqYQ8jj2ZsMEfv1E5Z/v73SfwD0DgzvirXs0ALoQjBLfSj/W02xvqCdgf9JXOCkkSXOvrJrYgVIp5x76cMHWL7/RlKCcLpw83UA5aUmq7S3a8OKxUUVUCurVrsIY1XWzGjrBJd71Y+bPRVne4+SOx0NsDvHsijP5WAvfNhsiiwGjp2ROz4wO6MGTs24J8i2MDS5oUf3RhuMDvh+Ei7B1GtKzcRtN1IMoK+DjFx14ZYqUS8JNUIynSFNsDYHpxa404I1rf4MydILPID9n71ExLQ==;1uTNEPecEyrvMN8K2FIT4A=="
 ---

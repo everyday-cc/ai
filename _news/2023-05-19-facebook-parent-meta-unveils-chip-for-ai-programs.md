@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-ch
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/amp_articleshow/100343511.cms"
 type: article
 quality: 74
-heat: 94
+heat: 134
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta fined record $1.3 billion by EU over handling of Facebook user data"
+    excerpt: "European Union data regulators have hit Meta with a $1.3 billion fine (about €1.2 billion) and ordered the company to cease transferring EU Facebook user data to the US by October. The fine exceeds Amazon's $886 million fine from the EU for data protection violations in 2021."
+    publishedDateTime: 2023-05-22T16:49:00Z
+    webUrl: "https://www.zdnet.com/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 73
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/51f5cfda5dbc9796f18e715d4ae239f452ffb46a/2023/05/22/84c5ed15-7609-42d0-bd54-9a07cb0e23c1/gettyimages-1244644879.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Meta is working on its own chip, data center design for AI workloads"
     excerpt: "The Facebook parent said that it is working on a new AI-optimized data center design and the second phase of its 16,000 GPU supercomputer for AI research."
     publishedDateTime: 2023-05-19T13:37:00Z
@@ -45,6 +61,33 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 4
+  - title: "Meta makes it easier to apply deals in-feed for Facebook"
+    excerpt: "The new promotional ads format enables users to click an ad to automatically claim an offer and be notified before the deal ends."
+    publishedDateTime: 2023-05-22T14:51:00Z
+    webUrl: "https://www.marketingdive.com/news/meta-tests-promotional-ads-format-new-lead-generation-tools/650819/"
+    type: article
+    provider:
+      name: Marketing Dive
+      domain: marketingdive.com
+    quality: 4
+  - title: "‘You can’t unsee it’: the content moderators taking on Facebook"
+    excerpt: "In his job, he had to watch a new Facebook video roughly every 55 seconds ... which had been working in Nairobi for several years on labelling data to train artificial intelligence software for clients including Meta and Tesla — take on the work of ..."
+    publishedDateTime: 2023-05-22T13:21:00Z
+    webUrl: "https://www.ft.com/content/afeb56f2-9ba5-4103-890d-91291aea4caa?trk=public_post_comment-text"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 4
+  - title: "Facebook parent Meta fined $1.3 billion for violating EU data transfer rules, company responds"
+    excerpt: "According to the Irish privacy watchdog, Meta's use of a legal instrument known as standard contractual clauses (SCCs) to move data to the US \"did not"
+    publishedDateTime: 2023-05-22T12:03:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/facebook-parent-meta-fined-1-3-billion-for-violating-eu-data-transfer-rules-company-responds/articleshow/100422243.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 0
 
 secured: "66DbObKRnHpNaNCxBcw8XVOpoW5A7iKyi5m5OBI/2BgJOy0FNbeVFRw/PmZ2pAuNx7X8VW5hvZZ5gGre65AOtNZA3igo/XO/yHpuu6czBfS6LHm9gNvRMkezSxJ0k/VaB9YPqttK8JIjAhf17nnpRs2aI3tDLdOznnEN1obMFrxGMe1RvAVXb0avD/C7EfefynzQoxNWM9LNAqLZv2iB2K2hQW+ySPZna0gB8rzqkTkYG38oBIwvS2wf3WtDuqzEzvTVhB9Bck44J6NXZZDTLq9T8MtHNeqVDahCtkKN44QkCflGn+40MhJXepFWmS+jOgj7MJwQyBxtU2/Atn9Qwtfjtcqsdj+PgJVHuOfr5AU=;RD/8NfZHtqr42weN9iHnqQ=="
 ---

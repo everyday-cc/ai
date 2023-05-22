@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
+    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
+    publishedDateTime: 2023-05-22T16:30:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-ai-guide-to-most-talked-about-technology-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-ai-guide-to-most-talked-about-technology-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-guide-to-most-talked-about-technology-2023-may?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg"
+        width: 470
+        height: 352
+        isCached: true
   - title: "Fearing leaks, Apple restricts its employees from using ChatGPT and AI tools"
     excerpt: "According to internal sources and company documents reviewed by The Wall Street Journal, Apple has restricted its employees' use of ChatGPT and AI coding tools such as GitHub Copilot for fear of leaking confidential data to outside sources."
     publishedDateTime: 2023-05-19T16:16:00Z
@@ -93,6 +109,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-71.png?w=1200&strip=all"
         width: 1200
         height: 750
+        isCached: true
+  - title: "ChatGPT and Generative AI in Insurance: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "ChatGPT is the most talked-about technology of 2023 and has piqued the interest of insurance industry leaders."
+    publishedDateTime: 2023-05-22T17:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-ai-insurance-reality-whats-next-hype-how-to-prepare-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-ai-insurance-reality-whats-next-hype-how-to-prepare-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-insurance-reality-whats-next-hype-how-to-prepare-2023-may?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+    images:
+      - url: "https://i.insider.com/6440364f3f6f690018de91ee?width=1200&format=jpeg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Looking at AI, ChatGPT: The possibilities and pitfalls of artificial intelligence"
     excerpt: "CHICAGO (WLS) -- The man behind ChatGPT testified on Capitol Hill this past week, calling on lawmakers to regulate artificial intelligence. While Sam Altman warned about potential dangers, he also talked about the possibilities, saying \"We are working to ..."
@@ -158,20 +190,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "ChatGPT: Did the CEO of OpenAI voluntarily call for AI to be regulated?"
-    excerpt: "Sam Altman, the CEO of OpenAI, testified for the first time since ChatGPT exploded in popularity. Senators appeared to accept Altman’s warnings that AI could “cause significant harm to the world” and his suggestion that a new agency could set rules."
-    publishedDateTime: 2023-05-18T00:30:00Z
-    webUrl: "https://techwireasia.com/2023/05/chatgpt-did-the-ceo-of-openai-voluntarily-call-for-ai-to-be-regulated/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/063_1490690312-scaled-e1684321191850-897x500.jpg"
-        width: 897
-        height: 500
-        isCached: true
   - title: "ChatGPT/AI is coming for the workplace"
     excerpt: "Microsoft, in its latest “Work Trend Index” report, promises that the use of AI at work is the technology of that's going to make work easier"
     publishedDateTime: 2023-05-18T04:00:00Z
@@ -285,6 +303,15 @@ related:
         width: 960
         height: 575
         isCached: true
+  - title: "In a Reminder of AI's Limits, ChatGPT Fails Gastro Exam"
+    excerpt: "He said the recent gush of papers showing ChatGPT passing other medical assessments might be overshadowing the fact that this technology is not ready for regular clinical use. \"You can define a threshold how you want it and say [ChatGPT] passed it,"
+    publishedDateTime: 2023-05-22T15:12:00Z
+    webUrl: "https://www.medpagetoday.com/gastroenterology/generalgastroenterology/104618"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 19
   - title: "NYC public schools opening the door to greater use of AI, loosening reins on ChatGPT"
     excerpt: "Schools Chancellor David Banks unveiled plans Thursday to offer a toolkit for teachers about artificial intelligence in their classrooms, as well as create a repository for schools to share their findings across the city."
     publishedDateTime: 2023-05-18T19:50:00Z

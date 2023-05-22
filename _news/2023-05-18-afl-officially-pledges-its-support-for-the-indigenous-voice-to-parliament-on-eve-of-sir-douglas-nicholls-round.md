@@ -57,20 +57,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AFL backs the Voice to Parliament"
-    excerpt: "The AFL has joined the NRL and Rugby Australia to support the Voice to Parliament. The AFL released a statement on Thursday stating they “proudly support the recognition of Aboriginal and Torres Strait Islander peoples in the constitution of the Voice to Parliament”."
-    publishedDateTime: 2023-05-18T01:27:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/sport/afl-backs-the-voice-to-parliament/video/1c55fce5a874ff3ae84106fa0a3bb8ca"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 24
-    images:
-      - url: "https://content.api.news/v3/images/bin/50679957f57890089e676b148fe89478"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AFL backs Yes vote for Indigenous Voice"
     excerpt: "“While we encourage everyone to seek the information they need to form their own views on the referendum, the AFL proudly supports the recognition of Aboriginal and Torres Strait Islander peoples in the Australian Constitution through the voice to ..."
     publishedDateTime: 2023-05-18T07:29:00Z
@@ -85,17 +71,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AFL Commission announces support for a Voice to Parliament"
-    excerpt: "The AFL is privileged to have a long history of Aboriginal and Torres Strait Islander leadership in our game, from the grassroots in every state and territory, through to the AFL and AFLW competitions."
-    publishedDateTime: 2023-05-18T01:00:00Z
-    webUrl: "https://www.afl.com.au/news/927756/afl-commission-announces-support-for-a-voice-to-parliament"
-    ampWebUrl: "https://www.afl.com.au/news/927756/afl-commission-announces-support-for-a-voice-to-parliament/amp"
-    cdnAmpWebUrl: "https://www-afl-com-au.cdn.ampproject.org/c/s/www.afl.com.au/news/927756/afl-commission-announces-support-for-a-voice-to-parliament/amp"
-    type: article
-    provider:
-      name: Australian Football League
-      domain: afl.com.au
-    quality: 24
   - title: "AFL says ‘yes’ to Indigenous Voice"
     excerpt: "The AFL have backed in the voice to parliament, following Rugby Australia and the National Rugby League’s ‘yes’ stance on the call for constitutional recognition for Indigenous Australians."
     publishedDateTime: 2023-05-18T03:31:00Z

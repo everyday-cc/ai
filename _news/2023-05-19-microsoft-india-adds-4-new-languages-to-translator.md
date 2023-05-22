@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestatesman.com/technology/microsoft-india-adds-4-new-l
 cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/microsoft-india-adds-4-new-languages-to-translator-1503182658.html/amp"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
       name: News Track
       domain: newstracklive.com
     quality: 54
+  - title: "Ombori's new StoreAI for Grid leverages Microsoft Azure OpenAI Service"
+    excerpt: "On Wednesday May 24, Ombori will launch StoreAI, which uses Microsoft Azure OpenAI Service to extend the capabilities of its successful store digitalization platform, Grid. StoreAI will include a selection of AI tools designed specifically to meet the needs of physical retailers,"
+    publishedDateTime: 2023-05-22T13:33:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/22/9818460.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 49
   - title: "Microsoft India Adds 4 New Languages To Translator"
     excerpt: "Microsoft India on Thursday announced the addition of three new Indian languages -- Konkani, Maithili, and Sindhi, in Transl"
     publishedDateTime: 2023-05-18T11:38:00Z

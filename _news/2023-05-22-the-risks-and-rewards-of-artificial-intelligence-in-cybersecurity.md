@@ -46,7 +46,23 @@ related:
         width: 1200
         height: 502
         isCached: true
+  - title: "Forrester predicts 2023’s top cybersecurity threats: From generative AI to geopolitical tensions"
+    excerpt: "While cybersecurity teams continue to fight social engineering and ransomware attacks, they now need to defend their AI models and data too."
+    publishedDateTime: 2023-05-22T16:10:00Z
+    webUrl: "https://venturebeat.com/security/forrester-predicts-2023-top-cybersecurity-threats-generative-ai-geopolitical-tensions/"
+    ampWebUrl: "https://venturebeat.com/security/forrester-predicts-2023-top-cybersecurity-threats-generative-ai-geopolitical-tensions/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/forrester-predicts-2023-top-cybersecurity-threats-generative-ai-geopolitical-tensions/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1368397295.jpg?w=1200&strip=all"
+        width: 1200
+        height: 676
+        isCached: true
 
-secured: "nhHxfzJQhsa8JKnwaGe5MioSFbmQEfEsFlkCM3wj4BmdpRP1fN4PDviu1kg/hZNImmVFnFF1ss2QNJG/PoLMe9LaDmlLlr3+L31FIMKI2f0miQTpQ/OW20MrXuajn9VflMs02QY6T5K2CW8v66I7xsPYplprYjz1fiXazRvf8F54Gp6N6AYyokvUQhh33Pc7CfCxWX0Tgvwitb4MWm8oR5cs9bKosJirNfa34EtS9TEWUqVLu0Wc7sp2UDOxD7drOIT6A2eWyBf7gJYFQ5XaxDcu7c+3Gvf3PLW4os7tIGm8FD9kv05HizRPccI5bWbbtf2eoMCq2Aucn7gLcvMEcUoyZVPFnjgmgbi4+A49jYk=;H51OELNSLRtTs70Ewgvorw=="
+secured: "40RcfA7CVwvOUnZTyoRLShwapm8aNItxGzraZ9QyBlFVbgFcbMZZMruF9kVqnXGClPN3jcpQEkhrynXSntrEZKg+BbmDg+2OyRm9Jl6C6HfbfMn5IfIKg5x3PlbGvDvvI5MDUqy8s5UIxc1NAtvMADCG8dtzl3fse7RXoN7nuwUUHqFqVXU93PRixYm9LNjiSFG0K7KnARSrnLWZiTqNywzMQE+mtG2xeUSV8tePFEW7imkX1rao5pso8ZKoqy73WHwySknmI6qjV7Lr8YJvSksnmT0bDYQ7EzwlmzpEoI/plUSVMXHoTmVZryh2Gm3C8ztwBQtNOA6VQHglTlpnBK3fFhul0f8XuJOPu60IPyHp+M+0BtaZabitowJs74c66BQIebFkOEKf7b9WzQBv8vBTBo03lgzTnuwqzkZeBhBZ0EU0AwBq4TvASzfNYFi2httfszLTx6KAvwx1N6DM5FNS1UnqykWqu02q9Qry+hkThg5e8G3yKEK3qjCcwsOYw8+5Qyr9g9/RLfOuaAA7FQ==;cYgjGVke/4YMlVMyddeTkA=="
 ---
 

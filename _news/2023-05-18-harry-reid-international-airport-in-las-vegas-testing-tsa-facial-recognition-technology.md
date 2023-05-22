@@ -49,15 +49,6 @@ related:
         width: 620
         height: 326
         isCached: true
-  - title: "TSA Ramps Up Facial Recognition Pilot"
-    excerpt: "Next time you’re trying to catch a flight, you might spot a new initiative from the Transportation Security Administration (TSA) with a controversial component: facial recognition. The TSA has ramped up its biometric identity verification pilot by installing facial recognition systems in more airports."
-    publishedDateTime: 2023-05-17T19:20:00Z
-    webUrl: "https://www.extremetech.com/internet/tsa-ramps-up-facial-recognition-pilot"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
 
 secured: "YNWg99sdT07EUqOagq6pQVmC9wit+s65Gt77RMDJ9CVP+YjipDLySGP4+wuHEzJwlvIJWGPWo2wV7Xl4w+jEEPiv/FIpYK+7r3PpF7NHt8RNuq++4f2oYnPIOIBwjRb+/PghjVl48YySycQQyBD7w9KyqFCP5HDlNTk586xpZLNfnFBEkKtpklSFR/mgM4Kipxb/i7u+OwhkakaVMfnhfSVOYHDjhIhIsUjqvmthGnSH586GI6y/zfR7rSnYcsznew+MRYkBV3RiYlrDl5Kz4MluJVvVlKO60ZI0U9i/8m3Tu4/rhlCZj7CMp+QZhOn0mZAh+mTRH5eJlSq0Dbvv4+ckJ6eD2QhoUtpIiky+h88=;ydbOZJdvzNUu6B6sYzW70w=="
 ---

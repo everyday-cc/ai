@@ -42,6 +42,22 @@ related:
         width: 600
         height: 420
         isCached: true
+  - title: "Preserving the World’s Language Diversity Through AI"
+    excerpt: "Our Massively Multilingual Speech AI research models can identify more than 4,000 spoken languages, 40 times more than any known previous technology. These models expand text-to-speech and speech-to-text technology from around 100 languages to more than 1,"
+    publishedDateTime: 2023-05-22T16:15:00Z
+    webUrl: "https://about.fb.com/news/2023/05/ai-massively-multilingual-speech-technology/"
+    ampWebUrl: "https://about.fb.com/news/2023/05/ai-massively-multilingual-speech-technology/amp/"
+    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/05/ai-massively-multilingual-speech-technology/amp/"
+    type: article
+    provider:
+      name: about.fb
+      domain: fb.com
+    quality: 59
+    images:
+      - url: "https://about.fb.com/wp-content/uploads/2023/05/Massively-Multilingual-Speech_Social-Share.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "EkOYubdOTKcfD50NFK0IMcgAbctzUSehS6bx2TsFbaVKqle+Kkk/sXQqesxjyqMmwd2+cMKXNWOe9T4PQeO3gTlTD9XdVvpwKQSj1yMbr0YrsC5nzihgtH3Q+B6QGt8KRA3GdD627Wyh/HKTNm3bHmJRELp92C537IIWPyqdar2v85aiG9Eg9MBv5G51FFm00be6qQEtAmFTkRGWYzmC/hDyaBFKbLlg5Mqo3qFo17BeEaxy/aRF23tTGVgwap8mBdiv8pRAWgipy4gigJV0djht6kYp8f2S6oTZMtaXPqcrek3n6rnXc3W7rmmoVkc7YYnD4wDVg8F1HI7QK+F81eaCLrRu28JfB7bQSHh+by0rzHaflACHgY8Dy5POyjTtnTNp7eGWo854/Qx1U1EYmLpi1ARrBtdRfhCtDdp5qOhbvK/Rfz4AeFrP4R/wFkjPT1y9K/FJXAWcS0538JmAF2suNuZq6l1GxqDFAaO1fEvlxjyYnftxIy+161uo9PkIjHD+Dl3Gm0GzJalcVAPIIQ==;Nsza2Ug0a9qWC0iG+DH8jw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/apple-generative-ai-jobs/amp/"
 type: article
 quality: 87
-heat: 217
+heat: 227
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/05/annevb_a_robot_creating_digital_advertising._Colorful_futuristi_61ae1c6e-6949-4ee2-abcc-91b87d5c6f19.png?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Parallel Domain unveils Reactor, a generative AI-based synthetic data generation engine"
-    excerpt: "New tool from Parallel Domain enhances AI performance in industries such as autonomous vehicles and drones by hgeneratingigh-quality images."
-    publishedDateTime: 2023-05-17T21:15:00Z
-    webUrl: "https://venturebeat.com/ai/parallel-domain-unveils-reactor-a-generative-ai-based-synthetic-data-generation-engine/"
-    ampWebUrl: "https://venturebeat.com/ai/parallel-domain-unveils-reactor-a-generative-ai-based-synthetic-data-generation-engine/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/parallel-domain-unveils-reactor-a-generative-ai-based-synthetic-data-generation-engine/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/1-highly-preferred-option-reflects-the-diversity-of-what-Gen-AI-can-generate.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Boston Isn’t Afraid of Generative AI"
     excerpt: "The city’s first-of-its-kind policy encourages its public servants to use the technology—and could serve as a blueprint for other governments."
@@ -206,6 +190,24 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 17
+  - title: "Apple Ramps Up Hiring of Generative AI Experts"
+    excerpt: "Apple is hiring for at least a dozen new experts in generative artificial intelligence amid rumors that the company is stepping up its work on AI."
+    publishedDateTime: 2023-05-22T12:51:00Z
+    webUrl: "https://www.macrumors.com/2023/05/22/apple-ramps-up-hiring-of-ai-experts/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 17
+  - title: "TCS announces generative AI pact with Google Cloud, new offering for enterprises"
+    excerpt: "Tata Consultancy Services TCS on Monday announced an expanded partnership with Google Cloud and the launch of its new offering -- TCS Generative AI which leve"
+    publishedDateTime: 2023-05-22T13:20:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273838959/tcs-announces-generative-ai-pact-with-google-cloud-new-offering-for-enterprises"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 14
 
 secured: "RR3pbqbKMLHzilCY89sSj7AmBW+LPNLwEbwV+417ein0zFIFbOpG2AxKGTHvDvTUpOQGSf6Sqbt7ooM/Ha9r/8N7WfMEO2yKC6h2zyObysFeCTiESJsYbvxqxt1yP2ZioX+DcLQiAwOqC3/x7hbQTEhtyoZZQvjQoVGC9a+GQ6lh0nu2CeVvtKnlwyWgmWXdJp3YrPpAGuHx7X4sWDog5UqLgJNWMJz2TlQZ4I9C7kW2n/vmoaWwZnzljkolVNgLJVeRpX2NUYwlJXspfDyo2BCoBkjMX8Aq5fkCHW2GTK6FRUwjJGq6yYtmpHvPspKOxIZC8K2r+XjdqwQWoQLt1BSlBG9G45Qa2k6rq2cpBznU/RWz+7MkqtCD7gHQtYiE25eO3lLrcxmPixjA16Hqhj5TKpfdmqSebK0MTihUWvizrrwf2Kq1mryJCJ8HeD9BzhWEP6HBDM8VD2CF50dfQub/G3PQyxOyz11TXRW08If/QOr1KvbOX/Utqe6lM+dhi2I+h1wqu6KtAN8IGEY4Yw==;Or0TujIjlr5AOU8RUzgIbw=="
 ---

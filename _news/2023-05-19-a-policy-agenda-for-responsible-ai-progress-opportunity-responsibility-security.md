@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/a-policy-agenda-for-responsible-ai
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/a-policy-agenda-for-responsible-ai-progress-opportunity-responsibility-security/amp/"
 type: article
 quality: 120
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 600
         height: 500
         isCached: true
-  - title: "CNAS Responds: Oversight of A.I.: Rules for Artificial Intelligence"
-    excerpt: "Sam Altman, the CEO of OpenAI, testified alongside other representatives from the artificial intelligence industry before the Senate Judiciary subcommittee on Privacy, Technology, and the Law. Researchers from CNAS's AI Safety and Stability Project have provided their insights and analysis on the testimony and its implications for the future of AI regulation in the United States."
-    publishedDateTime: 2023-05-17T19:32:00Z
-    webUrl: "https://www.cnas.org/press/press-note/cnas-responds-oversight-of-a-i-rules-for-artificial-intelligence"
-    type: article
-    provider:
-      name: CNAS
-      domain: cnas.org
-    quality: 19
 
 secured: "fZWFJZOMGOy0ToHLxnSJADsdSobvX6eQRAvGNrGWQSsmwYb9URCce+/sNOrZySnUBblj8Oidldpebsv05HxDKgn278CxOHLWB2MRGF3F8x6soQ9Bxu0/asstms5dsMEZyNwRDSNYr9N006/A3/DbLYDSW9fP6Ycdn7ECis832kqBg6naAoynGJnkUML/dDAuaPoX4LeSnj/pBNTN8hjKHzx7PWAeczU6AZTuyyrkU4jZszH2A+CYIhYgJy1fYPtb6IbsBiPGksDBCZJTuJHj+lY7pGbciU78qzAqqwq8RmhPAKJ5ufK4LZsApehfgdw4o75qmvm3n54Sm49AfuGcwcO/E07/z2B0Xf0A9vA4aXY=;/jT1cWFHO9cdYIVRSMiusQ=="
 ---

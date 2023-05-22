@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/googles-ai-search-could-mean-ra
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-ai-search-could-mean-radical-changes-for-your-internet-experience/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/05/18/600x338/2-0-128027631-OPED-4C-0_1681892708995_1684408136028.jpg"
         width: 600
         height: 338
-        isCached: true
-  - title: "Preparing for AI in the Employee Experience"
-    excerpt: "AI is the next big evolution in how we work. Most employees will need to incorporate it into their work. AI can be an effective tool for reducing repetitive tasks and minimizing bias in decision-making. Willingness to learn, emotional intelligence, and creative problem-solving are critical skills to hone."
-    publishedDateTime: 2023-05-17T22:07:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/the-new-employee-experience/202305/preparing-for-ai-in-the-employee-experience"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 39
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-05/GettyImages-1469706462.jpg?itok=gnSj0JMx"
-        width: 1528
-        height: 800
         isCached: true
 
 secured: "Am8s0hjLkkzQhSe1w12GjU9T3vR6FVDueksODECT2m5V5Z79Q7KwZ0Iaty8uwtawwN5r8q/vbBRtfde7+12bVtzjD6BLBkd/6faxrEjK69Iq9kZVF6WKISQwWw3jQDwjIlDYQQ+16ukUO6zsgUam1oqX0SWVyQQySok+4i72GZ068nevgNu3jKgyb9KrlY7BwQ5T9UvysQJ7orlHxkvs6ezDNpyh0ZOS1diiT9iG5pZcfbItH9WPZhz92SoKVKSbTSk31k7YoX/jle70Z/w9nA1jsLAI+RXVWZy0z3/xmg+2aiz08Y58H1S3xecdDjgj70zoQPTPPalw545289uphmTUc/ZYVU/cLxRGiEw4Ld/pY02Zl2LCXeTVCwREIjjH/NIREyvVe5NWSdWxAvqD1+kAZs/Iay45qIoXD1xXi52etigsHLytKFA+XbPEqvRpYgBoXqhGcj7riM4DyiQxvkcVtJC6UlnKDH2JT5J21yi5QckDZODeCaA3tWp+xaWV4dAy07QQQ8rAsOfLUrvVPw==;A/IiSMYWKbPd0R3nv+7Tkw=="

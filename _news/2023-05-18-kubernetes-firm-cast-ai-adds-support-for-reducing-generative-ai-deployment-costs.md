@@ -42,20 +42,15 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Can any organization train generative AI models? CAST AI brings it a step closer"
-    excerpt: "CAST AI specializes in optimizing cloud costs, specifically around Kubernetes. Today it is coming out with new features within the platform that it uses"
-    publishedDateTime: 2023-05-17T21:39:00Z
-    webUrl: "https://www.techzine.eu/news/analytics/106213/can-any-organization-train-generative-ai-models-cast-ai-brings-it-a-step-closer/"
+  - title: "FlowX.ai raises $35M for its AI-based approach to application integration"
+    excerpt: "“Digital transformation” and AI remain very buzzy terms in the world of enterprise software, and today a startup operating in Romania that’s built a platform that taps into both concepts, and is seeing user traction in the financial sector, has ..."
+    publishedDateTime: 2023-05-22T12:03:00Z
+    webUrl: "https://techcrunch.com/2023/05/22/romanias-flowx-ai-raises-35m-for-its-ai-based-approach-to-application-integration/"
     type: article
     provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 36
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/03/Databricks-Dolly-AItool_freepick.jpg"
-        width: 800
-        height: 533
-        isCached: true
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 46
 
 secured: "XfCOX2X9kzLK3m3eyeDiJuNC9R/MS3nVQzgvfE8ZQb4oBw4TjwFY2+AN28Lq+pjazmw40QsIJJLwSFuSwXqT81wCXn8aSr1oLhXqSeL18ca1hNDtDiQ6Hmx18mwOHBXRO1fjX1bm35wukzw0VRT303JdUqGv8ThKUsvs3HY7ZgQTl458Wmz4FVux9SEsLLp6uKTe7UFjwCgEbvi81wW8Qyffi5D06W680yELjjoSGOo8T7Cq2EGTRP94GJKwT7mtyJH7FOy90cwkEWjzTiBYCXZvMrdxLN0dJ2iKYkeweAv/OlU6HUUi3RH/lbt+Rn8U5Ppe/4N37W1SMZ3mV05mtS5t6F4ck5r9L+mzU81U0uwQX5hwV7CTiLEUxKBpZNJ9cIhdEdWpF3dLVFVQdJJM0ycJN7vTx+RXVGNX+0h8QfEkaLCqENIgtE6MgozUu6RH5KqaCTOWbrbswtyTCdDhwF1Fv1/HKx0A8aOiGTL4P3t/oAqFq/fJemWrULvQJeNyWbhx3jusVxKfV/fzZDZcUA==;ymQoNxNsXYfywnaIcFIGOA=="
 ---

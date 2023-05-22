@@ -53,6 +53,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Microsoft healthcare AI subsidiary Nuance hit with job cuts"
+    excerpt: "Nuance Communications, a Microsoft subsidiary, is undergoing layoffs to focus on its healthcare business. CEO Mark Benjamin notified employees of the job cuts May 19."
+    publishedDateTime: 2023-05-22T17:10:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/microsoft-healthcare-ai-subsidiary-nuance-hit-with-job-cuts.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 71
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "After Apple, Amazon, Google and Microsoft, Meta Now Builds Its Own AI Chips"
     excerpt: "Meta recently introduced its first in-house silicon chip designed for AI workloads, called MTIA (meta training and inference accelerator)."
     publishedDateTime: 2023-05-19T09:21:00Z
@@ -106,6 +120,24 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 49
+  - title: "AI Activists to Target Microsoft at Build 2023"
+    excerpt: "The activists from Ekō have published a full-page ad in The Seattle Times and a billboard outside of Microsoft Build 2023."
+    publishedDateTime: 2023-05-22T15:11:00Z
+    webUrl: "https://www.thurrott.com/microsoft/283436/ai-activists-to-target-microsoft-at-build-2023"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 36
+  - title: "Microsoft says new AI shows signs of human reasoning"
+    excerpt: "A provocative paper from researchers at Microsoft claims AI shows the ability to understand the way people do. Critics say scientists are kidding themselves."
+    publishedDateTime: 2023-05-22T13:09:00Z
+    webUrl: "https://www.seattletimes.com/business/microsoft-says-new-ai-shows-signs-of-human-reasoning/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 34
 
 secured: "i5D1hQZTa666Tg3daZ1M8X1rYrEqlsUwBVhgp5Bvoe8JJj3WWi9JbScDeCScNItvtlEYSxy8c//SH4U9WvkbI8tpQQ5DuZoFdY8m0FqBATmGoLA1hqlLaVMiAvbrobw9T6wApoTQmYMjMOvwmM5lmQvBNxRD1XhAGIxkXmtTPIWbQZ1FhHutKadZfGaIHStatRfznmbgxzymdFQZG0xiRT0ThtGmR+OI7H//m2CReuNdWeDZE/Eci2ItbOgttCMuwo0JQV0aVUWPAKI869MPvViIfmgA+C+AmvK3mxHor6v47UkIx0hiRU9HuIHoLG+TMAJOBZDlWjX+8TBGOm/yXt2tS1tvNq0U4AMsbNjztRgL9vJQD8fwObUOoHIl1PO1uFBAl0KRRg0byNjMGy6e72uTiexkn4782wIrQ9j+VAQvaCqE2n+nkt37BhdmR60Oh/UgLWBPkPmZycuxF2f77N90VMDrsQLkGxewyTIuXc6JPvVMh+cM08n/wbmdYVIzzdTZlH3t0hbzg4jMThSPDQ==;tUl5Oic2uvx85MSDGZ8VBg=="
 ---

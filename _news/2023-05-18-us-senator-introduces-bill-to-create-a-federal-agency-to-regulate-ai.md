@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/05/18/tech/bennet-digital-regulator-bil
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Our quick guide to the 6 ways we can regulate AI"
+    excerpt: "The European Union is finalizing the AI Act, a sweeping regulation that aims to regulate the most “high-risk” usages of AI systems. First proposed in 2021, the bill would regulate AI in sectors such as health care and education."
+    publishedDateTime: 2023-05-22T17:43:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/22/1073482/our-quick-guide-to-the-6-ways-we-can-regulate-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/05/22/1073482/our-quick-guide-to-the-6-ways-we-can-regulate-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/22/1073482/our-quick-guide-to-the-6-ways-we-can-regulate-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/starts-stops-regs1_1.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "Using Artificial Intelligence to Create Aperture Radar"
     excerpt: "Carmakers are seeking to balance cost with capability as they increase the advanced driver assistance capabilities of their cars. Tesla, somewhat controversially, recently discontinued the use of radar on its vehicles in favor of a cameras-only sensor ..."
     publishedDateTime: 2023-05-21T02:02:00Z

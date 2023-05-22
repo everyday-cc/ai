@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial intelligence takes center stage at Cannes Film Festival"
+    excerpt: "The impact of artificial intelligence on the film industry is sparking debate at the Cannes Film Festival in France."
+    publishedDateTime: 2023-05-22T16:30:00Z
+    webUrl: "https://omaha.com/news/world/artificial-intelligence-takes-center-stage-at-cannes-film-festival/article_e6a49fc4-4a95-5324-a53a-1a9583ae5bfa.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/e/6a/e6a49fc4-4a95-5324-a53a-1a9583ae5bfa/646b8e4cd1ca2.preview.png?crop=640%2C336%2C0%2C11&resize=640%2C336&order=crop%2Cresize"
+        width: 640
+        height: 336
+        isCached: true
   - title: "Sean Penn backs Hollywood writers at Cannes, calls the use of AI a 'human obscenity'"
     excerpt: "\"It's difficult for so many writers and so many people industry-wide to not be able to work at this time,\" Penn said."
     publishedDateTime: 2023-05-19T17:37:00Z
@@ -34,15 +48,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Sean Penn says failing to resist rise in AI screenwriting is a ‘human obscenity’"
-    excerpt: "At Cannes film festival, the actor expressed his solidarity with the striking Writers Guild of America"
-    publishedDateTime: 2023-05-19T11:23:00Z
-    webUrl: "https://www.theguardian.com/film/2023/may/19/sean-penn-ai-is-a-human-obscenity-cannes-film-festival?ref=upstract.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 12
 
 secured: "S6iclSit1iu/MAXfiKgyAhqI75regYD+gRUoKXD+ZxHOWc0NP5CKWmR5NfMfCvwQOzj1tts0SC0kXoqmKWX8cr14tLi6uFm1viE4W/psvmuAZtdYMdnoLuXc034OH5gBNYoRYAAS1KIqfQ6V+45bdhOaNCgBBg8/qfmSJ0BM6AYI9zuzeJQUkHTRQTjo14Em96nm5VKxGngsfvhLbH0F95soZ1nB62l7rTEcm5PJ7QqycpeKGDdZmgIP0h9QQXS2mA5CEeyGK95aedl0o8eetIhtqAS1li7iJe5uSIcWrMx1rUlLQ+YJllHlIJuElZHpacvM8onndf9XehGb710JFGZXeIW8axYTyBS5X8SGyPo3Q6i9i8FmvUrfSxO/PpuO9+EQ/3rixU8x0s7MqpeaOJoZZCSINxUvADGUyqkH+BqiKip3tB3m88bhQmolS8kOiMUvo7ryjSuu22k1WtxaBmNAkoPFje1N/lKkr1S5C0eaCh5ZhWPhhXkQ4WhjL0wgAaMao3Vv8vRmgaLmz7+yzA==;fcb6lpXEIL/sq/WEE6UFFQ=="
 ---

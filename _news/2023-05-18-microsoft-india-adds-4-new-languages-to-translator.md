@@ -53,6 +53,15 @@ related:
       name: News Track
       domain: newstracklive.com
     quality: 54
+  - title: "Ombori's new StoreAI for Grid leverages Microsoft Azure OpenAI Service"
+    excerpt: "On Wednesday May 24, Ombori will launch StoreAI, which uses Microsoft Azure OpenAI Service to extend the capabilities of its successful store digitalization platform, Grid. StoreAI will include a selection of AI tools designed specifically to meet the needs of physical retailers,"
+    publishedDateTime: 2023-05-22T13:33:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/22/9818460.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 49
   - title: "Microsoft Translator app get support for these three Indian languages"
     excerpt: "Microsoft has announced the addition of three new Indian languages in Micorosft Translator. The company has revealed that it has added Konkani, Maithi"
     publishedDateTime: 2023-05-18T12:18:00Z

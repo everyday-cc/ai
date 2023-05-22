@@ -157,7 +157,7 @@
       "originalUrl": "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/articleshow/100343511.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -453,7 +453,7 @@
       "originalUrl": "https://www.zdnet.com/article/chatgpt-is-trouncing-money-managers-and-is-destined-to-turn-the-investing-world-upside-down/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -794,40 +794,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-16-ai-demand-triggers-gpu-shortage-and-unusual-big-tech-alliances.md",
-      "title": "AI Demand Triggers GPU Shortage and Unusual Big Tech Alliances",
-      "excerpt": "When our analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* They just revealed what ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ai-demand-triggers-gpu-shortage-and-unusual-big-tech-alliances?time=1684233000",
-      "originalUrl": "https://www.nasdaq.com/articles/ai-demand-triggers-gpu-shortage-and-unusual-big-tech-alliances?time=1684233000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-16-save-more-than-100-on-the-asus-dual-nvidia-geforce-rtx-3070-v2-oc-edition-gpu.md",
       "title": "Save More Than $100 On The ASUS Dual NVIDIA GeForce RTX 3070 V2 OC Edition GPU",
       "excerpt": "Picking up a new GPU just got cheaper, with the ASUS Dual NVIDIA GeForce RTX 3070 V2 OC Edition GPU now selling for just $469.99.",
@@ -857,6 +823,40 @@
       "provider": {
         "name": "Redmond Pie",
         "domain": "redmondpie.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-ai-demand-triggers-gpu-shortage-and-unusual-big-tech-alliances.md",
+      "title": "AI Demand Triggers GPU Shortage and Unusual Big Tech Alliances",
+      "excerpt": "When our analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* They just revealed what ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ai-demand-triggers-gpu-shortage-and-unusual-big-tech-alliances",
+      "originalUrl": "https://www.nasdaq.com/articles/ai-demand-triggers-gpu-shortage-and-unusual-big-tech-alliances",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

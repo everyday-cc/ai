@@ -7,8 +7,8 @@ originalUrl: "https://fintechmagazine.com/articles/the-marriage-of-embedded-fina
 webUrl: "https://fintechmagazine.com/articles/the-marriage-of-embedded-finance-and-ai"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: fintechmagazine
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "AiFinSphere Fuses AI and Finance to Offer Conversational Wealth Management Solutions"
+    excerpt: "Harnessing the Power of AI to Facilitate Investment and Wealth Management Decisions for All New York, NY, United States - May 22, 2023 — AiFinSphere, a pioneering fintech startup, is set to transform the finance industry"
+    publishedDateTime: 2023-05-22T15:02:00Z
+    webUrl: "https://www.asiaone.com/business/aifinsphere-fuses-ai-and-finance-offer-conversational-wealth-management-solutions"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 27
   - title: "MarketsandMarkets™ releases its new study on Artificial Intelligence and the Emergence of AI-based B2B Business Models"
     excerpt: "The whitepaper, titled ' Emergence of AI-based Business Models – Orchestrating the Next Big Shift in Enterprise AI Adoption ,' unveils critical insights into how AI is changing the landscape of B2B business models across different industries,"
     publishedDateTime: 2023-05-19T09:49:00Z

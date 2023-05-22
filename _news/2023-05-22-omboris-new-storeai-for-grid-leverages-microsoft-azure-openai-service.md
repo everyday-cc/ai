@@ -1,0 +1,75 @@
+---
+category: news
+title: "Ombori's new StoreAI for Grid leverages Microsoft Azure OpenAI Service"
+excerpt: "On Wednesday May 24, Ombori will launch StoreAI, which uses Microsoft Azure OpenAI Service to extend the capabilities of its successful store digitalization platform, Grid. StoreAI will include a selection of AI tools designed specifically to meet the needs of physical retailers,"
+publishedDateTime: 2023-05-22T13:33:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/05/22/9818460.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/05/22/9818460.htm"
+type: article
+quality: 49
+heat: -1
+published: false
+
+provider:
+  name: TMCnet
+  domain: tmcnet.com
+
+topics:
+  - Microsoft AI
+  - AI
+
+related:
+  - title: "Microsoft India adds 4 new languages to Translator"
+    excerpt: "Microsoft India on Thursday announced the addition of three new Indian languages -- Konkani, Maithili, and Sindhi, in Translator along with Sinhala, the official language of Sri Lanka."
+    publishedDateTime: 2023-05-18T21:20:00Z
+    webUrl: "https://www.thestatesman.com/technology/microsoft-india-adds-4-new-languages-to-translator-1503182658.html"
+    ampWebUrl: "https://www.thestatesman.com/technology/microsoft-india-adds-4-new-languages-to-translator-1503182658.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/microsoft-india-adds-4-new-languages-to-translator-1503182658.html/amp"
+    type: article
+    provider:
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 59
+    images:
+      - url: "https://www.thestatesman.com/wp-content/uploads/2021/07/MicrosoftiStoc.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Four more languages introduced to Microsoft Translator, Details here"
+    excerpt: "The Microsoft Translator software now supports Konkani, Maithili, Sindhi, and Sinhala, a statement from Microsoft India read. Assamese, B..|News Track"
+    publishedDateTime: 2023-05-18T10:49:00Z
+    webUrl: "https://english.newstracklive.com/news/four-more-languages-introduced-to-microsoft-translator-details-here-sc71-nu318-ta318-1277188-1.html"
+    ampWebUrl: "https://english.newstracklive.com/ampnews/four-more-languages-introduced-to-microsoft-translator-details-here-sc71-nu318-ta318-1277188-1.html"
+    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/four-more-languages-introduced-to-microsoft-translator-details-here-sc71-nu318-ta318-1277188-1.html"
+    type: article
+    provider:
+      name: News Track
+      domain: newstracklive.com
+    quality: 54
+  - title: "Microsoft India Adds 4 New Languages To Translator"
+    excerpt: "Microsoft India on Thursday announced the addition of three new Indian languages -- Konkani, Maithili, and Sindhi, in Transl"
+    publishedDateTime: 2023-05-18T11:38:00Z
+    webUrl: "https://menafn.com/1106270433/Microsoft-India-Adds-4-New-Languages-To-Translator"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/18/I_2f472image_story.jpg"
+        width: 800
+        height: 500
+        isCached: true
+  - title: "Microsoft Translator app get support for these three Indian languages"
+    excerpt: "Microsoft has announced the addition of three new Indian languages in Micorosft Translator. The company has revealed that it has added Konkani, Maithi"
+    publishedDateTime: 2023-05-18T12:18:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-translator-app-get-support-for-these-three-indian-languages/articleshow/100332128.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
+
+secured: "/nFZ1F/yv24qOUbSf/NKpNi+WK9ISAi1JdxY/TZjOTdbu6TPpY7PH5b1w7+Awnp6v5cj/Ow5BMqxtEmpwAA/MHzcvtw++lF80bCjTGz9exBLBa6okpSvvqnhPgYsiGaGAofVxN50e5KUh0/UHajo5hi+VxPOxi9xhvR9BjwPdNNOZIwC0BRBzyPqZKBPcZ9jwkttK6lXNemNW4sicbXMDGeX4RjgMLNKOuZ1ijBCsze+hN70v/AoV/m0qtbvFUW5QoeUR9y7XOaF+YdZ9kmBT5O4qJeGZcA3nmAc1E7G4PNCt0gUWSjhkh7Nnu6gots+P8TetEvbfOMpSdpi92TAWf/kFVzPaGVGvXqP+2EdZ54=;4PC4B7AMfYkZRgCgHoHSMg=="
+---
+

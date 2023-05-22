@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/news/stocks/billionaire-investor
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -105,6 +105,15 @@ related:
         width: 1228
         height: 690
         isCached: true
+  - title: "Elon Musk Makes Bold AI Prediction That Will Delight Investors"
+    excerpt: "The best known is ChatGPT, developed by OpenAI, a startup in which software giant Microsoft ... The chatbot showed that AI has reached a point where robots can perform certain tasks much better than humans can. But beyond the search-engine industry ..."
+    publishedDateTime: 2023-05-22T13:48:00Z
+    webUrl: "https://www.thestreet.com/technology/elon-musk-makes-bold-ai-prediction-that-will-delight-investors"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 19
 
 secured: "1m6JzGzxPBab2+YONSiCqnnK03IeTjghZVBJKhaUXIj0n2tKcEj9nTAYh5ZsPfGMJEfOjaMpRnU9jp8rC6wpFz4r+fe6TX464oRVROC2KNjOna93IGeYZ3TFSaHr0OXmCcXKx70ZPUHujs8c3tWkKSPGMLXI5/4uzkNDUcrpTc6oOjzGT1nkpgDydOZU9tXEPdIu29fkBytlezRRlsZ715CB6XDNxl+e9qNLWIMNCPdbLpiuChZlD6dqDnUib9b0wlTCNvWGQqyY2e2r5o6Yv+jd0zxL4x0SO4NIiIJveWQASA4MbXU/+P7myti57ZCOCZAMl3a3XPuFMSmZFQBwWdmqvvfPecQib7bKnV0pBVOXclrHXJ+ipPH/o4ybi2HCBM5eu4TWThu9WAuA8QYsRtISAbL+srrL3TGNdZC3oGyzbFV/zgFHS55HslJJA4ahAvW2hbhCKlt/t20Uyi0bHwV2omvI//bwRR+BvKnFX5jbmL+/ZY1mFiZFKOb3ENmzp9jqmTbw7q8usDTCBplIYg==;w/3W4W51Z44OIjRMT08UPQ=="
 ---

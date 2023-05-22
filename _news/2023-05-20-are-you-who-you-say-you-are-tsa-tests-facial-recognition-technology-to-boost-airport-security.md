@@ -7,7 +7,7 @@ originalUrl: "https://businessmirror.com.ph/2023/05/21/are-you-who-you-say-you-a
 webUrl: "https://businessmirror.com.ph/2023/05/21/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/3A8C75EC-F138-434F-A822F5103920B5AB.jpg"
         width: 790
         height: 497
-        isCached: true
-  - title: "Police officers on patrol to deploy facial recognition technology"
-    excerpt: "Facial-recognition technology is to be used in body-worn cameras by officers on patrol as part of government plans to “embed” it in everyday policing.The poli"
-    publishedDateTime: 2023-05-17T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/police-officers-on-patrol-to-deploy-facial-recognition-technology-nkcgxh2f5"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F69d79e6a-f4db-11ed-97af-27f55025e763.jpg?crop=3576%2C2012%2C376%2C656&resize=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "gqWouYqXrmkAbhKSweJDbJnRX4y+4GBzqlybzQkQ5DCgEna5CydnR8FcvyN2D2YZVGqnrfMVjo+clqSRZNbWOraJfLs60EeZqbstdmW/iCMs3i8nHaRTyTLS2q+yrYgCXtR5j2CQ8/kqnK3EkGxb9CIW5RHDahjr98QsUo7RMY3cPXqhD9akgeaN/SQ2Hk34jFBbP2SfX6IJjilc+LKvlLrDqrcr19dRhGB/dJ4kV4J+AbdFbgEHj5GKoF3o3M4Sr8eKqcGfxiHx6ah6SCoBAmuEeYWv+lYx3iRxkBPLzK5uesikeSlfyt9DHv/bBjm7rjWR8xsuG3k/MRLI6eNWHya+euQJxCaUEEGrf2Av964=;ok9yt/bVgvRAnseRHvitvA=="

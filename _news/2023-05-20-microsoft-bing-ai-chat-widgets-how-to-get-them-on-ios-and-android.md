@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-bing-ai-chat-widgets-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-bing-ai-chat-widgets-how-to-get-them-on-ios-and-android/"
 type: article
 quality: 104
-heat: 164
+heat: 194
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230126-elon-musk-ew-542p-1baade.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Microsoft healthcare AI subsidiary Nuance hit with job cuts"
+    excerpt: "Nuance Communications, a Microsoft subsidiary, is undergoing layoffs to focus on its healthcare business. CEO Mark Benjamin notified employees of the job cuts May 19."
+    publishedDateTime: 2023-05-22T17:10:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/microsoft-healthcare-ai-subsidiary-nuance-hit-with-job-cuts.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 71
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "After Apple, Amazon, Google and Microsoft, Meta Now Builds Its Own AI Chips"
     excerpt: "Meta recently introduced its first in-house silicon chip designed for AI workloads, called MTIA (meta training and inference accelerator)."
@@ -111,6 +125,24 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 46
+  - title: "AI Activists to Target Microsoft at Build 2023"
+    excerpt: "The activists from Ekō have published a full-page ad in The Seattle Times and a billboard outside of Microsoft Build 2023."
+    publishedDateTime: 2023-05-22T15:11:00Z
+    webUrl: "https://www.thurrott.com/microsoft/283436/ai-activists-to-target-microsoft-at-build-2023"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 36
+  - title: "Microsoft says new AI shows signs of human reasoning"
+    excerpt: "A provocative paper from researchers at Microsoft claims AI shows the ability to understand the way people do. Critics say scientists are kidding themselves."
+    publishedDateTime: 2023-05-22T13:09:00Z
+    webUrl: "https://www.seattletimes.com/business/microsoft-says-new-ai-shows-signs-of-human-reasoning/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 34
 
 secured: "7J3p59n+0MujRkwaL9o/DqEzlSg/uUn8h0bzyvRmJ3cYGs+4TBQe6AvtGu0hqTGSE1rUz4n/ZTz3Dz5TYQko65DdLELHItLH94EpRh3SjB4FT+pEeW1GfOJQf7H8Rp6JNA7W5BaoTCDVRSVtpPG/LGGS+CdZ5Whx+sCZXNMYH3N4/d6RVe1/6GLEXBQVmYEeNGj0gKh+J+MfI2Ktqr/518Fv/PN1rFzjmKHX5AmuMFn5V1dDa3/RQa4b+CsCRwp6swNTZiOL9JJxZ5WB9C177ylB4Vy27J1kgZWHWxAN/7h5KtYOLLjZM5X6ckOnBdclQXFp/ujR3o0P000c2+FgCCnW+I/vSxobiT0v/QJayEN+ukM6exjHJuHhmxasTmc+/xsZ9gu1xhYle3IYTnMNnzqqVws+V96NVm8pBrHqcqNbE9groSRfMVyJMceaxhTmZy5BBiEmfJV0dCCywfPnxcwk1WY/+NjE3t7bo1R0waPndH3lGMVuUwjHF7LPENPuGM4rikCX91Y575a/CPpGcQ==;3kbKvwGzbuzeylmhzmnVIg=="
 ---

@@ -100,6 +100,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Elon Musk Makes Bold AI Prediction That Will Delight Investors"
+    excerpt: "The best known is ChatGPT, developed by OpenAI, a startup in which software giant Microsoft ... The chatbot showed that AI has reached a point where robots can perform certain tasks much better than humans can. But beyond the search-engine industry ..."
+    publishedDateTime: 2023-05-22T13:48:00Z
+    webUrl: "https://www.thestreet.com/technology/elon-musk-makes-bold-ai-prediction-that-will-delight-investors"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 19
 
 secured: "dKvsY7dO0uF1omk+UGlXP7parWCIR+coimPkrDJxsFHaUZHHlrgeYUojqltcNgRMb2aK6VCoqEjXxHI4ipc6fcWUFbPsow9aQv3hGs2kLV4wP5agyDvbPZlXkR3l0nfVQnHzwFe0FLc9nov0dnXqUd16JWnHAnPU9X+DRoiRctqhF6BfmtPrzNdn/UczagZ40wbz71djgatg+4e3QOUSnLkUHSv4CaaOMTcyQTORi98U1MGfXkdqeDRNkr8MTXp18Q61Xs5XqK+uN4E9t+fY7Lvnx+5If6A4Cxk+qLPbNHruNfWNi2dSGMLqLfstq3+lF0zCqb5v8/wvCbH3raEl4sPMhD2aE61YfxvVDQBiPig=;pdvS11j8mgC6MEl2SF9OmQ=="
 ---

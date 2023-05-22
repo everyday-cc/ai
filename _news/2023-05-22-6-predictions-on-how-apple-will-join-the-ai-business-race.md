@@ -62,22 +62,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Parallel Domain unveils Reactor, a generative AI-based synthetic data generation engine"
-    excerpt: "New tool from Parallel Domain enhances AI performance in industries such as autonomous vehicles and drones by hgeneratingigh-quality images."
-    publishedDateTime: 2023-05-17T21:15:00Z
-    webUrl: "https://venturebeat.com/ai/parallel-domain-unveils-reactor-a-generative-ai-based-synthetic-data-generation-engine/"
-    ampWebUrl: "https://venturebeat.com/ai/parallel-domain-unveils-reactor-a-generative-ai-based-synthetic-data-generation-engine/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/parallel-domain-unveils-reactor-a-generative-ai-based-synthetic-data-generation-engine/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/1-highly-preferred-option-reflects-the-diversity-of-what-Gen-AI-can-generate.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Boston Isn’t Afraid of Generative AI"
     excerpt: "The city’s first-of-its-kind policy encourages its public servants to use the technology—and could serve as a blueprint for other governments."
     publishedDateTime: 2023-05-19T16:07:00Z
@@ -206,6 +190,24 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 17
+  - title: "Apple Ramps Up Hiring of Generative AI Experts"
+    excerpt: "Apple is hiring for at least a dozen new experts in generative artificial intelligence amid rumors that the company is stepping up its work on AI."
+    publishedDateTime: 2023-05-22T12:51:00Z
+    webUrl: "https://www.macrumors.com/2023/05/22/apple-ramps-up-hiring-of-ai-experts/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 17
+  - title: "TCS announces generative AI pact with Google Cloud, new offering for enterprises"
+    excerpt: "Tata Consultancy Services TCS on Monday announced an expanded partnership with Google Cloud and the launch of its new offering -- TCS Generative AI which leve"
+    publishedDateTime: 2023-05-22T13:20:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273838959/tcs-announces-generative-ai-pact-with-google-cloud-new-offering-for-enterprises"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 14
 
 secured: "ix3kYgiMIeIpwASsThWAcxt7rDhj0eqxXVvcZBkvVfB+lAo+bF/31eGo+NyvIdT/CGMs9XLrG3P1J9WZ2+Q3sv4X8S+t7/8xYfCN8cSouU6FoR8Fh0xltVI/cEbRVXvQucHRt7ZqtEmISpOONeWvz5qwaOgCPiLG3T7j4hgUqQWUTK6wGtP40+lovYkGGPLs8djRbwPiCvlfbPzHJzNI9v+iZY3+IfprLDxlw0yoUzjzjXt14G9aC0blfhyLt0ioybDf6YPH3GgWj/eN5z8UDErG5aKNWf8YPD20llSXA5SRT/IsS9RElqxuC/c73m6d4nDZZwdr/ZcXWj2iW4NZ7lzGyZNQuSTp6W41HKK5SIstBBqoDcB6uOnC7gC4YjXSHAtRoO4QnNo2uYb7WgpleGpJ9mo+uoEZaHEBt/IT6K3QeOx72SxsyHZbsziWhF+7OU8lLq10/LHAjBd0byuB+19a2mczfT2vCipVrKqoZJ0w0GNNvXd18iC1pKnfK/jg5auNTxWLI0P5IshLnhXOLg==;6XtagYJ0GJF50e64qIAyoQ=="
 ---

@@ -42,17 +42,12 @@ related:
   - title: "AI the Latest Instance of our Capacity for Innovation Outstripping our Capacity for Ethics"
     excerpt: "The eagerness with which movie and television studios have proposed to use artificial intelligence to write content collides with the concern of Writers Guild members for their employment security and pay in the latest episode of technological innovation running ahead of ethical deliberation."
     publishedDateTime: 2023-05-21T16:59:00Z
-    webUrl: "https://hnn.us/article/185706"
+    webUrl: "https://historynewsnetwork.org/article/185706"
     type: article
     provider:
       name: History News Network
-      domain: hnn.us
-    quality: 44
-    images:
-      - url: "https://s3.amazonaws.com/hnn-bucket/sites/default/files/185706-WGAStrikeAI.png"
-        width: 600
-        height: 400
-        isCached: true
+      domain: historynewsnetwork.org
+    quality: 24
   - title: "Artificial intelligence innovation: Leading companies in road slope estimation for the automotive industry"
     excerpt: "Porsche Automobil is a key player in the road slope estimation innovation area. The company’s road slope estimation technology uses GPS and standard vehicle sensors for estimation of road slope. Hyundai, Kia, Toyota and Nissan are some of the other key players."
     publishedDateTime: 2023-05-22T09:56:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/orbital-witness-fundraise-startup-
 webUrl: "https://www.businessinsider.com/orbital-witness-fundraise-startup-uses-generative-ai-to-buy-properties-2023-5"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Check out the 13-slide pitch deck Mitiga, a startup using AI to predict climate risks, used to raise $14 million"
+    excerpt: "A startup using AI to predict climate risk to protect people and assets has just raised 13 million euros (around $14 million) in a round backed by Microsoft. Barcelona-based Mitiga, which spun out from the National Supercomputing Center in Spain in 2018 ..."
+    publishedDateTime: 2023-05-19T17:00:00Z
+    webUrl: "https://www.businessinsider.com/pitch-deck-mitiga-14-million-ai-climate-risk-tool-microsoft-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
+    images:
+      - url: "https://i.insider.com/6466305f7224930019f36213?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "R2rh2yIV5rdRIJwK8RtTXjD50FBH7frAHMc4i4FwNbXRPqei/7tcqb4Vtu7fm0lZKn6sWnRJ2Fu2YdFx8tooZ/ZSKOrvEdDeZz+L83vbgCgBfDabMNxOq9XjTzzhwN5zCvbxmRgFYsYZuPd+W9zZvSQ432IGewyheOuXwQ3wstNaW82L126eYONonMILe3v3bE9C+eBEbc9EtNWval3WBJVLUfFDUFkFkChoMKJLUNaetsZdBBqXmqZoqa7UFW6ZdPZtlvfyj+1CPOCte9Xp1H3R1MoXh/2pL9jxs6gmJCuTOEVLkcj3xq/CY9PGNC/f36outvBgoesrYsvK2+BuyWdd2Z8g7FtDypeQdhlY+u5Xx5HU2ptQ/WMaJSbTxIU0cWcNRymUhKdfCwEnMHu6K/pG5AQjcy0ncBDro/6csy/8zeUS0wcUWYCWhYC2LON3GN0CqUGpSvAeHalw/iAjRZUFaB1xgjI0/tQEb6X6044jibxfKWJk/futn5LOTtmhsw2r9C/ECMgJO0UJIPoIuA==;Phfg323HRswQt0EdWpJ0Gw=="
 ---

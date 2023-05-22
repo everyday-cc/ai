@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/5/19/23728174/ai-regulation-senate-h
 webUrl: "https://www.theverge.com/2023/5/19/23728174/ai-regulation-senate-hearings-regulatory-capture-laws"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Senate hearing on AI shows lawmakers still don’t get it"
-    excerpt: "While the hearing on powerful artificial intelligence tools didn’t feature as many face-plants as previous tech hearings, it missed the mark in key ways."
-    publishedDateTime: 2023-05-17T20:08:00Z
-    webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/ai-artfificial-intelligence-chatgpt-sam-altman-senate-rcna84931"
-    ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna84931"
-    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna84931"
-    type: article
-    provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 59
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230517-sam-altman-jm-1431-6150ed.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "The AI revolution already transforming education"
     excerpt: "Schools and universities are using ChatGPT in the classroom, but will it devalue the fundamentals of learning?"
     publishedDateTime: 2023-05-21T04:00:00Z

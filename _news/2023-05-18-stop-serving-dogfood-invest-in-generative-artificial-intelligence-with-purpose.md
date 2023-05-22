@@ -22,35 +22,37 @@ topics:
   - AI
 
 related:
-  - title: "Knowledge 2023 - ServiceNow looks beyond general purpose generative AI to domain-specific use cases"
-    excerpt: "ServiceNow has this week revealed how it is planning to capitalize on the recent rapid advancements seen in the field of generative AI, using large language models (LLMs) - showcasing some of the potential use cases live on stage during its second Knowledge 2023 keynote in Las Vegas this week."
-    publishedDateTime: 2023-05-18T00:32:00Z
-    webUrl: "https://diginomica.com/knowledge-2023-servicenow-looks-beyond-general-purpose-generative-ai-domain-specific-use-cases"
-    ampWebUrl: "https://diginomica.com/knowledge-2023-servicenow-looks-beyond-general-purpose-generative-ai-domain-specific-use-cases?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/knowledge-2023-servicenow-looks-beyond-general-purpose-generative-ai-domain-specific-use-cases?amp"
+  - title: "Apple looking to hire machine learning engineers with an interest in generative AI"
+    excerpt: "Apple's Technology Development Group (TDG) is looking for Machine-Learning engineers with a background and/or interest in Generative AI! You will be leveraging innovative Generative models to build fundamental applications on top of Apple's most advanced ..."
+    publishedDateTime: 2023-05-19T17:17:00Z
+    webUrl: "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai"
+    ampWebUrl: "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 45
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 68
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-05/0301FB54-D1AC-402C-9D31-23525EA21F1A.jpeg"
-        width: 8256
-        height: 5504
+      - url: "https://photos5.appleinsider.com/gallery/54505-110094-Apple-Siri-xl.jpg"
+        width: 1312
+        height: 738
         isCached: true
-  - title: "CLM Provider Evisort Announces Generative AI Integration, Partners With ServiceNow"
-    excerpt: "After joining the lineup of CLM companies leveraging generative AI solutions, Evisort also announced that it would be partnering with ServiceNow to offer its contracting capabilities to the organization's customer base."
-    publishedDateTime: 2023-05-17T21:07:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/05/17/clm-provider-evisort-announces-generative-ai-integration-partners-with-servicenow/"
+  - title: "Generative AI Adds New Dimensions to Election Interference"
+    excerpt: "Election administrators are still digging out from the mountains of misinformation from the 2020 election cycle. Bad actors are using AI to ramp up for the next one. Can AI help level the playing field for the good guys?"
+    publishedDateTime: 2023-05-19T05:40:00Z
+    webUrl: "https://www.governing.com/security/generative-ai-adds-new-dimensions-to-election-interference"
+    ampWebUrl: "https://www.governing.com/security/generative-ai-adds-new-dimensions-to-election-interference?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/generative-ai-adds-new-dimensions-to-election-interference?_amp=true"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 33
+      name: Governing
+      domain: governing.com
+    quality: 59
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Evisort-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/2cfba84/2147483647/strip/true/crop/1679x875+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa6%2F8d%2F75d7c3b64a09b15bf3759f57b52d%2Fus-news-senate-ai-regulation-get.jpg"
+        width: 840
+        height: 438
         isCached: true
 
 secured: "lxKo0cZblyUmMRsP8nLN/P1wG6xf1FPoFbuquzxVjmppgxFaB+ksEPZsiunT9ll1WJXEdSlgI3lgGzLPvrbiW8Ldl45HirtU9UVKg+tHqsCVsYeLSakYdGMVIuSJdXfRX8U6XiwF5JR8+imv118ac+9fQXo6o7rKlRAH/QXeh5JmrhMzTLG+zHawg0uDytIA88XpHM8CZZNrg5I8hueNHio6QvJ10bAPw86UfcmL5lCww6lp63WWkcXfmTx9z/AuLr1Czey2ClDZwZM+D0yfoIqxUlKKofGEQGvV/YCf4Qi9WW0vpe62ebRxRXczoznH1EKGOn6X993LGE6j0DUYE9Ta12i5skGiM9rYbQYrzR8L9OrAxFFg2eSEump47/1xtCcV5S40hrL4GToVmeh2RvXrX6DpNcDFxIJ6XqihhY3FygxxXCK8ZsvkoaZvo0ivyygFDPvrtZ8BMIvIsuZzVH9DNu4VKeWfpL7rm3GaT/8DQw1dwyrKFNiKX5zo6hI3Edq5nRNpL+5DftQrwrMAsQ==;1uisA9tT/UaMuJsuYdKD3A=="
