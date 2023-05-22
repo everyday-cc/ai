@@ -80,20 +80,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Pepper Advantage, fintech startup Techverse in M&A news"
-    excerpt: "Rieom.ai is a Pune-based startup whose flagship product is an AI ... documents to identify fraud risks and other suspicious behaviour prior to credit approval. Fintech startup Techurate Systems Pvt. Ltd announced on Wednesday its acquisition of Techverve ..."
-    publishedDateTime: 2023-05-17T14:39:00Z
-    webUrl: "https://www.vccircle.com/pepperadvantage-fintech-startup-techverse-in-m-a-news"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 24
-    images:
-      - url: "https://assets.vccircle.com/uploads/2022/07/MnAmergeracquisitionrfl.jpg"
-        width: 810
-        height: 506
-        isCached: true
   - title: "Fintech Startup Techverve and Pepper Advantage in M&A News"
     excerpt: "Fintech Startup Techverve and Pepper Advantage in M&A News - Global credit intelligence company Pepper Advantage announced, the acquisition of artificial"
     publishedDateTime: 2023-05-18T03:23:00Z
@@ -127,6 +113,6 @@ related:
       domain: proactiveinvestors.com
     quality: 13
 
-secured: "EoEdkn/u1IBja+k7yZsCRkLFdEgwF1zL5Vc3BlF+Y6XMdpLyO5IYS+pFoEnPx/cLCEo1+0cGEtKPFn/rjVrSROMYXqppQeqOo5VqHTeEivXIdFuS0vhF9hFsrhYk/4cyrSrI8gKxuRDv/mpJesYy7QCpEOL7DRid5dasvTYHdwwoXfSyIbregT2vrZUAq/Uxs3TkNadLSwiT6Fl6j32HvnKjbLJKasCAyjbXIM9LQ98LK9gi7zawbGiJpvIhRzW1GQgDJYQ0vsnxzgfFXBTepNnw5SUO0fGXuOvTiFfVhBRLrZF2NTYBORokzXq0LNCB7cZl8MFwIV4+Pr2VWRWsdvBQl4sTh3pDJBGTf/XM+Go=;+B8XEg0HsQ6bwfeajGYJ5A=="
+secured: "+G4Yk8x+ntqd5TfRKmwZbufKhr2DHi9eBq+0vaAuaKJdUByfkPsN2cAdpXSVr4nj/EyIslA8W/zFLzqY4faDIL/JQDAfAhnOldqfDHbQtw4F0M02pMOg+8s06wiWdf9D1YyExdH7iKYoDvwQHaFYWzJpx9y0CZ2Lr+WW9ovwPupGEZZ9ExktIb8v6khq1YiFSYJSCT8un79tIZFHCg+BIOC9dYgA6fQub/0ZuZrBGcpESlg0R0DUhmGCtcZ8TwPVVRkg6k1KnwRWIqN5TVtk8yt0S08pI1uCnVzZcWVO9s1VEz5j6hZYpKlmloesR7WA6f31lq/8Ui2pFEcQNsX5N4N4Rsu3X/rV114DfdjMBEI=;ABsXeYneTbXLP3ELnORsMg=="
 ---
 

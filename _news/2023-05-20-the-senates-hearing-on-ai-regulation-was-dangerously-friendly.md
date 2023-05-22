@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/5/19/23728174/ai-regulation-senate-h
 webUrl: "https://www.theverge.com/2023/5/19/23728174/ai-regulation-senate-hearings-regulatory-capture-laws"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "The AI revolution already transforming education"
+    excerpt: "Schools and universities are using ChatGPT in the classroom, but will it devalue the fundamentals of learning?"
+    publishedDateTime: 2023-05-21T04:00:00Z
+    webUrl: "https://www.ft.com/content/47fd20c6-240d-4ffa-a0de-70717712ed1c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
 
 secured: "oGeXdwL6IOC4N6W8QtH/3Veuu/I1XzjPWQW+2oc2VmBYPTdgSRxxLD69riP9n+SBWEu+Soq2u03i7Exa2M3JrlcQPm627yX8E1PEhweuxEjrJsiuLgsCLmeFAQOH4Gcdn60PpCuzFSvoZTDUtzcSffevGr0+dVdkjlHSPcB3jN4lWyNIhJ5ElXXAtHmdLWx0FKxfbpY0mSFFf+cvkRpqZTm0t8cEXpollhEJ5l/sn1lzh+jeKYMFf/XvXDDekom0+6rrGW0SmhNL87S+bWf35NQUmuYLFS90TSjDmo0mAC0gsEp+64hqS7C7a8iT7tPfxac2m0MJvWcxGHHB9mKzTjXZLvOIk2DXBZBiWaxtInd//H2irSaxYGUG6uGIor97lwEKQbxzvQIynHh/sahuoUoA1y69IEh7yWCvg+DWzXJnIDTOGFjdvsFr0fD12FvGjMoO7zFiNl3LL9q0+t946BBOVyCf6qF4JyUv42GhyMkSfPpuBq55nDEE3mAq8ilCeBGPe+WnEMRQx3zIOtFhkg==;tfrkyRf8musJ7+9bj3NpDQ=="
 ---

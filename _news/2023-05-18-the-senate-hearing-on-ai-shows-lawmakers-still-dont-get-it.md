@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "The AI revolution already transforming education"
+    excerpt: "Schools and universities are using ChatGPT in the classroom, but will it devalue the fundamentals of learning?"
+    publishedDateTime: 2023-05-21T04:00:00Z
+    webUrl: "https://www.ft.com/content/47fd20c6-240d-4ffa-a0de-70717712ed1c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
 
 secured: "m4/G+y0ffVfNh4CmEMj0bQtEdnzHRGWNJGloZgCm6KmLHshVM6hWUYjEZ9rXA9i1wMc/2A3BMtLF5rZceihtz53POQbLME4fNK4QlzGF7uwUoCE8JshR8InifC1Mvou1CjN+7VjSrM4ccY4c4N5FhaHlYhsEvDu06WZicLYGwAk0AJ5PxCzA1yHn2kz+crEtJy84z3TfacRfNyDcglg7lck30zizVAX4yzijFRTV5JF3Mr9JywGOyqDJGn3NVdOWLSl0HSy/tzKkfSO5jp7B6x3NAQPbFTki7izxeBC1nIE+pDbNMeq3FTLoFPPkUFw6O3R2pb6xhb/GS3RAyTyneGkWb/3PFm735pe/+w07A7G8yOn5JhvoWyqf8Bs/Inr66qQuhCm58flEeOpgHMDwHzOKBm1nSN+VWsPHI4v9nlR4/R/UpvKaWkrZtEBCGPjxo0gFYT6K7oZP+iVUDDE/fgUCOv/WHzGyGE52t4mak77/WBwQ5KkBD3bXbw0iF2zWiDfNmAMpdLYz+TqQv+JrcA==;iNMQuXSe0QGtItpKWWffng=="
 ---

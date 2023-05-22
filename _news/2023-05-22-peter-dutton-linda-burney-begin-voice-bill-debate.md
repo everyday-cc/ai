@@ -20,6 +20,19 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Linda Burney blasts Peter Dutton for spreading ‘misinformation’ on Indigenous voice"
+    excerpt: "Minister attacks ‘scare campaign’ after opposition leader says plan would ‘re-racialise’ Australia"
+    publishedDateTime: 2023-05-22T06:09:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/may/22/linda-burney-blasts-peter-dutton-for-spreading-misinformation-on-indigenous-voice"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/may/22/linda-burney-blasts-peter-dutton-for-spreading-misinformation-on-indigenous-voice"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/may/22/linda-burney-blasts-peter-dutton-for-spreading-misinformation-on-indigenous-voice"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 18
+
 secured: "BZPIg3gNcMy2S24X+JmlWWB85ctl5+IKARl1wqzz05THO8AZWwyWET61iw4Pg+lDsATSWGjekQTWSVFDIrPo3rasOwrlu8ZEpu4hIPY5TeF1CW7wxUtx9YXA7eQmuiOeLQt1KoreZ/wTpuEaPJMiiGgE7cp0l2tMhTMu00HBC0fWPu2s/K2gGmXXnnnVIA4TL5xh4+JC1cnX0H65zSPcdbo7wnwmNFBBMOUqxFb7NDPiFkEatQ9omcDrNCSp3G+qp8mpbke5mnnq1itcN3EPXDLoJCIXwhQtR3utTzTA01BKzshqfYvM21jtEtgmxQVTqVebL6xzRHMUdnj/9qNefh+bJKHtpL4NVJGhzMNrEpbqdZdHeyPF0xFxskIk/VHCGRPO2BdAT4mkIYm6i4d8wRrecbIbnz5b0gQLd44ynOzF9ekU98naCj9TmrGHyMLECnCMC/1DhG1mrCnhqdg9fXA4fpHmIktU4S5Vj9JteaJrlYO19euyPP/BtyVfEguyI9RFxWMCRKG4aMubE3lh1Q==;0nlt4stUl1H0CC8cQPVNyw=="
 ---
 

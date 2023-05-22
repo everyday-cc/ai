@@ -41,20 +41,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "OpenAI proposed license to regulate AI, Baidu urges self content moderation"
-    excerpt: "Meanwhile, instead of concerning the lost jobs and artist rights, China-based Baidu, which launched Ernie Bot in March, focused more on socially and politically sensitive disinformation."
-    publishedDateTime: 2023-05-17T14:16:00Z
-    webUrl: "https://www.digitimes.com/news/a20230517VL202/ai-baidu-chatgpt-openai.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230517vl202_files/1_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "AUAXOeoIRl+aDLTfuWTJKwRtTO0Wbh1rMT6z3l98Z9xFKkk4bvTWHlVSBeCwqEhjWebCV7NDiDBN/spGcTt9SP61Y2JBVbSJ+eUW77rEdxQ91VvhpYinEOnga4q0e8XhHfpolw9eFSaTMZkBBYR4OWDLKywOqgAciksdzTYJ+7FJH1tiDMasigvcp3o6rkHMc8WddOb/1PXpOKmaXwiOfhVU/LYjjihNlL68Yvm/LlqY8ouwfr0jBoJyw4tcKGDkZZdbaHf4VCGENJeNb4hpww8Fngv3Va01Yj0z5CQV3UuIwAt3LsJHvfiX18cd8ITmthNYKEbEpD4T9ttFMrRMal7Z+Envmy5PcdNi9L3xAEE=;MC8JdNuW1NwWRqYPHkQxRA=="
 ---

@@ -43,21 +43,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "‘Cyber-Heartbreak’ and Privacy Risks: The Perils of Dating an AI"
-    excerpt: "There’s a growing business for virtual romance, but it’s not without the familiar hazards of human relationships"
-    publishedDateTime: 2023-05-17T14:00:00Z
-    webUrl: "https://www.rollingstone.com/culture/culture-features/ai-companion-dating-emotional-privacy-risks-1234735519/"
-    ampWebUrl: "https://www.rollingstone.com/culture/culture-features/ai-companion-dating-emotional-privacy-risks-1234735519/amp/"
-    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-features/ai-companion-dating-emotional-privacy-risks-1234735519/amp/"
+  - title: "Artificial intelligence and mankind"
+    excerpt: "By NICK DAZANG ON August 2, 1939, Albert Einstein, the equivalent of a scientific genius, endorsed a letter drafted for him by a fellow physicist and inventor, Leo Spitz Szilard. The letter was sent to the United States President,"
+    publishedDateTime: 2023-05-22T05:30:00Z
+    webUrl: "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/"
+    ampWebUrl: "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/amp/"
+    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/amp/"
     type: article
     provider:
-      name: Rolling Stone
-      domain: rollingstone.com
+      name: Vanguard
+      domain: vanguardngr.com
     quality: 59
     images:
-      - url: "https://www.rollingstone.com/wp-content/uploads/2023/05/replika-ai-girlfriend-RS-1800.jpg?crop=0px%2C0px%2C1800px%2C1014px&resize=1600%2C900"
-        width: 1600
-        height: 900
+      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2018/05/tech-per.jpg"
+        width: 412
+        height: 250
         isCached: true
   - title: "Rise of the machines: how long before AI steals my job?"
     excerpt: "As a translator, Sarah DeVries has watched Google Translate get better and better and wonders what the future of her profession holds."

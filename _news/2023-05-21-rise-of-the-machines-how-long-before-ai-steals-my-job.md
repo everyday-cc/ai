@@ -57,21 +57,21 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "‘Cyber-Heartbreak’ and Privacy Risks: The Perils of Dating an AI"
-    excerpt: "There’s a growing business for virtual romance, but it’s not without the familiar hazards of human relationships"
-    publishedDateTime: 2023-05-17T14:00:00Z
-    webUrl: "https://www.rollingstone.com/culture/culture-features/ai-companion-dating-emotional-privacy-risks-1234735519/"
-    ampWebUrl: "https://www.rollingstone.com/culture/culture-features/ai-companion-dating-emotional-privacy-risks-1234735519/amp/"
-    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-features/ai-companion-dating-emotional-privacy-risks-1234735519/amp/"
+  - title: "Artificial intelligence and mankind"
+    excerpt: "By NICK DAZANG ON August 2, 1939, Albert Einstein, the equivalent of a scientific genius, endorsed a letter drafted for him by a fellow physicist and inventor, Leo Spitz Szilard. The letter was sent to the United States President,"
+    publishedDateTime: 2023-05-22T05:30:00Z
+    webUrl: "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/"
+    ampWebUrl: "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/amp/"
+    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/amp/"
     type: article
     provider:
-      name: Rolling Stone
-      domain: rollingstone.com
+      name: Vanguard
+      domain: vanguardngr.com
     quality: 59
     images:
-      - url: "https://www.rollingstone.com/wp-content/uploads/2023/05/replika-ai-girlfriend-RS-1800.jpg?crop=0px%2C0px%2C1800px%2C1014px&resize=1600%2C900"
-        width: 1600
-        height: 900
+      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2018/05/tech-per.jpg"
+        width: 412
+        height: 250
         isCached: true
 
 secured: "vvgtHOohxkPSNfyug3dFHCWB67AVZDNrMSNVlptO4y5DBc9RIkD13K2AEv6SjvqIU3t8J+1cqZ5eefXWEUbjzE4lAyLjPO3P7t4J6Dij3qOdEG9Gv2YFcuWGRnnmgtP2TkNh36WiXOIItyUApn379Fw0+A3IGqj1wWLfkG874eskkqZii2JRiiwGuwfNg/y5+fZ3gARLT5Zzic2KjQae/rSGDhWLhRm+BfUIgSDWJPntZ7ubcNlA02eBdS0CDkehKAU1K5chbf7OyUtHdMyiJ5/P2ykKnniYdV2qC9lF4WgpFD74oRJFP4KScYzEUhACxAZ4+6DHDsy6b1mjNUGNKV4UzDvZd0BnOIX3QP8zyzPFZZ0S067146M38KoNCzSxRclMndk5/u6iVEOErqqyABoBWnyguj4tVjhM8kPxeKqvWV29tQ6Z2sAegxlZI78L5BnJMVKZBbgyW+4c0VuKGum8PbdS922UcZ3OG7T5N6E0nxK6/zGmTM3FpA+Z8VDLLiSuyAKoYhdZ0II/mOGZTQ==;+arvhANvmIvdz+NYVeLEQg=="

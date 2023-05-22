@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "New model using machine learning improves ocean current predictions"
-    excerpt: "Scientists develop a machine learning model that accurately predicts ocean currents and identifies divergences for improved monitoring and forecasting."
-    publishedDateTime: 2023-05-17T13:48:00Z
-    webUrl: "https://interestingengineering.com/innovation/fluid-dynamics-precise-ocean-current-forecasting"
+  - title: "Machine learning model predicts mortality risk for individual cardiac surgery patients"
+    excerpt: "The mortality risk for individual cardiac surgery patients can be predicted with a machine learning-based model developed by researchers at Mount Sinai Hospital in New York."
+    publishedDateTime: 2023-05-18T11:05:00Z
+    webUrl: "https://www.theengineer.co.uk/content/news/machine-learning-model-predicts-mortality-risk-for-individual-cardiac-surgery-patients"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 31
     images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/17/image/jpeg/LihVlrBhTpQlU3rp6mifPuG2ZCPlsv8iZOp6A7Uj.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Researchers show that a machine learning model can improve mortality risk prediction for cardiac surgery patients"
-    excerpt: "A machine learning-based model that enables medical institutions to predict the mortality risk for individual cardiac surgery patients has been developed by a Mount Sinai research team, providing a significant performance advantage over current population-derived models."
-    publishedDateTime: 2023-05-17T14:14:00Z
-    webUrl: "https://medicalxpress.com/news/2023-05-machine-mortality-cardiac-surgery-patients.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-05-machine-mortality-cardiac-surgery-patients.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-05-machine-mortality-cardiac-surgery-patients.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 38
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-show-that-2.jpg"
-        width: 2880
-        height: 1620
+      - url: "https://www.theengineer.co.uk/media/td0pt4no/heart-ai_adobestock_571615384.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "/exDkzhYflJvT226HgwrhBuPKhtzI3kfhsktAsytz4ILIG57P+aLnsq2OtJJxClOxOpB9DslcaBByJTtR40FdisZlFToOr6PJxWTmbPQ+fk1Id8L/JRB5fPZPebrPsYitLgYlHMjet4LQFcIICh6oZxU0GmME5v04jvrYs1wKb+ufU+ixvnqGFDQAAmfKsLF/SmnwP0Egq1Q6pbn8bHPm2nBY95jFHv8tqHQBSGXlpXqWTbw4qfijMN0VKc3+YD6kTCm1ejBbpl2v6OyCO+PxGRQ1CwXeo9bKX3o1hIS/1HSTTlrNmGzQ4KKZZ9Z4fgeL6hhKSUns7qkvATMvR5RGqvmUTgYjbY14GZB7Xa4QeobFE/P7mLGW468LaNroiSSwWOG5LvMKRFwJAlPjqd/cfTKJzzYwKMqIL6TrnUUGAyjGr+cwsaS5Ljl6s3SYKkCOhdSMfi0xV8B3DqMhQ3xDf5gdmXvaEDwCSA5TA6p1/Pynyg2jre+TMyxWz0fHV/+5oUaYn1k2xT5QyATdgFq9g==;0/EmAXg2vNj5DoJPBBe4KA=="

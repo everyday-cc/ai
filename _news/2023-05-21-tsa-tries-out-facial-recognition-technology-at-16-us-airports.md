@@ -2,17 +2,17 @@
 category: news
 title: "TSA tries out facial recognition technology at 16 U.S. airports"
 excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through -- all without having to hand over their identification to the TSA officer sitting behind the screen."
-publishedDateTime: 2023-05-21T07:46:00Z
-originalUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
-webUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+publishedDateTime: 2023-05-21T07:41:00Z
+originalUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+webUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Arkansas Democrat-Gazette
-  domain: arkansasonline.com
+  name: Northwest Arkansas Democrat Gazette
+  domain: nwaonline.com
 
 topics:
   - Computer Vision
@@ -55,6 +55,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "TSA tests facial recognition at more airports, raising concerns on privacy"
+    excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"
+    publishedDateTime: 2023-05-22T07:10:00Z
+    webUrl: "https://www.stltoday.com/tsa-tests-facial-recognition-at-more-airports-raising-concerns-on-privacy/article_105201df-9846-5ebb-b88a-64277b9fc900.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 52
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/b8/3b86fda3-16e1-56fb-944d-a3b12481b1fb/646b155acd51a.image.jpg?crop=887%2C466%2C0%2C63&resize=887%2C466&order=crop%2Cresize"
+        width: 887
+        height: 466
+        isCached: true
   - title: "TSA's Facial Recognition Tech Raises Questions About Bias and Data Security"
     excerpt: "Analysts and lawmakers are concerned about a new TSA program that instructs passengers to insert their IDs into a machine and takes a pictures of them."
     publishedDateTime: 2023-05-18T19:34:00Z
@@ -65,6 +79,6 @@ related:
       domain: reason.com
     quality: 49
 
-secured: "SXk/BEOAAaY5z+G3s/8qz4EEwiN2eo4j+5I2W0qAGoFdYNFMwwwXEwiDG5MtLO/PKsSUOYF69bV1dF5GhcsZumYpcb4Mc9Y9P9DaUaMpqw24yAWYNay4CXBLyxS9BZIeIyLGy59IXc7v0G1B93wZxnQDTyH8OWG/2llGA+HEg35mbLHsdjRBWw8KYO+6TuPIFLoTeHm9+xgX94/FGqcah4pOb0mr/+v9WriAKtAWTtzMhOp/Qnuh1SXOBTxb3oho5tKxzGK5oWCv/4LR/Vl6sTCbT0OxeSD51p9BKKblP/CPXJPTQCeIaL5XxIudqq5iVFLheghoxaIe0/4geA3NzContOhk/dnrfXfQvja20rNjxb8+BYJiyWO9/lRH3MVM/j5+yqM1YoUghCUUqZr2IvaLSboXuH21PNmiQMjVPe2hR01N2P/FdxQBvYPsF3f4RpEtZFI6Sai2HIN001cZkWJVF17oSV6Lb2a4PX1ckVaVg95fJRP69VP7ovVsqHZ1amoMj/LXX12nPogNbsawbg==;UmJyMeq2s9z+w8jjhNKiDQ=="
+secured: "ru+mvb+WqegeuouV3WPRIQywodvnKn4vZVW1DaZFecO9NYJTQjD9Ux8I2wNQAdneW1D0aCzYu5OAOpbyuGuX/UX4ldz4pIQIS8XU6UoSJ2MeuND1X5gpI3iq+JtD8yn9EbKf23Ij0PPJdL1Rg9InyiGvVVaW2Ns+hmghRIx4J0WuZ42ejfP6wlW1QJHQtIX3LCo5/wlLmu9cOUjGCC69whReRZJaf0t+lAxMh2ogsQ3+JCj0Kgpn1pVlgEAh8zV6vax7UCoFdmtNPqNdtqgDz06WeEKThCPw80J4k2P8r0YI6XLI0y8GkQbKqCjKjlrWb37s5a6oRLM8QMgaQKbj5UhZ/VrpWw85HHjQeExlPHE=;f+d0UX4xMslcTDXtBFUwfw=="
 ---
 

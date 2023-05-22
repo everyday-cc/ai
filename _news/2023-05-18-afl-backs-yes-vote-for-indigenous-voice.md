@@ -132,17 +132,6 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 24
-  - title: "Rugby Australia adds its voice to other sports codes supporting yes vote"
-    excerpt: "Rugby Australia is the latest major sporting code to back the Indigenous voice to parliament, joining a growing list of elite sports pushing for a yes vote in this year’s referendum."
-    publishedDateTime: 2023-05-17T14:04:00Z
-    webUrl: "https://www.theaustralian.com.au/sport/rugby-union/rugby-australia-adds-its-voice-to-other-sports-codes-supporting-yes-vote/news-story/6a74bff0cec4070f704964fe30d2852e"
-    ampWebUrl: "https://www.theaustralian.com.au/sport/rugby-union/rugby-australia-adds-its-voice-to-other-sports-codes-supporting-yes-vote/news-story/6a74bff0cec4070f704964fe30d2852e?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/sport/rugby-union/rugby-australia-adds-its-voice-to-other-sports-codes-supporting-yes-vote/news-story/6a74bff0cec4070f704964fe30d2852e?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 23
 
 secured: "tuApgOvlmyqPIovPZqw7vDJdBq0W9hN3mx7goxBMIOjhyZ262JYHpDeQL4P+hD28WeNiDSyreOw+gikPr+oF9L402vxyYjvHPUMoMOn3ZEmMJNNJEPkl0PyMW78hShjHJYWfGeV1nqTyKJRecZFncOx8ppyj3d738Ba/AM/j3Y6wQKhVwbIfmef80csH1PHV9dJ76yazI16s/A2oxwph7OEkOOVxQFWAnUtSNnpiQjSOXUplJmClTtzzUslrwFU6w/vylBd9uZ8SZamt8SFZ1eURHXsQhOK3pOnVxcF2daEPtu3c8HjQbvZMRpsm2Kzo+OrKGC3na+on4ABaZjyFNmYqjRPj8Ml9RikuIYDPoQw=;pGQsznjaArhhdaWUS0T7Vg=="
 ---

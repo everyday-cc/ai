@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "6 Predictions On How Apple Will Join The AI Business Race"
+    excerpt: "Apple hasn’t yet made its big AI move. Here are 6 predictions on what they will do, and how each might affect your business."
+    publishedDateTime: 2023-05-22T07:30:00Z
+    webUrl: "https://www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/"
+    ampWebUrl: "https://www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646b115dc42fa4e32d4bd1e7/0x0.jpg?format=jpg&crop=3290,1850,x0,y52,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How generative AI’s impact on digital advertising methodology is evolving"
     excerpt: "Despite issues around brand safety, intellectual property and security, generative AI tools for brands and advertisers are here to stay."
     publishedDateTime: 2023-05-21T16:10:00Z
@@ -87,6 +103,22 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Apple is apparently doubling down on machine learning, generative AI efforts: All we know so far"
+    excerpt: "While Apple did not announce any major AI-related initiative in its recent earnings report, the company however did highlight the importance of AI in its future plans."
+    publishedDateTime: 2023-05-22T06:10:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-apple-is-apparently-doubling-down-on-machine-learning-generative-ai-efforts-all-we-know-so-far-3096934/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology-apple-is-apparently-doubling-down-on-machine-learning-generative-ai-efforts-all-we-know-so-far-3096934/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-apple-is-apparently-doubling-down-on-machine-learning-generative-ai-efforts-all-we-know-so-far-3096934/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 61
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/apple-resized-2.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "‘Generative AI can be seen; it’s more cool than traditional AI’"
     excerpt: "Generative AI and transformers (that help predict the next word or a sentence, and even a para) were not invented to perform physical stuff. They were invented to understand languages better. Images and videos are only a by-product of that."
     publishedDateTime: 2023-05-20T05:56:00Z
@@ -128,15 +160,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Going Beyond Generative AI To Truly Solve Productivity"
-    excerpt: "With generative AI output, it’s important to note that the information provided is usually of a descriptive or informative nature."
-    publishedDateTime: 2023-05-17T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/17/going-beyond-generative-ai-to-truly-solve-productivity/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Rebooting Tech Talent In The Race For AI"
     excerpt: "Developers using AI tools like CodeGPT, Bugasura, GitHub, Repli - while designers use PiggyAI, Galileo, Viesus to upskill and be a growth accelerator in their next gig."
     publishedDateTime: 2023-05-18T18:28:00Z

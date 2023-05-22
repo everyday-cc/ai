@@ -131,17 +131,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Rugby Australia adds its voice to other sports codes supporting yes vote"
-    excerpt: "Rugby Australia is the latest major sporting code to back the Indigenous voice to parliament, joining a growing list of elite sports pushing for a yes vote in this year’s referendum."
-    publishedDateTime: 2023-05-17T14:04:00Z
-    webUrl: "https://www.theaustralian.com.au/sport/rugby-union/rugby-australia-adds-its-voice-to-other-sports-codes-supporting-yes-vote/news-story/6a74bff0cec4070f704964fe30d2852e"
-    ampWebUrl: "https://www.theaustralian.com.au/sport/rugby-union/rugby-australia-adds-its-voice-to-other-sports-codes-supporting-yes-vote/news-story/6a74bff0cec4070f704964fe30d2852e?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/sport/rugby-union/rugby-australia-adds-its-voice-to-other-sports-codes-supporting-yes-vote/news-story/6a74bff0cec4070f704964fe30d2852e?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 23
 
 secured: "tSEqQOQv7sRi4Phl5RsMFHfnOkwzS/v2Lb+IjQh8jtUe3k801nbI1RF3Jc+W2V9la4i4xQ9mj/LDcMKCNoPJgMPq3UQOSiwzvEN9JxjZjHckPCFwoIwOojUsR/YMEmjUtZIhXgHLY0Bk5BiyE/xbjQInFiPX5JGAS6uk6Q0JJTFjXx63z+kvQlApa2SoZ9x9WmOMrHaDfZ6s+r5AP+zHVGGJyTh0pHqxxnLygRr5XMmu8+vBniked15AoHamp2iDf1mKP2KH0FhJK7aVsChWE8k17bVJBUiBJ2NbbyVQjwmdgnXs7WjsJyijdk/1ULWC+R1WRo5XB24LZNE4Wi73BUqhCmVTZOJCS0HNxLQkQ6xbPhvByaV25rJPDde7pUOq0ONSs7CGMDKy2oQd1XhoivzKc1Q08H7s7FpByUBTjSoFPWc+Xcx9W9v7O1UhaEDyCBVJm4yCvOC6dj1arxEA3ZiRhqmlrySy7baPbZHXYzWBpAtXoUPK4FiW9EgSACDf/1BSUU40drOV/Gnf45VGKA==;rsUev52aATrzcui4lW5TyQ=="
 ---

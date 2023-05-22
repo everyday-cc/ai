@@ -271,15 +271,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
-  - title: "Proven Robotics integrates ChatGPT with Pepper humanoid robot"
-    excerpt: "The integration offers several benefits including improving Pepper’s natural language understanding and encouraging flexible and personalized communication"
-    publishedDateTime: 2023-05-17T13:52:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/proven-robotics-integrates-chatgpt-with-pepper-humanoid-robot-th35agfm"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 34
   - title: "Apple reportedly bans some employees from using ChatGPT as it works on its own AI model"
     excerpt: "Apple Inc. has banned some employees from using OpenAI LP’s ChatGPT artificial intelligence service, according to a new report. The Wall Street Journal reported the development late Thursday, citing sources and an internal Apple document."
     publishedDateTime: 2023-05-19T17:30:00Z

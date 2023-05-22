@@ -24,17 +24,6 @@ images:
     height: 467
     isCached: true
 
-related:
-  - title: "Beyond the Spectrum: Machine Learning Unlocks Predictive Power in Organic Chemistry Research"
-    excerpt: "Scientists have developed a machine-learning algorithm that predicts electron energy levels in organic molecules. This breakthrough, trained on a database of over 22,000 molecules, could accelerate the design of functional molecules like pharmaceuticals."
-    publishedDateTime: 2023-05-17T14:00:00Z
-    webUrl: "https://scitechdaily.com/beyond-the-spectrum-machine-learning-unlocks-predictive-power-in-organic-chemistry-research/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 8
-
 secured: "WYOjKkiyhxEzUVdPXiWSyEN36g2NH/qSz6lcgnCVHSWMevf74Rm5BYhSxJuRxr8hPMmuXvku6xoOvxfJNur/l5Zo5dCY1Yhkk2GV7fsdyDnVvw3Zci7qw7mBsKYBJzlX4tZPrb/6vXSRPkb3QP8ESzgaOm0NfonrfDHRefloH9wIEaOCFAG/P/9iSDNhBYldPZ5q8/wYn/VuYqwJZuYNK1zvXDGTO3xMN9eUEK590jvs8neVnAkgKRr6s7ymUNOVz2t0nRlGopjGBJpBah/RjnlGTUeHWs+xY3HDY1SfzrFuacxgpaFYamWMxucpvCr529I6eNLGFZkAPYqou3eBX77VDEaL8np/zs9MtjYfYm9JApL4JA/Y9od19IYoFj8FvL+LTht9EgVmnf6BLyb36RvgQXlmwb6AHDPpMwt0HosoSi37aHGIc2/8W25E6iq/enTfLVlZI3NYw6aqOSj9WTek34+3q0wmMdAsL4MvBM2KTsyP9jULVOk+7yY9KphasLuPldJd5QuCkXu69PaMgA==;dfDWvSmV6XYhYfN5ZakTfg=="
 ---
 

@@ -264,15 +264,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Proven Robotics integrates ChatGPT with Pepper humanoid robot"
-    excerpt: "The integration offers several benefits including improving Pepper’s natural language understanding and encouraging flexible and personalized communication"
-    publishedDateTime: 2023-05-17T13:52:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/proven-robotics-integrates-chatgpt-with-pepper-humanoid-robot-th35agfm"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 34
   - title: "Ampere Computing rides the AI, ChatGPT wave, calls for more power-conscious chips"
     excerpt: "As we develop more products we need more engineers and designers and architects. Portland is a great place to hire. And it’s a good opportunity to hire now and take advantage of current conditions,' said Ampere Computing CPO Jeff Wittich."
     publishedDateTime: 2023-05-18T12:00:00Z

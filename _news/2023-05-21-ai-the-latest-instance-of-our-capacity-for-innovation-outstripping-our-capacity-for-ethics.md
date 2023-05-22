@@ -3,8 +3,8 @@ category: news
 title: "AI the Latest Instance of our Capacity for Innovation Outstripping our Capacity for Ethics"
 excerpt: "The eagerness with which movie and television studios have proposed to use artificial intelligence to write content collides with the concern of Writers Guild members for their employment security and pay in the latest episode of technological innovation running ahead of ethical deliberation."
 publishedDateTime: 2023-05-21T16:59:00Z
-originalUrl: "https://hnn.us/article/185706"
-webUrl: "https://hnn.us/article/185706"
+originalUrl: "https://historynewsnetwork.org/article/185706"
+webUrl: "https://historynewsnetwork.org/article/185706"
 type: article
 quality: 44
 heat: -1
@@ -12,7 +12,7 @@ published: false
 
 provider:
   name: History News Network
-  domain: hnn.us
+  domain: historynewsnetwork.org
 
 topics:
   - AI Ethics
@@ -53,16 +53,7 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "How 4 Colorado companies are innovating with generative AI"
-    excerpt: "In Colorado, companies across a range of industries are working at the forefront of innovation with generative AI."
-    publishedDateTime: 2023-05-17T13:48:00Z
-    webUrl: "https://www.bizjournals.com/denver/news/2023/05/17/colorado-companies-innovate-generative-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
-secured: "5uhXE6Y7nqbqncST+TXERgOt2Bi5YSoENsCfO8TYQqxNUqtjmikZb0P/XJx/3Tv6Ik+QDhvOOg9xCEK4AKVoJsWmUHJrbsxUSciqTbYlElJn9AtHSiMswKZw2U9hbUvCTzKVZVo+BPbbVAcOMTQrta8bkhzrKPdSmUWH50K4oCA37AC2HOBAJqu82ZuEmp7hwSgwND6P6pNEiQaiFzr+RvKwe10yBEDHy449j+po8zoC1V9W1Qrv5UmHpbK1sHOS3AYh6Sx3iYsAqokOLsplYPCxxRNGguUB2b0HiBUezvNdVAXRXYmUybQ5fS5wVsXqT//BXuX69h7Owv0SChmzuGJ5ReuVYKLfbSm5TolEqZ4=;59R5EA8/T32QLjHOSgsUVQ=="
+secured: "Rx9V9yXL2M1GVo3q5PkBoxKLGCzMUyuVrdiZm2r+8eabjtF5ccC6Zg+N6EtYugfXRvnHrBJXjvn7BnoJUEfkGDZkd+FnefFOTdtX6cEavG/edYLnQy2MgKTdUDATyCRIhUYv9yUJAa64kpfKPWKp5uUT1VRoFJIIpg/UxxPogUp2cbS3g8mB3xYYkkkKhbQiiyGnpBXsUigKP3qQGHvnhHTeZ9LD/hcoKXF685VHH9xQkmDpxcIhhGQp54HsCdZnJAYISm/IzK8NQb+S2W/xEwDIvOo8pAayCAAmqbR5GB9S0+ETRrgO4p0YYwNXMbuBy5o6XD08FiU6kPcfi/De8jkJFVFv5AY2xUYS4zhwVCQ=;MMTVL3JJdTzdg55rcgjBTw=="
 ---
 

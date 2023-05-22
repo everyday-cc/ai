@@ -1,17 +1,15 @@
 ---
 category: news
 title: "Computer Vision software developer VisualCortex joins Axis Technology Partner Program"
-excerpt: "VisualCortex joins Axis Technology Integration Partner Program to deliver computer vision software and video analytics solutions to Axis Communications' global network of customers and partners ..."
-publishedDateTime: 2023-05-11T04:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/05/n32332541/computer-vision-software-developer-visualcortex-joins-axis-technology-partner-program"
-webUrl: "https://www.benzinga.com/pressreleases/23/05/n32332541/computer-vision-software-developer-visualcortex-joins-axis-technology-partner-program"
-ampWebUrl: "https://www.benzinga.com/amp/content/32332541"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32332541"
+excerpt: "VisualCortex joins Axis Technology Integration Partner Program to deliver computer vision software and video analytics solutions to Axis Communications' global network of customers and partners across 50 countries SYDNEY and LUND,"
+publishedDateTime: 2023-05-11T06:40:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/05/11/9812159.htm"
+webUrl: "https://it.tmcnet.com/news/2023/05/11/9812159.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
@@ -23,6 +21,6 @@ images:
     height: 225
     isCached: true
 
-secured: "ldIKitniht6CaMPoF8wwu4Tqdu0GySAAqYEvcBJ+L3b+TmXrTewkBrGydJGt8HgJyskVdDGTZ2Eed3iLExDFjtUE7lBmAmx4igoYy+4ZaDaCgZumu/BdmzXf9wTYqpKJtnzhRL41GSbJfwLR8umtBggWKis4TR+hvohieWvyrvG+emF0n+5S/DmYzrN96Ar9Fxg781KMX93GCMfJThIrIBKxSruyWDusxPA7aWaGRmrXzmCjKUiqqKxGqjnDL0ebiX49Duvb1a0T4ut0FmpOh1+eykVrsZ8VyRDVrPgK5jXe3dSdZ1DDvyR7dZ2Hi++FUzGOwUDTZbG8Id4Gw+/CyVDDPlB0ZTFBBexsSFj23eI=;/geohyglAvEDQA9MZ8xdWA=="
+secured: "ETAAbyzjQVl7QNKay8xFA6pcUQ8DJPTjCOlgDzTZwtoeI6xtcFS5Aa+4CrnWIK+JnTp5u0z8NgSq2Z308Jf9FJcBinspAldJPLo8qg9Umud8hCz75REOr7riE0QnQvPj7qFI43/wTIpBxuzAjDmXixol3F3yIWYvCHDP2nnMZnStNHnNT70OOyDoUxj8xB7UESGITr0Wa8hdjRasn2TPNmvv0A4IYsjEAxaCmIks4zrXnfaPj+lyDIcdOYXeIs9AcvBg4P7s9y2fR1PGnMSUaAHD1aM9x28CrhNnZbJkg5qsij1Q1FLSSXeFJ4bxXaeGICmpFVy6+6WLHRjHsUCZdyoydEY+y/TSEwLLH41OtXg=;guWwkuTlzbtyr9fJHAlx1Q=="
 ---
 

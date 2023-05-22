@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/05/18/tech/bennet-digital-regulator-bil
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.designnews.com/sites/designnews.com/files/sensor%20on%20car.jpg"
         width: 3080
         height: 1601
-        isCached: true
-  - title: "OpenAI proposed license to regulate AI, Baidu urges self content moderation"
-    excerpt: "Meanwhile, instead of concerning the lost jobs and artist rights, China-based Baidu, which launched Ernie Bot in March, focused more on socially and politically sensitive disinformation."
-    publishedDateTime: 2023-05-17T14:16:00Z
-    webUrl: "https://www.digitimes.com/news/a20230517VL202/ai-baidu-chatgpt-openai.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230517vl202_files/1_2b.jpg"
-        width: 1280
-        height: 853
         isCached: true
 
 secured: "mGCRthJAorIA1fjbvFzQl4X//b5w5IgdZqq0Su8jJEo5brS7jzFjXgjCnvKnX+eP8Mf7QWmho/2FB2mFmf2sQ3ggBaAdgQZ4wJgPRcvkJnOgEv/AbO4q4R0tFe8hkkemc7t/gBeCHR+ZNFrER2BZ4keo9F+ClJbdrDqN6CKD8UEZ7euHqQ1O3MbfGL02IpLQXVMeftNqTd/z/DntTAo7/MvkACThPEveCGoAfxVb9CQbLCtAywOAEKnr5hQl5ksqWNzprof+FYJmexGY1aS3NsCqmJb8N87Y9SbMoHZEAEtSTRF6IOELrmosb1RbTR+9Z7e9E9Opu+D32fp//fm/IOHW8ESR58OMbEucF6N9ewklODnEUMMv8c18Dm8XfRD0seFiOue3V/V0KVMh6DZ/3tt45xJ9XgCtVHJ18qu2U/OtrYRwdKqc0i0v+JhivIlfs9IUxsoq2gwy81/lJ6zn9xRnWdcIExr8CdBF1H9K68aSjMkYgupCiVwEO2GV/J8M3WMVMA7vKaef9XvFafQPIA==;LIIoXLlEpitlYWWmNcXR5g=="

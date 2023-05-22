@@ -52,17 +52,31 @@ related:
         isCached: true
   - title: "TSA tries out facial recognition technology at 16 U.S. airports"
     excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through -- all without having to hand over their identification to the TSA officer sitting behind the screen."
-    publishedDateTime: 2023-05-21T07:46:00Z
-    webUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+    publishedDateTime: 2023-05-21T07:41:00Z
+    webUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
     type: article
     provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
+      name: Northwest Arkansas Democrat Gazette
+      domain: nwaonline.com
     quality: 54
     images:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204387909_1G2facial0521_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 400
+        isCached: true
+  - title: "TSA tests facial recognition at more airports, raising concerns on privacy"
+    excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"
+    publishedDateTime: 2023-05-22T07:10:00Z
+    webUrl: "https://www.stltoday.com/tsa-tests-facial-recognition-at-more-airports-raising-concerns-on-privacy/article_105201df-9846-5ebb-b88a-64277b9fc900.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 52
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/b8/3b86fda3-16e1-56fb-944d-a3b12481b1fb/646b155acd51a.image.jpg?crop=887%2C466%2C0%2C63&resize=887%2C466&order=crop%2Cresize"
+        width: 887
+        height: 466
         isCached: true
 
 secured: "8xPunaiKPovStu+e0A04+SW1kaDLMcDcn06d8A6UWjsK92LVncuDUdKApH4A1VkrT1uATij+X2xq9Eq2icefhCs/kB5BQNGsPcTQFkRwF3+CfVgLJC18MgJAeQEEod8vgGhutEKA9iM+cdeDtRO2JQZKNBraclj/+nCe+Vx8hekxcXQByID3K951mybtmthjnB2EjtiVfgWqPzjvAS+dTp84ZE22gbVcnPua5EgNG+o6WJxDED6hsiNH9HQEsZyFqTn+Ly/4vF1n3USEMovl9pTw5m9IwPGUx7btAn1MEVcEApJIGBjInBtqkC6LhMAr/xWiEU2gy+620gfMvejHwlKH+6XTv9lODroQPArUzc9l23J8vCnJmzI/hNN4DRBb2c0YwNmCu1TtZiO7R6V//+1ejNuwp1Bi1dA4LUJc1fPFwmkI4eyvMxIaQYN3Q0ofheTAwQc1y51brAkCvcMqMfKTTU1TOqCrxdpmeAfVrMfXSLPtHyfUHo5b2dZwhysO5EUqa3cGgUMQSoNHP1AdoA==;Egz1pmOVjCa+pFbHpIZWcQ=="

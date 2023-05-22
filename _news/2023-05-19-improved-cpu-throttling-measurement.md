@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/improved-cpu-throttling-measurement/"
 webUrl: "https://www.ibm.com/blog/improved-cpu-throttling-measurement/"
 type: article
 quality: 102
-heat: 103
+heat: 102
 published: true
 
 provider:
