@@ -2,6 +2,152 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-20-the-senates-hearing-on-ai-regulation-was-dangerously-friendly.md",
+      "title": "The Senate’s hearing on AI regulation was dangerously friendly",
+      "excerpt": "who is now chief ethics scientist at Hugging Face. “This would be a straightforward way to bring ‘responsible AI’ into a legal structure.” Mitchell added that good regulation depends on setting standards that firms can’t easily bend to their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/5/19/23728174/ai-regulation-senate-hearings-regulatory-capture-laws",
+      "originalUrl": "https://www.theverge.com/2023/5/19/23728174/ai-regulation-senate-hearings-regulatory-capture-laws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/WoGkXMr05zDidN5UuaGgC3cGRww=/884x106:5313x2694/1200x628/filters:focal(2967x1658:2968x1659)/cdn.vox-cdn.com/uploads/chorus_asset/file/24667929/1490690420.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-19T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead.md",
+      "title": "Will AI Kill Human Creativity? What Fake Drake Tells Us About What’s Ahead",
+      "excerpt": "In this article I’ll consider implications of AI-generated music for what I see as the inevitable creative class wars against AI, and what it means for us all.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brianuzzi/2023/05/19/will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead/",
+      "originalUrl": "https://www.forbes.com/sites/brianuzzi/2023/05/19/will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6467d47a9748b3776441e295/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brianuzzi/2023/05/19/will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2023/05/19/will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead/amp/",
+      "publishedDateTime": "2023-05-19T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-introducing-an-image-to-speech-generative-ai-application-using-amazon-sagemaker-and-hugging-face.md",
+      "title": "Introducing an image-to-speech Generative AI application using Amazon SageMaker and Hugging Face",
+      "excerpt": "Vision loss comes in various forms. For some, it’s from birth, for others, it’s a slow descent over time which comes with many expiration dates: The day you can’t see pictures, recognize yourself, or loved ones faces or even read your mail. In our previous blogpost Enable the Visually Impaired to Hear",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-an-image-to-speech-generative-ai-application-using-amazon-sagemaker-and-hugging-face/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-an-image-to-speech-generative-ai-application-using-amazon-sagemaker-and-hugging-face/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-19T11:11:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-20-microsoft-bing-ai-chat-widgets-how-to-get-them-on-ios-and-android.md",
       "title": "Microsoft Bing AI Chat Widgets: How to Get Them on iOS and Android",
       "excerpt": "Microsoft launched artificial intelligence-powered search on Bing 100 days ago, celebrating the milestone with a few updates to the system this week. One of those is adding a chatbot widget for phone screens across both iOS and Android.",
@@ -216,7 +362,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 207,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -609,7 +755,7 @@
       "originalUrl": "https://blog.google/technology/ai/a-policy-agenda-for-responsible-ai-progress-opportunity-responsibility-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -714,7 +860,7 @@
       "originalUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Infogain-NAVIK-Sales-and-NAVIK-Marketing-Now-Available-in-the-Microsoft-Azure-Marketplace-158740.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1067,142 +1213,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-tech-up-on-ai-optimism-tech-roundup.md",
-      "title": "Tech Up on AI Optimism -- Tech Roundup",
-      "excerpt": "Shares of technology companies rose amid optimism about artificial-intelligence products. Storage software maker Snowflake rallied after reports it was",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tech-up-on-ai-optimism-tech-roundup-77d7ab6c",
-      "originalUrl": "https://www.marketwatch.com/story/tech-up-on-ai-optimism-tech-roundup-77d7ab6c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-up-on-ai-optimism-tech-roundup-77d7ab6c",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-up-on-ai-optimism-tech-roundup-77d7ab6c",
-      "publishedDateTime": "2023-05-18T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-microsoft-india-adds-4-new-languages-to-translator.md",
-      "title": "Microsoft India adds 4 new languages to Translator",
-      "excerpt": "Microsoft India on Thursday announced the addition of three new Indian languages -- Konkani, Maithili, and Sindhi, in Translator along with Sinhala, the official language of Sri Lanka.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestatesman.com/technology/microsoft-india-adds-4-new-languages-to-translator-1503182658.html",
-      "originalUrl": "https://www.thestatesman.com/technology/microsoft-india-adds-4-new-languages-to-translator-1503182658.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestatesman.com/wp-content/uploads/2021/07/MicrosoftiStoc.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestatesman.com/technology/microsoft-india-adds-4-new-languages-to-translator-1503182658.html/amp",
-      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/microsoft-india-adds-4-new-languages-to-translator-1503182658.html/amp",
-      "publishedDateTime": "2023-05-18T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Statesman",
-        "domain": "thestatesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-ai-error-leads-college-instructor-to-wrongly-accuse-students-of-cheating.md",
-      "title": "AI error leads college instructor to wrongly accuse students of cheating",
-      "excerpt": "A professor at Texas A&M University-Commerce accused students of cheating in their final paper by using ChatGPT, but it turns out he was incorrect. NBC News’ Jacob Ward reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/ai-error-leads-college-instructor-to-wrongly-accuse-students-of-cheating-174842437808",
-      "originalUrl": "https://www.nbcnews.com/now/video/ai-error-leads-college-instructor-to-wrongly-accuse-students-of-cheating-174842437808",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684440924174_now_daily_b_ward_texasam_230518_1920x1080-opfxt9.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174842437808",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174842437808",
-      "publishedDateTime": "2023-05-18T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

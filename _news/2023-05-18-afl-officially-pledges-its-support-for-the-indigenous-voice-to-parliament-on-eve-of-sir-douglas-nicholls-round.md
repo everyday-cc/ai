@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Rugby Australia joins push to endorse Voice"
-    excerpt: "Australia’s major football codes are putting rivalry aside to endorse the creation of the Voice to parliament."
-    publishedDateTime: 2023-05-17T11:30:00Z
-    webUrl: "https://www.afr.com/companies/sport/rugby-australia-joins-push-to-endorse-voice-20230517-p5d94q"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.2736%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_352%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/a685fc7faad78299da134c3157922e68dfaebe40"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "AFL and Rugby Australia publicly support the Voice to Parliament"
     excerpt: "The high-profile codes have followed the lead of the NRL, Football Australia, the Australian Olympic Committee and Tennis Australia."
     publishedDateTime: 2023-05-18T03:03:00Z

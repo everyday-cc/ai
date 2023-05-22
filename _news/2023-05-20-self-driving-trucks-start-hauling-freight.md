@@ -55,6 +55,36 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Chinese search giant Baidu reports better-than-expected earnings and looks to the future with ChatGPT-style services"
+    excerpt: "Baidu, which operates China’s biggest search engine and is an artificial intelligence (AI) pioneer, beat revenue estimates for the first quarter in the company’s first earnings report since it ..."
+    publishedDateTime: 2023-05-18T02:52:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3220746/chinese-search-giant-baidu-reports-better-expected-earnings-it-refocuses-chatgpt-style-services"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3220746/chinese-search-giant-baidu-reports-better-expected-earnings-it-refocuses-chatgpt-style-services"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3220746/chinese-search-giant-baidu-reports-better-expected-earnings-it-refocuses-chatgpt-style-services"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 66
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/05/16/67533885-321f-4093-8917-74b9f8e9db85_5395d865.jpg?itok=fPhWhJ6M&v=1684230577"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Apple engineer steals secrets on self-driving cars and flees to China, US feds say"
+    excerpt: "A former Apple engineer accused of absconding from the company with trade secrets on self-driving cars fled to China, federal officials reported."
+    publishedDateTime: 2023-05-22T05:08:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/05/22/apple-engineer-steals-secrets-on-self-driving-cars-and-flees-to-china-us-feds-say"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 18
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/22/2084800.JPG"
+        width: 1240
+        height: 852
+        isCached: true
 
 secured: "DscbLfRrdKYX7oxJmbAuoYk6C69dHiH54EqR4i5fDW8gYt4e6IG4bgna7hiuFE+MWitt1vcLtznVCITgj7Ug00zqg7I/5TmQA7d9bnkv6u0kiFNMBtqqIXUj4y0LlpSI9sdTcXa2DvXJNiZE6ecul6+oruJfyswWlKk3XWiWf5QCwqxDcF/yARE+8D6yXSfl5xFFA39sF7EkUXfol4paLyoUu7J+iTQZjejagffWulzbnhbWtdU/RP5EpJ477QidkAbK+PFPGjKB5Yun6PQE/ocxPPl6gZzgriViVbAMe94m/UULOCs6oIz9WYKYnpQATYV3AWVy/xmiEbS4KMwpmpYnqxcpvl8E+HvNekFqrvVZ0n0VoNjNp49x0PW4sjyOxbjm5faphmQmy2QWkc/E06GOwr0AGsKUzORt2h10hLxAj64e8ViZ5Lo0Do4C5XESnm5PZilOyzJhRKBJZOtn3AxpNqZAv8sUBaxiExhx9GdYV8Hvh6M6lOqFWzcWsyhOJhgatUGYv2XiMfYnz2mdwA==;/n/Lno103FE5vDtHhEbZYA=="
 ---

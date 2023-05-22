@@ -35,6 +35,15 @@ related:
         width: 480
         height: 610
         isCached: true
+  - title: "Infogain AI Business Solutions Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to three NAVIK AI solutions to take advantage of Azure scalability, reliability, and agility to shape business strategies. NAVIK is an AI platform that addresses the breadth of AI solution needs ..."
+    publishedDateTime: 2023-05-18T20:14:00Z
+    webUrl: "https://www.01net.it/infogain-ai-business-solutions-now-available-in-the-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 45
   - title: "Check Point Software extends its Industry-Leading Cloud Firewall to Secure Microsoft Azure Virtual WAN"
     excerpt: "Check Point® Software Technologies Ltd. (NASDAQ: CHKP), a leading provider of cyber security solutions globally, announces the general availability of its industry-leading Next-Generation Cloud Firewall natively integrated with Microsoft Azure Virtual WAN to provide customers with top-notch security."
     publishedDateTime: 2023-05-18T21:27:00Z
@@ -45,6 +54,6 @@ related:
       domain: tmcnet.com
     quality: 18
 
-secured: "j2yshc75v9sAAnuhQ9jhPsRpCjZdH5B/5vwuKB3kqgNRmIhEh8+CcL0Jv5bWaRtdXy23jr/wpOVABl7IAcpM1z6XeHWq06VAw2XDhjgBcBmyDBqO60CFOV6F6xJeOw6N61ZTAsDuyNKwaMLukvjhTRkqkUpkSNMyQRkTV1roNbSryJuqj4VufqwGYq+94sK5EWL/2sjxImkeVlMC02uizZZi2vInwrvxHvqZ9xSrYq9fGm11DD9smW8+9SCzz7zsucgoAlScJbbNBmWiF3M0uBcSOjrVKGDYlxJ7XBm/HI7D35Q8WGaFWejGN2nO5TEPI3VkxtjnHTl4CEkizhkykj3ScnD5Y05miV5M+Nj4vUA=;/f/G29hU/7nlieu7/PSevA=="
+secured: "g1RnUOLIaEyyaKR8jCsdWUDklNDV4WJsG7GpGXdegJnhHQ2HfP81ObEeloWN7BCVA9ZB4hqcq5Kno5KhGfAEAf1ppqwHM//bmlirIMsEL6u3H9e1Vwj0LMa0NBF/snTE9RK/3C9QpGEUu5UZiOK9ep3+q3tTpBfy27Ubuilq9SW2AOPdMDyaWU83cnxfEuBZ2Q2AXOO0qYei6KZeX6Vhw1oIDdaZNn8KIf/94IdJBhIvEM9yYcI+C/1bvPW1ugXQdVvq6rip6E/7gmycCW6GuOdveQZggU/V9aNEsIQmyDPr6jY7QFbX/oA6x9/onIIt4Dpkjg6sfn3WMYOzWKT0AIZ19KgjcPVkWqhtvW0IEZI=;wh3yH398huQiG3ZkRjwAcA=="
 ---
 

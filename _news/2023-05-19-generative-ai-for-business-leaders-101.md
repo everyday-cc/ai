@@ -85,22 +85,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Apple's Neural Engine and the generative AI game"
-    excerpt: "While Apple’s pre-WWDC assistive technology announcements could be life-changing in their own right, one hidden element is the extent to which they exploit the powerful Neural Engine at the heart of Apple Silicon."
-    publishedDateTime: 2023-05-17T13:01:00Z
-    webUrl: "https://www.computerworld.com/article/3696281/apples-neural-engine-and-the-generative-ai-game.html"
-    ampWebUrl: "https://www.computerworld.com/article/3696281/apples-neural-engine-and-the-generative-ai-game.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3696281/apples-neural-engine-and-the-generative-ai-game.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/01/09/steve_jobs_theater_apple_park-100931864-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "‘Generative AI can be seen; it’s more cool than traditional AI’"
     excerpt: "Generative AI and transformers (that help predict the next word or a sentence, and even a para) were not invented to perform physical stuff. They were invented to understand languages better. Images and videos are only a by-product of that."
     publishedDateTime: 2023-05-20T05:56:00Z

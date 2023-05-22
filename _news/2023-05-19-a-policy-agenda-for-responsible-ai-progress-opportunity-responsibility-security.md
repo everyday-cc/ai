@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/a-policy-agenda-for-responsible-ai
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/a-policy-agenda-for-responsible-ai-progress-opportunity-responsibility-security/amp/"
 type: article
 quality: 120
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "With Great AI Comes Great Responsibility"
-    excerpt: "For all its advantages, AI has pitfalls that companies need to acknowledge as they chart a course for implementing it in meaningful and beneficial ways."
-    publishedDateTime: 2023-05-17T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/05/17/with-great-ai-comes-great-responsibility/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/05/17/with-great-ai-comes-great-responsibility/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/05/17/with-great-ai-comes-great-responsibility/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6463b53e4cc804d79fc2ff1a/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "‘Moral responsibility’: Can blockchain really improve trust in AI?"
     excerpt: "AI is developing at breakneck speed, but even its developers have a hard time explaining how it works. Can blockchain help solve this problem?"
     publishedDateTime: 2023-05-18T13:35:00Z

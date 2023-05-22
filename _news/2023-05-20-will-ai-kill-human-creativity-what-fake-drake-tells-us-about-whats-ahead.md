@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/brianuzzi/2023/05/19/will-ai-kill-human
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2023/05/19/will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead/amp/"
 type: article
 quality: 85
-heat: 97
+heat: 95
 published: true
 
 provider:

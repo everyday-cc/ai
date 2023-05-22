@@ -89,22 +89,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Apple's Neural Engine and the generative AI game"
-    excerpt: "While Apple’s pre-WWDC assistive technology announcements could be life-changing in their own right, one hidden element is the extent to which they exploit the powerful Neural Engine at the heart of Apple Silicon."
-    publishedDateTime: 2023-05-17T13:01:00Z
-    webUrl: "https://www.computerworld.com/article/3696281/apples-neural-engine-and-the-generative-ai-game.html"
-    ampWebUrl: "https://www.computerworld.com/article/3696281/apples-neural-engine-and-the-generative-ai-game.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3696281/apples-neural-engine-and-the-generative-ai-game.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/01/09/steve_jobs_theater_apple_park-100931864-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Study combines quantum computing and generative AI for drug discovery"
     excerpt: "Insilico Medicine, a clinical stage generative artificial intelligence (AI)-driven drug discovery company, today announced that it combined two rapidly developing technologies, quantum computing and generative AI,"
     publishedDateTime: 2023-05-19T13:54:00Z

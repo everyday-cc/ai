@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Self-driving cars will cause ‘moral panic’, says transport minister"
-    excerpt: "A “moral panic” will be caused by the use of self-driving vehicles on public roads, a transport minister has warned. Jesse Norman told MPs that a “horrendous” part of the development of the technology will be “scare stories, particularly in the ..."
-    publishedDateTime: 2023-05-17T12:55:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/05/self-driving-cars-will-cause-moral-panic-says-transport-minister/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 4
 
 secured: "dmPoMSh7PgIgnlUcCNevBG0Mxk33oU330Vyp7O0l/yxrHA2RaDLytI5MxZ1f+gCTwNCykCnaFtEIn2v4Uigr6sSjHrKWuIyzhDJENux24wKI7/VZ4a1JmheyuiCvLQ0oo/4c9Q3Q33UarRoXFYlnYdadzhNgT2RYV6e9x3ocBnUI7dIbCFBJdWBT3KajjBISsUgzM1cDkEQr4V4db6LWhiJWB5so5TBrR0CdJjDjzn9iTthIKhqTGv3wVw4QkxmHZtH2oGpiJJKd8SFjbT94Q75hBIv8UxcVOHGv2nyVS8eq7F41qfdCA2XirzLdVm3VPSf2libRoRYVyO57V/3M6zbiVgRPpOdoBtt0QfTRC7M=;hgPsNF2Jnrux45wLGsXaKA=="
 ---

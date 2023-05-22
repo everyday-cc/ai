@@ -51,20 +51,6 @@ related:
         width: 1008
         height: 672
         isCached: true
-  - title: "Police to use controversial facial recognition software at Beyonce’s first UK concert"
-    excerpt: "Police will use live facial recognition software to scan crowds attending Beyonce’s first UK tour date in Cardiff. The global star kicks off the UK leg of her Renaissance World Tour at the city’s Principality Stadium – her first tour in seven years."
-    publishedDateTime: 2023-05-17T12:53:00Z
-    webUrl: "https://www.aol.com/police-controversial-facial-recognition-software-121252139.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 32
-    images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/b17e0c4f914466ecee3cc445950e040f"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "YHSnap7mfJqLIoHD3dkYHkoG7HiQizUjUNVGoI+ZbVtrmNVWm42rKve8Cphro9bbwNGDQ1JBpmpG191jx7vLsz5NahP9IAtSU4SFOHYqZMTv0mQQNr5EupR179zwfgEHVINvav2gyfX8KU39PiXg1v4bjGEopKa1qGSYLYc0mUIr90sYhbgKfMt/RQlgGPA609I+dRqK/I1+vQFhXOOkmWoH78j6OdeU30ZI15c1MHPLCDXoYyUn/jpmIS6X7M90/nsW8UPj5Lj2lPkdNY7I5KaB0LfDBmGYb8nedx5tusSvtP6ZGsxkK2RTnuB4VDKUxH6RwyJ1LC11I/7of3OxgXtNX6KqoCUfUT4YqnhZwRo=;VES34eLM4I4ju8/ViIFnRw=="
 ---

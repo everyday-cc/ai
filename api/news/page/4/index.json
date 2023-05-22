@@ -2,6 +2,160 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-18-seven-mistakes-to-avoid-when-leveraging-ai-in-your-customer-journey.md",
+      "title": "Seven Mistakes To Avoid When Leveraging AI In Your Customer Journey",
+      "excerpt": "While there is no doubt that AI tools, such as chatbots, are seeing broad adoption in the contact center, there are still several pitfalls CX leaders can avoid when choosing and implementing AI tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/seven-mistakes-to-avoid-when-leveraging-ai-in-your-customer-journey/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/seven-mistakes-to-avoid-when-leveraging-ai-in-your-customer-journey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6464db34f1c65ed2777a7422/0x0.jpg?format=jpg&crop=6834,3839,x2336,y0,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/seven-mistakes-to-avoid-when-leveraging-ai-in-your-customer-journey/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/18/seven-mistakes-to-avoid-when-leveraging-ai-in-your-customer-journey/amp/",
+      "publishedDateTime": "2023-05-18T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-how-could-artificial-intelligence-impact-cybersecurity.md",
+      "title": "How Could Artificial Intelligence Impact Cybersecurity?",
+      "excerpt": "Artificial intelligence (AI) has entered the chat in almost every industry in 2023. From art and creativity to cybersecurity, data protection and the ethical use of technology, AI is taking society by storm, with no signs of stopping anytime soon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-could-artificial-intelligence-impact-cybersecurity/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-could-artificial-intelligence-impact-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62fe3f02288da371535f25e6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-could-artificial-intelligence-impact-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-could-artificial-intelligence-impact-cybersecurity/amp/",
+      "publishedDateTime": "2023-05-18T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-mitigating-dark-web-risks-the-role-of-ai-and-machine-learning.md",
+      "title": "Mitigating Dark Web Risks: The Role Of AI And Machine Learning",
+      "excerpt": "As artificial intelligence and machine learning are becoming increasingly important in the fight against cybercrime, security leaders should consider a range of tools to safeguard themselves.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6464d9377c567a5a9746245d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/amp/",
+      "publishedDateTime": "2023-05-18T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-scaling-human-kindness-in-the-age-of-ai-a-new-kind-of-israeli-startup.md",
       "title": "Scaling Human Kindness In The Age Of AI: A New Kind Of Israeli Startup",
       "excerpt": "In this age of dizzying technological innovation, no one has invented the technology to scale human capital. a humanitarian startup aims to scale kindness",
@@ -209,6 +363,57 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-us-senator-introduces-bill-to-create-a-federal-agency-to-regulate-ai.md",
+      "title": "US senator introduces bill to create a federal agency to regulate AI",
+      "excerpt": "Days after OpenAI CEO Sam Altman testified in front of Congress and proposed creating a new federal agency to regulate artificial intelligence, a US senator has introduced a bill to do just that.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html",
+      "originalUrl": "https://www.cnn.com/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230517144152-senator-michael-bennet-file-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html",
+      "publishedDateTime": "2023-05-18T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -521,7 +726,7 @@
       "originalUrl": "https://www.theatlantic.com/newsletters/archive/2023/05/altman-hearing-ai-existential-risk/674096/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -625,7 +830,7 @@
       "originalUrl": "https://www.theverge.com/2023/5/17/23726769/apple-baidu-self-driving-trade-secrets-stolen",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -779,7 +984,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/17/20-amazing-and-free-data-sources-anyone-can-use-to-build-ais/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1049,196 +1254,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-cardiff-beyonce-concert-face-recognition-use-criticised.md",
-      "title": "Cardiff Beyoncé concert: Face recognition use criticised",
-      "excerpt": "Thousands of fans attending the Beyoncé concert in Cardiff could be scanned by live face recognition cameras deployed in the area by South Wales Police. The cameras will help identify people wanted for \"priority offences\". Police also used the cameras at the Coronation, but the technology has been criticised by human rights campaigners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/uk-wales-65622404.amp",
-      "originalUrl": "https://www.bbc.co.uk/news/uk-wales-65622404.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/9AC0/production/_129761693_microsoftteams-image.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/uk-wales-65622404.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-wales-65622404.amp",
-      "publishedDateTime": "2023-05-17T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-las-vegas-airport-testing-facial-recognition-to-screen-passengers.md",
-      "title": "Las Vegas airport testing facial recognition to screen passengers",
-      "excerpt": "The TSA says the security program is voluntary and accurate, but critics have raised concerns about bias in facial recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reviewjournal.com/business/las-vegas-airport-testing-facial-recognition-to-screen-passengers-2777726/",
-      "originalUrl": "https://www.reviewjournal.com/business/las-vegas-airport-testing-facial-recognition-to-screen-passengers-2777726/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reviewjournal.com/wp-content/uploads/2023/05/17778613_web1_AP23116691165190.jpg?w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.reviewjournal.com/business/las-vegas-airport-testing-facial-recognition-to-screen-passengers-2777726/amp/",
-      "cdnAmpWebUrl": "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/las-vegas-airport-testing-facial-recognition-to-screen-passengers-2777726/amp/",
-      "publishedDateTime": "2023-05-17T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Las Vegas Review-Journal",
-        "domain": "reviewjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-healthcare-bi-market-size-share-trends-analysis-report-2029-aimr.md",
-      "title": "Healthcare BI Market Size, Share & Trends Analysis Report 2029| AIMR",
-      "excerpt": "Moreover, the emergence of big data analytics, artificial intelligence, and machine learning technologies in healthcare is expected to drive the growth of this market in the future. Opportunities and Threats in Healthcare BI Market The Healthcare BI Market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-bi-market-size-share-trends-analysis-report-2029-aimr-2023-05-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-bi-market-size-share-trends-analysis-report-2029-aimr-2023-05-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-ai-driven-personalization-at-scale-the-key-to-boosting-fintech-customer-engagement-and-revenue.md",
-      "title": "AI-driven personalization-at-scale: The key to boosting fintech customer engagement and revenue",
-      "excerpt": "Learn how top fintechs are delighting customers and building strong relationships with AI-enabled platforms and data sources in this VB Spotlight. Register to watch free on-demand! “There’s a direct correlation between customers loving your products ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-driven-personalization-at-scale-the-key-to-boosting-fintech-customer-engagement-and-revenue/",
-      "originalUrl": "https://venturebeat.com/ai/ai-driven-personalization-at-scale-the-key-to-boosting-fintech-customer-engagement-and-revenue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/AdobeStock_155767679.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-driven-personalization-at-scale-the-key-to-boosting-fintech-customer-engagement-and-revenue/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-driven-personalization-at-scale-the-key-to-boosting-fintech-customer-engagement-and-revenue/amp/",
-      "publishedDateTime": "2023-05-17T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

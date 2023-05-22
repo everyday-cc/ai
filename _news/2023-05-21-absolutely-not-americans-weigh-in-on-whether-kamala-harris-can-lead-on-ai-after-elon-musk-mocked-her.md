@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/absolutely-not-americans-weigh-kama
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/absolutely-not-americans-weigh-kamala-harris-lead-ai-elon-musk-mocked.amp"
 type: article
 quality: 71
-heat: 73
+heat: 75
 published: true
 
 provider:

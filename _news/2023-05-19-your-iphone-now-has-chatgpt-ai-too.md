@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Inside ChatGPT: How AI chatbots work"
-    excerpt: "Large language models like ChatGPT use a complicated series of equations to understand and respond to your prompts. Here’s a look inside the system."
-    publishedDateTime: 2023-05-17T12:00:00Z
-    webUrl: "https://www.nbcnews.com/data-graphics/chat-gpt-artificial-intelligence-how-chatbot-work-rcna83266"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna83266"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna83266"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230510-ai-chatgpt-explainer-static-jg-07e16a.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
   - title: "Fearing leaks, Apple restricts its employees from using ChatGPT and AI tools"
     excerpt: "According to internal sources and company documents reviewed by The Wall Street Journal, Apple has restricted its employees' use of ChatGPT and AI coding tools such as GitHub Copilot for fear of leaking confidential data to outside sources."
     publishedDateTime: 2023-05-19T16:16:00Z
@@ -188,6 +172,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "ChatGPT: Did the CEO of OpenAI voluntarily call for AI to be regulated?"
+    excerpt: "Sam Altman, the CEO of OpenAI, testified for the first time since ChatGPT exploded in popularity. Senators appeared to accept Altman’s warnings that AI could “cause significant harm to the world” and his suggestion that a new agency could set rules."
+    publishedDateTime: 2023-05-18T00:30:00Z
+    webUrl: "https://techwireasia.com/2023/05/chatgpt-did-the-ceo-of-openai-voluntarily-call-for-ai-to-be-regulated/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/063_1490690312-scaled-e1684321191850-897x500.jpg"
+        width: 897
+        height: 500
+        isCached: true
   - title: "ChatGPT/AI is coming for the workplace"
     excerpt: "Microsoft, in its latest “Work Trend Index” report, promises that the use of AI at work is the technology of that's going to make work easier"
     publishedDateTime: 2023-05-18T04:00:00Z
@@ -215,6 +213,20 @@ related:
       - url: "https://www.kxan.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
         width: 396
         height: 202
+        isCached: true
+  - title: "ChatGPT’s chief calls for new federal agency to regulate AI"
+    excerpt: "And while there’s no immediate sign that Congress will craft sweeping new AI rules, as European lawmakers are doing, the societal concerns brought Altman and other tech CEOs to"
+    publishedDateTime: 2023-05-17T15:30:00Z
+    webUrl: "https://www.airforcetimes.com/federal-oversight/congress/2023/05/16/chatgpts-chief-calls-for-new-federal-agency-to-regulate-ai/"
+    type: article
+    provider:
+      name: Air Force Times
+      domain: airforcetimes.com
+    quality: 37
+    images:
+      - url: "https://www.airforcetimes.com/resizer/mXwHQ7VIhta78WsJT7efTcguf28=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/WBTSLREOY5ER7KEUW5BJIK46PY.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Apple Bans Employees From Using ChatGPT Amid Its Own AI Efforts"
     excerpt: "Apple has restricted employee use of ChatGPT and other external artificial intelligence utilities amid the development of its own similar"
@@ -285,15 +297,6 @@ related:
         width: 960
         height: 575
         isCached: true
-  - title: "Will Artificial Intelligence really take your job? Level up with these skills to beat ChatGPT, AI"
-    excerpt: "A collection of the most-viewed Moneycontrol videos."
-    publishedDateTime: 2023-05-17T12:46:00Z
-    webUrl: "https://www.moneycontrol.com/news/videos/business/will-artificial-intelligence-really-take-your-job-level-up-with-these-skills-to-beat-chatgpt-ai-10607811.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 21
   - title: "NYC public schools opening the door to greater use of AI, loosening reins on ChatGPT"
     excerpt: "Schools Chancellor David Banks unveiled plans Thursday to offer a toolkit for teachers about artificial intelligence in their classrooms, as well as create a repository for schools to share their findings across the city."
     publishedDateTime: 2023-05-18T19:50:00Z
@@ -312,15 +315,6 @@ related:
       name: The Indianapolis Star
       domain: indystar.com
     quality: 10
-  - title: "ChatGPT on Mars: How artificial intelligence-powered chatbot can assist scientists to decode the Red Planet"
-    excerpt: "The AI-powered ChatGPT can help scientists in space to research the red planet and automate processes in the future."
-    publishedDateTime: 2023-05-17T12:24:00Z
-    webUrl: "https://yourstory.com/2023/05/chatgpt-on-mars-how-artificial-intelligence-powered-chatbot"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 1
   - title: "ChatGPT-powered Wall Street: The benefits and perils of using artificial intelligence to trade stocks and other financial instruments"
     excerpt: "Artificial Intelligence-powered tools, such as ChatGPT, have the potential to revolutionize the efficiency, effectiveness and speed of the work humans do. And this is"
     publishedDateTime: 2023-05-21T13:30:00Z

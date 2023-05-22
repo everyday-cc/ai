@@ -29,6 +29,6 @@ related:
       domain: datanami.com
     quality: 27
 
-secured: "u7yoleGCTlnctX2QT7KxXfOu+sN3nTS7fgCHYmNdnKdposzD63HjgvBi2EWyc1JfbOKTnw+HJ7jltpi7di6x+Fa82JgeWodklIRHnQb8GGmhT763thJVPBzY+KmhwgGp+3PUkjd5X5Gwc/Zx0EYZzJldNJwcKISvISOIuVf6sUu6weJDeUmOP5lhc6DDjPw09xzG1VMpxmz/C5CLAcNekrOt06lFAnGTXK7sgWPCHmNoLtOaoZpLtjuJIRKuoUK5CSaKX98vWcOWw4YffL5n+Z8Wdt6MCae+GSjmVr9yKEtvr4SbZAw00yrcsdkKGNJ3pHZ+thLq4aipdaZ5NQymuxX/jEiuQ3geo0tgD4R6Bw0=;vqOXWLYKW8aQ4r2UNi2S4Q=="
+secured: "wkG0y3Qwu+w0OX4siQDXJgoRf1ymCi+aOq8pV0onTQJSPJZ6lfPwc/SXIUPzDBGgCLn75Ja8P1p6o0gEBzmoj4Wm0ruPxt4Ccu0XBUcDRZd1KV7FmcDKbou0xdT0ZCgJe4IYLrUA7+O+pu3YCBazR0S+u140v13LZEwunzBdeNm0tg78ldoPuXgVul0SujWbHvdFPlSh8RZzidOhpYv+kdIs+FXu7VrnZ/a4Z54Rm7Xe5OV79FKVoM+Moe+aKXn5TpD/IDd4CBYNCMDNfAlOk8lg2BsOScpZvS23RNXd/KJcsXigViBJ2eAV/g0RqLlpr6WIrEJi/Pvq+gDxYZ3Ai6iFDnhvvrV/H5hF3ePvToE=;iRPLTXuuL1XFe4vaJ80OKg=="
 ---
 

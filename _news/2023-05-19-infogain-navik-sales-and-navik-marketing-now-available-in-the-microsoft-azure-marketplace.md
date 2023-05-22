@@ -7,7 +7,7 @@ originalUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wi
 webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Infogain-NAVIK-Sales-and-NAVIK-Marketing-Now-Available-in-the-Microsoft-Azure-Marketplace-158740.aspx"
 type: article
 quality: 94
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 65
+  - title: "Infogain AI Business Solutions Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to three NAVIK AI solutions to take advantage of Azure scalability, reliability, and agility to shape business strategies. NAVIK is an AI platform that addresses the breadth of AI solution needs ..."
+    publishedDateTime: 2023-05-18T20:14:00Z
+    webUrl: "https://www.01net.it/infogain-ai-business-solutions-now-available-in-the-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 45
   - title: "Check Point Software extends its Industry-Leading Cloud Firewall to Secure Microsoft Azure Virtual WAN"
     excerpt: "Check Point® Software Technologies Ltd. (NASDAQ: CHKP), a leading provider of cyber security solutions globally, announces the general availability of its industry-leading Next-Generation Cloud Firewall natively integrated with Microsoft Azure Virtual WAN to provide customers with top-notch security."
     publishedDateTime: 2023-05-18T21:27:00Z

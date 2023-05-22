@@ -25,38 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Hiding Behind the AI Apocalypse"
-    excerpt: "Damon: There was not really any talk at the hearing about the impacts of AI on labor. There were broad allusions to the idea of job loss. But there are so many specific ways that jobs are already threatened by automation today."
-    publishedDateTime: 2023-05-17T21:51:00Z
-    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/05/altman-hearing-ai-existential-risk/674096/"
+  - title: "US senator introduces bill to create a federal agency to regulate AI"
+    excerpt: "Days after OpenAI CEO Sam Altman testified in front of Congress and proposed creating a new federal agency to regulate artificial intelligence, a US senator has introduced a bill to do just that."
+    publishedDateTime: 2023-05-18T09:00:00Z
+    webUrl: "https://www.cnn.com/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html"
     type: article
     provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 67
+      name: CNN
+      domain: cnn.com
+    quality: 87
     images:
-      - url: "https://cdn.theatlantic.com/thumbor/Pmsh2bl4fBptpEm7XQ-8qcgKkmE=/0x401:5463x3246/1200x625/media/img/mt/2023/05/GettyImages_1255306219/original.jpg"
-        width: 1200
-        height: 625
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230517144152-senator-michael-bennet-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "How To Minimize Ageism Through The Use Of AI"
-    excerpt: "Artificial intelligence (AI) holds great promise in the fight against ageism, and future technologies powered by AI can be a first step to ensure older adults are fully involved in the processes, systems and,"
-    publishedDateTime: 2023-05-18T12:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/how-to-minimize-ageism-through-the-use-of-ai/"
+  - title: "OpenAI proposed license to regulate AI, Baidu urges self content moderation"
+    excerpt: "Meanwhile, instead of concerning the lost jobs and artist rights, China-based Baidu, which launched Ernie Bot in March, focused more on socially and politically sensitive disinformation."
+    publishedDateTime: 2023-05-17T14:16:00Z
+    webUrl: "https://www.digitimes.com/news/a20230517VL202/ai-baidu-chatgpt-openai.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Using AI to find rare minerals"
-    excerpt: "A machine learning model can predict the locations of minerals on Earth—and potentially other planets—by taking advantage of patterns in mineral associations. Science and industry seek mineral deposits to both better understand the history of our planet and to extract for use in technologies like rechargeable batteries."
-    publishedDateTime: 2023-05-17T18:07:00Z
-    webUrl: "https://phys.org/news/2023-05-ai-rare-minerals.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 17
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230517vl202_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "AUAXOeoIRl+aDLTfuWTJKwRtTO0Wbh1rMT6z3l98Z9xFKkk4bvTWHlVSBeCwqEhjWebCV7NDiDBN/spGcTt9SP61Y2JBVbSJ+eUW77rEdxQ91VvhpYinEOnga4q0e8XhHfpolw9eFSaTMZkBBYR4OWDLKywOqgAciksdzTYJ+7FJH1tiDMasigvcp3o6rkHMc8WddOb/1PXpOKmaXwiOfhVU/LYjjihNlL68Yvm/LlqY8ouwfr0jBoJyw4tcKGDkZZdbaHf4VCGENJeNb4hpww8Fngv3Va01Yj0z5CQV3UuIwAt3LsJHvfiX18cd8ITmthNYKEbEpD4T9ttFMrRMal7Z+Envmy5PcdNi9L3xAEE=;MC8JdNuW1NwWRqYPHkQxRA=="
 ---

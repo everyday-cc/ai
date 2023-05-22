@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/17/20-amazing-and-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/17/20-amazing-and-free-data-sources-anyone-can-use-to-build-ais/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

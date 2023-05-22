@@ -2,20 +2,20 @@
 category: news
 title: "Mosaic Data Science has been named the Top AI & Machine Learning Services Company of 2023 By CIO Review"
 excerpt: "Mosaic is thrilled to be recognized as a leader in the Artificial Intelligence & Machine Learning space ... such as professional and financial services, retail, manufacturing, CPG, and oil ..."
-publishedDateTime: 2023-05-01T13:32:00Z
-originalUrl: "https://www.sacbee.com/press-releases/article274911516.html"
-webUrl: "https://www.sacbee.com/press-releases/article274911516.html"
+publishedDateTime: 2023-05-01T13:18:00Z
+originalUrl: "https://www.kentucky.com/press-releases/article274911516.html"
+webUrl: "https://www.kentucky.com/press-releases/article274911516.html"
 type: article
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Lexington Herald Leader
+  domain: kentucky.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-secured: "C848DQGkXcPcxI/OX9ZBNB0jEsNCmTl2IjueqSSYvPe3pUDix7SvLIHz8u2YkfHhGuNUDR6TtGTVqkq6rIeHlrD2GW842kerLPU6j5LgHvAUASEa07N8pKzmQiIAVf6ljG/eYQ0S1eq75PlTsJfZI1GW7ns9kWontlGduJ8x6MSZyvhZL7IaCs+7fUmL1ttQ1rZFxnfVT3b5fNMb7E11ReX6aUxJcNfwGW5kV5ZkhkV5zyo4gboK3jtEFbhFUKyxev/33N+WNEXR0D2fC9m3+NOfwsgo7zUo07EWsn3n/MfGy5yfWBuO+5C/QZFUygSXv+mEpm0jOZzbYL8b9qdLthl0ZrGvPKUdG6A8hpo5xp4=;GglTJG9elT5whudroSwV2w=="
+secured: "1zMAtDfbA2X22iHw0Z/QVyBar8YsR68CQ5T3Im+KACl/lLM+mCJ6nhPGwK0xg1wjQL7yI4jU8QCuBjJVKelfn4uF84mGB1yNtZ7s/9grNzyU6t8hqwPPj+CjX3wUgqAPLpbL79apc3TMW1GAU9yX7/7+TPLfjM2sYwxM0exOSfIPALZiQ3oWDVaHESb4baZ4D0vQrDfhqpfolEuRxK2g9IjpoiXdBaKqKh9bj+nddjBHCzh1BXERXVbtELCrh8hMCi7rA74A3yjOk2b3bJysDi2VWb1b7uxTojoTMY6dPsCpLhvE++dy7InY42kYkc/iJEN14ZWQUPAU+xXDP4i6qc5Qtqjm5nDdjKmSryfxh5M=;FhXGLQYmBdmosgSqQAl4AA=="
 ---
 
