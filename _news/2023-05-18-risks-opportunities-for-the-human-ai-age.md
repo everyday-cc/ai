@@ -22,17 +22,6 @@ topics:
   - AI
   - AI in Robotics
 
-related:
-  - title: "Growth Opportunities in Wearables, Artificial Intelligence, Quantum Computing"
-    excerpt: "The \"Growth Opportunities in Wearables, Artificial Intelligence, Quantum Computing and 5G Communication\" report has been added to ResearchAndMarkets.com's offering. The Microelectronics Technology Opportunity Engine focuses on innovations related to hardware modules for space shuttles,"
-    publishedDateTime: 2023-05-17T17:54:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-growth-opportunities-wearables-artificial-intelligence-quantum-computing-5g-/2023/05/17/9816480.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
-
 secured: "cdJpNVnzU4+U32oROySYJbdUY/+rKg28uuCO4CbVjLggoRlzR7O+4Ll4k1HUeiN4k6qSzefTFJOGGvU0cdupvwdlaEaOoBNb6AryVxA/BBkPrD9u3mUsDKIlrfsAzDhE7ddoVRzK9Wj6wVVFM8GHA9Q/z0k7PmNI46CtoxDaiA4B4GGXFIrx1dDKrPdVjOE+U8f7hzaW+rfnxWXO396H/nDVSx7jn2UyQssFjYTpAyDwLkCmm3khJLV9BGJ86GLShWkhfRmZDK84umNT2MTaHAo48o1rtBegFcZq5X4Jf1oodVQuZQjgggOPHmzT2Yx6z910Dnz7/DU33u5Q3fgCVOc+2gPUwDuQy7QHfLnY6PQ+Y7XQZbZVVvnZm9vPt1Y838BJmaH8gDNE5osbsC3PsWR4CFpqAnozI0mgVSywfrWy0zyKIlPQPt3y3AhWm/ShsUsfO0XILCMvVKILG3Gif9RGPQCva00eq1t5urdO7Hoa4BN6rckaNmvNlo32BQ782RuVUPAs6Ds171lYeu2bEw==;/odpmmDFoyS0hrVUXz0nPw=="
 ---
 

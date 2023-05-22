@@ -210,6 +210,20 @@ related:
         width: 396
         height: 202
         isCached: true
+  - title: "Morningstar’s AI chatbot gets investors closer to mostly right answers"
+    excerpt: "It’s a work in progress, but the company’s service called Mo draws on financial information to answer questions quickly without some of the worst traits technology picks up from humans."
+    publishedDateTime: 2023-05-22T10:01:00Z
+    webUrl: "https://chicago.suntimes.com/2023/5/22/23729302/morningstar-ai-chatbot-mo-investor-answers"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 39
+    images:
+      - url: "https://cst.brightspotcdn.com/dims4/default/da677a9/2147483647/strip/true/crop/700x400+0+0/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FhhfzX25Mw0xF_jKyZEX3-rpSP5o%3D%2F0x0%3A700x467%2F700x467%2Ffilters%3Afocal%28433x156%3A434x157%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24668765%2FJames_Rhodes_of_Morningstar.jpg"
+        width: 1461
+        height: 834
+        isCached: true
   - title: "Apple Bans Employees From Using ChatGPT Amid Its Own AI Efforts"
     excerpt: "Apple has restricted employee use of ChatGPT and other external artificial intelligence utilities amid the development of its own similar"
     publishedDateTime: 2023-05-19T11:20:00Z
@@ -224,6 +238,17 @@ related:
         width: 2500
         height: 1406
         isCached: true
+  - title: "MY VIEW: AI ate my homework: The future of AI and ChatGPT"
+    excerpt: "\"Back in the day, rather than admitting our laziness, we blamed the dog for eating our homework. If AI becomes our modern-day crutch for being lazy, a bad grade will be the least of our worries.\""
+    publishedDateTime: 2023-05-22T10:26:00Z
+    webUrl: "https://www.bizjournals.com/cincinnati/news/2023/05/22/my-view-future-ai-chatgpt.html"
+    ampWebUrl: "https://www.bizjournals.com/cincinnati/news/2023/05/22/my-view-future-ai-chatgpt.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/cincinnati/news/2023/05/22/my-view-future-ai-chatgpt.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 37
   - title: "Tech wants AI chatbots to help ease loneliness. Experts are skeptical"
     excerpt: "For example, for some people who are in a very isolated state and incapable of doing basic prosocial activities, an AI bot could help start a conversation with a human. However, one potential drawback is that some people may start to feel safer or more ..."
     publishedDateTime: 2023-05-21T20:06:00Z

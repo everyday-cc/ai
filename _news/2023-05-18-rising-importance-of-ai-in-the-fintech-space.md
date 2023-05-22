@@ -93,6 +93,20 @@ related:
         width: 399
         height: 432
         isCached: true
+  - title: "Home-grown help for Bermuda’s fintech future"
+    excerpt: "The Bermuda partner and head of ventures of a blockchain-centric advisory firm is focused on ensuring that Bermuda succeeds in its fintech ambitions, as he builds his Toronto-based consultancy. The"
+    publishedDateTime: 2023-05-22T09:58:00Z
+    webUrl: "https://www.royalgazette.com/international-business/business/article/20230522/home-grown-help-for-bermudas-fintech-future/"
+    type: article
+    provider:
+      name: The Royal Gazette
+      domain: royalgazette.com
+    quality: 24
+    images:
+      - url: "https://imengine.editorial.prod.rgb.navigacloud.com/?uuid=60994b70-5dac-5518-8f3c-e340f010b2b9&function=fit&type=preview"
+        width: 500
+        height: 500
+        isCached: true
   - title: "Data security issues Fintech firms are facing"
     excerpt: "The covid crisis represented a big concern in the fintech sector. First, more people are remotely managing their money with technology. Second, that’s led to new data security challenges. Hackers are"
     publishedDateTime: 2023-05-18T11:06:00Z

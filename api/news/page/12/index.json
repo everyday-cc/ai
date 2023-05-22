@@ -2,57 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2023-05-13-wes-andersons-harry-potter-all-the-ai-wes-anderson-parodies-ranked.md",
-      "title": "Wes Anderson’s Harry Potter? All the AI Wes Anderson parodies, ranked",
-      "excerpt": "Wes Anderson's Star Wars? The rise of AI-generated images has triggered many mash-ups of the director's style with popular franchises. We rank them all.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/all-the-wes-anderson-artificial-intelligent-parodies-ranked/",
-      "originalUrl": "https://www.digitaltrends.com/movies/all-the-wes-anderson-artificial-intelligent-parodies-ranked/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/05/wes-anderson-harry-potter.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/all-the-wes-anderson-artificial-intelligent-parodies-ranked/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/all-the-wes-anderson-artificial-intelligent-parodies-ranked/?amp",
-      "publishedDateTime": "2023-05-12T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-12-ai-powered-code-suggestions-and-security-scans-in-amazon-sagemaker-notebooks-using-amazon-codewhisperer-and-amazon-codeguru.md",
       "title": "AI-powered code suggestions and security scans in Amazon SageMaker notebooks using Amazon CodeWhisperer and Amazon CodeGuru",
       "excerpt": "Amazon SageMaker comes with two options to spin up fully managed notebooks for exploring data and building machine learning (ML) models. The first option is fast start, collaborative notebooks accessible within Amazon SageMaker Studio—a fully integrated development environment (IDE) for machine learning.",
@@ -1238,6 +1187,57 @@
       "topics": [
         "IBM AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-a-big-driver-of-this-years-stock-rally-artificial-intelligence.md",
+      "title": "A Big Driver of This Year's Stock Rally: Artificial Intelligence",
+      "excerpt": "Investors can’t get enough of stocks tied to artificial intelligence right now. Hype around ChatGPT has fueled a jump in mentions of AI on earnings calls, and AI-related stocks have skyrocketed. Take Microsoft,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-12-2023/card/a-big-driver-of-this-year-s-stock-rally-artificial-intelligence-Td2SlIlZnaOasbkJWtLn?siteid=yhoof2&yptr=yahoo",
+      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-12-2023/card/a-big-driver-of-this-year-s-stock-rally-artificial-intelligence-Td2SlIlZnaOasbkJWtLn?siteid=yhoof2&yptr=yahoo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-780730?width=600",
+          "width": 600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-12T04:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

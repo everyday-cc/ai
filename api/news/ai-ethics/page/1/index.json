@@ -158,49 +158,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-19-umass-boston-using-5m-donation-to-create-ai-institute.md",
-      "title": "UMass Boston using $5M donation to create AI Institute",
-      "excerpt": "Anyone with a product idea can now build apps using AI, and we are going to teach that to all the students at UMass Boston,\" tells English. Students will also talk about the ethics and application of AI. English believes there are some people out there who ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/boston/news/umass-boston-artificial-intelligence-ai/",
-      "originalUrl": "https://www.cbsnews.com/boston/news/umass-boston-artificial-intelligence-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/18/e8d681bf-f2a2-42b2-872e-0af634b4570f/thumbnail/1200x630/54ff6db104e94c6e70fa4ffdd6c4f18e/cold-umass-boston-ai-donation-frame-3.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/boston/news/umass-boston-artificial-intelligence-ai/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/umass-boston-artificial-intelligence-ai/",
-      "publishedDateTime": "2023-05-18T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-17-the-ethics-of-ai-in-seo-and-why-humans-are-still-just-better.md",
       "title": "The ethics of AI in SEO and why humans are still (just) better",
       "excerpt": "By prioritizing transparency, accountability and fairness and investing in worker training, we can ensure that AI is used in beneficial ways.",
@@ -1459,6 +1416,49 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-05-07-ai-ethics-by-design-is-the-way-ahead-to-protect-privacy.md",
+      "title": "AI Ethics by Design Is the Way Ahead to Protect Privacy",
+      "excerpt": "With the growing dominance of AI and concerns over its responsible use, is it time to move toward AI ethics by design? Sameer Ahirrao, founder of Ardent Privacy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.govinfosecurity.com/ai-ethics-by-design-way-ahead-to-protect-privacy-a-21771",
+      "originalUrl": "https://www.govinfosecurity.com/ai-ethics-by-design-way-ahead-to-protect-privacy-a-21771",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/ai-ethics-by-design-way-ahead-showcase_image-9-a-21771.jpg",
+          "width": 860,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HHS",
+        "domain": "govinfosecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     }
   ],

@@ -2,57 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2023-05-12-a-big-driver-of-this-years-stock-rally-artificial-intelligence.md",
-      "title": "A Big Driver of This Year's Stock Rally: Artificial Intelligence",
-      "excerpt": "Investors can’t get enough of stocks tied to artificial intelligence right now. Hype around ChatGPT has fueled a jump in mentions of AI on earnings calls, and AI-related stocks have skyrocketed. Take Microsoft,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-12-2023/card/a-big-driver-of-this-year-s-stock-rally-artificial-intelligence-Td2SlIlZnaOasbkJWtLn?siteid=yhoof2&yptr=yahoo",
-      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-12-2023/card/a-big-driver-of-this-year-s-stock-rally-artificial-intelligence-Td2SlIlZnaOasbkJWtLn?siteid=yhoof2&yptr=yahoo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-780730?width=600",
-          "width": 600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T04:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-12-eu-parliament-backs-ai-restrictions-and-facial-recognition-ban.md",
       "title": "EU parliament backs AI restrictions and facial recognition ban",
       "excerpt": "The European parliament has voted in favour of a ban on biometric surveillance and restrictions on generative AI and foundation models such as ChatGPT.",
@@ -1211,6 +1160,58 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-evokai-creative-labs-to-acquire-ai-powered-company-rehaboo-oy.md",
+      "title": "EvokAI Creative Labs To Acquire AI-Powered Company Rehaboo Oy",
+      "excerpt": "Following the closing of the Rehaboo Acquisition, Rehaboo will be a wholly owned subsidiary of EvokAI. Completion of the Rehaboo Acquisition is subject to a number of standard conditions, including receipt of all regulatory approvals and the acceptance of the TSX Venture Exchange (\" TSXV \").",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/evokai-creative-labs-to-acquire-ai-powered-company-rehaboo-oy-2023-05-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/evokai-creative-labs-to-acquire-ai-powered-company-rehaboo-oy-2023-05-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     }
   ],

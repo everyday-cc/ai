@@ -73,6 +73,38 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Nvidia Has Gone Big Into AI. Its Chips Will Now Power Supercomputers."
+    excerpt: "Nvidia said a new supercomputer will be based on its Grace CPU Superchip, marking a push into an area dominated by Intel and AMD."
+    publishedDateTime: 2023-05-22T10:16:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://images.barrons.com/im-392288/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Nvidia Stock Has Risen on AI Chips. Why It’s Taking on Intel, AMD in Supercomputers."
+    excerpt: "Nvidia said a new supercomputer will be based on its Grace CPU Superchip, marking a push into an area dominated by Intel and AMD."
+    publishedDateTime: 2023-05-22T10:03:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-ai-intel-amd-chips-534a258b?refsec=markets"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 67
+    images:
+      - url: "https://images.barrons.com/im-392288/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Meta is all in on AI as new chip & supercomputer are in development"
     excerpt: "Meta, formerly Facebook, has pivoted hard into AI from the metaverse. The company now plans to develop its own chips and supercomputer for AI research."
     publishedDateTime: 2023-05-19T14:23:00Z
@@ -166,6 +198,6 @@ related:
         height: 899
         isCached: true
 
-secured: "6yw5eypXuVS9oqFnoXBDTGeAY/nv/KJC/vLBxvSMC/Pvj7ry4UnPrNmdY5/zcETeFt5qtuV1E5ftxoo6aDn8WyEWzNieKZE6OHwwPei8JUGSBjZY6qeHwGHnEa2Ivl6ZBOCsiIrjLWgeg2zDx4ibmNIUfM9QO1C0mX/w2TjxyddDI1KXlyk2SiOmi3JWHV1yOlTe3R5ZZ6xXuSUD0akDNbFaTPu6L6S4ro3m3EpZhb//HClNS4hsO+hIgYLDaqe/9lGc7LvBQLz9lLrB+Szpyui16iuHEOHQ/8bf+5fl5+H30SfuBuAX1+/P0Cvb1e0jZfOWRV3qSzi4gaQplSquaJespn2PaBrOr4Wnjl/lAr4=;fTuPeNMRDQyLPy+fvQLZnQ=="
+secured: "RfLBgsdj2ayPud4qgepFCRtrguQPjYZl6sFCLN4T5HKGjJUtiQ3ImGsMy/GamEW7BasJAmNRgPByQ19laYgCNqUh5gfdNpXMD+u4OjE7l4JX/h6zQWVJWYh4mU2Sj3/zeZdW94yfXeuIwDECbIoe7WiJOGQwlqE5Q8fdzPRZL7gtVBRsi+PEKMMBfYeYqxGWF+i9fC30cOrDnIe6XpK0lqmPysTReLr1xC5dXVg7n1LXyDzdCmvl6gZlk5AobfnE+Rde98mH5LdwFCUkRqh7y1pe1dn9cb3U3+ex7IyKDD4zM5uLV4qKaVjn/QsmSxB5t8hi6wrnGi/lZosj9/5l0pzjwN/5RWUcuGJ+53YmcveJLsnnhJuEUocU1Bz2IHjFa6R9mQShCGeE2Nvmhl2c6ZhObRvSiSAZYJ+xnQDfG/8M+Qb6oYOv6B+q/hMuxybDjO7fkQuErsZ0gM4vJbGzmJhusK0cdmoAFoaASsrJ+9X0EdAKifVm04VlCiRGHUHGyMAJghYHtPTlpe7vXPN8lw==;BoNIRpbavwepeJ1LLPSgCg=="
 ---
 

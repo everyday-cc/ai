@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Unseen robots to deliver Wendy's fast food through a network of pipes"
+    excerpt: "Fast-food giant Wendy’s and hyperlogistics firm Pipedream are teaming up to develop a system that uses autonomous robots to expedite order fulfillment. The digital ordering system — which is expected to be reliable, fast and invisible — will reportedly employ autonomous delivery robots that move underground, unseen."
+    publishedDateTime: 2023-05-22T10:57:00Z
+    webUrl: "https://insights.globalspec.com/article/20546/unseen-robots-to-deliver-wendy-s-fast-food-through-a-network-of-pipes"
+    type: article
+    provider:
+      name: GlobalSpec
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://insights.globalspec.com/images/assets/546/20546/Wendys.png"
+        width: 1659
+        height: 681
+        isCached: true
   - title: "Wendy's to test underground robot delivery for mobile orders"
     excerpt: "Instead of requiring employees to bring out mobile food orders, the robotic system is designed to transport the orders underground \"in seconds,\" the fast food chain said."
     publishedDateTime: 2023-05-18T12:28:00Z

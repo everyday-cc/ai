@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-22-ai-is-here-will-it-save-or-kill-your-agency.md",
+      "title": "AI Is Here: Will It Save Or Kill Your Agency?",
+      "excerpt": "Incorporating AI technology in agency processes and teams is imperative to thrive successfully in the upcoming years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/22/ai-is-here-will-it-save-or-kill-your-agency/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/22/ai-is-here-will-it-save-or-kill-your-agency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6467873bf079ab155b41e295/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/22/ai-is-here-will-it-save-or-kill-your-agency/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/05/22/ai-is-here-will-it-save-or-kill-your-agency/amp/",
+      "publishedDateTime": "2023-05-22T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-22-the-ai-race-is-gathering-steam-what-will-it-mean-for-nvidias-earnings.md",
       "title": "The AI Race Is Gathering Steam. What Will It Mean For Nvidia’s Earnings?",
       "excerpt": "NVDA) is poised to report its Q1 FY’24 earnings around May 24, reporting on a quarter that is likely to have seen the company’s revenues continue to decline, amid a",
@@ -389,49 +440,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-21-pecan-ai-broadens-platform-and-fast-predictive-modeling-for-all-data-professionals.md",
-      "title": "Pecan AI Broadens Platform and Fast Predictive Modeling for All Data Professionals",
-      "excerpt": "Pecan AI, the leader in AI-based predictive analytics, today announced that it has opened its predictive analytics platform to all users.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/pecan-ai-broadens-platform-and-fast-predictive-modeling-for-all-data-professionals/",
-      "originalUrl": "https://enterprisetalk.com/news/pecan-ai-broadens-platform-and-fast-predictive-modeling-for-all-data-professionals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2023/05/Pecan-AI-Broadens-Platform-and-Fast-Predictive-Modeling-for-All-Data-Professionals.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/pecan-ai-broadens-platform-and-fast-predictive-modeling-for-all-data-professionals/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/pecan-ai-broadens-platform-and-fast-predictive-modeling-for-all-data-professionals/amp/",
-      "publishedDateTime": "2023-05-21T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-21-generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law.md",
       "title": "Generative AI That’s Based On The Murky Devious Dark Web Might Ironically Be The Best Thing Ever, Says AI Ethics And AI Law",
       "excerpt": "Generative AI That’s Based On The Murky Devious Dark Web Might Ironically Be The Best Thing Ever, Says AI Ethics And AI Law",
@@ -594,7 +602,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {

@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-05-21-pecan-ai-broadens-platform-and-fast-predictive-modeling-for-all-data-professionals.md",
-      "title": "Pecan AI Broadens Platform and Fast Predictive Modeling for All Data Professionals",
-      "excerpt": "Pecan AI, the leader in AI-based predictive analytics, today announced that it has opened its predictive analytics platform to all users.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/pecan-ai-broadens-platform-and-fast-predictive-modeling-for-all-data-professionals/",
-      "originalUrl": "https://enterprisetalk.com/news/pecan-ai-broadens-platform-and-fast-predictive-modeling-for-all-data-professionals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2023/05/Pecan-AI-Broadens-Platform-and-Fast-Predictive-Modeling-for-All-Data-Professionals.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/pecan-ai-broadens-platform-and-fast-predictive-modeling-for-all-data-professionals/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/pecan-ai-broadens-platform-and-fast-predictive-modeling-for-all-data-professionals/amp/",
-      "publishedDateTime": "2023-05-21T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-19-machine-learning-creates-new-technologies.md",
       "title": "Machine Learning Creates New Technologies",
       "excerpt": "Machine learning is finding increasing uses in developing new materials, including magnetic materials used for digital storage. Although not infallible, these approaches can speed scientific and engineering discoveries.",
@@ -1446,6 +1403,58 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-machine-learning-tool-may-diagnose-parkinsons-years-before-symptoms-appear.md",
+      "title": "Machine learning tool may diagnose Parkinson’s years before symptoms appear",
+      "excerpt": "Parkinson’s disease (PD) is growing more rapidly than any other neurological disease, which makes its early detection so important. Researchers have developed a new machine-learning tool that shows promise as a way of detecting the disease early.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/medical/crank-ms-machine-learning-early-parkinsons-diagnosis/",
+      "originalUrl": "https://newatlas.com/medical/crank-ms-machine-learning-early-parkinsons-diagnosis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/281c196/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F6a%2F9b%2F0e326750433aa1bee5faea63c003%2Fdepositphotos-6859206-l.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T00:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

@@ -103,6 +103,20 @@ related:
         width: 399
         height: 432
         isCached: true
+  - title: "Home-grown help for Bermuda’s fintech future"
+    excerpt: "The Bermuda partner and head of ventures of a blockchain-centric advisory firm is focused on ensuring that Bermuda succeeds in its fintech ambitions, as he builds his Toronto-based consultancy. The"
+    publishedDateTime: 2023-05-22T09:58:00Z
+    webUrl: "https://www.royalgazette.com/international-business/business/article/20230522/home-grown-help-for-bermudas-fintech-future/"
+    type: article
+    provider:
+      name: The Royal Gazette
+      domain: royalgazette.com
+    quality: 24
+    images:
+      - url: "https://imengine.editorial.prod.rgb.navigacloud.com/?uuid=60994b70-5dac-5518-8f3c-e340f010b2b9&function=fit&type=preview"
+        width: 500
+        height: 500
+        isCached: true
   - title: "Nextech3D.ai Receives $2 Million in Cash From $400 million FinTech Ratio Tech"
     excerpt: "With access to a $400 million credit facility, Ratio is able to fund Nextech3D.ai Accounts Receivables With ... initial $2,000,000 cash infusion from FinTech Ratio Tech representing zero-dilutive ..."
     publishedDateTime: 2023-05-18T11:58:00Z

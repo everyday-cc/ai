@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Can Metaverse Education Survive the Rise of AI?"
+    excerpt: "Generative AI has stolen the metaverse’s thunder as the “it” technology of the moment. What does that mean for the future of immersive technology in the classroom?"
+    publishedDateTime: 2023-05-22T09:03:00Z
+    webUrl: "https://www.techlearning.com/news/can-metaverse-education-survive-the-rise-of-ai"
+    type: article
+    provider:
+      name: techlearning
+      domain: techlearning.com
+    quality: 56
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/xWdkazF485EvUDhwXmgqEN-1200-80.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "dD0q6XKtIGWgeJnCbhPgxSS7PiAgL3pEYILc1/SZidjjeGw16YwXEOKHqVS5WwFXxZyQE4kVoxIJ5gACKsHBl9rpz33A8T74y5s8Lp8WbnJEaxaWtJFHCM4SezUhgszxEVZINjixNTrGYumeSz8yRXEnzhoxWv0HAJa0jqTyRPU/svvyRsz+DzEcmkNRd6iZEPafMRfCu8Pq/uAoGUKRKrr5fDFZfZ+j98GGawS+4qe/B5+aSYjARRAN2oN86uLGm89NWwPDZbiPJvJh8gsN8//lPPj4CrpboGqultJ8fnkSM3FIuUM57A3E35LU7qJMx26iDgIKuNOo7aI3l8MSusWvh5QPdD+r2fJBh4wu/VK1NGXOlLMaQJ663ZERs1fHQ/7cnHnepAwDt+fHpFBvuVvcNbkSJ9LE+HyFctNSEQOoQxhUH4ujCacn8MkBwwAsewNoLGL3BIXKonlfi6drIGgcBBBsYu/GrPKZl9EL0E0ucP8VXAOym/8tUtuVLczTEj8sbjSoiZA5OLCpdiqPDA==;FxpVeoSZqr/u1RKaHJgKpQ=="
 ---

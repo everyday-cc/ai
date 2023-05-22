@@ -26,17 +26,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Robots are coming for your love life"
-    excerpt: "A new digital matchmaker in town promises to offer less, not more, in the online dating swipescape and will charge users $111 monthly for it."
-    publishedDateTime: 2023-05-17T18:40:00Z
-    webUrl: "https://techxplore.com/news/2023-05-robots-life.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 19
-
 secured: "eS2dVtCKoV7KPH4pOYQxH/ErKWKWWNZyTKhDfLiMC4h4Vo/Xc1Sixj+8jzfxX69N4/vcloL2njA1Jd0Ni08D8nggfX5mt0REjXcv0jdHJEVAoP4quNoR1I3OZvDj1575hFy+AZ4B94H8+wriHKS+HorgfnkM2WC/plMhsqVPm8C9yBhSPoB5ROicw5F+sUPahsO9kZuwVRycu7Nlh0wF6+arBX54cXWGmphbBgmygoUbX7pwZqpP+3pz/YGwbXDQ+6foDOYbDSjt8OTk90/0E6pwoaZcLmOXEWpr++eK2rsr9s5mbxyr7KAPUs/IjctWBNO89xEPx/aHZIqSxD4kCmImPBpoksirDn9gNXGBYdJ2M5XUudgmsGricQ+YBFHbqSN9wgWX0XPLrosXL1Nb4M2stNZDHBNtxrulh6AoM25VqAHcTKNnLkcpCrafYR3Cwl6GaWag2cd/0+uFQQl8qVIRzFP4gKGQVF5kWCN6cb5IQ+t1SGuYho6/sIaqqpnN3Dnk7b+2QNZekwBjw3UcAg==;aZA263Cu8ySuWWUTUndDUQ=="
 ---
 

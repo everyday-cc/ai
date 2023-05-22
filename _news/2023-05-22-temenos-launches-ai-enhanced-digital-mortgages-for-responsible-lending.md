@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/05/207401-temenos-launches-ai-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207401-temenos-launches-ai-enhanced-digital-mortgages-for-responsible-lending/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1280
     height: 960
     isCached: true
+
+related:
+  - title: "Temenos launches AI-driven Digital Mortgages solution to boost lending"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-05-22T09:47:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/temenos-launches-ai-driven-digital-mortgages-solution-to-boost-lending/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/temenos.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "KvG5nleyhvP43tFAPz0whjFQr8xGN8hmR+k2geifkTeBbLXYEsXkFU9ebxdM4tFAqx1B2G5mn/55bKfJxMHHOTCHAxFmWQYgQNdAhjqYaJhbDnT428eaYp3O8cjLtdgiizCLWJcQgkAF7R5QPV5PiKuSNQKsHR/LtQ2yESa28S4izSGvtFY1ynpZaRP+NnqlxYfODUHoDtc5NtYWrJlzmxP08oJ6MB3dQMgg7tNeImG8/xhRjOLzRkUTZjCqIwURYRmiST5MlqH2TKbYpYZaNkW4oNRlIGFJAynlA94rw6XriO/4Xim49bmLU/cQJKYK3vv25Cdt2hrikhRW/3FZYc1hciGP+nB5u8CGfrDXCCImfuzPjt18KJoc8aSIzTMpcVjlEbtSzJmZNutlVNZkehmPH2ub/sAs/cI93KwhwwapQRRdykXnRYE0FOaIArM9+IC9brLvkTIvFQq/Vf84C/JqcOfRLV3XqRFxbVfm3dM5TSD5kPNFgZc+8wMwBgAaoO+5JEeXKy7hsO9wrbeEiQ==;1j4deBbO7lata2IwlQGkYQ=="
 ---

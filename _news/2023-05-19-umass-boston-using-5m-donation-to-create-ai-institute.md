@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/boston/news/umass-boston-artificial-inte
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/umass-boston-artificial-intelligence-ai/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 59
+published: false
 
 provider:
   name: CBS News
@@ -25,26 +25,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Entrepreneur Paul English donates $5M to UMass Boston to launch AI Institute"
-    excerpt: "Paul English sees artificial intelligence as the next big thing, something he wants to focus on for the next decade. That’s why the entrepreneur and philanthropist has pledged $5 million to UMass Boston to establish a new AI-focused institute at the school, so students can be at the forefront of AI technology as it evolves."
-    publishedDateTime: 2023-05-17T18:05:00Z
-    webUrl: "https://www.bostonglobe.com/2023/05/17/business/entrepreneur-paul-english-donates-5m-umass-boston-launch-ai-institute/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 16
-  - title: "Entrepreneur Paul English donates $5 million to UMass Boston to launch AI Institute"
-    excerpt: "The goal isn’t to create a physical building or separate college to house AI research or classes on UMass Boston’s Dorchester campus. Instead, the plan would incorporate AI-related classes into all major subject areas such as nursing or science and ..."
-    publishedDateTime: 2023-05-17T18:18:00Z
-    webUrl: "https://www.bostonglobe.com/2023/05/17/business/entrepreneur-paul-english-donates-5m-umass-boston-launch-ai-institute/?rss_id=MSN_rss_brief"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 13
 
 secured: "SjrA2zJpHgDQrGrNy5Qfx5/0QhBjRLWErWieaJgQWJkjHKohc+H5PokJJ8cxj21N1aJ0fjiFPeo+H4M+RD4SBLSVrImFeFJpufeQ3UqWe231d6KpB3VpXxLab4Xb/ltviYTckffQCzSucHhsQej2MwbtnAf4KnKMoMfrH5UbDvDl7IbztD6RPcQHkvZDaBhfj+Chy70HQGUSCssU+oKmJkpLG/wkCQHNptMZij4V9rmHtEpp4h4cnce9EDCpPpP/A3ydf7upY0fHCBpMBo/NOjN0tIqMB9gkjXtbhhrJMBr9Qt2y6oGBp6EmKjrNaYsFGXAM2kW1OqTi5Dr0NUKc4bepdb0xJxf5CHnIZcM/fC9S+0wihcxgqTORkagcDq7zsuLCg5W1SMHeJSdbXXXO6Z9y4vRypa0HLb4s7wVtj4CeT4kyrUh8Se6TYnSm//rYMMU1h2SynudJhiVM+B8hokqB51P5gGUJ4OVANxQtCWJVJcKGyWGEh+HiCiD1e1alhCGD99SewwV7E7XPuYGBRg==;SxhPCCTyQ4uU2ZwyqNeyaQ=="
 ---

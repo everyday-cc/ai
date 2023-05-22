@@ -2,49 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2023-05-11-mass-event-will-let-hackers-test-limits-of-ai-technology.md",
-      "title": "Mass Event Will Let Hackers Test Limits of AI Technology",
-      "excerpt": "Major AI providers such as OpenAI, Google, and Microsoft, are allowing hackers take a shot at testing the limits of their technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/",
-      "originalUrl": "https://www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.securityweek.com/wp-content/uploads/2023/04/ChatGPT_Security-Ethics-AI.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/amp/",
-      "cdnAmpWebUrl": "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/mass-event-will-let-hackers-test-limits-of-ai-technology/amp/",
-      "publishedDateTime": "2023-05-11T05:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SecurityWeek",
-        "domain": "securityweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-11-ibm-it-automation-reflections-from-ibm-think.md",
       "title": "IBM IT Automation: Reflections from IBM Think",
       "excerpt": "Recapping a few of the exciting new capabilities we are launching in our IT Automation portfolio.\nThe post IBM IT Automation: Reflections from IBM Think appeared first on IBM Blog.\n",
@@ -589,49 +546,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-11-computer-vision-software-developer-visualcortex-joins-axis-technology-partner-program.md",
-      "title": "Computer Vision software developer VisualCortex joins Axis Technology Partner Program",
-      "excerpt": "VisualCortex joins Axis Technology Integration Partner Program to deliver computer vision software and video analytics solutions to Axis Communications' global network of customers and partners across 50 countries SYDNEY and LUND,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/05/11/9812159.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/05/11/9812159.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2074639/image_5019313_7056565.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-11-the-hot-new-job-that-pays-six-figures-ai-prompt-engineering.md",
       "title": "The Hot New Job That Pays Six Figures: AI Prompt Engineering",
       "excerpt": "The emerging field of prompt engineering involves using generative AI tools and natural language processing to create more effective outputs. But what are the skills required? Which companies are hiring for this role?",
@@ -730,6 +644,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-computer-vision-software-developer-visualcortex-joins-axis-technology-partner-program.md",
+      "title": "Computer Vision software developer VisualCortex joins Axis Technology Partner Program",
+      "excerpt": "VisualCortex joins Axis Technology Integration Partner Program to deliver computer vision software and video analytics solutions to Axis Communications' global network of customers and partners ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/n32332541/computer-vision-software-developer-visualcortex-joins-axis-technology-partner-program",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/n32332541/computer-vision-software-developer-visualcortex-joins-axis-technology-partner-program",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2074639/image_5019313_7056565.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32332541",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32332541",
+      "publishedDateTime": "2023-05-10T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1205,6 +1162,48 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-google-launches-new-ai-tools.md",
+      "title": "Google launches new AI tools",
+      "excerpt": "As the race to dominate artificial intelligence escalates between tech giants, Google unveiled new AI software to build presentations, analyze and enter data, and write content. NBC News’ Jacob Ward has more details on growing concerns over the future of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/google-launches-new-ai-tools-173891653794",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/google-launches-new-ai-tools-173891653794",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 267,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1683761014453_nn_jwa_googles_ai_launch_230510_1920x1080-r8qeop.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo173891653794",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo173891653794",
+      "publishedDateTime": "2023-05-10T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

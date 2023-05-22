@@ -7,7 +7,7 @@ originalUrl: "https://www.fox29.com/news/wendys-to-test-underground-robot-delive
 webUrl: "https://www.fox29.com/news/wendys-to-test-underground-robot-delivery-for-mobile-orders"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Unseen robots to deliver Wendy's fast food through a network of pipes"
+    excerpt: "Fast-food giant Wendy’s and hyperlogistics firm Pipedream are teaming up to develop a system that uses autonomous robots to expedite order fulfillment. The digital ordering system — which is expected to be reliable, fast and invisible — will reportedly employ autonomous delivery robots that move underground, unseen."
+    publishedDateTime: 2023-05-22T10:57:00Z
+    webUrl: "https://insights.globalspec.com/article/20546/unseen-robots-to-deliver-wendy-s-fast-food-through-a-network-of-pipes"
+    type: article
+    provider:
+      name: GlobalSpec
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://insights.globalspec.com/images/assets/546/20546/Wendys.png"
+        width: 1659
+        height: 681
+        isCached: true
   - title: "Wendy’s testing underground robot system for orders"
     excerpt: "Much like a bank drive-up, Wendy’s patrons may soon have their orders sent to them through an underground tube."
     publishedDateTime: 2023-05-18T18:05:00Z

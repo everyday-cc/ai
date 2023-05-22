@@ -2,58 +2,6 @@
   "page": 79,
   "value": [
     {
-      "path": "_news/2023-03-27-googles-generative-ai-system-bard-has-the-potential-to-revolutionize-healthcare.md",
-      "title": "Google’s Generative AI System, Bard, Has The Potential To Revolutionize Healthcare",
-      "excerpt": "J.P. Morgan Insights recently published an article titled “Is Generative AI a Game Changer?” explaining that “Generative AI — a category of artificial intelligence algorit",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2023/03/26/googles-generative-ai-system-bard-has-the-potential-to-revolutionize-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2023/03/26/googles-generative-ai-system-bard-has-the-potential-to-revolutionize-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6420a8765c54a09c9fe2d103/0x0.jpg?format=jpg&crop=4170,2346,x6,y54,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2023/03/26/googles-generative-ai-system-bard-has-the-potential-to-revolutionize-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/03/26/googles-generative-ai-system-bard-has-the-potential-to-revolutionize-healthcare/amp/",
-      "publishedDateTime": "2023-03-26T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-27-cryptocurrencies-add-nothing-useful-to-society-says-chip-maker-nvidia.md",
       "title": "Cryptocurrencies add nothing useful to society, says chip-maker Nvidia",
       "excerpt": "Tech chief says the development of chatbots is a more worthwhile use of processing power than crypto mining",

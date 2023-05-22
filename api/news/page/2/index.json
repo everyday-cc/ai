@@ -216,7 +216,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-an-image-to-speech-generative-ai-application-using-amazon-sagemaker-and-hugging-face/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 81,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -413,7 +413,7 @@
       "originalUrl": "https://www.gizmochina.com/2023/05/19/meta-ai-chip-metaverse/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -850,7 +850,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1137,7 +1137,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 226,
       "tags": null,
       "images": [
         {
@@ -1182,21 +1182,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-19-umass-boston-using-5m-donation-to-create-ai-institute.md",
-      "title": "UMass Boston using $5M donation to create AI Institute",
-      "excerpt": "Anyone with a product idea can now build apps using AI, and we are going to teach that to all the students at UMass Boston,\" tells English. Students will also talk about the ethics and application of AI. English believes there are some people out there who ...",
+      "path": "_news/2023-05-19-robotics-awarded-first-patent-for-its-robotic-window-cleaning-system.md",
+      "title": "Robotics awarded first patent for its robotic window-cleaning system",
+      "excerpt": "Skyline Robotics, developers of OZMO, the world’s first high-rise window-cleaning robot, today announced the company has received its first patent for its robotic window-cleaning system. The patent, awarded by Singapore,",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/boston/news/umass-boston-artificial-intelligence-ai/",
-      "originalUrl": "https://www.cbsnews.com/boston/news/umass-boston-artificial-intelligence-ai/",
+      "webUrl": "https://www.therobotreport.com/robotics-awarded-first-patent-for-its-robotic-window-cleaning-system/",
+      "originalUrl": "https://www.therobotreport.com/robotics-awarded-first-patent-for-its-robotic-window-cleaning-system/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/18/e8d681bf-f2a2-42b2-872e-0af634b4570f/thumbnail/1200x630/54ff6db104e94c6e70fa4ffdd6c4f18e/cold-umass-boston-ai-donation-frame-3.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/05/skyline-patent-featured.jpg",
+          "width": 770,
+          "height": 500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1204,13 +1204,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/boston/news/umass-boston-artificial-intelligence-ai/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/umass-boston-artificial-intelligence-ai/",
-      "publishedDateTime": "2023-05-18T16:09:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T14:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1220,7 +1220,7 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "AI in Robotics",
         "AI"
       ]
     }

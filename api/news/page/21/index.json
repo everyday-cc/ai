@@ -2,57 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2023-05-09-how-singapores-giant-sovereign-wealth-fund-is-investing-in-generative-ai-technology.md",
-      "title": "How Singapore's giant sovereign wealth fund is investing in generative AI technology",
-      "excerpt": "GIC manages hundreds of billions of dollars in assets. It's invested in tech for decades and is unfazed by last year's tech stock rout.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/singapore-sovereign-wealth-fund-investing-in-generative-ai-gic-2023-5",
-      "originalUrl": "https://www.businessinsider.com/singapore-sovereign-wealth-fund-investing-in-generative-ai-gic-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6459be0f65a21600192fb67c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-09-facial-recognition-biometrics-in-consumer-electronics-market-analysis-geography-trends-demand-and-forecasts-2030-cognitec-systems-dell-google.md",
       "title": "Facial Recognition Biometrics in Consumer Electronics Market Analysis Geography Trends, Demand and Forecasts 2030 | Cognitec Systems, Dell, Google",
       "excerpt": "The Facial Recognition Biometrics in Consumer Electronics Market Exploration Report contains significant techniques and",
@@ -1169,6 +1118,58 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-ai-and-predictive-analytics-moving-from-insights-to-foresight.md",
+      "title": "AI And Predictive Analytics: Moving From Insights To Foresight",
+      "excerpt": "Given how much AI dominates today's technology conversations, many businesses feel the competitive pressure to jump on AI and analytics opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-analytics-moving-from-insights-to-foresight/",
+      "originalUrl": "https://www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-analytics-moving-from-insights-to-foresight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645947bc0b8337af0bbe84e5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-analytics-moving-from-insights-to-foresight/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-analytics-moving-from-insights-to-foresight/amp/",
+      "publishedDateTime": "2023-05-08T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

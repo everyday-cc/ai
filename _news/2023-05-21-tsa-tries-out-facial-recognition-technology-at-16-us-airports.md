@@ -2,17 +2,17 @@
 category: news
 title: "TSA tries out facial recognition technology at 16 U.S. airports"
 excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through -- all without having to hand over their identification to the TSA officer sitting behind the screen."
-publishedDateTime: 2023-05-21T07:46:00Z
-originalUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
-webUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+publishedDateTime: 2023-05-21T07:41:00Z
+originalUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+webUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Arkansas Democrat-Gazette
-  domain: arkansasonline.com
+  name: Northwest Arkansas Democrat Gazette
+  domain: nwaonline.com
 
 topics:
   - Computer Vision
@@ -91,6 +91,6 @@ related:
         height: 675
         isCached: true
 
-secured: "HmqavvqIw27wy2G434El2+M3aPn7A0TK8mygpJFmBLlO/wFI84FBJZWPXXwoCFm3WDDqe3YxlqbLCHgdTW7oYuKUabkM407DNbCYFLqdME3IiI+IFKBDDN8t7eWkSARX6x86ALq5TH+AGMStXn9QUlgJqURsFaG7OQ5mNmCoTwgoGkVbNIsfZOBjJQZzBJTSVUAJsGeQ/wGLJ5GlRwJtMpfaUJ5uu2LwbFKPBrZ2/kppBHi6Ts3CkXuaoS27sEfej6iE4QX7tYknK+m0ay+CQwuphiTK23oSifM6lkZS6ClMu85mDOvVUYfizX/Qet7EldWJhBBvpvwcAPqMgkdEgdERWbZxYMHg4VMrNwGM620=;fX9VCowt/Od5gnhc60C2YQ=="
+secured: "LQYCvTHWs7iH0lnOXaq0TwbsVz++tcs2qa6o4M2eETpvVM65YtMOKxwyBMcYPzsY8FxKNkTAqlgbZyYnjDjdzKWfXmZM+PLMd6hCAJvzcZ3edyJ1/fBcAaSqoUbc11FxFeHV2m4D7Ad/BeI+EDLXdR8sHuuTXO7FSGveS2O9zFvGfJApduJLrkw+cIz0Lpa9svA2bhLO0N/qa7X41zxooJHJsNHuUK6qAz0l9slfh2y/Z2mMvQDTz1cyTkUlU3J9XK636sXOZ8G8cqoQnyqbj1zlLfe5wP5ZgWFgVkaJo0Ws3cD1pko3jLkrxrweItMExSIrc3qRkOJdseAuC9Ob8mqtIQKWAC4UgQTSa7DbFps=;8oQhe2bG/wGPcTmJUrvDvA=="
 ---
 

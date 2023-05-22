@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/05/19/meta-ai-chip-metaverse/"
 webUrl: "https://www.gizmochina.com/2023/05/19/meta-ai-chip-metaverse/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Can Metaverse Education Survive the Rise of AI?"
+    excerpt: "Generative AI has stolen the metaverse’s thunder as the “it” technology of the moment. What does that mean for the future of immersive technology in the classroom?"
+    publishedDateTime: 2023-05-22T09:03:00Z
+    webUrl: "https://www.techlearning.com/news/can-metaverse-education-survive-the-rise-of-ai"
+    type: article
+    provider:
+      name: techlearning
+      domain: techlearning.com
+    quality: 56
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/xWdkazF485EvUDhwXmgqEN-1200-80.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Meta Platforms unveils next-generation AI infrastructure and data center designs"
     excerpt: "Facebook parent company Meta Platforms Inc. has lifted the lid on what its next-generation artificial intelligence infrastructure will look like, showcasing its newest training and inference accelerator and various other bits of futuristic hardware at its AI Infra @Scale event today."
     publishedDateTime: 2023-05-18T16:06:00Z

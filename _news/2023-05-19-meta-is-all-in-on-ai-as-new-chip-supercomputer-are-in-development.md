@@ -74,6 +74,38 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Nvidia Has Gone Big Into AI. Its Chips Will Now Power Supercomputers."
+    excerpt: "Nvidia said a new supercomputer will be based on its Grace CPU Superchip, marking a push into an area dominated by Intel and AMD."
+    publishedDateTime: 2023-05-22T10:16:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://images.barrons.com/im-392288/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Nvidia Stock Has Risen on AI Chips. Why It’s Taking on Intel, AMD in Supercomputers."
+    excerpt: "Nvidia said a new supercomputer will be based on its Grace CPU Superchip, marking a push into an area dominated by Intel and AMD."
+    publishedDateTime: 2023-05-22T10:03:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-ai-intel-amd-chips-534a258b?refsec=markets"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 67
+    images:
+      - url: "https://images.barrons.com/im-392288/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Meta’s pricey bet on AI comes with new custom chips, coder tools"
     excerpt: "There's one area at Meta that's seeing record spending: an update of the social media giant's infrastructure to keep pace in the artificial intelligence arms race."
     publishedDateTime: 2023-05-18T18:10:00Z
