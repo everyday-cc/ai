@@ -55,15 +55,6 @@ related:
         width: 2880
         height: 1620
         isCached: true
-  - title: "Machine Learning Makes Waves: A Better Way To Study Ocean Currents"
-    excerpt: "A new machine-learning model makes more accurate predictions about ocean currents, which could help with tracking plastic pollution and oil spills, and aid in search and rescue. To study ocean currents,"
-    publishedDateTime: 2023-05-17T07:44:00Z
-    webUrl: "https://scitechdaily.com/machine-learning-makes-waves-a-better-way-to-study-ocean-currents/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 19
 
 secured: "/exDkzhYflJvT226HgwrhBuPKhtzI3kfhsktAsytz4ILIG57P+aLnsq2OtJJxClOxOpB9DslcaBByJTtR40FdisZlFToOr6PJxWTmbPQ+fk1Id8L/JRB5fPZPebrPsYitLgYlHMjet4LQFcIICh6oZxU0GmME5v04jvrYs1wKb+ufU+ixvnqGFDQAAmfKsLF/SmnwP0Egq1Q6pbn8bHPm2nBY95jFHv8tqHQBSGXlpXqWTbw4qfijMN0VKc3+YD6kTCm1ejBbpl2v6OyCO+PxGRQ1CwXeo9bKX3o1hIS/1HSTTlrNmGzQ4KKZZ9Z4fgeL6hhKSUns7qkvATMvR5RGqvmUTgYjbY14GZB7Xa4QeobFE/P7mLGW468LaNroiSSwWOG5LvMKRFwJAlPjqd/cfTKJzzYwKMqIL6TrnUUGAyjGr+cwsaS5Ljl6s3SYKkCOhdSMfi0xV8B3DqMhQ3xDf5gdmXvaEDwCSA5TA6p1/Pynyg2jre+TMyxWz0fHV/+5oUaYn1k2xT5QyATdgFq9g==;0/EmAXg2vNj5DoJPBBe4KA=="
 ---

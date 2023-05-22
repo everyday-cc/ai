@@ -53,17 +53,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 46
-  - title: "Is Artificial Intelligence a threat to the blue-collared industry?"
-    excerpt: "The rise of Artificial Intelligence is changing the job market, and blue-collar workers may be particularly vulnerable to job loss"
-    publishedDateTime: 2023-05-17T07:59:00Z
-    webUrl: "https://www.dqindia.com/is-artificial-intelligence-a-threat-to-the-blue-collared-industry/"
-    ampWebUrl: "https://www.dqindia.com/is-artificial-intelligence-a-threat-to-the-blue-collared-industry/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/is-artificial-intelligence-a-threat-to-the-blue-collared-industry/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 39
 
 secured: "+GxFs9iLPDuUyEQnuOf3yT3K2VFHefCL2V027sBoxCeto9HAetZ1Fl7QrHuWjjlYYnlv44iMCYHvZmINtM3ORMtgtL6N/NbxN6wVZBgVbJhYUHpIC+T57jzxElM6vCVHha+KGIaYHuQidzOzPzxF9V4NeYbmbnUp8XLGPnFpVVrGlQw68ZJ8B/IJueMqOm1R+nbAynmrYn6xH55+FvD6Bb0P9eOERIFsTG7h9h7Q76yFv3Lfb/X0o1lV0ZKWWeLCc/VDI9qR9RUEnAOg7LfIUYPuXCflNV10SVLw9RuRq0+b7AbCLSCeqqOTVFpsxllonBSYxZRNfeNjIAPJWlM9EET920QtwQrRNVa9CFLmx0ojxqitmz8kD0BRLzTELpG+mYkhakaE0B+DlVHiRU5zUqmfjvQCpT4kWIcxDP/imSXj/1bgzYLRc/zpt+mW90g+vROyahzHWKCL+CoiNPnEBHqazUEpVRrou4LY/0+6YrcjQSTmoDYXy1Wp/dmMCzjV6a2dII85yYEGtSpZPLhhkw==;YM+mknb67uP14yVANUHwNw=="
 ---

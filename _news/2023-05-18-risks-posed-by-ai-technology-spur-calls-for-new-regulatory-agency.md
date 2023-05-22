@@ -102,20 +102,6 @@ related:
         width: 897
         height: 500
         isCached: true
-  - title: "OpenAI chief concerned about AI being used to compromise elections"
-    excerpt: "OpenAI CEO Sam Altman testifies before a Senate Judiciary Privacy, Technology & the Law Subcommittee hearing titled 'Oversight of A.I.: Rules for Artificial Intelligence' on Capitol Hill in Washington,"
-    publishedDateTime: 2023-05-17T07:42:00Z
-    webUrl: "https://www.fijitimes.com/openai-chief-concerned-about-ai-being-used-to-compromise-elections/"
-    type: article
-    provider:
-      name: Fiji Times
-      domain: fijitimes.com
-    quality: 37
-    images:
-      - url: "https://www.fijitimes.com/wp-content/uploads/2023/05/Sam-Altman.jpg"
-        width: 1100
-        height: 717
-        isCached: true
   - title: "OpenAI proposed license to regulate AI, Baidu urges self content moderation"
     excerpt: "Meanwhile, instead of concerning the lost jobs and artist rights, China-based Baidu, which launched Ernie Bot in March, focused more on socially and politically sensitive disinformation."
     publishedDateTime: 2023-05-17T14:16:00Z
@@ -167,15 +153,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Sam Altman Isn’t the Answer to Regulating Artificial Intelligence"
-    excerpt: "The OpenAI CEO declined to become the US AI regulator in a bizarre congressional hearing that ignored good policy ideas already in play."
-    publishedDateTime: 2023-05-17T07:47:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/05/17/ai-regulation-openai-s-sam-altman-is-the-wrong-person-to-ask/76ee2c42-f4b1-11ed-918d-012572d64930_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 17
   - title: "Sam Altman, the AI executive with an eye on the risks"
     excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Sam Altman news every morning. When OpenAI CEO Sam Altman turned up to testify on Capitol Hill for the first time this week, he could hardly have expected an easy ride."
     publishedDateTime: 2023-05-19T19:00:00Z

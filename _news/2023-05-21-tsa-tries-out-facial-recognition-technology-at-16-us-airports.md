@@ -2,17 +2,17 @@
 category: news
 title: "TSA tries out facial recognition technology at 16 U.S. airports"
 excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through -- all without having to hand over their identification to the TSA officer sitting behind the screen."
-publishedDateTime: 2023-05-21T07:41:00Z
-originalUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
-webUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+publishedDateTime: 2023-05-21T07:46:00Z
+originalUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+webUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Northwest Arkansas Democrat Gazette
-  domain: nwaonline.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - Computer Vision
@@ -65,6 +65,6 @@ related:
       domain: reason.com
     quality: 49
 
-secured: "JJRflJMMoW16D9H+dlq/HVnBwBXy9HRLx0MLh9Iq41mBxZvGVUbWNXdyEZio5YEJRBpEC8BsvXkm3224FBbTEBbARnCLeCB+oZ/Fmlw5vgwlsrYiJir4NSoAOpmp8fk5MsiVepEM4YThlvlFlAoBIp3fCUCDBysCWsWJgmkJ2OAIYVT0JrO0onGfmShs8FjPRPraRFBLWoM7yUvOklXd7bnfVGY6dyphEyvAUaM5S9+ISNSaVFr1IjIgfyYE/EQDNKJ970lSxV/Q41UoDCW+erI0uvlLT9dfGqoWakNsCnhabHtN41U/TX1Nu+i/oOoZypVGBJ7pzL9F8S2k0AYw+quKOyq/Fm+I/ynot3FvTTU=;Qy6akIqrvkWQhIT8hCDLOg=="
+secured: "xQ7aYmtmSq2PNRi42kvQoawHqX3MdADYX5AONSM09sguDcIhGVv+2qtI2FB0dnyp/400ok/1tmne5jRVfP1QzPBDyxEJrgIoyeK2yQq6cILQlhMPWw0O45zNIjTVDi1wF/NuUHVXulYSq8N0kfb5dSp9kz9y6Z1Co5zLle4c18y1Mq7QfVj6L97ARSH0RpfITTS3lColyx/Ps4/2ZWMkVr9qN8B88agcQwnKcfKJtBf39bEe5gCyn4EeVlTqJywOamQlOljcWL0nKOQPilNFr18gCB5lObxKWJtQ31ExFjiM7MXYMzdAK7hYId93U1kYD9mD7PDf0ewDWRehrowQnHmkgE/6r8nQQxbo9oS/Mys=;Or27EPw1I37DQDZXBOTiDg=="
 ---
 

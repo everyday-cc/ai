@@ -107,20 +107,6 @@ related:
         width: 897
         height: 500
         isCached: true
-  - title: "OpenAI chief concerned about AI being used to compromise elections"
-    excerpt: "OpenAI CEO Sam Altman testifies before a Senate Judiciary Privacy, Technology & the Law Subcommittee hearing titled 'Oversight of A.I.: Rules for Artificial Intelligence' on Capitol Hill in Washington,"
-    publishedDateTime: 2023-05-17T07:42:00Z
-    webUrl: "https://www.fijitimes.com/openai-chief-concerned-about-ai-being-used-to-compromise-elections/"
-    type: article
-    provider:
-      name: Fiji Times
-      domain: fijitimes.com
-    quality: 37
-    images:
-      - url: "https://www.fijitimes.com/wp-content/uploads/2023/05/Sam-Altman.jpg"
-        width: 1100
-        height: 717
-        isCached: true
   - title: "OpenAI proposed license to regulate AI, Baidu urges self content moderation"
     excerpt: "Meanwhile, instead of concerning the lost jobs and artist rights, China-based Baidu, which launched Ernie Bot in March, focused more on socially and politically sensitive disinformation."
     publishedDateTime: 2023-05-17T14:16:00Z
@@ -172,15 +158,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Sam Altman Isn’t the Answer to Regulating Artificial Intelligence"
-    excerpt: "The OpenAI CEO declined to become the US AI regulator in a bizarre congressional hearing that ignored good policy ideas already in play."
-    publishedDateTime: 2023-05-17T07:47:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/05/17/ai-regulation-openai-s-sam-altman-is-the-wrong-person-to-ask/76ee2c42-f4b1-11ed-918d-012572d64930_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 17
 
 secured: "YKs5yGSlXzk3tCJweU5YIzL41/x6RC4dHEfZnB/wbmVF8FG4MwV4oBnOCquih+TwRYl8gk8SXgsQ012I9DDKJ9WOwaaqKPMT2lkv/NPbslQy0KPLHdijvcCFokzQQ7rogHv6hTH8C8l0frVuqH8WtZIQ77D0+Jkk1J3V2h+3BW/pd5SiAS8vhOHghWh5ccB8F8lSIZW0/ajPcvRucCdAhMPjC5yK1QQvYufCi93KxJoPppJuMvn1/GwpFPjQNgJ/mN3uhcdja0pRZAEP/9ACaMuQ2flfx4KNyc510/C3JohwVeUsWIXccIUh14poaM5xmjYTaKdnEooxh9EpYGMpvv1VYaNiuNWECZ6Up/MztpLEI99OoIbpwLRkuznfIxB1wMzUOXDhQPU1PWYcOVdE5Smr42Le62bdf1Y5vJjiGHKr7QqZpbDgGtNbPXtXQdun0fON7c88wxnZreQSHMbKpNZL2cb9CtgQNyNTUR97kS34L4BRk+XQQFppAseClRFJi4MEO7GE1o62yAO6dM6aIg==;eyPud3Qo12GKkJI/V8i9Ew=="
 ---

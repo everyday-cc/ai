@@ -157,15 +157,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 23
-  - title: "I was wrong on Indigenous voice to parliament: Brumbies rugby boss Matthew Nobbs apologises"
-    excerpt: "The National Rugby League last week publicly supported the voice, joining Football Australia, Tennis Australia and the Australian Olympic Committee in pushing for constitutional recognition for Indigenous Australians. Outgoing AFL chief executive Gillon ..."
-    publishedDateTime: 2023-05-17T07:20:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/i-was-wrong-on-indigenous-voice-to-parliament-brumbies-rugby-boss-matthew-nobbs-apologises/news-story/fb00f966b8ffed02f425901fcd41aded"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
 
 secured: "lZAptURLITH/Hns7wIN+Pw6aRC9HWsCDTjQaTzK2sL4+JO7XnO+p/kMxQJsVxogEPtWmDQZkevC6nZLIYT5cYub69gBWXaeAi24xuKI9pHN7a0ZGqVdDfD60UkmqSUaLmAzg0Bsyb7HHZHW8+NigEbatXf4VpNjJey+GOzE+w/2RCoqtJ/ZeL7AczkMpRwBbuvxb0xrWbmatCgiZ4VZ1ccKV3WwPyqBOZskyD0EUgkSpIFbHEA9re8AoCBVdCbsQHEiEJdf9mI44TzwnIayZoUcmPquVGq0QnFfQtIMByokE6I+MJdOKUXU6r9yMIx0jZshRGA6cS7dc8YsRVRcbIpNJFL6bMKF2SRn1nsuEWbs=;zX9p+rfDV2mFi3ZOmAcK5Q=="
 ---

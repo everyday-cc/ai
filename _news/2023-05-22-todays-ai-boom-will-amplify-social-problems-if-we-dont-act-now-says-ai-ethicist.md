@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/todays-ai-boom-will-amplify-social-proble
 ampWebUrl: "https://www.zdnet.com/google-amp/article/todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist/"
 type: article
-quality: 81
-heat: 81
+quality: 83
+heat: 83
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/1052e43673c58630ef01e4edf1a0eb50a72c1c2c/2023/05/21/8ff5fae9-93d2-4635-81c0-23e5d09956f6/kathy-baxter-salesforce.jpg?auto=webp&fit=crop&height=675&width=1200"
@@ -29,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "Q2xRUcMFfceNEseCxZQH78t11YMG6fQ1honMsJmuYWR79WKe0Mdt+9zh8vaFKgbooglpqrRYGG6WAGXM7Mm/SWX9nVWh+6wIw5HoXog7uMbtrDdEDeX7ws8m+GQNE22g/lSaTthCKwMfp1bus2toRaJZLs3fAgeZqEDjzcP1n558Zmor+ywMExVP128jWi1TevcQKtxhU8PKd84amnfk6XGpv/QNj5Tgx8BTEq9ThB3AcA5U8NzhB6eRorl3hDBy1qvWh2YHsQitqpPsJCo+dSYSqyeaUzEklRO3xtUkQjAm/RxdPg1KkPZdGoiKaP6K2tVf7+uTOcbNCh7p3pxhT5IIGRIgR30iKEBONyLuFlM=;+yomX2CJJsZAk2zsL6jgTg=="
+secured: "+9JSa7G5jrFhmP6GZjxIptZuJKVKMDfz/7X33xfFCyxzquv3oHw3DyMd/bsEl6+4PCn7X0UEUm7qtLwH4+p5fBP39Gn8DdAWDuVmVw6iF1QEXQe84ftsd3SxjnKqKwVjQuRAPGjCB4eXEetPe1pvX3cFOSKqkDz6vzQnClRcfvDj4iAIuqgWSTc9YYNEGDcyV3GQDBPxTbi7MH3AIDpugBkfPcgmrI1J2dLm0w+wYHsAAVfTOoAUt/srwE1hzmJnOMNDwPPRvqjm+T6h+F2cKd7N7/0XaQ13SeAGQo4NYTwo+BgsqtBeSW0565hnSppFxRKZZfL85AaRZ3V3hc1r+D6JbqTk5X4tP3NuNuQcGP5I4OBOLV7FaoNPhHzEUtdhNvvgRbGguUNNUaPgb5akTV5w5WYdpGtrdxKA/ZzLEZquuUlHIsuz01gtpP9BEyfKzNltNmKCIricwRIm8wr4KmvDy/WuawoF9ouqlp6zARWa2bIZ9DJ9m6dB8BJMaNggPMbOGrkrX91ucwNYM7v7xw==;wsSsxRK5z78U70z6K8EN7A=="
 ---
 

@@ -41,6 +41,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Using Artificial Intelligence to Create Aperture Radar"
+    excerpt: "Carmakers are seeking to balance cost with capability as they increase the advanced driver assistance capabilities of their cars. Tesla, somewhat controversially, recently discontinued the use of radar on its vehicles in favor of a cameras-only sensor ..."
+    publishedDateTime: 2023-05-21T02:02:00Z
+    webUrl: "https://www.designnews.com/automotive-engineering/using-artificial-intelligence-create-aperture-radar"
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 39
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/sensor%20on%20car.jpg"
+        width: 3080
+        height: 1601
+        isCached: true
 
 secured: "ZOjxl7EuJ58vooLxv+olz/UEJwTpA0/7MzTVHNEq42UfQXf8n8IzyOtDIJzdc1Hg8xzHN5tb3MxFJVzufjom+uQ5Q/7yFaLU9ezVCpMgA+szD7ZRyCXKR0xf/r4yP0maEozvMt+17HbEp5bABLlnD0K1AtCsucRGpl6SmIlqwjqb4jWLVN0WUDBLoKV63GvNa5diuZ9ajdlpmOFkohnATa8ejOWtYpoNbDXyiLEO8cHFJZURiUE2RUR5VWSBJfHxM48Y+5i5paE98v76r+Iy51CTI8WSJB26VSoVqpTMsxx1Trg6lKABZdjF+ORdQjl1v5EIJtOBDs+UmmtF7n13vcyra9OtS0wOo7MOruIquUxlsARFNdUJmNkNS2bBhVkk+CB4prLVPRm4IBvnIYPmBujiUTGn3Cqy82+ijjiwkVzpc0pGw9rCrThiEHHCE1tCuf/UIbq3lNaEGoaclzczi7dEb8T+KSjbjXcEXi5MtmsDxf2HMgZpNyuCZGNrO3pfsiMNb4JLxnN4qEkFLSX9XQ==;16ZKRSYBmXRQkIORHWWOHg=="
 ---

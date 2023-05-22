@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/amp/"
 type: article
 quality: 87
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -53,17 +53,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 46
-  - title: "Is Artificial Intelligence a threat to the blue-collared industry?"
-    excerpt: "The rise of Artificial Intelligence is changing the job market, and blue-collar workers may be particularly vulnerable to job loss"
-    publishedDateTime: 2023-05-17T07:59:00Z
-    webUrl: "https://www.dqindia.com/is-artificial-intelligence-a-threat-to-the-blue-collared-industry/"
-    ampWebUrl: "https://www.dqindia.com/is-artificial-intelligence-a-threat-to-the-blue-collared-industry/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/is-artificial-intelligence-a-threat-to-the-blue-collared-industry/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 39
 
 secured: "FqwlMjWDRqNBhpMMZlwmwRNOqhC/3RH8nqIqloI10RZhE9QhBtPyRnrsN+NEX7XcOXzFTLeUOACB6RDbwxCCO33le6AFyZ/ilPUpzHa/FTD6HCMNOS9RkLjsK0DKgAA7UvvN+YELw36MoWoLlPK6ywaFdR2Uhv/1yjBIw+SZb72FC4Vz/orI6oAreyD+NbfXc+PdMRxdVwSXkZePNFIO5vTCUBWfE5+qyWEznGyABwCr1BfbFt2gUOKsgq/abbEVtqZuFmosBwX6klj1twuViz6/V4LkC1erfLJcNd4Y0LjUPBYrjHWMSl63U2fwVaqsHxuSD8NA51k3lmbs6j23mmoTn2SJ1LJLBG01h9H/h01LdN1vmEusALo0qscyC0W1fqFAqbfTsTjvOCtWYmxH0vcPtWfUZQ13H1m9hbOAOciPh7wO5NabrANuPFaGOAYeRXFfs+4n9+xehVIyD99LhOTG1IfOMcUaz3OnPUPKBB7WdtqvZlQfljmtKJGG5vLfY49HdY9C6rayLTAj4yvTmg==;EgkY4eSltfNDL0Jw4u4CiA=="
 ---

@@ -74,15 +74,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "The Future of War Is AI"
-    excerpt: "Louis Buckley, Content Developer at London’s Science Museum, plays rock, paper, scissors with Berti the Robot ... ultimate creation AI, already a living abbreviation of itself, might do, it makes me shiver. Brrr… Let me start with honesty, which ..."
-    publishedDateTime: 2023-05-17T09:05:00Z
-    webUrl: "https://www.thenation.com/article/society/war-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Nation
-      domain: thenation.com
-    quality: 19
 
 secured: "qqTjZ9KKKNIpYINRakRDG44oCKfEIb6G719zyfAM22lCYEHDVw1Rj8tJEW+270ngr88rsJikr1hBOwsjwcaAn4amQx1Yclq5oK5zV5XYLtZN/nozrpcijz9h78S55lAtW5xyl+HLKTiOeqyboKvxJiGbPOiIhvavL/XUjlV2LRnFHyZAElC/PUJKT4Ai2sNLg8mv9A5tC1o8qGZEvccMxkEbw8ltxUFEZg1DfTCTKdTsIt/AiOTFLESYHBxBBXIS5LX3ubl11e2qXzeNvT9d+7GmtBD4vC/r5vpDSNGVSHUCmS2burPPYObq0ttGAhfN6qoy+I0ira6whgTQatAHm9q0z54vjpENfAqiYAutdumyKZ+Sv7EwduX9AdCWvIYFAnvZ54eCuVGzt935iK2aJhbTPdWHDG+GgeK6x585/ybMVbnqjeAGWkQG08nzXVn/6dL6z2aU4G2t6iFin0HdmFQIXQPz5nbd5BZwMZX9vJR4g+6KGCbjPXnhgDejIg3jy3/BgGafCEXXzI5wZPjZdw==;SSpZHYFUHgPe078Mb6WuFg=="
 ---

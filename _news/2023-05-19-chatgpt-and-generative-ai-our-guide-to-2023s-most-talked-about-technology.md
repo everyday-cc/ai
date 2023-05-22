@@ -516,15 +516,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
-  - title: "ChatGPT and Education: The power of artificial intelligence and chatbots in the classroom"
-    excerpt: "Let’s talk AI. It’s no secret that artificial intelligence (AI) is quickly becoming one of the most powerful tools in today’s world. We’re talking self-driving cars, virtual assistants, and a whole lot more."
-    publishedDateTime: 2023-05-17T08:39:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/chatgpt-and-education-the-power-of-artificial-intelligence-and-chatbots-in-the-classroom/?source=app&frmapp=yes"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 27
   - title: "ChatGPT as ‘Educative Artificial Intelligence’: Highlights from ECNU Review of Education"
     excerpt: "ChatGPT, the popular artificial intelligence (AI)-powered chatbot that has made recent headlines, has several applications in the field of education. However, to gain maximum benefits for teaching and learning,"
     publishedDateTime: 2023-05-17T13:47:00Z

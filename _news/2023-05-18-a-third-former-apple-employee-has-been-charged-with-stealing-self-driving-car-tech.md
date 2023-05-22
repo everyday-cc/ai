@@ -45,38 +45,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Ex-Apple engineer accused of stealing self-driving cars technology for China. Details"
-    excerpt: "The DoJ indictment alleges a total of six separate counts that include theft of entire autonomy source code, tracking for an autonomous system, behavior planner for an autonomous system, among others."
-    publishedDateTime: 2023-05-17T08:59:00Z
-    webUrl: "https://www.livemint.com/auto-news/exapple-engineer-accused-of-stealing-self-driving-cars-technology-for-china-details-11684313681829.html"
-    ampWebUrl: "https://www.livemint.com/auto-news/exapple-engineer-accused-of-stealing-self-driving-cars-technology-for-china-details/amp-11684313681829.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/exapple-engineer-accused-of-stealing-self-driving-cars-technology-for-china-details/amp-11684313681829.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 52
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/05/17/600x338/AFP_1KE7TM_1568889762699_1684313857494.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Former Apple engineer charged for stealing self-driving tech for Chinese company"
-    excerpt: "Weibao Wang was a software engineer at Apple between 2016 and 2018 and served on the Annotation Team, granting him access to exclusive databases, which were restricted to a select few employees."
-    publishedDateTime: 2023-05-17T07:47:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/cars/former-apple-engineer-charged-for-stealing-self-driving-tech-for-chinese-company-41684308954496.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/former-apple-engineer-charged-for-stealing-self-driving-tech-for-chinese-company/amp-41684308954496.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/former-apple-engineer-charged-for-stealing-self-driving-tech-for-chinese-company/amp-41684308954496.html"
-    type: article
-    provider:
-      name: Auto News India
-      domain: hindustantimes.com
-    quality: 39
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2023/05/17/1600x900/Apple_Logo_1684309462976_1684309465807.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Self-Driving Trucks Start Hauling Freight"
     excerpt: "This undated photo shows Chris Urmson, CEO of self-driving vehicle technology company Aurora Innovation. Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston. The trucks will run on an ..."
     publishedDateTime: 2023-05-20T04:53:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestatesman.com/technology/microsoft-india-adds-4-new-l
 cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/microsoft-india-adds-4-new-languages-to-translator-1503182658.html/amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
         width: 800
         height: 500
         isCached: true
-  - title: "Automotive Speech Recognition System Market Business Strategies, Industry Share, Size 2023 to 2030 | Nuance, Microsoft, Alphabet"
-    excerpt: "A detailed study accumulated to offer current insights about important features of the Automotive Speech Recognition"
-    publishedDateTime: 2023-05-17T07:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-speech-recognition-system-market-business-strategies-industry-share-size-2023-to-2030-nuance-microsoft-alphabet-2023-05-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
   - title: "Microsoft Translator app get support for these three Indian languages"
     excerpt: "Microsoft has announced the addition of three new Indian languages in Micorosft Translator. The company has revealed that it has added Konkani, Maithi"
     publishedDateTime: 2023-05-18T12:18:00Z

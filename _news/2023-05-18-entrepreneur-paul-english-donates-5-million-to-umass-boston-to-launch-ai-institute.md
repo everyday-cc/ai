@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Boston.com readers are anxious over artificial intelligence"
-    excerpt: "You’ll recall that the Florida software firm Levatas recently announced it had figured out how to communicate with Boston Dynamics robots using the artificial intelligence chatbot ChatGPT. We asked how you felt about the combination of self-teaching ..."
-    publishedDateTime: 2023-05-17T09:01:00Z
-    webUrl: "https://www.boston.com/community/readers-say/boston-com-readers-are-anxious-over-artificial-intelligence/"
-    type: article
-    provider:
-      name: Boston.com
-      domain: boston.com
-    quality: 41
-    images:
-      - url: "https://bdc2020.o0bc.com/wp-content/uploads/2023/05/https___arcmigration-prdweb.bostonglobe.com_r_Boston_2011-2020_2017_05_04_BostonGlobe.com_BigPicture_Images_634118910-6462866968c29-scaled.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
   - title: "Entrepreneur Paul English donates $5M to UMass Boston to launch AI Institute"
     excerpt: "Paul English sees artificial intelligence as the next big thing, something he wants to focus on for the next decade. That’s why the entrepreneur and philanthropist has pledged $5 million to UMass Boston to establish a new AI-focused institute at the school, so students can be at the forefront of AI technology as it evolves."
     publishedDateTime: 2023-05-17T18:05:00Z
