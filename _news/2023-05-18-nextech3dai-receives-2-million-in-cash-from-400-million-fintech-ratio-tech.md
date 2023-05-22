@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Nextech3D.ai Receives $2 Million in Cash From $400 million FinTech Ratio Tech"
-excerpt: "With access to a $400 million credit facility, Ratio is able to fund Nextech3D.ai Accounts Receivables With Zero dilution For The Foreseeable Future"
-publishedDateTime: 2023-05-18T11:45:00Z
+excerpt: "With access to a $400 million credit facility, Ratio is able to fund Nextech3D.ai Accounts Receivables With ... initial $2,000,000 cash infusion from FinTech Ratio Tech representing zero-dilutive ..."
+publishedDateTime: 2023-05-18T12:17:00Z
 originalUrl: "https://tulsaworld.com/ap/state/nextech3d-ai-receives-2-million-in-cash-from-400-million-fintech-ratio-tech/article_3eefe327-531a-522e-b87b-da964e5c6b12.html"
 webUrl: "https://tulsaworld.com/ap/state/nextech3d-ai-receives-2-million-in-cash-from-400-million-fintech-ratio-tech/article_3eefe327-531a-522e-b87b-da964e5c6b12.html"
 type: article
-quality: 16
+quality: 36
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/custom/image/aacc4e10-0064-11e7-adc2-d3321407a1f8.jpg?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Bahrain set to host top fintech summit"
@@ -34,22 +40,6 @@ related:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/MTljZGQxZGYtZTZjNC00/2/180308083038dsae-jpg.jpeg?f=3%3A2"
         width: 723
         height: 482
-        isCached: true
-  - title: "Top trends in the fintech space"
-    excerpt: "May 17, marks the annually observed World Telecommunications and Information Society Day (WTISD). Now in its 17th year, WTISD has helped to raise awareness of the possibilities that"
-    publishedDateTime: 2023-05-17T05:43:00Z
-    webUrl: "https://www.jamaicaobserver.com/business/top-trends-in-the-fintech-space/"
-    ampWebUrl: "https://www.jamaicaobserver.com/business/top-trends-in-the-fintech-space/amp/"
-    cdnAmpWebUrl: "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/business/top-trends-in-the-fintech-space/amp/"
-    type: article
-    provider:
-      name: The Jamaica Observer
-      domain: jamaicaobserver.com
-    quality: 44
-    images:
-      - url: "https://imengine.public.prod.jam.navigacloud.com/?uuid=972d3ff5-35e6-59fa-9452-6b64552945ae&function=fit&type=preview"
-        width: 500
-        height: 223
         isCached: true
   - title: "Opportunities remain for fintech to turbocharge MSME growth"
     excerpt: "Speaking from a fintech’s point-of-view, the positive impact of digital technologies on solving the credit constraint of MSME enterprises has been noted at the scientific level, with AI-based credit fintech solutions able to provide an adequate response ..."
@@ -137,6 +127,6 @@ related:
       domain: proactiveinvestors.com
     quality: 13
 
-secured: "2Azny0UEz3LcJM4jXMJuLKRglSYH44JRnLrVVn2DZ+7QAS5BcEfjBL4bBs1dScb8q+lAi6wvUXOMFoV+55eM7SpF42fFXwBx6847QugYZ0FNPkC0R3MRsYVy0/LRrabuf0ccPrcN9rRV4wH9dOPCjXtFNxHdIKChYZb/H8qPZvT7jFt51N4nip9FSgbg1FcaDwH78BPe6kIgFb7HNwOASQ3KYHHfxgG6nxirw/Q+ENXwS4c2WrFV9NeQecssOic+iI/IHtL+pwKukClJBqPyazfffep3B3Pv68yHkXFbKD5XwcMWmBjHUXshNw7vXeQ0vhKhnOVW4K0N7CenL47pw1XllnGYXrffsReI30ctx7A=;xW8b73YN6iw3NkNvoNp2GA=="
+secured: "X+HHi9FsooaNFAxXydOqGCe2gvKU2vUU44Po+fAGz5kPkU7UPq82DJakiiFElU4W8KT7EZANMQCscFbsCVLp/LkN8jzPzhKn8xqQLgPhs5q0CKkkMezecfMsGrcNXr/V48DDARgNB1dEMqnrXWfVOVTyn7pQfzKYfL5PU8CBWHCb6j1TlDupzxE0Yim7v31dDR4C9N5/A8FGijtnVCmWYpFBb9ePMZDfh4+hXWMM1BjkEwfLOF25PVStUtWKkotM9eW4OVtLy+PYMSwcHahH52HF0VFMEYuATrGY2bvCOrjUvxFDqajGxjR0SNpWEraVcrX0NbRu1X6vB4rV5xKfK9MI/dzm5bzsKl7oaJshrPw=;hu/FUTUR3N69xGOHECpk/g=="
 ---
 

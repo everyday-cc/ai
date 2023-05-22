@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-make-money-china-grieving-raise-d
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5?amp"
 type: article
 quality: 81
-heat: 86
+heat: 81
 published: true
 
 provider:

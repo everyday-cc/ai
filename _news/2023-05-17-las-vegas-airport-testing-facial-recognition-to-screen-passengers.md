@@ -9,7 +9,7 @@ ampWebUrl: "https://www.reviewjournal.com/business/las-vegas-airport-testing-fac
 cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/las-vegas-airport-testing-facial-recognition-to-screen-passengers-2777726/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -41,19 +41,19 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "TSA testing facial recognition at more airports, raising privacy concerns"
-    excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"
-    publishedDateTime: 2023-05-21T00:30:00Z
-    webUrl: "https://omaha.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_afb8746e-ea8a-551c-bb05-26bfc9b02f28.html"
+  - title: "TSA tries out facial recognition technology at 16 U.S. airports"
+    excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through -- all without having to hand over their identification to the TSA officer sitting behind the screen."
+    publishedDateTime: 2023-05-21T07:41:00Z
+    webUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 53
+      name: Northwest Arkansas Democrat Gazette
+      domain: nwaonline.com
+    quality: 54
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/78/d7899d8f-cf01-52ab-acbe-16fe1f61c88c/64642a155739f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204387909_1G2facial0521_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
         isCached: true
   - title: "TSA's Facial Recognition Tech Raises Questions About Bias and Data Security"
     excerpt: "Analysts and lawmakers are concerned about a new TSA program that instructs passengers to insert their IDs into a machine and takes a pictures of them."
@@ -64,15 +64,6 @@ related:
       name: Reason
       domain: reason.com
     quality: 49
-  - title: "TSA tries out facial recognition technology at 16 U.S. airports"
-    excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through -- all without having to hand over their identification to the TSA officer sitting behind the screen."
-    publishedDateTime: 2023-05-21T07:46:00Z
-    webUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 34
 
 secured: "Bjfd9F0n1jUVjqi07u096EqIYz2RYAAgOX52AlFMyaTYs0ffhIBB0Z7DcMrNN3CeGry24lF1FsQIy32hZ6JNN2tNe6+Mq3GU2egGxY/BOE/yDar+YxY9GNqtHlsh7a8oosOV76SBF6oFujAHBUyO4NbKHdSMRtlcmu27Poi4tzZ1vk0fSVorAQqGo/30HckBKklZtH16FSreQ22xYSmx7B/o0DrmWwiE+OmRLyQDewtNxqkt5mT5bqY+rvyoBpihPMNVRZ4CN5V87e2zdmA1j932d5+NvVn0r1cC1JOpUl7nvODjY5c/fyIB253m17nOBfBQOVCxTVh9YYrF1W9AUnfTd5tlDfhGR1YHBvChPxieN/dvotyRw4vLWCiGSMp2IRkrsAidliPQ11QIgcJZMCyaEyM//CWp3madsxpEvumOhZdWncboK1JVrLzdbPb9pcJvoXYiTBtdew7JdVQmGH1V03Jv+8Qfu22MCauWiCclktKxdw88OspcT8xjtMucrcsB0/Cc4yJ2V7R025sQ2w==;noJcp+/V+eoMNW+tA74T9Q=="
 ---

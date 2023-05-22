@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20230519/Researchers-use-machine
 webUrl: "https://www.news-medical.net/news/20230519/Researchers-use-machine-learning-to-identify-synthetic-extreme-DNA-sequences.aspx"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -28,12 +28,17 @@ related:
   - title: "Machine Learning Identified “Synthetic Extreme” DNA Sequences"
     excerpt: "Researchers tested millions of different DNA sequences with a machine learning model, finding rare, \"synthetic extreme\" sequences with specifically designed gene activation functions."
     publishedDateTime: 2023-05-19T08:26:00Z
-    webUrl: "https://www.technologynetworks.com/tn/news/machine-learning-identified-synthetic-extreme-dna-sequences-373555"
+    webUrl: "https://www.technologynetworks.com/informatics/news/machine-learning-identified-synthetic-extreme-dna-sequences-373555"
     type: article
     provider:
       name: technologynetworks
       domain: technologynetworks.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/373555/machine-learning-identified-synthetic-extreme-dna-sequences-373555-640x360.jpg?cb=20230519"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "fDKz616xm9WXRVdQ4zG3v2AiYkKHyhq7DHVAd4ZeCZ6t6J7o8tgmkBxkTCdzCqAKNjpTJJNpyVQnTZoUecj0e2ipxgh+XvAFoAbMxDiwa5V1AN7m5Oo9jetR3qdAiKZJRJMKC8x0+CsjvwjPdsqi2JdbiGEXC4ST+ZJghhHNpJcCoKn8yUhvajzvtoLNqVbCl/a7UVc+LznBUYZ717PnHOOkXnXgItyFtSSfhg6Q+c6fTosatz1EeWsS00P4FAfMZdNw+3umwfIXoTrKURigGUqHLoxikAYbgD9toOInKob8/NzJWqNnwaiULtn6dpYfb8kTuGyd3Dcu79muuzEVm5VfuHmfPTf/PAYBS/DpLT4=;YSSgPYghqfiWEx1uAFI+LA=="
 ---

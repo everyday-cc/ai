@@ -1,79 +1,79 @@
 ---
 category: news
 title: "TSA testing facial recognition at more airports, raising privacy concerns"
-excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"
+excerpt: "The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen. It’s all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country."
 publishedDateTime: 2023-05-21T00:30:00Z
-originalUrl: "https://omaha.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_afb8746e-ea8a-551c-bb05-26bfc9b02f28.html"
-webUrl: "https://omaha.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_afb8746e-ea8a-551c-bb05-26bfc9b02f28.html"
+originalUrl: "https://tulsaworld.com/eedition/page-a4/page_ec7d726c-513f-5e72-92a1-549cc4a8604f.html"
+webUrl: "https://tulsaworld.com/eedition/page-a4/page_ec7d726c-513f-5e72-92a1-549cc4a8604f.html"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/78/d7899d8f-cf01-52ab-acbe-16fe1f61c88c/64642a155739f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/eedition/e/c7/ec7d726c-513f-5e72-92a1-549cc4a8604f/64696e8c27c1c.fullsize-img.jpg"
+    width: 792
+    height: 1638
     isCached: true
 
 related:
-  - title: "Las Vegas airport testing facial recognition to screen passengers"
-    excerpt: "The TSA says the security program is voluntary and accurate, but critics have raised concerns about bias in facial recognition technology."
-    publishedDateTime: 2023-05-17T16:14:00Z
-    webUrl: "https://www.reviewjournal.com/business/las-vegas-airport-testing-facial-recognition-to-screen-passengers-2777726/"
-    ampWebUrl: "https://www.reviewjournal.com/business/las-vegas-airport-testing-facial-recognition-to-screen-passengers-2777726/amp/"
-    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/las-vegas-airport-testing-facial-recognition-to-screen-passengers-2777726/amp/"
+  - title: "Multan airport 4th in country to get Facial Recognition System"
+    excerpt: "The Multan International Airport has become the fourth in the country to have a functional Facial Recognition System, a Pakistan Civil Aviation Authority spokesperson confirmed Friday. The"
+    publishedDateTime: 2023-05-19T14:14:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system"
+    ampWebUrl: "https://www.thenews.com.pk/amp/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system"
     type: article
     provider:
-      name: Las Vegas Review-Journal
-      domain: reviewjournal.com
-    quality: 74
+      name: The News International
+      domain: thenews.com.pk
+    quality: 76
     images:
-      - url: "https://www.reviewjournal.com/wp-content/uploads/2023/05/17778613_web1_AP23116691165190.jpg?w=1200"
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-05-19/1071894_065954_updates.jpg"
+        width: 700
+        height: 400
+        isCached: true
+  - title: "Harry Reid International Airport in Las Vegas testing TSA facial recognition technology"
+    excerpt: "Harry Reid International Airport in Las Vegas is part of a pilot project by the TSA to assess the use of facial recognition technology."
+    publishedDateTime: 2023-05-17T16:42:00Z
+    webUrl: "https://www.thespectrum.com/story/news/2023/05/17/las-vegas-airport-among-ttsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/70227099007/"
+    type: article
+    provider:
+      name: The Spectrum
+      domain: thespectrum.com
+    quality: 46
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/05/16/PREN/08c5e615-7904-4d40-8684-d11579b6c89f-AP23116691290041.jpg?auto=webp&crop=7421,4175,x0,y378&format=pjpg&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
-    excerpt: "BALTIMORE—A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through—all without having to hand over their identification to the TSA officer sitting behind the screen."
-    publishedDateTime: 2023-05-20T16:12:00Z
-    webUrl: "https://businessmirror.com.ph/2023/05/21/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
+  - title: "Harry Reid International Airport in Las Vegas testing TSA facial recognition technology"
+    excerpt: "It's all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country, including Harry Reid ..."
+    publishedDateTime: 2023-05-18T04:10:00Z
+    webUrl: "https://www.rgj.com/story/news/2023/05/16/las-vegas-airport-among-ttsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/70223093007/"
     type: article
     provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 59
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2023/05/world01-052123.jpg"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "TSA's Facial Recognition Tech Raises Questions About Bias and Data Security"
-    excerpt: "Analysts and lawmakers are concerned about a new TSA program that instructs passengers to insert their IDs into a machine and takes a pictures of them."
-    publishedDateTime: 2023-05-18T19:34:00Z
-    webUrl: "https://reason.com/2023/05/18/tsas-facial-recognition-tech-raises-questions-about-bias-and-data-security/"
+      name: Reno Gazette-Journal
+      domain: rgj.com
+    quality: 26
+  - title: "TSA Ramps Up Facial Recognition Pilot"
+    excerpt: "Next time you’re trying to catch a flight, you might spot a new initiative from the Transportation Security Administration (TSA) with a controversial component: facial recognition. The TSA has ramped up its biometric identity verification pilot by installing facial recognition systems in more airports."
+    publishedDateTime: 2023-05-17T19:20:00Z
+    webUrl: "https://www.extremetech.com/internet/tsa-ramps-up-facial-recognition-pilot"
     type: article
     provider:
-      name: Reason
-      domain: reason.com
-    quality: 49
-  - title: "TSA tries out facial recognition technology at 16 U.S. airports"
-    excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through -- all without having to hand over their identification to the TSA officer sitting behind the screen."
-    publishedDateTime: 2023-05-21T07:46:00Z
-    webUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 34
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
 
-secured: "UHSjImpPSiwZjTwJzlxvcxdaJoYXIKjRUAorB79Jk0J5vIcPvepdpJFSaQGPzbURPNdwgPMB0t2BSZxA9Ckor9iZqS+KI1TrDwjKQtSXpSiuJn4uLVZRBbNNR9vTF7xRu3u4WD5GHtGpQXdwaTtbQSnVO14axymKDs7n2xCEgC5KcRjrn//8UWPu6Db+nUXEEBe6bHQY1xiQ9ppgM+S11i+8GSIfoANFISghtW/hv8bEoRtVnAAThBsXHHY6g6bIi4ieviE+gxXhbgtkYbP0OpfwY2fcDPAhMg5pS9Hizo42iHZ4kBl17YvhSkiq66WHZ573iWIRJILjMq2UCT1UyyZKmi9DPf3tC6e1djRrPBo=;lmyajfitBiAESuci35OzcA=="
+secured: "l9gmedE8IZLSHRT6bdiSa3X0iIivFC/rprcibTaLE5yJwiXwxnh3/phh4fqx6tpNY4z1htdNmoBwxMIR0lWqI/tce5APWOUQGnIUPl2Y7DTT7MNiq8zMEcMgubtaVDMcTun7kQJ+w9BGfymg+rbKzIpI7pNck9Xy2Wxh6vtjCrYLtu6lu/2FwQldnd8pWSwNz9HeGiimupT5PjKmz5oXH8AxfvsyN2pUuUv9a19vsQvmgZqjOtuSTk16T3zATa2iFx5Wow/UuYeQbI8WqMguYKMYXU4bmoFqBUL30IQZvY07Z37+AhHF8jStvPczLDT/WXv/fTkZcbI28b1NhoiR7q3P/GQuCNdTnK3dxlysj1U=;ITmY9zEHWpWO0vgiafbQeg=="
 ---
 

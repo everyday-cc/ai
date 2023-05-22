@@ -7,7 +7,7 @@ originalUrl: "https://www.theatlantic.com/science/archive/2023/05/exothings-spac
 webUrl: "https://www.theatlantic.com/science/archive/2023/05/exothings-space-asteroids-planets-rings/674093/"
 type: article
 quality: 54
-heat: 66
+heat: 64
 published: false
 
 provider:

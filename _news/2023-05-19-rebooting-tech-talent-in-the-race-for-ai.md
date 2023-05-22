@@ -22,125 +22,116 @@ topics:
   - AI
 
 related:
-  - title: "The case for a code of conduct for AI in healthcare"
-    excerpt: "The rise of generative AI has prompted an AI ethicist to propose a framework to mitigate the risks of using the ever-developing tech in the healthcare space. This coincides with the chief executive of ChatGPT’s OpenAI urging US legislators to start regulating AI for the safety of humanity."
-    publishedDateTime: 2023-05-17T07:07:00Z
-    webUrl: "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/"
-    ampWebUrl: "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true"
+  - title: "Apple is on the hunt for generative AI talent"
+    excerpt: "Apple currently has a dozen of job postings on its career page to look for experts in the field of generative AI."
+    publishedDateTime: 2023-05-19T16:23:00Z
+    webUrl: "https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/"
+    ampWebUrl: "https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/apple-generative-ai-jobs/amp/"
     type: article
     provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 106
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://assets.newatlas.com/dims4/default/4f3d9da/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F14%2Fd0%2F9be4e9844471ab60db09eb3130d5%2Fdepositphotos-198133002-l.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1247232650.jpg?resize=1200,700"
         width: 1200
-        height: 800
+        height: 700
         isCached: true
-  - title: "CDW Executive SummIT: Diving Into the Potential of Artificial Intelligence in Healthcare"
-    excerpt: "AI is a hot topic right now, and SummIT attendees expressed both excitement and caution over potential use cases."
-    publishedDateTime: 2023-05-18T17:01:00Z
-    webUrl: "https://healthtechmagazine.net/media/video/cdw-executive-summit-diving-potential-artificial-intelligence-healthcare"
-    ampWebUrl: "https://healthtechmagazine.net/media/video/cdw-executive-summit-diving-potential-artificial-intelligence-healthcare?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/media/video/cdw-executive-summit-diving-potential-artificial-intelligence-healthcare?amp"
+  - title: "How generative AI’s impact on digital advertising methodology is evolving"
+    excerpt: "Despite issues around brand safety, intellectual property and security, generative AI tools for brands and advertisers are here to stay."
+    publishedDateTime: 2023-05-21T16:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ais-impact-on-digital-advertising-methodology-is-evolving/"
+    ampWebUrl: "https://venturebeat.com/ai/how-generative-ais-impact-on-digital-advertising-methodology-is-evolving/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-generative-ais-impact-on-digital-advertising-methodology-is-evolving/amp/"
     type: article
     provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 65
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
     images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/video/Screenshot%202023-05-15%20at%2012.49.23%20PM.jpg?itok=nIfK2DYG"
-        width: 1440
-        height: 500
-        isCached: true
-  - title: "How ChatGPT and artificial Intelligence are impacting education"
-    excerpt: "From finance to health care to policing, artificial intelligence is becoming more commonplace by the day. It’s also becoming harder to avoid in our schools. ChatGPT is a chatbot that generates startlingly human-like text in response to brief prompts."
-    publishedDateTime: 2023-05-17T15:30:00Z
-    webUrl: "https://www.wfae.org/show/charlotte-talks-with-mike-collins/2023-05-17/how-chatgpt-and-artificial-intelligence-are-impacting-education"
-    type: article
-    provider:
-      name: WFAE
-      domain: wfae.org
-    quality: 56
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/f084be8/2147483647/strip/true/crop/5321x2794+0+598/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F25%2Fgettyimages-488893054-9cacac05ea39cc2170c1f9af7703fe3338985f17.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/annevb_a_robot_creating_digital_advertising._Colorful_futuristi_61ae1c6e-6949-4ee2-abcc-91b87d5c6f19.png?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Beware of biased, misleading information while using AI in healthcare: WHO"
-    excerpt: "It was 'imperative' to assess the risks of using generated large language model tools (LLMs), like ChatGPT, to protect and promote human well-being.health. healthcare. fitness. wellness. well-being. biased."
-    publishedDateTime: 2023-05-18T10:31:00Z
-    webUrl: "https://www.onmanorama.com/lifestyle/health/2023/05/18/beware-biased-misleading-information-while-using-ai-healthcare-who.html"
+  - title: "Parallel Domain unveils Reactor, a generative AI-based synthetic data generation engine"
+    excerpt: "New tool from Parallel Domain enhances AI performance in industries such as autonomous vehicles and drones by hgeneratingigh-quality images."
+    publishedDateTime: 2023-05-17T21:15:00Z
+    webUrl: "https://venturebeat.com/ai/parallel-domain-unveils-reactor-a-generative-ai-based-synthetic-data-generation-engine/"
+    ampWebUrl: "https://venturebeat.com/ai/parallel-domain-unveils-reactor-a-generative-ai-based-synthetic-data-generation-engine/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/parallel-domain-unveils-reactor-a-generative-ai-based-synthetic-data-generation-engine/amp/"
     type: article
     provider:
-      name: onmanorama
-      domain: onmanorama.com
-    quality: 52
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
     images:
-      - url: "https://img.onmanorama.com/content/dam/mm/en/lifestyle/health/images/2023/5/18/ai-healthcare-c.jpg"
-        width: 1248
-        height: 650
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/1-highly-preferred-option-reflects-the-diversity-of-what-Gen-AI-can-generate.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "7 Semiconductor Stocks Cashing In on the AI Hype"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Semiconductor stocks are gaining importance as the technology is increasingly"
-    publishedDateTime: 2023-05-18T10:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-semiconductor-stocks-cashing-in-on-the-ai-hype-1032336987"
+  - title: "Boston Isn’t Afraid of Generative AI"
+    excerpt: "The city’s first-of-its-kind policy encourages its public servants to use the technology—and could serve as a blueprint for other governments."
+    publishedDateTime: 2023-05-19T16:07:00Z
+    webUrl: "https://www.wired.com/story/boston-generative-ai-policy/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Risks Posed by AI Technology Spur Calls for New Regulatory Agency"
-    excerpt: "It could be charged with granting licenses for AI platforms, setting operating standards and enforcing compliance with the rules, according to proponents including Sam Altman, chief executive of ChatGPT creator OpenAI."
-    publishedDateTime: 2023-05-18T12:59:00Z
-    webUrl: "https://www.wsj.com/articles/risks-posed-by-ai-technology-spur-calls-for-new-regulatory-agency-8cc2dd76"
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/646799a606bd08d2f808af39/191:100/w_1280,c_limit/Keyboard_bent_AI_ideas_GettyImages-1469762438.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "Study combines quantum computing and generative AI for drug discovery"
+    excerpt: "Insilico Medicine, a clinical stage generative artificial intelligence (AI)-driven drug discovery company, today announced that it combined two rapidly developing technologies, quantum computing and generative AI,"
+    publishedDateTime: 2023-05-19T13:54:00Z
+    webUrl: "https://phys.org/news/2023-05-combines-quantum-generative-ai-drug.html"
+    ampWebUrl: "https://phys.org/news/2023-05-combines-quantum-generative-ai-drug.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-combines-quantum-generative-ai-drug.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/insilico-medicine-led-1.jpg"
+        width: 2500
+        height: 1313
+        isCached: true
+  - title: "Fear the fire or harness the flame: The future of generative AI"
+    excerpt: "AI may be more advanced than we think. We must harness its benefits while mitigating the dangers through standards and common sense."
+    publishedDateTime: 2023-05-20T13:39:00Z
+    webUrl: "https://venturebeat.com/ai/fear-the-fire-or-harness-the-flame-the-future-of-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 47
-  - title: "WHO says using AI in health care carries a multitude of risks"
-    excerpt: "More industries are investing in AI, including health care. But the World Health Organization says the industry needs to look beyond its exciting potential and look into the risks."
-    publishedDateTime: 2023-05-18T21:54:00Z
-    webUrl: "https://scrippsnews.com/stories/who-says-using-ai-in-health-care-carries-a-multitude-of-risks/"
+  - title: "State of AI adoption for enterprise IT management in the Middle East"
+    excerpt: "With large language models (LLMs) in the market, the AI hype cycle is at an all-time high, and AI adoption is gaining traction."
+    publishedDateTime: 2023-05-19T11:30:00Z
+    webUrl: "https://gulfbusiness.com/state-of-ai-adoption-in-the-middle-east/"
     type: article
     provider:
-      name: scrippsnews
-      domain: scrippsnews.com
+      name: Gulf Business
+      domain: gulfbusiness.com
     quality: 39
     images:
-      - url: "https://cdn.scrippsnews.com/images/videos/m/1684445050_OQqRsh.jpg"
-        width: 640
-        height: 360
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/05/digitization-4770296_1920.jpg"
+        width: 930
+        height: 620
         isCached: true
-  - title: "WHO calls for safe, ethical use of AI tools for health"
-    excerpt: "The World Health Organization (WHO) has called for caution when deploying large language model tools (LLMs) generated by artificial intelligence (AI)."
-    publishedDateTime: 2023-05-17T13:38:00Z
-    webUrl: "https://english.ahram.org.eg/NewsContent/7/48/501060/Life--Style/Health/WHO-calls-for-safe,-ethical-use-of-AI-tools-for-he.aspx"
+  - title: "Is generative AI the secret to scaling customer success?"
+    excerpt: "Generative AI can even learn to personalize the tone, style, and voice of your content to fit your brand so that all you need to do is fact-check, finesse, and humanize it. But amid all this promise, where do you start incorporating AI into your customer ..."
+    publishedDateTime: 2023-05-18T13:32:00Z
+    webUrl: "https://www.fastcompany.com/90896251/is-generative-ai-the-secret-to-scaling-customer-success"
     type: article
     provider:
-      name: Hebdo Ahram
-      domain: ahram.org.eg
-    quality: 34
-  - title: "WHO warns against bias, misinformation in using AI in healthcare"
-    excerpt: "The World Health Organization called for caution on Tuesday in using artificial intelligence for public healthcare, saying data used by AI to reach decisions could be biased or misused. The WHO said it was enthusiastic about the potential of AI but had concerns over how it will be used to improve access to health information,"
-    publishedDateTime: 2023-05-17T09:41:00Z
-    webUrl: "https://www.fijitimes.com/who-warns-against-bias-misinformation-in-using-ai-in-healthcare/"
-    type: article
-    provider:
-      name: Fiji Times
-      domain: fijitimes.com
-    quality: 34
-  - title: "The Future of War Is AI"
-    excerpt: "Louis Buckley, Content Developer at London’s Science Museum, plays rock, paper, scissors with Berti the Robot ... ultimate creation AI, already a living abbreviation of itself, might do, it makes me shiver. Brrr… Let me start with honesty, which ..."
-    publishedDateTime: 2023-05-17T09:05:00Z
-    webUrl: "https://www.thenation.com/article/society/war-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Nation
-      domain: thenation.com
-    quality: 19
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 17
 
 secured: "p8N+Jb0y5apGRw7nUlsKP3KkJtQXmT+hDW/wcGD12blTX/n0TbACW8rI1K0Z9JMdivTrS7MhZ3W9PQlgNG0LBDpXJU5c6dxTxKx+CjN8YshxEUUzP2DmA+8I8BLk44kZGt8AMLft2+29KFlQgS8YhrGXxnVx2atsr6E99f85ZXYAna+nnMhk6aaIzhNUte6ihUnALR2Mfl4laq4PCdrEjNRUcCgy4YyHhDEE4IBpLBN+qmy3IFPqsdELwKjB6WOKPQByt0p1wR/2Tntlw7Wl9h/IJah3pB/NI/3iDL63468fFsAdBg3nIc3DCiE0Yubw5QXOB9j0CfK192Ygz+OnbePuI/aN5AwbbOBY1u2mQjnh93dfQZcQ/nPqC/JVuWowgaKSkt/9odLGH9WaM30ZC0qUM9D/Rsrft18cZeuLlYigWUuS8tNHDpX/3m0nSlgn89tPYEs+iaEL5OG7H6FV06XN0ZSqD8vjRvJKrMHyfDa1uJZyKy0TKKoONuABmV6ZkjtlCHUjxn4U2sjli9/LSQ==;jlpT9usQd3cTqB+HKa4Ufw=="
 ---

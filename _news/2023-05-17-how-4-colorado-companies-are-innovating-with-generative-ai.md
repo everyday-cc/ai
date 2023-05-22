@@ -49,12 +49,17 @@ related:
   - title: "AI the Latest Instance of our Capacity for Innovation Outstripping our Capacity for Ethics"
     excerpt: "The eagerness with which movie and television studios have proposed to use artificial intelligence to write content collides with the concern of Writers Guild members for their employment security and pay in the latest episode of technological innovation running ahead of ethical deliberation."
     publishedDateTime: 2023-05-21T16:59:00Z
-    webUrl: "https://hnn.us/article/185706"
+    webUrl: "https://historynewsnetwork.org/article/185706"
     type: article
     provider:
       name: History News Network
-      domain: hnn.us
-    quality: 24
+      domain: historynewsnetwork.org
+    quality: 44
+    images:
+      - url: "https://s3.amazonaws.com/hnn-bucket/sites/default/files/185706-WGAStrikeAI.png"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "qeZKILFZsxIWX+inRGAOFRIsgctQQ39WIbh8gkuOUH+LnrZ+jgMiCvPM+/K3SCTfTQGBuzpjjf3NJbYs6vTR0Y28KDpfpW6iIQz9N5ULYB4/xETYmp/4zrN124HpONhK3Bb8V7fiyPvc2aCYDdRjaMwb+7WB4KEzt9UAb+dQIXnzhCIdGBwMIS3mEw22t7ofOogl9G1PSg5cDJALYs4KxyxIXVAeFxhyW8Gru31nLS5SxF/AOvzPOORqKDeVUdE1izvekXlLTHKwfDCjQwLj9jNSJuKSRciGF0gaW9slHEt74XoW9DNsqRBL0WsgU4SJkwq92GZzstSfJKdPzyBjJIlufYSLui+uKQVCqYmctbYOqiakRzI8nmvvonBpnnL6ZQtRG3/h+rLzsZ1Wlrg6tiAEmOikA4ZIO9QXm+7itwUVINSlt1MBkg4ebsmsS4jT0ISR3QRNV89NDHBzOtxD5F4+sybTPp2LqymgTXZi66ahTqtsUJM1fKGOwjr6e1eb/WtoP67eSgk1+meNC6++9Q==;itHBoFcQ9gpSBnNSzoc7yQ=="
 ---

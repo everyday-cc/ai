@@ -19,75 +19,54 @@ topics:
   - AI
 
 related:
-  - title: "The case for a code of conduct for AI in healthcare"
-    excerpt: "The rise of generative AI has prompted an AI ethicist to propose a framework to mitigate the risks of using the ever-developing tech in the healthcare space. This coincides with the chief executive of ChatGPT’s OpenAI urging US legislators to start regulating AI for the safety of humanity."
-    publishedDateTime: 2023-05-17T07:07:00Z
-    webUrl: "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/"
-    ampWebUrl: "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true"
+  - title: "Sam Altman: CEO of OpenAI calls for US to regulate artificial intelligence"
+    excerpt: "The creator of advanced chatbot ChatGPT has called on US lawmakers to regulate artificial intelligence (AI). Sam Altman, the CEO of OpenAI, the company behind ChatGPT, testified before a US Senate committee on Tuesday about the possibilities - and pitfalls - of the new technology."
+    publishedDateTime: 2023-05-17T11:26:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-65616866.amp"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-65616866.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-65616866.amp"
     type: article
     provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 106
+      name: BBC
+      domain: bbc.com
+    quality: 100
     images:
-      - url: "https://assets.newatlas.com/dims4/default/4f3d9da/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F14%2Fd0%2F9be4e9844471ab60db09eb3130d5%2Fdepositphotos-198133002-l.jpg"
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2715/production/_129750001_1dd1b383d243c38a83f27d131f562f525931fc1f.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "US senator introduces bill to create a federal agency to regulate AI"
+    excerpt: "Days after OpenAI CEO Sam Altman testified in front of Congress and proposed creating a new federal agency to regulate artificial intelligence, a US senator has introduced a bill to do just that."
+    publishedDateTime: 2023-05-18T09:00:00Z
+    webUrl: "https://www.cnn.com/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230517144152-senator-michael-bennet-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Lawmakers reveal AI concerns over 'future of humanity' following OpenAI CEO's Senate testimony"
+    excerpt: "Displaying bias, foreign adversaries like China becoming dominant, and outsmarting humans were all top artificial intelligence concerns for members of Congress."
+    publishedDateTime: 2023-05-20T06:00:00Z
+    webUrl: "https://www.foxnews.com/politics/lawmakers-reveal-ai-concerns-over-future-humanity-following-openai-ceos-senate-testimony"
+    ampWebUrl: "https://www.foxnews.com/politics/lawmakers-reveal-ai-concerns-over-future-humanity-following-openai-ceos-senate-testimony.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lawmakers-reveal-ai-concerns-over-future-humanity-following-openai-ceos-senate-testimony.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 75
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bae5da6-5fb6-41ce-94a2-52971e5432f0/24af8e1e-0e18-48c0-8e11-238b317f713c/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "CDW Executive SummIT: Diving Into the Potential of Artificial Intelligence in Healthcare"
-    excerpt: "AI is a hot topic right now, and SummIT attendees expressed both excitement and caution over potential use cases."
-    publishedDateTime: 2023-05-18T17:01:00Z
-    webUrl: "https://healthtechmagazine.net/media/video/cdw-executive-summit-diving-potential-artificial-intelligence-healthcare"
-    ampWebUrl: "https://healthtechmagazine.net/media/video/cdw-executive-summit-diving-potential-artificial-intelligence-healthcare?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/media/video/cdw-executive-summit-diving-potential-artificial-intelligence-healthcare?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 65
-    images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/video/Screenshot%202023-05-15%20at%2012.49.23%20PM.jpg?itok=nIfK2DYG"
-        width: 1440
-        height: 500
-        isCached: true
-  - title: "How ChatGPT and artificial Intelligence are impacting education"
-    excerpt: "From finance to health care to policing, artificial intelligence is becoming more commonplace by the day. It’s also becoming harder to avoid in our schools. ChatGPT is a chatbot that generates startlingly human-like text in response to brief prompts."
-    publishedDateTime: 2023-05-17T15:30:00Z
-    webUrl: "https://www.wfae.org/show/charlotte-talks-with-mike-collins/2023-05-17/how-chatgpt-and-artificial-intelligence-are-impacting-education"
-    type: article
-    provider:
-      name: WFAE
-      domain: wfae.org
-    quality: 56
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/f084be8/2147483647/strip/true/crop/5321x2794+0+598/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F25%2Fgettyimages-488893054-9cacac05ea39cc2170c1f9af7703fe3338985f17.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Beware of biased, misleading information while using AI in healthcare: WHO"
-    excerpt: "It was 'imperative' to assess the risks of using generated large language model tools (LLMs), like ChatGPT, to protect and promote human well-being.health. healthcare. fitness. wellness. well-being. biased."
-    publishedDateTime: 2023-05-18T10:31:00Z
-    webUrl: "https://www.onmanorama.com/lifestyle/health/2023/05/18/beware-biased-misleading-information-while-using-ai-healthcare-who.html"
-    type: article
-    provider:
-      name: onmanorama
-      domain: onmanorama.com
-    quality: 52
-    images:
-      - url: "https://img.onmanorama.com/content/dam/mm/en/lifestyle/health/images/2023/5/18/ai-healthcare-c.jpg"
-        width: 1248
-        height: 650
-        isCached: true
-  - title: "7 Semiconductor Stocks Cashing In on the AI Hype"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Semiconductor stocks are gaining importance as the technology is increasingly"
-    publishedDateTime: 2023-05-18T10:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-semiconductor-stocks-cashing-in-on-the-ai-hype-1032336987"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Risks Posed by AI Technology Spur Calls for New Regulatory Agency"
     excerpt: "It could be charged with granting licenses for AI platforms, setting operating standards and enforcing compliance with the rules, according to proponents including Sam Altman, chief executive of ChatGPT creator OpenAI."
     publishedDateTime: 2023-05-18T12:59:00Z
@@ -97,47 +76,112 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
-  - title: "Rebooting Tech Talent In The Race For AI"
-    excerpt: "Developers using AI tools like CodeGPT, Bugasura, GitHub, Repli - while designers use PiggyAI, Galileo, Viesus to upskill and be a growth accelerator in their next gig."
-    publishedDateTime: 2023-05-18T18:28:00Z
-    webUrl: "https://www.forbes.com/sites/deandebiase/2023/05/18/rebooting-tech-talent-in-the-race-for-ai/"
+  - title: "Sam Altman Sends A Message To Corporate Leaders On AI Risk Management"
+    excerpt: "The OpenAI CEO’s Senate testimony on the potential risks of AI and its need for regulation prompts boards to accelerate their oversight of how AI is applied in their own organizations."
+    publishedDateTime: 2023-05-17T19:39:00Z
+    webUrl: "https://www.forbes.com/sites/michaelperegrine/2023/05/17/sam-altman-sends-a-message-to-corporate-leaders-on-ai-risk-management/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "WHO says using AI in health care carries a multitude of risks"
-    excerpt: "More industries are investing in AI, including health care. But the World Health Organization says the industry needs to look beyond its exciting potential and look into the risks."
-    publishedDateTime: 2023-05-18T21:54:00Z
-    webUrl: "https://scrippsnews.com/stories/who-says-using-ai-in-health-care-carries-a-multitude-of-risks/"
+  - title: "What OpenAI CEO Sam Altman's Congress Testimony Means For Entrepreneurs: 5 Key Takeaways"
+    excerpt: "Sam Altman testified before a Senate Judiciary subcommittee yesterday, following the resounding success of ChatGPT. Here are the 5 key takeaways for entrepreneurs."
+    publishedDateTime: 2023-05-17T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/jodiecook/2023/05/17/what-openai-ceo-sam-altmans-congress-testimony-means-for-entrepreneurs-5-key-takeaways/"
     type: article
     provider:
-      name: scrippsnews
-      domain: scrippsnews.com
+      name: Forbes
+      domain: forbes.com
+    quality: 40
+  - title: "ChatGPT: Did the CEO of OpenAI voluntarily call for AI to be regulated?"
+    excerpt: "Sam Altman, the CEO of OpenAI, testified for the first time since ChatGPT exploded in popularity. Senators appeared to accept Altman’s warnings that AI could “cause significant harm to the world” and his suggestion that a new agency could set rules."
+    publishedDateTime: 2023-05-18T00:30:00Z
+    webUrl: "https://techwireasia.com/2023/05/chatgpt-did-the-ceo-of-openai-voluntarily-call-for-ai-to-be-regulated/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
     quality: 39
     images:
-      - url: "https://cdn.scrippsnews.com/images/videos/m/1684445050_OQqRsh.jpg"
-        width: 640
-        height: 360
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2023/05/063_1490690312-scaled-e1684321191850-897x500.jpg"
+        width: 897
+        height: 500
         isCached: true
-  - title: "WHO warns against bias, misinformation in using AI in healthcare"
-    excerpt: "The World Health Organization called for caution on Tuesday in using artificial intelligence for public healthcare, saying data used by AI to reach decisions could be biased or misused. The WHO said it was enthusiastic about the potential of AI but had concerns over how it will be used to improve access to health information,"
-    publishedDateTime: 2023-05-17T09:41:00Z
-    webUrl: "https://www.fijitimes.com/who-warns-against-bias-misinformation-in-using-ai-in-healthcare/"
+  - title: "OpenAI chief concerned about AI being used to compromise elections"
+    excerpt: "OpenAI CEO Sam Altman testifies before a Senate Judiciary Privacy, Technology & the Law Subcommittee hearing titled 'Oversight of A.I.: Rules for Artificial Intelligence' on Capitol Hill in Washington,"
+    publishedDateTime: 2023-05-17T07:42:00Z
+    webUrl: "https://www.fijitimes.com/openai-chief-concerned-about-ai-being-used-to-compromise-elections/"
     type: article
     provider:
       name: Fiji Times
       domain: fijitimes.com
-    quality: 34
-  - title: "The Future of War Is AI"
-    excerpt: "Louis Buckley, Content Developer at London’s Science Museum, plays rock, paper, scissors with Berti the Robot ... ultimate creation AI, already a living abbreviation of itself, might do, it makes me shiver. Brrr… Let me start with honesty, which ..."
-    publishedDateTime: 2023-05-17T09:05:00Z
-    webUrl: "https://www.thenation.com/article/society/war-artificial-intelligence/"
+    quality: 37
+    images:
+      - url: "https://www.fijitimes.com/wp-content/uploads/2023/05/Sam-Altman.jpg"
+        width: 1100
+        height: 717
+        isCached: true
+  - title: "OpenAI proposed license to regulate AI, Baidu urges self content moderation"
+    excerpt: "Meanwhile, instead of concerning the lost jobs and artist rights, China-based Baidu, which launched Ernie Bot in March, focused more on socially and politically sensitive disinformation."
+    publishedDateTime: 2023-05-17T14:16:00Z
+    webUrl: "https://www.digitimes.com/news/a20230517VL202/ai-baidu-chatgpt-openai.html"
     type: article
     provider:
-      name: The Nation
-      domain: thenation.com
-    quality: 19
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230517vl202_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Tech reporter breaks down OpenAI CEO's testimony, potential regulatory challenges"
+    excerpt: "OpenAI CEO Sam Altman, whose company developed the widely used AI conversation program ChatGPT, warned federal lawmakers Tuesday that artificial intelligence could pose significant risks to the world if the technology goes wrong."
+    publishedDateTime: 2023-05-17T23:00:00Z
+    webUrl: "https://abc7news.com/tech-reporter-breaks-down-openai-ceos-testimony-potential-regulat/13261680/"
+    type: article
+    provider:
+      name: ABC7 San Francisco
+      domain: abc7news.com
+    quality: 34
+    images:
+      - url: "https://s.abcnews.com/images/US/sam-altman-ap-jef-230517_1684338504336_hpMain_16x9_608.jpg?w=1600"
+        width: 608
+        height: 342
+        isCached: true
+  - title: "Sam Altman said all the right things to Congress, but the government won’t save you from AI"
+    excerpt: "Opinion: The federal government is not going to come up with a framework or guardrails to protect us from AI anytime soon."
+    publishedDateTime: 2023-05-17T22:03:00Z
+    webUrl: "https://bgr.com/tech/sam-altman-said-all-the-right-things-to-congress-but-the-government-wont-save-you-from-ai/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 29
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/05/rsz_gettyimages-1490690042.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Sam Altman Isn’t the Answer to Regulating Artificial Intelligence"
+    excerpt: "The OpenAI CEO declined to become the US AI regulator in a bizarre congressional hearing that ignored good policy ideas already in play."
+    publishedDateTime: 2023-05-17T07:47:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/05/17/ai-regulation-openai-s-sam-altman-is-the-wrong-person-to-ask/76ee2c42-f4b1-11ed-918d-012572d64930_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 17
+  - title: "Sam Altman, the AI executive with an eye on the risks"
+    excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Sam Altman news every morning. When OpenAI CEO Sam Altman turned up to testify on Capitol Hill for the first time this week, he could hardly have expected an easy ride."
+    publishedDateTime: 2023-05-19T19:00:00Z
+    webUrl: "https://www.ft.com/content/8e47abd2-91b3-46e7-8d42-08efe9bc33e4"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "GCqyuToX2RmaMym4VjaoAHyEOZgtai+jGkvDctSyp+5YxyHOn69TDRkHTPlU8x1ApkyMPYvJj/huONeIUGNMh4DWOFl/za3KmImwlg7Z92PMCiipwESfXXm4wirzmNTDM7kz8XsbdfYbu71euN00mZ0wvfWfo7HqbAvaK+4xjhDwaNNna7PYyh1DhogDMJ9YpCLiHAkYvrL7nJvV7PT0lfwLB4IzRJzkt75DsMLV6rRw7DhsP4mBnfJTdudZqIO3Go06Y89zI/oT1wjUGO3VQOpFtyW1oKX14FUfOIA8/04Mjf4a80/3YrEIgbVbKxKjv9HVXSHvtvL9kJWOTKXcWfgjWX9JsuybbJcY5zfQZ+hxo8ozMRuwkR3NoF/dYwm82eImVajSZv0bTKTFGjTYO5xpEgqoTzrGQO/RsafDEAEUByd+UUyhmcktN0ZJxJFHOLe9x9feDkiTBdDrfUvPwaTLiM0RV5t68vGkO2IwBa0AAjLzgJiBilEjGXPjsFm7FOHbTbnztggpCXiIgfr9nw==;0Ke49mHctvotoXZ7inyP3Q=="
 ---

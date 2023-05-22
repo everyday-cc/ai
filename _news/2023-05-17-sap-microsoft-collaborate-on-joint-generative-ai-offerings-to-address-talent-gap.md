@@ -58,22 +58,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Microsoft Rolls out Bing AI Chat Widget on Mobiles & Other Cool Features"
-    excerpt: "In addition to existing features, Microsoft Bing has received new ones, including a Bing AI widget for mobiles. Check out the details."
-    publishedDateTime: 2023-05-17T06:35:00Z
-    webUrl: "https://beebom.com/microsoft-bing-ai-chat-widget-mobile-new-features/"
-    ampWebUrl: "https://beebom.com/microsoft-bing-ai-chat-widget-mobile-new-features/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/microsoft-bing-ai-chat-widget-mobile-new-features/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 75
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2023/05/MS-Bing-New-Features-.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "After Apple, Amazon, Google and Microsoft, Meta Now Builds Its Own AI Chips"
     excerpt: "Meta recently introduced its first in-house silicon chip designed for AI workloads, called MTIA (meta training and inference accelerator)."
     publishedDateTime: 2023-05-19T09:21:00Z

@@ -19,125 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "The case for a code of conduct for AI in healthcare"
-    excerpt: "The rise of generative AI has prompted an AI ethicist to propose a framework to mitigate the risks of using the ever-developing tech in the healthcare space. This coincides with the chief executive of ChatGPT’s OpenAI urging US legislators to start regulating AI for the safety of humanity."
-    publishedDateTime: 2023-05-17T07:07:00Z
-    webUrl: "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/"
-    ampWebUrl: "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 106
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/4f3d9da/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F14%2Fd0%2F9be4e9844471ab60db09eb3130d5%2Fdepositphotos-198133002-l.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "CDW Executive SummIT: Diving Into the Potential of Artificial Intelligence in Healthcare"
-    excerpt: "AI is a hot topic right now, and SummIT attendees expressed both excitement and caution over potential use cases."
-    publishedDateTime: 2023-05-18T17:01:00Z
-    webUrl: "https://healthtechmagazine.net/media/video/cdw-executive-summit-diving-potential-artificial-intelligence-healthcare"
-    ampWebUrl: "https://healthtechmagazine.net/media/video/cdw-executive-summit-diving-potential-artificial-intelligence-healthcare?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/media/video/cdw-executive-summit-diving-potential-artificial-intelligence-healthcare?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 65
-    images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/video/Screenshot%202023-05-15%20at%2012.49.23%20PM.jpg?itok=nIfK2DYG"
-        width: 1440
-        height: 500
-        isCached: true
-  - title: "How ChatGPT and artificial Intelligence are impacting education"
-    excerpt: "From finance to health care to policing, artificial intelligence is becoming more commonplace by the day. It’s also becoming harder to avoid in our schools. ChatGPT is a chatbot that generates startlingly human-like text in response to brief prompts."
-    publishedDateTime: 2023-05-17T15:30:00Z
-    webUrl: "https://www.wfae.org/show/charlotte-talks-with-mike-collins/2023-05-17/how-chatgpt-and-artificial-intelligence-are-impacting-education"
-    type: article
-    provider:
-      name: WFAE
-      domain: wfae.org
-    quality: 56
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/f084be8/2147483647/strip/true/crop/5321x2794+0+598/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F25%2Fgettyimages-488893054-9cacac05ea39cc2170c1f9af7703fe3338985f17.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Beware of biased, misleading information while using AI in healthcare: WHO"
-    excerpt: "It was 'imperative' to assess the risks of using generated large language model tools (LLMs), like ChatGPT, to protect and promote human well-being.health. healthcare. fitness. wellness. well-being. biased."
-    publishedDateTime: 2023-05-18T10:31:00Z
-    webUrl: "https://www.onmanorama.com/lifestyle/health/2023/05/18/beware-biased-misleading-information-while-using-ai-healthcare-who.html"
-    type: article
-    provider:
-      name: onmanorama
-      domain: onmanorama.com
-    quality: 52
-    images:
-      - url: "https://img.onmanorama.com/content/dam/mm/en/lifestyle/health/images/2023/5/18/ai-healthcare-c.jpg"
-        width: 1248
-        height: 650
-        isCached: true
-  - title: "7 Semiconductor Stocks Cashing In on the AI Hype"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Semiconductor stocks are gaining importance as the technology is increasingly"
-    publishedDateTime: 2023-05-18T10:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-semiconductor-stocks-cashing-in-on-the-ai-hype-1032336987"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Risks Posed by AI Technology Spur Calls for New Regulatory Agency"
-    excerpt: "It could be charged with granting licenses for AI platforms, setting operating standards and enforcing compliance with the rules, according to proponents including Sam Altman, chief executive of ChatGPT creator OpenAI."
-    publishedDateTime: 2023-05-18T12:59:00Z
-    webUrl: "https://www.wsj.com/articles/risks-posed-by-ai-technology-spur-calls-for-new-regulatory-agency-8cc2dd76"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
-  - title: "Rebooting Tech Talent In The Race For AI"
-    excerpt: "Developers using AI tools like CodeGPT, Bugasura, GitHub, Repli - while designers use PiggyAI, Galileo, Viesus to upskill and be a growth accelerator in their next gig."
-    publishedDateTime: 2023-05-18T18:28:00Z
-    webUrl: "https://www.forbes.com/sites/deandebiase/2023/05/18/rebooting-tech-talent-in-the-race-for-ai/"
+  - title: "AI Excites Healthcare, Yet It Urgently Needs Regulations"
+    excerpt: "The healthcare sector should pay attention to Sam Altman's statements on AI regulation. AI has exponential potential in healthcare but requires regulation."
+    publishedDateTime: 2023-05-21T03:11:00Z
+    webUrl: "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/"
+    ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
-  - title: "WHO says using AI in health care carries a multitude of risks"
-    excerpt: "More industries are investing in AI, including health care. But the World Health Organization says the industry needs to look beyond its exciting potential and look into the risks."
-    publishedDateTime: 2023-05-18T21:54:00Z
-    webUrl: "https://scrippsnews.com/stories/who-says-using-ai-in-health-care-carries-a-multitude-of-risks/"
-    type: article
-    provider:
-      name: scrippsnews
-      domain: scrippsnews.com
-    quality: 39
+    quality: 106
     images:
-      - url: "https://cdn.scrippsnews.com/images/videos/m/1684445050_OQqRsh.jpg"
-        width: 640
-        height: 360
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646989f4cacc478d7bbd2c16/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "WHO calls for safe, ethical use of AI tools for health"
-    excerpt: "The World Health Organization (WHO) has called for caution when deploying large language model tools (LLMs) generated by artificial intelligence (AI)."
-    publishedDateTime: 2023-05-17T13:38:00Z
-    webUrl: "https://english.ahram.org.eg/NewsContent/7/48/501060/Life--Style/Health/WHO-calls-for-safe,-ethical-use-of-AI-tools-for-he.aspx"
+  - title: "OpenAI CEO: Artificial Intelligence Needs Regulation"
+    excerpt: "(TNS) — Government regulation is “critical” to keep risks down with artificial intelligence such as ChatGPT, the CEO of the company behind the bot testified Tuesday. Speaking at a Senate hearing in Washington, OpenAI honcho Sam Altman addressed ..."
+    publishedDateTime: 2023-05-17T21:31:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/openai-ceo-artificial-intelligence-needs-regulation"
+    ampWebUrl: "https://www.govtech.com/artificial-intelligence/openai-ceo-artificial-intelligence-needs-regulation?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/openai-ceo-artificial-intelligence-needs-regulation?_amp=true"
     type: article
     provider:
-      name: Hebdo Ahram
-      domain: ahram.org.eg
-    quality: 34
-  - title: "The Future of War Is AI"
-    excerpt: "Louis Buckley, Content Developer at London’s Science Museum, plays rock, paper, scissors with Berti the Robot ... ultimate creation AI, already a living abbreviation of itself, might do, it makes me shiver. Brrr… Let me start with honesty, which ..."
-    publishedDateTime: 2023-05-17T09:05:00Z
-    webUrl: "https://www.thenation.com/article/society/war-artificial-intelligence/"
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/a994c68/2147483647/strip/true/crop/3000x1564+0+276/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F5f%2F7e%2F090092c2478c8fd16c8a9c7988c9%2Fbiz-ai-microsoft-dmt.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "Regulation of Artificial Intelligence"
+    excerpt: "The introduction to the House of Commons of a Bill under the ten minute rule, by Labour MP Mick Whitley, on the regulation of artificial intelligence and workers' rights, from Wednesday 17 May."
+    publishedDateTime: 2023-05-17T18:08:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/m001mh3k"
     type: article
     provider:
-      name: The Nation
-      domain: thenation.com
-    quality: 19
+      name: BBC
+      domain: bbc.co.uk
+    quality: 17
 
 secured: "KSN8UYgSyLlKYT+gNnOjmctfrQTjcKOTitSrrbILIfAjV7WQHcOBnFoHiEZOlll0yN9KgyKLldxjSt0qV3dVbT2Rf8DRZsnI6n9datz8ggEx4Y31CeyVNyS3ZHgW2qSBrxqaj7I6znRUmOooiKG0QjkbtXFvKiOnpZPPDsPM+2iRZlf2UIgWpHdLraeZ3gdlqzzhQkeQ1243zzRnuoKKxZPL4TDF3fR24C3BB3tbT3RXZAb8zuj+4EFEJd09qK2sY4dGa78cPBs/WidXjGosj+tBLL8SLRxyxQRMPdblGC/2w4IzF1AViQiE7JfXSNYepKfwro9AJ9TgQ4edmrMxRBJn1hSikI/OzAErAPKKTXDHtpX7lk2NubeC7q+a8OoYbyuGpGu6BNrz0np3fEGWIL3OhNllQ971bIPowhVoTnJc8cI06AdUUVXLdAhw3ZMPK9oPG70o0zBUqDBbjpjrcHHb56Pkh8pCMRz1ojmEXuhgQHxQrh38st/wa5Ow90fOr6HnDqhFKqoTKPKoj7AgEg==;Z5Rf9zDrQJbnQEC690Ij+Q=="
 ---

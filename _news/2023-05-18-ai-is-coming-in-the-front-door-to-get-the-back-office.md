@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Meet my new co-pilot in the doctor's office: Artificial Intelligence"
-    excerpt: "The more I learn about the growing uses of Artificial intelligence in health care, the more convinced I become about its essential place in not just the lab or radiology suite but also in the doctor’s office. It can help usher in a world where tests and ..."
-    publishedDateTime: 2023-05-17T06:15:00Z
-    webUrl: "https://www.foxnews.com/opinion/meet-my-new-co-pilot-doctor-office-artificial-intelligence"
-    ampWebUrl: "https://www.foxnews.com/opinion/meet-my-new-co-pilot-doctor-office-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/meet-my-new-co-pilot-doctor-office-artificial-intelligence.amp"
+  - title: "Three Ways To Get Ready For The AI Takeover In Interior Design"
+    excerpt: "There is a lot of work to do before people start trusting AI. To ensure that the AI takeover becomes a reality, we must come to terms with the new paradigm. The roads toward it might be bumpy, as there are psychological barriers to overcome, but AI can actually do a part of the work instead of people—and do it quite well."
+    publishedDateTime: 2023-05-19T10:44:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64a7bf5e-cbc4-4589-b30a-252fdbf7d8bf/ce181432-e4f7-4d55-a2a1-64d01842ee04/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64662733af9968582de6367b/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
 
 secured: "amR+iMB2iFelbnTtoh/ns+FVRZpI6YCxpaFMFJLyycdYZEYM6iXifDTafnPct6B29aGtaT3ZgEajg23JkUqrSrf/zc+hYKaNEq5N7BZ89spg6W7sqiazX86xMjUxMhxbLhgJToHMws3FSqlE/mMRTUge9MtwqTPONNIuE4W0PALefjnlYPjvIbGmcRg4j7PKHg5GnlydGH1UdMb89YQ4z+pqlt5YiDgBnuJqzMepE50S4drmWZBc0f8095GiDTvdPidQnO8GP1btjo0Kxdmf6mNg896fKKmCH/l4GAJDHZZHAFm8sPygd15toqbnQB2vhaoVmWOuEDCvu8eW0i2bLcl3peM2GXyCXrYhT+MDmrCTAKyBAkzRS31KTXa8BLzsBqDr63r5kdTh7R4Lno/yRpTYNVPYcYFtWHH2SeZvooJm84MkbVYO0DvahAqk2+nxXV/C7c3iwh1EAKkIg2T6JFOWwR+nfCeBzwfh9FlxKBQW6pQYMKBJCVPbQ4GDU+7KkaR1l1mGyloDBaUU+C/NnQ==;rC59H++r2cpb4xug6KvYOA=="

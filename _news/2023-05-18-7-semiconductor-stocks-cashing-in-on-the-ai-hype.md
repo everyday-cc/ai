@@ -23,125 +23,87 @@ topics:
   - AI
 
 related:
-  - title: "The case for a code of conduct for AI in healthcare"
-    excerpt: "The rise of generative AI has prompted an AI ethicist to propose a framework to mitigate the risks of using the ever-developing tech in the healthcare space. This coincides with the chief executive of ChatGPT’s OpenAI urging US legislators to start regulating AI for the safety of humanity."
-    publishedDateTime: 2023-05-17T07:07:00Z
-    webUrl: "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/"
-    ampWebUrl: "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true"
+  - title: "Big-name investors are going all-in on AI"
+    excerpt: "The Tiger Global founder told investors to buy the so-called FAANG stocks – shorthand for Facebook parent Meta ... It's not just individual investors who are caught up in the AI fanfare. In a research note last month, Morgan Stanley said that 2023 ..."
+    publishedDateTime: 2023-05-18T12:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5"
+    ampWebUrl: "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp"
     type: article
     provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 106
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
     images:
-      - url: "https://assets.newatlas.com/dims4/default/4f3d9da/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F14%2Fd0%2F9be4e9844471ab60db09eb3130d5%2Fdepositphotos-198133002-l.jpg"
+      - url: "https://i.insider.com/62e3b3a0e1179200195ee85b?width=1200&format=jpeg"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
-  - title: "CDW Executive SummIT: Diving Into the Potential of Artificial Intelligence in Healthcare"
-    excerpt: "AI is a hot topic right now, and SummIT attendees expressed both excitement and caution over potential use cases."
-    publishedDateTime: 2023-05-18T17:01:00Z
-    webUrl: "https://healthtechmagazine.net/media/video/cdw-executive-summit-diving-potential-artificial-intelligence-healthcare"
-    ampWebUrl: "https://healthtechmagazine.net/media/video/cdw-executive-summit-diving-potential-artificial-intelligence-healthcare?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/media/video/cdw-executive-summit-diving-potential-artificial-intelligence-healthcare?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 65
-    images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/video/Screenshot%202023-05-15%20at%2012.49.23%20PM.jpg?itok=nIfK2DYG"
-        width: 1440
-        height: 500
-        isCached: true
-  - title: "How ChatGPT and artificial Intelligence are impacting education"
-    excerpt: "From finance to health care to policing, artificial intelligence is becoming more commonplace by the day. It’s also becoming harder to avoid in our schools. ChatGPT is a chatbot that generates startlingly human-like text in response to brief prompts."
-    publishedDateTime: 2023-05-17T15:30:00Z
-    webUrl: "https://www.wfae.org/show/charlotte-talks-with-mike-collins/2023-05-17/how-chatgpt-and-artificial-intelligence-are-impacting-education"
-    type: article
-    provider:
-      name: WFAE
-      domain: wfae.org
-    quality: 56
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/f084be8/2147483647/strip/true/crop/5321x2794+0+598/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F25%2Fgettyimages-488893054-9cacac05ea39cc2170c1f9af7703fe3338985f17.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Beware of biased, misleading information while using AI in healthcare: WHO"
-    excerpt: "It was 'imperative' to assess the risks of using generated large language model tools (LLMs), like ChatGPT, to protect and promote human well-being.health. healthcare. fitness. wellness. well-being. biased."
-    publishedDateTime: 2023-05-18T10:31:00Z
-    webUrl: "https://www.onmanorama.com/lifestyle/health/2023/05/18/beware-biased-misleading-information-while-using-ai-healthcare-who.html"
-    type: article
-    provider:
-      name: onmanorama
-      domain: onmanorama.com
-    quality: 52
-    images:
-      - url: "https://img.onmanorama.com/content/dam/mm/en/lifestyle/health/images/2023/5/18/ai-healthcare-c.jpg"
-        width: 1248
-        height: 650
-        isCached: true
-  - title: "Risks Posed by AI Technology Spur Calls for New Regulatory Agency"
-    excerpt: "It could be charged with granting licenses for AI platforms, setting operating standards and enforcing compliance with the rules, according to proponents including Sam Altman, chief executive of ChatGPT creator OpenAI."
-    publishedDateTime: 2023-05-18T12:59:00Z
-    webUrl: "https://www.wsj.com/articles/risks-posed-by-ai-technology-spur-calls-for-new-regulatory-agency-8cc2dd76"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
-  - title: "Rebooting Tech Talent In The Race For AI"
-    excerpt: "Developers using AI tools like CodeGPT, Bugasura, GitHub, Repli - while designers use PiggyAI, Galileo, Viesus to upskill and be a growth accelerator in their next gig."
-    publishedDateTime: 2023-05-18T18:28:00Z
-    webUrl: "https://www.forbes.com/sites/deandebiase/2023/05/18/rebooting-tech-talent-in-the-race-for-ai/"
+  - title: "Which Artificial Intelligence Stocks Are Institutional Investors Buying?"
+    excerpt: "We are currently witnessing ever-increasing use cases and growing acceptance of AI in every walk of life. Here are 7 AI stocks getting institutional attention."
+    publishedDateTime: 2023-05-19T17:22:00Z
+    webUrl: "https://www.forbes.com/sites/investor-hub/article/which-artificial-intelligence-stocks-are-institutional-investors-buying/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
-  - title: "WHO says using AI in health care carries a multitude of risks"
-    excerpt: "More industries are investing in AI, including health care. But the World Health Organization says the industry needs to look beyond its exciting potential and look into the risks."
-    publishedDateTime: 2023-05-18T21:54:00Z
-    webUrl: "https://scrippsnews.com/stories/who-says-using-ai-in-health-care-carries-a-multitude-of-risks/"
+    quality: 68
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646699007031f328f841e295/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 622
+        isCached: true
+  - title: "AI boom could expose investors’ natural stupidity"
+    excerpt: "My colleagues, they study artificial intelligence,” the Israeli psychologist Amos Tversky once quipped. “Me, I study natural stupidity.” The co-founder of behavioural economics, who died in 1996, did not live to see 2023,"
+    publishedDateTime: 2023-05-19T07:56:00Z
+    webUrl: "https://www.reuters.com/breakingviews/ai-boom-could-expose-investors-natural-stupidity-2023-05-19/"
     type: article
     provider:
-      name: scrippsnews
-      domain: scrippsnews.com
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/81uveTxWRNRyEmCdhAq5JfkEHTA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SFDGX2C26VOFVHSZWAJP63GUOQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Although AI is a Bubble, It’s Still Investible"
+    excerpt: "Sam Altman, the CEO of OpenAI, which brought us ChatGPT, has gone to Congress to demand regulatory oversight of Artificial Intelligence (AI)"
+    publishedDateTime: 2023-05-18T19:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/although-ai-is-a-bubble-it-s-still-investible-1032338366"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "How to invest in artificial intelligence"
+    excerpt: "But there is one area in which the firm, run by Son Masayoshi, its charismatic founder, wants to peek above the parapet: investments in artificial intelligence (ai). Investors face two questions. The first is which frontier technologies will make market leaders a fortune."
+    publishedDateTime: 2023-05-17T16:30:00Z
+    webUrl: "https://www.economist.com/finance-and-economics/2023/05/17/how-to-invest-in-artificial-intelligence"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
     quality: 39
     images:
-      - url: "https://cdn.scrippsnews.com/images/videos/m/1684445050_OQqRsh.jpg"
-        width: 640
-        height: 360
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230520_FNP502.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "WHO calls for safe, ethical use of AI tools for health"
-    excerpt: "The World Health Organization (WHO) has called for caution when deploying large language model tools (LLMs) generated by artificial intelligence (AI)."
-    publishedDateTime: 2023-05-17T13:38:00Z
-    webUrl: "https://english.ahram.org.eg/NewsContent/7/48/501060/Life--Style/Health/WHO-calls-for-safe,-ethical-use-of-AI-tools-for-he.aspx"
+  - title: "AI Alarmists Are Dragging Us All Down a Rabbit Hole"
+    excerpt: "Silicon Valley is fixated on longtermism — prioritizing future lives over those living today. This is very tricky moral math."
+    publishedDateTime: 2023-05-18T23:20:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/05/19/ai-longtermism-alarmists-are-dragging-us-all-down-existential-rabbit-hole/897ef2f0-f5fc-11ed-918d-012572d64930_story.html"
     type: article
     provider:
-      name: Hebdo Ahram
-      domain: ahram.org.eg
-    quality: 34
-  - title: "WHO warns against bias, misinformation in using AI in healthcare"
-    excerpt: "The World Health Organization called for caution on Tuesday in using artificial intelligence for public healthcare, saying data used by AI to reach decisions could be biased or misused. The WHO said it was enthusiastic about the potential of AI but had concerns over how it will be used to improve access to health information,"
-    publishedDateTime: 2023-05-17T09:41:00Z
-    webUrl: "https://www.fijitimes.com/who-warns-against-bias-misinformation-in-using-ai-in-healthcare/"
-    type: article
-    provider:
-      name: Fiji Times
-      domain: fijitimes.com
-    quality: 34
-  - title: "The Future of War Is AI"
-    excerpt: "Louis Buckley, Content Developer at London’s Science Museum, plays rock, paper, scissors with Berti the Robot ... ultimate creation AI, already a living abbreviation of itself, might do, it makes me shiver. Brrr… Let me start with honesty, which ..."
-    publishedDateTime: 2023-05-17T09:05:00Z
-    webUrl: "https://www.thenation.com/article/society/war-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Nation
-      domain: thenation.com
-    quality: 19
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RDS3WYXV7QI63EMNAESXFVSJGA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "ISLcX9L5y06vev40rurNZKEHMSygdgdgzfe2qfr2C562wX6Bo0qk/OhE0H4shKO8Qy0dS6V+hhQzB2CDt27zdOlelKVsxwPVGdBKjWo1zdQJrvIpNxh6VSMsJWcW5l6qUBqggS2wNIzexlE81UhmoUm2F/vn3jENbelTkh8j8Q85HWgecQNBhtOD4aFeoBRM6H3/L8fcmOjNuoNiZ33V8Yya5+ccAcv7ZshdfB8plDqVYRknFTZVPXOXil38ND/aRb39UipSSqEXW/lXt7YuaFV3eBYM+RfAEi4FDrmVD7a1AzB76bWUBE8Rq1cfJq3ksg0rKL4DCF1PcQk6GmTzNOqMWSP1crA2JWHFp5PXxMxv8EyeBjzLfrAMIfCBo39dgTyzBySM0FY1PlLv/0TWlt8gFgLSjroVbM0/co1GQRhm3anA5EcNas+Nz87pZc8jBSWa+vzq82osOOzhKyB7IzEWOQmuiQQ/SO7V65Pu0knvRYORCBuV8xEVkMt2SBsFsy/rJHPqYNZMWp4tkRt6Zw==;PR+LTHnirENtU9mNCmATFg=="
 ---

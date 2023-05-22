@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/news/pecan-ai-broadens-platform-and-fast-
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/pecan-ai-broadens-platform-and-fast-predictive-modeling-for-all-data-professionals/amp/"
 type: article
 quality: 53
-heat: 73
+heat: 74
 published: true
 
 provider:

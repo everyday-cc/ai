@@ -103,6 +103,15 @@ related:
         width: 2500
         height: 1313
         isCached: true
+  - title: "Rebooting Tech Talent In The Race For AI"
+    excerpt: "Developers using AI tools like CodeGPT, Bugasura, GitHub, Repli - while designers use PiggyAI, Galileo, Viesus to upskill and be a growth accelerator in their next gig."
+    publishedDateTime: 2023-05-18T18:28:00Z
+    webUrl: "https://www.forbes.com/sites/deandebiase/2023/05/18/rebooting-tech-talent-in-the-race-for-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Fear the fire or harness the flame: The future of generative AI"
     excerpt: "AI may be more advanced than we think. We must harness its benefits while mitigating the dangers through standards and common sense."
     publishedDateTime: 2023-05-20T13:39:00Z

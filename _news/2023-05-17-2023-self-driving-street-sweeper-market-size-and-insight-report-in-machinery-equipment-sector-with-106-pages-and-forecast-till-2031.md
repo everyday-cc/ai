@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-self-driving-street
 webUrl: "https://www.marketwatch.com/press-release/2023-self-driving-street-sweeper-market-size-and-insight-report-in-machinery-equipment-sector-with-106-pages-and-forecast-till-2031-2023-05-17"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Global Face Recognition API Market Size 2023-2031 Business Strategies by Absolute Reports | with [103 Pages]"
+    excerpt: "Global “Face Recognition API Market” forecasts for 2023 to 2031, broken down by region, types [Accuracy Rate > 95 percentage, Accuracy Rate 80 percentage-95 percentage, Accuracy Rateâ ¤80 percentage], and application [Financial, Security ..."
+    publishedDateTime: 2023-05-17T13:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-api-market-size-2023-2031-business-strategies-by-absolute-reports-with-103-pages-2023-05-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
 
 secured: "fI3ZS/HwDJ2DtI0t98i2RY4ER/uHi8cvFHltcO/qPb+zztu4NlwXkpJSEzcwd5cK3VE/zQStr2c+722y880Sk2Bd/LU2ktHin9tx9bzS3tgPDA/ZxRviXMBxSUot64u9LMu+N9/Q8iiMlt7FE1bKlCxHW5ZveYIawWqTck/7DmbUw4wRlk3QSWEvUpdPoC6rhOwvv/aMRtyGR2zq951ElJ2N6v5yaoiN5MaV1LJZIlY2uUDcsuD1ZQJOmvkCAtP1LCVGalsp9a1hGX630tGRUDehrJFwM2b38ubnww/TDe5sv/V5AiWQCRJrNrQnr+kG8uBTErAcghm8Kd4LzWGfTCXTwWP+ab357bzCTxDgMpE=;sHEity9Qe2WbXZv8gWMKxw=="
 ---

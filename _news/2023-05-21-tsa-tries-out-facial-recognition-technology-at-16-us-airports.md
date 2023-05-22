@@ -2,21 +2,27 @@
 category: news
 title: "TSA tries out facial recognition technology at 16 U.S. airports"
 excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through -- all without having to hand over their identification to the TSA officer sitting behind the screen."
-publishedDateTime: 2023-05-21T07:46:00Z
-originalUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
-webUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+publishedDateTime: 2023-05-21T07:41:00Z
+originalUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+webUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Arkansas Democrat-Gazette
-  domain: arkansasonline.com
+  name: Northwest Arkansas Democrat Gazette
+  domain: nwaonline.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204387909_1G2facial0521_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+    width: 600
+    height: 400
+    isCached: true
 
 related:
   - title: "Las Vegas airport testing facial recognition to screen passengers"
@@ -49,20 +55,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "TSA testing facial recognition at more airports, raising privacy concerns"
-    excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"
-    publishedDateTime: 2023-05-21T00:30:00Z
-    webUrl: "https://omaha.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_afb8746e-ea8a-551c-bb05-26bfc9b02f28.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 53
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/78/d7899d8f-cf01-52ab-acbe-16fe1f61c88c/64642a155739f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "TSA's Facial Recognition Tech Raises Questions About Bias and Data Security"
     excerpt: "Analysts and lawmakers are concerned about a new TSA program that instructs passengers to insert their IDs into a machine and takes a pictures of them."
     publishedDateTime: 2023-05-18T19:34:00Z
@@ -73,6 +65,6 @@ related:
       domain: reason.com
     quality: 49
 
-secured: "uPZ2usUjHE0sPa40slFcoacEd1AxUx55r/x9ZgYBJus4ZXxbkiAn32k6FP34PwbkqFNbRwspL4xMivqjOMMuMgddfV6aba9QTKjwojCSSpnSMFQul+spCrZ28UYbQbb3KMeKNFSoh4Z0UzshTPZWG87ixIDa91CEfbpriOscRVmMPMjzI2Wd5v/tPoRUI6Eq+QxEHfyhiekyqsFR0XwR50rc7a0veRo0Vg5l9jXUMVGjkWvZ9mBAOAcl//NVbSVSy1ZAv48G8sp8qvvvuqWAP5i2lweOmFbTz47e+OgmMM0w7/PCK/XiecRRKEQYe9mLMKsn3UgnvJGacq0i71H/o+AkvXjWw2X/4TCE4uhXdv9duTzG76q5Qp8xh2qFTlI6XLiC9CW8oA0IJ27M0pjJXUsLhoCFQ4bYhaxOjrTXjARAKbM5WerllStG9P+BHxBrXKTUcwpnbEVO8HfkOAchzTENMROPOHcdnqpyqwFLxQSGCHmdzVtzkRjZwh4NR6+8O+/0C6iizhrJhGKFWDG9Pg==;owcfAfYaT43OHnjoIQ/Bvg=="
+secured: "JJRflJMMoW16D9H+dlq/HVnBwBXy9HRLx0MLh9Iq41mBxZvGVUbWNXdyEZio5YEJRBpEC8BsvXkm3224FBbTEBbARnCLeCB+oZ/Fmlw5vgwlsrYiJir4NSoAOpmp8fk5MsiVepEM4YThlvlFlAoBIp3fCUCDBysCWsWJgmkJ2OAIYVT0JrO0onGfmShs8FjPRPraRFBLWoM7yUvOklXd7bnfVGY6dyphEyvAUaM5S9+ISNSaVFr1IjIgfyYE/EQDNKJ970lSxV/Q41UoDCW+erI0uvlLT9dfGqoWakNsCnhabHtN41U/TX1Nu+i/oOoZypVGBJ7pzL9F8S2k0AYw+quKOyq/Fm+I/ynot3FvTTU=;Qy6akIqrvkWQhIT8hCDLOg=="
 ---
 

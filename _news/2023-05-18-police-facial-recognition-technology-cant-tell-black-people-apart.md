@@ -24,17 +24,6 @@ images:
     height: 497
     isCached: true
 
-related:
-  - title: "Home Office pushes for more police facial-recognition deployments"
-    excerpt: "UK policing minister Chris Philp is pressing for facial-recognition technology to be rolled out by police forces across England and Wales, and will likely push to integrate the tech with police body-worn video cameras. According to a report co-authored by ..."
-    publishedDateTime: 2023-05-17T13:21:00Z
-    webUrl: "https://www.computerweekly.com/news/366537695/Home-Office-pushes-for-more-police-facial-recognition-deployments"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 4
-
 secured: "p5yP77PVD4to0a/3ASNHDrMuAgzSM2PrqaWjlCMNK2IAgnXrC0nZvweVFFgm4kFIsWCiJuTwPCtZ6GZhapeQuhuotgas19m4MuRGIxm1wY1S17WNxDCS2BF5xhhqpkCY7gMyES9tp6xSUWrAqxKLrP4sqDpd/ffOJBWYI/4bi4ylqVadzOyi85AAU/XlLWCH67l2cJGkBn2faBStoXvhaFh7f4j3Ux2GfzbS5mZAfFRwzuPmiTV2IngqJ8UVWZbJth6QEKemexbkqqbKwgUwzV+EodYsOgdS86oyw8ryCk338fT/oX8toCJtmFPoLJkJWUdSyaeTNhTAq6vaYd9+5yfTzv0oDn3b4XtWL9xSPM0ZEqIROMvM2I9qt7ak927BityEtVg9qaXonTA9Q/7zf39sQu/1DHUnAVYHAhaCKHnwQ8ladd7tQzN+cK8/KQw9l+fUkFmrn0gdk+a+CQKZVfRyL4cKGvPJgl6DU5qty1oyZsEx0BnEB4C4W2HRxt8tN01rrBd/AZDloDSUJ4Sngw==;3b/6tS3OI6ZQfxWQ7zQgVw=="
 ---
 

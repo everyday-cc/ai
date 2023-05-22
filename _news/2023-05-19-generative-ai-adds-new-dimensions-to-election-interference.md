@@ -267,6 +267,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "How ChatGPT and artificial Intelligence are impacting education"
+    excerpt: "From finance to health care to policing, artificial intelligence is becoming more commonplace by the day. It’s also becoming harder to avoid in our schools. ChatGPT is a chatbot that generates startlingly human-like text in response to brief prompts."
+    publishedDateTime: 2023-05-17T15:30:00Z
+    webUrl: "https://www.wfae.org/show/charlotte-talks-with-mike-collins/2023-05-17/how-chatgpt-and-artificial-intelligence-are-impacting-education"
+    type: article
+    provider:
+      name: WFAE
+      domain: wfae.org
+    quality: 56
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/f084be8/2147483647/strip/true/crop/5321x2794+0+598/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F25%2Fgettyimages-488893054-9cacac05ea39cc2170c1f9af7703fe3338985f17.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "BofA says AI is in a 'baby bubble' that echoes the dot-com era, and one move could easily blow up the investment frenzy ignited by ChatGPT"
     excerpt: "The Nasdaq is soaring this year as AI investing inspired by ChatGPT rages on. Bank of America says a Fed policy error could burst the bubble."
     publishedDateTime: 2023-05-20T14:15:00Z
@@ -420,20 +434,6 @@ related:
       - url: "https://i.cdn.newsbytesapp.com/images/l5520230519104316.jpeg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "ChatGPT chief says AI should be regulated"
-    excerpt: "The head of the artificial intelligence company that makes ChatGPT told Congress on Tuesday that government intervention will be critical to mitigating the risks of increasingly powerful AI systems."
-    publishedDateTime: 2023-05-17T06:32:00Z
-    webUrl: "https://richmond.com/chatgpt-chief-says-ai-should-be-regulated/article_87a5c054-f50d-52ca-947e-eb64d195201b.html"
-    type: article
-    provider:
-      name: Richmond
-      domain: richmond.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/73769e9c-c54c-11ea-9ace-179ea39eeb22.jpg?resize=600%2C315"
-        width: 600
-        height: 315
         isCached: true
   - title: "ChatGPT’s chief calls for new federal agency to regulate AI"
     excerpt: "And while there’s no immediate sign that Congress will craft sweeping new AI rules, as European lawmakers are doing, the societal concerns brought Altman and other tech CEOs to"

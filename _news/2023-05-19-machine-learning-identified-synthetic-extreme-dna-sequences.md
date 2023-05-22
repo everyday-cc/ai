@@ -3,11 +3,11 @@ category: news
 title: "Machine Learning Identified “Synthetic Extreme” DNA Sequences"
 excerpt: "Researchers tested millions of different DNA sequences with a machine learning model, finding rare, \"synthetic extreme\" sequences with specifically designed gene activation functions."
 publishedDateTime: 2023-05-19T08:26:00Z
-originalUrl: "https://www.technologynetworks.com/tn/news/machine-learning-identified-synthetic-extreme-dna-sequences-373555"
-webUrl: "https://www.technologynetworks.com/tn/news/machine-learning-identified-synthetic-extreme-dna-sequences-373555"
+originalUrl: "https://www.technologynetworks.com/informatics/news/machine-learning-identified-synthetic-extreme-dna-sequences-373555"
+webUrl: "https://www.technologynetworks.com/informatics/news/machine-learning-identified-synthetic-extreme-dna-sequences-373555"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://assets.technologynetworks.com/production/dynamic/images/content/373555/machine-learning-identified-synthetic-extreme-dna-sequences-373555-640x360.jpg?cb=20230519"
+    width: 640
+    height: 360
+    isCached: true
 
 related:
   - title: "Researchers use machine learning to identify \"synthetic extreme\" DNA sequences"
@@ -34,6 +40,6 @@ related:
         height: 480
         isCached: true
 
-secured: "JQ4Td2H+QXNja/3nFgDuNKPj4sHxsME5qc3Un1EVydQa+CP4dbirIjv8B9UutMPpvqWX+uOPTjTu9Gnjo8FxI16sJVgucdUphDFKiDdqAeblhdiOZyacbRSQZ6JCo5gPlykucFqYh9N3IWmm1KDXTOgGLCB/NlYL7sDCdfybJtIoa8ZqrOaG1aB8/qZ+vOrPaGDj2xYFAV209aDOT+VIc5lhdA2qIrsNT5E2g+htGCCpgfmK1LOz76g3zQiLUNEyIaqTXZptk8bdBIClPH5FTp+fDHMey0Y9DCLyDDg0aQx9r3EsWkr/wuB57v0mk4vt4UoW0huqN8pHYnjrcTYjp1NmAZB8dOmhugCyYRfF5XlVdTrYbvDQ5AW136cIevQVIi4XEDTVoZL4Z8TTZwvuSvlZ8IZNztwEEWzhGAk3bgOjYXIJtMrH/nrpOTaRt9ZHdiBRw01aqBHQo2x4Y4wz4xoa7W6BRtWAtD9XcjvFDrpSPiyGHCFRZsVfM0mDywH849sRmB5j/YmK5SZ1xE8g2A==;DyJL9EgvGatZw2NPbHSBmQ=="
+secured: "DR7lKruXzM1+t1p7IBDWlsm19GaNBEVenUUbnzNBhWJ0zpJ3LewwsihL61tTi9/Bxuke/rKlvAcYkoDQfKE4O/G89+WZBkFxedrK41YBAqToBY0BJOw1Z9l+9R5piVy9XpFkDGDl8Ue+M2wg6CCFdmArws1YNgr0tAvOyyEj1SVxH3JlK6LbuBdUmbyB1IER7bNK0orXsAzHeYU7HjR1Uq12wY//idyb3vRMhxk/ir+clQh4xr+7lk4oXCekVyeb4KAvJbtZ4ZYsR5telIKW4gTfM8gM0y6tutFVV0h0Anj+ReS0cys1ZbQv4kqeCSPRTJ5SrX5CJfSPUxgy9zjzlFsytg3MC0waN/ZQuJFFW/M=;MJEW/IEUFjROQxjUDY4BqA=="
 ---
 

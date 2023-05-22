@@ -100,6 +100,15 @@ related:
         width: 2500
         height: 1313
         isCached: true
+  - title: "Rebooting Tech Talent In The Race For AI"
+    excerpt: "Developers using AI tools like CodeGPT, Bugasura, GitHub, Repli - while designers use PiggyAI, Galileo, Viesus to upskill and be a growth accelerator in their next gig."
+    publishedDateTime: 2023-05-18T18:28:00Z
+    webUrl: "https://www.forbes.com/sites/deandebiase/2023/05/18/rebooting-tech-talent-in-the-race-for-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "State of AI adoption for enterprise IT management in the Middle East"
     excerpt: "With large language models (LLMs) in the market, the AI hype cycle is at an all-time high, and AI adoption is gaining traction."
     publishedDateTime: 2023-05-19T11:30:00Z

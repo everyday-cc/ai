@@ -36,22 +36,6 @@ related:
         width: 723
         height: 482
         isCached: true
-  - title: "Top trends in the fintech space"
-    excerpt: "May 17, marks the annually observed World Telecommunications and Information Society Day (WTISD). Now in its 17th year, WTISD has helped to raise awareness of the possibilities that"
-    publishedDateTime: 2023-05-17T05:43:00Z
-    webUrl: "https://www.jamaicaobserver.com/business/top-trends-in-the-fintech-space/"
-    ampWebUrl: "https://www.jamaicaobserver.com/business/top-trends-in-the-fintech-space/amp/"
-    cdnAmpWebUrl: "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/business/top-trends-in-the-fintech-space/amp/"
-    type: article
-    provider:
-      name: The Jamaica Observer
-      domain: jamaicaobserver.com
-    quality: 44
-    images:
-      - url: "https://imengine.public.prod.jam.navigacloud.com/?uuid=972d3ff5-35e6-59fa-9452-6b64552945ae&function=fit&type=preview"
-        width: 500
-        height: 223
-        isCached: true
   - title: "Opportunities remain for fintech to turbocharge MSME growth"
     excerpt: "Speaking from a fintech’s point-of-view, the positive impact of digital technologies on solving the credit constraint of MSME enterprises has been noted at the scientific level, with AI-based credit fintech solutions able to provide an adequate response ..."
     publishedDateTime: 2023-05-18T05:05:00Z
@@ -91,6 +75,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nextech3D.ai Receives $2 Million in Cash From $400 million FinTech Ratio Tech"
+    excerpt: "With access to a $400 million credit facility, Ratio is able to fund Nextech3D.ai Accounts Receivables With ... initial $2,000,000 cash infusion from FinTech Ratio Tech representing zero-dilutive ..."
+    publishedDateTime: 2023-05-18T12:17:00Z
+    webUrl: "https://tulsaworld.com/ap/state/nextech3d-ai-receives-2-million-in-cash-from-400-million-fintech-ratio-tech/article_3eefe327-531a-522e-b87b-da964e5c6b12.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 36
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/custom/image/aacc4e10-0064-11e7-adc2-d3321407a1f8.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Pepper Advantage, fintech startup Techverse in M&A news"
     excerpt: "Rieom.ai is a Pune-based startup whose flagship product is an AI ... documents to identify fraud risks and other suspicious behaviour prior to credit approval. Fintech startup Techurate Systems Pvt. Ltd announced on Wednesday its acquisition of Techverve ..."
     publishedDateTime: 2023-05-17T14:39:00Z
@@ -119,15 +117,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Nextech3D.ai Receives $2 Million in Cash From $400 million FinTech Ratio Tech"
-    excerpt: "With access to a $400 million credit facility, Ratio is able to fund Nextech3D.ai Accounts Receivables With Zero dilution For The Foreseeable Future"
-    publishedDateTime: 2023-05-18T11:45:00Z
-    webUrl: "https://tulsaworld.com/ap/state/nextech3d-ai-receives-2-million-in-cash-from-400-million-fintech-ratio-tech/article_3eefe327-531a-522e-b87b-da964e5c6b12.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 16
   - title: "Nextech3D.AI receives initial $2M cash infusion from fintech firm Ratio Technology"
     excerpt: "Nextech3D.AI (CSE:NTAR, OTCQX:NEXCF) said it has received an initial $2 million cash infusion from fintech firm Ratio Technology. The funding represents a zero-dilutive capital source for the company as the cash was paid against future invoices for ..."
     publishedDateTime: 2023-05-18T12:06:00Z

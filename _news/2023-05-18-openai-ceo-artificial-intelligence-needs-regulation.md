@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "WHO warns against bias, misinformation in using AI in healthcare"
+    excerpt: "The World Health Organization called for caution on Tuesday in using artificial intelligence for public healthcare, saying data used by AI to reach decisions could be biased or misused. The WHO said it was enthusiastic about the potential of AI but had concerns over how it will be used to improve access to health information,"
+    publishedDateTime: 2023-05-17T09:41:00Z
+    webUrl: "https://www.fijitimes.com/who-warns-against-bias-misinformation-in-using-ai-in-healthcare/"
+    type: article
+    provider:
+      name: Fiji Times
+      domain: fijitimes.com
+    quality: 34
   - title: "Regulation of Artificial Intelligence"
     excerpt: "The introduction to the House of Commons of a Bill under the ten minute rule, by Labour MP Mick Whitley, on the regulation of artificial intelligence and workers' rights, from Wednesday 17 May."
     publishedDateTime: 2023-05-17T18:08:00Z
