@@ -33,6 +33,17 @@ related:
         width: 480
         height: 610
         isCached: true
+  - title: "Infogain AI Business Solutions Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Jake Zborowski, General Manager, Microsoft Azure Platform at Microsoft Corp., said, \"We're pleased to welcome three NAVIK AI solutions from Infogain to the Microsoft Azure Marketplace, which gives ..."
+    publishedDateTime: 2023-05-18T16:36:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/b32471234/infogain-ai-business-solutions-now-available-in-the-microsoft-azure-marketplace"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32471234"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32471234"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 65
 
 secured: "tWSIB2cwtuuTEMjuhPbFHC5tXluHqjqp/sSNfNrAdQxvxFF0JczYKbnB9N693FUU85IHfpszk8gvxNsW6G/Re+Sol2A7KvlYSCoET/pkdahMHGwTnJ4YZlgh2ZW3li7qW6yLehLkKmu0QtiqhcJdeikNibXGNsDSbSEQxbH7zVbnKfMXpbQ+HB10AVvmtq7fvdUyhEMIrxKUCZXM/51I1MrzEdKFbBLQqT8BoIn0S3Xg/uJS5LTi27Nl5VKbslDF+jqeWURgE0sAARarT/opFWt7KdFzpUK/WUgoAZMXFdc/RVnQgI8KUBM8TW++flY9Sj7UceYavXTd2Vx/V1xKZGaqFVB4z1ZMnBy+9kFksuU=;jhfk7nk2SGT5tmeAZSO1Vw=="
 ---

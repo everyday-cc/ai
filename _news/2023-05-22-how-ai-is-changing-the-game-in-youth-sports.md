@@ -1,36 +1,45 @@
 ---
 category: news
-title: "Big-name investors are going all-in on AI"
-excerpt: "The Tiger Global founder told investors to buy the so-called FAANG stocks – shorthand for Facebook parent Meta ... It's not just individual investors who are caught up in the AI fanfare. In a research note last month, Morgan Stanley said that 2023 ..."
-publishedDateTime: 2023-05-18T12:40:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5"
-webUrl: "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5"
-ampWebUrl: "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp"
+title: "How AI is changing the game in youth sports"
+excerpt: "Salt Lake County's Copper Mountain Soccer Club is among many youth teams using new AI video technology that films games and then culls each player's performance into a highlight reel."
+publishedDateTime: 2023-05-22T02:02:00Z
+originalUrl: "https://www.ksl.com/article/50646179/how-ai-is-changing-the-game-in-youth-sports"
+webUrl: "https://www.ksl.com/article/50646179/how-ai-is-changing-the-game-in-youth-sports"
 type: article
-quality: 89
-heat: 159
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KSL
+  domain: ksl.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://i.insider.com/62e3b3a0e1179200195ee85b?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://img.ksl.com/slc/2930/293016/29301604.jpeg?filter=kslv2/responsive_story_lg"
+    width: 1228
+    height: 690
     isCached: true
 
 related:
+  - title: "Big-name investors are going all-in on AI"
+    excerpt: "The Tiger Global founder told investors to buy the so-called FAANG stocks – shorthand for Facebook parent Meta ... It's not just individual investors who are caught up in the AI fanfare. In a research note last month, Morgan Stanley said that 2023 ..."
+    publishedDateTime: 2023-05-18T12:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5"
+    ampWebUrl: "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/62e3b3a0e1179200195ee85b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Which Artificial Intelligence Stocks Are Institutional Investors Buying?"
     excerpt: "We are currently witnessing ever-increasing use cases and growing acceptance of AI in every walk of life. Here are 7 AI stocks getting institutional attention."
     publishedDateTime: 2023-05-19T17:22:00Z
@@ -105,21 +114,7 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "How AI is changing the game in youth sports"
-    excerpt: "Salt Lake County's Copper Mountain Soccer Club is among many youth teams using new AI video technology that films games and then culls each player's performance into a highlight reel."
-    publishedDateTime: 2023-05-22T02:02:00Z
-    webUrl: "https://www.ksl.com/article/50646179/how-ai-is-changing-the-game-in-youth-sports"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 37
-    images:
-      - url: "https://img.ksl.com/slc/2930/293016/29301604.jpeg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
-        isCached: true
 
-secured: "1m6JzGzxPBab2+YONSiCqnnK03IeTjghZVBJKhaUXIj0n2tKcEj9nTAYh5ZsPfGMJEfOjaMpRnU9jp8rC6wpFz4r+fe6TX464oRVROC2KNjOna93IGeYZ3TFSaHr0OXmCcXKx70ZPUHujs8c3tWkKSPGMLXI5/4uzkNDUcrpTc6oOjzGT1nkpgDydOZU9tXEPdIu29fkBytlezRRlsZ715CB6XDNxl+e9qNLWIMNCPdbLpiuChZlD6dqDnUib9b0wlTCNvWGQqyY2e2r5o6Yv+jd0zxL4x0SO4NIiIJveWQASA4MbXU/+P7myti57ZCOCZAMl3a3XPuFMSmZFQBwWdmqvvfPecQib7bKnV0pBVOXclrHXJ+ipPH/o4ybi2HCBM5eu4TWThu9WAuA8QYsRtISAbL+srrL3TGNdZC3oGyzbFV/zgFHS55HslJJA4ahAvW2hbhCKlt/t20Uyi0bHwV2omvI//bwRR+BvKnFX5jbmL+/ZY1mFiZFKOb3ENmzp9jqmTbw7q8usDTCBplIYg==;w/3W4W51Z44OIjRMT08UPQ=="
+secured: "dKvsY7dO0uF1omk+UGlXP7parWCIR+coimPkrDJxsFHaUZHHlrgeYUojqltcNgRMb2aK6VCoqEjXxHI4ipc6fcWUFbPsow9aQv3hGs2kLV4wP5agyDvbPZlXkR3l0nfVQnHzwFe0FLc9nov0dnXqUd16JWnHAnPU9X+DRoiRctqhF6BfmtPrzNdn/UczagZ40wbz71djgatg+4e3QOUSnLkUHSv4CaaOMTcyQTORi98U1MGfXkdqeDRNkr8MTXp18Q61Xs5XqK+uN4E9t+fY7Lvnx+5If6A4Cxk+qLPbNHruNfWNi2dSGMLqLfstq3+lF0zCqb5v8/wvCbH3raEl4sPMhD2aE61YfxvVDQBiPig=;pdvS11j8mgC6MEl2SF9OmQ=="
 ---
 

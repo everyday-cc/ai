@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/05/207327-digital-asset-hedge-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207327-digital-asset-hedge-fund-ark36-launches-algorithmic-machine-learning-trading-software/amp/"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1280
     height: 960
     isCached: true
-
-related:
-  - title: "Cryptocurrency Hedge Fund ARK36 Launches Algorithmic Machine Learning Trading Software"
-    excerpt: "ARK36, the Cyprus-based leading alternative investment digital asset fund, has announced today the launch of a unique, proprietary machine learning-based trading software system, to improve the way its portfolio management team can navigate the dynamic world of cryptocurrency trading."
-    publishedDateTime: 2023-05-17T10:04:00Z
-    webUrl: "https://financialit.net/news/trading-systems/cryptocurrency-hedge-fund-ark36-launches-algorithmic-machine-learning-trading"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 31
-    images:
-      - url: "https://financialit.net/sites/default/files/ark36.png"
-        width: 1366
-        height: 768
-        isCached: true
 
 secured: "RW0cLKdyDXf2y+ZQLwpWy+3kh5gYZpXqyEFiJL+6YcIY4hYwhcO7A3E0tkizKwy1B8mMhS+KpKKSN6boPtZRQzSrzImECle/j+mbPbM3ZmX+zv4d5OgGPbjLk8wOSLMWtagX6QmzYpP9UluTaSGqh8A4ChE5EqDOJwhlbQ2OwunW8Qf0GwzuZOcQBp3hrRNwXN7oIs/NjmGjctlgbj1NKe7uPJ4G7zSwKpLYfcFkUSRM9GlBwaBQWYQo3/WpWehQvTs+MHLYW9Tx2K9t9PZhk8sEFr59azsD4Ys23l3qAJ4+c2jp3N84i3dKuYbzmvpy7zCVnWQ2UQmIoYBydR1/OuikXnHmmaq/arAN/Oafo41m1RfkLaHE0C6/pmKc5MdcmJu5BnKXYb8iVXjWpf+MQ17Kv4XPaMJL3g9yFaHLkQIpvE8NaJV9ZIbkAWQHTxNdNiOjb79PxYzMSUPpOJvYAkYjZmWdnF3ndpUSLhQ7id2xFWuT0K/ga8WUxAI4zGPnFYRYm/egPNTGNNF0KckxOQ==;F58yGEPg0mzkYE2LsMk08A=="
 ---

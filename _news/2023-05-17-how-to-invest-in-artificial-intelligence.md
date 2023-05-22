@@ -101,6 +101,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "How AI is changing the game in youth sports"
+    excerpt: "Salt Lake County's Copper Mountain Soccer Club is among many youth teams using new AI video technology that films games and then culls each player's performance into a highlight reel."
+    publishedDateTime: 2023-05-22T02:02:00Z
+    webUrl: "https://www.ksl.com/article/50646179/how-ai-is-changing-the-game-in-youth-sports"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 37
+    images:
+      - url: "https://img.ksl.com/slc/2930/293016/29301604.jpeg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
 
 secured: "BUxtuMhxkwwGWHSkifdbGpDlcJq5hpXnT3Y/d8J3NEObxkIWs6ExCriwvAKFk6H3TD1bGOLoDPjMYYo/epyAU2VyiMAvr2KwiJ2XAx6axILbp5jrqutlrq8w60CDwPFSTpXJUPrIs4zSDD0UGiuuizEU1yf+e81No4hHA5bJ4/TsWY4noqKEeHT56HrVUEb56tET1U9aPCfeoo2XxpO6DGpBConq3NfG8Ez+huinJDV51MoXD1sxExMr/MYs64MHNGPipUJUxHWWDjyQWQxVbFpr49spMfS5Av0oj0FsOE8x1bYJHpKPSiD8L/Tn/FQDCieX/YtksTLp39Tc5nhibe7k61OetfRrRadA81DOfDHlaSvNwA7Ww4AsmwqgnL+5VP0rPQQHiSQt8389tV3mWMt/04zhJtyhhZhIRnH22BfgL91HvhiNSkPgsDlvbrojLSTneBlFfXA5EyDx0rXIRm715foTEMinaNxaLJvFY7f6LeJ4xR1Z/FJQ2gySxTQJak59Tqm8pnmDbhxUC3QOtQ==;hte0GcY3ymZZwkWrL/GwCg=="
 ---

@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Motion Control Market Size Worth USD 27.17 Billion in 2032 - Emergen Research"
-    excerpt: "Discover the dynamic motion control market with offerings like actuators, motors, controllers, and sensors. Explore applications in automotive,"
-    publishedDateTime: 2023-05-17T09:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/motion-control-market-size-worth-usd-27-17-billion-in-2032---emergen-research-1032333023"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
   - title: "Global AI Chip Market to Generate USD 304.09 Billion by 2030, Outlines a New Report by Next Move Strategy Consulting"
     excerpt: "According to a report published by Next Move Strategy Consulting, the global Artificial Intelligence (AI) Chip Market size generated USD 28.83 billion in 2022, and is"
     publishedDateTime: 2023-05-19T15:00:00Z

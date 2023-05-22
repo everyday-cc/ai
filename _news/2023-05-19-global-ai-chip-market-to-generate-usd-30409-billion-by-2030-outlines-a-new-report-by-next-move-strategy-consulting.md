@@ -35,15 +35,6 @@ related:
         width: 444
         height: 250
         isCached: true
-  - title: "Motion Control Market Size Worth USD 27.17 Billion in 2032 - Emergen Research"
-    excerpt: "Discover the dynamic motion control market with offerings like actuators, motors, controllers, and sensors. Explore applications in automotive,"
-    publishedDateTime: 2023-05-17T09:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/motion-control-market-size-worth-usd-27-17-billion-in-2032---emergen-research-1032333023"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
 
 secured: "iFiDMun+WQQQScvdCw8kuAG2uUi46IYCgS9reRgAiB3w5WhlsRB8I/OIWetgKvv8suNX1VfLM2MM295nxKV3ytGB/ek9/xkCKBxTvE0FiMWrhTaz3ARMbL02228J6QVTet0fkoKxR5cd3UBeHaTR1KlWZT/gVxLV8Fmmr9vvYdVZF6U9o+mZYJPgHNRBbp/qjjrwfPl5m/k7v8nsJganZcqLSv6XA+3aHe/u83vz3mJoGJccTKb936nyVZQ7diClYwtBpurwNVD7Pa9Kap7D/XILut1f7K/mS75NrIqvJKrd3SCGrD8fYcmbWjHvHYKHFX5/nv9X87si/qtHVLtovZ2zYy1M37MTI6MWwU3Px/U=;zjIpFtzCQokuITd/XxuZIg=="
 ---

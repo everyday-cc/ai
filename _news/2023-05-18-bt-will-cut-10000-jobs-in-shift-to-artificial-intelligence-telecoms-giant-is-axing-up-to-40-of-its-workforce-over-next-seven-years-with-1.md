@@ -29,17 +29,17 @@ images:
 related:
   - title: "BT brutally axes 55,000 jobs and replaces 10,000 staff with robots"
     excerpt: "The telecoms company announced it is axing 55,000 roles by 2030 — with more than 10,000 eliminated because of advances in artificial intelligence ... way in curbs on robot tech."
-    publishedDateTime: 2023-05-18T21:25:00Z
-    webUrl: "https://www.thesun.ie/tech/10735929/bt-thousands-jobs-artificial-intelligence-robots/"
-    ampWebUrl: "https://www.thesun.ie/tech/10735929/bt-thousands-jobs-artificial-intelligence-robots/amp/"
-    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/10735929/bt-thousands-jobs-artificial-intelligence-robots/amp/"
+    publishedDateTime: 2023-05-18T22:16:00Z
+    webUrl: "https://www.thesun.co.uk/tech/22407194/bt-thousands-jobs-artificial-intelligence-robots/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/22407194/bt-thousands-jobs-artificial-intelligence-robots/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/22407194/bt-thousands-jobs-artificial-intelligence-robots/amp/"
     type: article
     provider:
-      name: Irish Sun
-      domain: thesun.ie
+      name: The Sun
+      domain: thesun.co.uk
     quality: 59
     images:
-      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2023/05/crop-22407323.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/05/crop-22407323.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
         width: 1920
         height: 1080
         isCached: true

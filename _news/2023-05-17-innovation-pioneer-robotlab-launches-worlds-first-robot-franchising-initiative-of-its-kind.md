@@ -7,7 +7,7 @@ originalUrl: "https://technews.tmcnet.com/news/2023/05/17/9816367.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/05/17/9816367.htm"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -17,38 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "UAE company launches first-of-a-kind locally-made robot to fight fires in the region"
-    excerpt: "Dubai, UAE - FFBOTS, the Jebel Ali Industrial Area-based Emirati firm, has launched the first locally-made firefighting robot of its kind in the Middle East, with world-class technical specifications and operational capabilities."
-    publishedDateTime: 2023-05-17T10:52:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/uae-company-launches-first-of-a-kind-locally-made-robot-to-fight-fires-in-the-region-eogbvyqp"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/uae-company-launches-first-of-a-kind-locally-made-robot-to-fight-fires-in-the-region-eogbvyqp?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/uae-company-launches-first-of-a-kind-locally-made-robot-to-fight-fires-in-the-region-eogbvyqp?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 52
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZGJiNmE4NDMtMDYyZS00/0/civildeffensetesthd-jpg.jpeg?f=3%3A2"
-        width: 697
-        height: 464
-        isCached: true
-  - title: "UAE firm announce Middle East’s first firefighting robot"
-    excerpt: "UAE businesses introduces Middle East’s first firefighting robot UAE firm announce Middle East’s first firefighting robot Civil Defence, Dubai Fire, firefighters, Robots, UAE Culture & Society"
-    publishedDateTime: 2023-05-20T07:51:00Z
-    webUrl: "https://www.arabianbusiness.com/culture-society/uae-firm-announce-middle-easts-first-firefighting-robot"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 39
-    images:
-      - url: "https://www.arabianbusiness.com/cloud/2023/05/19/uae-robot-firefighter.jpg"
-        width: 1200
-        height: 1027
-        isCached: true
 
 secured: "bA83v3drv1cY46GfMESHUt8WOxt5/iEJ7lkSWYrDI/0K+IzEtLK81nn4+sJ1GrwV2YhsF5xsisViZx2DPu65g1mQrLigjC5xdSpx9Ez4b24ASqTDyTQJPc5yxbPXB6PMJNh1fn0Qeka51fPqtbSOClNR3JvcJvhjHUUGQiEaHoudF7x3EGyEiYGTXYPZAnCKFsSLHpywBVBlaCmem1zRsr4oDTc7Qa448mLUhuqjTs8k7jkJVKfAmwrAAJ7s5UUZG4zMOLujKZbiPIIdjGIBSOunj1+wkAQOqP/sStWeHWmMOSBBBB5C0ZwDnslw+IKL4ca0N3dH3WPMKNxo4CP4ocd0+k4HOaNkpSlHj6uk+zQ=;OFld+QOgdrv2izQ1zlbPgg=="
 ---
