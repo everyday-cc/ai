@@ -20,6 +20,15 @@ topics:
   - AI in Security
 
 related:
+  - title: "TSA's facial recognition for air travel sparks privacy outrage"
+    excerpt: "The way the TSA uses facial recognition is by taking pictures of passengers and ... Get Kurt’s CyberGuy Newsletter, share your voice, a story idea or comment at CyberGuy.com. Get a daily look at what’s developing in science and technology throughout ..."
+    publishedDateTime: 2023-05-22T19:07:00Z
+    webUrl: "https://www.foxnews.com/tech/tsas-facial-recognition-air-travel-sparks-privacy-outrage"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 66
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
     excerpt: "BALTIMORE—A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through—all without having to hand over their identification to the TSA officer sitting behind the screen."
     publishedDateTime: 2023-05-20T16:12:00Z
@@ -62,20 +71,15 @@ related:
         width: 887
         height: 466
         isCached: true
-  - title: "Police Facial Recognition Technology Can’t Tell Black People Apart"
-    excerpt: "This happened three years ago to Robert Williams, a Black father in suburban Detroit. Sadly Williams’ story is not a one-off. In a recent case of mistaken identity, facial recognition technology led to the wrongful arrest of a Black Georgian for purse thefts in Louisiana."
-    publishedDateTime: 2023-05-18T14:38:00Z
-    webUrl: "https://www.scientificamerican.com/article/police-facial-recognition-technology-cant-tell-black-people-apart/"
+  - title: "The TSA Is Testing Facial Recognition Technology to Help Streamline Airport Security"
+    excerpt: "In an effort to enhance and streamline airport security, the TSA has been quietly rolling out a facial recognition technology pilot program at airports across the country. Instead of handing an ID card or passport to a TSA officer who manually makes ..."
+    publishedDateTime: 2023-05-22T21:27:00Z
+    webUrl: "https://www.mensjournal.com/news/tsa-tests-facial-recognition"
     type: article
     provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 39
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/3A8C75EC-F138-434F-A822F5103920B5AB.jpg"
-        width: 790
-        height: 497
-        isCached: true
+      name: Men's Journal
+      domain: mensjournal.com
+    quality: 44
 
 secured: "8xPunaiKPovStu+e0A04+SW1kaDLMcDcn06d8A6UWjsK92LVncuDUdKApH4A1VkrT1uATij+X2xq9Eq2icefhCs/kB5BQNGsPcTQFkRwF3+CfVgLJC18MgJAeQEEod8vgGhutEKA9iM+cdeDtRO2JQZKNBraclj/+nCe+Vx8hekxcXQByID3K951mybtmthjnB2EjtiVfgWqPzjvAS+dTp84ZE22gbVcnPua5EgNG+o6WJxDED6hsiNH9HQEsZyFqTn+Ly/4vF1n3USEMovl9pTw5m9IwPGUx7btAn1MEVcEApJIGBjInBtqkC6LhMAr/xWiEU2gy+620gfMvejHwlKH+6XTv9lODroQPArUzc9l23J8vCnJmzI/hNN4DRBb2c0YwNmCu1TtZiO7R6V//+1ejNuwp1Bi1dA4LUJc1fPFwmkI4eyvMxIaQYN3Q0ofheTAwQc1y51brAkCvcMqMfKTTU1TOqCrxdpmeAfVrMfXSLPtHyfUHo5b2dZwhysO5EUqa3cGgUMQSoNHP1AdoA==;Egz1pmOVjCa+pFbHpIZWcQ=="
 ---

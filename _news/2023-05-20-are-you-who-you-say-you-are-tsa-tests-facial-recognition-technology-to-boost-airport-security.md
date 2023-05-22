@@ -7,8 +7,8 @@ originalUrl: "https://businessmirror.com.ph/2023/05/21/are-you-who-you-say-you-a
 webUrl: "https://businessmirror.com.ph/2023/05/21/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
 type: article
 quality: 59
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: BusinessMirror
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "TSA's facial recognition for air travel sparks privacy outrage"
+    excerpt: "The way the TSA uses facial recognition is by taking pictures of passengers and ... Get Kurt’s CyberGuy Newsletter, share your voice, a story idea or comment at CyberGuy.com. Get a daily look at what’s developing in science and technology throughout ..."
+    publishedDateTime: 2023-05-22T19:07:00Z
+    webUrl: "https://www.foxnews.com/tech/tsas-facial-recognition-air-travel-sparks-privacy-outrage"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 66
   - title: "TSA tries out facial recognition technology at 16 U.S. airports"
     excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through -- all without having to hand over their identification to the TSA officer sitting behind the screen."
     publishedDateTime: 2023-05-21T07:41:00Z
@@ -63,20 +72,15 @@ related:
       name: Reason
       domain: reason.com
     quality: 49
-  - title: "Police Facial Recognition Technology Can’t Tell Black People Apart"
-    excerpt: "This happened three years ago to Robert Williams, a Black father in suburban Detroit. Sadly Williams’ story is not a one-off. In a recent case of mistaken identity, facial recognition technology led to the wrongful arrest of a Black Georgian for purse thefts in Louisiana."
-    publishedDateTime: 2023-05-18T14:38:00Z
-    webUrl: "https://www.scientificamerican.com/article/police-facial-recognition-technology-cant-tell-black-people-apart/"
+  - title: "The TSA Is Testing Facial Recognition Technology to Help Streamline Airport Security"
+    excerpt: "In an effort to enhance and streamline airport security, the TSA has been quietly rolling out a facial recognition technology pilot program at airports across the country. Instead of handing an ID card or passport to a TSA officer who manually makes ..."
+    publishedDateTime: 2023-05-22T21:27:00Z
+    webUrl: "https://www.mensjournal.com/news/tsa-tests-facial-recognition"
     type: article
     provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 39
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/3A8C75EC-F138-434F-A822F5103920B5AB.jpg"
-        width: 790
-        height: 497
-        isCached: true
+      name: Men's Journal
+      domain: mensjournal.com
+    quality: 44
 
 secured: "gqWouYqXrmkAbhKSweJDbJnRX4y+4GBzqlybzQkQ5DCgEna5CydnR8FcvyN2D2YZVGqnrfMVjo+clqSRZNbWOraJfLs60EeZqbstdmW/iCMs3i8nHaRTyTLS2q+yrYgCXtR5j2CQ8/kqnK3EkGxb9CIW5RHDahjr98QsUo7RMY3cPXqhD9akgeaN/SQ2Hk34jFBbP2SfX6IJjilc+LKvlLrDqrcr19dRhGB/dJ4kV4J+AbdFbgEHj5GKoF3o3M4Sr8eKqcGfxiHx6ah6SCoBAmuEeYWv+lYx3iRxkBPLzK5uesikeSlfyt9DHv/bBjm7rjWR8xsuG3k/MRLI6eNWHya+euQJxCaUEEGrf2Av964=;ok9yt/bVgvRAnseRHvitvA=="
 ---

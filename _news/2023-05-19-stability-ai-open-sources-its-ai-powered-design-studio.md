@@ -54,7 +54,7 @@ related:
     provider:
       name: The New York Times
       domain: nytimes.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://static01.nyt.com/images/2023/05/20/business/20DB-AI/20DB-AI-facebookJumbo.jpg"
         width: 1050

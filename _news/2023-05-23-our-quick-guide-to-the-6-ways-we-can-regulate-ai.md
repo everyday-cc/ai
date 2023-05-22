@@ -8,7 +8,7 @@ webUrl: "https://www.technologyreview.com/2023/05/22/1073482/our-quick-guide-to-
 ampWebUrl: "https://www.technologyreview.com/2023/05/22/1073482/our-quick-guide-to-the-6-ways-we-can-regulate-ai/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/22/1073482/our-quick-guide-to-the-6-ways-we-can-regulate-ai/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/starts-stops-regs1_1.jpeg?w=3000"
@@ -57,6 +58,6 @@ related:
         height: 1601
         isCached: true
 
-secured: "xtF0yv2bWbIiLmD9dhF13aAlb84JGEop0tTKantoAz1Znq3qT9EPMFe8oBepZEOUABX/mR0xqfU9QBbh53rVIFAueVfDZ3POG8OB+aCqUgm/zn6HYEXUNJ1ct6r9oJPEppZHDmL1Q68OBB7RjQu4UUdTinlOVwzxPkpi5cnQOVNy2qCURIoRct2u65i7TPf2thocYuCZgLrrNUFz6iMENIVjWBPm22Vm8Bpt1HRdYS+1TKbRs+aYsqcr+g+mvGvCHOE/iaLaSnJ2mxcppwlotbbFRQ1kDaLGHYrbO0l7mgNwNZzpD6PnAzOqUbGhyBwTUdrRx7RjiOEzaf895lw/37OFAyBSspc4e4lO9CTdPs0=;QbImrUT4/zsJMRBoKwMASg=="
+secured: "kFoYQe4fypn8YUKZMKbitasZHsGQKhq3Vo2fREePA6PjxuzC7hLxskUU8/kjVTBmhsO3UvvRJSHlGR01b/Wkh0SyhYsVFMnFGS/7CfvDH5MZ6LM22L0hYiXGevwTEc0ZmR/OX6TlPPyjUDI8Ctdmne/Os5/iiB1VTPz9vWaDgcUHVqnrErGsfh8Y6j4MZ7dti8RRYaZH0ueQIRkI4WMLyairy1X2mrw9+aENMgChpL2q27j7waAEG6AdXe5wwV8bZe2eiJEa+y4/HGGdjrHbN8gO7cRzAl2hfO582I8dzeCBwa1MfP9/HZhG4ORAnkusyTpprQ8DEQVg7Ygmsx6iu+D3uGH+saQopkjTqGWsC8ywyxaXWyAIX4X65Erd3k0fdgPFWwdqPo1niuZOrix3j7TchUP8rsbfL6Gs6tCZXQJuajiM6535KC/wU3sXuMDB4XWClPV0quKvSWWPZR3gVswcwYG2MtxAugm+Yq45RR1eq2ZoTJeEN6KiiB4yLsJZxJgZ57m86hHCZdG/n8oiHg==;gex9wUxWn+EwcOegKhaYaA=="
 ---
 

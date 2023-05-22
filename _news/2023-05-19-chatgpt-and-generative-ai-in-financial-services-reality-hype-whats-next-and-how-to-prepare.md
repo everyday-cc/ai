@@ -150,6 +150,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Regulators dust off rule books to tackle generative AI like ChatGPT"
+    excerpt: "As the race to develop more powerful artificial intelligence services like ChatGPT accelerates, some regulators are relying on old laws to control a technology that could upend the way societies and businesses operate."
+    publishedDateTime: 2023-05-22T15:55:00Z
+    webUrl: "https://www.reuters.com/technology/regulators-dust-off-rule-books-tackle-generative-ai-like-chatgpt-2023-05-22/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/A042xjpYEW1-fhIesQ2ZX_Mdp-M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FP3G4673DZI2BNIST6YDZCKYCY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Korean AI chip startups face losses in 2022 despite ChatGPT momentum"
     excerpt: "Although the artificial intelligence (AI) market, including chatbot technologies like ChatGPT, is gradually expanding and expected to drive growth in the IC design industry, South Korean AI chip startups faced significant losses in 2022."
     publishedDateTime: 2023-05-19T06:54:00Z
@@ -198,20 +212,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "ChatGPT/AI is coming for the workplace"
-    excerpt: "Microsoft, in its latest “Work Trend Index” report, promises that the use of AI at work is the technology of that's going to make work easier"
-    publishedDateTime: 2023-05-18T04:00:00Z
-    webUrl: "https://amsterdamnews.com/news/2023/05/18/chat-gpt-coming-to-workplace/"
-    type: article
-    provider:
-      name: Amsterdam News
-      domain: amsterdamnews.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/amsterdamnews.com/wp-content/uploads/2023/05/pexels-photo-15863103.jpeg?fit=1880%2C1253&ssl=1"
-        width: 1880
-        height: 1253
-        isCached: true
   - title: "ChatGPT: Are school districts ready for Artificial Intelligence"
     excerpt: "Artificial Intelligence has become a popular topic lately ... Greg Abbott will likely sign legislation into law soon that will ban certain health care options for transgender minors, and several legal groups announced their intent to file a lawsuit ..."
     publishedDateTime: 2023-05-19T02:32:00Z
@@ -279,6 +279,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
+    publishedDateTime: 2023-05-22T17:30:00Z
+    webUrl: "https://www.businessinsider.com/chaptgt-ai-financial-services-reality-hype-whats-next-prepare-2023-may"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
   - title: "Ampere Computing rides the AI, ChatGPT wave, calls for more power-conscious chips"
     excerpt: "As we develop more products we need more engineers and designers and architects. Portland is a great place to hire. And it’s a good opportunity to hire now and take advantage of current conditions,' said Ampere Computing CPO Jeff Wittich."
     publishedDateTime: 2023-05-18T12:00:00Z

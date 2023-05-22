@@ -43,20 +43,6 @@ related:
         width: 723
         height: 482
         isCached: true
-  - title: "Opportunities remain for fintech to turbocharge MSME growth"
-    excerpt: "Speaking from a fintech’s point-of-view, the positive impact of digital technologies on solving the credit constraint of MSME enterprises has been noted at the scientific level, with AI-based credit fintech solutions able to provide an adequate response ..."
-    publishedDateTime: 2023-05-18T05:05:00Z
-    webUrl: "https://www.philstar.com/other-sections/newsmakers/2023/05/17/2266852/opportunities-remain-fintech-turbocharge-msme-growth"
-    type: article
-    provider:
-      name: philstar.com
-      domain: philstar.com
-    quality: 39
-    images:
-      - url: "https://media.philstar.com/images/filler/logo-filler-thumbnail.jpg"
-        width: 686
-        height: 392
-        isCached: true
   - title: "Rising importance of AI in the fintech space"
     excerpt: "Advantage of AI in fintech industry is its capacity to automate and augment a multitude of laborious processes related to banking"
     publishedDateTime: 2023-05-18T11:25:00Z
@@ -81,20 +67,6 @@ related:
       - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA1XC9TY3JlZW5zaG90LTIwMjMtMDEtMTctYXQtNi0wMS0zNi1BTV82NDY2M2QwM2ViZjUzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
         width: 1200
         height: 630
-        isCached: true
-  - title: "Fintech Startup Techverve and Pepper Advantage in M&A News"
-    excerpt: "Fintech Startup Techverve and Pepper Advantage in M&A News - Global credit intelligence company Pepper Advantage announced, the acquisition of artificial"
-    publishedDateTime: 2023-05-18T03:23:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/fintech-startup-techverve-and-pepper-advantage-in-ma-news-nid-223026-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 24
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/Ehk1BU3D.jpg"
-        width: 570
-        height: 367
         isCached: true
   - title: "Climate Fintech: The Key to Unlocking Wider Climate Tech Solutions"
     excerpt: "Even with challenges such as a lack of standardised ESG reporting, limited access to quality climate risk data, and regulatory hurdles likely to slow down the adoption of new technologies, climate fintech has the potential to transform the entire climate tech sector and be an integral part of the solution to combat climate change."
@@ -170,6 +142,6 @@ related:
       domain: proactiveinvestors.com
     quality: 13
 
-secured: "xwDanO2YUdC7dEXI3m7GZrc9HIj83sFykRNlbs5UNJqch/HHjcrmCpNxcUIbwzFcRkyHY8UcjE1ekF0jswcstFW+JeGOE++fFyGuhn6Ydcb1KETMkerlgsMEzQ3nctrlRDeIvX6nYAEu0VJzWiEPh3J9LgDXae9U987g9yz+V41IUI0MQOWI2WPDBZLgqhZxDr7Bl/zl8+vqZKBYxCeGcJkMQC6/C5flN8dtCsIEOUiukK4Fn2YvI9aVRpbjWMHOd8b6CpXcG/BwJSfMHmsMhaCsss22tV9zRFUwCRF3dA9U+ShWNW4f6+NO+dJwMZ0X2OAjCFERg3hRHztRHfnZYBVQ8QFKg3CMfP9aALi5pmo=;VKSpfmWb5aNjVrVNXDRqRA=="
+secured: "0VW0a0cM86VRyI+my6gdJaw4G1q9Jkg95ZzrgKMA5w5MyC4Rb73IBHFLTnYomrQQRJYVHnlFAggR9Zd0QSQT3vwJ67ADJd7CI4ZPPeHwyGP5Y9ABbVx/a/doEE56f9pyvbe+1dkd55R69696I1LijnMLI7LY7f62ra9j5X/Vf3BzSeDH1bI3G80dbzogtqvVRgYbqk25A0n0YnMcX89vX1kbHr57Ps5Nwp/H2LahEAUpb9O8I9Vq29iwo8LJoOQhufpma/19wsDsCAO3pVYwrsb1Vg0ja5SJlGss0sU1un7NVEUC1oFPh5+QE+AQgaELtI7jvXyeIHgAofsSurWbUT3KEJJFYpHDfd7X0ILTHrhTUDt9XZjT5j+xVZfrMDZwZipNvIv/GVSfPJWJBx2+NfGR9wc61P5k4O3+p4njzjQ0m5ujA9k9AzzBVV6pmXZdLtwVSxrutU7jqMtcHAqoQ+T7bDmx5LCD1Uzm4B52Um3ZlisFGT4q3v8x/sWhGViYMaV6lG1PfQdlWhhvCZDEZA==;QbPxP1ZNLnI/np1RLWhFxQ=="
 ---
 

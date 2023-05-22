@@ -41,15 +41,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Harry Reid International Airport in Las Vegas testing TSA facial recognition technology"
-    excerpt: "It's all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country, including Harry Reid ..."
-    publishedDateTime: 2023-05-18T04:10:00Z
-    webUrl: "https://www.rgj.com/story/news/2023/05/16/las-vegas-airport-among-ttsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/70223093007/"
-    type: article
-    provider:
-      name: Reno Gazette-Journal
-      domain: rgj.com
-    quality: 26
 
 secured: "8TGbTP8DfkLDZRe+sCBMgTllyV76msNK6o3m974CpxeVes66U7L/m/Vukgd4WLTEcvjiQNG3hV9qAEg5ofQ4XRx7Jg5ZioiKundtobXuiVhkCoKMJcpQiNNVjmZ/x8ht+mR6pCkDz/cZeGX10M6EZJsSJ/sF1XUxD4CcWeGhF4YaaKZ9pl5E9TTmMqNhmy1Vbb3pN0zBP0gZsPMCyLSEfqAcrNxprjrOdZ8Kbuiiv1odQ5q1lJqhJBMU9tR9EbDc3eJtZ5uxdK8SkdlA+TxgU9QPoeGnsO1jM5BFayWX4M2D2U6KABTi2Z34ZmRv9juisGzHJQweaRKKjszWcs0gSWaVjPU6niIhxWNKZJZfS6meug/aLPRcfqMgSF0hPOaOFEjWpzmsujtvyxLBwylHVrfNACJ1Bl0BeFUce+9TleQ1aoDNGrsbeh7vqy+n9M+o7zubHTMMM5KMaMQp8YJFQHm7dg5SrHZxFOtNEjVmqblyZU+jr/Wi4BSLc9C5/p0UCOXBtBOyoDWooaXgDSR1Yw==;+4OJ4UWxzy/AdXB005nyjA=="
 ---

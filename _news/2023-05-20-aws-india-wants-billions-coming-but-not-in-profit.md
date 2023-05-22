@@ -41,38 +41,6 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "Embracing cloud technology critical to $5 trillion economy ambitions: AWS CEO Adam Selipsky"
-    excerpt: "Amazon's AWS CEO Adam Selipsky says India is an 'incredibly energised, high growth market' as the company announced plans to invest $12.7 billion in India's cloud infrastructure by 2030."
-    publishedDateTime: 2023-05-18T04:57:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/embracing-cloud-technology-critical-to-5-trillion-economy-ambitions-aws-ceo-adam-selipsky-10611001.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/embracing-cloud-technology-critical-to-5-trillion-economy-ambitions-aws-ceo-adam-selipsky-10611001.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/embracing-cloud-technology-critical-to-5-trillion-economy-ambitions-aws-ceo-adam-selipsky-10611001.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 49
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/12/Adam-Selipsky-afp-770x435.jpg"
-        width: 770
-        height: 435
-        isCached: true
-  - title: "Will invest $12 billion in building India's cloud infrastructure: AWS global CEO; Paytm opposes IAMAI’s stand on digital competition"
-    excerpt: "Adam Selipsky, the newly appointed chief executive of Amazons cloud unit, Amazon Web Services (AWS), said India is a “high growth market” and he expects it to embrace cloud technology to reach its goal for a $5 trillion economy."
-    publishedDateTime: 2023-05-18T01:54:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/will-invest-12-billion-in-building-indias-cloud-infrastructure-aws-global-ceo-paytm-opposes-iamais-stand-on-digital-competition/articleshow/100315488.cms?from=mdr"
-    ampWebUrl: "https://m.economictimes.com/tech/newsletters/morning-dispatch/will-invest-12-billion-in-building-indias-cloud-infrastructure-aws-global-ceo-paytm-opposes-iamais-stand-on-digital-competition/amp_articleshow/100315488.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/newsletters/morning-dispatch/will-invest-12-billion-in-building-indias-cloud-infrastructure-aws-global-ceo-paytm-opposes-iamais-stand-on-digital-competition/amp_articleshow/100315488.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 43
-    images:
-      - url: "https://img.etimg.com/photo/msid-100316140/whatfix-co-founders-khadim-batti-and-vara-kumar..jpg"
-        width: 650
-        height: 487
-        isCached: true
   - title: "AWS Announces Plans To Invest Rs 1.05 Lakh Crore Into Cloud Infrastructure In India By 2030"
     excerpt: "AWS runs two data centres in the country, one in Mumbai and the other in Hyderabad. The platform offers over 200 services which include storage, robotics and Artificial Intelligence. This comes amid growing interest among firms to invest in the the Indian ..."
     publishedDateTime: 2023-05-18T05:41:00Z

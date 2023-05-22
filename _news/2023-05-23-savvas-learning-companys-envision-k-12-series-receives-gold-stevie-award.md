@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Savvas Learning Company's enVision K-12 Series Receives Gold Stevie Award"
-excerpt: "Savvas Learning Company, a K-12 next-generation learning solutions leader, is proud to announce that its enVision Mathematics K-12 series © 2024 has received a Gold Stevie Award in the 21st annual American Business Awards program,"
-publishedDateTime: 2023-05-22T17:36:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/22/9818621.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/22/9818621.htm"
+excerpt: "Highly effective math series recognized as standout instructional solution PARAMUS, N.J., May 22, 2023 /PRNewswire/ -- Savvas Learning Company, a K-12 next-generation learning solutions leader, is pro"
+publishedDateTime: 2023-05-22T17:22:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/05/n32513919/savvas-learning-companys-envision-k-12-series-receives-gold-stevie-award"
+webUrl: "https://www.benzinga.com/pressreleases/23/05/n32513919/savvas-learning-companys-envision-k-12-series-receives-gold-stevie-award"
 type: article
 quality: 3
 heat: 3
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "/sASc4Adm8hvH551mMZLn51j3nkfpGBGuJhkU+pex6A8oCqzpIdESgKjVljIF4pvfm4XegJ87uDdps0uk03MKhFG6Xk3uVEp20+dR7G+Vvuw4aRFS5xZVpJObjax6jFKQov6+TO4Z5U1RUhIXHuCG2T5aaGiKa83nlyF/uFvPs9kyUlGOZk2LjcnhyXMAisGdePzsLccYpSQjWPTaNOSrMaX6FdkHGdopWkYTLAyZqCC87RftfKsK9Gztc9AdcynurjhOfG2jXCDAD/dUhwy95Qd424p1k7O249V3kg9YwVa1Un3yuu7nam6SRLM2pzSunUNfmo6gvHVLu+VWegS+obOwdFfA4pTFF+dTFFhx6w=;RyCRHtyyeRxwxwmY/KSrYQ=="
+secured: "BSdSScB/+ahI6RR8eL/qjNQ2LWhWFUB5eyRTkdAsKP1R/pcVvKdBTKsuW5lYkawRqNgIGm56chTjiMWXd5PhHnf2fjZ/vNe7GEDSSMUriC8X5kQjua3fwqmAbe6QEHp8VTBx0nYo94tWWTZ5OF5DJY/n8BDBDtBIGWXzdcHJWjVrYKH9w5eSj9Uxfc08mMeISrGtto8bVCxtCF99RuQGsT2RGYfmF7Ws67QcNlVX5BrqXBwlNnV4zE/hJSfueet2/MPqnXeBDuI9mSZVW4WNf/POQEeQZrgfznzW9uZ8HtaHXvhTDeWRtjn0LHNPkRrf339AWldM3+1RnGV0Vi+ZSEscgrzYwAu86pD6ISWqXWg=;7j0fii6EeMOnuelTUtLL1w=="
 ---
 

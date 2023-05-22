@@ -95,6 +95,15 @@ related:
         width: 708
         height: 400
         isCached: true
+  - title: "Mural Unveils AI-Powered Capabilities for Enterprise Collaboration at Microsoft Build"
+    excerpt: "Deepening its investment in the Microsoft ecosystem, Mural's AI capabilities will use Azure OpenAI to enable teams to work together more efficiently SAN FRANCISCO, May 22, 2023 /PRNewswire/ -- Mural, a leading visual collaboration company, today unveiled ..."
+    publishedDateTime: 2023-05-22T19:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mural-unveils-ai-powered-capabilities-for-enterprise-collaboration-at-microsoft-build-1032343497"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
   - title: "Microsoft Previews AI-Based Code Optimizations for .NET Apps"
     excerpt: "Azure Monitor users can now try a public preview of Code Optimizations to detect performance issues with their .NET apps and services, per a Thursday Microsoft announcement."
     publishedDateTime: 2023-05-18T21:44:00Z

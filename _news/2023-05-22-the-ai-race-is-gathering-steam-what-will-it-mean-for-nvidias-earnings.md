@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/05/22/the-ai-rac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/05/22/the-ai-race-is-gathering-steam-what-will-it-mean-for-nvidias-earnings/amp/"
 type: article
 quality: 88
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://blog.tipranks.com/wp-content/uploads/2023/05/image-602-1024x518.png?utm_source=markets.businessinsider.com&utm_medium=referral"
         width: 1024
         height: 518
+        isCached: true
+  - title: "Nvidia’s stock has more than doubled this year. Can earnings justify the AI hype?"
+    excerpt: "Read: Nvidia CEO expects AI revenue to grow from ‘tiny ... voiced some concerns about Nvidia’s ability to build enough product and demand for gaming chips but still said he’s looking for a beat-and-raise quarter. “While supply is likely to limit ..."
+    publishedDateTime: 2023-05-22T20:58:00Z
+    webUrl: "https://www.marketwatch.com/story/nvidia-stock-has-more-than-doubled-this-year-can-earnings-justify-the-ai-hype-4b7ce2?mod=family-finances"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-stock-has-more-than-doubled-this-year-can-earnings-justify-the-ai-hype-4b7ce2"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-stock-has-more-than-doubled-this-year-can-earnings-justify-the-ai-hype-4b7ce2"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://images.mktw.net/im-608401/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "NVIDIA, AMD, and Micron are in the Forefront in the Chip Sector Higher with AI"
     excerpt: "NVIDIA, AMD, and Micron are experiencing significant growth in the chip sector, driven by their emphasis on AI and targeting the Japanese market."

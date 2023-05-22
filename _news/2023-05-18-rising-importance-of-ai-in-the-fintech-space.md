@@ -37,20 +37,6 @@ related:
         width: 723
         height: 482
         isCached: true
-  - title: "Opportunities remain for fintech to turbocharge MSME growth"
-    excerpt: "Speaking from a fintech’s point-of-view, the positive impact of digital technologies on solving the credit constraint of MSME enterprises has been noted at the scientific level, with AI-based credit fintech solutions able to provide an adequate response ..."
-    publishedDateTime: 2023-05-18T05:05:00Z
-    webUrl: "https://www.philstar.com/other-sections/newsmakers/2023/05/17/2266852/opportunities-remain-fintech-turbocharge-msme-growth"
-    type: article
-    provider:
-      name: philstar.com
-      domain: philstar.com
-    quality: 39
-    images:
-      - url: "https://media.philstar.com/images/filler/logo-filler-thumbnail.jpg"
-        width: 686
-        height: 392
-        isCached: true
   - title: "Nextech3D.AI adds 2 million in growth capital cash from FinTech Ratio Tech"
     excerpt: "CEO Evan Gappelberg joined Steve Darling from Proactive to share news the company the company has added 2 million dollars in cash to the bottom line without share dilution by doing a deal with FinTech Ratio Tech and its 400 million dollar credit fund."
     publishedDateTime: 2023-05-18T13:57:00Z
@@ -80,20 +66,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/08/School-Bus-Students-Education.jpg"
         width: 1280
         height: 1062
-        isCached: true
-  - title: "Fintech Startup Techverve and Pepper Advantage in M&A News"
-    excerpt: "Fintech Startup Techverve and Pepper Advantage in M&A News - Global credit intelligence company Pepper Advantage announced, the acquisition of artificial"
-    publishedDateTime: 2023-05-18T03:23:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/fintech-startup-techverve-and-pepper-advantage-in-ma-news-nid-223026-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 24
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/Ehk1BU3D.jpg"
-        width: 570
-        height: 367
         isCached: true
   - title: "Climate Fintech: The Key to Unlocking Wider Climate Tech Solutions"
     excerpt: "Even with challenges such as a lack of standardised ESG reporting, limited access to quality climate risk data, and regulatory hurdles likely to slow down the adoption of new technologies, climate fintech has the potential to transform the entire climate tech sector and be an integral part of the solution to combat climate change."

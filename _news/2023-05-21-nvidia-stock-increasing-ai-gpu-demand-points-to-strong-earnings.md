@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nvidia’s stock has more than doubled this year. Can earnings justify the AI hype?"
+    excerpt: "Read: Nvidia CEO expects AI revenue to grow from ‘tiny ... voiced some concerns about Nvidia’s ability to build enough product and demand for gaming chips but still said he’s looking for a beat-and-raise quarter. “While supply is likely to limit ..."
+    publishedDateTime: 2023-05-22T20:58:00Z
+    webUrl: "https://www.marketwatch.com/story/nvidia-stock-has-more-than-doubled-this-year-can-earnings-justify-the-ai-hype-4b7ce2?mod=family-finances"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-stock-has-more-than-doubled-this-year-can-earnings-justify-the-ai-hype-4b7ce2"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-stock-has-more-than-doubled-this-year-can-earnings-justify-the-ai-hype-4b7ce2"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://images.mktw.net/im-608401/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "NVIDIA, AMD, and Micron are in the Forefront in the Chip Sector Higher with AI"
     excerpt: "NVIDIA, AMD, and Micron are experiencing significant growth in the chip sector, driven by their emphasis on AI and targeting the Japanese market."
     publishedDateTime: 2023-05-19T14:56:00Z

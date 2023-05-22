@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "UK court tosses class-action style health data misuse claim against Google DeepMind"
+    excerpt: "Google has prevailed against another U.K. class-action style privacy lawsuit after a London court dismissed a lawsuit filed last year against the tech giant and its AI division, DeepMind ..."
+    publishedDateTime: 2023-05-19T17:50:00Z
+    webUrl: "https://techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/"
+    ampWebUrl: "https://techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 98
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-874872698.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "UK Plans Meeting on AI Risks With OpenAI, DeepMind Bosses"
     excerpt: "The UK government has invited bosses from some of the world’s biggest artificial intelligence firms to a meeting, people familiar with the matter said, as Prime Minister Rishi Sunak crafts a policy to manage the risks and benefits of the technology."
     publishedDateTime: 2023-05-18T14:31:00Z
@@ -39,19 +55,35 @@ related:
         width: 1200
         height: 802
         isCached: true
-  - title: "Reino Unido planea reunión con OpenAI, DeepMind sobre riesgos IA"
-    excerpt: "El Gobierno del Reino Unido invitó a una reunión a los directores de algunas de las firmas de inteligencia artificial más grandes del mundo, dijeron personas familiarizadas con el asunto. Coincide con la elaboración en curso de una política del primer ..."
-    publishedDateTime: 2023-05-18T17:43:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-18/reino-unido-planea-reunion-con-openai-deepmind-sobre-riesgos-ia"
+  - title: "UK plans meeting on AI risks with OpenAI, DeepMind bosses"
+    excerpt: "The UK government has invited bosses from some of the world’s biggest artificial intelligence firms to a meeting, people familiar with the matter said, as Prime Minister Rishi Sunak crafts a ..."
+    publishedDateTime: 2023-05-19T03:40:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/uk-plans-meeting-on-ai-risks-with-openai-deepmind-bosses-10619981.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/uk-plans-meeting-on-ai-risks-with-openai-deepmind-bosses-10619981.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/uk-plans-meeting-on-ai-risks-with-openai-deepmind-bosses-10619981.html/amp"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 84
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii3LxhBwSQSk/v1/1200x639.jpg"
-        width: 1200
-        height: 639
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/RTSHI6VA.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "London court throws out lawsuit against Google over medical records"
+    excerpt: "Google defeated a lawsuit brought on behalf of 1.6 million people over medical records provided to the U.S. tech giant by a British hospital trust. The Royal Free London NHS Trust transferred patient data to Google’s artificial intelligence firm DeepMind Technologies in 2015 in relation to the development of a mobile app designed to analyse medical records and detect acute kidney injuries."
+    publishedDateTime: 2023-05-20T03:33:00Z
+    webUrl: "https://www.fbcnews.com.fj/world/london-court-throws-out-lawsuit-against-google-over-medical-records/"
+    type: article
+    provider:
+      name: fbcnews
+      domain: fbcnews.com.fj
+    quality: 39
+    images:
+      - url: "https://www.fbcnews.com.fj/wp-content/uploads/2023/05/Google-2.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "UK plans meeting on risks with bosses of OpenAI, DeepMind"
     excerpt: "The summit will be convened as soon as this month, with invitations likely for OpenAI chief Sam Altman and the leaders of Alphabet Inc.'s DeepMind and Anthropic, the people said. Sunak could be among officials in attendance,"

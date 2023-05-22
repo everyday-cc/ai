@@ -3,16 +3,16 @@ category: news
 title: "Check your artificial intelligence 'bossware' tools for bias, says U.S. agency head"
 excerpt: "The head of the U.S. agency charged with enforcing civil rights in the workplace says artificial intelligence-driven “bossware” tools that closely track the whereabouts, keystrokes and productivity of workers can also run afoul of discrimination laws."
 publishedDateTime: 2023-05-20T12:44:00Z
-originalUrl: "https://madison.com/news/nation-world/government-politics/check-your-artificial-intelligence-bossware-tools-for-bias-says-u-s-agency-head/article_14ae3e2c-853f-5a89-97e8-7c1e1488d921.html"
-webUrl: "https://madison.com/news/nation-world/government-politics/check-your-artificial-intelligence-bossware-tools-for-bias-says-u-s-agency-head/article_14ae3e2c-853f-5a89-97e8-7c1e1488d921.html"
+originalUrl: "https://omaha.com/news/check-your-artificial-intelligence-bossware-tools-for-bias-says-u-s-agency-head/article_c365446c-3076-5e32-849e-9496fa2cdfb1.html"
+webUrl: "https://omaha.com/news/check-your-artificial-intelligence-bossware-tools-for-bias-says-u-s-agency-head/article_c365446c-3076-5e32-849e-9496fa2cdfb1.html"
 type: article
 quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI in Autos
@@ -52,6 +52,6 @@ related:
         height: 558
         isCached: true
 
-secured: "x3oXAfDCfsgkZq5qK6x13REBNc4JIx/Eg6FMD4WPMzCJmdIxl0Ak91yRw5wQKQrE4euhvXNYOM+rKvQEFb7UQ2JsGcVh7BvpvZ9yeI/bklFoKBUAMNAUzEv153L7RDWnspaRL/XuYT8J7IYhA66nkQNpW+Ej6XfsNEA0CitNWwCD+TpWV8QoTM+A+Xs6+KF0jJjBFO+2ssj9ddPsU1WRyCUpTpT7DS9bhuIU5VCfttBRN2GwGJOtciFtlnXt33ETfY+WrO0W8YE0RKWyZEl0bp4h+iT4yuhnmn9IDoILkQWxHcyqz4JtYPMg+za8vrzy8QVEj3q79qQx1NHsVEFlFdjhotE/NIv+qFh4rPQ/ykaDh9aUGaE7eUYsykK1hOw/4W9zFj8q6/zmbbetS7byDTiYJS1bm8vWgEtOZ4ci2XCV4IuV2+iP+UZIvsqZgTINL5+OZmSFjlLb5VXdCAAIs90FxZMiWFG8jX9cqpNo9fp3xwLUO0Gu9Y2cW3lA3iB4QKoAxSyrYVbilPNAIFvwuw==;7DfXMqxwQJmOIVZ534EpqQ=="
+secured: "bxhZwQ5iYqtdxTozW+HmbgIiA9BtruxLrEyKFU6xlJhOsVjDrKLyQoe1NPnRCxiojdhlGbM3wC7IXDZ8RhoB+LVdW9iSX3gkbDYvO4YCCo21/K8da6tlpO8iP0x9y1bFrM9lkd0DgNBctllM/hwnn2gp3WUb56//g0NuyPJXP+6QJ4IV77oPs8AM/GgSwQMKA2XN61X5crVx67majfTdewaIo2qTG4zCYmc+3A4Hzs2M29brSqeaGj53lIgWv59N9pCQ7W0GOqKuM5gZ914cqj4OseOEFAod0rATjag6qnojMNHIk4qAyYvVi9vXExLhARhUaREZdiM8qm3+pI9AGOzy5FuXVZc8WceEqFvp/+itTE+llCnAHPar+jERtGqmqMBM1b//2bDXo6gamZNYMtSqF2TJ0MBbbGfC9Zu2BebkYPa9UHHd2hKzWugoV+txsi5ZGz1l+YftJbnLee9E1EBcFlgcyvCJ36xhP5GY2zOlfW1twFEcO7FXiRDbXUdDqWWMeaxbMetreNVoxL9OCw==;+FNFTYgjAcWai6zF3PKaaQ=="
 ---
 

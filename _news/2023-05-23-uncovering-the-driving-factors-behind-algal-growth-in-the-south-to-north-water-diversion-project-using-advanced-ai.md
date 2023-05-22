@@ -25,6 +25,17 @@ images:
     height: 1020
     isCached: true
 
-secured: "MUj4PoLXa+h0h8AhtOiZN5gyZoGC6iVpFhNbJigQNekyrTNU4ShswYmTbvpD37ooiOGcAQB6HZN+QkiG8aQhTs3Zpr4N2zovwhY1puq5XHgdjil63kd6K+cjKZw1Y20z/hOAXruFuNXxSiIpIjRXNaZwny2txCDDxhDlHz36GREnTLTiX9QKhHr9FtCcFOd4vxeprnAz1oSrvDtCFyaFUCaIO8BBxT3s46EtC5dYVbeQB47swMsS4d9Az6Q9rkqRYzltDIEVG+ch0/DOw5FQ5XLB+hFzLOaU0uFcIU5Gd9IPWyG/yoW6oL9++fJ3BzcvrtIJE9SnPZ3qnFXo5JkpLKZMlabfzbsGCdoZuYDYVoQ=;UIA6a+lRLnFuPaxHbxXOUA=="
+related:
+  - title: "AI Startup BeCause Advances Tourism Sustainability Practices with Strong Support from Angel Investors"
+    excerpt: "The startup's AI-powered sustainability hub simplifies, speeds up, and reduces costs for sustainability management in the tourism industry, freeing up resources and allowing for greater real-world impact. By eliminating 60% of the resources previously used ..."
+    publishedDateTime: 2023-05-22T18:37:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1324079&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 2
+
+secured: "jfwZGPi3TKCjLqzC4wKLpr3vU1hXE32JfRUAzkT3kh1tzg3eIhKZP3qC/Fem7V5oeu2jyHhvWf3L2azP7SOtH/2QsLXs7993BXpNu5g3DIY/LJuckJdTrLin5aBEqd/LM4tX6srMneGH4zpT6uxy72Z0w36ac+UkIziQ6TC8c0/gawAK1QNoEX2uYY7qYHNyVPe4FSSzbf6CMCE1IHaGifp0wjtP9YJCM9hs4DQoGrixcJoFX/iptcMIjXStecjCVoBIKIHjkzhCxTqdW4N0ralcXxzbRmqAOb7ouY5WiOVLOieYFy4Fhk1KU8K/uy6KyXRUJIa2WDRzUZKHEniEXDBx9zWKGTD9eIEEYDAdCnpxQN7JbYK5YhAM9a47f4k95+uUi85/23qRQJUUWNTuK2SVhg0Mx0BNiqxFwpZQoS20/A7hH6IEON16S24DQf6A8EsEYBKPSDd/WIWS7cUSuzbajjPq9LUs6j5gVxkwWZI7Jl0tR4OYanpogL51GJV4bxxOrz00hzt0VlbcJcORWQ==;ucb+G9/XT1qq75RcEL9Trw=="
 ---
 

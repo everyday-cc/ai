@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/karlfreund/2023/05/22/synopsys-lays-out-th
 ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/05/22/synopsys-lays-out-the-benefits-of-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/05/22/synopsys-lays-out-the-benefits-of-ai/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/610c09324c07cf985ccf31d5/0x0.jpg?format=jpg&width=1200"
@@ -29,6 +30,6 @@ images:
     height: 674
     isCached: true
 
-secured: "KcXkK5KLDFkjdMpsahx0usN+KkvBV180nnjJDAU+Yc4+Gvcg8aoE5P7OPV+2KLrW+iDS8lHNhP4ENVHKYIuf/B2wT+pMEklvcJN1A80cSPWjB+CAQE3Tvj55KdZQcknBTz/sCOKMbJ4d0Lnx0noLCFXJykxs4H3SSp36RhX3oreF7hVhWXrtpTDfpWDdqy2tdyi8ka8T4sE1O1i52mCiRfQEPTPfnptB7MsdMGaFRC/DHq6fRxxO3toJN/TzdOhq5p/XxEXaIs6T/Vz1Y8kDXV5D2mbX1tXyEv2RNR2Tfib7VyB44nKZgO0459RkC8kvorxy0to3UZs3eOODCqEQ+OBEwTqPOwzbCs++ap8xqzg=;PsxyYpZcmDfZGryCweXDzQ=="
+secured: "Sfu0GM8pzmV+ENd7VNThqRMPPEgAfoBEvnRVpK6lMR5Kj97SKdDIJuYh3fYstc1UVrUUvQtUrkrkQxze4o2eWeSgty8wKLe+dxUtyuzpHJdkzp98fdkLzDCirR3b4cYAqvQTME5J5neNTOY4RHtU7vTj0JyDXNaKxZ1feHk8/Wf8eewEYUSnqijv7epQW2FcLF0f1cFJvIySzMjqjLVcSiRZeE/3CUcZEijtax596f7LrnMUOLo3pv12xCbiS0CwqU9OSHfzcGV35O2jDsRfY0wEutdidEaFlZqES0n5weH2FvcXy56JHB58vT1DXJHHd3qUCSVrlIf8b0wOViF2zqf0CzuszCm6nVtly9/NVEWnvJ0G2tdPNX/ofMgTg1exEQcZIS9MemOmqq0yr4hvoSDtt9BIgjfibyk6lL6L90T2HPHBhKDv2dJS0cjen+Xz+voDYoAcBhK3aVXbzl4eqHi1vHUglyUisYJ40Wjuuh1+gATe3wrmCJGC05bnyFGGYV/TgJ3Q7hsVKTcrnz2O3w==;WPPXYsJ5vl+wrdVCUOtRsA=="
 ---
 

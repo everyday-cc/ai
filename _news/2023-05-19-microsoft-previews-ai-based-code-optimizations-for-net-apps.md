@@ -101,6 +101,15 @@ related:
         width: 708
         height: 400
         isCached: true
+  - title: "Mural Unveils AI-Powered Capabilities for Enterprise Collaboration at Microsoft Build"
+    excerpt: "Deepening its investment in the Microsoft ecosystem, Mural's AI capabilities will use Azure OpenAI to enable teams to work together more efficiently SAN FRANCISCO, May 22, 2023 /PRNewswire/ -- Mural, a leading visual collaboration company, today unveiled ..."
+    publishedDateTime: 2023-05-22T19:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mural-unveils-ai-powered-capabilities-for-enterprise-collaboration-at-microsoft-build-1032343497"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
   - title: "What to Expect at Microsoft Build 2023"
     excerpt: "In Seattle next week, expect AI, AI, and more AI, with some Azure and Arm thrown in. Microsoft Build kicks off in Seattle on Tuesday, and since Microsoft has already made lots of news around AI, Bing,"
     publishedDateTime: 2023-05-18T16:42:00Z

@@ -25,43 +25,75 @@ images:
     isCached: true
 
 related:
-  - title: "London court throws out lawsuit against Google over medical records"
-    excerpt: "Google on Friday defeated a lawsuit brought on behalf of 1.6 million people over medical records provided to the U.S. tech giant by a British hospital trust."
-    publishedDateTime: 2023-05-19T13:29:00Z
-    webUrl: "https://www.reuters.com/technology/london-court-throws-out-lawsuit-against-google-over-medical-records-2023-05-19/"
+  - title: "UK court tosses class-action style health data misuse claim against Google DeepMind"
+    excerpt: "Google has prevailed against another U.K. class-action style privacy lawsuit after a London court dismissed a lawsuit filed last year against the tech giant and its AI division, DeepMind ..."
+    publishedDateTime: 2023-05-19T17:50:00Z
+    webUrl: "https://techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/"
+    ampWebUrl: "https://techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 98
     images:
-      - url: "https://www.reuters.com/resizer/PGkcCwCvO-yoqZ6dWQId-Ba0qHk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ODNTRJHOVFO73E7BOL5SL476NU.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-874872698.jpg?resize=1200,800"
         width: 1200
-        height: 628
+        height: 800
         isCached: true
-  - title: "Google succeeds in bid to throw out medical records claim"
-    excerpt: "The software giant and its artificial intelligence arm DeepMind was facing legal action over the transfer of patient data by an NHS trust."
-    publishedDateTime: 2023-05-19T12:25:00Z
-    webUrl: "https://www.peeblesshirenews.com/news/national/23533966.google-succeeds-bid-throw-medical-records-claim/"
+  - title: "UK Plans Meeting on AI Risks With OpenAI, DeepMind Bosses"
+    excerpt: "The UK government has invited bosses from some of the world’s biggest artificial intelligence firms to a meeting, people familiar with the matter said, as Prime Minister Rishi Sunak crafts a policy to manage the risks and benefits of the technology."
+    publishedDateTime: 2023-05-18T14:31:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-18/uk-plans-meeting-on-ai-risks-with-openai-deepmind-bosses"
     type: article
     provider:
-      name: Peeblesshire News
-      domain: peeblesshirenews.com
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilIvhpd0_UuM/v1/1200x802.jpg"
+        width: 1200
+        height: 802
+        isCached: true
+  - title: "UK plans meeting on AI risks with OpenAI, DeepMind bosses"
+    excerpt: "The UK government has invited bosses from some of the world’s biggest artificial intelligence firms to a meeting, people familiar with the matter said, as Prime Minister Rishi Sunak crafts a ..."
+    publishedDateTime: 2023-05-19T03:40:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/uk-plans-meeting-on-ai-risks-with-openai-deepmind-bosses-10619981.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/uk-plans-meeting-on-ai-risks-with-openai-deepmind-bosses-10619981.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/uk-plans-meeting-on-ai-risks-with-openai-deepmind-bosses-10619981.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/RTSHI6VA.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Judge throws out DeepMind NHS data action"
+    excerpt: "Claim for misuse of private information for about 1.6 million patients fails the 'same interest' test for collective redress."
+    publishedDateTime: 2023-05-22T09:17:00Z
+    webUrl: "https://www.lawgazette.co.uk/law/judge-throws-out-deepmind-nhs-data-action/5116089.article"
+    type: article
+    provider:
+      name: lawgazette.co.uk
+      domain: lawgazette.co.uk
     quality: 39
     images:
-      - url: "https://www.peeblesshirenews.com/resources/images/16583143/?type=og-image"
-        width: 945
-        height: 630
+      - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/6/0/1/110601_istock1712809971_652647.jpg"
+        width: 1024
+        height: 536
         isCached: true
-  - title: "Googles succeeds in bid to throw out medical records claim"
-    excerpt: "The software giant and its artificial intelligence arm DeepMind was facing legal action over the transfer of patient data by an NHS trust."
-    publishedDateTime: 2023-05-19T11:44:00Z
-    webUrl: "https://www.peeblesshirenews.com/news/national/23533966.googles-succeeds-bid-throw-medical-records-claim/"
+  - title: "UK plans meeting on risks with bosses of OpenAI, DeepMind"
+    excerpt: "The summit will be convened as soon as this month, with invitations likely for OpenAI chief Sam Altman and the leaders of Alphabet Inc.'s DeepMind and Anthropic, the people said. Sunak could be among officials in attendance,"
+    publishedDateTime: 2023-05-18T18:51:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/international/business/uk-plans-meeting-on-risks-with-bosses-of-openai-deepmind/articleshow/100338441.cms"
     type: article
     provider:
-      name: Peeblesshire News
-      domain: peeblesshirenews.com
-    quality: 19
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 34
 
 secured: "/OjnXpbcNR50CqhM+Vt/mQzdSscFxAKYK1zW226xG+/McAkG/n5Wb90FGdmL0hZwMatfU7MGq1gLBwelniKtDfFXpg/6HesD9q2U1/9aLBxoR+wysPVy4MR8TYCg3BpBowhGDl6AcQg49gT4yXQic6vAXNGO+uU4OeOQY+OEVelswruqD3gbE63qrPzNCnMRLZ+gRP/8QL8wMdXPmg5i+CHS10JpDgzymW5azzotJViFUS40j/XQ8wZVzwtPxCO2SNZMUh26WA7EgVqyJWsYUKYTG+Z0/1OpdQhKfIwyJDUIQmofagDDt16VIiPXrMdLSI708Cp6hkTu4tpu5QtfqdN1LeuqrP1Sjt+XrXyNQvL7oYNZdmbE59zfJxc+ckEHI7X5zpLec+dIwlkOdqp1Plw8YJ5b8hLwa6NMEIkxqx/SzD5vZAcAy/eD8dOwcoBNl7sHlX4TQ3Uwsms8ACArzb/rlcrVeNDq1pKYdXmWJZBh7N3A05YfpqG8PzyJn8WayKbTuys0/+arMIW62zLxiw==;1EjuolQlQW/tqgL8kd7UjQ=="
 ---
