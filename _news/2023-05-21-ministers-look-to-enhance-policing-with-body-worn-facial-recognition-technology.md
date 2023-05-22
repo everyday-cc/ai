@@ -19,45 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "MG and Jio join hands to offer better voice-recognition technology"
-    excerpt: "The partnership will focus on the seamless integration of the Hinglish Voice Recognition-enabled experience in MG's newly launched Comet EV, with help from Jio's Digital Assets"
-    publishedDateTime: 2023-05-19T11:38:00Z
-    webUrl: "https://www.business-standard.com/companies/news/mg-and-jio-join-hands-to-offer-better-voice-recognition-technology-123051900783_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/companies/news/mg-and-jio-join-hands-to-offer-better-voice-recognition-technology-123051900783_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/mg-and-jio-join-hands-to-offer-better-voice-recognition-technology-123051900783_1.html"
+  - title: "Police criticised for using facial recognition technology at Beyoncé’s Cardiff show"
+    excerpt: "South Wales Police has come under fire for its use of controversial facial recognition technology during the Cardiff leg of Beyoncé’s world tour. In a statement to Mixmag, South Wales Police claims that it utilised the technology to identify \"people wanted for priority offences,"
+    publishedDateTime: 2023-05-19T11:33:00Z
+    webUrl: "https://mixmag.net/read/police-criticised-for-using-facial-recognition-at-beyonces-cardiff-show-news"
+    ampWebUrl: "https://mixmag.net/amp/police-criticised-for-using-facial-recognition-at-beyonces-cardiff-show"
+    cdnAmpWebUrl: "https://mixmag-net.cdn.ampproject.org/c/s/mixmag.net/amp/police-criticised-for-using-facial-recognition-at-beyonces-cardiff-show"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 44
+      name: Mixmag
+      domain: mixmag.net
+    quality: 53
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-11/01/full/1667265208-7957.jpg"
-        width: 620
-        height: 464
+      - url: "https://mixmag.net/assets/uploads/images/_full/Beyonce-Mason-Poole.png"
+        width: 1008
+        height: 672
         isCached: true
-  - title: "Police officers on patrol to deploy facial recognition technology"
-    excerpt: "Facial-recognition technology is to be used in body-worn cameras by officers on patrol as part of government plans to “embed” it in everyday policing.The poli"
-    publishedDateTime: 2023-05-17T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/police-officers-on-patrol-to-deploy-facial-recognition-technology-nkcgxh2f5"
+  - title: "Police scan thousands of Beyoncé fans in Cardiff with live face recognition cameras in move branded 'China-like surveillance' by campaigners"
+    excerpt: "Police scanned thousands of Beyoncé fans in Cardiff with live face recognition cameras as campaigners warn of a potential descent into 'China-like surveillance'. Fans flocked to the ..."
+    publishedDateTime: 2023-05-19T07:18:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12099811/Police-scan-Beyonc-fans-Cardiff-live-face-recognition-cameras-China-like-surveillance.html"
     type: article
     provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F69d79e6a-f4db-11ed-97af-27f55025e763.jpg?crop=3576%2C2012%2C376%2C656&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "MG Comet's voice commands to be powered by Reliance Jio"
-    excerpt: "MG Comet EV is using Jio's e-SIM to provide connected car technology. The manufacturer has also embedded a Jio voice assistant that has been specifically trained to understand Indian dialect. It can be activated using a wake word,"
-    publishedDateTime: 2023-05-19T11:54:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/mg-comets-voice-commands-to-be-powered-by-reliance-jio-41684495703315.html"
-    type: article
-    provider:
-      name: Auto News India
-      domain: hindustantimes.com
-    quality: 4
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
 
 secured: "ljyHJ7nUzvo0OwaUDZHKP4I5/YqLoBUKRjTa/kRvHm1QU8YdYFOXYfztxnST7dzqyaP6k9yHEd5uObVftmU7YKQ3fpeW8x9Ph9m4pW6XriZB7Qj79dMsK3nu7s+S+rSxXG0PihkmMK0wl2O3rar+b/1GajG6kd1fE0kSEOd8H7imc9LhJn+z2vOK6to/u5gNL+U7K7Sc5x9c9frfk+kqtwxEj4p16OhwOJ9vAe0rlq9Mz9HdA0DBTXvef16X6tjO4e5v7qhcXT/sCT8lIJh8i44yanSazrp6EPUVzwq5Tg5B8zPgvKE2nJ9nqN6QRE0w56YNhBlvzVZ3mcpqQz3jf+CWpW3QMQM2ZV6SjTfEzz4fWgE7Y0NqtxRIOzgX3l4+jN/KAQJj2LltddM71fDo+H23i7yrAmii8bnOzlunZhxIGkHpf4ecmtjRV807vimtIpO4dyn2Cyseg2LBs1tnC5/yZ9uFi9GibTDOFRH0Vc79Ggw2pPld2engGXnDJiCgWo09t2P+IcIILNB0jfK+/g==;4EZNbQUvArmRsBHqJFqvbg=="
 ---

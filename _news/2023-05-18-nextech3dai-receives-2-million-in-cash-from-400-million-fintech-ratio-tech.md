@@ -2,27 +2,21 @@
 category: news
 title: "Nextech3D.ai Receives $2 Million in Cash From $400 million FinTech Ratio Tech"
 excerpt: "With access to a $400 million credit facility, Ratio is able to fund Nextech3D.ai Accounts Receivables With ... initial $2,000,000 cash infusion from FinTech Ratio Tech representing zero-dilutive ..."
-publishedDateTime: 2023-05-18T12:17:00Z
-originalUrl: "https://tulsaworld.com/ap/state/nextech3d-ai-receives-2-million-in-cash-from-400-million-fintech-ratio-tech/article_3eefe327-531a-522e-b87b-da964e5c6b12.html"
-webUrl: "https://tulsaworld.com/ap/state/nextech3d-ai-receives-2-million-in-cash-from-400-million-fintech-ratio-tech/article_3eefe327-531a-522e-b87b-da964e5c6b12.html"
+publishedDateTime: 2023-05-18T11:58:00Z
+originalUrl: "https://www.morningstar.com/news/accesswire/755714msn/nextech3dai-receives-2-million-in-cash-from-400-million-fintech-ratio-tech"
+webUrl: "https://www.morningstar.com/news/accesswire/755714msn/nextech3dai-receives-2-million-in-cash-from-400-million-fintech-ratio-tech"
 type: article
-quality: 36
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: Morningstar
+  domain: morningstar.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/custom/image/aacc4e10-0064-11e7-adc2-d3321407a1f8.jpg?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Bahrain set to host top fintech summit"
@@ -94,6 +88,20 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Climate Fintech: The Key to Unlocking Wider Climate Tech Solutions"
+    excerpt: "Even with challenges such as a lack of standardised ESG reporting, limited access to quality climate risk data, and regulatory hurdles likely to slow down the adoption of new technologies, climate fintech has the potential to transform the entire climate tech sector and be an integral part of the solution to combat climate change."
+    publishedDateTime: 2023-05-19T14:45:00Z
+    webUrl: "https://financialit.net/blog/fintech/climate-fintech-key-unlocking-wider-climate-tech-solutions"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/lee_chin_jian_3417_copy.png"
+        width: 399
+        height: 432
+        isCached: true
   - title: "Data security issues Fintech firms are facing"
     excerpt: "The covid crisis represented a big concern in the fintech sector. First, more people are remotely managing their money with technology. Second, that’s led to new data security challenges. Hackers are"
     publishedDateTime: 2023-05-18T11:06:00Z
@@ -113,6 +121,6 @@ related:
       domain: proactiveinvestors.com
     quality: 13
 
-secured: "+G4Yk8x+ntqd5TfRKmwZbufKhr2DHi9eBq+0vaAuaKJdUByfkPsN2cAdpXSVr4nj/EyIslA8W/zFLzqY4faDIL/JQDAfAhnOldqfDHbQtw4F0M02pMOg+8s06wiWdf9D1YyExdH7iKYoDvwQHaFYWzJpx9y0CZ2Lr+WW9ovwPupGEZZ9ExktIb8v6khq1YiFSYJSCT8un79tIZFHCg+BIOC9dYgA6fQub/0ZuZrBGcpESlg0R0DUhmGCtcZ8TwPVVRkg6k1KnwRWIqN5TVtk8yt0S08pI1uCnVzZcWVO9s1VEz5j6hZYpKlmloesR7WA6f31lq/8Ui2pFEcQNsX5N4N4Rsu3X/rV114DfdjMBEI=;ABsXeYneTbXLP3ELnORsMg=="
+secured: "iyI66RXVXuiS4XYPPrJCOmTFo1Cpq1/v1QslXviAQmS67C2QTiLJGnRZeJOOiBm8AcxiZVN5KxC/SOt71rq20k/SpLlnupXeRB0cgXS/nCDGibWqaVYmm7zwG9K4z0sl0g4ZJIHHUmWbkT5q5tXsGESmT3zvKKRu4zOcRmRk0HgDa7z16kFiPU2QZCu6m/zx+uSHMXmTv3BvcC2WSh9SuAM5u3PDQoWpaJzm2J6LkSSgEVY0OPLX+ayRTLIvvJotylk7O4gQS0Q9/0VLtZZATACCZBh3S/HGb02lfR8Pq3NNUdwyvhi2zQAzczRyJVXcakGbYzvjQhslqUBOMX78OmkNiRrVRkJB52GK5tfblmk=;dV8QuZG6qTB9+q1u+td6IA=="
 ---
 

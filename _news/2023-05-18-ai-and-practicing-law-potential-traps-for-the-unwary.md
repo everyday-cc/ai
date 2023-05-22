@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Making sense of AI research in medicine, in one slide"
+    excerpt: "Research on artificial intelligence in health care runs the gamut of risky but rewarding to relatively useless. Here's what one expert makes of it."
+    publishedDateTime: 2023-05-22T08:30:00Z
+    webUrl: "https://www.statnews.com/2023/05/22/ai-artificial-intelligence-research-medicine-health/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 37
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2023/05/DSC046502-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "8NQhoBojYNheG07l3RJ6SQUryE0+lds9prDmUT1LrH6pGLx9czy8y1M/n6cD5A2vvkx/1ZVYv80uAWzdiGj4OLgxlpfKhkj4LW76MhA4OmGRukKx+RKGyzda4YzbIM2TRemYUVT8/agzZdgqB9MJoNLI5Z1HakfmdB95fe9/AyUnkApdttXQDZAe6powGEf2kTThkDoId6yngZUlF/f9vvKb/xEM96vlZB7jgQZnPfyFtEkam0BfDzbOikzj4SbvOUhdJV5wHrc6B2hpMKE5ClJNGP5wT+wjDuqyI5xE2i/CGWPercfOr2cS1xdQDjR+bdUh3CPrfG+RW/24AM53H/Ii7HDyX4xfAZtiGa45B/2mp1pPgKiN8JZEMHZ0NzfDm04INA22IlCuna03F65fXLE1u4ukzRo518srSD6ghw6+6UIQwzfhIghfVLCsJuoNWRtAQS7HG/0H4LNF/zAeJWTU0rk/lGChmcAVPzXNCx0VBcknoNeZovy2Lbo/UPBTrU4eWZfJsP7S3ZIiE11Iuw==;J6icllc3O//6I49eL+Z4YA=="
 ---

@@ -48,6 +48,15 @@ related:
         width: 1312
         height: 738
         isCached: true
+  - title: "Prepare training and validation dataset for facies classification using Snowflake integration and train using Amazon SageMaker Canvas"
+    excerpt: "This post is co-written with Thatcher Thornberry from bpx energy.&nbsp; Facies classification is the process of segmenting lithologic formations from geologic data at the wellbore location. During drilling, wireline logs are obtained, which have depth-dependent geologic information. Geologists are deployed"
+    publishedDateTime: 2023-05-17T18:57:32Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-training-and-validation-dataset-for-facies-classification-using-snowflake-integration-and-train-using-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 53
 
 secured: "jzCYc1cFwetbbwBYyaIjzq2gZyGE/IrSFyOwVzn2CqKf9yuIm20DI1b/n7Bz9m3R/DyOZkCDpZplmEQWNbip/bGF3Wofm6vjT7eU0udrK8xj223VGTPj7BotE4lXfkD6fZaUWO6WfC5Ij+QQnGs3voQ8BPrhwGzvw2nEcvSesRv5uqWI88FWVn3ct+lnKE8vW2BaEjIGRV3noW5NJLMefl9gcVBBpJ2KH7rchLOZnL9OJ5o0oxrN2wtKy2XtNlpstCxn5MU8Txw+WY1XDWdf7j1tgh5vFCuIxpiPZ8u3A3g3Ywtf26Wbir/yZdCppCzyl+V45Gbr4uGz1XEy0P0jwY8lmCYhIWs5uHoAxBpu47o=;GceygIJr/GMnDcg0ihCprA=="
 ---

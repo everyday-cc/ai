@@ -74,20 +74,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nextech3D.ai Receives $2 Million in Cash From $400 million FinTech Ratio Tech"
-    excerpt: "With access to a $400 million credit facility, Ratio is able to fund Nextech3D.ai Accounts Receivables With ... initial $2,000,000 cash infusion from FinTech Ratio Tech representing zero-dilutive ..."
-    publishedDateTime: 2023-05-18T12:17:00Z
-    webUrl: "https://tulsaworld.com/ap/state/nextech3d-ai-receives-2-million-in-cash-from-400-million-fintech-ratio-tech/article_3eefe327-531a-522e-b87b-da964e5c6b12.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 36
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/custom/image/aacc4e10-0064-11e7-adc2-d3321407a1f8.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Fintech Startup Techverve and Pepper Advantage in M&A News"
     excerpt: "Fintech Startup Techverve and Pepper Advantage in M&A News - Global credit intelligence company Pepper Advantage announced, the acquisition of artificial"
     publishedDateTime: 2023-05-18T03:23:00Z
@@ -102,6 +88,20 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Climate Fintech: The Key to Unlocking Wider Climate Tech Solutions"
+    excerpt: "Even with challenges such as a lack of standardised ESG reporting, limited access to quality climate risk data, and regulatory hurdles likely to slow down the adoption of new technologies, climate fintech has the potential to transform the entire climate tech sector and be an integral part of the solution to combat climate change."
+    publishedDateTime: 2023-05-19T14:45:00Z
+    webUrl: "https://financialit.net/blog/fintech/climate-fintech-key-unlocking-wider-climate-tech-solutions"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/lee_chin_jian_3417_copy.png"
+        width: 399
+        height: 432
+        isCached: true
   - title: "Data security issues Fintech firms are facing"
     excerpt: "The covid crisis represented a big concern in the fintech sector. First, more people are remotely managing their money with technology. Second, that’s led to new data security challenges. Hackers are"
     publishedDateTime: 2023-05-18T11:06:00Z
@@ -111,6 +111,15 @@ related:
       name: TechRound
       domain: techround.co.uk
     quality: 21
+  - title: "Nextech3D.ai Receives $2 Million in Cash From $400 million FinTech Ratio Tech"
+    excerpt: "With access to a $400 million credit facility, Ratio is able to fund Nextech3D.ai Accounts Receivables With ... initial $2,000,000 cash infusion from FinTech Ratio Tech representing zero-dilutive ..."
+    publishedDateTime: 2023-05-18T11:58:00Z
+    webUrl: "https://www.morningstar.com/news/accesswire/755714msn/nextech3dai-receives-2-million-in-cash-from-400-million-fintech-ratio-tech"
+    type: article
+    provider:
+      name: Morningstar
+      domain: morningstar.com
+    quality: 16
 
 secured: "FOFmIqIevxyRwYHOg7N6jfZ0BIxasR+9Suqd/8mjP9f5KQgZs/IkEWBsb6ZFhRzPn8TT5FwNCqI94LcUcWGqCK6yRDpZfmhcouCqMOE0mlCIMv7ZrpweNjjDpquteYQNoa9Nc8cyS4cmZjismJ4IUDxElYf7vGfHtJ8yGtQX9SZTQsU0/H+so0ahZMcoSLW2Vs58WosB8XZXp9tIBMqweO9n5IL5HhTxgotOMnMWYXg6Ksbefxzon4cw8W9F7vayfHsZpqGFcPqRFnEOtdwUCKXYhyP4nJl7rxUM6X4YWpGbPCbIunp+vypKeM21PNcMzdzg/LnL2Ie5sybGy/g5/GA+0atoYYwBYHvyQL2TJJQAJH3GIVowYHP7BttznrCRvzr/a3UGDnNrg2aECGkpyFty/6QAgEMguyIcUtErZQqUZOxQ+d3sR6hheaZOm4YDFq+pUCB+l9h1XA+fDnADxVMZ9sfhxBorfD6vzGVXAwtE0mfN5Ucat9+4L7ATnaVdgz1C9GqbzOyd/pGtXwNZ7Q==;vGEvBxMaSvmL7Dy3rlfFiQ=="
 ---

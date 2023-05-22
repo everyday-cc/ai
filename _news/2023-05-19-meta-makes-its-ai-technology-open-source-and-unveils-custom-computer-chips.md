@@ -137,6 +137,20 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 54
+  - title: "Meta starting to built its own AI chips"
+    excerpt: "Meta Training and Inference Accelerator can't play Crystalis yetMeta is building its first custom chip specifically for running AI models.  CEO Mark Zuckerberg recently said the company sees \"an opportunity to introduce AI agents to billions of people in ways that will be useful"
+    publishedDateTime: 2023-05-22T08:50:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/56933-meta-starting-to-built-its-own-ai-chips"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/01d655324d8449f7185ac6f82d5472e9_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Watch 44 million atoms simulated using AI and a supercomputer"
     excerpt: "The most accurate simulation of objects made from tens of millions of atoms has been run on one the world’s top supercomputers with the help of artificial intelligence. Existing simulations that describe in detail how atoms behave,"
     publishedDateTime: 2023-05-18T09:20:00Z

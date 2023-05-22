@@ -35,29 +35,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Police officers on patrol to deploy facial recognition technology"
-    excerpt: "Facial-recognition technology is to be used in body-worn cameras by officers on patrol as part of government plans to “embed” it in everyday policing.The poli"
-    publishedDateTime: 2023-05-17T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/police-officers-on-patrol-to-deploy-facial-recognition-technology-nkcgxh2f5"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F69d79e6a-f4db-11ed-97af-27f55025e763.jpg?crop=3576%2C2012%2C376%2C656&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Ministers look to enhance policing with body-worn facial recognition technology"
-    excerpt: "Ministers in Wales and England spark debate with plans for facial recognition technology in policing. How far will they go?"
-    publishedDateTime: 2023-05-21T13:12:00Z
-    webUrl: "https://interestingengineering.com/culture/ministers-look-to-enhance-policing-with-facial-recognition"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 15
 
 secured: "QdbHAEA4qeVjWPdoa36RaOIRLKMm+ebdQDSbGaXuVS93kR56Nn27C7JmnIkZiOOMF8iZMOhsUVZl78nwasTD/evenlwQJmO04d4a/6M1bYbvvsJlGyibHe4MEEny3DTq7dSFK77zZdoj6WyTAlnUReJDw1CPIvcPIdc9wGfJZ/dfF1ebRq2+vtTzth4ns4b3MaJSos2SBNxtI3KZQZk4XdFOgi5PAcT0+JwidQusK4ykKVdddo2tznZohZ8o7gBO5QrU9i+jH1ZPyWqVdTTDj5ztFWbcKEb/zviDxQ+EcMc1xWMmsvr0Gn0hMVfRafqav4bZpHKbkEoFiLXPCPQDkGG6EIkad0/NkE01BRiOp2Dha7q7ETE55VVfn+4Y54N2l5XVXyFTsNyAceEORvz7WMbDscuoTrKVkqzyqzIYHRY39Apnw5QxNgsItu3Jn5cyWdVjZoqZ8WfFfM0LFGi7DlZ1jS9pJVQc7Hz5ExFG5vFqwHEohgP5a33cni1WZI5nm9773Y/ZbDvPSM/ZDI2kjw==;0lZIq4bkyHBODPwcxljuCg=="
 ---

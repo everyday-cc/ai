@@ -26,22 +26,6 @@ images:
     height: 382
     isCached: true
 
-related:
-  - title: "Self-driving cars will cause ‘moral panic’ in the UK, minister predicts"
-    excerpt: "The UK will need to “weather a moral panic” when self-driving vehicles are legalised on public roads, a transport minister has warned.Jesse Norman told MPs that"
-    publishedDateTime: 2023-05-17T17:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/self-driving-cars-will-cause-moral-panic-in-the-uk-minister-predicts-dqkbckvg6"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F4c9e1dcc-f4c9-11ed-97af-27f55025e763.jpg?crop=4000%2C2250%2C0%2C0&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "dmPoMSh7PgIgnlUcCNevBG0Mxk33oU330Vyp7O0l/yxrHA2RaDLytI5MxZ1f+gCTwNCykCnaFtEIn2v4Uigr6sSjHrKWuIyzhDJENux24wKI7/VZ4a1JmheyuiCvLQ0oo/4c9Q3Q33UarRoXFYlnYdadzhNgT2RYV6e9x3ocBnUI7dIbCFBJdWBT3KajjBISsUgzM1cDkEQr4V4db6LWhiJWB5so5TBrR0CdJjDjzn9iTthIKhqTGv3wVw4QkxmHZtH2oGpiJJKd8SFjbT94Q75hBIv8UxcVOHGv2nyVS8eq7F41qfdCA2XirzLdVm3VPSf2libRoRYVyO57V/3M6zbiVgRPpOdoBtt0QfTRC7M=;hgPsNF2Jnrux45wLGsXaKA=="
 ---
 

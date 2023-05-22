@@ -36,6 +36,20 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 24
+  - title: "Dutton condemns Voice as symptom of ‘identity politics’, as Burney says it will bring ‘better outcomes’"
+    excerpt: "Opposition leader Peter Dutton has condemned the plan to enshrine a constitutional Voice to Parliament as “a symptom of the madness of identity politics which has infected the 21st century”."
+    publishedDateTime: 2023-05-22T08:20:00Z
+    webUrl: "https://theconversation.com/dutton-condemns-voice-as-symptom-of-identity-politics-as-burney-says-it-will-bring-better-outcomes-206089"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 8
+    images:
+      - url: "https://images.theconversation.com/files/527487/original/file-20230522-29-dyd1bg.jpg?ixlib=rb-1.1.0&rect=135%2C0%2C8107%2C4053&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
 
 secured: "y0ExQtM5g5tIGrW3u6lFplKD54Lo8o8kWwk+WkTK5I2FiMpdj2uum9dp4bCcBsTil76n0k5P0MMwBKvO26zfyvXzJwVyMPJwXmTcz+LTdvYxHHunelzZOo+E1JQs0EZM7m2U1mq/+aaqB9gwxcF1p6XQ1ZdkgFY5jCANJOXd//i0hXgxZ0HE8FnAugKZbKOJlRZ9wHs54fg6p9DFXWSuqFhIKB8BeSd6emHkBqiSVlKaZWTQUBAC8rpv8JYUOnrrgcmFK1w2StBk6p3e18rB8YNwk2ZjAZ1RCIR4uTZDtp7YzgsUhEKYJSJ/MxBnaSJdze/Gmnr8V5BghVmHy1vxxDSZvJAOJs9vcefWEqts81jc/pKF+eWiRwZoOAGcI+5sPm5+gSdtoNLxlD1JB8GCUiPakRLxsUqafQts1LE3DyTqJmf1T2zN4mkk8ZA8PJIkw7afV7/IO/2n5OAGklzUNzgAtcXBHXLuKiYv2qnlw0mPuOJ1qmbnKYaXDpemYde/GzPsNH0tIYOiDHuCuVNLDA==;fRQrmL8iwBkUdR83uI5BYw=="
 ---

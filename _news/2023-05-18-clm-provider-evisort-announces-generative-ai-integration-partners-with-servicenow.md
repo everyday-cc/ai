@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "ServiceNow partners with Nvidia to develop ‘super-specialized’ generative AI for enterprises"
-    excerpt: "Workflow automation vendor ServiceNow today partnered with Nvidia to build custom generative AI models for enterprise IT workflows."
-    publishedDateTime: 2023-05-17T17:00:00Z
-    webUrl: "https://venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/"
-    ampWebUrl: "https://venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 76
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/enterprise-e1627412579683.jpg?w=1200&strip=all"
-        width: 1200
-        height: 599
-        isCached: true
   - title: "Knowledge 2023 - ServiceNow looks beyond general purpose generative AI to domain-specific use cases"
     excerpt: "ServiceNow has this week revealed how it is planning to capitalize on the recent rapid advancements seen in the field of generative AI, using large language models (LLMs) - showcasing some of the potential use cases live on stage during its second Knowledge 2023 keynote in Las Vegas this week."
     publishedDateTime: 2023-05-18T00:32:00Z
@@ -57,6 +41,15 @@ related:
         width: 8256
         height: 5504
         isCached: true
+  - title: "Stop Serving Dogfood, Invest In Generative Artificial Intelligence With Purpose"
+    excerpt: "Don't fall prey to the trends, make sure your generative artificial intelligence investments are meaningful to your customers before launching dogfood to your users."
+    publishedDateTime: 2023-05-18T13:29:00Z
+    webUrl: "https://www.forbes.com/sites/joetoscano1/2023/05/18/stop-serving-dogfood-invest-in-generative-artificial-intelligence-with-purpose/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 43
 
 secured: "VO6Eu10WZrx5x0Ylvhs6hytsWxS9tgrZceTJE8M3PHD7qpZim3K3nrP9x6RfkUXfUfWKt8aopgxqSqwSinHDXxrMRA+oYQo+2NwQJKQKYTYA6TSWaXB/afrWCJOnI/7ZtZ3zq9TtH8qicjB6qKdphV4+AyesL0NgzVKWqypWM1VIhJxFR9k4/7GG+LnC2zCcRE9IwMJQ1sQg2R+wCzecXr5WwoULWvlJpE9IN1OtQbDprmyVQG2NRzzOwfmTCk1WpuVap06M/RtJ7tFVj3bdBYdOGF0AHQrdJK1JaKegi8l0Qcaf3bV39/TiAeSWhPUgJPKF6ZG7Hij5g4HCCGdqjYwcdNWJIfYLgNHkABVrlBAd4HFdLgh/qRNtAG500kWiaajLUwLqNf2RdGiWgufnZnNbS5/MlrnK1m6xkJnDgE4yNQ3bkPRFzv7hbI57Kagz5D4v+xSo+5XKQxtKvbuEyN1gxnEz3Fk3+3Brcjx7FnXhAUuAeHIu8hsDztI5gX4GJNW4AOGcaAe/mIlGDJILeA==;gX06Wfd42DQ3Fm2pzaRTmA=="
 ---

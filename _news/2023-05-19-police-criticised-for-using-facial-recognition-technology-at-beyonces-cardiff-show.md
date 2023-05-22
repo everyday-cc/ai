@@ -9,8 +9,8 @@ ampWebUrl: "https://mixmag.net/amp/police-criticised-for-using-facial-recognitio
 cdnAmpWebUrl: "https://mixmag-net.cdn.ampproject.org/c/s/mixmag.net/amp/police-criticised-for-using-facial-recognition-at-beyonces-cardiff-show"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: Mixmag
@@ -27,22 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Cardiff Beyoncé concert: Face recognition use criticised"
-    excerpt: "Thousands of fans attending the Beyoncé concert in Cardiff could be scanned by live face recognition cameras deployed in the area by South Wales Police. The cameras will help identify people wanted for \"priority offences\". Police also used the cameras at the Coronation, but the technology has been criticised by human rights campaigners."
-    publishedDateTime: 2023-05-17T16:28:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-wales-65622404.amp"
-    ampWebUrl: "https://www.bbc.co.uk/news/uk-wales-65622404.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-wales-65622404.amp"
+  - title: "Ministers look to enhance policing with body-worn facial recognition technology"
+    excerpt: "Ministers in Wales and England spark debate with plans for facial recognition technology in policing. How far will they go?"
+    publishedDateTime: 2023-05-21T13:12:00Z
+    webUrl: "https://interestingengineering.com/culture/ministers-look-to-enhance-policing-with-facial-recognition"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9AC0/production/_129761693_microsoftteams-image.png"
-        width: 1024
-        height: 576
-        isCached: true
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 15
   - title: "Police scan thousands of Beyoncé fans in Cardiff with live face recognition cameras in move branded 'China-like surveillance' by campaigners"
     excerpt: "Police scanned thousands of Beyoncé fans in Cardiff with live face recognition cameras as campaigners warn of a potential descent into 'China-like surveillance'. Fans flocked to the ..."
     publishedDateTime: 2023-05-19T07:18:00Z

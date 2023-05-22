@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-20-are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security.md",
+      "title": "Are you who you say you are? TSA tests facial recognition technology to boost airport security",
+      "excerpt": "BALTIMORE—A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through—all without having to hand over their identification to the TSA officer sitting behind the screen.",
+      "sourceUrl": null,
+      "webUrl": "https://businessmirror.com.ph/2023/05/21/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/",
+      "originalUrl": "https://businessmirror.com.ph/2023/05/21/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://businessmirror.com.ph/wp-content/uploads/2023/05/world01-052123.jpg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-20T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BusinessMirror",
+        "domain": "businessmirror.com.ph",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-05-19-multan-airport-4th-in-country-to-get-facial-recognition-system.md",
       "title": "Multan airport 4th in country to get Facial Recognition System",
       "excerpt": "The Multan International Airport has become the fourth in the country to have a functional Facial Recognition System, a Pakistan Civil Aviation Authority spokesperson confirmed Friday. The",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.thenews.com.pk/latest/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -43,6 +87,49 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-police-criticised-for-using-facial-recognition-technology-at-beyonces-cardiff-show.md",
+      "title": "Police criticised for using facial recognition technology at Beyoncé’s Cardiff show",
+      "excerpt": "South Wales Police has come under fire for its use of controversial facial recognition technology during the Cardiff leg of Beyoncé’s world tour. In a statement to Mixmag, South Wales Police claims that it utilised the technology to identify \"people wanted for priority offences,",
+      "sourceUrl": null,
+      "webUrl": "https://mixmag.net/read/police-criticised-for-using-facial-recognition-at-beyonces-cardiff-show-news",
+      "originalUrl": "https://mixmag.net/read/police-criticised-for-using-facial-recognition-at-beyonces-cardiff-show-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mixmag.net/assets/uploads/images/_full/Beyonce-Mason-Poole.png",
+          "width": 1008,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mixmag.net/amp/police-criticised-for-using-facial-recognition-at-beyonces-cardiff-show",
+      "cdnAmpWebUrl": "https://mixmag-net.cdn.ampproject.org/c/s/mixmag.net/amp/police-criticised-for-using-facial-recognition-at-beyonces-cardiff-show",
+      "publishedDateTime": "2023-05-19T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mixmag",
+        "domain": "mixmag.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1316,101 +1403,6 @@
         "name": "Outlookindia",
         "domain": "outlookindia.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-specific-training-can-help-computer-vision-models-learn-like-humans-study.md",
-      "title": "Specific training can help computer vision models learn like humans: Study",
-      "excerpt": "MIT researchers have discovered that a specific training method can help computer vision models learn more perceptually straight representations, like humans do. Training involves showing a machine-learning model millions of examples so it can learn a task.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study",
-      "originalUrl": "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/10_05_2023_00_57_45_5641496.jpg?width=1280",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2445976-specific-training-can-help-computer-vision-models-learn-like-humans-study?amp",
-      "publishedDateTime": "2023-05-09T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-2030-ai-in-computer-vision-market-growth-future-prospects-and-competitive-analysis.md",
-      "title": "2030, AI in Computer Vision Market Growth | Future Prospects and Competitive Analysis",
-      "excerpt": "The \"AI in Computer Vision Market\" is one of the sectors that is expanding the fastest, thus it is crucial for players",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2030-ai-in-computer-vision-market-growth-future-prospects-and-competitive-analysis-2023-05-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/2030-ai-in-computer-vision-market-growth-future-prospects-and-competitive-analysis-2023-05-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

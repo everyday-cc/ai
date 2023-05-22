@@ -149,6 +149,22 @@ related:
         width: 2500
         height: 1313
         isCached: true
+  - title: "PaLM2 by Google for generative AI is new tool from creativity and innovation"
+    excerpt: "PaLM2 is a new large language model (LLM) from Google AI. It is trained on a massive dataset of text and code, and can generate text, translate languages, write different kinds of creative content,"
+    publishedDateTime: 2023-05-22T09:39:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 56
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2017/01/Untitled-6.jpg"
+        width: 414
+        height: 364
+        isCached: true
   - title: "Rebooting Tech Talent In The Race For AI"
     excerpt: "Developers using AI tools like CodeGPT, Bugasura, GitHub, Repli - while designers use PiggyAI, Galileo, Viesus to upskill and be a growth accelerator in their next gig."
     publishedDateTime: 2023-05-18T18:28:00Z

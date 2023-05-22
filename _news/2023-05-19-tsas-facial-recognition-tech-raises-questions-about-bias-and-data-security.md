@@ -20,22 +20,6 @@ topics:
   - AI in Security
 
 related:
-  - title: "Las Vegas airport testing facial recognition to screen passengers"
-    excerpt: "The TSA says the security program is voluntary and accurate, but critics have raised concerns about bias in facial recognition technology."
-    publishedDateTime: 2023-05-17T16:14:00Z
-    webUrl: "https://www.reviewjournal.com/business/las-vegas-airport-testing-facial-recognition-to-screen-passengers-2777726/"
-    ampWebUrl: "https://www.reviewjournal.com/business/las-vegas-airport-testing-facial-recognition-to-screen-passengers-2777726/amp/"
-    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/las-vegas-airport-testing-facial-recognition-to-screen-passengers-2777726/amp/"
-    type: article
-    provider:
-      name: Las Vegas Review-Journal
-      domain: reviewjournal.com
-    quality: 74
-    images:
-      - url: "https://www.reviewjournal.com/wp-content/uploads/2023/05/17778613_web1_AP23116691165190.jpg?w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
     excerpt: "BALTIMORE—A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through—all without having to hand over their identification to the TSA officer sitting behind the screen."
     publishedDateTime: 2023-05-20T16:12:00Z
@@ -52,12 +36,12 @@ related:
         isCached: true
   - title: "TSA tries out facial recognition technology at 16 U.S. airports"
     excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through -- all without having to hand over their identification to the TSA officer sitting behind the screen."
-    publishedDateTime: 2023-05-21T07:41:00Z
-    webUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+    publishedDateTime: 2023-05-21T07:46:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
     type: article
     provider:
-      name: Northwest Arkansas Democrat Gazette
-      domain: nwaonline.com
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
     quality: 54
     images:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204387909_1G2facial0521_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
@@ -77,6 +61,34 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/b8/3b86fda3-16e1-56fb-944d-a3b12481b1fb/646b155acd51a.image.jpg?crop=887%2C466%2C0%2C63&resize=887%2C466&order=crop%2Cresize"
         width: 887
         height: 466
+        isCached: true
+  - title: "Police Facial Recognition Technology Can’t Tell Black People Apart"
+    excerpt: "This happened three years ago to Robert Williams, a Black father in suburban Detroit. Sadly Williams’ story is not a one-off. In a recent case of mistaken identity, facial recognition technology led to the wrongful arrest of a Black Georgian for purse thefts in Louisiana."
+    publishedDateTime: 2023-05-18T14:38:00Z
+    webUrl: "https://www.scientificamerican.com/article/police-facial-recognition-technology-cant-tell-black-people-apart/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 39
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/3A8C75EC-F138-434F-A822F5103920B5AB.jpg"
+        width: 790
+        height: 497
+        isCached: true
+  - title: "Police officers on patrol to deploy facial recognition technology"
+    excerpt: "Facial-recognition technology is to be used in body-worn cameras by officers on patrol as part of government plans to “embed” it in everyday policing.The poli"
+    publishedDateTime: 2023-05-17T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/police-officers-on-patrol-to-deploy-facial-recognition-technology-nkcgxh2f5"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F69d79e6a-f4db-11ed-97af-27f55025e763.jpg?crop=3576%2C2012%2C376%2C656&resize=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "8xPunaiKPovStu+e0A04+SW1kaDLMcDcn06d8A6UWjsK92LVncuDUdKApH4A1VkrT1uATij+X2xq9Eq2icefhCs/kB5BQNGsPcTQFkRwF3+CfVgLJC18MgJAeQEEod8vgGhutEKA9iM+cdeDtRO2JQZKNBraclj/+nCe+Vx8hekxcXQByID3K951mybtmthjnB2EjtiVfgWqPzjvAS+dTp84ZE22gbVcnPua5EgNG+o6WJxDED6hsiNH9HQEsZyFqTn+Ly/4vF1n3USEMovl9pTw5m9IwPGUx7btAn1MEVcEApJIGBjInBtqkC6LhMAr/xWiEU2gy+620gfMvejHwlKH+6XTv9lODroQPArUzc9l23J8vCnJmzI/hNN4DRBb2c0YwNmCu1TtZiO7R6V//+1ejNuwp1Bi1dA4LUJc1fPFwmkI4eyvMxIaQYN3Q0ofheTAwQc1y51brAkCvcMqMfKTTU1TOqCrxdpmeAfVrMfXSLPtHyfUHo5b2dZwhysO5EUqa3cGgUMQSoNHP1AdoA==;Egz1pmOVjCa+pFbHpIZWcQ=="

@@ -116,20 +116,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "How ChatGPT and artificial Intelligence are impacting education"
-    excerpt: "From finance to health care to policing, artificial intelligence is becoming more commonplace by the day. It’s also becoming harder to avoid in our schools. ChatGPT is a chatbot that generates startlingly human-like text in response to brief prompts."
-    publishedDateTime: 2023-05-17T15:30:00Z
-    webUrl: "https://www.wfae.org/show/charlotte-talks-with-mike-collins/2023-05-17/how-chatgpt-and-artificial-intelligence-are-impacting-education"
-    type: article
-    provider:
-      name: WFAE
-      domain: wfae.org
-    quality: 56
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/f084be8/2147483647/strip/true/crop/5321x2794+0+598/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F01%2F25%2Fgettyimages-488893054-9cacac05ea39cc2170c1f9af7703fe3338985f17.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Korean AI chip startups face losses in 2022 despite ChatGPT momentum"
     excerpt: "Although the artificial intelligence (AI) market, including chatbot technologies like ChatGPT, is gradually expanding and expected to drive growth in the IC design industry, South Korean AI chip startups faced significant losses in 2022."
     publishedDateTime: 2023-05-19T06:54:00Z
@@ -219,20 +205,6 @@ related:
       - url: "https://www.kxan.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
         width: 396
         height: 202
-        isCached: true
-  - title: "ChatGPT’s chief calls for new federal agency to regulate AI"
-    excerpt: "And while there’s no immediate sign that Congress will craft sweeping new AI rules, as European lawmakers are doing, the societal concerns brought Altman and other tech CEOs to"
-    publishedDateTime: 2023-05-17T15:30:00Z
-    webUrl: "https://www.airforcetimes.com/federal-oversight/congress/2023/05/16/chatgpts-chief-calls-for-new-federal-agency-to-regulate-ai/"
-    type: article
-    provider:
-      name: Air Force Times
-      domain: airforcetimes.com
-    quality: 37
-    images:
-      - url: "https://www.airforcetimes.com/resizer/mXwHQ7VIhta78WsJT7efTcguf28=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/WBTSLREOY5ER7KEUW5BJIK46PY.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Apple Bans Employees From Using ChatGPT Amid Its Own AI Efforts"
     excerpt: "Apple has restricted employee use of ChatGPT and other external artificial intelligence utilities amid the development of its own similar"

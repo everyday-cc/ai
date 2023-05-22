@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Wendy's next tech test is an underground robot delivery system"
-    excerpt: "Wendy's Co. is testing new technology not just for taking orders, but also for delivering them. The Dublin-based restaurant chain Wednesday announced a partnership with Austin-based Pipedream, which will install an underground autonomous robot system to deliver food to customers in the parking lot of a Wendy’s restaurant."
-    publishedDateTime: 2023-05-17T15:48:00Z
-    webUrl: "https://www.bizjournals.com/columbus/news/2023/05/17/wendys-next-tech-test-is-an-underground-robot-del.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
   - title: "Wendy's to test underground robot delivery for mobile orders"
     excerpt: "Instead of requiring employees to bring out mobile food orders, the robotic system is designed to transport the orders underground \"in seconds,\" the fast food chain said."
     publishedDateTime: 2023-05-18T12:28:00Z

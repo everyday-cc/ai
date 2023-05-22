@@ -25,40 +25,71 @@ images:
     isCached: true
 
 related:
-  - title: "MG and Jio join hands to offer better voice-recognition technology"
-    excerpt: "The partnership will focus on the seamless integration of the Hinglish Voice Recognition-enabled experience in MG's newly launched Comet EV, with help from Jio's Digital Assets"
-    publishedDateTime: 2023-05-19T11:38:00Z
-    webUrl: "https://www.business-standard.com/companies/news/mg-and-jio-join-hands-to-offer-better-voice-recognition-technology-123051900783_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/companies/news/mg-and-jio-join-hands-to-offer-better-voice-recognition-technology-123051900783_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/mg-and-jio-join-hands-to-offer-better-voice-recognition-technology-123051900783_1.html"
+  - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
+    excerpt: "BALTIMORE—A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through—all without having to hand over their identification to the TSA officer sitting behind the screen."
+    publishedDateTime: 2023-05-20T16:12:00Z
+    webUrl: "https://businessmirror.com.ph/2023/05/21/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 44
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 59
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-11/01/full/1667265208-7957.jpg"
-        width: 620
-        height: 464
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2023/05/world01-052123.jpg"
+        width: 720
+        height: 480
         isCached: true
-  - title: "Ministers look to enhance policing with body-worn facial recognition technology"
-    excerpt: "Ministers in Wales and England spark debate with plans for facial recognition technology in policing. How far will they go?"
-    publishedDateTime: 2023-05-21T13:12:00Z
-    webUrl: "https://interestingengineering.com/culture/ministers-look-to-enhance-policing-with-facial-recognition"
+  - title: "TSA tries out facial recognition technology at 16 U.S. airports"
+    excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through -- all without having to hand over their identification to the TSA officer sitting behind the screen."
+    publishedDateTime: 2023-05-21T07:46:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 15
-  - title: "MG Comet's voice commands to be powered by Reliance Jio"
-    excerpt: "MG Comet EV is using Jio's e-SIM to provide connected car technology. The manufacturer has also embedded a Jio voice assistant that has been specifically trained to understand Indian dialect. It can be activated using a wake word,"
-    publishedDateTime: 2023-05-19T11:54:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/mg-comets-voice-commands-to-be-powered-by-reliance-jio-41684495703315.html"
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 54
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204387909_1G2facial0521_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "TSA tests facial recognition at more airports, raising concerns on privacy"
+    excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"
+    publishedDateTime: 2023-05-22T07:10:00Z
+    webUrl: "https://www.stltoday.com/tsa-tests-facial-recognition-at-more-airports-raising-concerns-on-privacy/article_105201df-9846-5ebb-b88a-64277b9fc900.html"
     type: article
     provider:
-      name: Auto News India
-      domain: hindustantimes.com
-    quality: 4
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 52
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/b8/3b86fda3-16e1-56fb-944d-a3b12481b1fb/646b155acd51a.image.jpg?crop=887%2C466%2C0%2C63&resize=887%2C466&order=crop%2Cresize"
+        width: 887
+        height: 466
+        isCached: true
+  - title: "TSA's Facial Recognition Tech Raises Questions About Bias and Data Security"
+    excerpt: "Analysts and lawmakers are concerned about a new TSA program that instructs passengers to insert their IDs into a machine and takes a pictures of them."
+    publishedDateTime: 2023-05-18T19:34:00Z
+    webUrl: "https://reason.com/2023/05/18/tsas-facial-recognition-tech-raises-questions-about-bias-and-data-security/"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 49
+  - title: "Police Facial Recognition Technology Can’t Tell Black People Apart"
+    excerpt: "This happened three years ago to Robert Williams, a Black father in suburban Detroit. Sadly Williams’ story is not a one-off. In a recent case of mistaken identity, facial recognition technology led to the wrongful arrest of a Black Georgian for purse thefts in Louisiana."
+    publishedDateTime: 2023-05-18T14:38:00Z
+    webUrl: "https://www.scientificamerican.com/article/police-facial-recognition-technology-cant-tell-black-people-apart/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 39
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/3A8C75EC-F138-434F-A822F5103920B5AB.jpg"
+        width: 790
+        height: 497
+        isCached: true
 
 secured: "+Z2bhJwE0+P1agpwodoOvH8/AjC+VwEiMIFWvsZ2cTDOXebQkV70DyZ1PH00YtWAOjlHqdohw2reXx2ZXZRlk97AzJo/e9uIIb/TmEkmwJK6rYaMQvDOr6Q7YriCcWPlxSH3ChXA3JzZa7xxr13WGpZu+Y0+FL3NOH9VZjko2NApx9QFY34dganvfDHnuj4QXv3d3HHBGtamXH9cHSbgZW9PhtP3mf5JY+HdRO7S7rryZnaFYhbVeNTW2PHEQvK/vkh0KCEBzb7WhIpTCpl5lW0fKLIorE+Yvpu95MG5Me2378YStpirb0IhnMLA5F09/ua952XYyA5WaNB6Q3E8zH8Zz1jefmdcravkiWn1z2g=;7oFq5D3AeG6EaQZ3rMB4iA=="
 ---

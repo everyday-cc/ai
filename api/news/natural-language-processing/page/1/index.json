@@ -115,7 +115,7 @@
       "originalUrl": "https://www.thenews.com.pk/latest/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -497,6 +497,58 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-webex-meetings-will-use-ai-tools-to-help-speech-impaired-users-communicate.md",
+      "title": "Webex meetings will use AI tools to help speech-impaired users communicate",
+      "excerpt": "Speech recognition company Voiceitt has announced it's integrating its technology into Webex Meetings. Building on Webex's existing live translations, Voiceitt's AI establishes and transcribes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/webex-meetings-will-use-ai-tools-to-help-speech-impaired-users-communicate-120047102.html",
+      "originalUrl": "https://www.engadget.com/webex-meetings-will-use-ai-tools-to-help-speech-impaired-users-communicate-120047102.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/jHsrxabp8l3n7x78cT7SjA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/61b5a7c0-ef15-11ed-bfff-f6659136f7be.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1427,58 +1479,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-2023-mobile-speech-recognition-software-dynamic-report-by-2030.md",
-      "title": "2023 Mobile Speech Recognition Software | Dynamic Report By 2030",
-      "excerpt": "Mobile Speech Recognition Software Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-mobile-speech-recognition-software-dynamic-report-by-2030-2023-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-mobile-speech-recognition-software-dynamic-report-by-2030-2023-05-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

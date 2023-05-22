@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-05-18/uk-plans-meetin
 webUrl: "https://www.bloomberg.com/news/articles/2023-05-18/uk-plans-meeting-on-ai-risks-with-openai-deepmind-bosses"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii3LxhBwSQSk/v1/1200x639.jpg"
         width: 1200
         height: 639
+        isCached: true
+  - title: "Judge throws out DeepMind NHS data action"
+    excerpt: "Claim for misuse of private information for about 1.6 million patients fails the 'same interest' test for collective redress."
+    publishedDateTime: 2023-05-22T09:17:00Z
+    webUrl: "https://www.lawgazette.co.uk/law/judge-throws-out-deepmind-nhs-data-action/5116089.article"
+    type: article
+    provider:
+      name: lawgazette.co.uk
+      domain: lawgazette.co.uk
+    quality: 39
+    images:
+      - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/6/0/1/110601_istock1712809971_652647.jpg"
+        width: 1024
+        height: 536
         isCached: true
   - title: "UK plans meeting on risks with bosses of OpenAI, DeepMind"
     excerpt: "The summit will be convened as soon as this month, with invitations likely for OpenAI chief Sam Altman and the leaders of Alphabet Inc.'s DeepMind and Anthropic, the people said. Sunak could be among officials in attendance,"

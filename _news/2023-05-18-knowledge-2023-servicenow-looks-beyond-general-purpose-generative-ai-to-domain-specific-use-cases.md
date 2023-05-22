@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/knowledge-2023-servicenow-looks-beyond-genera
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/knowledge-2023-servicenow-looks-beyond-general-purpose-generative-ai-domain-specific-use-cases?amp"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -27,22 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "ServiceNow partners with Nvidia to develop ‘super-specialized’ generative AI for enterprises"
-    excerpt: "Workflow automation vendor ServiceNow today partnered with Nvidia to build custom generative AI models for enterprise IT workflows."
-    publishedDateTime: 2023-05-17T17:00:00Z
-    webUrl: "https://venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/"
-    ampWebUrl: "https://venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/servicenow-partners-with-nvidia-to-develop-super-specialized-generative-ai-for-enterprises/amp/"
+  - title: "Stop Serving Dogfood, Invest In Generative Artificial Intelligence With Purpose"
+    excerpt: "Don't fall prey to the trends, make sure your generative artificial intelligence investments are meaningful to your customers before launching dogfood to your users."
+    publishedDateTime: 2023-05-18T13:29:00Z
+    webUrl: "https://www.forbes.com/sites/joetoscano1/2023/05/18/stop-serving-dogfood-invest-in-generative-artificial-intelligence-with-purpose/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 76
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/enterprise-e1627412579683.jpg?w=1200&strip=all"
-        width: 1200
-        height: 599
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 43
   - title: "CLM Provider Evisort Announces Generative AI Integration, Partners With ServiceNow"
     excerpt: "After joining the lineup of CLM companies leveraging generative AI solutions, Evisort also announced that it would be partnering with ServiceNow to offer its contracting capabilities to the organization's customer base."
     publishedDateTime: 2023-05-17T21:07:00Z

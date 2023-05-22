@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-an-image
 webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-an-image-to-speech-generative-ai-application-using-amazon-sagemaker-and-hugging-face/"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
         width: 1312
         height: 738
         isCached: true
+  - title: "Prepare training and validation dataset for facies classification using Snowflake integration and train using Amazon SageMaker Canvas"
+    excerpt: "This post is co-written with Thatcher Thornberry from bpx energy.&nbsp; Facies classification is the process of segmenting lithologic formations from geologic data at the wellbore location. During drilling, wireline logs are obtained, which have depth-dependent geologic information. Geologists are deployed"
+    publishedDateTime: 2023-05-17T18:57:32Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-training-and-validation-dataset-for-facies-classification-using-snowflake-integration-and-train-using-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 53
   - title: "Build a serverless meeting summarization backend with large language models on Amazon SageMaker JumpStart"
     excerpt: "AWS delivers services that meet customers’ artificial intelligence (AI) and machine learning (ML) needs with services ranging from custom hardware like AWS Trainium and AWS Inferentia to generative AI foundation models (FMs) on Amazon Bedrock. In February 2022, AWS and Hugging Face announced a collaboration"
     publishedDateTime: 2023-05-17T19:04:06Z

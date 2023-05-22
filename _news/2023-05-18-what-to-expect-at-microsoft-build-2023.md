@@ -99,20 +99,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "SAP, Microsoft Collaborate on Joint Generative AI Offerings to Address Talent Gap"
-    excerpt: "SAP SE and Microsoft announced their use of the latest in enterprise-ready generative AI innovation to help solve customers’ most fundamental business challenges. The companies will collaborate on integrating SAP SuccessFactors solutions with Microsoft 365 Copilot and Copilot in Viva Learning,"
-    publishedDateTime: 2023-05-17T15:30:00Z
-    webUrl: "https://www.manufacturing.net/iot/news/22862143/sap-microsoft-collaborate-on-joint-generative-ai-offerings-to-address-talent-gap"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 51
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/05/SAP_Employees_2022_001__1_.6464f29dcc5be.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C174%2C1920%2C1080&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Twitter accuses Microsoft of misusing its data, foreshadowing a possible fight over AI"
     excerpt: "A lawyer for Twitter owner Elon Musk accused Microsoft of misusing the service’s data and demanded an audit from the software giant."
     publishedDateTime: 2023-05-19T01:45:00Z

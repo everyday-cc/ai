@@ -140,6 +140,22 @@ related:
         width: 2500
         height: 1313
         isCached: true
+  - title: "PaLM2 by Google for generative AI is new tool from creativity and innovation"
+    excerpt: "PaLM2 is a new large language model (LLM) from Google AI. It is trained on a massive dataset of text and code, and can generate text, translate languages, write different kinds of creative content,"
+    publishedDateTime: 2023-05-22T09:39:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 56
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2017/01/Untitled-6.jpg"
+        width: 414
+        height: 364
+        isCached: true
   - title: "Generative AI For Business Leaders 101"
     excerpt: "AI stands for \"artificial intelligence,\" which is the simulation of human intelligence in machines to perform tasks that typically require human intelligence, such as decision making, perception and language translation. AI is powered by various techniques ..."
     publishedDateTime: 2023-05-19T14:05:00Z
@@ -191,6 +207,6 @@ related:
       domain: fastcompany.com
     quality: 17
 
-secured: "h8pb1kl1RBQu5vXymatGhNKrHazc7xCy55dM49WRGMBPgrj0nvYJPmTgpG0vhs7En9XOjsWEgTWkH4C9PSE+0K1tbFoB0ij1/Wysv/ee4V+EjsUnWcNfAghNUZDIyLib6S7KGDsJlyrfkJlzgoBOz7iUGdBpRzfzMrK7IbzEfI8SNL+8reE7ybyQFpBmECyt4ktNCZLNwRClpb5hbJoQ8ep/ThCyszVhvmzKUizmXrpzcNwXH87HYG/yMXCYGkL/rix73VEEZoGacSEqhab9+CfbTft8WayJjk5U9Pk6qwjqUY5SrnkLS5i5cPY+PkcaG1p8WMnt5HaH5b5YeYXoQ+QWfibmxo0s4IrRVLwcnxI=;OIULDj7flmil8LnO1iOUrQ=="
+secured: "ix3kYgiMIeIpwASsThWAcxt7rDhj0eqxXVvcZBkvVfB+lAo+bF/31eGo+NyvIdT/CGMs9XLrG3P1J9WZ2+Q3sv4X8S+t7/8xYfCN8cSouU6FoR8Fh0xltVI/cEbRVXvQucHRt7ZqtEmISpOONeWvz5qwaOgCPiLG3T7j4hgUqQWUTK6wGtP40+lovYkGGPLs8djRbwPiCvlfbPzHJzNI9v+iZY3+IfprLDxlw0yoUzjzjXt14G9aC0blfhyLt0ioybDf6YPH3GgWj/eN5z8UDErG5aKNWf8YPD20llSXA5SRT/IsS9RElqxuC/c73m6d4nDZZwdr/ZcXWj2iW4NZ7lzGyZNQuSTp6W41HKK5SIstBBqoDcB6uOnC7gC4YjXSHAtRoO4QnNo2uYb7WgpleGpJ9mo+uoEZaHEBt/IT6K3QeOx72SxsyHZbsziWhF+7OU8lLq10/LHAjBd0byuB+19a2mczfT2vCipVrKqoZJ0w0GNNvXd18iC1pKnfK/jg5auNTxWLI0P5IshLnhXOLg==;6XtagYJ0GJF50e64qIAyoQ=="
 ---
 

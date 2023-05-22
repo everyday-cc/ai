@@ -53,6 +53,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Artificial intelligence innovation: Leading companies in road slope estimation for the automotive industry"
+    excerpt: "Porsche Automobil is a key player in the road slope estimation innovation area. The company’s road slope estimation technology uses GPS and standard vehicle sensors for estimation of road slope. Hyundai, Kia, Toyota and Nissan are some of the other key players."
+    publishedDateTime: 2023-05-22T09:56:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-road-slope-estimation-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 19
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/05/Artificial-intelligence_Road-slope-estimation.jpg"
+        width: 1440
+        height: 810
+        isCached: true
 
 secured: "ydto7AlWqTdx9RGnoldkKhOGFbl0UTbIuifF+Rf+X+Dln1jSuMNVqKuY2koIkn380QU06+Slm/0NfNNsg4Fl1rEBHh7X91x/0kPJ9j6jgnbWQLHOX30hK5z/tpcHFn6GCIWWQo+XuXJhmB6EID53i0J7fV2YnXrmJv/ynM5+wnsSfubjv0TdZyacLnHiCWc1IsDykcfAvCC2xY+rPNYhY9dzAyg/2RJ4kAj7DRiK4ybKsHtid4MhPNMu4WJ0mR4nkfRUOSzGgaTGSJpqN66HorQW1/aknQo78egC4HvDwdOZT4F+a0F+jtNzt9iCFQmTlUvzVnS2ThHBnqNA0Y8z6bFVA5w2Rm1YosrU+KlupDASFvUiGMYuZi6YRXyGAgTkndbL2TfLQJ3HCqWrc4r9ZpR+mVVK4sWBxSQYdDm3Xc2bVSoaJDa8g0GHbKXOA+tkFfIaM7W29GG/l5bz8xMKu1HS+G5yZKfaxADewBoD8f77AO+WF0X8Octgpbwlji/S+JbZvR2p3N5i1Y5k+Tb4sw==;NJI0v3tbnKermxVLGXMPJw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/05/18/analysts-say-ai-gold-rush-should-b
 webUrl: "https://www.cnbc.com/2023/05/18/analysts-say-ai-gold-rush-should-boost-nvidias-outlook.html"
 type: article
 quality: 63
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,82 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "The AI Race Is Gathering Steam. What Will It Mean For Nvidia’s Earnings?"
+    excerpt: "NVDA) is poised to report its Q1 FY’24 earnings around May 24, reporting on a quarter that is likely to have seen the company’s revenues continue to decline, amid a"
+    publishedDateTime: 2023-05-22T08:59:00Z
+    webUrl: "https://www.forbes.com/sites/greatspeculations/2023/05/22/the-ai-race-is-gathering-steam-what-will-it-mean-for-nvidias-earnings/"
+    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/05/22/the-ai-race-is-gathering-steam-what-will-it-mean-for-nvidias-earnings/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/05/22/the-ai-race-is-gathering-steam-what-will-it-mean-for-nvidias-earnings/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 88
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5e141b58eb5fec0007029f9c/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Nvidia Stock: Increasing AI GPU Demand Points to Strong Earnings"
+    excerpt: "Going by recent conversations with component suppliers in the chip giant’s supply chain, Truist analyst William Stein thinks investors are in for a pleasant surprise. “We have recently learned of an uptick in demand for AI GPUs,” notes the 5-star ..."
+    publishedDateTime: 2023-05-21T16:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-increasing-ai-gpu-demand-points-to-strong-earnings-1032341254"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://blog.tipranks.com/wp-content/uploads/2023/05/image-602-1024x518.png?utm_source=markets.businessinsider.com&utm_medium=referral"
+        width: 1024
+        height: 518
+        isCached: true
+  - title: "NVIDIA, AMD, and Micron are in the Forefront in the Chip Sector Higher with AI"
+    excerpt: "NVIDIA, AMD, and Micron are experiencing significant growth in the chip sector, driven by their emphasis on AI and targeting the Japanese market."
+    publishedDateTime: 2023-05-19T14:56:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/nvidia-amd-and-micron-are-in-the-forefront-in-the-chip-sector-higher-with-ai/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/nvidia-amd-and-micron-are-in-the-forefront-in-the-chip-sector-higher-with-ai/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/nvidia-amd-and-micron-are-in-the-forefront-in-the-chip-sector-higher-with-ai/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 70
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/NVIDIA-AMD-and-Micron-are-in-the-Forefront-in-the-Chip-Sector.jpg"
+        width: 1500
+        height: 844
+        isCached: true
+  - title: "Nvidia Chip King's Fortune Doubles This Year to $27.3B on AI Boom"
+    excerpt: "Huang’s wealth has grown 98% this year to $27.3 billion, making him the biggest gainer among US and global tech billionaires, according to the Bloomberg Billionaires Index. Nearly all of Huang’s fortune is in Nvidia shares and options,"
+    publishedDateTime: 2023-05-18T14:48:00Z
+    webUrl: "https://www.wealthmanagement.com/high-net-worth/nvidia-chip-kings-fortune-doubles-year-273b-ai-boom"
+    type: article
+    provider:
+      name: WealthManagement.com
+      domain: wealthmanagement.com
+    quality: 54
+    images:
+      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/nvidia-ceo-jensen-huang.jpg"
+        width: 1540
+        height: 800
+        isCached: true
+  - title: "Nvidia sees AI GPU orders ramp up"
+    excerpt: "Nvidia has seen a ramp-up in orders for its A100 and H100 AI GPUs, as a result of the generative AI boom, which has led to an increase in wafer starts at TSMC, according to market sources."
+    publishedDateTime: 2023-05-19T02:50:00Z
+    webUrl: "https://www.digitimes.com/news/a20230518PD215/nvidia-ic-manufacturing-ai-gpu-ai-server-tsmc.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230518pd215_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "eHe4sZgljSrCBd+7NVKC3s1b7jHCKAhRrS4E7eWsECQ4FnmHM7Yuo6w3fd8y7f4VgPWsOaisOoBZZEQogEe/3cNeXrJuQTEt2lWAxF1W0x0diNbbj9UvK17iDBPI9877uFvbFzdh81BMftQHc23Hgax9Gl0jXeKrprRWzWfKQVpeucquI6wOoU1NvKPzzpOAb47zogl34TbcMDw5cXqHOlVxYF2mu4SbABYylFmyvhyjN1up2xuZK5Bn5A8yVTQLvIQr/3VMijwa5uu94pKe0qC55QeiBhVQhBEv5GhTBhWpImoywPci0dvOMUiv0XrpsQ/5xvQ2cDuYc4NWl2h631oWFQDrWuZUtltwcfSZxA36zsNXu9RrtHGOu1Uh7dMbwOI3LOz2voImd6kjDAe51q2yj7aIW7OQkpvKT7adgC4MPRiYic0zOCfwPGDSWt8oDcCMT4pCq0sqzZoBe9cSzLthKJqNMUkxZWWYRkEXrPUbrpX6l8rPXa859EOuH6hziZ+SBZr2vRcz8BxAOGPaPw==;25rISAtMqzeUe1/ZlG99sQ=="
 ---

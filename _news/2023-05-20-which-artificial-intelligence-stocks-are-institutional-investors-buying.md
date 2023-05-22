@@ -77,20 +77,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "How to invest in artificial intelligence"
-    excerpt: "But there is one area in which the firm, run by Son Masayoshi, its charismatic founder, wants to peek above the parapet: investments in artificial intelligence (ai). Investors face two questions. The first is which frontier technologies will make market leaders a fortune."
-    publishedDateTime: 2023-05-17T16:30:00Z
-    webUrl: "https://www.economist.com/finance-and-economics/2023/05/17/how-to-invest-in-artificial-intelligence"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230520_FNP502.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AI Alarmists Are Dragging Us All Down a Rabbit Hole"
     excerpt: "Silicon Valley is fixated on longtermism — prioritizing future lives over those living today. This is very tricky moral math."
     publishedDateTime: 2023-05-18T23:20:00Z

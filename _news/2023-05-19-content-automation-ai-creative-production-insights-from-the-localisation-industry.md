@@ -18,6 +18,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Here Are the Key 2022-23 Translation and Localization Industry Milestones"
+    excerpt: "A snapshot of key events in the language industry from April 2022 to May 2023 covering funding, M&A, LLMs, AI launches, industry hires, and Slator releases."
+    publishedDateTime: 2023-05-22T09:06:00Z
+    webUrl: "https://slator.com/key-2022-2023-translation-localization-industry-milestones/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 3
+
 secured: "rJf25dMTdq/07ebxKmUtKLwAoHppyskux1MSqLhbhwbeXz0gLTWKfZCiRxomxA6reqXwy7c38R+HLjfZRyxnfmueXyxAhv+nOVm2cmSvOjNR/B2T06nWWDcU0H3zOcK3xO0We8yC2KCOFsC++41w+DU/YLMLoAODuuNU0D/5hpPEP/CDoq/k9kC3HO4MI3cYre0YUIPyvcqHC6dIiJgdKeW6KHRKiT7B0Q/xluwQlHUvqHrSSuVX45mOzLxgQjV/ZEF89uup3il9LZyqeeUV/Aaw5+kee5OaE0Rc2jSO24hg3LAp3bg9TIQd4CzNy8qiROxjTQ7tpcPxX6QlDmjCbqkmdm0YHzjyqtlNSmuog5TyvyYLgzFUnrJizB6lJEoADrQrgDy6wGO2Zw7ny6dfWa1I5u4DH4plz32DRvehWk4/5zoNS0QILLF00NZO1vxcX45rxNrx+xkCuGXeBJoHdGZP+HdiacB1njiVM1UJ3ddYh8A0XtKCrAsWbfYvnronAtuht2OgwwUqmEd4SMls7Q==;i9SVvC4qkQtJdmSoezvy7g=="
 ---
 

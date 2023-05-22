@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia, AMD, Micron lead chip sector higher with AI, Japan in focus"
-    excerpt: "Shares in Nvdia Corp , Advanced Micro Devices and Micron Technology on Thursday provided the biggest boosts to the chip sector, which outperformed the broader market as investors looked for ways to invest in artificial intelligence and in Japan."
-    publishedDateTime: 2023-05-18T21:46:00Z
-    webUrl: "https://www.reuters.com/article/usa-stocks-chips/nvidia-amd-micron-lead-chip-sector-higher-with-ai-japan-in-focus-idUSL1N37F2MO"
+  - title: "The AI Race Is Gathering Steam. What Will It Mean For Nvidia’s Earnings?"
+    excerpt: "NVDA) is poised to report its Q1 FY’24 earnings around May 24, reporting on a quarter that is likely to have seen the company’s revenues continue to decline, amid a"
+    publishedDateTime: 2023-05-22T08:59:00Z
+    webUrl: "https://www.forbes.com/sites/greatspeculations/2023/05/22/the-ai-race-is-gathering-steam-what-will-it-mean-for-nvidias-earnings/"
+    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/05/22/the-ai-race-is-gathering-steam-what-will-it-mean-for-nvidias-earnings/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/05/22/the-ai-race-is-gathering-steam-what-will-it-mean-for-nvidias-earnings/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Forbes
+      domain: forbes.com
+    quality: 88
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5e141b58eb5fec0007029f9c/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Nvidia Stock: Increasing AI GPU Demand Points to Strong Earnings"
+    excerpt: "Going by recent conversations with component suppliers in the chip giant’s supply chain, Truist analyst William Stein thinks investors are in for a pleasant surprise. “We have recently learned of an uptick in demand for AI GPUs,” notes the 5-star ..."
+    publishedDateTime: 2023-05-21T16:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-increasing-ai-gpu-demand-points-to-strong-earnings-1032341254"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 84
     images:
-      - url: "https://www.reuters.com/resizer/MSbbwGzXoN4m5_yDKbUTrwFQOMg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2OUEX3PTTNP3DO72D3UQ4PPP7A.jpg"
-        width: 1200
-        height: 628
+      - url: "https://blog.tipranks.com/wp-content/uploads/2023/05/image-602-1024x518.png?utm_source=markets.businessinsider.com&utm_medium=referral"
+        width: 1024
+        height: 518
         isCached: true
   - title: "NVIDIA, AMD, and Micron are in the Forefront in the Chip Sector Higher with AI"
     excerpt: "NVIDIA, AMD, and Micron are experiencing significant growth in the chip sector, driven by their emphasis on AI and targeting the Japanese market."
@@ -54,6 +70,20 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/NVIDIA-AMD-and-Micron-are-in-the-Forefront-in-the-Chip-Sector.jpg"
         width: 1500
         height: 844
+        isCached: true
+  - title: "Trading Nvidia earnings next week: Analysts say 'AI gold rush' should boost outlook"
+    excerpt: "Growing artificial intelligence tailwinds should lift Nvidia's guidance when chip giant posts earnings, according to some Wall Street analysts."
+    publishedDateTime: 2023-05-18T14:04:00Z
+    webUrl: "https://www.cnbc.com/2023/05/18/analysts-say-ai-gold-rush-should-boost-nvidias-outlook.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 63
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107203248-1677884994360-A100_5.jpg?v=1684425870&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Nvidia sees AI GPU orders ramp up"
     excerpt: "Nvidia has seen a ramp-up in orders for its A100 and H100 AI GPUs, as a result of the generative AI boom, which has led to an increase in wafer starts at TSMC, according to market sources."

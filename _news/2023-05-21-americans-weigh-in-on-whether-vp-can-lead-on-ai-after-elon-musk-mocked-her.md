@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Poll: 61% of Americans say AI threatens humanity’s future"
-    excerpt: "The poll results come amid the expansion of generative AI use in education, government, medicine, and business, triggered in part by the explosive growth of OpenAI's ChatGPT, which is reportedly the fastest-growing software application of all time."
-    publishedDateTime: 2023-05-17T16:39:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/05/poll-61-of-americans-say-ai-threatens-humanitys-future/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/05/poll-61-of-americans-say-ai-threatens-humanitys-future/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/poll-61-of-americans-say-ai-threatens-humanitys-future/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/ai_threat_hero_1-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "ChatGPT outperforms money managers, as Americans flock to AI for investing advice"
     excerpt: "Considering AI's existing ability to best the most blue-chip of money managers out there, the days of paying mutual funds management fees for middling returns, at least in the current structure, may be winding to a close. All of this sounds like investing ..."
     publishedDateTime: 2023-05-18T14:02:00Z
@@ -90,6 +74,15 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "Finance expert explains why people are turning to AI for investment advice"
+    excerpt: "With ChatGPT and other artificial intelligence systems making waves, some people are turning to AI for financial planning, according to one West Virginia University researcher."
+    publishedDateTime: 2023-05-17T19:22:00Z
+    webUrl: "https://phys.org/news/2023-05-expert-people-ai-investment-advice.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 32
 
 secured: "9HSdn3c0lmgPDukSQu5QUBWm2p3++v8H5IfDeKYOuAiHezv22V2f0tWB3mJJOsFGHI5G4X6njUErgAvSPlq4GYjGH2vczHBoQsGe+T3O9ByrdAwFbC3fURExpW1wUfOZrdOcWex45Zd/416xCfNe8Jc3R4pgC133+2xdiK6cVvJvxhHCd8Ad3tJkcXk50oXwmEUIFTPUG8SUqdrQBPvhiELziwZzoVkFe9wwicISENGqnaatG8u4UCqfX7OY4TswCl7ct3xOM5k3LvsVllQhzz6b0yqiIq1hpjulyooRwxDVBvWDqqtbDfnilUMX8Zidm9EiIAOcD0Lkn2Q3RuINYr56iJxwXF5XagbofG2lNEA=;sSovwhgNcFH9w2obXQsxzw=="
 ---

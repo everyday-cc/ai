@@ -2,6 +2,246 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-05-15-life-and-death-decisions-are-being-made-by-artificial-intelligence.md",
+      "title": "‘Life and death decisions are being made’ by artificial intelligence",
+      "excerpt": "Jacob Ward reports on how the invisible power structures we are assembling, by accident and on purpose, have the potential to change not just individual lives but the very future of humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/-life-and-death-decisions-are-being-made-by-artifical-intelligence-174337605845",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/-life-and-death-decisions-are-being-made-by-artifical-intelligence-174337605845",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684078202095_mtp_clip_mtpr602_spot_230512_1920x1080-2b3j1a.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174337605845",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174337605845",
+      "publishedDateTime": "2023-05-14T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-14-ai-presents-political-peril-for-2024-with-threat-to-mislead-voters.md",
+      "title": "AI presents political peril for 2024 with threat to mislead voters",
+      "excerpt": "Thanks to recent advances in artificial intelligence, tools that can create lifelike photos, video and audio are now cheap and readily available",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/wirestory_59fb51002661ac5290089060b3ae39a0_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-presents-political-peril-2024-threat-mislead-voters-99313712",
+      "publishedDateTime": "2023-05-14T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-14-computer-vision-market-research-analysis-2023-2030.md",
+      "title": "Computer Vision Market Research Analysis, 2023-2030",
+      "excerpt": "A Computer Vision market new report, spanning multiple 107 pages, offers an extensive and in-depth analysis of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-research-analysis-2023-2030-2023-05-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-research-analysis-2023-2030-2023-05-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-14T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-14-healthcare-artificial-intelligence-market-2023-2030-business-report.md",
+      "title": "Healthcare Artificial Intelligence Market [2023-2030] Business Report",
+      "excerpt": "What is the Healthcare Artificial Intelligence market growth in 2023-2029 with TOPMajor Players? Major Players Covered in this Report: APIXIO, Inc. Cyrcadia Health Inc. Sense.ly Atomwise, Inc. Zebra Medical Vision Ltd.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-2023-2030-business-report-2023-05-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-2023-2030-business-report-2023-05-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-14T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-14-edge-artificial-intelligence-ai-chip-market-research-2023-2030.md",
+      "title": "Edge Artificial Intelligence (AI) Chip Market Research | 2023-2030",
+      "excerpt": "May 14, 2023 (The Expresswire) -- \"Edge Artificial Intelligence (AI) Chip Market\" is poised to witness an unexpected compound annual growth rate",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-research-2023-2030-2023-05-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-research-2023-2030-2023-05-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 329,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-14T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-14-ai-risk-management-for-corporate-boards-5-areas-you-should-be-prioritizing.md",
       "title": "AI Risk Management For Corporate Boards: 5 Areas You Should Be Prioritizing",
       "excerpt": "Here are my suggestions for how you can begin to manage and mitigate the risks that your organization faces from the exponential growth of AI.",
@@ -160,17 +400,17 @@
       "title": "Humans could be controlled by robots, AI firm’s founder warns",
       "excerpt": "Robots could end up controlling humanity ... if we have agents more capable than us that we cannot control, that are going across the internet and hooked up and they achieve a level of automation ...",
       "sourceUrl": null,
-      "webUrl": "https://www.theboltonnews.co.uk/news/national/23520591.humans-controlled-robots-ai-firms-founder-warns/",
-      "originalUrl": "https://www.theboltonnews.co.uk/news/national/23520591.humans-controlled-robots-ai-firms-founder-warns/",
+      "webUrl": "https://www.independent.co.uk/tech/getty-images-ashton-kutcher-tom-hanks-scarlett-johansson-joaquin-phoenix-b2338350.html",
+      "originalUrl": "https://www.independent.co.uk/tech/getty-images-ashton-kutcher-tom-hanks-scarlett-johansson-joaquin-phoenix-b2338350.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.theboltonnews.co.uk/resources/images/16777260/?type=og-image",
-          "width": 945,
-          "height": 630,
+          "url": "https://static.independent.co.uk/2023/05/13/19/7cdb40afe62999b20c2d43b255e451d7Y29udGVudHNlYXJjaGFwaSwxNjg0MDg3MzEw-2.10529336.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -178,13 +418,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-13T11:39:00-07:00",
+      "ampWebUrl": "https://www.independent.co.uk/tech/getty-images-ashton-kutcher-tom-hanks-scarlett-johansson-joaquin-phoenix-b2338350.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/getty-images-ashton-kutcher-tom-hanks-scarlett-johansson-joaquin-phoenix-b2338350.html",
+      "publishedDateTime": "2023-05-13T11:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Bolton News",
-        "domain": "theboltonnews.co.uk",
+        "name": "The Independent",
+        "domain": "independent.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -990,264 +1230,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-wes-andersons-harry-potter-all-the-ai-wes-anderson-parodies-ranked.md",
-      "title": "Wes Anderson’s Harry Potter? All the AI Wes Anderson parodies, ranked",
-      "excerpt": "Wes Anderson's Star Wars? The rise of AI-generated images has triggered many mash-ups of the director's style with popular franchises. We rank them all.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/movies/all-the-wes-anderson-artificial-intelligent-parodies-ranked/",
-      "originalUrl": "https://www.digitaltrends.com/movies/all-the-wes-anderson-artificial-intelligent-parodies-ranked/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/05/wes-anderson-harry-potter.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/movies/all-the-wes-anderson-artificial-intelligent-parodies-ranked/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/all-the-wes-anderson-artificial-intelligent-parodies-ranked/?amp",
-      "publishedDateTime": "2023-05-12T15:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-ai-powered-code-suggestions-and-security-scans-in-amazon-sagemaker-notebooks-using-amazon-codewhisperer-and-amazon-codeguru.md",
-      "title": "AI-powered code suggestions and security scans in Amazon SageMaker notebooks using Amazon CodeWhisperer and Amazon CodeGuru",
-      "excerpt": "Amazon SageMaker comes with two options to spin up fully managed notebooks for exploring data and building machine learning (ML) models. The first option is fast start, collaborative notebooks accessible within Amazon SageMaker Studio—a fully integrated development environment (IDE) for machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/ai-powered-code-suggestions-and-security-scans-in-amazon-sagemaker-notebooks-using-amazon-codewhisperer-and-amazon-codeguru/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/ai-powered-code-suggestions-and-security-scans-in-amazon-sagemaker-notebooks-using-amazon-codewhisperer-and-amazon-codeguru/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/12/featured-images-ml-14339.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T13:29:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-a-big-driver-of-this-years-stock-rally-artificial-intelligence.md",
-      "title": "A Big Driver of This Year's Stock Rally: Artificial Intelligence",
-      "excerpt": "Investors can’t get enough of stocks tied to artificial intelligence right now. Hype around ChatGPT has fueled a jump in mentions of AI on earnings calls, and AI-related stocks have skyrocketed. Take Microsoft,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-12-2023/card/a-big-driver-of-this-year-s-stock-rally-artificial-intelligence-Td2SlIlZnaOasbkJWtLn?siteid=yhoof2",
-      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-12-2023/card/a-big-driver-of-this-year-s-stock-rally-artificial-intelligence-Td2SlIlZnaOasbkJWtLn?siteid=yhoof2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-780730?width=600",
-          "width": 600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-stability-ai-releases-an-open-source-text-to-animation-tool.md",
-      "title": "Stability AI releases an open source text-to-animation tool",
-      "excerpt": "On Thursday, Stability AI, the AI company that created Stable Diffusion, unveiled a text-to-animation tool that allows developers and artists to use Stable Diffusion models to generate animations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/stability-ai-releases-an-open-source-text-to-animation-tool/",
-      "originalUrl": "https://www.zdnet.com/article/stability-ai-releases-an-open-source-text-to-animation-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5306c86c79ca2fc8c3e8d31f1ae62eca9525c636/2023/05/12/78c1ed06-52e0-48b8-b957-c1308e847d66/screenshot-2023-05-12-at-12-58-49-pm.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/stability-ai-releases-an-open-source-text-to-animation-tool/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/stability-ai-releases-an-open-source-text-to-animation-tool/",
-      "publishedDateTime": "2023-05-12T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-humans-in-the-loop-ai-machine-learning-in-the-bloomberg-terminal.md",
-      "title": "Humans in the Loop: AI & Machine Learning in the Bloomberg Terminal",
-      "excerpt": "The Bloomberg Terminal provides access to more than 35 million financial instruments across all asset classes. That's a lot of data, and to make it useful, AI and machine learning (ML) are playing an increasingly central role in the Terminal's ongoing evolution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/humans-in-the-loop-ai-amp-machine-learning-in-the-bloomberg-terminal-2023-05-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/humans-in-the-loop-ai-amp-machine-learning-in-the-bloomberg-terminal-2023-05-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

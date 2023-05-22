@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-22-the-ai-race-is-gathering-steam-what-will-it-mean-for-nvidias-earnings.md",
+      "title": "The AI Race Is Gathering Steam. What Will It Mean For Nvidia’s Earnings?",
+      "excerpt": "NVDA) is poised to report its Q1 FY’24 earnings around May 24, reporting on a quarter that is likely to have seen the company’s revenues continue to decline, amid a",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2023/05/22/the-ai-race-is-gathering-steam-what-will-it-mean-for-nvidias-earnings/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/05/22/the-ai-race-is-gathering-steam-what-will-it-mean-for-nvidias-earnings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5e141b58eb5fec0007029f9c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2023/05/22/the-ai-race-is-gathering-steam-what-will-it-mean-for-nvidias-earnings/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/05/22/the-ai-race-is-gathering-steam-what-will-it-mean-for-nvidias-earnings/amp/",
+      "publishedDateTime": "2023-05-22T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-some-42-of-gen-z-workers-are-nervous-to-tell-their-manager-they-are-using-ai-at-work-new-survey-finds.md",
+      "title": "Some 42% of Gen Z workers are nervous to tell their manager they are using AI at work, new survey finds",
+      "excerpt": "UK companies are falling behind on implementing AI at work leaving employees in the dark about whether and how they can use AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5",
+      "originalUrl": "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64675e70cd3a9c0019184f68?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5?amp",
+      "publishedDateTime": "2023-05-22T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-22-google-may-pray-for-ai-to-save-tensor-g3-chips-reputation-in-pixel-8-phones.md",
       "title": "Google may pray for AI to save Tensor G3 chip’s reputation in Pixel 8 phones",
       "excerpt": "After the dust has settled from Google I/O 2023 and all the interesting hardware launched at the event, Google doesn't want to miss a beat and is working towards its next big hardware product launch – its flagship smartphone, the Pixel 8 and Pixel 8 Pro.",
@@ -180,58 +283,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-05-21-nvidia-stock-increasing-ai-gpu-demand-points-to-strong-earnings.md",
-      "title": "Nvidia Stock: Increasing AI GPU Demand Points to Strong Earnings",
-      "excerpt": "Going by recent conversations with component suppliers in the chip giant’s supply chain, Truist analyst William Stein thinks investors are in for a pleasant surprise. “We have recently learned of an uptick in demand for AI GPUs,” notes the 5-star ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-increasing-ai-gpu-demand-points-to-strong-earnings-1032341254",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-increasing-ai-gpu-demand-points-to-strong-earnings-1032341254",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/05/image-602-1024x518.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 1024,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-21T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -647,7 +698,7 @@
       "originalUrl": "https://www.pbs.org/newshour/show/the-promises-and-potential-pitfalls-of-artificial-intelligence-in-medicine",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -679,6 +730,50 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security.md",
+      "title": "Are you who you say you are? TSA tests facial recognition technology to boost airport security",
+      "excerpt": "BALTIMORE—A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through—all without having to hand over their identification to the TSA officer sitting behind the screen.",
+      "sourceUrl": null,
+      "webUrl": "https://businessmirror.com.ph/2023/05/21/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/",
+      "originalUrl": "https://businessmirror.com.ph/2023/05/21/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://businessmirror.com.ph/wp-content/uploads/2023/05/world01-052123.jpg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-20T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BusinessMirror",
+        "domain": "businessmirror.com.ph",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -1140,109 +1235,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-wall-st-week-ahead-artificial-intelligence-gives-real-boost-to-us-stock-market.md",
-      "title": "Wall St Week Ahead Artificial intelligence gives real boost to U.S. stock market",
-      "excerpt": "Recent advances in artificial intelligence are fueling optimism over how businesses can operate more productively in the years ahead. They are also providing a big boost to the stock market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/us/wall-st-week-ahead-artificial-intelligence-gives-real-boost-us-stock-market-2023-05-19/",
-      "originalUrl": "https://www.reuters.com/markets/us/wall-st-week-ahead-artificial-intelligence-gives-real-boost-us-stock-market-2023-05-19/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/jUM9WeanIabp58xV9iwqGoIdO5U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PCM7EYO3OFP4HKRIZ7ZMUVK77U.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-19T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-procedural-justice-can-address-generative-ais-trustlegitimacy-problem.md",
-      "title": "Procedural justice can address generative AI’s trust/legitimacy problem",
-      "excerpt": "He previously directed Integrity Research at Facebook and built out Twitter’s first Social ... The much-touted arrival of generative AI has reignited a familiar debate about trust and safety: Can tech executives be trusted to keep society’s best ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/",
-      "originalUrl": "https://techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1255249519.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/amp/",
-      "publishedDateTime": "2023-05-19T13:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

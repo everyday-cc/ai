@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Cardiff Beyoncé concert: Face recognition use criticised"
-    excerpt: "Thousands of fans attending the Beyoncé concert in Cardiff could be scanned by live face recognition cameras deployed in the area by South Wales Police. The cameras will help identify people wanted for \"priority offences\". Police also used the cameras at the Coronation, but the technology has been criticised by human rights campaigners."
-    publishedDateTime: 2023-05-17T16:28:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-wales-65622404.amp"
-    ampWebUrl: "https://www.bbc.co.uk/news/uk-wales-65622404.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-wales-65622404.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9AC0/production/_129761693_microsoftteams-image.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Police criticised for using facial recognition technology at Beyoncé’s Cardiff show"
     excerpt: "South Wales Police has come under fire for its use of controversial facial recognition technology during the Cardiff leg of Beyoncé’s world tour. In a statement to Mixmag, South Wales Police claims that it utilised the technology to identify \"people wanted for priority offences,"
     publishedDateTime: 2023-05-19T11:33:00Z
@@ -51,6 +35,15 @@ related:
         width: 1008
         height: 672
         isCached: true
+  - title: "Ministers look to enhance policing with body-worn facial recognition technology"
+    excerpt: "Ministers in Wales and England spark debate with plans for facial recognition technology in policing. How far will they go?"
+    publishedDateTime: 2023-05-21T13:12:00Z
+    webUrl: "https://interestingengineering.com/culture/ministers-look-to-enhance-policing-with-facial-recognition"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 15
 
 secured: "YHSnap7mfJqLIoHD3dkYHkoG7HiQizUjUNVGoI+ZbVtrmNVWm42rKve8Cphro9bbwNGDQ1JBpmpG191jx7vLsz5NahP9IAtSU4SFOHYqZMTv0mQQNr5EupR179zwfgEHVINvav2gyfX8KU39PiXg1v4bjGEopKa1qGSYLYc0mUIr90sYhbgKfMt/RQlgGPA609I+dRqK/I1+vQFhXOOkmWoH78j6OdeU30ZI15c1MHPLCDXoYyUn/jpmIS6X7M90/nsW8UPj5Lj2lPkdNY7I5KaB0LfDBmGYb8nedx5tusSvtP6ZGsxkK2RTnuB4VDKUxH6RwyJ1LC11I/7of3OxgXtNX6KqoCUfUT4YqnhZwRo=;VES34eLM4I4ju8/ViIFnRw=="
 ---

@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 639
         isCached: true
+  - title: "Judge throws out DeepMind NHS data action"
+    excerpt: "Claim for misuse of private information for about 1.6 million patients fails the 'same interest' test for collective redress."
+    publishedDateTime: 2023-05-22T09:17:00Z
+    webUrl: "https://www.lawgazette.co.uk/law/judge-throws-out-deepmind-nhs-data-action/5116089.article"
+    type: article
+    provider:
+      name: lawgazette.co.uk
+      domain: lawgazette.co.uk
+    quality: 39
+    images:
+      - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/6/0/1/110601_istock1712809971_652647.jpg"
+        width: 1024
+        height: 536
+        isCached: true
 
 secured: "iNhiwcm/r9rR+2k4n6OTxLUhWCXF9Bmwkj34EU7jF6zROq3egRqoudT6FjuzdHO6FgahuuwIc8PTZ3MCveC/DctzEejlMsIDup3x/dowehWRtx9cjxDo4TLBG7U0//LwPUCCj0eXaOX0lWm9cGLcK4sSURK8Tuf5jk1fngP9WlVDaAL0ImHgWtlfP0g2mQCWqUIX+rs6f1bsRQD32x2RDKwyYf8n+UkC8MUJu5RAJ7mzkciCV2SDrWsE0X8IYvx9Ne6qlSDxCEUrwtVqska221HET8RyUsyvsd9PgIPMwEBUCCSNp7Ddi5/Fa/hM6kohsqOfzc7lemNqiRm5u1B0YXB8t55SY4ROr2Xlar/b3wNIkghxP6C2pn2TmHA7e0Qp9yN7XUyz+KRhgP1gAQ937qBywrizxDo2iv6cmGp+jwmrIxCXYF0chBxCFV/4IovaJbBh0EHaEQGI1vtgylDRZxccpyD0QpaCDEEXTOSBLqHyhdmJMLYdkUq+MTFgry2W9RGphNc97wTpeulD3IM7+A==;bPRBX69ZVGBFtRA5tdsCNg=="
 ---

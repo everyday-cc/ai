@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-is-trouncing-money-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-is-trouncing-money-managers-and-is-destined-to-turn-the-investing-world-upside-down/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: ZDNet
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Poll: 61% of Americans say AI threatens humanity’s future"
-    excerpt: "The poll results come amid the expansion of generative AI use in education, government, medicine, and business, triggered in part by the explosive growth of OpenAI's ChatGPT, which is reportedly the fastest-growing software application of all time."
-    publishedDateTime: 2023-05-17T16:39:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/05/poll-61-of-americans-say-ai-threatens-humanitys-future/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/05/poll-61-of-americans-say-ai-threatens-humanitys-future/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/poll-61-of-americans-say-ai-threatens-humanitys-future/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/ai_threat_hero_1-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "'It's all gonna take over': Americans reveal fears of AI impacting every day life"
     excerpt: "Americans in Austin, Texas, shared what they most fear regarding artificial intelligence. Several said they worried about AI job displacement."
     publishedDateTime: 2023-05-19T06:00:00Z
@@ -91,6 +75,15 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "Finance expert explains why people are turning to AI for investment advice"
+    excerpt: "With ChatGPT and other artificial intelligence systems making waves, some people are turning to AI for financial planning, according to one West Virginia University researcher."
+    publishedDateTime: 2023-05-17T19:22:00Z
+    webUrl: "https://phys.org/news/2023-05-expert-people-ai-investment-advice.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 32
 
 secured: "fls7nB3cRBSk2hWrfkYlpr1wQS+NXkpCWdQR/82nK+qkBwhheVYf+m9B2LVuRcKWh238WcRm+hjjOY1EIglyE5Jo/gGfEvLTnGHRUZmTlSDSw81zmxCq1gCoJi9MN480mj5AkBzq5dfq4rC1NRVpWV3jyL/NcxR7pSOF4280VpKI+exE8XuylzN2I50Qn8Vpkn+OZ0mHXuAfSx3S4EFC8umNUkswSb+eZGXv2H2rYCAyntxCFiYJrw2PvobWpZ3z6NCXUGWv/cGWhT2PQlW1k0ZPetKA80jLcDShI8ZncFUfBVL8s1jqqk4ARCK8GsWoTrbQ6Nypu577E3ON0cl+JneHAmCdAUAiH6HV800cZ/c=;itF/UkwNui2uJcfGzpPhsA=="
 ---

@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-20-wall-st-week-ahead-artificial-intelligence-gives-real-boost-to-us-stock-market.md",
+      "title": "Wall St Week Ahead Artificial intelligence gives real boost to U.S. stock market",
+      "excerpt": "Recent advances in artificial intelligence are fueling optimism over how businesses can operate more productively in the years ahead. They are also providing a big boost to the stock market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/markets/us/wall-st-week-ahead-artificial-intelligence-gives-real-boost-us-stock-market-2023-05-19/",
+      "originalUrl": "https://www.reuters.com/markets/us/wall-st-week-ahead-artificial-intelligence-gives-real-boost-us-stock-market-2023-05-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/jUM9WeanIabp58xV9iwqGoIdO5U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PCM7EYO3OFP4HKRIZ7ZMUVK77U.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-19T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-procedural-justice-can-address-generative-ais-trustlegitimacy-problem.md",
+      "title": "Procedural justice can address generative AI’s trust/legitimacy problem",
+      "excerpt": "He previously directed Integrity Research at Facebook and built out Twitter’s first Social ... The much-touted arrival of generative AI has reignited a familiar debate about trust and safety: Can tech executives be trusted to keep society’s best ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/",
+      "originalUrl": "https://techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1255249519.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/amp/",
+      "publishedDateTime": "2023-05-19T13:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-20-the-senates-hearing-on-ai-regulation-was-dangerously-friendly.md",
       "title": "The Senate’s hearing on AI regulation was dangerously friendly",
       "excerpt": "who is now chief ethics scientist at Hugging Face. “This would be a straightforward way to bring ‘responsible AI’ into a legal structure.” Mitchell added that good regulation depends on setting standards that firms can’t easily bend to their ...",
@@ -113,7 +216,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-an-image-to-speech-generative-ai-application-using-amazon-sagemaker-and-hugging-face/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -156,7 +259,7 @@
       "originalUrl": "https://www.cnet.com/tech/services-and-software/microsoft-bing-ai-chat-widgets-how-to-get-them-on-ios-and-android/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -362,7 +465,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 207,
+      "heat": 217,
       "tags": null,
       "images": [
         {
@@ -515,7 +618,7 @@
       "originalUrl": "https://www.thenews.com.pk/latest/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -692,6 +795,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-police-criticised-for-using-facial-recognition-technology-at-beyonces-cardiff-show.md",
+      "title": "Police criticised for using facial recognition technology at Beyoncé’s Cardiff show",
+      "excerpt": "South Wales Police has come under fire for its use of controversial facial recognition technology during the Cardiff leg of Beyoncé’s world tour. In a statement to Mixmag, South Wales Police claims that it utilised the technology to identify \"people wanted for priority offences,",
+      "sourceUrl": null,
+      "webUrl": "https://mixmag.net/read/police-criticised-for-using-facial-recognition-at-beyonces-cardiff-show-news",
+      "originalUrl": "https://mixmag.net/read/police-criticised-for-using-facial-recognition-at-beyonces-cardiff-show-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mixmag.net/assets/uploads/images/_full/Beyonce-Mason-Poole.png",
+          "width": 1008,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mixmag.net/amp/police-criticised-for-using-facial-recognition-at-beyonces-cardiff-show",
+      "cdnAmpWebUrl": "https://mixmag-net.cdn.ampproject.org/c/s/mixmag.net/amp/police-criticised-for-using-facial-recognition-at-beyonces-cardiff-show",
+      "publishedDateTime": "2023-05-19T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mixmag",
+        "domain": "mixmag.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -991,7 +1137,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -1075,152 +1221,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-robotics-awarded-first-patent-for-its-robotic-window-cleaning-system.md",
-      "title": "Robotics awarded first patent for its robotic window-cleaning system",
-      "excerpt": "Skyline Robotics, developers of OZMO, the world’s first high-rise window-cleaning robot, today announced the company has received its first patent for its robotic window-cleaning system. The patent, awarded by Singapore,",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/robotics-awarded-first-patent-for-its-robotic-window-cleaning-system/",
-      "originalUrl": "https://www.therobotreport.com/robotics-awarded-first-patent-for-its-robotic-window-cleaning-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/05/skyline-patent-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T14:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-nvidia-amd-micron-lead-chip-sector-higher-with-ai-japan-in-focus.md",
-      "title": "Nvidia, AMD, Micron lead chip sector higher with AI, Japan in focus",
-      "excerpt": "Shares in Nvdia Corp , Advanced Micro Devices and Micron Technology on Thursday provided the biggest boosts to the chip sector, which outperformed the broader market as investors looked for ways to invest in artificial intelligence and in Japan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-stocks-chips/nvidia-amd-micron-lead-chip-sector-higher-with-ai-japan-in-focus-idUSL1N37F2MO",
-      "originalUrl": "https://www.reuters.com/article/usa-stocks-chips/nvidia-amd-micron-lead-chip-sector-higher-with-ai-japan-in-focus-idUSL1N37F2MO",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/MSbbwGzXoN4m5_yDKbUTrwFQOMg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2OUEX3PTTNP3DO72D3UQ4PPP7A.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-yellow-ai-launches-yellowg-a-generative-ai-platform-for-automation-workflows.md",
-      "title": "Yellow AI launches YellowG, a generative AI platform for automation workflows",
-      "excerpt": "Conversational AI platform Yellow AI announced the release of YellowG, a next-gen conversational artificial intelligence (AI) platform designed specifically for automation technology. Leveraging the capabilities of generative AI and enterprise GPT,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/yellow-ai-launches-yellowg-a-generative-ai-platform-for-automation-workflows/",
-      "originalUrl": "https://venturebeat.com/ai/yellow-ai-launches-yellowg-a-generative-ai-platform-for-automation-workflows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/6-Applying-AI-at-scale-–-Insurance-company-story.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/yellow-ai-launches-yellowg-a-generative-ai-platform-for-automation-workflows/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/yellow-ai-launches-yellowg-a-generative-ai-platform-for-automation-workflows/amp/",
-      "publishedDateTime": "2023-05-18T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

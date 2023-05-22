@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thenews.com.pk/amp/1071894-multan-airport-4th-in-country
 cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -29,32 +29,18 @@ images:
 
 related:
   - title: "TSA testing facial recognition at more airports, raising privacy concerns"
-    excerpt: "The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen. It’s all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country."
+    excerpt: "The screen flashes \"Photo Complete\" and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen. It's all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country."
     publishedDateTime: 2023-05-21T00:30:00Z
-    webUrl: "https://tulsaworld.com/eedition/page-a4/page_ec7d726c-513f-5e72-92a1-549cc4a8604f.html"
+    webUrl: "https://omaha.com/eedition/sunrise/page-a4/page_87f53002-8f75-5a0d-9087-14a36e6795a7.html"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 53
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/eedition/e/c7/ec7d726c-513f-5e72-92a1-549cc4a8604f/64696e8c27c1c.fullsize-img.jpg"
-        width: 792
-        height: 1638
-        isCached: true
-  - title: "Harry Reid International Airport in Las Vegas testing TSA facial recognition technology"
-    excerpt: "Harry Reid International Airport in Las Vegas is part of a pilot project by the TSA to assess the use of facial recognition technology."
-    publishedDateTime: 2023-05-17T16:42:00Z
-    webUrl: "https://www.thespectrum.com/story/news/2023/05/17/las-vegas-airport-among-ttsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns/70227099007/"
-    type: article
-    provider:
-      name: The Spectrum
-      domain: thespectrum.com
-    quality: 46
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/05/16/PREN/08c5e615-7904-4d40-8684-d11579b6c89f-AP23116691290041.jpg?auto=webp&crop=7421,4175,x0,y378&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/eedition/8/7f/87f53002-8f75-5a0d-9087-14a36e6795a7/6469a6f86fc09.preview-620.jpg?crop=620%2C326%2C0%2C457&resize=620%2C326&order=crop%2Cresize"
+        width: 620
+        height: 326
         isCached: true
   - title: "Harry Reid International Airport in Las Vegas testing TSA facial recognition technology"
     excerpt: "It's all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country, including Harry Reid ..."

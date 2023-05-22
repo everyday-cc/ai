@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-22-the-ai-race-is-gathering-steam-what-will-it-mean-for-nvidias-earnings.md",
+      "title": "The AI Race Is Gathering Steam. What Will It Mean For Nvidia’s Earnings?",
+      "excerpt": "NVDA) is poised to report its Q1 FY’24 earnings around May 24, reporting on a quarter that is likely to have seen the company’s revenues continue to decline, amid a",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2023/05/22/the-ai-race-is-gathering-steam-what-will-it-mean-for-nvidias-earnings/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/05/22/the-ai-race-is-gathering-steam-what-will-it-mean-for-nvidias-earnings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5e141b58eb5fec0007029f9c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2023/05/22/the-ai-race-is-gathering-steam-what-will-it-mean-for-nvidias-earnings/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/05/22/the-ai-race-is-gathering-steam-what-will-it-mean-for-nvidias-earnings/amp/",
+      "publishedDateTime": "2023-05-22T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-22-google-may-pray-for-ai-to-save-tensor-g3-chips-reputation-in-pixel-8-phones.md",
       "title": "Google may pray for AI to save Tensor G3 chip’s reputation in Pixel 8 phones",
       "excerpt": "After the dust has settled from Google I/O 2023 and all the interesting hardware launched at the event, Google doesn't want to miss a beat and is working towards its next big hardware product launch – its flagship smartphone, the Pixel 8 and Pixel 8 Pro.",
@@ -32,58 +84,6 @@
         "name": "Digit",
         "domain": "digit.in",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-21-nvidia-stock-increasing-ai-gpu-demand-points-to-strong-earnings.md",
-      "title": "Nvidia Stock: Increasing AI GPU Demand Points to Strong Earnings",
-      "excerpt": "Going by recent conversations with component suppliers in the chip giant’s supply chain, Truist analyst William Stein thinks investors are in for a pleasant surprise. “We have recently learned of an uptick in demand for AI GPUs,” notes the 5-star ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-increasing-ai-gpu-demand-points-to-strong-earnings-1032341254",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-increasing-ai-gpu-demand-points-to-strong-earnings-1032341254",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/05/image-602-1024x518.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 1024,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-21T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -200,7 +200,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -253,7 +253,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-stocks-chips/nvidia-amd-micron-lead-chip-sector-higher-with-ai-japan-in-focus-idUSL1N37F2MO",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -425,6 +425,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-chatgpt-outperforms-money-managers-as-americans-flock-to-ai-for-investing-advice.md",
+      "title": "ChatGPT outperforms money managers, as Americans flock to AI for investing advice",
+      "excerpt": "Considering AI's existing ability to best the most blue-chip of money managers out there, the days of paying mutual funds management fees for middling returns, at least in the current structure, may be winding to a close. All of this sounds like investing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/chatgpt-is-trouncing-money-managers-and-is-destined-to-turn-the-investing-world-upside-down/",
+      "originalUrl": "https://www.zdnet.com/article/chatgpt-is-trouncing-money-managers-and-is-destined-to-turn-the-investing-world-upside-down/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/27a45630c4d84e49412c328fdfea7c6343d52b9b/2023/05/17/88b1d561-a90d-4972-a16e-17274145535e/gettyimages-1472335476.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chatgpt-is-trouncing-money-managers-and-is-destined-to-turn-the-investing-world-upside-down/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-is-trouncing-money-managers-and-is-destined-to-turn-the-investing-world-upside-down/",
+      "publishedDateTime": "2023-05-18T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1432,59 +1484,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-cryptominers-try-to-pivot-gpu-farms-to-ai-workloads-after-crypto-decline.md",
-      "title": "Cryptominers try to pivot GPU farms to AI workloads after crypto decline",
-      "excerpt": "Two large cryptomining companies, Hut 8 and Hive Blockchain, have redirected their mining GPU infrastructure toward high-performance computing (HPC), which includes AI workloads. This move could",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/98661-cryptominers-try-pivot-gpu-farms-ai-after-ethereum.html",
-      "originalUrl": "https://www.techspot.com/news/98661-cryptominers-try-pivot-gpu-farms-ai-after-ethereum.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/01/2023-01-25-image-18.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T14:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-05-assume-worst-students-ai-stay.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-assume-worst-students-ai-stay.amp"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1920
     height: 1358
     isCached: true
+
+related:
+  - title: "My students are using AI to cheat. Here’s why it’s a teachable moment"
+    excerpt: "Ignoring ChatGPT and its cousins won’t get us anywhere. In fact, these systems reveal issues we too often miss"
+    publishedDateTime: 2023-05-19T04:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/18/ai-cheating-teaching-chatgpt-students-college-university"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/18/ai-cheating-teaching-chatgpt-students-college-university"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/18/ai-cheating-teaching-chatgpt-students-college-university"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/7213153abe675e04a3ccea87596be6b7f8b48cbb/0_384_5760_3456/master/5760.jpg?width=620&quality=85&auto=format&fit=max&s=1328377907062c481169b26dd1b61530"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "Jb38gFFGQ+ZGihjWvz6pzHFZaKs7dGm8xNCqLAMfMgychwDCheBJA/bW18ornN/sxbNScS6XThWgEWeXfSq27zo2nr1gqYGoLzNv+54oREFZpL6gptUG3JmFPGsfTUU/db2Y8zoQx6gAVD1nINp13gt8ZmL5uoMoHz3sfqB8ImXj2u1vBtHsRzIoGKVdvq0bbpGmLBuWy6F2sEcd8vudFLcL/UQAlFANqClaJkW4/BYCo6kEujryL0OnME1RmA0wX45DFemwNIrvRltzPcv6y7mPOGCqy3kdg8eiLb4EtCazQ1hctT7/TFVw7Xr3W6MvKQARMvBix79lk8qVRsJsRJfOTvKxteuhSRquP5ZQ5rBjTcPqvLfAirdKtFP3oGmnu+R0ol9khCvpTRL3YemURNygXdgJzSMLTgoG45O9wNjs2+6/VtLFlVZs2ecVob6O9gS/FvE0tsw4YHpixYd0uJB2H2Coat/CwzJDrcMlMQ6zxQt5s/m72/hbt8TBcIvwBq1HciCyiO2VeCjqcsOhIg==;YE+xEb8OjUgKHsWIIvAOPw=="
 ---
