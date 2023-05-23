@@ -43,31 +43,20 @@ related:
         width: 1312
         height: 738
         isCached: true
-  - title: "Generative AI Adds New Dimensions to Election Interference"
-    excerpt: "Election administrators are still digging out from the mountains of misinformation from the 2020 election cycle. Bad actors are using AI to ramp up for the next one. Can AI help level the playing field for the good guys?"
-    publishedDateTime: 2023-05-19T05:40:00Z
-    webUrl: "https://www.governing.com/security/generative-ai-adds-new-dimensions-to-election-interference"
-    ampWebUrl: "https://www.governing.com/security/generative-ai-adds-new-dimensions-to-election-interference?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/generative-ai-adds-new-dimensions-to-election-interference?_amp=true"
+  - title: "In Inclusive Hiring, Emotional Intelligence Wins Over Artificial Intelligence"
+    excerpt: "Maybe in the future, there will be a mature AI solution that can handle the complex job of seeking out and assessing the optimal leader for a specific nuanced culture and point in time—but not yet."
+    publishedDateTime: 2023-05-23T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/05/23/in-inclusive-hiring-emotional-intelligence-wins-over-artificial-intelligence/"
     type: article
     provider:
-      name: Governing
-      domain: governing.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 64
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/2cfba84/2147483647/strip/true/crop/1679x875+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa6%2F8d%2F75d7c3b64a09b15bf3759f57b52d%2Fus-news-senate-ai-regulation-get.jpg"
-        width: 840
-        height: 438
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64638bb4c969f754de257b7e/0x0.jpg?format=jpg&crop=5306,2983,x1647,y0,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Looking into possible impact of Artificial Intelligence"
-    excerpt: "We talk about the potential of AI and threats it may pose with Aboitiz Data Innovation's David Hardoon. Artificial Intelligence has become a topic of controversy with even the so-called \"Godfather of AI\" Geoffrey Hinton expressing worries over how smart ..."
-    publishedDateTime: 2023-05-22T23:47:00Z
-    webUrl: "https://www.cnnphilippines.com/videos/2023/5/22/Looking-into-possible-impact-of-Artificial-Intelligence.html"
-    type: article
-    provider:
-      name: cnnphilippines
-      domain: cnnphilippines.com
-    quality: 17
 
 secured: "SjYFc4uqCRnjN0XGBJT6pPqCrZ/LQb8xZP6DRsXjmRX1KhTIuGtJhXltDRw/MENOgT05pRCA2nnkVDC519+Q/fFlIrwmyslthQ23Cvfo5RtTSG9riKEGgco3P6N9yaVR97+yqr3r9QIwoFj1YjWZjbGhTHBoBRrVQr/WlqCjHPc+lD9DEZhQTYtIetehkzk2VRPbkFxVs91DWhzTh0Xr2uotaPp2zqEb86KsQIQ2YV8ZDPgTh8ipIv0fH2Zy47KTct53EZrQ/htmr2MQUeae/xAT8CRJrFYWImKftEYakVrNJG2UVJdFgHKTCjJFM+z/hODsZa4d4iAUBtDly3UOwDQ8RhXxYbt032qdahA8YNU=;BwfFB95EjJ1qnmkcgHbybQ=="
 ---

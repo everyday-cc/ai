@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/boston-generative-ai-policy/"
 webUrl: "https://www.wired.com/story/boston-generative-ai-policy/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Wired
@@ -29,191 +29,38 @@ images:
     isCached: true
 
 related:
-  - title: "Apple is on the hunt for generative AI talent"
-    excerpt: "Apple currently has a dozen of job postings on its career page to look for experts in the field of generative AI."
-    publishedDateTime: 2023-05-19T16:23:00Z
-    webUrl: "https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/"
-    ampWebUrl: "https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/apple-generative-ai-jobs/amp/"
+  - title: "Generative AI Adds New Dimensions to Election Interference"
+    excerpt: "Election administrators are still digging out from the mountains of misinformation from the 2020 election cycle. Bad actors are using AI to ramp up for the next one. Can AI help level the playing field for the good guys?"
+    publishedDateTime: 2023-05-19T05:40:00Z
+    webUrl: "https://www.governing.com/security/generative-ai-adds-new-dimensions-to-election-interference"
+    ampWebUrl: "https://www.governing.com/security/generative-ai-adds-new-dimensions-to-election-interference?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/generative-ai-adds-new-dimensions-to-election-interference?_amp=true"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1247232650.jpg?resize=1200,700"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "6 Predictions On How Apple Will Join The AI Business Race"
-    excerpt: "Apple hasn’t yet made its big AI move. Here are 6 predictions on what they will do, and how each might affect your business."
-    publishedDateTime: 2023-05-22T07:30:00Z
-    webUrl: "https://www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/"
-    ampWebUrl: "https://www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646b115dc42fa4e32d4bd1e7/0x0.jpg?format=jpg&crop=3290,1850,x0,y52,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How generative AI’s impact on digital advertising methodology is evolving"
-    excerpt: "Despite issues around brand safety, intellectual property and security, generative AI tools for brands and advertisers are here to stay."
-    publishedDateTime: 2023-05-21T16:10:00Z
-    webUrl: "https://venturebeat.com/ai/how-generative-ais-impact-on-digital-advertising-methodology-is-evolving/"
-    ampWebUrl: "https://venturebeat.com/ai/how-generative-ais-impact-on-digital-advertising-methodology-is-evolving/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-generative-ais-impact-on-digital-advertising-methodology-is-evolving/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/annevb_a_robot_creating_digital_advertising._Colorful_futuristi_61ae1c6e-6949-4ee2-abcc-91b87d5c6f19.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Apple is apparently doubling down on machine learning, generative AI efforts: All we know so far"
-    excerpt: "While Apple did not announce any major AI-related initiative in its recent earnings report, the company however did highlight the importance of AI in its future plans."
-    publishedDateTime: 2023-05-22T06:10:00Z
-    webUrl: "https://www.financialexpress.com/life/technology-apple-is-apparently-doubling-down-on-machine-learning-generative-ai-efforts-all-we-know-so-far-3096934/"
-    ampWebUrl: "https://www.financialexpress.com/life/technology-apple-is-apparently-doubling-down-on-machine-learning-generative-ai-efforts-all-we-know-so-far-3096934/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-apple-is-apparently-doubling-down-on-machine-learning-generative-ai-efforts-all-we-know-so-far-3096934/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 61
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/apple-resized-2.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "‘Generative AI can be seen; it’s more cool than traditional AI’"
-    excerpt: "Generative AI and transformers (that help predict the next word or a sentence, and even a para) were not invented to perform physical stuff. They were invented to understand languages better. Images and videos are only a by-product of that."
-    publishedDateTime: 2023-05-20T05:56:00Z
-    webUrl: "https://www.livemint.com/news/india/generative-ai-can-be-seen-it-s-more-cool-than-traditional-ai-11684520744847.html"
-    ampWebUrl: "https://www.livemint.com/news/india/generative-ai-can-be-seen-it-s-more-cool-than-traditional-ai/amp-11684520744847.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/generative-ai-can-be-seen-it-s-more-cool-than-traditional-ai/amp-11684520744847.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
+      name: Governing
+      domain: governing.com
     quality: 59
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/05/19/600x338/Global-chief-technology-officer-of-Evalueserve--Ri_1684520740797.png"
-        width: 600
-        height: 338
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/2cfba84/2147483647/strip/true/crop/1679x875+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa6%2F8d%2F75d7c3b64a09b15bf3759f57b52d%2Fus-news-senate-ai-regulation-get.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "Study combines quantum computing and generative AI for drug discovery"
-    excerpt: "Insilico Medicine, a clinical stage generative artificial intelligence (AI)-driven drug discovery company, today announced that it combined two rapidly developing technologies, quantum computing and generative AI,"
-    publishedDateTime: 2023-05-19T13:54:00Z
-    webUrl: "https://phys.org/news/2023-05-combines-quantum-generative-ai-drug.html"
-    ampWebUrl: "https://phys.org/news/2023-05-combines-quantum-generative-ai-drug.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-combines-quantum-generative-ai-drug.amp"
+  - title: "UMass Boston using $5M donation to create AI Institute"
+    excerpt: "Anyone with a product idea can now build apps using AI, and we are going to teach that to all the students at UMass Boston,\" tells English. Students will also talk about the ethics and application of AI. English believes there are some people out there who ..."
+    publishedDateTime: 2023-05-18T23:09:00Z
+    webUrl: "https://www.cbsnews.com/boston/news/umass-boston-artificial-intelligence-ai/"
+    ampWebUrl: "https://www.cbsnews.com/amp/boston/news/umass-boston-artificial-intelligence-ai/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/umass-boston-artificial-intelligence-ai/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/insilico-medicine-led-1.jpg"
-        width: 2500
-        height: 1313
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/18/e8d681bf-f2a2-42b2-872e-0af634b4570f/thumbnail/1200x630/54ff6db104e94c6e70fa4ffdd6c4f18e/cold-umass-boston-ai-donation-frame-3.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "PaLM2 by Google for generative AI is new tool from creativity and innovation"
-    excerpt: "PaLM2 is a new large language model (LLM) from Google AI. It is trained on a massive dataset of text and code, and can generate text, translate languages, write different kinds of creative content,"
-    publishedDateTime: 2023-05-22T09:39:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 56
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2017/01/Untitled-6.jpg"
-        width: 414
-        height: 364
-        isCached: true
-  - title: "Generative AI For Business Leaders 101"
-    excerpt: "AI stands for \"artificial intelligence,\" which is the simulation of human intelligence in machines to perform tasks that typically require human intelligence, such as decision making, perception and language translation. AI is powered by various techniques ..."
-    publishedDateTime: 2023-05-19T14:05:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/generative-ai-for-business-leaders-101/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Rebooting Tech Talent In The Race For AI"
-    excerpt: "Developers using AI tools like CodeGPT, Bugasura, GitHub, Repli - while designers use PiggyAI, Galileo, Viesus to upskill and be a growth accelerator in their next gig."
-    publishedDateTime: 2023-05-18T18:28:00Z
-    webUrl: "https://www.forbes.com/sites/deandebiase/2023/05/18/rebooting-tech-talent-in-the-race-for-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Fear the fire or harness the flame: The future of generative AI"
-    excerpt: "AI may be more advanced than we think. We must harness its benefits while mitigating the dangers through standards and common sense."
-    publishedDateTime: 2023-05-20T13:39:00Z
-    webUrl: "https://venturebeat.com/ai/fear-the-fire-or-harness-the-flame-the-future-of-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "What does generative AI mean for health care? We asked the experts"
-    excerpt: "But many researchers in the field strike a much more optimistic tone when it comes to the technology and its potential in health care. Thomas Fuchs, who chairs the Department of Artificial Intelligence and Human Health at Mount Sinai in New York ..."
-    publishedDateTime: 2023-05-23T08:33:00Z
-    webUrl: "https://www.statnews.com/2023/05/23/chatgpt-generative-ai-research-medicine-health/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 41
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2023/05/stat_ai_YouShouldKnow_2000x1125-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "State of AI adoption for enterprise IT management in the Middle East"
-    excerpt: "With large language models (LLMs) in the market, the AI hype cycle is at an all-time high, and AI adoption is gaining traction."
-    publishedDateTime: 2023-05-19T11:30:00Z
-    webUrl: "https://gulfbusiness.com/state-of-ai-adoption-in-the-middle-east/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 39
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/05/digitization-4770296_1920.jpg"
-        width: 930
-        height: 620
-        isCached: true
-  - title: "Apple Ramps Up Hiring of Generative AI Experts"
-    excerpt: "Apple is hiring for at least a dozen new experts in generative artificial intelligence amid rumors that the company is stepping up its work on AI."
-    publishedDateTime: 2023-05-22T12:51:00Z
-    webUrl: "https://www.macrumors.com/2023/05/22/apple-ramps-up-hiring-of-ai-experts/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 17
-  - title: "TCS announces generative AI pact with Google Cloud, new offering for enterprises"
-    excerpt: "Tata Consultancy Services TCS on Monday announced an expanded partnership with Google Cloud and the launch of its new offering -- TCS Generative AI which leve"
-    publishedDateTime: 2023-05-22T13:20:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273838959/tcs-announces-generative-ai-pact-with-google-cloud-new-offering-for-enterprises"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 14
 
 secured: "i69WLdjaVtjEZGMFmxQzZL57/wH2vhfl+6Xglhjrfb+YPMlI/hlXnfc9rY187p27kAuhg8FPlQI7NUiTi+3BAy1h4YWRPP/lEy9XvoSXa5X9GgZkP0E6PdGuYXYP0G1Axb5vAFIWKwHD/WeS2zrETPxxZmufSRteemAetPhjyCarIanWgdjWiENLF/qIFQNq/1E0NZCVXrFMgO0XfbCUZcJWFVaxTzp4u26kwOgJYccwB4WT2DDp4IfzZrf4Xl0AZYkq069GpAR7Yjl1xAiLHfLNZcj0OBbDWz2Mz2h100YCAAMm3xTV1NNipToIClXFkWPvBsHARxH3e4SLZ4imcvof1ejnnD4ay5Q7NbFzrodkchh7OHcwClj3fjzbiVl0Rd6sO63couh/k1VwpliZ9rFV0IqBzKW/biXHhCbT3fYMcVNKEL4QjFjphmj7HaSplkuAKozdFc77wRN1RYHuuRTOlzKQMPyWtT8ycvMbXbVBYwy/ucxRCFhTtcZ/x6I4pmQXQ41RI+vmyKM5HDAtiQ==;W3gHb8CuVlzzTTM99u7C+w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/news/pecan-ai-broadens-platform-and-fast-
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/pecan-ai-broadens-platform-and-fast-predictive-modeling-for-all-data-professionals/amp/"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1500
     height: 844
     isCached: true
-
-related:
-  - title: "Pecan AI Opens Platform and Fast Predictive Modeling for All Data Professionals"
-    excerpt: "Data analysts and other data professionals can dive right in and quickly build their own predictive models without the assistance of data scientists — a critical step toward making data science available for all business teams."
-    publishedDateTime: 2023-05-18T18:25:00Z
-    webUrl: "https://www.datanami.com/this-just-in/pecan-ai-opens-platform-and-fast-predictive-modeling-for-all-data-professionals/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 15
 
 secured: "c3/i7z+n7i3tzxQTzarQyqNEMTAcJrFCw/sfklJd0zhjlL1J9RFTSptkbyVlqHhxaMwcEC35fcXuxNMvGmezHClEO9oZ22QKBTc3FkS25RlgbAsyQVBsB9R4JwZJKTsl4640s5sYdHAaKYSpH2PVEi3+qmsbtl+ys74DxbRzuLqshTOm55EdSjXR/8Gfx5+N0FsG49Ub1gWmOUnhoCxHjYPzfDkPzKrinEvS5gdQLF4htscwstVwsZK8zMvoTw53JuLraF80FiBwyWZUe62lgehACeUxslNgVRNpmBGJwYv36Ave4uYC0LIX2lzNCqkv5lydEv5ENCGwf/RJbOWJjcsnpfQDvrdBl++IcUgG8jfaGY4yB0zJg0roZBYQ20STEL80HKdSZUPnHCfpT1tclKGKDcWJ3EojDFkJ1lfrZTvnG7MxRb+WTaAgbdaU6R2kMF5z2hBPJ5rfzF7CfEaGrEk76r46NQXG8pZ6RVw4SJtZQDCM3GwMOYEO/sSPNyjjvJGS1OYUCDvFsFw+sSq8pQ==;zDBYdgLNMmM5OYP9Z3FDfQ=="
 ---

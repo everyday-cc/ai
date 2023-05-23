@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Savvas Learning Company's enVision K-12 Series Receives Gold Stevie Award"
-excerpt: "Savvas Learning Company, a K-12 next-generation learning solutions leader, is proud to announce that its enVision Mathematics K-12 series © 2024 has received a Gold Stevie Award in the 21st annual American Business Awards program,"
-publishedDateTime: 2023-05-22T17:36:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/22/9818621.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/22/9818621.htm"
+excerpt: "The highly-effective enVision math series earned top honors in the award program's \"Mathematics Instructional Solution\" category, which recognizes the best math materials that provide deep learning experiences for students, support standards alignment ..."
+publishedDateTime: 2023-05-22T17:38:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/savvas-learning-company-s-envision-k-12-series-receives-gold-stevie-award-1032343371"
+webUrl: "https://markets.businessinsider.com/news/stocks/savvas-learning-company-s-envision-k-12-series-receives-gold-stevie-award-1032343371"
 type: article
-quality: 3
-heat: 3
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-secured: "oRGmyRQ4QQy6UwIhnAe0rrehvKU4cm8EpGByEU2f/3qumb9HDCJb1QT6CW4y4hsGsrCWv8CjDPe9JHuyxcFNrFKegVUQZnfGydYzQMb7Sk+2MRC1F4PBjAAuyWuJOL5UGI/7qC6dF0jAmpXj1rSDtWak5zHGvmZ+DB4XHp4Vl+EHM/6mK8GTHAfbpB52APTnB9V1jTZbV35mExlMERvM4BsRIQ3yhGBtx3f0vCvKk6LVed2iL2+NU5PRbHOYAFYS6ZVGo0utfIJ8fCAijzt/4fr+eD7IEdqpBGOVct5kq2/pgiicdJoykP8/zdD0W3BAHztLxgqMFaKD2aRrmwFo4+kH8/JFWRT9vNl3wLWVOzo=;gIC7aj+kyUduQc/P5LWbXA=="
+secured: "s49sKuZULW8PC+VwekdAcYYhBvPjhTw//ye9uyw/xyCOZgc4phE8w9+NW3i7jl1E0L6xX0lGubKUparh0JRWxKIr8tPgrik94SXc0ZX6LUmsEWVVrKcQ7Shp0lzwzYq/NpP1QZhwxyK6c44aVAWkTM17F//KFYFaY/tVQYZAYOLvnUr0tmBM2TRieV+/LZhTeQfN3EdXyzeMUm2zb2ycHsPBH5ilA/76WJDsq9zS76R/ci112smg005kenA2CWdH0fFKGQXWD1JPAYkhRSTuYwqDyQ1H7dIQHB9HzJhlU5gDjX4DAqMSzpkc672l1sZ5yZTI007PquJaBCKHCUFCDtG7nYsUHhcVRMT8+xLtPfI=;puNgWz+PATbYgI0YkjScxw=="
 ---
 

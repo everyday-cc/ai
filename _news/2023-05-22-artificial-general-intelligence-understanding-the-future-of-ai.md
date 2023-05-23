@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-22T13:48:00Z
 originalUrl: "https://interestingengineering.com/innovation/artificial-general-intelligence-understanding-future-ai"
 webUrl: "https://interestingengineering.com/innovation/artificial-general-intelligence-understanding-future-ai"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/14/image/jpeg/B2Q8idGkZUlSMYKAUGMZkDx4mJ533yB9NsRlACRK.jpg"
@@ -35,6 +36,6 @@ related:
       domain: forbes.com
     quality: 64
 
-secured: "9ERYJT50b4YwPbk+5RhTWiM5IngoIabQ1TgWGkOwqox2fjyo537BuA39UOrZ9u1kI9GKPJvf3jKxAk1HEhWSjViVBX36Lghqu/aOmNDlC0uac7AiOH90sHoZ+MVtnLlG0CoGTCLMTBhvpzTsq1D5XMYRysc70runxUIre4pwbgU2HFelbNCdLyNSEVNhg+v+JW0+l1T8V5KvrxDSV0Si4s5+4XmlMBgT2kaEqI+xIpJSY1yXqourvvVT59toPbO3kR1rsproC/LxUVTg4BbbxCVcVtSwmD4hwj3YI5Mgw/3Jeq/jaMrzcoj9LQuFOQByMXBDOXAL3Y7wLiyACp3xTreAl/74kViUfVzFCV+3phk=;gAPdptGJeE07bk1Ju22Yag=="
+secured: "rrq24VVVsLpioIwASCKJFs4TLLRh1IP8QwNwAZITeQMkHH5F+ILtdPzAfOyMfgFj3ZVRnA8hqd2L4LbQ10WitfDlWLb3vDflk6HkysFn4EAJP3XrEH+A0luU4CLjsTryuuuXBsvRA4mTP1H4p81NHUxD/UZGbuA+afHxEWilBORbCHECasu3Jh2wsLjenqO/qxlbNp1Bp5hrqmX2Q+ZFX4xNZPrum0idMI8/PbQRPmNlIRu5CtbM2Z38mt3sS4F/rsxR3JlhyIUQLjr3R3PptshkT9o+UmH1OGQyEv+bFj/JL4ZEvS62hQYZkT7LJwDZMCT3+nFVg55jDB3ilazpb6XX437t3cmh2GDLHMuSkVrxzNJvK5zPPASfPsoZj7by4KW+Fe/gPz/l2MK+xlVZ7DfG/jI5BIU8OvcHDqnzMy62/txLHjvbqH1Prm4WTi5UnnwoiZKDHQfFyEuzoTqgRrqntk1BO4/Zg+UKQpdbcuA+6c5K2OdD3Z1GKTRd7D2uuO8iTEVfh5HPqWD8MVlelg==;q8/YZtyo4BXJN9KLigdANA=="
 ---
 

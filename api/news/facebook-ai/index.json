@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-23-how-ganai-builds-the-face-that-launches-a-million-videos.md",
+      "title": "How Gan.Ai Builds The Face That Launches A Million Videos",
+      "excerpt": "Generative AI specialist Gan.ai has raised $5.25 million of seed finance as it looks to build on the early success of its technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidprosser/2023/05/23/how-ganai-builds-the-face-that-launches-a-million-videos/",
+      "originalUrl": "https://www.forbes.com/sites/davidprosser/2023/05/23/how-ganai-builds-the-face-that-launches-a-million-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646bacd05834b297f85f411d/0x0.jpg?format=jpg&crop=6141,2876,x3,y338,safe&width=1200",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2023/05/23/how-ganai-builds-the-face-that-launches-a-million-videos/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/05/23/how-ganai-builds-the-face-that-launches-a-million-videos/amp/",
+      "publishedDateTime": "2023-05-23T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-ai-to-protect-french-open-players-against-cyber-bullying.md",
+      "title": "AI to protect French Open players against cyber bullying",
+      "excerpt": "The players’ Facebook, Instagram, Twitter, YouTube, TikTok and Discord social media platforms will be monitored. Players must scan the QR provided by Bodyguard to connect their social media accounts to the system. AI is used to moderate the comments in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/KA3WwqdzB4k7rydZ",
+      "originalUrl": "https://www.itweb.co.za/content/KA3WwqdzB4k7rydZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2023/05/Roland-Garros-2023.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/KA3WwqdzB4k7rydZ",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3WwqdzB4k7rydZ",
+      "publishedDateTime": "2023-05-23T02:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-meta-introduces-speech-ai-models-to-identify-over-4000-spoken-languages.md",
       "title": "Meta introduces speech AI models to identify over 4000 spoken languages",
       "excerpt": "Facebook and Instagram's owner, Meta, has announced series of artificial intelligence (AI) models that can identify more than 4,000 spoken languages, 40 times more",
@@ -105,7 +200,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 196,
       "tags": null,
       "images": [
         {
@@ -1356,111 +1451,6 @@
         "Facebook AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-tfds-for-jax-and-pytorch.md",
-      "title": "TFDS for Jax and PyTorch",
-      "excerpt": "TFDS has always been framework-agnostic. For instance, you can easily load datasets in NumPy format for usage in Jax and PyTorch. TensorFlow and its data loading solution (tf.data) are first-class citizens in our API by design. We extended TFDS to support ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/datasets/tfless_tfds",
-      "originalUrl": "https://www.tensorflow.org/datasets/tfless_tfds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-2-artificial-intelligence-growth-stocks-smart-investors-are-buying-hand-over-fist.md",
-      "title": "2 Artificial Intelligence Growth Stocks Smart Investors Are Buying Hand Over Fist",
-      "excerpt": "Its software leans on artificial intelligence (AI ... Trade Desk is well positioned to maintain its momentum. Grand View Research predicts the ad tech market's revenues will increase at an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/04/27/2-ai-growth-stocks-smart-investors-are-buying/",
-      "originalUrl": "https://www.fool.com/investing/2023/04/27/2-ai-growth-stocks-smart-investors-are-buying/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/729264/artificial-intelligence-1.jpg",
-          "width": 2070,
-          "height": 1449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

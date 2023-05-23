@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Wendy’s testing underground robot system for orders"
-    excerpt: "Much like a bank drive-up, Wendy’s patrons may soon have their orders sent to them through an underground tube."
-    publishedDateTime: 2023-05-18T18:05:00Z
-    webUrl: "https://thehill.com/changing-america/resilience/smart-cities/4010756-wendys-testing-underground-robot-system-for-orders/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 19
   - title: "Wendy's to test an underground robot delivery system"
     excerpt: "Air suction isn't what propels Pipedream's conveyances. For a comparison on that, think of the hyperloop concept that Elon Musk has embraced for his autonomous vehicles."
     publishedDateTime: 2023-05-19T15:25:00Z

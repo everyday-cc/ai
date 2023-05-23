@@ -25,17 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Chiefs Debate the Future of UK’s Digital Economy in Parliament"
-    excerpt: "Fintech industry leaders warned of the risks posed by AI and ChatGPT last night as well as discussing the role automation and digital skills will play in driving economic growth. Speaking at the Parliament Street think tank’s Digital Economy summit on Monday night,"
-    publishedDateTime: 2023-05-23T09:39:00Z
-    webUrl: "https://financialit.net/news/fintech-startups/fintech-chiefs-debate-future-uks-digital-economy-parliament"
+  - title: "Fintech chiefs debate the future of UK’s digital economy in Parliament"
+    excerpt: "Fintech industry leaders warned of the risks posed by AI and ChatGPT last night as well as discussing the role automation and digital skills will play in the driving economic growth.   Speaking at the Parliament Street think tank’s Digital Economy summit on Monday night,"
+    publishedDateTime: 2023-05-23T09:28:00Z
+    webUrl: "https://techbullion.com/fintech-chiefs-debate-the-future-of-uks-digital-economy-in-parliament/"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
+      name: Impacts
+      domain: techbullion.com
     quality: 24
     images:
-      - url: "https://financialit.net/sites/default/files/image001_77.jpg"
+      - url: "https://techbullion.com/wp-content/uploads/2023/05/image001-1-2.jpg"
         width: 752
         height: 423
         isCached: true

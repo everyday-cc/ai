@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/sport/2023/may/22/french-open-organisers
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2023/may/22/french-open-organisers-to-offer-players-ai-protection-against-online-abuse-tennis"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI to protect French Open players against cyber bullying"
+    excerpt: "The players’ Facebook, Instagram, Twitter, YouTube, TikTok and Discord social media platforms will be monitored. Players must scan the QR provided by Bodyguard to connect their social media accounts to the system. AI is used to moderate the comments in ..."
+    publishedDateTime: 2023-05-23T09:59:00Z
+    webUrl: "https://www.itweb.co.za/content/KA3WwqdzB4k7rydZ"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/KA3WwqdzB4k7rydZ"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3WwqdzB4k7rydZ"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/05/Roland-Garros-2023.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "French Open to provide anti-hate social media AI for tennis players"
     excerpt: "Tennis stars will be provided with artificial intelligence software that can filter out racist and homophobic comments and other hate speech on social media throughout the French Open, tournament officials said Monday."
     publishedDateTime: 2023-05-22T13:24:00Z

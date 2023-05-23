@@ -33,6 +33,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Europe’s scramble to tame artificial intelligence: podcast"
+    excerpt: "Brussels is a step closer to unveiling regulation for the controversial technology. Dragoș Tudorache, a legislator in the European Parliament, helped write the law. In this Exchange podcast, he argues that the rules focus on the biggest risks while leaving room for innovation."
+    publishedDateTime: 2023-05-23T09:48:00Z
+    webUrl: "https://www.reuters.com/breakingviews/europes-scramble-tame-artificial-intelligence-podcast-2023-05-23/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/_Py_kA5Ubu2IZXEOcXJDfB5m7YY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KNQN4SSDJJM63BFM73UWTDV2GM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "/2cymQ8wEjTeFzszqyteFkuLhAC54Ir74rrp29QFDxeEl40IQt9Dben/fF2trtD8fX95YTZURrTaXPq0MYM9pLQmW+KkiOo9xIB32ZHgl526I25vBhX3vCy5YDPr9BKHawcoNoffmOPRjjKKyeZcSrTBs4doYBqmK/H4R0dbwTjnPOIbFQgsPicJK8PSVLEIpgyh+xl3dydS7Nm6uLFQcbTtjeHtb5KQZuXgfnT1pYXcQI7qfCRtN0lWcIxpvNq/FtErwVlwNw8bj62hBcKBqmafwCrD6UEMl2njgQBWtt6ihHluP7Vy1j1lgrr795ndkTfw/DMJrBkpmYOTakw19H0BgtpjI/d8mMAustW9mGM=;Ukx+ui5nVh+XG/f17ZMY3g=="
 ---

@@ -41,6 +41,47 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Apple is apparently doubling down on machine learning, generative AI efforts: All we know so far"
+    excerpt: "While Apple did not announce any major AI-related initiative in its recent earnings report, the company however did highlight the importance of AI in its future plans."
+    publishedDateTime: 2023-05-22T06:10:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-apple-is-apparently-doubling-down-on-machine-learning-generative-ai-efforts-all-we-know-so-far-3096934/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology-apple-is-apparently-doubling-down-on-machine-learning-generative-ai-efforts-all-we-know-so-far-3096934/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-apple-is-apparently-doubling-down-on-machine-learning-generative-ai-efforts-all-we-know-so-far-3096934/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 61
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/apple-resized-2.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Governments race to regulate artificial intelligence tools"
+    excerpt: "EU lawmakers have reached a preliminary deal that could pave the way for the world’s first laws governing the new tech."
+    publishedDateTime: 2023-05-23T11:24:00Z
+    webUrl: "https://www.aljazeera.com/news/2023/5/23/governments-race-to-regulate-artificial-intelligence-tools"
+    ampWebUrl: "https://www.aljazeera.com/amp/news/2023/5/23/governments-race-to-regulate-artificial-intelligence-tools"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2023/5/23/governments-race-to-regulate-artificial-intelligence-tools"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 57
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2023/03/2023-03-22T214958Z_1139044039_RC2R3Z9ARM44_RTRMADP_3_OPENAI-BUG.jpg?resize=1920%2C1440"
+        width: 1920
+        height: 1440
+        isCached: true
+  - title: "Apple Ramps Up Hiring of Generative AI Experts"
+    excerpt: "Apple is hiring for at least a dozen new experts in generative artificial intelligence amid rumors that the company is stepping up its work on AI."
+    publishedDateTime: 2023-05-22T12:51:00Z
+    webUrl: "https://www.macrumors.com/2023/05/22/apple-ramps-up-hiring-of-ai-experts/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 17
 
 secured: "FvtU9ylylLP3vieffHGF29LdgIrfXRrmoljy4WGObAFa8IgXO6Uvs7NVQBIIeC/GhrssnAeyCNmIPQdtrvEHi7ljsBaosTvzieMkJeerw6IfpLABk5RBcPqatfxYxQ8EBOlDJkCEQtMlDJXmX/LEFv3XmHqp45JySDvC7g9z5EuY8nVYSKHWbWjoEKjWMwaFliUNWj+nvR0UgMafFPw9baQrGpX0tkOOxbUJgUMf2L1oq64VDM1WMkdS2dFq0P3zBoHKqwR3sdljDlJvfu2NjRRdKbMdEPBPdnmNGE76c1E6SYaKVkEUcHFBH/Jlt6QUxBIJW4qOMn56zgB5ihENJXnu88J95dutEmZOjEEPulM=;rM+pmsZFZmyAUWcGty3JXA=="
 ---

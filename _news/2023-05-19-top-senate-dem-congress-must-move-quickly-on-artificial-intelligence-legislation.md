@@ -7,7 +7,7 @@ originalUrl: "https://www.chron.com/business/article/top-senate-dem-congress-mus
 webUrl: "https://www.chron.com/business/article/top-senate-dem-congress-must-move-quickly-on-18106841.php"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 2048
     height: 1365
     isCached: true
-
-related:
-  - title: "Top Senate official warns Congress to 'move quickly' on artificial intelligence legislation"
-    excerpt: "Senate Majority Leader warns Congress that they “must move quickly\" to regulate artificial intelligence. They have convened a bipartisan group of senators to work on legislation."
-    publishedDateTime: 2023-05-18T19:00:00Z
-    webUrl: "https://www.foxnews.com/us/top-senate-official-warns-congress-move-quickly-artificial-intelligence-legislation"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 37
 
 secured: "uh2e8Pu3S6pFGX9ZqAwoYgoiXCBI8IArarpc9r/Qyb1QETBN17pb7C6hgcbkMy9teliHsKCUg1k+qWidnfsMYcxSbE6ybQ2LN4zeg/uW5eUGpDgXfnVYHkr5C2btqMg6bvDZoCuF1QhFyF6M51lYSP+fTWw0UjDvJY27RSwKa36nkHxes2by+z47DXWd0D0E/P9AzqDxMWYUAeqVXiXatNixdwxjVVSOsWBCuSncpwfBlRi4VhigzdX/uPU47P0V53W0LXQTEPTL4MmuSYbDK+CN0j6EMlRDTQeyemSPjaMClSkNPW9t66eM74JIUCRyC8wGr+g1EqGhmWBDkcV1v6/HELF3YFPybgmJazCaez9+DHDpKwy9gyjXk+YXiE1R1NlBR/FtEeoxWKZV1OPLjI4+ALq+wGIJTNeQQZ/MDyygG7ekChwTLLbEuZv9Emd3F+R2fRQfjWZHuX4YIq8bJKMayhaikjtJFK9JtHdHCvdDWXvIKT1F4eydxaXdVgFKd3udnnlSo1zg3/dZI8gO+A==;HeopkjhzBTj7Fu+IXx1uOQ=="
 ---

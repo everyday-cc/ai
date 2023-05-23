@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/19/uk-court-tosses-class-action-style
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/amp/"
 type: article
 quality: 98
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "UK plans meeting on risks with bosses of OpenAI, DeepMind"
-    excerpt: "The summit will be convened as soon as this month, with invitations likely for OpenAI chief Sam Altman and the leaders of Alphabet Inc.'s DeepMind and Anthropic, the people said. Sunak could be among officials in attendance,"
-    publishedDateTime: 2023-05-18T18:51:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/international/business/uk-plans-meeting-on-risks-with-bosses-of-openai-deepmind/articleshow/100338441.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 34
 
 secured: "Z+yUSwwkxyph9xarSaVpOubpzJhLULpMaUZdu3BY8Rid9Nw/fKJwZmULoJXQXhIF6BzcLwv8AF4J+YSu6cLtOZJ6kGeCdv9EpH5x/41KXZRxgT44gfrqeQUKs1/9PkKjfjBig65mu86XtQbXtGDF/BULtSQE35HXfmKmVHF5S5AvE4MyEScjtkP3ltnJfBOjCT+b8KuaFN0wuA1fFbT5qGpe4lRkmR+nf5XXLZT44eyRzfd4WVYKW2e55kNfyQOfRiohNE4MK5B4TT2aiuDN1SDgMjdUTjvV7HEe87pzGzgmFnEU/ZJm7V4e0MtbcJNYIUxxzbe2hZfqWwDOB7WW1jQFnADb6qc4a8TZ39HZ7y0=;N3I+00NBrsBwFK+wONoFHw=="
 ---

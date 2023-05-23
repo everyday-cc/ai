@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-23T08:10:00Z
 originalUrl: "https://technode.com/2023/05/23/self-driving-car-startup-haomo-ai-unveils-12767-delivery-robot/"
 webUrl: "https://technode.com/2023/05/23/self-driving-car-startup-haomo-ai-unveils-12767-delivery-robot/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"

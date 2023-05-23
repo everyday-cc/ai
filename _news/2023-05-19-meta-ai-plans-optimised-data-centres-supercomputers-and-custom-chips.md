@@ -103,17 +103,6 @@ related:
         width: 1792
         height: 1024
         isCached: true
-  - title: "Meta’s pricey bet on AI comes with new custom chips, coder tools"
-    excerpt: "There's one area at Meta that's seeing record spending: an update of the social media giant's infrastructure to keep pace in the artificial intelligence arms race."
-    publishedDateTime: 2023-05-18T18:10:00Z
-    webUrl: "https://www.seattletimes.com/business/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools/?n=%5CL"
-    ampWebUrl: "https://www.seattletimes.com/business/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 56
   - title: "Meta Unveils AI Chips"
     excerpt: "Meta (NASDAQ:META) has built custom computer chips to help with its artificial intelligence and video-processing tasks and is talking about them in public for the first time. The social networking giant disclosed its internal silicon chip projects"
     publishedDateTime: 2023-05-19T13:58:00Z

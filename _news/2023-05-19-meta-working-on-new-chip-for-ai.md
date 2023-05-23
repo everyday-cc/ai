@@ -99,17 +99,6 @@ related:
         width: 1792
         height: 1024
         isCached: true
-  - title: "Meta’s pricey bet on AI comes with new custom chips, coder tools"
-    excerpt: "There's one area at Meta that's seeing record spending: an update of the social media giant's infrastructure to keep pace in the artificial intelligence arms race."
-    publishedDateTime: 2023-05-18T18:10:00Z
-    webUrl: "https://www.seattletimes.com/business/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools/?n=%5CL"
-    ampWebUrl: "https://www.seattletimes.com/business/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/metas-pricey-bet-on-ai-comes-with-new-custom-chips-coder-tools/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 56
   - title: "Meta AI plans: Optimised data centres, supercomputers and custom chips"
     excerpt: "The RSC was unveiled in 2021. Meta has shared details of ambitious plans for AI advancements, including a custom chip for running AI models, further tweaks of a supercomputer for AI research and an AI-optimised data centre design. In a blogpost published ..."
     publishedDateTime: 2023-05-19T16:19:00Z

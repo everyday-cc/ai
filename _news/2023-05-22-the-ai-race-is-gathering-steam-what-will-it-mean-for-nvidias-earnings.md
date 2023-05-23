@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/05/22/the-ai-rac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/05/22/the-ai-race-is-gathering-steam-what-will-it-mean-for-nvidias-earnings/amp/"
 type: article
 quality: 88
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -91,6 +91,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Why Nvidia Stock Is THE Only Way to Play AI Right Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI is driving a wave of innovation worldwide. It empowers human creativity,"
+    publishedDateTime: 2023-05-23T11:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-nvidia-stock-is-the-only-way-to-play-ai-right-now-1032344955"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "9L/39G/MmAdY0+uFzKoFihdGeRDU38S//yxmpbwOwavpQ6xGDIvzlI9uCNX6W45bKCxnxkt+yOH8WSmO3az5xPpmd+HrcX09uEoJVGxW6Xoc+iuLTnnCUWby14v7jvtRP5UafoTpOxdLMcxAjDUc4awfqHQ73Q3Ji74kcGySJHBzFRR/vKX4T7CB4bBMZXNmamqMbF86D6qPD8b8FXWjtqFUdd9iUs+chixuyACH8LK60RklzicWeh/lnZW8243dkyko1VYNZ/fPVQDqRI3t14AN2qLSVkuc99twlA5EfyWbynPztCu0RlsiBLc/2haS3ncDybCrSocmGDajQ63rTrvQKo1NOJfuECc05NnYWE0=;lZGohsr++OwiEzppDXyj0w=="
 ---

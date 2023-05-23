@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-23-turning-hybrid-cloud-security-into-a-profit-center.md",
+      "title": "Turning hybrid cloud security into a profit center",
+      "excerpt": "As more enterprises move to hybrid cloud environments, hybrid cloud security has become imperative to business growth. According to a 2021 study by the IBM Institute for Business Value (IBV), 80% of executives expected their organizations to operate more than 10 distinct clouds by 2023, up from eight",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/turning-hybrid-cloud-security-into-a-profit-center/",
+      "originalUrl": "https://www.ibm.com/blog/turning-hybrid-cloud-security-into-a-profit-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/Turning-hybrid-cloud-security-into-a-profit-center.png",
+          "width": 6667,
+          "height": 3492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-05-22-how-to-use-vpn-with-a-vpc-hub-and-spoke-architecture.md",
       "title": "How to use VPN with a VPC hub-and-spoke architecture",
       "excerpt": "How to use a VPC VPN Gateway to connect an on-premises (enterprise) network to the IBM Cloud VPC in a transit hub-and-spoke architecture.\nThe post How to use VPN with a VPC hub-and-spoke architecture appeared first on IBM Blog.\n",
@@ -916,6 +968,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-11-ibm-watson-is-getting-an-ai-makeover-and-thats-bad-news-for-workers-everywhere.md",
+      "title": "IBM Watson is getting an AI makeover, and that's bad news for workers everywhere",
+      "excerpt": "It is also hoped that the Watson Code Assistant will be rolled ... with as many as 7,800 jobs at risk. IBM watsonx.ai and watsonx.data are expected to be generally available by July 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/ibm-watson-is-getting-an-ai-makeover-and-thats-bad-news-for-workers-everywhere",
+      "originalUrl": "https://www.techradar.com/news/ibm-watson-is-getting-an-ai-makeover-and-thats-bad-news-for-workers-everywhere",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/cvUbbQwxuHbLsEVEuaWGcL-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T18:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-seven-strategic-bets-to-capitalize-on-disruption-and-redefine-your-business.md",
       "title": "Seven strategic bets to capitalize on disruption and redefine your business",
       "excerpt": "The future belongs to those willing to transform their business with bold, informed bets. Based on today's top trends, here are seven business bets to make.\nThe post Seven strategic bets to capitalize on disruption and redefine your business appeared first on IBM Blog.\n",
@@ -1073,6 +1177,49 @@
       "provider": {
         "name": "Fox Business",
         "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-ibm-stressing-accuracy-of-responses-in-launch-of-upgraded-ai-offering.md",
+      "title": "IBM stressing accuracy of responses in launch of upgraded AI offering",
+      "excerpt": "IBM’s initial AI program Watson was created to beat humans at the gameshow “Jeopardy!,” but have now updated the AI offering. The new Watsonx program boasts an AI development studio that ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/3995674-ibm-stressing-accuracy-of-responses-in-launch-of-upgraded-ai-offering/",
+      "originalUrl": "https://thehill.com/policy/technology/3995674-ibm-stressing-accuracy-of-responses-in-launch-of-upgraded-ai-offering/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/05/AP20282510496271-e1683647978224.jpg?w=1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/3995674-ibm-stressing-accuracy-of-responses-in-launch-of-upgraded-ai-offering/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/3995674-ibm-stressing-accuracy-of-responses-in-launch-of-upgraded-ai-offering/",
+      "publishedDateTime": "2023-05-09T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1290,160 +1437,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-bring-light-to-the-black-box.md",
-      "title": "Bring light to the black box",
-      "excerpt": "Using AI can seem like a black box full of risks and challenges that keep businesses from adopting it. Here's how AI governance and trustworthy AI can help.\nThe post Bring light to the black box appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/bring-light-to-the-black-box/",
-      "originalUrl": "https://www.ibm.com/blog/bring-light-to-the-black-box/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/IBM_WatsonXGovernance_A03.l-e1683595201131.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-at-ibm-think-partners-are-front-and-center.md",
-      "title": "At IBM Think, partners are front and center",
-      "excerpt": "If you&#8217;ve followed IBM over the past few years, you know how critical the IBM Ecosystem is to our growth strategy. It&#8217;s why we gave partners access to the same training and enablement as IBMers last year, launched a new partner program in January, and continue investing in and growing the",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/at-ibm-think-partners-are-front-and-center/",
-      "originalUrl": "https://www.ibm.com/blog/at-ibm-think-partners-are-front-and-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/AdobeStock_93219397.lr_-630x330.jpeg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-ibm-unveils-new-watsonx-ai-and-data-platform.md",
-      "title": "IBM unveils new watsonx, AI and data platform",
-      "excerpt": "The new AI platform launch comes over a decade after IBM's software called Watson got attention for winning the game show Jeopardy. IBM at the time said Watson could “learn” and process human ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ibm-unveils-new-watsonx-ai-data-platform-2023-05-09/",
-      "originalUrl": "https://www.reuters.com/technology/ibm-unveils-new-watsonx-ai-data-platform-2023-05-09/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/g9v_1xdEnug8tuWS4CGWjADBJPk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IMXSROYHCZKDZB4FPIZK7DZJPM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

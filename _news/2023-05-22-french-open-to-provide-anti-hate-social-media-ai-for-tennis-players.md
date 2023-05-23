@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "AI to protect French Open players against cyber bullying"
+    excerpt: "The players’ Facebook, Instagram, Twitter, YouTube, TikTok and Discord social media platforms will be monitored. Players must scan the QR provided by Bodyguard to connect their social media accounts to the system. AI is used to moderate the comments in ..."
+    publishedDateTime: 2023-05-23T09:59:00Z
+    webUrl: "https://www.itweb.co.za/content/KA3WwqdzB4k7rydZ"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/KA3WwqdzB4k7rydZ"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3WwqdzB4k7rydZ"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/05/Roland-Garros-2023.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "French Open organisers to offer players AI protection against online abuse"
     excerpt: "French Open organisers are offering players at the tournament protection from social media abuse"
     publishedDateTime: 2023-05-22T10:12:00Z

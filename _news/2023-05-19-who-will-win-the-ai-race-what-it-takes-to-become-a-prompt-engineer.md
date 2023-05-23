@@ -7,7 +7,7 @@ originalUrl: "https://www.livemint.com/mint-top-newsletter/techtalk19052023.html
 webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk19052023.html"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,20 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "The AI Gold Rush Will Take Humanity to Some Dark Places"
-    excerpt: "Bad press and bad vibes are unlikely to deter Worldcoin’s backers amid an AI gold rush. Another Altman-backed startup, Humane, recently raised $100 million despite having neither product nor profit — it says it’s collaborating with OpenAI and will ..."
-    publishedDateTime: 2023-05-23T04:30:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/05/23/the-ai-gold-rush-will-take-humanity-to-some-dark-places/352a1018-f921-11ed-bafc-bf50205661da_story.html"
+  - title: "6 Predictions On How Apple Will Join The AI Business Race"
+    excerpt: "Apple hasn’t yet made its big AI move. Here are 6 predictions on what they will do, and how each might affect your business."
+    publishedDateTime: 2023-05-22T07:30:00Z
+    webUrl: "https://www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/"
+    ampWebUrl: "https://www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/amp/"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646b115dc42fa4e32d4bd1e7/0x0.jpg?format=jpg&crop=3290,1850,x0,y52,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Elon Musk Makes Bold AI Prediction That Will Delight Investors"
+    excerpt: "The best known is ChatGPT, developed by OpenAI, a startup in which software giant Microsoft ... The chatbot showed that AI has reached a point where robots can perform certain tasks much better than humans can. But beyond the search-engine industry ..."
+    publishedDateTime: 2023-05-22T13:48:00Z
+    webUrl: "https://www.thestreet.com/technology/elon-musk-makes-bold-ai-prediction-that-will-delight-investors"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 19
 
 secured: "VLalkqTZloojxEIiy/vbx8d18FcKY1/9E/EZr4flTI+WaVmeVj7wgZdALuTfoh84MYCrKdb/iT/tIzDPhjwC3nPxHT/68hPEL6Zeb3t2gtGlJmJ73abcuM6/tgrcln5RAJJSf4eOhpUJ1I7PA6gRTnIIkRSe1VoFN1dKcw3vF5MOWS4jvKRZwdfBUMuSZ7ENERvMERftxA5GqunKMVh7/SFNVUWt6SKIMj7VDznXqup17IY9UNxnbSvt6TKpmGKuESYaQbG3cQ3DlfimhdcB+pYCq4MnFr0EuODKk9Elh2d1Q9oomBFQzVomnAXvvNM3KSf1J00kuqAhsCITN+y+URJOPlUmoFy2OuW4UiZvocgPLPFKYyJDAwk1erbmtA445RWukH5YXR5QRU0/uZYIH9nt2aGNjnk5m6oQbEGlWwzplNGp4DtfJiqvaIzKcmMwgIkCyTQuATJCYsqLcZ7732/zKuSqBxe6TEZRhChtlA6Vfug0Je7lvHK4f99afRThnLplop1DHqMjknovy1sSIw==;rm650+TGZyDAxA/X6a7ADA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-bing-ai-chat-widgets-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-bing-ai-chat-widgets-how-to-get-them-on-ios-and-android/"
 type: article
 quality: 104
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/05/meta-v-banner-f_11zon.jpeg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Bing Widget Brings Exciting AI Features To Mobile Android And iOS Devices"
-    excerpt: "We are making your mobile experiences richer with continuous conversations across platforms, voice and multilingual chat improvements, and coming soon – Bing widget. Learn more: https://t.co/947YXAFHFd pic.twitter.com/QLw4gzhMHm"
-    publishedDateTime: 2023-05-18T17:46:00Z
-    webUrl: "https://hothardware.com/news/bing-widget-brings-exciting-ai-features-to-mobile-devices"
-    ampWebUrl: "https://amp.hothardware.com/news/bing-widget-brings-exciting-ai-features-to-mobile-devices"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/bing-widget-brings-exciting-ai-features-to-mobile-devices"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 58
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/61648/content/bing-chat-ai-hero.jpg"
-        width: 708
-        height: 400
         isCached: true
   - title: "Mural Unveils AI-Powered Capabilities for Enterprise Collaboration at Microsoft Build"
     excerpt: "Deepening its investment in the Microsoft ecosystem, Mural's AI capabilities will use Azure OpenAI to enable teams to work together more efficiently SAN FRANCISCO, May 22, 2023 /PRNewswire/ -- Mural, a leading visual collaboration company, today unveiled ..."

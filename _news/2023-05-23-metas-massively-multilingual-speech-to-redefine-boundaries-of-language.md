@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2023/05/23/meta-massively-multilingual-
 webUrl: "https://www.gizmochina.com/2023/05/23/meta-massively-multilingual-speech-model/"
 type: article
 quality: 54
-heat: 54
-published: false
+heat: 74
+published: true
 
 provider:
   name: Gizmochina
@@ -27,6 +27,28 @@ images:
     width: 1536
     height: 1024
     isCached: true
+
+related:
+  - title: "Open-sourcing Massively Multilingual Speech to preserve language diversity: Meta"
+    excerpt: "The social media giant said that equipping machines with the ability to recognize and produce speech can make information accessible to many more people, including those who rely entirely on voice to access information."
+    publishedDateTime: 2023-05-23T10:56:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/open-sourcing-massively-multilingual-speech-to-preserve-language-diversity-meta/articleshow/100447425.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/open-sourcing-massively-multilingual-speech-to-preserve-language-diversity-meta/amp_articleshow/100447425.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/open-sourcing-massively-multilingual-speech-to-preserve-language-diversity-meta/amp_articleshow/100447425.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
+  - title: "Meta Challenges Whisper with ‘Massively Multilingual Speech’ Launch"
+    excerpt: "Meta claims its new Massively Multilingual Speech system produces fewer errors than competitor OpenAI’s Whisper."
+    publishedDateTime: 2023-05-23T11:04:00Z
+    webUrl: "https://slator.com/meta-challenges-whisper-with-massively-multilingual-speech-launch/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 4
 
 secured: "cHVsKAOGm6Bz7iwttGEWIDXoPh/zrqk5roep7jf99j+rx4H5vKV/6LG1GW52fBw6BQ9Efz21v4TH/8eARMe+DzMpeMf2wCkaCNMnvLgzQqaQrD1o6dn6KxIVe9r8ZgV2tFCXhgoCIeb3AvM4gocB3t0FW0daLDLmiXNfKMMFG4WJjBEICFVTTx74yL1V00D/OwqR+LhUXK+c/AZYjSwSEfVB1UcySN6tvT92SKKlW2+ZW3v8Uy0K7MvgoRyCsr2JQBdoma7eXdV4fHc8wdRmeR8sDWlOMa0BC8xJjOG4LlT+F4OGuuOD+SRFrJY1Y2JGqeB46OunLpija4ROj7GH+Uk1AjsfBDhXr/MEX3iAD95LvyV9D8CyTRmD+jFER+vDO7XGxhmuXN9ZeRj0mfImPXwk64l1LH7Fw213K2TBK9WLwi2diUdKaMOsv/dEWQ+ZHHkit37uTgLKFwMlOiGNstEN28r1AZhBX02kcZwGkstKstE2/EsYEV5+AJ4jDBaxVr2MMmS6hPsR1JGLe80H9Q==;Bjy9Wt7SMzO7E8Riviuykg=="
 ---

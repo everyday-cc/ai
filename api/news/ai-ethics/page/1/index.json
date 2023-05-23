@@ -55,6 +55,50 @@
       ]
     },
     {
+      "path": "_news/2023-05-23-ethics-what-ethics-for-microsoft-its-full-speed-ahead-on-ai.md",
+      "title": "Ethics — what ethics? For Microsoft, it’s full speed ahead on AI",
+      "excerpt": "Microsoft's quickly embraced all things AI, even as many in the tech industry raise concerns about the inherent dangers of the technology. The company doesn't care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3697014/ethics-what-ethics-for-microsoft-its-full-speed-ahead-on-ai.html",
+      "originalUrl": "https://www.computerworld.com/article/3697014/ethics-what-ethics-for-microsoft-its-full-speed-ahead-on-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/man_concerned_artificial_intelligence_ai_sign_by_dny59_gettyimages_959737582-100817807-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3697014/ethics-what-ethics-for-microsoft-its-full-speed-ahead-on-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3697014/ethics-what-ethics-for-microsoft-its-full-speed-ahead-on-ai.amp.html",
+      "publishedDateTime": "2023-05-23T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-22-todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist.md",
       "title": "Today's AI boom will amplify social problems if we don't act now, says AI ethicist",
       "excerpt": "AI systems trained on internet data are in danger of reinforcing negative bias and causing societal harm. Salesforce's Kathy Baxter explains how to fix it.",
@@ -115,7 +159,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1405,49 +1449,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-we-know-that-ai-is-sexist-and-racist-is-it-also-ageist-resisting-the-allure-of-techno-solutionism-in-aged-care-provision.md",
-      "title": "We know that AI is sexist and racist — is it also ageist? Resisting the allure of techno-solutionism in aged-care provision",
-      "excerpt": "AI should be implemented in aged care as part ... The ABC’s Religion and Ethics portal is home to religious reporting & analysis, ethical discussion & philosophical discovery, and inspiring ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/religion/ai-is-sexist-and-racist-but-is-it-also-ageist/102316098",
-      "originalUrl": "https://www.abc.net.au/religion/ai-is-sexist-and-racist-but-is-it-also-ageist/102316098",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/6eef0016680bc7720af095e9fd8b5bbf?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485",
-          "width": 862,
-          "height": 485,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-07T18:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
         "publishers": null,
         "authors": null
       },

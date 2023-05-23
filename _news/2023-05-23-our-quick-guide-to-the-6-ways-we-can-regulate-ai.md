@@ -43,6 +43,22 @@ related:
         width: 1199
         height: 638
         isCached: true
+  - title: "Transforming the public sector with artificial intelligence"
+    excerpt: "Artificial Intelligence (AI) is at an inflection point. Since 2017, the number of organizations leveraging AI has doubled, and the impact of this technology’s capabilities is quickly starting to be felt across industries,"
+    publishedDateTime: 2023-05-23T10:05:00Z
+    webUrl: "https://ottawacitizen.com/sponsored/news-sponsored/transforming-the-public-sector-with-artificial-intelligence"
+    ampWebUrl: "https://ottawacitizen.com/sponsored/news-sponsored/transforming-the-public-sector-with-artificial-intelligence/wcm/ab894dae-ff1c-4784-9a0c-94ba4f8cdb28/amp/"
+    cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/sponsored/news-sponsored/transforming-the-public-sector-with-artificial-intelligence/wcm/ab894dae-ff1c-4784-9a0c-94ba4f8cdb28/amp/"
+    type: article
+    provider:
+      name: Ottawa Citizen
+      domain: ottawacitizen.com
+    quality: 59
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/ottawacitizen/wp-content/uploads/2023/05/4v0a0653-edit.xlr_-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
   - title: "3 Penny Stocks to Buy as the AI Sector Transforms Every Industry in 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI penny stocks offer investors a thrilling opportunity to tap into the"
     publishedDateTime: 2023-05-19T10:51:00Z

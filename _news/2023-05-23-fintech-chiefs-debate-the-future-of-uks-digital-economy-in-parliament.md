@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Fintech Chiefs Debate the Future of UK’s Digital Economy in Parliament"
-excerpt: "Fintech industry leaders warned of the risks posed by AI and ChatGPT last night as well as discussing the role automation and digital skills will play in driving economic growth. Speaking at the Parliament Street think tank’s Digital Economy summit on Monday night,"
-publishedDateTime: 2023-05-23T09:39:00Z
-originalUrl: "https://financialit.net/news/fintech-startups/fintech-chiefs-debate-future-uks-digital-economy-parliament"
-webUrl: "https://financialit.net/news/fintech-startups/fintech-chiefs-debate-future-uks-digital-economy-parliament"
+title: "Fintech chiefs debate the future of UK’s digital economy in Parliament"
+excerpt: "Fintech industry leaders warned of the risks posed by AI and ChatGPT last night as well as discussing the role automation and digital skills will play in the driving economic growth.   Speaking at the Parliament Street think tank’s Digital Economy summit on Monday night,"
+publishedDateTime: 2023-05-23T09:28:00Z
+originalUrl: "https://techbullion.com/fintech-chiefs-debate-the-future-of-uks-digital-economy-in-parliament/"
+webUrl: "https://techbullion.com/fintech-chiefs-debate-the-future-of-uks-digital-economy-in-parliament/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Financial IT
-  domain: financialit.net
+  name: Impacts
+  domain: techbullion.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://financialit.net/sites/default/files/image001_77.jpg"
+  - url: "https://techbullion.com/wp-content/uploads/2023/05/image001-1-2.jpg"
     width: 752
     height: 423
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 432
         isCached: true
 
-secured: "7Th0xfjK2An1C/gNaPJJYZptSIPzCSVl9d4xJ1tYk3Dn1ybalH45je5IbCqzXP3nZFjrIbd80cQ8xwZwKvyLBNeCLYIqLu1JR0UUyKXw0wm9gs92FAK9O2clqp1omFRwOJnghKq06DLupe59OSpfr+x04G4y2EolQ/BL32i/UFRo27wBApMjrEFpb23UoFTns9nu56Wonuqo4tgcj+Xtzro1yav3QndCRs8r3kH+RGUJykyeAsC9FnbYdMeiAkf7ehYwhWGO/hq1GEZ4FugfaFDJ36bp8bM5NgQsd7z3Trffk2RbrmXISMFyqsZ5ch9AaelGNoKS2Wu37lbWGG9hc5RZ8EBKJdhquW5eFcsrRPw=;Ui5mMAu1Yd07SF+zQj7oIA=="
+secured: "NK/7oUWJ77utItM4GfwjMzhyRIuS0//mhnu5izuBgJNFTZphUcVKdbO/g4Vk8id65PPqjz0CXq9SLmHZGI/hqtzF5cSaKAmypQPTYlSG9uovX9L5sytDzuo0icPUI38zAnN2AFuF6Ne9RWuL4vKllXSd1hPSMivcqdCo2UP+mfI1otZRFMyPmOo+8kJWqbwOqlA2V6kP5PMefcUYNvJqAp7wJE5G9O9O7PsZ+l7HNVXpWPLPf3KcGvv0h/AYpedes9AX3RDdbxNTYhxKvHOilcBqjBS85eCcaDMzD7MqsT17dGOWidGgHsqRYzjQhhJ3Vb9Fy5TSdMww3igR59Oh5PgHQLc3hHJHAoOERHDb590=;0Co/c3Yh/ZviQa/jRzvaYw=="
 ---
 

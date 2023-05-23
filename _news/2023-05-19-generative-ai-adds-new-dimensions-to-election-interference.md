@@ -27,47 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "Apple looking to hire machine learning engineers with an interest in generative AI"
-    excerpt: "Apple's Technology Development Group (TDG) is looking for Machine-Learning engineers with a background and/or interest in Generative AI! You will be leveraging innovative Generative models to build fundamental applications on top of Apple's most advanced ..."
-    publishedDateTime: 2023-05-19T17:17:00Z
-    webUrl: "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai"
-    ampWebUrl: "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/"
+  - title: "Boston Isn’t Afraid of Generative AI"
+    excerpt: "The city’s first-of-its-kind policy encourages its public servants to use the technology—and could serve as a blueprint for other governments."
+    publishedDateTime: 2023-05-19T16:07:00Z
+    webUrl: "https://www.wired.com/story/boston-generative-ai-policy/"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 68
+      name: Wired
+      domain: wired.com
+    quality: 69
     images:
-      - url: "https://photos5.appleinsider.com/gallery/54505-110094-Apple-Siri-xl.jpg"
-        width: 1312
-        height: 738
+      - url: "https://media.wired.com/photos/646799a606bd08d2f808af39/191:100/w_1280,c_limit/Keyboard_bent_AI_ideas_GettyImages-1469762438.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "Skyline University College launches Bachelor of Science in artificial intelligence and software engineering"
-    excerpt: "Both the Bachelor of Science in Computer Science with a Concentration in Artificial Intelligence (BAI ... computer vision, and robotics. Graduates of the BAI program will be equipped with the skills and knowledge needed to design and develop intelligent ..."
-    publishedDateTime: 2023-05-23T03:01:00Z
-    webUrl: "https://gulfnews.com/business/corporate-news/skyline-university-college-launches-bachelor-of-science-in-artificial-intelligence-and-software-engineering-1.1684747237083"
-    ampWebUrl: "https://gulfnews.com/amp/business/corporate-news/skyline-university-college-launches-bachelor-of-science-in-artificial-intelligence-and-software-engineering-1.1684747237083"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/corporate-news/skyline-university-college-launches-bachelor-of-science-in-artificial-intelligence-and-software-engineering-1.1684747237083"
+  - title: "UMass Boston using $5M donation to create AI Institute"
+    excerpt: "Anyone with a product idea can now build apps using AI, and we are going to teach that to all the students at UMass Boston,\" tells English. Students will also talk about the ethics and application of AI. English believes there are some people out there who ..."
+    publishedDateTime: 2023-05-18T23:09:00Z
+    webUrl: "https://www.cbsnews.com/boston/news/umass-boston-artificial-intelligence-ai/"
+    ampWebUrl: "https://www.cbsnews.com/amp/boston/news/umass-boston-artificial-intelligence-ai/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/umass-boston-artificial-intelligence-ai/"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 41
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
     images:
-      - url: "https://imagevars.gulfnews.com/2023/05/22/Skyline_18842c5cc8a_medium.JPG"
-        width: 540
-        height: 405
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/18/e8d681bf-f2a2-42b2-872e-0af634b4570f/thumbnail/1200x630/54ff6db104e94c6e70fa4ffdd6c4f18e/cold-umass-boston-ai-donation-frame-3.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Looking into possible impact of Artificial Intelligence"
-    excerpt: "We talk about the potential of AI and threats it may pose with Aboitiz Data Innovation's David Hardoon. Artificial Intelligence has become a topic of controversy with even the so-called \"Godfather of AI\" Geoffrey Hinton expressing worries over how smart ..."
-    publishedDateTime: 2023-05-22T23:47:00Z
-    webUrl: "https://www.cnnphilippines.com/videos/2023/5/22/Looking-into-possible-impact-of-Artificial-Intelligence.html"
-    type: article
-    provider:
-      name: cnnphilippines
-      domain: cnnphilippines.com
-    quality: 17
 
 secured: "OAhwLhLf4yrsdzYVfQrQnk1xbmL2AxsZx+00/l4zqIDCSx4YucXu/AQLVLg8l8iUO7+i4judFRHeBm98cqUnZ2ps701T0SxAQRBW9O/pduY21t4I3vgMI8JlXaTtQMf5XBkUPrNrXwBPKxSb99kC4bUPoRfzf0hK+j2Qw9Ik9YwQu33o4WXzJHQ8deFPzpd/oSfieR9b6VHd5tsSfAkVBld/Onbq8WFB/G1/ztlix3xw/lNAeyoLCi2dEV/3xamW8QO2V0iwGX9sAnFcT2J4aCYlH/cov3p5P1MZ4UCqXXnqQ0Wpj0uwrBnKW5U83uEMcY06owZPJoSlW9bxXefkMm5JrC4VozssuV/6C/u4pCPKBzOY0sdOJhD64ZqIxKy+ogmOz3yfrNIOzW46Gmv9eGt0PnyT2Q+Ce1e0w2fS7CoxCE9CYFqGQzSYpR3oH53w/KG5HKZ37ROQ1kNchJ64839iMP66suoehnYDyX7KQWvh1EnblvfIPySgjw8RsPbDe29Oeq84Mu/poMRZGS+A9w==;LCaVDkbkf3vUSndxjDxY4A=="
 ---

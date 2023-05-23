@@ -71,15 +71,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "UK plans meeting on risks with bosses of OpenAI, DeepMind"
-    excerpt: "The summit will be convened as soon as this month, with invitations likely for OpenAI chief Sam Altman and the leaders of Alphabet Inc.'s DeepMind and Anthropic, the people said. Sunak could be among officials in attendance,"
-    publishedDateTime: 2023-05-18T18:51:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/international/business/uk-plans-meeting-on-risks-with-bosses-of-openai-deepmind/articleshow/100338441.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 34
 
 secured: "/OjnXpbcNR50CqhM+Vt/mQzdSscFxAKYK1zW226xG+/McAkG/n5Wb90FGdmL0hZwMatfU7MGq1gLBwelniKtDfFXpg/6HesD9q2U1/9aLBxoR+wysPVy4MR8TYCg3BpBowhGDl6AcQg49gT4yXQic6vAXNGO+uU4OeOQY+OEVelswruqD3gbE63qrPzNCnMRLZ+gRP/8QL8wMdXPmg5i+CHS10JpDgzymW5azzotJViFUS40j/XQ8wZVzwtPxCO2SNZMUh26WA7EgVqyJWsYUKYTG+Z0/1OpdQhKfIwyJDUIQmofagDDt16VIiPXrMdLSI708Cp6hkTu4tpu5QtfqdN1LeuqrP1Sjt+XrXyNQvL7oYNZdmbE59zfJxc+ckEHI7X5zpLec+dIwlkOdqp1Plw8YJ5b8hLwa6NMEIkxqx/SzD5vZAcAy/eD8dOwcoBNl7sHlX4TQ3Uwsms8ACArzb/rlcrVeNDq1pKYdXmWJZBh7N3A05YfpqG8PzyJn8WayKbTuys0/+arMIW62zLxiw==;1EjuolQlQW/tqgL8kd7UjQ=="
 ---

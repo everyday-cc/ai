@@ -87,6 +87,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Why Nvidia Stock Is THE Only Way to Play AI Right Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI is driving a wave of innovation worldwide. It empowers human creativity,"
+    publishedDateTime: 2023-05-23T11:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-nvidia-stock-is-the-only-way-to-play-ai-right-now-1032344955"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "AdI9whbgBV6VmaP5/FpF10L2+QFj34WKWrvFyJGUI+NoEUtCSHsDQvmAg3F5Pz70p4LiA3yzSmuOuHhHA+ZuDHCVWd6B1FOI0lIs/XyBdS7c7K7XaN4MWITNDnOpIr096dvbgtdIrhzc9ZgAUNezqsu0PZogEq6qAHQVMFUKFbpXMX/hq3xEaorMag/6EeI0bt4dPxfo0qcgS3MxU00AMSKf/DnLmwZaSthwXZRZau976GymiBR3Ad9CjH/UaCXTWT9AxJjyvK8nXgRw4OS7iXi26jX4IBKeS82qRlaZ1SV4XHARfKyhWL40Bc5V9tEIvgo997ammbi1jalFx15V6TH1ym0NxPjoC3Acsp3XZZig8UDGoPj8N0lc93CxVtRA09t0HpzkY+CkHVbJlypPMXlUCkplNZI2bc2BXERABT3eczb3NvWybxm6R4c0LvILgMs1FZ2/WVDyZL8pKmleQEB6LRvtnl+OaxxvMkGqfxJjt8sxumNgIboIWZps57j2fHMDc0Rrv45Pn4H8tePYng==;F/qB2MN6B6p5w4CDd4r7CQ=="
 ---

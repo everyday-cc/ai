@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ..."
-    publishedDateTime: 2023-05-18T17:35:00Z
-    webUrl: "https://techcrunch.com/2023/05/18/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/05/18/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "Your iPhone Now Has ChatGPT AI, Too"
     excerpt: "OpenAI on Thursday dropped a ChatGPT app for iOS. The new app is free, and it gives you a way to take OpenAI's AI chatbot on the go. The app works on iPhones and iPads, supports voice input, and syncs your history across devices. The rollout of the iOS app begins in the US and will expand to more countries in the coming weeks, OpenAI said."
     publishedDateTime: 2023-05-19T14:09:00Z
@@ -94,22 +78,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI introduces ChatGPT app for iOS, bringing most popular generative AI to iPhones"
-    excerpt: "In a surprise move today, OpenAI suddenly released a ChatGPT app for Apple iOS, bringing generative AI to iPhones everywhere."
-    publishedDateTime: 2023-05-18T17:23:00Z
-    webUrl: "https://venturebeat.com/ai/openai-introduces-chatgpt-app-for-ios-bringing-most-popular-generative-ai-to-iphones/"
-    ampWebUrl: "https://venturebeat.com/ai/openai-introduces-chatgpt-app-for-ios-bringing-most-popular-generative-ai-to-iphones/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openai-introduces-chatgpt-app-for-ios-bringing-most-popular-generative-ai-to-iphones/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-71.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "ChatGPT and Generative AI in Insurance: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "ChatGPT is the most talked-about technology of 2023 and has piqued the interest of insurance industry leaders."
     publishedDateTime: 2023-05-22T17:00:00Z
@@ -123,6 +91,22 @@ related:
     quality: 79
     images:
       - url: "https://i.insider.com/6440364f3f6f690018de91ee?width=1200&format=jpeg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
+    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
+    publishedDateTime: 2023-05-19T04:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-ai-around-the-world-maturity-opportunities-key-regions-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-ai-around-the-world-maturity-opportunities-key-regions-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-around-the-world-maturity-opportunities-key-regions-2023-may?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
+    images:
+      - url: "https://i.insider.com/6465284f7224930019f34a4f?width=1200&format=jpeg"
         width: 1200
         height: 900
         isCached: true
@@ -186,24 +170,31 @@ related:
         width: 1020
         height: 572
         isCached: true
-  - title: "AI in your pocket: ChatGPT officially comes to iPhone with new app"
-    excerpt: "OpenAI released a free ChatGPT app for iPhone that includes voice input support through its Whisper AI speech recognition model and can synchronize chat history with the web version of the AI assistant."
-    publishedDateTime: 2023-05-18T17:48:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/05/ai-in-your-pocket-chatgpt-officially-comes-to-iphone-with-new-app/"
+  - title: "Official ChatGPT For iOS App Launches With Voice Support"
+    excerpt: "In a pretty big move, OpenAI has just launched the official ChatGPT app for iPhone and iPad, eliminating the need to go through mobile browsers for access. However, that is not all, the app brings with it support for Whisper;"
+    publishedDateTime: 2023-05-19T15:35:00Z
+    webUrl: "https://www.redmondpie.com/official-chatgpt-for-ios-app-launches-with-voice-support/"
+    ampWebUrl: "https://www.redmondpie.com/official-chatgpt-for-ios-app-launches-with-voice-support/amp/"
+    cdnAmpWebUrl: "https://www-redmondpie-com.cdn.ampproject.org/c/s/www.redmondpie.com/official-chatgpt-for-ios-app-launches-with-voice-support/amp/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
-  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
-    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
-    publishedDateTime: 2023-05-18T18:30:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-ai-guide-to-2023-most-talked-about-technology-2023-may"
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 44
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2023/05/chatGPT-iPhone.jpg"
+        width: 1200
+        height: 640
+        isCached: true
+  - title: "Apple looks to advance artificial intelligence for iPhones, iPads, and other devices"
+    excerpt: "Learn More Apple has posted dozens of job listings in recent months focused on artificial intelligence, signaling that the company may be stepping up its efforts in a field that could transform its signature products. The Cupertino, Calif.-based technology ..."
+    publishedDateTime: 2023-05-22T19:35:00Z
+    webUrl: "https://venturebeat.com/ai/apple-looks-to-advance-artificial-intelligence-for-iphones-ipads-and-other-devices/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 40
   - title: "ChatGPT: Are school districts ready for Artificial Intelligence"
     excerpt: "Artificial Intelligence has become a popular topic lately ... Greg Abbott will likely sign legislation into law soon that will ban certain health care options for transgender minors, and several legal groups announced their intent to file a lawsuit ..."
     publishedDateTime: 2023-05-19T02:32:00Z
@@ -218,33 +209,19 @@ related:
         width: 396
         height: 202
         isCached: true
-  - title: "Morningstar’s AI chatbot gets investors closer to mostly right answers"
-    excerpt: "It’s a work in progress, but the company’s service called Mo draws on financial information to answer questions quickly without some of the worst traits technology picks up from humans."
-    publishedDateTime: 2023-05-22T10:01:00Z
-    webUrl: "https://chicago.suntimes.com/2023/5/22/23729302/morningstar-ai-chatbot-mo-investor-answers"
+  - title: "OpenAI's ChatGPT iOS app debuts with voice search, no ads"
+    excerpt: "OpenAI's ChatGPT has been a runaway success. The chatbot's popularity paved the way for the ongoing AI revolution. The company has now launched an iOS app for the chatbot for users who like to use it \"on the go.\" Android users should not worry because a ChatGPT Android app will be available soon. Now, let's see the features of the ChatGPT iOS app."
+    publishedDateTime: 2023-05-19T05:25:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/openai-launches-chatgpt-app-for-ios/story"
     type: article
     provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
     quality: 39
     images:
-      - url: "https://cst.brightspotcdn.com/dims4/default/da677a9/2147483647/strip/true/crop/700x400+0+0/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FhhfzX25Mw0xF_jKyZEX3-rpSP5o%3D%2F0x0%3A700x467%2F700x467%2Ffilters%3Afocal%28433x156%3A434x157%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24668765%2FJames_Rhodes_of_Morningstar.jpg"
-        width: 1461
-        height: 834
-        isCached: true
-  - title: "Is There a UN Role in Artificial Intelligence Chatbot?"
-    excerpt: "Will it take a robot to break that unholy tradition ... of the concerns that the Secretary-General himself has been expressing — the idea that as artificial intelligence develops, it needs to be monitored carefully and the right regulations and standards ..."
-    publishedDateTime: 2023-05-23T07:00:00Z
-    webUrl: "https://www.ipsnews.net/2023/05/un-role-artificial-intelligence-chatbot/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 39
-    images:
-      - url: "https://www.ipsnews.net/Library/2023/05/A-female-robot_2.jpg"
-        width: 630
-        height: 355
+      - url: "https://i.cdn.newsbytesapp.com/images/l5520230519104316.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Apple Bans Employees From Using ChatGPT Amid Its Own AI Efforts"
     excerpt: "Apple has restricted employee use of ChatGPT and other external artificial intelligence utilities amid the development of its own similar"
@@ -260,6 +237,20 @@ related:
         width: 2500
         height: 1406
         isCached: true
+  - title: "How to turn Google Bard AI into an app on your iPhone home screen"
+    excerpt: "Google Bard is available for free in 180 countries. Here’s how to create your own iPhone app for Google’s ChatGPT alternative."
+    publishedDateTime: 2023-05-20T14:34:00Z
+    webUrl: "https://bgr.com/tech/how-to-turn-google-bard-ai-into-an-app-on-your-iphone-home-screen/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/05/google-bard-for-iphone-4.jpg?quality=82&strip=all"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "MY VIEW: AI ate my homework: The future of AI and ChatGPT"
     excerpt: "\"Back in the day, rather than admitting our laziness, we blamed the dog for eating our homework. If AI becomes our modern-day crutch for being lazy, a bad grade will be the least of our worries.\""
     publishedDateTime: 2023-05-22T10:26:00Z
@@ -271,20 +262,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 37
-  - title: "Tech wants AI chatbots to help ease loneliness. Experts are skeptical"
-    excerpt: "For example, for some people who are in a very isolated state and incapable of doing basic prosocial activities, an AI bot could help start a conversation with a human. However, one potential drawback is that some people may start to feel safer or more ..."
-    publishedDateTime: 2023-05-21T20:06:00Z
-    webUrl: "https://www.salon.com/2023/05/21/tech-wants-ai-chatbots-to-help-ease-loneliness-experts-are-skeptical/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 37
-    images:
-      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/05/person_talking_to_chatgpt_logo_1227304735.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Regulators turn to old laws to tackle AI technology like ChatGPT"
     excerpt: "As generative AI models gain prominence, regulators are delving into existing laws while shaping new regulations to address privacy and safety concerns."
     publishedDateTime: 2023-05-23T02:42:00Z
@@ -299,15 +276,6 @@ related:
         width: 1920
         height: 1282
         isCached: true
-  - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
-    excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
-    publishedDateTime: 2023-05-18T17:30:00Z
-    webUrl: "https://www.businessinsider.com/chaptgt-financial-services-reality-hype-whats-next-prepare-2023-may"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
   - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
     publishedDateTime: 2023-05-22T17:30:00Z
@@ -367,15 +335,6 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 10
-  - title: "ChatGPT-powered Wall Street: The benefits and perils of using artificial intelligence to trade stocks and other financial instruments"
-    excerpt: "Artificial Intelligence-powered tools, such as ChatGPT, have the potential to revolutionize the efficiency, effectiveness and speed of the work humans do. And this is"
-    publishedDateTime: 2023-05-21T13:30:00Z
-    webUrl: "https://www.krqe.com/health/studies-research-findings/chatgpt-powered-wall-street-the-benefits-and-perils-of-using-artificial-intelligence-to-trade-stocks-and-other-financial-instruments/"
-    type: article
-    provider:
-      name: KRQE Blogs
-      domain: krqe.com
-    quality: 0
 
 secured: "moKCJdgBOGggDI3Pi/ObZq4mGbFNInCIPst1fN9HJjBFfaCkk82GCwv4oCCK6ZGDVGO5YbvQ/igAvtE0mrTdYkmaaD2LYlUUgrOo5Pee2RFeMMT7ksLOzCeSwLM1hiDEPbYsxfQ/4ek2vZrY/xE8RdHHcvVIJKt4j+tT51VvGMfoyhV0LYUOHJ24TKazTIm4Cp6bHMsBIXVWn+OlosOs05BtizC22HLbjnkkSDS0PCYGgtqoq8ckDY8pPlKk19dcFODn1AGSIAjTGp5WxdA08ioLlnfPPqynIOoV5VIdAGH82H0vqs7g47DAXNKH1btRzQDOdD3MfkzyYvcvUxx9J0tuYgHHI7Lb4WO8DkT83BuPCQlJLg+opo6+plBeLeGkJR3brKS3iH7yEhIpg8shlTUUG+RPt80jOhHA/KRc/+pCGuF1BhsPtHEcGGBXrtxx124h5RfnfJ3wHKa+nq7m3vTe55H/U/cdbtlSabAf2A/Jq/mD96ZoJqkNW1NRwvTPF/QnsrqXwSYf0BwAIkzBOg==;4d8a/NsYwWEnI2By5XglXA=="
 ---

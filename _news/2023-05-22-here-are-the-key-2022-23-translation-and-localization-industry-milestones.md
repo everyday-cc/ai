@@ -7,7 +7,7 @@ originalUrl: "https://slator.com/key-2022-2023-translation-localization-industry
 webUrl: "https://slator.com/key-2022-2023-translation-localization-industry-milestones/"
 type: article
 quality: 3
-heat: -1
+heat: 3
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Content Automation & AI: Creative Production Insights from the Localisation Industry"
-    excerpt: "Little Black Book, Locaria's Lindsay Hong on how creative production should embrace automation, following the transformative example of machine translation and AI in the language services sector"
-    publishedDateTime: 2023-05-19T11:32:00Z
-    webUrl: "https://www.lbbonline.com/news/content-automation-ai-creative-production-insights-from-the-localisation-industry"
-    type: article
-    provider:
-      name: lbbonline
-      domain: lbbonline.com
-    quality: 12
 
 secured: "MxZHUM9oqczEUcVgj+IBvYlZIzt91+7DFhP5kE5BZUEM1lHpAPqMEDPlJdkkT8BjqiKDQv+IafQV398qT+ulhMSkZndTZfDLNdzV9fuFS1ceZ5Zgt00Sp568Sz9G3IS53CqEnNA3h1moNbQmo8n5mvSKgAebP/ruUDAbjEAvGsYM4i1TPkzBV+xDJpxvqPaWTn5OuZ6dYQb9lckUoeu77foUjY0ZN5pGfWmbUSa2qEUQAnvN5RJJZgjY0vfS0EnClNvrSC+vGOTFTgQ0D/MEQx7+aZnjRltFTWkJtEWcGuVjafjE7vneIFlVgkjchAYpqwjZ7GOdt24Tjec39EFxwYCuv3FGZTpcsmgUIPYHAL0UJrrTkFw4JBWWxRZRSMWQt3uHvk1lK8xqr2rPtzoKDHVNaaBzfCdnbaH+Zl3ERUl4zdUVhMH09ZEo0qFxMfkdc6G9Q+msfS5Lplsn276SiisPfUQKf2xMxbNy7VX+YrCfuy9ID8avtN1zfw55DoErAB2JTDm6nwNu+K+l2sY25w==;T9D5pa5fh0qPcpQkFzQ1xw=="
 ---
