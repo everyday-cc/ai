@@ -63,6 +63,15 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Red Hat gives Ansible a generative AI front end and adds stream processing features"
+    excerpt: "Ansible Lightspeed with IBM Watson Code Assistant keys off the industry’s current fascination with generative AI sparked by the success of OpenAI LP’s ChatGPT large language model. These models enable seemingly humanlike responses to queries,"
+    publishedDateTime: 2023-05-23T13:00:00Z
+    webUrl: "https://siliconangle.com/2023/05/23/red-hat-gives-ansible-generative-ai-front-end-adds-stream-processing-features/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 15
   - title: "Content Automation & AI: Creative Production Insights from the Localisation Industry"
     excerpt: "Little Black Book, Locaria's Lindsay Hong on how creative production should embrace automation, following the transformative example of machine translation and AI in the language services sector"
     publishedDateTime: 2023-05-19T11:32:00Z

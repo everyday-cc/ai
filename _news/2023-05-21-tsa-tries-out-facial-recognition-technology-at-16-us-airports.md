@@ -76,15 +76,6 @@ related:
         width: 887
         height: 466
         isCached: true
-  - title: "TSA's Facial Recognition Tech Raises Questions About Bias and Data Security"
-    excerpt: "Analysts and lawmakers are concerned about a new TSA program that instructs passengers to insert their IDs into a machine and takes a pictures of them."
-    publishedDateTime: 2023-05-18T19:34:00Z
-    webUrl: "https://reason.com/2023/05/18/tsas-facial-recognition-tech-raises-questions-about-bias-and-data-security/"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 49
   - title: "The TSA Is Testing Facial Recognition Technology to Help Streamline Airport Security"
     excerpt: "In an effort to enhance and streamline airport security, the TSA has been quietly rolling out a facial recognition technology pilot program at airports across the country. Instead of handing an ID card or passport to a TSA officer who manually makes ..."
     publishedDateTime: 2023-05-22T21:27:00Z
@@ -109,6 +100,6 @@ related:
         height: 900
         isCached: true
 
-secured: "pbYHbNqmNpa5+skXfyuo+WlrimvlztXsBy8vVwy2QeeC/fMFvCber2L1hqX3mL8YL/wA0Tnc1CKzQ6OeJ64dFkAXQ/DB64h6uby5i7hqiOk+6Mq+M9I2yyTJXEqEh2AelS6JLvcfan5EcJBiWHb4W+knCr9aFQb/bspe3cX1z8UssrL8RJcRuAbTbpXlHWcH/4iBpkih4xWt8m+Wd7dtdijoMwwgwrWtol9utDSeGZfPWIw1VqHg1CcmRY1komAjaIWXMAT0MbyzBBqZ4NOxCuZv9wJCzSVwxzW8W/AWQFbQgi/I0YEcV2RJmLE6fzd0FOybfSDKznyS7PC7M9/QX+91R4uWOp2U9DAPUtOeepo=;wUZbbT0bo/2KyOHtK1+fLQ=="
+secured: "L4xDxFRylPEzrlW2HTdokriIyqDYweHBTYW5m6odMs7eWWW568JJGPq1OwatlPlMJXJG+pC9FwsXpelJVNkKaNZl2zz+KVw8vWc1m94VjYPOQgU7f2F1yPgX2+rJ53t08K3R/jahx9HFmiNbxl22+fTcKIMe94s0zKV6v9uEWLJyFdyo8cK74j3HAK5hf2UCNyQ5UrKb9xaFvU8SRezzLzrkLSqfxWVmi/1nTip9uXuAuGeXHhaBewIH6nuKNq16ouq89ChqoFH+/CkP6CjO7rtgHDkD47Y3TNAzhPMGvnks4m6OaSeoarTNtLoAxu17hxO82lLyRg5v56MdIIjaJ7tksys8cDiJYrHfw5+fBKiYL7WRBbr1UM6F204IdYKtN7TWWry78VXG5d67uRl6t0EivxPT7Tm554OIki+l5+/+phPwifYTyOMo1ONKKWLQJjHyNFoOxIFegPa3nQZmBAMLfqNZa+9UXRu0TFFNt/timhfjA2Z+UoAdCxeUhTEk0oPJwYuuG7rn/ifTpjESzQ==;2LivyMLxKrI33RmpoBXvpA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-wants-to-plug-ai-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-wants-to-plug-ai-skills-gap-in-finance-sector/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Embracing AI in the world of finance"
+    excerpt: "Large Language Models (LLMs) like ChatGPT are shaking up the world of finance. Morgan Stanley is testing an OpenAI-powered chatbot to assist their financial advisors. The bot, trained on the bank's own research reports,"
+    publishedDateTime: 2023-05-23T14:11:00Z
+    webUrl: "https://phys.org/news/2023-05-embracing-ai-world.html"
+    ampWebUrl: "https://phys.org/news/2023-05-embracing-ai-world.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-embracing-ai-world.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/embracing-ai-in-the-wo.jpg"
+        width: 900
+        height: 1037
+        isCached: true
   - title: "Banks, IHLs to come together to groom AI-ready talent for financial industry"
     excerpt: "Mr Sopnendu Mohanty, chief fintech Officer at MAS, said, “Supporting Aida adoption is one of our key strategies to help financial institutions evolve and adopt game-changing AI technology. However, the shortage in talent limits the industry’s potential ..."
     publishedDateTime: 2023-05-22T10:57:00Z

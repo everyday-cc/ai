@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manage
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5?amp"
 type: article
 quality: 71
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "4 key takeaways on how creators think about AI and its impact on their work, according to a new survey of 1,000 influencers"
+    excerpt: "The majority of creators said brands had asked them to use AI. Here are other takeaways from the survey about AI and its impact on work and art."
+    publishedDateTime: 2023-05-23T14:51:00Z
+    webUrl: "https://www.businessinsider.com/how-creators-think-about-ai-impact-on-influencer-work-survey-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
+    images:
+      - url: "https://i.insider.com/644c0698da6d7b0019bda5c3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "HrEF8xwj8YG0ilAni82Dk7/KQ2FX5llp+RDkgim1IBK8T1Uv7CTfZaDhz9pKRJg5w0XWsnUrgr0ixvlt7oDiA9SfGy8MSKb8zXpQ9g0YDmU/lnuI5GU6iPv+vcaMDycdZAZ9Gk6/jxLXzj0HrXFQbdb3KznUppRbOt6R0Gp8BGOoHMY+jNr+7u6HaIPlT7RSdjaFMRfdJK+DlGfWDt2k1xVS84gljErdG7qFrC3h2pzQ+uP5VFYiaO18bid4W07cIFaX9Asz8xVTlcLv3lZWQjH0o4YfBXdw/En9el4etDx6VJdZDwXvS4caifWpOeKz4PsON+IpRFEXAWKf8UvG1Xl0LupPdwaVN3SK6gcs8jaZ0EvkAuc9M5W/RnAlDZwWOBv2owi4afX3+RwTs+lAxypRTgehnmWcSJKpjtSd5UNTAFGv7Fx2o+Z3gej5hI3hw46kf2xT4uQYqDYgYOMmKnXoaUYBBRXHLtB7fkRsa5UOjT+7JL1NCg8nWPreSiKOS3X5OtHFIIHvW111KHoAKw==;xIxUpEaCj2OmVDOiP7V23A=="
 ---

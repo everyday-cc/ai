@@ -35,6 +35,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Intelligent Artifacts Pledges Commitment to Responsible Artificial Intelligence"
+    excerpt: "Brand Manifesto Unveiled for Creating the Trusted Intelligent Future of AI NEW YORK, May 23, 2023 /PRNewswire/ -- Intelligent Artifacts, a leading innovator in the field of machine intelligence, solidifies their commitment to responsible AI in a new manifesto which you can read here on their website."
+    publishedDateTime: 2023-05-23T13:28:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/23/9819437.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "rrq24VVVsLpioIwASCKJFs4TLLRh1IP8QwNwAZITeQMkHH5F+ILtdPzAfOyMfgFj3ZVRnA8hqd2L4LbQ10WitfDlWLb3vDflk6HkysFn4EAJP3XrEH+A0luU4CLjsTryuuuXBsvRA4mTP1H4p81NHUxD/UZGbuA+afHxEWilBORbCHECasu3Jh2wsLjenqO/qxlbNp1Bp5hrqmX2Q+ZFX4xNZPrum0idMI8/PbQRPmNlIRu5CtbM2Z38mt3sS4F/rsxR3JlhyIUQLjr3R3PptshkT9o+UmH1OGQyEv+bFj/JL4ZEvS62hQYZkT7LJwDZMCT3+nFVg55jDB3ilazpb6XX437t3cmh2GDLHMuSkVrxzNJvK5zPPASfPsoZj7by4KW+Fe/gPz/l2MK+xlVZ7DfG/jI5BIU8OvcHDqnzMy62/txLHjvbqH1Prm4WTi5UnnwoiZKDHQfFyEuzoTqgRrqntk1BO4/Zg+UKQpdbcuA+6c5K2OdD3Z1GKTRd7D2uuO8iTEVfh5HPqWD8MVlelg==;q8/YZtyo4BXJN9KLigdANA=="
 ---

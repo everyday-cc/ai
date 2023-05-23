@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/05/20/ai-will-have-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/05/20/ai-will-have-the-most-negative-impact-on-emerging-workforces/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Governments and Enterprises in the Middle East Join Forces to Drive AI Innovation at World AI Show"
-    excerpt: "Initiatives such as the Dubai AI Ethics Board have been launched to ensure ethical use of AI, while heavy investment in AI research and development is also underway. Enterprises in Dubai are leveraging AI technologies to improve their operations ..."
-    publishedDateTime: 2023-05-18T19:40:00Z
-    webUrl: "https://www.asiaone.com/business/governments-and-enterprises-middle-east-join-forces-drive-ai-innovation-world-ai-show"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 5
 
 secured: "+lvHMZcP11FvE+9nL00vAkfGEPmiKK0V8k/DSIF5tl0vEhlQY2de+wbPj5sxB6TUstVt41o5n4OMiK62Y9pktYMo7IkX8z7ch+b+Y4GRUE/x/MXOi6+b3prVfjdxJuMbe32sbXMVuUJR44NhzD/gFrC1mduylD5auiREZuev32gUulXd2Ku9elZAwlqJVctQOChvELR19U7gwNwk0qJ6qO0XRCYkpdfO0iXG3gBHrseNyUAyQ3e6arP2cb1wszUxe0H78WGcHLS7IaMyMW+PPpcmTCU40LgurhtFaHZhTs4vfPJ76eDpb83Ch6LOTTy097q7rc12aPjxkZoKSfSXheXlKfnq1o5UX374YyLq5mKQOLtu8DJLOB7ZdfbsqtLUct5lFg60rliGSlW1oZhhqsJohnef1491qajmYEHSTM+toyl/lJKeC4p/1gPz2HoFEaXLOiRQ9mC84EYd71wapJgN3I/JdZCxzoGdMDncz1VyU+QMHWNOZjRvTeAHq26Lxea1pDPsOwibHV92j+ppdA==;+Q1SDnaCvZAyE6VXfTZDcQ=="
 ---

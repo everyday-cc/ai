@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mid-day.com/amp/technology/article/microsoft-india-annou
 cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mid Day
@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft India adds 4 new languages to Translator"
-    excerpt: "Microsoft India on Thursday announced the addition of three new Indian languages -- Konkani, Maithili, and Sindhi, in Translator along with Sinhala, the official language of Sri Lanka."
-    publishedDateTime: 2023-05-18T21:20:00Z
-    webUrl: "https://www.thestatesman.com/technology/microsoft-india-adds-4-new-languages-to-translator-1503182658.html"
-    ampWebUrl: "https://www.thestatesman.com/technology/microsoft-india-adds-4-new-languages-to-translator-1503182658.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/microsoft-india-adds-4-new-languages-to-translator-1503182658.html/amp"
+  - title: "Microsoft announces Azure tools to help developers deploy complex environments and secure their apps"
+    excerpt: "Next up is another tool that can ease the workload of developers and reduce the worry of admins: GitHub Advanced Security for Azure DevOps. Last year, Microsoft announced this service was coming, and now, Microsoft is announcing the availability of a public preview."
+    publishedDateTime: 2023-05-23T15:01:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-announces-azure-tools-to-help-developers-deploy-complex-environments-and-secure-their-apps/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-azure-tools-to-help-developers-deploy-complex-environments-and-secure-their-apps/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-azure-tools-to-help-developers-deploy-complex-environments-and-secure-their-apps/"
     type: article
     provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 59
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2021/07/MicrosoftiStoc.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/c1e41e19b8a3f4e5c5306cba90afb53a6dff435f/2023/05/23/0eacd389-da03-4a85-977f-27457bc2cc96/gettyimages-1461116181.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
 
 secured: "uR7gIZCN9Jl0qspjsEl5as0HPW1KdZm+OZIAKCundgjUOOzeqUM4EnPFUNrgyZvN9vSuoCSToT4wWB5dxbqM8/3VSp2cs0NJF+t0aJkMdBhlLSGWavc11lDKPHzxgIyPUyfjPDcYXZKFgzi00R4XZe8gTO1yvXYDrHS4Qx0UvobpgsB/zKWyYiH51myPMgDSlfNhLIfuuRGZNPyjEHtX91TmvRVIdtj0azpx8MCgX3AJRpCV3l9/fvwhvuqVV2/H/3Xw+aECjdCTFhA5a6xCwilNkrnj1m1pfP/R7gyzynqGl5Wiv/ej/KC7be04ZzC4PL2quccncTqHJT63xvo6ziqUfyoXpppWkmG8GbohdHpOoy373APNzRZSpCj+6wovdS6R/LTFhEGbYvGuGyD26y7bbQLAUHm6e+ygr656g7rHbtNJW8hVA0sxbnNkgMYHNwDTKLvyUA44+UvLTACcmBODMJ5CHf4nJb5FaxGvO1Q1smDUkifB3Q4Qc2MRrRP4Zr4UI1jO/HjwzCnffiSGZw==;bA93PlReolf+rpRKzMPv+A=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://sciencex.com/wire-news/446194896/artificial-neural-network-h
 cdnAmpWebUrl: "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/446194896/artificial-neural-network-helping-in-designing-elastoplastic-pro.amp"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 800
     height: 480
     isCached: true
+
+related:
+  - title: "Elastic Unveils the Elasticsearch Relevance Engine for AI"
+    excerpt: "Elastic, the company behind Elasticsearch, today announced the launch of the Elasticsearch Relevance Engine (ESRE),"
+    publishedDateTime: 2023-05-23T15:18:00Z
+    webUrl: "https://www.datanami.com/this-just-in/elastic-unveils-the-elasticsearch-relevance-engine-for-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
 
 secured: "XKGp9V4GukPIZYIrmoxjbgbsYDvACjCZl45DYdQfX0xGi9PKg/MF20+7u6rG2mtf0rLsNZpBOV7M9Mxy1uMuxi2tcxOdLY8r87NKDeGpeuhJnsI7m0I134tZYljnYesq5wS/DzBV7kesvOqyF/21k/vb89EANtIhhGoRrq+hTCn4VRvDq8MuT57fPWESI+WMKiyjFzBxfAMC3k2hhfXJ4IexN5hRlqRZjxLDv3N0FJSfmHDQD3PMU5HFDGUe+gaQLMA+58yd23R5kzgJ9K0BJOyllDnEeq+uR3xzv2FreDFxk6Ptrm0ebQPyLcZ8NYxhqyWLB+PyeWnSo2PzkTf29PmXT2cMfnk8KZMufW9dznf2tG3aLNleN5rUHBV7hRLWG2h/E+cTtPWRfGbhc1Sr337knvGB/EPiQiVFUDQht9B7u3/4P0/4FQPbWYKpuPF1S7E+iIF9/ymmrs9CiA/5Zy2nGuYkv0XVkLyBQJ/u4kHNVvmPSIKvrKmIHvLHb36SoqwcwmFyNUXsMhJJWDb/Qg==;IHLJQYk/l/szc+O76tClDQ=="
 ---

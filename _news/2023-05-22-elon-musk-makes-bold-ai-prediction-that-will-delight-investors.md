@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Will startups have a shot in the enterprise AI race?"
+    excerpt: "Recent news from Appian and Neeva make plain that the number of participants racing to build AI tooling for large companies is expected to be healthy."
+    publishedDateTime: 2023-05-22T19:14:00Z
+    webUrl: "https://techcrunch.com/2023/05/22/startups-enterprise-ai-race/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "Who will win the AI race? What it takes to become a prompt engineer"
     excerpt: "Google / DeepMind / Anthropic: Graduating from Cacofonix to Shakespeare"
     publishedDateTime: 2023-05-19T02:59:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-ch
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/"
 type: article
 quality: 106
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta unveils new AI data centers and supercomputer to power AI-first future"
-    excerpt: "Meta announced today a series of new hardware and software projects that aim to support the next generation of AI applications."
-    publishedDateTime: 2023-05-18T21:04:00Z
-    webUrl: "https://venturebeat.com/ai/meta-unveils-new-ai-data-centers-and-supercomputer-to-power-ai-first-future/"
-    ampWebUrl: "https://venturebeat.com/ai/meta-unveils-new-ai-data-centers-and-supercomputer-to-power-ai-first-future/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-unveils-new-ai-data-centers-and-supercomputer-to-power-ai-first-future/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/META.jpg?w=1200&strip=all"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Nvidia Has Gone Big Into AI. Its Chips Will Now Power Supercomputers."
     excerpt: "Nvidia said a new supercomputer will be based on its Grace CPU Superchip, marking a push into an area dominated by Intel and AMD."
     publishedDateTime: 2023-05-22T10:16:00Z

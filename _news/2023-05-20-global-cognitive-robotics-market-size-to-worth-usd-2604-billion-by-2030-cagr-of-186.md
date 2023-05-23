@@ -37,20 +37,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 31
-  - title: "Artificial Intelligence In Healthcare Market Size To Hit USD 12.22 Billion By 2030 At 51.9% CAGR Report By Market Research Future (MRFR)"
-    excerpt: "According to a Comprehensive Research Report by Market Research Future (MRFR),“artificial intelligence in healthcare market Information by Component, Application, Technology, End User ..."
-    publishedDateTime: 2023-05-18T19:36:00Z
-    webUrl: "https://menafn.com/1106272765/Artificial-Intelligence-In-Healthcare-Market-Size-To-Hit-USD-1222-Billion-By-2030-At-519-CAGR-Report-By-Market-Research-Future-MRFR"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?930737"
-        width: 444
-        height: 250
-        isCached: true
   - title: "Automotive Robotics Market Size to Grow USD 13.60 Billion by 2027 at a CAGR of 12.8% | Valuates Reports"
     excerpt: "The global automotive robotics market size was valued at USD 6.63 Billion in 2019 and is projected to reach USD 13.60 Billion by 2027, registering a CAGR of 12.8% from 2020 to 2027. Major factors driving the growth of the Automotive robotics market: The automotive robot market is predicted to develop as a result of rising automation in the sector and improvements in accuracy,"
     publishedDateTime: 2023-05-22T16:13:00Z

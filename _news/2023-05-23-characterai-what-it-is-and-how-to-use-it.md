@@ -17,22 +17,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Artificial Intelligence: How to Use it for Good"
-    excerpt: "Artificial Intelligence, also known as AI, is the ability of machines to do things that normally need human intelligence. AI can engage in learning, reasoning, problem solving, and even creativity. AI can be used in careers such as real estate,"
-    publishedDateTime: 2023-05-18T20:12:00Z
-    webUrl: "https://www.wnbjtv.com/single-post/artificial-intelligence-how-to-use-it-for-good"
-    type: article
-    provider:
-      name: wnbjtv
-      domain: wnbjtv.com
-    quality: 39
-    images:
-      - url: "https://static.wixstatic.com/media/515a52_8704026b87cb49d59bc468b43bdf1f43~mv2.png/v1/fill/w_1000,h_563,al_c,q_90,usm_0.66_1.00_0.01/515a52_8704026b87cb49d59bc468b43bdf1f43~mv2.png"
-        width: 1000
-        height: 563
-        isCached: true
-
 secured: "rz8W6s0ZQBVYAejbDsPTjUfLjZuRxXg4Zx7MsX77de4Cv+/7G0D+PJo9mAclI6ZyOPo9M/WT+PQK0vTToywSTcXRt/8oQMG1e8PF3IuQPKSnjmAvXJ7GM254T6Pqi5QGB4rT6MZkmM7eZE/IZf96rL1aMVWZ5e2jLScfacXW+zZk5wypCDsq82vooeOVFDxndnAYeDKzdjlkOfFPo6HVW+RMJTXpx6Heef0yvloHLwrzLav8gTlVOzp5vSoCpo7SE9L33wMPpbj+5BreSH4gTnIlrvgz2ZwM6oMcXbUTuXJb4yQ6SpdmScopG9DMFZechiqjA0mCzGcJH04t8AnDjqItbmQjUe12eUwagdspmGx8POgsoU0YTi1Col3QwMIkun4UFpsd7RK+gag81eZRRHQ34m/tI2vOn2R5vM0kt3WU+8Gw5jabVvUGDFqF+68ILQh/Arw/WWXh4Rqv3ZLqre9lTZP55Xw4+BZV+CVhDMcLUMa1Vhr2HXhrsFGm8itDuAotwa45jLVEYcIrd51P3w==;vJCmBN/SjmB00Qg7l/Jr3g=="
 ---
 

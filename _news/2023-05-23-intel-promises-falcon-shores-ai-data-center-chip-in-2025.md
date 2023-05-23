@@ -86,6 +86,15 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 30
+  - title: "Intel Goes Head-to-Head With Nvidia, AMD Over AI Chips. Why It Could Be Too Slow."
+    excerpt: "Intel said it was competing in AI chips but it faces a delay in launching its next generation graphics-processing unit."
+    publishedDateTime: 2023-05-23T12:48:00Z
+    webUrl: "https://www.barrons.com/articles/intel-stock-ai-chip-nvidia-amd-gpu-bc36ab94"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 29
 
 secured: "fbMyo8VYYhTazPZbjFsHxaX/lXegMXtrgq4ePGEOHdppmVEKNLF0QczdtakGpoRxAWR1UqfzVsRNi7geLYQ6CUhheDMaFzXTKb29IfZckN6ULgN5N3RSgjUSmq2jOnd42pgi033um17KTfcL9qU0yGaQzcxLq49t1cWvid7KnaMyXt7usxxl7Ie3UANt5v3f1dBWNB53oQc0Pi8kLfvgi6xlHWO0JOeGaxaxnGmkpNgzinbRC9L0BeA+ma7EodruIlJ/TZ4aheWYBeeLZiSMfOLi00dCcfxTDNS9+TUBKXjp8kfrnN/4N9iFs/KI4Nl7ENR+VTTXHfjY3STaeZQc46VWPbW0bgVw/hFiqbyNvobFGdnvU6g0D4JieDypmYI16oqvKjgduhJ5W8D4rt59r7d9JgjwCmD9f9L6b8v4iQ86xPeycaYBb47T7Zvg0RY/fDdm7xrjJ81TEJDu5NGVpY6yU5kUBX1vZpJdnCX95ZJ3d5jhKqtT1dn9RMEE7QNkMxxgbIyu60KapH6z9NJtvQ==;XxVRZOpK/kW53lcOxmXkDQ=="
 ---

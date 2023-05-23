@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/23/modular-app-building-platform-buil
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/modular-app-building-platform-builder-ai-raises-250-million-series-d-funding/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "QIA Leads $250 Million Funding Round for App Platform Builder.ai"
+    excerpt: "The Qatar Investment Authority is leading a series D funding round of more than $250 million for Builder.ai, the mobile app development startup backed by Microsoft Corp."
+    publishedDateTime: 2023-05-23T11:47:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-23/qia-leads-250-million-funding-round-for-app-platform-builder-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Thoro.ai raises $7 million Series A funding round"
     excerpt: "A startup making robotics-based autonomy stacks for industrial equipment manufacturers has closed on a $7 million funding round, bringing its total outside investment amount to just over $11 million to date. Thoro.ai, a company Carnegie Robotics spun out ..."
     publishedDateTime: 2023-05-22T21:01:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/91535/nvidias-massive-rtx-4060-gpu-
 webUrl: "https://www.tweaktown.com/news/91535/nvidias-massive-rtx-4060-gpu-giveaway-comes-with-hints-of-overcompensation/index.html"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Nvidia to face shortages after a boom in GPU demand for its AI"
+    excerpt: "Nvidia is seeing a bump in GPU sales in the market over its AI capabilities. However, while this is great news for its GPU business, it would also have the company face stock shortages till the end of this year."
+    publishedDateTime: 2023-05-23T08:59:00Z
+    webUrl: "https://www.gizmochina.com/2023/05/23/nvidia-shortages-after-gpu-boom/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/05/NVIDIA-Hopper-GPU-_3-g-low_res-scale-2_00x-768x723-1.png"
+        width: 768
+        height: 723
+        isCached: true
 
 secured: "kMAnHY2ejEQlFjG83sBNqCKlzOK+LRTZ9dEPXMtzv9NBf/Zja4A655Nta9z10QTaPi9UvnFr+gutrV5fJiwYgVXhJ9oUTDcr9eY/ZK6a5UfLTnN3fjwJyG5Wss7/1mEq08oAV3+KpbYK6wFZrYklZtYV/JR3TIPwXau9mgtL+ZbpHKQfO1GMaw/Rjp7rA/0YvbBvLRSBKzuzIByPJJWEEfWIzoCsHVjgi8/bngzp4bdlRM85r0/Dg2Cbs3RzBbVFAdpWmMSSKNgWju1yIioSVgc9sZKhrhrGuehiJiWhI8/cFlfTwooJxOFvJJfbg93NIMHRUu2Wlsm7f+gmcpdPezypji3U59k++72UpqeFq6yfxM4V2ZS3JXOEAo6OKXMd8od+CGgMVqPyfDTSyZz+dMJsJrXsfeOkywXGOxN7cQMbsKUMV00GgaiOao+oDwdEVPQWN6yVNRjdpaYhU2CPYPgOlMT5G1QiYkrXIqnkWZ22cptvy053aokBOX78+gawANE1IUYhIx13680ZJAcGPg==;0gztltMv6+M4ikLPehvG/A=="
 ---

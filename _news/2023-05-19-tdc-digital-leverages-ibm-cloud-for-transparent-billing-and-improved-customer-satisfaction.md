@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blog/tdc-digital-leverages-ibm-cloud-for-trans
 webUrl: "https://www.ibm.com/blog/tdc-digital-leverages-ibm-cloud-for-transparent-billing-and-improved-customer-satisfaction/"
 type: article
 quality: 72
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: IBM
@@ -20,6 +20,17 @@ provider:
 
 topics:
   - IBM AI
+
+related:
+  - title: "Configure an IBM Cloud Code Engine application to use custom domains"
+    excerpt: "How to expose a IBM Cloud Code Engine application via custom domains.\nThe post Configure an IBM Cloud Code Engine application to use custom domains appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-05-23T13:57:58Z
+    webUrl: "https://www.ibm.com/blog/configure-an-ibm-cloud-code-engine-application-to-use-custom-domains/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
 
 secured: "APkMX2qnM3HOSw7PWR6GoC6pm8+Q9vSmhJP4300wL7IHhAP84I5E0wVasPBHg3du5JTz5ylhBI5PUyrnw/Q8GyDxPNe88TO/GuowIh9KUuS3f2p3xI/9dUP4Xt6uHinDx/TBZbykC7RlEG4e80osMtOukhF0iAgAYQ4QX0hiQb7xKST7LZS1hBuYspNw8RCxD9D1lzcUSUkpmPo5nEDFs2m9CshN1VbmWZykEMkEuk5h6+w8f7hhub5AQdUiq23DuN61pSgHJSfcipuIXoVUoRyTKaa/68bZl1UWA0lwwU6GE3qnqiz5Olz8MhF3jPUxLNLuejWbk0gX1a+dEBSt+x/fTbKLL3n4sJsIztWbL6Q=;IvpiNTy1u+pDEdyd68+4Og=="
 ---

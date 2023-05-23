@@ -22,90 +22,47 @@ topics:
   - AI
 
 related:
-  - title: "Stability AI open sources its AI-powered design studio"
-    excerpt: "Stability AI has open sourced its AI-powered design studio, which taps generative AI for image creation and editing."
-    publishedDateTime: 2023-05-18T22:31:00Z
-    webUrl: "https://techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/"
-    ampWebUrl: "https://techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/amp/"
+  - title: "We Put Google’s New AI Writing Assistant to the Test"
+    excerpt: "I used Duet AI to send emails and plan my wedding. Its writing can be stuffy and stereotyping—but it’s a glimpse of the future of productivity apps."
+    publishedDateTime: 2023-05-20T10:00:00Z
+    webUrl: "https://www.wired.com/story/googles-duet-ai-writing-assistant-review-test/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Wired
+      domain: wired.com
+    quality: 67
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675"
+      - url: "https://media.wired.com/photos/6467cb66f2de86183cf5b3b2/191:100/w_1280,c_limit/Google-Duet-Hands-On-Business-Business-1468320082.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "The big thing missing from Google's new line-up is a next-gen AI assistant"
+    excerpt: "This chip features all of its recent hardware launches, powering AI tools like Magic Eraser, and it’s clear that custom silicon with ML smarts will be a core part of future product launches too. So, again, it’s a rather glaring omission that Google has ..."
+    publishedDateTime: 2023-05-21T15:04:00Z
+    webUrl: "https://www.androidauthority.com/google-io-ai-assistant-missing-3326962/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-3.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Cursed New AI Calls Debtors to Hassle Them for Money"
+    excerpt: "The rise of AI coincides with all-time debt highs — and one startup is cashing in by having AI robocalls do way more collections than humans."
+    publishedDateTime: 2023-05-21T16:16:00Z
+    webUrl: "https://futurism.com/the-byte/ai-debt-collection-robocalls"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 37
+    images:
+      - url: "https://wp-assets.futurism.com/2023/05/ai-debt-collection-robocalls.jpg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Schools bewildered by AI advances, say head teachers"
-    excerpt: "UK schools have been left confused by the fast rate of change in artificial intelligence (AI) and its impact on education, head teachers are warning. In a letter to the Times, educators from the state and private sector say developments are \"bewildering\"."
-    publishedDateTime: 2023-05-20T04:58:00Z
-    webUrl: "https://www.bbc.com/news/uk-65655010"
-    ampWebUrl: "https://www.bbc.com/news/uk-65655010.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-65655010.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10AC0/production/_129788286_gettyimages-450123483.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Artificial intelligence and mankind"
-    excerpt: "By NICK DAZANG ON August 2, 1939, Albert Einstein, the equivalent of a scientific genius, endorsed a letter drafted for him by a fellow physicist and inventor, Leo Spitz Szilard. The letter was sent to the United States President,"
-    publishedDateTime: 2023-05-22T05:30:00Z
-    webUrl: "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/"
-    ampWebUrl: "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/amp/"
-    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/amp/"
-    type: article
-    provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 59
-    images:
-      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2018/05/tech-per.jpg"
-        width: 412
-        height: 250
-        isCached: true
-  - title: "FlowX.ai raises $35M for its AI-based approach to application integration"
-    excerpt: "“Digital transformation” and AI remain very buzzy terms in the world of enterprise software, and today a startup operating in Romania that’s built a platform that taps into both concepts, and is seeing user traction in the financial sector, has ..."
-    publishedDateTime: 2023-05-22T12:03:00Z
-    webUrl: "https://techcrunch.com/2023/05/22/romanias-flowx-ai-raises-35m-for-its-ai-based-approach-to-application-integration/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 46
-  - title: "The AI-powered hybrid-multi-super cloud"
-    excerpt: "Here’s a quick snapshot of some key players that, over the past decade, have worked hard to create their own version of cloud platforms — with mixed results. These firms have different levels of cloud maturity and varied strategies,"
-    publishedDateTime: 2023-05-20T15:52:00Z
-    webUrl: "https://siliconangle.com/2023/05/20/ai-powered-hybrid-multi-super-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/AdobeStock_594873507.jpeg"
-        width: 6144
-        height: 3511
-        isCached: true
-  - title: "Dubai announces AI plan to slash traffic jams"
-    excerpt: "As such, it ensures that AI models do not make decisions incompatible with the AI principles and ethics set by the Dubai Digital Authority. RTA has trained several Emiratis in leadership, supervisory and technical roles to empower them to analyse data and ..."
-    publishedDateTime: 2023-05-21T09:12:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/transport/dubai-announces-ai-plan-to-slash-traffic-jams"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 39
-    images:
-      - url: "https://www.arabianbusiness.com/cloud/2023/01/22/New-Dubai-road-2.jpg"
-        width: 1200
-        height: 675
+        height: 630
         isCached: true
 
 secured: "Lh7lAejEtPvsR8uUlwTB+12RuAm8MZHzpGSfzTZkM2q0WYdwsfKmUuYQcTxokWhV8dmU60Lm3m9wSptkRFcrAzS7wTjiEjFF/Id976+S4jkL5k1NxAkqu3Izx6MA1QNQw14+FASUzGhG8yStKrzQYbmxw0jZn2yazU/55ooT9kTyE2YxkqsuSJ1zMBCSGsIpNGzbOyQIFBhd9x7L74ovazkQ9wP+VcWpwCCQio380cVidhMIfpJYS/GzDVBYql5dKf6q8Cf/DXCt3AOb2DZgWRVwdnAfpgIRoXqCuF1V8Q3Y/lrxavs93vbUVk6vKWIc3L9t3Kw1GVnulGERkkHVAGciZkzSHzKGL0aKKR8I4jp3Vo1UyQ+eNWne+TETLUW6nXsJoo5e9for/4r+z0wQ7m8zNbSY3BTj6n+h8CFmRPmSJaG+DeVjfdQCdV4o7zwZynz6WI/HGfQCyp3OLf+B10jIieV3aERtikEreBi2VSoYDJKeYI9+eSdvbNpxlYaznml/58foEo9WdVwhiPqZuA==;s+o1OtAuAAvvh8Uqu6IKvA=="

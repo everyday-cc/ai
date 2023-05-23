@@ -33,6 +33,20 @@ related:
         width: 480
         height: 610
         isCached: true
+  - title: "Microsoft Build 2023: The Biggest Azure News"
+    excerpt: "Microsoft Build 2023 included news around DevOps, Azure AI Content Safety, Azure Cognitive Service for Language and Microsoft Fabric."
+    publishedDateTime: 2023-05-23T15:00:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-build-2023-the-biggest-azure-news"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0281-17e8a96e83eb-d93a4c3e590a-1000/microsoft-azure-sign-2.jpeg"
+        width: 500
+        height: 375
+        isCached: true
   - title: "Check Point Software Extends Its Industry-Leading Cloud Firewall To Secure Microsoft Azure Virtual WAN"
     excerpt: "CloudGuard Network Security provides organizations with cyber resilience through a consumption-based offering, seamlessly integrated inside the A"
     publishedDateTime: 2023-05-23T08:55:00Z
@@ -47,15 +61,6 @@ related:
         width: 703
         height: 879
         isCached: true
-  - title: "Check Point Software extends its Industry-Leading Cloud Firewall to Secure Microsoft Azure Virtual WAN"
-    excerpt: "Check Point® Software Technologies Ltd. (NASDAQ: CHKP), a leading provider of cyber security solutions globally, announces the general availability of its industry-leading Next-Generation Cloud Firewall natively integrated with Microsoft Azure Virtual WAN to provide customers with top-notch security."
-    publishedDateTime: 2023-05-18T21:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-check-point-software-extends-its-industry-leading-cloud-/2023/05/18/9817479.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
 
 secured: "dJelQfCnCr89OeeKsD3xNGLmjYeeqtRBEkeTMTggF2EOzDDEdxibyO05wHiIVlxh4i4oH47KJlqgy/G6CiPr4HnF19yxNuRHkp6zlq6OHdizQz0A2oAq0kjpjr57j0coIZOG5YkXarv7fbppWLsvks4F4bk9Bc2WYPergoYSdM++65rLWtqJjao1szdM9gEgVRkUbPLmTBIcnETdHsNwDWtMLhZQXxsvBtCTSEBGogE/1knSQ05YMeazDRQS/AnrT3daH9+Q/MCu6qCixI2TQp7/ccmj8xwd+fT1pmX/TPOqZBz5OSuRvVk+uIdLkqldvwT0V//B4l1+eTYMKf6OK7Stp3HXYFSTC6pcdajweEQ=;AwZu4huilJx+47u7zShkpw=="
 ---

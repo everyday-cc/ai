@@ -19,6 +19,17 @@ topics:
   - AI
   - Machine Learning
 
+related:
+  - title: "Artificial intelligence revolutionizes medicine"
+    excerpt: "OUR first fascination with AI (Artificial Intelligence) was seeing how they moved in sci-fiction movies like “The Terminator” and “Matrix.” Another later movie was “Chappie,” which is about a “RoboCop” droid hijacked by the bad guys and utilized to fight the good RoboCops,"
+    publishedDateTime: 2023-05-23T12:34:00Z
+    webUrl: "https://businessmirror.com.ph/2023/05/23/artificial-intelligence-revolutionizes-medicine/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 21
+
 secured: "Uebc/P2LcVJGkOLat67PIwxNY0q1FS4mu4KMh5v3hwgzoifXC0fEa0S9mxFDauemUt4HgjqUYZce2dHu8A9AGmZvdYZq+i+9z6hbwtZe/MzIC7v/XV58byBBlcmJQ4F703218Qc5VWHoXbPOxusm9klzkMHoz71Kp2vSdSWGCRPuPMTDlg0wVD0bhCRd5vf4PFYN46A1YmnRGO1PZX6fElPh05tIlCRGXn7G4q9VgM4GVjTjh2/AnXjxV13h9eRMEYrHjQKeRbXVvmKjWHf8Pt9Q6fOjHSKUmqnagCjXVR3oLZFSmRi8NTDT12q9GfgS3fmoP1jfINbxhcUl+K8XNFQZYFCxZlJ6sNOKxky7rpJ7kF8gUeox4ooCcmMqD/jjKiEOq91d/fBtkpQFhC7QYK8eG6zZouGB4/nfUqZH+MA0QIzd8YGChAD1Gmt30oy/2pn/NQQVh4mgRCRQBo661tDDkfyURBOT0vc6l/er8wD2lzaomiHXlj2muQKzGyTCXN2mUJ8gyzmEzdiVRaoZdQ==;jIvZ5B1z/1j8HUxUq3fpOg=="
 ---
 

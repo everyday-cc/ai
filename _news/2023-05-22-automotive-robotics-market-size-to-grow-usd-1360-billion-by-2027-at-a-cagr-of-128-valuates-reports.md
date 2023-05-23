@@ -44,20 +44,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 31
-  - title: "Artificial Intelligence In Healthcare Market Size To Hit USD 12.22 Billion By 2030 At 51.9% CAGR Report By Market Research Future (MRFR)"
-    excerpt: "According to a Comprehensive Research Report by Market Research Future (MRFR),“artificial intelligence in healthcare market Information by Component, Application, Technology, End User ..."
-    publishedDateTime: 2023-05-18T19:36:00Z
-    webUrl: "https://menafn.com/1106272765/Artificial-Intelligence-In-Healthcare-Market-Size-To-Hit-USD-1222-Billion-By-2030-At-519-CAGR-Report-By-Market-Research-Future-MRFR"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?930737"
-        width: 444
-        height: 250
-        isCached: true
 
 secured: "pw+XKwMVn1jLCYkfazoHwZ+ILG3AamNpFqHAosxL36MEtHgtjM0//dewpIrpNscHDwLt0dtoOselVl7S/twBS9MwCkjdUUNHkjqQFBQbYAUx9ZhGdY0oLma+FIAMydYf3rMzcnxT8LvTBcNWKH9ynPyKesVn0Br+LzNsGFErgWeI5N83o/uThY1NmP/Kl0YyFL21sESe9k09t3rJNi+ePkWrFnQ+a/VWjqGoLdh5L7SiQSczAw4xt5Oxaw10EZdbhyvwsPZa5Muv1nh0vizo21RYvpEBeEf9AdfGi4j+Or30SfXjHBbnb1wvshVQKHjTcS7+s1L+WNZzfTpxCiJyLrtBJYFZzat7c/grNk9oA9c=;6DpxpwILeX7Nrmj5g9rWhA=="
 ---

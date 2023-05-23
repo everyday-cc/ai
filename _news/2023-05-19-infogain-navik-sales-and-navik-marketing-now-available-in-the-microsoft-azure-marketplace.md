@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Build 2023: The Biggest Azure News"
+    excerpt: "Microsoft Build 2023 included news around DevOps, Azure AI Content Safety, Azure Cognitive Service for Language and Microsoft Fabric."
+    publishedDateTime: 2023-05-23T15:00:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-build-2023-the-biggest-azure-news"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0281-17e8a96e83eb-d93a4c3e590a-1000/microsoft-azure-sign-2.jpeg"
+        width: 500
+        height: 375
+        isCached: true
   - title: "Infogain AI Business Solutions Now Available In The Microsoft Azure Marketplace"
     excerpt: "NAVIK customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. NAVIK is an AI platform that addresses the breadth of AI ..."
     publishedDateTime: 2023-05-19T14:46:00Z
@@ -50,15 +64,6 @@ related:
         width: 703
         height: 879
         isCached: true
-  - title: "Check Point Software extends its Industry-Leading Cloud Firewall to Secure Microsoft Azure Virtual WAN"
-    excerpt: "Check Point® Software Technologies Ltd. (NASDAQ: CHKP), a leading provider of cyber security solutions globally, announces the general availability of its industry-leading Next-Generation Cloud Firewall natively integrated with Microsoft Azure Virtual WAN to provide customers with top-notch security."
-    publishedDateTime: 2023-05-18T21:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-check-point-software-extends-its-industry-leading-cloud-/2023/05/18/9817479.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
 
 secured: "fI0Utf+ZhrBrws/g7jSlAEBWM+TPAeg/l4B+0DqxKPBb1M/9Ey4Vpu3oBlbru1WxaCguHCeefbLqbugQ3M0awmc/0ceSPpN9eu2IhCUsDE45mupT/thMAbFblx/2txLvMavQVcouq6Dx4ABxFUWfNP8uWTqTPN8fqOYbL25rYvU0K4pB/yY6xuLt5WMtsmGgxiF1FX3wBUE1+zlvxIrAeNlX8Ogx7PGJS5k98p7RLTeDpsc/lrOpzVIP5iCd9TCAxY/kSRDUyfFnx47CBvGbGKRaTXGIWZtQ+OZjoh4PHbj2M932HRWHiNj+Z3jme9cs0sHTTJAm5MASQS+m7BT6XuSPgIRCYP2S8S/kpDUnzak=;mf5XvCeG5IUimwOPyHTakA=="
 ---

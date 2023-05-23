@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google employees bombard leaders with questions about the company's AI strategy, asking if it's become too AI-focused"
+    excerpt: "In a leaked recording, employees questioned Google CEO Sundar Pichai on the impact AI will have on the company's core business."
+    publishedDateTime: 2023-05-19T19:20:00Z
+    webUrl: "https://www.businessinsider.com/google-ai-strategy-questions-leaked-audio-tgif-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
 
 secured: "pbQmbg6tnLt7w4GIyomTkbzFdoh1RBbtXvM/nlZCEnyywMibygHs/onbYtym4UFLsLilGz/vsmsmI0FQARFLCgA5gYTtP8hhwCd1tEWOdUqmLOTlgDBL8u/Rasc1kb4N+L280E4fBBv1kOvOBAT5umwidfBcpLVAfc1nNT4SqGyhcTWsVBAEfCf0BEFs2184nVk9HoSg7GwRDHGmRsu1vqwwQijlT6iMnqw9l9SQ/3KkiWh4OJMgCrPfy2/kwIiRBg/Rq1y5Vo9XRIsrCVYHTJGuDaz07Bo9Do+r7bYYqVy4RqExTCkKYMRuGyB0DRbi6Wp5txJTEX9vmr5V2g8OZCB5a6vy891LYQHBIICBqbI=;k9vyC3Mt6He8ab1GOFNRlQ=="
 ---

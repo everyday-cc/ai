@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/show/the-promises-and-potential-pit
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/the-promises-and-potential-pitfalls-of-artificial-intelligence-in-medicine"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "Making sense of AI research in medicine, in one slide"
-    excerpt: "Research on artificial intelligence in health care runs the gamut of risky but rewarding to relatively useless. Here's what one expert makes of it."
-    publishedDateTime: 2023-05-22T08:30:00Z
-    webUrl: "https://www.statnews.com/2023/05/22/ai-artificial-intelligence-research-medicine-health/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 37
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2023/05/DSC046502-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "xEg8QHOs42e3LHrhPI7+pk791TQmaSAp1Od64YqAj/BHwtvquBnisQWECPiNvA9Ar+V1sHm7uu1CQ8hyuBpLnPaGXAkfZMI67snUbjkvNdukQUegZn6f2X6h3G8mEoAy+3UwjtSmw74Q5d6iMVQpkeN845AEGjWEACGBUbquSji41PzeFMG+66Xo71EqSqMzzy/lbxYz4MReZ5yx1iRmsuL/Gi4Tiz7toiHmtxlOZ0VKtgLp817Xw0OIetHtnSx/k9OBZEoroomV06zcSP32KLVpsEBEqFiEeLEqt6aGcuJxPjPBeCkQfmRCkKLTidGySZhXWKVE5EZZZemBXm86cnreiFrkYmt2ZRDsPwrJKE5fzWQqlDdZyuHFYduirLVEAQiYb9rfh7Y0O4ifohHtLDne0ZUACiu19thGr42HsRT66AAnFTmuzzt3gXSKDDRRBiU5mT0fB5G1WIywFY11+UVhGRpe5X7aHx9zyl6FiIeEj3bHxC5wYyl4Jk31c/T9ebbW53k2qtyrtwoewcYvBQ==;s0kicH3czUwvBb7JSrxfyA=="
 ---

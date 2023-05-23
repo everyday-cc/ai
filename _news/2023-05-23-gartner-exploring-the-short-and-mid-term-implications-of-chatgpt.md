@@ -55,6 +55,15 @@ related:
         width: 930
         height: 465
         isCached: true
+  - title: "How Many Language Service Providers Have Piloted ChatGPT in Workflows?"
+    excerpt: "Language service providers are actively piloting ChatGPT and large language models (LLMs) in machine translation, quality evaluation and business workflows."
+    publishedDateTime: 2023-05-23T12:01:00Z
+    webUrl: "https://slator.com/how-many-language-service-providers-have-piloted-chatgpt-workflows/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 4
 
 secured: "2RNUTh+TZyfHB+8/KbJrH8rnN5i/mwLCItPxePOtSTcfaRziK4MCcVuMw4mipN+kcA9U53AxwdOkKMQTmxur/sp/5LYtmrqTfxbnvpsuIDAOPd5ViSk6hh7nBMgNgFCf3ggu9DC6lGEKDIAErRExsVBCxmbRy9QGG5FTBal/eDBtwEGU9d/B7+pPvbvbY7vJZ3PcnpR5HEa/xinDqkg9rtbXTtG5/K4cO2vCqgsCx1eF8Aqb0nYYz8SzJf8NIXtLdoUvgb2GZanqbeQ0jYcGbj+M7UZdVSCIPw/lp+87OcZ+ZFMHI69gwLrmBEojRbAMLMgA/p0ZkJgz10zpkC47Bd8DHgxV4FSZ3Deq8YtvlTw=;1jaN723Rm7TEv44AqPSueg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://omaha.com/news/check-your-artificial-intelligence-bossware
 webUrl: "https://omaha.com/news/check-your-artificial-intelligence-bossware-tools-for-bias-says-u-s-agency-head/article_c365446c-3076-5e32-849e-9496fa2cdfb1.html"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Check your artificial intelligence 'bossware' tools for bias, says U.S. agency head"
-    excerpt: "The head of the U.S. agency charged with enforcing civil rights in the workplace says artificial intelligence-driven “bossware” tools that closely track the whereabouts, keystrokes and productivity of"
-    publishedDateTime: 2023-05-18T21:26:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429865"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429865"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/check-artificial-intelligence-bossware-tools-bias-us-agency-99429865"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 51
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_48f2da9321a023aa102e636026667bb4_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "bxhZwQ5iYqtdxTozW+HmbgIiA9BtruxLrEyKFU6xlJhOsVjDrKLyQoe1NPnRCxiojdhlGbM3wC7IXDZ8RhoB+LVdW9iSX3gkbDYvO4YCCo21/K8da6tlpO8iP0x9y1bFrM9lkd0DgNBctllM/hwnn2gp3WUb56//g0NuyPJXP+6QJ4IV77oPs8AM/GgSwQMKA2XN61X5crVx67majfTdewaIo2qTG4zCYmc+3A4Hzs2M29brSqeaGj53lIgWv59N9pCQ7W0GOqKuM5gZ914cqj4OseOEFAod0rATjag6qnojMNHIk4qAyYvVi9vXExLhARhUaREZdiM8qm3+pI9AGOzy5FuXVZc8WceEqFvp/+itTE+llCnAHPar+jERtGqmqMBM1b//2bDXo6gamZNYMtSqF2TJ0MBbbGfC9Zu2BebkYPa9UHHd2hKzWugoV+txsi5ZGz1l+YftJbnLee9E1EBcFlgcyvCJ36xhP5GY2zOlfW1twFEcO7FXiRDbXUdDqWWMeaxbMetreNVoxL9OCw==;+FNFTYgjAcWai6zF3PKaaQ=="
 ---

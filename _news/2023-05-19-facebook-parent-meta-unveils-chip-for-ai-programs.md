@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-ch
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/amp_articleshow/100343511.cms"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 4
+  - title: "Shutterstock to acquire Giphy from Facebook parent Meta"
+    excerpt: "Shutterstock announced that the transaction consists of $53 million of net cash paid at closing, inclusive of working capital. Meta is also entering i"
+    publishedDateTime: 2023-05-23T13:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/shutterstock-to-acquire-giphy-from-facebook-parent-meta/articleshow/100451593.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 4
   - title: "Facebook parent Meta fined $1.3 billion for violating EU data transfer rules, company responds"
     excerpt: "According to the Irish privacy watchdog, Meta's use of a legal instrument known as standard contractual clauses (SCCs) to move data to the US \"did not"

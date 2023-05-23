@@ -154,22 +154,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Are you using AI tools like ChatGPT in your day-to-day life? We want to hear from you"
-    excerpt: "Artificial intelligence-powered tools such as ChatGPT have exploded online over the last several months. If you're using AI in your day-to-day life, CTVNews.ca wants to hear from you."
-    publishedDateTime: 2023-05-18T21:07:00Z
-    webUrl: "https://www.ctvnews.ca/sci-tech/are-you-using-ai-tools-like-chatgpt-in-your-day-to-day-life-we-want-to-hear-from-you-1.6404909"
-    ampWebUrl: "https://beta.ctvnews.ca/national/sci-tech/2023/5/18/1_6404909.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2023/5/18/1_6404909.amp.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 52
-    images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/4/25/1_6370398.jpg"
-        width: 1020
-        height: 572
-        isCached: true
   - title: "Official ChatGPT For iOS App Launches With Voice Support"
     excerpt: "In a pretty big move, OpenAI has just launched the official ChatGPT app for iPhone and iPad, eliminating the need to go through mobile browsers for access. However, that is not all, the app brings with it support for Whisper;"
     publishedDateTime: 2023-05-19T15:35:00Z
@@ -308,15 +292,6 @@ related:
       name: MedPage Today
       domain: medpagetoday.com
     quality: 19
-  - title: "NYC public schools opening the door to greater use of AI, loosening reins on ChatGPT"
-    excerpt: "Schools Chancellor David Banks unveiled plans Thursday to offer a toolkit for teachers about artificial intelligence in their classrooms, as well as create a repository for schools to share their findings across the city."
-    publishedDateTime: 2023-05-18T19:50:00Z
-    webUrl: "https://www.nydailynews.com/new-york/education/ny-new-york-city-public-schools-ease-chatgpt-ai-20230518-5qinogsuwzekzh7aai73aevr2m-story.html"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 12
   - title: "I asked ChatGPT where it'd put Brightline stop on Treasure Coast; here's what AI bot said"
     excerpt: "Like many of you, I’m still trying to figure it all out. I recently completed some training in AI and journalism ethics. The other day I was motivated to use perhaps the most well-known AI application, or chat bot, ChatGPT, which can be found online at ..."
     publishedDateTime: 2023-05-19T10:00:00Z
@@ -335,6 +310,15 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 10
+  - title: "Public officers allowed to use ChatGPT and other AI, but must take responsibility for work: MCI"
+    excerpt: "Public officers have been told not to feed generative AI tools with sensitive information. Read more at straitstimes.com."
+    publishedDateTime: 2023-05-23T12:14:00Z
+    webUrl: "https://www.straitstimes.com/tech/public-officers-allowed-to-use-chatgpt-and-other-ai-but-must-take-responsibility-for-work-mci"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 7
 
 secured: "AAdpayuXVaPPcwsRRQS9eYsennxIxT6o+B7PU063KsUrscqpWQWFbWVZvRAjBhniLtiTw3ZmriNo8/RfYYbZKjjo4zwOeSCkvk9UJ7U/9KNtRpN8r9076Pg+R11LMxQr98CPBKxRXNKl45eG6iMGtZL66m8HBhc0EgzrFDKsw76cgZUGnRQgN5KYys9v3MN0KrVmkDvHmkVNYfaXPM6uiI3rqc5TmuOEDdd7OdBDUn/3Lp934gxBYOHzWe8rIQiw7+YwY7F8Af5RY6xvYr+pq/pl4bwSCH998zcY705eB50By7+i9i14IrCxQhQP6oPbwRG4BawRMPxxPDInIThHj+cafE/07F+YSfpBpf5BVcw=;in+Kl7Hd/aIsrdLEOcdOmg=="
 ---

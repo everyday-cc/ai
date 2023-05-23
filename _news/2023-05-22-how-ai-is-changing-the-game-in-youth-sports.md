@@ -24,35 +24,70 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Going To Change Supercomputer Rankings Even More"
-    excerpt: "And as we see the rise of commercial AI systems, the vendors that build these machines and ... “Trento” AMD Epyc CPU and a quad of AMD “Aldebaran” Instinct MI250X GPU accelerators link by the Slingshot 11 Ethernet interconnect from Hewlett Packard ..."
-    publishedDateTime: 2023-05-22T21:05:00Z
-    webUrl: "https://www.nextplatform.com/2023/05/22/how-ai-is-going-to-change-supercomputer-rankings-even-more/"
-    ampWebUrl: "https://www.nextplatform.com/2023/05/22/how-ai-is-going-to-change-supercomputer-rankings-even-more/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/05/22/how-ai-is-going-to-change-supercomputer-rankings-even-more/amp/"
+  - title: "Addressing The Ethical Use Of AI In Healthcare"
+    excerpt: "The push to digitize and automate healthcare data management represents a giant leap forward in helping health plans deliver better outcomes for their members."
+    publishedDateTime: 2023-05-23T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressing-the-ethical-use-of-ai-in-healthcare/"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 61
-    images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2022/08/oak-ridge-frontier-signatures-logo-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Using Artificial Intelligence to Create Aperture Radar"
-    excerpt: "Carmakers are seeking to balance cost with capability as they increase the advanced driver assistance capabilities of their cars. Tesla, somewhat controversially, recently discontinued the use of radar on its vehicles in favor of a cameras-only sensor ..."
-    publishedDateTime: 2023-05-21T02:02:00Z
-    webUrl: "https://www.designnews.com/automotive-engineering/using-artificial-intelligence-create-aperture-radar"
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+  - title: "Why AI Is The Future Of Offshore Oil Drilling"
+    excerpt: "But this is not Shell’s first foray into AI tech. Back in 2018, the company partnered with Microsoft to incorporate the Azure C3 Internet of Things platform in its offshore operations. The platform uses AI to drive efficiencies across the company’s ..."
+    publishedDateTime: 2023-05-21T23:03:00Z
+    webUrl: "https://oilprice.com/Energy/Crude-Oil/Why-AI-Is-The-Future-Of-Offshore-Oil-Drilling.html"
     type: article
     provider:
-      name: Design News
-      domain: designnews.com
+      name: Crude Oil Prices
+      domain: oilprice.com
     quality: 39
     images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/sensor%20on%20car.jpg"
-        width: 3080
-        height: 1601
+      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-05-19_chqonzsu0y.jpg"
+        width: 718
+        height: 300
+        isCached: true
+  - title: "Making sense of AI research in medicine, in one slide"
+    excerpt: "Research on artificial intelligence in health care runs the gamut of risky but rewarding to relatively useless. Here's what one expert makes of it."
+    publishedDateTime: 2023-05-22T08:30:00Z
+    webUrl: "https://www.statnews.com/2023/05/22/ai-artificial-intelligence-research-medicine-health/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 37
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2023/05/DSC046502-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "HHS CIO Karl Mathias Details 3 Promising Applications of AI in Health Care Sector"
+    excerpt: "Department of Health and Human Services Chief Information Officer Dr. Karl Mathias highlighted three major areas of AI progress he’s seeing within the health care sector during his keynote address at the Potomac Officers Club ’s 4th Annual CIO Summit."
+    publishedDateTime: 2023-05-22T10:01:00Z
+    webUrl: "https://www.govconwire.com/2023/05/hhs-cio-karl-mathias-details-3-promising-applications-of-ai-in-healthcare/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 34
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2023/05/unnamed-file-146.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "How Researchers are Using Artificial Intelligence to Help Patients Understand Their Health"
+    excerpt: "CASMI visiting researcher Francisco Iacobelli and his team are designing an intelligent tutoring system for breast cancer survivors with low-literacy skills."
+    publishedDateTime: 2023-05-22T16:57:00Z
+    webUrl: "https://www.mccormick.northwestern.edu/news/articles/2023/05/how-researchers-are-using-artificial-intelligence-to-help-patients-understand-their-health/"
+    type: article
+    provider:
+      name: mccormick.northwestern.edu
+      domain: northwestern.edu
+    quality: 29
+    images:
+      - url: "https://www.mccormick.northwestern.edu/images/news/2023/05/how-researchers-are-using-artificial-intelligence-to-help-patients-understand-their-health-social.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "dKvsY7dO0uF1omk+UGlXP7parWCIR+coimPkrDJxsFHaUZHHlrgeYUojqltcNgRMb2aK6VCoqEjXxHI4ipc6fcWUFbPsow9aQv3hGs2kLV4wP5agyDvbPZlXkR3l0nfVQnHzwFe0FLc9nov0dnXqUd16JWnHAnPU9X+DRoiRctqhF6BfmtPrzNdn/UczagZ40wbz71djgatg+4e3QOUSnLkUHSv4CaaOMTcyQTORi98U1MGfXkdqeDRNkr8MTXp18Q61Xs5XqK+uN4E9t+fY7Lvnx+5If6A4Cxk+qLPbNHruNfWNi2dSGMLqLfstq3+lF0zCqb5v8/wvCbH3raEl4sPMhD2aE61YfxvVDQBiPig=;pdvS11j8mgC6MEl2SF9OmQ=="

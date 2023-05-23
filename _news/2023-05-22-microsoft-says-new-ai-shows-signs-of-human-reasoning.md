@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "All the major Bing Chat and AI announcements from Microsoft Build 2023"
+    excerpt: "Microsoft is continuing to grow its presence in the AI space with a series of new updates and launches. Here's everything you need to know."
+    publishedDateTime: 2023-05-23T15:00:00Z
+    webUrl: "https://www.zdnet.com/article/all-the-major-bing-chat-and-ai-announcements-from-microsoft-build-2023/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/all-the-major-bing-chat-and-ai-announcements-from-microsoft-build-2023/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/all-the-major-bing-chat-and-ai-announcements-from-microsoft-build-2023/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/124918cee0367daf40b45afa743a1fea317fabd5/2023/05/22/6b71b835-9922-4290-a876-7844a6eddf85/gettyimages-1238869000.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Twitter accuses Microsoft of misusing its data, foreshadowing a fight over AI"
     excerpt: "In a letter, a lawyer for Musk accused Microsoft of misusing the service’s data and demanded an audit from the software giant."
     publishedDateTime: 2023-05-19T14:53:00Z
@@ -51,6 +67,36 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Why Microsoft is combining all its data analytics products into Fabric"
+    excerpt: "The integration of its existing products such as Synapse and Power BI will help enterprises combine workloads while reducing IT integration overhead, complexity and costs."
+    publishedDateTime: 2023-05-23T15:00:00Z
+    webUrl: "https://www.infoworld.com/article/3697020/why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.html"
+    ampWebUrl: "https://www.infoworld.com/article/3697020/why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3697020/why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
+    images:
+      - url: "https://images.idgesg.net/images/article/2017/07/thread_weave_factory_automated_loom-100728392-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Nvidia, Microsoft Open the Door to Running AI Programs on Windows PCs"
+    excerpt: "Nvidia is working with Microsoft to let consumers run powerful AI programs on Windows PCs equipped with its RTX graphics."
+    publishedDateTime: 2023-05-23T15:00:00Z
+    webUrl: "https://uk.pcmag.com/graphics-cards/146964/nvidia-microsoft-open-the-door-to-running-ai-programs-on-windows-pcs"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 86
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/n/nvidia-mic/nvidia-microsoft-open-the-door-to-running-ai-programs-on-win_3f5p.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft healthcare AI subsidiary Nuance hit with job cuts"
     excerpt: "Nuance Communications, a Microsoft subsidiary, is undergoing layoffs to focus on its healthcare business. CEO Mark Benjamin notified employees of the job cuts May 19."
     publishedDateTime: 2023-05-22T17:10:00Z
@@ -64,6 +110,20 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
+        isCached: true
+  - title: "Microsoft Build 2023: The Biggest News On Copilots, AI, Windows, Security"
+    excerpt: "Microsoft gave updates on generative AI copilots, plugins, security, Windows, Fabric, Teams, Power Platform and other offerings during Build 2023."
+    publishedDateTime: 2023-05-23T15:00:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-build-2023-the-biggest-news-on-copilots-ai-windows-security"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 70
+    images:
+      - url: "https://www.crn.com/resources/0281-1814f1950bee-9e2b6be33127-1000/msft-build-2023.jpeg"
+        width: 611
+        height: 458
         isCached: true
   - title: "After Apple, Amazon, Google and Microsoft, Meta Now Builds Its Own AI Chips"
     excerpt: "Meta recently introduced its first in-house silicon chip designed for AI workloads, called MTIA (meta training and inference accelerator)."
@@ -88,19 +148,61 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 57
-  - title: "Microsoft Previews AI-Based Code Optimizations for .NET Apps"
-    excerpt: "Azure Monitor users can now try a public preview of Code Optimizations to detect performance issues with their .NET apps and services, per a Thursday Microsoft announcement."
-    publishedDateTime: 2023-05-18T21:44:00Z
-    webUrl: "https://redmondmag.com/articles/2023/05/18/microsoft-code-optimizations-preview.aspx"
+  - title: "Microsoft debuts AI assistant for Windows 11"
+    excerpt: "Microsoft is bringing its generative AI capabilities to Windows PCs. Unveiled during the company’s Build developer conference on Tuesday, the feature, called Windows Copilot, gi"
+    publishedDateTime: 2023-05-23T15:00:00Z
+    webUrl: "https://www.aol.com/finance/microsoft-debuts-ai-assistant-windows-150055268.html"
     type: article
     provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
+      name: AOL
+      domain: aol.com
     quality: 54
     images:
-      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages/Debug.jpg"
-        width: 647
-        height: 450
+      - url: "https://s.yimg.com/ny/api/res/1.2/oWaoc965sq0ptk_r_dxR0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_yahoo_finance_433/46a0bca06d0130cc4a9751e7d8ad3a8a"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft is giving letting companies build their own AI bots"
+    excerpt: "Microsoft , on Tuesday, announced a new service that will allow enterprises to build their own AI bots or copilots as the company calls them. Unveiled at Microsoft's annual Build"
+    publishedDateTime: 2023-05-23T15:00:00Z
+    webUrl: "https://www.aol.com/finance/microsoft-giving-letting-companies-build-150003775.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/7FwzaEN0YvUK_Xbntj0JqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/e34f91bf8aa03dff3cacc8549b0fe3ad"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The data platform for the era of AI: introducing Microsoft Fabric"
+    excerpt: "Microsoft has announced the launch of Microsoft Fabric, an end-to-end analytics platform designed to meet the growing data needs of organisations."
+    publishedDateTime: 2023-05-23T15:24:00Z
+    webUrl: "https://analyticsindiamag.com/the-data-platform-for-the-era-of-ai-introducing-microsoft-fabric/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/microsoft-ai-over-human.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Sapiens reaches agreement with Microsoft to leverage generative AI for insurers"
+    excerpt: "Sapiens International Corporation has announced an agreement to integrate Microsoft Azure OpenAI and Azure Power Virtual Agents to provide generative AI"
+    publishedDateTime: 2023-05-23T15:00:00Z
+    webUrl: "https://www.reinsurancene.ws/sapiens-reaches-agreement-with-microsoft-to-leverage-generative-ai-for-insurers/"
+    type: article
+    provider:
+      name: reinsurancene
+      domain: reinsurancene.ws
+    quality: 50
+    images:
+      - url: "https://149448277.v2.pressablecdn.com/wp-content/uploads/2023/05/blackrock-320x250-1.gif"
+        width: 320
+        height: 250
         isCached: true
   - title: "Twitter accuses Microsoft of misusing its data, foreshadowing a possible fight over AI"
     excerpt: "A lawyer for Twitter owner Elon Musk accused Microsoft of misusing the service’s data and demanded an audit from the software giant."
@@ -113,6 +215,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 46
+  - title: "Microsoft wants Copilot everywhere, including in Windows 11"
+    excerpt: "Build developer conference in Seattle, Microsoft is making a series of announcements. A significant portion of these involve copilots,"
+    publishedDateTime: 2023-05-23T15:04:00Z
+    webUrl: "https://www.techzine.eu/blogs/applications/106385/microsoft-wants-copilot-everywhere-including-in-windows-11/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/W11.jpg"
+        width: 1351
+        height: 615
+        isCached: true
   - title: "AI Activists to Target Microsoft at Build 2023"
     excerpt: "The activists from Ekō have published a full-page ad in The Seattle Times and a billboard outside of Microsoft Build 2023."
     publishedDateTime: 2023-05-22T15:11:00Z
@@ -122,6 +238,33 @@ related:
       name: Thurrott
       domain: thurrott.com
     quality: 36
+  - title: "Microsoft launches generative AI tools for developers"
+    excerpt: "Microsoft has launched new tools for developers to integrate generative artificial intelligence into their business software, as Big Tech races to commercialise the nascent technology."
+    publishedDateTime: 2023-05-23T15:00:00Z
+    webUrl: "https://www.ft.com/content/b9bb533e-d2cb-492f-89b9-69b26e64ad3a"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 36
+  - title: "Sapiens Joins Forces with Microsoft to Leverage Generative AI for Insurers"
+    excerpt: "Sapiens will integrate Microsoft Azure OpenAI and Azure Power Virtual Agents to provide generative AI solutions for insurance companies, allowing customers to easily navigate comp"
+    publishedDateTime: 2023-05-23T11:37:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/23/9819006.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 32
+  - title: "Microsoft outlines framework for building AI apps and copilots; expands AI plugin ecosystem"
+    excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from ... them to interact with other software and services. Graphic courtesy of Microsoft. “A plugin is about how you, the copilot ..."
+    publishedDateTime: 2023-05-23T15:22:00Z
+    webUrl: "https://news.microsoft.com/source/features/ai/microsoft-outlines-framework-for-building-ai-apps-and-copilots-expands-ai-plugin-ecosystem/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 24
 
 secured: "vVFFqbzVwn2/egKKUMfFrZk1V3sc8I7rnhvPsr1Cq0JrhY7CR9gufHfDXpeECcegEcaOI5DiK+XpQ3epqaYg+ASFFQmdO6LKarOOWc4ULhDCKacELN94gllxvLd7pDnkr+p3C1jS1gy9Ce3yZe/zWuh6+CPtFx6MCj+NPH5HR0mZUdVfqEqu42ISxLfOc0Bc7TYKFDmUn8fbZdXECYwIYc2FgY82jytsp77fEqstMtA8glJy9EZbrEo7RG8MA8G0SdyjmwP4U5SV7TdejnBnNsmMvwSLwXn7BywfSdNkuGAQXU0UraPtWUg3cEvJ9N9BMeG3F1KbiLyrjFWAdtAmLrT4JsjWRoB6q4KXEOFky+yjDG/eLiHyojj/6BwDDEHwwdLkIrfxnPaw+3Ib8B0CoZoIcQI7Y1rvGqBDD/QTm+x3jTmydUsaDh0bYAnyCa3ZwY3ZOIJP8emjK8DrwF9SuldlScYurM0Ss6dssT2LAlSHXfjmsw81yUbQDn7fjGkLt/DIdAc0+mKsVSuG+UInnw==;QwK3NdSoifTP3Kqw5w3y3Q=="
 ---

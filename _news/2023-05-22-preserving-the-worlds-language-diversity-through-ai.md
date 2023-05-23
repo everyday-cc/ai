@@ -59,6 +59,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI and automation headline Red Hat’s annual user fest"
+    excerpt: "It wouldn’t be 2023 if there weren’t an artificial intelligence angle, and Red Hat OpenShift AI is the headliner this year. Billed as a “standardized platform for creating production AI/ML models,” the software takes advantage of native graphics processing unit acceleration features and can be deployed on-premises or in the cloud with the same tooling and interfaces."
+    publishedDateTime: 2023-05-23T13:00:00Z
+    webUrl: "https://siliconangle.com/2023/05/23/ai-automation-headline-red-hats-annual-user-fest/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/Red-Hat-Summit-2022-Hero-Image.png"
+        width: 1184
+        height: 645
+        isCached: true
 
 secured: "4q4LgZt6gyv5LhDvyi1ykr6WFdUCoQIeF/EkHr5piN0pP/oBaKhuEjpx8By4wZlgy4OSm2Ag/GRVQnZdbi8cGHo2olM6cPyVsL3laBYo1xmmDHjTedrqhILsmVNakpGTA2dqAHX86F3eQD42Ium4l3Kd94bWzypFiLf6bWaYLX7Ifik8eMLRWUNp6TvmY4l0hdySbh0vpV7E8DSP5ejWju6WhiB7djpBJDIf6D0ULdYiqgsOWZBSlk0yaY+WKz95IjNFixMPVpl84CaoN37L3VV9qi9AtvvzoNtgaL7i5vTxMdbzxUWZBFjp9dP7L7sv0OLVlk6yJYMX8cWXnOvnHOcft0HZH9mk0kGYdPP4bEc5QZrt4IQYKWZOPwZiGZvYTNllNLyobSZ1oEPeqQCEBdnpY9q4sNzLv3FCTmGo9Q0n+0scRAM/lfg4PZDHgWlyswteANT2hj3wB1bUO3jyqhaIvV1czY8LErwGhJyAKQuEuMHmYA7dIwuFcjHtv9IoBqN7H8yRSbkNHimj+84tNw==;fkYrEsIYJejfwLgbjb1rvA=="
 ---

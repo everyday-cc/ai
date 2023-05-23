@@ -78,6 +78,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 4
+  - title: "Shutterstock to acquire Giphy from Facebook parent Meta"
+    excerpt: "Shutterstock announced that the transaction consists of $53 million of net cash paid at closing, inclusive of working capital. Meta is also entering i"
+    publishedDateTime: 2023-05-23T13:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/shutterstock-to-acquire-giphy-from-facebook-parent-meta/articleshow/100451593.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 4
 
 secured: "Fs8BHsJw9SKCrOwNBAgKcCOJi0SN28+UmdwRkpIl/seKUjit0d7yITlRwWHBzYvCax/WQD3cE/7GoStNyNzP/iAebkC4cWo86vYJDmEP5webFzLsvSAaea05WkxR6/DYrKeAuAP0oiDSGfEsXn3uEcAsm2BwmecJsp2gmgJGsYK8wTe31F1fQGsUnHyzp2jJdACWdC+iekwT5VcD0DguV87H8pNh/Hfyr1IVbt6jJMVHsG3Z9Pj+Bs3fLF9htmiKzserdnYGK7sRc9yv0o8YKx48UqFTHelIg8pHMLKk4Y8sQvvIxM47sKCoTleg3bNJVnztrzckMKpoqhKcZf5sdGERSf4Knr39QpjNw66QrVROSN4mKVAmi8L8rpSradlE81y0mnDUdRrW5NUXF8UV77ELjdqFz5DPXYBNhmnEBc4YXfJoiCTMaqlvIDrKC1M0QHi48h4I2mgkDR+E0Rp4FuOmvzBbLKxON7AJ7OHCvKg4WksaPEk0oBJDmMtfllKFpDlPHg2Qj9DKsXUvO1GiPw==;87dZda1RxJvOlo6OWtEYAw=="
 ---

@@ -51,15 +51,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Although AI is a Bubble, It’s Still Investible"
-    excerpt: "Sam Altman, the CEO of OpenAI, which brought us ChatGPT, has gone to Congress to demand regulatory oversight of Artificial Intelligence (AI)"
-    publishedDateTime: 2023-05-18T19:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/although-ai-is-a-bubble-it-s-still-investible-1032338366"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "uCvFcekhXZJDVIUHSNnV+KAHeuKAB1izNt0XhM+l/c0U/Xpv0us2RKt68wXv+xaFk0XnpoYcKCJI65EB9b9Qm4r+nXW9R2XY1v9lU95Kabfz1jPTCJL52IbfjYvn1mahw/1kzqDUJKgHwimIy+Zzi7Xn400EbFb4pjjCK+wBGXJXLfgVBHNu62pC79wfvWG9mZS2SJtE2fx+sxvhrkZXAi2jKqPkt4T+qM5Ia0vTaNKUhg7gxcuYcgOMcWfaalvdJfOJzVmNAobRgzrlEkKdm2eLryR8NL/drdEN1LcHT9Lkpc59wLwma9RFNDZNmm/+ft9SLYu1v2fDR6uCrBGQdS/mwuobhLwh5yqhaUQmEMktvogFmgPd2UpjjutPYfBvizSUP7dHZ7HQRzPwLQ3DELtLosEZT31ST991fUODUKx5+PPcTT3Vrmz8b2aqt/KdKueajpbWVMpT2RNGJpnXMIgPIUx6CeVqLSPf2zBf11SbTcoBJ+sfoUGttBSijB8E55uXDOodd+G0S4RqyMNktw==;sI3w8GgX5wGrCeQPFd9HVA=="
 ---

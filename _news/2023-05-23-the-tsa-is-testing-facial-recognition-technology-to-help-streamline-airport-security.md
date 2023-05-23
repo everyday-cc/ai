@@ -85,15 +85,6 @@ related:
         width: 887
         height: 466
         isCached: true
-  - title: "TSA's Facial Recognition Tech Raises Questions About Bias and Data Security"
-    excerpt: "Analysts and lawmakers are concerned about a new TSA program that instructs passengers to insert their IDs into a machine and takes a pictures of them."
-    publishedDateTime: 2023-05-18T19:34:00Z
-    webUrl: "https://reason.com/2023/05/18/tsas-facial-recognition-tech-raises-questions-about-bias-and-data-security/"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 49
   - title: "TSA’s Facial Recognition Sparks Privacy Outrage"
     excerpt: "TSA is currently testing its new facial recognition technology at a number of airports throughout the U.S., identifying and verifying passengers by their unique features. Some government officials are unhappy. They are worried about the risk to civil ..."
     publishedDateTime: 2023-05-22T22:31:00Z

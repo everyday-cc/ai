@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/news/picture/intel-gives-details-on-future
 webUrl: "https://www.reuters.com/news/picture/intel-gives-details-on-future-ai-chips-a-idUSKBN2XD1A3"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -91,6 +91,15 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 30
+  - title: "Intel Goes Head-to-Head With Nvidia, AMD Over AI Chips. Why It Could Be Too Slow."
+    excerpt: "Intel said it was competing in AI chips but it faces a delay in launching its next generation graphics-processing unit."
+    publishedDateTime: 2023-05-23T12:48:00Z
+    webUrl: "https://www.barrons.com/articles/intel-stock-ai-chip-nvidia-amd-gpu-bc36ab94"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 29
 
 secured: "J8Afiz4CcwaiFOCtXNeXLUL4vPXL8SEOGhSCZm5Cz/UneeAQ+GhUfaQgXUckhbjCfAUORyJcQammNNlF0PuJVAXO/p1IS4ZRPChGJLQ1R91FM/aN+aQPRoyXmtlQWSkPdoGax2r/rAjGCICKaTNiiMdTlVbz/is1fboAuk+Y+lyIESzcLswUV+qJhfeH0gxFHbbA/VnHQtF/WwxsQq3Koi8sSvDQxFMULx8UqI1yZ6XEnVfDbOFTFjmeHi1yrYKhLja6xVO1tD6jMsgTbTzC6+93JN1lrDB4NKuh86jcZ3tQh22yylnGJn4cHVfUftP8un0m9EKj140S/AyIdHeo35t728gpcizEHa9xbolkgm267km4nNLfJXdIbap3kw6gh1B0SNCtsVQTke96IJuST0csCA/dKWNwJpUBMekCBx1RB7bhdmDNajUJ0h5QAXRi7LLHdRMaDPfjiPXr+c+QOy01abu1j00Acr0iOxhvmmsfAsMFKXl5+qpP8EOWzcUsUxljIMaaRc4OrjA1a5UvMQ==;yRno/e5un/qjdkjuNEYTOA=="
 ---

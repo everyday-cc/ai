@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Stability AI open sources its AI-powered design studio"
-    excerpt: "Stability AI has open sourced its AI-powered design studio, which taps generative AI for image creation and editing."
-    publishedDateTime: 2023-05-18T22:31:00Z
-    webUrl: "https://techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/"
-    ampWebUrl: "https://techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Schools bewildered by AI advances, say head teachers"
-    excerpt: "UK schools have been left confused by the fast rate of change in artificial intelligence (AI) and its impact on education, head teachers are warning. In a letter to the Times, educators from the state and private sector say developments are \"bewildering\"."
-    publishedDateTime: 2023-05-20T04:58:00Z
-    webUrl: "https://www.bbc.com/news/uk-65655010"
-    ampWebUrl: "https://www.bbc.com/news/uk-65655010.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-65655010.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10AC0/production/_129788286_gettyimages-450123483.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Artificial intelligence and mankind"
     excerpt: "By NICK DAZANG ON August 2, 1939, Albert Einstein, the equivalent of a scientific genius, endorsed a letter drafted for him by a fellow physicist and inventor, Leo Spitz Szilard. The letter was sent to the United States President,"
     publishedDateTime: 2023-05-22T05:30:00Z
@@ -73,38 +41,34 @@ related:
         width: 412
         height: 250
         isCached: true
-  - title: "FlowX.ai raises $35M for its AI-based approach to application integration"
-    excerpt: "“Digital transformation” and AI remain very buzzy terms in the world of enterprise software, and today a startup operating in Romania that’s built a platform that taps into both concepts, and is seeing user traction in the financial sector, has ..."
-    publishedDateTime: 2023-05-22T12:03:00Z
-    webUrl: "https://techcrunch.com/2023/05/22/romanias-flowx-ai-raises-35m-for-its-ai-based-approach-to-application-integration/"
+  - title: "The marriage of embedded finance and AI"
+    excerpt: "Nima Montazeri, CPO of embedded finance solutions platform, Liberis, discusses how embedded finance and AI will revolutionise financial services The hype around artificial intelligence (AI) isn’t going to die down any time soon,"
+    publishedDateTime: 2023-05-21T08:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/the-marriage-of-embedded-finance-and-ai"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 46
-  - title: "The AI-powered hybrid-multi-super cloud"
-    excerpt: "Here’s a quick snapshot of some key players that, over the past decade, have worked hard to create their own version of cloud platforms — with mixed results. These firms have different levels of cloud maturity and varied strategies,"
-    publishedDateTime: 2023-05-20T15:52:00Z
-    webUrl: "https://siliconangle.com/2023/05/20/ai-powered-hybrid-multi-super-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 54
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/AdobeStock_594873507.jpeg"
-        width: 6144
-        height: 3511
+      - url: "https://assets.bizclikmedia.net/1200/d0d86a8689971e7a4803707450b2c8c4:e745e31c7b801419fe5a19cb4e5e4e22/nima.jpeg.jpg"
+        width: 1200
+        height: 632
         isCached: true
-  - title: "Google employees bombard leaders with questions about the company's AI strategy, asking if it's become too AI-focused"
-    excerpt: "In a leaked recording, employees questioned Google CEO Sundar Pichai on the impact AI will have on the company's core business."
-    publishedDateTime: 2023-05-19T19:20:00Z
-    webUrl: "https://www.businessinsider.com/google-ai-strategy-questions-leaked-audio-tgif-2023-5"
+  - title: "Why AI’s diversity crisis matters, and how to tackle it"
+    excerpt: "Machine-learning researchers from under-represented groups say the field desperately needs more people like them to ensure the technologies deliver for all."
+    publishedDateTime: 2023-05-19T16:14:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-01689-4"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 24
+      name: Nature
+      domain: nature.com
+    quality: 41
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01689-4/d41586-023-01689-4_25339936.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "1T9c6qaGNBjQQ2cXhAOcIkeedn49P5R0XkFefHKooOxejBwqYF9UULbubFvMsWr6IHmVfu/bgYMUgJxzUPh/gJzGV+CIChZJMj+ax4ZsUWgPkJ9ZOJ3wX+Hcu0bZJD+4GqkDUhnjNBowIJbjg8vV26zb52r+PGDFED9cIdO8nSGgQlF1TI/NSdJj5T1spL2qZ0fnij1b0oHwNO9vaJA8RYqgI8QW8iMrxwZCPWtWa4lS12E74lAowrwdVbxNPiuNjCkihkCbhiVc2ph8ME3dqZiHlt7/aOgTzA8MIIqf9Wll6Xv/iLiD95/pEHCvq7/eyjTQ7zOJtbmAT+EK9r1fNuxHVUyCjBJ0uHOetp2qvvk=;Dpj0s4PC/gAYSgc9ngfk6g=="
 ---

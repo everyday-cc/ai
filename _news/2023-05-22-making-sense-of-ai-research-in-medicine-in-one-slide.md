@@ -24,21 +24,70 @@ images:
     isCached: true
 
 related:
-  - title: "The promises and potential pitfalls of artificial intelligence in medicine"
-    excerpt: "Artificial intelligence is finding its place in all sorts of scientific fields, and health care is no exception. Programs are learning to answer patients’ medical questions and diagnose illnesses, but there are problems to be worked out."
-    publishedDateTime: 2023-05-20T21:35:00Z
-    webUrl: "https://www.pbs.org/newshour/show/the-promises-and-potential-pitfalls-of-artificial-intelligence-in-medicine"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/show/the-promises-and-potential-pitfalls-of-artificial-intelligence-in-medicine"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/the-promises-and-potential-pitfalls-of-artificial-intelligence-in-medicine"
+  - title: "Addressing The Ethical Use Of AI In Healthcare"
+    excerpt: "The push to digitize and automate healthcare data management represents a giant leap forward in helping health plans deliver better outcomes for their members."
+    publishedDateTime: 2023-05-23T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressing-the-ethical-use-of-ai-in-healthcare/"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+  - title: "Why AI Is The Future Of Offshore Oil Drilling"
+    excerpt: "But this is not Shell’s first foray into AI tech. Back in 2018, the company partnered with Microsoft to incorporate the Azure C3 Internet of Things platform in its offshore operations. The platform uses AI to drive efficiencies across the company’s ..."
+    publishedDateTime: 2023-05-21T23:03:00Z
+    webUrl: "https://oilprice.com/Energy/Crude-Oil/Why-AI-Is-The-Future-Of-Offshore-Oil-Drilling.html"
+    type: article
+    provider:
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 39
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/05/aiHealthcare-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-05-19_chqonzsu0y.jpg"
+        width: 718
+        height: 300
+        isCached: true
+  - title: "How AI is changing the game in youth sports"
+    excerpt: "Salt Lake County's Copper Mountain Soccer Club is among many youth teams using new AI video technology that films games and then culls each player's performance into a highlight reel."
+    publishedDateTime: 2023-05-22T02:02:00Z
+    webUrl: "https://www.ksl.com/article/50646179/how-ai-is-changing-the-game-in-youth-sports"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 37
+    images:
+      - url: "https://img.ksl.com/slc/2930/293016/29301604.jpeg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
+  - title: "HHS CIO Karl Mathias Details 3 Promising Applications of AI in Health Care Sector"
+    excerpt: "Department of Health and Human Services Chief Information Officer Dr. Karl Mathias highlighted three major areas of AI progress he’s seeing within the health care sector during his keynote address at the Potomac Officers Club ’s 4th Annual CIO Summit."
+    publishedDateTime: 2023-05-22T10:01:00Z
+    webUrl: "https://www.govconwire.com/2023/05/hhs-cio-karl-mathias-details-3-promising-applications-of-ai-in-healthcare/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 34
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2023/05/unnamed-file-146.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "How Researchers are Using Artificial Intelligence to Help Patients Understand Their Health"
+    excerpt: "CASMI visiting researcher Francisco Iacobelli and his team are designing an intelligent tutoring system for breast cancer survivors with low-literacy skills."
+    publishedDateTime: 2023-05-22T16:57:00Z
+    webUrl: "https://www.mccormick.northwestern.edu/news/articles/2023/05/how-researchers-are-using-artificial-intelligence-to-help-patients-understand-their-health/"
+    type: article
+    provider:
+      name: mccormick.northwestern.edu
+      domain: northwestern.edu
+    quality: 29
+    images:
+      - url: "https://www.mccormick.northwestern.edu/images/news/2023/05/how-researchers-are-using-artificial-intelligence-to-help-patients-understand-their-health-social.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "CxIeBGmvAJ5HWncjyzqnFyKJrGxpdAs/QcZYz5nyIZvFG7IiSeqsvayynl7/eyJR0CGebX+dAEprpLBtfI8+rK9hmSc+5eoPnXDOlUP+gAinAZuf0QgRv4DECCbmCdZ1R3M404S+xZrBYIj11qaQ1kW0B/ms1HVE4WV2XpI55Py0JIq2Fn+oiBiH7eilvqFQHPNWiTEw2IFMCYnlFdDH9BF0IYYl0r+FVtpqyBOvMn48rOQINnBVz+qMBo1DM3tBNE+o1oY3mYSd9A77MNPSPwUmOh+YeiN75R2ZC0NmapU0jwAO7FrZkhQclneSoFkkCNbKLP8YQ95I7rztUnsB0Ope4Lh1k5ke0r2yZb6HA9tqk9GxpcIGJCrWwk6Vtp1NxJcKgpIj3uc1JaNfmh3eebkpMeN6nubbk6uCjPwfa7946qMC4qC5h+AETe8DNG7yS8aoxgAG+zzqVCIwfnDYN5w1CS243pWzxmZoov6tTnjutL/+OamKigQhG2qrm5jKsuSiAO2VH21OvJddm4Lfyg==;vHbdUYwdesbBGHwof+AUHQ=="

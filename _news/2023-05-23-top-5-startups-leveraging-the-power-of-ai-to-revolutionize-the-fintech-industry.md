@@ -35,15 +35,29 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Teen-focussed fintech signs with Yoti to enhance security, verify age"
-    excerpt: "The tool also enhances the platform's current Know Your Customer (KYC) and Anti-Money Laundering (AML) processes, the companies say."
-    publishedDateTime: 2023-05-18T19:20:00Z
-    webUrl: "https://www.biometricupdate.com/202305/teen-focussed-fintech-signs-with-yoti-to-enhance-security-verify-age"
+  - title: "FlowX.ai raises $35M for its AI-based approach to application integration"
+    excerpt: "“Digital transformation” and AI remain very buzzy terms in the world of enterprise software, and today a startup operating in Romania that’s built a platform that taps into both concepts, and is seeing user traction in the financial sector, has ..."
+    publishedDateTime: 2023-05-22T12:03:00Z
+    webUrl: "https://techcrunch.com/2023/05/22/romanias-flowx-ai-raises-35m-for-its-ai-based-approach-to-application-integration/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 46
+  - title: "Fintech firms need to grow up and embrace transparency"
+    excerpt: "The days of taking shortcuts around regulation and lax fiscal discipline need to come to an end if the industry is going to reach its full potential."
+    publishedDateTime: 2023-05-23T14:00:00Z
+    webUrl: "https://www.americanbanker.com/opinion/fintech-firms-need-to-grow-up-and-embrace-transparency"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 24
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/6982c1c/2147483647/strip/true/crop/7587x3983+0+142/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F66%2F90%2F04940e4943fa9505cd3f219f382f%2Fadobestock-282379113.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "What impact will AI have on FinTech in 2023?"
     excerpt: "Artificial intelligence (AI) is emerging as one of the key driving forces behind financial technology, as in many other industries recently. It’s a defining"
     publishedDateTime: 2023-05-22T17:20:00Z

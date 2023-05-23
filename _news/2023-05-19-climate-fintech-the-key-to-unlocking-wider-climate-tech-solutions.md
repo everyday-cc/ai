@@ -39,6 +39,15 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "Monty Finance highlights global expansion with innovative fintech solutions at Seamless middle east"
+    excerpt: "With a commitment to innovation and client-centricity, MyMonty offers an empowering digital banking experience coupled with competitive offers and advanced AI-backed features. As a trusted FinTech enabler, MyMonty leverages its extensive expertise and ..."
+    publishedDateTime: 2023-05-23T12:07:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/monty-finance-highlights-global-expansion-with-innovative-fintech-solutions-at-seamless-middle-east-ymgybwqd"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 5
 
 secured: "mA23uhxHE1JwKU5Pw2uRjd6fnBaCyNdsW4qXd7uAu8c/tKVTc5gqf8owTF2eNNJ3lDq1I+HK+/iRmEMoyLrGBdGUwDzN1r61WcX3cQ4xa2eXiz5BUEDudHjs4Q6UFH7V4g5vuEbyvUbWjzLVFq7hGmQYLc05cg9FBFn10SPDKpWJ2kNZ4ponhWudV/Nkwh3AoIx6e4xDUmBVBN2ys01SvVkoq2KLQPoeLPHoUskIU0NUEroGGabQjdgAqULwWa+l3ezrYRt6l/t8TJvx2BBs36z4I+xuV6X2afEJ8jjTNAjHKyUrMo2txfdK7gMxYYTdlPtW7Shl5+jw2WWlhvC2WVVSqtAQyLVXtP4NntbQzqYPpNIcZtnqffHJcJjRsomHVFya2zTQIDsonKEZhxfgOZfVJovthEvWmwNhzx6iYk9LvFzYJtbrXdQ9lAjJp1zuntuKBKqtysuhDuv9HqDTR8yWkb5F/p8g1kNE6lilK42ucNUCBKjHT01tUYaYxJoXuGRPsmVDkyzAtRaj+JqQUQ==;oQAVwDVER+KfGc1HTk+WlA=="
 ---

@@ -1,16 +1,13 @@
 ---
 category: news
 title: "My week navigating the awkward teenage years of self-driving cars"
-excerpt: "Pedestrians and human motorists in San Francisco are learning to interact with ‘robot drivers’. Here’s how my experience went"
-publishedDateTime: 2023-05-13T09:01:00Z
-originalUrl: "https://www.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco"
-webUrl: "https://www.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco"
+excerpt: "At the time, company staff still sat in the driver’s seat, ready to take over at a moment’s notice if the self-driving car didn’t behave the way it was supposed to. Fast forward a year later ..."
+publishedDateTime: 2023-05-13T14:20:00Z
+originalUrl: "https://www.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco?ref=upstract.com"
+webUrl: "https://www.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco"
 type: article
-quality: 44
-heat: -1
-published: false
 
 provider:
   name: The Guardian
@@ -30,22 +27,6 @@ images:
     height: 372
     isCached: true
 
-related:
-  - title: "Self-driving cars are taking ages to become a reality, but they won’t take forever"
-    excerpt: "That’s a lot of autonomous driving. Baidu’s update follows other progress reports from self-driving car outfits: Cruise a couple of months ago said it had completed “one million fully driverless miles” in the 15 months since it started offering ..."
-    publishedDateTime: 2023-05-16T18:56:00Z
-    webUrl: "https://techcrunch.com/2023/05/16/self-driving-tech-predictions/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 48
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/IMG_5632.jpeg?resize=1200,900"
-        width: 1200
-        height: 900
-        isCached: true
-
-secured: "R8j+OAImhrCDWwwPnGvrlTIS1x3ue0IxooKMVCGpNC6e2sChVfxy3rLouZA/XDDLCHYhStmPmnKjdXrxkgrPMPP3cLiei2mShdicQTmW7K6CPKAw+khx1bgtJM8igVl/jdDu1xaWfGN5Pu8JC7BZjaMZCV7nPuJ2fhi1LGu1hIIqFYfL9qcVamyr/fHaGWPIvLiUJAp0ak3XtODEFwTV9HkO5Z1TiNpDW5n/dACA6wXjxlqQi6ICw6ZJGNdQviVdMqX7rVokexXwhowVPbjRAjnejLFQZftc/hKwS24NPLiRGCagWRKWXPz+HptsJvLPg5JKhrIFO4SotThPgZZoEqG7XVC2qyN5Bw/WcxKSuyc/RWt4NFhxGXDe14/DzZZWKH1SCgTgbUFoLFdKy9PmfJ9LTyk8RutkfSe0CaRgOBCd3xnIjK1cBx9PbVhIdvelktvdluEdIZvHrpMmpuvlQjL5KPjfuTLbzRrjPzU6CMGMYlbzchtO9QUdaW5s/LhkGhZM2uM6xplJCTIdAdn7DA==;QBRlTQ/ZrYWiKmrONmYPMg=="
+secured: "oJGz2MWCNaS+mWHQG5cwvxwXGQr2mNOSNkImz6uBslpAlCtQmsWPbiZVT9WZ25ZGFPzcjw2EICiu67VTj5rKVTlhgo/8GC7hW5EXyupHGjeOtAvgdB0ctS/jUm8xSP6I/JioKboTEEtxRKHkyFUx9jkjtkEX9LC6EfPRqYYU6Dr57YiIfzE/jgl/Exsc5cZfVmiXRAQnoGZbAR621mwoz09r5X9CBHs9d5hCEfwiGxfPzSHSrBollR7J4DHGdUtZzV3KK+0dfe3pQmBXDRIWdWhuAIducvUMxvDRoXJTO8pn1rWYGOOzZqGeVbzioZ+rWF8uPkubnI7iDsrw6Anyd55edADhOVHqBuCDkeQWTm8=;NZ07W13F//LE88LnXm2ROw=="
 ---
 

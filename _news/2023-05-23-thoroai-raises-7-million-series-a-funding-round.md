@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "QIA Leads $250 Million Funding Round for App Platform Builder.ai"
+    excerpt: "The Qatar Investment Authority is leading a series D funding round of more than $250 million for Builder.ai, the mobile app development startup backed by Microsoft Corp."
+    publishedDateTime: 2023-05-23T11:47:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-23/qia-leads-250-million-funding-round-for-app-platform-builder-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Builder.ai announces $250M Series D led by QIA to push new boundaries for its AI powered composable software platform"
     excerpt: "Builder.ai®, the AI powered composable software platform, designed to be so simple and accessible that everyday businesses and individuals can turn their ideas into software, today announced an investment of over $250 million in Series D funding."
     publishedDateTime: 2023-05-23T09:13:00Z

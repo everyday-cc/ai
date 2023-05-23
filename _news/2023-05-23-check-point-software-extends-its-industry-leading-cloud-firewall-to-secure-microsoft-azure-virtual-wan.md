@@ -39,6 +39,20 @@ related:
         width: 480
         height: 610
         isCached: true
+  - title: "Microsoft Build 2023: The Biggest Azure News"
+    excerpt: "Microsoft Build 2023 included news around DevOps, Azure AI Content Safety, Azure Cognitive Service for Language and Microsoft Fabric."
+    publishedDateTime: 2023-05-23T15:00:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-build-2023-the-biggest-azure-news"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0281-17e8a96e83eb-d93a4c3e590a-1000/microsoft-azure-sign-2.jpeg"
+        width: 500
+        height: 375
+        isCached: true
   - title: "Infogain AI Business Solutions Now Available In The Microsoft Azure Marketplace"
     excerpt: "NAVIK customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. NAVIK is an AI platform that addresses the breadth of AI ..."
     publishedDateTime: 2023-05-19T14:46:00Z
@@ -48,15 +62,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 45
-  - title: "Check Point Software extends its Industry-Leading Cloud Firewall to Secure Microsoft Azure Virtual WAN"
-    excerpt: "Check Point® Software Technologies Ltd. (NASDAQ: CHKP), a leading provider of cyber security solutions globally, announces the general availability of its industry-leading Next-Generation Cloud Firewall natively integrated with Microsoft Azure Virtual WAN to provide customers with top-notch security."
-    publishedDateTime: 2023-05-18T21:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-check-point-software-extends-its-industry-leading-cloud-/2023/05/18/9817479.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
 
 secured: "RTWMuwoAADUSgOu3Zqwym4lgEFqYyVR827RgCZoFcDu71HiESYR4tWnC7Kv37pcSUp4g06Y4Z02MvDg4fGHEY+zR3udOgyh/78pUyXKeeb9C7Oniu8XMrEFnhVlgdbJ/UZz/vGVRFi6lrJHyRkWRNCAXoW2A/ylspYKH0iykWaYCdeGfbhA1WD1ir0x5jPbHS7K4PHQYlvTO8SjNBNoTNzue2iZ42GzokCuwWiGowOzy/H6GWGeMXtkecKaeZrIA1jp745j+ydug5CsbEg1fLrGytm3oZHMOExWPKwsd3bMwZG80iktice765K9mvME8o083yUVhOKWJjPtCrcA318QPh4Q8nBVbAto+OISP3v8=;wMTEPNtkS8KDnIiEQd3ppg=="
 ---

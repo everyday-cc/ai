@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/05/20/winning-custom
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/05/20/winning-customer-service-through-ai-and-automation-in-hybrid-work-environments/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://do0bihdskp9dy.cloudfront.net/05-22-2023/t_df45893db59f44fd9b7369b95d065f3d_name_REGULAR_L1___2023_05_21T220744_520.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "AI and automation headline Red Hat’s annual user fest"
+    excerpt: "It wouldn’t be 2023 if there weren’t an artificial intelligence angle, and Red Hat OpenShift AI is the headliner this year. Billed as a “standardized platform for creating production AI/ML models,” the software takes advantage of native graphics processing unit acceleration features and can be deployed on-premises or in the cloud with the same tooling and interfaces."
+    publishedDateTime: 2023-05-23T13:00:00Z
+    webUrl: "https://siliconangle.com/2023/05/23/ai-automation-headline-red-hats-annual-user-fest/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/Red-Hat-Summit-2022-Hero-Image.png"
+        width: 1184
+        height: 645
         isCached: true
 
 secured: "dJXPjogFj9xxDIXl+1x5HERLorKLVNm4ZNo5F+q7xkdZ1A7fOBNC746LaeGN46OVEmtFJXdC3zdI7gIZGGvFFVRfHyufYsWybW/EIBs7De4TXrrU4gqeWC0gKMFvxMfRC2n112JumYEix874U5TzQMFF3xTQhM6QTHKUZe+ZSCCSmapuDDAJA5wckOFhra6UTtVOAO48yDY+/ZxXNEBuEI7wBjjVLbeIc74IMj6fBY2rPu5qcbKqUPgXzDec2eJJgu/BHFIwifyjEhDcWwKWlWfjpNh25ytgpeVRr39S5b1hvn5ZaBWqwWz6BInMlqvl8aIRhqlJNpAgoyTFGupBp2wNOCDtFHy74w1McofcXs6Aszlh8Q5KGH9qI2B9PS1k9FHHC3vYZR8X4x67ok2QAkMxGExYuwd68Ptn4Zff1/u5FtZiMApjOCEr+4/erLGxUTUq0TXN4cLduI701H2dqYbKnR4qyiIYCAl9D1FXctuSQJvyvg/d5YAVJVJIFUB1JgRsUhA/JwpsXkN/Kl3gZw==;8Iv8Y77ieNi6c9j2GXI2Fg=="

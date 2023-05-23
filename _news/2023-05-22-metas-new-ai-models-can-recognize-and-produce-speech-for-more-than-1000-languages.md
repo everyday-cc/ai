@@ -73,6 +73,26 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Meta Creates New AI Tool That Recognizes Over Than 4,000 Languages"
+    excerpt: "Introduced as the Massive Multilingual Speech project, the Meta AI tool is built to protect and preserve languages and is now available to the public"
+    publishedDateTime: 2023-05-23T13:22:00Z
+    webUrl: "https://www.techjuice.pk/meta-creates-new-ai-tool-that-recognizes-over-than-4000-languages/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 19
+  - title: "Facebook’s open-source language model can recognise 4,000 languages and “speak” in 1,100"
+    excerpt: "While the model was trained using religious recordings for non-widely-spoken languages, Meta says this hasn’t introduced any bias."
+    publishedDateTime: 2023-05-23T15:15:00Z
+    webUrl: "https://mybroadband.co.za/news/software/492759-facebooks-open-source-language-model-can-recognise-4000-languages-and-speak-in-1100.html"
+    ampWebUrl: "https://mybroadband.co.za/news/software/492759-facebooks-open-source-language-model-can-recognise-4000-languages-and-speak-in-1100.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/492759-facebooks-open-source-language-model-can-recognise-4000-languages-and-speak-in-1100.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 15
 
 secured: "rRMz91wNgv5HEmDoIg+INHAXY2o/7xdY20fJdI+aOIu5+JgCGIa1gVCOjIfDcGQkEThrPEo7X7MWyEDvxZp9kOL3s/keUbxJH8kZa49sQ41nanWV92dhXbzti0UXVLdXoe9R98O23cf/nS8HYUQxJ2NEN4Q45aUs0Pg2TPSD4jyDzF9fVnA+XM6+BCEuJqmPdaroYrz34WasIrJYBLf3VhBfpExi0GFmIifsfvC/ow44IUzODhkyygk78vKE/noqhLvUB/DHQVstL0nU14UqvyG9yUsoSG4j6cPrZcyLGcg7XR9s3apiQDxbnkLke2T+v9LDL0VO4MOQ/nILMPQiIw+KievkOhS8o1hB9NJzaACaCw62wj2haUnFPXf8huSjstfSWeER8ZPz1K3+0ziZ96lLghXGo8VbuoQ35HCHDapDzWwvLprvB18/3wgKy8iUdP9j/ln+qVHn0odd74SvFMlmiijE7QdvT/7RqMGtSpAVpN+Gp89hj9rmuJxPL7/H6orTyLddh5kJPBSeHr12qg==;4BzQ9XSIj2ygtCjEfJn9aA=="
 ---

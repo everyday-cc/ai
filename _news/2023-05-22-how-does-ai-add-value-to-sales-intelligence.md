@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/cindygordon/2023/05/21/how-does-ai-ad
 webUrl: "https://www.forbes.com/sites/cindygordon/2023/05/21/how-does-ai-add-value-to-sales--intelligence/"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
         width: 1920
         height: 1281
         isCached: true
+  - title: "Intelligent Artifacts Pledges Commitment to Responsible Artificial Intelligence"
+    excerpt: "Brand Manifesto Unveiled for Creating the Trusted Intelligent Future of AI NEW YORK, May 23, 2023 /PRNewswire/ -- Intelligent Artifacts, a leading innovator in the field of machine intelligence, solidifies their commitment to responsible AI in a new manifesto which you can read here on their website."
+    publishedDateTime: 2023-05-23T13:28:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/23/9819437.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "CQIMwBxOMuHGwPYc5UfHScYz5plY6YzAFBl7X30Hy5349/fJ+MM1EWW+SM54Pwaws9OaAEHvraIMQo3SPYJZ5yOvuWZBpqnQgSMpb/DlPjDojXVXErLYDdIaBLVT+mLfEdOqWKlmACPUOa3fEVxPcn24UuNqaPX0DL0daj4lWxbj/W2Y9/MexpQQ6E8BHIt+I0rCz9cg7fzHqjlFQnBDss/FBfoDUnX/3YQvTqcVtZCLMdV/N3q5Cx1a8fuChJQuOkhJCqu06uCkXz72IRspjUNHSFq3OzIwplCUhcqqqP3/7mQZ2Jd8JYaYek55sbc1nj9/fdbu3lCYY1GgyZ70ly/p4AerwdX2eRX7FpFw5/YA04gOg1hxDhL9RluLSKT5k99TPIV5KnzwOVgY/7gXAwbvsjT4ULy3jsHUafa2XdJK/O2mDvTeRqZlHAQhrGKYZkq6xBVV6QHDCxE8Bd8hPcOee8wl20tYDQWiXZYIfMh/A1/1M8rFvZZfAJ5te7whnXeAxs6xsxeU2l1rvdALZg==;dUOyIoXtJEl5j5cP25g6Dw=="
 ---

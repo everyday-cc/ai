@@ -45,21 +45,19 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "UMass Boston using $5M donation to create AI Institute"
-    excerpt: "Anyone with a product idea can now build apps using AI, and we are going to teach that to all the students at UMass Boston,\" tells English. Students will also talk about the ethics and application of AI. English believes there are some people out there who ..."
-    publishedDateTime: 2023-05-18T23:09:00Z
-    webUrl: "https://www.cbsnews.com/boston/news/umass-boston-artificial-intelligence-ai/"
-    ampWebUrl: "https://www.cbsnews.com/amp/boston/news/umass-boston-artificial-intelligence-ai/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/umass-boston-artificial-intelligence-ai/"
+  - title: "IBM doubles down on generative AI and hybrid cloud"
+    excerpt: "Given the hype around generative AI with the public preview of ChatGPT and the central role of Red Hat’s OpenShift as IBM’s platform modernization strategy, the choice of those themes was not surprising."
+    publishedDateTime: 2023-05-23T13:27:00Z
+    webUrl: "https://siliconangle.com/2023/05/23/ibm-doubles-generative-ai-hybrid-cloud/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 59
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
     images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/18/e8d681bf-f2a2-42b2-872e-0af634b4570f/thumbnail/1200x630/54ff6db104e94c6e70fa4ffdd6c4f18e/cold-umass-boston-ai-donation-frame-3.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/watsonx.jpeg"
+        width: 1194
+        height: 875
         isCached: true
 
 secured: "i69WLdjaVtjEZGMFmxQzZL57/wH2vhfl+6Xglhjrfb+YPMlI/hlXnfc9rY187p27kAuhg8FPlQI7NUiTi+3BAy1h4YWRPP/lEy9XvoSXa5X9GgZkP0E6PdGuYXYP0G1Axb5vAFIWKwHD/WeS2zrETPxxZmufSRteemAetPhjyCarIanWgdjWiENLF/qIFQNq/1E0NZCVXrFMgO0XfbCUZcJWFVaxTzp4u26kwOgJYccwB4WT2DDp4IfzZrf4Xl0AZYkq069GpAR7Yjl1xAiLHfLNZcj0OBbDWz2Mz2h100YCAAMm3xTV1NNipToIClXFkWPvBsHARxH3e4SLZ4imcvof1ejnnD4ay5Q7NbFzrodkchh7OHcwClj3fjzbiVl0Rd6sO63couh/k1VwpliZ9rFV0IqBzKW/biXHhCbT3fYMcVNKEL4QjFjphmj7HaSplkuAKozdFc77wRN1RYHuuRTOlzKQMPyWtT8ycvMbXbVBYwy/ucxRCFhTtcZ/x6I4pmQXQ41RI+vmyKM5HDAtiQ==;W3gHb8CuVlzzTTM99u7C+w=="

@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Will startups have a shot in the enterprise AI race?"
+    excerpt: "Recent news from Appian and Neeva make plain that the number of participants racing to build AI tooling for large companies is expected to be healthy."
+    publishedDateTime: 2023-05-22T19:14:00Z
+    webUrl: "https://techcrunch.com/2023/05/22/startups-enterprise-ai-race/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "Elon Musk Makes Bold AI Prediction That Will Delight Investors"
     excerpt: "The best known is ChatGPT, developed by OpenAI, a startup in which software giant Microsoft ... The chatbot showed that AI has reached a point where robots can perform certain tasks much better than humans can. But beyond the search-engine industry ..."
     publishedDateTime: 2023-05-22T13:48:00Z

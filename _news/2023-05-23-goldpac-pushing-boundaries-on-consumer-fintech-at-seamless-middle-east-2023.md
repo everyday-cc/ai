@@ -2,9 +2,9 @@
 category: news
 title: "Goldpac pushing boundaries on consumer fintech at Seamless Middle East 2023"
 excerpt: "Goldpac Fintech exhibiting its latest technologies at Seamless Middle East 2023 (booth A20). Six displays and demonstrations address current payment card issuance needs, from premium card printing finishes and effects,"
-publishedDateTime: 2023-05-23T11:43:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/05/23/9818892.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/05/23/9818892.htm"
+publishedDateTime: 2023-05-23T12:12:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/05/23/9818892.htm"
+webUrl: "https://it.tmcnet.com/news/2023/05/23/9818892.htm"
 type: article
 quality: 2
 heat: 2
@@ -18,6 +18,6 @@ topics:
   - AI in Finance
   - AI
 
-secured: "dGrNzl7wpqtiD7nlWUwszdZpJR75AXSYdIJ2vS8Bj9Q1CEF0Uh2Xu8+s8mXQg6NtYsOBqXU/OGFVCb3zajL3+NNFAsiFS3pxDi5cEEk85mxtoOZLeBdm+4XU6q2R/9REBpIYkC24FUkenxt/jh0rl1AR9I+z1QnxRHsiqnaDPXt1cHwGYcLkcFxB1CYsZh7VXKMOVukCTHLh1bTMOQrtIwjbVrn7sVwJ1YQttKNkMPcopXL+ElvpWj7qjVkDqwaR1yZoKdqrGxpdvEkd3oV2Q8yObJ7jgeLNexau43Ihm+p/npQTsNXXwFIPa2jVBulMVdZ8TYP7FJhCBOdba7BP9wuBSxBhzLvlWYayK3FZH7k=;0luBUVsUw2lgJZpF/sQ5iQ=="
+secured: "TG8R1f6bM0lxvQTpmn3l8AgAZxfNpQdtAh8SLKZ3j/7XMSJwlbi0Jh2X7Hwp4br4tKn2ZATadveJaHUbMumZ06rOm5RekUDguf75M8cV5ECvB5rNzr3uKRNceLSuaKtEhvM/qbD70r/2WQtnJuao4itYwAUkoNLeOIr4ZLzx6izKYxflYuGhHHhp34MLKcbRO297LKGxBXlKtVwJdRzkqHGOoPtXnvthlO2+eEGiWvwqENV+ECTazpzcmxU/H7hhRe0g8CL550y/9sdh8hzLejkYRnVnqsAL957Ig+vUq5WGijrQKfPo5KFnCBnSmYav3g+OHdoOXq5x3BsbRaV1swVV9hw2PG5DVvh+QXDntYE=;7wQY1MQtxxOdaxrHhwcg0A=="
 ---
 

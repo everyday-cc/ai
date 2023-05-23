@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 622
         isCached: true
-  - title: "Although AI is a Bubble, It’s Still Investible"
-    excerpt: "Sam Altman, the CEO of OpenAI, which brought us ChatGPT, has gone to Congress to demand regulatory oversight of Artificial Intelligence (AI)"
-    publishedDateTime: 2023-05-18T19:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/although-ai-is-a-bubble-it-s-still-investible-1032338366"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "3 AI Stocks You Should Be Buying Hand Over Fist"
     excerpt: "Therefore, investing in the chipmaker that provides the most high-performance AI chips is the ideal way to capitalize on this trend. On the date of publication, Chris MacDonald did not have (either directly or indirectly) any positions in the securities ..."
     publishedDateTime: 2023-05-23T09:17:00Z

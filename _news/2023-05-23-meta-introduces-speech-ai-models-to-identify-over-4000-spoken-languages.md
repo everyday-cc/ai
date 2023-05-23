@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gulf-times.com/article/661582/international/meta-introdu
 cdnAmpWebUrl: "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/661582/international/meta-introduces-speech-ai-models-to-identify-over-4000-spoken-languages/amp"
 type: article
 quality: 59
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -73,6 +73,26 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Meta Creates New AI Tool That Recognizes Over Than 4,000 Languages"
+    excerpt: "Introduced as the Massive Multilingual Speech project, the Meta AI tool is built to protect and preserve languages and is now available to the public"
+    publishedDateTime: 2023-05-23T13:22:00Z
+    webUrl: "https://www.techjuice.pk/meta-creates-new-ai-tool-that-recognizes-over-than-4000-languages/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 19
+  - title: "Facebook’s open-source language model can recognise 4,000 languages and “speak” in 1,100"
+    excerpt: "While the model was trained using religious recordings for non-widely-spoken languages, Meta says this hasn’t introduced any bias."
+    publishedDateTime: 2023-05-23T15:15:00Z
+    webUrl: "https://mybroadband.co.za/news/software/492759-facebooks-open-source-language-model-can-recognise-4000-languages-and-speak-in-1100.html"
+    ampWebUrl: "https://mybroadband.co.za/news/software/492759-facebooks-open-source-language-model-can-recognise-4000-languages-and-speak-in-1100.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/492759-facebooks-open-source-language-model-can-recognise-4000-languages-and-speak-in-1100.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 15
 
 secured: "fWWoF889uf5sz6JqRFOksbgyQjuzc+No71/zvAmSjAv9LZHE09xXqaS2ZdKS8XJoLXFHg8V8P8HLfztMVKmoWrV1/oEvuDdLCmD13+wH4KBGRthKBuoMMXeuB5Plgpzas/D/VreUZv8WBb1kVI8VNex8xZM0vTY7IFGTBDGj0N/QGsWlZ4qaWJpCk3MyI/3wYF9TWcqMhi8BOTaOH7eIHL6VQXJH75iFLA4gjefD9gQUAmxGW9O8ZFQ42zbek+Lwy6z5o5mA1S0F5BMvZubVUXDQgPfrYlCxcHnyopzs34K2/e/629s78DFVm76ROAAp4+MIFk4mRuhrJJsyVghdzl3mUm5AeeXkUCBsu22M1GQFSA98zy6iH2++KSiwITH73IXuF+Glyqk2i0RtjrW2q17aC3mHOBEYKombRG1jR9rNVcIkfkwdCHo97ibd+Bd0VeZjsQkh01p5RcuxH2iUAYX2jjPv0gw+gMGda9LGSA6XpKToRlHivcjkpE5LKf+tGz9UhUfo8JSjb39E1TZlZQ==;X6dzQWcWHQC0bZ0uK2itEQ=="
 ---
