@@ -39,15 +39,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "FlowX.ai raises $35M for its AI-based approach to application integration"
-    excerpt: "“Digital transformation” and AI remain very buzzy terms in the world of enterprise software, and today a startup operating in Romania that’s built a platform that taps into both concepts, and is seeing user traction in the financial sector, has ..."
-    publishedDateTime: 2023-05-22T12:03:00Z
-    webUrl: "https://techcrunch.com/2023/05/22/romanias-flowx-ai-raises-35m-for-its-ai-based-approach-to-application-integration/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 46
   - title: "WHO says using AI in health care carries a multitude of risks"
     excerpt: "More industries are investing in AI, including health care. But the World Health Organization says the industry needs to look beyond its exciting potential and look into the risks."
     publishedDateTime: 2023-05-18T21:54:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launche
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Crowdfund Insider
@@ -27,36 +27,42 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Ramp Launches Money Saving AI Tools For Businesses—Announces Microsoft CEO, More As Investors"
-    excerpt: "The four-year-old corporate credit card startup is using OpenAI's GPT-4 and billions of dollars of transaction data to tell businesses whether quoted software prices are a good deal—or not."
-    publishedDateTime: 2023-05-18T14:01:00Z
-    webUrl: "https://www.forbes.com/sites/jonathanponciano/2023/05/18/fintech-ramp-launches-money-saving-ai-tools-for-businesses-announces-microsoft-ceo-more-as-investors/"
+  - title: "FlowX.ai raises $35M for its AI-based approach to application integration"
+    excerpt: "“Digital transformation” and AI remain very buzzy terms in the world of enterprise software, and today a startup operating in Romania that’s built a platform that taps into both concepts, and is seeing user traction in the financial sector, has ..."
+    publishedDateTime: 2023-05-22T12:03:00Z
+    webUrl: "https://techcrunch.com/2023/05/22/romanias-flowx-ai-raises-35m-for-its-ai-based-approach-to-application-integration/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/635744bdc68efe4cf2c46738/0x0.jpg?format=jpg&crop=1851,1042,x0,y124,safe&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Microsoft India announces the addition of 4 new languages to Translator"
-    excerpt: "Users can translate Konkani, Maithili, Sindhi, and Sinhala text, supported in more than 125 languages, for their apps, websites, workflows, and tools with Azure Cognitive Services Translator"
-    publishedDateTime: 2023-05-19T11:48:00Z
-    webUrl: "https://www.mid-day.com/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
-    ampWebUrl: "https://www.mid-day.com/amp/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 46
+  - title: "Teen-focussed fintech signs with Yoti to enhance security, verify age"
+    excerpt: "The tool also enhances the platform's current Know Your Customer (KYC) and Anti-Money Laundering (AML) processes, the companies say."
+    publishedDateTime: 2023-05-18T19:20:00Z
+    webUrl: "https://www.biometricupdate.com/202305/teen-focussed-fintech-signs-with-yoti-to-enhance-security-verify-age"
     type: article
     provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 61
-    images:
-      - url: "https://images.mid-day.com/images/images/2023/may/Microsoft-afp_d.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+  - title: "What impact will AI have on FinTech in 2023?"
+    excerpt: "Artificial intelligence (AI) is emerging as one of the key driving forces behind financial technology, as in many other industries recently. It’s a defining"
+    publishedDateTime: 2023-05-22T17:20:00Z
+    webUrl: "https://www.businesslancashire.co.uk/2023/05/22/what-impact-will-ai-have-on-fintech-in-2023/"
+    type: article
+    provider:
+      name: https//businesslancashire.co.uk
+      domain: businesslancashire.co.uk
+    quality: 19
+  - title: "Top 5 Startups Leveraging the Power of AI to Revolutionize the Fintech Industry"
+    excerpt: "Here is the rundown of the top 5 Fintech startups unleashing the power of AI to bring transformation in the industry. Read here everything."
+    publishedDateTime: 2023-05-23T06:18:00Z
+    webUrl: "https://www.ciol.com/top-5-startups-leveraging-the-power-of-ai-to-revolutionize-the-fintech-industry/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 15
 
 secured: "53gLmbvGKQDmNSIIKDrJEzmxrQZfu0Mtj3rJ5wFZmWZAQxcE78NrfZjlIktuc50JmjY00spNyno4wOy3QtrHaGwETJl0MYB6rWsZJen5E/BbLNZVTkV/lnxLDBmKMfUzeBz4irsEwV92ZODOu8ql45vxBV56y1OyQmMJncCNhrrLf2bRQIZz3WraiT8Wxl3X8Kjs4sZxHqC6eN+bY3X0wKIKUBSE9L8zPiupzrz+yxo59/WzsX3WuZC5+44SuJemIeuN0EMw+5GPIpP9jgqD549PC9KCXm+Sp4qwX8dZ2mmYPfHmA2clEGnsNBj6q7/tMk3v2T9HeJt7LskoNvJGiHRFS3LG+2RXB1pJQgKsEwXyHT9jef51ryA7RJJM4Djw7iDG8zEH2RyrFcRXEhcsUdiH5QFKgp6bXIZuYz60NkTabeQsUGvhJbNab8/PZKaXFDlII4oAsxNdc6lS4rI9SDy2kImWmhs/xyzg6YBCKUhwaI5U/971IbNLqInjOQh2xmWuxQ4EgEaDYY0MdQGKkg==;4w0oe/yhh2c+LJy8SkpB4A=="
 ---

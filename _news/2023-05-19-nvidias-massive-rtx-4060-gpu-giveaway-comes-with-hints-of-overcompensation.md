@@ -18,22 +18,6 @@ topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "PNY VERTO™ GeForce RTX™ 4060 Family of Graphics Cards; PNY Introduces Latest NVIDIA® GeForce RTX™ 40 Series GPU Family with DLSS 3"
-    excerpt: "PNY announced today the expansion of its revolutionary NVIDIA GeForce® RTX™ 40 Series PNY and XLR8 Gaming family of GPUs with the addition of the new GeForce RTX 4060 family. PNY GeForce RTX 4060 Ti 8GB will be available May 24th at top retail partners,"
-    publishedDateTime: 2023-05-18T14:44:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/18/9817111.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
-    images:
-      - url: "https://mma.prnewswire.com/media/2079789/PNY_NVIDIA_GeForce_RTX_40_Series_GPU_Family_with_DLSS_3.jpg"
-        width: 400
-        height: 225
-        isCached: true
-
 secured: "kMAnHY2ejEQlFjG83sBNqCKlzOK+LRTZ9dEPXMtzv9NBf/Zja4A655Nta9z10QTaPi9UvnFr+gutrV5fJiwYgVXhJ9oUTDcr9eY/ZK6a5UfLTnN3fjwJyG5Wss7/1mEq08oAV3+KpbYK6wFZrYklZtYV/JR3TIPwXau9mgtL+ZbpHKQfO1GMaw/Rjp7rA/0YvbBvLRSBKzuzIByPJJWEEfWIzoCsHVjgi8/bngzp4bdlRM85r0/Dg2Cbs3RzBbVFAdpWmMSSKNgWju1yIioSVgc9sZKhrhrGuehiJiWhI8/cFlfTwooJxOFvJJfbg93NIMHRUu2Wlsm7f+gmcpdPezypji3U59k++72UpqeFq6yfxM4V2ZS3JXOEAo6OKXMd8od+CGgMVqPyfDTSyZz+dMJsJrXsfeOkywXGOxN7cQMbsKUMV00GgaiOao+oDwdEVPQWN6yVNRjdpaYhU2CPYPgOlMT5G1QiYkrXIqnkWZ22cptvy053aokBOX78+gawANE1IUYhIx13680ZJAcGPg==;0gztltMv6+M4ikLPehvG/A=="
 ---
 

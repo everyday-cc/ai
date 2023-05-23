@@ -7,7 +7,7 @@ originalUrl: "https://www.healthcaredive.com/news/suki-integrates-generative-ai-
 webUrl: "https://www.healthcaredive.com/news/suki-integrates-generative-ai-assistant-in-epic-ehr-software/650668/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 770
     height: 435
     isCached: true
-
-related:
-  - title: "New AI Features You Can Implement In Your Web App"
-    excerpt: "In today’s digital landscape, integrating advanced features into web applications is crucial for delivering enhanced user experiences. Several organizations like OpenAI, AWS, Microsoft, and Google have built AI-based tools that can be integrated into your web app to unlock new possibilities."
-    publishedDateTime: 2023-05-18T14:44:00Z
-    webUrl: "https://techbullion.com/new-ai-features-you-can-implement-in-your-web-app/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/05/Screenshot_20230518-194400-1000x515.jpg"
-        width: 1000
-        height: 515
-        isCached: true
 
 secured: "OUF7DjDZErKZsr0s8tDPj9HIEwMKqTi6DDzlQ3Aa9XXo2mho2l7nGuwuknBEsLVu4bp23ohm5km2Onkb1MCDfKmjeaPYk3TCb94Lc0kt2PitIgBeYuCQDiiDUQ7jGM9KmckhMEU96S6tR+t+TMN8n3bVbMdikrNn6x7lqvcKVtbAUR84ZnTad75Ro+zui8wXRxGcZa02nw0pOMbh/1PRebBoWMsaTatzB92h1hIISjCBzplqhLRfhxupict+v9RWEFO/GTO0AIY2Hu7TCsmXaiLjM+sLtgmA1OiUp2uuRG7ilnTBEXPGb31u5cAVyKMa0dhehanFdukREW3WdXEgv8YOzcvMM/7bF33f3MxQMIg=;xRMLsOBu3k6w2D1FPc4B5A=="
 ---

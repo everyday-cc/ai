@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "UK Plans Meeting on AI Risks With OpenAI, DeepMind Bosses"
-    excerpt: "The UK government has invited bosses from some of the world’s biggest artificial intelligence firms to a meeting, people familiar with the matter said, as Prime Minister Rishi Sunak crafts a policy to manage the risks and benefits of the technology."
-    publishedDateTime: 2023-05-18T14:31:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-18/uk-plans-meeting-on-ai-risks-with-openai-deepmind-bosses"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilIvhpd0_UuM/v1/1200x802.jpg"
-        width: 1200
-        height: 802
-        isCached: true
   - title: "London court throws out lawsuit against Google over medical records"
     excerpt: "Google defeated a lawsuit brought on behalf of 1.6 million people over medical records provided to the U.S. tech giant by a British hospital trust. The Royal Free London NHS Trust transferred patient data to Google’s artificial intelligence firm DeepMind Technologies in 2015 in relation to the development of a mobile app designed to analyse medical records and detect acute kidney injuries."
     publishedDateTime: 2023-05-20T03:33:00Z

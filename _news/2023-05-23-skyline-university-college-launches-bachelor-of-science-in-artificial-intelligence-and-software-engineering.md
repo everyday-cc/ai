@@ -59,15 +59,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Stop Serving Dogfood, Invest In Generative Artificial Intelligence With Purpose"
-    excerpt: "Don't fall prey to the trends, make sure your generative artificial intelligence investments are meaningful to your customers before launching dogfood to your users."
-    publishedDateTime: 2023-05-18T13:29:00Z
-    webUrl: "https://www.forbes.com/sites/joetoscano1/2023/05/18/stop-serving-dogfood-invest-in-generative-artificial-intelligence-with-purpose/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 43
   - title: "Looking into possible impact of Artificial Intelligence"
     excerpt: "We talk about the potential of AI and threats it may pose with Aboitiz Data Innovation's David Hardoon. Artificial Intelligence has become a topic of controversy with even the so-called \"Godfather of AI\" Geoffrey Hinton expressing worries over how smart ..."
     publishedDateTime: 2023-05-22T23:47:00Z

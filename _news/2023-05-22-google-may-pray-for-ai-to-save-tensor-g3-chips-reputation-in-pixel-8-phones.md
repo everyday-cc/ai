@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digit.in/article/amp/mobile-phones/68075/google-ai-to-sa
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/mobile-phones/68075/google-ai-to-save-tensor-g3-chip-reputation-pixel-8-phones"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:

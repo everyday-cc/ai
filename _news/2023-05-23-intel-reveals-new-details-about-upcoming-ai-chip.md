@@ -55,6 +55,20 @@ related:
         width: 460
         height: 285
         isCached: true
+  - title: "Intel provides details on future AI chips"
+    excerpt: "Intel has provided details on a chip for artificial intelligence (AI) computing it is planning to introduce in 2025 as it looks to compete directly with Nvidia and Advanced Micro Devices (AMD)."
+    publishedDateTime: 2023-05-23T06:48:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/intel-provides-details-on-future-ai-chips"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 54
+    images:
+      - url: "https://www.newelectronics.co.uk/media/k1zd5rhn/intel.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Intel Promises Falcon Shores AI Data Center Chip in 2025"
     excerpt: "These rapid advances in AI don't just happen, though. It takes unfathomable computing power to train and run these models. Intel hopes to get a bigger piece of this business with its upcoming Falcon Shores chip, and it has just revealed the first details ..."
     publishedDateTime: 2023-05-22T20:45:00Z

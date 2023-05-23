@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Infogain AI Business Solutions Now Available in the Microsoft Azure Marketplace"
-excerpt: "Jake Zborowski, General Manager, Microsoft Azure Platform at Microsoft Corp., said, \"We're pleased to welcome three NAVIK AI solutions from Infogain to the Microsoft Azure Marketplace, which gives ..."
-publishedDateTime: 2023-05-18T16:36:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/05/b32471234/infogain-ai-business-solutions-now-available-in-the-microsoft-azure-marketplace"
-webUrl: "https://www.benzinga.com/pressreleases/23/05/b32471234/infogain-ai-business-solutions-now-available-in-the-microsoft-azure-marketplace"
-ampWebUrl: "https://www.benzinga.com/amp/content/32471234"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32471234"
+excerpt: "NAVIK customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. NAVIK is an AI platform that addresses the breadth of AI ..."
+publishedDateTime: 2023-05-18T16:29:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230518005632/en/Infogain-AI-Business-Solutions-Now-Available-in-the-Microsoft-Azure-Marketplace"
+webUrl: "https://www.businesswire.com/news/home/20230518005632/en/Infogain-AI-Business-Solutions-Now-Available-in-the-Microsoft-Azure-Marketplace"
 type: article
-quality: 65
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: newsroom.businesswire.com
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
@@ -54,6 +52,6 @@ related:
       domain: tmcnet.com
     quality: 18
 
-secured: "+CVKczsHKW0plSLLZEmVP7ku2omkG1TgGlvRAqULaLhOwf0cb8+QREwYyzuDP92WjmbcNi5zuOuhHyyG/YfxbzgjuZriOORh1Ws7g+w57H8cwHr18zHRXyQ0ZkNSmKGQ1GAgxJNb63AZa/JapTcit12UqQfThtVb2bboMzTjh0FiX7HvsYhszivO5xgfKUx1Oy6mKbeBP4TvpGmFD6E77q0MYt3m0OCiQlASsU8ZcV52rQcK7Hb+Cy6oOr9HuDlMoiCIOBWZhNlY2eqqj8RGnolb0zwSoPSmjDetb0ibZ8gZc8xXiyBLFyOsjt8v9VWLhVQhkKJe0QuWBAOhZ4+Dllx9qCFtqWtMs0J32lD3H/U=;qcV6W9o8xxO+LGXAt1e2CA=="
+secured: "g1zB1X4iOphGIiC7K1KffiBrEgx4k1MLMrxzQmrb3H5M59ZF4if8UE4juKKeTjOYNTrTrdRueL10veqHppWQK9/A1Pt0Fv2gblEPhOFiQKeHea+UUVnkbHI+V26TPy8HU8uy3DvSzbjzFwbalkaEYbiu04lerS8QADE3lgS+3vMNsoHtWh8EmljuKtqckgVDgUdgnthoAhaUrnnCR5iPjSfnPMBATsT0eCKNHzusyDvY69OB7clfaN/r9n1H0XKcPKBdBP4J/aSK/efWYMM9rzysUESVEfTaGJ4AZb9v9gDEo9eV0k8cO5+UoeX/JBq14spxODLEKvQ1YIS6is1LKO0yMFJwBgye0gbu13RchTY=;1TUe/mMo+0ss4SgeZXtJvg=="
 ---
 

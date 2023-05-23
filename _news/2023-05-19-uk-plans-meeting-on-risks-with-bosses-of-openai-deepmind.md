@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "UK Plans Meeting on AI Risks With OpenAI, DeepMind Bosses"
-    excerpt: "The UK government has invited bosses from some of the world’s biggest artificial intelligence firms to a meeting, people familiar with the matter said, as Prime Minister Rishi Sunak crafts a policy to manage the risks and benefits of the technology."
-    publishedDateTime: 2023-05-18T14:31:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-18/uk-plans-meeting-on-ai-risks-with-openai-deepmind-bosses"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilIvhpd0_UuM/v1/1200x802.jpg"
-        width: 1200
-        height: 802
-        isCached: true
   - title: "UK plans meeting on AI risks with OpenAI, DeepMind bosses"
     excerpt: "The UK government has invited bosses from some of the world’s biggest artificial intelligence firms to a meeting, people familiar with the matter said, as Prime Minister Rishi Sunak crafts a ..."
     publishedDateTime: 2023-05-19T03:40:00Z

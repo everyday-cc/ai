@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2023/05/22/how-ai-is-going-to-change-su
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/05/22/how-ai-is-going-to-change-supercomputer-rankings-even-more/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 82
 published: true
 
 provider:

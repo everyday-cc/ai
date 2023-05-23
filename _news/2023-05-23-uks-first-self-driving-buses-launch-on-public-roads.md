@@ -26,17 +26,6 @@ images:
     height: 667
     isCached: true
 
-related:
-  - title: "9 in 10 drivers not keen on buying a self-driving car, survey claims"
-    excerpt: "Motoring experts asked 1000 car insurance customers whether they would be keen to buy a self-driving car and 87% said they wouldn’t."
-    publishedDateTime: 2023-05-18T13:21:00Z
-    webUrl: "https://www.techdigest.tv/2023/05/9-in-10-drivers-not-keen-on-buying-a-self-driving-car-survey-claims.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 19
-
 secured: "EDg5hr1MLGF73/ksOTcI3uwZUGHlg0VNtKhM1faB2nHd+2sYjc9d8/pYvHepnGqJ54Ns6IFhpC8RdQPzSBkMeQJ9sgqTWtEkKhtyPB/RJKH1yqPRwbwU7Ct+IL436bG9ZzAA8p65vZoKcaougAKvqG1DX6SJ9vC0u4svlw3BaTi6+BcriIUeyazoqFnW5bwTcpgyhUqOpwI+PE5exTR8EVaEzdCkijjagvKOl1XaGrV3SrhJ9pSD1LWXunOnF8RH6ofjBVOEruRJ/K/OwSBGgdboGLwFk2M99KNYYTiD2dc1F+4hJNtyyrAy7G+n99AyvbOHhH/q3bX9terNFHmPuQGk0nOIFFQZ2y02Honkh3b+0/cFyuaNFgg0FIf+O80iUWOsKBQydrGeCmjAeOPuFuwg2+wku+H2cjKXGcTtYweHtlPWUhtIhFeBIWk0KY6WZmqFCnzRHdw7Oauz4l4vwL94wb+KGMaLrpkDO1DhUKr23WAHaZ3L0FJnIPn+b/f7cHo/IoX91VnnLrAJSqSPJw==;3Ya44Wn4zEivnGR7m1FVuA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/05/22/the-ai-rac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/05/22/the-ai-race-is-gathering-steam-what-will-it-mean-for-nvidias-earnings/amp/"
 type: article
 quality: 88
-heat: 148
+heat: 128
 published: true
 
 provider:
@@ -76,34 +76,6 @@ related:
       - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/NVIDIA-AMD-and-Micron-are-in-the-Forefront-in-the-Chip-Sector.jpg"
         width: 1500
         height: 844
-        isCached: true
-  - title: "Trading Nvidia earnings next week: Analysts say 'AI gold rush' should boost outlook"
-    excerpt: "Growing artificial intelligence tailwinds should lift Nvidia's guidance when chip giant posts earnings, according to some Wall Street analysts."
-    publishedDateTime: 2023-05-18T14:04:00Z
-    webUrl: "https://www.cnbc.com/2023/05/18/analysts-say-ai-gold-rush-should-boost-nvidias-outlook.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 63
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107203248-1677884994360-A100_5.jpg?v=1684425870&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Nvidia Chip King's Fortune Doubles This Year to $27.3B on AI Boom"
-    excerpt: "Huang’s wealth has grown 98% this year to $27.3 billion, making him the biggest gainer among US and global tech billionaires, according to the Bloomberg Billionaires Index. Nearly all of Huang’s fortune is in Nvidia shares and options,"
-    publishedDateTime: 2023-05-18T14:48:00Z
-    webUrl: "https://www.wealthmanagement.com/high-net-worth/nvidia-chip-kings-fortune-doubles-year-273b-ai-boom"
-    type: article
-    provider:
-      name: WealthManagement.com
-      domain: wealthmanagement.com
-    quality: 54
-    images:
-      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/nvidia-ceo-jensen-huang.jpg"
-        width: 1540
-        height: 800
         isCached: true
   - title: "Nvidia sees AI GPU orders ramp up"
     excerpt: "Nvidia has seen a ramp-up in orders for its A100 and H100 AI GPUs, as a result of the generative AI boom, which has led to an increase in wafer starts at TSMC, according to market sources."

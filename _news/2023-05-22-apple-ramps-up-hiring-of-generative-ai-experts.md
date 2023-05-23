@@ -50,6 +50,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Digital Twins, Generative AI, And The Metaverse"
+    excerpt: "Exploring the convergence of digital twins, generative AI, and the metaverse, this article delves into the future, where these tech trends democratize 3D design."
+    publishedDateTime: 2023-05-23T06:51:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/23/digital-twins-generative-ai-and-the-metaverse/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/23/digital-twins-generative-ai-and-the-metaverse/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/23/digital-twins-generative-ai-and-the-metaverse/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646c62220a46f01c40b5031a/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How generative AI’s impact on digital advertising methodology is evolving"
     excerpt: "Despite issues around brand safety, intellectual property and security, generative AI tools for brands and advertisers are here to stay."
     publishedDateTime: 2023-05-21T16:10:00Z
@@ -185,15 +201,6 @@ related:
         width: 930
         height: 620
         isCached: true
-  - title: "Is generative AI the secret to scaling customer success?"
-    excerpt: "Generative AI can even learn to personalize the tone, style, and voice of your content to fit your brand so that all you need to do is fact-check, finesse, and humanize it. But amid all this promise, where do you start incorporating AI into your customer ..."
-    publishedDateTime: 2023-05-18T13:32:00Z
-    webUrl: "https://www.fastcompany.com/90896251/is-generative-ai-the-secret-to-scaling-customer-success"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
   - title: "TCS announces generative AI pact with Google Cloud, new offering for enterprises"
     excerpt: "Tata Consultancy Services TCS on Monday announced an expanded partnership with Google Cloud and the launch of its new offering -- TCS Generative AI which leve"
     publishedDateTime: 2023-05-22T13:20:00Z

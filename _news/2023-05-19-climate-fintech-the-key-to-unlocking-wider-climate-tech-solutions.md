@@ -7,7 +7,7 @@ originalUrl: "https://financialit.net/blog/fintech/climate-fintech-key-unlocking
 webUrl: "https://financialit.net/blog/fintech/climate-fintech-key-unlocking-wider-climate-tech-solutions"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,43 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Nextech3D.AI adds 2 million in growth capital cash from FinTech Ratio Tech"
-    excerpt: "CEO Evan Gappelberg joined Steve Darling from Proactive to share news the company the company has added 2 million dollars in cash to the bottom line without share dilution by doing a deal with FinTech Ratio Tech and its 400 million dollar credit fund."
-    publishedDateTime: 2023-05-18T13:57:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1015471/nextech3d-ai-adds-2-million-in-growth-capital-cash-from-fintech-ratio-tech-1015471.html"
+  - title: "FinTech Regulation and Compliance: Navigating the Landscape to Ensure Data Privacy"
+    excerpt: "To keep up with the advancements in technologies like blockchain, AI, and cryptocurrencies, FinTech companies are overhauling their existing models to ensure compliance with global data protection regulations like the GDPR, LGPD, and CCPA, in addition to ..."
+    publishedDateTime: 2023-05-18T15:15:00Z
+    webUrl: "https://www.finextra.com/blogposting/24224/fintech-regulation-and-compliance-navigating-the-landscape-to-ensure-data-privacy"
     type: article
     provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 37
+      name: Finextra
+      domain: finextra.com
+    quality: 18
     images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA1XC9TY3JlZW5zaG90LTIwMjMtMDEtMTctYXQtNi0wMS0zNi1BTV82NDY2M2QwM2ViZjUzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Home-grown help for Bermuda’s fintech future"
-    excerpt: "The Bermuda partner and head of ventures of a blockchain-centric advisory firm is focused on ensuring that Bermuda succeeds in its fintech ambitions, as he builds his Toronto-based consultancy. The"
-    publishedDateTime: 2023-05-22T09:58:00Z
-    webUrl: "https://www.royalgazette.com/international-business/business/article/20230522/home-grown-help-for-bermudas-fintech-future/"
-    type: article
-    provider:
-      name: The Royal Gazette
-      domain: royalgazette.com
-    quality: 24
-    images:
-      - url: "https://imengine.editorial.prod.rgb.navigacloud.com/?uuid=60994b70-5dac-5518-8f3c-e340f010b2b9&function=fit&type=preview"
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/dfe92e99-e72f-4d86-a07a-8431087d475a.png"
         width: 500
-        height: 500
+        height: 261
         isCached: true
-  - title: "What impact will AI have on FinTech in 2023?"
-    excerpt: "Artificial intelligence (AI) is emerging as one of the key driving forces behind financial technology, as in many other industries recently. It’s a defining"
-    publishedDateTime: 2023-05-22T17:20:00Z
-    webUrl: "https://www.businesslancashire.co.uk/2023/05/22/what-impact-will-ai-have-on-fintech-in-2023/"
-    type: article
-    provider:
-      name: https//businesslancashire.co.uk
-      domain: businesslancashire.co.uk
-    quality: 19
 
 secured: "mA23uhxHE1JwKU5Pw2uRjd6fnBaCyNdsW4qXd7uAu8c/tKVTc5gqf8owTF2eNNJ3lDq1I+HK+/iRmEMoyLrGBdGUwDzN1r61WcX3cQ4xa2eXiz5BUEDudHjs4Q6UFH7V4g5vuEbyvUbWjzLVFq7hGmQYLc05cg9FBFn10SPDKpWJ2kNZ4ponhWudV/Nkwh3AoIx6e4xDUmBVBN2ys01SvVkoq2KLQPoeLPHoUskIU0NUEroGGabQjdgAqULwWa+l3ezrYRt6l/t8TJvx2BBs36z4I+xuV6X2afEJ8jjTNAjHKyUrMo2txfdK7gMxYYTdlPtW7Shl5+jw2WWlhvC2WVVSqtAQyLVXtP4NntbQzqYPpNIcZtnqffHJcJjRsomHVFya2zTQIDsonKEZhxfgOZfVJovthEvWmwNhzx6iYk9LvFzYJtbrXdQ9lAjJp1zuntuKBKqtysuhDuv9HqDTR8yWkb5F/p8g1kNE6lilK42ucNUCBKjHT01tUYaYxJoXuGRPsmVDkyzAtRaj+JqQUQ==;oQAVwDVER+KfGc1HTk+WlA=="
 ---

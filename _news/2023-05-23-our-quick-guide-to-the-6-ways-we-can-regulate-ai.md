@@ -43,20 +43,6 @@ related:
         width: 1199
         height: 638
         isCached: true
-  - title: "Workplace AI: How artificial intelligence will transform the workday"
-    excerpt: "As AI becomes a more core part of the workday, Frey says this push into fluency means workers will be better equipped to utilize it as a supplement to their current skill set. Familiarity with this technology also set them up to grow and develop those skills quickly."
-    publishedDateTime: 2023-05-18T14:49:00Z
-    webUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday?trk=public_post_comment-text"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 82
-    images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0fnfjfy.jpg"
-        width: 624
-        height: 351
-        isCached: true
   - title: "3 Penny Stocks to Buy as the AI Sector Transforms Every Industry in 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI penny stocks offer investors a thrilling opportunity to tap into the"
     publishedDateTime: 2023-05-19T10:51:00Z

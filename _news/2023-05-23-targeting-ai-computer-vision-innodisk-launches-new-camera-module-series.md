@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicsforu.com/press-releases/targeting-ai-comput
 webUrl: "https://www.electronicsforu.com/press-releases/targeting-ai-computer-vision-innodisk-launches-new-camera-module-series"
 type: article
 quality: 52
-heat: 82
+heat: 74
 published: true
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "FlowX.ai raises $35M for its AI-based approach to application integration"
-    excerpt: "“Digital transformation” and AI remain very buzzy terms in the world of enterprise software, and today a startup operating in Romania that’s built a platform that taps into both concepts, and is seeing user traction in the financial sector, has ..."
-    publishedDateTime: 2023-05-22T12:03:00Z
-    webUrl: "https://techcrunch.com/2023/05/22/romanias-flowx-ai-raises-35m-for-its-ai-based-approach-to-application-integration/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 46
   - title: "WHO says using AI in health care carries a multitude of risks"
     excerpt: "More industries are investing in AI, including health care. But the World Health Organization says the industry needs to look beyond its exciting potential and look into the risks."
     publishedDateTime: 2023-05-18T21:54:00Z
@@ -63,6 +54,6 @@ related:
         height: 810
         isCached: true
 
-secured: "lozBNjeL9wUFWbpxVYzFR4aW/fswxGGi1+kuKe+H0R7RbNcauZ5CqNbsi/sFjKIVZQO81fCfQiuf2bK81V4zqutQeYVI71QilgAgHjiKi5YjJKOreOT0d6IgVhm5hMDvcPh2RIuq6s3OhuGf8QJl2ena9cRV3d8ISrRTGyEBQHUJxnb4C/0kclf4eLaOZBeDxjnK5IhrPgoySb9RIrs5I5sHObaAAf9sPHgpLtYUWgivHMuFVFMPT8bsXBeB4681mikv3B8Gd49HvvlVfBcrBFsjr63PtROsr4nmwP0lfcRg6GXT4bOSePLepBhyGyj9Qh2sGBom6ijaOMx+pTybCTcunVAapukcY/Jqz2l9lq4=;J5ASyowYVWjjX47lXZGKow=="
+secured: "q7SjuLbRXfQKpsErTRb2PW2kPfBuOz8MqINpsHavSzBMk0hwDc+iU/1Gp1cv58ttpIRG2LuIiks9OWP35z0r6d2xsssGJEzUJaOEC3wvCXwfI5AoXxpi2b6BXgEEk5eF4lqqqiHdP2egYK/UCsnqu6o7UTMK+zmSrItCKznClseFDuhh+9fRyytX39cFmZ2hHb/x6Mr60A2Cf5npgas8MHCFK+DJZnX0ssJCpE8tlB4cPJbN6XnAqqbb7ao+3YkNQqrhHEn5nYwKXn5k8rWGouIct9VG5c8ClJb9QJbc+ONltkTUJ9ZKULF2IfVsehkeEAW11K3RpcYq+2obMkQmexihKlZOXvWfQEG7++N9bfzHXV2kQI30AJkrzduT6M9E1Uelch40Uzi0PUArYZkwgNokrIh+Fnp7UOTZVHxgvWMU+m9l+rrUnG0DOOzRJFsu7yHIJBOJ/5J0u/NOgCaaveGSy/HIxkOTORr+Kj8avnPtmUZJHRBFNk8C8ISmq2vn1XQWy1NM0zhLbvXUttA0Dg==;xKcahfvZnu3IqnQcLo53ng=="
 ---
 

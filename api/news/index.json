@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-23-ai-news-6-sources-entrepreneurs-can-use-to-stay-up-to-date.md",
+      "title": "AI News: 6 Sources Entrepreneurs Can Use To Stay Up To Date",
+      "excerpt": "With so many updates and shiny objects, how do you know which to explore in more detail? Here are six sites to bookmark, to stay up to date with the latest news in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/05/23/ai-news-6-sources-entrepreneurs-can-use-to-stay-up-to-date/",
+      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/05/23/ai-news-6-sources-entrepreneurs-can-use-to-stay-up-to-date/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646c6c08f0d5bccf7b2cbccf/0x0.jpg?format=jpg&crop=2496,1403,x0,y129,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/05/23/ai-news-6-sources-entrepreneurs-can-use-to-stay-up-to-date/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/05/23/ai-news-6-sources-entrepreneurs-can-use-to-stay-up-to-date/amp/",
+      "publishedDateTime": "2023-05-23T00:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-targeting-ai-computer-vision-innodisk-launches-new-camera-module-series.md",
       "title": "Targeting AI & Computer Vision, Innodisk Launches New Camera Module Series",
       "excerpt": "In the vast field of AI applications, AI computer vision plays a pivotal role in helping industries to transform and achieve intelligent automation. Using",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.electronicsforu.com/press-releases/targeting-ai-computer-vision-innodisk-launches-new-camera-module-series",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -45,6 +96,57 @@
       ]
     },
     {
+      "path": "_news/2023-05-23-endless-adventures-will-enable-gamers-to-create-narrative-games-with-no-code-tools-and-ai.md",
+      "title": "Endless Adventures will enable gamers to create narrative games with no-code tools and AI",
+      "excerpt": "Endless Adventures came out of stealth at GamesBeat Summit 2023 to talk about the intersection of gaming, AI and user-generated content.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/endless-adventures-will-enable-gamers-to-create-narrative-games-with-no-code-tools-and-ai/",
+      "originalUrl": "https://venturebeat.com/games/endless-adventures-will-enable-gamers-to-create-narrative-games-with-no-code-tools-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/ENDLESS-5_Gameplay.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/endless-adventures-will-enable-gamers-to-create-narrative-games-with-no-code-tools-and-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/endless-adventures-will-enable-gamers-to-create-narrative-games-with-no-code-tools-and-ai/amp/",
+      "publishedDateTime": "2023-05-22T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-how-ai-is-going-to-change-supercomputer-rankings-even-more.md",
       "title": "How AI Is Going To Change Supercomputer Rankings Even More",
       "excerpt": "And as we see the rise of commercial AI systems, the vendors that build these machines and ... “Trento” AMD Epyc CPU and a quad of AMD “Aldebaran” Instinct MI250X GPU accelerators link by the Slingshot 11 Ethernet interconnect from Hewlett Packard ...",
@@ -53,7 +155,7 @@
       "originalUrl": "https://www.nextplatform.com/2023/05/22/how-ai-is-going-to-change-supercomputer-rankings-even-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -450,7 +552,7 @@
       "originalUrl": "https://www.reuters.com/news/picture/intel-gives-details-on-future-ai-chips-a-idUSKBN2XD1A3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -502,7 +604,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/22/get-past-the-filter-artificial-intelligence-in-hiring/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -791,7 +893,7 @@
       "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/05/22/the-ai-race-is-gathering-steam-what-will-it-mean-for-nvidias-earnings/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -937,7 +1039,7 @@
       "originalUrl": "https://www.digit.in/news/mobile-phones/google-ai-to-save-tensor-g3-chip-reputation-pixel-8-phones-68075.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1115,109 +1217,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-21-a-young-billionaire-buys-forbes-a-startup-offers-free-tvs-and-chatgpt-goes-mobile.md",
-      "title": "A young billionaire buys Forbes, a startup offers free TVs and ChatGPT goes mobile",
-      "excerpt": "In this week's edition of Week in Review, we cover the new ChatGPT mobile app, a startup building humanoid robots and free TVs -- with ads.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/20/a-young-billionaire-buys-forbes-a-startup-offers-free-tvs-and-chatgpt-goes-mobile/",
-      "originalUrl": "https://techcrunch.com/2023/05/20/a-young-billionaire-buys-forbes-a-startup-offers-free-tvs-and-chatgpt-goes-mobile/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/venture-economic-warfare.jpg?resize=1200,645",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/20/a-young-billionaire-buys-forbes-a-startup-offers-free-tvs-and-chatgpt-goes-mobile/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/20/a-young-billionaire-buys-forbes-a-startup-offers-free-tvs-and-chatgpt-goes-mobile/amp/",
-      "publishedDateTime": "2023-05-21T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-21-wall-street-week-ahead-artificial-intelligence-gives-real-boost-to-us-stock-market.md",
-      "title": "Wall Street Week Ahead: Artificial intelligence gives real boost to US stock market",
-      "excerpt": "Recent advances in artificial intelligence are fueling optimism over how businesses can operate more productively in the years ahead. They are also providing a big boost to the stock market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-stocks-weekahead/rpt-wall-st-week-ahead-artificial-intelligence-gives-real-boost-to-u-s-stock-market-idUSL1N37G1V2",
-      "originalUrl": "https://www.reuters.com/article/usa-stocks-weekahead/rpt-wall-st-week-ahead-artificial-intelligence-gives-real-boost-to-u-s-stock-market-idUSL1N37G1V2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/jUM9WeanIabp58xV9iwqGoIdO5U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PCM7EYO3OFP4HKRIZ7ZMUVK77U.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-21T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

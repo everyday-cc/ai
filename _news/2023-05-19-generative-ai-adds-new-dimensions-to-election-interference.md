@@ -43,15 +43,6 @@ related:
         width: 1312
         height: 738
         isCached: true
-  - title: "Stop Serving Dogfood, Invest In Generative Artificial Intelligence With Purpose"
-    excerpt: "Don't fall prey to the trends, make sure your generative artificial intelligence investments are meaningful to your customers before launching dogfood to your users."
-    publishedDateTime: 2023-05-18T13:29:00Z
-    webUrl: "https://www.forbes.com/sites/joetoscano1/2023/05/18/stop-serving-dogfood-invest-in-generative-artificial-intelligence-with-purpose/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 43
   - title: "Skyline University College launches Bachelor of Science in artificial intelligence and software engineering"
     excerpt: "Both the Bachelor of Science in Computer Science with a Concentration in Artificial Intelligence (BAI ... computer vision, and robotics. Graduates of the BAI program will be equipped with the skills and knowledge needed to design and develop intelligent ..."
     publishedDateTime: 2023-05-23T03:01:00Z

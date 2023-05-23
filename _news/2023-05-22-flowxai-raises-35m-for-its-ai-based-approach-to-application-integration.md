@@ -22,48 +22,49 @@ topics:
   - AI
 
 related:
-  - title: "Targeting AI & Computer Vision, Innodisk Launches New Camera Module Series"
-    excerpt: "In the vast field of AI applications, AI computer vision plays a pivotal role in helping industries to transform and achieve intelligent automation. Using"
-    publishedDateTime: 2023-05-23T04:31:00Z
-    webUrl: "https://www.electronicsforu.com/press-releases/targeting-ai-computer-vision-innodisk-launches-new-camera-module-series"
+  - title: "Fintech Ramp Launches AI-enhanced Tools to Help Businesses Streamline Operations"
+    excerpt: "Ramp, the finance automation platform, announced Ramp Intelligence: a set of tools in financial services, driven by AI, to solve customer issues."
+    publishedDateTime: 2023-05-20T14:38:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/"
     type: article
     provider:
-      name: electronicsforu
-      domain: electronicsforu.com
-    quality: 52
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 54
     images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/05/Innodisk-2.jpg"
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2013/05/Tools.jpg"
         width: 600
-        height: 400
+        height: 450
         isCached: true
-  - title: "WHO says using AI in health care carries a multitude of risks"
-    excerpt: "More industries are investing in AI, including health care. But the World Health Organization says the industry needs to look beyond its exciting potential and look into the risks."
-    publishedDateTime: 2023-05-18T21:54:00Z
-    webUrl: "https://scrippsnews.com/stories/who-says-using-ai-in-health-care-carries-a-multitude-of-risks/"
+  - title: "Teen-focussed fintech signs with Yoti to enhance security, verify age"
+    excerpt: "The tool also enhances the platform's current Know Your Customer (KYC) and Anti-Money Laundering (AML) processes, the companies say."
+    publishedDateTime: 2023-05-18T19:20:00Z
+    webUrl: "https://www.biometricupdate.com/202305/teen-focussed-fintech-signs-with-yoti-to-enhance-security-verify-age"
     type: article
     provider:
-      name: scrippsnews
-      domain: scrippsnews.com
-    quality: 39
-    images:
-      - url: "https://cdn.scrippsnews.com/images/videos/m/1684445050_OQqRsh.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Artificial intelligence innovation: Leading companies in road slope estimation for the automotive industry"
-    excerpt: "Porsche Automobil is a key player in the road slope estimation innovation area. The company’s road slope estimation technology uses GPS and standard vehicle sensors for estimation of road slope. Hyundai, Kia, Toyota and Nissan are some of the other key players."
-    publishedDateTime: 2023-05-22T09:56:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-road-slope-estimation-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 21
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/05/Artificial-intelligence_Road-slope-estimation.jpg"
-        width: 1440
-        height: 810
-        isCached: true
+  - title: "What impact will AI have on FinTech in 2023?"
+    excerpt: "Artificial intelligence (AI) is emerging as one of the key driving forces behind financial technology, as in many other industries recently. It’s a defining"
+    publishedDateTime: 2023-05-22T17:20:00Z
+    webUrl: "https://www.businesslancashire.co.uk/2023/05/22/what-impact-will-ai-have-on-fintech-in-2023/"
+    type: article
+    provider:
+      name: https//businesslancashire.co.uk
+      domain: businesslancashire.co.uk
+    quality: 19
+  - title: "Top 5 Startups Leveraging the Power of AI to Revolutionize the Fintech Industry"
+    excerpt: "Here is the rundown of the top 5 Fintech startups unleashing the power of AI to bring transformation in the industry. Read here everything."
+    publishedDateTime: 2023-05-23T06:18:00Z
+    webUrl: "https://www.ciol.com/top-5-startups-leveraging-the-power-of-ai-to-revolutionize-the-fintech-industry/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 15
 
 secured: "EJ0nq6xSrNy7TGCYgMMNwElGvENhe08LfVFe4x9qmwsuvn8V9q4Jz4h/BpBFQkOIF+UkD3G5FsreKyU9MYpI2VjheSLn3xVBTUxQHUdpVgJtyl2ClW9LovVELHysRwu+gkEuHudflYYJL2haS33zHPYT1duuAiM+avbBct8paXeuTcKU9AkM7KwNPVu5uD2SxZYbe+BlR93A4Xh+RYlSiCmnZYDoHSNDDhjeSvOfXNpopEWB5ge0NF428z+DEo59YFOU+b9nUpXVZpAoKla2dfSO0++SU8upaPZOfQcp0jhVtWti+b+5sRM8OXb1keGOqGLFs8AN9TiWhsSK1lVEFXYZ1PajRyCcodnjrSGAdEU=;mrW35NI7urvcgV/FIWtMgw=="
 ---

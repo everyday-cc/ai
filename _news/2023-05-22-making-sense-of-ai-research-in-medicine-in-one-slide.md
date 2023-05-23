@@ -40,20 +40,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "AI and Practicing Law: Potential Traps for the Unwary"
-    excerpt: "By developing a consciousness for these potential pitfalls, the hope is that lawyers (and other service providers) can use AICGs to significantly aid, but not substitute for, their ethical (and perhaps moral) responsibilities to their clients."
-    publishedDateTime: 2023-05-18T14:11:00Z
-    webUrl: "https://www.law.com/newyorklawjournal/2023/05/18/ai-and-practicing-law-potential-traps-for-the-unwary/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/389/2023/03/LANZA.jpg"
-        width: 1062
-        height: 900
-        isCached: true
   - title: "AI in accounting: Promises and reality on the new frontier"
     excerpt: "Generative AI tools like ChatGPT, Google Bard and recent updates to Bing can play a role in finance, but there are risks and limitations."
     publishedDateTime: 2023-05-18T16:51:00Z

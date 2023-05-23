@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/18/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 349
+heat: 359
 published: true
 
 provider:
@@ -232,6 +232,20 @@ related:
       - url: "https://cst.brightspotcdn.com/dims4/default/da677a9/2147483647/strip/true/crop/700x400+0+0/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FhhfzX25Mw0xF_jKyZEX3-rpSP5o%3D%2F0x0%3A700x467%2F700x467%2Ffilters%3Afocal%28433x156%3A434x157%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24668765%2FJames_Rhodes_of_Morningstar.jpg"
         width: 1461
         height: 834
+        isCached: true
+  - title: "Is There a UN Role in Artificial Intelligence Chatbot?"
+    excerpt: "Will it take a robot to break that unholy tradition ... of the concerns that the Secretary-General himself has been expressing — the idea that as artificial intelligence develops, it needs to be monitored carefully and the right regulations and standards ..."
+    publishedDateTime: 2023-05-23T07:00:00Z
+    webUrl: "https://www.ipsnews.net/2023/05/un-role-artificial-intelligence-chatbot/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 39
+    images:
+      - url: "https://www.ipsnews.net/Library/2023/05/A-female-robot_2.jpg"
+        width: 630
+        height: 355
         isCached: true
   - title: "Apple Bans Employees From Using ChatGPT Amid Its Own AI Efforts"
     excerpt: "Apple has restricted employee use of ChatGPT and other external artificial intelligence utilities amid the development of its own similar"

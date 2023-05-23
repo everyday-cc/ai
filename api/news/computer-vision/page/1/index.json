@@ -10,7 +10,7 @@
       "originalUrl": "https://www.electronicsforu.com/press-releases/targeting-ai-computer-vision-innodisk-launches-new-camera-module-series",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -141,7 +141,7 @@
       "originalUrl": "https://mixmag.net/read/police-criticised-for-using-facial-recognition-at-beyonces-cardiff-show-news",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -1375,10 +1375,10 @@
     {
       "path": "_news/2023-05-11-computer-vision-software-developer-visualcortex-joins-axis-technology-partner-program.md",
       "title": "Computer Vision software developer VisualCortex joins Axis Technology Partner Program",
-      "excerpt": "VisualCortex joins Axis Technology Integration Partner Program to deliver computer vision software and video analytics solutions to Axis Communications' global network of customers and partners across 50 countries SYDNEY and LUND,",
+      "excerpt": "VisualCortex joins Axis Technology Integration Partner Program to deliver computer vision software and video analytics solutions to Axis Communications' global network of customers and partners ...",
       "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/05/11/9812159.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/05/11/9812159.htm",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/n32332541/computer-vision-software-developer-visualcortex-joins-axis-technology-partner-program",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/n32332541/computer-vision-software-developer-visualcortex-joins-axis-technology-partner-program",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1395,13 +1395,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T23:40:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32332541",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32332541",
+      "publishedDateTime": "2023-05-10T21:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

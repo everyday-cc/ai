@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "AI and Practicing Law: Potential Traps for the Unwary"
-    excerpt: "By developing a consciousness for these potential pitfalls, the hope is that lawyers (and other service providers) can use AICGs to significantly aid, but not substitute for, their ethical (and perhaps moral) responsibilities to their clients."
-    publishedDateTime: 2023-05-18T14:11:00Z
-    webUrl: "https://www.law.com/newyorklawjournal/2023/05/18/ai-and-practicing-law-potential-traps-for-the-unwary/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/389/2023/03/LANZA.jpg"
-        width: 1062
-        height: 900
-        isCached: true
   - title: "Making sense of AI research in medicine, in one slide"
     excerpt: "Research on artificial intelligence in health care runs the gamut of risky but rewarding to relatively useless. Here's what one expert makes of it."
     publishedDateTime: 2023-05-22T08:30:00Z
