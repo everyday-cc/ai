@@ -7,7 +7,7 @@ originalUrl: "https://www.foxnews.com/tech/tsas-facial-recognition-air-travel-sp
 webUrl: "https://www.foxnews.com/tech/tsas-facial-recognition-air-travel-sparks-privacy-outrage"
 type: article
 quality: 66
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -40,12 +40,12 @@ related:
         isCached: true
   - title: "TSA tries out facial recognition technology at 16 U.S. airports"
     excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through -- all without having to hand over their identification to the TSA officer sitting behind the screen."
-    publishedDateTime: 2023-05-21T07:41:00Z
-    webUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+    publishedDateTime: 2023-05-21T07:46:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
     type: article
     provider:
-      name: Northwest Arkansas Democrat Gazette
-      domain: nwaonline.com
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
     quality: 54
     images:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204387909_1G2facial0521_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
@@ -84,6 +84,20 @@ related:
       name: Men's Journal
       domain: mensjournal.com
     quality: 44
+  - title: "TSA’s Facial Recognition Sparks Privacy Outrage"
+    excerpt: "TSA is currently testing its new facial recognition technology at a number of airports throughout the U.S., identifying and verifying passengers by their unique features. Some government officials are unhappy. They are worried about the risk to civil ..."
+    publishedDateTime: 2023-05-22T22:31:00Z
+    webUrl: "https://www.travelpulse.com/News/Airlines-Airports/TSA-s-Facial-Recognition-Sparks-Privacy-Outrage"
+    type: article
+    provider:
+      name: TravelPulse
+      domain: travelpulse.com
+    quality: 39
+    images:
+      - url: "https://ik.imgkit.net/3vlqs5axxjf/MM-TP/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/dec34c0d-cb4e-a970-4f1f-a2f8968f57ad/source.jpg?tr=w-1200%2Cfo-auto"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "L4ZKMpCUIF0ReY1BYUhkwBKh6NLWuZMgvk3Yk9S6Ky97yIcZ0quffjLZ3e+gOZMaJgUWHSadgI8LmmWiOV8oBuvu/Mp3+W0nR6LNIoXasgQnThGDdwHHDNA/MIJXahGookfqeGArEc+o7d5IpFTbWlUHcbNM0B0bdojH8kK5pqIRfjDHFLdCuBh6DY+FGZDIPU8ZkdjbuvysR45DmMrQzqUJnM4TMujTIy3C5R33PAiQ3tjmXV4TiecPIpOEc84QOW+P3y8XKc8bhcyJVkPYeVE1B0Rxatnt0oz1JSMn7MGSy0XqOSwQybEPLQPU0mj2OR9IU/83mSHQInMYXw/TlkFLvLI+lCo68S2JjhTQftBOztBq2FG9MGuY+O2lwa+hdqZFiPW4htwF0+02k7ljPjRNKhwSXJ44UZlrauwj4VeBAhxDC/XJS/OwqnVdC/zOCgzP+i8ZuXQJK5sH8vUzZ1vqM2iWuW4pyZhS5ZvafBxsJohv5vdkJWzPtViz9OLMdjVUIqLChMqumLSZLA9Rsg==;zKvURe4uRmW5y3vWQns3uQ=="
 ---

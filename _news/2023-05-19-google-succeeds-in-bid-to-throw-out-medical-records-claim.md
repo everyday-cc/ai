@@ -40,15 +40,20 @@ related:
         height: 628
         isCached: true
   - title: "Googles succeeds in bid to throw out medical records claim"
-    excerpt: "The software giant and its artificial intelligence arm DeepMind was facing legal action over the transfer of patient data by an NHS trust."
-    publishedDateTime: 2023-05-19T11:44:00Z
-    webUrl: "https://www.peeblesshirenews.com/news/national/23533966.googles-succeeds-bid-throw-medical-records-claim/"
+    excerpt: "The software giant and its artificial intelligence arm DeepMind was facing legal action over the transfer of patient data by an NHS trust. Google has succeeded in a bid to throw out a High Court ..."
+    publishedDateTime: 2023-05-19T11:41:00Z
+    webUrl: "https://www.standard.co.uk/news/crime/deepmind-nhs-high-court-royal-free-google-b1082353.html"
     type: article
     provider:
-      name: Peeblesshire News
-      domain: peeblesshirenews.com
-    quality: 19
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 39
+    images:
+      - url: "https://static.standard.co.uk/2023/05/19/12/f7873daa98dda02f30751c6cddeb17faY29udGVudHNlYXJjaGFwaSwxNjg0NTgxMTcx-2.71085078.jpg?width=1200&width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 800
+        isCached: true
 
-secured: "gyGJVk5xzosu9auvHwanX+HnaVfEK+sDgexVY7IxKUiDOcO9qH6fIRBlmpHIuJYa+QWsALXMjxc8nr4kTeXmeVmWDjHdzLNLUexLHyWNME7egAbaNDyobp20fp7yEDbSOJxicE+sjynLj+eeAC5Ug4oA2QyVB/kggf192u7lhoV7DEcnGLwCq1NFOI5YbCtWkA3/hnIWYVdOnhiDGqaLXY8owqEK/lj7zgiqe3rbpkR2pmpeqhPVxJLu4se7y9YRrL79eGvhOio16r++y1CrlDLgf41I5ns5KUCUMp1rGTMibewQJL6mr2/30aqE0zjIiQMc+6zQ9aNwrfDSFAH70gIthFKZSwhFeRGIRiCbFyU=;lImQYmFZyppPLMITM+DYRg=="
+secured: "iEKXvCuVrIn8eC0qAQMAghWAn5PUeJVAvFFM0fgn0IAD0TDu1xXGXQCwffKqYBx63mWCzpGBMKu9/HDTDn9IO4LQnwWRa63StSjkd5icd7pfFAtdD7cSjzXBS9yqvPfT7bkid2OyDvi8EZlsxyErnynZF4kFMQ32ik++96kmPZJ57I31ovegmHPInXWIZt/MwjWaWvNt3gJXqt5Ecu94JvYg1S4JeA8Ju/YXGdoHPEUxWvMCYb+HtLTCt6mD9Feiu0UKtBD/6reb5MkWrIAbKPMKXZaYlu2b0sK6KqlxyKj1ly1EdeI8E+3PHh0Abk0iKshiDKRpbfND1O7mCQ6vhQPjashNTeyNJdxAziPvBIw=;GfPPXdi+Jmy9SnqY7WRX9A=="
 ---
 

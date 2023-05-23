@@ -9,7 +9,7 @@ ampWebUrl: "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-mac
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 43
+  - title: "Looking into possible impact of Artificial Intelligence"
+    excerpt: "We talk about the potential of AI and threats it may pose with Aboitiz Data Innovation's David Hardoon. Artificial Intelligence has become a topic of controversy with even the so-called \"Godfather of AI\" Geoffrey Hinton expressing worries over how smart ..."
+    publishedDateTime: 2023-05-22T23:47:00Z
+    webUrl: "https://www.cnnphilippines.com/videos/2023/5/22/Looking-into-possible-impact-of-Artificial-Intelligence.html"
+    type: article
+    provider:
+      name: cnnphilippines
+      domain: cnnphilippines.com
+    quality: 17
 
 secured: "TtuPrpn0ZeLi8RWKEME/EEylNYY8xH3VRZKGmMCiE3vn1ir4iDuZDQr4w25IZiHRuM73qxjxTjwyBu4JfeaC4MnSzzJtqNLpdSGSmpLf9ITnFWiwDmVINi1PBt+Xr6Zf/oCVd7CHfZXc1heMvRhE6MWisgHF0mIEVFEbZ4QQuFGtPkAb9m57TqO2OUXGXgQERgjJ5NsMcHimYk65kTU+yJcfVK4vViVcn1HOdBiW2LYPNrJUSGA+/GrhAtUQfPLpxVbdh1+/Jcg4S86LbKo2CoNNr1oaUwBbj6el9wHllOSYbqd+3xbXEH2BYMaZj/GV65qzsvHT04hCNPy8UOuLEWdHoAWqgWK2XRO3tpyjiLTqyY9Me3K7HWVsnmyPLrJSSCaR3ZPrUVkJ53kj6GsB1DVb2b8EjDwC/ul9nbOFQPfsA5E1txm7N6J7kNwNAOwy+O9qRabBvCO1+wwZLnawA3F+8LmWiP8wX6Qv7IwIN17elPQwhmfNk2dD8YL0z2eF3qyoy7VPLZp9cPLIw3kKlQ==;bejG/OpY0vEZiuEz6gkMUQ=="
 ---

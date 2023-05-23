@@ -2,17 +2,17 @@
 category: news
 title: "TSA tries out facial recognition technology at 16 U.S. airports"
 excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through -- all without having to hand over their identification to the TSA officer sitting behind the screen."
-publishedDateTime: 2023-05-21T07:41:00Z
-originalUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
-webUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+publishedDateTime: 2023-05-21T07:46:00Z
+originalUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+webUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Northwest Arkansas Democrat Gazette
-  domain: nwaonline.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - Computer Vision
@@ -80,7 +80,21 @@ related:
       name: Men's Journal
       domain: mensjournal.com
     quality: 44
+  - title: "TSA’s Facial Recognition Sparks Privacy Outrage"
+    excerpt: "TSA is currently testing its new facial recognition technology at a number of airports throughout the U.S., identifying and verifying passengers by their unique features. Some government officials are unhappy. They are worried about the risk to civil ..."
+    publishedDateTime: 2023-05-22T22:31:00Z
+    webUrl: "https://www.travelpulse.com/News/Airlines-Airports/TSA-s-Facial-Recognition-Sparks-Privacy-Outrage"
+    type: article
+    provider:
+      name: TravelPulse
+      domain: travelpulse.com
+    quality: 39
+    images:
+      - url: "https://ik.imgkit.net/3vlqs5axxjf/MM-TP/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/dec34c0d-cb4e-a970-4f1f-a2f8968f57ad/source.jpg?tr=w-1200%2Cfo-auto"
+        width: 1200
+        height: 900
+        isCached: true
 
-secured: "2OrCLdejNSC1MgepIWh6JiGVQGeNVyntJvqEjWBNM3owW40Ot7dMeZP5e7+7wuRvvLjaEVe7kOwP3jZRn5Gd4Eq8McIC8nKeZtn3NTpVPrH84uIp8ndNkR/1s+SKiA2rIxk09FO94oyvGSkxr9zWrbrLgIaGOdSvuC6RpMHRuvyW1zWzu8Gu6UkLlq052srppUQlVdZQ/EHCEhPG+/r4fPujP3S+ezdM3MGGvrGQfxoHOtFMfzMJ/ARbTmvCbalP+8Zh9SMa6pqG+2wEBSSzW3kHa/yWu66VRlov+HW+xt8MZ/HnJgQXd4gzXdlL67oe+PoZy0d4FnKYQDI7bLcyRE938xQmjl1NnTHSg9bdkc8=;g2xDiP4CxuwpzMtz/fNF7A=="
+secured: "7oldCgxUlgCAlgx+eZhMlnaSHLpQyVMpqv6Bb3ddsMODFFFAY5idwlb74c8Wl+A5wNg5fGJhwv+vQSBC1ivBXhub3usiUUvas6xXCpmAYqEnuuqRiD6NGSPllwspD8GeZ/phU0+jTfAJXLQpZKXUlqiy8wyPiZG5XcLV39LjnIlOrGZiZJc/myh2GnAkDeY3rtrPgUQmuF+SE2xJmCYzxXdO0WVC6GjB01PyCl1X0oKxBgGwiBvQ3vI1daiFVZVqr7Kc/gpr/j5jUdj+0e/LYHMfYnHRHVtsICyieJlyRde74tLuysesOPgq275CBoJHDaWDlKu+avUqeTwj8/rhY5Z1L7SaZkbkx2TRcrhhbuo=;7TpRS6rNbqX9tJc8R7Wfbw=="
 ---
 

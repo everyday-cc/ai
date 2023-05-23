@@ -1,0 +1,24 @@
+---
+category: news
+title: "BeeKeeperAI's Patented Collaboration Platform Drives Healthcare AI Advancements on Protected Data"
+excerpt: "To accelerate healthcare AI development on protected information, BeeKeeperAI announced the commercial release of its patented, zero-trust collaboration platform. EscrowAI harnesses Azure confidential computing to address the challenges of data sovereignty ..."
+publishedDateTime: 2023-05-22T22:03:00Z
+originalUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2023/05/22/455940-beekeeperais-patented-collaboration-platform-drives-healthcare-ai-advancements.htm"
+webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2023/05/22/455940-beekeeperais-patented-collaboration-platform-drives-healthcare-ai-advancements.htm"
+type: article
+quality: 23
+heat: 23
+published: false
+
+provider:
+  name: HealthTech
+  domain: healthtechzone.com
+
+topics:
+  - Microsoft AI
+  - AI
+  - AI in Healthcare
+
+secured: "4n56VhBi+xwbekTVgVeFUw/BhQvi1h7d9HMNVsgP2U+nSzgyy1mHMQNopN1HkOwaj7OiGooLFvKepZaLVXyk6FHBbOPQ0HTmYmVqdarcnJQSyLHmGgKu5y/Cu5BB+HKW6lZdt331lQui61DEzGTg4NOGpKiBCrgxaniwhQqozl5eZ5WWiN+i+O9RfUOTkRH4bq3H7o9+TLE+JhyoxDYf73868OqP98Yhu4FMkZQ5bNi0a2AhplGLzZpLyZ36BCMZ7EQ0FL9EGjiA80WtP+3/OS9eGFUgzIvkhwS84QuHRZTdgKYZmt5W47A3uRYqhRCqKaiKKd0ipgUNPtNc8QOlsJRV3FJiG5JCam1T3+BKZZ08aa+96COFIALwb3EFsgIgG1PWgyaAZBcsaXo3AlGN9emGV7soTSEMCp3/XrxoQMUTxqZSCltItsloarVcZwrn4qAh/jem2G6zQq/fJIjIQvzivUZKYEuQH5l/SMpt8NsiKo7haaSAXKOHkgt+zJj7Ell8hnVmzYVGQIEK+jQb2g==;FjbBvV4pBuJwPD3PgQy9lw=="
+---
+

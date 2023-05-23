@@ -45,12 +45,12 @@ related:
         isCached: true
   - title: "TSA tries out facial recognition technology at 16 U.S. airports"
     excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through -- all without having to hand over their identification to the TSA officer sitting behind the screen."
-    publishedDateTime: 2023-05-21T07:41:00Z
-    webUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+    publishedDateTime: 2023-05-21T07:46:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
     type: article
     provider:
-      name: Northwest Arkansas Democrat Gazette
-      domain: nwaonline.com
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
     quality: 54
     images:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204387909_1G2facial0521_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
@@ -80,6 +80,20 @@ related:
       name: Reason
       domain: reason.com
     quality: 49
+  - title: "TSA’s Facial Recognition Sparks Privacy Outrage"
+    excerpt: "TSA is currently testing its new facial recognition technology at a number of airports throughout the U.S., identifying and verifying passengers by their unique features. Some government officials are unhappy. They are worried about the risk to civil ..."
+    publishedDateTime: 2023-05-22T22:31:00Z
+    webUrl: "https://www.travelpulse.com/News/Airlines-Airports/TSA-s-Facial-Recognition-Sparks-Privacy-Outrage"
+    type: article
+    provider:
+      name: TravelPulse
+      domain: travelpulse.com
+    quality: 39
+    images:
+      - url: "https://ik.imgkit.net/3vlqs5axxjf/MM-TP/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/dec34c0d-cb4e-a970-4f1f-a2f8968f57ad/source.jpg?tr=w-1200%2Cfo-auto"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "UuJzqiUYuGlrSXLPRz9HeYyT92RtQRkZdyrXccPlVd+s+dSBSYPQ1gKB+BUPd/psy9QkcBdg1QtZBkl2ipWj0oKNnDjXRW+NoES/z8LPH6Fwb91b2ej7lBUqBMQZXOe2JBct1drXMdtEvmH8rWiAa8plRTVr2WgigLhaG75N8xh0QWzVARwso/2hngfX38sft4j5e+iqpDvy8U+WQR04hh+EWKmQWyyjzsKT9I9VtpKARVUPHPMfF7yYMeCcs7/h2C8sheOe7ThCdbFdGIDZY9IN+ncjKvH8sfRthAWZui1fTFv9TUrkGX/2k8aKgDHcxuvxqbzygRfhDmBsK78HxZXRAMQ8g/m1sGpciU32yrk=;cULpVUEYXXzBZ3yQ2ZTUxQ=="
 ---

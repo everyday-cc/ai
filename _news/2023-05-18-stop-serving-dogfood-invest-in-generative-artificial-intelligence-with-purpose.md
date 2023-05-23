@@ -54,6 +54,15 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Looking into possible impact of Artificial Intelligence"
+    excerpt: "We talk about the potential of AI and threats it may pose with Aboitiz Data Innovation's David Hardoon. Artificial Intelligence has become a topic of controversy with even the so-called \"Godfather of AI\" Geoffrey Hinton expressing worries over how smart ..."
+    publishedDateTime: 2023-05-22T23:47:00Z
+    webUrl: "https://www.cnnphilippines.com/videos/2023/5/22/Looking-into-possible-impact-of-Artificial-Intelligence.html"
+    type: article
+    provider:
+      name: cnnphilippines
+      domain: cnnphilippines.com
+    quality: 17
 
 secured: "lxKo0cZblyUmMRsP8nLN/P1wG6xf1FPoFbuquzxVjmppgxFaB+ksEPZsiunT9ll1WJXEdSlgI3lgGzLPvrbiW8Ldl45HirtU9UVKg+tHqsCVsYeLSakYdGMVIuSJdXfRX8U6XiwF5JR8+imv118ac+9fQXo6o7rKlRAH/QXeh5JmrhMzTLG+zHawg0uDytIA88XpHM8CZZNrg5I8hueNHio6QvJ10bAPw86UfcmL5lCww6lp63WWkcXfmTx9z/AuLr1Czey2ClDZwZM+D0yfoIqxUlKKofGEQGvV/YCf4Qi9WW0vpe62ebRxRXczoznH1EKGOn6X993LGE6j0DUYE9Ta12i5skGiM9rYbQYrzR8L9OrAxFFg2eSEump47/1xtCcV5S40hrL4GToVmeh2RvXrX6DpNcDFxIJ6XqihhY3FygxxXCK8ZsvkoaZvo0ivyygFDPvrtZ8BMIvIsuZzVH9DNu4VKeWfpL7rm3GaT/8DQw1dwyrKFNiKX5zo6hI3Edq5nRNpL+5DftQrwrMAsQ==;1uisA9tT/UaMuJsuYdKD3A=="
 ---

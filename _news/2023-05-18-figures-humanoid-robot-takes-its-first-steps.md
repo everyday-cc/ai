@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/18/figures-humanoid-robot-takes-its-f
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/figures-humanoid-robot-takes-its-first-steps/amp/"
 type: article
 quality: 89
-heat: 91
+heat: 90
 published: true
 
 provider:

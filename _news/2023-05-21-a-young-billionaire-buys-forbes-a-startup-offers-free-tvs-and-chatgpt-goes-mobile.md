@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/20/a-young-billionaire-buys-forbes-a-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/20/a-young-billionaire-buys-forbes-a-startup-offers-free-tvs-and-chatgpt-goes-mobile/amp/"
 type: article
 quality: 81
-heat: 94
+heat: 91
 published: true
 
 provider:

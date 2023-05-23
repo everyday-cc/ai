@@ -52,6 +52,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 43
+  - title: "Looking into possible impact of Artificial Intelligence"
+    excerpt: "We talk about the potential of AI and threats it may pose with Aboitiz Data Innovation's David Hardoon. Artificial Intelligence has become a topic of controversy with even the so-called \"Godfather of AI\" Geoffrey Hinton expressing worries over how smart ..."
+    publishedDateTime: 2023-05-22T23:47:00Z
+    webUrl: "https://www.cnnphilippines.com/videos/2023/5/22/Looking-into-possible-impact-of-Artificial-Intelligence.html"
+    type: article
+    provider:
+      name: cnnphilippines
+      domain: cnnphilippines.com
+    quality: 17
 
 secured: "OAhwLhLf4yrsdzYVfQrQnk1xbmL2AxsZx+00/l4zqIDCSx4YucXu/AQLVLg8l8iUO7+i4judFRHeBm98cqUnZ2ps701T0SxAQRBW9O/pduY21t4I3vgMI8JlXaTtQMf5XBkUPrNrXwBPKxSb99kC4bUPoRfzf0hK+j2Qw9Ik9YwQu33o4WXzJHQ8deFPzpd/oSfieR9b6VHd5tsSfAkVBld/Onbq8WFB/G1/ztlix3xw/lNAeyoLCi2dEV/3xamW8QO2V0iwGX9sAnFcT2J4aCYlH/cov3p5P1MZ4UCqXXnqQ0Wpj0uwrBnKW5U83uEMcY06owZPJoSlW9bxXefkMm5JrC4VozssuV/6C/u4pCPKBzOY0sdOJhD64ZqIxKy+ogmOz3yfrNIOzW46Gmv9eGt0PnyT2Q+Ce1e0w2fS7CoxCE9CYFqGQzSYpR3oH53w/KG5HKZ37ROQ1kNchJ64839iMP66suoehnYDyX7KQWvh1EnblvfIPySgjw8RsPbDe29Oeq84Mu/poMRZGS+A9w==;LCaVDkbkf3vUSndxjDxY4A=="
 ---
