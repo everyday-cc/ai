@@ -19,20 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Axelera AI extends Series A funding round to $50M"
-    excerpt: "Axelera AI is a Netherlands-based startup that was founded in 2021. It’s developing a specialized computer chip that’s optimized to run AI software at the network edge, or outside data centers. It says its silicon will be highly sought after for use in training connected devices such as industrial robots and internet of things systems."
-    publishedDateTime: 2023-05-22T17:00:00Z
-    webUrl: "https://siliconangle.com/2023/05/22/axelera-ai-extends-series-funding-round-50m/"
+  - title: "Modular app-building platform Builder.ai raises $250 million Series D funding"
+    excerpt: "It was only recently that we reported Buildier.ai had signed a strategic collaboration with and undisclosed investment from Microsoft. Builder’s “Natasha” AI will be shortly available to users of Teams."
+    publishedDateTime: 2023-05-23T09:21:00Z
+    webUrl: "https://techcrunch.com/2023/05/23/modular-app-building-platform-builder-ai-raises-250-million-series-d-funding/"
+    ampWebUrl: "https://techcrunch.com/2023/05/23/modular-app-building-platform-builder-ai-raises-250-million-series-d-funding/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/modular-app-building-platform-builder-ai-raises-250-million-series-d-funding/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/chip-2-768x478.png"
-        width: 768
-        height: 478
+      - url: "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1324680765.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "Builder.ai announces $250M Series D led by QIA to push new boundaries for its AI powered composable software platform"
+    excerpt: "Builder.ai®, the AI powered composable software platform, designed to be so simple and accessible that everyday businesses and individuals can turn their ideas into software, today announced an investment of over $250 million in Series D funding."
+    publishedDateTime: 2023-05-23T09:13:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/23/9818871.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "qx0X5yWdjRJWqCGyxdTZvR+AdqvKea/inS7N/o7+YGpLU6q/5lI02hRC+WDAp2VhQO+C3pk9dJd7FU7X2PLCCVrDYbm0hFvjx0rlQtj39BAV8FJ9nVufwmtlKwzakf9FQcDu8UXOMS8SUH1WZi9M3Hdb7uXxLq4UrpOigXgXC0QTdSPBTfCL96EtTkymr1EGhq25ixi1fQw6/QbnIdk8aPmRQJaK439eFCn7FXnfQutSJkBB2+9EiSr4HwNS4MmJ6vDxieYZl/9qgqlvBC5lg+s2uDSgYRp8xdRIgPUT+dAex0xk/4iz/1TkHZZIzlPGeFhZFrpAofLjw4Nb5s95nVdUKAycO9DGKXD09jMMLkrDB5ttde2c9cxeZi+5pHexj48xuNFLhBdeZ4QJwas8+QpzSvMcYQ5LOwKQbzER/RxnB1XVDvZ9D2/4DkoEql9B4RSwYZ50BFI1K4uBaPDxAooR1KL+pORLP20DfsKwAKKlPqTcKytuiS7EXS9pu03e4gcilR1Y4MHFJgqTlkKp2A==;eWRQCDBmdDkyTTSFsGiYSw=="
 ---

@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Meta Platforms unveils next-generation AI infrastructure and data center designs"
-    excerpt: "Facebook parent company Meta Platforms Inc. has lifted the lid on what its next-generation artificial intelligence infrastructure will look like, showcasing its newest training and inference accelerator and various other bits of futuristic hardware at its AI Infra @Scale event today."
-    publishedDateTime: 2023-05-18T16:06:00Z
-    webUrl: "https://siliconangle.com/2023/05/18/meta-platforms-unveils-next-gen-ai-infrastructure-data-center-designs/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 38
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Screenshot-from-2023-05-17-08-26-19.png"
-        width: 884
-        height: 442
-        isCached: true
 
 secured: "nS+9QroRvLMdi924+8udwl61J6POgQ83uL8bB/MKjxsZJvyu524OGWXTbvdgUCPINNM1vuOR87krSMzGH576KpnpZaj0J6F5LyDEHZSO7ZMG5i/tB0gVNWSOlAiQIuxEhPNjqjg90VM1t7aad8HKYa/RYwQqM3F6Jb4KEmIqpsvS0Y1m2aSAFR9lO3C0AXfwi50va4BSIxth4YKGR9HZF+yMhYyXMIutWnpcTTzSSdsezBrMAcQgoGc28/AyGOPWzyHfIaWvDJL00ISzoQEuQ+HBxxg89Ga/RbRbDFI16pZruW7dHLBEmZgq+nv7hroWe9hOP/W0ZayVKCXqzcy29EYJwoYNk0IgaKtaYeGMrcct+uEKN111fkqcZstd5spb5ohYOsUrKMkx+F0cyoqBF0Ec4eis3WL7Sfyr7QuTZ+wQgBF0iDsNJV7uwNquDda7sBrtc9wj7cHusDsbbzGmgA9MFNjFOyNrmctbdEFLyS8VSvsoOFmsEGVMCiZzZ8qMobSlhRj6+4r62m9swb824A==;MvvQbOo4MvkOxBEgepqYqg=="
 ---

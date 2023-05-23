@@ -30,51 +30,37 @@ images:
     isCached: true
 
 related:
-  - title: "Meta and Google news adds fuel to the open-source AI fire"
-    excerpt: "The open-source AI debate is getting even hotter in Big Tech, thanks to recent headlines from Google and Meta's Yann LeCun."
-    publishedDateTime: 2023-05-18T16:54:00Z
-    webUrl: "https://venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/"
-    ampWebUrl: "https://venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/amp/"
+  - title: "LLMs and the rise of the AI code generators"
+    excerpt: "Large language models like GPT-4 and tools like GitHub Copilot can make good programmers more efficient and bad programmers more dangerous. Are you ready to dive in?"
+    publishedDateTime: 2023-05-23T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.html"
+    ampWebUrl: "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.amp.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-70.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
-  - title: "Stability AI open sources its AI-powered design studio"
-    excerpt: "Stability AI has open sourced its AI-powered design studio, which taps generative AI for image creation and editing."
-    publishedDateTime: 2023-05-18T22:31:00Z
-    webUrl: "https://techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/"
-    ampWebUrl: "https://techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675"
+      - url: "https://images.techhive.com/images/article/2016/08/code-abstract-matrix-100678032-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 675
         isCached: true
-  - title: "We Put Google’s New AI Writing Assistant to the Test"
-    excerpt: "I used Duet AI to send emails and plan my wedding. Its writing can be stuffy and stereotyping—but it’s a glimpse of the future of productivity apps."
-    publishedDateTime: 2023-05-20T10:00:00Z
-    webUrl: "https://www.wired.com/story/googles-duet-ai-writing-assistant-review-test/"
+  - title: "Digital Twins, Generative AI, And The Metaverse"
+    excerpt: "Exploring the convergence of digital twins, generative AI, and the metaverse, this article delves into the future, where these tech trends democratize 3D design."
+    publishedDateTime: 2023-05-23T06:51:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/23/digital-twins-generative-ai-and-the-metaverse/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/23/digital-twins-generative-ai-and-the-metaverse/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/23/digital-twins-generative-ai-and-the-metaverse/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://media.wired.com/photos/6467cb66f2de86183cf5b3b2/191:100/w_1280,c_limit/Google-Duet-Hands-On-Business-Business-1468320082.jpg"
-        width: 1280
-        height: 670
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646c62220a46f01c40b5031a/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "/1vj0ul5XJ4BMDXTctHSPkkQ0LloW9GQv5dKB4CSstP3STkxhZ5rNsXF5D1i0tQr4LVFshT3DHa3skiSebF+uwV94u3VAdTgLA+AEwfkvYAXJrDT5/W3H9UsDfhint49jcEeWbbL7+Cl6ZDASM6jtez/Ct7dtD75O+PD+6gl1hyIM+2ceKwZo5hJNG6EtwSsq60r/0oM+iGuJd0FOUnArlzaG2DRbdDEzCpI5Ty0K+ptM+iwhPBQ6RDtSp/JlMBmZwqvVZQTxzxUGnq6Au+R6K7fVoXhJi8+QKzYcLsVSdiHnJmglm4QzXVt4iQEwIhUAW3IcIZ7nvhB56k/Vwd75IZx+yav1P+1uodOv0pN6QgcqFV9UB2r4H08N1WAWGODw4P3PMlpn3ih3jo5daqrxdtDO/tARweIsyS8s35pGSgyQWfEmtGNI12BdUEL7L9QRoQibj3NaYJ/oTek+qxGcObp11sjthECuw2WYqgANDz5ywEQ4cdhktS+Vx1DOXAASzuLg8zMPr559tE5XiYV9w==;tyZf5DtbUASyKz35d1MZ8Q=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/show/the-promises-and-potential-pit
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/the-promises-and-potential-pitfalls-of-artificial-intelligence-in-medicine"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: PBS
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in accounting: Promises and reality on the new frontier"
-    excerpt: "Generative AI tools like ChatGPT, Google Bard and recent updates to Bing can play a role in finance, but there are risks and limitations."
-    publishedDateTime: 2023-05-18T16:51:00Z
-    webUrl: "https://www.accountingtoday.com/opinion/ai-in-accounting-promises-and-reality-on-the-new-frontier"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/a28968b/2147483647/strip/true/crop/3543x1860+0+178/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fa8%2F0a%2F870a669e49b7a3421d2812b6767d%2F394891899.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Making sense of AI research in medicine, in one slide"
     excerpt: "Research on artificial intelligence in health care runs the gamut of risky but rewarding to relatively useless. Here's what one expert makes of it."
     publishedDateTime: 2023-05-22T08:30:00Z

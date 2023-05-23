@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bbc.com/news/uk-65655010.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-65655010.amp"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: BBC
@@ -30,22 +30,84 @@ images:
     isCached: true
 
 related:
-  - title: "UK schools ‘bewildered’ by AI and do not trust tech firms, headteachers say"
-    excerpt: "School leaders announce launch of body to advise and protect students from the risks of artificial intelligence"
-    publishedDateTime: 2023-05-20T08:42:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/20/uk-schools-bewildered-by-ai-and-do-not-trust-tech-firms-headteachers-say"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/20/uk-schools-bewildered-by-ai-and-do-not-trust-tech-firms-headteachers-say"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/20/uk-schools-bewildered-by-ai-and-do-not-trust-tech-firms-headteachers-say"
+  - title: "Stability AI open sources its AI-powered design studio"
+    excerpt: "Stability AI has open sourced its AI-powered design studio, which taps generative AI for image creation and editing."
+    publishedDateTime: 2023-05-18T22:31:00Z
+    webUrl: "https://techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/"
+    ampWebUrl: "https://techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://i.guim.co.uk/img/media/97aa6b70184bec326518d2b1da6879aa527e41fd/0_0_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=40268c03ecb3a55b77499ed7d4f23152"
-        width: 620
-        height: 372
+      - url: "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Artificial intelligence and mankind"
+    excerpt: "By NICK DAZANG ON August 2, 1939, Albert Einstein, the equivalent of a scientific genius, endorsed a letter drafted for him by a fellow physicist and inventor, Leo Spitz Szilard. The letter was sent to the United States President,"
+    publishedDateTime: 2023-05-22T05:30:00Z
+    webUrl: "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/"
+    ampWebUrl: "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/amp/"
+    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/amp/"
+    type: article
+    provider:
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 59
+    images:
+      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2018/05/tech-per.jpg"
+        width: 412
+        height: 250
+        isCached: true
+  - title: "FlowX.ai raises $35M for its AI-based approach to application integration"
+    excerpt: "“Digital transformation” and AI remain very buzzy terms in the world of enterprise software, and today a startup operating in Romania that’s built a platform that taps into both concepts, and is seeing user traction in the financial sector, has ..."
+    publishedDateTime: 2023-05-22T12:03:00Z
+    webUrl: "https://techcrunch.com/2023/05/22/romanias-flowx-ai-raises-35m-for-its-ai-based-approach-to-application-integration/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 46
+  - title: "The AI-powered hybrid-multi-super cloud"
+    excerpt: "Here’s a quick snapshot of some key players that, over the past decade, have worked hard to create their own version of cloud platforms — with mixed results. These firms have different levels of cloud maturity and varied strategies,"
+    publishedDateTime: 2023-05-20T15:52:00Z
+    webUrl: "https://siliconangle.com/2023/05/20/ai-powered-hybrid-multi-super-cloud/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/AdobeStock_594873507.jpeg"
+        width: 6144
+        height: 3511
+        isCached: true
+  - title: "Dubai announces AI plan to slash traffic jams"
+    excerpt: "As such, it ensures that AI models do not make decisions incompatible with the AI principles and ethics set by the Dubai Digital Authority. RTA has trained several Emiratis in leadership, supervisory and technical roles to empower them to analyse data and ..."
+    publishedDateTime: 2023-05-21T09:12:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/transport/dubai-announces-ai-plan-to-slash-traffic-jams"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 39
+    images:
+      - url: "https://www.arabianbusiness.com/cloud/2023/01/22/New-Dubai-road-2.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google employees bombard leaders with questions about the company's AI strategy, asking if it's become too AI-focused"
+    excerpt: "In a leaked recording, employees questioned Google CEO Sundar Pichai on the impact AI will have on the company's core business."
+    publishedDateTime: 2023-05-19T19:20:00Z
+    webUrl: "https://www.businessinsider.com/google-ai-strategy-questions-leaked-audio-tgif-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
 
 secured: "LD98avGiJvHdoDDGAgOC6izGQ4SOLvSYM8daBei7uwUSUngfZLzkz8ChIS9Qy064TjfPl4P9jLouw+xHduq00wc+hy4rg3ey+sPJWRKyfCaykjW3PWfuNI7v+/Cz2URj3lzAg/2PIUsDmXIk+HfSq/LDNGqnVceT2yNUJf0iYTXvweJwZoUmWsll4kcEsdbOY2oEXGh+sgTFs4BEmuUFhI2JdzskzArns/VMzbbS7ssraJ+aBgelHzOxnfFmMLjY7VBotHf7uO3QSkY2vWpOU817H4B+NU25o7F/JE/1Q5pqFQpOucpxhwpPg09+2OjaMHoNjz7v3GQpfDuZ9mbN97U3LAgyJhmWD8R3KQLD/6tubCCi5G2CQ2IHWXsZs4hgplKhNcuDaO/IzEv939O4rjFRp4xSWTcj/Mnq6udz1UTv5HXvRUgRWpVK4NJargdI2BYMPz113rZ/aoDT6nxdcDopcwHkcZ9DETSfsLV+XWfn6ORP966EeyR/NwMdi1raSNQAu9zUnwqzK/6xudl8+g==;GF+9nFp+Fwf0pBdn0fIknA=="
 ---

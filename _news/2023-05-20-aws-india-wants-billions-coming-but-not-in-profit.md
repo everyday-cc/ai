@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Web Services CEO Selipsky on its growth, India market, AI bet and more"
-    excerpt: "India continues to be a big focus area though where AWS does enjoy a leadership position. Having invested about USD 3.7 billion in India since 2016 to set up its cloud infrastructure and service the market,"
-    publishedDateTime: 2023-05-18T16:17:00Z
-    webUrl: "https://www.cnbctv18.com/technology/amazon-web-services-ceo-selipsky-on-its-growth-india-market-ai-bet-and-more-16694821.htm"
-    ampWebUrl: "https://www.cnbctv18.com/technology/amazon-web-services-ceo-selipsky-on-its-growth-india-market-ai-bet-and-more-16694821.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/amazon-web-services-ceo-selipsky-on-its-growth-india-market-ai-bet-and-more-16694821.htm/amp"
+  - title: "India's Infosys unveils AI platform"
+    excerpt: "India's second-largest software services exporter Infosys Ltd said on Tuesday it launched a platform called Infosys Topaz for generative artificial intelligence (AI)."
+    publishedDateTime: 2023-05-23T08:40:00Z
+    webUrl: "https://www.reuters.com/technology/indias-infosys-unveils-ai-platform-2023-05-23/"
     type: article
     provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 71
+      name: Reuters
+      domain: reuters.com
+    quality: 67
     images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/05/adam_selipsky_aws-1019x573.jpg"
-        width: 1019
-        height: 573
+      - url: "https://www.reuters.com/resizer/ypbUZw9mJoBpsPgqYkSOHSM963A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IK7236HTRVIF5LHRAYWSUV2ZWA.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "7FC4bmlOBVYOkFnsZ//EoA5N5xAJ2/roYkeHQ+iED/yx3J9NfY5oXf4k+mBR8R1AANDX6N+zKof7Z5g6vvnbzs3fF2IJ8JdQDBCHmi2gHjXNnnOuxIeNYPp1OGuMCFP4H0L90/q3vR7rrNW+fXUGgyDaA4GrL2rr9BfmIaCB5DF2jW8MyGw0rKJzZrkBcucJHH+zlz2cRaVt0IphXugTRu6JbsD/ZRJAMK2nACz6MGk0ZcKllq8ilSf+OQrGZ6CzLdDcfTNT16GwNAVFRREPndpiF4sEYK2iKPOh3fBXik1JzJsztOOC/mi72J0YT/pDiaawWm3BsHR7jPrmIZ69wlLCOabOQURWQ1R27DCXImHuKIC6w8i1Cf2Xm/Jk9FIdgdbIMKurxFWxgJAT8eowGxH98O+pSFJ8NguQrNHvHbXCbDIrJ7INgVnnQ0r8xnyVY0Ylw96zIPf2Qgw1kCCuY1LahKAUOhFP03d7SdDv95z2H8R+7OZNnu6WLy/y3k793+OfbwCbNN7HYucggxzh9Q==;kJF6Z9uPvLC+kReljkJMQA=="

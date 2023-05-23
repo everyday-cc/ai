@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launche
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "FlowX.ai raises $35M for its AI-based approach to application integration"
-    excerpt: "“Digital transformation” and AI remain very buzzy terms in the world of enterprise software, and today a startup operating in Romania that’s built a platform that taps into both concepts, and is seeing user traction in the financial sector, has ..."
-    publishedDateTime: 2023-05-22T12:03:00Z
-    webUrl: "https://techcrunch.com/2023/05/22/romanias-flowx-ai-raises-35m-for-its-ai-based-approach-to-application-integration/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 46
   - title: "Teen-focussed fintech signs with Yoti to enhance security, verify age"
     excerpt: "The tool also enhances the platform's current Know Your Customer (KYC) and Anti-Money Laundering (AML) processes, the companies say."
     publishedDateTime: 2023-05-18T19:20:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-bing-ai-chat-widgets-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-bing-ai-chat-widgets-how-to-get-them-on-ios-and-android/"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -114,15 +114,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "What to Expect at Microsoft Build 2023"
-    excerpt: "In Seattle next week, expect AI, AI, and more AI, with some Azure and Arm thrown in. Microsoft Build kicks off in Seattle on Tuesday, and since Microsoft has already made lots of news around AI, Bing,"
-    publishedDateTime: 2023-05-18T16:42:00Z
-    webUrl: "https://au.pcmag.com/software-services/100071/what-to-expect-at-microsoft-build-2023"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 49
   - title: "Twitter accuses Microsoft of misusing its data, foreshadowing a possible fight over AI"
     excerpt: "A lawyer for Twitter owner Elon Musk accused Microsoft of misusing the service’s data and demanded an audit from the software giant."
     publishedDateTime: 2023-05-19T01:45:00Z

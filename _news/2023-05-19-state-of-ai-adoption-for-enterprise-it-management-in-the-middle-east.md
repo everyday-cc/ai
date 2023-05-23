@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Digital Twins, Generative AI, And The Metaverse"
-    excerpt: "Exploring the convergence of digital twins, generative AI, and the metaverse, this article delves into the future, where these tech trends democratize 3D design."
-    publishedDateTime: 2023-05-23T06:51:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/23/digital-twins-generative-ai-and-the-metaverse/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/23/digital-twins-generative-ai-and-the-metaverse/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/23/digital-twins-generative-ai-and-the-metaverse/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646c62220a46f01c40b5031a/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How generative AI’s impact on digital advertising methodology is evolving"
     excerpt: "Despite issues around brand safety, intellectual property and security, generative AI tools for brands and advertisers are here to stay."
     publishedDateTime: 2023-05-21T16:10:00Z
@@ -194,6 +178,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "What does generative AI mean for health care? We asked the experts"
+    excerpt: "But many researchers in the field strike a much more optimistic tone when it comes to the technology and its potential in health care. Thomas Fuchs, who chairs the Department of Artificial Intelligence and Human Health at Mount Sinai in New York ..."
+    publishedDateTime: 2023-05-23T08:33:00Z
+    webUrl: "https://www.statnews.com/2023/05/23/chatgpt-generative-ai-research-medicine-health/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 41
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2023/05/stat_ai_YouShouldKnow_2000x1125-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Apple Ramps Up Hiring of Generative AI Experts"
     excerpt: "Apple is hiring for at least a dozen new experts in generative artificial intelligence amid rumors that the company is stepping up its work on AI."
     publishedDateTime: 2023-05-22T12:51:00Z

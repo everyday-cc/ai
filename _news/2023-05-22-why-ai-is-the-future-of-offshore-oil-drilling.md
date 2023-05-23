@@ -7,7 +7,7 @@ originalUrl: "https://oilprice.com/Energy/Crude-Oil/Why-AI-Is-The-Future-Of-Offs
 webUrl: "https://oilprice.com/Energy/Crude-Oil/Why-AI-Is-The-Future-Of-Offshore-Oil-Drilling.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 718
     height: 300
     isCached: true
+
+related:
+  - title: "Why The Existential Threat Of AI May Be Overblown"
+    excerpt: "OpenAI CEO Sam Altmans's recent Congressional testimony has led to a national conversation about the potential existential risks stemming from artificial intelligence."
+    publishedDateTime: 2023-05-18T19:22:00Z
+    webUrl: "https://www.forbes.com/sites/jamesbroughel/2023/05/18/why-the-existential-threat-of-ai-may-be-overblown/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "AHMndPCwZBZbX95QduLrhXmDI/Fxso1DFqa+/T45qA3vnzGeXxLZ1A5gOG1dAgoFEldw4cUgDNVyL7zvaoM7lhce2rNaekA9RXslc3m0RtjzunJDgoycKeF4OujzhIvNX5zIENVFtR8csCeJjBODwld8H8GbdJaM92kEI67U9rbntnAIbZcYugF+NUnmF/gFizdNqnfPIYWp3sNHVGZmYUpTo1y/Id6A6JsBY2OhKGrr7R60cbFGYxOx+b4yE3CNC3mQ3i2YmgyoRID09bjnGLSDRdkolW5IF6YZywmJ9CW2+rB0oSM3hIDlM277/LOZRkliPpprW5b051gdoBFjhNODfRXej5FsG5iye6+p/Gmc5W3Iz/a0insd9fXEAiavOIbbRhcA2rrG6T29NjvqvoE8eGwAxXeBsQKVQz8RS+9oG8Vdn4vcGKS/9GLVEfUZwIdqL9ghJibyYP3MfQFFRWs3K4AgzwbPtfCuYEAxHyh0zUyZh0AerQVE2CrgA66g6j7yOwtIrYGw/y3kMB1MYg==;ib86Dkipofv3dqnTlcy//Q=="
 ---

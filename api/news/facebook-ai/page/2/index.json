@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-04-27-opinion-ai-research-needs-to-be-reined-in.md",
+      "title": "Opinion | AI research needs to be reined in",
+      "excerpt": "AI is dangerously unregulated as a research field, in a way few other fields are able ... This hype and market trend leads to companies with questionable track records, such as Facebook and Twitter, to cut corners in pursuit of profits.",
+      "sourceUrl": null,
+      "webUrl": "https://dailyiowan.com/2023/04/26/opinion-ai-research-needs-to-be-reined-in/",
+      "originalUrl": "https://dailyiowan.com/2023/04/26/opinion-ai-research-needs-to-be-reined-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailyiowan.com/wp-content/uploads/2023/03/ChatGPTBrainstrorming-900x600.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Univeristy of Iowa Daily Iowan",
+        "domain": "dailyiowan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-microsoft-is-staking-its-future-on-generative-ai.md",
       "title": "Microsoft Is Staking Its Future On Generative AI",
       "excerpt": "Microsoft CEO, Satya Nadella,has been very clear that generative AI will reshape every Microsoft software category and major transformations are underway throughout the company. Microsoft has a major edge over its rivals, as it also is building in its own AI chips, so it won’t be totally reliant on market leaders like Intel, or Nvidia.",
@@ -1350,40 +1393,6 @@
       "provider": {
         "name": "The Hill",
         "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-meta-reveals-ai-tool-to-help-brands-target-facebook-instagram-users.md",
-      "title": "Meta Reveals AI Tool to Help Brands Target Facebook, Instagram Users",
-      "excerpt": "Meta’s recent embrace of AI is only growing, with new plans for generative ads—and Meta’s CTO thinks AI will help power the metaverse, too.",
-      "sourceUrl": null,
-      "webUrl": "https://decrypt.co/125512/meta-reveals-ai-tool-help-brands-target-facebook-instagram-users",
-      "originalUrl": "https://decrypt.co/125512/meta-reveals-ai-tool-help-brands-target-facebook-instagram-users",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "decrypt.co",
         "images": null,
         "publishers": null,
         "authors": null

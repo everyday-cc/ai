@@ -3,8 +3,8 @@ category: news
 title: "TSA tries out facial recognition technology at 16 U.S. airports"
 excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through -- all without having to hand over their identification to the TSA officer sitting behind the screen."
 publishedDateTime: 2023-05-21T07:46:00Z
-originalUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
-webUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+originalUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/?news-mobile"
+webUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/?news-mobile"
 type: article
 quality: 54
 heat: -1
@@ -109,6 +109,6 @@ related:
         height: 900
         isCached: true
 
-secured: "R4BE4Fikx0aiwmf5UQPF8rFLqaK4jOW6l/YLED/jl2syPuLzYTEsypV2pp0QwLRqAxVSGXsFPV0WMRKj+vBbu7F0v8k6du2LhmJKvldWsM7QprxixILa72k0Y26MAjMlW1MQiIjrgQanGQOmxda0YKRpjNws2l6wZ6Iu5Z7U7Ujh+fAPuV0lGEG5OBtDZFjGzsJVB3KFhLJkrn59rXjrEtZc2hItB8KZHamOJ0CeExEJsfCwKJawrx+eXdlizI8d0+A+7t4BNbWRTDqX+u29E4sEy/Q5lFOR1vIq/UedX1jjCLtLqP3bW2Py4xSUYBEcaqHgaW0gdXOm630t1b/DusOOp8MdnB5i0NnLFp/Vfn5D+MA4ZBryjgLcchyhCvNXNMcRFnYoiruBGSEZPLNMZ0oxbEL4BAx8+hBsydck9wHkObYRnSVkM9Mj52cmmOHiN9Bp2Yjql35Z2ZKn62GRwEWzwJQ6StX7v49LAmwdr/99rsWOZmSW9/7TAo81V4NvATYQMHn9nphH+RpxME2/gw==;KSb9mws13IsD58E+FCTvAA=="
+secured: "mbsNBtJq+J9oOmPRMFWQ3jS+wet8H1PdVC3rSVDAwr3bHyOoqoMBr7ecYLeG2s7Bl2hKyGrjuTsX8FYnA5YEOtRbrC9oAV1NWV+ZxH5a6B2LUFPPFcQUdU1y6fFKw6kF2XaSfVDOummIPfzBXHNFsDM05V6vwN0xixlEqRQpKXC4VoLyuo1dJw6XplnsIKNIi2X8oYsDEXtK7uvLgTJekeFj5ktaP7Lq9of9jf3+O1p94voQ7/YNlNgexnLsW3ujkJyYbS0U8Nxt6Tr6rbKzm9wSLsZmPmh1BV3QsfTbUAbXU7sTiNVEl5uR8RogN0IhXs+vEwnSrwJFvMlu55YvzZeQEAJMWWnA+VS9PUWEFa4=;61jTV+T0/VuOzVVOf9n2Uw=="
 ---
 

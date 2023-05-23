@@ -120,15 +120,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "What to Expect at Microsoft Build 2023"
-    excerpt: "In Seattle next week, expect AI, AI, and more AI, with some Azure and Arm thrown in. Microsoft Build kicks off in Seattle on Tuesday, and since Microsoft has already made lots of news around AI, Bing,"
-    publishedDateTime: 2023-05-18T16:42:00Z
-    webUrl: "https://au.pcmag.com/software-services/100071/what-to-expect-at-microsoft-build-2023"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 49
   - title: "AI Activists to Target Microsoft at Build 2023"
     excerpt: "The activists from Ekō have published a full-page ad in The Seattle Times and a billboard outside of Microsoft Build 2023."
     publishedDateTime: 2023-05-22T15:11:00Z

@@ -33,15 +33,20 @@ related:
         width: 480
         height: 610
         isCached: true
-  - title: "Infogain AI Business Solutions Now Available in the Microsoft Azure Marketplace"
-    excerpt: "NAVIK customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. NAVIK is an AI platform that addresses the breadth of AI ..."
-    publishedDateTime: 2023-05-18T16:29:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230518005632/en/Infogain-AI-Business-Solutions-Now-Available-in-the-Microsoft-Azure-Marketplace"
+  - title: "Check Point Software Extends Its Industry-Leading Cloud Firewall To Secure Microsoft Azure Virtual WAN"
+    excerpt: "CloudGuard Network Security provides organizations with cyber resilience through a consumption-based offering, seamlessly integrated inside the A"
+    publishedDateTime: 2023-05-23T08:55:00Z
+    webUrl: "https://menafn.com/1106293303/Check-Point-Software-Extends-Its-Industry-Leading-Cloud-Firewall-To-Secure-Microsoft-Azure-Virtual-WAN"
     type: article
     provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 45
+      name: Mena FN
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/23/M_b53b8image_story.jpg"
+        width: 703
+        height: 879
+        isCached: true
   - title: "Check Point Software extends its Industry-Leading Cloud Firewall to Secure Microsoft Azure Virtual WAN"
     excerpt: "Check Point® Software Technologies Ltd. (NASDAQ: CHKP), a leading provider of cyber security solutions globally, announces the general availability of its industry-leading Next-Generation Cloud Firewall natively integrated with Microsoft Azure Virtual WAN to provide customers with top-notch security."
     publishedDateTime: 2023-05-18T21:27:00Z

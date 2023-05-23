@@ -1,0 +1,49 @@
+---
+category: news
+title: "Builder.ai announces $250M Series D led by QIA to push new boundaries for its AI powered composable software platform"
+excerpt: "Builder.ai®, the AI powered composable software platform, designed to be so simple and accessible that everyday businesses and individuals can turn their ideas into software, today announced an investment of over $250 million in Series D funding."
+publishedDateTime: 2023-05-23T09:13:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/05/23/9818871.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/05/23/9818871.htm"
+type: article
+quality: 0
+heat: -1
+published: false
+
+provider:
+  name: TMCnet
+  domain: tmcnet.com
+
+topics:
+  - AI
+
+related:
+  - title: "Modular app-building platform Builder.ai raises $250 million Series D funding"
+    excerpt: "It was only recently that we reported Buildier.ai had signed a strategic collaboration with and undisclosed investment from Microsoft. Builder’s “Natasha” AI will be shortly available to users of Teams."
+    publishedDateTime: 2023-05-23T09:21:00Z
+    webUrl: "https://techcrunch.com/2023/05/23/modular-app-building-platform-builder-ai-raises-250-million-series-d-funding/"
+    ampWebUrl: "https://techcrunch.com/2023/05/23/modular-app-building-platform-builder-ai-raises-250-million-series-d-funding/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/modular-app-building-platform-builder-ai-raises-250-million-series-d-funding/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1324680765.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Thoro.ai raises $7 million Series A funding round"
+    excerpt: "A startup making robotics-based autonomy stacks for industrial equipment manufacturers has closed on a $7 million funding round, bringing its total outside investment amount to just over $11 million to date. Thoro.ai, a company Carnegie Robotics spun out ..."
+    publishedDateTime: 2023-05-22T21:01:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/05/22/thoro-ai-raises-7-million-series-a-funding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
+
+secured: "fexVgP6lvzvbM1ZNkxo1AZiDOIZ4mNsa/O0b241OocQwRbe+/n43Ji1iffcwatGstrdL8PTM90wkBQmlWfjzO0WsbooQrtl7VW7Nuk9V16rNY4oiPyGEYlQr0Zdjf+IXiTxv22ECmzYNe40WdNvh3XnB9gBuHDoRhvawPVW3Zt+g1Slwj0VCj2fiPhuD0g/pIN4qx/p8rN9+scWE8BgiSfyAm/gzL4hptiqLYA2fUPli1OI6jMT0Qyd8VdJFHipqU0kMAxdCart258QoXWlVS9p+mVhomLHgGqg9+SGT4m6B0uGnZ5Td7XsidCHy1fhW7TIc3UnB29Drj/g/Wg+MgTDFTTqBvbVxy1vCkFeQ9/4=;LRhcCCEMP7KS+XsG/7Pf3A=="
+---
+

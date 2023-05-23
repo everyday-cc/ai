@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Three ways to test medical AI for safety"
+    excerpt: "The biggest challenge of using generative AI in medicine is the hallucination problem, in which the system just makes things up."
+    publishedDateTime: 2023-05-23T08:29:00Z
+    webUrl: "https://www.statnews.com/2023/05/23/gpt-4-chatgpt-medicine-ai-safety/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 37
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2023/05/GettyImages-1248338225-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Congress Isn’t Ready for the AI Revolution"
     excerpt: "At a May 16 hearing on what the federal government should do about the widespread adoption of AI, Senator Richard Blumenthal of Connecticut played a recording of a computer-generated voice that sounded uncannily like him reciting a speech that an AI program had written in his style."
     publishedDateTime: 2023-05-22T12:00:00Z

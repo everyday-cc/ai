@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/googles-duet-ai-writing-assistant-revi
 webUrl: "https://www.wired.com/story/googles-duet-ai-writing-assistant-review-test/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Wired
@@ -28,51 +28,33 @@ images:
     isCached: true
 
 related:
-  - title: "Meta and Google news adds fuel to the open-source AI fire"
-    excerpt: "The open-source AI debate is getting even hotter in Big Tech, thanks to recent headlines from Google and Meta's Yann LeCun."
-    publishedDateTime: 2023-05-18T16:54:00Z
-    webUrl: "https://venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/"
-    ampWebUrl: "https://venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/amp/"
+  - title: "The big thing missing from Google's new line-up is a next-gen AI assistant"
+    excerpt: "This chip features all of its recent hardware launches, powering AI tools like Magic Eraser, and it’s clear that custom silicon with ML smarts will be a core part of future product launches too. So, again, it’s a rather glaring omission that Google has ..."
+    publishedDateTime: 2023-05-21T15:04:00Z
+    webUrl: "https://www.androidauthority.com/google-io-ai-assistant-missing-3326962/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-70.png?w=1200&strip=all"
-        width: 1200
-        height: 750
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-3.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Stability AI open sources its AI-powered design studio"
-    excerpt: "Stability AI has open sourced its AI-powered design studio, which taps generative AI for image creation and editing."
-    publishedDateTime: 2023-05-18T22:31:00Z
-    webUrl: "https://techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/"
-    ampWebUrl: "https://techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/amp/"
+  - title: "Cursed New AI Calls Debtors to Hassle Them for Money"
+    excerpt: "The rise of AI coincides with all-time debt highs — and one startup is cashing in by having AI robocalls do way more collections than humans."
+    publishedDateTime: 2023-05-21T16:16:00Z
+    webUrl: "https://futurism.com/the-byte/ai-debt-collection-robocalls"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Futurism
+      domain: futurism.com
+    quality: 37
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675"
+      - url: "https://wp-assets.futurism.com/2023/05/ai-debt-collection-robocalls.jpg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "The Optimist’s Guide to Artificial Intelligence and Work"
-    excerpt: "Companies like IBM and the British telecommunications company BT have cited artificial intelligence as a reason for reducing head count, and new tools like ChatGPT and DALL-E make it possible for anyone to understand the extraordinary abilities of artificial intelligence for themselves."
-    publishedDateTime: 2023-05-20T12:01:00Z
-    webUrl: "https://www.nytimes.com/2023/05/20/business/dealbook/the-optimists-guide-to-artificial-intelligence-and-work.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 71
-    images:
-      - url: "https://static01.nyt.com/images/2023/05/20/business/20DB-AI/20DB-AI-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+        height: 630
         isCached: true
 
 secured: "qqTjZ9KKKNIpYINRakRDG44oCKfEIb6G719zyfAM22lCYEHDVw1Rj8tJEW+270ngr88rsJikr1hBOwsjwcaAn4amQx1Yclq5oK5zV5XYLtZN/nozrpcijz9h78S55lAtW5xyl+HLKTiOeqyboKvxJiGbPOiIhvavL/XUjlV2LRnFHyZAElC/PUJKT4Ai2sNLg8mv9A5tC1o8qGZEvccMxkEbw8ltxUFEZg1DfTCTKdTsIt/AiOTFLESYHBxBBXIS5LX3ubl11e2qXzeNvT9d+7GmtBD4vC/r5vpDSNGVSHUCmS2burPPYObq0ttGAhfN6qoy+I0ira6whgTQatAHm9q0z54vjpENfAqiYAutdumyKZ+Sv7EwduX9AdCWvIYFAnvZ54eCuVGzt935iK2aJhbTPdWHDG+GgeK6x585/ybMVbnqjeAGWkQG08nzXVn/6dL6z2aU4G2t6iFin0HdmFQIXQPz5nbd5BZwMZX9vJR4g+6KGCbjPXnhgDejIg3jy3/BgGafCEXXzI5wZPjZdw==;SSpZHYFUHgPe078Mb6WuFg=="

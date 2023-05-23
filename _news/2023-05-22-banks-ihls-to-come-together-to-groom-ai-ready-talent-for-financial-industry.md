@@ -7,7 +7,7 @@ originalUrl: "https://www.straitstimes.com/business/banks-ihls-to-come-together-
 webUrl: "https://www.straitstimes.com/business/banks-ihls-to-come-together-to-groom-ai-ready-talent-for-financial-industry"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 860
     height: 573
     isCached: true
+
+related:
+  - title: "Singapore wants to plug AI skills gap in finance sector"
+    excerpt: "Also: Today's AI boom will amplify social problems if we don't act now, says AI ethics MAS chief fintech officer Sopnendu Mohanty said: \"Supporting AI and data analytics adoption is one of our key strategies to help financial institutions evolve and adopt ..."
+    publishedDateTime: 2023-05-23T07:50:00Z
+    webUrl: "https://www.zdnet.com/article/singapore-wants-to-plug-ai-skills-gap-in-finance-sector/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-wants-to-plug-ai-skills-gap-in-finance-sector/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-wants-to-plug-ai-skills-gap-in-finance-sector/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 106
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/2ea03e238d13117fe1b694848d99966f1946b37c/2023/05/22/1d63f23e-26a4-445f-a93e-dc785351b1a8/gettyimages-1219724477.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "05PAEXao2GcFhwzQYT/LJe8NdPshvU5NIITuurvL4xRXHuqfWPiSVa94pSLqBcMCXKxOv++hBS33ryjCfexJoWdoVtxyBRANy0q9ng3jAYVPYqKO65oc3K/WuCHu21jxgQ+pF9iofm1pfHlXhYnuGEk4+nYP2ha37iyN2i+AGTxb4jmzYyAWE15QyKLJKPbh957ltJzTj7UBYQXsReq8MrTT6mVLYFjhJu7yyX9+JJBAItwUxeDd6+etAZt4ueoBAcOzB7j7gOliAW9A2PDlfpzFaf9O39MreL3nBHTU9T/B0oWgL+7OqFrm/B5KtnuZfdMgAymC4QJknYJkR6Qt75vbsx6l06fVHWx1dO1EOug=;AB/E9K5indeLIfRNoestYQ=="
 ---

@@ -33,15 +33,6 @@ related:
         width: 480
         height: 610
         isCached: true
-  - title: "Infogain AI Business Solutions Now Available in the Microsoft Azure Marketplace"
-    excerpt: "NAVIK customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. NAVIK is an AI platform that addresses the breadth of AI ..."
-    publishedDateTime: 2023-05-18T16:29:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230518005632/en/Infogain-AI-Business-Solutions-Now-Available-in-the-Microsoft-Azure-Marketplace"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 45
   - title: "Infogain AI Business Solutions Now Available In The Microsoft Azure Marketplace"
     excerpt: "NAVIK customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. NAVIK is an AI platform that addresses the breadth of AI ..."
     publishedDateTime: 2023-05-19T14:46:00Z
@@ -51,6 +42,20 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 45
+  - title: "Check Point Software Extends Its Industry-Leading Cloud Firewall To Secure Microsoft Azure Virtual WAN"
+    excerpt: "CloudGuard Network Security provides organizations with cyber resilience through a consumption-based offering, seamlessly integrated inside the A"
+    publishedDateTime: 2023-05-23T08:55:00Z
+    webUrl: "https://menafn.com/1106293303/Check-Point-Software-Extends-Its-Industry-Leading-Cloud-Firewall-To-Secure-Microsoft-Azure-Virtual-WAN"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/23/M_b53b8image_story.jpg"
+        width: 703
+        height: 879
+        isCached: true
 
 secured: "tWSIB2cwtuuTEMjuhPbFHC5tXluHqjqp/sSNfNrAdQxvxFF0JczYKbnB9N693FUU85IHfpszk8gvxNsW6G/Re+Sol2A7KvlYSCoET/pkdahMHGwTnJ4YZlgh2ZW3li7qW6yLehLkKmu0QtiqhcJdeikNibXGNsDSbSEQxbH7zVbnKfMXpbQ+HB10AVvmtq7fvdUyhEMIrxKUCZXM/51I1MrzEdKFbBLQqT8BoIn0S3Xg/uJS5LTi27Nl5VKbslDF+jqeWURgE0sAARarT/opFWt7KdFzpUK/WUgoAZMXFdc/RVnQgI8KUBM8TW++flY9Sj7UceYavXTd2Vx/V1xKZGaqFVB4z1ZMnBy+9kFksuU=;jhfk7nk2SGT5tmeAZSO1Vw=="
 ---

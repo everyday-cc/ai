@@ -7,8 +7,8 @@ originalUrl: "https://fintechmagazine.com/articles/the-marriage-of-embedded-fina
 webUrl: "https://fintechmagazine.com/articles/the-marriage-of-embedded-finance-and-ai"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: fintechmagazine
@@ -25,50 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence and mankind"
-    excerpt: "By NICK DAZANG ON August 2, 1939, Albert Einstein, the equivalent of a scientific genius, endorsed a letter drafted for him by a fellow physicist and inventor, Leo Spitz Szilard. The letter was sent to the United States President,"
-    publishedDateTime: 2023-05-22T05:30:00Z
-    webUrl: "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/"
-    ampWebUrl: "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/amp/"
-    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/amp/"
+  - title: "AiFinSphere Fuses AI and Finance to Offer Conversational Wealth Management Solutions"
+    excerpt: "Harnessing the Power of AI to Facilitate Investment and Wealth Management Decisions for All New York, NY, United States - May 22, 2023 — AiFinSphere, a pioneering fintech startup, is set to transform the finance industry"
+    publishedDateTime: 2023-05-22T15:02:00Z
+    webUrl: "https://www.asiaone.com/business/aifinsphere-fuses-ai-and-finance-offer-conversational-wealth-management-solutions"
     type: article
     provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 59
-    images:
-      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2018/05/tech-per.jpg"
-        width: 412
-        height: 250
-        isCached: true
-  - title: "Why AI’s diversity crisis matters, and how to tackle it"
-    excerpt: "Machine-learning researchers from under-represented groups say the field desperately needs more people like them to ensure the technologies deliver for all."
-    publishedDateTime: 2023-05-19T16:14:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-01689-4"
+      name: Asia One
+      domain: asiaone.com
+    quality: 27
+  - title: "MarketsandMarkets™ releases its new study on Artificial Intelligence and the Emergence of AI-based B2B Business Models"
+    excerpt: "The whitepaper, titled ' Emergence of AI-based Business Models – Orchestrating the Next Big Shift in Enterprise AI Adoption ,' unveils critical insights into how AI is changing the landscape of B2B business models across different industries,"
+    publishedDateTime: 2023-05-19T09:49:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/19/9817628.htm"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 41
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01689-4/d41586-023-01689-4_25339936.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Dubai announces AI plan to slash traffic jams"
-    excerpt: "As such, it ensures that AI models do not make decisions incompatible with the AI principles and ethics set by the Dubai Digital Authority. RTA has trained several Emiratis in leadership, supervisory and technical roles to empower them to analyse data and ..."
-    publishedDateTime: 2023-05-21T09:12:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/transport/dubai-announces-ai-plan-to-slash-traffic-jams"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 39
-    images:
-      - url: "https://www.arabianbusiness.com/cloud/2023/01/22/New-Dubai-road-2.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
 
 secured: "pwaZKnu6o3qdj+F8J6S3GH9LSHFOiU1z6rWmhc4OY79haysULYomXThBj623eUpHoIzBTaUVzbvu1SKEkJJlN79lA1oY7A/ySGvmpfsce4dNnW9d/NumsZp3WEuCvBe7XNxZo1DPDxuKGPYGdRXgB4gjIzFWUVF9I1vjnoQlcsAuDoIbbBHqpqD4ypdBTGgrXrga3TylOSSGjbw/J3Usnj/Op+mdMr6qa4rCVF3nhj7XcT0afajC9Boe4OryQMznWS8YHn2GF0hj4PTJl2OUB3jvzCTxjn26n/IadnDlFOAtZYCZDvDyAtt1BBhFNAM5fyEJ8dLMr67xsfyXRKdPa5EntjvE3G63c0clUeq6MFOMWGaVpb4t5/Yh72mmX2mwnCOJCWQwedAkEqac0R/GZ6+B0eO16mEfzSUIRTPQ0J4qqJreBykRSXSQiizmp2SXQFgeGNT/NZwj1QuLf5k0F82VXk2CTi0ea6sTNx4EfjDUx4thSBpYJvXiR+EJN1QPLE6E0CDzVjHNEE5DcAnhbQ==;QrTv+25fEorgju4YlQHvdw=="
 ---

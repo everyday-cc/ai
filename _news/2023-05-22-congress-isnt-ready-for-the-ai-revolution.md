@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Three ways to test medical AI for safety"
+    excerpt: "The biggest challenge of using generative AI in medicine is the hallucination problem, in which the system just makes things up."
+    publishedDateTime: 2023-05-23T08:29:00Z
+    webUrl: "https://www.statnews.com/2023/05/23/gpt-4-chatgpt-medicine-ai-safety/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 37
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2023/05/GettyImages-1248338225-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "qEolimqV+Ss/GHLsU15bPc5aUB40FAMzFwUowujaRDrNeyGnbBQcPIqv0OQTGPZRSuXKQZFaaaySa2xGY0xYQxpItqMp3UmwqKQg8Af7IOGSnAvkzyUDcFp29tHPgs9fPRs7SRDr/U3DBvspxaiXyTfQf51SCvAkTVY5RoPF6T0npOc5A5D7Rwf+5Cm/R0HpMDbEqwEDtv/O+mkmGvsi8ckegqHYLxXRdUqk9uzfUFgfwjlQA/ue9FWcTcudcdd8TjtEFDKO0xDub/2KMsXV3oRJ9h+KhZaFniZAj87pBdf8gDMAPw9oqQO9E8qHfUuVNRTtcH/VEadkEuFVbTuOEkLr6lZXs39IHvAdZGiB0OsbjAfsJUUeNGlun1Jk57iv+UiNOJ7Yb/EXGBUvsIFfYouVAnbqvnrg++adwmizUosHt4IqSa3bq6KW8yfgvGjjMd5PBDi4aotGUVMTWz2G7PbNcfzHuAGVIy+g80Oqe7FrYlOCltmXgptEAfoqYRAXzXJkRLK/WPBWnXFkimeBXA==;zXWEYZkYPyduERbCzvpR1A=="
 ---

@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "FinTech Regulation and Compliance: Navigating the Landscape to Ensure Data Privacy"
-    excerpt: "To keep up with the advancements in technologies like blockchain, AI, and cryptocurrencies, FinTech companies are overhauling their existing models to ensure compliance with global data protection regulations like the GDPR, LGPD, and CCPA, in addition to ..."
-    publishedDateTime: 2023-05-18T15:15:00Z
-    webUrl: "https://www.finextra.com/blogposting/24224/fintech-regulation-and-compliance-navigating-the-landscape-to-ensure-data-privacy"
+  - title: "Fintech Chiefs Debate the Future of UK’s Digital Economy in Parliament"
+    excerpt: "Fintech industry leaders warned of the risks posed by AI and ChatGPT last night as well as discussing the role automation and digital skills will play in driving economic growth. Speaking at the Parliament Street think tank’s Digital Economy summit on Monday night,"
+    publishedDateTime: 2023-05-23T09:39:00Z
+    webUrl: "https://financialit.net/news/fintech-startups/fintech-chiefs-debate-future-uks-digital-economy-parliament"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 18
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
     images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/dfe92e99-e72f-4d86-a07a-8431087d475a.png"
-        width: 500
-        height: 261
+      - url: "https://financialit.net/sites/default/files/image001_77.jpg"
+        width: 752
+        height: 423
         isCached: true
 
 secured: "mA23uhxHE1JwKU5Pw2uRjd6fnBaCyNdsW4qXd7uAu8c/tKVTc5gqf8owTF2eNNJ3lDq1I+HK+/iRmEMoyLrGBdGUwDzN1r61WcX3cQ4xa2eXiz5BUEDudHjs4Q6UFH7V4g5vuEbyvUbWjzLVFq7hGmQYLc05cg9FBFn10SPDKpWJ2kNZ4ponhWudV/Nkwh3AoIx6e4xDUmBVBN2ys01SvVkoq2KLQPoeLPHoUskIU0NUEroGGabQjdgAqULwWa+l3ezrYRt6l/t8TJvx2BBs36z4I+xuV6X2afEJ8jjTNAjHKyUrMo2txfdK7gMxYYTdlPtW7Shl5+jw2WWlhvC2WVVSqtAQyLVXtP4NntbQzqYPpNIcZtnqffHJcJjRsomHVFya2zTQIDsonKEZhxfgOZfVJovthEvWmwNhzx6iYk9LvFzYJtbrXdQ9lAjJp1zuntuKBKqtysuhDuv9HqDTR8yWkb5F/p8g1kNE6lilK42ucNUCBKjHT01tUYaYxJoXuGRPsmVDkyzAtRaj+JqQUQ==;oQAVwDVER+KfGc1HTk+WlA=="

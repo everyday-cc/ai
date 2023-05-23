@@ -36,15 +36,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "FlowX.ai raises $35M for its AI-based approach to application integration"
-    excerpt: "“Digital transformation” and AI remain very buzzy terms in the world of enterprise software, and today a startup operating in Romania that’s built a platform that taps into both concepts, and is seeing user traction in the financial sector, has ..."
-    publishedDateTime: 2023-05-22T12:03:00Z
-    webUrl: "https://techcrunch.com/2023/05/22/romanias-flowx-ai-raises-35m-for-its-ai-based-approach-to-application-integration/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 46
   - title: "What impact will AI have on FinTech in 2023?"
     excerpt: "Artificial intelligence (AI) is emerging as one of the key driving forces behind financial technology, as in many other industries recently. It’s a defining"
     publishedDateTime: 2023-05-22T17:20:00Z

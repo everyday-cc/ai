@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106274646/Metas-Pricey-AI-Bet-Comes-New-Techno
 webUrl: "https://menafn.com/1106274646/Metas-Pricey-AI-Bet-Comes-New-Technology-Data-Centers-Revamp"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 960
     height: 609
     isCached: true
-
-related:
-  - title: "Meta’s pricey AI bet comes new technology, data centers revamp"
-    excerpt: "In Meta Platforms Inc. s year of cost cutting and layoffs, there s one area that s seeing record spending: an update of the social media giant s"
-    publishedDateTime: 2023-05-18T16:47:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/18/05/2023/metas-pricey-ai-bet-comes-new-technology-data-centers-revamp"
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 39
-    images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20230101_1672556854-332.jpg?1672556854"
-        width: 960
-        height: 609
-        isCached: true
 
 secured: "uTcLYZGvOi57y9n1CChLhlB7q8PVm3cBXc3uOFfXL0tTRbcPwsjTwZzh63eeczIt+KZ18kVYg6xmNtNSfd6qdpRai9s3aniPEXbMKbM1/OiVwWtftG4DBuhHqc6mAYL4GB8Lgpix0/ElO70MyKoiWabNmoyfVl2NPGkbZotHlhx1yHTHLHpRqkD+oAJcnU2XhOOp/A1mnVW7SMIdsCW9vR+hiF4+WE3RysldqIGBTi1dcB0ulxQTppZh6pezvi7RE7Y+gD3Y2FMGjykMnbj56baXNM4yTZOq1rhaC4dPMp0Prsuiy2ThFq2+6CMkabw/xhvObbbnGzDACtOeJ1lelcBM8DiCWkK/Q5mEVtCfcog=;fpCHoHXGF72hH+vES2QUqA=="
 ---

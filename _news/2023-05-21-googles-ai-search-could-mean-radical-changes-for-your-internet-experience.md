@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/googles-ai-search-could-mean-ra
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-ai-search-could-mean-radical-changes-for-your-internet-experience/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

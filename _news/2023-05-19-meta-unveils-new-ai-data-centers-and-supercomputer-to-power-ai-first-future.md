@@ -48,22 +48,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta unveils its first custom AI chip"
-    excerpt: "Meta follows other giant tech companies that have developed their own chips for AI in addition to using the standard GPU chips from Nvidia that have come to dominate the field. Microsoft, Google and Amazon have all unveiled multiple custom chips over the past several years to handle different aspects of AI programs."
-    publishedDateTime: 2023-05-18T16:00:00Z
-    webUrl: "https://www.zdnet.com/article/meta-unveils-first-custom-artificial-intelligence-chip/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-unveils-first-custom-artificial-intelligence-chip/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-unveils-first-custom-artificial-intelligence-chip/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/37d75992cd1b849d006b2d1f720effca275d6871/2023/05/18/3dd2fcd4-8943-4ed5-974e-f0308c930271/meta-mtia-die-with-striped-background.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nvidia Has Gone Big Into AI. Its Chips Will Now Power Supercomputers."
     excerpt: "Nvidia said a new supercomputer will be based on its Grace CPU Superchip, marking a push into an area dominated by Intel and AMD."
     publishedDateTime: 2023-05-22T10:16:00Z

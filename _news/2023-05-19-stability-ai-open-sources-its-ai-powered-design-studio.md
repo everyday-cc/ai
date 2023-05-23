@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-p
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/stability-ai-open-sources-its-ai-powered-design-studio/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 147
+published: true
 
 provider:
   name: TechCrunch
@@ -30,50 +30,84 @@ images:
     isCached: true
 
 related:
-  - title: "Meta and Google news adds fuel to the open-source AI fire"
-    excerpt: "The open-source AI debate is getting even hotter in Big Tech, thanks to recent headlines from Google and Meta's Yann LeCun."
-    publishedDateTime: 2023-05-18T16:54:00Z
-    webUrl: "https://venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/"
-    ampWebUrl: "https://venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/amp/"
+  - title: "Schools bewildered by AI advances, say head teachers"
+    excerpt: "UK schools have been left confused by the fast rate of change in artificial intelligence (AI) and its impact on education, head teachers are warning. In a letter to the Times, educators from the state and private sector say developments are \"bewildering\"."
+    publishedDateTime: 2023-05-20T04:58:00Z
+    webUrl: "https://www.bbc.com/news/uk-65655010"
+    ampWebUrl: "https://www.bbc.com/news/uk-65655010.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-65655010.amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: BBC
+      domain: bbc.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-70.png?w=1200&strip=all"
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/10AC0/production/_129788286_gettyimages-450123483.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Artificial intelligence and mankind"
+    excerpt: "By NICK DAZANG ON August 2, 1939, Albert Einstein, the equivalent of a scientific genius, endorsed a letter drafted for him by a fellow physicist and inventor, Leo Spitz Szilard. The letter was sent to the United States President,"
+    publishedDateTime: 2023-05-22T05:30:00Z
+    webUrl: "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/"
+    ampWebUrl: "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/amp/"
+    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/amp/"
+    type: article
+    provider:
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 59
+    images:
+      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2018/05/tech-per.jpg"
+        width: 412
+        height: 250
+        isCached: true
+  - title: "FlowX.ai raises $35M for its AI-based approach to application integration"
+    excerpt: "“Digital transformation” and AI remain very buzzy terms in the world of enterprise software, and today a startup operating in Romania that’s built a platform that taps into both concepts, and is seeing user traction in the financial sector, has ..."
+    publishedDateTime: 2023-05-22T12:03:00Z
+    webUrl: "https://techcrunch.com/2023/05/22/romanias-flowx-ai-raises-35m-for-its-ai-based-approach-to-application-integration/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 46
+  - title: "The AI-powered hybrid-multi-super cloud"
+    excerpt: "Here’s a quick snapshot of some key players that, over the past decade, have worked hard to create their own version of cloud platforms — with mixed results. These firms have different levels of cloud maturity and varied strategies,"
+    publishedDateTime: 2023-05-20T15:52:00Z
+    webUrl: "https://siliconangle.com/2023/05/20/ai-powered-hybrid-multi-super-cloud/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/AdobeStock_594873507.jpeg"
+        width: 6144
+        height: 3511
+        isCached: true
+  - title: "Dubai announces AI plan to slash traffic jams"
+    excerpt: "As such, it ensures that AI models do not make decisions incompatible with the AI principles and ethics set by the Dubai Digital Authority. RTA has trained several Emiratis in leadership, supervisory and technical roles to empower them to analyse data and ..."
+    publishedDateTime: 2023-05-21T09:12:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/transport/dubai-announces-ai-plan-to-slash-traffic-jams"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 39
+    images:
+      - url: "https://www.arabianbusiness.com/cloud/2023/01/22/New-Dubai-road-2.jpg"
         width: 1200
-        height: 750
+        height: 675
         isCached: true
-  - title: "The Optimist’s Guide to Artificial Intelligence and Work"
-    excerpt: "Companies like IBM and the British telecommunications company BT have cited artificial intelligence as a reason for reducing head count, and new tools like ChatGPT and DALL-E make it possible for anyone to understand the extraordinary abilities of artificial intelligence for themselves."
-    publishedDateTime: 2023-05-20T12:01:00Z
-    webUrl: "https://www.nytimes.com/2023/05/20/business/dealbook/the-optimists-guide-to-artificial-intelligence-and-work.html"
+  - title: "Google employees bombard leaders with questions about the company's AI strategy, asking if it's become too AI-focused"
+    excerpt: "In a leaked recording, employees questioned Google CEO Sundar Pichai on the impact AI will have on the company's core business."
+    publishedDateTime: 2023-05-19T19:20:00Z
+    webUrl: "https://www.businessinsider.com/google-ai-strategy-questions-leaked-audio-tgif-2023-5"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 71
-    images:
-      - url: "https://static01.nyt.com/images/2023/05/20/business/20DB-AI/20DB-AI-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "We Put Google’s New AI Writing Assistant to the Test"
-    excerpt: "I used Duet AI to send emails and plan my wedding. Its writing can be stuffy and stereotyping—but it’s a glimpse of the future of productivity apps."
-    publishedDateTime: 2023-05-20T10:00:00Z
-    webUrl: "https://www.wired.com/story/googles-duet-ai-writing-assistant-review-test/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/6467cb66f2de86183cf5b3b2/191:100/w_1280,c_limit/Google-Duet-Hands-On-Business-Business-1468320082.jpg"
-        width: 1280
-        height: 670
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
 
 secured: "Pplt3ij5Hb0V8aL9rAc50YsCPiNctH2GcIPnqiRONE4WN3h3E0b0OH86qKPwMTQIjbORV8i083FMn/NUR3IuHe431WcISDh7IoHbzIWppF1OexEeHT3juhG62ZneMnkfT1o+LsUCOaKc6CLlFKjDlxSRuXOeHEesifUrT/ZY95UX0lXtEbSzfIEG2ygljujCYaxkkAWVU60iJns15/F4vWwO14DxrXI8553pK5IHCxVeX7t3vPCqAow224sothLwOsNq5Ro3pQUv42+aI8SEO6zRf09NNHDSRWrOTl7104LkA74S2cRG+7Ij0Hl3iDNCddvveEcQD+E3Bd5yhRZmrUSuSlzN0NHKsfEbKHxA9Pz4V1G5jqMzP1MikFLe1ZTtBxx5WDOZyPSaNFKIRQN0JA00W+k7TRW2350WNC93rZZYj6/xTaw7FxtQdfe53nkGkB58s9Uw2IfllpqHP1tgrsTCclJfXoINQM6rMQYm9K4NgNWlM+/Im22pnCil73sOiQMnKBGwYl6+/UwrnIWmyw==;uCXCb4QCEWawj1mgQmHQTg=="
 ---
