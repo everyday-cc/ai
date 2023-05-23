@@ -46,6 +46,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 18
+  - title: "Motion Control Software in Robotics Market will Reach a Value of US$ 37.86 Billion by 2029 at a CAGR of 19.6%"
+    excerpt: "The Motion Control Software in Robotics Market is projected to expand at a remarkable CAGR of 19.6% between 2022 and 2029, reaching a valuation of US$ 10.81 Billion in 2022 and US$ 37.86 Billion by 2029."
+    publishedDateTime: 2023-05-23T15:54:00Z
+    webUrl: "https://www.fmiblog.com/2023/05/23/motion-control-software-in-robotics-market-will-reach-a-value-of-us-37-86-billion-by-2029-at-a-cagr-of-19-6/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 15
 
 secured: "uitO47Jfi5VB5CVIVUECHrSeFMqKp+t1nthJvIn2ElriUg2j1uJImn8pvcszqnCe77uEHkdH5IzLkMc69dsWyowLixvwg1CgmQ4hSePfGBtcok0dELmQWwAd2cb2tuOgGr1rZfQ4EvPrz3OplSD5tkjLisB6akkhmsgTaJCYFUwnBRtgK8xlNzdfq+lSgViydnxAfw9/vjOk7BzpSTKA5Ps92xrQ9Hz0m7So89heF9IaQ/xoZWrUAlJTkzcVOjbesaEeqzoM1zuzzUn8j3PFPTz1yNVygt5deRpJKCfMja44Q1ssO0mFiTKRczexNcIun1Axy7lXjIsZ+NUluDLCzY3KLDI/UOirPHUU+6Ou1lo=;hjitn2sOdOLlqsceDlXF1w=="
 ---

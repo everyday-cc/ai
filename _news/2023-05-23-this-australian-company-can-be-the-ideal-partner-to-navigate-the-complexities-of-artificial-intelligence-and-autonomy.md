@@ -37,7 +37,7 @@ related:
     provider:
       name: Government Technology
       domain: govtech.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/7e05d6c/2147483647/strip/true/crop/770x402+0+56/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F47%2F92%2Fe2eabc450aff69c84fd8a36a48ea%2Fsan-francisco.jpg"
         width: 840

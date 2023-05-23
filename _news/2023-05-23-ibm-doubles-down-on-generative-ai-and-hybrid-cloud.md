@@ -25,37 +25,85 @@ images:
     isCached: true
 
 related:
-  - title: "Boston Isn’t Afraid of Generative AI"
-    excerpt: "The city’s first-of-its-kind policy encourages its public servants to use the technology—and could serve as a blueprint for other governments."
-    publishedDateTime: 2023-05-19T16:07:00Z
-    webUrl: "https://www.wired.com/story/boston-generative-ai-policy/"
+  - title: "Cohesity partners with Google Cloud to empower organizations with generative AI and data capabilities"
+    excerpt: "Cohesity will utilize Google’s recent advancements in AI technology to enhance its AI-ready data security and management platform."
+    publishedDateTime: 2023-05-23T17:38:00Z
+    webUrl: "https://venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/"
+    ampWebUrl: "https://venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
     images:
-      - url: "https://media.wired.com/photos/646799a606bd08d2f808af39/191:100/w_1280,c_limit/Keyboard_bent_AI_ideas_GettyImages-1469762438.jpg"
-        width: 1280
-        height: 670
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1401124210-Thinkhubstudio-e1669658425465.jpg?w=1200&strip=all"
+        width: 1200
+        height: 606
         isCached: true
-  - title: "Generative AI Adds New Dimensions to Election Interference"
-    excerpt: "Election administrators are still digging out from the mountains of misinformation from the 2020 election cycle. Bad actors are using AI to ramp up for the next one. Can AI help level the playing field for the good guys?"
-    publishedDateTime: 2023-05-19T05:40:00Z
-    webUrl: "https://www.governing.com/security/generative-ai-adds-new-dimensions-to-election-interference"
-    ampWebUrl: "https://www.governing.com/security/generative-ai-adds-new-dimensions-to-election-interference?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/generative-ai-adds-new-dimensions-to-election-interference?_amp=true"
+  - title: "PaLM2 by Google for generative AI is new tool from creativity and innovation"
+    excerpt: "PaLM2 is a new large language model (LLM) from Google AI. It is trained on a massive dataset of text and code, and can generate text, translate languages, write different kinds of creative content,"
+    publishedDateTime: 2023-05-22T09:39:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
     type: article
     provider:
-      name: Governing
-      domain: governing.com
-    quality: 59
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 56
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/2cfba84/2147483647/strip/true/crop/1679x875+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa6%2F8d%2F75d7c3b64a09b15bf3759f57b52d%2Fus-news-senate-ai-regulation-get.jpg"
-        width: 840
-        height: 438
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2017/01/Untitled-6.jpg"
+        width: 414
+        height: 364
         isCached: true
+  - title: "TCS Expands Partnership With Google Cloud, Launches Generative AI"
+    excerpt: "Tata Consultancy Services on Wednesday (22 May) announced an expanded partnership with Google Cloud and the launch of its new offering, TCS Generative AI which leverages Google Cloud’s generative AI services,"
+    publishedDateTime: 2023-05-23T03:23:00Z
+    webUrl: "https://swarajyamag.com/tech/tcs-expands-partnership-with-google-cloud-launches-generative-ai"
+    type: article
+    provider:
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/swarajya%2F2023-02%2Fa38bf3ae-864b-49b1-ad8b-01fddfd3c396%2FScreenshot_2023_02_08_at_12_53_49_PM.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Pega Announces Pega GenAI to Infuse Generative AI Capabilities in Pega Infinity '23"
+    excerpt: "(NASDAQ: PEGA), the low-code platform provider empowering the world's leading enterprises to Build for Change®, today announced Pega GenAI ™ – a set of 20 new generative AI-powered boosters to be integrated across Pega Infinity ™ '23,"
+    publishedDateTime: 2023-05-23T17:55:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/23/9819294.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/2082623/Pega_GenAI.jpg"
+        width: 400
+        height: 290
+        isCached: true
+  - title: "Cohesity Turing aims AI tools at backup and ransomware"
+    excerpt: "Backup supplier continues to enrich its ecosystem with more artificial intelligence (AI) for backup and ransomware, with chat-like reporting functions and new security partners in its alliance."
+    publishedDateTime: 2023-05-23T09:00:00Z
+    webUrl: "https://www.computerweekly.com/news/366538115/Cohesity-Turing-aims-AI-tools-at-backup-and-ransomware"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 19
+  - title: "TCS announces generative AI pact with Google Cloud, new offering for enterprises"
+    excerpt: "Tata Consultancy Services TCS on Monday announced an expanded partnership with Google Cloud and the launch of its new offering -- TCS Generative AI which leve"
+    publishedDateTime: 2023-05-22T13:20:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273838959/tcs-announces-generative-ai-pact-with-google-cloud-new-offering-for-enterprises"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 14
 
-secured: "C3rFRZmyEUL0DWa/ghevEa/b+QPsH5aiC0v3FEqTckzX9KSDuoLyfRTGIn/j8Jn2g46BG3643E2ZWXIlP8Bo0jCcISX+/GcE5hMkAf4Z5kE9H4YNks9ZZLfsT20ced7t7k26MSr+kI/VlCL+TVMcCGx5Z027twcm9yHpKzu5/4EzkpwF/lBeJCBEPIt76jhSZYrBcNZyM3i94pz2rsAnAasb9Xm5vzlh5VW5eNQ3KVA9ZJMZfSYprg6c3USOjjqqcUFa92M1YWkXOU4P8izMsf9ifjHxDwOAVeNnmblCnU4ARILsXw/qinH+njgkgDFKlY0xmtVyGq1LnzaFL5nIsRz1VIMMdKA0VH8gMF3KVGg=;LsV0SfT8l7epDIneQuFDiw=="
+secured: "V/0w9HsTPtDV3W0UKVEXUGtfLcsWc/z3gKdmm3dogW6m0/bCwVkQ9c+CPDTM4HvPFDNS9YascHV4TCA91qX5qUBAFnIx0yN+hZn4CJK2eDgyp88lHS0oE5RB1EsBlG/p7Iigr/QIpQO+pE4AfDzL8XT0dTkVnPTufD1DzgwzANpFKHGI4PZYUPLsb4+wl5ANXvoeqeUUJ4MhoTfUPV8KjeRo0mDmoXJ86yqa1Ou9yUglPkvGr4oW0S/rrhg+JfMZyeZ0bhE0ehjvH/IoOAkPvFHDZ8t17I2e6L0LUXL66qO9OcPrs8rMln646t/4UE7TtyoplJTnv5E9FYVorJpz7JX9Wq9+EeECTchdUd7aCIBvpNFWWtcOoleEXFgDDDG5viVTUwCC3G6lUhfJ1SYGN2dhYNZgHSn3UTd2Pk/HW8Q8VjELoVrxwqsOxSbJaMYzUNPHpATAZh759jxfyJh6fBfsTizn27aSpGWzClosy1Y0QMpuU58FTP5g+ViQM747TR1/7h1MrD8YXqyJNiJrsQ==;pmC73GuYOcuej47JSa295g=="
 ---
 

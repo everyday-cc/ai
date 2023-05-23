@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "IBM doubles down on generative AI and hybrid cloud"
-    excerpt: "Given the hype around generative AI with the public preview of ChatGPT and the central role of Red Hat’s OpenShift as IBM’s platform modernization strategy, the choice of those themes was not surprising."
-    publishedDateTime: 2023-05-23T13:27:00Z
-    webUrl: "https://siliconangle.com/2023/05/23/ibm-doubles-generative-ai-hybrid-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/watsonx.jpeg"
-        width: 1194
-        height: 875
-        isCached: true
 
 secured: "OAhwLhLf4yrsdzYVfQrQnk1xbmL2AxsZx+00/l4zqIDCSx4YucXu/AQLVLg8l8iUO7+i4judFRHeBm98cqUnZ2ps701T0SxAQRBW9O/pduY21t4I3vgMI8JlXaTtQMf5XBkUPrNrXwBPKxSb99kC4bUPoRfzf0hK+j2Qw9Ik9YwQu33o4WXzJHQ8deFPzpd/oSfieR9b6VHd5tsSfAkVBld/Onbq8WFB/G1/ztlix3xw/lNAeyoLCi2dEV/3xamW8QO2V0iwGX9sAnFcT2J4aCYlH/cov3p5P1MZ4UCqXXnqQ0Wpj0uwrBnKW5U83uEMcY06owZPJoSlW9bxXefkMm5JrC4VozssuV/6C/u4pCPKBzOY0sdOJhD64ZqIxKy+ogmOz3yfrNIOzW46Gmv9eGt0PnyT2Q+Ce1e0w2fS7CoxCE9CYFqGQzSYpR3oH53w/KG5HKZ37ROQ1kNchJ64839iMP66suoehnYDyX7KQWvh1EnblvfIPySgjw8RsPbDe29Oeq84Mu/poMRZGS+A9w==;LCaVDkbkf3vUSndxjDxY4A=="
 ---

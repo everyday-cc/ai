@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/05/22/apple-enginee
 webUrl: "https://www.thestar.com.my/tech/tech-news/2023/05/22/apple-engineer-steals-secrets-on-self-driving-cars-and-flees-to-china-us-feds-say"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,47 @@ images:
     width: 1240
     height: 852
     isCached: true
+
+related:
+  - title: "Uber to deploy Waymo self-driving cars in Phoenix area"
+    excerpt: "Uber is poised to begin rolling out Waymo self-driving cars in the Phoenix area, marking what could be the first step in a broader partnership that signals the end of the long-standing feud between the two companies."
+    publishedDateTime: 2023-05-23T17:11:00Z
+    webUrl: "https://www.axios.com/2023/05/23/uber-waymo-self-driving-cars-robotaxis"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 39
+    images:
+      - url: "https://images.axios.com/KF2ET-E9UiBQerCfVBiZ3Wn2yrw=/0x0:1920x1080/1366x768/2023/05/23/1684858748699.png"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Waymo woes: Tempe residents frustrated as idle self-driving cars park in their neighborhood"
+    excerpt: "Waymo is expanding in the Phoenix area, but that is causing a level of headache for residents in one Tempe neighborhood, who say some of the self-driving cars are being parked on their streets when they are not picking up passengers."
+    publishedDateTime: 2023-05-19T05:44:00Z
+    webUrl: "https://www.fox10phoenix.com/news/waymo-woes-tempe-residents-frustrated-as-idle-self-driving-cars-park-in-their-neighborhood"
+    ampWebUrl: "https://www.fox10phoenix.com/news/waymo-woes-tempe-residents-frustrated-as-idle-self-driving-cars-park-in-their-neighborhood.amp"
+    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/waymo-woes-tempe-residents-frustrated-as-idle-self-driving-cars-park-in-their-neighborhood.amp"
+    type: article
+    provider:
+      name: FOX 10 Phoenix
+      domain: fox10phoenix.com
+    quality: 29
+  - title: "Waymo, Uber set aside past rift over self-driving car technology to team up on robotaxis in Phoenix"
+    excerpt: "- Phoenix Mayor Kate Gallego arrives in a Waymo self-driving vehicle on Dec. 16, 2022, at the Sky Harbor International Airport Sky Train facility in Phoenix. Self-driving car"
+    publishedDateTime: 2023-05-23T16:05:00Z
+    webUrl: "https://www.chron.com/business/article/waymo-uber-set-aside-past-rift-over-self-driving-18114056.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 25
+    images:
+      - url: "https://s.hdnux.com/photos/01/32/57/12/23786143/6/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "W3dAiQVUiIEGRlpdT4oGUOlU6VS13i1M8+EqiZhHpMKgk41lgpNqC4KqLyAM+oRoGIaXfbjXB91lvqOczFGLa0ZNalec8GHI3sl9U7Ut36wNC7UXeYQGEmbE2NyHYYEa6WTCmuOuMzKXbFY2X0UDg7RYNb89NcW8cNxlu+E0Jzylp5UrrvyVjAnrCTKxQUtNqaEvIvABEh0cmzIE8P1Qf2dn75LmLjDE7Up279KBF3AmavSaEvvdtYSTxqKtKwA6fI0Nigknn0yAwKSm8v1KxcH8fGrBZhZoFhAdTM/JMNnN+GHujXK+N5wGUJ7DkW+fpizTPxSz9lUUFbQYjAHGJdyE3K3OSn3eTMSPPrO5acRUByCTVRgS88FEIajHF6KgiQyn01NfxqePr+kVcg4N9qhn+jE1vf39HP/zaIfw3P0puKwyZTu9bBPy0ynP4b0YQ8TQawutR1uXtDZWri8ks+SaH5HZ2tLV3LNBthibD4rzOuvc9RhzIBLaUuYmFzJInNUsv4ToVMy8vwMzjd+fZg==;hrjwLnBYcYFBuY5sdSWVZQ=="
 ---

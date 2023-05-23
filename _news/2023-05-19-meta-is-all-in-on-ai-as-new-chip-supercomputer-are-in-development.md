@@ -26,121 +26,77 @@ images:
     isCached: true
 
 related:
-  - title: "Meta bets big on AI with custom chips — and a supercomputer"
-    excerpt: "Meta wants the world -- and particularly investors -- to know it's going big or going home where it concerns AI and the hardware to build it."
-    publishedDateTime: 2023-05-18T23:35:00Z
-    webUrl: "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/"
-    ampWebUrl: "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/"
+  - title: "China is ramping up efforts to drive AI development"
+    excerpt: "Tagging artificial intelligence as an important focus for the country, the Chinese government plans to step up efforts in research and development, including the establishment of regional AI industrial hubs."
+    publishedDateTime: 2023-05-19T14:27:00Z
+    webUrl: "https://www.zdnet.com/article/china-is-ramping-up-efforts-to-drive-ai-development/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/china-is-ramping-up-efforts-to-drive-ai-development/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-is-ramping-up-efforts-to-drive-ai-development/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 106
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-twist.jpg?resize=1200,675"
+      - url: "https://www.zdnet.com/a/img/resize/f3aece405a9b8b745b147b29ab5e92e4c58801c4/2023/05/19/ec3c66b3-fdd5-49c1-b530-039359f1add7/gettyimages-1250716865.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia Has Gone Big Into AI. Its Chips Will Now Power Supercomputers."
-    excerpt: "Nvidia said a new supercomputer will be based on its Grace CPU Superchip, marking a push into an area dominated by Intel and AMD."
-    publishedDateTime: 2023-05-22T10:16:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
+  - title: "Apple is apparently doubling down on machine learning, generative AI efforts: All we know so far"
+    excerpt: "While Apple did not announce any major AI-related initiative in its recent earnings report, the company however did highlight the importance of AI in its future plans."
+    publishedDateTime: 2023-05-22T06:10:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-apple-is-apparently-doubling-down-on-machine-learning-generative-ai-efforts-all-we-know-so-far-3096934/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology-apple-is-apparently-doubling-down-on-machine-learning-generative-ai-efforts-all-we-know-so-far-3096934/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-apple-is-apparently-doubling-down-on-machine-learning-generative-ai-efforts-all-we-know-so-far-3096934/lite/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 61
     images:
-      - url: "https://images.barrons.com/im-392288/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Nvidia Stock Has Risen on AI Chips. Why It’s Taking on Intel, AMD in Supercomputers."
-    excerpt: "Nvidia said a new supercomputer will be based on its Grace CPU Superchip, marking a push into an area dominated by Intel and AMD."
-    publishedDateTime: 2023-05-22T10:03:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-ai-intel-amd-chips-534a258b?refsec=markets"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 67
-    images:
-      - url: "https://images.barrons.com/im-392288/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Meta AI plans: Optimised data centres, supercomputers and custom chips"
-    excerpt: "The RSC was unveiled in 2021. Meta has shared details of ambitious plans for AI advancements, including a custom chip for running AI models, further tweaks of a supercomputer for AI research and an AI-optimised data centre design. In a blogpost published ..."
-    publishedDateTime: 2023-05-19T16:19:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/meta-ai-supercomputers-data-centres-custom-ai-models-chips"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/05/AdobeStock_465855287_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Meta Unveils AI Chips"
-    excerpt: "Meta (NASDAQ:META) has built custom computer chips to help with its artificial intelligence and video-processing tasks and is talking about them in public for the first time. The social networking giant disclosed its internal silicon chip projects"
-    publishedDateTime: 2023-05-19T13:58:00Z
-    webUrl: "https://www.baystreet.ca/techinsider/3620/Meta-Unveils-AI-Chips"
-    type: article
-    provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 54
-    images:
-      - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/facebook.jpg"
-        width: 845
-        height: 396
-        isCached: true
-  - title: "Meta working on new chip for AI"
-    excerpt: "In addition, Meta has introduced its first in-house ASIC solution, MSVP, designed to power constantly growing video workloads. The company has also touted the Research SuperCluster (RSC) AI Supercomputer, which features 16,000 GPUs and is built to power new augmented reality tools, content management systems, and real-time translation technology."
-    publishedDateTime: 2023-05-19T08:31:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/meta-working-on-new-chip-for-ai/article66869305.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/meta-working-on-new-chip-for-ai/article66869305.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/meta-working-on-new-chip-for-ai/article66869305.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 54
-  - title: "Meta starting to built its own AI chips"
-    excerpt: "Meta Training and Inference Accelerator can't play Crystalis yetMeta is building its first custom chip specifically for running AI models.  CEO Mark Zuckerberg recently said the company sees \"an opportunity to introduce AI agents to billions of people in ways that will be useful"
-    publishedDateTime: 2023-05-22T08:50:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56933-meta-starting-to-built-its-own-ai-chips"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/01d655324d8449f7185ac6f82d5472e9_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "Meta makes its AI technology open source and unveils custom computer chips"
-    excerpt: "Meta Platforms Inc (NASDAQ:FB) has not only created an artificial intelligence (AI) technology, called LLaMA, that can power online chatbots, but the Silicon Valley giant has now unveiled its newly built custom computer chips to help with its AI and video ..."
-    publishedDateTime: 2023-05-19T15:31:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1015589/meta-makes-its-ai-technology-open-source-and-unveils-custom-computer-chips-1015589.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 52
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA1XC9zaHV0dGVyc3RvY2stMjE1Mjc1ODg4Ny5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9fX0="
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/apple-resized-2.jpg"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
+  - title: "Governments race to regulate artificial intelligence tools"
+    excerpt: "EU lawmakers have reached a preliminary deal that could pave the way for the world’s first laws governing the new tech."
+    publishedDateTime: 2023-05-23T11:24:00Z
+    webUrl: "https://www.aljazeera.com/news/2023/5/23/governments-race-to-regulate-artificial-intelligence-tools"
+    ampWebUrl: "https://www.aljazeera.com/amp/news/2023/5/23/governments-race-to-regulate-artificial-intelligence-tools"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2023/5/23/governments-race-to-regulate-artificial-intelligence-tools"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 57
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2023/03/2023-03-22T214958Z_1139044039_RC2R3Z9ARM44_RTRMADP_3_OPENAI-BUG.jpg?resize=1920%2C1440"
+        width: 1920
+        height: 1440
+        isCached: true
+  - title: "Infineon announces two EU-wide research projects for GaN and AI developments"
+    excerpt: "According to Infineon, the research extends from individual chip elements, high-performance GaN modules ... to Sustainability and Industry 5.0), is being conducted on smart AI technologies for resource-efficient manufacturing in Europe, pooling together ..."
+    publishedDateTime: 2023-05-23T03:23:00Z
+    webUrl: "https://www.digitimes.com/news/a20230523VL203/ai-gan-infineon.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 36
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230523vl203_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Apple Ramps Up Hiring of Generative AI Experts"
+    excerpt: "Apple is hiring for at least a dozen new experts in generative artificial intelligence amid rumors that the company is stepping up its work on AI."
+    publishedDateTime: 2023-05-22T12:51:00Z
+    webUrl: "https://www.macrumors.com/2023/05/22/apple-ramps-up-hiring-of-ai-experts/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 17
 
 secured: "9Z050s2Snq7DweZP7lvvcJSO7hwdHwH4c4VCysIyiAgAMs4O8Nza5H+9W4IFKP07iuvSAvD2FMfi4OqkjBW1kNO3GA9T3YT4DTZ9wfpIGDW32rUOlC9ZagS3c2PYIVT1V0LlrJuuLNQc4/PMeBH/YMbbRIRvsKk+nyYVCuYeZhTvbQIj8nMVtvsKARZF6zk/fd222bCpj3m/K8TBSW9tGixEBoDehKlUbcM8VrBN39r5LTo9uFUDyOpO4epVF/ibpNJ5pvCZ5CUmvPjSCfXoPs6GxdBSLWTTyQPe7mlHbbJkVkVUZPNJoI8cF78kvN+pJEFfvdtmWEm3cJjLEXdV418Q+EpKkb1fC3aLbPdFctuQzrWdDHB8alAkiqARAkK6/rcY90ttOdUv+OYLS57zNAom+yk+xnzVysN+/4zOyNqUez1xHAhVcDQIn8SbJ9VaIkPkmV1jO6OuocGiblW10noahRwagsqT2Sauj33SRG2YSD329eP2qPk6GqgG529Edh2ys80fB1NHQZocn6ddeA==;MrvC3PYC84NJmdVndQ33iw=="
 ---

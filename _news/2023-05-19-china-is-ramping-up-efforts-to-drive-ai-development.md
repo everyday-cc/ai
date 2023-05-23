@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/china-is-ramping-up-efforts
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-is-ramping-up-efforts-to-drive-ai-development/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://www.aljazeera.com/wp-content/uploads/2023/03/2023-03-22T214958Z_1139044039_RC2R3Z9ARM44_RTRMADP_3_OPENAI-BUG.jpg?resize=1920%2C1440"
         width: 1920
         height: 1440
+        isCached: true
+  - title: "Meta is all in on AI as new chip & supercomputer are in development"
+    excerpt: "Meta, formerly Facebook, has pivoted hard into AI from the metaverse. The company now plans to develop its own chips and supercomputer for AI research."
+    publishedDateTime: 2023-05-19T14:23:00Z
+    webUrl: "https://www.dexerto.com/tech/meta-is-all-in-on-ai-as-new-chip-supercomputer-are-in-development-2150770/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 56
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/19/Firefly-an-ai-with-interconnected-neurons-that-is-in-a-server-room-blurred-in-the-background-and-has.jpg"
+        width: 1792
+        height: 1024
         isCached: true
   - title: "Infineon announces two EU-wide research projects for GaN and AI developments"
     excerpt: "According to Infineon, the research extends from individual chip elements, high-performance GaN modules ... to Sustainability and Industry 5.0), is being conducted on smart AI technologies for resource-efficient manufacturing in Europe, pooling together ..."

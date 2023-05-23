@@ -20,68 +20,29 @@ topics:
   - IBM AI
 
 related:
-  - title: "PaLM2 by Google for generative AI is new tool from creativity and innovation"
-    excerpt: "PaLM2 is a new large language model (LLM) from Google AI. It is trained on a massive dataset of text and code, and can generate text, translate languages, write different kinds of creative content,"
-    publishedDateTime: 2023-05-22T09:39:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
+  - title: "Red Hat unveils Ansible Lightspeed to empower AI-driven IT automation"
+    excerpt: "Learn More Open-source solutions firm Red Hat today unveiled Ansible Lightspeed, a generative AI service integrated with IBM Watson Code Assistant. The company’s latest offering seeks to drive extensive utilization of Ansible automation within organizations,"
+    publishedDateTime: 2023-05-23T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/red-hat-unveils-ansible-lightspeed-to-empower-ai-driven-it-automation/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 56
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2017/01/Untitled-6.jpg"
-        width: 414
-        height: 364
-        isCached: true
-  - title: "TCS Expands Partnership With Google Cloud, Launches Generative AI"
-    excerpt: "Tata Consultancy Services on Wednesday (22 May) announced an expanded partnership with Google Cloud and the launch of its new offering, TCS Generative AI which leverages Google Cloud’s generative AI services,"
-    publishedDateTime: 2023-05-23T03:23:00Z
-    webUrl: "https://swarajyamag.com/tech/tcs-expands-partnership-with-google-cloud-launches-generative-ai"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 51
+  - title: "Red Hat makes Ansible Event-Driven and adds generative AI chatbot"
+    excerpt: "Red Hat presented some much-needed innovation for Ansible at its summit in Boston. One very big change is that Ansible is now Event-Driven. No longer does"
+    publishedDateTime: 2023-05-23T14:47:00Z
+    webUrl: "https://www.techzine.eu/blogs/infrastructure/106386/red-hat-makes-ansible-event-driven-and-adds-generative-ai-chatbot/"
     type: article
     provider:
-      name: Swarajya
-      domain: swarajyamag.com
+      name: techzine
+      domain: techzine.eu
     quality: 39
     images:
-      - url: "https://gumlet.assettype.com/swarajya%2F2023-02%2Fa38bf3ae-864b-49b1-ad8b-01fddfd3c396%2FScreenshot_2023_02_08_at_12_53_49_PM.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 800
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/03/coen-300x300.jpg"
+        width: 300
+        height: 300
         isCached: true
-  - title: "Artificial intelligence innovation: Leading companies in road slope estimation for the automotive industry"
-    excerpt: "Porsche Automobil is a key player in the road slope estimation innovation area. The company’s road slope estimation technology uses GPS and standard vehicle sensors for estimation of road slope. Hyundai, Kia, Toyota and Nissan are some of the other key players."
-    publishedDateTime: 2023-05-22T09:56:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-road-slope-estimation-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 21
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/05/Artificial-intelligence_Road-slope-estimation.jpg"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "TCS announces generative AI pact with Google Cloud, new offering for enterprises"
-    excerpt: "Tata Consultancy Services TCS on Monday announced an expanded partnership with Google Cloud and the launch of its new offering -- TCS Generative AI which leve"
-    publishedDateTime: 2023-05-22T13:20:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273838959/tcs-announces-generative-ai-pact-with-google-cloud-new-offering-for-enterprises"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 14
-  - title: "Content Automation & AI: Creative Production Insights from the Localisation Industry"
-    excerpt: "Little Black Book, Locaria's Lindsay Hong on how creative production should embrace automation, following the transformative example of machine translation and AI in the language services sector"
-    publishedDateTime: 2023-05-19T11:32:00Z
-    webUrl: "https://www.lbbonline.com/news/content-automation-ai-creative-production-insights-from-the-localisation-industry"
-    type: article
-    provider:
-      name: lbbonline
-      domain: lbbonline.com
-    quality: 12
 
 secured: "yCWYZWM9N3a1iCWB8mabBshXN9p+paT06S61e1GIFek1fZDFlLLGKM1VZ0SOKBn0fdNOqGUKnxoi1X4b01utJ+Rq+lPNAeNGQm+R2JcDjKXBrfQ4rTBmB1KTv+k88wozkcQA7M3DCgfvzpevdcpL1qABVTCy9iCWzbOJpebmSSd+TPBOi/FQdlTGKRLN1KgBroUDWHu4pdAvfBN5khs16FvcvrKKHSe7zfEUBfZ//b3eCoLToAlAq60Nzs92/PkReCCIGtKxm0441BZ//5wuqTncukoKSu2zmQZn6qLmJOEvUlBzPreJLoi17KsT/jfSII+Crijf0BFD0MmfuZzTLvV9Tsj2Keb3gQJmNxYQ9SWpwVi2xLZye1xUsEUu2QhJQRsQUFLqSH6eQX5R2b8VyaLPBFrWTrSZJEeqsQDxXnZVSge1f4BWJ63jGiPeb0HYuMCuhEmzrRoLKooaJBkVWjH/mbX3Lbs84ev2puQV523Yk5DNiB141zfAmmsPf3pEGuJsOte4hVrCgzTI4MNbag==;GnmltOu7yZgLwgYWCuMV7g=="
 ---

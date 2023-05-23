@@ -73,6 +73,20 @@ related:
         width: 1920
         height: 1440
         isCached: true
+  - title: "Meta is all in on AI as new chip & supercomputer are in development"
+    excerpt: "Meta, formerly Facebook, has pivoted hard into AI from the metaverse. The company now plans to develop its own chips and supercomputer for AI research."
+    publishedDateTime: 2023-05-19T14:23:00Z
+    webUrl: "https://www.dexerto.com/tech/meta-is-all-in-on-ai-as-new-chip-supercomputer-are-in-development-2150770/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 56
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/19/Firefly-an-ai-with-interconnected-neurons-that-is-in-a-server-room-blurred-in-the-background-and-has.jpg"
+        width: 1792
+        height: 1024
+        isCached: true
   - title: "Apple Ramps Up Hiring of Generative AI Experts"
     excerpt: "Apple is hiring for at least a dozen new experts in generative artificial intelligence amid rumors that the company is stepping up its work on AI."
     publishedDateTime: 2023-05-22T12:51:00Z

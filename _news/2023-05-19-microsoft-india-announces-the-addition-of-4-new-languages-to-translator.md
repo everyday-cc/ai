@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft launches Fabric, a new end-to-end data and analytics platform"
+    excerpt: "Microsoft Fabric is a new end-to-end data and analytics platform that centers around Microsoft's OneLake data lake but can also pull data from Amazon S3."
+    publishedDateTime: 2023-05-23T15:38:00Z
+    webUrl: "https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/"
+    ampWebUrl: "https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-159406176.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "uR7gIZCN9Jl0qspjsEl5as0HPW1KdZm+OZIAKCundgjUOOzeqUM4EnPFUNrgyZvN9vSuoCSToT4wWB5dxbqM8/3VSp2cs0NJF+t0aJkMdBhlLSGWavc11lDKPHzxgIyPUyfjPDcYXZKFgzi00R4XZe8gTO1yvXYDrHS4Qx0UvobpgsB/zKWyYiH51myPMgDSlfNhLIfuuRGZNPyjEHtX91TmvRVIdtj0azpx8MCgX3AJRpCV3l9/fvwhvuqVV2/H/3Xw+aECjdCTFhA5a6xCwilNkrnj1m1pfP/R7gyzynqGl5Wiv/ej/KC7be04ZzC4PL2quccncTqHJT63xvo6ziqUfyoXpppWkmG8GbohdHpOoy373APNzRZSpCj+6wovdS6R/LTFhEGbYvGuGyD26y7bbQLAUHm6e+ygr656g7rHbtNJW8hVA0sxbnNkgMYHNwDTKLvyUA44+UvLTACcmBODMJ5CHf4nJb5FaxGvO1Q1smDUkifB3Q4Qc2MRrRP4Zr4UI1jO/HjwzCnffiSGZw==;bA93PlReolf+rpRKzMPv+A=="
 ---

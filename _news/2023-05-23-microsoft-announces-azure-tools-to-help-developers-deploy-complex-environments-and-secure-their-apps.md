@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-azure-t
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-azure-tools-to-help-developers-deploy-complex-environments-and-secure-their-apps/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft launches Fabric, a new end-to-end data and analytics platform"
+    excerpt: "Microsoft Fabric is a new end-to-end data and analytics platform that centers around Microsoft's OneLake data lake but can also pull data from Amazon S3."
+    publishedDateTime: 2023-05-23T15:38:00Z
+    webUrl: "https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/"
+    ampWebUrl: "https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-159406176.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft India announces the addition of 4 new languages to Translator"
     excerpt: "Users can translate Konkani, Maithili, Sindhi, and Sinhala text, supported in more than 125 languages, for their apps, websites, workflows, and tools with Azure Cognitive Services Translator"
     publishedDateTime: 2023-05-19T11:48:00Z
@@ -48,6 +64,6 @@ related:
         height: 720
         isCached: true
 
-secured: "kP5MCTCqLb9xsVo1foWXv/sB4snFcZr+24WpAyUQQLiXPk9p2W6W+9S98C87oT1y5bs/aNPI/r8uL/ZrZugzNXNt592NHP5P0nUEo8P5m+i9le/MS2BAriJRrRtdGZVrBUOC6t+R8axWFuaM4hFTHSlwoP9aK2do4x+qbvIV4fGdM44ER95qL0rTTSpgkYMyGi276lHajmkM+5OdUFDQZakgVOjqKwwdp6WCM9q2AHUmbW9QmtG0Dt8jE0g909tWCfLoA4sZRI7GjFHU9AC8Aea6Q0nyDKrIRxU+cNaM0TF1vr0w6dSdopIHpC4YE8HeoDLHjqUtg24AmUaRac6bWbGiUdxdUWi5Uto1UOTSO14=;CK5xad9gkFLO4Ky047zHvg=="
+secured: "4C0UcKG3ByiHQC1Lva2GrT2k5b5nyvhtInPOwQh61atEvkDVB/t6fdZt+LVhWUks/exOeSaDixQa8YQuF17242rITct+Ya0GIggriyk0z1I93F05Sd6nfkr5+l76teqbJnMWYRhLoOxtuvkIFbSNCsKxdCUlANaME6fpNC8OjUWcGuA/22+qDeu1xpclPJxIQo58XVFe/E50P+ld9P/sSJqybCooRG6ZHntgvUMzF1MUAYIhjOrpGvtIqEI8g45y/g8mnhe+ggNoSbChNC6V1BD8vMib305vxwMqVx0+SC/aN9YFMsp3KyhwtFS0kGrkTYSMNz/4VYD3D7+CR3j7zCJI+XjS1PJ4HA+XbQYEp9moSifKu2fHiFg8nDJlUqlF6KVPBt2/j7XvZq3GtViMTcP2/n61KOJdbgoGbVc6nVshWsz9dyIlM2nHrK+Y1LVC49bjXw4iLxdxeiv+DD6pT/4PCL/VqPwAp1uznYKEzkpmHb3WNRIcYecXJ+2eMGf5CmbgrCPk6KiJsVz+P5uR+g==;mkzNYYLzhdqfIH+MpditMw=="
 ---
 

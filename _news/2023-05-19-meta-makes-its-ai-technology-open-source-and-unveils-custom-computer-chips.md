@@ -25,120 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Meta bets big on AI with custom chips — and a supercomputer"
-    excerpt: "Meta wants the world -- and particularly investors -- to know it's going big or going home where it concerns AI and the hardware to build it."
-    publishedDateTime: 2023-05-18T23:35:00Z
-    webUrl: "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/"
-    ampWebUrl: "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/"
+  - title: "Meta pulls the curtain back on its AI chips for the first time"
+    excerpt: "Meta has built custom computer chips to help with its artificial intelligence and video-processing tasks and is talking about them in public for the first time."
+    publishedDateTime: 2023-05-19T08:50:00Z
+    webUrl: "https://thewest.com.au/business/cnbc/meta-pulls-the-curtain-back-on-its-ai-chips-for-the-first-time-c-10705053"
+    ampWebUrl: "https://thewest.com.au/business/cnbc/meta-pulls-the-curtain-back-on-its-ai-chips-for-the-first-time-c-10705053.amp"
+    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/business/cnbc/meta-pulls-the-curtain-back-on-its-ai-chips-for-the-first-time-c-10705053.amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 106
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-twist.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Nvidia Has Gone Big Into AI. Its Chips Will Now Power Supercomputers."
-    excerpt: "Nvidia said a new supercomputer will be based on its Grace CPU Superchip, marking a push into an area dominated by Intel and AMD."
-    publishedDateTime: 2023-05-22T10:16:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
+      name: The West Australian
+      domain: thewest.com.au
     quality: 74
     images:
-      - url: "https://images.barrons.com/im-392288/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Nvidia Stock Has Risen on AI Chips. Why It’s Taking on Intel, AMD in Supercomputers."
-    excerpt: "Nvidia said a new supercomputer will be based on its Grace CPU Superchip, marking a push into an area dominated by Intel and AMD."
-    publishedDateTime: 2023-05-22T10:03:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-ai-intel-amd-chips-534a258b?refsec=markets"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 67
-    images:
-      - url: "https://images.barrons.com/im-392288/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Meta is all in on AI as new chip & supercomputer are in development"
-    excerpt: "Meta, formerly Facebook, has pivoted hard into AI from the metaverse. The company now plans to develop its own chips and supercomputer for AI research."
-    publishedDateTime: 2023-05-19T14:23:00Z
-    webUrl: "https://www.dexerto.com/tech/meta-is-all-in-on-ai-as-new-chip-supercomputer-are-in-development-2150770/"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 56
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/19/Firefly-an-ai-with-interconnected-neurons-that-is-in-a-server-room-blurred-in-the-background-and-has.jpg"
-        width: 1792
-        height: 1024
-        isCached: true
-  - title: "Meta AI plans: Optimised data centres, supercomputers and custom chips"
-    excerpt: "The RSC was unveiled in 2021. Meta has shared details of ambitious plans for AI advancements, including a custom chip for running AI models, further tweaks of a supercomputer for AI research and an AI-optimised data centre design. In a blogpost published ..."
-    publishedDateTime: 2023-05-19T16:19:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/meta-ai-supercomputers-data-centres-custom-ai-models-chips"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/05/AdobeStock_465855287_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Meta Unveils AI Chips"
-    excerpt: "Meta (NASDAQ:META) has built custom computer chips to help with its artificial intelligence and video-processing tasks and is talking about them in public for the first time. The social networking giant disclosed its internal silicon chip projects"
-    publishedDateTime: 2023-05-19T13:58:00Z
-    webUrl: "https://www.baystreet.ca/techinsider/3620/Meta-Unveils-AI-Chips"
-    type: article
-    provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 54
-    images:
-      - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/facebook.jpg"
-        width: 845
-        height: 396
-        isCached: true
-  - title: "Meta working on new chip for AI"
-    excerpt: "In addition, Meta has introduced its first in-house ASIC solution, MSVP, designed to power constantly growing video workloads. The company has also touted the Research SuperCluster (RSC) AI Supercomputer, which features 16,000 GPUs and is built to power new augmented reality tools, content management systems, and real-time translation technology."
-    publishedDateTime: 2023-05-19T08:31:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/meta-working-on-new-chip-for-ai/article66869305.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/meta-working-on-new-chip-for-ai/article66869305.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/meta-working-on-new-chip-for-ai/article66869305.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 54
-  - title: "Meta starting to built its own AI chips"
-    excerpt: "Meta Training and Inference Accelerator can't play Crystalis yetMeta is building its first custom chip specifically for running AI models.  CEO Mark Zuckerberg recently said the company sees \"an opportunity to introduce AI agents to billions of people in ways that will be useful"
-    publishedDateTime: 2023-05-22T08:50:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56933-meta-starting-to-built-its-own-ai-chips"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/01d655324d8449f7185ac6f82d5472e9_L.jpg"
-        width: 620
-        height: 465
+      - url: "https://images.thewest.com.au/publication/C-10705053/6679a2fc0058767d38616fae15aa790db92ea8bd-16x9-x0y0w1280h720.jpg?imwidth=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "1BC0mYf/PQBNYYfa8Q8sZLlFvx4/rO4F6bMOo7cPFJ9zbQ4MPlmhT0M6r4tGm79v9nxjsccza/CKxlc1uGjoZMvqTYc604Vis+Hm0vw+c/IKKCXp+IU7fnzT/IO90WVVHD5grKeW+eGJQHUGGPld2vY/OIzqC/oDu/uayvOrD5udvKwfDd8aiXcR9jtqThCOV7s+K8G8LIhQ1bk6AF1tS7g+oKsvJ8ZK6qDEP7nI6IqokMV93z3NRB1cYHxgN6NZ4VhTpSDLYIuUBhk/Em0kuW33F3tHpYDwh3Q0ZaWyLQ/TQuJBmwJiFxRXjZW/iMcB54sNRNBHbe+mDuvQSLtBoWwsBRyJkNVerdRm4zmGZO4=;M7skY83XRxFSYzEyE/UZKQ=="

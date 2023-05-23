@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxbusiness.com/technology/bill-gates-says-best-ai-agent
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites.amp"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Fox Business
@@ -35,6 +35,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 45
+  - title: "Bill Gates Says AI Is Poised to Destroy Search Engines and Amazon"
+    excerpt: "Bill Gates is warning that AI assistants could soon make Google Search and Amazon obsolete by altering the behaviors of users online."
+    publishedDateTime: 2023-05-23T17:44:00Z
+    webUrl: "https://futurism.com/the-byte/bill-gates-ai-poised-destroy-search-engines-amazon"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 37
+    images:
+      - url: "https://wp-assets.futurism.com/2023/05/bill-gates-ai-poised-destroy-search-engines-amazon.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "NUIUdPOa+L8GQ9YMlwvRyMG+58ZX3SPueiX30tG8GVdaod+Mp2lHLCs9qf/fIsSqgbCo6TG5U8T9Rgyq7p0Fo7qIwNUhFv90orjLhkQulZFcEiDzfp7EjEF0qazuM2H+IoIuVGZi30D2X9ZmqPJ/A8LvnY19MVBEIB57shwI/89i23ddU2IAwUOQbiiiM8ZAAujS1xyES/AOHlp89obcehwGT+d2MgJDZ3F+WRJEU9eZWcluIYRxJnfKu0KeyD/gIe8BRUKuEo1Fdvns/GokO5U1f+hGxFDzaKj44A7G3iVk1uBm+g/8YJXN9cZOPkwM9ogw3S9siEUSukbtY+fzaPEqazcY7RdvuX1FLMtKMAk6xrQAEp4oy/Ao2g6saY884HdDregCB9Kwl7v59Kt8bo96TsFvKU29SfNSLveXRDaZUhoagzUGninEDOjFDS67QqNilKflfb5EWi6N32I4Smsm0EDIllTzOzeARX0XzyaZynllwdshZSiDhXjviuq31YdDkt8rhQTQZnCfHy2Fww==;NKmmSdOcNb/K9We5ffk6Dw=="
 ---

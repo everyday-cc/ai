@@ -8,8 +8,8 @@ webUrl: "https://www.govtech.com/artificial-intelligence/is-san-francisco-the-be
 ampWebUrl: "https://www.govtech.com/artificial-intelligence/is-san-francisco-the-best-place-to-start-an-ai-company?_amp=true"
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/is-san-francisco-the-best-place-to-start-an-ai-company?_amp=true"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://erepublic.brightspotcdn.com/dims4/default/7e05d6c/2147483647/strip/true/crop/770x402+0+56/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F47%2F92%2Fe2eabc450aff69c84fd8a36a48ea%2Fsan-francisco.jpg"
@@ -43,6 +44,6 @@ related:
         height: 320
         isCached: true
 
-secured: "u/wm4c/H0xVPnCCN6PUW7Szj3NzXuu/V7JD4KflSTN4DTFugF8FnVfEGBLWmQZpeu6OXkoph0KQUbjq6OOpvJ3cL4VUF9Q9rkuY9U6nEtqImYCm0JTMKErxMnGDRFBrJPK4RQRLKNB4W93rs14uK0985Uuuy0i1KzP6wMo3Ipm127FZ78vsMPT2DaxDJTtCV8yDQ41fdozF0JlHTyz8EXj9xX1cGJZLSa6cpELwl+IdCd2uikCiAj5fPH2ydpHUINjnIS3vAZMP0fMfbYlH/8F5vdDvyPzKCbzNAH7bec/TuMCx6Qp27y1NiOdDH0aFLDbdNi/sLUAC4A4p29ppMmRkYwIUYFmCmSP8EZ+gwuSs=;+k0g7VvfVWlzzL+VHkBk/Q=="
+secured: "oYzgjKIAvt9QUFpFGs3pFRja8Q3ojUZjpPI84w0EhppUB/n8YkOajJEjebKrZ0yjexMOtsIvROcgdnJ+pwgEp8pA6u+d7K4AZmGTob0QkEguxRuveUAGzLou20VY1H7BWojkpkGLZYx4NBvXbpdKssFQqBNZvUm9qOIJZnqCGmcDIGZjKObmtYVbiyLIMohzwCgxFpcsVnl1Kvezi3cASDGiH1SaakXhISWAYrs6ugXK75B6r3rQa9CjPCH3O0mWnkzVKwxl3OeWZ/casEsbtC3hqB671rUtqyOmK3y0zXzDXVrKmbRIXBRJV62OVlZxXrkfWk34OxAsbOPp3qDMlcVZ+qdMEsPiOD+ilVLDax0cm4vmiX4Ydx8juKv0VynqPZB2vYeeZgYGbxI/TpGVv/v8MkaFnT6ho46lVZZmrBirNY6CJzye7vIQX7iuVnQvs3V1d0c/Guq+8qRz/ya6omBwZduSfZ8LJ7KdElLM9jBfSFGxdJYMmGdWOSiEdIMDleIxcyyUcmspSBBj73rl8A==;mJGKkM/9lTqOLl3eEEEAVA=="
 ---
 

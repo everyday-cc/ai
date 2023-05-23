@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "AI Is The Future Of Gaming And Nvidia’s New RTX 4060 Optimizes For It"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead explains the value Nvidia has created with its AI-driven RTX 40 series and how he sees these GPUs more as AI gaming cards."
+    publishedDateTime: 2023-05-23T16:47:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/23/ai-is-the-future-of-gaming-and-nvidias-new-rtx-4060-optimizes-for-it/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/23/ai-is-the-future-of-gaming-and-nvidias-new-rtx-4060-optimizes-for-it/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/23/ai-is-the-future-of-gaming-and-nvidias-new-rtx-4060-optimizes-for-it/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646ced51ac423e0c238e4345/0x0.jpg?format=jpg&width=1200"
+        width: 566
+        height: 360
+        isCached: true
   - title: "The AI Race Is Gathering Steam. What Will It Mean For Nvidia’s Earnings?"
     excerpt: "NVDA) is poised to report its Q1 FY’24 earnings around May 24, reporting on a quarter that is likely to have seen the company’s revenues continue to decline, amid a"
     publishedDateTime: 2023-05-22T08:59:00Z
@@ -39,35 +55,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Nvidia Stock: Increasing AI GPU Demand Points to Strong Earnings"
-    excerpt: "Going by recent conversations with component suppliers in the chip giant’s supply chain, Truist analyst William Stein thinks investors are in for a pleasant surprise. “We have recently learned of an uptick in demand for AI GPUs,” notes the 5-star ..."
-    publishedDateTime: 2023-05-21T16:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-increasing-ai-gpu-demand-points-to-strong-earnings-1032341254"
+  - title: "Nvidia to face shortages after a boom in GPU demand for its AI"
+    excerpt: "Nvidia is seeing a bump in GPU sales in the market over its AI capabilities. However, while this is great news for its GPU business, it would also have the company face stock shortages till the end of this year."
+    publishedDateTime: 2023-05-23T08:59:00Z
+    webUrl: "https://www.gizmochina.com/2023/05/23/nvidia-shortages-after-gpu-boom/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Gizmochina
+      domain: gizmochina.com
     quality: 84
     images:
-      - url: "https://blog.tipranks.com/wp-content/uploads/2023/05/image-602-1024x518.png?utm_source=markets.businessinsider.com&utm_medium=referral"
-        width: 1024
-        height: 518
-        isCached: true
-  - title: "Nvidia’s stock has more than doubled this year. Can earnings justify the AI hype?"
-    excerpt: "Read: Nvidia CEO expects AI revenue to grow from ‘tiny ... voiced some concerns about Nvidia’s ability to build enough product and demand for gaming chips but still said he’s looking for a beat-and-raise quarter. “While supply is likely to limit ..."
-    publishedDateTime: 2023-05-22T20:58:00Z
-    webUrl: "https://www.marketwatch.com/story/nvidia-stock-has-more-than-doubled-this-year-can-earnings-justify-the-ai-hype-4b7ce2?mod=family-finances"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-stock-has-more-than-doubled-this-year-can-earnings-justify-the-ai-hype-4b7ce2"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-stock-has-more-than-doubled-this-year-can-earnings-justify-the-ai-hype-4b7ce2"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://images.mktw.net/im-608401/social"
-        width: 1280
-        height: 640
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/05/NVIDIA-Hopper-GPU-_3-g-low_res-scale-2_00x-768x723-1.png"
+        width: 768
+        height: 723
         isCached: true
   - title: "NVIDIA, AMD, and Micron are in the Forefront in the Chip Sector Higher with AI"
     excerpt: "NVIDIA, AMD, and Micron are experiencing significant growth in the chip sector, driven by their emphasis on AI and targeting the Japanese market."
@@ -99,6 +99,29 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Why AI Is The Future Of Offshore Oil Drilling"
+    excerpt: "But this is not Shell’s first foray into AI tech. Back in 2018, the company partnered with Microsoft to incorporate the Azure C3 Internet of Things platform in its offshore operations. The platform uses AI to drive efficiencies across the company’s ..."
+    publishedDateTime: 2023-05-21T23:03:00Z
+    webUrl: "https://oilprice.com/Energy/Crude-Oil/Why-AI-Is-The-Future-Of-Offshore-Oil-Drilling.html"
+    type: article
+    provider:
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 39
+    images:
+      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-05-19_chqonzsu0y.jpg"
+        width: 718
+        height: 300
+        isCached: true
+  - title: "NVIDIA's massive RTX 4060 GPU giveaway comes with hints of overcompensation"
+    excerpt: "So, gamers get the chance to win 170 GPUs (plus a couple of monitors and GPU backplates), which are mostly GeForce RTX 4060s - 164 of them. There's also an RTX 4060 Ti Founders Edition up for grabs, and a pair of NVIDIA's own RTX 4080 and 4090 graphics cards. Oh, and a GeForce RTX Garage 4090 build, a gaming PC worth a cool $7,500."
+    publishedDateTime: 2023-05-19T13:35:00Z
+    webUrl: "https://www.tweaktown.com/news/91535/nvidias-massive-rtx-4060-gpu-giveaway-comes-with-hints-of-overcompensation/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 17
 
 secured: "P47YlbxhPGTYPLWBwP4sNdthNVOo+owvbDdf8AEYu6Y+1mVUkwCxFA7odYa2Y9QcHkL5akFbANXG7Z8k2NBMruEelDqloWelEA2s7nB7jSYRfIh+ojGx20WVSMDdtiEXwmY/DpL8Hf+RLQ498JZ2tWBmaSkr1lsc95QzX6grx8EvlKWfLb8EeHxeWDmKfTZROHNbP4WgERFphaunw2q2wn3a/s9Tsk5eM9ucjixSz1pA5OQ+MlZk7VSZmTMlsh/UsRsBPB/CVaYwMbgFPOLAey95KtcBXqMDjD87mmuUR9hfzv4DCtI9gukRbJ7oloaiYZC3b+zhv/iWaSMI2QEFZ5SJr0Z4CN1+gLEPaDx32Ug=;2FT52oLt6Pw01r7YQIX4/g=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/red-hat-unveils-ansible-lightspeed-to-e
 webUrl: "https://venturebeat.com/ai/red-hat-unveils-ansible-lightspeed-to-empower-ai-driven-it-automation/"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: VentureBeat
@@ -38,6 +38,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Red Hat gives Ansible a generative AI front end and adds stream processing features"
+    excerpt: "Ansible Lightspeed with IBM Watson Code Assistant keys off the industry’s current fascination with generative AI sparked by the success of OpenAI LP’s ChatGPT large language model. These models enable seemingly humanlike responses to queries,"
+    publishedDateTime: 2023-05-23T13:00:00Z
+    webUrl: "https://siliconangle.com/2023/05/23/red-hat-gives-ansible-generative-ai-front-end-adds-stream-processing-features/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 15
 
 secured: "P6L1sayqToSMvGpgvh89sTREPJQ1qeJX+y+BuAGYa121RIPKc8IJAS93GKrLyDaZfUWDo+tnzO+xHQDud/QcvQGk4Fp7mV2zCXgyGPaO/vPRGtPbeJkwI6ay7kGyO7Ejm++puBXANWou3ZsJL4IfFtR//nLEltMeoK07EXJDIOiYLL/oSrae/VxZzl3u4Mlp3Tt0ttFx9fB8oHbnXr0j3AkvoRn9Yl2f9s5ndaLs9qfVff8WkmJrxU4C0XoVMw0GWKLkUOIUBWasNQ96+K2+Dfe+4HudoQJxFMEKbdtcxVQwPQkZVMmckuPimwVMEyP7DfmHdekX/EqNPPbehG20LlPzdR3r9N7epob2j19Fngd3g2Ab1gAr6wxr9PGtk2EDxpUkY0tDvW50h4fkmchUzJa5ZqIYQ8gglDs2i6+8SPQ15wmqPdjUpCAZPFQtK1LrY6p2PUSruIrNUupRQrN5XUfKnq0d8x4OwNLE56xra11zI3AiJO+AX94eeoBD3wIYa3NwwpiLHKdJXCYsXTrzgQ==;e0jPSTLloT4fLvKf1qesqA=="
 ---

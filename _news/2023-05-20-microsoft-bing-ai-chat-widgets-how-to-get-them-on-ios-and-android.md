@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-bing-ai-chat-widgets-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-bing-ai-chat-widgets-how-to-get-them-on-ios-and-android/"
 type: article
 quality: 104
-heat: 294
+heat: 334
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/124918cee0367daf40b45afa743a1fea317fabd5/2023/05/22/6b71b835-9922-4290-a876-7844a6eddf85/gettyimages-1238869000.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft pledges to watermark AI-generated images and videos"
+    excerpt: "Microsoft says that it will launch new media provenance capabilities for Designer and Bing Image creator to indicate whether images are AI-generated."
+    publishedDateTime: 2023-05-23T16:18:00Z
+    webUrl: "https://techcrunch.com/2023/05/23/microsoft-pledges-to-watermark-ai-generated-images-and-videos/"
+    ampWebUrl: "https://techcrunch.com/2023/05/23/microsoft-pledges-to-watermark-ai-generated-images-and-videos/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/microsoft-pledges-to-watermark-ai-generated-images-and-videos/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1238869000.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Twitter accuses Microsoft of misusing its data, foreshadowing a fight over AI"
     excerpt: "In a letter, a lawyer for Musk accused Microsoft of misusing the service’s data and demanded an audit from the software giant."
@@ -90,6 +106,20 @@ related:
     quality: 86
     images:
       - url: "https://sm.pcmag.com/t/pcmag_uk/news/n/nvidia-mic/nvidia-microsoft-open-the-door-to-running-ai-programs-on-win_3f5p.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft beats Google by integrating an AI assistant straight into its OS"
+    excerpt: "During Microsoft Build, the tech giant announced that Windows 11 will get a new feature called Windows Copilot."
+    publishedDateTime: 2023-05-23T17:11:00Z
+    webUrl: "https://www.androidauthority.com/windows-11-ai-copilot-3328189/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 82
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/05/Windows-Dev-Blog_Windows-Copilot-1024x576-1.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -158,6 +188,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft expands AI plugins and copilot ecosystem for developers"
+    excerpt: "At the same time the company revealed a host of new copilot tools, which are applications that use generative AI to help users with cognitive tasks, such as writing a sales pitch, taking notes or generating images."
+    publishedDateTime: 2023-05-23T15:00:00Z
+    webUrl: "https://siliconangle.com/2023/05/23/microsoft-expands-ai-plugins-copilot-ecosystem-developers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Hero-art-8c3e25f0-e8b1-484e-a1db-6a6782aa887c.jpg"
+        width: 1256
+        height: 584
+        isCached: true
   - title: "Microsoft is giving letting companies build their own AI bots"
     excerpt: "Microsoft , on Tuesday, announced a new service that will allow enterprises to build their own AI bots or copilots as the company calls them. Unveiled at Microsoft's annual Build"
     publishedDateTime: 2023-05-23T15:00:00Z
@@ -185,6 +229,20 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/microsoft-ai-over-human.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Google just revealed what its new generative AI ads will look like as it races to keep up with Microsoft and Amazon in the AI gold rush"
+    excerpt: "Google is bringing generative AI to its ad products. But major competitors like Amazon and Microsoft are also racing to release similar ad technology."
+    publishedDateTime: 2023-05-23T15:57:00Z
+    webUrl: "https://www.businessinsider.com/google-is-bringing-generative-ai-to-its-ad-products-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://i.insider.com/628bfdf7b9dbb40018cb53d5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Sapiens reaches agreement with Microsoft to leverage generative AI for insurers"
     excerpt: "Sapiens International Corporation has announced an agreement to integrate Microsoft Azure OpenAI and Azure Power Virtual Agents to provide generative AI"

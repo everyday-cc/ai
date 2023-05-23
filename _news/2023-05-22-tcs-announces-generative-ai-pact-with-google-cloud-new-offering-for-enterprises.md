@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Cohesity partners with Google Cloud to empower organizations with generative AI and data capabilities"
+    excerpt: "Cohesity will utilize Google’s recent advancements in AI technology to enhance its AI-ready data security and management platform."
+    publishedDateTime: 2023-05-23T17:38:00Z
+    webUrl: "https://venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/"
+    ampWebUrl: "https://venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1401124210-Thinkhubstudio-e1669658425465.jpg?w=1200&strip=all"
+        width: 1200
+        height: 606
+        isCached: true
   - title: "PaLM2 by Google for generative AI is new tool from creativity and innovation"
     excerpt: "PaLM2 is a new large language model (LLM) from Google AI. It is trained on a massive dataset of text and code, and can generate text, translate languages, write different kinds of creative content,"
     publishedDateTime: 2023-05-22T09:39:00Z
@@ -35,6 +51,20 @@ related:
         width: 414
         height: 364
         isCached: true
+  - title: "IBM doubles down on generative AI and hybrid cloud"
+    excerpt: "Given the hype around generative AI with the public preview of ChatGPT and the central role of Red Hat’s OpenShift as IBM’s platform modernization strategy, the choice of those themes was not surprising."
+    publishedDateTime: 2023-05-23T13:27:00Z
+    webUrl: "https://siliconangle.com/2023/05/23/ibm-doubles-generative-ai-hybrid-cloud/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/watsonx.jpeg"
+        width: 1194
+        height: 875
+        isCached: true
   - title: "TCS Expands Partnership With Google Cloud, Launches Generative AI"
     excerpt: "Tata Consultancy Services on Wednesday (22 May) announced an expanded partnership with Google Cloud and the launch of its new offering, TCS Generative AI which leverages Google Cloud’s generative AI services,"
     publishedDateTime: 2023-05-23T03:23:00Z
@@ -49,38 +79,29 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial intelligence innovation: Leading companies in road slope estimation for the automotive industry"
-    excerpt: "Porsche Automobil is a key player in the road slope estimation innovation area. The company’s road slope estimation technology uses GPS and standard vehicle sensors for estimation of road slope. Hyundai, Kia, Toyota and Nissan are some of the other key players."
-    publishedDateTime: 2023-05-22T09:56:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-road-slope-estimation-automotive/"
+  - title: "Pega Announces Pega GenAI to Infuse Generative AI Capabilities in Pega Infinity '23"
+    excerpt: "(NASDAQ: PEGA), the low-code platform provider empowering the world's leading enterprises to Build for Change®, today announced Pega GenAI ™ – a set of 20 new generative AI-powered boosters to be integrated across Pega Infinity ™ '23,"
+    publishedDateTime: 2023-05-23T17:55:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/23/9819294.htm"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 21
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
     images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/05/Artificial-intelligence_Road-slope-estimation.jpg"
-        width: 1440
-        height: 810
+      - url: "https://mma.prnewswire.com/media/2082623/Pega_GenAI.jpg"
+        width: 400
+        height: 290
         isCached: true
-  - title: "Red Hat gives Ansible a generative AI front end and adds stream processing features"
-    excerpt: "Ansible Lightspeed with IBM Watson Code Assistant keys off the industry’s current fascination with generative AI sparked by the success of OpenAI LP’s ChatGPT large language model. These models enable seemingly humanlike responses to queries,"
-    publishedDateTime: 2023-05-23T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/05/23/red-hat-gives-ansible-generative-ai-front-end-adds-stream-processing-features/"
+  - title: "Cohesity Turing aims AI tools at backup and ransomware"
+    excerpt: "Backup supplier continues to enrich its ecosystem with more artificial intelligence (AI) for backup and ransomware, with chat-like reporting functions and new security partners in its alliance."
+    publishedDateTime: 2023-05-23T09:00:00Z
+    webUrl: "https://www.computerweekly.com/news/366538115/Cohesity-Turing-aims-AI-tools-at-backup-and-ransomware"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 15
-  - title: "Content Automation & AI: Creative Production Insights from the Localisation Industry"
-    excerpt: "Little Black Book, Locaria's Lindsay Hong on how creative production should embrace automation, following the transformative example of machine translation and AI in the language services sector"
-    publishedDateTime: 2023-05-19T11:32:00Z
-    webUrl: "https://www.lbbonline.com/news/content-automation-ai-creative-production-insights-from-the-localisation-industry"
-    type: article
-    provider:
-      name: lbbonline
-      domain: lbbonline.com
-    quality: 12
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 19
 
 secured: "YmN4DxRl9NJm7cAzCLcFZztomH3Pf4S0yfvoes57gEJkYUyZz3KROe2Lm+0u9T3vPoQF/dqYluaqQjyeDI0jgF84j/OQ0Shg9VDsGdO1IzowscPMbzt1kNEtRxNia7NdBTal/nkY2m313gXkK1Zi5UD1m6kDrLNWF+ETq9BlLpthVmI3xrx1Ha/yYqi4xY0uQKETbeHLhdSQv6FgAI4Z4w6mZwf76cpgIEEJ+txah27oAXiQHAJza18gWyt08KcMZo77uyMpfxtgBN+kkZaLV2cDA43SRP8jQfwJ9PtaBo/gN7yMnxfoldslcalfEcvVtRBYXZqb+5DCcc3kO9GiZ5/5nvlL/pPDNw7NscO3zIw=;fV/0ZocBAtfeg4uu1NAMRA=="
 ---

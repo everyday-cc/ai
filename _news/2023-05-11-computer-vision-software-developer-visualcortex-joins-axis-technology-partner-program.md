@@ -1,17 +1,15 @@
 ---
 category: news
 title: "Computer Vision software developer VisualCortex joins Axis Technology Partner Program"
-excerpt: "VisualCortex joins Axis Technology Integration Partner Program to deliver computer vision software and video analytics solutions to Axis Communications' global network of customers and partners ..."
-publishedDateTime: 2023-05-11T04:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/05/n32332541/computer-vision-software-developer-visualcortex-joins-axis-technology-partner-program"
-webUrl: "https://www.benzinga.com/pressreleases/23/05/n32332541/computer-vision-software-developer-visualcortex-joins-axis-technology-partner-program"
-ampWebUrl: "https://www.benzinga.com/amp/content/32332541"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32332541"
+excerpt: "VisualCortex joins Axis Technology Integration Partner Program to deliver computer vision software and video analytics solutions to Axis Communications' global network of customers and partners across 50 countries SYDNEY and LUND,"
+publishedDateTime: 2023-05-11T05:35:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-computer-vision-software-developer-visualcortex-joins-axis-technology-/2023/05/11/9812159.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-computer-vision-software-developer-visualcortex-joins-axis-technology-/2023/05/11/9812159.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
@@ -23,6 +21,6 @@ images:
     height: 225
     isCached: true
 
-secured: "K5xdrnIXzlr7g9wgiyL53Qnz7euawaWVAM9C0HymV0RYrFWehke4fn+3j8X44jJg5hMFDcsB3psnLVcb72UKx05EBc4ymjwPInpITgobZ/Jn0bxBTnAjcv3iHGB2c38sbK2Ne6Vz2OcIfa9X49lcmq2TG508sCJC3aoyDQ/wWMerwtE4OmSCEZnd8lQynrx55ijl8v18MPaxxU6N0SrQpAB945+37wKdmHnIJM/rNd8kAgpqXV96oPelf1TbxdT8Me+FjOnpfnaQVXJKF96GNwhaHDoMmgJuuASCgCA3WG3lGzJ+obg1aU9ArnxvkPXLBx/DkeM/CgxkEoXIp/SlHRnCUfu+0/I7wjjJely7gr4=;WNsxAGViYP4cKbw4HMYVZQ=="
+secured: "BpHyPIzUzUzc72dgVjWBFJYVgZQS4KAVb9ofk2oDYYwXVToKmGLpE+UEeuEFZzVwuHbKZd5zjmBw60qzrhqIhsmRQtj6AUNl1kZd0A+JGLiVnh0877MggtVkOjzAWX3DeqrsKvaQby262RefMM3/sLB13cFe+F1KwQHNHz9M1dyAFladqR/dVF0YSokDnYNb4ehKq+8KtKaeZiK/Wcsbucd1JeQNGEiEZ3QY4TgZOYIw0s9zRlrWCxzJYTJ95O2o7vFbfMb8GZX2voMEFs3Hl4w2ZjUHLhx2mywmV2nWp0zxCfATQwuD58Jvn2URsBvIYbNKzIEglVXg5zU2W3dAE9sBTykYdWh3j+92whRw2XY=;rXKmiwdnHWAT+JHKW1Q5QQ=="
 ---
 

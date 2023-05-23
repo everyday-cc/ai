@@ -66,6 +66,20 @@ related:
         width: 1920
         height: 1440
         isCached: true
+  - title: "Meta is all in on AI as new chip & supercomputer are in development"
+    excerpt: "Meta, formerly Facebook, has pivoted hard into AI from the metaverse. The company now plans to develop its own chips and supercomputer for AI research."
+    publishedDateTime: 2023-05-19T14:23:00Z
+    webUrl: "https://www.dexerto.com/tech/meta-is-all-in-on-ai-as-new-chip-supercomputer-are-in-development-2150770/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 56
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/19/Firefly-an-ai-with-interconnected-neurons-that-is-in-a-server-room-blurred-in-the-background-and-has.jpg"
+        width: 1792
+        height: 1024
+        isCached: true
   - title: "Infineon announces two EU-wide research projects for GaN and AI developments"
     excerpt: "According to Infineon, the research extends from individual chip elements, high-performance GaN modules ... to Sustainability and Industry 5.0), is being conducted on smart AI technologies for resource-efficient manufacturing in Europe, pooling together ..."
     publishedDateTime: 2023-05-23T03:23:00Z

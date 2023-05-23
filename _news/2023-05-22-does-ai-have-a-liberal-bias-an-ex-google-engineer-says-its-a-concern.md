@@ -1,31 +1,31 @@
 ---
 category: news
 title: "Does AI have a liberal bias? An ex-Google engineer says it's a concern"
-excerpt: "Little did he realize that he would one day find himself in the middle of the debate over artificial intelligence and its potential dangers. Lemoine, 41, was one of the first to speak out about ethics concerns surrounding artificial intelligence chatbots ..."
-publishedDateTime: 2023-05-22T12:26:00Z
-originalUrl: "https://www.nola.com/news/ex-google-engineer-blake-lemoine-on-bias-in-ai-chatbots/article_bf55f4cd-f411-5d05-8489-5cbf4b3620f8.html"
-webUrl: "https://www.nola.com/news/ex-google-engineer-blake-lemoine-on-bias-in-ai-chatbots/article_bf55f4cd-f411-5d05-8489-5cbf4b3620f8.html"
-ampWebUrl: "https://www.nola.com/news/ex-google-engineer-blake-lemoine-on-bias-in-ai-chatbots/article_bf55f4cd-f411-5d05-8489-5cbf4b3620f8.amp.html"
-cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/ex-google-engineer-blake-lemoine-on-bias-in-ai-chatbots/article_bf55f4cd-f411-5d05-8489-5cbf4b3620f8.amp.html"
+excerpt: "When Louisiana native Blake Lemoine began working at Google, his work focused on making Google Search better for users."
+publishedDateTime: 2023-05-22T08:59:00Z
+originalUrl: "https://www.theadvocate.com/acadiana/news/ex-google-engineer-blake-lemoine-on-bias-in-ai-chatbots/article_e8607fb2-f653-11ed-a29e-9fa54845c907.html"
+webUrl: "https://www.theadvocate.com/acadiana/news/ex-google-engineer-blake-lemoine-on-bias-in-ai-chatbots/article_e8607fb2-f653-11ed-a29e-9fa54845c907.html"
+ampWebUrl: "https://www.theadvocate.com/acadiana/news/ex-google-engineer-blake-lemoine-on-bias-in-ai-chatbots/article_e8607fb2-f653-11ed-a29e-9fa54845c907.amp.html"
+cdnAmpWebUrl: "https://www-theadvocate-com.cdn.ampproject.org/c/s/www.theadvocate.com/acadiana/news/ex-google-engineer-blake-lemoine-on-bias-in-ai-chatbots/article_e8607fb2-f653-11ed-a29e-9fa54845c907.amp.html"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: NOLA.com
-  domain: nola.com
+  name: The Advocate
+  domain: theadvocate.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/f/2e/f2e5c3ba-003a-5dc3-bda9-62fd732139af/646b5dfd2b9b2.image.jpg?resize=1024%2C1366"
+  - url: "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/d/c2/dc2ad96a-4cb8-59af-a323-b2f7f2e14929/6467902c78cc9.image.jpg?resize=1024%2C1366"
     width: 1024
     height: 1366
     isCached: true
 
-secured: "yQ8SbOyNTcs8CIz/eHIygpXqyEVj0oynye8wW8Ml/c19rgXN83AJh1sAL8Z2FLvuFolzNZC5iorYquLRFq/ke0cCETBa7G0h8g5u2cPg2DWTVX3vrUOx2kqnZIsa9AL462o7r75WkKWj7TKB1xgEZh07eb7QhxdRjD6XgkxRyy7bCS775j6J3qhNdKi12awfcjLUSTiHnYp8EQK7Mh4YBM43rzScYnSsIvd8FrVxKeN9HseoZPkOYZSE61yfBI43hiY+0xNJfj0b3cXfIrUDEW6A8PuMO2PMrz3mJWgcAkOl8hQa615SdnXC4JJT1LWmLpE98tiEsQbvVSHtvY04LScIkqEBKzTxDtRAkkbQCuJ9ictnPSTHxFIa6fKaY0XH9kXGd2qeDBKwJlJPKcp0rsjFPhEQsDjgxClsdBYJK3kGOaONPvCUukDA0hI8QJyEBH358WUcXDuBH5eX5Uamgg265DhHaU2/hh/t14w/48f3CG1VsFg4TWUirOeSoLmGgIRrFRf+A4Ay5KvIQf+V9A==;Vgkgloo5hLV1t6Sj6Jofjw=="
+secured: "jl4lnFgE00avJ2Ud7s+1wIPxTWOgI4/NIcCOUmfI7a3hUvJ0Y+/b6VLE/GelPdsZq/xFiwtPBjJKcxH4MCPA2rUH7GI3EcgaCOnQmlaawGGrTIF1iJpsYAudccNYAukoN+hSIc1qewdYUXduKXK6aY45jp6cb8+rzq3thXuuJ6ZsMsbUbUbg9z0kDCXdZTSEhGW2ioc+bwvGK3NTapZ0aGapE6En+G0qgTV9b29X/LhO81ruuCZv+qiwjkFfZ4hrjTuRYgZvQz6jGVtqyefgAhu0HgMIMPLMQsx/X7BOE5OT/pjHmvRuAzkC/9NXTVbFtbXQEWw59mIeiBCZjFW8z6CQDegzE4ckESNBJUL07+A=;rCgd/pnCvVQN/kqi49UmyA=="
 ---
 

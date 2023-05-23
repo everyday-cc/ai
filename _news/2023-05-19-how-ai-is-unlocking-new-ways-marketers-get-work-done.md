@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/19/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/19/how-ai-is-unlocking-new-ways-marketers-get-work-done/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     width: 1200
     height: 502
     isCached: true
+
+related:
+  - title: "Meta working on new chip for AI"
+    excerpt: "In addition, Meta has introduced its first in-house ASIC solution, MSVP, designed to power constantly growing video workloads. The company has also touted the Research SuperCluster (RSC) AI Supercomputer, which features 16,000 GPUs and is built to power new augmented reality tools, content management systems, and real-time translation technology."
+    publishedDateTime: 2023-05-19T08:31:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/meta-working-on-new-chip-for-ai/article66869305.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/meta-working-on-new-chip-for-ai/article66869305.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/meta-working-on-new-chip-for-ai/article66869305.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 54
 
 secured: "/L0WRCwjghstCkTgtgN4R3mHHo8oKGNBFl+HKXNmx6t/sKqA2Eixwca++WAJVDXXFI5HiMWpLxg7on5KKfdhauQuvg0a5sMPW9CRFfSUcZjuVjQdB3fvsQTy3NAhlJAlGDC6YKDpoGJtLLVbeNDpPxZM/Ed5dCQRYVNGWCOgs8wspzPXBDbuZZwntbc31Qnj3oASMSaNnFvDapKagSQP57porWP7etXJaL4FCS1dePfYhwG6WX1hxQrGKyU+WIaIoFYiSYdQDiGh9VAV7MYg9uPxL5E8akzP2gpRX5xAlMhJDITF4dlThpyolVSpX2bUC+ZePXJmHvqX1EYO719hs3iWd0rM5JT92OcbBDpyShhQnH7QkkWnYH/iWPDdc5q8EpzPBOahdbGCH7ClK8C9FtakFeAmcjNEp6JytNeQF2mjgt7qPnfGUizzQx+i76PnoLc+2oghYr6v3SESvHeSOG+quFWYAecJK35/uUVgNJWLR2LbA8b+V0CYf4eNuYnVCmhT0AEjAqWyVTYlCdQmfw==;M0Z0+6YSEMczknROR2oBsQ=="
 ---

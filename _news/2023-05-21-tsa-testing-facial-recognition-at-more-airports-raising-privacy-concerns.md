@@ -1,47 +1,119 @@
 ---
 category: news
 title: "TSA testing facial recognition at more airports, raising privacy concerns"
-excerpt: "The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen. It’s all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country."
+excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"
 publishedDateTime: 2023-05-21T00:30:00Z
-originalUrl: "https://tulsaworld.com/eedition/page-a4/page_ec7d726c-513f-5e72-92a1-549cc4a8604f.html"
-webUrl: "https://tulsaworld.com/eedition/page-a4/page_ec7d726c-513f-5e72-92a1-549cc4a8604f.html"
+originalUrl: "https://omaha.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_afb8746e-ea8a-551c-bb05-26bfc9b02f28.html"
+webUrl: "https://omaha.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_afb8746e-ea8a-551c-bb05-26bfc9b02f28.html"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/eedition/e/c7/ec7d726c-513f-5e72-92a1-549cc4a8604f/64696e8c27c1c.fullsize-img.jpg"
-    width: 792
-    height: 1638
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/78/d7899d8f-cf01-52ab-acbe-16fe1f61c88c/64642a155739f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
-  - title: "Multan airport 4th in country to get Facial Recognition System"
-    excerpt: "The Multan International Airport has become the fourth in the country to have a functional Facial Recognition System, a Pakistan Civil Aviation Authority spokesperson confirmed Friday. The"
-    publishedDateTime: 2023-05-19T14:14:00Z
-    webUrl: "https://www.thenews.com.pk/latest/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system"
-    ampWebUrl: "https://www.thenews.com.pk/amp/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system"
-    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system"
+  - title: "TSA's facial recognition for air travel sparks privacy outrage"
+    excerpt: "The way the TSA uses facial recognition is by taking pictures of passengers and ... Get Kurt’s CyberGuy Newsletter, share your voice, a story idea or comment at CyberGuy.com. Get a daily look at what’s developing in science and technology throughout ..."
+    publishedDateTime: 2023-05-22T19:07:00Z
+    webUrl: "https://www.foxnews.com/tech/tsas-facial-recognition-air-travel-sparks-privacy-outrage"
     type: article
     provider:
-      name: The News International
-      domain: thenews.com.pk
-    quality: 76
+      name: Fox News
+      domain: foxnews.com
+    quality: 66
+  - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
+    excerpt: "BALTIMORE—A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through—all without having to hand over their identification to the TSA officer sitting behind the screen."
+    publishedDateTime: 2023-05-20T16:12:00Z
+    webUrl: "https://businessmirror.com.ph/2023/05/21/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 59
     images:
-      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-05-19/1071894_065954_updates.jpg"
-        width: 700
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2023/05/world01-052123.jpg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "TSA tries out facial recognition technology at 16 U.S. airports"
+    excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through -- all without having to hand over their identification to the TSA officer sitting behind the screen."
+    publishedDateTime: 2023-05-21T07:46:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 54
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204387909_1G2facial0521_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
         height: 400
         isCached: true
+  - title: "TSA’s Facial Recognition Raises New Concerns"
+    excerpt: "Passengers should get ready for more possible security upgrades in the future if TSA has its way. TSA is currently testing its new facial recognition technology at a number of airports throughout the U.S., identifying and verifying passengers by their ..."
+    publishedDateTime: 2023-05-22T00:00:00Z
+    webUrl: "https://www.travelpulse.com/News/Airlines-Airports/TSA-s-Facial-Recognition-Raises-New-Concerns"
+    type: article
+    provider:
+      name: TravelPulse
+      domain: travelpulse.com
+    quality: 54
+    images:
+      - url: "https://ik.imgkit.net/3vlqs5axxjf/MM-TP/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/dec34c0d-cb4e-a970-4f1f-a2f8968f57ad/source.jpg?tr=w-1200%2Cfo-auto"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "TSA tests facial recognition at more airports, raising concerns on privacy"
+    excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"
+    publishedDateTime: 2023-05-22T07:10:00Z
+    webUrl: "https://www.stltoday.com/tsa-tests-facial-recognition-at-more-airports-raising-concerns-on-privacy/article_105201df-9846-5ebb-b88a-64277b9fc900.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 52
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/b8/3b86fda3-16e1-56fb-944d-a3b12481b1fb/646b155acd51a.image.jpg?crop=887%2C466%2C0%2C63&resize=887%2C466&order=crop%2Cresize"
+        width: 887
+        height: 466
+        isCached: true
+  - title: "The TSA Is Testing Facial Recognition Technology to Help Streamline Airport Security"
+    excerpt: "In an effort to enhance and streamline airport security, the TSA has been quietly rolling out a facial recognition technology pilot program at airports across the country. Instead of handing an ID card or passport to a TSA officer who manually makes ..."
+    publishedDateTime: 2023-05-22T21:27:00Z
+    webUrl: "https://www.mensjournal.com/news/tsa-tests-facial-recognition"
+    type: article
+    provider:
+      name: Men's Journal
+      domain: mensjournal.com
+    quality: 44
+  - title: "TSA’s Facial Recognition Sparks Privacy Outrage"
+    excerpt: "TSA is currently testing its new facial recognition technology at a number of airports throughout the U.S., identifying and verifying passengers by their unique features. Some government officials are unhappy. They are worried about the risk to civil ..."
+    publishedDateTime: 2023-05-22T22:31:00Z
+    webUrl: "https://www.travelpulse.com/News/Airlines-Airports/TSA-s-Facial-Recognition-Sparks-Privacy-Outrage"
+    type: article
+    provider:
+      name: TravelPulse
+      domain: travelpulse.com
+    quality: 39
+    images:
+      - url: "https://ik.imgkit.net/3vlqs5axxjf/MM-TP/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/dec34c0d-cb4e-a970-4f1f-a2f8968f57ad/source.jpg?tr=w-1200%2Cfo-auto"
+        width: 1200
+        height: 900
+        isCached: true
 
-secured: "ijL28m8pYlrre3U332uratlNP6Mv55n1UasZB/RHXr1Q+BMlP94F6uTwpz9oHu3OHSRBJ/qDzafLOVLegl4+xvACSiA6JeFm9tTzPG2VW1P1R5mjlp6X5rRuqLfimQU0aNuIpCfVM9WVfmKPinbVicaWbTkmM2r4cq3VlYIfX37yxVCnk0jmj6VBjMFWqQTjxtMFmJ7yCPIPKH7zh6Ou9R44oU+ykTS1fJcU5Sp5733S6MrZx9bLqm6HDHNS6rLeEh/O+8wDtusiuWm6lS3C9kv16a744q6/JOhQ86Wg8hsvXwul3cpEe3Qmqy44w4m2Y6lnvtXSLjJJRGeTtMQdc0HqI5N0BOqQz5JpkwyxOqbK3eVsssXcRXYxvGJwr1iYXZovrcuhWUrPIJIzj5IjDzyn/D30gXDyvKRZlbtOWwWowUEvMXlJCPlpBmO6RaU7aZFP1QatL5b9r9EJHgUKl2yxz0JLbZxFitIUjaXsi9R901PiqMDA1xl+3BgjTJB585WGwwqSyNnzd7biKVNtQg==;Gg5tjtCwTFDq5H9Pq1kMDQ=="
+secured: "zOp1nUrK9WAyPYAjC6xwvxK7SqQVk+kcUX6BokkWOiHswLjRjBDk2QK1qyCjGs1YvekIjDUy8BkNMsIqXGwLp2wRe/dOq/9C3Oiv9Osnw7ElSc2UFGp4EumSxgVlhrHBzrhX57SHLtvKndc3uknE27iIOdWTEXqtTxdQfOzyD8GMoadnniWfzCgW904MYpUEl9oUM7XGN/AZ7oEjI2FySB6U6E9VJgAXx49lKO1ilvqYZkoJMnuNagXbFiOtetbqGMOZ7SUB1sbVGuoXomV5h+H2QAtmO902diemMSzXDy7aaWpDomSYDs+BE7Vd5RowHN+Kh8l5dl5kTtAG/m0CwNxu7GfeUavkFP8twQww1/c=;qw+8I6uM0f91qf/s13OPTA=="
 ---
 

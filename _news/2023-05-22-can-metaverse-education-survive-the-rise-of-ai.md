@@ -56,6 +56,48 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "Nvidia’s AI, Metaverse Investments Keep Business Humming After Crypto Mining Demand Withers"
+    excerpt: "In March, Nvidia announced an alliance with Microsoft MSFT -0.1% that focuses on bringing the industrial metaverse and AI to enterprises via cloud computing platform Azure. Upon the announcement, Nvidia CEO Jensen Huang reiterated that his goal was to to bring new AI, simulation and collaboration capabilities to every industry."
+    publishedDateTime: 2023-05-23T17:28:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2023/05/23/nvidias-ai-metaverse-investments-keep-business-humming-after-crypto-mining-demand-withers/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 59
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646cf73f94620200848e4343/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 899
+        isCached: true
+  - title: "Meta Unveils AI Chips"
+    excerpt: "Meta (NASDAQ:META) has built custom computer chips to help with its artificial intelligence and video-processing tasks and is talking about them in public for the first time. The social networking giant disclosed its internal silicon chip projects"
+    publishedDateTime: 2023-05-19T13:58:00Z
+    webUrl: "https://www.baystreet.ca/techinsider/3620/Meta-Unveils-AI-Chips"
+    type: article
+    provider:
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 54
+    images:
+      - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/facebook.jpg"
+        width: 845
+        height: 396
+        isCached: true
+  - title: "Meta starting to built its own AI chips"
+    excerpt: "Meta Training and Inference Accelerator can't play Crystalis yetMeta is building its first custom chip specifically for running AI models.  CEO Mark Zuckerberg recently said the company sees \"an opportunity to introduce AI agents to billions of people in ways that will be useful"
+    publishedDateTime: 2023-05-22T08:50:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/56933-meta-starting-to-built-its-own-ai-chips"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/01d655324d8449f7185ac6f82d5472e9_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
 secured: "aMpO3+gzVByD5DbzvCMnfqedTz75qYYIR9VX91aIxdhVWWM5zSkdwQjNU1zHA6m3KZ5Mhm8oMUELGA7ZdfOygjsUr6K71OsB9CdXUsp88gIpzgoBy4WkXBgb9c2798aQjzHrNZ3pknMXBhjB6NKsuPFwnMQUjbRL5Za+ooZOZnM+Q3Cew17/ZA2ysuLyKYcvLgdacf0FcfzUFiABJTJYL0cyfxO8gKRfhogkNJkJQ4tJWShUMMViR4R18oOT9nbO8WmF+YL0j9YCRfl1x2kWhvcowlMGVm8ROvUGiJHZmhIGonMaM0dMTJlyPoVnrygmcq4Wxt3vyMFKIPYcho82h9zfSZguek/ZIQ3K/SNl5aY=;0iaretAZ333p7yJIB4BPCw=="
 ---

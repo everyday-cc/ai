@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Supermicro Launches Industry's First NVIDIA HGX H100 8 and 4-GPU H100 Servers with Liquid Cooling -- Reduces Data Center Power Costs by Up to 40%"
-excerpt: "Liquid Cooled Large Scale AI Training Infrastructure Delivered as a Total Rack Integrated Solution to Accelerate Deployment, Increase Performance, and Reduce Total Cost to the Environment SAN JOSE, Calif."
-publishedDateTime: 2023-05-22T04:05:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/05/n32502037/supermicro-launches-industrys-first-nvidia-hgx-h100-8-and-4-gpu-h100-servers-with-liquid-cooling-r"
-webUrl: "https://www.benzinga.com/pressreleases/23/05/n32502037/supermicro-launches-industrys-first-nvidia-hgx-h100-8-and-4-gpu-h100-servers-with-liquid-cooling-r"
+excerpt: "Supermicro, Inc. (NASDAQ: SMCI), a Total IT Solution Provider for Cloud, AI/ML, Storage, and 5G/Edge, continues to expand its data center offerings with liquid cooled NVIDIA HGX H100 rack scale solutions."
+publishedDateTime: 2023-05-22T00:00:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/05/22/9818049.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/05/22/9818049.htm"
 type: article
-quality: 0
-heat: -1
+quality: 2
+heat: 2
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/2081911/Supermicro_AI_and_Liquid_Cooling_Solutions.jpg"
+    width: 400
+    height: 400
+    isCached: true
 
 related:
   - title: "Supermicro Launches Industry's First NVIDIA HGX H100 8 and 4-GPU H100 Servers with Liquid Cooling -- Reduces Data Center Power Costs by Up to 40%"
@@ -34,6 +40,6 @@ related:
         height: 400
         isCached: true
 
-secured: "H0BiW73FXxqxW34O7ajtgM9Fko4P+BqvLNgouQdpm7RvvBFYcTsDqlp5gjufT5EFPNAs7xQt6xTJLH/zaH16eKgy80WWSSEmLoTIatvLLG8/n8IxocYt55q1m0aIRQ5kjuHROle0CNcnkctjjNLbkdPMfyLdXOlg55dzRIjnfXv8bCMv9iLezcfpXs/iIJDX8s4iitleQ3J73XtD8P7p+y1AOlSWTq2YT2tGx0vLQyOxliUJ4p8gKGnc5DrhrMtoDJU+ZTwgBd9xI+AFbKvaLuzjR1qTsFlkuDR1fuNabyls9aG+lwJcHuuMoYop39Vogtmrq31dVud9lp/ZWBefo+e7uosGgXfUwpvVJLzdcV0=;uvC5ipinSGhjx7cdgweErw=="
+secured: "t9nLZTWF0OFEX1rLO09eFq9Lwb6dn+UbxK39HrUp88ujcAm4BQnvTszn+IsVKEg5CPo7EW5QBLeTnJzaLDj/vTrkXjNTEU2nCzdRnkc8jbgr+bRjMNTaMZu8LqnmDznyenghHqH4abTRyMXRnArUJRmchZNzr4bAjNuho1Tg1iyNzcPeGz9ZRbB7QFwpFAQiVBgKaOXoNGjRipaAVIlq6E0LmLZlagS155oR05YTAP3y0RQReyQ9cF9VHqcRX9IOZm53EtPbHJpraiK96rJI9lpIijJEteApQoufTYLQRUDaFom/PTLZ/NmDHakJw26IUxmBmfVwUm01DpgPyG9hT2c290RcjTxEo7t5SMqC3+w=;HTxJ3L1zc/85qrHrpLYBRA=="
 ---
 

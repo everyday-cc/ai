@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/boston-generative-ai-policy/"
 webUrl: "https://www.wired.com/story/boston-generative-ai-policy/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/2cfba84/2147483647/strip/true/crop/1679x875+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa6%2F8d%2F75d7c3b64a09b15bf3759f57b52d%2Fus-news-senate-ai-regulation-get.jpg"
         width: 840
         height: 438
-        isCached: true
-  - title: "IBM doubles down on generative AI and hybrid cloud"
-    excerpt: "Given the hype around generative AI with the public preview of ChatGPT and the central role of Red Hat’s OpenShift as IBM’s platform modernization strategy, the choice of those themes was not surprising."
-    publishedDateTime: 2023-05-23T13:27:00Z
-    webUrl: "https://siliconangle.com/2023/05/23/ibm-doubles-generative-ai-hybrid-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/watsonx.jpeg"
-        width: 1194
-        height: 875
         isCached: true
 
 secured: "i69WLdjaVtjEZGMFmxQzZL57/wH2vhfl+6Xglhjrfb+YPMlI/hlXnfc9rY187p27kAuhg8FPlQI7NUiTi+3BAy1h4YWRPP/lEy9XvoSXa5X9GgZkP0E6PdGuYXYP0G1Axb5vAFIWKwHD/WeS2zrETPxxZmufSRteemAetPhjyCarIanWgdjWiENLF/qIFQNq/1E0NZCVXrFMgO0XfbCUZcJWFVaxTzp4u26kwOgJYccwB4WT2DDp4IfzZrf4Xl0AZYkq069GpAR7Yjl1xAiLHfLNZcj0OBbDWz2Mz2h100YCAAMm3xTV1NNipToIClXFkWPvBsHARxH3e4SLZ4imcvof1ejnnD4ay5Q7NbFzrodkchh7OHcwClj3fjzbiVl0Rd6sO63couh/k1VwpliZ9rFV0IqBzKW/biXHhCbT3fYMcVNKEL4QjFjphmj7HaSplkuAKozdFc77wRN1RYHuuRTOlzKQMPyWtT8ycvMbXbVBYwy/ucxRCFhTtcZ/x6I4pmQXQ41RI+vmyKM5HDAtiQ==;W3gHb8CuVlzzTTM99u7C+w=="
