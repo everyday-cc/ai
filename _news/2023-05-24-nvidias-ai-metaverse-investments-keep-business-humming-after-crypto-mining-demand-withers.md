@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-23T17:28:00Z
 originalUrl: "https://www.forbes.com/sites/digital-assets/2023/05/23/nvidias-ai-metaverse-investments-keep-business-humming-after-crypto-mining-demand-withers/"
 webUrl: "https://www.forbes.com/sites/digital-assets/2023/05/23/nvidias-ai-metaverse-investments-keep-business-humming-after-crypto-mining-demand-withers/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/646cf73f94620200848e4343/0x0.jpg?format=jpg&width=1200"
@@ -102,6 +103,6 @@ related:
         height: 465
         isCached: true
 
-secured: "zH4IbFG0uSY34eJpOH8tcXSKGUs7s5+aH5sFy2T5HB7KbjpR5tBtlV4DQD67M80/meT80RLZp6xii90MxMApibDimsUGM5NbnBfTBWHYeJ9lKajTgKlQ+dp3ldm5DxjXbwo+hsxLm09IPtn76I4yfyJ26YN+fMJgZjUquWJoU/yNU3ANeeg1ED/l7NQImjmfv9odWZ0WKYhmuibO1iRJOfcnGr7mTis0E+2txH3z4HlrAGTbkBrbZLaOxZTXRw1BAXgk5Pwi2q10WKsLft0oxWELsZsYj2DBl4bKTUKtj/bETushFLIrqXZx7jcmdVId8cYHjTw2FhQljlwOHQvV4H6FYVztJFw4Kys0+1nsZCo=;qU5ECsZ0rRYqAuE9RZbTlg=="
+secured: "ZSrtjyNGJT4UfvjWQmrq/xxeUyp3AIASp3WBcFM4nGbx6KOGDi2yy6vX1XIV3TCoCqqRoVm+kRVMIF5T9n9zY5zRm/4qaTPamEp3ABRUVRCl1B1+TG8YRHlz4EmvGsLLO/f5YzhXRovAjd2BZJwdBhjfDRI0HtzurfjSWisZ+0Yq7EVQ5+uAMEXnWy/ibTdmqXYSLSf4BBGlpzJSKRFW/+QORBms/QJfZXX1gq9c3G7BDMgASPdwXlCzAgoGZm2p6SCAinMm+SRciDYizqjoyyc3X4gPXDXoBNQm9DbNpLfVRqYENERpGwrSNGQ72SWTlLzg0GIZ7YhJ4RSS/GkK9hSip1Lnq/eCu1O+tRuqVGZSmUNbSOREXdnX8PIEUmOshFOMBAvQKMNpXJcPdCe6XyIgyL/grIcd7E76P5kcQoDJKncvo1J5KWiQqdCDfi9GA+YaGl1u6AZjLuXHVxbtwWynwjzRjDZkEeSSKmK3lgAk1peFn3QWP4WCD1ISpDARlVCkufH5i24xRHB7+sAWTQ==;rJYD9D5SlrdB9Foj+61rDg=="
 ---
 

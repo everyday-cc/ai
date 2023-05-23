@@ -20,6 +20,17 @@ topics:
   - AI Ethics
   - AI
 
+related:
+  - title: "Pure Storage Helps MediaZen Master Demands of Unstructured Data and Accelerate AI Innovation"
+    excerpt: "Driven by operations in its NAMZ Language Engineering Research Institute and the Magok R&D Center, MediaZen is at the cutting edge of AI-enabled voice recognition technologies, with a goal to become the leading provider of AI services in South Korea."
+    publishedDateTime: 2023-05-23T18:17:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/23/9819312.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
+
 secured: "F0KLlqYWKnzVxOoWadqSy5LhPOJYrWnSpf/OJQU5ff+JLiQL16VNdUuFrdtZz55KrYBouNr/Cozcnl0uB4RzHmJwvAO0fet1hGhoswXnwde7Y/lQFiZhJgdQV2P04pVJiZD2ubIRI4sDC3lOoYx98PcfDINubzY9Xh3iuMJXs33H3jBraRKraG5OioWEC1yTl+mRE75dQ06qzQVmcouBJT/R8WFcerUe0TU8Afbq3YgPcXUjJxpGAsDtewLC1EtVm7i6bu3AHkyzRRizfeY9Cijfw0YE7WwU21yia3LL73TLb+CM77R4DA/4zvPVdvI8TXhU6OwBSOqmVFioW8VbmoWBlRTSYlPAhXUGVfpaIa4=;ytrkt4urNql/c8OiouvgHA=="
 ---
 

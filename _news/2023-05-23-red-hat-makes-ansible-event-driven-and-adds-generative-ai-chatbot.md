@@ -34,6 +34,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 51
+  - title: "Red Hat brings generative AI to IT automation with Ansible Lightspeed"
+    excerpt: "Red Hat is bringing generative AI to Ansible, teaming up with parent company IBM, to make it easier to build automations."
+    publishedDateTime: 2023-05-23T19:19:00Z
+    webUrl: "https://techcrunch.com/2023/05/23/red-hat-is-bringing-generative-ai-to-it-operations-with-ansible-lightspeed/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
   - title: "Red Hat gives Ansible a generative AI front end and adds stream processing features"
     excerpt: "Ansible Lightspeed with IBM Watson Code Assistant keys off the industry’s current fascination with generative AI sparked by the success of OpenAI LP’s ChatGPT large language model. These models enable seemingly humanlike responses to queries,"
     publishedDateTime: 2023-05-23T13:00:00Z

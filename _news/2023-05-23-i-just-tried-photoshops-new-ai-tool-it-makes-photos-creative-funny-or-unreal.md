@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Adobe introduces generative AI in Photoshop to transform professional creativity"
+    excerpt: "Generative Fill combines Adobe Firefly with the editing power of Photoshop to expand the creative canvas for Adobe's millions of customers."
+    publishedDateTime: 2023-05-23T19:51:00Z
+    webUrl: "https://www.businessinsider.com/sc/adobe-photoshop-unlocks-a-new-era-of-generative-creativity-with-firefly"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://i.insider.com/6467d7d312a976001917a0d7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Adobe to integrate AI into Photoshop amid fears of job losses and mass faking of images"
     excerpt: "Company says Adobe Firefly is a ‘co-pilot’ to graphic design rather than a replacement for humans"
     publishedDateTime: 2023-05-23T10:00:00Z
@@ -70,6 +84,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Adobe is adding an AI-powered image generator to Photoshop"
+    excerpt: "Adobe on Tuesday said it's incorporating an AI-powered image generator into Photoshop, with the goal of \"dramatically accelerating\" how users edit their photos."
+    publishedDateTime: 2023-05-23T18:08:00Z
+    webUrl: "https://www.cnn.com/2023/05/23/tech/photoshop-generative-ai/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 47
   - title: "Adobe integrates Firefly's generative AI with Photoshop"
     excerpt: "Remove unwanted people and objects from your image in just a few clicks with Adobe's Generative Fill – powered by AI"
     publishedDateTime: 2023-05-23T15:35:00Z

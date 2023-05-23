@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/red-hat-unveils-ansible-lightspeed-to-e
 webUrl: "https://venturebeat.com/ai/red-hat-unveils-ansible-lightspeed-to-empower-ai-driven-it-automation/"
 type: article
 quality: 51
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -24,6 +24,15 @@ topics:
   - Natural Language Processing
 
 related:
+  - title: "Red Hat brings generative AI to IT automation with Ansible Lightspeed"
+    excerpt: "Red Hat is bringing generative AI to Ansible, teaming up with parent company IBM, to make it easier to build automations."
+    publishedDateTime: 2023-05-23T19:19:00Z
+    webUrl: "https://techcrunch.com/2023/05/23/red-hat-is-bringing-generative-ai-to-it-operations-with-ansible-lightspeed/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
   - title: "Red Hat makes Ansible Event-Driven and adds generative AI chatbot"
     excerpt: "Red Hat presented some much-needed innovation for Ansible at its summit in Boston. One very big change is that Ansible is now Event-Driven. No longer does"
     publishedDateTime: 2023-05-23T14:47:00Z

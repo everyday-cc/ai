@@ -57,20 +57,24 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Alphabet-backed AI startup Anthropic raises $450 million as funding freeze thaws"
-    excerpt: "Interest in artificial intelligence has piqued after Anthropic's rival OpenAI ... and food delivery platform later this year through a partnership with Alphabet Inc's Waymo, the companies said. Businesscategory Dutch government to hold 3M liable for ..."
-    publishedDateTime: 2023-05-23T15:28:00Z
+  - title: "Google-backed Anthropic raises $450 mln in latest AI funding"
+    excerpt: "May 23 (Reuters) - Anthropic, an artificial intelligence startup competing with OpenAI in building AI foundation models, said on Tuesday it had raised $450 million from investors including Alphabet Inc's (GOOGL.O) Google and Spark Capital. The latest round ..."
+    publishedDateTime: 2023-05-23T18:56:00Z
     webUrl: "https://www.reuters.com/markets/deals/alphabet-backed-ai-startup-anthropic-raises-450-million-funding-freeze-thaws-2023-05-23/"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 64
-    images:
-      - url: "https://www.reuters.com/resizer/_PqNmWCq2ohLQJc5nge-YSsQNF4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ACRVXOZUFNKW7J4E3Z2Z7N4AQ4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
+    quality: 47
+  - title: "Alphabet-backed AI startup Anthropic raises $450 million as funding freeze thaws"
+    excerpt: "Anthropic logo is seen in this illustration taken March 31, 2023. REUTERS/Dado Ruvic/Illustration"
+    publishedDateTime: 2023-05-23T14:21:00Z
+    webUrl: "https://www.reuters.com/news/picture/alphabet-backed-ai-startup-anthropic-rai-idUSKBN2XE0VA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 42
   - title: "AI startup Anthropic raises $450M from Spark, Google, Salesforce"
     excerpt: "Anthropic, a San Francisco-based AI startup, raised $450 million in Series C funding led by Spark Capital, the company announced Tuesday. Why it matters: The startup has been building a war chest as it competes with ChatGPT creator OpenAI."
     publishedDateTime: 2023-05-23T12:52:00Z
@@ -118,6 +122,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "HQ7J5wrOeDLztXMvfDcOxG3PgcLzoB8bi7N/PQBd1jgicXy38F0qZeZDJ3w4fx5y4LMn+Uj+/QMwCgVEbK3ETTDMIlh7O0djoLx5/Eh23JFG5tSsl/2ppAVjpHBmgxIyoehKq/CyVSL9bT4kGmTgHm8hpyI16qOe41YWBTK3fCxHt9BnxIbq79rwdIZZel/sjNkY5pGqPlKP5aqslB5DCwWgQyPd0VYuGU6K/+nbT9hKCvESk4tXvvZxJMv5qytY2Pq28VEDiZAwqlObMMSMZN0NIvcAl/mwqJgnDjfr/+Fij9r4HnlRXRHyG1K3oCWpo7irHMy11Okvp3hQM0pX/0rWfPE35S3tBjxtaKOEs3E=;glOtBTbaJgjClfY2tkx9pw=="
+secured: "qpJywdGgCb7zGA//PXTXgda+W45LpVT4tc/QTIUVffrf7Ptj5OrouQukwR71vkj1RqKsjmrQEEpwebqShRGeP/k91nDH0sN52FkTy+IeVPRCVFq9ZjzFbQddaLR1Fmg8DHgB2ho9C1+xvxpW7qnZDmxpjMv2dq5HsTVIwDYWu3Lusjrg5NeqjfTzGig/rOta9nNklcMs5o2rMg0ddJiJyM1prnolX0nRzd+tb+2H8e2r8BFqOxiYqMHqbAFXrBktchXW1d94R2wKZTUBwaDNPFbDlkHCj50pbf6dUnSPY1y2cpYfKksO78XGvclpW4CbIRpWJOM/DDDYvfG3lZqT1W3JSwPW4L5pkpaglZoiEi+Q2RP3t9Qy4Id0F5DwhZqowvrf5d6Q1pKUdMhMxvrA1QDnucCcwPeGytyGEWjqEzUYRHuXIxnUhPPXXSrkEOPwQHDBqL4p8RxtPtSPB6wEjzCXZB/QCAwqCzz/hSNnNSH4fwDigADQy1Ab9v+98DWCjyGIkuLIq/f6gCzcxTCKFQ==;Uv5gKyrL6QMsZv48iPVFWQ=="
 ---
 

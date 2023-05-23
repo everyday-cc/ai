@@ -1,0 +1,46 @@
+---
+category: news
+title: "Google Search ads will soon automatically adapt to queries using generative AI"
+excerpt: "Google is going to start using generative AI to boost Search ads relevance based on the context of a query, the company announced today."
+publishedDateTime: 2023-05-23T18:43:00Z
+originalUrl: "https://techcrunch.com/2023/05/23/google-search-ads-automatically-adapt-queries-using-generative-ai/"
+webUrl: "https://techcrunch.com/2023/05/23/google-search-ads-automatically-adapt-queries-using-generative-ai/"
+type: article
+quality: 43
+heat: -1
+published: false
+
+provider:
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+related:
+  - title: "Elasticsearch Relevance Engine brings new vectors to generative AI"
+    excerpt: "The Elasticsearch Relevance Engine (ESRE) integrates AI and vector search to improve search relevance and support generative AI initiatives."
+    publishedDateTime: 2023-05-23T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/elasticsearch-relevance-engine-brings-new-vectors-to-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Elastic to power generative AI models with Elasticsearch Relevance Engine"
+    excerpt: "“Generative AI is a revolutionary moment in technology and the companies ... They include Relativity ODA LLC, a provider of legal technology, which is using ESRE and Microsoft Corp.’s Azure OpenAI Service to improve the relevance of results within ..."
+    publishedDateTime: 2023-05-23T13:00:00Z
+    webUrl: "https://siliconangle.com/2023/05/23/elastic-power-generative-ai-models-elasticsearch-relevance-engine/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 18
+
+secured: "j3mSa9FFUzijzP4XiLpWinqRC+CIoekxpGgIzu55SbFj1prz6D5ikxMpPa/5myb2vrChOxd4AOOmFl2caY2JhLUwocIdM/0aUzyyLZ8s1yM2kSA9bICFX5bb1Pwi+TMdNM2DXOPJjEsfrFwRWKVDNRGgXvuUS/G4yisJ/Mf6jTHcD+67PFy2ncu4YnYERsw7MYUfdAKPtYcFfp8SzRBkjlfQfA0bikXJ0SLV4KUd0lrXm7CmmzX0p4c57m2DtB6bLZjzxErs0jKmWCEZ9gFFhuF67quSIphQqybDUNuMw/iR3nkZ9+MPqk6V51xFDZ6WlRQdu1xaf58ogRHtqEMkbj6MFD3k87Y1vglkAE080BeihOw3vRe3jYFTNk0Z369gLKRztwSYc/bQwMH1zdLimmwHdo4wkqhd5lzUmL+iKkTdWRKSkbpRpFn4awg5N8QQApgBEl9tzAQ1vj1LkSJugXnW5I4yyLZNZOCVtbBeYewmIg+RIoevWH5lke03cKH1h1fRzIEd+0I3ZXz4jvbpMw==;c4Kr1W611Q82qxxHcUbyxA=="
+---
+

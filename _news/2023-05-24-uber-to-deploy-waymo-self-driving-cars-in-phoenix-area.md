@@ -7,7 +7,7 @@ originalUrl: "https://www.axios.com/2023/05/23/uber-waymo-self-driving-cars-robo
 webUrl: "https://www.axios.com/2023/05/23/uber-waymo-self-driving-cars-robotaxis"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,29 @@ images:
     isCached: true
 
 related:
+  - title: "Despite Bruising Court Battle, Uber to Offer Self-Driving Rides From Rival Waymo"
+    excerpt: "The two companies were once locked in a high-profile legal battle over trade secrets. But now Uber is going to host Waymo rides through its own app for users in Phoenix."
+    publishedDateTime: 2023-05-23T19:11:00Z
+    webUrl: "https://www.pcmag.com/news/despite-bruising-court-battle-uber-to-offer-self-driving-rides-from-rival"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 44
+  - title: "Uber will now let you book a Waymo self-driving car through its app"
+    excerpt: "The companies say that customers will be able to use the self-driving cars not just for ride-hailing trips through Uber, but for delivery services through Uber Eats as well. In addition, customers can still book a ride through the Waymo One app."
+    publishedDateTime: 2023-05-23T21:28:00Z
+    webUrl: "https://bgr.com/tech/uber-will-now-let-you-book-a-waymo-self-driving-car-through-its-app/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/03/waymo-jaguar-i-pace.jpg?quality=82&strip=all"
+        width: 1600
+        height: 899
+        isCached: true
   - title: "Waymo woes: Tempe residents frustrated as idle self-driving cars park in their neighborhood"
     excerpt: "Waymo is expanding in the Phoenix area, but that is causing a level of headache for residents in one Tempe neighborhood, who say some of the self-driving cars are being parked on their streets when they are not picking up passengers."
     publishedDateTime: 2023-05-19T05:44:00Z
@@ -50,21 +73,16 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Apple engineer steals secrets on self-driving cars and flees to China, US feds say"
-    excerpt: "A former Apple engineer accused of absconding from the company with trade secrets on self-driving cars fled to China, federal officials reported."
-    publishedDateTime: 2023-05-22T05:08:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/05/22/apple-engineer-steals-secrets-on-self-driving-cars-and-flees-to-china-us-feds-say"
+  - title: "Waymo, Uber set aside past rift over self-driving car tech to team up on robotaxis in Phoenix"
+    excerpt: "Waymo is teaming up with Uber to offer rides and deliver food in robotic cars that triggered a bitter technological dispute between the two companies."
+    publishedDateTime: 2023-05-23T19:44:00Z
+    webUrl: "https://www.azcentral.com/story/news/local/phoenix/2023/05/23/waymo-uber-team-up-on-robotaxis-in-phoenix/70249175007/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 18
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/22/2084800.JPG"
-        width: 1240
-        height: 852
-        isCached: true
+      name: AZ Central
+      domain: azcentral.com
+    quality: 8
 
-secured: "fL5vd8pjcOSmvrR/1ctyDKOY5hIvocyOEYM/sLEFVRTV8iH3x5eFE2VwtfLX5l5YjU891bZzjj6dg2ltQ/X5BpYgJ97dUP+Cu5CGTt9ZXUtLwTjzYuTGXxkEWDo5h5gR8UFJ7ncgpppDo7fuh8CDKfmw+imO5GFywpkioNBAeC2co+tFGnSaZreUrnw/y2N4kG3leqclcEUmWib0a9TbDGX5xjzT5OSZN0tR8eYI4ItOjOvkfP+xHNSlBJquQvwJPa/RWaUMHa0p7QeM4FB+Mt6zSw/ul/3d1aV4vOQtf5yVssJqpqZsUygu7wN3cmkaPdu44T0ZSsDQxvKzeEBaQjbgo56nuIMa9+at2Fzc3C0=;xH2W/AgZmW185m5WgWw42w=="
+secured: "HVO4PqII50ZJN+VWqS5n2B0x52OubMiF/BnyuewckyW8bMR03O1eqnYWg6VffZZykCMCuaY1rR6EiLdbHSHYKtCBDwUe1NWvf3lXTZVPh5J3BwYcmnf7BmfXzylbZePucNKJggdl3fq1kN8Gf+fdPrnwuHh0woy3/mCrIau4pWSUVG8tYkQQcZ5yosSHjBzRQF1loYidTM172o9J35Zw09i82R5jTPm5jR5rh0Y557E8pMWKfflTxyqjs4l3yYW94bU5QFH6UDUBT0KlfTyZJ1ROgdtIRQyeTAe4/Y42fz0Qo3YT+SFr47HtrYi5NUJ/qW5omUPiQRJvqGnHytIIO3E4MAYTeY/aOoJBfE+hi01/ehOZJMIy/4TndJZVI9fvriHpN2zqUcqYyG94JFwv7oXeZgVlTJRNV/0wLASz3qWL5uMFcV9s0SdKJ293YoO3kr3HW+uEvMFBDGWvyFD+PHxzlzV0+N1hk5jbjc1UZ18zQ+eHND/+qxEVIsxupeJedKMmf5DO7jQqzA6w3MlOaQ==;YUERvruN2qBaoO8wkwpsDg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-05-ai-powers-second-skin-like-wearable-te
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-ai-powers-second-skin-like-wearable-tech.amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 2880
     height: 2104
     isCached: true
-
-related:
-  - title: "Artificial Intelligence powers second-skin-like wearable tech"
-    excerpt: "Artificial Intelligence powers second-skin-like wearable tech; Artificial Intelligence powers second-skin-like wearable tech.  . A"
-    publishedDateTime: 2023-05-19T05:06:00Z
-    webUrl: "https://www.monash.edu/news/articles/artificial-intelligence-powers-second-skin-like-wearable-tech"
-    type: article
-    provider:
-      name: Monash University
-      domain: monash.edu
-    quality: 41
-    images:
-      - url: "https://www.monash.edu/__data/assets/image/0003/3281844/The_wearable_skin_and_biosensor-1.jpg"
-        width: 4032
-        height: 3024
-        isCached: true
 
 secured: "zktC2iAM6uf6k7cT+SU85gGEeyGiKJ1w28rt+TX/X+d9FWTgQX5wYdOIIW0GIwHbIYb9T0wTHt3OJA6s5qqBxnLuf8ojmC3FhiRfXcrgwh3HBrZ9E1gQommqkXwEyjXImB6mGLe2J95xfaiIQ4H6U3aVD5YWHLH6+xLDspHS5RtDE3J1UEVQ52rSk4ph8sN+Z0TgUtyAeOYoMymekqxodtWMZKNAzRW8J0dWnWRvZgUN8eMWnHPhs/JTEP7IPAyefFLJ2w4004hJlUSfIpDkFOY+BSofMk8mm8FY27NsbVx4ySH6oa5PRSaXylZb0fPwRYxLPolMfhn0x4tyBcADjk+r6Dp5JIckTgo6dJ7MCGc=;KhzkT+2A90Xr5/bf3gxDlA=="
 ---

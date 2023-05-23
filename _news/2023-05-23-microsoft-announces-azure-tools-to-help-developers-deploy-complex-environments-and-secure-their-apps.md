@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-azure-t
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-azure-tools-to-help-developers-deploy-complex-environments-and-secure-their-apps/"
 type: article
 quality: 89
-heat: 109
+heat: 149
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft’s Azure AI Studio lets developers build their own AI ‘copilots’"
+    excerpt: "Microsoft is introducing several new features in Azure AI Studio aimed at enabling companies to build and deploy fine-tuned AI 'copilots.'"
+    publishedDateTime: 2023-05-23T16:00:00Z
+    webUrl: "https://techcrunch.com/2023/05/23/microsoft-debuts-azure-ai-studio-to-let-developers-build-their-own-ai-copilots/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 78
   - title: "Microsoft India announces the addition of 4 new languages to Translator"
     excerpt: "Users can translate Konkani, Maithili, Sindhi, and Sinhala text, supported in more than 125 languages, for their apps, websites, workflows, and tools with Azure Cognitive Services Translator"
     publishedDateTime: 2023-05-19T11:48:00Z
@@ -63,6 +72,43 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Build 2023: The Biggest Azure News"
+    excerpt: "Microsoft Build 2023 included news around DevOps, Azure AI Content Safety, Azure Cognitive Service for Language and Microsoft Fabric."
+    publishedDateTime: 2023-05-23T15:00:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-build-2023-the-biggest-azure-news"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0281-17e8a96e83eb-d93a4c3e590a-1000/microsoft-azure-sign-2.jpeg"
+        width: 500
+        height: 375
+        isCached: true
+  - title: "Check Point Software Extends Its Industry-Leading Cloud Firewall To Secure Microsoft Azure Virtual WAN"
+    excerpt: "CloudGuard Network Security provides organizations with cyber resilience through a consumption-based offering, seamlessly integrated inside the A"
+    publishedDateTime: 2023-05-23T08:55:00Z
+    webUrl: "https://menafn.com/1106293303/Check-Point-Software-Extends-Its-Industry-Leading-Cloud-Firewall-To-Secure-Microsoft-Azure-Virtual-WAN"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/23/M_b53b8image_story.jpg"
+        width: 703
+        height: 879
+        isCached: true
+  - title: "Habu Announces Collaboration With Microsoft Azure to Deliver Zero-Trust Data Clean Room"
+    excerpt: "Habu, a global innovator in data clean room software, today announced a collaboration with Microsoft Azure to integrate its Data Clean Room applicatio"
+    publishedDateTime: 2023-05-23T19:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230523005491/en/Habu-Announces-Collaboration-With-Microsoft-Azure-to-Deliver-Zero-Trust-Data-Clean-Room"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 26
 
 secured: "4C0UcKG3ByiHQC1Lva2GrT2k5b5nyvhtInPOwQh61atEvkDVB/t6fdZt+LVhWUks/exOeSaDixQa8YQuF17242rITct+Ya0GIggriyk0z1I93F05Sd6nfkr5+l76teqbJnMWYRhLoOxtuvkIFbSNCsKxdCUlANaME6fpNC8OjUWcGuA/22+qDeu1xpclPJxIQo58XVFe/E50P+ld9P/sSJqybCooRG6ZHntgvUMzF1MUAYIhjOrpGvtIqEI8g45y/g8mnhe+ggNoSbChNC6V1BD8vMib305vxwMqVx0+SC/aN9YFMsp3KyhwtFS0kGrkTYSMNz/4VYD3D7+CR3j7zCJI+XjS1PJ4HA+XbQYEp9moSifKu2fHiFg8nDJlUqlF6KVPBt2/j7XvZq3GtViMTcP2/n61KOJdbgoGbVc6nVshWsz9dyIlM2nHrK+Y1LVC49bjXw4iLxdxeiv+DD6pT/4PCL/VqPwAp1uznYKEzkpmHb3WNRIcYecXJ+2eMGf5CmbgrCPk6KiJsVz+P5uR+g==;mkzNYYLzhdqfIH+MpditMw=="
 ---

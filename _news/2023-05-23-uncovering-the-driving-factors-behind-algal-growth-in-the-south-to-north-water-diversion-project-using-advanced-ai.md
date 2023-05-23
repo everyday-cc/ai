@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Fifth Third CEO talks about the importance of AI, other tech in the growth of banking"
+    excerpt: "The AI is optimizing for the lifetime value of the customer relationships. Retaining your customers and making sure they’re satisfied is the single biggest lever at our disposal.'"
+    publishedDateTime: 2023-05-23T17:46:00Z
+    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2023/05/23/fifth-third-ceo-tim-spence-ai-fintechs.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 27
   - title: "AI Startup BeCause Advances Tourism Sustainability Practices with Strong Support from Angel Investors"
     excerpt: "The startup's AI-powered sustainability hub simplifies, speeds up, and reduces costs for sustainability management in the tourism industry, freeing up resources and allowing for greater real-world impact. By eliminating 60% of the resources previously used ..."
     publishedDateTime: 2023-05-22T18:37:00Z

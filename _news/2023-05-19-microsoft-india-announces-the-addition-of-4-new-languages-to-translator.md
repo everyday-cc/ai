@@ -60,6 +60,52 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft’s Azure AI Studio lets developers build their own AI ‘copilots’"
+    excerpt: "Microsoft is introducing several new features in Azure AI Studio aimed at enabling companies to build and deploy fine-tuned AI 'copilots.'"
+    publishedDateTime: 2023-05-23T16:00:00Z
+    webUrl: "https://techcrunch.com/2023/05/23/microsoft-debuts-azure-ai-studio-to-let-developers-build-their-own-ai-copilots/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 78
+  - title: "Microsoft Build 2023: The Biggest Azure News"
+    excerpt: "Microsoft Build 2023 included news around DevOps, Azure AI Content Safety, Azure Cognitive Service for Language and Microsoft Fabric."
+    publishedDateTime: 2023-05-23T15:00:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-build-2023-the-biggest-azure-news"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0281-17e8a96e83eb-d93a4c3e590a-1000/microsoft-azure-sign-2.jpeg"
+        width: 500
+        height: 375
+        isCached: true
+  - title: "Check Point Software Extends Its Industry-Leading Cloud Firewall To Secure Microsoft Azure Virtual WAN"
+    excerpt: "CloudGuard Network Security provides organizations with cyber resilience through a consumption-based offering, seamlessly integrated inside the A"
+    publishedDateTime: 2023-05-23T08:55:00Z
+    webUrl: "https://menafn.com/1106293303/Check-Point-Software-Extends-Its-Industry-Leading-Cloud-Firewall-To-Secure-Microsoft-Azure-Virtual-WAN"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/23/M_b53b8image_story.jpg"
+        width: 703
+        height: 879
+        isCached: true
+  - title: "Habu Announces Collaboration With Microsoft Azure to Deliver Zero-Trust Data Clean Room"
+    excerpt: "Habu, a global innovator in data clean room software, today announced a collaboration with Microsoft Azure to integrate its Data Clean Room applicatio"
+    publishedDateTime: 2023-05-23T19:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230523005491/en/Habu-Announces-Collaboration-With-Microsoft-Azure-to-Deliver-Zero-Trust-Data-Clean-Room"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 26
 
 secured: "uR7gIZCN9Jl0qspjsEl5as0HPW1KdZm+OZIAKCundgjUOOzeqUM4EnPFUNrgyZvN9vSuoCSToT4wWB5dxbqM8/3VSp2cs0NJF+t0aJkMdBhlLSGWavc11lDKPHzxgIyPUyfjPDcYXZKFgzi00R4XZe8gTO1yvXYDrHS4Qx0UvobpgsB/zKWyYiH51myPMgDSlfNhLIfuuRGZNPyjEHtX91TmvRVIdtj0azpx8MCgX3AJRpCV3l9/fvwhvuqVV2/H/3Xw+aECjdCTFhA5a6xCwilNkrnj1m1pfP/R7gyzynqGl5Wiv/ej/KC7be04ZzC4PL2quccncTqHJT63xvo6ziqUfyoXpppWkmG8GbohdHpOoy373APNzRZSpCj+6wovdS6R/LTFhEGbYvGuGyD26y7bbQLAUHm6e+ygr656g7rHbtNJW8hVA0sxbnNkgMYHNwDTKLvyUA44+UvLTACcmBODMJ5CHf4nJb5FaxGvO1Q1smDUkifB3Q4Qc2MRrRP4Zr4UI1jO/HjwzCnffiSGZw==;bA93PlReolf+rpRKzMPv+A=="
 ---

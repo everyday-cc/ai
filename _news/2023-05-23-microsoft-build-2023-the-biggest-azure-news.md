@@ -25,29 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "Infogain NAVIK Sales and NAVIK Marketing Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Infogain's NAVIK is an AI platform that addresses AI solution needs, including data infrastructure, data engineering, and data analytics. NAVIK's modular components include data integration repositories and pipeline scripts,"
-    publishedDateTime: 2023-05-19T04:00:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Infogain-NAVIK-Sales-and-NAVIK-Marketing-Now-Available-in-the-Microsoft-Azure-Marketplace-158740.aspx"
+  - title: "Microsoft announces Azure tools to help developers deploy complex environments and secure their apps"
+    excerpt: "Next up is another tool that can ease the workload of developers and reduce the worry of admins: GitHub Advanced Security for Azure DevOps. Last year, Microsoft announced this service was coming, and now, Microsoft is announcing the availability of a public preview."
+    publishedDateTime: 2023-05-23T15:01:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-announces-azure-tools-to-help-developers-deploy-complex-environments-and-secure-their-apps/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-azure-tools-to-help-developers-deploy-complex-environments-and-secure-their-apps/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-azure-tools-to-help-developers-deploy-complex-environments-and-secure-their-apps/"
     type: article
     provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 94
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/152405-0423_SpeechAnalytics_NICE_480x610-ORG.png"
-        width: 480
-        height: 610
+      - url: "https://www.zdnet.com/a/img/resize/c1e41e19b8a3f4e5c5306cba90afb53a6dff435f/2023/05/23/0eacd389-da03-4a85-977f-27457bc2cc96/gettyimages-1461116181.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Infogain AI Business Solutions Now Available In The Microsoft Azure Marketplace"
-    excerpt: "NAVIK customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. NAVIK is an AI platform that addresses the breadth of AI ..."
-    publishedDateTime: 2023-05-19T14:46:00Z
-    webUrl: "https://menafn.com/1106278090/Infogain-AI-Business-Solutions-Now-Available-In-The-Microsoft-Azure-Marketplace"
+  - title: "Microsoft launches Fabric, a new end-to-end data and analytics platform"
+    excerpt: "Microsoft Fabric is a new end-to-end data and analytics platform that centers around Microsoft's OneLake data lake but can also pull data from Amazon S3."
+    publishedDateTime: 2023-05-23T15:38:00Z
+    webUrl: "https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/"
+    ampWebUrl: "https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/amp/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 45
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-159406176.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Microsoft’s Azure AI Studio lets developers build their own AI ‘copilots’"
+    excerpt: "Microsoft is introducing several new features in Azure AI Studio aimed at enabling companies to build and deploy fine-tuned AI 'copilots.'"
+    publishedDateTime: 2023-05-23T16:00:00Z
+    webUrl: "https://techcrunch.com/2023/05/23/microsoft-debuts-azure-ai-studio-to-let-developers-build-their-own-ai-copilots/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 78
+  - title: "Microsoft India announces the addition of 4 new languages to Translator"
+    excerpt: "Users can translate Konkani, Maithili, Sindhi, and Sinhala text, supported in more than 125 languages, for their apps, websites, workflows, and tools with Azure Cognitive Services Translator"
+    publishedDateTime: 2023-05-19T11:48:00Z
+    webUrl: "https://www.mid-day.com/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
+    ampWebUrl: "https://www.mid-day.com/amp/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
+    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
+    type: article
+    provider:
+      name: Mid Day
+      domain: mid-day.com
+    quality: 61
+    images:
+      - url: "https://images.mid-day.com/images/images/2023/may/Microsoft-afp_d.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Check Point Software Extends Its Industry-Leading Cloud Firewall To Secure Microsoft Azure Virtual WAN"
     excerpt: "CloudGuard Network Security provides organizations with cyber resilience through a consumption-based offering, seamlessly integrated inside the A"
     publishedDateTime: 2023-05-23T08:55:00Z
@@ -62,6 +96,15 @@ related:
         width: 703
         height: 879
         isCached: true
+  - title: "Habu Announces Collaboration With Microsoft Azure to Deliver Zero-Trust Data Clean Room"
+    excerpt: "Habu, a global innovator in data clean room software, today announced a collaboration with Microsoft Azure to integrate its Data Clean Room applicatio"
+    publishedDateTime: 2023-05-23T19:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230523005491/en/Habu-Announces-Collaboration-With-Microsoft-Azure-to-Deliver-Zero-Trust-Data-Clean-Room"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 26
 
 secured: "u/7rnMAafkGpcFpPoYWp0r9Wgdyf+2UZ+qx258/NjIBap2fBMC1DLYPvgaFlHcSihNYMR7XvYdaHwF3oubpyp0fcidsmPeEDDRYYdHGH10eEDv8k1ys3NqTeiy2EwCxal4Y4TvruUCfXF/6yp2H5HhKRc2Ta33qKrIZXhKPUQgOYRfMnu0Lnapxm4HSxuDNXkHE/d11O41A16TUD40/PZwsi8maIRQ/1lV86bgPAVCe1JfV8OUYn+qr9Ub6yUXly7pDMzZMrtqovYBNwQ5u4/YiGOZhLlPiqNppf9FN+6rFSJEp8aAb21ii3IvhZUftmFXrQBu8wuDEBhYW6ywRjKLm3NIP4+dX/U2DI5A4ks0EUdaYEb+fkkkGcB72GOLCBD1kqh6lg2TWkwjTeqpCzFzzXuEa4SveT0RpvWsxCLOQgvzuoRG7Hqr4fTgX2N1Q6Cq5UTSowAdft2VPqMk2U57y5sb/TcCbXeAUC/n2/lSQ1ytSOxBHMIRn5G1KI9UU9E4Xa6kviAFS+Oqm7a7ykRA==;Wu46zE4jsrdX3H+gJ1bfRg=="
 ---

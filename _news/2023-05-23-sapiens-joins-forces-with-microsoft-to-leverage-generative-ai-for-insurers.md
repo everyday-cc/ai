@@ -67,6 +67,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "The Microsoft Store will help curate AI tools for you now"
+    excerpt: "You probably don't realize how many tasks AI can help you with now, but Microsoft's new AI hub aims to change that."
+    publishedDateTime: 2023-05-23T15:00:00Z
+    webUrl: "https://www.zdnet.com/article/the-microsoft-store-is-getting-more-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-microsoft-store-is-getting-more-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-microsoft-store-is-getting-more-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/4edc48a9de8035a831b0249d0bce689c61ea961a/2023/05/22/bab855bc-c966-42a8-9159-01e84b344c3d/microsoft-store-ai-hub.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Twitter accuses Microsoft of misusing its data, foreshadowing a fight over AI"
     excerpt: "In a letter, a lawyer for Musk accused Microsoft of misusing the service’s data and demanded an audit from the software giant."
     publishedDateTime: 2023-05-19T14:53:00Z
@@ -169,6 +185,24 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft launches new AI tool to moderate text and images"
+    excerpt: "Microsoft has launched a new AI-powered service, Azure AI Content Safety, to detect potentially problematic speech and images online."
+    publishedDateTime: 2023-05-23T16:23:00Z
+    webUrl: "https://techcrunch.com/2023/05/23/microsoft-launches-new-ai-tool-to-moderate-text-and-images/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 66
+  - title: "How Microsoft is building a platform for custom AI development"
+    excerpt: "With Azure OpenAI at the center, Microsoft has introduced a spectrum of new tools for building custom GPT-based LLMs. Here’s how Cosmos DB’s new vector search capabilities fit in."
+    publishedDateTime: 2023-05-23T19:37:00Z
+    webUrl: "https://www.infoworld.com/article/3696980/how-microsoft-is-building-a-platform-for-custom-ai-development.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 64
   - title: "Mural Unveils AI-Powered Capabilities for Enterprise Collaboration at Microsoft Build"
     excerpt: "Deepening its investment in the Microsoft ecosystem, Mural's AI capabilities will use Azure OpenAI to enable teams to work together more efficiently SAN FRANCISCO, May 22, 2023 /PRNewswire/ -- Mural, a leading visual collaboration company, today unveiled ..."
     publishedDateTime: 2023-05-22T19:14:00Z
@@ -178,6 +212,52 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 57
+  - title: "Here are all the AI updates Microsoft announced at its developers conference keynote"
+    excerpt: "Microsoft Build developer conference in Seattle on Tuesday, the company announced a series of AI updates to make both Bing and ChatGPT smarter, more intuitive and potentially more ubiquitous."
+    publishedDateTime: 2023-05-23T19:14:00Z
+    webUrl: "https://edition.cnn.com/2023/05/23/tech/microsoft-build-2023-keynote/"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 57
+  - title: "Microsoft expands AI plugins and copilot ecosystem for developers"
+    excerpt: "At the same time the company revealed a host of new copilot tools, which are applications that use generative AI to help users with cognitive tasks, such as writing a sales pitch, taking notes or generating images."
+    publishedDateTime: 2023-05-23T15:00:00Z
+    webUrl: "https://siliconangle.com/2023/05/23/microsoft-expands-ai-plugins-copilot-ecosystem-developers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Hero-art-8c3e25f0-e8b1-484e-a1db-6a6782aa887c.jpg"
+        width: 1256
+        height: 584
+        isCached: true
+  - title: "Nvidia teams up with Microsoft to accelerate AI efforts for enterprises and individuals"
+    excerpt: "Nvidia will integrate its AI Enterprise software into Azure Machine Learning and introduce deep learning frameworks on Windows 11 PCs."
+    publishedDateTime: 2023-05-23T19:48:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-teams-up-with-microsoft-to-accelerate-ai-efforts-for-enterprises-and-individuals/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 56
+  - title: "Microsoft Build 2023 brings expansions to the AI ecosystem, new plugin capabilities with Microsoft’s Copilot ecosystem, and more"
+    excerpt: "Microsoft’s Copilot ecosystem has been expanded to include Copilot in Power BI and Copilot in Power Pages in preview; Copilot in Microsoft Fabric, which is set to become available in preview soon; and Windows Copilot,"
+    publishedDateTime: 2023-05-23T20:22:00Z
+    webUrl: "https://sdtimes.com/microsoft/microsoft-build-2023-brings-expansions-to-the-ai-ecosystem-new-plugin-capabilities-with-microsofts-copilot-ecosystem-and-more/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 55
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2023/05/image001.png"
+        width: 1467
+        height: 491
+        isCached: true
   - title: "Microsoft debuts AI assistant for Windows 11"
     excerpt: "Microsoft is bringing its generative AI capabilities to Windows PCs. Unveiled during the company’s Build developer conference on Tuesday, the feature, called Windows Copilot, gi"
     publishedDateTime: 2023-05-23T15:00:00Z
@@ -191,20 +271,6 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/oWaoc965sq0ptk_r_dxR0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_yahoo_finance_433/46a0bca06d0130cc4a9751e7d8ad3a8a"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft expands AI plugins and copilot ecosystem for developers"
-    excerpt: "At the same time the company revealed a host of new copilot tools, which are applications that use generative AI to help users with cognitive tasks, such as writing a sales pitch, taking notes or generating images."
-    publishedDateTime: 2023-05-23T15:00:00Z
-    webUrl: "https://siliconangle.com/2023/05/23/microsoft-expands-ai-plugins-copilot-ecosystem-developers/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Hero-art-8c3e25f0-e8b1-484e-a1db-6a6782aa887c.jpg"
-        width: 1256
-        height: 584
         isCached: true
   - title: "Microsoft is giving letting companies build their own AI bots"
     excerpt: "Microsoft , on Tuesday, announced a new service that will allow enterprises to build their own AI bots or copilots as the company calls them. Unveiled at Microsoft's annual Build"
@@ -234,6 +300,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "DataRobot Partners with Microsoft to Accelerate Value of AI"
+    excerpt: "Integrations with Microsoft's Azure OpenAI Service and Azure Machine Learning brings customers generative AI capabilities, and a more powerful and versatile platform for building, deploying and managi"
+    publishedDateTime: 2023-05-23T19:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/b32539014/datarobot-partners-with-microsoft-to-accelerate-value-of-ai"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32539014"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32539014"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
   - title: "Google just revealed what its new generative AI ads will look like as it races to keep up with Microsoft and Amazon in the AI gold rush"
     excerpt: "Google is bringing generative AI to its ad products. But major competitors like Amazon and Microsoft are also racing to release similar ad technology."
     publishedDateTime: 2023-05-23T15:57:00Z
@@ -262,17 +339,15 @@ related:
         width: 320
         height: 250
         isCached: true
-  - title: "Twitter accuses Microsoft of misusing its data, foreshadowing a possible fight over AI"
-    excerpt: "A lawyer for Twitter owner Elon Musk accused Microsoft of misusing the service’s data and demanded an audit from the software giant."
-    publishedDateTime: 2023-05-19T01:45:00Z
-    webUrl: "https://www.seattletimes.com/business/twitter-accuses-microsoft-of-misusing-its-data-foreshadowing-a-possible-fight-over-ai/"
-    ampWebUrl: "https://www.seattletimes.com/business/twitter-accuses-microsoft-of-misusing-its-data-foreshadowing-a-possible-fight-over-ai/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/twitter-accuses-microsoft-of-misusing-its-data-foreshadowing-a-possible-fight-over-ai/?amp=1"
+  - title: "Microsoft Build 2023: From ChatGPT on Bing to Azure AI, check all latest announcement"
+    excerpt: "Build 2023 also showcases previews of upcoming features such as Windows 11, Bing, and the revolutionary AI copilot. Here are top announcements that were made at the Build 2023 event"
+    publishedDateTime: 2023-05-23T19:11:00Z
+    webUrl: "https://www.livemint.com/technology/microsoft-build-2023-from-chatgpt-on-bing-to-azure-ai-check-all-latest-announcement-11684868488914.html"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 46
+      name: Mint
+      domain: livemint.com
+    quality: 42
   - title: "Microsoft wants Copilot everywhere, including in Windows 11"
     excerpt: "Build developer conference in Seattle, Microsoft is making a series of announcements. A significant portion of these involve copilots,"
     publishedDateTime: 2023-05-23T15:04:00Z
@@ -305,6 +380,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 36
+  - title: "Microsoft to bring Copilot, an AI personal assistant, to Windows"
+    excerpt: "The Windows Copilot will be available in a taskbar for users. Once open, the Copilot will “stay consistent across your apps, programs and windows.”"
+    publishedDateTime: 2023-05-23T18:26:00Z
+    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-to-bring-copilot-an-ai-personal-assistant-to-windows/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 36
   - title: "Microsoft says new AI shows signs of human reasoning"
     excerpt: "A provocative paper from researchers at Microsoft claims AI shows the ability to understand the way people do. Critics say scientists are kidding themselves."
     publishedDateTime: 2023-05-22T13:09:00Z
@@ -314,6 +398,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 34
+  - title: "Microsoft Store hones in on AI in Windows with new section and AI-generated reviews"
+    excerpt: "We’re starting to see a trend in AI that has companies positioning the advancement as an educational tool rather than just a robot to have a conversation ... the Microsoft Store will start using AI to compose a featured review that takes notes from ..."
+    publishedDateTime: 2023-05-23T18:06:00Z
+    webUrl: "https://9to5google.com/2023/05/23/microsoft-store-ai-features/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 30
   - title: "Microsoft outlines framework for building AI apps and copilots; expands AI plugin ecosystem"
     excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from ... them to interact with other software and services. Graphic courtesy of Microsoft. “A plugin is about how you, the copilot ..."
     publishedDateTime: 2023-05-23T15:22:00Z

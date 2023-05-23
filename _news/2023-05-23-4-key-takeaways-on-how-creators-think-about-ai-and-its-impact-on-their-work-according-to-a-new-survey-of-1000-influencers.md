@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-23T14:51:00Z
 originalUrl: "https://www.businessinsider.com/how-creators-think-about-ai-impact-on-influencer-work-survey-2023-5"
 webUrl: "https://www.businessinsider.com/how-creators-think-about-ai-impact-on-influencer-work-survey-2023-5"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/644c0698da6d7b0019bda5c3?width=1200&format=jpeg"
@@ -45,6 +46,6 @@ related:
         height: 600
         isCached: true
 
-secured: "25pyNQuBn06oIN4d/vSsMyPYf5ClV1FIVl+E09/IlTlicemx28A8QGV8fH3IwflxdZd2cVxIgHoQPQ0Yj2VwyboF6sdywTxJ7olR47M07Mgv5iOfZkd9v1BWNd0Zzl9aNbFyPT9uAP5K2b3BLN4w3zP4Q7jlZgehSu04NDHEpLKz9nV+UzBeasR/N95mw5V0jZDO7K0jBzJgm6X7uWqlPFGfdqiN7Iy1uSjfTUsEV6W/XWjPOLHlIkgedBT1KmrTRajjayNMLg4klGMuWN3tZpDCKrFq4kv4Fze3Efk7ESFbK4Z9tSYzY2pALNHAc79ngOCVOqW8q/uCQCrNj1bTsja8Gd7JOTED6XtrEIfrWlw=;h6dNaDUgw963iyiEuml32Q=="
+secured: "QkSWp3nFO5cdRWA7jQKXFekMhkB3d4sI2PVLzuhxSSNPTW5mJviSlnyS9cZNZ2vRMq+QxUphG5aK638jjX9zv/8QUMMZvajlt+RFbxn7EemziuPGZounA/dQ5jjRcaVjzgv7PidKsmKG8ni4pHtuwyv8fZzPYWToGvt5BAOMoE+Zk7CetYS1yOspJEYf0mE9FWR+WUZkEc9sXYeevCWclzZM43KIW7+ptsTmBuH770aBNt+Il4xGbT7LcWuXZGjX/g8Zf2F8CzI0BJNlv1SDv9YhGMyTB5l69cRcj8/ihCzffVVpjrB45ZrzwteiCQs15uU7u87c6qbW+1gct0rsZTuy8znumHfFSMnlEEQ48UCW79MaLSKvxUa5uPed6SXJI56AN6oDCBw3QVmdylhntKBPvcGMEBLK5+bJTQHn76OLJL9N2CxKRMBq8Mp61ZMCBj7BNtjBvt39v6I+Gsm+o4bs+iijl6t7An94mJsafdiA6jqnWCpoSpm043p93stL2yEN0rw1RyDqsZHxbhlkRA==;I5iw2A4WAXME7wDvYbq2RA=="
 ---
 

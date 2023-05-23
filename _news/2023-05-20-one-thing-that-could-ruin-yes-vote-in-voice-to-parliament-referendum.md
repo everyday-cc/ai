@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news.com.au/national/politics/one-thing-that-could-ruin-
 cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/one-thing-that-could-ruin-yes-vote-in-voice-to-parliament-referendum/news-story/1abf12c53e4150cec0e8335697a63d38?amp"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Support for a Voice to Parliament"
-    excerpt: "The Sydney Swans support constitutional recognition for First Nations peoples, and as such, we are supportive of a Voice to Parliament. The Sydney Swans has been enriched by the contribution of Aboriginal and Torres Strait Islander peoples on and off the field,"
-    publishedDateTime: 2023-05-19T03:54:00Z
-    webUrl: "https://www.sydneyswans.com.au/news/1333978/support-for-a-voice-to-parliament"
-    type: article
-    provider:
-      name: Sydney Swans
-      domain: sydneyswans.com.au
-    quality: 24
-    images:
-      - url: "https://resources.sydneyswans.com.au/photo-resources/2023/05/19/6cd13ecd-458d-43f6-bb0e-96bf4defef38/11SyRi22DB1128.JPG?width=1200&height=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Why I am voting “yes” in the referendum giving First Nations peoples a Voice to Parliament"
     excerpt: "At the forthcoming referendum, we have the opportunity to support the recognition in our foundation document ... That need remains as strong today as it was then. The Voice will help to achieve it. I can’t help but think George Fletcher Moore would ..."
     publishedDateTime: 2023-05-19T07:16:00Z

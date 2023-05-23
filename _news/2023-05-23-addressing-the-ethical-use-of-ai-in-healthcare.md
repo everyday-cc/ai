@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressi
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressing-the-ethical-use-of-ai-in-healthcare/"
 type: article
 quality: 81
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -80,6 +80,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "There’s no such thing as pausing AI research"
+    excerpt: "In March, an open letter from the Future of Life Institute called for a pause on AI research on models larger than GPT-4, which powers tools such as ChatGPT. The signers, which included some of ..."
+    publishedDateTime: 2023-05-19T23:10:00Z
+    webUrl: "https://thehill.com/opinion/technology/4010203-theres-no-such-thing-as-pausing-ai-research/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 19
 
 secured: "yfkvJbibQX/rrd8v2mC5u4wUxBwN/wPjf6DBefuN6Ienu2pgCpPnG+vj09w6S2a0Nj9MM4xtrIRZwaz8EGPD4SxMx2cuRbogFneVXyh3EsfLuOQjm7GzVoYqgXwTpGTOzXHaR4Pm1RwYufzUPFILIvlfjpwhoszi5BFVez2EXxG7GZ5LTL60zOm97yLjLm/CNFDDuzgkxyDkK6/JfhB4SghyHvHWxILzvWDHNMn1O2OzPm+5p+b7ZPhDlA9zLguMd5E/7dWiXif8KUu+pGsfOmao7tg1Il+86mVHaLiTjixdRQV3slRbJKANJxTuFwrxZU1c8WcDvpM5rLA9mD+PzNpeMY7g8tgCL5VfqqmWtcw1JurJYt4s5etREFWMXMhqGh3AGUQh8oY3kLckVTEd7lqPsWa/kNkP5lDL976f3c3LJTYnw8rSSD9fvcoMdXvL4LGYReUr2gMylgFfkVLcy80RY+oXY47lxj455PJM5bB8WMrqDN3WY+gq1nUn+QHyuLm9aAMuVZjdVtCKaRb+Hg==;FHrKJcunSxgTzVAfD7e+lQ=="
 ---

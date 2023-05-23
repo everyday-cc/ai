@@ -73,6 +73,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Meta AI open-sources tools for self-supervised training of speech recognition models"
+    excerpt: "AI models that can recognize human speech and respond to ... Its translations are often studied for text-based language translation research, and for many there are also publicly available audio recordings of people reading these texts."
+    publishedDateTime: 2023-05-23T13:52:00Z
+    webUrl: "https://siliconangle.com/2023/05/22/meta-platforms-open-sources-tools-self-supervised-speech-recognition-model-training/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 27
   - title: "Meta Creates New AI Tool That Recognizes Over Than 4,000 Languages"
     excerpt: "Introduced as the Massive Multilingual Speech project, the Meta AI tool is built to protect and preserve languages and is now available to the public"
     publishedDateTime: 2023-05-23T13:22:00Z

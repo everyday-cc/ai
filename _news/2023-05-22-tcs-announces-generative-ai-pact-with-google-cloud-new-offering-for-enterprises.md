@@ -79,6 +79,29 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Mai Writer Uses Generative AI To Double Marketing Output and Conversions"
+    excerpt: "Kenn Costales, the Forbes 30 Under 30 Founder of AI startup Mai, is inviting copywriters, content creators, and digital marketing professionals to maximize their productivity"
+    publishedDateTime: 2023-05-23T16:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32535516/mai-writer-uses-generative-ai-to-double-marketing-output-and-conversions"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+  - title: "Datadog's New Capabilities Help Azure Organizations Manage Costs, Migrate to the Cloud and Monitor AI Models"
+    excerpt: "Observability is increasingly important in helping organizations meet their cloud goals—at a time when efficiency is paramount. Azure Arc helps organizations manage their on-premises, edge and multicloud environments more efficiently."
+    publishedDateTime: 2023-05-23T21:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-datadogs-new-capabilities-help-azure-organizations-manage-costs-/2023/05/23/9819820.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/1730117/Datadog_logo.jpg"
+        width: 400
+        height: 210
+        isCached: true
   - title: "Pega Announces Pega GenAI to Infuse Generative AI Capabilities in Pega Infinity '23"
     excerpt: "(NASDAQ: PEGA), the low-code platform provider empowering the world's leading enterprises to Build for Change®, today announced Pega GenAI ™ – a set of 20 new generative AI-powered boosters to be integrated across Pega Infinity ™ '23,"
     publishedDateTime: 2023-05-23T17:55:00Z

@@ -75,6 +75,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "There’s no such thing as pausing AI research"
+    excerpt: "In March, an open letter from the Future of Life Institute called for a pause on AI research on models larger than GPT-4, which powers tools such as ChatGPT. The signers, which included some of ..."
+    publishedDateTime: 2023-05-19T23:10:00Z
+    webUrl: "https://thehill.com/opinion/technology/4010203-theres-no-such-thing-as-pausing-ai-research/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 19
 
 secured: "CxIeBGmvAJ5HWncjyzqnFyKJrGxpdAs/QcZYz5nyIZvFG7IiSeqsvayynl7/eyJR0CGebX+dAEprpLBtfI8+rK9hmSc+5eoPnXDOlUP+gAinAZuf0QgRv4DECCbmCdZ1R3M404S+xZrBYIj11qaQ1kW0B/ms1HVE4WV2XpI55Py0JIq2Fn+oiBiH7eilvqFQHPNWiTEw2IFMCYnlFdDH9BF0IYYl0r+FVtpqyBOvMn48rOQINnBVz+qMBo1DM3tBNE+o1oY3mYSd9A77MNPSPwUmOh+YeiN75R2ZC0NmapU0jwAO7FrZkhQclneSoFkkCNbKLP8YQ95I7rztUnsB0Ope4Lh1k5ke0r2yZb6HA9tqk9GxpcIGJCrWwk6Vtp1NxJcKgpIj3uc1JaNfmh3eebkpMeN6nubbk6uCjPwfa7946qMC4qC5h+AETe8DNG7yS8aoxgAG+zzqVCIwfnDYN5w1CS243pWzxmZoov6tTnjutL/+OamKigQhG2qrm5jKsuSiAO2VH21OvJddm4Lfyg==;vHbdUYwdesbBGHwof+AUHQ=="
 ---

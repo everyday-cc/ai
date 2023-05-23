@@ -39,20 +39,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "Who will win the AI race? What it takes to become a prompt engineer"
-    excerpt: "Google / DeepMind / Anthropic: Graduating from Cacofonix to Shakespeare"
-    publishedDateTime: 2023-05-19T02:59:00Z
-    webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk19052023.html"
+  - title: "Infogain AI Business Solutions Now Available In The Microsoft Azure Marketplace"
+    excerpt: "NAVIK customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. NAVIK is an AI platform that addresses the breadth of AI ..."
+    publishedDateTime: 2023-05-19T14:46:00Z
+    webUrl: "https://menafn.com/1106278090/Infogain-AI-Business-Solutions-Now-Available-In-The-Microsoft-Azure-Marketplace"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 41
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/05/17/original/Picture2_1684327235354.png"
-        width: 624
-        height: 351
-        isCached: true
+      name: Mena FN
+      domain: menafn.com
+    quality: 45
   - title: "Elon Musk Makes Bold AI Prediction That Will Delight Investors"
     excerpt: "The best known is ChatGPT, developed by OpenAI, a startup in which software giant Microsoft ... The chatbot showed that AI has reached a point where robots can perform certain tasks much better than humans can. But beyond the search-engine industry ..."
     publishedDateTime: 2023-05-22T13:48:00Z

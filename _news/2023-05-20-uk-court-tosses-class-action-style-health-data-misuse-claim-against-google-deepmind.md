@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/19/uk-court-tosses-class-action-style
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/amp/"
 type: article
 quality: 98
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK plans meeting on AI risks with OpenAI, DeepMind bosses"
-    excerpt: "The UK government has invited bosses from some of the world’s biggest artificial intelligence firms to a meeting, people familiar with the matter said, as Prime Minister Rishi Sunak crafts a ..."
-    publishedDateTime: 2023-05-19T03:40:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/uk-plans-meeting-on-ai-risks-with-openai-deepmind-bosses-10619981.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/uk-plans-meeting-on-ai-risks-with-openai-deepmind-bosses-10619981.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/uk-plans-meeting-on-ai-risks-with-openai-deepmind-bosses-10619981.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 74
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/RTSHI6VA.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "London court throws out lawsuit against Google over medical records"
     excerpt: "Google defeated a lawsuit brought on behalf of 1.6 million people over medical records provided to the U.S. tech giant by a British hospital trust. The Royal Free London NHS Trust transferred patient data to Google’s artificial intelligence firm DeepMind Technologies in 2015 in relation to the development of a mobile app designed to analyse medical records and detect acute kidney injuries."
     publishedDateTime: 2023-05-20T03:33:00Z

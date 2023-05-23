@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/cohesity-partners-google-cloud-empower-or
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 154
 published: true
 
 provider:
@@ -75,6 +75,29 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Mai Writer Uses Generative AI To Double Marketing Output and Conversions"
+    excerpt: "Kenn Costales, the Forbes 30 Under 30 Founder of AI startup Mai, is inviting copywriters, content creators, and digital marketing professionals to maximize their productivity"
+    publishedDateTime: 2023-05-23T16:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32535516/mai-writer-uses-generative-ai-to-double-marketing-output-and-conversions"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+  - title: "Datadog's New Capabilities Help Azure Organizations Manage Costs, Migrate to the Cloud and Monitor AI Models"
+    excerpt: "Observability is increasingly important in helping organizations meet their cloud goals—at a time when efficiency is paramount. Azure Arc helps organizations manage their on-premises, edge and multicloud environments more efficiently."
+    publishedDateTime: 2023-05-23T21:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-datadogs-new-capabilities-help-azure-organizations-manage-costs-/2023/05/23/9819820.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/1730117/Datadog_logo.jpg"
+        width: 400
+        height: 210
+        isCached: true
   - title: "Pega Announces Pega GenAI to Infuse Generative AI Capabilities in Pega Infinity '23"
     excerpt: "(NASDAQ: PEGA), the low-code platform provider empowering the world's leading enterprises to Build for Change®, today announced Pega GenAI ™ – a set of 20 new generative AI-powered boosters to be integrated across Pega Infinity ™ '23,"
     publishedDateTime: 2023-05-23T17:55:00Z
@@ -108,6 +131,6 @@ related:
       domain: bignewsnetwork.com
     quality: 14
 
-secured: "EDBP/xcLWNaXaEAIulTehqjiAeg8DG9z34gitWGI3vD9bWiSs/ksRr6+nv/leBu60i4XUs+xuyM70KshWo8/97i9NH7twGB0e5hu6U8wsY3Do4kdkmda3+MH6UtfMzD6APy2LzWBpdK3hV+FI7YwEdwTTs1hVJOO05ieoRHzT1KWigDlFkt8NS4Z+Yv9WHpq7ji2x67MA2q3x/3PmIZ9/Jj8/qNGmbarzkPeC1CqFCl8UwcP8l6C5ukqdbK20eZwRkSLqVV1cqvsMTm13f8/u81nQtRshTa6l72A9jEy5CAzm2K1kp3eQQlbBH0OQzM1lRq3Xqyah0zghvQ6EV2VzqcmWH3ERGBPhilBy2JQ8XI=;4gi6UI2VMlycMGrqhjQGAw=="
+secured: "f+uu8tkeNCdnbPPI66pgSCtOR2NjEzeYXiz0QbvQvR8AtEnp70jgd0YdlS/5emgUAl0r0LOUqx6lYatTG8dITTF8KCrCgnLzyAcsz474E3pBZkgYTU84kP08fH3RaJ8PhvasBXKMqKpNo3DyUxgQNOu5NrTnkLk1ZCaL+RBYgpYlkd9dLO6Qu4WCIk8zztcfJw36nyqiXIKKnIJCaMfpGAXDIV/bTOkXL4FpWjYVt5Cpy6fKXONaUO2E0O/6en9K0lhXqheBGr/23MAygDMB0PKiX1jBCZuAXZ3byf1unACo20blTLURY2lft4EHlRweWsZMS27Q1s9ubYOOdbq4Br0xvoOWS+OHEWbgzL6gNX7YD+yCOtBk9c0fayz8yiQtZbYG7rWpJcPiAF2OST7AdZVkFXJK0B+69onCgMeK93/z39GtmZCNmj877CVm1Kftk7hx1+t0k2cR5fFK4t3DTqeK3sPSh60QrbmA0Ebew78OvNq2gTTdSL/U9ydR6wRRGRtw5Cd17YvGXiPAj0gJaw==;Ph1Pf86gZyH/K6OYKp1eYA=="
 ---
 

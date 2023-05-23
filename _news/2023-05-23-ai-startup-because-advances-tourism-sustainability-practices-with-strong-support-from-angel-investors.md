@@ -34,6 +34,15 @@ related:
         width: 1596
         height: 1020
         isCached: true
+  - title: "Fifth Third CEO talks about the importance of AI, other tech in the growth of banking"
+    excerpt: "The AI is optimizing for the lifetime value of the customer relationships. Retaining your customers and making sure they’re satisfied is the single biggest lever at our disposal.'"
+    publishedDateTime: 2023-05-23T17:46:00Z
+    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2023/05/23/fifth-third-ceo-tim-spence-ai-fintechs.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 27
 
 secured: "fs9IzK8BH7T1YEGqkd9CzSyssybyyJ6zr7RR9QmgSONgp8CFw3/dE4g8GkuDNi6oG/OQO3FFrpDi8PnvpArnUemM2jVWtR6VvaCuULnB3H4fwCp4ughqreAPoqNmeV04WtD8vKKkY43k2HXo0d0WhcVx3ZGxZB7ezn30Zxhep5Jw/9G4r+noEEGUS1K5gYrUta5O+/93o464yNvZcaz26Uq69Mo0py8ccsnBaDfHj09OxWVzoszx0cRvSxFda9EQCGL7yw7SQ+DlvmDv6PQe/YtLgWP9LOLqWan34iAQNpdglS7MRPLRFmBKoURoySQHeVskHQqwsElcPFXYs+XiqIFbRuALQrPtbGifjknsgIg=;WeBRfLp5LYovkQZ4PO34xg=="
 ---

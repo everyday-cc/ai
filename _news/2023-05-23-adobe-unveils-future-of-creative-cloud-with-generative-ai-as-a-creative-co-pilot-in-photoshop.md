@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Adobe introduces generative AI in Photoshop to transform professional creativity"
+    excerpt: "Generative Fill combines Adobe Firefly with the editing power of Photoshop to expand the creative canvas for Adobe's millions of customers."
+    publishedDateTime: 2023-05-23T19:51:00Z
+    webUrl: "https://www.businessinsider.com/sc/adobe-photoshop-unlocks-a-new-era-of-generative-creativity-with-firefly"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://i.insider.com/6467d7d312a976001917a0d7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Adobe to integrate AI into Photoshop amid fears of job losses and mass faking of images"
     excerpt: "Company says Adobe Firefly is a ‘co-pilot’ to graphic design rather than a replacement for humans"
     publishedDateTime: 2023-05-23T10:00:00Z
@@ -67,6 +81,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Adobe is adding an AI-powered image generator to Photoshop"
+    excerpt: "Adobe on Tuesday said it's incorporating an AI-powered image generator into Photoshop, with the goal of \"dramatically accelerating\" how users edit their photos."
+    publishedDateTime: 2023-05-23T18:08:00Z
+    webUrl: "https://www.cnn.com/2023/05/23/tech/photoshop-generative-ai/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 47
   - title: "I Just Tried Photoshop's New AI Tool. It Makes Photos Creative, Funny, or Unreal"
     excerpt: "Adobe is building generative AI abilities into its flagship image-editing software with a new Photoshop beta release Tuesday. The move promises to release a new torrent of creativity even as it gives us all a new reason to pause and wonder if that sensational, scary or inspirational photo you see on the internet is actually real."
     publishedDateTime: 2023-05-23T13:24:00Z

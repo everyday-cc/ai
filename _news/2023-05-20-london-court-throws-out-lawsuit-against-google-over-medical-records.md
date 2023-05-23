@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "UK plans meeting on AI risks with OpenAI, DeepMind bosses"
-    excerpt: "The UK government has invited bosses from some of the world’s biggest artificial intelligence firms to a meeting, people familiar with the matter said, as Prime Minister Rishi Sunak crafts a ..."
-    publishedDateTime: 2023-05-19T03:40:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/uk-plans-meeting-on-ai-risks-with-openai-deepmind-bosses-10619981.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/uk-plans-meeting-on-ai-risks-with-openai-deepmind-bosses-10619981.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/uk-plans-meeting-on-ai-risks-with-openai-deepmind-bosses-10619981.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 74
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/RTSHI6VA.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Judge throws out DeepMind NHS data action"
     excerpt: "Claim for misuse of private information for about 1.6 million patients fails the 'same interest' test for collective redress."
     publishedDateTime: 2023-05-22T09:17:00Z

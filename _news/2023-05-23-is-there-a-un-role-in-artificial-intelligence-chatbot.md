@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Banks are all-in on AI, but there's one problem: They can't hold on to the talent. Here's why."
+    excerpt: "Top banks are pursuing employees well-versed in artificial intelligence, but they are having a tough time holding on to them."
+    publishedDateTime: 2023-05-23T18:01:00Z
+    webUrl: "https://www.businessinsider.com/banks-ai-talent-big-tech-recruiters-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
 
 secured: "DmNbp+NTHTXOv24Udls8CEMZq52N8qZ8EiSLJBw+PS/++wElBIjphz02lPW9qZTdhAuj4oRMjoGeVzrnlLK490t0ScgQy0QAR+FK+d06SpqngsmhsT+ZifDC4gQZFQYa0BvMrYo+chDbxfg3/wDdSyPXyvwdIYyi4ztssvJq98+HbAWn2BahYBLqLdOgVtV8lLqM+8FcIoU8UEWUd4naz0KjlvKiAT2B2liRwbfeaO2Mg/SI/nmijBeVV4VNCn2ZQake+DkDr2ib391IWVnlZvVE4d3/lZtsABFe/FXOmfPg5lMC6an6twS/XQ3FfJZuK5VU4zAgflDfpJyEaGmB/RDwrNG7jWu+/tLGj++XhXQ=;qXqFHgmYaj8XQbUnVrOeVA=="
 ---

@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Alphabet-backed AI startup Anthropic raises $450 million as funding freeze thaws"
-    excerpt: "Interest in artificial intelligence has piqued after Anthropic's rival OpenAI ... and food delivery platform later this year through a partnership with Alphabet Inc's Waymo, the companies said. Businesscategory Dutch government to hold 3M liable for ..."
-    publishedDateTime: 2023-05-23T15:28:00Z
-    webUrl: "https://www.reuters.com/markets/deals/alphabet-backed-ai-startup-anthropic-raises-450-million-funding-freeze-thaws-2023-05-23/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
-    images:
-      - url: "https://www.reuters.com/resizer/_PqNmWCq2ohLQJc5nge-YSsQNF4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ACRVXOZUFNKW7J4E3Z2Z7N4AQ4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Windows 11 to get a new AI assistant – Copilot"
     excerpt: "one of its most recent AI tools, embodies its vision for the future of the Windows 11 operating system. According to IT Home, Microsoft intends to roll out Copilot to all Windows 11 users later this year. However, the company will start beta testing this ..."
     publishedDateTime: 2023-05-23T17:46:00Z
@@ -84,6 +70,24 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google-backed Anthropic raises $450 mln in latest AI funding"
+    excerpt: "May 23 (Reuters) - Anthropic, an artificial intelligence startup competing with OpenAI in building AI foundation models, said on Tuesday it had raised $450 million from investors including Alphabet Inc's (GOOGL.O) Google and Spark Capital. The latest round ..."
+    publishedDateTime: 2023-05-23T18:56:00Z
+    webUrl: "https://www.reuters.com/markets/deals/alphabet-backed-ai-startup-anthropic-raises-450-million-funding-freeze-thaws-2023-05-23/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
+  - title: "Alphabet-backed AI startup Anthropic raises $450 million as funding freeze thaws"
+    excerpt: "Anthropic logo is seen in this illustration taken March 31, 2023. REUTERS/Dado Ruvic/Illustration"
+    publishedDateTime: 2023-05-23T14:21:00Z
+    webUrl: "https://www.reuters.com/news/picture/alphabet-backed-ai-startup-anthropic-rai-idUSKBN2XE0VA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 42
   - title: "AI startup Anthropic raises $450M from Spark, Google, Salesforce"
     excerpt: "Anthropic, a San Francisco-based AI startup, raised $450 million in Series C funding led by Spark Capital, the company announced Tuesday. Why it matters: The startup has been building a war chest as it competes with ChatGPT creator OpenAI."
     publishedDateTime: 2023-05-23T12:52:00Z

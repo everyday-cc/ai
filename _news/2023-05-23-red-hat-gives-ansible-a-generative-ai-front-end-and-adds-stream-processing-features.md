@@ -29,6 +29,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 51
+  - title: "Red Hat brings generative AI to IT automation with Ansible Lightspeed"
+    excerpt: "Red Hat is bringing generative AI to Ansible, teaming up with parent company IBM, to make it easier to build automations."
+    publishedDateTime: 2023-05-23T19:19:00Z
+    webUrl: "https://techcrunch.com/2023/05/23/red-hat-is-bringing-generative-ai-to-it-operations-with-ansible-lightspeed/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
   - title: "Red Hat makes Ansible Event-Driven and adds generative AI chatbot"
     excerpt: "Red Hat presented some much-needed innovation for Ansible at its summit in Boston. One very big change is that Ansible is now Event-Driven. No longer does"
     publishedDateTime: 2023-05-23T14:47:00Z

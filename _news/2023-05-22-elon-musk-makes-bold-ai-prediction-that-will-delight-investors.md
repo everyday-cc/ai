@@ -44,20 +44,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "Who will win the AI race? What it takes to become a prompt engineer"
-    excerpt: "Google / DeepMind / Anthropic: Graduating from Cacofonix to Shakespeare"
-    publishedDateTime: 2023-05-19T02:59:00Z
-    webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk19052023.html"
+  - title: "Infogain AI Business Solutions Now Available In The Microsoft Azure Marketplace"
+    excerpt: "NAVIK customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. NAVIK is an AI platform that addresses the breadth of AI ..."
+    publishedDateTime: 2023-05-19T14:46:00Z
+    webUrl: "https://menafn.com/1106278090/Infogain-AI-Business-Solutions-Now-Available-In-The-Microsoft-Azure-Marketplace"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 41
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/05/17/original/Picture2_1684327235354.png"
-        width: 624
-        height: 351
-        isCached: true
+      name: Mena FN
+      domain: menafn.com
+    quality: 45
 
 secured: "Psh9WJ/AbZ5+5IT3d7r/LmUSjqIC750af91TrXzvNF0WiKpsskDftedON7joLbThvLS2STN0UFIkaUAfxSTKa2+2eDT2jdzzYu1vkvIjUdgVfj9XlqYaqNIbg7oxT5Uz01n+KGraDOVJVHQsjt77bG2FoW4+x7HdQVjvc7bA3cbmR7sBMTD6V2j1g5eJj0U8bdnK5DfcH4PzM8N6vbVdzhzQXT6Sa31NoelTgxBZ8Qvegg1jdF7GIywGJXbjGb/OnbfZGayapTPV7xp7ryr+y69GjuiLd96ZIZq1X5jYENlMnk3pyUohiH7Erk2lRu03vMFkVbLZZpUlwEz0KAfkL6lvc+VjGBB0Ut5AuxF69KQpqvTU/g3cx73QHJr7fDenQUIdBP23WxBV9WE4bYiby+qpm40d526N7lM36BrD654mF5n0GJtvszgHebDVGl0P6jM/fTHH2gA7Lfaf1xQyjNeQeWx4B8yMVz2nCQhiaY4Czm4HTbVZENiAH9uGIj8GyBTqRDZR+QhJIXbP8s5WVQ==;Iz8ImoSsjikZihCMZhR1EQ=="
 ---

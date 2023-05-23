@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Amouranth releases AI companion to ‘satisfy needs of fans’"
-    excerpt: "Twitch star Amouranth is launching her very own AI companion that fans can talk to that includes voice responses."
-    publishedDateTime: 2023-05-19T01:35:00Z
-    webUrl: "https://www.dexerto.com/entertainment/amouranth-releases-ai-companion-to-satisfy-needs-of-fans-2150173/"
+  - title: "Twitch Star Amouranth Probably Won't Date You—But Her AI Bot Will"
+    excerpt: "One of Twitch's most popular streamers has launched AI Amouranth, a bot that can have virtual dates and converse with users."
+    publishedDateTime: 2023-05-23T20:24:00Z
+    webUrl: "https://decrypt.co/142063/twitch-star-amouranth-probably-wont-date-you-her-ai-bot-will"
     type: article
     provider:
-      name: Dexerto.com
-      domain: dexerto.com
+      name: decrypt
+      domain: decrypt.co
     quality: 39
     images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/19/Amouranth-launching-ai-companion-bot.jpg"
-        width: 1600
-        height: 900
+      - url: "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/amouranth-twitch-sreamer-gID_7.png@png"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "fBMHzr4G9jfwzpuVSSkgbB1ANOerz28SdAjLqvllu+aKT+lI5tv0KaTI3VG1Rp25DR+T53ceI5SO6Frp6on7ZNaTWL8u6Uu+ApMRe8q3NsoXjzrycPf4wGG9yEAgYRmC6dq9RZYe3vJMhhNz0qhidRM/1r0QfuXL3pea0HjONsgkd8nqJ+B3hBPGyz1wPm6qleTx0vhEd/zJ9imt5sZyrtgTqNuxeU0mYy+U/VyQUZ5rN5sMAZ38Dkry+/EHXLL8IZBb1Vzgyyri937qtCPYRkTHEDFFNP+NqNrA8sB2eidRkaalNf+i/4xwmbvuyfGoiwU2Ey914HPqMlk9/yJD2O8UCawJAARmA1aEjH26TmbhLBL/vwFF+HQrGxASpIMUDhJ/oo3YBRzb8NkcgH3ssXsJ/DvC1d4a4f/ydb7903s1aviogKauVzVfrzF9G+zTtLXiU/uPEojOlJLLosfHquOQ5QztbppbCsUa8MM+wNDk4OkVrMamK+aoUGLu77HWPDjpnmV5XydOnJ1W8Xhx3w==;nCzDyzNLNATfJajO6gyAGg=="

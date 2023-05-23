@@ -21,74 +21,20 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Facebook parent Meta unveils chip for AI programs"
-    excerpt: "Facebook parent company Meta has unveiled its first custom silicon chip for processing AI programs called the Meta Training and Inference Accelerator, or MTIA. It also talked about a new AI-optimised data centre design and the second phase of 16,"
-    publishedDateTime: 2023-05-19T03:01:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/articleshow/100343511.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/amp_articleshow/100343511.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/amp_articleshow/100343511.cms"
+  - title: "Meta Working On New AI Chip, Next-Gen Gpus For Video Workloads"
+    excerpt: "Meta (formerly Facebook) is building its first-generation custom silicon chip for running artificial intelligence (AI) model"
+    publishedDateTime: 2023-05-19T06:34:00Z
+    webUrl: "https://menafn.com/1106275451/Meta-Working-On-New-AI-Chip-Next-Gen-Gpus-For-Video-Workloads"
     type: article
     provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 74
+      name: Mena FN
+      domain: menafn.com
+    quality: 69
     images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-100343511,imgsize-15346,width-800/100343511.jpg"
-        width: 800
-        height: 450
+      - url: "https://menafn.com/updates/pr/2023-05/19/I_95b6bimage_story.jpg"
+        width: 304
+        height: 288
         isCached: true
-  - title: "Meta fined record $1.3 billion by EU over handling of Facebook user data"
-    excerpt: "European Union data regulators have hit Meta with a $1.3 billion fine (about €1.2 billion) and ordered the company to cease transferring EU Facebook user data to the US by October. The fine exceeds Amazon's $886 million fine from the EU for data protection violations in 2021."
-    publishedDateTime: 2023-05-22T16:49:00Z
-    webUrl: "https://www.zdnet.com/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 73
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/51f5cfda5dbc9796f18e715d4ae239f452ffb46a/2023/05/22/84c5ed15-7609-42d0-bd54-9a07cb0e23c1/gettyimages-1244644879.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Meta makes it easier to apply deals in-feed for Facebook"
-    excerpt: "The new promotional ads format enables users to click an ad to automatically claim an offer and be notified before the deal ends."
-    publishedDateTime: 2023-05-22T14:51:00Z
-    webUrl: "https://www.marketingdive.com/news/meta-tests-promotional-ads-format-new-lead-generation-tools/650819/"
-    type: article
-    provider:
-      name: Marketing Dive
-      domain: marketingdive.com
-    quality: 4
-  - title: "‘You can’t unsee it’: the content moderators taking on Facebook"
-    excerpt: "In his job, he had to watch a new Facebook video roughly every 55 seconds ... which had been working in Nairobi for several years on labelling data to train artificial intelligence software for clients including Meta and Tesla — take on the work of ..."
-    publishedDateTime: 2023-05-22T13:21:00Z
-    webUrl: "https://www.ft.com/content/afeb56f2-9ba5-4103-890d-91291aea4caa?trk=public_post_comment-text"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 4
-  - title: "Shutterstock to acquire Giphy from Facebook parent Meta"
-    excerpt: "Shutterstock announced that the transaction consists of $53 million of net cash paid at closing, inclusive of working capital. Meta is also entering i"
-    publishedDateTime: 2023-05-23T13:49:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/shutterstock-to-acquire-giphy-from-facebook-parent-meta/articleshow/100451593.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 4
-  - title: "Facebook parent Meta fined $1.3 billion for violating EU data transfer rules, company responds"
-    excerpt: "According to the Irish privacy watchdog, Meta's use of a legal instrument known as standard contractual clauses (SCCs) to move data to the US \"did not"
-    publishedDateTime: 2023-05-22T12:03:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/facebook-parent-meta-fined-1-3-billion-for-violating-eu-data-transfer-rules-company-responds/articleshow/100422243.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 0
 
 secured: "9KKjuw9C/NVNpH7PqlHWNL+FNlXbTZShAUVnSLP7Xqdh3/TJaXnG74ns5ajK0x1KID8XsisF0dekVkYUREp5iIA0Z4AzNqofxo5nlTfBx2yoMGdhmm3uMMwogSk1PShLqz2VJy6uVlNxRhGXXm7/AIZqct0hQ6LS+CI+ccbeB4kC0i+6qDveugNaZI9x0etBmgiNvtbwd3ZL71G8JSyaMoO61xx5AGSRADCaJXpdHi3Wsi6Urmx+Tl9RbSs/QSerKkWOxbkYIZR10cTK8yXOkOr9VxyzTfZbbm+yf+U711zXmXhgBwaMt4W7HRAtKOZPotLuR0a7ZK0LHf/AaAmfHUDl4+p0NmCaa1ZiUmMOfz527SCv6y2j6We6QbDQ89oV6morzZF8g88DgRwulWdj20J+qCRu1/EK8b0Q0cMsLpXpAXK2dxVnmZm4cOXmLefBo5sa8c6IHbn/3ZWQGDwrfEqCpjJDmgMpeu/T543YzhloQnQs1yWeBru9/cn6NC84GxZX20SAWjcB11/0tu2Pfg==;BNGkWvjAJNW2yWQpfCMVzg=="
 ---

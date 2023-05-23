@@ -24,6 +24,17 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "The Roundtable: Navigating the Micro Economy of Influencers, Artists and AI"
+    excerpt: "In a recent roundtable, industry experts came together to discuss the potential of the micro economy surrounding influencers, artists, and the impact of artificial intelligence (AI) on their work. Rob Nelson,"
+    publishedDateTime: 2023-05-23T21:18:00Z
+    webUrl: "https://www.thestreet.com/cryptocurrency/news/the-roundtable-navigating-the-micro-economy-of-influencers-artists-and-ai"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 15
+
 secured: "oZwIPyIrAUiahNJLIroa15gnaYE0wKD1kdkmDS+uJaNmW92xAbfDVMOaYGD4w/reefMxXHBqzZJqpxZ8JBYfx98Et5aFOUGStJyzf0SzxvOvGmq/4mMNvmg7nS/B8DHc3hM9lFrT2EZ8VXa5zgeV6wNXLBWkL2Du6KdHfgKFp1KVW18+J1JyHYTR6fDd0jFWpDoMn1TH50pESLvaw7OcId206lMEp7y5/oD+/1xY/+EZ6eQHoFuokOEkoorDxtDYI/FZfaOKQiLHx7p11tmHUmL25m7ZGmvqFU+iGh/2VJ6eM+tpRNE63BPVcM4IVKhRP4VOKEN6B1dBBXp7RLXiRxOoklB5kT1r2vdbtqD2r+SlxV8I/w/WJ1tDQNFA+8CQGVk908K6uRNXCy4sm44KrKemt2uA0gJNnP1nJ45RNpuk9ZVRPlHOoZAkacyvELXBK91fWDta5My2h9PkZ3J2q+uyzbTqh5blfciV9Xmmt2LEaxDaXPHyXtOYJ8tUpjZfj5GjuXsOYD3fdn4Ot6oSGw==;0jhYlAlxijcsvF33Pggsdw=="
 ---
 

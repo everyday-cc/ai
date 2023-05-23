@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/05/19/health/chatbots-mental-health-par
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/19/health/chatbots-mental-health-partner-kff-health-news-analysis/index.html"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Banks are all-in on AI, but there's one problem: They can't hold on to the talent. Here's why."
+    excerpt: "Top banks are pursuing employees well-versed in artificial intelligence, but they are having a tough time holding on to them."
+    publishedDateTime: 2023-05-23T18:01:00Z
+    webUrl: "https://www.businessinsider.com/banks-ai-talent-big-tech-recruiters-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
 
 secured: "kyVdx7X7+QeAN6DuC8Ueu5JWSCTfb+tKT2pTOhMc+Mp/Ez0jqLkb0uGqoISEmtGfQmgI55CUwuI3Srn+benF3kHhAqeJZ8LZWPWrJ1FJ1wp59hIgPTLcGij5vV9/XhxhM89RIjUU2KEvI/ZzkmSEExB0RopYzyDBh+MzLymKs0pTZMYIqAg/wdQz1dWhjXpmqbkHmqfXVbcIuNOl2W47Et0lEKYvV1lKj1wxR4vmqnfirz4vpKsiA1pPqh5HizczOHCqk+jFBRJA3287SuLhb3uV4XKPnNY+cjHYHCop6zmkD39tAiNfq8ZItpCGda4j6MJB+OcUC62QA5P6OOfFqkU53ec9IjS14ttm/CANOJ4=;zayWaG5SpBU6m7/QnLR0Jw=="
 ---

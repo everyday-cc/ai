@@ -85,6 +85,29 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Mai Writer Uses Generative AI To Double Marketing Output and Conversions"
+    excerpt: "Kenn Costales, the Forbes 30 Under 30 Founder of AI startup Mai, is inviting copywriters, content creators, and digital marketing professionals to maximize their productivity"
+    publishedDateTime: 2023-05-23T16:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32535516/mai-writer-uses-generative-ai-to-double-marketing-output-and-conversions"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+  - title: "Datadog's New Capabilities Help Azure Organizations Manage Costs, Migrate to the Cloud and Monitor AI Models"
+    excerpt: "Observability is increasingly important in helping organizations meet their cloud goals—at a time when efficiency is paramount. Azure Arc helps organizations manage their on-premises, edge and multicloud environments more efficiently."
+    publishedDateTime: 2023-05-23T21:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-datadogs-new-capabilities-help-azure-organizations-manage-costs-/2023/05/23/9819820.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/1730117/Datadog_logo.jpg"
+        width: 400
+        height: 210
+        isCached: true
   - title: "Cohesity Turing aims AI tools at backup and ransomware"
     excerpt: "Backup supplier continues to enrich its ecosystem with more artificial intelligence (AI) for backup and ransomware, with chat-like reporting functions and new security partners in its alliance."
     publishedDateTime: 2023-05-23T09:00:00Z
@@ -104,6 +127,6 @@ related:
       domain: bignewsnetwork.com
     quality: 14
 
-secured: "3z0iYk3BdxI5TAosN56cKaPbxQK9YNfyko9BJ4JgJT/y5ijI2+UOHCmv6GF8L5fwxQleCzQE2UGIcn2qlowWEpNBYF4XuP8h2HhXc/JaBzRpambxfAv1ODL6UQPLgEifhrIYejwR9saZD7gVQwMOU3cjwh4jaPdjEHhI7v99D+FTzNzytoJi6dfEFtmNY+7v3i7wJc3GObg/VNb2GFm/I88FCUgqOZyvyQHUvEVln0cY9Il1F/Yyz/ZowioXnC2Wi1afyh4WpeCtTP1atu7eQkbR1V/itFwJzD9Cl9xOuj5fYAFCSNJgM/3sTWz0pkLtssgrw9EcR9Nwz7jfY8b97CxFzECAHN/AjYszKj6Qm7c=;CntB31vxDT+F7c5S4hyaLw=="
+secured: "yRgCHJRnykvhhwrYYkWVG2Da3C0g8K+kbzrJf6LW5oKYqb7jcA5xr3tL3RI34cVKkQP4DJ53YyioWI5E4plglMKCDFTKljhBgz7TNfVFuNaXW874RsYpo7CbYHgSw/w0u4rzYbOJSR0vgO9sSEkCVM7OKa4wawcLGYQCkEFm0CsCuVc+KmdJB64dU31fOKD3W+m/ZhuSaebz3dlx32K3pkzF24Rv0KgsyUr2CSnx6317//tWYMk1X56mZ5BeYfBRCuMk/fv9rqSer47W90mIHVEffQ6CnOxqLyx8DjvV4T5CYOL81YyvtSk0eCqvA4AqdDKHLvuB151i1n3m6pIkGBRcpKJrSHtlK3MsNdsi9lEz0z601MlYurMHal7LcYLlffwhztI3DqjUXYGGue/MMrWI8vY99dsfdtF+/clLIPHfMHgkfR4H7mbUc/LTtn35gumcOH4LOk/n1shVGb1SCu6SuEb9LUHHTrrWdc6S+PgUwt4NhndxWll0p41dbfWhKiDKUzebpB/aeTavI7SNXA==;QSdIDo/uaXEInhFppaOTsA=="
 ---
 

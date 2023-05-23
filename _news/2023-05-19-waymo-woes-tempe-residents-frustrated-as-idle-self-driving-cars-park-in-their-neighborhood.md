@@ -21,6 +21,15 @@ topics:
   - AI
 
 related:
+  - title: "Despite Bruising Court Battle, Uber to Offer Self-Driving Rides From Rival Waymo"
+    excerpt: "The two companies were once locked in a high-profile legal battle over trade secrets. But now Uber is going to host Waymo rides through its own app for users in Phoenix."
+    publishedDateTime: 2023-05-23T19:11:00Z
+    webUrl: "https://www.pcmag.com/news/despite-bruising-court-battle-uber-to-offer-self-driving-rides-from-rival"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 44
   - title: "Uber to deploy Waymo self-driving cars in Phoenix area"
     excerpt: "Uber is poised to begin rolling out Waymo self-driving cars in the Phoenix area, marking what could be the first step in a broader partnership that signals the end of the long-standing feud between the two companies."
     publishedDateTime: 2023-05-23T17:11:00Z
@@ -34,6 +43,20 @@ related:
       - url: "https://images.axios.com/KF2ET-E9UiBQerCfVBiZ3Wn2yrw=/0x0:1920x1080/1366x768/2023/05/23/1684858748699.png"
         width: 1366
         height: 768
+        isCached: true
+  - title: "Uber will now let you book a Waymo self-driving car through its app"
+    excerpt: "The companies say that customers will be able to use the self-driving cars not just for ride-hailing trips through Uber, but for delivery services through Uber Eats as well. In addition, customers can still book a ride through the Waymo One app."
+    publishedDateTime: 2023-05-23T21:28:00Z
+    webUrl: "https://bgr.com/tech/uber-will-now-let-you-book-a-waymo-self-driving-car-through-its-app/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/03/waymo-jaguar-i-pace.jpg?quality=82&strip=all"
+        width: 1600
+        height: 899
         isCached: true
   - title: "Waymo, Uber set aside past rift over self-driving car technology to team up on robotaxis in Phoenix"
     excerpt: "- Phoenix Mayor Kate Gallego arrives in a Waymo self-driving vehicle on Dec. 16, 2022, at the Sky Harbor International Airport Sky Train facility in Phoenix. Self-driving car"
@@ -49,20 +72,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Apple engineer steals secrets on self-driving cars and flees to China, US feds say"
-    excerpt: "A former Apple engineer accused of absconding from the company with trade secrets on self-driving cars fled to China, federal officials reported."
-    publishedDateTime: 2023-05-22T05:08:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/05/22/apple-engineer-steals-secrets-on-self-driving-cars-and-flees-to-china-us-feds-say"
+  - title: "Waymo, Uber set aside past rift over self-driving car tech to team up on robotaxis in Phoenix"
+    excerpt: "Waymo is teaming up with Uber to offer rides and deliver food in robotic cars that triggered a bitter technological dispute between the two companies."
+    publishedDateTime: 2023-05-23T19:44:00Z
+    webUrl: "https://www.azcentral.com/story/news/local/phoenix/2023/05/23/waymo-uber-team-up-on-robotaxis-in-phoenix/70249175007/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 18
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/22/2084800.JPG"
-        width: 1240
-        height: 852
-        isCached: true
+      name: AZ Central
+      domain: azcentral.com
+    quality: 8
 
 secured: "+spw53JYv1CYccJftDhTYUFCFbz9E7OD8mLv8w0z/7NwtSuV3PgTU9QZekZlHEA5Ha+eUZrdlVxzrtR/O8xV3VnbKEEHYuWa+x0pUqwP8QZ4jZMhFIQJ2Uc3/i4haZwIt/M4IK8uYEciLtysfqLlKsuT2by+4zIKVOQfRP2sfSxiDq8KvufP+NOJBXs0wntZdnS/edil2oGLgVme7zoHTYdVbSSGnjJJ82/7P8mzyJr2X0gesp+COQ1RmwAgm59Li3qbunXzGRMcKgSkOt4P6R0YBmFaswU9Kpsgi7dsUeOmHlJhyJLgtdgt3TroFt+0QR4D2xSRHlQfu4qm38vihGY/6NI4da+6vxebH6XUtcNRWzg7Kjq55EW+6wjNdzMxRoSHFiP5JP7hRgPHYBJPdJ7JFVxf1Tq+0uIs3I/yO56FMmAXQ6TOFrbjXzsbyA3E78l85eI7aZsULkU/ft19TXsX/JAa/4VGhChQgxoiElMcw7Ctt+3Jqrd8yHaMQ9z+hxQKgcZmjbRH/LbuhJDl2A==;nKAc2vzm3D6GtmabGUfA/g=="
 ---

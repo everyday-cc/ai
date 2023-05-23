@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/teradata-deepens-dataiku-integration-to-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/teradata-deepens-dataiku-integration-to-accelerate-enterprise-ai-projects/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 116
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft integrates Nvidia’s AI Enterprise Suite with Azure Machine Learning"
+    excerpt: "The integration of Nvidia’s software suite will further help enterprises build, deploy, and manage applications based on large language models."
+    publishedDateTime: 2023-05-23T19:01:00Z
+    webUrl: "https://www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 63
+  - title: "NVIDIA Collaborates With Microsoft to Accelerate Enterprise-Ready Generative AI"
+    excerpt: "The integration will create a secure, enterprise-ready platform that enables Azure customers worldwide to quickly build, deploy and manage customized applications using the more than 100 NVIDIA AI frameworks and tools that come fully supported in NVIDIA AI Enterprise,"
+    publishedDateTime: 2023-05-23T20:49:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/23/9819788.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
   - title: "BeeKeeperAI's Patented Collaboration Platform Drives Healthcare AI Advancements on Protected Data"
     excerpt: "To accelerate healthcare AI development on protected information, BeeKeeperAI announced the commercial release of its patented, zero-trust collaboration platform. EscrowAI harnesses Azure confidential computing to address the challenges of data sovereignty ..."
     publishedDateTime: 2023-05-22T22:03:00Z

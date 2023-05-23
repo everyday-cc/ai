@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/news/picture/intel-gives-details-on-future
 webUrl: "https://www.reuters.com/news/picture/intel-gives-details-on-future-ai-chips-a-idUSKBN2XD1A3"
 type: article
 quality: 84
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://www.newelectronics.co.uk/media/k1zd5rhn/intel.jpg?width=1200&height=630&mode=crop"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Intel shares details on AI chips and shifts strategy"
+    excerpt: "NEW YORK: Intel Corp has provided a handful of new details on a chip for artificial intelligence (AI) computing it plans to introduce in 2025 as it shifts strategy to compete against Nvidia Corp and Advanced Micro Devices Inc. At a supercomputing ..."
+    publishedDateTime: 2023-05-23T21:14:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2023/05/24/intel-shares-details-on-ai-chips-and-shifts-strategy"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/24/2088373.jpeg"
+        width: 1080
+        height: 723
         isCached: true
   - title: "Intel Promises Falcon Shores AI Data Center Chip in 2025"
     excerpt: "These rapid advances in AI don't just happen, though. It takes unfathomable computing power to train and run these models. Intel hopes to get a bigger piece of this business with its upcoming Falcon Shores chip, and it has just revealed the first details ..."

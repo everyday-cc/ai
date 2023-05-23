@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-23T13:00:00Z
 originalUrl: "https://siliconangle.com/2023/05/23/ai-automation-headline-red-hats-annual-user-fest/"
 webUrl: "https://siliconangle.com/2023/05/23/ai-automation-headline-red-hats-annual-user-fest/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - IBM AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/Red-Hat-Summit-2022-Hero-Image.png"
