@@ -266,6 +266,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Regulators turn to old laws to tackle AI technology like ChatGPT"
+    excerpt: "As generative AI models gain prominence, regulators are delving into existing laws while shaping new regulations to address privacy and safety concerns."
+    publishedDateTime: 2023-05-23T02:42:00Z
+    webUrl: "https://interestingengineering.com/culture/regulators-use-old-laws-to-regulate-chatgpt"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 37
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/22/image/jpeg/I8FKpngLiRzRDTS7G1SVkRzE8lWrtdhcuBlQZvsi.jpg"
+        width: 1920
+        height: 1282
+        isCached: true
   - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
     publishedDateTime: 2023-05-18T17:30:00Z

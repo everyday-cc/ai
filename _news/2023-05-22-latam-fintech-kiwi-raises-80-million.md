@@ -33,20 +33,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Bank of America launches FinTech accelerator for underrepresented communities"
-    excerpt: "Bank of America has launched a FinTech accelerator programme aimed at presenting economic opportunities to entrepreneurs from underrepresented communities. <br /> <br /> Bank of America Breakthrough Lab is now open for applications for its September 2023 cohort."
-    publishedDateTime: 2023-05-18T09:58:00Z
-    webUrl: "https://www.fstech.co.uk/fst/Bank_of_America_launches_FinTech_accelerator_for_underrepresented_communities.php"
-    type: article
-    provider:
-      name: fstech
-      domain: fstech.co.uk
-    quality: 36
-    images:
-      - url: "https://www.fstech.co.uk/fst/images/businessman-buttons-virtual-fintech-m.jpg"
-        width: 5580
-        height: 3138
-        isCached: true
 
 secured: "AfHqy//5XyLqu2WY304Hg0d8ii69J7BnXJKeev1JitYCFUdqZtWVPhKgKgEvv1DB1x7fgMT2rhKPy1OWXj2PTxkRuZUngCVmJT+HKx0JH4R6Li6TjCgb7Nk1N5bxdO32kE64MplVaX0y7PWC+clVCbX0Zx8pnl+etVdFRqO4SJjZlDejVXdD9B2U3biNbi/6Wk/bbZTgkOjsaRLfiv8JTZwVRLWdmT9tR6JTK25fftzM54hAfFuEhlEuIVxROurwi1DP0yF50zm3Q9XVPdrmWFs4zpF8C3X3GFjh9a6+Dg9ZVcZeV3Gypqppi07UJ3YiCtyIO+ZfxfI233R+KOgSBUgSL+/MvHVwSOtSV2X2134=;kHDdWwpBxlh++3kAvDgHSQ=="
 ---

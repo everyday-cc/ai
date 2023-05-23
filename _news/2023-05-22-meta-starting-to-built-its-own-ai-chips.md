@@ -183,20 +183,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Watch 44 million atoms simulated using AI and a supercomputer"
-    excerpt: "The most accurate simulation of objects made from tens of millions of atoms has been run on one the world’s top supercomputers with the help of artificial intelligence. Existing simulations that describe in detail how atoms behave,"
-    publishedDateTime: 2023-05-18T09:20:00Z
-    webUrl: "https://www.newscientist.com/article/2373022-watch-44-million-atoms-simulated-using-ai-and-a-supercomputer/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/05/10134949/SEI_154564255.jpg"
-        width: 1350
-        height: 899
-        isCached: true
 
 secured: "RfLBgsdj2ayPud4qgepFCRtrguQPjYZl6sFCLN4T5HKGjJUtiQ3ImGsMy/GamEW7BasJAmNRgPByQ19laYgCNqUh5gfdNpXMD+u4OjE7l4JX/h6zQWVJWYh4mU2Sj3/zeZdW94yfXeuIwDECbIoe7WiJOGQwlqE5Q8fdzPRZL7gtVBRsi+PEKMMBfYeYqxGWF+i9fC30cOrDnIe6XpK0lqmPysTReLr1xC5dXVg7n1LXyDzdCmvl6gZlk5AobfnE+Rde98mH5LdwFCUkRqh7y1pe1dn9cb3U3+ex7IyKDD4zM5uLV4qKaVjn/QsmSxB5t8hi6wrnGi/lZosj9/5l0pzjwN/5RWUcuGJ+53YmcveJLsnnhJuEUocU1Bz2IHjFa6R9mQShCGeE2Nvmhl2c6ZhObRvSiSAZYJ+xnQDfG/8M+Qb6oYOv6B+q/hMuxybDjO7fkQuErsZ0gM4vJbGzmJhusK0cdmoAFoaASsrJ+9X0EdAKifVm04VlCiRGHUHGyMAJghYHtPTlpe7vXPN8lw==;BoNIRpbavwepeJ1LLPSgCg=="
 ---

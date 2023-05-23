@@ -69,15 +69,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "7 Semiconductor Stocks Cashing In on the AI Hype"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Semiconductor stocks are gaining importance as the technology is increasingly"
-    publishedDateTime: 2023-05-18T10:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-semiconductor-stocks-cashing-in-on-the-ai-hype-1032336987"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Although AI is a Bubble, It’s Still Investible"
     excerpt: "Sam Altman, the CEO of OpenAI, which brought us ChatGPT, has gone to Congress to demand regulatory oversight of Artificial Intelligence (AI)"
     publishedDateTime: 2023-05-18T19:09:00Z

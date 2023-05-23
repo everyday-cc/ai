@@ -39,6 +39,22 @@ related:
         width: 810
         height: 542
         isCached: true
+  - title: "Intel reveals new details about upcoming AI chip"
+    excerpt: "Intel has revealed details about its upcoming chip for artificial intelligence (AI) computing during a recent conference in Germany. Intel, which is struggling to grow its business, aims to launch the chip, codenamed “Falcon Shores,” in 2025."
+    publishedDateTime: 2023-05-23T02:26:00Z
+    webUrl: "https://www.telecomlead.com/telecom-chips/intel-reveals-new-details-about-upcoming-ai-chip-110523"
+    ampWebUrl: "https://www.telecomlead.com/telecom-chips/intel-reveals-new-details-about-upcoming-ai-chip-110523?amp=1"
+    cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/telecom-chips/intel-reveals-new-details-about-upcoming-ai-chip-110523?amp=1"
+    type: article
+    provider:
+      name: Telecom Lead
+      domain: telecomlead.com
+    quality: 74
+    images:
+      - url: "https://www.telecomlead.com/wp-content/uploads/2017/10/Intel-technology-for-5G.jpg"
+        width: 640
+        height: 353
+        isCached: true
   - title: "Intel Promises Falcon Shores AI Data Center Chip in 2025"
     excerpt: "These rapid advances in AI don't just happen, though. It takes unfathomable computing power to train and run these models. Intel hopes to get a bigger piece of this business with its upcoming Falcon Shores chip, and it has just revealed the first details ..."
     publishedDateTime: 2023-05-22T20:45:00Z

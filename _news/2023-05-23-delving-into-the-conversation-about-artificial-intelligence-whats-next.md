@@ -1,13 +1,15 @@
 ---
 category: news
 title: "Delving into the conversation about artificial intelligence: What's next?"
-excerpt: "Artificial intelligence is forever changing. CBS News Detroit sits down with three guests to discuss AI and its potential impact on the future."
-publishedDateTime: 2023-05-23T01:18:00Z
-originalUrl: "https://www.cbsnews.com/detroit/video/delving-into-the-conversation-about-artificial-intelligence-whats-next/"
-webUrl: "https://www.cbsnews.com/detroit/video/delving-into-the-conversation-about-artificial-intelligence-whats-next/"
+excerpt: "Many worry about job losses due to this technology, while others anticipate its impact in the future as Congress examines regulations."
+publishedDateTime: 2023-05-23T01:48:00Z
+originalUrl: "https://www.cbsnews.com/detroit/news/delving-into-the-conversation-about-artificial-intelligence/"
+webUrl: "https://www.cbsnews.com/detroit/news/delving-into-the-conversation-about-artificial-intelligence/"
+ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/delving-into-the-conversation-about-artificial-intelligence/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/delving-into-the-conversation-about-artificial-intelligence/"
 type: article
-quality: 38
-heat: 38
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -15,15 +17,14 @@ provider:
   domain: cbsnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/05/23/5c396e4f-bda9-4d79-b2aa-646906955877/thumbnail/1200x630/f0b9cbd99d132022fe4db082e49696e4/a48126f087a2e4d7823bb79f4ddf680b.jpg"
+  - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/23/dc28e7ae-3912-4fa6-a650-1147b5362a51/thumbnail/1200x630/805be5d711bff63fb423dd8ba9d1ae2c/gettyimages-1483272785.jpg"
     width: 1200
     height: 630
     isCached: true
 
-secured: "ACRxabhu7avNVKYxzuYNQz/x+YlYHm5KeGCcTl/xNFAMRO+ckCe3hQifCBvJGDADSW+KmMcaua3AXKmnuNIBIFv5KUdpmcdzYnRRpDH4VTfaLMt1jKTziCbcgL+s915B8c9bMmGQlTkrTbgb88KV050DpM2E96IXqbtFa6JxJct7aIvHN6gPlgy5pI7gg8n7F2JULP1/zgZRNlB5ZqQeCYArDPJ0hCADB/Hn4VOKTwj3fraG3gWiWyy+Y9FpxNy8u0v8MIEfFSBPdCftiTfCs8wqUB+A/JHZT/EY5FhWOXLWRb1ZuqoPqngpUfoIC3EwLK/sJHbGM/5hYwPD4kK2fQCHWJh2xeIHCqYFgUlPEaQ=;CaGHb7bGbRqErXcBCygsxA=="
+secured: "evB4FkaOjvLgI69/jZjVTC9rvHYvcfK7Z0GuCFSdPIHa+6jZB2ERgziOEq/CE70EkWHce1Rp4TqYimt+3Vk5Fz3jXYogSIz/J20FYKdzZNBEW9r+i5rx4om4GuSb75ARKTPiqlrg/NTyBjf5On1qL7qWWZMZ2rBCNqeRJGTbHWDjWsUMo05PVerU/qNzvz/i2VAV7FBn4l/XOeL7U08i1m7UJXluc+8LwmEGFydZsha90RbIjAe/lnudfDy7quyGH60lHQpg3UYN5+5fU7T80Zhukmg67fs6Go0KwXXsa97B29bRQhSb8Cty9VaO2RJRWmm1bukFZQCTtLrzSPaAANKUN+QlL1fP/L0r0c/4rmI=;dPBqhbAFI1lqlb71OIZL6g=="
 ---
 

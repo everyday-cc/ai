@@ -62,15 +62,6 @@ related:
     quality: 38
   - title: "‘You can’t unsee it’: the content moderators taking on Facebook"
     excerpt: "In his job, he had to watch a new Facebook video roughly every 55 seconds ... which had been working in Nairobi for several years on labelling data to train artificial intelligence software for clients including Meta and Tesla — take on the work of ..."
-    publishedDateTime: 2023-05-18T09:40:00Z
-    webUrl: "https://www.ft.com/content/afeb56f2-9ba5-4103-890d-91291aea4caa"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 4
-  - title: "‘You can’t unsee it’: the content moderators taking on Facebook"
-    excerpt: "In his job, he had to watch a new Facebook video roughly every 55 seconds ... which had been working in Nairobi for several years on labelling data to train artificial intelligence software for clients including Meta and Tesla — take on the work of ..."
     publishedDateTime: 2023-05-22T13:21:00Z
     webUrl: "https://www.ft.com/content/afeb56f2-9ba5-4103-890d-91291aea4caa?trk=public_post_comment-text"
     type: article

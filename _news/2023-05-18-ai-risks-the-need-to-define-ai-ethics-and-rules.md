@@ -73,6 +73,20 @@ related:
         width: 850
         height: 594
         isCached: true
+  - title: "'I think it's all in how we use it.' Talking to machines: The rise of conversational artificial intelligence"
+    excerpt: "MILWAUKEE (CBS 58) -- Artificial intelligence (AI) is breaking social norms and paving a new way of communication and relationship building. AI has taken the world by storm, first with the mainstream usage of ChatGPT, and now, its slow integration into ..."
+    publishedDateTime: 2023-05-23T03:02:00Z
+    webUrl: "https://www.cbs58.com/news/i-think-its-all-in-how-we-use-it-talking-to-machines-the-rise-of-conversational-artificial-intelligence"
+    type: article
+    provider:
+      name: CBS 58 News
+      domain: cbs58.com
+    quality: 18
+    images:
+      - url: "https://newscdn2.weigelbroadcasting.com/DApH2-1684805478-255765-blog-1000P_AI%20RELATIONSHIPS%20_WDJTDRL2_00-03-15%2C03.JPG"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "G2Xzg12xvK/Sfk5l23fUngSUowLJT8YZSjTnMwDQY0a2qFJGwUCsoVuHcf35zhaqB/8U6OlN4P9whU7Lcu6mb7mNrXUegJ4Y1VhHlgzs+20Fydn4Uo6g+GXyPqVDhJPhgeRNwMl0wGwd7SxEzVkRmM8mYHqWfQABTlnlRKJj9y749WqgDQzSkOTdcjxRH8E9fqcB5z93OQcgwPFkfJJ7+s+M20QhPIfjh6tShOsdxqWjiwKZeEvM3PBqRE/+1cs9Mv+lQ7bEXB9EIzIa9nDqSbPCWJ1Eu/L7v6qx0jOfJxiezL6kt9ie4bxqCWekpearFbizB5cUbv6svROARzTVclmmeFvtFlzZTDCTGPUFBFaxoQs71yZ+cN8tRfb55H+bHn8HBCOSW+vc15QSjAgWVd8IOH/clkcCoiaP/lF66ulbK8hVhKSuRs+GcfPCl8XXloeZsfc/3TNhO2n9uKugFCpHc0wMXB8YZrm+VO6CYfhvamaKNqPzVwJteTJh3LtAUUn/pR0d9tY9hT0SWpVnDg==;Is7EU6LNz1dDzJ8f0KZdZw=="
 ---

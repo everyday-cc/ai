@@ -2,40 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2023-05-10-ai-robots-figure-out-how-to-play-football-in-shambolic-footage.md",
-      "title": "AI robots figure out how to play football in shambolic footage",
-      "excerpt": "Robots fitted with AI developed by Google’s DeepMind have figured out how to play football. The miniature humanoid robots, which are about knee height, were able to make tackles, score goals and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/ai-robots-football-deepmind-b2335502.html",
-      "originalUrl": "https://www.independent.co.uk/tech/ai-robots-football-deepmind-b2335502.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-10-15-amazing-real-world-applications-of-ai-everyone-should-know-about.md",
       "title": "15 Amazing Real-World Applications Of AI Everyone Should Know About",
       "excerpt": "The future is here, and it’s fueled by artificial intelligence. Read on to find out the top 15 real-world applications of AI that are redefining industries and impacting our daily lives in 2023.",
@@ -1177,6 +1143,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai.md",
+      "title": "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI",
+      "excerpt": "SymphonyAI announced today its first generative AI software application that integrates Microsoft Azure OpenAI Service. Sensa Copilot provides sophisticated AI assistance to financial crime ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai/article_82edca62-1e11-570b-bfa1-921d264be799.html",
+      "originalUrl": "https://www.victoriaadvocate.com/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai/article_82edca62-1e11-570b-bfa1-921d264be799.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

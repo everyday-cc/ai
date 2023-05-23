@@ -1,20 +1,22 @@
 ---
 category: news
 title: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI"
-excerpt: "announced today a strategic collaboration with Microsoft to enhance its portfolio of vertical AI software applications using Microsoft Azure AI, including Azure OpenAI Service and Azure Cognitive Search. SymphonyAI announced today its first generative ..."
-publishedDateTime: 2023-05-09T10:46:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-/2023/05/09/9809924.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-/2023/05/09/9809924.htm"
+excerpt: "SymphonyAI announced today its first generative AI software application that integrates Microsoft Azure OpenAI Service. Sensa Copilot provides sophisticated AI assistance to financial crime ..."
+publishedDateTime: 2023-05-09T10:38:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/05/n32282145/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai"
+webUrl: "https://www.benzinga.com/pressreleases/23/05/n32282145/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai"
+ampWebUrl: "https://www.benzinga.com/amp/content/32282145"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32282145"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "nBtZEHaQ4dWkwPySuDXGzASgSWJ7RnLOcq3w68Xv9ZG5t1W9TUO2SGH4u4M81cTRKQVffh1Blcg3rkepX7F7qZv3p0WpqTPQYGidMRPJMLdo4Xrhr96tp8MkqLv11ByitMkntDF3lQmx7g8Gxb3izzaC5spFUpcb3CdSCydmUUIywmwbxAnPZ2UqU6AUF87TPgdn35bYW55tMot2cXzZS3+urXHND2o6yVPdLzJzGQk1eL0wYdasYVbv+8gqvYrZubh2HoLvY5f7rLBCwpq1wFz6n18H1/zKx6YcGaqihG+loTY2vUtdFWFy64Juxb/XKiVv7wJHYUkyCKoEBwcxvJv8VzR28CHoXWYQjjD2gUQ=;A3VrnlRrPylv9R9kGElYSw=="
+secured: "fRB0ajLJG2Mv/nkt8z8OAT0hBtwzuuJvOufz0g1e6Pgx9TCU92/sKifCyF/6MtytKxZWFuIitDL/9ggZCzSKEcSNoya1azElGcxpIrUc38F8kPXOvOYaP/yliQ8GkkQ/2adZVUw8McNas3Ew7wGntwu6BbxgvWgkE34P2iODPKULimxEyDqe7wAKc0yTZJdrdGy48LbWX7Dxw5Rtehy8FDOGVzJymp9+G3FNYGlTww7/1WVe6IVILq45+2K2ywhuom+vhDvHkJKSy+NYLVcTyIf1iDJX0pmC7G7W9fIWCaZuabc1zucrM5Dt7m1VMe6qegSPzUtmbdJeCpG+RLZQLwwpe4NM/iewX13Tq/c9vnM=;LwVYkh0h8vX2IyrzeR/RHw=="
 ---
 

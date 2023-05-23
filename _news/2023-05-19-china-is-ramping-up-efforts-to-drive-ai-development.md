@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/china-is-ramping-up-efforts
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-is-ramping-up-efforts-to-drive-ai-development/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Infineon announces two EU-wide research projects for GaN and AI developments"
+    excerpt: "According to Infineon, the research extends from individual chip elements, high-performance GaN modules ... to Sustainability and Industry 5.0), is being conducted on smart AI technologies for resource-efficient manufacturing in Europe, pooling together ..."
+    publishedDateTime: 2023-05-23T03:23:00Z
+    webUrl: "https://www.digitimes.com/news/a20230523VL203/ai-gan-infineon.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 36
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230523vl203_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "KnqGgU5j7qTpvXLvEMLsGj6MrrOQ3kDldoGUQqfZxuPt7K/YBtV3UAlSCSUAIqnhdHDtIbcHcS3R3abgjqylQ15xSy1y8wL4ZY+7cxulP7L6mHyjrCMDQX6aKj0RAivjhffggoFmd5eTTLMdwOgGWZezPyOoCyQnsIFEk8Cx0Y7y5FJXeLkYnf4nLrneOqqedgMtlFp469GcS8C6u1h43uVvC3hoFsiK9Ll4cGNK6QSGyyFz+IgZwvvz28d0yuzAvLWhUyo9rXqdr4svKRdesKiW1RiP0yl5QSyp5LOa2X+VDWizTqGrPBHMaBT06+XUTVRN1XxyuEpVLGi0RvKo1fcuSBkoH69nn91EIlhHA+HkENeG4bCNJtA2wG0f/HVQn3eKnwYV48lMb/Pukj2b/qcI8bz5ixaChG8Syz7wutpFotyKIOwXFxIndcHbw//q6LZlapkRGz569lW9QQbMHeyURqb4mhqfIp5AiDB+7r2Cfd0hJRx/3jJxJK2gOzQqmRsbp6n7eO++3+XV+aKRfg==;S89GauXkzk+ybLXtqQstJQ=="
 ---

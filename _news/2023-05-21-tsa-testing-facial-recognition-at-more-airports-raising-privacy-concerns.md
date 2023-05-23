@@ -1,27 +1,27 @@
 ---
 category: news
 title: "TSA testing facial recognition at more airports, raising privacy concerns"
-excerpt: "The screen flashes \"Photo Complete\" and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen. It's all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country."
+excerpt: "The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen. It’s all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country."
 publishedDateTime: 2023-05-21T00:30:00Z
-originalUrl: "https://omaha.com/eedition/sunrise/page-a4/page_87f53002-8f75-5a0d-9087-14a36e6795a7.html"
-webUrl: "https://omaha.com/eedition/sunrise/page-a4/page_87f53002-8f75-5a0d-9087-14a36e6795a7.html"
+originalUrl: "https://tulsaworld.com/eedition/page-a4/page_ec7d726c-513f-5e72-92a1-549cc4a8604f.html"
+webUrl: "https://tulsaworld.com/eedition/page-a4/page_ec7d726c-513f-5e72-92a1-549cc4a8604f.html"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/eedition/8/7f/87f53002-8f75-5a0d-9087-14a36e6795a7/6469a6f86fc09.preview-620.jpg?crop=620%2C326%2C0%2C457&resize=620%2C326&order=crop%2Cresize"
-    width: 620
-    height: 326
+  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/eedition/e/c7/ec7d726c-513f-5e72-92a1-549cc4a8604f/64696e8c27c1c.fullsize-img.jpg"
+    width: 792
+    height: 1638
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 400
         isCached: true
 
-secured: "8TGbTP8DfkLDZRe+sCBMgTllyV76msNK6o3m974CpxeVes66U7L/m/Vukgd4WLTEcvjiQNG3hV9qAEg5ofQ4XRx7Jg5ZioiKundtobXuiVhkCoKMJcpQiNNVjmZ/x8ht+mR6pCkDz/cZeGX10M6EZJsSJ/sF1XUxD4CcWeGhF4YaaKZ9pl5E9TTmMqNhmy1Vbb3pN0zBP0gZsPMCyLSEfqAcrNxprjrOdZ8Kbuiiv1odQ5q1lJqhJBMU9tR9EbDc3eJtZ5uxdK8SkdlA+TxgU9QPoeGnsO1jM5BFayWX4M2D2U6KABTi2Z34ZmRv9juisGzHJQweaRKKjszWcs0gSWaVjPU6niIhxWNKZJZfS6meug/aLPRcfqMgSF0hPOaOFEjWpzmsujtvyxLBwylHVrfNACJ1Bl0BeFUce+9TleQ1aoDNGrsbeh7vqy+n9M+o7zubHTMMM5KMaMQp8YJFQHm7dg5SrHZxFOtNEjVmqblyZU+jr/Wi4BSLc9C5/p0UCOXBtBOyoDWooaXgDSR1Yw==;+4OJ4UWxzy/AdXB005nyjA=="
+secured: "/d5W5yHKrEN9UI1cbjwPtWBQfuZBz4PU17Bj3iDmDuq3I5h1lVYhucumsiG6IuSgV6uMtm2ixVnbLWt/QWL4zHRLm4IUojVyjXwc4MpvvJ1YdR2OE8G2lDnS8HuWJnF04NULE/rES4RmfR8gHaa+LYFyZphtLH4BilWr0XmJ630ATI1gY/THboWGUQsfUpcEAlf54028zFzLZ0kDDBZV3g6AmbzXcI/HgUgi116966KLouaWg9L5JK2PywZwroTYtaX8q07HBpx5CK1/L8vZKrN1izJCmD74C1l69tg3GFd3bCVcPrzE/DuYtQ6xhMHBULHy8mvSAlKUKY5dxKriecLEizn4qkvgcX63C6uE9OQ=;/j6vCLA8ICazuSJEkrssmQ=="
 ---
 

@@ -54,6 +54,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Skyline University College launches Bachelor of Science in artificial intelligence and software engineering"
+    excerpt: "Both the Bachelor of Science in Computer Science with a Concentration in Artificial Intelligence (BAI ... computer vision, and robotics. Graduates of the BAI program will be equipped with the skills and knowledge needed to design and develop intelligent ..."
+    publishedDateTime: 2023-05-23T03:01:00Z
+    webUrl: "https://gulfnews.com/business/corporate-news/skyline-university-college-launches-bachelor-of-science-in-artificial-intelligence-and-software-engineering-1.1684747237083"
+    ampWebUrl: "https://gulfnews.com/amp/business/corporate-news/skyline-university-college-launches-bachelor-of-science-in-artificial-intelligence-and-software-engineering-1.1684747237083"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/corporate-news/skyline-university-college-launches-bachelor-of-science-in-artificial-intelligence-and-software-engineering-1.1684747237083"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 41
+    images:
+      - url: "https://imagevars.gulfnews.com/2023/05/22/Skyline_18842c5cc8a_medium.JPG"
+        width: 540
+        height: 405
+        isCached: true
   - title: "Looking into possible impact of Artificial Intelligence"
     excerpt: "We talk about the potential of AI and threats it may pose with Aboitiz Data Innovation's David Hardoon. Artificial Intelligence has become a topic of controversy with even the so-called \"Godfather of AI\" Geoffrey Hinton expressing worries over how smart ..."
     publishedDateTime: 2023-05-22T23:47:00Z

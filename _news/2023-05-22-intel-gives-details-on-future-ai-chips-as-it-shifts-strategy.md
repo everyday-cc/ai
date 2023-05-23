@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/news/picture/intel-gives-details-on-future
 webUrl: "https://www.reuters.com/news/picture/intel-gives-details-on-future-ai-chips-a-idUSKBN2XD1A3"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel reveals new details about upcoming AI chip"
+    excerpt: "Intel has revealed details about its upcoming chip for artificial intelligence (AI) computing during a recent conference in Germany. Intel, which is struggling to grow its business, aims to launch the chip, codenamed “Falcon Shores,” in 2025."
+    publishedDateTime: 2023-05-23T02:26:00Z
+    webUrl: "https://www.telecomlead.com/telecom-chips/intel-reveals-new-details-about-upcoming-ai-chip-110523"
+    ampWebUrl: "https://www.telecomlead.com/telecom-chips/intel-reveals-new-details-about-upcoming-ai-chip-110523?amp=1"
+    cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/telecom-chips/intel-reveals-new-details-about-upcoming-ai-chip-110523?amp=1"
+    type: article
+    provider:
+      name: Telecom Lead
+      domain: telecomlead.com
+    quality: 74
+    images:
+      - url: "https://www.telecomlead.com/wp-content/uploads/2017/10/Intel-technology-for-5G.jpg"
+        width: 640
+        height: 353
+        isCached: true
   - title: "Intel gives details on future AI chips"
     excerpt: "Intel has provided a handful of new details on a chip for artificial intelligence (AI) computing it plans to introduce in 2025 as it shifts strategy to compete against Nvidia and AMD. At a supercomputing conference in Germany, Intel said its forthcoming ..."
     publishedDateTime: 2023-05-23T00:50:00Z
@@ -62,6 +78,6 @@ related:
       domain: hothardware.com
     quality: 30
 
-secured: "DxCaLtYazN+tSLXkiWmLyZZFisAom5B92mjNuKzZcIHdk1a35qNA47gPyrUupATzlrslDU1NitMEB8BMJsbU6TFHzoPWeSfWdlJqBRj7irMRX+wv6fHFRndImkfH+kaA/m6F5w5zVHWotwNIfLQ6OfysF5g5TGWV0nLYSmH1ginC1mC30zZtUhCwlrbGgQkmIEVv1BcDo7Nf9i+IqdQmTgEiXkScXWGa/2g7mBkaHQBIfQdeYlHGsJQEAIxuVJCeqI0IfAvMsoXwRmgT+nM7hlA49O/XD6eTtNLM0TUSvg6CA+3rzZUoCJeKcUbpwVw2CDfwQeSOEEzrsWpA8V4VC4+tGQvALXuyZA3SeQZ+JNg=;Xor97O3VqtXXbmLw0BbC4w=="
+secured: "J8Afiz4CcwaiFOCtXNeXLUL4vPXL8SEOGhSCZm5Cz/UneeAQ+GhUfaQgXUckhbjCfAUORyJcQammNNlF0PuJVAXO/p1IS4ZRPChGJLQ1R91FM/aN+aQPRoyXmtlQWSkPdoGax2r/rAjGCICKaTNiiMdTlVbz/is1fboAuk+Y+lyIESzcLswUV+qJhfeH0gxFHbbA/VnHQtF/WwxsQq3Koi8sSvDQxFMULx8UqI1yZ6XEnVfDbOFTFjmeHi1yrYKhLja6xVO1tD6jMsgTbTzC6+93JN1lrDB4NKuh86jcZ3tQh22yylnGJn4cHVfUftP8un0m9EKj140S/AyIdHeo35t728gpcizEHa9xbolkgm267km4nNLfJXdIbap3kw6gh1B0SNCtsVQTke96IJuST0csCA/dKWNwJpUBMekCBx1RB7bhdmDNajUJ0h5QAXRi7LLHdRMaDPfjiPXr+c+QOy01abu1j00Acr0iOxhvmmsfAsMFKXl5+qpP8EOWzcUsUxljIMaaRc4OrjA1a5UvMQ==;yRno/e5un/qjdkjuNEYTOA=="
 ---
 

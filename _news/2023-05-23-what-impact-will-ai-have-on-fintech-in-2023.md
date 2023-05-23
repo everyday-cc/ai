@@ -33,22 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Financial Tech Platform Modak, Digital Identity Firm Yoti to Create Safe Fintech Platform for Teens"
-    excerpt: "Modak, a fintech company for teens and families in the US ... On top of it, Modak now “leverages Yoti’s AI facial age estimation technology to enhance platform security.” Yoti’s facial age estimation is “an inclusive and privacy-preserving ..."
-    publishedDateTime: 2023-05-22T16:23:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/05/207434-financial-tech-platform-modak-digital-identity-firm-yoti-to-create-safe-fintech-platform-for-teens/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/05/207434-financial-tech-platform-modak-digital-identity-firm-yoti-to-create-safe-fintech-platform-for-teens/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207434-financial-tech-platform-modak-digital-identity-firm-yoti-to-create-safe-fintech-platform-for-teens/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 30
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/08/School-Bus-Students-Education.jpg"
-        width: 1280
-        height: 1062
-        isCached: true
   - title: "Climate Fintech: The Key to Unlocking Wider Climate Tech Solutions"
     excerpt: "Even with challenges such as a lack of standardised ESG reporting, limited access to quality climate risk data, and regulatory hurdles likely to slow down the adoption of new technologies, climate fintech has the potential to transform the entire climate tech sector and be an integral part of the solution to combat climate change."
     publishedDateTime: 2023-05-19T14:45:00Z
@@ -77,15 +61,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Data security issues Fintech firms are facing"
-    excerpt: "The covid crisis represented a big concern in the fintech sector. First, more people are remotely managing their money with technology. Second, that’s led to new data security challenges. Hackers are"
-    publishedDateTime: 2023-05-18T11:06:00Z
-    webUrl: "https://techround.co.uk/cybersecurity/data-security-issues-fintech-firms-are-facing/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 21
   - title: "Nextech3D.ai Receives $2 Million in Cash From $400 million FinTech Ratio Tech"
     excerpt: "With access to a $400 million credit facility, Ratio is able to fund Nextech3D.ai Accounts Receivables With ... initial $2,000,000 cash infusion from FinTech Ratio Tech representing zero-dilutive ..."
     publishedDateTime: 2023-05-18T12:17:00Z

@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Financial Tech Platform Modak, Digital Identity Firm Yoti to Create Safe Fintech Platform for Teens"
-    excerpt: "Modak, a fintech company for teens and families in the US ... On top of it, Modak now “leverages Yoti’s AI facial age estimation technology to enhance platform security.” Yoti’s facial age estimation is “an inclusive and privacy-preserving ..."
-    publishedDateTime: 2023-05-22T16:23:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/05/207434-financial-tech-platform-modak-digital-identity-firm-yoti-to-create-safe-fintech-platform-for-teens/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/05/207434-financial-tech-platform-modak-digital-identity-firm-yoti-to-create-safe-fintech-platform-for-teens/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207434-financial-tech-platform-modak-digital-identity-firm-yoti-to-create-safe-fintech-platform-for-teens/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 30
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/08/School-Bus-Students-Education.jpg"
-        width: 1280
-        height: 1062
-        isCached: true
   - title: "Home-grown help for Bermuda’s fintech future"
     excerpt: "The Bermuda partner and head of ventures of a blockchain-centric advisory firm is focused on ensuring that Bermuda succeeds in its fintech ambitions, as he builds his Toronto-based consultancy. The"
     publishedDateTime: 2023-05-22T09:58:00Z
@@ -69,15 +53,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Data security issues Fintech firms are facing"
-    excerpt: "The covid crisis represented a big concern in the fintech sector. First, more people are remotely managing their money with technology. Second, that’s led to new data security challenges. Hackers are"
-    publishedDateTime: 2023-05-18T11:06:00Z
-    webUrl: "https://techround.co.uk/cybersecurity/data-security-issues-fintech-firms-are-facing/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 21
   - title: "What impact will AI have on FinTech in 2023?"
     excerpt: "Artificial intelligence (AI) is emerging as one of the key driving forces behind financial technology, as in many other industries recently. It’s a defining"
     publishedDateTime: 2023-05-22T17:20:00Z

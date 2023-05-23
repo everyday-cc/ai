@@ -2,17 +2,17 @@
 category: news
 title: "TSA tries out facial recognition technology at 16 U.S. airports"
 excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through -- all without having to hand over their identification to the TSA officer sitting behind the screen."
-publishedDateTime: 2023-05-21T07:41:00Z
-originalUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
-webUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+publishedDateTime: 2023-05-21T07:46:00Z
+originalUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+webUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Northwest Arkansas Democrat Gazette
-  domain: nwaonline.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - Computer Vision
@@ -109,6 +109,6 @@ related:
         height: 900
         isCached: true
 
-secured: "xfOQbDumiUvvQY9+Uqz37ofpT/f75ecC+XmLnIp99qKsyoxffK/XgUx+zlNcV4Q85r+6pN6q8H2xiN/45t2ZpLVzNs0px5FFAMh8q6ERHpkwE4May/13rB1Lxylr7xkRgXXlzEOu38j7JQxhtUq9ehJgpEN0VE5M/4DK0q3q8ux5ZeiA1H5cKjm0c9LjIkyzcEEkwwW8wLcmZUfPTXPtcMi0qMKFS6PfO28qVwozCD/7IODwtIaQMv0FrugtdVY+KSj4IpuZVfCHfnv43poUYUcRwjIjxGdt6ApZnj4tzIfpEeatULUGl8431oWOgHw5Ls6gvTuuxc3YQb1ynRbvsYP4T34L4LrFh/J4dk9HLAM=;oQntEXs2Jh1p9iKiIdfIlQ=="
+secured: "MAmFIyc9jPFeC/Bk/Alude5J8zaxPjJ/MkNf3iDgYB9vLD2dlgMQma+GXPrCo/ZcoGHfEiCKKR/xAxyz07JZc8iuNKFg8tvCnmS1FliSYTHPp5EExncQCNVJzR4uxeaI9PIE6ETCyd5VCeYXXtXY7XQlEnStBmnrNAkn1541QRKtDZLkpqKDlsxxLzqfREglCe3pStiDgWPi6DX4zWbcO1/pL9yWcjEgPj7BEhIBJwDJgkQLYoSvYzGmHIErie9HYBS/KrxHYi2Q5HtTEcpby+G4v1ZJr7Wx4EE97E58WIhOx5t0mJdC4+/KBYXkD2XKx990Zjmlp9dxVKwL7OC/PTG0uqiJ4QSY/jhhUFzvHm8=;xw3TazPhD7w54e+LqSErFg=="
 ---
 

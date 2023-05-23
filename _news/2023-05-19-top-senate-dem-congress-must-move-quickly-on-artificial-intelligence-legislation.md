@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Reddit cofounder says the US government is not equipped to regulate AI and must get 'up to speed quickly'"
-    excerpt: "Fears are growing about the possible misuse of AI, with many tech leaders, including Elon Musk, calling for a pause in its development."
-    publishedDateTime: 2023-05-18T10:21:00Z
-    webUrl: "https://www.businessinsider.com/reddit-co-founder-us-government-not-equipped-regulate-ai-2023-5"
-    ampWebUrl: "https://www.businessinsider.com/reddit-co-founder-us-government-not-equipped-regulate-ai-2023-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/reddit-co-founder-us-government-not-equipped-regulate-ai-2023-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
-    images:
-      - url: "https://i.insider.com/6465e2a8fb9a9d0018c9056b?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Top Senate official warns Congress to 'move quickly' on artificial intelligence legislation"
     excerpt: "Senate Majority Leader warns Congress that they “must move quickly\" to regulate artificial intelligence. They have convened a bipartisan group of senators to work on legislation."
     publishedDateTime: 2023-05-18T19:00:00Z

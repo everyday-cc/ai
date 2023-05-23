@@ -42,17 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Four more languages introduced to Microsoft Translator, Details here"
-    excerpt: "The Microsoft Translator software now supports Konkani, Maithili, Sindhi, and Sinhala, a statement from Microsoft India read. Assamese, B..|News Track"
-    publishedDateTime: 2023-05-18T10:49:00Z
-    webUrl: "https://english.newstracklive.com/news/four-more-languages-introduced-to-microsoft-translator-details-here-sc71-nu318-ta318-1277188-1.html"
-    ampWebUrl: "https://english.newstracklive.com/ampnews/four-more-languages-introduced-to-microsoft-translator-details-here-sc71-nu318-ta318-1277188-1.html"
-    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/four-more-languages-introduced-to-microsoft-translator-details-here-sc71-nu318-ta318-1277188-1.html"
-    type: article
-    provider:
-      name: News Track
-      domain: newstracklive.com
-    quality: 54
   - title: "Ombori's new StoreAI for Grid leverages Microsoft Azure OpenAI Service"
     excerpt: "On Wednesday May 24, Ombori will launch StoreAI, which uses Microsoft Azure OpenAI Service to extend the capabilities of its successful store digitalization platform, Grid. StoreAI will include a selection of AI tools designed specifically to meet the needs of physical retailers,"
     publishedDateTime: 2023-05-22T13:33:00Z

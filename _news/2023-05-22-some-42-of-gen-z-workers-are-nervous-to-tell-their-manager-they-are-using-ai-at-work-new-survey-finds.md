@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manage
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5?amp"
 type: article
 quality: 71
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "A Survey of 31,000 Employees Shows 49 Percent Fear AI Will Steal Their Jobs. They're Right to Worry"
-    excerpt: "Almost half of employees--49 percent-- fear they will lose their jobs to AI, according to a new survey commissioned by Microsoft. At the same time, 70 percent hope that AI will help them manage their ever-growing workloads instead. It's clear from these numbers that many people see AI as both a benefit and a threat."
-    publishedDateTime: 2023-05-18T09:34:00Z
-    webUrl: "https://www.inc.com/minda-zetlin/a-survey-of-31000-employees-shows-49-percent-fear-ai-will-steal-their-jobs-theyre-right-to-worry.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 3
 
 secured: "HrEF8xwj8YG0ilAni82Dk7/KQ2FX5llp+RDkgim1IBK8T1Uv7CTfZaDhz9pKRJg5w0XWsnUrgr0ixvlt7oDiA9SfGy8MSKb8zXpQ9g0YDmU/lnuI5GU6iPv+vcaMDycdZAZ9Gk6/jxLXzj0HrXFQbdb3KznUppRbOt6R0Gp8BGOoHMY+jNr+7u6HaIPlT7RSdjaFMRfdJK+DlGfWDt2k1xVS84gljErdG7qFrC3h2pzQ+uP5VFYiaO18bid4W07cIFaX9Asz8xVTlcLv3lZWQjH0o4YfBXdw/En9el4etDx6VJdZDwXvS4caifWpOeKz4PsON+IpRFEXAWKf8UvG1Xl0LupPdwaVN3SK6gcs8jaZ0EvkAuc9M5W/RnAlDZwWOBv2owi4afX3+RwTs+lAxypRTgehnmWcSJKpjtSd5UNTAFGv7Fx2o+Z3gej5hI3hw46kf2xT4uQYqDYgYOMmKnXoaUYBBRXHLtB7fkRsa5UOjT+7JL1NCg8nWPreSiKOS3X5OtHFIIHvW111KHoAKw==;xIxUpEaCj2OmVDOiP7V23A=="
 ---

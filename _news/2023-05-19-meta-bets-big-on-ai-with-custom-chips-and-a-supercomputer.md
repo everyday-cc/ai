@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-ch
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/"
 type: article
 quality: 106
-heat: 226
+heat: 216
 published: true
 
 provider:
@@ -187,20 +187,6 @@ related:
       - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA1XC9zaHV0dGVyc3RvY2stMjE1Mjc1ODg4Ny5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9fX0="
         width: 1200
         height: 630
-        isCached: true
-  - title: "Watch 44 million atoms simulated using AI and a supercomputer"
-    excerpt: "The most accurate simulation of objects made from tens of millions of atoms has been run on one the world’s top supercomputers with the help of artificial intelligence. Existing simulations that describe in detail how atoms behave,"
-    publishedDateTime: 2023-05-18T09:20:00Z
-    webUrl: "https://www.newscientist.com/article/2373022-watch-44-million-atoms-simulated-using-ai-and-a-supercomputer/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/05/10134949/SEI_154564255.jpg"
-        width: 1350
-        height: 899
         isCached: true
 
 secured: "seEHjVeYhM9Lnvmiy87d12enwMGweyB8ppmCVwRybi1xZaiN1FMMT6o2ZL1sTxRKqMbHFofTAKZqJadGqDk2n6ryuzSQPgh94j/16viN/aBSRL7duRet+rbqKz6Jdc7yF44RR7QgnT6zodF+hPzpNxkNVMM2psZMWunzuUThVAK+ZaKCXGTZeQeMSm8jtEZPSq/eGnVKY066RB2GWd/vAxBEcq1qW4GqtJVLHAfN2VaGYRVctwpRjrwI9rhWCZFYXem3QSl7B4EYbKY+1B2ypoyk54dGDMcKsLhZQwc9aFoacZwueJq2bX+9MNJfFGahcPjFYQgaWUqumUt3r26ClpTF5FB/u6dFHOzYHjIc51louArDenVw8C6NottC/WUHy958olvEdPt0sN07Jp9faaHIjc6t4i0k3+6r0oM0QXCJmwdTow3Rew+JAXlDPVVOLeteA5YeuqgyCqyBcYNFdnVlhr+ecgl9aKjZfeKgp/uwUEtdHlb3HTCpeGx7VgvIQNtDVAsEVMgUfnW6kvb6oQ==;C8ZzqaS6UIElGzxL9PWuMQ=="
