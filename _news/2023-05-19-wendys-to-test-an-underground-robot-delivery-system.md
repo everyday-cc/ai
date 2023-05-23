@@ -33,15 +33,6 @@ related:
         width: 1659
         height: 681
         isCached: true
-  - title: "Wendy's to test underground robot delivery for mobile orders"
-    excerpt: "Instead of requiring employees to bring out mobile food orders, the robotic system is designed to transport the orders underground \"in seconds,\" the fast food chain said."
-    publishedDateTime: 2023-05-18T12:28:00Z
-    webUrl: "https://www.fox29.com/news/wendys-to-test-underground-robot-delivery-for-mobile-orders"
-    type: article
-    provider:
-      name: FOX 29
-      domain: fox29.com
-    quality: 19
   - title: "Wendy’s testing underground robot system for orders"
     excerpt: "Much like a bank drive-up, Wendy’s patrons may soon have their orders sent to them through an underground tube."
     publishedDateTime: 2023-05-18T18:05:00Z

@@ -40,18 +40,18 @@ related:
         height: 628
         isCached: true
   - title: "Google succeeds in bid to throw out medical records claim"
-    excerpt: "The software giant and its artificial intelligence arm DeepMind was facing legal action over the transfer of patient data by an NHS trust."
-    publishedDateTime: 2023-05-19T12:25:00Z
-    webUrl: "https://www.peeblesshirenews.com/news/national/23533966.google-succeeds-bid-throw-medical-records-claim/"
+    excerpt: "The software giant and its artificial intelligence arm DeepMind was facing legal action over the transfer of patient data by an NHS trust. Google has succeeded in a bid to throw out a High Court ..."
+    publishedDateTime: 2023-05-19T12:54:00Z
+    webUrl: "https://www.standard.co.uk/news/crime/deepmind-google-nhs-high-court-justice-b1082353.html"
     type: article
     provider:
-      name: Peeblesshire News
-      domain: peeblesshirenews.com
+      name: London Evening Standard
+      domain: standard.co.uk
     quality: 39
     images:
-      - url: "https://www.peeblesshirenews.com/resources/images/16583143/?type=og-image"
-        width: 945
-        height: 630
+      - url: "https://static.standard.co.uk/2023/05/19/12/f7873daa98dda02f30751c6cddeb17faY29udGVudHNlYXJjaGFwaSwxNjg0NTgxMTcx-2.71085078.jpg?width=1200&width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "PFHV2sl2CrCfkdRvhMoaiNOceUN0Bnm26ITLv224QDQ7jQ3wVc7pXPsCsAhVZDl0XgjlYwgq1GzNUXx2c0obZhH/aWMLKV6hb5j8oaa/zxMqI3vr1Pa1pdpYy8OgiSkukd9hqG/LYBcCgAHnd6KTzsYr5Hy6vgzry5RViO5X7nXM/Y63Wjv0cQyZB7T6ryTpjvDInVHzlpfryb3r6x4oC8rw3FLvkv9j/Q7OHzHUg2OEqR2/5jn9nesOym3Gg5m+sedHjt3kdnRsSZCn0qTPbBTLsuxgMKdjdC+qAFqMp9Z2sCOLbpwu4HXcemuqNpY7nSmL3+B0jkzmq4/mvYBezf/n9fzDo9sJRKY7vntnR40=;v7+Uf6vf7iWEKwv1PDz98A=="

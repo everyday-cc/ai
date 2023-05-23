@@ -7,7 +7,7 @@ originalUrl: "https://www.arabianbusiness.com/industries/transport/dubai-announc
 webUrl: "https://www.arabianbusiness.com/industries/transport/dubai-announces-ai-plan-to-slash-traffic-jams"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Planet Announces AI Partnerships at GEOINT 2023"
-    excerpt: "Rapid Automatic Image Categorization with Synthetaic Wisconsin-based AI startup Synthetaic joined the Planet Orbit partnership program in April 2023. Their signature product, RAIC (Rapid Automatic Image Categorization), automates the analysis of large ..."
-    publishedDateTime: 2023-05-22T20:15:00Z
-    webUrl: "https://spaceref.com/space-commerce/planet-announces-ai-partnerships-at-geoint-2023/"
+  - title: "Artificial intelligence and mankind"
+    excerpt: "By NICK DAZANG ON August 2, 1939, Albert Einstein, the equivalent of a scientific genius, endorsed a letter drafted for him by a fellow physicist and inventor, Leo Spitz Szilard. The letter was sent to the United States President,"
+    publishedDateTime: 2023-05-22T05:30:00Z
+    webUrl: "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/"
+    ampWebUrl: "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/amp/"
+    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/amp/"
     type: article
     provider:
-      name: SpaceRef
-      domain: spaceref.com
-    quality: 37
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 59
     images:
-      - url: "https://media2.spaceref.com/wp-content/uploads/2022/08/18100814/Planet.png"
-        width: 1679
-        height: 1101
+      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2018/05/tech-per.jpg"
+        width: 412
+        height: 250
+        isCached: true
+  - title: "The marriage of embedded finance and AI"
+    excerpt: "Nima Montazeri, CPO of embedded finance solutions platform, Liberis, discusses how embedded finance and AI will revolutionise financial services The hype around artificial intelligence (AI) isn’t going to die down any time soon,"
+    publishedDateTime: 2023-05-21T08:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/the-marriage-of-embedded-finance-and-ai"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 54
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/d0d86a8689971e7a4803707450b2c8c4:e745e31c7b801419fe5a19cb4e5e4e22/nima.jpeg.jpg"
+        width: 1200
+        height: 632
+        isCached: true
+  - title: "Why AI’s diversity crisis matters, and how to tackle it"
+    excerpt: "Machine-learning researchers from under-represented groups say the field desperately needs more people like them to ensure the technologies deliver for all."
+    publishedDateTime: 2023-05-19T16:14:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-01689-4"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 41
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01689-4/d41586-023-01689-4_25339936.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "1T9c6qaGNBjQQ2cXhAOcIkeedn49P5R0XkFefHKooOxejBwqYF9UULbubFvMsWr6IHmVfu/bgYMUgJxzUPh/gJzGV+CIChZJMj+ax4ZsUWgPkJ9ZOJ3wX+Hcu0bZJD+4GqkDUhnjNBowIJbjg8vV26zb52r+PGDFED9cIdO8nSGgQlF1TI/NSdJj5T1spL2qZ0fnij1b0oHwNO9vaJA8RYqgI8QW8iMrxwZCPWtWa4lS12E74lAowrwdVbxNPiuNjCkihkCbhiVc2ph8ME3dqZiHlt7/aOgTzA8MIIqf9Wll6Xv/iLiD95/pEHCvq7/eyjTQ7zOJtbmAT+EK9r1fNuxHVUyCjBJ0uHOetp2qvvk=;Dpj0s4PC/gAYSgc9ngfk6g=="

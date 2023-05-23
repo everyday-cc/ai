@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/22/the-risks-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/22/the-risks-and-rewards-of-artificial-intelligence-in-cybersecurity/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Forbes
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Could Artificial Intelligence Impact Cybersecurity?"
-    excerpt: "Artificial intelligence (AI) has entered the chat in almost every industry in 2023. From art and creativity to cybersecurity, data protection and the ethical use of technology, AI is taking society by storm, with no signs of stopping anytime soon."
-    publishedDateTime: 2023-05-18T11:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-could-artificial-intelligence-impact-cybersecurity/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-could-artificial-intelligence-impact-cybersecurity/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/18/how-could-artificial-intelligence-impact-cybersecurity/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62fe3f02288da371535f25e6/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 502
-        isCached: true
   - title: "Forrester predicts 2023’s top cybersecurity threats: From generative AI to geopolitical tensions"
     excerpt: "While cybersecurity teams continue to fight social engineering and ransomware attacks, they now need to defend their AI models and data too."
     publishedDateTime: 2023-05-22T16:10:00Z

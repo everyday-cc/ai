@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Best Artificial Intelligence Stocks: 7 Picks To Buy and Watch Now"
-excerpt: "Nvidia is the leading provider of AI chips used for drug development, self-driving vehicles and cloud computing. It also makes graphics processing units, and the future of computer gaming in the ..."
+excerpt: "End users have deployed IBM AI in industries as diverse as healthcare, retail and finance ... These memory and storage solutions accelerate information into intelligence. Micron made a splash in the AI market with its 2019 purchase of the artificial ..."
 publishedDateTime: 2023-05-19T21:26:00Z
-originalUrl: "https://www.aol.com/finance/best-artificial-intelligence-stocks-7-142953252.html"
-webUrl: "https://www.aol.com/finance/best-artificial-intelligence-stocks-7-142953252.html"
+originalUrl: "https://www.aol.com/best-artificial-intelligence-stocks-7-142953252.html"
+webUrl: "https://www.aol.com/best-artificial-intelligence-stocks-7-142953252.html"
 type: article
 quality: 39
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: aol.com
 
 topics:
-  - AI Hardware
+  - AI in Healthcare
   - AI
 
 images:
@@ -35,6 +35,6 @@ related:
       domain: businessinsider.com
     quality: 47
 
-secured: "LuzNE9zoxcewME/YPzOfwLp7J6gJcKwlfEjnR7mXgy/wFxqw7NJwf1Pgx6p9KfizWvDAvLRBicgptctu2uZnCXTtPLvAUcE6VH5AKW9C1iYca/ULeOzQ8lqX9E/4DZbIw1OXIV0ksbhwl3n0S5cJCUlmOg474q6i4lRpNke/um2hMYMMkgaFjMtwROYIvR09bKs+BGXOUuNvRrWBCBnuVtwdgMm/j8e2nPS0//aecXjh3WkpglEgDF4IKX84rvhxIzoJ/sKrVptcBpjvQm1ZOiaBN1+kgY+UdnzhRW77aD6k+r3d0aCMoxY3gAQBNj8VjKH6o0YGe4M0cq3rzw8OCxZb1wjpsJt3OqZMShB/Oyw=;rbkykAeoZodlPtP8D8khtQ=="
+secured: "KI2+PJE3/HAL/+d9Z8AHkG3BYcQJT8HcMSWqEMsDgRIeAgEFnzx5lYEbrGKYI4kcEIghzElhyE3IOX7yrGy9cKx/uoMTxivG6p/zTQzpVHSVh/KrHUKO4ev+zjJlt9FbxFq9qZz5SShuaNBIBl36HxEQFmddXzWQiAIMp6Kq9wBkVnWgnPEITDd7EwOsnZsAPQjfuev4+uz0DFfkRm93nw0/2uWIQccRZlzVElKUXXdz5vTbacmbNAoZdvjfPPCnpziFzTmGamUKaykJXEuFxrfhbrzs7ud5Jsy7GIRq4QntJK67o4v8gFUDRoKhNxnrsPU7TXIufCXWxaW0/FQoM2kMdbt0wZ/Yy0u6+jnZYmQ=;cvcBBjefQdBXhOYiGJ/79w=="
 ---
 

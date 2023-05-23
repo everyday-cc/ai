@@ -38,14 +38,14 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 65
-  - title: "Infogain AI Business Solutions Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to three NAVIK AI solutions to take advantage of Azure scalability, reliability, and agility to shape business strategies. NAVIK is an AI platform that addresses the breadth of AI solution needs ..."
-    publishedDateTime: 2023-05-18T20:14:00Z
-    webUrl: "https://www.01net.it/infogain-ai-business-solutions-now-available-in-the-microsoft-azure-marketplace/"
+  - title: "Infogain AI Business Solutions Now Available In The Microsoft Azure Marketplace"
+    excerpt: "NAVIK customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. NAVIK is an AI platform that addresses the breadth of AI ..."
+    publishedDateTime: 2023-05-19T14:46:00Z
+    webUrl: "https://menafn.com/1106278090/Infogain-AI-Business-Solutions-Now-Available-In-The-Microsoft-Azure-Marketplace"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
+      name: Mena FN
+      domain: menafn.com
     quality: 45
   - title: "Check Point Software extends its Industry-Leading Cloud Firewall to Secure Microsoft Azure Virtual WAN"
     excerpt: "Check Point® Software Technologies Ltd. (NASDAQ: CHKP), a leading provider of cyber security solutions globally, announces the general availability of its industry-leading Next-Generation Cloud Firewall natively integrated with Microsoft Azure Virtual WAN to provide customers with top-notch security."

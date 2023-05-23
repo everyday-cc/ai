@@ -62,24 +62,6 @@ related:
       name: https//businesslancashire.co.uk
       domain: businesslancashire.co.uk
     quality: 19
-  - title: "Nextech3D.ai Receives $2 Million in Cash From $400 million FinTech Ratio Tech"
-    excerpt: "With access to a $400 million credit facility, Ratio is able to fund Nextech3D.ai Accounts Receivables With ... initial $2,000,000 cash infusion from FinTech Ratio Tech representing zero-dilutive ..."
-    publishedDateTime: 2023-05-18T12:17:00Z
-    webUrl: "https://tulsaworld.com/ap/state/nextech3d-ai-receives-2-million-in-cash-from-400-million-fintech-ratio-tech/article_3eefe327-531a-522e-b87b-da964e5c6b12.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 16
-  - title: "Nextech3D.AI receives initial $2M cash infusion from fintech firm Ratio Technology"
-    excerpt: "Nextech3D.AI (CSE:NTAR, OTCQX:NEXCF) said it has received an initial $2 million cash infusion from fintech firm Ratio Technology. The funding represents a zero-dilutive capital source for the company as the cash was paid against future invoices for ..."
-    publishedDateTime: 2023-05-18T12:06:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1015405/nextech3d-ai-receives-initial-2m-cash-infusion-from-fintech-firm-ratio-technology-1015405.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 13
 
 secured: "mA23uhxHE1JwKU5Pw2uRjd6fnBaCyNdsW4qXd7uAu8c/tKVTc5gqf8owTF2eNNJ3lDq1I+HK+/iRmEMoyLrGBdGUwDzN1r61WcX3cQ4xa2eXiz5BUEDudHjs4Q6UFH7V4g5vuEbyvUbWjzLVFq7hGmQYLc05cg9FBFn10SPDKpWJ2kNZ4ponhWudV/Nkwh3AoIx6e4xDUmBVBN2ys01SvVkoq2KLQPoeLPHoUskIU0NUEroGGabQjdgAqULwWa+l3ezrYRt6l/t8TJvx2BBs36z4I+xuV6X2afEJ8jjTNAjHKyUrMo2txfdK7gMxYYTdlPtW7Shl5+jw2WWlhvC2WVVSqtAQyLVXtP4NntbQzqYPpNIcZtnqffHJcJjRsomHVFya2zTQIDsonKEZhxfgOZfVJovthEvWmwNhzx6iYk9LvFzYJtbrXdQ9lAjJp1zuntuKBKqtysuhDuv9HqDTR8yWkb5F/p8g1kNE6lilK42ucNUCBKjHT01tUYaYxJoXuGRPsmVDkyzAtRaj+JqQUQ==;oQAVwDVER+KfGc1HTk+WlA=="
 ---

@@ -33,20 +33,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 37
-  - title: "Top Senate Dem: Congress 'must move quickly' on artificial intelligence legislation"
-    excerpt: "Senate Majority Leader Chuck Schumer says Congress “must move quickly” to regulate artificial intelligence and has convened a bipartisan group of senators to work on legislation"
-    publishedDateTime: 2023-05-18T12:27:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/05/18/artificial-intelligence-ai-chatgpt-regulations-schumer/4eb1d62a-f5a1-11ed-918d-012572d64930_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 33
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JSUYHAXVUEI63EMNAESXFVSJGA_size-normalized.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "uh2e8Pu3S6pFGX9ZqAwoYgoiXCBI8IArarpc9r/Qyb1QETBN17pb7C6hgcbkMy9teliHsKCUg1k+qWidnfsMYcxSbE6ybQ2LN4zeg/uW5eUGpDgXfnVYHkr5C2btqMg6bvDZoCuF1QhFyF6M51lYSP+fTWw0UjDvJY27RSwKa36nkHxes2by+z47DXWd0D0E/P9AzqDxMWYUAeqVXiXatNixdwxjVVSOsWBCuSncpwfBlRi4VhigzdX/uPU47P0V53W0LXQTEPTL4MmuSYbDK+CN0j6EMlRDTQeyemSPjaMClSkNPW9t66eM74JIUCRyC8wGr+g1EqGhmWBDkcV1v6/HELF3YFPybgmJazCaez9+DHDpKwy9gyjXk+YXiE1R1NlBR/FtEeoxWKZV1OPLjI4+ALq+wGIJTNeQQZ/MDyygG7ekChwTLLbEuZv9Emd3F+R2fRQfjWZHuX4YIq8bJKMayhaikjtJFK9JtHdHCvdDWXvIKT1F4eydxaXdVgFKd3udnnlSo1zg3/dZI8gO+A==;HeopkjhzBTj7Fu+IXx1uOQ=="
 ---

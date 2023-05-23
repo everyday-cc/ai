@@ -35,20 +35,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Aboard Britain’s first commercial self-driving bus"
-    excerpt: "This is Britain’s first commercial self-driving bus and one of the most advanced automated-vehicle ( AV) schemes in the world. The trial, run by Stagecoach, a bus firm, began operating on May 15th and will continue until at least 2025."
-    publishedDateTime: 2023-05-18T12:47:00Z
-    webUrl: "https://www.economist.com/britain/2023/05/18/aboard-britains-first-commercial-self-driving-bus"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230520_BRP503.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "ajkQxJ3/TCXeBrqEdstbILbn3PrZMNn0EdY+KUPi7Fd2SEjieZTI0re0wJGSEo7PaYzCrCdxJFR5hU+cVjzhWKK86ApB8YUqp5crEzJgh9cZDGg4JHdkJjJso+91t9M6YE0blgrAKpMRgi8QbO6yuv8QEUDRzztrxe4gEUR3yE7uh6S1BaWyN80XiRFRzc2Sg4pzlBAWkUoujSQeNltDxk9U1Z4YlM2VN2si3MUq09wk0W3/rVt0zc1RLr9KNiodVWdT+GbfKxaN2lxPFwGak+psgRFnwbySrl4dJOPQuEz9Y/ah8HgHdAhW97OSXpLCaWgUU4/NiMKlEUE1LBgprmGWjhc4BKVI+5DEuMnta/ZjYKA3zWk87U39NO22oQ68+SK5OqZO40RuLccSFegd7DmTaV574iI+CsIZOaf9HErBcxj50UBVksN7uIenZNG3Gk85bfVRl7tNSenLhciENQ+YXcw8l0urnUa9x5KuSG9Y6Q4PnhNz0THTyBBedCUZ7D/rY86EjNpxj3rARB92zw==;2ly668tU28EL820Q4WdvuA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/05/18/kubernetes-firm-cast-ai-adds-s
 webUrl: "https://siliconangle.com/2023/05/18/kubernetes-firm-cast-ai-adds-support-reducing-generative-ai-deployment-costs/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -24,33 +24,6 @@ images:
     width: 672
     height: 450
     isCached: true
-
-related:
-  - title: "CAST AI Slashes Cloud Costs for Organizations that Build, Train and Run Artificial Intelligence (AI) Applications"
-    excerpt: "CAST AI introduced a series of new features into its platform, designed to dramatically reduce cloud costs for organizations."
-    publishedDateTime: 2023-05-18T12:05:00Z
-    webUrl: "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/"
-    ampWebUrl: "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 57
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/CAST-AI-Slashes-Cloud-Costs-for-Organizations-that-Build-Train-and-Run-Artificial-Intelligence-AI-Applications.jpg"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "FlowX.ai raises $35M for its AI-based approach to application integration"
-    excerpt: "“Digital transformation” and AI remain very buzzy terms in the world of enterprise software, and today a startup operating in Romania that’s built a platform that taps into both concepts, and is seeing user traction in the financial sector, has ..."
-    publishedDateTime: 2023-05-22T12:03:00Z
-    webUrl: "https://techcrunch.com/2023/05/22/romanias-flowx-ai-raises-35m-for-its-ai-based-approach-to-application-integration/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 46
 
 secured: "XfCOX2X9kzLK3m3eyeDiJuNC9R/MS3nVQzgvfE8ZQb4oBw4TjwFY2+AN28Lq+pjazmw40QsIJJLwSFuSwXqT81wCXn8aSr1oLhXqSeL18ca1hNDtDiQ6Hmx18mwOHBXRO1fjX1bm35wukzw0VRT303JdUqGv8ThKUsvs3HY7ZgQTl458Wmz4FVux9SEsLLp6uKTe7UFjwCgEbvi81wW8Qyffi5D06W680yELjjoSGOo8T7Cq2EGTRP94GJKwT7mtyJH7FOy90cwkEWjzTiBYCXZvMrdxLN0dJ2iKYkeweAv/OlU6HUUi3RH/lbt+Rn8U5Ppe/4N37W1SMZ3mV05mtS5t6F4ck5r9L+mzU81U0uwQX5hwV7CTiLEUxKBpZNJ9cIhdEdWpF3dLVFVQdJJM0ycJN7vTx+RXVGNX+0h8QfEkaLCqENIgtE6MgozUu6RH5KqaCTOWbrbswtyTCdDhwF1Fv1/HKx0A8aOiGTL4P3t/oAqFq/fJemWrULvQJeNyWbhx3jusVxKfV/fzZDZcUA==;ymQoNxNsXYfywnaIcFIGOA=="
 ---

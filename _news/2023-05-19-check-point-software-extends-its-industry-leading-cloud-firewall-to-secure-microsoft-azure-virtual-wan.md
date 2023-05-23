@@ -44,14 +44,14 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 65
-  - title: "Infogain AI Business Solutions Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to three NAVIK AI solutions to take advantage of Azure scalability, reliability, and agility to shape business strategies. NAVIK is an AI platform that addresses the breadth of AI solution needs ..."
-    publishedDateTime: 2023-05-18T20:14:00Z
-    webUrl: "https://www.01net.it/infogain-ai-business-solutions-now-available-in-the-microsoft-azure-marketplace/"
+  - title: "Infogain AI Business Solutions Now Available In The Microsoft Azure Marketplace"
+    excerpt: "NAVIK customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. NAVIK is an AI platform that addresses the breadth of AI ..."
+    publishedDateTime: 2023-05-19T14:46:00Z
+    webUrl: "https://menafn.com/1106278090/Infogain-AI-Business-Solutions-Now-Available-In-The-Microsoft-Azure-Marketplace"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
+      name: Mena FN
+      domain: menafn.com
     quality: 45
 
 secured: "tWSIB2cwtuuTEMjuhPbFHC5tXluHqjqp/sSNfNrAdQxvxFF0JczYKbnB9N693FUU85IHfpszk8gvxNsW6G/Re+Sol2A7KvlYSCoET/pkdahMHGwTnJ4YZlgh2ZW3li7qW6yLehLkKmu0QtiqhcJdeikNibXGNsDSbSEQxbH7zVbnKfMXpbQ+HB10AVvmtq7fvdUyhEMIrxKUCZXM/51I1MrzEdKFbBLQqT8BoIn0S3Xg/uJS5LTi27Nl5VKbslDF+jqeWURgE0sAARarT/opFWt7KdFzpUK/WUgoAZMXFdc/RVnQgI8KUBM8TW++flY9Sj7UceYavXTd2Vx/V1xKZGaqFVB4z1ZMnBy+9kFksuU=;jhfk7nk2SGT5tmeAZSO1Vw=="

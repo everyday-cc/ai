@@ -24,29 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Staffing Startup Instawork Raises $60 Million To Expand AI Tech"
-    excerpt: "Instawork, a platform that matches hourly workers to job shifts, said the Series D will help boost the use of AI. Investors value the company at $760 million."
-    publishedDateTime: 2023-05-18T12:59:00Z
-    webUrl: "https://www.forbes.com/sites/emmylucas/2023/05/18/instawork-raises-60-million-to-expand-ai-tech-in-new-funding-round/"
+  - title: "Startup uses AI to combine purchases from multiple cards"
+    excerpt: "\"We saw a gap where consumers struggled to pay without putting their credit score at risk,\" said Sam Miller, CEO of Kasheesh. The average U.S. consumer juggles more than four cards in their wallet, and tapping existing credit appropriately is a key factor ..."
+    publishedDateTime: 2023-05-19T15:00:00Z
+    webUrl: "https://www.americanbanker.com/payments/news/startup-uses-ai-to-combine-purchases-from-multiple-cards"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
+      name: American Banker
+      domain: americanbanker.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64664ab2fac4682f9db1abc6/0x0.jpg?format=jpg&crop=720,405,x0,y22,safe&width=1200"
-        width: 720
-        height: 405
+      - url: "https://arizent.brightspotcdn.com/dims4/default/6b2f955/2147483647/strip/true/crop/1496x785+0+28/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F93%2F6d%2F694870cd42428cf70b5266ac7097%2Fmiller-sam-cropped.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "San Francisco staffing startup Instawork raises millions for push into AI"
-    excerpt: "Instawork says it offers the flexibility of gig work but with more stability, for both job seekers and employers. The new funding will fuel its work towards integrating AI into its services."
-    publishedDateTime: 2023-05-18T18:53:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/05/18/instawork-staffing-startup-raises-seriesd-ai.html"
+  - title: "Seattle startup uses AI to streamline rental process"
+    excerpt: "Building on models created by ride-share platforms like Uber, tenants can also use Marble's app to report maintenance problems, which are then directed to a (human-powered) 24-hour operation center that dispatches local vendors and contractors such as plumbers."
+    publishedDateTime: 2023-05-22T13:18:00Z
+    webUrl: "https://www.axios.com/local/seattle/2023/05/22/seattle-ai-real-estate-tech-marble"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 16
+      name: Axios
+      domain: axios.com
+    quality: 17
 
 secured: "2SYwsWeDOkjNBEgliFKk36Xg1nLHp27E/FlVkBEaBoAszOpL2EmiLbEKARQUy4Xw4rzHj49WDkJcHIedOgxYYOKqtSgTr2JmXDEJiQS6Z6V7uvjzgMPR1lBOEPx2Ss0nEFeQuqsDEjwWse6FMeaIV1pabgh7jD2muLI+w0M+o2gckDGHmHZNY6TJs5oDJ+AXFxWC2davVvOmeROoXbDBZPlnc4eQqzH8urDXl9Lw+qcYajGWfIMEO9fenlc8VEu0/9KMjob0Fd+46t0HGXJP4zcmC7FeMiAL30HoEgqBdj1/+s95+9pS83Rnc34RH1qLA0jfMiPV2RogHeF6eoN06+Pli4Xewc1kKRlbl1USkCc=;/frEU708PsPMKUlkDwhofw=="
 ---

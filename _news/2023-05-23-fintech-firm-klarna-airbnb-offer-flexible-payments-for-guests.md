@@ -41,16 +41,7 @@ related:
         width: 1280
         height: 1062
         isCached: true
-  - title: "Data security issues Fintech firms are facing"
-    excerpt: "The covid crisis represented a big concern in the fintech sector. First, more people are remotely managing their money with technology. Second, that’s led to new data security challenges. Hackers are"
-    publishedDateTime: 2023-05-18T11:06:00Z
-    webUrl: "https://techround.co.uk/cybersecurity/data-security-issues-fintech-firms-are-facing/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 21
 
-secured: "xxAiX39QXXFo8EyMFmTbfhykqesldSgOUfy0oQXJCfVq/E9QEV2WkeisJX9St/VaN+Uk37XDTSaq/PYnbskS+I5jFjNLiaMxDqYKe61eSe6xMdfjx7o5t6cTmD9N64oV2SuXd1J5cpAOVDe+o4+jl7AtfGq94y2b5nt2joGSZ2V+qabnJyIGNS6pzWe7SCe2jUSz7aEb82pQ5EHCtAIMQJsafggwS4NxHRssVzcX2fC0OKj5FOr+7a+me/1C0RCkBFvBC9HzJCSOB4iPb2cV2uIe9Xm/XWqDDUw7Q9O0rEL9NjzVFB/YElUm2jlrLJQcf47ZDqNc9IBer9nOD3dddOPDmDoaWNHI2zknGzOLEsQ=;4tXDPCbei0KCfqlBaJmtWA=="
+secured: "ICdgSb00GcUWl9kK1LNc+haVrsxruMzX6X3vtkxSCj1aFNxoK8DnP0BDPu/p/2Q3zb2h+6epY5bnUpNeIbeJVwI9rHG5uq3BRS8bIiv51j0Rxysz0817s5rAGvIIhAdNAiqNhUaeLO/LNy9f9InA6Fh5Ndy8Is+Ozyr+idbWsbjKCnz5dbyHZVIjHQ387snI8shliccZowadLDiouuh2x4KkKYDLwa/b4XI9o1rl5viwzxxpAKK79gVdXv4PZTGyOeCHPlZPY3Mt85g2ueb204Fv7BQiVNT4iqE4UDnzD6o/FYbRf1m+iNfygv3XD7azs8XxS7BkQ+bpISocWu6zli704HGwJeEEzAF/1OCQFaTLq3Q4mOf+K2mz2hZ43DXpcKWQ9waeJUyh73wARuY2CIRfd1Bz0JAFmBItQ2MDRvmlNezoCJwsgM8ok/BHzErmQkGxAM5eKf9Dezj/8ZbOscm4wofrQY53FmSMegly/qn+Wmw2jUF3v+/ZkLDhawTBlB2FC7Zs6yugbhcrNR8Dig==;LMhuZFcgI3dNa6E1pACn+g=="
 ---
 

@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Aboard Britain’s first commercial self-driving bus"
-    excerpt: "This is Britain’s first commercial self-driving bus and one of the most advanced automated-vehicle ( AV) schemes in the world. The trial, run by Stagecoach, a bus firm, began operating on May 15th and will continue until at least 2025."
-    publishedDateTime: 2023-05-18T12:47:00Z
-    webUrl: "https://www.economist.com/britain/2023/05/18/aboard-britains-first-commercial-self-driving-bus"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230520_BRP503.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "9 in 10 drivers not keen on buying a self-driving car, survey claims"
     excerpt: "Motoring experts asked 1000 car insurance customers whether they would be keen to buy a self-driving car and 87% said they wouldn’t."
     publishedDateTime: 2023-05-18T13:21:00Z

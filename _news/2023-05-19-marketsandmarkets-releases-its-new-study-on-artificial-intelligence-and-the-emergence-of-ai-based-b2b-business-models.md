@@ -7,7 +7,7 @@ originalUrl: "https://technews.tmcnet.com/news/2023/05/19/9817628.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/05/19/9817628.htm"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -19,40 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "The marriage of embedded finance and AI"
-    excerpt: "Nima Montazeri, CPO of embedded finance solutions platform, Liberis, discusses how embedded finance and AI will revolutionise financial services The hype around artificial intelligence (AI) isn’t going to die down any time soon,"
-    publishedDateTime: 2023-05-21T08:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/the-marriage-of-embedded-finance-and-ai"
+  - title: "Artificial Intelligence (chipsets) Market worth $64.5 billion by 2028 - Exclusive Report by MarketsandMarkets"
+    excerpt: "Artificial Intelligence (chipsets) market for the healthcare industry to hold the highest market share during the forecast period. The healthcare industry has seen a surge in investments in AI healthcare startups and collaborations between technology ..."
+    publishedDateTime: 2023-05-22T16:07:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-05/59149292-artificial-intelligence-chipsets-market-worth-dollar-64-5-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 54
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/d0d86a8689971e7a4803707450b2c8c4:e745e31c7b801419fe5a19cb4e5e4e22/nima.jpeg.jpg"
-        width: 1200
-        height: 632
-        isCached: true
-  - title: "Rising importance of AI in the fintech space"
-    excerpt: "Advantage of AI in fintech industry is its capacity to automate and augment a multitude of laborious processes related to banking"
-    publishedDateTime: 2023-05-18T11:25:00Z
-    webUrl: "https://www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/"
-    ampWebUrl: "https://www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 39
-  - title: "AiFinSphere Fuses AI and Finance to Offer Conversational Wealth Management Solutions"
-    excerpt: "Harnessing the Power of AI to Facilitate Investment and Wealth Management Decisions for All New York, NY, United States - May 22, 2023 — AiFinSphere, a pioneering fintech startup, is set to transform the finance industry"
-    publishedDateTime: 2023-05-22T15:02:00Z
-    webUrl: "https://www.asiaone.com/business/aifinsphere-fuses-ai-and-finance-offer-conversational-wealth-management-solutions"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 27
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "R8Qgp3q5HkgRG+wlnoHYhoZdvnSdUCPZCY2jf6vXee6H1jsvie02MLuqO5RmsiWyMQw1pPOI+ruBSCqqErHJxs8Dbl64P1H38dOsZ96aVjCLDU4aW1FImsgAbmLyfkrlliEdNczXB6ti6S5Mh0aWpW+Qn6tbGxWPIoB7FVEJ5x4fziaa9LWHz+eENg2mD+MM2QJ4Oy+dwMXkNT4a87QHgpyFnbUfdLj69wKuMH1cgOwAUIwwNLflUYlCtW8N3JiJVG040OtyTgaaTqMaj0P7zT5of3E412rznkvo6CiU6M9I/JFjDAL56+zCn/MxhZPETlee770oXb3k7jK+6LelANFp5YPw13lrTnSPCVaqfCJzwwZk1SOttop5w085qvggl+sNpUX6PwlJSSbzWCja3MYgCUxK2ZIHWs6HbmBDVAuDbxmc77uzMGV2AkokriL58fQvMiWok668Rruq2/Rc1xTtDIQe1lZgV+8yE7XH5XR2iV+wN9c7azF44Y6Gy09OQA9SbHAASZhAiq2L9D41Dg==;ZeVYCgMvfUkpIEqETzt9hg=="
 ---

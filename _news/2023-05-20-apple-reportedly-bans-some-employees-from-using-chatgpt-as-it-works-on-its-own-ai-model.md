@@ -313,15 +313,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
-  - title: "Ampere Computing rides the AI, ChatGPT wave, calls for more power-conscious chips"
-    excerpt: "As we develop more products we need more engineers and designers and architects. Portland is a great place to hire. And it’s a good opportunity to hire now and take advantage of current conditions,' said Ampere Computing CPO Jeff Wittich."
-    publishedDateTime: 2023-05-18T12:00:00Z
-    webUrl: "https://www.bizjournals.com/portland/inno/stories/news/2023/05/18/ampere-computing-ai-power-performance.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 31
   - title: "In a Reminder of AI's Limits, ChatGPT Fails Gastro Exam"
     excerpt: "He said the recent gush of papers showing ChatGPT passing other medical assessments might be overshadowing the fact that this technology is not ready for regular clinical use. \"You can define a threshold how you want it and say [ChatGPT] passed it,"
     publishedDateTime: 2023-05-22T15:12:00Z

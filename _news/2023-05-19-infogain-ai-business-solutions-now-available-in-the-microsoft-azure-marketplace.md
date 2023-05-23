@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Infogain AI Business Solutions Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to three NAVIK AI solutions to take advantage of Azure scalability, reliability, and agility to shape business strategies. NAVIK is an AI platform that addresses the breadth of AI solution needs ..."
-publishedDateTime: 2023-05-18T20:14:00Z
-originalUrl: "https://www.01net.it/infogain-ai-business-solutions-now-available-in-the-microsoft-azure-marketplace/"
-webUrl: "https://www.01net.it/infogain-ai-business-solutions-now-available-in-the-microsoft-azure-marketplace/"
+title: "Infogain AI Business Solutions Now Available In The Microsoft Azure Marketplace"
+excerpt: "NAVIK customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. NAVIK is an AI platform that addresses the breadth of AI ..."
+publishedDateTime: 2023-05-19T14:46:00Z
+originalUrl: "https://menafn.com/1106278090/Infogain-AI-Business-Solutions-Now-Available-In-The-Microsoft-Azure-Marketplace"
+webUrl: "https://menafn.com/1106278090/Infogain-AI-Business-Solutions-Now-Available-In-The-Microsoft-Azure-Marketplace"
 type: article
 quality: 45
 heat: -1
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Microsoft AI
@@ -54,6 +54,6 @@ related:
       domain: tmcnet.com
     quality: 18
 
-secured: "yAyKXQUxKB/EJHQMrDj5F+VaWlAA7ZkKqYWR8qaHIb09s9cucNhQxvSxyeAW3X9uSYTUjzwzR7COrXEDiSTkd/yzmWKPhcC22wzceVf6qMkmMhld3EfJXAUM7DK9YPN5LUGVWdZiFYfI6P1IB/lJqAnu2wiOj5C2a6o/e5kchi8YbbNJYizSV+2F9QOMhCVLRNKnwnDJbIocDGEOgtW5ziGSW7aFBom3nLdT2lfDvmhazwrv3gympvueRn0yFwSDNRY7Gdj7C5ZB4xPoxS60iW1SYlLp5ZUwmMWfE4WJ1Zq/+mK81bws55tYFjdIsXPK5zKxLGL3q5dawYtumPjM7O1TPqp2VloEwUhwUVqBI2k=;Qan9JiCuQb40PboxS2w7Mw=="
+secured: "dJelQfCnCr89OeeKsD3xNGLmjYeeqtRBEkeTMTggF2EOzDDEdxibyO05wHiIVlxh4i4oH47KJlqgy/G6CiPr4HnF19yxNuRHkp6zlq6OHdizQz0A2oAq0kjpjr57j0coIZOG5YkXarv7fbppWLsvks4F4bk9Bc2WYPergoYSdM++65rLWtqJjao1szdM9gEgVRkUbPLmTBIcnETdHsNwDWtMLhZQXxsvBtCTSEBGogE/1knSQ05YMeazDRQS/AnrT3daH9+Q/MCu6qCixI2TQp7/ccmj8xwd+fT1pmX/TPOqZBz5OSuRvVk+uIdLkqldvwT0V//B4l1+eTYMKf6OK7Stp3HXYFSTC6pcdajweEQ=;AwZu4huilJx+47u7zShkpw=="
 ---
 

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Risks Posed by AI Technology Spur Calls for New Regulatory Agency"
-    excerpt: "It could be charged with granting licenses for AI platforms, setting operating standards and enforcing compliance with the rules, according to proponents including Sam Altman, chief executive of ChatGPT creator OpenAI."
-    publishedDateTime: 2023-05-18T12:59:00Z
-    webUrl: "https://www.wsj.com/articles/risks-posed-by-ai-technology-spur-calls-for-new-regulatory-agency-8cc2dd76"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
   - title: "Meta’s pricey AI bet comes new technology, data centers revamp"
     excerpt: "In Meta Platforms Inc. s year of cost cutting and layoffs, there s one area that s seeing record spending: an update of the social media giant s"
     publishedDateTime: 2023-05-18T16:47:00Z
@@ -47,20 +38,6 @@ related:
       - url: "https://thepeninsulaqatar.com/get/maximage/20230101_1672556854-332.jpg?1672556854"
         width: 960
         height: 609
-        isCached: true
-  - title: "Cursed New AI Calls Debtors to Hassle Them for Money"
-    excerpt: "The rise of AI coincides with all-time debt highs — and one startup is cashing in by having AI robocalls do way more collections than humans."
-    publishedDateTime: 2023-05-21T16:16:00Z
-    webUrl: "https://futurism.com/the-byte/ai-debt-collection-robocalls"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 37
-    images:
-      - url: "https://wp-assets.futurism.com/2023/05/ai-debt-collection-robocalls.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "uTcLYZGvOi57y9n1CChLhlB7q8PVm3cBXc3uOFfXL0tTRbcPwsjTwZzh63eeczIt+KZ18kVYg6xmNtNSfd6qdpRai9s3aniPEXbMKbM1/OiVwWtftG4DBuhHqc6mAYL4GB8Lgpix0/ElO70MyKoiWabNmoyfVl2NPGkbZotHlhx1yHTHLHpRqkD+oAJcnU2XhOOp/A1mnVW7SMIdsCW9vR+hiF4+WE3RysldqIGBTi1dcB0ulxQTppZh6pezvi7RE7Y+gD3Y2FMGjykMnbj56baXNM4yTZOq1rhaC4dPMp0Prsuiy2ThFq2+6CMkabw/xhvObbbnGzDACtOeJ1lelcBM8DiCWkK/Q5mEVtCfcog=;fpCHoHXGF72hH+vES2QUqA=="

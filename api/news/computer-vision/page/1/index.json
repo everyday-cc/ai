@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-23-targeting-ai-computer-vision-innodisk-launches-new-camera-module-series.md",
+      "title": "Targeting AI & Computer Vision, Innodisk Launches New Camera Module Series",
+      "excerpt": "In the vast field of AI applications, AI computer vision plays a pivotal role in helping industries to transform and achieve intelligent automation. Using",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/press-releases/targeting-ai-computer-vision-innodisk-launches-new-camera-module-series",
+      "originalUrl": "https://www.electronicsforu.com/press-releases/targeting-ai-computer-vision-innodisk-launches-new-camera-module-series",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2023/05/Innodisk-2.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-22T21:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "electronicsforu",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-tsas-facial-recognition-for-air-travel-sparks-privacy-outrage.md",
       "title": "TSA's facial recognition for air travel sparks privacy outrage",
       "excerpt": "The way the TSA uses facial recognition is by taking pictures of passengers and ... Get Kurt’s CyberGuy Newsletter, share your voice, a story idea or comment at CyberGuy.com. Get a daily look at what’s developing in science and technology throughout ...",
@@ -1332,10 +1375,10 @@
     {
       "path": "_news/2023-05-11-computer-vision-software-developer-visualcortex-joins-axis-technology-partner-program.md",
       "title": "Computer Vision software developer VisualCortex joins Axis Technology Partner Program",
-      "excerpt": "VisualCortex joins Axis Technology Integration Partner Program to deliver computer vision software and video analytics solutions to Axis Communications' global network of customers and partners ...",
+      "excerpt": "VisualCortex joins Axis Technology Integration Partner Program to deliver computer vision software and video analytics solutions to Axis Communications' global network of customers and partners across 50 countries SYDNEY and LUND,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/n32332541/computer-vision-software-developer-visualcortex-joins-axis-technology-partner-program",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/n32332541/computer-vision-software-developer-visualcortex-joins-axis-technology-partner-program",
+      "webUrl": "https://it.tmcnet.com/news/2023/05/11/9812159.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/05/11/9812159.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1352,56 +1395,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32332541",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32332541",
-      "publishedDateTime": "2023-05-10T21:15:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T23:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance.md",
-      "title": "ECI To Pilot Facial Recognition Technology In Polls, IFF Raises Concerns Of Surveillance",
-      "excerpt": "IFF has asked a copy of the relevant government order/notice/direction accompanying this move in its RTI to the ECI",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/national/eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance-news-285131",
-      "originalUrl": "https://www.outlookindia.com/national/eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance-news-285131",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1683701048.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/national/eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance-news-285131/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/eci-to-pilot-facial-recognition-technology-in-polls-iff-raises-concerns-of-surveillance-news-285131/amp",
-      "publishedDateTime": "2023-05-10T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

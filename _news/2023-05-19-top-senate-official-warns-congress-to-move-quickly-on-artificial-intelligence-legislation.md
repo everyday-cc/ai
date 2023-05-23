@@ -23,20 +23,6 @@ topics:
 
 related:
   - title: "Top Senate Dem: Congress 'must move quickly' on artificial intelligence legislation"
-    excerpt: "Senate Majority Leader Chuck Schumer says Congress “must move quickly” to regulate artificial intelligence and has convened a bipartisan group of senators to work on legislation"
-    publishedDateTime: 2023-05-18T12:27:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/05/18/artificial-intelligence-ai-chatgpt-regulations-schumer/4eb1d62a-f5a1-11ed-918d-012572d64930_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 33
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JSUYHAXVUEI63EMNAESXFVSJGA_size-normalized.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Top Senate Dem: Congress 'must move quickly' on artificial intelligence legislation"
     excerpt: "Senate Majority Leader Chuck Schumer says Congress “must move quickly” to regulate artificial intelligence and has convened a bipartisan group of senators to work on legislation. Schumer says the group met on Wednesday and that his staff has already met with close to 100 CEOs,"
     publishedDateTime: 2023-05-18T21:29:00Z
     webUrl: "https://www.chron.com/business/article/top-senate-dem-congress-must-move-quickly-on-18106841.php"

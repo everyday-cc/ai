@@ -35,29 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft India Adds 4 New Languages To Translator"
-    excerpt: "Microsoft India on Thursday announced the addition of three new Indian languages -- Konkani, Maithili, and Sindhi, in Transl"
-    publishedDateTime: 2023-05-18T11:38:00Z
-    webUrl: "https://menafn.com/1106270433/Microsoft-India-Adds-4-New-Languages-To-Translator"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 41
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/18/I_2f472image_story.jpg"
-        width: 800
-        height: 500
-        isCached: true
-  - title: "Microsoft Translator app get support for these three Indian languages"
-    excerpt: "Microsoft has announced the addition of three new Indian languages in Micorosft Translator. The company has revealed that it has added Konkani, Maithi"
-    publishedDateTime: 2023-05-18T12:18:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-translator-app-get-support-for-these-three-indian-languages/articleshow/100332128.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
 
 secured: "/nFZ1F/yv24qOUbSf/NKpNi+WK9ISAi1JdxY/TZjOTdbu6TPpY7PH5b1w7+Awnp6v5cj/Ow5BMqxtEmpwAA/MHzcvtw++lF80bCjTGz9exBLBa6okpSvvqnhPgYsiGaGAofVxN50e5KUh0/UHajo5hi+VxPOxi9xhvR9BjwPdNNOZIwC0BRBzyPqZKBPcZ9jwkttK6lXNemNW4sicbXMDGeX4RjgMLNKOuZ1ijBCsze+hN70v/AoV/m0qtbvFUW5QoeUR9y7XOaF+YdZ9kmBT5O4qJeGZcA3nmAc1E7G4PNCt0gUWSjhkh7Nnu6gots+P8TetEvbfOMpSdpi92TAWf/kFVzPaGVGvXqP+2EdZ54=;4PC4B7AMfYkZRgCgHoHSMg=="
 ---

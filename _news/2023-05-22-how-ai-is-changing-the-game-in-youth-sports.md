@@ -24,82 +24,36 @@ images:
     isCached: true
 
 related:
-  - title: "Big-name investors are going all-in on AI"
-    excerpt: "The Tiger Global founder told investors to buy the so-called FAANG stocks – shorthand for Facebook parent Meta ... It's not just individual investors who are caught up in the AI fanfare. In a research note last month, Morgan Stanley said that 2023 ..."
-    publishedDateTime: 2023-05-18T12:40:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5"
-    ampWebUrl: "https://markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/billionaire-investors-ai-chatgpt-bill-ackman-stanley-druckenmiller-big-tech-2023-5?amp"
+  - title: "How AI Is Going To Change Supercomputer Rankings Even More"
+    excerpt: "And as we see the rise of commercial AI systems, the vendors that build these machines and ... “Trento” AMD Epyc CPU and a quad of AMD “Aldebaran” Instinct MI250X GPU accelerators link by the Slingshot 11 Ethernet interconnect from Hewlett Packard ..."
+    publishedDateTime: 2023-05-22T21:05:00Z
+    webUrl: "https://www.nextplatform.com/2023/05/22/how-ai-is-going-to-change-supercomputer-rankings-even-more/"
+    ampWebUrl: "https://www.nextplatform.com/2023/05/22/how-ai-is-going-to-change-supercomputer-rankings-even-more/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/05/22/how-ai-is-going-to-change-supercomputer-rankings-even-more/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 61
     images:
-      - url: "https://i.insider.com/62e3b3a0e1179200195ee85b?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "http://www.nextplatform.com/wp-content/uploads/2022/08/oak-ridge-frontier-signatures-logo-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
-  - title: "Which Artificial Intelligence Stocks Are Institutional Investors Buying?"
-    excerpt: "We are currently witnessing ever-increasing use cases and growing acceptance of AI in every walk of life. Here are 7 AI stocks getting institutional attention."
-    publishedDateTime: 2023-05-19T17:22:00Z
-    webUrl: "https://www.forbes.com/sites/investor-hub/article/which-artificial-intelligence-stocks-are-institutional-investors-buying/"
+  - title: "Using Artificial Intelligence to Create Aperture Radar"
+    excerpt: "Carmakers are seeking to balance cost with capability as they increase the advanced driver assistance capabilities of their cars. Tesla, somewhat controversially, recently discontinued the use of radar on its vehicles in favor of a cameras-only sensor ..."
+    publishedDateTime: 2023-05-21T02:02:00Z
+    webUrl: "https://www.designnews.com/automotive-engineering/using-artificial-intelligence-create-aperture-radar"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646699007031f328f841e295/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 622
-        isCached: true
-  - title: "AI boom could expose investors’ natural stupidity"
-    excerpt: "My colleagues, they study artificial intelligence,” the Israeli psychologist Amos Tversky once quipped. “Me, I study natural stupidity.” The co-founder of behavioural economics, who died in 1996, did not live to see 2023,"
-    publishedDateTime: 2023-05-19T07:56:00Z
-    webUrl: "https://www.reuters.com/breakingviews/ai-boom-could-expose-investors-natural-stupidity-2023-05-19/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/81uveTxWRNRyEmCdhAq5JfkEHTA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SFDGX2C26VOFVHSZWAJP63GUOQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Although AI is a Bubble, It’s Still Investible"
-    excerpt: "Sam Altman, the CEO of OpenAI, which brought us ChatGPT, has gone to Congress to demand regulatory oversight of Artificial Intelligence (AI)"
-    publishedDateTime: 2023-05-18T19:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/although-ai-is-a-bubble-it-s-still-investible-1032338366"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "AI Alarmists Are Dragging Us All Down a Rabbit Hole"
-    excerpt: "Silicon Valley is fixated on longtermism — prioritizing future lives over those living today. This is very tricky moral math."
-    publishedDateTime: 2023-05-18T23:20:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/05/19/ai-longtermism-alarmists-are-dragging-us-all-down-existential-rabbit-hole/897ef2f0-f5fc-11ed-918d-012572d64930_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
+      name: Design News
+      domain: designnews.com
     quality: 39
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RDS3WYXV7QI63EMNAESXFVSJGA.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.designnews.com/sites/designnews.com/files/sensor%20on%20car.jpg"
+        width: 3080
+        height: 1601
         isCached: true
-  - title: "Elon Musk Makes Bold AI Prediction That Will Delight Investors"
-    excerpt: "The best known is ChatGPT, developed by OpenAI, a startup in which software giant Microsoft ... The chatbot showed that AI has reached a point where robots can perform certain tasks much better than humans can. But beyond the search-engine industry ..."
-    publishedDateTime: 2023-05-22T13:48:00Z
-    webUrl: "https://www.thestreet.com/technology/elon-musk-makes-bold-ai-prediction-that-will-delight-investors"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 19
 
 secured: "dKvsY7dO0uF1omk+UGlXP7parWCIR+coimPkrDJxsFHaUZHHlrgeYUojqltcNgRMb2aK6VCoqEjXxHI4ipc6fcWUFbPsow9aQv3hGs2kLV4wP5agyDvbPZlXkR3l0nfVQnHzwFe0FLc9nov0dnXqUd16JWnHAnPU9X+DRoiRctqhF6BfmtPrzNdn/UczagZ40wbz71djgatg+4e3QOUSnLkUHSv4CaaOMTcyQTORi98U1MGfXkdqeDRNkr8MTXp18Q61Xs5XqK+uN4E9t+fY7Lvnx+5If6A4Cxk+qLPbNHruNfWNi2dSGMLqLfstq3+lF0zCqb5v8/wvCbH3raEl4sPMhD2aE61YfxvVDQBiPig=;pdvS11j8mgC6MEl2SF9OmQ=="
 ---

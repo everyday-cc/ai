@@ -7,7 +7,7 @@ originalUrl: "https://spaceref.com/space-commerce/planet-announces-ai-partnershi
 webUrl: "https://spaceref.com/space-commerce/planet-announces-ai-partnerships-at-geoint-2023/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Dubai announces AI plan to slash traffic jams"
-    excerpt: "As such, it ensures that AI models do not make decisions incompatible with the AI principles and ethics set by the Dubai Digital Authority. RTA has trained several Emiratis in leadership, supervisory and technical roles to empower them to analyse data and ..."
-    publishedDateTime: 2023-05-21T09:12:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/transport/dubai-announces-ai-plan-to-slash-traffic-jams"
+  - title: "Planet Announces AI Partnerships at GEOINT 2023"
+    excerpt: "Planet Labs PBC (NYSE: PL), a leading provider of daily data and insights about Earth, today announced new strategic partnerships with artificial intelligence (AI) analytics providers at the U.S. Geospatial Intelligence Foundation's 2023 GEOINT Symposium."
+    publishedDateTime: 2023-05-22T14:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-planet-announces-ai-partnerships-geoint-2023-/2023/05/22/9818444.htm"
     type: article
     provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 39
-    images:
-      - url: "https://www.arabianbusiness.com/cloud/2023/01/22/New-Dubai-road-2.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "UwdC2qoQ+HWJ1AEKdL0DMrh2jmbVtpQFSnQppmRF4KxT66oYB5yeTIUIKEufogiDgyrcV/YOO7f3zhKp/P2ZTl/eAiJBklnUywZyieG9iVrypDgoZXfDF59RcEfr5KCkpo0fdVZghbFBa0+zn0YpYBYvwhV1tFpms4KT3c/gN+iPMzzofIwF2IAZsJWV8UkjRI03WCWvjqYf0o5qWOADLgy13pGQ8xdpow6kor0XPggwhnqrOFBeu0YXsdrV273uwPcOm0tt1maR3hLz0rhSzk+rH/I4xfgh0IYnnoRlzwWKumCAuqcdpRqLPe+0V8epbwXHRmXPlZHE1F0DF9SNAIsyeqPOHwB/R/jO2kVPuzE=;vrGKEzCVI593qwLjTue15w=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mank
 cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Vanguard
@@ -27,65 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Mitigating Dark Web Risks: The Role Of AI And Machine Learning"
-    excerpt: "As artificial intelligence and machine learning are becoming increasingly important in the fight against cybercrime, security leaders should consider a range of tools to safeguard themselves."
-    publishedDateTime: 2023-05-18T11:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/amp/"
+  - title: "The marriage of embedded finance and AI"
+    excerpt: "Nima Montazeri, CPO of embedded finance solutions platform, Liberis, discusses how embedded finance and AI will revolutionise financial services The hype around artificial intelligence (AI) isn’t going to die down any time soon,"
+    publishedDateTime: 2023-05-21T08:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/the-marriage-of-embedded-finance-and-ai"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6464d9377c567a5a9746245d/0x0.jpg?format=jpg&width=1200"
+      - url: "https://assets.bizclikmedia.net/1200/d0d86a8689971e7a4803707450b2c8c4:e745e31c7b801419fe5a19cb4e5e4e22/nima.jpeg.jpg"
         width: 1200
-        height: 675
+        height: 632
         isCached: true
-  - title: "AI Risks: The Need to Define AI Ethics and Rules"
-    excerpt: "While tech industry veterans are concerned about AI and its potential risk, it raises the question of whether to ban AI or enforce ethical restrictions."
-    publishedDateTime: 2023-05-18T14:02:00Z
-    webUrl: "https://enterprisetalk.com/featured/ai-risks-the-need-to-define-ai-ethics-and-rules/"
-    ampWebUrl: "https://enterprisetalk.com/featured/ai-risks-the-need-to-define-ai-ethics-and-rules/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/ai-risks-the-need-to-define-ai-ethics-and-rules/amp/"
+  - title: "Why AI’s diversity crisis matters, and how to tackle it"
+    excerpt: "Machine-learning researchers from under-represented groups say the field desperately needs more people like them to ensure the technologies deliver for all."
+    publishedDateTime: 2023-05-19T16:14:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-01689-4"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 74
+      name: Nature
+      domain: nature.com
+    quality: 41
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/AI-Risks-The-Need-to-Define-AI-Ethics-and-Rules.jpg"
-        width: 1500
-        height: 844
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01689-4/d41586-023-01689-4_25339936.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Rise of the machines: how long before AI steals my job?"
-    excerpt: "As a translator, Sarah DeVries has watched Google Translate get better and better and wonders what the future of her profession holds."
-    publishedDateTime: 2023-05-21T00:28:00Z
-    webUrl: "https://mexiconewsdaily.com/community/how-long-before-ai-steals-job/"
+  - title: "Dubai announces AI plan to slash traffic jams"
+    excerpt: "As such, it ensures that AI models do not make decisions incompatible with the AI principles and ethics set by the Dubai Digital Authority. RTA has trained several Emiratis in leadership, supervisory and technical roles to empower them to analyse data and ..."
+    publishedDateTime: 2023-05-21T09:12:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/transport/dubai-announces-ai-plan-to-slash-traffic-jams"
     type: article
     provider:
-      name: Mexico News Daily
-      domain: mexiconewsdaily.com
+      name: Arabian Business
+      domain: arabianbusiness.com
     quality: 39
     images:
-      - url: "https://mexiconewsdaily.com/wp-content/uploads/2023/05/AI-cropped.jpg"
-        width: 850
-        height: 594
-        isCached: true
-  - title: "'I think it's all in how we use it.' Talking to machines: The rise of conversational artificial intelligence"
-    excerpt: "MILWAUKEE (CBS 58) -- Artificial intelligence (AI) is breaking social norms and paving a new way of communication and relationship building. AI has taken the world by storm, first with the mainstream usage of ChatGPT, and now, its slow integration into ..."
-    publishedDateTime: 2023-05-23T03:02:00Z
-    webUrl: "https://www.cbs58.com/news/i-think-its-all-in-how-we-use-it-talking-to-machines-the-rise-of-conversational-artificial-intelligence"
-    type: article
-    provider:
-      name: CBS 58 News
-      domain: cbs58.com
-    quality: 18
-    images:
-      - url: "https://newscdn2.weigelbroadcasting.com/DApH2-1684805478-255765-blog-1000P_AI%20RELATIONSHIPS%20_WDJTDRL2_00-03-15%2C03.JPG"
-        width: 1920
-        height: 1080
+      - url: "https://www.arabianbusiness.com/cloud/2023/01/22/New-Dubai-road-2.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "f3UhUFYklc5JZqwSgTdeiyw0VeZ97HDzlvfcp2n1/t0FdkXjg+309niqE3zMc/UAwjR/KzwfJ8grx44Wkify+6T86xbSZwtXTYXiPax1lVk8q+csGU7IM7JTsSmOTN9skn4X15cParg9GYZHUMOQ2y20cygbl6v+eDz8exbS9yOZo8Fso/61V0VLpqBvV/9V3HrnLtVqILv3sueJDY9Qg6f3hj1H4uMVoILdcQ3NlHSwJk5LKE8ktZUJ7KtjIlZrUCqcnJCHq++2ccCIfZmqwlShgj0SfVEMaGO1389d6YT1BqUvsOkQOdpE+typtYHdJaW417OZCHwfLGZnbXAm7Lxt3lawTtGvsS/6bxK1tofvEHjVBRGEjzHOKrzZZClsWFmOpBfVjCgLSEu8YIRwtJ4B8Cwyx0q5fUitQWFyi77En78v5JK80SkmS74OdI+iE4+jdM2XOGW3h4jvNfoUHlT77Fr85/Moy2WrLNkd6acagBsY7AZt0jkY/+O7dwcWgDilHdVNh9xd/Kh/1WCGSg==;AIjbpiYD+Y/8+A9m6jbCsg=="

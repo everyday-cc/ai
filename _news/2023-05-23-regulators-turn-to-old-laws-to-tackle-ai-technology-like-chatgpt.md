@@ -299,15 +299,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
-  - title: "Ampere Computing rides the AI, ChatGPT wave, calls for more power-conscious chips"
-    excerpt: "As we develop more products we need more engineers and designers and architects. Portland is a great place to hire. And it’s a good opportunity to hire now and take advantage of current conditions,' said Ampere Computing CPO Jeff Wittich."
-    publishedDateTime: 2023-05-18T12:00:00Z
-    webUrl: "https://www.bizjournals.com/portland/inno/stories/news/2023/05/18/ampere-computing-ai-power-performance.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 31
   - title: "Apple reportedly bans some employees from using ChatGPT as it works on its own AI model"
     excerpt: "Apple Inc. has banned some employees from using OpenAI LP’s ChatGPT artificial intelligence service, according to a new report. The Wall Street Journal reported the development late Thursday, citing sources and an internal Apple document."
     publishedDateTime: 2023-05-19T17:30:00Z
@@ -368,6 +359,6 @@ related:
       domain: krqe.com
     quality: 0
 
-secured: "6bPBVkHjM0XitaRFK2UwXrl5Ysbd9zr1M393jbgfkJp5oTsYiRcOTC73XUN7O2CLLFo/B45567evGYueh9lpOtsl9U6Fv8ae/stUCV6vlzlN43tYAAxYiBffbzDgIHp28Z+XP5AEDeoAZl0nlNA65Liejr1jqs2aYCmV6KDSlCTuxLQpOQs4jMPP1kjF//guwizbzoYuS7xKFGzxGuYXQQdKR6ra9IAcwPjbJT9RTcmQof7N9jE9eSozRwNFR2uVYVH7GNQ5Vo5YJj24CrsLEEKk8OkACVcsi4dNKx78Dpj5fS0CwbVFpDBPXjD0QrAPD8AcbSklXzIi88gisCREg5Nr/EP0cz5cT4ctOsc6V10=;ZXG2izWwiZpip4Mj/qJ4zA=="
+secured: "4+5vQLQy/MVZczqN9eJeYo/lBMyOYkXfIvU90CnGk5SbZGlkjB8drbfNWeCDBDZv0RiQ4Jqp2M+aa2r0A0QubzoULHyhNvmw2/Ps39AXBkTD1P+jsIu0Q/SUpiR47QtxRsR9qcXwwsa2k8WfOtg58nS0b1rlD3LFxIe+WdMGTF1NxfOHDFIdqv/nES+iGwo1LGfTtNGEpEFbsUGELo7ebsRraYYAS9lcAhHUuP05MDLuzua2XbFV6BNThwOHihGYj05+gxRG5KpmnS0i2NYJH8prmEU74RmWb5V6EyeLmErCPoWtYqjq/QDmOFiEhGoUpFtVkYzA+mwB2ryoE2ZKU/Ki8GNTuM3DyrJ7zw1eEo6JPu8RSy4BfQm4IDiDr170aQb6oE4T2/hgo4nYrtH2EiXu9LMFdcOyz0+Lnyfi1OCgirUATlwReBYGuupJr+KTWHYUULPTIeNUasR822F8M4ssd3YdBtLCXcKn3vLmvzPE9Gunl6EX3YOm59YsQwISLCbgsVihL/xmDmdH3lGVbw==;xCCsmTvS9E3XU51vcXc7pQ=="
 ---
 

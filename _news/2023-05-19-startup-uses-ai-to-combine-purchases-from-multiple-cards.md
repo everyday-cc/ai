@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Startup harnesses AI tech to combat palm weevil infestation"
+    excerpt: "When Zeid Sinokrot started a project to cultivate date palms with his family in Jericho, a Palestinian city in the West Bank, they were faced by an impossible challenge after the dreaded palm weevil swarmed the farm."
+    publishedDateTime: 2023-05-20T22:21:00Z
+    webUrl: "https://jordantimes.com/news/local/startup-harnesses-ai-tech-combat-palm-weevil infestation"
+    type: article
+    provider:
+      name: The Jordan Times
+      domain: jordantimes.com
+    quality: 37
+    images:
+      - url: "https://jordantimes.com/sites/default/files/styles/news_inner/public/33-Mays2.png?itok=taTKFb47"
+        width: 870
+        height: 358
+        isCached: true
   - title: "Seattle startup uses AI to streamline rental process"
     excerpt: "Building on models created by ride-share platforms like Uber, tenants can also use Marble's app to report maintenance problems, which are then directed to a (human-powered) 24-hour operation center that dispatches local vendors and contractors such as plumbers."
     publishedDateTime: 2023-05-22T13:18:00Z

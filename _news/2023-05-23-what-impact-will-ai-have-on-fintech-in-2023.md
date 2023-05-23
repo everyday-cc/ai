@@ -61,24 +61,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Nextech3D.ai Receives $2 Million in Cash From $400 million FinTech Ratio Tech"
-    excerpt: "With access to a $400 million credit facility, Ratio is able to fund Nextech3D.ai Accounts Receivables With ... initial $2,000,000 cash infusion from FinTech Ratio Tech representing zero-dilutive ..."
-    publishedDateTime: 2023-05-18T12:17:00Z
-    webUrl: "https://tulsaworld.com/ap/state/nextech3d-ai-receives-2-million-in-cash-from-400-million-fintech-ratio-tech/article_3eefe327-531a-522e-b87b-da964e5c6b12.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 16
-  - title: "Nextech3D.AI receives initial $2M cash infusion from fintech firm Ratio Technology"
-    excerpt: "Nextech3D.AI (CSE:NTAR, OTCQX:NEXCF) said it has received an initial $2 million cash infusion from fintech firm Ratio Technology. The funding represents a zero-dilutive capital source for the company as the cash was paid against future invoices for ..."
-    publishedDateTime: 2023-05-18T12:06:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1015405/nextech3d-ai-receives-initial-2m-cash-infusion-from-fintech-firm-ratio-technology-1015405.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 13
 
 secured: "TYbai59m6KAO3p5bk2GK7dY+ZlRb6IV9k6imsI5j7DU9anGj8jiq1iOYGPQ/WlebYokPoH1GWAYS+fRsVMsWePc7ZFO9zxmcxer2S/dtBZP0qT6af6W1fY3FFei3Yc7+UrG/HXTgDhD4aZJlFA+yeul2UOXHdo6clM367WsFTX+ox4iJ795W0X5YGZZG1NnbW7czAbOuopg1lwp3FWry/EwhhDgQDBZDoK8LzCGYamt3m1mZFWHIX5r5sMMp1sNcq2wErtOyiEBYfE+yt6eTSrS1kxS575slqYRxbWpd776KyF+V63L1PIg16KGtcXyoSBfZ84Vf37SE4KJ6Tc+FQeWRelucCHGvKhC9f4XAE8VRS70bDMfe3X57E97fmFcb2CfZpPmwseDx9ZeGopONtFKp9PiBVNXd87nddjL9cOwrcGcF++jRvPHw/ENtm7LaNAOjqTIDtMpDO3nJdkmHSffHolXNywZIdYWFOK6oy72wFtochdgpYrR1N/y8yLlyShVwK8hSDAaYo1okoHcXaA==;MWeWvHDkjiCt3llRexX+Xg=="
 ---

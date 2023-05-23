@@ -22,15 +22,15 @@ topics:
 related:
   - title: "Artificial intelligence takes center stage at Cannes Film Festival"
     excerpt: "The impact of artificial intelligence on the film industry is sparking debate at the Cannes Film Festival in France."
-    publishedDateTime: 2023-05-22T15:59:00Z
-    webUrl: "https://www.stltoday.com/video_6dd27ed9-0baa-5309-86f7-0b697797a921.html"
+    publishedDateTime: 2023-05-22T16:30:00Z
+    webUrl: "https://omaha.com/news/world/artificial-intelligence-takes-center-stage-at-cannes-film-festival/article_e6a49fc4-4a95-5324-a53a-1a9583ae5bfa.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 37
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/dd/6dd27ed9-0baa-5309-86f7-0b697797a921/646b89646e66d.preview.png?crop=640%2C336%2C0%2C11&resize=640%2C336&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/e/6a/e6a49fc4-4a95-5324-a53a-1a9583ae5bfa/646b8e4cd1ca2.preview.png?crop=640%2C336%2C0%2C11&resize=640%2C336&order=crop%2Cresize"
         width: 640
         height: 336
         isCached: true
