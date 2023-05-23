@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Vultr and Domino Data Lab Partner to Reduce AI Time-to-Value Amid Surging GPU Demand"
-excerpt: "\"Customers seeking AI-driven competitive advantage must grapple with staggering GPU demand and cost pressures,\" said Nick Elprin, CEO and co-founder at Domino Data Lab. \"Our integration with Vultr ..."
-publishedDateTime: 2023-05-18T14:03:00Z
-originalUrl: "https://www.businesswire.com/news/home/20230518005226/en/Vultr-and-Domino-Data-Lab-Partner-to-Reduce-AI-Time-to-Value-Amid-Surging-GPU-Demand/"
-webUrl: "https://www.businesswire.com/news/home/20230518005226/en/Vultr-and-Domino-Data-Lab-Partner-to-Reduce-AI-Time-to-Value-Amid-Surging-GPU-Demand/"
+excerpt: "Today ,Vultr, the world’s largest privately-held cloud computing company, and Domino Data Lab, provider of the leading Enterprise MLOps platform trusted by over 20% of the Fortune 100, announced ..."
+publishedDateTime: 2023-05-18T14:11:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/vultr-and-domino-data-lab-partner-to-reduce-ai-time-to-value-amid-surging-gpu/article_e9bb8d18-e79e-5596-9c8c-50bc7eec8c0a.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/vultr-and-domino-data-lab-partner-to-reduce-ai-time-to-value-amid-surging-gpu/article_e9bb8d18-e79e-5596-9c8c-50bc7eec8c0a.html"
 type: article
-quality: 27
-heat: 27
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: newsroom.businesswire.com
-  domain: businesswire.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://static.cnhionline.com/ksherman/images/575801-RTJ-Masters-Package-300x250.gif"
+    width: 300
+    height: 250
+    isCached: true
 
 related:
   - title: "Vultr and Domino Data Lab Partner to Reduce AI Time-to-Value Amid Surging GPU Demand"
@@ -29,6 +35,6 @@ related:
       domain: datanami.com
     quality: 27
 
-secured: "zC0hQo8XuLUmC8yeZ9nmzRDf158vbT7bRXrX2Td6PY9be1zSVTFyNadf/FGqXfRmXMNGAUbQfNbv7Ur7Ujw8JKEPOHkmEwIBPcsV0BVx2NGQ4I+3dFMfU9ps/v04LqRJzXz9OcY4XFbFeemExIy7q+ZAVq7rYyV3BmlirSML0iLhfYLpJmmbZh88JADGCRH5MAzo9uRhLmf/UTjLesohKpwTfmHE61Ee6eR1fEhkt3BIF2wCuyUshrmDJNkXTTB5mLTFHTy2ZAxlbdfAMSxA4UHqn+w3A1fNpzFTPG92+StbY7l+vYEyJtHvvsctz+YZTEez3v+xQuKgihKot5+AT6620fwN0qHY6NKpFhBZfrw=;ufeToDEqVCAq2Ew2rDuReA=="
+secured: "ARFxed+NOmdBl3N04KkpcqzJYPuv6/b3db3/gfrVjyweVaQb8Z4pV+EbOi6ux9cdYJs4mC+GAAR9Om8x4YcDiRTOoqkXU9HhWEZ4iZU4rU8h/tL3FXkXVLAk0QVuD4npDdHznLxnd7jwYrWWoh/P2DJsnTRvuWTp9KY7ioH1kD/slkOr0zl8SMnRHKSJEgQH7f0wTjuDFbY/DbzLKCm0/R6WUUrjWrKERmuj8VbHplgDv8WL/S7TqAEEfAM0G/CiLC4sczRooa+skNGEYFZGq+BIxQZgpq2ce2DNRRNhW+CTPrbWg0K9pbQJxoos5DnKiqvLab6FFHHsr0tobFsil/NsIBsGdms83DtRRPUU5SQ=;NX+YfrAUsSvgRmylTHjAEA=="
 ---
 

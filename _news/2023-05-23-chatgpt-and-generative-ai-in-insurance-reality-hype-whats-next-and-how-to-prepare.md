@@ -339,6 +339,15 @@ related:
       name: The Indianapolis Star
       domain: indystar.com
     quality: 10
+  - title: "I asked ChatGPT where it'd put Brightline stop on Treasure Coast; here's what AI bot said"
+    excerpt: "Like many of you, I’m still trying to figure it all out. I recently completed some training in AI and journalism ethics. The other day I was motivated to use perhaps the most well-known AI application, or chat bot, ChatGPT, which can be found online at ..."
+    publishedDateTime: 2023-05-23T00:50:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/columnists/laurence-reisman/2023/05/12/ai-chatgpt-says-where-brightline-should-put-station-on-treasure-coast/70180635007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 10
   - title: "ChatGPT-powered Wall Street: The benefits and perils of using artificial intelligence to trade stocks and other financial instruments"
     excerpt: "Artificial Intelligence-powered tools, such as ChatGPT, have the potential to revolutionize the efficiency, effectiveness and speed of the work humans do. And this is"
     publishedDateTime: 2023-05-21T13:30:00Z

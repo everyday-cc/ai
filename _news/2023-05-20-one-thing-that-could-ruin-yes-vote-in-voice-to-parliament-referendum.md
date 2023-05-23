@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "AFL backs Yes vote for Indigenous Voice"
-    excerpt: "“While we encourage everyone to seek the information they need to form their own views on the referendum, the AFL proudly supports the recognition of Aboriginal and Torres Strait Islander peoples in the Australian Constitution through the voice to ..."
-    publishedDateTime: 2023-05-18T07:29:00Z
-    webUrl: "https://www.afr.com/companies/sport/afl-backs-yes-vote-for-indigenous-voice-20230518-p5d9ja"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.3082%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_359%2C$y_339/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/8541fcb0422a312b79f6b9ab016660001eb12034"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Support for a Voice to Parliament"
     excerpt: "The Sydney Swans support constitutional recognition for First Nations peoples, and as such, we are supportive of a Voice to Parliament. The Sydney Swans has been enriched by the contribution of Aboriginal and Torres Strait Islander peoples on and off the field,"
     publishedDateTime: 2023-05-19T03:54:00Z
@@ -49,6 +35,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Why I am voting “yes” in the referendum giving First Nations peoples a Voice to Parliament"
+    excerpt: "At the forthcoming referendum, we have the opportunity to support the recognition in our foundation document ... That need remains as strong today as it was then. The Voice will help to achieve it. I can’t help but think George Fletcher Moore would ..."
+    publishedDateTime: 2023-05-19T07:16:00Z
+    webUrl: "https://www.smh.com.au/politics/western-australia/why-i-am-voting-yes-in-the-referendum-giving-first-nations-peoples-a-voice-to-parliament-20230518-p5d9kx.html"
+    ampWebUrl: "https://amp.smh.com.au/politics/western-australia/why-i-am-voting-yes-in-the-referendum-giving-first-nations-peoples-a-voice-to-parliament-20230518-p5d9kx.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/western-australia/why-i-am-voting-yes-in-the-referendum-giving-first-nations-peoples-a-voice-to-parliament-20230518-p5d9kx.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 14
 
 secured: "tSEqQOQv7sRi4Phl5RsMFHfnOkwzS/v2Lb+IjQh8jtUe3k801nbI1RF3Jc+W2V9la4i4xQ9mj/LDcMKCNoPJgMPq3UQOSiwzvEN9JxjZjHckPCFwoIwOojUsR/YMEmjUtZIhXgHLY0Bk5BiyE/xbjQInFiPX5JGAS6uk6Q0JJTFjXx63z+kvQlApa2SoZ9x9WmOMrHaDfZ6s+r5AP+zHVGGJyTh0pHqxxnLygRr5XMmu8+vBniked15AoHamp2iDf1mKP2KH0FhJK7aVsChWE8k17bVJBUiBJ2NbbyVQjwmdgnXs7WjsJyijdk/1ULWC+R1WRo5XB24LZNE4Wi73BUqhCmVTZOJCS0HNxLQkQ6xbPhvByaV25rJPDde7pUOq0ONSs7CGMDKy2oQd1XhoivzKc1Q08H7s7FpByUBTjSoFPWc+Xcx9W9v7O1UhaEDyCBVJm4yCvOC6dj1arxEA3ZiRhqmlrySy7baPbZHXYzWBpAtXoUPK4FiW9EgSACDf/1BSUU40drOV/Gnf45VGKA==;rsUev52aATrzcui4lW5TyQ=="
 ---

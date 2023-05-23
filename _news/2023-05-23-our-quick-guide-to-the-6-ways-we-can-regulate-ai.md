@@ -27,36 +27,45 @@ images:
     isCached: true
 
 related:
-  - title: "US senator introduces bill to create a federal agency to regulate AI"
-    excerpt: "Days after OpenAI CEO Sam Altman testified in front of Congress and proposed creating a new federal agency to regulate artificial intelligence, a US senator has introduced a bill to do just that."
-    publishedDateTime: 2023-05-18T09:00:00Z
-    webUrl: "https://www.cnn.com/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/18/tech/bennet-digital-regulator-bill-ai-provisions/index.html"
+  - title: "How the digital ad industry can guide the ways AI transforms businesses"
+    excerpt: "The digital advertising industry must look closely at how AI is implemented as it begins to use the tech for targeting, measurement, personalization and optimization."
+    publishedDateTime: 2023-05-20T16:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/"
+    ampWebUrl: "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/amp/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230517144152-senator-michael-bennet-file-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1182774846-e1648671402902.jpg?w=1200&strip=all"
+        width: 1199
+        height: 638
         isCached: true
-  - title: "Using Artificial Intelligence to Create Aperture Radar"
-    excerpt: "Carmakers are seeking to balance cost with capability as they increase the advanced driver assistance capabilities of their cars. Tesla, somewhat controversially, recently discontinued the use of radar on its vehicles in favor of a cameras-only sensor ..."
-    publishedDateTime: 2023-05-21T02:02:00Z
-    webUrl: "https://www.designnews.com/automotive-engineering/using-artificial-intelligence-create-aperture-radar"
+  - title: "Workplace AI: How artificial intelligence will transform the workday"
+    excerpt: "As AI becomes a more core part of the workday, Frey says this push into fluency means workers will be better equipped to utilize it as a supplement to their current skill set. Familiarity with this technology also set them up to grow and develop those skills quickly."
+    publishedDateTime: 2023-05-18T14:49:00Z
+    webUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday?trk=public_post_comment-text"
     type: article
     provider:
-      name: Design News
-      domain: designnews.com
-    quality: 39
+      name: BBC
+      domain: bbc.com
+    quality: 82
     images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/sensor%20on%20car.jpg"
-        width: 3080
-        height: 1601
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0fnfjfy.jpg"
+        width: 624
+        height: 351
         isCached: true
+  - title: "3 Penny Stocks to Buy as the AI Sector Transforms Every Industry in 2023"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI penny stocks offer investors a thrilling opportunity to tap into the"
+    publishedDateTime: 2023-05-19T10:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-penny-stocks-to-buy-as-the-ai-sector-transforms-every-industry-in-2023-1032339476"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
 
 secured: "kFoYQe4fypn8YUKZMKbitasZHsGQKhq3Vo2fREePA6PjxuzC7hLxskUU8/kjVTBmhsO3UvvRJSHlGR01b/Wkh0SyhYsVFMnFGS/7CfvDH5MZ6LM22L0hYiXGevwTEc0ZmR/OX6TlPPyjUDI8Ctdmne/Os5/iiB1VTPz9vWaDgcUHVqnrErGsfh8Y6j4MZ7dti8RRYaZH0ueQIRkI4WMLyairy1X2mrw9+aENMgChpL2q27j7waAEG6AdXe5wwV8bZe2eiJEa+y4/HGGdjrHbN8gO7cRzAl2hfO582I8dzeCBwa1MfP9/HZhG4ORAnkusyTpprQ8DEQVg7Ygmsx6iu+D3uGH+saQopkjTqGWsC8ywyxaXWyAIX4X65Erd3k0fdgPFWwdqPo1niuZOrix3j7TchUP8rsbfL6Gs6tCZXQJuajiM6535KC/wU3sXuMDB4XWClPV0quKvSWWPZR3gVswcwYG2MtxAugm+Yq45RR1eq2ZoTJeEN6KiiB4yLsJZxJgZ57m86hHCZdG/n8oiHg==;gex9wUxWn+EwcOegKhaYaA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nextplatform.com/2023/05/22/how-ai-is-going-to-change-su
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/05/22/how-ai-is-going-to-change-supercomputer-rankings-even-more/amp/"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: The Next Platform
@@ -26,6 +26,22 @@ images:
     width: 2560
     height: 1707
     isCached: true
+
+related:
+  - title: "Using Artificial Intelligence to Create Aperture Radar"
+    excerpt: "Carmakers are seeking to balance cost with capability as they increase the advanced driver assistance capabilities of their cars. Tesla, somewhat controversially, recently discontinued the use of radar on its vehicles in favor of a cameras-only sensor ..."
+    publishedDateTime: 2023-05-21T02:02:00Z
+    webUrl: "https://www.designnews.com/automotive-engineering/using-artificial-intelligence-create-aperture-radar"
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 39
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/sensor%20on%20car.jpg"
+        width: 3080
+        height: 1601
+        isCached: true
 
 secured: "/Z2YCdeTv+UcdmzBUetnGkTyNtmUWGN/rzpaqxKHN9jLrJDDntR6pPcEK+0HHwjG4Tx704aE8Ymqw/4HmoAQes0BQu9X92dZpZhXXEefXihp33TX9M8lLJotNaPNdKAnOnAGgIKVwe4BKl87u/tnoenRZwlI3yUFazlgf4jlR/AXcjBxoz6U9TTk9yEpHqJWHeMJowjeo3K8QWb2Aa+0Q/QGNJK15fZz/eH3wHMgKxXyzg0PZVOWGyxARY71biIgzf52YjNM7GJjiJ1JigWkrxkVWLe8IgrgFZdtui0b6wtp1JE6QZtG0VaGnwxksm/rgDHOP64T465HHyqA1FQ4zp9/LWE0ajLB0yG3Qnxop5FCTgL6en7/5Cf2iPbqjwgHoWqomojXu7pjsyfLiKqZpb4NsUMKOTa/z7PisUJh8Hl9ZjFEz2g0vQm+hx0XWpsSR8Xp59+fcnVzCNnsjX/5Fit7x1VNL3+b/i7wNv/4OreWeGm2lV0MxAbfybsvrfJF6MQ/5GSrt2iC5hiIRLxObA==;uSHTsDJvAyXLsy9O5cynBQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/articles/the-marriage-of-embedded-fina
 webUrl: "https://fintechmagazine.com/articles/the-marriage-of-embedded-finance-and-ai"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Rising importance of AI in the fintech space"
+    excerpt: "Advantage of AI in fintech industry is its capacity to automate and augment a multitude of laborious processes related to banking"
+    publishedDateTime: 2023-05-18T11:25:00Z
+    webUrl: "https://www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/"
+    ampWebUrl: "https://www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 39
   - title: "AiFinSphere Fuses AI and Finance to Offer Conversational Wealth Management Solutions"
     excerpt: "Harnessing the Power of AI to Facilitate Investment and Wealth Management Decisions for All New York, NY, United States - May 22, 2023 — AiFinSphere, a pioneering fintech startup, is set to transform the finance industry"
     publishedDateTime: 2023-05-22T15:02:00Z

@@ -44,6 +44,22 @@ related:
         width: 1199
         height: 638
         isCached: true
+  - title: "Our quick guide to the 6 ways we can regulate AI"
+    excerpt: "The European Union is finalizing the AI Act, a sweeping regulation that aims to regulate the most “high-risk” usages of AI systems. First proposed in 2021, the bill would regulate AI in sectors such as health care and education."
+    publishedDateTime: 2023-05-22T17:43:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/22/1073482/our-quick-guide-to-the-6-ways-we-can-regulate-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/05/22/1073482/our-quick-guide-to-the-6-ways-we-can-regulate-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/22/1073482/our-quick-guide-to-the-6-ways-we-can-regulate-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/starts-stops-regs1_1.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "3 Penny Stocks to Buy as the AI Sector Transforms Every Industry in 2023"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI penny stocks offer investors a thrilling opportunity to tap into the"
     publishedDateTime: 2023-05-19T10:51:00Z

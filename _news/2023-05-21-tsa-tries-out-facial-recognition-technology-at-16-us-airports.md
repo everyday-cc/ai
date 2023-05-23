@@ -2,17 +2,17 @@
 category: news
 title: "TSA tries out facial recognition technology at 16 U.S. airports"
 excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through -- all without having to hand over their identification to the TSA officer sitting behind the screen."
-publishedDateTime: 2023-05-21T07:46:00Z
-originalUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
-webUrl: "https://www.arkansasonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+publishedDateTime: 2023-05-21T07:41:00Z
+originalUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
+webUrl: "https://www.nwaonline.com/news/2023/may/21/tsa-tries-out-facial-recognition-technology-at-16/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Arkansas Democrat-Gazette
-  domain: arkansasonline.com
+  name: Northwest Arkansas Democrat Gazette
+  domain: nwaonline.com
 
 topics:
   - Computer Vision
@@ -47,6 +47,20 @@ related:
       - url: "https://businessmirror.com.ph/wp-content/uploads/2023/05/world01-052123.jpg"
         width: 720
         height: 480
+        isCached: true
+  - title: "TSA’s Facial Recognition Raises New Concerns"
+    excerpt: "Passengers should get ready for more possible security upgrades in the future if TSA has its way. TSA is currently testing its new facial recognition technology at a number of airports throughout the U.S., identifying and verifying passengers by their ..."
+    publishedDateTime: 2023-05-22T00:00:00Z
+    webUrl: "https://www.travelpulse.com/News/Airlines-Airports/TSA-s-Facial-Recognition-Raises-New-Concerns"
+    type: article
+    provider:
+      name: TravelPulse
+      domain: travelpulse.com
+    quality: 54
+    images:
+      - url: "https://ik.imgkit.net/3vlqs5axxjf/MM-TP/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/dec34c0d-cb4e-a970-4f1f-a2f8968f57ad/source.jpg?tr=w-1200%2Cfo-auto"
+        width: 1200
+        height: 900
         isCached: true
   - title: "TSA tests facial recognition at more airports, raising concerns on privacy"
     excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"
@@ -95,6 +109,6 @@ related:
         height: 900
         isCached: true
 
-secured: "7oldCgxUlgCAlgx+eZhMlnaSHLpQyVMpqv6Bb3ddsMODFFFAY5idwlb74c8Wl+A5wNg5fGJhwv+vQSBC1ivBXhub3usiUUvas6xXCpmAYqEnuuqRiD6NGSPllwspD8GeZ/phU0+jTfAJXLQpZKXUlqiy8wyPiZG5XcLV39LjnIlOrGZiZJc/myh2GnAkDeY3rtrPgUQmuF+SE2xJmCYzxXdO0WVC6GjB01PyCl1X0oKxBgGwiBvQ3vI1daiFVZVqr7Kc/gpr/j5jUdj+0e/LYHMfYnHRHVtsICyieJlyRde74tLuysesOPgq275CBoJHDaWDlKu+avUqeTwj8/rhY5Z1L7SaZkbkx2TRcrhhbuo=;7TpRS6rNbqX9tJc8R7Wfbw=="
+secured: "xfOQbDumiUvvQY9+Uqz37ofpT/f75ecC+XmLnIp99qKsyoxffK/XgUx+zlNcV4Q85r+6pN6q8H2xiN/45t2ZpLVzNs0px5FFAMh8q6ERHpkwE4May/13rB1Lxylr7xkRgXXlzEOu38j7JQxhtUq9ehJgpEN0VE5M/4DK0q3q8ux5ZeiA1H5cKjm0c9LjIkyzcEEkwwW8wLcmZUfPTXPtcMi0qMKFS6PfO28qVwozCD/7IODwtIaQMv0FrugtdVY+KSj4IpuZVfCHfnv43poUYUcRwjIjxGdt6ApZnj4tzIfpEeatULUGl8431oWOgHw5Ls6gvTuuxc3YQb1ynRbvsYP4T34L4LrFh/J4dk9HLAM=;oQntEXs2Jh1p9iKiIdfIlQ=="
 ---
 

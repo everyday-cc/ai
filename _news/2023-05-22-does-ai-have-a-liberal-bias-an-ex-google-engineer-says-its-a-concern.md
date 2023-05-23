@@ -1,31 +1,31 @@
 ---
 category: news
 title: "Does AI have a liberal bias? An ex-Google engineer says it's a concern"
-excerpt: "When Louisiana native Blake Lemoine began working at Google, his work focused on making Google Search better for users."
-publishedDateTime: 2023-05-22T08:59:00Z
-originalUrl: "https://www.theadvocate.com/acadiana/news/ex-google-engineer-blake-lemoine-on-bias-in-ai-chatbots/article_e8607fb2-f653-11ed-a29e-9fa54845c907.html"
-webUrl: "https://www.theadvocate.com/acadiana/news/ex-google-engineer-blake-lemoine-on-bias-in-ai-chatbots/article_e8607fb2-f653-11ed-a29e-9fa54845c907.html"
-ampWebUrl: "https://www.theadvocate.com/acadiana/news/ex-google-engineer-blake-lemoine-on-bias-in-ai-chatbots/article_e8607fb2-f653-11ed-a29e-9fa54845c907.amp.html"
-cdnAmpWebUrl: "https://www-theadvocate-com.cdn.ampproject.org/c/s/www.theadvocate.com/acadiana/news/ex-google-engineer-blake-lemoine-on-bias-in-ai-chatbots/article_e8607fb2-f653-11ed-a29e-9fa54845c907.amp.html"
+excerpt: "Little did he realize that he would one day find himself in the middle of the debate over artificial intelligence and its potential dangers. Lemoine, 41, was one of the first to speak out about ethics concerns surrounding artificial intelligence chatbots ..."
+publishedDateTime: 2023-05-22T12:26:00Z
+originalUrl: "https://www.nola.com/news/ex-google-engineer-blake-lemoine-on-bias-in-ai-chatbots/article_bf55f4cd-f411-5d05-8489-5cbf4b3620f8.html"
+webUrl: "https://www.nola.com/news/ex-google-engineer-blake-lemoine-on-bias-in-ai-chatbots/article_bf55f4cd-f411-5d05-8489-5cbf4b3620f8.html"
+ampWebUrl: "https://www.nola.com/news/ex-google-engineer-blake-lemoine-on-bias-in-ai-chatbots/article_bf55f4cd-f411-5d05-8489-5cbf4b3620f8.amp.html"
+cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/ex-google-engineer-blake-lemoine-on-bias-in-ai-chatbots/article_bf55f4cd-f411-5d05-8489-5cbf4b3620f8.amp.html"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: The Advocate
-  domain: theadvocate.com
+  name: NOLA.com
+  domain: nola.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/d/c2/dc2ad96a-4cb8-59af-a323-b2f7f2e14929/6467902c78cc9.image.jpg?resize=1024%2C1366"
+  - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/f/2e/f2e5c3ba-003a-5dc3-bda9-62fd732139af/646b5dfd2b9b2.image.jpg?resize=1024%2C1366"
     width: 1024
     height: 1366
     isCached: true
 
-secured: "WFiHwsCgO5z6PkE8Ry9+3IMGI0oCoEkHpbRc56lOqeS05HrvD4HUGd3TIu+CPIuvkCwXAGYyfMpuNorqDjaZZt8Lcwrgn/SWVEzpkHfvBoB73yHSAqWsHkxlBWm/9tBuznXGvrbNZ4st9nSYcW2JPau+nzoSxjZBCmyL5ko8vmhph3UYNiYn6G21d/2Ci0/i2mTgWQXGlVu9BZFHZib1NrDY8c+UNvx3k7IfLiRb3lamasleC4/fcl4hE5QW+v8UHce+IrF2SM87RvKWe6GWXoovCQouQSDtaRS7UAEpHjfNlZPjz+Cb9HwgNb+LKLV1O2QcM5W5bEPqVPj5/udOP9bmh14sDsWVkQu42UUqhutWrYic8TSOip5wldSrZFRjYaW4ebOd+V3CdJEWGCklpKx93SabMiFXZHSm2GzZ2SCUwJ6rTg9KFkdyq39OBQDMmaglQ925VyuL2RRQADk1RUgE9067lawuO34Th5tpp1YyGuPg9KbrsXLoKJT3MaHc90hpP1OPz18nUrI4xd4+KA==;DE2kaNhZ/Tbw0ISupeeDyQ=="
+secured: "c8lYQTVpImzbBF8LwfprjGf8v+GKwwR90EHiO1vbHwkuxD+k5BxQS4k9U9DfCsF8MOJmJNCEQ3sUSCpbrw2O1lEerYqiRNdPdK/6V8xvysWrjZWPaT4yGxoBny8huXsbgLmWNpxHnuVrzUZpn3UIi7VWZVkzDHnik461tsOJbZ4Zl9aKkqafkBYm5VK3G3U+SIDf6Rxhv3saxv73dd0R3d7uYCC8mozzTFJiFBM1IWyaH8TYbTIfpKbX2J1mEq+KmhDoL3HlQGc50Qk6U5XETjK9KZzsGMy4egpveZQjiELYtfmihjduNN1+W6CrXkBWH+Uy36RlGvtmzkITFU+FrfCEfnZDCojK0/nSafRJLy0=;7lRnOo0I64mCWspKxz1Lew=="
 ---
 

@@ -52,6 +52,22 @@ related:
         width: 624
         height: 351
         isCached: true
+  - title: "Our quick guide to the 6 ways we can regulate AI"
+    excerpt: "The European Union is finalizing the AI Act, a sweeping regulation that aims to regulate the most “high-risk” usages of AI systems. First proposed in 2021, the bill would regulate AI in sectors such as health care and education."
+    publishedDateTime: 2023-05-22T17:43:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/22/1073482/our-quick-guide-to-the-6-ways-we-can-regulate-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2023/05/22/1073482/our-quick-guide-to-the-6-ways-we-can-regulate-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/22/1073482/our-quick-guide-to-the-6-ways-we-can-regulate-ai/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/starts-stops-regs1_1.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
 
 secured: "hfKI+Kw0dOusYkcA0ybJI6drGZmcNDIUV5jgc0tzBMZEDknYsXGNcqglBd3CQjEzJ2EDcYpsrr8PCJHYHn529fyzExScYyBE1s7GnsESD0GDGpWcy6a2IcvBeQKmLyI9zipOjs1XtVUH4Ru+QTEuCtEzMJG/fggjfmwGaM5mt2Af36xE3SsKuO6xaAz3d8jXSXkMzhEYXSgQSDsjpbC6F3C2GzwA8YwI3C5vvj2BNdMyvBud88FfP5a+OrpF6spcUTjNhOrH3gN0IH5lsKb5B/cf/FTSBUj/wXxranwB04BG2KwCbeRR8ulH8jkZ1KLyi+3wqLgdxoePjUvNxpKEsRxInpqN3r6ae89gMHl7+B3hqm85XtycYPGc7QwE+JPk5ueCVyNyXEtNdjj8mFvXc/Y1FyXlN0gSTrsb/dTQMuPFcVYs9kaoEwXyE3FHxlSPmEFqPn16nJZ6Tbuff9ehbT0NRTqQ8Mb/8nbLLLepvOr1kNDwM+e20vNuzLYA1kVb3NFVPzqhV/dENuNUlccFmg==;ZSZlhBQPDi3NDRUBfJbFcQ=="
 ---

@@ -33,6 +33,17 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Rising importance of AI in the fintech space"
+    excerpt: "Advantage of AI in fintech industry is its capacity to automate and augment a multitude of laborious processes related to banking"
+    publishedDateTime: 2023-05-18T11:25:00Z
+    webUrl: "https://www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/"
+    ampWebUrl: "https://www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 39
   - title: "MarketsandMarkets™ releases its new study on Artificial Intelligence and the Emergence of AI-based B2B Business Models"
     excerpt: "The whitepaper, titled ' Emergence of AI-based Business Models – Orchestrating the Next Big Shift in Enterprise AI Adoption ,' unveils critical insights into how AI is changing the landscape of B2B business models across different industries,"
     publishedDateTime: 2023-05-19T09:49:00Z

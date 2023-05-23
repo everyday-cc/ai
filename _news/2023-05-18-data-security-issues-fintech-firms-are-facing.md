@@ -20,33 +20,6 @@ topics:
   - AI in Security
 
 related:
-  - title: "Bahrain set to host top fintech summit"
-    excerpt: "Under the patronage of the Central Bank of Bahrain (CBB), the three-day event will be held in a strategic partnership with the Bahrain Economic Development Board (EDB), and powered by Bahrain FinTech"
-    publishedDateTime: 2023-05-18T08:53:00Z
-    webUrl: "https://www.zawya.com/en/world/middle-east/bahrain-set-to-host-top-fintech-summit-hoiy388r"
-    ampWebUrl: "https://www.zawya.com/en/world/middle-east/bahrain-set-to-host-top-fintech-summit-hoiy388r?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/middle-east/bahrain-set-to-host-top-fintech-summit-hoiy388r?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MTljZGQxZGYtZTZjNC00/2/180308083038dsae-jpg.jpeg?f=3%3A2"
-        width: 723
-        height: 482
-        isCached: true
-  - title: "Rising importance of AI in the fintech space"
-    excerpt: "Advantage of AI in fintech industry is its capacity to automate and augment a multitude of laborious processes related to banking"
-    publishedDateTime: 2023-05-18T11:25:00Z
-    webUrl: "https://www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/"
-    ampWebUrl: "https://www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/rising-importance-of-ai-in-the-fintech-space/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 39
   - title: "Nextech3D.AI adds 2 million in growth capital cash from FinTech Ratio Tech"
     excerpt: "CEO Evan Gappelberg joined Steve Darling from Proactive to share news the company the company has added 2 million dollars in cash to the bottom line without share dilution by doing a deal with FinTech Ratio Tech and its 400 million dollar credit fund."
     publishedDateTime: 2023-05-18T13:57:00Z
@@ -105,15 +78,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "LatAm fintech Kiwi raises $80 million"
-    excerpt: "Kiwi, a fintech dedicated to helping consumers build credit history and improve financial literacy, today announced that it has closed a $75 million credit facility and $4.5 million pre-series A funding round."
-    publishedDateTime: 2023-05-22T15:11:00Z
-    webUrl: "https://www.finextra.com/pressarticle/96927/latam-fintech-kiwi-raises-80-million"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
   - title: "What impact will AI have on FinTech in 2023?"
     excerpt: "Artificial intelligence (AI) is emerging as one of the key driving forces behind financial technology, as in many other industries recently. It’s a defining"
     publishedDateTime: 2023-05-22T17:20:00Z
