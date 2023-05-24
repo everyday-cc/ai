@@ -29,6 +29,20 @@ related:
       name: The Financial Express
       domain: financialexpress.com
     quality: 45
+  - title: "AI Making Business Aviation More Efficient"
+    excerpt: "The business aviation industry is turning to artificial intelligence to optimize their operations and improve their efficiency."
+    publishedDateTime: 2023-05-24T16:28:00Z
+    webUrl: "https://www.ainonline.com/aviation-news/business-aviation/2023-05-24/ai-making-business-aviation-more-efficient"
+    type: article
+    provider:
+      name: Ainonline.com
+      domain: ainonline.com
+    quality: 37
+    images:
+      - url: "https://www.ainonline.com/sites/default/files/styles/app_large_full/public/uploads/2023/05/uas_panel_img_1676.jpg?itok=NVPCtdeT"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "aNoczmmTB7LqdeyoSlPN/ji7sn8awLVFj2FgSU0k7q+uHZk808BiFySVC74q05Kdubox3MfN/QZjd+M4n8K+GR+9Q1u0cAuEi3ejgXAB8Hx7gXE9U8PSqcFrn5d3codaXrDdSdC+btSD3y9NQ1PrLi8Ok7vA4x2PDJ8TvP9ZTHAhe6d77ufY2nQm5bJKkI9s0/FZgre1xrfjzNaxS5wOevLPSE6aMiSUBmHakY76kVblrgNjK7HbffGxQunxiPTrzsHgOQf5NCduQ3j4QiBpEUqjsAzaKsFVb3oTlPnU9VBUbNSjQcqc7myLi945rFEYG7FJUc7pL3/UDY/QWVWcrY/W+0XfgDTr85uVnJD1UPk=;j4wuPh4M/1rExnodtmGS7Q=="
 ---

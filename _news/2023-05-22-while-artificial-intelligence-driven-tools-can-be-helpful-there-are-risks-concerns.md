@@ -49,10 +49,24 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
+  - title: "A deep dive on generative AI in health care, Pear sold for parts, and progress on stretchable skin"
+    excerpt: "My colleagues and I have been trying to get a handle on how generative AI and large language models — the technology underlying systems like ChatGPT — will meaningfully change health care. How soon, if ever,"
+    publishedDateTime: 2023-05-23T17:44:00Z
+    webUrl: "https://www.statnews.com/2023/05/23/generative-ai-health-care-chatgpt-tech/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 25
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2023/05/GettyImages-1250089762-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Tech Giants Trigger Generative AI Investment Boom"
     excerpt: "From Microsoft to Amazon, Google to Meta, everyone’s in on the artificial intelligence hype, and the money’s following suit."
     publishedDateTime: 2023-05-24T13:59:00Z
-    webUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/"
+    webUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n=@"
     type: article
     provider:
       name: Variety

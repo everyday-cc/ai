@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/ai-startup-tractable-lays-off-staf
 webUrl: "https://www.businessinsider.com/ai-startup-tractable-lays-off-staff-despite-the-gold-rush-2023-5"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -24,19 +24,14 @@ topics:
 
 related:
   - title: "Five of the Top Artificial Intelligence Stocks for a Potential $1.8 Trillion Boom"
-    excerpt: "The artificial intelligence story fueled a massive rally in tech. But it’s far from over. In fact, as AI revolutionizes just about every industry out there, it could create a $1.81 trillion opportunity,"
-    publishedDateTime: 2023-05-24T13:57:00Z
-    webUrl: "https://www.baystreet.ca/stockstowatch/15297/Five-of-the-Top-Artificial-Intelligence-Stocks-for-a-Potential-18-Trillion-Boom"
+    excerpt: "Detailed price information for Accenture Plc (ACN-N) from The Globe and Mail including charting and trades."
+    publishedDateTime: 2023-05-24T14:12:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/ACN-N/pressreleases/17154514/five-of-the-top-artificial-intelligence-stocks-for-a-potential-18-trillion-boom/"
     type: article
     provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 34
-    images:
-      - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/1.jpg"
-        width: 1024
-        height: 400
-        isCached: true
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 14
 
 secured: "SX7PnSSaTb3lRFgUdPgj7Uc9USOsnPWFCeDRVvc4gdCqkWy4EOsWdnJLVNfTpLNHEZBe9wA5OGPPvmqKXgK/lBbNa8cfvITkw7cFrPC4XZPnqqFYgTGKCaXm8PIbuOoBShYvSohk3Q4IQ3BuJl7I/dsv8Az8IMFa1QJV+BClIWlcDfDff88l2wYCiZOPWVVLPu6TDsBzs7YdwiUsMgM9H6hufFsjACcLX3q7TkbHUsUqklX+ApkaHQis4gat83oQ8NJt/CjzTJsIQyNnA4qCjZR0nuQurg4nCQdFGUa/8gRSMZ1BkZ3zZko1pk+rQ/ihn5HsmDmSVEVrgc00IMP9ZqD5AAzSOlAAlRvKpNEtRCLoWY9uSsQjlKAc3Uw2+JDYCTx1648WYF+x8Z4+FnqJzRd2e+eMbMqf6MS7ScLt1BOfH9nm8ApCs6/kkHK95Q/TlpWc0s2eEz6hkpNtZ7wlR/gzwCBqoeNIPPlU69RYsmZPf8G6AFbJWCpVWrdJ/dUcIxqxV9xThJmGjrlZMCGkQQ==;a17BuGc7E6GvO5bMCsqCJg=="
 ---

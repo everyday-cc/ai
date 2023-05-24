@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Five of the Top Artificial Intelligence Stocks for a Potential $1.8 Trillion Boom"
-excerpt: "The artificial intelligence story fueled a massive rally in tech. But it’s far from over. In fact, as AI revolutionizes just about every industry out there, it could create a $1.81 trillion opportunity,"
-publishedDateTime: 2023-05-24T13:57:00Z
-originalUrl: "https://www.baystreet.ca/stockstowatch/15297/Five-of-the-Top-Artificial-Intelligence-Stocks-for-a-Potential-18-Trillion-Boom"
-webUrl: "https://www.baystreet.ca/stockstowatch/15297/Five-of-the-Top-Artificial-Intelligence-Stocks-for-a-Potential-18-Trillion-Boom"
+excerpt: "Detailed price information for Accenture Plc (ACN-N) from The Globe and Mail including charting and trades."
+publishedDateTime: 2023-05-24T14:12:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/ACN-N/pressreleases/17154514/five-of-the-top-artificial-intelligence-stocks-for-a-potential-18-trillion-boom/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/ACN-N/pressreleases/17154514/five-of-the-top-artificial-intelligence-stocks-for-a-potential-18-trillion-boom/"
 type: article
-quality: 34
-heat: 34
+quality: 14
+heat: -1
 published: false
 
 provider:
-  name: BayStreet
-  domain: baystreet.ca
+  name: The Globe and Mail
+  domain: theglobeandmail.com
 
 topics:
-  - AI in Robotics
+  - AI in Healthcare
   - AI
-
-images:
-  - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/1.jpg"
-    width: 1024
-    height: 400
-    isCached: true
 
 related:
   - title: "Computer-vision startup Tractable, last valued at $1 billion, lays off a chunk of its workforce despite the AI boom"
@@ -35,6 +29,6 @@ related:
       domain: businessinsider.com
     quality: 27
 
-secured: "1xC2ah/TF4hPwkUSH2CVR+aTDPnPv72HfDsGYgI3J2ywnIFH/JcygnvtYv+84FRzeC2BhIVFk2x5u2lIlfG+PBjmLN658cyuAxIZ4jizQubQ4+UN6QIOPMjG6T6RblF1GxOKnAuB2oyyNuLflOjT19N+q2tXEgoC9ke+Y9mc4pdF1o+aYgMKG1SAocXIncNksEtCHGLL/C14wKEFMXydl/pGscFIB1HBG+THr5J3VQx2Xiu4jZe0VNBbaXmT7UbEE0K3tSxrn4ov6o+avI6MnRpLC25nX5vfmIECTQovkriSXbYG2YFuYqRtMfo+dv0EpYe9suEg82kgBul12BGnM2+UMjWR0N+uTMLEAbYQfxA=;+bB1Sbj6SULIf9EyehqP3Q=="
+secured: "Lo5yepduRBZVU2YH5vyvJm2ssWd4BgI+FDJDcKDMG7ITEzZD8D4h33Y7qzEyvsnXnybQimpuSt4/AHiHqNRyK3GaTm42e/v6v/2HsSN28X/Vzdnpy1dv/+gmxAelKBk8d3JIVJ+HpysVQPZPC/fA2Yi0aIPnAD3NrcwUGtCS7sPwAXyDhn4/TOHcbHjLA5cqScLYcVH/a+0eDYyg9NEd+1tWW8cFkz9O5MWD7iJ+TRiEdV2Z4VLxQB/Oym0Qtlu6wgsXK8TjMXmJn/WEXcZ0x2MXXzW3QrQTZ53UQ6JAqjKbw+2ejFCEqhsqNZrM8RTiGateX93o5NU3/wbEdWZlZJS3G0qCQiPmkN5r4Xq5jno=;QZ7zSkeTR/k6UoaCVI6byA=="
 ---
 

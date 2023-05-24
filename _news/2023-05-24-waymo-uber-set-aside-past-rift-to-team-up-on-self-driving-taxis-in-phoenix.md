@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/economy/waymo-uber-set-aside-past-r
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/economy/waymo-uber-set-aside-past-rift-to-team-up-on-self-driving-taxis-in-phoenix"
 type: article
 quality: 57
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: PBS
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Uber announces deal with Waymo on self-driving cars"
+    excerpt: "Uber has signed a deal with Google's former self-driving car project, Waymo, to offer its vehicles through the ride-hailing app, The Washington Post reported Wednesday. As part of the"
+    publishedDateTime: 2023-05-24T17:07:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1073568-uber-announces-deal-with-waymo"
+    ampWebUrl: "https://www.thenews.com.pk/amp/1073568-uber-announces-deal-with-waymo"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1073568-uber-announces-deal-with-waymo"
+    type: article
+    provider:
+      name: The News International
+      domain: thenews.com.pk
+    quality: 59
+    images:
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-05-24/1073568_094330_updates.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Despite Bruising Court Battle, Uber to Offer Self-Driving Rides From Rival Waymo"
     excerpt: "The two companies were once locked in a high-profile legal battle over trade secrets. But now Uber is going to host Waymo rides through its own app for users in Phoenix."
     publishedDateTime: 2023-05-23T19:11:00Z
@@ -63,6 +79,20 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2023/03/waymo-jaguar-i-pace.jpg?quality=82&strip=all"
         width: 1600
         height: 899
+        isCached: true
+  - title: "Apple engineer steals secrets on self-driving cars and flees to China, US feds say"
+    excerpt: "A former Apple engineer accused of absconding from the company with trade secrets on self-driving cars fled to China, federal officials reported."
+    publishedDateTime: 2023-05-22T05:08:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/05/22/apple-engineer-steals-secrets-on-self-driving-cars-and-flees-to-china-us-feds-say"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 18
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/22/2084800.JPG"
+        width: 1240
+        height: 852
         isCached: true
   - title: "Waymo, Uber set aside past rift over self-driving car tech to team up on robotaxis in Phoenix"
     excerpt: "Waymo is teaming up with Uber to offer rides and deliver food in robotic cars that triggered a bitter technological dispute between the two companies."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32544271"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32544271"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Deci Selected as Best Edge AI Developer Tool in 2023's Edge AI and Vision Product of the Year Awards"
+    excerpt: "Deci awarded top honors by a panel of independent industry experts TEL AVIV, Israel, May 24, 2023 /PRNewswire-PRWeb/ -- Deci, the deep learning company harnessing AI to build AI, today announced that"
+    publishedDateTime: 2023-05-24T15:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32555398/deci-selected-as-best-edge-ai-developer-tool-in-2023s-edge-ai-and-vision-product-of-the-year-award"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32555398"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32555398"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Edge AI And Vision Alliancetm Announces 2023 Edge AI And Vision Product Of The Yeartm Award Winners"
     excerpt: "Awards Celebrate Innovation and Achievement in Computer Vision and Edge AI SANTA CLARA, Calif., May 23, 2023 /PRNewswire/ -- The Edge AI a"
     publishedDateTime: 2023-05-24T02:42:00Z

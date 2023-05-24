@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Infosys launches Topaz, an AI-first solution to accelerate business value through generative AI"
+    excerpt: "Infosys said organizations could harness the capabilities of cognitive solutions through its Infosys Topaz generative AI offering."
+    publishedDateTime: 2023-05-24T16:55:00Z
+    webUrl: "https://venturebeat.com/ai/infosys-launches-topaz-ai-first-solution-accelerate-business-value-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/infosys-launches-topaz-ai-first-solution-accelerate-business-value-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/infosys-launches-topaz-ai-first-solution-accelerate-business-value-generative-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 77
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_285803778.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "‘Generative AI can be seen; it’s more cool than traditional AI’"
     excerpt: "Generative AI and transformers (that help predict the next word or a sentence, and even a para) were not invented to perform physical stuff. They were invented to understand languages better. Images and videos are only a by-product of that."
     publishedDateTime: 2023-05-20T05:56:00Z

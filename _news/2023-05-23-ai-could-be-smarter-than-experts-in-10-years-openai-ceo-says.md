@@ -26,21 +26,106 @@ images:
     isCached: true
 
 related:
-  - title: "Lawmakers reveal AI concerns over 'future of humanity' following OpenAI CEO's Senate testimony"
-    excerpt: "Displaying bias, foreign adversaries like China becoming dominant, and outsmarting humans were all top artificial intelligence concerns for members of Congress."
-    publishedDateTime: 2023-05-20T06:00:00Z
-    webUrl: "https://www.foxnews.com/politics/lawmakers-reveal-ai-concerns-over-future-humanity-following-openai-ceos-senate-testimony"
-    ampWebUrl: "https://www.foxnews.com/politics/lawmakers-reveal-ai-concerns-over-future-humanity-following-openai-ceos-senate-testimony.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lawmakers-reveal-ai-concerns-over-future-humanity-following-openai-ceos-senate-testimony.amp"
+  - title: "3 ways OpenAI says we should start to tackle AI regulation"
+    excerpt: "The blog post outlines three different course of actions that could serve as a good starting point for AI regulation. First, the post calls for there to be some form of a coordinating entity that focuses on the safety and smooth integration of AI technologies into society."
+    publishedDateTime: 2023-05-24T16:15:00Z
+    webUrl: "https://www.zdnet.com/article/3-ways-openai-says-we-should-start-to-tackle-ai-regulation/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/3-ways-openai-says-we-should-start-to-tackle-ai-regulation/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3-ways-openai-says-we-should-start-to-tackle-ai-regulation/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 75
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bae5da6-5fb6-41ce-94a2-52971e5432f0/24af8e1e-0e18-48c0-8e11-238b317f713c/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+      - url: "https://www.zdnet.com/a/img/resize/67ecfca84a21b3d7483897b2bfc190bd1cf398dc/2023/05/24/81259cee-41f2-463b-b6c2-85ec4d9c32ea/gettyimages-1453111695.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "OpenAI-backed robotics firm 1X deploys the world’s first AI robot in the workforce"
+    excerpt: "Robotics start-up 1X which is backed by Sam Altman’s OpenAI has overtaken Elon Musk’s Tesla in deploying the first AI robot in the workforce. The robot named EVE has been reportedly integrated as a security guard in an Android manufacturing site. The robot is reportedly redefining surveillance and security."
+    publishedDateTime: 2023-05-24T07:24:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/openai-backed-robotics-firm-1x-deploys-the-worlds-first-ai-robot-eve-8626164/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/openai-backed-robotics-firm-1x-deploys-the-worlds-first-ai-robot-eve-8626164/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/openai-backed-robotics-firm-1x-deploys-the-worlds-first-ai-robot-eve-8626164/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 85
+    images:
+      - url: "https://images.indianexpress.com/2023/05/1X-Eve.jpg"
+        width: 1200
+        height: 667
+        isCached: true
+  - title: "Regulators dust off rule books to tackle generative AI like ChatGPT"
+    excerpt: "As the race to develop more powerful artificial intelligence services like ChatGPT accelerates, some regulators are relying on old laws to control a technology that could upend the way societies and businesses operate."
+    publishedDateTime: 2023-05-22T15:55:00Z
+    webUrl: "https://www.reuters.com/technology/regulators-dust-off-rule-books-tackle-generative-ai-like-chatgpt-2023-05-22/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/A042xjpYEW1-fhIesQ2ZX_Mdp-M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FP3G4673DZI2BNIST6YDZCKYCY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Governments race to regulate artificial intelligence tools"
+    excerpt: "EU lawmakers have reached a preliminary deal that could pave the way for the world’s first laws governing the new tech."
+    publishedDateTime: 2023-05-23T11:24:00Z
+    webUrl: "https://www.aljazeera.com/news/2023/5/23/governments-race-to-regulate-artificial-intelligence-tools"
+    ampWebUrl: "https://www.aljazeera.com/amp/news/2023/5/23/governments-race-to-regulate-artificial-intelligence-tools"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2023/5/23/governments-race-to-regulate-artificial-intelligence-tools"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 57
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2023/03/2023-03-22T214958Z_1139044039_RC2R3Z9ARM44_RTRMADP_3_OPENAI-BUG.jpg?resize=1920%2C1440"
+        width: 1920
+        height: 1440
+        isCached: true
+  - title: "OpenAI's Altman Wants International Body Akin To Nuclear Watchdog IAEA To Regulate AI"
+    excerpt: "Sam Altman, CEO of the start-up behind the AI chatbot ChatGPT, agreed with members of the Senate on Tuesday on the need to regulate increasingly powerful AI technology. https://t.co/iFjgQBBdwY pic.twitter.com/NNXJykGJMu"
+    publishedDateTime: 2023-05-23T08:32:00Z
+    webUrl: "https://www.ibtimes.com/openais-altman-wants-international-body-akin-nuclear-watchdog-iaea-regulate-ai-3695000"
+    ampWebUrl: "https://www.ibtimes.com/openais-altman-wants-international-body-akin-nuclear-watchdog-iaea-regulate-ai-3695000?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/openais-altman-wants-international-body-akin-nuclear-watchdog-iaea-regulate-ai-3695000?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 52
+    images:
+      - url: "https://d.ibtimes.com/en/full/4438722/illustration-shows-openai-chatgpt-logos.jpg"
+        width: 1200
+        height: 814
+        isCached: true
+  - title: "FlowX.ai raises $35M for its AI-based approach to application integration"
+    excerpt: "“Digital transformation” and AI remain very buzzy terms in the world of enterprise software, and today a startup operating in Romania that’s built a platform that taps into both concepts, and is seeing user traction in the financial sector, has ..."
+    publishedDateTime: 2023-05-22T12:03:00Z
+    webUrl: "https://techcrunch.com/2023/05/22/romanias-flowx-ai-raises-35m-for-its-ai-based-approach-to-application-integration/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 46
+  - title: "AI may pull the trigger in war, but it shouldn’t call the shots"
+    excerpt: "Think killer robots. Autonomous weapons ... Although the task of regulating AI might seem intimidating, we should start with core principles. The most vital one is that a human being should always be involved in the decision to use lethal force."
+    publishedDateTime: 2023-05-24T07:06:00Z
+    webUrl: "https://www.bostonglobe.com/2023/05/24/opinion/seth-moulton-ai-autonomous-weapons/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 39
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/8R1zMyNnXVbxeDGJivBszvh18cs=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SHS6YCGMMWM3F5MQQL4DBZ67QI.jpg"
+        width: 506
+        height: 380
         isCached: true
 
 secured: "/haP9UZjNvYRximu94pMicA6aDP+7KpewfFB3/w0r+lEYZxi+to0SyFW8M6GanjytwB+ernLLYQU42bpn5hLkzgQzO8Y8Gy8VXtlmweb/z/520++D3MrIAtF+P1c05Ey+zYfQtlbW6T0Db5QZZ7LSiA8e1OZpchwN0ABWlIGRzMfb3vskCWu7G64OvTiAYTJU+uJGfxQxxSOMaAOzbiqpRcw6DcKcb6ZNLWo/gGQCml3wkwKF2FjudIsTWMK2QD6rmoH6/pY0jsfL/TeAbtlMoWjiKxIyGXY9jO9xiesoqqlE1yg9/i6r3M453IyBTd++Z5Xz41cqxOXUVOop55Drb+XcezkoWfmYLal++x/kLZcykgzHdH3wh5u+4GSDBzIzEi9FFK2j3B633jAsIH9CdxoMT5dtOYcw+scdfVPT5Luv6i87YMX8xfx8IxC95dm8DfpdRdXb6K4NF8MPWQ/0VZuhjcNthF1rXDGGr1BYQw+FG2OWlZHQwkzgieGIJzs1d9qo1up7IJINROkJIoI6w==;gawYwoiJWohaImGFkXTIrg=="

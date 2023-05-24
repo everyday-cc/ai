@@ -38,15 +38,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "FlowX.ai raises $35M for its AI-based approach to application integration"
-    excerpt: "“Digital transformation” and AI remain very buzzy terms in the world of enterprise software, and today a startup operating in Romania that’s built a platform that taps into both concepts, and is seeing user traction in the financial sector, has ..."
-    publishedDateTime: 2023-05-22T12:03:00Z
-    webUrl: "https://techcrunch.com/2023/05/22/romanias-flowx-ai-raises-35m-for-its-ai-based-approach-to-application-integration/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 46
   - title: "Fintech firms need to grow up and embrace transparency"
     excerpt: "The days of taking shortcuts around regulation and lax fiscal discipline need to come to an end if the industry is going to reach its full potential."
     publishedDateTime: 2023-05-23T14:00:00Z

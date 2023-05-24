@@ -137,6 +137,22 @@ related:
         width: 1199
         height: 848
         isCached: true
+  - title: "Microsoft aims to win the AI app race with three big advantages"
+    excerpt: "At Build, Microsoft showed off its efforts to extend its AI-powered app ecosystem and plugin framework. But this is no easy race to win."
+    publishedDateTime: 2023-05-24T16:12:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/"
+    ampWebUrl: "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-75.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Microsoft’s AI reaches Indian villages"
     excerpt: "Jugalbandi, a chatbot built in collaboration by Microsoft, is showing signs of progress in redefining information access for villagers in India."
     publishedDateTime: 2023-05-24T09:27:00Z
@@ -327,6 +343,22 @@ related:
       - url: "https://www.crn.com/resources/0281-1814f1950bee-9e2b6be33127-1000/msft-build-2023.jpeg"
         width: 611
         height: 458
+        isCached: true
+  - title: "Intel And Microsoft Team Up To Bring AI To Windows PCs At Scale, What You Need To Know"
+    excerpt: "The announcement comes as part of Microsoft's Build 2023 conference, where the two previewed the AI capabilities of Meteor Lake processors."
+    publishedDateTime: 2023-05-24T15:51:00Z
+    webUrl: "https://hothardware.com/news/intel-and-microsoft-to-bring-ai-to-windows-pcs-at-scale"
+    ampWebUrl: "https://amp.hothardware.com/news/intel-and-microsoft-to-bring-ai-to-windows-pcs-at-scale"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-and-microsoft-to-bring-ai-to-windows-pcs-at-scale"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 68
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/61689/content/hero-intel-microsoft-meteor-lake.jpg"
+        width: 708
+        height: 398
         isCached: true
   - title: "Microsoft launches new AI tool to moderate text and images"
     excerpt: "Microsoft has launched a new AI-powered service, Azure AI Content Safety, to detect potentially problematic speech and images online."
@@ -578,6 +610,20 @@ related:
       - url: "https://i.insider.com/628bfdf7b9dbb40018cb53d5?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "NVIDIA Partners with Microsoft to Supercharge Enterprise-Ready Generative AI"
+    excerpt: "NVIDIA announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives, enabling Azure customers worldwide to quickly build, deploy, and manage customized ..."
+    publishedDateTime: 2023-05-24T16:33:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/NVIDIA-Partners-with-Microsoft-to-Supercharge-Enterprise-Ready-Generative-AI-158809.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 51
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "NVIDIA Collaborates With Microsoft to Accelerate Enterprise-Ready Generative AI"
     excerpt: "NVIDIA today announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives. The integration will create a secure,"

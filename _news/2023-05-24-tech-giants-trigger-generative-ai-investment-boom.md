@@ -3,8 +3,8 @@ category: news
 title: "Tech Giants Trigger Generative AI Investment Boom"
 excerpt: "From Microsoft to Amazon, Google to Meta, everyone’s in on the artificial intelligence hype, and the money’s following suit."
 publishedDateTime: 2023-05-24T13:59:00Z
-originalUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/"
-webUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/"
+originalUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n=@"
+webUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n=@"
 type: article
 quality: 19
 heat: -1
@@ -58,7 +58,21 @@ related:
         width: 499
         height: 325
         isCached: true
+  - title: "A deep dive on generative AI in health care, Pear sold for parts, and progress on stretchable skin"
+    excerpt: "My colleagues and I have been trying to get a handle on how generative AI and large language models — the technology underlying systems like ChatGPT — will meaningfully change health care. How soon, if ever,"
+    publishedDateTime: 2023-05-23T17:44:00Z
+    webUrl: "https://www.statnews.com/2023/05/23/generative-ai-health-care-chatgpt-tech/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 25
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2023/05/GettyImages-1250089762-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
-secured: "+V1rYPcLPVMs6QHCYm05VOsU3t6V8hsXcrAJE6SDHWoa+zblq8FKBUNXHuSnH/85DqmcMxiRs2//sqqQFiVCW8VlJe8Yuvov2tzPISi2Hi/+dYhNkOb1iWiM2zdeRZPxDNVfbdCuSF23+q4LeTnakvdaLpaSssfjWKi+harlTfFANgivgVLNTcZyKhkGYIxtw6IcKoS8u51tDo/DrDIQ9X+3Jlwylz9Vjb6Yn28hUVA6sTQ6ltLa5mLKfsW//l4xX+uPQGEH64qe8kbmodXRljMHTovsJe/Ar57UGA64PbRJfiGx3+YvR+jTCNqd6vtjujJcy/m6w/GhEYyd8CaYTjtuvpQO6wJU4wq6/7xVPH0=;RuajDJ7WU27pC+lZEzX3+Q=="
+secured: "UYrQPp5oU0DAcL5M8MoK0XhdmNsa562xZ3tj6ZpmuE/oPgOVm5NvjNfIhE+AUGwvuRwqSdDq9YSKclWZKcvR5Cnv2HJcxdW/PRC+Y3QgsIrr6IKQsbWCd6oAPez8BPGTPnUC5J09GE1Rv1Ki3Lo3wZXR1a+8BLKagR5hkPyknJRFpRkc8I0xH9HExOxvjPbWqrkRnvB7MTKni3ExSD/HSYLSPhx0b1NisgNCe4yWDrLVGZJjINoLTl4L6jHE/v5NM9pH86ewAF9lPxHIUbEoasqctk7a7Si//3iovKRb+I2mfgEo0pgvbnJqAENtfi7XMYLMOWm1S1etb50yhItciEKK4BU6PTjAH91jcTdVK5yOV7H3rkjCPctIY3IlJfGccU7+GC7Qx8H53JOTqn3woye0PrJYrT/71aQLA35DAC6w+GD4LYCrRHk+nAeiqPO7tWh6my5Odcwob7QgPDnfvHaFEqKmP+AEnoixYI0HBtQyuVKPNQHCRMGQJ6EYBloFo92tQ2JljBdhjP8IXt74PQ==;Ageq+so6mYKd3HkE92ZLWA=="
 ---
 

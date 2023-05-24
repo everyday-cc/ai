@@ -42,6 +42,20 @@ related:
         width: 600
         height: 420
         isCached: true
+  - title: "Automate document validation and fraud detection in the mortgage underwriting process using AWS AI services: Part 1"
+    excerpt: "In this three-part series, we present a solution that demonstrates how you can automate detecting document tampering and fraud at scale using AWS AI and machine learning (ML) services for a mortgage underwriting use case. This solution rides on a more significant global wave of increasing mortgage fraud,"
+    publishedDateTime: 2023-05-24T16:19:46Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-document-validation-and-fraud-detection-in-the-mortgage-underwriting-process-using-aws-ai-services-part-1/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 82
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/24/automate-document-validation-1260x630.jpg"
+        width: 1260
+        height: 630
+        isCached: true
   - title: "Preserving the World’s Language Diversity Through AI"
     excerpt: "Our Massively Multilingual Speech AI research models can identify more than 4,000 spoken languages, 40 times more than any known previous technology. These models expand text-to-speech and speech-to-text technology from around 100 languages to more than 1,"
     publishedDateTime: 2023-05-22T16:15:00Z

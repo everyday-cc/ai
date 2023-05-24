@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Applied Digital Teams with Supermicro to Deliver AI Cloud Services"
+    excerpt: "Supermicro is a leading provider of application-optimized, high-performance server and storage solutions that address a broad range of computational-intensive workloads. Supermicro’s next-generation GPU servers significantly lower the power requirements of data centers."
+    publishedDateTime: 2023-05-24T17:46:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/24/9820144.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Red Hat OpenShift AI Accelerates Generative AI Adoption Across the Hybrid Cloud"
     excerpt: "Red Hat, Inc. today announced new capabilities for Red Hat OpenShift AI. Building and expanding upon the proven capabilities of"
     publishedDateTime: 2023-05-23T19:01:00Z

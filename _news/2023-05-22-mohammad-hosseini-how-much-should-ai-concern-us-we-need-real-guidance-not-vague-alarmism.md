@@ -7,7 +7,7 @@ originalUrl: "https://www.chicagotribune.com/opinion/commentary/ct-opinion-artif
 webUrl: "https://www.chicagotribune.com/opinion/commentary/ct-opinion-artificial-intelligence-ai-geoffrey-hinton-google-20230522-v67rlh72afgzvpy5xspikhl3ly-story.html"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "On artificial intelligence, we need real guidance, not fake alarmism"
+    excerpt: "Hinton has been called the “Godfather of AI” because he was one of the seminal figures in the 1980s who worked on techniques, such as backpropagation, that have been pivotal in creating today’s large language models and generative AI like ChatGPT."
+    publishedDateTime: 2023-05-24T16:50:00Z
+    webUrl: "https://www.orlandosentinel.com/2023/05/24/on-artificial-intelligence-we-need-real-guidance-not-fake-alarmism-commentary/"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 39
+    images:
+      - url: "https://www.orlandosentinel.com/wp-content/uploads/migration/2023/01/24/DWSYFOC6HYEC7WJ6MFFZQRPB3M.jpg?w=1024&#038;h=670"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "qjeU2OeEcS9fUJYG5kJ73+Sq/ucT1njxXQUYGI+70Kmf6639xvJfaXE6CXtRpeS9wyvJ3yQ2Hpe/1R8e7pptsdCuo+WcO9ZioeTLnrTnWIs7J1LuFI4Tzfjzp31tXMr7Q0Qw7gY1tt2fGGhkl6Cus6oMs0nsXAUPgt4envSYEkizH8kaTfPJKeGFRBNfXoTD2X6E3c0UqJeNkVbwNhk599wBzKETzn9UH0IfAW6Bwz9+adrC/Tgv9bMl4ruDjswh9C0ZfaUnrR63ag3jMa89ymDarx8SDl+888UsKP4DzAHOi5YtkemJxqzmmVL/tZ7kY50oBMO09rOo5y/ciU/bWmFQU7WE993tEeg0OCkvl4Y=;Pjq65VlovFbJE64nSCemtw=="
 ---

@@ -43,6 +43,20 @@ related:
         width: 600
         height: 420
         isCached: true
+  - title: "Automate document validation and fraud detection in the mortgage underwriting process using AWS AI services: Part 1"
+    excerpt: "In this three-part series, we present a solution that demonstrates how you can automate detecting document tampering and fraud at scale using AWS AI and machine learning (ML) services for a mortgage underwriting use case. This solution rides on a more significant global wave of increasing mortgage fraud,"
+    publishedDateTime: 2023-05-24T16:19:46Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-document-validation-and-fraud-detection-in-the-mortgage-underwriting-process-using-aws-ai-services-part-1/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 82
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/24/automate-document-validation-1260x630.jpg"
+        width: 1260
+        height: 630
+        isCached: true
   - title: "Detecting wildfires through artificial intelligence"
     excerpt: "The company said they are already in talks with multiple fire agencies in Arizona, including the Bureau of Land Management."
     publishedDateTime: 2023-05-22T04:08:00Z

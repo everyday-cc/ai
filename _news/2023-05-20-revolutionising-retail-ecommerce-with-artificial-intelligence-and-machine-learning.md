@@ -20,6 +20,20 @@ topics:
   - Machine Learning
 
 related:
+  - title: "AI Making Business Aviation More Efficient"
+    excerpt: "The business aviation industry is turning to artificial intelligence to optimize their operations and improve their efficiency."
+    publishedDateTime: 2023-05-24T16:28:00Z
+    webUrl: "https://www.ainonline.com/aviation-news/business-aviation/2023-05-24/ai-making-business-aviation-more-efficient"
+    type: article
+    provider:
+      name: Ainonline.com
+      domain: ainonline.com
+    quality: 37
+    images:
+      - url: "https://www.ainonline.com/sites/default/files/styles/app_large_full/public/uploads/2023/05/uas_panel_img_1676.jpg?itok=NVPCtdeT"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Artificial intelligence revolutionizes medicine"
     excerpt: "OUR first fascination with AI (Artificial Intelligence) was seeing how they moved in sci-fiction movies like “The Terminator” and “Matrix.” Another later movie was “Chappie,” which is about a “RoboCop” droid hijacked by the bad guys and utilized to fight the good RoboCops,"
     publishedDateTime: 2023-05-23T12:34:00Z

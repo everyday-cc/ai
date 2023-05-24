@@ -33,6 +33,15 @@ related:
         width: 6144
         height: 3511
         isCached: true
+  - title: "Applied Digital Teams with Supermicro to Deliver AI Cloud Services"
+    excerpt: "Supermicro is a leading provider of application-optimized, high-performance server and storage solutions that address a broad range of computational-intensive workloads. Supermicro’s next-generation GPU servers significantly lower the power requirements of data centers."
+    publishedDateTime: 2023-05-24T17:46:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/24/9820144.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "H0PLgqL6ZfZbYwlMacQ64JF0J39e6c5hmXodnlBsLltZ6lbz3eySmYqoFwcbsAPRRCtEkcQ1FKbxPBwnskcBZJZJtvYjA3CIN5ynLbWt07l620iQjazturn88j0hVDLeCXxoK1P5fxWRpE26A/We0qfM8XiQPkGfuddrUrAL467bkxVjOtpCSNA9EoIfBkXGWMjW+ziwDwuMY2zo6hdO03mLQWBNZPFHISJElUo49EnJWgsgRbmV81duYu8ap7XONHLuqa339HQ4HYbP/9Mmq+WGD9X3JP7HcqmGqsgSBw799jdJYwc7yKDqGFGkny2EKDkycxpreI6un+7aGdoG44tpLzP0zIBdQ9wm3he6xqg=;C6kNw2TJKIcplDgOsKTALg=="
 ---

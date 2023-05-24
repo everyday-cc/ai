@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "5 ways Europe can reduce the risks of AI replacing jobs"
-    excerpt: "Italy has launched a new $30m fund to support workers threatened by AI. It's one of numerous responses that governments are considering."
-    publishedDateTime: 2023-05-20T12:59:00Z
-    webUrl: "https://thenextweb.com/news/how-to-protect-workers-from-ai-displacing-jobs"
+  - title: "Google to work with Europe on stop-gap ‘AI Pact’"
+    excerpt: "Google's Sundar Pichai has agreed to work with lawmakers in Europe on what's being referred to as an \"AI Pact\" -- seemingly a stop-gap set of voluntary rules or standards while formal regulations are still being worked on."
+    publishedDateTime: 2023-05-24T15:44:00Z
+    webUrl: "https://techcrunch.com/2023/05/24/eu-google-ai-pact/"
+    ampWebUrl: "https://techcrunch.com/2023/05/24/eu-google-ai-pact/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/24/eu-google-ai-pact/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2FUntitled-design-10.jpg&signature=00d9b661998a59ae5ea9ffd38b47ff4b"
-        width: 1280
-        height: 640
+      - url: "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1194872527.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Europe’s scramble to tame artificial intelligence: podcast"
     excerpt: "Brussels is a step closer to unveiling regulation for the controversial technology. Dragoș Tudorache, a legislator in the European Parliament, helped write the law. In this Exchange podcast, he argues that the rules focus on the biggest risks while leaving room for innovation."

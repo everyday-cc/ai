@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/generative-ai-podcasts-boring/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-ai-podcasts-boring/amp"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -54,16 +54,30 @@ related:
         width: 499
         height: 325
         isCached: true
+  - title: "A deep dive on generative AI in health care, Pear sold for parts, and progress on stretchable skin"
+    excerpt: "My colleagues and I have been trying to get a handle on how generative AI and large language models — the technology underlying systems like ChatGPT — will meaningfully change health care. How soon, if ever,"
+    publishedDateTime: 2023-05-23T17:44:00Z
+    webUrl: "https://www.statnews.com/2023/05/23/generative-ai-health-care-chatgpt-tech/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 25
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2023/05/GettyImages-1250089762-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Tech Giants Trigger Generative AI Investment Boom"
     excerpt: "From Microsoft to Amazon, Google to Meta, everyone’s in on the artificial intelligence hype, and the money’s following suit."
     publishedDateTime: 2023-05-24T13:59:00Z
-    webUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/"
+    webUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n=@"
     type: article
     provider:
       name: Variety
       domain: variety.com
     quality: 19
 
-secured: "HQX0yv8jB0v5bgOfyIoDQG20bk+nIQClT6Ft68BDY6AoVHPxJBtO6iZyNouyl86DwVFqmLzFM+LDZ+JOz74N0n/m19GoLg/IFBWnVv5WwtSLHuzqj0IrOhVPGCM3DUHeedfJoZeQoHnXKBRC9ztyMIbrNjVh+qNo43uE7oAAZZGFwbSRjA2r7IpgFRypiXrKMbRjliKX8Qx7ze82NcTV0YunOES/+x913u2J9/XJepWTcnwWuHZ7waEWnFM6WKxsMl1XTK1fq7hdYf0tb234raJchZ818Vm5qh+IuCEpI38dQ709jokqIdaH2yBH3y3CiTwBQbe7fh/OKiOZ3udaQeUwvR9LyLTyEXmrBG3qXjM=;IxzaAgmaP9GZWLeSrAQzOQ=="
+secured: "NFou/rW0lq0fLz8tAjRtSvzMPWqb06VBf5LIvTX9H2fC0wY0oFT8a0xKoRiIZS+amDALLEgTnO6Es5GVNxJIF/zCMNHPESBzcMLo0CJr/Ibq9Un8ABTZ+oUXDo9+FSChf3NK4sD8ZhGi2V/VgO9aS1fyxuwz60D6TlsSsIp5zuwHuFtB9N34yIXoQmAslilTUbs3pFMzZXdgTwwKZhpowXcpvFz6lWUstAxlTwp7Gb8DEkjo5ayAkxHytlTqI1Gzth5VnJEJ829ER7q28p7ZjjqRv/ZTr5dJkQNOc7uPVbGWra59MQ3nzfY82nTdLBRR+fZDOoszpBqetGqcifUahCgS1hHjO9fJ9Pza8Kd84TojhwRR10mcXGkP7DjodAlzGFTbUdW524Hcx2vTDqcPe7r0wYMWU0OcLFLXzvRgY74eEyzORGNQzYrDr6bgU14VZ5iNSLF085lA4waudgePR9nh0JXQWcuX/TMu4YSwQzR9dnsKzSYHw7qHnpl4A95TQ3kamAWajGB49enXoCvi5w==;U0JyaZrnIg+nsjbQp158Nw=="
 ---
 

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Uber announces deal with Waymo on self-driving cars"
+    excerpt: "Uber has signed a deal with Google's former self-driving car project, Waymo, to offer its vehicles through the ride-hailing app, The Washington Post reported Wednesday. As part of the"
+    publishedDateTime: 2023-05-24T17:07:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1073568-uber-announces-deal-with-waymo"
+    ampWebUrl: "https://www.thenews.com.pk/amp/1073568-uber-announces-deal-with-waymo"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1073568-uber-announces-deal-with-waymo"
+    type: article
+    provider:
+      name: The News International
+      domain: thenews.com.pk
+    quality: 59
+    images:
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-05-24/1073568_094330_updates.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Waymo, Uber set aside past rift to team up on self-driving taxis in Phoenix"
     excerpt: "The partnership announced comes five years after Uber reached a $245 million settlement with Waymo to resolve a lawsuit alleging former Uber CEO Travis Kalanick conspired with former Google engineer Anthony Levandowski to steal Waymo's technology."
     publishedDateTime: 2023-05-23T22:59:00Z
@@ -63,6 +79,20 @@ related:
       - url: "https://images.axios.com/KF2ET-E9UiBQerCfVBiZ3Wn2yrw=/0x0:1920x1080/1366x768/2023/05/23/1684858748699.png"
         width: 1366
         height: 768
+        isCached: true
+  - title: "Apple engineer steals secrets on self-driving cars and flees to China, US feds say"
+    excerpt: "A former Apple engineer accused of absconding from the company with trade secrets on self-driving cars fled to China, federal officials reported."
+    publishedDateTime: 2023-05-22T05:08:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/05/22/apple-engineer-steals-secrets-on-self-driving-cars-and-flees-to-china-us-feds-say"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 18
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/22/2084800.JPG"
+        width: 1240
+        height: 852
         isCached: true
   - title: "Waymo, Uber set aside past rift over self-driving car tech to team up on robotaxis in Phoenix"
     excerpt: "Waymo is teaming up with Uber to offer rides and deliver food in robotic cars that triggered a bitter technological dispute between the two companies."

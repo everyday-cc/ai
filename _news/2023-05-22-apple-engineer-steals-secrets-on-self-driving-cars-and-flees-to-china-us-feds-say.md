@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/05/22/apple-enginee
 webUrl: "https://www.thestar.com.my/tech/tech-news/2023/05/22/apple-engineer-steals-secrets-on-self-driving-cars-and-flees-to-china-us-feds-say"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,93 @@ images:
     isCached: true
 
 related:
-  - title: "Indictment of former Apple self-driving engineer sends message on national security risk, experts say"
-    excerpt: "Charges the United States made against a former Apple software engineer accusing him of attempting to steal the company's self-driving technology and fleeing to China in 2018 send a message, industry and legal experts say: Investment in emerging technology is crucial,"
-    publishedDateTime: 2023-05-24T13:29:00Z
-    webUrl: "https://www.autonews.com/technology/apple-autonomous-auto-engineer-indictment-suggests-industry-risk"
+  - title: "Uber announces deal with Waymo on self-driving cars"
+    excerpt: "Uber has signed a deal with Google's former self-driving car project, Waymo, to offer its vehicles through the ride-hailing app, The Washington Post reported Wednesday. As part of the"
+    publishedDateTime: 2023-05-24T17:07:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1073568-uber-announces-deal-with-waymo"
+    ampWebUrl: "https://www.thenews.com.pk/amp/1073568-uber-announces-deal-with-waymo"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1073568-uber-announces-deal-with-waymo"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 6
+      name: The News International
+      domain: thenews.com.pk
+    quality: 59
+    images:
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-05-24/1073568_094330_updates.jpg"
+        width: 700
+        height: 400
+        isCached: true
+  - title: "Waymo, Uber set aside past rift to team up on self-driving taxis in Phoenix"
+    excerpt: "The partnership announced comes five years after Uber reached a $245 million settlement with Waymo to resolve a lawsuit alleging former Uber CEO Travis Kalanick conspired with former Google engineer Anthony Levandowski to steal Waymo's technology."
+    publishedDateTime: 2023-05-23T22:59:00Z
+    webUrl: "https://www.pbs.org/newshour/economy/waymo-uber-set-aside-past-rift-to-team-up-on-self-driving-taxis-in-phoenix"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/economy/waymo-uber-set-aside-past-rift-to-team-up-on-self-driving-taxis-in-phoenix"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/economy/waymo-uber-set-aside-past-rift-to-team-up-on-self-driving-taxis-in-phoenix"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 57
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/05/2021-12-08T130049Z_442613732_RC2BDQ9E3BD4_RTRMADP_3_WAYMO-SANFRANCISCO-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Despite Bruising Court Battle, Uber to Offer Self-Driving Rides From Rival Waymo"
+    excerpt: "The two companies were once locked in a high-profile legal battle over trade secrets. But now Uber is going to host Waymo rides through its own app for users in Phoenix."
+    publishedDateTime: 2023-05-23T19:11:00Z
+    webUrl: "https://www.pcmag.com/news/despite-bruising-court-battle-uber-to-offer-self-driving-rides-from-rival"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 44
+  - title: "Uber to deploy Waymo self-driving cars in Phoenix area"
+    excerpt: "Uber is poised to begin rolling out Waymo self-driving cars in the Phoenix area, marking what could be the first step in a broader partnership that signals the end of the long-standing feud between the two companies."
+    publishedDateTime: 2023-05-23T17:11:00Z
+    webUrl: "https://www.axios.com/2023/05/23/uber-waymo-self-driving-cars-robotaxis"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 39
+    images:
+      - url: "https://images.axios.com/KF2ET-E9UiBQerCfVBiZ3Wn2yrw=/0x0:1920x1080/1366x768/2023/05/23/1684858748699.png"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Uber will now let you book a Waymo self-driving car through its app"
+    excerpt: "The companies say that customers will be able to use the self-driving cars not just for ride-hailing trips through Uber, but for delivery services through Uber Eats as well. In addition, customers can still book a ride through the Waymo One app."
+    publishedDateTime: 2023-05-23T21:28:00Z
+    webUrl: "https://bgr.com/tech/uber-will-now-let-you-book-a-waymo-self-driving-car-through-its-app/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/03/waymo-jaguar-i-pace.jpg?quality=82&strip=all"
+        width: 1600
+        height: 899
+        isCached: true
+  - title: "Waymo, Uber set aside past rift over self-driving car tech to team up on robotaxis in Phoenix"
+    excerpt: "Waymo is teaming up with Uber to offer rides and deliver food in robotic cars that triggered a bitter technological dispute between the two companies."
+    publishedDateTime: 2023-05-23T19:44:00Z
+    webUrl: "https://www.azcentral.com/story/news/local/phoenix/2023/05/23/waymo-uber-team-up-on-robotaxis-in-phoenix/70249175007/"
+    type: article
+    provider:
+      name: AZ Central
+      domain: azcentral.com
+    quality: 8
+  - title: "Waymo, Uber set aside past rift over self-driving car technology to team up on robotaxis in Phoenix"
+    excerpt: "- Phoenix Mayor Kate Gallego arrives in a Waymo self-driving vehicle on Dec. 16, 2022, at the Sky Harbor International Airport Sky Train facility in Phoenix. Self-driving car"
+    publishedDateTime: 2023-05-23T16:05:00Z
+    webUrl: "https://www.chron.com/business/article/waymo-uber-set-aside-past-rift-over-self-driving-18114056.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 5
 
 secured: "W3dAiQVUiIEGRlpdT4oGUOlU6VS13i1M8+EqiZhHpMKgk41lgpNqC4KqLyAM+oRoGIaXfbjXB91lvqOczFGLa0ZNalec8GHI3sl9U7Ut36wNC7UXeYQGEmbE2NyHYYEa6WTCmuOuMzKXbFY2X0UDg7RYNb89NcW8cNxlu+E0Jzylp5UrrvyVjAnrCTKxQUtNqaEvIvABEh0cmzIE8P1Qf2dn75LmLjDE7Up279KBF3AmavSaEvvdtYSTxqKtKwA6fI0Nigknn0yAwKSm8v1KxcH8fGrBZhZoFhAdTM/JMNnN+GHujXK+N5wGUJ7DkW+fpizTPxSz9lUUFbQYjAHGJdyE3K3OSn3eTMSPPrO5acRUByCTVRgS88FEIajHF6KgiQyn01NfxqePr+kVcg4N9qhn+jE1vf39HP/zaIfw3P0puKwyZTu9bBPy0ynP4b0YQ8TQawutR1uXtDZWri8ks+SaH5HZ2tLV3LNBthibD4rzOuvc9RhzIBLaUuYmFzJInNUsv4ToVMy8vwMzjd+fZg==;hrjwLnBYcYFBuY5sdSWVZQ=="
 ---

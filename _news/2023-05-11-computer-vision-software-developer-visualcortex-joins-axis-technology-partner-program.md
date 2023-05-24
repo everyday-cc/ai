@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2074639/image_5019313_7056565.jpg"
-    width: 400
-    height: 225
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "/nTUxRmtbtxMBbfIB0W/6Uf/+GsNDSDBgxs+FQ+42L3QcC6eB6FIgn2/7lfrAZlSSGZmWSHdVxGZyHzbtVTviI+v35mYLzeVwHldwRCAoJ3sxqcJdRdriJPO8mYMJ1IAddcM5SbWDUGkJG3F6roLmSWv/gEtWx1e72yXfyJxiOZQY0DhloeMGOBgHmTDa0C7I/db3FtF6w3dbJglsIBuxtBbknqU2Nn0bbY4Otjl7nl2VEoGPVC8a6w/mIQ2u2t7pyUEK6Qh5WTtm0hl3webMHCylm3G2w/0xSpOvxlP9KW9fsUwA5a93vrvVIv+tN14tv1b1Nul/b4uokHismIkyoGtJuCdO0qwFd3KpFQT0f8=;W+cDtJI6B0dRb5p7Xg6r2Q=="
+secured: "TbYorVuNO2C3uR8DZ/0+i+02EfWFXNreg6E6Hxhq06a4BFTqSWyYEtdBsjUoEh1nUFuAm1jQokjKdorb7VV9FAlSszMLtzZy4B4RdN9oFlzGMEq24XFmvoUz6x80wCsDw48KKekyW/dIO2/1mM+nsQAxi4/PsGBa/njxkeb4+mfiuEqCVl9T44C0ZCfcwdeXEDm/ZUtBYsLBrgl4q3s06mRoyIdOi9bhT7Lh9LCC9HjdzL/3vQTnjIEeuKWvv3tsrmW7Pw+pwXOjEFitI+VSCeSL3tFSQ/J6miygxDxRXicruo6p+LdShvB1BOe2PevxFz7GcqIeMLUBpBf21v5BMzznW1MepN1ixSTo5GCEDpY=;HyflH88XJZN/n3E2gmSW2g=="
 ---
 

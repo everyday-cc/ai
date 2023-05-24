@@ -7,8 +7,8 @@ originalUrl: "https://newatlas.com/technology/sign-to-text-ai-improves-accessibi
 webUrl: "https://newatlas.com/technology/sign-to-text-ai-improves-accessibility-deaf/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: New Atlas
@@ -27,6 +27,19 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Researchers develop AI tool to improve accessibility to technology for people who rely on sign language"
+    excerpt: "Centro Nacional de Supercomputación (BSC-CNS) and the Universitat Politècnica de Catalunya (UPC) have developed a tool for research into automatic sign language translation that uses artificial intelligence to break down some of the communication barriers commonly faced by deaf people and those that are hard of hearing."
+    publishedDateTime: 2023-05-24T16:34:00Z
+    webUrl: "https://techxplore.com/news/2023-05-ai-tool-accessibility-technology-people.html"
+    ampWebUrl: "https://techxplore.com/news/2023-05-ai-tool-accessibility-technology-people.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-ai-tool-accessibility-technology-people.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 23
 
 secured: "Y3237HToSqRCVc58suLqJidCncog/Xti99BQG/jOKFMwAFV67AzeJ4WLosNJZGW673geUHZG4vBiK+yEg2gH54O7A7Z2aaJqd1efvtkpaKqe1iN73qpP6KspnDRaMPHqN+PulH7goT4EKDwAN1bXehwMQs3z4chxNJFjybmACWY4IJ7iMbO1BWzCfjQrvumNYgPT6xHXEjq2OMDVciTNTXye1KIZmGU+oqHje1BR0iRxHZZoJHZMrH/mrAe52P50zAGb1KhXon0cXOX8W2qkn+nzR3+lXljuBjw+bQQ7qaw2tJoYECjLCLViKbD4GTYmpwtV2EmPd4Oj76D8O52TNq/eDcGrEZcHWiFsdWc8B5JhO0sdSS3SztN44era5goO8LeBC5DsIMeK+WDzA8Ie1hOdsNDiuOP9q9Q2jo9t+vuEcQ6sH151yhHBBDuL9AmCVt+N0WSVRi+41PQTpVCe1rQylrWTigk5gmfDbjfVA23T2Nyb1/1EdWaIXkoG5nOh/Y5lguL9yXti8cMvbfEiiQ==;XhiziYb+xZvQVluki09Sfg=="
 ---

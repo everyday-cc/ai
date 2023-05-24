@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Introducing CHAT, the World’s First Generative AI ETF"
+    excerpt: "An old adage says to make hay while the sun is shining, and with interest in generative AI surging thanks to the likes of OpenAI’s ChatGPT and"
+    publishedDateTime: 2023-05-24T02:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/introducing-chat-the-world-s-first-generative-ai-etf-1032346873"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://blog.tipranks.com/wp-content/uploads/2023/05/image-677-1024x548.png?utm_source=markets.businessinsider.com&utm_medium=referral"
+        width: 1024
+        height: 548
+        isCached: true
 
 secured: "D8PozU7YFukN1/41bCkt2aIimYyElFtb8oizmuGeaazepa4/wLxMQGytas8x1Y4lL5YdP9a6TCxUgWWQYh5COxPNAxQjG764cpWG9pmzESRTzMtO+YUzMRJUJU03KZTuNfz97lnxOfVnKCYBvhANl5kDV98Q0g/lUcQQUbkboyZV4Regt2DUWqp7DW64DUb7mR9Wf+re5i/01qzeg3HCaHoZ/54D36q91Nu322ArHvJssi8XfT9hUmeb7WBm2F09msYZokyuHnJLIncC3pqk5mEbKdMmZdokruqZquwKHWixYDMMSK63R/BXvOdxXadOTgOWdK3F3B/4c1hogNag0QxB9CB37mjSbpwW2fnBoa7aJeoEocElQ63iJKuwhSbGZqW2oHrQFlrKfUGCQVAh4rQs+zzGNIv3dYm7wJmTphpcmyNszjxgw6W0ESfFeynlvR2iad23Zd/jZxxs4wrldCrkpIbOoEct3rHvd2hkw9FH1fAc2DGVUNbbeVBL1+y13roI3vRa70t6VbrZeeUQ1Q==;dJ1VX1a6EZzCrfnGX4Ykxw=="
 ---
