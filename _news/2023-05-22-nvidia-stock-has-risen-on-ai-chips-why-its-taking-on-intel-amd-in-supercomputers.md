@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nvidia’s AI, Metaverse Investments Keep Business Humming After Crypto Mining Demand Withers"
+    excerpt: "In March, Nvidia announced an alliance with Microsoft MSFT -0.1% that focuses on bringing the industrial metaverse and AI to enterprises via cloud computing platform Azure. Upon the announcement, Nvidia CEO Jensen Huang reiterated that his goal was to to bring new AI, simulation and collaboration capabilities to every industry."
+    publishedDateTime: 2023-05-23T17:28:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2023/05/23/nvidias-ai-metaverse-investments-keep-business-humming-after-crypto-mining-demand-withers/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 61
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646cf73f94620200848e4343/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 899
+        isCached: true
 
 secured: "OLnaYsbOJlXQnQ1VFY3a5xjEPtDVVujE3Se3ydvaM6seMTHY7Fno3GYJjnXDvFYAf77xF+/mlBI0ZM3wIy+O34+wbAZQqN0/YqB73IqfpKn/Oyic/eLDhbhsXIm7gifGUhC3CdQsWHSRW1Cyb2ksiuDHT92yIMJKy40O56zIKRuiPnKe9X7tGdr4RiPY5X5h7xwxHe0ak4Ix/TJYVx+Wk6WoNFixw9Kn+IMCJN4ymA+5za1daC9CeSRxsAG7emSWSQfVNpgJYxYTSmROgsHo4P+mbDQrm1pwUbz3vseLcR/7HwKsYRiURY1VWiSXlZVBTWN4TwJUTDLa/qNYJLk3PutdtpTuMjRgBRHJsz6lMrazU3ua7EAsKUgDpMTpRVXSi9L3eLP3Ws0C/Wi3aa3UMMqJE20/10+M9gLkvjD7b2qYvi0+RHSJ5TAnnmhug6urb3gdX/2fpfhOy7t/cfOpBI8V109TbMgnuosV/YBgwLS3VxpznPQ4si4B7RiX3+hC74EwhPLIac0qpM1+Q9P6+w==;cP7LfVwE/j+8fWgBmaGSTA=="
 ---

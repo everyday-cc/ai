@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Financial Inclusion 2.0: The role of fintech innovations"
+    excerpt: "According to the Official Ghana Demand Side Survey 2021, Ghana has achieved its financial access target of 85% set by the National Financial Inclusion and Development Strategy 2018 - 2023 ahead of the end of the target year – 2023."
+    publishedDateTime: 2023-05-24T07:36:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Financial-Inclusion-2-0-The-role-of-fintech-innovations-1772666"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 24
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/461/46142018.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "What impact will AI have on FinTech in 2023?"
     excerpt: "Artificial intelligence (AI) is emerging as one of the key driving forces behind financial technology, as in many other industries recently. It’s a defining"
     publishedDateTime: 2023-05-22T17:20:00Z

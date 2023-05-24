@@ -19,52 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Fearing leaks, Apple restricts its employees from using ChatGPT and AI tools"
-    excerpt: "According to internal sources and company documents reviewed by The Wall Street Journal, Apple has restricted its employees' use of ChatGPT and AI coding tools such as GitHub Copilot for fear of leaking confidential data to outside sources."
-    publishedDateTime: 2023-05-19T16:16:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/05/fearing-leaks-apple-restricts-its-employees-from-using-chatgpt-and-ai-tools/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/05/fearing-leaks-apple-restricts-its-employees-from-using-chatgpt-and-ai-tools/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/fearing-leaks-apple-restricts-its-employees-from-using-chatgpt-and-ai-tools/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 84
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/no_chatgpt_hero_3-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "The rise of ChatGPT could jump start the Roaring 20s for stocks and solidify a new bull market"
-    excerpt: "\"We can spend a lot less time obsessing about what the Fed will do next and focus on how technology is boosting productivity,\" Ed Yardeni said."
-    publishedDateTime: 2023-05-21T14:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/stock-market-outlook-chatgpt-roaring-20s-bull-market-ai-yardeni-2023-5"
-    ampWebUrl: "https://markets.businessinsider.com/news/stocks/stock-market-outlook-chatgpt-roaring-20s-bull-market-ai-yardeni-2023-5?amp"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/stock-market-outlook-chatgpt-roaring-20s-bull-market-ai-yardeni-2023-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://i.insider.com/60a55db3f27b4c00194456b4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "ChatGPT in medicine: STAT answers readers’ burning questions about AI"
-    excerpt: "What meaningful efforts are being made to establish an effective framework for ethics, representation, and regulation? “I share the same concerns,” said Owens, the NYU ethicist. She pointed out that the Coalition for Health AI recently published a ..."
-    publishedDateTime: 2023-05-23T08:33:00Z
-    webUrl: "https://www.statnews.com/2023/05/23/chatgpt-questions-health-care-patients-artificial-intelligence/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 39
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2023/05/stat_ai_QsForStat_2000x1125-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "MY VIEW: AI ate my homework: The future of AI and ChatGPT"
     excerpt: "\"Back in the day, rather than admitting our laziness, we blamed the dog for eating our homework. If AI becomes our modern-day crutch for being lazy, a bad grade will be the least of our worries.\""
     publishedDateTime: 2023-05-22T10:26:00Z
@@ -90,38 +44,6 @@ related:
         width: 960
         height: 575
         isCached: true
-  - title: "Gartner: Exploring the short- and mid-term implications of ChatGPT"
-    excerpt: "As such, it's crucial to understand the short-term and mid-term implications of this new development. As a cutting-edge application that leverages a large language model, ChatGPT is revolutionising the thinking about data and analytics."
-    publishedDateTime: 2023-05-23T03:01:00Z
-    webUrl: "https://www.computerweekly.com/opinion/Gartner-Exploring-the-short-and-mid-term-implications-of-ChatGPT"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 24
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/generative-AI-Chat-GPT-Timon-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
-  - title: "In a Reminder of AI's Limits, ChatGPT Fails Gastro Exam"
-    excerpt: "He said the recent gush of papers showing ChatGPT passing other medical assessments might be overshadowing the fact that this technology is not ready for regular clinical use. \"You can define a threshold how you want it and say [ChatGPT] passed it,"
-    publishedDateTime: 2023-05-22T15:12:00Z
-    webUrl: "https://www.medpagetoday.com/gastroenterology/generalgastroenterology/104618"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 19
-  - title: "ChatGPT-powered Wall Street: The benefits and perils of using artificial intelligence to trade stocks and other financial instruments"
-    excerpt: "Artificial Intelligence-powered tools, such as ChatGPT, have the potential to revolutionize the efficiency, effectiveness and speed of the work humans do. And this is"
-    publishedDateTime: 2023-05-21T13:30:00Z
-    webUrl: "https://www.krqe.com/health/studies-research-findings/chatgpt-powered-wall-street-the-benefits-and-perils-of-using-artificial-intelligence-to-trade-stocks-and-other-financial-instruments/"
-    type: article
-    provider:
-      name: KRQE Blogs
-      domain: krqe.com
-    quality: 0
 
 secured: "OiRCmXqny0SisoZ4M7qGeHQNH2tizg6jZfcxzNg1vd74oRx2FcabhZTC8rwI0q3hp8Pxno3RFDK1EcdYKjfgoiWj75YiLr7egNvaTA2udMuJrX4gJL245OAmwAEu8HbBFg+2qRT3nwFj23kihhVBHmwGjLYBnJ1a5RDuEuNCNpVVTNy0aBd/QksWTqm8VPzRnvqi+B0ji2gS28CRzJLaFoi3qu3VbiAP06bHsyMPHHVLpEbGjHR2Weo5mcxuq/C+s05+cAhItfgAJUP1F6XJGpOg/nlN/xPfMk5RjzpfLyA/3SNtSZA6X+oZj6PalSNzPhSReqO7iggY8TMbaRSsSpPVXhLzdegL1mlN634+f4csuI4/AGIpZUbQa8CWfiD9jiTLBbEzNwVoMJupyIk13UEQ/v5Et4fxDq+RcHuh5tOWi2MVcQGVuYaOgiurGGviaKoJ8l/q5+YL1EE/WJSyDpF2CH3WoiOFWRfPSkgy0ohI0wrMHyHYIQHN1umOds9S8XVHi1VbVOHyt6Xqqo2y9Q==;+CBa6qajRG7bSvZSl3/J4Q=="
 ---

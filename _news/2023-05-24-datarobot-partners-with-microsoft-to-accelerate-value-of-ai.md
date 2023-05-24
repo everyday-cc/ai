@@ -1,18 +1,20 @@
 ---
 category: news
 title: "DataRobot Partners with Microsoft to Accelerate Value of AI"
-excerpt: "\"The integration of DataRobot with Microsoft's generative AI and ML services delivers customers breakthrough innovation and experiences for machine learning experimentation and production work built on Azure's differentiated and scalable platform,"
-publishedDateTime: 2023-05-23T19:29:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/23/9819794.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/23/9819794.htm"
+excerpt: "Integrations with Microsoft's Azure OpenAI Service and Azure Machine Learning brings customers generative AI capabilities, and a more powerful and versatile platform for building, deploying and managi"
+publishedDateTime: 2023-05-23T19:15:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/05/b32539014/datarobot-partners-with-microsoft-to-accelerate-value-of-ai"
+webUrl: "https://www.benzinga.com/pressreleases/23/05/b32539014/datarobot-partners-with-microsoft-to-accelerate-value-of-ai"
+ampWebUrl: "https://www.benzinga.com/amp/content/32539014"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32539014"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
@@ -146,6 +148,22 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/07/10/artificial-intelligence-698122_1280-100698891-large-100932024-large.jpg?auto=webp&quality=85,70"
         width: 1199
         height: 848
+        isCached: true
+  - title: "Microsoft’s AI reaches Indian villages"
+    excerpt: "Jugalbandi, a chatbot built in collaboration by Microsoft, is showing signs of progress in redefining information access for villagers in India."
+    publishedDateTime: 2023-05-24T09:27:00Z
+    webUrl: "https://techcrunch.com/2023/05/24/microsoft-ai-chatgpt-reaches-rural-india/"
+    ampWebUrl: "https://techcrunch.com/2023/05/24/microsoft-ai-chatgpt-reaches-rural-india/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/24/microsoft-ai-chatgpt-reaches-rural-india/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/Azure-OpenAI-Service-India-blog-chatbot-view.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Ethics — what ethics? For Microsoft, it’s full speed ahead on AI"
     excerpt: "Microsoft's quickly embraced all things AI, even as many in the tech industry raise concerns about the inherent dangers of the technology. The company doesn't care."
@@ -424,6 +442,22 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Hero-art-8c3e25f0-e8b1-484e-a1db-6a6782aa887c.jpg"
         width: 1256
         height: 584
+        isCached: true
+  - title: "Microsoft, Nandan Nilekani-Backed Indian Group Working on Accessibility-Focused AI Assistant Jugalbandi Bot"
+    excerpt: "The bot uses language models from AI4Bharat and artificial intelligence tech through Microsoft's Azure OpenAI Service."
+    publishedDateTime: 2023-05-24T08:30:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/microsoft-nandan-nilekani-backed-indian-research-group-generative-ai-assistant-jugalbandi-bot-4061839"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/microsoft-nandan-nilekani-backed-indian-research-group-generative-ai-assistant-jugalbandi-bot-4061839/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/microsoft-nandan-nilekani-backed-indian-research-group-generative-ai-assistant-jugalbandi-bot-4061839/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 56
+    images:
+      - url: "https://i.gadgets360cdn.com/large/ai_reuters_1681460368579.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Nvidia teams up with Microsoft to accelerate AI efforts for enterprises and individuals"
     excerpt: "Nvidia will integrate its AI Enterprise software into Azure Machine Learning and introduce deep learning frameworks on Windows 11 PCs."
@@ -704,6 +738,6 @@ related:
       domain: microsoft.com
     quality: 24
 
-secured: "ceZunV4nisKp+ecV4K8NF3+18bw/NoDUje25gvyvu4KYuLd2OFI5ag68GstZCvubaLTR1zvIzaRu/vo3lxFQOoicpjB1Qe6m5wis0mKEoqN13EOW7dWcorEwWuKh9DRlb00WEqTfPoaOl6ZJJOYBZv8sU4CZBHsjDRLAz+ZP16H7EkAlp3raywlHmSgcvBimO8gdym/kueOSz7o6GtILmCvE8zg6A3Ll6bSuLOsNw1y3vOb5XBX/itFodOnlkikJLtTY7PHC02PqZIRAZ8lqOnochvZKbeFBcbJ+ZX8uDcjYYUi6la/vWGxc3QXyL0usdRzBURwP/cL3FF9dHafCaHB05yY5AT/phH4227upJpE=;UZK1KQmJJRUmjd/N35+XBA=="
+secured: "NG3cgk7mFlpQ1aMEl1RXQqEodp1NVYFrX3MfTwfBHnSnKExYGJQFuptINbp2l6bsSMyQp2mIllhxTvxcXs0nZn//cNoCCuIq4Hy+N2hZ/TBd421bxI2Kg0hEt5Nq5oujt56FGD1rKKxb56ro1QBtIXOwnU53Gx+V4ztSB9E7l3k5vaQSHRCTR8GOlhtcgaMGTHWy8IfDyImKUDQKPwAYXenNc4MmiakTbN178qIhy9l7d5xZzG3GJJJVbKmr/5qzmwvvqQSBRQ38isH09O4czwVprfsp7BMpreuZTSFz46/dkEL0IBrKwn1b5KNHwjsSBJIBv157HxEBwEWdYS35V612KY8VIOfWiWgvoJNrKyk=;FJWszk15XPD6u2E7ooNMbw=="
 ---
 

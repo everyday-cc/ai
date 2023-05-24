@@ -2,58 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_news/2023-05-10-whats-ahead-for-bard-more-global-more-visual-more-integrated.md",
-      "title": "What’s ahead for Bard: More global, more visual, more integrated",
-      "excerpt": "We’re ending the waitlist for Bard, adding support for more regions, introducing images and connecting with partner apps.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/google-bard-updates-io-2023/",
-      "originalUrl": "https://blog.google/technology/ai/google-bard-updates-io-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_IO_Bard_Keyword_Header_Option_B_2096x1.width-1300.png",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/google-bard-updates-io-2023/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-bard-updates-io-2023/amp/",
-      "publishedDateTime": "2023-05-10T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-11-cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas.md",
       "title": "Cruise expands supervised self-driving ride-hailing to Houston and Dallas",
       "excerpt": "Cruise is rolling out its self-driving cars to more cities — specifically, to Houston and Dallas as it expands its Texas-based presence. Cruise already started testing its vehicles in Austin at the end of last year,",
@@ -346,6 +294,40 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-informatica-announces-expanded-industry-focus-and-zero-cost-data-pipelines-and-transformations-with-aws.md",
+      "title": "Informatica Announces Expanded Industry Focus and Zero Cost Data Pipelines and Transformations with AWS",
+      "excerpt": "Informatica (NYSE: INFA), an enterprise cloud data management leader, built upon their years-long relationship with Amazon Web Services (AWS) with a n",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230510005438/en/Informatica-Announces-Expanded-Industry-Focus-and-Zero-Cost-Data-Pipelines-and-Transformations-with-AWS/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230510005438/en/Informatica-Announces-Expanded-Industry-Focus-and-Zero-Cost-Data-Pipelines-and-Transformations-with-AWS/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsroom.businesswire.com",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {

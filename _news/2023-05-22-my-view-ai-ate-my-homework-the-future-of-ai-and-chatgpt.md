@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bizjournals.com/cincinnati/news/2023/05/22/my-view-futur
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/cincinnati/news/2023/05/22/my-view-future-ai-chatgpt.amp.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -20,52 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Fearing leaks, Apple restricts its employees from using ChatGPT and AI tools"
-    excerpt: "According to internal sources and company documents reviewed by The Wall Street Journal, Apple has restricted its employees' use of ChatGPT and AI coding tools such as GitHub Copilot for fear of leaking confidential data to outside sources."
-    publishedDateTime: 2023-05-19T16:16:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/05/fearing-leaks-apple-restricts-its-employees-from-using-chatgpt-and-ai-tools/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/05/fearing-leaks-apple-restricts-its-employees-from-using-chatgpt-and-ai-tools/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/fearing-leaks-apple-restricts-its-employees-from-using-chatgpt-and-ai-tools/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 84
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/no_chatgpt_hero_3-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "The rise of ChatGPT could jump start the Roaring 20s for stocks and solidify a new bull market"
-    excerpt: "\"We can spend a lot less time obsessing about what the Fed will do next and focus on how technology is boosting productivity,\" Ed Yardeni said."
-    publishedDateTime: 2023-05-21T14:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/stock-market-outlook-chatgpt-roaring-20s-bull-market-ai-yardeni-2023-5"
-    ampWebUrl: "https://markets.businessinsider.com/news/stocks/stock-market-outlook-chatgpt-roaring-20s-bull-market-ai-yardeni-2023-5?amp"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/stock-market-outlook-chatgpt-roaring-20s-bull-market-ai-yardeni-2023-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://i.insider.com/60a55db3f27b4c00194456b4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "ChatGPT in medicine: STAT answers readers’ burning questions about AI"
-    excerpt: "What meaningful efforts are being made to establish an effective framework for ethics, representation, and regulation? “I share the same concerns,” said Owens, the NYU ethicist. She pointed out that the Coalition for Health AI recently published a ..."
-    publishedDateTime: 2023-05-23T08:33:00Z
-    webUrl: "https://www.statnews.com/2023/05/23/chatgpt-questions-health-care-patients-artificial-intelligence/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 39
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2023/05/stat_ai_QsForStat_2000x1125-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Apple reportedly bans some employees from using ChatGPT as it works on its own AI model"
     excerpt: "Apple Inc. has banned some employees from using OpenAI LP’s ChatGPT artificial intelligence service, according to a new report. The Wall Street Journal reported the development late Thursday, citing sources and an internal Apple document."
     publishedDateTime: 2023-05-19T17:30:00Z
@@ -80,29 +34,6 @@ related:
         width: 960
         height: 575
         isCached: true
-  - title: "Gartner: Exploring the short- and mid-term implications of ChatGPT"
-    excerpt: "As such, it's crucial to understand the short-term and mid-term implications of this new development. As a cutting-edge application that leverages a large language model, ChatGPT is revolutionising the thinking about data and analytics."
-    publishedDateTime: 2023-05-23T03:01:00Z
-    webUrl: "https://www.computerweekly.com/opinion/Gartner-Exploring-the-short-and-mid-term-implications-of-ChatGPT"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 24
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/generative-AI-Chat-GPT-Timon-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
-  - title: "In a Reminder of AI's Limits, ChatGPT Fails Gastro Exam"
-    excerpt: "He said the recent gush of papers showing ChatGPT passing other medical assessments might be overshadowing the fact that this technology is not ready for regular clinical use. \"You can define a threshold how you want it and say [ChatGPT] passed it,"
-    publishedDateTime: 2023-05-22T15:12:00Z
-    webUrl: "https://www.medpagetoday.com/gastroenterology/generalgastroenterology/104618"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 19
   - title: "Public officers allowed to use ChatGPT and other AI, but must take responsibility for work: MCI"
     excerpt: "Public officers have been told not to feed generative AI tools with sensitive information. Read more at straitstimes.com."
     publishedDateTime: 2023-05-23T12:14:00Z
@@ -112,15 +43,6 @@ related:
       name: The Straits Times
       domain: straitstimes.com
     quality: 7
-  - title: "ChatGPT-powered Wall Street: The benefits and perils of using artificial intelligence to trade stocks and other financial instruments"
-    excerpt: "Artificial Intelligence-powered tools, such as ChatGPT, have the potential to revolutionize the efficiency, effectiveness and speed of the work humans do. And this is"
-    publishedDateTime: 2023-05-21T13:30:00Z
-    webUrl: "https://www.krqe.com/health/studies-research-findings/chatgpt-powered-wall-street-the-benefits-and-perils-of-using-artificial-intelligence-to-trade-stocks-and-other-financial-instruments/"
-    type: article
-    provider:
-      name: KRQE Blogs
-      domain: krqe.com
-    quality: 0
 
 secured: "zEviYokgGdVSLsoHz7LId6ry39CWfmriEjHE6DuY3dG4tSylI72sIEKoFCDdvl7QiXiXoq0njytCINgJ73Ab6gaY5oM/yZvXbHTCHLse9P1+c2nO/pcvy0qZeQ8bEQsQkF5Wm7Y9u4RyfiaTDPWWw9geXSS6q9/5Im26w+8fiVq+H/HFYM5CByt07pTZtg+xsycKxWchIA34Ourm94CrojQ4zEFHSJBjg3LfQ/29JcoxA/wSdbpmtsVbOoz6h9m3XkT8m7ntc3/H16FVjbRQAMhO5kIJ5onhc61QIVbHPhtGIIB7Nvt+D53zP/aBv3lGazlxyad0BMlmqXk3Ugj7FosHeGa9PLCIe+kI6PMZw1tnZXzmj0h2HujmwUzPbkaf9LHHgLg+m+WUlnicFDMqCbHd0FVmiFOqGie7iRWF8SrofW0R3ZqKjxhbkPpHEyl3sFfAXL95kvtoKvcazsGl8sTCKPz9juj4/r4pm7mmYbwnIvGwv60+aOMEBcc8aOwL4riyBjnBt8Q8HfkSp8OLXg==;VXD8F+9sMbQBEXGxTIMXdw=="
 ---

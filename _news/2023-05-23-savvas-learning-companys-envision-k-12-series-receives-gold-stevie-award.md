@@ -1,25 +1,23 @@
 ---
 category: news
 title: "Savvas Learning Company's enVision K-12 Series Receives Gold Stevie Award"
-excerpt: "Highly effective math series recognized as standout instructional solution PARAMUS, N.J., May 22, 2023 /PRNewswire/ -- Savvas Learning Company, a K-12 next-generation learning solutions leader, is pro"
-publishedDateTime: 2023-05-22T17:22:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/05/n32513919/savvas-learning-companys-envision-k-12-series-receives-gold-stevie-award"
-webUrl: "https://www.benzinga.com/pressreleases/23/05/n32513919/savvas-learning-companys-envision-k-12-series-receives-gold-stevie-award"
-ampWebUrl: "https://www.benzinga.com/amp/content/32513919"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32513919"
+excerpt: "Savvas Learning Company, a K-12 next-generation learning solutions leader, is proud to announce that its enVision Mathematics K-12 series © 2024 has received a Gold Stevie Award in the 21st annual American Business Awards program,"
+publishedDateTime: 2023-05-22T17:36:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/05/22/9818621.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/05/22/9818621.htm"
 type: article
-quality: 23
-heat: 23
+quality: 3
+heat: 3
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "1BuHs3WHpc9UgzJh4lLFAQ+LXWI7bqGgFEZUsf6DvlRiHeiFejoIaS/kFF098eOiiYvq3AkKH/rbg0ISwP29hAvwgPhG97oEzsmcnQswi07V4TAbh6ry1uQLDLlneFDBzuX8uPcrpuZPhsXemx4Ll72B/8y660L9Nfi5CmPHNcyYTvbn95Blltc12LoFpKOQdbq8t8AT7CbJdvIOBINyI8IbeQL5B0PkqboGg9MGhEdIeyeIYOlBKanhA4M36qWbftkyfSmjVbqALijrXquDYjX2oaGf/A8vO6uy+e78ZppyKdJrwjYRMJd4gTeHQge27pJEcTH6XVPcyVmXzjOnsuOOQn/IMDxas91ELOiyABI=;Q7MPp7jkIY77fbu4H11n0w=="
+secured: "Q1ki2pPxe/UqGnrgvcIsHmjrfWlIE9q+nhwnCjl07HhTsH4BWhfkppSEN/ElbF9VMbn+2Frni7XUDv82roXroTiQfZvqJhzZdZCy7Hzkz8Mv7Sb85WIczT2M+wxYBqJfr+eeNCsKAFWYMRFPWIhPB2GR3eObD9RuKCZyStZKd6RD3UFcMI7io7mqJOmuilj+BRoaAWliFfD397UMQL+npTDhZ89dOlEvwFncXrdx/lo8ctLhw6cDUP6TVrl3nvPeHgzxKkUPgwkIfIDVHcFvM2SQOYZTiZO4lI9LtUIRnPtk+/Q7EMP/h0DKdbLMfeWYyIALG4ajaNYpVgPQLY4H4EJVTGlf9lJLbM00mym0EvI=;gwLxdERwPmuDlCsCDaeZng=="
 ---
 

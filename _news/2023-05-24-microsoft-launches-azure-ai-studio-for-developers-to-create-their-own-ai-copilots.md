@@ -153,6 +153,22 @@ related:
         width: 1199
         height: 848
         isCached: true
+  - title: "Microsoft’s AI reaches Indian villages"
+    excerpt: "Jugalbandi, a chatbot built in collaboration by Microsoft, is showing signs of progress in redefining information access for villagers in India."
+    publishedDateTime: 2023-05-24T09:27:00Z
+    webUrl: "https://techcrunch.com/2023/05/24/microsoft-ai-chatgpt-reaches-rural-india/"
+    ampWebUrl: "https://techcrunch.com/2023/05/24/microsoft-ai-chatgpt-reaches-rural-india/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/24/microsoft-ai-chatgpt-reaches-rural-india/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/Azure-OpenAI-Service-India-blog-chatbot-view.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Ethics — what ethics? For Microsoft, it’s full speed ahead on AI"
     excerpt: "Microsoft's quickly embraced all things AI, even as many in the tech industry raise concerns about the inherent dangers of the technology. The company doesn't care."
     publishedDateTime: 2023-05-23T07:00:00Z
@@ -417,6 +433,22 @@ related:
         width: 1256
         height: 584
         isCached: true
+  - title: "Microsoft, Nandan Nilekani-Backed Indian Group Working on Accessibility-Focused AI Assistant Jugalbandi Bot"
+    excerpt: "The bot uses language models from AI4Bharat and artificial intelligence tech through Microsoft's Azure OpenAI Service."
+    publishedDateTime: 2023-05-24T08:30:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/microsoft-nandan-nilekani-backed-indian-research-group-generative-ai-assistant-jugalbandi-bot-4061839"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/microsoft-nandan-nilekani-backed-indian-research-group-generative-ai-assistant-jugalbandi-bot-4061839/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/microsoft-nandan-nilekani-backed-indian-research-group-generative-ai-assistant-jugalbandi-bot-4061839/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 56
+    images:
+      - url: "https://i.gadgets360cdn.com/large/ai_reuters_1681460368579.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nvidia teams up with Microsoft to accelerate AI efforts for enterprises and individuals"
     excerpt: "Nvidia will integrate its AI Enterprise software into Azure Machine Learning and introduce deep learning frameworks on Windows 11 PCs."
     publishedDateTime: 2023-05-23T19:48:00Z
@@ -496,6 +528,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "DataRobot Partners with Microsoft to Accelerate Value of AI"
+    excerpt: "Integrations with Microsoft's Azure OpenAI Service and Azure Machine Learning brings customers generative AI capabilities, and a more powerful and versatile platform for building, deploying and managi"
+    publishedDateTime: 2023-05-23T19:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/b32539014/datarobot-partners-with-microsoft-to-accelerate-value-of-ai"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32539014"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32539014"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
   - title: "Microsoft Announces AI-Powered Windows Copilot and Dev Home"
     excerpt: "Microsoft is increasing its AI-powered features to Windows 11, with Windows Copilot and Dev Home highlighting the handful of new integration unveilings."
     publishedDateTime: 2023-05-23T22:01:00Z
@@ -659,15 +702,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 34
-  - title: "DataRobot Partners with Microsoft to Accelerate Value of AI"
-    excerpt: "\"The integration of DataRobot with Microsoft's generative AI and ML services delivers customers breakthrough innovation and experiences for machine learning experimentation and production work built on Azure's differentiated and scalable platform,"
-    publishedDateTime: 2023-05-23T19:29:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/23/9819794.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
   - title: "Sapiens Joins Forces with Microsoft to Leverage Generative AI for Insurers"
     excerpt: "Sapiens will integrate Microsoft Azure OpenAI and Azure Power Virtual Agents to provide generative AI solutions for insurance companies, allowing customers to easily navigate comp"
     publishedDateTime: 2023-05-23T11:37:00Z
@@ -705,6 +739,6 @@ related:
       domain: microsoft.com
     quality: 24
 
-secured: "g+XMWBOzBdDJDtsIU7N2Tdo/5aII0U4kPccRACgRAqU99Evv5e7ihFzpvn9lwu+cw/2tffJKjd0rSgpTXBbsbuNhgYFTCHhEwLouoJ10e88OlzRUjaQBgrVEO+wZWR2aDYcV/xZp2U+UXmEi5JeGRQmghPPzlt2E1SGiiGd/XEUjDNLV8gKDkavjbCaJ2lu2xH12DzKBN0LvJfGzavF78JPhOSCnE18RF8gczQWYmn3frmSuDDjSpvLkMl7uE6t/dFjhTojY73eI83tzVHcy/Xb2Ki4OdIeoti3600DpfdiUwzNspFHaoMvFMMDruk7me3anUqWT6m7teEdZFEcubVK9Ec4ufpwvxMRboea6tHA=;omke6HbZOf22EzfyzZdX7Q=="
+secured: "OJUZkBJ76Kcr/degTyZcVEMZB2DR+eV2Ch2dW7iMWOio2tzel/xCPnOjACxWXaaUfKdWeI8h+c/2f9kFuZp6pxTXVZaqbVrKjpWqELina8aviWvD9HmKMJOmwVN4mINyOoxwMqqDgWr5S9Yqw762V4kNttGE62gg8PVftDvEoj/GgiN8Nv5ZCV0z4a/VEFFA1URryE4E6tGzrGZseVfJeroh38v0CPT4JHUcAUiMU3WR4x3JitfqJyyZha77ISD9LbImbrez7DdAl806Y8iEptlyyS0scWx87GJgCwbSCEvXV+68OrFWtaiNBpKotrwpzXq2a7LyjKiShTOUJ2K3Kp01ZQWdykx11ZGQic87+i0X0Ef+gkOL/fmq43kGA/Qr6e4buz5kfYfkB8mZC5adPdDRTnWRuxBj2ZXUh8OdVYsqlF7d2zNKdZVVmyd81YO89p2KJYAyLtYtfSZPpWEpjPyC0hOah02pfDYpNDl3dWRJCbbAsiWbGHBUesdL2dVKKUS7dd0kkzQAOdQSkN4yqw==;Rj7Wbrj56/7jP1O6SROGhg=="
 ---
 

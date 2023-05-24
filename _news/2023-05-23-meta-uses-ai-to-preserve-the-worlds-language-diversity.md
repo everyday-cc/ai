@@ -27,62 +27,97 @@ images:
     isCached: true
 
 related:
-  - title: "New Meta AI Chip to Power the Metaverse and Create a New Virtual World"
-    excerpt: "Meta, the parent company of Facebook, Instagram, and WhatsApp, is developing its own AI chip to power its next-generation AI applications. The chip, called the Meta Training and Inference Accelerator (MTIA),"
-    publishedDateTime: 2023-05-19T16:45:00Z
-    webUrl: "https://www.gizmochina.com/2023/05/19/meta-ai-chip-metaverse/"
+  - title: "Meta introduces speech AI models to identify over 4000 spoken languages"
+    excerpt: "Facebook and Instagram's owner, Meta, has announced series of artificial intelligence (AI) models that can identify more than 4,000 spoken languages, 40 times more"
+    publishedDateTime: 2023-05-23T09:34:00Z
+    webUrl: "https://www.gulf-times.com/article/661582/international/meta-introduces-speech-ai-models-to-identify-over-4000-spoken-languages"
+    ampWebUrl: "https://www.gulf-times.com/article/661582/international/meta-introduces-speech-ai-models-to-identify-over-4000-spoken-languages/amp"
+    cdnAmpWebUrl: "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/661582/international/meta-introduces-speech-ai-models-to-identify-over-4000-spoken-languages/amp"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 84
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 59
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/05/meta-ai-chip-metaverse.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.gulf-times.com/gulftimes/uploads/images/2023/05/23/33252.jpg"
+        width: 1000
+        height: 565
         isCached: true
-  - title: "Nvidia’s AI, Metaverse Investments Keep Business Humming After Crypto Mining Demand Withers"
-    excerpt: "In March, Nvidia announced an alliance with Microsoft MSFT -0.1% that focuses on bringing the industrial metaverse and AI to enterprises via cloud computing platform Azure. Upon the announcement, Nvidia CEO Jensen Huang reiterated that his goal was to to bring new AI, simulation and collaboration capabilities to every industry."
-    publishedDateTime: 2023-05-23T17:28:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2023/05/23/nvidias-ai-metaverse-investments-keep-business-humming-after-crypto-mining-demand-withers/"
+  - title: "Meta's new MMS model wants to save world's languages with AI"
+    excerpt: "Called Massively Multilingual Speech (MMS), the model expands “text-to-speech and speech-to-text technology from around 100 languages to more than 1,"
+    publishedDateTime: 2023-05-23T08:14:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/metas-new-mms-model-wants-to-save-worlds-languages-with-ai/articleshow/100442231.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/metas-new-mms-model-wants-to-save-worlds-languages-with-ai/amp_articleshow/100442231.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/metas-new-mms-model-wants-to-save-worlds-languages-with-ai/amp_articleshow/100442231.cms"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646cf73f94620200848e4343/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 899
+      - url: "https://static.toiimg.com/thumb/msid-100442231,width-1070,height-580,imgsize-90696,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 580
         isCached: true
-  - title: "Can Metaverse Education Survive the Rise of AI?"
-    excerpt: "Generative AI has stolen the metaverse’s thunder as the “it” technology of the moment. What does that mean for the future of immersive technology in the classroom?"
-    publishedDateTime: 2023-05-22T09:03:00Z
-    webUrl: "https://www.techlearning.com/news/can-metaverse-education-survive-the-rise-of-ai"
+  - title: "Meta’s new AI models can recognize and produce speech for more than 1,000 languages"
+    excerpt: "They could help lead to speech apps for many more languages than exist now."
+    publishedDateTime: 2023-05-22T16:42:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/22/1073471/metas-new-ai-models-can-recognize-and-produce-speech-for-more-than-1000-languages/"
+    ampWebUrl: "https://www.technologyreview.com/2023/05/22/1073471/metas-new-ai-models-can-recognize-and-produce-speech-for-more-than-1000-languages/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/22/1073471/metas-new-ai-models-can-recognize-and-produce-speech-for-more-than-1000-languages/amp/"
     type: article
     provider:
-      name: techlearning
-      domain: techlearning.com
-    quality: 56
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 53
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/xWdkazF485EvUDhwXmgqEN-1200-80.jpg"
-        width: 1200
-        height: 800
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/chat-balloons1.jpeg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
-  - title: "Meta starting to built its own AI chips"
-    excerpt: "Meta Training and Inference Accelerator can't play Crystalis yetMeta is building its first custom chip specifically for running AI models.  CEO Mark Zuckerberg recently said the company sees \"an opportunity to introduce AI agents to billions of people in ways that will be useful"
-    publishedDateTime: 2023-05-22T08:50:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56933-meta-starting-to-built-its-own-ai-chips"
+  - title: "Meta preserves the world's language diversity through AI"
+    excerpt: "Meta has unveiled its new speech-to-text, text-to-speech AI language model for more than 1,100 languages. The new model is a crucial step forward in preserving languges that are at risk of disappearing."
+    publishedDateTime: 2023-05-23T07:28:00Z
+    webUrl: "https://www.marketing-interactive.com/meta-preserves-the-world-language-diversity-through-ai"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 39
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/01d655324d8449f7185ac6f82d5472e9_L.jpg"
-        width: 620
-        height: 465
+      - url: "https://marketing-interactive-assets.b-cdn.net/images/sg/content-images/meta.png?auto_optimize=medium"
+        width: 800
+        height: 450
         isCached: true
+  - title: "Meta AI open-sources tools for self-supervised training of speech recognition models"
+    excerpt: "AI models that can recognize human speech and respond to ... Its translations are often studied for text-based language translation research, and for many there are also publicly available audio recordings of people reading these texts."
+    publishedDateTime: 2023-05-23T13:52:00Z
+    webUrl: "https://siliconangle.com/2023/05/22/meta-platforms-open-sources-tools-self-supervised-speech-recognition-model-training/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 27
+  - title: "Meta Creates New AI Tool That Recognizes Over Than 4,000 Languages"
+    excerpt: "Introduced as the Massive Multilingual Speech project, the Meta AI tool is built to protect and preserve languages and is now available to the public"
+    publishedDateTime: 2023-05-23T13:22:00Z
+    webUrl: "https://www.techjuice.pk/meta-creates-new-ai-tool-that-recognizes-over-than-4000-languages/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 19
+  - title: "Facebook’s open-source language model can recognise 4,000 languages and “speak” in 1,100"
+    excerpt: "While the model was trained using religious recordings for non-widely-spoken languages, Meta says this hasn’t introduced any bias."
+    publishedDateTime: 2023-05-23T15:15:00Z
+    webUrl: "https://mybroadband.co.za/news/software/492759-facebooks-open-source-language-model-can-recognise-4000-languages-and-speak-in-1100.html"
+    ampWebUrl: "https://mybroadband.co.za/news/software/492759-facebooks-open-source-language-model-can-recognise-4000-languages-and-speak-in-1100.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/492759-facebooks-open-source-language-model-can-recognise-4000-languages-and-speak-in-1100.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 15
 
 secured: "nS+9QroRvLMdi924+8udwl61J6POgQ83uL8bB/MKjxsZJvyu524OGWXTbvdgUCPINNM1vuOR87krSMzGH576KpnpZaj0J6F5LyDEHZSO7ZMG5i/tB0gVNWSOlAiQIuxEhPNjqjg90VM1t7aad8HKYa/RYwQqM3F6Jb4KEmIqpsvS0Y1m2aSAFR9lO3C0AXfwi50va4BSIxth4YKGR9HZF+yMhYyXMIutWnpcTTzSSdsezBrMAcQgoGc28/AyGOPWzyHfIaWvDJL00ISzoQEuQ+HBxxg89Ga/RbRbDFI16pZruW7dHLBEmZgq+nv7hroWe9hOP/W0ZayVKCXqzcy29EYJwoYNk0IgaKtaYeGMrcct+uEKN111fkqcZstd5spb5ohYOsUrKMkx+F0cyoqBF0Ec4eis3WL7Sfyr7QuTZ+wQgBF0iDsNJV7uwNquDda7sBrtc9wj7cHusDsbbzGmgA9MFNjFOyNrmctbdEFLyS8VSvsoOFmsEGVMCiZzZ8qMobSlhRj6+4r62m9swb824A==;MvvQbOo4MvkOxBEgepqYqg=="
 ---

@@ -30,63 +30,51 @@ images:
     isCached: true
 
 related:
-  - title: "New Meta AI Chip to Power the Metaverse and Create a New Virtual World"
-    excerpt: "Meta, the parent company of Facebook, Instagram, and WhatsApp, is developing its own AI chip to power its next-generation AI applications. The chip, called the Meta Training and Inference Accelerator (MTIA),"
-    publishedDateTime: 2023-05-19T16:45:00Z
-    webUrl: "https://www.gizmochina.com/2023/05/19/meta-ai-chip-metaverse/"
+  - title: "Nvidia Stock: Increasing AI GPU Demand Points to Strong Earnings"
+    excerpt: "Going by recent conversations with component suppliers in the chip giant’s supply chain, Truist analyst William Stein thinks investors are in for a pleasant surprise. “We have recently learned of an uptick in demand for AI GPUs,” notes the 5-star ..."
+    publishedDateTime: 2023-05-21T16:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-increasing-ai-gpu-demand-points-to-strong-earnings-1032341254"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 84
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/05/meta-ai-chip-metaverse.jpg"
+      - url: "https://blog.tipranks.com/wp-content/uploads/2023/05/image-602-1024x518.png?utm_source=markets.businessinsider.com&utm_medium=referral"
+        width: 1024
+        height: 518
+        isCached: true
+  - title: "Nvidia’s stock has more than doubled this year. Can earnings justify the AI hype?"
+    excerpt: "Read: Nvidia CEO expects AI revenue to grow from ‘tiny ... voiced some concerns about Nvidia’s ability to build enough product and demand for gaming chips but still said he’s looking for a beat-and-raise quarter. “While supply is likely to limit ..."
+    publishedDateTime: 2023-05-22T20:58:00Z
+    webUrl: "https://www.marketwatch.com/story/nvidia-stock-has-more-than-doubled-this-year-can-earnings-justify-the-ai-hype-4b7ce2?mod=family-finances"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-stock-has-more-than-doubled-this-year-can-earnings-justify-the-ai-hype-4b7ce2"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-stock-has-more-than-doubled-this-year-can-earnings-justify-the-ai-hype-4b7ce2"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://images.mktw.net/im-608401/social"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
-  - title: "Meta uses AI to preserve the world's language diversity"
-    excerpt: "Meta has announced series of artificial intelligence (AI) models to preserve the world’s languages that are in danger of disappearing. As the limitations of current speech recognition and generation technology will only accelerate this disappearing trend,"
-    publishedDateTime: 2023-05-23T04:48:00Z
-    webUrl: "https://dunyanews.tv/en/Technology/725904-Meta-uses-AI-to-preserve-the-world-s-language-diversity"
-    ampWebUrl: "https://dunyanews.tv/amp/english/725904.php"
-    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/725904.php"
+  - title: "Nvidia Stock Has Risen on AI Chips. Why It’s Taking on Intel, AMD in Supercomputers."
+    excerpt: "Nvidia said a new supercomputer will be based on its Grace CPU Superchip, marking a push into an area dominated by Intel and AMD."
+    publishedDateTime: 2023-05-22T10:03:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-ai-intel-amd-chips-534a258b?refsec=markets"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
     type: article
     provider:
-      name: Dunya News
-      domain: dunyanews.tv
-    quality: 59
+      name: Barron's
+      domain: barrons.com
+    quality: 67
     images:
-      - url: "https://img.dunyanews.tv/news/2023/May/05-23-23/news_big_images/725904_55319823.jpg"
-        width: 752
-        height: 423
-        isCached: true
-  - title: "Can Metaverse Education Survive the Rise of AI?"
-    excerpt: "Generative AI has stolen the metaverse’s thunder as the “it” technology of the moment. What does that mean for the future of immersive technology in the classroom?"
-    publishedDateTime: 2023-05-22T09:03:00Z
-    webUrl: "https://www.techlearning.com/news/can-metaverse-education-survive-the-rise-of-ai"
-    type: article
-    provider:
-      name: techlearning
-      domain: techlearning.com
-    quality: 56
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/xWdkazF485EvUDhwXmgqEN-1200-80.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Meta starting to built its own AI chips"
-    excerpt: "Meta Training and Inference Accelerator can't play Crystalis yetMeta is building its first custom chip specifically for running AI models.  CEO Mark Zuckerberg recently said the company sees \"an opportunity to introduce AI agents to billions of people in ways that will be useful"
-    publishedDateTime: 2023-05-22T08:50:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56933-meta-starting-to-built-its-own-ai-chips"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/01d655324d8449f7185ac6f82d5472e9_L.jpg"
-        width: 620
-        height: 465
+      - url: "https://images.barrons.com/im-392288/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "ZSrtjyNGJT4UfvjWQmrq/xxeUyp3AIASp3WBcFM4nGbx6KOGDi2yy6vX1XIV3TCoCqqRoVm+kRVMIF5T9n9zY5zRm/4qaTPamEp3ABRUVRCl1B1+TG8YRHlz4EmvGsLLO/f5YzhXRovAjd2BZJwdBhjfDRI0HtzurfjSWisZ+0Yq7EVQ5+uAMEXnWy/ibTdmqXYSLSf4BBGlpzJSKRFW/+QORBms/QJfZXX1gq9c3G7BDMgASPdwXlCzAgoGZm2p6SCAinMm+SRciDYizqjoyyc3X4gPXDXoBNQm9DbNpLfVRqYENERpGwrSNGQ72SWTlLzg0GIZ7YhJ4RSS/GkK9hSip1Lnq/eCu1O+tRuqVGZSmUNbSOREXdnX8PIEUmOshFOMBAvQKMNpXJcPdCe6XyIgyL/grIcd7E76P5kcQoDJKncvo1J5KWiQqdCDfi9GA+YaGl1u6AZjLuXHVxbtwWynwjzRjDZkEeSSKmK3lgAk1peFn3QWP4WCD1ISpDARlVCkufH5i24xRHB7+sAWTQ==;rJYD9D5SlrdB9Foj+61rDg=="

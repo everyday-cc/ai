@@ -33,22 +33,29 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Official ChatGPT For iOS App Launches With Voice Support"
-    excerpt: "In a pretty big move, OpenAI has just launched the official ChatGPT app for iPhone and iPad, eliminating the need to go through mobile browsers for access. However, that is not all, the app brings with it support for Whisper;"
-    publishedDateTime: 2023-05-19T15:35:00Z
-    webUrl: "https://www.redmondpie.com/official-chatgpt-for-ios-app-launches-with-voice-support/"
-    ampWebUrl: "https://www.redmondpie.com/official-chatgpt-for-ios-app-launches-with-voice-support/amp/"
-    cdnAmpWebUrl: "https://www-redmondpie-com.cdn.ampproject.org/c/s/www.redmondpie.com/official-chatgpt-for-ios-app-launches-with-voice-support/amp/"
+  - title: "Gartner: Exploring the short- and mid-term implications of ChatGPT"
+    excerpt: "As such, it's crucial to understand the short-term and mid-term implications of this new development. As a cutting-edge application that leverages a large language model, ChatGPT is revolutionising the thinking about data and analytics."
+    publishedDateTime: 2023-05-23T03:01:00Z
+    webUrl: "https://www.computerweekly.com/opinion/Gartner-Exploring-the-short-and-mid-term-implications-of-ChatGPT"
     type: article
     provider:
-      name: Redmond Pie
-      domain: redmondpie.com
-    quality: 44
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
     images:
-      - url: "https://cdn.redmondpie.com/wp-content/uploads/2023/05/chatGPT-iPhone.jpg"
+      - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/generative-AI-Chat-GPT-Timon-adobe.jpg"
         width: 1200
-        height: 640
+        height: 400
         isCached: true
+  - title: "In a Reminder of AI's Limits, ChatGPT Fails Gastro Exam"
+    excerpt: "He said the recent gush of papers showing ChatGPT passing other medical assessments might be overshadowing the fact that this technology is not ready for regular clinical use. \"You can define a threshold how you want it and say [ChatGPT] passed it,"
+    publishedDateTime: 2023-05-22T15:12:00Z
+    webUrl: "https://www.medpagetoday.com/gastroenterology/generalgastroenterology/104618"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 19
 
 secured: "j1oIJ9j797kifTJzTzZS3b/EhfhV7oFe75b0CyuUn774ENQkYx21gp/imnVwAnqNsFzQVc3iE+YRntdE/IQoKND0RFHsy1cXICjIxqhmjruCPoNlSkTM7eBi9MjPpGkoZWWb3z+c0x/wfTPU0ua3Jq4jXHUg0eY0nh/vChswyQ6q11rg3U3autIzPjVgH3hr+APvUuYzc0xC4/dsaO+uptz6fTO/8kp1t/UAF9oq8UsrtqVzf0OEFecMFGUHdwGtYbmKeFD+/Xh/32YuPEKQfO3zPh0Hcj3uvfIhVRDqiNADH9bxcUlsSjEjH6BHWEtZVA8D2g/AadMjN6S1nAJSZJzudcNp3eu/ir4HULL571OEExinKUw1tY4r2RU6wMCviltPsmLQedcPrknqdpGgPL0/422hlD4O6UI4qWeGkTx0cn7m7RevSjCYXS9HfUfh0TVXpmfEgV1dwcSeHPPhBe9Ts2cHkBRP3b/Z35swUgeTk6a+TRh0+PUPQHEbnJ2U/yO4LR9w0MxnDkTdPbR5yQ==;96X37MBBxZhIfwZVK6HNPg=="
 ---

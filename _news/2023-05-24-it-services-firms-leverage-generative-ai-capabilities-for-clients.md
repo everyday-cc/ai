@@ -43,21 +43,21 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Apple is on the hunt for generative AI talent"
-    excerpt: "Apple currently has a dozen of job postings on its career page to look for experts in the field of generative AI."
-    publishedDateTime: 2023-05-19T16:23:00Z
-    webUrl: "https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/"
-    ampWebUrl: "https://techcrunch.com/2023/05/19/apple-generative-ai-jobs/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/apple-generative-ai-jobs/amp/"
+  - title: "Red Hat extends OpenShift for the generative AI era"
+    excerpt: "IBM's Red Hat business unit announces the expansion of its AI capabilities with the new Red Hat OpenShift AI technology."
+    publishedDateTime: 2023-05-24T05:19:00Z
+    webUrl: "https://venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/"
+    ampWebUrl: "https://venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1247232650.jpg?resize=1200,700"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/Red-Hat-e1684880569131.jpg?w=1200&strip=all"
         width: 1200
-        height: 700
+        height: 627
         isCached: true
   - title: "‘Generative AI can be seen; it’s more cool than traditional AI’"
     excerpt: "Generative AI and transformers (that help predict the next word or a sentence, and even a para) were not invented to perform physical stuff. They were invented to understand languages better. Images and videos are only a by-product of that."
@@ -90,6 +90,6 @@ related:
         height: 576
         isCached: true
 
-secured: "CzDweesDSb7sVhUz9+BpU9mLDzFrHcmwJB67VV0lte7PArEhjOYr4YAKP5lUV/q2bR13OmQQWwGEYdp6hODzmz3nEubIQsnJFtJS/Rc385G+JxWa7Um+Dn1Tp5X7+PoJePeTwtr8gt8s/eoNtGbl+1o2qvegTs3UygjBSTDrErgJo5eotRRmxvdUfyHyKuEDgk6RQjq876elzYnBZnI9i9f1kY+Hg91pfsvGnDe7oDAQ5VUSRWlqqOTMu8E/PXFW/FMiUty6FoYJa+uu4ZYkSh0BfhiKkf3nk0Rv+sfWxz8UM52TZFDg1LYuqlanEG5XVfm8NBbFA9u+gDnqJRYtGM/H5zvDZnbtosf/ywoAOkE=;5KWwn2x+pCWEdRDbfHFW6g=="
+secured: "GB4oVQ+eoV66EKNTmyBjIdSRuUeyqGsWwAVM4yBCfWkZVPfwlf0lwVsKkgg88DlAC8CkRQ2m43WcvFva2bb3C1rYhGajxSMOCj9FsOvD0q1UvXxVIrRA5UqrmGo2XBb5LOhp++22WDXyp9fNVSIVeMTKDDDcfpkzqmcREJK0YRaYtY5gM1QBkPLXahy9JSsP0dg/BWCRE4RhXoh4NYmGAPhlYKNc+PknyJnhJLxikXI/Go6Xvp/3A+YAx/TL1IhRZAgaXqKY66J7QSUXIBo4D3O5N+2AFA40jRhChwST+D/zObR+LBBIMllOlA7pnQcyQpQ3PSI/8lrdqwowEFspXt0LsmGurvTU7ieDjiALb84EHhJbyxlFALwA+YOwxgrmyISDh5rHz9LzxClEGa7U3b05LiLRAsm6usJtneZlHT5ijfHKqgrOWNoHChDkj3V+2GK1/pWT168j/QSuC11wcvdsI2DK/ih31HvnOFoFPNT9/hgvBwIUFBao5E2YQShje0Wd9XsD5hvrs9idDrHOHg==;XhkEU4YZ/972H1f8+X/JbA=="
 ---
 

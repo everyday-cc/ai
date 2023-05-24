@@ -7,7 +7,7 @@ originalUrl: "https://www.techlearning.com/news/can-metaverse-education-survive-
 webUrl: "https://www.techlearning.com/news/can-metaverse-education-survive-the-rise-of-ai"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -24,66 +24,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "New Meta AI Chip to Power the Metaverse and Create a New Virtual World"
-    excerpt: "Meta, the parent company of Facebook, Instagram, and WhatsApp, is developing its own AI chip to power its next-generation AI applications. The chip, called the Meta Training and Inference Accelerator (MTIA),"
-    publishedDateTime: 2023-05-19T16:45:00Z
-    webUrl: "https://www.gizmochina.com/2023/05/19/meta-ai-chip-metaverse/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 84
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/05/meta-ai-chip-metaverse.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Nvidia’s AI, Metaverse Investments Keep Business Humming After Crypto Mining Demand Withers"
-    excerpt: "In March, Nvidia announced an alliance with Microsoft MSFT -0.1% that focuses on bringing the industrial metaverse and AI to enterprises via cloud computing platform Azure. Upon the announcement, Nvidia CEO Jensen Huang reiterated that his goal was to to bring new AI, simulation and collaboration capabilities to every industry."
-    publishedDateTime: 2023-05-23T17:28:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2023/05/23/nvidias-ai-metaverse-investments-keep-business-humming-after-crypto-mining-demand-withers/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646cf73f94620200848e4343/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 899
-        isCached: true
-  - title: "Meta uses AI to preserve the world's language diversity"
-    excerpt: "Meta has announced series of artificial intelligence (AI) models to preserve the world’s languages that are in danger of disappearing. As the limitations of current speech recognition and generation technology will only accelerate this disappearing trend,"
-    publishedDateTime: 2023-05-23T04:48:00Z
-    webUrl: "https://dunyanews.tv/en/Technology/725904-Meta-uses-AI-to-preserve-the-world-s-language-diversity"
-    ampWebUrl: "https://dunyanews.tv/amp/english/725904.php"
-    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/725904.php"
-    type: article
-    provider:
-      name: Dunya News
-      domain: dunyanews.tv
-    quality: 59
-    images:
-      - url: "https://img.dunyanews.tv/news/2023/May/05-23-23/news_big_images/725904_55319823.jpg"
-        width: 752
-        height: 423
-        isCached: true
-  - title: "Meta starting to built its own AI chips"
-    excerpt: "Meta Training and Inference Accelerator can't play Crystalis yetMeta is building its first custom chip specifically for running AI models.  CEO Mark Zuckerberg recently said the company sees \"an opportunity to introduce AI agents to billions of people in ways that will be useful"
-    publishedDateTime: 2023-05-22T08:50:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56933-meta-starting-to-built-its-own-ai-chips"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/01d655324d8449f7185ac6f82d5472e9_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
 
 secured: "aMpO3+gzVByD5DbzvCMnfqedTz75qYYIR9VX91aIxdhVWWM5zSkdwQjNU1zHA6m3KZ5Mhm8oMUELGA7ZdfOygjsUr6K71OsB9CdXUsp88gIpzgoBy4WkXBgb9c2798aQjzHrNZ3pknMXBhjB6NKsuPFwnMQUjbRL5Za+ooZOZnM+Q3Cew17/ZA2ysuLyKYcvLgdacf0FcfzUFiABJTJYL0cyfxO8gKRfhogkNJkJQ4tJWShUMMViR4R18oOT9nbO8WmF+YL0j9YCRfl1x2kWhvcowlMGVm8ROvUGiJHZmhIGonMaM0dMTJlyPoVnrygmcq4Wxt3vyMFKIPYcho82h9zfSZguek/ZIQ3K/SNl5aY=;0iaretAZ333p7yJIB4BPCw=="
 ---

@@ -38,6 +38,34 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Prediction: This Cathie Wood AI Stock Will Be 1 of the Top 5 Largest Companies by 2030"
+    excerpt: "Moreover, if Tesla achieved this, it could become one of the top five largest companies. As conditions stand now, Tesla's market cap already exceeds $570 billion, making it the ninth-largest company in terms of market cap. In today's market, its market cap would have to exceed $1.2 trillion to become a top-five company."
+    publishedDateTime: 2023-05-24T09:05:00Z
+    webUrl: "https://www.fool.com/investing/2023/05/24/prediction-cathie-wood-ai-stock-top-5-2030/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 61
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/733173/artificial-intelligence-ai.jpg"
+        width: 2102
+        height: 1426
+        isCached: true
+  - title: "AI, big tech and the ethics of prediction"
+    excerpt: "AI ethics researcher Nell Watson discusses the challenges of regulating an industry that is developing at ‘breakneck speed’."
+    publishedDateTime: 2023-05-24T09:00:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/ai-big-tech-ethics-prediction-regulation-nell-watson"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/05/robot_hand_pointing.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Elon Musk Makes Bold AI Prediction That Will Delight Investors"
     excerpt: "The best known is ChatGPT, developed by OpenAI, a startup in which software giant Microsoft ... The chatbot showed that AI has reached a point where robots can perform certain tasks much better than humans can. But beyond the search-engine industry ..."
     publishedDateTime: 2023-05-22T13:48:00Z

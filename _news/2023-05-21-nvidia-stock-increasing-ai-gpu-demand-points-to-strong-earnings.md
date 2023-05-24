@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-incre
 webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-increasing-ai-gpu-demand-points-to-strong-earnings-1032341254"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://images.barrons.com/im-392288/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Nvidia’s AI, Metaverse Investments Keep Business Humming After Crypto Mining Demand Withers"
+    excerpt: "In March, Nvidia announced an alliance with Microsoft MSFT -0.1% that focuses on bringing the industrial metaverse and AI to enterprises via cloud computing platform Azure. Upon the announcement, Nvidia CEO Jensen Huang reiterated that his goal was to to bring new AI, simulation and collaboration capabilities to every industry."
+    publishedDateTime: 2023-05-23T17:28:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2023/05/23/nvidias-ai-metaverse-investments-keep-business-humming-after-crypto-mining-demand-withers/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 61
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646cf73f94620200848e4343/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 899
         isCached: true
 
 secured: "SWizR9bCHsynlevL5OIXf0XRR+9HfQiB2m2U+LlB3EU8I4uPz9bcvBCdU9aQwGn1wK+N24NvgGa+xH8R0oAYyMWsl5Xog/hGWURzVoK8XmXkOigSjfAQ7GOpI7154liPc1sFu0Ve80GuxPgWxAku287wqNx9/aestVdSeVxzxLC70nwG3anRM5lbCtR490qeds7uLkrT5LdWJOwhEbgf8ImW8iJVg35t14twxIQXUcnUXHnMef0v/UIcYBZm1tpysBH+BaqHwNI+/8cVSWUor5J5C+HzI3gm6KFktAOUdRiox25vEjsn9SEs+ASkAI2+Umc8cBn73Tj+DTxHNVbQewyiKew3gRlB4ZS/nKge418iKS77211v/XDAtgJUoNOmtK6Lx1efoKbBVwn07TMXLZQTg3qTVQkkK/XgeH/WXPWgoD5gBFvF1ZGWdbh9vbKmhXfkVr3ChmaFHR3JdPZxsqjmhQHjq8lOilGrCgeInmFmxqfAbIoLCVFvFaCNHeJWCt2CT1tHV+TQaeuILouZLQ==;+7JVc9FbSMddc4H9P2lSSA=="

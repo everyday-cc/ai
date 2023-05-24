@@ -2,6 +2,40 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-05-18-apple-engineer-steals-secrets-on-self-driving-cars-and-flees-to-china-feds-say.md",
+      "title": "Apple engineer steals secrets on self-driving cars and flees to China, feds say",
+      "excerpt": "He booked a one-way ticket to China and left the United States on the same night FBI agents searched his home, prosecutors say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsobserver.com/news/nation-world/national/article275513716.html",
+      "originalUrl": "https://www.newsobserver.com/news/nation-world/national/article275513716.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.newsobserver.com/news/nation-world/national/article275513716.html",
+      "cdnAmpWebUrl": "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/nation-world/national/article275513716.html",
+      "publishedDateTime": "2023-05-17T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Raleigh News & Observer",
+        "domain": "newsobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-how-common-is-common-sense-in-ai-and-why-should-we-care.md",
       "title": "How Common is Common Sense in AI, and Why Should We Care?",
       "excerpt": "Even JPMorgan CEO Jamie Dimon recently acknowledged the benefits of AI, calling the technology \"extraordinary and groundbreaking.” JPMorgan is now working on more than 300 AI use cases, and Dimon revealed that the bank has spent over $2 billion building cloud-based data centers and is working to modernize a significant portion of its applications to run in both their public and private cloud environments.",
@@ -32,40 +66,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-weights-biases-and-lambda-announce-strategic-partnership-to-accelerate-deep-learning-and-ai.md",
-      "title": "Weights & Biases and Lambda Announce Strategic Partnership to Accelerate Deep Learning and AI",
-      "excerpt": "Weights & Biases and Lambda today announced a strategic partnership to bring the infrastructure and MLOps tools required for AI and deep learning workloads to enterprises of all sizes. The Weights & Biases MLOps platform integrates with NVIDIA-accelerated systems provided by Lambda,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-weights-biases-lambda-announce-strategic-partnership-accelerate-deep-/2023/05/17/9816460.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-weights-biases-lambda-announce-strategic-partnership-accelerate-deep-/2023/05/17/9816460.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },

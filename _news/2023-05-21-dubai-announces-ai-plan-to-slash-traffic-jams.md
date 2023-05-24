@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 632
         isCached: true
-  - title: "Why AI’s diversity crisis matters, and how to tackle it"
-    excerpt: "Machine-learning researchers from under-represented groups say the field desperately needs more people like them to ensure the technologies deliver for all."
-    publishedDateTime: 2023-05-19T16:14:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-01689-4"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 41
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-01689-4/d41586-023-01689-4_25339936.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Investing in AI — hype and hope"
     excerpt: "Today, Nvidia is valued at $773bn and has sales of around $27bn. In other words, the company is priced at nearly 29 times sales. Those sales could grow rapidly with AI, but even if the company maintains its current margins forever, by my maths it would need to increase sales by around eightfold to justify the current share price."
     publishedDateTime: 2023-05-24T04:00:00Z

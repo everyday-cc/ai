@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launche
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/6982c1c/2147483647/strip/true/crop/7587x3983+0+142/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F66%2F90%2F04940e4943fa9505cd3f219f382f%2Fadobestock-282379113.jpeg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Financial Inclusion 2.0: The role of fintech innovations"
+    excerpt: "According to the Official Ghana Demand Side Survey 2021, Ghana has achieved its financial access target of 85% set by the National Financial Inclusion and Development Strategy 2018 - 2023 ahead of the end of the target year – 2023."
+    publishedDateTime: 2023-05-24T07:36:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Financial-Inclusion-2-0-The-role-of-fintech-innovations-1772666"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 24
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/461/46142018.jpg"
+        width: 600
+        height: 600
         isCached: true
   - title: "What impact will AI have on FinTech in 2023?"
     excerpt: "Artificial intelligence (AI) is emerging as one of the key driving forces behind financial technology, as in many other industries recently. It’s a defining"

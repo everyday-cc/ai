@@ -26,14 +26,16 @@ images:
 
 related:
   - title: "Supermicro Launches Industry's First NVIDIA HGX H100 8 and 4-GPU H100 Servers with Liquid Cooling -- Reduces Data Center Power Costs by Up to 40%"
-    excerpt: "Supermicro, Inc. (NASDAQ: SMCI), a Total IT Solution Provider for Cloud, AI/ML, Storage, and 5G/Edge, continues to expand its data center offerings with liquid cooled NVIDIA HGX H100 rack scale solutions."
-    publishedDateTime: 2023-05-22T00:00:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/22/9818049.htm"
+    excerpt: "Liquid Cooled Large Scale AI Training Infrastructure Delivered as a Total Rack Integrated Solution to Accelerate Deployment, Increase Performance, and Reduce Total Cost to the Environment SAN JOSE, Calif."
+    publishedDateTime: 2023-05-22T04:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32502037/supermicro-launches-industrys-first-nvidia-hgx-h100-8-and-4-gpu-h100-servers-with-liquid-cooling-r"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32502037"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32502037"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
     images:
       - url: "https://mma.prnewswire.com/media/2081911/Supermicro_AI_and_Liquid_Cooling_Solutions.jpg"
         width: 400
