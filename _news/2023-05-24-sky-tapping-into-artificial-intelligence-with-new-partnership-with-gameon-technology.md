@@ -7,7 +7,7 @@ originalUrl: "https://chicago.suntimes.com/chicago-sky-and-wnba/2023/5/23/237346
 webUrl: "https://chicago.suntimes.com/chicago-sky-and-wnba/2023/5/23/23734622/sky-tapping-into-artificial-intelligence-with-new-partnership-with-gameon-technology"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1461
     height: 834
     isCached: true
+
+related:
+  - title: "Healthy Together Partners with Amazon Web Services to Drive Innovation in Government Technology"
+    excerpt: "Healthy Together, a leading government software provider, is pleased to announce a new partnership with Amazon Web Services (AWS) after being approved to join the AWS Partner Network"
+    publishedDateTime: 2023-05-23T17:09:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32536508/healthy-together-partners-with-amazon-web-services-to-drive-innovation-in-government-technology"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32536508"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32536508"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 47
+    images:
+      - url: "https://mma.prnewswire.com/media/2080755/Healthy_Together.jpg"
+        width: 400
+        height: 237
+        isCached: true
 
 secured: "uqcJ8EB8Gb7Xzl3i2S06rtGdXyA4JcbPpCTEr1mXpDoFnq6D7aLb8c4yl6gxn/NL6jTFETAMGQzHvquHCDXX7XYwL5jB19V/CFlIYkNBkWd4k4I/koPUzJxndE/qym1M5WCLQ/ViL09KH6szvEDWTFb0/4ZgYT9IFLPdAKjHD9queI9/9BZcA0cZXnNzv7MTgjei9U2jmivnbK5+DQtIeden5LAMMijU/jEbshpjzC7yoZKpJByf3tcQrQ+jeBGFmcndp0oOVnaHa8Jwd3Jx59nYVnIIwzO7Ot+ufQOEQ04jEuocPRuc3uO6MveUcLtzD+y8EzszFg8XRVc8g4pTaK1NeGe5jYJEyNvQg+K4lH/WEfBKpSyXqAKQPSoKDwSBVDGCMAxXLA0nx5F6y0XLksNkvDMcnNwsyB3cCwbydsm2J8okwk5WqggR7ZdM6a2FT/kgdH3AtTbaonuGI0yI4AHtJy9itsl/XbXjMNPipjZpc2ZtTdPa6ocU2CGFAS8VZ4Njbe7uSS6c3CHtCrNtRQ==;paW1ghcwZ2F/8KnM6dhvPQ=="
 ---

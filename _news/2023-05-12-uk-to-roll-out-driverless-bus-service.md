@@ -1,101 +1,28 @@
 ---
 category: news
-title: "UK To Roll Out Driverless Bus Service"
-excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control"
-publishedDateTime: 2023-05-12T03:40:00Z
-originalUrl: "https://menafn.com/1106231030/UK-To-Roll-Out-Driverless-Bus-Service"
-webUrl: "https://menafn.com/1106231030/UK-To-Roll-Out-Driverless-Bus-Service"
+title: "UK to roll out driverless bus service"
+excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency"
+publishedDateTime: 2023-05-11T22:45:00Z
+originalUrl: "https://www.gulf-times.com/article/660874/classified/uk-to-roll-out-driverless-bus-service"
+webUrl: "https://www.gulf-times.com/article/660874/classified/uk-to-roll-out-driverless-bus-service"
+ampWebUrl: "https://www.gulf-times.com/article/660874/classified/uk-to-roll-out-driverless-bus-service/amp"
+cdnAmpWebUrl: "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/660874/classified/uk-to-roll-out-driverless-bus-service/amp"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Gulf Times
+  domain: gulf-times.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?106671"
-    width: 444
-    height: 250
+  - url: "https://www.gulf-times.com/gulftimes/uploads/images/2023/05/11/28023.jpg"
+    width: 1000
+    height: 665
     isCached: true
 
-related:
-  - title: "Self-Driving or Driverless Cars Market upto 2030"
-    excerpt: "The Global Self-Driving or Driverless Cars market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,"
-    publishedDateTime: 2023-05-15T01:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-or-driverless-cars-market-upto-2030-2023-05-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google’s A.I. Bonanza and Driverless Car Talk With Cruise C.E.O. Kyle Vogt"
-    excerpt: "And as you might expect, most of what they showed off today had a lot to do with artificial intelligence and how they’re going ... So Casey and I hailed a ride in one to find out if the driverless car revolution we’ve all been talking about and waiting ..."
-    publishedDateTime: 2023-05-12T13:41:00Z
-    webUrl: "https://www.nytimes.com/2023/05/12/podcasts/googles-ai-bonanza-and-driverless-car-talk-with-cruise-ceo-kyle-vogt.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 67
-    images:
-      - url: "https://static01.nyt.com/images/2023/06/05/multimedia/0512HF-googleai-lwfv/0512HF-googleai-lwfv-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Britain to roll out first driverless bus service"
-    excerpt: "The service, which aims to carry 10,000 passengers a week over a 22.5-kilometre route on five single-deck buses, will be the world's first automated local bus service, its operator said."
-    publishedDateTime: 2023-05-12T18:48:00Z
-    webUrl: "https://www.gulftoday.ae/news/2023/05/12/britain-to-roll-out-first-driverless-bus-service"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 54
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/5/12/driverless-buses.ashx?h=450&w=750&hash=DA420C0A40E730C30B1558286369EDC1"
-        width: 750
-        height: 450
-        isCached: true
-  - title: "Self-driving Cars Market in 2023: Insights and Strategies | 2031"
-    excerpt: "New “Self-driving Cars Market” Report 2023 by Manufacturers and Forecast to 2031: Get the latest insights into"
-    publishedDateTime: 2023-05-15T04:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-in-2023-insights-and-strategies-2031-2023-05-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "UK to roll out first driverless bus service"
-    excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency arise. The service,"
-    publishedDateTime: 2023-05-13T03:28:00Z
-    webUrl: "https://technology.inquirer.net/124026/uk-to-roll-out-first-driverless-bus-service"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 39
-    images:
-      - url: "https://technology.inquirer.net/files/2023/05/Driver_Stuart_Doidge_monitors_an_autonomous_bus_as_it_drives_across_the_Forth_Road_Bridge_between_Edinburgh_and_Fife_during_a_press_preview_for_the_CAV_Forth_a_bvXSMR84YoEl-620x413.jpg"
-        width: 620
-        height: 413
-        isCached: true
-
-secured: "P+HA9kYSezgu21MXaKcrvuX4wBTXn02dDdwQ7PMJWrmttnQm8VE2PbQeDS1qAdLmKaapM8vdA2/S6hEG1O++9I8va+zAOs+4OYjSaazaPtJaoax/cT/LpiDaetsRR+uED4NDDUWOrBQCFFaJWwFtj7rpmKUA1HspRzmnozgNqHVgEpDL49GR8RRK4cz68W63PqjiZ9XdrH1/HkXaNWCB46LNOhP+fY6BRuBNwY8WFPPKMu0IzW+a9fcbA0uBUwcB38fFjl/D8fiN0dFCzig+YhCvHLikA3NoLPkWLS9LCjJepXsDMVJd3op+y9Q4vAkreSYbivJSMGfKeX0RL7o0TyvQfIA1W11zJWx1UBxcvpccwLe99zO4v+dtAp8FWqOpC2fpvWCI4rsCJIL0+B4gtcYtcR2FEwiWImpGuYmlxERxlX/NFn6y/7xRci2aDCwVQsqL2sPoHZklLfa8Dv0gSULyuh6vyBq5roBF0urxELTwOn0TvcqPLqmHqG8Vaft1ZaJGfXEvje0yyRRih8Ke1w==;LgqD472ZkHadQ/9UBurIxw=="
+secured: "+ZnexcR6kn/FzCOOh6fnH8zjv/JL71uA5RyiyeutP8ulEFBWrFM7G369jvYgTnpcxCeAyZ9AEkyp1W4PV9OJ6sN4iXXQZPb3OdgE5S5Cr0NsUS9AhS7bzNjJkFYrebEY9KvNDLJVLPMc4j0DlDn22WoEseCYoOAwZZYCmuVLudVKyu0S0t1z47HemES4kB/je052MXjj2BfuFzkcKPnp643/t8HEsxVveRLq08aaRBTt3M3EE9tGqV2ouYV75wbXgOKwDkLQirqK+ad3gBPTHoVy0bcndAAPvyV6xpyo++S+eA4xJl5RGs4bKfeCQKIvbIELJ6AaYTgbly4ouFtCLdazUKzf1J3ymloaDBFEQ+E=;rSIpK+f66zPsjbweFvuzyA=="
 ---
 

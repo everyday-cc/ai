@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "University of Amsterdam’s Lab helps create language technologies that goes beyond where ChatGPT ends"
-    excerpt: "UvA’s Language and Technology Lab helps create language technologies for languages for which little data is available and which are not served by the big tech companies.In recent months, text generato"
-    publishedDateTime: 2023-05-19T11:54:00Z
-    webUrl: "https://indiaeducationdiary.in/university-of-amsterdams-lab-helps-create-language-technologies-that-goes-beyond-where-chatgpt-ends/"
-    ampWebUrl: "https://indiaeducationdiary.in/university-of-amsterdams-lab-helps-create-language-technologies-that-goes-beyond-where-chatgpt-ends/amp/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-amsterdams-lab-helps-create-language-technologies-that-goes-beyond-where-chatgpt-ends/amp/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 29
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2023/05/language-technology.jpg"
-        width: 930
-        height: 465
-        isCached: true
   - title: "How Many Language Service Providers Have Piloted ChatGPT in Workflows?"
     excerpt: "Language service providers are actively piloting ChatGPT and large language models (LLMs) in machine translation, quality evaluation and business workflows."
     publishedDateTime: 2023-05-23T12:01:00Z

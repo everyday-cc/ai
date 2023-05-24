@@ -56,6 +56,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 63
+  - title: "CyberArk Supercharges Identity Security Platform with Automation and Artificial Intelligence Innovations"
+    excerpt: "CyberArk (NASDAQ: CYBR), the Identity Security company, today announced new products and features across the CyberArk Identity Security Platform, making it the most powerful platform of its kind. Inve"
+    publishedDateTime: 2023-05-23T13:31:00Z
+    webUrl: "https://www.channelbiz.co.uk/press-release/cyberark-supercharges-identity-security-platform-with-automation-and-artificial-intelligence-innovations/"
+    type: article
+    provider:
+      name: Channel Biz
+      domain: channelbiz.co.uk
+    quality: 19
 
 secured: "SgCGt+DFBueRlZQJ1AJsjoOUVLCXSSuZbD3k0dhVb7KsYpGYhH3/gYY6Zb/x7GY3afD5b+wlMUO4Ng8JDyvmT5KeN0yaCNXWE5+7AJsC/hLr1psuLMs115OidlQo6XU++E47WlR6uPwsz+41U0jrNkHhQm/ng7FTILSn4RlygQvMCoXxCB0MTcG4QGB10UunaDCtwdjUSiK2cXvr0Mb3cMzQpH1Mc9xgbKt9jedQmeaC1aF141y2tuP/dk3zJNqbPAhtBEHVGrtJKguSijuP5EjpMnD/vX1hVsgJpZH5Z5M9sbut+pSx7WuuxHmxIS3j+5VxyVr4fIGdKTfMRLXiJnI0csg6Ka2/WUv+gdy63VJbiXPqZnha5fxfcCmNT3yL1uJTL7mbySsmx0XIQvaDcYVYtY3QluxtdDg4feHrzwQOAiuv8TKww36ZYoe1NVWGzolIngGfrH8xRRg4galLEfmnjrChBiZh7PagqK3iuzDsMbCd8DPIXb/5aULJvwBE23XrqxQN6S1qE/9n/LCmMQ==;dYjBJDtIyBMrMNlYrqoKnQ=="
 ---

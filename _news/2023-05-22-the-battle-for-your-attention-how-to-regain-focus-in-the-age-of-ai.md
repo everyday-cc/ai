@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/chriswestfall/2023/05/21/the-battle-f
 webUrl: "https://www.forbes.com/sites/chriswestfall/2023/05/21/the-battle-for-your-attention-how-to-regain-focus-in-the-age-of-ai/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Forbes
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "State of AI adoption for enterprise IT management in the Middle East"
-    excerpt: "With large language models (LLMs) in the market, the AI hype cycle is at an all-time high, and AI adoption is gaining traction."
-    publishedDateTime: 2023-05-19T11:30:00Z
-    webUrl: "https://gulfbusiness.com/state-of-ai-adoption-in-the-middle-east/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 39
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/05/digitization-4770296_1920.jpg"
-        width: 930
-        height: 620
-        isCached: true
 
 secured: "BCqaFZFMTdNTRCwlUPD0KIVKVnV+kFwzBoafNeOMeVX/PUqEtn3yp1KkkDhJdeOzvw1kLjAtUIlYe9a7tQY9m+L3OSK3NG3ordI4pufbPERTZgDIiDlKcfZuwpGT6SEdUpyysF3qRa8fFCnIzJFyfAGVa8KI+AmE3u3Vc7DSQ8GPlJuBfFTvi4sEgiCDe7ZskbvIYoyTHVhYVgU5L1o2AO+LlRff/GV0iqiDCD4yEI7iwRC1NoQEQJdHN8E2WATgqboAwByqksOeQ9ifyChqcpPv92zAwQkRDSz/bWyzxa5SY0lIDJJMKZmu+t3BTaPGLZvKTBGn/zfIK547e0YaEYCS0IoXuQKVwvunIlPC/wrBxV91XP88vyVI9bwBzLLEszqvDKMWpct/vFIRsSbjCWC8/LunGMWCt3Ee4dDdyZU+Tlv0i5ca4Za8zHZb8bMSK4pJS7+S/zB1R0kUMuUDwA+vM1VC0uFWZ7xnvVAokZzwHqRaUFgoxW7sxD+SfxUh/e0b0vStsaGdAvJf+CJH4g==;v7sFDpC5mhuIfXqcbAIOmg=="
 ---

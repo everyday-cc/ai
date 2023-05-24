@@ -1,20 +1,18 @@
 ---
 category: news
 title: "DataRobot Partners with Microsoft to Accelerate Value of AI"
-excerpt: "Integrations with Microsoft's Azure OpenAI Service and Azure Machine Learning brings customers generative AI capabilities, and a more powerful and versatile platform for building, deploying and managi"
-publishedDateTime: 2023-05-23T19:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/05/b32539014/datarobot-partners-with-microsoft-to-accelerate-value-of-ai"
-webUrl: "https://www.benzinga.com/pressreleases/23/05/b32539014/datarobot-partners-with-microsoft-to-accelerate-value-of-ai"
-ampWebUrl: "https://www.benzinga.com/amp/content/32539014"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32539014"
+excerpt: "\"The integration of DataRobot with Microsoft's generative AI and ML services delivers customers breakthrough innovation and experiences for machine learning experimentation and production work built on Azure's differentiated and scalable platform,"
+publishedDateTime: 2023-05-23T19:29:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/05/23/9819794.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/05/23/9819794.htm"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -296,6 +294,22 @@ related:
         width: 1200
         height: 797
         isCached: true
+  - title: "Microsoft brings latest innovations in cloud, data & AI to COMEX 2023"
+    excerpt: "Through the Azure platform, the intelligent Microsoft Cloud offers public and private enterprises the ability to deliver new business models and boost the speed of innovation and time to market. Microsoft’s AI technologies are protected by industry ..."
+    publishedDateTime: 2023-05-24T05:56:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/microsoft-brings-latest-innovations-in-cloud-data-and-ai-to-comex-2023-tpfqwbqc"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/microsoft-brings-latest-innovations-in-cloud-data-and-ai-to-comex-2023-tpfqwbqc?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/microsoft-brings-latest-innovations-in-cloud-data-and-ai-to-comex-2023-tpfqwbqc?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 74
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZWI0NDI2ZDItMDAxNy00/1/ministeronthebooth-jpg.jpeg?f=3%3A2"
+        width: 897
+        height: 598
+        isCached: true
   - title: "Microsoft healthcare AI subsidiary Nuance hit with job cuts"
     excerpt: "Nuance Communications, a Microsoft subsidiary, is undergoing layoffs to focus on its healthcare business. CEO Mark Benjamin notified employees of the job cuts May 19."
     publishedDateTime: 2023-05-22T17:10:00Z
@@ -342,6 +356,22 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 64
+  - title: "Jugalbandi: Microsoft-backed Indian group aims to bridge language barrier with AI assistant"
+    excerpt: "An Indian research group backed by Microsoft and Infosys co-founder Nandan Nilekani is using generative AI, the technology behind chatbot sensation ChatGPT, for a mobile assistant that aims to make information on government schemes accessible in multiple languages."
+    publishedDateTime: 2023-05-24T05:56:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 64
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/05/23/1600x900/USA-ARTIFICAL-INTELLIGENCE-BIDEN-0_1684866087281_1684866253190.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Microsoft integrates Nvidia’s AI Enterprise Suite with Azure Machine Learning"
     excerpt: "The integration of Nvidia’s software suite will further help enterprises build, deploy, and manage applications based on large language models."
     publishedDateTime: 2023-05-23T19:01:00Z
@@ -351,22 +381,6 @@ related:
       name: Network World
       domain: networkworld.com
     quality: 63
-  - title: "Microsoft India announces the addition of 4 new languages to Translator"
-    excerpt: "Users can translate Konkani, Maithili, Sindhi, and Sinhala text, supported in more than 125 languages, for their apps, websites, workflows, and tools with Azure Cognitive Services Translator"
-    publishedDateTime: 2023-05-19T11:48:00Z
-    webUrl: "https://www.mid-day.com/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
-    ampWebUrl: "https://www.mid-day.com/amp/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
-    type: article
-    provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 61
-    images:
-      - url: "https://images.mid-day.com/images/images/2023/may/Microsoft-afp_d.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Mural Unveils AI-Powered Capabilities for Enterprise Collaboration at Microsoft Build"
     excerpt: "Deepening its investment in the Microsoft ecosystem, Mural's AI capabilities will use Azure OpenAI to enable teams to work together more efficiently SAN FRANCISCO, May 22, 2023 /PRNewswire/ -- Mural, a leading visual collaboration company, today unveiled ..."
     publishedDateTime: 2023-05-22T19:14:00Z
@@ -690,6 +704,6 @@ related:
       domain: microsoft.com
     quality: 24
 
-secured: "uRAMpmfxdkFr91lC7NuwUQkz91MHvbvcEN42dEeA2ZMJeLaP4aVXvwGirgrPZ1IbYpSc1xH4fEdzJayiajcmqPGGN065wfoG3UGSqm1WgqvOd1TXJweIkv68VclQBjR3eDp7RJAya1rKaDUDBh6iC2L4+sFzfzr0AKUHEo4eFiWpaFnvZL271qvPacbB0jWr5tO/F+B0JQ3nAs8TKiOIuMWOFkg4R9hpS5HM4I5/i1mO8k7jpYzFKFpvJfEGtJkOEbN2gB62pPBSoGW4WliU6y+SnmpHH26cLto7h+dKYjdr75jrggSG+Zdf311pbo3Trb4q/bsRFZu1W+FsvH8VfxXGtSsIsYQyrKxMwD6eXOA=;opaWqShEas8QhQLpxAO47g=="
+secured: "wp6089LPvyRGU6LcWqMfIpxi20eG9vhV7VzGLhVikQ3jDXpLL6lHHuCzvxnytejYD8+Dy/9x4SYofqTjm6LxgDvmsqg/0XDwy5PZSzhq5USHrOGoocxN/+Jz7lMS9pAMkhdrJWc4fLbx2jrZ/iq28xb7E2eQRQLSV088CnoKBDqsIcc74fjclPtI30xJc/jC81D+SMMIeV30gBpWOlbTqpB/VfGIGJ6uAqHKNJWwEDOf3v+y4nicHCrnkfnW2l9ohTlJ+6YdFtynOTxR7+xxJK5b7bHHwOdCD9wsEATF2fCz1LLLtD6G+ywYNENF4qqXv07iwYUbGifSSPvPZSe5uRgGCIoMQ+eO1C4PTS9MRDw=;FJvKP/SOmeh6Jv+4Q4FF3g=="
 ---
 

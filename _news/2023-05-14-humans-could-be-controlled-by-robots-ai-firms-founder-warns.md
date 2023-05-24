@@ -2,25 +2,27 @@
 category: news
 title: "Humans could be controlled by robots, AI firm’s founder warns"
 excerpt: "Robots could end up controlling humanity ... if we have agents more capable than us that we cannot control, that are going across the internet and hooked up and they achieve a level of automation ..."
-publishedDateTime: 2023-05-13T18:39:00Z
-originalUrl: "https://www.theboltonnews.co.uk/news/national/23520591.humans-controlled-robots-ai-firms-founder-warns/"
-webUrl: "https://www.theboltonnews.co.uk/news/national/23520591.humans-controlled-robots-ai-firms-founder-warns/"
+publishedDateTime: 2023-05-13T18:37:00Z
+originalUrl: "https://www.independent.co.uk/tech/getty-images-ashton-kutcher-tom-hanks-scarlett-johansson-joaquin-phoenix-b2338350.html"
+webUrl: "https://www.independent.co.uk/tech/getty-images-ashton-kutcher-tom-hanks-scarlett-johansson-joaquin-phoenix-b2338350.html"
+ampWebUrl: "https://www.independent.co.uk/tech/getty-images-ashton-kutcher-tom-hanks-scarlett-johansson-joaquin-phoenix-b2338350.html"
+cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/getty-images-ashton-kutcher-tom-hanks-scarlett-johansson-joaquin-phoenix-b2338350.html"
 type: article
 
 provider:
-  name: The Bolton News
-  domain: theboltonnews.co.uk
+  name: The Independent
+  domain: independent.co.uk
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.theboltonnews.co.uk/resources/images/16777260/?type=og-image"
-    width: 945
-    height: 630
+  - url: "https://static.independent.co.uk/2023/05/13/19/7cdb40afe62999b20c2d43b255e451d7Y29udGVudHNlYXJjaGFwaSwxNjg0MDg3MzEw-2.10529336.jpg?quality=75&width=1200&auto=webp"
+    width: 1200
+    height: 800
     isCached: true
 
-secured: "RHJVxayPki6orAEQM8EiivDDFD/4wzwp/gZ7TuyBhyE9bbk5qvIXSJgrl4GzQZAlPLlch88UY++9b1ZA+BBzBEeXPBmh+OPA38lCrOI5ji7Y6C69UQ7nFS5MX1+32dnOG7mikxZi0P0Hkk0/zVoL5zIXsYw5aKvV9ntsFpaZonmT71xKZM+uYaMt1aCn++oPN+B7eQAK91OCZfjSgkKkPVSMbtha/P+ZyhqxJAaBIEeh4Y2Hp+tm0LWOtjMGEp9fyIE28GZyraIuaLJo0hN7xhuF3SUbeVXIy22xGcBTbhpccs5hp8URPdi/P9sAY+mJALCzgSRIZ66DHn0ZP+09A2c7badjTc0AS4GZ1rpwo78=;4quFKoV/64dzQSIAlHXw/A=="
+secured: "DZVotncoytEzihC1GdUgAHP/PBby9wMhYz1L6iHAMFbFXerKX27Jl/tM6dSXBDQKub3D5abGNYXO0M8Oc6Gdr1luhXK055EqcXq8g1cRrQRjp0ArsxmbThyN5lZiggW1AMj+WfbrKHQAIJPsTZu/1m5UvwEwaqk/D1AOVP8mg6dXnps57/nPu6uNbMTArA3TQv1M/8e2cnfcjyCigLsrtSE73E3XFhtk+z8mOUrlz933NPh2Scwp0QXYml8ng1Ez01cxTocAtZtGmwPb/xYkg9OZRLkPtjUBBubcmvh2T8er6LJZC/PNS7tT/hgkYE2QuoLlCH0ikf7ckSH1h9Nw7WxuvByzWlq4xoBrwZ4XACg=;PRld10sUQry3YbXDcacAqQ=="
 ---
 

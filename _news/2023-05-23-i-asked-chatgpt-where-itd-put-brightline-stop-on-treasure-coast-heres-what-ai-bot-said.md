@@ -154,20 +154,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 40
-  - title: "Apple Bans Employees From Using ChatGPT Amid Its Own AI Efforts"
-    excerpt: "Apple has restricted employee use of ChatGPT and other external artificial intelligence utilities amid the development of its own similar"
-    publishedDateTime: 2023-05-19T11:20:00Z
-    webUrl: "https://www.macrumors.com/2023/05/19/apple-bans-employees-from-using-chatgpt/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 37
-    images:
-      - url: "https://images.macrumors.com/t/iBp9BqJv2WpLVJf_ebOZGLh1orw=/2500x/article-new/2023/05/chatgpt-for-iphone-feature.jpg"
-        width: 2500
-        height: 1406
-        isCached: true
   - title: "How to turn Google Bard AI into an app on your iPhone home screen"
     excerpt: "Google Bard is available for free in 180 countries. Here’s how to create your own iPhone app for Google’s ChatGPT alternative."
     publishedDateTime: 2023-05-20T14:34:00Z

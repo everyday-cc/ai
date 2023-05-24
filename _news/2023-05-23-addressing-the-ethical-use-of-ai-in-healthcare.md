@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressi
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressing-the-ethical-use-of-ai-in-healthcare/"
 type: article
 quality: 81
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -24,6 +24,20 @@ topics:
   - AI Ethics
 
 related:
+  - title: "5 AI healthcare startups in India"
+    excerpt: "Artificial intelligence (AI ... Amid the rise of several AI healthcare technologies, the World Health Organisation (WHO) released a warning about their accuracy. In a recent statement, WHO ..."
+    publishedDateTime: 2023-05-21T06:11:00Z
+    webUrl: "https://yourstory.com/2023/05/artificial-intelligence-healthcare-startups-india"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 54
+    images:
+      - url: "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/health-gb820987231280-1684490624617.jpg?fm=png&auto=format"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How AI is changing the game in youth sports"
     excerpt: "Salt Lake County's Copper Mountain Soccer Club is among many youth teams using new AI video technology that films games and then culls each player's performance into a highlight reel."
     publishedDateTime: 2023-05-22T02:02:00Z

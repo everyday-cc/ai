@@ -62,7 +62,7 @@
       "originalUrl": "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1257,17 +1257,17 @@
       "title": "Humans could be controlled by robots, AI firm’s founder warns",
       "excerpt": "Robots could end up controlling humanity ... if we have agents more capable than us that we cannot control, that are going across the internet and hooked up and they achieve a level of automation ...",
       "sourceUrl": null,
-      "webUrl": "https://www.theboltonnews.co.uk/news/national/23520591.humans-controlled-robots-ai-firms-founder-warns/",
-      "originalUrl": "https://www.theboltonnews.co.uk/news/national/23520591.humans-controlled-robots-ai-firms-founder-warns/",
+      "webUrl": "https://www.independent.co.uk/tech/getty-images-ashton-kutcher-tom-hanks-scarlett-johansson-joaquin-phoenix-b2338350.html",
+      "originalUrl": "https://www.independent.co.uk/tech/getty-images-ashton-kutcher-tom-hanks-scarlett-johansson-joaquin-phoenix-b2338350.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.theboltonnews.co.uk/resources/images/16777260/?type=og-image",
-          "width": 945,
-          "height": 630,
+          "url": "https://static.independent.co.uk/2023/05/13/19/7cdb40afe62999b20c2d43b255e451d7Y29udGVudHNlYXJjaGFwaSwxNjg0MDg3MzEw-2.10529336.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1275,13 +1275,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-13T11:39:00-07:00",
+      "ampWebUrl": "https://www.independent.co.uk/tech/getty-images-ashton-kutcher-tom-hanks-scarlett-johansson-joaquin-phoenix-b2338350.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/getty-images-ashton-kutcher-tom-hanks-scarlett-johansson-joaquin-phoenix-b2338350.html",
+      "publishedDateTime": "2023-05-13T11:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Bolton News",
-        "domain": "theboltonnews.co.uk",
+        "name": "The Independent",
+        "domain": "independent.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

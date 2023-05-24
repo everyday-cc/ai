@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/23/modular-app-building-platform-buil
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/modular-app-building-platform-builder-ai-raises-250-million-series-d-funding/amp/"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Turkish AI-backed Marketing Platform Insider Raises $105 Million"
+    excerpt: "Insider, a Turkish artificial intelligence-backed marketing platform, raised as much as $105 million in funding from two existing investors in a deal that highlights how AI companies are defying the global tech industry slump."
+    publishedDateTime: 2023-05-24T05:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-24/turkish-ai-backed-marketing-unicorn-insider-gets-more-funding-for-m-a"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFIBqeSae5.s/v0/1200x801.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "QIA Leads $250 Million Funding Round for App Platform Builder.ai"
     excerpt: "The Qatar Investment Authority is leading a series D funding round of more than $250 million for Builder.ai, the mobile app development startup backed by Microsoft Corp."
     publishedDateTime: 2023-05-23T11:47:00Z

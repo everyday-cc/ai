@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/22/the-risks-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/22/the-risks-and-rewards-of-artificial-intelligence-in-cybersecurity/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 63
+  - title: "CyberArk Supercharges Identity Security Platform with Automation and Artificial Intelligence Innovations"
+    excerpt: "CyberArk (NASDAQ: CYBR), the Identity Security company, today announced new products and features across the CyberArk Identity Security Platform, making it the most powerful platform of its kind. Inve"
+    publishedDateTime: 2023-05-23T13:31:00Z
+    webUrl: "https://www.channelbiz.co.uk/press-release/cyberark-supercharges-identity-security-platform-with-automation-and-artificial-intelligence-innovations/"
+    type: article
+    provider:
+      name: Channel Biz
+      domain: channelbiz.co.uk
+    quality: 19
 
 secured: "40RcfA7CVwvOUnZTyoRLShwapm8aNItxGzraZ9QyBlFVbgFcbMZZMruF9kVqnXGClPN3jcpQEkhrynXSntrEZKg+BbmDg+2OyRm9Jl6C6HfbfMn5IfIKg5x3PlbGvDvvI5MDUqy8s5UIxc1NAtvMADCG8dtzl3fse7RXoN7nuwUUHqFqVXU93PRixYm9LNjiSFG0K7KnARSrnLWZiTqNywzMQE+mtG2xeUSV8tePFEW7imkX1rao5pso8ZKoqy73WHwySknmI6qjV7Lr8YJvSksnmT0bDYQ7EzwlmzpEoI/plUSVMXHoTmVZryh2Gm3C8ztwBQtNOA6VQHglTlpnBK3fFhul0f8XuJOPu60IPyHp+M+0BtaZabitowJs74c66BQIebFkOEKf7b9WzQBv8vBTBo03lgzTnuwqzkZeBhBZ0EU0AwBq4TvASzfNYFi2httfszLTx6KAvwx1N6DM5FNS1UnqykWqu02q9Qry+hkThg5e8G3yKEK3qjCcwsOYw8+5Qyr9g9/RLfOuaAA7FQ==;cYgjGVke/4YMlVMyddeTkA=="
 ---

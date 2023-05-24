@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-04-05-tensorflow-lite-on-a-commodore-64.md",
-      "title": "TensorFlow Lite – On A Commodore 64",
-      "excerpt": "TensorFlow is a machine learning and AI library that has enabled so much and brought AI within the reach of most developers. But it’s fair to say that it’s not for the less powerful computers.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2022/07/06/tensorflow-lite-on-a-commodore-64/",
-      "originalUrl": "https://hackaday.com/2022/07/06/tensorflow-lite-on-a-commodore-64/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2022/07/tf-c64-featured.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-01-deepminds-ai-used-to-develop-tiny-syringe-for-injecting-gene-therapy-and-tumor-killing-drugs.md",
       "title": "DeepMind’s AI used to develop tiny ‘syringe’ for injecting gene therapy and tumor-killing drugs",
       "excerpt": "Scientists have developed a molecular “syringe” that can inject proteins, including cancer-killing drugs and gene therapies, directly into human cells. And the researchers did it using an artificial intelligence (AI) program made by Google’s DeepMind.",

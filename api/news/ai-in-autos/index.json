@@ -1364,21 +1364,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-11-musk-would-compound-tesla-automated-driving-risk-with-free-trial.md",
-      "title": "Musk Would Compound Tesla Automated-Driving Risk With Free Trial",
-      "excerpt": "Regulators are already swirling, and some customers have paid $15,000 for features the CEO is prepared to give away for a month.",
+      "path": "_news/2023-05-12-uk-to-roll-out-driverless-bus-service.md",
+      "title": "UK to roll out driverless bus service",
+      "excerpt": "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency",
       "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-11/musk-would-compound-tesla-automated-driving-risk-with-free-trial",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-11/musk-would-compound-tesla-automated-driving-risk-with-free-trial",
+      "webUrl": "https://www.gulf-times.com/article/660874/classified/uk-to-roll-out-driverless-bus-service",
+      "originalUrl": "https://www.gulf-times.com/article/660874/classified/uk-to-roll-out-driverless-bus-service",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRwyAU42Epw8/v1/1200x900.jpg",
-          "width": 1200,
-          "height": 900,
+          "url": "https://www.gulf-times.com/gulftimes/uploads/images/2023/05/11/28023.jpg",
+          "width": 1000,
+          "height": 665,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1386,23 +1386,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T08:30:00-07:00",
+      "ampWebUrl": "https://www.gulf-times.com/article/660874/classified/uk-to-roll-out-driverless-bus-service/amp",
+      "cdnAmpWebUrl": "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/660874/classified/uk-to-roll-out-driverless-bus-service/amp",
+      "publishedDateTime": "2023-05-11T15:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Gulf Times",
+        "domain": "gulf-times.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

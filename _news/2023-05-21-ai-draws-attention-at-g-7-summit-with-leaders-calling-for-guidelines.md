@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ai-draws-attention-at-g-7-summi
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-draws-attention-at-g-7-summit-with-leaders-calling-for-guidelines/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "OpenAI leaders call for regulation to prevent AI destroying humanity"
+    excerpt: "Team behind ChatGPT say equivalent of atomic watchdog is needed to guard against risks of ‘superintelligent’ AIs"
+    publishedDateTime: 2023-05-24T04:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/24/openai-leaders-call-regulation-prevent-ai-destroying-humanity"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/24/openai-leaders-call-regulation-prevent-ai-destroying-humanity"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/24/openai-leaders-call-regulation-prevent-ai-destroying-humanity"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/7d67041ce1a3365141a6cf94664afd2b979a86ea/0_65_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=26b6326255df3dfa3b403b401a657422"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "mTKeECeggcp5i1I5PKjlEVVH++abICWuWW+9IadK4u9Q5xkZznMxBbAgh1zzPyhCTKrTaQ7Fcvzp9iPjH11GGtnXzzKctAfLwaI1GnRT/8d+T988DVhnG3Q3qkXRbj6kSWOZKb8Udal70vVmkCZPRd8TRNy7ykg2RPfysb/Z0xU/0XphPfChUCjCySFMbmWGc3dKNT6diA9x4+/cXlUsC0qft/wiBoO4TyFdsK0o7vFB9aH95smP1bO29gFM6StXluMEm/WFEj8k2rEvqjEPyh9lByLYafXn4TvYVvWjNO5Sc86/IZwjHESoE3tJtyhAVhURV52vjFx5GGwU0e9mdx7hnZIgoccFxdGPbBcSJjyPG7ulTr5dh7euW2LdT/twSyQPTLx7L6pMsAQXGD1M31TZX/Qc/sD8PB0MP2xlN1hXKGuKEhJvq9UzTR8z4pb72OrAg0dlafTn0cOgYdo1AO5IttdCt52XGF72Y4X62MrgDYKZ0aFRiu5JxNDai9okG2IAWVmgsYZqEh1iFg/VPg==;wszBl5D0oFOkD5I3J7deFA=="
 ---

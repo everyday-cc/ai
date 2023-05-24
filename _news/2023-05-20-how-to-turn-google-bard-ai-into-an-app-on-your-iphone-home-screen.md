@@ -159,20 +159,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 40
-  - title: "Apple Bans Employees From Using ChatGPT Amid Its Own AI Efforts"
-    excerpt: "Apple has restricted employee use of ChatGPT and other external artificial intelligence utilities amid the development of its own similar"
-    publishedDateTime: 2023-05-19T11:20:00Z
-    webUrl: "https://www.macrumors.com/2023/05/19/apple-bans-employees-from-using-chatgpt/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 37
-    images:
-      - url: "https://images.macrumors.com/t/iBp9BqJv2WpLVJf_ebOZGLh1orw=/2500x/article-new/2023/05/chatgpt-for-iphone-feature.jpg"
-        width: 2500
-        height: 1406
-        isCached: true
   - title: "MY VIEW: AI ate my homework: The future of AI and ChatGPT"
     excerpt: "\"Back in the day, rather than admitting our laziness, we blamed the dog for eating our homework. If AI becomes our modern-day crutch for being lazy, a bad grade will be the least of our worries.\""
     publishedDateTime: 2023-05-22T10:26:00Z

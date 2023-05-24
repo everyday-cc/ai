@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "CyberArk Supercharges Identity Security Platform with Automation and Artificial Intelligence Innovations"
+    excerpt: "CyberArk (NASDAQ: CYBR), the Identity Security company, today announced new products and features across the CyberArk Identity Security Platform, making it the most powerful platform of its kind. Inve"
+    publishedDateTime: 2023-05-23T13:31:00Z
+    webUrl: "https://www.channelbiz.co.uk/press-release/cyberark-supercharges-identity-security-platform-with-automation-and-artificial-intelligence-innovations/"
+    type: article
+    provider:
+      name: Channel Biz
+      domain: channelbiz.co.uk
+    quality: 19
 
 secured: "iCMx2D3nXBLfAUTYeoPo5bVjMsrjJCksIYcKYK/C7gqXR99DVmGgC6q79Iq20Vu66XF8Wq+H/Q0rZNpyJlzUI8pRf8iGsUasEGldrwptl7hNUfa35UNRldua0Z58IlrfdY+t1U+QazL8I9ob9QuSrwXNRg8FdOJ/GNtDFESUKMN+BHd2fKx7F5Qb2OqD7Uof9CYdm3tHFGY+R/+5vfLRfzRv3tfLr2FaO1JTdI1ltaLP+fMe/moRaFg3dIUR41uzyYnt+ZLYCCPXtpouPeWfeinf7GCX2ib/f/DmQziYq8QDthNtfHEzK7Ax6q82jeVykAN+3xcrx11PBqqRSdmdDeJnozY/Ovs1IHJqDZ32Jao4mG16ntHCNtIV9XVCWj4VB2e7fYyWg45goqXFeSELFVtpXy/jhxDUhyDweNQk7JwKWTVTfaHLgCnRvaEbsil8CcwcAxxl1e6kIfV6zgfTW6eKVy05aMmGIMTSp2ig0g+uCGmMffhErXHXNi3RtYlPovICngmTIR1dYPL7V5yctQ==;j3d4OmHsVB3VcYNBLwHCMg=="
 ---

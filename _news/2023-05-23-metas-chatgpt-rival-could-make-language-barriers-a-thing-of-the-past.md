@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/news/metas-chatgpt-rival-could-make-lang
 webUrl: "https://www.techradar.com/news/metas-chatgpt-rival-could-make-language-barriers-a-thing-of-the-past"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "University of Amsterdam’s Lab helps create language technologies that goes beyond where ChatGPT ends"
-    excerpt: "UvA’s Language and Technology Lab helps create language technologies for languages for which little data is available and which are not served by the big tech companies.In recent months, text generato"
-    publishedDateTime: 2023-05-19T11:54:00Z
-    webUrl: "https://indiaeducationdiary.in/university-of-amsterdams-lab-helps-create-language-technologies-that-goes-beyond-where-chatgpt-ends/"
-    ampWebUrl: "https://indiaeducationdiary.in/university-of-amsterdams-lab-helps-create-language-technologies-that-goes-beyond-where-chatgpt-ends/amp/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-amsterdams-lab-helps-create-language-technologies-that-goes-beyond-where-chatgpt-ends/amp/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 29
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2023/05/language-technology.jpg"
-        width: 930
-        height: 465
-        isCached: true
   - title: "Gartner: Exploring the short- and mid-term implications of ChatGPT"
     excerpt: "As such, it's crucial to understand the short-term and mid-term implications of this new development. As a cutting-edge application that leverages a large language model, ChatGPT is revolutionising the thinking about data and analytics."
     publishedDateTime: 2023-05-23T03:01:00Z
