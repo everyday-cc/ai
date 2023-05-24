@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 632
         isCached: true
-  - title: "Investing in AI — hype and hope"
-    excerpt: "Today, Nvidia is valued at $773bn and has sales of around $27bn. In other words, the company is priced at nearly 29 times sales. Those sales could grow rapidly with AI, but even if the company maintains its current margins forever, by my maths it would need to increase sales by around eightfold to justify the current share price."
-    publishedDateTime: 2023-05-24T04:00:00Z
-    webUrl: "https://www.ft.com/content/08d45b0a-3d8f-43a8-bf46-5e2ffb7185e1"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
-        width: 619
-        height: 376
-        isCached: true
 
 secured: "1T9c6qaGNBjQQ2cXhAOcIkeedn49P5R0XkFefHKooOxejBwqYF9UULbubFvMsWr6IHmVfu/bgYMUgJxzUPh/gJzGV+CIChZJMj+ax4ZsUWgPkJ9ZOJ3wX+Hcu0bZJD+4GqkDUhnjNBowIJbjg8vV26zb52r+PGDFED9cIdO8nSGgQlF1TI/NSdJj5T1spL2qZ0fnij1b0oHwNO9vaJA8RYqgI8QW8iMrxwZCPWtWa4lS12E74lAowrwdVbxNPiuNjCkihkCbhiVc2ph8ME3dqZiHlt7/aOgTzA8MIIqf9Wll6Xv/iLiD95/pEHCvq7/eyjTQ7zOJtbmAT+EK9r1fNuxHVUyCjBJ0uHOetp2qvvk=;Dpj0s4PC/gAYSgc9ngfk6g=="
 ---

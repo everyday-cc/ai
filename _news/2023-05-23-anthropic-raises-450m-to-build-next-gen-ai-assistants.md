@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/23/anthropic-raises-350m-to-build-nex
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/anthropic-raises-350m-to-build-next-gen-ai-assistants/amp/"
 type: article
 quality: 87
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -133,6 +133,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "AI startup raises $70 million to build humanoid robots"
+    excerpt: "Figure, a startup that wants to build general-purpose humanoid robots, has raised $70 million from investors led by Parkway Venture Capital in its first"
+    publishedDateTime: 2023-05-24T06:07:00Z
+    webUrl: "https://arynews.tv/figure-ai-humanoid-robots/"
+    type: article
+    provider:
+      name: ARY News Live
+      domain: arynews.tv
+    quality: 34
   - title: "AI start-up Anthropic raises $450mn from Google and Spark Capital"
     excerpt: "Dario Amodei, Anthropic’s chief executive and former head of AI safety at OpenAI, said the funding would support “AI research and products that put safety at the frontier”. Amodei was part of a group of OpenAI researchers who split from the ..."
     publishedDateTime: 2023-05-23T15:13:00Z

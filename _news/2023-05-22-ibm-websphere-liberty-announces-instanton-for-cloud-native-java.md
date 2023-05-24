@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-websphere-liberty-announces-instanton
 webUrl: "https://www.ibm.com/blog/ibm-websphere-liberty-announces-instanton-for-cloud-native-java/"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -20,6 +20,17 @@ provider:
 
 topics:
   - IBM AI
+
+related:
+  - title: "Kubernetes version 1.27 now available in IBM Cloud Kubernetes Service"
+    excerpt: "We are excited to announce the availability of Kubernetes version 1.27 for your clusters that are running in IBM Cloud Kubernetes Service.\nThe post Kubernetes version 1.27 now available in IBM Cloud Kubernetes Service appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-05-24T12:51:51Z
+    webUrl: "https://www.ibm.com/blog/kubernetes-version-1-27-now-available-in-ibm-cloud-kubernetes-service/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
 
 secured: "DLae8VL5rr9hnPsqWFIyPrOlLcaVY5LKWpe63lEDo4rPYlKp5DaIWAx7Jz0YDMSscpV7RDuhIqfC+UwVWq7dFjIeGv9L8TX6QNVxsY/5BUBRfpBONENf0NClxwr/HQwPGXADSyOPQbTTzGpyijpdiE9IAUIYBWgU3SbWh94uE/aRnZ+iuEdETK8LdlotbVFc3pZPkHU2lUTP93skWSqk/5Cg6WQN4R3upZ9DfXUDohVpEbAPcsE0uvdodRWV0eFD6+CUrCIhxDWb3TYMkaZsPkQXaC6O0doVBRXetqkyWVaZ4FHjF4+jyP9DtSc3vxO0Ehr+2saG9zFlJb+kqeX6wId6KPOzWW8v5Ob/GZylfEk=;ABYaRKaBTbVpG/flRd553w=="
 ---

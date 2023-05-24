@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-24T10:03:00Z
 originalUrl: "https://www.finextra.com/blogposting/24255/hybrid-artificial-intelligence---the-future-of-effective-fraud-prevention"
 webUrl: "https://www.finextra.com/blogposting/24255/hybrid-artificial-intelligence---the-future-of-effective-fraud-prevention"
 type: article
-quality: 16
+quality: 20
 heat: -1
 published: false
 
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - AI in Robotics
 
 related:
   - title: "Fear the fire or harness the flame: The future of generative AI"

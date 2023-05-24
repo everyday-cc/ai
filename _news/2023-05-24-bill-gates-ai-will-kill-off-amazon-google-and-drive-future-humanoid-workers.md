@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-24T01:31:00Z
 originalUrl: "https://www.ksl.com/article/50651412/bill-gates-ai-will-kill-off-amazon-google-and-drive-future-humanoid-workers"
 webUrl: "https://www.ksl.com/article/50651412/bill-gates-ai-will-kill-off-amazon-google-and-drive-future-humanoid-workers"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://img.ksl.com/slc/2931/293134/29313479.jpeg?filter=kslv2/responsive_story_lg"
@@ -57,6 +58,6 @@ related:
         height: 600
         isCached: true
 
-secured: "H0KnMT7vEKguML6j7OIFYkZlv2pc8NvBrdGUICeCa44LmQZStQ1hElwovGEuz0wfZfjRC9EWxtVt+KunMD6GSJS9mej2lpoqq2eAXzIEvhzgHMXp/h7ph8EH4AczM14KWYZeccliQglEczuA513OiryjaOFXFOvStt9rmUa1EkV6ytt803u+kp0VjYXT4KJiCumfR6PJOL3sY9NkK8PHXos4vn4R9pIUzXABX0JnAMyQN5jTob0S+cMsvy2OllMCgJRcNJGFIczZDMnry/MTI9Iwp5czDInqixiEur2IzCw5ipAj+qscIpF44GPkiUpSp8nBANmGsJROGtAYa+Zqk8zUVHUgAazmtasb+/LPdW0=;EmNPViP+lmmzpfkcavAQ2w=="
+secured: "VzTyiFy8CJbcaTkt4Q7SRt7Jq4UVZDXDOEHsJnqCy4h02waW9XUZ8ktgHZZdL+fP95YkdD3Z+gazGVDJcA4HD1gEqAa2UsW0CpRw/0LLnWY6LumvyoijJUmXdtDEHQchLKtF/2I8LUNvU3+LfiBduhESV0kpGXHRrdUrg2gIlaGT47F0ymiu5P06iU6VKUFdusf+NsEHjkZ4CzXNXx4EEL72pdkeaVt7aVKb3geD8vY0cageKVVqZbhp/ofVozrPdnshUIQVEap2orqeTUbEXPEH6zZrD7LZL5GZj0rnWs3WFlOBvvK4HWlEGbqVSKNbmQxNsqoMTvthqcnMgsVpTt540UnkeRMmn0rGEu+S7ad11HR2kjnIjK6K4euSJiXW3CqE7fGis0TZOyFnSNmgC8H+QoHNZPj38RAmtIs9g2OFcC6piX7MvvJucDjScbuIEdtekLtunLarCtewiy/bu6B/icOQz5Ym0jvaOaLg+Ca3SUB6f1E7qRStBEVagtknV7mGFxlSW7IM3h9vDH6Rjw==;XXhAvtsvtTdc419R36dSWw=="
 ---
 

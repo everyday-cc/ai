@@ -24,31 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Bill Gates says the best AI agent will replace search and shopping websites"
-    excerpt: "Speaking at AI Forward 2023, an event in San Francisco hosted by Goldman Sachs Group Inc and SV Angel, Gates said it would disappoint him if Microsoft were not in the running, though there was a 50% chance the top player to emerge will be a startup."
-    publishedDateTime: 2023-05-23T00:13:00Z
-    webUrl: "https://www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites"
-    ampWebUrl: "https://www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites.amp"
+  - title: "Does AI Spell Doom for Amazon and Google? Bill Gates Thinks So"
+    excerpt: "Investors don't appear to be worried by the gloomy predictions by Gates and others. Amazon's shares have soared nearly 40% so far in 2023. The big gain has been fueled in large part by excitement about the impact of AI on the company's business."
+    publishedDateTime: 2023-05-24T13:04:00Z
+    webUrl: "https://www.fool.com/investing/2023/05/24/does-ai-spell-doom-for-amazon-and-google-bill-gate/"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 55
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/709c3d7f-faa0-45f0-a558-1dcc847fa6c5/ad4f37e6-cde5-4060-b3cf-7af0b25dedfb/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Bill Gates says top AI agent poised to replace search, shopping businesses"
-    excerpt: "Bill Gates, Microsoft Corp's co-founder, on Monday said the technology race to win is development of the top artificially intelligent agent, poised to disrupt search-engine, productivity and online shopping businesses."
-    publishedDateTime: 2023-05-22T16:49:00Z
-    webUrl: "https://www.reuters.com/technology/bill-gates-says-top-ai-agent-poised-replace-search-shopping-businesses-2023-05-22/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 45
+      name: The Motley Fool
+      domain: fool.com
+    quality: 47
 
 secured: "EryfdFXBdzojQe+JuTOWSTk9uwiqaNdHDfwyg72MBGuIwR8cNHD8ALwvf7g91bYFIehuByj+7AAsWKoL0/SnVlxtvgTPWGt085afYKi7cEYCHxms6lyDAEO8t3SQDUJ/xIxUk98W/Yxpt5WDjLL5vulIQKliD6LqJZvJrnxlXaF6/M8zG230ihAYGA+c24l9jIcgv9SkhDh2AruIwtRw4OPL3RwdpUjyEGmAifDIDgjx1LY0BA3vp66IygBfO+BVcC2cWk4Utvv7Apwf3A9/yLe7dV7XuoDENQQ8VIfuFuQYC/tgZW6xOMeylqSKEG5E4ctGt7fFDeN4HIRpWLx2AGur2DOBzDuiNU2HacB/m/k=;O7eLW/ubGNNY1jQAUAyk9w=="
 ---

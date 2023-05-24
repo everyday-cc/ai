@@ -7,7 +7,7 @@ originalUrl: "https://www.news-leader.com/story/news/local/2023/05/21/with-ai-gr
 webUrl: "https://www.news-leader.com/story/news/local/2023/05/21/with-ai-growing-popular-heres-a-basic-guide-to-learn-more/70218643007/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Google Bard AI can now display images – here’s how it works"
+    excerpt: "What: Starting with English responses, Bard can now bring in images from Google Search, so you can get helpful responses with visuals. You can also ask Bard for images directly. Bard will show a source for each image."
+    publishedDateTime: 2023-05-24T12:36:00Z
+    webUrl: "https://bgr.com/tech/google-bard-ai-can-now-display-images-heres-how-it-works/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/05/google-io-2023-ai-47.jpg?quality=82&strip=all"
+        width: 1600
+        height: 893
+        isCached: true
 
 secured: "0gau7dPVftUCO0LsY9BDwtpyxmsZxYCQLHEFWn4VRAfaTmD3v4tPEGK6H/ys0tp0NgAxWPIoDiy6GoQ2PZV6YyBrSCYgIzsoCXBpLNRxz3MxUz6oAg6UWIuu5pUSAdPRIfd7N6oaYlhtzJFNPqA5+Ype3CDOdVNtJBz+DKj4BsBUjP6Udx69f/752nrcrTm/J2WD35ktI7Ht5bDNtMO9BoUkOC+Ad2LpEM7tBLiOrvLNJosDWiyiV1YaaGGQcNTX4FVBYaWJMZ451qkDLSgTiLstCjYzUHQxMwUoc/NCWTI3KF0ZzEv8PdfxUV+49J4f27PRMyP7pc3mg2hhuY8j42Mezd0ORedUiTMoJS5F8fw=;DRD0WyEcbyH+L5TcL358Cg=="
 ---

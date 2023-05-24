@@ -610,6 +610,38 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 49
+  - title: "Microsoft's Azure AI Studio will let customers build their own 'Copilot'"
+    excerpt: "Azure AI Studio will provide tools to businesses and developers to build a new capability within the Azure OpenAI Service to combine OpenAI chatbots with their own data to build a chat assistant or an app."
+    publishedDateTime: 2023-05-24T11:43:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/microsofts-azure-ai-studio-will-let-customers-build-their-own-copilot/articleshow/100476638.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 48
+  - title: "Habu and Microsoft Azure Collaborate to Provide Zero-Trust Data Clean Room Solutions"
+    excerpt: "This collaboration also allows Habu’s innovative CleanCompute capabilities to run on Azure confidential computing, providing a secure environment to run any containerized code for machine learning model training and inference. \"Data cleanrooms running on ..."
+    publishedDateTime: 2023-05-24T15:33:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Habu-and-Microsoft-Azure-Collaborate-to-Provide-Zero-Trust-Data-Clean-Room-Solutions-158806.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 47
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft Build 2023: Day 2 features sessions across AI copilot, Microsoft Azure, more"
+    excerpt: "After an impactful opening, day 2 of the developer-focused event features sessions across AI copilot experience, building cloud-native systems, utilizing Microsoft Azure to its full potential and more."
+    publishedDateTime: 2023-05-24T02:49:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/microsoft-build-2023-day-2-features-sessions-across-ai-copilot-microsoft-azure-more-71684896126319.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 41
   - title: "Microsoft wants Copilot everywhere, including in Windows 11"
     excerpt: "Build developer conference in Seattle, Microsoft is making a series of announcements. A significant portion of these involve copilots,"
     publishedDateTime: 2023-05-23T15:04:00Z

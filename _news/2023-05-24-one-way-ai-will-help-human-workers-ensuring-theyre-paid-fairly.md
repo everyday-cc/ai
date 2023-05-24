@@ -54,7 +54,7 @@ related:
     provider:
       name: KSL
       domain: ksl.com
-    quality: 34
+    quality: 36
     images:
       - url: "https://img.ksl.com/slc/2931/293134/29313479.jpeg?filter=kslv2/responsive_story_lg"
         width: 1228

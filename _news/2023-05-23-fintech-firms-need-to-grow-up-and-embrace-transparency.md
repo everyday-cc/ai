@@ -50,6 +50,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 46
+  - title: "Bill Gates says top AI agent poised to replace search, shopping businesses"
+    excerpt: "Bill Gates, Microsoft Corp's co-founder, on Monday said the technology race to win is development of the top artificially intelligent agent, poised to disrupt search-engine, productivity and online shopping businesses."
+    publishedDateTime: 2023-05-22T16:49:00Z
+    webUrl: "https://www.reuters.com/technology/bill-gates-says-top-ai-agent-poised-replace-search-shopping-businesses-2023-05-22/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 45
   - title: "Financial Inclusion 2.0: The role of fintech innovations"
     excerpt: "According to the Official Ghana Demand Side Survey 2021, Ghana has achieved its financial access target of 85% set by the National Financial Inclusion and Development Strategy 2018 - 2023 ahead of the end of the target year – 2023."
     publishedDateTime: 2023-05-24T07:36:00Z

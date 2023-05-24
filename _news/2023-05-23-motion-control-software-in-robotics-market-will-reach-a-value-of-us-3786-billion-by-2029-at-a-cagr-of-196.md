@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Global Cognitive Robotics Market Size To Worth USD 26.04 Billion By 2030 | CAGR Of 18.6%"
-    excerpt: "Some of the major players in the global cognitive robotics market include IBM Corporation, ABB Ltd., CognitiveScale Inc., Kuka AG, Blue River Technology, Intel Corporation, Omron Adept Technologies, Nvidia Corporation, Hanson Robotics Limited, Microsoft ..."
-    publishedDateTime: 2023-05-19T23:00:00Z
-    webUrl: "https://menafn.com/1106279412/Global-Cognitive-Robotics-Market-Size-To-Worth-USD-2604-Billion-By-2030-CAGR-Of-186"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 47
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?211889"
-        width: 444
-        height: 250
-        isCached: true
   - title: "Automotive Robotics Market Size to Grow USD 13.60 Billion by 2027 at a CAGR of 12.8% | Valuates Reports"
     excerpt: "The global automotive robotics market size was valued at USD 6.63 Billion in 2019 and is projected to reach USD 13.60 Billion by 2027, registering a CAGR of 12.8% from 2020 to 2027. Major factors driving the growth of the Automotive robotics market: The automotive robot market is predicted to develop as a result of rising automation in the sector and improvements in accuracy,"
     publishedDateTime: 2023-05-22T16:13:00Z

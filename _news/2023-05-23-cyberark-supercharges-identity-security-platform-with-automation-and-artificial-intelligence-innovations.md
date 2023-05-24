@@ -61,6 +61,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 63
+  - title: "AI in cybersecurity: Yesterday’s promise, today’s reality"
+    excerpt: "What changed that’s made AI in 2023 substantially more impactful than before? First, consumer exposure to emerging AI innovations has elevated the subject, increasing acceptance. From songwriting and composing images in ways previously only imagined to writing college-level papers,"
+    publishedDateTime: 2023-05-24T14:09:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/24/1073395/ai-in-cybersecurity-yesterdays-promise-todays-reality/"
+    ampWebUrl: "https://www.technologyreview.com/2023/05/24/1073395/ai-in-cybersecurity-yesterdays-promise-todays-reality/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/24/1073395/ai-in-cybersecurity-yesterdays-promise-todays-reality/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/IBM_lock_1200.png?w=1200"
+        width: 1200
+        height: 672
+        isCached: true
 
 secured: "VGH6rKI00uTJZ6BAEmOtI8+WwepRyAabKu+W2ndBMq4WWWyWq54JPeXKbbO53EJipsaZJqTHDkdOa+ZjfhFgwzFfaHNEPNy007eL2zd94gDekiDZ+4OIb2mqAqUC/39zglaxc5ABd1JYslCmGU6x+0r50y4BXmj/of+NQjpc+ZfUIyJPa6zgsAhjb6W/1/1wSMxyG0+TT32QFC0Mb1DZh3j7T385OUvM3PL8ANwUms7ZpwBl4TMlZJW0Gh1XiQjkeiqQr7wK7PoswO2hMZnSyv/moaNtXTwrn0vo/cHObIQbKWQO36ZMkFBOrHZ0LlRpzOw/H3t3jBGASUgIQVtv/+y9+5+Ogq6YZB7S/GnZovs=;ojfNQesekeqaCiMwcXfPBA=="
 ---

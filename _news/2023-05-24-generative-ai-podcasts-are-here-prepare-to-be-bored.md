@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/generative-ai-podcasts-boring/?utm_social-t
 ampWebUrl: "https://www.wired.com/story/generative-ai-podcasts-boring/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-ai-podcasts-boring/amp"
 type: article
-quality: 87
-heat: 107
+quality: 89
+heat: 119
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://media.wired.com/photos/646d44e7c3f2cf2daf39faa2/master/pass/Rise-Of-AI-Podcasts-Culture-1347076482.jpg"
@@ -53,7 +54,16 @@ related:
         width: 499
         height: 325
         isCached: true
+  - title: "Tech Giants Trigger Generative AI Investment Boom"
+    excerpt: "From Microsoft to Amazon, Google to Meta, everyone’s in on the artificial intelligence hype, and the money’s following suit."
+    publishedDateTime: 2023-05-24T13:59:00Z
+    webUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 19
 
-secured: "sBsZP7n3ukawWF+ec2KLJEbTUqHn7/tzPzFZz51IzUtlvozrHPEgRQL3i3SlPCiMaGcUtRgVhi9QWT1Qx/v5+eJ3sRkLXpjigzXEz+roGj5oRA4jf1hXYh8dqi4FJSpmLA3Arl75nl1Z653DTyF4HgevhCnT1El6FGOVwzaIE65J1TJ7JEnuUGrLD88qpo2NjMNdWpxCs/xWd4ZY1RCb0DuyClXFbFg7+ie23RPve3HIBWLUy3FD99chNRA0+wM18NXbx4/hPoF+qyC/N4FuQDasScHW2xjscCPOT6aLm6EbdI4aodoYR6HMNcLNOndFAeiP5lKmK/dDZ76SXUTVFXL10+7sDD3ssvM6jLPbOps=;Dct8mamLAG486HIELObfnQ=="
+secured: "HQX0yv8jB0v5bgOfyIoDQG20bk+nIQClT6Ft68BDY6AoVHPxJBtO6iZyNouyl86DwVFqmLzFM+LDZ+JOz74N0n/m19GoLg/IFBWnVv5WwtSLHuzqj0IrOhVPGCM3DUHeedfJoZeQoHnXKBRC9ztyMIbrNjVh+qNo43uE7oAAZZGFwbSRjA2r7IpgFRypiXrKMbRjliKX8Qx7ze82NcTV0YunOES/+x913u2J9/XJepWTcnwWuHZ7waEWnFM6WKxsMl1XTK1fq7hdYf0tb234raJchZ818Vm5qh+IuCEpI38dQ709jokqIdaH2yBH3y3CiTwBQbe7fh/OKiOZ3udaQeUwvR9LyLTyEXmrBG3qXjM=;IxzaAgmaP9GZWLeSrAQzOQ=="
 ---
 

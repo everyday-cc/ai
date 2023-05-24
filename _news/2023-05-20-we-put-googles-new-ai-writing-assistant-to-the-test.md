@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/googles-duet-ai-writing-assistant-revi
 webUrl: "https://www.wired.com/story/googles-duet-ai-writing-assistant-review-test/"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google employees bombard leaders with questions about the company's AI strategy, asking if it's become too AI-focused"
-    excerpt: "In a leaked recording, employees questioned Google CEO Sundar Pichai on the impact AI will have on the company's core business."
-    publishedDateTime: 2023-05-19T19:20:00Z
-    webUrl: "https://www.businessinsider.com/google-ai-strategy-questions-leaked-audio-tgif-2023-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 24
 
 secured: "qqTjZ9KKKNIpYINRakRDG44oCKfEIb6G719zyfAM22lCYEHDVw1Rj8tJEW+270ngr88rsJikr1hBOwsjwcaAn4amQx1Yclq5oK5zV5XYLtZN/nozrpcijz9h78S55lAtW5xyl+HLKTiOeqyboKvxJiGbPOiIhvavL/XUjlV2LRnFHyZAElC/PUJKT4Ai2sNLg8mv9A5tC1o8qGZEvccMxkEbw8ltxUFEZg1DfTCTKdTsIt/AiOTFLESYHBxBBXIS5LX3ubl11e2qXzeNvT9d+7GmtBD4vC/r5vpDSNGVSHUCmS2burPPYObq0ttGAhfN6qoy+I0ira6whgTQatAHm9q0z54vjpENfAqiYAutdumyKZ+Sv7EwduX9AdCWvIYFAnvZ54eCuVGzt935iK2aJhbTPdWHDG+GgeK6x585/ybMVbnqjeAGWkQG08nzXVn/6dL6z2aU4G2t6iFin0HdmFQIXQPz5nbd5BZwMZX9vJR4g+6KGCbjPXnhgDejIg3jy3/BgGafCEXXzI5wZPjZdw==;SSpZHYFUHgPe078Mb6WuFg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxbusiness.com/technology/bill-gates-says-best-ai-agent
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites.amp"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox Business
@@ -26,28 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Bill Gates says top AI agent poised to replace search, shopping businesses"
-    excerpt: "Bill Gates, Microsoft Corp's co-founder, on Monday said the technology race to win is development of the top artificially intelligent agent, poised to disrupt search-engine, productivity and online shopping businesses."
-    publishedDateTime: 2023-05-22T16:49:00Z
-    webUrl: "https://www.reuters.com/technology/bill-gates-says-top-ai-agent-poised-replace-search-shopping-businesses-2023-05-22/"
+  - title: "Bill Gates says an under-the-radar startup could be the biggest winner in the AI. Check out its free app, and you'll see why."
+    excerpt: "The Microsoft cofounder is betting that whichever company creates the most powerful personal agent will disrupt Amazon, Google Search, and more."
+    publishedDateTime: 2023-05-24T15:51:00Z
+    webUrl: "https://www.businessinsider.com/bill-gates-highlights-inflection-as-potential-ai-winner-2023-5"
+    ampWebUrl: "https://www.businessinsider.com/bill-gates-highlights-inflection-as-potential-ai-winner-2023-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bill-gates-highlights-inflection-as-potential-ai-winner-2023-5?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 45
-  - title: "Bill Gates Says AI Is Poised to Destroy Search Engines and Amazon"
-    excerpt: "Bill Gates is warning that AI assistants could soon make Google Search and Amazon obsolete by altering the behaviors of users online."
-    publishedDateTime: 2023-05-23T17:44:00Z
-    webUrl: "https://futurism.com/the-byte/bill-gates-ai-poised-destroy-search-engines-amazon"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 37
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
     images:
-      - url: "https://wp-assets.futurism.com/2023/05/bill-gates-ai-poised-destroy-search-engines-amazon.jpg"
+      - url: "https://i.insider.com/63dd01090a08ae0018a69f2b?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
 
 secured: "NUIUdPOa+L8GQ9YMlwvRyMG+58ZX3SPueiX30tG8GVdaod+Mp2lHLCs9qf/fIsSqgbCo6TG5U8T9Rgyq7p0Fo7qIwNUhFv90orjLhkQulZFcEiDzfp7EjEF0qazuM2H+IoIuVGZi30D2X9ZmqPJ/A8LvnY19MVBEIB57shwI/89i23ddU2IAwUOQbiiiM8ZAAujS1xyES/AOHlp89obcehwGT+d2MgJDZ3F+WRJEU9eZWcluIYRxJnfKu0KeyD/gIe8BRUKuEo1Fdvns/GokO5U1f+hGxFDzaKj44A7G3iVk1uBm+g/8YJXN9cZOPkwM9ogw3S9siEUSukbtY+fzaPEqazcY7RdvuX1FLMtKMAk6xrQAEp4oy/Ao2g6saY884HdDregCB9Kwl7v59Kt8bo96TsFvKU29SfNSLveXRDaZUhoagzUGninEDOjFDS67QqNilKflfb5EWi6N32I4Smsm0EDIllTzOzeARX0XzyaZynllwdshZSiDhXjviuq31YdDkt8rhQTQZnCfHy2Fww==;NKmmSdOcNb/K9We5ffk6Dw=="

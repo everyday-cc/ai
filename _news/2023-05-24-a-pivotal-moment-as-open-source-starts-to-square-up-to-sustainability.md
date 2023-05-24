@@ -9,8 +9,8 @@ ampWebUrl: "https://diginomica.com/pivotal-moment-open-source-starts-square-sust
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/pivotal-moment-open-source-starts-square-sustainability?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Diginomica
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Startup BeCause Advances Tourism Sustainability Practices with Strong Support from Angel Investors"
-    excerpt: "The startup's AI-powered sustainability hub simplifies, speeds up, and reduces costs for sustainability management in the tourism industry, freeing up resources and allowing for greater real-world impact. By eliminating 60% of the resources previously used ..."
-    publishedDateTime: 2023-05-19T21:40:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1323530&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 2
   - title: "AI Startup BeCause Advances Tourism Sustainability Practices with Strong Support from Angel Investors"
     excerpt: "The startup's AI-powered sustainability hub simplifies, speeds up, and reduces costs for sustainability management in the tourism industry, freeing up resources and allowing for greater real-world impact. By eliminating 60% of the resources previously used ..."
     publishedDateTime: 2023-05-22T18:37:00Z

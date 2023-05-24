@@ -60,6 +60,15 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Opus Secures $6.8M Series A funding towards AI-powered Training Technology for the Deskless Workforce of 110 Million Americans"
+    excerpt: "Opus, a training platform for businesses with a deskless workforce, today announced the close of a $6.8 million Series A funding round led by Stage 2 Capital. Existing investors including Gutter Capital,"
+    publishedDateTime: 2023-05-24T15:32:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/05/24/9820500.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "upe2oap3vW/B/YgqvY8WGmTkZTWbRZcNMVF/xJxThPj9Dgp49Oj0aYO1hIqM20MFvsBKDYX+RkZcgUjNrVzuft6OyhLl73wJHRvtniQEO/e4soOlzoNU2j846zaUl+x4CAfC+OhQ2+Y6svmZIiaufC/n4IyZ80aMbrNopLKqLR7/UCngdDRlA6qOFZlgegckQdPcGQ/J5Rz80/U+gZaWTaHkLlq1aC6BYaqcBrPpHDiL2/bYobvtuQf5ZbGf8UHv433F4wWYnrbFnufXoFT+Uwz6cRkkdMp8Vk7wToHEHgilA8rWEB5s58JNOgo1yF6HPFCzUfAkqgl9vcxLwKoGCqy2soZIcM0Ve88MsKKLZhGSi+zfhlTxQ4bJ6LXZ1jMXfELBa8EeAtL1VDm3xpjPtpNi05ajDe/9VLdVId3tdvSJizvTgGc6S1Ma57RmJNUnbEGW7eQB2t4knSgkda8eVbtbf2O9KaDPJdLnTQulxPjcLybn9yPTLC2N6ObcGZha9g8P2v2ehoNPiH9K4eZuhg==;vu2OzhBAaj/gZgHVXNfE/A=="
 ---

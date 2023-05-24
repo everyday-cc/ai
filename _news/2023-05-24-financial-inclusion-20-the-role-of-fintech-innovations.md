@@ -50,6 +50,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 46
+  - title: "Bill Gates says top AI agent poised to replace search, shopping businesses"
+    excerpt: "Bill Gates, Microsoft Corp's co-founder, on Monday said the technology race to win is development of the top artificially intelligent agent, poised to disrupt search-engine, productivity and online shopping businesses."
+    publishedDateTime: 2023-05-22T16:49:00Z
+    webUrl: "https://www.reuters.com/technology/bill-gates-says-top-ai-agent-poised-replace-search-shopping-businesses-2023-05-22/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 45
   - title: "Fintech firms need to grow up and embrace transparency"
     excerpt: "The days of taking shortcuts around regulation and lax fiscal discipline need to come to an end if the industry is going to reach its full potential."
     publishedDateTime: 2023-05-23T14:00:00Z

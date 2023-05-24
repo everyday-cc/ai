@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Facebook owner Meta starts final round of layoffs"
+    excerpt: "Meta Platforms Inc started carrying out the last batch of a three-part round of layoffs on Wednesday, according to a source familiar with the matter, as part of a plan announced in March to eliminate 10,"
+    publishedDateTime: 2023-05-24T15:16:00Z
+    webUrl: "https://www.aol.com/finance/facebook-owner-meta-starts-final-151607919.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://media.zenfs.com/en/reuters-finance.com/dd9b98d09bf65cdfc02f7a3bf7b36379"
+        width: 800
+        height: 534
+        isCached: true
   - title: "Meta makes it easier to apply deals in-feed for Facebook"
     excerpt: "The new promotional ads format enables users to click an ad to automatically claim an offer and be notified before the deal ends."
     publishedDateTime: 2023-05-22T14:51:00Z

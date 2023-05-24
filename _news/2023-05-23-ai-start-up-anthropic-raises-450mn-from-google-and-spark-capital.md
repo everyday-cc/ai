@@ -138,6 +138,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "AI startup raises $70 million to build humanoid robots"
+    excerpt: "Figure, a startup that wants to build general-purpose humanoid robots, has raised $70 million from investors led by Parkway Venture Capital in its first"
+    publishedDateTime: 2023-05-24T06:07:00Z
+    webUrl: "https://arynews.tv/figure-ai-humanoid-robots/"
+    type: article
+    provider:
+      name: ARY News Live
+      domain: arynews.tv
+    quality: 34
   - title: "Alphabet-backed AI startup Anthropic raises $450 million"
     excerpt: "The funding will support our continued work developing helpful, harmless, and honest AI systems — including Claude, an AI assistant that can perform a wide variety of conversational and text processing tasks,"
     publishedDateTime: 2023-05-23T11:37:00Z

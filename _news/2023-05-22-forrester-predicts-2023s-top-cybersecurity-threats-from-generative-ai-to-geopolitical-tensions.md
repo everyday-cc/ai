@@ -56,6 +56,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 63
+  - title: "AI in cybersecurity: Yesterday’s promise, today’s reality"
+    excerpt: "What changed that’s made AI in 2023 substantially more impactful than before? First, consumer exposure to emerging AI innovations has elevated the subject, increasing acceptance. From songwriting and composing images in ways previously only imagined to writing college-level papers,"
+    publishedDateTime: 2023-05-24T14:09:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/24/1073395/ai-in-cybersecurity-yesterdays-promise-todays-reality/"
+    ampWebUrl: "https://www.technologyreview.com/2023/05/24/1073395/ai-in-cybersecurity-yesterdays-promise-todays-reality/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/24/1073395/ai-in-cybersecurity-yesterdays-promise-todays-reality/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/IBM_lock_1200.png?w=1200"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "CyberArk Supercharges Identity Security Platform with Automation and Artificial Intelligence Innovations"
     excerpt: "CyberArk (NASDAQ: CYBR), the Identity Security company, today announced new products and features across the CyberArk Identity Security Platform, making it the most powerful platform of its kind. Inve"
     publishedDateTime: 2023-05-23T13:31:00Z

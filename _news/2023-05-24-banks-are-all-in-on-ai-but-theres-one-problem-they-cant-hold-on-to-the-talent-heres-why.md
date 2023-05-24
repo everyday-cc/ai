@@ -32,7 +32,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://media.wired.com/photos/646d44e7c3f2cf2daf39faa2/master/pass/Rise-Of-AI-Podcasts-Culture-1347076482.jpg"
         width: 2400
@@ -52,6 +52,15 @@ related:
         width: 499
         height: 325
         isCached: true
+  - title: "Tech Giants Trigger Generative AI Investment Boom"
+    excerpt: "From Microsoft to Amazon, Google to Meta, everyone’s in on the artificial intelligence hype, and the money’s following suit."
+    publishedDateTime: 2023-05-24T13:59:00Z
+    webUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 19
 
 secured: "tB2Y1L9V0CRDg3GsaRVOOGMvfmEnrp9u4HB5sFcAAOImjks8vUS6akzGrO1y8mgzkKn6TL8m5k5vn7vtKN3qcYkGamHpPSPvdCglsLnG1jjcaNIjMJ65+89NzGR4gFAwFOr9slBd5++2qoilXtajkfxtgJ+j3THjumyaMbZW9EPssOtCm2Wzxq/7FYUflzMjdHKdckzk99li3/CVBaujUIWxV58+Nx7FL2gg2c927LNL2ffTyXmPbEIKFI5gw7dhc2pipSuaSv/vpNbxZbAl8ro1Um1BlM7Tm30O6QwThAPejc2/piZrqgAoBwIiZCln6DyZ/Tq2bP3Optv6m/O8VVOPhvvXTl5qyEU4cl2OWUAxAtIpruflyfoKjdQzhcCQsg/l2OAPkH1F2AIs8vbF9u+EJrcoLLzsecPcI6QtDt3h/iVHH3UtI+n7YMv0X2ajjgjKGAlESg33leFp5ggwnNEA+bqjdswDsb2q+Fo22T2xW8S+PjcwlEqKa33vvzO7f+wA+jXZnhApjhr5CBGJPA==;F8sm00UJx4Rv2/FuyS8Teg=="
 ---

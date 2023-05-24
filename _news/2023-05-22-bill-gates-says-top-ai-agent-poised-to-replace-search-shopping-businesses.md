@@ -22,36 +22,77 @@ topics:
   - AI
 
 related:
-  - title: "Bill Gates says the best AI agent will replace search and shopping websites"
-    excerpt: "Speaking at AI Forward 2023, an event in San Francisco hosted by Goldman Sachs Group Inc and SV Angel, Gates said it would disappoint him if Microsoft were not in the running, though there was a 50% chance the top player to emerge will be a startup."
-    publishedDateTime: 2023-05-23T00:13:00Z
-    webUrl: "https://www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites"
-    ampWebUrl: "https://www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites.amp"
+  - title: "Fintech Ramp Launches AI-enhanced Tools to Help Businesses Streamline Operations"
+    excerpt: "Ramp, the finance automation platform, announced Ramp Intelligence: a set of tools in financial services, driven by AI, to solve customer issues."
+    publishedDateTime: 2023-05-20T14:38:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 55
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 54
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/709c3d7f-faa0-45f0-a558-1dcc847fa6c5/ad4f37e6-cde5-4060-b3cf-7af0b25dedfb/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2013/05/Tools.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "Bill Gates Says AI Is Poised to Destroy Search Engines and Amazon"
-    excerpt: "Bill Gates is warning that AI assistants could soon make Google Search and Amazon obsolete by altering the behaviors of users online."
-    publishedDateTime: 2023-05-23T17:44:00Z
-    webUrl: "https://futurism.com/the-byte/bill-gates-ai-poised-destroy-search-engines-amazon"
+  - title: "FlowX.ai raises $35M for its AI-based approach to application integration"
+    excerpt: "“Digital transformation” and AI remain very buzzy terms in the world of enterprise software, and today a startup operating in Romania that’s built a platform that taps into both concepts, and is seeing user traction in the financial sector, has ..."
+    publishedDateTime: 2023-05-22T12:03:00Z
+    webUrl: "https://techcrunch.com/2023/05/22/romanias-flowx-ai-raises-35m-for-its-ai-based-approach-to-application-integration/"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 37
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 46
+  - title: "Fintech firms need to grow up and embrace transparency"
+    excerpt: "The days of taking shortcuts around regulation and lax fiscal discipline need to come to an end if the industry is going to reach its full potential."
+    publishedDateTime: 2023-05-23T14:00:00Z
+    webUrl: "https://www.americanbanker.com/opinion/fintech-firms-need-to-grow-up-and-embrace-transparency"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 24
     images:
-      - url: "https://wp-assets.futurism.com/2023/05/bill-gates-ai-poised-destroy-search-engines-amazon.jpg"
+      - url: "https://arizent.brightspotcdn.com/dims4/default/6982c1c/2147483647/strip/true/crop/7587x3983+0+142/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F66%2F90%2F04940e4943fa9505cd3f219f382f%2Fadobestock-282379113.jpeg"
         width: 1200
         height: 630
         isCached: true
+  - title: "Financial Inclusion 2.0: The role of fintech innovations"
+    excerpt: "According to the Official Ghana Demand Side Survey 2021, Ghana has achieved its financial access target of 85% set by the National Financial Inclusion and Development Strategy 2018 - 2023 ahead of the end of the target year – 2023."
+    publishedDateTime: 2023-05-24T07:36:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Financial-Inclusion-2-0-The-role-of-fintech-innovations-1772666"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 24
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/461/46142018.jpg"
+        width: 600
+        height: 600
+        isCached: true
+  - title: "What impact will AI have on FinTech in 2023?"
+    excerpt: "Artificial intelligence (AI) is emerging as one of the key driving forces behind financial technology, as in many other industries recently. It’s a defining"
+    publishedDateTime: 2023-05-22T17:20:00Z
+    webUrl: "https://www.businesslancashire.co.uk/2023/05/22/what-impact-will-ai-have-on-fintech-in-2023/"
+    type: article
+    provider:
+      name: https//businesslancashire.co.uk
+      domain: businesslancashire.co.uk
+    quality: 19
+  - title: "Top 5 Startups Leveraging the Power of AI to Revolutionize the Fintech Industry"
+    excerpt: "Here is the rundown of the top 5 Fintech startups unleashing the power of AI to bring transformation in the industry. Read here everything."
+    publishedDateTime: 2023-05-23T06:18:00Z
+    webUrl: "https://www.ciol.com/top-5-startups-leveraging-the-power-of-ai-to-revolutionize-the-fintech-industry/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 15
 
 secured: "/WGGugqqtHbyeGxHciVEMKfnv21iUevv8Wxaps+UcT4lf94re9lYdS7DIGsuow6uHpm+QxyDNXmgm5WMe5dlWcB2YS0ZxzAgEqV9Z1bUyNPS7qlKFvthfG5Lb1cJZmP+ZiPAtBsi/Ac81EQ4k72V8wBkupSPNg71+f5sOXvtilkv1QigGO/OEbainAYR1ob7GmIB2++Q/WeoXNndPmsXTWsMJ9+etxjtOIPhEpH0JsxHkeggO4xtSMzwN8WmdBG37G1uvEfrMBcHr2+TZy4CRLz7RErduDqxGYMR22yrzOLXmPbLmRL7a1sXXO50ZrUA3LR9clvxHjsg3wiaSCBSgJ8RMhobIHFQHeRsCfrwpQ7LgyBfZXmfu+V7W7Y74x6Lcrwwg+bKkfMRXsEwZSI2dg+DGnd5foEbUN45bQfaS6GtRPiPq0b0IWR2EW8D9a6Tevdtv8PUd0YWYavo58UojIRPdR7hIgJD7NYhL1q1D6eT3UAzqWkqSLTggOQHVkpbKGhP5hnLdqjO1Av+lun+5g==;C4lMLC2apx0/CY+ukDXsLA=="
 ---

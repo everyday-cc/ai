@@ -35,22 +35,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Waymo, Uber set aside past rift over self-driving car technology to team up on robotaxis in Phoenix"
-    excerpt: "Self-driving car pioneer Waymo is teaming up with ride-hailing leader Uber in the Phoenix area to transport passengers and deliver food in robotic cars that triggered a bitter technological dispute be"
-    publishedDateTime: 2023-05-23T12:23:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/waymo-uber-set-aside-past-rift-driving-car-99534972"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/waymo-uber-set-aside-past-rift-driving-car-99534972"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/waymo-uber-set-aside-past-rift-driving-car-99534972"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 45
-    images:
-      - url: "https://s.abcnews.com/images/Business/wirestory_9ddd97af9d5bb1bfe8c7c8f522abafa9_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Despite Bruising Court Battle, Uber to Offer Self-Driving Rides From Rival Waymo"
     excerpt: "The two companies were once locked in a high-profile legal battle over trade secrets. But now Uber is going to host Waymo rides through its own app for users in Phoenix."
     publishedDateTime: 2023-05-23T19:11:00Z
@@ -88,6 +72,15 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Waymo, Uber set aside past rift over self-driving car technology to team up on robotaxis in Phoenix"
+    excerpt: "- Phoenix Mayor Kate Gallego arrives in a Waymo self-driving vehicle on Dec. 16, 2022, at the Sky Harbor International Airport Sky Train facility in Phoenix. Self-driving car"
+    publishedDateTime: 2023-05-23T16:05:00Z
+    webUrl: "https://www.chron.com/business/article/waymo-uber-set-aside-past-rift-over-self-driving-18114056.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 5
 
 secured: "xkslP9JKG3rKLssKuYe0fB2RCTTZyF6ofnMhHzSIKH+WmhX1s9BFN7DyJIE/cLx1mWHY6m458OKLgxSuGhPiJKix3nlqo28uX9URLn4DYCzCj7t80IxO0nNLMhuYEWFCGBvc5uPHFq0o/E7VT497yswIvAWtUn+m54pRmfVpBq0I9zHMWVNnRLRQifw86zaIzye1wfAxueCEmuYFc7UiOFROWXbhcPylGSP1N0d+bseNznR4ECUxWiUpQ0HyXRrNlOmgoptyT+38sJVRWINcPK95RHULyx80qKPNjNEcRQjluxiK7VLufarhcKsr0uCArob01EWDZLoGCo2J3Uc4X70GDwYf2uVNQoh0qbPNr7FmOmsWKDD1i+5tRzBNkuS/kjt9//91Lsw4xwfEe9qrwmkZ7W5KRNF8VgASS/2waO/Gnclk8F7JXLiWD5HUpWduL8ZSYDZ4p3Y60k8IfjF/mbmTidVXIPT00i+CZrY6G+dsa27dknsEkzUs67PR8XUcfKngBzYoiNT/fOMNtYF1DA==;jviAS9HBZsMsbO3Kn3Ljiw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/never-use-ai-americans-detail-much-use-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives.amp"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Opus Secures $6.8M Series A funding towards AI-powered Training Technology for the Deskless Workforce of 110 Million Americans"
+    excerpt: "Opus, a training platform for businesses with a deskless workforce, today announced the close of a $6.8 million Series A funding round led by Stage 2 Capital. Existing investors including Gutter Capital,"
+    publishedDateTime: 2023-05-24T15:32:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/05/24/9820500.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "YcB5ya51WIOoq680bJARu3HHaJyoDwI1+79tWazeiessBqblH6yTIoLyVPr5V8TIMjJLsYb0Bsn0QMJZSY7cdBZKbxLr1DZnVOdJVSQTf2iNcKSB+KVtPww5DeAYPLBxewhuyccqvShL2GDJSoVlF0jobPru4i6FII3mNu3bAWfIj38T1J8L/2qiAcuLYNULSz9kmwhQFyqMkwesMIZhR8yJhqlMvA51oU55ygPIV60t4vYiN/K7aXNfBl3X7mdifPiLrI0c9YirSXtxj6HqXvhuXzxd68WSEDvVe8TbsMlTJ40QRx02OKUfXFn8ToOeqf2aAc/bY10jps2WeiWH+fQhTCaCC/ricV5UHQS5X8ApU76n7sGO/CoJ0OoaZGFMHvAzjCZi9Af0lon41OKDOdrIOAMVeLTjQRaTU90fHAxtLpG75hu9LHAm0c2go6AidCNoRa4+OtAhnG8MXjzENNRQJ0fr+3U/gjUQaKnAWlp6R1cryn+SSfnpN4IS5Vz38DZjwhSXP6q/asRg+074gg==;FAStjsEcaiOW9wwSw5o9ew=="
 ---
