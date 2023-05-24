@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Meta Unveils AI Chips"
-    excerpt: "Meta (NASDAQ:META) has built custom computer chips to help with its artificial intelligence and video-processing tasks and is talking about them in public for the first time. The social networking giant disclosed its internal silicon chip projects"
-    publishedDateTime: 2023-05-19T13:58:00Z
-    webUrl: "https://www.baystreet.ca/techinsider/3620/Meta-Unveils-AI-Chips"
-    type: article
-    provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 54
-    images:
-      - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/facebook.jpg"
-        width: 845
-        height: 396
-        isCached: true
   - title: "Meta starting to built its own AI chips"
     excerpt: "Meta Training and Inference Accelerator can't play Crystalis yetMeta is building its first custom chip specifically for running AI models.  CEO Mark Zuckerberg recently said the company sees \"an opportunity to introduce AI agents to billions of people in ways that will be useful"
     publishedDateTime: 2023-05-22T08:50:00Z

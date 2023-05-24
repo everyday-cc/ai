@@ -28,37 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI That’s Based On The Murky Devious Dark Web Might Ironically Be The Best Thing Ever, Says AI Ethics And AI Law"
-    excerpt: "Generative AI That’s Based On The Murky Devious Dark Web Might Ironically Be The Best Thing Ever, Says AI Ethics And AI Law"
-    publishedDateTime: 2023-05-21T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/amp/"
+  - title: "OpenAI-backed robotics firm 1X deploys the world’s first AI robot in the workforce"
+    excerpt: "Robotics start-up 1X which is backed by Sam Altman’s OpenAI has overtaken Elon Musk’s Tesla in deploying the first AI robot in the workforce. The robot named EVE has been reportedly integrated as a security guard in an Android manufacturing site. The robot is reportedly redefining surveillance and security."
+    publishedDateTime: 2023-05-24T07:24:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/openai-backed-robotics-firm-1x-deploys-the-worlds-first-ai-robot-eve-8626164/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/openai-backed-robotics-firm-1x-deploys-the-worlds-first-ai-robot-eve-8626164/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/openai-backed-robotics-firm-1x-deploys-the-worlds-first-ai-robot-eve-8626164/lite/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 83
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6469acbdc2f130c6c676b6ea/0x0.jpg?format=jpg&width=1200"
+      - url: "https://images.indianexpress.com/2023/05/1X-Eve.jpg"
         width: 1200
-        height: 800
-        isCached: true
-  - title: "Generative AI Is Stoking Medical Malpractice Concerns For Medical Doctors In These Unexpected Ways, Says AI Ethics And AI Law"
-    excerpt: "Generative AI Is Stoking Medical Malpractice Concerns For Medical Doctors In These Unexpected Ways, Says AI Ethics And AI Law"
-    publishedDateTime: 2023-05-23T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/23/generative-ai-is-stoking-medical-malpractice-concerns-for-medical-doctors-in-these-unexpected-ways-says-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/23/generative-ai-is-stoking-medical-malpractice-concerns-for-medical-doctors-in-these-unexpected-ways-says-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/23/generative-ai-is-stoking-medical-malpractice-concerns-for-medical-doctors-in-these-unexpected-ways-says-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646aa3405bb188ec4e00fd8a/0x0.jpg?format=jpg&crop=3285,1851,x2442,y0,safe&width=1200"
-        width: 1200
-        height: 676
+        height: 667
         isCached: true
 
 secured: "XYEtZlROe7PXTKmE6cBBvo8MnFBh22egUh2oAgI7S3pQXTKLL5N/l4FS2WL37qZvAuQIuaLsefPmp2Bgpxa0DhFwwaOFAOKimOqZb62k7EKSvZwuEMaKCKAXxt6u8X+jyYa7bxzMpDYGh55a4axqq/gHwy1mn/zwgZ4Hcm5Xm/bosTOti0TgZO7xUkVs3XeUIz641y9ccymHxl0N570HqCgyqVMaW1TALzUVJ/UwDAkJ5DVT6QfINgnxP/0aNCOWuLaYpecTBDZVzMmYBsEtSNkBkRQqbtFPihwDeLIeNXmcFQgNJ87zjY+7HuKhq7nu+m+B6ZA9W+U4JmSBOUMChKdYCIYKCsVW/3qzpWG+Seo=;T8paWUU3R8TbnXWI4OQ3tg=="

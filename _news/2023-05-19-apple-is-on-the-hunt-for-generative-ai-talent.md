@@ -62,15 +62,22 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Generative AI For Business Leaders 101"
-    excerpt: "AI stands for \"artificial intelligence,\" which is the simulation of human intelligence in machines to perform tasks that typically require human intelligence, such as decision making, perception and language translation. AI is powered by various techniques ..."
-    publishedDateTime: 2023-05-19T14:05:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/generative-ai-for-business-leaders-101/"
+  - title: "IT services firms leverage generative AI capabilities for clients"
+    excerpt: "Infosys Topaz leverages Infosys applied AI framework to build an AI-first core that empowers people to deliver cognitive solutions that accelerate value-creation."
+    publishedDateTime: 2023-05-24T06:08:00Z
+    webUrl: "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/5/15/w600X390/Artificial_Intelligence.png"
+        width: 600
+        height: 390
+        isCached: true
   - title: "What does generative AI mean for health care? We asked the experts"
     excerpt: "But many researchers in the field strike a much more optimistic tone when it comes to the technology and its potential in health care. Thomas Fuchs, who chairs the Department of Artificial Intelligence and Human Health at Mount Sinai in New York ..."
     publishedDateTime: 2023-05-23T08:33:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.aljazeera.com/amp/news/2023/5/23/governments-race-to-reg
 cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2023/5/23/governments-race-to-regulate-artificial-intelligence-tools"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Al Jazeera English
@@ -26,75 +26,36 @@ images:
     isCached: true
 
 related:
-  - title: "China is ramping up efforts to drive AI development"
-    excerpt: "Tagging artificial intelligence as an important focus for the country, the Chinese government plans to step up efforts in research and development, including the establishment of regional AI industrial hubs."
-    publishedDateTime: 2023-05-19T14:27:00Z
-    webUrl: "https://www.zdnet.com/article/china-is-ramping-up-efforts-to-drive-ai-development/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/china-is-ramping-up-efforts-to-drive-ai-development/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-is-ramping-up-efforts-to-drive-ai-development/"
+  - title: "OpenAI's Altman Wants International Body Akin To Nuclear Watchdog IAEA To Regulate AI"
+    excerpt: "Sam Altman, CEO of the start-up behind the AI chatbot ChatGPT, agreed with members of the Senate on Tuesday on the need to regulate increasingly powerful AI technology. https://t.co/iFjgQBBdwY pic.twitter.com/NNXJykGJMu"
+    publishedDateTime: 2023-05-23T08:32:00Z
+    webUrl: "https://www.ibtimes.com/openais-altman-wants-international-body-akin-nuclear-watchdog-iaea-regulate-ai-3695000"
+    ampWebUrl: "https://www.ibtimes.com/openais-altman-wants-international-body-akin-nuclear-watchdog-iaea-regulate-ai-3695000?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/openais-altman-wants-international-body-akin-nuclear-watchdog-iaea-regulate-ai-3695000?amp=1"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 52
     images:
-      - url: "https://www.zdnet.com/a/img/resize/f3aece405a9b8b745b147b29ab5e92e4c58801c4/2023/05/19/ec3c66b3-fdd5-49c1-b530-039359f1add7/gettyimages-1250716865.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://d.ibtimes.com/en/full/4438722/illustration-shows-openai-chatgpt-logos.jpg"
+        width: 1200
+        height: 814
+        isCached: true
+  - title: "Who Is Going to Regulate AI?"
+    excerpt: "As businesses and governments race to make sense of the impacts of new, powerful AI systems, governments around the world are jostling to take the lead on regulation. Business leaders should be focused on who is likely to win this race,"
+    publishedDateTime: 2023-05-19T17:13:00Z
+    webUrl: "https://hbr.org/2023/05/who-is-going-to-regulate-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/05/May23_28_5389503.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple is apparently doubling down on machine learning, generative AI efforts: All we know so far"
-    excerpt: "While Apple did not announce any major AI-related initiative in its recent earnings report, the company however did highlight the importance of AI in its future plans."
-    publishedDateTime: 2023-05-22T06:10:00Z
-    webUrl: "https://www.financialexpress.com/life/technology-apple-is-apparently-doubling-down-on-machine-learning-generative-ai-efforts-all-we-know-so-far-3096934/"
-    ampWebUrl: "https://www.financialexpress.com/life/technology-apple-is-apparently-doubling-down-on-machine-learning-generative-ai-efforts-all-we-know-so-far-3096934/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-apple-is-apparently-doubling-down-on-machine-learning-generative-ai-efforts-all-we-know-so-far-3096934/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 61
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/apple-resized-2.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Meta is all in on AI as new chip & supercomputer are in development"
-    excerpt: "Meta, formerly Facebook, has pivoted hard into AI from the metaverse. The company now plans to develop its own chips and supercomputer for AI research."
-    publishedDateTime: 2023-05-19T14:23:00Z
-    webUrl: "https://www.dexerto.com/tech/meta-is-all-in-on-ai-as-new-chip-supercomputer-are-in-development-2150770/"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 56
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/19/Firefly-an-ai-with-interconnected-neurons-that-is-in-a-server-room-blurred-in-the-background-and-has.jpg"
-        width: 1792
-        height: 1024
-        isCached: true
-  - title: "Infineon announces two EU-wide research projects for GaN and AI developments"
-    excerpt: "According to Infineon, the research extends from individual chip elements, high-performance GaN modules ... to Sustainability and Industry 5.0), is being conducted on smart AI technologies for resource-efficient manufacturing in Europe, pooling together ..."
-    publishedDateTime: 2023-05-23T03:23:00Z
-    webUrl: "https://www.digitimes.com/news/a20230523VL203/ai-gan-infineon.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 36
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230523vl203_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Apple Ramps Up Hiring of Generative AI Experts"
-    excerpt: "Apple is hiring for at least a dozen new experts in generative artificial intelligence amid rumors that the company is stepping up its work on AI."
-    publishedDateTime: 2023-05-22T12:51:00Z
-    webUrl: "https://www.macrumors.com/2023/05/22/apple-ramps-up-hiring-of-ai-experts/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 17
 
 secured: "MrB07r+H++wlfE1yk/QfLK5qRarBsCKyNL9r/p0TvPo0mwqvUFgNTuvpLVITm3iU5bMRbVSyyMlL0SOixlOSbRJUA59B5JA4VitzWALZxvwHiXasyHMBrB+qeSUwbC6ck0gW+sQ+wLT/4cF3FVV5CL0QEwriFTNdWNRZzOEivLPK65M+MyTktjSSo4j/OU9wXHeBQq1m75VxOWG/W2jzj5FjZwwxcR9ehL7BgXBn9KGmjuW66dhPzDZHSqkOKkr+uehDNAcKfXuS4BZ9PSDbcrlr2rNtZdbC3sIZUgy5h+OhFmdwQu0wIfzL2fj64rQTbKyxYX5Ov8ADITAbP8a85VA3fkGPT0kvWRbUxmRI4e4=;MMMQBuxNM+xz5MGZuTygQg=="
 ---

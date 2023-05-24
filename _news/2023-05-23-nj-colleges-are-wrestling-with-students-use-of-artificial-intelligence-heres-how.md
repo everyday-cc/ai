@@ -8,8 +8,8 @@ webUrl: "https://www.nj.com/education/2023/05/nj-colleges-wrestling-with-student
 ampWebUrl: "https://www.nj.com/education/2023/05/nj-colleges-wrestling-with-students-use-of-artificial-intelligence-heres-what-theyre-doing.html?outputType=amp"
 cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/education/2023/05/nj-colleges-wrestling-with-students-use-of-artificial-intelligence-heres-what-theyre-doing.html?outputType=amp"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UYRSQLLO2BC2LLYG3WV3J64THY.jpg"

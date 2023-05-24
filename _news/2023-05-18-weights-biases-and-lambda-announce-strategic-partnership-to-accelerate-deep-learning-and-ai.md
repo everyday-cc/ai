@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Weights & Biases and Lambda Announce Strategic Partnership to Accelerate Deep Learning and AI"
-excerpt: "Weights & Biases and Lambda have announced a strategic partnership to bring the infrastructure and MLOps tools required"
-publishedDateTime: 2023-05-18T11:52:00Z
-originalUrl: "https://www.datanami.com/this-just-in/weights-biases-and-lambda-announce-strategic-partnership-to-accelerate-deep-learning-and-ai/"
-webUrl: "https://www.datanami.com/this-just-in/weights-biases-and-lambda-announce-strategic-partnership-to-accelerate-deep-learning-and-ai/"
+excerpt: "Weights & Biases and Lambda today announced a strategic partnership to bring the infrastructure and MLOps tools required for AI and deep learning workloads to enterprises of all sizes. The Weights & Biases MLOps platform integrates with NVIDIA-accelerated systems provided by Lambda,"
+publishedDateTime: 2023-05-17T17:25:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-weights-biases-lambda-announce-strategic-partnership-accelerate-deep-/2023/05/17/9816460.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-weights-biases-lambda-announce-strategic-partnership-accelerate-deep-/2023/05/17/9816460.htm"
 type: article
-quality: 25
-heat: 25
-published: false
 
 provider:
-  name: datanami.com
-  domain: datanami.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI Hardware
-  - AI
   - Machine Learning
+  - AI
 
-secured: "j/0/lxKNInwkeozWgMWZMcrjrhVgKy+Vw//9FyVSCmVf1jvbRQB6s3sfL69VC6dWP+R2a/RdGH+7R/XHVD2Y0DKDEICYnFlpHzkH1pZ0VgE3TlicLZyocwjCuBiBWsyb00mRUtjTWia8I7neVSgTT0+Bb+NXnSFgqZ/UrLjz70a47EPMOPdGMnEV9dnlAo3vynSSwxzzJyeECmnFVQ5pAjVYaCk5Qy3oPUbcqvl7NmT/TAH9vV6Ob9yzEWk6PLG3VScDEy3OkFuEttShakAcaYrx7b6+2qhchkjVmDGNDsZViWfcdPdz5xbct+MUmRkuposA3JA8yrJ0U63zwLXICWCjJSB3g+SY5LFlBTeD1LA=;BXxcvkOVaGMnn9AMjb3FYw=="
+secured: "ttHloIG0jcEIszYgqD4oPUARdUxeJeR1l4JubQSwcb+DHs30QARLik38TZ2wQNr0lsMABMcEP+gYZgEXKN3oY2TZuJ+cY8O62bWzz80+ILNTT6H/sr3d9dIC1CJxhNaIzfQsU9XmDj1lm68kUioyaCtcXh1YLTzEd4KHVoRuX4S5vfHJpyk2eFnm578I64uQwlUiDYKyYsGRHl6xtyS6mSCJGMHYIq3QY7ttCtrPpyMIPWahfer+I36ezi3mzq2BeFfNMHy78zj8+iOIGDk5ZqwjnUeBrEUTPq/B/Zw8+1v4zGYarx8LgbyOYYNNMMYO0xKQh7s89Bunf/UfznwLkVXb9KECDAbPV7TSCdA/KD8=;CczE1joZZeZx+bhnMwIHjA=="
 ---
 

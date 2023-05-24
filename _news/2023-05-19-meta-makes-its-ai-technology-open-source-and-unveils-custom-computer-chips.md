@@ -39,15 +39,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Meta is working on its own chip, data center design for AI workloads"
-    excerpt: "The Facebook parent said that it is working on a new AI-optimized data center design and the second phase of its 16,000 GPU supercomputer for AI research."
-    publishedDateTime: 2023-05-19T13:37:00Z
-    webUrl: "https://www.networkworld.com/article/3696935/meta-is-working-on-its-own-chip-data-center-design-for-ai-workloads.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 38
 
 secured: "1BC0mYf/PQBNYYfa8Q8sZLlFvx4/rO4F6bMOo7cPFJ9zbQ4MPlmhT0M6r4tGm79v9nxjsccza/CKxlc1uGjoZMvqTYc604Vis+Hm0vw+c/IKKCXp+IU7fnzT/IO90WVVHD5grKeW+eGJQHUGGPld2vY/OIzqC/oDu/uayvOrD5udvKwfDd8aiXcR9jtqThCOV7s+K8G8LIhQ1bk6AF1tS7g+oKsvJ8ZK6qDEP7nI6IqokMV93z3NRB1cYHxgN6NZ4VhTpSDLYIuUBhk/Em0kuW33F3tHpYDwh3Q0ZaWyLQ/TQuJBmwJiFxRXjZW/iMcB54sNRNBHbe+mDuvQSLtBoWwsBRyJkNVerdRm4zmGZO4=;M7skY83XRxFSYzEyE/UZKQ=="
 ---

@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "'I would never use AI': Americans detail how much they use artificial intelligence in their daily lives"
+    excerpt: "Texas residents share how familiar they are with artificial intelligence on a scale from one to 10 and detailed how much they use it each day."
+    publishedDateTime: 2023-05-24T06:00:00Z
+    webUrl: "https://www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives"
+    ampWebUrl: "https://www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 86
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1233101-dd3e-4fa5-b48e-450d89af5c6d/fa4dd4b4-d455-47e2-8a43-a3f5c7da6add/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'Absolutely not': Americans weigh in on whether Kamala Harris can lead on AI after Elon Musk mocked her"
     excerpt: "Several Washington. D.C. residents said they don't trust Vice President Kamala Harris to lead the White House's response to artificial intelligence."
     publishedDateTime: 2023-05-21T06:00:00Z

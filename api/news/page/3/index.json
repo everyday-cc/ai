@@ -2,6 +2,315 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-22-meta-fined-record-13-billion-by-eu-over-handling-of-facebook-user-data.md",
+      "title": "Meta fined record $1.3 billion by EU over handling of Facebook user data",
+      "excerpt": "European Union data regulators have hit Meta with a $1.3 billion fine (about €1.2 billion) and ordered the company to cease transferring EU Facebook user data to the US by October. The fine exceeds Amazon's $886 million fine from the EU for data protection violations in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/",
+      "originalUrl": "https://www.zdnet.com/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/51f5cfda5dbc9796f18e715d4ae239f452ffb46a/2023/05/22/84c5ed15-7609-42d0-bd54-9a07cb0e23c1/gettyimages-1244644879.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/",
+      "publishedDateTime": "2023-05-22T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-how-leaders-could-use-ai-or-even-agi-to-make-better-decisions.md",
+      "title": "How Leaders Could Use AI – Or Even AGI – To Make Better Decisions",
+      "excerpt": "Most people continue to miss the point: the real power of AI, and even AGI, lies not in its ability to replace human decision making, but in its ability to augment it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brycehoffman/2023/05/22/how-leaders-could-use-ai--or-even-agi--to-make-better-decisions/",
+      "originalUrl": "https://www.forbes.com/sites/brycehoffman/2023/05/22/how-leaders-could-use-ai--or-even-agi--to-make-better-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/639618d36b2bd6c01b620ebf/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brycehoffman/2023/05/22/how-leaders-could-use-ai--or-even-agi--to-make-better-decisions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brycehoffman/2023/05/22/how-leaders-could-use-ai--or-even-agi--to-make-better-decisions/amp/",
+      "publishedDateTime": "2023-05-22T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-chatgpt-and-generative-ai-our-guide-to-2023s-most-talked-about-technology.md",
+      "title": "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology",
+      "excerpt": "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatgpt-ai-guide-to-most-talked-about-technology-2023-may",
+      "originalUrl": "https://www.businessinsider.com/chatgpt-ai-guide-to-most-talked-about-technology-2023-may",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg",
+          "width": 470,
+          "height": 352,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chatgpt-ai-guide-to-most-talked-about-technology-2023-may?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-guide-to-most-talked-about-technology-2023-may?amp",
+      "publishedDateTime": "2023-05-22T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-intel-gives-details-on-future-ai-chips-as-it-shifts-strategy.md",
+      "title": "Intel gives details on future AI chips as it shifts strategy",
+      "excerpt": "A smartphone with a displayed Intel logo is placed on a computer motherboard in this illustration taken March 6, 2023. REUTERS/Dado Ruvic/Illustration/",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/news/picture/intel-gives-details-on-future-ai-chips-a-idUSKBN2XD1A3",
+      "originalUrl": "https://www.reuters.com/news/picture/intel-gives-details-on-future-ai-chips-a-idUSKBN2XD1A3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20230522&t=2&i=1633467317&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEJ4L0M3",
+          "width": 810,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-22T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-get-past-the-filter-artificial-intelligence-in-hiring.md",
+      "title": "Get Past The Filter: Artificial Intelligence In Hiring",
+      "excerpt": "Most mid- to large-sized companies use resume filters or ATS. With hundreds or thousands of resumes for a job, there is simply no way a human can go through them all.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/22/get-past-the-filter-artificial-intelligence-in-hiring/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/22/get-past-the-filter-artificial-intelligence-in-hiring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646b8fa307a03e9b39bb3718/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/22/get-past-the-filter-artificial-intelligence-in-hiring/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/22/get-past-the-filter-artificial-intelligence-in-hiring/amp/",
+      "publishedDateTime": "2023-05-22T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-helping-more-people-stay-safe-with-flood-forecasting.md",
+      "title": "Helping more people stay safe with flood forecasting",
+      "excerpt": "AI-powered Flood Hub is expanding to nearly 80 countries worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/sustainability/flood-hub-ai-flood-forecasting-more-countries/",
+      "originalUrl": "https://blog.google/outreach-initiatives/sustainability/flood-hub-ai-flood-forecasting-more-countries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/_Google_Flood_Hub_-_Hero_image.width-1300.png",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/sustainability/flood-hub-ai-flood-forecasting-more-countries/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/sustainability/flood-hub-ai-flood-forecasting-more-countries/amp/",
+      "publishedDateTime": "2023-05-22T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-22-how-to-use-vpn-with-a-vpc-hub-and-spoke-architecture.md",
       "title": "How to use VPN with a VPC hub-and-spoke architecture",
       "excerpt": "How to use a VPC VPN Gateway to connect an on-premises (enterprise) network to the IBM Cloud VPC in a transit hub-and-spoke architecture.\nThe post How to use VPN with a VPC hub-and-spoke architecture appeared first on IBM Blog.\n",
@@ -239,7 +548,7 @@
       "originalUrl": "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -617,7 +926,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-generative-ais-impact-on-digital-advertising-methodology-is-evolving/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -668,7 +977,7 @@
       "originalUrl": "https://www.cnet.com/tech/services-and-software/googles-ai-search-could-mean-radical-changes-for-your-internet-experience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -720,7 +1029,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/20/a-young-billionaire-buys-forbes-a-startup-offers-free-tvs-and-chatgpt-goes-mobile/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -823,7 +1132,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -914,306 +1223,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-21-absolutely-not-americans-weigh-in-on-whether-kamala-harris-can-lead-on-ai-after-elon-musk-mocked-her.md",
-      "title": "'Absolutely not': Americans weigh in on whether Kamala Harris can lead on AI after Elon Musk mocked her",
-      "excerpt": "Several Washington. D.C. residents said they don't trust Vice President Kamala Harris to lead the White House's response to artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/absolutely-not-americans-weigh-kamala-harris-lead-ai-elon-musk-mocked",
-      "originalUrl": "https://www.foxnews.com/politics/absolutely-not-americans-weigh-kamala-harris-lead-ai-elon-musk-mocked",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/78ebd838-3942-461c-b226-396d577f87fb/36617385-e62b-401a-8042-cfecb9c795fc/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/absolutely-not-americans-weigh-kamala-harris-lead-ai-elon-musk-mocked.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/absolutely-not-americans-weigh-kamala-harris-lead-ai-elon-musk-mocked.amp",
-      "publishedDateTime": "2023-05-20T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-21-ai-excites-healthcare-yet-it-urgently-needs-regulations.md",
-      "title": "AI Excites Healthcare, Yet It Urgently Needs Regulations",
-      "excerpt": "The healthcare sector should pay attention to Sam Altman's statements on AI regulation. AI has exponential potential in healthcare but requires regulation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/",
-      "originalUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646989f4cacc478d7bbd2c16/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/amp/",
-      "publishedDateTime": "2023-05-20T20:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-21-ai-draws-attention-at-g-7-summit-with-leaders-calling-for-guidelines.md",
-      "title": "AI Draws Attention at G-7 Summit, With Leaders Calling for Guidelines",
-      "excerpt": "The leaders of the Group of Seven nations say we need to develop an international framework \"to achieve the common vision and goal of trustworthy AI.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/ai-draws-attention-at-g-7-summit-with-leaders-calling-for-guidelines/",
-      "originalUrl": "https://www.cnet.com/tech/ai-draws-attention-at-g-7-summit-with-leaders-calling-for-guidelines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/c689245653d150552e49a037be530716e2454213/hub/2023/05/21/bfd630b0-ed26-4f6f-a96c-1a14f3d9dfd8/ai-brian-by-getty.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-draws-attention-at-g-7-summit-with-leaders-calling-for-guidelines/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-draws-attention-at-g-7-summit-with-leaders-calling-for-guidelines/",
-      "publishedDateTime": "2023-05-20T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses.md",
-      "title": "How the digital ad industry can guide the ways AI transforms businesses",
-      "excerpt": "The digital advertising industry must look closely at how AI is implemented as it begins to use the tech for targeting, measurement, personalization and optimization.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/",
-      "originalUrl": "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1182774846-e1648671402902.jpg?w=1200&strip=all",
-          "width": 1199,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/amp/",
-      "publishedDateTime": "2023-05-20T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-winning-customer-service-through-ai-and-automation-in-hybrid-work-environments.md",
-      "title": "Winning Customer Service Through AI And Automation In Hybrid Work Environments",
-      "excerpt": "The way we work has been fundamentally altered by the COVID-19 pandemic, and many businesses have had to adapt to hybrid and remote work models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glebtsipursky/2023/05/20/winning-customer-service-through-ai-and-automation-in-hybrid-work-environments/",
-      "originalUrl": "https://www.forbes.com/sites/glebtsipursky/2023/05/20/winning-customer-service-through-ai-and-automation-in-hybrid-work-environments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64622a87ecf4ca687ea69866/0x0.jpg?format=jpg&width=1200",
-          "width": 600,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glebtsipursky/2023/05/20/winning-customer-service-through-ai-and-automation-in-hybrid-work-environments/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/05/20/winning-customer-service-through-ai-and-automation-in-hybrid-work-environments/amp/",
-      "publishedDateTime": "2023-05-20T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations.md",
-      "title": "Fintech Ramp Launches AI-enhanced Tools to Help Businesses Streamline Operations",
-      "excerpt": "Ramp, the finance automation platform, announced Ramp Intelligence: a set of tools in financial services, driven by AI, to solve customer issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2013/05/Tools.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/",
-      "publishedDateTime": "2023-05-20T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

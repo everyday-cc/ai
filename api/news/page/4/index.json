@@ -2,6 +2,255 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-21-ai-excites-healthcare-yet-it-urgently-needs-regulations.md",
+      "title": "AI Excites Healthcare, Yet It Urgently Needs Regulations",
+      "excerpt": "The healthcare sector should pay attention to Sam Altman's statements on AI regulation. AI has exponential potential in healthcare but requires regulation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/",
+      "originalUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646989f4cacc478d7bbd2c16/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/05/20/ai-excites-healthcare-yet-it-urgently-needs-regulations/amp/",
+      "publishedDateTime": "2023-05-20T20:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-05-21-ai-draws-attention-at-g-7-summit-with-leaders-calling-for-guidelines.md",
+      "title": "AI Draws Attention at G-7 Summit, With Leaders Calling for Guidelines",
+      "excerpt": "The leaders of the Group of Seven nations say we need to develop an international framework \"to achieve the common vision and goal of trustworthy AI.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/ai-draws-attention-at-g-7-summit-with-leaders-calling-for-guidelines/",
+      "originalUrl": "https://www.cnet.com/tech/ai-draws-attention-at-g-7-summit-with-leaders-calling-for-guidelines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/c689245653d150552e49a037be530716e2454213/hub/2023/05/21/bfd630b0-ed26-4f6f-a96c-1a14f3d9dfd8/ai-brian-by-getty.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-draws-attention-at-g-7-summit-with-leaders-calling-for-guidelines/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-draws-attention-at-g-7-summit-with-leaders-calling-for-guidelines/",
+      "publishedDateTime": "2023-05-20T17:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses.md",
+      "title": "How the digital ad industry can guide the ways AI transforms businesses",
+      "excerpt": "The digital advertising industry must look closely at how AI is implemented as it begins to use the tech for targeting, measurement, personalization and optimization.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/",
+      "originalUrl": "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1182774846-e1648671402902.jpg?w=1200&strip=all",
+          "width": 1199,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/amp/",
+      "publishedDateTime": "2023-05-20T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-winning-customer-service-through-ai-and-automation-in-hybrid-work-environments.md",
+      "title": "Winning Customer Service Through AI And Automation In Hybrid Work Environments",
+      "excerpt": "The way we work has been fundamentally altered by the COVID-19 pandemic, and many businesses have had to adapt to hybrid and remote work models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glebtsipursky/2023/05/20/winning-customer-service-through-ai-and-automation-in-hybrid-work-environments/",
+      "originalUrl": "https://www.forbes.com/sites/glebtsipursky/2023/05/20/winning-customer-service-through-ai-and-automation-in-hybrid-work-environments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64622a87ecf4ca687ea69866/0x0.jpg?format=jpg&width=1200",
+          "width": 600,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glebtsipursky/2023/05/20/winning-customer-service-through-ai-and-automation-in-hybrid-work-environments/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/05/20/winning-customer-service-through-ai-and-automation-in-hybrid-work-environments/amp/",
+      "publishedDateTime": "2023-05-20T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations.md",
+      "title": "Fintech Ramp Launches AI-enhanced Tools to Help Businesses Streamline Operations",
+      "excerpt": "Ramp, the finance automation platform, announced Ramp Intelligence: a set of tools in financial services, driven by AI, to solve customer issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2013/05/Tools.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/",
+      "publishedDateTime": "2023-05-20T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-20-artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones.md",
       "title": "Artificial Intelligence Will Eliminate Many Tasks, But Also Create New Higher-Level Ones",
       "excerpt": "Managers need to prepare for 'the biggest shock' coming with AI — replacing entry and low-level white-collar activities with 'first-draft automation.'",
@@ -216,7 +465,7 @@
       "originalUrl": "https://www.wired.com/story/googles-duet-ai-writing-assistant-review-test/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -825,7 +1074,7 @@
       "originalUrl": "https://www.gizmochina.com/2023/05/19/meta-ai-chip-metaverse/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -869,21 +1118,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-19-meta-ai-plans-optimised-data-centres-supercomputers-and-custom-chips.md",
-      "title": "Meta AI plans: Optimised data centres, supercomputers and custom chips",
-      "excerpt": "The RSC was unveiled in 2021. Meta has shared details of ambitious plans for AI advancements, including a custom chip for running AI models, further tweaks of a supercomputer for AI research and an AI-optimised data centre design. In a blogpost published ...",
+      "path": "_news/2023-05-19-fearing-leaks-apple-restricts-its-employees-from-using-chatgpt-and-ai-tools.md",
+      "title": "Fearing leaks, Apple restricts its employees from using ChatGPT and AI tools",
+      "excerpt": "According to internal sources and company documents reviewed by The Wall Street Journal, Apple has restricted its employees' use of ChatGPT and AI coding tools such as GitHub Copilot for fear of leaking confidential data to outside sources.",
       "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/machines/meta-ai-supercomputers-data-centres-custom-ai-models-chips",
-      "originalUrl": "https://www.siliconrepublic.com/machines/meta-ai-supercomputers-data-centres-custom-ai-models-chips",
+      "webUrl": "https://arstechnica.com/information-technology/2023/05/fearing-leaks-apple-restricts-its-employees-from-using-chatgpt-and-ai-tools/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/05/fearing-leaks-apple-restricts-its-employees-from-using-chatgpt-and-ai-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 164,
       "tags": null,
       "images": [
         {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2023/05/AdobeStock_465855287_Editorial_Use_Only.jpeg",
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/no_chatgpt_hero_3-800x450.jpg",
           "width": 800,
-          "height": 600,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -891,14 +1140,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-19T09:19:00-07:00",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/fearing-leaks-apple-restricts-its-employees-from-using-chatgpt-and-ai-tools/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/fearing-leaks-apple-restricts-its-employees-from-using-chatgpt-and-ai-tools/amp/",
+      "publishedDateTime": "2023-05-19T09:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -907,7 +1165,6 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -995,247 +1252,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-multan-airport-4th-in-country-to-get-facial-recognition-system.md",
-      "title": "Multan airport 4th in country to get Facial Recognition System",
-      "excerpt": "The Multan International Airport has become the fourth in the country to have a functional Facial Recognition System, a Pakistan Civil Aviation Authority spokesperson confirmed Friday. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenews.com.pk/latest/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system",
-      "originalUrl": "https://www.thenews.com.pk/latest/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenews.com.pk/assets/uploads/updates/2023-05-19/1071894_065954_updates.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thenews.com.pk/amp/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system",
-      "cdnAmpWebUrl": "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system",
-      "publishedDateTime": "2023-05-19T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The News International",
-        "domain": "thenews.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-your-iphone-now-has-chatgpt-ai-too.md",
-      "title": "Your iPhone Now Has ChatGPT AI, Too",
-      "excerpt": "OpenAI on Thursday dropped a ChatGPT app for iOS. The new app is free, and it gives you a way to take OpenAI's AI chatbot on the go. The app works on iPhones and iPads, supports voice input, and syncs your history across devices. The rollout of the iOS app begins in the US and will expand to more countries in the coming weeks, OpenAI said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/your-iphone-now-has-chatgpt-ai-too/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/your-iphone-now-has-chatgpt-ai-too/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 257,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/ce86a21eb4827d40a3af2503c8e71bc24550bb25/hub/2023/05/18/e1f84082-50e8-47b1-8e9d-d7df6492dd56/untitled-design.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/your-iphone-now-has-chatgpt-ai-too/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/your-iphone-now-has-chatgpt-ai-too/",
-      "publishedDateTime": "2023-05-19T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-how-ai-is-unlocking-new-ways-marketers-get-work-done.md",
-      "title": "How AI Is Unlocking New Ways Marketers Get Work Done",
-      "excerpt": "I believe there are three areas where generative AI is going to unlock new ways to get work done at a scale we’ve never seen before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/19/how-ai-is-unlocking-new-ways-marketers-get-work-done/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/19/how-ai-is-unlocking-new-ways-marketers-get-work-done/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645e46f53f40ac8745bd4910/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 502,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/19/how-ai-is-unlocking-new-ways-marketers-get-work-done/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/19/how-ai-is-unlocking-new-ways-marketers-get-work-done/amp/",
-      "publishedDateTime": "2023-05-19T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-tech-digest-daily-roundup-tesla-issues-optimus-robot-update.md",
-      "title": "Tech Digest daily roundup: Tesla issues Optimus robot update",
-      "excerpt": "BBC The government must act to prepare for artificial intelligence (AI) to hit the workplace “like a freight train”, the boss of one of Britain’s leading energy companies has told Sky News. Greg Jackson, founder of Octopus, says the adoption of AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techdigest.tv/2023/05/tech-digest-daily-roundup-tesla-issues-optimus-robot-update.html",
-      "originalUrl": "https://www.techdigest.tv/2023/05/tech-digest-daily-roundup-tesla-issues-optimus-robot-update.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2023/05/Tesla-optimus-.webp?resize=788%2C443&#038;ssl=1",
-          "width": 788,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-19T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Digest",
-        "domain": "techdigest.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-three-ways-to-get-ready-for-the-ai-takeover-in-interior-design.md",
-      "title": "Three Ways To Get Ready For The AI Takeover In Interior Design",
-      "excerpt": "There is a lot of work to do before people start trusting AI. To ensure that the AI takeover becomes a reality, we must come to terms with the new paradigm. The roads toward it might be bumpy, as there are psychological barriers to overcome, but AI can actually do a part of the work instead of people—and do it quite well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64662733af9968582de6367b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/amp/",
-      "publishedDateTime": "2023-05-19T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

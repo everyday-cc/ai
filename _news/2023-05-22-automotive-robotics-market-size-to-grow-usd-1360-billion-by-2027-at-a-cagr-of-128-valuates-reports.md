@@ -33,17 +33,6 @@ related:
         width: 444
         height: 250
         isCached: true
-  - title: "Global AI Chip Market to Generate USD 304.09 Billion by 2030, Outlines a New Report by Next Move Strategy Consulting"
-    excerpt: "According to a report published by Next Move Strategy Consulting, the global Artificial Intelligence (AI) Chip Market size generated USD 28.83 billion in 2022, and is"
-    publishedDateTime: 2023-05-19T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32487349/global-ai-chip-market-to-generate-usd-304-09-billion-by-2030-outlines-a-new-report-by-next-move-st"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32487349"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32487349"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 31
   - title: "Motion Control Software in Robotics Market will Reach a Value of US$ 37.86 Billion by 2029 at a CAGR of 19.6%"
     excerpt: "The Motion Control Software in Robotics Market is projected to expand at a remarkable CAGR of 19.6% between 2022 and 2029, reaching a valuation of US$ 10.81 Billion in 2022 and US$ 37.86 Billion by 2029."
     publishedDateTime: 2023-05-23T15:54:00Z

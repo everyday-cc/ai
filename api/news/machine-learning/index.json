@@ -149,6 +149,42 @@
       ]
     },
     {
+      "path": "_news/2023-05-18-growth-opportunities-in-cloud-security-data-security-edr-security-identity-access-management-deep-learning-and-computer-vision-based-security.md",
+      "title": "Growth Opportunities in Cloud Security, Data Security, EDR Security, Identity Access Management, Deep Learning and Computer Vision-based Security",
+      "excerpt": "The \"Growth Opportunities in Cloud Security, Data Security, EDR Security, Identity Access Management, Deep Learning and Computer Vision-based Security\" report has been added to ResearchAndMarkets.com's offering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/05/18/9817315.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/05/18/9817315.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-mitigating-dark-web-risks-the-role-of-ai-and-machine-learning.md",
       "title": "Mitigating Dark Web Risks: The Role Of AI And Machine Learning",
       "excerpt": "As artificial intelligence and machine learning are becoming increasingly important in the fight against cybercrime, security leaders should consider a range of tools to safeguard themselves.",
@@ -284,6 +320,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-weights-biases-and-lambda-announce-strategic-partnership-to-accelerate-deep-learning-and-ai.md",
+      "title": "Weights & Biases and Lambda Announce Strategic Partnership to Accelerate Deep Learning and AI",
+      "excerpt": "Weights & Biases and Lambda today announced a strategic partnership to bring the infrastructure and MLOps tools required for AI and deep learning workloads to enterprises of all sizes. The Weights & Biases MLOps platform integrates with NVIDIA-accelerated systems provided by Lambda,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-weights-biases-lambda-announce-strategic-partnership-accelerate-deep-/2023/05/17/9816460.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-weights-biases-lambda-announce-strategic-partnership-accelerate-deep-/2023/05/17/9816460.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-17T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1338,103 +1408,6 @@
         "Machine Learning",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development.md",
-      "title": "Google expands TensorFlow open-source tooling for accelerated machine learning development",
-      "excerpt": "Google enhances TensorFlow with deep learning capabilities and parallelism techniques for developer choice in machine language tooling.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development/",
-      "originalUrl": "https://venturebeat.com/ai/google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_google_deepmind_annc_042023-copy.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-expands-tensorflow-open-source-tooling-for-accelerated-machine-learning-development/amp/",
-      "publishedDateTime": "2023-05-10T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-machine-learning-vs-deep-learning.md",
-      "title": "Machine Learning vs Deep Learning",
-      "excerpt": "Machine learning involves training computers to learn and make decisions from large datasets using algorithms, while deep learning is a subset of machine learning that uses neural networks to ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/machine-learning-vs-deep-learning/articleshow/100131126.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/machine-learning-vs-deep-learning/articleshow/100131126.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-100131536/100131536.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/education/upskill/machine-learning-vs-deep-learning/amp_articleshow/100131126.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/education/upskill/machine-learning-vs-deep-learning/amp_articleshow/100131126.cms",
-      "publishedDateTime": "2023-05-10T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

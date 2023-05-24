@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-tha
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/amp/"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/646aa3405bb188ec4e00fd8a/0x0.jpg?format=jpg&crop=3285,1851,x2442,y0,safe&width=1200"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Introducing CHAT, the World’s First Generative AI ETF"
-    excerpt: "An old adage says to make hay while the sun is shining, and with interest in generative AI surging thanks to the likes of OpenAI’s ChatGPT and"
-    publishedDateTime: 2023-05-24T02:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/introducing-chat-the-world-s-first-generative-ai-etf-1032346873"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://blog.tipranks.com/wp-content/uploads/2023/05/image-677-1024x548.png?utm_source=markets.businessinsider.com&utm_medium=referral"
-        width: 1024
-        height: 548
         isCached: true
 
 secured: "umCqNy3WwvFId//jbtBJVCbMwW1m+eqV67Z+pA07kT9HeVFGtoVT3Iq62kUHZj0UCUcBgl5J4M68U1vIxQgM6i4CgK8ICFygWJlsVuL7AHqyHrC1LeK89RoUPjhE6Yd9h3t4/PvV7o69JqsdzcgLRR8scdHAVynScfKFSScrTslKXiz4RQ3I9H9i00tmm8mGsPfFsz07Kq1zvehMeWGvWJQIVoqf0rW6sa8GprddkVqDdjKvrdEsst7OlkuwudOdK9eGJq/8YnQ0Rw6DXqp97bK6SuxLpD7qZJt3HzeQfpdTsvN67tw6FIFzdpbQsXe539o/LcBBMCQe9Zgiotog1TFYPq0CagwW3XiLzhehKZiLJ73rm9ci6aXLvvlXRbLBmv/LAj/O0pti1bmjCWGkSyfIR5yFMT9XY7iLBepbei3u8EqRPusA1nMzvPPNi/7NgV9i04jU0eOhGOcQa6mnh2v8u6ByxNrstGvuv6mUogYFv7kNo0+OZPY4OeBg0n+Hw5bsWMoY2WGjGxB7sABZOQ==;pmIgJ28BR5QQy85EkAwoVA=="

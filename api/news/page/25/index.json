@@ -2,6 +2,384 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2023-05-09-artificial-intelligence-robotics-market-global-analysis-2023-2030.md",
+      "title": "Artificial Intelligence Robotics Market Global Analysis 2023-2030",
+      "excerpt": "Highlights with Short Brief of Artificial Intelligence Robotics Market: Artificial Intelligence Robotics Marketsize, segment (mainly coveringMajorType (, Service Robots, Industrial Robots, ,),End Users (, Military and Defense, Law Enforcement, Healthcare ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-global-analysis-2023-2030-2023-05-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-global-analysis-2023-2030-2023-05-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T16:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-the-ai-era-of-risk-management-is-a-win-for-financial-inclusivity-and-stability.md",
+      "title": "The AI era of risk management is a win for financial inclusivity and stability",
+      "excerpt": "The applicant takes a selfie and a picture of a document that confirms their employment and income status, which is then matched using Amazon Rekognition to verify their identity and immediately release the funding. This is particularly important for ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/sponsor/nvidia-aws-company/the-ai-era-of-risk-management-is-a-win-for-financial-inclusivity-and-stability/",
+      "originalUrl": "https://techcrunch.com/sponsor/nvidia-aws-company/the-ai-era-of-risk-management-is-a-win-for-financial-inclusivity-and-stability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/nvidia-art-5-hero.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-apple-co-founder-says-ai-may-make-scams-harder-to-spot.md",
+      "title": "Apple co-founder says AI may make scams harder to spot",
+      "excerpt": "Apple co-founder, Steve Wozniak, has warned that artificial intelligence (AI) could make scams and misinformation harder to spot. Mr Wozniak says he fears the technology will be harnessed by \"bad actors\". Speaking to the BBC, he said AI content should be clearly labelled, and regulation was needed for the sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-65496150",
+      "originalUrl": "https://www.bbc.com/news/technology-65496150",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/5834/production/_129608522_gettyimages-1423387395.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-65496150.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65496150.amp",
+      "publishedDateTime": "2023-05-08T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-ai-hype-will-drive-datacenter-gpu-prices-sky-high.md",
+      "title": "AI Hype Will Drive Datacenter GPU Prices Sky High",
+      "excerpt": "Like many HPC and AI system builders, we are impatient to see what the “Antares” Instinct MI300A hybrid CPU-GPU system on chip from AMD might look like in",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/05/08/ai-hype-will-drive-datacenter-gpu-prices-sky-high/",
+      "originalUrl": "https://www.nextplatform.com/2023/05/08/ai-hype-will-drive-datacenter-gpu-prices-sky-high/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2023/05/llnl-el-capitan-mountain-logo.jpg",
+          "width": 1905,
+          "height": 755,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/05/08/ai-hype-will-drive-datacenter-gpu-prices-sky-high/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/05/08/ai-hype-will-drive-datacenter-gpu-prices-sky-high/amp/",
+      "publishedDateTime": "2023-05-08T15:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-william-on-f1-ai-harvard-and-the-future-of-the-black-eyed-peas.md",
+      "title": "Will.i.am On F1, AI, Harvard And The Future Of The Black-Eyed Peas",
+      "excerpt": "The entrepreneur and cofounder of The Black-Eyed Peas talks about his innovative artist-in-residence program with Formula 1, a sport that he calls “a perfect example of science, technology, engineering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dianebrady/2023/05/08/william-on-f1-ai-harvard-and-the-future-of-the-black-eyed-peas/",
+      "originalUrl": "https://www.forbes.com/sites/dianebrady/2023/05/08/william-on-f1-ai-harvard-and-the-future-of-the-black-eyed-peas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64597685dc84d6dd7e2796e1/0x0.jpg?format=jpg&crop=2997,1405,x0,y15,safe&width=1200",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T15:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-integration-of-ai-in-healthcare.md",
+      "title": "Integration of AI in healthcare",
+      "excerpt": "According to a case study by Medtronic titled “5 Ways Artificial Intelligence is Transforming Healthcare,” the use of AI in healthcare improves accuracy, promotes interventional insights, supports training and education,",
+      "sourceUrl": null,
+      "webUrl": "https://highschool.latimes.com/sage-hill-school/integration-of-ai-in-healthcare/",
+      "originalUrl": "https://highschool.latimes.com/sage-hill-school/integration-of-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/02/ai-healthcarephoto.png?fit=361%2C203&ssl=1",
+          "width": 361,
+          "height": 203,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://highschool.latimes.com/sage-hill-school/integration-of-ai-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/sage-hill-school/integration-of-ai-in-healthcare/amp/",
+      "publishedDateTime": "2023-05-08T15:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-ai-bots-like-chatgpt-are-being-censored-but-i-think-that-could-be-a-good-thing.md",
+      "title": "AI bots like ChatGPT are being censored - but I think that could be a good thing",
+      "excerpt": "I was immensely disappointed to see that Microsoft laid off its entire AI ethics team earlier this year. As a pioneer in the AI space, committing to AI in a number of ways, Microsoft should be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/opinion/ai-bots-like-chatgpt-are-being-censored-but-i-think-that-could-be-a-good-thing",
+      "originalUrl": "https://www.techradar.com/opinion/ai-bots-like-chatgpt-are-being-censored-but-i-think-that-could-be-a-good-thing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/inbHpFycZt8CF9SN5Qdn8f-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-consilient-inc-and-harex-infotech-partner-to-fight-financial-crime-in-south-korea.md",
+      "title": "Consilient Inc. and Harex InfoTech Partner to Fight Financial Crime in South Korea",
+      "excerpt": "Consilient, a fintech innovator aiming to transform financial crime compliance, announced it has partnered with Harex InfoTech, Inc.to transform the fight against financial crime in South Korea. The current technologies and methods for protecting the financial system are outdated,",
+      "sourceUrl": null,
+      "webUrl": "https://www.darkreading.com/operations/consilient-inc-and-harex-infotech-partner-to-fight-financial-crime-in-south-korea",
+      "originalUrl": "https://www.darkreading.com/operations/consilient-inc-and-harex-infotech-partner-to-fight-financial-crime-in-south-korea",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Reading",
+        "domain": "darkreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-ai-ethics-for-ad-professionals-10-rules-of-engagement.md",
       "title": "AI ethics for ad professionals: 10 rules of engagement",
       "excerpt": "Advertising professionals need guidelines for AI ethics. Here are 10 rules for engagement with artificial intelligence tools at work.",
@@ -828,385 +1206,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-ai-dude-the-most-sophisticated-artificial-intelligence-technology.md",
-      "title": "AI DUDE: The Most Sophisticated Artificial Intelligence Technology",
-      "excerpt": "The AIDUDE company is proud to announce the launch of its latest innovation, Ai Dude, which utilizes the most sophisticated Artificial Intelligence (AI) technology to provide businesses with a powerful tool for content creation and optimization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-dude-the-most-sophisticated-artificial-intelligence-technology-2023-05-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-dude-the-most-sophisticated-artificial-intelligence-technology-2023-05-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-warren-buffett-vs-big-tech-should-you-invest-in-artificial-intelligence-ai-stocks.md",
-      "title": "Warren Buffett Vs Big Tech: Should you invest in Artificial Intelligence (AI) stocks?",
-      "excerpt": "AI is expected to impact society and global business and so AI stocks could have a place in most investors’ portfolios.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/investing-abroad-warren-buffett-vs-big-tech-should-you-invest-in-artificial-intelligence-ai-stocks-3079067/",
-      "originalUrl": "https://www.financialexpress.com/business/investing-abroad-warren-buffett-vs-big-tech-should-you-invest-in-artificial-intelligence-ai-stocks-3079067/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/05/18-5.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/investing-abroad-warren-buffett-vs-big-tech-should-you-invest-in-artificial-intelligence-ai-stocks-3079067/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/investing-abroad-warren-buffett-vs-big-tech-should-you-invest-in-artificial-intelligence-ai-stocks-3079067/lite/",
-      "publishedDateTime": "2023-05-08T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-meet-the-post-ai-developer-more-creative-more-business-focused.md",
-      "title": "Meet the post-AI developer: More creative, more business-focused",
-      "excerpt": "We are seeing a massive paradigm shift in software development as a result of generative AI, says Amazon Web Services executive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/meet-the-post-ai-developer-more-creative-more-business-focused/",
-      "originalUrl": "https://www.zdnet.com/article/meet-the-post-ai-developer-more-creative-more-business-focused/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/93c5df12e1167ef59f35ba818fe54a9ac1c8aa6e/2023/05/08/db8449dd-e1f1-425f-babd-e3d086dca862/gettyimages-1442975224.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meet-the-post-ai-developer-more-creative-more-business-focused/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meet-the-post-ai-developer-more-creative-more-business-focused/",
-      "publishedDateTime": "2023-05-08T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models.md",
-      "title": "Galileo Unveils ML Data-Quality Intelligence Platform for Faster, More Accurate Computer Vision Models",
-      "excerpt": "Galileo, the first-ever machine-learning (ML) data intelligence company for unstructured data, today announced the launch of its proprietary data-quality intelligence platform, called Galileo Data Intelligence for Computer Vision. The first-ever solution ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models/article_fbefe79c-0d03-548d-bf81-e8e995d979eb.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/galileo-unveils-ml-data-quality-intelligence-platform-for-faster-more-accurate-computer-vision-models/article_fbefe79c-0d03-548d-bf81-e8e995d979eb.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/3/02/3028c1a9-8c90-5f91-afa2-a0dbf673dec9/6458f6df13782.image.jpg?crop=1153%2C605%2C0%2C24&resize=1153%2C605&order=crop%2Cresize",
-          "width": 1153,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-jobs-market-remains-strong-and-the-fed-hints-at-a-pause-to-rate-hikes-forbes-ai-newsletter-may-6th.md",
-      "title": "Jobs Market Remains Strong And The Fed Hints At A Pause To Rate Hikes - Forbes AI Newsletter May 6th",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/05/08/jobs-market-remains-strong-and-the-fed-hints-at-a-pause-to-rate-hikesforbes-ai-newsletter-may-6th/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/05/08/jobs-market-remains-strong-and-the-fed-hints-at-a-pause-to-rate-hikesforbes-ai-newsletter-may-6th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6458f92af96b32b6112796dd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 789,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/05/08/jobs-market-remains-strong-and-the-fed-hints-at-a-pause-to-rate-hikesforbes-ai-newsletter-may-6th/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/05/08/jobs-market-remains-strong-and-the-fed-hints-at-a-pause-to-rate-hikesforbes-ai-newsletter-may-6th/amp/",
-      "publishedDateTime": "2023-05-08T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-machine-learning-ml-platforms-market-intelligence-report-2023-2031-by-industry-experts.md",
-      "title": "Machine Learning (ML) Platforms Market Intelligence Report: 2023-2031 by Industry Experts",
-      "excerpt": "Platforms Market ” Research Report 2023-2031 offers a detailed analysis of the industry landscape, including growth drivers, restraints, and competitive dynamics of Top Manufacturers [Microsoft Corporation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-intelligence-report-2023-2031-by-industry-experts-2023-05-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-ml-platforms-market-intelligence-report-2023-2031-by-industry-experts-2023-05-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity.md",
-      "title": "For Artificial Intelligence to Really Work, The Military Will Need Better Connectivity",
-      "excerpt": "While talking with CENTCOM’s chief technology officer, Schuyler Moore, I opined that in a peer fight the U.S. military’s data and communications networks may not hold up for even 24 hours. She waited a beat before saying,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/erictegler/2023/05/08/for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity/",
-      "originalUrl": "https://www.forbes.com/sites/erictegler/2023/05/08/for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64554c059234b64d096396dd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 746,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/erictegler/2023/05/08/for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erictegler/2023/05/08/for-artificial-intelligence-to-really-work-the-military-will-need-better-connectivity/amp/",
-      "publishedDateTime": "2023-05-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-the-risks-and-limitations-of-ai-in-insurance.md",
-      "title": "The risks and limitations of AI in insurance",
-      "excerpt": "After examining the world of opportunities between AI and the insurance industry, it's time to investigate the risks of AI and how to adopt AI responsibly.\nThe post The risks and limitations of AI in insurance appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/",
-      "originalUrl": "https://www.ibm.com/blog/the-risks-and-limitations-of-ai-in-insurance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

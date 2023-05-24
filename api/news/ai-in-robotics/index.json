@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-24-openai-backed-robotics-firm-1x-deploys-the-worlds-first-ai-robot-in-the-workforce.md",
+      "title": "OpenAI-backed robotics firm 1X deploys the world’s first AI robot in the workforce",
+      "excerpt": "Robotics start-up 1X which is backed by Sam Altman’s OpenAI has overtaken Elon Musk’s Tesla in deploying the first AI robot in the workforce. The robot named EVE has been reportedly integrated as a security guard in an Android manufacturing site. The robot is reportedly redefining surveillance and security.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/openai-backed-robotics-firm-1x-deploys-the-worlds-first-ai-robot-eve-8626164/",
+      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/openai-backed-robotics-firm-1x-deploys-the-worlds-first-ai-robot-eve-8626164/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/05/1X-Eve.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/openai-backed-robotics-firm-1x-deploys-the-worlds-first-ai-robot-eve-8626164/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/openai-backed-robotics-firm-1x-deploys-the-worlds-first-ai-robot-eve-8626164/lite/",
+      "publishedDateTime": "2023-05-24T00:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-22-hypersensitive-robot-hand-is-eerily-human-in-how-it-can-feel-things.md",
       "title": "Hypersensitive robot hand is eerily human in how it can feel things",
       "excerpt": "So the team also used sampling-based planning (SBP) algorithms to give the robot a better grip (pun intended) on its state space structure. SPB doesn’t need to go over every pos",
@@ -1369,40 +1412,6 @@
       "provider": {
         "name": "Seeking Alpha",
         "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-the-role-of-motion-control-in-medical-robotics.md",
-      "title": "The Role of Motion Control in Medical Robotics",
-      "excerpt": "Motion control is a critical component of almost all of today’s robotic applications, explains Aleksandar Nacev, PhD, chief technology officer for Promaxo. Nacev is an engineering professional with expertise in magnetic systems engineering. Promaxo’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/webinars/role-motion-control-medical-robotics",
-      "originalUrl": "https://www.mddionline.com/webinars/role-motion-control-medical-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
         "images": null,
         "publishers": null,
         "authors": null

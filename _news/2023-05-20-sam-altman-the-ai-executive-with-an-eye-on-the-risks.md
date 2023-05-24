@@ -18,21 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "OpenAI's Altman Wants International Body Akin To Nuclear Watchdog IAEA To Regulate AI"
-    excerpt: "Sam Altman, CEO of the start-up behind the AI chatbot ChatGPT, agreed with members of the Senate on Tuesday on the need to regulate increasingly powerful AI technology. https://t.co/iFjgQBBdwY pic.twitter.com/NNXJykGJMu"
-    publishedDateTime: 2023-05-23T08:32:00Z
-    webUrl: "https://www.ibtimes.com/openais-altman-wants-international-body-akin-nuclear-watchdog-iaea-regulate-ai-3695000"
-    ampWebUrl: "https://www.ibtimes.com/openais-altman-wants-international-body-akin-nuclear-watchdog-iaea-regulate-ai-3695000?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/openais-altman-wants-international-body-akin-nuclear-watchdog-iaea-regulate-ai-3695000?amp=1"
+  - title: "Artificial intelligence: 'Sam Altman's humanist message couldn't be more timely'"
+    excerpt: "This artificial intelligence (AI)-based conversational robot answers all your questions, even your slightest desires. It will write your emails, your school essays, but – unfortunately – not your newspaper columns, yet. At just 38, Altman is the man of ..."
+    publishedDateTime: 2023-05-23T10:41:00Z
+    webUrl: "https://www.lemonde.fr/en/opinion/article/2023/05/23/artificial-intelligence-sam-altman-s-humanist-message-couldn-t-be-more-timely_6027725_23.html"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 52
+      name: Le Monde.fr
+      domain: lemonde.fr
+    quality: 34
     images:
-      - url: "https://d.ibtimes.com/en/full/4438722/illustration-shows-openai-chatgpt-logos.jpg"
-        width: 1200
-        height: 814
+      - url: "https://img.lemde.fr/2023/05/16/0/0/8406/5604/1440/960/60/0/25a7b31_361322ea37f54f28815d564dfb7ba6a0-0-fa09ae87b85f492cb1d59e95492de897.jpg"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "YKs5yGSlXzk3tCJweU5YIzL41/x6RC4dHEfZnB/wbmVF8FG4MwV4oBnOCquih+TwRYl8gk8SXgsQ012I9DDKJ9WOwaaqKPMT2lkv/NPbslQy0KPLHdijvcCFokzQQ7rogHv6hTH8C8l0frVuqH8WtZIQ77D0+Jkk1J3V2h+3BW/pd5SiAS8vhOHghWh5ccB8F8lSIZW0/ajPcvRucCdAhMPjC5yK1QQvYufCi93KxJoPppJuMvn1/GwpFPjQNgJ/mN3uhcdja0pRZAEP/9ACaMuQ2flfx4KNyc510/C3JohwVeUsWIXccIUh14poaM5xmjYTaKdnEooxh9EpYGMpvv1VYaNiuNWECZ6Up/MztpLEI99OoIbpwLRkuznfIxB1wMzUOXDhQPU1PWYcOVdE5Smr42Le62bdf1Y5vJjiGHKr7QqZpbDgGtNbPXtXQdun0fON7c88wxnZreQSHMbKpNZL2cb9CtgQNyNTUR97kS34L4BRk+XQQFppAseClRFJi4MEO7GE1o62yAO6dM6aIg==;eyPud3Qo12GKkJI/V8i9Ew=="

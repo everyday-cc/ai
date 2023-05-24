@@ -25,40 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Climate Fintech: The Key to Unlocking Wider Climate Tech Solutions"
-    excerpt: "Even with challenges such as a lack of standardised ESG reporting, limited access to quality climate risk data, and regulatory hurdles likely to slow down the adoption of new technologies, climate fintech has the potential to transform the entire climate tech sector and be an integral part of the solution to combat climate change."
-    publishedDateTime: 2023-05-19T14:45:00Z
-    webUrl: "https://financialit.net/blog/fintech/climate-fintech-key-unlocking-wider-climate-tech-solutions"
+  - title: "Home-grown help for Bermuda’s fintech future"
+    excerpt: "The Bermuda partner and head of ventures of a blockchain-centric advisory firm is focused on ensuring that Bermuda succeeds in its fintech ambitions, as he builds his Toronto-based consultancy. The"
+    publishedDateTime: 2023-05-22T09:58:00Z
+    webUrl: "https://www.royalgazette.com/international-business/business/article/20230522/home-grown-help-for-bermudas-fintech-future/"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
+      name: The Royal Gazette
+      domain: royalgazette.com
     quality: 24
     images:
-      - url: "https://financialit.net/sites/default/files/lee_chin_jian_3417_copy.png"
-        width: 399
-        height: 432
+      - url: "https://imengine.editorial.prod.rgb.navigacloud.com/?uuid=60994b70-5dac-5518-8f3c-e340f010b2b9&function=fit&type=preview"
+        width: 500
+        height: 500
         isCached: true
-  - title: "AI-First FinTech Platform Line expands to capture $10 Trillion in Annual Spending Power at the Bottom of the Pyramid"
-    excerpt: "Line Financial Creator of Americas #1 Smart Wallet AppTM, expands its AI capabilities to capture $10 Trillion in Annual Spending Power at the Bottom of the Pyramid in the US. SAN FRANCISCO, May 23, 20"
-    publishedDateTime: 2023-05-23T21:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32541435/ai-first-fintech-platform-line-expands-to-capture-10-trillion-in-annual-spending-power-at-the-bott"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32541435"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32541435"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 16
-  - title: "Monty Finance highlights global expansion with innovative fintech solutions at Seamless middle east"
-    excerpt: "With a commitment to innovation and client-centricity, MyMonty offers an empowering digital banking experience coupled with competitive offers and advanced AI-backed features. As a trusted FinTech enabler, MyMonty leverages its extensive expertise and ..."
-    publishedDateTime: 2023-05-23T12:07:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/monty-finance-highlights-global-expansion-with-innovative-fintech-solutions-at-seamless-middle-east-ymgybwqd"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 5
 
 secured: "/H8Zq4uCTdUc6Opc3BA/UKn+F7VgVlRWky2sq6zAXB9NN40l7CJRJC/SqIKHd7xbX7sk6cXEgF01Ht/xSgntLReQGCPXkii3YDAObxewbtjc/Fv0VAsVPMVCKDdhTJtiYQh1GRSD8aml1eBzNya1i9qIJZ1fVYme3zs1l0KmVFYVxOE/FaB0oUmEXF3HwAqspLA0mgsailXhKriDg2HMnKgZuOomIsp7S7Bs720xV60tDSNnfvTLx+8OUxWuX+rKAd0qZ4SIV/70uZ0nQo9JP9y/6JRBQLPaIAEkRaRX/OrMkxSP0QWA+1twR0pQ6hoCzuUQA+xLM+XGTUup10t2dX8/j0M/W1RXA9cFwbvm749sb2x4eJ3M0lxINif6mrjPGQB9hkd1k3Cs61Q3HH3AZ71DHAC2/qtNyhT2bIWbQEEpF5BHQgnQHNopR0pOm/jI7Fesn1rBiZv8ouZYhmXp/AbE9wMPvNTP4ZAIU+M61xZHZdX3QEF5T3yOgkcdsnbQ+dkPPX4Ayx7nh23/8wQSjA==;aNzz7u50yLA6eMfkhK/LrA=="
 ---

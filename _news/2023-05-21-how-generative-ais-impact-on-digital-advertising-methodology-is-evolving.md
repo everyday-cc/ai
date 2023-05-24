@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-generative-ais-impact-on-digital-adve
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-generative-ais-impact-on-digital-advertising-methodology-is-evolving/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Apple Ramps Up Hiring of Generative AI Experts"
+    excerpt: "Apple is hiring for at least a dozen new experts in generative artificial intelligence amid rumors that the company is stepping up its work on AI."
+    publishedDateTime: 2023-05-22T12:51:00Z
+    webUrl: "https://www.macrumors.com/2023/05/22/apple-ramps-up-hiring-of-ai-experts/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 17
   - title: "Looking into possible impact of Artificial Intelligence"
     excerpt: "We talk about the potential of AI and threats it may pose with Aboitiz Data Innovation's David Hardoon. Artificial Intelligence has become a topic of controversy with even the so-called \"Godfather of AI\" Geoffrey Hinton expressing worries over how smart ..."
     publishedDateTime: 2023-05-22T23:47:00Z

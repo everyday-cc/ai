@@ -1,23 +1,25 @@
 ---
 category: news
 title: "Savvas Learning Company's enVision K-12 Series Receives Gold Stevie Award"
-excerpt: "Savvas Learning Company, a K-12 next-generation learning solutions leader, is proud to announce that its enVision Mathematics K-12 series © 2024 has received a Gold Stevie Award in the 21st annual American Business Awards program,"
-publishedDateTime: 2023-05-22T17:36:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/22/9818621.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/22/9818621.htm"
+excerpt: "Highly effective math series recognized as standout instructional solution PARAMUS, N.J., May 22, 2023 /PRNewswire/ -- Savvas Learning Company, a K-12 next-generation learning solutions leader, is pro"
+publishedDateTime: 2023-05-22T17:22:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/05/n32513919/savvas-learning-companys-envision-k-12-series-receives-gold-stevie-award"
+webUrl: "https://www.benzinga.com/pressreleases/23/05/n32513919/savvas-learning-companys-envision-k-12-series-receives-gold-stevie-award"
+ampWebUrl: "https://www.benzinga.com/amp/content/32513919"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32513919"
 type: article
-quality: 3
-heat: 3
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "s4yPClLDW24LbfVi4/yD3EZDWY+V6V1+rQsp3x2r5PtIFMkvIo9Mqauo7dbnM0ZK+lsqmPvoXd0A/xXVOTkq3jyg2a3q/4vLzdhMFGcYTgAOHzwgbKByKxyr9kWtvTpnRBKKzA+DJxO9YatfXBC0ZJ5X3F8Z1bCyypX0ifLHBdTdQlXRB/3SGwx/nYcKzK8MIpckRNZrXuWcYWvl67+O9pCzO4D38J5o6SDY7NDj4NZ0srlIrT95nx7GJE7C2CnPC6nBUZFd+XNItK0Y/3W77GZZsB7sbliTvDY9iviygnd/fzbalD7FwB3g8btNEpl8hMVwsI+wzCXqlXybx5+LrRqIZUTc2m7fNrKitcxVRP8=;DiH07UiDNqbbxe6sJGpUxA=="
+secured: "1BuHs3WHpc9UgzJh4lLFAQ+LXWI7bqGgFEZUsf6DvlRiHeiFejoIaS/kFF098eOiiYvq3AkKH/rbg0ISwP29hAvwgPhG97oEzsmcnQswi07V4TAbh6ry1uQLDLlneFDBzuX8uPcrpuZPhsXemx4Ll72B/8y660L9Nfi5CmPHNcyYTvbn95Blltc12LoFpKOQdbq8t8AT7CbJdvIOBINyI8IbeQL5B0PkqboGg9MGhEdIeyeIYOlBKanhA4M36qWbftkyfSmjVbqALijrXquDYjX2oaGf/A8vO6uy+e78ZppyKdJrwjYRMJd4gTeHQge27pJEcTH6XVPcyVmXzjOnsuOOQn/IMDxas91ELOiyABI=;Q7MPp7jkIY77fbu4H11n0w=="
 ---
 

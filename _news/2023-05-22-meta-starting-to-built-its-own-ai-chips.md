@@ -83,20 +83,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Meta Unveils AI Chips"
-    excerpt: "Meta (NASDAQ:META) has built custom computer chips to help with its artificial intelligence and video-processing tasks and is talking about them in public for the first time. The social networking giant disclosed its internal silicon chip projects"
-    publishedDateTime: 2023-05-19T13:58:00Z
-    webUrl: "https://www.baystreet.ca/techinsider/3620/Meta-Unveils-AI-Chips"
-    type: article
-    provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 54
-    images:
-      - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/facebook.jpg"
-        width: 845
-        height: 396
-        isCached: true
 
 secured: "RfLBgsdj2ayPud4qgepFCRtrguQPjYZl6sFCLN4T5HKGjJUtiQ3ImGsMy/GamEW7BasJAmNRgPByQ19laYgCNqUh5gfdNpXMD+u4OjE7l4JX/h6zQWVJWYh4mU2Sj3/zeZdW94yfXeuIwDECbIoe7WiJOGQwlqE5Q8fdzPRZL7gtVBRsi+PEKMMBfYeYqxGWF+i9fC30cOrDnIe6XpK0lqmPysTReLr1xC5dXVg7n1LXyDzdCmvl6gZlk5AobfnE+Rde98mH5LdwFCUkRqh7y1pe1dn9cb3U3+ex7IyKDD4zM5uLV4qKaVjn/QsmSxB5t8hi6wrnGi/lZosj9/5l0pzjwN/5RWUcuGJ+53YmcveJLsnnhJuEUocU1Bz2IHjFa6R9mQShCGeE2Nvmhl2c6ZhObRvSiSAZYJ+xnQDfG/8M+Qb6oYOv6B+q/hMuxybDjO7fkQuErsZ0gM4vJbGzmJhusK0cdmoAFoaASsrJ+9X0EdAKifVm04VlCiRGHUHGyMAJghYHtPTlpe7vXPN8lw==;BoNIRpbavwepeJ1LLPSgCg=="
 ---

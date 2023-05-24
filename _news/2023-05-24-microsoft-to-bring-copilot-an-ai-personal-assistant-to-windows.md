@@ -148,22 +148,6 @@ related:
         width: 1199
         height: 848
         isCached: true
-  - title: "Twitter accuses Microsoft of misusing its data, foreshadowing a fight over AI"
-    excerpt: "In a letter, a lawyer for Musk accused Microsoft of misusing the service’s data and demanded an audit from the software giant."
-    publishedDateTime: 2023-05-19T14:53:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/twitter-accuses-microsoft-misusing-data-foreshadowing-fight-ai-rcna85265"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna85265"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna85265"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 101
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230126-elon-musk-ew-542p-1baade.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Ethics — what ethics? For Microsoft, it’s full speed ahead on AI"
     excerpt: "Microsoft's quickly embraced all things AI, even as many in the tech industry raise concerns about the inherent dangers of the technology. The company doesn't care."
     publishedDateTime: 2023-05-23T07:00:00Z
@@ -382,6 +366,20 @@ related:
       name: Network World
       domain: networkworld.com
     quality: 63
+  - title: "Microsoft Launches Azure AI Studio For Developers To Create Their Own AI 'Copilots'"
+    excerpt: "Microsoft has launched Azure AI Studio, a new capability within the Azure OpenAI Service that allows customers to combin"
+    publishedDateTime: 2023-05-24T06:42:00Z
+    webUrl: "https://menafn.com/1106303655/Microsoft-Launches-Azure-AI-Studio-For-Developers-To-Create-Their-Own-AI-Copilots"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 63
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/24/I_0e9f3image_story.jpg"
+        width: 904
+        height: 372
+        isCached: true
   - title: "Mural Unveils AI-Powered Capabilities for Enterprise Collaboration at Microsoft Build"
     excerpt: "Deepening its investment in the Microsoft ecosystem, Mural's AI capabilities will use Azure OpenAI to enable teams to work together more efficiently SAN FRANCISCO, May 22, 2023 /PRNewswire/ -- Mural, a leading visual collaboration company, today unveiled ..."
     publishedDateTime: 2023-05-22T19:14:00Z
@@ -572,15 +570,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 49
-  - title: "Infogain AI Business Solutions Now Available In The Microsoft Azure Marketplace"
-    excerpt: "NAVIK customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. NAVIK is an AI platform that addresses the breadth of AI ..."
-    publishedDateTime: 2023-05-19T14:46:00Z
-    webUrl: "https://menafn.com/1106278090/Infogain-AI-Business-Solutions-Now-Available-In-The-Microsoft-Azure-Marketplace"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 45
   - title: "Microsoft Build 2023: From ChatGPT on Bing to Azure AI, check all latest announcement"
     excerpt: "Build 2023 also showcases previews of upcoming features such as Windows 11, Bing, and the revolutionary AI copilot. Here are top announcements that were made at the Build 2023 event"
     publishedDateTime: 2023-05-23T19:11:00Z
@@ -650,6 +639,17 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 36
+  - title: "Microsoft Build 2023: Establishes a framework for creating AI applications and broadens the Copilot ecosystem"
+    excerpt: "Microsoft unveiled new tools to simplify copilot ecosystem development, including Azure AI Studio and Azure OpenAI Service on your data"
+    publishedDateTime: 2023-05-24T05:54:00Z
+    webUrl: "https://www.dqindia.com/microsoft-build-2023-establishes-a-framework-for-creating-ai-applications-and-broadens-the-copilot-ecosystem/"
+    ampWebUrl: "https://www.dqindia.com/microsoft-build-2023-establishes-a-framework-for-creating-ai-applications-and-broadens-the-copilot-ecosystem/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/microsoft-build-2023-establishes-a-framework-for-creating-ai-applications-and-broadens-the-copilot-ecosystem/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 35
   - title: "Microsoft says new AI shows signs of human reasoning"
     excerpt: "A provocative paper from researchers at Microsoft claims AI shows the ability to understand the way people do. Critics say scientists are kidding themselves."
     publishedDateTime: 2023-05-22T13:09:00Z

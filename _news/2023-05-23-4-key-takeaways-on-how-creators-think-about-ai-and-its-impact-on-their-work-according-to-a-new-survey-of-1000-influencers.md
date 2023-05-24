@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Some 42% of Gen Z workers are nervous to tell their manager they are using AI at work, new survey finds"
-    excerpt: "UK companies are falling behind on implementing AI at work leaving employees in the dark about whether and how they can use AI."
-    publishedDateTime: 2023-05-22T08:25:00Z
-    webUrl: "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5"
-    ampWebUrl: "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5?amp"
+  - title: "5 Key Threats AI Poses To Business Owners In 2023 (and How To Survive Them)"
+    excerpt: "Business owners are freaking out about artificial intelligence, and you can see why. Here are the 5 key threats AI poses, and how you can stop them ruining your business."
+    publishedDateTime: 2023-05-24T07:15:00Z
+    webUrl: "https://www.forbes.com/sites/jodiecook/2023/05/24/5-key-threats-ai-poses-to-business-owners-in-2023-and-how-to-survive-them/"
+    ampWebUrl: "https://www.forbes.com/sites/jodiecook/2023/05/24/5-key-threats-ai-poses-to-business-owners-in-2023-and-how-to-survive-them/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/05/24/5-key-threats-ai-poses-to-business-owners-in-2023-and-how-to-survive-them/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
+      name: Forbes
+      domain: forbes.com
+    quality: 85
     images:
-      - url: "https://i.insider.com/64675e70cd3a9c0019184f68?width=1200&format=jpeg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646db7b8baf87c7dd8b8461e/0x0.jpg?format=jpg&crop=3183,1792,x0,y178,safe&width=1200"
         width: 1200
-        height: 600
+        height: 676
         isCached: true
 
 secured: "QkSWp3nFO5cdRWA7jQKXFekMhkB3d4sI2PVLzuhxSSNPTW5mJviSlnyS9cZNZ2vRMq+QxUphG5aK638jjX9zv/8QUMMZvajlt+RFbxn7EemziuPGZounA/dQ5jjRcaVjzgv7PidKsmKG8ni4pHtuwyv8fZzPYWToGvt5BAOMoE+Zk7CetYS1yOspJEYf0mE9FWR+WUZkEc9sXYeevCWclzZM43KIW7+ptsTmBuH770aBNt+Il4xGbT7LcWuXZGjX/g8Zf2F8CzI0BJNlv1SDv9YhGMyTB5l69cRcj8/ihCzffVVpjrB45ZrzwteiCQs15uU7u87c6qbW+1gct0rsZTuy8znumHfFSMnlEEQ48UCW79MaLSKvxUa5uPed6SXJI56AN6oDCBw3QVmdylhntKBPvcGMEBLK5+bJTQHn76OLJL9N2CxKRMBq8Mp61ZMCBj7BNtjBvt39v6I+Gsm+o4bs+iijl6t7An94mJsafdiA6jqnWCpoSpm043p93stL2yEN0rw1RyDqsZHxbhlkRA==;I5iw2A4WAXME7wDvYbq2RA=="

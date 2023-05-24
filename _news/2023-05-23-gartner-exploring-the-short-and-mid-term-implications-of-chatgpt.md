@@ -25,29 +25,104 @@ images:
     isCached: true
 
 related:
-  - title: "Meta's ChatGPT rival could make language barriers a thing of the past"
-    excerpt: "This move suggests the company is deeply invested in dominating the AI language translation space, but also encourages collaboration in the field. Normally, speech recognition and text-to-speech AI programs need extensive training on a large number of ..."
-    publishedDateTime: 2023-05-23T11:15:00Z
-    webUrl: "https://www.techradar.com/news/metas-chatgpt-rival-could-make-language-barriers-a-thing-of-the-past"
+  - title: "Fearing leaks, Apple restricts its employees from using ChatGPT and AI tools"
+    excerpt: "According to internal sources and company documents reviewed by The Wall Street Journal, Apple has restricted its employees' use of ChatGPT and AI coding tools such as GitHub Copilot for fear of leaking confidential data to outside sources."
+    publishedDateTime: 2023-05-19T16:16:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/05/fearing-leaks-apple-restricts-its-employees-from-using-chatgpt-and-ai-tools/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/05/fearing-leaks-apple-restricts-its-employees-from-using-chatgpt-and-ai-tools/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/fearing-leaks-apple-restricts-its-employees-from-using-chatgpt-and-ai-tools/amp/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 54
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/iQWK76oepRkaWM2CCpqgVV-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/no_chatgpt_hero_3-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "How Many Language Service Providers Have Piloted ChatGPT in Workflows?"
-    excerpt: "Language service providers are actively piloting ChatGPT and large language models (LLMs) in machine translation, quality evaluation and business workflows."
-    publishedDateTime: 2023-05-23T12:01:00Z
-    webUrl: "https://slator.com/how-many-language-service-providers-have-piloted-chatgpt-workflows/"
+  - title: "The rise of ChatGPT could jump start the Roaring 20s for stocks and solidify a new bull market"
+    excerpt: "\"We can spend a lot less time obsessing about what the Fed will do next and focus on how technology is boosting productivity,\" Ed Yardeni said."
+    publishedDateTime: 2023-05-21T14:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/stock-market-outlook-chatgpt-roaring-20s-bull-market-ai-yardeni-2023-5"
+    ampWebUrl: "https://markets.businessinsider.com/news/stocks/stock-market-outlook-chatgpt-roaring-20s-bull-market-ai-yardeni-2023-5?amp"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/stock-market-outlook-chatgpt-roaring-20s-bull-market-ai-yardeni-2023-5?amp"
     type: article
     provider:
-      name: Slator
-      domain: slator.com
-    quality: 4
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://i.insider.com/60a55db3f27b4c00194456b4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "ChatGPT in medicine: STAT answers readers’ burning questions about AI"
+    excerpt: "What meaningful efforts are being made to establish an effective framework for ethics, representation, and regulation? “I share the same concerns,” said Owens, the NYU ethicist. She pointed out that the Coalition for Health AI recently published a ..."
+    publishedDateTime: 2023-05-23T08:33:00Z
+    webUrl: "https://www.statnews.com/2023/05/23/chatgpt-questions-health-care-patients-artificial-intelligence/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 39
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2023/05/stat_ai_QsForStat_2000x1125-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "MY VIEW: AI ate my homework: The future of AI and ChatGPT"
+    excerpt: "\"Back in the day, rather than admitting our laziness, we blamed the dog for eating our homework. If AI becomes our modern-day crutch for being lazy, a bad grade will be the least of our worries.\""
+    publishedDateTime: 2023-05-22T10:26:00Z
+    webUrl: "https://www.bizjournals.com/cincinnati/news/2023/05/22/my-view-future-ai-chatgpt.html"
+    ampWebUrl: "https://www.bizjournals.com/cincinnati/news/2023/05/22/my-view-future-ai-chatgpt.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/cincinnati/news/2023/05/22/my-view-future-ai-chatgpt.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 37
+  - title: "Apple reportedly bans some employees from using ChatGPT as it works on its own AI model"
+    excerpt: "Apple Inc. has banned some employees from using OpenAI LP’s ChatGPT artificial intelligence service, according to a new report. The Wall Street Journal reported the development late Thursday, citing sources and an internal Apple document."
+    publishedDateTime: 2023-05-19T17:30:00Z
+    webUrl: "https://siliconangle.com/2023/05/19/apple-reportedly-bans-employees-using-chatgpt-works-own-ai-model/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 29
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/apple-1839363_960_720.jpg"
+        width: 960
+        height: 575
+        isCached: true
+  - title: "In a Reminder of AI's Limits, ChatGPT Fails Gastro Exam"
+    excerpt: "He said the recent gush of papers showing ChatGPT passing other medical assessments might be overshadowing the fact that this technology is not ready for regular clinical use. \"You can define a threshold how you want it and say [ChatGPT] passed it,"
+    publishedDateTime: 2023-05-22T15:12:00Z
+    webUrl: "https://www.medpagetoday.com/gastroenterology/generalgastroenterology/104618"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 19
+  - title: "Public officers allowed to use ChatGPT and other AI, but must take responsibility for work: MCI"
+    excerpt: "Public officers have been told not to feed generative AI tools with sensitive information. Read more at straitstimes.com."
+    publishedDateTime: 2023-05-23T12:14:00Z
+    webUrl: "https://www.straitstimes.com/tech/public-officers-allowed-to-use-chatgpt-and-other-ai-but-must-take-responsibility-for-work-mci"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 7
+  - title: "ChatGPT-powered Wall Street: The benefits and perils of using artificial intelligence to trade stocks and other financial instruments"
+    excerpt: "Artificial Intelligence-powered tools, such as ChatGPT, have the potential to revolutionize the efficiency, effectiveness and speed of the work humans do. And this is"
+    publishedDateTime: 2023-05-21T13:30:00Z
+    webUrl: "https://www.krqe.com/health/studies-research-findings/chatgpt-powered-wall-street-the-benefits-and-perils-of-using-artificial-intelligence-to-trade-stocks-and-other-financial-instruments/"
+    type: article
+    provider:
+      name: KRQE Blogs
+      domain: krqe.com
+    quality: 0
 
 secured: "2RNUTh+TZyfHB+8/KbJrH8rnN5i/mwLCItPxePOtSTcfaRziK4MCcVuMw4mipN+kcA9U53AxwdOkKMQTmxur/sp/5LYtmrqTfxbnvpsuIDAOPd5ViSk6hh7nBMgNgFCf3ggu9DC6lGEKDIAErRExsVBCxmbRy9QGG5FTBal/eDBtwEGU9d/B7+pPvbvbY7vJZ3PcnpR5HEa/xinDqkg9rtbXTtG5/K4cO2vCqgsCx1eF8Aqb0nYYz8SzJf8NIXtLdoUvgb2GZanqbeQ0jYcGbj+M7UZdVSCIPw/lp+87OcZ+ZFMHI69gwLrmBEojRbAMLMgA/p0ZkJgz10zpkC47Bd8DHgxV4FSZ3Deq8YtvlTw=;1jaN723Rm7TEv44AqPSueg=="
 ---

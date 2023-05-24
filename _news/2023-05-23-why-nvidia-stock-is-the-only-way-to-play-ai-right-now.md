@@ -69,22 +69,6 @@ related:
         width: 768
         height: 723
         isCached: true
-  - title: "NVIDIA, AMD, and Micron are in the Forefront in the Chip Sector Higher with AI"
-    excerpt: "NVIDIA, AMD, and Micron are experiencing significant growth in the chip sector, driven by their emphasis on AI and targeting the Japanese market."
-    publishedDateTime: 2023-05-19T14:56:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/nvidia-amd-and-micron-are-in-the-forefront-in-the-chip-sector-higher-with-ai/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/nvidia-amd-and-micron-are-in-the-forefront-in-the-chip-sector-higher-with-ai/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/nvidia-amd-and-micron-are-in-the-forefront-in-the-chip-sector-higher-with-ai/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 70
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2023/05/NVIDIA-AMD-and-Micron-are-in-the-Forefront-in-the-Chip-Sector.jpg"
-        width: 1500
-        height: 844
-        isCached: true
   - title: "Why AI Is The Future Of Offshore Oil Drilling"
     excerpt: "But this is not Shell’s first foray into AI tech. Back in 2018, the company partnered with Microsoft to incorporate the Azure C3 Internet of Things platform in its offshore operations. The platform uses AI to drive efficiencies across the company’s ..."
     publishedDateTime: 2023-05-21T23:03:00Z
@@ -99,15 +83,6 @@ related:
         width: 718
         height: 300
         isCached: true
-  - title: "NVIDIA's massive RTX 4060 GPU giveaway comes with hints of overcompensation"
-    excerpt: "So, gamers get the chance to win 170 GPUs (plus a couple of monitors and GPU backplates), which are mostly GeForce RTX 4060s - 164 of them. There's also an RTX 4060 Ti Founders Edition up for grabs, and a pair of NVIDIA's own RTX 4080 and 4090 graphics cards. Oh, and a GeForce RTX Garage 4090 build, a gaming PC worth a cool $7,500."
-    publishedDateTime: 2023-05-19T13:35:00Z
-    webUrl: "https://www.tweaktown.com/news/91535/nvidias-massive-rtx-4060-gpu-giveaway-comes-with-hints-of-overcompensation/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 17
 
 secured: "P47YlbxhPGTYPLWBwP4sNdthNVOo+owvbDdf8AEYu6Y+1mVUkwCxFA7odYa2Y9QcHkL5akFbANXG7Z8k2NBMruEelDqloWelEA2s7nB7jSYRfIh+ojGx20WVSMDdtiEXwmY/DpL8Hf+RLQ498JZ2tWBmaSkr1lsc95QzX6grx8EvlKWfLb8EeHxeWDmKfTZROHNbP4WgERFphaunw2q2wn3a/s9Tsk5eM9ucjixSz1pA5OQ+MlZk7VSZmTMlsh/UsRsBPB/CVaYwMbgFPOLAey95KtcBXqMDjD87mmuUR9hfzv4DCtI9gukRbJ7oloaiYZC3b+zhv/iWaSMI2QEFZ5SJr0Z4CN1+gLEPaDx32Ug=;2FT52oLt6Pw01r7YQIX4/g=="
 ---

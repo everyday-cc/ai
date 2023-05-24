@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3697020/why-microsoft-is-combining
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3697020/why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.amp.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "MAS unveils AI and data analytics skills training scheme"
+    excerpt: "The Monetary Authority of Singapore (MAS) has launched a programme to develop talent in artificial intelligence and data analytics (Aida) in the financial sector."
+    publishedDateTime: 2023-05-24T07:35:00Z
+    webUrl: "https://www.theasset.com/article/49237/mas-unveils-ai-and-data-analytics-skills-training-scheme"
+    type: article
+    provider:
+      name: The Asset
+      domain: theasset.com
+    quality: 39
+    images:
+      - url: "https://www.theasset.com/storage/Image/2023/May/1684902497artificialintelligencebirdseye.jpg"
+        width: 3840
+        height: 2160
+        isCached: true
   - title: "Informatica Announces Integration of its Intelligent Data Management Cloud with Microsoft Fabric"
     excerpt: "Informatica is one of the first ISV design partners for Microsoft Fabric and brings Azure customers access to IDMC's comprehensive suite of capabilities as a first-party service. The integration allows Azure customers to have: Seamless integration with Informatica's Data Quality solution to identify and provide high quality,"
     publishedDateTime: 2023-05-23T15:31:00Z

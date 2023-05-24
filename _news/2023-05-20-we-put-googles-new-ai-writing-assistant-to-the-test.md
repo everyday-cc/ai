@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/googles-duet-ai-writing-assistant-revi
 webUrl: "https://www.wired.com/story/googles-duet-ai-writing-assistant-review-test/"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-3.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Wordtune vs Grammarly: Competing AI Writing Assistants"
+    excerpt: "Assisted Communication for Authenticity In today’s digital landscape, crafting eloquent text has become necessary for professionals, students, and casual writers alike. As a result, AI-powered language tools such as Wordtune and Grammarly have emerged as indispensable resources in the writing process."
+    publishedDateTime: 2023-05-24T07:08:00Z
+    webUrl: "https://techbullion.com/wordtune-vs-grammarly-competing-ai-writing-assistants/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/05/Depositphotos_652094916_S-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Cursed New AI Calls Debtors to Hassle Them for Money"
     excerpt: "The rise of AI coincides with all-time debt highs — and one startup is cashing in by having AI robocalls do way more collections than humans."

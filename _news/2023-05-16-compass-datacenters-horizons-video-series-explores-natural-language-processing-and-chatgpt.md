@@ -1,27 +1,20 @@
 ---
 category: news
 title: "COMPASS DATACENTERS' \"HORIZONS\" VIDEO SERIES EXPLORES NATURAL LANGUAGE PROCESSING AND CHATGPT"
-excerpt: "Technology Thought Leader Lev Lesokhin Discusses the Societal Influence of Natural Language Processing and ChatGPTDALLAS, May 16, 2023"
-publishedDateTime: 2023-05-16T12:53:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/compass-datacenters-horizons-video-series-explores-natural-language-processing-and-chatgpt-1032331009"
-webUrl: "https://markets.businessinsider.com/news/stocks/compass-datacenters-horizons-video-series-explores-natural-language-processing-and-chatgpt-1032331009"
+excerpt: "Lev Lesokhin, Technology Product Strategist, discusses the rise of natural language processing (NLP) and ChatGPT. Lesokhin discusses NLP's future and the impact of ChatGPT on our job market ..."
+publishedDateTime: 2023-05-16T16:42:00Z
+originalUrl: "https://www.victoriaadvocate.com/compass-datacenters-horizons-video-series-explores-natural-language-processing-and-chatgpt/article_3af3cc14-3370-56ea-955b-c7e0bffd03f3.html"
+webUrl: "https://www.victoriaadvocate.com/compass-datacenters-horizons-video-series-explores-natural-language-processing-and-chatgpt/article_3af3cc14-3370-56ea-955b-c7e0bffd03f3.html"
 type: article
-quality: 38
-heat: 38
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Victoria Advocate
+  domain: victoriaadvocate.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "VJ3DOP0xaKGcnj0bYACouFxYgFrToQlMVpCIUCWWpxy6sbPHj8ntyHYSFsul0jyyG6PUK6EYBQ1Q3Vd45txGfa1F2VXS7NNCzf4o0OqPHGZkMswziPQXOi9apG3zavw6K35pImckVv0TuF/6rnc07uoOrPbRd+jwiEbQvMq3dB5t1wngs4oLivuxQU3ATHBp8CBnho4rbwRA8kY9hWl8QLEXQclF4/zUG3OYInc5/dcFbvp6zsYQ6eRSqLb+24Vn22oNuhRa4+9GeerCqtw8QmwAWt6ZKwhqhqudeGXkoEw4ZGoL4d00fa2W+usmmppJE/gGOf4IC0RYQWxfFYe2RJNojRU1vBhpc/jDQC8uOwU=;KQ/0WMx1Tt0S/dpHlNVxrA=="
+secured: "WecAJFfwqcfFAo1DWI2bepS7AAIi0A6tuIsZQp9h+ns9j1xUgJ7KWPkqQhXVJ9k4vPcKvS6YGA+tbjhULrxqpvgCR8TTBqdn+/fbWBv45prSsO3ZFO1oxtLw7N+35yandihh1ApR5K21ZhNv27LPd05hg9yH6SkcjTd901doBrtaxNaaf50iVtmeHgluJuxa3Da4a1V+m01owgNjGcqDmxmgAylhdeQcIh5UbqpE8BmkMjn9/awEkpjHWyt0jq7ZkeNwBZ0U7ARo5YE6TcTuceE2Kye7ZG7KmT9iaKGF2GJEy3eCg8Rcmv6Uey87jvyEi9uVHblUy/3qeSoenT/hSiUD4Jh7PmYwf+Uf8c+3k0Q=;/mAaHOhV2CZVUseIeNsAVA=="
 ---
 

@@ -38,17 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Sean Penn, backing WGA strike, says AI dispute is ‘a human obscenity’ at Cannes Film Festival"
-    excerpt: "Sean Penn has strongly backed the current Hollywood screenwriters strike while speaking at the Cannes Film Festival on Friday, saying the dispute over artificial intelligence is “a human obscenity.”."
-    publishedDateTime: 2023-05-19T14:53:00Z
-    webUrl: "https://www.seattletimes.com/business/sean-penn-backing-wga-strike-says-ai-dispute-is-a-human-obscenity-at-cannes-film-festival/"
-    ampWebUrl: "https://www.seattletimes.com/business/sean-penn-backing-wga-strike-says-ai-dispute-is-a-human-obscenity-at-cannes-film-festival/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/sean-penn-backing-wga-strike-says-ai-dispute-is-a-human-obscenity-at-cannes-film-festival/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 26
 
 secured: "HiqrCfGoU7rbiaNhuUISRnTuCHKfQDnjssACEb7RO5VPSgTm9CR3ivBpKSXvTyUEu0Wz/qf9ThReIuo8/yX+0YMmvh3RBSghpSB+t4vHTFumf11DjMgauTeVMGnXFJD2IIoQGGIwMY95GHRJ+H3ZoECrxl4ksxn8OYK0jCLGXFz/vHofE7bSuOmQxgGe4qIuse3k0A7pI76d0CtqGZeUCJoKPoLRUlRWFfcO4YEv96Jey6UOQ9SB6RTqpo0UTtirxP/RAPnX/iaVf5QQCFs9LStxq3nxSg1ksdrhyPtcNRRhq/TPtQ7adKX8lVybM/m1+rtclBeGBvxubNS8cbabXMC94+aicA4ZQCHm56fz4Qw=;RV5dSleTngp1Lt43eiCe+A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressi
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressing-the-ethical-use-of-ai-in-healthcare/"
 type: article
 quality: 81
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       - url: "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/health-gb820987231280-1684490624617.jpg?fm=png&auto=format"
         width: 1280
         height: 720
+        isCached: true
+  - title: "The Top Trends in Artificial Intelligence in 2023"
+    excerpt: "Artificial intelligence (AI ... Whether one is more likely to engage in AI as a consumer, a business professional, or for the management of their healthcare, these tools have become engrained into all aspects of our daily lives. In the near future ..."
+    publishedDateTime: 2023-05-22T00:00:00Z
+    webUrl: "https://www.mddionline.com/digital-health/top-trends-artificial-intelligence-2023"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 39
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_2023-1-18-110145.jpg"
+        width: 770
+        height: 400
         isCached: true
   - title: "How AI is changing the game in youth sports"
     excerpt: "Salt Lake County's Copper Mountain Soccer Club is among many youth teams using new AI video technology that films games and then culls each player's performance into a highlight reel."

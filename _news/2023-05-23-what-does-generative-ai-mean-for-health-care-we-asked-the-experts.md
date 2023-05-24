@@ -74,15 +74,22 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Generative AI For Business Leaders 101"
-    excerpt: "AI stands for \"artificial intelligence,\" which is the simulation of human intelligence in machines to perform tasks that typically require human intelligence, such as decision making, perception and language translation. AI is powered by various techniques ..."
-    publishedDateTime: 2023-05-19T14:05:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/generative-ai-for-business-leaders-101/"
+  - title: "IT services firms leverage generative AI capabilities for clients"
+    excerpt: "Infosys Topaz leverages Infosys applied AI framework to build an AI-first core that empowers people to deliver cognitive solutions that accelerate value-creation."
+    publishedDateTime: 2023-05-24T06:08:00Z
+    webUrl: "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/5/15/w600X390/Artificial_Intelligence.png"
+        width: 600
+        height: 390
+        isCached: true
 
 secured: "avYY9i5WIe82KQcdgaZEq/caYfhI+4woTRRqyz9ZxGfd32HhJ1EeDkxvL8uxA6B1m4S4/9g1TGt6wQQUWwq87X734KJU8EI6J8idrh3AYHow2o7QXgXCT0GwqIA9aPxozf+jIUaQCoH33Gct38dOK9VHQd1EWrYmmmzKKfGJS20pSEGyD7D7HRj9derqDgcz5VxAnLLOKuWl0RUvaMY6AavkApsQ/UK3X8KxkNbXY5NKqZKVp9P0oPBVX/lr2a/Hwwh4YNYthVNfW47KiH0/E/iQPPKAm88WmFuOu/DVv0NOOX6S/fP8Tvffy1DdfTo2LB2s0wej4WRnCwUiEd9GaTXYcxK7ZJDA77JpBlbQlKJ94EHmUfERBEr/EyKBQgPYl5HrdAktXBIRT19UzwMOTDMYGfsQMNNO23+hEAOS/iFOiVnw4WMzS34rUnx2jeE+Mn+cEu9kRydiNnyMgYh7B6cxVPXj9Ac11Cn0XDIyUD00+37eyiS+qnACsWqaV/tzRta27Wz19YkaHFnQ5BoCuw==;OP8IPqHpZH8UNNUKXL6IKg=="
 ---
