@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Infogain AI Business Solutions Now Available In The Microsoft Azure Marketplace"
-    excerpt: "NAVIK customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. NAVIK is an AI platform that addresses the breadth of AI ..."
-    publishedDateTime: 2023-05-19T14:46:00Z
-    webUrl: "https://menafn.com/1106278090/Infogain-AI-Business-Solutions-Now-Available-In-The-Microsoft-Azure-Marketplace"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 45
   - title: "Elon Musk Makes Bold AI Prediction That Will Delight Investors"
     excerpt: "The best known is ChatGPT, developed by OpenAI, a startup in which software giant Microsoft ... The chatbot showed that AI has reached a point where robots can perform certain tasks much better than humans can. But beyond the search-engine industry ..."
     publishedDateTime: 2023-05-22T13:48:00Z

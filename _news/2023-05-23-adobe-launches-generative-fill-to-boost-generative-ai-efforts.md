@@ -50,6 +50,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Adobe brings Firefly’s generative AI to Photoshop"
+    excerpt: "Photoshop is getting an infusion of generative AI today with the addition of a number of Firefly-based features that will allow users to extend images beyond their borders with Firefly-generated backgrounds,"
+    publishedDateTime: 2023-05-23T22:24:00Z
+    webUrl: "https://techcrunch.com/2023/05/23/adobe-brings-fireflys-generative-ai-to-photoshop/"
+    ampWebUrl: "https://techcrunch.com/2023/05/23/adobe-brings-fireflys-generative-ai-to-photoshop/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/adobe-brings-fireflys-generative-ai-to-photoshop/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/gBWUDTLU.png?resize=1200,793"
+        width: 1200
+        height: 793
+        isCached: true
   - title: "Adobe integrates generative AI directly into Photoshop with new Firefly capabilities"
     excerpt: "Adobe has announced its first generative AI integration with Photoshop, bringing Adobe Firefly capabilities directly into design workflows."
     publishedDateTime: 2023-05-23T11:00:00Z
@@ -65,6 +81,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-74.png?w=1200&strip=all"
         width: 1200
         height: 750
+        isCached: true
+  - title: "A research page about a new AI image tool that's basically Photoshop on steroids is so popular the website is crashing"
+    excerpt: "An curved arrow pointing right. If you haven't quite mastered the array of conventional photo-editing tools, there could be an AI for that in the near future. A group of researchers from ..."
+    publishedDateTime: 2023-05-19T19:13:00Z
+    webUrl: "https://www.businessinsider.com/draggan-ai-tool-altering-photos-like-photoshop-steroids-research-paper-2023-5"
+    ampWebUrl: "https://www.businessinsider.com/draggan-ai-tool-altering-photos-like-photoshop-steroids-research-paper-2023-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/draggan-ai-tool-altering-photos-like-photoshop-steroids-research-paper-2023-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://i.insider.com/64679dde12a97600191793c9?width=1200&format=jpeg"
+        width: 1164
+        height: 582
         isCached: true
   - title: "Adobe introduces generative AI in Photoshop to transform professional creativity"
     excerpt: "Generative Fill combines Adobe Firefly with the editing power of Photoshop to expand the creative canvas for Adobe's millions of customers."

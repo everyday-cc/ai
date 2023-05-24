@@ -47,6 +47,17 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "AI-First FinTech Platform Line expands to capture $10 Trillion in Annual Spending Power at the Bottom of the Pyramid"
+    excerpt: "Line Financial Creator of Americas #1 Smart Wallet AppTM, expands its AI capabilities to capture $10 Trillion in Annual Spending Power at the Bottom of the Pyramid in the US. SAN FRANCISCO, May 23, 20"
+    publishedDateTime: 2023-05-23T21:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32541435/ai-first-fintech-platform-line-expands-to-capture-10-trillion-in-annual-spending-power-at-the-bott"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32541435"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32541435"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 16
 
 secured: "k9LL+vVWI6y97I9ij66+bB6Fe9rwdoAYm9nAposnn5DXq+acFVudpCwzHb6D9oHOVlWPVnd8M6qjgbC8IfTefhb/d9W4hW4Cqr3MlpnKZTIt1iMwYC8zT4wxRoIS9RgtC505EYeptGMZJu/KupwpfZB43hvanbAgzLNpM0MXw6sMCIMRya3aLtF3iPrZ98r13jRkSjjsHqbvIi4viqBKURGLmC175I0+ifFBAoWgFEZZBQDP8sVpk1yKV5RjoI0TkrM7JBrzycbBHp0t+w73XdrGZMNH0hffk7KdZcwfW8OFsiWyIQJ/fQ0YLznplZVnf22fBO7ox0TGfY0DgunQLwKZhnFEkuH8NLVJP+3bguOH3kqbEs9TjF7wobFdfPTbMm2U0QhWRS+7DU+oXsu8Wy2lThlr9cEfKQBTs24UjXJlfgRQEdPPf7w5Ar+umn/Vk6Mxw8xolPh8f1Kilt7Csj2RvdcJR5/3qjeGccrHwqQWzwY4ct/bQBWJAlonF8sJKGu/nheA4gc5/ZAEYqDKcA==;YejQp+o9mKyZ1E6Q7KF46A=="
 ---

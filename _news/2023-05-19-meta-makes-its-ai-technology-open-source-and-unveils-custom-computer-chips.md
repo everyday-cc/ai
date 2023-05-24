@@ -25,22 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Meta pulls the curtain back on its AI chips for the first time"
-    excerpt: "Meta has built custom computer chips to help with its artificial intelligence and video-processing tasks and is talking about them in public for the first time."
-    publishedDateTime: 2023-05-19T08:50:00Z
-    webUrl: "https://thewest.com.au/business/cnbc/meta-pulls-the-curtain-back-on-its-ai-chips-for-the-first-time-c-10705053"
-    ampWebUrl: "https://thewest.com.au/business/cnbc/meta-pulls-the-curtain-back-on-its-ai-chips-for-the-first-time-c-10705053.amp"
-    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/business/cnbc/meta-pulls-the-curtain-back-on-its-ai-chips-for-the-first-time-c-10705053.amp"
+  - title: "Meta AI plans: Optimised data centres, supercomputers and custom chips"
+    excerpt: "The RSC was unveiled in 2021. Meta has shared details of ambitious plans for AI advancements, including a custom chip for running AI models, further tweaks of a supercomputer for AI research and an AI-optimised data centre design. In a blogpost published ..."
+    publishedDateTime: 2023-05-19T16:19:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/meta-ai-supercomputers-data-centres-custom-ai-models-chips"
     type: article
     provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 74
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
     images:
-      - url: "https://images.thewest.com.au/publication/C-10705053/6679a2fc0058767d38616fae15aa790db92ea8bd-16x9-x0y0w1280h720.jpg?imwidth=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/05/AdobeStock_465855287_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
         isCached: true
+  - title: "Meta is working on its own chip, data center design for AI workloads"
+    excerpt: "The Facebook parent said that it is working on a new AI-optimized data center design and the second phase of its 16,000 GPU supercomputer for AI research."
+    publishedDateTime: 2023-05-19T13:37:00Z
+    webUrl: "https://www.networkworld.com/article/3696935/meta-is-working-on-its-own-chip-data-center-design-for-ai-workloads.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 38
 
 secured: "1BC0mYf/PQBNYYfa8Q8sZLlFvx4/rO4F6bMOo7cPFJ9zbQ4MPlmhT0M6r4tGm79v9nxjsccza/CKxlc1uGjoZMvqTYc604Vis+Hm0vw+c/IKKCXp+IU7fnzT/IO90WVVHD5grKeW+eGJQHUGGPld2vY/OIzqC/oDu/uayvOrD5udvKwfDd8aiXcR9jtqThCOV7s+K8G8LIhQ1bk6AF1tS7g+oKsvJ8ZK6qDEP7nI6IqokMV93z3NRB1cYHxgN6NZ4VhTpSDLYIuUBhk/Em0kuW33F3tHpYDwh3Q0ZaWyLQ/TQuJBmwJiFxRXjZW/iMcB54sNRNBHbe+mDuvQSLtBoWwsBRyJkNVerdRm4zmGZO4=;M7skY83XRxFSYzEyE/UZKQ=="
 ---

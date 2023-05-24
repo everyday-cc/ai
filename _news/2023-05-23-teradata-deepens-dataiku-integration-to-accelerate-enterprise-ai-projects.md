@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/teradata-deepens-dataiku-integration-to-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/teradata-deepens-dataiku-integration-to-accelerate-enterprise-ai-projects/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft integrates Nvidia’s AI Enterprise Suite with Azure Machine Learning"
-    excerpt: "The integration of Nvidia’s software suite will further help enterprises build, deploy, and manage applications based on large language models."
-    publishedDateTime: 2023-05-23T19:01:00Z
-    webUrl: "https://www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 63
   - title: "BeeKeeperAI's Patented Collaboration Platform Drives Healthcare AI Advancements on Protected Data"
     excerpt: "To accelerate healthcare AI development on protected information, BeeKeeperAI announced the commercial release of its patented, zero-trust collaboration platform. EscrowAI harnesses Azure confidential computing to address the challenges of data sovereignty ..."
     publishedDateTime: 2023-05-22T22:03:00Z

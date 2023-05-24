@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/investor-hub/article/which-artificial
 webUrl: "https://www.forbes.com/sites/investor-hub/article/which-artificial-intelligence-stocks-are-institutional-investors-buying/"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI boom could expose investors’ natural stupidity"
-    excerpt: "My colleagues, they study artificial intelligence,” the Israeli psychologist Amos Tversky once quipped. “Me, I study natural stupidity.” The co-founder of behavioural economics, who died in 1996, did not live to see 2023,"
-    publishedDateTime: 2023-05-19T07:56:00Z
-    webUrl: "https://www.reuters.com/breakingviews/ai-boom-could-expose-investors-natural-stupidity-2023-05-19/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/81uveTxWRNRyEmCdhAq5JfkEHTA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SFDGX2C26VOFVHSZWAJP63GUOQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "3 AI Stocks You Should Be Buying Hand Over Fist"
     excerpt: "Therefore, investing in the chipmaker that provides the most high-performance AI chips is the ideal way to capitalize on this trend. On the date of publication, Chris MacDonald did not have (either directly or indirectly) any positions in the securities ..."
     publishedDateTime: 2023-05-23T09:17:00Z

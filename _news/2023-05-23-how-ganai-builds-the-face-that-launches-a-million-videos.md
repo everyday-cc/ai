@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidprosser/2023/05/23/how-ganai-build
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/05/23/how-ganai-builds-the-face-that-launches-a-million-videos/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 1200
     height: 562
     isCached: true
+
+related:
+  - title: "AI video startup Gan.ai raises $5.25 million"
+    excerpt: "Generative artificial intelligence-based video creation platform Gan.ai on Tuesday said it has raised $5.25 million in a seed funding round led by Surge, which is Sequoia Capital India’s rapid scale-up programme."
+    publishedDateTime: 2023-05-24T00:30:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/ai-video-startup-gan-ai-raises-5-25-million/articleshow/100454996.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/ai-video-startup-gan-ai-raises-5-25-million/amp_articleshow/100454996.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/ai-video-startup-gan-ai-raises-5-25-million/amp_articleshow/100454996.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 37
 
 secured: "Lf9Yl01l3YJsmlLs+zvJZLM8keTEZzJVcUN+KLNIqF8LB3NkI2rsVNbkVOmo2f+dTLTWX5QSyJwIl/FPnFTUOiYMRj/TZy/UmTPSteRxLtmtSLczjBnJJHgmQuX+Mmxez0qwL417l17r9LkIQDXeuh+HV4Sq7UythGPyRbLunVueY0jpTbgf8BG465WOtdkgx31f00/sMLAZUarRb1qH1eU4pkB7SnpK4QQUBmEGUXoaWVZHr11koCSr7ObuYdQ8RuqUrmPIM0vchWXFeYL6RfVk3ZgGGnPTQ/vV+52+spJzvtC9qjmm0Dy3/IN4bsp4RCJCL51bzUHZ+xFj7oX1ZMGICEbmWELTosj9bTAfqo2zpvW8Br1bqdOmwv5NCaH1bZ+5Ma3fJTNypWYuudJeArpNu5Odr0D1h4MO+jF3EeBN5Viiyh4x7VMWbSF9OomOB1IDKIMauzAraKABDbIwElbl1xkfRkq+DuH0kMuGVQRphLPwsvRDTgl04OLaRAN8ANW91RsJGnA4VUlA5dlOOQ==;0CJVG+mDCoeOI4Fs+WBCaA=="
 ---

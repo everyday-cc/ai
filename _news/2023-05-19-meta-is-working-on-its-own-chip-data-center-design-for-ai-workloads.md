@@ -35,6 +35,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Meta makes its AI technology open source and unveils custom computer chips"
+    excerpt: "Meta Platforms Inc (NASDAQ:FB) has not only created an artificial intelligence (AI) technology, called LLaMA, that can power online chatbots, but the Silicon Valley giant has now unveiled its newly built custom computer chips to help with its AI and video ..."
+    publishedDateTime: 2023-05-19T15:31:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1015589/meta-makes-its-ai-technology-open-source-and-unveils-custom-computer-chips-1015589.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 52
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA1XC9zaHV0dGVyc3RvY2stMjE1Mjc1ODg4Ny5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9fX0="
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "9KKjuw9C/NVNpH7PqlHWNL+FNlXbTZShAUVnSLP7Xqdh3/TJaXnG74ns5ajK0x1KID8XsisF0dekVkYUREp5iIA0Z4AzNqofxo5nlTfBx2yoMGdhmm3uMMwogSk1PShLqz2VJy6uVlNxRhGXXm7/AIZqct0hQ6LS+CI+ccbeB4kC0i+6qDveugNaZI9x0etBmgiNvtbwd3ZL71G8JSyaMoO61xx5AGSRADCaJXpdHi3Wsi6Urmx+Tl9RbSs/QSerKkWOxbkYIZR10cTK8yXOkOr9VxyzTfZbbm+yf+U711zXmXhgBwaMt4W7HRAtKOZPotLuR0a7ZK0LHf/AaAmfHUDl4+p0NmCaa1ZiUmMOfz527SCv6y2j6We6QbDQ89oV6morzZF8g88DgRwulWdj20J+qCRu1/EK8b0Q0cMsLpXpAXK2dxVnmZm4cOXmLefBo5sa8c6IHbn/3ZWQGDwrfEqCpjJDmgMpeu/T543YzhloQnQs1yWeBru9/cn6NC84GxZX20SAWjcB11/0tu2Pfg==;BNGkWvjAJNW2yWQpfCMVzg=="
 ---

@@ -39,6 +39,17 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "AI-First FinTech Platform Line expands to capture $10 Trillion in Annual Spending Power at the Bottom of the Pyramid"
+    excerpt: "Line Financial Creator of Americas #1 Smart Wallet AppTM, expands its AI capabilities to capture $10 Trillion in Annual Spending Power at the Bottom of the Pyramid in the US. SAN FRANCISCO, May 23, 20"
+    publishedDateTime: 2023-05-23T21:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32541435/ai-first-fintech-platform-line-expands-to-capture-10-trillion-in-annual-spending-power-at-the-bott"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32541435"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32541435"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 16
   - title: "Monty Finance highlights global expansion with innovative fintech solutions at Seamless middle east"
     excerpt: "With a commitment to innovation and client-centricity, MyMonty offers an empowering digital banking experience coupled with competitive offers and advanced AI-backed features. As a trusted FinTech enabler, MyMonty leverages its extensive expertise and ..."
     publishedDateTime: 2023-05-23T12:07:00Z

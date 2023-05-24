@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-en
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: TechCrunch
@@ -31,61 +31,31 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft announces Azure tools to help developers deploy complex environments and secure their apps"
-    excerpt: "Next up is another tool that can ease the workload of developers and reduce the worry of admins: GitHub Advanced Security for Azure DevOps. Last year, Microsoft announced this service was coming, and now, Microsoft is announcing the availability of a public preview."
-    publishedDateTime: 2023-05-23T15:01:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-announces-azure-tools-to-help-developers-deploy-complex-environments-and-secure-their-apps/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-azure-tools-to-help-developers-deploy-complex-environments-and-secure-their-apps/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-azure-tools-to-help-developers-deploy-complex-environments-and-secure-their-apps/"
+  - title: "Why Microsoft is combining all its data analytics products into Fabric"
+    excerpt: "The integration of its existing products such as Synapse and Power BI will help enterprises combine workloads while reducing IT integration overhead, complexity and costs."
+    publishedDateTime: 2023-05-23T15:00:00Z
+    webUrl: "https://www.infoworld.com/article/3697020/why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.html"
+    ampWebUrl: "https://www.infoworld.com/article/3697020/why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3697020/why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.amp.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: InfoWorld
+      domain: infoworld.com
     quality: 89
     images:
-      - url: "https://www.zdnet.com/a/img/resize/c1e41e19b8a3f4e5c5306cba90afb53a6dff435f/2023/05/23/0eacd389-da03-4a85-977f-27457bc2cc96/gettyimages-1461116181.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://images.idgesg.net/images/article/2017/07/thread_weave_factory_automated_loom-100728392-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Microsoft India announces the addition of 4 new languages to Translator"
-    excerpt: "Users can translate Konkani, Maithili, Sindhi, and Sinhala text, supported in more than 125 languages, for their apps, websites, workflows, and tools with Azure Cognitive Services Translator"
-    publishedDateTime: 2023-05-19T11:48:00Z
-    webUrl: "https://www.mid-day.com/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
-    ampWebUrl: "https://www.mid-day.com/amp/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
+  - title: "Informatica Announces Integration of its Intelligent Data Management Cloud with Microsoft Fabric"
+    excerpt: "Informatica is one of the first ISV design partners for Microsoft Fabric and brings Azure customers access to IDMC's comprehensive suite of capabilities as a first-party service. The integration allows Azure customers to have: Seamless integration with Informatica's Data Quality solution to identify and provide high quality,"
+    publishedDateTime: 2023-05-23T15:31:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/23/9819642.htm"
     type: article
     provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 61
-    images:
-      - url: "https://images.mid-day.com/images/images/2023/may/Microsoft-afp_d.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Check Point Software Extends Its Industry-Leading Cloud Firewall To Secure Microsoft Azure Virtual WAN"
-    excerpt: "CloudGuard Network Security provides organizations with cyber resilience through a consumption-based offering, seamlessly integrated inside the A"
-    publishedDateTime: 2023-05-23T08:55:00Z
-    webUrl: "https://menafn.com/1106293303/Check-Point-Software-Extends-Its-Industry-Leading-Cloud-Firewall-To-Secure-Microsoft-Azure-Virtual-WAN"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 38
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/23/M_b53b8image_story.jpg"
-        width: 703
-        height: 879
-        isCached: true
-  - title: "Habu Announces Collaboration With Microsoft Azure to Deliver Zero-Trust Data Clean Room"
-    excerpt: "Habu, a global innovator in data clean room software, today announced a collaboration with Microsoft Azure to integrate its Data Clean Room applicatio"
-    publishedDateTime: 2023-05-23T19:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230523005491/en/Habu-Announces-Collaboration-With-Microsoft-Azure-to-Deliver-Zero-Trust-Data-Clean-Room"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 26
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "rQkeNFJX340GSEvyfP3kwY2pKDpMGEHVE7/ZBuPHP0/RfwmIRL8N/dEj/iHas+19aPOAUv68PJitVr5vwM4ECFZKbDqIWpLYTW1WGWm0LSnwWU1mTJxuu4TvpVzb7Qa0ApVH2eTyalXaa2jJMxWuImmqSHcWZgmd3rTynbycTK4IwqQjETZgCYr/YPouMNsE2iroIsXSgoh4OsS515j+9dCWMAGYIlm2wTnfYvLR08L/RwUUMCammrR3enbpv+PTjc9coAh4vsG/IrqYGSJokxovnwvMNdmPDfMPHiKjJeyAUfcoFKnWzB2f/V51cwMKWcCw4LqCR5t2Pt0d/v9l2N+muXpcsjAjJFb3Cr2uReA=;KuBRaZUPeUwCeTYe0GPCDg=="
 ---

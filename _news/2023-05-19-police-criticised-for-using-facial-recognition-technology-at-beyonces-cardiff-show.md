@@ -9,8 +9,8 @@ ampWebUrl: "https://mixmag.net/amp/police-criticised-for-using-facial-recognitio
 cdnAmpWebUrl: "https://mixmag-net.cdn.ampproject.org/c/s/mixmag.net/amp/police-criticised-for-using-facial-recognition-at-beyonces-cardiff-show"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Mixmag
@@ -36,15 +36,6 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 15
-  - title: "Police scan thousands of Beyoncé fans in Cardiff with live face recognition cameras in move branded 'China-like surveillance' by campaigners"
-    excerpt: "Police scanned thousands of Beyoncé fans in Cardiff with live face recognition cameras as campaigners warn of a potential descent into 'China-like surveillance'. Fans flocked to the ..."
-    publishedDateTime: 2023-05-19T07:18:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12099811/Police-scan-Beyonc-fans-Cardiff-live-face-recognition-cameras-China-like-surveillance.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 0
 
 secured: "umKAJh2CGayHrkwQSWoVvxGX+jONLyuds6RVehmKss3xmdeQ5c4/8SFfzN3ZiFhQDnS/DIJSklALALPBtpNCDWWmzXobHgzTtWAdlEo3TTJPXustC6HiUo8eTczK86gt6HDfoO+JU51RLoDJUGGTrheAfqqLme6qrS7MZTtJkUZtiNfno83GYFSW6ct30sbOIyYPreYjCdOT3HO7J2widjrESA289DHcri8YcR6+ul2nXh7li22HS/hAHNY1/si4VFdSg5OGMkcbtb2fq662/2SbNQ1rytzEcg2VmtwkWzvIj6drliIBFW/tHq6amvnFpfR8HEfQ6gC0ySX/jiMx/I+fMCgCAygAGFrLHtuQoi8PVECiXM2teDx1i/9T3AReAiqDHkWnMpO3nBpEIrNiu3Y9A503IiVESZ/EdHpDAY1VTFU/RIr9BhdNg3P8bi8D5EoeGpd1PDrdgQ9dj9jZHc32Ik0fz0KewTcoFC7W/nOiRyIaFdzYsxzn15z9BUAemKZjMVXVNQcvigaZhjPqJA==;XD89Sqm1ynCQrp9OhSy/5A=="
 ---

@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "TSA testing facial recognition at more airports, raising privacy concerns"
-    excerpt: "It's all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country. \"What we are trying to ..."
-    publishedDateTime: 2023-05-21T00:39:00Z
-    webUrl: "https://thetandd.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_13b88a5e-b6bb-5b29-af67-79e1b2f437be.html"
-    type: article
-    provider:
-      name: The Times and Democrat
-      domain: thetandd.com
-    quality: 53
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thetandd.com/content/tncms/assets/v3/editorial/6/c5/6c5c4c6b-b208-531b-a4bb-07ea46ab0d2c/64642a16266d1.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "TSA tests facial recognition at more airports, raising concerns on privacy"
     excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"
     publishedDateTime: 2023-05-22T07:10:00Z
