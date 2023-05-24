@@ -124,20 +124,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Korean AI chip startups face losses in 2022 despite ChatGPT momentum"
-    excerpt: "Although the artificial intelligence (AI) market, including chatbot technologies like ChatGPT, is gradually expanding and expected to drive growth in the IC design industry, South Korean AI chip startups faced significant losses in 2022."
-    publishedDateTime: 2023-05-19T06:54:00Z
-    webUrl: "https://www.digitimes.com/news/a20230519PD206/ai-ic-design-distribution-south-korea.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230519pd206_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Official ChatGPT For iOS App Launches With Voice Support"
     excerpt: "In a pretty big move, OpenAI has just launched the official ChatGPT app for iPhone and iPad, eliminating the need to go through mobile browsers for access. However, that is not all, the app brings with it support for Whisper;"
     publishedDateTime: 2023-05-19T15:35:00Z
@@ -163,20 +149,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 40
-  - title: "OpenAI's ChatGPT iOS app debuts with voice search, no ads"
-    excerpt: "OpenAI's ChatGPT has been a runaway success. The chatbot's popularity paved the way for the ongoing AI revolution. The company has now launched an iOS app for the chatbot for users who like to use it \"on the go.\" Android users should not worry because a ChatGPT Android app will be available soon. Now, let's see the features of the ChatGPT iOS app."
-    publishedDateTime: 2023-05-19T05:25:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/openai-launches-chatgpt-app-for-ios/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 39
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l5520230519104316.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Apple Bans Employees From Using ChatGPT Amid Its Own AI Efforts"
     excerpt: "Apple has restricted employee use of ChatGPT and other external artificial intelligence utilities amid the development of its own similar"
     publishedDateTime: 2023-05-19T11:20:00Z

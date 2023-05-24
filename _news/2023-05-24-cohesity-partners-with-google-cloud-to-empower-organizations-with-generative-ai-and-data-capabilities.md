@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/cohesity-partners-google-cloud-empower-or
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 155
 published: true
 
 provider:

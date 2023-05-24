@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-24-goldman-sachs-and-microsoft-are-quietly-using-ai-to-lay-the-groundwork-for-the-next-bitcoin-ethereum-and-crypto-price-bull-run.md",
+      "title": "Goldman Sachs And Microsoft Are Quietly Using AI To Lay The Groundwork For The Next Bitcoin, Ethereum And Crypto Price Bull Run",
+      "excerpt": "Wall Street giant Goldman Sachs and Microsoft﻿ are among companies backing a new blockchain designed to streamline financial",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/05/23/goldman-sachs-and-microsoft-are-quietly-using-ai-to-lay-the-groundwork-for-the-next-bitcoin-ethereum-and-crypto-price-bull-run/",
+      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/05/23/goldman-sachs-and-microsoft-are-quietly-using-ai-to-lay-the-groundwork-for-the-next-bitcoin-ethereum-and-crypto-price-bull-run/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646ce9abf88059e0ae467d31/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/05/23/goldman-sachs-and-microsoft-are-quietly-using-ai-to-lay-the-groundwork-for-the-next-bitcoin-ethereum-and-crypto-price-bull-run/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/05/23/goldman-sachs-and-microsoft-are-quietly-using-ai-to-lay-the-groundwork-for-the-next-bitcoin-ethereum-and-crypto-price-bull-run/amp/",
+      "publishedDateTime": "2023-05-23T16:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-microsoft-cto-tells-devs-to-do-legendary-sht-with-ai-at-2023-build-conference.md",
+      "title": "Microsoft CTO tells devs to ‘do legendary sh*t’ with AI at 2023 Build conference",
+      "excerpt": "To help developers build AI effectively, securely and responsibly, Microsoft has announced a large set of updates and new initiatives",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/",
+      "originalUrl": "https://venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/Microsoft-Logo-white-bkgd.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/amp/",
+      "publishedDateTime": "2023-05-23T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-cohesity-partners-with-google-cloud-to-empower-organizations-with-generative-ai-and-data-capabilities.md",
       "title": "Cohesity partners with Google Cloud to empower organizations with generative AI and data capabilities",
       "excerpt": "Cohesity will utilize Google’s recent advancements in AI technology to enhance its AI-ready data security and management platform.",
@@ -10,7 +114,7 @@
       "originalUrl": "https://venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -62,7 +166,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-announces-azure-tools-to-help-developers-deploy-complex-environments-and-secure-their-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -114,7 +218,7 @@
       "originalUrl": "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -166,7 +270,7 @@
       "originalUrl": "https://www.computerworld.com/article/3697014/ethics-what-ethics-for-microsoft-its-full-speed-ahead-on-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -210,7 +314,7 @@
       "originalUrl": "https://www.cnet.com/tech/services-and-software/microsoft-bing-ai-chat-widgets-how-to-get-them-on-ios-and-android/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 424,
+      "heat": 444,
       "tags": null,
       "images": [
         {
@@ -1382,93 +1486,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-cloud-services-ai-partner-programs-and-other-ways-to-boost-your-companys-valuation.md",
-      "title": "Cloud Services: AI, Partner Programs And Other Ways To Boost Your Company’s Valuation",
-      "excerpt": "These companies have leveraged Google's technology resources to develop cutting-edge solutions for a wide range of industries, including ICT, healthcare, finance, retail and manufacturing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/09/cloud-services-ai-partner-programs-and-other-ways-to-boost-your-companys-valuation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/09/cloud-services-ai-partner-programs-and-other-ways-to-boost-your-companys-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6266a4046d73c134e2109d5b/0x0.jpg?format=jpg&crop=5735,3222,x1963,y0,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/09/cloud-services-ai-partner-programs-and-other-ways-to-boost-your-companys-valuation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/09/cloud-services-ai-partner-programs-and-other-ways-to-boost-your-companys-valuation/amp/",
-      "publishedDateTime": "2023-05-09T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai.md",
-      "title": "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI",
-      "excerpt": "SymphonyAI announced today its first generative AI software application that integrates Microsoft Azure OpenAI Service. Sensa Copilot provides sophisticated AI assistance to financial crime ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/n32282145/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/n32282145/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32282145",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32282145",
-      "publishedDateTime": "2023-05-09T03:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

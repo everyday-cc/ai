@@ -36,15 +36,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "NVIDIA Collaborates With Microsoft to Accelerate Enterprise-Ready Generative AI"
-    excerpt: "The integration will create a secure, enterprise-ready platform that enables Azure customers worldwide to quickly build, deploy and manage customized applications using the more than 100 NVIDIA AI frameworks and tools that come fully supported in NVIDIA AI Enterprise,"
-    publishedDateTime: 2023-05-23T20:49:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/23/9819788.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
   - title: "BeeKeeperAI's Patented Collaboration Platform Drives Healthcare AI Advancements on Protected Data"
     excerpt: "To accelerate healthcare AI development on protected information, BeeKeeperAI announced the commercial release of its patented, zero-trust collaboration platform. EscrowAI harnesses Azure confidential computing to address the challenges of data sovereignty ..."
     publishedDateTime: 2023-05-22T22:03:00Z

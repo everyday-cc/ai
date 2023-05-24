@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-04-13-honda-planning-self-driving-electric-vehicle-fitted-with-ai.md",
+      "title": "Honda planning self-driving electric vehicle fitted with AI",
+      "excerpt": "Honda Motor Co. said it is developing a self-driving compact electric car equipped with artificial intelligence (AI) that automatically picks up passengers at any location of their choosing. Honda ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asahi.com/ajw/articles/14760121",
+      "originalUrl": "https://www.asahi.com/ajw/articles/14760121",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "朝日新聞社",
+        "domain": "asahi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-12-regulating-ai-three-experts-explain-why-its-difficult-to-do-and-important-to-get-right.md",
       "title": "Regulating AI: Three experts explain why it's difficult to do and important to get right",
       "excerpt": "From fake photos of Donald Trump being arrested by New York City police officers to a chatbot describing a very-much-alive computer scientist as having died tragically, the ability of the new generation of generative artificial intelligence systems to create convincing but fictional text and images is setting off alarms about fraud and misinformation on steroids.",
@@ -1267,49 +1301,6 @@
       "provider": {
         "name": "CBS News",
         "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-near-the-us-border-aurora-teaches-self-driving-trucks-to-navigate-checkpoints.md",
-      "title": "Near the U.S. border, Aurora teaches self-driving trucks to navigate checkpoints",
-      "excerpt": "Self-driving tech company Aurora is collaborating with the U.S. Border Patrol to assess how autonomous trucks navigate checkpoints as part of its preparations for a 2024 commercial launch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/mobility-report/auroras-self-driving-trucks-greeted-us-border-checkpoint",
-      "originalUrl": "https://www.autonews.com/mobility-report/auroras-self-driving-trucks-greeted-us-border-checkpoint",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Sierra-MAIN_i.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
         "images": null,
         "publishers": null,
         "authors": null

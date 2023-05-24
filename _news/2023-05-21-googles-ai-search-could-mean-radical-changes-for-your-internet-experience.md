@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/googles-ai-search-could-mean-ra
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-ai-search-could-mean-radical-changes-for-your-internet-experience/"
 type: article
 quality: 87
-heat: 88
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Bill Gates Says AI Could Mean the End of Search Engines"
+    excerpt: "Bill Gates Says AI Could Mean , the End of Search Engines. Gates recently spoke at a San Francisco tech event called AI Forward, Insider reports. He said that artificial"
+    publishedDateTime: 2023-05-23T23:30:00Z
+    webUrl: "https://www.sfweekly.com/news/national/bill-gates-says-ai-could-mean-the-end-of-search-engines/video_51a252b5-13bc-547f-97bc-f4d770afa033.html"
+    type: article
+    provider:
+      name: SF Weekly
+      domain: sfweekly.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/sfweekly.com/content/tncms/assets/v3/editorial/5/1a/51a252b5-13bc-547f-97bc-f4d770afa033/646d237db4ae2.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Am8s0hjLkkzQhSe1w12GjU9T3vR6FVDueksODECT2m5V5Z79Q7KwZ0Iaty8uwtawwN5r8q/vbBRtfde7+12bVtzjD6BLBkd/6faxrEjK69Iq9kZVF6WKISQwWw3jQDwjIlDYQQ+16ukUO6zsgUam1oqX0SWVyQQySok+4i72GZ068nevgNu3jKgyb9KrlY7BwQ5T9UvysQJ7orlHxkvs6ezDNpyh0ZOS1diiT9iG5pZcfbItH9WPZhz92SoKVKSbTSk31k7YoX/jle70Z/w9nA1jsLAI+RXVWZy0z3/xmg+2aiz08Y58H1S3xecdDjgj70zoQPTPPalw545289uphmTUc/ZYVU/cLxRGiEw4Ld/pY02Zl2LCXeTVCwREIjjH/NIREyvVe5NWSdWxAvqD1+kAZs/Iay45qIoXD1xXi52etigsHLytKFA+XbPEqvRpYgBoXqhGcj7riM4DyiQxvkcVtJC6UlnKDH2JT5J21yi5QckDZODeCaA3tWp+xaWV4dAy07QQQ8rAsOfLUrvVPw==;A/IiSMYWKbPd0R3nv+7Tkw=="
 ---

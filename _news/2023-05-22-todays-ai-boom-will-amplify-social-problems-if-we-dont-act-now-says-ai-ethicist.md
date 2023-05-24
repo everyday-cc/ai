@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/todays-ai-boom-will-amplify
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist/"
 type: article
 quality: 83
-heat: 85
+heat: 83
 published: true
 
 provider:

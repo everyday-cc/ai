@@ -60,29 +60,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft’s Azure AI Studio lets developers build their own AI ‘copilots’"
-    excerpt: "Microsoft is introducing several new features in Azure AI Studio aimed at enabling companies to build and deploy fine-tuned AI 'copilots.'"
-    publishedDateTime: 2023-05-23T16:00:00Z
-    webUrl: "https://techcrunch.com/2023/05/23/microsoft-debuts-azure-ai-studio-to-let-developers-build-their-own-ai-copilots/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 78
-  - title: "Microsoft Build 2023: The Biggest Azure News"
-    excerpt: "Microsoft Build 2023 included news around DevOps, Azure AI Content Safety, Azure Cognitive Service for Language and Microsoft Fabric."
-    publishedDateTime: 2023-05-23T15:00:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-build-2023-the-biggest-azure-news"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0281-17e8a96e83eb-d93a4c3e590a-1000/microsoft-azure-sign-2.jpeg"
-        width: 500
-        height: 375
-        isCached: true
   - title: "Check Point Software Extends Its Industry-Leading Cloud Firewall To Secure Microsoft Azure Virtual WAN"
     excerpt: "CloudGuard Network Security provides organizations with cyber resilience through a consumption-based offering, seamlessly integrated inside the A"
     publishedDateTime: 2023-05-23T08:55:00Z

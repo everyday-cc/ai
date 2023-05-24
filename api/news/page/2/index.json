@@ -2,6 +2,247 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-23-metas-chatgpt-rival-could-make-language-barriers-a-thing-of-the-past.md",
+      "title": "Meta's ChatGPT rival could make language barriers a thing of the past",
+      "excerpt": "This move suggests the company is deeply invested in dominating the AI language translation space, but also encourages collaboration in the field. Normally, speech recognition and text-to-speech AI programs need extensive training on a large number of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/metas-chatgpt-rival-could-make-language-barriers-a-thing-of-the-past",
+      "originalUrl": "https://www.techradar.com/news/metas-chatgpt-rival-could-make-language-barriers-a-thing-of-the-past",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/iQWK76oepRkaWM2CCpqgVV-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-how-ganai-builds-the-face-that-launches-a-million-videos.md",
+      "title": "How Gan.Ai Builds The Face That Launches A Million Videos",
+      "excerpt": "Generative AI specialist Gan.ai has raised $5.25 million of seed finance as it looks to build on the early success of its technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidprosser/2023/05/23/how-ganai-builds-the-face-that-launches-a-million-videos/",
+      "originalUrl": "https://www.forbes.com/sites/davidprosser/2023/05/23/how-ganai-builds-the-face-that-launches-a-million-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646bacd05834b297f85f411d/0x0.jpg?format=jpg&crop=6141,2876,x3,y338,safe&width=1200",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2023/05/23/how-ganai-builds-the-face-that-launches-a-million-videos/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/05/23/how-ganai-builds-the-face-that-launches-a-million-videos/amp/",
+      "publishedDateTime": "2023-05-23T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-ai-to-protect-french-open-players-against-cyber-bullying.md",
+      "title": "AI to protect French Open players against cyber bullying",
+      "excerpt": "The players’ Facebook, Instagram, Twitter, YouTube, TikTok and Discord social media platforms will be monitored. Players must scan the QR provided by Bodyguard to connect their social media accounts to the system. AI is used to moderate the comments in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/KA3WwqdzB4k7rydZ",
+      "originalUrl": "https://www.itweb.co.za/content/KA3WwqdzB4k7rydZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2023/05/Roland-Garros-2023.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/KA3WwqdzB4k7rydZ",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3WwqdzB4k7rydZ",
+      "publishedDateTime": "2023-05-23T02:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-meta-introduces-speech-ai-models-to-identify-over-4000-spoken-languages.md",
+      "title": "Meta introduces speech AI models to identify over 4000 spoken languages",
+      "excerpt": "Facebook and Instagram's owner, Meta, has announced series of artificial intelligence (AI) models that can identify more than 4,000 spoken languages, 40 times more",
+      "sourceUrl": null,
+      "webUrl": "https://www.gulf-times.com/article/661582/international/meta-introduces-speech-ai-models-to-identify-over-4000-spoken-languages",
+      "originalUrl": "https://www.gulf-times.com/article/661582/international/meta-introduces-speech-ai-models-to-identify-over-4000-spoken-languages",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gulf-times.com/gulftimes/uploads/images/2023/05/23/33252.jpg",
+          "width": 1000,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gulf-times.com/article/661582/international/meta-introduces-speech-ai-models-to-identify-over-4000-spoken-languages/amp",
+      "cdnAmpWebUrl": "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/661582/international/meta-introduces-speech-ai-models-to-identify-over-4000-spoken-languages/amp",
+      "publishedDateTime": "2023-05-23T02:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf Times",
+        "domain": "gulf-times.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-modular-app-building-platform-builderai-raises-250-million-series-d-funding.md",
+      "title": "Modular app-building platform Builder.ai raises $250 million Series D funding",
+      "excerpt": "It was only recently that we reported Buildier.ai had signed a strategic collaboration with and undisclosed investment from Microsoft. Builder’s “Natasha” AI will be shortly available to users of Teams.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/23/modular-app-building-platform-builder-ai-raises-250-million-series-d-funding/",
+      "originalUrl": "https://techcrunch.com/2023/05/23/modular-app-building-platform-builder-ai-raises-250-million-series-d-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1324680765.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/23/modular-app-building-platform-builder-ai-raises-250-million-series-d-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/modular-app-building-platform-builder-ai-raises-250-million-series-d-funding/amp/",
+      "publishedDateTime": "2023-05-23T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-llms-and-the-rise-of-the-ai-code-generators.md",
       "title": "LLMs and the rise of the AI code generators",
       "excerpt": "Large language models like GPT-4 and tools like GitHub Copilot can make good programmers more efficient and bad programmers more dangerous. Are you ready to dive in?",
@@ -10,7 +251,7 @@
       "originalUrl": "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -62,7 +303,7 @@
       "originalUrl": "https://www.reuters.com/technology/indias-infosys-unveils-ai-platform-2023-05-23/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -217,7 +458,7 @@
       "originalUrl": "https://www.computerworld.com/article/3697014/ethics-what-ethics-for-microsoft-its-full-speed-ahead-on-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -759,7 +1000,7 @@
       "originalUrl": "https://www.reuters.com/news/picture/intel-gives-details-on-future-ai-chips-a-idUSKBN2XD1A3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -987,253 +1228,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-ai-is-here-will-it-save-or-kill-your-agency.md",
-      "title": "AI Is Here: Will It Save Or Kill Your Agency?",
-      "excerpt": "Incorporating AI technology in agency processes and teams is imperative to thrive successfully in the upcoming years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/22/ai-is-here-will-it-save-or-kill-your-agency/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/22/ai-is-here-will-it-save-or-kill-your-agency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6467873bf079ab155b41e295/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/22/ai-is-here-will-it-save-or-kill-your-agency/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/05/22/ai-is-here-will-it-save-or-kill-your-agency/amp/",
-      "publishedDateTime": "2023-05-22T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-the-risks-and-rewards-of-artificial-intelligence-in-cybersecurity.md",
-      "title": "The Risks And Rewards Of Artificial Intelligence In Cybersecurity",
-      "excerpt": "AI systems are only as insightful as the data used in training these models. It is possible to encode bias inadvertently and unintentionally into them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/22/the-risks-and-rewards-of-artificial-intelligence-in-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/22/the-risks-and-rewards-of-artificial-intelligence-in-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64676cab65fa9edb0d41e295/0x0.jpg?format=jpg&crop=3729,2094,x1276,y0,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/22/the-risks-and-rewards-of-artificial-intelligence-in-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/22/the-risks-and-rewards-of-artificial-intelligence-in-cybersecurity/amp/",
-      "publishedDateTime": "2023-05-22T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-nvidia-has-gone-big-into-ai-its-chips-will-now-power-supercomputers.md",
-      "title": "Nvidia Has Gone Big Into AI. Its Chips Will Now Power Supercomputers.",
-      "excerpt": "Nvidia said a new supercomputer will be based on its Grace CPU Superchip, marking a push into an area dominated by Intel and AMD.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/nvidia-stock-ai-intel-amd-chips-534a258b",
-      "originalUrl": "https://www.barrons.com/articles/nvidia-stock-ai-intel-amd-chips-534a258b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-392288/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b",
-      "publishedDateTime": "2023-05-22T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-some-42-of-gen-z-workers-are-nervous-to-tell-their-manager-they-are-using-ai-at-work-new-survey-finds.md",
-      "title": "Some 42% of Gen Z workers are nervous to tell their manager they are using AI at work, new survey finds",
-      "excerpt": "UK companies are falling behind on implementing AI at work leaving employees in the dark about whether and how they can use AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5",
-      "originalUrl": "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64675e70cd3a9c0019184f68?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5?amp",
-      "publishedDateTime": "2023-05-22T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-6-predictions-on-how-apple-will-join-the-ai-business-race.md",
-      "title": "6 Predictions On How Apple Will Join The AI Business Race",
-      "excerpt": "Apple hasn’t yet made its big AI move. Here are 6 predictions on what they will do, and how each might affect your business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/",
-      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646b115dc42fa4e32d4bd1e7/0x0.jpg?format=jpg&crop=3290,1850,x0,y52,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/amp/",
-      "publishedDateTime": "2023-05-22T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

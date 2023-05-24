@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "This startup uses generative AI to speed up the property-buying process. Check out the 14-slide pitch deck Orbital Witness used to raise $9 million."
-    excerpt: "The London-based startup, founded in 2017, deploys generative AI during the due diligence process to free up lawyers and real estate professionals."
-    publishedDateTime: 2023-05-19T07:00:00Z
-    webUrl: "https://www.businessinsider.com/orbital-witness-fundraise-startup-uses-generative-ai-to-buy-properties-2023-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
-    images:
-      - url: "https://i.insider.com/6465e966fb9a9d0018c905ed?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "S95/nfSZt4i6o+584Sod6qZBO346ooXLNv7I02ZLKLR+yJysE+2LElEoZ3foSeVLGIyEkX0xIx02dVDi7yY9LA9hhlAXunx1Mt8ER1zSgbDIzsYXLbxYj/ltIYW4HD2hwS+yQ/qNyOCXmYsak1OGR+4gbGmdiGvD8L85WYJzwJFZg6oAUt3jRiHzw5/LnXmW6z21vY0/+IQOsrau6OperL2r78+uh/jbn+bMXrEWnFf/yGvGDNhy0dRVdeBWf+TLMwG6airnfekx/pxHitgwDGqq9tmhkDnynhokV4d72GC8ZUXiybV5+j3CL5iF7mJqo1vJjVAL99SOGtGpHnncdZyr5eY0zv98oTYriavYkqeEB151mKnf8LVmwy/KH//w6VIEf/a4nXblJOXHf2dFblsJ+5Ta80lmDEwTxgdxG4KdDeqX5M/zopkzLEblS/WjbVWQ4p4+7e1cNi6OF19YPVxE3IWqFNGHb40zfKB5CC8kNPvPsL/MsCDM1hQBVxrkkN3dp5NYZNMgooRQfBAmEA==;bjLPxgXu0qiWAHXAfImyxg=="
 ---

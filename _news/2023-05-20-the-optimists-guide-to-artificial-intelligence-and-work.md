@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Exploring the potential of generative AI in games"
+    excerpt: "Jon Radoff, Kylan Gibbs, Matt White and Hilary Mason sit down at the GamesBeat Summit to chat about generative AI in games."
+    publishedDateTime: 2023-05-23T23:40:00Z
+    webUrl: "https://venturebeat.com/games/exploring-the-potential-of-generative-ai-in-games/"
+    ampWebUrl: "https://venturebeat.com/games/exploring-the-potential-of-generative-ai-in-games/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/exploring-the-potential-of-generative-ai-in-games/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/AIpanel.jpg?w=1200&strip=all"
+        width: 1200
+        height: 673
+        isCached: true
 
 secured: "/1vj0ul5XJ4BMDXTctHSPkkQ0LloW9GQv5dKB4CSstP3STkxhZ5rNsXF5D1i0tQr4LVFshT3DHa3skiSebF+uwV94u3VAdTgLA+AEwfkvYAXJrDT5/W3H9UsDfhint49jcEeWbbL7+Cl6ZDASM6jtez/Ct7dtD75O+PD+6gl1hyIM+2ceKwZo5hJNG6EtwSsq60r/0oM+iGuJd0FOUnArlzaG2DRbdDEzCpI5Ty0K+ptM+iwhPBQ6RDtSp/JlMBmZwqvVZQTxzxUGnq6Au+R6K7fVoXhJi8+QKzYcLsVSdiHnJmglm4QzXVt4iQEwIhUAW3IcIZ7nvhB56k/Vwd75IZx+yav1P+1uodOv0pN6QgcqFV9UB2r4H08N1WAWGODw4P3PMlpn3ih3jo5daqrxdtDO/tARweIsyS8s35pGSgyQWfEmtGNI12BdUEL7L9QRoQibj3NaYJ/oTek+qxGcObp11sjthECuw2WYqgANDz5ywEQ4cdhktS+Vx1DOXAASzuLg8zMPr559tE5XiYV9w==;tyZf5DtbUASyKz35d1MZ8Q=="
 ---

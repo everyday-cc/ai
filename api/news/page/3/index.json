@@ -2,6 +2,253 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-22-ai-is-here-will-it-save-or-kill-your-agency.md",
+      "title": "AI Is Here: Will It Save Or Kill Your Agency?",
+      "excerpt": "Incorporating AI technology in agency processes and teams is imperative to thrive successfully in the upcoming years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/22/ai-is-here-will-it-save-or-kill-your-agency/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/22/ai-is-here-will-it-save-or-kill-your-agency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6467873bf079ab155b41e295/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/05/22/ai-is-here-will-it-save-or-kill-your-agency/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/05/22/ai-is-here-will-it-save-or-kill-your-agency/amp/",
+      "publishedDateTime": "2023-05-22T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-the-risks-and-rewards-of-artificial-intelligence-in-cybersecurity.md",
+      "title": "The Risks And Rewards Of Artificial Intelligence In Cybersecurity",
+      "excerpt": "AI systems are only as insightful as the data used in training these models. It is possible to encode bias inadvertently and unintentionally into them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/22/the-risks-and-rewards-of-artificial-intelligence-in-cybersecurity/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/22/the-risks-and-rewards-of-artificial-intelligence-in-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64676cab65fa9edb0d41e295/0x0.jpg?format=jpg&crop=3729,2094,x1276,y0,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/22/the-risks-and-rewards-of-artificial-intelligence-in-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/22/the-risks-and-rewards-of-artificial-intelligence-in-cybersecurity/amp/",
+      "publishedDateTime": "2023-05-22T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-nvidia-has-gone-big-into-ai-its-chips-will-now-power-supercomputers.md",
+      "title": "Nvidia Has Gone Big Into AI. Its Chips Will Now Power Supercomputers.",
+      "excerpt": "Nvidia said a new supercomputer will be based on its Grace CPU Superchip, marking a push into an area dominated by Intel and AMD.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/nvidia-stock-ai-intel-amd-chips-534a258b",
+      "originalUrl": "https://www.barrons.com/articles/nvidia-stock-ai-intel-amd-chips-534a258b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-392288/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b",
+      "publishedDateTime": "2023-05-22T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-some-42-of-gen-z-workers-are-nervous-to-tell-their-manager-they-are-using-ai-at-work-new-survey-finds.md",
+      "title": "Some 42% of Gen Z workers are nervous to tell their manager they are using AI at work, new survey finds",
+      "excerpt": "UK companies are falling behind on implementing AI at work leaving employees in the dark about whether and how they can use AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5",
+      "originalUrl": "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64675e70cd3a9c0019184f68?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5?amp",
+      "publishedDateTime": "2023-05-22T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-6-predictions-on-how-apple-will-join-the-ai-business-race.md",
+      "title": "6 Predictions On How Apple Will Join The AI Business Race",
+      "excerpt": "Apple hasn’t yet made its big AI move. Here are 6 predictions on what they will do, and how each might affect your business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/",
+      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646b115dc42fa4e32d4bd1e7/0x0.jpg?format=jpg&crop=3290,1850,x0,y52,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/amp/",
+      "publishedDateTime": "2023-05-22T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-22-artificial-intelligence-and-mankind.md",
       "title": "Artificial intelligence and mankind",
       "excerpt": "By NICK DAZANG ON August 2, 1939, Albert Einstein, the equivalent of a scientific genius, endorsed a letter drafted for him by a fellow physicist and inventor, Leo Spitz Szilard. The letter was sent to the United States President,",
@@ -139,7 +386,7 @@
       "originalUrl": "https://www.zdnet.com/article/todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -388,7 +635,7 @@
       "originalUrl": "https://www.cnet.com/tech/services-and-software/googles-ai-search-could-mean-radical-changes-for-your-internet-experience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -646,7 +893,7 @@
       "originalUrl": "https://www.foxnews.com/politics/absolutely-not-americans-weigh-kamala-harris-lead-ai-elon-musk-mocked",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -987,263 +1234,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-5-ways-europe-can-reduce-the-risks-of-ai-replacing-jobs.md",
-      "title": "5 ways Europe can reduce the risks of AI replacing jobs",
-      "excerpt": "Italy has launched a new $30m fund to support workers threatened by AI. It's one of numerous responses that governments are considering.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/how-to-protect-workers-from-ai-displacing-jobs",
-      "originalUrl": "https://thenextweb.com/news/how-to-protect-workers-from-ai-displacing-jobs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2FUntitled-design-10.jpg&signature=00d9b661998a59ae5ea9ffd38b47ff4b",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-20T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-google-at-io-2023-weve-been-doing-ai-since-before-it-was-cool.md",
-      "title": "Google at I/O 2023: We’ve been doing AI since before it was cool",
-      "excerpt": "That Google I/O show sure was something, wasn't it? It was a rip-roaring two hours of nonstop AI talk without a break. Bard, Palm, Duet, Unicorn, Gecko, Gemini, Tailwind, Oter—there were so many cryptic AI code names thrown around it was hard to keep track of what Google was talking about.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/google/2023/05/google-at-i-o-2023-weve-been-doing-ai-since-before-it-was-cool/",
-      "originalUrl": "https://arstechnica.com/google/2023/05/google-at-i-o-2023-weve-been-doing-ai-since-before-it-was-cool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/chrome_dcahmkPPXG-800x450.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/google/2023/05/google-at-i-o-2023-weve-been-doing-ai-since-before-it-was-cool/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/google/2023/05/google-at-i-o-2023-weve-been-doing-ai-since-before-it-was-cool/amp/",
-      "publishedDateTime": "2023-05-20T04:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-china-is-using-ai-to-raise-the-dead-and-give-people-one-last-chance-to-say-goodbye.md",
-      "title": "China is using AI to raise the dead, and give people one last chance to say goodbye",
-      "excerpt": "They wanted to speak to their dead grandparents one last time, so they used artificial intelligence to rebuild loved ones they'd lost.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5",
-      "originalUrl": "https://www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6453d02bb4a8cd00187ac433?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5?amp",
-      "publishedDateTime": "2023-05-20T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-we-put-googles-new-ai-writing-assistant-to-the-test.md",
-      "title": "We Put Google’s New AI Writing Assistant to the Test",
-      "excerpt": "I used Duet AI to send emails and plan my wedding. Its writing can be stuffy and stereotyping—but it’s a glimpse of the future of productivity apps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/googles-duet-ai-writing-assistant-review-test/",
-      "originalUrl": "https://www.wired.com/story/googles-duet-ai-writing-assistant-review-test/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6467cb66f2de86183cf5b3b2/191:100/w_1280,c_limit/Google-Duet-Hands-On-Business-Business-1468320082.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-20T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-ai-will-have-the-most-negative-impact-on-emerging-workforces.md",
-      "title": "AI Will Have The Most Negative Impact On Emerging Workforces",
-      "excerpt": "AI has been around for a while, as have its many dangers. In ‘The Levelling’ we wrote about how algorithms were both causing and provoking inequalities and social injustice. Last summer we flagged the very sinister example of how the Spiez Laboratory in Switzerland (see the Final Problem) one of whose specialisations is the study of deadly toxins and infectious diseases (located not too far away from the Reichenbach Falls),",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikeosullivan/2023/05/20/ai-will-have-the-most-negative-impact-on-emerging-workforces/",
-      "originalUrl": "https://www.forbes.com/sites/mikeosullivan/2023/05/20/ai-will-have-the-most-negative-impact-on-emerging-workforces/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64688f919388e7fff92e9948/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mikeosullivan/2023/05/20/ai-will-have-the-most-negative-impact-on-emerging-workforces/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/05/20/ai-will-have-the-most-negative-impact-on-emerging-workforces/amp/",
-      "publishedDateTime": "2023-05-20T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

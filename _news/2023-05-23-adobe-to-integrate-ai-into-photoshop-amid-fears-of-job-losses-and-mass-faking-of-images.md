@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Adobe adds generative AI to Photoshop"
+    excerpt: "The new AI tools will work similarly to other AI image creation technology, such as Midjourney and DALL-E, which allow people to produce pictures from simple text prompts."
+    publishedDateTime: 2023-05-23T17:16:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/adobe-adds-generative-ai-photoshop-rcna85548"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna85548"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna85548"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230522-ai-photoshop-lr-v3-77cd2e.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Adobe integrates generative AI directly into Photoshop with new Firefly capabilities"
     excerpt: "Adobe has announced its first generative AI integration with Photoshop, bringing Adobe Firefly capabilities directly into design workflows."
     publishedDateTime: 2023-05-23T11:00:00Z
@@ -70,7 +86,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 62
+    quality: 64
     images:
       - url: "https://i.insider.com/6467d7d312a976001917a0d7?width=1200&format=jpeg"
         width: 1200
@@ -136,6 +152,6 @@ related:
       domain: businesswire.com
     quality: 8
 
-secured: "IBTa07dwquUIE33ZhCIa3FS1PCfDV2adWtrtb8RYHxbJoiQkmVIie8XeXYYNRnVQROqaG2WNS7DMGKw32bahEmgHxVd3Q6mfNtB0vxMgpcetgFnXbcSNDSJRZNWzcc2R7UR5eLDCh5lHw1DvaEudVwZuaG0ZEiyrKb25pxTKXbg93sgaJLInYZrHv0UeBe3UY42vRJ5o4CNILuCo3j14+W38lN4CBJEyGWLGc7nQuWZ4J0OV7epAq7yNljIGqboya63OEgl03RKR6F8nL0ochSzgS+UwcG5jaS8Q9EHeNJ2Onso9gee+LurBf/CwV12OXKEmaBhfABKfkbLEglRgW+UlPV2GwWWOAujRv6CFnLk=;BAGtcQSe5vZ3MaWNnKBvdA=="
+secured: "tCwylUPReRE3oxJ+MIxPnY88xPdgYBv7m7TO5TnIHINbkTMwUyw1icnYhANdUtQBUFnrhR+LNgyKSru8OiBTGes4a7Ygi/i7k4+PQZK2Zk3Bwobp4mqzved+nMWqaIeP4bQxNzvJGhWU0F+nRXNkvYuOx/6kgd+ewDex9dbGxs1VZ8J+sENtuwPJCexqaOs9WRc3H52sJsO8nlGFm5deRqV4XRB9+ioTrgjVu1QNLZ6bd5w3c8LtQeGV41rT1JP145zIaJ9IFtackJGIWef9+0+AVBYeDud5T/x5hWROPLJaKPNKPxhRdn0VJHcKipGaW4cDDvLJJJQBupNoQ1z3dho+18yuhofL5n5+MXUrigwPPzXQrWtn3c/0HzJcfrvPhvxp4tnsATaGzKOZI57yTNH7HMaS9wF0Ps/MSN6QZkAK+4GEoBCVh+8wJrzDoqQGbbYAmJ//8v1B56EaVdRVh7JOLzAwhRzdrQqSx1qQzzgSamyg8OZC25ltO8TnR9+uF0Y7SYp/a5Rk0M1kqM7UpQ==;q6jZF5fXH/aJ9R54TWMs0Q=="
 ---
 

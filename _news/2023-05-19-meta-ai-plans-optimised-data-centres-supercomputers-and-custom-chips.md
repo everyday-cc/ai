@@ -7,7 +7,7 @@ originalUrl: "https://www.siliconrepublic.com/machines/meta-ai-supercomputers-da
 webUrl: "https://www.siliconrepublic.com/machines/meta-ai-supercomputers-data-centres-custom-ai-models-chips"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "Meta is working on its own chip, data center design for AI workloads"
+    excerpt: "The Facebook parent said that it is working on a new AI-optimized data center design and the second phase of its 16,000 GPU supercomputer for AI research."
+    publishedDateTime: 2023-05-19T13:37:00Z
+    webUrl: "https://www.networkworld.com/article/3696935/meta-is-working-on-its-own-chip-data-center-design-for-ai-workloads.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 38
 
 secured: "ToU0yYjNt1bzvlgA4p6yMtLmScG3i52DUS61LufRsvQBH9bAsewmqoh9NnEdvGCfqavcl2WVEJaH8ZzU47+0GUXgI0QCi1vqMBbEubGMPUNNX4mRklqiWURLfQRbr/uQzh6u/T5us9QHzOo2MQEaXuu9Lb2qiAjgaifAq/ouQhh/ooW2c8ndk4fivODgAMVMzoOqGFZplizM6NxfEabUqJ0CpAyzDN6VftitsJYas7NEsU8plHUqKUAkyR4jOmAqUMJNI78g2Um1RigSCS8X8FcE+G1gAseT3fEjZ561wRFi4xVc0SFTTEiFAwRBHNgy3zBtTnEI0/a3LaerKeU8TeomJMdKPlcx+gr5UrMxrD0=;xUWCZ5SE8Sb++bS0NDWhcw=="
 ---

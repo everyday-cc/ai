@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Infosys Announces AI-First Offering Topaz To Accelerate Business Value For Global Enterprises"
+    excerpt: "Infosys is taking an AI-first approach to its own transformation, the company said, adding that it is applying Topaz to bring the power of generative AI, analytics and cloud to accelerate its own market offering evolution,"
+    publishedDateTime: 2023-05-23T23:25:00Z
+    webUrl: "https://www.outlookindia.com/business/infosys-announces-ai-first-offering-topaz-to-accelerate-business-value-for-global-enterprises-news-288774"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 28
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Infosys_1665729477.jpg?utm_source=fb"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "7FC4bmlOBVYOkFnsZ//EoA5N5xAJ2/roYkeHQ+iED/yx3J9NfY5oXf4k+mBR8R1AANDX6N+zKof7Z5g6vvnbzs3fF2IJ8JdQDBCHmi2gHjXNnnOuxIeNYPp1OGuMCFP4H0L90/q3vR7rrNW+fXUGgyDaA4GrL2rr9BfmIaCB5DF2jW8MyGw0rKJzZrkBcucJHH+zlz2cRaVt0IphXugTRu6JbsD/ZRJAMK2nACz6MGk0ZcKllq8ilSf+OQrGZ6CzLdDcfTNT16GwNAVFRREPndpiF4sEYK2iKPOh3fBXik1JzJsztOOC/mi72J0YT/pDiaawWm3BsHR7jPrmIZ69wlLCOabOQURWQ1R27DCXImHuKIC6w8i1Cf2Xm/Jk9FIdgdbIMKurxFWxgJAT8eowGxH98O+pSFJ8NguQrNHvHbXCbDIrJ7INgVnnQ0r8xnyVY0Ylw96zIPf2Qgw1kCCuY1LahKAUOhFP03d7SdDv95z2H8R+7OZNnu6WLy/y3k793+OfbwCbNN7HYucggxzh9Q==;kJF6Z9uPvLC+kReljkJMQA=="
 ---

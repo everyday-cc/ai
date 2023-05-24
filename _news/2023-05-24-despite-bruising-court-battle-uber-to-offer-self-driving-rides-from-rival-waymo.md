@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/despite-bruising-court-battle-uber-to-o
 webUrl: "https://www.pcmag.com/news/despite-bruising-court-battle-uber-to-offer-self-driving-rides-from-rival"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Waymo, Uber set aside past rift to team up on self-driving taxis in Phoenix"
+    excerpt: "The partnership announced comes five years after Uber reached a $245 million settlement with Waymo to resolve a lawsuit alleging former Uber CEO Travis Kalanick conspired with former Google engineer Anthony Levandowski to steal Waymo's technology."
+    publishedDateTime: 2023-05-23T22:59:00Z
+    webUrl: "https://www.pbs.org/newshour/economy/waymo-uber-set-aside-past-rift-to-team-up-on-self-driving-taxis-in-phoenix"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/economy/waymo-uber-set-aside-past-rift-to-team-up-on-self-driving-taxis-in-phoenix"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/economy/waymo-uber-set-aside-past-rift-to-team-up-on-self-driving-taxis-in-phoenix"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 57
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/05/2021-12-08T130049Z_442613732_RC2BDQ9E3BD4_RTRMADP_3_WAYMO-SANFRANCISCO-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Uber to deploy Waymo self-driving cars in Phoenix area"
     excerpt: "Uber is poised to begin rolling out Waymo self-driving cars in the Phoenix area, marking what could be the first step in a broader partnership that signals the end of the long-standing feud between the two companies."
     publishedDateTime: 2023-05-23T17:11:00Z
@@ -51,17 +67,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "Waymo woes: Tempe residents frustrated as idle self-driving cars park in their neighborhood"
-    excerpt: "Waymo is expanding in the Phoenix area, but that is causing a level of headache for residents in one Tempe neighborhood, who say some of the self-driving cars are being parked on their streets when they are not picking up passengers."
-    publishedDateTime: 2023-05-19T05:44:00Z
-    webUrl: "https://www.fox10phoenix.com/news/waymo-woes-tempe-residents-frustrated-as-idle-self-driving-cars-park-in-their-neighborhood"
-    ampWebUrl: "https://www.fox10phoenix.com/news/waymo-woes-tempe-residents-frustrated-as-idle-self-driving-cars-park-in-their-neighborhood.amp"
-    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/waymo-woes-tempe-residents-frustrated-as-idle-self-driving-cars-park-in-their-neighborhood.amp"
-    type: article
-    provider:
-      name: FOX 10 Phoenix
-      domain: fox10phoenix.com
-    quality: 29
   - title: "Waymo, Uber set aside past rift over self-driving car technology to team up on robotaxis in Phoenix"
     excerpt: "- Phoenix Mayor Kate Gallego arrives in a Waymo self-driving vehicle on Dec. 16, 2022, at the Sky Harbor International Airport Sky Train facility in Phoenix. Self-driving car"
     publishedDateTime: 2023-05-23T16:05:00Z

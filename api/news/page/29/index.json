@@ -2,6 +2,241 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-05-05-microsoft-is-helping-finance-amds-expansion-into-ai-chips.md",
+      "title": "Microsoft Is Helping Finance AMD’s Expansion Into AI Chips",
+      "excerpt": "Microsoft Corp. is working with Advanced Micro Devices Inc. on the chipmaker's expansion into artificial intelligence processors, according to people with knowledge of the situation, part of a multipronged strategy to secure more of the highly coveted components.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 488,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/05/05/1600x900/USA-ARTIFICAL-INTELLIGENCE-BIDEN-0_1683254919434_1683254950133.JPG",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html",
+      "publishedDateTime": "2023-05-05T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-the-uks-antitrust-agency-is-going-after-big-techs-ai-models-now.md",
+      "title": "The UK's antitrust agency is going after Big Tech's AI models now",
+      "excerpt": "Just a week after thwarting Microsoft's attempt to shell out $68.7 billion for video game maker Activision Blizzard, the UK's antitrust agency Competition and Markets Authority (CMA) announced that it will launch a review of the artificial intelligence landscape in Britain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/british-antitrust-regulator-initiates-review-of-artificial-intelligence-models/",
+      "originalUrl": "https://www.zdnet.com/article/british-antitrust-regulator-initiates-review-of-artificial-intelligence-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3ab8ef325c6e33edbf20cbedb830b8b735fdc5db/2023/05/05/68674ef7-3674-4257-a864-b0364eb1edac/gettyimages-1388879870.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/british-antitrust-regulator-initiates-review-of-artificial-intelligence-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/british-antitrust-regulator-initiates-review-of-artificial-intelligence-models/",
+      "publishedDateTime": "2023-05-05T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-meta-platforms-scoops-up-ai-networking-chip-team-from-graphcore.md",
+      "title": "Meta Platforms scoops up AI networking chip team from Graphcore",
+      "excerpt": "Meta Platforms Inc has hired an Oslo-based team that until late last year was building artificial-intelligence networking technology at British chip unicorn Graphcore.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/meta-platforms-scoops-up-ai-networking-chip-team-graphcore-2023-05-05/",
+      "originalUrl": "https://www.reuters.com/technology/meta-platforms-scoops-up-ai-networking-chip-team-graphcore-2023-05-05/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/8g5tZ20Sbn0AThhkzgz3v_o1wMA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WBUVTOEJBFKNFAXZSYE544RLH4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-05T06:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-the-best-movies-on-amazon-prime-video-may-2023.md",
+      "title": "The best movies on Amazon Prime Video (May 2023)",
+      "excerpt": "The beginning of May marks a bit of a spring cleaning for Amazon Prime Video. Several titles have gone out the door, while the latest additions to the Prime Video library are now settling in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
+      "originalUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2020/09/a-beautiful-mind-hulu.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
+      "publishedDateTime": "2023-05-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-how-driverless-trucks-got-drivers-licenses-in-kansas-commentary.md",
+      "title": "How driverless trucks got drivers’ licenses in Kansas | Commentary",
+      "excerpt": "If you blinked, you probably missed it. Driverless vehicles, like artificial intelligence, are both promising and scary at the same time. They have the potential both to improve our world and to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kansas.com/opinion/guest-commentary/article274749491.html",
+      "originalUrl": "https://www.kansas.com/opinion/guest-commentary/article274749491.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.kansas.com/opinion/guest-commentary/article274749491.html",
+      "cdnAmpWebUrl": "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/opinion/guest-commentary/article274749491.html",
+      "publishedDateTime": "2023-05-05T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wichita Eagle",
+        "domain": "kansas.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-ai-writing-is-the-opposite-of-thought-leadership.md",
       "title": "AI Writing Is The Opposite Of Thought Leadership",
       "excerpt": "If you're reading any of these articles on AI (or any of the thousands of posts per day on Reddit and other lower-brow places where even more AI discussion takes place), you might",
@@ -988,220 +1223,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-amazons-ai-is-helping-the-police-watch-you.md",
-      "title": "Amazon's AI Is Helping the Police Watch You",
-      "excerpt": "Amazon markets the AI, called Rekognition, for a variety of applications from the innocuous (allowing videos to be searchable by the people and objects that appear in them) to more concerning applications, such as real-time tracking and security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Traffic%20cameras.jpg",
-          "width": 1280,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-need-to-improve-surgical-robotics-focus-on-the-motion-control.md",
-      "title": "Need to Improve Surgical Robotics? Focus on the Motion Control",
-      "excerpt": "They aren’t built with off-the-shelf motion technology. To develop advanced, differentiated robotics, motion control companies are developing high-performance, custom motion control products. A wide range of motors and specifically designed equipment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation/need-improve-surgical-robotics-focus-motion-control",
-      "originalUrl": "https://www.designnews.com/automation/need-improve-surgical-robotics-focus-motion-control",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/AdobeStock_447506276.jpeg",
-          "width": 1540,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-the-challenges-and-opportunities-of-using-artificial-intelligence-to-manage-chronic-conditions.md",
-      "title": "The Challenges and Opportunities of Using Artificial Intelligence to Manage Chronic Conditions",
-      "excerpt": "2 It is no surprise therefore that efforts are underway to look at how to best harness cutting-edge technologies such as artificial intelligence (AI ... This in turn could lead to a different therapy decision and subsequently a different health outcome.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/challenges-and-opportunities-using-artificial-intelligence-manage-chronic",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/challenges-and-opportunities-using-artificial-intelligence-manage-chronic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-tech-execs-meet-with-vice-president-harris-about-ai-development.md",
-      "title": "Tech execs meet with Vice President Harris about AI development",
-      "excerpt": "Artificial intelligence is already diagnosing cancer, developing new music and more. However, one AI pioneer tells NBC News’ Tom Costello that AI could possibly pose an existential threat to humans. Now,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/tech-execs-meet-with-vice-president-harris-about-ai-development-172819525842",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/tech-execs-meet-with-vice-president-harris-about-ai-development-172819525842",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1683242341720_nn_tco_tech_execs_at_white_house_230504_1920x1080-q1x6ag.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo172819525842",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo172819525842",
-      "publishedDateTime": "2023-05-04T16:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-datastax-extends-ai-feature-engineering-with-luna-ml.md",
-      "title": "DataStax extends AI feature engineering with Luna ML",
-      "excerpt": "DataStax continues to build out its AI capabilities with today's launch of Luna ML, which supports AI feature engineering.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/datastax-extends-ai-feature-engineering-with-luna-ml/",
-      "originalUrl": "https://venturebeat.com/ai/datastax-extends-ai-feature-engineering-with-luna-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1350668583-e1677167586240.jpg?fit=800%2C600&strip=all",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/datastax-extends-ai-feature-engineering-with-luna-ml/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/datastax-extends-ai-feature-engineering-with-luna-ml/amp/",
-      "publishedDateTime": "2023-05-04T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

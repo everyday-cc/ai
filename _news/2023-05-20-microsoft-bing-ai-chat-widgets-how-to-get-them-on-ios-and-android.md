@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-bing-ai-chat-widgets-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-bing-ai-chat-widgets-how-to-get-them-on-ios-and-android/"
 type: article
 quality: 104
-heat: 424
+heat: 444
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 104
     images:
       - url: "https://www.zdnet.com/a/img/resize/124918cee0367daf40b45afa743a1fea317fabd5/2023/05/22/6b71b835-9922-4290-a876-7844a6eddf85/gettyimages-1238869000.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft just supercharged ChatGPT with Bing's AI-powered search"
+    excerpt: "At Microsoft Build 2023, Microsoft announced that it is bringing the new Bing to ChatGPT as the default search experience."
+    publishedDateTime: 2023-05-23T16:32:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-just-supercharged-chatgpt-with-bings-ai-powered-search/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-just-supercharged-chatgpt-with-bings-ai-powered-search/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-just-supercharged-chatgpt-with-bings-ai-powered-search/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/e9a2c2a795b9505807cc9cffca188b03a86862b3/2023/05/23/5bb843e0-59f0-435b-af26-180412269bac/gettyimages-1249228620-1.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -307,6 +323,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 54
+  - title: "Microsoft Announces AI-Powered Windows Copilot and Dev Home"
+    excerpt: "Microsoft is increasing its AI-powered features to Windows 11, with Windows Copilot and Dev Home highlighting the handful of new integration unveilings."
+    publishedDateTime: 2023-05-23T22:01:00Z
+    webUrl: "https://redmondmag.com/articles/2023/05/23/microsoft-announces-ai-powered-windows-copilot-and-dev-home.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/copilotRobot.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Google just revealed what its new generative AI ads will look like as it races to keep up with Microsoft and Amazon in the AI gold rush"
     excerpt: "Google is bringing generative AI to its ad products. But major competitors like Amazon and Microsoft are also racing to release similar ad technology."
     publishedDateTime: 2023-05-23T15:57:00Z

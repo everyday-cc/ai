@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-23T19:51:00Z
 originalUrl: "https://www.businessinsider.com/sc/adobe-photoshop-unlocks-a-new-era-of-generative-creativity-with-firefly"
 webUrl: "https://www.businessinsider.com/sc/adobe-photoshop-unlocks-a-new-era-of-generative-creativity-with-firefly"
 type: article
-quality: 62
+quality: 64
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://i.insider.com/6467d7d312a976001917a0d7?width=1200&format=jpeg"
@@ -43,6 +44,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/b22dc33aeaf613e57a7e56a5a52ef2eac451c52a/2023/03/01/d1762712-8441-4457-900a-4bc8edf5521c/samsung-galaxy-book-3-ultra-hero.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Adobe adds generative AI to Photoshop"
+    excerpt: "The new AI tools will work similarly to other AI image creation technology, such as Midjourney and DALL-E, which allow people to produce pictures from simple text prompts."
+    publishedDateTime: 2023-05-23T17:16:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/adobe-adds-generative-ai-photoshop-rcna85548"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna85548"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna85548"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230522-ai-photoshop-lr-v3-77cd2e.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "Adobe integrates generative AI directly into Photoshop with new Firefly capabilities"
     excerpt: "Adobe has announced its first generative AI integration with Photoshop, bringing Adobe Firefly capabilities directly into design workflows."
@@ -136,6 +153,6 @@ related:
       domain: businesswire.com
     quality: 8
 
-secured: "vmIofJhhX28iZ48OWISNCZHyqtbgAjqArwE4vNTw5UXpBhDSXwzTolDdBDZHw8WpE++MU1omGcsPCxeMnIm7qKlcVD2un7gPADSm/q6ZBIa+y1X70zvXnvDZ+Q5NXQbL05sRw7IW/SahsIerg3edSb3Fm9OnTLRQ3pQuw12DiFF5cgxBFQLjdYJ2E0OeFPjfTgpScYdjB4vDOUn2RshGW/aTv02Erl8EwOLktNpROETvHqJxFhr2syQY60QEiLBU68xsJk0O/77g2t5kdZtCgVBwsNLniumV3LZF0+aJFjbHyd0VcWAKwZIjzlq2kRIFpvMbLTNqs7HeuynZ3dThOHAlSbTluKJTA4RSm4s/suM=;FXI+yWckn7/1DhHt/HWJcg=="
+secured: "MY/LeTqYCIPZK0coqOxjkokyfmq5/JDlHohReFAFi3hO1GqqUVwGwy7L2VQWa674r0Cbnh75j8sdl5OG6eRwdLyePqxnck3ZKHc6hdRV53ReGmLtDkJIyl/w9HxGRins7Ax6lJFGQvcq10eshIgxxSJU88bIm3gbDgLughDsLXcGpwqSbN+6GCZ7wdMjyQpgHURj5USfWwyCGkB49jAwQ5eXnTT1L2Bg/mw2bVJsj482U6O68X7PeOtqHJ945HPngrJiNyn+Q5/W8gryeOs/tpSXB3B8v6JI/3NvNUXCnoj7xsihutMe2LPrj37OYpyPHu4Yvi4clPiSkVYwFIAGB6KpztBQYynd9EfDPBM5f6nsEmM5h0puRSX5hxCwVM5JRLCP77dhU50ebVACxa1c6ZMsCGCSAOzflqCw+jfEMM/wQNfFWU2yUqtQlvpZG05KPO1tbH2Xe8mvo0wOa3WZKvp7qABct8ESaOQTmtDIntCD3eB72YdPe3zRF/JuhxWyqpjMWbIQPI74/pH7W33XBA==;44vrmr4Eg/hpbY7GQfeAjQ=="
 ---
 

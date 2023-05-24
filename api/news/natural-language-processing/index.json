@@ -46,6 +46,59 @@
       ]
     },
     {
+      "path": "_news/2023-05-23-the-dire-defect-of-multilingual-ai-content-moderation.md",
+      "title": "The Dire Defect of ‘Multilingual’ AI Content Moderation",
+      "excerpt": "Social media companies claim new language models can remove harmful content in every language. But those systems’ shortcomings can have vast consequences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/content-moderation-language-artificial-intelligence/",
+      "originalUrl": "https://www.wired.com/story/content-moderation-language-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/646bfe72a6c1fece8f4bb1df/191:100/w_1280,c_limit/LLM.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-metas-chatgpt-rival-could-make-language-barriers-a-thing-of-the-past.md",
       "title": "Meta's ChatGPT rival could make language barriers a thing of the past",
       "excerpt": "This move suggests the company is deeply invested in dominating the AI language translation space, but also encourages collaboration in the field. Normally, speech recognition and text-to-speech AI programs need extensive training on a large number of ...",
@@ -202,7 +255,7 @@
       "originalUrl": "https://www.cnet.com/tech/services-and-software/googles-ai-search-could-mean-radical-changes-for-your-internet-experience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -296,58 +349,6 @@
         "AI",
         "AI in Healthcare",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-boston-isnt-afraid-of-generative-ai.md",
-      "title": "Boston Isn’t Afraid of Generative AI",
-      "excerpt": "The city’s first-of-its-kind policy encourages its public servants to use the technology—and could serve as a blueprint for other governments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/boston-generative-ai-policy/",
-      "originalUrl": "https://www.wired.com/story/boston-generative-ai-policy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/646799a606bd08d2f808af39/191:100/w_1280,c_limit/Keyboard_bent_AI_ideas_GettyImages-1469762438.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-19T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {

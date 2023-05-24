@@ -44,6 +44,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Builder.ai raises $250M to simplify software development projects"
+    excerpt: "The partnership will see Build.ai integrate its technology with multiple Microsoft products, including Azure OpenAI Service."
+    publishedDateTime: 2023-05-23T21:14:00Z
+    webUrl: "https://siliconangle.com/2023/05/23/builder-ai-raises-250m-simplify-software-development-projects/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/builder.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "Builder.ai announces $250M Series D led by QIA to push new boundaries for its AI powered composable software platform"
     excerpt: "Builder.ai®, the AI powered composable software platform, designed to be so simple and accessible that everyday businesses and individuals can turn their ideas into software, today announced an investment of over $250 million in Series D funding."
     publishedDateTime: 2023-05-23T09:13:00Z

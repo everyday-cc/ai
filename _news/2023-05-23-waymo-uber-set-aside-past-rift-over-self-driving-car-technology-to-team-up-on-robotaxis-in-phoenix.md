@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Waymo, Uber set aside past rift to team up on self-driving taxis in Phoenix"
+    excerpt: "The partnership announced comes five years after Uber reached a $245 million settlement with Waymo to resolve a lawsuit alleging former Uber CEO Travis Kalanick conspired with former Google engineer Anthony Levandowski to steal Waymo's technology."
+    publishedDateTime: 2023-05-23T22:59:00Z
+    webUrl: "https://www.pbs.org/newshour/economy/waymo-uber-set-aside-past-rift-to-team-up-on-self-driving-taxis-in-phoenix"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/economy/waymo-uber-set-aside-past-rift-to-team-up-on-self-driving-taxis-in-phoenix"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/economy/waymo-uber-set-aside-past-rift-to-team-up-on-self-driving-taxis-in-phoenix"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 57
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/05/2021-12-08T130049Z_442613732_RC2BDQ9E3BD4_RTRMADP_3_WAYMO-SANFRANCISCO-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Despite Bruising Court Battle, Uber to Offer Self-Driving Rides From Rival Waymo"
     excerpt: "The two companies were once locked in a high-profile legal battle over trade secrets. But now Uber is going to host Waymo rides through its own app for users in Phoenix."
     publishedDateTime: 2023-05-23T19:11:00Z
@@ -62,17 +78,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "Waymo woes: Tempe residents frustrated as idle self-driving cars park in their neighborhood"
-    excerpt: "Waymo is expanding in the Phoenix area, but that is causing a level of headache for residents in one Tempe neighborhood, who say some of the self-driving cars are being parked on their streets when they are not picking up passengers."
-    publishedDateTime: 2023-05-19T05:44:00Z
-    webUrl: "https://www.fox10phoenix.com/news/waymo-woes-tempe-residents-frustrated-as-idle-self-driving-cars-park-in-their-neighborhood"
-    ampWebUrl: "https://www.fox10phoenix.com/news/waymo-woes-tempe-residents-frustrated-as-idle-self-driving-cars-park-in-their-neighborhood.amp"
-    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/waymo-woes-tempe-residents-frustrated-as-idle-self-driving-cars-park-in-their-neighborhood.amp"
-    type: article
-    provider:
-      name: FOX 10 Phoenix
-      domain: fox10phoenix.com
-    quality: 29
   - title: "Waymo, Uber set aside past rift over self-driving car tech to team up on robotaxis in Phoenix"
     excerpt: "Waymo is teaming up with Uber to offer rides and deliver food in robotic cars that triggered a bitter technological dispute between the two companies."
     publishedDateTime: 2023-05-23T19:44:00Z
@@ -83,6 +88,6 @@ related:
       domain: azcentral.com
     quality: 8
 
-secured: "B2hBquGoJ9VbIJj3kWl1dymTMwdIDF4C3GVlZpBd/3rPoJCyr4eC6QHUd14A1LN+Ik7NvAwy+OVl7FQbHMoKwVlbRPr3bpOPXLFsu7jB9VoJKGaHAetVutYJXUWxUYaYRxgC0SP+7M2bEDrmpiTIOtxYMHRGast5RBfHrCh5+QxXQ4qNtfabQ8M+uJ31BK7XL9Rvg+ZC+KwcRAqe49nGlGP7q/2LgVBqZVL7xCam1CgBo5AmZI42AUaP5l9muytzgk9CsoJy8gH3/cvw6mvg5pwNiY+DkDZyAA8QurKVom/HDG28TSth3bkOhqXsT8wpEabBs7qXihjDKvCvroo346S4oy6Ibd1cTy7fEkcbSJQ=;5jwqO+HylP6BYoqwP1bQwg=="
+secured: "qwk3OLfOL1G0wohSaOlXBLV198z3d9wsN4RNr0s+g5CBb0PmJFLlBjkU6xfelFd6/o0cyzZMNBsz7PphzB75FMeSSDg09up66k7/F8eclCiQ4HY9DMWmDgs0n0Z5cxRDcpGIBC/Ib4F49xMpTMVRURVRD8DjLiGpiB9w/tU3oSjP6uYYAn7ve2MXDP6/1lj62CQF5MUuGHGfIope3zUFyTHtjJl9p+hN1K/pbAU5hGRIcrUwgy10DoVCSr+9BNcMnJ/0lA9ZwujZpFog+XJ7gKPZFTQaOKVIMPyYsmguxfPCA4MpOG7FoelyGQjCYiRZ2GriRjTfvkhP358w63PEi1p+OEBHfWa39NR/+P3KHk2uIrvpi1w7Kwu9XYu7Vww7JWICqflh0pPFxp6JLZmxFmIGWQ3WO+MdXVaFVf+GdlPQx4v97gw/X+p6SmZ8ALb6lHhESyc3alLRe8IgTk5BliAk7GR/EZ1/0i+b59nMZpDn7/se3nYp3ipbWYGi3kQZ/JP0RaWxpcw2MYIPiReKaw==;eWTv1p/OAx8cT/lb+a2U+g=="
 ---
 

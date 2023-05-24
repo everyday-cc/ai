@@ -43,6 +43,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Builder.ai raises $250M to simplify software development projects"
+    excerpt: "The partnership will see Build.ai integrate its technology with multiple Microsoft products, including Azure OpenAI Service."
+    publishedDateTime: 2023-05-23T21:14:00Z
+    webUrl: "https://siliconangle.com/2023/05/23/builder-ai-raises-250m-simplify-software-development-projects/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/builder.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "Thoro.ai raises $7 million Series A funding round"
     excerpt: "A startup making robotics-based autonomy stacks for industrial equipment manufacturers has closed on a $7 million funding round, bringing its total outside investment amount to just over $11 million to date. Thoro.ai, a company Carnegie Robotics spun out ..."
     publishedDateTime: 2023-05-22T21:01:00Z

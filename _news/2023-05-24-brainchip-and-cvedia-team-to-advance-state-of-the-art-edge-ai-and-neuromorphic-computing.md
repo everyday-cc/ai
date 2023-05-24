@@ -1,23 +1,25 @@
 ---
 category: news
 title: "BrainChip and CVEDIA Team to Advance State-of-the-Art Edge AI and Neuromorphic Computing"
-excerpt: "The focus of the partnership will be on the integration of the CVEDIA-RT platform for video analytics running on BrainChip's Akida™ neuromorphic IP. The CVEDIA-RT platform enables rapid creation and development for video analytics for security and surveillance,"
-publishedDateTime: 2023-05-23T21:36:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/23/9819862.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/23/9819862.htm"
+excerpt: "BrainChip Holdings Ltd ((ASX: BRN, OTCQX:BRCHF, OTC:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, and CVEDIA, a leading provider of"
+publishedDateTime: 2023-05-23T21:29:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/05/b32542009/brainchip-and-cvedia-team-to-advance-state-of-the-art-edge-ai-and-neuromorphic-computing"
+webUrl: "https://www.benzinga.com/pressreleases/23/05/b32542009/brainchip-and-cvedia-team-to-advance-state-of-the-art-edge-ai-and-neuromorphic-computing"
+ampWebUrl: "https://www.benzinga.com/amp/content/32542009"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32542009"
 type: article
-quality: 25
-heat: 25
+quality: 45
+heat: 45
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "UteXijOzRBwCcDcXvSYmIcbuYDyUnwc6X61KtfBCLj3BKDIcufgNjOmHIcjHXsLSostVVJ5fJ9cewmDLRNJMtmQM9LkvmYuQQy0d69BvOBkeYUIBO+yaa+CNQHPGc1qsuGfaLWYkT4wwjHsM+NOublJp1HBWeuDRjcJnFKmmHryl3UhTTCruioJCxHOQTd5qdKEAGLbdbO7YDN4RJS7Pxx39I3ScyEAwMzrD9mNTbhaxrrkRDJeMeCXkXr5r1Iql9N6SMu3hjq3TrV23LGkJZPm/wt6ReRpZJJVOsmdYHdx7SPTnQs2oT0SYtYEOG9PiUPPf9rLmECgka2F/0eItd/DG9pmwePm2QzRbcPztCck=;HTiINzfmzvo8SeWmS3GFSQ=="
+secured: "73mQ6bd8+3tRitS2hHAslk78Vs9XAPa+NZoc1Pg6dNgYxkHkw5ukmK1R6fA0Ty2qktmTCtSgrQNOgeUPbEsRbgcLOiiYDjd4qdbsXNrjfCa+wgE2eE5FljB0bVuYG2rIE3rVWTciXLoYMNyy5rOQ3a6g6BnyadK1pxTNEwUtIgcAJRLXwU2CzT80fEJ/zeLDjgzcqUd+b4ZTlYGJLLyhwFGdaCvRboK8cQkzo3kJAdmcbRXo6d9dmRaaF9X+5UtOISCW1dhuu4hH9pgO2mJwHtmr2J5laZxasDTWO71T83e2iTSxt7K3w4MSM06JUlVOWE2ZjPAifBTMIOYqbdPVIJ+hBxkG8KHCMdfADvZd3SE=;raj3JRcYIQrsOHG7Ukf1/A=="
 ---
 

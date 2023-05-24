@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/may/22/pentagon-ai-gener
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/22/pentagon-ai-generated-image-explosion"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -30,19 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "How to avoid falling for misinformation, fake AI images on social media"
-    excerpt: "The rapid spread of easily accessible AI tools is muddling the waters even further ... whether it lines up with your views or not, pause and do more research. Misinformation is often accidentally spread by people who want it to be true."
-    publishedDateTime: 2023-05-22T20:29:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/05/22/misinformation-ai-twitter-facebook-guide/"
+  - title: "Fake image of explosion near Pentagon stirs concerns over artificial intelligence"
+    excerpt: "A fabricated photo seems to show a fiery explosion near the Pentagon and went viral. Now experts say it was likely created by AI, fueling concerns about the technology’s use on social media. NBC News’ Hallie Jackson has more details."
+    publishedDateTime: 2023-05-23T23:03:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/fake-image-of-explosion-near-pentagon-stirs-concerns-over-artificial-intelligence-176166981779"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo176166981779"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo176166981779"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
+      name: NBC News
+      domain: nbcnews.com
+    quality: 82
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I3Y6QWWZO5DATDOTFGOP5R7QYE.jpg&w=1440"
-        width: 1440
-        height: 866
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684882938191_nn_hja_ai_doctored_images_moves_markets_230523_1920x1080-5t44ym.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "BQgGZ18NV/X/VltYbOtf2sMLDG2M3TR4YJHFvQZbAnDHOe0dUReYs6lKk/7xVqHBeP5hfSDe0HEbbTXDaY77ZVRcrfYGJ9BkqK/focAp/Xy9HmeJlB9Z8+0af5pW21x7ng+pvGcWDxx9D1wrFcqcrRvizTWnICTFAoLYCI1NoPsvKROZFiYfgvUVd3unJxtQKNqlkzV3cdZ4PO+DZksR/8uxBd9L6cowYsPsS1aZb+vils24UcPxHhm4xWxyG3eZRr5fb3KQxOAo/geWKtl/mwTjGK+sTZsCr/Y5wDUwosxfRQvTpqClzeeaZygApQVk4oVkLQiig1Lr4LKi9DpgBUCiK6IGJ8lEDya8x3JviM8=;ZlvuGXE+4bXjD3ulysQaIQ=="

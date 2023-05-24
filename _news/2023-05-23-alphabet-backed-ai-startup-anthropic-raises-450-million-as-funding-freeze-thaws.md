@@ -105,6 +105,17 @@ related:
         width: 2880
         height: 1620
         isCached: true
+  - title: "AI startup Anthropic raises $450M for safety-focused chatbot"
+    excerpt: "Yet while ChatGPT has faced criticism — and been tweaked — after offering users some concerning results, Anthropic aims to make its chatbot more cautious from the start. Anthropic’s goal is for Claude to be less prone than other chatbots to manipulation that will produce harmful or offensive results."
+    publishedDateTime: 2023-05-23T21:58:00Z
+    webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/"
+    ampWebUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "AI start-up Anthropic raises $450mn from Google and Spark Capital"
     excerpt: "Dario Amodei, Anthropic’s chief executive and former head of AI safety at OpenAI, said the funding would support “AI research and products that put safety at the frontier”. Amodei was part of a group of OpenAI researchers who split from the ..."
     publishedDateTime: 2023-05-23T15:13:00Z

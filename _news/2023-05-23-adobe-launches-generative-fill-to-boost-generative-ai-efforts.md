@@ -34,6 +34,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Adobe adds generative AI to Photoshop"
+    excerpt: "The new AI tools will work similarly to other AI image creation technology, such as Midjourney and DALL-E, which allow people to produce pictures from simple text prompts."
+    publishedDateTime: 2023-05-23T17:16:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/adobe-adds-generative-ai-photoshop-rcna85548"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna85548"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna85548"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230522-ai-photoshop-lr-v3-77cd2e.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Adobe integrates generative AI directly into Photoshop with new Firefly capabilities"
     excerpt: "Adobe has announced its first generative AI integration with Photoshop, bringing Adobe Firefly capabilities directly into design workflows."
     publishedDateTime: 2023-05-23T11:00:00Z
@@ -58,7 +74,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 62
+    quality: 64
     images:
       - url: "https://i.insider.com/6467d7d312a976001917a0d7?width=1200&format=jpeg"
         width: 1200

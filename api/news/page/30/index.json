@@ -2,6 +2,220 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2023-05-05-amazons-ai-is-helping-the-police-watch-you.md",
+      "title": "Amazon's AI Is Helping the Police Watch You",
+      "excerpt": "Amazon markets the AI, called Rekognition, for a variety of applications from the innocuous (allowing videos to be searchable by the people and objects that appear in them) to more concerning applications, such as real-time tracking and security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Traffic%20cameras.jpg",
+          "width": 1280,
+          "height": 856,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-need-to-improve-surgical-robotics-focus-on-the-motion-control.md",
+      "title": "Need to Improve Surgical Robotics? Focus on the Motion Control",
+      "excerpt": "They aren’t built with off-the-shelf motion technology. To develop advanced, differentiated robotics, motion control companies are developing high-performance, custom motion control products. A wide range of motors and specifically designed equipment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation/need-improve-surgical-robotics-focus-motion-control",
+      "originalUrl": "https://www.designnews.com/automation/need-improve-surgical-robotics-focus-motion-control",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/AdobeStock_447506276.jpeg",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-the-challenges-and-opportunities-of-using-artificial-intelligence-to-manage-chronic-conditions.md",
+      "title": "The Challenges and Opportunities of Using Artificial Intelligence to Manage Chronic Conditions",
+      "excerpt": "2 It is no surprise therefore that efforts are underway to look at how to best harness cutting-edge technologies such as artificial intelligence (AI ... This in turn could lead to a different therapy decision and subsequently a different health outcome.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/challenges-and-opportunities-using-artificial-intelligence-manage-chronic",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/challenges-and-opportunities-using-artificial-intelligence-manage-chronic",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-tech-execs-meet-with-vice-president-harris-about-ai-development.md",
+      "title": "Tech execs meet with Vice President Harris about AI development",
+      "excerpt": "Artificial intelligence is already diagnosing cancer, developing new music and more. However, one AI pioneer tells NBC News’ Tom Costello that AI could possibly pose an existential threat to humans. Now,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/tech-execs-meet-with-vice-president-harris-about-ai-development-172819525842",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/tech-execs-meet-with-vice-president-harris-about-ai-development-172819525842",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1683242341720_nn_tco_tech_execs_at_white_house_230504_1920x1080-q1x6ag.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo172819525842",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo172819525842",
+      "publishedDateTime": "2023-05-04T16:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-datastax-extends-ai-feature-engineering-with-luna-ml.md",
+      "title": "DataStax extends AI feature engineering with Luna ML",
+      "excerpt": "DataStax continues to build out its AI capabilities with today's launch of Luna ML, which supports AI feature engineering.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/datastax-extends-ai-feature-engineering-with-luna-ml/",
+      "originalUrl": "https://venturebeat.com/ai/datastax-extends-ai-feature-engineering-with-luna-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1350668583-e1677167586240.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/datastax-extends-ai-feature-engineering-with-luna-ml/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/datastax-extends-ai-feature-engineering-with-luna-ml/amp/",
+      "publishedDateTime": "2023-05-04T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-opinion-california-wrong-to-expand-facial-recognition-use.md",
       "title": "Opinion: California Wrong to Expand Facial Recognition Use",
       "excerpt": "The technology still misidentifies individuals, especially when it’s focused on people of color. While the technology has advanced, the problems haven't gone away, and new legislation won’t fix them either.",
@@ -929,254 +1143,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-chatgpt-and-generative-ai-our-guide-to-2023s-most-talked-about-technology.md",
-      "title": "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology",
-      "excerpt": "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may",
-      "originalUrl": "https://www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg",
-          "width": 470,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-ai-guide-to-2023-most-talked-about-technology-2023-may?amp",
-      "publishedDateTime": "2023-05-04T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-artificial-intelligence-in-healthcare-market-forecast-to-2031.md",
-      "title": "Artificial Intelligence in Healthcare Market Forecast to 2031",
-      "excerpt": "This \"Artificial Intelligence in Healthcare Market\" report offers a thorough analysis of the industry, including",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-forecast-to-2031-2023-05-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-forecast-to-2031-2023-05-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-nsf-announces-140-million-investment-in-seven-artificial-intelligence-research-institutes.md",
-      "title": "NSF Announces $140 Million Investment In Seven Artificial Intelligence Research Institutes",
-      "excerpt": "The U.S. National Science Foundation (NSF), along with several other federal agencies and higher education institutions, has announced a $140 million investment to establish seven new National Artificial Intelligence Research Institutes (AI Institutes).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaeltnietzel/2023/05/04/nsf-announces-140-million-investment-in-seven-artificial-intelligence-research-institutes/",
-      "originalUrl": "https://www.forbes.com/sites/michaeltnietzel/2023/05/04/nsf-announces-140-million-investment-in-seven-artificial-intelligence-research-institutes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6453c8a8e650de3e81eabd29/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaeltnietzel/2023/05/04/nsf-announces-140-million-investment-in-seven-artificial-intelligence-research-institutes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltnietzel/2023/05/04/nsf-announces-140-million-investment-in-seven-artificial-intelligence-research-institutes/amp/",
-      "publishedDateTime": "2023-05-04T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-behind-the-hype-about-ai-transforming-consumer-businesses.md",
-      "title": "Behind The Hype About AI Transforming Consumer Businesses",
-      "excerpt": "Explore the future of retail in a world dominated by AI-generated content. Is the physical store making a comeback?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/",
-      "originalUrl": "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6453cf70c9583ac188eabd27/0x0.jpg?format=jpg&crop=1470,827,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gregpetro/2023/05/04/behind-the-hype-about-ai-transforming-consumer-businesses/amp/",
-      "publishedDateTime": "2023-05-04T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-banking-sector-revolution-3-fintech-stocks-to-watch.md",
-      "title": "Banking Sector Revolution: 3 Fintech Stocks to Watch",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech is revolutionizing the banking sector. In fact, artificial",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/banking-sector-revolution-3-fintech-stocks-to-watch-1032293459",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/banking-sector-revolution-3-fintech-stocks-to-watch-1032293459",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

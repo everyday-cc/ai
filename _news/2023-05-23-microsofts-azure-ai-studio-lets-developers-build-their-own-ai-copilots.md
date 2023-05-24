@@ -23,53 +23,35 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft announces Azure tools to help developers deploy complex environments and secure their apps"
-    excerpt: "Next up is another tool that can ease the workload of developers and reduce the worry of admins: GitHub Advanced Security for Azure DevOps. Last year, Microsoft announced this service was coming, and now, Microsoft is announcing the availability of a public preview."
-    publishedDateTime: 2023-05-23T15:01:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-announces-azure-tools-to-help-developers-deploy-complex-environments-and-secure-their-apps/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-azure-tools-to-help-developers-deploy-complex-environments-and-secure-their-apps/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-azure-tools-to-help-developers-deploy-complex-environments-and-secure-their-apps/"
+  - title: "Microsoft CTO tells devs to ‘do legendary sh*t’ with AI at 2023 Build conference"
+    excerpt: "To help developers build AI effectively, securely and responsibly, Microsoft has announced a large set of updates and new initiatives"
+    publishedDateTime: 2023-05-23T23:03:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/"
+    ampWebUrl: "https://venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 99
     images:
-      - url: "https://www.zdnet.com/a/img/resize/c1e41e19b8a3f4e5c5306cba90afb53a6dff435f/2023/05/23/0eacd389-da03-4a85-977f-27457bc2cc96/gettyimages-1461116181.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/10/Microsoft-Logo-white-bkgd.jpg?w=1200&strip=all"
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft launches Fabric, a new end-to-end data and analytics platform"
-    excerpt: "Microsoft Fabric is a new end-to-end data and analytics platform that centers around Microsoft's OneLake data lake but can also pull data from Amazon S3."
-    publishedDateTime: 2023-05-23T15:38:00Z
-    webUrl: "https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/"
-    ampWebUrl: "https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/amp/"
+  - title: "Build 2023: Microsoft Unleashes an AI Tsunami for Developers, Customers"
+    excerpt: "AI is the focus at this year's Build conference, and Microsoft has a lot to say on this topic for developers and its customers."
+    publishedDateTime: 2023-05-23T15:01:00Z
+    webUrl: "https://www.thurrott.com/cloud/283506/build-2023-microsoft-unleashes-an-ai-tsunami-for-developers-customers"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: Thurrott
+      domain: thurrott.com
+    quality: 56
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-159406176.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Microsoft India announces the addition of 4 new languages to Translator"
-    excerpt: "Users can translate Konkani, Maithili, Sindhi, and Sinhala text, supported in more than 125 languages, for their apps, websites, workflows, and tools with Azure Cognitive Services Translator"
-    publishedDateTime: 2023-05-19T11:48:00Z
-    webUrl: "https://www.mid-day.com/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
-    ampWebUrl: "https://www.mid-day.com/amp/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/microsoft-india-announces-the-addition-of-4-new-languages-to-translator-23287443"
-    type: article
-    provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 61
-    images:
-      - url: "https://images.mid-day.com/images/images/2023/may/Microsoft-afp_d.jpg"
-        width: 1280
-        height: 720
+      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/05/copilot-stack.jpg"
+        width: 1066
+        height: 600
         isCached: true
   - title: "Microsoft Build 2023: The Biggest Azure News"
     excerpt: "Microsoft Build 2023 included news around DevOps, Azure AI Content Safety, Azure Cognitive Service for Language and Microsoft Fabric."
@@ -85,29 +67,20 @@ related:
         width: 500
         height: 375
         isCached: true
-  - title: "Check Point Software Extends Its Industry-Leading Cloud Firewall To Secure Microsoft Azure Virtual WAN"
-    excerpt: "CloudGuard Network Security provides organizations with cyber resilience through a consumption-based offering, seamlessly integrated inside the A"
-    publishedDateTime: 2023-05-23T08:55:00Z
-    webUrl: "https://menafn.com/1106293303/Check-Point-Software-Extends-Its-Industry-Leading-Cloud-Firewall-To-Secure-Microsoft-Azure-Virtual-WAN"
+  - title: "NVIDIA Collaborates With Microsoft to Accelerate Enterprise-Ready Generative AI"
+    excerpt: "NVIDIA today announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives. The integration will create a secure,"
+    publishedDateTime: 2023-05-23T19:18:00Z
+    webUrl: "https://insidebigdata.com/2023/05/23/nvidia-collaborates-with-microsoft-to-accelerate-enterprise-ready-generative-ai/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 38
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 50
     images:
-      - url: "https://menafn.com/updates/pr/2023-05/23/M_b53b8image_story.jpg"
-        width: 703
-        height: 879
+      - url: "https://insidebigdata.com/wp-content/uploads/2021/01/SOSA_XAI_report_cover.png"
+        width: 530
+        height: 710
         isCached: true
-  - title: "Habu Announces Collaboration With Microsoft Azure to Deliver Zero-Trust Data Clean Room"
-    excerpt: "Habu, a global innovator in data clean room software, today announced a collaboration with Microsoft Azure to integrate its Data Clean Room applicatio"
-    publishedDateTime: 2023-05-23T19:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230523005491/en/Habu-Announces-Collaboration-With-Microsoft-Azure-to-Deliver-Zero-Trust-Data-Clean-Room"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 26
 
 secured: "e1wr/8wTZIVRf4v361JYJUXHm2cRwhIRmOyME0RJJyEH9a9xVSPAs/3SgA2hytaBC8AXpwZFxFrEBOb88B0cbSWQtHEq/YEPZpEUCPVyoB2SKds38IhF1vVc208LseDevZ5jow8+YUA792l2geHV65HvRE+pWWPARo/MdvIgFHUJdcMlnm6q+JQJKbzFhEuLZlExgKb/P2BTbf3tbtQvMs7VC55r5lRp+z+kdbJqXI+d/cIaJ1O11D7D2YuOu3a0hu/52kkFSgsbr/2/fOcKlVTt214VnbyK0c9mE4q+ZI2qIb7xH8YWlELGLYugFWhWi9QCXdp86xQHOU9MQB8n1Nd91K8z1o3NcQZPe7J0QZYKbeToEmoZCINSYGl02fp7A1jfHC8rTnBKOBzgVBG6H0AP3TAvhN7fXq6Ttqi3XyZSfDlEthpNBp66tlzSXsJ0osGSYT3qRgN6792FbyJMFZeWEzjjOqoYAie+bI/BLAKAVj07LJzGzJpemS5XaQlbcD97+8/BrOhQejM47d/v4A==;jcEPw6GZKbaRtAMej5xUuA=="
 ---

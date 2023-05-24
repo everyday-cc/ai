@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft just supercharged ChatGPT with Bing's AI-powered search"
+    excerpt: "At Microsoft Build 2023, Microsoft announced that it is bringing the new Bing to ChatGPT as the default search experience."
+    publishedDateTime: 2023-05-23T16:32:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-just-supercharged-chatgpt-with-bings-ai-powered-search/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-just-supercharged-chatgpt-with-bings-ai-powered-search/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-just-supercharged-chatgpt-with-bings-ai-powered-search/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/e9a2c2a795b9505807cc9cffca188b03a86862b3/2023/05/23/5bb843e0-59f0-435b-af26-180412269bac/gettyimages-1249228620-1.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft pledges to watermark AI-generated images and videos"
     excerpt: "Microsoft says that it will launch new media provenance capabilities for Designer and Bing Image creator to indicate whether images are AI-generated."
     publishedDateTime: 2023-05-23T16:18:00Z
@@ -307,6 +323,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 54
+  - title: "Microsoft Announces AI-Powered Windows Copilot and Dev Home"
+    excerpt: "Microsoft is increasing its AI-powered features to Windows 11, with Windows Copilot and Dev Home highlighting the handful of new integration unveilings."
+    publishedDateTime: 2023-05-23T22:01:00Z
+    webUrl: "https://redmondmag.com/articles/2023/05/23/microsoft-announces-ai-powered-windows-copilot-and-dev-home.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/copilotRobot.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Google just revealed what its new generative AI ads will look like as it races to keep up with Microsoft and Amazon in the AI gold rush"
     excerpt: "Google is bringing generative AI to its ad products. But major competitors like Amazon and Microsoft are also racing to release similar ad technology."
     publishedDateTime: 2023-05-23T15:57:00Z
@@ -422,6 +452,6 @@ related:
       domain: microsoft.com
     quality: 24
 
-secured: "dewRyGWNMrZ/JWppOZO/KWqZxcznhjYfAx3f72y70uRgGxewX9eeswXb8tEZpElg5f1dLbcWKp4XHgfkg60Qbp+deAHwlBVUd7rSV1Ix3NHQsr45aRPGcbYbLlAvYsZ7G2il2P7mjfMN6ReVIzFAool0jOstBBIpY57Ht58Wmv5lKEmUZgVWpd3idNUgq85q8RPIfLSbxj0RhvneJIM/IL5H8rqsfthdipdAeZjn1nMSS/XtmxB67rQTqtKHDcXlH+igvLG9fHm0cusG00rK0tQDntjXjfVrUwnK9FiREvNsslHTGj6w2ldb9hmFhs6qhwyGRdfEVrfrcF5HF6EuVi0pj1fqRgKKHT/9d1xDs/w=;Iq3J/HFv22UcrLmy1G1LNQ=="
+secured: "8Y6bZID++w7/+3omSaNdqrJ88BYr1zWVsyQ9A5c2DsBmxoKhzzJqdjaK/X1m0C+yIU031zBXfx/smpv9rkOunJN5RVKjW83MzDuNdoGqxlcrzcgJObeDqCgLTijxKrf6a43trxhV4LfWUpZmQmaiJSxyFhEyxPrUrjueh1kWa7RLs1vxSXUbbFa2ygHXevEvPXE79hkuVLzo63mNAKnTjuRe6yeJm3fwjgS2LiV+YAiH8K8W3XTRjGk9JzMk6GeGw6MOm78lN+nQb7b0zUqI6ahg0l0WTKizKiPgT2Z+yIQvoqquZPgbIy+qpjyDeSSNMY1/hjf1MlMbecw42hbVWTnoXb0ypFiIdlrZhu/zv7mbBj8hdnkbIjCTfUBsyFiCsaji91qYn1pE292Vx/lifN/btI9LleAO0jA7j1vuKxvhOLVRVD0ugTi09FkJatOLcMIJqRC5IT+1iPYhCY5fXDoTNPKWO5hpMZHIpi4sjL3EaVS4D7PQXyi1eMB4DLLmigXbm0E+BhegRcqOU2Wsxw==;8EndBVtkXpg+TPb+4Lob+w=="
 ---
 

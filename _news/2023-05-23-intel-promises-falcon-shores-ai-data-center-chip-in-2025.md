@@ -33,6 +33,22 @@ related:
         width: 810
         height: 542
         isCached: true
+  - title: "Intel announces Falcon Shores, its AI chip for 2025"
+    excerpt: "Intel has revealed early details about its next-gen artificial intelligence (AI) chip. Called Falcon Shores, this chip will reportedly boast 288GB of high bandwidth memory (HMB3) and support 8-bit floating-point computation. The company plans to introduce ..."
+    publishedDateTime: 2023-05-23T15:55:00Z
+    webUrl: "https://www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html"
+    ampWebUrl: "https://www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html?amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 74
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2018/12/AH-Intel-logo-MWC-2018-2-New.jpg"
+        width: 1918
+        height: 1080
+        isCached: true
   - title: "Intel reveals new details about upcoming AI chip"
     excerpt: "Intel has revealed details about its upcoming chip for artificial intelligence (AI) computing during a recent conference in Germany. Intel, which is struggling to grow its business, aims to launch the chip, codenamed “Falcon Shores,” in 2025."
     publishedDateTime: 2023-05-23T02:26:00Z

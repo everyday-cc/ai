@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manage
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5?amp"
 type: article
 quality: 71
-heat: 83
+heat: 81
 published: true
 
 provider:
