@@ -52,6 +52,17 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "AI startup Figure raises $70 million in funding to build humanoid robots"
+    excerpt: "The new funding will be used to accelerate the development and manufacturing of the company's first autonomous humanoid, which is expected to launch in the next few months. The valuation of the one-year-old company was not disclosed,"
+    publishedDateTime: 2023-05-24T10:59:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/ai-startup-figure-raises-70-million-to-build-humanoid-robots/articleshow/100473777.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/ai-startup-figure-raises-70-million-to-build-humanoid-robots/amp_articleshow/100473777.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/ai-startup-figure-raises-70-million-to-build-humanoid-robots/amp_articleshow/100473777.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 53
   - title: "Builder.ai raises $250M to simplify software development projects"
     excerpt: "The partnership will see Build.ai integrate its technology with multiple Microsoft products, including Azure OpenAI Service."
     publishedDateTime: 2023-05-23T21:14:00Z

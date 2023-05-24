@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-generative-ai
 webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-generative-ai-models-from-amazon-sagemaker-jumpstart-using-the-aws-cdk/"
 type: article
 quality: 116
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1021
         height: 509
         isCached: true
-  - title: "Introducing an image-to-speech Generative AI application using Amazon SageMaker and Hugging Face"
-    excerpt: "Vision loss comes in various forms. For some, it’s from birth, for others, it’s a slow descent over time which comes with many expiration dates: The day you can’t see pictures, recognize yourself, or loved ones faces or even read your mail. In our previous blogpost Enable the Visually Impaired to Hear"
-    publishedDateTime: 2023-05-19T18:11:25Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-an-image-to-speech-generative-ai-application-using-amazon-sagemaker-and-hugging-face/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 71
 
 secured: "jA3IC4L9gPCeqsSGT8ZVUdwn+IrvLUpz0Fg5biZ6Txw/6DKFGB5+vzeh6zYi4MQPNOgD6ruhchNiM2S+6UsM/YMNccfCxC+rTfEn7hhYfyX1ygX2g/W5rKdABLTZ/X4PLXkDAFRvqhi9Q3YrHBvHeroZgLAl5VzomA5Oj2rZrvd9yiS36i1c625VmlRYiIlaB3TqV6WJ089Fx+96hjLgi/yiYfuOW0EVYZaULV1oqq9nMhx5RPOWZEAEEQgl1jH6x8TvjWXKi+ZsFbpUE9ADYGAy77fdB4AxGiEFwHad/PEoLpl8mADiEKa0chTb1tQMEf8V7We/PLu+mfugWN3q+lbuMX2lCUnIPsu52bL4qUg=;gKMh80bo6v8tGbTb4e74/w=="
 ---

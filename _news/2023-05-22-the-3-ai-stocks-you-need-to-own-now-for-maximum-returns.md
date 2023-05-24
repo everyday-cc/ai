@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-3-ai-stocks-yo
 webUrl: "https://markets.businessinsider.com/news/stocks/the-3-ai-stocks-you-need-to-own-now-for-maximum-returns-1032343211"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,15 @@ topics:
   - AI
 
 related:
+  - title: "3 AI Stocks You Should Be Buying Hand Over Fist"
+    excerpt: "Therefore, investing in the chipmaker that provides the most high-performance AI chips is the ideal way to capitalize on this trend. On the date of publication, Chris MacDonald did not have (either directly or indirectly) any positions in the securities ..."
+    publishedDateTime: 2023-05-23T09:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-you-should-be-buying-hand-over-fist-1032344620"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Best Artificial Intelligence Stocks: 7 Picks To Buy and Watch Now"
     excerpt: "End users have deployed IBM AI in industries as diverse as healthcare, retail and finance ... These memory and storage solutions accelerate information into intelligence. Micron made a splash in the AI market with its 2019 purchase of the artificial ..."
     publishedDateTime: 2023-05-19T21:26:00Z

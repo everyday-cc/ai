@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-24-what-have-we-learned-about-ai-ethics-its-time-for-risk-based-regulations.md",
+      "title": "What have we learned about AI ethics? It's time for risk-based regulations",
+      "excerpt": "The bad news? The typical approach to AI ethics hasn't worked. But a way forward is emerging - via a growing momentum for risk-based AI regulations.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/what-have-we-learned-about-ai-ethics-its-time-risk-based-regulations",
+      "originalUrl": "https://diginomica.com/what-have-we-learned-about-ai-ethics-its-time-risk-based-regulations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2016-08/robots-typing.jpg",
+          "width": 1041,
+          "height": 868,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/what-have-we-learned-about-ai-ethics-its-time-risk-based-regulations?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/what-have-we-learned-about-ai-ethics-its-time-risk-based-regulations?amp",
+      "publishedDateTime": "2023-05-24T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-a-swedish-newspaper-is-having-ai-rap-its-articles-in-an-attempt-to-get-young-people-interested-in-the-news.md",
       "title": "A Swedish newspaper is having AI rap its articles in an attempt to get young people interested in the news",
       "excerpt": "Other concepts included an AI-driven news therapist and an algorithm that would surprise readers with positive news. Aftonbladet acknowledged the murky ethics of AI-generated content. \"The AI-generated rap is also, as hip-hop tends to be, loaded with some ...",
@@ -158,7 +201,7 @@
       "originalUrl": "https://www.zdnet.com/article/singapore-wants-to-plug-ai-skills-gap-in-finance-sector/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1406,49 +1449,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-ai-comes-with-ethics-questions.md",
-      "title": "AI comes with ethics questions",
-      "excerpt": "We’re light years away from Star Trek’s Commander Data, but AI experts tell us technology is closer to some kind of sentience than most realize. Now’s the time to prepare for it, and that includes thinking about ethics.",
-      "sourceUrl": null,
-      "webUrl": "https://cdapress.com/news/2023/may/09/sholeh-ai-comes-ethics-questions/",
-      "originalUrl": "https://cdapress.com/news/2023/may/09/sholeh-ai-comes-ethics-questions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hagadone.media.clients.ellingtoncms.com/ARTICLE_200339998_AR_0_LCGPLJQVULYE_r1200x630.png?b7d505e466ff31ef2a911eceee85296b69915698",
-          "width": 732,
-          "height": 523,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Coeur d'Alene Press",
-        "domain": "cdapress.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

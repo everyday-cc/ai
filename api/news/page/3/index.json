@@ -2,6 +2,298 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-23-bill-gates-says-the-best-ai-agent-will-replace-search-and-shopping-websites.md",
+      "title": "Bill Gates says the best AI agent will replace search and shopping websites",
+      "excerpt": "Speaking at AI Forward 2023, an event in San Francisco hosted by Goldman Sachs Group Inc and SV Angel, Gates said it would disappoint him if Microsoft were not in the running, though there was a 50% chance the top player to emerge will be a startup.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites",
+      "originalUrl": "https://www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/709c3d7f-faa0-45f0-a558-1dcc847fa6c5/ad4f37e6-cde5-4060-b3cf-7af0b25dedfb/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites.amp",
+      "publishedDateTime": "2023-05-22T17:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-will-ai-cause-mass-unemployment-what-history-says-about-technology-and-jobs.md",
+      "title": "Will AI cause mass unemployment? What history says about technology and jobs",
+      "excerpt": "Key Words: ChatGPT’s Sam Altman: If AI goes wrong, it ‘can go quite wrong’ The data ... In fact, today’s median G7 unemployment rate of 3.8% is beneath the 5% UK rate at the start of the series in 1755,” they wrote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/will-ai-cause-mass-unemployment-what-history-says-about-technology-and-jobs-3cd01d82",
+      "originalUrl": "https://www.marketwatch.com/story/will-ai-cause-mass-unemployment-what-history-says-about-technology-and-jobs-3cd01d82",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-773574/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/will-ai-cause-mass-unemployment-what-history-says-about-technology-and-jobs-3cd01d82",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/will-ai-cause-mass-unemployment-what-history-says-about-technology-and-jobs-3cd01d82",
+      "publishedDateTime": "2023-05-22T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-tsas-facial-recognition-for-air-travel-sparks-privacy-outrage.md",
+      "title": "TSA's facial recognition for air travel sparks privacy outrage",
+      "excerpt": "The way the TSA uses facial recognition is by taking pictures of passengers and ... Get Kurt’s CyberGuy Newsletter, share your voice, a story idea or comment at CyberGuy.com. Get a daily look at what’s developing in science and technology throughout ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/tsas-facial-recognition-air-travel-sparks-privacy-outrage",
+      "originalUrl": "https://www.foxnews.com/tech/tsas-facial-recognition-air-travel-sparks-privacy-outrage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-22T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-synopsys-lays-out-the-benefits-of-ai.md",
+      "title": "Synopsys Lays Out The Benefits Of AI",
+      "excerpt": "Synopsys User Group Meeting, CEO Aart de Geuss explains the industry dynamics in an engineering world transformed by AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/05/22/synopsys-lays-out-the-benefits-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/05/22/synopsys-lays-out-the-benefits-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/610c09324c07cf985ccf31d5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/05/22/synopsys-lays-out-the-benefits-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/05/22/synopsys-lays-out-the-benefits-of-ai/amp/",
+      "publishedDateTime": "2023-05-22T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-this-week-in-data-how-to-talk-ai.md",
+      "title": "This week in data: How to talk AI",
+      "excerpt": "In this week's video, Bruno and a special guest discuss “how to talk AI” and best practices for currently available generative AI tools.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/this-week-in-data-how-to-talk-ai/",
+      "originalUrl": "https://venturebeat.com/ai/this-week-in-data-how-to-talk-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/May-22.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/this-week-in-data-how-to-talk-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/this-week-in-data-how-to-talk-ai/amp/",
+      "publishedDateTime": "2023-05-22T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-hypersensitive-robot-hand-is-eerily-human-in-how-it-can-feel-things.md",
+      "title": "Hypersensitive robot hand is eerily human in how it can feel things",
+      "excerpt": "So the team also used sampling-based planning (SBP) algorithms to give the robot a better grip (pun intended) on its state space structure. SPB doesn’t need to go over every pos",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2023/05/hypersensitive-robot-hand-is-eerily-human-in-how-it-can-feel-things/",
+      "originalUrl": "https://arstechnica.com/science/2023/05/hypersensitive-robot-hand-is-eerily-human-in-how-it-can-feel-things/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/image-6-800x451.jpeg",
+          "width": 800,
+          "height": 451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/science/2023/05/hypersensitive-robot-hand-is-eerily-human-in-how-it-can-feel-things/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/05/hypersensitive-robot-hand-is-eerily-human-in-how-it-can-feel-things/amp/",
+      "publishedDateTime": "2023-05-22T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-22-meta-fined-record-13-billion-by-eu-over-handling-of-facebook-user-data.md",
       "title": "Meta fined record $1.3 billion by EU over handling of Facebook user data",
       "excerpt": "European Union data regulators have hit Meta with a $1.3 billion fine (about €1.2 billion) and ordered the company to cease transferring EU Facebook user data to the US by October. The fine exceeds Amazon's $886 million fine from the EU for data protection violations in 2021.",
@@ -540,57 +832,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-22-some-42-of-gen-z-workers-are-nervous-to-tell-their-manager-they-are-using-ai-at-work-new-survey-finds.md",
-      "title": "Some 42% of Gen Z workers are nervous to tell their manager they are using AI at work, new survey finds",
-      "excerpt": "UK companies are falling behind on implementing AI at work leaving employees in the dark about whether and how they can use AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5",
-      "originalUrl": "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64675e70cd3a9c0019184f68?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5?amp",
-      "publishedDateTime": "2023-05-22T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-22-6-predictions-on-how-apple-will-join-the-ai-business-race.md",
       "title": "6 Predictions On How Apple Will Join The AI Business Race",
       "excerpt": "Apple hasn’t yet made its big AI move. Here are 6 predictions on what they will do, and how each might affect your business.",
@@ -831,7 +1072,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/05/21/how-does-ai-add-value-to-sales--intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -950,264 +1191,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-21-googles-ai-search-could-mean-radical-changes-for-your-internet-experience.md",
-      "title": "Google's AI Search Could Mean Radical Changes for Your Internet Experience",
-      "excerpt": "It's powered by a large language model ... it's uncertain if SGE will translate to increased or higher quality traffic for sites. Microsoft didn't answer any questions regarding traffic to sources when using AI search. Google said it doesn't have plans ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/googles-ai-search-could-mean-radical-changes-for-your-internet-experience/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/googles-ai-search-could-mean-radical-changes-for-your-internet-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/4a99da63082828a1594b0c0ba3f4b7c3f9287d6d/hub/2023/05/11/65526df6-f863-45fa-95a0-4d05465a799e/google-io-2023-051023-66.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-ai-search-could-mean-radical-changes-for-your-internet-experience/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-ai-search-could-mean-radical-changes-for-your-internet-experience/",
-      "publishedDateTime": "2023-05-21T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-21-a-young-billionaire-buys-forbes-a-startup-offers-free-tvs-and-chatgpt-goes-mobile.md",
-      "title": "A young billionaire buys Forbes, a startup offers free TVs and ChatGPT goes mobile",
-      "excerpt": "In this week's edition of Week in Review, we cover the new ChatGPT mobile app, a startup building humanoid robots and free TVs -- with ads.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/20/a-young-billionaire-buys-forbes-a-startup-offers-free-tvs-and-chatgpt-goes-mobile/",
-      "originalUrl": "https://techcrunch.com/2023/05/20/a-young-billionaire-buys-forbes-a-startup-offers-free-tvs-and-chatgpt-goes-mobile/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/venture-economic-warfare.jpg?resize=1200,645",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/20/a-young-billionaire-buys-forbes-a-startup-offers-free-tvs-and-chatgpt-goes-mobile/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/20/a-young-billionaire-buys-forbes-a-startup-offers-free-tvs-and-chatgpt-goes-mobile/amp/",
-      "publishedDateTime": "2023-05-21T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-21-wall-street-week-ahead-artificial-intelligence-gives-real-boost-to-us-stock-market.md",
-      "title": "Wall Street Week Ahead: Artificial intelligence gives real boost to US stock market",
-      "excerpt": "Recent advances in artificial intelligence are fueling optimism over how businesses can operate more productively in the years ahead. They are also providing a big boost to the stock market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-stocks-weekahead/rpt-wall-st-week-ahead-artificial-intelligence-gives-real-boost-to-u-s-stock-market-idUSL1N37G1V2",
-      "originalUrl": "https://www.reuters.com/article/usa-stocks-weekahead/rpt-wall-st-week-ahead-artificial-intelligence-gives-real-boost-to-u-s-stock-market-idUSL1N37G1V2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/jUM9WeanIabp58xV9iwqGoIdO5U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PCM7EYO3OFP4HKRIZ7ZMUVK77U.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-21T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-21-generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law.md",
-      "title": "Generative AI That’s Based On The Murky Devious Dark Web Might Ironically Be The Best Thing Ever, Says AI Ethics And AI Law",
-      "excerpt": "Generative AI That’s Based On The Murky Devious Dark Web Might Ironically Be The Best Thing Ever, Says AI Ethics And AI Law",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6469acbdc2f130c6c676b6ea/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/amp/",
-      "publishedDateTime": "2023-05-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-21-ai-can-you-tell-that-these-photographs-are-artificial.md",
-      "title": "AI: Can you tell that these 'photographs' are artificial?",
-      "excerpt": "A text prompt can be something as simple as \"woman shouting\" or \"twins\". The potential pitfalls of such content were recently demonstrated when German artist Boris Eldagsen entered this year's Sony World Photography Award with an AI-generated image and won.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-wales-65562658",
-      "originalUrl": "https://www.bbc.com/news/uk-wales-65562658",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1730D/production/_129698949_air.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-wales-65562658.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-65562658.amp",
-      "publishedDateTime": "2023-05-20T23:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

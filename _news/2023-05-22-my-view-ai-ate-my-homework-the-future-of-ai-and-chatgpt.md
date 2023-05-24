@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Apple reportedly bans some employees from using ChatGPT as it works on its own AI model"
-    excerpt: "Apple Inc. has banned some employees from using OpenAI LP’s ChatGPT artificial intelligence service, according to a new report. The Wall Street Journal reported the development late Thursday, citing sources and an internal Apple document."
-    publishedDateTime: 2023-05-19T17:30:00Z
-    webUrl: "https://siliconangle.com/2023/05/19/apple-reportedly-bans-employees-using-chatgpt-works-own-ai-model/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 29
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/apple-1839363_960_720.jpg"
-        width: 960
-        height: 575
-        isCached: true
   - title: "Public officers allowed to use ChatGPT and other AI, but must take responsibility for work: MCI"
     excerpt: "Public officers have been told not to feed generative AI tools with sensitive information. Read more at straitstimes.com."
     publishedDateTime: 2023-05-23T12:14:00Z

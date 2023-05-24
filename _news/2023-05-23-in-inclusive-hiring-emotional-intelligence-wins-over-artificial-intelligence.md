@@ -28,38 +28,38 @@ images:
     isCached: true
 
 related:
-  - title: "Apple looking to hire machine learning engineers with an interest in generative AI"
-    excerpt: "Apple's Technology Development Group (TDG) is looking for Machine-Learning engineers with a background and/or interest in Generative AI! You will be leveraging innovative Generative models to build fundamental applications on top of Apple's most advanced ..."
-    publishedDateTime: 2023-05-19T17:17:00Z
-    webUrl: "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai"
-    ampWebUrl: "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/"
+  - title: "How Does AI add Value To Sales Intelligence?"
+    excerpt: "AI improves sales pipeline intelligence by leveraging advanced algorithms and data analysis techniques to extract valuable insights from large volumes of data. Here are several ways AI enhances sales pipeline intelligence:"
+    publishedDateTime: 2023-05-21T18:10:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2023/05/21/how-does-ai-add-value-to-sales--intelligence/"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 68
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/54505-110094-Apple-Siri-xl.jpg"
-        width: 1312
-        height: 738
-        isCached: true
-  - title: "Skyline University College launches Bachelor of Science in artificial intelligence and software engineering"
-    excerpt: "Both the Bachelor of Science in Computer Science with a Concentration in Artificial Intelligence (BAI ... computer vision, and robotics. Graduates of the BAI program will be equipped with the skills and knowledge needed to design and develop intelligent ..."
-    publishedDateTime: 2023-05-23T03:01:00Z
-    webUrl: "https://gulfnews.com/business/corporate-news/skyline-university-college-launches-bachelor-of-science-in-artificial-intelligence-and-software-engineering-1.1684747237083"
-    ampWebUrl: "https://gulfnews.com/amp/business/corporate-news/skyline-university-college-launches-bachelor-of-science-in-artificial-intelligence-and-software-engineering-1.1684747237083"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/corporate-news/skyline-university-college-launches-bachelor-of-science-in-artificial-intelligence-and-software-engineering-1.1684747237083"
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "Artificial general intelligence: Understanding the future of AI"
+    excerpt: "Discover the future of AI. Learn about the potential of AGI development, its implications for society and the workforce, and key ethical considerations."
+    publishedDateTime: 2023-05-22T13:48:00Z
+    webUrl: "https://interestingengineering.com/innovation/artificial-general-intelligence-understanding-future-ai"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
+      name: Interesting Engineering
+      domain: interestingengineering.com
     quality: 41
     images:
-      - url: "https://imagevars.gulfnews.com/2023/05/22/Skyline_18842c5cc8a_medium.JPG"
-        width: 540
-        height: 405
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/14/image/jpeg/B2Q8idGkZUlSMYKAUGMZkDx4mJ533yB9NsRlACRK.jpg"
+        width: 1920
+        height: 1281
         isCached: true
+  - title: "Intelligent Artifacts Pledges Commitment to Responsible Artificial Intelligence"
+    excerpt: "Brand Manifesto Unveiled for Creating the Trusted Intelligent Future of AI NEW YORK, May 23, 2023 /PRNewswire/ -- Intelligent Artifacts, a leading innovator in the field of machine intelligence, solidifies their commitment to responsible AI in a new manifesto which you can read here on their website."
+    publishedDateTime: 2023-05-23T13:28:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/23/9819437.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "rpF+M40+TXErG8dP8Uzax2ykcfMpzdcm0//w/NRdXFxW+f0MWs+p8OvEiSv1txuzi6KBPjrGAr/Jq2gyLKPg91DWDNGkiou9am3Up8LOu54ZiGaMQu0Om8x190wBSiJVhtdrB34MtJ9LV7oZVcUVc5bJCZAoQXjm+SzptQFaz/iZ+vQ1rbiurn8XRhHFDc69OBjpMm8bM3CmBzx04l5E7neLtGzjjULK9sZDGLmNjK3hxrYLqRs38uBLJ6xxqLGAizEQUsY58mWIapSUCo07aaQD0LTay2F6EA5M9ClHoI6FwEQA7X/K2Bzkw+3eAzFR/UOX2md2u0UCSpLA5vrapN/vKMXJkEPcTZ37W8p8iADBHD26Xj0PeP3G9EgPJ6FduX/+aLp8evVAgfPhhjPSwWQK3aZFDSEeIoyiuAXuiQVGW46K/cfKQilLzrRJuGtJbiRNTKseykI8HyeuHA8IJfmNZSEXTHqb6KelrplmTJwCjKPFrSS8fTATDOwsjjXnOdRcfO1qzH8liSYpU8i/cA==;dkUI1KyVUrYVWf0l2sKi3w=="
 ---

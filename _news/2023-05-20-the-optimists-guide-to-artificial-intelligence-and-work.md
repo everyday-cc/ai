@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "The Promise Of AI ... And The Reality"
+    excerpt: "There are three things I think AI can do right now for operations, marketing and communications in the DSO space as well as in private dental practices."
+    publishedDateTime: 2023-05-24T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/24/the-promise-of-ai--and-the-reality/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/24/the-promise-of-ai--and-the-reality/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/24/the-promise-of-ai--and-the-reality/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645ba61bd8a7fb17319c02fa/0x0.jpg?format=jpg&crop=3574,2012,x0,y410,safe&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "/1vj0ul5XJ4BMDXTctHSPkkQ0LloW9GQv5dKB4CSstP3STkxhZ5rNsXF5D1i0tQr4LVFshT3DHa3skiSebF+uwV94u3VAdTgLA+AEwfkvYAXJrDT5/W3H9UsDfhint49jcEeWbbL7+Cl6ZDASM6jtez/Ct7dtD75O+PD+6gl1hyIM+2ceKwZo5hJNG6EtwSsq60r/0oM+iGuJd0FOUnArlzaG2DRbdDEzCpI5Ty0K+ptM+iwhPBQ6RDtSp/JlMBmZwqvVZQTxzxUGnq6Au+R6K7fVoXhJi8+QKzYcLsVSdiHnJmglm4QzXVt4iQEwIhUAW3IcIZ7nvhB56k/Vwd75IZx+yav1P+1uodOv0pN6QgcqFV9UB2r4H08N1WAWGODw4P3PMlpn3ih3jo5daqrxdtDO/tARweIsyS8s35pGSgyQWfEmtGNI12BdUEL7L9QRoQibj3NaYJ/oTek+qxGcObp11sjthECuw2WYqgANDz5ywEQ4cdhktS+Vx1DOXAASzuLg8zMPr559tE5XiYV9w==;tyZf5DtbUASyKz35d1MZ8Q=="
 ---

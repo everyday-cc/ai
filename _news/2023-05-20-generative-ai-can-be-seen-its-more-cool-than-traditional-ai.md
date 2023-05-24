@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Generative AI Systems Aren't Just Open or Closed Source"
+    excerpt: "Conversation around generative AI tends to focus on whether its development is open or closed. It's more responsible to envision releases along a gradient."
+    publishedDateTime: 2023-05-24T11:00:00Z
+    webUrl: "https://www.wired.com/story/generative-ai-systems-arent-just-open-or-closed-source/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/646d173beb3f06fa8140cea2/191:100/w_1280,c_limit/052323-ideas-gradient-ai.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "IT services firms leverage generative AI capabilities for clients"
     excerpt: "Infosys Topaz leverages Infosys applied AI framework to build an AI-first core that empowers people to deliver cognitive solutions that accelerate value-creation."
     publishedDateTime: 2023-05-24T06:08:00Z

@@ -35,15 +35,6 @@ related:
         width: 1596
         height: 1020
         isCached: true
-  - title: "AI Startup BeCause Advances Tourism Sustainability Practices with Strong Support from Angel Investors"
-    excerpt: "The startup's AI-powered sustainability hub simplifies, speeds up, and reduces costs for sustainability management in the tourism industry, freeing up resources and allowing for greater real-world impact. By eliminating 60% of the resources previously used ..."
-    publishedDateTime: 2023-05-22T18:37:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1324079&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 2
 
 secured: "4Mw0YJjhHP/KVxCXpGhldkPig9/0MlgHQEEyJNIkMK3h+KSdJg8EYP9RlYQ0bEIbzyEpp768Ch5JgL+/QvdYzDeYILsQUhMpsw0cREnr7s1RefZ39yuZDaIsmx6R+7sqnGYwDngLMWrHmLFpgsaXu62ohLrtn2Zdzt/gEzx0T53PL+J+guK7kr7CQ+9mA1iBpJQWMnnHsrNMq94HlIWSQWup4aXtWDootZUcbDvKRwkXAXH7cJDwQ1zwTbEiGDhi5f+bjUeCNSWoL4RBYTZMV11i2U2PBdQbTm0WZPgwj5lWv+7HFGJPV2WXzUztChTM8KZ9pFgP6q+mvD/Ui4nFPLrRI6IcHXJ1OUvSyYFM2TZZCmM5dZluqu5UVougTMi8yEoOSHxBcllCOw77DMnTfthUgrSfJQaVGCydzdEXSN8Q2dTLiT9FuBBnrEHa//Yp5HeSXlEQscc620NvnPiuHsmvHUdAtwVuf7yo6rvdoaU8duhNghvSeEAPENZNbN8lfqJNnrv24zwC+EabRbUhwA==;5Cc8pANKEDHtpG2mlQoPqA=="
 ---

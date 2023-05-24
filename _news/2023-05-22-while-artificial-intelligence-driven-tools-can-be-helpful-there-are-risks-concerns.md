@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI Podcasts Are Here. Prepare to Be Bored"
+    excerpt: "Inside the strange world of podcasts made by artificial intelligence, where even creators aren’t sure who wants to hear robot chit-chat."
+    publishedDateTime: 2023-05-24T10:00:00Z
+    webUrl: "https://www.wired.com/story/generative-ai-podcasts-boring/?utm_social-type=earned"
+    ampWebUrl: "https://www.wired.com/story/generative-ai-podcasts-boring/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-ai-podcasts-boring/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/646d44e7c3f2cf2daf39faa2/master/pass/Rise-Of-AI-Podcasts-Culture-1347076482.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Banks are all-in on AI, but there's one problem: They can't hold on to the talent. Here's why."
     excerpt: "Top banks are pursuing employees well-versed in artificial intelligence, but they are having a tough time holding on to them."
     publishedDateTime: 2023-05-23T18:01:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.aljazeera.com/amp/news/2023/5/23/governments-race-to-reg
 cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2023/5/23/governments-race-to-regulate-artificial-intelligence-tools"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Al Jazeera English
@@ -41,20 +41,6 @@ related:
       - url: "https://d.ibtimes.com/en/full/4438722/illustration-shows-openai-chatgpt-logos.jpg"
         width: 1200
         height: 814
-        isCached: true
-  - title: "Who Is Going to Regulate AI?"
-    excerpt: "As businesses and governments race to make sense of the impacts of new, powerful AI systems, governments around the world are jostling to take the lead on regulation. Business leaders should be focused on who is likely to win this race,"
-    publishedDateTime: 2023-05-19T17:13:00Z
-    webUrl: "https://hbr.org/2023/05/who-is-going-to-regulate-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/05/May23_28_5389503.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "MrB07r+H++wlfE1yk/QfLK5qRarBsCKyNL9r/p0TvPo0mwqvUFgNTuvpLVITm3iU5bMRbVSyyMlL0SOixlOSbRJUA59B5JA4VitzWALZxvwHiXasyHMBrB+qeSUwbC6ck0gW+sQ+wLT/4cF3FVV5CL0QEwriFTNdWNRZzOEivLPK65M+MyTktjSSo4j/OU9wXHeBQq1m75VxOWG/W2jzj5FjZwwxcR9ehL7BgXBn9KGmjuW66dhPzDZHSqkOKkr+uehDNAcKfXuS4BZ9PSDbcrlr2rNtZdbC3sIZUgy5h+OhFmdwQu0wIfzL2fj64rQTbKyxYX5Ov8ADITAbP8a85VA3fkGPT0kvWRbUxmRI4e4=;MMMQBuxNM+xz5MGZuTygQg=="

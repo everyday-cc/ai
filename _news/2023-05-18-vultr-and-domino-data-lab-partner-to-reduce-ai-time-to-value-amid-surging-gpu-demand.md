@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Vultr and Domino Data Lab Partner to Reduce AI Time-to-Value Amid Surging GPU Demand"
-excerpt: "\"Customers seeking AI-driven competitive advantage must grapple with staggering GPU demand and cost pressures,\" said Nick Elprin, CEO and co-founder at Domino Data Lab. \"Our integration with Vultr ..."
-publishedDateTime: 2023-05-18T15:17:00Z
-originalUrl: "https://www.businesswire.com/news/home/20230518005226/en/Vultr-and-Domino-Data-Lab-Partner-to-Reduce-AI-Time-to-Value-Amid-Surging-GPU-Demand/"
-webUrl: "https://www.businesswire.com/news/home/20230518005226/en/Vultr-and-Domino-Data-Lab-Partner-to-Reduce-AI-Time-to-Value-Amid-Surging-GPU-Demand/"
+excerpt: "New joint solution enables ready access to AI and machine learning workload acceleration for generative AI training and inference on GPU-accelerated Kubernetes clusters \"Customers seeking AI ..."
+publishedDateTime: 2023-05-18T14:05:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20230518005226/vultr-and-domino-data-lab-partner-to-reduce-ai-time-to-value-amid-surging-gpu-demand"
+webUrl: "https://www.morningstar.com/news/business-wire/20230518005226/vultr-and-domino-data-lab-partner-to-reduce-ai-time-to-value-amid-surging-gpu-demand"
 type: article
 
 provider:
-  name: newsroom.businesswire.com
-  domain: businesswire.com
+  name: Morningstar
+  domain: morningstar.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "KO25eRqSdCi042LdSYjieWSuoX8oEzX+A/lydnUTKEdV0FIFxZeAq3sI5andlYvpEphnZ+D8HZrI7rAV+5CFXrnub36bPcrz+UoWgfMg/6N+HQ15/FZhhmrA8KDRccyeO3fW+pS4Bgyiacru1DhrZ0QRQFZSOVZszKyUe/5bLnDUoBAImsIDjwibC9f3u48Z2xXeAt/RtfRHhLJR8gcqyfvX58rawn6PTSVD0gdEgE1aoeVIiLuR/nWrjKDff2e5dus1+E1ScGZv7UE3lCUVLb30hR5/VSnLhfwKoB58L94PpQsrURKyXd5KP3KE7rMo1Th7w0CkGrzTDf03EX9dCRwB87sQu0/O8RDE1xY0VZI=;n5ybTZ4Wa7p+CnIsGEuWXw=="
+secured: "llxQuGmHqa4LTtci1UbnrUXA3B0Jfkiq9NfdXtIcvlr8vVlmkMQuxsG5EoCycNGrj1TqRumPHbBeCapfL+cmiqcoWSdP5+4y3X+Cl3vHFrztHVBSE2oCw9JP5Ik65SmRfcKRouZf72cgVcQXbSTwjyuJ2aUV4Gl1vVrAevTyCnt9nhr485dVDqEgq/fO7uPw7VkrGrxUiMK1L5yB5BfpfTjyT3RUSjUJNEXhwAfioj8YyCHEhrYsVeSG0wT4iRdZcIEP3u+DTZ9P104FhyM+vvXx0M8fe6QGZ60+VEP01YfkC+YSfdXGZn27XBJfsNfHuAXxxBQ0t54O+9pGdUnh+0z48CSsS/9I6rUZdazlBJQ=;MIo6D1da9svOanYrOSoQSw=="
 ---
 

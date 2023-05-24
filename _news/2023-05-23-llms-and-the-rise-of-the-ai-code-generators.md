@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-a
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.amp.html"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/05/AIpanel.jpg?w=1200&strip=all"
         width: 1200
         height: 673
+        isCached: true
+  - title: "The Promise Of AI ... And The Reality"
+    excerpt: "There are three things I think AI can do right now for operations, marketing and communications in the DSO space as well as in private dental practices."
+    publishedDateTime: 2023-05-24T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/24/the-promise-of-ai--and-the-reality/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/24/the-promise-of-ai--and-the-reality/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/24/the-promise-of-ai--and-the-reality/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/645ba61bd8a7fb17319c02fa/0x0.jpg?format=jpg&crop=3574,2012,x0,y410,safe&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "The Optimist’s Guide to Artificial Intelligence and Work"
     excerpt: "Companies like IBM and the British telecommunications company BT have cited artificial intelligence as a reason for reducing head count, and new tools like ChatGPT and DALL-E make it possible for anyone to understand the extraordinary abilities of artificial intelligence for themselves."

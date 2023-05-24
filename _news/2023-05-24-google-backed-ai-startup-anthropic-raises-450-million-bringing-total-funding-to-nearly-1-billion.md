@@ -121,7 +121,7 @@ related:
   - title: "AI startup Anthropic raises $450M for safety-focused chatbot"
     excerpt: "Yet while ChatGPT has faced criticism — and been tweaked — after offering users some concerning results, Anthropic aims to make its chatbot more cautious from the start. Anthropic’s goal is for Claude to be less prone than other chatbots to manipulation that will produce harmful or offensive results."
     publishedDateTime: 2023-05-23T21:58:00Z
-    webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/"
+    webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?n=%5CL"
     ampWebUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
     cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
     type: article
@@ -148,6 +148,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "EaLiK70PpW+mfQrmdTXhku1NyUEeJHlLwhMPAgY6nuixVShgxlSLZxtad+B+7EGgaOkUiFXK9IT0QDOqS4b53uGihxtucUT4hKx6uMiGaTs0NEdc2Tm6Gnx8iPU6UUAN9mNx8vYfEdP9fLu3w/pPUtXEug248gR/O7YeNaz4/rfBsSWDT4Bh12EZZ9ymDKmxZUPfOqFoO5qFQns9vxPvYv1TT8C/wK0yrVUGudFsi1Eec+ecgJeWwRXMKIqaxikaE6vyslWmjr0kDu8uJEZjDJHPO3QQ6NuGl9UFf1ByQ4tChs4G2l+RA4iiahzeG60akCRnGWYkzuEeroWl+rNF91FZghBk5KuLqL51I/N7UZM=;Milza7bA7CvBk0seoQXEig=="
+secured: "gGoBCOAPLCyQ7IqljrVb3tr4sV/f2RWqKh23Y5cJ9BR7wvrOKbZqP0M+A/+xikbNYfmbCsK+h6ci3ugZqsDg/t0hsyjWO+LoBZfSfF2ibOb5gfEDzA7J+kKjPBwcnDEf93UV8U3NTP3i7J9ukRewcbtRtqBpwjkihr1p3d0sIdCIzBZI8bhHo6Gdfz1NoqHeioR5XozXmXSTeVaUZDJx0OiIbsGWK9p2RLEZNkzn00476aLR0CJPkWruvD+D7xkECdUOg6LmaPnn+bMiVxwCOx3tLL6/EYnm+8C6s712Lpup+CeiG48swsaeU7tToIjJMDKxyD3zzwGTx5xj/pM1/Bax1QlfzK4jbfeAcv1LAamNiTX8CgFz8k90O1PXLrA0LIBEROEJUH3xc2KbJBtSmHOZiiBOIk0ISIz3WvvNcmfUrdbz9+OMFalj0ytlgWCzLLEzGU2tq00SPqh+pf+otRpHyu6HD+Ta1v6UkenxMkx3ZOos7BiT7BY7FbMAWmdyP9fYMKGxtbr30Rw6haDdRQ==;4EAxdkNS1PS0HxQ2m1XDUA=="
 ---
 

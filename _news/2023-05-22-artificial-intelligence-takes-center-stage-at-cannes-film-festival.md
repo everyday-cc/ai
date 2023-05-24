@@ -23,22 +23,6 @@ images:
     height: 336
     isCached: true
 
-related:
-  - title: "Sean Penn backs Hollywood writers at Cannes, calls the use of AI a 'human obscenity'"
-    excerpt: "\"It's difficult for so many writers and so many people industry-wide to not be able to work at this time,\" Penn said."
-    publishedDateTime: 2023-05-19T17:37:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2023/05/19/sean-penn-hollywood-writers-strike-ai-cannes-film-festival/70236752007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 30
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/05/19/USAT/ce855947-6d56-4217-a360-94c5991bff52-GTY_1491489437.jpg?auto=webp&crop=4999,2812,x0,y254&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "HiqrCfGoU7rbiaNhuUISRnTuCHKfQDnjssACEb7RO5VPSgTm9CR3ivBpKSXvTyUEu0Wz/qf9ThReIuo8/yX+0YMmvh3RBSghpSB+t4vHTFumf11DjMgauTeVMGnXFJD2IIoQGGIwMY95GHRJ+H3ZoECrxl4ksxn8OYK0jCLGXFz/vHofE7bSuOmQxgGe4qIuse3k0A7pI76d0CtqGZeUCJoKPoLRUlRWFfcO4YEv96Jey6UOQ9SB6RTqpo0UTtirxP/RAPnX/iaVf5QQCFs9LStxq3nxSg1ksdrhyPtcNRRhq/TPtQ7adKX8lVybM/m1+rtclBeGBvxubNS8cbabXMC94+aicA4ZQCHm56fz4Qw=;RV5dSleTngp1Lt43eiCe+A=="
 ---
 

@@ -24,44 +24,37 @@ images:
     isCached: true
 
 related:
-  - title: "Bill Gates says the best AI agent will replace search and shopping websites"
-    excerpt: "Speaking at AI Forward 2023, an event in San Francisco hosted by Goldman Sachs Group Inc and SV Angel, Gates said it would disappoint him if Microsoft were not in the running, though there was a 50% chance the top player to emerge will be a startup."
-    publishedDateTime: 2023-05-23T00:13:00Z
-    webUrl: "https://www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites"
-    ampWebUrl: "https://www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites.amp"
+  - title: "One Way AI Will Help Human Workers: Ensuring They're Paid Fairly"
+    excerpt: "Automation will change the job landscape for many workers—but instead of taking everyone’s jobs away, AI is throwing into relief what kind of skills are most needed for today’s rapidly evolving job market."
+    publishedDateTime: 2023-05-24T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/amp/"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 55
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/709c3d7f-faa0-45f0-a558-1dcc847fa6c5/ad4f37e6-cde5-4060-b3cf-7af0b25dedfb/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Bill Gates says top AI agent poised to replace search, shopping businesses"
-    excerpt: "Bill Gates, Microsoft Corp's co-founder, on Monday said the technology race to win is development of the top artificially intelligent agent, poised to disrupt search-engine, productivity and online shopping businesses."
-    publishedDateTime: 2023-05-22T16:49:00Z
-    webUrl: "https://www.reuters.com/technology/bill-gates-says-top-ai-agent-poised-replace-search-shopping-businesses-2023-05-22/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 45
-  - title: "Bill Gates Says AI Is Poised to Destroy Search Engines and Amazon"
-    excerpt: "Bill Gates is warning that AI assistants could soon make Google Search and Amazon obsolete by altering the behaviors of users online."
-    publishedDateTime: 2023-05-23T17:44:00Z
-    webUrl: "https://futurism.com/the-byte/bill-gates-ai-poised-destroy-search-engines-amazon"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 37
-    images:
-      - url: "https://wp-assets.futurism.com/2023/05/bill-gates-ai-poised-destroy-search-engines-amazon.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/626173e1aeaa4c8e625ca2cd/0x0.jpg?format=jpg&crop=2046,1151,x0,y286,safe&width=1200"
         width: 1200
-        height: 630
+        height: 675
+        isCached: true
+  - title: "Some 42% of Gen Z workers are nervous to tell their manager they are using AI at work, new survey finds"
+    excerpt: "UK companies are falling behind on implementing AI at work leaving employees in the dark about whether and how they can use AI."
+    publishedDateTime: 2023-05-22T08:25:00Z
+    webUrl: "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5"
+    ampWebUrl: "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/64675e70cd3a9c0019184f68?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "H0KnMT7vEKguML6j7OIFYkZlv2pc8NvBrdGUICeCa44LmQZStQ1hElwovGEuz0wfZfjRC9EWxtVt+KunMD6GSJS9mej2lpoqq2eAXzIEvhzgHMXp/h7ph8EH4AczM14KWYZeccliQglEczuA513OiryjaOFXFOvStt9rmUa1EkV6ytt803u+kp0VjYXT4KJiCumfR6PJOL3sY9NkK8PHXos4vn4R9pIUzXABX0JnAMyQN5jTob0S+cMsvy2OllMCgJRcNJGFIczZDMnry/MTI9Iwp5czDInqixiEur2IzCw5ipAj+qscIpF44GPkiUpSp8nBANmGsJROGtAYa+Zqk8zUVHUgAazmtasb+/LPdW0=;EmNPViP+lmmzpfkcavAQ2w=="

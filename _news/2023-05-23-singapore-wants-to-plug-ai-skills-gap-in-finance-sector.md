@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-wants-to-plug-ai-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-wants-to-plug-ai-skills-gap-in-finance-sector/"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/22/aimas2205_2.jpg?VersionId=X6Awm3vqf0.EtAXo.KN2OWuq3J7LGrf9"
         width: 860
         height: 573
+        isCached: true
+  - title: "Singapore-based AI startup KarmaV enters India aims to establish ethical hiring practices and DEI strategies"
+    excerpt: "Singapore-based AI startup KarmaV enters India aims to establish ethical hiring practices and DEI strategies - KarmaV an AI-based SaaS platform focussed on solving diversity, equity, and inclusion (DE&I) status"
+    publishedDateTime: 2023-05-24T11:02:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/singaporebased-ai-startup-karmav-enters-india-aims-to-establish-ethical-hiring-practices-and-dei-strategies-nid-223177-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 35
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/KzcZ47Dq.jpg"
+        width: 570
+        height: 367
         isCached: true
 
 secured: "AEg6mLyXcDapcYdVYCHbi727dSobDCp2AWuvDi+rwgzvpv5VXzhXo2qYTg6W3izlA8H22RzDi9vcnZm+pIELrc9bV/Ht07M/YGWcCf1XGOaApDyjPytI8O+pyl0qDlAK0F4whscYA8dDPkkmwLAcO8+SyD134rjYONI4cNxGM9Zet9WfD0ZKDYPejBuo1/pmBEoqHF/YABaQgiFfo8vz26djS8FjVrFxxL5nIR9lrNpM1rRgfDT2PgHDkhw0jK/6yVWtNSyOKi9Ysz4DK+pc3FTF0gl5jNaz2sWX5PW1m2JEdYCXNabgZep+ek5q38agWSFZ8U2RMvo4q1y33JDdh/II7P56zarvt4IdQy4rRqRn7VY2111RjXjF+bpnNz2yfNAdBHEZzplnDCv4XNARTmcINjhGkXedzn3TqugSr298I3XO7WmuZCs0/9VGl65ZW5e0pZoQsKVY9afXTG3IKI4fWgfWngCC5P4KTTaSR6NZAdiOurQ+pj6OTuId9/Kmz4OTzRmkzv1b0Z7hxWAOkA==;sNrjgAysMLkgHgRVXz5tzw=="

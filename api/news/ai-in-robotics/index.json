@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-24-ai-startup-figure-raises-70-million-for-humanoid-robot.md",
+      "title": "AI Startup Figure Raises $70 Million for Humanoid Robot",
+      "excerpt": "AI robotics startup Figure raised $70 million to help develop a humanoid robot that it believes could one day take on a wide range of tasks traditionally performed by people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-24/ai-startup-figure-raises-70-million-for-humanoid-robot",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-24/ai-startup-figure-raises-70-million-for-humanoid-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQfH1gdaW.uM/v1/1200x667.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-openai-backed-robotics-firm-1x-deploys-the-worlds-first-ai-robot-in-the-workforce.md",
       "title": "OpenAI-backed robotics firm 1X deploys the world’s first AI robot in the workforce",
       "excerpt": "Robotics start-up 1X which is backed by Sam Altman’s OpenAI has overtaken Elon Musk’s Tesla in deploying the first AI robot in the workforce. The robot named EVE has been reportedly integrated as a security guard in an Android manufacturing site. The robot is reportedly redefining surveillance and security.",
@@ -1380,49 +1432,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-artificial-intelligence-etf-hits-52-week-high-as-its-23-ytd.md",
-      "title": "Artificial Intelligence ETF hits 52-week high as its +23% YTD",
-      "excerpt": "Artificial Intelligence has been one of the big buzzwords of 2023 and the Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) has taken notice as the exchange traded fund touched a new ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3970245-artificial-intelligence-etf-hits-52-week-high-as-its-23-ytd",
-      "originalUrl": "https://seekingalpha.com/news/3970245-artificial-intelligence-etf-hits-52-week-high-as-its-23-ytd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/905587820/image_905587820.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 459,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

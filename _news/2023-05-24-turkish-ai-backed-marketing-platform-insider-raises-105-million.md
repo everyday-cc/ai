@@ -45,6 +45,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI startup Figure raises $70 million in funding to build humanoid robots"
+    excerpt: "The new funding will be used to accelerate the development and manufacturing of the company's first autonomous humanoid, which is expected to launch in the next few months. The valuation of the one-year-old company was not disclosed,"
+    publishedDateTime: 2023-05-24T10:59:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/ai-startup-figure-raises-70-million-to-build-humanoid-robots/articleshow/100473777.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/ai-startup-figure-raises-70-million-to-build-humanoid-robots/amp_articleshow/100473777.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/ai-startup-figure-raises-70-million-to-build-humanoid-robots/amp_articleshow/100473777.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 53
   - title: "QIA Leads $250 Million Funding Round for App Platform Builder.ai"
     excerpt: "The Qatar Investment Authority is leading a series D funding round of more than $250 million for Builder.ai, the mobile app development startup backed by Microsoft Corp."
     publishedDateTime: 2023-05-23T11:47:00Z

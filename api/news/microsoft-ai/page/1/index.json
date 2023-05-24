@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-24-a-pivotal-moment-as-open-source-starts-to-square-up-to-sustainability.md",
+      "title": "A pivotal moment as open source starts to square up to sustainability",
+      "excerpt": "Pressures growing around the issue of sustainability are already starting to bring forth a new form of fruit, where open source software is being used to develop new ways of controlling energy-hungry applications out in the real world.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/pivotal-moment-open-source-starts-square-sustainability",
+      "originalUrl": "https://diginomica.com/pivotal-moment-open-source-starts-square-sustainability",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2021-01/sustainability.jpg",
+          "width": 826,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/pivotal-moment-open-source-starts-square-sustainability?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/pivotal-moment-open-source-starts-square-sustainability?amp",
+      "publishedDateTime": "2023-05-24T03:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-microsoft-cto-tells-devs-to-do-legendary-sht-with-ai-at-2023-build-conference.md",
       "title": "Microsoft CTO tells devs to ‘do legendary sh*t’ with AI at 2023 Build conference",
       "excerpt": "To help developers build AI effectively, securely and responsibly, Microsoft has announced a large set of updates and new initiatives",
@@ -218,7 +261,7 @@
       "originalUrl": "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -414,10 +457,10 @@
     {
       "path": "_news/2023-05-18-infogain-ai-business-solutions-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "Infogain AI Business Solutions Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Jake Zborowski, General Manager, Microsoft Azure Platform at Microsoft Corp., said, \"We're pleased to welcome three NAVIK AI solutions from Infogain to the Microsoft Azure Marketplace, which gives ...",
+      "excerpt": "NAVIK customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. NAVIK is an AI platform that addresses the breadth of AI ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/b32471234/infogain-ai-business-solutions-now-available-in-the-microsoft-azure-marketplace",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/b32471234/infogain-ai-business-solutions-now-available-in-the-microsoft-azure-marketplace",
+      "webUrl": "https://www.businesswire.com/news/home/20230518005632/en/Infogain-AI-Business-Solutions-Now-Available-in-the-Microsoft-Azure-Marketplace",
+      "originalUrl": "https://www.businesswire.com/news/home/20230518005632/en/Infogain-AI-Business-Solutions-Now-Available-in-the-Microsoft-Azure-Marketplace",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -425,13 +468,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32471234",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32471234",
-      "publishedDateTime": "2023-05-18T09:36:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T09:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "newsroom.businesswire.com",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1443,40 +1486,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai.md",
-      "title": "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI",
-      "excerpt": "SymphonyAI announced today its first generative AI software application that integrates Microsoft Azure OpenAI Service. Sensa Copilot provides sophisticated AI assistance to financial crime ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/n32282145/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/n32282145/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32282145",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32282145",
-      "publishedDateTime": "2023-05-09T03:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

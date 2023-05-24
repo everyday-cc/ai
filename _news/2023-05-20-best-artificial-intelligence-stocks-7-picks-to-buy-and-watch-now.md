@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "3 AI Stocks You Should Be Buying Hand Over Fist"
+    excerpt: "Therefore, investing in the chipmaker that provides the most high-performance AI chips is the ideal way to capitalize on this trend. On the date of publication, Chris MacDonald did not have (either directly or indirectly) any positions in the securities ..."
+    publishedDateTime: 2023-05-23T09:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-you-should-be-buying-hand-over-fist-1032344620"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "The 3 AI Stocks You Need to Own Now for Maximum Returns"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The popularity of artificial intelligence has surged since the launch of"
     publishedDateTime: 2023-05-22T16:03:00Z

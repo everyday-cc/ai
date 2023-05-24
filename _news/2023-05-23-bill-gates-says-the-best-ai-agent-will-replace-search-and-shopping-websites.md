@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxbusiness.com/technology/bill-gates-says-best-ai-agent
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites.amp"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -48,20 +48,6 @@ related:
       - url: "https://wp-assets.futurism.com/2023/05/bill-gates-ai-poised-destroy-search-engines-amazon.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Bill Gates: AI will kill off Amazon, Google and drive future humanoid workers"
-    excerpt: "Are emerging artificial intelligence tools set to relegate internet giants like Google and Amazon to the same dusty shelves as laser discs, fax machines and overhead projectors?"
-    publishedDateTime: 2023-05-24T01:31:00Z
-    webUrl: "https://www.ksl.com/article/50651412/bill-gates-ai-will-kill-off-amazon-google-and-drive-future-humanoid-workers"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 34
-    images:
-      - url: "https://img.ksl.com/slc/2931/293134/29313479.jpeg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
         isCached: true
 
 secured: "NUIUdPOa+L8GQ9YMlwvRyMG+58ZX3SPueiX30tG8GVdaod+Mp2lHLCs9qf/fIsSqgbCo6TG5U8T9Rgyq7p0Fo7qIwNUhFv90orjLhkQulZFcEiDzfp7EjEF0qazuM2H+IoIuVGZi30D2X9ZmqPJ/A8LvnY19MVBEIB57shwI/89i23ddU2IAwUOQbiiiM8ZAAujS1xyES/AOHlp89obcehwGT+d2MgJDZ3F+WRJEU9eZWcluIYRxJnfKu0KeyD/gIe8BRUKuEo1Fdvns/GokO5U1f+hGxFDzaKj44A7G3iVk1uBm+g/8YJXN9cZOPkwM9ogw3S9siEUSukbtY+fzaPEqazcY7RdvuX1FLMtKMAk6xrQAEp4oy/Ao2g6saY884HdDregCB9Kwl7v59Kt8bo96TsFvKU29SfNSLveXRDaZUhoagzUGninEDOjFDS67QqNilKflfb5EWi6N32I4Smsm0EDIllTzOzeARX0XzyaZynllwdshZSiDhXjviuq31YdDkt8rhQTQZnCfHy2Fww==;NKmmSdOcNb/K9We5ffk6Dw=="

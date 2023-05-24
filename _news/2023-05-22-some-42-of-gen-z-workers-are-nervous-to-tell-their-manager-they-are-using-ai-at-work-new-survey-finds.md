@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manage
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5?amp"
 type: article
 quality: 71
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -28,6 +28,38 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "One Way AI Will Help Human Workers: Ensuring They're Paid Fairly"
+    excerpt: "Automation will change the job landscape for many workers—but instead of taking everyone’s jobs away, AI is throwing into relief what kind of skills are most needed for today’s rapidly evolving job market."
+    publishedDateTime: 2023-05-24T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/626173e1aeaa4c8e625ca2cd/0x0.jpg?format=jpg&crop=2046,1151,x0,y286,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Bill Gates: AI will kill off Amazon, Google and drive future humanoid workers"
+    excerpt: "Are emerging artificial intelligence tools set to relegate internet giants like Google and Amazon to the same dusty shelves as laser discs, fax machines and overhead projectors?"
+    publishedDateTime: 2023-05-24T01:31:00Z
+    webUrl: "https://www.ksl.com/article/50651412/bill-gates-ai-will-kill-off-amazon-google-and-drive-future-humanoid-workers"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 34
+    images:
+      - url: "https://img.ksl.com/slc/2931/293134/29313479.jpeg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
 
 secured: "HrEF8xwj8YG0ilAni82Dk7/KQ2FX5llp+RDkgim1IBK8T1Uv7CTfZaDhz9pKRJg5w0XWsnUrgr0ixvlt7oDiA9SfGy8MSKb8zXpQ9g0YDmU/lnuI5GU6iPv+vcaMDycdZAZ9Gk6/jxLXzj0HrXFQbdb3KznUppRbOt6R0Gp8BGOoHMY+jNr+7u6HaIPlT7RSdjaFMRfdJK+DlGfWDt2k1xVS84gljErdG7qFrC3h2pzQ+uP5VFYiaO18bid4W07cIFaX9Asz8xVTlcLv3lZWQjH0o4YfBXdw/En9el4etDx6VJdZDwXvS4caifWpOeKz4PsON+IpRFEXAWKf8UvG1Xl0LupPdwaVN3SK6gcs8jaZ0EvkAuc9M5W/RnAlDZwWOBv2owi4afX3+RwTs+lAxypRTgehnmWcSJKpjtSd5UNTAFGv7Fx2o+Z3gej5hI3hw46kf2xT4uQYqDYgYOMmKnXoaUYBBRXHLtB7fkRsa5UOjT+7JL1NCg8nWPreSiKOS3X5OtHFIIHvW111KHoAKw==;xIxUpEaCj2OmVDOiP7V23A=="
 ---

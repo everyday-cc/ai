@@ -57,6 +57,20 @@ related:
         width: 900
         height: 1037
         isCached: true
+  - title: "Singapore-based AI startup KarmaV enters India aims to establish ethical hiring practices and DEI strategies"
+    excerpt: "Singapore-based AI startup KarmaV enters India aims to establish ethical hiring practices and DEI strategies - KarmaV an AI-based SaaS platform focussed on solving diversity, equity, and inclusion (DE&I) status"
+    publishedDateTime: 2023-05-24T11:02:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/singaporebased-ai-startup-karmav-enters-india-aims-to-establish-ethical-hiring-practices-and-dei-strategies-nid-223177-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 35
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/KzcZ47Dq.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "05PAEXao2GcFhwzQYT/LJe8NdPshvU5NIITuurvL4xRXHuqfWPiSVa94pSLqBcMCXKxOv++hBS33ryjCfexJoWdoVtxyBRANy0q9ng3jAYVPYqKO65oc3K/WuCHu21jxgQ+pF9iofm1pfHlXhYnuGEk4+nYP2ha37iyN2i+AGTxb4jmzYyAWE15QyKLJKPbh957ltJzTj7UBYQXsReq8MrTT6mVLYFjhJu7yyX9+JJBAItwUxeDd6+etAZt4ueoBAcOzB7j7gOliAW9A2PDlfpzFaf9O39MreL3nBHTU9T/B0oWgL+7OqFrm/B5KtnuZfdMgAymC4QJknYJkR6Qt75vbsx6l06fVHWx1dO1EOug=;AB/E9K5indeLIfRNoestYQ=="
 ---

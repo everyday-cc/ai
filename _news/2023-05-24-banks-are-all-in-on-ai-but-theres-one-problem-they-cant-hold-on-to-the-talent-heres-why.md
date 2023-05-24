@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/banks-ai-talent-big-tech-recruiter
 webUrl: "https://www.businessinsider.com/banks-ai-talent-big-tech-recruiters-2023-5"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "Generative AI Podcasts Are Here. Prepare to Be Bored"
+    excerpt: "Inside the strange world of podcasts made by artificial intelligence, where even creators aren’t sure who wants to hear robot chit-chat."
+    publishedDateTime: 2023-05-24T10:00:00Z
+    webUrl: "https://www.wired.com/story/generative-ai-podcasts-boring/?utm_social-type=earned"
+    ampWebUrl: "https://www.wired.com/story/generative-ai-podcasts-boring/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-ai-podcasts-boring/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/646d44e7c3f2cf2daf39faa2/master/pass/Rise-Of-AI-Podcasts-Culture-1347076482.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "While artificial intelligence-driven tools can be helpful, there are risks, concerns"
     excerpt: "It seems like everyone is talking about artificial intelligence and all of the ways it will change the way we live and work in the not-too-distant future. One of the ways that businesses are already using AI is in the recruitment and"
     publishedDateTime: 2023-05-21T17:00:00Z

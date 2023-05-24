@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/cindygordon/2023/05/21/how-does-ai-ad
 webUrl: "https://www.forbes.com/sites/cindygordon/2023/05/21/how-does-ai-add-value-to-sales--intelligence/"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI in Sales
 
 related:
+  - title: "In Inclusive Hiring, Emotional Intelligence Wins Over Artificial Intelligence"
+    excerpt: "Maybe in the future, there will be a mature AI solution that can handle the complex job of seeking out and assessing the optimal leader for a specific nuanced culture and point in time—but not yet."
+    publishedDateTime: 2023-05-23T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/05/23/in-inclusive-hiring-emotional-intelligence-wins-over-artificial-intelligence/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64638bb4c969f754de257b7e/0x0.jpg?format=jpg&crop=5306,2983,x1647,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial general intelligence: Understanding the future of AI"
     excerpt: "Discover the future of AI. Learn about the potential of AGI development, its implications for society and the workforce, and key ethical considerations."
     publishedDateTime: 2023-05-22T13:48:00Z

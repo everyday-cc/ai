@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-12-artificial-intelligence-etf-hits-52-week-high-as-its-23-ytd.md",
+      "title": "Artificial Intelligence ETF hits 52-week high as its +23% YTD",
+      "excerpt": "Artificial Intelligence has been one of the big buzzwords of 2023 and the Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) has taken notice as the exchange traded fund touched a new ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3970245-artificial-intelligence-etf-hits-52-week-high-as-its-23-ytd",
+      "originalUrl": "https://seekingalpha.com/news/3970245-artificial-intelligence-etf-hits-52-week-high-as-its-23-ytd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/905587820/image_905587820.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-12T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-the-role-of-motion-control-in-medical-robotics.md",
       "title": "The Role of Motion Control in Medical Robotics",
       "excerpt": "Motion control is a critical component of almost all of today’s robotic applications, explains Aleksandar Nacev, PhD, chief technology officer for Promaxo. Nacev is an engineering professional with expertise in magnetic systems engineering. Promaxo’s ...",
@@ -1327,49 +1370,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-07-3-robotics-stocks-to-buy-for-futuristic-growth-potential.md",
-      "title": "3 Robotics Stocks to Buy for Futuristic Growth Potential",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The robot revolution is well underway and only growing in size and scope.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-to-buy-for-futuristic-growth-potential-1032299072",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-to-buy-for-futuristic-growth-potential-1032299072",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-06T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

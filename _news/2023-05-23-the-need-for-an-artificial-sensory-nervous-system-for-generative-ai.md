@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-for-an-artificial-sensory-nervous-system-for-generative-ai/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/09/Red-Hat-e1684880569131.jpg?w=1200&strip=all"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Generative AI Systems Aren't Just Open or Closed Source"
+    excerpt: "Conversation around generative AI tends to focus on whether its development is open or closed. It's more responsible to envision releases along a gradient."
+    publishedDateTime: 2023-05-24T11:00:00Z
+    webUrl: "https://www.wired.com/story/generative-ai-systems-arent-just-open-or-closed-source/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/646d173beb3f06fa8140cea2/191:100/w_1280,c_limit/052323-ideas-gradient-ai.jpg"
+        width: 1280
+        height: 670
         isCached: true
   - title: "‘Generative AI can be seen; it’s more cool than traditional AI’"
     excerpt: "Generative AI and transformers (that help predict the next word or a sentence, and even a para) were not invented to perform physical stuff. They were invented to understand languages better. Images and videos are only a by-product of that."

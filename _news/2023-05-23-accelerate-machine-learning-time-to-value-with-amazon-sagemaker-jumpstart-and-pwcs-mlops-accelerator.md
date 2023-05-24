@@ -58,15 +58,6 @@ related:
         width: 1021
         height: 509
         isCached: true
-  - title: "Introducing an image-to-speech Generative AI application using Amazon SageMaker and Hugging Face"
-    excerpt: "Vision loss comes in various forms. For some, it’s from birth, for others, it’s a slow descent over time which comes with many expiration dates: The day you can’t see pictures, recognize yourself, or loved ones faces or even read your mail. In our previous blogpost Enable the Visually Impaired to Hear"
-    publishedDateTime: 2023-05-19T18:11:25Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-an-image-to-speech-generative-ai-application-using-amazon-sagemaker-and-hugging-face/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 71
 
 secured: "8tay2MYIxZfpdJDIrhCaEWcjEF+4kYfCMITVWAGtNQXkfgZkypMJWrVWGQmXgGgYIq9IyJQsrddHVA8ME6XEDlfpOJX6RtIYgKtjSM50gXTevMZREmPhGkb+6EpX6xBnTFzOHbS+oDpof7Ill9rywklzqh20ARpH7PpQo6mMNeRh5+S67GdwVBa23Ce/cc7Tf4RE6BlotX9G9XdPBMuGutifarh9agokjJj3Ecm6TTlbybF7dxFRziRJhr2/+29Q+vfPjFFS8Mh5n/ANJZlxlOsZF0aIovos/9r1MYTEWMIZTEuhhSX2dzK6AATjT0cKvquMuVGjVuNwY64OMU03k/dFm/yKsTwneR6jS+eo554=;fFxEyHBj6RNbcUEwM1WYfQ=="
 ---

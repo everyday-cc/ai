@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Infogain AI Business Solutions Now Available in the Microsoft Azure Marketplace"
-excerpt: "Jake Zborowski, General Manager, Microsoft Azure Platform at Microsoft Corp., said, \"We're pleased to welcome three NAVIK AI solutions from Infogain to the Microsoft Azure Marketplace, which gives ..."
-publishedDateTime: 2023-05-18T16:36:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/05/b32471234/infogain-ai-business-solutions-now-available-in-the-microsoft-azure-marketplace"
-webUrl: "https://www.benzinga.com/pressreleases/23/05/b32471234/infogain-ai-business-solutions-now-available-in-the-microsoft-azure-marketplace"
-ampWebUrl: "https://www.benzinga.com/amp/content/32471234"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32471234"
+excerpt: "NAVIK customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. NAVIK is an AI platform that addresses the breadth of AI ..."
+publishedDateTime: 2023-05-18T16:29:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230518005632/en/Infogain-AI-Business-Solutions-Now-Available-in-the-Microsoft-Azure-Marketplace"
+webUrl: "https://www.businesswire.com/news/home/20230518005632/en/Infogain-AI-Business-Solutions-Now-Available-in-the-Microsoft-Azure-Marketplace"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: newsroom.businesswire.com
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "hvbV0+PfSuLaC3jm5aX0we0iNJ3/0E6KIsV9dIsSwtpGdtniF1abUB7/C04LZxIgtaQshZsNJPbkWxMbIBWj6viRBb4jN++hEP439vdLUSHUBEJP7XMmjjCYMBoSYnX0NIBaSa57SQVJI8varOp4cCze4CXpcB9W+/b3Y4otFEJryY8q7lZ4uhsZpxNjNYUE3PtCYZjKmZjbsfA+obNUTYvCoksV2V3LPtvAOR/9GtyLH8c7X83Ic1sTN6BPjx1fH7y3/r9iyY9fRoMhSy4fWt2Yj8lH8gcz7hR/K4+C1FU7U7yndsLs6VBhAK3Pdnd/XF8RinKULZQdWmItCb/XZo7eNiA2ugjBlCtz4C0OqsU=;Ty4VFvAoWUxN+8lUdYyGow=="
+secured: "DlqO+FAYQcmg/17Vq87u5aCfaHwo1EMVBYAJ3rH4ENM/hz3z3e/OdtxU2Mkqj+z2EhX33rVANZqCAU4pEVudTNTjaLKLUc0AQqDSbO7sVMt347cKyykQS6cak48GTclTLPzEjC4U9VYdSBEiJ+WA2BJ6v8svvgr9zXUniqA6bEosWkQ9oGu0tLBDTv8JkNGJYHhDbiL0AUcyCozCyCwTaEKbPLJKTkEh53pjamv4t3flzpU+fiXqPF+MQrRMMwF3XF5rTy7z3EFYwpoaOIKu76pp7cgftf5p+dWprdG5sLiCTm/Xh7myyw4YGrrZclQzZXh6IupxugR/yYO7mJBF2oWvD7e8vI57nwWGY6KQHWY=;TO/ESbRjNv8zsPkrzZ76XQ=="
 ---
 

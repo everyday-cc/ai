@@ -59,22 +59,6 @@ related:
         width: 1199
         height: 848
         isCached: true
-  - title: "Microsoft Bing AI Chat Widgets: How to Get Them on iOS and Android"
-    excerpt: "Microsoft launched artificial intelligence-powered search on Bing 100 days ago, celebrating the milestone with a few updates to the system this week. One of those is adding a chatbot widget for phone screens across both iOS and Android."
-    publishedDateTime: 2023-05-19T17:43:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/microsoft-bing-ai-chat-widgets-how-to-get-them-on-ios-and-android/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-bing-ai-chat-widgets-how-to-get-them-on-ios-and-android/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-bing-ai-chat-widgets-how-to-get-them-on-ios-and-android/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 104
-    images:
-      - url: "https://www.cnet.com/a/img/resize/853677a4b747a7181eb4ba245c6a405d29d1bdbe/hub/2023/05/16/17988a0d-2942-4201-b8b7-7192081b55c4/gettyimages-1249309512.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "All the major Bing Chat and AI announcements from Microsoft Build 2023"
     excerpt: "Microsoft is continuing to grow its presence in the AI space with a series of new updates and launches. Here's everything you need to know."
     publishedDateTime: 2023-05-23T15:00:00Z
@@ -539,6 +523,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 54
+  - title: "Microsoft and NVIDIA join forces to enhance enterprise AI efforts"
+    excerpt: "NVIDIA has an edge over its competitors when it comes to AI processors. The company wants its credentials to be more expansive than that. In the current AI space, what better way to enhance one's credibility than joining hands with Microsoft?"
+    publishedDateTime: 2023-05-24T11:50:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/microsoft-s-azure-machine-learning-gets-nvidia-ai-integration/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 54
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l39920230524154146.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft Announces AI-Powered Windows Copilot and Dev Home"
     excerpt: "Microsoft is increasing its AI-powered features to Windows 11, with Windows Copilot and Dev Home highlighting the handful of new integration unveilings."
     publishedDateTime: 2023-05-23T22:01:00Z
@@ -739,6 +737,6 @@ related:
       domain: microsoft.com
     quality: 24
 
-secured: "p3o0+DUuuCksoZsEcs+y5p30TY3Brt2k0cB/gBP3yodte6CsZPPZF80BNt5K1Jonvn6bGsGcxWg69bbq2BA6jof6Klc8BwToQY1mKBNUU56h3jUODCy2YpbxihYLHA1SkSOT1m7mIpv72XrQJagnsbeFQgsAe2HqgoMIYaZLLfPjMGNSwJ58vmjNxEcYTdacsx4gsIT3/TiWAlcqXIbR2PeDohhRUHrAAjL0J00y7edzrnOeuF8CNj99S0xCw3A1cVk4Ig0STKpSA7uz/4vNDEwO8XW/20loR6fmVhnZh/Q9NQdpTmC4xF3A/SUNRvGwSEK4AeTIn8jN1AODPUt2JYi6AyMyEguYdFokn+pTt2Y=;1nqeQuvNdERy1q9+IREPsw=="
+secured: "5Y7HtldPq5c96jTRFlo9uzLUxjSG6QPJT7vwO6QiBcLhI8AqcFKzAXB7y9Jks4ZTuLIaG432sn1MxRroO0ZnbpTh7Dvx6DumIgrIUM9bIjTj0ph2pah3Pk1RxhmJxSLkE7j/BVSOtlHDgLO/N/4VFXfIuXxm7wElZ9BPshRwYdeCtiAsRThxXZkcm3spPmxmMtoMPkA8D+BFLkzb5ysKC5cDawdcB1jpMzfF0uIZ0d4gYHR2W4rJWsWlC1FAEc+TwF2dJ2RCD9PvNrxYjmJABr87tzpdI/VF7RJFPU5iDHYk7GcUqLoJ1ed5AFLYkEeoOuFw2XD/5QGBVpfymaLhX0DtV330cTkAi8WRUaZw7+AAzY4twgft4XA7y9XqNQEn7SF5orvq+RfduIbIin0zsZexM2Slib2iBTWnX0zfsQ0qy+oOyxhiy3JL8Wcuoh9Phr6IIABALJo9W57NUIzsAQWOjthdkNlRkXaiHv2G9zemo1J3zGgOs7m76Up0kLNaZB8+yPCR0asG8LlDnjyanA==;+dJmG50Jh1CDldgspM+i+g=="
 ---
 
