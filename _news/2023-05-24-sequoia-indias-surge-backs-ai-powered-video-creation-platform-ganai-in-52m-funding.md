@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/23/sequoia-indias-surge-backs-ai-powe
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/sequoia-indias-surge-backs-ai-powered-video-creation-platform-gan-ai-in-5-2m-funding/amp/"
 type: article
 quality: 79
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.reuters.com/resizer/ypbUZw9mJoBpsPgqYkSOHSM963A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IK7236HTRVIF5LHRAYWSUV2ZWA.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Nvidia in great position to gain from AI hype, says Intel CEO"
+    excerpt: "Nvidia, which has long been keen on boosting GPU's computing power, is now being presented with an excellent opportunity from the AI wave, according to Intel CEO Pat Gelsinger."
+    publishedDateTime: 2023-05-24T02:04:00Z
+    webUrl: "https://www.digitimes.com/news/a20230523PD218/intel-nvidia-pat-gelsinger.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230523pd218_files/1_b.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "With help from next-generation AI, Indian villagers gain easier access to government services"
     excerpt: "AI chatbot Jugalbandi powered by Bhashini and Azure OpenAI Service gives Indian villagers access to government services in their language."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/23/ai-is-the-fu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/23/ai-is-the-future-of-gaming-and-nvidias-new-rtx-4060-optimizes-for-it/amp/"
 type: article
 quality: 89
-heat: 150
+heat: 149
 published: true
 
 provider:

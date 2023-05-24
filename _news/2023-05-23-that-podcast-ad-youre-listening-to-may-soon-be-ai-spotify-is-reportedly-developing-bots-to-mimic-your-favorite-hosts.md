@@ -40,7 +40,7 @@ related:
     provider:
       name: MSNBC
       domain: msnbc.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230523-Timbaland-Young-Guru-2up-2x1-ac-424p-e45f25.jpg"
         width: 1200

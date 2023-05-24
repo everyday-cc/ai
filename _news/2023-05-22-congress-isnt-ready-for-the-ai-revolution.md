@@ -18,36 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Three Ways To Get Ready For The AI Takeover In Interior Design"
-    excerpt: "There is a lot of work to do before people start trusting AI. To ensure that the AI takeover becomes a reality, we must come to terms with the new paradigm. The roads toward it might be bumpy, as there are psychological barriers to overcome, but AI can actually do a part of the work instead of people—and do it quite well."
-    publishedDateTime: 2023-05-19T10:44:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/amp/"
+  - title: "Red Hat Creates Recipe For Production-Ready AI Models"
+    excerpt: "There are many types of Ops. We classify this software discipline as a component of the many types of Ops now working to keep our computing cloud up in the air & running."
+    publishedDateTime: 2023-05-23T13:53:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/05/23/red-hat-creates-recipe-for-production-ready-ai-models/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64662733af9968582de6367b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Three ways to test medical AI for safety"
-    excerpt: "The biggest challenge of using generative AI in medicine is the hallucination problem, in which the system just makes things up."
-    publishedDateTime: 2023-05-23T08:29:00Z
-    webUrl: "https://www.statnews.com/2023/05/23/gpt-4-chatgpt-medicine-ai-safety/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 37
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2023/05/GettyImages-1248338225-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+    quality: 49
 
 secured: "qEolimqV+Ss/GHLsU15bPc5aUB40FAMzFwUowujaRDrNeyGnbBQcPIqv0OQTGPZRSuXKQZFaaaySa2xGY0xYQxpItqMp3UmwqKQg8Af7IOGSnAvkzyUDcFp29tHPgs9fPRs7SRDr/U3DBvspxaiXyTfQf51SCvAkTVY5RoPF6T0npOc5A5D7Rwf+5Cm/R0HpMDbEqwEDtv/O+mkmGvsi8ckegqHYLxXRdUqk9uzfUFgfwjlQA/ue9FWcTcudcdd8TjtEFDKO0xDub/2KMsXV3oRJ9h+KhZaFniZAj87pBdf8gDMAPw9oqQO9E8qHfUuVNRTtcH/VEadkEuFVbTuOEkLr6lZXs39IHvAdZGiB0OsbjAfsJUUeNGlun1Jk57iv+UiNOJ7Yb/EXGBUvsIFfYouVAnbqvnrg++adwmizUosHt4IqSa3bq6KW8yfgvGjjMd5PBDi4aotGUVMTWz2G7PbNcfzHuAGVIy+g80Oqe7FrYlOCltmXgptEAfoqYRAXzXJkRLK/WPBWnXFkimeBXA==;zXWEYZkYPyduERbCzvpR1A=="
 ---

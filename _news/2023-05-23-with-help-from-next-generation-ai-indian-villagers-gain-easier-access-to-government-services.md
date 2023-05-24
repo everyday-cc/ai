@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Nvidia in great position to gain from AI hype, says Intel CEO"
+    excerpt: "Nvidia, which has long been keen on boosting GPU's computing power, is now being presented with an excellent opportunity from the AI wave, according to Intel CEO Pat Gelsinger."
+    publishedDateTime: 2023-05-24T02:04:00Z
+    webUrl: "https://www.digitimes.com/news/a20230523PD218/intel-nvidia-pat-gelsinger.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230523pd218_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "YaLMbAdGmOTbkUV6oAGM43APcTszYSZ7e0Vv3O31ocBz2/k+soaFo21QJnlnZlpBWD7sHQYVUMe4rGeBpR8PqoMPREAMUl83RWCG623zF1aPN0GlFQ9Uj7MkOT7+kn42lYuQVr+dDGQhipA9Bs1pB1sdUCEqUrSakVg/3c5BNPCQoQKn22fowJwlpjyDBrc/0GeXYHSyx6tY+dZX6Gk7Q3q6GjiW5WF56OZT+cjc6E/5l0U5kpdmoJ19/Zibf4jid5z7+LPdlgzsJkzEZ5ixJ+ReitXOb4JtJu+4U+C8l3cAFpDJo0G3LVSEyf+PK/o98LjE11kpQSoJbg92ztGVedGaMjNjzoSk+ASGsXQ2ESQ=;dc1LbUAulAFMbZB19R8+xw=="
 ---

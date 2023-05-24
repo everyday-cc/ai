@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nvidia in great position to gain from AI hype, says Intel CEO"
+    excerpt: "Nvidia, which has long been keen on boosting GPU's computing power, is now being presented with an excellent opportunity from the AI wave, according to Intel CEO Pat Gelsinger."
+    publishedDateTime: 2023-05-24T02:04:00Z
+    webUrl: "https://www.digitimes.com/news/a20230523PD218/intel-nvidia-pat-gelsinger.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230523pd218_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "With help from next-generation AI, Indian villagers gain easier access to government services"
     excerpt: "AI chatbot Jugalbandi powered by Bhashini and Azure OpenAI Service gives Indian villagers access to government services in their language."
     publishedDateTime: 2023-05-23T15:00:00Z

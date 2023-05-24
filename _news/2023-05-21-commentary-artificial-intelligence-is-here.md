@@ -23,17 +23,6 @@ images:
     height: 256
     isCached: true
 
-related:
-  - title: "Commentary: Artificial intelligence is here — friend or foe, or both? — Llewellyn King"
-    excerpt: "Artificial intelligence, known as AI, has had pride of place on the worry list for weeks. Its arrival was trumpeted for a long time, including by the government and by techies across the board. But it took ChatGPT,"
-    publishedDateTime: 2023-05-19T10:21:00Z
-    webUrl: "https://www.myjournalcourier.com/opinion/article/commentary-18094523.php"
-    type: article
-    provider:
-      name: Journal-Courier
-      domain: myjournalcourier.com
-    quality: 11
-
 secured: "SsbC6ZmTzflVI8Y2gCX2dszJyS5Z/5mkY2xyjoEwrZkLZYLxQ5jYn6xzxh65Yusi6fVOfaRCJfaWkYzL5lCkljNUrxnAHkdtaHOBHMkpx8wdGYR4t7wKvZiYb2povFwzuxSgr6LKFOfRmtMXNwfmctG7Pk6g3ORF5Yz0MOVfAtYlEs39WYr8gVObLFMf1ZCrfSRYNPCHSl+HB3B7UbcyhliosSs+YvlQ4Dh5GNO6QFNLQLcsVMWcBYtpEvqFsSAnxtHcpVFs8r0XJrwFTAIx7gvlRaHsXVE8qEBEgZEVQh0Af+0cU1NhJ2BLOysjoh2umtz56O/ga3QBB8rna9Wg+u2pOzZZqCK62aMLqpdpMxY=;S6fEDjgrekRxfcVpQhLAOw=="
 ---
 

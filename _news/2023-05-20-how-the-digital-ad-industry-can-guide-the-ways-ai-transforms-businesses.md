@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
         width: 2560
         height: 1920
         isCached: true
-  - title: "3 Penny Stocks to Buy as the AI Sector Transforms Every Industry in 2023"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI penny stocks offer investors a thrilling opportunity to tap into the"
-    publishedDateTime: 2023-05-19T10:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-penny-stocks-to-buy-as-the-ai-sector-transforms-every-industry-in-2023-1032339476"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
 
 secured: "FqwlMjWDRqNBhpMMZlwmwRNOqhC/3RH8nqIqloI10RZhE9QhBtPyRnrsN+NEX7XcOXzFTLeUOACB6RDbwxCCO33le6AFyZ/ilPUpzHa/FTD6HCMNOS9RkLjsK0DKgAA7UvvN+YELw36MoWoLlPK6ywaFdR2Uhv/1yjBIw+SZb72FC4Vz/orI6oAreyD+NbfXc+PdMRxdVwSXkZePNFIO5vTCUBWfE5+qyWEznGyABwCr1BfbFt2gUOKsgq/abbEVtqZuFmosBwX6klj1twuViz6/V4LkC1erfLJcNd4Y0LjUPBYrjHWMSl63U2fwVaqsHxuSD8NA51k3lmbs6j23mmoTn2SJ1LJLBG01h9H/h01LdN1vmEusALo0qscyC0W1fqFAqbfTsTjvOCtWYmxH0vcPtWfUZQ13H1m9hbOAOciPh7wO5NabrANuPFaGOAYeRXFfs+4n9+xehVIyD99LhOTG1IfOMcUaz3OnPUPKBB7WdtqvZlQfljmtKJGG5vLfY49HdY9C6rayLTAj4yvTmg==;EgkY4eSltfNDL0Jw4u4CiA=="
 ---

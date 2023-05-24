@@ -132,6 +132,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Adobe to integrate AI into Photoshop amid fears of job losses and mass faking of images"
+    excerpt: "Company says Adobe Firefly is a ‘co-pilot’ to graphic design rather than a replacement for humans"
+    publishedDateTime: 2023-05-23T20:17:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/23/adobe-to-integrate-ai-into-photoshop-amid-fears-of-job-losses-and-mass-faking-of-images?ref=emergentmind"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/23/adobe-to-integrate-ai-into-photoshop-amid-fears-of-job-losses-and-mass-faking-of-images"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/23/adobe-to-integrate-ai-into-photoshop-amid-fears-of-job-losses-and-mass-faking-of-images"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 49
+    images:
+      - url: "https://i.guim.co.uk/img/media/66f3ced92079ae2635e031bc1139cfe11279f411/19_0_762_457/master/762.jpg?width=620&quality=85&auto=format&fit=max&s=d76d3298ea21fedde0d07223ac052f04"
+        width: 620
+        height: 372
+        isCached: true
   - title: "I Just Tried Photoshop's New AI Tool. It Makes Photos Creative, Funny, or Unreal"
     excerpt: "Adobe is building generative AI abilities into its flagship image-editing software with a new Photoshop beta release Tuesday. The move promises to release a new torrent of creativity even as it gives us all a new reason to pause and wonder if that sensational, scary or inspirational photo you see on the internet is actually real."
     publishedDateTime: 2023-05-23T13:24:00Z

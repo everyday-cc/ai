@@ -132,6 +132,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Adobe to integrate AI into Photoshop amid fears of job losses and mass faking of images"
+    excerpt: "Company says Adobe Firefly is a ‘co-pilot’ to graphic design rather than a replacement for humans"
+    publishedDateTime: 2023-05-23T20:17:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/23/adobe-to-integrate-ai-into-photoshop-amid-fears-of-job-losses-and-mass-faking-of-images?ref=emergentmind"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/23/adobe-to-integrate-ai-into-photoshop-amid-fears-of-job-losses-and-mass-faking-of-images"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/23/adobe-to-integrate-ai-into-photoshop-amid-fears-of-job-losses-and-mass-faking-of-images"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 49
+    images:
+      - url: "https://i.guim.co.uk/img/media/66f3ced92079ae2635e031bc1139cfe11279f411/19_0_762_457/master/762.jpg?width=620&quality=85&auto=format&fit=max&s=d76d3298ea21fedde0d07223ac052f04"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Adobe is adding an AI-powered image generator to Photoshop"
     excerpt: "Adobe on Tuesday said it's incorporating an AI-powered image generator into Photoshop, with the goal of \"dramatically accelerating\" how users edit their photos."
     publishedDateTime: 2023-05-23T18:08:00Z

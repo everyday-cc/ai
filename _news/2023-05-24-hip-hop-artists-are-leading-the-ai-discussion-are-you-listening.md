@@ -8,7 +8,7 @@ webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/hip-hop-timbaland-ai-you
 ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna85875"
 cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna85875"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230523-Timbaland-Young-Guru-2up-2x1-ac-424p-e45f25.jpg"
@@ -43,6 +44,6 @@ related:
         height: 500
         isCached: true
 
-secured: "hIsd9nLFRNx2ENZArWY9G7NZbxRCo/QlLANRQWP9Fei6RyPfwIRmobVEkkhWjsmn3p/uBe7C/32UCD4d/0qCIoDXJTAfblzqerjoePnzEbA5nr0lTITABKWtieeyZgxrHwXxQ340wElI1B5Tgvmwk/2JbIO7dUUOHzZn3vqRMKXi/odAEX/u/ppocMzDob+dQxuGi7GEAKHA6atOU9fQ22lEOLsSIN3Mz8VgcbkNEWBqYmqdNgj+83LiawSgt2XBRqskP0trL4ytIHFEzGeKGmKReY0dhQJRC8y57AE3UsyPKWkRc5cj1GUh0G66i47WMYN+m4sJ0KKGhJ8DZXM+ekj77gpwBjkhfhRlea6RAgY=;a0Hja5QdewNjrP/3VapxgA=="
+secured: "LzLNHOoj/Bdm1Gk2gC34MHHUuAlRXk9MtGHRq8dkzkgWfnGs1UxKJXqTHqq+cTi6PHBatzamJP0iHM9qiVxItAK5WOzPyWFhe0JhNOFpT3msulTeMP2SE0MNsrbhZGMQEAnCPUtOO3pwM3yJfmwLnnpfcXLYPmO9CZ8JVSxBGeeFt2LJSe1zNkCLZH4NplbnpZvNuALDVC843JgtaGjF579cnejZioI/pEauQ0vF/GA+RWbULRrwgrFleAqhp+0iAi2HnAP46i/eqfspCdFY4FtZttOU5jvzzKaUGPughrMwEtKr1vbhighmDuw1OhRF9rdHYaIsS2wknvLRWm31UIYZ5E4mFGUBDI4ix5UbJBCNiFC3a4B2cFzUXqTrLGMdA31uw+Slc47EW/g9hjM2ZTS7jQg71QnSvBuRKTQApEAn7gY1JkW13YCmKobp2h+ozlILInxcr1GYsb7nqkiLMUxSsYWOPxa2NF6A/r0VPrfmDgXRpiiyW1bGR552tmM9yJxcd2UjFrEcUGjRDM0RLQ==;4ElgGMWNF5gb8Ec88sQx9g=="
 ---
 

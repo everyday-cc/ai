@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-22-ibm-websphere-liberty-announces-instanton-for-cloud-native-java.md",
+      "title": "IBM WebSphere Liberty announces InstantOn for cloud-native Java",
+      "excerpt": "IBM is pleased to announce the availability of WebSphere Liberty InstantOn coming at the end of June 2023. \nThe post IBM WebSphere Liberty announces InstantOn for cloud-native Java appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-websphere-liberty-announces-instanton-for-cloud-native-java/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-websphere-liberty-announces-instanton-for-cloud-native-java/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-22T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-22-ai-is-here-will-it-save-or-kill-your-agency.md",
       "title": "AI Is Here: Will It Save Or Kill Your Agency?",
       "excerpt": "Incorporating AI technology in agency processes and teams is imperative to thrive successfully in the upcoming years.",
@@ -61,7 +103,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/22/the-risks-and-rewards-of-artificial-intelligence-in-cybersecurity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -790,7 +832,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1048,7 +1090,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1182,58 +1224,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones.md",
-      "title": "Artificial Intelligence Will Eliminate Many Tasks, But Also Create New Higher-Level Ones",
-      "excerpt": "Managers need to prepare for 'the biggest shock' coming with AI — replacing entry and low-level white-collar activities with 'first-draft automation.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/20/artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/20/artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6468d7b4762b340e022e9948/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/20/artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/05/20/artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones/amp/",
-      "publishedDateTime": "2023-05-20T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

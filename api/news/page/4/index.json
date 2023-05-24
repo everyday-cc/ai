@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-20-artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones.md",
+      "title": "Artificial Intelligence Will Eliminate Many Tasks, But Also Create New Higher-Level Ones",
+      "excerpt": "Managers need to prepare for 'the biggest shock' coming with AI — replacing entry and low-level white-collar activities with 'first-draft automation.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/20/artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/20/artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6468d7b4762b340e022e9948/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/20/artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/05/20/artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones/amp/",
+      "publishedDateTime": "2023-05-20T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-05-20-5-ways-europe-can-reduce-the-risks-of-ai-replacing-jobs.md",
       "title": "5 ways Europe can reduce the risks of AI replacing jobs",
       "excerpt": "Italy has launched a new $30m fund to support workers threatened by AI. It's one of numerous responses that governments are considering.",
@@ -369,7 +421,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/19/procedural-justice-can-address-generative-ais-trust-legitimacy-problem/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -970,7 +1022,7 @@
       "originalUrl": "https://www.thenews.com.pk/latest/1071894-multan-airport-4th-in-country-to-get-facial-recognition-system",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -1014,7 +1066,7 @@
       "originalUrl": "https://www.cnet.com/tech/services-and-software/your-iphone-now-has-chatgpt-ai-too/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 277,
+      "heat": 267,
       "tags": null,
       "images": [
         {
@@ -1201,57 +1253,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-three-ways-to-get-ready-for-the-ai-takeover-in-interior-design.md",
-      "title": "Three Ways To Get Ready For The AI Takeover In Interior Design",
-      "excerpt": "There is a lot of work to do before people start trusting AI. To ensure that the AI takeover becomes a reality, we must come to terms with the new paradigm. The roads toward it might be bumpy, as there are psychological barriers to overcome, but AI can actually do a part of the work instead of people—and do it quite well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64662733af9968582de6367b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/amp/",
-      "publishedDateTime": "2023-05-19T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

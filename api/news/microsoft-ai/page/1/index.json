@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-05-24-at-microsoft-build-2023-azure-cosmos-db-joins-the-ai-toolchain.md",
-      "title": "At Microsoft Build 2023, Azure Cosmos DB joins the AI toolchain",
-      "excerpt": "Microsoft has introduced a spectrum of new tools to make it easier to customize and focus the output of GPT-based AI models. Cosmos DB plays an important role.",
+      "path": "_news/2023-05-24-microsoft-cto-tells-devs-to-do-legendary-sht-with-ai-at-2023-build-conference.md",
+      "title": "Microsoft CTO tells devs to ‘do legendary sh*t’ with AI at 2023 Build conference",
+      "excerpt": "To help developers build AI effectively, securely and responsibly, Microsoft has announced a large set of updates and new initiatives",
       "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3696980/at-microsoft-build-2023-azure-cosmos-db-joins-the-ai-toolchain.html",
-      "originalUrl": "https://www.infoworld.com/article/3696980/at-microsoft-build-2023-azure-cosmos-db-joins-the-ai-toolchain.html",
+      "webUrl": "https://venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/",
+      "originalUrl": "https://venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 619,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/07/10/artificial-intelligence-698122_1280-100698891-large-100932024-large.jpg?auto=webp&quality=85,70",
-          "width": 1199,
-          "height": 848,
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/Microsoft-Logo-white-bkgd.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3696980/at-microsoft-build-2023-azure-cosmos-db-joins-the-ai-toolchain.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696980/at-microsoft-build-2023-azure-cosmos-db-joins-the-ai-toolchain.amp.html",
-      "publishedDateTime": "2023-05-23T12:30:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/amp/",
+      "publishedDateTime": "2023-05-23T16:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -62,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -106,19 +106,71 @@
       ]
     },
     {
-      "path": "_news/2023-05-23-microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform.md",
-      "title": "Microsoft launches Fabric, a new end-to-end data and analytics platform",
-      "excerpt": "Microsoft Fabric is a new end-to-end data and analytics platform that centers around Microsoft's OneLake data lake but can also pull data from Amazon S3.",
+      "path": "_news/2023-05-23-microsoft-makes-a-push-for-ai-responsibility-and-safety-through-azure.md",
+      "title": "Microsoft makes a push for AI responsibility and safety through Azure",
+      "excerpt": "Azure AI Content Safety is now available in preview, but extra features are also coming for Designer and Bing.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/",
-      "originalUrl": "https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/",
+      "webUrl": "https://www.zdnet.com/article/microsoft-pushes-for-ai-responsibility-and-safety-through-azure/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-pushes-for-ai-responsibility-and-safety-through-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 639,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-159406176.jpg?resize=1200,800",
+          "url": "https://www.zdnet.com/a/img/resize/8829b6fd5b43a5e04b8b21eed200a0d06ad1693a/2023/05/22/5186cb3b-4ecd-43d7-83b4-234c88e2755e/msft.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-pushes-for-ai-responsibility-and-safety-through-azure/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-pushes-for-ai-responsibility-and-safety-through-azure/",
+      "publishedDateTime": "2023-05-23T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.md",
+      "title": "Why Microsoft is combining all its data analytics products into Fabric",
+      "excerpt": "The integration of its existing products such as Synapse and Power BI will help enterprises combine workloads while reducing IT integration overhead, complexity and costs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3697020/why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.html",
+      "originalUrl": "https://www.infoworld.com/article/3697020/why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2017/07/thread_weave_factory_automated_loom-100728392-large.jpg?auto=webp&quality=85,70",
           "width": 1200,
           "height": 800,
           "title": null,
@@ -128,16 +180,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/amp/",
-      "publishedDateTime": "2023-05-23T08:38:00-07:00",
+      "ampWebUrl": "https://www.infoworld.com/article/3697020/why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3697020/why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.amp.html",
+      "publishedDateTime": "2023-05-23T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1425,58 +1477,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-ai-and-predictive-analytics-moving-from-insights-to-foresight.md",
-      "title": "AI And Predictive Analytics: Moving From Insights To Foresight",
-      "excerpt": "Given how much AI dominates today's technology conversations, many businesses feel the competitive pressure to jump on AI and analytics opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-analytics-moving-from-insights-to-foresight/",
-      "originalUrl": "https://www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-analytics-moving-from-insights-to-foresight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645947bc0b8337af0bbe84e5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-analytics-moving-from-insights-to-foresight/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/microsoft_/2023/05/08/ai-and-predictive-analytics-moving-from-insights-to-foresight/amp/",
-      "publishedDateTime": "2023-05-08T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

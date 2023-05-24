@@ -24,37 +24,37 @@ topics:
   - AI in Security
 
 related:
-  - title: "A policy agenda for responsible AI progress: Opportunity, Responsibility, Security"
-    excerpt: "For society to reap the benefits of AI, opportunity, responsibility, and national security strategies must be baked into that shared AI agenda."
-    publishedDateTime: 2023-05-19T10:00:00Z
-    webUrl: "https://blog.google/technology/ai/a-policy-agenda-for-responsible-ai-progress-opportunity-responsibility-security/"
-    ampWebUrl: "https://blog.google/technology/ai/a-policy-agenda-for-responsible-ai-progress-opportunity-responsibility-security/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/a-policy-agenda-for-responsible-ai-progress-opportunity-responsibility-security/amp/"
+  - title: "The Risks And Rewards Of Artificial Intelligence In Cybersecurity"
+    excerpt: "AI systems are only as insightful as the data used in training these models. It is possible to encode bias inadvertently and unintentionally into them."
+    publishedDateTime: 2023-05-22T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/22/the-risks-and-rewards-of-artificial-intelligence-in-cybersecurity/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/22/the-risks-and-rewards-of-artificial-intelligence-in-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/22/the-risks-and-rewards-of-artificial-intelligence-in-cybersecurity/amp/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 120
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kent_Walker_Keyword_SharedAgenda_AI_2.width-1300.png"
-        width: 1300
-        height: 733
-        isCached: true
-  - title: "Microsoft makes a push for AI responsibility and safety through Azure"
-    excerpt: "Azure AI Content Safety is now available in preview, but extra features are also coming for Designer and Bing."
-    publishedDateTime: 2023-05-23T15:00:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-pushes-for-ai-responsibility-and-safety-through-azure/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-pushes-for-ai-responsibility-and-safety-through-azure/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-pushes-for-ai-responsibility-and-safety-through-azure/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 119
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/8829b6fd5b43a5e04b8b21eed200a0d06ad1693a/2023/05/22/5186cb3b-4ecd-43d7-83b4-234c88e2755e/msft.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64676cab65fa9edb0d41e295/0x0.jpg?format=jpg&crop=3729,2094,x1276,y0,safe&width=1200"
         width: 1200
-        height: 675
+        height: 674
+        isCached: true
+  - title: "Forrester predicts 2023’s top cybersecurity threats: From generative AI to geopolitical tensions"
+    excerpt: "While cybersecurity teams continue to fight social engineering and ransomware attacks, they now need to defend their AI models and data too."
+    publishedDateTime: 2023-05-22T16:10:00Z
+    webUrl: "https://venturebeat.com/security/forrester-predicts-2023-top-cybersecurity-threats-generative-ai-geopolitical-tensions/"
+    ampWebUrl: "https://venturebeat.com/security/forrester-predicts-2023-top-cybersecurity-threats-generative-ai-geopolitical-tensions/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/forrester-predicts-2023-top-cybersecurity-threats-generative-ai-geopolitical-tensions/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 76
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1368397295.jpg?w=1200&strip=all"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "iCMx2D3nXBLfAUTYeoPo5bVjMsrjJCksIYcKYK/C7gqXR99DVmGgC6q79Iq20Vu66XF8Wq+H/Q0rZNpyJlzUI8pRf8iGsUasEGldrwptl7hNUfa35UNRldua0Z58IlrfdY+t1U+QazL8I9ob9QuSrwXNRg8FdOJ/GNtDFESUKMN+BHd2fKx7F5Qb2OqD7Uof9CYdm3tHFGY+R/+5vfLRfzRv3tfLr2FaO1JTdI1ltaLP+fMe/moRaFg3dIUR41uzyYnt+ZLYCCPXtpouPeWfeinf7GCX2ib/f/DmQziYq8QDthNtfHEzK7Ax6q82jeVykAN+3xcrx11PBqqRSdmdDeJnozY/Ovs1IHJqDZ32Jao4mG16ntHCNtIV9XVCWj4VB2e7fYyWg45goqXFeSELFVtpXy/jhxDUhyDweNQk7JwKWTVTfaHLgCnRvaEbsil8CcwcAxxl1e6kIfV6zgfTW6eKVy05aMmGIMTSp2ig0g+uCGmMffhErXHXNi3RtYlPovICngmTIR1dYPL7V5yctQ==;j3d4OmHsVB3VcYNBLwHCMg=="

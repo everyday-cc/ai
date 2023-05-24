@@ -2,6 +2,49 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2023-03-29-ai-focused-crypto-protocol-fetchai-raises-40m-to-deploy-decentralized-machine-learning.md",
+      "title": "AI-Focused Crypto Protocol Fetch.ai Raises $40M to Deploy Decentralized Machine Learning",
+      "excerpt": "Join the most important conversation in crypto and Web3 taking place in Austin, Texas, April 26-28. Artificial intelligence-focused crypto protocol Fetch.ai has raised $40 million from market maker and investment firm DWF Labs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coindesk.com/business/2023/03/29/ai-focused-crypto-protocol-fetchai-raises-40m-to-deploy-decentralized-machine-learning/",
+      "originalUrl": "https://www.coindesk.com/business/2023/03/29/ai-focused-crypto-protocol-fetchai-raises-40m-to-deploy-decentralized-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coindesk.com/resizer/d6S0I7swBBiulVIIo6kE57o4ucs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/ZO3ZU6FHZ5FCBCC5HZPNQD5UBY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.coindesk.com/business/2023/03/29/ai-focused-crypto-protocol-fetchai-raises-40m-to-deploy-decentralized-machine-learning/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2023/03/29/ai-focused-crypto-protocol-fetchai-raises-40m-to-deploy-decentralized-machine-learning/?outputType=amp",
+      "publishedDateTime": "2023-03-29T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinDesk",
+        "domain": "coindesk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-29-10-best-ai-art-generators-create-stunning-art-with-deep-learning.md",
       "title": "10 Best AI Art Generators: Create Stunning Art with Deep Learning",
       "excerpt": "AI Art Generators are the latest trend in digital art, creating beautiful and intricate artworks using complex algorithms and deep learning techniques. This article explores the world of AI art ...",
@@ -1217,58 +1260,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-28-automatic-speech-recognitionasr-software-market-share-business-till-2030.md",
-      "title": "Automatic Speech Recognition(ASR) Software Market Share | Business till 2030",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 27, 2023 (The Expresswire) -- “Automatic Speech Recognition(ASR) Software Market” Are a Collection of Information and Analysis Obtained From Diverse Sources to Aid ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-share-business-till-2030-2023-03-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-share-business-till-2030-2023-03-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-28T00:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

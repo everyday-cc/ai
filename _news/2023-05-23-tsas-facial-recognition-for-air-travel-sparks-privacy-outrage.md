@@ -7,7 +7,7 @@ originalUrl: "https://www.foxnews.com/tech/tsas-facial-recognition-air-travel-sp
 webUrl: "https://www.foxnews.com/tech/tsas-facial-recognition-air-travel-sparks-privacy-outrage"
 type: article
 quality: 66
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       - url: "https://ik.imgkit.net/3vlqs5axxjf/MM-TP/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/dec34c0d-cb4e-a970-4f1f-a2f8968f57ad/source.jpg?tr=w-1200%2Cfo-auto"
         width: 1200
         height: 900
+        isCached: true
+  - title: "TSA testing facial recognition at more airports, raising privacy concerns"
+    excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"
+    publishedDateTime: 2023-05-21T00:30:00Z
+    webUrl: "https://omaha.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_afb8746e-ea8a-551c-bb05-26bfc9b02f28.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 53
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/78/d7899d8f-cf01-52ab-acbe-16fe1f61c88c/64642a155739f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "TSA tests facial recognition at more airports, raising concerns on privacy"
     excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"

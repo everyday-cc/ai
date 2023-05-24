@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/22/the-risks-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/22/the-risks-and-rewards-of-artificial-intelligence-in-cybersecurity/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Cohesity Promotes Responsible AI And Security Partnerships At Catalyst Event"
+    excerpt: "Cohesity also announced new integrations with CrowdStrike and ServiceNow. Thanks to these integrations, CrowdStrike or ServiceNow can communicate security event detection with Cohesity and receive event detection alerts from Cohesity to initiate response and remediation workflows."
+    publishedDateTime: 2023-05-23T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/23/cohesity-promotes-responsible-ai-and-security-partnerships-at-catalyst-event/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
 
 secured: "40RcfA7CVwvOUnZTyoRLShwapm8aNItxGzraZ9QyBlFVbgFcbMZZMruF9kVqnXGClPN3jcpQEkhrynXSntrEZKg+BbmDg+2OyRm9Jl6C6HfbfMn5IfIKg5x3PlbGvDvvI5MDUqy8s5UIxc1NAtvMADCG8dtzl3fse7RXoN7nuwUUHqFqVXU93PRixYm9LNjiSFG0K7KnARSrnLWZiTqNywzMQE+mtG2xeUSV8tePFEW7imkX1rao5pso8ZKoqy73WHwySknmI6qjV7Lr8YJvSksnmT0bDYQ7EzwlmzpEoI/plUSVMXHoTmVZryh2Gm3C8ztwBQtNOA6VQHglTlpnBK3fFhul0f8XuJOPu60IPyHp+M+0BtaZabitowJs74c66BQIebFkOEKf7b9WzQBv8vBTBo03lgzTnuwqzkZeBhBZ0EU0AwBq4TvASzfNYFi2httfszLTx6KAvwx1N6DM5FNS1UnqykWqu02q9Qry+hkThg5e8G3yKEK3qjCcwsOYw8+5Qyr9g9/RLfOuaAA7FQ==;cYgjGVke/4YMlVMyddeTkA=="
 ---

@@ -250,15 +250,6 @@ related:
     quality: 19
   - title: "I asked ChatGPT where it'd put Brightline stop on Treasure Coast; here's what AI bot said"
     excerpt: "Like many of you, I’m still trying to figure it all out. I recently completed some training in AI and journalism ethics. The other day I was motivated to use perhaps the most well-known AI application, or chat bot, ChatGPT, which can be found online at ..."
-    publishedDateTime: 2023-05-19T10:00:00Z
-    webUrl: "https://www.indystar.com/story/opinion/columnists/laurence-reisman/2023/05/12/ai-chatgpt-says-where-brightline-should-put-station-on-treasure-coast/70180635007/"
-    type: article
-    provider:
-      name: The Indianapolis Star
-      domain: indystar.com
-    quality: 10
-  - title: "I asked ChatGPT where it'd put Brightline stop on Treasure Coast; here's what AI bot said"
-    excerpt: "Like many of you, I’m still trying to figure it all out. I recently completed some training in AI and journalism ethics. The other day I was motivated to use perhaps the most well-known AI application, or chat bot, ChatGPT, which can be found online at ..."
     publishedDateTime: 2023-05-23T00:50:00Z
     webUrl: "https://www.usatoday.com/story/opinion/columnists/laurence-reisman/2023/05/12/ai-chatgpt-says-where-brightline-should-put-station-on-treasure-coast/70180635007/"
     type: article

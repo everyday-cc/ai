@@ -49,6 +49,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 45
+  - title: "Bill Gates: AI will kill off Amazon, Google and drive future humanoid workers"
+    excerpt: "Are emerging artificial intelligence tools set to relegate internet giants like Google and Amazon to the same dusty shelves as laser discs, fax machines and overhead projectors?"
+    publishedDateTime: 2023-05-24T01:31:00Z
+    webUrl: "https://www.ksl.com/article/50651412/bill-gates-ai-will-kill-off-amazon-google-and-drive-future-humanoid-workers"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 34
+    images:
+      - url: "https://img.ksl.com/slc/2931/293134/29313479.jpeg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
 
 secured: "EryfdFXBdzojQe+JuTOWSTk9uwiqaNdHDfwyg72MBGuIwR8cNHD8ALwvf7g91bYFIehuByj+7AAsWKoL0/SnVlxtvgTPWGt085afYKi7cEYCHxms6lyDAEO8t3SQDUJ/xIxUk98W/Yxpt5WDjLL5vulIQKliD6LqJZvJrnxlXaF6/M8zG230ihAYGA+c24l9jIcgv9SkhDh2AruIwtRw4OPL3RwdpUjyEGmAifDIDgjx1LY0BA3vp66IygBfO+BVcC2cWk4Utvv7Apwf3A9/yLe7dV7XuoDENQQ8VIfuFuQYC/tgZW6xOMeylqSKEG5E4ctGt7fFDeN4HIRpWLx2AGur2DOBzDuiNU2HacB/m/k=;O7eLW/ubGNNY1jQAUAyk9w=="
 ---

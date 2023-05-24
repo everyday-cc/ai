@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Intel's Broad, Open HPC+AI Portfolio Powers Performance, Generative AI for Science"
-excerpt: "Intel's product portfolio - spanning Intel® Xeon® CPU Max Series, Intel® Data Center GPU Max Series, 4th Gen Intel® Xeon® Scalable processors and Habana® Gaudi®2 processors - meets the needs of the HPC community."
-publishedDateTime: 2023-05-22T18:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-intels-broad-open-hpcai-portfolio-powers-performance-generative-/2023/05/22/9818599.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-intels-broad-open-hpcai-portfolio-powers-performance-generative-/2023/05/22/9818599.htm"
+excerpt: "View the full release here:  \"Intel is committed to serving the HPC and AI community with products that help customers and end-users make breakthrough discoveries faster,\" said Jeff McVeigh, Intel corporate vice president and general manager of the Super Compute Group."
+publishedDateTime: 2023-05-22T18:55:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/05/22/9818599.htm"
+webUrl: "https://it.tmcnet.com/news/2023/05/22/9818599.htm"
 type: article
 quality: 13
 heat: -1
@@ -31,6 +31,6 @@ related:
       domain: benzinga.com
     quality: 33
 
-secured: "bCgq9bwpMrTj8rS1otATogBN6aJdlqAXoSlJpomXVFv6v4Le4N91/0wsOgu8jic/HUQ68WYUXkKxebVEnP3flHcTBnErrJ2DiBga9V1wfoyYiLEvYtJjZlFe4Hh+P0bdfd+alyxsB8DYt3Dbo9IfD8LPFml42g/laDQ+PakA4nBX71qDXK856YA5nhhfSSnRwxs/IpzxOiyzxAN16icX9/keC/riEeSVjh1An/grhFPMJ/WEl6t3IH6yBsXXyaI129ofxsT0OdMda1yJhCI9nbVRcm3tAuvQR6Qw8CK2gzxgQZP3b9dw+3HC3v4E/uEKEe2pGXyjpVqv4u1kQb8SfYJr0je5ueHp7XdXdO1B5Z3MEWYcfdlY/TbD7BNqP/gkuCuaQUsfYa5ZKqQrKW96MQmTuS0FkqMIJkM6ok+x9ys53J3d+V2lhrMu0V77BdN3X9aokN178zleTxjT8RoGt6clDUOwkDMd+81KoqAe35aMZqVxL5zhFbe74Y4hBsfuzCO5Ns2SDJ1nLWW3UN2m5A==;rhwT3MY99wdRStzVWLI6dw=="
+secured: "0/fsav6O0bgNUzl3SuIeCtn/dMDnzFmmcQTIfayEDZcqKhuBO6YfUsFr86+2KKw2LJPHQcq3PBgLDPttxHVAGTckr/piD3/XQ/jKSagLIKmPJv9qvSsP2KDjkP/ebQ2GHY2Bh5C6q3905QM16rEm2uRd0iNTz5mHXijeXr79eWgnWtNrYNl4SH4nORNpLIvZuSAOIiThPG8qq1oSAGK4nSsaBTG4r0opLV01zhgqENHNAVyqE3hXCfuHQCvOzTX2vRe+ZVmGCCzjDUGtySul4nS/pHe07oXSJChG+algkTYaNlpIkOVj1H6kS18yZHh78QQVMIvjm+foy5iLfiDGcFAA/ccmbgUZK2ln9uPedfadRufs5cCxxjKjA4pj+xjCTvs8MhEpH8s5e4lJ0Lwv1t8Lwr+Zmlx3dldomDYEkqxWErmEldsgQbyqI+oQj8UUEGrRVLPhQILohyIfiF5FSMlPUFvQ5GSO/a5AlUHRNZ+uPLsGRp4bXNZ3fcEEeWMZ4HgBp06RhQ+5sv2e15rV3A==;3f87/dpVFenrH35DwpNAgQ=="
 ---
 

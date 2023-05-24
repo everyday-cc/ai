@@ -9,8 +9,8 @@ ampWebUrl: "https://www.infoworld.com/article/3697020/why-microsoft-is-combining
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3697020/why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.amp.html"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: InfoWorld
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft launches Fabric, a new end-to-end data and analytics platform"
-    excerpt: "Microsoft Fabric is a new end-to-end data and analytics platform that centers around Microsoft's OneLake data lake but can also pull data from Amazon S3."
-    publishedDateTime: 2023-05-23T15:38:00Z
-    webUrl: "https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/"
-    ampWebUrl: "https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-159406176.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Informatica Announces Integration of its Intelligent Data Management Cloud with Microsoft Fabric"
     excerpt: "Informatica is one of the first ISV design partners for Microsoft Fabric and brings Azure customers access to IDMC's comprehensive suite of capabilities as a first-party service. The integration allows Azure customers to have: Seamless integration with Informatica's Data Quality solution to identify and provide high quality,"
     publishedDateTime: 2023-05-23T15:31:00Z

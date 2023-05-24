@@ -22,9 +22,9 @@ topics:
 
 related:
   - title: "Intel's Broad, Open HPC+AI Portfolio Powers Performance, Generative AI for Science"
-    excerpt: "Intel's product portfolio - spanning Intel® Xeon® CPU Max Series, Intel® Data Center GPU Max Series, 4th Gen Intel® Xeon® Scalable processors and Habana® Gaudi®2 processors - meets the needs of the HPC community."
-    publishedDateTime: 2023-05-22T18:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-intels-broad-open-hpcai-portfolio-powers-performance-generative-/2023/05/22/9818599.htm"
+    excerpt: "View the full release here:  \"Intel is committed to serving the HPC and AI community with products that help customers and end-users make breakthrough discoveries faster,\" said Jeff McVeigh, Intel corporate vice president and general manager of the Super Compute Group."
+    publishedDateTime: 2023-05-22T18:55:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/22/9818599.htm"
     type: article
     provider:
       name: TMCnet

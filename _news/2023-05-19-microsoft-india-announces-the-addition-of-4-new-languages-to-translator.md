@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft makes a push for AI responsibility and safety through Azure"
+    excerpt: "Azure AI Content Safety is now available in preview, but extra features are also coming for Designer and Bing."
+    publishedDateTime: 2023-05-23T15:00:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-pushes-for-ai-responsibility-and-safety-through-azure/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-pushes-for-ai-responsibility-and-safety-through-azure/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-pushes-for-ai-responsibility-and-safety-through-azure/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 119
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/8829b6fd5b43a5e04b8b21eed200a0d06ad1693a/2023/05/22/5186cb3b-4ecd-43d7-83b4-234c88e2755e/msft.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "At Microsoft Build 2023, Azure Cosmos DB joins the AI toolchain"
     excerpt: "Microsoft has introduced a spectrum of new tools to make it easier to customize and focus the output of GPT-based AI models. Cosmos DB plays an important role."
     publishedDateTime: 2023-05-23T19:30:00Z
@@ -156,22 +172,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Microsoft CTO tells devs to ‘do legendary sh*t’ with AI at 2023 Build conference"
-    excerpt: "To help developers build AI effectively, securely and responsibly, Microsoft has announced a large set of updates and new initiatives"
-    publishedDateTime: 2023-05-23T23:03:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/"
-    ampWebUrl: "https://venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 99
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/10/Microsoft-Logo-white-bkgd.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Ethics — what ethics? For Microsoft, it’s full speed ahead on AI"
     excerpt: "Microsoft's quickly embraced all things AI, even as many in the tech industry raise concerns about the inherent dangers of the technology. The company doesn't care."
     publishedDateTime: 2023-05-23T07:00:00Z
@@ -204,6 +204,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft launches Fabric, a new end-to-end data and analytics platform"
+    excerpt: "Microsoft Fabric is a new end-to-end data and analytics platform that centers around Microsoft's OneLake data lake but can also pull data from Amazon S3."
+    publishedDateTime: 2023-05-23T15:38:00Z
+    webUrl: "https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/"
+    ampWebUrl: "https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-159406176.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Nvidia, Microsoft Open the Door to Running AI Programs on Windows PCs"
     excerpt: "Nvidia is working with Microsoft to let consumers run powerful AI programs on Windows PCs equipped with its RTX graphics."
     publishedDateTime: 2023-05-23T15:00:00Z
@@ -217,6 +233,20 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_uk/news/n/nvidia-mic/nvidia-microsoft-open-the-door-to-running-ai-programs-on-win_3f5p.1200.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Elon Musk Wants to Challenge Google and Microsoft in AI"
+    excerpt: "Twitter boss tells WSJ London event the social-media company could be cash-flow positive starting in June."
+    publishedDateTime: 2023-05-23T23:01:00Z
+    webUrl: "https://www.wsj.com/articles/elon-musk-wants-to-see-an-ai-rival-to-google-microsoft-a299e27f"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-787338/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Microsoft Build 2023: From ChatGPT on Bing to Azure AI, check latest announcement"
     excerpt: "Build 2023 also showcases previews of upcoming features such as Windows 11, Bing, and the revolutionary AI copilot. Here are top announcements that were made at the Build 2023 event"
@@ -300,20 +330,6 @@ related:
       - url: "https://www.crn.com/resources/0281-1814f1950bee-9e2b6be33127-1000/msft-build-2023.jpeg"
         width: 611
         height: 458
-        isCached: true
-  - title: "After Apple, Amazon, Google and Microsoft, Meta Now Builds Its Own AI Chips"
-    excerpt: "Meta recently introduced its first in-house silicon chip designed for AI workloads, called MTIA (meta training and inference accelerator)."
-    publishedDateTime: 2023-05-19T09:21:00Z
-    webUrl: "https://analyticsindiamag.com/why-meta-built-its-own-ai-chip/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 69
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/05/meta-v-banner-f_11zon.jpeg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Microsoft launches new AI tool to moderate text and images"
     excerpt: "Microsoft has launched a new AI-powered service, Azure AI Content Safety, to detect potentially problematic speech and images online."
@@ -588,6 +604,20 @@ related:
       - url: "https://menafn.com/updates/pr/2023-05/23/M_b53b8image_story.jpg"
         width: 703
         height: 879
+        isCached: true
+  - title: "Thomson Reuters Embraces Generative AI with Microsoft 365 Copilot Integration, Upcoming Product Updates"
+    excerpt: "A host of Thomson Reuters’ products will now be available through Microsoft 365 Copilot for Word, while those products themselves are getting new generative AI capabilities later this year."
+    publishedDateTime: 2023-05-23T17:38:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/05/23/thomson-reuters-embraces-generative-ai-with-microsoft-365-copilot-integration-upcoming-product-updates/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 38
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/05/Thomson-Reuters-Legal-Drafting-767x633-2.jpg"
+        width: 767
+        height: 633
         isCached: true
   - title: "AI Activists to Target Microsoft at Build 2023"
     excerpt: "The activists from Ekō have published a full-page ad in The Seattle Times and a billboard outside of Microsoft Build 2023."

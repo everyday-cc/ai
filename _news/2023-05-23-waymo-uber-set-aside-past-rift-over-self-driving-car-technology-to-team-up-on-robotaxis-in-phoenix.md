@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Waymo, Uber set aside past rift over self-driving car technology to team up on robotaxis in Phoenix"
-excerpt: "- Phoenix Mayor Kate Gallego arrives in a Waymo self-driving vehicle on Dec. 16, 2022, at the Sky Harbor International Airport Sky Train facility in Phoenix. Self-driving car"
-publishedDateTime: 2023-05-23T16:05:00Z
-originalUrl: "https://www.chron.com/business/article/waymo-uber-set-aside-past-rift-over-self-driving-18114056.php"
-webUrl: "https://www.chron.com/business/article/waymo-uber-set-aside-past-rift-over-self-driving-18114056.php"
+excerpt: "Self-driving car pioneer Waymo is teaming up with ride-hailing leader Uber in the Phoenix area to transport passengers and deliver food in robotic cars that triggered a bitter technological dispute be"
+publishedDateTime: 2023-05-23T12:23:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/waymo-uber-set-aside-past-rift-driving-car-99534972"
+webUrl: "https://abcnews.go.com/Technology/wireStory/waymo-uber-set-aside-past-rift-driving-car-99534972"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/waymo-uber-set-aside-past-rift-driving-car-99534972"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/waymo-uber-set-aside-past-rift-driving-car-99534972"
 type: article
-quality: 25
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/32/57/12/23786143/6/rawImage.jpg"
-    width: 2048
-    height: 1365
+  - url: "https://s.abcnews.com/images/Business/wirestory_9ddd97af9d5bb1bfe8c7c8f522abafa9_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -88,6 +90,6 @@ related:
       domain: azcentral.com
     quality: 8
 
-secured: "qwk3OLfOL1G0wohSaOlXBLV198z3d9wsN4RNr0s+g5CBb0PmJFLlBjkU6xfelFd6/o0cyzZMNBsz7PphzB75FMeSSDg09up66k7/F8eclCiQ4HY9DMWmDgs0n0Z5cxRDcpGIBC/Ib4F49xMpTMVRURVRD8DjLiGpiB9w/tU3oSjP6uYYAn7ve2MXDP6/1lj62CQF5MUuGHGfIope3zUFyTHtjJl9p+hN1K/pbAU5hGRIcrUwgy10DoVCSr+9BNcMnJ/0lA9ZwujZpFog+XJ7gKPZFTQaOKVIMPyYsmguxfPCA4MpOG7FoelyGQjCYiRZ2GriRjTfvkhP358w63PEi1p+OEBHfWa39NR/+P3KHk2uIrvpi1w7Kwu9XYu7Vww7JWICqflh0pPFxp6JLZmxFmIGWQ3WO+MdXVaFVf+GdlPQx4v97gw/X+p6SmZ8ALb6lHhESyc3alLRe8IgTk5BliAk7GR/EZ1/0i+b59nMZpDn7/se3nYp3ipbWYGi3kQZ/JP0RaWxpcw2MYIPiReKaw==;eWTv1p/OAx8cT/lb+a2U+g=="
+secured: "FkxxgiQ4P8akzy71cXm4SowB/3SEwRhvSvNwqvgR9JGt3FA5b+s9jP4U3M0yQpNwWx0zwxkSTiGLXm1Xau2cirjaz3u+c2o67UiANroC/xOEYOARkDbd0eBmliLpTfIXqgkGv7puoUlLHMANOriCkbZhRfeW+21LfN4WGoolsMCyW28JBFIt4EYFakeqBgjmF5uOEJ9FDhZssWRrq13gaBgi1AJVUjS7E0r6CV1mS6tsYHkHlRx9g5d/8sLuE96isE8gzwHTpAPJ78Yuk3sMkwlm0FFvs+e/XoiOxIpdAxLfXRheJgY0tmBRphO/tc25BvJM4l2kIYZQid1lBbtqcyuZlxobZrqr1Qbph0P59Kw=;+ArOpAT4cOAVQPYY5V6S0Q=="
 ---
 
