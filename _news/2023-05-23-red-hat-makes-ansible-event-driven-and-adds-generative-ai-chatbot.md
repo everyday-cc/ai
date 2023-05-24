@@ -43,15 +43,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
-  - title: "Red Hat gives Ansible a generative AI front end and adds stream processing features"
-    excerpt: "Ansible Lightspeed with IBM Watson Code Assistant keys off the industry’s current fascination with generative AI sparked by the success of OpenAI LP’s ChatGPT large language model. These models enable seemingly humanlike responses to queries,"
-    publishedDateTime: 2023-05-23T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/05/23/red-hat-gives-ansible-generative-ai-front-end-adds-stream-processing-features/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 15
 
 secured: "l8n0BURMpBVASkz97TFxXDW6Ln++2tkXLHvtnLo4SiAJc+3m4d9/EbccnVGOkMMw70B+z5HnsCa9wfS+B4U8T1QK6dSY3PspRLxjS4Rw7lheevjvq18L0VYXsel3cq5gNklO0STZlFqYtFMqgat02s9aFn/BEVelMOYkf8z52Ku3sRv1lEdba+E2BJGGcrWlSov/DS2By1m1Cq5g9s+gPKJWvfZ5efmBQl3WIVsOVmNBrS6GSJdkUQ84oiERjurkNLhYdMcV+G7uwbqDhoRNDNvb2UPyIZyFo6xofOb9MBkqs0XCMaDOErASLrwoC78mkbCxzrqKB23RIoilYQ/En8QTHvOChQArhf/dAAmXcT1SG/hsbBzsSilSLqhLn0U+FwJl92iHqpwgnVKD6R3bR4mMRbBDeKrqVjbvF8wBd1DisQqoQhO5lWmiB41IMq4bM2F2+R4paQkg3E2P3AAJYeZpwd9hSUl+sj1EOrQbbeNVdQfpJx5rFTIiBZHi8jHHWx3F7EUGyUF7N33UFtaJbA==;Do3n/PgEIosDgvaytGP23g=="
 ---

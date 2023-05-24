@@ -62,7 +62,7 @@
       "originalUrl": "https://www.engadget.com/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -219,7 +219,7 @@
       "originalUrl": "https://venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -271,7 +271,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-pushes-for-ai-responsibility-and-safety-through-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 729,
+      "heat": 779,
       "tags": null,
       "images": [
         {
@@ -323,7 +323,7 @@
       "originalUrl": "https://www.infoworld.com/article/3697020/why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -571,10 +571,10 @@
     {
       "path": "_news/2023-05-18-infogain-ai-business-solutions-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "Infogain AI Business Solutions Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "NAVIK customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. NAVIK is an AI platform that addresses the breadth of AI ...",
+      "excerpt": "Microsoft Azure customers worldwide now gain access to three NAVIK AI solutions to take advantage of Azure scalability, reliability, and agility to shape business strategies. Infogain, a Silicon ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230518005632/en/Infogain-AI-Business-Solutions-Now-Available-in-the-Microsoft-Azure-Marketplace",
-      "originalUrl": "https://www.businesswire.com/news/home/20230518005632/en/Infogain-AI-Business-Solutions-Now-Available-in-the-Microsoft-Azure-Marketplace",
+      "webUrl": "https://www.morningstar.com/news/business-wire/20230518005632/infogain-ai-business-solutions-now-available-in-the-microsoft-azure-marketplace",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20230518005632/infogain-ai-business-solutions-now-available-in-the-microsoft-azure-marketplace",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -584,11 +584,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T09:29:00-07:00",
+      "publishedDateTime": "2023-05-18T09:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "newsroom.businesswire.com",
-        "domain": "businesswire.com",
+        "name": "Morningstar",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null

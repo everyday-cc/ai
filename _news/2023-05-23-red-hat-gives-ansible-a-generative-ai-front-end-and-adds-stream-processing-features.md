@@ -20,37 +20,21 @@ topics:
   - IBM AI
 
 related:
-  - title: "Red Hat unveils Ansible Lightspeed to empower AI-driven IT automation"
-    excerpt: "Learn More Open-source solutions firm Red Hat today unveiled Ansible Lightspeed, a generative AI service integrated with IBM Watson Code Assistant. The company’s latest offering seeks to drive extensive utilization of Ansible automation within organizations,"
-    publishedDateTime: 2023-05-23T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/red-hat-unveils-ansible-lightspeed-to-empower-ai-driven-it-automation/"
+  - title: "New Life Hacks? Generative AI is Changing and Streamlining Life at Home"
+    excerpt: "While some of the cartoon’s more fantastical inventions may still be light years away, many are already here, like vacuuming robots ... the tech startup that launched ChatGPT, reached 100 million users at an unprecedented rate, pushing AI to the ..."
+    publishedDateTime: 2023-05-24T21:02:00Z
+    webUrl: "https://www.nbclosangeles.com/news/national-international/new-life-hacks-generative-ai-is-changing-and-streamlining-life-at-home/3159340/"
+    ampWebUrl: "https://www.nbclosangeles.com/news/national-international/new-life-hacks-generative-ai-is-changing-and-streamlining-life-at-home/3159340/?amp=1"
+    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/national-international/new-life-hacks-generative-ai-is-changing-and-streamlining-life-at-home/3159340/?amp=1"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 51
-  - title: "Red Hat brings generative AI to IT automation with Ansible Lightspeed"
-    excerpt: "Red Hat is bringing generative AI to Ansible, teaming up with parent company IBM, to make it easier to build automations."
-    publishedDateTime: 2023-05-23T19:19:00Z
-    webUrl: "https://techcrunch.com/2023/05/23/red-hat-is-bringing-generative-ai-to-it-operations-with-ansible-lightspeed/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
-  - title: "Red Hat makes Ansible Event-Driven and adds generative AI chatbot"
-    excerpt: "Red Hat presented some much-needed innovation for Ansible at its summit in Boston. One very big change is that Ansible is now Event-Driven. No longer does"
-    publishedDateTime: 2023-05-23T14:47:00Z
-    webUrl: "https://www.techzine.eu/blogs/infrastructure/106386/red-hat-makes-ansible-event-driven-and-adds-generative-ai-chatbot/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
+      name: NBC Los Angeles
+      domain: nbclosangeles.com
+    quality: 59
     images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/03/coen-300x300.jpg"
-        width: 300
-        height: 300
+      - url: "https://media.nbclosangeles.com/2023/05/ai_home_v2.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "yCWYZWM9N3a1iCWB8mabBshXN9p+paT06S61e1GIFek1fZDFlLLGKM1VZ0SOKBn0fdNOqGUKnxoi1X4b01utJ+Rq+lPNAeNGQm+R2JcDjKXBrfQ4rTBmB1KTv+k88wozkcQA7M3DCgfvzpevdcpL1qABVTCy9iCWzbOJpebmSSd+TPBOi/FQdlTGKRLN1KgBroUDWHu4pdAvfBN5khs16FvcvrKKHSe7zfEUBfZ//b3eCoLToAlAq60Nzs92/PkReCCIGtKxm0441BZ//5wuqTncukoKSu2zmQZn6qLmJOEvUlBzPreJLoi17KsT/jfSII+Crijf0BFD0MmfuZzTLvV9Tsj2Keb3gQJmNxYQ9SWpwVi2xLZye1xUsEUu2QhJQRsQUFLqSH6eQX5R2b8VyaLPBFrWTrSZJEeqsQDxXnZVSge1f4BWJ63jGiPeb0HYuMCuhEmzrRoLKooaJBkVWjH/mbX3Lbs84ev2puQV523Yk5DNiB141zfAmmsPf3pEGuJsOte4hVrCgzTI4MNbag==;GnmltOu7yZgLwgYWCuMV7g=="

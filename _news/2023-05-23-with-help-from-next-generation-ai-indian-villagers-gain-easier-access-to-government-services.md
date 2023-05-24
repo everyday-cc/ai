@@ -74,6 +74,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Generative AI-powered music startup boombox.io raises $7m"
+    excerpt: "AI-powered music collaboration platform boombox.io has closed a seed funding round, securing $7 million in investments from Forerunner, super {set} startup studio and Ulu Ventures. According to Boombox,"
+    publishedDateTime: 2023-05-24T09:32:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/generative-ai-powered-music-startup-boombox-io-raises-7m/"
+    type: article
+    provider:
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 37
+    images:
+      - url: "https://www.musicbusinessworldwide.com/files/2022/05/pepi-stojanovski-MJSFNZ8BAXw-unsplash-scaled-e1653307831565.jpg"
+        width: 2547
+        height: 1433
+        isCached: true
 
 secured: "YaLMbAdGmOTbkUV6oAGM43APcTszYSZ7e0Vv3O31ocBz2/k+soaFo21QJnlnZlpBWD7sHQYVUMe4rGeBpR8PqoMPREAMUl83RWCG623zF1aPN0GlFQ9Uj7MkOT7+kn42lYuQVr+dDGQhipA9Bs1pB1sdUCEqUrSakVg/3c5BNPCQoQKn22fowJwlpjyDBrc/0GeXYHSyx6tY+dZX6Gk7Q3q6GjiW5WF56OZT+cjc6E/5l0U5kpdmoJ19/Zibf4jid5z7+LPdlgzsJkzEZ5ixJ+ReitXOb4JtJu+4U+C8l3cAFpDJo0G3LVSEyf+PK/o98LjE11kpQSoJbg92ztGVedGaMjNjzoSk+ASGsXQ2ESQ=;dc1LbUAulAFMbZB19R8+xw=="
 ---

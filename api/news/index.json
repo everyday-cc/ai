@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-25-the-hollywood-writers-strike-3-reasons-not-to-back-down-on-ai.md",
+      "title": "The Hollywood Writers’ Strike: 3 Reasons Not To Back Down On AI",
+      "excerpt": "There's no stopping the development of AI but there are ways to protect humans from being replaced by it. Here are three reasons Hollywood writers cannot afford to back down on the subject.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danafeldman/2023/05/24/the-hollywood-writers-strike-3-reasons-not-to-back-down-on-ai/",
+      "originalUrl": "https://www.forbes.com/sites/danafeldman/2023/05/24/the-hollywood-writers-strike-3-reasons-not-to-back-down-on-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646e6b9a8535057ada5f411d/0x0.jpg?format=jpg&crop=4800,2702,x0,y79,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danafeldman/2023/05/24/the-hollywood-writers-strike-3-reasons-not-to-back-down-on-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danafeldman/2023/05/24/the-hollywood-writers-strike-3-reasons-not-to-back-down-on-ai/amp/",
+      "publishedDateTime": "2023-05-24T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-uber-announces-deal-with-waymo-on-self-driving-cars.md",
       "title": "Uber announces deal with Waymo on self-driving cars",
       "excerpt": "Uber has signed a deal with Google's former self-driving car project, Waymo, to offer its vehicles through the ride-hailing app, The Washington Post reported Wednesday. As part of the",
@@ -104,7 +155,7 @@
       "originalUrl": "https://www.zdnet.com/article/3-ways-openai-says-we-should-start-to-tackle-ai-regulation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -206,7 +257,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/24/eu-google-ai-pact/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -463,7 +514,7 @@
       "originalUrl": "https://www.engadget.com/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -911,7 +962,7 @@
       "originalUrl": "https://www.wired.com/story/generative-ai-podcasts-boring/?utm_social-type=earned",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1015,7 +1066,7 @@
       "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/05/24/5-key-threats-ai-poses-to-business-owners-in-2023-and-how-to-survive-them/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1198,58 +1249,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-microsoft-cto-tells-devs-to-do-legendary-sht-with-ai-at-2023-build-conference.md",
-      "title": "Microsoft CTO tells devs to ‘do legendary sh*t’ with AI at 2023 Build conference",
-      "excerpt": "To help developers build AI effectively, securely and responsibly, Microsoft has announced a large set of updates and new initiatives",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/",
-      "originalUrl": "https://venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/Microsoft-Logo-white-bkgd.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/amp/",
-      "publishedDateTime": "2023-05-23T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

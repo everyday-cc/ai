@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3697020/why-microsoft-is-combining
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3697020/why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.amp.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Unifies Data Management, Analytics, and ML Into ‘Fabric’"
+    excerpt: "Microsoft yesterday unveiled Microsoft Fabric, a new offering that unites its suite of data management, analytic, and machine learning tools into a single"
+    publishedDateTime: 2023-05-24T20:07:00Z
+    webUrl: "https://www.datanami.com/2023/05/24/microsoft-unifies-data-management-analytics-and-ml-into-fabric/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 56
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/05/MS-Fabric-Logo.png"
+        width: 821
+        height: 389
+        isCached: true
   - title: "MAS unveils AI and data analytics skills training scheme"
     excerpt: "The Monetary Authority of Singapore (MAS) has launched a programme to develop talent in artificial intelligence and data analytics (Aida) in the financial sector."
     publishedDateTime: 2023-05-24T07:35:00Z

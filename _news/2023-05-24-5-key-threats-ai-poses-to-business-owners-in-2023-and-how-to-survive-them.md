@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jodiecook/2023/05/24/5-key-threats-ai-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/05/24/5-key-threats-ai-poses-to-business-owners-in-2023-and-how-to-survive-them/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 97
 published: true
 
 provider:

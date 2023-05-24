@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Generative AI-powered music startup boombox.io raises $7m"
+    excerpt: "AI-powered music collaboration platform boombox.io has closed a seed funding round, securing $7 million in investments from Forerunner, super {set} startup studio and Ulu Ventures. According to Boombox,"
+    publishedDateTime: 2023-05-24T09:32:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/generative-ai-powered-music-startup-boombox-io-raises-7m/"
+    type: article
+    provider:
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 37
+    images:
+      - url: "https://www.musicbusinessworldwide.com/files/2022/05/pepi-stojanovski-MJSFNZ8BAXw-unsplash-scaled-e1653307831565.jpg"
+        width: 2547
+        height: 1433
+        isCached: true
   - title: "With help from next-generation AI, Indian villagers gain easier access to government services"
     excerpt: "AI chatbot Jugalbandi powered by Bhashini and Azure OpenAI Service gives Indian villagers access to government services in their language."
     publishedDateTime: 2023-05-23T15:00:00Z

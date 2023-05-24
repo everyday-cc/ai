@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Snowflake acquires Neeva to add generative AI-based search to Data Cloud"
+    excerpt: "Neeva, which uses large language models to offer an AI-based search experience, is latest company to be picked up in Snowflake's acquisition spree."
+    publishedDateTime: 2023-05-24T21:16:00Z
+    webUrl: "https://www.infoworld.com/article/3697709/snowflake-acquires-neeva-to-add-generative-ai-based-search-to-data-cloud.html"
+    ampWebUrl: "https://www.infoworld.com/article/3697709/snowflake-acquires-neeva-to-add-generative-ai-based-search-to-data-cloud.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3697709/snowflake-acquires-neeva-to-add-generative-ai-based-search-to-data-cloud.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 86
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2020/02/07/15/merger-100830660-large.jpg?auto=webp&quality=85,70"
+        width: 849
+        height: 565
+        isCached: true
   - title: "Infosys launches Topaz, an AI-first solution to accelerate business value through generative AI"
     excerpt: "Infosys said organizations could harness the capabilities of cognitive solutions through its Infosys Topaz generative AI offering."
     publishedDateTime: 2023-05-24T16:55:00Z
@@ -122,6 +138,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "The Funded: 7 Bay Area companies picked for AWS Generative AI Accelerator"
+    excerpt: "Backed by Amazon Web Services Inc, the not-so-cleverly named Generative AI Accelerator on Wednesday said 21 companies ... Inc. dropped a reported $400 million in 2020 to buy the startup Giphy Inc., the well-known animated image and microvideo database."
+    publishedDateTime: 2023-05-24T21:18:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/05/24/the-funded-may-24-generative-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 33
 
 secured: "/dHk98jvPwk25QBUZGrtq55gx07NMuhnXMM7AYLVW6xz6BVg3u3BnI+MKWXjU8YDqz12nOVYpQ0g9zfk4IyoHwhvanqpumUVrS9tVJYqX70M63SmOuZ9wUsIxc9EY/Utawg3npi6GWW5mprQktE4CGZhRVupAi6ShPQZuW4KSR+wGtpkul8y90zSs0BWjYJNtmDIHuit/VTmImsA28xuBlipmfIMR9J/HDYjZdjSmsunoa3mhBLr489Z0QeqVgG/z1hZ5C1BNOXEJwCCM00rCHClTf72Kp/5M02WKzYdx+yLBtlqWrBQ8QnhJeXDFVPLVO6gPAUQM0ZaJ75rXSXbg7LMM3TPwyZcIgXTUnaBYoctYvImmLhuuvXgihIlugncXkqgCn0u8vFIN/E/JULEuhRwSgEspW/ZTSFzkc94P0MSg0KAfA7I+cbtc45znpTVmEbd79IE5Hg2R1ChQk3NxKD/D7M/8gNwmUnFu8HLZ/2sf0ilgYhXrGZNKvHWLMmAwyDIBQ+UYhRLjfXMVffWNQ==;y0DTPSKe6TZS+DFsfY8cqA=="
 ---

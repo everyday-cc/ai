@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/ai-startup-tractable-lays-off-staf
 webUrl: "https://www.businessinsider.com/ai-startup-tractable-lays-off-staff-despite-the-gold-rush-2023-5"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Five Of The Top Artificial Intelligence Stocks For A Potential $1.8 Trillion Boom"
+    excerpt: "Five of the Top Artificial Intelligence Stocks for a Potential $1.8 Trillion Boom The artificial intelligence story fueled a massive rally in tec"
+    publishedDateTime: 2023-05-24T20:53:00Z
+    webUrl: "https://menafn.com/1106309114/Five-Of-The-Top-Artificial-Intelligence-Stocks-For-A-Potential-18-Trillion-Boom"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?140161"
+        width: 448
+        height: 250
+        isCached: true
   - title: "Five of the Top Artificial Intelligence Stocks for a Potential $1.8 Trillion Boom"
     excerpt: "Detailed price information for Accenture Plc (ACN-N) from The Globe and Mail including charting and trades."
     publishedDateTime: 2023-05-24T14:12:00Z

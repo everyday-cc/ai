@@ -137,6 +137,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "AI startup Figure raises US$70 million to build humanoid robots"
+    excerpt: "FIGURE, a startup that wants to build general-purpose humanoid robots, has raised US$70 million from investors led by Parkway Venture Capital in its first external round, the company said on Wednesday (May 24)."
+    publishedDateTime: 2023-05-24T10:32:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/ai-startup-figure-raises-us70-million-build-humanoid-robots"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 34
   - title: "AI startup raises $70 million to build humanoid robots"
     excerpt: "Figure, a startup that wants to build general-purpose humanoid robots, has raised $70 million from investors led by Parkway Venture Capital in its first"
     publishedDateTime: 2023-05-24T06:07:00Z

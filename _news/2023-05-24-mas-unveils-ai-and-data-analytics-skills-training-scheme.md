@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft Unifies Data Management, Analytics, and ML Into ‘Fabric’"
+    excerpt: "Microsoft yesterday unveiled Microsoft Fabric, a new offering that unites its suite of data management, analytic, and machine learning tools into a single"
+    publishedDateTime: 2023-05-24T20:07:00Z
+    webUrl: "https://www.datanami.com/2023/05/24/microsoft-unifies-data-management-analytics-and-ml-into-fabric/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 56
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/05/MS-Fabric-Logo.png"
+        width: 821
+        height: 389
+        isCached: true
 
 secured: "lSUjLh5Dvuk7DUuCp8gzocTLoCmgq5oCsH0bnFb3NYXwQB8VjsrkXtcCUwBZyeaKeeee+DU1HcP3vDs62as8RQlaR1O4XJm7DuPsKD6lHzAoUrmzY6s/GGjOmJ8wjuWrIz+RUQzkWu1C6roikuzkzw3GGzQXQtUFVcsQvp3wYB246urPtvwfDNpy7q4Av8JF+XTUvgfZAO3ytenfF0U+r1lUkyJYALzIRayebphFKiFTcT92cLawz03vscdkGYOECdvvltYn6DHO53/fM75QlbALFposRBGNYVXkH1zk45bJgWoxwzoSJW/lKHJpQVKoLqQ7kTc9YxJoOWnnswL8H3C96Is4YnFxCVTuULiU+X8=;Xq/O07uDmPlfBnLBIgiIbQ=="
 ---

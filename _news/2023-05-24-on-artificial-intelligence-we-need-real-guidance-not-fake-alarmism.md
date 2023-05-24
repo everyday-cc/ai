@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-24T16:50:00Z
 originalUrl: "https://www.orlandosentinel.com/2023/05/24/on-artificial-intelligence-we-need-real-guidance-not-fake-alarmism-commentary/"
 webUrl: "https://www.orlandosentinel.com/2023/05/24/on-artificial-intelligence-we-need-real-guidance-not-fake-alarmism-commentary/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.orlandosentinel.com/wp-content/uploads/migration/2023/01/24/DWSYFOC6HYEC7WJ6MFFZQRPB3M.jpg?w=1024&#038;h=670"
@@ -40,6 +41,6 @@ related:
         height: 630
         isCached: true
 
-secured: "avZRCFL20jQNAAd6KENnixbgjcMIn/nAo2ISzsHJ+1GpZVbOo/oLa1MgWAGq/0ohZ1UTQ6Tev6sawoxee0jY7lfu2IxZjgm+LeagabAq3IWnDH2rCZPGtKmFh2GNJu3j96wXjGFHw/c1lFg60x6j2RxDsWGyna00PTK/mP6DQDbQyQ6E3CcznRdpX9KD1lAmNkpSUjmankdR6vFGwnGq7/yzVZ5uJGbASDYPo+Sww1NLuFz7rMGUk+q38IsvNIlFygovlix/pWvI6C/0Qj7g2MnubGQjt/M7ko4/XGfNhyZ9mU28kXFkpJaJRtedWupnfxeJVb/igO+xQs7vuV5KdLaioTApXqCFR1Bzz2w5vvo=;NHXftcgFo4aDVzigPuhGQw=="
+secured: "vrHG1H4F4GWKEXlJP7MF4+LtcmlPccf8H0dKDFwS6Q3G3+d9SURaLfVHaL56Ifv9wkVpLKyC9PKumak6A+HsNvolKNwQ1gQDh5KMc/u688pbYQkpEnIHK0cfKLCOOSinSdM/h/uKCektdzbvYrmsfA/KS3yBQWRjvIDnivr5NTaAOZ9xr3Sed58knBmsHeAWShoMS2NYGtGOyWYv4YrcRR4kaaCbgCbONhrrKrKRIKH1iXKugxkhkpWfShfFRvZGfafvfdiYnjPlLOV+SFPGDFOo4eCWpc/qBZ38swiEEK+nKnC0I116u5QVXHbmM/1oAMezuqxA9zKLPeSgFx1YHON9fIBwsSPyoRJYmb2SWZHtjMcnxOk/ngqclqXWZ1sxz7cDm3bHoO0gaoUwYUeM90fWS7AWMmwVJy1H8vmbYq1N7TzIAbkUIFDctf+knXIIzZ3T60G+W2F0VGDnQqiDOOb+rKoU6Wk8aAjzcXNXXbZ+toBPLTCq0uQUWDFtA0LsaGbe3hcMDSEG/gz4ALg5zw==;pYzW7uWEX2u6AfQIeiZJHg=="
 ---
 

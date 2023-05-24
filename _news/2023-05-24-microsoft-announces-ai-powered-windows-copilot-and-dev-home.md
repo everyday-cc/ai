@@ -57,6 +57,22 @@ related:
         width: 1199
         height: 848
         isCached: true
+  - title: "Microsoft and Intel collaborate on AI for Windows 11 PCs0 0"
+    excerpt: "This design allows for optimizing segment-relevant performance while reducing power consumption. Intel said Meteor Lake's AI accelerators on the CPU and GPU provide improved performance for running AI models efficiently, enabling a wide range of AI ..."
+    publishedDateTime: 2023-05-24T11:34:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-and-intel-collaborate-on-ai-for-windows-11-pcs/"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-and-intel-collaborate-on-ai-for-windows-11-pcs/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-intel-collaborate-on-ai-for-windows-11-pcs/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 106
+    images:
+      - url: "https://cdn.neowin.com/news/images/uploaded/2023/05/1682950344_windows_11_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "All the major Bing Chat and AI announcements from Microsoft Build 2023"
     excerpt: "Microsoft is continuing to grow its presence in the AI space with a series of new updates and launches. Here's everything you need to know."
     publishedDateTime: 2023-05-23T15:00:00Z
@@ -369,6 +385,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 66
+  - title: "Microsoft Build: Windows Terminal Preview 1.18, Azure Developer CLI, new Azure Cosmos DB features, and more."
+    excerpt: "Microsoft Build, kicked off yesterday, and the company has been making a lot of updates to its developer offerings."
+    publishedDateTime: 2023-05-24T20:22:00Z
+    webUrl: "https://sdtimes.com/microsoft/microsoft-build-windows-terminal-preview-1-18-azure-developer-cli-new-azure-cosmos-db-features-and-more/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 65
+    images:
+      - url: "https://sdtimes.com/images/sd-premium.png"
+        width: 628
+        height: 246
+        isCached: true
   - title: "How Microsoft is building a platform for custom AI development"
     excerpt: "With Azure OpenAI at the center, Microsoft has introduced a spectrum of new tools for building custom GPT-based LLMs. Here’s how Cosmos DB’s new vector search capabilities fit in."
     publishedDateTime: 2023-05-23T19:37:00Z
@@ -583,6 +613,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Top 10 Azure Cloud Announcements at Microsoft Build 2023 Dev Conference"
+    excerpt: "Here's a summary of what's new -- specifically the top 10 Azure products and services that reached general availability or will soon -- at the event."
+    publishedDateTime: 2023-05-24T20:50:00Z
+    webUrl: "https://virtualizationreview.com/articles/2023/05/24/azure-build.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 54
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2017/0917vcrm_F1NewMicrosoft.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Google just revealed what its new generative AI ads will look like as it races to keep up with Microsoft and Amazon in the AI gold rush"
     excerpt: "Google is bringing generative AI to its ad products. But major competitors like Amazon and Microsoft are also racing to release similar ad technology."
     publishedDateTime: 2023-05-23T15:57:00Z
@@ -758,6 +802,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 36
+  - title: "Microsoft to bring Copilot, an AI personal assistant, to Windows"
+    excerpt: "Microsoft will integrate a ChatGPT-like system, called \"Windows Copilot,\" in all PC apps, the Redmond, Washington-based tech giant announced Tuesday. The Copilot will be available for Windows 11 as a preview in June."
+    publishedDateTime: 2023-05-24T17:42:00Z
+    webUrl: "https://techxplore.com/news/2023-05-microsoft-copilot-ai-personal-windows.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 36
   - title: "Microsoft Build 2023: Establishes a framework for creating AI applications and broadens the Copilot ecosystem"
     excerpt: "Microsoft unveiled new tools to simplify copilot ecosystem development, including Azure AI Studio and Azure OpenAI Service on your data"
     publishedDateTime: 2023-05-24T05:54:00Z
@@ -768,6 +821,15 @@ related:
     provider:
       name: Dataquest
       domain: dqindia.com
+    quality: 35
+  - title: "Canary Speech Accelerates AI Speech Analysis Technology with Microsoft Cloud for Healthcare Integration"
+    excerpt: "Digital vocal biomarker innovator integrates clinical-grade technology providing real-time speech analysis on Microsoft Cloud for Healthcare. PROVO, Utah, May 24, 2023 /PRNewswire/ -- Canary Speech, Inc."
+    publishedDateTime: 2023-05-24T20:43:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/24/9820780.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 35
   - title: "Microsoft says new AI shows signs of human reasoning"
     excerpt: "A provocative paper from researchers at Microsoft claims AI shows the ability to understand the way people do. Critics say scientists are kidding themselves."

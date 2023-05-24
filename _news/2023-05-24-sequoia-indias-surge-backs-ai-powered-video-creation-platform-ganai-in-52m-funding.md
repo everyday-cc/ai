@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/23/sequoia-indias-surge-backs-ai-powe
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/sequoia-indias-surge-backs-ai-powered-video-creation-platform-gan-ai-in-5-2m-funding/amp/"
 type: article
 quality: 79
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230523pd218_files/1_b.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Generative AI-powered music startup boombox.io raises $7m"
+    excerpt: "AI-powered music collaboration platform boombox.io has closed a seed funding round, securing $7 million in investments from Forerunner, super {set} startup studio and Ulu Ventures. According to Boombox,"
+    publishedDateTime: 2023-05-24T09:32:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/generative-ai-powered-music-startup-boombox-io-raises-7m/"
+    type: article
+    provider:
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 37
+    images:
+      - url: "https://www.musicbusinessworldwide.com/files/2022/05/pepi-stojanovski-MJSFNZ8BAXw-unsplash-scaled-e1653307831565.jpg"
+        width: 2547
+        height: 1433
         isCached: true
   - title: "With help from next-generation AI, Indian villagers gain easier access to government services"
     excerpt: "AI chatbot Jugalbandi powered by Bhashini and Azure OpenAI Service gives Indian villagers access to government services in their language."

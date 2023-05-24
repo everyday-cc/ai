@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/3-ways-openai-says-we-shoul
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3-ways-openai-says-we-should-start-to-tackle-ai-regulation/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://images.indianexpress.com/2023/05/1X-Eve.jpg"
         width: 1200
         height: 667
+        isCached: true
+  - title: "OpenAI-backed start-up deploys AI-powered robots in real world; beats Tesla"
+    excerpt: "1X's revolutionary robot is called EVE. In simple terms, EVE is real-life RoboCop. The robot has a head, a face, and two autonomous arms. The company has deployed the robot as security guards in two industrial locations. It can perform a multitude of human-like tasks, including opening doors and windows, fetching objects, packing goods, and more."
+    publishedDateTime: 2023-05-24T13:08:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/openai-backed-start-up-deploys-ai-robot-in-workforce/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 69
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l52220230524175259.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Regulators dust off rule books to tackle generative AI like ChatGPT"
     excerpt: "As the race to develop more powerful artificial intelligence services like ChatGPT accelerates, some regulators are relying on old laws to control a technology that could upend the way societies and businesses operate."
@@ -132,6 +146,6 @@ related:
         height: 380
         isCached: true
 
-secured: "MYOF2yWZCA+5gCe+rHjPTzSQBa1D4mrBwiTlweoviiIaA8fP6ubt4Krc9F4GN+1TQfX+AbnyvKSUSWCg6Jb5m5wUv6HDq9a0RjgcpIKneu4qshBwsbrqCO9dsMI+kkZIRLFf6EVPzXlVZxLaQb9F7ONFj/5/+QNZxPRC4t1JRDxPF9db5AFQSKMRAJFfNt5XiffRLY/9oF1N1NgdHrSkiVAfjrt8FWX3X5UPLHoyLCVwLHrhjBnq8qcNH18ddUk7Palv1ck7KBbplNmZUqoWyIGAS+v5rubjnNce5udSjRjZ9aSLst8xvy+bpESrcAD21aJCundA+Q5W1yfXb3oblg43oMfG2+RXZYYbrLVqVrY=;px0hkTmKt5n5hTH3YrQTZQ=="
+secured: "CpzoZxq/YynYoHXUvvn/y9IFOuuaome33nsy/KIjaCTroalgXT1yatkbG3tITGl4Bgo0tQIubJQvx9zN3tASh3bBxfBHljf7PY74y5PRCT4xCTHT9Y/SuvCCU4gDoStIikSQxMwnZ3KiX/ex0wL7f/wHcdEauwNz4RaIK5Ca85CL6/aQyd8i34oJWc8fQv2JXHUQu2VABxdYI7uP7tYJe6Zm9SrVwt5ipEOeF4rtFzEYO0CmBDGs7hvJu1EKk6jKMaBQo6ORIJZV+gnDQw7dWh0SSgv14tXuYyJ9wQSQQsw9mSNdmHVrYSqxyVX1gz5td1fVQeaZHVJOapUaVmkbnnJ9NwmGEgVElV62vnj5guO4Cjz1BWjUdWUynqmP+xDWFMqVhLTy1m+vhlD1TnwNNLuAtHkEsmq/2nSCq7XpGrcLq6w/y2qo5pYtgTjqV4PgyVMmnZBDRGOMNoScRquXfHN5mVzxSyuSvw0/QmVVW6mkqiA45dc++fGMouhfPJ2yOz7eTcFzkr2P51zdIUVjUw==;945VLMqyP6iN2pfB/cLEnQ=="
 ---
 

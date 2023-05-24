@@ -32,7 +32,7 @@ related:
     provider:
       name: Orlando Sentinel
       domain: orlandosentinel.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.orlandosentinel.com/wp-content/uploads/migration/2023/01/24/DWSYFOC6HYEC7WJ6MFFZQRPB3M.jpg?w=1024&#038;h=670"
         width: 1024

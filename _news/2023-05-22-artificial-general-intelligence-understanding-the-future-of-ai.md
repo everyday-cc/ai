@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial Limbs And Intelligence"
+    excerpt: "Prosthetic arms can range from inarticulate pirate-style hooks to motorized five-digit hands. Control of any of them is difficult and carries a steep learning curve, rarely does their operation ..."
+    publishedDateTime: 2023-05-24T00:00:00Z
+    webUrl: "https://hackaday.com/2018/12/31/artificial-limbs-and-intelligence/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 24
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2018/12/prosthetic-hand-featured.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Intelligent Artifacts Pledges Commitment to Responsible Artificial Intelligence"
     excerpt: "Brand Manifesto Unveiled for Creating the Trusted Intelligent Future of AI NEW YORK, May 23, 2023 /PRNewswire/ -- Intelligent Artifacts, a leading innovator in the field of machine intelligence, solidifies their commitment to responsible AI in a new manifesto which you can read here on their website."
     publishedDateTime: 2023-05-23T13:28:00Z

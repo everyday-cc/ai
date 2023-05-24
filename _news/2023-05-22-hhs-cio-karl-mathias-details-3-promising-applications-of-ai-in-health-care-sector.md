@@ -34,6 +34,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 81
+  - title: "How AI Can Be Used in Investing"
+    excerpt: "Another way AI is used in investing is for sentiment analysis. Markets move according to a variety of factors, such as macroeconomic data, earnings reports, geopolitical issues, and interest rates, as well as market sentiment."
+    publishedDateTime: 2023-05-24T19:49:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-investing/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/original_imageshttpsg.foolcdn.comeditorialimag.width-600_IFPc1qZ.jpg"
+        width: 600
+        height: 399
+        isCached: true
   - title: "5 AI healthcare startups in India"
     excerpt: "Artificial intelligence (AI ... Amid the rise of several AI healthcare technologies, the World Health Organisation (WHO) released a warning about their accuracy. In a recent statement, WHO ..."
     publishedDateTime: 2023-05-21T06:11:00Z
@@ -104,6 +118,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Potential benefits and drawbacks of using AI tools in the field of clinical radiology"
+    excerpt: "Since the launch of ChatGPT in November 2022, the use of large language models (LLMs) powered by artificial intelligence (AI) has taken the world by storm."
+    publishedDateTime: 2023-05-24T18:06:00Z
+    webUrl: "https://www.news-medical.net/news/20230524/Potential-benefits-and-drawbacks-of-using-AI-tools-in-the-field-of-clinical-radiology.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 12
 
 secured: "j9aCqhYeBo7nf1co1xG+m1rPApIdFVw3h/BTWwKBi5aKZAHF7Ld9WPhHaujtqu5Zc7EqaL/RcWCXJHmnyiNRrB9rUlcZlMKxG98nZMnAJM/LESlK/fpMcHPELsRg211IVP8IioPq5Oe5nTZMX8Xtj5P4vlst2517CMmQE90MXz0XLyyQRl/Tf680zTYiQCAkKVGcylqwxiwlFU7I+Oti4qYC+EXZr7k1R3s+fs/mEW18ylEeyu6AD78hoofTfHO32ZNwqL2mYDp00rHot6goo9Gzc8QH0inl+RABt+d8OQp3Wz0ohHBm8J0m1wGI4pXc8+gDZYk5sFR+QLpemLJ+i7RcZOejAbjIc0CukiGBrnDjvHPg/MeP6xRmNe2h5XixjxbQLNrlrxp7q53GBYUzxwkbcjdF0ojbJ9Z8T6zuCzzjmA1pyr4LBKukjquatuke97R9UqR13O+BpBTH/VDcZ5ZIJgHprexFXN7UigCplTF9TDN2216icXbwHZ89A0UIwh2PHYm2szOSlYVB3e0WOA==;luupa17kvD29nHTZE9N7LQ=="
 ---

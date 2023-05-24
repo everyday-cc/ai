@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/cohesity-partners-google-cloud-empower-or
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/amp/"
 type: article
 quality: 74
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -120,6 +120,15 @@ related:
     provider:
       name: Computer Weekly
       domain: computerweekly.com
+    quality: 19
+  - title: "TCS Expands Google Cloud Relationship With Vertex Generative AI"
+    excerpt: "Tata Consultancy Services is banking on its deep customer relationships to find ways to bring Google Vertex AI generative AI to them."
+    publishedDateTime: 2023-05-24T17:48:00Z
+    webUrl: "https://www.crn.com/news/cloud/tcs-expands-google-cloud-relationship-with-vertex-generative-ai"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
     quality: 19
   - title: "TCS announces generative AI pact with Google Cloud, new offering for enterprises"
     excerpt: "Tata Consultancy Services TCS on Monday announced an expanded partnership with Google Cloud and the launch of its new offering -- TCS Generative AI which leve"

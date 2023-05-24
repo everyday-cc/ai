@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "ChatGPT and Generative AI for Social Media Marketing: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "Many social media marketers are already experimenting with generative AI tools. However, these tools aren't the solution for every scenario."
+    publishedDateTime: 2023-05-24T16:30:00Z
+    webUrl: "https://www.businessinsider.com/chaptgpt-ai-social-media-marketing-reality-whats-next-hype-2023-may"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
     publishedDateTime: 2023-05-22T17:30:00Z

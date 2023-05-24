@@ -116,6 +116,15 @@ related:
         width: 400
         height: 290
         isCached: true
+  - title: "TCS Expands Google Cloud Relationship With Vertex Generative AI"
+    excerpt: "Tata Consultancy Services is banking on its deep customer relationships to find ways to bring Google Vertex AI generative AI to them."
+    publishedDateTime: 2023-05-24T17:48:00Z
+    webUrl: "https://www.crn.com/news/cloud/tcs-expands-google-cloud-relationship-with-vertex-generative-ai"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 19
   - title: "TCS announces generative AI pact with Google Cloud, new offering for enterprises"
     excerpt: "Tata Consultancy Services TCS on Monday announced an expanded partnership with Google Cloud and the launch of its new offering -- TCS Generative AI which leve"
     publishedDateTime: 2023-05-22T13:20:00Z

@@ -26,22 +26,6 @@ images:
     height: 1176
     isCached: true
 
-related:
-  - title: "Self-Driving Trucks Start Hauling Freight"
-    excerpt: "This undated photo shows Chris Urmson, CEO of self-driving vehicle technology company Aurora Innovation. Sometime next year, semis with no human in the cab will start carrying freight down Interstate 45 between Dallas and Houston. The trucks will run on an ..."
-    publishedDateTime: 2023-05-20T04:53:00Z
-    webUrl: "https://www.post-journal.com/news/business/2023/05/self-driving-trucks-start-hauling-freight/"
-    type: article
-    provider:
-      name: The Post-Journal
-      domain: post-journal.com
-    quality: 24
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.post-journal.com/images/2023/05/19214842/Insider-Trucks-750x500.jpg"
-        width: 750
-        height: 500
-        isCached: true
-
 secured: "e5DZOeKl0XKkiIgm4Yd9hA6ESOEcTplWBaWhooolt+imsujwu8spfQxBhKpWay135K05VyOUQKBim8HbKnHqo/X8q1TRe97AXHs5qd7co0paf7i+nNP1OcjC046xOAk/d6BMIJXo6kkJ3Tc1V6tmuqHud1vmHGjZl1YdkEwxaF05XvsGKVxShPKpPMdlhga2pI+iSYjZl4Tq3yB1/BRlLReKJ9stkjcTQGduOCaHE4mIgQq1BUsjOBZPOl3KJ9MVAlZ182Yhd9ZLtHTQEss3hy+H2gGT50TXOTFmdKZnsa4CCF65HZorLIYDMgkndiYktVfoHEBwr+uIzM/vh7qYwRTcNThMvYLWWIwICubwJk0SdTUEMHAE+SN+oCdsc3/HbVDge9ji8JZvVYW2gm7itDv2PPIsmLFBR+26eqLe5KofGnpvWPlCN1iLNLGfmH9QDU8cTn9ys3o9oamuX0hi5wpS78vJMTSn9ohrkS+AOp1WSWOiVF2nIBNtjnRLbMVdUYnNec3wcx5Ye+wdOORMfA==;l36zNIbgjHxho1d5xY7X4g=="
 ---
 

@@ -125,6 +125,15 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 19
+  - title: "TCS Expands Google Cloud Relationship With Vertex Generative AI"
+    excerpt: "Tata Consultancy Services is banking on its deep customer relationships to find ways to bring Google Vertex AI generative AI to them."
+    publishedDateTime: 2023-05-24T17:48:00Z
+    webUrl: "https://www.crn.com/news/cloud/tcs-expands-google-cloud-relationship-with-vertex-generative-ai"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 19
 
 secured: "YmN4DxRl9NJm7cAzCLcFZztomH3Pf4S0yfvoes57gEJkYUyZz3KROe2Lm+0u9T3vPoQF/dqYluaqQjyeDI0jgF84j/OQ0Shg9VDsGdO1IzowscPMbzt1kNEtRxNia7NdBTal/nkY2m313gXkK1Zi5UD1m6kDrLNWF+ETq9BlLpthVmI3xrx1Ha/yYqi4xY0uQKETbeHLhdSQv6FgAI4Z4w6mZwf76cpgIEEJ+txah27oAXiQHAJza18gWyt08KcMZo77uyMpfxtgBN+kkZaLV2cDA43SRP8jQfwJ9PtaBo/gN7yMnxfoldslcalfEcvVtRBYXZqb+5DCcc3kO9GiZ5/5nvlL/pPDNw7NscO3zIw=;fV/0ZocBAtfeg4uu1NAMRA=="
 ---

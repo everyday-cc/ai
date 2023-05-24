@@ -34,6 +34,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 81
+  - title: "How AI Can Be Used in Investing"
+    excerpt: "Another way AI is used in investing is for sentiment analysis. Markets move according to a variety of factors, such as macroeconomic data, earnings reports, geopolitical issues, and interest rates, as well as market sentiment."
+    publishedDateTime: 2023-05-24T19:49:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-investing/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/original_imageshttpsg.foolcdn.comeditorialimag.width-600_IFPc1qZ.jpg"
+        width: 600
+        height: 399
+        isCached: true
   - title: "5 AI healthcare startups in India"
     excerpt: "Artificial intelligence (AI ... Amid the rise of several AI healthcare technologies, the World Health Organisation (WHO) released a warning about their accuracy. In a recent statement, WHO ..."
     publishedDateTime: 2023-05-21T06:11:00Z
@@ -104,6 +118,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Potential benefits and drawbacks of using AI tools in the field of clinical radiology"
+    excerpt: "Since the launch of ChatGPT in November 2022, the use of large language models (LLMs) powered by artificial intelligence (AI) has taken the world by storm."
+    publishedDateTime: 2023-05-24T18:06:00Z
+    webUrl: "https://www.news-medical.net/news/20230524/Potential-benefits-and-drawbacks-of-using-AI-tools-in-the-field-of-clinical-radiology.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 12
 
 secured: "y7FTxWFlNkA24iYVR6Z7EAHhbU+Eh2l/Ho5X1A7Y2kndJ0HHBkz0Z5c4bG3me/ATePWaFBh6kaLB4Sxzc/m506A4s85XI8RYL/c5G9wqqgtrr29pexvySyRVEHp4VYcsulbADL2A/4gXI5+xsc8qMduIXir/BHi9qbg5APUkAG1Z0OwmLA20eey4tz4V7jZLzdzFik2csiHVeSFjKvSTK8d8O6t9Hu90CxiwXKPyW5FDuTYE/nN9oPq8V1RgMUOeDxHM9buE1LdRFwPRIV3us1pfG3MLw4I2V42jkuVSVG/rbSPHG5cjgX5FCaVYUIKMoWNfmSroADun2SQdgMXpG42YK7B6O67nJOBuGoTvL6U=;h1V9/asz15zg+IrZzf9Ezw=="
 ---

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-24-microsoft-cto-tells-devs-to-do-legendary-sht-with-ai-at-2023-build-conference.md",
+      "title": "Microsoft CTO tells devs to ‘do legendary sh*t’ with AI at 2023 Build conference",
+      "excerpt": "To help developers build AI effectively, securely and responsibly, Microsoft has announced a large set of updates and new initiatives",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/",
+      "originalUrl": "https://venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/Microsoft-Logo-white-bkgd.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/amp/",
+      "publishedDateTime": "2023-05-23T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-sequoia-indias-surge-backs-ai-powered-video-creation-platform-ganai-in-52m-funding.md",
       "title": "Sequoia India’s Surge backs AI-powered video creation platform Gan.ai in $5.2M funding",
       "excerpt": "Gan.ai, an AI-powered video creation platform, raised a $5.2 million seed round led by Surge, Sequoia Capital's rapid scale-up program.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/23/sequoia-indias-surge-backs-ai-powered-video-creation-platform-gan-ai-in-5-2m-funding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -269,7 +321,7 @@
       "originalUrl": "https://venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -372,7 +424,7 @@
       "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/23/ai-is-the-future-of-gaming-and-nvidias-new-rtx-4060-optimizes-for-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -424,7 +476,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/23/anthropic-raises-350m-to-build-next-gen-ai-assistants/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -569,57 +621,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-23-windows-ai-copilot-rolls-out-in-preview-next-month-plug-ins-coming-to-bing-ai.md",
-      "title": "Windows AI Copilot Rolls Out in Preview Next Month, Plug-Ins Coming to Bing AI",
-      "excerpt": "Microsoft bills Windows Copilot as the first PC platform with 'centralized AI assistance to help people easily take action and get things done.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/windows-ai-copilot-rolls-out-in-preview-next-month-plug-ins-coming-to-bing",
-      "originalUrl": "https://www.pcmag.com/news/windows-ai-copilot-rolls-out-in-preview-next-month-plug-ins-coming-to-bing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/07623uyPh5J1YF3SqnLok01-1.fit_lim.size_1200x630.v1684850859.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-23-ai-startups-outpace-others-in-securing-funding-from-vcs.md",
       "title": "AI startups outpace others in securing funding from VCs",
       "excerpt": "Sponsored Jobs Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More While fintech has enjoyed the largest stake of funding in recent years it seems to be losing its luster — in 2021,",
@@ -731,7 +732,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-pushes-for-ai-responsibility-and-safety-through-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 729,
+      "heat": 779,
       "tags": null,
       "images": [
         {
@@ -835,7 +836,7 @@
       "originalUrl": "https://www.infoworld.com/article/3697020/why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1083,7 +1084,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressing-the-ethical-use-of-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 161,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1127,7 +1128,7 @@
       "originalUrl": "https://venturebeat.com/ai/red-hat-unveils-ansible-lightspeed-to-empower-ai-driven-it-automation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1171,7 +1172,7 @@
       "originalUrl": "https://www.wired.com/story/content-moderation-language-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {

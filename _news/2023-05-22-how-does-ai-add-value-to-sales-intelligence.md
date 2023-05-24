@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/cindygordon/2023/05/21/how-does-ai-ad
 webUrl: "https://www.forbes.com/sites/cindygordon/2023/05/21/how-does-ai-add-value-to-sales--intelligence/"
 type: article
 quality: 64
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/14/image/jpeg/B2Q8idGkZUlSMYKAUGMZkDx4mJ533yB9NsRlACRK.jpg"
         width: 1920
         height: 1281
+        isCached: true
+  - title: "Artificial Limbs And Intelligence"
+    excerpt: "Prosthetic arms can range from inarticulate pirate-style hooks to motorized five-digit hands. Control of any of them is difficult and carries a steep learning curve, rarely does their operation ..."
+    publishedDateTime: 2023-05-24T00:00:00Z
+    webUrl: "https://hackaday.com/2018/12/31/artificial-limbs-and-intelligence/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 24
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2018/12/prosthetic-hand-featured.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Intelligent Artifacts Pledges Commitment to Responsible Artificial Intelligence"
     excerpt: "Brand Manifesto Unveiled for Creating the Trusted Intelligent Future of AI NEW YORK, May 23, 2023 /PRNewswire/ -- Intelligent Artifacts, a leading innovator in the field of machine intelligence, solidifies their commitment to responsible AI in a new manifesto which you can read here on their website."

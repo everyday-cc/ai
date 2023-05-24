@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/generative-ai-podcasts-boring/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-ai-podcasts-boring/amp"
 type: article
 quality: 89
-heat: 129
+heat: 131
 published: true
 
 provider:
@@ -71,7 +71,7 @@ related:
   - title: "Tech Giants Trigger Generative AI Investment Boom"
     excerpt: "From Microsoft to Amazon, Google to Meta, everyone’s in on the artificial intelligence hype, and the money’s following suit."
     publishedDateTime: 2023-05-24T13:59:00Z
-    webUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n=@"
+    webUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n="
     type: article
     provider:
       name: Variety

@@ -56,6 +56,20 @@ related:
         width: 1920
         height: 1281
         isCached: true
+  - title: "Artificial Limbs And Intelligence"
+    excerpt: "Prosthetic arms can range from inarticulate pirate-style hooks to motorized five-digit hands. Control of any of them is difficult and carries a steep learning curve, rarely does their operation ..."
+    publishedDateTime: 2023-05-24T00:00:00Z
+    webUrl: "https://hackaday.com/2018/12/31/artificial-limbs-and-intelligence/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 24
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2018/12/prosthetic-hand-featured.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "isjEaDckVC5ghQj8N0GAoz8iLFMov5I/Qgqix9UUnVIpT6RLsaw5jYZYDSglfrn1GgimMa7x2ULJ0Dup9d6w876JL8Q7EKC6ySFer4ueq8y7Gl5M3RLUT2tdILA79U/VoQbtbHsLAi2MDCSI9WVT9dvbgLe5/t4EqccNLvN0z210LX9DH44S4WGdOdSOAFzUmOGU+KKZyejHk5j8n0oZIn7xRFjDP/leSjF+AeA+QO9Qh6QgIQ4n78tm1yppFfeKm7XoKMABHiIPom8VWguTQkZs730Xun7//z+M1ElFMgJU8AIDcNhEPETmPc6xlQ3bG3zEksYd0RKcrq+1jzm3x4e31eNno2uM6XkPV1MRmR8=;3O5BsNHB5cHqPDzba9kh/w=="
 ---

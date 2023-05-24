@@ -1,23 +1,23 @@
 ---
 category: news
 title: "CyberLink FaceMe® facial recognition integrates with MediaTek's Genio 700 IoT Platform to deliver a 6.5X performance boost"
-excerpt: "While it continues to integrate with numerous other IoT platforms, CyberLink FaceMe has significantly improved performance on MediaTek's latest Genio 700 processors. Running on a Genio 700, the FaceMe engine is accelerated by MediaTek's AI Processing Unit (APU)."
-publishedDateTime: 2023-05-24T16:21:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/05/24/9820536.htm"
-webUrl: "https://it.tmcnet.com/news/2023/05/24/9820536.htm"
+excerpt: "CyberLink (5203.TW), a leading manufacturer of AI facial recognition technologies, has strengthened its presence in the smart IoT market. The company has announced that its FaceMe® facial recognition"
+publishedDateTime: 2023-05-24T14:15:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/05/b32552925/cyberlink-faceme-facial-recognition-integrates-with-mediateks-genio-700-iot-platform-to-deliver-a-"
+webUrl: "https://www.benzinga.com/pressreleases/23/05/b32552925/cyberlink-faceme-facial-recognition-integrates-with-mediateks-genio-700-iot-platform-to-deliver-a-"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "jbuE9ZAfiaK4NHUVSddOz8ofXDm5nRi6JP2wX4PP4uQVmwD9G7PyU7hzZTHdh4qt1114QAr/UI+5AzVXireNIyXz7s/8swlmmCYZ2UDdOIM0c1kiRzc1iesGQux6k7FlrXGB5TiSNc2KYcb2AwZFYZVKOJsRi1JddE4s2XLQXyJr1Pz7bKoxBrfTuzP6WaUYVA+eucb0ktbCnkmaHRxBZ1jcxoYQvhtDzmSsPdaW2OIUeiJNwnzDLe6KcXYBeuR1XKOAbFH6Onc54eG/okm4tBzwmDaG8NODn479e3P2D0vR6PH9YMO9zkc3bymiyiymRrBzvNvRqCex/904rG+wFnUs+G33HoT8gQS5Y6C58TM=;oUgcxVBUa8ziFbVkSplF5w=="
+secured: "qbyESbMGorAgoQrZ3ev5ULosLkTZSc4FpVXAsxvM/WJ4tpQaUVTj2HUyAahJSA1/MIJbFKTvb+AzB0zrORIkZAMFha7/avUfURtpOumX3t5nhmHdr23IfyphWiBmk4mm+na0tFH1lA5DEq4qP1oWwEHbvRtZNTjgpdB3eBtsfZfQFsUSE/M+2qn2RXzb9CoiaAvR/Kh/5K1sbiEavNYH8t6mzFjhMGdTqLvYst6AJleNzoMwUC+wOAaC2QfICDYkEd52GsQQ8nWAfFNFtz86rcdP/JPUSnJjVnk6H5szgfh0y+G0TuVdQR+w7zmO4LX2RVEGOB+2QijoCVwWNaDMdkBCmYiuxRwvWIG04LRUjOs=;5NbbTgtn0ElfYwI2WRDQUg=="
 ---
 

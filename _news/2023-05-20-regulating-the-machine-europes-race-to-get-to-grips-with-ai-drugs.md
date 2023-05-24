@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Alphabet CEO promises ‘AI pact,’ discussed pro-Kremlin propaganda in meeting with top EU officials"
+    excerpt: "The European Parliament earlier this month greenlit rules for AI, including specific measures for generative AI tools such as ChatGPT and Google's Bard chatbot."
+    publishedDateTime: 2023-05-24T16:03:00Z
+    webUrl: "https://www.cnbc.com/2023/05/24/alphabet-ceo-promises-ai-pact-in-meeting-with-top-eu-official.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/05/24/alphabet-ceo-promises-ai-pact-in-meeting-with-top-eu-official.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/24/alphabet-ceo-promises-ai-pact-in-meeting-with-top-eu-official.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 73
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107239349-1683753251767-_DSC6594.jpg?v=1684951434"
+        width: 3283
+        height: 2188
+        isCached: true
   - title: "Europe’s scramble to tame artificial intelligence: podcast"
     excerpt: "Brussels is a step closer to unveiling regulation for the controversial technology. Dragoș Tudorache, a legislator in the European Parliament, helped write the law. In this Exchange podcast, he argues that the rules focus on the biggest risks while leaving room for innovation."
     publishedDateTime: 2023-05-23T09:48:00Z

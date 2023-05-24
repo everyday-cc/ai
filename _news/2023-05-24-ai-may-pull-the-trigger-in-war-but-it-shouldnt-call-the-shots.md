@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "OpenAI-backed start-up deploys AI-powered robots in real world; beats Tesla"
+    excerpt: "1X's revolutionary robot is called EVE. In simple terms, EVE is real-life RoboCop. The robot has a head, a face, and two autonomous arms. The company has deployed the robot as security guards in two industrial locations. It can perform a multitude of human-like tasks, including opening doors and windows, fetching objects, packing goods, and more."
+    publishedDateTime: 2023-05-24T13:08:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/openai-backed-start-up-deploys-ai-robot-in-workforce/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 69
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l52220230524175259.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Regulators dust off rule books to tackle generative AI like ChatGPT"
     excerpt: "As the race to develop more powerful artificial intelligence services like ChatGPT accelerates, some regulators are relying on old laws to control a technology that could upend the way societies and businesses operate."
     publishedDateTime: 2023-05-22T15:55:00Z

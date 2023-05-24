@@ -81,6 +81,15 @@ related:
       name: https//businesslancashire.co.uk
       domain: businesslancashire.co.uk
     quality: 19
+  - title: "AI’s pioneering influence on fintech"
+    excerpt: "Jennifer Fuller, US Financial Services Lead at PA Consulting, explains how AI tools are reshaping the fintech landscape for financial inclusivity."
+    publishedDateTime: 2023-05-24T19:17:00Z
+    webUrl: "https://www.paconsulting.com/newsroom/cmswire-ais-pioneering-influence-on-fintech-24-may-2023"
+    type: article
+    provider:
+      name: PA Consulting Group
+      domain: paconsulting.com
+    quality: 19
 
 secured: "aHT37FczkXefnsOCCr+h3Fz5R8wLvUXKSxvOpqFP4I9sgJVUeQGm7uaqws1N7oY2czaGsR/+IHbw20CWbnosd4iVw5EoHL2NnrhoEWZdFgOC4JFCE1XxM29nP0e1D9hA2vk9H+kRuxjdxOFOuUptd9eahpok7k1X2fIogdssa3fSDX4ipdRkDocwxdNgj/2OymCVomUG/Ahcgb8SXG4sLCaiuHcJAY7T45pzjfzlXfgSAPiQbCrKZ6pGCDwDQcIq6cEKz1Y8i2LmdfSpwSBii7DVvQmGzhAVvDUmVksNojT73pj+pLUKf/NC0rqwdKVGni+Gcv76+j+BFT72N+ZivKHyV/M6BvWdkafGYSII0p0I1IDu2TYSYa8BpVFDjJk/xGizhu4uAyJi+WFa/F5aebFV0yHNUVDR9fV4vvqhRnEI4Vh5bzI+erzwADtOeRtXgQUuFGFAkDqo4/zTpzfB5jc2bmWwNJPshEVP6eQ7MYboyV3ATm6k09IpGPk5MVG+m2GBND0UpZe8hOUTewdd1A==;O4s8W7URpr5Edya6zQh9pQ=="
 ---

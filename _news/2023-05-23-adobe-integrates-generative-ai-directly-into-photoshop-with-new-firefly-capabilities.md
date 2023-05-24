@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Intel Announces an Integrated Neural AI Accelerator in Meteor Lake"
+    excerpt: "Intel says it's working with Microsoft to make the development of AI features on the personal computer a reality. It will do this by offering a VPU, or Vision Processing Unit, as part of the SoC tile in Meteor Lake."
+    publishedDateTime: 2023-05-24T18:00:00Z
+    webUrl: "https://www.extremetech.com/computing/intel-announces-an-integrated-neural-ai-accelerator-in-meteor-lake"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
   - title: "Informatica Announces Integration of its Intelligent Data Management Cloud with Microsoft Fabric"
     excerpt: "Informatica is one of the first ISV design partners for Microsoft Fabric and brings Azure customers access to IDMC's comprehensive suite of capabilities as a first-party service. The integration allows Azure customers to have: Seamless integration with Informatica's Data Quality solution to identify and provide high quality,"
     publishedDateTime: 2023-05-23T15:31:00Z

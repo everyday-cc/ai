@@ -107,13 +107,13 @@ related:
       domain: azcentral.com
     quality: 8
   - title: "Waymo, Uber set aside past rift over self-driving car technology to team up on robotaxis in Phoenix"
-    excerpt: "- Phoenix Mayor Kate Gallego arrives in a Waymo self-driving vehicle on Dec. 16, 2022, at the Sky Harbor International Airport Sky Train facility in Phoenix. Self-driving car"
-    publishedDateTime: 2023-05-23T16:05:00Z
-    webUrl: "https://www.chron.com/business/article/waymo-uber-set-aside-past-rift-over-self-driving-18114056.php"
+    excerpt: "Self-driving car pioneer Waymo is teaming up with ride-hailing leader Uber in the Phoenix area to transport passengers and deliver food in robotic cars that triggered a bitter technological dispute be"
+    publishedDateTime: 2023-05-23T12:23:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/waymo-uber-set-aside-past-rift-driving-car-99534972"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 5
 
 secured: "0u2KamyR0JRU/bPggPDwcskxLwtePNUNh6eQxL2RGvY6Z1mXrcM65GeSX+XSdn3h/ucYlHOk3gVV5TX71+pGKbEJ7ZTfz742z0QUIWWBoqeV+yTX9hOIgm+2ntgchohrh/4v5Dnb5z+5+L57BbWqIX97K3Ld7HujX16CgGZcVER0KF6dIdREoozP4wOi91B+kH+xIEGxaQLeQLm3CPliPgB4Iiv9OPHflGKng0jdCXtlsJkU67dx6UQiWwuWFkTH38fITHQ8eIAT3zvfcPzvKlSE4JgoMTi6MwJ4vjxW2k4NqZQO3DxVmhCYxtRbO1uyrh0B0JfU9UjvAMmth1i04hwQ0uJ3AldHiijzS10yrZXYjVFYUoYTh7HO28UUi+FX0xULBPcMa/IJ0L8X8AqJ5XmoSlsQiEry6STt8KuVeP4M1uNJxCrq580e3r5jNfO1TG1qts+hBEXboBVvEmXcWeY+jQXDWWsXpEAJR8jGmbVtvMv/pvAWoQy4h+/iWbck0v1j/eBakL/DRBpU6r1dxQ==;pysYFJLAgYZnswlw8lEFSQ=="

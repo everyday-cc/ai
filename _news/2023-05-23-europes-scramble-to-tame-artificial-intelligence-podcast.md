@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Alphabet CEO promises ‘AI pact,’ discussed pro-Kremlin propaganda in meeting with top EU officials"
+    excerpt: "The European Parliament earlier this month greenlit rules for AI, including specific measures for generative AI tools such as ChatGPT and Google's Bard chatbot."
+    publishedDateTime: 2023-05-24T16:03:00Z
+    webUrl: "https://www.cnbc.com/2023/05/24/alphabet-ceo-promises-ai-pact-in-meeting-with-top-eu-official.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/05/24/alphabet-ceo-promises-ai-pact-in-meeting-with-top-eu-official.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/24/alphabet-ceo-promises-ai-pact-in-meeting-with-top-eu-official.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 73
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107239349-1683753251767-_DSC6594.jpg?v=1684951434"
+        width: 3283
+        height: 2188
+        isCached: true
   - title: "Regulating the machine: Europe’s race to get to grips with AI drugs"
     excerpt: "How do you regulate a drug developed by artificial intelligence? That’s the question Europe's regulators are grappling with as AI medicines speed toward market. At the heart of a regulator's job is the responsibility to ensure that the benefits of a new ..."
     publishedDateTime: 2023-05-20T16:22:00Z

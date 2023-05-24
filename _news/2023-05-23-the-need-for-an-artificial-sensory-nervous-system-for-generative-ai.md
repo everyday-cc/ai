@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-for-an-artificial-sensory-nervous-system-for-generative-ai/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 169
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/09/Red-Hat-e1684880569131.jpg?w=1200&strip=all"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Snowflake acquires Neeva to add generative AI-based search to Data Cloud"
+    excerpt: "Neeva, which uses large language models to offer an AI-based search experience, is latest company to be picked up in Snowflake's acquisition spree."
+    publishedDateTime: 2023-05-24T21:16:00Z
+    webUrl: "https://www.infoworld.com/article/3697709/snowflake-acquires-neeva-to-add-generative-ai-based-search-to-data-cloud.html"
+    ampWebUrl: "https://www.infoworld.com/article/3697709/snowflake-acquires-neeva-to-add-generative-ai-based-search-to-data-cloud.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3697709/snowflake-acquires-neeva-to-add-generative-ai-based-search-to-data-cloud.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 86
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2020/02/07/15/merger-100830660-large.jpg?auto=webp&quality=85,70"
+        width: 849
+        height: 565
         isCached: true
   - title: "Infosys launches Topaz, an AI-first solution to accelerate business value through generative AI"
     excerpt: "Infosys said organizations could harness the capabilities of cognitive solutions through its Infosys Topaz generative AI offering."
@@ -123,6 +139,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "The Funded: 7 Bay Area companies picked for AWS Generative AI Accelerator"
+    excerpt: "Backed by Amazon Web Services Inc, the not-so-cleverly named Generative AI Accelerator on Wednesday said 21 companies ... Inc. dropped a reported $400 million in 2020 to buy the startup Giphy Inc., the well-known animated image and microvideo database."
+    publishedDateTime: 2023-05-24T21:18:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/05/24/the-funded-may-24-generative-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 33
 
 secured: "iOGxOIaiH8x5nEbwRDlZDza9fEvme6A+zUbYv6PoZ2b83TUqpyk3eRvCgXQgBuRSd9zy9QNVD690d8FwkRCtH1i7XVxvl+HxdMmdI2Ny4wvBeogClclE2L8FRWAZY2wtYb5VUA5BJpElTW/orZk23RDnmhQGAyALwjdH4I8l4MoZkVZHl9ehNlHgRJMNNj5+r7n+WLa4lUDTZKK09YRHOnEhdGFgN77pI8CDtRDpfADijAmps9Wi5kji9wtw7unWzjx/MCUv0SQ0suoH4g4lWxUi/DSwy8K8+cN8Y0W6zGpYCpgkNfBu9MsDzq7R9OEktYJ8J20nzBBC8i0/fCi4qbS7+9kuL2eKjngAiKVSM8m2uzrfpmdehod1R5G5XtuDlm7+1hm2GVvH+8cCGswF0tFkTCwZ8kxOvjnbiqFk93BaIcXL8gVQuOgQDU+Mo6vJbioNpVGeqpUZi/RZnTI4hrq5f0ebFDDKTT4y9athbThRBr7zatQykUw5dPLmB3EsFndpetJ4uMSWSPDE6YU2cw==;5uFDx4Lvn0Lq50kKf7murw=="
 ---

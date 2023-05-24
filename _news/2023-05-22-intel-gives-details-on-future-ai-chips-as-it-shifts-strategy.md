@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/news/picture/intel-gives-details-on-future
 webUrl: "https://www.reuters.com/news/picture/intel-gives-details-on-future-ai-chips-a-idUSKBN2XD1A3"
 type: article
 quality: 84
-heat: 165
+heat: 164
 published: true
 
 provider:

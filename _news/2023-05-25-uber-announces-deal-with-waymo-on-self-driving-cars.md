@@ -104,15 +104,15 @@ related:
       domain: azcentral.com
     quality: 8
   - title: "Waymo, Uber set aside past rift over self-driving car technology to team up on robotaxis in Phoenix"
-    excerpt: "- Phoenix Mayor Kate Gallego arrives in a Waymo self-driving vehicle on Dec. 16, 2022, at the Sky Harbor International Airport Sky Train facility in Phoenix. Self-driving car"
-    publishedDateTime: 2023-05-23T16:05:00Z
-    webUrl: "https://www.chron.com/business/article/waymo-uber-set-aside-past-rift-over-self-driving-18114056.php"
+    excerpt: "Self-driving car pioneer Waymo is teaming up with ride-hailing leader Uber in the Phoenix area to transport passengers and deliver food in robotic cars that triggered a bitter technological dispute be"
+    publishedDateTime: 2023-05-23T12:23:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/waymo-uber-set-aside-past-rift-driving-car-99534972"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 5
 
-secured: "6wW4LSGG20LK9WoH7905oYsjOZ8nONZDm/hKL+HSjHejDQa7hKNoaEKXEr/ruRvKTfZGMG06VZ4yeyLb+EYKsMJAm+6fnQCp4+WZGfCEmy1caoNdBHgZDSOoNBqrafXm+/npwzc18k34JvhWp6RRCJhDhStfk2x3HqZDxIIcp5pSueWKH4a+p5lbNNN9r3+9WoBE3SiWW4e3ix1FQHJJbIE81DQbfy0yZOYX0lmtGNE4B7NUS2wNemgMHF9jammhBCuqkSALhi3YFZojJEW0pdzKCHy/DQI94AsjtcRd4lKr6sBlU3w/UUARM6hbzFY4HJZb5Xbl+2BgWayrfNdWS1cUHpexl2Gcq+2HGGPFv4w=;Ykg2T4qPLfjyi7Mpd8e5pg=="
+secured: "Ze9OhRVwH4/33iJtT/IZGgPSIyvdF+DzQRv/ldgdq3nxG9Na+40pq1fhl2fxXzzqZtsW4v7B8vIZB0rLAnOeo6V5BHzBtVjcttH0tdn8d+bbozJN1yMlCPP2M9HEd4VTPjvkRRbXgTzt+k06qLiytpUmwvxXkrB3asKAQKlRNB5D3ejCHO12U8dA6A2hpKmi3S07AItbJxvdkvklOxrq9dzTdbOacgKtfoWaG+9xH3OPR03SFY/7/FkSKiBMFggLM2tU88TtPtFXD5UBi7+pk1h0R9B/1ByGylEhVZW5OMGocX9zgXTuRMbre84kf8B+cO9wPat9dKDn7cpnKYuPMzQUAzENamx+Feh9sHg/SRxtJ9PLIrQ06qZJdjkD6M4LOlxfgKmXkPs+STayB7MDsugLMYTlLIhJxbGkewhdRRC2CdFhQCmlRQuysw6ZUzBajK98mSKBnfGGekiwwdZixwiENRC0nSab/QBtEU9jb1AJz2n98USIVkCmQOfLewjzJ84m+0dhRR/lTVu0bZbM3A==;I6gKbwV68uJXg5KCGcRGcQ=="
 ---
 
