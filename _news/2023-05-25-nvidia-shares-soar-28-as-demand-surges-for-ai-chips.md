@@ -41,6 +41,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Nvidia: The chip maker that became an AI superpower"
+    excerpt: "And one hardware company in particular has become central to the AI bonanza - California-based Nvidia. Originally known for making the type of computer chips that process graphics, particularly for computer games, Nvidia hardware underpins most AI ..."
+    publishedDateTime: 2023-05-25T16:08:00Z
+    webUrl: "https://www.bbc.com/news/business-65675027"
+    ampWebUrl: "https://www.bbc.com/news/business-65675027.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65675027.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 104
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0784/production/_129842910_jensen_huang-extended.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Weak Gaming GPU Sales Don't Matter for Nvidia as It Faces AI Gold Rush"
     excerpt: "Nvidia's stock skyrockets after the company reports it expect revenue next quarter to hit $11 billion on demand for chips that can power generative AI."
     publishedDateTime: 2023-05-25T15:13:00Z
@@ -98,6 +114,20 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2023/05/NVIDIA-Hopper-GPU-_3-g-low_res-scale-2_00x-768x723-1.png"
         width: 768
         height: 723
+        isCached: true
+  - title: "The AI chip boom is propelling Nvidia to new heights, gamers be damned"
+    excerpt: "Almost every business out there is trying to jump on the AI train, and this is making Nvidia and its investors happier than ever. So happy,"
+    publishedDateTime: 2023-05-25T16:41:00Z
+    webUrl: "https://www.techspot.com/news/98823-ai-chip-boom-propelling-nvidia-new-heights-gamers.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-25-image-18.jpg"
+        width: 2880
+        height: 1920
         isCached: true
   - title: "Nvidia Sales Crush Wall Street Estimates Thanks To AI Boom, Shares Spike Over 20%"
     excerpt: "The professional vizualization segment, which includes Omniverse Cloud, a service running in Microsoft Azure for the development and deployment of industrial metaverse applications, posted $295 million in sales, down 53% from a year ago. “I think in AI ..."
@@ -176,6 +206,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/e5a60f6b9f1f17a92ec182087efb8a899d89a855/0_226_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=65fd4ecd7e16016fcff3e1cf311ade01"
         width: 620
         height: 372
+        isCached: true
+  - title: "Nvidia shares skyrocket after AI-fueled sales projections crush forecasts; Chip maker nears $1 trillion valuation"
+    excerpt: "Shares of Nvidia, already one of the world's most valuable companies, skyrocketed Thursday after the chipmaker forecast a huge jump in revenue, signaling how vastly the broadening use of artificial intelligence could reshape the tech sector."
+    publishedDateTime: 2023-05-25T14:02:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/nvidia-stock-price-ai-artificial-intelligence-sales-projections-earnings/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/nvidia-stock-price-ai-artificial-intelligence-sales-projections-earnings/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/nvidia-stock-price-ai-artificial-intelligence-sales-projections-earnings/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 70
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2021/12/02/ca8ad24e-18b8-4cb5-aef8-6e6bd2c10926/thumbnail/1200x630/a7b58aa440a66d8ef5fd243395995fc3/cbsnews-nvidia-slide49.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Nvidia Stock Has Risen on AI Chips. Why It’s Taking on Intel, AMD in Supercomputers."
     excerpt: "Nvidia said a new supercomputer will be based on its Grace CPU Superchip, marking a push into an area dominated by Intel and AMD."
@@ -324,6 +370,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Nvidia stuns markets and signals how artificial intelligence could reshape technology sector"
+    excerpt: "Shares of Nvidia, already one of the world’s most valuable companies, are skyrocketing after the chipmaker forecast a huge jump in revenue, signaling how vastly the broadening use of artificial intell"
+    publishedDateTime: 2023-05-25T16:32:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/nvidia-stuns-markets-signals-artificial-intelligence-reshape-technology-99602566"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/nvidia-stuns-markets-signals-artificial-intelligence-reshape-technology-99602566"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/nvidia-stuns-markets-signals-artificial-intelligence-reshape-technology-99602566"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 46
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_f6b9df3a4cafe1a4ee041cc736b97a89_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Nvidia’s AI Victory Lap"
     excerpt: "The most important acronym in business right now is AI, but another one—GPU—isn’t far behind. Today’s earnings forecast from chip designer Nvidia, which makes graphics processing units that power ChatGPT and its ilk,"
     publishedDateTime: 2023-05-25T00:31:00Z
@@ -337,6 +399,20 @@ related:
       - url: "https://tii.imgix.net/production/articles/10590/8acf66cb-01c2-4ec8-a79f-2972293e5b94-26Tmy5.png?fm=jpg&auto=compress&w=1200&frame=0"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Nvidia Stock Rides the AI Wave With More to Come"
+    excerpt: "With its 25% post-earnings surge on Thursday, the stock is now up 161% this year on the promise that the company’s chips will power the future of AI. So what kind of sorcery is this? And why are investors willing to pay 186 times current earnings to ..."
+    publishedDateTime: 2023-05-25T17:33:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/05/25/nvidia-stock-rides-the-ai-wave-with-more-to-come/e42d26ac-fb21-11ed-bafc-bf50205661da_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4MP7AKH3EEI63OX4X5ICAVTB3I.jpg&w=1440"
+        width: 1440
+        height: 901
         isCached: true
   - title: "Nvidia AI chip value skyrockets amid AI development boom"
     excerpt: "The company says it has been increasing its supply of chips as a response to the increase in demand for them after the emergence of ChatGPT."

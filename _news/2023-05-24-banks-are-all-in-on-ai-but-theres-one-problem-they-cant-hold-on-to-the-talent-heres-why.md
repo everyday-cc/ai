@@ -38,6 +38,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "The Impact Of AI On Company Culture And How To Prepare Now"
+    excerpt: "Your company’s culture will impact how quickly and successfully an organization can adopt AI. Done well, AI can actually improve company culture."
+    publishedDateTime: 2023-05-25T17:01:00Z
+    webUrl: "https://www.forbes.com/sites/larryenglish/2023/05/25/the-impact-of-ai-on-company-culture-and-how-to-prepare-now/"
+    ampWebUrl: "https://www.forbes.com/sites/larryenglish/2023/05/25/the-impact-of-ai-on-company-culture-and-how-to-prepare-now/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/larryenglish/2023/05/25/the-impact-of-ai-on-company-culture-and-how-to-prepare-now/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646e18456276933948a62c39/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 622
+        isCached: true
   - title: "While artificial intelligence-driven tools can be helpful, there are risks, concerns"
     excerpt: "It seems like everyone is talking about artificial intelligence and all of the ways it will change the way we live and work in the not-too-distant future. One of the ways that businesses are already using AI is in the recruitment and"
     publishedDateTime: 2023-05-21T17:00:00Z
@@ -66,15 +82,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Tech Giants Trigger Generative AI Investment Boom"
-    excerpt: "From Microsoft to Amazon, Google to Meta, everyone’s in on the artificial intelligence hype, and the money’s following suit."
-    publishedDateTime: 2023-05-24T13:59:00Z
-    webUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n=#!"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 19
 
 secured: "tB2Y1L9V0CRDg3GsaRVOOGMvfmEnrp9u4HB5sFcAAOImjks8vUS6akzGrO1y8mgzkKn6TL8m5k5vn7vtKN3qcYkGamHpPSPvdCglsLnG1jjcaNIjMJ65+89NzGR4gFAwFOr9slBd5++2qoilXtajkfxtgJ+j3THjumyaMbZW9EPssOtCm2Wzxq/7FYUflzMjdHKdckzk99li3/CVBaujUIWxV58+Nx7FL2gg2c927LNL2ffTyXmPbEIKFI5gw7dhc2pipSuaSv/vpNbxZbAl8ro1Um1BlM7Tm30O6QwThAPejc2/piZrqgAoBwIiZCln6DyZ/Tq2bP3Optv6m/O8VVOPhvvXTl5qyEU4cl2OWUAxAtIpruflyfoKjdQzhcCQsg/l2OAPkH1F2AIs8vbF9u+EJrcoLLzsecPcI6QtDt3h/iVHH3UtI+n7YMv0X2ajjgjKGAlESg33leFp5ggwnNEA+bqjdswDsb2q+Fo22T2xW8S+PjcwlEqKa33vvzO7f+wA+jXZnhApjhr5CBGJPA==;F8sm00UJx4Rv2/FuyS8Teg=="
 ---

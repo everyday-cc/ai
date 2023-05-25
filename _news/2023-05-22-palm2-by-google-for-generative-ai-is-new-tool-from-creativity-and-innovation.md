@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
 type: article
 quality: 56
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -82,15 +82,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 15
-  - title: "TCS announces generative AI pact with Google Cloud, new offering for enterprises"
-    excerpt: "Tata Consultancy Services TCS on Monday announced an expanded partnership with Google Cloud and the launch of its new offering -- TCS Generative AI which leve"
-    publishedDateTime: 2023-05-22T13:20:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273838959/tcs-announces-generative-ai-pact-with-google-cloud-new-offering-for-enterprises"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 14
 
 secured: "o1mlgaL6EsgQIXgN1s5uExF/ojueVWC2BNW18ndrIaJ0C+hILNS2QaPrIBkCMELiJODGFILYW79vffHaLFtU3GpwXkSOPxnMZNNe/+hbhQKxavybW5Q9YArNsOr6DbN/8FLr8ivSL9NwXM1INgb15KVekZ+eD+ySiTgop73hO6VNxc25WW88bWNJU7/dQxWir8WMdg7j0g541GyezlNVH3r+eMN/qk4rdpL2QSlCbnp81xnv9/mzVzbe2SSMvzEanlCGAmIwpEZvx/6nNtgkKphGmw9JLd7mzf/mtZyelCBVl29k+HayDlEjjwt0Omdgofnxp1YVq0IAHNleW/enDp/hEgYFASAWd2N3O+vbYeU=;JK+0WTBsGIt2+eQ+dwFMOA=="
 ---

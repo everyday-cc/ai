@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 117
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Workera introduces the world's first skills assessments for generative AI"
+    excerpt: "PALO ALTO, Calif., May 25, 2023 /PRNewswire/ -- Series B startup Workera announces the release of its generative AI assessments to test, rate and develop the skills of this cutting-edge technology in the contemporary workforce. Over 1,000 users have ..."
+    publishedDateTime: 2023-05-25T17:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/workera-introduces-the-world-s-first-skills-assessments-for-generative-ai-1032352473"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
   - title: "Bill Gates: AI will kill off Amazon, Google and drive future humanoid workers"
     excerpt: "Are emerging artificial intelligence tools set to relegate internet giants like Google and Amazon to the same dusty shelves as laser discs, fax machines and overhead projectors?"
     publishedDateTime: 2023-05-24T01:31:00Z

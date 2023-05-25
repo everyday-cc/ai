@@ -43,15 +43,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Apple Ramps Up Hiring of Generative AI Experts"
-    excerpt: "Apple is hiring for at least a dozen new experts in generative artificial intelligence amid rumors that the company is stepping up its work on AI."
-    publishedDateTime: 2023-05-22T12:51:00Z
-    webUrl: "https://www.macrumors.com/2023/05/22/apple-ramps-up-hiring-of-ai-experts/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 17
 
 secured: "QLLyf3qgqFZVsN81AAv1mSuyAM5OzZOABhTEhEpmPMU7R4KGJFRLxl4MfePB5QgSblNAKbBeV/so1ZeR3O8E+h5uvXJq8N7oa3fHalP8guTuSECbaJCeN7Yz6cjyqpFKrWxRThTAQ+WgSqWkapsQ4sNIcoIoV36FW3B6RPAzn0c/ir9RlYAYpuPeM7o2D9s9jJCc8lNe5h7rtDXOT8ZmMR8big04oo2sudjzDpH2XGmJpgtvBC5fMLALtPB6jPUm7t5a1FjMR5EM21OJNrYeGhrWnKnmK/VHMKoDJVwxrC90SkFTUX5m/sYBQsC/vb6uENfjL5JSFK6ZvTAjVOv6e1aPX+bOx0zI808bva8ngosC83w++6NotbxcuM/KG2pRe0yTOTgZ0UebTT26Iath1nKIGwhTOtWVt2LyULflVPyW6IzYSldRpDFg6VzX6scj+SmZGD3vJOH9V0qBuB2YDoehs6BV6dxwcSEjEUilu+1yzqBuyGWO99GRNXLh8M62PPAwPNPXbtqRS1sc/StfAA==;R4pz7InBpBaIFmnsxHN+sg=="
 ---

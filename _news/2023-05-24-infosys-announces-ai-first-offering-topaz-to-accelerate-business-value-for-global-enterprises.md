@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AI policies across the world: Key lessons for India"
-    excerpt: "Several countries have adopted different policies to regulate the development and use of Artificial intelligence (AI). India can incorporate key lessons from them in its \"AI for all\" framework"
-    publishedDateTime: 2023-05-25T11:03:00Z
-    webUrl: "https://www.forbesindia.com/article/isbinsight/ai-policies-across-the-world-key-lessons-for-india/85163/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/isbinsight/ai-policies-across-the-world-key-lessons-for-india/85163/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/ai-policies-across-the-world-key-lessons-for-india/85163/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 59
-    images:
-      - url: "https://www.forbesindia.com/media/images/2023/May/img_208481_artificialintelligence.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "LAEZknTIZXBmcq1EisFSrR2C2K9C9NwsU0uP3jXMslQLowaJNz5pzXDZsP73odJP0L0ZL2moXmnbnm7jy17CcM8qTqmI5ZddMYh7IxELSpn5lmdE6xezXd2LVuDOg9O6HHthyibFVAdCWXVCdAK/okygCrkQT4UtXMPJ7knKRDNaMbVoUNPvyxmFcbJxidqqLK0XvD1Gy//Jjx4KpHYN8VqiLr/g10gO5Xl2yRK7cjNERauR7QFPmOdfKDT7TYFXZ/YHUA/JxTrnMG97tOB7qQ8JbJ8uAVIYU3W+q7+iYE5LGBdRl80qrHrE7tuTo7L8YF3CQwbOcaGnhixwrmVCNqvBcofQyAwy4lwtJO6A/GY=;MtEhARwSFUM2rVNHEY8F1Q=="
 ---

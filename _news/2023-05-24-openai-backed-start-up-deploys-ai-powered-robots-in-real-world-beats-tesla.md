@@ -106,6 +106,22 @@ related:
         width: 1920
         height: 1440
         isCached: true
+  - title: "OpenAI leaders call for regulation to prevent AI destroying humanity"
+    excerpt: "Team behind ChatGPT say equivalent of atomic watchdog is needed to guard against risks of ‘superintelligent’ AIs"
+    publishedDateTime: 2023-05-24T04:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/24/openai-leaders-call-regulation-prevent-ai-destroying-humanity"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/24/openai-leaders-call-regulation-prevent-ai-destroying-humanity"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/24/openai-leaders-call-regulation-prevent-ai-destroying-humanity"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/7d67041ce1a3365141a6cf94664afd2b979a86ea/0_65_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=26b6326255df3dfa3b403b401a657422"
+        width: 620
+        height: 372
+        isCached: true
   - title: "OpenAI's Altman Wants International Body Akin To Nuclear Watchdog IAEA To Regulate AI"
     excerpt: "Sam Altman, CEO of the start-up behind the AI chatbot ChatGPT, agreed with members of the Senate on Tuesday on the need to regulate increasingly powerful AI technology. https://t.co/iFjgQBBdwY pic.twitter.com/NNXJykGJMu"
     publishedDateTime: 2023-05-23T08:32:00Z

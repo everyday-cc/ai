@@ -2,6 +2,241 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2023-04-19-microsoft-is-bringing-the-power-of-ai-home-with-its-own-chip.md",
+      "title": "Microsoft is bringing the power of AI home with its own chip",
+      "excerpt": "According to Reuters, Microsoft is developing its own AI chip with the “Athena” codename. It will power the tech behind AI chatbots like ChatGPT, Reuters cites The Information’s report that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2023/04/18/microsoft-is-bringing-the-power-of-ai-home-with-its-own-chip/",
+      "originalUrl": "https://www.gizchina.com/2023/04/18/microsoft-is-bringing-the-power-of-ai-home-with-its-own-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2023/04/imagem_2023-04-18_145838608.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2023/04/18/microsoft-is-bringing-the-power-of-ai-home-with-its-own-chip/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/04/18/microsoft-is-bringing-the-power-of-ai-home-with-its-own-chip/amp/",
+      "publishedDateTime": "2023-04-18T22:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-houston-community-college-to-offer-1st-4-year-bachelors-programs-starting-this-fall.md",
+      "title": "Houston Community College to offer 1st 4-year bachelor's programs starting this fall",
+      "excerpt": "The new four-year programs are Applied Technology in Artificial Intelligence and Robotics and Applied Science in Healthcare Management. \"We are continually exploring ways to provide relevant ...",
+      "sourceUrl": null,
+      "webUrl": "https://abc13.com/houston-community-college-bachelors-degree-offerings-get-bachelors-in-junior-applied-technology-artificial-intelligence-and-robotics/13149945/",
+      "originalUrl": "https://abc13.com/houston-community-college-bachelors-degree-offerings-get-bachelors-in-junior-applied-technology-artificial-intelligence-and-robotics/13149945/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/13149941_041823-ktrk-hcc-generic-tn-img.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc13.com/amp/houston-community-college-bachelors-degree-offerings-get-bachelors-in-junior-applied-technology-artificial-intelligence-and-robotics/13149945/",
+      "cdnAmpWebUrl": "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/houston-community-college-bachelors-degree-offerings-get-bachelors-in-junior-applied-technology-artificial-intelligence-and-robotics/13149945/",
+      "publishedDateTime": "2023-04-18T22:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "abc13",
+        "domain": "abc13.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-inside-the-secret-list-of-websites-that-make-ai-like-chatgpt-sound-smart.md",
+      "title": "Inside the secret list of websites that make AI like ChatGPT sound smart",
+      "excerpt": "An analysis of a chatbot data set by The Washington Post reveals the proprietary, personal, and often offensive websites that go into an AI’s training data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/",
+      "originalUrl": "https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3RJWXEJIYVBRRCKTKMQYEARILU.jpg&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T21:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-artificial-intelligence-in-healthcare-market-new-trend-analysis-2023-2030.md",
+      "title": "Artificial Intelligence in Healthcare Market New Trend Analysis 2023-2030",
+      "excerpt": "The Global Artificial Intelligence in Healthcare market is anticipated to rise at a considerable rate during the forecast period. The market is growing at a steady rate and with the rising adoption of strategies by key players,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-new-trend-analysis-2023-2030-2023-04-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-new-trend-analysis-2023-2030-2023-04-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T21:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-global-healthcare-artificial-intelligence-market-by-2023-2029-with-revenue-outsourcing.md",
+      "title": "Global Healthcare Artificial Intelligence Market by [2023-2029] with Revenue Outsourcing",
+      "excerpt": "The Global Healthcare Artificial Intelligence market is anticipated to rise at a considerable rate during the forecast period. The market is growing at a steady rate and with the rising adoption of strategies by key players,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-by-2023-2029-with-revenue-outsourcing-2023-04-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-by-2023-2029-with-revenue-outsourcing-2023-04-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T21:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-anchorage-assembly-heavily-limits-city-use-of-facial-recognition-technology.md",
       "title": "Anchorage Assembly heavily limits city use of facial recognition technology",
       "excerpt": "If the city opts to purchase and use the technology, the Assembly must approve it, and there must be a public hearing.",
@@ -902,230 +1137,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-microsoft-readies-own-ai-chip-everything-you-need-to-know.md",
-      "title": "Microsoft readies own AI chip — everything you need to know",
-      "excerpt": "According to The Information (opens in new tab), Microsoft has been secretly working on Project Athena — a first-party chip designed to power the supercomputers that train AI. The hope is the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/news/microsoft-readies-own-ai-chip-everything-you-need-to-know",
-      "originalUrl": "https://www.tomsguide.com/news/microsoft-readies-own-ai-chip-everything-you-need-to-know",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/htJtE2TbsB4Tfmo8YuN7Te-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-so-you-want-to-launch-an-ai-startup.md",
-      "title": "So you want to launch an AI startup",
-      "excerpt": "It seems like it’s the best of times for founders thinking about launching an AI startup, especially with OpenAI releasing ChatGPT to the masses, as it has the potential to really put AI front ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/04/18/so-you-want-to-launch-an-ai-startup/",
-      "originalUrl": "https://techcrunch.com/2023/04/18/so-you-want-to-launch-an-ai-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-948886934.jpeg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-the-10-most-evil-rogue-ai-in-movie-and-tv-history.md",
-      "title": "The 10 Most Evil Rogue AI in Movie and TV History",
-      "excerpt": "This feature is part of AI Week. For more stories, including How AI Could Doom Animation and comments from experts like Tim Sweeney, check out our hub. AI is an exciting concept that has been the foundation of many of our greatest sci-fi",
-      "sourceUrl": null,
-      "webUrl": "https://me.ign.com/en/movies/207320/feature/the-10-most-evil-rogue-ai-in-movie-and-tv-history",
-      "originalUrl": "https://me.ign.com/en/movies/207320/feature/the-10-most-evil-rogue-ai-in-movie-and-tv-history",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.ign.com/t/ign_me/feature/t/the-10-mos/the-10-most-evil-rogue-ai-in-movie-and-tv-history_jztd.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IGN",
-        "domain": "ign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-investigational-deep-learning-model-may-help-stratify-risk-for-patients-with-endometrial-cancer.md",
-      "title": "Investigational deep learning model may help stratify risk for patients with endometrial cancer",
-      "excerpt": "An investigational deep learning model requiring one histopathologic slide accurately predicted the risk of distant recurrence in patients with endometrial cancer, according to findings presented at the AACR Annual Meeting 2023,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-04-deep-stratify-patients-endometrial-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-04-deep-stratify-patients-endometrial-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/microscope-slide.jpg",
-          "width": 1920,
-          "height": 1271,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-04-deep-stratify-patients-endometrial-cancer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-04-deep-stratify-patients-endometrial-cancer.amp",
-      "publishedDateTime": "2023-04-18T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-health-it-vendor-eclinicalworks-announces-azure-openai-ehr-integration.md",
-      "title": "Health IT Vendor eClinicalWorks Announces Azure OpenAI EHR Integration",
-      "excerpt": "cognitive services, and machine learning models from Azure OpenAI Service. eClinicalWorks recently invested $100 million in Microsoft Azure cloud services. “We are thrilled to combine advances in generative AI models with eClinicalWorks’ solutions to ...",
-      "sourceUrl": null,
-      "webUrl": "https://ehrintelligence.com/news/health-it-vendor-eclinicalworks-announces-openai-ehr-integration",
-      "originalUrl": "https://ehrintelligence.com/news/health-it-vendor-eclinicalworks-announces-openai-ehr-integration",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ehrintelligence.com/images/site/article_headers/_normal/image_%283%29.png",
-          "width": 690,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EHR Intelligence",
-        "domain": "ehrintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

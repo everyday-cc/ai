@@ -84,15 +84,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 15
-  - title: "TCS announces generative AI pact with Google Cloud, new offering for enterprises"
-    excerpt: "Tata Consultancy Services TCS on Monday announced an expanded partnership with Google Cloud and the launch of its new offering -- TCS Generative AI which leve"
-    publishedDateTime: 2023-05-22T13:20:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273838959/tcs-announces-generative-ai-pact-with-google-cloud-new-offering-for-enterprises"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 14
 
 secured: "j3mSa9FFUzijzP4XiLpWinqRC+CIoekxpGgIzu55SbFj1prz6D5ikxMpPa/5myb2vrChOxd4AOOmFl2caY2JhLUwocIdM/0aUzyyLZ8s1yM2kSA9bICFX5bb1Pwi+TMdNM2DXOPJjEsfrFwRWKVDNRGgXvuUS/G4yisJ/Mf6jTHcD+67PFy2ncu4YnYERsw7MYUfdAKPtYcFfp8SzRBkjlfQfA0bikXJ0SLV4KUd0lrXm7CmmzX0p4c57m2DtB6bLZjzxErs0jKmWCEZ9gFFhuF67quSIphQqybDUNuMw/iR3nkZ9+MPqk6V51xFDZ6WlRQdu1xaf58ogRHtqEMkbj6MFD3k87Y1vglkAE080BeihOw3vRe3jYFTNk0Z369gLKRztwSYc/bQwMH1zdLimmwHdo4wkqhd5lzUmL+iKkTdWRKSkbpRpFn4awg5N8QQApgBEl9tzAQ1vj1LkSJugXnW5I4yyLZNZOCVtbBeYewmIg+RIoevWH5lke03cKH1h1fRzIEd+0I3ZXz4jvbpMw==;c4Kr1W611Q82qxxHcUbyxA=="
 ---

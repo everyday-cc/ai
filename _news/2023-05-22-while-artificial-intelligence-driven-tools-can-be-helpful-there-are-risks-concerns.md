@@ -40,6 +40,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "The Impact Of AI On Company Culture And How To Prepare Now"
+    excerpt: "Your company’s culture will impact how quickly and successfully an organization can adopt AI. Done well, AI can actually improve company culture."
+    publishedDateTime: 2023-05-25T17:01:00Z
+    webUrl: "https://www.forbes.com/sites/larryenglish/2023/05/25/the-impact-of-ai-on-company-culture-and-how-to-prepare-now/"
+    ampWebUrl: "https://www.forbes.com/sites/larryenglish/2023/05/25/the-impact-of-ai-on-company-culture-and-how-to-prepare-now/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/larryenglish/2023/05/25/the-impact-of-ai-on-company-culture-and-how-to-prepare-now/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646e18456276933948a62c39/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 622
+        isCached: true
   - title: "Banks are all-in on AI, but there's one problem: They can't hold on to the talent. Here's why."
     excerpt: "Top banks are pursuing employees well-versed in artificial intelligence, but they are having a tough time holding on to them."
     publishedDateTime: 2023-05-23T18:01:00Z
@@ -63,15 +79,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Tech Giants Trigger Generative AI Investment Boom"
-    excerpt: "From Microsoft to Amazon, Google to Meta, everyone’s in on the artificial intelligence hype, and the money’s following suit."
-    publishedDateTime: 2023-05-24T13:59:00Z
-    webUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n=#!"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 19
 
 secured: "RLl6+bxhJ0Jdj17n7p0mIC+WO/oMpHOy/TWz5oa8/AsyxOTub62u2yM87ES5i+RnPyptE4ysTOrB9RNG628sMZglOTj1wPPRgX6oDe98rBeiaBW0fjtXijDMq0aJQ5cUuMzlLZu+B6R5biey8hDjjtPYAJFNu3TDzi73nwzfXK/4Zb5wLrXfSZ/zlE/3VPVXTVL7w2RiukmB5N1sIF0rQzvZmh6bjPWWn2hQXkVrw//BbHfWCOcwBMKGeKGtXWi8XCm9MF3sExMKfG1WaQzrr6fXj5AY8PhSr9+aNOBHYmpWr5M96SRIUHKDroz5H4xQ/3NUPi7ncaijRcHfGeGHcqTayTfwO5oh+ZYEZl/BuZo=;LGRMsWcjJLjJ6NBfELW8yA=="
 ---

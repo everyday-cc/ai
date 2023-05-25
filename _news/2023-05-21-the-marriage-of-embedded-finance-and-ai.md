@@ -69,15 +69,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Mai Writer Uses Generative AI To Double Marketing Output and Conversions"
-    excerpt: "Kenn Costales, the Forbes 30 Under 30 Founder of AI startup Mai, is inviting copywriters, content creators, and digital marketing professionals to maximize their productivity"
-    publishedDateTime: 2023-05-23T16:34:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32535516/mai-writer-uses-generative-ai-to-double-marketing-output-and-conversions"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
 
 secured: "pwaZKnu6o3qdj+F8J6S3GH9LSHFOiU1z6rWmhc4OY79haysULYomXThBj623eUpHoIzBTaUVzbvu1SKEkJJlN79lA1oY7A/ySGvmpfsce4dNnW9d/NumsZp3WEuCvBe7XNxZo1DPDxuKGPYGdRXgB4gjIzFWUVF9I1vjnoQlcsAuDoIbbBHqpqD4ypdBTGgrXrga3TylOSSGjbw/J3Usnj/Op+mdMr6qa4rCVF3nhj7XcT0afajC9Boe4OryQMznWS8YHn2GF0hj4PTJl2OUB3jvzCTxjn26n/IadnDlFOAtZYCZDvDyAtt1BBhFNAM5fyEJ8dLMr67xsfyXRKdPa5EntjvE3G63c0clUeq6MFOMWGaVpb4t5/Yh72mmX2mwnCOJCWQwedAkEqac0R/GZ6+B0eO16mEfzSUIRTPQ0J4qqJreBykRSXSQiizmp2SXQFgeGNT/NZwj1QuLf5k0F82VXk2CTi0ea6sTNx4EfjDUx4thSBpYJvXiR+EJN1QPLE6E0CDzVjHNEE5DcAnhbQ==;QrTv+25fEorgju4YlQHvdw=="
 ---

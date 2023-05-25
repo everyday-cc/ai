@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-ai-video-hitler-fbi-devil-ron-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ai-video-hitler-fbi-devil-ron-desantis-elon-musk-2023-5?amp"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

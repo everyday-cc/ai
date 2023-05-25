@@ -27,34 +27,40 @@ images:
     isCached: true
 
 related:
-  - title: "India's Infosys unveils AI platform"
-    excerpt: "India's second-largest software services exporter Infosys Ltd said on Tuesday it launched a platform called Infosys Topaz for generative artificial intelligence (AI)."
-    publishedDateTime: 2023-05-23T08:40:00Z
-    webUrl: "https://www.reuters.com/technology/indias-infosys-unveils-ai-platform-2023-05-23/"
+  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
+    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
+    publishedDateTime: 2023-05-25T15:59:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-ai-around-the-world-opportunities-key-regions-hurdles-maturity-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-ai-around-the-world-opportunities-key-regions-hurdles-maturity-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-around-the-world-opportunities-key-regions-hurdles-maturity-2023-may?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
     images:
-      - url: "https://www.reuters.com/resizer/ypbUZw9mJoBpsPgqYkSOHSM963A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IK7236HTRVIF5LHRAYWSUV2ZWA.jpg"
+      - url: "https://i.insider.com/6465284f7224930019f34a4f?width=1200&format=jpeg"
         width: 1200
-        height: 628
+        height: 900
         isCached: true
-  - title: "Infosys Announces AI-First Offering Topaz To Accelerate Business Value For Global Enterprises"
-    excerpt: "Infosys is taking an AI-first approach to its own transformation, the company said, adding that it is applying Topaz to bring the power of generative AI, analytics and cloud to accelerate its own market offering evolution,"
-    publishedDateTime: 2023-05-23T23:25:00Z
-    webUrl: "https://www.outlookindia.com/business/infosys-announces-ai-first-offering-topaz-to-accelerate-business-value-for-global-enterprises-news-288774"
+  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
+    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
+    publishedDateTime: 2023-05-23T17:59:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-ai-around-the-world-maturity-opportunities-key-regions-hurdles-2023-may"
     type: article
     provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 28
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Infosys_1665729477.jpg?utm_source=fb"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+  - title: "How AI can create new opportunities for the worldwide air cargo logistics industry"
+    excerpt: "Empowerment must be combined with continuous learning at all organizational levels. Preparing for AI means a move away from traditional training to learning."
+    publishedDateTime: 2023-05-25T13:42:00Z
+    webUrl: "https://www.scmr.com/article/how_ai_can_create_new_opportunities_for_the_worldwide_air_cargo_logistics_i"
+    type: article
+    provider:
+      name: Supply Chain Management Review
+      domain: scmr.com
+    quality: 11
 
 secured: "c3xAoUyBwKDfuMmogema+PNI6vsiMMAWeqJOxDLeHmId6TF6CmCXrwM4Qf9K9IRfhU7HBrd/4oth/T1HYcdBPLe609irY9YMleiD9iYvAaWfKbHEBU5+LID5w/THogTZtnwSYki+xRN4r7rDxMsYOHXErwMrIo2C/sRtFSuSUUr07aV0Zz/vhGqqwxyTJ9S0PnY3c9YqTbi7Uh4TCgtj9IGZne8KIPMb2KGwTlkIIqaom5rlSj/gsVSQhxMSPHVO9jcTgMVbdWgXFja+EjmrDQrnsmpTRSUO73ja/im9Y98ysNm/adFST4GJjjvYIqX79irEY300zmFK/QlEyzaCIeHG1IRMt4evO7sa7IYZdTM=;/Ud1zLVKW1ILQ/LnBIbLAg=="
 ---

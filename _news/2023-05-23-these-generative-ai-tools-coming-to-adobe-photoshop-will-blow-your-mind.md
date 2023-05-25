@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 793
         isCached: true
+  - title: "Google's Magic Compose is available now, bringing generative AI to Messages"
+    excerpt: "Want to compose a text message but don't know what to say? Google's Magic Compose can let AI handle it, rolling out now to Messages in beta."
+    publishedDateTime: 2023-05-25T17:01:00Z
+    webUrl: "https://www.androidauthority.com/google-magic-compose-3329382/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 65
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/05/Google-IO-2023-magic-compose.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Adobe introduces generative AI in Photoshop to transform professional creativity"
     excerpt: "Generative Fill combines Adobe Firefly with the editing power of Photoshop to expand the creative canvas for Adobe's millions of customers."
     publishedDateTime: 2023-05-23T19:51:00Z
@@ -159,15 +173,6 @@ related:
       name: AppleInsider
       domain: appleinsider.com
     quality: 17
-  - title: "Adobe Unveils Future of Creative Cloud With Generative AI as a Creative Co-Pilot in Photoshop"
-    excerpt: "Adobe (Nasdaq:ADBE) unveiled Generative Fill in Photoshop, bringing Adobe Firefly generative AI capabilities directly into design workflows. Th"
-    publishedDateTime: 2023-05-23T11:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230523005521/en/Adobe-Unveils-Future-of-Creative-Cloud-With-Generative-AI-as-a-Creative-Co-Pilot-in-Photoshop/"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 8
 
 secured: "ZFJpdHGJc25KZG1H6CkVZSFy9XzYiAU42RtY89Ag7xGS/ELR8gLl5o/qxYK9O4PUVHP7cprsyG0OLdbtsiju68YSujBtrVXJjtQSIko3zfqlBph9RLkHtIB2SPEPuDJ/xISgbF1f3It6x5CK7R0Fq/iF8DWayAgaRHrgGIFO/p1/Qcy5IWMUCQnrcvQY30jTqJlnJ7nHJ4+bFOPq9pfKYzgNk1RdQiGym0C6/xY4I+mJh8A2wYn2ePhXxaCoh4pKkt2pfwYRx0BhiVzEUJmqdPKSURgFWoH08XkSlqFNW8VGANK9vxnUkTboeQiHgFj03sDLSybYeknE11xQgjpQpouqiEbydBshoLJ7tIs25D+xHNUQNUltYPWADQyPa/4PSpRyOY+IHuQUh+7tsTCk25Qs5cL2AJSqO3D4azXrr30itYj5ioLYxSlO6yETNNZHxQVw2eJomdBv4EP6h2wRG1Q58oEWvrPv9rB7R3BnD7iCUMjIeorXrOGVd327AtKGK7NUeSRLmShwLazfRI+Mzw==;Kq6pbK3I3FTf3riUP80xLg=="
 ---

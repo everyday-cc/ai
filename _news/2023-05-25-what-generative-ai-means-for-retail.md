@@ -30,35 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Need For An Artificial Sensory Nervous System For Generative AI"
-    excerpt: "Demand for neural networks and LLMs will snowball in the coming years, and supply will develop to meet requirements."
-    publishedDateTime: 2023-05-23T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-for-an-artificial-sensory-nervous-system-for-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-for-an-artificial-sensory-nervous-system-for-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-for-an-artificial-sensory-nervous-system-for-generative-ai/amp/"
+  - title: "IBM Consulting unveils Center of Excellence for generative AI"
+    excerpt: "IBM Consulting has established a Center of Excellence for generative AI. It stands alongside IBM Consulting&#8217;s existing global AI and Automation practice, which includes 21,000 data and AI consultants who have conducted over 40,000 enterprise client engagements. The Center of Excellence (CoE) already"
+    publishedDateTime: 2023-05-25T16:00:53Z
+    webUrl: "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellence-for-generative-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: IBM
+      domain: ibm.com
+    quality: 119
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645ba61bd8a7fb17319c02fa/0x0.jpg?format=jpg&crop=3574,2012,x0,y467,safe&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "3 new ways generative AI can help you search"
-    excerpt: "Today, we’re starting to open up access to SGE (Search Generative Experience), one of our first experiments in Search Labs."
-    publishedDateTime: 2023-05-25T15:00:00Z
-    webUrl: "https://blog.google/products/search/search-generative-ai-tips/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 89
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/io23_BlogPostHero_Full_size_RUAz0GV.width-1300.jpg"
-        width: 1300
-        height: 541
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/IBM-Consulting-unveils-Center-of-Excellence-for-generative-AI-1-scaled.jpg"
+        width: 2560
+        height: 1280
         isCached: true
   - title: "Here’s Why Generative AI Isn’t Coming For Lawyers"
     excerpt: "We can all learn something by scraping legal information from the internet, but this doesn’t necessarily translate ... answer is analytical AI. Or rather, a combination of the two. Like generative AI, analytical AI is a large language model (LLM)."
@@ -76,146 +60,126 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Red Hat extends OpenShift for the generative AI era"
-    excerpt: "IBM's Red Hat business unit announces the expansion of its AI capabilities with the new Red Hat OpenShift AI technology."
-    publishedDateTime: 2023-05-24T05:19:00Z
-    webUrl: "https://venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/"
-    ampWebUrl: "https://venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/amp/"
+  - title: "Exploring the potential of generative AI in games"
+    excerpt: "Jon Radoff, Kylan Gibbs, Matt White and Hilary Mason sit down at the GamesBeat Summit to chat about generative AI in games."
+    publishedDateTime: 2023-05-23T23:40:00Z
+    webUrl: "https://venturebeat.com/games/exploring-the-potential-of-generative-ai-in-games/"
+    ampWebUrl: "https://venturebeat.com/games/exploring-the-potential-of-generative-ai-in-games/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/exploring-the-potential-of-generative-ai-in-games/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/Red-Hat-e1684880569131.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/AIpanel.jpg?w=1200&strip=all"
         width: 1200
-        height: 627
+        height: 673
         isCached: true
-  - title: "Meet Aria: Opera's new built-in generative AI assistant"
-    excerpt: "Aria joins ChatGPT, Facebook Messenger, TikTok, and WhatsApp on the Opera browser sidebar, as the company's own, natively built-in generative AI assistant. The new assistant has access to the internet, so its knowledge is not limited to content before 2021, like the free version of ChatGPT, though the ChatGPT Plus version will differ."
-    publishedDateTime: 2023-05-25T14:49:00Z
-    webUrl: "https://www.zdnet.com/article/meet-aria-operas-new-built-in-generative-ai-assistant/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/meet-aria-operas-new-built-in-generative-ai-assistant/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meet-aria-operas-new-built-in-generative-ai-assistant/"
+  - title: "IBM Shows Its Full-Stack Generative AI Offering Could Be A Force To Reckon With"
+    excerpt: "it hasn't been caught up in the consumer-facing AI frenzy driven by OpenAI, Microsoft, Google and others. However, over the years, IBM has significantly contributed to the field, most famously with the cognitive computing platform IBM Watson. For a ..."
+    publishedDateTime: 2023-05-25T16:57:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/25/ibm-shows-its-full-stack-generative-ai-offering-could-be-a-force-to-reckon-with/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/25/ibm-shows-its-full-stack-generative-ai-offering-could-be-a-force-to-reckon-with/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/25/ibm-shows-its-full-stack-generative-ai-offering-could-be-a-force-to-reckon-with/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 85
     images:
-      - url: "https://www.zdnet.com/a/img/resize/88280eaa243ed68b15169f1f8e362bcddd6ae1b8/2023/05/25/4f1566bb-6ea0-4367-9b71-4bb0cabb3172/aria-opera.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646f91be35b7dfa61705ca3b/0x0.jpg?format=jpg&crop=1073,604,x0,y80,safe&width=1200"
+        width: 1073
+        height: 604
         isCached: true
-  - title: "Snowflake acquires Neeva to add generative AI-based search to Data Cloud"
-    excerpt: "Neeva, which uses large language models to offer an AI-based search experience, is latest company to be picked up in Snowflake's acquisition spree."
-    publishedDateTime: 2023-05-24T21:16:00Z
-    webUrl: "https://www.infoworld.com/article/3697709/snowflake-acquires-neeva-to-add-generative-ai-based-search-to-data-cloud.html"
-    ampWebUrl: "https://www.infoworld.com/article/3697709/snowflake-acquires-neeva-to-add-generative-ai-based-search-to-data-cloud.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3697709/snowflake-acquires-neeva-to-add-generative-ai-based-search-to-data-cloud.amp.html"
+  - title: "How AI is being used for consumer education in banking"
+    excerpt: "Jennifer Fuller, US Financial Services Lead at PA Consulting, explains how fintech companies are using AI to improve consumer education and banking interactions."
+    publishedDateTime: 2023-05-23T19:38:00Z
+    webUrl: "https://www.paconsulting.com/newsroom/cmswire-how-ai-is-being-used-for-consumer-education-in-banking-23-may-2023"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 86
+      name: PA Consulting Group
+      domain: paconsulting.com
+    quality: 51
+  - title: "IBM doubles down on generative AI and hybrid cloud"
+    excerpt: "Given the hype around generative AI with the public preview of ChatGPT and the central role of Red Hat’s OpenShift as IBM’s platform modernization strategy, the choice of those themes was not surprising."
+    publishedDateTime: 2023-05-23T13:27:00Z
+    webUrl: "https://siliconangle.com/2023/05/23/ibm-doubles-generative-ai-hybrid-cloud/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2020/02/07/15/merger-100830660-large.jpg?auto=webp&quality=85,70"
-        width: 849
-        height: 565
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/watsonx.jpeg"
+        width: 1194
+        height: 875
         isCached: true
-  - title: "Infosys launches Topaz, an AI-first solution to accelerate business value through generative AI"
-    excerpt: "Infosys said organizations could harness the capabilities of cognitive solutions through its Infosys Topaz generative AI offering."
-    publishedDateTime: 2023-05-24T16:55:00Z
-    webUrl: "https://venturebeat.com/ai/infosys-launches-topaz-ai-first-solution-accelerate-business-value-generative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/infosys-launches-topaz-ai-first-solution-accelerate-business-value-generative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/infosys-launches-topaz-ai-first-solution-accelerate-business-value-generative-ai/amp/"
+  - title: "Mai Writer Uses Generative AI To Double Marketing Output and Conversions"
+    excerpt: "Kenn Costales, the Forbes 30 Under 30 Founder of AI startup Mai, is inviting copywriters, content creators, and digital marketing professionals to maximize their productivity"
+    publishedDateTime: 2023-05-23T16:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32535516/mai-writer-uses-generative-ai-to-double-marketing-output-and-conversions"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_285803778.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Generative AI Systems Aren't Just Open or Closed Source"
-    excerpt: "Conversation around generative AI tends to focus on whether its development is open or closed. It's more responsible to envision releases along a gradient."
-    publishedDateTime: 2023-05-24T11:00:00Z
-    webUrl: "https://www.wired.com/story/generative-ai-systems-arent-just-open-or-closed-source/"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+  - title: "Intel's Broad, Open HPC+AI Portfolio Powers Performance, Generative AI for Science"
+    excerpt: "At ISC'23, Intel details competitive performance for diverse HPC and AI workloads, from memory-bound to generative AI, and introduces new science LLM initiative to democratize AI. NEWS HIGHLIGHTS Inte"
+    publishedDateTime: 2023-05-22T16:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/b32513031/intels-broad-open-hpc-ai-portfolio-powers-performance-generative-ai-for-science"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32513031"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32513031"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/646d173beb3f06fa8140cea2/191:100/w_1280,c_limit/052323-ideas-gradient-ai.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "IT services firms leverage generative AI capabilities for clients"
-    excerpt: "Infosys Topaz leverages Infosys applied AI framework to build an AI-first core that empowers people to deliver cognitive solutions that accelerate value-creation."
-    publishedDateTime: 2023-05-24T06:08:00Z
-    webUrl: "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.html"
-    ampWebUrl: "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/5/15/w600X390/Artificial_Intelligence.png"
-        width: 600
-        height: 390
-        isCached: true
-  - title: "What does generative AI mean for health care? We asked the experts"
-    excerpt: "But many researchers in the field strike a much more optimistic tone when it comes to the technology and its potential in health care. Thomas Fuchs, who chairs the Department of Artificial Intelligence and Human Health at Mount Sinai in New York ..."
-    publishedDateTime: 2023-05-23T08:33:00Z
-    webUrl: "https://www.statnews.com/2023/05/23/chatgpt-generative-ai-research-medicine-health/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 41
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2023/05/stat_ai_YouShouldKnow_2000x1125-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Snowflake acquires search startup Neeva to leverage generative AI"
-    excerpt: "New Delhi, May 25 (IANS) Cloud data platform provider Snowflake has acquired search startup Neeva to accelerate search in the Data Cloud through generative AI. Neeva has created a unique and transformative search experience that leverages generative AI and ..."
-    publishedDateTime: 2023-05-25T05:47:00Z
-    webUrl: "https://glamsham.com/world/technology/snowflake-acquires-search-startup-neeva-to-leverage-generative-ai"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 37
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/05/635b94b7ecc224b4d4babeb2ba5a8d5a-3.jpg"
-        width: 647
-        height: 483
-        isCached: true
-  - title: "The Funded: 7 Bay Area companies picked for AWS Generative AI Accelerator"
-    excerpt: "Backed by Amazon Web Services Inc, the not-so-cleverly named Generative AI Accelerator on Wednesday said 21 companies ... Inc. dropped a reported $400 million in 2020 to buy the startup Giphy Inc., the well-known animated image and microvideo database."
-    publishedDateTime: 2023-05-24T21:18:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/05/24/the-funded-may-24-generative-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 33
-  - title: "Avatar animation, AI-powered video production companies among AWS’ first generative AI accelerator cohort"
-    excerpt: "Companies that employ generative artificial intelligence to create clips for social media ... more than 1,200 applications for the 10 spaces in the programme, prompting AWS to expand it to 21. The company will provide the cohort with the resources ..."
-    publishedDateTime: 2023-05-25T07:21:00Z
-    webUrl: "https://www.tvbeurope.com/media-management/avatar-animation-ai-powered-video-production-companies-among-aws-first-generative-ai-accelerator-cohort"
+  - title: "Tech Giants Trigger Generative AI Investment Boom"
+    excerpt: "From Microsoft to Amazon, Google to Meta, everyone’s in on the artificial intelligence hype, and the money’s following suit."
+    publishedDateTime: 2023-05-24T13:59:00Z
+    webUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n=#!"
     type: article
     provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
+      name: Variety
+      domain: variety.com
+    quality: 19
+  - title: "Apple Ramps Up Hiring of Generative AI Experts"
+    excerpt: "Apple is hiring for at least a dozen new experts in generative artificial intelligence amid rumors that the company is stepping up its work on AI."
+    publishedDateTime: 2023-05-22T12:51:00Z
+    webUrl: "https://www.macrumors.com/2023/05/22/apple-ramps-up-hiring-of-ai-experts/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
     quality: 17
+  - title: "TCS announces generative AI pact with Google Cloud, new offering for enterprises"
+    excerpt: "Tata Consultancy Services TCS on Monday announced an expanded partnership with Google Cloud and the launch of its new offering -- TCS Generative AI which leve"
+    publishedDateTime: 2023-05-22T13:20:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273838959/tcs-announces-generative-ai-pact-with-google-cloud-new-offering-for-enterprises"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 14
+  - title: "Intel's Broad, Open HPC+AI Portfolio Powers Performance, Generative AI for Science"
+    excerpt: "View the full release here:  \"Intel is committed to serving the HPC and AI community with products that help customers and end-users make breakthrough discoveries faster,\" said Jeff McVeigh, Intel corporate vice president and general manager of the Super Compute Group."
+    publishedDateTime: 2023-05-22T18:55:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/22/9818599.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
+  - title: "Adobe Unveils Future of Creative Cloud With Generative AI as a Creative Co-Pilot in Photoshop"
+    excerpt: "Adobe (Nasdaq:ADBE) unveiled Generative Fill in Photoshop, bringing Adobe Firefly generative AI capabilities directly into design workflows. Th"
+    publishedDateTime: 2023-05-23T11:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230523005521/en/Adobe-Unveils-Future-of-Creative-Cloud-With-Generative-AI-as-a-Creative-Co-Pilot-in-Photoshop/"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 8
 
 secured: "bw8yQy/OiLCh5FDgYrsabgmVQKkQ9HrN0ybixp+fnt9Jfkx+pr7BtFifkvsJ9atTD+NZO8OBhBtWMZ3ho3t7Xb9un9eFxpyenxtJgYnD9uQqeT4ZzWGFYtZazbfZEsf+Sy7V2XxQsYsu/thLdiTkBBJPaKENkHmnSnV3pYlMTN9VO5PhcrW+R2cQEATakORa5z26+G0ichciNpX6Z9x0wwrtFEOSnoqU+sUlwEAvtAsa5OrhcYX+Q9cpQI/SI69LHJvoyUK/hD4Ws/4DQEhqPOihzVc3rQSc35+S6Ep9dxWKVsXZ4mw31h+QeSDBVZAvywpkpyqSlc0Jkl/TaKTqiZ3b8oVbrqJANsmAm15fZnw=;va+Cr5OOKd6sDSwRERBvMQ=="
 ---

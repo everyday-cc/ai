@@ -2,6 +2,213 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-26-nasdaq-jumps-on-ai-optimism-dow-drops-on-debt-ceiling-angst.md",
+      "title": "Nasdaq jumps on AI optimism, Dow drops on debt ceiling angst",
+      "excerpt": "U.S. stocks were trading mostly higher on Thursday as Nvidia Corp.'s earnings report sent shares of the chip maker soaring and the broader Nasdaq along",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1?mod=joseph-adinolfi",
+      "originalUrl": "https://www.marketwatch.com/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1?mod=joseph-adinolfi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-610305/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1",
+      "publishedDateTime": "2023-05-25T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-build-a-powerful-question-answering-bot-with-amazon-sagemaker-amazon-opensearch-service-streamlit-and-langchain.md",
+      "title": "Build a powerful question answering bot with Amazon SageMaker, Amazon OpenSearch Service, Streamlit, and LangChain",
+      "excerpt": "One of the most common applications of generative AI and large language models (LLMs) in an enterprise environment is answering questions based on the enterprise’s knowledge corpus. Amazon Lex provides the framework for building AI based chatbots. Pre-trained foundation models (FMs) perform well at natural",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-powerful-question-answering-bot-with-amazon-sagemaker-amazon-opensearch-service-streamlit-and-langchain/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-powerful-question-answering-bot-with-amazon-sagemaker-amazon-opensearch-service-streamlit-and-langchain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/25/build-a-powerful-question-answer-bot.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T09:46:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-ibm-consulting-unveils-center-of-excellence-for-generative-ai.md",
+      "title": "IBM Consulting unveils Center of Excellence for generative AI",
+      "excerpt": "IBM Consulting has established a Center of Excellence for generative AI. It stands alongside IBM Consulting&#8217;s existing global AI and Automation practice, which includes 21,000 data and AI consultants who have conducted over 40,000 enterprise client engagements. The Center of Excellence (CoE) already",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellence-for-generative-ai/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellence-for-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/IBM-Consulting-unveils-Center-of-Excellence-for-generative-AI-1-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T09:00:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-chatgpt-and-generative-ai-around-the-world-maturity-opportunities-and-hurdles-in-key-regions.md",
+      "title": "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions",
+      "excerpt": "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatgpt-ai-around-the-world-opportunities-key-regions-hurdles-maturity-2023-may",
+      "originalUrl": "https://www.businessinsider.com/chatgpt-ai-around-the-world-opportunities-key-regions-hurdles-maturity-2023-may",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6465284f7224930019f34a4f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chatgpt-ai-around-the-world-opportunities-key-regions-hurdles-maturity-2023-may?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-around-the-world-opportunities-key-regions-hurdles-maturity-2023-may?amp",
+      "publishedDateTime": "2023-05-25T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-get-insights-on-your-users-search-behavior-from-amazon-kendra-using-an-ml-powered-serverless-stack.md",
       "title": "Get insights on your user’s search behavior from Amazon Kendra using an ML-powered serverless stack",
       "excerpt": "Amazon Kendra is a highly accurate and intelligent search service that enables users to search unstructured and structured data using natural language processing (NLP) and advanced search algorithms. With Amazon Kendra, you can find relevant answers to your questions quickly, without sifting through",
@@ -52,6 +259,58 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-ai-is-helping-create-the-chips-that-design-ai-chips.md",
+      "title": "AI Is Helping Create the Chips That Design AI Chips",
+      "excerpt": "As artificial intelligence drives demand for more advanced semiconductors, new techniques in AI are becoming crucial to continued progress in chip manufacturing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-05-25/nvidia-s-culitho-has-ai-helping-design-chips",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-05-25/nvidia-s-culitho-has-ai-helping-design-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXkCg2bS7Npo/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -116,7 +375,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 329,
+      "heat": 349,
       "tags": null,
       "images": [
         {
@@ -364,7 +623,7 @@
       "originalUrl": "https://us.cnn.com/2023/05/25/tech/nvidia-earnings-ai/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 414,
+      "heat": 464,
       "tags": null,
       "images": [
         {
@@ -563,6 +822,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-25-americas-math-coach-is-teaching-fifth-graders-to-outsmart-ai.md",
+      "title": "America’s Math Coach Is Teaching Fifth-Graders to Outsmart AI",
+      "excerpt": "This professor is traveling the country with simple advice for an uncertain future: Be more human.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/chatgpt-ai-math-po-shen-loh-1e9f80dc",
+      "originalUrl": "https://www.wsj.com/articles/chatgpt-ai-math-po-shen-loh-1e9f80dc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-788010/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-how-ai-is-changing-automation-testing-in-quality-assurance.md",
       "title": "How AI Is Changing Automation Testing In Quality Assurance",
       "excerpt": "One major way AI automatic testing of software has changed the process of quality assurance is by speeding up the entire process. With AI, there is no need to make manual calculations or go through the process of manually testing the software over and over again.",
@@ -622,7 +933,7 @@
       "originalUrl": "https://www.marketwatch.com/story/uipaths-stock-is-down-on-soft-revenue-guidance-4512792e?mod=jon-swartz",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -954,299 +1265,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-ai-could-grow-so-powerful-it-replaces-experienced-professionals-within-10-years-sam-altman-warns.md",
-      "title": "AI could grow so powerful it replaces experienced professionals within 10 years, Sam Altman warns",
-      "excerpt": "Tech leaders, such as OpenAI's Sam Altman and Google's Sundar Pichai, posted essays this week, arguing in favor of regulating artificial intelligence as the tech becomes smarter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/ai-grow-powerful-replaces-experienced-professionals-10-years-sam-altman-warns",
-      "originalUrl": "https://www.foxnews.com/tech/ai-grow-powerful-replaces-experienced-professionals-10-years-sam-altman-warns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/add1ff58-28cd-4879-ab08-64d30b2db0e9/69b5d999-1496-431d-b86e-8ac249a316cc/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/ai-grow-powerful-replaces-experienced-professionals-10-years-sam-altman-warns.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-grow-powerful-replaces-experienced-professionals-10-years-sam-altman-warns.amp",
-      "publishedDateTime": "2023-05-24T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-singapores-ai-based-marketing-unicorn-raises-105-million-to-finance-ma.md",
-      "title": "Singapore’s AI-Based Marketing Unicorn Raises $105 Million To Finance M&A",
-      "excerpt": "Insider, an AI-powered marketing platform, said it has raised another $105 million from Qatar Investment Authority (QIA) and Istanbul-based buyout firm Esas Private Equity. The company said its latest funding round gives it a valuation of almost $2 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ardianwibisono/2023/05/25/singapores-ai-based-marketing-unicorn-raises-105-million-to-finance-ma/",
-      "originalUrl": "https://www.forbes.com/sites/ardianwibisono/2023/05/25/singapores-ai-based-marketing-unicorn-raises-105-million-to-finance-ma/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646ed3d9a2eb01ce6303a6f8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ardianwibisono/2023/05/25/singapores-ai-based-marketing-unicorn-raises-105-million-to-finance-ma/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ardianwibisono/2023/05/25/singapores-ai-based-marketing-unicorn-raises-105-million-to-finance-ma/amp/",
-      "publishedDateTime": "2023-05-24T22:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-bank-fintech-collaboration-to-improve-financial-services.md",
-      "title": "Bank, fintech collaboration to improve financial services",
-      "excerpt": "A strategic partnership of banks, fintech and mobile financial services (MFS) could boost Bangladesh’s banking sector by delivering better, cheaper and more inclusive services, according to the top executives of some lenders in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886",
-      "originalUrl": "https://www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thedailystar.net/sites/default/files/uploads/2023/05/25/untitled_design_-_2023-05-25t114842.157.png",
-          "width": 750,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886?amp",
-      "publishedDateTime": "2023-05-24T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-the-trump-desantis-showdown-is-now-official-and-artificial-intelligence-is-right-in-the-middle-of-it.md",
-      "title": "The Trump-DeSantis showdown is now official, and artificial intelligence is right in the middle of it",
-      "excerpt": "In a video posted by Trump, DeSantis and Elon Musk are joined on Twitter Spaces by Adolf Hitler, the FBI, Dick Cheney, George Soros, and Klaus Schwab.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-ai-video-hitler-fbi-devil-ron-desantis-elon-musk-2023-5",
-      "originalUrl": "https://www.businessinsider.com/trump-ai-video-hitler-fbi-devil-ron-desantis-elon-musk-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/646ee4a950731c001938adcc?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-ai-video-hitler-fbi-devil-ron-desantis-elon-musk-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ai-video-hitler-fbi-devil-ron-desantis-elon-musk-2023-5?amp",
-      "publishedDateTime": "2023-05-24T21:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-heres-whats-missing-from-the-white-houses-national-ai-strategy.md",
-      "title": "Here’s what’s missing from the White House’s National AI Strategy",
-      "excerpt": "The White House announced new National AI Strategy efforts. Here's what's missing, according to AI policy expert Sarah Myers West.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/heres-whats-missing-from-the-white-houses-national-ai-strategy/",
-      "originalUrl": "https://venturebeat.com/ai/heres-whats-missing-from-the-white-houses-national-ai-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-76.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/heres-whats-missing-from-the-white-houses-national-ai-strategy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/heres-whats-missing-from-the-white-houses-national-ai-strategy/amp/",
-      "publishedDateTime": "2023-05-24T20:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-google-deepminds-ai-is-generating-descriptions-for-youtube-shorts.md",
-      "title": "Google DeepMind’s AI is generating descriptions for YouTube Shorts",
-      "excerpt": "Google recently combined DeepMind and Brain teams into one big AI team called Google DeepMind. The new team has now shared details on its purported first work together. The group details how one of its visual language models (VLM) is being used to generate descriptions for YouTube Shorts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgetsnow.com/tech-news/google-deepminds-ai-is-generating-descriptions-for-youtube-shorts/articleshow/100487884.cms",
-      "originalUrl": "https://www.gadgetsnow.com/tech-news/google-deepminds-ai-is-generating-descriptions-for-youtube-shorts/articleshow/100487884.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-100487884,imgsize-24486,width-800/100487884.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/google-deepminds-ai-is-generating-descriptions-for-youtube-shorts/amp_articleshow/100487884.cms",
-      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/google-deepminds-ai-is-generating-descriptions-for-youtube-shorts/amp_articleshow/100487884.cms",
-      "publishedDateTime": "2023-05-24T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gadgets Now",
-        "domain": "gadgetsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-26-nasdaq-jumps-on-ai-optimism-dow-drops-on-debt-ceiling-angst.md",
+      "title": "Nasdaq jumps on AI optimism, Dow drops on debt ceiling angst",
+      "excerpt": "U.S. stocks were trading mostly higher on Thursday as Nvidia Corp.'s earnings report sent shares of the chip maker soaring and the broader Nasdaq along",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1?mod=joseph-adinolfi",
+      "originalUrl": "https://www.marketwatch.com/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1?mod=joseph-adinolfi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-610305/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1",
+      "publishedDateTime": "2023-05-25T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-ai-is-helping-create-the-chips-that-design-ai-chips.md",
+      "title": "AI Is Helping Create the Chips That Design AI Chips",
+      "excerpt": "As artificial intelligence drives demand for more advanced semiconductors, new techniques in AI are becoming crucial to continued progress in chip manufacturing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-05-25/nvidia-s-culitho-has-ai-helping-design-chips",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-05-25/nvidia-s-culitho-has-ai-helping-design-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXkCg2bS7Npo/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-nvidia-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge.md",
       "title": "Nvidia is poised to join $1 trillion club thanks to AI-driven surge",
       "excerpt": "Thanks to a seemingly insatiable demand for AI chips, Nvidia saw its stock soar nearly 30% after yesterday's financial results.",
@@ -63,7 +167,7 @@
       "originalUrl": "https://us.cnn.com/2023/05/25/tech/nvidia-earnings-ai/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 414,
+      "heat": 464,
       "tags": null,
       "images": [
         {
@@ -1355,110 +1459,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-this-web3-ready-beauty-brand-is-co-created-by-its-community-and-produced-using-ai-tech.md",
-      "title": "This Web3 Ready Beauty Brand Is Co-Created By Its Community And Produced Using AI Tech",
-      "excerpt": "Web3 ready beauty brand KIKI is co-created by its community who can vote on the products that go to market and is also made using AI tech",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/05/16/this-web3-ready-beauty-brand-is-co-created-by-its-community-and-produced-using-ai-tech/",
-      "originalUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/05/16/this-web3-ready-beauty-brand-is-co-created-by-its-community-and-produced-using-ai-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646234f2e8052ab0dec2ff1a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2023/05/16/this-web3-ready-beauty-brand-is-co-created-by-its-community-and-produced-using-ai-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephaniehirschmiller/2023/05/16/this-web3-ready-beauty-brand-is-co-created-by-its-community-and-produced-using-ai-tech/amp/",
-      "publishedDateTime": "2023-05-15T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-bluesky-digital-assets-corp-announces-intent-to-repurpose-its-gpu-assets-based-on-ai-demand.md",
-      "title": "Bluesky Digital Assets Corp., Announces Intent to Repurpose its GPU Assets Based on AI Demand",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Toronto, Ontario, May 15, 2023 (Newsfile Corp via COMTEX) -- Toronto, Ontario--(Newsfile Corp. - May 15, 2023) - Bluesky Digital Assets Corp., (CSE: BTC) (OTCQB: BTCWF ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/bluesky-digital-assets-corp-announces-intent-to-repurpose-its-gpu-assets-based-on-ai-demand-2023-05-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/bluesky-digital-assets-corp-announces-intent-to-repurpose-its-gpu-assets-based-on-ai-demand-2023-05-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T19:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

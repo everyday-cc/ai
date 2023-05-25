@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/24/chatgpt-everything-you-need-to-kno
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
 type: article
 quality: 89
-heat: 329
+heat: 349
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/05/Screenshot-2023-05-23-at-12.41.47-PM.jpg?resize=1200,676"
         width: 1200
         height: 676
+        isCached: true
+  - title: "5 Artificial Intelligence Use Cases More Promising Than ChatGPT"
+    excerpt: "Spending on AI-centric systems will exceed a staggering $300 billion by 2026. Here are five use cases more promising than ChatGPT you may not be aware of."
+    publishedDateTime: 2023-05-25T16:20:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2023/05/25/5-artificial-intelligence-use-cases-more-promising-than-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/sap/2023/05/25/5-artificial-intelligence-use-cases-more-promising-than-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/05/25/5-artificial-intelligence-use-cases-more-promising-than-chatgpt/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646f891710231fc65d161774/0x0.jpg?format=jpg&width=1200"
+        width: 800
+        height: 800
         isCached: true
   - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
     excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
@@ -155,6 +171,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google Search starts rolling out ChatGPT-style generative AI results"
+    excerpt: "One example screenshot of a \"Bluetooth speaker\" search on desktop shows a big row of \"Sponsored\" shopping ads, then the generative AI results start to show up in a big blue box about halfway down the first page. The blue box summarizes a bunch of ..."
+    publishedDateTime: 2023-05-25T17:41:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/05/google-search-starts-rolling-out-chat-gpt-style-generative-ai-results/"
+    ampWebUrl: "https://arstechnica.com/gadgets/2023/05/google-search-starts-rolling-out-chat-gpt-style-generative-ai-results/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/05/google-search-starts-rolling-out-chat-gpt-style-generative-ai-results/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
   - title: "ChatGPT-maker warns it might leave EU over planned AI law"
     excerpt: "He also met Prime Minister Rishi Sunak and the heads of AI companies DeepMind and Anthropic to discuss the technology's risks - from disinformation to national security and even \""
     publishedDateTime: 2023-05-25T13:11:00Z
@@ -346,6 +373,6 @@ related:
       domain: krqe.com
     quality: 0
 
-secured: "z3FKZS6mh9CA3WJm+KJ/iQru37szOmJWy3bMcPXDzjhPxutJz71ebXssuEhFhAHht9+7Vjh1kbUIZBn+o7aLiW4mvqc43fqjLsHdwDfVoJ1NEk8l8aORcx9xy81kz9R2EWhVf3gjPjFv81XKbsa36rcLHJUGJ4tc8ro+4cW7qV8pKwCEY+KpxSyuwtJTyQM+6P9+ej4FlZBLFHxaGd6ca39TIkYxCQpHVRprCFWGKMO/l87FckjCdAiibOPOgKQsWCw45Llyv2BJzYt6cuxNIdof4J5AQ03FtG5TRfnl4BOfZ9IHWegbZ4DbVzFTG9pG61VWWdfGKaiNayGByvQXD02TL7JOIWwlO1EgGS6Xzfc=;lIw5ZAShs2lTtRMyVI349g=="
+secured: "016/Crwg4RLMRpTIefhLArJJhshnTCjibFpTyCx2XtWLRzE4ivTv3Bc3eTa2CpRM3ZR1zVJavQir8RWD1ZTWrQrRjYR3lZimv7UkooIudb281yXPJH762S1FvMVrypkt0/2fa3/1iLcRh+ZMZAajwZ3X3EkDoNde07nqV4tLMn11UP4MTq3B3sf4spMawtXbhsN+c5v09uTW9rh5/+P3nXRZFr+q/3H5KsHVgz4P2MH2MEFWRoWeygTxWwyygJ+M1FCqM6j/UBCtrtOpcJO8N5lbnLbfkivwM//gXUzZ9d3StelBbMDVRXSuy90+4AWLnSSyVYUUGOFd3CgoZSOHIiMqjpPeCJhw2p/zIbXvkpDKdYiUyT+YXJV/rtK2rz4jYFxOiiQy240UDlv4Nd2nfewCm58PTNGL7ictVGN4DF9b3ufXk+T8QRxOHoPzJ9y69kYYByVxJ+JTepxFJlIRYJJBU5hXzGIRHbaIGZtbTxBNODKeG7Av0RDLuFn7ftFw9iP+Ji94jMHpsRyhaBk48A==;+XGlnOGmoRyt/+YHBdqA8Q=="
 ---
 

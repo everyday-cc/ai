@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/23/hear-how-sensi-ai-is-building-ai-f
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/hear-how-sensi-ai-is-building-ai-for-remote-patient-monitoring/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "How AI is being used for consumer education in banking"
-    excerpt: "Jennifer Fuller, US Financial Services Lead at PA Consulting, explains how fintech companies are using AI to improve consumer education and banking interactions."
-    publishedDateTime: 2023-05-23T19:38:00Z
-    webUrl: "https://www.paconsulting.com/newsroom/cmswire-how-ai-is-being-used-for-consumer-education-in-banking-23-may-2023"
-    type: article
-    provider:
-      name: PA Consulting Group
-      domain: paconsulting.com
-    quality: 51
 
 secured: "1QoETqIjHwYYgKh6dBnwRoCJMq01jGCrUuoWAcExnCfow/WkwT6lmyTFYrFFyUBl55u1RO4r0Z184aLn8wDORVVVW41u4x1+XfeugW0tlLKUpdX+OJLbqLbfD3Ww8Q5LFGXl5/WG4LanJuuKkYhWw4U0alxZaOBQ6H4LqtANTvk5QFZ0LHy1ZnDLZiz0IWB64xx4BUPd3n7vbZdwY4SmnoXbvNaQM567p/uZ1vjEHbK0GxUoESW4x0W3ccBmjhIc++G67Ku0lYM6TRPn7mqx/xeqbZ2nt0IDWxGro8qzxjjGL9DI13WPKYhgPY48ZKewmxNvXd35kRSgcDSK+HhEEPB6VlF7B1xlcrsr07Amruv9W/36/r3jHc0lLo7xaW0wMY7MUY8rUpBsanmt2Z9ss69w1pxZsJzOatUFF0Gkdy8/Zr+qJUbIrStKtDa37eBkoiW3MMCEn00tr+bVkbPLNN34tglU6B1brTbHvbqr7PM7CCg3zVmStCqycSRIwCqz5FJNA5f+IX6e5tJIOzr26w==;E6LRLvt80lZu8ZqecpmSgA=="
 ---

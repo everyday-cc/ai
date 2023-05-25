@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mank
 cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -69,15 +69,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Mai Writer Uses Generative AI To Double Marketing Output and Conversions"
-    excerpt: "Kenn Costales, the Forbes 30 Under 30 Founder of AI startup Mai, is inviting copywriters, content creators, and digital marketing professionals to maximize their productivity"
-    publishedDateTime: 2023-05-23T16:34:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32535516/mai-writer-uses-generative-ai-to-double-marketing-output-and-conversions"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
 
 secured: "f3UhUFYklc5JZqwSgTdeiyw0VeZ97HDzlvfcp2n1/t0FdkXjg+309niqE3zMc/UAwjR/KzwfJ8grx44Wkify+6T86xbSZwtXTYXiPax1lVk8q+csGU7IM7JTsSmOTN9skn4X15cParg9GYZHUMOQ2y20cygbl6v+eDz8exbS9yOZo8Fso/61V0VLpqBvV/9V3HrnLtVqILv3sueJDY9Qg6f3hj1H4uMVoILdcQ3NlHSwJk5LKE8ktZUJ7KtjIlZrUCqcnJCHq++2ccCIfZmqwlShgj0SfVEMaGO1389d6YT1BqUvsOkQOdpE+typtYHdJaW417OZCHwfLGZnbXAm7Lxt3lawTtGvsS/6bxK1tofvEHjVBRGEjzHOKrzZZClsWFmOpBfVjCgLSEu8YIRwtJ4B8Cwyx0q5fUitQWFyi77En78v5JK80SkmS74OdI+iE4+jdM2XOGW3h4jvNfoUHlT77Fr85/Moy2WrLNkd6acagBsY7AZt0jkY/+O7dwcWgDilHdVNh9xd/Kh/1WCGSg==;AIjbpiYD+Y/8+A9m6jbCsg=="
 ---

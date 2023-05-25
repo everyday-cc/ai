@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "5 Artificial Intelligence Use Cases More Promising Than ChatGPT"
+    excerpt: "Spending on AI-centric systems will exceed a staggering $300 billion by 2026. Here are five use cases more promising than ChatGPT you may not be aware of."
+    publishedDateTime: 2023-05-25T16:20:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2023/05/25/5-artificial-intelligence-use-cases-more-promising-than-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/sap/2023/05/25/5-artificial-intelligence-use-cases-more-promising-than-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/05/25/5-artificial-intelligence-use-cases-more-promising-than-chatgpt/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646f891710231fc65d161774/0x0.jpg?format=jpg&width=1200"
+        width: 800
+        height: 800
+        isCached: true
   - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
     excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
     publishedDateTime: 2023-05-22T16:30:00Z
@@ -165,6 +181,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google Search starts rolling out ChatGPT-style generative AI results"
+    excerpt: "One example screenshot of a \"Bluetooth speaker\" search on desktop shows a big row of \"Sponsored\" shopping ads, then the generative AI results start to show up in a big blue box about halfway down the first page. The blue box summarizes a bunch of ..."
+    publishedDateTime: 2023-05-25T17:41:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/05/google-search-starts-rolling-out-chat-gpt-style-generative-ai-results/"
+    ampWebUrl: "https://arstechnica.com/gadgets/2023/05/google-search-starts-rolling-out-chat-gpt-style-generative-ai-results/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/05/google-search-starts-rolling-out-chat-gpt-style-generative-ai-results/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
   - title: "ChatGPT-maker warns it might leave EU over planned AI law"
     excerpt: "He also met Prime Minister Rishi Sunak and the heads of AI companies DeepMind and Anthropic to discuss the technology's risks - from disinformation to national security and even \""
     publishedDateTime: 2023-05-25T13:11:00Z

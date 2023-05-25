@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-25T13:12:00Z
 originalUrl: "https://www.geeky-gadgets.com/build-ai-apps-and-copilots-25-05-2023/"
 webUrl: "https://www.geeky-gadgets.com/build-ai-apps-and-copilots-25-05-2023/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/how-to-build-AI-apps-and-copilots.jpg"
+    width: 700
+    height: 489
+    isCached: true
 
 related:
   - title: "Microsoft makes a push for AI responsibility and safety through Azure"
@@ -299,6 +305,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft’s President Backs New Agency to Regulate ChatGPT, Other AI Systems"
+    excerpt: "Sam Altman, CEO of ChatGPT creator OpenAI, touted the benefits of AI and acknowledged potential downsides of the technology during a Senate subcommittee hearing on Tuesday. Photo: Patrick Semansky/Associated Press WASHINGTON—Microsoft President Brad ..."
+    publishedDateTime: 2023-05-25T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/microsofts-president-backs-new-agency-to-regulate-chatgpt-other-ai-systems-c847bae0"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 81
+    images:
+      - url: "https://images.wsj.net/im-787791/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Microsoft’s Azure AI Studio lets developers build their own AI ‘copilots’"
     excerpt: "Microsoft is introducing several new features in Azure AI Studio aimed at enabling companies to build and deploy fine-tuned AI 'copilots.'"
     publishedDateTime: 2023-05-23T16:00:00Z
@@ -323,6 +343,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/646ce9abf88059e0ae467d31/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 797
+        isCached: true
+  - title: "5 points to govern AI: Microsoft’s recommended guardrails for the future"
+    excerpt: "This post is the foreword written by Brad Smith for Microsoft’s report Governing AI: A Blueprint for the Future. The first part of the report details five ways governments should consider policies, laws,"
+    publishedDateTime: 2023-05-25T17:27:00Z
+    webUrl: "https://wraltechwire.com/2023/05/25/5-points-to-govern-ai-microsofts-recommended-guardrails-for-the-future/"
+    ampWebUrl: "https://wraltechwire.com/2023/05/25/5-points-to-govern-ai-microsofts-recommended-guardrails-for-the-future/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/25/5-points-to-govern-ai-microsofts-recommended-guardrails-for-the-future/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 75
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
+        width: 772
+        height: 434
         isCached: true
   - title: "Microsoft brings latest innovations in cloud, data & AI to COMEX 2023"
     excerpt: "Through the Azure platform, the intelligent Microsoft Cloud offers public and private enterprises the ability to deliver new business models and boost the speed of innovation and time to market. Microsoft’s AI technologies are protected by industry ..."
@@ -700,6 +736,17 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "Microsoft calls for a new U.S. agency and licensing for AI"
+    excerpt: "Smith compared AI to the printing press, elevators and food safety for ... His call for a new agency echoes proposals from OpenAI, the startup behind the wildly popular ChatGPT, which received a $10 billion investment from Microsoft."
+    publishedDateTime: 2023-05-25T17:37:00Z
+    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-calls-for-a-new-u-s-agency-and-licensing-for-ai/"
+    ampWebUrl: "https://www.seattletimes.com/business/microsoft/microsoft-calls-for-a-new-u-s-agency-and-licensing-for-ai/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft/microsoft-calls-for-a-new-u-s-agency-and-licensing-for-ai/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
   - title: "Google just revealed what its new generative AI ads will look like as it races to keep up with Microsoft and Amazon in the AI gold rush"
     excerpt: "Google is bringing generative AI to its ad products. But major competitors like Amazon and Microsoft are also racing to release similar ad technology."
     publishedDateTime: 2023-05-23T15:57:00Z
@@ -1030,6 +1077,6 @@ related:
       domain: finanznachrichten.de
     quality: 15
 
-secured: "YtS1T+xcx2aVAqvgu5FGx/IVsB2O/BfaqDr/SkD1gHnrt6VWXBNIG3UZoOQcyh5afjjc0Gv98X6u3KqpBebRoqiLNypKCpJa6bmyXkSyYOL8683zCLdPbkE6par8SH3RA1S+71dqbTaKEfUZuyMu6Dw77MmfezCi+Z84XkBYSqOEKNDt2Myk64SBqm87TmpW4+wRzTzd6LbglCPx0SNjtogNqXRDMe9SjQBWGxCA/tMjXJA3ml8tqP2OIAJrJHe2oGM73MV91qBEUF1j9tpCxyO8jLb0070+eaOuZkGOvkB5QVbed1ovVsY+rejtR9fy3KsQNa8LTJhAINpp6Lwu7poyDlFCFn5yJj8VT3/ziY8=;4vt0NSYfECxe89e89dv2dw=="
+secured: "u1G9sPcUs6NsoxYAKjCThmNkxkyd/Hp98amaJE3a8MKTr2aHdhwBol5yrStg8zk2/cBLCqhIGGuUynDecmpL/mO/qwEpgyMAkuvoTqaFukKEYaRWN7NtPiL0tiF3TM1rAW+kLiO1l8kVUjdIfxHeZ9yZD96feEKGuGLsQXvIX/k6x24s8IVsDfZuhqFPevXxw/CEDUWmeiQcaZH56vJjsFDiMft3kC/Dqv3VOriXvWCpZwZdJNqqePlrCKg2azfjSVMiKLunjDbqEwhH3GIVwUQ3y3lj4WCORMEcAuOHX8g6IJi0+KlNHP+6lhKXq6bSQvwdiBN3wpQUTIQsd+wvWsfNUEdRxWtVrL0DFA16Suo=;IGYFOEA72xqoFWeMGYz5cg=="
 ---
 

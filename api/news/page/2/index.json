@@ -2,6 +2,299 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-25-ai-could-grow-so-powerful-it-replaces-experienced-professionals-within-10-years-sam-altman-warns.md",
+      "title": "AI could grow so powerful it replaces experienced professionals within 10 years, Sam Altman warns",
+      "excerpt": "Tech leaders, such as OpenAI's Sam Altman and Google's Sundar Pichai, posted essays this week, arguing in favor of regulating artificial intelligence as the tech becomes smarter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/ai-grow-powerful-replaces-experienced-professionals-10-years-sam-altman-warns",
+      "originalUrl": "https://www.foxnews.com/tech/ai-grow-powerful-replaces-experienced-professionals-10-years-sam-altman-warns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/add1ff58-28cd-4879-ab08-64d30b2db0e9/69b5d999-1496-431d-b86e-8ac249a316cc/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/ai-grow-powerful-replaces-experienced-professionals-10-years-sam-altman-warns.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-grow-powerful-replaces-experienced-professionals-10-years-sam-altman-warns.amp",
+      "publishedDateTime": "2023-05-24T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-singapores-ai-based-marketing-unicorn-raises-105-million-to-finance-ma.md",
+      "title": "Singapore’s AI-Based Marketing Unicorn Raises $105 Million To Finance M&A",
+      "excerpt": "Insider, an AI-powered marketing platform, said it has raised another $105 million from Qatar Investment Authority (QIA) and Istanbul-based buyout firm Esas Private Equity. The company said its latest funding round gives it a valuation of almost $2 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ardianwibisono/2023/05/25/singapores-ai-based-marketing-unicorn-raises-105-million-to-finance-ma/",
+      "originalUrl": "https://www.forbes.com/sites/ardianwibisono/2023/05/25/singapores-ai-based-marketing-unicorn-raises-105-million-to-finance-ma/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646ed3d9a2eb01ce6303a6f8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ardianwibisono/2023/05/25/singapores-ai-based-marketing-unicorn-raises-105-million-to-finance-ma/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ardianwibisono/2023/05/25/singapores-ai-based-marketing-unicorn-raises-105-million-to-finance-ma/amp/",
+      "publishedDateTime": "2023-05-24T22:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-bank-fintech-collaboration-to-improve-financial-services.md",
+      "title": "Bank, fintech collaboration to improve financial services",
+      "excerpt": "A strategic partnership of banks, fintech and mobile financial services (MFS) could boost Bangladesh’s banking sector by delivering better, cheaper and more inclusive services, according to the top executives of some lenders in the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886",
+      "originalUrl": "https://www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thedailystar.net/sites/default/files/uploads/2023/05/25/untitled_design_-_2023-05-25t114842.157.png",
+          "width": 750,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886?amp",
+      "publishedDateTime": "2023-05-24T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-the-trump-desantis-showdown-is-now-official-and-artificial-intelligence-is-right-in-the-middle-of-it.md",
+      "title": "The Trump-DeSantis showdown is now official, and artificial intelligence is right in the middle of it",
+      "excerpt": "In a video posted by Trump, DeSantis and Elon Musk are joined on Twitter Spaces by Adolf Hitler, the FBI, Dick Cheney, George Soros, and Klaus Schwab.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-ai-video-hitler-fbi-devil-ron-desantis-elon-musk-2023-5",
+      "originalUrl": "https://www.businessinsider.com/trump-ai-video-hitler-fbi-devil-ron-desantis-elon-musk-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/646ee4a950731c001938adcc?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-ai-video-hitler-fbi-devil-ron-desantis-elon-musk-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ai-video-hitler-fbi-devil-ron-desantis-elon-musk-2023-5?amp",
+      "publishedDateTime": "2023-05-24T21:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-heres-whats-missing-from-the-white-houses-national-ai-strategy.md",
+      "title": "Here’s what’s missing from the White House’s National AI Strategy",
+      "excerpt": "The White House announced new National AI Strategy efforts. Here's what's missing, according to AI policy expert Sarah Myers West.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/heres-whats-missing-from-the-white-houses-national-ai-strategy/",
+      "originalUrl": "https://venturebeat.com/ai/heres-whats-missing-from-the-white-houses-national-ai-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-76.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/heres-whats-missing-from-the-white-houses-national-ai-strategy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/heres-whats-missing-from-the-white-houses-national-ai-strategy/amp/",
+      "publishedDateTime": "2023-05-24T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-google-deepminds-ai-is-generating-descriptions-for-youtube-shorts.md",
+      "title": "Google DeepMind’s AI is generating descriptions for YouTube Shorts",
+      "excerpt": "Google recently combined DeepMind and Brain teams into one big AI team called Google DeepMind. The new team has now shared details on its purported first work together. The group details how one of its visual language models (VLM) is being used to generate descriptions for YouTube Shorts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/google-deepminds-ai-is-generating-descriptions-for-youtube-shorts/articleshow/100487884.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/google-deepminds-ai-is-generating-descriptions-for-youtube-shorts/articleshow/100487884.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-100487884,imgsize-24486,width-800/100487884.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/google-deepminds-ai-is-generating-descriptions-for-youtube-shorts/amp_articleshow/100487884.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/google-deepminds-ai-is-generating-descriptions-for-youtube-shorts/amp_articleshow/100487884.cms",
+      "publishedDateTime": "2023-05-24T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-edge-ai-and-vision-alliance-announces-2023-vision-tank-start-up-competition-winners.md",
       "title": "Edge AI and Vision Alliance™ Announces 2023 Vision Tank Start-Up Competition Winners",
       "excerpt": "ProHawk Technology Group and GMAC Intelligence Recognized for Innovation and Excellence in Perceptual AI and Computer Vision SANTA CLARA, Calif., May 24, 2023 /PRNewswire/ -- The Edge AI and Vision Al",
@@ -413,7 +706,7 @@
       "originalUrl": "https://www.zdnet.com/article/3-ways-openai-says-we-should-start-to-tackle-ai-regulation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -920,7 +1213,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -959,308 +1252,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-woman-using-ai-to-redesign-garden-sparks-debate-cool-but-sad.md",
-      "title": "Woman Using AI to Redesign Garden Sparks Debate: 'Cool But Sad'",
-      "excerpt": "Paulina Machaj told Newsweek she's used artificial intelligence to generate design ideas and gain inspiration for what her courtyard garden could look like.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/diy-garden-design-ai-artificial-intelligence-1802314",
-      "originalUrl": "https://www.newsweek.com/diy-garden-design-ai-artificial-intelligence-1802314",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2238408/backyard-garden-woman-looking-computer-screens.jpg",
-          "width": 2201,
-          "height": 1553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/diy-garden-design-ai-artificial-intelligence-1802314?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/diy-garden-design-ai-artificial-intelligence-1802314?amp=1",
-      "publishedDateTime": "2023-05-24T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-what-have-we-learned-about-ai-ethics-its-time-for-risk-based-regulations.md",
-      "title": "What have we learned about AI ethics? It's time for risk-based regulations",
-      "excerpt": "The bad news? The typical approach to AI ethics hasn't worked. But a way forward is emerging - via a growing momentum for risk-based AI regulations.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/what-have-we-learned-about-ai-ethics-its-time-risk-based-regulations",
-      "originalUrl": "https://diginomica.com/what-have-we-learned-about-ai-ethics-its-time-risk-based-regulations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2016-08/robots-typing.jpg",
-          "width": 1041,
-          "height": 868,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/what-have-we-learned-about-ai-ethics-its-time-risk-based-regulations?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/what-have-we-learned-about-ai-ethics-its-time-risk-based-regulations?amp",
-      "publishedDateTime": "2023-05-24T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-the-new-era-of-big-data.md",
-      "title": "The New Era Of Big Data",
-      "excerpt": "TC Energy leveraged the image processing ML technology Amazon Rekognition from Amazon Web Services (AWS) to classify and label the digitized records and then deployed the AI service Textract to transform the handwritten letters into machine-readable words.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/the-new-era-of-big-data/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/the-new-era-of-big-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646cba1470047fbdce5f411d/0x0.jpg?format=jpg&crop=6000,3375,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/the-new-era-of-big-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/24/the-new-era-of-big-data/amp/",
-      "publishedDateTime": "2023-05-24T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-ai-startup-figure-raises-70-million-for-humanoid-robot.md",
-      "title": "AI Startup Figure Raises $70 Million for Humanoid Robot",
-      "excerpt": "AI robotics startup Figure raised $70 million to help develop a humanoid robot that it believes could one day take on a wide range of tasks traditionally performed by people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-24/ai-startup-figure-raises-70-million-for-humanoid-robot",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-24/ai-startup-figure-raises-70-million-for-humanoid-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQfH1gdaW.uM/v1/1200x667.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-generative-ai-podcasts-are-here-prepare-to-be-bored.md",
-      "title": "Generative AI Podcasts Are Here. Prepare to Be Bored",
-      "excerpt": "Inside the strange world of podcasts made by artificial intelligence, where even creators aren’t sure who wants to hear robot chit-chat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/generative-ai-podcasts-boring/?utm_social-type=earned",
-      "originalUrl": "https://www.wired.com/story/generative-ai-podcasts-boring/?utm_social-type=earned",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/646d44e7c3f2cf2daf39faa2/master/pass/Rise-Of-AI-Podcasts-Culture-1347076482.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/generative-ai-podcasts-boring/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-ai-podcasts-boring/amp",
-      "publishedDateTime": "2023-05-24T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-beyond-text-ai-model-digests-80-hours-of-video-to-learn-sign-language.md",
-      "title": "Beyond text: AI model digests 80 hours of video to learn sign language",
-      "excerpt": "For deaf and hard-of-hearing people, voice recognition technology like Alexa and Siri can be a barrier to effective communication. Researchers have used AI to develop a tool that converts sign language to text,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/technology/sign-to-text-ai-improves-accessibility-deaf/",
-      "originalUrl": "https://newatlas.com/technology/sign-to-text-ai-improves-accessibility-deaf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/305943e/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Faf%2F14%2F844d8eb54f478f6ff82d2ffe4a41%2Fdepositphotos-607081878-l.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -60,22 +60,6 @@ related:
         width: 1300
         height: 541
         isCached: true
-  - title: "Here’s Why Generative AI Isn’t Coming For Lawyers"
-    excerpt: "We can all learn something by scraping legal information from the internet, but this doesn’t necessarily translate ... answer is analytical AI. Or rather, a combination of the two. Like generative AI, analytical AI is a large language model (LLM)."
-    publishedDateTime: 2023-05-25T14:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/heres-why-generative-ai-isnt-coming-for-lawyers/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/heres-why-generative-ai-isnt-coming-for-lawyers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/25/heres-why-generative-ai-isnt-coming-for-lawyers/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/627ebb248ab29e9de3b015b6/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Red Hat extends OpenShift for the generative AI era"
     excerpt: "IBM's Red Hat business unit announces the expansion of its AI capabilities with the new Red Hat OpenShift AI technology."
     publishedDateTime: 2023-05-24T05:19:00Z
@@ -91,22 +75,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/09/Red-Hat-e1684880569131.jpg?w=1200&strip=all"
         width: 1200
         height: 627
-        isCached: true
-  - title: "What Generative AI Means For Retail"
-    excerpt: "We’re only at the start of the generative AI revolution. And we’ve only had a taste of the true impact on retail. But the technology is advancing incredibly fast. It’s why it’s critically important to ensure AI is used responsibly. That means ..."
-    publishedDateTime: 2023-05-25T11:50:00Z
-    webUrl: "https://www.forbes.com/sites/jillstandish/2023/05/25/what-generative-ai-means-for-retail/"
-    ampWebUrl: "https://www.forbes.com/sites/jillstandish/2023/05/25/what-generative-ai-means-for-retail/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jillstandish/2023/05/25/what-generative-ai-means-for-retail/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646f4b84bb1952736f03a6fa/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Snowflake acquires Neeva to add generative AI-based search to Data Cloud"
     excerpt: "Neeva, which uses large language models to offer an AI-based search experience, is latest company to be picked up in Snowflake's acquisition spree."
@@ -217,6 +185,6 @@ related:
       domain: tvbeurope.com
     quality: 17
 
-secured: "/PzrJAd5UH+FPSy+zmccG/d5lmh463bn2zvbsNxm/65hXHJXxK/fOUr+B4XvTx2OycMZz6Sopv5VPg6oE4tUJ6z1zJKG35GT2zqj7n828oPZeA5NJRzcF5aydYlb84Ryie5But+B9SSetQmyGQbD7mkAq39x5LOz+jgBp8iFAUb5+DgXSV+gs11XejntnAzozACz3lCtEakub2EU+LHD2gwcZmf5xnBDrm1IM3LjaIHEpJNgNNTzSvyepHetgiatfOK2IuaUiD95emDJUqozxt1i8vCEERDsDQHHRArKIkhzTdFM9ThKZHbXgj4xNioo1To/j/w86kooJdhUtyRp4oFmNBguVz78hnvVaHCq44I=;t0+0S4Z8pACTlaP8NjMleA=="
+secured: "NjTAPMMM0J8wkkmIc7bX3hpts3RDFEKFUDq7pZGCRZ1rY8/vv6UZdHE3hrwz2dWPvtFdTsT8mbeM8s/4BkSDFdmsKxuuVfg4SZxDpjqJxqZGmCyX2iVaaeUXKFPLlCARSu+zVwpyhy0z9tIXGimykBILASVuyR5NfTnEwixNg4spTTfqzw90DnsSR5OqrkbICB9x9RL0c0AyyJO0oov1K5a3ohMdyec24cFA5b3uLAVbVA8LZGFOkg+l8Lbx4tXkCpWe4psF5AwVJ5WePnr4IHXif6VNM0GVy4gsRh2fLEvrg8IeMza4z0Vsr7DG8+W2oU1OOePZzMLemBjcUy8LNP0Em070MMx9Cjj+xcojBY+2hPxZZ9T4Sq9pOtp3ONBv6IJ+Z4+ggxzPqUMelCSLLZMeYDWla+Zm3/uk8cSeOX9WdKJrqeZpKmEvH523CSI+60ozhjiR9UIob8dq3rQP8GpMu7c4f/u9Nro4pJZZVLBMYn6GqwS04HFJeRAl371Ymfif+7pclkFtrVLwdq6Idw==;M6wB/0+hmoCePfN8MqqNfg=="
 ---
 

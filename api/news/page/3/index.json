@@ -2,6 +2,308 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-24-woman-using-ai-to-redesign-garden-sparks-debate-cool-but-sad.md",
+      "title": "Woman Using AI to Redesign Garden Sparks Debate: 'Cool But Sad'",
+      "excerpt": "Paulina Machaj told Newsweek she's used artificial intelligence to generate design ideas and gain inspiration for what her courtyard garden could look like.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/diy-garden-design-ai-artificial-intelligence-1802314",
+      "originalUrl": "https://www.newsweek.com/diy-garden-design-ai-artificial-intelligence-1802314",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2238408/backyard-garden-woman-looking-computer-screens.jpg",
+          "width": 2201,
+          "height": 1553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/diy-garden-design-ai-artificial-intelligence-1802314?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/diy-garden-design-ai-artificial-intelligence-1802314?amp=1",
+      "publishedDateTime": "2023-05-24T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-what-have-we-learned-about-ai-ethics-its-time-for-risk-based-regulations.md",
+      "title": "What have we learned about AI ethics? It's time for risk-based regulations",
+      "excerpt": "The bad news? The typical approach to AI ethics hasn't worked. But a way forward is emerging - via a growing momentum for risk-based AI regulations.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/what-have-we-learned-about-ai-ethics-its-time-risk-based-regulations",
+      "originalUrl": "https://diginomica.com/what-have-we-learned-about-ai-ethics-its-time-risk-based-regulations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2016-08/robots-typing.jpg",
+          "width": 1041,
+          "height": 868,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/what-have-we-learned-about-ai-ethics-its-time-risk-based-regulations?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/what-have-we-learned-about-ai-ethics-its-time-risk-based-regulations?amp",
+      "publishedDateTime": "2023-05-24T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-the-new-era-of-big-data.md",
+      "title": "The New Era Of Big Data",
+      "excerpt": "TC Energy leveraged the image processing ML technology Amazon Rekognition from Amazon Web Services (AWS) to classify and label the digitized records and then deployed the AI service Textract to transform the handwritten letters into machine-readable words.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/the-new-era-of-big-data/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/the-new-era-of-big-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646cba1470047fbdce5f411d/0x0.jpg?format=jpg&crop=6000,3375,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/the-new-era-of-big-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/24/the-new-era-of-big-data/amp/",
+      "publishedDateTime": "2023-05-24T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-ai-startup-figure-raises-70-million-for-humanoid-robot.md",
+      "title": "AI Startup Figure Raises $70 Million for Humanoid Robot",
+      "excerpt": "AI robotics startup Figure raised $70 million to help develop a humanoid robot that it believes could one day take on a wide range of tasks traditionally performed by people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-24/ai-startup-figure-raises-70-million-for-humanoid-robot",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-24/ai-startup-figure-raises-70-million-for-humanoid-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQfH1gdaW.uM/v1/1200x667.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-generative-ai-podcasts-are-here-prepare-to-be-bored.md",
+      "title": "Generative AI Podcasts Are Here. Prepare to Be Bored",
+      "excerpt": "Inside the strange world of podcasts made by artificial intelligence, where even creators aren’t sure who wants to hear robot chit-chat.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/generative-ai-podcasts-boring/?utm_social-type=earned",
+      "originalUrl": "https://www.wired.com/story/generative-ai-podcasts-boring/?utm_social-type=earned",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/646d44e7c3f2cf2daf39faa2/master/pass/Rise-Of-AI-Podcasts-Culture-1347076482.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/generative-ai-podcasts-boring/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-ai-podcasts-boring/amp",
+      "publishedDateTime": "2023-05-24T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-beyond-text-ai-model-digests-80-hours-of-video-to-learn-sign-language.md",
+      "title": "Beyond text: AI model digests 80 hours of video to learn sign language",
+      "excerpt": "For deaf and hard-of-hearing people, voice recognition technology like Alexa and Siri can be a barrier to effective communication. Researchers have used AI to develop a tool that converts sign language to text,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/technology/sign-to-text-ai-improves-accessibility-deaf/",
+      "originalUrl": "https://newatlas.com/technology/sign-to-text-ai-improves-accessibility-deaf/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/305943e/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Faf%2F14%2F844d8eb54f478f6ff82d2ffe4a41%2Fdepositphotos-607081878-l.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-5-key-threats-ai-poses-to-business-owners-in-2023-and-how-to-survive-them.md",
       "title": "5 Key Threats AI Poses To Business Owners In 2023 (and How To Survive Them)",
       "excerpt": "Business owners are freaking out about artificial intelligence, and you can see why. Here are the 5 key threats AI poses, and how you can stop them ruining your business.",
@@ -61,7 +363,7 @@
       "originalUrl": "https://www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -827,7 +1129,7 @@
       "originalUrl": "https://techcrunch.com/2023/05/23/hear-how-sensi-ai-is-building-ai-for-remote-patient-monitoring/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -878,7 +1180,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-pushes-for-ai-responsibility-and-safety-through-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 909,
+      "heat": 939,
       "tags": null,
       "images": [
         {
@@ -971,298 +1273,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.md",
-      "title": "Why Microsoft is combining all its data analytics products into Fabric",
-      "excerpt": "The integration of its existing products such as Synapse and Power BI will help enterprises combine workloads while reducing IT integration overhead, complexity and costs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3697020/why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.html",
-      "originalUrl": "https://www.infoworld.com/article/3697020/why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2017/07/thread_weave_factory_automated_loom-100728392-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3697020/why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3697020/why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.amp.html",
-      "publishedDateTime": "2023-05-23T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind.md",
-      "title": "These generative AI tools coming to Adobe Photoshop will blow your mind",
-      "excerpt": "From changing the scenery of images to adding new subjects via text, here's what you need to know about Adobe's new AI image generator tool and when it will be available.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind-what-you-should-now/",
-      "originalUrl": "https://www.zdnet.com/article/these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind-what-you-should-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b22dc33aeaf613e57a7e56a5a52ef2eac451c52a/2023/03/01/d1762712-8441-4457-900a-4bc8edf5521c/samsung-galaxy-book-3-ultra-hero.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind-what-you-should-now/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind-what-you-should-now/",
-      "publishedDateTime": "2023-05-23T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-what-is-smart-transportation.md",
-      "title": "What is smart transportation?",
-      "excerpt": "From traffic jams to seamless journeys— exploring the promise of smart transportation.\nThe post What is smart transportation? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/smart-transportation/",
-      "originalUrl": "https://www.ibm.com/blog/smart-transportation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/ams_3992.lr_.jpg",
-          "width": 1500,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T07:09:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-ibm-cloud-releases-2023-ibm-cloud-for-financial-services-agreed-upon-procedures-aup-report.md",
-      "title": "IBM Cloud releases 2023 IBM Cloud for Financial Services Agreed-Upon Procedures (AUP) Report",
-      "excerpt": "IBM engages a third-party professional services firm to complete an independent review of IBM Cloud services and processes against the Agreed-Upon Procedures (AUP).\nThe post IBM Cloud releases 2023 IBM Cloud for Financial Services Agreed-Upon Procedures (AUP) Report appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-cloud-releases-2023-ibm-cloud-for-financial-services-agreed-upon-procedures-aup-report/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-cloud-releases-2023-ibm-cloud-for-financial-services-agreed-upon-procedures-aup-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/21_58_p_gorodenkoff-023.lr_.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T07:02:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-configure-an-ibm-cloud-code-engine-application-to-use-custom-domains.md",
-      "title": "Configure an IBM Cloud Code Engine application to use custom domains",
-      "excerpt": "How to expose a IBM Cloud Code Engine application via custom domains.\nThe post Configure an IBM Cloud Code Engine application to use custom domains appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/configure-an-ibm-cloud-code-engine-application-to-use-custom-domains/",
-      "originalUrl": "https://www.ibm.com/blog/configure-an-ibm-cloud-code-engine-application-to-use-custom-domains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T06:57:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-addressing-the-ethical-use-of-ai-in-healthcare.md",
-      "title": "Addressing The Ethical Use Of AI In Healthcare",
-      "excerpt": "The push to digitize and automate healthcare data management represents a giant leap forward in helping health plans deliver better outcomes for their members.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressing-the-ethical-use-of-ai-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressing-the-ethical-use-of-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

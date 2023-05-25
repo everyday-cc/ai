@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-26-cadence-collaborates-with-guc-on-ai-hpc-and-networking-in-advanced-packaging-technologies.md",
+      "title": "Cadence Collaborates with GUC on AI, HPC and Networking in Advanced Packaging Technologies",
+      "excerpt": "GUC’s big-die CoWoS platform represents real-world CPU, GPU, AI, and networking chips by integrating multiple instances of the Cadence 112G-LR SerDes with a 7.2Gbps HBM3 controller and PHY ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230426005217/en/Cadence-Collaborates-with-GUC-on-AI-HPC-and-Networking-in-Advanced-Packaging-Technologies/?feedref=JjAwJuNHiystnCoBq_hl-cFcUWvK4NSyDWO6DSHmLQqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu6AeRucmCP4ZHknI_zC0f97",
+      "originalUrl": "https://www.businesswire.com/news/home/20230426005217/en/Cadence-Collaborates-with-GUC-on-AI-HPC-and-Networking-in-Advanced-Packaging-Technologies/?feedref=JjAwJuNHiystnCoBq_hl-cFcUWvK4NSyDWO6DSHmLQqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu6AeRucmCP4ZHknI_zC0f97",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsroom.businesswire.com",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-sk-hynix-expects-memory-chip-market-to-begin-recovering-in-second-half.md",
+      "title": "SK Hynix expects memory chip market to begin recovering in second half",
+      "excerpt": "Despite posting a record loss, SK Hynix expects lowered production output by memory chipmakers to start a rebound later in the year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/sk-hynix-expects-memory-chip-market-to-begin-recovering-in-second-half/",
+      "originalUrl": "https://www.zdnet.com/article/sk-hynix-expects-memory-chip-market-to-begin-recovering-in-second-half/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/19557bab1648d994be6879241f56ae3f0870d2a9/2021/09/24/5a6eb553-67e0-453a-97c8-efdd56624fff/chipshot.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sk-hynix-expects-memory-chip-market-to-begin-recovering-in-second-half/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sk-hynix-expects-memory-chip-market-to-begin-recovering-in-second-half/",
+      "publishedDateTime": "2023-04-25T20:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-opera-shows-off-ai-and-tab-grouping-in-the-latest-browser-update.md",
       "title": "Opera shows off AI and tab grouping in the latest browser update",
       "excerpt": "Opera has announced Opera One, a redesign of its Web browser with AI features like Tab Islands and under-the-hood improvements to its performance.",
@@ -1309,102 +1395,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-microsoft-reportedly-working-on-its-own-ai-chips-that-may-rival-nvidias.md",
-      "title": "Microsoft reportedly working on its own AI chips that may rival Nvidia’s",
-      "excerpt": "Microsoft is reportedly working on its own AI chips that can be used to train large language models and avoid a costly reliance on Nvidia. The Information reports that Microsoft has been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/4/18/23687912/microsoft-athena-ai-chips-nvidia",
-      "originalUrl": "https://www.theverge.com/2023/4/18/23687912/microsoft-athena-ai-chips-nvidia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-hsbc-says-this-chip-makers-incredible-ai-pricing-power-is-not-fully-priced-into-the-stock.md",
-      "title": "HSBC says this chip maker's 'incredible AI pricing power' is not fully priced into the stock",
-      "excerpt": "Nvidia shares can extend their 2023 rally once the chip maker's growing artificial intelligence business is fully appreciated by Wall Street, according to HSBC. Frank Lee, the firm's head of technology research in Asia,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/04/18/hsbc-says-this-chip-makers-incredible-ai-pricing-power-is-not-fully-priced-into-the-stock.html",
-      "originalUrl": "https://www.cnbc.com/2023/04/18/hsbc-says-this-chip-makers-incredible-ai-pricing-power-is-not-fully-priced-into-the-stock.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107067261-1653514547587-gettyimages-1234001062-RAFAPRESS_15072021-9654.jpeg?v=1681811866&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T00:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

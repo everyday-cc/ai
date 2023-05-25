@@ -19,150 +19,163 @@ topics:
   - AI
 
 related:
-  - title: "These generative AI tools coming to Adobe Photoshop will blow your mind"
-    excerpt: "From changing the scenery of images to adding new subjects via text, here's what you need to know about Adobe's new AI image generator tool and when it will be available."
-    publishedDateTime: 2023-05-23T14:23:00Z
-    webUrl: "https://www.zdnet.com/article/these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind-what-you-should-now/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind-what-you-should-now/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind-what-you-should-now/"
+  - title: "IBM Consulting unveils Center of Excellence for generative AI"
+    excerpt: "IBM Consulting has established a Center of Excellence for generative AI. It stands alongside IBM Consulting&#8217;s existing global AI and Automation practice, which includes 21,000 data and AI consultants who have conducted over 40,000 enterprise client engagements. The Center of Excellence (CoE) already"
+    publishedDateTime: 2023-05-25T16:00:53Z
+    webUrl: "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellence-for-generative-ai/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: IBM
+      domain: ibm.com
+    quality: 119
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/IBM-Consulting-unveils-Center-of-Excellence-for-generative-AI-1-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
+  - title: "Here’s Why Generative AI Isn’t Coming For Lawyers"
+    excerpt: "We can all learn something by scraping legal information from the internet, but this doesn’t necessarily translate ... answer is analytical AI. Or rather, a combination of the two. Like generative AI, analytical AI is a large language model (LLM)."
+    publishedDateTime: 2023-05-25T14:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/heres-why-generative-ai-isnt-coming-for-lawyers/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/heres-why-generative-ai-isnt-coming-for-lawyers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/25/heres-why-generative-ai-isnt-coming-for-lawyers/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 89
     images:
-      - url: "https://www.zdnet.com/a/img/resize/b22dc33aeaf613e57a7e56a5a52ef2eac451c52a/2023/03/01/d1762712-8441-4457-900a-4bc8edf5521c/samsung-galaxy-book-3-ultra-hero.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/627ebb248ab29e9de3b015b6/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 900
         isCached: true
-  - title: "Adobe adds generative AI to Photoshop"
-    excerpt: "The new AI tools will work similarly to other AI image creation technology, such as Midjourney and DALL-E, which allow people to produce pictures from simple text prompts."
-    publishedDateTime: 2023-05-23T17:16:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/adobe-adds-generative-ai-photoshop-rcna85548"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna85548"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna85548"
+  - title: "Exploring the potential of generative AI in games"
+    excerpt: "Jon Radoff, Kylan Gibbs, Matt White and Hilary Mason sit down at the GamesBeat Summit to chat about generative AI in games."
+    publishedDateTime: 2023-05-23T23:40:00Z
+    webUrl: "https://venturebeat.com/games/exploring-the-potential-of-generative-ai-in-games/"
+    ampWebUrl: "https://venturebeat.com/games/exploring-the-potential-of-generative-ai-in-games/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/exploring-the-potential-of-generative-ai-in-games/amp/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230522-ai-photoshop-lr-v3-77cd2e.jpg"
-        width: 2500
-        height: 1250
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/AIpanel.jpg?w=1200&strip=all"
+        width: 1200
+        height: 673
         isCached: true
-  - title: "Adobe brings Firefly’s generative AI to Photoshop"
-    excerpt: "Photoshop is getting an infusion of generative AI today with the addition of a number of Firefly-based features that will allow users to extend images beyond their borders with Firefly-generated backgrounds,"
-    publishedDateTime: 2023-05-23T22:24:00Z
-    webUrl: "https://techcrunch.com/2023/05/23/adobe-brings-fireflys-generative-ai-to-photoshop/"
-    ampWebUrl: "https://techcrunch.com/2023/05/23/adobe-brings-fireflys-generative-ai-to-photoshop/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/adobe-brings-fireflys-generative-ai-to-photoshop/amp/"
+  - title: "What Generative AI Means For Retail"
+    excerpt: "We’re only at the start of the generative AI revolution. And we’ve only had a taste of the true impact on retail. But the technology is advancing incredibly fast. It’s why it’s critically important to ensure AI is used responsibly. That means ..."
+    publishedDateTime: 2023-05-25T11:50:00Z
+    webUrl: "https://www.forbes.com/sites/jillstandish/2023/05/25/what-generative-ai-means-for-retail/"
+    ampWebUrl: "https://www.forbes.com/sites/jillstandish/2023/05/25/what-generative-ai-means-for-retail/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jillstandish/2023/05/25/what-generative-ai-means-for-retail/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/gBWUDTLU.png?resize=1200,793"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646f4b84bb1952736f03a6fa/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 793
+        height: 800
         isCached: true
-  - title: "Adobe introduces generative AI in Photoshop to transform professional creativity"
-    excerpt: "Generative Fill combines Adobe Firefly with the editing power of Photoshop to expand the creative canvas for Adobe's millions of customers."
-    publishedDateTime: 2023-05-23T19:51:00Z
-    webUrl: "https://www.businessinsider.com/sc/adobe-photoshop-unlocks-a-new-era-of-generative-creativity-with-firefly"
+  - title: "IBM Shows Its Full-Stack Generative AI Offering Could Be A Force To Reckon With"
+    excerpt: "it hasn't been caught up in the consumer-facing AI frenzy driven by OpenAI, Microsoft, Google and others. However, over the years, IBM has significantly contributed to the field, most famously with the cognitive computing platform IBM Watson. For a ..."
+    publishedDateTime: 2023-05-25T16:57:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/25/ibm-shows-its-full-stack-generative-ai-offering-could-be-a-force-to-reckon-with/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/25/ibm-shows-its-full-stack-generative-ai-offering-could-be-a-force-to-reckon-with/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/25/ibm-shows-its-full-stack-generative-ai-offering-could-be-a-force-to-reckon-with/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
+      name: Forbes
+      domain: forbes.com
+    quality: 85
     images:
-      - url: "https://i.insider.com/6467d7d312a976001917a0d7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646f91be35b7dfa61705ca3b/0x0.jpg?format=jpg&crop=1073,604,x0,y80,safe&width=1200"
+        width: 1073
+        height: 604
         isCached: true
-  - title: "Adobe to integrate AI into Photoshop amid fears of job losses and mass faking of images"
-    excerpt: "Company says Adobe Firefly is a ‘co-pilot’ to graphic design rather than a replacement for humans"
-    publishedDateTime: 2023-05-23T10:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/23/adobe-to-integrate-ai-into-photoshop-amid-fears-of-job-losses-and-mass-faking-of-images"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/23/adobe-to-integrate-ai-into-photoshop-amid-fears-of-job-losses-and-mass-faking-of-images"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/23/adobe-to-integrate-ai-into-photoshop-amid-fears-of-job-losses-and-mass-faking-of-images"
+  - title: "How AI is being used for consumer education in banking"
+    excerpt: "Jennifer Fuller, US Financial Services Lead at PA Consulting, explains how fintech companies are using AI to improve consumer education and banking interactions."
+    publishedDateTime: 2023-05-23T19:38:00Z
+    webUrl: "https://www.paconsulting.com/newsroom/cmswire-how-ai-is-being-used-for-consumer-education-in-banking-23-may-2023"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 49
-    images:
-      - url: "https://i.guim.co.uk/img/media/66f3ced92079ae2635e031bc1139cfe11279f411/19_0_762_457/master/762.jpg?width=620&quality=85&auto=format&fit=max&s=d76d3298ea21fedde0d07223ac052f04"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Adobe to integrate AI into Photoshop amid fears of job losses and mass faking of images"
-    excerpt: "Company says Adobe Firefly is a ‘co-pilot’ to graphic design rather than a replacement for humans"
-    publishedDateTime: 2023-05-23T20:17:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/23/adobe-to-integrate-ai-into-photoshop-amid-fears-of-job-losses-and-mass-faking-of-images?ref=emergentmind"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/23/adobe-to-integrate-ai-into-photoshop-amid-fears-of-job-losses-and-mass-faking-of-images"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/23/adobe-to-integrate-ai-into-photoshop-amid-fears-of-job-losses-and-mass-faking-of-images"
+      name: PA Consulting Group
+      domain: paconsulting.com
+    quality: 51
+  - title: "IBM doubles down on generative AI and hybrid cloud"
+    excerpt: "Given the hype around generative AI with the public preview of ChatGPT and the central role of Red Hat’s OpenShift as IBM’s platform modernization strategy, the choice of those themes was not surprising."
+    publishedDateTime: 2023-05-23T13:27:00Z
+    webUrl: "https://siliconangle.com/2023/05/23/ibm-doubles-generative-ai-hybrid-cloud/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 49
-    images:
-      - url: "https://i.guim.co.uk/img/media/66f3ced92079ae2635e031bc1139cfe11279f411/19_0_762_457/master/762.jpg?width=620&quality=85&auto=format&fit=max&s=d76d3298ea21fedde0d07223ac052f04"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Adobe is adding an AI-powered image generator to Photoshop"
-    excerpt: "Adobe on Tuesday said it's incorporating an AI-powered image generator into Photoshop, with the goal of \"dramatically accelerating\" how users edit their photos."
-    publishedDateTime: 2023-05-23T18:08:00Z
-    webUrl: "https://www.cnn.com/2023/05/23/tech/photoshop-generative-ai/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
-  - title: "I Just Tried Photoshop's New AI Tool. It Makes Photos Creative, Funny, or Unreal"
-    excerpt: "Adobe is building generative AI abilities into its flagship image-editing software with a new Photoshop beta release Tuesday. The move promises to release a new torrent of creativity even as it gives us all a new reason to pause and wonder if that sensational, scary or inspirational photo you see on the internet is actually real."
-    publishedDateTime: 2023-05-23T13:24:00Z
-    webUrl: "https://www.cnet.com/tech/computing/i-just-tried-photoshops-new-ai-tool-it-makes-photos-creative-funny-or-unreal/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 42
-  - title: "Adobe integrates Firefly's generative AI with Photoshop"
-    excerpt: "Remove unwanted people and objects from your image in just a few clicks with Adobe's Generative Fill – powered by AI"
-    publishedDateTime: 2023-05-23T15:35:00Z
-    webUrl: "https://www.digitalcameraworld.com/news/adobe-integrates-fireflys-generative-ai-with-photoshop"
-    type: article
-    provider:
-      name: digitalcameraworld
-      domain: digitalcameraworld.com
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 39
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/2BvaKhAzrEMqK2v5GjDwhV-1200-80.gif"
-        width: 600
-        height: 338
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/watsonx.jpeg"
+        width: 1194
+        height: 875
         isCached: true
-  - title: "Amid AI Generated Hoax, Adobe Introduces Firefly in Photoshop"
-    excerpt: "Software giant Adobe has introduced Generative Fill in Photoshop, a feature which brings generative AI powered Firefly directly into the hands of designers."
-    publishedDateTime: 2023-05-23T12:46:00Z
-    webUrl: "https://analyticsindiamag.com/amid-ai-generated-hoax-adobe-introduces-firefly-in-photoshop/"
+  - title: "Mai Writer Uses Generative AI To Double Marketing Output and Conversions"
+    excerpt: "Kenn Costales, the Forbes 30 Under 30 Founder of AI startup Mai, is inviting copywriters, content creators, and digital marketing professionals to maximize their productivity"
+    publishedDateTime: 2023-05-23T16:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32535516/mai-writer-uses-generative-ai-to-double-marketing-output-and-conversions"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+  - title: "Intel's Broad, Open HPC+AI Portfolio Powers Performance, Generative AI for Science"
+    excerpt: "At ISC'23, Intel details competitive performance for diverse HPC and AI workloads, from memory-bound to generative AI, and introduces new science LLM initiative to democratize AI. NEWS HIGHLIGHTS Inte"
+    publishedDateTime: 2023-05-22T16:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/b32513031/intels-broad-open-hpc-ai-portfolio-powers-performance-generative-ai-for-science"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32513031"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32513031"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 33
+  - title: "Tech Giants Trigger Generative AI Investment Boom"
+    excerpt: "From Microsoft to Amazon, Google to Meta, everyone’s in on the artificial intelligence hype, and the money’s following suit."
+    publishedDateTime: 2023-05-24T13:59:00Z
+    webUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n=#!"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
     quality: 19
-  - title: "Adobe launches Generative Fill to boost generative AI efforts"
-    excerpt: "Generative AI tools can be supportive, helping a wide range of people reach their goals in various creative efforts. Adobe certainly hopes that is the case, as it introduces a brand new tool to bolster its artificial intelligence efforts."
-    publishedDateTime: 2023-05-23T11:40:00Z
-    webUrl: "https://appleinsider.com/articles/23/05/23/adobe-launches-generative-fill-to-boost-generative-ai-efforts"
+  - title: "Apple Ramps Up Hiring of Generative AI Experts"
+    excerpt: "Apple is hiring for at least a dozen new experts in generative artificial intelligence amid rumors that the company is stepping up its work on AI."
+    publishedDateTime: 2023-05-22T12:51:00Z
+    webUrl: "https://www.macrumors.com/2023/05/22/apple-ramps-up-hiring-of-ai-experts/"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
+      name: MacRumors
+      domain: macrumors.com
     quality: 17
+  - title: "TCS announces generative AI pact with Google Cloud, new offering for enterprises"
+    excerpt: "Tata Consultancy Services TCS on Monday announced an expanded partnership with Google Cloud and the launch of its new offering -- TCS Generative AI which leve"
+    publishedDateTime: 2023-05-22T13:20:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273838959/tcs-announces-generative-ai-pact-with-google-cloud-new-offering-for-enterprises"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 14
+  - title: "Intel's Broad, Open HPC+AI Portfolio Powers Performance, Generative AI for Science"
+    excerpt: "View the full release here:  \"Intel is committed to serving the HPC and AI community with products that help customers and end-users make breakthrough discoveries faster,\" said Jeff McVeigh, Intel corporate vice president and general manager of the Super Compute Group."
+    publishedDateTime: 2023-05-22T18:55:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/22/9818599.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "fCVBMF/7FG5XCGKdmuUZc9dusvWhMHQYKub/r2TDTj4Dj60N1brX1s7OngdquoquCy/QMlIkS7Z+yagBhIvTxj9EKiu4lvlpcXggswNbFsAonIo4nhSHjI2qdbGHcOqszGPCepZKfrps/jUstTGQg/pNrABtBGubM8EZZfCkD0oXckVc9DRpdJHyZmIogifnMOKrKICTJVlsXHrAgz4buuxKT/5Slx+6oHDqxlYKbHXIy2MmGE5CU4CQh1v8ei8X3QtYF5UA17nPRLXJne7Q35+WzmzVPVZHbirkVDXhJIfZdOyoiRhlFvP22oRxKEa32dxoYVXNtDJKBcSAXNDzL2p9yc1Ifnne1xRM0gMgS7A=;XqtvPpR674CaMxo8Xso9ZQ=="
 ---

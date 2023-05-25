@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Workera introduces the world's first skills assessments for generative AI"
+    excerpt: "PALO ALTO, Calif., May 25, 2023 /PRNewswire/ -- Series B startup Workera announces the release of its generative AI assessments to test, rate and develop the skills of this cutting-edge technology in the contemporary workforce. Over 1,000 users have ..."
+    publishedDateTime: 2023-05-25T17:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/workera-introduces-the-world-s-first-skills-assessments-for-generative-ai-1032352473"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
 
 secured: "VzTyiFy8CJbcaTkt4Q7SRt7Jq4UVZDXDOEHsJnqCy4h02waW9XUZ8ktgHZZdL+fP95YkdD3Z+gazGVDJcA4HD1gEqAa2UsW0CpRw/0LLnWY6LumvyoijJUmXdtDEHQchLKtF/2I8LUNvU3+LfiBduhESV0kpGXHRrdUrg2gIlaGT47F0ymiu5P06iU6VKUFdusf+NsEHjkZ4CzXNXx4EEL72pdkeaVt7aVKb3geD8vY0cageKVVqZbhp/ofVozrPdnshUIQVEap2orqeTUbEXPEH6zZrD7LZL5GZj0rnWs3WFlOBvvK4HWlEGbqVSKNbmQxNsqoMTvthqcnMgsVpTt540UnkeRMmn0rGEu+S7ad11HR2kjnIjK6K4euSJiXW3CqE7fGis0TZOyFnSNmgC8H+QoHNZPj38RAmtIs9g2OFcC6piX7MvvJucDjScbuIEdtekLtunLarCtewiy/bu6B/icOQz5Ym0jvaOaLg+Ca3SUB6f1E7qRStBEVagtknV7mGFxlSW7IM3h9vDH6Rjw==;XXhAvtsvtTdc419R36dSWw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.cbs58.com/news/i-think-its-all-in-how-we-use-it-talkin
 webUrl: "https://www.cbs58.com/news/i-think-its-all-in-how-we-use-it-talking-to-machines-the-rise-of-conversational-artificial-intelligence"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Rise of the machines: how long before AI steals my job?"
-    excerpt: "As a translator, Sarah DeVries has watched Google Translate get better and better and wonders what the future of her profession holds."
-    publishedDateTime: 2023-05-21T00:28:00Z
-    webUrl: "https://mexiconewsdaily.com/community/how-long-before-ai-steals-job/"
-    type: article
-    provider:
-      name: Mexico News Daily
-      domain: mexiconewsdaily.com
-    quality: 39
-    images:
-      - url: "https://mexiconewsdaily.com/wp-content/uploads/2023/05/AI-cropped.jpg"
-        width: 850
-        height: 594
-        isCached: true
 
 secured: "TrX+YGtT+oJw+xAuKbYzXLjjAhvfV5VzUls7WftY+kbOU0sLo+vSTJW7PWURHD0J/BljnDBE/8Kqd0afNgoNOlPZN34FRGf/BCp/WB9pBRpqv7JOc8n9j1kr5y29klfdXlkcUe8Yb28WgDG3cgV98tT8COvnDbngLevIaGPqVHpv/pF49hnf74qwlUq/+CV/PxQuiofPtgKmS932sxfVSDW+YGGkYYMxXwWUxA+F/uLAP8lWJ+fRLdiMag/o/Plh5H1ogpd3nDlleepJkt/F+cvm5G+f77HYjBLkm0m21grg34uQJ0i3YHVdcYFqocv3R+Up2Gr9QDtZdz16/+NYB1WbHUHEoQj9PhQntX5vhze0wpFM3wyKBnsbF75hBNoox5O3NbIVjzwMr9XBM0hV3jRaJWCbCJxm8A6YiUMryx24cKBScXHMdsM5umtRGChehGN0DVBG3bD1MrBL+22DmebCrblXRNOFsV0l6F5xxBWLD9l1FGXb2UdBXOhWijXVlhEm5vhqAXyUKXg1+Muqrg==;efYdGCOGWNH7H80BtZHbbA=="
 ---

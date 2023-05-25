@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-03-ai-platform-equbot-chooses-digitas-india-for-its-digital-and-media-mandate.md",
+      "title": "AI platform ‘EquBot’ chooses Digitas India for its digital and media mandate",
+      "excerpt": "Digitas will focus on creating effective messaging structures for EquBot's audience, developing the digital interface and generating leads via communication and paid media| Advertising News",
+      "sourceUrl": null,
+      "webUrl": "https://bestmediainfo.com/2023/04/ai-platform-equbot-chooses-digitas-india-for-its-digital-and-media-mandate",
+      "originalUrl": "https://bestmediainfo.com/2023/04/ai-platform-equbot-chooses-digitas-india-for-its-digital-and-media-mandate",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bestmediainfo.com/uploads/2023/04/1680499306.EquBot.jpg",
+          "width": 620,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bestmediainfo.com/amp/2023/04/ai-platform-equbot-chooses-digitas-india-for-its-digital-and-media-mandate",
+      "cdnAmpWebUrl": "https://bestmediainfo-com.cdn.ampproject.org/c/s/bestmediainfo.com/amp/2023/04/ai-platform-equbot-chooses-digitas-india-for-its-digital-and-media-mandate",
+      "publishedDateTime": "2023-04-02T22:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Best Media",
+        "domain": "bestmediainfo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-29-healthcare-ai-market-2023-size-and-forecast-to-2030.md",
       "title": "Healthcare AI Market 2023 Size and Forecast to 2030",
       "excerpt": "Mar 28, 2023 (The Expresswire) -- Healthcare AI Marketinformation for each competitor includes (GENERAL ELECTRIC, IBM Watson Health, Intel Corporation, Next IT Corp, Google, DEEP GENOMICS, Koninklijke Philips N.V, General Vision, NVIDIA Corporation ...",

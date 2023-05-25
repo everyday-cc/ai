@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Apple Ramps Up Hiring of Generative AI Experts"
-    excerpt: "Apple is hiring for at least a dozen new experts in generative artificial intelligence amid rumors that the company is stepping up its work on AI."
-    publishedDateTime: 2023-05-22T12:51:00Z
-    webUrl: "https://www.macrumors.com/2023/05/22/apple-ramps-up-hiring-of-ai-experts/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 17
   - title: "Looking into possible impact of Artificial Intelligence"
     excerpt: "We talk about the potential of AI and threats it may pose with Aboitiz Data Innovation's David Hardoon. Artificial Intelligence has become a topic of controversy with even the so-called \"Godfather of AI\" Geoffrey Hinton expressing worries over how smart ..."
     publishedDateTime: 2023-05-22T23:47:00Z
