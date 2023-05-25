@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/amp/"
 type: article
 quality: 91
-heat: 181
+heat: 191
 published: true
 
 provider:
@@ -91,6 +91,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/05/Suvrat-Bhooshan-Founder-CEO-at-Gan.ai-.jpeg?resize=1200,800"
         width: 1200
         height: 800
+        isCached: true
+  - title: "The AI-driven evolution of banks"
+    excerpt: "AI-driven transformation continues to accelerate. In this phase, banks are faced with new challenges and opportunities, which force them to pay attention to a plurality of aspects, all transversally crossed by a major cultural transformation."
+    publishedDateTime: 2023-05-25T20:49:00Z
+    webUrl: "https://techxplore.com/news/2023-05-ai-driven-evolution-banks.html"
+    ampWebUrl: "https://techxplore.com/news/2023-05-ai-driven-evolution-banks.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-ai-driven-evolution-banks.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-money.jpg"
+        width: 1920
+        height: 1188
         isCached: true
   - title: "Nvidia in great position to gain from AI hype, says Intel CEO"
     excerpt: "Nvidia, which has long been keen on boosting GPU's computing power, is now being presented with an excellent opportunity from the AI wave, according to Intel CEO Pat Gelsinger."

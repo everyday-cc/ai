@@ -2,9 +2,9 @@
 category: news
 title: "Zero Zero Robotics Launches Brand New Pocket-Sized Self-Flying Camera: Hover Camera X1"
 excerpt: "Zero Zero Robotics, a leading robotics company, has launched its newest flagship product, the Hover Camera X1, a pocket-sized self-flying camera that is available today on Indiegogo. Like the rest of the Hover Camera product line,"
-publishedDateTime: 2023-05-25T17:57:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/25/9821515.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/25/9821515.htm"
+publishedDateTime: 2023-05-25T18:24:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/05/25/9821515.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/05/25/9821515.htm"
 type: article
 quality: 46
 heat: 46
@@ -24,6 +24,6 @@ images:
     height: 267
     isCached: true
 
-secured: "O+MPWcb4B3zZSaOxymyMov3Noupuz5oN1IQhBYnflECJm3lCGdYnwjoz2VTlm0EWV1pKWHc7LbnUC8BDmdO/hCI5TPQkTYU2sYCojxH34qAISKwCTSP0/fMC27EfbSmWgWm2mFmaMe2Nie3lJUX+qeqT92QgR02dQaTlixI5DlV0KKXp3iAb5PgYZldDkomFRYCEOSoFiTWSOGMBsfjwDOZwaxVDHwTNvQt744KqjXDmcB9YgaG4QlNanasRuFyiZStNN8LmInsbmpFlXF+T0rW7LKs6lNy4RVqxF2CMGUKGUb0Ad62FhjhCEfqZpWLUdRe+VFFqIayLoP3yg3nxggSZK3ShXLNJ0GqkDfLRTeU=;gEPFOjUJY6f3xhZxiRLs4w=="
+secured: "D2CKh3kb4CmMe54I1vGQ48/tNqjDm0+aKOnI9Se43+h8TgmKPw5hf+vN2/9gL3vTuMRVIK1T52GnzxkLNRUpaRlvvljo63Fq4ynVCdyY2NuKj5rnpZh+v/Ji2XJ9JcmunNK40+PSCpGgh7BiP5vmswOt8d0/qC6t8RjvZnBiKS+gW2JQGGLOL/3c+T7iQ4AvoJdK7AYL9PLB0mb/B5gRbHM8MwtDLqpkJGJWX8ga7zxgLUliu5yIoLOnmyGLLYHnak+CWU/GFND87nFvPf8xg3MnsPimUzQUdb0il2oZqO63dVmBhQsGdCwQyF6Q3fZpQ5Low9Zakfe+Q7Mp9v2E/88WI9EODaS1njbBFGtSFog=;BtPSYYNAV4lintS9p+1Imw=="
 ---
 

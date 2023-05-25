@@ -119,6 +119,20 @@ related:
         width: 1194
         height: 875
         isCached: true
+  - title: "Google Now Testing Generative AI for Search"
+    excerpt: "Google today announced that it is opening up access to Search Labs, allowing testers to try out its new Search Generative Experience. The"
+    publishedDateTime: 2023-05-25T18:58:00Z
+    webUrl: "https://www.macrumors.com/2023/05/25/google-ai-search/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 37
+    images:
+      - url: "https://images.macrumors.com/t/qdB_4ekb91XkZACOM4ewxYF5fbU=/1600x/article-new/2023/05/google-search-ai.jpg"
+        width: 1600
+        height: 742
+        isCached: true
   - title: "Mai Writer Uses Generative AI To Double Marketing Output and Conversions"
     excerpt: "Kenn Costales, the Forbes 30 Under 30 Founder of AI startup Mai, is inviting copywriters, content creators, and digital marketing professionals to maximize their productivity"
     publishedDateTime: 2023-05-23T16:34:00Z

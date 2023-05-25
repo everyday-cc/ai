@@ -309,7 +309,7 @@ related:
   - title: "AI startup Anthropic raises $450M for safety-focused chatbot"
     excerpt: "Yet while ChatGPT has faced criticism — and been tweaked — after offering users some concerning results, Anthropic aims to make its chatbot more cautious from the start. Anthropic’s goal is for Claude to be less prone than other chatbots to manipulation that will produce harmful or offensive results."
     publishedDateTime: 2023-05-23T21:58:00Z
-    webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/"
+    webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?n=%5CL"
     ampWebUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
     cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
     type: article
@@ -349,6 +349,15 @@ related:
       name: MedPage Today
       domain: medpagetoday.com
     quality: 19
+  - title: "ChatGPT, for better or worse: How AI will disrupt the health care sector"
+    excerpt: "Opportunities: The health sector is generally slow to adapt to new technologies. Transfers of information on CDs or even faxes remain prevalent among some providers. Dr. William Johnson, president of Moda Health,"
+    publishedDateTime: 2023-05-25T21:10:00Z
+    webUrl: "https://www.bizjournals.com/portland/news/2023/05/25/chatgpt-opportunities-and-threats.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 18
   - title: "Public officers allowed to use ChatGPT and other AI, but must take responsibility for work: MCI"
     excerpt: "Public officers have been told not to feed generative AI tools with sensitive information. Read more at straitstimes.com."
     publishedDateTime: 2023-05-23T12:14:00Z

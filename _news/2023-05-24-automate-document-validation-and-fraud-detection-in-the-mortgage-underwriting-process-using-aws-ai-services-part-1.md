@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automate-document-va
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-document-validation-and-fraud-detection-in-the-mortgage-underwriting-process-using-aws-ai-services-part-1/"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.startupdaily.net/wp-content/uploads/2023/05/Dion-Williams.jpg"
         width: 770
         height: 513
+        isCached: true
+  - title: "Dissecting the EU’s Artificial Intelligence Act: Implications and Industry Reaction"
+    excerpt: "As artificial intelligence (AI) rapidly integrates into the fabric of our society, regulators worldwide are grappling with the conundrum of creating a comprehensive framework that guides AI usage. Pioneering a move in this direction,"
+    publishedDateTime: 2023-05-25T20:19:00Z
+    webUrl: "https://www.unite.ai/dissecting-the-eus-artificial-intelligence-act-implications-and-industry-reaction/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 33
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/05/christian-lue-C241mbgtgys-unsplash-996x600.jpg"
+        width: 996
+        height: 600
         isCached: true
   - title: "Global Automated Machine Learning (AutoML) Market Report 2023: Increasing Need for Accurate Fraud Detection Drives Growth"
     excerpt: "Market by Offering (Solutions & Services), Application (Data Processing, Model Selection, Hyperparameter Optimization & Tuning, Feature Engineering, Model Ensembling), Vertical and Region - Global Forecast to 2028\" report has been added to  ResearchAndMarkets."

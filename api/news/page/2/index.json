@@ -2,6 +2,204 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-25-bill-gates-worrying-prediction-for-artificial-intelligence-and-big-companies.md",
+      "title": "Bill Gates' worrying prediction for artificial intelligence and big companies",
+      "excerpt": "As one of the world's most important tycoons and philanthropists, Bill Gates has discussed how the emergence of artificial intelligence will affect the world and, in particular, la",
+      "sourceUrl": null,
+      "webUrl": "https://www.marca.com/en/technology/2023/05/25/646f321c268e3ea7218b459c.html",
+      "originalUrl": "https://www.marca.com/en/technology/2023/05/25/646f321c268e3ea7218b459c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://phantom-marca.unidadeditorial.es/625075a355f34ff61d65ebf624750347/resize/1200/f/jpg/assets/multimedia/imagenes/2023/05/25/16850010881386.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.marca.com/en/technology/2023/05/25/646f321c268e3ea7218b459c.html",
+      "cdnAmpWebUrl": "https://amp-marca-com.cdn.ampproject.org/c/s/amp.marca.com/en/technology/2023/05/25/646f321c268e3ea7218b459c.html",
+      "publishedDateTime": "2023-05-25T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MARCA",
+        "domain": "marca.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-ryff-unveils-spheera-ai-virtual-product-placement-platform.md",
+      "title": "Ryff unveils Spheera AI virtual product placement platform",
+      "excerpt": "And now it’s using AI on a platform called Spheera to automatically insert ... In their report, New York-based research firm Radicle Insights, backed up by Chapman University Film School, predicted that TV channels such as NBC, ITV, Channel 4, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/ryff-unveils-spheera-ai-virtual-product-placement-platform/",
+      "originalUrl": "https://venturebeat.com/games/ryff-unveils-spheera-ai-virtual-product-placement-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/RYFF-kitchen-with-graphics.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/ryff-unveils-spheera-ai-virtual-product-placement-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/ryff-unveils-spheera-ai-virtual-product-placement-platform/amp/",
+      "publishedDateTime": "2023-05-25T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-apexai-operating-system-to-run-volkswagen-robo-ridepooling-vans.md",
+      "title": "Apex.AI Operating System To Run Volkswagen Robo Ridepooling Vans",
+      "excerpt": "The middleware is the vehicle operating system, so all the software that runs as a base software on that ECU (electronic c",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/edgarsten/2023/05/25/apexai-operating-system-to-run-volkswagen-robo-ridepooling-vans/",
+      "originalUrl": "https://www.forbes.com/sites/edgarsten/2023/05/25/apexai-operating-system-to-run-volkswagen-robo-ridepooling-vans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646e5e45ccadd409eda62c39/0x0.jpg?format=jpg&width=1200",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2023/05/25/apexai-operating-system-to-run-volkswagen-robo-ridepooling-vans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2023/05/25/apexai-operating-system-to-run-volkswagen-robo-ridepooling-vans/amp/",
+      "publishedDateTime": "2023-05-25T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-what-are-some-controversies-surrounding-natural-language-processing.md",
+      "title": "What are some controversies surrounding natural language processing?",
+      "excerpt": "translate, extract, and organize information. However, the language processing tools such as Open AI's Chat GPT and other tools run into some challenges, such as misspellings, speech recognition, and the ability of a computer to understand the nuances of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/what-some-controversies-surrounding-natural-language-processing",
+      "originalUrl": "https://www.foxnews.com/tech/what-some-controversies-surrounding-natural-language-processing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/775bdb69-3050-4989-abd5-e41fb41dc74a/4ad6a84e-d689-406a-bc8a-135f5a9db1d6/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/what-some-controversies-surrounding-natural-language-processing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-some-controversies-surrounding-natural-language-processing.amp",
+      "publishedDateTime": "2023-05-24T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-ai-could-grow-so-powerful-it-replaces-experienced-professionals-within-10-years-sam-altman-warns.md",
       "title": "AI could grow so powerful it replaces experienced professionals within 10 years, Sam Altman warns",
       "excerpt": "Tech leaders, such as OpenAI's Sam Altman and Google's Sundar Pichai, posted essays this week, arguing in favor of regulating artificial intelligence as the tech becomes smarter.",
@@ -157,7 +355,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-ai-video-hitler-fbi-devil-ron-desantis-elon-musk-2023-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -654,7 +852,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-document-validation-and-fraud-detection-in-the-mortgage-underwriting-process-using-aws-ai-services-part-1/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -706,7 +904,7 @@
       "originalUrl": "https://www.zdnet.com/article/3-ways-openai-says-we-should-start-to-tackle-ai-regulation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 247,
       "tags": null,
       "images": [
         {
@@ -1055,204 +1253,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-deep-robotics-launches-lite3-quadruped-robot-with-advanced-front-flipping-mobility.md",
-      "title": "DEEP Robotics launches Lite3 quadruped robot with advanced front flipping mobility",
-      "excerpt": "DEEP Robotics Co. has announced the launch in Europe of the newest version of its dexterous intelligent robot dog, Lite3.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/deep-robotics-launches-lite3-quadruped-robot-with-advanced-front-flipping-mobility/",
-      "originalUrl": "https://www.therobotreport.com/deep-robotics-launches-lite3-quadruped-robot-with-advanced-front-flipping-mobility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/05/deep-robotics-sponsored-featured-image-may2023.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-ai-in-retail-smarter-stores-smarter-product-design.md",
-      "title": "AI in retail: Smarter stores, smarter product design",
-      "excerpt": "Retail companies are turning to AI to handle a long list of challenges that would keep any business leader awake at night",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-in-retail-smarter-stores-smarter-product-design/",
-      "originalUrl": "https://venturebeat.com/ai/ai-in-retail-smarter-stores-smarter-product-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/AdobeStock_573239156-1.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-in-retail-smarter-stores-smarter-product-design/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-in-retail-smarter-stores-smarter-product-design/amp/",
-      "publishedDateTime": "2023-05-24T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-redefining-the-consumer-experience-diageo-partners-with-sap-and-ibm-on-global-digital-transformation.md",
-      "title": "Redefining the consumer experience: Diageo partners with SAP and IBM on global digital transformation",
-      "excerpt": "Today, we are thrilled to announce an exciting partnership between Diageo, IBM and SAP that aims to modernize Diageo’s operations on a global scale and set new benchmarks for the industry.\nThe post Redefining the consumer experience: Diageo partners with SAP and IBM on global digital transformation appeared",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/diageo-partners-with-sap-and-ibm/",
-      "originalUrl": "https://www.ibm.com/blog/diageo-partners-with-sap-and-ibm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/Option-1.jpg",
-          "width": 1190,
-          "height": 568,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly.md",
-      "title": "One Way AI Will Help Human Workers: Ensuring They're Paid Fairly",
-      "excerpt": "Automation will change the job landscape for many workers—but instead of taking everyone’s jobs away, AI is throwing into relief what kind of skills are most needed for today’s rapidly evolving job market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/626173e1aeaa4c8e625ca2cd/0x0.jpg?format=jpg&crop=2046,1151,x0,y286,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/amp/",
-      "publishedDateTime": "2023-05-24T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

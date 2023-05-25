@@ -9,7 +9,7 @@ ampWebUrl: "https://www.inform.kz/en/s-o-paulo-to-have-facial-recognition-camera
 cdnAmpWebUrl: "https://www-inform-kz.cdn.ampproject.org/c/s/www.inform.kz/en/s-o-paulo-to-have-facial-recognition-cameras_a4071209/amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 256
     height: 256
     isCached: true
+
+related:
+  - title: "São Paulo to proceed with citywide facial recognition program"
+    excerpt: "The Court of Justice overturned a legal suspension of procurement for the program, which was enacted over concerns about data protection and racial bias."
+    publishedDateTime: 2023-05-25T21:30:00Z
+    webUrl: "https://www.biometricupdate.com/202305/sao-paulo-to-proceed-with-citywide-facial-recognition-program"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1333
+        isCached: true
 
 secured: "Azhqsp92FhJz4Iuu7m86Wwuicg3N3uqCgQjw3ZuSX4mhexs3KNC8/cibegUHbMNqfIIo8FJHBsUo2D3ALrWPmaiJY89PRrB+aMlfKQKYMav5XrSBRctaWZ1QZxIlSDzXn7rtvgF0q+od7v7Yr7C7/gEnmtfJ8+6piIth9+R3iFUVII3YRvQr9rOTTNv07bgYLJ3j2KqLfL4/rlWdCisZT2CZmWRzpK9rzy5SrRvgLvSw/uv1dRL3EXxzp3l1qu8WinQuTfjJRu6eDYMYBE+YS3LIQzrDzl9EQ4VxSg/LOvlIPJLU8soOnM9pLFILr5tkxcisGZeL3GDA2b9ai5KH1wcXpSWqYhsg0/1XOPJrJHI=;rHHsR/NWeQQSy3gT/Kvz7Q=="
 ---

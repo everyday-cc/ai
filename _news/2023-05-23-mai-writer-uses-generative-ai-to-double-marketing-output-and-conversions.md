@@ -121,6 +121,20 @@ related:
         width: 1194
         height: 875
         isCached: true
+  - title: "Google Now Testing Generative AI for Search"
+    excerpt: "Google today announced that it is opening up access to Search Labs, allowing testers to try out its new Search Generative Experience. The"
+    publishedDateTime: 2023-05-25T18:58:00Z
+    webUrl: "https://www.macrumors.com/2023/05/25/google-ai-search/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 37
+    images:
+      - url: "https://images.macrumors.com/t/qdB_4ekb91XkZACOM4ewxYF5fbU=/1600x/article-new/2023/05/google-search-ai.jpg"
+        width: 1600
+        height: 742
+        isCached: true
   - title: "Intel's Broad, Open HPC+AI Portfolio Powers Performance, Generative AI for Science"
     excerpt: "At ISC'23, Intel details competitive performance for diverse HPC and AI workloads, from memory-bound to generative AI, and introduces new science LLM initiative to democratize AI. NEWS HIGHLIGHTS Inte"
     publishedDateTime: 2023-05-22T16:45:00Z

@@ -304,7 +304,7 @@ related:
   - title: "AI startup Anthropic raises $450M for safety-focused chatbot"
     excerpt: "Yet while ChatGPT has faced criticism — and been tweaked — after offering users some concerning results, Anthropic aims to make its chatbot more cautious from the start. Anthropic’s goal is for Claude to be less prone than other chatbots to manipulation that will produce harmful or offensive results."
     publishedDateTime: 2023-05-23T21:58:00Z
-    webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/"
+    webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?n=%5CL"
     ampWebUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
     cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
     type: article
@@ -344,6 +344,15 @@ related:
       name: MedPage Today
       domain: medpagetoday.com
     quality: 19
+  - title: "ChatGPT, for better or worse: How AI will disrupt the health care sector"
+    excerpt: "Opportunities: The health sector is generally slow to adapt to new technologies. Transfers of information on CDs or even faxes remain prevalent among some providers. Dr. William Johnson, president of Moda Health,"
+    publishedDateTime: 2023-05-25T21:10:00Z
+    webUrl: "https://www.bizjournals.com/portland/news/2023/05/25/chatgpt-opportunities-and-threats.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 18
   - title: "I asked ChatGPT where it'd put Brightline stop on Treasure Coast; here's what AI bot said"
     excerpt: "Like many of you, I’m still trying to figure it all out. I recently completed some training in AI and journalism ethics. The other day I was motivated to use perhaps the most well-known AI application, or chat bot, ChatGPT, which can be found online at ..."
     publishedDateTime: 2023-05-23T00:50:00Z
@@ -372,6 +381,6 @@ related:
       domain: krqe.com
     quality: 0
 
-secured: "wKqwRSVYMGt8XL4mUswgJE+CMFG7CgNAFDJTQFM/GDjl/nnKwjTmL1MwLDLsHze2GyDcZU/57PpnpNXTnAoqpGv6e1Q9AqCGVy17ryjxXpXK6E7cL5iyTo4YMlKkETOYiyPS/u8RrkwSboIYLABKBaCh3igEUtPW2+/5j/QkQDjjLOH90LqcocdTY09fYqfvSTgXr/6cQSIx5DAz/PzYz3+oVpDD6GmLAePtpNtoTybw1Ywy13HkdS4fqKPoPmFGs4N7AhrhpeYguAYHA+uyrzHGhdPoUbzqjYm6dNNnAkrnER1rqiFT/J+zjb0EQ7XfaAPsd/+mHvZQ/gpcx0qr3nxy0HoY+OqNPGMT8Yy1bOU=;Tdz09fcG1rnpygAcjpuvnA=="
+secured: "yA46xpFlQwiC+/t7OBPZmYkgPloAkPRCF7eGAUZviJNFHkRS4HhNzRnuVxcWAFOCqBWNStaxJKj0a5QLW/7ILUtpiUkd7H35xZfKmH3KLte1Q1aY2TEP8j7UHvyhIyW4vhv84jIwN9EMXB40aHuflDHT5S9nLQSd8VNouSbyUMQ4IeBgx2RyYe8iX5QHnPnBA9jP9SspW0zItZqdhMOnORmmo2tSEiQy0Ym90YD88A/y6Uqct4AKw+f/JYXludd3qSlQebJ2dsdWqXlatnZt4h5Khpi2/AteLSdcEggt91uD+WjbJklk/PTYQtACrkWcDgMc2+fpe8oVtjT9ynRZ/LrFjiBn/RZrecJGeB/SCHbfZtbx/8+WYrolofaw5qC3/WmGo4bbrx9kPC+w/+DtUeFM5Z6LXzwLDilAmog5Yzd4apcb7XEVqp+aLAyme9jqnnaFYPNlqHvREI+f+pqRvMEQZfchbIHxaEsVaNWc3yLanL0mtH/EI8cVwOJZZkulWJGGMZnV13uU6dfOxyZJQw==;/nUHvdT/tcXVLUz9Sn8C0w=="
 ---
 

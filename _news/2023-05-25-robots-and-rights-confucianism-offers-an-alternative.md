@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-05-robots-rights-confucianism-alter
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-robots-rights-confucianism-alternative.amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1920
     height: 1280
     isCached: true
+
+related:
+  - title: "Rights or Rites? Reimagining Robots’ Moral Status through Confucian Lens"
+    excerpt: "As robots become more pervasive in our society, the question of whether they should be granted rights is a subject of increasing debate."
+    publishedDateTime: 2023-05-25T18:33:00Z
+    webUrl: "https://neurosciencenews.com/confucian-robot-rite-23345/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 18
 
 secured: "p7n+QVv6fcqaZsPAHSGZ5yYOwq1UCr3URgbWOzd1fEzxfjAbZmaWiJUPHoP0l2nb5SjDWxyiEY9KmxotdFXd4uFEKEeZYVHhYHoOtd6g/H8NMtbPaqLQNiAkaTLUZvy6W37jlbziDjk/x8IxheCWQVABY9+7qKjJwAtJ/29MLFzzaVEQboBl9I3oFib7OrLzaXbSIF+dN7Ose0rN2h6iHc59m/xivkM/3t956UbfYgNo8CdjdgXRlAYKXUW/1U++owxdm/fgSruXpk4rhmC/Mqwzv2YZRAVmDdSHeLZMzLcIEPfD4ksCslLqtyjfqYDb3HwviBuBXrzyu7GFU+49PfjTm8rm2bDAFMgyXrDI8ws=;tSWvrTpxyqAyCWbk9yT9Cw=="
 ---

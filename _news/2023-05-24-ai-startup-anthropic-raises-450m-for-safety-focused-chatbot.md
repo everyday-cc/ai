@@ -3,8 +3,8 @@ category: news
 title: "AI startup Anthropic raises $450M for safety-focused chatbot"
 excerpt: "Yet while ChatGPT has faced criticism — and been tweaked — after offering users some concerning results, Anthropic aims to make its chatbot more cautious from the start. Anthropic’s goal is for Claude to be less prone than other chatbots to manipulation that will produce harmful or offensive results."
 publishedDateTime: 2023-05-23T21:58:00Z
-originalUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/"
-webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/"
+originalUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?n=%5CL"
+webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?n=%5CL"
 ampWebUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
 type: article
@@ -339,6 +339,15 @@ related:
       name: MedPage Today
       domain: medpagetoday.com
     quality: 19
+  - title: "ChatGPT, for better or worse: How AI will disrupt the health care sector"
+    excerpt: "Opportunities: The health sector is generally slow to adapt to new technologies. Transfers of information on CDs or even faxes remain prevalent among some providers. Dr. William Johnson, president of Moda Health,"
+    publishedDateTime: 2023-05-25T21:10:00Z
+    webUrl: "https://www.bizjournals.com/portland/news/2023/05/25/chatgpt-opportunities-and-threats.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 18
   - title: "I asked ChatGPT where it'd put Brightline stop on Treasure Coast; here's what AI bot said"
     excerpt: "Like many of you, I’m still trying to figure it all out. I recently completed some training in AI and journalism ethics. The other day I was motivated to use perhaps the most well-known AI application, or chat bot, ChatGPT, which can be found online at ..."
     publishedDateTime: 2023-05-23T00:50:00Z
@@ -367,6 +376,6 @@ related:
       domain: krqe.com
     quality: 0
 
-secured: "k5ruSBLl28I3G8PndBSOXstAQF8DTrE1SOuFwCQATSRgwrUjtfY4yYIASthN8tkZGSJm3bKsPi2I9dbVLK4FZNYRE9m/+Oh2zKh0eAF9GzKgPEEypvq5vvSwcKFAXXqSGUmPhzWVWBlGi5SEJKFaDUmp6ZQ9/abniYmiAoMXXfo3aE+WFWiSbA1NAPPOr6RViDQBLWj9HVtXpQ4mg1Mlvy+8PGIzP8VO+SyXO3Sp2VPwAgzzi1Ftun0qkNzFxXCxNncODpquTu14BJCTaawuHEmEUvMvVlnrKrQDDuI5o1kSwQ9qHOucY09P16kYRk4elKdKLkVc4uaqdJ9lpBePbXj6nKvqXvfbWpZCMupmjdw=;IyXbc3OlB9tcJCPf0SvUSQ=="
+secured: "T3NAi/9K91OiNEqHfy1SbcNFihNzAtcGXyuqqIyIn6EduxsNSfWwnpPD7WjNbkO9HGwXMrvYoVUABXGMDQmUzBSPNCzRRC9P3hh7UIzQlnf4ryL1OfstQgq1pbQL2yYWv4kVPT5I9JlnhbV7YWPf8j3OnN0rYjUr0yXpJj6Urk0iam3DzAZXm2exeO4wIZiaOquBo/DXFC9YW0eP6lws0tP/mje1ECyurgSEuDu5bn6SJw1siZyPpM69fK6+cghc9iQcvBz+FfIeXF74MO9Y/dQ9SVD64JofeTloSdV3t/qkRobY7NKIcqYlf8vOol73bDIGw8qiN0nF7aQdp3u+9Y/G8F1IZID+dG1o1qzJwkw=;xuhJjqacqI6S7JXTbaKxZw=="
 ---
 

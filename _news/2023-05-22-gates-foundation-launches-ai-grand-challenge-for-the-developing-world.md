@@ -22,6 +22,15 @@ topics:
   - AI
 
 related:
+  - title: "The #1 Reason AI Poses A Tougher Challenge For VCs And Entrepreneurs"
+    excerpt: "The Internet has been a major source of unicorns for entrepreneurs and VC, and artificial intelligence (AI) is expected to do the same. AI will be tougher."
+    publishedDateTime: 2023-05-25T17:19:00Z
+    webUrl: "https://www.forbes.com/sites/dileeprao/2023/05/25/the-1-reason-ai-poses-a-tougher-challenge-for-vcs-and-entrepreneurs/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Gates Foundation rolls out initiative aimed at equitable AI use"
     excerpt: "The Bill and Melinda Gates Foundation will award $100,000 grants for up to 30 generative AI projects if they benefit people in low- and middle-income countries, among other criteria. The Seattle-based philanthropic organization on Monday opened up ..."
     publishedDateTime: 2023-05-22T22:28:00Z

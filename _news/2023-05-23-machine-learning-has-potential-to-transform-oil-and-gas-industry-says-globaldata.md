@@ -3,11 +3,11 @@ category: news
 title: "Machine Learning Has Potential to Transform Oil and Gas Industry, Says GlobalData"
 excerpt: "Machine learning has the potential to improve efficiency, increase production and reduce costs in the oil and gas industry."
 publishedDateTime: 2023-05-23T16:19:00Z
-originalUrl: "https://www.automation.com/en-us/articles/may-2023/machine-learning-transform-oil-gas-industry? Control News & Articles"
-webUrl: "https://www.automation.com/en-us/articles/may-2023/machine-learning-transform-oil-gas-industry? Control News & Articles"
+originalUrl: "https://www.automation.com/en-us/articles/may-2023/machine-learning-transform-oil-gas-industry"
+webUrl: "https://www.automation.com/en-us/articles/may-2023/machine-learning-transform-oil-gas-industry"
 type: article
-quality: 34
-heat: 34
+quality: 16
+heat: 16
 published: false
 
 provider:
@@ -15,15 +15,10 @@ provider:
   domain: automation.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
-images:
-  - url: "https://www.automation.com/getmedia/8033f7c8-5c9d-481c-bc16-e71d0aa4ef8f/Machine-learning-news-May-23-2023-web.png?width=500&height=313&ext=.png"
-    width: 500
-    height: 313
-    isCached: true
-
-secured: "iy9AIeXXkOQSASqM2u36axjTEykC4/fw9T5UUB+YEQXIkqt1O/MHtOfD+TmE1NxygB0XogqFCT95aOxjuU50ydKSx4VeakxFLWNdn4RAWqdMgusbfkg2bur5u73+3GjEsgdziCpQEfUGFnS1WLJf9ovG8sPK1TjhqSiqWXHAHkgYsEAG9BPVz7bd5n194EBwSbTso0TyFAnW3qHsv6pHPWs8oFAGp530FxjKxF6lFzFg5jjKSVp35GTBX7PzsEztB3PbgWd7zPqxMgcH+/mp8p69gilLRCx/VZn2bfSmYZgutitk7+wfFLB4NbMowcZp41Ov6aQdT7mw9p56EkH3OksQ+w/jBgGKdlvupwtqE7M=;0+BT16f/Qn28blqLODd+DA=="
+secured: "oKfu1S+xrbyRB8I9eR5divJ429BSwxTpVPCvXBJa0T0ncDYHZYGLCAmSgVMUGZVunYNKAX3SRtkSGHEX9w52rg4eqwJZC5o6fDvlpSUxCN7VP7nNQXqtmuOYthhcnMLAQSI6pax4zakWcvlPkHqb0fVRJGh3ZHK8e2pBdDTkFH2RKaChDClCsCUzDN9mA0gs2peRjB6nMH3d83TSokyrhGILfbkAgaxiIdNtwrYHItJOL0nBY2xa4LXDzYyGXpXQO/vUjeTD9uUyWAhmejolMkbqHQWpCYg3p0S0swrovmKu8E5vpxzvIoHBCtcoDrRFOl8aDBkV6CMXUfzEV4AkYX/o0OrTaj1tnnuIQklBxjdCK3nDPujzPFqCxcgyopzvPSR9iHGhYiL2sZKapGP1vR+u+BrS+q6oivcjwSCNrBpu/ZJsZXp/0DaYz0Ncj7ih5hVZHX+C7g7fZSMNSs4b6lmfoOE67HsBZ6rZQrlFQQO1+CU2/V6sDYsmxP9V9rHH9/NopA5eN/orrcGw4J5b2w==;0cq0p+ED5qs4B5xMBU85ug=="
 ---
 

@@ -208,6 +208,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "AI Chip Giant Nvidia Nears Trillion Dollar Valuation"
+    excerpt: "The market valuation of Nvidia, a US firm which specializes in chips coveted in the artificial intelligence boom, neared one trillion dollars on Thursday after the company blew past quarterly earnings expectations."
+    publishedDateTime: 2023-05-25T19:59:00Z
+    webUrl: "https://www.barrons.com/news/ai-chip-giant-nvidia-nears-trillion-dollar-valuation-6935e483?refsec=topics_afp-news"
+    ampWebUrl: "https://www.barrons.com/amp/news/ai-chip-giant-nvidia-nears-trillion-dollar-valuation-6935e483"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-chip-giant-nvidia-nears-trillion-dollar-valuation-6935e483"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP1142699521695357999177111569604888203951---1.jpg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "Nvidia shares skyrocket after AI-fueled sales projections crush forecasts; Chip maker nears $1 trillion valuation"
     excerpt: "Shares of Nvidia, already one of the world's most valuable companies, skyrocketed Thursday after the chipmaker forecast a huge jump in revenue, signaling how vastly the broadening use of artificial intelligence could reshape the tech sector."
     publishedDateTime: 2023-05-25T14:02:00Z
@@ -399,6 +415,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia gears up for AI-fueled data center boom"
+    excerpt: "The company projects a 10-year transition where data centers are reclaimed and built out as accelerated computing to support generative AI adoption."
+    publishedDateTime: 2023-05-25T21:00:00Z
+    webUrl: "https://www.ciodive.com/news/Nvidia-earnings-generative-AI-GPU-TPU-data-centers/651328/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/imgproxy/XNQoxz-_plEGhHQU6obzgrF85F9pYno_U8mnsqMERhg/crop:3000:1695/g:nowe:0:281/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk1NzAzNzAxOC5qcGc.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "Nvidia Stock Rides the AI Wave With More to Come"
     excerpt: "With its 25% post-earnings surge on Thursday, the stock is now up 161% this year on the promise that the company’s chips will power the future of AI. So what kind of sorcery is this? And why are investors willing to pay 186 times current earnings to ..."
     publishedDateTime: 2023-05-25T17:33:00Z
@@ -467,6 +497,20 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 32
+  - title: "Qualcomm: Why its stock, along with Nvidia, should get a boost from the AI boom, too"
+    excerpt: "Though the AI boom has massively benefited Nvidia, AI – and generative AI specifically – also marks a major opportunity for other chip companies like Qualcomm, the company's SVP of Product Management Ziad Asghar told Yahoo Finance Live."
+    publishedDateTime: 2023-05-25T21:29:00Z
+    webUrl: "https://www.aol.com/finance/qualcomm-why-stock-along-nvidia-201250855.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 32
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/1RLzATI9f3PO9tZo_EHw2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/30c67a9694c84dcb9e62ec18c4364a2e"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Nvidia benefits hugely from hype around AI"
     excerpt: "Nvidia's first-quarter figures will please its shareholders. The GPU giant pulled in $7.2 billion, significantly more than the expected $6.5 billion. The"
     publishedDateTime: 2023-05-25T12:23:00Z
@@ -485,7 +529,16 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 19
+  - title: "2 Stocks to Play the AI Boom, From Nvidia CEO’s Earnings Call Remarks"
+    excerpt: "Investors are now looking for other opportunities to benefit from the AI trend, which has already sparked Nvidia stock’s triple-digit gains this year. Ironically, the best ideas"
+    publishedDateTime: 2023-05-25T19:20:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-price-ai-adobe-servicenow-507a5c79"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 19
 
-secured: "ZRmJvKK/G0iZaXhKpQdb+zZY684pPvhPBpSAYNopV1j+OZyIimntziZezWk5Qm6KVHicus/eH2pvFKAnHK+bTX6gF6Y8Fhffc7N6JYSRFK/LVtpXa7yi19Qluxh+jIwIm1SA1S4WmTuFY38ZxGZyzaQm9MCFLDtc1YupyLpQP16zG0XWlQvBGbGBaJhW/wl8UM2VsUp8Fmoa4ZVPpS4kWRXbqu+OS6c+TgIeMgNBehP0oiNzKWFmWl+T0vo05QMTRqjH1In+T7ze4mI4VvM49pqjNlQD+jcc84fLZJ6xTJV/bx6uyjfdsR/afkz5zZEdU+UamnNVMhfTEWIoUWYRoI0+aMfFgSN6tOvmm9NdJbg=;H9aKnQ47XV88t77yvmYOuQ=="
+secured: "f6gV2C8B3tC2+5PUhXLNAr2FkzIA2XD/7ogQ6K2CM3FZnW6WScKbp9XrzxerxVubRUAacosnErhQEMSy8wbWVkn0Bua/Gw2uuR2pL61LR/eCx/c4AjOJ/Ol6obcucuESRL2p5VwAfmFj5c9P5RhM71wOe+0+j0yX1Em90xEByNKxxZK99iPad3NAQLgavlHGF/28qYMAJ2HFXPTHsLQXJifUgs4lMDytuhkkIsxo1AIw+k33Pi3Dbag60C2U+zCVVgeP2Smzjxr3yXRSF9A2Jw4IfQUza/a/965QfCm0sQX+CJiKaetpwxYNCVu8Uws35pUbYBPgLC2LsQnbUpRBGZvk7egM2FMKVxx5Z5uRX/MwI+raloBxFLLIyLjnpEE8Fk1QFauJICkqVCxoCmP17UYoP73MSQxMnDuVIddG2pPbw4Fhs6+368QKbWdUe26zExUW3RWxWKceIoYhnOhUVBRvdZryu1xISpD0FZPbGsux051t9zC95PjD/mFDC7orRr3Adm2bJlkPU1CgqBMcXw==;t3mkJFppjsgLJSNy23NxOQ=="
 ---
 

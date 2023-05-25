@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-05-scientists-ai-antibiotic-evasive-hospi
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-scientists-ai-antibiotic-evasive-hospital.amp"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     height: 1620
     isCached: true
 
-secured: "vAkMqSz6I0vuW4b6s0bWo6nSntyZRZGL5pBrhhcxRV0JE5pPOxIm51goGwAoK0XcC1Zub4mieekMdG1llfWcdWFcQoD9SB7GWwYIQMNAeIRNw+iQ6AqbmI3vCFIc+ShI2Rsykf0s1fW8ehllvtiUK8gE11R10mO1Gc7bcbBZYvKUEjoKFBXQAhBUdv68OBFaUqDt7ESCV0HWaXlHn+zWWOBRRXVbxL+y1g73OcAOEx3XUOd2a4gEB3o66SEoFfRcNhZKj+TlopbmKuWpLCkNHqSmJ4etD3Xt/mjr3sPkqBZYxoFxjaD0OYxH3+WKg3ti257SBcm5UXRyqIuRUHhY+OB30h4iZTY+1cOI2HVn/WE=;7xc7qzqNekM9byloMrYi9Q=="
+related:
+  - title: "Scientists use AI to discover new antibiotic to treat deadly superbug"
+    excerpt: "AI used to discover abaucin, an effective drug against A baumannii, bacteria that can cause dangerous infections"
+    publishedDateTime: 2023-05-25T19:48:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/25/artificial-intelligence-antibiotic-deadly-superbug-hospital"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/25/artificial-intelligence-antibiotic-deadly-superbug-hospital"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/25/artificial-intelligence-antibiotic-deadly-superbug-hospital"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/e3742a9a99450fcce971220af793a15e6e951b69/0_413_5500_3300/master/5500.jpg?width=620&quality=85&auto=format&fit=max&s=76edd5356118df70d34bff24513a693f"
+        width: 620
+        height: 372
+        isCached: true
+
+secured: "kNNnSjbhd00lmbsxPfVvYfR6eA+tx9ez87F/45o/QXqQUuRycWXCeSaVh7cv6Hwmu+32AY0CAB71tC5VQMPJO/aPqBMZ2k8QgEyleKvbZzN+JwLqh1OYTTrn0SWpE0LI5DOdgu8eLxZVH9o2mx89qnfA9yZcEN6qb73Ig1Oi9vZyOwy3LGhXSNK4ox+NqTugA+UXioVE3xxkcn+JUhtC4ka3Ks0AnF+knFFCZcXeOOSlH2zk73rBTUDdtvSBt0SB+WFTrqcnlXFvCy78EzKYsTQWvjCs65WtNvzdOxkUDDlrtrWDdDs0E7bRsVleoNLzCjTOHG7mJ7lJt1gpcbxQGUgtVASWA8yiJAkqAvFwZfUe7z+btgnjT5vmrWSxJcprMHatg3ioZPR+8i1gygUbJOrRJQQebPgaV0y8MbT7vXfc0bs3BotlfaasZiy/hdVNyROl4WiYpRqjqvF8l+CxUXBb3D8IjB5lueSTu35QV5y5TRAhVHDjg03IYleoBXWnn+Q6HSI3g3JgZXBvJ3ugXw==;/f0sbBVVonbEUXy1h5nvTQ=="
 ---
 

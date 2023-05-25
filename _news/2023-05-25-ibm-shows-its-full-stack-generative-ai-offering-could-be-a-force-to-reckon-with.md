@@ -116,6 +116,20 @@ related:
         width: 1194
         height: 875
         isCached: true
+  - title: "Google Now Testing Generative AI for Search"
+    excerpt: "Google today announced that it is opening up access to Search Labs, allowing testers to try out its new Search Generative Experience. The"
+    publishedDateTime: 2023-05-25T18:58:00Z
+    webUrl: "https://www.macrumors.com/2023/05/25/google-ai-search/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 37
+    images:
+      - url: "https://images.macrumors.com/t/qdB_4ekb91XkZACOM4ewxYF5fbU=/1600x/article-new/2023/05/google-search-ai.jpg"
+        width: 1600
+        height: 742
+        isCached: true
   - title: "Mai Writer Uses Generative AI To Double Marketing Output and Conversions"
     excerpt: "Kenn Costales, the Forbes 30 Under 30 Founder of AI startup Mai, is inviting copywriters, content creators, and digital marketing professionals to maximize their productivity"
     publishedDateTime: 2023-05-23T16:34:00Z
@@ -182,6 +196,6 @@ related:
       domain: businesswire.com
     quality: 8
 
-secured: "ptHIopsE4++zrlyE6AUrR41awkAUSf1HdU+ynD/aCkyDzyXDT/EB1soU8ZgwA0tBqFxI5HmiOgmbpc1SnD/0r+8OK/82v3rWpUThhkWToqQ/tS6t3iEd2ZdD8mVSLMqT+90lusx9yBuzSTZF0uhzuVT+CDKrQczGV4sY/8WFDpuyg6ca10yrwjMyNP20wsICnec2+G5AfGLrooUCldnCM/Zmte64HOtu+J1xzkoxY2JB1pbTFz7kOEUIzpgxfT4HRKzz1lzQJl9O3xQhsg8poZorszGNIVnwHaSOPUNccfDgEJFyGeIJCIVuYFaVbxHpZ+yv804VASfhMom/3HHbzidFIuFN//WSkiErdpCXzZ0=;ux5oQc8niwoyDPTRO6G3Ig=="
+secured: "PaVYaF7NYvyuNSzPpyJtfADd2d8c4W+omgwWUxHVKligrES1EBuQ6Pay2X/aC+WW4vpklXZ0iO/Ei2wITMjaxUyw0e5Tpwjdg3MtIUthk9ukXkJcS0C9lGoGx+51r0A9XBghMWQ6VhCefaQ7qmRDWBoHNHLBhM7kdfh6QXAC28EFz+UXOyF2X9JzbXuiVaCHBjxDGXa4LpoBMo1W4ng9BSWxUFtqlNDgbcMz8bpYddGCHFv9qMhW+tixPONnSLcBKfY4hkowgnvbyMBhSfARCNJIOeBbLkersaWyYg4ZQXGHWmQgjpEDdM4RDGd85/7jSShxFp9DewxHMRf79lStUSRFTfXvGbF4FgDCwiIAROJ9nvr4AhKpjrj+/XKpZSSK8LblVGXHATKX4shTTOQLxNMg8jPQIeJXwKS4xvh3qPJSFsbkr/3BrY+OnjK7MRhUV4DeEJURKjCT33Jsm6uu7Ktkhee3uhSxRMOBhDw/lo+WmyLiRwfrVliYZuQ3IoLVVV7ESDxTRfxPC3mXPpMENA==;TQCkm5A5Y5UH1GrHgmYqbw=="
 ---
 

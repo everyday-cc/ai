@@ -148,6 +148,15 @@ related:
         width: 1200
         height: 814
         isCached: true
+  - title: "OpenAI could 'cease operating' in EU countries due to AI regulations"
+    excerpt: "Sam Altman, OpenAI CEO, said the company could stop all operations in the European Union if it can't comply with impending artificial intelligence regulations."
+    publishedDateTime: 2023-05-25T17:32:00Z
+    webUrl: "https://www.zdnet.com/article/openai-could-cease-operating-in-eu-countries-due-to-ai-regulations/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
   - title: "AI may pull the trigger in war, but it shouldn’t call the shots"
     excerpt: "Think killer robots. Autonomous weapons ... Although the task of regulating AI might seem intimidating, we should start with core principles. The most vital one is that a human being should always be involved in the decision to use lethal force."
     publishedDateTime: 2023-05-24T07:06:00Z
@@ -162,6 +171,24 @@ related:
         width: 506
         height: 380
         isCached: true
+  - title: "EU takes on artificial intelligence: Will Europe's regulations act scare off OpenAI?"
+    excerpt: "But with fears of fake news, video manipulation, robots taking control and our world being driven to an automatic version of Hell, there is much to discuss."
+    publishedDateTime: 2023-05-25T18:52:00Z
+    webUrl: "https://www.france24.com/en/tv-shows/the-debate/20230525-eu-takes-on-artificial-intelligence-will-europe-s-regulations-act-scare-off-openai"
+    type: article
+    provider:
+      name: France 24
+      domain: france24.com
+    quality: 27
+  - title: "Need rules to trip AI rule?"
+    excerpt: "It is hard to see, for instance, why driverless cars would unite to march on Washington. And even if an AI program came up with the most persuasive political slogan ever created, why would this program nominate an AI-equipped computer as the nominee for the next president?"
+    publishedDateTime: 2023-05-25T18:39:00Z
+    webUrl: "https://economictimes.indiatimes.com/opinion/et-citings/need-rules-to-trip-ai-rule/articleshow/100510980.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
   - title: "The tech giants have an interest in AI regulation"
     excerpt: "ChatGPT is an example of “generative” ai, which creates humanlike content based on its analysis of texts, images and sounds on the internet. Sam Altman, CEO of OpenAI, the startup that built it, told a congressional hearing this month that regulatory ..."
     publishedDateTime: 2023-05-25T13:11:00Z
@@ -170,6 +197,24 @@ related:
     provider:
       name: The Economist
       domain: economist.com
+    quality: 17
+  - title: "OpenAI nearly doubles size of its startup investment fund"
+    excerpt: "Here's how big OpenAI's fund now is, what they've backed so far and who they added as a limited partner (it’s not just Microsoft)."
+    publishedDateTime: 2023-05-25T21:24:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/05/25/openai-startup-fund-nearly-doubles.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
+  - title: "Sam Altman says OpenAI could leave EU over proposed AI law"
+    excerpt: "OpenAI LP Chief Executive Sam Altman says a proposed artificial intelligence law in the European Union could lead the startup to shutter its regional operations. The Financial Times reported Altman’s remarks today."
+    publishedDateTime: 2023-05-25T19:36:00Z
+    webUrl: "https://siliconangle.com/2023/05/25/sam-altman-says-openai-leave-eu-proposed-ai-law/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 17
   - title: "A|I: The AI Times – OpenAI’s Sam Altman says this Canadian city should become a hub for AI"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."

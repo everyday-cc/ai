@@ -2,6 +2,213 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-23-ai-startups-outpace-others-in-securing-funding-from-vcs.md",
+      "title": "AI startups outpace others in securing funding from VCs",
+      "excerpt": "Sponsored Jobs Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More While fintech has enjoyed the largest stake of funding in recent years it seems to be losing its luster — in 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/",
+      "originalUrl": "https://venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/dev-team-e1644869815394.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 605,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/amp/",
+      "publishedDateTime": "2023-05-23T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-hear-how-sensiai-is-building-ai-for-remote-patient-monitoring.md",
+      "title": "Hear how Sensi.AI is building AI for remote patient monitoring",
+      "excerpt": "Remotely monitoring patients without violating their privacy is a challenging task. But one co-founder believes that she's cracked the code.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/23/hear-how-sensi-ai-is-building-ai-for-remote-patient-monitoring/",
+      "originalUrl": "https://techcrunch.com/2023/05/23/hear-how-sensi-ai-is-building-ai-for-remote-patient-monitoring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/TCL-2023-05-24-featured-1920x1080-1.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/23/hear-how-sensi-ai-is-building-ai-for-remote-patient-monitoring/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/hear-how-sensi-ai-is-building-ai-for-remote-patient-monitoring/amp/",
+      "publishedDateTime": "2023-05-23T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-microsoft-makes-a-push-for-ai-responsibility-and-safety-through-azure.md",
+      "title": "Microsoft makes a push for AI responsibility and safety through Azure",
+      "excerpt": "Azure AI Content Safety is now available in preview, but extra features are also coming for Designer and Bing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-pushes-for-ai-responsibility-and-safety-through-azure/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-pushes-for-ai-responsibility-and-safety-through-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 979,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/8829b6fd5b43a5e04b8b21eed200a0d06ad1693a/2023/05/22/5186cb3b-4ecd-43d7-83b4-234c88e2755e/msft.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-pushes-for-ai-responsibility-and-safety-through-azure/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-pushes-for-ai-responsibility-and-safety-through-azure/",
+      "publishedDateTime": "2023-05-23T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-qualcomm-revs-up-ai-capabilities-for-snapdragon-laptops-and-tablets.md",
+      "title": "Qualcomm Revs Up AI Capabilities for Snapdragon Laptops and Tablets",
+      "excerpt": "Qualcomm jumps on the AI train at Microsoft Build 2023, bringing AI access directly to devices running on its latest Snapdragon chip for Windows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/qualcomm-revs-up-ai-capabilities-for-snapdragon-laptops-and-tablets",
+      "originalUrl": "https://www.pcmag.com/news/qualcomm-revs-up-ai-capabilities-for-snapdragon-laptops-and-tablets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00zcg433I72hEGoITIdYLvP-1.fit_lim.size_1200x630.v1684800238.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.md",
       "title": "Why Microsoft is combining all its data analytics products into Fabric",
       "excerpt": "The integration of its existing products such as Synapse and Power BI will help enterprises combine workloads while reducing IT integration overhead, complexity and costs.",
@@ -1048,204 +1255,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-meta-fined-record-13-billion-by-eu-over-handling-of-facebook-user-data.md",
-      "title": "Meta fined record $1.3 billion by EU over handling of Facebook user data",
-      "excerpt": "European Union data regulators have hit Meta with a $1.3 billion fine (about €1.2 billion) and ordered the company to cease transferring EU Facebook user data to the US by October. The fine exceeds Amazon's $886 million fine from the EU for data protection violations in 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/",
-      "originalUrl": "https://www.zdnet.com/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/51f5cfda5dbc9796f18e715d4ae239f452ffb46a/2023/05/22/84c5ed15-7609-42d0-bd54-9a07cb0e23c1/gettyimages-1244644879.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/",
-      "publishedDateTime": "2023-05-22T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-how-leaders-could-use-ai-or-even-agi-to-make-better-decisions.md",
-      "title": "How Leaders Could Use AI – Or Even AGI – To Make Better Decisions",
-      "excerpt": "Most people continue to miss the point: the real power of AI, and even AGI, lies not in its ability to replace human decision making, but in its ability to augment it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brycehoffman/2023/05/22/how-leaders-could-use-ai--or-even-agi--to-make-better-decisions/",
-      "originalUrl": "https://www.forbes.com/sites/brycehoffman/2023/05/22/how-leaders-could-use-ai--or-even-agi--to-make-better-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/639618d36b2bd6c01b620ebf/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brycehoffman/2023/05/22/how-leaders-could-use-ai--or-even-agi--to-make-better-decisions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brycehoffman/2023/05/22/how-leaders-could-use-ai--or-even-agi--to-make-better-decisions/amp/",
-      "publishedDateTime": "2023-05-22T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-preserving-the-worlds-language-diversity-through-ai.md",
-      "title": "Preserving the World’s Language Diversity Through AI",
-      "excerpt": "Our Massively Multilingual Speech AI research models can identify more than 4,000 spoken languages, 40 times more than any known previous technology. These models expand text-to-speech and speech-to-text technology from around 100 languages to more than 1,",
-      "sourceUrl": null,
-      "webUrl": "https://about.fb.com/news/2023/05/ai-massively-multilingual-speech-technology/",
-      "originalUrl": "https://about.fb.com/news/2023/05/ai-massively-multilingual-speech-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://about.fb.com/wp-content/uploads/2023/05/Massively-Multilingual-Speech_Social-Share.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://about.fb.com/news/2023/05/ai-massively-multilingual-speech-technology/amp/",
-      "cdnAmpWebUrl": "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/05/ai-massively-multilingual-speech-technology/amp/",
-      "publishedDateTime": "2023-05-22T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "about.fb",
-        "domain": "fb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-intel-gives-details-on-future-ai-chips-as-it-shifts-strategy.md",
-      "title": "Intel gives details on future AI chips as it shifts strategy",
-      "excerpt": "A smartphone with a displayed Intel logo is placed on a computer motherboard in this illustration taken March 6, 2023. REUTERS/Dado Ruvic/Illustration/",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/news/picture/intel-gives-details-on-future-ai-chips-a-idUSKBN2XD1A3",
-      "originalUrl": "https://www.reuters.com/news/picture/intel-gives-details-on-future-ai-chips-a-idUSKBN2XD1A3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20230522&t=2&i=1633467317&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEJ4L0M3",
-          "width": 810,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-22T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

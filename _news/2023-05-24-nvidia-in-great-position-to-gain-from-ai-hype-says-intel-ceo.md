@@ -101,6 +101,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The AI-driven evolution of banks"
+    excerpt: "AI-driven transformation continues to accelerate. In this phase, banks are faced with new challenges and opportunities, which force them to pay attention to a plurality of aspects, all transversally crossed by a major cultural transformation."
+    publishedDateTime: 2023-05-25T20:49:00Z
+    webUrl: "https://techxplore.com/news/2023-05-ai-driven-evolution-banks.html"
+    ampWebUrl: "https://techxplore.com/news/2023-05-ai-driven-evolution-banks.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-ai-driven-evolution-banks.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-money.jpg"
+        width: 1920
+        height: 1188
+        isCached: true
   - title: "Nvidia's blowout forecast sparks huge rally in all things AI"
     excerpt: "Nvidia Corp’s forecast for surging revenue surprised even the most bullish analysts on Wall Street, propelling the chipmaker to the cusp of a US$1 trillion market capitalization and igniting a global jump in stocks linked to artificial intelligence."
     publishedDateTime: 2023-05-25T14:32:00Z

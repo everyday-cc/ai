@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/usa-stocks-weekahead/rpt-wall-st-w
 webUrl: "https://www.reuters.com/article/usa-stocks-weekahead/rpt-wall-st-week-ahead-artificial-intelligence-gives-real-boost-to-u-s-stock-market-idUSL1N37G1V2"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
       name: WGN Radio
       domain: wgnradio.com
     quality: 18
+  - title: "Stock market today: AI frenzy pulls Wall Street higher despite DC debt woes"
+    excerpt: "Wall Street’s building frenzy over artificial intelligence is helping to lift the market, even as worries worsen about political rancor in Washington"
+    publishedDateTime: 2023-05-25T17:10:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/stock-market-today-asian-shares-extend-losses-japans-99593726"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 15
 
 secured: "y0rtwycY1f0klYaHrCIigKCgsQPQJ5b4lv9/jm7lYpFOWaXfSeN6BxP6Hdawv9ayZV/z4963+7rXG7Q684wPk2eOm7isqegCP7VpR2uy1HyfCcTuh5WUJbpKs4nIgEO5nsNs1Q242qJ3ca5WtZIFrM7fmbrn5NbNts2uIv9Dx6ilO85v6Nt8e+zrFRDFuldbAiWKDvLSc1SMuSTx+aR95CEJt6mgGWV4IYdiag0XvYP+RSTCDJqlBhpHQEirtMq01dSH0RUubh/HlKfoXmUGQCidgS4vXsV9xDkMrvfuz57mA3wbT44PDwAr3/GVEog2fqGRN70/nzpiUZH3P8WMTPYFOWCZcUWMCuRCJ/nbfREX5piqtd4FbENYWKTwLSb+LBH4yfjPrhgAaObKAd7yrXtuvk4Df6IE/pyJ3pscJ8o+ir15/g4BxAsnTtmatg4MaGoo0L/cgrYMicUYIFICxEmtv0T57sCFhq9hvimHjZ2CMsE+zAOLMjktJBwgn64rvPrg6Ma69N2YIu6LSfwMgw==;mp/+YrAJdeLOKWk+EghT6w=="
 ---

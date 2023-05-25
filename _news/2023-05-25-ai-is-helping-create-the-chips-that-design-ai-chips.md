@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2023-05-25/nvidia-s-cul
 webUrl: "https://www.bloomberg.com/opinion/articles/2023-05-25/nvidia-s-culitho-has-ai-helping-design-chips"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Using Artificial Intelligence to Create Aperture Radar"
-    excerpt: "Carmakers are seeking to balance cost with capability as they increase the advanced driver assistance capabilities of their cars. Tesla, somewhat controversially, recently discontinued the use of radar on its vehicles in favor of a cameras-only sensor ..."
-    publishedDateTime: 2023-05-21T02:02:00Z
-    webUrl: "https://www.designnews.com/automotive-engineering/using-artificial-intelligence-create-aperture-radar"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 39
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/sensor%20on%20car.jpg"
-        width: 3080
-        height: 1601
-        isCached: true
 
 secured: "uZ4wt86dYzoMG2ay5ogT9m5e6RIAS06dJwMiUvzrYo9uQyO93CbY6hPS7RjRJHZ11Pn7o34l92UNdvZDAQNy6B1EFoqsklcxxiXcibnUqaMLjZYwLAHy6c9Q/AghRC2YdD+pgcBzACXoDtj4Y8JR8ZLGFfcY24BpICgUSaGsGaolv9AyX7vAyxRO14LLjnvOCEC0RUyihU31CPZPuCrmKUfJDAV5kt5Vt2Mi4J0DUxISMIVq0WrI76f2W7dLHwZCtjbf6bJpPIZtiOyfgNH7SxIcb3oQLQda/TGkQhs+BEQDIXok/hTU+X5jw8IxBEsg2Qtsqr75W1qPRR9ojQpzQruk1u0nwb8BpAOnNL9mYp8=;DkZWbvtrR+T5ZBTbzRZlVQ=="
 ---

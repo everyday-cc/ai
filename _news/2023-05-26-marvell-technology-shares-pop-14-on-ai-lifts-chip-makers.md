@@ -1,0 +1,35 @@
+---
+category: news
+title: "Marvell Technology Shares Pop 14% on AI Lifts Chip Makers"
+excerpt: "\"While we are still in the early stages of our AI ramp, we are forecasting our AI revenue in fiscal ... Shares of Nvidia rocketed Thursday as the graphics-chip maker said the rise of language-generating tools such as OpenAI's ChatGPT and other artificial ..."
+publishedDateTime: 2023-05-25T20:29:00Z
+originalUrl: "https://www.marketwatch.com/story/marvell-technology-shares-pop-14-on-ai-lifts-chip-makers-74001f2e"
+webUrl: "https://www.marketwatch.com/story/marvell-technology-shares-pop-14-on-ai-lifts-chip-makers-74001f2e"
+ampWebUrl: "https://www.marketwatch.com/amp/story/marvell-technology-shares-pop-14-on-ai-lifts-chip-makers-74001f2e"
+cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/marvell-technology-shares-pop-14-on-ai-lifts-chip-makers-74001f2e"
+type: article
+quality: 104
+heat: 104
+published: true
+
+provider:
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "mVXijgI1h+Fs0Pm008fAGS0ettS28g3S1oXk7T5dX/GAQMKsJN/AWVsZ+it1E1HYGtaOP4k6vXyiQ14TpL+lUubPAqAifskxrT1896fd8bnU7zoIEbOC3J5y2hGgFCSIMUXnU+57N0fmDgeYvFQKwWQkH/hggQnr+4GsKqlIAKlTJazKv3nmLvzFkEG68nD54he65+0z80IjkDkgQLd9FUG1cVTthYaCUWHtITHaEeu4RRoz+M+vp97HnU9icUeoowj6aItEsoDRazvYRVraBhsOW4xoNcZZLsevyqN5U8tTsWvgLt6An8c7emaIZXzmJLHX5nDa3q7p22Y4nZCtUjC6dCFOkvq/XJp005vToFk=;eusQYZAfYPc9QC7eijhNHg=="
+---
+

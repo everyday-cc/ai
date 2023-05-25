@@ -54,6 +54,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Another View | Chicago Tribune: We need true guidance on AI"
+    excerpt: "Geoffrey Hinton, the visionary expert who was at the heart of so much innovation in artificial intelligence and machine learning, left Google. In an interview with CNN, he said,"
+    publishedDateTime: 2023-05-25T13:31:00Z
+    webUrl: "https://tdn.com/opinion/editorial/another-view-chicago-tribune-we-need-true-guidance-on-ai/article_1294a10a-fb27-11ed-a91e-ef871b40c59b.html"
+    type: article
+    provider:
+      name: tdn
+      domain: tdn.com
+    quality: 19
 
 secured: "qjeU2OeEcS9fUJYG5kJ73+Sq/ucT1njxXQUYGI+70Kmf6639xvJfaXE6CXtRpeS9wyvJ3yQ2Hpe/1R8e7pptsdCuo+WcO9ZioeTLnrTnWIs7J1LuFI4Tzfjzp31tXMr7Q0Qw7gY1tt2fGGhkl6Cus6oMs0nsXAUPgt4envSYEkizH8kaTfPJKeGFRBNfXoTD2X6E3c0UqJeNkVbwNhk599wBzKETzn9UH0IfAW6Bwz9+adrC/Tgv9bMl4ruDjswh9C0ZfaUnrR63ag3jMa89ymDarx8SDl+888UsKP4DzAHOi5YtkemJxqzmmVL/tZ7kY50oBMO09rOo5y/ciU/bWmFQU7WE993tEeg0OCkvl4Y=;Pjq65VlovFbJE64nSCemtw=="
 ---
