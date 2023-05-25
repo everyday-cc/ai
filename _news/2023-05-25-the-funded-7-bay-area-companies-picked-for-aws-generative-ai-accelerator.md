@@ -77,7 +77,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 77
+    quality: 79
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_285803778.jpeg?w=1200&strip=all"
         width: 1200
@@ -126,6 +126,20 @@ related:
       - url: "https://www.statnews.com/wp-content/uploads/2023/05/stat_ai_YouShouldKnow_2000x1125-1024x576.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Snowflake acquires search startup Neeva to leverage generative AI"
+    excerpt: "New Delhi, May 25 (IANS) Cloud data platform provider Snowflake has acquired search startup Neeva to accelerate search in the Data Cloud through generative AI. Neeva has created a unique and transformative search experience that leverages generative AI and ..."
+    publishedDateTime: 2023-05-25T05:47:00Z
+    webUrl: "https://glamsham.com/world/technology/snowflake-acquires-search-startup-neeva-to-leverage-generative-ai"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 37
+    images:
+      - url: "https://glamsham.com/wp-content/uploads/2023/05/635b94b7ecc224b4d4babeb2ba5a8d5a-3.jpg"
+        width: 647
+        height: 483
         isCached: true
 
 secured: "09N9wfimTyqe2hq6Dd3vyoC/EbW8U/kx2POzSWWCxG5tDhUkXlnQ8qFbKLs4iJ89kzcQ6HUOO1sXDQ9R3XIo9/VJ//rVx8V7Jds2+IgNsYyEzbgMfj9tfMyrvjPrVdNdgOWfAEk8nOi322MmsWC49znhqwaUyksVaf/HT+civGLvzEk8M4c0zw7bXSyOLC5SLHR6zpW30uDboC4dg9wXr41Hs0X+BwrIfqZ+4kZ1jX2UZ84Ocjgq1P8hjyPskEk58MFtZ/5LuIeR5tv/bZxJNnzO9So0G63wOOFHHVyIFbpjCLWf04C8/rj+WtUNto8i31Lwj/7qo5Y2d8Rqp+FFWDR2fH0Yxm2V2RyrMydIKjYWggfkmibzlxRGJcLpL7mzZ/4QJuuBE0I6KtV+btVK/m3pmHcv6Dvb+S8WC2txpCjekyic99vs435kqVNdjk9ofXS5WHHTwCFB3Ud02RRDpY82+wArS9EsMymyrEYABtL/OMv4nlPHhLv9k0Kc5vKiZZ3DgGUPawHUSnLY0PnYrQ==;6MrtZewfoLXH+hS7kX64cQ=="

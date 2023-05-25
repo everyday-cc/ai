@@ -27,6 +27,54 @@ images:
     isCached: true
 
 related:
+  - title: "Bank, fintech collaboration to improve financial services"
+    excerpt: "A strategic partnership of banks, fintech and mobile financial services (MFS) could boost Bangladesh’s banking sector by delivering better, cheaper and more inclusive services, according to the top executives of some lenders in the country."
+    publishedDateTime: 2023-05-25T05:00:00Z
+    webUrl: "https://www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886"
+    ampWebUrl: "https://www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
+    images:
+      - url: "https://images.thedailystar.net/sites/default/files/uploads/2023/05/25/untitled_design_-_2023-05-25t114842.157.png"
+        width: 750
+        height: 393
+        isCached: true
+  - title: "Fintech Ramp Launches AI-enhanced Tools to Help Businesses Streamline Operations"
+    excerpt: "Ramp, the finance automation platform, announced Ramp Intelligence: a set of tools in financial services, driven by AI, to solve customer issues."
+    publishedDateTime: 2023-05-20T14:38:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 54
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2013/05/Tools.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "LatAm Fintech Kiwi Acquires $80M to Provide Underbanked Consumers with Credit Access in the US"
+    excerpt: "Kiwi, a fintech dedicated to helping consumers, announced that it has closed a $75 million credit facility and $4.5 million pre-series A funding round."
+    publishedDateTime: 2023-05-23T16:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/05/207533-latam-fintech-kiwi-acquires-80m-to-provide-underbanked-consumers-with-credit-access-in-the-us/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/05/207533-latam-fintech-kiwi-acquires-80m-to-provide-underbanked-consumers-with-credit-access-in-the-us/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207533-latam-fintech-kiwi-acquires-80m-to-provide-underbanked-consumers-with-credit-access-in-the-us/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 47
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/07/Latin-America-South-America-LATAM-Globe-Map-816x1024.jpg"
+        width: 816
+        height: 1024
+        isCached: true
   - title: "Fintech Nexus 2023 – Fintech Forever"
     excerpt: "Rising interest rates, stubborn inflation, and the encroachment of AI were topics of discussion at Fintech Nexus. We find ourselves at a crossroads again, and the industry must find its footing to reinvent itself. The keynote speakers this year are akin to ..."
     publishedDateTime: 2023-05-24T14:52:00Z
@@ -43,19 +91,33 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Fintech Firm Klarna, Airbnb Offer Flexible Payments for Guests"
-    excerpt: "Klarna, the AI powered global payments network and shopping destination ... online lending, and other forms of Fintech. Rotterdam Netherlands, 5th May 2023 -Max Crowdfund, an award-winning realestate crowdfunding platform, todayannounced the appointment ..."
-    publishedDateTime: 2023-05-23T03:32:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/05/207468-fintech-firm-klarna-airbnb-offer-flexible-payments-for-guests/"
+  - title: "LatAm Fintech Kiwi Raises $80 Million to Provide Underbanked Consumers with Credit Access in the U.S."
+    excerpt: "Kiwi, a fintech dedicated to helping consumers build credit history and improve financial literacy, today announced that it has closed a $75 million credit facility and $4.5 million pre-series A funding round."
+    publishedDateTime: 2023-05-22T16:14:00Z
+    webUrl: "https://financialit.net/news/fundraising-news/latam-fintech-kiwi-raises-80-million-provide-underbanked-consumers-credit"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
+      name: Financial IT
+      domain: financialit.net
     quality: 39
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/Klarna.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://financialit.net/sites/default/files/kiwi.png"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "LIBF India joins Fintech Festival India as Knowledge Partner to empower and upskill the banking and finance professionals"
+    excerpt: "The London Institute of BankingampFinance India enters the Indian market with the aim to collaborate with corporates universities and colleges to empower and ups"
+    publishedDateTime: 2023-05-24T11:00:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273841244/libf-india-joins-fintech-festival-india-as-knowledge-partner-to-empower-and-upskill-the-banking-and-finance-professionals"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 29
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1684924059.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Home-grown help for Bermuda’s fintech future"
     excerpt: "The Bermuda partner and head of ventures of a blockchain-centric advisory firm is focused on ensuring that Bermuda succeeds in its fintech ambitions, as he builds his Toronto-based consultancy. The"
@@ -85,6 +147,34 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "Fintech firms need to grow up and embrace transparency"
+    excerpt: "The days of taking shortcuts around regulation and lax fiscal discipline need to come to an end if the industry is going to reach its full potential."
+    publishedDateTime: 2023-05-23T14:00:00Z
+    webUrl: "https://www.americanbanker.com/opinion/fintech-firms-need-to-grow-up-and-embrace-transparency"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 24
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/6982c1c/2147483647/strip/true/crop/7587x3983+0+142/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F66%2F90%2F04940e4943fa9505cd3f219f382f%2Fadobestock-282379113.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Financial Inclusion 2.0: The role of fintech innovations"
+    excerpt: "According to the Official Ghana Demand Side Survey 2021, Ghana has achieved its financial access target of 85% set by the National Financial Inclusion and Development Strategy 2018 - 2023 ahead of the end of the target year – 2023."
+    publishedDateTime: 2023-05-24T07:36:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Financial-Inclusion-2-0-The-role-of-fintech-innovations-1772666"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 24
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/461/46142018.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "QED's Rotman: The new fintech winners could be international"
     excerpt: "Some of the biggest outcomes in fintech of the last decade have been U.S. or consumer-focused businesses. QED Investors co-founder Frank Rotman believes the next generation could be more international."
     publishedDateTime: 2023-05-24T15:00:00Z
@@ -99,6 +189,85 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "LatAm fintech Kiwi raises $80 million"
+    excerpt: "Kiwi, a fintech dedicated to helping consumers build credit history and improve financial literacy, today announced that it has closed a $75 million credit facility and $4.5 million pre-series A funding round."
+    publishedDateTime: 2023-05-22T15:11:00Z
+    webUrl: "https://www.finextra.com/pressarticle/96927/latam-fintech-kiwi-raises-80-million"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
+  - title: "What impact will AI have on FinTech in 2023?"
+    excerpt: "Artificial intelligence (AI) is emerging as one of the key driving forces behind financial technology, as in many other industries recently. It’s a defining"
+    publishedDateTime: 2023-05-22T17:20:00Z
+    webUrl: "https://www.businesslancashire.co.uk/2023/05/22/what-impact-will-ai-have-on-fintech-in-2023/"
+    type: article
+    provider:
+      name: https//businesslancashire.co.uk
+      domain: businesslancashire.co.uk
+    quality: 19
+  - title: "5 questions with Dave CEO Jason Wilk on the fintech’s in-app moneymaking feature"
+    excerpt: "Making money from surveys isn’t some Craigslist scam. It’s a fintech feature — and Wilk said it's made members $1 million since December."
+    publishedDateTime: 2023-05-24T21:59:00Z
+    webUrl: "https://www.bankingdive.com/news/5-questions-dave-ceo-jason-wilk-fintech-surveys-feature/651214/"
+    type: article
+    provider:
+      name: bankingdive
+      domain: bankingdive.com
+    quality: 19
+    images:
+      - url: "https://www.bankingdive.com/imgproxy/0j2Z6qf8P7Fh6aKOIK7jHLNY142naTxSUjjn5jAaFiU/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0RhdmVfU3BlbmRpbmdfcGljXzIuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
+  - title: "AI’s pioneering influence on fintech"
+    excerpt: "Jennifer Fuller, US Financial Services Lead at PA Consulting, explains how AI tools are reshaping the fintech landscape for financial inclusivity."
+    publishedDateTime: 2023-05-24T19:17:00Z
+    webUrl: "https://www.paconsulting.com/newsroom/cmswire-ais-pioneering-influence-on-fintech-24-may-2023"
+    type: article
+    provider:
+      name: PA Consulting Group
+      domain: paconsulting.com
+    quality: 19
+  - title: "AI-First FinTech Platform Line expands to capture $10 Trillion in Annual Spending Power at the Bottom of the Pyramid"
+    excerpt: "Line Financial Creator of Americas #1 Smart Wallet AppTM, expands its AI capabilities to capture $10 Trillion in Annual Spending Power at the Bottom of the Pyramid in the US. SAN FRANCISCO, May 23, 20"
+    publishedDateTime: 2023-05-23T21:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32541435/ai-first-fintech-platform-line-expands-to-capture-10-trillion-in-annual-spending-power-at-the-bott"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32541435"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32541435"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 16
+  - title: "Top 5 Startups Leveraging the Power of AI to Revolutionize the Fintech Industry"
+    excerpt: "Here is the rundown of the top 5 Fintech startups unleashing the power of AI to bring transformation in the industry. Read here everything."
+    publishedDateTime: 2023-05-23T06:18:00Z
+    webUrl: "https://www.ciol.com/top-5-startups-leveraging-the-power-of-ai-to-revolutionize-the-fintech-industry/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 15
+  - title: "LIBF India joins Fintech Festival India as Knowledge Partner to empower and upskill the banking and finance professionals"
+    excerpt: "The London Institute of Banking & Finance India enters the Indian market with the aim to collaborate with corporates, universities and colleges to empower and upskill banking and finance professionals."
+    publishedDateTime: 2023-05-24T22:38:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230524/4077172.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 9
+  - title: "Monty Finance highlights global expansion with innovative fintech solutions at Seamless middle east"
+    excerpt: "With a commitment to innovation and client-centricity, MyMonty offers an empowering digital banking experience coupled with competitive offers and advanced AI-backed features. As a trusted FinTech enabler, MyMonty leverages its extensive expertise and ..."
+    publishedDateTime: 2023-05-23T12:07:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/monty-finance-highlights-global-expansion-with-innovative-fintech-solutions-at-seamless-middle-east-ymgybwqd"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 5
   - title: "Goldpac pushing boundaries on consumer fintech at Seamless Middle East 2023"
     excerpt: "Goldpac Fintech exhibiting its latest technologies at Seamless Middle East 2023 (booth A20). Six displays and demonstrations address current payment card issuance needs, from premium card printing finishes and effects,"
     publishedDateTime: 2023-05-23T12:12:00Z

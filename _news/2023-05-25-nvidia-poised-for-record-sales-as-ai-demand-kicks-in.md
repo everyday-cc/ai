@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Nvidia Poised for Record Sales as AI Demand Kicks In"
-excerpt: "As tech giants such as Google, Microsoft, Amazon and Facebook rush to build AI capabilities similar to ChatGPT, they need pricey chips. And as WSJ’s Dan Gallager explains, that’s good for Nvidia. Chip giant Nvidia is starting to capitalize on the craze ..."
-publishedDateTime: 2023-05-24T20:56:00Z
-originalUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?siteid=yhoof2&yptr=yahoo"
-webUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?siteid=yhoof2&yptr=yahoo"
+excerpt: "The graphics-chip giant forecast a strong revenue bounce back for the current quarter, driven by growing appetite for generative AI technology."
+publishedDateTime: 2023-05-24T22:28:00Z
+originalUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?mod=hp_lead_pos6"
+webUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?mod=hp_lead_pos6"
 type: article
-quality: 86
+quality: 84
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
   - AI in Sales
 
@@ -218,6 +217,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "2jibNsGaMZdSMMH+oOIgMIsKoRHdugwrPYEmQjAr/An471YAAQ4Y3qm/Fc0dC1wBbuB3kRTrMiGDsSrnODIVEFz25w6Ak9ujIe8HE3qzNE5/Sifv+Ix0zzqqyQxyXc9asQolMIYFIZZgtKE/jADSbNeqSX1kNXZ6Dm65PA/ZVSDYosoJpWrV7ouRlgDlVVZWppMqNwFSF7m2w4ioE4k0xqV3jH5AmeQS2zWOvRdG9Cbu4qT5dCtyIb0EyLcI0CcICglvzH4Syy/kVveO9uSIWSsQlRnE9bshpC6P5YYjIGBxAFHhfVZMLxyVHTjwC/DryRUbMk63IcejS9zYgSHk5Vu7pfiE9KTDT0ZnlI6+TOfAAg47xYxKKd+EzxCpxGgSW/43AIMtlPfTPRiaWuIWiODczHiNtWZE5NWlK6ff2RlgItdszqHVEwHo+XVCbr9p8baL6YfXfWRulT49uk+1MHTUMoXsaEUN3deAKh4k/gRkRk5I7ePGFk9+12o1W/ysof2YKSgitTb/yMziIOh6Zw==;2zu8nkhL2/ohWzatYd8/4g=="
+secured: "S1aZ2uDu6dtHBUY0EUQkxCCiUMU8cJZtKePs9RjoJI3T6J2xnJNwQWscDx0Rdx4MDbkZugzyd3Um7knnQMRufxI4oU8hsUVggmuAvHDgeaU91v3N063Q4PLsjf03CC92yl8U8wXYDDf/D/c0P3cSUzaefnPocpi2XFz8RBJqdTJBciU9sNfGfmtfgR96pArWrp9P/Y8OKRGhKiz3MLgxXm3Xmk2DMZcoB5iz4Y0fLP7d3i40gBRPeLGXGttkY2Q2DJLPs7/Cb5n4Y9FpSN7gAn0D6iYh8FQxIwIvmOGXW3sGFzLk9/LUfm+zQq2tX7r8xkpRqOnzlTfljg9jo29MgZwoM4loFvC7FRkaFZqxG04=;ThyWFYx7DP6HoZfy7JQOxg=="
 ---
 

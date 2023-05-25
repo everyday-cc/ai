@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-23-why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.md",
+      "title": "Why Microsoft is combining all its data analytics products into Fabric",
+      "excerpt": "The integration of its existing products such as Synapse and Power BI will help enterprises combine workloads while reducing IT integration overhead, complexity and costs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3697020/why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.html",
+      "originalUrl": "https://www.infoworld.com/article/3697020/why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2017/07/thread_weave_factory_automated_loom-100728392-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3697020/why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3697020/why-microsoft-is-combining-all-its-data-analytics-products-into-fabric.amp.html",
+      "publishedDateTime": "2023-05-23T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind.md",
+      "title": "These generative AI tools coming to Adobe Photoshop will blow your mind",
+      "excerpt": "From changing the scenery of images to adding new subjects via text, here's what you need to know about Adobe's new AI image generator tool and when it will be available.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind-what-you-should-now/",
+      "originalUrl": "https://www.zdnet.com/article/these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind-what-you-should-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b22dc33aeaf613e57a7e56a5a52ef2eac451c52a/2023/03/01/d1762712-8441-4457-900a-4bc8edf5521c/samsung-galaxy-book-3-ultra-hero.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind-what-you-should-now/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind-what-you-should-now/",
+      "publishedDateTime": "2023-05-23T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-what-is-smart-transportation.md",
       "title": "What is smart transportation?",
       "excerpt": "From traffic jams to seamless journeys— exploring the promise of smart transportation.\nThe post What is smart transportation? appeared first on IBM Blog.\n",
@@ -347,7 +451,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-for-an-artificial-sensory-nervous-system-for-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -597,7 +701,7 @@
       "originalUrl": "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1137,108 +1241,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-how-leaders-could-use-ai-or-even-agi-to-make-better-decisions.md",
-      "title": "How Leaders Could Use AI – Or Even AGI – To Make Better Decisions",
-      "excerpt": "Most people continue to miss the point: the real power of AI, and even AGI, lies not in its ability to replace human decision making, but in its ability to augment it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brycehoffman/2023/05/22/how-leaders-could-use-ai--or-even-agi--to-make-better-decisions/",
-      "originalUrl": "https://www.forbes.com/sites/brycehoffman/2023/05/22/how-leaders-could-use-ai--or-even-agi--to-make-better-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/639618d36b2bd6c01b620ebf/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brycehoffman/2023/05/22/how-leaders-could-use-ai--or-even-agi--to-make-better-decisions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brycehoffman/2023/05/22/how-leaders-could-use-ai--or-even-agi--to-make-better-decisions/amp/",
-      "publishedDateTime": "2023-05-22T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-chatgpt-and-generative-ai-our-guide-to-2023s-most-talked-about-technology.md",
-      "title": "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology",
-      "excerpt": "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chatgpt-ai-guide-to-most-talked-about-technology-2023-may",
-      "originalUrl": "https://www.businessinsider.com/chatgpt-ai-guide-to-most-talked-about-technology-2023-may",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg",
-          "width": 470,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chatgpt-ai-guide-to-most-talked-about-technology-2023-may?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-guide-to-most-talked-about-technology-2023-may?amp",
-      "publishedDateTime": "2023-05-22T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

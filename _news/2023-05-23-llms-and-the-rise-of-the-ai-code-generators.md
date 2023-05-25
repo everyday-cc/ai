@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-a
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.amp.html"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/645ba61bd8a7fb17319c02fa/0x0.jpg?format=jpg&crop=3574,2012,x0,y410,safe&width=1200"
         width: 1200
         height: 676
-        isCached: true
-  - title: "The Optimist’s Guide to Artificial Intelligence and Work"
-    excerpt: "Companies like IBM and the British telecommunications company BT have cited artificial intelligence as a reason for reducing head count, and new tools like ChatGPT and DALL-E make it possible for anyone to understand the extraordinary abilities of artificial intelligence for themselves."
-    publishedDateTime: 2023-05-20T12:01:00Z
-    webUrl: "https://www.nytimes.com/2023/05/20/business/dealbook/the-optimists-guide-to-artificial-intelligence-and-work.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 71
-    images:
-      - url: "https://static01.nyt.com/images/2023/05/20/business/20DB-AI/20DB-AI-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
 
 secured: "Im1ND8vxPgMVbDdUBSq0FYotVQIraF73Fd8IgrA7zQdhiIczLueAVASkjXfGaJJ7yn0oCj2iHQb6cbHxtplHClL1snPnTYQ2zP1joRqMVAxyiiDEpxuHSsconQeDphIuVWjWOojmnV1xNzVn1hvfHXxRUwU30hTnjlL2jeTuUhvXdenDDk+UE8M2xgzEG37x+2oD0cFwhhH9lxnZCAcjaHXmO/HLxxyBZHZshyf5jp1MYUjn5Q6rNaP3MP9x+2yghwFZ45ghdMYMTQDvjqA18lnVGBSbnwfh/DlXy3gA97IeqnlvchsEq2ko3ykPLYuwccqO2HIa3fE8RpvMUTXD1enh2vkFKBJRiPERXOd2IZq2KezRIz4Ge9lHq6fuLv/aAoHDYOEsi1DitF/iCsMUMUeGlPvwSDlySIuSxXYaBbEm3vLPdL/SQiqnGRO5ejB5LEWOB6hO+Dv8MLNIQ0eYnSXbQUOQws+oZMcd8p2wmlwV3H+lkfLj9gGcvSzX8jla+TQSntm7dLe2L3eGIqP1sA==;iEqh5HMaldvWUKfrdzGTTw=="

@@ -62,14 +62,14 @@ related:
         height: 800
         isCached: true
   - title: "Nvidia Poised for Record Sales as AI Demand Kicks In"
-    excerpt: "As tech giants such as Google, Microsoft, Amazon and Facebook rush to build AI capabilities similar to ChatGPT, they need pricey chips. And as WSJ’s Dan Gallager explains, that’s good for Nvidia. Chip giant Nvidia is starting to capitalize on the craze ..."
-    publishedDateTime: 2023-05-24T20:56:00Z
-    webUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?siteid=yhoof2&yptr=yahoo"
+    excerpt: "The graphics-chip giant forecast a strong revenue bounce back for the current quarter, driven by growing appetite for generative AI technology."
+    publishedDateTime: 2023-05-24T22:28:00Z
+    webUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?mod=hp_lead_pos6"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 86
+    quality: 84
     images:
       - url: "https://images.wsj.net/im-783520/social"
         width: 1280

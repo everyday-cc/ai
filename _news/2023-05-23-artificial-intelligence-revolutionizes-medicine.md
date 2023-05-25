@@ -20,42 +20,19 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Revolutionising retail ecommerce with artificial intelligence and machine learning"
-    excerpt: "AI and ML are transforming the retail ecommerce landscape, providing retailers with powerful tools for overcoming their most pressing challenges. By harnessing the power of AI and ML, retailers can streamline their operations, increase efficiency, and improve the customer experience."
-    publishedDateTime: 2023-05-20T12:15:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-revolutionising-retail-ecommerce-with-artificial-intelligence-and-machine-learning-3094979/"
+  - title: "ChatGPT in medicine: STAT answers readers’ burning questions about AI"
+    excerpt: "What meaningful efforts are being made to establish an effective framework for ethics, representation, and regulation? “I share the same concerns,” said Owens, the NYU ethicist. She pointed out that the Coalition for Health AI recently published a ..."
+    publishedDateTime: 2023-05-23T08:33:00Z
+    webUrl: "https://www.statnews.com/2023/05/23/chatgpt-questions-health-care-patients-artificial-intelligence/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 45
-  - title: "AI Making Business Aviation More Efficient"
-    excerpt: "The business aviation industry is turning to artificial intelligence to optimize their operations and improve their efficiency."
-    publishedDateTime: 2023-05-24T16:28:00Z
-    webUrl: "https://www.ainonline.com/aviation-news/business-aviation/2023-05-24/ai-making-business-aviation-more-efficient"
-    type: article
-    provider:
-      name: Ainonline.com
-      domain: ainonline.com
-    quality: 37
+      name: STAT
+      domain: statnews.com
+    quality: 39
     images:
-      - url: "https://www.ainonline.com/sites/default/files/styles/app_large_full/public/uploads/2023/05/uas_panel_img_1676.jpg?itok=NVPCtdeT"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "Study Finds AI and Emerging Technologies Increasing Tension as Journalists Face Growing Challenges to Maintain Accuracy and Truth"
-    excerpt: "State of the Media Report spotlights challenges and opportunities in rapidly changing media landscape “Accuracy” and “maintaining credibility as a trusted news source” are leading concerns for journalists,"
-    publishedDateTime: 2023-05-25T01:30:00Z
-    webUrl: "https://www.thaipr.net/en/business_en/3340539"
-    type: article
-    provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 10
-    images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/05/Image_2-1-1.jpg"
-        width: 600
-        height: 450
+      - url: "https://www.statnews.com/wp-content/uploads/2023/05/stat_ai_QsForStat_2000x1125-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "aNoczmmTB7LqdeyoSlPN/ji7sn8awLVFj2FgSU0k7q+uHZk808BiFySVC74q05Kdubox3MfN/QZjd+M4n8K+GR+9Q1u0cAuEi3ejgXAB8Hx7gXE9U8PSqcFrn5d3codaXrDdSdC+btSD3y9NQ1PrLi8Ok7vA4x2PDJ8TvP9ZTHAhe6d77ufY2nQm5bJKkI9s0/FZgre1xrfjzNaxS5wOevLPSE6aMiSUBmHakY76kVblrgNjK7HbffGxQunxiPTrzsHgOQf5NCduQ3j4QiBpEUqjsAzaKsFVb3oTlPnU9VBUbNSjQcqc7myLi945rFEYG7FJUc7pL3/UDY/QWVWcrY/W+0XfgDTr85uVnJD1UPk=;j4wuPh4M/1rExnodtmGS7Q=="

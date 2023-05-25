@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Nvidia Poised for Record Sales as AI Demand Kicks In"
-    excerpt: "As tech giants such as Google, Microsoft, Amazon and Facebook rush to build AI capabilities similar to ChatGPT, they need pricey chips. And as WSJ’s Dan Gallager explains, that’s good for Nvidia. Chip giant Nvidia is starting to capitalize on the craze ..."
-    publishedDateTime: 2023-05-24T20:56:00Z
-    webUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?siteid=yhoof2&yptr=yahoo"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 86
-    images:
-      - url: "https://images.wsj.net/im-783520/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Nvidia to face shortages after a boom in GPU demand for its AI"
     excerpt: "Nvidia is seeing a bump in GPU sales in the market over its AI capabilities. However, while this is great news for its GPU business, it would also have the company face stock shortages till the end of this year."
     publishedDateTime: 2023-05-23T08:59:00Z
@@ -88,6 +74,20 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2023/05/NVIDIA-Hopper-GPU-_3-g-low_res-scale-2_00x-768x723-1.png"
         width: 768
         height: 723
+        isCached: true
+  - title: "Nvidia Poised for Record Sales as AI Demand Kicks In"
+    excerpt: "The graphics-chip giant forecast a strong revenue bounce back for the current quarter, driven by growing appetite for generative AI technology."
+    publishedDateTime: 2023-05-24T22:28:00Z
+    webUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?mod=hp_lead_pos6"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-783520/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Nvidia Sales Crush Wall Street Estimates Thanks To AI Boom, Shares Spike Over 20%"
     excerpt: "The professional vizualization segment, which includes Omniverse Cloud, a service running in Microsoft Azure for the development and deployment of industrial metaverse applications, posted $295 million in sales, down 53% from a year ago. “I think in AI ..."
@@ -217,6 +217,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "QMOG4hTf3YkZqP/mCTKEGDuznMCrEMhZCUpq+iYN65e9QEC050MWH0p9nD0MJV8yBXQ+LWEvEYwAo0kfY0R808+fsBl3q/XfKydOVkYczlBzkO+Ly0GWVsU2WkRm/HoYlrLgB9B/il0S8cD63VKdvaGtGModawwgmUeqU9NLUraEmZjG7ThyWI0jv8C+V/9vmiW+68QDthXg4rvsVl4ucM+IHO8oi2y1YkhzMvn6M7cRByTCb7/rWJEoTP9go0pn0xeYPSHjG9By6EoD6hT+evzT2SsCUErt65+9ABNbneoo5x0HPE8yP6ZufpwIMB6a8KnQ1fHszeANK9xZEb2ACNzim1sSuSYf7FnOG55mGtU=;OWKQ783XX99/qK7GPZtgRA=="
+secured: "mBHkmjrDY3t63s9BA3UrmHrrZPCuGPGqr7JlfyPN2GVgTcp7PVFj4hrdUxcNUNtgm11mzH/CP6TFz+4g1LGYGFcYNSkk3e9adT28uh/Do586cHAMWhyQn31707cVser/aPOp9qY4DfpDfpSye440uyuF7aHBcvk9h7ik0hNdFeP/X91jqw96GH4WgCY4XvlaCq1fjFIqj3cK8+TO6rcs3uX+HMFfba6UUXnNg66PQGsVC4E1X8bKqagNjmxT1oTb9RrtFCXXCp2YomGVp4r5FQ/gkIrrWDISykHa84lGEXwtzPwRy9DdF1uQ6t/703gaG0nypvAWlYOxBRDEdTwmWPxWR+TqPE+ADLfauDkqXfHbiuUpiFvC2eEmzeMXeGVaxRFqAJdiZ9RhCtdfDXHcbXTzLECpLAFNSbdUZgONOuK2V4bi9+V6eNaCl3YLCEX+Lj9BnuohGMDTD+LBFyLZu3t46l5EzZ8RIKWP/bYFRTRHVUj069WZoywZzDHgbIeOFvLEf1GA6IGfZ4xrRxaLZg==;z4/d9BV62nJMkHmYwwiOKw=="
 ---
 

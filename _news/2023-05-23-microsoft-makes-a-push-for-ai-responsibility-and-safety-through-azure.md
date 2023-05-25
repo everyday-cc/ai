@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-pushes-for-ai-res
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-pushes-for-ai-responsibility-and-safety-through-azure/"
 type: article
 quality: 119
-heat: 789
+heat: 799
 published: true
 
 provider:
@@ -266,6 +266,20 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/05/23/600x338/Europe-Microsoft-Activision-Blizzard-0_1684868585645_1684868891847.jpg"
         width: 600
         height: 338
+        isCached: true
+  - title: "Elon Musk Wants to Challenge Google and Microsoft in AI"
+    excerpt: "Elon Musk says it could involve different parts of his corporate empire, including Twitter, which he predicted could halt its losses as soon as next month."
+    publishedDateTime: 2023-05-24T23:21:00Z
+    webUrl: "https://www.wsj.com/articles/elon-musk-wants-to-see-an-ai-rival-to-google-microsoft-a299e27f?mod=e2tw"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-787338/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Microsoft beats Google by integrating an AI assistant straight into its OS"
     excerpt: "During Microsoft Build, the tech giant announced that Windows 11 will get a new feature called Windows Copilot."

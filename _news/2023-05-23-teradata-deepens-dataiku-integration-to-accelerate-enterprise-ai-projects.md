@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/teradata-deepens-dataiku-integration-to-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/teradata-deepens-dataiku-integration-to-accelerate-enterprise-ai-projects/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: HealthTech
       domain: healthtechzone.com
     quality: 23
+  - title: "Hyperautomation platform Zvolv to integrate AI orchestration to leverage generative AI in new age enterprise applications"
+    excerpt: "Hyperautomation platform Zvolv to integrate AI orchestration to leverage generative AI in new age enterprise applications - Zvolv, a leading global enterprise hyperautomation company today announced new generative AI capabilities"
+    publishedDateTime: 2023-05-25T05:31:00Z
+    webUrl: "https://www.siliconindia.com/news/general/hyperautomation-platform-zvolv-to-integrate-ai-orchestration-to-leverage-generative-ai-in-new-age-enterprise-applications-nid-223190-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 14
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/b7z51cen.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "DhY4vzV+vDVBt7tBAGM4OZt9szl7wZN7A85IZr6NfLD8UTrFRUB5R3wo9evPytgojuXYpIontpf5fSY1Y8mCqpPlIy1O3c2Dl+6VgfOXCRXyoUcInfyRDChaDH6HqAs4d0RJ74dGusI7v4XB8L9lmUaQTZFbdkOzkbZtpj+39MTieF9Zcqc00L4UPhDPbZ3cKfgL2V0kxru2Vg7rQd5BHn62DceNk6Gkq1honkUbvq8imehk7i1p1i1Qf2wdzvk1/sE44zJjYAiSRvj/YwDLvIyltNrLNPT9HKR6OSVmkxNRcy+Za6at6ZKTVTAQcvgF8iaBN7qUnpCrZRS5RXUcfK4gNkXzkRUtXdzRCzgRk2zuvzJfeH6BE15TksTb/f5kybuz483C04HICnKy/KdYYUh6u+zmXbTZW8xia87nULyQ3uJu8GQr0F+waiMUcq/1eENfL7EZbIKcNpDrO3tF9H/e9IDkocrQJbdt6kyt7X6YI66o6bZGo2vs72Z+HVR9ejP+k3YcuYxTGRegH9Rciw==;uhqz7hkcJxkQaExzHudIHQ=="
 ---

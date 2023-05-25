@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Former Google CEO Warns AI Could Cause People To Be ‘Harmed Or Killed’"
+    excerpt: "Eric Schmidt, who served as Google’s chief executive from 2001 to 2011, said artificial intelligence poses “existential risks.”"
+    publishedDateTime: 2023-05-24T18:12:00Z
+    webUrl: "https://www.forbes.com/sites/tylerroush/2023/05/24/former-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed/"
+    ampWebUrl: "https://www.forbes.com/sites/tylerroush/2023/05/24/former-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tylerroush/2023/05/24/former-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646e2c501dfd9a2eb25f411d/0x0.jpg?format=jpg&crop=3958,2226,x0,y98,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "People could be 'harmed or killed' by AI without action, says former Google CEO"
     excerpt: "Former Google CEO Eric Schmidt, in a talk about AI, said it poses an \"existential risk\" and could result in people being \"harmed or killed.\""
     publishedDateTime: 2023-05-24T15:30:00Z

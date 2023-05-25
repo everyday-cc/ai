@@ -30,7 +30,7 @@ related:
   - title: "Nvidia stock soars toward all-time high as record revenue forecast backed by ‘killer app’ of AI"
     excerpt: "Nvidia Corp. executives predicted record revenue well beyond anything the company has experienced Wednesday, pushing shares toward record territory."
     publishedDateTime: 2023-05-25T02:53:00Z
-    webUrl: "https://www.marketwatch.com/story/nvidia-stock-soars-toward-all-time-high-as-ai-push-leads-executives-to-predict-record-revenue-b0207c10?mod=careers"
+    webUrl: "https://www.marketwatch.com/story/nvidia-stock-soars-toward-all-time-high-as-ai-push-leads-executives-to-predict-record-revenue-b0207c10?mod=rex-nutting"
     ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-stock-soars-toward-all-time-high-as-ai-push-leads-executives-to-predict-record-revenue-b0207c10"
     cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-stock-soars-toward-all-time-high-as-ai-push-leads-executives-to-predict-record-revenue-b0207c10"
     type: article

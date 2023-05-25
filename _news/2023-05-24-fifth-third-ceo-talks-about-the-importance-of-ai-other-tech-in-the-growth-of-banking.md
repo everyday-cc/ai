@@ -35,6 +35,20 @@ related:
         width: 1596
         height: 1020
         isCached: true
+  - title: "Study Finds AI and Emerging Technologies Increasing Tension as Journalists Face Growing Challenges to Maintain Accuracy and Truth"
+    excerpt: "State of the Media Report spotlights challenges and opportunities in rapidly changing media landscape “Accuracy” and “maintaining credibility as a trusted news source” are leading concerns for journalists,"
+    publishedDateTime: 2023-05-25T01:30:00Z
+    webUrl: "https://www.thaipr.net/en/business_en/3340539"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 10
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/05/Image_2-1-1.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "4Mw0YJjhHP/KVxCXpGhldkPig9/0MlgHQEEyJNIkMK3h+KSdJg8EYP9RlYQ0bEIbzyEpp768Ch5JgL+/QvdYzDeYILsQUhMpsw0cREnr7s1RefZ39yuZDaIsmx6R+7sqnGYwDngLMWrHmLFpgsaXu62ohLrtn2Zdzt/gEzx0T53PL+J+guK7kr7CQ+9mA1iBpJQWMnnHsrNMq94HlIWSQWup4aXtWDootZUcbDvKRwkXAXH7cJDwQ1zwTbEiGDhi5f+bjUeCNSWoL4RBYTZMV11i2U2PBdQbTm0WZPgwj5lWv+7HFGJPV2WXzUztChTM8KZ9pFgP6q+mvD/Ui4nFPLrRI6IcHXJ1OUvSyYFM2TZZCmM5dZluqu5UVougTMi8yEoOSHxBcllCOw77DMnTfthUgrSfJQaVGCydzdEXSN8Q2dTLiT9FuBBnrEHa//Yp5HeSXlEQscc620NvnPiuHsmvHUdAtwVuf7yo6rvdoaU8duhNghvSeEAPENZNbN8lfqJNnrv24zwC+EabRbUhwA==;5Cc8pANKEDHtpG2mlQoPqA=="
 ---

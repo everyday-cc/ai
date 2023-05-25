@@ -25,38 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Revolutionising retail ecommerce with artificial intelligence and machine learning"
-    excerpt: "AI and ML are transforming the retail ecommerce landscape, providing retailers with powerful tools for overcoming their most pressing challenges. By harnessing the power of AI and ML, retailers can streamline their operations, increase efficiency, and improve the customer experience."
-    publishedDateTime: 2023-05-20T12:15:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-revolutionising-retail-ecommerce-with-artificial-intelligence-and-machine-learning-3094979/"
+  - title: "Uncovering the driving factors behind algal growth in the South-to-North Water Diversion Project using advanced AI"
+    excerpt: "Identifying the factors contributing to algal growth accurately and reliably is vital for sustainable use and scientific management of freshwater resources. As scientific research evolves from using small data sets to larger ones,"
+    publishedDateTime: 2023-05-22T17:24:00Z
+    webUrl: "https://phys.org/news/2023-05-uncovering-factors-algal-growth-south-to-north.html"
+    ampWebUrl: "https://phys.org/news/2023-05-uncovering-factors-algal-growth-south-to-north.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-uncovering-factors-algal-growth-south-to-north.amp"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 45
-  - title: "AI Making Business Aviation More Efficient"
-    excerpt: "The business aviation industry is turning to artificial intelligence to optimize their operations and improve their efficiency."
-    publishedDateTime: 2023-05-24T16:28:00Z
-    webUrl: "https://www.ainonline.com/aviation-news/business-aviation/2023-05-24/ai-making-business-aviation-more-efficient"
-    type: article
-    provider:
-      name: Ainonline.com
-      domain: ainonline.com
-    quality: 37
+      name: Phys.org
+      domain: phys.org
+    quality: 35
     images:
-      - url: "https://www.ainonline.com/sites/default/files/styles/app_large_full/public/uploads/2023/05/uas_panel_img_1676.jpg?itok=NVPCtdeT"
-        width: 1000
-        height: 500
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/uncovering-the-secret.jpg"
+        width: 1596
+        height: 1020
         isCached: true
-  - title: "Artificial intelligence revolutionizes medicine"
-    excerpt: "OUR first fascination with AI (Artificial Intelligence) was seeing how they moved in sci-fiction movies like “The Terminator” and “Matrix.” Another later movie was “Chappie,” which is about a “RoboCop” droid hijacked by the bad guys and utilized to fight the good RoboCops,"
-    publishedDateTime: 2023-05-23T12:34:00Z
-    webUrl: "https://businessmirror.com.ph/2023/05/23/artificial-intelligence-revolutionizes-medicine/"
+  - title: "Fifth Third CEO talks about the importance of AI, other tech in the growth of banking"
+    excerpt: "The AI is optimizing for the lifetime value of the customer relationships. Retaining your customers and making sure they’re satisfied is the single biggest lever at our disposal.'"
+    publishedDateTime: 2023-05-23T17:46:00Z
+    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2023/05/23/fifth-third-ceo-tim-spence-ai-fintechs.html"
     type: article
     provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 21
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 27
 
 secured: "9ckZknfkiPMj/MPmr3SOolDEjM0wF88uCvTKI7WKvhV8+X50cGpAAwXymEZk4EGet1XA+fcX8/375N4uhw2TmJoVYSQjDZWz+PuUlwaU8FplcTuRBkno5+votekXLV/9YaOz2v11/6ZLt/i9VnwIyKFk04VP8AupBzpeCM8hb+SGSPI0omMHmaaB9p4wJ2Evo2GqIeGgb4WT9kd/CvH8GbtjYW95jnhVTZhV4WN2Mqykoolcy+a9j00hHyU0b/wq0xmS2SSoZgz7e+DMQGOm5e8dSZyzCH9ASqDGVA34XLDbDM88Q+k6n8ABGwattGThGfgwC8ChmgHF3y+utc/rtCh4Zh3fQfgYQz5I+7sC/MQ=;J8Bi+jNAoREIZXitLv5FRg=="
 ---

@@ -2,6 +2,40 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-05-03-new-artificial-intelligence-tool-can-diagnose-colon-cancer.md",
+      "title": "New Artificial Intelligence Tool Can Diagnose Colon Cancer",
+      "excerpt": "A new artificial intelligence (AI) model developed by Harvard Medical School and Taiwan’s National Cheng Kung University could provide much-needed clarity to clinicians presenting prognoses and deciding on therapies for patients with colon cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.buffalonews.com/buffnews/article/pressreach-2023-5-3-new-artificial-intelligence-tool-can-diagnose-colon-cancer",
+      "originalUrl": "https://markets.buffalonews.com/buffnews/article/pressreach-2023-5-3-new-artificial-intelligence-tool-can-diagnose-colon-cancer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-amd-reports-a-steep-decline-in-pc-chip-sales-but-theres-an-epyc-silver-lining.md",
       "title": "AMD Reports A Steep Decline In PC Chip Sales But There's An EPYC Silver Lining",
       "excerpt": "Despite some big losses, AMD CEO Dr. Lisa Su remained upbeat with an eye on 'significant growth opportunities' if the company sticks to its game plan.",
@@ -1143,49 +1177,6 @@
       "provider": {
         "name": "mccormick.northwestern.edu",
         "domain": "northwestern.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-deep-learning-pioneer-geoffrey-hinton-has-quit-google.md",
-      "title": "Deep learning pioneer Geoffrey Hinton has quit Google",
-      "excerpt": "Hinton will be speaking at EmTech Digital on Wednesday. Geoffrey Hinton, a VP and engineering fellow at Google and a pioneer of deep learning who developed some of the most important techniques at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/",
-      "originalUrl": "https://www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/04/eyevine01515042.jpeg?w=2845",
-          "width": 2845,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/01/1072478/deep-learning-pioneer-geoffrey-hinton-quits-google/amp/",
-      "publishedDateTime": "2023-05-02T19:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
         "images": null,
         "publishers": null,
         "authors": null

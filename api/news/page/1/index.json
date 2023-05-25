@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-25-bank-fintech-collaboration-to-improve-financial-services.md",
+      "title": "Bank, fintech collaboration to improve financial services",
+      "excerpt": "A strategic partnership of banks, fintech and mobile financial services (MFS) could boost Bangladesh’s banking sector by delivering better, cheaper and more inclusive services, according to the top executives of some lenders in the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886",
+      "originalUrl": "https://www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thedailystar.net/sites/default/files/uploads/2023/05/25/untitled_design_-_2023-05-25t114842.157.png",
+          "width": 750,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886?amp",
+      "publishedDateTime": "2023-05-24T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-heres-whats-missing-from-the-white-houses-national-ai-strategy.md",
       "title": "Here’s what’s missing from the White House’s National AI Strategy",
       "excerpt": "The White House announced new National AI Strategy efforts. Here's what's missing, according to AI policy expert Sarah Myers West.",
@@ -58,8 +101,8 @@
       "title": "Nvidia stock soars toward all-time high as record revenue forecast backed by ‘killer app’ of AI",
       "excerpt": "Nvidia Corp. executives predicted record revenue well beyond anything the company has experienced Wednesday, pushing shares toward record territory.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/nvidia-stock-soars-toward-all-time-high-as-ai-push-leads-executives-to-predict-record-revenue-b0207c10?mod=careers",
-      "originalUrl": "https://www.marketwatch.com/story/nvidia-stock-soars-toward-all-time-high-as-ai-push-leads-executives-to-predict-record-revenue-b0207c10?mod=careers",
+      "webUrl": "https://www.marketwatch.com/story/nvidia-stock-soars-toward-all-time-high-as-ai-push-leads-executives-to-predict-record-revenue-b0207c10?mod=rex-nutting",
+      "originalUrl": "https://www.marketwatch.com/story/nvidia-stock-soars-toward-all-time-high-as-ai-push-leads-executives-to-predict-record-revenue-b0207c10?mod=rex-nutting",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,
@@ -101,8 +144,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -319,6 +362,57 @@
       "ampWebUrl": "https://www.forbes.com/sites/danafeldman/2023/05/24/the-hollywood-writers-strike-3-reasons-not-to-back-down-on-ai/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danafeldman/2023/05/24/the-hollywood-writers-strike-3-reasons-not-to-back-down-on-ai/amp/",
       "publishedDateTime": "2023-05-24T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-former-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed.md",
+      "title": "Former Google CEO Warns AI Could Cause People To Be ‘Harmed Or Killed’",
+      "excerpt": "Eric Schmidt, who served as Google’s chief executive from 2001 to 2011, said artificial intelligence poses “existential risks.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tylerroush/2023/05/24/former-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed/",
+      "originalUrl": "https://www.forbes.com/sites/tylerroush/2023/05/24/former-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646e2c501dfd9a2eb25f411d/0x0.jpg?format=jpg&crop=3958,2226,x0,y98,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tylerroush/2023/05/24/former-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tylerroush/2023/05/24/former-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed/amp/",
+      "publishedDateTime": "2023-05-24T11:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -693,57 +787,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-people-could-be-harmed-or-killed-by-ai-without-action-says-former-google-ceo.md",
-      "title": "People could be 'harmed or killed' by AI without action, says former Google CEO",
-      "excerpt": "Former Google CEO Eric Schmidt, in a talk about AI, said it poses an \"existential risk\" and could result in people being \"harmed or killed.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/former-google-ceo-ai-opinion-3328744/",
-      "originalUrl": "https://www.androidauthority.com/former-google-ceo-ai-opinion-3328744/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-2.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -1191,58 +1234,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-ai-startup-figure-raises-70-million-for-humanoid-robot.md",
-      "title": "AI Startup Figure Raises $70 Million for Humanoid Robot",
-      "excerpt": "AI robotics startup Figure raised $70 million to help develop a humanoid robot that it believes could one day take on a wide range of tasks traditionally performed by people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-24/ai-startup-figure-raises-70-million-for-humanoid-robot",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-24/ai-startup-figure-raises-70-million-for-humanoid-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQfH1gdaW.uM/v1/1200x667.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

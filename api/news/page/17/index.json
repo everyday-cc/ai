@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-05-12-ibm-and-microsoft-partnership-accelerates-sustainable-cloud-modernization.md",
+      "title": "IBM and Microsoft partnership accelerates sustainable cloud modernization",
+      "excerpt": "A global fast-moving consumer goods (FMCG) enterprise needed to modernize its product portfolio, focusing on high-growth categories like pet care, coffee and consumer health. Its aggressive sustainability goals included achieving net zero emissions by 2050, making all packaging reusable or recyclable",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-and-microsoft-partnership-accelerates-sustainable-cloud-modernization/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-and-microsoft-partnership-accelerates-sustainable-cloud-modernization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 238,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/IBM-and-Microsoft-partnership-accelerates-sustainable-cloud-modernization-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-12T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-managing-aws-s3-pricing-and-costs-with-ibm-turbonomic.md",
       "title": "Managing AWS S3 pricing and costs with IBM Turbonomic",
       "excerpt": "IBM Turbonomic can help organizations navigate the complexity of AWS storage options by providing guidance on how to select the right storage class. \nThe post Managing AWS S3 pricing and costs with IBM Turbonomic appeared first on IBM Blog.\n",
@@ -1142,59 +1194,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-cryptominers-try-to-pivot-gpu-farms-to-ai-workloads-after-crypto-decline.md",
-      "title": "Cryptominers try to pivot GPU farms to AI workloads after crypto decline",
-      "excerpt": "Two large cryptomining companies, Hut 8 and Hive Blockchain, have redirected their mining GPU infrastructure toward high-performance computing (HPC), which includes AI workloads. This move could",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/98661-cryptominers-try-pivot-gpu-farms-ai-after-ethereum.html",
-      "originalUrl": "https://www.techspot.com/news/98661-cryptominers-try-pivot-gpu-farms-ai-after-ethereum.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/01/2023-01-25-image-18.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T14:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

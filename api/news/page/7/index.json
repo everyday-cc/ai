@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-18-meta-and-google-news-adds-fuel-to-the-open-source-ai-fire.md",
+      "title": "Meta and Google news adds fuel to the open-source AI fire",
+      "excerpt": "The open-source AI debate is getting even hotter in Big Tech, thanks to recent headlines from Google and Meta's Yann LeCun.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/",
+      "originalUrl": "https://venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-70.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/meta-and-google-news-adds-fuel-to-the-open-source-ai-fire/amp/",
+      "publishedDateTime": "2023-05-18T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-growth-opportunities-in-cloud-security-data-security-edr-security-identity-access-management-deep-learning-and-computer-vision-based-security.md",
       "title": "Growth Opportunities in Cloud Security, Data Security, EDR Security, Identity Access Management, Deep Learning and Computer Vision-based Security",
       "excerpt": "The \"Growth Opportunities in Cloud Security, Data Security, EDR Security, Identity Access Management, Deep Learning and Computer Vision-based Security\" report has been added to ResearchAndMarkets.com's offering.",
@@ -1118,58 +1169,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-mitigating-dark-web-risks-the-role-of-ai-and-machine-learning.md",
-      "title": "Mitigating Dark Web Risks: The Role Of AI And Machine Learning",
-      "excerpt": "As artificial intelligence and machine learning are becoming increasingly important in the fight against cybercrime, security leaders should consider a range of tools to safeguard themselves.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6464d9377c567a5a9746245d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/18/mitigating-dark-web-risks-the-role-of-ai-and-machine-learning/amp/",
-      "publishedDateTime": "2023-05-18T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

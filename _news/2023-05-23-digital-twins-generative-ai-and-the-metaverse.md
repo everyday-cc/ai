@@ -78,20 +78,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "The Optimist’s Guide to Artificial Intelligence and Work"
-    excerpt: "Companies like IBM and the British telecommunications company BT have cited artificial intelligence as a reason for reducing head count, and new tools like ChatGPT and DALL-E make it possible for anyone to understand the extraordinary abilities of artificial intelligence for themselves."
-    publishedDateTime: 2023-05-20T12:01:00Z
-    webUrl: "https://www.nytimes.com/2023/05/20/business/dealbook/the-optimists-guide-to-artificial-intelligence-and-work.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 71
-    images:
-      - url: "https://static01.nyt.com/images/2023/05/20/business/20DB-AI/20DB-AI-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "pbcm1B/DKyLgJfQzERnHVutCC5wtYYYQrCOhmWlRoQ9mWJ3YlgJC6QzvmzUkHbe91jBoMh9ad3rpgfHUhZ9BlH9NUcDVuvB8CRmGxt5NqsptqNfakKBRTiwkWglEYNZK2L9gUsIyU5X5uJxFiof6eXrX4Gb4RhsExQUeQz7eJ05ztpF0B/9qVI38d0DC1pOWQfhGj1fWdU191QaL0ZVt0iP4+l1HKGw20tCIPr90hemaAwKYsXrglUdMIVzuyQ2QF9RZ+X8vQL4VKBMUYg4K7zm9Dvag67EuCvD4q7cDkY2hYjdkmjrRRSY2XUD0Tj2kMI6cVepAhXGQFSrQlrUV/CtaEReoQUXo3YJusQznZMWVcT252Oazsad7pnMF7p4hIFQB7xXzkT6Xwf6G5HVuJWyTE/qgIVVDUx1CNTEMv8zpYjyfZJhaDp5XYqHjOmRQn6yDLJySVRlERpSccQQBbS+Z+QSMzgfmA/TjKrcAY2dcUUR4tFLREbcXN1TYh9GcXjV8qQK9/ddGpGZBRt444g==;JnWQjs1iI+35KLbEokHsjg=="
 ---

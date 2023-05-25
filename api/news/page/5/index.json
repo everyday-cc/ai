@@ -2,21 +2,21 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-05-20-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations.md",
-      "title": "Fintech Ramp Launches AI-enhanced Tools to Help Businesses Streamline Operations",
-      "excerpt": "Ramp, the finance automation platform, announced Ramp Intelligence: a set of tools in financial services, driven by AI, to solve customer issues.",
+      "path": "_news/2023-05-20-how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses.md",
+      "title": "How the digital ad industry can guide the ways AI transforms businesses",
+      "excerpt": "The digital advertising industry must look closely at how AI is implemented as it begins to use the tech for targeting, measurement, personalization and optimization.",
       "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/",
+      "webUrl": "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/",
+      "originalUrl": "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2013/05/Tools.jpg",
-          "width": 600,
-          "height": 450,
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1182774846-e1648671402902.jpg?w=1200&strip=all",
+          "width": 1199,
+          "height": 638,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/",
-      "publishedDateTime": "2023-05-20T07:38:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-the-digital-ad-industry-can-guide-the-ways-ai-transforms-businesses/amp/",
+      "publishedDateTime": "2023-05-20T09:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,7 +49,57 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-winning-customer-service-through-ai-and-automation-in-hybrid-work-environments.md",
+      "title": "Winning Customer Service Through AI And Automation In Hybrid Work Environments",
+      "excerpt": "The way we work has been fundamentally altered by the COVID-19 pandemic, and many businesses have had to adapt to hybrid and remote work models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glebtsipursky/2023/05/20/winning-customer-service-through-ai-and-automation-in-hybrid-work-environments/",
+      "originalUrl": "https://www.forbes.com/sites/glebtsipursky/2023/05/20/winning-customer-service-through-ai-and-automation-in-hybrid-work-environments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64622a87ecf4ca687ea69866/0x0.jpg?format=jpg&width=1200",
+          "width": 600,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glebtsipursky/2023/05/20/winning-customer-service-through-ai-and-automation-in-hybrid-work-environments/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/05/20/winning-customer-service-through-ai-and-automation-in-hybrid-work-environments/amp/",
+      "publishedDateTime": "2023-05-20T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1200,57 +1259,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-three-ways-to-get-ready-for-the-ai-takeover-in-interior-design.md",
-      "title": "Three Ways To Get Ready For The AI Takeover In Interior Design",
-      "excerpt": "There is a lot of work to do before people start trusting AI. To ensure that the AI takeover becomes a reality, we must come to terms with the new paradigm. The roads toward it might be bumpy, as there are psychological barriers to overcome, but AI can actually do a part of the work instead of people—and do it quite well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64662733af9968582de6367b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/19/three-ways-to-get-ready-for-the-ai-takeover-in-interior-design/amp/",
-      "publishedDateTime": "2023-05-19T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

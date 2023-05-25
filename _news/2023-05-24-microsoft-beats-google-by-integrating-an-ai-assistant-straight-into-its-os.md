@@ -281,6 +281,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Elon Musk Wants to Challenge Google and Microsoft in AI"
+    excerpt: "Elon Musk says it could involve different parts of his corporate empire, including Twitter, which he predicted could halt its losses as soon as next month."
+    publishedDateTime: 2023-05-24T23:21:00Z
+    webUrl: "https://www.wsj.com/articles/elon-musk-wants-to-see-an-ai-rival-to-google-microsoft-a299e27f?mod=e2tw"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-787338/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Microsoft’s Azure AI Studio lets developers build their own AI ‘copilots’"
     excerpt: "Microsoft is introducing several new features in Azure AI Studio aimed at enabling companies to build and deploy fine-tuned AI 'copilots.'"
     publishedDateTime: 2023-05-23T16:00:00Z

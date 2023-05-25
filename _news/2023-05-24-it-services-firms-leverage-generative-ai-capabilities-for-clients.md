@@ -85,7 +85,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 77
+    quality: 79
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_285803778.jpeg?w=1200&strip=all"
         width: 1200
@@ -118,6 +118,20 @@ related:
       - url: "https://www.statnews.com/wp-content/uploads/2023/05/stat_ai_YouShouldKnow_2000x1125-1024x576.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Snowflake acquires search startup Neeva to leverage generative AI"
+    excerpt: "New Delhi, May 25 (IANS) Cloud data platform provider Snowflake has acquired search startup Neeva to accelerate search in the Data Cloud through generative AI. Neeva has created a unique and transformative search experience that leverages generative AI and ..."
+    publishedDateTime: 2023-05-25T05:47:00Z
+    webUrl: "https://glamsham.com/world/technology/snowflake-acquires-search-startup-neeva-to-leverage-generative-ai"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 37
+    images:
+      - url: "https://glamsham.com/wp-content/uploads/2023/05/635b94b7ecc224b4d4babeb2ba5a8d5a-3.jpg"
+        width: 647
+        height: 483
         isCached: true
   - title: "The Funded: 7 Bay Area companies picked for AWS Generative AI Accelerator"
     excerpt: "Backed by Amazon Web Services Inc, the not-so-cleverly named Generative AI Accelerator on Wednesday said 21 companies ... Inc. dropped a reported $400 million in 2020 to buy the startup Giphy Inc., the well-known animated image and microvideo database."
