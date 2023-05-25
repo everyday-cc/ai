@@ -94,6 +94,20 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Waymo partners with Uber to scale up autonomous driving service in Phoenix"
+    excerpt: "Self-driving technology company Waymo has collaborated with Uber to expand in the US. The pair will launch vehicles equipped with Waymo's autonomous driving solutions in Phoenix on Uber's ride-hailing and delivery platforms later this year."
+    publishedDateTime: 2023-05-25T07:39:00Z
+    webUrl: "https://www.digitimes.com/news/a20230525VL205/adas+av-autonomous-driving-uber-waymo.html?chid=13"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230525vl205_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Waymo, Uber set aside past rift over self-driving car tech to team up on robotaxis in Phoenix"
     excerpt: "Waymo is teaming up with Uber to offer rides and deliver food in robotic cars that triggered a bitter technological dispute between the two companies."
     publishedDateTime: 2023-05-23T19:44:00Z

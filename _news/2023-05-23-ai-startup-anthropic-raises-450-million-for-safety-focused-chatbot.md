@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 540
         isCached: true
+  - title: "AI Startup Figure Raises $70 Million to Build Humanoid Robots"
+    excerpt: "(Reuters) - Figure, a startup that wants to build general-purpose humanoid robots, has raised $70 million from investors led by Parkway Venture Capital in its first external round, the company said on Wednesday."
+    publishedDateTime: 2023-05-24T10:03:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-05-24/ai-startup-figure-raises-70-million-to-build-humanoid-robots"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "Windows 11 to get a new AI assistant – Copilot"
     excerpt: "one of its most recent AI tools, embodies its vision for the future of the Windows 11 operating system. According to IT Home, Microsoft intends to roll out Copilot to all Windows 11 users later this year. However, the company will start beta testing this ..."
     publishedDateTime: 2023-05-23T17:46:00Z

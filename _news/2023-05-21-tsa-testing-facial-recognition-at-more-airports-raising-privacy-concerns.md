@@ -1,27 +1,27 @@
 ---
 category: news
 title: "TSA testing facial recognition at more airports, raising privacy concerns"
-excerpt: "The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen. It’s all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country."
+excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"
 publishedDateTime: 2023-05-21T00:30:00Z
-originalUrl: "https://tulsaworld.com/eedition/page-a4/page_ec7d726c-513f-5e72-92a1-549cc4a8604f.html"
-webUrl: "https://tulsaworld.com/eedition/page-a4/page_ec7d726c-513f-5e72-92a1-549cc4a8604f.html"
+originalUrl: "https://omaha.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_afb8746e-ea8a-551c-bb05-26bfc9b02f28.html"
+webUrl: "https://omaha.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_afb8746e-ea8a-551c-bb05-26bfc9b02f28.html"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/eedition/e/c7/ec7d726c-513f-5e72-92a1-549cc4a8604f/64696e8c27c1c.fullsize-img.jpg"
-    width: 792
-    height: 1638
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/78/d7899d8f-cf01-52ab-acbe-16fe1f61c88c/64642a155739f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -34,20 +34,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 66
-  - title: "Are you who you say you are? TSA tests facial recognition technology to boost airport security"
-    excerpt: "BALTIMORE—A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes “Photo Complete” and the person walks through—all without having to hand over their identification to the TSA officer sitting behind the screen."
-    publishedDateTime: 2023-05-20T16:12:00Z
-    webUrl: "https://businessmirror.com.ph/2023/05/21/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 59
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2023/05/world01-052123.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "TSA tries out facial recognition technology at 16 U.S. airports"
     excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes \"Photo Complete\" and the person walks through -- all without having to hand over their identification to the TSA officer sitting behind the screen."
     publishedDateTime: 2023-05-21T07:46:00Z
@@ -114,6 +100,6 @@ related:
         height: 900
         isCached: true
 
-secured: "dtjUmG2FXLwbuwSxQoUco/JCsYUY+2Om3FfG7VUQKxuqbpWXF2hUvoND8ysAJWwOvOYzI5Z2sBrzXm3vvb+1hsApNTOQKK/14IVE1qeaaUzTZ/a2ChQ1g87FVxWgv++Y1EqcEiVZXsCJXN0eFmygTe2rcGGrGy7jsGuFp4QiUNqeMnCyzZJ8LhZ/RW9lzyj6NlSf1o/Pxd9Au9I+r7G2FdK89gDM+7G/HYhHUQuLaaI+EipgcRenDjJBtzp6pplvGVmPbRKw1pTcgsvhU9wqtG/Xtyyn0aZZywb6rYBV48fPWV2P2Oiji5XVYMcedGLjjQ8dENcOTQdXPWEzGxFH1y8nKk52pgY8/ure5JHVzvvXDI0EcL56e29Hvg3A2VPa+bCbJPr+a4BhRtsRfdRsJO9dWWiPJITRabt36/d3bYJoeTVJjX/kMm0BD8am5a9pkrin5r8/NVTOS+re8WbbKexePc9q0zRxXfOrVgdhzlDVxlIZbpaQkbr9IdHe7w50tcHpjmGgGt1WLkkiPkqcHw==;5Jpx5H0JmGowpa3HEbC/AA=="
+secured: "gbphmhGWvVcFeTSOnRjP6nLdIHBjt8ctGfmnqvpq2ZmA9W1lrKzM3rOk1jyoPwKlV2SabYLBi+Im6lPvgYrg9jrtdSfqPnIeUg8rMHzFQC22URnn3cgEXxRzOi7rplTd/u+OxtZfmld5s6jioY1A8uZUNz/MoTkKa7hIpPhmZGSW8/ivkWJgv2tTmvI2gKjsNR2PpQz9WKOiWTgYp5ieedd/vLXLdOXxqlXcf+af6beP6PplGzAY/6Ox2fyF/C9DZazpt5Nut870YlCy7ihJ1RMbAHHrm4By34GgM1knKSExYlmPdJJdTeFbodQMOOquwS5ienz28AWJ5JjvwTQs08UbY38Wq2q+aSAm0Z8qgzs=;3ZOSgK34uggwTqfwtQWIwg=="
 ---
 

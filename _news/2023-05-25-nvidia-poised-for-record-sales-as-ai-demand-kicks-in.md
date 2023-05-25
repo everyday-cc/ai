@@ -3,8 +3,8 @@ category: news
 title: "Nvidia Poised for Record Sales as AI Demand Kicks In"
 excerpt: "The graphics-chip giant forecast a strong revenue bounce back for the current quarter, driven by growing appetite for generative AI technology."
 publishedDateTime: 2023-05-24T22:28:00Z
-originalUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?siteid=yhoof2&yptr=yahoo"
-webUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?siteid=yhoof2&yptr=yahoo"
+originalUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?mod=tech_lead_pos1"
+webUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?mod=tech_lead_pos1"
 type: article
 quality: 84
 heat: -1
@@ -179,6 +179,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Nasdaq Futures Jump as Nvidia Leads AI-Driven Rally"
+    excerpt: "Shares of Nvidia Corp, the world's most valuable listed chip company, jumped 24% in premarket trading ... This helped it lead a rally among heavyweight AI players including Microsoft Corp and Alphabet Inc, which rose 1.9% and 2.0%, respectively."
+    publishedDateTime: 2023-05-25T09:24:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-05-25/nasdaq-futures-jump-as-nvidia-leads-ai-driven-rally"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Why AI Is The Future Of Offshore Oil Drilling"
     excerpt: "But this is not Shell’s first foray into AI tech. Back in 2018, the company partnered with Microsoft to incorporate the Azure C3 Internet of Things platform in its offshore operations. The platform uses AI to drive efficiencies across the company’s ..."
     publishedDateTime: 2023-05-21T23:03:00Z
@@ -217,6 +226,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "CS0ut4Xej+EwqhzX0bmSPpQqyEy1sfaf6gnG6+L9No02zYeLImwilg6/va7O3KtQ/oWxwZtKwpkZGvBQHNhMPXySV3y4gepRd/+AxLM2MjqX1AKvUP5JVBd65YIHPiM8jqIxG8w4Ku+aHnZIWj5WwTd89A1xsP4ssBZ4/b0bWj37Du/ulu8zScquiMeW7BdG1ZNj4fCQg1DRCNx6KAZlPA0bAASCt1eK8B1NDDFV9OY9rU159Kc2rsSRNx/gQctvDRO52At5q2p/eNYYY4uco2XYqu+npD43nAUV2Xr8IenRM8pA0z7ahjP8WAuXGXeSagKbeh8hsh8wNhoyYZigqyufiH1lyvpXuhkR+vMYuls=;QJe+MhCSWhM2+C5IyIAR3Q=="
+secured: "lUPo4RgnE9BKCNEPiZPdmhcQWtoS3NDvbt8S3PUXU2R8KQgDeJq4UEVTixQA8V1GgoUyHJdG4brEyK5n+BxKLat3+iFya1BGbTRlHskLLtvMFSojkyU7QnDe31a0+iI39IeYv7uqTqcPj092ZllyrSVZZ1P+Lz7V6SQv7p/YgZHJqRF1Al8qEkLK1ZzbvkS/5Ze7EowXVNOKtHFREfG14uhp4Rd61TPPu1OemF+tKrbHXhJpt5zTLrhsQPlbzQ++v4jtxWaXHdfpwmWs9yRcPy/lFbbpnKD/8CFnrJ7NdVorw2OdCH1f1IogXvriVW+0C0dAM9YSJRWLKWmKA4MPRiFCZczH91XrdUzbQOCQTuU=;WudiKouD/mVxNmL8rLUTbQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-you-sh
 webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-you-should-be-buying-hand-over-fist-1032344620"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,15 +23,20 @@ topics:
   - AI
 
 related:
-  - title: "The 3 AI Stocks You Need to Own Now for Maximum Returns"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The popularity of artificial intelligence has surged since the launch of"
-    publishedDateTime: 2023-05-22T16:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-ai-stocks-you-need-to-own-now-for-maximum-returns-1032343211"
+  - title: "3 Top AI Stocks That Pay Dividends -- and 1 Yields Over 5%"
+    excerpt: "Sure, IBM hasn't been at the center of attention with the recent surge in interest in AI. However, the company has been an AI pioneer for a long time. For example, its Watson technology made headlines in 2011 by beating Jeopardy! champions Brad Rutter and ..."
+    publishedDateTime: 2023-05-25T09:53:00Z
+    webUrl: "https://www.fool.com/investing/2023/05/25/3-top-ai-stocks-that-pay-dividends-1-yields-over-5/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/733282/dividends-blackboard-sketch-doodle.jpg"
+        width: 2059
+        height: 1456
+        isCached: true
 
 secured: "uCvFcekhXZJDVIUHSNnV+KAHeuKAB1izNt0XhM+l/c0U/Xpv0us2RKt68wXv+xaFk0XnpoYcKCJI65EB9b9Qm4r+nXW9R2XY1v9lU95Kabfz1jPTCJL52IbfjYvn1mahw/1kzqDUJKgHwimIy+Zzi7Xn400EbFb4pjjCK+wBGXJXLfgVBHNu62pC79wfvWG9mZS2SJtE2fx+sxvhrkZXAi2jKqPkt4T+qM5Ia0vTaNKUhg7gxcuYcgOMcWfaalvdJfOJzVmNAobRgzrlEkKdm2eLryR8NL/drdEN1LcHT9Lkpc59wLwma9RFNDZNmm/+ft9SLYu1v2fDR6uCrBGQdS/mwuobhLwh5yqhaUQmEMktvogFmgPd2UpjjutPYfBvizSUP7dHZ7HQRzPwLQ3DELtLosEZT31ST991fUODUKx5+PPcTT3Vrmz8b2aqt/KdKueajpbWVMpT2RNGJpnXMIgPIUx6CeVqLSPf2zBf11SbTcoBJ+sfoUGttBSijB8E55uXDOodd+G0S4RqyMNktw==;sI3w8GgX5wGrCeQPFd9HVA=="
 ---

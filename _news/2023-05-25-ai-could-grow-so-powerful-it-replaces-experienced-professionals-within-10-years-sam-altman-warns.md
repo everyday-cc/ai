@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/ai-grow-powerful-replaces-experienced-p
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-grow-powerful-replaces-experienced-professionals-10-years-sam-altman-warns.amp"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 675
     isCached: true
 
-secured: "s7iXiwZVFKKbLaQm39LLFK4APlEb01Ihb243EESr3auqKcLDbVHcvZcz5DupZaS8B3yiv/B405TyXQxCD+SA7LUmBHhDqh74qQYC23OjIMVFJPtPxowwMsXBiSUqE+4PmGY1GDDSY0WTU2TvVRjLZMOcbCpOCWg3RratdTwzXx5AygSGX3whuUQet66N49oZC/FIgz//ikI+Xqb7tv9HsKC3NmZ9E9YOFtxqq0I3oYJC0e4VCe7yfiD8a5edRH+DqTq3BdYyjSNzulDU2yC7AQ5Yu1pEJBDHHp6mn8VGS9FQPEUM/upgCl/vYcfoUV1vMcFhapL41ptkCQKdgUioLA96Qo+y0kT7tBlh6+o0HxI=;u/ztcsc78iN7wUHN6THbuQ=="
+secured: "aqG8S8Di1cGfNzPfanThoe8bPwF/LsCec5pSMVgM7Sncugjo1eihzWiF1Mjow+s+hb9s/URL89+H53hIVy3HRz+EfEcI4VCFpoAL1C2SJdE8TcCwAuTLxcoVDbmkDLHWdzyM3J+kis4AdUTGOEVL+v6h4VyuIMaYX/ceCcAOVQ/yxYk96vBkz3nCj3RPhj1vQyiqWKKIQQiEdIIUkcg07tAbqcI12UkN9QYZXB8WVN9y0Mu2bzZQsfm/LTOPJlpUCsyjN6zS+avrk4UitEE1lIsqWF8UjFbXMFSpMRzjHC3E//pWqRE9mlOxCMc7UMK2/jCOH4FfVSWKkiwkN3OwNMNkvw6VbVogTvfwjcwMEFInyschyj1/TV+xPloIQtncG+5GBJynG3Ysu5AxLwlVHc7+759RDC7+coePqeeR8d5JBfVCwG9xVJ1KmKaJcyCTOD+8hXJdNNKzKEUjWfbUmhVMQ1vEGa5qFPBKbMVm7PAZ3TgCj2BZvmB+MHVTaTQQ/CBS0BJ8/55nN4zeSnMV/Q==;p64Xr5FBuh/zf3mIPpM7NQ=="
 ---
 

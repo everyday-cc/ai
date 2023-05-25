@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Applied Digital Teams with Supermicro to Deliver AI Cloud Services"
+    excerpt: "Supermicro is a leading provider of application-optimized, high-performance server and storage solutions that address a broad range of computational-intensive workloads. Supermicro’s next-generation GPU servers significantly lower the power requirements of data centers."
+    publishedDateTime: 2023-05-24T17:46:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/24/9820144.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Supermicro Launches Industry's First NVIDIA HGX H100 8 and 4-GPU H100 Servers with Liquid Cooling -- Reduces Data Center Power Costs by Up to 40%"
     excerpt: "\"Supermicro continues to lead the industry supporting the demanding needs of AI workloads and modern data centers worldwide,\" said Charles Liang, president, and CEO of Supermicro. \"Our innovative GPU servers that use our liquid cooling technology ..."
     publishedDateTime: 2023-05-22T20:41:00Z

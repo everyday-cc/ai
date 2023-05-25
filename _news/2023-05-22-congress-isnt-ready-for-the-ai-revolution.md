@@ -27,15 +27,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "The AI revolution already transforming education"
-    excerpt: "Schools and universities are using ChatGPT in the classroom, but will it devalue the fundamentals of learning?"
-    publishedDateTime: 2023-05-21T04:00:00Z
-    webUrl: "https://www.ft.com/content/47fd20c6-240d-4ffa-a0de-70717712ed1c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
 
 secured: "qEolimqV+Ss/GHLsU15bPc5aUB40FAMzFwUowujaRDrNeyGnbBQcPIqv0OQTGPZRSuXKQZFaaaySa2xGY0xYQxpItqMp3UmwqKQg8Af7IOGSnAvkzyUDcFp29tHPgs9fPRs7SRDr/U3DBvspxaiXyTfQf51SCvAkTVY5RoPF6T0npOc5A5D7Rwf+5Cm/R0HpMDbEqwEDtv/O+mkmGvsi8ckegqHYLxXRdUqk9uzfUFgfwjlQA/ue9FWcTcudcdd8TjtEFDKO0xDub/2KMsXV3oRJ9h+KhZaFniZAj87pBdf8gDMAPw9oqQO9E8qHfUuVNRTtcH/VEadkEuFVbTuOEkLr6lZXs39IHvAdZGiB0OsbjAfsJUUeNGlun1Jk57iv+UiNOJ7Yb/EXGBUvsIFfYouVAnbqvnrg++adwmizUosHt4IqSa3bq6KW8yfgvGjjMd5PBDi4aotGUVMTWz2G7PbNcfzHuAGVIy+g80Oqe7FrYlOCltmXgptEAfoqYRAXzXJkRLK/WPBWnXFkimeBXA==;zXWEYZkYPyduERbCzvpR1A=="
 ---

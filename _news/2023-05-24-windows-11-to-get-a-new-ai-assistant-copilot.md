@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI Startup Figure Raises $70 Million to Build Humanoid Robots"
+    excerpt: "(Reuters) - Figure, a startup that wants to build general-purpose humanoid robots, has raised $70 million from investors led by Parkway Venture Capital in its first external round, the company said on Wednesday."
+    publishedDateTime: 2023-05-24T10:03:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-05-24/ai-startup-figure-raises-70-million-to-build-humanoid-robots"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "Google-backed Anthropic raises $450 mln in latest AI funding"
     excerpt: "May 23 (Reuters) - Anthropic, an artificial intelligence startup competing with OpenAI in building AI foundation models, said on Tuesday it had raised $450 million from investors including Alphabet Inc's (GOOGL.O) Google and Spark Capital. The latest round ..."
     publishedDateTime: 2023-05-23T18:56:00Z

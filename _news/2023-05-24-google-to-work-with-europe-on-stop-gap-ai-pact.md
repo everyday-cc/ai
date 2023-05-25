@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/24/eu-google-ai-pact/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/24/eu-google-ai-pact/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Regulating the machine: Europe’s race to get to grips with AI drugs"
-    excerpt: "How do you regulate a drug developed by artificial intelligence? That’s the question Europe's regulators are grappling with as AI medicines speed toward market. At the heart of a regulator's job is the responsibility to ensure that the benefits of a new ..."
-    publishedDateTime: 2023-05-20T16:22:00Z
-    webUrl: "https://www.politico.eu/article/regulate-europe-race-artificial-intelligence-ai-drugs-medicines/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 19
 
 secured: "PP7Y3+NYDlLZm/TFZNU9BEkPrORqgUuj/GEIy80rStRT4NUYQuTfMjH8m3FOV+ksTTNne3W4VFYfCmC6vF7tHTr9NF9JIoPB+eHnmm8ExFytfgnqEpanSa/0eawqP9KCd0YjSYqt5/hwvOdUCkuhmCse6RMUQn3kaQ6JOn5HA+oTMzbsqghIrRjtBO0YcqAJZfKQOUAdrk+b9oHApbE2RxQEFZDABHLSLNKdgIeRY/M1PfyeLvSEBOYP8cRjGCYJMPiPuwWDWjt/5cnFWUFcOyygeBdursPmveHPjDHhnU/CbV/qUXWnpB1SUuaW6q7X0J67yKeA4skxkgxKnjQVNyQEk2Uginx1kkcJeNjCJ04=;am0ANkJ8rorbFyCkiY1VtA=="
 ---

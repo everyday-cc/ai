@@ -83,6 +83,20 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Waymo partners with Uber to scale up autonomous driving service in Phoenix"
+    excerpt: "Self-driving technology company Waymo has collaborated with Uber to expand in the US. The pair will launch vehicles equipped with Waymo's autonomous driving solutions in Phoenix on Uber's ride-hailing and delivery platforms later this year."
+    publishedDateTime: 2023-05-25T07:39:00Z
+    webUrl: "https://www.digitimes.com/news/a20230525VL205/adas+av-autonomous-driving-uber-waymo.html?chid=13"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230525vl205_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Apple engineer steals secrets on self-driving cars and flees to China, US feds say"
     excerpt: "A former Apple engineer accused of absconding from the company with trade secrets on self-driving cars fled to China, federal officials reported."
     publishedDateTime: 2023-05-22T05:08:00Z

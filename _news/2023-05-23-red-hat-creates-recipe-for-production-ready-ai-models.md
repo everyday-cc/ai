@@ -23,15 +23,6 @@ topics:
   - IBM AI
 
 related:
-  - title: "The AI revolution already transforming education"
-    excerpt: "Schools and universities are using ChatGPT in the classroom, but will it devalue the fundamentals of learning?"
-    publishedDateTime: 2023-05-21T04:00:00Z
-    webUrl: "https://www.ft.com/content/47fd20c6-240d-4ffa-a0de-70717712ed1c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "Congress Isn’t Ready for the AI Revolution"
     excerpt: "At a May 16 hearing on what the federal government should do about the widespread adoption of AI, Senator Richard Blumenthal of Connecticut played a recording of a computer-generated voice that sounded uncannily like him reciting a speech that an AI program had written in his style."
     publishedDateTime: 2023-05-22T12:00:00Z

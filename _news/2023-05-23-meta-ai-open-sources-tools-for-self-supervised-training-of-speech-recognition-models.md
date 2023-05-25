@@ -97,6 +97,20 @@ related:
         width: 1062
         height: 607
         isCached: true
+  - title: "Meta’s Open-Sourced AI Model that Introduced Text-to-Speech In 1,100+ Languages"
+    excerpt: "Meta released this week as open-source software an AI model, called Massively Multilingual Speech (MMS), that can recognize over 4,000 spoken languages and produces text-to-speech in over 1,100 languages."
+    publishedDateTime: 2023-05-24T01:05:00Z
+    webUrl: "https://iblnews.org/metas-open-sourced-ai-model-that-introduced-text-to-speech-in-1100-languages/"
+    type: article
+    provider:
+      name: IBL News
+      domain: iblnews.org
+    quality: 35
+    images:
+      - url: "https://iblnews.org/wp-content/uploads/2023/05/metalanguages.jpg"
+        width: 860
+        height: 490
+        isCached: true
   - title: "Meta Creates New AI Tool That Recognizes Over Than 4,000 Languages"
     excerpt: "Introduced as the Massive Multilingual Speech project, the Meta AI tool is built to protect and preserve languages and is now available to the public"
     publishedDateTime: 2023-05-23T13:22:00Z

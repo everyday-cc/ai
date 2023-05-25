@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-pushes-for-ai-res
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-pushes-for-ai-responsibility-and-safety-through-azure/"
 type: article
 quality: 119
-heat: 819
+heat: 849
 published: true
 
 provider:
@@ -645,6 +645,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "NVIDIA Teams with Microsoft on Enterprise-Ready Generative AI"
+    excerpt: "NVIDIA has announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning targeting enterprise AI initiatives. The integration will create a secure, enterprise-ready platform that enables Azure customers worldwide to quickly build,"
+    publishedDateTime: 2023-05-25T08:28:00Z
+    webUrl: "https://insidehpc.com/2023/05/nvidia-teams-with-microsoft-on-enterprise-ready-generative-ai/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 54
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2022/11/Nvidia-Microsoft-logos.jpg"
+        width: 593
+        height: 290
+        isCached: true
   - title: "Top 10 Azure Cloud Announcements at Microsoft Build 2023 Dev Conference"
     excerpt: "Here's a summary of what's new -- specifically the top 10 Azure products and services that reached general availability or will soon -- at the event."
     publishedDateTime: 2023-05-24T20:50:00Z
@@ -787,6 +801,20 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2023/05/W11.jpg"
         width: 1351
         height: 615
+        isCached: true
+  - title: "Microsoft launches Fabric, a new integrated platform for data analytics, management and machine learning"
+    excerpt: "The software can also integrate Azure Data Factory, Azure Synapse Analytics and Power BI into a single unit, particularly to aid business professionals with relevant data."
+    publishedDateTime: 2023-05-25T07:55:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/microsoft-launches-fabric-a-new-integrated-platform-for-data-analytics-management-and-machine-learning-10659191.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 39
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/08/Microsoft_reuters-770x433.jpg"
+        width: 770
+        height: 433
         isCached: true
   - title: "Check Point Software Extends Its Industry-Leading Cloud Firewall To Secure Microsoft Azure Virtual WAN"
     excerpt: "CloudGuard Network Security provides organizations with cyber resilience through a consumption-based offering, seamlessly integrated inside the A"
@@ -931,6 +959,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Sapiens International Corporation: Sapiens Joins Forces with Microsoft to Leverage Generative AI for Insurers"
+    excerpt: "The integration opens up new market opportunities for insurers worldwide BARCELONA, Spain, May 23, 2023 /PRNewswire/ -- Sapiens International Corporation, (NASDAQ: SPNS) and (TASE: SPNS)"
+    publishedDateTime: 2023-05-23T11:33:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-05/59157123-sapiens-international-corporation-sapiens-joins-forces-with-microsoft-to-leverage-generative-ai-for-insurers-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 15
 
 secured: "MuXQGNS6n6oX4h6wJgQB4xli44Np8LgjIxLNqYiC5GVYwzN5VSpP3BcyBE0DA+ijvPI9yrYRF5ERki4Cl4LCXxYfSl4YqwDRO8lYC6Myt94CF1q6uv1HY7PZip8ZODrSagGege5O2US2/lWB2DZHYqRqShovL7Q3S7DHPvnegTu4fYnchWqmwrbx6X24JNc8+W41MGQe1+1d7Y34F3ECXHBWM75s1vp5xqGts9xQeAoWlJctAnADulykcedlbkzif2nTV2CK0GxHjrJ/7qIgMk42TGdR94B3YDdvYKvIYov28SWJ0Vn6CVkaUYtTr5beK/q/B2bMFlGL3yMRypdf8/zLOikFMvzPQFNzXyZBgAcNk8eqbuboyEF9TSDzHSxdcTD7/SiXNx1OQD1D8ggPjJrUu/adWteKsOTqut7TDxUg8YaP6TTSlhRTGU5JRnBnUWUx5RXN/WXa9qnBbAkpWm93Olal+K1GGsAEbFipQk4RxFEgztkNvWEleOrmK6UORH99tTCUo7V1nHe/rLXLwg==;UsUn022y08cb9ADnEK/ddg=="
 ---

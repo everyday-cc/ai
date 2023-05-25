@@ -19,29 +19,36 @@ topics:
   - AI
 
 related:
-  - title: "The AI-powered hybrid-multi-super cloud"
-    excerpt: "Here’s a quick snapshot of some key players that, over the past decade, have worked hard to create their own version of cloud platforms — with mixed results. These firms have different levels of cloud maturity and varied strategies,"
-    publishedDateTime: 2023-05-20T15:52:00Z
-    webUrl: "https://siliconangle.com/2023/05/20/ai-powered-hybrid-multi-super-cloud/"
+  - title: "Supermicro Launches Industry's First NVIDIA HGX H100 8 and 4-GPU H100 Servers with Liquid Cooling -- Reduces Data Center Power Costs by Up to 40%"
+    excerpt: "Liquid Cooled Large Scale AI Training Infrastructure Delivered as a Total Rack Integrated Solution to Accelerate Deployment, Increase Performance, and Reduce Total Cost to the Environment SAN JOSE, Calif."
+    publishedDateTime: 2023-05-22T04:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32502037/supermicro-launches-industrys-first-nvidia-hgx-h100-8-and-4-gpu-h100-servers-with-liquid-cooling-r"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32502037"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32502037"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/AdobeStock_594873507.jpeg"
-        width: 6144
-        height: 3511
+      - url: "https://mma.prnewswire.com/media/2081911/Supermicro_AI_and_Liquid_Cooling_Solutions.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Red Hat OpenShift AI Accelerates Generative AI Adoption Across the Hybrid Cloud"
-    excerpt: "Red Hat, Inc. today announced new capabilities for Red Hat OpenShift AI. Building and expanding upon the proven capabilities of"
-    publishedDateTime: 2023-05-23T19:01:00Z
-    webUrl: "https://www.datanami.com/this-just-in/red-hat-openshift-ai-accelerates-generative-ai-adoption-across-the-hybrid-cloud/"
+  - title: "Supermicro Launches Industry's First NVIDIA HGX H100 8 and 4-GPU H100 Servers with Liquid Cooling -- Reduces Data Center Power Costs by Up to 40%"
+    excerpt: "\"Supermicro continues to lead the industry supporting the demanding needs of AI workloads and modern data centers worldwide,\" said Charles Liang, president, and CEO of Supermicro. \"Our innovative GPU servers that use our liquid cooling technology ..."
+    publishedDateTime: 2023-05-22T20:41:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1324163&cat=PR News Wire"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 15
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 2
+    images:
+      - url: "https://mma.prnewswire.com/media/2081911/Supermicro_AI_and_Liquid_Cooling_Solutions.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "7XF50PCzhrJMnnwExTVqsGKT71GzI4rF/NFufjvfTlv+mL8NyjaXpie+dBewAYrxsT0cNw8sSc8eSDB/fztJLD8ssrKQfoTxdTlCeCHOIgCwvJGWf41jXJLKxd7S5OmRVzmP8nhS3ItOPE+W8j1lAns3/Gy1jerADRG6gwO6xnjTogoYyJXueDhbFkmAvyxB4umY0zwVP4+/2OSXKpH8b4ezXSktuLDtFc1fcT8xvXHV9juDCjEs8Oic5lfySpDSUuxXD7HeD7jSbZQAPt7cs6NOxgOzyKeQ9xkCFHFccAIxUikJR1JWo1YVG6XJsJJBfZatLpvdysE5rPRshH+kxK34JFpmikJ5J3xw+qS5gN8=;idI7zSdVjDI/SMvhr2/FIw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/ai-startups-outpace-others-in-securing-fu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 605
     isCached: true
+
+related:
+  - title: "OpenAI raises $175m in funding to invest in AI start-ups"
+    excerpt: "According to a filing made by CEO Sam Altman, the latest OpenAI fund is 75pc higher than the company had initially raised during launch."
+    publishedDateTime: 2023-05-25T09:23:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/openai-startup-fund-raise-ai-sam-altman-sec-filing"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/05/a-14.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "AtI3RUKNPWoj/dPU9/hKLeCz+xkc67uVRmg1FkQYs3xnFk5qb9Y93RvOKFaKLbYgTczkifBANUeH/EGpxWnSDHkWLwxrHDFEFI5XIi71sVVCBBA6x5rjPU2El+tX5L1CBJ1nVwgSnLtuKqruINnVBEB1bxMjbcZobEDlfY8v6t4fTGvdORzs9zvE+GidSMoY1dEMQaBoEPaFnhpugVoTl28mChBt1zEw8JQZXXXnxO30+ASEEOfmCD6IQP4A/JRLXE8EdCIU2X8cm5I+uwhceILcOi0SggGdh2TwGeOitF4TgdCRXrH2e+pThlETun5FEoG7KU9ugm8YlCTqowLve5geAj6T4pKJksYS5cDXYPlQuuCGDals5jvYEozrRFOTCbf3Dfjn6ACLE6rqJyTkpJTDmUqi82W8Ctr5jsQXq3qMgKXes8l2cBpubwghjAVhOEQSOK3Ay0IPL9RCLlDsE0aKLRQOmSjVddNgsgP8JxsDVsetRGBaJ5w0Q8vmK8e+JCBo0nl0i0l3ftkpDawKNw==;7o/kEQ1qxRg2F4b3Chqbcg=="
 ---

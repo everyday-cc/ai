@@ -209,7 +209,7 @@
       "originalUrl": "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1348,26 +1348,35 @@
       ]
     },
     {
-      "path": "_news/2023-05-14-humans-could-be-controlled-by-robots-ai-firms-founder-warns.md",
-      "title": "Humans could be controlled by robots, AI firm’s founder warns",
-      "excerpt": "Robots could end up controlling humanity ... if we have agents more capable than us that we cannot control, that are going across the internet and hooked up and they achieve a level of automation ...",
+      "path": "_news/2023-05-14-gardening-tech-from-robot-lawnmowers-to-app-controlled-watering-systems-the-top-tech-buys-to-get-you-growing.md",
+      "title": "Gardening tech: from robot lawnmowers to app-controlled watering systems — the top tech buys to get you growing",
+      "excerpt": "The Evening Standard's journalism is supported by our readers. When you purchase through links on our site, we may earn an affiliate commission.",
       "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/getty-images-ashton-kutcher-tom-hanks-scarlett-johansson-joaquin-phoenix-b2338350.html",
-      "originalUrl": "https://www.independent.co.uk/tech/getty-images-ashton-kutcher-tom-hanks-scarlett-johansson-joaquin-phoenix-b2338350.html",
+      "webUrl": "https://www.standard.co.uk/homesandproperty/gardening/gardening-tech-robot-lawnmowers-water-systems-b1080472.html",
+      "originalUrl": "https://www.standard.co.uk/homesandproperty/gardening/gardening-tech-robot-lawnmowers-water-systems-b1080472.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://static.standard.co.uk/2023/05/11/15/newFile-2.jpg?width=1200&width=1200&auto=webp&quality=75",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-13T11:37:00-07:00",
+      "ampWebUrl": "https://www.standard.co.uk/homesandproperty/gardening/gardening-tech-robot-lawnmowers-water-systems-b1080472.html",
+      "cdnAmpWebUrl": "https://www-standard-co-uk.cdn.ampproject.org/c/s/www.standard.co.uk/homesandproperty/gardening/gardening-tech-robot-lawnmowers-water-systems-b1080472.html",
+      "publishedDateTime": "2023-05-13T23:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
+        "name": "London Evening Standard",
+        "domain": "standard.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1382,21 +1391,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-12-perrone-robotics-rolling-out-self-driving-shuttle-program-for-colleges-and-universities.md",
-      "title": "Perrone Robotics rolling out self-driving shuttle program for colleges and universities",
-      "excerpt": "The “Auto Campus” program will allow students to get to their day to day activities through self-driving shuttles.",
+      "path": "_news/2023-05-14-humans-could-be-controlled-by-robots-ai-firms-founder-warns.md",
+      "title": "Humans could be controlled by robots, AI firm’s founder warns",
+      "excerpt": "Robots could end up controlling humanity ... if we have agents more capable than us that we cannot control, that are going across the internet and hooked up and they achieve a level of automation ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nbc29.com/2023/05/12/perrone-robotics-rolling-out-self-driving-shuttle-program-colleges-universities/",
-      "originalUrl": "https://www.nbc29.com/2023/05/12/perrone-robotics-rolling-out-self-driving-shuttle-program-colleges-universities/",
+      "webUrl": "https://www.theboltonnews.co.uk/news/national/23520591.humans-controlled-robots-ai-firms-founder-warns/",
+      "originalUrl": "https://www.theboltonnews.co.uk/news/national/23520591.humans-controlled-robots-ai-firms-founder-warns/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://gray-wvir-prod.cdn.arcpublishing.com/resizer/TihH-d-vB9iQxhRq9IIMPHd3Apo=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/I2EV3YZNFJED5BJKC7GTQFXC3A.jpg",
-          "width": 800,
-          "height": 450,
+          "url": "https://www.theboltonnews.co.uk/resources/images/16777260/?type=og-image",
+          "width": 945,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1404,13 +1413,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbc29.com/2023/05/12/perrone-robotics-rolling-out-self-driving-shuttle-program-colleges-universities/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nbc29-com.cdn.ampproject.org/c/s/www.nbc29.com/2023/05/12/perrone-robotics-rolling-out-self-driving-shuttle-program-colleges-universities/?outputType=amp",
-      "publishedDateTime": "2023-05-12T09:13:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-13T11:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC29",
-        "domain": "nbc29.com",
+        "name": "The Bolton News",
+        "domain": "theboltonnews.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1420,9 +1429,8 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

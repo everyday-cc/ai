@@ -2,19 +2,25 @@
 category: news
 title: "Humans could be controlled by robots, AI firm’s founder warns"
 excerpt: "Robots could end up controlling humanity ... if we have agents more capable than us that we cannot control, that are going across the internet and hooked up and they achieve a level of automation ..."
-publishedDateTime: 2023-05-13T18:37:00Z
-originalUrl: "https://www.independent.co.uk/tech/getty-images-ashton-kutcher-tom-hanks-scarlett-johansson-joaquin-phoenix-b2338350.html"
-webUrl: "https://www.independent.co.uk/tech/getty-images-ashton-kutcher-tom-hanks-scarlett-johansson-joaquin-phoenix-b2338350.html"
+publishedDateTime: 2023-05-13T18:39:00Z
+originalUrl: "https://www.theboltonnews.co.uk/news/national/23520591.humans-controlled-robots-ai-firms-founder-warns/"
+webUrl: "https://www.theboltonnews.co.uk/news/national/23520591.humans-controlled-robots-ai-firms-founder-warns/"
 type: article
 
 provider:
-  name: The Independent
-  domain: independent.co.uk
+  name: The Bolton News
+  domain: theboltonnews.co.uk
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "Jh4SOsi8SLlI4GZ13lDj2V9uE7+0VMT7XVe5d0Yw6/GiZtq7n+A6t1SDXG9OsJUPdztF3UV6okBUCSdCgSciSIvfTqci2RBKLHWZ5seuvCxJhdvLWAili0qNHj7AFoYC4XMnVBX2ZBaUmbTuH/txl4k0cXpzIRnLj/xmc1/5Zp3ENKvMoj784NA/I7ZxxHV4nP4oyVir/n+qNmwGu8TBjHEnI9Kzo9xYdmFeQJkFkIi/1grIg1W3IF9fwiSUIv1pA10uTNtrONihI6JEo9/OOGLbwv9YtJOGs5BPhFFOcrrt8GHlXFJ//5z//NTDitNvUrJGHJyEhRPpma9mJie+c7pWOnrZM18T5gmeCwKAqzc=;PTYRdHYb8JScCcPpq1q6Vg=="
+images:
+  - url: "https://www.theboltonnews.co.uk/resources/images/16777260/?type=og-image"
+    width: 945
+    height: 630
+    isCached: true
+
+secured: "lhD3CrAf18DUJp8eTdCoPc1vwC0ZWYsRBoTfb76CA/y+lW4W17eJDeb4BpQs3k817KUtAb00s1ZocFT5SZLhpVXwFc16byKWZ3dbFkzpj2To2r4FxbFDw5UJos0LulrizSTyFW6vdA+jop/QvzI9N+l6ZFznU5GahWoQXzj84cQuVfLPuBfuGOtUF+Ywm2rWq1Ug8/Uh21lYJxn9b0jcThg7feXMWRluZYqmK9nRBUzSDGVOj5WkAxalIqd+Vy8eDL8G6SSDsH3cmNGFKVd2NgSE9gsi0EwJ7qQ4WGCwklLlM496za/Sa9SGan/B5GIvQSIoZcNla6QOc8x1aUIglLsNhqNZgv1qd4q81DdJ3Vc=;lvMXevVPtp6q5Me1zTWszA=="
 ---
 

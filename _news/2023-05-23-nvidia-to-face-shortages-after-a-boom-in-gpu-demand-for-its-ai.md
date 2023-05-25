@@ -64,7 +64,7 @@ related:
   - title: "Nvidia Poised for Record Sales as AI Demand Kicks In"
     excerpt: "The graphics-chip giant forecast a strong revenue bounce back for the current quarter, driven by growing appetite for generative AI technology."
     publishedDateTime: 2023-05-24T22:28:00Z
-    webUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?siteid=yhoof2&yptr=yahoo"
+    webUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?mod=tech_lead_pos1"
     type: article
     provider:
       name: Wall Street Journal
@@ -178,6 +178,15 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 49
+  - title: "Nasdaq Futures Jump as Nvidia Leads AI-Driven Rally"
+    excerpt: "Shares of Nvidia Corp, the world's most valuable listed chip company, jumped 24% in premarket trading ... This helped it lead a rally among heavyweight AI players including Microsoft Corp and Alphabet Inc, which rose 1.9% and 2.0%, respectively."
+    publishedDateTime: 2023-05-25T09:24:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-05-25/nasdaq-futures-jump-as-nvidia-leads-ai-driven-rally"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 49
   - title: "Why AI Is The Future Of Offshore Oil Drilling"
     excerpt: "But this is not Shell’s first foray into AI tech. Back in 2018, the company partnered with Microsoft to incorporate the Azure C3 Internet of Things platform in its offshore operations. The platform uses AI to drive efficiencies across the company’s ..."

@@ -7,7 +7,7 @@ originalUrl: "https://techxplore.com/news/2023-05-simulation-tool-robots-fluids.
 webUrl: "https://techxplore.com/news/2023-05-simulation-tool-robots-fluids.html"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "FluidLab: A New Simulation Tool For Robots"
+    excerpt: "Researchers at MIT have created a simulation tool to assist robots in learning complex fluid tasks like latte art and air manipulation."
+    publishedDateTime: 2023-05-25T08:46:00Z
+    webUrl: "https://www.electronicsforu.com/news/fluidlab-a-new-simulation-tool-for-robots"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 39
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2023/05/helping-robots-handle-1.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "Eo858upQlj7kF9oTQP0iiuesU7b3gGUIt1XtqZ+aVjVGkucOhv9hupnTt5Q406/cHm+lW2WIZpKJaW251XZJ9jry7D4+BMfRelKkB2A6y+y+l/UuImXH8ZrUj+zEjplMMLhyCsriLKYki/WdF+1hB65SJwDPTYTkgcFbMyNiPvF10COiRDqNE5Qm2hCzL/+OmvBk9Enri+DnlQVXPC3FoiGUfG7KU6apK4G2qdnTm9py0zTd4CS//ZN3x+ADM4rWOi9LkIv0q2ooxg2yGlPxDNCX2eby1vUL8su8tcX3ENhJ+7+iKa6NTmMC/1RkFLdCSK3SlTThiOlEduQcH5skMX2Pz3mVDkoQTLFsbc2fgtQ64b9OFonjyY0iIbzZb6YMvxUEa/fBRFL2T9fepPHSNFFoT+KFwo/iCCA/TAIvVqRghoMhYOEQ3ej/dAMYHiLcEumVToBnHWd+ZsPd3AaiaL7va3VGhckcEN6H1V8/Iw+x26/H8VL98PSn8WCYit+CX8/EmSizH0PbIGbkro9IBw==;uId82V7JSElK13xPxzlWRA=="
 ---

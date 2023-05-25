@@ -60,15 +60,6 @@ related:
         width: 3283
         height: 2188
         isCached: true
-  - title: "Regulating the machine: Europe’s race to get to grips with AI drugs"
-    excerpt: "How do you regulate a drug developed by artificial intelligence? That’s the question Europe's regulators are grappling with as AI medicines speed toward market. At the heart of a regulator's job is the responsibility to ensure that the benefits of a new ..."
-    publishedDateTime: 2023-05-20T16:22:00Z
-    webUrl: "https://www.politico.eu/article/regulate-europe-race-artificial-intelligence-ai-drugs-medicines/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 19
 
 secured: "tcI3aWyiJnvNNc6FIIz4s4CtnFdiXnabLFIs5dCa4qAaqY9g380IguOnNQb2v1WOaU9C/3ziGfofq/2x0W7l9kD/ONLpRFoT6z/sH6S/Wpk+R8zYoFahPAL2D1OZGc51hW3ZShGHbo9aajmAKWQ0mccLVSKM3wHobhFqmHAMkLmQFphRIiSSYGwoftwSz8NhjG4dxgdrIf9g2wi8aU/HY5zB8hevn9lhxRcuGQ+Ddc6qj0NPpB0U6DNStO61ZGTZnj6zxmxvj64DXryvAjdhpjocVK6i7h5wL7ODf1JVdx145AmNYESgfHeQvYLcUVg9f9wCN0Z81UFq/FsuzjyrbXhhNf242heXahWSdc8lUG2wNh7nkVjvosRafU9c9pnZD9TolQXcpWPWK9AYdE4uWhmZwwzR6spYVJiOyJpoRxIlLrrglA7jHlniuTyZtOpDz1b93vugmsS2RjdFh609iId03sLwIeo0O3X5qW4v+LRNKe7v+JNARTX4k9KvNsZpv/qr10xMqLNqntPC0jXIgw==;5uE39R/w5lK5yGnU4DWajw=="
 ---

@@ -649,6 +649,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "NVIDIA Teams with Microsoft on Enterprise-Ready Generative AI"
+    excerpt: "NVIDIA has announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning targeting enterprise AI initiatives. The integration will create a secure, enterprise-ready platform that enables Azure customers worldwide to quickly build,"
+    publishedDateTime: 2023-05-25T08:28:00Z
+    webUrl: "https://insidehpc.com/2023/05/nvidia-teams-with-microsoft-on-enterprise-ready-generative-ai/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 54
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2022/11/Nvidia-Microsoft-logos.jpg"
+        width: 593
+        height: 290
+        isCached: true
   - title: "Top 10 Azure Cloud Announcements at Microsoft Build 2023 Dev Conference"
     excerpt: "Here's a summary of what's new -- specifically the top 10 Azure products and services that reached general availability or will soon -- at the event."
     publishedDateTime: 2023-05-24T20:50:00Z
@@ -782,6 +796,20 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2023/05/W11.jpg"
         width: 1351
         height: 615
+        isCached: true
+  - title: "Microsoft launches Fabric, a new integrated platform for data analytics, management and machine learning"
+    excerpt: "The software can also integrate Azure Data Factory, Azure Synapse Analytics and Power BI into a single unit, particularly to aid business professionals with relevant data."
+    publishedDateTime: 2023-05-25T07:55:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/microsoft-launches-fabric-a-new-integrated-platform-for-data-analytics-management-and-machine-learning-10659191.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 39
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/08/Microsoft_reuters-770x433.jpg"
+        width: 770
+        height: 433
         isCached: true
   - title: "Check Point Software Extends Its Industry-Leading Cloud Firewall To Secure Microsoft Azure Virtual WAN"
     excerpt: "CloudGuard Network Security provides organizations with cyber resilience through a consumption-based offering, seamlessly integrated inside the A"
@@ -926,6 +954,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Sapiens International Corporation: Sapiens Joins Forces with Microsoft to Leverage Generative AI for Insurers"
+    excerpt: "The integration opens up new market opportunities for insurers worldwide BARCELONA, Spain, May 23, 2023 /PRNewswire/ -- Sapiens International Corporation, (NASDAQ: SPNS) and (TASE: SPNS)"
+    publishedDateTime: 2023-05-23T11:33:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-05/59157123-sapiens-international-corporation-sapiens-joins-forces-with-microsoft-to-leverage-generative-ai-for-insurers-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 15
 
 secured: "8/d34Tj4R5EDT6JoRRcdR1Hwl4N/6sGUHG8618G3NSxy32OrEp9v6f1qFJrEn2+Ynp/eIyya8e1GbFclZlEotS9+qOY01QU0raBBx9XtR5zbGh/ztUlmF7TPb7QvvYvYeXiZcOqoVl2g+bQCKeggChMBVpwAJ6vkmdFAICT0N/R9dBcwTPv45oFAgOlNw5jFZxqr0QRPJuFruLu/dQgMzzXwkpFtB1LDtZSnC4skKDI2IoxpEXOxCtgmuUdduTq4NTYAyFaJqHttEuZ2mcTjD54B64GARLYsCL8AmeqCijv081rE8/3mKwgzvhHwVVmWVz11ggik2/pgEixglXyP1evHz6614sPc0+DGeeECGbc=;eptp7bZjVivwsmpaskMZVQ=="
 ---

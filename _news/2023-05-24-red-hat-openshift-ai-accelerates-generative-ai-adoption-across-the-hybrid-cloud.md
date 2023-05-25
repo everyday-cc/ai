@@ -19,29 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "The AI-powered hybrid-multi-super cloud"
-    excerpt: "Here’s a quick snapshot of some key players that, over the past decade, have worked hard to create their own version of cloud platforms — with mixed results. These firms have different levels of cloud maturity and varied strategies,"
-    publishedDateTime: 2023-05-20T15:52:00Z
-    webUrl: "https://siliconangle.com/2023/05/20/ai-powered-hybrid-multi-super-cloud/"
+  - title: "Infosys Announces AI-First Offering Topaz To Accelerate Business Value For Global Enterprises"
+    excerpt: "Infosys is taking an AI-first approach to its own transformation, the company said, adding that it is applying Topaz to bring the power of generative AI, analytics and cloud to accelerate its own market offering evolution,"
+    publishedDateTime: 2023-05-23T23:25:00Z
+    webUrl: "https://www.outlookindia.com/business/infosys-announces-ai-first-offering-topaz-to-accelerate-business-value-for-global-enterprises-news-288774"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 28
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/AdobeStock_594873507.jpeg"
-        width: 6144
-        height: 3511
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Infosys_1665729477.jpg?utm_source=fb"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Applied Digital Teams with Supermicro to Deliver AI Cloud Services"
-    excerpt: "Supermicro is a leading provider of application-optimized, high-performance server and storage solutions that address a broad range of computational-intensive workloads. Supermicro’s next-generation GPU servers significantly lower the power requirements of data centers."
-    publishedDateTime: 2023-05-24T17:46:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/24/9820144.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "H0PLgqL6ZfZbYwlMacQ64JF0J39e6c5hmXodnlBsLltZ6lbz3eySmYqoFwcbsAPRRCtEkcQ1FKbxPBwnskcBZJZJtvYjA3CIN5ynLbWt07l620iQjazturn88j0hVDLeCXxoK1P5fxWRpE26A/We0qfM8XiQPkGfuddrUrAL467bkxVjOtpCSNA9EoIfBkXGWMjW+ziwDwuMY2zo6hdO03mLQWBNZPFHISJElUo49EnJWgsgRbmV81duYu8ap7XONHLuqa339HQ4HYbP/9Mmq+WGD9X3JP7HcqmGqsgSBw799jdJYwc7yKDqGFGkny2EKDkycxpreI6un+7aGdoG44tpLzP0zIBdQ9wm3he6xqg=;C6kNw2TJKIcplDgOsKTALg=="
 ---
