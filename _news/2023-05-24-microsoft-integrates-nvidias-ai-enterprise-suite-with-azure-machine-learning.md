@@ -447,6 +447,20 @@ related:
         width: 904
         height: 372
         isCached: true
+  - title: "From ChatGPT on Bing to Azure AI: 5 biggest announcements from Microsoft Build 2023"
+    excerpt: "Microsoft continues to make strides in AI with a slew of updates and launches announced at Build 2023. From ChatGPT on Bing to Azure AI: 5 biggest announcements from Microsoft Build 2023. Bing, chatGPT,"
+    publishedDateTime: 2023-05-25T06:21:00Z
+    webUrl: "https://www.itp.net/software/from-chatgpt-on-bing-to-azure-ai-5-biggest-announcements-from-microsoft-build-2023"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 63
+    images:
+      - url: "https://www.itp.net/cloud/2023/05/25/MS-Build-2023-Bing-to-ChatGPT.jpg"
+        width: 2000
+        height: 1334
+        isCached: true
   - title: "Mural Unveils AI-Powered Capabilities for Enterprise Collaboration at Microsoft Build"
     excerpt: "Deepening its investment in the Microsoft ecosystem, Mural's AI capabilities will use Azure OpenAI to enable teams to work together more efficiently SAN FRANCISCO, May 22, 2023 /PRNewswire/ -- Mural, a leading visual collaboration company, today unveiled ..."
     publishedDateTime: 2023-05-22T19:14:00Z
@@ -899,6 +913,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 24
+  - title: "NVIDIA makes move in the industrial world by partnering with Microsoft and Dell Technologies for easier Generative AI accessibility"
+    excerpt: "One of the biggest driving forces behind Generative AI technology is none other than accelerated computing giant NVIDIA. In its latest announcement, Team Green has shaken hands with Microsoft and Dell Technologies to leverage access to a wider audience."
+    publishedDateTime: 2023-05-25T06:32:00Z
+    webUrl: "https://www.tech-critter.com/nvidia-generative-ai-with-microsoft-dell-technologies/"
+    type: article
+    provider:
+      name: tech-critter.com
+      domain: tech-critter.com
+    quality: 24
+    images:
+      - url: "https://secure.gravatar.com/avatar/a0ed3175f99016ebcbdaabb913231517?s=300&d=mm&r=g"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "Su0kO8BMhObShCA6KprsPSzDdQs7m8gx9PT3uICnY8Vqv2bxTzbj0liA+HdJ2qGqWCZ51VedHI2jlhmVfl0xXxkuAiicqOI7irXXEFyeZVWbT+dm6nQsDw5JHBgqAdMkKaymBhIYKLf1bzGwtlm34Ccp8AvbHBPonhFvjQjE8yZ1MfY1a4DHb3q9iawbu7cpxdGRJfsI460OxDbvKOlqSIKjNBBli2Dbrwz+okKKvb/G2g7xk1mFnBQlgBc+WcIMJ4yY0IN8gESF/n9vkO1NuGVnDw7jUjRS4vpvtTBgH/liAxUKvqU0Whs3mQ5UqZ0t3oMljtu5tKZ+32jFbp0oR8BPeJkihIYf9aZSInugCR0RWCd8Zo4aGLEtO6WGopmCqFkeT0/wYlmfVhZcVjwD2xDJqvlt+rEqca/U7kuyLHXfrf4GUlg6v2H6O9C+tUPghHrNRvOu2RbWS1w51k/WrQony4nWMStvDXIjVe5Vt0/wyumyD/9QPZ2LfeQYnIvv1oO5pw/OfCiL1aJ80pIxIA==;UZ+UBuawPtL0Fu6E6vOSOg=="
 ---

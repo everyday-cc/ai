@@ -77,22 +77,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "Google-Backed AI Startup Anthropic Raises $450 Million, Bringing Total Funding to Nearly $1 Billion"
-    excerpt: "Anthropic, an artificial intelligence startup competing with OpenAI in building AI foundation models, said on Tuesday it had raised $450 million (roughly Rs. 3,700 crore) from investors including Alphabet 's Google and Spark Capital."
-    publishedDateTime: 2023-05-24T08:05:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/google-backed-anthropic-ai-startup-raises-usd-450-million-in-funding-spark-capital-4061778"
-    ampWebUrl: "https://www.gadgets360.com/internet/news/google-backed-anthropic-ai-startup-raises-usd-450-million-in-funding-spark-capital-4061778/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/google-backed-anthropic-ai-startup-raises-usd-450-million-in-funding-spark-capital-4061778/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 43
-    images:
-      - url: "https://i.gadgets360cdn.com/large/anthropic_reuters_1_1684915513257.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI startup Anthropic raises $450M from Spark, Google, Salesforce"
     excerpt: "Anthropic, a San Francisco-based AI startup, raised $450 million in Series C funding led by Spark Capital, the company announced Tuesday. Why it matters: The startup has been building a war chest as it competes with ChatGPT creator OpenAI."
     publishedDateTime: 2023-05-23T12:52:00Z

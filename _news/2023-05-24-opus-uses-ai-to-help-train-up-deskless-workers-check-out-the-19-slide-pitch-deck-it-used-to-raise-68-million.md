@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Check out the 16-slide pitch deck FlowX.ai, a startup helping banks modernize legacy systems, used to raise $35 million"
+    excerpt: "The Romanian startup, now based in New York, helps banks launch products faster to compete with fintech rivals."
+    publishedDateTime: 2023-05-23T12:20:00Z
+    webUrl: "https://www.businessinsider.com/flowxai-banking-infrastructure-startup-raises-new-35-million-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 23
+
 secured: "az8n+4ntMF2KwvA6xOAgkEVukZPW9tGdbDVX+JTr/WuBuxAZ6x7V2f7KV2E9z3ZdES9ezLpVNJta2wj3XlDk4mW6ITbSYup4ECevXoPGs7Uyq2qOWYgtS1tFobIe3gAOcmHHwQfAJkOTN69EeHuX45Ha+uW0YFsv9LmrT6g0V6NdQ7NioJ+6GT/SgVk0TrJK1pDFFiyuH9pnaV2ITHuELIXY7uuwZq0W7Gsx4F7LDCbvaj+m76gINrXOk05oDu9fi2A5KP4lBh1mbV+zzDvnP65gLINLc4uqC6Z2lsETHq5SPqs+efIMvjyoI5ksONTtYoVqyIFGYeuP2YD+/7VyBmbQJmpN8TIfY10JLcSdXtkNBoYaLygzT/t6HDb7McfdV6aLGuZJKDATpvvUi6iIemWDPjeuYAWy+Q1Pk7elykf7Cc01v+qEm1kffgIIK/lhhF9hIc+eNA8ZcX7iQvoWCkFl375KwMSj3/Mb9oRa4BIMhMI1QY8C+VUwCMjxmyT+UKH5OZ0lXd+v75dHN9K43w==;xdQBmjqAk1JFcltsOl61Cg=="
 ---
 

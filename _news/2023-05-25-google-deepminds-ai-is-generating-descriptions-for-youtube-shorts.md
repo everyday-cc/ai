@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/tech-news/google-deepminds-ai-is-generati
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/google-deepminds-ai-is-generating-descriptions-for-youtube-shorts/amp_articleshow/100487884.cms"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Flamingo: Google DeepMind's AI enhances YouTube shorts with dynamic video descriptions"
+    excerpt: "Boost discoverability and engagement on YouTube Shorts with Google DeepMind's Flamingo. This visual language model generates dynamic video descriptions for enhanced search results."
+    publishedDateTime: 2023-05-25T06:07:00Z
+    webUrl: "https://odishatv.in/news/technology/flamingo-google-deepmind-s-ai-enhances-youtube-shorts-with-dynamic-video-descriptions-205172"
+    ampWebUrl: "https://odishatv.in/news/technology/flamingo-google-deepmind-s-ai-enhances-youtube-shorts-with-dynamic-video-descriptions-205172/amp"
+    cdnAmpWebUrl: "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/technology/flamingo-google-deepmind-s-ai-enhances-youtube-shorts-with-dynamic-video-descriptions-205172/amp"
+    type: article
+    provider:
+      name: Odisha TV
+      domain: odishatv.in
+    quality: 46
   - title: "Judge throws out DeepMind NHS data action"
     excerpt: "Claim for misuse of private information for about 1.6 million patients fails the 'same interest' test for collective redress."
     publishedDateTime: 2023-05-22T09:17:00Z

@@ -26,145 +26,122 @@ images:
     isCached: true
 
 related:
-  - title: "Anthropic raises $450M to build next-gen AI assistants"
-    excerpt: "Anthropic, the generative AI startup co-founded by OpenAI veterans, has raised $350 million in a funding round led by Spark Capital"
-    publishedDateTime: 2023-05-23T16:02:00Z
-    webUrl: "https://techcrunch.com/2023/05/23/anthropic-raises-350m-to-build-next-gen-ai-assistants/"
-    ampWebUrl: "https://techcrunch.com/2023/05/23/anthropic-raises-350m-to-build-next-gen-ai-assistants/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/anthropic-raises-350m-to-build-next-gen-ai-assistants/amp/"
+  - title: "Singapore’s AI-Based Marketing Unicorn Raises $105 Million To Finance M&A"
+    excerpt: "Insider, an AI-powered marketing platform, said it has raised another $105 million from Qatar Investment Authority (QIA) and Istanbul-based buyout firm Esas Private Equity. The company said its latest funding round gives it a valuation of almost $2 billion."
+    publishedDateTime: 2023-05-25T05:55:00Z
+    webUrl: "https://www.forbes.com/sites/ardianwibisono/2023/05/25/singapores-ai-based-marketing-unicorn-raises-105-million-to-finance-ma/"
+    ampWebUrl: "https://www.forbes.com/sites/ardianwibisono/2023/05/25/singapores-ai-based-marketing-unicorn-raises-105-million-to-finance-ma/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ardianwibisono/2023/05/25/singapores-ai-based-marketing-unicorn-raises-105-million-to-finance-ma/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 120
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/04/anthropic-header.jpg?resize=1200,540"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646ed3d9a2eb01ce6303a6f8/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 540
+        height: 800
         isCached: true
-  - title: "AI Startup Anthropic Raises $450 Million for Safety-Focused Chatbot"
-    excerpt: "Anthropic, an artificial intelligence startup positioning itself as the builder of a safer kind of chatbot, said it raised $450 million in funding to bolster the development of its AI bot, named Claude. The deal brings the company’s total raised to ..."
-    publishedDateTime: 2023-05-23T14:40:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-23/ai-startup-anthropic-raises-450-million-for-safety-focused-chatbot"
+  - title: "Singapore wants to plug AI skills gap in finance sector"
+    excerpt: "Also: Today's AI boom will amplify social problems if we don't act now, says AI ethics MAS chief fintech officer Sopnendu Mohanty said: \"Supporting AI and data analytics adoption is one of our key strategies to help financial institutions evolve and adopt ..."
+    publishedDateTime: 2023-05-23T07:50:00Z
+    webUrl: "https://www.zdnet.com/article/singapore-wants-to-plug-ai-skills-gap-in-finance-sector/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-wants-to-plug-ai-skills-gap-in-finance-sector/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-wants-to-plug-ai-skills-gap-in-finance-sector/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 106
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/2ea03e238d13117fe1b694848d99966f1946b37c/2023/05/22/1d63f23e-26a4-445f-a93e-dc785351b1a8/gettyimages-1219724477.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Turkish AI-backed Marketing Platform Insider Raises $105 Million"
+    excerpt: "Insider, a Turkish artificial intelligence-backed marketing platform, raised as much as $105 million in funding from two existing investors in a deal that highlights how AI companies are defying the global tech industry slump."
+    publishedDateTime: 2023-05-24T05:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-24/turkish-ai-backed-marketing-unicorn-insider-gets-more-funding-for-m-a"
     type: article
     provider:
       name: Bloomberg L.P.
       domain: bloomberg.com
-    quality: 67
+    quality: 84
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iASVrvag2dgg/v0/1200x800.jpg"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFIBqeSae5.s/v0/1200x801.jpg"
         width: 1200
-        height: 800
+        height: 801
         isCached: true
-  - title: "Windows 11 to get a new AI assistant – Copilot"
-    excerpt: "one of its most recent AI tools, embodies its vision for the future of the Windows 11 operating system. According to IT Home, Microsoft intends to roll out Copilot to all Windows 11 users later this year. However, the company will start beta testing this ..."
-    publishedDateTime: 2023-05-23T17:46:00Z
-    webUrl: "https://www.gizchina.com/2023/05/23/windows-11-to-get-a-new-ai-assistant-copilot/"
-    ampWebUrl: "https://www.gizchina.com/2023/05/23/windows-11-to-get-a-new-ai-assistant-copilot/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/05/23/windows-11-to-get-a-new-ai-assistant-copilot/amp/"
+  - title: "AI Startup Updating Old Finance Systems Raises $35M"
+    excerpt: "Artificial intelligence (AI) startup company FlowX.AI secured $35 million in a new funding round led by Dawn Capital. The company operates an AI-powered platform designed to improve the digital infrastructure of banks and help them launch services faster."
+    publishedDateTime: 2023-05-23T02:12:00Z
+    webUrl: "https://247wallst.com/investing/2023/05/22/ai-startup-updating-old-finance-systems-raises-35m/"
+    ampWebUrl: "https://247wallst.com/investing/2023/05/22/ai-startup-updating-old-finance-systems-raises-35m/amp/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/05/22/ai-startup-updating-old-finance-systems-raises-35m/amp/"
     type: article
     provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 74
     images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/05/Microsoft-Copilot-a-1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://247wallst.com/wp-content/uploads/2022/10/imageForEntry1-3dh.jpg?w=400"
+        width: 400
+        height: 224
         isCached: true
-  - title: "Google-backed Anthropic raises $450 mln in latest AI funding"
-    excerpt: "May 23 (Reuters) - Anthropic, an artificial intelligence startup competing with OpenAI in building AI foundation models, said on Tuesday it had raised $450 million from investors including Alphabet Inc's (GOOGL.O) Google and Spark Capital. The latest round ..."
-    publishedDateTime: 2023-05-23T18:56:00Z
-    webUrl: "https://www.reuters.com/markets/deals/alphabet-backed-ai-startup-anthropic-raises-450-million-funding-freeze-thaws-2023-05-23/"
+  - title: "AI startup Figure raises $70 million in funding to build humanoid robots"
+    excerpt: "The new funding will be used to accelerate the development and manufacturing of the company's first autonomous humanoid, which is expected to launch in the next few months. The valuation of the one-year-old company was not disclosed,"
+    publishedDateTime: 2023-05-24T10:59:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/ai-startup-figure-raises-70-million-to-build-humanoid-robots/articleshow/100473777.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/ai-startup-figure-raises-70-million-to-build-humanoid-robots/amp_articleshow/100473777.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/ai-startup-figure-raises-70-million-to-build-humanoid-robots/amp_articleshow/100473777.cms"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
-  - title: "Alphabet-backed AI startup Anthropic raises $450 million as funding freeze thaws"
-    excerpt: "Anthropic logo is seen in this illustration taken March 31, 2023. REUTERS/Dado Ruvic/Illustration"
-    publishedDateTime: 2023-05-23T14:21:00Z
-    webUrl: "https://www.reuters.com/news/picture/alphabet-backed-ai-startup-anthropic-rai-idUSKBN2XE0VA"
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 53
+  - title: "AI video startup Gan.ai raises $5.25 million"
+    excerpt: "Generative artificial intelligence-based video creation platform Gan.ai on Tuesday said it has raised $5.25 million in a seed funding round led by Surge, which is Sequoia Capital India’s rapid scale-up programme."
+    publishedDateTime: 2023-05-24T00:30:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/ai-video-startup-gan-ai-raises-5-25-million/articleshow/100454996.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/ai-video-startup-gan-ai-raises-5-25-million/amp_articleshow/100454996.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/ai-video-startup-gan-ai-raises-5-25-million/amp_articleshow/100454996.cms"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 42
-  - title: "AI startup Anthropic raises $450M from Spark, Google, Salesforce"
-    excerpt: "Anthropic, a San Francisco-based AI startup, raised $450 million in Series C funding led by Spark Capital, the company announced Tuesday. Why it matters: The startup has been building a war chest as it competes with ChatGPT creator OpenAI."
-    publishedDateTime: 2023-05-23T12:52:00Z
-    webUrl: "https://www.axios.com/2023/05/23/anthropic-funding-series-c"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 39
-    images:
-      - url: "https://images.axios.com/20cN8koAFOoC71Jnd_9qF5cvVFA=/0x0:1920x1080/1366x768/2023/05/23/1684845597335.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Anthropic raises $450M to build powerful but trustworthy AI systems"
-    excerpt: "Anthropic has risen to become a well-known generative AI startup. Co-founded by the siblings Dario Amodei and Daniela Amodei who were vice presidents at the AI company OpenAI LP, it’s best known for the generative AI chatbot ChatGPT,"
-    publishedDateTime: 2023-05-23T16:14:00Z
-    webUrl: "https://siliconangle.com/2023/05/23/anthropic-raises-450m-build-powerful-trustworthy-ai-systems/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 37
+  - title: "Singapore-based AI startup KarmaV enters India aims to establish ethical hiring practices and DEI strategies"
+    excerpt: "Singapore-based AI startup KarmaV enters India aims to establish ethical hiring practices and DEI strategies - KarmaV an AI-based SaaS platform focussed on solving diversity, equity, and inclusion (DE&I) status"
+    publishedDateTime: 2023-05-24T11:02:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/singaporebased-ai-startup-karmav-enters-india-aims-to-establish-ethical-hiring-practices-and-dei-strategies-nid-223177-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 35
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Fundraising_Blog.jpg"
-        width: 2880
-        height: 1620
+      - url: "https://www.siliconindia.com/news/newsimages/KzcZ47Dq.jpg"
+        width: 570
+        height: 367
         isCached: true
-  - title: "AI startup Anthropic raises $450M for safety-focused chatbot"
-    excerpt: "Yet while ChatGPT has faced criticism — and been tweaked — after offering users some concerning results, Anthropic aims to make its chatbot more cautious from the start. Anthropic’s goal is for Claude to be less prone than other chatbots to manipulation that will produce harmful or offensive results."
-    publishedDateTime: 2023-05-23T21:58:00Z
-    webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?n=%5CL"
-    ampWebUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
-  - title: "AI startup Figure raises US$70 million to build humanoid robots"
-    excerpt: "FIGURE, a startup that wants to build general-purpose humanoid robots, has raised US$70 million from investors led by Parkway Venture Capital in its first external round, the company said on Wednesday (May 24)."
-    publishedDateTime: 2023-05-24T10:32:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/ai-startup-figure-raises-us70-million-build-humanoid-robots"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 34
-  - title: "AI startup raises $70 million to build humanoid robots"
-    excerpt: "Figure, a startup that wants to build general-purpose humanoid robots, has raised $70 million from investors led by Parkway Venture Capital in its first"
-    publishedDateTime: 2023-05-24T06:07:00Z
-    webUrl: "https://arynews.tv/figure-ai-humanoid-robots/"
-    type: article
-    provider:
-      name: ARY News Live
-      domain: arynews.tv
-    quality: 34
-  - title: "AI start-up Anthropic raises $450mn from Google and Spark Capital"
-    excerpt: "Dario Amodei, Anthropic’s chief executive and former head of AI safety at OpenAI, said the funding would support “AI research and products that put safety at the frontier”. Amodei was part of a group of OpenAI researchers who split from the ..."
-    publishedDateTime: 2023-05-23T15:13:00Z
-    webUrl: "https://www.ft.com/content/d25cc130-2b8e-4863-b435-586f2d2236d1"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
-  - title: "Alphabet-backed AI startup Anthropic raises $450 million"
-    excerpt: "The funding will support our continued work developing helpful, harmless, and honest AI systems — including Claude, an AI assistant that can perform a wide variety of conversational and text processing tasks,"
-    publishedDateTime: 2023-05-23T11:37:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/05/23/anthropic-450-million-fundraise.html"
+  - title: "Thoro.ai raises $7 million Series A funding round"
+    excerpt: "A startup making robotics-based autonomy stacks for industrial equipment manufacturers has closed on a $7 million funding round, bringing its total outside investment amount to just over $11 million to date. Thoro.ai, a company Carnegie Robotics spun out ..."
+    publishedDateTime: 2023-05-22T21:01:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/05/22/thoro-ai-raises-7-million-series-a-funding.html"
     type: article
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 17
+    quality: 19
+  - title: "Singapore-headquartered AI Credit Modeling FinTech finbots.ai"
+    excerpt: "Accel-backed finbots.ai, a Singapore headquartered B2B SaaS FinTech today announced signing Sathapana Bank—Cambodia's leading commercial bank—as their latest client. With this, finbots.ai's fast growing client case has extended to 9 countries across APAC and MEA markets."
+    publishedDateTime: 2023-05-24T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-singapore-headquartered-ai-credit-modeling-fintech-finbotsai-transform-/2023/05/24/9820875.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "gGoBCOAPLCyQ7IqljrVb3tr4sV/f2RWqKh23Y5cJ9BR7wvrOKbZqP0M+A/+xikbNYfmbCsK+h6ci3ugZqsDg/t0hsyjWO+LoBZfSfF2ibOb5gfEDzA7J+kKjPBwcnDEf93UV8U3NTP3i7J9ukRewcbtRtqBpwjkihr1p3d0sIdCIzBZI8bhHo6Gdfz1NoqHeioR5XozXmXSTeVaUZDJx0OiIbsGWK9p2RLEZNkzn00476aLR0CJPkWruvD+D7xkECdUOg6LmaPnn+bMiVxwCOx3tLL6/EYnm+8C6s712Lpup+CeiG48swsaeU7tToIjJMDKxyD3zzwGTx5xj/pM1/Bax1QlfzK4jbfeAcv1LAamNiTX8CgFz8k90O1PXLrA0LIBEROEJUH3xc2KbJBtSmHOZiiBOIk0ISIz3WvvNcmfUrdbz9+OMFalj0ytlgWCzLLEzGU2tq00SPqh+pf+otRpHyu6HD+Ta1v6UkenxMkx3ZOos7BiT7BY7FbMAWmdyP9fYMKGxtbr30Rw6haDdRQ==;4EAxdkNS1PS0HxQ2m1XDUA=="
 ---

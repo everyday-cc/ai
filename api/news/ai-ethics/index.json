@@ -245,59 +245,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-23-singapore-wants-to-plug-ai-skills-gap-in-finance-sector.md",
-      "title": "Singapore wants to plug AI skills gap in finance sector",
-      "excerpt": "Also: Today's AI boom will amplify social problems if we don't act now, says AI ethics MAS chief fintech officer Sopnendu Mohanty said: \"Supporting AI and data analytics adoption is one of our key strategies to help financial institutions evolve and adopt ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/singapore-wants-to-plug-ai-skills-gap-in-finance-sector/",
-      "originalUrl": "https://www.zdnet.com/article/singapore-wants-to-plug-ai-skills-gap-in-finance-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2ea03e238d13117fe1b694848d99966f1946b37c/2023/05/22/1d63f23e-26a4-445f-a93e-dc785351b1a8/gettyimages-1219724477.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-wants-to-plug-ai-skills-gap-in-finance-sector/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-wants-to-plug-ai-skills-gap-in-finance-sector/",
-      "publishedDateTime": "2023-05-23T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2023-05-22-todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist.md",
       "title": "Today's AI boom will amplify social problems if we don't act now, says AI ethicist",
       "excerpt": "AI systems trained on internet data are in danger of reinforcing negative bias and causing societal harm. Salesforce's Kathy Baxter explains how to fix it.",
@@ -306,7 +253,7 @@
       "originalUrl": "https://www.zdnet.com/article/todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -1459,6 +1406,58 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-anthropic-releases-ai-constitution-to-promote-ethical-behavior-and-development.md",
+      "title": "Anthropic releases AI constitution to promote ethical behavior and development",
+      "excerpt": "Anthropic unveiled its constitution for Claude, which aims to ensure that the AI system adheres to a set of ethical guidelines and principles, thereby making its behavior more helpful, harmless, and honest.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/anthropic-releases-ai-constitution-to-promote-ethical-behavior-and-development/",
+      "originalUrl": "https://venturebeat.com/ai/anthropic-releases-ai-constitution-to-promote-ethical-behavior-and-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/anthropic.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/anthropic-releases-ai-constitution-to-promote-ethical-behavior-and-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/anthropic-releases-ai-constitution-to-promote-ethical-behavior-and-development/amp/",
+      "publishedDateTime": "2023-05-09T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     }
   ],

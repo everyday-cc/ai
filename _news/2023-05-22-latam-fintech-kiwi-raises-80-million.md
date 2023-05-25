@@ -35,22 +35,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Fintech Ramp Launches AI-enhanced Tools to Help Businesses Streamline Operations"
-    excerpt: "Ramp, the finance automation platform, announced Ramp Intelligence: a set of tools in financial services, driven by AI, to solve customer issues."
-    publishedDateTime: 2023-05-20T14:38:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207415-fintech-ramp-launches-ai-enhanced-tools-to-help-businesses-streamline-operations/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 54
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2013/05/Tools.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "LatAm Fintech Kiwi Acquires $80M to Provide Underbanked Consumers with Credit Access in the US"
     excerpt: "Kiwi, a fintech dedicated to helping consumers, announced that it has closed a $75 million credit facility and $4.5 million pre-series A funding round."
     publishedDateTime: 2023-05-23T16:47:00Z

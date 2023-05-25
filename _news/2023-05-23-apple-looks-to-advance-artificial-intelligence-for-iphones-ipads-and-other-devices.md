@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "How to turn Google Bard AI into an app on your iPhone home screen"
-    excerpt: "Google Bard is available for free in 180 countries. Here’s how to create your own iPhone app for Google’s ChatGPT alternative."
-    publishedDateTime: 2023-05-20T14:34:00Z
-    webUrl: "https://bgr.com/tech/how-to-turn-google-bard-ai-into-an-app-on-your-iphone-home-screen/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/05/google-bard-for-iphone-4.jpg?quality=82&strip=all"
-        width: 1600
-        height: 900
-        isCached: true
-
 secured: "rwrMkW1zdyRHeTLR80iwOVsreWtq6d4XdooxLjrw7JI6wM8F7rWkel28v1S5tvy23xiCeOhhfP7LM05dq/Z1o0muHz2WOKLrJfBTVQYzo3Z3IJRtiisVqAPa9AtbIUD7iSIuKiUXyalpXGe9I3IfxX8Od3KZM1v7zoImWZIHsSo35Uf/KCacBjBySo3v/ZbkybdmiPIl4MIznwlFzT5V2jtjTSe+XskXXDzaYffRwWLYxsRNKFlfxoM7Ns0jHdYcpVgBDi4x/jaOUdijBPFhrf9pXzdF/KhklVYxH1PrjIo3DxVVDbCWdgC4486CtuCWcSBXYQJ9dfhTZNn9oC73XOtjrRzspI3LpNqvurVtABR8Eh7HPzstNrs5sthj4TqE1UWIsUCkQzycd+nItguQqLigsMxdwv6gvBIqwl0rmnuETknfW4M21EmfnFx82Qz+PNhbtgCl5zjxWh+jmK5pbbAhDVAtWviuz5DHfQOZ9v4zUkeTImmGIERUkI5qZByFEePiVJqqE9M6GjFX8PFCzg==;YLg+tSrgBy/h4GiEomwUHQ=="
 ---
 

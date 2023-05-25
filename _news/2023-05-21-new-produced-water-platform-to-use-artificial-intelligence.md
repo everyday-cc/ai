@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "RTA launches Enterprise Platform to design and develop AI solutions"
-    excerpt: "Dubai’s Roads and Transport Authority (RTA) has launched a comprehensive Enterprise Platform for designing and developing AI and data science solutions at world-class standards in collaboration with top global firms."
-    publishedDateTime: 2023-05-21T07:10:00Z
-    webUrl: "https://www.emirates247.com/uae/rta-launches-enterprise-platform-to-design-and-develop-ai-solutions-2023-05-21-1.711753"
-    ampWebUrl: "https://www.emirates247.com/uae/rta-launches-enterprise-platform-to-design-and-develop-ai-solutions-2023-05-21-1.711753?ot=ot.AMPPageLayout"
-    cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/uae/rta-launches-enterprise-platform-to-design-and-develop-ai-solutions-2023-05-21-1.711753?ot=ot.AMPPageLayout"
+  - title: "Ryff unveils Spheera AI virtual product placement platform"
+    excerpt: "And now it’s using AI on a platform called Spheera to automatically insert ... In their report, New York-based research firm Radicle Insights, backed up by Chapman University Film School, predicted that TV channels such as NBC, ITV, Channel 4, and ..."
+    publishedDateTime: 2023-05-25T07:01:00Z
+    webUrl: "https://venturebeat.com/games/ryff-unveils-spheera-ai-virtual-product-placement-platform/"
+    ampWebUrl: "https://venturebeat.com/games/ryff-unveils-spheera-ai-virtual-product-placement-platform/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/ryff-unveils-spheera-ai-virtual-product-placement-platform/amp/"
     type: article
     provider:
-      name: Emirates247
-      domain: emirates247.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://www.emirates247.com/polopoly_fs/1.711755.1684652927!/image/image.jpg"
-        width: 1003
-        height: 766
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/RYFF-kitchen-with-graphics.jpg?w=1200&strip=all"
+        width: 1200
+        height: 674
         isCached: true
 
 secured: "xIXpwSbOR5L5oNjtrn6PaQEgvRxqI4LHJlo07nMxlVDz1Ls5s0v6DR8mmg5wUuoDczVttjYyznhDFkrsrkChGLR+3VVUfnbzsG+h/DzFIGqzk+uhbf785O6ldkwFE0Kmjiw1L1CwlRS4egm07DAN750nuY6JeMnIAOaEBOo09YL2mXPJFevv2KuQgZKyfCWczx6uMi1jtDAROEvz7Cr1J1TTc8lnXhH293IaYx877jIcmYlTJC1pLpHPUvSs8764d5/iQHnAgMj3lWBQB0ph/S7dZouCFVDfxs+mbOL/vkNrOsTEx5kc5A0bNggthZciV4dxYQWsbA1EmmTH47LUlxekRFo7zs5NipEsMYfaMpW3SBT3Yu3C9dhpVipxwcQ6QCiqVaxTDL02kT1onVAEkwwsHZA9gWDQETFkYpDOP2qOnNWpzH3kJoVSAFDycPMcrcqBViGglwOqIDpWNOnIamlcL5j3iPJZr+JBUcE1rpA+VTkhY46ZfMN6rdCoE96o/fdBLBTboLcIYUCCEBDZ0A==;fAi/jHlp+u51/hdgMtlLGg=="

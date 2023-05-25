@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/22/get-past-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/22/get-past-the-filter-artificial-intelligence-in-hiring/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Embracing AI in the world of finance"
+    excerpt: "Large Language Models (LLMs) like ChatGPT are shaking up the world of finance. Morgan Stanley is testing an OpenAI-powered chatbot to assist their financial advisors. The bot, trained on the bank's own research reports,"
+    publishedDateTime: 2023-05-23T14:11:00Z
+    webUrl: "https://phys.org/news/2023-05-embracing-ai-world.html"
+    ampWebUrl: "https://phys.org/news/2023-05-embracing-ai-world.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-embracing-ai-world.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/embracing-ai-in-the-wo.jpg"
+        width: 900
+        height: 1037
+        isCached: true
 
 secured: "5/Bs7A6y4xiMPvKbfiYH6o2dvApBpHq38bXR0jlELlnE0tdbmB+TVvQgQhV61ULKdJyQ+XTz+Ex6KsCiKdw0rH6CTpYlSvOOc7hNvyFhIBZKJAu0Z0LprrtZWTHyS6i0FqRI4z4VEaeGmzUFjviVc/IPNU/5T1l3jhD7L7yHx2M1epEoGoxiAf35u91lX21KGJrWtfKyOOTeRMeK4ZAn1wqedJcb9h2lDCsfpNcgJWPv6AJEQS9A/HhyCk8Ub7LxrHqgw7jWRMbC58Lf2WPQBga+D4a/1YeknV+I9jymwsA7dhgUjGENzV0xPbehVn7YckmbYrnbcjoV/7oqSDbmMTfvrbMXTx3hmFH9t56HAvEQTxflsEznDMace7K7jcE0gi8OEKd7OsclA2qbA2llk//ydJbfaDhf33Y/uBLzuAWGFOAQ24an9bMlXK7KihhyD4j1x1Ennh+eYyFFfauVTjTwYDDGWyOLMI5SlaDb8umdrA3+i3POIJ65fo5AcbaCOw9gL7NgdMeH75tkm1ZC5Q==;WuKb1pL3jzpLAEAB60TYIg=="
 ---

@@ -27,59 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore wants to plug AI skills gap in finance sector"
-    excerpt: "Also: Today's AI boom will amplify social problems if we don't act now, says AI ethics MAS chief fintech officer Sopnendu Mohanty said: \"Supporting AI and data analytics adoption is one of our key strategies to help financial institutions evolve and adopt ..."
-    publishedDateTime: 2023-05-23T07:50:00Z
-    webUrl: "https://www.zdnet.com/article/singapore-wants-to-plug-ai-skills-gap-in-finance-sector/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-wants-to-plug-ai-skills-gap-in-finance-sector/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-wants-to-plug-ai-skills-gap-in-finance-sector/"
+  - title: "Get Past The Filter: Artificial Intelligence In Hiring"
+    excerpt: "Most mid- to large-sized companies use resume filters or ATS. With hundreds or thousands of resumes for a job, there is simply no way a human can go through them all."
+    publishedDateTime: 2023-05-22T15:55:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/22/get-past-the-filter-artificial-intelligence-in-hiring/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2023/05/22/get-past-the-filter-artificial-intelligence-in-hiring/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/22/get-past-the-filter-artificial-intelligence-in-hiring/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 106
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/2ea03e238d13117fe1b694848d99966f1946b37c/2023/05/22/1d63f23e-26a4-445f-a93e-dc785351b1a8/gettyimages-1219724477.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646b8fa307a03e9b39bb3718/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Banks, IHLs to come together to groom AI-ready talent for financial industry"
-    excerpt: "Mr Sopnendu Mohanty, chief fintech Officer at MAS, said, “Supporting Aida adoption is one of our key strategies to help financial institutions evolve and adopt game-changing AI technology. However, the shortage in talent limits the industry’s potential ..."
-    publishedDateTime: 2023-05-22T10:57:00Z
-    webUrl: "https://www.straitstimes.com/business/banks-ihls-to-come-together-to-groom-ai-ready-talent-for-financial-industry"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 51
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/05/22/aimas2205_2.jpg?VersionId=X6Awm3vqf0.EtAXo.KN2OWuq3J7LGrf9"
-        width: 860
-        height: 573
-        isCached: true
-  - title: "Singapore-based AI startup KarmaV enters India aims to establish ethical hiring practices and DEI strategies"
-    excerpt: "Singapore-based AI startup KarmaV enters India aims to establish ethical hiring practices and DEI strategies - KarmaV an AI-based SaaS platform focussed on solving diversity, equity, and inclusion (DE&I) status"
-    publishedDateTime: 2023-05-24T11:02:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/singaporebased-ai-startup-karmav-enters-india-aims-to-establish-ethical-hiring-practices-and-dei-strategies-nid-223177-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 35
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/KzcZ47Dq.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "Singapore-headquartered AI Credit Modeling FinTech finbots.ai"
-    excerpt: "Accel-backed finbots.ai, a Singapore headquartered B2B SaaS FinTech today announced signing Sathapana Bank—Cambodia's leading commercial bank—as their latest client. With this, finbots.ai's fast growing client case has extended to 9 countries across APAC and MEA markets."
-    publishedDateTime: 2023-05-24T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-singapore-headquartered-ai-credit-modeling-fintech-finbotsai-transform-/2023/05/24/9820875.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "A24J170M1G3N334hYPVtd1I4mPmSdKDl4cAUYOhwUA16cQlmY4HlePPxGF13HdRgEMXFGKP0OBalPHIVKD7O0F9Rpr9EIsxgAXXbrSGdyUgm5uWoT5PIgJAwBlbPQYMhFndYN06y8jOWNPqPAOApEOCJHFWxpqxf0oe5nX5IHLj9heAgQcZ03BOShsCuWrL82DzCjGuimgoS7qLjw0TyEisGcVGWz1t5tMAJTlWZQ1KBPTDXKk5dfJw6Xe2ToqUYwGxftYy9HnfFrZ8n3VSodDrvIvE2F9EoHS0asqv5JJahrwqzhmOBzlbvpZYs3LQdZxW0WF6jMRtb9LaEk8SlMsF0sSzJ2g+RapH06YlWyc9OVQLjQyNptlZ/IB1ehqa2EyIRPM2jt4iJDyoXok/nBf6vvo5/v2ZtTT8GbLCec81wcJ9jN+hbvjPsG1otA6qf+qLNVuT/Upiv3A3cizRdRLNTOJTARE9emNmCzs7GE5bpa24KJ2QHzf7Ke+tHpj3dmOzg8xFMWO1Dx2LcXpLMAA==;kyCVKBrBdG9SU0l5L2PVZQ=="
 ---

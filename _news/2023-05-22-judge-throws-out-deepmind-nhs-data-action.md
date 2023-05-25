@@ -41,6 +41,17 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Flamingo: Google DeepMind's AI enhances YouTube shorts with dynamic video descriptions"
+    excerpt: "Boost discoverability and engagement on YouTube Shorts with Google DeepMind's Flamingo. This visual language model generates dynamic video descriptions for enhanced search results."
+    publishedDateTime: 2023-05-25T06:07:00Z
+    webUrl: "https://odishatv.in/news/technology/flamingo-google-deepmind-s-ai-enhances-youtube-shorts-with-dynamic-video-descriptions-205172"
+    ampWebUrl: "https://odishatv.in/news/technology/flamingo-google-deepmind-s-ai-enhances-youtube-shorts-with-dynamic-video-descriptions-205172/amp"
+    cdnAmpWebUrl: "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/technology/flamingo-google-deepmind-s-ai-enhances-youtube-shorts-with-dynamic-video-descriptions-205172/amp"
+    type: article
+    provider:
+      name: Odisha TV
+      domain: odishatv.in
+    quality: 46
 
 secured: "zwqPFPWEXYLLB6FPxcKcDGzjaQt6/qhVxh2oK1VptV0NUlx/Sen6hf8q5p+5osTjig3fUqqamJ37T6nPZRuuVsV4uorLN+hudYNYV2HZulHW1cX0ZbHrIFyC0LN9FabkPLMpZpYeL9S2d6eKIX87qRWOD4o0rsI4TQDv3ws0DlqKoVqy3AHfnzqdDn1y/UTlH19sO77PpfxksqDbWogF5+5t6uib9WUJ5X1RNIAnFQEgMTDBK4S/rcRLRVTNeCIqFMdm79JjR/WX64KbcpA1POCiy1i+kT+zwHN6KiK9aj+Z5GPkmQbbXoo1Oc8jxxx+agya2VUvnLnTjssmncXWi07NB/NSAmWrdvg15AT1a9mgMFoyrBizIu6gS0dDnt/f8qPnWXKcHvo1rbVowHI/15YxuT6wfzEAhadt2ddEgtfVy0J3Jl6v3EmFFeCw3/vQOpEFL42OztIsrj7++mhpS54hBTHPmYMmMka2pHaeNygFNOHwOQPAA3DPuwHjPfbqJw+V1AzGDm8/M5qqt5SkJQ==;4iBEJ9XWdG386W4uXQFJKQ=="
 ---

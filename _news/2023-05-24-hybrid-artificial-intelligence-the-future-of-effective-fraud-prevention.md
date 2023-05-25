@@ -20,15 +20,15 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Fear the fire or harness the flame: The future of generative AI"
-    excerpt: "AI may be more advanced than we think. We must harness its benefits while mitigating the dangers through standards and common sense."
-    publishedDateTime: 2023-05-20T13:39:00Z
-    webUrl: "https://venturebeat.com/ai/fear-the-fire-or-harness-the-flame-the-future-of-generative-ai/"
+  - title: "Security processors use AI to detect attacks on next-gen servers"
+    excerpt: "New trusted control/compute units (TCU) combine silicon, AI and data collection, and software into a single chip, allowing monitoring during normal server operation for side-channel, network and other peripheral-based attacks. Axiado Corporation has ..."
+    publishedDateTime: 2023-05-24T16:58:00Z
+    webUrl: "https://www.embedded.com/security-processors-use-ai-to-detect-attacks-on-next-gen-servers/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
+      name: Embedded
+      domain: embedded.com
+    quality: 36
 
 secured: "vcOpyZ8z5Cgyyhq4K5e/DvlO/xMXPvOjRjM23AmqLQLZimiXs28mAlJHKi9jp9In7f1DFPwD3P+obZA8N+boPNC3JgQYgYpEGsaErPSW1ervjQqtZYaWM6cExzGJ3pEDv6BxhP0vkWp12e6Z5JCjSSNkuRSXzBvjRZOk5GAyhNYDsOhxHFGswJxStPbykCqk2gEBqtUGNmziSD2+hVqKH1eq+1YFMe1pj7IROP0Wcq9fTlkB6KZELFan1HmtiOFHKt7q/6Is5Q5wHBt7kYzvCqzUef5/LDzd7XFr+3M1A5/9Ken+0XzO3F4bimLZef9vuvl7Ga5E3hKG+jHTBQ69kMCaQa9Y60Tb6xeRmeNOV1rpBjsrtRbp5crmGj+Cxiz2VPJy11Z7aD9iRcJiaETQWijPOl4RFkApfzu5sGyrUoYDf2RRXgRypQ+2XTbZGEOIj53WaQbHenOeewj2fhxCsueeF7szHThGNsyzB0hhcM2oT2YhP4+n79RNHTxCnjkSmIoAtlTbrizqNgs4jbS6FQ==;sJxc1nJ2IbHXNS1gNF0kHQ=="
 ---

@@ -459,6 +459,20 @@ related:
         width: 904
         height: 372
         isCached: true
+  - title: "From ChatGPT on Bing to Azure AI: 5 biggest announcements from Microsoft Build 2023"
+    excerpt: "Microsoft continues to make strides in AI with a slew of updates and launches announced at Build 2023. From ChatGPT on Bing to Azure AI: 5 biggest announcements from Microsoft Build 2023. Bing, chatGPT,"
+    publishedDateTime: 2023-05-25T06:21:00Z
+    webUrl: "https://www.itp.net/software/from-chatgpt-on-bing-to-azure-ai-5-biggest-announcements-from-microsoft-build-2023"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 63
+    images:
+      - url: "https://www.itp.net/cloud/2023/05/25/MS-Build-2023-Bing-to-ChatGPT.jpg"
+        width: 2000
+        height: 1334
+        isCached: true
   - title: "Here are all the AI updates Microsoft announced at its developers conference keynote"
     excerpt: "Microsoft Build developer conference in Seattle on Tuesday, the company announced a series of AI updates to make both Bing and ChatGPT smarter, more intuitive and potentially more ubiquitous."
     publishedDateTime: 2023-05-23T19:14:00Z
@@ -902,6 +916,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 24
+  - title: "NVIDIA makes move in the industrial world by partnering with Microsoft and Dell Technologies for easier Generative AI accessibility"
+    excerpt: "One of the biggest driving forces behind Generative AI technology is none other than accelerated computing giant NVIDIA. In its latest announcement, Team Green has shaken hands with Microsoft and Dell Technologies to leverage access to a wider audience."
+    publishedDateTime: 2023-05-25T06:32:00Z
+    webUrl: "https://www.tech-critter.com/nvidia-generative-ai-with-microsoft-dell-technologies/"
+    type: article
+    provider:
+      name: tech-critter.com
+      domain: tech-critter.com
+    quality: 24
+    images:
+      - url: "https://secure.gravatar.com/avatar/a0ed3175f99016ebcbdaabb913231517?s=300&d=mm&r=g"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "auR1z6Io0RnOuOpQNtYjb7JkB09oj5URLRebP7TapF3OgvcxTaSM2JSFMs9pv89ObHZIPWnfscJF/Gv5hol+seQpe5XVlg3vdb+J/htrDKqt1+HiaGDGMiGXL39YpJDMyi8UAOu8HYp8v+pq+zmOrr/HoJ9uuAup+8hSXb9DzNiM+tsLAalujmYOQhYqy5QATOTzrQz033JbTg8nUPuFtFyBy8zJ5zx7jvkpCcKTDCqfloL/VWYqbzm6lm5raLNunQtg+nxU18HZfEtHEXQnqoNwunDDabFCf2oWGoPAc4Wha36wCSv3EPJOKoctwtwwk1bbFMTivmSGuyyrYJX97PSnc/Zz416iJ7QAp0Vh+PvCMTfd+150jNt7gAWfqpPjjBHApBAF8BesW0yoz6sNzA/GR7zxoi8H2zHimQ23xQPPX9D0+49cGz6nDLUD+B5rovzYkK1TYBjEea9wHSfy4ta/V3ydiFqY8SnCUzU2di213qxSojdjmNUiODYjoZosyxiOSKRH5qQcAIlQk6ojGg==;N4cObz5y21vpnH+B2voLpQ=="
 ---

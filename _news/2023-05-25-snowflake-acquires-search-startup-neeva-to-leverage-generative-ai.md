@@ -141,6 +141,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 33
+  - title: "Avatar animation, AI-powered video production companies among AWS’ first generative AI accelerator cohort"
+    excerpt: "Companies that employ generative artificial intelligence to create clips for social media ... more than 1,200 applications for the 10 spaces in the programme, prompting AWS to expand it to 21. The company will provide the cohort with the resources ..."
+    publishedDateTime: 2023-05-25T07:21:00Z
+    webUrl: "https://www.tvbeurope.com/media-management/avatar-animation-ai-powered-video-production-companies-among-aws-first-generative-ai-accelerator-cohort"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 17
 
 secured: "/FPCa9d/QAXlNVOT0vYZKu/Q3vzBHFKJIZMxFTS1UFtwYLC9/9hadX08R4fUpc1snUdwFClFDJlpFkbEwBvHLA4Ngox9ab3i20hHWqgYO4L2/lTQhyYsPtbOH2SsDGB1VuOoeO8H1OlNchgvtlO4PpbD1krfqKq0LLRTplLf4sZdb2kw2RawFZb7Vs7w+V9fnP4CiT5x7GDnnC/kvUBhsheY+t6ILV9GoAQTbsjwcyGMlc3fZzivfd6ioufol/YI1GOQXPiE/8bCTyz8fTO5OKueIfT+OvcYqpjm4k6ERbhg0pMYD6xRsXXZdY1T+PnyyJ7gY9lWoEvqtgK+QbsBXX6UPTmlmWWWLlCFrnU5r2Q=;RGwqRk/bBA1t8sbcAICAJg=="
 ---

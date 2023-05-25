@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "‘Will definitely replace me’: Americans fear artificial intelligence will steal their jobs"
+    excerpt: "People in Texas sounded off on AI job displacement, with half of people who spoke to Fox News convinced that the tech will rob them of work."
+    publishedDateTime: 2023-05-25T06:00:00Z
+    webUrl: "https://www.foxnews.com/tech/definitely-replace-americans-fear-artificial-intelligence-steal-jobs"
+    ampWebUrl: "https://www.foxnews.com/tech/definitely-replace-americans-fear-artificial-intelligence-steal-jobs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/definitely-replace-americans-fear-artificial-intelligence-steal-jobs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 79
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5347284-ddac-4097-8065-387edd09b96b/63aabd01-2815-4a73-a1e9-c19dca9ac7a4/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Americans weigh in on whether VP can lead on AI after Elon Musk mocked her"
     excerpt: "Several Washington. D.C. residents said they don't trust Vice President Kamala Harris to lead the White House's response to artificial intelligence."
     publishedDateTime: 2023-05-20T23:33:00Z

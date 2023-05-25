@@ -3,8 +3,8 @@ category: news
 title: "Nvidia Poised for Record Sales as AI Demand Kicks In"
 excerpt: "The graphics-chip giant forecast a strong revenue bounce back for the current quarter, driven by growing appetite for generative AI technology."
 publishedDateTime: 2023-05-24T22:28:00Z
-originalUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?mod=hp_lead_pos6"
-webUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?mod=hp_lead_pos6"
+originalUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?siteid=yhoof2&yptr=yahoo"
+webUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?siteid=yhoof2&yptr=yahoo"
 type: article
 quality: 84
 heat: -1
@@ -217,6 +217,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "S1aZ2uDu6dtHBUY0EUQkxCCiUMU8cJZtKePs9RjoJI3T6J2xnJNwQWscDx0Rdx4MDbkZugzyd3Um7knnQMRufxI4oU8hsUVggmuAvHDgeaU91v3N063Q4PLsjf03CC92yl8U8wXYDDf/D/c0P3cSUzaefnPocpi2XFz8RBJqdTJBciU9sNfGfmtfgR96pArWrp9P/Y8OKRGhKiz3MLgxXm3Xmk2DMZcoB5iz4Y0fLP7d3i40gBRPeLGXGttkY2Q2DJLPs7/Cb5n4Y9FpSN7gAn0D6iYh8FQxIwIvmOGXW3sGFzLk9/LUfm+zQq2tX7r8xkpRqOnzlTfljg9jo29MgZwoM4loFvC7FRkaFZqxG04=;ThyWFYx7DP6HoZfy7JQOxg=="
+secured: "CS0ut4Xej+EwqhzX0bmSPpQqyEy1sfaf6gnG6+L9No02zYeLImwilg6/va7O3KtQ/oWxwZtKwpkZGvBQHNhMPXySV3y4gepRd/+AxLM2MjqX1AKvUP5JVBd65YIHPiM8jqIxG8w4Ku+aHnZIWj5WwTd89A1xsP4ssBZ4/b0bWj37Du/ulu8zScquiMeW7BdG1ZNj4fCQg1DRCNx6KAZlPA0bAASCt1eK8B1NDDFV9OY9rU159Kc2rsSRNx/gQctvDRO52At5q2p/eNYYY4uco2XYqu+npD43nAUV2Xr8IenRM8pA0z7ahjP8WAuXGXeSagKbeh8hsh8wNhoyYZigqyufiH1lyvpXuhkR+vMYuls=;QJe+MhCSWhM2+C5IyIAR3Q=="
 ---
 
