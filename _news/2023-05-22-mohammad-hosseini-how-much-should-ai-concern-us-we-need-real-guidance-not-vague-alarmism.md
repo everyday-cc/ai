@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "How much should AI concern us? We need real guidance, not vague alarmism"
+    excerpt: "Geoffrey Hinton, the visionary expert who was at the heart of so much innovation in artificial intelligence and machine learning, left Google. In an interview with CNN, he said, “I’m just a scientist who suddenly realized that these things are getting smarter than us."
+    publishedDateTime: 2023-05-25T10:05:00Z
+    webUrl: "https://www.westhawaiitoday.com/2023/05/25/opinion/how-much-should-ai-concern-us-we-need-real-guidance-not-vague-alarmism/"
+    ampWebUrl: "https://www.westhawaiitoday.com/2023/05/25/opinion/how-much-should-ai-concern-us-we-need-real-guidance-not-vague-alarmism/amp/"
+    cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2023/05/25/opinion/how-much-should-ai-concern-us-we-need-real-guidance-not-vague-alarmism/amp/"
+    type: article
+    provider:
+      name: West Hawaii Today
+      domain: westhawaiitoday.com
+    quality: 58
+    images:
+      - url: "https://www.westhawaiitoday.com/wp-content/uploads/2023/05/web1_OPED-AI-CONCERNS-COMMENTARY-GET.jpg"
+        width: 760
+        height: 507
+        isCached: true
   - title: "On artificial intelligence, we need real guidance, not fake alarmism"
     excerpt: "Hinton has been called the “Godfather of AI” because he was one of the seminal figures in the 1980s who worked on techniques, such as backpropagation, that have been pivotal in creating today’s large language models and generative AI like ChatGPT."
     publishedDateTime: 2023-05-24T16:50:00Z

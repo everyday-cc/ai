@@ -20,121 +20,50 @@ topics:
   - AI in Marketing
 
 related:
-  - title: "Cohesity partners with Google Cloud to empower organizations with generative AI and data capabilities"
-    excerpt: "Cohesity will utilize Google’s recent advancements in AI technology to enhance its AI-ready data security and management platform."
-    publishedDateTime: 2023-05-23T17:38:00Z
-    webUrl: "https://venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/"
-    ampWebUrl: "https://venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/amp/"
+  - title: "Artificial intelligence and mankind"
+    excerpt: "By NICK DAZANG ON August 2, 1939, Albert Einstein, the equivalent of a scientific genius, endorsed a letter drafted for him by a fellow physicist and inventor, Leo Spitz Szilard. The letter was sent to the United States President,"
+    publishedDateTime: 2023-05-22T05:30:00Z
+    webUrl: "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/"
+    ampWebUrl: "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/amp/"
+    cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1401124210-Thinkhubstudio-e1669658425465.jpg?w=1200&strip=all"
+      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2018/05/tech-per.jpg"
+        width: 412
+        height: 250
+        isCached: true
+  - title: "The marriage of embedded finance and AI"
+    excerpt: "Nima Montazeri, CPO of embedded finance solutions platform, Liberis, discusses how embedded finance and AI will revolutionise financial services The hype around artificial intelligence (AI) isn’t going to die down any time soon,"
+    publishedDateTime: 2023-05-21T08:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/the-marriage-of-embedded-finance-and-ai"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 54
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/d0d86a8689971e7a4803707450b2c8c4:e745e31c7b801419fe5a19cb4e5e4e22/nima.jpeg.jpg"
         width: 1200
-        height: 606
+        height: 632
         isCached: true
-  - title: "PaLM2 by Google for generative AI is new tool from creativity and innovation"
-    excerpt: "PaLM2 is a new large language model (LLM) from Google AI. It is trained on a massive dataset of text and code, and can generate text, translate languages, write different kinds of creative content,"
-    publishedDateTime: 2023-05-22T09:39:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
+  - title: "Dubai announces AI plan to slash traffic jams"
+    excerpt: "As such, it ensures that AI models do not make decisions incompatible with the AI principles and ethics set by the Dubai Digital Authority. RTA has trained several Emiratis in leadership, supervisory and technical roles to empower them to analyse data and ..."
+    publishedDateTime: 2023-05-21T09:12:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/transport/dubai-announces-ai-plan-to-slash-traffic-jams"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 56
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2017/01/Untitled-6.jpg"
-        width: 414
-        height: 364
-        isCached: true
-  - title: "IBM doubles down on generative AI and hybrid cloud"
-    excerpt: "Given the hype around generative AI with the public preview of ChatGPT and the central role of Red Hat’s OpenShift as IBM’s platform modernization strategy, the choice of those themes was not surprising."
-    publishedDateTime: 2023-05-23T13:27:00Z
-    webUrl: "https://siliconangle.com/2023/05/23/ibm-doubles-generative-ai-hybrid-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Arabian Business
+      domain: arabianbusiness.com
     quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/watsonx.jpeg"
-        width: 1194
-        height: 875
-        isCached: true
-  - title: "TCS Expands Partnership With Google Cloud, Launches Generative AI"
-    excerpt: "Tata Consultancy Services on Wednesday (22 May) announced an expanded partnership with Google Cloud and the launch of its new offering, TCS Generative AI which leverages Google Cloud’s generative AI services,"
-    publishedDateTime: 2023-05-23T03:23:00Z
-    webUrl: "https://swarajyamag.com/tech/tcs-expands-partnership-with-google-cloud-launches-generative-ai"
-    type: article
-    provider:
-      name: Swarajya
-      domain: swarajyamag.com
-    quality: 39
-    images:
-      - url: "https://gumlet.assettype.com/swarajya%2F2023-02%2Fa38bf3ae-864b-49b1-ad8b-01fddfd3c396%2FScreenshot_2023_02_08_at_12_53_49_PM.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
+      - url: "https://www.arabianbusiness.com/cloud/2023/01/22/New-Dubai-road-2.jpg"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Datadog's New Capabilities Help Azure Organizations Manage Costs, Migrate to the Cloud and Monitor AI Models"
-    excerpt: "Observability is increasingly important in helping organizations meet their cloud goals—at a time when efficiency is paramount. Azure Arc helps organizations manage their on-premises, edge and multicloud environments more efficiently."
-    publishedDateTime: 2023-05-23T21:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-datadogs-new-capabilities-help-azure-organizations-manage-costs-/2023/05/23/9819820.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 35
-    images:
-      - url: "https://mma.prnewswire.com/media/1730117/Datadog_logo.jpg"
-        width: 400
-        height: 210
-        isCached: true
-  - title: "Pega Announces Pega GenAI to Infuse Generative AI Capabilities in Pega Infinity '23"
-    excerpt: "(NASDAQ: PEGA), the low-code platform provider empowering the world's leading enterprises to Build for Change®, today announced Pega GenAI ™ – a set of 20 new generative AI-powered boosters to be integrated across Pega Infinity ™ '23,"
-    publishedDateTime: 2023-05-23T17:55:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/23/9819294.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/2082623/Pega_GenAI.jpg"
-        width: 400
-        height: 290
-        isCached: true
-  - title: "Cohesity Turing aims AI tools at backup and ransomware"
-    excerpt: "Backup supplier continues to enrich its ecosystem with more artificial intelligence (AI) for backup and ransomware, with chat-like reporting functions and new security partners in its alliance."
-    publishedDateTime: 2023-05-23T09:00:00Z
-    webUrl: "https://www.computerweekly.com/news/366538115/Cohesity-Turing-aims-AI-tools-at-backup-and-ransomware"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 19
-  - title: "TCS Expands Google Cloud Relationship With Vertex Generative AI"
-    excerpt: "Tata Consultancy Services is banking on its deep customer relationships to find ways to bring Google Vertex AI generative AI to them."
-    publishedDateTime: 2023-05-24T17:48:00Z
-    webUrl: "https://www.crn.com/news/cloud/tcs-expands-google-cloud-relationship-with-vertex-generative-ai"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 19
-  - title: "TCS announces generative AI pact with Google Cloud, new offering for enterprises"
-    excerpt: "Tata Consultancy Services TCS on Monday announced an expanded partnership with Google Cloud and the launch of its new offering -- TCS Generative AI which leve"
-    publishedDateTime: 2023-05-22T13:20:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273838959/tcs-announces-generative-ai-pact-with-google-cloud-new-offering-for-enterprises"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 14
 
 secured: "MHx8DE1FEjEcHgFm0+yla5bMg9zGpRElDcYzjwMyt524Ss2IRtE/zQdFPqnvLk3pS88EWu99hTuE2tu7joB7f8dV1WGN1kCcHFLpsevmCvDkZ8VMFUPDeWgwIeoj5OXvRUID+ewFXzgNgEQAe+fIz/fIVf8uefTZGkdUNwcEw34lBskyZqcpyA8HgHqQekq3LDpOlbKs11b+3BCRAyURJewZHQVP35bcetuPrtVRn1K69LQVusHTf2U3t745Xd00oq3l3PnfBDk5NdEJ/KqcU3KtqsYnV18FAl3MLLZ4+eTGiCykOMnyy9fU8IDaQjrTJFQxrQljX8vil+SvxUU4ac0yeqfbQyVyPReSyjHcH+8=;Z6+YJ3hwyowyGR9GARPO8A=="
 ---

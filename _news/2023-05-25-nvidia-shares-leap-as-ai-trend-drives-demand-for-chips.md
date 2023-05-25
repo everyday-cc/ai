@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Nvidia Shares Leap As AI Trend Drives Demand For Chips"
-excerpt: "according to the chip maker. \"The computer industry is going through two simultaneous transitions - accelerated computing and generative AI,\" Nvidia founder and chief Jensen Huang said in an earnings release. \"Our entire data center family of products is ..."
-publishedDateTime: 2023-05-24T22:39:00Z
-originalUrl: "https://www.barrons.com/news/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips-d730c10c"
-webUrl: "https://www.barrons.com/news/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips-d730c10c"
-ampWebUrl: "https://www.barrons.com/amp/news/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips-d730c10c"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips-d730c10c"
+title: "Nvidia shares leap as AI trend drives demand for chips"
+excerpt: "Net income for the fiscal quarter that closed at the end of April was $2.04 billion, up 26 percent from $1.68 billion in the same period a year earlier, Nvidia reported."
+publishedDateTime: 2023-05-25T11:48:00Z
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/devices/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips/100504224"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips/100504224"
+ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/devices/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips/100504224"
+cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips/100504224"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: telecom.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-100504224,imgsize-317504,width-1200,height=765,overlay-ettelecom/devices/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips.jpg"
+    width: 1200
+    height: 765
+    isCached: true
 
 related:
   - title: "AI Is The Future Of Gaming And Nvidia’s New RTX 4060 Optimizes For It"
@@ -70,7 +76,7 @@ related:
   - title: "Nvidia Poised for Record Sales as AI Demand Kicks In"
     excerpt: "The graphics-chip giant forecast a strong revenue bounce back for the current quarter, driven by growing appetite for generative AI technology."
     publishedDateTime: 2023-05-24T22:28:00Z
-    webUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?mod=tech_lead_pos1"
+    webUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?siteid=yhoof2&yptr=yahoo"
     type: article
     provider:
       name: Wall Street Journal
@@ -108,6 +114,36 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/646e7fbe6e8d4a2977a62c39/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Nvidia shares leap after it predicts AI-driven boom in chip demand"
+    excerpt: "US tech firm on course for valuation well over $900bn as quarterly revenue forecast excites investors"
+    publishedDateTime: 2023-05-25T10:36:00Z
+    webUrl: "https://www.theguardian.com/business/2023/may/25/nvidia-shares-leap-ai-boom-chip-us-tech-firm-valuation"
+    ampWebUrl: "https://amp.theguardian.com/business/2023/may/25/nvidia-shares-leap-ai-boom-chip-us-tech-firm-valuation"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/may/25/nvidia-shares-leap-ai-boom-chip-us-tech-firm-valuation"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 74
+    images:
+      - url: "https://i.guim.co.uk/img/media/e5a60f6b9f1f17a92ec182087efb8a899d89a855/0_226_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=65fd4ecd7e16016fcff3e1cf311ade01"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "A Cheaper Way to Bet on AI Than Investing in Nvidia"
+    excerpt: "Nvidia shares jumped after it forecast a revenue tailwind from the artificial-intelligence race, but if you don’t want to shell out for the expensive stock, there are other options."
+    publishedDateTime: 2023-05-25T08:03:00Z
+    webUrl: "https://www.wsj.com/articles/a-cheaper-way-to-bet-on-ai-than-investing-in-nvidia-6a061c79?siteid=yhoof2&yptr=yahoo"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-788555/social"
+        width: 1279
+        height: 640
         isCached: true
   - title: "Nvidia’s stock soars 24% on strong sales forecast amid surging demand for AI chips"
     excerpt: "Wall Street’s projections out of the water, sending its stock up an incredible 24% in extended trading. The company reported net income for the quarter of $2.04 billion, up from the $1.62 billion profit it recorded one year earlier."
@@ -221,6 +257,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "yIuAdeOMqGiXpdZ/DfWzS18hhFjbF5N9pU+RkoE1LJU3t0K87xr+1MLSsuuP5ZfyEAz2lbHY1WHBE8fc88acbMyzdRyRGqPjczYWyS0kzHp25cmvad1ZHQYwkeFG6vCeosjk9MMlFGXr6DGUywxMaEzmnZWYHSUHkdXJFpUlfrfkFvWxGmOw8fiTjnRphX7vHD4pARNQxEYhDrEBNy1AmsJZOVxPeaH00R+6MW86uusUM1+gpMNaa3Qt6iL5MdPpAy/7gsMGFcvJOHC8lhq4RlBr1zVgQ2FoHNCyhYDIrpi+vf0D0jQjAL8DNlj0ayIei1bxSoIWv25SZq9BDb164kVdT5GVZBYhA8L8xkr0KSs=;Vc9r5fWjiUzxrG+l+DAgtg=="
+secured: "1YKaXCkUUwabGnZ9PfDhz//1TGIpte04/0b0aLCzPbRiNo3mOaGqASs9EV0x1age+NMoJCUUia/PH1i5+i/lxJmeFDPKD/afTgRaRNbltUyBVb/2IB7hx+DdrfqZJ3SQAUuEeOwX4UkiEjcsTYuIMRb6R9QKGp/K/y4MiRhfh39esNayJ5lGjhEAsIEgY4PeZoy3xOhS4beMvo/HynV6FXkFIHQwZRl0HPU3Sp37NGQg1od4DBIWZL35Rhmht3KtAsXn9bBla66IH2C1Mm5s3Rlbg6YngR8Y9OFVpNSRCpIXlfWyNFYk/yCDQ8os3VFXmjEcQnDOfjgKkhf0OftCUmmpFCKyK9CY89v1YMMlmZM=;eenx1FOPnPpUyEBJxtWrRg=="
 ---
 

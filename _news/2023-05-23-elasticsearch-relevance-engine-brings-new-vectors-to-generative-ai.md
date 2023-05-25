@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Google Search ads will soon automatically adapt to queries using generative AI"
-    excerpt: "Google is going to start using generative AI to boost Search ads relevance based on the context of a query, the company announced today."
-    publishedDateTime: 2023-05-23T18:43:00Z
-    webUrl: "https://techcrunch.com/2023/05/23/google-search-ads-automatically-adapt-queries-using-generative-ai/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 43
   - title: "Elastic to power generative AI models with Elasticsearch Relevance Engine"
     excerpt: "“Generative AI is a revolutionary moment in technology and the companies ... They include Relativity ODA LLC, a provider of legal technology, which is using ESRE and Microsoft Corp.’s Azure OpenAI Service to improve the relevance of results within ..."
     publishedDateTime: 2023-05-23T13:00:00Z

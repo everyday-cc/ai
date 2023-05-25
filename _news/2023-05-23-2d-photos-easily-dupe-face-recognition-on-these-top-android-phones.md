@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-22T18:08:00Z
 originalUrl: "https://hothardware.com/news/2d-photos-easily-dupe-face-recognition-on-these-top-android-phones"
 webUrl: "https://hothardware.com/news/2d-photos-easily-dupe-face-recognition-on-these-top-android-phones"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "uuPl8A6or2oo5K1pzBAuBBe29VBDOG2kXhDmGElciFOwOkpn5ExPxGWhyxTAZVLeaQYfYDgryd65gLbMuxzE/njhZ0CkZIbyqfXl2xrgJFObthyGPWqVvFWsDJGvZldacFLtXeQTOSO0GtAJtHzktnnbapdF6G0v8pN6HYEDiCUGEfaD1WjRxyil4LfoYBfoodJWVtdY1B6O6dS0lxK6MqyiYXgxA8wMvznBdcOpuA7pv/5nTkO+hyevRcLwY8K/pIMx3N3xwTwg077CBmNPlgx+HPpYujj0NHaBCRTBFjADdA36bhR4+neeUjzmZqUus7Kn3Mx19CtX3YfDayV0V6F40WImxM/O3FhVof/wGm0=;R1Y3gNV8VzMWpj+SSztlgw=="
+images:
+  - url: "https://images.hothardware.com/contentimages/newsitem/61675/content/samsung-face-unlock-hero.jpg"
+    width: 708
+    height: 400
+    isCached: true
+
+secured: "sdcbP1hHLr8BpQXT+iWYwQLghSZBymgqTH7F81fCqDoGSF/HsMxDsU+4ctQ1ts83HiN474QbS/+KjLxgnzfVhq3J+NQrziY4qCSe1u1qa8vaV5KfDy3fNynFKB425JuWCoedbLq8ZlHCyC5EGkNLmc4GipG8CdbL7kGn5H4nGDYv2ru06pm//WbAw/TxXNP3TuHvVpheZ+JGdxHppNfZ156mQH0zBMXZlZlgieVBWgHHoL4Q3bc3U8czLpSecWDFTgUc4inIGdznmIf2I+aSw2fWjB7bzgbF9581TIZpj3WBEMXrmUtzctsHGNcLKFbqGdi/UzC9hPG8tdf8UQE6ZLfH2bETKUv4kUp9H2vRlNE=;6WgMBHW1JbXRJqFl2txkYg=="
 ---
 

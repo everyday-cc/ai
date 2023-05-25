@@ -7,7 +7,7 @@ originalUrl: "https://www.orlandosentinel.com/2023/05/24/on-artificial-intellige
 webUrl: "https://www.orlandosentinel.com/2023/05/24/on-artificial-intelligence-we-need-real-guidance-not-fake-alarmism-commentary/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "How much should AI concern us? We need real guidance, not vague alarmism"
+    excerpt: "Geoffrey Hinton, the visionary expert who was at the heart of so much innovation in artificial intelligence and machine learning, left Google. In an interview with CNN, he said, “I’m just a scientist who suddenly realized that these things are getting smarter than us."
+    publishedDateTime: 2023-05-25T10:05:00Z
+    webUrl: "https://www.westhawaiitoday.com/2023/05/25/opinion/how-much-should-ai-concern-us-we-need-real-guidance-not-vague-alarmism/"
+    ampWebUrl: "https://www.westhawaiitoday.com/2023/05/25/opinion/how-much-should-ai-concern-us-we-need-real-guidance-not-vague-alarmism/amp/"
+    cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2023/05/25/opinion/how-much-should-ai-concern-us-we-need-real-guidance-not-vague-alarmism/amp/"
+    type: article
+    provider:
+      name: West Hawaii Today
+      domain: westhawaiitoday.com
+    quality: 58
+    images:
+      - url: "https://www.westhawaiitoday.com/wp-content/uploads/2023/05/web1_OPED-AI-CONCERNS-COMMENTARY-GET.jpg"
+        width: 760
+        height: 507
+        isCached: true
   - title: "Mohammad Hosseini: How much should AI concern us? We need real guidance, not vague alarmism."
     excerpt: "If the \"Godfather of AI\" really wants to blow the whistle, he should tell us what is happening behind Google’s doors."
     publishedDateTime: 2023-05-22T10:01:00Z

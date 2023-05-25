@@ -75,7 +75,7 @@ related:
   - title: "Nvidia Poised for Record Sales as AI Demand Kicks In"
     excerpt: "The graphics-chip giant forecast a strong revenue bounce back for the current quarter, driven by growing appetite for generative AI technology."
     publishedDateTime: 2023-05-24T22:28:00Z
-    webUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?mod=tech_lead_pos1"
+    webUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?siteid=yhoof2&yptr=yahoo"
     type: article
     provider:
       name: Wall Street Journal
@@ -114,6 +114,52 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nvidia shares leap after it predicts AI-driven boom in chip demand"
+    excerpt: "US tech firm on course for valuation well over $900bn as quarterly revenue forecast excites investors"
+    publishedDateTime: 2023-05-25T10:36:00Z
+    webUrl: "https://www.theguardian.com/business/2023/may/25/nvidia-shares-leap-ai-boom-chip-us-tech-firm-valuation"
+    ampWebUrl: "https://amp.theguardian.com/business/2023/may/25/nvidia-shares-leap-ai-boom-chip-us-tech-firm-valuation"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/may/25/nvidia-shares-leap-ai-boom-chip-us-tech-firm-valuation"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 74
+    images:
+      - url: "https://i.guim.co.uk/img/media/e5a60f6b9f1f17a92ec182087efb8a899d89a855/0_226_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=65fd4ecd7e16016fcff3e1cf311ade01"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Nvidia shares leap as AI trend drives demand for chips"
+    excerpt: "Net income for the fiscal quarter that closed at the end of April was $2.04 billion, up 26 percent from $1.68 billion in the same period a year earlier, Nvidia reported."
+    publishedDateTime: 2023-05-25T11:48:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips/100504224"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/devices/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips/100504224"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips/100504224"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-100504224,imgsize-317504,width-1200,height=765,overlay-ettelecom/devices/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "A Cheaper Way to Bet on AI Than Investing in Nvidia"
+    excerpt: "Nvidia shares jumped after it forecast a revenue tailwind from the artificial-intelligence race, but if you don’t want to shell out for the expensive stock, there are other options."
+    publishedDateTime: 2023-05-25T08:03:00Z
+    webUrl: "https://www.wsj.com/articles/a-cheaper-way-to-bet-on-ai-than-investing-in-nvidia-6a061c79?siteid=yhoof2&yptr=yahoo"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-788555/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "Nvidia’s stock soars 24% on strong sales forecast amid surging demand for AI chips"
     excerpt: "Wall Street’s projections out of the water, sending its stock up an incredible 24% in extended trading. The company reported net income for the quarter of $2.04 billion, up from the $1.62 billion profit it recorded one year earlier."
     publishedDateTime: 2023-05-25T00:11:00Z
@@ -128,17 +174,6 @@ related:
         width: 2940
         height: 1912
         isCached: true
-  - title: "Nvidia Shares Leap As AI Trend Drives Demand For Chips"
-    excerpt: "according to the chip maker. \"The computer industry is going through two simultaneous transitions - accelerated computing and generative AI,\" Nvidia founder and chief Jensen Huang said in an earnings release. \"Our entire data center family of products is ..."
-    publishedDateTime: 2023-05-24T22:39:00Z
-    webUrl: "https://www.barrons.com/news/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips-d730c10c"
-    ampWebUrl: "https://www.barrons.com/amp/news/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips-d730c10c"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips-d730c10c"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 54
   - title: "Nvidia Shares Soar 28% As Demand Surges For AI Chips"
     excerpt: "Nvidia shares rocketed in after hours trading after the chipmaker forecast current-quarter revenue more than 50 per cent above analyst expectations, saying it has boosted supply to meet surging demand for its AI chips."
     publishedDateTime: 2023-05-24T23:47:00Z

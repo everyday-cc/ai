@@ -414,6 +414,20 @@ related:
         width: 628
         height: 246
         isCached: true
+  - title: "Microsoft paused raises and cut bonuses to 'invest in the AI wave,' exec tells employees in internal message"
+    excerpt: "In response to employee criticism about recent pay changes, the exec said one reason is \"wanting to invest in the AI wave,\" internal messages show."
+    publishedDateTime: 2023-05-24T18:04:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-exec-explains-pay-changes-cut-bonuses-ai-wave-investment-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://i.insider.com/646e4e056f9a480018736ddd?width=1200&format=jpeg"
+        width: 682
+        height: 341
+        isCached: true
   - title: "How Microsoft is building a platform for custom AI development"
     excerpt: "With Azure OpenAI at the center, Microsoft has introduced a spectrum of new tools for building custom GPT-based LLMs. Here’s how Cosmos DB’s new vector search capabilities fit in."
     publishedDateTime: 2023-05-23T19:37:00Z
@@ -698,6 +712,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft Build - the past, present and future of ChatGPT on show as Microsoft's 'Mosaic moment' takes center stage"
+    excerpt: "That was thecandid confession from the Microsoft CEO about ChatGPT during his keynote address to the firm’s Build developer conference, an event that should leave no-one in any doubt that this is now an AI company."
+    publishedDateTime: 2023-05-25T11:09:00Z
+    webUrl: "https://diginomica.com/microsoft-build-past-present-and-future-chatgpt-show-microsofts-mosaic-moment-takes-center-stage"
+    ampWebUrl: "https://diginomica.com/microsoft-build-past-present-and-future-chatgpt-show-microsofts-mosaic-moment-takes-center-stage?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/microsoft-build-past-present-and-future-chatgpt-show-microsofts-mosaic-moment-takes-center-stage?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 52
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-05/Screenshot%202023-05-25%20at%2012.07.35.png"
+        width: 624
+        height: 342
+        isCached: true
   - title: "NVIDIA Partners with Microsoft to Supercharge Enterprise-Ready Generative AI"
     excerpt: "NVIDIA announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives, enabling Azure customers worldwide to quickly build, deploy, and manage customized ..."
     publishedDateTime: 2023-05-24T16:33:00Z
@@ -966,6 +996,6 @@ related:
       domain: finanznachrichten.de
     quality: 15
 
-secured: "bkoUtP3KGnUkrjkY2xoVv4pudwnTc4cjL9oMH1jHDLk9BqNRZBXVjLrZS09VZq/WsfQlSo9rlDzpUMXId/CkYRzuIY/q/IWl5mSsqstskLncKRBRXWnF90tLBmVEymb1ADfevy2lVZ2fyBdI4u5oqOyrjkCSBJBNUXQSSwSilXlmyJVMkKpFr/ByX9B3e4RGEChBDmp6JO9OKNAhEgpHslZMIjcZ7TLhzlaFYqNvv2iXuv5a1rb6kC268EFcJqlj4nUSD31taZb9SVwyDv7f69PKvIXI+IyOe0UuF/LH5dec5G/Oy3G9ulAxiMDmFvMfaruYZQQXbgABVIKzESHdlLvppVxaXXHEjb4m6cV29vg=;lMLjfuPKMq3EHhE/xEK94Q=="
+secured: "Np3H7jVMRReNeVXGZjsdD2US1V64mKauqZbCr5dDDVo9vzyi0Ay4ceOzHB26LvN8Q63w3fgKI2Cxwno8YqnvEofCJ5eREYru7FypMKGmGXe6Ol7qjGww4xk77ZGykmQj2M3r8JNL92Rv2HiLplXm3xEfzg3TI8KZ1BDBL52IohSNkI641V/4FyD4fFd+RYYOlOBM4Pn1M/FHl97VqtrDKlUSqf1U5EPvOg4aBDZpLkwMmnzytHbZm0ZLrWEqMF/1OcwW86A21hvyFPU9OQLOahFrtbFGPhJqR4DPkBPMuauw+ONSzuPIPZFYgQngMc2ZBDRpUcrS6N4WHo5cdrYA8sn6aQZDg2yTHpx+Iksqv+bx6IBSJ6rTOy8KljaRyfiNh7rE4IySUiRR9sDtyzoY7+Z/xoRMFv0g7cnqIBKh8EnsCB8ysC5XyQQ1ZL7KSOlVW00fnrfhkrs+3/HSsPoDWDHLxjF//esYYrVYnOpamaie3O6zcvAZbs6RDjdzJbsKeJ/y0LU6T2WgceO1S9UbFQ==;O90YGKSGpVWahTPAtAjvKw=="
 ---
 

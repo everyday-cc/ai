@@ -19,6 +19,8 @@ topics:
   - AI in Autos
   - AI
   - AI in Healthcare
+  - AWS AI
+  - Microsoft AI
 
 images:
   - url: "https://m.foolcdn.com/media/dubs/images/Robot-AI-image-Getty-Images.width-600.jpg"

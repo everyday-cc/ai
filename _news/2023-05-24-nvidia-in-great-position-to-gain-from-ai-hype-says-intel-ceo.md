@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AI policies across the world: Key lessons for India"
+    excerpt: "Several countries have adopted different policies to regulate the development and use of Artificial intelligence (AI). India can incorporate key lessons from them in its \"AI for all\" framework"
+    publishedDateTime: 2023-05-25T11:03:00Z
+    webUrl: "https://www.forbesindia.com/article/isbinsight/ai-policies-across-the-world-key-lessons-for-india/85163/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/isbinsight/ai-policies-across-the-world-key-lessons-for-india/85163/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/ai-policies-across-the-world-key-lessons-for-india/85163/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 59
+    images:
+      - url: "https://www.forbesindia.com/media/images/2023/May/img_208481_artificialintelligence.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Generative AI-powered music startup boombox.io raises $7m"
     excerpt: "AI-powered music collaboration platform boombox.io has closed a seed funding round, securing $7 million in investments from Forerunner, super {set} startup studio and Ulu Ventures. According to Boombox,"
     publishedDateTime: 2023-05-24T09:32:00Z

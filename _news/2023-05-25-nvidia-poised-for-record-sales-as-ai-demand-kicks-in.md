@@ -3,8 +3,8 @@ category: news
 title: "Nvidia Poised for Record Sales as AI Demand Kicks In"
 excerpt: "The graphics-chip giant forecast a strong revenue bounce back for the current quarter, driven by growing appetite for generative AI technology."
 publishedDateTime: 2023-05-24T22:28:00Z
-originalUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?mod=tech_lead_pos1"
-webUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?mod=tech_lead_pos1"
+originalUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?siteid=yhoof2&yptr=yahoo"
+webUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?siteid=yhoof2&yptr=yahoo"
 type: article
 quality: 84
 heat: -1
@@ -103,6 +103,52 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nvidia shares leap after it predicts AI-driven boom in chip demand"
+    excerpt: "US tech firm on course for valuation well over $900bn as quarterly revenue forecast excites investors"
+    publishedDateTime: 2023-05-25T10:36:00Z
+    webUrl: "https://www.theguardian.com/business/2023/may/25/nvidia-shares-leap-ai-boom-chip-us-tech-firm-valuation"
+    ampWebUrl: "https://amp.theguardian.com/business/2023/may/25/nvidia-shares-leap-ai-boom-chip-us-tech-firm-valuation"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/may/25/nvidia-shares-leap-ai-boom-chip-us-tech-firm-valuation"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 74
+    images:
+      - url: "https://i.guim.co.uk/img/media/e5a60f6b9f1f17a92ec182087efb8a899d89a855/0_226_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=65fd4ecd7e16016fcff3e1cf311ade01"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Nvidia shares leap as AI trend drives demand for chips"
+    excerpt: "Net income for the fiscal quarter that closed at the end of April was $2.04 billion, up 26 percent from $1.68 billion in the same period a year earlier, Nvidia reported."
+    publishedDateTime: 2023-05-25T11:48:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips/100504224"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/devices/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips/100504224"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips/100504224"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-100504224,imgsize-317504,width-1200,height=765,overlay-ettelecom/devices/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "A Cheaper Way to Bet on AI Than Investing in Nvidia"
+    excerpt: "Nvidia shares jumped after it forecast a revenue tailwind from the artificial-intelligence race, but if you don’t want to shell out for the expensive stock, there are other options."
+    publishedDateTime: 2023-05-25T08:03:00Z
+    webUrl: "https://www.wsj.com/articles/a-cheaper-way-to-bet-on-ai-than-investing-in-nvidia-6a061c79?siteid=yhoof2&yptr=yahoo"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-788555/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "Nvidia’s stock soars 24% on strong sales forecast amid surging demand for AI chips"
     excerpt: "Wall Street’s projections out of the water, sending its stock up an incredible 24% in extended trading. The company reported net income for the quarter of $2.04 billion, up from the $1.62 billion profit it recorded one year earlier."
     publishedDateTime: 2023-05-25T00:11:00Z
@@ -131,17 +177,6 @@ related:
         width: 648
         height: 432
         isCached: true
-  - title: "Nvidia Shares Leap As AI Trend Drives Demand For Chips"
-    excerpt: "according to the chip maker. \"The computer industry is going through two simultaneous transitions - accelerated computing and generative AI,\" Nvidia founder and chief Jensen Huang said in an earnings release. \"Our entire data center family of products is ..."
-    publishedDateTime: 2023-05-24T22:39:00Z
-    webUrl: "https://www.barrons.com/news/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips-d730c10c"
-    ampWebUrl: "https://www.barrons.com/amp/news/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips-d730c10c"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips-d730c10c"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 54
   - title: "Nvidia Shares Soar 28% As Demand Surges For AI Chips"
     excerpt: "Nvidia shares rocketed in after hours trading after the chipmaker forecast current-quarter revenue more than 50 per cent above analyst expectations, saying it has boosted supply to meet surging demand for its AI chips."
     publishedDateTime: 2023-05-24T23:47:00Z
@@ -226,6 +261,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "lUPo4RgnE9BKCNEPiZPdmhcQWtoS3NDvbt8S3PUXU2R8KQgDeJq4UEVTixQA8V1GgoUyHJdG4brEyK5n+BxKLat3+iFya1BGbTRlHskLLtvMFSojkyU7QnDe31a0+iI39IeYv7uqTqcPj092ZllyrSVZZ1P+Lz7V6SQv7p/YgZHJqRF1Al8qEkLK1ZzbvkS/5Ze7EowXVNOKtHFREfG14uhp4Rd61TPPu1OemF+tKrbHXhJpt5zTLrhsQPlbzQ++v4jtxWaXHdfpwmWs9yRcPy/lFbbpnKD/8CFnrJ7NdVorw2OdCH1f1IogXvriVW+0C0dAM9YSJRWLKWmKA4MPRiFCZczH91XrdUzbQOCQTuU=;WudiKouD/mVxNmL8rLUTbQ=="
+secured: "KnOST2hQXD6I+RcNLOD88QllD0Obo5qIvALFTO9uL7E4FXQbWC7T1BWYlqGhuubhj/6uM9ubg6fJ+47uSyj+/Ge0fqKUCiw4sx4HF4m4AsdNoj3+bhjy5YQ0SL+g6wUt1eG32QNZ9vmHQ8FZq0fYTV+OBQSzNULgulL4BeH8XCBCsMD0/0pf7E0f9GP4IcWio0myUlggy2uby9SadvxuqVvERcjoMH6nkVLND5jdeLkU65FD19hpK7IhC6lwnNQQwUHEDpMB9qLjcmPMLht8SJsxUR9nUfyI2J+MEyjpyb614TdM1V3QHpAyl9fLGEmYZEVqTZZALm10ktx9FBCXqw40O9YOlm1BJKzY31wVKc0=;5G7Ot+AbtUFwfNNqz3RXfQ=="
 ---
 

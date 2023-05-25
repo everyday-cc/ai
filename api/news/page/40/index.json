@@ -2,6 +2,262 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2023-05-01-how-generative-ai-can-affect-your-business-data-privacy.md",
+      "title": "How Generative AI Can Affect Your Business’ Data Privacy",
+      "excerpt": "If a business enters any client, customer or partner information into a chatbot, that AI may use that information in ways that businesses can’t reliably predict.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61f2bb5a705a07e1687440a6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/01/how-generative-ai-can-affect-your-business-data-privacy/amp/",
+      "publishedDateTime": "2023-05-01T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-who-do-you-trust-with-ai.md",
+      "title": "Who Do You Trust With AI?",
+      "excerpt": "One question for Andy Kessler.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-artificial-intelligence-kill-switch-adc98d5c",
+      "originalUrl": "https://www.wsj.com/articles/ai-artificial-intelligence-kill-switch-adc98d5c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-773022/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-analytixinsight-reports-2022-financial-results-provides-corporate-update-and-reports-marketwall-q1-2023-record-financial-results.md",
+      "title": "AnalytixInsight Reports 2022 Financial Results, Provides Corporate Update and Reports MarketWall Q1 2023 Record Financial Results",
+      "excerpt": "InvestoPro momentum is now building and MarketWall has posted record breaking financial results for the first quarter of 2023 on the back of the new recurring revenue license agreement with our bank partner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/05/01/9804689.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/05/01/9804689.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-how-to-optimize-google-cloud-platform-cloud-costs-with-ibm-turbonomic.md",
+      "title": "How to optimize Google Cloud Platform cloud costs with IBM Turbonomic",
+      "excerpt": "A close look at how IBM Turbonomic helps customers optimize their GCP cloud costs.\nThe post How to optimize Google Cloud Platform cloud costs with IBM Turbonomic appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-optimize-google-cloud-platform-cloud-costs-with-ibm-turbonomic/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-optimize-google-cloud-platform-cloud-costs-with-ibm-turbonomic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T06:49:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-mosaic-data-science-has-been-named-the-top-ai-machine-learning-services-company-of-2023-by-cio-review.md",
+      "title": "Mosaic Data Science has been named the Top AI & Machine Learning Services Company of 2023 By CIO Review",
+      "excerpt": "Mosaic is thrilled to be recognized as a leader in the Artificial Intelligence & Machine Learning space ... such as professional and financial services, retail, manufacturing, CPG, and oil ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kentucky.com/press-releases/article274911516.html",
+      "originalUrl": "https://www.kentucky.com/press-releases/article274911516.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lexington Herald Leader",
+        "domain": "kentucky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-ai-lessons-from-healthcare-overcoming-complexity-and-embracing-the-cloud.md",
+      "title": "AI lessons from healthcare: Overcoming complexity and embracing the cloud",
+      "excerpt": "The healthcare industry has pioneered some of the most effective, innovative approaches for moving AI into production.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-lessons-from-healthcare-overcoming-complexity-and-embracing-the-cloud/",
+      "originalUrl": "https://venturebeat.com/ai/ai-lessons-from-healthcare-overcoming-complexity-and-embracing-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-emotiv-enlists-two-machine-learning-heavyweights-as-ai-takes-aim-at-the-human-brain.md",
       "title": "EMOTIV Enlists Two Machine Learning Heavyweights as AI Takes Aim at the Human Brain",
       "excerpt": "Dr. Flake has been appointed CTO for EMOTIV after helming R&D teams for large technology companies across two decades. Author of the seminal book, The Computational Beauty of Nature, he earned renown as a scientist in academic and research circles before applying his knowledge within the commercial sector.",
@@ -920,271 +1176,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-yann-le-cun-director-at-meta-the-very-idea-of-wanting-to-slow-down-ai-research-is-akin-to-a-new-form-of-obscurantism.md",
-      "title": "Yann Le Cun, director at Meta: 'The very idea of wanting to slow down AI research is akin to a new form of obscurantism'",
-      "excerpt": "There, he created the FAIR (Facebook Artificial Intelligence Research) research lab. The author of Quand la machine apprend (\"When the Machine Learns\") was awarded the 2018 Turing Award ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.lemonde.fr/en/opinion/article/2023/04/28/yann-le-cun-director-at-meta-the-very-idea-of-wanting-to-slow-down-ai-research-is-akin-to-a-new-form-of-obscurantism_6024729_23.html",
-      "originalUrl": "https://www.lemonde.fr/en/opinion/article/2023/04/28/yann-le-cun-director-at-meta-the-very-idea-of-wanting-to-slow-down-ai-research-is-akin-to-a-new-form-of-obscurantism_6024729_23.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-30T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Monde.fr",
-        "domain": "lemonde.fr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-ai-generated-music-growing-exponentially-sparking-debate.md",
-      "title": "AI-generated music growing exponentially, sparking debate",
-      "excerpt": "An anonymous creator used artificial intelligence to create a song with Drake and The Weeknd’s voices, fueling AI’s first real viral hit, “Heart on my Sleeve.” NBC News’ Steve Patterson gets a closer look at how AI music is created.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/ai-generated-music-growing-exponentially-sparking-debate-171959877938",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/ai-generated-music-growing-exponentially-sparking-debate-171959877938",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_04/1682898379260_nn_spa_musics_new_ai_frontier_230430_1920x1080-9iile5.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo171959877938",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo171959877938",
-      "publishedDateTime": "2023-04-30T16:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution.md",
-      "title": "We must perfect predictive models for generative AI to deliver on the AI revolution",
-      "excerpt": "To accelerate the AI revolution, we shouldn’t abandon “old school AI” for flashier generative AI. Why we should perfect predictive AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/",
-      "originalUrl": "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1347040940.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/amp/",
-      "publishedDateTime": "2023-04-30T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt.md",
-      "title": "Board Directors And C-Suite Executives Need An AI Digital Literacy Jolt",
-      "excerpt": "This article summarizes a series of articles on ChatGPT to help advance board directors and c-level leaders understanding of AI in particular, generative AI like OpenAI's ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644ed0207cdeacee53ba8cab/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/04/30/board-directors-and-c-suite-executives-need-an-ai-digital-literacy-jolt/amp/",
-      "publishedDateTime": "2023-04-30T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-machine-learning-and-data-sciences-for-financial-markets.md",
-      "title": "Machine Learning and Data Sciences for Financial Markets",
-      "excerpt": "Leveraging the research efforts of more than sixty experts in the area, this book reviews cutting-edge practices in machine learning for financial markets. Instead of seeing machine learning as a new field, the authors explore the connection between ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/books/machine-learning-and-data-sciences-for-financial-markets/8BB31611662A96D0AB93A8A26E2D0D0A",
-      "originalUrl": "https://www.cambridge.org/core/books/machine-learning-and-data-sciences-for-financial-markets/8BB31611662A96D0AB93A8A26E2D0D0A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.cambridge.org/97813165/16195/large_cover/9781316516195i.jpg",
-          "width": 451,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-30T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-30-two-healthy-babies-conceived-by-a-sperm-injecting-robot-that-is-controlled-by-a-playstation-5-controller-are-born-in-spain.md",
-      "title": "Two healthy babies conceived by a sperm-injecting robot that is controlled by a PlayStation 5 controller are born in Spain",
-      "excerpt": "Two babies have been born after a robot guided by a Playstation 5 controller fertilised human eggs. The procedure, completed in Barcelona, involved student engineer Eduard Alba manoeuvring a tiny ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-12030899/Two-babies-conceived-sperm-injecting-robot-controlled-Playstation-controller-born.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-12030899/Two-babies-conceived-sperm-injecting-robot-controlled-Playstation-controller-born.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2023/04/30/15/70405427-0-image-a-20_1682865620945.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-12030899/amp/Two-babies-conceived-sperm-injecting-robot-controlled-Playstation-controller-born.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12030899/amp/Two-babies-conceived-sperm-injecting-robot-controlled-Playstation-controller-born.html",
-      "publishedDateTime": "2023-04-30T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

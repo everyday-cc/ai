@@ -54,6 +54,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AI policies across the world: Key lessons for India"
+    excerpt: "Several countries have adopted different policies to regulate the development and use of Artificial intelligence (AI). India can incorporate key lessons from them in its \"AI for all\" framework"
+    publishedDateTime: 2023-05-25T11:03:00Z
+    webUrl: "https://www.forbesindia.com/article/isbinsight/ai-policies-across-the-world-key-lessons-for-india/85163/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/isbinsight/ai-policies-across-the-world-key-lessons-for-india/85163/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/ai-policies-across-the-world-key-lessons-for-india/85163/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 59
+    images:
+      - url: "https://www.forbesindia.com/media/images/2023/May/img_208481_artificialintelligence.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Nvidia in great position to gain from AI hype, says Intel CEO"
     excerpt: "Nvidia, which has long been keen on boosting GPU's computing power, is now being presented with an excellent opportunity from the AI wave, according to Intel CEO Pat Gelsinger."
     publishedDateTime: 2023-05-24T02:04:00Z

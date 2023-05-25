@@ -3,8 +3,8 @@ category: news
 title: "Tech Giants Trigger Generative AI Investment Boom"
 excerpt: "From Microsoft to Amazon, Google to Meta, everyone’s in on the artificial intelligence hype, and the money’s following suit."
 publishedDateTime: 2023-05-24T13:59:00Z
-originalUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n=#!"
-webUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n=#!"
+originalUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n="
+webUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n="
 type: article
 quality: 19
 heat: -1
@@ -73,6 +73,6 @@ related:
         height: 576
         isCached: true
 
-secured: "7ksUK9/XP1PKBgyJlFpONlQ/GlruYXmDf7isolrhCB9GXtyaMabN9OpWXfMo/I413WA5069gE1aDmCNSLk/J7HADVZ/q7jk6CEKJ64pCjthmliW0yNRw4ejdnIH7oxT1lp7IzoO0/9Y0QwK91o1CheXfrlTNod7gHq0AcJloUe2kHXTyEw+1yswEv8dfRHsqvlOTrHWLkJSZOwqcRQkt/oyQSK8ZWsgCaszIXhJAKrPKK1u6OTX8flUM4mkuCXtV2y0VOZM/XRHLY3TY0g6dNV7PYGZaTZECjzqElWYQ+vgEvyaDPk/lNpF49OWjBM4Kg2ZjyV+dfUrDFylg62WZCd/+V++b36G2OrViuP+Kg4PS28pX9aoTDbugPeDBSDwNY3WqFT3NKV8OId83KNuWN8+YHn+5OSRXv3uxcbuJJ+0mfri3CIcqDQJplm9mECKNweO8KCjVlAsKfG3EtMmE6mepR1iP78imyGC4cIHyD8kEiiOG40mC4kgjnr5jB+mjPWDEgrZqFDZ0JiST5lNp3w==;Wo+0VC+ckMEOUZDkmTDhqQ=="
+secured: "/Plap5FMdm1rq7U2phSUsag3WQB2ynbP1qOa+RhOWEzay7NYyANh89orpC2VI7W0ocviRC2HKu/whaZAhrjXoZoo4Wiy0+hy3FswnnPYZcUPA9d0qitmKALWFmkCKUR6LLyLx/unSp0hNRC1dQqIHpkHrEqvuAIpCjCLxTepmOi0JUzwvjJfCHiXWAjJrVPwIfTloCn3f4Yk7F8F9McT+3Qm9yGgYnVskrYfF7u2ZipNNUOhcF3sHJ8nzXZPl0YXWo0A6J4frSj75xcl/FOGQ27Kjb7ntOlcfo7g+tfGDdk/YLSoVW+QRkoOZq6vYH1abXuCMakwTQuPkMa6wi14hqsNfTHnbxnitULuBWnnogHVKxPlH1rtgYN7FaO3f0mQkPUAICX2aST/YT3+hP1gAhjF0RZWkqwRXfsQoXs8CFppmS6aBAfmwY1bpr65c1A2CasV3ZzgQwXREwF5qROYNgiq7RhFWe0+Y36FA5r3K/6+JOpdOJNawl92kYRVkW9oNMdSbUmEX5feJ8UUCvB4Xw==;i7GAFmfKunAVQS3JZVV4VA=="
 ---
 

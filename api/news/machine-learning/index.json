@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-for-an-artificial-sensory-nervous-system-for-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -41,6 +41,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-apple-is-apparently-doubling-down-on-machine-learning-generative-ai-efforts-all-we-know-so-far.md",
+      "title": "Apple is apparently doubling down on machine learning, generative AI efforts: All we know so far",
+      "excerpt": "While Apple did not announce any major AI-related initiative in its recent earnings report, the company however did highlight the importance of AI in its future plans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/life/technology-apple-is-apparently-doubling-down-on-machine-learning-generative-ai-efforts-all-we-know-so-far-3096934/",
+      "originalUrl": "https://www.financialexpress.com/life/technology-apple-is-apparently-doubling-down-on-machine-learning-generative-ai-efforts-all-we-know-so-far-3096934/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/05/apple-resized-2.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/life/technology-apple-is-apparently-doubling-down-on-machine-learning-generative-ai-efforts-all-we-know-so-far-3096934/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-apple-is-apparently-doubling-down-on-machine-learning-generative-ai-efforts-all-we-know-so-far-3096934/lite/",
+      "publishedDateTime": "2023-05-21T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1072,19 +1115,19 @@
     {
       "path": "_news/2023-05-12-automated-machine-learning-automl-market-worth-64-billion-by-2028-exclusive-report-by-marketsandmarkets.md",
       "title": "Automated Machine Learning (AutoML) Market worth $6.4 billion by 2028 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "The market for automated machine learning (AutoML) appears to have a bright future thanks to rising acceptance, technological",
+      "excerpt": "CHICAGO, May 12, 2023 /PRNewswire/ -- The market for automated machine learning (AutoML) appears to have a bright future thanks to rising acceptance, technological breakthroughs, integration with ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/automated-machine-learning-automl-market-worth-6-4-billion-by-2028---exclusive-report-by-marketsandmarkets-301823093.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/automated-machine-learning-automl-market-worth-6-4-billion-by-2028---exclusive-report-by-marketsandmarkets-301823093.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/n32367832/automated-machine-learning-automl-market-worth-6-4-billion-by-2028-exclusive-report-by-marketsandm",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/n32367832/automated-machine-learning-automl-market-worth-6-4-billion-by-2028-exclusive-report-by-marketsandm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
-          "width": 666,
-          "height": 350,
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1092,13 +1135,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32367832",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32367832",
       "publishedDateTime": "2023-05-12T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1355,59 +1398,6 @@
         "Machine Learning",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-big-data-machine-learning-in-telecom-market-report-forecast-2023-2031.md",
-      "title": "Big Data & Machine Learning in Telecom Market Report (Forecast 2023-2031)",
-      "excerpt": "As per the \"Big Data and Machine Learning in Telecom Market\" report, the technology sector is evolving, and companies",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/big-data-machine-learning-in-telecom-market-report-forecast-2023-2031-2023-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/big-data-machine-learning-in-telecom-market-report-forecast-2023-2031-2023-05-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T19:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

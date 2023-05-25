@@ -2,6 +2,282 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-22-artificial-intelligence-and-mankind.md",
+      "title": "Artificial intelligence and mankind",
+      "excerpt": "By NICK DAZANG ON August 2, 1939, Albert Einstein, the equivalent of a scientific genius, endorsed a letter drafted for him by a fellow physicist and inventor, Leo Spitz Szilard. The letter was sent to the United States President,",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/",
+      "originalUrl": "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vanguardngr.com/wp-content/uploads/2018/05/tech-per.jpg",
+          "width": 412,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/amp/",
+      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/amp/",
+      "publishedDateTime": "2023-05-21T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanguard",
+        "domain": "vanguardngr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-google-may-pray-for-ai-to-save-tensor-g3-chips-reputation-in-pixel-8-phones.md",
+      "title": "Google may pray for AI to save Tensor G3 chip’s reputation in Pixel 8 phones",
+      "excerpt": "After the dust has settled from Google I/O 2023 and all the interesting hardware launched at the event, Google doesn't want to miss a beat and is working towards its next big hardware product launch – its flagship smartphone, the Pixel 8 and Pixel 8 Pro.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digit.in/news/mobile-phones/google-ai-to-save-tensor-g3-chip-reputation-pixel-8-phones-68075.html",
+      "originalUrl": "https://www.digit.in/news/mobile-phones/google-ai-to-save-tensor-g3-chip-reputation-pixel-8-phones-68075.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.digit.in/default/tr:w-1200/tensor-g3-1280-e5866089b7.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digit.in/article/amp/mobile-phones/68075/google-ai-to-save-tensor-g3-chip-reputation-pixel-8-phones",
+      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/mobile-phones/68075/google-ai-to-save-tensor-g3-chip-reputation-pixel-8-phones",
+      "publishedDateTime": "2023-05-21T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digit",
+        "domain": "digit.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-watch-the-state-of-robotics-and-ai-today.md",
+      "title": "Watch: The State of Robotics and AI Today",
+      "excerpt": "Deborah Surrette, chief commercial officer of GreyOrange, talks about the latest trends in robotics and artificial intelligence, the benefits of the technology, and some misconceptions about AI in the supply chain. Artificial intelligence is very much in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.supplychainbrain.com/articles/37147-watch-the-state-of-robotics-and-ai-today",
+      "originalUrl": "https://www.supplychainbrain.com/articles/37147-watch-the-state-of-robotics-and-ai-today",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.supplychainbrain.com/ext/resources/0-images/deborah_surrette.jpg?height=635&t=1684728573&width=1200",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-21T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supply Chain",
+        "domain": "supplychainbrain.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist.md",
+      "title": "Today's AI boom will amplify social problems if we don't act now, says AI ethicist",
+      "excerpt": "AI systems trained on internet data are in danger of reinforcing negative bias and causing societal harm. Salesforce's Kathy Baxter explains how to fix it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist/",
+      "originalUrl": "https://www.zdnet.com/article/todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1052e43673c58630ef01e4edf1a0eb50a72c1c2c/2023/05/21/8ff5fae9-93d2-4635-81c0-23e5d09956f6/kathy-baxter-salesforce.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/todays-ai-boom-will-amplify-social-problems-if-we-dont-act-now-says-ai-ethicist/",
+      "publishedDateTime": "2023-05-21T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-how-does-ai-add-value-to-sales-intelligence.md",
+      "title": "How Does AI add Value To Sales Intelligence?",
+      "excerpt": "AI improves sales pipeline intelligence by leveraging advanced algorithms and data analysis techniques to extract valuable insights from large volumes of data. Here are several ways AI enhances sales pipeline intelligence:",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/05/21/how-does-ai-add-value-to-sales--intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/05/21/how-does-ai-add-value-to-sales--intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-21T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-05-21-nvidia-stock-increasing-ai-gpu-demand-points-to-strong-earnings.md",
+      "title": "Nvidia Stock: Increasing AI GPU Demand Points to Strong Earnings",
+      "excerpt": "Going by recent conversations with component suppliers in the chip giant’s supply chain, Truist analyst William Stein thinks investors are in for a pleasant surprise. “We have recently learned of an uptick in demand for AI GPUs,” notes the 5-star ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-increasing-ai-gpu-demand-points-to-strong-earnings-1032341254",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-stock-increasing-ai-gpu-demand-points-to-strong-earnings-1032341254",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/05/image-602-1024x518.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 1024,
+          "height": 518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-21T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-21-how-generative-ais-impact-on-digital-advertising-methodology-is-evolving.md",
       "title": "How generative AI’s impact on digital advertising methodology is evolving",
       "excerpt": "Despite issues around brand safety, intellectual property and security, generative AI tools for brands and advertisers are here to stay.",
@@ -977,306 +1253,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead.md",
-      "title": "Will AI Kill Human Creativity? What Fake Drake Tells Us About What’s Ahead",
-      "excerpt": "In this article I’ll consider implications of AI-generated music for what I see as the inevitable creative class wars against AI, and what it means for us all.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brianuzzi/2023/05/19/will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead/",
-      "originalUrl": "https://www.forbes.com/sites/brianuzzi/2023/05/19/will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6467d47a9748b3776441e295/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brianuzzi/2023/05/19/will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2023/05/19/will-ai-kill-human-creativity-what-fake-drake-tells-us-about-whats-ahead/amp/",
-      "publishedDateTime": "2023-05-19T12:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind.md",
-      "title": "UK court tosses class-action style health data misuse claim against Google DeepMind",
-      "excerpt": "Google has prevailed against another U.K. class-action style privacy lawsuit after a London court dismissed a lawsuit filed last year against the tech giant and its AI division, DeepMind ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/",
-      "originalUrl": "https://techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-874872698.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/19/uk-court-tosses-class-action-style-health-data-misuse-claim-against-google-deepmind/amp/",
-      "publishedDateTime": "2023-05-19T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit.md",
-      "title": "High-Stakes: Generative AI Shakes Global Diplomacy At Japan’s 2023 G7 Summit",
-      "excerpt": "The G7 in Japan discussions are focused on the need for regulations to keep up with the rapid advancements in AI. Our goal is to start a global dialogue on the best way to adopt generative AI. It's important to start this conversation now before the AI wave overtakes us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2023/05/19/high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2023/05/19/high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6467ae6159db0ac6342e9948/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2023/05/19/high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2023/05/19/high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit/amp/",
-      "publishedDateTime": "2023-05-19T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-which-artificial-intelligence-stocks-are-institutional-investors-buying.md",
-      "title": "Which Artificial Intelligence Stocks Are Institutional Investors Buying?",
-      "excerpt": "We are currently witnessing ever-increasing use cases and growing acceptance of AI in every walk of life. Here are 7 AI stocks getting institutional attention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/investor-hub/article/which-artificial-intelligence-stocks-are-institutional-investors-buying/",
-      "originalUrl": "https://www.forbes.com/sites/investor-hub/article/which-artificial-intelligence-stocks-are-institutional-investors-buying/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646699007031f328f841e295/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-19T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai.md",
-      "title": "Apple looking to hire machine learning engineers with an interest in generative AI",
-      "excerpt": "Apple's Technology Development Group (TDG) is looking for Machine-Learning engineers with a background and/or interest in Generative AI! You will be leveraging innovative Generative models to build fundamental applications on top of Apple's most advanced ...",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai",
-      "originalUrl": "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/54505-110094-Apple-Siri-xl.jpg",
-          "width": 1312,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/05/19/apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai/amp/",
-      "publishedDateTime": "2023-05-19T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-improved-cpu-throttling-measurement.md",
-      "title": "Improved CPU throttling measurement",
-      "excerpt": "IBM Turbonomic now offers a significant improvement in the way that we measure the level of CPU throttling.\nThe post Improved CPU throttling measurement appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/improved-cpu-throttling-measurement/",
-      "originalUrl": "https://www.ibm.com/blog/improved-cpu-throttling-measurement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/donedsc07769retocada.lr_-scaled.jpg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-19T10:08:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

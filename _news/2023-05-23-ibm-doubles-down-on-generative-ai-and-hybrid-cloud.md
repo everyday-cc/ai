@@ -25,116 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Cohesity partners with Google Cloud to empower organizations with generative AI and data capabilities"
-    excerpt: "Cohesity will utilize Google’s recent advancements in AI technology to enhance its AI-ready data security and management platform."
-    publishedDateTime: 2023-05-23T17:38:00Z
-    webUrl: "https://venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/"
-    ampWebUrl: "https://venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/amp/"
+  - title: "Apple is apparently doubling down on machine learning, generative AI efforts: All we know so far"
+    excerpt: "While Apple did not announce any major AI-related initiative in its recent earnings report, the company however did highlight the importance of AI in its future plans."
+    publishedDateTime: 2023-05-22T06:10:00Z
+    webUrl: "https://www.financialexpress.com/life/technology-apple-is-apparently-doubling-down-on-machine-learning-generative-ai-efforts-all-we-know-so-far-3096934/"
+    ampWebUrl: "https://www.financialexpress.com/life/technology-apple-is-apparently-doubling-down-on-machine-learning-generative-ai-efforts-all-we-know-so-far-3096934/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-apple-is-apparently-doubling-down-on-machine-learning-generative-ai-efforts-all-we-know-so-far-3096934/lite/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 61
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1401124210-Thinkhubstudio-e1669658425465.jpg?w=1200&strip=all"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/apple-resized-2.jpg"
         width: 1200
-        height: 606
+        height: 675
         isCached: true
-  - title: "PaLM2 by Google for generative AI is new tool from creativity and innovation"
-    excerpt: "PaLM2 is a new large language model (LLM) from Google AI. It is trained on a massive dataset of text and code, and can generate text, translate languages, write different kinds of creative content,"
-    publishedDateTime: 2023-05-22T09:39:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 56
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2017/01/Untitled-6.jpg"
-        width: 414
-        height: 364
-        isCached: true
-  - title: "TCS Expands Partnership With Google Cloud, Launches Generative AI"
-    excerpt: "Tata Consultancy Services on Wednesday (22 May) announced an expanded partnership with Google Cloud and the launch of its new offering, TCS Generative AI which leverages Google Cloud’s generative AI services,"
-    publishedDateTime: 2023-05-23T03:23:00Z
-    webUrl: "https://swarajyamag.com/tech/tcs-expands-partnership-with-google-cloud-launches-generative-ai"
-    type: article
-    provider:
-      name: Swarajya
-      domain: swarajyamag.com
-    quality: 39
-    images:
-      - url: "https://gumlet.assettype.com/swarajya%2F2023-02%2Fa38bf3ae-864b-49b1-ad8b-01fddfd3c396%2FScreenshot_2023_02_08_at_12_53_49_PM.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Mai Writer Uses Generative AI To Double Marketing Output and Conversions"
-    excerpt: "Kenn Costales, the Forbes 30 Under 30 Founder of AI startup Mai, is inviting copywriters, content creators, and digital marketing professionals to maximize their productivity"
-    publishedDateTime: 2023-05-23T16:34:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32535516/mai-writer-uses-generative-ai-to-double-marketing-output-and-conversions"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
-  - title: "Datadog's New Capabilities Help Azure Organizations Manage Costs, Migrate to the Cloud and Monitor AI Models"
-    excerpt: "Observability is increasingly important in helping organizations meet their cloud goals—at a time when efficiency is paramount. Azure Arc helps organizations manage their on-premises, edge and multicloud environments more efficiently."
-    publishedDateTime: 2023-05-23T21:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-datadogs-new-capabilities-help-azure-organizations-manage-costs-/2023/05/23/9819820.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 35
-    images:
-      - url: "https://mma.prnewswire.com/media/1730117/Datadog_logo.jpg"
-        width: 400
-        height: 210
-        isCached: true
-  - title: "Pega Announces Pega GenAI to Infuse Generative AI Capabilities in Pega Infinity '23"
-    excerpt: "(NASDAQ: PEGA), the low-code platform provider empowering the world's leading enterprises to Build for Change®, today announced Pega GenAI ™ – a set of 20 new generative AI-powered boosters to be integrated across Pega Infinity ™ '23,"
-    publishedDateTime: 2023-05-23T17:55:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/23/9819294.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/2082623/Pega_GenAI.jpg"
-        width: 400
-        height: 290
-        isCached: true
-  - title: "Cohesity Turing aims AI tools at backup and ransomware"
-    excerpt: "Backup supplier continues to enrich its ecosystem with more artificial intelligence (AI) for backup and ransomware, with chat-like reporting functions and new security partners in its alliance."
-    publishedDateTime: 2023-05-23T09:00:00Z
-    webUrl: "https://www.computerweekly.com/news/366538115/Cohesity-Turing-aims-AI-tools-at-backup-and-ransomware"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 19
-  - title: "TCS Expands Google Cloud Relationship With Vertex Generative AI"
-    excerpt: "Tata Consultancy Services is banking on its deep customer relationships to find ways to bring Google Vertex AI generative AI to them."
-    publishedDateTime: 2023-05-24T17:48:00Z
-    webUrl: "https://www.crn.com/news/cloud/tcs-expands-google-cloud-relationship-with-vertex-generative-ai"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 19
-  - title: "TCS announces generative AI pact with Google Cloud, new offering for enterprises"
-    excerpt: "Tata Consultancy Services TCS on Monday announced an expanded partnership with Google Cloud and the launch of its new offering -- TCS Generative AI which leve"
-    publishedDateTime: 2023-05-22T13:20:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273838959/tcs-announces-generative-ai-pact-with-google-cloud-new-offering-for-enterprises"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 14
 
 secured: "V/0w9HsTPtDV3W0UKVEXUGtfLcsWc/z3gKdmm3dogW6m0/bCwVkQ9c+CPDTM4HvPFDNS9YascHV4TCA91qX5qUBAFnIx0yN+hZn4CJK2eDgyp88lHS0oE5RB1EsBlG/p7Iigr/QIpQO+pE4AfDzL8XT0dTkVnPTufD1DzgwzANpFKHGI4PZYUPLsb4+wl5ANXvoeqeUUJ4MhoTfUPV8KjeRo0mDmoXJ86yqa1Ou9yUglPkvGr4oW0S/rrhg+JfMZyeZ0bhE0ehjvH/IoOAkPvFHDZ8t17I2e6L0LUXL66qO9OcPrs8rMln646t/4UE7TtyoplJTnv5E9FYVorJpz7JX9Wq9+EeECTchdUd7aCIBvpNFWWtcOoleEXFgDDDG5viVTUwCC3G6lUhfJ1SYGN2dhYNZgHSn3UTd2Pk/HW8Q8VjELoVrxwqsOxSbJaMYzUNPHpATAZh759jxfyJh6fBfsTizn27aSpGWzClosy1Y0QMpuU58FTP5g+ViQM747TR1/7h1MrD8YXqyJNiJrsQ==;pmC73GuYOcuej47JSa295g=="
 ---

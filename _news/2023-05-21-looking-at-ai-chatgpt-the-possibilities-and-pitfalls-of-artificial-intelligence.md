@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "5 Ways Marketers Can Become More Strategic With ChatGPT"
+    excerpt: "But what do ChatGPT and other generative AI technologies such as Auto-GPT ... ChatGPT will help us expedite translation and expand our marketing content to more languages. We are also looking to use ChatGPT across such areas as chat, copy creation ..."
+    publishedDateTime: 2023-05-25T11:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/25/5-ways-marketers-can-become-more-strategic-with-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/25/5-ways-marketers-can-become-more-strategic-with-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/25/5-ways-marketers-can-become-more-strategic-with-chatgpt/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60e30e5c4975bdf08feffd1f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "JtEi1aw+9LpGHOa4byp79sMzbd2ejvK74sSK3VQkOpk7edUmD7EtyMTgapL7EN1R1UjB6t+f5efliSRfrrvkFGM7JT41He/C8c2qoWCVXalPjBgVSWUk7D5DVXaFlNUCP2CLv8LIS2sU1R90IzNMkekxdY+LO3gOmVJ/OuUXxvuc5fDjvPUDrjAbphGBsR1SREgkxlGXkVer4kqOS+o2IsjNj2u5khsWk0kKM8agALpBHyKiq+MDNk0H7OVQJECDUl1azBLpz4yARl2BzoiXF6K5cdexmz39V63FZOmLEPJupSz7SijkYY/g0eiuR5Xfr1kmZS2zBu0Ow85M8feUcr+t7A+g1ytg5GraQNFqiPpgq7IjIZCpdOeojMGZEwDKvHSnY54pj2auLSk59+pKOD+SnZK/47+GmeYSLW7cG0mb/xN6rLHzyRDJqGchyxvJ49hjlUS71WKRu/LW076K3qn7IgUDnwjrYit0tQ3uZul55HbBiifFJewISA9EkClcGXWerQJAp7TrAEOzX1Xh/g==;JSlAc9osJkyqZvIRsFY4uw=="
 ---

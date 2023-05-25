@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/content-moderation-language-artificial
 webUrl: "https://www.wired.com/story/content-moderation-language-artificial-intelligence/"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1280
     height: 670
     isCached: true
-
-related:
-  - title: "Welocalize Beta Testing Enhanced Workflow for Managing Expansion of Multilingual AI-Generated Content"
-    excerpt: "Content supply chains will be profoundly disrupted as corporations adopt generative AI technology to create marketing, product, and other forms of content. For over two decades, leading language services provider Welocalize has used artificial intelligence (AI),"
-    publishedDateTime: 2023-05-24T20:46:00Z
-    webUrl: "https://www.ciodive.com/press-release/20230524-welocalize-beta-testing-enhanced-workflow-for-managing-expansion-of-multili-1/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 4
 
 secured: "AgjQr1ZOoTZy7B93tM9bIqmXrNczcBXa0tRRc8O5NhcuZT7hgHIHBnTQhCfwTciLpSpeSTKmr6QHjN96TGT3b6S89ZSubqC+RbmWZsAeXyco/UF+OtH8bSXhug30WN1/JYQVQyqPMvumVLz3cqVXmhwrA5jCGtLXDRFxLljyn5D2OxbCtrUWUhciYasTx0fylKrBQgjI75N5+qPw1IV3xWysXh+gn/mn4KsEdYCfDCzs2rPtPrrd8arVkXIUpzFtj6EnuzkUMs7t012+juSBUMlHcz+/QgTC/yavk0UNBfkiYRGL5cDA9er076b6CZJLlthxRd1C1QaejiaLnoIa6/rGeWkk09yjD6vXpUivbYlhnv1Jlpk4BXd8HRsJ5PZ5UIQTFjxX7OWrPJAghW65VgFXCYvXO6KiIIIr1hjB0RyLNi7AB2M9SZKEUZF7ByR9ubm7RVlWUlWGZXpG7glIuBDc4LW1VgQUYB/vV3Ve5zheAzJMnddSduPAwpTmq276A0j92/IMTYIPgyFdL8sIPA==;wUHj9G+Pes8HWJKQ3a2tjg=="
 ---

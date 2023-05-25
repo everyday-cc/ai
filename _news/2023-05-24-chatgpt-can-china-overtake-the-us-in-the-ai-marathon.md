@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/business-65034773.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65034773.amp"
 type: article
 quality: 87
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "5 Ways Marketers Can Become More Strategic With ChatGPT"
+    excerpt: "But what do ChatGPT and other generative AI technologies such as Auto-GPT ... ChatGPT will help us expedite translation and expand our marketing content to more languages. We are also looking to use ChatGPT across such areas as chat, copy creation ..."
+    publishedDateTime: 2023-05-25T11:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/25/5-ways-marketers-can-become-more-strategic-with-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/25/5-ways-marketers-can-become-more-strategic-with-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/25/5-ways-marketers-can-become-more-strategic-with-chatgpt/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60e30e5c4975bdf08feffd1f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Looking at AI, ChatGPT: The possibilities and pitfalls of artificial intelligence"
     excerpt: "CHICAGO (WLS) -- The man behind ChatGPT testified on Capitol Hill this past week, calling on lawmakers to regulate artificial intelligence. While Sam Altman warned about potential dangers, he also talked about the possibilities, saying \"We are working to ..."
     publishedDateTime: 2023-05-21T15:15:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/05/24/does-ai-spell-doom-for-a
 webUrl: "https://www.fool.com/investing/2023/05/24/does-ai-spell-doom-for-amazon-and-google-bill-gate/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "Bill Gates' worrying prediction for artificial intelligence and big companies"
+    excerpt: "As one of the world's most important tycoons and philanthropists, Bill Gates has discussed how the emergence of artificial intelligence will affect the world and, in particular, la"
+    publishedDateTime: 2023-05-25T09:04:00Z
+    webUrl: "https://www.marca.com/en/technology/2023/05/25/646f321c268e3ea7218b459c.html"
+    ampWebUrl: "https://amp.marca.com/en/technology/2023/05/25/646f321c268e3ea7218b459c.html"
+    cdnAmpWebUrl: "https://amp-marca-com.cdn.ampproject.org/c/s/amp.marca.com/en/technology/2023/05/25/646f321c268e3ea7218b459c.html"
+    type: article
+    provider:
+      name: MARCA
+      domain: marca.com
+    quality: 56
+    images:
+      - url: "https://phantom-marca.unidadeditorial.es/625075a355f34ff61d65ebf624750347/resize/1200/f/jpg/assets/multimedia/imagenes/2023/05/25/16850010881386.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Bill Gates Says AI Is Poised to Destroy Search Engines and Amazon"
     excerpt: "Bill Gates is warning that AI assistants could soon make Google Search and Amazon obsolete by altering the behaviors of users online."
     publishedDateTime: 2023-05-23T17:44:00Z

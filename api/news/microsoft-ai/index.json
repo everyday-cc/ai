@@ -211,58 +211,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-24-cohesity-partners-with-google-cloud-to-empower-organizations-with-generative-ai-and-data-capabilities.md",
-      "title": "Cohesity partners with Google Cloud to empower organizations with generative AI and data capabilities",
-      "excerpt": "Cohesity will utilize Google’s recent advancements in AI technology to enhance its AI-ready data security and management platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/",
-      "originalUrl": "https://venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1401124210-Thinkhubstudio-e1669658425465.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/amp/",
-      "publishedDateTime": "2023-05-23T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-23-microsoft-makes-a-push-for-ai-responsibility-and-safety-through-azure.md",
       "title": "Microsoft makes a push for AI responsibility and safety through Azure",
       "excerpt": "Azure AI Content Safety is now available in preview, but extra features are also coming for Designer and Bing.",
@@ -271,7 +219,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-pushes-for-ai-responsibility-and-safety-through-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 849,
+      "heat": 869,
       "tags": null,
       "images": [
         {
@@ -1494,6 +1442,59 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-ai-wrote-95-percent-of-this-murder-mystery.md",
+      "title": "AI Wrote 95 Percent of This Murder Mystery",
+      "excerpt": "Stephen Marche composed 'Death of an Author' using three AI tools, under the shared pen name Aidan Marchine. Here’s a look at the result.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/death-of-an-author-ai-book-excerpt/",
+      "originalUrl": "https://www.wired.com/story/death-of-an-author-ai-book-excerpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6459890a40f1b0ff5784445b/master/pass/Death-of-An-Author-AI-Culture-1337018866.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/death-of-an-author-ai-book-excerpt/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/death-of-an-author-ai-book-excerpt/amp",
+      "publishedDateTime": "2023-05-09T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

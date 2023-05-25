@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nvidia Stock Soars Premarket, Extending AI 'Baby Bubble'"
+    excerpt: "A strong sales forecast from chip giant Nvidia is lifting shares of other stocks tied to artificial intelligence, extending a frenzy that has made AI stocks among the year’s strongest performers. Nvidia said Wednesday it expected a boom in sales for the ..."
+    publishedDateTime: 2023-05-25T11:07:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-25-2023/card/nvidia-stock-soars-premarket-extending-ai-baby-bubble--Ugkok3NMnfrSZgDQTq9C?siteid=yhoof2&yptr=yahoo"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-788587?width=600"
+        width: 600
+        height: 800
+        isCached: true
   - title: "Nvidia’s AI, Metaverse Investments Keep Business Humming After Crypto Mining Demand Withers"
     excerpt: "In March, Nvidia announced an alliance with Microsoft MSFT -0.1% that focuses on bringing the industrial metaverse and AI to enterprises via cloud computing platform Azure. Upon the announcement, Nvidia CEO Jensen Huang reiterated that his goal was to to bring new AI, simulation and collaboration capabilities to every industry."
     publishedDateTime: 2023-05-23T17:28:00Z
@@ -70,6 +84,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/646cf73f94620200848e4343/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 899
+        isCached: true
+  - title: "Nvidia Stock Hits an All-Time High. Is It Still Worth Buying?"
+    excerpt: "Nvidia could be the next $1 trillion company. Those with patience and the right time frame shouldn't be afraid of its high valuation. The semiconductor chip technology company just released its fiscal 2024 first-quarter earnings report for the period ended April 30,"
+    publishedDateTime: 2023-05-25T11:50:00Z
+    webUrl: "https://www.fool.com/investing/2023/05/25/nvidia-stock-hits-an-all-time-high-is-it-a-buy/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 54
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/733749/nvda_sankey_q12024.png"
+        width: 2001
+        height: 2000
         isCached: true
   - title: "Nvidia Stock Surges as AI Chip Demand Powers Q1 Earnings, Stronger Outlook"
     excerpt: "The computer industry is going through two simultaneous transitions — accelerated computing and generative AI,' said CEO Jensen Huang"

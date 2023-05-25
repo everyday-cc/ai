@@ -41,20 +41,6 @@ related:
         width: 412
         height: 250
         isCached: true
-  - title: "AI and automation headline Red Hat’s annual user fest"
-    excerpt: "It wouldn’t be 2023 if there weren’t an artificial intelligence angle, and Red Hat OpenShift AI is the headliner this year. Billed as a “standardized platform for creating production AI/ML models,” the software takes advantage of native graphics processing unit acceleration features and can be deployed on-premises or in the cloud with the same tooling and interfaces."
-    publishedDateTime: 2023-05-23T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/05/23/ai-automation-headline-red-hats-annual-user-fest/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/Red-Hat-Summit-2022-Hero-Image.png"
-        width: 1184
-        height: 645
-        isCached: true
   - title: "Dubai announces AI plan to slash traffic jams"
     excerpt: "As such, it ensures that AI models do not make decisions incompatible with the AI principles and ethics set by the Dubai Digital Authority. RTA has trained several Emiratis in leadership, supervisory and technical roles to empower them to analyse data and ..."
     publishedDateTime: 2023-05-21T09:12:00Z
@@ -69,6 +55,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mai Writer Uses Generative AI To Double Marketing Output and Conversions"
+    excerpt: "Kenn Costales, the Forbes 30 Under 30 Founder of AI startup Mai, is inviting copywriters, content creators, and digital marketing professionals to maximize their productivity"
+    publishedDateTime: 2023-05-23T16:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32535516/mai-writer-uses-generative-ai-to-double-marketing-output-and-conversions"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
 
 secured: "pwaZKnu6o3qdj+F8J6S3GH9LSHFOiU1z6rWmhc4OY79haysULYomXThBj623eUpHoIzBTaUVzbvu1SKEkJJlN79lA1oY7A/ySGvmpfsce4dNnW9d/NumsZp3WEuCvBe7XNxZo1DPDxuKGPYGdRXgB4gjIzFWUVF9I1vjnoQlcsAuDoIbbBHqpqD4ypdBTGgrXrga3TylOSSGjbw/J3Usnj/Op+mdMr6qa4rCVF3nhj7XcT0afajC9Boe4OryQMznWS8YHn2GF0hj4PTJl2OUB3jvzCTxjn26n/IadnDlFOAtZYCZDvDyAtt1BBhFNAM5fyEJ8dLMr67xsfyXRKdPa5EntjvE3G63c0clUeq6MFOMWGaVpb4t5/Yh72mmX2mwnCOJCWQwedAkEqac0R/GZ6+B0eO16mEfzSUIRTPQ0J4qqJreBykRSXSQiizmp2SXQFgeGNT/NZwj1QuLf5k0F82VXk2CTi0ea6sTNx4EfjDUx4thSBpYJvXiR+EJN1QPLE6E0CDzVjHNEE5DcAnhbQ==;QrTv+25fEorgju4YlQHvdw=="
 ---

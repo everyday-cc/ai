@@ -2,6 +2,212 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-24-chatgpt-can-china-overtake-the-us-in-the-ai-marathon.md",
+      "title": "ChatGPT: Can China overtake the US in the AI marathon?",
+      "excerpt": "But China could catch up, according to analysts, as AI solutions take years to be perfected. Chinese internet companies \"are arguably more advanced than US internet companies, depending on how you're measuring advancement,\" Kendra Schaefer, head of tech policy research at Trivium China tells the BBC.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-65034773",
+      "originalUrl": "https://www.bbc.com/news/business-65034773",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/15E48/production/_129327698_gettyimages-1248931741.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-65034773.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65034773.amp",
+      "publishedDateTime": "2023-05-23T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-deploy-generative-ai-models-from-amazon-sagemaker-jumpstart-using-the-aws-cdk.md",
+      "title": "Deploy generative AI models from Amazon SageMaker JumpStart using the AWS CDK",
+      "excerpt": "The seeds of a machine learning (ML) paradigm shift have existed for decades, but with the ready availability of virtually infinite compute capacity, a massive proliferation of data, and the rapid advancement of ML technologies, customers across industries are rapidly adopting and using ML technologies",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-generative-ai-models-from-amazon-sagemaker-jumpstart-using-the-aws-cdk/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-generative-ai-models-from-amazon-sagemaker-jumpstart-using-the-aws-cdk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/15/ML-14182-foundation-models-1260x551.png",
+          "width": 1260,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T13:08:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-a-swedish-newspaper-is-having-ai-rap-its-articles-in-an-attempt-to-get-young-people-interested-in-the-news.md",
+      "title": "A Swedish newspaper is having AI rap its articles in an attempt to get young people interested in the news",
+      "excerpt": "Other concepts included an AI-driven news therapist and an algorithm that would surprise readers with positive news. Aftonbladet acknowledged the murky ethics of AI-generated content. \"The AI-generated rap is also, as hip-hop tends to be, loaded with some ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/swedish-newspaper-experimented-ai-rap-articles-to-appeal-to-youth-2023-5",
+      "originalUrl": "https://www.businessinsider.com/swedish-newspaper-experimented-ai-rap-articles-to-appeal-to-youth-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/646bd0de63c86a0018cd2f77?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/swedish-newspaper-experimented-ai-rap-articles-to-appeal-to-youth-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/swedish-newspaper-experimented-ai-rap-articles-to-appeal-to-youth-2023-5?amp",
+      "publishedDateTime": "2023-05-23T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-the-g7-comes-together-on-ai-aspirations-lagging-china-on-deliverables.md",
+      "title": "The G7 Comes Together On AI Aspirations, Lagging China On Deliverables",
+      "excerpt": "The Hiroshima Leaders’ Communique recognized the need to \"take stock\" on generative AI, which it calls \"increasingly prominent across countries and sectors.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johannacostigan/2023/05/23/the-g7-comes-together-on-ai-aspirations-lagging-china-on-deliverables/",
+      "originalUrl": "https://www.forbes.com/sites/johannacostigan/2023/05/23/the-g7-comes-together-on-ai-aspirations-lagging-china-on-deliverables/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646cf657159689fcc28e4343/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johannacostigan/2023/05/23/the-g7-comes-together-on-ai-aspirations-lagging-china-on-deliverables/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/05/23/the-g7-comes-together-on-ai-aspirations-lagging-china-on-deliverables/amp/",
+      "publishedDateTime": "2023-05-23T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-ai-is-the-future-of-gaming-and-nvidias-new-rtx-4060-optimizes-for-it.md",
       "title": "AI Is The Future Of Gaming And Nvidia’s New RTX 4060 Optimizes For It",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead explains the value Nvidia has created with its AI-driven RTX 40 series and how he sees these GPUs more as AI gaming cards.",
@@ -10,7 +216,7 @@
       "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/23/ai-is-the-future-of-gaming-and-nvidias-new-rtx-4060-optimizes-for-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 239,
+      "heat": 259,
       "tags": null,
       "images": [
         {
@@ -318,7 +524,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-pushes-for-ai-responsibility-and-safety-through-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 849,
+      "heat": 869,
       "tags": null,
       "images": [
         {
@@ -670,7 +876,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressing-the-ethical-use-of-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 141,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -758,7 +964,7 @@
       "originalUrl": "https://www.wired.com/story/content-moderation-language-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -863,7 +1069,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-for-an-artificial-sensory-nervous-system-for-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1050,203 +1256,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-ai-to-protect-french-open-players-against-cyber-bullying.md",
-      "title": "AI to protect French Open players against cyber bullying",
-      "excerpt": "The players’ Facebook, Instagram, Twitter, YouTube, TikTok and Discord social media platforms will be monitored. Players must scan the QR provided by Bodyguard to connect their social media accounts to the system. AI is used to moderate the comments in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/KA3WwqdzB4k7rydZ",
-      "originalUrl": "https://www.itweb.co.za/content/KA3WwqdzB4k7rydZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2023/05/Roland-Garros-2023.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/KA3WwqdzB4k7rydZ",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3WwqdzB4k7rydZ",
-      "publishedDateTime": "2023-05-23T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-modular-app-building-platform-builderai-raises-250-million-series-d-funding.md",
-      "title": "Modular app-building platform Builder.ai raises $250 million Series D funding",
-      "excerpt": "It was only recently that we reported Buildier.ai had signed a strategic collaboration with and undisclosed investment from Microsoft. Builder’s “Natasha” AI will be shortly available to users of Teams.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/23/modular-app-building-platform-builder-ai-raises-250-million-series-d-funding/",
-      "originalUrl": "https://techcrunch.com/2023/05/23/modular-app-building-platform-builder-ai-raises-250-million-series-d-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1324680765.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/23/modular-app-building-platform-builder-ai-raises-250-million-series-d-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/modular-app-building-platform-builder-ai-raises-250-million-series-d-funding/amp/",
-      "publishedDateTime": "2023-05-23T02:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-llms-and-the-rise-of-the-ai-code-generators.md",
-      "title": "LLMs and the rise of the AI code generators",
-      "excerpt": "Large language models like GPT-4 and tools like GitHub Copilot can make good programmers more efficient and bad programmers more dangerous. Are you ready to dive in?",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.html",
-      "originalUrl": "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/08/code-abstract-matrix-100678032-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.amp.html",
-      "publishedDateTime": "2023-05-23T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-ai-news-6-sources-entrepreneurs-can-use-to-stay-up-to-date.md",
-      "title": "AI News: 6 Sources Entrepreneurs Can Use To Stay Up To Date",
-      "excerpt": "With so many updates and shiny objects, how do you know which to explore in more detail? Here are six sites to bookmark, to stay up to date with the latest news in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/05/23/ai-news-6-sources-entrepreneurs-can-use-to-stay-up-to-date/",
-      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/05/23/ai-news-6-sources-entrepreneurs-can-use-to-stay-up-to-date/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646c6c08f0d5bccf7b2cbccf/0x0.jpg?format=jpg&crop=2496,1403,x0,y129,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/05/23/ai-news-6-sources-entrepreneurs-can-use-to-stay-up-to-date/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/05/23/ai-news-6-sources-entrepreneurs-can-use-to-stay-up-to-date/amp/",
-      "publishedDateTime": "2023-05-23T00:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

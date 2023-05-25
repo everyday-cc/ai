@@ -3,8 +3,8 @@ category: news
 title: "AI startup Anthropic raises $450M for safety-focused chatbot"
 excerpt: "Yet while ChatGPT has faced criticism — and been tweaked — after offering users some concerning results, Anthropic aims to make its chatbot more cautious from the start. Anthropic’s goal is for Claude to be less prone than other chatbots to manipulation that will produce harmful or offensive results."
 publishedDateTime: 2023-05-23T21:58:00Z
-originalUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?n=%5CL"
-webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?n=%5CL"
+originalUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/"
+webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/"
 ampWebUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
 type: article
@@ -158,6 +158,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "JY12mN7niZ419gTQOaj61MzvAK8uqEmheEjtgiZhQEFG8bbHEK61nSE9uByO7HYDZ8cf7j2Y1YxufUiAKKWmpKXn4ZRyEyQ4iRem4RAKyDWCKUgHL5p8Y8CkWIR1kCS3TbXCQJbhz1ae9nE16AfIdW1jPX6kqco7ZLeTTDJ1aoJVDaf29eTnxySgxtueNe1x7cQePxaXwIAA4QCANDhSEWtJxhWyxNRHkdynSegP/0I5BGOWXiQAAf2F0/CrFg/5JV6PG3OZbXP+R4AAcqstIT9vkcQKNYfIUrBvKYYgS9rH4SKcSVqakTx1rhf24lHZG5rihvygdNgSz+xG3VFBXLQhFCjYQ7hUuOCrzBPlABI=;V/vSJZ6FsSUYmkL/2cM9Ag=="
+secured: "k5ruSBLl28I3G8PndBSOXstAQF8DTrE1SOuFwCQATSRgwrUjtfY4yYIASthN8tkZGSJm3bKsPi2I9dbVLK4FZNYRE9m/+Oh2zKh0eAF9GzKgPEEypvq5vvSwcKFAXXqSGUmPhzWVWBlGi5SEJKFaDUmp6ZQ9/abniYmiAoMXXfo3aE+WFWiSbA1NAPPOr6RViDQBLWj9HVtXpQ4mg1Mlvy+8PGIzP8VO+SyXO3Sp2VPwAgzzi1Ftun0qkNzFxXCxNncODpquTu14BJCTaawuHEmEUvMvVlnrKrQDDuI5o1kSwQ9qHOucY09P16kYRk4elKdKLkVc4uaqdJ9lpBePbXj6nKvqXvfbWpZCMupmjdw=;IyXbc3OlB9tcJCPf0SvUSQ=="
 ---
 

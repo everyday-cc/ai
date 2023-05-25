@@ -2,6 +2,298 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-05-18-are-alexa-and-siri-ai.md",
+      "title": "Are Alexa and Siri AI?",
+      "excerpt": "Conversational AI is a type of artificial intelligence that ... They have extensive amounts of data that allow them to recognize speech and text to then translate these inputs into meaning. Natural Language Processing in Alexa and Siri Natural language ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/alexa-siri-ai",
+      "originalUrl": "https://www.foxnews.com/tech/alexa-siri-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5c69365-fe8d-493b-bfed-036295311cf9/fa99226e-59e6-4ec3-a739-7a0c2ea9d800/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/alexa-siri-ai.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/alexa-siri-ai.amp",
+      "publishedDateTime": "2023-05-17T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-a-third-former-apple-employee-has-been-charged-with-stealing-self-driving-car-tech.md",
+      "title": "A third former Apple employee has been charged with stealing self-driving car tech",
+      "excerpt": "A federal court in the Northern District of California has unsealed charges against Weibao Wang, a former Apple software engineer. Wang started working at the company in 2016 as part of a team that developed hardware and software for autonomous systems — technology that could conceivably wind up in self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/doj-charges-a-third-former-apple-employee-with-stealing-self-driving-car-tech-180824584.html",
+      "originalUrl": "https://www.engadget.com/doj-charges-a-third-former-apple-employee-with-stealing-self-driving-car-tech-180824584.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/MA9mbp9EV5VsAq9RVuHZog--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/1a90b300-f413-11ed-bbdd-b46ed16b28aa.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/doj-charges-a-third-former-apple-employee-with-stealing-self-driving-car-tech-180824584.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/doj-charges-a-third-former-apple-employee-with-stealing-self-driving-car-tech-180824584.html",
+      "publishedDateTime": "2023-05-17T21:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-elon-musk-says-teslas-self-driving-tech-is-better-than-humans.md",
+      "title": "Elon Musk says Tesla’s self-driving tech is better than humans",
+      "excerpt": "He predicted Tesla’s self driving tech will reach a point where it ”exceeds human-level safety this year”. And he said the manufacturer was ahead of the curve on artificial intelligence for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thechronicle.com.au/motoring/hitech/elon-musk-says-teslas-selfdriving-tech-is-better-than-humans/news-story/fa1f9b8174b46422a7c85f87533a90f6",
+      "originalUrl": "https://www.thechronicle.com.au/motoring/hitech/elon-musk-says-teslas-selfdriving-tech-is-better-than-humans/news-story/fa1f9b8174b46422a7c85f87533a90f6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-17T17:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Toowoomba Chronicle",
+        "domain": "thechronicle.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-elon-musk-is-right-we-need-to-regulate-ai-now.md",
+      "title": "Elon Musk Is Right: We Need to Regulate AI Now",
+      "excerpt": "We need to do something about artificial intelligence before it's too late. You probably heard some variation of that statement dozens of times in the years before ChatGPT. You've",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/elon-musk-is-right-we-need-to-regulate-ai-now/",
+      "originalUrl": "https://www.cnet.com/tech/elon-musk-is-right-we-need-to-regulate-ai-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/7881e2d7b68e0b07bd4dcf534260ca3af4f6cd1b/hub/2023/05/02/6a359d50-1e7a-4710-b994-d6b1ce857695/230501-yt-vs-chatgpt-bard-bing-v04.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/elon-musk-is-right-we-need-to-regulate-ai-now/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-is-right-we-need-to-regulate-ai-now/",
+      "publishedDateTime": "2023-05-17T17:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-machine-learning-vs-deep-learning.md",
+      "title": "Machine Learning vs. Deep Learning",
+      "excerpt": "Machine learning and deep learning are both core technologies of artificial intelligence. Yet there are key differences between them. Machine learning and deep learning are both core technologies of artificial intelligence. Yet there are key differences ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/machine-learning-vs-deep-learning/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/machine-learning-vs-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/05/ew-machine-learning-vs-deep-learning-1024x640.png",
+          "width": 1024,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-17T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-sting-warns-against-ai-songs-as-he-wins-prestigious-music-prize.md",
+      "title": "Sting warns against AI songs as he wins prestigious music prize",
+      "excerpt": "Whether AI-written music can be copyrighted is still under debate. Under English copyright law, for example, works generated by AI, can theoretically be protected. However, the US Copyright Office recently ruled that AI art, including music, can't be copyrighted as it is \"not the product of human authorship\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/entertainment-arts-65627089",
+      "originalUrl": "https://www.bbc.com/news/entertainment-arts-65627089",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/10122/production/_129762856_stingpic.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/entertainment-arts-65627089.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/entertainment-arts-65627089.amp",
+      "publishedDateTime": "2023-05-17T16:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-hiding-behind-the-ai-apocalypse.md",
       "title": "Hiding Behind the AI Apocalypse",
       "excerpt": "Damon: There was not really any talk at the hearing about the impacts of AI on labor. There were broad allusions to the idea of job loss. But there are so many specific ways that jobs are already threatened by automation today.",
@@ -906,301 +1198,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare.md",
-      "title": "Hippocratic AI Rakes USD 50 Million in Seed Funding to Develop Models for Healthcare",
-      "excerpt": "According to a report, a startup developing AI models for the healthcare sector, Hippocratic AI, has raked in USD 50 million in a seed funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2023/05/Hippocratic-AI-Rakes-USD-50-Million-in-Seed-Funding-to-Develop.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare/amp/",
-      "publishedDateTime": "2023-05-17T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-ai-and-the-future-of-work-developing-a-fascination-and-appreciation-for-the-unknown.md",
-      "title": "AI And The Future Of Work: Developing A Fascination And Appreciation For The Unknown",
-      "excerpt": "There will always be resistance when AI and machine learning tools go mainstream. As humans, we are creatures of habit who tend to cling to our belief systems, and the rapid advancement of AI tools tends to trigger our fear of the unknown.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/17/ai-and-the-future-of-work-developing-a-fascination-and-appreciation-for-the-unknown/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/17/ai-and-the-future-of-work-developing-a-fascination-and-appreciation-for-the-unknown/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6463f64c74ef3c2652bbf4f3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 502,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/17/ai-and-the-future-of-work-developing-a-fascination-and-appreciation-for-the-unknown/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/17/ai-and-the-future-of-work-developing-a-fascination-and-appreciation-for-the-unknown/amp/",
-      "publishedDateTime": "2023-05-17T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-amazon-unveils-echo-pop-new-echo-buds-reports-500m-alexa-device-sales-as-ai-upends-market.md",
-      "title": "Amazon unveils Echo Pop, new Echo Buds; reports >500M Alexa device sales as AI upends market",
-      "excerpt": "In-depth Amazon coverage from the tech giant’s hometown, including e-commerce, AWS, Amazon Prime ... broader market is focused on the rapid development in generative artificial intelligence, where sophisticated interactions with new language models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/amazon-unveils-echo-pop-new-echo-buds-reports-500m-alexa-device-sales-as-ai-upends-market/",
-      "originalUrl": "https://www.geekwire.com/2023/amazon-unveils-echo-pop-new-echo-buds-reports-500m-alexa-device-sales-as-ai-upends-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/05/Echo-Pop-All-Colors.png",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-kaiser-permanente-announces-new-grant-program-for-artificial-intelligence-and-machine-learning-in-health-care.md",
-      "title": "Kaiser Permanente Announces New Grant Program for Artificial Intelligence and Machine Learning in Health Care",
-      "excerpt": "AIM-HI program has committed $3 million to fund health systems demonstrating real-world AI and ML capabilities to improve patient healthOAKLAND,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/kaiser-permanente-announces-new-grant-program-for-artificial-intelligence-and-machine-learning-in-health-care-1032334654",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/kaiser-permanente-announces-new-grant-program-for-artificial-intelligence-and-machine-learning-in-health-care-1032334654",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-2-ai-stocks-i-love-and-1-i-dont.md",
-      "title": "2 AI Stocks I Love, and 1 I Don't",
-      "excerpt": "Not all AI companies are created ... Maybe you rely on Google Translate at work, or for sending emails to your in-laws, cousins, and friends overseas. That's an artificial intelligence system, quite similar to the large language model used by ChatGPT ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/05/17/2-ai-stocks-i-love-and-1-i-dont/",
-      "originalUrl": "https://www.fool.com/investing/2023/05/17/2-ai-stocks-i-love-and-1-i-dont/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/732817/robot-hand-holds-golden-egg.jpg",
-          "width": 4500,
-          "height": 3000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-amazons-ai-powered-robot-cant-fix-the-broken-smart-home.md",
-      "title": "Amazon's AI-powered robot can't fix the broken smart home",
-      "excerpt": "Unfortunately, some new leaked documents suggest it's up to those tricks again with the development of an AI-powered home robot ... before you have wings. For a start, the current Amazon Astro ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/amazons-ai-powered-robot-cant-fix-the-broken-smart-home",
-      "originalUrl": "https://www.techradar.com/news/amazons-ai-powered-robot-cant-fix-the-broken-smart-home",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/XzVDZZoc26io45z3QezWa-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
