@@ -31,87 +31,123 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia Stock: Increasing AI GPU Demand Points to Strong Earnings"
-    excerpt: "Going by recent conversations with component suppliers in the chip giant’s supply chain, Truist analyst William Stein thinks investors are in for a pleasant surprise. “We have recently learned of an uptick in demand for AI GPUs,” notes the 5-star ..."
-    publishedDateTime: 2023-05-21T16:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-increasing-ai-gpu-demand-points-to-strong-earnings-1032341254"
+  - title: "Nvidia is poised to join $1 trillion club thanks to AI-driven surge"
+    excerpt: "Thanks to a seemingly insatiable demand for AI chips, Nvidia saw its stock soar nearly 30% after yesterday's financial results."
+    publishedDateTime: 2023-05-25T14:56:00Z
+    webUrl: "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/"
+    ampWebUrl: "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
     images:
-      - url: "https://blog.tipranks.com/wp-content/uploads/2023/05/image-602-1024x518.png?utm_source=markets.businessinsider.com&utm_medium=referral"
-        width: 1024
-        height: 518
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-77.png?w=1200&strip=all"
+        width: 1200
+        height: 750
         isCached: true
-  - title: "Nvidia Stock Soars Premarket, Extending AI 'Baby Bubble'"
-    excerpt: "A strong sales forecast from chip giant Nvidia is lifting shares of other stocks tied to artificial intelligence, extending a frenzy that has made AI stocks among the year’s strongest performers. Nvidia said Wednesday it expected a boom in sales for the ..."
-    publishedDateTime: 2023-05-25T11:07:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-25-2023/card/nvidia-stock-soars-premarket-extending-ai-baby-bubble--Ugkok3NMnfrSZgDQTq9C?siteid=yhoof2&yptr=yahoo"
+  - title: "Nvidia Poised for Record Sales as AI Demand Kicks In"
+    excerpt: "The graphics-chip giant forecast a strong revenue bounce back for the current quarter, driven by growing appetite for generative AI technology."
+    publishedDateTime: 2023-05-24T22:28:00Z
+    webUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?siteid=yhoof2&yptr=yahoo"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 69
+    quality: 84
     images:
-      - url: "https://images.wsj.net/im-788587?width=600"
-        width: 600
-        height: 800
-        isCached: true
-  - title: "Nvidia Stock Has Risen on AI Chips. Why It’s Taking on Intel, AMD in Supercomputers."
-    excerpt: "Nvidia said a new supercomputer will be based on its Grace CPU Superchip, marking a push into an area dominated by Intel and AMD."
-    publishedDateTime: 2023-05-22T10:03:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-ai-intel-amd-chips-534a258b?refsec=markets"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 67
-    images:
-      - url: "https://images.barrons.com/im-392288/social"
+      - url: "https://images.wsj.net/im-783520/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Nvidia’s AI, Metaverse Investments Keep Business Humming After Crypto Mining Demand Withers"
-    excerpt: "In March, Nvidia announced an alliance with Microsoft MSFT -0.1% that focuses on bringing the industrial metaverse and AI to enterprises via cloud computing platform Azure. Upon the announcement, Nvidia CEO Jensen Huang reiterated that his goal was to to bring new AI, simulation and collaboration capabilities to every industry."
-    publishedDateTime: 2023-05-23T17:28:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2023/05/23/nvidias-ai-metaverse-investments-keep-business-humming-after-crypto-mining-demand-withers/"
+  - title: "Nvidia shares soar nearly 30% as sales forecast jumps and AI booms"
+    excerpt: "Reuters Graphics Nvidia has strained to meet demand for its AI chips, with Tesla Inc (TSLA.O) Chief Executive Officer Elon Musk, who is reportedly building out an artificial-intelligence startup, earlier this week telling an interviewer that the graphics ..."
+    publishedDateTime: 2023-05-24T22:13:00Z
+    webUrl: "https://www.reuters.com/technology/nvidia-forecasts-second-quarter-revenue-above-estimates-2023-05-24/?ref=upstract.com"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
+      name: Reuters
+      domain: reuters.com
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646cf73f94620200848e4343/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.reuters.com/resizer/C7nnSF94XZ_rbz4KRQHvfHGRt2w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KF4I2HVIS5OOJJSWS5G2D6PFXQ.jpg"
         width: 1200
-        height: 899
+        height: 628
         isCached: true
-  - title: "Nvidia Stock Hits an All-Time High. Is It Still Worth Buying?"
-    excerpt: "Nvidia could be the next $1 trillion company. Those with patience and the right time frame shouldn't be afraid of its high valuation. The semiconductor chip technology company just released its fiscal 2024 first-quarter earnings report for the period ended April 30,"
-    publishedDateTime: 2023-05-25T11:50:00Z
-    webUrl: "https://www.fool.com/investing/2023/05/25/nvidia-stock-hits-an-all-time-high-is-it-a-buy/"
+  - title: "Sequoia India’s Surge backs AI-powered video creation platform Gan.ai in $5.2M funding"
+    excerpt: "Gan.ai, an AI-powered video creation platform, raised a $5.2 million seed round led by Surge, Sequoia Capital's rapid scale-up program."
+    publishedDateTime: 2023-05-23T22:46:00Z
+    webUrl: "https://techcrunch.com/2023/05/23/sequoia-indias-surge-backs-ai-powered-video-creation-platform-gan-ai-in-5-2m-funding/"
+    ampWebUrl: "https://techcrunch.com/2023/05/23/sequoia-indias-surge-backs-ai-powered-video-creation-platform-gan-ai-in-5-2m-funding/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/sequoia-indias-surge-backs-ai-powered-video-creation-platform-gan-ai-in-5-2m-funding/amp/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 54
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 79
     images:
-      - url: "https://g.foolcdn.com/editorial/images/733749/nvda_sankey_q12024.png"
-        width: 2001
-        height: 2000
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/Suvrat-Bhooshan-Founder-CEO-at-Gan.ai-.jpeg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Nvidia Stock Surges as AI Chip Demand Powers Q1 Earnings, Stronger Outlook"
-    excerpt: "The computer industry is going through two simultaneous transitions — accelerated computing and generative AI,' said CEO Jensen Huang"
-    publishedDateTime: 2023-05-24T21:01:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-stock-surges-as-ai-chip-demand-powers-q1-earnings-outlook"
+  - title: "Nvidia in great position to gain from AI hype, says Intel CEO"
+    excerpt: "Nvidia, which has long been keen on boosting GPU's computing power, is now being presented with an excellent opportunity from the AI wave, according to Intel CEO Pat Gelsinger."
+    publishedDateTime: 2023-05-24T02:04:00Z
+    webUrl: "https://www.digitimes.com/news/a20230523PD218/intel-nvidia-pat-gelsinger.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230523pd218_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "Nvidia's blowout forecast sparks huge rally in all things AI"
+    excerpt: "Nvidia Corp’s forecast for surging revenue surprised even the most bullish analysts on Wall Street, propelling the chipmaker to the cusp of a US$1 trillion market capitalization and igniting a global jump in stocks linked to artificial intelligence."
+    publishedDateTime: 2023-05-25T14:32:00Z
+    webUrl: "https://www.theedgesingapore.com/news/semiconductor/nvidias-blowout-forecast-sparks-huge-rally-all-things-ai"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/news/semiconductor/nvidias-blowout-forecast-sparks-huge-rally-all-things-ai"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/semiconductor/nvidias-blowout-forecast-sparks-huge-rally-all-things-ai"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 39
+  - title: "Five Of The Top Artificial Intelligence Stocks For A Potential $1.8 Trillion Boom"
+    excerpt: "Five of the Top Artificial Intelligence Stocks for a Potential $1.8 Trillion Boom The artificial intelligence story fueled a massive rally in tec"
+    publishedDateTime: 2023-05-24T20:53:00Z
+    webUrl: "https://menafn.com/1106309114/Five-Of-The-Top-Artificial-Intelligence-Stocks-For-A-Potential-18-Trillion-Boom"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?140161"
+        width: 448
+        height: 250
+        isCached: true
+  - title: "Five of the Top Artificial Intelligence Stocks for a Potential $1.8 Trillion Boom"
+    excerpt: "Detailed price information for Accenture Plc (ACN-N) from The Globe and Mail including charting and trades."
+    publishedDateTime: 2023-05-24T14:12:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/ACN-N/pressreleases/17154514/five-of-the-top-artificial-intelligence-stocks-for-a-potential-18-trillion-boom/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 14
+  - title: "Nvidia, On Its Way to $1 Trillion Market Value, Just Confirmed That AI Hype Is Real"
+    excerpt: "Nvidia CEO Jensen Huang said generative AI is now becoming \"the primary workload of most of the world's data centers generating information\"."
+    publishedDateTime: 2023-05-25T15:46:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-on-its-way-to-1-trillion-just-confirmed-ai-hype-is-real"
     type: article
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 32
+    quality: 13
 
 secured: "cQBO7hEJlv6OMZk8/3v3GebtdXIWppaSrTd+MPT/5z+QoqZHVR9dqb2p0OnzQDbQUHmBgjd818s6eoNIULgruTp/nRRb6irGPSBIIPVVvlDxt5Wv6OWKDvLvdIQ9d3+ylQycFFJO3iDWTt06s0xO0S6aVJ/rSIAVgdf+gtaFqOl43UgZ1EiWT9v3xHdsUR3NwaKlDlCFtE18K+MhC91HwnTZDomF5EzIGmBlq5Anhk9ueMuqbLGnNXsPeWhahNGUwRXPBeJDpdTz+L+ans+tZENp+yT9gskiZsl9tBbtqzMCzBd6hGzK1hKtA75Ruc0vYT9wW0fJ/R3fe4dd8EjX5gcR71u/7s83b10NPvsaFaE=;24FyEu5SPCLT6JMgpRXGIA=="
 ---

@@ -2,6 +2,102 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-05-18-china-blue-chips-slip-as-recovery-falters-banks-ai-firms-shine.md",
+      "title": "China blue-chips slip as recovery falters; banks, AI firms shine",
+      "excerpt": "China's blue-chip stocks slipped on Thursday, while investors snapped up banking and artificial intelligence (AI) shares after data showed the country's economic recovery was losing steam.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/china-stocks-close-idUSL1N37F0KI",
+      "originalUrl": "https://www.reuters.com/article/china-stocks-close-idUSL1N37F0KI",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-ai-nothing-artificial-about-googles-ethical-conflicts.md",
+      "title": "AI: Nothing artificial about Google's ethical conflicts",
+      "excerpt": "Googles ethical issues are expanding alongside its generative AI with pioneer Geoffrey Hinton resigning so he can talk about the dangers",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/273835231/ai-nothing-artificial-about-googles-ethical-conflicts",
+      "originalUrl": "https://www.bignewsnetwork.com/news/273835231/ai-nothing-artificial-about-googles-ethical-conflicts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/iau1684392733.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-are-alexa-and-siri-ai.md",
       "title": "Are Alexa and Siri AI?",
       "excerpt": "Conversational AI is a type of artificial intelligence that ... They have extensive amounts of data that allow them to recognize speech and text to then translate these inputs into meaning. Natural Language Processing in Alexa and Siri Natural language ...",
@@ -1088,108 +1184,6 @@
         "name": "CBS News",
         "domain": "cbsnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-before-ai-takes-over-make-plans-to-give-everyone-money.md",
-      "title": "Before AI Takes Over, Make Plans to Give Everyone Money",
-      "excerpt": "Here in the United States, an AI jobs revolution need not be anything for average wage-earning families to fear. If AI does not enslave the human race or destroy humanity outright, this generative technology can and should be a very,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/ideas/archive/2023/05/ai-job-losses-policy-support-universal-basic-income/674071/",
-      "originalUrl": "https://www.theatlantic.com/ideas/archive/2023/05/ai-job-losses-policy-support-universal-basic-income/674071/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/VCHLO5tj8BoZvOSAmITi2py2Mqw=/0x102:4792x2598/1200x625/media/img/mt/2023/05/AI_UBI_2/original.jpg",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-latest-moves-show-stability-ai-is-fully-committed-to-open-source-well-mostly.md",
-      "title": "Latest moves show Stability AI is fully committed to open source — well, mostly",
-      "excerpt": "Stability AI released StableStudio, the latest in a series of moves to highlight its bonafides during an open source AI boom.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/latest-moves-show-stability-ai-is-fully-committed-to-open-source-well-mostly/",
-      "originalUrl": "https://venturebeat.com/ai/latest-moves-show-stability-ai-is-fully-committed-to-open-source-well-mostly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/image-6.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/latest-moves-show-stability-ai-is-fully-committed-to-open-source-well-mostly/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/latest-moves-show-stability-ai-is-fully-committed-to-open-source-well-mostly/amp/",
-      "publishedDateTime": "2023-05-17T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

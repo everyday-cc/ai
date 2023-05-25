@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/23/05/n32566145/edge-ai-and-visi
 ampWebUrl: "https://www.benzinga.com/amp/content/32566145"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32566145"
 type: article
-quality: 50
-heat: 80
+quality: 52
+heat: 82
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"

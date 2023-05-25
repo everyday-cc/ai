@@ -34,6 +34,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "15 Surprising Ways Industries May Soon Leverage Generative AI"
+    excerpt: "There’s more to generative AI than writing press blurbs, test questions and memos—indeed, there’s much more to generative AI than writing, period."
+    publishedDateTime: 2023-05-25T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/15-surprising-ways-industries-may-soon-leverage-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Looking into possible impact of Artificial Intelligence"
     excerpt: "We talk about the potential of AI and threats it may pose with Aboitiz Data Innovation's David Hardoon. Artificial Intelligence has become a topic of controversy with even the so-called \"Godfather of AI\" Geoffrey Hinton expressing worries over how smart ..."
     publishedDateTime: 2023-05-22T23:47:00Z

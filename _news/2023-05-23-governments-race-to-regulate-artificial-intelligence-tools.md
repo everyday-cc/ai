@@ -72,20 +72,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Regulators dust off rule books to tackle generative AI like ChatGPT"
-    excerpt: "As the race to develop more powerful artificial intelligence services like ChatGPT accelerates, some regulators are relying on old laws to control a technology that could upend the way societies and businesses operate."
-    publishedDateTime: 2023-05-22T15:55:00Z
-    webUrl: "https://www.reuters.com/technology/regulators-dust-off-rule-books-tackle-generative-ai-like-chatgpt-2023-05-22/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/A042xjpYEW1-fhIesQ2ZX_Mdp-M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FP3G4673DZI2BNIST6YDZCKYCY.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Our quick guide to the 6 ways we can regulate AI"
     excerpt: "The European Union is finalizing the AI Act, a sweeping regulation that aims to regulate the most “high-risk” usages of AI systems. First proposed in 2021, the bill would regulate AI in sectors such as health care and education."
     publishedDateTime: 2023-05-22T17:43:00Z
@@ -157,6 +143,24 @@ related:
         width: 506
         height: 380
         isCached: true
+  - title: "The tech giants have an interest in AI regulation"
+    excerpt: "ChatGPT is an example of “generative” ai, which creates humanlike content based on its analysis of texts, images and sounds on the internet. Sam Altman, CEO of OpenAI, the startup that built it, told a congressional hearing this month that regulatory ..."
+    publishedDateTime: 2023-05-25T13:11:00Z
+    webUrl: "https://www.economist.com/business/2023/05/25/the-tech-giants-have-an-interest-in-ai-regulation"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 17
+  - title: "A|I: The AI Times – OpenAI’s Sam Altman says this Canadian city should become a hub for AI"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2023-05-25T13:17:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-openais-sam-altman-says-this-canadian-city-should-become-a-hub-for-ai/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 9
 
 secured: "MrB07r+H++wlfE1yk/QfLK5qRarBsCKyNL9r/p0TvPo0mwqvUFgNTuvpLVITm3iU5bMRbVSyyMlL0SOixlOSbRJUA59B5JA4VitzWALZxvwHiXasyHMBrB+qeSUwbC6ck0gW+sQ+wLT/4cF3FVV5CL0QEwriFTNdWNRZzOEivLPK65M+MyTktjSSo4j/OU9wXHeBQq1m75VxOWG/W2jzj5FjZwwxcR9ehL7BgXBn9KGmjuW66dhPzDZHSqkOKkr+uehDNAcKfXuS4BZ9PSDbcrlr2rNtZdbC3sIZUgy5h+OhFmdwQu0wIfzL2fj64rQTbKyxYX5Ov8ADITAbP8a85VA3fkGPT0kvWRbUxmRI4e4=;MMMQBuxNM+xz5MGZuTygQg=="
 ---

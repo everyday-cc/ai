@@ -2,6 +2,92 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-19-facebook-parent-meta-unveils-chip-for-ai-programs.md",
+      "title": "Facebook parent Meta unveils chip for AI programs",
+      "excerpt": "Facebook parent company Meta has unveiled its first custom silicon chip for processing AI programs called the Meta Training and Inference Accelerator, or MTIA. It also talked about a new AI-optimised data centre design and the second phase of 16,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/articleshow/100343511.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/articleshow/100343511.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-100343511,imgsize-15346,width-800/100343511.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/amp_articleshow/100343511.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/facebook-parent-meta-unveils-chip-for-ai-programs/amp_articleshow/100343511.cms",
+      "publishedDateTime": "2023-05-18T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-19-artificial-intelligence-could-wipe-out-education-gaps-between-students.md",
+      "title": "Artificial Intelligence could wipe out education gaps between students",
+      "excerpt": "As G7 Summit leaders prepared to discuss managing artificial intelligence data, developers think generative AI could re-shape education in south Florida.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/miami/news/artificial-intelligence-could-wipe-out-education-gaps-between-students/",
+      "originalUrl": "https://www.cbsnews.com/miami/news/artificial-intelligence-could-wipe-out-education-gaps-between-students/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/14/f7f87e5f-bd72-4627-b7fe-f40ff8c4737f/thumbnail/1200x630/d802df6eaaf0dcc3c67a54c02f0fadbf/ai-gettyimages-1483272785.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/miami/news/artificial-intelligence-could-wipe-out-education-gaps-between-students/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/artificial-intelligence-could-wipe-out-education-gaps-between-students/",
+      "publishedDateTime": "2023-05-18T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-05-19-xiao-i-launches-revolutionary-intelligent-document-processing-solution-catalyzing-the-future.md",
       "title": "Xiao-I Launches Revolutionary Intelligent Document Processing Solution, Catalyzing the Future ...",
       "excerpt": "Xiao-I's IDP solution, underpinned by cutting-edge technologies including Optical Character Recognition, Computer Vision, Natural Language Processing, and Machine Learning, is integrated with Robotic Process Automation (“RPA”) to form a comprehensive ...",
@@ -1076,91 +1162,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-ibm-hybrid-cloud-mesh-reimagining-multicloud-networking-with-applications-taking-center-stage.md",
-      "title": "IBM Hybrid Cloud Mesh: Reimagining multicloud networking with applications taking center stage",
-      "excerpt": "With the launch of IBM Hybrid Cloud Mesh, application-centric connectivity helps you take back control of enterprise networking.\nThe post IBM Hybrid Cloud Mesh: Reimagining multicloud networking with applications taking center stage appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-hybrid-cloud-mesh-reimagining-multicloud-networking-with-applications-taking-center-stage/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-hybrid-cloud-mesh-reimagining-multicloud-networking-with-applications-taking-center-stage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/blockorganicgrowth0186.lr_-1-scaled.jpg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T08:53:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-vultr-and-domino-data-lab-partner-to-reduce-ai-time-to-value-amid-surging-gpu-demand.md",
-      "title": "Vultr and Domino Data Lab Partner to Reduce AI Time-to-Value Amid Surging GPU Demand",
-      "excerpt": "\"Customers seeking AI-driven competitive advantage must grapple with staggering GPU demand and cost pressures,\" said Nick Elprin, CEO and co-founder at Domino Data Lab. \"Our integration with Vultr ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230518005226/en/Vultr-and-Domino-Data-Lab-Partner-to-Reduce-AI-Time-to-Value-Amid-Surging-GPU-Demand/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230518005226/en/Vultr-and-Domino-Data-Lab-Partner-to-Reduce-AI-Time-to-Value-Amid-Surging-GPU-Demand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsroom.businesswire.com",
-        "domain": "businesswire.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

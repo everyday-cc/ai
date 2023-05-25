@@ -2,6 +2,84 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2023-04-08-opinion-artificial-intelligence-should-be-embraced-not-feared.md",
+      "title": "Opinion: Artificial intelligence should be embraced, not feared",
+      "excerpt": "We are witness to the next “iPhone moment ,” and it should be embraced, not feared. There are valid reasons for the pessimism that Elon Musk and others outline in a recent open letter, where he and other tech leaders urged a pause of AI development for six months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/opinion/article/opinion-artificial-intelligence-should-be-17882702.php",
+      "originalUrl": "https://www.chron.com/opinion/article/opinion-artificial-intelligence-should-be-17882702.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/32/16/63/23653586/3/rawImage.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-08-new-deep-learning-based-model-estimates-breast-density-with-high-precision.md",
+      "title": "New deep learning-based model estimates breast density with high precision",
+      "excerpt": "Breast cancer is the most common cancer to affect women worldwide. According to the American Cancer Society, about 1 in 8 women in the United States will develop breast cancer in their lifetime.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20230407/New-deep-learning-based-model-estimates-breast-density-with-high-precision.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20230407/New-deep-learning-based-model-estimates-breast-density-with-high-precision.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-07T19:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-08-the-worlds-first-self-driving-public-bus-fleet-is-rolling-out-in-scotland.md",
       "title": "The world’s first self-driving public bus fleet is rolling out in Scotland",
       "excerpt": "On May 15, Stagecoach’s self-driving vehicles will begin operations along a 14-mile route that includes Edinburgh’s historic Forth Road suspension bridge. According to the BBC, a total of five ...",
@@ -970,74 +1048,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-meta-unveils-ai-model-that-can-detect-items-within-images.md",
-      "title": "Meta unveils AI model that can detect items within images",
-      "excerpt": "Meta has teased several features that deploy the type of generative AI popularised by ChatGPT, which creates brand new content instead of simply identifying or categorizing data l",
-      "sourceUrl": null,
-      "webUrl": "https://www.afaqs.com/news/digital/meta-unveils-ai-model-that-can-detect-items-within-images",
-      "originalUrl": "https://www.afaqs.com/news/digital/meta-unveils-ai-model-that-can-detect-items-within-images",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T20:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AFAQS",
-        "domain": "afaqs.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-riane-lumer-is-penn-the-new-happy-valley.md",
-      "title": "Riane Lumer | Is Penn the New Happy Valley?",
-      "excerpt": "Columnist Riane Lumer responds to the Resume.io study that Liz Magill reposted about university happiness rankings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedp.com/article/2023/04/instagram-happiness-liz-magill-penn-ranking",
-      "originalUrl": "https://www.thedp.com/article/2023/04/instagram-happiness-liz-magill-penn-ranking",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Pennsylvanian",
-        "domain": "thedp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

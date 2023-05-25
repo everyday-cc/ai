@@ -476,6 +476,15 @@ related:
         width: 2000
         height: 1334
         isCached: true
+  - title: "Microsoft Chief Calls for Humans to Rule AI, Safeguard Critical Infrastructure"
+    excerpt: "In short, we must always ensure that AI remains under human control,\" he wrote ... Last week, Sam Altman, CEO of OpenAI, the startup behind ChatGPT, told a Senate panel in his first appearance before Congress that use of artificial intelligence to ..."
+    publishedDateTime: 2023-05-25T13:21:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-05-25/microsoft-chief-calls-for-humans-to-rule-ai-safeguard-critical-infrastructure"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 60
   - title: "Mural Unveils AI-Powered Capabilities for Enterprise Collaboration at Microsoft Build"
     excerpt: "Deepening its investment in the Microsoft ecosystem, Mural's AI capabilities will use Azure OpenAI to enable teams to work together more efficiently SAN FRANCISCO, May 22, 2023 /PRNewswire/ -- Mural, a leading visual collaboration company, today unveiled ..."
     publishedDateTime: 2023-05-22T19:14:00Z
@@ -927,6 +936,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 35
+  - title: "Qualcomm drives Opel connectivity, aligns with Microsoft for on-device AI"
+    excerpt: "Mobile platform provider announces partnership to make generative AI more affordable, reliable and private by moving queries and inferencing to edge devices and provider’s infotainment platform for small car bestseller."
+    publishedDateTime: 2023-05-25T11:36:00Z
+    webUrl: "https://www.computerweekly.com/news/366538331/Qualcomm-drives-new-Opel-connectivity-aligns-with-Microsoft-for-on-device-AI"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 35
   - title: "Microsoft says new AI shows signs of human reasoning"
     excerpt: "A provocative paper from researchers at Microsoft claims AI shows the ability to understand the way people do. Critics say scientists are kidding themselves."
     publishedDateTime: 2023-05-22T13:09:00Z
@@ -935,6 +953,24 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
+    quality: 34
+  - title: "GEP USES MICROSOFT AZURE OPENAI SERVICE TO ENHANCE ITS PROCUREMENT & SUPPLY CHAIN SOFTWARE SOLUTIONS"
+    excerpt: "GEP has integrated Microsoft Azure OpenAI Service into its flagship software that enables clients to identify potential risks and optimize procurement and supply chain operations"
+    publishedDateTime: 2023-05-25T15:05:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/25/9821322.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+  - title: "Microsoft outlines how to build AI apps and copilots at Build 2023"
+    excerpt: "If you are interested in learning more about building artificial intelligence applications and copilots using Microsoft technologies. You will be"
+    publishedDateTime: 2023-05-25T13:12:00Z
+    webUrl: "https://www.geeky-gadgets.com/build-ai-apps-and-copilots-25-05-2023/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
     quality: 34
   - title: "Sapiens Joins Forces with Microsoft to Leverage Generative AI for Insurers"
     excerpt: "Sapiens will integrate Microsoft Azure OpenAI and Azure Power Virtual Agents to provide generative AI solutions for insurance companies, allowing customers to easily navigate comp"

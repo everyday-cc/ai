@@ -23,6 +23,36 @@ topics:
   - AI
 
 related:
+  - title: "AI chip boom sends Nvidia’s stock surging after whopper of a quarter"
+    excerpt: "Nvidia makes chips that power generative AI, a type of artificial intelligence that can create new content, such as text and images, in response to user prompts. That’s the kind of AI underlying ChatGPT, Google’s Bard, Dall-E and many of the other new ..."
+    publishedDateTime: 2023-05-25T12:27:00Z
+    webUrl: "https://us.cnn.com/2023/05/25/tech/nvidia-earnings-ai/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/05/25/tech/nvidia-earnings-ai/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/25/tech/nvidia-earnings-ai/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 104
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230525080054-nvidia-2022-file.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Weak Gaming GPU Sales Don't Matter for Nvidia as It Faces AI Gold Rush"
+    excerpt: "Nvidia's stock skyrockets after the company reports it expect revenue next quarter to hit $11 billion on demand for chips that can power generative AI."
+    publishedDateTime: 2023-05-25T15:13:00Z
+    webUrl: "https://www.pcmag.com/news/weak-gaming-gpu-sales-dont-matter-for-nvidia-as-it-faces-ai-gold-rush"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 101
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03VpWdOi9ptp95GOTFMU3Fw-1.fit_lim.size_1200x630.v1685024253.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "AI Is The Future Of Gaming And Nvidia’s New RTX 4060 Optimizes For It"
     excerpt: "Ranked Industry Analyst Patrick Moorhead explains the value Nvidia has created with its AI-driven RTX 40 series and how he sees these GPUs more as AI gaming cards."
     publishedDateTime: 2023-05-23T16:47:00Z
@@ -39,21 +69,19 @@ related:
         width: 566
         height: 360
         isCached: true
-  - title: "The AI Race Is Gathering Steam. What Will It Mean For Nvidia’s Earnings?"
-    excerpt: "NVDA) is poised to report its Q1 FY’24 earnings around May 24, reporting on a quarter that is likely to have seen the company’s revenues continue to decline, amid a"
-    publishedDateTime: 2023-05-22T08:59:00Z
-    webUrl: "https://www.forbes.com/sites/greatspeculations/2023/05/22/the-ai-race-is-gathering-steam-what-will-it-mean-for-nvidias-earnings/"
-    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/05/22/the-ai-race-is-gathering-steam-what-will-it-mean-for-nvidias-earnings/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/05/22/the-ai-race-is-gathering-steam-what-will-it-mean-for-nvidias-earnings/amp/"
+  - title: "Nvidia Stock: Increasing AI GPU Demand Points to Strong Earnings"
+    excerpt: "Going by recent conversations with component suppliers in the chip giant’s supply chain, Truist analyst William Stein thinks investors are in for a pleasant surprise. “We have recently learned of an uptick in demand for AI GPUs,” notes the 5-star ..."
+    publishedDateTime: 2023-05-21T16:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-increasing-ai-gpu-demand-points-to-strong-earnings-1032341254"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5e141b58eb5fec0007029f9c/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://blog.tipranks.com/wp-content/uploads/2023/05/image-602-1024x518.png?utm_source=markets.businessinsider.com&utm_medium=referral"
+        width: 1024
+        height: 518
         isCached: true
   - title: "Nvidia to face shortages after a boom in GPU demand for its AI"
     excerpt: "Nvidia is seeing a bump in GPU sales in the market over its AI capabilities. However, while this is great news for its GPU business, it would also have the company face stock shortages till the end of this year."
@@ -69,34 +97,6 @@ related:
         width: 768
         height: 723
         isCached: true
-  - title: "Nvidia Poised for Record Sales as AI Demand Kicks In"
-    excerpt: "The graphics-chip giant forecast a strong revenue bounce back for the current quarter, driven by growing appetite for generative AI technology."
-    publishedDateTime: 2023-05-24T22:28:00Z
-    webUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?siteid=yhoof2&yptr=yahoo"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-783520/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Nvidia shares soar nearly 30% as sales forecast jumps and AI booms"
-    excerpt: "Reuters Graphics Nvidia has strained to meet demand for its AI chips, with Tesla Inc (TSLA.O) Chief Executive Officer Elon Musk, who is reportedly building out an artificial-intelligence startup, earlier this week telling an interviewer that the graphics ..."
-    publishedDateTime: 2023-05-24T22:13:00Z
-    webUrl: "https://www.reuters.com/technology/nvidia-forecasts-second-quarter-revenue-above-estimates-2023-05-24/?ref=upstract.com"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/C7nnSF94XZ_rbz4KRQHvfHGRt2w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KF4I2HVIS5OOJJSWS5G2D6PFXQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Nvidia Sales Crush Wall Street Estimates Thanks To AI Boom, Shares Spike Over 20%"
     excerpt: "The professional vizualization segment, which includes Omniverse Cloud, a service running in Microsoft Azure for the development and deployment of industrial metaverse applications, posted $295 million in sales, down 53% from a year ago. “I think in AI ..."
     publishedDateTime: 2023-05-24T21:38:00Z
@@ -110,6 +110,54 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/646e7fbe6e8d4a2977a62c39/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Two of the world's most critical chip firms rally after Nvidia's 26% share price surge"
+    excerpt: "Dutch firm ASML and Taiwan's TSMC, two of the world's most important semiconductor firms, got a share price boost after Nvidia's earnings impressed investors."
+    publishedDateTime: 2023-05-25T15:20:00Z
+    webUrl: "https://www.cnbc.com/2023/05/25/tsmc-asml-two-critical-chip-firms-rally-after-nvidias-earnings.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/05/25/tsmc-asml-two-critical-chip-firms-rally-after-nvidias-earnings.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/25/tsmc-asml-two-critical-chip-firms-rally-after-nvidias-earnings.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 81
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107098120-1659534459911-gettyimages-1239915582-RAFAPRESS_10042022-0121.jpeg?v=1685013700"
+        width: 5000
+        height: 3333
+        isCached: true
+  - title: "Nvidia stock soars toward all-time high as record revenue forecast backed by ‘killer app’ of AI"
+    excerpt: "Nvidia Corp. executives predicted record revenue well beyond anything the company has experienced Wednesday, pushing shares toward record territory."
+    publishedDateTime: 2023-05-25T02:53:00Z
+    webUrl: "https://www.marketwatch.com/story/nvidia-stock-soars-toward-all-time-high-as-ai-push-leads-executives-to-predict-record-revenue-b0207c10?mod=rex-nutting"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-stock-soars-toward-all-time-high-as-ai-push-leads-executives-to-predict-record-revenue-b0207c10"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-stock-soars-toward-all-time-high-as-ai-push-leads-executives-to-predict-record-revenue-b0207c10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://images.mktw.net/im-386224/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Nvidia Has Gone Big Into AI. Its Chips Will Now Power Supercomputers."
+    excerpt: "Nvidia said a new supercomputer will be based on its Grace CPU Superchip, marking a push into an area dominated by Intel and AMD."
+    publishedDateTime: 2023-05-22T10:16:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://images.barrons.com/im-392288/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Nvidia shares leap after it predicts AI-driven boom in chip demand"
     excerpt: "US tech firm on course for valuation well over $900bn as quarterly revenue forecast excites investors"
@@ -127,21 +175,21 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Nvidia shares leap as AI trend drives demand for chips"
-    excerpt: "Net income for the fiscal quarter that closed at the end of April was $2.04 billion, up 26 percent from $1.68 billion in the same period a year earlier, Nvidia reported."
-    publishedDateTime: 2023-05-25T11:48:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips/100504224"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/devices/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips/100504224"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips/100504224"
+  - title: "Nvidia Stock Has Risen on AI Chips. Why It’s Taking on Intel, AMD in Supercomputers."
+    excerpt: "Nvidia said a new supercomputer will be based on its Grace CPU Superchip, marking a push into an area dominated by Intel and AMD."
+    publishedDateTime: 2023-05-22T10:03:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-ai-intel-amd-chips-534a258b?refsec=markets"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ai-intel-amd-chips-534a258b"
     type: article
     provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 74
+      name: Barron's
+      domain: barrons.com
+    quality: 67
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-100504224,imgsize-317504,width-1200,height=765,overlay-ettelecom/devices/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips.jpg"
-        width: 1200
-        height: 765
+      - url: "https://images.barrons.com/im-392288/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "A Cheaper Way to Bet on AI Than Investing in Nvidia"
     excerpt: "Nvidia shares jumped after it forecast a revenue tailwind from the artificial-intelligence race, but if you don’t want to shell out for the expensive stock, there are other options."
@@ -156,6 +204,20 @@ related:
       - url: "https://images.wsj.net/im-788555/social"
         width: 1279
         height: 640
+        isCached: true
+  - title: "Nvidia close to becoming first trillion-dollar chip firm after stellar forecast"
+    excerpt: "Courtesy NVIDIA/Handout via REUTERS May 25 (Reuters) - For Nvidia Corp (NVDA.O), the boom in generative artificial intelligence (AI) is everything, everywhere, all at once. The chip designer's shares extended their rally this year on Thursday, soaring 25% ..."
+    publishedDateTime: 2023-05-25T09:44:00Z
+    webUrl: "https://www.reuters.com/technology/nvidia-close-becoming-first-trillion-dollar-chip-firm-after-stellar-forecast-2023-05-25/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 65
+    images:
+      - url: "https://www.reuters.com/resizer/tyFpR0H5gc8GFCzc32yvJXBPe84=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VTXHVAI3VBOYTAQRG7NBVL5EII.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Nvidia’s stock soars 24% on strong sales forecast amid surging demand for AI chips"
     excerpt: "Wall Street’s projections out of the water, sending its stock up an incredible 24% in extended trading. The company reported net income for the quarter of $2.04 billion, up from the $1.62 billion profit it recorded one year earlier."
@@ -185,6 +247,22 @@ related:
         width: 648
         height: 432
         isCached: true
+  - title: "Nvidia Stock Goes Parabolic After Chipmaker Reports Q1 Beat: AI Momentum Pushes Data Center Revenue To Record"
+    excerpt: "Nvidia Corp. NVDA reported first-quarter results that came in well ahead of Street expectations Wednesday as the chipmaker rides artificial intelligence momentum. The company issu"
+    publishedDateTime: 2023-05-24T21:01:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/05/32563354/nvidia-stock-goes-parabolic-after-chipmaker-reports-q1-beat-ai-momentum-pushes-data"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32563354"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32563354"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 55
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/nvidia-large-language-model-services.png?width=1200&height=800&fit=crop"
+        width: 816
+        height: 544
+        isCached: true
   - title: "Nvidia Shares Soar 28% As Demand Surges For AI Chips"
     excerpt: "Nvidia shares rocketed in after hours trading after the chipmaker forecast current-quarter revenue more than 50 per cent above analyst expectations, saying it has boosted supply to meet surging demand for its AI chips."
     publishedDateTime: 2023-05-24T23:47:00Z
@@ -213,6 +291,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Generative AI demand sends Nvidia chip sales soaring; stock surges"
+    excerpt: "Nvidia makes chips that power generative AI, a type of artificial intelligence that can create new content, such as text and images, in response to user prompts. That’s the kind of AI underlying ChatGPT,"
+    publishedDateTime: 2023-05-25T13:05:00Z
+    webUrl: "https://wraltechwire.com/2023/05/25/generative-ai-demand-sends-nvidia-chip-sales-soaring-stock-surges/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 51
   - title: "Nasdaq Futures Jump as Nvidia Leads AI-Driven Rally"
     excerpt: "Shares of Nvidia Corp, the world's most valuable listed chip company, jumped 24% in premarket trading ... This helped it lead a rally among heavyweight AI players including Microsoft Corp and Alphabet Inc, which rose 1.9% and 2.0%, respectively."
     publishedDateTime: 2023-05-25T09:24:00Z
@@ -222,20 +309,24 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Why AI Is The Future Of Offshore Oil Drilling"
-    excerpt: "But this is not Shell’s first foray into AI tech. Back in 2018, the company partnered with Microsoft to incorporate the Azure C3 Internet of Things platform in its offshore operations. The platform uses AI to drive efficiencies across the company’s ..."
-    publishedDateTime: 2023-05-21T23:03:00Z
-    webUrl: "https://oilprice.com/Energy/Crude-Oil/Why-AI-Is-The-Future-Of-Offshore-Oil-Drilling.html"
+  - title: "Nvidia Shares Jump as Chip Maker Approaches $1 Trillion Valuation"
+    excerpt: "As tech giants such as Google, Microsoft, Amazon and Facebook rush to build AI capabilities similar to ChatGPT, they need pricey chips. And as WSJ’s Dan Gallagher explains, that’s good for Nvidia. Nvidia gained almost a third of its market value on ..."
+    publishedDateTime: 2023-05-25T13:55:00Z
+    webUrl: "https://www.wsj.com/articles/nvidia-shares-jump-as-chip-maker-approaches-1-trillion-valuation-7f8ccd68"
     type: article
     provider:
-      name: Crude Oil Prices
-      domain: oilprice.com
-    quality: 39
-    images:
-      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-05-19_chqonzsu0y.jpg"
-        width: 718
-        height: 300
-        isCached: true
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 49
+  - title: "Nvidia Stock Soars 29% As CEO Jensen Huang Cites Generative AI Edge"
+    excerpt: "Nvidia is prepared to supply those AI chips. As Colette Kress, Nvidia’s CFO told investors on the earnings call, “This demand has extended our data center visibility out a few quarters and we have procured substantially higher supply for the second-half of the year.”"
+    publishedDateTime: 2023-05-25T13:24:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/05/25/nvidia-stock-soars-29-as-ceo-jensen-huang-cites-generative-ai-edge/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Nvidia’s AI Victory Lap"
     excerpt: "The most important acronym in business right now is AI, but another one—GPU—isn’t far behind. Today’s earnings forecast from chip designer Nvidia, which makes graphics processing units that power ChatGPT and its ilk,"
     publishedDateTime: 2023-05-25T00:31:00Z
@@ -250,6 +341,24 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia AI chip value skyrockets amid AI development boom"
+    excerpt: "The company says it has been increasing its supply of chips as a response to the increase in demand for them after the emergence of ChatGPT."
+    publishedDateTime: 2023-05-25T13:00:00Z
+    webUrl: "https://cointelegraph.com/news/nvidia-ai-chip-value-skyrockets-amid-ai-development-boom"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 34
+  - title: "Nvidia expects revenue boom as AI drives chip demand"
+    excerpt: "Soaring demand for the chips needed to train the latest wave of generative artificial intelligence systems such as ChatGPT led Nvidia to issue a revenue forecast that was far ahea"
+    publishedDateTime: 2023-05-24T22:52:00Z
+    webUrl: "https://www.ft.com/content/6b03dee3-ea79-48dd-b1eb-3df4f029d806"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
   - title: "Nvidia forecasts revenue boom as AI drives chip demand"
     excerpt: "Soaring demand for the chips needed to train the latest wave of generative artificial intelligence systems such as ChatGPT led Nvidia to issue a revenue forecast that was far ahea"
     publishedDateTime: 2023-05-24T21:27:00Z
@@ -259,6 +368,51 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Nvidia races towards $1tn club as AI frenzy drives chip stocks higher"
+    excerpt: "Nvidia chief Jensen Huang said: ‘When generative AI I came along, it triggered a killer app for this computing platform that’s been in preparation for some time ..."
+    publishedDateTime: 2023-05-25T13:13:00Z
+    webUrl: "https://www.ft.com/content/b074781a-683f-4b20-8c70-33bb71399d94?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
+  - title: "Nvidia Shares Leap As AI Trend Drives Demand For Chips"
+    excerpt: "Shares in US chip company Nvidia soared more than 25 percent Wednesday after an earnings report showed the artificial intelligence trend is fueling demand for its sophisticated chips."
+    publishedDateTime: 2023-05-25T02:22:00Z
+    webUrl: "https://www.barrons.com/news/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips-d730c10c"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 34
+  - title: "Nvidia Stock Surges as AI Chip Demand Powers Q1 Earnings, Stronger Outlook"
+    excerpt: "The computer industry is going through two simultaneous transitions — accelerated computing and generative AI,' said CEO Jensen Huang"
+    publishedDateTime: 2023-05-24T21:01:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-stock-surges-as-ai-chip-demand-powers-q1-earnings-outlook"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 32
+  - title: "Nvidia benefits hugely from hype around AI"
+    excerpt: "Nvidia's first-quarter figures will please its shareholders. The GPU giant pulled in $7.2 billion, significantly more than the expected $6.5 billion. The"
+    publishedDateTime: 2023-05-25T12:23:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/106513/nvidia-benefits-hugely-from-hype-around-ai/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 19
+  - title: "Nvidia Earnings Spark Huge AI Stock Rally. The Hype Keeps Building."
+    excerpt: "Nvidia stock soared early Thursday, pushing other chip makers and AI-exposed companies higher after the company’s outlook crushed expectations due to surging demand. Already a subscriber? Sign In"
+    publishedDateTime: 2023-05-25T12:53:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-earnings-ai-stock-rally-microsoft-alphabet-7ea1cdcf"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 19
 
 secured: "P47YlbxhPGTYPLWBwP4sNdthNVOo+owvbDdf8AEYu6Y+1mVUkwCxFA7odYa2Y9QcHkL5akFbANXG7Z8k2NBMruEelDqloWelEA2s7nB7jSYRfIh+ojGx20WVSMDdtiEXwmY/DpL8Hf+RLQ498JZ2tWBmaSkr1lsc95QzX6grx8EvlKWfLb8EeHxeWDmKfTZROHNbP4WgERFphaunw2q2wn3a/s9Tsk5eM9ucjixSz1pA5OQ+MlZk7VSZmTMlsh/UsRsBPB/CVaYwMbgFPOLAey95KtcBXqMDjD87mmuUR9hfzv4DCtI9gukRbJ7oloaiYZC3b+zhv/iWaSMI2QEFZ5SJr0Z4CN1+gLEPaDx32Ug=;2FT52oLt6Pw01r7YQIX4/g=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.computerweekly.com/opinion/Gartner-Exploring-the-short
 webUrl: "https://www.computerweekly.com/opinion/Gartner-Exploring-the-short-and-mid-term-implications-of-ChatGPT"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,40 +23,6 @@ images:
     width: 1200
     height: 400
     isCached: true
-
-related:
-  - title: "Meta's ChatGPT rival could make language barriers a thing of the past"
-    excerpt: "This move suggests the company is deeply invested in dominating the AI language translation space, but also encourages collaboration in the field. Normally, speech recognition and text-to-speech AI programs need extensive training on a large number of ..."
-    publishedDateTime: 2023-05-23T11:15:00Z
-    webUrl: "https://www.techradar.com/news/metas-chatgpt-rival-could-make-language-barriers-a-thing-of-the-past"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/iQWK76oepRkaWM2CCpqgVV-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "In a Reminder of AI's Limits, ChatGPT Fails Gastro Exam"
-    excerpt: "He said the recent gush of papers showing ChatGPT passing other medical assessments might be overshadowing the fact that this technology is not ready for regular clinical use. \"You can define a threshold how you want it and say [ChatGPT] passed it,"
-    publishedDateTime: 2023-05-22T15:12:00Z
-    webUrl: "https://www.medpagetoday.com/gastroenterology/generalgastroenterology/104618"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 19
-  - title: "How Many Language Service Providers Have Piloted ChatGPT in Workflows?"
-    excerpt: "Language service providers are actively piloting ChatGPT and large language models (LLMs) in machine translation, quality evaluation and business workflows."
-    publishedDateTime: 2023-05-23T12:01:00Z
-    webUrl: "https://slator.com/how-many-language-service-providers-have-piloted-chatgpt-workflows/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 4
 
 secured: "2RNUTh+TZyfHB+8/KbJrH8rnN5i/mwLCItPxePOtSTcfaRziK4MCcVuMw4mipN+kcA9U53AxwdOkKMQTmxur/sp/5LYtmrqTfxbnvpsuIDAOPd5ViSk6hh7nBMgNgFCf3ggu9DC6lGEKDIAErRExsVBCxmbRy9QGG5FTBal/eDBtwEGU9d/B7+pPvbvbY7vJZ3PcnpR5HEa/xinDqkg9rtbXTtG5/K4cO2vCqgsCx1eF8Aqb0nYYz8SzJf8NIXtLdoUvgb2GZanqbeQ0jYcGbj+M7UZdVSCIPw/lp+87OcZ+ZFMHI69gwLrmBEojRbAMLMgA/p0ZkJgz10zpkC47Bd8DHgxV4FSZ3Deq8YtvlTw=;1jaN723Rm7TEv44AqPSueg=="
 ---

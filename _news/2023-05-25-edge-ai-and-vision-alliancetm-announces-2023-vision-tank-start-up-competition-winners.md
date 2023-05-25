@@ -35,7 +35,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 50
+    quality: 52
     images:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043

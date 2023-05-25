@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 668
         isCached: true
+  - title: "Why AI Is The Future Of Offshore Oil Drilling"
+    excerpt: "But this is not Shell’s first foray into AI tech. Back in 2018, the company partnered with Microsoft to incorporate the Azure C3 Internet of Things platform in its offshore operations. The platform uses AI to drive efficiencies across the company’s ..."
+    publishedDateTime: 2023-05-21T23:03:00Z
+    webUrl: "https://oilprice.com/Energy/Crude-Oil/Why-AI-Is-The-Future-Of-Offshore-Oil-Drilling.html"
+    type: article
+    provider:
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 39
+    images:
+      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-05-19_chqonzsu0y.jpg"
+        width: 718
+        height: 300
+        isCached: true
 
 secured: "opNBG8SVXDz8wV5mc57Q1SYiBpqPzixEuSJuJkw5/Gb4paPGBOkYey1HBi2n7EKriZbXpVgiwNcCWxKbreXSs496/QYDH5TN3NPKCY32Yp8e9QxyEXSVBTc7bLEyl/ZTfcVMcybjDM0qOK+WVJBQuOk/O7PMCTFw+zLlG7XPWVnAz81svLAByXlHo0pNbnlr21Jiz88/bCYuQnd/a5+h0aXIgvhhhwZnh410S3LNH5FaCc5B+nTWCuVJXztOIPN+kT5+o605DFOnbUOsrZaGvG+4mkqQGmj1SuBXpYXwneASHQt4dAn7XHP3enovBaaS9Yk6trr+NcK9voWIfpY72ODkE0iLpJW4kBk05Eb5DtXCdfjwl6uVt6NLNFo+1WSkI4Lnv54nj0mYwgdjSx63ja5egXnlcN4/ilfgbJRs0gsq+G2Sb8KKDT8tkA6+VgZQA7g1yHzz8p0q0Ow4PfhbY/P5nLJBse/3D9G2JdPyeyDCth/0QxEpkVnNnesPhS++WQaz6g31W5LbIU2AO+laYA==;cr/YgPtXC+5zq92niyqLvw=="
 ---

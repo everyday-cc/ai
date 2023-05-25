@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Self-Driving Ubers Coming Soon: Waymo Partnership Could Start This Year"
+    excerpt: "Uber has signed a multi-year partnership with Waymo, the Alphabet-owned autonomous driving technology company, to begin offering self-driving vehicles possibly this year, starting in Phoenix, the companies announced Tuesday. Waymo's self-driving vehicles ..."
+    publishedDateTime: 2023-05-23T19:05:00Z
+    webUrl: "https://www.forbes.com/sites/katherinehamilton/2023/05/23/self-driving-ubers-coming-soon-waymo-partnership-could-start-this-year/"
+    ampWebUrl: "https://www.forbes.com/sites/katherinehamilton/2023/05/23/self-driving-ubers-coming-soon-waymo-partnership-could-start-this-year/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katherinehamilton/2023/05/23/self-driving-ubers-coming-soon-waymo-partnership-could-start-this-year/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646cc55f6e11735320467d31/0x0.jpg?format=jpg&crop=1813,1019,x0,y93,safe&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Uber announces deal with Waymo on self-driving cars"
     excerpt: "Uber has signed a deal with Google's former self-driving car project, Waymo, to offer its vehicles through the ride-hailing app, The Washington Post reported Wednesday. As part of the"
     publishedDateTime: 2023-05-24T17:07:00Z
@@ -96,20 +112,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230525vl205_files/2_2b.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Apple engineer steals secrets on self-driving cars and flees to China, US feds say"
-    excerpt: "A former Apple engineer accused of absconding from the company with trade secrets on self-driving cars fled to China, federal officials reported."
-    publishedDateTime: 2023-05-22T05:08:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/05/22/apple-engineer-steals-secrets-on-self-driving-cars-and-flees-to-china-us-feds-say"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 18
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/22/2084800.JPG"
-        width: 1240
-        height: 852
         isCached: true
   - title: "Waymo, Uber set aside past rift over self-driving car tech to team up on robotaxis in Phoenix"
     excerpt: "Waymo is teaming up with Uber to offer rides and deliver food in robotic cars that triggered a bitter technological dispute between the two companies."

@@ -9,8 +9,8 @@ ampWebUrl: "https://ottawacitizen.com/sponsored/news-sponsored/transforming-the-
 cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/sponsored/news-sponsored/transforming-the-public-sector-with-artificial-intelligence/wcm/ab894dae-ff1c-4784-9a0c-94ba4f8cdb28/amp/"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Ottawa Citizen
@@ -27,42 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Cracking the QR Code with AI to Connect with Customers"
-    excerpt: "Tech Startup RelotiS Uses AI and ML to Build Customer Loyalty, One Package at a Time Wilmington, DE, May 24, 2023 — Product companies use an increasing array of technology … Continue Reading →"
-    publishedDateTime: 2023-05-24T17:35:00Z
-    webUrl: "https://multichannelmerchant.com/press-releases/cracking-the-qr-code-with-ai-to-connect-with-customers/"
+  - title: "Nvidia’s AI, Metaverse Investments Keep Business Humming After Crypto Mining Demand Withers"
+    excerpt: "In March, Nvidia announced an alliance with Microsoft MSFT -0.1% that focuses on bringing the industrial metaverse and AI to enterprises via cloud computing platform Azure. Upon the announcement, Nvidia CEO Jensen Huang reiterated that his goal was to to bring new AI, simulation and collaboration capabilities to every industry."
+    publishedDateTime: 2023-05-23T17:28:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2023/05/23/nvidias-ai-metaverse-investments-keep-business-humming-after-crypto-mining-demand-withers/"
     type: article
     provider:
-      name: Multichannel Merchant
-      domain: multichannelmerchant.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 61
     images:
-      - url: "https://multichannelmerchant.com/wp-content/uploads/2023/05/relotis-product-2-002.jpg"
-        width: 272
-        height: 280
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646cf73f94620200848e4343/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 899
         isCached: true
-  - title: "The AI revolution already transforming education"
-    excerpt: "Schools and universities are using ChatGPT in the classroom, but will it devalue the fundamentals of learning?"
-    publishedDateTime: 2023-05-21T04:00:00Z
-    webUrl: "https://www.ft.com/content/47fd20c6-240d-4ffa-a0de-70717712ed1c"
+  - title: "Can Metaverse Education Survive the Rise of AI?"
+    excerpt: "Generative AI has stolen the metaverse’s thunder as the “it” technology of the moment. What does that mean for the future of immersive technology in the classroom?"
+    publishedDateTime: 2023-05-22T09:03:00Z
+    webUrl: "https://www.techlearning.com/news/can-metaverse-education-survive-the-rise-of-ai"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
-  - title: "The UK public sector is already using AI more than you realise – without oversight it’s impossible to understand the risks"
-    excerpt: "Without more transparency about AI use, it will be difficult for people to challenge biased decisions against them."
-    publishedDateTime: 2023-05-24T17:03:00Z
-    webUrl: "https://theconversation.com/the-uk-public-sector-is-already-using-ai-more-than-you-realise-without-oversight-its-impossible-to-understand-the-risks-203723"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 13
+      name: techlearning
+      domain: techlearning.com
+    quality: 56
     images:
-      - url: "https://images.theconversation.com/files/527233/original/file-20230519-21-a54gyh.jpg?ixlib=rb-1.1.0&rect=22%2C408%2C2974%2C1487&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
+      - url: "https://cdn.mos.cms.futurecdn.net/xWdkazF485EvUDhwXmgqEN-1200-80.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "hkzeD3pOXJMVPVKpYWp1TRZ/793H8g538da/A4sDZLzU25c1aoNXSifmaahYcdL1K1u89QKQMG+R635biYFrEtV6LggYKZhEl9aXR19EyyjyP4RsCFWKpLyEl/nPiAB+Pt3ijyC342Qzw8Hoz0se5b9HqL7VcjrkjMNVo8ywBZciPaCPRT3gyZotEQgbesgo4LRqHwo0NNXxqf3hwtXYYAgAlD29pzLx9uGFbY6YMQ75vfA64q/9UNwjAy/GTVMiuOQliWlFRyRhMm+sn37Ubwsgg/idKbaGococLm6hbLsuqBZ2EPToyDReya1+AnaLJTUtSW/eSktSxdvKrU0cdYYNd9+nDYf1FdMlQyyjhzaJFHG2tJQrW8NZ2OryS970fl/fhTh2PpUUN+ofgO+IFA6zsKNNZVnLM/QhDiYNtJh8NiRrUhJBGWwyuGQDazU9aM4J9m/30C5a3EzIjlgJmQfPVQMFv4bfWucLAa1zghg43t1psjVeme/AeJD0M4/63Ob2Ve1sYvDg7RP4i6glIA==;Gn++nSKDj+DJc4QjdTOrdA=="

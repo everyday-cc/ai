@@ -25,6 +25,17 @@ images:
     height: 633
     isCached: true
 
+related:
+  - title: "How AI can create new opportunities for the worldwide air cargo logistics industry"
+    excerpt: "Empowerment must be combined with continuous learning at all organizational levels. Preparing for AI means a move away from traditional training to learning."
+    publishedDateTime: 2023-05-25T13:42:00Z
+    webUrl: "https://www.scmr.com/article/how_ai_can_create_new_opportunities_for_the_worldwide_air_cargo_logistics_i"
+    type: article
+    provider:
+      name: Supply Chain Management Review
+      domain: scmr.com
+    quality: 11
+
 secured: "/Ev04cFoolumUghjVIuGdugsBgGyptN7K2txnt9IaU5MdHVkmZrWIk6mMRE5tw+YadtJh4WyrHob9tm0rFL37qhpLi+CZsi/r8Qq20Tcfsh5L7kTwey/AukcHOyk+EvadKF+QtLM3SYlTY9GMOuAxTTziyzHSDf32sDz4XGsqXxcmR6g6/6PVTSsUuntAQUJPS6SMYMppun1kYTMgS4X3I+ShW5MmukKfpM1OWnPwLoo3rguV5FDrYZfkfg9PDHWWXPwlOgqGKm/wt/DMT6g99PUlJLt+GVu6ku/fVnEafatNAZ+rylepu+mTkt676DPAqnAVrvuRWN9ORh78gdmqen9J3dA32wehzL7RG4gdf8=;aQvbQd9vktQNnxyPzSb82Q=="
 ---
 

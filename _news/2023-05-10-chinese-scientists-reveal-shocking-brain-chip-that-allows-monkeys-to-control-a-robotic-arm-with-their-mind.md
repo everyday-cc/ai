@@ -5,8 +5,6 @@ excerpt: "SCIENTISTS in China have made a breakthrough in 'Frankenstein' brain c
 publishedDateTime: 2023-05-10T13:29:00Z
 originalUrl: "https://www.thesun.ie/tech/10687685/chinese-scientists-brain-chip-monkey-control-robotic-arm/"
 webUrl: "https://www.thesun.ie/tech/10687685/chinese-scientists-brain-chip-monkey-control-robotic-arm/"
-ampWebUrl: "https://www.thesun.ie/tech/10687685/chinese-scientists-brain-chip-monkey-control-robotic-arm/amp/"
-cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/10687685/chinese-scientists-brain-chip-monkey-control-robotic-arm/amp/"
 type: article
 
 provider:
@@ -18,12 +16,6 @@ topics:
   - AI
   - AI Hardware
 
-images:
-  - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2023/05/OP_LY_NANKAI-UNIVERSITY.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-    width: 1920
-    height: 1080
-    isCached: true
-
-secured: "4S5d517IFfhe9LGwsyZEOnOic2v1Ez6RTJu1LYCK+OwlDSihrWKOCBunsfSb4ZzujlKh3sy5tYv/jwxRkAKGtNzVAnuzxaOyZdKenkuelnFARLH0K+m78/IM/4//KqMJu2tEBdpfUG4AxY9MSmubJf0U+bQM49bIWd1oA+XURjSHmXtYbZpjycvfgjvF8e2EzCDPaGpviIneHIrzv+QUEuym74F+lyTyHjHXMGroKSIwR3+hUnidlfJbxqVp0ZT6LDttcnbGpfDBxoTlJhixyeVtThA8TNtizisiyAgax2YpcCa7mLlNOu1kL/3y/yJ0a9gny73oWHoruw+XygPozK8cTXpMQCyfRoHtW64V3Lg=;x851VRgBW8xzG3xLa0uusQ=="
+secured: "vQPEcgIN1savM58Gcu1ish2av44125tSL4hfkMK5o8K0PQrbIPVOC+HJojp6xjREHrVTnxaROaYkOXsXa9CcRiavYrLDthRp04gsl9vUMdOEygh7QIeF5XiEXPSsU6PXGd1GdqPc3iqh5Wl6wjBy0NvTSxkMZm6yvbCsFBXSxjH9l/Alcoj3wa5Zum19SXxXtplT7IY2lueQslOLuz/FjMfYZ8TtqAko2TDFQj+vTk9D8K74SUZE3Q8StA4yDDFTm8MmolMwocx0V6MRCyv1yTPbRL//1kFqUuUz9kfFHl66WHHhTQM+eqpFJyiAF2o20Kn77pgS0deN2+gRFf9Bh6w3VQvnM1Zaq7a4h1ry1Jw=;6GmDwtleGAc1WL8wSif1vQ=="
 ---
 

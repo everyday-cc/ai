@@ -2,30 +2,32 @@
 category: news
 title: "UK to work with AI firms to ensure society benefits from the new technology"
 excerpt: "British Prime Minister Rishi Sunak and the bosses of leading AI companies OpenAI, Google DeepMind, and Anthropic will work together to ensure society benefits from the transformational technology, they said in a statement after meeting on Wednesday."
-publishedDateTime: 2023-05-24T21:23:00Z
-originalUrl: "https://www.devdiscourse.com/article/technology/2463936-uk-to-work-with-ai-firms-to-ensure-society-benefits-from-the-new-technology"
-webUrl: "https://www.devdiscourse.com/article/technology/2463936-uk-to-work-with-ai-firms-to-ensure-society-benefits-from-the-new-technology"
-ampWebUrl: "https://www.devdiscourse.com/article/technology/2463936-uk-to-work-with-ai-firms-to-ensure-society-benefits-from-the-new-technology?amp"
-cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2463936-uk-to-work-with-ai-firms-to-ensure-society-benefits-from-the-new-technology?amp"
+publishedDateTime: 2023-05-24T21:29:00Z
+originalUrl: "https://www.reuters.com/technology/uk-work-with-leading-ai-firms-ensure-society-benefits-new-technology-2023-05-24/"
+webUrl: "https://www.reuters.com/technology/uk-work-with-leading-ai-firms-ensure-society-benefits-new-technology-2023-05-24/"
 type: article
-quality: 57
-heat: 57
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: devdiscourse
-  domain: devdiscourse.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_34_04_2312796.png?width=1280"
-    width: 1280
-    height: 723
+  - url: "https://www.reuters.com/resizer/9Ff0pYw8o_htWZ9gDHe_OETrgDY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WU6RQETI5NJZJAZFZU4DLOQALE.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
-secured: "dH01svKqhJ7VUt68u1Tg7asEcTWTmHXeDg/EYV+OJlrOV0t3h2bgxua8YpU24JpZrSfD9JITMy5dxKkiSD5aFXORZLmViWe4WRN0tfOlblOxVBdvqOqdWbE5iw0ILO7jn21smfrMooMwXMHD8mS/yW5pugpDgZJUozW23Lb5h+2y42n3BCL9qEaRa9OVbplD5ist/Im7H7EFavzF2X2fp+zSAPNuAXcbjuqkdhR3EBcgp6bX1PuOd1oNa4st6hU9JQaZljYAONClQ06yte9sPDXLJEt8SsUlGMNlvikFn/Qps2Zf2cQ96UH+vreIndGCiLrZqwZCVHvzkfkFERwN+/K96cJ3MprdKSWkFLuZ7fY=;bMK1EubJmplqEBV2ysJhaA=="
+secured: "TF/MztM1TAeTGDZrCL+Ozj0FaAjEeQD7FqbR6etQ6vu6oYzjkii/utUizOl7Tri9LgCNKtnK18pOoCA5snF+Wi1T01UwpiUlGMkTqoC5HwzI14dkVlqG/677lgjNJcNHCXCQOW6wdxK6WsZmS/Q9QSsO1tWb3KlRD4G+Nkbocck71hJUSLyqmiQuKk1CZtsAnkWpC7GZf/qT987+TGThrAcmpsKRencFJWYCkWNypqd9qiVCWA7vJ7Yt3Qa5XdpPmJDZ6mMZgjqCE1eKKZUDPAODRGLTBtudAa4cItSV2nyMK8/hDzV62DNKZBr4zI3mgNCovhda2My7/8I4QtvdCtu6poRXikd+AUy/0qbJHgM=;rzpbvdgHV4IiVOuK502NmA=="
 ---
 

@@ -44,6 +44,36 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "3 new ways generative AI can help you search"
+    excerpt: "Today, we’re starting to open up access to SGE (Search Generative Experience), one of our first experiments in Search Labs."
+    publishedDateTime: 2023-05-25T15:00:00Z
+    webUrl: "https://blog.google/products/search/search-generative-ai-tips/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 89
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/io23_BlogPostHero_Full_size_RUAz0GV.width-1300.jpg"
+        width: 1300
+        height: 541
+        isCached: true
+  - title: "Here’s Why Generative AI Isn’t Coming For Lawyers"
+    excerpt: "We can all learn something by scraping legal information from the internet, but this doesn’t necessarily translate ... answer is analytical AI. Or rather, a combination of the two. Like generative AI, analytical AI is a large language model (LLM)."
+    publishedDateTime: 2023-05-25T14:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/heres-why-generative-ai-isnt-coming-for-lawyers/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/heres-why-generative-ai-isnt-coming-for-lawyers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/25/heres-why-generative-ai-isnt-coming-for-lawyers/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/627ebb248ab29e9de3b015b6/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Red Hat extends OpenShift for the generative AI era"
     excerpt: "IBM's Red Hat business unit announces the expansion of its AI capabilities with the new Red Hat OpenShift AI technology."
     publishedDateTime: 2023-05-24T05:19:00Z
@@ -59,6 +89,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/09/Red-Hat-e1684880569131.jpg?w=1200&strip=all"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Meet Aria: Opera's new built-in generative AI assistant"
+    excerpt: "Aria joins ChatGPT, Facebook Messenger, TikTok, and WhatsApp on the Opera browser sidebar, as the company's own, natively built-in generative AI assistant. The new assistant has access to the internet, so its knowledge is not limited to content before 2021, like the free version of ChatGPT, though the ChatGPT Plus version will differ."
+    publishedDateTime: 2023-05-25T14:49:00Z
+    webUrl: "https://www.zdnet.com/article/meet-aria-operas-new-built-in-generative-ai-assistant/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/meet-aria-operas-new-built-in-generative-ai-assistant/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meet-aria-operas-new-built-in-generative-ai-assistant/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/88280eaa243ed68b15169f1f8e362bcddd6ae1b8/2023/05/25/4f1566bb-6ea0-4367-9b71-4bb0cabb3172/aria-opera.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "What Generative AI Means For Retail"
     excerpt: "We’re only at the start of the generative AI revolution. And we’ve only had a taste of the true impact on retail. But the technology is advancing incredibly fast. It’s why it’s critically important to ensure AI is used responsibly. That means ..."

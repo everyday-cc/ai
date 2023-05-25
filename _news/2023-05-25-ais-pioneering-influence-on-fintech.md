@@ -233,6 +233,15 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 15
+  - title: "SEA fintech Mocasa fosters financial inclusion thru AI-powered credit assessment"
+    excerpt: "The Philippines lags behind its Southeast Asian neighbors when it comes to financial inclusion. About 78% of the country remains unbanked"
+    publishedDateTime: 2023-05-25T12:23:00Z
+    webUrl: "https://manilastandard.net/tech/314334112/sea-fintech-mocasa-fosters-financial-inclusion-thru-ai-powered-credit-assessment.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 14
   - title: "LIBF India joins Fintech Festival India as Knowledge Partner to empower and upskill the banking and finance professionals"
     excerpt: "The London Institute of Banking & Finance India enters the Indian market with the aim to collaborate with corporates, universities and colleges to empower and upskill banking and finance professionals."
     publishedDateTime: 2023-05-24T22:38:00Z

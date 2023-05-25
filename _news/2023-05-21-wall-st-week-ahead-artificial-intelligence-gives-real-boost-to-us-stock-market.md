@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Stock market today: AI excitement yanks tech stocks higher on Wall Street"
+    excerpt: "A monster financial forecast from one of Wall Street’s most influential stocks is helping to yank the stock market higher even as worries worsen about political rancor in"
+    publishedDateTime: 2023-05-25T13:38:00Z
+    webUrl: "https://wgnradio.com/news/business-news/ap-stock-market-today-ai-excitement-yanks-tech-stocks-higher-on-wall-street/"
+    type: article
+    provider:
+      name: WGN Radio
+      domain: wgnradio.com
+    quality: 18
 
 secured: "8A1qa01V55SG0gf/V4470scEGs2SkY5DU9UiOwISBvOUz2MnKt86QD35Xb2XLZcPMOYC8JPQsOBT1oNUxLMNgF3HI8aLF9a9Wj6XnLiirg+WEk1D3tAIjZzcEBEmKro7aY4OBaneVlv7jooW+NAXNtHlChWyXpfQb0banSjowrvCHt3VQq/uc3FX4mc3HHpb/+YoEumDjvtxmjku9/jkbHWrpDVKp4CLz5R37OoyrT728GQO6ZmYcbztxBoLYqto079tnbqQSEwSr7275Rqub6Ul8qtwGqVGk2nThlr86xLCGWWsHLY1NTrkwQ4pshJ+2AbgAdV6A3MBrsOquRoY4JcUE3pHF+WBN5hC92BDgaEqRQ/uU93Fa7cqhwbDNnywYb7j/qWpz54Jo8qpOyYubX4EBeksWi+fWZO5FT+dXyn8RPT7UUylAIfy+vCCe8GfU8N8ErdBBYcW5fjVSriEHrE6jY8pR+34RRehZUlLXcpHVlxRB1GtWOdKWkWPz5AyEOxUT64PsnTYC2Et5+tESg==;83LUA0kUyXmwU14pFSO3og=="
 ---

@@ -34,6 +34,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "15 Surprising Ways Industries May Soon Leverage Generative AI"
+    excerpt: "There’s more to generative AI than writing press blurbs, test questions and memos—indeed, there’s much more to generative AI than writing, period."
+    publishedDateTime: 2023-05-25T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/15-surprising-ways-industries-may-soon-leverage-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Apple Ramps Up Hiring of Generative AI Experts"
     excerpt: "Apple is hiring for at least a dozen new experts in generative artificial intelligence amid rumors that the company is stepping up its work on AI."
     publishedDateTime: 2023-05-22T12:51:00Z

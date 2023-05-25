@@ -7,7 +7,7 @@ originalUrl: "https://www.egyptindependent.com/parliament-to-issue-document-eval
 webUrl: "https://www.egyptindependent.com/parliament-to-issue-document-evaluating-ai-ethics-and-controls-in-egypt/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 864
     height: 486
     isCached: true
+
+related:
+  - title: "The law of artificial intelligence in Egypt.. crippling human creativity"
+    excerpt: "In the near future, artificial intelligence can erase professions whose work is limited to humans, which threatens to increase unemployment rates, as well as produce unexpected misleading business and information, as robots can embody important ..."
+    publishedDateTime: 2023-05-25T15:44:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/ashraf-sallam/the-law-of-artificial-intelligence-in-egypt-crippling-human-creativity-54217/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 38
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "9wxlUNDm3bTqvvsxGTvm4BqAAG15n6sZt2GL7XWD4Qpqf70oBc4RAjg5PoYrKC9B0k+JnWjxXfjy3qzvd41x31PODgm5MG9CMXHlozZO0moAKqd28I120FaYoA52rOx8zYLKoRlHzwwQyRdWvcDlLHmovLyZic5Qc6aVuEbzl8nDVejYyf6XJccNH61RbeuG2CitbYyipeoiEaG3hjKTEglckusG0cbk50s43KeN9lyx71M9KuIOr5AClEiKt109GrJ4/Hbn6Uku7bkSNkp4jKyNCty3j3JEnhdyoRSOqzZlJLMaSpbX6773s0/SKat////pH/Rz6iUdTyCffL2sngwb4pM47OLRoaQDYFvfhWXsnANTyHFAjdF+6kl2hs6qOZ5jYHdMnwAz47IkRn4nRKODdaMtJCseDyROZPU1Ja7q54brVe/7u+I4WUd6UCbEYbWIyv4ppGgbaRpZjOFbdGCn3krtOmLDNLtdIEPdon1IgqUFpI/b+A0X1fv++KN+MfM5c6t1rigLIhgIqofmSA==;nmi0AVpjpL7/S2HmIF1EAw=="
 ---

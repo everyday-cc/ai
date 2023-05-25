@@ -242,6 +242,15 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 15
+  - title: "SEA fintech Mocasa fosters financial inclusion thru AI-powered credit assessment"
+    excerpt: "The Philippines lags behind its Southeast Asian neighbors when it comes to financial inclusion. About 78% of the country remains unbanked"
+    publishedDateTime: 2023-05-25T12:23:00Z
+    webUrl: "https://manilastandard.net/tech/314334112/sea-fintech-mocasa-fosters-financial-inclusion-thru-ai-powered-credit-assessment.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 14
   - title: "Monty Finance highlights global expansion with innovative fintech solutions at Seamless middle east"
     excerpt: "With a commitment to innovation and client-centricity, MyMonty offers an empowering digital banking experience coupled with competitive offers and advanced AI-backed features. As a trusted FinTech enabler, MyMonty leverages its extensive expertise and ..."
     publishedDateTime: 2023-05-23T12:07:00Z

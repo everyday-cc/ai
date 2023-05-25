@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "How AI and Machine Learning Will Transform Your Legal Department"
+    excerpt: "With 80% of executives believing that automation can be applied to any business decision, AI and ML tools are currently the most popular area where business IT departments will invest in 2023."
+    publishedDateTime: 2023-05-25T15:18:00Z
+    webUrl: "https://www.law.com/corpcounsel/2023/05/25/how-ai-and-machine-learning-will-transform-your-legal-department/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 54
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/428/2023/05/Artificial-Intelligence_2-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Dubai announces AI plan to slash traffic jams"
     excerpt: "As such, it ensures that AI models do not make decisions incompatible with the AI principles and ethics set by the Dubai Digital Authority. RTA has trained several Emiratis in leadership, supervisory and technical roles to empower them to analyse data and ..."
     publishedDateTime: 2023-05-21T09:12:00Z

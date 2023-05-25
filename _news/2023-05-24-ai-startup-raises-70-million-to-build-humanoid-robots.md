@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 540
         isCached: true
-  - title: "AI Startup Anthropic Raises $450 Million for Safety-Focused Chatbot"
-    excerpt: "Anthropic, an artificial intelligence startup positioning itself as the builder of a safer kind of chatbot, said it raised $450 million in funding to bolster the development of its AI bot, named Claude. The deal brings the company’s total raised to ..."
-    publishedDateTime: 2023-05-23T14:40:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-23/ai-startup-anthropic-raises-450-million-for-safety-focused-chatbot"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iASVrvag2dgg/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI Startup Figure Raises $70 Million to Build Humanoid Robots"
     excerpt: "(Reuters) - Figure, a startup that wants to build general-purpose humanoid robots, has raised $70 million from investors led by Parkway Venture Capital in its first external round, the company said on Wednesday."
     publishedDateTime: 2023-05-24T10:03:00Z
@@ -120,17 +106,6 @@ related:
         width: 2880
         height: 1620
         isCached: true
-  - title: "AI startup Anthropic raises $450M for safety-focused chatbot"
-    excerpt: "Yet while ChatGPT has faced criticism — and been tweaked — after offering users some concerning results, Anthropic aims to make its chatbot more cautious from the start. Anthropic’s goal is for Claude to be less prone than other chatbots to manipulation that will produce harmful or offensive results."
-    publishedDateTime: 2023-05-23T21:58:00Z
-    webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/"
-    ampWebUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
   - title: "AI startup Figure raises US$70 million to build humanoid robots"
     excerpt: "FIGURE, a startup that wants to build general-purpose humanoid robots, has raised US$70 million from investors led by Parkway Venture Capital in its first external round, the company said on Wednesday (May 24)."
     publishedDateTime: 2023-05-24T10:32:00Z

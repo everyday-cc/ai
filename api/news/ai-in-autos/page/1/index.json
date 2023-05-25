@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-05-25-uber-announces-deal-with-waymo-on-self-driving-cars.md",
-      "title": "Uber announces deal with Waymo on self-driving cars",
-      "excerpt": "Uber has signed a deal with Google's former self-driving car project, Waymo, to offer its vehicles through the ride-hailing app, The Washington Post reported Wednesday. As part of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenews.com.pk/latest/1073568-uber-announces-deal-with-waymo",
-      "originalUrl": "https://www.thenews.com.pk/latest/1073568-uber-announces-deal-with-waymo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenews.com.pk/assets/uploads/updates/2023-05-24/1073568_094330_updates.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thenews.com.pk/amp/1073568-uber-announces-deal-with-waymo",
-      "cdnAmpWebUrl": "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1073568-uber-announces-deal-with-waymo",
-      "publishedDateTime": "2023-05-24T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The News International",
-        "domain": "thenews.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-24-artificial-intelligence-may-be-coming-for-your-job.md",
       "title": "Artificial Intelligence May Be Coming For Your Job",
       "excerpt": "You will need to adapt to the rapid changes brought on by AI by continually educating and upskilling yourself or asking your employer to enroll you in courses.",
@@ -53,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -94,6 +51,58 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-self-driving-ubers-coming-soon-waymo-partnership-could-start-this-year.md",
+      "title": "Self-Driving Ubers Coming Soon: Waymo Partnership Could Start This Year",
+      "excerpt": "Uber has signed a multi-year partnership with Waymo, the Alphabet-owned autonomous driving technology company, to begin offering self-driving vehicles possibly this year, starting in Phoenix, the companies announced Tuesday. Waymo's self-driving vehicles ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/katherinehamilton/2023/05/23/self-driving-ubers-coming-soon-waymo-partnership-could-start-this-year/",
+      "originalUrl": "https://www.forbes.com/sites/katherinehamilton/2023/05/23/self-driving-ubers-coming-soon-waymo-partnership-could-start-this-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646cc55f6e11735320467d31/0x0.jpg?format=jpg&crop=1813,1019,x0,y93,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/katherinehamilton/2023/05/23/self-driving-ubers-coming-soon-waymo-partnership-could-start-this-year/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katherinehamilton/2023/05/23/self-driving-ubers-coming-soon-waymo-partnership-could-start-this-year/amp/",
+      "publishedDateTime": "2023-05-23T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {

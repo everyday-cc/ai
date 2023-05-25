@@ -28,139 +28,322 @@ images:
     isCached: true
 
 related:
-  - title: "3 ways OpenAI says we should start to tackle AI regulation"
-    excerpt: "The blog post outlines three different course of actions that could serve as a good starting point for AI regulation. First, the post calls for there to be some form of a coordinating entity that focuses on the safety and smooth integration of AI technologies into society."
-    publishedDateTime: 2023-05-24T16:15:00Z
-    webUrl: "https://www.zdnet.com/article/3-ways-openai-says-we-should-start-to-tackle-ai-regulation/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/3-ways-openai-says-we-should-start-to-tackle-ai-regulation/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3-ways-openai-says-we-should-start-to-tackle-ai-regulation/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/67ecfca84a21b3d7483897b2bfc190bd1cf398dc/2023/05/24/81259cee-41f2-463b-b6c2-85ec4d9c32ea/gettyimages-1453111695.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "OpenAI-backed robotics firm 1X deploys the world’s first AI robot in the workforce"
-    excerpt: "Robotics start-up 1X which is backed by Sam Altman’s OpenAI has overtaken Elon Musk’s Tesla in deploying the first AI robot in the workforce. The robot named EVE has been reportedly integrated as a security guard in an Android manufacturing site. The robot is reportedly redefining surveillance and security."
-    publishedDateTime: 2023-05-24T07:24:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/openai-backed-robotics-firm-1x-deploys-the-worlds-first-ai-robot-eve-8626164/"
-    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/openai-backed-robotics-firm-1x-deploys-the-worlds-first-ai-robot-eve-8626164/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/openai-backed-robotics-firm-1x-deploys-the-worlds-first-ai-robot-eve-8626164/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 85
-    images:
-      - url: "https://images.indianexpress.com/2023/05/1X-Eve.jpg"
-        width: 1200
-        height: 667
-        isCached: true
-  - title: "OpenAI-backed start-up deploys AI-powered robots in real world; beats Tesla"
-    excerpt: "1X's revolutionary robot is called EVE. In simple terms, EVE is real-life RoboCop. The robot has a head, a face, and two autonomous arms. The company has deployed the robot as security guards in two industrial locations. It can perform a multitude of human-like tasks, including opening doors and windows, fetching objects, packing goods, and more."
-    publishedDateTime: 2023-05-24T13:08:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/openai-backed-start-up-deploys-ai-robot-in-workforce/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 69
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l52220230524175259.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Our quick guide to the 6 ways we can regulate AI"
-    excerpt: "The European Union is finalizing the AI Act, a sweeping regulation that aims to regulate the most “high-risk” usages of AI systems. First proposed in 2021, the bill would regulate AI in sectors such as health care and education."
-    publishedDateTime: 2023-05-22T17:43:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/22/1073482/our-quick-guide-to-the-6-ways-we-can-regulate-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/05/22/1073482/our-quick-guide-to-the-6-ways-we-can-regulate-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/22/1073482/our-quick-guide-to-the-6-ways-we-can-regulate-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/starts-stops-regs1_1.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "AI could be smarter than \"experts\" in 10 years, OpenAI CEO says"
-    excerpt: "Artificial intelligence could surpass the \"expert skill level\" in most fields within a decade — and trying to stop the emergence of \"superintelligence\" is impossible, wrote OpenAI CEO Sam Altman in a Monday blog post."
-    publishedDateTime: 2023-05-23T15:28:00Z
-    webUrl: "https://www.cbsnews.com/news/ai-smarter-than-experts-in-10-years-openai-ceo/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/ai-smarter-than-experts-in-10-years-openai-ceo/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-smarter-than-experts-in-10-years-openai-ceo/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 57
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/16/6e2a6db3-4995-478d-b77e-333347928bdb/thumbnail/1200x630/0ceeaf04ed7393db8923d6c6807303be/altman-gettyimages-1255305979.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Governments race to regulate artificial intelligence tools"
-    excerpt: "EU lawmakers have reached a preliminary deal that could pave the way for the world’s first laws governing the new tech."
-    publishedDateTime: 2023-05-23T11:24:00Z
-    webUrl: "https://www.aljazeera.com/news/2023/5/23/governments-race-to-regulate-artificial-intelligence-tools"
-    ampWebUrl: "https://www.aljazeera.com/amp/news/2023/5/23/governments-race-to-regulate-artificial-intelligence-tools"
-    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2023/5/23/governments-race-to-regulate-artificial-intelligence-tools"
-    type: article
-    provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 57
-    images:
-      - url: "https://www.aljazeera.com/wp-content/uploads/2023/03/2023-03-22T214958Z_1139044039_RC2R3Z9ARM44_RTRMADP_3_OPENAI-BUG.jpg?resize=1920%2C1440"
-        width: 1920
-        height: 1440
-        isCached: true
-  - title: "OpenAI's Altman Wants International Body Akin To Nuclear Watchdog IAEA To Regulate AI"
-    excerpt: "Sam Altman, CEO of the start-up behind the AI chatbot ChatGPT, agreed with members of the Senate on Tuesday on the need to regulate increasingly powerful AI technology. https://t.co/iFjgQBBdwY pic.twitter.com/NNXJykGJMu"
-    publishedDateTime: 2023-05-23T08:32:00Z
-    webUrl: "https://www.ibtimes.com/openais-altman-wants-international-body-akin-nuclear-watchdog-iaea-regulate-ai-3695000"
-    ampWebUrl: "https://www.ibtimes.com/openais-altman-wants-international-body-akin-nuclear-watchdog-iaea-regulate-ai-3695000?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/openais-altman-wants-international-body-akin-nuclear-watchdog-iaea-regulate-ai-3695000?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 52
-    images:
-      - url: "https://d.ibtimes.com/en/full/4438722/illustration-shows-openai-chatgpt-logos.jpg"
-        width: 1200
-        height: 814
-        isCached: true
-  - title: "FlowX.ai raises $35M for its AI-based approach to application integration"
-    excerpt: "“Digital transformation” and AI remain very buzzy terms in the world of enterprise software, and today a startup operating in Romania that’s built a platform that taps into both concepts, and is seeing user traction in the financial sector, has ..."
-    publishedDateTime: 2023-05-22T12:03:00Z
-    webUrl: "https://techcrunch.com/2023/05/22/romanias-flowx-ai-raises-35m-for-its-ai-based-approach-to-application-integration/"
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs."
+    publishedDateTime: 2023-05-25T14:50:00Z
+    webUrl: "https://techcrunch.com/2023/05/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/05/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 46
-  - title: "AI may pull the trigger in war, but it shouldn’t call the shots"
-    excerpt: "Think killer robots. Autonomous weapons ... Although the task of regulating AI might seem intimidating, we should start with core principles. The most vital one is that a human being should always be involved in the decision to use lethal force."
-    publishedDateTime: 2023-05-24T07:06:00Z
-    webUrl: "https://www.bostonglobe.com/2023/05/24/opinion/seth-moulton-ai-autonomous-weapons/"
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "ChatGPT: Can China overtake the US in the AI marathon?"
+    excerpt: "But China could catch up, according to analysts, as AI solutions take years to be perfected. Chinese internet companies \"are arguably more advanced than US internet companies, depending on how you're measuring advancement,\" Kendra Schaefer, head of tech policy research at Trivium China tells the BBC."
+    publishedDateTime: 2023-05-23T21:18:00Z
+    webUrl: "https://www.bbc.com/news/business-65034773"
+    ampWebUrl: "https://www.bbc.com/news/business-65034773.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65034773.amp"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/15E48/production/_129327698_gettyimages-1248931741.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Google to experiment with ads that appear in its AI chatbot in Search"
+    excerpt: "Google detailed its plans for running Search and Shopping ads inside its conversational AI experience in Search, via the recently announced Search Generative Experience (SGE) in the U.S."
+    publishedDateTime: 2023-05-24T02:58:00Z
+    webUrl: "https://techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/"
+    ampWebUrl: "https://techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/Screenshot-2023-05-23-at-12.41.47-PM.jpg?resize=1200,676"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
+    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
+    publishedDateTime: 2023-05-22T16:30:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-ai-guide-to-most-talked-about-technology-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-ai-guide-to-most-talked-about-technology-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-guide-to-most-talked-about-technology-2023-may?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg"
+        width: 470
+        height: 352
+        isCached: true
+  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
+    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
+    publishedDateTime: 2023-05-24T18:30:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-guide-to-technology-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-guide-to-technology-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-guide-to-technology-2023-may?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg"
+        width: 470
+        height: 352
+        isCached: true
+  - title: "ChatGPT and Generative AI in Insurance: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "ChatGPT is the most talked-about technology of 2023 and has piqued the interest of insurance industry leaders."
+    publishedDateTime: 2023-05-22T17:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-ai-insurance-reality-whats-next-hype-how-to-prepare-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-ai-insurance-reality-whats-next-hype-how-to-prepare-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-insurance-reality-whats-next-hype-how-to-prepare-2023-may?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+    images:
+      - url: "https://i.insider.com/6440364f3f6f690018de91ee?width=1200&format=jpeg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Looking at AI, ChatGPT: The possibilities and pitfalls of artificial intelligence"
+    excerpt: "CHICAGO (WLS) -- The man behind ChatGPT testified on Capitol Hill this past week, calling on lawmakers to regulate artificial intelligence. While Sam Altman warned about potential dangers, he also talked about the possibilities, saying \"We are working to ..."
+    publishedDateTime: 2023-05-21T15:15:00Z
+    webUrl: "https://abc7chicago.com/open-ai-what-is-chatgpt-university-of-chicago/13271416/"
+    ampWebUrl: "https://abc7chicago.com/amp/open-ai-what-is-chatgpt-university-of-chicago/13271416/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/open-ai-what-is-chatgpt-university-of-chicago/13271416/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 69
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/10528855_041921-wls-our-chicago-new-img.png"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "AI Startup Anthropic Raises $450 Million for Safety-Focused Chatbot"
+    excerpt: "Anthropic, an artificial intelligence startup positioning itself as the builder of a safer kind of chatbot, said it raised $450 million in funding to bolster the development of its AI bot, named Claude. The deal brings the company’s total raised to ..."
+    publishedDateTime: 2023-05-23T14:40:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-23/ai-startup-anthropic-raises-450-million-for-safety-focused-chatbot"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iASVrvag2dgg/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "ChatGPT-maker warns it might leave EU over planned AI law"
+    excerpt: "He also met Prime Minister Rishi Sunak and the heads of AI companies DeepMind and Anthropic to discuss the technology's risks - from disinformation to national security and even \""
+    publishedDateTime: 2023-05-25T13:11:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-65708114?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-65708114.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65708114.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/96F6/production/_129864683_gettyimages-1490689874.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Meta's ChatGPT rival could make language barriers a thing of the past"
+    excerpt: "This move suggests the company is deeply invested in dominating the AI language translation space, but also encourages collaboration in the field. Normally, speech recognition and text-to-speech AI programs need extensive training on a large number of ..."
+    publishedDateTime: 2023-05-23T11:15:00Z
+    webUrl: "https://www.techradar.com/news/metas-chatgpt-rival-could-make-language-barriers-a-thing-of-the-past"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/iQWK76oepRkaWM2CCpqgVV-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "ChatGPT and Generative AI for Social Media Marketing: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "Many social media marketers are already experimenting with generative AI tools. However, these tools aren't the solution for every scenario."
+    publishedDateTime: 2023-05-24T16:30:00Z
+    webUrl: "https://www.businessinsider.com/chaptgpt-ai-social-media-marketing-reality-whats-next-hype-2023-may"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "Morningstar’s AI chatbot gets investors closer to mostly right answers"
+    excerpt: "It’s a work in progress, but the company’s service called Mo draws on financial information to answer questions quickly without some of the worst traits technology picks up from humans."
+    publishedDateTime: 2023-05-22T10:01:00Z
+    webUrl: "https://chicago.suntimes.com/2023/5/22/23729302/morningstar-ai-chatbot-mo-investor-answers"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
     quality: 39
     images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/8R1zMyNnXVbxeDGJivBszvh18cs=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SHS6YCGMMWM3F5MQQL4DBZ67QI.jpg"
-        width: 506
-        height: 380
+      - url: "https://cst.brightspotcdn.com/dims4/default/da677a9/2147483647/strip/true/crop/700x400+0+0/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FhhfzX25Mw0xF_jKyZEX3-rpSP5o%3D%2F0x0%3A700x467%2F700x467%2Ffilters%3Afocal%28433x156%3A434x157%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24668765%2FJames_Rhodes_of_Morningstar.jpg"
+        width: 1461
+        height: 834
         isCached: true
+  - title: "Is There a UN Role in Artificial Intelligence Chatbot?"
+    excerpt: "Will it take a robot to break that unholy tradition ... of the concerns that the Secretary-General himself has been expressing — the idea that as artificial intelligence develops, it needs to be monitored carefully and the right regulations and standards ..."
+    publishedDateTime: 2023-05-23T07:00:00Z
+    webUrl: "https://www.ipsnews.net/2023/05/un-role-artificial-intelligence-chatbot/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 39
+    images:
+      - url: "https://www.ipsnews.net/Library/2023/05/A-female-robot_2.jpg"
+        width: 630
+        height: 355
+        isCached: true
+  - title: "Red Hat makes Ansible Event-Driven and adds generative AI chatbot"
+    excerpt: "Red Hat presented some much-needed innovation for Ansible at its summit in Boston. One very big change is that Ansible is now Event-Driven. No longer does"
+    publishedDateTime: 2023-05-23T14:47:00Z
+    webUrl: "https://www.techzine.eu/blogs/infrastructure/106386/red-hat-makes-ansible-event-driven-and-adds-generative-ai-chatbot/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/03/coen-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "MY VIEW: AI ate my homework: The future of AI and ChatGPT"
+    excerpt: "\"Back in the day, rather than admitting our laziness, we blamed the dog for eating our homework. If AI becomes our modern-day crutch for being lazy, a bad grade will be the least of our worries.\""
+    publishedDateTime: 2023-05-22T10:26:00Z
+    webUrl: "https://www.bizjournals.com/cincinnati/news/2023/05/22/my-view-future-ai-chatgpt.html"
+    ampWebUrl: "https://www.bizjournals.com/cincinnati/news/2023/05/22/my-view-future-ai-chatgpt.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/cincinnati/news/2023/05/22/my-view-future-ai-chatgpt.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 37
+  - title: "Tech wants AI chatbots to help ease loneliness. Experts are skeptical"
+    excerpt: "For example, for some people who are in a very isolated state and incapable of doing basic prosocial activities, an AI bot could help start a conversation with a human. However, one potential drawback is that some people may start to feel safer or more ..."
+    publishedDateTime: 2023-05-21T20:06:00Z
+    webUrl: "https://www.salon.com/2023/05/21/tech-wants-ai-chatbots-to-help-ease-loneliness-experts-are-skeptical/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 37
+    images:
+      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/05/person_talking_to_chatgpt_logo_1227304735.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Regulators turn to old laws to tackle AI technology like ChatGPT"
+    excerpt: "As generative AI models gain prominence, regulators are delving into existing laws while shaping new regulations to address privacy and safety concerns."
+    publishedDateTime: 2023-05-23T02:42:00Z
+    webUrl: "https://interestingengineering.com/culture/regulators-use-old-laws-to-regulate-chatgpt"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 37
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/22/image/jpeg/I8FKpngLiRzRDTS7G1SVkRzE8lWrtdhcuBlQZvsi.jpg"
+        width: 1920
+        height: 1282
+        isCached: true
+  - title: "AI startup Anthropic raises $450M for safety-focused chatbot"
+    excerpt: "Yet while ChatGPT has faced criticism — and been tweaked — after offering users some concerning results, Anthropic aims to make its chatbot more cautious from the start. Anthropic’s goal is for Claude to be less prone than other chatbots to manipulation that will produce harmful or offensive results."
+    publishedDateTime: 2023-05-23T21:58:00Z
+    webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/"
+    ampWebUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
+  - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
+    publishedDateTime: 2023-05-22T17:30:00Z
+    webUrl: "https://www.businessinsider.com/chaptgt-ai-financial-services-reality-hype-whats-next-prepare-2023-may"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+  - title: "With artificial intelligence growing popular, here's what to know about how it works"
+    excerpt: "Generative artificial intelligence like ChatGPT and DALL-E can generate text, images and even audio. Here are the basic terms to know."
+    publishedDateTime: 2023-05-21T09:02:00Z
+    webUrl: "https://www.news-leader.com/story/news/local/2023/05/21/with-ai-growing-popular-heres-a-basic-guide-to-learn-more/70218643007/"
+    type: article
+    provider:
+      name: Springfield News-Leader
+      domain: news-leader.com
+    quality: 32
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/05/12/PSPR/6fa187e2-411c-4d82-b9cf-48c7c5be8c66-AH1X0079.jpeg?auto=webp&crop=4708,2649,x0,y239&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "In a Reminder of AI's Limits, ChatGPT Fails Gastro Exam"
+    excerpt: "He said the recent gush of papers showing ChatGPT passing other medical assessments might be overshadowing the fact that this technology is not ready for regular clinical use. \"You can define a threshold how you want it and say [ChatGPT] passed it,"
+    publishedDateTime: 2023-05-22T15:12:00Z
+    webUrl: "https://www.medpagetoday.com/gastroenterology/generalgastroenterology/104618"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 19
+  - title: "I asked ChatGPT where it'd put Brightline stop on Treasure Coast; here's what AI bot said"
+    excerpt: "Like many of you, I’m still trying to figure it all out. I recently completed some training in AI and journalism ethics. The other day I was motivated to use perhaps the most well-known AI application, or chat bot, ChatGPT, which can be found online at ..."
+    publishedDateTime: 2023-05-23T00:50:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/columnists/laurence-reisman/2023/05/12/ai-chatgpt-says-where-brightline-should-put-station-on-treasure-coast/70180635007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 10
+  - title: "Public officers allowed to use ChatGPT and other AI, but must take responsibility for work: MCI"
+    excerpt: "Public officers have been told not to feed generative AI tools with sensitive information. Read more at straitstimes.com."
+    publishedDateTime: 2023-05-23T12:14:00Z
+    webUrl: "https://www.straitstimes.com/tech/public-officers-allowed-to-use-chatgpt-and-other-ai-but-must-take-responsibility-for-work-mci"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 7
+  - title: "ChatGPT-powered Wall Street: The benefits and perils of using artificial intelligence to trade stocks and other financial instruments"
+    excerpt: "Artificial Intelligence-powered tools, such as ChatGPT, have the potential to revolutionize the efficiency, effectiveness and speed of the work humans do. And this is"
+    publishedDateTime: 2023-05-21T13:30:00Z
+    webUrl: "https://www.krqe.com/health/studies-research-findings/chatgpt-powered-wall-street-the-benefits-and-perils-of-using-artificial-intelligence-to-trade-stocks-and-other-financial-instruments/"
+    type: article
+    provider:
+      name: KRQE Blogs
+      domain: krqe.com
+    quality: 0
 
 secured: "rIqAPcLNGkZ8OLPLkiaDlJbZgwmPxXKSRMAjJggXnFB23GMDb+HsO9lzQS53Pfxwewfn+1qBO4uq2Z+Gc80MsHmkpR465WFewvSdzBnbYYlQOjfU2PUSYJ0q1wRuAl2EYDOdmwT77EpQd7qxIpgw1AGf6AxSDlzUBMXVE4Rwle+WvEW7W5izsUXGfcZbNGMxgecnrQpx0QG83b9WfkBYQSyYjWi73j9gR8eibvFAhGraIOTsi0jE8yGnKCQ8lCc00IjalB9WZBe14+ANtTITJuQ4d2vjg/YnHLXBBv8gru+idOPTtkxPonm+tUzrMzaSOZx+HDZ4Vi39VzZIAWO5LsT4LyhC9g5xJUwKq+Bb3nI=;YzRLZeMSMBVAXZJOTRdQsQ=="
 ---

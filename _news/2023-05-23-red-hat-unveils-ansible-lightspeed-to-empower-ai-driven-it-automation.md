@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/red-hat-unveils-ansible-lightspeed-to-e
 webUrl: "https://venturebeat.com/ai/red-hat-unveils-ansible-lightspeed-to-empower-ai-driven-it-automation/"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: VentureBeat
@@ -33,20 +33,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
-  - title: "Red Hat makes Ansible Event-Driven and adds generative AI chatbot"
-    excerpt: "Red Hat presented some much-needed innovation for Ansible at its summit in Boston. One very big change is that Ansible is now Event-Driven. No longer does"
-    publishedDateTime: 2023-05-23T14:47:00Z
-    webUrl: "https://www.techzine.eu/blogs/infrastructure/106386/red-hat-makes-ansible-event-driven-and-adds-generative-ai-chatbot/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/03/coen-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "P6L1sayqToSMvGpgvh89sTREPJQ1qeJX+y+BuAGYa121RIPKc8IJAS93GKrLyDaZfUWDo+tnzO+xHQDud/QcvQGk4Fp7mV2zCXgyGPaO/vPRGtPbeJkwI6ay7kGyO7Ejm++puBXANWou3ZsJL4IfFtR//nLEltMeoK07EXJDIOiYLL/oSrae/VxZzl3u4Mlp3Tt0ttFx9fB8oHbnXr0j3AkvoRn9Yl2f9s5ndaLs9qfVff8WkmJrxU4C0XoVMw0GWKLkUOIUBWasNQ96+K2+Dfe+4HudoQJxFMEKbdtcxVQwPQkZVMmckuPimwVMEyP7DfmHdekX/EqNPPbehG20LlPzdR3r9N7epob2j19Fngd3g2Ab1gAr6wxr9PGtk2EDxpUkY0tDvW50h4fkmchUzJa5ZqIYQ8gglDs2i6+8SPQ15wmqPdjUpCAZPFQtK1LrY6p2PUSruIrNUupRQrN5XUfKnq0d8x4OwNLE56xra11zI3AiJO+AX94eeoBD3wIYa3NwwpiLHKdJXCYsXTrzgQ==;e0jPSTLloT4fLvKf1qesqA=="
 ---
