@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32563354"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32563354"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 816
     height: 544
     isCached: true
+
+related:
+  - title: "Nvidia stock soars toward all-time high as record revenue forecast backed by ‘killer app’ of AI"
+    excerpt: "Nvidia Corp. executives predicted record revenue well beyond anything the company has experienced Wednesday, pushing shares toward record territory."
+    publishedDateTime: 2023-05-25T02:53:00Z
+    webUrl: "https://www.marketwatch.com/story/nvidia-stock-soars-toward-all-time-high-as-ai-push-leads-executives-to-predict-record-revenue-b0207c10?mod=careers"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-stock-soars-toward-all-time-high-as-ai-push-leads-executives-to-predict-record-revenue-b0207c10"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-stock-soars-toward-all-time-high-as-ai-push-leads-executives-to-predict-record-revenue-b0207c10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://images.mktw.net/im-386224/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "/9kI8mNZdTbiLlFnxEGn8wzy43Vm+IN620l/OH+ycMggX9FYf07nli3CGjMAWWl81F7CWzLqqNJXBwy7ukM2NwUtnqGKYS9NUzXuPWdfeHZgCwIHFKQO7dsGroUp9Okiqwxf4rMkleqpG94uns9+BqhqlAA3ierHOiqWLyDgTn8+2t/l+zOFTEWoGXVeJ5ta4wveCc8RGFAchPQzMGwwOBB6Bc8LHzwWlXMLC7RJUYWp+B7FM4Fp3zsrmPpxjrmV8CM4KUIRXjpqhYUPNnK2c5nTnky6PApTGoBn48FM3xr+6FNd0vdDZ2g7vd8UsyvQrVfO4e6RX8yV4uYyJKXno/ClHyc6B10XjO2J0qUYLkg=;+AvaalTBzIJWj6G0VxOB/g=="
 ---

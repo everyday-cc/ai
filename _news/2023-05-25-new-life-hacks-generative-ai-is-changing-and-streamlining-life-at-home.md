@@ -2,26 +2,26 @@
 category: news
 title: "New Life Hacks? Generative AI is Changing and Streamlining Life at Home"
 excerpt: "While some of the cartoon’s more fantastical inventions may still be light years away, many are already here, like vacuuming robots ... the tech startup that launched ChatGPT, reached 100 million users at an unprecedented rate, pushing AI to the ..."
-publishedDateTime: 2023-05-24T21:02:00Z
-originalUrl: "https://www.nbclosangeles.com/news/national-international/new-life-hacks-generative-ai-is-changing-and-streamlining-life-at-home/3159340/"
-webUrl: "https://www.nbclosangeles.com/news/national-international/new-life-hacks-generative-ai-is-changing-and-streamlining-life-at-home/3159340/"
-ampWebUrl: "https://www.nbclosangeles.com/news/national-international/new-life-hacks-generative-ai-is-changing-and-streamlining-life-at-home/3159340/?amp=1"
-cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/national-international/new-life-hacks-generative-ai-is-changing-and-streamlining-life-at-home/3159340/?amp=1"
+publishedDateTime: 2023-05-25T02:59:00Z
+originalUrl: "https://www.nbcnewyork.com/news/tech/new-life-hacks-generative-ai-is-changing-and-streamlining-life-at-home/4363673/?n=%5CL"
+webUrl: "https://www.nbcnewyork.com/news/tech/new-life-hacks-generative-ai-is-changing-and-streamlining-life-at-home/4363673/?n=%5CL"
+ampWebUrl: "https://www.nbcnewyork.com/news/tech/new-life-hacks-generative-ai-is-changing-and-streamlining-life-at-home/4363673/?n=%5CL&amp=1"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/tech/new-life-hacks-generative-ai-is-changing-and-streamlining-life-at-home/4363673/?n=%5CL&amp=1"
 type: article
 quality: 59
 heat: 69
 published: false
 
 provider:
-  name: NBC Los Angeles
-  domain: nbclosangeles.com
+  name: NBC New York
+  domain: nbcnewyork.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://media.nbclosangeles.com/2023/05/ai_home_v2.jpg?quality=85&strip=all&resize=1200%2C675"
+  - url: "https://media.nbcnewyork.com/2023/05/ai_home_v2.jpg?quality=85&strip=all&resize=1200%2C675"
     width: 1200
     height: 675
     isCached: true
@@ -37,6 +37,6 @@ related:
       domain: siliconangle.com
     quality: 15
 
-secured: "YW8UXL576waQIjpR6yoDezbHnVbQt0IscyiAaf2SvSVXAZtTVLN7fdDavxwkY3/TS3pjty9+/Iki3p8vNYSRED4+Iyc3XXCgsbFpm+F3H2FY2zLbQ8TvVKHe9vs0sHMpceR+CvNDdGuL4otf/xzra1Va1r8y4newiOX9hF5nNSYx1VnYHRQZocTtqyfm8WqEV8H1/LjWPDukhal8EtoqODYzL1mv7dk9eTT6taJvYiA9mSJMGC5a72oE4ZIgB9Xw6KR+gLlCJ8pGF7n9GTHFxfk7tCnjoQbitD8GQzasGB5iIW/79p/VRUjCPXXu5iS40jetzfRZUkIsjkp1OHUST1i8jNJIpjsB0W1aaTA2TQfE5ETfaCv9nb4WjxaaL5JbsMuLh8e12f7ndfmRigfuJWK/H9RWbAWIxS6c8owa35WhwTF8Y16Ahn2DNypaM+qL36BfRoTXG4/U4IdAP55DB+KNh97l5SNCC1taHwyQj/MX/95x26kt7KkOB4S1dehcIbK9OODveYyrI371dMpYWQ==;oWJaGa8B9kJNa3ag0VwUeQ=="
+secured: "KdEZ5OujLAfUBxKnkJOQ0Fpf5tQOcmu7q4pXdK12YtQ1JX3Z8iIkYHt8g9gnVa/nfBUBDQDkadcBYR9KOZu3/OsUYR4dxcO3RhzmM8009nCJYzAUlnIBhewp6c32vgMMqIrNtlQBFJ2+z1TQM2mFbUMPuEYSaO8b29Z1DrJiO4Wx8qLoM6Nx+YDZGIgdzMMnahAVihcZjto4O9evW0Znl9fLEkclYgB4Nw0mq60/GJ0a7tI/lk85iTvNBkgEHOEbxSvSktVuZ0Sg2c3cP6nM+ihAbv3zj4VC9VS+nQ7Fose5NvlsjtcD+NtXQ5mxLOONWh5NqzQkYMvOjuBI7l1vfFiuFIO8dkG+mLGEumJCVqA=;AXdCevz5qvortYTmVKw8tQ=="
 ---
 

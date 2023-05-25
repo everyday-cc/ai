@@ -86,6 +86,20 @@ related:
         width: 768
         height: 723
         isCached: true
+  - title: "Nvidia shares soar nearly 30% as sales forecast jumps and AI booms"
+    excerpt: "Reuters Graphics Nvidia has strained to meet demand for its AI chips, with Tesla Inc (TSLA.O) Chief Executive Officer Elon Musk, who is reportedly building out an artificial-intelligence startup, earlier this week telling an interviewer that the graphics ..."
+    publishedDateTime: 2023-05-24T22:13:00Z
+    webUrl: "https://www.reuters.com/technology/nvidia-forecasts-second-quarter-revenue-above-estimates-2023-05-24/?ref=upstract.com"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/C7nnSF94XZ_rbz4KRQHvfHGRt2w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KF4I2HVIS5OOJJSWS5G2D6PFXQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Nvidia Sales Crush Wall Street Estimates Thanks To AI Boom, Shares Spike Over 20%"
     excerpt: "The professional vizualization segment, which includes Omniverse Cloud, a service running in Microsoft Azure for the development and deployment of industrial metaverse applications, posted $295 million in sales, down 53% from a year ago. “I think in AI ..."
     publishedDateTime: 2023-05-24T21:38:00Z
@@ -200,6 +214,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "fOHLU0U+BAfzX79Z+27E4HifPYxEPltJr5f0OXeiY4ygFOStayJRe/XbcnjyyU6BUol5CebzqtuQP44YEBvUj/b9CUHZVOrtChS0npQX0nFDWLVdtJ5OgykXDc7yo3wJFSiKPlqMMPBZR9WSPz9vd49vYbCGXsANr1Pc6cw9Uy3YdySizmf0j0h4D6/J+Vy3CVJRYOaUP0RKReeTl7CYYCc3h2ko0I2RlKXRvMi8BXPavo/Ng9syTaQlBpZoHvegpRz+m1D+LyOIn39tVh7CoYK8cGXVeSZj7uLVUQpE1EdJ+XDPfOEkZOvvsv+skWELcJhUGX2ONDBu+pDUjmGjiu99xviNd6OWKrSZ4Kjb254=;rrxgj0wEmlwcBn9WC+mVlw=="
+secured: "rNhsepH9R5WfdorNGMEpwRrlgiowBl48z8hZz4rCqctAOl0sBojppaCYvr0FAIygy/VHhGeq2nQmlHCLhfuqt8EPfUpdA/G9q8r+Cq+igAgFrmWVHOB6KKMEAhyXeuceT/zkvsrueJyzoOUlZChu98kOODROUsT59Ql/AMe8RL5L4yLxlAmcDzomc4kZqSmLPmPWbM4w4BPJ0e4X/oD8c36emdpfXu5vAuGASEE+mWpVqHdAfghcXS7SP+YPI21skyD2Cb7WU8QCkBlfRYTd1tueJlWp4qnksuvMRQh5OwzPtZMCJIwDOrq4xbwRX0m+ke31cYnCNi7cZusX7ZIohKT+540sE4KnnfF6WPDLbQu72UhVc1S57DuYrxq2NMcPBMIy1tVZZu/XgpXkeQL3iwWsUyqYRfe2OwkKooH8t6nWS2/f8yjWfWyyTxXnLI2UTsCV5E0dPZmuhoJtuCQgttsd5GB4zsznz+0IMfuZGXBePn1aQb+3q+9yR844NHOfDITyP29GAh3xOOJ5KlnG6A==;sQhq3rNyfqjrZwAantVJvw=="
 ---
 

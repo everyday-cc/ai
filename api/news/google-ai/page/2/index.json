@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-04-ceo-of-googles-deepmind-says-we-could-be-just-a-few-years-from-ai-that-has-human-level-intelligence.md",
+      "title": "CEO of Google’s DeepMind says we could be ‘just a few years’ from A.I. that has human-level intelligence",
+      "excerpt": "DeepMind CEO Demis Hassabis at the 2023 WSJ's Future of Everything Festival. While artificial intelligence like OpenAI’s ChatGPT promises to revolutionize every aspect of the economy, the true holy grail for A.I. researchers—artificial general ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2023/05/03/google-deepmind-ceo-agi-artificial-intelligence/",
+      "originalUrl": "https://fortune.com/2023/05/03/google-deepmind-ceo-agi-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-1487212398-e1683147294372.jpg?w=840",
+          "width": 840,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2023/05/03/google-deepmind-ceo-agi-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/03/google-deepmind-ceo-agi-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-05-03T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-use-a-pre-trained-model.md",
       "title": "Use a pre-trained model",
       "excerpt": "In this tutorial you'll explore an example web application that demonstrates transfer learning using the TensorFlow.js Layers API. The example loads a pre-trained model and then retrains the model in the browser. The model has been pre-trained in Python on ...",
@@ -1368,50 +1420,6 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-05-tensorflow-lite-on-a-commodore-64.md",
-      "title": "TensorFlow Lite – On A Commodore 64",
-      "excerpt": "TensorFlow is a machine learning and AI library that has enabled so much and brought AI within the reach of most developers. But it’s fair to say that it’s not for the less powerful computers.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2022/07/06/tensorflow-lite-on-a-commodore-64/",
-      "originalUrl": "https://hackaday.com/2022/07/06/tensorflow-lite-on-a-commodore-64/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2022/07/tf-c64-featured.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
         "Google AI",
         "AI"
       ]

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-wants-to-plug-ai-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-wants-to-plug-ai-skills-gap-in-finance-sector/"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -76,6 +76,15 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Singapore-headquartered AI Credit Modeling FinTech finbots.ai"
+    excerpt: "Accel-backed finbots.ai, a Singapore headquartered B2B SaaS FinTech today announced signing Sathapana Bank—Cambodia's leading commercial bank—as their latest client. With this, finbots.ai's fast growing client case has extended to 9 countries across APAC and MEA markets."
+    publishedDateTime: 2023-05-24T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-singapore-headquartered-ai-credit-modeling-fintech-finbotsai-transform-/2023/05/24/9820875.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "AEg6mLyXcDapcYdVYCHbi727dSobDCp2AWuvDi+rwgzvpv5VXzhXo2qYTg6W3izlA8H22RzDi9vcnZm+pIELrc9bV/Ht07M/YGWcCf1XGOaApDyjPytI8O+pyl0qDlAK0F4whscYA8dDPkkmwLAcO8+SyD134rjYONI4cNxGM9Zet9WfD0ZKDYPejBuo1/pmBEoqHF/YABaQgiFfo8vz26djS8FjVrFxxL5nIR9lrNpM1rRgfDT2PgHDkhw0jK/6yVWtNSyOKi9Ysz4DK+pc3FTF0gl5jNaz2sWX5PW1m2JEdYCXNabgZep+ek5q38agWSFZ8U2RMvo4q1y33JDdh/II7P56zarvt4IdQy4rRqRn7VY2111RjXjF+bpnNz2yfNAdBHEZzplnDCv4XNARTmcINjhGkXedzn3TqugSr298I3XO7WmuZCs0/9VGl65ZW5e0pZoQsKVY9afXTG3IKI4fWgfWngCC5P4KTTaSR6NZAdiOurQ+pj6OTuId9/Kmz4OTzRmkzv1b0Z7hxWAOkA==;sNrjgAysMLkgHgRVXz5tzw=="
 ---

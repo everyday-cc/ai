@@ -22,17 +22,17 @@ topics:
 related:
   - title: "New Life Hacks? Generative AI is Changing and Streamlining Life at Home"
     excerpt: "While some of the cartoon’s more fantastical inventions may still be light years away, many are already here, like vacuuming robots ... the tech startup that launched ChatGPT, reached 100 million users at an unprecedented rate, pushing AI to the ..."
-    publishedDateTime: 2023-05-24T21:02:00Z
-    webUrl: "https://www.nbclosangeles.com/news/national-international/new-life-hacks-generative-ai-is-changing-and-streamlining-life-at-home/3159340/"
-    ampWebUrl: "https://www.nbclosangeles.com/news/national-international/new-life-hacks-generative-ai-is-changing-and-streamlining-life-at-home/3159340/?amp=1"
-    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/national-international/new-life-hacks-generative-ai-is-changing-and-streamlining-life-at-home/3159340/?amp=1"
+    publishedDateTime: 2023-05-25T02:59:00Z
+    webUrl: "https://www.nbcnewyork.com/news/tech/new-life-hacks-generative-ai-is-changing-and-streamlining-life-at-home/4363673/?n=%5CL"
+    ampWebUrl: "https://www.nbcnewyork.com/news/tech/new-life-hacks-generative-ai-is-changing-and-streamlining-life-at-home/4363673/?n=%5CL&amp=1"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/tech/new-life-hacks-generative-ai-is-changing-and-streamlining-life-at-home/4363673/?n=%5CL&amp=1"
     type: article
     provider:
-      name: NBC Los Angeles
-      domain: nbclosangeles.com
+      name: NBC New York
+      domain: nbcnewyork.com
     quality: 59
     images:
-      - url: "https://media.nbclosangeles.com/2023/05/ai_home_v2.jpg?quality=85&strip=all&resize=1200%2C675"
+      - url: "https://media.nbcnewyork.com/2023/05/ai_home_v2.jpg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true

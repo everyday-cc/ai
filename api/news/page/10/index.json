@@ -2,6 +2,188 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-05-17-from-pixels-to-pavement-generative-ai-use-cases-in-automotive-industry.md",
+      "title": "From Pixels To Pavement: Generative AI Use Cases In Automotive Industry",
+      "excerpt": "In other milestones, it has taken only six months for GPT-3 based models to increase from 1 to 300,000, even as MarketsnMarkets estimates market size to burgeon from",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sarwantsingh/2023/05/17/from-pixels-to-pavement-generative-ai-use-cases-in-automotive-industry/",
+      "originalUrl": "https://www.forbes.com/sites/sarwantsingh/2023/05/17/from-pixels-to-pavement-generative-ai-use-cases-in-automotive-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6464857496d4b02236c2ff1a/0x0.jpg?format=jpg&crop=1231,577,x24,y82,safe&width=1200",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sarwantsingh/2023/05/17/from-pixels-to-pavement-generative-ai-use-cases-in-automotive-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sarwantsingh/2023/05/17/from-pixels-to-pavement-generative-ai-use-cases-in-automotive-industry/amp/",
+      "publishedDateTime": "2023-05-17T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-the-case-for-a-code-of-conduct-for-ai-in-healthcare.md",
+      "title": "The case for a code of conduct for AI in healthcare",
+      "excerpt": "The rise of generative AI has prompted an AI ethicist to propose a framework to mitigate the risks of using the ever-developing tech in the healthcare space. This coincides with the chief executive of ChatGPT’s OpenAI urging US legislators to start regulating AI for the safety of humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/",
+      "originalUrl": "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/4f3d9da/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F14%2Fd0%2F9be4e9844471ab60db09eb3130d5%2Fdepositphotos-198133002-l.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true",
+      "publishedDateTime": "2023-05-17T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision.md",
+      "title": "Future of AI in e-commerce: Transforming data with ML and computer vision",
+      "excerpt": "While a lot has been discussedin areas of face recognition, graphical capabilities, some of the following use cases in e-Commerce can greatly benefit from computer vision, image processing. As a customer you want to know the best offers on your favourite ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/",
+      "originalUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/",
+      "publishedDateTime": "2023-05-16T23:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-nigeria-election-the-mystery-of-the-altered-results-in-disputed-poll.md",
+      "title": "Nigeria election: The mystery of the altered results in disputed poll",
+      "excerpt": "When we compared an image from this account to the television pictures of Dr Ariaga using Amazon Rekognition software, we achieved a match of 97.2%, indicating a very high probability they're the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/65163713.amp",
+      "originalUrl": "https://www.bbc.co.uk/news/65163713.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/A39C/production/_129748814_nigeria_officials_epa.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/65163713.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/65163713.amp",
+      "publishedDateTime": "2023-05-16T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-meet-my-new-co-pilot-in-the-doctors-office-artificial-intelligence.md",
       "title": "Meet my new co-pilot in the doctor's office: Artificial Intelligence",
       "excerpt": "The more I learn about the growing uses of Artificial intelligence in health care, the more convinced I become about its essential place in not just the lab or radiology suite but also in the doctor’s office. It can help usher in a world where tests and ...",
@@ -1035,188 +1217,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-global-artificial-intelligence-in-healthcare-service-market-2023-2030-by-sizeprecisionreportsco.md",
-      "title": "Global Artificial Intelligence In Healthcare Service Market 2023-2030 by Size|Precisionreports.co",
-      "excerpt": "May 16, 2023 (The Expresswire) -- \"Artificial Intelligence In Healthcare Service Market\" Reports recently released an executive data report that focuses",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-service-market-2023-2030-by-sizeprecisionreportsco-2023-05-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-service-market-2023-2030-by-sizeprecisionreportsco-2023-05-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-to-make-ai-work-for-national-security-invest-in-humans-too.md",
-      "title": "To make AI work for national security, invest in humans too",
-      "excerpt": "Artificial intelligence is rapidly developing across the globe. The United States needs human-centered artificial intelligence for national security. However, it also needs AI-centered humans.",
-      "sourceUrl": null,
-      "webUrl": "https://thebulletin.org/2023/05/to-make-ai-work-for-national-security-invest-in-humans-too/",
-      "originalUrl": "https://thebulletin.org/2023/05/to-make-ai-work-for-national-security-invest-in-humans-too/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thebulletin.org/wp-content/uploads/2023/05/artificial-intelligence-brain-think-illustration.jpeg",
-          "width": 1920,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thebulletin.org/2023/05/to-make-ai-work-for-national-security-invest-in-humans-too/amp/",
-      "cdnAmpWebUrl": "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2023/05/to-make-ai-work-for-national-security-invest-in-humans-too/amp/",
-      "publishedDateTime": "2023-05-16T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bulletin of the Atomic Scientists",
-        "domain": "thebulletin.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-sanctuary-ai-unveiles-general-purpose-humanoid-robot.md",
-      "title": "Sanctuary AI unveiles general purpose humanoid robot",
-      "excerpt": "Sanctuary AI announces the launch of its first human-scale, bipedal robot called Pheonix, powered by Carbon AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/sanctuary-ai-unveiles-general-purpose-humanoid-robot/",
-      "originalUrl": "https://www.therobotreport.com/sanctuary-ai-unveiles-general-purpose-humanoid-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-the-ethics-of-ai-in-seo-and-why-humans-are-still-just-better.md",
-      "title": "The ethics of AI in SEO and why humans are still (just) better",
-      "excerpt": "By prioritizing transparency, accountability and fairness and investing in worker training, we can ensure that AI is used in beneficial ways.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/the-ethics-of-ai-in-seo-and-why-humans-are-still-just-better/",
-      "originalUrl": "https://venturebeat.com/ai/the-ethics-of-ai-in-seo-and-why-humans-are-still-just-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-search_search-engine_connected_network_1400992296-e1665532643283.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/the-ethics-of-ai-in-seo-and-why-humans-are-still-just-better/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-ethics-of-ai-in-seo-and-why-humans-are-still-just-better/amp/",
-      "publishedDateTime": "2023-05-16T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

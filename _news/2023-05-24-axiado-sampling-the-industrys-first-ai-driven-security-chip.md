@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/23/axiado-sampl
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/23/axiado-sampling-the-industrys-first-ai-driven-security-chip/amp/"
 type: article
 quality: 121
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/646d3315192d6cfc7da62c39/0x0.png?format=png&width=1200"
         width: 936
         height: 380
+        isCached: true
+  - title: "How AI is reshaping the computer chip industry"
+    excerpt: "Case in point, Nvidia, the computer chip designer, has seen its stock price more than double since the start of the year, to about $300 a share. The Silicon Valley-based company now has a bigger market capitalization than Visa,"
+    publishedDateTime: 2023-05-25T03:28:00Z
+    webUrl: "https://www.marketplace.org/2023/05/24/how-ai-is-reshaping-the-computer-chip-industry/"
+    ampWebUrl: "https://www.marketplace.org/2023/05/24/how-ai-is-reshaping-the-computer-chip-industry/amp/"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2023/05/24/how-ai-is-reshaping-the-computer-chip-industry/amp/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 76
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/05/GettyImages-1468619875-e1684962917211.jpg?fit=740%2C512"
+        width: 740
+        height: 416
         isCached: true
   - title: "Axiado Samples World's First AI-Driven Security Processors"
     excerpt: "COMPUTEX 2023 — Axiado Corporation, an AI-enhanced hardware cybersecurity company, today introduced the AX3000 and AX2000 trusted control/compute units (TCUs), the world's first fully integrated AI-driven hardware security platform solutions designed to help detect cybersecurity and ransomware attacks on next-generation servers and infrastructure elements in cloud datacenters,"

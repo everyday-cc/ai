@@ -29,47 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "We Put Google’s New AI Writing Assistant to the Test"
-    excerpt: "I used Duet AI to send emails and plan my wedding. Its writing can be stuffy and stereotyping—but it’s a glimpse of the future of productivity apps."
-    publishedDateTime: 2023-05-20T10:00:00Z
-    webUrl: "https://www.wired.com/story/googles-duet-ai-writing-assistant-review-test/"
+  - title: "Here’s what’s missing from the White House’s National AI Strategy"
+    excerpt: "The White House announced new National AI Strategy efforts. Here's what's missing, according to AI policy expert Sarah Myers West."
+    publishedDateTime: 2023-05-25T03:39:00Z
+    webUrl: "https://venturebeat.com/ai/heres-whats-missing-from-the-white-houses-national-ai-strategy/"
+    ampWebUrl: "https://venturebeat.com/ai/heres-whats-missing-from-the-white-houses-national-ai-strategy/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/heres-whats-missing-from-the-white-houses-national-ai-strategy/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://media.wired.com/photos/6467cb66f2de86183cf5b3b2/191:100/w_1280,c_limit/Google-Duet-Hands-On-Business-Business-1468320082.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "Wordtune vs Grammarly: Competing AI Writing Assistants"
-    excerpt: "Assisted Communication for Authenticity In today’s digital landscape, crafting eloquent text has become necessary for professionals, students, and casual writers alike. As a result, AI-powered language tools such as Wordtune and Grammarly have emerged as indispensable resources in the writing process."
-    publishedDateTime: 2023-05-24T07:08:00Z
-    webUrl: "https://techbullion.com/wordtune-vs-grammarly-competing-ai-writing-assistants/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/05/Depositphotos_652094916_S-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Cursed New AI Calls Debtors to Hassle Them for Money"
-    excerpt: "The rise of AI coincides with all-time debt highs — and one startup is cashing in by having AI robocalls do way more collections than humans."
-    publishedDateTime: 2023-05-21T16:16:00Z
-    webUrl: "https://futurism.com/the-byte/ai-debt-collection-robocalls"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 37
-    images:
-      - url: "https://wp-assets.futurism.com/2023/05/ai-debt-collection-robocalls.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-76.png?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 750
         isCached: true
 
 secured: "pbQmbg6tnLt7w4GIyomTkbzFdoh1RBbtXvM/nlZCEnyywMibygHs/onbYtym4UFLsLilGz/vsmsmI0FQARFLCgA5gYTtP8hhwCd1tEWOdUqmLOTlgDBL8u/Rasc1kb4N+L280E4fBBv1kOvOBAT5umwidfBcpLVAfc1nNT4SqGyhcTWsVBAEfCf0BEFs2184nVk9HoSg7GwRDHGmRsu1vqwwQijlT6iMnqw9l9SQ/3KkiWh4OJMgCrPfy2/kwIiRBg/Rq1y5Vo9XRIsrCVYHTJGuDaz07Bo9Do+r7bYYqVy4RqExTCkKYMRuGyB0DRbi6Wp5txJTEX9vmr5V2g8OZCB5a6vy891LYQHBIICBqbI=;k9vyC3Mt6He8ab1GOFNRlQ=="

@@ -83,6 +83,20 @@ related:
         width: 768
         height: 723
         isCached: true
+  - title: "Nvidia shares soar nearly 30% as sales forecast jumps and AI booms"
+    excerpt: "Reuters Graphics Nvidia has strained to meet demand for its AI chips, with Tesla Inc (TSLA.O) Chief Executive Officer Elon Musk, who is reportedly building out an artificial-intelligence startup, earlier this week telling an interviewer that the graphics ..."
+    publishedDateTime: 2023-05-24T22:13:00Z
+    webUrl: "https://www.reuters.com/technology/nvidia-forecasts-second-quarter-revenue-above-estimates-2023-05-24/?ref=upstract.com"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/C7nnSF94XZ_rbz4KRQHvfHGRt2w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KF4I2HVIS5OOJJSWS5G2D6PFXQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Nvidia Sales Crush Wall Street Estimates Thanks To AI Boom, Shares Spike Over 20%"
     excerpt: "The professional vizualization segment, which includes Omniverse Cloud, a service running in Microsoft Azure for the development and deployment of industrial metaverse applications, posted $295 million in sales, down 53% from a year ago. “I think in AI ..."
     publishedDateTime: 2023-05-24T21:38:00Z

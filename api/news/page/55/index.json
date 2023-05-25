@@ -2,6 +2,188 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2023-04-21-up-fintech-talks-up-tigergpt-as-new-investor-tool.md",
+      "title": "UP Fintech Talks Up TigerGPT As New Investor Tool",
+      "excerpt": "AI chatbots are likely to have their limitations, at least in the short term, such as the inability to provide highly personalized investment advice. But UP Fintech's new chatbot will only be able ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4595592-up-fintech-tigr-talks-up-tigergpt-as-new-investor-tool",
+      "originalUrl": "https://seekingalpha.com/article/4595592-up-fintech-tigr-talks-up-tigergpt-as-new-investor-tool",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-call-me-deepbrain-google-smushes-deepmind-and-brain-ai-teams-together.md",
+      "title": "Call Me 'DeepBrain': Google Smushes DeepMind and Brain AI Teams Together",
+      "excerpt": "Talk about a meeting of the minds. In another bid to add some NOx to its sputtering AI development, Google announced late Thursday that it plans to combine its two major AI teams, once kept ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/google-merges-deepmind-and-brain-ai-teams-1850361645",
+      "originalUrl": "https://gizmodo.com/google-merges-deepmind-and-brain-ai-teams-1850361645",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f77701d51f83ddbec03a5cd3e1b81cd9.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-microsoft-azure-may-have-lead-in-generative-ai-but-aws-not-far-behind-baird.md",
+      "title": "Microsoft Azure may have lead in generative AI, but AWS not far behind: Baird",
+      "excerpt": "\"While Azure may have the initial upper hand ... Last week, Amazon (AMZN) unveiled a new suite of tools for generative AI, known as Bedrock, which are designed to give customers the ability ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3958778-microsoft-azure-lead-in-generative-ai-aws-not-far-behind-baird",
+      "originalUrl": "https://seekingalpha.com/news/3958778-microsoft-azure-lead-in-generative-ai-aws-not-far-behind-baird",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/471179856/image_471179856.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-how-ibm-is-innovating-for-a-more-sustainable-future.md",
+      "title": "How IBM is innovating for a more sustainable future",
+      "excerpt": "IBM has been building out an ecosystem of technologies and partnerships to help clients optimize their core operations across assets, infrastructure and supply chains.\nThe post How IBM is innovating for a more sustainable future appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-ibm-is-innovating-for-a-more-sustainable-future/",
+      "originalUrl": "https://www.ibm.com/blog/how-ibm-is-innovating-for-a-more-sustainable-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/textile-factory-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-21T07:13:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-what-are-the-four-main-types-of-artificial-intelligence-find-out-how-future-ai-programs-can-change-the-world.md",
       "title": "What are the four main types of artificial intelligence? Find out how future AI programs can change the world",
       "excerpt": "Over the last few years, the rapid development of artificial intelligence has taken the world by storm as many experts believe machine learning technology will fundamentally alter the way of life ...",
@@ -1012,196 +1194,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-womans-bowel-cancer-spotted-by-artificial-intelligence.md",
-      "title": "Woman's bowel cancer spotted by artificial intelligence",
-      "excerpt": "The Colo-Detect study uses AI to flag up areas of concern during colonoscopies A woman who was part of a study using artificial intelligence (AI) to detect bowel cancer is free of the disease after it was found and removed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-tyne-65336477.amp",
-      "originalUrl": "https://www.bbc.com/news/uk-england-tyne-65336477.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/9ED6/production/_129426604_4cb71ac6-7d85-4663-b06d-3dcb18ff33a6.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-tyne-65336477.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-tyne-65336477.amp",
-      "publishedDateTime": "2023-04-20T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-science-news-roundup-scientists-identify-mind-body-nexus-in-human-brain-virgin-orbit-blames-dislodged-filter-for-january-launch-failure-and.md",
-      "title": "Science News Roundup: Scientists identify mind-body nexus in human brain; Virgin Orbit blames 'dislodged filter' for January launch failure and more",
-      "excerpt": "The steep drop in fresh capital has left many companies in a vulnerable state, while the failure of Silicon Valley Bank, a leading provider of venture debt, has added to the challenge, a report by venture capital (VC) firm Space Capital said on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2425050-science-news-roundup-scientists-identify-mind-body-nexus-in-human-brain-virgin-orbit-blames-dislodged-filter-for-january-l",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2425050-science-news-roundup-scientists-identify-mind-body-nexus-in-human-brain-virgin-orbit-blames-dislodged-filter-for-january-l",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-2023-to-2030-natural-language-processing-market-upcoming-trends.md",
-      "title": "2023 to 2030 Natural Language Processing Market Upcoming Trends",
-      "excerpt": "Natural Language Processing Market” Are a Collection of Information and Analysis Obtained From Diverse Sources to",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-to-2030-natural-language-processing-market-upcoming-trends-2023-04-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-to-2030-natural-language-processing-market-upcoming-trends-2023-04-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-automated-machine-learning-automl-market-research-2023-2030.md",
-      "title": "Automated Machine Learning (AutoML) Market Research, 2023-2030",
-      "excerpt": "Automated Machine Learning (AutoML) Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-research-2023-2030-2023-04-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-research-2023-2030-2023-04-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T20:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -52,6 +52,22 @@ related:
         width: 936
         height: 380
         isCached: true
+  - title: "How AI is reshaping the computer chip industry"
+    excerpt: "Case in point, Nvidia, the computer chip designer, has seen its stock price more than double since the start of the year, to about $300 a share. The Silicon Valley-based company now has a bigger market capitalization than Visa,"
+    publishedDateTime: 2023-05-25T03:28:00Z
+    webUrl: "https://www.marketplace.org/2023/05/24/how-ai-is-reshaping-the-computer-chip-industry/"
+    ampWebUrl: "https://www.marketplace.org/2023/05/24/how-ai-is-reshaping-the-computer-chip-industry/amp/"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2023/05/24/how-ai-is-reshaping-the-computer-chip-industry/amp/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 76
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/05/GettyImages-1468619875-e1684962917211.jpg?fit=740%2C512"
+        width: 740
+        height: 416
+        isCached: true
 
 secured: "TA+LnzJBjJj6hCSPOnIBl4GPu4jeUzpc+dmTDfoZSVQ/SwVrmd1tkTMC4gS+alEdWgKZYndDJ8ta0eNnW/XcEAiTDG4RvuI3kwLPPL2U13L/FIzQNRBafRpBVxM4rfmsbZgFFWXMFrWPjG4t8KGoYB9nBtwTJr5PN0cOHK+a3detHrKWxr7OXjxi57j0MY2W9FPPN+ecXwAHIn5HhW0kOSEkFlAMFt+Fv4TuTq5yrfBfZnioRC0EQDfUqSgUjtdBh4HGhfaH+16w2PDWFgsUBbPIAow6U8e2tk0XTasyTDFtpTKp6aXExwtg+2HVvG+yQG91UsI5VopIF9bj6DGjw3R+5U/7kIGg9LRzVbHOc7A=;mzzXrXl7Y054v5SpAIqXyA=="
 ---

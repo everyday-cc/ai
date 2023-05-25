@@ -71,6 +71,15 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Singapore-headquartered AI Credit Modeling FinTech finbots.ai"
+    excerpt: "Accel-backed finbots.ai, a Singapore headquartered B2B SaaS FinTech today announced signing Sathapana Bank—Cambodia's leading commercial bank—as their latest client. With this, finbots.ai's fast growing client case has extended to 9 countries across APAC and MEA markets."
+    publishedDateTime: 2023-05-24T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-singapore-headquartered-ai-credit-modeling-fintech-finbotsai-transform-/2023/05/24/9820875.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "A24J170M1G3N334hYPVtd1I4mPmSdKDl4cAUYOhwUA16cQlmY4HlePPxGF13HdRgEMXFGKP0OBalPHIVKD7O0F9Rpr9EIsxgAXXbrSGdyUgm5uWoT5PIgJAwBlbPQYMhFndYN06y8jOWNPqPAOApEOCJHFWxpqxf0oe5nX5IHLj9heAgQcZ03BOShsCuWrL82DzCjGuimgoS7qLjw0TyEisGcVGWz1t5tMAJTlWZQ1KBPTDXKk5dfJw6Xe2ToqUYwGxftYy9HnfFrZ8n3VSodDrvIvE2F9EoHS0asqv5JJahrwqzhmOBzlbvpZYs3LQdZxW0WF6jMRtb9LaEk8SlMsF0sSzJ2g+RapH06YlWyc9OVQLjQyNptlZ/IB1ehqa2EyIRPM2jt4iJDyoXok/nBf6vvo5/v2ZtTT8GbLCec81wcJ9jN+hbvjPsG1otA6qf+qLNVuT/Upiv3A3cizRdRLNTOJTARE9emNmCzs7GE5bpa24KJ2QHzf7Ke+tHpj3dmOzg8xFMWO1Dx2LcXpLMAA==;kyCVKBrBdG9SU0l5L2PVZQ=="
 ---

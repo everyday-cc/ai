@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Deci Selected as Best Edge AI Developer Tool in 2023's Edge AI and Vision Product of the Year Awards"
-    excerpt: "Deci awarded top honors by a panel of independent industry experts TEL AVIV, Israel, May 24, 2023 /PRNewswire-PRWeb/ -- Deci, the deep learning company harnessing AI to build AI, today announced that"
-    publishedDateTime: 2023-05-24T15:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32555398/deci-selected-as-best-edge-ai-developer-tool-in-2023s-edge-ai-and-vision-product-of-the-year-award"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32555398"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32555398"
+  - title: "Edge AI and Vision Alliance™ Announces 2023 Vision Tank Start-Up Competition Winners"
+    excerpt: "ProHawk Technology Group and GMAC Intelligence Recognized for Innovation and Excellence in Perceptual AI and Computer Vision SANTA CLARA, Calif., May 24, 2023 /PRNewswire/ -- The Edge AI and Vision Al"
+    publishedDateTime: 2023-05-25T01:56:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32566145/edge-ai-and-vision-alliance-announces-2023-vision-tank-start-up-competition-winners"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32566145"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32566145"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 44
+    quality: 50
     images:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "Edge AI And Vision Alliancetm Announces 2023 Vision Tank Start-Up Competition Winners"
+    excerpt: "ProHawk Technology Group and GMAC Intelligence Recognized for Innovation and Excellence in Perceptual AI and Computer Vision SANTA CLARA,"
+    publishedDateTime: 2023-05-25T03:13:00Z
+    webUrl: "https://menafn.com/1106309851/Edge-AI-And-Vision-Alliancetm-Announces-2023-Vision-Tank-Start-Up-Competition-Winners"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?286595"
+        width: 273
+        height: 250
         isCached: true
   - title: "Edge AI and Vision Alliance™ Announces 2023 Edge AI and Vision Product of the Year™ Award Winners"
     excerpt: "The Awards celebrate the innovation and achievement of the industry's leading companies that are enabling and developing products incorporating edge AI and computer vision technologies. \"With the accelerating pace of innovation in visual and edge AI ..."

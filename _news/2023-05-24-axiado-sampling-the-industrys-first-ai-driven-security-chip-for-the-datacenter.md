@@ -48,6 +48,22 @@ related:
         width: 936
         height: 380
         isCached: true
+  - title: "How AI is reshaping the computer chip industry"
+    excerpt: "Case in point, Nvidia, the computer chip designer, has seen its stock price more than double since the start of the year, to about $300 a share. The Silicon Valley-based company now has a bigger market capitalization than Visa,"
+    publishedDateTime: 2023-05-25T03:28:00Z
+    webUrl: "https://www.marketplace.org/2023/05/24/how-ai-is-reshaping-the-computer-chip-industry/"
+    ampWebUrl: "https://www.marketplace.org/2023/05/24/how-ai-is-reshaping-the-computer-chip-industry/amp/"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2023/05/24/how-ai-is-reshaping-the-computer-chip-industry/amp/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 76
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/05/GettyImages-1468619875-e1684962917211.jpg?fit=740%2C512"
+        width: 740
+        height: 416
+        isCached: true
   - title: "Axiado Samples World's First AI-Driven Security Processors"
     excerpt: "COMPUTEX 2023 — Axiado Corporation, an AI-enhanced hardware cybersecurity company, today introduced the AX3000 and AX2000 trusted control/compute units (TCUs), the world's first fully integrated AI-driven hardware security platform solutions designed to help detect cybersecurity and ransomware attacks on next-generation servers and infrastructure elements in cloud datacenters,"
     publishedDateTime: 2023-05-23T19:20:00Z
