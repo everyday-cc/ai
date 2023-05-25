@@ -57,6 +57,22 @@ related:
         width: 1199
         height: 848
         isCached: true
+  - title: "Microsoft aims to win the AI app race with three big advantages"
+    excerpt: "At Build, Microsoft showed off its efforts to extend its AI-powered app ecosystem and plugin framework. But this is no easy race to win."
+    publishedDateTime: 2023-05-24T16:12:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/"
+    ampWebUrl: "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 106
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-75.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Microsoft and Intel collaborate on AI for Windows 11 PCs0 0"
     excerpt: "This design allows for optimizing segment-relevant performance while reducing power consumption. Intel said Meteor Lake's AI accelerators on the CPU and GPU provide improved performance for running AI models efficiently, enabling a wide range of AI ..."
     publishedDateTime: 2023-05-24T11:34:00Z
@@ -152,22 +168,6 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/07/10/artificial-intelligence-698122_1280-100698891-large-100932024-large.jpg?auto=webp&quality=85,70"
         width: 1199
         height: 848
-        isCached: true
-  - title: "Microsoft aims to win the AI app race with three big advantages"
-    excerpt: "At Build, Microsoft showed off its efforts to extend its AI-powered app ecosystem and plugin framework. But this is no easy race to win."
-    publishedDateTime: 2023-05-24T16:12:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/"
-    ampWebUrl: "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-75.png?w=1200&strip=all"
-        width: 1200
-        height: 750
         isCached: true
   - title: "Microsoft’s AI reaches Indian villages"
     excerpt: "Jugalbandi, a chatbot built in collaboration by Microsoft, is showing signs of progress in redefining information access for villagers in India."
@@ -738,6 +738,15 @@ related:
       name: Mint
       domain: livemint.com
     quality: 42
+  - title: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI"
+    excerpt: "SymphonyAI announced today its first generative AI software application that integrates Microsoft Azure OpenAI Service. Sensa Copilot provides sophisticated AI assistance to financial crime ..."
+    publishedDateTime: 2023-05-22T06:44:00Z
+    webUrl: "https://www.news-journal.com/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai/article_fb132855-6c1f-5110-aaa7-6a5ec18f6a18.html"
+    type: article
+    provider:
+      name: Longview News-Journal
+      domain: news-journal.com
+    quality: 41
   - title: "Microsoft Build 2023: Day 2 features sessions across AI copilot, Microsoft Azure, more"
     excerpt: "After an impactful opening, day 2 of the developer-focused event features sessions across AI copilot experience, building cloud-native systems, utilizing Microsoft Azure to its full potential and more."
     publishedDateTime: 2023-05-24T02:49:00Z
@@ -824,8 +833,8 @@ related:
     quality: 35
   - title: "Canary Speech Accelerates AI Speech Analysis Technology with Microsoft Cloud for Healthcare Integration"
     excerpt: "Digital vocal biomarker innovator integrates clinical-grade technology providing real-time speech analysis on Microsoft Cloud for Healthcare. PROVO, Utah, May 24, 2023 /PRNewswire/ -- Canary Speech, Inc."
-    publishedDateTime: 2023-05-24T20:43:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/24/9820780.htm"
+    publishedDateTime: 2023-05-24T23:40:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/24/9820780.htm"
     type: article
     provider:
       name: TMCnet

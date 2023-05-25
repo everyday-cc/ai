@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-t
 ampWebUrl: "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/"
 type: article
-quality: 104
+quality: 106
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-75.png?w=1200&strip=all"
@@ -728,6 +729,15 @@ related:
       name: Mint
       domain: livemint.com
     quality: 42
+  - title: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI"
+    excerpt: "SymphonyAI announced today its first generative AI software application that integrates Microsoft Azure OpenAI Service. Sensa Copilot provides sophisticated AI assistance to financial crime ..."
+    publishedDateTime: 2023-05-22T06:44:00Z
+    webUrl: "https://www.news-journal.com/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai/article_fb132855-6c1f-5110-aaa7-6a5ec18f6a18.html"
+    type: article
+    provider:
+      name: Longview News-Journal
+      domain: news-journal.com
+    quality: 41
   - title: "Microsoft Build 2023: Day 2 features sessions across AI copilot, Microsoft Azure, more"
     excerpt: "After an impactful opening, day 2 of the developer-focused event features sessions across AI copilot experience, building cloud-native systems, utilizing Microsoft Azure to its full potential and more."
     publishedDateTime: 2023-05-24T02:49:00Z
@@ -828,8 +838,8 @@ related:
     quality: 35
   - title: "Canary Speech Accelerates AI Speech Analysis Technology with Microsoft Cloud for Healthcare Integration"
     excerpt: "Digital vocal biomarker innovator integrates clinical-grade technology providing real-time speech analysis on Microsoft Cloud for Healthcare. PROVO, Utah, May 24, 2023 /PRNewswire/ -- Canary Speech, Inc."
-    publishedDateTime: 2023-05-24T20:43:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/24/9820780.htm"
+    publishedDateTime: 2023-05-24T23:40:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/24/9820780.htm"
     type: article
     provider:
       name: TMCnet
@@ -881,6 +891,6 @@ related:
       domain: microsoft.com
     quality: 24
 
-secured: "ygDjoaeGN77P99DVIxrM+ri57cJsaYn/8FsM+xBjxq2wjeju74uVGw/XUgoi6/ISXDurL3LT8/KRkt53YIarOlH26JUfa0XqdewDHhHElDBajnWe+I+IIXdTUPixNiU5Rv6qsPkmNvKPk7PRnGC1zikx9J8Jz33MXu5Y1hdvucmNbQV7OY9puXhLcyP+RyD6Xc753Teo/h4jvUAhtbnJaKX4fHUiMDM7ctatXThlLShjGMo474bJBy19PGHdcWizCBaAfBpuqgWaf+IQbtrDMt7SYshlaCJGEV8J2Ba3d8D2JXA1vjO78Ny2vjazlo+ZEGjUq6RkyAjqJ5Gv0ohTDPrKNITLaNBzF6dqdWJHJMc=;wGSGtpsxf7aSaj9Yk3DBCw=="
+secured: "JYer/3PXSErexPrirsu9qiNuQlsHLwEuP332Iwueewe29G/tbmbyvnvlIFSn5QJLzkGNZYm3Sq+Bu3GRAfyw5KBorCTGU7I92R+O+DMEGXiG49NnMA6HyFTTQ2UMOST9glyo8B7YyGs+UziHgqpubJ+aPBH/WCD5LXSBP7DyVKiqWDSoYe6hiD1LfRvuP8+CWZtNOXk7HjvAU0F5CBZdTD0MlD3yYWudNVwX3ZrMV2ihVSHKP3UL+gtkVGQXbU/vMer+BBWR2xZHziYb5lsF2jfnP0l9IRQ9SyoQyaGVRRKmS6mQmgxljMMc0xbHHcXhuy9WEB66rWsQSdiJr8bqiIZ5r9FAFOZcElqmQhZPJVSn8AxNZYKOxKfjxlaQEmWlBzcvUOvzsCvcrv+EVReR77hy9Lk63mCMI8Jw/Wb7j541anpICywRvdkAy0pP7lBdvT6UVpA1vM/HhUuQmT1LaXHNvbpAvyGWGC3rj1Zcx0iFC6qoEITwUOrLaqRrKB8DBx553Go7qFQ+vBQfTGRV6A==;OFdrWw9oCBPXOtxdwJhl2Q=="
 ---
 

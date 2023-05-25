@@ -1,31 +1,31 @@
 ---
 category: news
 title: "White House unveils new efforts to guide federal research of AI"
-excerpt: "The White House on Tuesday announced new efforts to guide federally backed research on artificial intelligence as the Biden administration looks to get a firmer grip on"
-publishedDateTime: 2023-05-23T18:30:00Z
-originalUrl: "https://thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/"
-webUrl: "https://thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/"
-ampWebUrl: "https://thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/amp/"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/amp/"
+excerpt: "The U.S. government and private sector in recent months have begun more publicly weighing the possibilities and perils of artificial intelligence."
+publishedDateTime: 2023-05-23T23:53:00Z
+originalUrl: "https://www.wifr.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/"
+webUrl: "https://www.wifr.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/"
+ampWebUrl: "https://www.wifr.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/?outputType=amp"
+cdnAmpWebUrl: "https://www-wifr-com.cdn.ampproject.org/c/s/www.wifr.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/?outputType=amp"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: WIFR
+  domain: wifr.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://thehill.com/wp-content/uploads/sites/2/2023/05/646d4436e3d464.95529234.jpeg?w=1280"
-    width: 1280
-    height: 853
+  - url: "https://gray-wifr-prod.cdn.arcpublishing.com/resizer/HFjZW82nJd0xsXQkE1id3Ol6gCc=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/GCXTVNGWWRFAPKJQ7ASY3RGRBA.jpg"
+    width: 800
+    height: 450
     isCached: true
 
-secured: "z+Uts6elOdKpthEe1GWBAF2mxj+gYb7OoOXAprye/veq2Du7Zjd+4MucuLBxOgKrnYJzxYpGKudzWVLo9YaE/jSErjwcmCJY9Han+z7xFEE3iXn9enVsOpam35M69j9eXMF2mG6tJoWSett8iWFhI2BC2ph9vb49RFG1Fn8iceIvK1tC3ZEfsPOe9ZM/1JqY/XfQt2gFVgEejJp5I6nPeGCyUpzqVoN8TbDakt76t9etEdaFxCe7N0BUuM0eniz/fkE89M5yG4VOYbhnDbuTe2Onq/7b0zUbR7Znxp3YPfahuAlHjfNfWNZwTA7IdBWOIMz3xKuPOjD9BKnOVq+gaPEf8FN+FIwnzMO1bw3YmRv0M7NzoiNqEjF5pp3oelTUsY4/KHQccUxyI8uqS2pacYCdlWqRe2wIYGl1GgDSXjvrnwH/m+m+GR5vJ7FSco3E6/oveD2GP3zgmKLlpT4bvgY+bqWXk/qewmE7fQg0ywYmP4njU/no4wOXMVcv5bhUTmo3y5vlkfa2skVAVvMcTA==;05M77FtsFO+04zNUJLTZxw=="
+secured: "wJ9Bb66mwOkEV+qgc9MrN8KlnpbioL0sIH3O+ld3m0CUrhN8I4/m5lwahLGtA89H7jYsqSt3nH1nD/itFIeMNivEDhti9wKcm0U74BcDZZxptVraAgc4tVybQbLPgkJ1stu/J7Nkicmywbpv7F5NNFzoCSAl4fJv97oyKFVXPXDGFFIis8qe5ioGA7zO3bZ7w2CZLaUmxbi6HLY9KjeRa37TnWLwOaxgShbV7I0ptmmPp0zHoev1fyIdEycOo0tB/dUwDol2yRUSw6aF0YSFIFZy2XAGD03YvkXuV+PTk810mKgLeLhT65LEpr+au+4ftCy2k4ZHRsLvHz7QVfjmmffqz7HNQaOD6C4b8Y+BQuA=;w7AtaWrUcvskW/cPp/MO3w=="
 ---
 

@@ -36,6 +36,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 16
+  - title: "LIBF India joins Fintech Festival India as Knowledge Partner to empower and upskill the banking and finance professionals"
+    excerpt: "The London Institute of Banking & Finance India enters the Indian market with the aim to collaborate with corporates, universities and colleges to empower and upskill banking and finance professionals."
+    publishedDateTime: 2023-05-24T22:38:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230524/4077172.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 9
 
 secured: "MrRgXvXO1/7noGqqWSg7/43lANvu2YmmBI+pjHuhp3pFkegf4TDfT6omL5Ynsb45l9g/h11t4hL6z/sm7dJyvmXxwXIfpceHMNIB8i4O+yOMNw7hMdod9HJVYDxnlrlU9clGheO746CMfLfxeqTyd+pmO5FUPiJTVnaeutaDFjqnwhAe7t4mgOwrSMW4wFBiWZqrXmB2Rul+x6QMdSdgr8co5GEozV1zdKoG38E7wpjfBE7MR6xqykOJ3BlQpMkAH47ZYBxYaPoVaubSRjo5me+5SRjsW1Ks3P0V7Ia0w7CYNIJVVHzRnuE17s/73wlyrJXYf0Y9ppla3KT/yRZHh+zhkaeC15om0XX8tpwa8zE=;qadaEdn8VWSRqBC8CQDHqg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/will-ai-cause-mass-unemploymen
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/will-ai-cause-mass-unemployment-what-history-says-about-technology-and-jobs-3cd01d82"
 type: article
 quality: 84
-heat: 107
+heat: 104
 published: true
 
 provider:

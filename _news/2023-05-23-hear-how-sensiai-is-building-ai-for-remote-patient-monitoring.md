@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/23/hear-how-sensi-ai-is-building-ai-f
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/hear-how-sensi-ai-is-building-ai-for-remote-patient-monitoring/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/never-use-ai-americans-detail-much-use-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives.amp"
 type: article
 quality: 86
-heat: 116
+heat: 117
 published: true
 
 provider:

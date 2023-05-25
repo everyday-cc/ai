@@ -90,6 +90,45 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nvidia Stock Surges As Generative AI Frenzy Boosts Sales"
+    excerpt: "Nvidia's stock price surged Wednesday after the company said a generative AI spending frenzy is boosting revenue."
+    publishedDateTime: 2023-05-24T23:08:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-stock-surges-as-generative-ai-frenzy-boosts-sales"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 56
+    images:
+      - url: "https://www.crn.com/resources/027e-1760b1bd867a-fdfae1545ede-1000/jensen_huang_nvidia.jpeg"
+        width: 648
+        height: 432
+        isCached: true
+  - title: "Nvidia Shares Leap As AI Trend Drives Demand For Chips"
+    excerpt: "according to the chip maker. \"The computer industry is going through two simultaneous transitions - accelerated computing and generative AI,\" Nvidia founder and chief Jensen Huang said in an earnings release. \"Our entire data center family of products is ..."
+    publishedDateTime: 2023-05-24T22:39:00Z
+    webUrl: "https://www.barrons.com/news/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips-d730c10c"
+    ampWebUrl: "https://www.barrons.com/amp/news/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips-d730c10c"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips-d730c10c"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 54
+  - title: "Nvidia Shares Soar 28% As Demand Surges For AI Chips"
+    excerpt: "Nvidia shares rocketed in after hours trading after the chipmaker forecast current-quarter revenue more than 50 per cent above analyst expectations, saying it has boosted supply to meet surging demand for its AI chips."
+    publishedDateTime: 2023-05-24T23:47:00Z
+    webUrl: "https://www.channelnews.com.au/nvidia-shares-soar-28-as-demand-surges-for-ai-chips/"
+    type: article
+    provider:
+      name: ChannelNews Australia
+      domain: channelnews.com.au
+    quality: 54
+    images:
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2023/05/nvidia.png"
+        width: 1779
+        height: 1150
+        isCached: true
   - title: "Why Nvidia Stock Is THE Only Way to Play AI Right Now"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI is driving a wave of innovation worldwide. It empowers human creativity,"
     publishedDateTime: 2023-05-23T11:20:00Z
@@ -114,6 +153,6 @@ related:
         height: 300
         isCached: true
 
-secured: "8eIZxCCc3OU9faUsk8tki5T4iPd50FQ53HAI4wJxTH3wNFM7pjvZpDhOBjhpLTL8x2oMz9JZZiXlunb1K0/l/ooOoK1XueiBoCrrug5LTVOKlwuPIbx7OADbOc7uWSlkhPqP/RhkDBpUQ6ZxdX4ighVXZPf6bnhyWdXtH0CeBBllb9WELTV5RbbqVq+xfek9KCaPIonc4Vm+fI2GdarEqQw0mUJj6otLFb2vrvllLeeht+WJz+4ijK6QFnqVLlD9h0a3J134ZTLybCsLDOTA+QAz6lmHwgMa88IUTl/YV682GncGH0A6I5+BUXkMXYvpHlQVX1FBLKVnpQgpTdiH0X1b+lpu7kAZtCZYMgYsVhA=;+Mv2RLTmsofH6SCMR+KSYQ=="
+secured: "2jibNsGaMZdSMMH+oOIgMIsKoRHdugwrPYEmQjAr/An471YAAQ4Y3qm/Fc0dC1wBbuB3kRTrMiGDsSrnODIVEFz25w6Ak9ujIe8HE3qzNE5/Sifv+Ix0zzqqyQxyXc9asQolMIYFIZZgtKE/jADSbNeqSX1kNXZ6Dm65PA/ZVSDYosoJpWrV7ouRlgDlVVZWppMqNwFSF7m2w4ioE4k0xqV3jH5AmeQS2zWOvRdG9Cbu4qT5dCtyIb0EyLcI0CcICglvzH4Syy/kVveO9uSIWSsQlRnE9bshpC6P5YYjIGBxAFHhfVZMLxyVHTjwC/DryRUbMk63IcejS9zYgSHk5Vu7pfiE9KTDT0ZnlI6+TOfAAg47xYxKKd+EzxCpxGgSW/43AIMtlPfTPRiaWuIWiODczHiNtWZE5NWlK6ff2RlgItdszqHVEwHo+XVCbr9p8baL6YfXfWRulT49uk+1MHTUMoXsaEUN3deAKh4k/gRkRk5I7ePGFk9+12o1W/ysof2YKSgitTb/yMziIOh6Zw==;2zu8nkhL2/ohWzatYd8/4g=="
 ---
 

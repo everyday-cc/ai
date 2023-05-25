@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicsforu.com/press-releases/targeting-ai-comput
 webUrl: "https://www.electronicsforu.com/press-releases/targeting-ai-computer-vision-innodisk-launches-new-camera-module-series"
 type: article
 quality: 52
-heat: 64
+heat: 62
 published: false
 
 provider:

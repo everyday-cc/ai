@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/23/sequoia-indias-surge-backs-ai-powe
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/sequoia-indias-surge-backs-ai-powered-video-creation-platform-gan-ai-in-5-2m-funding/amp/"
 type: article
 quality: 79
-heat: 119
+heat: 120
 published: true
 
 provider:
