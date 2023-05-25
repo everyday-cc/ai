@@ -2,9 +2,9 @@
 category: news
 title: "Nigeria election: The mystery of the altered results in disputed poll"
 excerpt: "When we compared an image from this account to the television pictures of Dr Ariaga using Amazon Rekognition software, we achieved a match of 97.2%, indicating a very high probability they're the ..."
-publishedDateTime: 2023-05-16T20:11:00Z
-originalUrl: "https://www.bbc.co.uk/news/65163713"
-webUrl: "https://www.bbc.co.uk/news/65163713"
+publishedDateTime: 2023-05-17T06:30:00Z
+originalUrl: "https://www.bbc.co.uk/news/65163713.amp"
+webUrl: "https://www.bbc.co.uk/news/65163713.amp"
 ampWebUrl: "https://www.bbc.co.uk/news/65163713.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/65163713.amp"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 576
     isCached: true
 
-secured: "/XlDRfEtSx6JUBwjB/K9gqxuQV6hsphaMd5gBsaVXVgZ3byFfTXTNWEhNUg9npv/kJJe1N7sngP9oORLU7g4KCQLFAJeMPpgzm2AAFwWRKqVz+BsqKB1ncJHTScs0RaC/XqsgSO0nc4jvML0PgFwLaBXaBkm8lu3SALRc3yz9jOALx/sJSjP+DTGBXGbWWWthznXBa6COahrXtH022+7deyhpxJKrOx/G6UUF5VVBkqJ4gLhrqp47xZnXIWMSNmOIrZT8bV4oxrJRGWUN+rHUaayBwkzGSQO29DZdiTuUhsct0SwYRTl6tQ0YyGBKuj/mZJGPMVs5f6rS44uTT01tvEmjAD3ciYnOqfD4/IdN+g=;tSGHoKBQT41VktH/Tu29bA=="
+secured: "MOyyKJ5NbjdGaC8NQoicIhoABK8wez1Ctqf+e7bBET1oB8/Fm5UnKfzBVii05NSTB3L6eYlugqtq1AtDGGQ1v76apLvDYNJQVley0RBwrwl4OLfSb9ZAdK9tEzVmNUXQR7Di5XprRgMqmy0Khu49iVeMl6EH2lP9f7YShfX2bLV5pYIWXJSOCeZXo2oZ3vHffmYboQJydycaRV5d3NgZaPuqBUElHHahxHLdToI/oXqJg5IyDkdazVBabwt3hvAWwBp9Nh9By3VusAytAi2gisNyYf37S8gcs5biNsIb2d0K3ENBJ9g9Lz57C0kutxbZZRYhOA1AWgMLvhbx8pNDN59M8WSVymxhD1vAX4Fbiaw=;L5HId27zIOMmopfCMgtYUQ=="
 ---
 

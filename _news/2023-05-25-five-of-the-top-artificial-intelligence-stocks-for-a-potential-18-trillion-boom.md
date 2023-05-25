@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Computer-vision startup Tractable, last valued at $1 billion, lays off a chunk of its workforce despite the AI boom"
-    excerpt: "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Tractable, a startup focused on AI and computer vision, has laid off a chunk of its workforce, the company confirmed to Insider. Founded in 2015 by CEO Alex Dalyac ..."
-    publishedDateTime: 2023-05-23T13:38:00Z
-    webUrl: "https://www.businessinsider.com/ai-startup-tractable-lays-off-staff-despite-the-gold-rush-2023-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
   - title: "Five of the Top Artificial Intelligence Stocks for a Potential $1.8 Trillion Boom"
     excerpt: "Detailed price information for Accenture Plc (ACN-N) from The Globe and Mail including charting and trades."
     publishedDateTime: 2023-05-24T14:12:00Z

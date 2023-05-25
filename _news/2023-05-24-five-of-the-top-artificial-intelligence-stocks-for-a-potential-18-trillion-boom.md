@@ -33,15 +33,6 @@ related:
         width: 448
         height: 250
         isCached: true
-  - title: "Computer-vision startup Tractable, last valued at $1 billion, lays off a chunk of its workforce despite the AI boom"
-    excerpt: "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Tractable, a startup focused on AI and computer vision, has laid off a chunk of its workforce, the company confirmed to Insider. Founded in 2015 by CEO Alex Dalyac ..."
-    publishedDateTime: 2023-05-23T13:38:00Z
-    webUrl: "https://www.businessinsider.com/ai-startup-tractable-lays-off-staff-despite-the-gold-rush-2023-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
 
 secured: "Lo5yepduRBZVU2YH5vyvJm2ssWd4BgI+FDJDcKDMG7ITEzZD8D4h33Y7qzEyvsnXnybQimpuSt4/AHiHqNRyK3GaTm42e/v6v/2HsSN28X/Vzdnpy1dv/+gmxAelKBk8d3JIVJ+HpysVQPZPC/fA2Yi0aIPnAD3NrcwUGtCS7sPwAXyDhn4/TOHcbHjLA5cqScLYcVH/a+0eDYyg9NEd+1tWW8cFkz9O5MWD7iJ+TRiEdV2Z4VLxQB/Oym0Qtlu6wgsXK8TjMXmJn/WEXcZ0x2MXXzW3QrQTZ53UQ6JAqjKbw+2ejFCEqhsqNZrM8RTiGateX93o5NU3/wbEdWZlZJS3G0qCQiPmkN5r4Xq5jno=;QZ7zSkeTR/k6UoaCVI6byA=="
 ---

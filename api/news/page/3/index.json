@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-23-red-hat-unveils-ansible-lightspeed-to-empower-ai-driven-it-automation.md",
+      "title": "Red Hat unveils Ansible Lightspeed to empower AI-driven IT automation",
+      "excerpt": "Learn More Open-source solutions firm Red Hat today unveiled Ansible Lightspeed, a generative AI service integrated with IBM Watson Code Assistant. The company’s latest offering seeks to drive extensive utilization of Ansible automation within organizations,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/red-hat-unveils-ansible-lightspeed-to-empower-ai-driven-it-automation/",
+      "originalUrl": "https://venturebeat.com/ai/red-hat-unveils-ansible-lightspeed-to-empower-ai-driven-it-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-the-dire-defect-of-multilingual-ai-content-moderation.md",
       "title": "The Dire Defect of ‘Multilingual’ AI Content Moderation",
       "excerpt": "Social media companies claim new language models can remove harmful content in every language. But those systems’ shortcomings can have vast consequences.",
@@ -306,49 +350,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-23-meta-introduces-speech-ai-models-to-identify-over-4000-spoken-languages.md",
-      "title": "Meta introduces speech AI models to identify over 4000 spoken languages",
-      "excerpt": "Facebook and Instagram's owner, Meta, has announced series of artificial intelligence (AI) models that can identify more than 4,000 spoken languages, 40 times more",
-      "sourceUrl": null,
-      "webUrl": "https://www.gulf-times.com/article/661582/international/meta-introduces-speech-ai-models-to-identify-over-4000-spoken-languages",
-      "originalUrl": "https://www.gulf-times.com/article/661582/international/meta-introduces-speech-ai-models-to-identify-over-4000-spoken-languages",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gulf-times.com/gulftimes/uploads/images/2023/05/23/33252.jpg",
-          "width": 1000,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gulf-times.com/article/661582/international/meta-introduces-speech-ai-models-to-identify-over-4000-spoken-languages/amp",
-      "cdnAmpWebUrl": "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/661582/international/meta-introduces-speech-ai-models-to-identify-over-4000-spoken-languages/amp",
-      "publishedDateTime": "2023-05-23T02:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Times",
-        "domain": "gulf-times.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-23-modular-app-building-platform-builderai-raises-250-million-series-d-funding.md",
       "title": "Modular app-building platform Builder.ai raises $250 million Series D funding",
       "excerpt": "It was only recently that we reported Buildier.ai had signed a strategic collaboration with and undisclosed investment from Microsoft. Builder’s “Natasha” AI will be shortly available to users of Teams.",
@@ -552,58 +553,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-metas-massively-multilingual-speech-to-redefine-boundaries-of-language.md",
-      "title": "Meta’s Massively Multilingual Speech to Redefine Boundaries of Language",
-      "excerpt": "With the release of MMS as an open-source project, Meta aspires to reverse the concerning trend of technology eroding linguistic diversity",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/05/23/meta-massively-multilingual-speech-model/",
-      "originalUrl": "https://www.gizmochina.com/2023/05/23/meta-massively-multilingual-speech-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/05/dima-solomin-mr26tQgHGmc-unsplash-2048x1365-1-1536x1024-1-2.jpg",
-          "width": 1536,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-22T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1063,7 +1012,7 @@
       "originalUrl": "https://www.businessinsider.com/chatgpt-ai-guide-to-most-talked-about-technology-2023-may",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1258,6 +1207,48 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-how-to-use-vpn-with-a-vpc-hub-and-spoke-architecture.md",
+      "title": "How to use VPN with a VPC hub-and-spoke architecture",
+      "excerpt": "How to use a VPC VPN Gateway to connect an on-premises (enterprise) network to the IBM Cloud VPC in a transit hub-and-spoke architecture.\nThe post How to use VPN with a VPC hub-and-spoke architecture appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-use-vpn-with-a-vpc-hub-and-spoke-architecture/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-use-vpn-with-a-vpc-hub-and-spoke-architecture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-22T06:09:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
       ]
     }
   ],

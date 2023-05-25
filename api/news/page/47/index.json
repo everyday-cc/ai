@@ -2,49 +2,6 @@
   "page": 47,
   "value": [
     {
-      "path": "_news/2023-04-27-opinion-ai-research-needs-to-be-reined-in.md",
-      "title": "Opinion | AI research needs to be reined in",
-      "excerpt": "AI is dangerously unregulated as a research field, in a way few other fields are able ... This hype and market trend leads to companies with questionable track records, such as Facebook and Twitter, to cut corners in pursuit of profits.",
-      "sourceUrl": null,
-      "webUrl": "https://dailyiowan.com/2023/04/26/opinion-ai-research-needs-to-be-reined-in/",
-      "originalUrl": "https://dailyiowan.com/2023/04/26/opinion-ai-research-needs-to-be-reined-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailyiowan.com/wp-content/uploads/2023/03/ChatGPTBrainstrorming-900x600.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-26T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Univeristy of Iowa Daily Iowan",
-        "domain": "dailyiowan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-27-best-small-kitchen-appliance-deals-at-amazon.md",
       "title": "Best small kitchen appliance deals at Amazon",
       "excerpt": "Amazon's not the only place you'll find great deals on small kitchen appliances today. Way Day 2023 has arrived! But don't delay -- Way Day 2023 only lasts through April 27. These coveted kitchen ...",
@@ -1169,6 +1126,49 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-interprefy-unveils-next-generation-ai-event-translator-aivia.md",
+      "title": "Interprefy unveils next-generation AI event translator Aivia",
+      "excerpt": "Experience the full interactive Multichannel News Release here: Multilingual meeting technology and services provider Interprefy has today unveiled Interprefy Aivia, the world's first advanced automated speech translation service for online and live events,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/04/26/9802122.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/04/26/9802122.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://marketplace.connectwise.com/content/images/thumbs/0000635_skykick_550.png",
+          "width": 550,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

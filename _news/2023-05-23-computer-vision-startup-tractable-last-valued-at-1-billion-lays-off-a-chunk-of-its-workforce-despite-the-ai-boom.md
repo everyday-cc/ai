@@ -23,29 +23,29 @@ topics:
   - AI
 
 related:
-  - title: "Five Of The Top Artificial Intelligence Stocks For A Potential $1.8 Trillion Boom"
-    excerpt: "Five of the Top Artificial Intelligence Stocks for a Potential $1.8 Trillion Boom The artificial intelligence story fueled a massive rally in tec"
-    publishedDateTime: 2023-05-24T20:53:00Z
-    webUrl: "https://menafn.com/1106309114/Five-Of-The-Top-Artificial-Intelligence-Stocks-For-A-Potential-18-Trillion-Boom"
+  - title: "AI Startup Valued at $1.5 Billion Hires First General Counsel"
+    excerpt: "It's an honor to have the opportunity to roll up my sleeves and work alongside the fantastic team here, moving creativity forward through our powerful AI research,” newly hired Runway GC Cathleen Hartge said on LinkedIn."
+    publishedDateTime: 2023-05-25T01:17:00Z
+    webUrl: "https://www.law.com/therecorder/2023/05/24/ai-startup-valued-at-1-5-billion-hires-first-general-counsel/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
+      name: Law
+      domain: law.com
+    quality: 37
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?140161"
-        width: 448
-        height: 250
+      - url: "https://images.law.com/contrib/content/uploads/sites/390/2023/05/AI-technology_2-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
-  - title: "Five of the Top Artificial Intelligence Stocks for a Potential $1.8 Trillion Boom"
-    excerpt: "Detailed price information for Accenture Plc (ACN-N) from The Globe and Mail including charting and trades."
-    publishedDateTime: 2023-05-24T14:12:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/ACN-N/pressreleases/17154514/five-of-the-top-artificial-intelligence-stocks-for-a-potential-18-trillion-boom/"
+  - title: "After $1.5 billion PE deal, Rosemont medical-data firm buys AI startup"
+    excerpt: "Last March, IMO sold a majority stake to Boston-based private-equity firm Thomas H. Lee Partners in a deal worth more than $1.5 billion. At the time, IMO said the deal would help finance its expansion,"
+    publishedDateTime: 2023-05-23T17:38:00Z
+    webUrl: "https://www.chicagobusiness.com/health-care/intelligent-medical-objects-buys-ai-startup-melax-technologies"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 14
+      name: Crain's Chicago Business
+      domain: chicagobusiness.com
+    quality: 17
 
 secured: "SX7PnSSaTb3lRFgUdPgj7Uc9USOsnPWFCeDRVvc4gdCqkWy4EOsWdnJLVNfTpLNHEZBe9wA5OGPPvmqKXgK/lBbNa8cfvITkw7cFrPC4XZPnqqFYgTGKCaXm8PIbuOoBShYvSohk3Q4IQ3BuJl7I/dsv8Az8IMFa1QJV+BClIWlcDfDff88l2wYCiZOPWVVLPu6TDsBzs7YdwiUsMgM9H6hufFsjACcLX3q7TkbHUsUqklX+ApkaHQis4gat83oQ8NJt/CjzTJsIQyNnA4qCjZR0nuQurg4nCQdFGUa/8gRSMZ1BkZ3zZko1pk+rQ/ihn5HsmDmSVEVrgc00IMP9ZqD5AAzSOlAAlRvKpNEtRCLoWY9uSsQjlKAc3Uw2+JDYCTx1648WYF+x8Z4+FnqJzRd2e+eMbMqf6MS7ScLt1BOfH9nm8ApCs6/kkHK95Q/TlpWc0s2eEz6hkpNtZ7wlR/gzwCBqoeNIPPlU69RYsmZPf8G6AFbJWCpVWrdJ/dUcIxqxV9xThJmGjrlZMCGkQQ==;a17BuGc7E6GvO5bMCsqCJg=="
 ---

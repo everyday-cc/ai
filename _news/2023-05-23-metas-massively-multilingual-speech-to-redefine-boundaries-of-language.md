@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2023/05/23/meta-massively-multilingual-
 webUrl: "https://www.gizmochina.com/2023/05/23/meta-massively-multilingual-speech-model/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Gizmochina
@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Open-sourcing Massively Multilingual Speech to preserve language diversity: Meta"
-    excerpt: "The social media giant said that equipping machines with the ability to recognize and produce speech can make information accessible to many more people, including those who rely entirely on voice to access information."
-    publishedDateTime: 2023-05-23T10:56:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/open-sourcing-massively-multilingual-speech-to-preserve-language-diversity-meta/articleshow/100447425.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/open-sourcing-massively-multilingual-speech-to-preserve-language-diversity-meta/amp_articleshow/100447425.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/open-sourcing-massively-multilingual-speech-to-preserve-language-diversity-meta/amp_articleshow/100447425.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
   - title: "Meta Challenges Whisper with ‘Massively Multilingual Speech’ Launch"
     excerpt: "Meta claims its new Massively Multilingual Speech system produces fewer errors than competitor OpenAI’s Whisper."
     publishedDateTime: 2023-05-23T11:04:00Z

@@ -1039,49 +1039,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-17-nigeria-election-the-mystery-of-the-altered-results-in-disputed-poll.md",
-      "title": "Nigeria election: The mystery of the altered results in disputed poll",
-      "excerpt": "When we compared an image from this account to the television pictures of Dr Ariaga using Amazon Rekognition software, we achieved a match of 97.2%, indicating a very high probability they're the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/65163713",
-      "originalUrl": "https://www.bbc.co.uk/news/65163713",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/A39C/production/_129748814_nigeria_officials_epa.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/65163713.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/65163713.amp",
-      "publishedDateTime": "2023-05-16T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-17-global-artificial-intelligence-in-healthcare-service-market-2023-2030-by-sizeprecisionreportsco.md",
       "title": "Global Artificial Intelligence In Healthcare Service Market 2023-2030 by Size|Precisionreports.co",
       "excerpt": "May 16, 2023 (The Expresswire) -- \"Artificial Intelligence In Healthcare Service Market\" Reports recently released an executive data report that focuses",
@@ -1208,6 +1165,58 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-the-ethics-of-ai-in-seo-and-why-humans-are-still-just-better.md",
+      "title": "The ethics of AI in SEO and why humans are still (just) better",
+      "excerpt": "By prioritizing transparency, accountability and fairness and investing in worker training, we can ensure that AI is used in beneficial ways.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-ethics-of-ai-in-seo-and-why-humans-are-still-just-better/",
+      "originalUrl": "https://venturebeat.com/ai/the-ethics-of-ai-in-seo-and-why-humans-are-still-just-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-search_search-engine_connected_network_1400992296-e1665532643283.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/the-ethics-of-ai-in-seo-and-why-humans-are-still-just-better/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-ethics-of-ai-in-seo-and-why-humans-are-still-just-better/amp/",
+      "publishedDateTime": "2023-05-16T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

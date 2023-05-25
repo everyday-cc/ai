@@ -33,17 +33,6 @@ related:
         width: 1536
         height: 1024
         isCached: true
-  - title: "Open-sourcing Massively Multilingual Speech to preserve language diversity: Meta"
-    excerpt: "The social media giant said that equipping machines with the ability to recognize and produce speech can make information accessible to many more people, including those who rely entirely on voice to access information."
-    publishedDateTime: 2023-05-23T10:56:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/open-sourcing-massively-multilingual-speech-to-preserve-language-diversity-meta/articleshow/100447425.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/open-sourcing-massively-multilingual-speech-to-preserve-language-diversity-meta/amp_articleshow/100447425.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/open-sourcing-massively-multilingual-speech-to-preserve-language-diversity-meta/amp_articleshow/100447425.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
 
 secured: "3as4ehAqVyOgxQKb2CyYXAavtN1IPEeGrIyA/q7WAzszCdIpW7Q8AwEE2GJPNZq0mXiGqZfLhbFqePk3hyTrXIiVdfvsFSzdCtQQYmdf+Z/DwgLNT0XB9iNRHyPdLqnqBuKuZdsyzl/ADxdQdQ86e8XdurPk601BblDCMcbstow3rbNaUi0IkBjqMR9bboz6LgTTtBXWcHx44GlnmqFdwbr1lmUI2nKzAyEjd9Lu3tB0ywFI9EVeifGRfeTVuOUWhw4MZBAaS8ZkXZhfCqemL2t298KCp8A8kG0dByqlYQLxdbXM8BTJEa+1P93m0nnnTpyxlj+qcWml2xlnc6EZ/OAhsFTOXBUqUdkFvfyq7Cxw0wx+yJ5sKSXzYMHzH3CJxk9ZhAKWFwTp0M4IF8cPqeJvZFWatmfh9Yv1s3O1Cp4MUBILb17zUmgMGsbx90yipoHIrzLQ8EIwNjFQWfggyo9NzfoPTnBhOLxRDV6nInN+AdN0puU0xaITYIEc7vPIb98tizKKe3OJkBneDJZfZw==;USNwpO2rhAOlmO6SY126xQ=="
 ---
