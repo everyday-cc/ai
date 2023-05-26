@@ -125,6 +125,15 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 29
+  - title: "Intel Announces an Integrated Neural AI Accelerator in Meteor Lake"
+    excerpt: "Intel says it's working with Microsoft to make the development of AI features on the personal computer a reality. It will do this by offering a VPU, or Vision Processing Unit, as part of the SoC tile in Meteor Lake."
+    publishedDateTime: 2023-05-24T18:00:00Z
+    webUrl: "https://www.extremetech.com/computing/intel-announces-an-integrated-neural-ai-accelerator-in-meteor-lake"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
 
 secured: "fbMyo8VYYhTazPZbjFsHxaX/lXegMXtrgq4ePGEOHdppmVEKNLF0QczdtakGpoRxAWR1UqfzVsRNi7geLYQ6CUhheDMaFzXTKb29IfZckN6ULgN5N3RSgjUSmq2jOnd42pgi033um17KTfcL9qU0yGaQzcxLq49t1cWvid7KnaMyXt7usxxl7Ie3UANt5v3f1dBWNB53oQc0Pi8kLfvgi6xlHWO0JOeGaxaxnGmkpNgzinbRC9L0BeA+ma7EodruIlJ/TZ4aheWYBeeLZiSMfOLi00dCcfxTDNS9+TUBKXjp8kfrnN/4N9iFs/KI4Nl7ENR+VTTXHfjY3STaeZQc46VWPbW0bgVw/hFiqbyNvobFGdnvU6g0D4JieDypmYI16oqvKjgduhJ5W8D4rt59r7d9JgjwCmD9f9L6b8v4iQ86xPeycaYBb47T7Zvg0RY/fDdm7xrjJ81TEJDu5NGVpY6yU5kUBX1vZpJdnCX95ZJ3d5jhKqtT1dn9RMEE7QNkMxxgbIyu60KapH6z9NJtvQ==;XxVRZOpK/kW53lcOxmXkDQ=="
 ---

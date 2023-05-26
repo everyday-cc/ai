@@ -55,19 +55,19 @@ related:
         width: 1200
         height: 819
         isCached: true
-  - title: "Dubai announces AI plan to slash traffic jams"
-    excerpt: "As such, it ensures that AI models do not make decisions incompatible with the AI principles and ethics set by the Dubai Digital Authority. RTA has trained several Emiratis in leadership, supervisory and technical roles to empower them to analyse data and ..."
-    publishedDateTime: 2023-05-21T09:12:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/transport/dubai-announces-ai-plan-to-slash-traffic-jams"
+  - title: "Backend houses optimistic about AI chip demand"
+    excerpt: "Promising AI chip demand from Nvidia has injected optimism back into the associated backend suppliers regarding their 2023 business prospects, according to industry sources in Taiwan."
+    publishedDateTime: 2023-05-26T01:56:00Z
+    webUrl: "https://www.digitimes.com/news/a20230525PD214/ai-nvidia.html"
     type: article
     provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 39
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
     images:
-      - url: "https://www.arabianbusiness.com/cloud/2023/01/22/New-Dubai-road-2.jpg"
-        width: 1200
-        height: 675
+      - url: "https://img.digitimes.com/newsshow/20230525pd214_files/1_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "sun27bBbEzwEqoMsflwIetjZVX+ol4VWAU4UYZNbb0fp64JR0037/cImIdiduKkNKknePUI5Z6zSKQHYimaZNDkhjAK3+7uaA908fmi+RM/Tp6wYK09H8pP+AiBV3kRDQkO1gcGXRK1VDPIj9uG/Cu4bb9T5lpsg+fZIyKcfE8MWnSe4Udyrphd8Vh/BNSb0Qx/ELMMmeRbFsVCDzzwGgECaa2mlD4NIcEf6Umf0Mo3VAxqRVvLevcJNbfL+/IHPoFTvSao9vx5dRv/Ks+v8U64z0rTrLsKhhl25VIeUoQrXGUPucJlfBSjlzNlP8EWqnXdXGpIGtJL0TzU83XKiLjWVkJt6X5Eab4QQtXahR3E=;UXlmFIR/bYMjX0jgpgGATA=="

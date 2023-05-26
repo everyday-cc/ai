@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/3-ways-openai-says-we-shoul
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3-ways-openai-says-we-should-start-to-tackle-ai-regulation/"
 type: article
 quality: 87
-heat: 247
+heat: 237
 published: true
 
 provider:
@@ -149,15 +149,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "FlowX.ai raises $35M for its AI-based approach to application integration"
-    excerpt: "“Digital transformation” and AI remain very buzzy terms in the world of enterprise software, and today a startup operating in Romania that’s built a platform that taps into both concepts, and is seeing user traction in the financial sector, has ..."
-    publishedDateTime: 2023-05-22T12:03:00Z
-    webUrl: "https://techcrunch.com/2023/05/22/romanias-flowx-ai-raises-35m-for-its-ai-based-approach-to-application-integration/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 46
   - title: "AI may pull the trigger in war, but it shouldn’t call the shots"
     excerpt: "Think killer robots. Autonomous weapons ... Although the task of regulating AI might seem intimidating, we should start with core principles. The most vital one is that a human being should always be involved in the decision to use lethal force."
     publishedDateTime: 2023-05-24T07:06:00Z

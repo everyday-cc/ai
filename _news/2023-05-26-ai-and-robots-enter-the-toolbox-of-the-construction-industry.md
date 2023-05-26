@@ -55,21 +55,21 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Dubai announces AI plan to slash traffic jams"
-    excerpt: "As such, it ensures that AI models do not make decisions incompatible with the AI principles and ethics set by the Dubai Digital Authority. RTA has trained several Emiratis in leadership, supervisory and technical roles to empower them to analyse data and ..."
-    publishedDateTime: 2023-05-21T09:12:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/transport/dubai-announces-ai-plan-to-slash-traffic-jams"
+  - title: "Backend houses optimistic about AI chip demand"
+    excerpt: "Promising AI chip demand from Nvidia has injected optimism back into the associated backend suppliers regarding their 2023 business prospects, according to industry sources in Taiwan."
+    publishedDateTime: 2023-05-26T01:56:00Z
+    webUrl: "https://www.digitimes.com/news/a20230525PD214/ai-nvidia.html"
     type: article
     provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 39
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
     images:
-      - url: "https://www.arabianbusiness.com/cloud/2023/01/22/New-Dubai-road-2.jpg"
-        width: 1200
-        height: 675
+      - url: "https://img.digitimes.com/newsshow/20230525pd214_files/1_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
-secured: "rQLhcrehQq5E+pdkzrCytmIKtlNeUYOJRP1/sRQ/5tQUG/2rY0ILDK4XD2t4MCFLjcsj1rrq446FdUSTBv+iIO1XAMqQ8s2sI6XozC46V4XinIbQKZhJm0E3zXX+Imd3MM2EPWuyWN8r9hQsytbt8dOAXWPc8OHfzbfE8ATZs+c/LN57G7Bx26dwZpqB1XUr7a+xae0yDNT0ai4IRO6bT6eIbVQwhcYrpyYtT7Ahs+TXDAneBW2coWL8iKPhnOUW4z4gp+GX8mqSRDkcdS0Tv4pEpLXUkbzYm0zLK3SEp/Fhtw7I1MtBQAMPcdLHZ9vgELDPe+6x5zfM5CorvC/dUQHc52SqWfpRLqxH6cd4TsE=;VvVa8Rg7r+gJPhAvhwP2qQ=="
+secured: "Zjr8SyR2+0PK7wwZ86hav5C0nZr0MjOwhxHMi5AECRxaeY+BbXEqUYVb16rF8K/3Cjjt5W3TDKO9XKJZdXMgBG6xHMLEku0d4qqRWTaFyrgK/o44cXPFhj5aqdeNyEaInCcoVZU6UMEkDeRIeK2xtNsMa2d99n7PLj5PTJ609D09pOQXMdWNU3HbLja/GlH7F3oCQ5gaiZSOnP+7bBARSvBbq62cWKRNJM2ndnBo4jLz0jD9SaGW0Rvhr6nxBeZvhWqOTflFMOEk3A/Tq4OVy3oGEKecSzDQzs9YctrR3eZsJXHY3uwnneN8Giidyh+IIHW2AqMF0Ma6V/Czccw1BBhb+sufg1zaj5MxrYmqmHp/lx/TKJAafF/ZzTAxvsJtfUkBl+MDS643bvxBVQTHqkO8X3Tvs590/lnwYx8CjgzdRkF1DVLXdKDb4DIKS4+/g6Q0mKjxiYMxAZYdfCBXG+ucDWtn+4YVRjDVia44CSr5RFiXELGEd6O5vqlBiPjJydWoryjOAoiBuNDDBbiygQ==;+74PDTIOC04aAfZXH1Ns6A=="
 ---
 

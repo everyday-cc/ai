@@ -19,61 +19,121 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft confirms 365 Copilot AI will be 'natively integrated' into Edge"
-    excerpt: "The same AI assistant that Microsoft is adding to Office will soon be natively integrated into the company's Edge browser as well.."
-    publishedDateTime: 2023-05-24T15:03:00Z
-    webUrl: "https://www.engadget.com/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html"
-    ampWebUrl: "https://www.engadget.com/amp/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html"
+  - title: "Intel gives details on future AI chips as it shifts strategy"
+    excerpt: "A smartphone with a displayed Intel logo is placed on a computer motherboard in this illustration taken March 6, 2023. REUTERS/Dado Ruvic/Illustration/"
+    publishedDateTime: 2023-05-22T16:02:00Z
+    webUrl: "https://www.reuters.com/news/picture/intel-gives-details-on-future-ai-chips-a-idUSKBN2XD1A3"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 103
+      name: Reuters
+      domain: reuters.com
+    quality: 84
     images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/aYBYCJ1XAE0xA1D7qsxXAw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/093f0380-f8bf-11ed-9f92-f24cb882d1a4.cf.jpg"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20230522&t=2&i=1633467317&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEJ4L0M3"
+        width: 810
+        height: 542
+        isCached: true
+  - title: "Intel announces Falcon Shores, its AI chip for 2025"
+    excerpt: "Intel has revealed early details about its next-gen artificial intelligence (AI) chip. Called Falcon Shores, this chip will reportedly boast 288GB of high bandwidth memory (HMB3) and support 8-bit floating-point computation. The company plans to introduce ..."
+    publishedDateTime: 2023-05-23T15:55:00Z
+    webUrl: "https://www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html"
+    ampWebUrl: "https://www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html?amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 74
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2018/12/AH-Intel-logo-MWC-2018-2-New.jpg"
+        width: 1918
+        height: 1080
+        isCached: true
+  - title: "Intel reveals new details about upcoming AI chip"
+    excerpt: "Intel has revealed details about its upcoming chip for artificial intelligence (AI) computing during a recent conference in Germany. Intel, which is struggling to grow its business, aims to launch the chip, codenamed “Falcon Shores,” in 2025."
+    publishedDateTime: 2023-05-23T02:26:00Z
+    webUrl: "https://www.telecomlead.com/telecom-chips/intel-reveals-new-details-about-upcoming-ai-chip-110523"
+    ampWebUrl: "https://www.telecomlead.com/telecom-chips/intel-reveals-new-details-about-upcoming-ai-chip-110523?amp=1"
+    cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/telecom-chips/intel-reveals-new-details-about-upcoming-ai-chip-110523?amp=1"
+    type: article
+    provider:
+      name: Telecom Lead
+      domain: telecomlead.com
+    quality: 74
+    images:
+      - url: "https://www.telecomlead.com/wp-content/uploads/2017/10/Intel-technology-for-5G.jpg"
+        width: 640
+        height: 353
+        isCached: true
+  - title: "Intel gives details on future AI chips"
+    excerpt: "Intel has provided a handful of new details on a chip for artificial intelligence (AI) computing it plans to introduce in 2025 as it shifts strategy to compete against Nvidia and AMD. At a supercomputing conference in Germany, Intel said its forthcoming ..."
+    publishedDateTime: 2023-05-23T00:50:00Z
+    webUrl: "https://www.itnews.com.au/news/intel-gives-details-on-future-ai-chips-596132"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/20180727123309_crn-intel_Small.jpg"
+        width: 460
+        height: 285
+        isCached: true
+  - title: "Intel provides details on future AI chips"
+    excerpt: "Intel has provided details on a chip for artificial intelligence (AI) computing it is planning to introduce in 2025 as it looks to compete directly with Nvidia and Advanced Micro Devices (AMD)."
+    publishedDateTime: 2023-05-23T06:48:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/intel-provides-details-on-future-ai-chips"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 54
+    images:
+      - url: "https://www.newelectronics.co.uk/media/k1zd5rhn/intel.jpg?width=1200&height=630&mode=crop"
         width: 1200
         height: 630
         isCached: true
-  - title: "Adobe integrates generative AI directly into Photoshop with new Firefly capabilities"
-    excerpt: "Adobe has announced its first generative AI integration with Photoshop, bringing Adobe Firefly capabilities directly into design workflows."
-    publishedDateTime: 2023-05-23T11:00:00Z
-    webUrl: "https://venturebeat.com/ai/adobe-integrates-generative-ai-directly-into-photoshop-with-new-firefly-capabilities/"
-    ampWebUrl: "https://venturebeat.com/ai/adobe-integrates-generative-ai-directly-into-photoshop-with-new-firefly-capabilities/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/adobe-integrates-generative-ai-directly-into-photoshop-with-new-firefly-capabilities/amp/"
+  - title: "Intel shares details on AI chips and shifts strategy"
+    excerpt: "NEW YORK: Intel Corp has provided a handful of new details on a chip for artificial intelligence (AI) computing it plans to introduce in 2025 as it shifts strategy to compete against Nvidia Corp and Advanced Micro Devices Inc. At a supercomputing ..."
+    publishedDateTime: 2023-05-23T21:14:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2023/05/24/intel-shares-details-on-ai-chips-and-shifts-strategy"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-74.png?w=1200&strip=all"
-        width: 1200
-        height: 750
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/24/2088373.jpeg"
+        width: 1080
+        height: 723
         isCached: true
-  - title: "ChatGPT Rival Google Bard Integrates Images Into Responses, AI Images Coming Soon"
-    excerpt: "Google Bard, the search giant's generative artificial intelligence engine that competes with OpenAI's ChatGPT and Microsoft's Bing AI, has integrated images into queries, the company said in a blog post on Tuesday."
-    publishedDateTime: 2023-05-24T21:35:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/chatgpt-rival-google-bard-integrates-images-into-responses/"
+  - title: "Intel Promises Falcon Shores AI Data Center Chip in 2025"
+    excerpt: "These rapid advances in AI don't just happen, though. It takes unfathomable computing power to train and run these models. Intel hopes to get a bigger piece of this business with its upcoming Falcon Shores chip, and it has just revealed the first details ..."
+    publishedDateTime: 2023-05-22T20:45:00Z
+    webUrl: "https://www.extremetech.com/extreme/intel-promises-falcon-shores-ai-data-center-chip-in-2025"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 62
-    images:
-      - url: "https://www.cnet.com/a/img/resize/4ab10cbffbbc81f0592dd2e1c6e9afcf909b13ff/hub/2023/05/24/b8f751c9-21f8-4abc-b800-591c3f9685f5/gettyimages-1247375867.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Informatica Announces Integration of its Intelligent Data Management Cloud with Microsoft Fabric"
-    excerpt: "Informatica is one of the first ISV design partners for Microsoft Fabric and brings Azure customers access to IDMC's comprehensive suite of capabilities as a first-party service. The integration allows Azure customers to have: Seamless integration with Informatica's Data Quality solution to identify and provide high quality,"
-    publishedDateTime: 2023-05-23T15:31:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/23/9819642.htm"
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
+  - title: "Intel Revamps Falcon Shores GPU Plans, Integrates Powerful Gaudi AI Accelerator"
+    excerpt: "AI is by far the largest growth market within HPC ... \"Wasn't Falcon Shores going to be some kind of CPU-GPU hybrid thing?\" Indeed it was, dear reader. Intel originally announced Falcon Shores as an \"XPU,\" because the original intention was that it ..."
+    publishedDateTime: 2023-05-22T18:22:00Z
+    webUrl: "https://hothardware.com/news/intel-at-isc-2023"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
+      name: HotHardware
+      domain: hothardware.com
+    quality: 30
+  - title: "Intel Goes Head-to-Head With Nvidia, AMD Over AI Chips. Why It Could Be Too Slow."
+    excerpt: "Intel said it was competing in AI chips but it faces a delay in launching its next generation graphics-processing unit."
+    publishedDateTime: 2023-05-23T12:48:00Z
+    webUrl: "https://www.barrons.com/articles/intel-stock-ai-chip-nvidia-amd-gpu-bc36ab94"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 29
 
 secured: "H4Gcdfb6EKS+0NNbVWIgrKzhPH5jpcAr+TGPK8vkGOsRQm9lbRmTe860OHopzDiz/l6uJ5b96txbkACnCAEyClcw0dHjQsTv1FbyxwN8cvQFat+517tathAhMPWLrgvejqKXN4wG5h/PaTw0uVEU/8Is6OaqDu5Jz3w3YeBeCNQoBZgCnFb7eH7EI8Q35zqjBAsIq1WqZ2R+cUWgU4ct1h4AQsAD9+AKsx8d5uHhf7bvzQgyS0dvjyg+SSI5M15DhBUx9y8SYphlhpIoYBAyDoNV6kYABQYshpRXomYbsTmlAd2mduyIugWhCRB2CudrODozoYuSHg/ljSTbQXG9JszWkXGMtAP/f3g7W5CeXj1hKVDV/aJiWTFMdydQPnvzB8H7ogn1kI8fb6+mUCXQ2qCtpLVmhaCCelb4z6MlFwnzLieIa2u+f9li/O4TJfE0S5Z/DFVBCkp0+Y/5LW0QevOmSV5EcZSTu12Hujph8LD4+mWcW1q55sVc5pe7DM13XK4rZcU8D3YtQ5ZyLpDE8A==;kB1sWctllJKvh/b9GTIecQ=="
 ---

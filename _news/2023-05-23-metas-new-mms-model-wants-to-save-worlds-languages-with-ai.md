@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/gadgets-news/metas-new-mms-model-wants-to
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/metas-new-mms-model-wants-to-save-worlds-languages-with-ai/amp_articleshow/100442231.cms"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Preserving the World’s Language Diversity Through AI"
-    excerpt: "Our Massively Multilingual Speech AI research models can identify more than 4,000 spoken languages, 40 times more than any known previous technology. These models expand text-to-speech and speech-to-text technology from around 100 languages to more than 1,"
-    publishedDateTime: 2023-05-22T16:15:00Z
-    webUrl: "https://about.fb.com/news/2023/05/ai-massively-multilingual-speech-technology/"
-    ampWebUrl: "https://about.fb.com/news/2023/05/ai-massively-multilingual-speech-technology/amp/"
-    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/05/ai-massively-multilingual-speech-technology/amp/"
-    type: article
-    provider:
-      name: about.fb
-      domain: fb.com
-    quality: 59
-    images:
-      - url: "https://about.fb.com/wp-content/uploads/2023/05/Massively-Multilingual-Speech_Social-Share.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Detecting wildfires through artificial intelligence"
-    excerpt: "The company said they are already in talks with multiple fire agencies in Arizona, including the Bureau of Land Management."
-    publishedDateTime: 2023-05-22T04:08:00Z
-    webUrl: "https://www.azfamily.com/video/2023/05/22/detecting-wildfires-through-artificial-intelligence/"
-    ampWebUrl: "https://www.azfamily.com/video/2023/05/22/detecting-wildfires-through-artificial-intelligence/?outputType=amp"
-    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/video/2023/05/22/detecting-wildfires-through-artificial-intelligence/?outputType=amp"
-    type: article
-    provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 57
-    images:
-      - url: "https://do0bihdskp9dy.cloudfront.net/05-22-2023/t_df45893db59f44fd9b7369b95d065f3d_name_REGULAR_L1___2023_05_21T220744_520.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Meta preserves the world's language diversity through AI"
     excerpt: "Meta has unveiled its new speech-to-text, text-to-speech AI language model for more than 1,100 languages. The new model is a crucial step forward in preserving languges that are at risk of disappearing."
     publishedDateTime: 2023-05-23T07:28:00Z

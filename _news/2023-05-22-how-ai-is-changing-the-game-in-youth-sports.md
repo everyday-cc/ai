@@ -100,20 +100,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI and automation headline Red Hat’s annual user fest"
-    excerpt: "It wouldn’t be 2023 if there weren’t an artificial intelligence angle, and Red Hat OpenShift AI is the headliner this year. Billed as a “standardized platform for creating production AI/ML models,” the software takes advantage of native graphics processing unit acceleration features and can be deployed on-premises or in the cloud with the same tooling and interfaces."
-    publishedDateTime: 2023-05-23T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/05/23/ai-automation-headline-red-hats-annual-user-fest/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/Red-Hat-Summit-2022-Hero-Image.png"
-        width: 1184
-        height: 645
-        isCached: true
   - title: "Investing in AI — hype and hope"
     excerpt: "Today, Nvidia is valued at $773bn and has sales of around $27bn. In other words, the company is priced at nearly 29 times sales. Those sales could grow rapidly with AI, but even if the company maintains its current margins forever, by my maths it would need to increase sales by around eightfold to justify the current share price."
     publishedDateTime: 2023-05-24T04:00:00Z

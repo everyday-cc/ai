@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-changing-automation-testing-in-quality-assurance/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       - url: "https://media.nbcnewyork.com/2023/05/ai_home_v2.jpg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
-        isCached: true
-  - title: "AI and automation headline Red Hat’s annual user fest"
-    excerpt: "It wouldn’t be 2023 if there weren’t an artificial intelligence angle, and Red Hat OpenShift AI is the headliner this year. Billed as a “standardized platform for creating production AI/ML models,” the software takes advantage of native graphics processing unit acceleration features and can be deployed on-premises or in the cloud with the same tooling and interfaces."
-    publishedDateTime: 2023-05-23T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/05/23/ai-automation-headline-red-hats-annual-user-fest/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/Red-Hat-Summit-2022-Hero-Image.png"
-        width: 1184
-        height: 645
         isCached: true
   - title: "How AI is changing the game in youth sports"
     excerpt: "Salt Lake County's Copper Mountain Soccer Club is among many youth teams using new AI video technology that films games and then culls each player's performance into a highlight reel."

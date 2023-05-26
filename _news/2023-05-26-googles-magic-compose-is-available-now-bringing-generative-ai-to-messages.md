@@ -76,6 +76,22 @@ related:
         width: 1200
         height: 793
         isCached: true
+  - title: "Adobe integrates generative AI directly into Photoshop with new Firefly capabilities"
+    excerpt: "Adobe has announced its first generative AI integration with Photoshop, bringing Adobe Firefly capabilities directly into design workflows."
+    publishedDateTime: 2023-05-23T11:00:00Z
+    webUrl: "https://venturebeat.com/ai/adobe-integrates-generative-ai-directly-into-photoshop-with-new-firefly-capabilities/"
+    ampWebUrl: "https://venturebeat.com/ai/adobe-integrates-generative-ai-directly-into-photoshop-with-new-firefly-capabilities/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/adobe-integrates-generative-ai-directly-into-photoshop-with-new-firefly-capabilities/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-74.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Adobe introduces generative AI in Photoshop to transform professional creativity"
     excerpt: "Generative Fill combines Adobe Firefly with the editing power of Photoshop to expand the creative canvas for Adobe's millions of customers."
     publishedDateTime: 2023-05-23T19:51:00Z

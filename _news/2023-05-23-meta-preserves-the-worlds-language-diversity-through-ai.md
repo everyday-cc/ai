@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Preserving the World’s Language Diversity Through AI"
-    excerpt: "Our Massively Multilingual Speech AI research models can identify more than 4,000 spoken languages, 40 times more than any known previous technology. These models expand text-to-speech and speech-to-text technology from around 100 languages to more than 1,"
-    publishedDateTime: 2023-05-22T16:15:00Z
-    webUrl: "https://about.fb.com/news/2023/05/ai-massively-multilingual-speech-technology/"
-    ampWebUrl: "https://about.fb.com/news/2023/05/ai-massively-multilingual-speech-technology/amp/"
-    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/05/ai-massively-multilingual-speech-technology/amp/"
-    type: article
-    provider:
-      name: about.fb
-      domain: fb.com
-    quality: 59
-    images:
-      - url: "https://about.fb.com/wp-content/uploads/2023/05/Massively-Multilingual-Speech_Social-Share.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Meta's new MMS model wants to save world's languages with AI"
     excerpt: "Called Massively Multilingual Speech (MMS), the model expands “text-to-speech and speech-to-text technology from around 100 languages to more than 1,"
     publishedDateTime: 2023-05-23T08:14:00Z
@@ -56,22 +40,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-100442231,width-1070,height-580,imgsize-90696,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1070
         height: 580
-        isCached: true
-  - title: "Detecting wildfires through artificial intelligence"
-    excerpt: "The company said they are already in talks with multiple fire agencies in Arizona, including the Bureau of Land Management."
-    publishedDateTime: 2023-05-22T04:08:00Z
-    webUrl: "https://www.azfamily.com/video/2023/05/22/detecting-wildfires-through-artificial-intelligence/"
-    ampWebUrl: "https://www.azfamily.com/video/2023/05/22/detecting-wildfires-through-artificial-intelligence/?outputType=amp"
-    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/video/2023/05/22/detecting-wildfires-through-artificial-intelligence/?outputType=amp"
-    type: article
-    provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 57
-    images:
-      - url: "https://do0bihdskp9dy.cloudfront.net/05-22-2023/t_df45893db59f44fd9b7369b95d065f3d_name_REGULAR_L1___2023_05_21T220744_520.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "wvFkaTgoIdlpOpSSI/ez247dgxJkBZvr5mscuLz3SsW/5LiEClo/ug81Z9uU31LKInSKkx0jLjMzxSWQvnzN8RDm6Nov2FyW4WNZn8qFjPfekmd9jiMhhJfRINsmkkAatpG5g/4z+lMTaTLEW7++IF0aVEUpi68EiO5sRdLaFuTBAyi8nPqcyRMhslyx/Y854oXJUW4dqFNf5QwvWBfvQZ51A4J0gmYIz2ZplQqn6IJVu11RwF22PA6ALvotYiMMgpTH37D5+FGoXj740ekHJWW2rawOgSqawAB6vViKzI6RLFRMB3AxFtlCejpDqldMMMzm2vaoKlMG+uBpq9+YIwjJnO3GyfehIqTHNS74aYrCujyD6RWNuZxU497RUQFq25aYzTk4wuoUCqC39pNR4INdEqjXefMbsgkaRgznBZa/2EROp8m2QxeAb/3cTFxr7ffz+j5fM3pD+8bQ6sK4pKzKPhZDhP5cbHpUcq6q5L22WTN05nwNRLI86f29Cb9UgvAMcaOGCttWgFVRuQJjfQ==;JhYUTo5E/6xwxv1A70Uj4g=="

@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/introducing-chat-t
 webUrl: "https://markets.businessinsider.com/news/stocks/introducing-chat-the-world-s-first-generative-ai-etf-1032346873"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business Insider
@@ -28,37 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI That’s Based On The Murky Devious Dark Web Might Ironically Be The Best Thing Ever, Says AI Ethics And AI Law"
-    excerpt: "Generative AI That’s Based On The Murky Devious Dark Web Might Ironically Be The Best Thing Ever, Says AI Ethics And AI Law"
-    publishedDateTime: 2023-05-21T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/21/generative-ai-thats-based-on-the-murky-devious-dark-web-might-ironically-be-the-best-thing-ever-says-ai-ethics-and-ai-law/amp/"
+  - title: "Preserving the World’s Language Diversity Through AI"
+    excerpt: "Our Massively Multilingual Speech AI research models can identify more than 4,000 spoken languages, 40 times more than any known previous technology. These models expand text-to-speech and speech-to-text technology from around 100 languages to more than 1,"
+    publishedDateTime: 2023-05-22T16:15:00Z
+    webUrl: "https://about.fb.com/news/2023/05/ai-massively-multilingual-speech-technology/"
+    ampWebUrl: "https://about.fb.com/news/2023/05/ai-massively-multilingual-speech-technology/amp/"
+    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2023/05/ai-massively-multilingual-speech-technology/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
+      name: about.fb
+      domain: fb.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6469acbdc2f130c6c676b6ea/0x0.jpg?format=jpg&width=1200"
+      - url: "https://about.fb.com/wp-content/uploads/2023/05/Massively-Multilingual-Speech_Social-Share.jpg?w=1200"
         width: 1200
-        height: 800
-        isCached: true
-  - title: "Generative AI Is Stoking Medical Malpractice Concerns For Medical Doctors In These Unexpected Ways, Says AI Ethics And AI Law"
-    excerpt: "Generative AI Is Stoking Medical Malpractice Concerns For Medical Doctors In These Unexpected Ways, Says AI Ethics And AI Law"
-    publishedDateTime: 2023-05-23T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/23/generative-ai-is-stoking-medical-malpractice-concerns-for-medical-doctors-in-these-unexpected-ways-says-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/23/generative-ai-is-stoking-medical-malpractice-concerns-for-medical-doctors-in-these-unexpected-ways-says-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/05/23/generative-ai-is-stoking-medical-malpractice-concerns-for-medical-doctors-in-these-unexpected-ways-says-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646aa3405bb188ec4e00fd8a/0x0.jpg?format=jpg&crop=3285,1851,x2442,y0,safe&width=1200"
-        width: 1200
-        height: 676
+        height: 675
         isCached: true
 
 secured: "XYEtZlROe7PXTKmE6cBBvo8MnFBh22egUh2oAgI7S3pQXTKLL5N/l4FS2WL37qZvAuQIuaLsefPmp2Bgpxa0DhFwwaOFAOKimOqZb62k7EKSvZwuEMaKCKAXxt6u8X+jyYa7bxzMpDYGh55a4axqq/gHwy1mn/zwgZ4Hcm5Xm/bosTOti0TgZO7xUkVs3XeUIz641y9ccymHxl0N570HqCgyqVMaW1TALzUVJ/UwDAkJ5DVT6QfINgnxP/0aNCOWuLaYpecTBDZVzMmYBsEtSNkBkRQqbtFPihwDeLIeNXmcFQgNJ87zjY+7HuKhq7nu+m+B6ZA9W+U4JmSBOUMChKdYCIYKCsVW/3qzpWG+Seo=;T8paWUU3R8TbnXWI4OQ3tg=="

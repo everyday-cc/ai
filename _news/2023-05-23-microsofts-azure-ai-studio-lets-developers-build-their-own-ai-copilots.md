@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Build next-generation, AI-powered applications on Microsoft Azure"
+    excerpt: "Welcome to Microsoft Build 2023—the event where we celebrate the developer community. This year, we’ll dive deep into the latest technologies across application development and AI that are enabling the next wave of innovation.\nThe post Build next-generation, AI-powered applications on Microsoft Azure"
+    publishedDateTime: 2023-05-23T15:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/build-next-generation-ai-powered-applications-on-microsoft-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 119
+    images:
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/05/247907_MS_Build_2023_DigitalAppYoast-SEO-1-1024x536.png"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "Microsoft makes a push for AI responsibility and safety through Azure"
     excerpt: "Azure AI Content Safety is now available in preview, but extra features are also coming for Designer and Bing."
     publishedDateTime: 2023-05-23T15:00:00Z
@@ -183,6 +197,38 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft confirms 365 Copilot AI will be 'natively integrated' into Edge"
+    excerpt: "The same AI assistant that Microsoft is adding to Office will soon be natively integrated into the company's Edge browser as well.."
+    publishedDateTime: 2023-05-24T15:03:00Z
+    webUrl: "https://www.engadget.com/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html"
+    ampWebUrl: "https://www.engadget.com/amp/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 103
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/aYBYCJ1XAE0xA1D7qsxXAw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/093f0380-f8bf-11ed-9f92-f24cb882d1a4.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft CTO tells devs to ‘do legendary sh*t’ with AI at 2023 Build conference"
+    excerpt: "To help developers build AI effectively, securely and responsibly, Microsoft has announced a large set of updates and new initiatives"
+    publishedDateTime: 2023-05-23T23:03:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/"
+    ampWebUrl: "https://venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 99
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/10/Microsoft-Logo-white-bkgd.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Ethics — what ethics? For Microsoft, it’s full speed ahead on AI"
     excerpt: "Microsoft's quickly embraced all things AI, even as many in the tech industry raise concerns about the inherent dangers of the technology. The company doesn't care."
     publishedDateTime: 2023-05-23T07:00:00Z
@@ -214,22 +260,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/c1e41e19b8a3f4e5c5306cba90afb53a6dff435f/2023/05/23/0eacd389-da03-4a85-977f-27457bc2cc96/gettyimages-1461116181.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft launches Fabric, a new end-to-end data and analytics platform"
-    excerpt: "Microsoft Fabric is a new end-to-end data and analytics platform that centers around Microsoft's OneLake data lake but can also pull data from Amazon S3."
-    publishedDateTime: 2023-05-23T15:38:00Z
-    webUrl: "https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/"
-    ampWebUrl: "https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-159406176.jpg?resize=1200,800"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Nvidia, Microsoft Open the Door to Running AI Programs on Windows PCs"
     excerpt: "Nvidia is working with Microsoft to let consumers run powerful AI programs on Windows PCs equipped with its RTX graphics."
@@ -333,22 +363,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Goldman Sachs And Microsoft Are Quietly Using AI To Lay The Groundwork For The Next Bitcoin, Ethereum And Crypto Price Bull Run"
-    excerpt: "Wall Street giant Goldman Sachs and Microsoft﻿ are among companies backing a new blockchain designed to streamline financial"
-    publishedDateTime: 2023-05-23T23:14:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2023/05/23/goldman-sachs-and-microsoft-are-quietly-using-ai-to-lay-the-groundwork-for-the-next-bitcoin-ethereum-and-crypto-price-bull-run/"
-    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/05/23/goldman-sachs-and-microsoft-are-quietly-using-ai-to-lay-the-groundwork-for-the-next-bitcoin-ethereum-and-crypto-price-bull-run/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/05/23/goldman-sachs-and-microsoft-are-quietly-using-ai-to-lay-the-groundwork-for-the-next-bitcoin-ethereum-and-crypto-price-bull-run/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646ce9abf88059e0ae467d31/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 797
-        isCached: true
   - title: "5 points to govern AI: Microsoft’s recommended guardrails for the future"
     excerpt: "This post is the foreword written by Brad Smith for Microsoft’s report Governing AI: A Blueprint for the Future. The first part of the report details five ways governments should consider policies, laws,"
     publishedDateTime: 2023-05-25T17:27:00Z
@@ -380,6 +394,20 @@ related:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZWI0NDI2ZDItMDAxNy00/1/ministeronthebooth-jpg.jpeg?f=3%3A2"
         width: 897
         height: 598
+        isCached: true
+  - title: "A leaked Amazon generative AI sales playbook shows how the company is going after ChatGPT-maker OpenAI, Microsoft and Google"
+    excerpt: "The guidelines may help Amazon make a stronger push in generative AI, where Microsoft, OpenAI, Google and others have taken an early lead."
+    publishedDateTime: 2023-05-26T02:03:00Z
+    webUrl: "https://www.businessinsider.com/amazon-generative-ai-sales-playbook-going-after-openai-microsoft-google-2023-5?utmSource=twitter&utmContent=referral&utmTerm=topbar"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
+    images:
+      - url: "https://i.insider.com/5ef13e96aee6a8302d441d42?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Microsoft healthcare AI subsidiary Nuance hit with job cuts"
     excerpt: "Nuance Communications, a Microsoft subsidiary, is undergoing layoffs to focus on its healthcare business. CEO Mark Benjamin notified employees of the job cuts May 19."
@@ -448,20 +476,6 @@ related:
         width: 628
         height: 246
         isCached: true
-  - title: "Microsoft paused raises and cut bonuses to 'invest in the AI wave,' exec tells employees in internal message"
-    excerpt: "In response to employee criticism about recent pay changes, the exec said one reason is \"wanting to invest in the AI wave,\" internal messages show."
-    publishedDateTime: 2023-05-24T18:04:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-exec-explains-pay-changes-cut-bonuses-ai-wave-investment-2023-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://i.insider.com/646e4e056f9a480018736ddd?width=1200&format=jpeg"
-        width: 682
-        height: 341
-        isCached: true
   - title: "How Microsoft is building a platform for custom AI development"
     excerpt: "With Azure OpenAI at the center, Microsoft has introduced a spectrum of new tools for building custom GPT-based LLMs. Here’s how Cosmos DB’s new vector search capabilities fit in."
     publishedDateTime: 2023-05-23T19:37:00Z
@@ -471,22 +485,6 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 64
-  - title: "Jugalbandi: Microsoft-backed Indian group aims to bridge language barrier with AI assistant"
-    excerpt: "An Indian research group backed by Microsoft and Infosys co-founder Nandan Nilekani is using generative AI, the technology behind chatbot sensation ChatGPT, for a mobile assistant that aims to make information on government schemes accessible in multiple languages."
-    publishedDateTime: 2023-05-24T05:56:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 64
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/05/23/1600x900/USA-ARTIFICAL-INTELLIGENCE-BIDEN-0_1684866087281_1684866253190.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Microsoft integrates Nvidia’s AI Enterprise Suite with Azure Machine Learning"
     excerpt: "The integration of Nvidia’s software suite will further help enterprises build, deploy, and manage applications based on large language models."
     publishedDateTime: 2023-05-23T19:01:00Z
@@ -564,22 +562,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Hero-art-8c3e25f0-e8b1-484e-a1db-6a6782aa887c.jpg"
         width: 1256
         height: 584
-        isCached: true
-  - title: "Microsoft, Nandan Nilekani-Backed Indian Group Working on Accessibility-Focused AI Assistant Jugalbandi Bot"
-    excerpt: "The bot uses language models from AI4Bharat and artificial intelligence tech through Microsoft's Azure OpenAI Service."
-    publishedDateTime: 2023-05-24T08:30:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/microsoft-nandan-nilekani-backed-indian-research-group-generative-ai-assistant-jugalbandi-bot-4061839"
-    ampWebUrl: "https://www.gadgets360.com/internet/news/microsoft-nandan-nilekani-backed-indian-research-group-generative-ai-assistant-jugalbandi-bot-4061839/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/microsoft-nandan-nilekani-backed-indian-research-group-generative-ai-assistant-jugalbandi-bot-4061839/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 56
-    images:
-      - url: "https://i.gadgets360cdn.com/large/ai_reuters_1681460368579.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Nvidia teams up with Microsoft to accelerate AI efforts for enterprises and individuals"
     excerpt: "Nvidia will integrate its AI Enterprise software into Azure Machine Learning and introduce deep learning frameworks on Windows 11 PCs."
@@ -807,6 +789,15 @@ related:
         width: 624
         height: 342
         isCached: true
+  - title: "Red Hat unveils Ansible Lightspeed to empower AI-driven IT automation"
+    excerpt: "Learn More Open-source solutions firm Red Hat today unveiled Ansible Lightspeed, a generative AI service integrated with IBM Watson Code Assistant. The company’s latest offering seeks to drive extensive utilization of Ansible automation within organizations,"
+    publishedDateTime: 2023-05-23T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/red-hat-unveils-ansible-lightspeed-to-empower-ai-driven-it-automation/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 51
   - title: "NVIDIA Partners with Microsoft to Supercharge Enterprise-Ready Generative AI"
     excerpt: "NVIDIA announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives, enabling Azure customers worldwide to quickly build, deploy, and manage customized ..."
     publishedDateTime: 2023-05-24T16:33:00Z
@@ -881,6 +872,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "FlowX.ai raises $35M for its AI-based approach to application integration"
+    excerpt: "“Digital transformation” and AI remain very buzzy terms in the world of enterprise software, and today a startup operating in Romania that’s built a platform that taps into both concepts, and is seeing user traction in the financial sector, has ..."
+    publishedDateTime: 2023-05-22T12:03:00Z
+    webUrl: "https://techcrunch.com/2023/05/22/romanias-flowx-ai-raises-35m-for-its-ai-based-approach-to-application-integration/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 46
   - title: "KPI Partners achieves Microsoft Azure Solutions Partner Designation for Data & AI"
     excerpt: "May 17, 2023 /PRNewswire/ -- KPI Partners, a global trusted strategic partner for Analytics and Digital Transformation solutions, announced today that it has achieved Microsoft Azure Solution Partner status in Data & AI. This recognition showcases the ..."
     publishedDateTime: 2023-05-25T18:37:00Z
@@ -908,6 +908,20 @@ related:
       name: Longview News-Journal
       domain: news-journal.com
     quality: 41
+  - title: "AI and automation headline Red Hat’s annual user fest"
+    excerpt: "It wouldn’t be 2023 if there weren’t an artificial intelligence angle, and Red Hat OpenShift AI is the headliner this year. Billed as a “standardized platform for creating production AI/ML models,” the software takes advantage of native graphics processing unit acceleration features and can be deployed on-premises or in the cloud with the same tooling and interfaces."
+    publishedDateTime: 2023-05-23T13:00:00Z
+    webUrl: "https://siliconangle.com/2023/05/23/ai-automation-headline-red-hats-annual-user-fest/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/Red-Hat-Summit-2022-Hero-Image.png"
+        width: 1184
+        height: 645
+        isCached: true
   - title: "Microsoft Build 2023: Day 2 features sessions across AI copilot, Microsoft Azure, more"
     excerpt: "After an impactful opening, day 2 of the developer-focused event features sessions across AI copilot experience, building cloud-native systems, utilizing Microsoft Azure to its full potential and more."
     publishedDateTime: 2023-05-24T02:49:00Z
@@ -931,19 +945,19 @@ related:
         width: 1351
         height: 615
         isCached: true
-  - title: "Microsoft launches Fabric, a new integrated platform for data analytics, management and machine learning"
-    excerpt: "The software can also integrate Azure Data Factory, Azure Synapse Analytics and Power BI into a single unit, particularly to aid business professionals with relevant data."
-    publishedDateTime: 2023-05-25T07:55:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/microsoft-launches-fabric-a-new-integrated-platform-for-data-analytics-management-and-machine-learning-10659191.html"
+  - title: "Microsoft Build 2023: CEO Satya Nadella’s Boldest Statements"
+    excerpt: "Among the technological advancements introduced during Build 2023 by Redmond, Wash.-based Microsoft is more access to generative artificial intelligence “copilots” across the Microsoft product suite, and embracing of plugins to give developers more generative AI options and more AI-powered security offerings."
+    publishedDateTime: 2023-05-23T22:37:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-build-2023-ceo-satya-nadella-s-boldest-statements"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
+      name: CRN
+      domain: crn.com
     quality: 39
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/08/Microsoft_reuters-770x433.jpg"
-        width: 770
-        height: 433
+      - url: "https://www.crn.com/resources/0281-18159ca7c14e-fa2d6c783a75-1000/nadella.png"
+        width: 600
+        height: 392
         isCached: true
   - title: "Check Point Software Extends Its Industry-Leading Cloud Firewall To Secure Microsoft Azure Virtual WAN"
     excerpt: "CloudGuard Network Security provides organizations with cyber resilience through a consumption-based offering, seamlessly integrated inside the A"
@@ -1133,6 +1147,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 21
+  - title: "Avatar animation, AI-powered video production companies among AWS’ first generative AI accelerator cohort"
+    excerpt: "Companies that employ generative artificial intelligence to create clips for social media ... more than 1,200 applications for the 10 spaces in the programme, prompting AWS to expand it to 21. The company will provide the cohort with the resources ..."
+    publishedDateTime: 2023-05-25T07:21:00Z
+    webUrl: "https://www.tvbeurope.com/media-management/avatar-animation-ai-powered-video-production-companies-among-aws-first-generative-ai-accelerator-cohort"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 17
   - title: "Sapiens International Corporation: Sapiens Joins Forces with Microsoft to Leverage Generative AI for Insurers"
     excerpt: "The integration opens up new market opportunities for insurers worldwide BARCELONA, Spain, May 23, 2023 /PRNewswire/ -- Sapiens International Corporation, (NASDAQ: SPNS) and (TASE: SPNS)"
     publishedDateTime: 2023-05-23T11:33:00Z
@@ -1142,6 +1165,29 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 15
+  - title: "Hyperautomation platform Zvolv to integrate AI orchestration to leverage generative AI in new age enterprise applications"
+    excerpt: "Hyperautomation platform Zvolv to integrate AI orchestration to leverage generative AI in new age enterprise applications - Zvolv, a leading global enterprise hyperautomation company today announced new generative AI capabilities"
+    publishedDateTime: 2023-05-25T05:31:00Z
+    webUrl: "https://www.siliconindia.com/news/general/hyperautomation-platform-zvolv-to-integrate-ai-orchestration-to-leverage-generative-ai-in-new-age-enterprise-applications-nid-223190-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 14
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/b7z51cen.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "Informatica Announces Integration of its Intelligent Data Management Cloud with Microsoft Fabric"
+    excerpt: "Informatica is one of the first ISV design partners for Microsoft Fabric and brings Azure customers access to IDMC's comprehensive suite of capabilities as a first-party service. The integration allows Azure customers to have: Seamless integration with Informatica's Data Quality solution to identify and provide high quality,"
+    publishedDateTime: 2023-05-23T15:31:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/23/9819642.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "e1wr/8wTZIVRf4v361JYJUXHm2cRwhIRmOyME0RJJyEH9a9xVSPAs/3SgA2hytaBC8AXpwZFxFrEBOb88B0cbSWQtHEq/YEPZpEUCPVyoB2SKds38IhF1vVc208LseDevZ5jow8+YUA792l2geHV65HvRE+pWWPARo/MdvIgFHUJdcMlnm6q+JQJKbzFhEuLZlExgKb/P2BTbf3tbtQvMs7VC55r5lRp+z+kdbJqXI+d/cIaJ1O11D7D2YuOu3a0hu/52kkFSgsbr/2/fOcKlVTt214VnbyK0c9mE4q+ZI2qIb7xH8YWlELGLYugFWhWi9QCXdp86xQHOU9MQB8n1Nd91K8z1o3NcQZPe7J0QZYKbeToEmoZCINSYGl02fp7A1jfHC8rTnBKOBzgVBG6H0AP3TAvhN7fXq6Ttqi3XyZSfDlEthpNBp66tlzSXsJ0osGSYT3qRgN6792FbyJMFZeWEzjjOqoYAie+bI/BLAKAVj07LJzGzJpemS5XaQlbcD97+8/BrOhQejM47d/v4A==;jcEPw6GZKbaRtAMej5xUuA=="
 ---

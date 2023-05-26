@@ -3,11 +3,11 @@ category: news
 title: "Machine Learning Has Potential to Transform Oil and Gas Industry, Says GlobalData"
 excerpt: "Machine learning has the potential to improve efficiency, increase production and reduce costs in the oil and gas industry."
 publishedDateTime: 2023-05-23T16:19:00Z
-originalUrl: "https://www.automation.com/en-us/articles/may-2023/machine-learning-transform-oil-gas-industry"
-webUrl: "https://www.automation.com/en-us/articles/may-2023/machine-learning-transform-oil-gas-industry"
+originalUrl: "https://www.automation.com/en-us/articles/may-2023/machine-learning-transform-oil-gas-industry? Control News & Articles"
+webUrl: "https://www.automation.com/en-us/articles/may-2023/machine-learning-transform-oil-gas-industry? Control News & Articles"
 type: article
-quality: 16
-heat: 16
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -15,10 +15,15 @@ provider:
   domain: automation.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
-secured: "oKfu1S+xrbyRB8I9eR5divJ429BSwxTpVPCvXBJa0T0ncDYHZYGLCAmSgVMUGZVunYNKAX3SRtkSGHEX9w52rg4eqwJZC5o6fDvlpSUxCN7VP7nNQXqtmuOYthhcnMLAQSI6pax4zakWcvlPkHqb0fVRJGh3ZHK8e2pBdDTkFH2RKaChDClCsCUzDN9mA0gs2peRjB6nMH3d83TSokyrhGILfbkAgaxiIdNtwrYHItJOL0nBY2xa4LXDzYyGXpXQO/vUjeTD9uUyWAhmejolMkbqHQWpCYg3p0S0swrovmKu8E5vpxzvIoHBCtcoDrRFOl8aDBkV6CMXUfzEV4AkYX/o0OrTaj1tnnuIQklBxjdCK3nDPujzPFqCxcgyopzvPSR9iHGhYiL2sZKapGP1vR+u+BrS+q6oivcjwSCNrBpu/ZJsZXp/0DaYz0Ncj7ih5hVZHX+C7g7fZSMNSs4b6lmfoOE67HsBZ6rZQrlFQQO1+CU2/V6sDYsmxP9V9rHH9/NopA5eN/orrcGw4J5b2w==;0cq0p+ED5qs4B5xMBU85ug=="
+images:
+  - url: "https://www.automation.com/getmedia/8033f7c8-5c9d-481c-bc16-e71d0aa4ef8f/Machine-learning-news-May-23-2023-web.png?width=500&height=313&ext=.png"
+    width: 500
+    height: 313
+    isCached: true
+
+secured: "9UdPbycRwwT1PUC0J22b9IleO/0GVhNITl4Y6Q4W31gclqnrYILRSvGBGhJ+TKFVTCB6pipS0qwMQY83Gh1J3hhTcSz5kEx6nvy9sa5bc9QNN7EK3GtBO5e/yoU+nUvYczzCfSlouJJTJe7h5sRTtH/bFk6lG9fB4jfI/7bh9sWfum90sqaEiOYGXtGDktBZfof6QF93LVmYDA06YuA2kRJTqw3UwDkKvrJOC8SlZwzY6+6EgEglrsb6uvpercSk+xwCC2ZRfb+bAG7g9OQlqly1n0EpM/SfKY994n9CRNIVkv0BcPncFWEQz35h5CTZzaO1SVLmES3TS08ivI8KuYVfZCdHxjKIYc5ZG6iCoSA=;pdqVPIW4+RWb3T6C7S0BOg=="
 ---
 

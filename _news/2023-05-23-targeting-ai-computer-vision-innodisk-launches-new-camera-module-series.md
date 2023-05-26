@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicsforu.com/press-releases/targeting-ai-comput
 webUrl: "https://www.electronicsforu.com/press-releases/targeting-ai-computer-vision-innodisk-launches-new-camera-module-series"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 600
     height: 400
     isCached: true
+
+related:
+  - title: "Artificial intelligence innovation: Leading companies in road slope estimation for the automotive industry"
+    excerpt: "Porsche Automobil is a key player in the road slope estimation innovation area. The company’s road slope estimation technology uses GPS and standard vehicle sensors for estimation of road slope. Hyundai, Kia, Toyota and Nissan are some of the other key players."
+    publishedDateTime: 2023-05-22T09:56:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-road-slope-estimation-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 21
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/05/Artificial-intelligence_Road-slope-estimation.jpg"
+        width: 1440
+        height: 810
+        isCached: true
 
 secured: "q7SjuLbRXfQKpsErTRb2PW2kPfBuOz8MqINpsHavSzBMk0hwDc+iU/1Gp1cv58ttpIRG2LuIiks9OWP35z0r6d2xsssGJEzUJaOEC3wvCXwfI5AoXxpi2b6BXgEEk5eF4lqqqiHdP2egYK/UCsnqu6o7UTMK+zmSrItCKznClseFDuhh+9fRyytX39cFmZ2hHb/x6Mr60A2Cf5npgas8MHCFK+DJZnX0ssJCpE8tlB4cPJbN6XnAqqbb7ao+3YkNQqrhHEn5nYwKXn5k8rWGouIct9VG5c8ClJb9QJbc+ONltkTUJ9ZKULF2IfVsehkeEAW11K3RpcYq+2obMkQmexihKlZOXvWfQEG7++N9bfzHXV2kQI30AJkrzduT6M9E1Uelch40Uzi0PUArYZkwgNokrIh+Fnp7UOTZVHxgvWMU+m9l+rrUnG0DOOzRJFsu7yHIJBOJ/5J0u/NOgCaaveGSy/HIxkOTORr+Kj8avnPtmUZJHRBFNk8C8ISmq2vn1XQWy1NM0zhLbvXUttA0Dg==;xKcahfvZnu3IqnQcLo53ng=="
 ---

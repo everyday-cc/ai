@@ -1,26 +1,28 @@
 ---
 category: news
-title: "UK To Roll Out Driverless Bus Service"
-excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control"
-publishedDateTime: 2023-05-12T03:40:00Z
-originalUrl: "https://menafn.com/1106231030/UK-To-Roll-Out-Driverless-Bus-Service"
-webUrl: "https://menafn.com/1106231030/UK-To-Roll-Out-Driverless-Bus-Service"
+title: "UK to roll out driverless bus service"
+excerpt: "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency"
+publishedDateTime: 2023-05-11T22:45:00Z
+originalUrl: "https://www.gulf-times.com/article/660874/classified/uk-to-roll-out-driverless-bus-service"
+webUrl: "https://www.gulf-times.com/article/660874/classified/uk-to-roll-out-driverless-bus-service"
+ampWebUrl: "https://www.gulf-times.com/article/660874/classified/uk-to-roll-out-driverless-bus-service/amp"
+cdnAmpWebUrl: "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/660874/classified/uk-to-roll-out-driverless-bus-service/amp"
 type: article
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Gulf Times
+  domain: gulf-times.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?653301"
-    width: 333
-    height: 250
+  - url: "https://www.gulf-times.com/gulftimes/uploads/images/2023/05/11/28023.jpg"
+    width: 1000
+    height: 665
     isCached: true
 
-secured: "lH3fOhmoVF6fFtlb/oRRG/OFTTodZFdFrziCwO33JYc/TTROz+rjwrdy7cTLIERWKFxiNfpJkKTcHPCeXNxCyG6YwL/k11jE7MNmsdUr0U0R8P5kAzBqyvCt1/xM9wDFethTUc3cS5FOgSDlS7lmU27zIBds22nFRi4ZktypHufBYPEGFU+F8+CdoJ8k/mzwvysoMW0xgwtnbnHzW8pPTqckvg4dA8QgCYeVKYZGbNL0e1mBANpGrEJQCk+rBHN/OT29lZgHJJxI8Sfz/LBKbuus2/FpGuxqwsKZGttO4348LZ7uTpnwLBBo6Hh1lsTGMU1OIKtSquIEomyW9VPaB9bPQf10c/LXXAKOQSkXv6BEOXwACd1u9eSCukdQjKfGyXcMzM/PJ5SSAdWio0nxFXhbPcQ5ozqFMMYq4h/G8BtlbZdBOk5fZ8I/Zku8klHm/4RATDZ5/ZJUn5T6RSVbearIo7wZVe/PJbGNlWqDJHDoMbGZOCihWsPNUS+0o+GZT6I3SmH0arkPZUh+c6VtRA==;YZT5rVWBNEdUh7DsX3ibyA=="
+secured: "+y0/T59IhbfjmvD+9vbMn14WqS6qxjA1YNXX9jJTEvHlFN5f42hjpWoNFFVty5wIWIN1Rs5QO/jp9WYzhscahAjliyfIeT/HKPrVr8VkDG0k555p90eUtnEuJjgriCOB+nSxjjuNosSbK2hed3yGuKOkCXRTs5C5b211G7fJVavFVQ4pe6RhHU94Fd/R2DLJoguB9bp6hZoRvhObzF1mORmJL0zmRFZD/7vpfrDGocE9h/cyVVbH1PA1DTGK+hknjC0SGoYxhreSZmbOB7x5b4tWvLBVsyk4KsCg4xnpRNIF33ghARbOu0pLQ+V09qF6FG1henL08cICcp2O0fOE7Ke5yWgkYbGE1Uj7gp44PQ4=;aH3AuNOH+GlEkP4NXAlxUw=="
 ---
 

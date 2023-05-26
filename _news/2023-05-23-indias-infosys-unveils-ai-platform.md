@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/indias-infosys-unveils-ai-platf
 webUrl: "https://www.reuters.com/technology/indias-infosys-unveils-ai-platform-2023-05-23/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI policies across the world: Key lessons for India"
+    excerpt: "Several countries have adopted different policies to regulate the development and use of Artificial intelligence (AI). India can incorporate key lessons from them in its \"AI for all\" framework"
+    publishedDateTime: 2023-05-25T11:03:00Z
+    webUrl: "https://www.forbesindia.com/article/isbinsight/ai-policies-across-the-world-key-lessons-for-india/85163/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/isbinsight/ai-policies-across-the-world-key-lessons-for-india/85163/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/ai-policies-across-the-world-key-lessons-for-india/85163/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 59
+    images:
+      - url: "https://www.forbesindia.com/media/images/2023/May/img_208481_artificialintelligence.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Infosys Announces AI-First Offering Topaz To Accelerate Business Value For Global Enterprises"
     excerpt: "Infosys is taking an AI-first approach to its own transformation, the company said, adding that it is applying Topaz to bring the power of generative AI, analytics and cloud to accelerate its own market offering evolution,"
     publishedDateTime: 2023-05-23T23:25:00Z

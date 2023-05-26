@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/these-generative-ai-tools-c
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind-what-you-should-now/"
 type: article
 quality: 89
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/05/gBWUDTLU.png?resize=1200,793"
         width: 1200
         height: 793
+        isCached: true
+  - title: "Adobe integrates generative AI directly into Photoshop with new Firefly capabilities"
+    excerpt: "Adobe has announced its first generative AI integration with Photoshop, bringing Adobe Firefly capabilities directly into design workflows."
+    publishedDateTime: 2023-05-23T11:00:00Z
+    webUrl: "https://venturebeat.com/ai/adobe-integrates-generative-ai-directly-into-photoshop-with-new-firefly-capabilities/"
+    ampWebUrl: "https://venturebeat.com/ai/adobe-integrates-generative-ai-directly-into-photoshop-with-new-firefly-capabilities/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/adobe-integrates-generative-ai-directly-into-photoshop-with-new-firefly-capabilities/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-74.png?w=1200&strip=all"
+        width: 1200
+        height: 750
         isCached: true
   - title: "Google's Magic Compose is available now, bringing generative AI to Messages"
     excerpt: "Want to compose a text message but don't know what to say? Google's Magic Compose can let AI handle it, rolling out now to Messages in beta."

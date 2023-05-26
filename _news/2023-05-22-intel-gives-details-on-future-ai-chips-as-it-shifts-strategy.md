@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/news/picture/intel-gives-details-on-future
 webUrl: "https://www.reuters.com/news/picture/intel-gives-details-on-future-ai-chips-a-idUSKBN2XD1A3"
 type: article
 quality: 84
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -130,6 +130,15 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 29
+  - title: "Intel Announces an Integrated Neural AI Accelerator in Meteor Lake"
+    excerpt: "Intel says it's working with Microsoft to make the development of AI features on the personal computer a reality. It will do this by offering a VPU, or Vision Processing Unit, as part of the SoC tile in Meteor Lake."
+    publishedDateTime: 2023-05-24T18:00:00Z
+    webUrl: "https://www.extremetech.com/computing/intel-announces-an-integrated-neural-ai-accelerator-in-meteor-lake"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
 
 secured: "J8Afiz4CcwaiFOCtXNeXLUL4vPXL8SEOGhSCZm5Cz/UneeAQ+GhUfaQgXUckhbjCfAUORyJcQammNNlF0PuJVAXO/p1IS4ZRPChGJLQ1R91FM/aN+aQPRoyXmtlQWSkPdoGax2r/rAjGCICKaTNiiMdTlVbz/is1fboAuk+Y+lyIESzcLswUV+qJhfeH0gxFHbbA/VnHQtF/WwxsQq3Koi8sSvDQxFMULx8UqI1yZ6XEnVfDbOFTFjmeHi1yrYKhLja6xVO1tD6jMsgTbTzC6+93JN1lrDB4NKuh86jcZ3tQh22yylnGJn4cHVfUftP8un0m9EKj140S/AyIdHeo35t728gpcizEHa9xbolkgm267km4nNLfJXdIbap3kw6gh1B0SNCtsVQTke96IJuST0csCA/dKWNwJpUBMekCBx1RB7bhdmDNajUJ0h5QAXRi7LLHdRMaDPfjiPXr+c+QOy01abu1j00Acr0iOxhvmmsfAsMFKXl5+qpP8EOWzcUsUxljIMaaRc4OrjA1a5UvMQ==;yRno/e5un/qjdkjuNEYTOA=="
 ---
