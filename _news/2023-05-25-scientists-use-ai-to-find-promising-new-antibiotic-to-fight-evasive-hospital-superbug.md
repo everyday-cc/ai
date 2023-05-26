@@ -42,6 +42,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "A new antibiotic, discovered with artificial intelligence, may defeat a dangerous superbug"
+    excerpt: "Using artificial intelligence, researchers say, they’ve found a new type of antibiotic that works against a particularly menacing drug-resistant bacteria."
+    publishedDateTime: 2023-05-26T18:45:00Z
+    webUrl: "https://www.wesh.com/article/antibiotic-discovered-with-ai/44017261"
+    ampWebUrl: "https://www.wesh.com/amp/article/antibiotic-discovered-with-ai/44017261"
+    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/antibiotic-discovered-with-ai/44017261"
+    type: article
+    provider:
+      name: WESH
+      domain: wesh.com
+    quality: 49
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbgkzchjrcdqwmdjmm2i2zdm3bdd0znnl-l19wywdlcy9jbgkzbznlmzywmdawnjzwogf6zmpizhc2-jpg-6471024c02f42.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How can Artificial Intelligence discover an antibiotic?"
     excerpt: "CNN's Elizabeth Cohen reports on how researchers have used AI to discover a powerful new antibiotic that can kill a deadly superbug."
     publishedDateTime: 2023-05-26T13:09:00Z

@@ -43,6 +43,22 @@ related:
         width: 750
         height: 393
         isCached: true
+  - title: "Qatar to hold 2nd edition of Fintech Finance Technologies Conference"
+    excerpt: "The State of Qatar will convene the 2nd edition of Fintech Finance Technologies Conference on May 31, with the participation of several international bodies, banks,"
+    publishedDateTime: 2023-05-26T20:02:00Z
+    webUrl: "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference"
+    ampWebUrl: "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference/amp"
+    cdnAmpWebUrl: "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference/amp"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 59
+    images:
+      - url: "https://www.gulf-times.com/gulftimes/uploads/images/2023/05/26/34940.jpg"
+        width: 1000
+        height: 559
+        isCached: true
   - title: "Fintech Nexus 2023 – Fintech Forever"
     excerpt: "Rising interest rates, stubborn inflation, and the encroachment of AI were topics of discussion at Fintech Nexus. We find ourselves at a crossroads again, and the industry must find its footing to reinvent itself. The keynote speakers this year are akin to ..."
     publishedDateTime: 2023-05-24T14:52:00Z

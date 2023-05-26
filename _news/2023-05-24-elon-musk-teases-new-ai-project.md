@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk has ruled out a 'winter' for artificial intelligence, and hints the AI boom is just beginning"
-    excerpt: "Elon Musk has ruled out the possibility of a winter for artificial intelligence, and hinted that the current boom is just beginning. \"There will not be a winter for AI, quite the opposite,\" the business mogul tweeted on Sunday."
-    publishedDateTime: 2023-05-22T15:55:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/elon-musk-ai-winter-boom-tech-stocks-chat-gpt-tesla-2023-5"
+  - title: "Elon Musk unveils humanoid ‘optimus’ robot at Tesla’s AI day"
+    excerpt: "He acknowledged that current humanoid robots lack a sophisticated artificial intelligence system ... Elon Musk aims to refine Optimus and start production possibly in the coming years."
+    publishedDateTime: 2023-05-26T18:00:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/thoughtsofnerd/elon-musk-unveils-humanoid-optimus-robot-at-teslas-ai-day-54255/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 51
 
 secured: "RRbcLL+8NRpoIEDvm9d0+xuALygvi0MhdqkTccRuQL32xiBm/xwVjgQMpyJvfgu4pODf2v1YI1Fqr14rurgnhdwmj1UQE6Qqn5KfAT1nADhcSpgaHME5iaWuSLLeq3S7zy7qaSkUYUDKH9GJEk905B50yR1rI121UcMVnNb74dyCz9QshaQqCmoiSS/duFSEgtI77t9Icnuqv7i57LpMpdt4DQs7s6x0aXV6XyiIjZ0cmytd1vPB3zCAcMomQNhIvYWGjeOYnI2VvFuk+LZOCxHalUPVmmwx6zex/RA3fLPhsinDMp1ta5KL12sjYetdDmkXKkmtBqGzjzzLMo89XEMvv3CBjCB0O/98MjyJpdoZLQrk/nPJzznuYrGnrdlnSv9HpXrMGLyUJFhbH7Ni0fMMcWNYm2Q9cVgQl5dflnON2kVpBZLEBMulZJ/6t1bEctzmwteaR3mY5++QTzxDpam9MdMOJuLYyqID/YXcmRhhVkFu1IzcQxFrM8kqMPPwrqQ5ptMOCsSV02taxl4sKw==;bNfaAwwJ19jWjSe4sQa5JQ=="
 ---

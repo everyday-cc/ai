@@ -100,20 +100,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How AI is changing the game in youth sports"
-    excerpt: "Salt Lake County's Copper Mountain Soccer Club is among many youth teams using new AI video technology that films games and then culls each player's performance into a highlight reel."
-    publishedDateTime: 2023-05-22T02:02:00Z
-    webUrl: "https://www.ksl.com/article/50646179/how-ai-is-changing-the-game-in-youth-sports"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 37
-    images:
-      - url: "https://img.ksl.com/slc/2930/293016/29301604.jpeg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
-        isCached: true
   - title: "Welocalize Beta Testing Enhanced Workflow for Managing Expansion of Multilingual AI-Generated Content"
     excerpt: "Content supply chains will be profoundly disrupted as corporations adopt generative AI technology to create marketing, product, and other forms of content. For over two decades, leading language services provider Welocalize has used artificial intelligence (AI),"
     publishedDateTime: 2023-05-24T20:46:00Z

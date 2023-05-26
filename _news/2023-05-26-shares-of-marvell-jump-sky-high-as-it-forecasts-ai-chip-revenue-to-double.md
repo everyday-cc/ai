@@ -55,6 +55,15 @@ related:
         width: 600
         height: 800
         isCached: true
+  - title: "Marvell Technology Is the Latest Tech Firm to Benefit From AI"
+    excerpt: "Marvell Technology (MRVL) is the latest tech firm to say it is benefitting from the boom in artificial intelligence (AI), and shares skyrocketed on Friday after the company released its first-quarter earnings."
+    publishedDateTime: 2023-05-26T19:54:00Z
+    webUrl: "https://www.investopedia.com/marvell-technology-is-the-latest-tech-firm-to-benefit-from-ai-7504792"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 19
 
 secured: "4PkIzyz4/0gNb5+M7VzZ/LmzxBVhva+7PfrVL3bwn4lGInelwq8LUQYgU/Hc/AUrSNlK9iQnAVR6aLerNUK06+QXacP1FGzo1gZdH42JAp1CmRRgQEQ6Se1DSg8nrNtZFdyIi/KVNtTdVPeOs5vNObQ6gQLjrWGYmlNBJbYUFGL7VaSSVmcHp3C45R/Qo/vbvnZK+PXeas+GpP2iuFztiyUeiacDM2LnNlw0N33kGM81f+n/CcmMcvaH4s+S95nqFDpHTiv4n1sxSP7LN8dIYS0LUSvqbAOPwlJPdDz60dnlKmksGSRCpIxKntXQMJGtsCBtbJAApPKAY6v8T6TN+FzPTnHcCvk2a5MvYzzeMPpt1J1K1X4LXnokReLkw2WZpeFhsdueaaEz+6R5g109kzSZspAXPq0XMknI0HzqAMS7h0vAGi57erK6ZDkwtY46pudDjvwe1XeDaYLft51h8AKjiwnGAz+tdeyrVVUpGW4HHabXvigsz4fPVYaU1aFQkCtZBrkUSGpZPgdnU4X3iw==;bnCfsSfpGVYB1kYyXQR7aQ=="
 ---

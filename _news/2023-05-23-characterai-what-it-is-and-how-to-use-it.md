@@ -57,6 +57,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Generative AI: How it Works, History, and Pros and Cons"
+    excerpt: "Generative AI is used in everything from creative to academic writing and translation; composing ... in which prompts can be given and interactions can take place in plain language. Here are some of the most popular recent examples of generative AI ..."
+    publishedDateTime: 2023-05-26T18:17:00Z
+    webUrl: "https://www.investopedia.com/generative-ai-7497939"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 41
+    images:
+      - url: "https://www.investopedia.com/thmb/evqH4CUzBFrebOwRlM2CANNWBz8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chatgpt-588fc25767134c248543d3de511ed5ea.jpg"
+        width: 1500
+        height: 1002
+        isCached: true
 
 secured: "rz8W6s0ZQBVYAejbDsPTjUfLjZuRxXg4Zx7MsX77de4Cv+/7G0D+PJo9mAclI6ZyOPo9M/WT+PQK0vTToywSTcXRt/8oQMG1e8PF3IuQPKSnjmAvXJ7GM254T6Pqi5QGB4rT6MZkmM7eZE/IZf96rL1aMVWZ5e2jLScfacXW+zZk5wypCDsq82vooeOVFDxndnAYeDKzdjlkOfFPo6HVW+RMJTXpx6Heef0yvloHLwrzLav8gTlVOzp5vSoCpo7SE9L33wMPpbj+5BreSH4gTnIlrvgz2ZwM6oMcXbUTuXJb4yQ6SpdmScopG9DMFZechiqjA0mCzGcJH04t8AnDjqItbmQjUe12eUwagdspmGx8POgsoU0YTi1Col3QwMIkun4UFpsd7RK+gag81eZRRHQ34m/tI2vOn2R5vM0kt3WU+8Gw5jabVvUGDFqF+68ILQh/Arw/WWXh4Rqv3ZLqre9lTZP55Xw4+BZV+CVhDMcLUMa1Vhr2HXhrsFGm8itDuAotwa45jLVEYcIrd51P3w==;vJCmBN/SjmB00Qg7l/Jr3g=="
 ---

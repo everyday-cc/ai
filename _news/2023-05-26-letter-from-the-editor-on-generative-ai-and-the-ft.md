@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Letter from the editor on generative AI and the FT"
-excerpt: "As editor of this newspaper, nothing matters to me more than the trust of readers in the quality journalism we produce. Quality means above all accuracy. It also means fairness and transparency. That’s why today I am sharing my current thinking on the use of generative artificial intelligence in the newsroom."
+excerpt: "In its more than 130-year history the Financial Times has upheld the highest standards of journalism. As editor of this newspaper, nothing matters to me more than the trust of readers in the quality journalism we produce. Quality means above all accuracy. It also means fairness and transparency."
 publishedDateTime: 2023-05-26T14:53:00Z
-originalUrl: "https://www.ft.com/content/18337836-7c5f-42bd-a57a-24cdbd06ec51?shareType=nongift"
-webUrl: "https://www.ft.com/content/18337836-7c5f-42bd-a57a-24cdbd06ec51?shareType=nongift"
+originalUrl: "https://www.ft.com/content/18337836-7c5f-42bd-a57a-24cdbd06ec51"
+webUrl: "https://www.ft.com/content/18337836-7c5f-42bd-a57a-24cdbd06ec51"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-    width: 619
-    height: 377
-    isCached: true
 
 related:
   - title: "IBM Consulting unveils Center of Excellence for generative AI"
@@ -117,6 +111,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/646f91be35b7dfa61705ca3b/0x0.jpg?format=jpg&crop=1073,604,x0,y80,safe&width=1200"
         width: 1073
         height: 604
+        isCached: true
+  - title: "IBM Consulting introduces Center of Excellence for generative AI to empower business transformation"
+    excerpt: "implementing and managing generative AI solutions. This approach involves integrating multiple models from industry-leading providers on various cloud platforms. Furthermore, with the cutting-edge innovations from IBM Research and the capabilities of the ..."
+    publishedDateTime: 2023-05-26T19:07:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-consulting-introduces-center-excellence-generative-ai-empower-business-transformation/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 57
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1233363927-e1628896963459.jpg?fit=750%2C499&#038;strip=all"
+        width: 750
+        height: 375
         isCached: true
   - title: "How AI is being used for consumer education in banking"
     excerpt: "Jennifer Fuller, US Financial Services Lead at PA Consulting, explains how fintech companies are using AI to improve consumer education and banking interactions."
@@ -235,6 +243,6 @@ related:
       domain: businesswire.com
     quality: 8
 
-secured: "G/XSyshhgSXqJjFZf1FK5Zw7NalzbkT0roQ8JD1odQEEl3ZzfD6V7s/Ij0u2KhBvS3n4TtHw1HCAhI/tYukwaS35/0yZ/BllBj6tvAdp6U/7RBHxdiWcTLWhd1o6GwfrLMEdDw3L/avVRaJA0fWfbTTUuuQ51dPW4V6gi6FaCDfM7V4Tf/4a45xZj84iCtiSjUjwMu/ng3Z7FRndD+YpwsvlXqPsXrDt4PeYj398O3W939YCu9/Tulw+V8dpZ5RckuHUBliyPuxHv+KNpVnqebT4wy+7v0sjvmOShIVEXqzaeAfJM0PQXDvz2vWaBA6Qnekwsc1CGbejCsv7mPyyHemozP4/rroayLP0zwM8u5U=;qtqhZ/chWu/v7xt5/FuTgw=="
+secured: "SyFK5EdzSR+ygUkTMkAFcJRatPNfOuRukiZ6LpDLQaIndokM+yPV51jMkJA9TejO7H/pXstq33474h4ZPvnklYHOnU6tGICsahXDA8+Ft/cIPqyOmg5rmKd+PN805CshgCTh07YaemNvMgDp4BuxWR4RqyTHHpV4J568h84kP9qArOv3ZEUvlvTc5IP5imbFJgkcENSbICWFTkt5wLiiPUySaE+bSHaicQHcLg7X9bb69Pj8OIyIk4PdEhTx32KD3s4AA8kWqOuUE+avQb/ReITmUPuJwPW2/1fEHxiiSjmSRTbnKigNGczsyLA4CntFdCsV132UrUWSg1xsLggss/sH3PiM56MxsbvVVPIXx+I0IsM7AOwM4xeFDiJ3l4Hr8UHNQVRyiOUameSLMtWnmEHTkyrkLS8BBDh4h5s9bcjfXsotpJKrlpx0sA9olqABjcNJhsFic1I71u6YUFWN/5hDNr01puOAeQaLmtgqF9COJzwOCm/snuNTtCw7MG24hqbxckYzUxYnMKOcpqQfHw==;iyBd9Fk1l5d3nOAQeUqCLA=="
 ---
 

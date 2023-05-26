@@ -102,6 +102,34 @@ related:
         width: 1474
         height: 775
         isCached: true
+  - title: "The Rise of Large Language Models: Revolutionizing AI Chatbots"
+    excerpt: "The field of artificial intelligence (AI) has advanced significantly in recent years thanks to improvements in machine learning and natural language processing. The advent of large language models (LLMs) is one such invention that has captivated the world."
+    publishedDateTime: 2023-05-26T19:19:00Z
+    webUrl: "https://techstory.in/llms-and-ai-chatbots/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/05/buying-your-first-investment-property-top-10-tips.asp-ADD-Color-074cf6b2f8434f4fbc8d94edeb361cd6-360x240.jpg"
+        width: 360
+        height: 240
+        isCached: true
+  - title: "Twitch Star Amouranth Wants Her AI Chatbot To Put Trolls In Their Place"
+    excerpt: "A successful businesswoman (who now reportedly owns a gas station) and OnlyFans creator, Amouranth can now add “tech tycoon who’s excited about AI’s future” to her resume. Kotaku caught up with Amouranth—who ensured us she wasn’t her AI counterpart—to discuss AI Amouranth,"
+    publishedDateTime: 2023-05-26T21:30:00Z
+    webUrl: "https://kotaku.com/twitch-streamer-amouranth-ai-chatbot-forever-companion-1850481108"
+    type: article
+    provider:
+      name: Kotaku
+      domain: kotaku.com
+    quality: 37
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c6e0b3c6e810a144a98d73d66654de7e.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "jMCph7luPzrttn3cKoorJJjWn3/AzdCbJT+X5SbZGDd8AwsPV1d97AB/WJgw1aczXJ6hhxciS5Q1rf6WS4+HYa36OQj20fIO3FnX1Lfr6DMsSjsnQYv71RiW4xRH2CSLu4a0mGlZOAGsWqPEk1w/D/rzd9q8ktNS5Lvt+edsguvamfU/UM4ir9PeWl3bNpqZ7rhDY22AknWvk+5szWUlCZSfaSmhTfev11HS/hZeomrJ0pTFjkmmVmad3Tr5qc0GDmfAUPn184mtE2ijFbhOuGCmTYZ5l4URgQ4VvWc2rA4PxRf/SXQxm1mdi+aIHzIfmrEAQkKsjWoZcFaWe3XvkB869azKzWAkNoerzTC1Qj8=;4FfcsbMxTVNQ6oUo6lFmgQ=="
 ---

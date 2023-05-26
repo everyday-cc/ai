@@ -2,6 +2,135 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2023-04-26-global-artificial-intelligence-ai-chips-market-set-to-boom-in-the-near-future-2023-2030.md",
+      "title": "Global \"Artificial Intelligence (AI) Chips Market\" Set to Boom in the Near Future 2023-2030",
+      "excerpt": "Chips Market\" information for each competitor includes (Qualcomm, Mythic, Adapteva, Advanced Micro Devices (AMD), Google Inc., NVIDIA, Intel Corporation, UC-Davis, Graphcore, Baidu) Company Profile, Main Business Information,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-set-to-boom-in-the-near-future-2023-2030-2023-04-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-set-to-boom-in-the-near-future-2023-2030-2023-04-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-cadence-collaborates-with-guc-on-ai-hpc-and-networking-in-advanced-packaging-technologies.md",
+      "title": "Cadence Collaborates with GUC on AI, HPC and Networking in Advanced Packaging Technologies",
+      "excerpt": "GUC’s big-die CoWoS platform represents real-world CPU, GPU, AI, and networking chips by integrating multiple instances of the Cadence 112G-LR SerDes with a 7.2Gbps HBM3 controller and PHY ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230426005217/en/Cadence-Collaborates-with-GUC-on-AI-HPC-and-Networking-in-Advanced-Packaging-Technologies/?feedref=JjAwJuNHiystnCoBq_hl-cFcUWvK4NSyDWO6DSHmLQqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu6AeRucmCP4ZHknI_zC0f97",
+      "originalUrl": "https://www.businesswire.com/news/home/20230426005217/en/Cadence-Collaborates-with-GUC-on-AI-HPC-and-Networking-in-Advanced-Packaging-Technologies/?feedref=JjAwJuNHiystnCoBq_hl-cFcUWvK4NSyDWO6DSHmLQqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu6AeRucmCP4ZHknI_zC0f97",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-26T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsroom.businesswire.com",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-26-waymo-driverless-car-goes-viral-after-police-officer-directed-it-to-pull-over.md",
+      "title": "Waymo driverless car goes viral after police officer directed it to pull over",
+      "excerpt": "A screenshot of the viral video on TikTok showing driverless car passengers reacting to the police officer's guidance. TikTok/@johnnyromano3 A video of a driverless car reacting to a police ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoblog.com/2023/04/22/waymo-driverless-police-pull-over-viral-tiktok/",
+      "originalUrl": "https://www.autoblog.com/2023/04/22/waymo-driverless-police-pull-over-viral-tiktok/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims3/GLOB/crop/2101x1182+0+355/resize/800x450!/format/jpg/quality/85/https://media.zenfs.com/en/insider_articles_922/a4e85d9a08813ade8083e13453f0e986",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autoblog.com/amp/2023/04/22/waymo-driverless-police-pull-over-viral-tiktok/",
+      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/04/22/waymo-driverless-police-pull-over-viral-tiktok/",
+      "publishedDateTime": "2023-04-26T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-26-stop-the-killer-robots-musk-backed-lobbyists-fight-to-save-europe-from-bad-ai.md",
       "title": "Stop the killer robots! Musk-backed lobbyists fight to save Europe from bad AI",
       "excerpt": "A lobby group backed by Elon Musk and associated with a controversial ideology popular among tech billionaires is fighting to prevent killer robots from terminating humanity, and it's taken hold of Europe's Artificial Intelligence Act to do so. The Future ...",
@@ -1055,162 +1184,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-microsoft-reports-earnings-beat-says-ai-will-drive-revenue-growth.md",
-      "title": "Microsoft reports earnings beat, says A.I. will drive revenue growth",
-      "excerpt": "Microsoft surpassed expectations on the top and bottom lines and beat estimates on quarterly revenue guidance. Growth from Azure and other cloud services slowed to 27% from 31% in the prior ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/04/25/microsoft-msft-q3-earnings-report-2023.html",
-      "originalUrl": "https://www.cnbc.com/2023/04/25/microsoft-msft-q3-earnings-report-2023.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107177565-1673483190912-gettyimages-1244789744-SKOREA_MICROSOFT.jpeg?v=1682455591",
-          "width": 4000,
-          "height": 2668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/04/25/microsoft-msft-q3-earnings-report-2023.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/04/25/microsoft-msft-q3-earnings-report-2023.html",
-      "publishedDateTime": "2023-04-25T18:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-artificial-neural-networks-market-share-and-forecast-till-2030.md",
-      "title": "Artificial Neural Networks Market Share and Forecast till 2030",
-      "excerpt": "Newest Report will contain the Competitional Analysis of Top 5 Key Plyers (Intel, Starmind, Clarifai, Microsoft,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-share-and-forecast-till-2030-2023-04-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-share-and-forecast-till-2030-2023-04-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T17:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-26-missed-the-ai-rally-hsbc-names-4-chinese-stocks-set-to-benefit-from-the-trend.md",
-      "title": "Missed the A.I. rally? HSBC names 4 Chinese stocks set to benefit from the trend",
-      "excerpt": "For example, the Global X Robotics & Artificial Intelligence ETF has risen by 22% and attracted $142 million in fund flows this year. The fund now holds more than $2 billion worth of assets ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/04/26/missed-the-ai-rally-hsbc-names-4-chinese-stocks-set-to-benefit-from-the-trend.html",
-      "originalUrl": "https://www.cnbc.com/2023/04/26/missed-the-ai-rally-hsbc-names-4-chinese-stocks-set-to-benefit-from-the-trend.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107219133-1680513064696-gettyimages-1413577536-dsc081482342342342.jpeg?v=1682467610&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-25T17:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

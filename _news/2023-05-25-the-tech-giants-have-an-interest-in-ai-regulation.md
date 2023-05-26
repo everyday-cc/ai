@@ -240,6 +240,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 19
+  - title: "U.S., China and Europe begin push to regulate AI"
+    excerpt: "Regulations could have a significant impact on the research and implementation of products and technology in the security industry in the coming years."
+    publishedDateTime: 2023-05-26T19:41:00Z
+    webUrl: "https://www.securityinfowatch.com/cybersecurity/article/53061798/us-china-and-europe-begin-push-to-regulate-ai"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 19
   - title: "OpenAI nearly doubles size of its startup investment fund"
     excerpt: "Here's how big OpenAI's fund now is, what they've backed so far and who they added as a limited partner (it’s not just Microsoft)."
     publishedDateTime: 2023-05-25T21:24:00Z

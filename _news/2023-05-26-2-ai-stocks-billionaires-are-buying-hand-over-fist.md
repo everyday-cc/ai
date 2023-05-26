@@ -45,6 +45,20 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "AI Is Becoming the Stock Market’s Answer to Everything"
+    excerpt: "Rarely does a tech-powered stock rally come along that isn’t pilloried for the fragility of its foundation. Now, with a snowballing craze for artificial intelligence pretty much propping up the market by itself,"
+    publishedDateTime: 2023-05-26T20:11:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-26/ai-oligarchy-becoming-the-stock-market-s-answer-to-everything"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD7jl4MGgd9k/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "ewn97LBcXCD6iwdxBXyqb5CY2Tuy9yvjIhiCXvIblUlXAywGyuJQNdYijefHlOQXsTqfRKwnkj28Ya9PmzPZTAXi33LFD6P8G1e60gcM0p0iAOb4rhHNkgkuu/h7RQiifmJdTuiuDOjoLsgWTYi0j/M+AIKQJocvZ4ooKsddTY1oP6vV/Vv+nz7cWkm8NBYxo4FzYjpN11N7lfbbHE27PDza9xoq5Gz77M3PDWzGj5qm2tCXg48SJYLa6peiZD6uCzvlIxOsVzJIRIlPFvLACuH5qQzBrUBB+GlkROUvv7NIekr+xUJ6IyI5gKhjepZT8amTtRCqPR7bEEX3R7XScTm7o4bmvq7znxanZlgMVNc=;I8ykrwqYWZ0sqO6SiMQ4ww=="
 ---

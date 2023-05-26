@@ -38,6 +38,20 @@ related:
         width: 414
         height: 364
         isCached: true
+  - title: "VB Transform: Navigating the generative AI wave, insights from top executives at major corporations"
+    excerpt: "Enterprise speakers slated to join us at our VB Transform event on July 11 and 12 will shed light on their generative AI initiatives."
+    publishedDateTime: 2023-05-26T18:18:00Z
+    webUrl: "https://venturebeat.com/ai/vb-transform-navigating-the-generative-ai-wave-insights-from-top-executives-at-major-corporations/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 53
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/VB226360.jpg?fit=750%2C500&#038;strip=all"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Artificial intelligence innovation: Leading companies in road slope estimation for the automotive industry"
     excerpt: "Porsche Automobil is a key player in the road slope estimation innovation area. The company’s road slope estimation technology uses GPS and standard vehicle sensors for estimation of road slope. Hyundai, Kia, Toyota and Nissan are some of the other key players."
     publishedDateTime: 2023-05-22T09:56:00Z

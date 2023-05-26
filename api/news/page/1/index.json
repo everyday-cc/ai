@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-27-opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems.md",
+      "title": "Opinion: Stop the robot takeover: How AI advancement can pose problems",
+      "excerpt": "Pospisil explains that most jobs robots will take over are automated. They still cannot compare to a human’s ability to adapt or critical thinking skills in more specialized jobs not having to do with Ford production. In short, they won’t replace us in the job market because they’re missing a human element.",
+      "sourceUrl": null,
+      "webUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/",
+      "originalUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/01/Screenshot-2023-01-28-11.17.25-PM.png?fit=361%2C240&ssl=1",
+          "width": 361,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/amp/",
+      "cdnAmpWebUrl": "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/amp/",
+      "publishedDateTime": "2023-05-26T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-26-stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says.md",
       "title": "Stock market’s AI frenzy reinforces this crucial rule for traders, RenMac says",
       "excerpt": "A mind-blowing Thursday surge by shares of chip maker Nvidia Corp. that fed a frenzy for artificial ... the 50-day moving average falls below the 200-day moving average. And the AI rally has some market watchers pondering if another bubble may be in ...",
@@ -106,7 +149,7 @@
       "originalUrl": "https://www.marketwatch.com/story/ai-bubble-retail-investors-arent-rushing-in-yet-c1a8a3ae?mod=robert-schroeder",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -338,7 +381,7 @@
       "originalUrl": "https://www.foxnews.com/media/ai-will-make-humans-more-creative-not-replace-them-predict-entertainment-executives",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -390,7 +433,7 @@
       "originalUrl": "https://www.reuters.com/technology/investing-ai-how-avoid-hype-2023-05-26/?ref=biztoc.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -595,7 +638,7 @@
       "originalUrl": "https://www.marketwatch.com/story/marvell-technology-shares-pop-14-on-ai-lifts-chip-makers-74001f2e",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -647,7 +690,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2023/may/25/artificial-intelligence-antibiotic-deadly-superbug-hospital",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -896,7 +939,7 @@
       "originalUrl": "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellence-for-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 289,
+      "heat": 299,
       "tags": null,
       "images": [
         {
@@ -1054,7 +1097,7 @@
       "originalUrl": "https://www.forbes.com/sites/deandebiase/2023/05/25/disrupting-the-disruptive-disrupters-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1188,58 +1231,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-ai-chip-boom-sends-nvidias-stock-surging-after-whopper-of-a-quarter.md",
-      "title": "AI chip boom sends Nvidia’s stock surging after whopper of a quarter",
-      "excerpt": "Nvidia makes chips that power generative AI, a type of artificial intelligence that can create new content, such as text and images, in response to user prompts. That’s the kind of AI underlying ChatGPT, Google’s Bard, Dall-E and many of the other new ...",
-      "sourceUrl": null,
-      "webUrl": "https://us.cnn.com/2023/05/25/tech/nvidia-earnings-ai/index.html",
-      "originalUrl": "https://us.cnn.com/2023/05/25/tech/nvidia-earnings-ai/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 624,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230525080054-nvidia-2022-file.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/25/tech/nvidia-earnings-ai/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/25/tech/nvidia-earnings-ai/index.html",
-      "publishedDateTime": "2023-05-25T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

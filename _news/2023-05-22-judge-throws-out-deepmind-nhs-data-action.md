@@ -24,6 +24,17 @@ images:
     height: 536
     isCached: true
 
+related:
+  - title: "Google Search of today won’t exist in 10 years, says DeepMind co-founder"
+    excerpt: "Will 'old-school search' be gone in 10 years, thanks to ChatGPT, the new Bing and Google's new Search Generative Experience?"
+    publishedDateTime: 2023-05-26T18:59:00Z
+    webUrl: "https://searchengineland.com/google-search-of-today-wont-exist-in-10-years-says-deepmind-co-founder-427647"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 18
+
 secured: "zwqPFPWEXYLLB6FPxcKcDGzjaQt6/qhVxh2oK1VptV0NUlx/Sen6hf8q5p+5osTjig3fUqqamJ37T6nPZRuuVsV4uorLN+hudYNYV2HZulHW1cX0ZbHrIFyC0LN9FabkPLMpZpYeL9S2d6eKIX87qRWOD4o0rsI4TQDv3ws0DlqKoVqy3AHfnzqdDn1y/UTlH19sO77PpfxksqDbWogF5+5t6uib9WUJ5X1RNIAnFQEgMTDBK4S/rcRLRVTNeCIqFMdm79JjR/WX64KbcpA1POCiy1i+kT+zwHN6KiK9aj+Z5GPkmQbbXoo1Oc8jxxx+agya2VUvnLnTjssmncXWi07NB/NSAmWrdvg15AT1a9mgMFoyrBizIu6gS0dDnt/f8qPnWXKcHvo1rbVowHI/15YxuT6wfzEAhadt2ddEgtfVy0J3Jl6v3EmFFeCw3/vQOpEFL42OztIsrj7++mhpS54hBTHPmYMmMka2pHaeNygFNOHwOQPAA3DPuwHjPfbqJw+V1AzGDm8/M5qqt5SkJQ==;4iBEJ9XWdG386W4uXQFJKQ=="
 ---
 

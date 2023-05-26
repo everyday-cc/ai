@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/marvell-technology-shares-pop-
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/marvell-technology-shares-pop-14-on-ai-lifts-chip-makers-74001f2e"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Marvell Technology Is the Latest Tech Firm to Benefit From AI"
+    excerpt: "Marvell Technology (MRVL) is the latest tech firm to say it is benefitting from the boom in artificial intelligence (AI), and shares skyrocketed on Friday after the company released its first-quarter earnings."
+    publishedDateTime: 2023-05-26T19:54:00Z
+    webUrl: "https://www.investopedia.com/marvell-technology-is-the-latest-tech-firm-to-benefit-from-ai-7504792"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 19
 
 secured: "mVXijgI1h+Fs0Pm008fAGS0ettS28g3S1oXk7T5dX/GAQMKsJN/AWVsZ+it1E1HYGtaOP4k6vXyiQ14TpL+lUubPAqAifskxrT1896fd8bnU7zoIEbOC3J5y2hGgFCSIMUXnU+57N0fmDgeYvFQKwWQkH/hggQnr+4GsKqlIAKlTJazKv3nmLvzFkEG68nD54he65+0z80IjkDkgQLd9FUG1cVTthYaCUWHtITHaEeu4RRoz+M+vp97HnU9icUeoowj6aItEsoDRazvYRVraBhsOW4xoNcZZLsevyqN5U8tTsWvgLt6An8c7emaIZXzmJLHX5nDa3q7p22Y4nZCtUjC6dCFOkvq/XJp005vToFk=;eusQYZAfYPc9QC7eijhNHg=="
 ---

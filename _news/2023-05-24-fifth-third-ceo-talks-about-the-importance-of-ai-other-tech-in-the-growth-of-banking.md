@@ -27,7 +27,7 @@ related:
     provider:
       name: WBUR
       domain: wbur.org
-    quality: 48
+    quality: 50
     images:
       - url: "http://wordpress.wbur.org/wp-content/uploads/2023/05/GettyImages-1247553442-1-1000x665.jpg"
         width: 1000

@@ -114,6 +114,20 @@ related:
         width: 1073
         height: 604
         isCached: true
+  - title: "IBM Consulting introduces Center of Excellence for generative AI to empower business transformation"
+    excerpt: "implementing and managing generative AI solutions. This approach involves integrating multiple models from industry-leading providers on various cloud platforms. Furthermore, with the cutting-edge innovations from IBM Research and the capabilities of the ..."
+    publishedDateTime: 2023-05-26T19:07:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-consulting-introduces-center-excellence-generative-ai-empower-business-transformation/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 57
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1233363927-e1628896963459.jpg?fit=750%2C499&#038;strip=all"
+        width: 750
+        height: 375
+        isCached: true
   - title: "How AI is being used for consumer education in banking"
     excerpt: "Jennifer Fuller, US Financial Services Lead at PA Consulting, explains how fintech companies are using AI to improve consumer education and banking interactions."
     publishedDateTime: 2023-05-23T19:38:00Z
@@ -150,20 +164,6 @@ related:
       - url: "https://images.macrumors.com/t/qdB_4ekb91XkZACOM4ewxYF5fbU=/1600x/article-new/2023/05/google-search-ai.jpg"
         width: 1600
         height: 742
-        isCached: true
-  - title: "Letter from the editor on generative AI and the FT"
-    excerpt: "As editor of this newspaper, nothing matters to me more than the trust of readers in the quality journalism we produce. Quality means above all accuracy. It also means fairness and transparency. That’s why today I am sharing my current thinking on the use of generative artificial intelligence in the newsroom."
-    publishedDateTime: 2023-05-26T14:53:00Z
-    webUrl: "https://www.ft.com/content/18337836-7c5f-42bd-a57a-24cdbd06ec51?shareType=nongift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
         isCached: true
   - title: "Intel's Broad, Open HPC+AI Portfolio Powers Performance, Generative AI for Science"
     excerpt: "At ISC'23, Intel details competitive performance for diverse HPC and AI workloads, from memory-bound to generative AI, and introduces new science LLM initiative to democratize AI. NEWS HIGHLIGHTS Inte"
@@ -207,6 +207,15 @@ related:
     provider:
       name: MacRumors
       domain: macrumors.com
+    quality: 17
+  - title: "Letter from the editor on generative AI and the FT"
+    excerpt: "In its more than 130-year history the Financial Times has upheld the highest standards of journalism. As editor of this newspaper, nothing matters to me more than the trust of readers in the quality journalism we produce. Quality means above all accuracy. It also means fairness and transparency."
+    publishedDateTime: 2023-05-26T14:53:00Z
+    webUrl: "https://www.ft.com/content/18337836-7c5f-42bd-a57a-24cdbd06ec51"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 17
   - title: "TCS announces generative AI pact with Google Cloud, new offering for enterprises"
     excerpt: "Tata Consultancy Services TCS on Monday announced an expanded partnership with Google Cloud and the launch of its new offering -- TCS Generative AI which leve"

@@ -24,6 +24,17 @@ images:
     height: 472
     isCached: true
 
+related:
+  - title: "Türkiye Positively Assesses Armenia's Recognition Of Azerbaijan's Territorial Integrity - FM"
+    excerpt: "Turkish Foreign Minister Mevlut Cavusoglu said during a speech in Antalya, trend reports. \"Azerbaijan has proposed a comprehensive peace treaty. If Armenia responds positively to this, then a peace treaty can be signed between the two countries,"
+    publishedDateTime: 2023-05-26T19:36:00Z
+    webUrl: "https://menafn.com/1106327123/Türkiye-Positively-Assesses-Armenias-Recognition-Of-Azerbaijans-Territorial-Integrity-FM"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 8
+
 secured: "VHZyMfKovbzRAj0XGAWPDPBP5jhdcEfH3HDGgBfiYLYf3265KOb+U9NE1h+Fy1SfMKEhoLGQs8K1sHG9Mx1B7WwAepG3AogXom9eRJktgsHmOw4xlrctaLD/ANeEWn3UPVFiJTNGOQLk33hXwgnI5I5vPyDYKkp+id7WQd9yu4aC35BjVwQcLWR9HykrX6NlAnGMKonifoSEbqF6KquEqboS/c5S1wqV8coLGZAEU96y6ADCz6L4NIkpxgczVZEqfzc4pVYYBBF0Pu31hdjTh3eJB0pNA1jk1erl8cv/wWjeEtq9LqKk09Rz0ykW5625e7KO1IGK/t9g72KtyxthOSJ2rUxatjg2UTwE1fMgPqo=;UCZUgQtVXalul2ovPy1JBA=="
 ---
 

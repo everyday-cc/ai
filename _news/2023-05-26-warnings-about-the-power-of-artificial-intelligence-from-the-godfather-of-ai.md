@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-26T16:21:00Z
 originalUrl: "https://www.wbur.org/hereandnow/2023/05/26/godfather-ai-warning"
 webUrl: "https://www.wbur.org/hereandnow/2023/05/26/godfather-ai-warning"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 60
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "http://wordpress.wbur.org/wp-content/uploads/2023/05/GettyImages-1247553442-1-1000x665.jpg"

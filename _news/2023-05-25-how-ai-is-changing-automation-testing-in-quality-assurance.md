@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-changing-automation-testing-in-quality-assurance/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       - url: "https://media.nbcnewyork.com/2023/05/ai_home_v2.jpg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
-        isCached: true
-  - title: "How AI is changing the game in youth sports"
-    excerpt: "Salt Lake County's Copper Mountain Soccer Club is among many youth teams using new AI video technology that films games and then culls each player's performance into a highlight reel."
-    publishedDateTime: 2023-05-22T02:02:00Z
-    webUrl: "https://www.ksl.com/article/50646179/how-ai-is-changing-the-game-in-youth-sports"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 37
-    images:
-      - url: "https://img.ksl.com/slc/2930/293016/29301604.jpeg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
         isCached: true
   - title: "Investing in AI — hype and hope"
     excerpt: "Today, Nvidia is valued at $773bn and has sales of around $27bn. In other words, the company is priced at nearly 29 times sales. Those sales could grow rapidly with AI, but even if the company maintains its current margins forever, by my maths it would need to increase sales by around eightfold to justify the current share price."

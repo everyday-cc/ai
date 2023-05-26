@@ -8,8 +8,8 @@ webUrl: "https://www.upi.com/Health_News/2023/05/25/ai-chatbot-health-communicat
 ampWebUrl: "https://www.upi.com/amp/Health_News/2023/05/25/ai-chatbot-health-communication/3561684180922/"
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2023/05/25/ai-chatbot-health-communication/3561684180922/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdnph.upi.com/sv/ph/og/i/3561684180922/2023/1/16841813689616/v1.5/Got-a-question-for-your-doctor-Artificial-intelligence-may-provide-their-answer.jpg"

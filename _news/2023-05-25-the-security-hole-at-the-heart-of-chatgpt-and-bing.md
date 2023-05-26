@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/chatgpt-prompt-injection-attack-security
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chatgpt-prompt-injection-attack-security/amp"
 type: article
 quality: 91
-heat: 301
+heat: 311
 published: true
 
 provider:
@@ -276,6 +276,15 @@ related:
     excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
     publishedDateTime: 2023-05-23T17:59:00Z
     webUrl: "https://www.businessinsider.com/chatgpt-ai-around-the-world-maturity-opportunities-key-regions-hurdles-2023-may"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+  - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
+    publishedDateTime: 2023-05-26T17:30:00Z
+    webUrl: "https://www.businessinsider.com/chaptgt-generative-ai-financial-services-whats-next-hype-reality-2023-may"
     type: article
     provider:
       name: Business Insider

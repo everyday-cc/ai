@@ -41,6 +41,20 @@ related:
         width: 414
         height: 364
         isCached: true
+  - title: "VB Transform: Navigating the generative AI wave, insights from top executives at major corporations"
+    excerpt: "Enterprise speakers slated to join us at our VB Transform event on July 11 and 12 will shed light on their generative AI initiatives."
+    publishedDateTime: 2023-05-26T18:18:00Z
+    webUrl: "https://venturebeat.com/ai/vb-transform-navigating-the-generative-ai-wave-insights-from-top-executives-at-major-corporations/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 53
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/VB226360.jpg?fit=750%2C500&#038;strip=all"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Google Search ads will soon automatically adapt to queries using generative AI"
     excerpt: "Google is going to start using generative AI to boost Search ads relevance based on the context of a query, the company announced today."
     publishedDateTime: 2023-05-23T18:43:00Z

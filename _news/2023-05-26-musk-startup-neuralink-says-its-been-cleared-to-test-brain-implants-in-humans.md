@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/neuralink-musk-startup-permission-b
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/neuralink-musk-startup-permission-brain-implant-testing-humans/"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk’s brain-implant company says it will start a trial in humans"
-    excerpt: "Approval by the U.S. Food and Drug Administration would mark a milestone for the company, which has been developing a device surgically inserted into the brain by a robot and capable ... encompass generative artificial intelligence and social media."
-    publishedDateTime: 2023-05-26T01:44:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/05/25/elon-musk-neuralink-fda-approval/"
+  - title: "Neuralink human brain-computer implant trials finally get FDA approval"
+    excerpt: "Elon Musk’s brain-computer interface company Neuralink announced on Thursday evening that it has received FDA approval to begin conducting human trials. News of the major step arrives after years of research and numerous regulatory hurdles,"
+    publishedDateTime: 2023-05-26T18:00:00Z
+    webUrl: "https://www.popsci.com/technology/neuralink-fda-approval/"
+    ampWebUrl: "https://www.popsci.com/technology/neuralink-fda-approval/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/neuralink-fda-approval/?amp"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
+      name: Popular Science
+      domain: popsci.com
+    quality: 59
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6RWP755TNJBYHKS6JFGWJOBJKE.JPG&w=1440"
-        width: 1440
-        height: 1001
+      - url: "https://www.popsci.com/uploads/2023/05/26/elon-musk-neurolink-fda-nod.jpeg?auto=webp"
+        width: 2000
+        height: 1125
         isCached: true
 
 secured: "vwyABHYuP+fDs8yBQfWVCQnJ60hVc09NiI313LJwSYmt2QfALRFKENpL0+CPcgRD8xUunGS8+SFKygaRRfXBgSacKxLfI4qSe/nwuhw+sYtEyoMPYQootzUxQN3hcoGswivkyFh27+tfhaLHxVpjR4b5EvnifcK/FefirsmpgoI9fEI9QMHQONASwQT7qNGhFD/3sq2gvbA79qDx9O6qLumwjxqdihXZtflLJrsaAVACporYBJkgkFLFVUcPOZvFEgaFfu+cEMJbXpCs3Du2FWFiYKvY6A5Q7eJKlLcVsEsM/XgaysPx69J/goMBEbggbJ/AWxKoJ3l7ma0gg+c8ekiEJdd1OA03e/GP2pH67zE=;41SUCh5snQQrrc3M3VGP0A=="

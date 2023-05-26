@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/3-ways-openai-says-we-shoul
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3-ways-openai-says-we-should-start-to-tackle-ai-regulation/"
 type: article
 quality: 87
-heat: 277
+heat: 287
 published: true
 
 provider:
@@ -235,6 +235,15 @@ related:
     provider:
       name: Indiatimes
       domain: indiatimes.com
+    quality: 19
+  - title: "U.S., China and Europe begin push to regulate AI"
+    excerpt: "Regulations could have a significant impact on the research and implementation of products and technology in the security industry in the coming years."
+    publishedDateTime: 2023-05-26T19:41:00Z
+    webUrl: "https://www.securityinfowatch.com/cybersecurity/article/53061798/us-china-and-europe-begin-push-to-regulate-ai"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
     quality: 19
   - title: "The tech giants have an interest in AI regulation"
     excerpt: "ChatGPT is an example of “generative” ai, which creates humanlike content based on its analysis of texts, images and sounds on the internet. Sam Altman, CEO of OpenAI, the startup that built it, told a congressional hearing this month that regulatory ..."

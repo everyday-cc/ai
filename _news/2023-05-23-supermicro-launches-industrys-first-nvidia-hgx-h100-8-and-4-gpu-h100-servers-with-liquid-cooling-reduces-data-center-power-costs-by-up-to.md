@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Supermicro Launches Industry's First NVIDIA HGX H100 8 and 4-GPU H100 Servers with Liquid Cooling -- Reduces Data Center Power Costs by Up to 40%"
-    excerpt: "Liquid Cooled Large Scale AI Training Infrastructure Delivered as a Total Rack Integrated Solution to Accelerate Deployment, Increase Performance, and Reduce Total Cost to the Environment SAN JOSE, Calif."
-    publishedDateTime: 2023-05-22T04:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32502037/supermicro-launches-industrys-first-nvidia-hgx-h100-8-and-4-gpu-h100-servers-with-liquid-cooling-r"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32502037"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32502037"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
-    images:
-      - url: "https://mma.prnewswire.com/media/2081911/Supermicro_AI_and_Liquid_Cooling_Solutions.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Applied Digital Teams with Supermicro to Deliver AI Cloud Services"
     excerpt: "Supermicro is a leading provider of application-optimized, high-performance server and storage solutions that address a broad range of computational-intensive workloads. Supermicro’s next-generation GPU servers significantly lower the power requirements of data centers."
     publishedDateTime: 2023-05-24T17:46:00Z
@@ -50,6 +34,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Supermicro CEO Delivers Keynote Address on the Latest System Innovations and Storage Solutions for Green AI and Sustainability"
+    excerpt: "Supermicro's president and CEO Charles Liang will deliver a COMPUTEX CEO Keynote on the latest technology and system innovations supporting varied dynamic markets. Mr. Liang will talk about and showcase the latest technological developments and opportunities propelling the growth of artificial intelligence and cloud computing,"
+    publishedDateTime: 2023-05-25T11:42:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/25/9820969.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "d0zg85zCZoOAGpLVnXLSANWxJamk4SR5XVl+7+gQgD1Pl8I38GZzAyOIXLjDwlr3azFbYuVepztS3kQd+pNCd/1Kz9/IjzFDcskW/+TYPI8/IE0Nwf7lm3aDOsZDJ5XrZYNDPDx6as/4Cu4o41DXHkeRQpcn4CahBxXhvx2tBzu2sRgUJP0qFWs9HwNNR6ztbaoFgzbeXly4soTRv87+Bym5OpaJHImYs30sOucpyXrI8EH0zpAX/NQAJ4lhsU8Q9v8hu3qLFlZlaHRgStnSXgey1q0DkWON+2819Yaztd9owujKLa0UYvY4dbw8bVZOmLih+3p4g5Uolg6yCAYTgyy0N01jw4q7Q2rg5SvSfR4=;nZEKlichgogiaazjFgTfHA=="
 ---

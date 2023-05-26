@@ -290,6 +290,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
+  - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
+    publishedDateTime: 2023-05-26T17:30:00Z
+    webUrl: "https://www.businessinsider.com/chaptgt-generative-ai-financial-services-whats-next-hype-reality-2023-may"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
   - title: "ChatGPT, for better or worse: How AI will disrupt the health care sector"
     excerpt: "Opportunities: The health sector is generally slow to adapt to new technologies. Transfers of information on CDs or even faxes remain prevalent among some providers. Dr. William Johnson, president of Moda Health,"
     publishedDateTime: 2023-05-25T21:10:00Z
