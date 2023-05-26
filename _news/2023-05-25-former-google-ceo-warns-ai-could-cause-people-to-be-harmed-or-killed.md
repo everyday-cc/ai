@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tylerroush/2023/05/24/former-google-ceo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tylerroush/2023/05/24/former-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:

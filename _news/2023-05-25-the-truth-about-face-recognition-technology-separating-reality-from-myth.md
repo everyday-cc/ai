@@ -20,6 +20,22 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "The dangers of facial-recognition technology in Indian policing"
+    excerpt: "CCTV cameras and facial recognition systems are surveillance tools that carry on the legacy of analogue technologies in stereotyping and targeting specific communities."
+    publishedDateTime: 2023-05-26T08:00:00Z
+    webUrl: "https://caravanmagazine.in/technology/dangers-of-facial-recognition-technology-in-indian-policing"
+    type: article
+    provider:
+      name: The Caravan
+      domain: caravanmagazine.in
+    quality: 24
+    images:
+      - url: "https://lh3.googleusercontent.com/Z9LxkfnxmPtg4yoHMQI8w698TdZ455EQ1tb-63ISGiU3ZvrwGvJo_OKdjk1rA5zF1YYjh1uETgjhWGCtyUnXOihhzrGnHMEdFYZgdFY=w1200-h630-pp"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "g/a0CqSqEpWm5PzZznzxf7aTkg+NWX1GwqVr4S5Dacy8K8qHzOjtEq32JeC713A4xorXWXcnY/V4Nzn/OxizXcBj9FUAb5n8akgVUDk1ivDpLAWv/uX61I2sTfat4Z/wmck7N/MkWdasYDgL/SxRT/SZAyvOvQaBzyq1ChgTO+LDNBDXLvPhvNBbS2lnPZMj696S2Rg05dX924nYSFJsLv6HXIp20YX8LGEub8wIsEsTsmXv4ZEP4EFhPCMqcvvL4/wzv+Ziwypsvo0AO93KUEXicgjrZXvdpy7UxBLqY81I7vyFMcrKs7qhQlG+c0iaSiVUiy6Ylyb2wCMS6pGoaQPNgz7TLvYNH9ScJmSyEP7Tt+gwvss9Rsr+IjdmRwgUKSvvD79KOXiuu5dLtBiwJ2k9F33Q2UOzQsVX6HKFNfhTkFRVwGMYDcjgu9CPisGY56RfaOD2gszY9T4XCHGbSv/VIqSk7DRjsSAYtFsKuHFHAJenQTnCt/xF8GJXA5kwsrhkpEcQdQlqadrQjHZ2KQ==;vWDAGC0zrITY6uS/SqU3SA=="
 ---
 

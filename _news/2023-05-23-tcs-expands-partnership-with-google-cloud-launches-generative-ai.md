@@ -55,6 +55,15 @@ related:
         width: 2560
         height: 1920
         isCached: true
+  - title: "15 Surprising Ways Industries May Soon Leverage Generative AI"
+    excerpt: "There’s more to generative AI than writing press blurbs, test questions and memos—indeed, there’s much more to generative AI than writing, period."
+    publishedDateTime: 2023-05-25T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/15-surprising-ways-industries-may-soon-leverage-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "TCS Expands Google Cloud Relationship With Vertex Generative AI"
     excerpt: "Tata Consultancy Services is banking on its deep customer relationships to find ways to bring Google Vertex AI generative AI to them."
     publishedDateTime: 2023-05-24T17:48:00Z

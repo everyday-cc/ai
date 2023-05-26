@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/05/25/3-top-ai-stocks-that-pay
 webUrl: "https://www.fool.com/investing/2023/05/25/3-top-ai-stocks-that-pay-dividends-1-yields-over-5/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "2 AI Stocks Billionaires Are Buying Hand Over Fist"
+    excerpt: "Generative artificial intelligence applications such as ChatGPT have become so popular with the general public that billionaire investors are buying AI stocks left and right. Billionaires who know Nvidia is the leading provider of the chips that AI ..."
+    publishedDateTime: 2023-05-26T09:28:00Z
+    webUrl: "https://www.fool.com/investing/2023/05/26/2-ai-stocks-billionaires-are-buying-hand-over-fist/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/733767/investment-presentation-getty.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
   - title: "3 AI Stocks You Should Be Buying Hand Over Fist"
     excerpt: "Therefore, investing in the chipmaker that provides the most high-performance AI chips is the ideal way to capitalize on this trend. On the date of publication, Chris MacDonald did not have (either directly or indirectly) any positions in the securities ..."
     publishedDateTime: 2023-05-23T09:17:00Z

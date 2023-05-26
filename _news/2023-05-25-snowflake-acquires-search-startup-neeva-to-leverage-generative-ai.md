@@ -162,6 +162,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "3 ways generative AI is driving innovation in financial services"
+    excerpt: "In some ways, GAI spells more of the same. According to the Bank of England’s research, machine learning, a sub-branch of AI, was last year already being used by 72% of respondents to a financial services survey. While AML and fraud detection ..."
+    publishedDateTime: 2023-05-25T17:09:00Z
+    webUrl: "https://www.finextra.com/the-long-read/692/3-ways-generative-ai-is-driving-innovation-in-financial-services"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/692.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "The Funded: 7 Bay Area companies picked for AWS Generative AI Accelerator"
     excerpt: "Backed by Amazon Web Services Inc, the not-so-cleverly named Generative AI Accelerator on Wednesday said 21 companies ... Inc. dropped a reported $400 million in 2020 to buy the startup Giphy Inc., the well-known animated image and microvideo database."
     publishedDateTime: 2023-05-24T21:18:00Z

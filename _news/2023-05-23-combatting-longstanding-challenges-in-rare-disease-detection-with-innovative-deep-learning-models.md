@@ -39,15 +39,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "AI the Latest Instance of our Capacity for Innovation Outstripping our Capacity for Ethics"
-    excerpt: "The eagerness with which movie and television studios have proposed to use artificial intelligence to write content collides with the concern of Writers Guild members for their employment security and pay in the latest episode of technological innovation running ahead of ethical deliberation."
-    publishedDateTime: 2023-05-21T16:59:00Z
-    webUrl: "https://historynewsnetwork.org/article/185706"
-    type: article
-    provider:
-      name: History News Network
-      domain: historynewsnetwork.org
-    quality: 24
   - title: "SAS accelerates responsible innovation efforts with new collaborations and a focus on trustworthy AI"
     excerpt: "including a first-of-its-kind ethical AI health care lab in the Netherlands. SAS also expanded its Data Ethics Practice by integrating its successful Data for Good program, allowing the company to consider not just the risks of AI but also its potential to ..."
     publishedDateTime: 2023-05-22T10:54:00Z

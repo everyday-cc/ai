@@ -153,6 +153,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "3 ways generative AI is driving innovation in financial services"
+    excerpt: "In some ways, GAI spells more of the same. According to the Bank of England’s research, machine learning, a sub-branch of AI, was last year already being used by 72% of respondents to a financial services survey. While AML and fraud detection ..."
+    publishedDateTime: 2023-05-25T17:09:00Z
+    webUrl: "https://www.finextra.com/the-long-read/692/3-ways-generative-ai-is-driving-innovation-in-financial-services"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/692.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Snowflake acquires search startup Neeva to leverage generative AI"
     excerpt: "New Delhi, May 25 (IANS) Cloud data platform provider Snowflake has acquired search startup Neeva to accelerate search in the Data Cloud through generative AI. Neeva has created a unique and transformative search experience that leverages generative AI and ..."
     publishedDateTime: 2023-05-25T05:47:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.foxnews.com/media/ai-will-make-humans-more-creative-not-rep
 ampWebUrl: "https://www.foxnews.com/media/ai-will-make-humans-more-creative-not-replace-them-predict-entertainment-executives.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ai-will-make-humans-more-creative-not-replace-them-predict-entertainment-executives.amp"
 type: article
-quality: 80
-heat: 80
+quality: 82
+heat: 82
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5347284-ddac-4097-8065-387edd09b96b/63aabd01-2815-4a73-a1e9-c19dca9ac7a4/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
@@ -29,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "DOCQ1t4z6EBwS+ux/Pep425UNeN3OD88gkwiqnMPff8Vx7KW+ojNLLVkBZnP/GACwIEHXNw+nP9JQABmMIXQxqruc8IbPVnXYKQndH+xVRfnYCdwn4VvH4NDpZQ4rtBAiv7v+kvzWwi7OpLzXdPwBtdlH4DM9FzDpt7Wb9DYPNgIpDvZPLQ7ceLSP84oX77vzZSqMfgbN4LpjuVy9VJ+1UOvObIPCmmzGvn7pxuUGKwmGHq7nho7mq/LD7/7TeWHAdPNdTRjAc04rjDZnlErbWVfm3nZO1prdY976L9Ay6w8KkwAuyUpPgOa2w7xF15J2OgK2N2YSlxgymyCeoL5fx8GX/cp7QbliQOr2Ptaa5o=;iaX4JRD3E7XQZOqkXKZBkw=="
+secured: "gcVBFQP1w5fD/zckcjChTKSzEzyoPn6eQgemx3LrX49DfaQ9QnruCwZwEUzjteap5nbNboil1e45n5POFdULjArJKE3DrCTN28yRWtecWG+FASb49itARfDq+/4xthSYJ4RmHs57eAiGbJpbx86pn2dGtVK5PHNGPEgUseZT+sXMs8JqJQi1UOJTUPoYiOWoRaRXP/7uqudor5Vix0BjNtitf+jGD3+IEve2jqnRMdUJvFK+uShSuKGTMH8Kj1nRHc6PpGaUWJY2iGqxxOOqVvhFDW/nKU4ufj/aZ1hgc89tPf865hZb02E3XQfxzTQC4TAiOfynL4k4I9rF7TWR12u7a2R9DD7AJtzmVJNvIDgFjjnLR3Oc5kpS+ukjKKv/1+6Hsod0fPczpw6kiuEATObmocDbU+ClXkKd6KOFB1jepzNXBxQ9SjjTnn/m7n40eiCkmffhDyPXuOkz08HGBiKXDc29pqlSwa5czztoO8O+ANiZfpjZfbnXmOL8SF1YkwQWlxOXoSWqzbhmTnxmAQ==;fr/6AL/ybSbSLLRlPtmLAg=="
 ---
 

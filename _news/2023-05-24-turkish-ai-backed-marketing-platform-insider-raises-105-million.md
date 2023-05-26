@@ -77,6 +77,20 @@ related:
         width: 400
         height: 224
         isCached: true
+  - title: "London-Based Startup Builder.ai Raises $250 Million"
+    excerpt: "Builder.ai, an artificial intelligence company based in London, has raised $250 million in a funding round led by the Qatar Investment Authority, the Gulf state’s $450 billion sovereign wealth fund."
+    publishedDateTime: 2023-05-23T09:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-23/ai-startup-builder-ai-raises-250-million"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inAAP5vzXdAo/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI startup Figure raises $70 million in funding to build humanoid robots"
     excerpt: "The new funding will be used to accelerate the development and manufacturing of the company's first autonomous humanoid, which is expected to launch in the next few months. The valuation of the one-year-old company was not disclosed,"
     publishedDateTime: 2023-05-24T10:59:00Z

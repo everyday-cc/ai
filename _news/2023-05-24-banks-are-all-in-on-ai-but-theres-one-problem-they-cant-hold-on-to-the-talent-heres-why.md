@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 622
         isCached: true
-  - title: "While artificial intelligence-driven tools can be helpful, there are risks, concerns"
-    excerpt: "It seems like everyone is talking about artificial intelligence and all of the ways it will change the way we live and work in the not-too-distant future. One of the ways that businesses are already using AI is in the recruitment and"
-    publishedDateTime: 2023-05-21T17:00:00Z
-    webUrl: "https://www.concordmonitor.com/Will-AI-revolutionize-the-hiring-process-51030140"
-    type: article
-    provider:
-      name: Concord Monitor
-      domain: concordmonitor.com
-    quality: 30
-    images:
-      - url: "http://www.concordmonitor.com/getattachment/be9d2c9a-be02-4df9-93e3-5e397a31419d/attachment.aspx"
-        width: 499
-        height: 325
-        isCached: true
   - title: "A deep dive on generative AI in health care, Pear sold for parts, and progress on stretchable skin"
     excerpt: "My colleagues and I have been trying to get a handle on how generative AI and large language models — the technology underlying systems like ChatGPT — will meaningfully change health care. How soon, if ever,"
     publishedDateTime: 2023-05-23T17:44:00Z

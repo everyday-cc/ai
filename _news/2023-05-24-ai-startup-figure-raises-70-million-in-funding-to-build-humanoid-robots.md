@@ -83,6 +83,20 @@ related:
         width: 400
         height: 224
         isCached: true
+  - title: "London-Based Startup Builder.ai Raises $250 Million"
+    excerpt: "Builder.ai, an artificial intelligence company based in London, has raised $250 million in a funding round led by the Qatar Investment Authority, the Gulf state’s $450 billion sovereign wealth fund."
+    publishedDateTime: 2023-05-23T09:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-23/ai-startup-builder-ai-raises-250-million"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inAAP5vzXdAo/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google-Backed AI Startup Anthropic Raises $450 Million, Bringing Total Funding to Nearly $1 Billion"
     excerpt: "Anthropic, an artificial intelligence startup competing with OpenAI in building AI foundation models, said on Tuesday it had raised $450 million (roughly Rs. 3,700 crore) from investors including Alphabet 's Google and Spark Capital."
     publishedDateTime: 2023-05-24T08:05:00Z

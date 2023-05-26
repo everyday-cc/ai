@@ -37,6 +37,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 2
+  - title: "Global Digital Talent Acquisition Market Report 2023: Growing Adoption Of Video Interview And Cognitive Technologies Boosts Sector"
+    excerpt: "The \"global digital talent acquisition market by training (external, internal), certification (ai developers, cloud computing & security, data management), industry - cumulative impact of high inflation - forecast 2023-2030\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2023-05-26T09:52:00Z
+    webUrl: "https://menafn.com/1106322639/Global-Digital-Talent-Acquisition-Market-Report-2023-Growing-Adoption-Of-Video-Interview-And-Cognitive-Technologies-Boosts-Sector"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?646730"
+        width: 333
+        height: 250
+        isCached: true
 
 secured: "xmOKpJSs77p1FWD0KZ9U4uqgfBJRAKe03nTpaKnIX/CXQIcNyojGsuzT6bb2rXLR4iYVeQi5sWtVW413L3dPmf+//IDb9cOajocos6YdmmuC6aHvyfYjC/RMvmnEy7JxxUA3mejg+HNcD/TXRScI/auAtxILjZ8sSaAw+ibAHSY37hJQVuieJ/AVeZl/zWM6swZpq0IeEfJZ9/+AOSGMMGKwpVamwdLLp7IUmMQeudacucHk0OVfzEXGiYcFoNqD9DAHlZTPimsLq0sR5djRlUOhWuKGMVwE04D/CZ5tzhqj0M3XeCRz/5ssHEkZvAyepggf2dq3QN8btSmFdFF/CPBzY1ymkZhnDHd1fpldZPk=;p+PUaPG4WR5JKiPjW8ZqNQ=="
 ---

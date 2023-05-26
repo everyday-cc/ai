@@ -66,20 +66,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
-  - title: "While artificial intelligence-driven tools can be helpful, there are risks, concerns"
-    excerpt: "It seems like everyone is talking about artificial intelligence and all of the ways it will change the way we live and work in the not-too-distant future. One of the ways that businesses are already using AI is in the recruitment and"
-    publishedDateTime: 2023-05-21T17:00:00Z
-    webUrl: "https://www.concordmonitor.com/Will-AI-revolutionize-the-hiring-process-51030140"
-    type: article
-    provider:
-      name: Concord Monitor
-      domain: concordmonitor.com
-    quality: 30
-    images:
-      - url: "http://www.concordmonitor.com/getattachment/be9d2c9a-be02-4df9-93e3-5e397a31419d/attachment.aspx"
-        width: 499
-        height: 325
-        isCached: true
 
 secured: "UmmyV0LdyJYkXotmJKb7/qPJ/HtOGfkXM3i9WRG2X7YIXxMXE8597Dg8Yo+6mUVHLoZc23St+mltMBPc//Hn/wrinySpkMQZf4Llao/NHoswy78XUScD1r59cmE4SmuknBiGDMasuB7prX4nzJXPMjs8dlZKj+BixMEr+3ezALD39D8OLDNbmpPh6oz/Mc71BNBovy/AOJQeuux4zvVVfdC01tWY9u+WM4nnDQL2zaOsBbUcgZItcgxeLIAL5qjm5xRYhqM7Cw5D4qbtBtBhNy5SV9JMCRfJJ9bSeCKZ3n2ugnXBQP8tYBR4HVx5xa+xkTnV0cOUJplbApxEKHevFK49JnvSXz4S5hld+jp0+XxEditLX165m7PAbMtM6ovVUpzF0lD7MGjNzRmFjQRO0BKus5yMiktdGfXhGn+TfI37ksMv53/ol09ZnWs0APkEEgjfcEIx6vUc2QIR7p2bFMz8+9d0itBipb9MePJ5+Qkean9rk0emj4E5I54fXcHTAvaAzuUZWIV7Epu+3nouFA==;iYQGjF4VbwW5N2pRr1eY4A=="
 ---

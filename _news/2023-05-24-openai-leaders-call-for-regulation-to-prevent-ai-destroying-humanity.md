@@ -124,6 +124,17 @@ related:
         width: 1920
         height: 1440
         isCached: true
+  - title: "A startup backed by OpenAI uses AI-powered robots in the real world"
+    excerpt: "USA: The rise of ChatGPT and companies like it have shown that no white-collar job is safe. But if you believe that blue-collar jobs ar..|News Track"
+    publishedDateTime: 2023-05-25T10:27:00Z
+    webUrl: "https://english.newstracklive.com/news/a-startup-backed-by-openai-uses-aipowered-robots-in-the-real-world-sc71-nu355-ta355-1277961-1.html"
+    ampWebUrl: "https://english.newstracklive.com/ampnews/a-startup-backed-by-openai-uses-aipowered-robots-in-the-real-world-sc71-nu355-ta355-1277961-1.html"
+    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/a-startup-backed-by-openai-uses-aipowered-robots-in-the-real-world-sc71-nu355-ta355-1277961-1.html"
+    type: article
+    provider:
+      name: News Track
+      domain: newstracklive.com
+    quality: 54
   - title: "OpenAI's Altman Wants International Body Akin To Nuclear Watchdog IAEA To Regulate AI"
     excerpt: "Sam Altman, CEO of the start-up behind the AI chatbot ChatGPT, agreed with members of the Senate on Tuesday on the need to regulate increasingly powerful AI technology. https://t.co/iFjgQBBdwY pic.twitter.com/NNXJykGJMu"
     publishedDateTime: 2023-05-23T08:32:00Z
@@ -139,6 +150,20 @@ related:
       - url: "https://d.ibtimes.com/en/full/4438722/illustration-shows-openai-chatgpt-logos.jpg"
         width: 1200
         height: 814
+        isCached: true
+  - title: "OpenAI Beats Elon Musk to Market: AI Humanoid Robots Are Already Taking Your Jobs"
+    excerpt: "Nurse by day and bartender by night, AI-powered robots are stepping out of science fiction and into the real world."
+    publishedDateTime: 2023-05-24T19:53:00Z
+    webUrl: "https://decrypt.co/142249/openai-beats-elon-musk-ai-humanoid-robots-taking-jobs"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 49
+    images:
+      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/05/1x-gID_7.png"
+        width: 1024
+        height: 512
         isCached: true
   - title: "OpenAI could 'cease operating' in EU countries due to AI regulations"
     excerpt: "Sam Altman, OpenAI CEO, said the company could stop all operations in the European Union if it can't comply with impending artificial intelligence regulations."

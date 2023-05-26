@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/build-next-generation-ai-po
 webUrl: "https://azure.microsoft.com/en-us/blog/build-next-generation-ai-powered-applications-on-microsoft-azure/"
 type: article
 quality: 119
-heat: 1089
+heat: 1099
 published: true
 
 provider:
@@ -310,6 +310,20 @@ related:
       - url: "https://images.wsj.net/im-787338/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Microsoft Calls for a New US Agency and Licensing for AI"
+    excerpt: "Microsoft Corp. is calling for a new US agency to regulate artificial intelligence and licensing requirements to operate the most powerful AI tools, company President Brad Smith said Thursday."
+    publishedDateTime: 2023-05-25T13:35:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-25/microsoft-calls-for-new-us-agency-and-licensing-for-ai-tools"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUbotLOGsgFM/v1/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Microsoft: We Need a New Government Agency to Regulate AI"
     excerpt: "The company also calls for governments to implement a licensing system to ensure companies deploy 'highly capable AI' models responsibly."

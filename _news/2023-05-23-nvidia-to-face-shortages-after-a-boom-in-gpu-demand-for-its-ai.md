@@ -91,20 +91,6 @@ related:
         width: 566
         height: 360
         isCached: true
-  - title: "Nvidia Stock: Increasing AI GPU Demand Points to Strong Earnings"
-    excerpt: "Going by recent conversations with component suppliers in the chip giant’s supply chain, Truist analyst William Stein thinks investors are in for a pleasant surprise. “We have recently learned of an uptick in demand for AI GPUs,” notes the 5-star ..."
-    publishedDateTime: 2023-05-21T16:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-increasing-ai-gpu-demand-points-to-strong-earnings-1032341254"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: "https://blog.tipranks.com/wp-content/uploads/2023/05/image-602-1024x518.png?utm_source=markets.businessinsider.com&utm_medium=referral"
-        width: 1024
-        height: 518
-        isCached: true
   - title: "The AI chip boom is propelling Nvidia to new heights, gamers be damned"
     excerpt: "Almost every business out there is trying to jump on the AI train, and this is making Nvidia and its investors happier than ever. So happy,"
     publishedDateTime: 2023-05-25T16:41:00Z
@@ -349,6 +335,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI Stocks Are on Fire. Marvell Joins Nvidia in the Hot Stocks."
+    excerpt: "Marvell Technology is the latest chip maker to join Nvidia in surging as it forecasts AI to be a long-term growth driver.  Already a subscriber? Sign In"
+    publishedDateTime: 2023-05-26T09:22:00Z
+    webUrl: "https://www.barrons.com/articles/ai-stocks-marvell-nvidia-a2201a91"
+    ampWebUrl: "https://www.barrons.com/amp/articles/ai-stocks-marvell-nvidia-a2201a91"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ai-stocks-marvell-nvidia-a2201a91"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-268126/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "Nvidia Stock Surges As Generative AI Frenzy Boosts Sales"
     excerpt: "Nvidia's stock price surged Wednesday after the company said a generative AI spending frenzy is boosting revenue."
     publishedDateTime: 2023-05-24T23:08:00Z
@@ -584,6 +586,15 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
+    quality: 34
+  - title: "Nvidia AI Enterprise moves to Azure"
+    excerpt: "Nvidia is integrating its Nvidia AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives. The integration will create a secure, enterprise-ready platform that enables Azure customers worldwide to quickly build,"
+    publishedDateTime: 2023-05-26T09:43:00Z
+    webUrl: "https://it-online.co.za/2023/05/26/nvidia-ai-enterprise-moves-to-azure/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
     quality: 34
   - title: "Nvidia races towards $1tn club as AI frenzy drives chip stocks higher"
     excerpt: "Nvidia’s blowout sales forecast has set the Silicon Valley company on course to become the first chipmaker to be valued at more than $1tn, as booming demand for its artificial intelligence processors drove semiconductor stocks higher on Thursday."

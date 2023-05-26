@@ -157,22 +157,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Looking at AI, ChatGPT: The possibilities and pitfalls of artificial intelligence"
-    excerpt: "CHICAGO (WLS) -- The man behind ChatGPT testified on Capitol Hill this past week, calling on lawmakers to regulate artificial intelligence. While Sam Altman warned about potential dangers, he also talked about the possibilities, saying \"We are working to ..."
-    publishedDateTime: 2023-05-21T15:15:00Z
-    webUrl: "https://abc7chicago.com/open-ai-what-is-chatgpt-university-of-chicago/13271416/"
-    ampWebUrl: "https://abc7chicago.com/amp/open-ai-what-is-chatgpt-university-of-chicago/13271416/"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/open-ai-what-is-chatgpt-university-of-chicago/13271416/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 69
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/10528855_041921-wls-our-chicago-new-img.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Regulators dust off rule books to tackle generative AI like ChatGPT"
     excerpt: "As the race to develop more powerful artificial intelligence services like ChatGPT accelerates, some regulators are relying on old laws to control a technology that could upend the way societies and businesses operate."
     publishedDateTime: 2023-05-22T15:55:00Z
@@ -222,6 +206,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-5.jpg"
         width: 1920
         height: 1200
+        isCached: true
+  - title: "AI alternatives to ChatGPT"
+    excerpt: "Even though everyone seems to be talking about ChatGPT, the new artificial intelligence service created by the team over at OpenAI, there are plenty of"
+    publishedDateTime: 2023-05-26T09:33:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-alternatives-to-chatgpt/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/AI-alternatives-to-ChatGPT.jpg"
+        width: 700
+        height: 508
         isCached: true
   - title: "MY VIEW: AI ate my homework: The future of AI and ChatGPT"
     excerpt: "\"Back in the day, rather than admitting our laziness, we blamed the dog for eating our homework. If AI becomes our modern-day crutch for being lazy, a bad grade will be the least of our worries.\""

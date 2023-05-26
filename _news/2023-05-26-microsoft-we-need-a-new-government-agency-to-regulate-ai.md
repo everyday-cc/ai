@@ -325,6 +325,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Microsoft Calls for a New US Agency and Licensing for AI"
+    excerpt: "Microsoft Corp. is calling for a new US agency to regulate artificial intelligence and licensing requirements to operate the most powerful AI tools, company President Brad Smith said Thursday."
+    publishedDateTime: 2023-05-25T13:35:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-25/microsoft-calls-for-new-us-agency-and-licensing-for-ai-tools"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUbotLOGsgFM/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft launches Azure AI Studio for developers to create their own AI 'copilots'"
     excerpt: "Microsoft has launched Azure AI Studio, a new capability within the Azure OpenAI Service that allows customers to combine OpenAI chatbots with their"
     publishedDateTime: 2023-05-24T06:06:00Z
