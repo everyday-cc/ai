@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 899
         isCached: true
-  - title: "Transforming the public sector with artificial intelligence"
-    excerpt: "Artificial Intelligence (AI) is at an inflection point. Since 2017, the number of organizations leveraging AI has doubled, and the impact of this technology’s capabilities is quickly starting to be felt across industries,"
-    publishedDateTime: 2023-05-23T10:05:00Z
-    webUrl: "https://ottawacitizen.com/sponsored/news-sponsored/transforming-the-public-sector-with-artificial-intelligence"
-    ampWebUrl: "https://ottawacitizen.com/sponsored/news-sponsored/transforming-the-public-sector-with-artificial-intelligence/wcm/ab894dae-ff1c-4784-9a0c-94ba4f8cdb28/amp/"
-    cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/sponsored/news-sponsored/transforming-the-public-sector-with-artificial-intelligence/wcm/ab894dae-ff1c-4784-9a0c-94ba4f8cdb28/amp/"
-    type: article
-    provider:
-      name: Ottawa Citizen
-      domain: ottawacitizen.com
-    quality: 59
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/ottawacitizen/wp-content/uploads/2023/05/4v0a0653-edit.xlr_-scaled.jpg"
-        width: 2560
-        height: 1920
-        isCached: true
 
 secured: "aMpO3+gzVByD5DbzvCMnfqedTz75qYYIR9VX91aIxdhVWWM5zSkdwQjNU1zHA6m3KZ5Mhm8oMUELGA7ZdfOygjsUr6K71OsB9CdXUsp88gIpzgoBy4WkXBgb9c2798aQjzHrNZ3pknMXBhjB6NKsuPFwnMQUjbRL5Za+ooZOZnM+Q3Cew17/ZA2ysuLyKYcvLgdacf0FcfzUFiABJTJYL0cyfxO8gKRfhogkNJkJQ4tJWShUMMViR4R18oOT9nbO8WmF+YL0j9YCRfl1x2kWhvcowlMGVm8ROvUGiJHZmhIGonMaM0dMTJlyPoVnrygmcq4Wxt3vyMFKIPYcho82h9zfSZguek/ZIQ3K/SNl5aY=;0iaretAZ333p7yJIB4BPCw=="
 ---

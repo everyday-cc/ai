@@ -268,6 +268,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "AI For Kids: A Chatbox Exploration"
+    excerpt: "Parents and Educators! Help kids learn about AI (artificial intelligence) by experimenting directly with chatbots and machine learning technology."
+    publishedDateTime: 2023-05-25T23:18:00Z
+    webUrl: "https://www.sciencefriday.com/educational-resources/ai-for-kids-with-chatbots/"
+    type: article
+    provider:
+      name: Science Friday
+      domain: sciencefriday.com
+    quality: 39
+    images:
+      - url: "https://www.sciencefriday.com/wp-content/uploads/2023/05/Screenshot-2023-05-25-at-1.54.39-PM.png"
+        width: 1474
+        height: 775
+        isCached: true
   - title: "Tech wants AI chatbots to help ease loneliness. Experts are skeptical"
     excerpt: "For example, for some people who are in a very isolated state and incapable of doing basic prosocial activities, an AI bot could help start a conversation with a human. However, one potential drawback is that some people may start to feel safer or more ..."
     publishedDateTime: 2023-05-21T20:06:00Z

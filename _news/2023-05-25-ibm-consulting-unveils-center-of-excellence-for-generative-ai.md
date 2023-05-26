@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellen
 webUrl: "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellence-for-generative-ai/"
 type: article
 quality: 119
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/646f4b84bb1952736f03a6fa/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Google ads will be customized for you using generative AI"
+    excerpt: "Lastly, Google is incorporating generative AI in Performance Max ad campaigns to assist businesses in the creation of custom assets. This feature will also be available in the new conversational experience in Google Ads."
+    publishedDateTime: 2023-05-25T19:58:00Z
+    webUrl: "https://www.zdnet.com/article/google-ads-will-be-customized-for-you-using-generative-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-ads-will-be-customized-for-you-using-generative-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ads-will-be-customized-for-you-using-generative-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/595592365669c10c08c153f2f6c05df497259108/2023/05/25/20c009a8-9562-4440-a1b3-153663f9f92f/screenshot-2023-05-25-at-11-28-10-am.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "IBM Shows Its Full-Stack Generative AI Offering Could Be A Force To Reckon With"
     excerpt: "it hasn't been caught up in the consumer-facing AI frenzy driven by OpenAI, Microsoft, Google and others. However, over the years, IBM has significantly contributed to the field, most famously with the cognitive computing platform IBM Watson. For a ..."

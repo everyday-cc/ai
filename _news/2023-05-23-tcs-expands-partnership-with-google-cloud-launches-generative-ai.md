@@ -25,44 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "PaLM2 by Google for generative AI is new tool from creativity and innovation"
-    excerpt: "PaLM2 is a new large language model (LLM) from Google AI. It is trained on a massive dataset of text and code, and can generate text, translate languages, write different kinds of creative content,"
-    publishedDateTime: 2023-05-22T09:39:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
+  - title: "Hands-on with Magic Compose, the AI-generating Messages tool"
+    excerpt: "I've had some time to play with an early version of Magic Compose, which uses AI to create texts in Messages. It's fun, but unreliable."
+    publishedDateTime: 2023-05-25T21:58:00Z
+    webUrl: "https://www.androidauthority.com/magic-compose-experience-3329552/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 56
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
     images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2017/01/Untitled-6.jpg"
-        width: 414
-        height: 364
+      - url: "https://www.androidauthority.com/wp-content/uploads/2022/04/Google-Messages-SMS-stock-photo-9.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Google Search ads will soon automatically adapt to queries using generative AI"
-    excerpt: "Google is going to start using generative AI to boost Search ads relevance based on the context of a query, the company announced today."
-    publishedDateTime: 2023-05-23T18:43:00Z
-    webUrl: "https://techcrunch.com/2023/05/23/google-search-ads-automatically-adapt-queries-using-generative-ai/"
+  - title: "Transforming the public sector with artificial intelligence"
+    excerpt: "Artificial Intelligence (AI) is at an inflection point. Since 2017, the number of organizations leveraging AI has doubled, and the impact of this technology’s capabilities is quickly starting to be felt across industries,"
+    publishedDateTime: 2023-05-23T10:05:00Z
+    webUrl: "https://ottawacitizen.com/sponsored/news-sponsored/transforming-the-public-sector-with-artificial-intelligence"
+    ampWebUrl: "https://ottawacitizen.com/sponsored/news-sponsored/transforming-the-public-sector-with-artificial-intelligence/wcm/ab894dae-ff1c-4784-9a0c-94ba4f8cdb28/amp/"
+    cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/sponsored/news-sponsored/transforming-the-public-sector-with-artificial-intelligence/wcm/ab894dae-ff1c-4784-9a0c-94ba4f8cdb28/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 43
-  - title: "Artificial intelligence innovation: Leading companies in road slope estimation for the automotive industry"
-    excerpt: "Porsche Automobil is a key player in the road slope estimation innovation area. The company’s road slope estimation technology uses GPS and standard vehicle sensors for estimation of road slope. Hyundai, Kia, Toyota and Nissan are some of the other key players."
-    publishedDateTime: 2023-05-22T09:56:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-road-slope-estimation-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 21
+      name: Ottawa Citizen
+      domain: ottawacitizen.com
+    quality: 59
     images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/05/Artificial-intelligence_Road-slope-estimation.jpg"
-        width: 1440
-        height: 810
+      - url: "https://smartcdn.gprod.postmedia.digital/ottawacitizen/wp-content/uploads/2023/05/4v0a0653-edit.xlr_-scaled.jpg"
+        width: 2560
+        height: 1920
         isCached: true
   - title: "TCS Expands Google Cloud Relationship With Vertex Generative AI"
     excerpt: "Tata Consultancy Services is banking on its deep customer relationships to find ways to bring Google Vertex AI generative AI to them."
@@ -73,15 +64,6 @@ related:
       name: CRN
       domain: crn.com
     quality: 19
-  - title: "Red Hat gives Ansible a generative AI front end and adds stream processing features"
-    excerpt: "Ansible Lightspeed with IBM Watson Code Assistant keys off the industry’s current fascination with generative AI sparked by the success of OpenAI LP’s ChatGPT large language model. These models enable seemingly humanlike responses to queries,"
-    publishedDateTime: 2023-05-23T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/05/23/red-hat-gives-ansible-generative-ai-front-end-adds-stream-processing-features/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 15
 
 secured: "GnZA/GgNX0VXy3LLG7CeaqLMqDqzdoZ6xo6ekJj6VdkKwmB8uUITM2HqqiaEKYeq7sBSKUUlNj8UQtbsO2sM1xVzYCp5pESXeUmV7cbFLwSQ10YU0zoInoGWLI+YwyvWJ25gVmnXduq1Zsuc5v+AvgTkOuDC8ickvUSG++K7/OBanubtZw4qVzF55TiKJ3tve42XBMBA4Ug3Lix5WYSyrBF9q99nvb9glGlc/IP9v+sVbDXp5w/0Ovteq3fcAlnU5e8CdGypwNX1Rp1UWVuHC/7xusG1OhjirQ9toDiB521d3TjvTVYr7/iIcLZlqj/9s5d21xOqNRQkfyzp1EtnudU7M5VPvYxLGmXCTnfLH332FVzcUpkubPz7Hh19gsQCP586AIIRzaoZHg3Yy2rH7PZK3MP/xTdDDHM7HHf3ZsA4r95aD7HVOe7SqdaAOK8k+2BUpfYp37NqNnAz+5SosV7doW1RRnUpFvgrYStLvhCyCUzvMzczic7txxVvDihxIk+azkISWubpVygMDVbeBw==;qCTRA6y9tkaY8DxS5RyUpg=="
 ---

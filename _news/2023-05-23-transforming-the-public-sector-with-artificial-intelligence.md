@@ -27,34 +27,43 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia’s AI, Metaverse Investments Keep Business Humming After Crypto Mining Demand Withers"
-    excerpt: "In March, Nvidia announced an alliance with Microsoft MSFT -0.1% that focuses on bringing the industrial metaverse and AI to enterprises via cloud computing platform Azure. Upon the announcement, Nvidia CEO Jensen Huang reiterated that his goal was to to bring new AI, simulation and collaboration capabilities to every industry."
-    publishedDateTime: 2023-05-23T17:28:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2023/05/23/nvidias-ai-metaverse-investments-keep-business-humming-after-crypto-mining-demand-withers/"
+  - title: "Hands-on with Magic Compose, the AI-generating Messages tool"
+    excerpt: "I've had some time to play with an early version of Magic Compose, which uses AI to create texts in Messages. It's fun, but unreliable."
+    publishedDateTime: 2023-05-25T21:58:00Z
+    webUrl: "https://www.androidauthority.com/magic-compose-experience-3329552/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646cf73f94620200848e4343/0x0.jpg?format=jpg&width=1200"
+      - url: "https://www.androidauthority.com/wp-content/uploads/2022/04/Google-Messages-SMS-stock-photo-9.jpg"
         width: 1200
-        height: 899
+        height: 675
         isCached: true
-  - title: "Can Metaverse Education Survive the Rise of AI?"
-    excerpt: "Generative AI has stolen the metaverse’s thunder as the “it” technology of the moment. What does that mean for the future of immersive technology in the classroom?"
-    publishedDateTime: 2023-05-22T09:03:00Z
-    webUrl: "https://www.techlearning.com/news/can-metaverse-education-survive-the-rise-of-ai"
+  - title: "TCS Expands Partnership With Google Cloud, Launches Generative AI"
+    excerpt: "Tata Consultancy Services on Wednesday (22 May) announced an expanded partnership with Google Cloud and the launch of its new offering, TCS Generative AI which leverages Google Cloud’s generative AI services,"
+    publishedDateTime: 2023-05-23T03:23:00Z
+    webUrl: "https://swarajyamag.com/tech/tcs-expands-partnership-with-google-cloud-launches-generative-ai"
     type: article
     provider:
-      name: techlearning
-      domain: techlearning.com
-    quality: 56
+      name: Swarajya
+      domain: swarajyamag.com
+    quality: 39
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/xWdkazF485EvUDhwXmgqEN-1200-80.jpg"
+      - url: "https://gumlet.assettype.com/swarajya%2F2023-02%2Fa38bf3ae-864b-49b1-ad8b-01fddfd3c396%2FScreenshot_2023_02_08_at_12_53_49_PM.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 800
         isCached: true
+  - title: "TCS Expands Google Cloud Relationship With Vertex Generative AI"
+    excerpt: "Tata Consultancy Services is banking on its deep customer relationships to find ways to bring Google Vertex AI generative AI to them."
+    publishedDateTime: 2023-05-24T17:48:00Z
+    webUrl: "https://www.crn.com/news/cloud/tcs-expands-google-cloud-relationship-with-vertex-generative-ai"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 19
 
 secured: "hkzeD3pOXJMVPVKpYWp1TRZ/793H8g538da/A4sDZLzU25c1aoNXSifmaahYcdL1K1u89QKQMG+R635biYFrEtV6LggYKZhEl9aXR19EyyjyP4RsCFWKpLyEl/nPiAB+Pt3ijyC342Qzw8Hoz0se5b9HqL7VcjrkjMNVo8ywBZciPaCPRT3gyZotEQgbesgo4LRqHwo0NNXxqf3hwtXYYAgAlD29pzLx9uGFbY6YMQ75vfA64q/9UNwjAy/GTVMiuOQliWlFRyRhMm+sn37Ubwsgg/idKbaGococLm6hbLsuqBZ2EPToyDReya1+AnaLJTUtSW/eSktSxdvKrU0cdYYNd9+nDYf1FdMlQyyjhzaJFHG2tJQrW8NZ2OryS970fl/fhTh2PpUUN+ofgO+IFA6zsKNNZVnLM/QhDiYNtJh8NiRrUhJBGWwyuGQDazU9aM4J9m/30C5a3EzIjlgJmQfPVQMFv4bfWucLAa1zghg43t1psjVeme/AeJD0M4/63Ob2Ve1sYvDg7RP4i6glIA==;Gn++nSKDj+DJc4QjdTOrdA=="
 ---

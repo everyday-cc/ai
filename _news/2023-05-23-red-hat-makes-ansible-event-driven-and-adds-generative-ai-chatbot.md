@@ -259,6 +259,20 @@ related:
         width: 630
         height: 355
         isCached: true
+  - title: "AI For Kids: A Chatbox Exploration"
+    excerpt: "Parents and Educators! Help kids learn about AI (artificial intelligence) by experimenting directly with chatbots and machine learning technology."
+    publishedDateTime: 2023-05-25T23:18:00Z
+    webUrl: "https://www.sciencefriday.com/educational-resources/ai-for-kids-with-chatbots/"
+    type: article
+    provider:
+      name: Science Friday
+      domain: sciencefriday.com
+    quality: 39
+    images:
+      - url: "https://www.sciencefriday.com/wp-content/uploads/2023/05/Screenshot-2023-05-25-at-1.54.39-PM.png"
+        width: 1474
+        height: 775
+        isCached: true
   - title: "MY VIEW: AI ate my homework: The future of AI and ChatGPT"
     excerpt: "\"Back in the day, rather than admitting our laziness, we blamed the dog for eating our homework. If AI becomes our modern-day crutch for being lazy, a bad grade will be the least of our worries.\""
     publishedDateTime: 2023-05-22T10:26:00Z

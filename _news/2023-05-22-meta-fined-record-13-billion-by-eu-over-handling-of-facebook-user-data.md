@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-fined-record-1-3-billi
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/"
 type: article
 quality: 73
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook owner Meta slashes business teams in final round of layoffs"
+    excerpt: "Meta Platforms Inc , owner of Facebook, slashed jobs across its business and operations units on Wednesday as it carried out its last batch of a three-part round of layoffs, part of a plan announced in March to eliminate 10,"
+    publishedDateTime: 2023-05-25T01:43:00Z
+    webUrl: "https://www.reuters.com/technology/facebook-owner-meta-starts-final-round-layoffs-2023-05-24/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/d_PASdpr3QZXkbBeg_mjFMVR72c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SUJGYB3QTVJK3CHWEDCOPD4KUE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Facebook owner Meta starts final round of layoffs"
     excerpt: "Meta Platforms Inc started carrying out the last batch of a three-part round of layoffs on Wednesday, according to a source familiar with the matter, as part of a plan announced in March to eliminate 10,"
     publishedDateTime: 2023-05-24T15:16:00Z

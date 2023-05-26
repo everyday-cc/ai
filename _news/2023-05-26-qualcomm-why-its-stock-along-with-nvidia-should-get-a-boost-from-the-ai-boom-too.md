@@ -2,9 +2,9 @@
 category: news
 title: "Qualcomm: Why its stock, along with Nvidia, should get a boost from the AI boom, too"
 excerpt: "Though the AI boom has massively benefited Nvidia, AI – and generative AI specifically – also marks a major opportunity for other chip companies like Qualcomm, the company's SVP of Product Management Ziad Asghar told Yahoo Finance Live."
-publishedDateTime: 2023-05-25T21:29:00Z
-originalUrl: "https://www.aol.com/finance/qualcomm-why-stock-along-nvidia-201250855.html?ref=biztoc.com"
-webUrl: "https://www.aol.com/finance/qualcomm-why-stock-along-nvidia-201250855.html?ref=biztoc.com"
+publishedDateTime: 2023-05-25T23:12:00Z
+originalUrl: "https://www.aol.com/finance/qualcomm-why-stock-along-nvidia-201250855.html"
+webUrl: "https://www.aol.com/finance/qualcomm-why-stock-along-nvidia-201250855.html"
 type: article
 quality: 32
 heat: -1
@@ -297,6 +297,22 @@ related:
         width: 2940
         height: 1912
         isCached: true
+  - title: "2 Stocks to Play the AI Boom, From Nvidia CEO’s Earnings Call Remarks"
+    excerpt: "Investors are now looking for other opportunities to benefit from the AI trend, which has already sparked Nvidia stock’s triple-digit gains this year. Ironically, the best ideas"
+    publishedDateTime: 2023-05-25T19:20:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-price-ai-adobe-servicenow-507a5c79"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-price-ai-adobe-servicenow-507a5c79"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-price-ai-adobe-servicenow-507a5c79"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-788731/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Nvidia Stock Surges As Generative AI Frenzy Boosts Sales"
     excerpt: "Nvidia's stock price surged Wednesday after the company said a generative AI spending frenzy is boosting revenue."
     publishedDateTime: 2023-05-24T23:08:00Z
@@ -354,6 +370,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/c/02/c022173e-3e43-50a5-9276-1b07edbcc0fa/646e7832a1601.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI future depends on semiconductor chips from companies like Nvidia"
+    excerpt: "First, it was electronics — then it was cars — and now it's AI: The semiconductor chip is entering a new stratospheric phase."
+    publishedDateTime: 2023-05-25T21:29:00Z
+    webUrl: "https://www.axios.com/2023/05/25/ai-chips-nvidia-stock-tsmc"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 54
+    images:
+      - url: "https://images.axios.com/eC2i1FzN2gLk9x04WMB6Zcs7-qY=/0x0:1920x1080/1366x768/2023/05/25/1685041769199.jpg"
+        width: 1366
+        height: 768
         isCached: true
   - title: "Generative AI demand sends Nvidia chip sales soaring; stock surges"
     excerpt: "Nvidia makes chips that power generative AI, a type of artificial intelligence that can create new content, such as text and images, in response to user prompts. That’s the kind of AI underlying ChatGPT,"
@@ -530,16 +560,7 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 19
-  - title: "2 Stocks to Play the AI Boom, From Nvidia CEO’s Earnings Call Remarks"
-    excerpt: "Investors are now looking for other opportunities to benefit from the AI trend, which has already sparked Nvidia stock’s triple-digit gains this year. Ironically, the best ideas"
-    publishedDateTime: 2023-05-25T19:20:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-price-ai-adobe-servicenow-507a5c79"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
 
-secured: "4adwrWYMPAXgla/Omwgxb0Jd+m3c86Pf4vLagq178+Ueh+6Wlm7P2JhuDXZmLLBdXkMH8gOdaz8AEu0Ajb9Wx4GeJAFlgHCMeYLw2zUdN6WeJcfdpmBjOxWVeox7lJ9SRLV7LeFO0rtViB1VIw+b36UvVrEjt8kl65r8o/0EtIQDu7OlFDCI3a+TaHxJ8IApeCk3qPA7m2Q/QfSlRhCJ617EcC8U/qNHFlQY8QvKPPm1EGy1u4AMqx/Hpp7GzTB0L5sNQWbafKDL1kbL1Oiw0YALLyF+7olhXyuWjC5HgqnHXLTda9gu82w4MLZNEeOqLknKYgbdHUloap0kR2WR1G7Gt1Ijn9wmaBPg7X9OfXQ=;e/DiBgNr8+ebVhZN3CUVTg=="
+secured: "PoNu2x9MA0t+Vmgbls5yUGGZqu8iOmYnjAG2AQ0/bCBI2Mem0m4z1SwVG7kG8RgXBn58B22oUaSYbhkoX+aBgzp16lmtboOxKEDgZOhIkzVcRa2z6n/LVYWGre4Gsx68pYmDJTGB+fn37Z6G4PhnJ89Q68nVveUCpYNLy6QlrjZ5Bb1t983W4fRffndthvxRr1kE4FU460R84gKIi36/6XPZN96wM9MoziOoMMTZxs3FvJMvxZGn+WjmsfqvoVLL5NWKFzWxE0BiIxy6T/7fOYWnxD7asxWYvwPEdo/60r0OT+hwqzq/aLFVmhgZQurO0OuhvHWpefS6PZSlnTkKl6VapV3Y75PoPQkwtwtsCfE=;YHzADzTedtkkLtl+Zgp4DQ=="
 ---
 

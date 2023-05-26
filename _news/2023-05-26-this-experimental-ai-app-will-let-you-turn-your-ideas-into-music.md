@@ -7,8 +7,8 @@ originalUrl: "https://www.androidauthority.com/experimental-ai-musiclm-app-33294
 webUrl: "https://www.androidauthority.com/experimental-ai-musiclm-app-3329486/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Android Authority
@@ -28,21 +28,50 @@ images:
     isCached: true
 
 related:
-  - title: "How AI and Machine Learning Will Transform Your Legal Department"
-    excerpt: "With 80% of executives believing that automation can be applied to any business decision, AI and ML tools are currently the most popular area where business IT departments will invest in 2023."
-    publishedDateTime: 2023-05-25T15:18:00Z
-    webUrl: "https://www.law.com/corpcounsel/2023/05/25/how-ai-and-machine-learning-will-transform-your-legal-department/"
+  - title: "This new AI tool will summarize YouTube videos for you in seconds"
+    excerpt: "The Eightify Chrome extension uses GPT technology to help you cut straight to the main points of any YouTube video."
+    publishedDateTime: 2023-05-25T21:25:00Z
+    webUrl: "https://www.zdnet.com/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 54
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/428/2023/05/Artificial-Intelligence_2-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://www.zdnet.com/a/img/resize/5fe72c33f5b53dda3b2c91139d511c53774776a6/2023/05/25/9ab9c403-1132-4194-ba59-922071931410/screenshot-2023-05-25-at-4-00-28-pm.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Google DeepMind’s AI is generating descriptions for YouTube Shorts"
+    excerpt: "Google recently combined DeepMind and Brain teams into one big AI team called Google DeepMind. The new team has now shared details on its purported first work together. The group details how one of its visual language models (VLM) is being used to generate descriptions for YouTube Shorts."
+    publishedDateTime: 2023-05-25T02:00:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/google-deepminds-ai-is-generating-descriptions-for-youtube-shorts/articleshow/100487884.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/google-deepminds-ai-is-generating-descriptions-for-youtube-shorts/amp_articleshow/100487884.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/google-deepminds-ai-is-generating-descriptions-for-youtube-shorts/amp_articleshow/100487884.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-100487884,imgsize-24486,width-800/100487884.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Flamingo: Google DeepMind's AI enhances YouTube shorts with dynamic video descriptions"
+    excerpt: "Boost discoverability and engagement on YouTube Shorts with Google DeepMind's Flamingo. This visual language model generates dynamic video descriptions for enhanced search results."
+    publishedDateTime: 2023-05-25T06:07:00Z
+    webUrl: "https://odishatv.in/news/technology/flamingo-google-deepmind-s-ai-enhances-youtube-shorts-with-dynamic-video-descriptions-205172"
+    ampWebUrl: "https://odishatv.in/news/technology/flamingo-google-deepmind-s-ai-enhances-youtube-shorts-with-dynamic-video-descriptions-205172/amp"
+    cdnAmpWebUrl: "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/technology/flamingo-google-deepmind-s-ai-enhances-youtube-shorts-with-dynamic-video-descriptions-205172/amp"
+    type: article
+    provider:
+      name: Odisha TV
+      domain: odishatv.in
+    quality: 46
 
-secured: "/1101jsm1LJPtULWIshTuTumE8ZJ/CyeCI2WuLAfVGQzPgmBwF0koubOwXrEGMfrqiZldeK+UXwwiyJA+Ng7nOTRh4WNxkGqbeDDrUc3h3W96prKGWpMxR4xOY0u7omNBNiHdemJAw21v59M74Dk45+2UvdlaZND0MtioyiOBXGqGbxtQkozJR3EJ1y1/YDvy+svxAQ6ZUgbxofU3sHGrV/uQN5ZvrEJFa+Zsk6JDxorze4L9RrYO71c9EjSoaxis+qkpZUFjAefpUX/hq0dGYG7/FhXIr5woMvZRds5HUlHUgY+68Ztcdot167yLj49xS+CM8Ez5XRK7+cBRuU0lVSUzjQcd04wbHUz5gQpFSQ=;MLHAPSsDe2AXIjQT2x3+dg=="
+secured: "kyw0YJhmkGPwWd8uxCyiY/zNmoJN+SQkViymerrelhIEc/+O/YR90I5W22W/1nAzRR04fYvlVVuUtGZvQIxiLM/HdySOeoU+jTdPlWE6+pcp71o/sPFyMVZOpNyOQ4OMmJbCyUTMKHtzjtteKlmtiwnyqmt655/yThuK4Zi+WjA3J1U4p8V0cgAwwA+SQYNXvhIg1uufXgcyAl+0uYZlaFP87y8lB9vxEUyGRP4K9HjcoPd+ACnl/zCQ2P9uArE8eLiEWvMLNVjitLFATJVnpzO6kkn++EphBtDV89muV4QpFIYF3kGZQEWeKG5t3XCsVTJlmGmiHvu0c7+57/g3VQ918NWS+Vz//dRrJy2xuBhMZHkOUjHdBCSFwdgsasKaR5bzN8LR7bK2hyNnJgG1TOaWaVrIpbjhaoHKTISMm6iuUt+Jc7eGB3J9RiTJUCjmT6aJV/QXsnssjBkq0Y7R9DG9NrmC+Lsx7hdDC4+iFHtdymIkGNTdOFSniAyN5uLeyIHaY4/L4RSrnQBqCC8Lvw==;4bMZoHJ1gSuq4lDTRhiA1A=="
 ---
 

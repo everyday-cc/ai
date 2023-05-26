@@ -291,6 +291,22 @@ related:
         width: 2940
         height: 1912
         isCached: true
+  - title: "2 Stocks to Play the AI Boom, From Nvidia CEO’s Earnings Call Remarks"
+    excerpt: "Investors are now looking for other opportunities to benefit from the AI trend, which has already sparked Nvidia stock’s triple-digit gains this year. Ironically, the best ideas"
+    publishedDateTime: 2023-05-25T19:20:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-price-ai-adobe-servicenow-507a5c79"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-price-ai-adobe-servicenow-507a5c79"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-price-ai-adobe-servicenow-507a5c79"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-788731/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Nvidia Stock Surges As Generative AI Frenzy Boosts Sales"
     excerpt: "Nvidia's stock price surged Wednesday after the company said a generative AI spending frenzy is boosting revenue."
     publishedDateTime: 2023-05-24T23:08:00Z
@@ -348,6 +364,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/c/02/c022173e-3e43-50a5-9276-1b07edbcc0fa/646e7832a1601.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI future depends on semiconductor chips from companies like Nvidia"
+    excerpt: "First, it was electronics — then it was cars — and now it's AI: The semiconductor chip is entering a new stratospheric phase."
+    publishedDateTime: 2023-05-25T21:29:00Z
+    webUrl: "https://www.axios.com/2023/05/25/ai-chips-nvidia-stock-tsmc"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 54
+    images:
+      - url: "https://images.axios.com/eC2i1FzN2gLk9x04WMB6Zcs7-qY=/0x0:1920x1080/1366x768/2023/05/25/1685041769199.jpg"
+        width: 1366
+        height: 768
         isCached: true
   - title: "Generative AI demand sends Nvidia chip sales soaring; stock surges"
     excerpt: "Nvidia makes chips that power generative AI, a type of artificial intelligence that can create new content, such as text and images, in response to user prompts. That’s the kind of AI underlying ChatGPT,"
@@ -508,8 +538,8 @@ related:
     quality: 32
   - title: "Qualcomm: Why its stock, along with Nvidia, should get a boost from the AI boom, too"
     excerpt: "Though the AI boom has massively benefited Nvidia, AI – and generative AI specifically – also marks a major opportunity for other chip companies like Qualcomm, the company's SVP of Product Management Ziad Asghar told Yahoo Finance Live."
-    publishedDateTime: 2023-05-25T21:29:00Z
-    webUrl: "https://www.aol.com/finance/qualcomm-why-stock-along-nvidia-201250855.html?ref=biztoc.com"
+    publishedDateTime: 2023-05-25T23:12:00Z
+    webUrl: "https://www.aol.com/finance/qualcomm-why-stock-along-nvidia-201250855.html"
     type: article
     provider:
       name: AOL
@@ -528,15 +558,6 @@ related:
     provider:
       name: techzine
       domain: techzine.eu
-    quality: 19
-  - title: "2 Stocks to Play the AI Boom, From Nvidia CEO’s Earnings Call Remarks"
-    excerpt: "Investors are now looking for other opportunities to benefit from the AI trend, which has already sparked Nvidia stock’s triple-digit gains this year. Ironically, the best ideas"
-    publishedDateTime: 2023-05-25T19:20:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-price-ai-adobe-servicenow-507a5c79"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
     quality: 19
 
 secured: "I4+tDHaSiaqADxQucJqHweJd1PyylwcRh3jT7kR8BDkAq3khBtJIKiFz142SZ84enSwVT6WHF7RStYnfTrMXh0PLUkjtoaVqlUaesEZkMRyeBUvvlN74qLfnYl7qar9YdP2lW9Sc/UHby9myS7LzBZb/GhKuCAEijOeWzfUWnQ+TcbBEwKKwHaRpIhEGV8qBlrBpjQjfhztyG9Jf+JDQXOH8K35aCKjKTg/r4nL9ctzi++Xj+Kypf28hSiHqbI1baYxYU4ZNc91B8Gq0YBFvBXw34C1f//Zm8kQfk4Ed2ZeMxU993t1knoo53m94JfzCQbjmJovjbM0xa8iFd/GFxv4ELE13N5yP5g1XEJZjIfY=;VIIEKjER2asMPjCK5do/MA=="

@@ -5,8 +5,10 @@ excerpt: "Investors are now looking for other opportunities to benefit from the 
 publishedDateTime: 2023-05-25T19:20:00Z
 originalUrl: "https://www.barrons.com/articles/nvidia-stock-price-ai-adobe-servicenow-507a5c79"
 webUrl: "https://www.barrons.com/articles/nvidia-stock-price-ai-adobe-servicenow-507a5c79"
+ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-price-ai-adobe-servicenow-507a5c79"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-price-ai-adobe-servicenow-507a5c79"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://images.barrons.com/im-788731/social"
+    width: 1280
+    height: 640
+    isCached: true
 
 related:
   - title: "AI chip boom sends Nvidia’s stock surging after whopper of a quarter"
@@ -349,6 +357,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI future depends on semiconductor chips from companies like Nvidia"
+    excerpt: "First, it was electronics — then it was cars — and now it's AI: The semiconductor chip is entering a new stratospheric phase."
+    publishedDateTime: 2023-05-25T21:29:00Z
+    webUrl: "https://www.axios.com/2023/05/25/ai-chips-nvidia-stock-tsmc"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 54
+    images:
+      - url: "https://images.axios.com/eC2i1FzN2gLk9x04WMB6Zcs7-qY=/0x0:1920x1080/1366x768/2023/05/25/1685041769199.jpg"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Generative AI demand sends Nvidia chip sales soaring; stock surges"
     excerpt: "Nvidia makes chips that power generative AI, a type of artificial intelligence that can create new content, such as text and images, in response to user prompts. That’s the kind of AI underlying ChatGPT,"
     publishedDateTime: 2023-05-25T13:05:00Z
@@ -508,8 +530,8 @@ related:
     quality: 32
   - title: "Qualcomm: Why its stock, along with Nvidia, should get a boost from the AI boom, too"
     excerpt: "Though the AI boom has massively benefited Nvidia, AI – and generative AI specifically – also marks a major opportunity for other chip companies like Qualcomm, the company's SVP of Product Management Ziad Asghar told Yahoo Finance Live."
-    publishedDateTime: 2023-05-25T21:29:00Z
-    webUrl: "https://www.aol.com/finance/qualcomm-why-stock-along-nvidia-201250855.html?ref=biztoc.com"
+    publishedDateTime: 2023-05-25T23:12:00Z
+    webUrl: "https://www.aol.com/finance/qualcomm-why-stock-along-nvidia-201250855.html"
     type: article
     provider:
       name: AOL
@@ -539,6 +561,6 @@ related:
       domain: barrons.com
     quality: 19
 
-secured: "SQvMC+1t8pfy8RJS8b+iewNYO9KkgKKhYNli/BY6nC91NYtWGE957+UIBkma/Lg+twD/r7M7xNTW/SWelRPhSitPRQluEBCw9uocUcCN0V/ey2ji8Ul3OnBGxzP7pmEcq1gBKt7KXQNYXLE5B3HWbhZOT2L1dDA7XzX4YTb8UV0+MovxB/xeOqxBvBqnRZ30pjsOLfgNfHTZeqOA+ChpHCqVS56gtdfu3zfpCihmj8wCUz7REVNjJBAVjbtXFNLrrHNvVzOJgGNgQS4vCVB02o9kQuJcr/NOsUfL3SQios1EJfkbdwoW/+RvdSRp1T5YleX+OD38aO44uIVBv/bnalXmhbS5LXUo1g+0sy7b0NM=;mutrEH9Oq8u2j5Lu6V0oMQ=="
+secured: "eoevCwi6jZMBlV2Tu8EiVcnOKeiM2E3AI/movSsYTNQDcWC3sR+Raxbuc0i+TSjlfA2yXYemTjvrtqxMt30+AGIGfqn7BVXUZYKDNMXXsYoHizefWhaAtKIUrgHF8Omr+2kK8ZQPt8k5G3LtUk5+KsnL7J8OQlM+JrvpeasJWZMNB9NkdVaJ3boPnJGH/rt/EJOcwlblsaqCEhxmGC7iyCxQWQ7VQHhfKgkfuJrv0o0hadzAha0mSqWlMRUpky0S7iLVUjxCrY78o+yr39rynWOBry7pJqP9BgDhlv9hxmvazF/LN9oQHj6Z4qKGEr7ENCj6G/8b1jzS1eezR74pSiOx5Zrs63Q7nqWn6ORbzJs=;c0tFHfBMEApAYaHa+iPiqg=="
 ---
 

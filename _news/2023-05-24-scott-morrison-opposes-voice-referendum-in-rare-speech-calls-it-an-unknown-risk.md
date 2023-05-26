@@ -36,6 +36,15 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 39
+  - title: "Pearson’s vitriol only helps the No campaign against the Indigenous voice to parliament"
+    excerpt: "Well, folks, today we delve into some treasured secrets from the No campaign. Yes, their best secret weapons are Noel Pearson and, admittedly a distant second, Marcia Langton."
+    publishedDateTime: 2023-05-25T23:30:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/pearsons-vitriol-only-helps-the-no-campaign-against-the-indigenous-voice-to-parliament/news-story/e6304ac784f80c1bb701b8a5ed4de81c"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 11
 
 secured: "+atpLdabOht5vmjYRamgtpMag9QgqOXIl+4vY+3ibRysGJ1HCp3xfceBB+z9Owwhx6XbAHdRwIjN3P8qWMTJ1Cds+m/v9sftoywoIr6zvJ9xG8vXjfEHXune3EGtTMajQuIjpN8boTlha6s7kWJD9m1d0Z8TZSz16nrmBLy/wd8UP8FFm41QSUOTldKt1Ez7chcVoa9DPZKYBgvcfVUce1n3EZjYqEOWx407VZErs8WBLOrLVal/QCwm8a+Y1v/Whkzh/xip7wslVJJeauzbSoL36RiD9hCyfvaB9IOf1OB1Srm8pttxxH8DFg/Tbm8j24gVvTNreSNB/EwiG+CKQhqh2tqYsr/HMOwAPM4q+1iRzj/qh+0JCwAjJLGyDmxxxSsYe0kvx38wZNVD6od6ZaX+cgkwB4i4MKxbNj8+qzfIawyRD9GfDhQXOKNZKzxGLW7O1ja3xtYMPiMiRiT9MzjV/upLGbL2f5ZUUVPy/1T3DAEC6drG8q6g/xFRGWnTE0dGvNQ1SvUCYnkto/ByTg==;3Ij9mxFYPDhe/yYJx7ULew=="
 ---

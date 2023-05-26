@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressi
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressing-the-ethical-use-of-ai-in-healthcare/"
 type: article
 quality: 81
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -24,20 +24,6 @@ topics:
   - AI Ethics
 
 related:
-  - title: "5 AI healthcare startups in India"
-    excerpt: "Artificial intelligence (AI ... Amid the rise of several AI healthcare technologies, the World Health Organisation (WHO) released a warning about their accuracy. In a recent statement, WHO ..."
-    publishedDateTime: 2023-05-21T06:11:00Z
-    webUrl: "https://yourstory.com/2023/05/artificial-intelligence-healthcare-startups-india"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 54
-    images:
-      - url: "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/health-gb820987231280-1684490624617.jpg?fm=png&auto=format"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "The Top Trends in Artificial Intelligence in 2023"
     excerpt: "Artificial intelligence (AI ... Whether one is more likely to engage in AI as a consumer, a business professional, or for the management of their healthcare, these tools have become engrained into all aspects of our daily lives. In the near future ..."
     publishedDateTime: 2023-05-22T00:00:00Z

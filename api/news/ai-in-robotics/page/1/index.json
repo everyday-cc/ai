@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-25-robots-and-rights-confucianism-offers-an-alternative.md",
+      "title": "Robots and rights: Confucianism offers an alternative",
+      "excerpt": "Philosophers and legal scholars have explored significant aspects of the moral and legal status of robots, with some advocating for giving robots rights. As robots assume more roles in the world, a new analysis reviewed research on robot rights,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-05-robots-rights-confucianism-alternative.html",
+      "originalUrl": "https://techxplore.com/news/2023-05-robots-rights-confucianism-alternative.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-robot.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-05-robots-rights-confucianism-alternative.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-robots-rights-confucianism-alternative.amp",
+      "publishedDateTime": "2023-05-25T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-will-ai-replace-lawyers.md",
       "title": "Will AI Replace Lawyers?",
       "excerpt": "This is not to say that lawyers' work won’t change—or even disappear. There will most likely be less administrative work and we will probably need fewer clerks. Lawyers will have to write less, read less, search less and, frankly, also think less. They will become hyper-augmented which might turn them into overqualified project managers.",
@@ -200,7 +243,7 @@
       "originalUrl": "https://www.wired.com/story/generative-ai-podcasts-boring/?utm_social-type=earned",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -304,7 +347,7 @@
       "originalUrl": "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1371,58 +1414,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-outlook-and-forecast-to-2030-airbus-se-general-electric-the-boeing-company.md",
-      "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market Outlook and Forecast to 2030 | Airbus SE, General Electric, The Boeing Company",
-      "excerpt": "The worldwide Artificial Intelligence and Robotics in Aerospace and Defense Market is expected to grow at a booming CAGR of 2023-2030, rising from USD billion in 2023 to USD billion in 2030. It also shows the importance of the Artificial Intelligence and Robotics in Aerospace and Defense Market main players in the sector,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-outlook-and-forecast-to-2030-airbus-se-general-electric-the-boeing-company-2023-05-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-outlook-and-forecast-to-2030-airbus-se-general-electric-the-boeing-company-2023-05-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T01:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/diy-garden-design-ai-artificial-intelligenc
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/diy-garden-design-ai-artificial-intelligence-1802314?amp=1"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

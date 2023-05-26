@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "How AI and Machine Learning Will Transform Your Legal Department"
+    excerpt: "With 80% of executives believing that automation can be applied to any business decision, AI and ML tools are currently the most popular area where business IT departments will invest in 2023."
+    publishedDateTime: 2023-05-25T15:18:00Z
+    webUrl: "https://www.law.com/corpcounsel/2023/05/25/how-ai-and-machine-learning-will-transform-your-legal-department/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 54
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/428/2023/05/Artificial-Intelligence_2-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "1T9c6qaGNBjQQ2cXhAOcIkeedn49P5R0XkFefHKooOxejBwqYF9UULbubFvMsWr6IHmVfu/bgYMUgJxzUPh/gJzGV+CIChZJMj+ax4ZsUWgPkJ9ZOJ3wX+Hcu0bZJD+4GqkDUhnjNBowIJbjg8vV26zb52r+PGDFED9cIdO8nSGgQlF1TI/NSdJj5T1spL2qZ0fnij1b0oHwNO9vaJA8RYqgI8QW8iMrxwZCPWtWa4lS12E74lAowrwdVbxNPiuNjCkihkCbhiVc2ph8ME3dqZiHlt7/aOgTzA8MIIqf9Wll6Xv/iLiD95/pEHCvq7/eyjTQ7zOJtbmAT+EK9r1fNuxHVUyCjBJ0uHOetp2qvvk=;Dpj0s4PC/gAYSgc9ngfk6g=="
 ---

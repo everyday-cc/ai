@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/uipaths-stock-is-down-on-soft-
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/uipaths-stock-is-down-on-soft-revenue-guidance-4512792e"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

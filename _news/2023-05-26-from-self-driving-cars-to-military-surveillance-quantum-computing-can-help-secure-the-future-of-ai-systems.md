@@ -1,29 +1,29 @@
 ---
 category: news
-title: "From self-driving cars to military surveillance: quantum computing can help secure the future of AI systems"
-excerpt: "Artificial intelligence algorithms are quickly becoming a ... Someone could put a sticker on a stop sign to fool a self-driving car’s AI into identifying it as a speed-limit sign. Or, on the front lines, troops might wear uniforms that can fool AI ..."
-publishedDateTime: 2023-05-25T20:07:00Z
-originalUrl: "https://theconversation.com/from-self-driving-cars-to-military-surveillance-quantum-computing-can-help-secure-the-future-of-ai-systems-206177"
-webUrl: "https://theconversation.com/from-self-driving-cars-to-military-surveillance-quantum-computing-can-help-secure-the-future-of-ai-systems-206177"
+title: "From Self-Driving Cars To Military Surveillance: Quantum Computing Can Help Secure The Future Of AI Systems"
+excerpt: "Artificial intelligence algorithms are quickly becoming a part of everyday life. Many systems that require strong security are either already underp"
+publishedDateTime: 2023-05-25T23:36:00Z
+originalUrl: "https://menafn.com/1106319296/From-Self-Driving-Cars-To-Military-Surveillance-Quantum-Computing-Can-Help-Secure-The-Future-Of-AI-Systems"
+webUrl: "https://menafn.com/1106319296/From-Self-Driving-Cars-To-Military-Surveillance-Quantum-Computing-Can-Help-Secure-The-Future-Of-AI-Systems"
 type: article
 quality: 21
 heat: 21
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/528182/original/file-20230525-23-bqxfsg.jpeg?ixlib=rb-1.1.0&rect=17%2C1005%2C5973%2C2982&q=45&auto=format&w=1356&h=668&fit=crop"
-    width: 1356
-    height: 668
+  - url: "https://menafn.com/updates/pr/2023-05/25/TC_b574fimage_story.jpeg"
+    width: 960
+    height: 640
     isCached: true
 
-secured: "8Or1BTOIpMDPjd7xu2mpWYpF4kd+4YPcpCtDiffzCFl+MYhCnRLlgRKyeZ0C2Ny0IScaulkSa8obBJrHfRksx0aYSj16hSA3Mn+mblHDixATKgfFq1vxdYw9BVUMqlvYlP3paOeUX0WZlfiO+OWdD7FfWlu4CGyGHwkoMZajsBSgAz51vtz+bSISMbsCa8zMDD8gLXK3kMBrAVY+iPv+yEyTT/OMmiTpmxJAEwFYysq6E2lMB2NXRcDLLq5xSuLuIHxh+oKvjhhAX/mV23A3LwNMPVsS9rCWHm2b/tofmwXYzwFApNHgd/zHf/NGvzq+/66FfIQjhHYfXpbg3JwMFqmXO1wd1xpsE18edlKFMuE=;ozMW/g7+Ll9G+DjMAkfh9w=="
+secured: "zs5ZTkFFgW7TxQmu7FUqGtuGz5Q1uQ8mKSL65o6BjH/oUmXHXoDEu6E4XYPESGDOSC81N6lEifhYqwxDnyIgYdnNoG5UPoM75KwOJkdOL6ymr5uyl1+c3WECWbgNWHJP8EmiZSVy39LQmoUz5UVYpCVxvK3/U/BZMlWdroFihu5Cm4opyDowL3R8uec8Cm5uWwUnnQiYM/CdUZ3JhFGO5bWK5MmbZEPOT4Q1RKnhNmOSCNBH9U/53yN5NOCoJYWFY9dp4M17FxXXVMEhrjxpu80kxd6pv22MluUZuGlZBf1Wv49fE37rXiD1vEw7/Y/xaB/hPfClTD/MGYb0kgDGZcYVBbxuYzu9W5oiU2cdPek=;TZVa1Szz0B6GKUd6Os72JA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mank
 cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://assets.bizclikmedia.net/1200/d0d86a8689971e7a4803707450b2c8c4:e745e31c7b801419fe5a19cb4e5e4e22/nima.jpeg.jpg"
         width: 1200
         height: 632
+        isCached: true
+  - title: "How AI and Machine Learning Will Transform Your Legal Department"
+    excerpt: "With 80% of executives believing that automation can be applied to any business decision, AI and ML tools are currently the most popular area where business IT departments will invest in 2023."
+    publishedDateTime: 2023-05-25T15:18:00Z
+    webUrl: "https://www.law.com/corpcounsel/2023/05/25/how-ai-and-machine-learning-will-transform-your-legal-department/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 54
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/428/2023/05/Artificial-Intelligence_2-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
   - title: "Dubai announces AI plan to slash traffic jams"
     excerpt: "As such, it ensures that AI models do not make decisions incompatible with the AI principles and ethics set by the Dubai Digital Authority. RTA has trained several Emiratis in leadership, supervisory and technical roles to empower them to analyse data and ..."

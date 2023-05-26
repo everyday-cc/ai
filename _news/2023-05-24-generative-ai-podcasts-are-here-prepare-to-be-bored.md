@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/generative-ai-podcasts-boring/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-ai-podcasts-boring/amp"
 type: article
 quality: 89
-heat: 131
+heat: 129
 published: true
 
 provider:
