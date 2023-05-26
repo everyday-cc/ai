@@ -69,6 +69,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "AI and Human Autonomy"
+    excerpt: "Among the 2,500 years’ old moral philosophies, the morality of artificial intelligence (AI) broadly falls into the area of machine morality. Within this,"
+    publishedDateTime: 2023-05-26T05:54:00Z
+    webUrl: "https://www.counterpunch.org/2023/05/26/284042/"
+    type: article
+    provider:
+      name: CounterPunch
+      domain: counterpunch.org
+    quality: 39
+    images:
+      - url: "https://www.counterpunch.org/wp-content/uploads/2023/05/word-image-284042-1.jpeg"
+        width: 2048
+        height: 2048
+        isCached: true
 
 secured: "sun27bBbEzwEqoMsflwIetjZVX+ol4VWAU4UYZNbb0fp64JR0037/cImIdiduKkNKknePUI5Z6zSKQHYimaZNDkhjAK3+7uaA908fmi+RM/Tp6wYK09H8pP+AiBV3kRDQkO1gcGXRK1VDPIj9uG/Cu4bb9T5lpsg+fZIyKcfE8MWnSe4Udyrphd8Vh/BNSb0Qx/ELMMmeRbFsVCDzzwGgECaa2mlD4NIcEf6Umf0Mo3VAxqRVvLevcJNbfL+/IHPoFTvSao9vx5dRv/Ks+v8U64z0rTrLsKhhl25VIeUoQrXGUPucJlfBSjlzNlP8EWqnXdXGpIGtJL0TzU83XKiLjWVkJt6X5Eab4QQtXahR3E=;UXlmFIR/bYMjX0jgpgGATA=="
 ---

@@ -24,37 +24,37 @@ images:
     isCached: true
 
 related:
-  - title: "Google's AI Search Could Mean Radical Changes for Your Internet Experience"
-    excerpt: "It's powered by a large language model ... it's uncertain if SGE will translate to increased or higher quality traffic for sites. Microsoft didn't answer any questions regarding traffic to sources when using AI search. Google said it doesn't have plans ..."
-    publishedDateTime: 2023-05-21T14:38:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/googles-ai-search-could-mean-radical-changes-for-your-internet-experience/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/googles-ai-search-could-mean-radical-changes-for-your-internet-experience/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-ai-search-could-mean-radical-changes-for-your-internet-experience/"
+  - title: "Bill Gates says an under-the-radar startup could be the biggest winner in the AI. Check out its free app, and you'll see why."
+    excerpt: "The Microsoft cofounder is betting that whichever company creates the most powerful personal agent will disrupt Amazon, Google Search, and more."
+    publishedDateTime: 2023-05-24T15:51:00Z
+    webUrl: "https://www.businessinsider.com/bill-gates-highlights-inflection-as-potential-ai-winner-2023-5"
+    ampWebUrl: "https://www.businessinsider.com/bill-gates-highlights-inflection-as-potential-ai-winner-2023-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bill-gates-highlights-inflection-as-potential-ai-winner-2023-5?amp"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
     images:
-      - url: "https://www.cnet.com/a/img/resize/4a99da63082828a1594b0c0ba3f4b7c3f9287d6d/hub/2023/05/11/65526df6-f863-45fa-95a0-4d05465a799e/google-io-2023-051023-66.jpg?auto=webp&fit=crop&height=630&width=1200"
+      - url: "https://i.insider.com/63dd01090a08ae0018a69f2b?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Google to experiment with ads that appear in its AI chatbot in Search"
-    excerpt: "Google detailed its plans for running Search and Shopping ads inside its conversational AI experience in Search, via the recently announced Search Generative Experience (SGE) in the U.S."
-    publishedDateTime: 2023-05-24T02:58:00Z
-    webUrl: "https://techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/"
-    ampWebUrl: "https://techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/amp/"
+  - title: "Bill Gates says the best AI agent will replace search and shopping websites"
+    excerpt: "Speaking at AI Forward 2023, an event in San Francisco hosted by Goldman Sachs Group Inc and SV Angel, Gates said it would disappoint him if Microsoft were not in the running, though there was a 50% chance the top player to emerge will be a startup."
+    publishedDateTime: 2023-05-23T00:13:00Z
+    webUrl: "https://www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites"
+    ampWebUrl: "https://www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites.amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 55
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/Screenshot-2023-05-23-at-12.41.47-PM.jpg?resize=1200,676"
-        width: 1200
-        height: 676
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/709c3d7f-faa0-45f0-a558-1dcc847fa6c5/ad4f37e6-cde5-4060-b3cf-7af0b25dedfb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "Y8FRTIrKzH48enEobSbFPZalCWIeM5L+Xy8xdJZb/7o8A8zvE8wPHt/FP/VghMbDsx6HIT7+SecJHLGZjtl5G5nI5IOxFqjfLgh9zcXPHiHPYu4cD3fOeReZKNseN26TosQU5UZRisO0gpRZmYpOMAsHBnwLSrWAHLXNyKYKALnxSL6CJ48suMXeXCtfF7syoskJiWlW8Qff1w2ip2uhotbat7lOv0rJm8pu90g+O6rd18+6qR+s3vtJ059zN2DhzfrnjajMxKK33btlDIsxoHDtNzmTIMiGO9qcAilF8K9bXZRy+in6pZQVM9gFbOqnXkeCt5/dRjJZG4HYHo7almgVhaPyXb/RYyfmKZq6+WQ=;mOPCii8wZudeeorFCorL6g=="

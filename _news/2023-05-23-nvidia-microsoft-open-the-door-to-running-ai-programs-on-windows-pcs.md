@@ -524,6 +524,20 @@ related:
         width: 2000
         height: 1334
         isCached: true
+  - title: "Microsoft Build 2023: Microsoft Fabric and oodles of Azure AI integrations announced"
+    excerpt: "Microsoft has unveiled a raft of new products “built for the era of AI” at its annual developer Build conference earlier this week. Microsoft Fabric, which is now in preview, was among the key announcements from the conference."
+    publishedDateTime: 2023-05-26T07:46:00Z
+    webUrl: "https://www.techcentral.ie/microsoft-build-2023-microsoft-fabric-and-oodles-of-azure-ai-integrations-announced/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 62
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2023/05/MIcrosoft_Office_23.jpg"
+        width: 620
+        height: 350
+        isCached: true
   - title: "Microsoft Chief Calls for Humans to Rule AI, Safeguard Critical Infrastructure"
     excerpt: "In short, we must always ensure that AI remains under human control,\" he wrote ... Last week, Sam Altman, CEO of OpenAI, the startup behind ChatGPT, told a Senate panel in his first appearance before Congress that use of artificial intelligence to ..."
     publishedDateTime: 2023-05-25T13:21:00Z

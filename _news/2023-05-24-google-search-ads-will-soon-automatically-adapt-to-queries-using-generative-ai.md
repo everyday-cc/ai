@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Google starts opening up access to its new generative AI capabilities in Search"
-    excerpt: "Google announced today that it's starting to open up access to new generative AI capabilities in Search after teasing them at I/O."
-    publishedDateTime: 2023-05-25T20:52:00Z
-    webUrl: "https://techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/"
-    ampWebUrl: "https://techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/google-search-labs-open.png?resize=1200,796"
-        width: 1200
-        height: 796
-        isCached: true
   - title: "PaLM2 by Google for generative AI is new tool from creativity and innovation"
     excerpt: "PaLM2 is a new large language model (LLM) from Google AI. It is trained on a massive dataset of text and code, and can generate text, translate languages, write different kinds of creative content,"
     publishedDateTime: 2023-05-22T09:39:00Z
@@ -54,65 +38,28 @@ related:
         width: 414
         height: 364
         isCached: true
-  - title: "Meta starting to built its own AI chips"
-    excerpt: "Meta Training and Inference Accelerator can't play Crystalis yetMeta is building its first custom chip specifically for running AI models.  CEO Mark Zuckerberg recently said the company sees \"an opportunity to introduce AI agents to billions of people in ways that will be useful"
-    publishedDateTime: 2023-05-22T08:50:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56933-meta-starting-to-built-its-own-ai-chips"
+  - title: "Artificial intelligence innovation: Leading companies in road slope estimation for the automotive industry"
+    excerpt: "Porsche Automobil is a key player in the road slope estimation innovation area. The company’s road slope estimation technology uses GPS and standard vehicle sensors for estimation of road slope. Hyundai, Kia, Toyota and Nissan are some of the other key players."
+    publishedDateTime: 2023-05-22T09:56:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-road-slope-estimation-automotive/"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
+      name: Just Auto
+      domain: just-auto.com
+    quality: 21
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/01d655324d8449f7185ac6f82d5472e9_L.jpg"
-        width: 620
-        height: 465
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/05/Artificial-intelligence_Road-slope-estimation.jpg"
+        width: 1440
+        height: 810
         isCached: true
-  - title: "Elasticsearch Relevance Engine brings new vectors to generative AI"
-    excerpt: "The Elasticsearch Relevance Engine (ESRE) integrates AI and vector search to improve search relevance and support generative AI initiatives."
+  - title: "Red Hat gives Ansible a generative AI front end and adds stream processing features"
+    excerpt: "Ansible Lightspeed with IBM Watson Code Assistant keys off the industry’s current fascination with generative AI sparked by the success of OpenAI LP’s ChatGPT large language model. These models enable seemingly humanlike responses to queries,"
     publishedDateTime: 2023-05-23T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/elasticsearch-relevance-engine-brings-new-vectors-to-generative-ai/"
+    webUrl: "https://siliconangle.com/2023/05/23/red-hat-gives-ansible-generative-ai-front-end-adds-stream-processing-features/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "Google is starting to roll out its AI search to properly take on Bing"
-    excerpt: "Google has announced that it is starting to roll out its generative AI technology to search, properly taking on Bing."
-    publishedDateTime: 2023-05-26T00:47:00Z
-    webUrl: "https://bgr.com/tech/google-is-starting-to-roll-out-its-ai-search-to-properly-take-on-bing/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/05/Google-Search-AI.jpg?quality=82&strip=all"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Pega Announces Pega GenAI to Infuse Generative AI Capabilities in Pega Infinity '23"
-    excerpt: "(NASDAQ: PEGA), the low-code platform provider empowering the world's leading enterprises to Build for Change®, today announced Pega GenAI ™ – a set of 20 new generative AI-powered boosters to be integrated across Pega Infinity ™ '23,"
-    publishedDateTime: 2023-05-23T17:55:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/23/9819294.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/2082623/Pega_GenAI.jpg"
-        width: 400
-        height: 290
-        isCached: true
-  - title: "Red Hat OpenShift AI Accelerates Generative AI Adoption Across the Hybrid Cloud"
-    excerpt: "Red Hat, Inc. today announced new capabilities for Red Hat OpenShift AI. Building and expanding upon the proven capabilities of"
-    publishedDateTime: 2023-05-23T19:01:00Z
-    webUrl: "https://www.datanami.com/this-just-in/red-hat-openshift-ai-accelerates-generative-ai-adoption-across-the-hybrid-cloud/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 15
 
 secured: "j3mSa9FFUzijzP4XiLpWinqRC+CIoekxpGgIzu55SbFj1prz6D5ikxMpPa/5myb2vrChOxd4AOOmFl2caY2JhLUwocIdM/0aUzyyLZ8s1yM2kSA9bICFX5bb1Pwi+TMdNM2DXOPJjEsfrFwRWKVDNRGgXvuUS/G4yisJ/Mf6jTHcD+67PFy2ncu4YnYERsw7MYUfdAKPtYcFfp8SzRBkjlfQfA0bikXJ0SLV4KUd0lrXm7CmmzX0p4c57m2DtB6bLZjzxErs0jKmWCEZ9gFFhuF67quSIphQqybDUNuMw/iR3nkZ9+MPqk6V51xFDZ6WlRQdu1xaf58ogRHtqEMkbj6MFD3k87Y1vglkAE080BeihOw3vRe3jYFTNk0Z369gLKRztwSYc/bQwMH1zdLimmwHdo4wkqhd5lzUmL+iKkTdWRKSkbpRpFn4awg5N8QQApgBEl9tzAQ1vj1LkSJugXnW5I4yyLZNZOCVtbBeYewmIg+RIoevWH5lke03cKH1h1fRzIEd+0I3ZXz4jvbpMw==;c4Kr1W611Q82qxxHcUbyxA=="

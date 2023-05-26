@@ -25,56 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Google starts opening up access to its new generative AI capabilities in Search"
-    excerpt: "Google announced today that it's starting to open up access to new generative AI capabilities in Search after teasing them at I/O."
-    publishedDateTime: 2023-05-25T20:52:00Z
-    webUrl: "https://techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/"
-    ampWebUrl: "https://techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/amp/"
+  - title: "Opera takes on Edge by adding its own browser AI"
+    excerpt: "Opera’s browser AI is currently available for both desktop and mobile. However, if you want to try it out, you’ll need to download the developer version of Opera One for deskt"
+    publishedDateTime: 2023-05-24T15:26:00Z
+    webUrl: "https://www.androidauthority.com/opera-browser-ai-aria-3328726/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/google-search-labs-open.png?resize=1200,796"
-        width: 1200
-        height: 796
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/05/Aria-Cover-Image.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "PaLM2 by Google for generative AI is new tool from creativity and innovation"
-    excerpt: "PaLM2 is a new large language model (LLM) from Google AI. It is trained on a massive dataset of text and code, and can generate text, translate languages, write different kinds of creative content,"
-    publishedDateTime: 2023-05-22T09:39:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/palm2-by-google-for-generative-ai-is-new-tool-from-creativity-and-innovation/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 56
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2017/01/Untitled-6.jpg"
-        width: 414
-        height: 364
-        isCached: true
-  - title: "Elasticsearch Relevance Engine brings new vectors to generative AI"
-    excerpt: "The Elasticsearch Relevance Engine (ESRE) integrates AI and vector search to improve search relevance and support generative AI initiatives."
-    publishedDateTime: 2023-05-23T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/elasticsearch-relevance-engine-brings-new-vectors-to-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "Google Search ads will soon automatically adapt to queries using generative AI"
-    excerpt: "Google is going to start using generative AI to boost Search ads relevance based on the context of a query, the company announced today."
-    publishedDateTime: 2023-05-23T18:43:00Z
-    webUrl: "https://techcrunch.com/2023/05/23/google-search-ads-automatically-adapt-queries-using-generative-ai/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 43
   - title: "Google is starting to roll out its AI search to properly take on Bing"
     excerpt: "Google has announced that it is starting to roll out its generative AI technology to search, properly taking on Bing."
     publishedDateTime: 2023-05-26T00:47:00Z
@@ -89,29 +53,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Pega Announces Pega GenAI to Infuse Generative AI Capabilities in Pega Infinity '23"
-    excerpt: "(NASDAQ: PEGA), the low-code platform provider empowering the world's leading enterprises to Build for Change®, today announced Pega GenAI ™ – a set of 20 new generative AI-powered boosters to be integrated across Pega Infinity ™ '23,"
-    publishedDateTime: 2023-05-23T17:55:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/23/9819294.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/2082623/Pega_GenAI.jpg"
-        width: 400
-        height: 290
-        isCached: true
-  - title: "Red Hat OpenShift AI Accelerates Generative AI Adoption Across the Hybrid Cloud"
-    excerpt: "Red Hat, Inc. today announced new capabilities for Red Hat OpenShift AI. Building and expanding upon the proven capabilities of"
-    publishedDateTime: 2023-05-23T19:01:00Z
-    webUrl: "https://www.datanami.com/this-just-in/red-hat-openshift-ai-accelerates-generative-ai-adoption-across-the-hybrid-cloud/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 15
 
 secured: "RfLBgsdj2ayPud4qgepFCRtrguQPjYZl6sFCLN4T5HKGjJUtiQ3ImGsMy/GamEW7BasJAmNRgPByQ19laYgCNqUh5gfdNpXMD+u4OjE7l4JX/h6zQWVJWYh4mU2Sj3/zeZdW94yfXeuIwDECbIoe7WiJOGQwlqE5Q8fdzPRZL7gtVBRsi+PEKMMBfYeYqxGWF+i9fC30cOrDnIe6XpK0lqmPysTReLr1xC5dXVg7n1LXyDzdCmvl6gZlk5AobfnE+Rde98mH5LdwFCUkRqh7y1pe1dn9cb3U3+ex7IyKDD4zM5uLV4qKaVjn/QsmSxB5t8hi6wrnGi/lZosj9/5l0pzjwN/5RWUcuGJ+53YmcveJLsnnhJuEUocU1Bz2IHjFa6R9mQShCGeE2Nvmhl2c6ZhObRvSiSAZYJ+xnQDfG/8M+Qb6oYOv6B+q/hMuxybDjO7fkQuErsZ0gM4vJbGzmJhusK0cdmoAFoaASsrJ+9X0EdAKifVm04VlCiRGHUHGyMAJghYHtPTlpe7vXPN8lw==;BoNIRpbavwepeJ1LLPSgCg=="
 ---

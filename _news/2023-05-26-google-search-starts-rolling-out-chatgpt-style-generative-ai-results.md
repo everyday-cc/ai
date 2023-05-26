@@ -104,22 +104,6 @@ related:
         width: 470
         height: 352
         isCached: true
-  - title: "A young billionaire buys Forbes, a startup offers free TVs and ChatGPT goes mobile"
-    excerpt: "In this week's edition of Week in Review, we cover the new ChatGPT mobile app, a startup building humanoid robots and free TVs -- with ads."
-    publishedDateTime: 2023-05-21T13:04:00Z
-    webUrl: "https://techcrunch.com/2023/05/20/a-young-billionaire-buys-forbes-a-startup-offers-free-tvs-and-chatgpt-goes-mobile/"
-    ampWebUrl: "https://techcrunch.com/2023/05/20/a-young-billionaire-buys-forbes-a-startup-offers-free-tvs-and-chatgpt-goes-mobile/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/20/a-young-billionaire-buys-forbes-a-startup-offers-free-tvs-and-chatgpt-goes-mobile/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/09/venture-economic-warfare.jpg?resize=1200,645"
-        width: 1200
-        height: 645
-        isCached: true
   - title: "ChatGPT and Generative AI in Insurance: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "ChatGPT is the most talked-about technology of 2023 and has piqued the interest of insurance industry leaders."
     publishedDateTime: 2023-05-22T17:00:00Z
@@ -197,22 +181,6 @@ related:
       - url: "https://www.reuters.com/resizer/A042xjpYEW1-fhIesQ2ZX_Mdp-M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FP3G4673DZI2BNIST6YDZCKYCY.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "The rise of ChatGPT could jump start the Roaring 20s for stocks and solidify a new bull market"
-    excerpt: "\"We can spend a lot less time obsessing about what the Fed will do next and focus on how technology is boosting productivity,\" Ed Yardeni said."
-    publishedDateTime: 2023-05-21T14:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/stock-market-outlook-chatgpt-roaring-20s-bull-market-ai-yardeni-2023-5"
-    ampWebUrl: "https://markets.businessinsider.com/news/stocks/stock-market-outlook-chatgpt-roaring-20s-bull-market-ai-yardeni-2023-5?amp"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/stock-market-outlook-chatgpt-roaring-20s-bull-market-ai-yardeni-2023-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://i.insider.com/60a55db3f27b4c00194456b4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Meta's ChatGPT rival could make language barriers a thing of the past"
     excerpt: "This move suggests the company is deeply invested in dominating the AI language translation space, but also encourages collaboration in the field. Normally, speech recognition and text-to-speech AI programs need extensive training on a large number of ..."

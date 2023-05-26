@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesbroughel/2023/05/24/the-first-rule
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesbroughel/2023/05/24/the-first-rule-of-regulating-ai-is-to-demonstrate-a-problem-exists/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 117
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230527_CUP001.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Regulating artificial intelligence is a 4D challenge"
+    excerpt: "Computer programmers have broadly embraced generative AI as a productivity-enhancing tool. By contrast, striking Hollywood scriptwriters may be the first of many trades to fear their core skills will be automated. This messy story defies simple solutions. Nations will have to adjust to the societal challenges in their own ways."
+    publishedDateTime: 2023-05-25T12:10:00Z
+    webUrl: "https://www.ft.com/content/57bc42f7-2b44-49e9-9df1-4facddd43e3d"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
         isCached: true
 
 secured: "SZ5BgpWJJnyE7cTq83sSyEQGeO4fppFdsfwMTaWy/ytgFXekf0MHK7vKj/dyt17LHplsFU2U05yqr6flKTEVkvv2ZKHjqL5XIrn9n/MNXI8Efg/08rZLj24sAbdS8EjZlslGY73eQy2w7E8NVq0Jw/L2+WAOBnq9MBt4hqds608e/8QbyZMyUkaD3PwvazP/czTt//3P1Mosfyrjh9vUyDMNSlBB36/uJiobcDdp4q73sxqDBz10xzkMYjyqdJ7cdRT154vqJm/feunonr3VyOskLdwrVvd37FgIV9LuZ5YLHCk3FrOxGbnfw4XM7bLxKwHy5VEkJgHfkH0JQ0J27PN9LROVUXkulcez5m1BvwS6XXDPrh9L8S+fhTj6Qg3yGr9UpataG9Rm3wmldW8ST4OsAer0uQ2yD5Egws5S5xh5w2mfbjR1gZALlEQumTK8Xzd+oHRjEB+rMdcoqVHw+5jo+Ra27g2ytAjDxaCByb4KqJOdHGcWlDss6eV1v7ixMtrplOBTjlnXofSj7seAyg==;Q3TTruk4TqUHPMCUxF8DKQ=="

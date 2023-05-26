@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vanguardngr.com/2023/05/artificial-intelligence-and-mank
 cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2023/05/artificial-intelligence-and-mankind/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230525pd214_files/1_2b.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "AI and Human Autonomy"
+    excerpt: "Among the 2,500 years’ old moral philosophies, the morality of artificial intelligence (AI) broadly falls into the area of machine morality. Within this,"
+    publishedDateTime: 2023-05-26T05:54:00Z
+    webUrl: "https://www.counterpunch.org/2023/05/26/284042/"
+    type: article
+    provider:
+      name: CounterPunch
+      domain: counterpunch.org
+    quality: 39
+    images:
+      - url: "https://www.counterpunch.org/wp-content/uploads/2023/05/word-image-284042-1.jpeg"
+        width: 2048
+        height: 2048
         isCached: true
 
 secured: "f3UhUFYklc5JZqwSgTdeiyw0VeZ97HDzlvfcp2n1/t0FdkXjg+309niqE3zMc/UAwjR/KzwfJ8grx44Wkify+6T86xbSZwtXTYXiPax1lVk8q+csGU7IM7JTsSmOTN9skn4X15cParg9GYZHUMOQ2y20cygbl6v+eDz8exbS9yOZo8Fso/61V0VLpqBvV/9V3HrnLtVqILv3sueJDY9Qg6f3hj1H4uMVoILdcQ3NlHSwJk5LKE8ktZUJ7KtjIlZrUCqcnJCHq++2ccCIfZmqwlShgj0SfVEMaGO1389d6YT1BqUvsOkQOdpE+typtYHdJaW417OZCHwfLGZnbXAm7Lxt3lawTtGvsS/6bxK1tofvEHjVBRGEjzHOKrzZZClsWFmOpBfVjCgLSEu8YIRwtJ4B8Cwyx0q5fUitQWFyi77En78v5JK80SkmS74OdI+iE4+jdM2XOGW3h4jvNfoUHlT77Fr85/Moy2WrLNkd6acagBsY7AZt0jkY/+O7dwcWgDilHdVNh9xd/Kh/1WCGSg==;AIjbpiYD+Y/8+A9m6jbCsg=="

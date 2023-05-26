@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Investing in AI: how to avoid the hype"
+    excerpt: "However, Porter also cautions that \"we are still very early on the use cases for AI.\" Dizzying valuations have made some investors wary of the technology hype cycle. This concept, popularised by consultancy Gartner,"
+    publishedDateTime: 2023-05-26T04:16:00Z
+    webUrl: "https://www.reuters.com/technology/investing-ai-how-avoid-hype-2023-05-26/?ref=biztoc.com"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/FSPUvb7djINBafN665jGm5-QZEM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6TIDCQXE4ZLHTGW3OELMLU5JIU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Delving into the conversation about artificial intelligence: What's next?"
     excerpt: "Many worry about job losses due to this technology, while others anticipate its impact in the future as Congress examines regulations."
     publishedDateTime: 2023-05-23T01:48:00Z
@@ -38,6 +52,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Character.AI: What it is and how to use it"
+    excerpt: "So, how does the site work, and how can you start creating? We've got you covered in this quick guide. Character.AI is a site that uses a neural language model to reads huge amounts of text and respond to prompts using that information. Anyone can create a ..."
+    publishedDateTime: 2023-05-22T19:35:00Z
+    webUrl: "https://mashable.com/article/character-ai-generator-explained"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 47
 
 secured: "urzrkncsdWMiVjPpAFKKocxo3irqWg528+bWy+Zgj/sGNM422KLvmJIFXwOmBMCCvvFMQwr8XYlsGEj+/KuJQ2hW+huSlgWJATwPTPTj+MbzPmY4iq/xb3vcFYRRqt2qDr9jpq0jV8rQ2zgjjgz2PKt0mSKi1LnvkM2UHf/7oagzk10C4124eLU91NckEE3MknYDQlBP1uxX3nWOdGzqBZELWy1jgNKXOS0ERNoYZkcIgb1YcGIgDEltTcV1wUB49DnImK7oZWzSuGokQOe7LQJETf/AHi1lnSfOesc2iTHPHl+6moHrtja7xGHQvPE++huvYUe3bb8tlM0SNxJZ00jjKtEhbPDnGPTqpRJNivHHK3BT1jPXIb77K2rOaSkFfvM+wurKxMF8BLvJQhwcxaLDpE6830NyYFVG8j4XXr7MqYErkaytW4soJZKzhzDuuJDMrswbrifEIR0ZHkDwFsgNHTL+d5whulEzzpUUwd+wZDD6GzOKtmVwE8M3dw76ywfNBGWC1LXJjJFkgBEoYw==;qlFMdnJUjxSpRxLUK/N7hA=="
 ---

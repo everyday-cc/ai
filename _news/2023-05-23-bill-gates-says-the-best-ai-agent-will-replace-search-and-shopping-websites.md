@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Bill Gates Says AI Could Mean the End of Search Engines"
+    excerpt: "Bill Gates Says AI Could Mean , the End of Search Engines. Gates recently spoke at a San Francisco tech event called AI Forward, Insider reports. He said that artificial"
+    publishedDateTime: 2023-05-23T23:30:00Z
+    webUrl: "https://www.sfweekly.com/news/national/bill-gates-says-ai-could-mean-the-end-of-search-engines/video_51a252b5-13bc-547f-97bc-f4d770afa033.html"
+    type: article
+    provider:
+      name: SF Weekly
+      domain: sfweekly.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/sfweekly.com/content/tncms/assets/v3/editorial/5/1a/51a252b5-13bc-547f-97bc-f4d770afa033/646d237db4ae2.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "NUIUdPOa+L8GQ9YMlwvRyMG+58ZX3SPueiX30tG8GVdaod+Mp2lHLCs9qf/fIsSqgbCo6TG5U8T9Rgyq7p0Fo7qIwNUhFv90orjLhkQulZFcEiDzfp7EjEF0qazuM2H+IoIuVGZi30D2X9ZmqPJ/A8LvnY19MVBEIB57shwI/89i23ddU2IAwUOQbiiiM8ZAAujS1xyES/AOHlp89obcehwGT+d2MgJDZ3F+WRJEU9eZWcluIYRxJnfKu0KeyD/gIe8BRUKuEo1Fdvns/GokO5U1f+hGxFDzaKj44A7G3iVk1uBm+g/8YJXN9cZOPkwM9ogw3S9siEUSukbtY+fzaPEqazcY7RdvuX1FLMtKMAk6xrQAEp4oy/Ao2g6saY884HdDregCB9Kwl7v59Kt8bo96TsFvKU29SfNSLveXRDaZUhoagzUGninEDOjFDS67QqNilKflfb5EWi6N32I4Smsm0EDIllTzOzeARX0XzyaZynllwdshZSiDhXjviuq31YdDkt8rhQTQZnCfHy2Fww==;NKmmSdOcNb/K9We5ffk6Dw=="
 ---
