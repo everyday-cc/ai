@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The marriage of embedded finance and AI"
-    excerpt: "Nima Montazeri, CPO of embedded finance solutions platform, Liberis, discusses how embedded finance and AI will revolutionise financial services The hype around artificial intelligence (AI) isn’t going to die down any time soon,"
-    publishedDateTime: 2023-05-21T08:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/the-marriage-of-embedded-finance-and-ai"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 54
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/d0d86a8689971e7a4803707450b2c8c4:e745e31c7b801419fe5a19cb4e5e4e22/nima.jpeg.jpg"
-        width: 1200
-        height: 632
-        isCached: true
   - title: "How AI and Machine Learning Will Transform Your Legal Department"
     excerpt: "With 80% of executives believing that automation can be applied to any business decision, AI and ML tools are currently the most popular area where business IT departments will invest in 2023."
     publishedDateTime: 2023-05-25T15:18:00Z
@@ -54,6 +40,20 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/428/2023/05/Artificial-Intelligence_2-767x633.jpg"
         width: 767
         height: 633
+        isCached: true
+  - title: "AI And Robots Enter The Toolbox Of The Construction Industry"
+    excerpt: "The construction and development sector is embracing artificial intelligence and robotics to combat labor shortages and attract young talent."
+    publishedDateTime: 2023-05-26T00:46:00Z
+    webUrl: "https://www.bisnow.com/south-florida/news/construction-development/ai-robots-enter-the-toolbox-of-the-construction-industry-119127"
+    type: article
+    provider:
+      name: Bisnow
+      domain: bisnow.com
+    quality: 54
+    images:
+      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2023%2F05%2F646fc0a3df998-asi-cymba-brandon-spirk-jay-fayette-russ-beck-brad-meltzer-daniell-odess.jpeg&width=1200&sign=RBzGQ2khF0_DQBwgY3jhPTdbwKwCxZWm6sXam5S2PgE"
+        width: 1200
+        height: 819
         isCached: true
   - title: "Dubai announces AI plan to slash traffic jams"
     excerpt: "As such, it ensures that AI models do not make decisions incompatible with the AI principles and ethics set by the Dubai Digital Authority. RTA has trained several Emiratis in leadership, supervisory and technical roles to empower them to analyse data and ..."

@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Microsoft Launches Azure AI Studio For Developers To Create Their Own AI 'Copilots'"
-excerpt: "Microsoft has launched Azure AI Studio, a new capability within the Azure OpenAI Service that allows customers to combin"
-publishedDateTime: 2023-05-24T06:42:00Z
-originalUrl: "https://menafn.com/1106303655/Microsoft-Launches-Azure-AI-Studio-For-Developers-To-Create-Their-Own-AI-Copilots"
-webUrl: "https://menafn.com/1106303655/Microsoft-Launches-Azure-AI-Studio-For-Developers-To-Create-Their-Own-AI-Copilots"
+title: "Microsoft launches Azure AI Studio for developers to create their own AI 'copilots'"
+excerpt: "Microsoft has launched Azure AI Studio, a new capability within the Azure OpenAI Service that allows customers to combine OpenAI chatbots with their"
+publishedDateTime: 2023-05-24T06:06:00Z
+originalUrl: "https://www.prokerala.com/news/articles/a1421972.html"
+webUrl: "https://www.prokerala.com/news/articles/a1421972.html"
+ampWebUrl: "https://www.prokerala.com/news/articles/a1421972.html?amp=1"
+cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1421972.html?amp=1"
 type: article
-quality: 63
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Prokerala
+  domain: prokerala.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2023-05/24/I_0e9f3image_story.jpg"
-    width: 904
-    height: 372
+  - url: "https://www.prokerala.com/news/photos/imgs/1200/azure-ai-studio-photo-twitter-1592191.jpg"
+    width: 1200
+    height: 493
     isCached: true
 
 related:
@@ -585,6 +587,31 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 56
+  - title: "Microsoft urges lawmakers, companies to ‘step up’ with AI guardrails"
+    excerpt: "Microsoft President Brad Smith has called for governments to “move faster” on regulating artificial intelligence (AI) but said that tech companies need to step up to the plate too."
+    publishedDateTime: 2023-05-26T01:48:00Z
+    webUrl: "https://cointelegraph.com/news/microsoft-urges-ai-artificial-intelligence-regulation-guardrails"
+    ampWebUrl: "https://cointelegraph.com/news/microsoft-urges-ai-artificial-intelligence-regulation-guardrails/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/microsoft-urges-ai-artificial-intelligence-regulation-guardrails/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 56
+  - title: "Qualcomm, Microsoft Partner to Scale On-Device AI at Build"
+    excerpt: "During Microsoft Build 2023, Qualcomm Technologies, Inc. displayed its latest innovations in on-device AI, including showing generative AI running on Snapdragon® compute platforms, as well as new pathways for developers building applications for Windows 11 PCs powered by Snapdragon."
+    publishedDateTime: 2023-05-26T01:47:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/32202-qualcomm-microsoft-partner-to-scale-on-device-ai-at-build"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 56
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/3e86f7e036a8aebbe5b8d2829f5091ef.jpg?t=20230526_013346"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Microsoft Build 2023 brings expansions to the AI ecosystem, new plugin capabilities with Microsoft’s Copilot ecosystem, and more"
     excerpt: "Microsoft’s Copilot ecosystem has been expanded to include Copilot in Power BI and Copilot in Power Pages in preview; Copilot in Microsoft Fabric, which is set to become available in preview soon; and Windows Copilot,"
     publishedDateTime: 2023-05-23T20:22:00Z
@@ -1113,6 +1140,6 @@ related:
       domain: finanznachrichten.de
     quality: 15
 
-secured: "OJUZkBJ76Kcr/degTyZcVEMZB2DR+eV2Ch2dW7iMWOio2tzel/xCPnOjACxWXaaUfKdWeI8h+c/2f9kFuZp6pxTXVZaqbVrKjpWqELina8aviWvD9HmKMJOmwVN4mINyOoxwMqqDgWr5S9Yqw762V4kNttGE62gg8PVftDvEoj/GgiN8Nv5ZCV0z4a/VEFFA1URryE4E6tGzrGZseVfJeroh38v0CPT4JHUcAUiMU3WR4x3JitfqJyyZha77ISD9LbImbrez7DdAl806Y8iEptlyyS0scWx87GJgCwbSCEvXV+68OrFWtaiNBpKotrwpzXq2a7LyjKiShTOUJ2K3Kp01ZQWdykx11ZGQic87+i0X0Ef+gkOL/fmq43kGA/Qr6e4buz5kfYfkB8mZC5adPdDRTnWRuxBj2ZXUh8OdVYsqlF7d2zNKdZVVmyd81YO89p2KJYAyLtYtfSZPpWEpjPyC0hOah02pfDYpNDl3dWRJCbbAsiWbGHBUesdL2dVKKUS7dd0kkzQAOdQSkN4yqw==;Rj7Wbrj56/7jP1O6SROGhg=="
+secured: "JuhYIfMEATiIbS2XquPrkHoxKp2GAqFoq0tOxvfnS33btJ8LVhK8MgEeZLptM7E0MIZBz4lxgvl0diKxpHBM5Sp1JYLggtoGdWp14+CX7QVMldpqF1hgbKrr2Y2J0r9DBYQVRvwkNtcrI2rZ1EV1y+c70qU9cJzEzkeKnmq32+OkqsOEfCRAvwn+C/MlYf4iF62iUvQZGsc87eHKd6SOIOGnKGmIzpLYoxs3vHQPT0uIDJO0N/r8VJp+qC/UzzS4ZkCr5Cjym6vqtyqzeKqKyegH5jSzAcdWQAGC3mrj7zAylnFvjwHhALtjngzw2m8xvszYVsoswqYZHgM0DQ5i0F+n3pMzrlisYD19rIYtQSI=;9rHa4mQjfohQy/n9Cfj23Q=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2023-04-19-is-artificial-intelligence-your-friend.md",
+      "title": "Is artificial intelligence your friend?",
+      "excerpt": "President Joe Biden’s administration wants stronger measures to test the safety of artificial intelligence tools such as ChatGPT before they are publicly released, though it hasn’t decided if the government will have a role in doing the vetting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thegazette.com/guest-columnists/is-artificial-intelligence-your-friend/",
+      "originalUrl": "https://www.thegazette.com/guest-columnists/is-artificial-intelligence-your-friend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imengine.public.prod.cdr.navigacloud.com/?uuid=42c3d89e-0794-53ca-90e1-a8dad1ca8e09&type=preview&q=75&width=1200&height=800",
+          "width": 1199,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thegazette.com/guest-columnists/is-artificial-intelligence-your-friend/?amp=1",
+      "cdnAmpWebUrl": "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/guest-columnists/is-artificial-intelligence-your-friend/?amp=1",
+      "publishedDateTime": "2023-04-18T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gazette",
+        "domain": "thegazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-ibm-takes-a-pragmatic-approach-to-enterprise-ai.md",
       "title": "IBM takes a pragmatic approach to enterprise AI",
       "excerpt": "IBM’s 12-year old Watson includes an Embeddable AI portfolio and is a core part of the IBM AI strategy. According to a recent NASDAQ report, “IBM’s Watson has evolved and is deployed ...",
@@ -1066,57 +1109,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-this-startup-that-automates-sme-invoices-with-ai-just-raised-8-million-check-out-the-10-slide-pitch-deck-triver-used-to-raise-the-fresh-funds.md",
-      "title": "This startup that automates SME invoices with AI just raised $8 million. Check out the 10-slide pitch deck Triver used to raise the fresh funds.",
-      "excerpt": "Deliveroo investor Stride.vc were among the backers of the funding round as London-based Triver emerged from stealth mode.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/triver-london-fintech-startup-raises-8-million-from-deliveroo-backer-2023-4",
-      "originalUrl": "https://www.businessinsider.com/triver-london-fintech-startup-raises-8-million-from-deliveroo-backer-2023-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/643d4c8a56f0dc00198960d5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T02:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/marvell-technology-shares-pop-
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/marvell-technology-shares-pop-14-on-ai-lifts-chip-makers-74001f2e"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Shares of Marvell jump sky-high as it forecasts AI chip revenue to double"
+    excerpt: "Marvell Technology Inc. topped expectations in its fiscal first-quarter financial results today and said it’s expecting revenue from artificial intelligence to at least double this year, sending its stock sky-high in extended trading."
+    publishedDateTime: 2023-05-26T01:19:00Z
+    webUrl: "https://siliconangle.com/2023/05/25/shares-marvell-jump-sky-high-forecasts-ai-chip-revenue-double/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 53
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/murphy-mattmarvell_1200xx7418-4180-0-0.jpg"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "mVXijgI1h+Fs0Pm008fAGS0ettS28g3S1oXk7T5dX/GAQMKsJN/AWVsZ+it1E1HYGtaOP4k6vXyiQ14TpL+lUubPAqAifskxrT1896fd8bnU7zoIEbOC3J5y2hGgFCSIMUXnU+57N0fmDgeYvFQKwWQkH/hggQnr+4GsKqlIAKlTJazKv3nmLvzFkEG68nD54he65+0z80IjkDkgQLd9FUG1cVTthYaCUWHtITHaEeu4RRoz+M+vp97HnU9icUeoowj6aItEsoDRazvYRVraBhsOW4xoNcZZLsevyqN5U8tTsWvgLt6An8c7emaIZXzmJLHX5nDa3q7p22Y4nZCtUjC6dCFOkvq/XJp005vToFk=;eusQYZAfYPc9QC7eijhNHg=="
 ---

@@ -269,6 +269,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 5
+  - title: "Invoice Factoring Market Size Worth $6,004.70 Billion By 2032 - Rising Fintech Solution Adoption Rate Among Smes"
+    excerpt: "Their economies are fast transitioning from agricultural to manufacturing and export-oriented economies, which has promoted the expansion of invoice factoring in the area. The Asia Pacific region is also home to a significant number of rising economies,"
+    publishedDateTime: 2023-05-26T01:12:00Z
+    webUrl: "https://menafn.com/1106319617/Invoice-Factoring-Market-Size-Worth-600470-Billion-By-2032-Rising-Fintech-Solution-Adoption-Rate-Among-Smes"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 3
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?575688"
+        width: 375
+        height: 249
+        isCached: true
 
 secured: "TG8R1f6bM0lxvQTpmn3l8AgAZxfNpQdtAh8SLKZ3j/7XMSJwlbi0Jh2X7Hwp4br4tKn2ZATadveJaHUbMumZ06rOm5RekUDguf75M8cV5ECvB5rNzr3uKRNceLSuaKtEhvM/qbD70r/2WQtnJuao4itYwAUkoNLeOIr4ZLzx6izKYxflYuGhHHhp34MLKcbRO297LKGxBXlKtVwJdRzkqHGOoPtXnvthlO2+eEGiWvwqENV+ECTazpzcmxU/H7hhRe0g8CL550y/9sdh8hzLejkYRnVnqsAL957Ig+vUq5WGijrQKfPo5KFnCBnSmYav3g+OHdoOXq5x3BsbRaV1swVV9hw2PG5DVvh+QXDntYE=;7wQY1MQtxxOdaxrHhwcg0A=="
 ---

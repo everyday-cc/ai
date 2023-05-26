@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/23/hear-how-sensi-ai-is-building-ai-f
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/hear-how-sensi-ai-is-building-ai-for-remote-patient-monitoring/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "How Artificial Intelligence Is Used in Manufacturing"
+    excerpt: "neural networks; and robotics, which may be the most commonly used AI application in manufacturing. Altogether, artificial intelligence capabilities allow manufacturers to redeploy human labor to jobs that machines can't yet do and to make production more ..."
+    publishedDateTime: 2023-05-22T12:23:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-manufacturing/?referring_guid=0383f25b-3353-4908-bd7e-eed6bf8bc118"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://m.foolcdn.com/media/dubs/images/ai-in-manufacturing-infographic.width-600.png"
+        width: 600
+        height: 300
+        isCached: true
 
 secured: "1QoETqIjHwYYgKh6dBnwRoCJMq01jGCrUuoWAcExnCfow/WkwT6lmyTFYrFFyUBl55u1RO4r0Z184aLn8wDORVVVW41u4x1+XfeugW0tlLKUpdX+OJLbqLbfD3Ww8Q5LFGXl5/WG4LanJuuKkYhWw4U0alxZaOBQ6H4LqtANTvk5QFZ0LHy1ZnDLZiz0IWB64xx4BUPd3n7vbZdwY4SmnoXbvNaQM567p/uZ1vjEHbK0GxUoESW4x0W3ccBmjhIc++G67Ku0lYM6TRPn7mqx/xeqbZ2nt0IDWxGro8qzxjjGL9DI13WPKYhgPY48ZKewmxNvXd35kRSgcDSK+HhEEPB6VlF7B1xlcrsr07Amruv9W/36/r3jHc0lLo7xaW0wMY7MUY8rUpBsanmt2Z9ss69w1pxZsJzOatUFF0Gkdy8/Zr+qJUbIrStKtDa37eBkoiW3MMCEn00tr+bVkbPLNN34tglU6B1brTbHvbqr7PM7CCg3zVmStCqycSRIwCqz5FJNA5f+IX6e5tJIOzr26w==;E6LRLvt80lZu8ZqecpmSgA=="
 ---

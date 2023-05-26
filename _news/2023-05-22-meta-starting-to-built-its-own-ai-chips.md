@@ -39,6 +39,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Google is starting to roll out its AI search to properly take on Bing"
+    excerpt: "Google has announced that it is starting to roll out its generative AI technology to search, properly taking on Bing."
+    publishedDateTime: 2023-05-26T00:47:00Z
+    webUrl: "https://bgr.com/tech/google-is-starting-to-roll-out-its-ai-search-to-properly-take-on-bing/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/05/Google-Search-AI.jpg?quality=82&strip=all"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "RfLBgsdj2ayPud4qgepFCRtrguQPjYZl6sFCLN4T5HKGjJUtiQ3ImGsMy/GamEW7BasJAmNRgPByQ19laYgCNqUh5gfdNpXMD+u4OjE7l4JX/h6zQWVJWYh4mU2Sj3/zeZdW94yfXeuIwDECbIoe7WiJOGQwlqE5Q8fdzPRZL7gtVBRsi+PEKMMBfYeYqxGWF+i9fC30cOrDnIe6XpK0lqmPysTReLr1xC5dXVg7n1LXyDzdCmvl6gZlk5AobfnE+Rde98mH5LdwFCUkRqh7y1pe1dn9cb3U3+ex7IyKDD4zM5uLV4qKaVjn/QsmSxB5t8hi6wrnGi/lZosj9/5l0pzjwN/5RWUcuGJ+53YmcveJLsnnhJuEUocU1Bz2IHjFa6R9mQShCGeE2Nvmhl2c6ZhObRvSiSAZYJ+xnQDfG/8M+Qb6oYOv6B+q/hMuxybDjO7fkQuErsZ0gM4vJbGzmJhusK0cdmoAFoaASsrJ+9X0EdAKifVm04VlCiRGHUHGyMAJghYHtPTlpe7vXPN8lw==;BoNIRpbavwepeJ1LLPSgCg=="
 ---

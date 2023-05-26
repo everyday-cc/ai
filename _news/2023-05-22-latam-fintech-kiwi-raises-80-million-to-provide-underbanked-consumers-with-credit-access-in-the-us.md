@@ -261,6 +261,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 5
+  - title: "Invoice Factoring Market Size Worth $6,004.70 Billion By 2032 - Rising Fintech Solution Adoption Rate Among Smes"
+    excerpt: "Their economies are fast transitioning from agricultural to manufacturing and export-oriented economies, which has promoted the expansion of invoice factoring in the area. The Asia Pacific region is also home to a significant number of rising economies,"
+    publishedDateTime: 2023-05-26T01:12:00Z
+    webUrl: "https://menafn.com/1106319617/Invoice-Factoring-Market-Size-Worth-600470-Billion-By-2032-Rising-Fintech-Solution-Adoption-Rate-Among-Smes"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 3
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?575688"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Goldpac pushing boundaries on consumer fintech at Seamless Middle East 2023"
     excerpt: "Goldpac Fintech exhibiting its latest technologies at Seamless Middle East 2023 (booth A20). Six displays and demonstrations address current payment card issuance needs, from premium card printing finishes and effects,"
     publishedDateTime: 2023-05-23T12:12:00Z

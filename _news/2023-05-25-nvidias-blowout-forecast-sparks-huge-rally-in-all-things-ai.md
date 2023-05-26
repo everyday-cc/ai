@@ -21,21 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia is poised to join $1 trillion club thanks to AI-driven surge"
-    excerpt: "Thanks to a seemingly insatiable demand for AI chips, Nvidia saw its stock soar nearly 30% after yesterday's financial results."
-    publishedDateTime: 2023-05-25T14:56:00Z
-    webUrl: "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/"
-    ampWebUrl: "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/amp/"
+  - title: "Nvidia's stellar results show that there's an AI goldrush coming, chip analyst says"
+    excerpt: "Nvidia said it expected its revenue to grow significantly as it upped its production of chips to meet soaring demand for AI."
+    publishedDateTime: 2023-05-25T10:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-ai-chatgpt-stock-market-news-semiconductor-chips-artificial-intelligence-2023-5"
+    ampWebUrl: "https://markets.businessinsider.com/news/stocks/nvidia-ai-chatgpt-stock-market-news-semiconductor-chips-artificial-intelligence-2023-5?amp"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/nvidia-ai-chatgpt-stock-market-news-semiconductor-chips-artificial-intelligence-2023-5?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-77.png?w=1200&strip=all"
-        width: 1200
-        height: 750
+      - url: "https://i.insider.com/646f24bb63b4c50018c39dc2?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
   - title: "Nvidia’s stock has more than doubled this year. Can earnings justify the AI hype?"
     excerpt: "Read: Nvidia CEO expects AI revenue to grow from ‘tiny ... voiced some concerns about Nvidia’s ability to build enough product and demand for gaming chips but still said he’s looking for a beat-and-raise quarter. “While supply is likely to limit ..."
@@ -53,20 +53,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Nvidia Poised for Record Sales as AI Demand Kicks In"
-    excerpt: "The graphics-chip giant forecast a strong revenue bounce back for the current quarter, driven by growing appetite for generative AI technology."
-    publishedDateTime: 2023-05-24T22:28:00Z
-    webUrl: "https://www.wsj.com/articles/nvidia-nvda-q1-earnings-report-2024-132e3559?siteid=yhoof2&yptr=yahoo"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-783520/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Nvidia shares soar nearly 30% as sales forecast jumps and AI booms"
     excerpt: "Reuters Graphics Nvidia has strained to meet demand for its AI chips, with Tesla Inc (TSLA.O) Chief Executive Officer Elon Musk, who is reportedly building out an artificial-intelligence startup, earlier this week telling an interviewer that the graphics ..."
     publishedDateTime: 2023-05-24T22:13:00Z
@@ -81,84 +67,22 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Sequoia India’s Surge backs AI-powered video creation platform Gan.ai in $5.2M funding"
-    excerpt: "Gan.ai, an AI-powered video creation platform, raised a $5.2 million seed round led by Surge, Sequoia Capital's rapid scale-up program."
-    publishedDateTime: 2023-05-23T22:46:00Z
-    webUrl: "https://techcrunch.com/2023/05/23/sequoia-indias-surge-backs-ai-powered-video-creation-platform-gan-ai-in-5-2m-funding/"
-    ampWebUrl: "https://techcrunch.com/2023/05/23/sequoia-indias-surge-backs-ai-powered-video-creation-platform-gan-ai-in-5-2m-funding/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/sequoia-indias-surge-backs-ai-powered-video-creation-platform-gan-ai-in-5-2m-funding/amp/"
+  - title: "Nvidia Hints At Upcoming AI-Focused Spectrum-4 Ethernet"
+    excerpt: "It is no surprise at all that Nvidia’s datacenter business is making money hang over fist right now as generative AI makes machine learning a household"
+    publishedDateTime: 2023-05-25T14:34:00Z
+    webUrl: "https://www.nextplatform.com/2023/05/25/nvidia-hints-at-upcoming-ai-focused-spectrum-4-ethernet/"
+    ampWebUrl: "https://www.nextplatform.com/2023/05/25/nvidia-hints-at-upcoming-ai-focused-spectrum-4-ethernet/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/05/25/nvidia-hints-at-upcoming-ai-focused-spectrum-4-ethernet/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/Suvrat-Bhooshan-Founder-CEO-at-Gan.ai-.jpeg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The AI-driven evolution of banks"
-    excerpt: "AI-driven transformation continues to accelerate. In this phase, banks are faced with new challenges and opportunities, which force them to pay attention to a plurality of aspects, all transversally crossed by a major cultural transformation."
-    publishedDateTime: 2023-05-25T20:49:00Z
-    webUrl: "https://techxplore.com/news/2023-05-ai-driven-evolution-banks.html"
-    ampWebUrl: "https://techxplore.com/news/2023-05-ai-driven-evolution-banks.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-ai-driven-evolution-banks.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
+      name: The Next Platform
+      domain: nextplatform.com
     quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-money.jpg"
-        width: 1920
-        height: 1188
+      - url: "http://www.nextplatform.com/wp-content/uploads/2022/04/nvidia-spectrum-4-logo.jpg"
+        width: 1076
+        height: 541
         isCached: true
-  - title: "Nvidia in great position to gain from AI hype, says Intel CEO"
-    excerpt: "Nvidia, which has long been keen on boosting GPU's computing power, is now being presented with an excellent opportunity from the AI wave, according to Intel CEO Pat Gelsinger."
-    publishedDateTime: 2023-05-24T02:04:00Z
-    webUrl: "https://www.digitimes.com/news/a20230523PD218/intel-nvidia-pat-gelsinger.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230523pd218_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Five Of The Top Artificial Intelligence Stocks For A Potential $1.8 Trillion Boom"
-    excerpt: "Five of the Top Artificial Intelligence Stocks for a Potential $1.8 Trillion Boom The artificial intelligence story fueled a massive rally in tec"
-    publishedDateTime: 2023-05-24T20:53:00Z
-    webUrl: "https://menafn.com/1106309114/Five-Of-The-Top-Artificial-Intelligence-Stocks-For-A-Potential-18-Trillion-Boom"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?140161"
-        width: 448
-        height: 250
-        isCached: true
-  - title: "Five of the Top Artificial Intelligence Stocks for a Potential $1.8 Trillion Boom"
-    excerpt: "Detailed price information for Accenture Plc (ACN-N) from The Globe and Mail including charting and trades."
-    publishedDateTime: 2023-05-24T14:12:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/ACN-N/pressreleases/17154514/five-of-the-top-artificial-intelligence-stocks-for-a-potential-18-trillion-boom/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 14
-  - title: "Nvidia, On Its Way to $1 Trillion Market Value, Just Confirmed That AI Hype Is Real"
-    excerpt: "Nvidia CEO Jensen Huang said generative AI is now becoming \"the primary workload of most of the world's data centers generating information\"."
-    publishedDateTime: 2023-05-25T15:46:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-on-its-way-to-1-trillion-just-confirmed-ai-hype-is-real"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 13
 
 secured: "d8nzzc1VUVXZU5D9+oBdETRi4PBj6gAdQumcLFFR/xlU8azQ5KULAnoAYoNn6hQ71fxjix0ePeoROragrG8uDvRjKB2TG+49tSftS9dj/osJ0/E6p/pw+NIUoOLp+yU7rLvExN3ezNeYxMWzVV3dMnDw2XYvUfBb8FgaunvPv9PqQPAgSZ/V1YlApMRU28GLojEy8StJ387xj2gRO1qBDpfp1mWU47B8z6hvu1Bgq45GGUIqdnBOUdPf3vRbnuxYjHZNO+plIv7RM759EoUC7XItZgEJs9Fr9nBYSgaoe64Y/koTCsSBoWuGkgruT8ag9dhpecAPFYrcbmKmmp+amtDXIBrDlN3ZZV+dJz7TdzQ=;c9ft825SDw4K7jBBX5ZbUg=="
 ---

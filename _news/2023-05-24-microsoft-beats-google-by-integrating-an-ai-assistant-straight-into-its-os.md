@@ -295,6 +295,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Microsoft launches Azure AI Studio for developers to create their own AI 'copilots'"
+    excerpt: "Microsoft has launched Azure AI Studio, a new capability within the Azure OpenAI Service that allows customers to combine OpenAI chatbots with their"
+    publishedDateTime: 2023-05-24T06:06:00Z
+    webUrl: "https://www.prokerala.com/news/articles/a1421972.html"
+    ampWebUrl: "https://www.prokerala.com/news/articles/a1421972.html?amp=1"
+    cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1421972.html?amp=1"
+    type: article
+    provider:
+      name: Prokerala
+      domain: prokerala.com
+    quality: 83
+    images:
+      - url: "https://www.prokerala.com/news/photos/imgs/1200/azure-ai-studio-photo-twitter-1592191.jpg"
+        width: 1200
+        height: 493
+        isCached: true
   - title: "Microsoft’s President Backs New Agency to Regulate ChatGPT, Other AI Systems"
     excerpt: "Sam Altman, CEO of ChatGPT creator OpenAI, touted the benefits of AI and acknowledged potential downsides of the technology during a Senate subcommittee hearing on Tuesday. Photo: Patrick Semansky/Associated Press WASHINGTON—Microsoft President Brad ..."
     publishedDateTime: 2023-05-25T12:00:00Z
@@ -481,20 +497,6 @@ related:
       name: Network World
       domain: networkworld.com
     quality: 63
-  - title: "Microsoft Launches Azure AI Studio For Developers To Create Their Own AI 'Copilots'"
-    excerpt: "Microsoft has launched Azure AI Studio, a new capability within the Azure OpenAI Service that allows customers to combin"
-    publishedDateTime: 2023-05-24T06:42:00Z
-    webUrl: "https://menafn.com/1106303655/Microsoft-Launches-Azure-AI-Studio-For-Developers-To-Create-Their-Own-AI-Copilots"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 63
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/24/I_0e9f3image_story.jpg"
-        width: 904
-        height: 372
-        isCached: true
   - title: "From ChatGPT on Bing to Azure AI: 5 biggest announcements from Microsoft Build 2023"
     excerpt: "Microsoft continues to make strides in AI with a slew of updates and launches announced at Build 2023. From ChatGPT on Bing to Azure AI: 5 biggest announcements from Microsoft Build 2023. Bing, chatGPT,"
     publishedDateTime: 2023-05-25T06:21:00Z
@@ -589,6 +591,31 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 56
+  - title: "Microsoft urges lawmakers, companies to ‘step up’ with AI guardrails"
+    excerpt: "Microsoft President Brad Smith has called for governments to “move faster” on regulating artificial intelligence (AI) but said that tech companies need to step up to the plate too."
+    publishedDateTime: 2023-05-26T01:48:00Z
+    webUrl: "https://cointelegraph.com/news/microsoft-urges-ai-artificial-intelligence-regulation-guardrails"
+    ampWebUrl: "https://cointelegraph.com/news/microsoft-urges-ai-artificial-intelligence-regulation-guardrails/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/microsoft-urges-ai-artificial-intelligence-regulation-guardrails/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 56
+  - title: "Qualcomm, Microsoft Partner to Scale On-Device AI at Build"
+    excerpt: "During Microsoft Build 2023, Qualcomm Technologies, Inc. displayed its latest innovations in on-device AI, including showing generative AI running on Snapdragon® compute platforms, as well as new pathways for developers building applications for Windows 11 PCs powered by Snapdragon."
+    publishedDateTime: 2023-05-26T01:47:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/32202-qualcomm-microsoft-partner-to-scale-on-device-ai-at-build"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 56
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/3e86f7e036a8aebbe5b8d2829f5091ef.jpg?t=20230526_013346"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Microsoft Build 2023 brings expansions to the AI ecosystem, new plugin capabilities with Microsoft’s Copilot ecosystem, and more"
     excerpt: "Microsoft’s Copilot ecosystem has been expanded to include Copilot in Power BI and Copilot in Power Pages in preview; Copilot in Microsoft Fabric, which is set to become available in preview soon; and Windows Copilot,"
     publishedDateTime: 2023-05-23T20:22:00Z

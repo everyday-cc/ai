@@ -231,6 +231,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "Amazon's answer to ChatGPT seen as incomplete"
+    excerpt: "Amazon.com Inc.'s cloud customers are clamoring to get their hands on the ChatGPT-style technology the company unveiled six weeks ago. But instead of being allowed to test it, many are being told to sit tight,"
+    publishedDateTime: 2023-05-25T20:19:00Z
+    webUrl: "https://techxplore.com/news/2023-05-amazon-chatgpt-incomplete.html"
+    ampWebUrl: "https://techxplore.com/news/2023-05-amazon-chatgpt-incomplete.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-amazon-chatgpt-incomplete.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-5.jpg"
+        width: 1920
+        height: 1200
+        isCached: true
   - title: "Is There a UN Role in Artificial Intelligence Chatbot?"
     excerpt: "Will it take a robot to break that unholy tradition ... of the concerns that the Secretary-General himself has been expressing — the idea that as artificial intelligence develops, it needs to be monitored carefully and the right regulations and standards ..."
     publishedDateTime: 2023-05-23T07:00:00Z

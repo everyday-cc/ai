@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/05/25/tech/nvidia-earnings-ai/index.htm
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/25/tech/nvidia-earnings-ai/index.html"
 type: article
 quality: 104
-heat: 514
+heat: 534
 published: true
 
 provider:
@@ -333,6 +333,22 @@ related:
         width: 816
         height: 544
         isCached: true
+  - title: "Amazon Was the Rare AI and Cloud Play Left Out of the Nvidia Bump. Here’s Why."
+    excerpt: "Amazon is the world's largest cloud-computing company. But investors ignored the stock on a day when many other plays were up sharply."
+    publishedDateTime: 2023-05-26T01:55:00Z
+    webUrl: "https://www.barrons.com/articles/amazon-misses-rally-8a6e2511"
+    ampWebUrl: "https://www.barrons.com/amp/articles/amazon-misses-rally-8a6e2511"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amazon-misses-rally-8a6e2511"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 55
+    images:
+      - url: "https://images.barrons.com/im-789325/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Nvidia Shares Soar 28% As Demand Surges For AI Chips"
     excerpt: "Nvidia shares rocketed in after hours trading after the chipmaker forecast current-quarter revenue more than 50 per cent above analyst expectations, saying it has boosted supply to meet surging demand for its AI chips."
     publishedDateTime: 2023-05-24T23:47:00Z
@@ -522,6 +538,15 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
+    quality: 34
+  - title: "Nvidia races towards $1tn club as AI frenzy drives chip stocks higher"
+    excerpt: "Nvidia’s blowout sales forecast has set the Silicon Valley company on course to become the first chipmaker to be valued at more than $1tn, as booming demand for its artificial intelligence processors drove semiconductor stocks higher on Thursday."
+    publishedDateTime: 2023-05-25T20:12:00Z
+    webUrl: "https://www.ft.com/content/b074781a-683f-4b20-8c70-33bb71399d94"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 34
   - title: "Nvidia Stock Surges as AI Chip Demand Powers Q1 Earnings, Stronger Outlook"
     excerpt: "The computer industry is going through two simultaneous transitions — accelerated computing and generative AI,' said CEO Jensen Huang"
