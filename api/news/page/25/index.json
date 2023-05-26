@@ -2,6 +2,57 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2023-05-10-ai-la-mode-thoughtspot-aims-to-define-modern-data-experiences.md",
+      "title": "ÀI La Mode, ThoughtSpot Aims To Define ‘Modern’ Data Experiences",
+      "excerpt": "The prehistoric dawn of our first business and scientific data analytics practices saw us crunch data streams in overnight batch processing workloads and deliver results to what we used to call Business Intelligence (BI) suites,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/05/09/i-la-mode-thoughtspot-aims-to-define-modern-data-experiences/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/05/09/i-la-mode-thoughtspot-aims-to-define-modern-data-experiences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/639af0677788b37c074b44e2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 817,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/05/09/i-la-mode-thoughtspot-aims-to-define-modern-data-experiences/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/05/09/i-la-mode-thoughtspot-aims-to-define-modern-data-experiences/amp/",
+      "publishedDateTime": "2023-05-09T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-chatgpt-and-generative-ai-around-the-world-maturity-opportunities-and-hurdles-in-key-regions.md",
       "title": "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions",
       "excerpt": "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal.",
@@ -1121,57 +1172,6 @@
       "images": [
         {
           "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/amv-2021bcncloudbusiness20567.lr_-630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-ibm-watson-orchestrate-unlocking-new-levels-productivity-for-every-employee.md",
-      "title": "IBM Watson Orchestrate: Unlocking new levels productivity for every employee",
-      "excerpt": "IBM Watson Orchestrate is a cloud-based platform that helps companies empower their people to completely change the nature of day-to-day work for good. \nThe post IBM Watson Orchestrate: Unlocking new levels productivity for every employee appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-watson-orchestrate-unlocking-new-levels-productivity-for-every-employee/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-watson-orchestrate-unlocking-new-levels-productivity-for-every-employee/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/ux62.lr_-630x330.jpg",
           "width": 630,
           "height": 330,
           "title": null,

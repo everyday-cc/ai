@@ -2,6 +2,49 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2023-04-20-artificial-intelligence-being-used-at-omahas-chi-health-clinics.md",
+      "title": "Artificial intelligence being used at Omaha’s CHI Health clinics",
+      "excerpt": "OMAHA, Neb. (WOWT) - The types of AI that healthcare providers at CHI Health use are the kind patients rarely see. “This is all done to help the providers and the nurses, and it informs them ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wowt.com/2023/04/21/artificial-intelligence-being-used-omahas-chi-health-clinics/",
+      "originalUrl": "https://www.wowt.com/2023/04/21/artificial-intelligence-being-used-omahas-chi-health-clinics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/Hsw_OILhmQlPWzD1D8GAaqnUcuE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/PT2T74TZ7JCYNPQLYYPTGDBOXY.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wowt.com/2023/04/21/artificial-intelligence-being-used-omahas-chi-health-clinics/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wowt-com.cdn.ampproject.org/c/s/www.wowt.com/2023/04/21/artificial-intelligence-being-used-omahas-chi-health-clinics/?outputType=amp",
+      "publishedDateTime": "2023-04-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WOWT.com",
+        "domain": "wowt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-autotech-ventures-new-230m-mobility-fund-adds-fintech-circular-economy-to-its-investment-strategy.md",
       "title": "Autotech Ventures’ new $230M mobility fund adds fintech, circular economy to its investment strategy",
       "excerpt": "Fintech, logistics, supply chain and the circular ... Autotech Ventures is also cautiously wading into generative AI, although Andreev was quick to note that the company has not made any ...",
@@ -1061,58 +1104,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-artificial-intelligence-ai-chips-market-2023-key-findings-throughout-globally-by-2030.md",
-      "title": "Artificial intelligence (AI) Chips Market [2023] | Key Findings Throughout Globally by 2030",
-      "excerpt": "GlobalArtificial intelligence (AI) Chips Market[2023-2030] research report is a compilation of information and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2023-key-findings-throughout-globally-by-2030-2023-04-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2023-key-findings-throughout-globally-by-2030-2023-04-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

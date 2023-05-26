@@ -37,6 +37,22 @@ related:
         width: 862
         height: 575
         isCached: true
+  - title: "More than 20 sporting codes pen open letter pledging support for Voice to parliament"
+    excerpt: "In the ultimate coming together, a collective of the biggest sporting bodies in Australia has pledged unwavering support for the Indigenous Voice to parliament in an open letter, declaring sport “plays a significant role in reconciling Australia”."
+    publishedDateTime: 2023-05-26T04:31:00Z
+    webUrl: "https://www.skynews.com.au/breaking-news/more-than-20-sporting-codes-pen-open-letter-pledging-support-for-voice-to-parliament/news-story/393244525c4b53f1c7fb39a2d4e130c4"
+    ampWebUrl: "https://www.skynews.com.au/breaking-news/more-than-20-sporting-codes-pen-open-letter-pledging-support-for-voice-to-parliament/news-story/393244525c4b53f1c7fb39a2d4e130c4?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/breaking-news/more-than-20-sporting-codes-pen-open-letter-pledging-support-for-voice-to-parliament/news-story/393244525c4b53f1c7fb39a2d4e130c4?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 37
+    images:
+      - url: "https://content.api.news/v3/images/bin/5977b3ee87730a6ecf9802c5bd35f273"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "u4cBZD7aLOviVBEAq5CYxKVgicWAMz3rktEBKt1+bYQiWNaLObsC297LCD0aX6xFWMVzM6S7RlzG7k1PlspZMKF+LKgupA6/GK48/wq40NWMQDTadCCyyy0TmSYGRASzsq+xEDDWbAXf9EYwMp1FzXzYV/W+VuPBemAWVuZhHiXuxAuaT+cyqwgrKP3KZkNDDqfKhqmcC1itlbFGY7zJXJK484S0IFmhP9ANeA86J+mWKF/Tk1v26YdbUeLQPx1a7Jz7yE/vETwH8Ka+HDE2z+Ef8hbIqvmwmtid4eemM+BXR07wDipGyXGiInz/mJvqzozh6A9FBB7tc/p9AJbX8az2Jhmyxcsvkd2jNKD68Zo=;Foeqy00PTUuBvh0mOxLnRg=="
 ---

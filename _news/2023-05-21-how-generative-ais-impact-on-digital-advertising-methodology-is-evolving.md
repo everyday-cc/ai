@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-generative-ais-impact-on-digital-adve
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-generative-ais-impact-on-digital-advertising-methodology-is-evolving/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI is curing advertisers’ privacy problem"
+    excerpt: "New privacy regulations limit what customer data brands can collect. To succeed, advertisers must embrace AI while retaining the human touch."
+    publishedDateTime: 2023-05-26T01:08:00Z
+    webUrl: "https://venturebeat.com/ai/how-ai-is-curing-advertisers-privacy-problem/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1194402627.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "15 Surprising Ways Industries May Soon Leverage Generative AI"
     excerpt: "There’s more to generative AI than writing press blurbs, test questions and memos—indeed, there’s much more to generative AI than writing, period."
     publishedDateTime: 2023-05-25T12:15:00Z

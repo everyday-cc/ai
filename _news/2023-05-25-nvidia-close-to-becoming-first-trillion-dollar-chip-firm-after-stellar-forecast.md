@@ -227,6 +227,22 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Nvidia: The chip maker that became an AI superpower"
+    excerpt: "Jensen Huang, now the chief executive of Nvidia, was one of its founders back in 1993. Then, Nvidia was focused on making graphics better for gaming and other applications. In 1999 it developed GPUs to enhance image display for computers."
+    publishedDateTime: 2023-05-25T23:26:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-65675027"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-65675027.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65675027.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 74
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0784/production/_129842910_jensen_huang-extended.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Nvidia shares skyrocket after AI-fueled sales projections crush forecasts; Chip maker nears $1 trillion valuation"
     excerpt: "Shares of Nvidia, already one of the world's most valuable companies, skyrocketed Thursday after the chipmaker forecast a huge jump in revenue, signaling how vastly the broadening use of artificial intelligence could reshape the tech sector."
     publishedDateTime: 2023-05-25T14:02:00Z
@@ -272,6 +288,20 @@ related:
       - url: "https://images.wsj.net/im-788555/social"
         width: 1279
         height: 640
+        isCached: true
+  - title: "Nvidia Envy, Powered by AI and a Frenzy of Hype"
+    excerpt: "The gains are jaw-dropping and everyone’s rushing to the AI bandwagon. But pause to reflect on the early internet and first-movers who didn’t survive."
+    publishedDateTime: 2023-05-26T04:49:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-05-26/nvidia-envy-market-shock-powered-by-ai-and-a-frenzy-of-hype"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivTvuAUNN83g/v1/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Nvidia’s stock soars 24% on strong sales forecast amid surging demand for AI chips"
     excerpt: "Wall Street’s projections out of the water, sending its stock up an incredible 24% in extended trading. The company reported net income for the quarter of $2.04 billion, up from the $1.62 billion profit it recorded one year earlier."

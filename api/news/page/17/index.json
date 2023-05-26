@@ -2,6 +2,57 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-05-13-ai-verification-and-impacts-on-commercial-due-diligence.md",
+      "title": "AI, verification and impacts on commercial due diligence",
+      "excerpt": "AI has loudly announced itself, offering enterprises exciting potential. Why due diligence, verification and vetting are essential.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-verification-and-impacts-on-commercial-due-diligence/",
+      "originalUrl": "https://venturebeat.com/ai/ai-verification-and-impacts-on-commercial-due-diligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1216705894-e1644616451773.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-verification-and-impacts-on-commercial-due-diligence/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-verification-and-impacts-on-commercial-due-diligence/amp/",
+      "publishedDateTime": "2023-05-12T20:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-13-hear-reddit-co-founders-response-when-asked-if-government-is-equipped-to-regulate-ai.md",
       "title": "Hear Reddit co-founder’s response when asked if Government is equipped to regulate AI",
       "excerpt": "Reddit co-founder Alexis Ohanian joins CNN's Chris Wallace to discuss artificial intelligence and if the Government is equipped to regulate it.",
@@ -1185,57 +1236,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-how-businesses-can-ethically-embrace-artificial-intelligence.md",
-      "title": "How Businesses Can Ethically Embrace Artificial Intelligence",
-      "excerpt": "Though there are many benefits to using AI in marketing, we must be aware of the potential risks and ethical concerns that come along with it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645d3d41cac5cbcb9fcb5cb6/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/12/how-businesses-can-ethically-embrace-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-05-12T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

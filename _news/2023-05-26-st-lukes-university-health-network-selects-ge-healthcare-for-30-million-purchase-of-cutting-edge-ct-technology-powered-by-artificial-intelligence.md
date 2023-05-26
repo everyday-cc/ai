@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "St. Luke's inks $30M deal with GE HealthCare"
+    excerpt: "St. Luke's University Health Network signed a $30 million contract with GE HealthCare to install 21 CT systems powered by artificial intelligence. These CT syst"
+    publishedDateTime: 2023-05-26T05:09:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/st-lukes-inks-30m-deal-with-ge-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "St. Luke’s University Health Network Selects GE HealthCare for $30 Million Purchase of Cutting-Edge CT Technology, Powered by Artificial Intelligence"
     excerpt: "GE HealthCare (Nasdaq: GEHC), a leading medical technology innovator, announced today its largest ever CT deal in the United States – a $30 million or"
     publishedDateTime: 2023-05-25T13:00:00Z

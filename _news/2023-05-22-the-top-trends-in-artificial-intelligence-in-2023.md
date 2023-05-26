@@ -34,6 +34,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 81
+  - title: "A Call for Safe and Ethical AI (Artificial Intelligence) for Health"
+    excerpt: "The World Health Organisation (WHO) urges caution while employing extensive language model tools (LLMs) produced by artificial intelligence (AI ... including LLMs, to support healthcare professionals, patients, researchers, and scientists."
+    publishedDateTime: 2023-05-26T04:42:00Z
+    webUrl: "https://countercurrents.org/2023/05/a-call-for-safe-and-ethical-ai-artificial-intelligence-for-health/"
+    type: article
+    provider:
+      name: Countercurrents
+      domain: countercurrents.org
+    quality: 71
+    images:
+      - url: "https://cdn.countercurrents.org/wp-content/uploads/2023/05/artificial-intellingence-AI-Health-Doctor.jpg"
+        width: 700
+        height: 342
+        isCached: true
   - title: "Making sense of AI research in medicine, in one slide"
     excerpt: "Research on artificial intelligence in health care runs the gamut of risky but rewarding to relatively useless. Here's what one expert makes of it."
     publishedDateTime: 2023-05-22T08:30:00Z

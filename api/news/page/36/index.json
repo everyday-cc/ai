@@ -2,6 +2,40 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-05-03-researchers-detect-and-classify-multiple-objects-without-images.md",
+      "title": "Researchers detect and classify multiple objects without images",
+      "excerpt": "Today’s image-free perception methods can only achieve classification, single object recognition or tracking. To accomplish all three at once, the researchers developed a technique known as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/988149",
+      "originalUrl": "https://www.eurekalert.org/news-releases/988149",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-gamesbeat-summit-2023-will-capture-how-generative-ai-is-changing-gaming.md",
       "title": "GamesBeat Summit 2023 will capture how generative AI is changing gaming",
       "excerpt": "Generative AI is sweeping through the game industry and that's one of the can't-miss topics we'll discuss at GamesBeat Summit 2023.",
@@ -1138,57 +1172,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-midjourney-51-arrives-and-its-another-leap-forward-for-ai-art.md",
-      "title": "Midjourney 5.1 Arrives - And It’s Another Leap Forward For AI Art",
-      "excerpt": "The company claims that version 5.1 of the engine is “more opinionated”, bringing it closer to the kind of results that you would get with version 4 of Midjourney, but at a higher quality. There’s also a “raw” mode, for those who don’t want images that are as strongly opinionated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/",
-      "originalUrl": "https://www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64521a0c6292968af6b510dc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/05/03/midjourney-51-arrivesand-its-another-leap-forward-for-ai-art/amp/",
-      "publishedDateTime": "2023-05-03T01:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

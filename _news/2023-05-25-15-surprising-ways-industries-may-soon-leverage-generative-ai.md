@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How AI is curing advertisers’ privacy problem"
+    excerpt: "New privacy regulations limit what customer data brands can collect. To succeed, advertisers must embrace AI while retaining the human touch."
+    publishedDateTime: 2023-05-26T01:08:00Z
+    webUrl: "https://venturebeat.com/ai/how-ai-is-curing-advertisers-privacy-problem/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1194402627.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Looking into possible impact of Artificial Intelligence"
     excerpt: "We talk about the potential of AI and threats it may pose with Aboitiz Data Innovation's David Hardoon. Artificial Intelligence has become a topic of controversy with even the so-called \"Godfather of AI\" Geoffrey Hinton expressing worries over how smart ..."
     publishedDateTime: 2023-05-22T23:47:00Z
