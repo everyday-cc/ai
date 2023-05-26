@@ -216,6 +216,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "How AI may help Nvidia to become first trillion-dollar chip-making company"
+    excerpt: "This is what Microsoft co-founder Bill Gates has to say on the 'big AI winner' of tomorrow Microsoft co-founder Bill Gates said that the future top company in artificial intelligence will likely have created a personal digital agent that can perform ..."
+    publishedDateTime: 2023-05-26T11:37:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-ai-may-help-nvidia-to-become-first-trillion-dollar-chip-making-company/articleshow/100529424.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-ai-may-help-nvidia-to-become-first-trillion-dollar-chip-making-company/amp_articleshow/100529424.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/how-ai-may-help-nvidia-to-become-first-trillion-dollar-chip-making-company/amp_articleshow/100529424.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 72
+    images:
+      - url: "https://static.toiimg.com/photo/msid-100529672/100529672.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Nvidia shares skyrocket after AI-fueled sales projections crush forecasts; Chip maker nears $1 trillion valuation"
     excerpt: "Shares of Nvidia, already one of the world's most valuable companies, skyrocketed Thursday after the chipmaker forecast a huge jump in revenue, signaling how vastly the broadening use of artificial intelligence could reshape the tech sector."
     publishedDateTime: 2023-05-25T14:02:00Z
@@ -365,6 +381,22 @@ related:
       - url: "https://www.crn.com/resources/027e-1760b1bd867a-fdfae1545ede-1000/jensen_huang_nvidia.jpeg"
         width: 648
         height: 432
+        isCached: true
+  - title: "Cathie Wood’s Top Fund Missed Nvidia’s Stock Surge. But ARK Made This AI Bet."
+    excerpt: "Cathie Wood's Ark Innovation ETF sold its Nvidia shares before the majority of the chip maker's stock rally but is backing automation software maker UiPath."
+    publishedDateTime: 2023-05-26T11:29:00Z
+    webUrl: "https://www.barrons.com/articles/cathie-wood-nvidia-stock-ark-ai-uipath-b080d4c0"
+    ampWebUrl: "https://www.barrons.com/amp/articles/cathie-wood-nvidia-stock-ark-ai-uipath-b080d4c0"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/cathie-wood-nvidia-stock-ark-ai-uipath-b080d4c0"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 56
+    images:
+      - url: "https://images.barrons.com/im-577741/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Nvidia Stock Goes Parabolic After Chipmaker Reports Q1 Beat: AI Momentum Pushes Data Center Revenue To Record"
     excerpt: "Nvidia Corp. NVDA reported first-quarter results that came in well ahead of Street expectations Wednesday as the chipmaker rides artificial intelligence momentum. The company issu"
@@ -528,6 +560,20 @@ related:
       - url: "https://www.ciodive.com/imgproxy/XNQoxz-_plEGhHQU6obzgrF85F9pYno_U8mnsqMERhg/crop:3000:1695/g:nowe:0:281/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk1NzAzNzAxOC5qcGc.jpg"
         width: 770
         height: 435
+        isCached: true
+  - title: "Nvidia nears $1 trillion valuation amid AI boom"
+    excerpt: "A trillion dollars of installed global data center infrastructure will transition from general-purpose to accelerated computing as companies race to apply generative AI into every product, service, and business process."
+    publishedDateTime: 2023-05-26T11:55:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-nears-1-trillion-valuation-amid-ai-boom/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Nvidia_Jensen_holds_T4.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Nvidia Stock Rides the AI Wave With More to Come"
     excerpt: "With its 25% post-earnings surge on Thursday, the stock is now up 161% this year on the promise that the company’s chips will power the future of AI. So what kind of sorcery is this? And why are investors willing to pay 186 times current earnings to ..."

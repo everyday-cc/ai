@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Nvidia just added $200 billion to its market cap on AI hype - and the gold rush may just be getting started"
+    excerpt: "Insider's Phil Rosen explains what's behind the key chip stock's meteoric rise."
+    publishedDateTime: 2023-05-26T10:40:00Z
+    webUrl: "https://www.businessinsider.com/nvidia-stock-rally-ai-artificial-intelligence-huange-markets-investors-2023-5"
+    ampWebUrl: "https://www.businessinsider.com/nvidia-stock-rally-ai-artificial-intelligence-huange-markets-investors-2023-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nvidia-stock-rally-ai-artificial-intelligence-huange-markets-investors-2023-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/646fa51cdcf4b30018881416?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Nvidia's blowout forecast sparks huge rally in all things AI"
     excerpt: "Nvidia Corp’s forecast for surging revenue surprised even the most bullish analysts on Wall Street, propelling the chipmaker to the cusp of a US$1 trillion market capitalization and igniting a global jump in stocks linked to artificial intelligence."
     publishedDateTime: 2023-05-25T14:32:00Z

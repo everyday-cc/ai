@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Does AI add Value To Sales Intelligence?"
-    excerpt: "AI improves sales pipeline intelligence by leveraging advanced algorithms and data analysis techniques to extract valuable insights from large volumes of data. Here are several ways AI enhances sales pipeline intelligence:"
-    publishedDateTime: 2023-05-21T18:10:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/05/21/how-does-ai-add-value-to-sales--intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "In Inclusive Hiring, Emotional Intelligence Wins Over Artificial Intelligence"
     excerpt: "Maybe in the future, there will be a mature AI solution that can handle the complex job of seeking out and assessing the optimal leader for a specific nuanced culture and point in time—but not yet."
     publishedDateTime: 2023-05-23T11:00:00Z
@@ -49,29 +40,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial Limbs And Intelligence"
-    excerpt: "Prosthetic arms can range from inarticulate pirate-style hooks to motorized five-digit hands. Control of any of them is difficult and carries a steep learning curve, rarely does their operation ..."
-    publishedDateTime: 2023-05-24T00:00:00Z
-    webUrl: "https://hackaday.com/2018/12/31/artificial-limbs-and-intelligence/"
+  - title: "Exclusive: Fifth Third CEO talks about the importance of AI, other tech in the growth of banking"
+    excerpt: "The AI is optimizing for the lifetime value of the customer relationships. Retaining your customers and making sure they’re satisfied is the single biggest lever at our disposal,' said Fifth Third Bank CEO Tim Spence while in Louisville on Monday."
+    publishedDateTime: 2023-05-23T10:57:00Z
+    webUrl: "https://www.bizjournals.com/louisville/inno/stories/inno-insights/2023/05/23/fifth-third-ceo-tim-spence-louisvillle-market-2023.html"
     type: article
     provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 24
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2018/12/prosthetic-hand-featured.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Intelligent Artifacts Pledges Commitment to Responsible Artificial Intelligence"
-    excerpt: "Brand Manifesto Unveiled for Creating the Trusted Intelligent Future of AI NEW YORK, May 23, 2023 /PRNewswire/ -- Intelligent Artifacts, a leading innovator in the field of machine intelligence, solidifies their commitment to responsible AI in a new manifesto which you can read here on their website."
-    publishedDateTime: 2023-05-23T13:28:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/23/9819437.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 21
 
 secured: "rrq24VVVsLpioIwASCKJFs4TLLRh1IP8QwNwAZITeQMkHH5F+ILtdPzAfOyMfgFj3ZVRnA8hqd2L4LbQ10WitfDlWLb3vDflk6HkysFn4EAJP3XrEH+A0luU4CLjsTryuuuXBsvRA4mTP1H4p81NHUxD/UZGbuA+afHxEWilBORbCHECasu3Jh2wsLjenqO/qxlbNp1Bp5hrqmX2Q+ZFX4xNZPrum0idMI8/PbQRPmNlIRu5CtbM2Z38mt3sS4F/rsxR3JlhyIUQLjr3R3PptshkT9o+UmH1OGQyEv+bFj/JL4ZEvS62hQYZkT7LJwDZMCT3+nFVg55jDB3ilazpb6XX437t3cmh2GDLHMuSkVrxzNJvK5zPPASfPsoZj7by4KW+Fe/gPz/l2MK+xlVZ7DfG/jI5BIU8OvcHDqnzMy62/txLHjvbqH1Prm4WTi5UnnwoiZKDHQfFyEuzoTqgRrqntk1BO4/Zg+UKQpdbcuA+6c5K2OdD3Z1GKTRd7D2uuO8iTEVfh5HPqWD8MVlelg==;q8/YZtyo4BXJN9KLigdANA=="
 ---

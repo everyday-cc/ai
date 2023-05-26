@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 622
         isCached: true
+  - title: "This AI Startup Aims To Predict Heart Failure Before It Happens"
+    excerpt: "That’s the dream of Tamir Tal, the founder of Israeli-based artificial intelligence startup Cordio. Its app, HearO, uses machine learning algorithms to detect changes in a patient’s voice that suggest there’s fluid accumulation happening in the lungs ..."
+    publishedDateTime: 2023-05-26T10:02:00Z
+    webUrl: "https://www.forbes.com/sites/alexknapp/2023/05/26/this-ai-startup-aims-to-predict-heart-failure-before-it-happens/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647007f373dcd9bff4c0026e/0x0.jpg?format=jpg&crop=3322,2492,x0,y237,safe&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "A deep dive on generative AI in health care, Pear sold for parts, and progress on stretchable skin"
     excerpt: "My colleagues and I have been trying to get a handle on how generative AI and large language models — the technology underlying systems like ChatGPT — will meaningfully change health care. How soon, if ever,"
     publishedDateTime: 2023-05-23T17:44:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/05/2
 webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/05/23/in-inclusive-hiring-emotional-intelligence-wins-over-artificial-intelligence/"
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Forbes
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Does AI add Value To Sales Intelligence?"
-    excerpt: "AI improves sales pipeline intelligence by leveraging advanced algorithms and data analysis techniques to extract valuable insights from large volumes of data. Here are several ways AI enhances sales pipeline intelligence:"
-    publishedDateTime: 2023-05-21T18:10:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/05/21/how-does-ai-add-value-to-sales--intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Artificial general intelligence: Understanding the future of AI"
     excerpt: "Discover the future of AI. Learn about the potential of AGI development, its implications for society and the workforce, and key ethical considerations."
     publishedDateTime: 2023-05-22T13:48:00Z
@@ -51,29 +42,15 @@ related:
         width: 1920
         height: 1281
         isCached: true
-  - title: "Artificial Limbs And Intelligence"
-    excerpt: "Prosthetic arms can range from inarticulate pirate-style hooks to motorized five-digit hands. Control of any of them is difficult and carries a steep learning curve, rarely does their operation ..."
-    publishedDateTime: 2023-05-24T00:00:00Z
-    webUrl: "https://hackaday.com/2018/12/31/artificial-limbs-and-intelligence/"
+  - title: "Exclusive: Fifth Third CEO talks about the importance of AI, other tech in the growth of banking"
+    excerpt: "The AI is optimizing for the lifetime value of the customer relationships. Retaining your customers and making sure they’re satisfied is the single biggest lever at our disposal,' said Fifth Third Bank CEO Tim Spence while in Louisville on Monday."
+    publishedDateTime: 2023-05-23T10:57:00Z
+    webUrl: "https://www.bizjournals.com/louisville/inno/stories/inno-insights/2023/05/23/fifth-third-ceo-tim-spence-louisvillle-market-2023.html"
     type: article
     provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 24
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2018/12/prosthetic-hand-featured.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Intelligent Artifacts Pledges Commitment to Responsible Artificial Intelligence"
-    excerpt: "Brand Manifesto Unveiled for Creating the Trusted Intelligent Future of AI NEW YORK, May 23, 2023 /PRNewswire/ -- Intelligent Artifacts, a leading innovator in the field of machine intelligence, solidifies their commitment to responsible AI in a new manifesto which you can read here on their website."
-    publishedDateTime: 2023-05-23T13:28:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/23/9819437.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 21
 
 secured: "rpF+M40+TXErG8dP8Uzax2ykcfMpzdcm0//w/NRdXFxW+f0MWs+p8OvEiSv1txuzi6KBPjrGAr/Jq2gyLKPg91DWDNGkiou9am3Up8LOu54ZiGaMQu0Om8x190wBSiJVhtdrB34MtJ9LV7oZVcUVc5bJCZAoQXjm+SzptQFaz/iZ+vQ1rbiurn8XRhHFDc69OBjpMm8bM3CmBzx04l5E7neLtGzjjULK9sZDGLmNjK3hxrYLqRs38uBLJ6xxqLGAizEQUsY58mWIapSUCo07aaQD0LTay2F6EA5M9ClHoI6FwEQA7X/K2Bzkw+3eAzFR/UOX2md2u0UCSpLA5vrapN/vKMXJkEPcTZ37W8p8iADBHD26Xj0PeP3G9EgPJ6FduX/+aLp8evVAgfPhhjPSwWQK3aZFDSEeIoyiuAXuiQVGW46K/cfKQilLzrRJuGtJbiRNTKseykI8HyeuHA8IJfmNZSEXTHqb6KelrplmTJwCjKPFrSS8fTATDOwsjjXnOdRcfO1qzH8liSYpU8i/cA==;dkUI1KyVUrYVWf0l2sKi3w=="
 ---

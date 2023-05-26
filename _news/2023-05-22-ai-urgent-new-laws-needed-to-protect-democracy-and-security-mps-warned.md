@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial intelligence, democracy and the global order"
+    excerpt: "The sudden arrival of groundbreaking AI tools has created an urgent need for a more holistic and global approach to tech governance."
+    publishedDateTime: 2023-05-26T08:45:00Z
+    webUrl: "https://www.japantimes.co.jp/opinion/2023/05/26/commentary/world-commentary/ai-global-order/"
+    type: article
+    provider:
+      name: ジャパンタイムズ
+      domain: japantimes.co.jp
+    quality: 39
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2023/05/np_file_229840-870x489.jpeg"
+        width: 870
+        height: 489
+        isCached: true
 
 secured: "n6NQuTw2JZafoVKvgI3NhFGu1kvQl6UVPA+HqVWPUTSL5+Ja1tyT96/JDBqjBmbxYBeClJ72bw4huR7FOuJwRwgCeHbMtrqryWJXP9bF4vdOkZ2jkWq5z3smRFcQSLnSwGo86YtsmQ5aQtIwpLnYXnaS0wWF36vXW2wnnNY2OY3tz2Yr1zrUURiguBpoZ1lEmravVLgBPoXlp4XYvynJaktKUbKoASSZLF1HwRCfeKe9q8Eqmi2TACGH+Lt4FIjUKoUiXEKWe6cp404SYNVfs9GBvEhOsxzzbocwpWXvEnZeiqnXElgiqpr5ITqJsh9gX0MgmAI4qC++B5Kig87NXGLjFQe0RqqN8ZUG/fSEeaHvFISOKc9nZvNFugOunrMRsF493Ic5xDLGYWNBD90aWu5k+1vhF4hFTE50JKGIofz2KjOxvnNnKs6xeGxYUoyMCPK5RDzT5NuczcmIb8ZYdaVZmMg9zYFsrtLpU7zVAHbZt54/Am2EziiyvKln/mIAZXmoJHElQBtyldGli5sl4Q==;993X4IuoMYjugeVP4r50Qw=="
 ---

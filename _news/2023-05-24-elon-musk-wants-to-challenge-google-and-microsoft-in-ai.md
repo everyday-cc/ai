@@ -281,6 +281,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Red Hat OpenShift on AWS (ROSA) accelerates enterprise modernization initiatives on cloud, delivering business application innovation"
+    excerpt: "When it comes to driving large technology transformation on Cloud, leveraging&#160;existing investments, and optimizing open innovation within the larger ecosystem with a hybrid cloud platform, IBM Consulting&#8482; offers several learnings to help organizations address the architecture and technology"
+    publishedDateTime: 2023-05-26T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/how-red-hat-openshift-on-aws-rosa-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 86
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/How-Red-Hat-OpenShift-on-AWS-ROSA-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
   - title: "Microsoft Build 2023: From ChatGPT on Bing to Azure AI, check latest announcement"
     excerpt: "Build 2023 also showcases previews of upcoming features such as Windows 11, Bing, and the revolutionary AI copilot. Here are top announcements that were made at the Build 2023 event"
     publishedDateTime: 2023-05-23T19:11:00Z

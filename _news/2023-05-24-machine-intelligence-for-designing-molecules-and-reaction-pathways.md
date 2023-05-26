@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Limbs And Intelligence"
+    excerpt: "Prosthetic arms can range from inarticulate pirate-style hooks to motorized five-digit hands. Control of any of them is difficult and carries a steep learning curve, rarely does their operation ..."
+    publishedDateTime: 2023-05-24T00:00:00Z
+    webUrl: "https://hackaday.com/2018/12/31/artificial-limbs-and-intelligence/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 24
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2018/12/prosthetic-hand-featured.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Machine intelligence for designing molecules and reaction pathways"
     excerpt: "Researchers in Japan have developed a machine learning process that simultaneously designs new molecules and suggests the chemical reactions needed to make them. The team at the Institute of Statistical Mathematics (ISM) in Tokyo published their results in the journal Science and Technology of Advanced Materials: Methods."
     publishedDateTime: 2023-05-23T13:49:00Z

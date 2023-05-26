@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/build-next-generation-ai-po
 webUrl: "https://azure.microsoft.com/en-us/blog/build-next-generation-ai-powered-applications-on-microsoft-azure/"
 type: article
 quality: 119
-heat: 1099
+heat: 1109
 published: true
 
 provider:
@@ -266,6 +266,20 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_uk/news/n/nvidia-mic/nvidia-microsoft-open-the-door-to-running-ai-programs-on-win_3f5p.1200.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "How Red Hat OpenShift on AWS (ROSA) accelerates enterprise modernization initiatives on cloud, delivering business application innovation"
+    excerpt: "When it comes to driving large technology transformation on Cloud, leveraging&#160;existing investments, and optimizing open innovation within the larger ecosystem with a hybrid cloud platform, IBM Consulting&#8482; offers several learnings to help organizations address the architecture and technology"
+    publishedDateTime: 2023-05-26T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/how-red-hat-openshift-on-aws-rosa-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 86
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/How-Red-Hat-OpenShift-on-AWS-ROSA-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation-scaled.jpg"
+        width: 2560
+        height: 1280
         isCached: true
   - title: "Elon Musk Wants to Challenge Google and Microsoft in AI"
     excerpt: "Twitter boss tells WSJ London event the social-media company could be cash-flow positive starting in June."

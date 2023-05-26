@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/news/stocks/nvidia-ai-chatgpt-st
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/nvidia-ai-chatgpt-stock-market-news-semiconductor-chips-artificial-intelligence-2023-5?amp"
 type: article
 quality: 98
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://www.reuters.com/resizer/C7nnSF94XZ_rbz4KRQHvfHGRt2w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KF4I2HVIS5OOJJSWS5G2D6PFXQ.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Nvidia just added $200 billion to its market cap on AI hype - and the gold rush may just be getting started"
+    excerpt: "Insider's Phil Rosen explains what's behind the key chip stock's meteoric rise."
+    publishedDateTime: 2023-05-26T10:40:00Z
+    webUrl: "https://www.businessinsider.com/nvidia-stock-rally-ai-artificial-intelligence-huange-markets-investors-2023-5"
+    ampWebUrl: "https://www.businessinsider.com/nvidia-stock-rally-ai-artificial-intelligence-huange-markets-investors-2023-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nvidia-stock-rally-ai-artificial-intelligence-huange-markets-investors-2023-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/646fa51cdcf4b30018881416?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Nvidia Hints At Upcoming AI-Focused Spectrum-4 Ethernet"
     excerpt: "It is no surprise at all that Nvidia’s datacenter business is making money hang over fist right now as generative AI makes machine learning a household"

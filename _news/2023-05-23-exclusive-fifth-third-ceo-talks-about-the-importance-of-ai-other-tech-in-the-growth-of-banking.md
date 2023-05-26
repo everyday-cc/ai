@@ -19,19 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Exclusive: Buzzy legal generative AI startup Casetext is in talks to be acquired"
-    excerpt: "This hypothesis may have found its first example in Casetext, a buzzy legal generative AI startup that is in talks to be acquired, according to people familiar with the situation. A potential deal could value the company in the hundreds millions of dollars ..."
-    publishedDateTime: 2023-05-25T14:36:00Z
-    webUrl: "https://www.businessinsider.com/legal-generative-artificial-intelligence-startup-casetext-acquired-2023-5"
+  - title: "In Inclusive Hiring, Emotional Intelligence Wins Over Artificial Intelligence"
+    excerpt: "Maybe in the future, there will be a mature AI solution that can handle the complex job of seeking out and assessing the optimal leader for a specific nuanced culture and point in time—but not yet."
+    publishedDateTime: 2023-05-23T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/05/23/in-inclusive-hiring-emotional-intelligence-wins-over-artificial-intelligence/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
+      name: Forbes
+      domain: forbes.com
+    quality: 64
     images:
-      - url: "https://i.insider.com/5f5679aa7ed0ee001e25dcdd?width=1200&format=jpeg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64638bb4c969f754de257b7e/0x0.jpg?format=jpg&crop=5306,2983,x1647,y0,safe&width=1200"
         width: 1200
-        height: 600
+        height: 675
+        isCached: true
+  - title: "Artificial general intelligence: Understanding the future of AI"
+    excerpt: "Discover the future of AI. Learn about the potential of AGI development, its implications for society and the workforce, and key ethical considerations."
+    publishedDateTime: 2023-05-22T13:48:00Z
+    webUrl: "https://interestingengineering.com/innovation/artificial-general-intelligence-understanding-future-ai"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 41
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/14/image/jpeg/B2Q8idGkZUlSMYKAUGMZkDx4mJ533yB9NsRlACRK.jpg"
+        width: 1920
+        height: 1281
         isCached: true
 
 secured: "XfkcEWSb3sAklDTQecmLPyMj+InQ5o3601e64v/9zpRvDDPniI1aZUDTUrTytLZkcdCacjA8R6G9urtUQFoUYqrKA+xasCkzcPrCH2lnPqG7znoji/1M4wexPvbRbVrwSD/8kmdysBeraF/EeQie7zs6X5Ises1sy/CsiVB3jYg248D6bt0FyXVpHyrfl27A26MRqifYmL/33VWBnwChFE/STAuFwIVSpToHXJib/DRrwIczNC/hGObuq+8guEHob+c9OWVCNbgIT84s7frO2AK3gVjhfS6Ndw55Yei81NFmy6vAwd3t384IjCXH+SzmDZ3Ek+vhxc7vJ62M1x2Ve9hrCEtWmTGoGIm4v9dP8uFDSK47lun7l1MNQ0mLqZ1NRBOGl982Jap4hE52rdrBwReYhX67zdpzonHrVrd51J0EC8sfA+DhPk0lXm1tUb+kvsDi3upJMPWZxVEdTW9UJAZoxKJDpT931XTMbb1Cnwwx39ehUoKy2rzBu49EZx6I20YT1AkJgNUIn2RHSi2PDQ==;x25b0gHvtMoarEBDsuGXTA=="

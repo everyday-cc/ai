@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence, democracy and the global order"
+    excerpt: "The sudden arrival of groundbreaking AI tools has created an urgent need for a more holistic and global approach to tech governance."
+    publishedDateTime: 2023-05-26T08:45:00Z
+    webUrl: "https://www.japantimes.co.jp/opinion/2023/05/26/commentary/world-commentary/ai-global-order/"
+    type: article
+    provider:
+      name: ジャパンタイムズ
+      domain: japantimes.co.jp
+    quality: 39
+    images:
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2023/05/np_file_229840-870x489.jpeg"
+        width: 870
+        height: 489
+        isCached: true
   - title: "AI: Urgent new laws needed to protect democracy and security, MPs warned"
     excerpt: "The Labour MP Darren Jones is to lead a Commons debate on artificial intelligence in which he is expected to call for new legislation to enable the UK to keep pace with the rapidly evolving technology"
     publishedDateTime: 2023-05-22T12:58:00Z
