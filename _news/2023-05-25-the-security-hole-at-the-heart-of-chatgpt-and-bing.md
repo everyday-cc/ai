@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "How ChatGPT Is Reshaping The C-Suite, With New AI Leadership Position"
+    excerpt: "A stunning forecast from the chipmaker - whose silicon solutions are powering the future with artificial intelligence (AI) chips - pushed the company’s stock up 24%. The company forecast revenue that was 50% higher than estimates, according to Reuters."
+    publishedDateTime: 2023-05-26T15:29:00Z
+    webUrl: "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/"
+    ampWebUrl: "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6470b943b202b5301a9d86b2/0x0.jpg?format=jpg&crop=3250,1523,x0,y6,safe&width=1200"
+        width: 1200
+        height: 562
+        isCached: true
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
     excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs."
     publishedDateTime: 2023-05-25T14:50:00Z
@@ -47,22 +63,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
         width: 1200
         height: 798
-        isCached: true
-  - title: "How ChatGPT Is Reshaping The C-Suite, With New AI Leadership Position"
-    excerpt: "A stunning forecast from the chipmaker - whose silicon solutions are powering the future with artificial intelligence (AI) chips - pushed the company’s stock up 24%. The company forecast revenue that was 50% higher than estimates, according to Reuters."
-    publishedDateTime: 2023-05-26T15:29:00Z
-    webUrl: "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/"
-    ampWebUrl: "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6470b943b202b5301a9d86b2/0x0.jpg?format=jpg&crop=3250,1523,x0,y6,safe&width=1200"
-        width: 1200
-        height: 562
         isCached: true
   - title: "5 Artificial Intelligence Use Cases More Promising Than ChatGPT"
     excerpt: "Spending on AI-centric systems will exceed a staggering $300 billion by 2026. Here are five use cases more promising than ChatGPT you may not be aware of."

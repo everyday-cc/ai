@@ -33,20 +33,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "AI-based task automation startup Servicely banks $3 million"
-    excerpt: "Servicely’s SaaS platform uses AI to augment and enhance the capabilities of enterprise service teams in IT, HR, and Facilities Management."
-    publishedDateTime: 2023-05-22T00:04:00Z
-    webUrl: "https://www.startupdaily.net/topic/funding/task-automation-startup-servicely-banks-3-million/"
-    type: article
-    provider:
-      name: Startup Daily
-      domain: startupdaily.net
-    quality: 37
-    images:
-      - url: "https://www.startupdaily.net/wp-content/uploads/2023/05/Dion-Williams.jpg"
-        width: 770
-        height: 513
-        isCached: true
   - title: "Dissecting the EU’s Artificial Intelligence Act: Implications and Industry Reaction"
     excerpt: "As artificial intelligence (AI) rapidly integrates into the fabric of our society, regulators worldwide are grappling with the conundrum of creating a comprehensive framework that guides AI usage. Pioneering a move in this direction,"
     publishedDateTime: 2023-05-25T20:19:00Z

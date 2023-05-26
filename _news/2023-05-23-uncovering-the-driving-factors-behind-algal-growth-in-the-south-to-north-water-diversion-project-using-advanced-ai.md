@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fifth Third CEO talks about the importance of AI, other tech in the growth of banking"
-    excerpt: "The AI is optimizing for the lifetime value of the customer relationships. Retaining your customers and making sure they’re satisfied is the single biggest lever at our disposal.'"
-    publishedDateTime: 2023-05-23T17:46:00Z
-    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2023/05/23/fifth-third-ceo-tim-spence-ai-fintechs.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 27
   - title: "Study Finds AI and Emerging Technologies Increasing Tension as Journalists Face Growing Challenges to Maintain Accuracy and Truth"
     excerpt: "State of the Media Report spotlights challenges and opportunities in rapidly changing media landscape “Accuracy” and “maintaining credibility as a trusted news source” are leading concerns for journalists,"
     publishedDateTime: 2023-05-25T01:30:00Z

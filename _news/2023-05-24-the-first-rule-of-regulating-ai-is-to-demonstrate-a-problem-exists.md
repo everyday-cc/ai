@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesbroughel/2023/05/24/the-first-rule
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesbroughel/2023/05/24/the-first-rule-of-regulating-ai-is-to-demonstrate-a-problem-exists/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 107
 published: true
 
 provider:

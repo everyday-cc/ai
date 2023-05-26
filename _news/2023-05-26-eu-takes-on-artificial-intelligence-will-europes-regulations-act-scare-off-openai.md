@@ -209,6 +209,20 @@ related:
         width: 506
         height: 380
         isCached: true
+  - title: "U.S., foreign countries begin push to regulate AI"
+    excerpt: "Regulations could have a significant impact on the research and implementation of products and technology in the security industry in the coming years."
+    publishedDateTime: 2023-05-26T16:17:00Z
+    webUrl: "https://www.securityinfowatch.com/cybersecurity/article/53061798/us-foreign-countries-begin-push-to-regulate-ai"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/05/16x9/bigstock_Futuristic_Robot_Artificial_In_476546497.6470d51075a88.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Need rules to trip AI rule?"
     excerpt: "It is hard to see, for instance, why driverless cars would unite to march on Washington. And even if an AI program came up with the most persuasive political slogan ever created, why would this program nominate an AI-equipped computer as the nominee for the next president?"
     publishedDateTime: 2023-05-25T18:39:00Z

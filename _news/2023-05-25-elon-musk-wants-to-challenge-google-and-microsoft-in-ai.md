@@ -408,8 +408,8 @@ related:
     quality: 78
   - title: "A leaked Amazon generative AI sales playbook shows how the company is going after ChatGPT-maker OpenAI, Microsoft and Google"
     excerpt: "The guidelines may help Amazon make a stronger push in generative AI, where Microsoft, OpenAI, Google and others have taken an early lead."
-    publishedDateTime: 2023-05-26T02:03:00Z
-    webUrl: "https://www.businessinsider.com/amazon-generative-ai-sales-playbook-going-after-openai-microsoft-google-2023-5?utmSource=twitter&utmContent=referral&utmTerm=topbar"
+    publishedDateTime: 2023-05-25T20:07:00Z
+    webUrl: "https://www.businessinsider.com/amazon-generative-ai-sales-playbook-going-after-openai-microsoft-google-2023-5"
     type: article
     provider:
       name: Business Insider

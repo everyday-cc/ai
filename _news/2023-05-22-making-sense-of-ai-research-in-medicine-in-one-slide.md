@@ -47,20 +47,6 @@ related:
         width: 700
         height: 342
         isCached: true
-  - title: "The Top Trends in Artificial Intelligence in 2023"
-    excerpt: "Artificial intelligence (AI ... Whether one is more likely to engage in AI as a consumer, a business professional, or for the management of their healthcare, these tools have become engrained into all aspects of our daily lives. In the near future ..."
-    publishedDateTime: 2023-05-22T00:00:00Z
-    webUrl: "https://www.mddionline.com/digital-health/top-trends-artificial-intelligence-2023"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 39
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_2023-1-18-110145.jpg"
-        width: 770
-        height: 400
-        isCached: true
   - title: "HHS CIO Karl Mathias Details 3 Promising Applications of AI in Health Care Sector"
     excerpt: "Department of Health and Human Services Chief Information Officer Dr. Karl Mathias highlighted three major areas of AI progress he’s seeing within the health care sector during his keynote address at the Potomac Officers Club ’s 4th Annual CIO Summit."
     publishedDateTime: 2023-05-22T10:01:00Z

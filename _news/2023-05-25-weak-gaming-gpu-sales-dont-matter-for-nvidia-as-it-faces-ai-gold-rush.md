@@ -598,6 +598,15 @@ related:
         width: 1440
         height: 901
         isCached: true
+  - title: "How Nvidia created the chip powering the generative AI boom"
+    excerpt: "“This is important as it lets us all train bigger models faster as this moves from a research to an engineering problem.” While the timing of the H100’s launch was ideal, Nvidia’s breakthrough in AI can be traced back almost two decades to an ..."
+    publishedDateTime: 2023-05-26T16:52:00Z
+    webUrl: "https://www.ft.com/content/315d804a-6ce1-4fb7-a86a-1fa222b77266"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 36
   - title: "Nvidia AI chip value skyrockets amid AI development boom"
     excerpt: "The company says it has been increasing its supply of chips as a response to the increase in demand for them after the emergence of ChatGPT."
     publishedDateTime: 2023-05-25T13:00:00Z

@@ -200,6 +200,20 @@ related:
         width: 506
         height: 380
         isCached: true
+  - title: "U.S., foreign countries begin push to regulate AI"
+    excerpt: "Regulations could have a significant impact on the research and implementation of products and technology in the security industry in the coming years."
+    publishedDateTime: 2023-05-26T16:17:00Z
+    webUrl: "https://www.securityinfowatch.com/cybersecurity/article/53061798/us-foreign-countries-begin-push-to-regulate-ai"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/05/16x9/bigstock_Futuristic_Robot_Artificial_In_476546497.6470d51075a88.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "EU takes on artificial intelligence: Will Europe's regulations act scare off OpenAI?"
     excerpt: "But with fears of fake news, video manipulation, robots taking control and our world being driven to an automatic version of Hell, there is much to discuss."
     publishedDateTime: 2023-05-25T18:52:00Z
@@ -255,6 +269,6 @@ related:
       domain: betakit.com
     quality: 9
 
-secured: "HWQr2zgdeNC+xoDtrfRFefUqk0BV5pu9N371pfFagQ8k9FLkvmuLCb/jWxILSmnBSSad6S0M8te506DbPPZpq8u19oMYeEVvnfvDsCJYxlU4vf0YRma0sRjJPegkzYBEhuMjDw+r/RD6YDK6G0thjsY0wf9av9sI8a0JQeLyp/c9vlH9HTsrB/FpZ4ctrMFeMMFq4doYZqC15uzyuA+4BcLUCFwz/8HStx/cJ9CpPbJ6S1lhfzQDGTDOnfUtug6OvFMnUv15Gd08OJ+Jq0Gdtw9CUUhSP9+GtGkiApUhGnaP6Uqg9Kcj+aglSFYgptoFYJ9Mp3vv1vsYBfsci8Rzcz+N+50/8BeHHZJFn7qt4Tk=;O2k6v772mI5T+zo8bMK0nA=="
+secured: "oV89HBum2sN3TbOgNQ85MlMAWGHjai7zzcuNt9p0r131fjN0eXOF6TjLVpAq8dQDG0szqExKz0/5wEz8blcOHUWtZCL1ULzs2ClTMukOqMR+d0IgrpzZ64ujmzBAYtY2GvKDJ7nSo7yaunGv4g+NhBuUu4WmmxztZDOJinv9C0ivm1HCrd1L4ZRbUavjD/vyAjUJousYonsZSXj4UumlktNL8uxu23oKtmqhqPnOG25J30BYvBVtdgmZi2WwsXv8Ml2wFdmU6bz8iNpL4flOnNhFKnKmKf/eqXLWHDUGG5JE6ZeHGLWSo4ThZBLzTCd8GkGA1V1crK87aADuh9JG416VdZLpvhsG3H7qLJ7+DTC7lDrREnfA9pMQcdhirpbytBDF8kCZHedmFyYzYgo9mAD3pI/oFHjDRs65rXgLcvDCu1mp4N7HKAqCmP1miN2HfX6m/OnuKopHH8dUhFBR2FaASkFZ2DmCvBttPLG7liz+S2vpLOm/WX1QQFdAE9RZrXX6vATZL/ruYOTHq0traQ==;gBhTDiyptlUoBoj+L9HHsw=="
 ---
 

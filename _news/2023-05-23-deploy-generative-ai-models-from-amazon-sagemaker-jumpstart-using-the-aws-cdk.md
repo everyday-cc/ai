@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-generative-ai
 webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-generative-ai-models-from-amazon-sagemaker-jumpstart-using-the-aws-cdk/"
 type: article
 quality: 116
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -98,6 +98,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/16/ml14223-arch-1260x618.jpg"
         width: 1260
         height: 618
+        isCached: true
+  - title: "Create high-quality images with Stable Diffusion models and deploy them cost-efficiently with Amazon SageMaker"
+    excerpt: "Text-to-image generation is a task in which a machine learning (ML) model generates an image from a textual description. The goal is to generate an image that closely matches the description, capturing the details and nuances of the text. This task is challenging because it requires the model to understand"
+    publishedDateTime: 2023-05-26T17:57:52Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-high-quality-images-with-stable-diffusion-models-and-deploy-them-cost-efficiently-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/26/featured-images-ml-14412.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "jA3IC4L9gPCeqsSGT8ZVUdwn+IrvLUpz0Fg5biZ6Txw/6DKFGB5+vzeh6zYi4MQPNOgD6ruhchNiM2S+6UsM/YMNccfCxC+rTfEn7hhYfyX1ygX2g/W5rKdABLTZ/X4PLXkDAFRvqhi9Q3YrHBvHeroZgLAl5VzomA5Oj2rZrvd9yiS36i1c625VmlRYiIlaB3TqV6WJ089Fx+96hjLgi/yiYfuOW0EVYZaULV1oqq9nMhx5RPOWZEAEEQgl1jH6x8TvjWXKi+ZsFbpUE9ADYGAy77fdB4AxGiEFwHad/PEoLpl8mADiEKa0chTb1tQMEf8V7We/PLu+mfugWN3q+lbuMX2lCUnIPsu52bL4qUg=;gKMh80bo6v8tGbTb4e74/w=="

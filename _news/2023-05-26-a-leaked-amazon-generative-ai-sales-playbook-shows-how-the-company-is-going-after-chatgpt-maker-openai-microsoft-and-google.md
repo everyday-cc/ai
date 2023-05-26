@@ -2,9 +2,9 @@
 category: news
 title: "A leaked Amazon generative AI sales playbook shows how the company is going after ChatGPT-maker OpenAI, Microsoft and Google"
 excerpt: "The guidelines may help Amazon make a stronger push in generative AI, where Microsoft, OpenAI, Google and others have taken an early lead."
-publishedDateTime: 2023-05-26T02:03:00Z
-originalUrl: "https://www.businessinsider.com/amazon-generative-ai-sales-playbook-going-after-openai-microsoft-google-2023-5?utmSource=twitter&utmContent=referral&utmTerm=topbar"
-webUrl: "https://www.businessinsider.com/amazon-generative-ai-sales-playbook-going-after-openai-microsoft-google-2023-5?utmSource=twitter&utmContent=referral&utmTerm=topbar"
+publishedDateTime: 2023-05-25T20:07:00Z
+originalUrl: "https://www.businessinsider.com/amazon-generative-ai-sales-playbook-going-after-openai-microsoft-google-2023-5"
+webUrl: "https://www.businessinsider.com/amazon-generative-ai-sales-playbook-going-after-openai-microsoft-google-2023-5"
 type: article
 quality: 76
 heat: -1
@@ -19,10 +19,10 @@ provider:
       height: 50
 
 topics:
+  - AWS AI
   - AI
   - AI in Sales
   - Microsoft AI
-  - AWS AI
 
 images:
   - url: "https://i.insider.com/5ef13e96aee6a8302d441d42?width=1200&format=jpeg"
@@ -1289,6 +1289,6 @@ related:
       domain: tmcnet.com
     quality: 6
 
-secured: "txL/3JsFW3M1W45Kxuy0nu+sOt8hVgI1GRBq9o99N26j614G8DA9GHkUnesaoAqn6ZSEc1OiWz/a/zWWAo38V5nfS9gapVPO9TdX2PO1Hi5S0IfNP94eWu4zgfEGJY2cuM2rIu0Uuw5iHtSLefEb3eVKAo3pi3MaDFpFul22CZ9Q5awVNdvdqvTnj0pkjHboB4varyZt7TkOEIDjILnZGczkFRa6upBkYVOJJSdTRWgnKzlyYHBiUwx3LVoN9/MLgl/Nv1xvqSTunFBvgcKiqhNRWYFJJgHQnvnmIN93nigGeNk7vt8quvlMs387qb5NVTzanHK7wJGgwFgblnPlDg9WpgHt0jlya6qSCMXvpLUPTPl3WVQ6hyzQi7EsGQzRRoTzJ6UlUI/HveNFyLJVygcxRF+6cfQjr89RGxfYHZ/kgS2H0zWla+D97Eva2J09UFKGzUNxWi69P+C6wIg3UvssuMfpLu8dCj2zn53XE+2WfflGvZu/37WGT6WWrABN2ncV4l851uyXT+/ZZuobvQ==;H8swwwFcWXElFZJlhgjchw=="
+secured: "6u+oWoBj5zyAfzcdp08ZdV6pQAsjSbYqQZu4uL99ht7EtHefbIrpndqsVsHBme4wPp6mTStrqfpbGjQQZlAK7hvNt81t8kdWH+OlRykqzVByZIgwZavLLTvARh0iGPmuavGLST85rlg1Y4HnGdUy1nZy9a87PgaPgIq2CIDn4noZRJkP/HLtl8tVyLYZF1DRQKCPLrevrVQI1k2cm/aCI7casYm0AZExZO8oBKEKwJaUyJ1ughUEGLK1Mgsu3zVafo2G+EL1zp+G3pAyD9JYMwclyf08bsoS8RTL9Yc8VuBtJ/PVYRxG2QipYNET0mIvpaMXkWIi8IbA2cyinktf36Z7Nco5zI0Mzs6w3IjEml0=;ZpfSTnzajoMrlcDj9PtP6g=="
 ---
 

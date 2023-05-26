@@ -3,8 +3,8 @@ category: news
 title: "AI startup Anthropic raises $450M for safety-focused chatbot"
 excerpt: "Yet while ChatGPT has faced criticism — and been tweaked — after offering users some concerning results, Anthropic aims to make its chatbot more cautious from the start. Anthropic’s goal is for Claude to be less prone than other chatbots to manipulation that will produce harmful or offensive results."
 publishedDateTime: 2023-05-23T21:58:00Z
-originalUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?n=%5CL"
-webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?n=%5CL"
+originalUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/"
+webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/"
 ampWebUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
 type: article
@@ -158,6 +158,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "6nRmFuOFGq//kSblV9tFdOoJ14l0arUBLJpp865CgGptGeS6pA5NeRP2XKyrgnFlKHqEcYp6DwSiBgsSbAx0EzOu1CmvhzLBCmhxgykHsxqj/QWqIILWRvdU99jNDlHn+VM5WWmSEInWbrYHwwQO4rMaPaQ4Bgo2TUvQsl2v5vZEg9bBQLNkKLU9wjUOS10gotteXreqe0z133I9QDFuyRxGVCmLF/BQM4vHQr8Xawt661u5miroYjconJ0W4qxLYXmIHSyR7w4FO1FWFXKbe39mJiK6tfmBgSnGT03zQoFwWHFiJde0o1dYNSFdr3lwHLHbEa27CUAZ7P/MXuujXOQvAu8XA0sgiM/fWK4SIa0=;0C7nG9LUlUR3rYm2j+3Ijw=="
+secured: "eD7CQ9j0AIHzzjfJhrZ177dQgGAUp+EGKoVt8JcFUQXVRwiMIL6+t6v7Mq7j19mH2b0ZcOuCeVwp8EIjbgb7/VKvT2VdmyDR5hImQU7FPGAx5ly78oIyMC5QvHLH+PA/WmFb1xAvZpPxEx9H6Z6rfJgjdj+TA58niakRCsAqMxHVJxLaWpZMkUWDUcb6MZMMcVopDQdz4TO5HZEkVRSpdJR+9epQ27gsW+1QlLPWFjZxteiFiuC5NHPEGKQBQ0diEhIUdDtO00WVH+v5gYRoihp3PGTGswMUoJFZc9to+mORrK4WI4Bl8i1fIL3LmACp5TQJjfc62BMBQ9aadvc72xmfq2FVfrIMTALaIB9I7mw=;9aGLp0i5ea8Ym/4N3d5bnQ=="
 ---
 

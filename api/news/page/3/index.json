@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/jamesbroughel/2023/05/24/the-first-rule-of-regulating-ai-is-to-demonstrate-a-problem-exists/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -61,7 +61,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-document-validation-and-fraud-detection-in-the-mortgage-underwriting-process-using-aws-ai-services-part-1/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -113,7 +113,7 @@
       "originalUrl": "https://www.zdnet.com/article/3-ways-openai-says-we-should-start-to-tackle-ai-regulation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 267,
+      "heat": 277,
       "tags": null,
       "images": [
         {
@@ -164,7 +164,7 @@
       "originalUrl": "https://www.businessinsider.com/bill-gates-highlights-inflection-as-potential-ai-winner-2023-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -913,6 +913,57 @@
       ]
     },
     {
+      "path": "_news/2023-05-24-the-ai-driven-rally-in-big-tech-stocks-is-forcing-us-to-consider-some-trimming.md",
+      "title": "The AI-driven rally in big tech stocks is forcing us to consider some trimming",
+      "excerpt": "We're thrilled to see so many of our tech names working and do believe in the benefits of AI, the speed of these moves has us a bit on edge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/05/24/the-ai-driven-rally-in-big-tech-stocks-is-forcing-us-to-consider-some-trimming.html",
+      "originalUrl": "https://www.cnbc.com/2023/05/24/the-ai-driven-rally-in-big-tech-stocks-is-forcing-us-to-consider-some-trimming.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107176653-1673370154829-NUP_200112_10056.jpg?v=1684922401&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-5-key-threats-ai-poses-to-business-owners-in-2023-and-how-to-survive-them.md",
       "title": "5 Key Threats AI Poses To Business Owners In 2023 (and How To Survive Them)",
       "excerpt": "Business owners are freaking out about artificial intelligence, and you can see why. Here are the 5 key threats AI poses, and how you can stop them ruining your business.",
@@ -1208,57 +1259,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-introducing-chat-the-worlds-first-generative-ai-etf.md",
-      "title": "Introducing CHAT, the World’s First Generative AI ETF",
-      "excerpt": "An old adage says to make hay while the sun is shining, and with interest in generative AI surging thanks to the likes of OpenAI’s ChatGPT and",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/introducing-chat-the-world-s-first-generative-ai-etf-1032346873",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/introducing-chat-the-world-s-first-generative-ai-etf-1032346873",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/05/image-677-1024x548.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 1024,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T19:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

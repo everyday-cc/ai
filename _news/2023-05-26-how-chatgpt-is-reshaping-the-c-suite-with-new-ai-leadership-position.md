@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-re
 ampWebUrl: "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/amp/"
 type: article
-quality: 89
+quality: 91
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6470b943b202b5301a9d86b2/0x0.jpg?format=jpg&crop=3250,1523,x0,y6,safe&width=1200"

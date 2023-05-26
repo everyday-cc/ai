@@ -141,6 +141,20 @@ related:
         width: 1194
         height: 875
         isCached: true
+  - title: "Letter from the editor on generative AI and the FT"
+    excerpt: "As editor of this newspaper, nothing matters to me more than the trust of readers in the quality journalism we produce. Quality means above all accuracy. It also means fairness and transparency. That’s why today I am sharing my current thinking on the use of generative artificial intelligence in the newsroom."
+    publishedDateTime: 2023-05-26T14:53:00Z
+    webUrl: "https://www.ft.com/content/18337836-7c5f-42bd-a57a-24cdbd06ec51?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "Mai Writer Uses Generative AI To Double Marketing Output and Conversions"
     excerpt: "Kenn Costales, the Forbes 30 Under 30 Founder of AI startup Mai, is inviting copywriters, content creators, and digital marketing professionals to maximize their productivity"
     publishedDateTime: 2023-05-23T16:34:00Z
@@ -161,6 +175,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 33
+  - title: "As generative AI accelerates coding for developers, the long-term impact is just beginning"
+    excerpt: "They are happier because they can pursue the creative work they signed up for.” One of the areas where ChatGPT is beginning to have a transformational effect is in the gaming industry. Developers of video games have been major AI users for some time now,"
+    publishedDateTime: 2023-05-26T15:50:00Z
+    webUrl: "https://siliconangle.com/2023/05/26/as-generative-ai-accelerates-coding-for-developers-the-long-term-impact-is-just-beginning-kubeconeu/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 29
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/RobotAtComp.jpg"
+        width: 882
+        height: 498
+        isCached: true
   - title: "Tech Giants Trigger Generative AI Investment Boom"
     excerpt: "From Microsoft to Amazon, Google to Meta, everyone’s in on the artificial intelligence hype, and the money’s following suit."
     publishedDateTime: 2023-05-24T13:59:00Z

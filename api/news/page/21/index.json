@@ -2,6 +2,57 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-05-11-revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways.md",
+      "title": "Revolve And Maison Meta Bring AI Fashion Week To Physical Runways",
+      "excerpt": "AI Fashion Week by Maison Meta and Revolve hopes to bridge the gap between AI-generated designs and IRL fashion, and launch the careers of new designers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jennywang/2023/05/11/revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways/",
+      "originalUrl": "https://www.forbes.com/sites/jennywang/2023/05/11/revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645cf94b82db4d2d30cb5cb8/0x0.jpg?format=jpg&crop=1586,891,x0,y18,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jennywang/2023/05/11/revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jennywang/2023/05/11/revolve-and-maison-meta-bring-ai-fashion-week-to-physical-runways/amp/",
+      "publishedDateTime": "2023-05-11T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-machine-learning-security-principles-ebook-worth-3799-free-download.md",
       "title": "Machine Learning Security Principles eBook (worth $37.99) - free download",
       "excerpt": "The first part of this book will explore these processes in more depth, which will help you in understanding the role security plays in machine learning. As you progress to the second part, you’ll learn more about the environments where ML is commonly ...",
@@ -1182,57 +1233,6 @@
         "Machine Learning",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-artificial-intelligence-consulting-service-market.md",
-      "title": "Artificial Intelligence Consulting Service Market",
-      "excerpt": "Research Reports has published a new report titled as \"Artificial Intelligence Consulting Service Market\" by End",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-consulting-service-market-2023-05-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-consulting-service-market-2023-05-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

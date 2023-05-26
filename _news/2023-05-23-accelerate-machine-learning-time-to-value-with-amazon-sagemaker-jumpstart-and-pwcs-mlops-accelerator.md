@@ -100,6 +100,20 @@ related:
         width: 1260
         height: 618
         isCached: true
+  - title: "Create high-quality images with Stable Diffusion models and deploy them cost-efficiently with Amazon SageMaker"
+    excerpt: "Text-to-image generation is a task in which a machine learning (ML) model generates an image from a textual description. The goal is to generate an image that closely matches the description, capturing the details and nuances of the text. This task is challenging because it requires the model to understand"
+    publishedDateTime: 2023-05-26T17:57:52Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-high-quality-images-with-stable-diffusion-models-and-deploy-them-cost-efficiently-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/26/featured-images-ml-14412.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "8tay2MYIxZfpdJDIrhCaEWcjEF+4kYfCMITVWAGtNQXkfgZkypMJWrVWGQmXgGgYIq9IyJQsrddHVA8ME6XEDlfpOJX6RtIYgKtjSM50gXTevMZREmPhGkb+6EpX6xBnTFzOHbS+oDpof7Ill9rywklzqh20ARpH7PpQo6mMNeRh5+S67GdwVBa23Ce/cc7Tf4RE6BlotX9G9XdPBMuGutifarh9agokjJj3Ecm6TTlbybF7dxFRziRJhr2/+29Q+vfPjFFS8Mh5n/ANJZlxlOsZF0aIovos/9r1MYTEWMIZTEuhhSX2dzK6AATjT0cKvquMuVGjVuNwY64OMU03k/dFm/yKsTwneR6jS+eo554=;fFxEyHBj6RNbcUEwM1WYfQ=="
 ---

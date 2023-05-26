@@ -7,7 +7,7 @@ originalUrl: "https://www.foxnews.com/tech/tsas-facial-recognition-air-travel-sp
 webUrl: "https://www.foxnews.com/tech/tsas-facial-recognition-air-travel-sparks-privacy-outrage"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -24,20 +24,6 @@ topics:
   - Computer Vision
 
 related:
-  - title: "TSA’s Facial Recognition Raises New Concerns"
-    excerpt: "Passengers should get ready for more possible security upgrades in the future if TSA has its way. TSA is currently testing its new facial recognition technology at a number of airports throughout the U.S., identifying and verifying passengers by their ..."
-    publishedDateTime: 2023-05-22T00:00:00Z
-    webUrl: "https://www.travelpulse.com/News/Airlines-Airports/TSA-s-Facial-Recognition-Raises-New-Concerns"
-    type: article
-    provider:
-      name: TravelPulse
-      domain: travelpulse.com
-    quality: 54
-    images:
-      - url: "https://ik.imgkit.net/3vlqs5axxjf/MM-TP/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/dec34c0d-cb4e-a970-4f1f-a2f8968f57ad/source.jpg?tr=w-1200%2Cfo-auto"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "TSA tests facial recognition at more airports, raising concerns on privacy"
     excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"
     publishedDateTime: 2023-05-22T07:10:00Z

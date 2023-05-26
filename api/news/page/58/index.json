@@ -2,6 +2,58 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2023-04-21-israel-leads-with-early-ai-battlefield-integration-the-future-of-defense-systems.md",
+      "title": "Israel leads with early AI battlefield integration: 'The future of defense systems'",
+      "excerpt": "Artificial intelligence has existed in some form over the past few decades, but only recently has it reached the level of potentially disrupting economic and social systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/israel-leads-early-ai-battlefield-integration-future-defense-systems",
+      "originalUrl": "https://www.foxnews.com/world/israel-leads-early-ai-battlefield-integration-future-defense-systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d7475860-cb58-4b4b-ad40-e7b4075c8e33/3f4696d9-bca5-42aa-8098-7dc1bdfe3720/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/israel-leads-early-ai-battlefield-integration-future-defense-systems.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/israel-leads-early-ai-battlefield-integration-future-defense-systems.amp",
+      "publishedDateTime": "2023-04-20T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-artificial-neural-networks-market-analysis-and-forecast-to-2030trends-with-cagr.md",
       "title": "Artificial Neural Networks Market Analysis and Forecast to 2030|Trends with CAGR",
       "excerpt": "The research report on the \"Artificial Neural Networks Market\" Report helps to Development Strategy to optimise",
@@ -1114,49 +1166,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-pensions-pressure-electric-cars-and-ai-ethics.md",
-      "title": "Pensions pressure, electric cars and AI ethics",
-      "excerpt": "The government may have to raise the state pension age to 70 by 2050 due to pressure on the public finances. Ian King is joined by Carl Emmerson, deputy director of the Institute for Fiscal Studies - who says nine in 10 workers are saving less than needed for a decent standard of living in retirement.",
-      "sourceUrl": null,
-      "webUrl": "https://news.sky.com/story/pensions-pressure-electric-cars-and-ai-ethics-12861867?dcmp=snt-sf-twitter",
-      "originalUrl": "https://news.sky.com/story/pensions-pressure-electric-cars-and-ai-ethics-12861867?dcmp=snt-sf-twitter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://e3.365dm.com/21/06/1600x900/skynews-ian-king-business-podcast_5403721.png?20230201132237",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.sky.com/story/amp/pensions-pressure-electric-cars-and-ai-ethics-12861867",
-      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/pensions-pressure-electric-cars-and-ai-ethics-12861867",
-      "publishedDateTime": "2023-04-20T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky",
-        "domain": "sky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

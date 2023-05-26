@@ -26,20 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "12 Best Artificial Intelligence (AI) Stocks To Buy For 2023"
-    excerpt: "The artificial intelligence (AI) chatbot conducts nearly ... All are positioned for gains as robotics and AI adoption rises. Sector exposure is primarily in technology, industry and healthcare."
-    publishedDateTime: 2023-05-22T00:00:00Z
-    webUrl: "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/"
+  - title: "3 Top AI Stocks That Pay Dividends -- and 1 Yields Over 5%"
+    excerpt: "Sure, IBM hasn't been at the center of attention with the recent surge in interest in AI. However, the company has been an AI pioneer for a long time. For example, its Watson technology made headlines in 2011 by beating Jeopardy! champions Brad Rutter and ..."
+    publishedDateTime: 2023-05-25T09:53:00Z
+    webUrl: "https://www.fool.com/investing/2023/05/25/3-top-ai-stocks-that-pay-dividends-1-yields-over-5/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63eeaae555e0f25c5c2ed0f6/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://g.foolcdn.com/editorial/images/733282/dividends-blackboard-sketch-doodle.jpg"
+        width: 2059
+        height: 1456
         isCached: true
+  - title: "3 AI Stocks You Should Be Buying Hand Over Fist"
+    excerpt: "Therefore, investing in the chipmaker that provides the most high-performance AI chips is the ideal way to capitalize on this trend. On the date of publication, Chris MacDonald did not have (either directly or indirectly) any positions in the securities ..."
+    publishedDateTime: 2023-05-23T09:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-you-should-be-buying-hand-over-fist-1032344620"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Five of the Top Artificial Intelligence Stocks to Buy Now"
     excerpt: "The artificial intelligence story is fueling a massive rally in tech. But it’s far from over. In fact, as AI revolutionizes just about every industry out there, it could create a $1.81 trillion opportunity,"
     publishedDateTime: 2023-05-25T15:20:00Z

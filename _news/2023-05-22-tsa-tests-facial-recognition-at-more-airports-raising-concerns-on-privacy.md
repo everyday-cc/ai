@@ -34,20 +34,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 66
-  - title: "TSA’s Facial Recognition Raises New Concerns"
-    excerpt: "Passengers should get ready for more possible security upgrades in the future if TSA has its way. TSA is currently testing its new facial recognition technology at a number of airports throughout the U.S., identifying and verifying passengers by their ..."
-    publishedDateTime: 2023-05-22T00:00:00Z
-    webUrl: "https://www.travelpulse.com/News/Airlines-Airports/TSA-s-Facial-Recognition-Raises-New-Concerns"
-    type: article
-    provider:
-      name: TravelPulse
-      domain: travelpulse.com
-    quality: 54
-    images:
-      - url: "https://ik.imgkit.net/3vlqs5axxjf/MM-TP/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/dec34c0d-cb4e-a970-4f1f-a2f8968f57ad/source.jpg?tr=w-1200%2Cfo-auto"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "The TSA Is Testing Facial Recognition Technology to Help Streamline Airport Security"
     excerpt: "In an effort to enhance and streamline airport security, the TSA has been quietly rolling out a facial recognition technology pilot program at airports across the country. Instead of handing an ID card or passport to a TSA officer who manually makes ..."
     publishedDateTime: 2023-05-22T21:27:00Z

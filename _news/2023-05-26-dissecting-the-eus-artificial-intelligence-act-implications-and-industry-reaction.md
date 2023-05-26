@@ -39,20 +39,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "AI-based task automation startup Servicely banks $3 million"
-    excerpt: "Servicely’s SaaS platform uses AI to augment and enhance the capabilities of enterprise service teams in IT, HR, and Facilities Management."
-    publishedDateTime: 2023-05-22T00:04:00Z
-    webUrl: "https://www.startupdaily.net/topic/funding/task-automation-startup-servicely-banks-3-million/"
-    type: article
-    provider:
-      name: Startup Daily
-      domain: startupdaily.net
-    quality: 37
-    images:
-      - url: "https://www.startupdaily.net/wp-content/uploads/2023/05/Dion-Williams.jpg"
-        width: 770
-        height: 513
-        isCached: true
   - title: "Global Automated Machine Learning (AutoML) Market Report 2023: Increasing Need for Accurate Fraud Detection Drives Growth"
     excerpt: "Market by Offering (Solutions & Services), Application (Data Processing, Model Selection, Hyperparameter Optimization & Tuning, Feature Engineering, Model Ensembling), Vertical and Region - Global Forecast to 2028\" report has been added to  ResearchAndMarkets."
     publishedDateTime: 2023-05-24T22:39:00Z

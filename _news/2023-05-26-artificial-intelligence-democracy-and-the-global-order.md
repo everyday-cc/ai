@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Artificial intelligence, democracy and the global order"
-excerpt: "The sudden arrival of groundbreaking AI tools has created an urgent need for a more holistic and global approach to tech governance."
-publishedDateTime: 2023-05-26T08:45:00Z
-originalUrl: "https://www.japantimes.co.jp/opinion/2023/05/26/commentary/world-commentary/ai-global-order/"
-webUrl: "https://www.japantimes.co.jp/opinion/2023/05/26/commentary/world-commentary/ai-global-order/"
+excerpt: "Future historians may well mark the second half of March as the moment when the era of artificial intelligence (AI) truly began. In the space of just two weeks, the world witnessed the launch of GPT-4,"
+publishedDateTime: 2023-05-26T16:00:00Z
+originalUrl: "https://www.taipeitimes.com/News/editorials/archives/2023/05/27/2003800500"
+webUrl: "https://www.taipeitimes.com/News/editorials/archives/2023/05/27/2003800500"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: ジャパンタイムズ
-  domain: japantimes.co.jp
+  name: The Taipei Times
+  domain: taipeitimes.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://cdn-japantimes.com/wp-content/uploads/2023/05/np_file_229840-870x489.jpeg"
-    width: 870
-    height: 489
+  - url: "https://www.taipeitimes.com/images/2023/05/27/p09-230527-gp.jpg"
+    width: 800
+    height: 620
     isCached: true
 
 related:
@@ -49,6 +49,6 @@ related:
       domain: inews.co.uk
     quality: 35
 
-secured: "jkMnkybTtA72F/eXepQlIy1lF5R1TR56RDIMFgwBCyon7dCHBnKUuUg9nBjnvRocD2+7k058n83DtD2ONDk+SuLtgrgaBcIZIaUtWQtSpN8a6f1PzUgl8zDDFYyeVSSyCqOxOqKtC4U9EKl0Ug3mvUJx1e/HahSwR/NXH+z6E6UACXn33VMhJRBGSK+AXMySjnidJsNEplSLHmKx1MQVvf8BxWy+uI2aican5jsJAncAUZEsM4TiwGM41N2z0bm0XqVpC61z5wYifJ6glfWfzvdxKZZDzDEFmPYR9q7rMlcTuRwktoZEwvlXW7oPfz0cNHtv4v/xQyp0CHdTQOU7IFbdx2nQtWa0NcK71I4RW2Y=;5hJn23514vEcwIQsPUqnLA=="
+secured: "wrZAzD67VAb7J+ImhyewOnNjlp8NAWEpk9dzYi6diRRl4rL+b2YW7XhpFs5TZ5noGKS2Dk9vcsIQHGCEQt4Eg8nQBdmBXwdktopbnoNDc4YRvPlIqaxw7MAnaWb6k8wNWsp4B7rOV/v3R3SDaVGli01Gxd7FwhZIYI6NSTCtknaQHqwG4GVexngAi7eCmi3HuRfOMEwBmZPKa1Rn71muUftcfKnmyfiCGVGzmZWh0DtM6AShYs2BzLOhdxTpOMsJ+DBo+eHVTi2GmBjqs5ZsJ8ssxw9OLsTlk3MvLhPYzAiIwMnCKZtCgMNOJNQ/B8WFpfH/vwa9JKDsJgCB9uf1dLLGHZISvOLW41bF5CWzfSA=;2F1O9nL4DJfES5nY9vd5tg=="
 ---
 

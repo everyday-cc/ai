@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressi
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressing-the-ethical-use-of-ai-in-healthcare/"
 type: article
 quality: 81
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       - url: "https://cdn.countercurrents.org/wp-content/uploads/2023/05/artificial-intellingence-AI-Health-Doctor.jpg"
         width: 700
         height: 342
-        isCached: true
-  - title: "The Top Trends in Artificial Intelligence in 2023"
-    excerpt: "Artificial intelligence (AI ... Whether one is more likely to engage in AI as a consumer, a business professional, or for the management of their healthcare, these tools have become engrained into all aspects of our daily lives. In the near future ..."
-    publishedDateTime: 2023-05-22T00:00:00Z
-    webUrl: "https://www.mddionline.com/digital-health/top-trends-artificial-intelligence-2023"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 39
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_2023-1-18-110145.jpg"
-        width: 770
-        height: 400
         isCached: true
   - title: "Making sense of AI research in medicine, in one slide"
     excerpt: "Research on artificial intelligence in health care runs the gamut of risky but rewarding to relatively useless. Here's what one expert makes of it."

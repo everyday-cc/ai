@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "Artificial intelligence, democracy and the global order"
-    excerpt: "The sudden arrival of groundbreaking AI tools has created an urgent need for a more holistic and global approach to tech governance."
-    publishedDateTime: 2023-05-26T08:45:00Z
-    webUrl: "https://www.japantimes.co.jp/opinion/2023/05/26/commentary/world-commentary/ai-global-order/"
+    excerpt: "Future historians may well mark the second half of March as the moment when the era of artificial intelligence (AI) truly began. In the space of just two weeks, the world witnessed the launch of GPT-4,"
+    publishedDateTime: 2023-05-26T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2023/05/27/2003800500"
     type: article
     provider:
-      name: ジャパンタイムズ
-      domain: japantimes.co.jp
+      name: The Taipei Times
+      domain: taipeitimes.com
     quality: 39
     images:
-      - url: "https://cdn-japantimes.com/wp-content/uploads/2023/05/np_file_229840-870x489.jpeg"
-        width: 870
-        height: 489
+      - url: "https://www.taipeitimes.com/images/2023/05/27/p09-230527-gp.jpg"
+        width: 800
+        height: 620
         isCached: true
   - title: "AI: Urgent new laws needed to protect democracy and security, MPs warned"
     excerpt: "The Labour MP Darren Jones is to lead a Commons debate on artificial intelligence in which he is expected to call for new legislation to enable the UK to keep pace with the rapidly evolving technology"
