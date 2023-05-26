@@ -23,6 +23,22 @@ images:
     height: 958
     isCached: true
 
+related:
+  - title: "Can AI Read Your Mind?"
+    excerpt: "By analyzing fMRI scans, mind-reading technology can now translate brain activity into language. How accurate is it? Will we still have freedom of thought?"
+    publishedDateTime: 2023-05-26T13:00:00Z
+    webUrl: "https://www.discovermagazine.com/technology/can-ai-read-your-mind"
+    type: article
+    provider:
+      name: Discover Magazine
+      domain: discovermagazine.com
+    quality: 37
+    images:
+      - url: "https://images.ctfassets.net/cnu0m8re1exe/6XJd4OiEI6opofszh2hCOz/d3e5c3789bec409723ba1ac1292066ef/Untitled_design_-_2023-05-24T143035.526.png"
+        width: 1300
+        height: 866
+        isCached: true
+
 secured: "TT8mI0yujanjhZXsQNQnCCK8wwsMKMvHxykwSDu1CgdUkSkLnkjLO77tplgJ1z1EvuenUYqy1geXpc8Fkqtsno2nBvHQwR1dGrFRtROuiFFQS7g1e96rJn3lMQQRgGJeBG3eg2sxgTApk2x/qJglqUCAG5MMNr3Pk5Afe1/pgR21OSojdR0nA28eEcZ9MDgm5UsnAmBTCJyb7zqGtVJ6XnabxcPk6r+FMfA31+95M/NeGlmgQAhetdsLkCUwmhsZ+3HbLcHl93tF4wUT23NdtaX6ZY4JoZ35nV+FqbdXeQ+IYoKHv4rSiTkWmwJkybJxiKeKy0C2liz/kplVYZOw5MY7tt8yU3ptv9BEw2vwP/QSLYo11kT+wVYRQmoVRyIQQLVPF1SdkwdSXjFR7W2erxCeB2inmUgH0huu3yOxWecX+KdUPpJ7tTHNZmbwJhBXPP+GaXFutl1So08/+rQnq0ZBWzqKWXfmaKc1kj5MA8iaUT9wTaVFFHl4IGP/9kKmDJxEQqyXOZVoz9+kj+CfNg==;8MSFDQCTDVZfZ6ZJ7GHZAQ=="
 ---
 

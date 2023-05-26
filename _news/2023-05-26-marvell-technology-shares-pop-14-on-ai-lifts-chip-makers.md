@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/marvell-technology-shares-pop-
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/marvell-technology-shares-pop-14-on-ai-lifts-chip-makers-74001f2e"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Marvell Technology Stock Jumps as Chip Stocks Keep Rising"
+    excerpt: "A day after optimism about the future for AI led shares of Nvidia higher, Marvell Technology stock is making its big move with chip stocks continuing to climb. The stock was recently up more than 27%,"
+    publishedDateTime: 2023-05-26T15:00:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-26-2023/card/marvell-technology-stock-jumps-as-chip-stocks-keep-rising-z6xLa5PPADAItygaUQPj"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-789639?width=600"
+        width: 600
+        height: 800
+        isCached: true
   - title: "Shares of Marvell jump sky-high as it forecasts AI chip revenue to double"
     excerpt: "Marvell Technology Inc. topped expectations in its fiscal first-quarter financial results today and said it’s expecting revenue from artificial intelligence to at least double this year, sending its stock sky-high in extended trading."
     publishedDateTime: 2023-05-26T01:19:00Z

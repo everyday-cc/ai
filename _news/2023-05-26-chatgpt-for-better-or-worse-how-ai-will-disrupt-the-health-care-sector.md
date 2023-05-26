@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "How ChatGPT Is Reshaping The C-Suite, With New AI Leadership Position"
+    excerpt: "A stunning forecast from the chipmaker - whose silicon solutions are powering the future with artificial intelligence (AI) chips - pushed the company’s stock up 24%. The company forecast revenue that was 50% higher than estimates, according to Reuters."
+    publishedDateTime: 2023-05-26T15:29:00Z
+    webUrl: "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/"
+    ampWebUrl: "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6470b943b202b5301a9d86b2/0x0.jpg?format=jpg&crop=3250,1523,x0,y6,safe&width=1200"
+        width: 1200
+        height: 562
+        isCached: true
   - title: "5 Artificial Intelligence Use Cases More Promising Than ChatGPT"
     excerpt: "Spending on AI-centric systems will exceed a staggering $300 billion by 2026. Here are five use cases more promising than ChatGPT you may not be aware of."
     publishedDateTime: 2023-05-25T16:20:00Z
@@ -282,6 +298,15 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Amazon’s answer to ChatGPT seen as incomplete solution"
+    excerpt: "Amazon.com Inc.’s cloud customers are clamoring to get their hands on the ChatGPT-style technology the company unveiled six weeks ago. But instead of being allowed to test it, many are"
+    publishedDateTime: 2023-05-25T03:30:00Z
+    webUrl: "https://www.havasunews.com/nation/amazon-s-answer-to-chatgpt-seen-as-incomplete-solution/article_5a4c7392-faaa-11ed-be74-3f8cfaab4220.html"
+    type: article
+    provider:
+      name: Havasu News
+      domain: havasunews.com
+    quality: 4
 
 secured: "j3p8T81HuyHdpyIqnhNU6J6Ua448P/aOq8k1m3a/dQZ6maG5P+jpH1AaXL5iYuVo35Lm5Swpn1YRnrhcuC/cGganXe47bXn8xlnvq8wW0BTaCxjB7mdumMno7r9mvFBjMhRd6x5I21xGGBtgirpF/P+VKpjG/h0x4SW6tpkXQ7qogGt/cvk9o6LHJAS5IqKhuLDjiLDKXGZkOZuDjt8b02Ad1MQOM6ASEkn6fLKTU+vmHN6WI21j0AOBs1cLGyiR9fqWeLuYipjkquCnMZPH8Dch/a638M4FHMGdW1v3bbo+NtZGLzvdna3PujsR1Go74E1R3x8j1Nj9eVWZXh0usLn/P25tqb91jHmxBEycuLA=;tqudL6pa3rTIkGBaucDc5g=="
 ---

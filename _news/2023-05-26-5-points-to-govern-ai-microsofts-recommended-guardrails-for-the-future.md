@@ -433,6 +433,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft-powered AI chatbot ‘Jugalbandi’ is here. All you need to know"
+    excerpt: "The made in India Artificial intelligence chatbot currently understands 10 of the 22 official Indian languages and covers 171 government programs."
+    publishedDateTime: 2023-05-26T15:00:00Z
+    webUrl: "https://www.hindustantimes.com/technology/jugalbandi-microsoft-ai-chatbot-features-open-source-language-technology-news-ai4bharat-project-101685111840575.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/jugalbandi-microsoft-ai-chatbot-features-open-source-language-technology-news-ai4bharat-project-101685111840575-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/jugalbandi-microsoft-ai-chatbot-features-open-source-language-technology-news-ai4bharat-project-101685111840575-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 76
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/05/26/1600x900/jugalbandi_ai_chatbot_microsoft_1685113035503_1685113045220.PNG"
+        width: 1600
+        height: 899
+        isCached: true
   - title: "Microsoft brings latest innovations in cloud, data & AI to COMEX 2023"
     excerpt: "Through the Azure platform, the intelligent Microsoft Cloud offers public and private enterprises the ability to deliver new business models and boost the speed of innovation and time to market. Microsoft’s AI technologies are protected by industry ..."
     publishedDateTime: 2023-05-24T05:56:00Z

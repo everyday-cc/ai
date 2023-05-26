@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/chatgpt-prompt-injection-attack-security
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chatgpt-prompt-injection-attack-security/amp"
 type: article
 quality: 91
-heat: 281
+heat: 301
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
         width: 1200
         height: 798
+        isCached: true
+  - title: "How ChatGPT Is Reshaping The C-Suite, With New AI Leadership Position"
+    excerpt: "A stunning forecast from the chipmaker - whose silicon solutions are powering the future with artificial intelligence (AI) chips - pushed the company’s stock up 24%. The company forecast revenue that was 50% higher than estimates, according to Reuters."
+    publishedDateTime: 2023-05-26T15:29:00Z
+    webUrl: "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/"
+    ampWebUrl: "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6470b943b202b5301a9d86b2/0x0.jpg?format=jpg&crop=3250,1523,x0,y6,safe&width=1200"
+        width: 1200
+        height: 562
         isCached: true
   - title: "5 Artificial Intelligence Use Cases More Promising Than ChatGPT"
     excerpt: "Spending on AI-centric systems will exceed a staggering $300 billion by 2026. Here are five use cases more promising than ChatGPT you may not be aware of."
@@ -288,6 +304,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 18
+  - title: "Amazon’s answer to ChatGPT seen as incomplete solution"
+    excerpt: "Amazon.com Inc.’s cloud customers are clamoring to get their hands on the ChatGPT-style technology the company unveiled six weeks ago. But instead of being allowed to test it, many are"
+    publishedDateTime: 2023-05-25T03:30:00Z
+    webUrl: "https://www.havasunews.com/nation/amazon-s-answer-to-chatgpt-seen-as-incomplete-solution/article_5a4c7392-faaa-11ed-be74-3f8cfaab4220.html"
+    type: article
+    provider:
+      name: Havasu News
+      domain: havasunews.com
+    quality: 4
 
 secured: "0oI8DR9/gz1QBhxjn+qUYXK9qS3cuju9WXnauKOgLZxwIj49uxvqbLow+Xo/r5ApeKGO29M+Jn1w0Vf8u88U9CpFmiZPOJWZpL0spaDhIVoGaz2N3eIrdfQa7aEEPDPwGdKOPCZIGfOgDPLbClmHsqngny7jhrmRNqQj/hdksVZGoLTKGYPcOVsXt06DejCNSjTRdPuCNKTnc606t+4NT4WhegkPRv3V7Am4AtJFPfJX+6MLA/c+kbJ1idDDl0zzEv9qxfKHBm67P3vpcA1Y3DF3d8iX7sAz6Iget8yrJ3vVq4/B/NwJ8MqnlPUMa7mpHZyIw/KtuscRNwvx9WlJw9zjw8dRpCYry40bu0hghLxVD+iGWxnlr9A2WayAGJIss7zwCbrj7qBG1D+g6B5d2hrO3DdtD7Ggi2wxXnDtmsxeKe+tqxbByaQWSwtz57mMgevrUBGz7G3hNwzqcjK+/TR9coPlxMZC0+tlmrRfKEOws16JP01Tc6hCMb3CwtfXhYKoo8dQ3JKuC0lj/3aLaw==;W3IYHM1dZbsDUmoowUTyfQ=="
 ---

@@ -62,6 +62,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Queer Eye for AI: Risks and limitations of artificial intelligence for the sexual and gender diverse community"
+    excerpt: "The risks of AI-powered oppression of sexual and gender diversity are already here. Imagine calling your bank to resolve an issue, but the customer service representative suddenly accuses you of fraud and threatens to suspend your bank account if you don’t invite the “real” you."
+    publishedDateTime: 2023-05-26T12:13:00Z
+    webUrl: "https://www.openglobalrights.org/risks-limitations-artificial-intelligence-sexual-gender-diverse-community/index.cfm"
+    type: article
+    provider:
+      name: openglobalrights
+      domain: openglobalrights.org
+    quality: 14
 
 secured: "pbcm1B/DKyLgJfQzERnHVutCC5wtYYYQrCOhmWlRoQ9mWJ3YlgJC6QzvmzUkHbe91jBoMh9ad3rpgfHUhZ9BlH9NUcDVuvB8CRmGxt5NqsptqNfakKBRTiwkWglEYNZK2L9gUsIyU5X5uJxFiof6eXrX4Gb4RhsExQUeQz7eJ05ztpF0B/9qVI38d0DC1pOWQfhGj1fWdU191QaL0ZVt0iP4+l1HKGw20tCIPr90hemaAwKYsXrglUdMIVzuyQ2QF9RZ+X8vQL4VKBMUYg4K7zm9Dvag67EuCvD4q7cDkY2hYjdkmjrRRSY2XUD0Tj2kMI6cVepAhXGQFSrQlrUV/CtaEReoQUXo3YJusQznZMWVcT252Oazsad7pnMF7p4hIFQB7xXzkT6Xwf6G5HVuJWyTE/qgIVVDUx1CNTEMv8zpYjyfZJhaDp5XYqHjOmRQn6yDLJySVRlERpSccQQBbS+Z+QSMzgfmA/TjKrcAY2dcUUR4tFLREbcXN1TYh9GcXjV8qQK9/ddGpGZBRt444g==;JnWQjs1iI+35KLbEokHsjg=="
 ---

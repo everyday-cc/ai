@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 822
         isCached: true
+  - title: "Cohesity Promotes Responsible AI And Security Partnerships At Catalyst Event"
+    excerpt: "Cohesity also announced new integrations with CrowdStrike and ServiceNow. Thanks to these integrations, CrowdStrike or ServiceNow can communicate security event detection with Cohesity and receive event detection alerts from Cohesity to initiate response and remediation workflows."
+    publishedDateTime: 2023-05-23T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/23/cohesity-promotes-responsible-ai-and-security-partnerships-at-catalyst-event/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
   - title: "Cohesity Turing aims AI tools at backup and ransomware"
     excerpt: "Backup supplier continues to enrich its ecosystem with more artificial intelligence (AI) for backup and ransomware, with chat-like reporting functions and new security partners in its alliance."
     publishedDateTime: 2023-05-23T09:00:00Z

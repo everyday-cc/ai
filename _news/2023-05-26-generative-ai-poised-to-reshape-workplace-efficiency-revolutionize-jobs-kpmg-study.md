@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/generative-ai-poised-to-reshape-workpla
 webUrl: "https://venturebeat.com/ai/generative-ai-poised-to-reshape-workplace-efficiency-revolutionize-jobs-kpmg-study/"
 type: article
 quality: 62
-heat: 72
+heat: 74
 published: true
 
 provider:

@@ -29,29 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "3 Top AI Stocks That Pay Dividends -- and 1 Yields Over 5%"
-    excerpt: "Sure, IBM hasn't been at the center of attention with the recent surge in interest in AI. However, the company has been an AI pioneer for a long time. For example, its Watson technology made headlines in 2011 by beating Jeopardy! champions Brad Rutter and ..."
-    publishedDateTime: 2023-05-25T09:53:00Z
-    webUrl: "https://www.fool.com/investing/2023/05/25/3-top-ai-stocks-that-pay-dividends-1-yields-over-5/"
+  - title: "AI stocks are soaring but average investors aren’t yet rushing in"
+    excerpt: "Debt-ceiling angst is battling with AI euphoria to leave the Wall Street barometer in the doldrums — bobbing near the top of a channel it has held all year. ‘Neutral’ is thus the apposite new rating for U."
+    publishedDateTime: 2023-05-26T14:34:00Z
+    webUrl: "https://www.marketwatch.com/story/ai-bubble-retail-investors-arent-rushing-in-yet-c1a8a3ae?mod=robert-schroeder"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/ai-bubble-retail-investors-arent-rushing-in-yet-c1a8a3ae"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-bubble-retail-investors-arent-rushing-in-yet-c1a8a3ae"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 87
     images:
-      - url: "https://g.foolcdn.com/editorial/images/733282/dividends-blackboard-sketch-doodle.jpg"
-        width: 2059
-        height: 1456
+      - url: "https://images.mktw.net/im-770206/social"
+        width: 1279
+        height: 640
         isCached: true
-  - title: "3 AI Stocks You Should Be Buying Hand Over Fist"
-    excerpt: "Therefore, investing in the chipmaker that provides the most high-performance AI chips is the ideal way to capitalize on this trend. On the date of publication, Chris MacDonald did not have (either directly or indirectly) any positions in the securities ..."
-    publishedDateTime: 2023-05-23T09:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-you-should-be-buying-hand-over-fist-1032344620"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "ewn97LBcXCD6iwdxBXyqb5CY2Tuy9yvjIhiCXvIblUlXAywGyuJQNdYijefHlOQXsTqfRKwnkj28Ya9PmzPZTAXi33LFD6P8G1e60gcM0p0iAOb4rhHNkgkuu/h7RQiifmJdTuiuDOjoLsgWTYi0j/M+AIKQJocvZ4ooKsddTY1oP6vV/Vv+nz7cWkm8NBYxo4FzYjpN11N7lfbbHE27PDza9xoq5Gz77M3PDWzGj5qm2tCXg48SJYLa6peiZD6uCzvlIxOsVzJIRIlPFvLACuH5qQzBrUBB+GlkROUvv7NIekr+xUJ6IyI5gKhjepZT8amTtRCqPR7bEEX3R7XScTm7o4bmvq7znxanZlgMVNc=;I8ykrwqYWZ0sqO6SiMQ4ww=="
 ---

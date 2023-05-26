@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-25T00:00:00Z
 originalUrl: "https://www.infoq.com/articles/federated-machine-learning/"
 webUrl: "https://www.infoq.com/articles/federated-machine-learning/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://res.infoq.com/articles/federated-machine-learning/en/headerimage/croppted-Figure-3-1599498664410.jpg"

@@ -18,6 +18,17 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "Can A Robot Help Finding Important Stuff?"
+    excerpt: "Researchers have developed an innovative method to program robots aiding dementia patients in finding lost items."
+    publishedDateTime: 2023-05-26T13:05:00Z
+    webUrl: "https://www.electronicsforu.com/news/can-a-robot-help-finding-important-stuff"
+    type: article
+    provider:
+      name: electronicsforu
+      domain: electronicsforu.com
+    quality: 19
+
 secured: "L+lfZHZiijpuprf/JHFUQuJrgAnkIVTWug6bWY2CG+YilAvcq9XYh0W/Fmuwtmm7zS9pcJRjXZmehiuTgjNv1dufmDh29Sah7NMH8sAcUATytAvLWai3xkE71qP3NGxed1M23c9fAqEbVbRc4jdz0Oy6qj1VmM+azmkovtR3gw1PPC820DnIix2NRm160UZsheFvMUWQ9Zyog0fnIckXCkAHRAUJQfr9WINcrJIcJ320vd9TaNQoHTvNyXsg0k0Jy6L73UkptQA4kRn0XsPP5HmXmpXlke7kiyJqG69Dwiuvm+fOh2qii38CMjHUTExSAXpXg7CYoesfIlLt659rwGtJ6SS0uTNArAUTqk0vO+o=;kHrZFZBMSbM9Djicnwh8bg=="
 ---
 

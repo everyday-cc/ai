@@ -518,6 +518,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Nvidia Stock Surges Off Huge AI-Focused Earnings Report"
+    excerpt: "Here’s the latest on the Nvidia earnings report and who the biggest winners - and losers - were off the back of it."
+    publishedDateTime: 2023-05-26T12:04:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/05/26/nvidia-stock-surges-off-huge-ai-focused-earnings-report/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Nvidia stuns markets and signals how artificial intelligence could reshape technology sector"
     excerpt: "Shares of Nvidia, already one of the world’s most valuable companies, are skyrocketing after the chipmaker forecast a huge jump in revenue, signaling how vastly the broadening use of artificial intell"
     publishedDateTime: 2023-05-25T16:32:00Z

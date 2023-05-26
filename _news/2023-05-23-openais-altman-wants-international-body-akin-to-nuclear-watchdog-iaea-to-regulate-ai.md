@@ -137,6 +137,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "OpenAI boss downplays fears ChatGPT maker could leave Europe over AI rules"
+    excerpt: "OpenAI CEO Sam Altman is downplaying worries that the ChatGPT maker could exit the European Union if it can’t comply with the bloc’s strict new artificial intelligence rules"
+    publishedDateTime: 2023-05-26T14:55:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 55
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_1a249ab94593356940d8f56d15e8a019_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "A startup backed by OpenAI uses AI-powered robots in the real world"
     excerpt: "USA: The rise of ChatGPT and companies like it have shown that no white-collar job is safe. But if you believe that blue-collar jobs ar..|News Track"
     publishedDateTime: 2023-05-25T10:27:00Z

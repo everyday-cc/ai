@@ -55,6 +55,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Can there even be a global AI non-proliferation treaty and what role can India play"
+    excerpt: "In ToThePoint today, we invited Jaspreet Bindra, the former chief digital officer of Mahindra Group and currently an AI and ethics researcher at Cambridge University, to help us make sense of the growing unease around the dangers of AI and calls by government and industry leaders for global regulation of these technologies."
+    publishedDateTime: 2023-05-26T13:29:00Z
+    webUrl: "https://www.forbesindia.com/audio/to-the-point/can-there-even-be-a-global-ai-nonprolifesration-treaty-and-what-role-can-india-play/85209"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 13
 
 secured: "LAEZknTIZXBmcq1EisFSrR2C2K9C9NwsU0uP3jXMslQLowaJNz5pzXDZsP73odJP0L0ZL2moXmnbnm7jy17CcM8qTqmI5ZddMYh7IxELSpn5lmdE6xezXd2LVuDOg9O6HHthyibFVAdCWXVCdAK/okygCrkQT4UtXMPJ7knKRDNaMbVoUNPvyxmFcbJxidqqLK0XvD1Gy//Jjx4KpHYN8VqiLr/g10gO5Xl2yRK7cjNERauR7QFPmOdfKDT7TYFXZ/YHUA/JxTrnMG97tOB7qQ8JbJ8uAVIYU3W+q7+iYE5LGBdRl80qrHrE7tuTo7L8YF3CQwbOcaGnhixwrmVCNqvBcofQyAwy4lwtJO6A/GY=;MtEhARwSFUM2rVNHEY8F1Q=="
 ---

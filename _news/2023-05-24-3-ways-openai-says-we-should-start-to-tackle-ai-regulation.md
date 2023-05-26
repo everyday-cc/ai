@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/3-ways-openai-says-we-shoul
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3-ways-openai-says-we-should-start-to-tackle-ai-regulation/"
 type: article
 quality: 87
-heat: 257
+heat: 267
 published: true
 
 provider:
@@ -123,6 +123,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/7d67041ce1a3365141a6cf94664afd2b979a86ea/0_65_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=26b6326255df3dfa3b403b401a657422"
         width: 620
         height: 372
+        isCached: true
+  - title: "OpenAI boss downplays fears ChatGPT maker could leave Europe over AI rules"
+    excerpt: "OpenAI CEO Sam Altman is downplaying worries that the ChatGPT maker could exit the European Union if it can’t comply with the bloc’s strict new artificial intelligence rules"
+    publishedDateTime: 2023-05-26T14:55:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 55
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_1a249ab94593356940d8f56d15e8a019_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "A startup backed by OpenAI uses AI-powered robots in the real world"
     excerpt: "USA: The rise of ChatGPT and companies like it have shown that no white-collar job is safe. But if you believe that blue-collar jobs ar..|News Track"

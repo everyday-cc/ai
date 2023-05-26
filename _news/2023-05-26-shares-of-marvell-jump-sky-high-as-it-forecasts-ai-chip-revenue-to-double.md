@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Marvell Technology Stock Jumps as Chip Stocks Keep Rising"
+    excerpt: "A day after optimism about the future for AI led shares of Nvidia higher, Marvell Technology stock is making its big move with chip stocks continuing to climb. The stock was recently up more than 27%,"
+    publishedDateTime: 2023-05-26T15:00:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-26-2023/card/marvell-technology-stock-jumps-as-chip-stocks-keep-rising-z6xLa5PPADAItygaUQPj"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-789639?width=600"
+        width: 600
+        height: 800
+        isCached: true
 
 secured: "4PkIzyz4/0gNb5+M7VzZ/LmzxBVhva+7PfrVL3bwn4lGInelwq8LUQYgU/Hc/AUrSNlK9iQnAVR6aLerNUK06+QXacP1FGzo1gZdH42JAp1CmRRgQEQ6Se1DSg8nrNtZFdyIi/KVNtTdVPeOs5vNObQ6gQLjrWGYmlNBJbYUFGL7VaSSVmcHp3C45R/Qo/vbvnZK+PXeas+GpP2iuFztiyUeiacDM2LnNlw0N33kGM81f+n/CcmMcvaH4s+S95nqFDpHTiv4n1sxSP7LN8dIYS0LUSvqbAOPwlJPdDz60dnlKmksGSRCpIxKntXQMJGtsCBtbJAApPKAY6v8T6TN+FzPTnHcCvk2a5MvYzzeMPpt1J1K1X4LXnokReLkw2WZpeFhsdueaaEz+6R5g109kzSZspAXPq0XMknI0HzqAMS7h0vAGi57erK6ZDkwtY46pudDjvwe1XeDaYLft51h8AKjiwnGAz+tdeyrVVUpGW4HHabXvigsz4fPVYaU1aFQkCtZBrkUSGpZPgdnU4X3iw==;bnCfsSfpGVYB1kYyXQR7aQ=="
 ---

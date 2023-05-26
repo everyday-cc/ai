@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/may/25/artificial-intell
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/25/artificial-intelligence-antibiotic-deadly-superbug-hospital"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Guardian
@@ -46,6 +46,15 @@ related:
         width: 2880
         height: 1620
         isCached: true
+  - title: "How can Artificial Intelligence discover an antibiotic?"
+    excerpt: "CNN's Elizabeth Cohen reports on how researchers have used AI to discover a powerful new antibiotic that can kill a deadly superbug."
+    publishedDateTime: 2023-05-26T13:09:00Z
+    webUrl: "https://www.cnn.com/videos/us/2023/05/26/exp-cohen-ai-antibiotic--fst-052608aseg1--cnni-us.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 47
 
 secured: "/osmP+z/MkL78wtzD/DU3FvDXGkTzI99WN2CLtnjDvyhu9DQQS3wxNwSNpYJ3JQN4vDRjJkjzGARs2i3KHd8nL6j+1uGE4zFqRUfZU9en3TGNgHcOrzT5W1RKBHkJrNGx7lSFgFhuIQiZCcVLq/9cJjsQ/ky0BAm2Y1E7M295rhlPv2VPvWIZO4+t5gYf+r58nnMfDWkV15KbJTPOAGQ0zQj20pSPi5EvyA7nMSIWUcmabJOkJwnCp8KOb0mqaQlV/TfaY04eBhys3zi9mcBaxGdsLTHIv+SR5o1K+GWbcZsI8z5coPdtdLW6de5M974r3mZIbvgp96vPYQwwO+eUgMI1Hg70rM+2m1DagnL3BilFnaEHBWEAw9S1AX4aovCn+0XXkQsHdMDXtt+Qckf93vWs2XOYXJ8H+Q20DVsa9LMNpyTB0RhU/us6UHLgz8FL8qW8LartEX89FdAbG4LBrVk9hhzlO7VZjVX00V6BYS0sWcnhIxVUki0Czi3QnKJ/jX52lZfQE4ezZMM/kPnRA==;Teyl/5lbielV0YV6DfFQnA=="
 ---

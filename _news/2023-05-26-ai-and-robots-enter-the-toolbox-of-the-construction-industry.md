@@ -83,6 +83,15 @@ related:
         width: 2048
         height: 2048
         isCached: true
+  - title: "Bridging the gap between AI and manual precision in 3D cell segmentation"
+    excerpt: "Researchers from Nagoya City University have made an important advancement in the field of cellular imaging with the development of Seg2Link, a software tool that harnesses the power of artificial intelligence (AI) and semi-automated correction techniques to accurately segment cells in 3D images from a stack of 2D images."
+    publishedDateTime: 2023-05-26T13:19:00Z
+    webUrl: "https://phys.org/news/2023-05-bridging-gap-ai-manual-precision.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 16
 
 secured: "Zjr8SyR2+0PK7wwZ86hav5C0nZr0MjOwhxHMi5AECRxaeY+BbXEqUYVb16rF8K/3Cjjt5W3TDKO9XKJZdXMgBG6xHMLEku0d4qqRWTaFyrgK/o44cXPFhj5aqdeNyEaInCcoVZU6UMEkDeRIeK2xtNsMa2d99n7PLj5PTJ609D09pOQXMdWNU3HbLja/GlH7F3oCQ5gaiZSOnP+7bBARSvBbq62cWKRNJM2ndnBo4jLz0jD9SaGW0Rvhr6nxBeZvhWqOTflFMOEk3A/Tq4OVy3oGEKecSzDQzs9YctrR3eZsJXHY3uwnneN8Giidyh+IIHW2AqMF0Ma6V/Czccw1BBhb+sufg1zaj5MxrYmqmHp/lx/TKJAafF/ZzTAxvsJtfUkBl+MDS643bvxBVQTHqkO8X3Tvs590/lnwYx8CjgzdRkF1DVLXdKDb4DIKS4+/g6Q0mKjxiYMxAZYdfCBXG+ucDWtn+4YVRjDVia44CSr5RFiXELGEd6O5vqlBiPjJydWoryjOAoiBuNDDBbiygQ==;+74PDTIOC04aAfZXH1Ns6A=="
 ---

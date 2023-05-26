@@ -18,6 +18,17 @@ topics:
   - AI Ethics
   - AI
 
+related:
+  - title: "AI Can Help You Ask Better Questions — and Solve Bigger Problems"
+    excerpt: "Most companies still view AI rather narrowly, as a tool that alleviates the costs and inefficiencies of repetitive human labor and increasing organizations’ capacity to produce, process, and analyze piles and piles of data."
+    publishedDateTime: 2023-05-26T12:25:00Z
+    webUrl: "https://hbr.org/2023/05/ai-can-help-you-ask-better-questions-and-solve-bigger-problems"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
+
 secured: "IhtSTJknsQLAHPtRg/sbArfMc4WWGl7JoWskKMV1fZztYRcT0UKrDO44PQeIFKiglNp9Cmdiom/aBfffD+BPI4BF4h4J2FwJSrtU6Qv6CPQqrNS1vqBlP5q+xrEoDLHeBI8n/wbCRkzBs6JJDR+DmloEOhO/0b8Ak5plZe/gO9L2gahFPWW9E6WOCceKRfahOnsEbmFMrUZh06lSFu6BnmP+0eMwUMRkVnpoKLrBDdCMNKErzTJ6A+NKxohbMs+/lwOu1ZdnGTH+nX/qxViQVy4lh+MGUA3nJ1pDo6sK3nc3ifHtsGtQeUgxhJnGaqxUSF6OQXC++EDbyinGnKPIs1Kr2NrFrbe97FvVxfvV/myYR39+rfnovbnvsemGMmm9Ll6T3V2oUL92H72Thyjxs/ayRD7CmjEpVtUTLiDlZZYPFgwO5lax93ieVuw5Q3rVBiIDUZ5lb/R0W1DINl2bO2DprSi+4jtAsg6MWHeYcO6F8wNO60of7nGk6w7klKQ7sqiVe7NA04XiDI1PV0Y0DQ==;zNGjPMDdRflPoGE2K1Pimg=="
 ---
 

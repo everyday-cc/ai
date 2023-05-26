@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/23/google-to-experiment-with-ads-that
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -101,20 +101,6 @@ related:
       - url: "https://www.sciencefriday.com/wp-content/uploads/2023/05/Screenshot-2023-05-25-at-1.54.39-PM.png"
         width: 1474
         height: 775
-        isCached: true
-  - title: "Tech wants AI chatbots to help ease loneliness. Experts are skeptical"
-    excerpt: "For example, for some people who are in a very isolated state and incapable of doing basic prosocial activities, an AI bot could help start a conversation with a human. However, one potential drawback is that some people may start to feel safer or more ..."
-    publishedDateTime: 2023-05-21T20:06:00Z
-    webUrl: "https://www.salon.com/2023/05/21/tech-wants-ai-chatbots-to-help-ease-loneliness-experts-are-skeptical/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 37
-    images:
-      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/05/person_talking_to_chatgpt_logo_1227304735.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "eyWsd+B6akNkWIdB0W7q0gxcLiP+nnzmL1SzoVPqKdud2L9NBizvbpdtTcAU9DZlb1c2YYBAkzTNwBEh4XYV4VF6axlgM8dm/bvc90BoG6hv5XJd8byLI08V/HzZkLrAeAlJ8B/oz2oc8GT7xwinh0Cj5ilW2T/4Ufmm+x5ILKXbk+izfDAqn5rmwIs9e7Pbuwy9yGy3+Umj+kQaCs3AqgFUQdpYfi2B40h0+t70r67lNCkXZVwk/FSDRfJMdbuP5BFDo5ME9sYhkq8j7gvoBRSGgRINHr6iIdgop6whAiuwvFfpUkH3JC8ISg1+4G13d+o7TTiT6FF1cLWIa8rKSwI7bAcT+rTMHzUYzTqO1RvTBm8e8QHJ/9FD/6NDhDFZdTwxwk9aIqWWQuKKtTHFsIwoz5L8vTU3XzzEmFtHGRaJeQx7/tgQRRLv9UHOG14tMgGhAhJbqefCyQCYnjtToYg/xS3TYSzaHkCWCMaippLcM8rPs5hYMKRCFGSvH2HXr44t4ETzQDJ8hMONT2qizQ==;EB6CvRRPcYpwWTVBcJTFKw=="

@@ -156,6 +156,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Meet kAI: the four-legged AI employee at Singapore’s rail operator"
+    excerpt: "SBS Transit will have a trusty companion to conduct MRT train inspections with – a 50kg, four-legged robotic artificial intelligence (AI) dog called kAI."
+    publishedDateTime: 2023-05-26T12:17:00Z
+    webUrl: "https://interestingengineering.com/innovation/kai-the-four-legged-ai-employee-singapores-rail"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 19
 
 secured: "3JMUoegL7I9RCr7+dSFT8nrWM7cP9OkEl9vJU/HM/LnQl1pUxLqBkxoqCT4HldXHwGk9D31gVB++dDBq2GS2p87Eqo3/RdY8UoyNuKureBbLg2/JrREN/HDqjAtWm5LlmvYYFGhXWyTHWOqA3fn74xG14l+S1gaH2oConTyXvgkU/iXNzwYUlbJn4+f8acZrGV0bsyM0SPlNkmmkFrUzYYLyhVl26AO3+/iavrnsG3ig3eDJ6BlpVMbode1/uShYSN4Eu2WnJSAvMK7iwMd+tljFsjMvuyACu4WGRRuGYB99gNlFs5UgDrEiyeE0wXgvakszLGxCofXvA2kLBSWfmWwma07T1IKAme9PwpXJIdpp+rDrmjL9fdljizTCdX7vjd2GrCH9xOS6GIZ37XvsVkP5pWE5S4wFJHnCxsovoeMWSHL+bgR8VDTvgrueqanLRzJV3Bjc7r9cPjQFsUmcyWhRClQkQUG+9qHYXm8efDXn0T8meRklONJUTPXGC58PGFpcZGd7+Q1bcWkUbos8Aw==;dbfq2mgZmy1s5fEJwqkd9A=="
 ---

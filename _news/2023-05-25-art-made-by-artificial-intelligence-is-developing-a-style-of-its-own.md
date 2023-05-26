@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 668
         isCached: true
-  - title: "Why AI Is The Future Of Offshore Oil Drilling"
-    excerpt: "But this is not Shell’s first foray into AI tech. Back in 2018, the company partnered with Microsoft to incorporate the Azure C3 Internet of Things platform in its offshore operations. The platform uses AI to drive efficiencies across the company’s ..."
-    publishedDateTime: 2023-05-21T23:03:00Z
-    webUrl: "https://oilprice.com/Energy/Crude-Oil/Why-AI-Is-The-Future-Of-Offshore-Oil-Drilling.html"
-    type: article
-    provider:
-      name: Crude Oil Prices
-      domain: oilprice.com
-    quality: 39
-    images:
-      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-05-19_chqonzsu0y.jpg"
-        width: 718
-        height: 300
-        isCached: true
   - title: "Regulating artificial intelligence is a 4D challenge"
     excerpt: "Computer programmers have broadly embraced generative AI as a productivity-enhancing tool. By contrast, striking Hollywood scriptwriters may be the first of many trades to fear their core skills will be automated. This messy story defies simple solutions. Nations will have to adjust to the societal challenges in their own ways."
     publishedDateTime: 2023-05-25T12:10:00Z

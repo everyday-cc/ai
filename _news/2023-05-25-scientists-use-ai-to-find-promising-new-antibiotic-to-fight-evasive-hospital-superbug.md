@@ -42,6 +42,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "How can Artificial Intelligence discover an antibiotic?"
+    excerpt: "CNN's Elizabeth Cohen reports on how researchers have used AI to discover a powerful new antibiotic that can kill a deadly superbug."
+    publishedDateTime: 2023-05-26T13:09:00Z
+    webUrl: "https://www.cnn.com/videos/us/2023/05/26/exp-cohen-ai-antibiotic--fst-052608aseg1--cnni-us.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 47
 
 secured: "kNNnSjbhd00lmbsxPfVvYfR6eA+tx9ez87F/45o/QXqQUuRycWXCeSaVh7cv6Hwmu+32AY0CAB71tC5VQMPJO/aPqBMZ2k8QgEyleKvbZzN+JwLqh1OYTTrn0SWpE0LI5DOdgu8eLxZVH9o2mx89qnfA9yZcEN6qb73Ig1Oi9vZyOwy3LGhXSNK4ox+NqTugA+UXioVE3xxkcn+JUhtC4ka3Ks0AnF+knFFCZcXeOOSlH2zk73rBTUDdtvSBt0SB+WFTrqcnlXFvCy78EzKYsTQWvjCs65WtNvzdOxkUDDlrtrWDdDs0E7bRsVleoNLzCjTOHG7mJ7lJt1gpcbxQGUgtVASWA8yiJAkqAvFwZfUe7z+btgnjT5vmrWSxJcprMHatg3ioZPR+8i1gygUbJOrRJQQebPgaV0y8MbT7vXfc0bs3BotlfaasZiy/hdVNyROl4WiYpRqjqvF8l+CxUXBb3D8IjB5lueSTu35QV5y5TRAhVHDjg03IYleoBXWnn+Q6HSI3g3JgZXBvJ3ugXw==;/f0sbBVVonbEUXy1h5nvTQ=="
 ---

@@ -99,20 +99,6 @@ related:
         width: 1474
         height: 775
         isCached: true
-  - title: "Tech wants AI chatbots to help ease loneliness. Experts are skeptical"
-    excerpt: "For example, for some people who are in a very isolated state and incapable of doing basic prosocial activities, an AI bot could help start a conversation with a human. However, one potential drawback is that some people may start to feel safer or more ..."
-    publishedDateTime: 2023-05-21T20:06:00Z
-    webUrl: "https://www.salon.com/2023/05/21/tech-wants-ai-chatbots-to-help-ease-loneliness-experts-are-skeptical/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 37
-    images:
-      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/05/person_talking_to_chatgpt_logo_1227304735.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "CO+a5Pc2kQhy2Cfe4Zbieu64WnIfJHYsn9F/LqFb9zdrPzfIlT2nBvF5ymjdmnl2PpL6OL5j2AsZeKXQj8QCYWaxWCq11aoinZehEnrieoP8opzjz/xsy2DU97SOTbpKprp/ga8om09WtGP8yKiAQKCZGN6gSRMnc1mphkbnBuXqJ+MkSWg66WSEGJUtCOVvuQIzC9x3aK12qJt6N61zJvTUy+mNSkiFW1CS6wyDafnGaptBcEd+pdYDQHilw9ocO63DxUgoIZa1TbDqZDuVp+xOOpunb9TGREcnQdgh+LVQ/ykqZTkkjlEo0SvChxXavHGCxED29Xp//TDo1domVL4iQSeS8Pz0ahWt5GGuSCRxZuqIhUBzbjKzR8n4btxaXshiQ2e6vIYHL2b/UYCmLp8fs2dqVPWaeT6xrFrlsZU0OI68fivf+BFgOcFuMZziSD4H4o47TAJEe8MCC8dLVKn9WYSB4LllCynmDzuyNj+fgB9MO9SizQJIO5r4Xf0oGTECqE2oel/8RqouQqgh2Q==;yGx4Y88d486Qut3L6nXhzQ=="
 ---

@@ -47,6 +47,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "How ChatGPT Is Reshaping The C-Suite, With New AI Leadership Position"
+    excerpt: "A stunning forecast from the chipmaker - whose silicon solutions are powering the future with artificial intelligence (AI) chips - pushed the company’s stock up 24%. The company forecast revenue that was 50% higher than estimates, according to Reuters."
+    publishedDateTime: 2023-05-26T15:29:00Z
+    webUrl: "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/"
+    ampWebUrl: "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6470b943b202b5301a9d86b2/0x0.jpg?format=jpg&crop=3250,1523,x0,y6,safe&width=1200"
+        width: 1200
+        height: 562
+        isCached: true
   - title: "5 Artificial Intelligence Use Cases More Promising Than ChatGPT"
     excerpt: "Spending on AI-centric systems will exceed a staggering $300 billion by 2026. Here are five use cases more promising than ChatGPT you may not be aware of."
     publishedDateTime: 2023-05-25T16:20:00Z
@@ -287,6 +303,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 18
+  - title: "Amazon’s answer to ChatGPT seen as incomplete solution"
+    excerpt: "Amazon.com Inc.’s cloud customers are clamoring to get their hands on the ChatGPT-style technology the company unveiled six weeks ago. But instead of being allowed to test it, many are"
+    publishedDateTime: 2023-05-25T03:30:00Z
+    webUrl: "https://www.havasunews.com/nation/amazon-s-answer-to-chatgpt-seen-as-incomplete-solution/article_5a4c7392-faaa-11ed-be74-3f8cfaab4220.html"
+    type: article
+    provider:
+      name: Havasu News
+      domain: havasunews.com
+    quality: 4
 
 secured: "016/Crwg4RLMRpTIefhLArJJhshnTCjibFpTyCx2XtWLRzE4ivTv3Bc3eTa2CpRM3ZR1zVJavQir8RWD1ZTWrQrRjYR3lZimv7UkooIudb281yXPJH762S1FvMVrypkt0/2fa3/1iLcRh+ZMZAajwZ3X3EkDoNde07nqV4tLMn11UP4MTq3B3sf4spMawtXbhsN+c5v09uTW9rh5/+P3nXRZFr+q/3H5KsHVgz4P2MH2MEFWRoWeygTxWwyygJ+M1FCqM6j/UBCtrtOpcJO8N5lbnLbfkivwM//gXUzZ9d3StelBbMDVRXSuy90+4AWLnSSyVYUUGOFd3CgoZSOHIiMqjpPeCJhw2p/zIbXvkpDKdYiUyT+YXJV/rtK2rz4jYFxOiiQy240UDlv4Nd2nfewCm58PTNGL7ictVGN4DF9b3ufXk+T8QRxOHoPzJ9y69kYYByVxJ+JTepxFJlIRYJJBU5hXzGIRHbaIGZtbTxBNODKeG7Av0RDLuFn7ftFw9iP+Ji94jMHpsRyhaBk48A==;+XGlnOGmoRyt/+YHBdqA8Q=="
 ---

@@ -432,6 +432,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft-powered AI chatbot ‘Jugalbandi’ is here. All you need to know"
+    excerpt: "The made in India Artificial intelligence chatbot currently understands 10 of the 22 official Indian languages and covers 171 government programs."
+    publishedDateTime: 2023-05-26T15:00:00Z
+    webUrl: "https://www.hindustantimes.com/technology/jugalbandi-microsoft-ai-chatbot-features-open-source-language-technology-news-ai4bharat-project-101685111840575.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/jugalbandi-microsoft-ai-chatbot-features-open-source-language-technology-news-ai4bharat-project-101685111840575-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/jugalbandi-microsoft-ai-chatbot-features-open-source-language-technology-news-ai4bharat-project-101685111840575-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 76
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/05/26/1600x900/jugalbandi_ai_chatbot_microsoft_1685113035503_1685113045220.PNG"
+        width: 1600
+        height: 899
+        isCached: true
   - title: "5 points to govern AI: Microsoft’s recommended guardrails for the future"
     excerpt: "This post is the foreword written by Brad Smith for Microsoft’s report Governing AI: A Blueprint for the Future. The first part of the report details five ways governments should consider policies, laws,"
     publishedDateTime: 2023-05-25T17:27:00Z
