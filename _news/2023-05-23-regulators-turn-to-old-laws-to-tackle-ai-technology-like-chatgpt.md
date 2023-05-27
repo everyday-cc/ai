@@ -246,17 +246,6 @@ related:
         width: 700
         height: 508
         isCached: true
-  - title: "MY VIEW: AI ate my homework: The future of AI and ChatGPT"
-    excerpt: "\"Back in the day, rather than admitting our laziness, we blamed the dog for eating our homework. If AI becomes our modern-day crutch for being lazy, a bad grade will be the least of our worries.\""
-    publishedDateTime: 2023-05-22T10:26:00Z
-    webUrl: "https://www.bizjournals.com/cincinnati/news/2023/05/22/my-view-future-ai-chatgpt.html"
-    ampWebUrl: "https://www.bizjournals.com/cincinnati/news/2023/05/22/my-view-future-ai-chatgpt.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/cincinnati/news/2023/05/22/my-view-future-ai-chatgpt.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 37
   - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
     publishedDateTime: 2023-05-22T17:30:00Z

@@ -49,20 +49,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Mohammad Hosseini: How much should AI concern us? We need real guidance, not vague alarmism."
-    excerpt: "If the \"Godfather of AI\" really wants to blow the whistle, he should tell us what is happening behind Google’s doors."
-    publishedDateTime: 2023-05-22T10:01:00Z
-    webUrl: "https://www.chicagotribune.com/opinion/commentary/ct-opinion-artificial-intelligence-ai-geoffrey-hinton-google-20230522-v67rlh72afgzvpy5xspikhl3ly-story.html"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 26
-    images:
-      - url: "https://www.chicagotribune.com/resizer/fJAoqet1B7sVrI9A1mS8A3Mzegw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/PQ26433AEFMRLPW2ZZCSLWXXOQ.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Xnrrldh6WnXquhYka0t5kVn/KA0pLl0lwM0vAQMOncu+wd2WIokzlc2OmzlhmbDxQHAIbqo0dJENmelIHuRsDfGkdHVngt5gkdzY02g0V8GDwVR6GSawGNwPOyY00MH9DZ/9GIhpRDq99bcD/7n2+L6z69vjiz/ob7VUcfLsvj/UGoG/fOQ8a9XXf+TroHlG+iDzaIip1K2zRs7l8g/IxCfeAwh0GvJ/Ox7Dacf9A+l26VTCoBf4eD792ruTQQ6AjvyiKU6bJpyDfKOMhSO7+ZEiYXw8v/rVy82ltye0OWpSygHIYTOihNYnbMT2sGIGXCOc6EeTO6njqvzMiDL0wJg4o7lhJKUlxvF36oTGNbmw1DZzBPXS0PZB/02nlCL3WMdZ68HPDZ3+B3nNoU21OMN7DQ8Dt66iPgtWz+J9k39Vug+bXK+75qUKTOwzi/vwcvPfSgCOh1weab71qmNjFp01K+LLTCQL+/q+UlGHGwMqTOh1rJ6/6YOkN3LtRP+Fn5xBQs5UL8BViHlz8Szjrg==;ysKH/ip0Fj1EHGpFB9dckQ=="
 ---

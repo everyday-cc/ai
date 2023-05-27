@@ -39,17 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "SAS accelerates responsible innovation efforts with new collaborations and a focus on trustworthy AI"
-    excerpt: "including a first-of-its-kind ethical AI health care lab in the Netherlands. SAS also expanded its Data Ethics Practice by integrating its successful Data for Good program, allowing the company to consider not just the risks of AI but also its potential to ..."
-    publishedDateTime: 2023-05-22T10:54:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/sas-accelerates-responsible-innovation-efforts-with-new-collaborations-and-a-focus-on-trustworthy-ai-g1ubnwhz"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/sas-accelerates-responsible-innovation-efforts-with-new-collaborations-and-a-focus-on-trustworthy-ai-g1ubnwhz?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/sas-accelerates-responsible-innovation-efforts-with-new-collaborations-and-a-focus-on-trustworthy-ai-g1ubnwhz?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 24
   - title: "AI Regulation Wheels Are In Motion And Congress Battles With Getting The Debt Ceiling Increased - Forbes AI Newsletter May 20th"
     excerpt: "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend."
     publishedDateTime: 2023-05-22T15:37:00Z

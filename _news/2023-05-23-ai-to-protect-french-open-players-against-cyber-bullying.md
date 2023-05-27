@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/KA3WwqdzB4k7rydZ"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KA3WwqdzB4k7rydZ"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: ITWeb
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "French Open organisers to offer players AI protection against online abuse"
-    excerpt: "French Open organisers are offering players at the tournament protection from social media abuse"
-    publishedDateTime: 2023-05-22T10:12:00Z
-    webUrl: "https://www.theguardian.com/sport/2023/may/22/french-open-organisers-to-offer-players-ai-protection-against-online-abuse-tennis"
-    ampWebUrl: "https://amp.theguardian.com/sport/2023/may/22/french-open-organisers-to-offer-players-ai-protection-against-online-abuse-tennis"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2023/may/22/french-open-organisers-to-offer-players-ai-protection-against-online-abuse-tennis"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/b9bdf79b1b57d07b1d132f9ee6ba69575f83c377/0_224_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=bdcba9a9f18e65e28526670064a421ec"
-        width: 620
-        height: 372
-        isCached: true
   - title: "French Open to provide anti-hate social media AI for tennis players"
     excerpt: "Tennis stars will be provided with artificial intelligence software that can filter out racist and homophobic comments and other hate speech on social media throughout the French Open, tournament officials said Monday."
     publishedDateTime: 2023-05-22T13:24:00Z

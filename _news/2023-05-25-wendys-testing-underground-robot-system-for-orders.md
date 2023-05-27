@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/changing-america/resilience/smart-cities/4010756
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/resilience/smart-cities/4010756-wendys-testing-underground-robot-system-for-orders/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Unseen robots to deliver Wendy's fast food through a network of pipes"
-    excerpt: "Fast-food giant Wendy’s and hyperlogistics firm Pipedream are teaming up to develop a system that uses autonomous robots to expedite order fulfillment. The digital ordering system — which is expected to be reliable, fast and invisible — will reportedly employ autonomous delivery robots that move underground, unseen."
-    publishedDateTime: 2023-05-22T10:57:00Z
-    webUrl: "https://insights.globalspec.com/article/20546/unseen-robots-to-deliver-wendy-s-fast-food-through-a-network-of-pipes"
-    type: article
-    provider:
-      name: GlobalSpec
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://insights.globalspec.com/images/assets/546/20546/Wendys.png"
-        width: 1659
-        height: 681
-        isCached: true
 
 secured: "o/tD5/DVRG3AIsZctMvmPszRsX4s1QFQRWmAKtB/6yugwrYl1m8bAJBjCsnc4i+kEDx+1OOCanpPxcc9Zznp2W/NEyRmuoCpb/KytIlmx/lWUSVC413Rir/c0iNAI5c8Gbz6e1TpoYvIRf10H6orYUiGUj4ZC40JgHmJFPsXXMEWhtqp5bkMrjM4CCLqV+ET7GOrY2/fz9S6FarEERDkzyRz95gFVnBfH3Vl4FXjhKu7Lyq4Q4XsMcaj7gwf5ADalw2vRZDdHs/i8IHIZFO5tUTqerdXsYHpo+UWj9aSCQcJ4PQ1jvtQhmKrA9FKauBOl7iAR0oXtLQYfwfiTSdNMfd4La/RDQE+6PZT3abFzlQ1ht2iKPGNmNgjJqNdv7kErTyydtN7HcYJuXsKf4I4ubpjgLIbX/64oyEFNSfJUnJwpqeJwu/sClWMhzuaMcWP5AcymBk8VS5bKQM6IZstVR/Bgo6Cxf7r9Dk0RFbff8LM5vfwdEK86+kuRYwo3gtYU1f63JxEAANgELrXBSHXIw==;JrQ1IO+IVlUzKpN9NdJeWg=="
 ---

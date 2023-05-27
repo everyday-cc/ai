@@ -7,7 +7,7 @@ originalUrl: "https://news.crunchbase.com/fintech-ecommerce/crypto-web3-venture-
 webUrl: "https://news.crunchbase.com/fintech-ecommerce/crypto-web3-venture-tools-for-humanity/"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 900
     height: 506
     isCached: true
+
+related:
+  - title: "Sam Altman’s New Crypto Startup Raises $115 million"
+    excerpt: "We have previously reported that Altman was looking to raise 100 million for the organization behind the Worldcoin cryptocurrency initiative, Tools for Humanity, for which he is a co-founder."
+    publishedDateTime: 2023-05-27T03:37:00Z
+    webUrl: "https://insidebitcoins.com/news/sam-altmans-new-crypto-startup-raises-115-million"
+    type: article
+    provider:
+      name: Inside Bitcoins
+      domain: insidebitcoins.com
+    quality: 37
+    images:
+      - url: "https://insidebitcoins.com/wp-content/uploads/2023/05/worldcoin-1.png"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "ZMjhDJ3Sk9rq3Bk+c+KFwSpfMSbeb4h5Y7XbvsjbO/Zr4II9YazIcCM1MrDOuQdrB89Yxv6eh0qzcJgiPCIGU1qA+vAysefagRm+IAzu7vS0qyPmYUcAnFqj2NRxYg9NoDt57rOWWCwOM7NNF2Ss01wWooa5GMjWCBvEPV02CSi9F5rrZuI3NZ/RmUlFQaPPh0WD2ehr4FXeJ49dOT5L/zelzNOxXYjJrD4gYeFiP+V8pbEdZXCMXyzqxT9NhH3F3IBi30WKyhJpIxQHzLAFHGz7L7NeypmKw1J2tGYi7oOFqm986YbUu7x4YD/sw/rW0jZGI+3jpPKq7WehtpqeF+U7bhCjRh+yHKAJ4SZLgUk=;lPTiZqtmUzXaTDpt72VSHQ=="
 ---

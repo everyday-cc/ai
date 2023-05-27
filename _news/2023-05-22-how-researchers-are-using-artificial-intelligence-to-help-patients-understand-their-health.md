@@ -73,20 +73,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "HHS CIO Karl Mathias Details 3 Promising Applications of AI in Health Care Sector"
-    excerpt: "Department of Health and Human Services Chief Information Officer Dr. Karl Mathias highlighted three major areas of AI progress he’s seeing within the health care sector during his keynote address at the Potomac Officers Club ’s 4th Annual CIO Summit."
-    publishedDateTime: 2023-05-22T10:01:00Z
-    webUrl: "https://www.govconwire.com/2023/05/hhs-cio-karl-mathias-details-3-promising-applications-of-ai-in-healthcare/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 34
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2023/05/unnamed-file-146.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Looking into possible impact of Artificial Intelligence"
     excerpt: "We talk about the potential of AI and threats it may pose with Aboitiz Data Innovation's David Hardoon. Artificial Intelligence has become a topic of controversy with even the so-called \"Godfather of AI\" Geoffrey Hinton expressing worries over how smart ..."
     publishedDateTime: 2023-05-22T23:47:00Z

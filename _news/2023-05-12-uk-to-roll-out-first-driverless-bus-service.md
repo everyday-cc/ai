@@ -1,20 +1,26 @@
 ---
 category: news
 title: "UK to roll out first driverless bus service"
-excerpt: "The control system includes an artificial intelligence engine that receives ... \"It's good,\" he said. A driverless bus tested in South Korea's capital, Seoul, last year as part of an experiment ..."
-publishedDateTime: 2023-05-11T22:45:00Z
-originalUrl: "https://www.bangkokpost.com/world/2568467/uk-to-roll-out-first-driverless-bus-service"
-webUrl: "https://www.bangkokpost.com/world/2568467/uk-to-roll-out-first-driverless-bus-service"
+excerpt: "AFP Listen to article 1x 1.2x 1.5x QUEENSFERRY: The UK will roll out its first driverless bus network ... The control system includes an artificial intelligence engine that receives information ..."
+publishedDateTime: 2023-05-12T03:18:00Z
+originalUrl: "https://www.dawn.com/news/1752537"
+webUrl: "https://www.dawn.com/news/1752537"
 type: article
 
 provider:
-  name: Bangkok Post
-  domain: bangkokpost.com
+  name: Dawn
+  domain: dawn.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "/XXR8gnCtqBubzzMKcNeHsotucUQKNyusG2oMNkAWLRf7+b5E9iUqlWJnJvfBAIrUH5RSZuqQ6KxprvllsoLSCV08NHL8CSYn9lv1SfVhcB8/Sie1OgNjlE21LlTau5Ce1xqw1rZAq8vbLZ+mm+ZL/PwKqy50jCB3cVXHOjSroPQzgRUEobWYX9AuwmNm4rLWCoDuCj6O0fiiKoZUdjIRKm3tfEpK9eaWTGO9PJ2RLTF5iIUUeAgm4ENMTwdEq4zuKxcoaVoOLKivUlA13PHhynbEFQ1pnh6QPxe0R1BO8J7v8+4lW1dm4U+BthijlOoTloA6D1azBRy0LoVIqFURG1K9NO+gacfgcncR2nCaEY=;pCYomotdXn5x7f3byr1FAA=="
+images:
+  - url: "https://i.dawn.com/large/2023/05/120948366afab03.png?r=094954"
+    width: 800
+    height: 480
+    isCached: true
+
+secured: "GP/Cs41L1KZqTRNQwrBBYjBvPB+i5iLz06guTneWk/HJZ35CmFcGbYZjaWMAjX9H1zeuyFpSEBUPybFgKH5gLtW859D1DZjbuBMSBn1toKyA0K4+SP5+d1A3Ry41x49AK4/oTyfCd5A1muGt1yoXgUbd6+vsyZPnr0544jk3SCEQOKGXosAuM/OO6Z7Z8UWE4xUpUqkGnSfzFbyeSLgU2o3Hch4svVYwiTgMGGR+4bBiYDoHYQsOs1uEhEeREdo4SfT2qeVRVoAFUBsmEYT1G5AjY4dLg7s/f2k3PO7gBob0S9Bh8n3s3kbywg/yUNYUYnONcSGbkArXyPTtNnfeNX4WPgoMAY+TjH0LdczRvyk=;n1KzSaJx50AAohQLjo/2gQ=="
 ---
 

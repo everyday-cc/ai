@@ -42,20 +42,6 @@ related:
         width: 760
         height: 507
         isCached: true
-  - title: "Mohammad Hosseini: How much should AI concern us? We need real guidance, not vague alarmism."
-    excerpt: "If the \"Godfather of AI\" really wants to blow the whistle, he should tell us what is happening behind Google’s doors."
-    publishedDateTime: 2023-05-22T10:01:00Z
-    webUrl: "https://www.chicagotribune.com/opinion/commentary/ct-opinion-artificial-intelligence-ai-geoffrey-hinton-google-20230522-v67rlh72afgzvpy5xspikhl3ly-story.html"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 26
-    images:
-      - url: "https://www.chicagotribune.com/resizer/fJAoqet1B7sVrI9A1mS8A3Mzegw=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/PQ26433AEFMRLPW2ZZCSLWXXOQ.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Another View | Chicago Tribune: We need true guidance on AI"
     excerpt: "Geoffrey Hinton, the visionary expert who was at the heart of so much innovation in artificial intelligence and machine learning, left Google. In an interview with CNN, he said,"
     publishedDateTime: 2023-05-25T13:31:00Z

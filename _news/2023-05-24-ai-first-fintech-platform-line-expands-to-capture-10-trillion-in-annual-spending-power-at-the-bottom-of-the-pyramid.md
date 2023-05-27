@@ -129,20 +129,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Home-grown help for Bermuda’s fintech future"
-    excerpt: "The Bermuda partner and head of ventures of a blockchain-centric advisory firm is focused on ensuring that Bermuda succeeds in its fintech ambitions, as he builds his Toronto-based consultancy. The"
-    publishedDateTime: 2023-05-22T09:58:00Z
-    webUrl: "https://www.royalgazette.com/international-business/business/article/20230522/home-grown-help-for-bermudas-fintech-future/"
-    type: article
-    provider:
-      name: The Royal Gazette
-      domain: royalgazette.com
-    quality: 24
-    images:
-      - url: "https://imengine.editorial.prod.rgb.navigacloud.com/?uuid=60994b70-5dac-5518-8f3c-e340f010b2b9&function=fit&type=preview"
-        width: 500
-        height: 500
-        isCached: true
   - title: "Fintech chiefs debate the future of UK’s digital economy in Parliament"
     excerpt: "Fintech industry leaders warned of the risks posed by AI and ChatGPT last night as well as discussing the role automation and digital skills will play in the driving economic growth.   Speaking at the Parliament Street think tank’s Digital Economy summit on Monday night,"
     publishedDateTime: 2023-05-23T09:28:00Z
