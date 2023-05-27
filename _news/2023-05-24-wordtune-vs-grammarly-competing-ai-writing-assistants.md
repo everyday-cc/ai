@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Everyone Wants to Regulate AI. No One Can Agree How"
+    excerpt: "US lawmakers and CEOs alike say new rules are needed to prevent artificial intelligence from doing harm. So far, there are more wish lists than laws."
+    publishedDateTime: 2023-05-26T13:00:00Z
+    webUrl: "https://www.wired.com/story/plaintext-everyone-wants-to-regulate-ai/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 49
   - title: "Game-changing AI in iPhone 15 will talk in your voice but can it get you kidnapped too?"
     excerpt: "Phones running Apple's new iOS 17 can learn your voice in 15 minutes and start talking like you. Apple is changing the world for the better. Or is it?"
     publishedDateTime: 2023-05-27T11:48:00Z

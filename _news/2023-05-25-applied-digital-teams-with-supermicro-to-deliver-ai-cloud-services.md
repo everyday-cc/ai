@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Supermicro Launches Industry's First NVIDIA HGX H100 8 and 4-GPU H100 Servers with Liquid Cooling -- Reduces Data Center Power Costs by Up to 40%"
-    excerpt: "\"Supermicro continues to lead the industry supporting the demanding needs of AI workloads and modern data centers worldwide,\" said Charles Liang, president, and CEO of Supermicro. \"Our innovative GPU servers that use our liquid cooling technology ..."
-    publishedDateTime: 2023-05-22T20:41:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1324163&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 2
-    images:
-      - url: "https://mma.prnewswire.com/media/2081911/Supermicro_AI_and_Liquid_Cooling_Solutions.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Supermicro CEO Delivers Keynote Address on the Latest System Innovations and Storage Solutions for Green AI and Sustainability"
     excerpt: "Supermicro's president and CEO Charles Liang will deliver a COMPUTEX CEO Keynote on the latest technology and system innovations supporting varied dynamic markets. Mr. Liang will talk about and showcase the latest technological developments and opportunities propelling the growth of artificial intelligence and cloud computing,"
     publishedDateTime: 2023-05-25T11:42:00Z

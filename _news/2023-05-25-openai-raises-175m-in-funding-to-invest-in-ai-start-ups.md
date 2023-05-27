@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 605
         isCached: true
+  - title: "Corporate VCs ride AI startup wave"
+    excerpt: "Of the 44 startups Workday Ventures has backed, about 25% are already using tech developed by OpenAI, according to managing director Barbry McGann. She adds it's because the AI company's tools are so \"enterprise-ready,\" making it easy for business software makers to quickly integrate the tech."
+    publishedDateTime: 2023-05-27T13:00:00Z
+    webUrl: "https://www.axios.com/2023/05/27/corporate-vcs-ride-ai-startup-wave"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
 
 secured: "N4wdp4JYyOuf8/l1iFuDakWAGZiP8jXL8fMmqTKm5kq/eGhxbZDVF+mZ7dI0FJph1w3SS0zsE9SE6pSKd3nx8EDEqweXbM9alYjaJw7e65vtVKgg0oadNDcPTsnzRW3imopyyUdnTVImGaKf0cUal5ujbXH2dy3xgJWjj2A4ImxvpN+LDA8FMmk5a5YB/38zStftbrVMJCAKpqz3ahwbUqfHQBpKSEJjLqFqbJSHFmXoAZlfEYyh16LF/Wk4BcF+neijKF7ZVeO0kIox5uy9xGn3ANIWe04ere7feqht28vh8PaqWEmySBrSLOHT8Dn9zstWEQl6Vw9kr5TSC26DvTWIy6/lHJvzGJ0afIOhInQ=;b3v12D58hMDZnI6vWsyklg=="
 ---

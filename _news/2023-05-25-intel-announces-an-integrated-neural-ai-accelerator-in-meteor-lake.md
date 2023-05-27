@@ -93,29 +93,6 @@ related:
         width: 1080
         height: 723
         isCached: true
-  - title: "Planet Announces AI Partnerships at GEOINT 2023"
-    excerpt: "Rapid Automatic Image Categorization with Synthetaic Wisconsin-based AI startup Synthetaic joined the Planet Orbit partnership program in April 2023. Their signature product, RAIC (Rapid Automatic Image Categorization), automates the analysis of large ..."
-    publishedDateTime: 2023-05-22T20:15:00Z
-    webUrl: "https://spaceref.com/space-commerce/planet-announces-ai-partnerships-at-geoint-2023/"
-    type: article
-    provider:
-      name: SpaceRef
-      domain: spaceref.com
-    quality: 37
-    images:
-      - url: "https://media2.spaceref.com/wp-content/uploads/2022/08/18100814/Planet.png"
-        width: 1679
-        height: 1101
-        isCached: true
-  - title: "Intel Promises Falcon Shores AI Data Center Chip in 2025"
-    excerpt: "These rapid advances in AI don't just happen, though. It takes unfathomable computing power to train and run these models. Intel hopes to get a bigger piece of this business with its upcoming Falcon Shores chip, and it has just revealed the first details ..."
-    publishedDateTime: 2023-05-22T20:45:00Z
-    webUrl: "https://www.extremetech.com/extreme/intel-promises-falcon-shores-ai-data-center-chip-in-2025"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
 
 secured: "H4Gcdfb6EKS+0NNbVWIgrKzhPH5jpcAr+TGPK8vkGOsRQm9lbRmTe860OHopzDiz/l6uJ5b96txbkACnCAEyClcw0dHjQsTv1FbyxwN8cvQFat+517tathAhMPWLrgvejqKXN4wG5h/PaTw0uVEU/8Is6OaqDu5Jz3w3YeBeCNQoBZgCnFb7eH7EI8Q35zqjBAsIq1WqZ2R+cUWgU4ct1h4AQsAD9+AKsx8d5uHhf7bvzQgyS0dvjyg+SSI5M15DhBUx9y8SYphlhpIoYBAyDoNV6kYABQYshpRXomYbsTmlAd2mduyIugWhCRB2CudrODozoYuSHg/ljSTbQXG9JszWkXGMtAP/f3g7W5CeXj1hKVDV/aJiWTFMdydQPnvzB8H7ogn1kI8fb6+mUCXQ2qCtpLVmhaCCelb4z6MlFwnzLieIa2u+f9li/O4TJfE0S5Z/DFVBCkp0+Y/5LW0QevOmSV5EcZSTu12Hujph8LD4+mWcW1q55sVc5pe7DM13XK4rZcU8D3YtQ5ZyLpDE8A==;kB1sWctllJKvh/b9GTIecQ=="
 ---

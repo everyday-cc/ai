@@ -588,6 +588,15 @@ related:
         width: 620
         height: 350
         isCached: true
+  - title: "Windows Copilot Puts AI in the Heart of Microsoft's Most Important Software"
+    excerpt: "Some of the most important screen real estate in the world is getting a chatbot that can adjust PC settings, perform searches and suggest music."
+    publishedDateTime: 2023-05-27T12:00:00Z
+    webUrl: "https://www.cnet.com/tech/computing/windows-copilot-puts-ai-in-the-heart-of-microsoft-most-important-software/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 62
   - title: "Microsoft Chief Calls for Humans to Rule AI, Safeguard Critical Infrastructure"
     excerpt: "In short, we must always ensure that AI remains under human control,\" he wrote ... Last week, Sam Altman, CEO of OpenAI, the startup behind ChatGPT, told a Senate panel in his first appearance before Congress that use of artificial intelligence to ..."
     publishedDateTime: 2023-05-25T13:21:00Z
@@ -613,15 +622,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Mural Unveils AI-Powered Capabilities for Enterprise Collaboration at Microsoft Build"
-    excerpt: "Deepening its investment in the Microsoft ecosystem, Mural's AI capabilities will use Azure OpenAI to enable teams to work together more efficiently SAN FRANCISCO, May 22, 2023 /PRNewswire/ -- Mural, a leading visual collaboration company, today unveiled ..."
-    publishedDateTime: 2023-05-22T19:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mural-unveils-ai-powered-capabilities-for-enterprise-collaboration-at-microsoft-build-1032343497"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
   - title: "Here are all the AI updates Microsoft announced at its developers conference keynote"
     excerpt: "Microsoft Build developer conference in Seattle on Tuesday, the company announced a series of AI updates to make both Bing and ChatGPT smarter, more intuitive and potentially more ubiquitous."
     publishedDateTime: 2023-05-23T19:14:00Z

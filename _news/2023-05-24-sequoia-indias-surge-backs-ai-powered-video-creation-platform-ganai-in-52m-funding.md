@@ -76,6 +76,15 @@ related:
         width: 1920
         height: 1188
         isCached: true
+  - title: "Nvidia is up 165% in 2023. Here's why its the clear winner in the AI race so far."
+    excerpt: "Nvidia's role in powering the AI sector's vast ambitions means it will be a clear leader in the space for a long time, sources told Insider."
+    publishedDateTime: 2023-05-27T12:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-ai-race-artificial-intelligence-wall-street-gpu-huang-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
   - title: "Nvidia in great position to gain from AI hype, says Intel CEO"
     excerpt: "Nvidia, which has long been keen on boosting GPU's computing power, is now being presented with an excellent opportunity from the AI wave, according to Intel CEO Pat Gelsinger."
     publishedDateTime: 2023-05-24T02:04:00Z

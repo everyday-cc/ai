@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/jugalbandi-microsoft-b
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Launches 'Jugalbandi', An AI-Based Multilingual Chatbot For Rural India"
+    excerpt: "Microsoft has unveiled a new generative AI-driven chatbot called 'Jugalbandi', designed for farmers and other users living in rural India."
+    publishedDateTime: 2023-05-27T13:24:00Z
+    webUrl: "https://www.ndtv.com/feature/microsoft-launches-jugalbandi-an-ai-based-multilingual-chatbot-for-rural-india-4071723"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 31
   - title: "With help from next-generation AI, Indian villagers gain easier access to government services"
     excerpt: "AI chatbot Jugalbandi powered by Bhashini and Azure OpenAI Service gives Indian villagers access to government services in their language."
     publishedDateTime: 2023-05-23T15:00:00Z

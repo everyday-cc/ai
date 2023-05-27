@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/ai-startups-outpace-others-in-securing-fu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Corporate VCs ride AI startup wave"
+    excerpt: "Of the 44 startups Workday Ventures has backed, about 25% are already using tech developed by OpenAI, according to managing director Barbry McGann. She adds it's because the AI company's tools are so \"enterprise-ready,\" making it easy for business software makers to quickly integrate the tech."
+    publishedDateTime: 2023-05-27T13:00:00Z
+    webUrl: "https://www.axios.com/2023/05/27/corporate-vcs-ride-ai-startup-wave"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
 
 secured: "AtI3RUKNPWoj/dPU9/hKLeCz+xkc67uVRmg1FkQYs3xnFk5qb9Y93RvOKFaKLbYgTczkifBANUeH/EGpxWnSDHkWLwxrHDFEFI5XIi71sVVCBBA6x5rjPU2El+tX5L1CBJ1nVwgSnLtuKqruINnVBEB1bxMjbcZobEDlfY8v6t4fTGvdORzs9zvE+GidSMoY1dEMQaBoEPaFnhpugVoTl28mChBt1zEw8JQZXXXnxO30+ASEEOfmCD6IQP4A/JRLXE8EdCIU2X8cm5I+uwhceILcOi0SggGdh2TwGeOitF4TgdCRXrH2e+pThlETun5FEoG7KU9ugm8YlCTqowLve5geAj6T4pKJksYS5cDXYPlQuuCGDals5jvYEozrRFOTCbf3Dfjn6ACLE6rqJyTkpJTDmUqi82W8Ctr5jsQXq3qMgKXes8l2cBpubwghjAVhOEQSOK3Ay0IPL9RCLlDsE0aKLRQOmSjVddNgsgP8JxsDVsetRGBaJ5w0Q8vmK8e+JCBo0nl0i0l3ftkpDawKNw==;7o/kEQ1qxRg2F4b3Chqbcg=="
 ---

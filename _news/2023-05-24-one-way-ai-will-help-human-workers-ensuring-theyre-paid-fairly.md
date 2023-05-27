@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Workplace AI: How artificial intelligence will transform the workday"
+    excerpt: "Artificial intelligence has been around for years, but scarcely has it found itself in conversation as much as it has now. The launch of OpenAI’s ChatGPT rocketed generative AI onto the radar of ..."
+    publishedDateTime: 2023-05-26T20:21:00Z
+    webUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 84
+    images:
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0fnfjfy.jpg"
+        width: 624
+        height: 351
+        isCached: true
   - title: "Workera introduces the world's first skills assessments for generative AI"
     excerpt: "PALO ALTO, Calif., May 25, 2023 /PRNewswire/ -- Series B startup Workera announces the release of its generative AI assessments to test, rate and develop the skills of this cutting-edge technology in the contemporary workforce. Over 1,000 users have ..."
     publishedDateTime: 2023-05-25T17:19:00Z

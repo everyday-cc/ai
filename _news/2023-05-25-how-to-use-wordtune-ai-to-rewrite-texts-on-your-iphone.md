@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-use-wordtune-ai-on-y
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-wordtune-ai-on-your-iphone-to-generate-content/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Everyone Wants to Regulate AI. No One Can Agree How"
+    excerpt: "US lawmakers and CEOs alike say new rules are needed to prevent artificial intelligence from doing harm. So far, there are more wish lists than laws."
+    publishedDateTime: 2023-05-26T13:00:00Z
+    webUrl: "https://www.wired.com/story/plaintext-everyone-wants-to-regulate-ai/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 49
   - title: "Wordtune vs Grammarly: Competing AI Writing Assistants"
     excerpt: "Assisted Communication for Authenticity In today’s digital landscape, crafting eloquent text has become necessary for professionals, students, and casual writers alike. As a result, AI-powered language tools such as Wordtune and Grammarly have emerged as indispensable resources in the writing process."
     publishedDateTime: 2023-05-24T07:08:00Z

@@ -52,15 +52,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Character.AI: What it is and how to use it"
-    excerpt: "So, how does the site work, and how can you start creating? We've got you covered in this quick guide. Character.AI is a site that uses a neural language model to reads huge amounts of text and respond to prompts using that information. Anyone can create a ..."
-    publishedDateTime: 2023-05-22T19:35:00Z
-    webUrl: "https://mashable.com/article/character-ai-generator-explained"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 47
   - title: "Generative AI: How it Works, History, and Pros and Cons"
     excerpt: "Generative AI is used in everything from creative to academic writing and translation; composing ... in which prompts can be given and interactions can take place in plain language. Here are some of the most popular recent examples of generative AI ..."
     publishedDateTime: 2023-05-26T18:17:00Z

@@ -147,15 +147,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Thoro.ai raises $7 million Series A funding round"
-    excerpt: "A startup making robotics-based autonomy stacks for industrial equipment manufacturers has closed on a $7 million funding round, bringing its total outside investment amount to just over $11 million to date. Thoro.ai, a company Carnegie Robotics spun out ..."
-    publishedDateTime: 2023-05-22T21:01:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/05/22/thoro-ai-raises-7-million-series-a-funding.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
   - title: "Meet kAI: the four-legged AI employee at Singapore’s rail operator"
     excerpt: "SBS Transit will have a trusty companion to conduct MRT train inspections with – a 50kg, four-legged robotic artificial intelligence (AI) dog called kAI."
     publishedDateTime: 2023-05-26T12:17:00Z

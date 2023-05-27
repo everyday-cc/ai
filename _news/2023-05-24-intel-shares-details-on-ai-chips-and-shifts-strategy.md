@@ -85,29 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Planet Announces AI Partnerships at GEOINT 2023"
-    excerpt: "Rapid Automatic Image Categorization with Synthetaic Wisconsin-based AI startup Synthetaic joined the Planet Orbit partnership program in April 2023. Their signature product, RAIC (Rapid Automatic Image Categorization), automates the analysis of large ..."
-    publishedDateTime: 2023-05-22T20:15:00Z
-    webUrl: "https://spaceref.com/space-commerce/planet-announces-ai-partnerships-at-geoint-2023/"
-    type: article
-    provider:
-      name: SpaceRef
-      domain: spaceref.com
-    quality: 37
-    images:
-      - url: "https://media2.spaceref.com/wp-content/uploads/2022/08/18100814/Planet.png"
-        width: 1679
-        height: 1101
-        isCached: true
-  - title: "Intel Promises Falcon Shores AI Data Center Chip in 2025"
-    excerpt: "These rapid advances in AI don't just happen, though. It takes unfathomable computing power to train and run these models. Intel hopes to get a bigger piece of this business with its upcoming Falcon Shores chip, and it has just revealed the first details ..."
-    publishedDateTime: 2023-05-22T20:45:00Z
-    webUrl: "https://www.extremetech.com/extreme/intel-promises-falcon-shores-ai-data-center-chip-in-2025"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
   - title: "Intel Announces an Integrated Neural AI Accelerator in Meteor Lake"
     excerpt: "Intel says it's working with Microsoft to make the development of AI features on the personal computer a reality. It will do this by offering a VPU, or Vision Processing Unit, as part of the SoC tile in Meteor Lake."
     publishedDateTime: 2023-05-24T18:00:00Z

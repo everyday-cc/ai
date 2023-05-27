@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Workplace AI: How artificial intelligence will transform the workday"
+    excerpt: "Artificial intelligence has been around for years, but scarcely has it found itself in conversation as much as it has now. The launch of OpenAI’s ChatGPT rocketed generative AI onto the radar of ..."
+    publishedDateTime: 2023-05-26T20:21:00Z
+    webUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 84
+    images:
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0fnfjfy.jpg"
+        width: 624
+        height: 351
+        isCached: true
   - title: "Bill Gates: AI will kill off Amazon, Google and drive future humanoid workers"
     excerpt: "Are emerging artificial intelligence tools set to relegate internet giants like Google and Amazon to the same dusty shelves as laser discs, fax machines and overhead projectors?"
     publishedDateTime: 2023-05-24T01:31:00Z

@@ -87,22 +87,6 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "How AI Is Going To Change Supercomputer Rankings Even More"
-    excerpt: "And as we see the rise of commercial AI systems, the vendors that build these machines and ... “Trento” AMD Epyc CPU and a quad of AMD “Aldebaran” Instinct MI250X GPU accelerators link by the Slingshot 11 Ethernet interconnect from Hewlett Packard ..."
-    publishedDateTime: 2023-05-22T21:05:00Z
-    webUrl: "https://www.nextplatform.com/2023/05/22/how-ai-is-going-to-change-supercomputer-rankings-even-more/"
-    ampWebUrl: "https://www.nextplatform.com/2023/05/22/how-ai-is-going-to-change-supercomputer-rankings-even-more/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/05/22/how-ai-is-going-to-change-supercomputer-rankings-even-more/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 61
-    images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2022/08/oak-ridge-frontier-signatures-logo-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Investing in AI — hype and hope"
     excerpt: "Today, Nvidia is valued at $773bn and has sales of around $27bn. In other words, the company is priced at nearly 29 times sales. Those sales could grow rapidly with AI, but even if the company maintains its current margins forever, by my maths it would need to increase sales by around eightfold to justify the current share price."
     publishedDateTime: 2023-05-24T04:00:00Z

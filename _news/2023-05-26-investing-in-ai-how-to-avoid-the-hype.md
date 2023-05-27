@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/investing-ai-how-avoid-hype-202
 webUrl: "https://www.reuters.com/technology/investing-ai-how-avoid-hype-2023-05-26/?ref=biztoc.com"
 type: article
 quality: 67
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Character.AI: What it is and how to use it"
-    excerpt: "So, how does the site work, and how can you start creating? We've got you covered in this quick guide. Character.AI is a site that uses a neural language model to reads huge amounts of text and respond to prompts using that information. Anyone can create a ..."
-    publishedDateTime: 2023-05-22T19:35:00Z
-    webUrl: "https://mashable.com/article/character-ai-generator-explained"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 47
   - title: "Analysis-Investing in AI: How to Avoid the Hype"
     excerpt: "\"It's just that that’s very hard to be true for the entire market.\" Instead of backing hot start-ups or rushing into highly valued AI-themed businesses that might fail, seasoned investors are taking a lateral view to back already proven technology ..."
     publishedDateTime: 2023-05-26T05:34:00Z

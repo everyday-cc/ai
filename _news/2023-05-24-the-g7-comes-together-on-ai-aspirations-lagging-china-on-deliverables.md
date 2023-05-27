@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johannacostigan/2023/05/23/the-g7-comes
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/05/23/the-g7-comes-together-on-ai-aspirations-lagging-china-on-deliverables/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "How the generative AI boom could deliver a wave of successful businesses"
+    excerpt: "Where generative AI startups can start if they want to turn the short-term generative AI hype into long-term growth."
+    publishedDateTime: 2023-05-27T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 68
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_567557479.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "hOexVCffQy3hCuP/mEYni5Hr6j7dkrT2fBmZjtYbp9vWyd4sd0VDYRc0Xxotwq5msdECk87nBWuTTrrJXIFwIAqtrLuRpEVg6xiRdsYmsv/If1jb8koOYtHzjtE4mQVXsLNscJfNHX5YjzwBgEtwxs3hlQi5Ea45+tDS8lW7rF0oS8Vxl2QpmHJkrfIhudEtWTm5WyrAjvBzhHd3PNwJZlyJzmym4frIzOd0gqJV6TNfS0SK+gXGm6TkfinO4ZdUZKUP1WaMf62+4U3li75WpQkRFPZKU/e/h77Qjo/X7K2eI3Tn25FD/u1XLpKT0tiB8mdICsc9nMGlc1+wJJvBwxtKhIdWweiMbaHtSAu0TRo=;7uFepEcpWnqBRsTUMhhUYQ=="
 ---

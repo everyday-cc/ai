@@ -62,6 +62,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Launches 'Jugalbandi', An AI-Based Multilingual Chatbot For Rural India"
+    excerpt: "Microsoft has unveiled a new generative AI-driven chatbot called 'Jugalbandi', designed for farmers and other users living in rural India."
+    publishedDateTime: 2023-05-27T13:24:00Z
+    webUrl: "https://www.ndtv.com/feature/microsoft-launches-jugalbandi-an-ai-based-multilingual-chatbot-for-rural-india-4071723"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 31
 
 secured: "YaLMbAdGmOTbkUV6oAGM43APcTszYSZ7e0Vv3O31ocBz2/k+soaFo21QJnlnZlpBWD7sHQYVUMe4rGeBpR8PqoMPREAMUl83RWCG623zF1aPN0GlFQ9Uj7MkOT7+kn42lYuQVr+dDGQhipA9Bs1pB1sdUCEqUrSakVg/3c5BNPCQoQKn22fowJwlpjyDBrc/0GeXYHSyx6tY+dZX6Gk7Q3q6GjiW5WF56OZT+cjc6E/5l0U5kpdmoJ19/Zibf4jid5z7+LPdlgzsJkzEZ5ixJ+ReitXOb4JtJu+4U+C8l3cAFpDJo0G3LVSEyf+PK/o98LjE11kpQSoJbg92ztGVedGaMjNjzoSk+ASGsXQ2ESQ=;dc1LbUAulAFMbZB19R8+xw=="
 ---

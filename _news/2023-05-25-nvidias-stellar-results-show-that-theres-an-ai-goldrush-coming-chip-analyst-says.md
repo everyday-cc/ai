@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/news/stocks/nvidia-ai-chatgpt-st
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/nvidia-ai-chatgpt-stock-market-news-semiconductor-chips-artificial-intelligence-2023-5?amp"
 type: article
 quality: 98
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia’s stock has more than doubled this year. Can earnings justify the AI hype?"
-    excerpt: "Read: Nvidia CEO expects AI revenue to grow from ‘tiny ... voiced some concerns about Nvidia’s ability to build enough product and demand for gaming chips but still said he’s looking for a beat-and-raise quarter. “While supply is likely to limit ..."
-    publishedDateTime: 2023-05-22T20:58:00Z
-    webUrl: "https://www.marketwatch.com/story/nvidia-stock-has-more-than-doubled-this-year-can-earnings-justify-the-ai-hype-4b7ce2?mod=family-finances"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-stock-has-more-than-doubled-this-year-can-earnings-justify-the-ai-hype-4b7ce2"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-stock-has-more-than-doubled-this-year-can-earnings-justify-the-ai-hype-4b7ce2"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://images.mktw.net/im-608401/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Nvidia shares soar nearly 30% as sales forecast jumps and AI booms"
     excerpt: "Reuters Graphics Nvidia has strained to meet demand for its AI chips, with Tesla Inc (TSLA.O) Chief Executive Officer Elon Musk, who is reportedly building out an artificial-intelligence startup, earlier this week telling an interviewer that the graphics ..."
     publishedDateTime: 2023-05-24T22:13:00Z

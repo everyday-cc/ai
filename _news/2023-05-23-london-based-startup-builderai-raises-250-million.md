@@ -142,15 +142,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Thoro.ai raises $7 million Series A funding round"
-    excerpt: "A startup making robotics-based autonomy stacks for industrial equipment manufacturers has closed on a $7 million funding round, bringing its total outside investment amount to just over $11 million to date. Thoro.ai, a company Carnegie Robotics spun out ..."
-    publishedDateTime: 2023-05-22T21:01:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/05/22/thoro-ai-raises-7-million-series-a-funding.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
   - title: "Singapore-headquartered AI Credit Modeling FinTech finbots.ai"
     excerpt: "Accel-backed finbots.ai, a Singapore headquartered B2B SaaS FinTech today announced signing Sathapana Bank—Cambodia's leading commercial bank—as their latest client. With this, finbots.ai's fast growing client case has extended to 9 countries across APAC and MEA markets."
     publishedDateTime: 2023-05-24T00:00:00Z

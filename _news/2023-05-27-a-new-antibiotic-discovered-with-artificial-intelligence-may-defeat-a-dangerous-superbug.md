@@ -3,28 +3,20 @@ category: news
 title: "A new antibiotic, discovered with artificial intelligence, may defeat a dangerous superbug"
 excerpt: "Using artificial intelligence, researchers say, they’ve found a new type of antibiotic that works against a particularly menacing drug-resistant bacteria."
 publishedDateTime: 2023-05-26T18:45:00Z
-originalUrl: "https://www.kcra.com/article/antibiotic-discovered-with-ai/44017261"
-webUrl: "https://www.kcra.com/article/antibiotic-discovered-with-ai/44017261"
-ampWebUrl: "https://www.kcra.com/amp/article/antibiotic-discovered-with-ai/44017261"
-cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/antibiotic-discovered-with-ai/44017261"
+originalUrl: "https://www.kmbc.com/article/antibiotic-discovered-with-ai/44017261"
+webUrl: "https://www.kmbc.com/article/antibiotic-discovered-with-ai/44017261"
 type: article
-quality: 49
+quality: 9
 heat: -1
 published: false
 
 provider:
-  name: kcra.com
-  domain: kcra.com
+  name: KMBC Kansas City
+  domain: kmbc.com
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
-
-images:
-  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbgkzchjrcdqwmdjmm2i2zdm3bdd0znnl-l19wywdlcy9jbgkzbznlmzywmdawnjzwogf6zmpizhc2-jpg-6471024c02f42.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Scientists use AI to discover new antibiotic to treat deadly superbug"
@@ -69,6 +61,6 @@ related:
       domain: cnn.com
     quality: 47
 
-secured: "s2yvGLFcriaZrMkIr2palmhhX5NTcrrBK/mTNrJ1sQoDzhLJL0hFBiuUS128UwRdd0JFYswQ3ank8CIkO8tj7pHKILC8cvUKwB2cJiF17xZP/SgU3vOuTj8cJNcVloDo423q215BXOwNsh3P0UbtXMxdseXh69QxueoxgOO3iptuHsn/RYYp0Fxw2QhATVcIQNk+ywLvoauYR1jdM7UDvkdlRFYH6KAovcQJgqPpSDP3Rpmc5yX2rU0KcTmqLCu1f/CJE8sGGjv7K4wqI76DJ6816Uv4k/i+A05jf+GGqeVTssxy8Z6X4nVgtYg34N3utt1Iqy7dImN+IXiEQsiajpapgg3u3ZY17QMKmpIO9dI=;TbbSeUFHGwdoaHryFQqvVA=="
+secured: "X0b/BqUzD2ot5U1FHFFwmZ0/WIVBQZNiHlGvZDG8n10Y35vcemoajj+fsFWXsYzOj+gFM5giTgMc8PkrfByGraItYQJBuDvIyIw9oOMCCPJJRODzxxOHPbB7CALAbk2V0oAq+jOpemXGz0utu2Xx89KhzlzJZ7TGjpYKEx7Cc40S+I/I4gMpbI45/QvQOQNCQ621iEV+tI5AgeLhn03ABgnwLUaA8iZqbEeXTfkSS66Wp1INKsPlsB2Cq/ITy31vF76usKTFr+n9nbuhVgRbi7fpFRDy6bSZJhCZYQn0VC+xU9s+Bi00iSqeWZVQMaSkoh8J6G4pg5YZv2Ca0CvXYuZti80HfJVtyEl9HXJDS4k=;6nIvWo6Vp0ict6rp47bHNA=="
 ---
 

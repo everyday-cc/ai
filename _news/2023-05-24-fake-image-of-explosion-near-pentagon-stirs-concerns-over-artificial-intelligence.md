@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo176166981779"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo176166981779"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Fake AI-generated image of explosion near Pentagon spreads on social media"
-    excerpt: "Picture shared on verified accounts fuels concerns over AI’s potential to generate misinformation"
-    publishedDateTime: 2023-05-22T22:24:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/22/pentagon-ai-generated-image-explosion?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/22/pentagon-ai-generated-image-explosion"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/22/pentagon-ai-generated-image-explosion"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/44a2bb26fb4fbdefe3a3e0026acec69495fb7717/0_180_5396_3238/master/5396.jpg?width=620&quality=85&auto=format&fit=max&s=b661924f6f07631277ffb054c19806b7"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "q/g9PYCMigHboxVBOa7TlD0esxhg5ifkREu3i82CmfuhUsS4ZO+tP5QcyW1B4wVYwc+H4zwD/iJcIvN+DJUMGQntNwtWDkBbNEoiDd6GpkrX3JzRg0PBGsacUiBvpoONfhqweUbE5oHpzU9AkjaHGOySwgUeOHj9AprdTCaSffWjss7R87kANzIFUzp1szG96i0uD4k0C7C0qETi8DHFKg1R5Rx4TunUqoWIDGsS38OCJgcF4cUa5bo12KBHWTlQm+MGacmVAjDGss7SwGcbcp4X2z7QlDB0UsHbfsxY6AMx9RXp29vKXt7+YaioFtyhQUNueGotXbtAW5evp43tbw0wWHoAJO5fobQfkXua/PHqWOQSS3i8qPKx1hc6PyWAd6M0G73Eh+pU0yRUj6LwVWtQ7/CkGXsAFWTX78dPodruRvtRpf1UuGEPagZdpyW28fzADyWIVCUrHTBpUuOiuhwFH2m64MiZgzDCo+6Vrrzq03H3An1Q0nuhSwof6me8a59bFDqTnS1NIB0QaGH7SA==;/+P+P2ZfE+6wq+0gX4AQdg=="
 ---

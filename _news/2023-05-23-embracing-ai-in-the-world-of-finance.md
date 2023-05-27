@@ -71,22 +71,6 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "How AI Is Going To Change Supercomputer Rankings Even More"
-    excerpt: "And as we see the rise of commercial AI systems, the vendors that build these machines and ... “Trento” AMD Epyc CPU and a quad of AMD “Aldebaran” Instinct MI250X GPU accelerators link by the Slingshot 11 Ethernet interconnect from Hewlett Packard ..."
-    publishedDateTime: 2023-05-22T21:05:00Z
-    webUrl: "https://www.nextplatform.com/2023/05/22/how-ai-is-going-to-change-supercomputer-rankings-even-more/"
-    ampWebUrl: "https://www.nextplatform.com/2023/05/22/how-ai-is-going-to-change-supercomputer-rankings-even-more/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/05/22/how-ai-is-going-to-change-supercomputer-rankings-even-more/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 61
-    images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2022/08/oak-ridge-frontier-signatures-logo-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "New Life Hacks? Generative AI is Changing and Streamlining Life at Home"
     excerpt: "While some of the cartoon’s more fantastical inventions may still be light years away, many are already here, like vacuuming robots ... the tech startup that launched ChatGPT, reached 100 million users at an unprecedented rate, pushing AI to the ..."
     publishedDateTime: 2023-05-25T02:59:00Z
