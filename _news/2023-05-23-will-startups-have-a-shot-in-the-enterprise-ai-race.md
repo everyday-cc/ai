@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/05/22/startups-enterprise-ai-race/"
 webUrl: "https://techcrunch.com/2023/05/22/startups-enterprise-ai-race/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,61 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "6 Predictions On How Apple Will Join The AI Business Race"
-    excerpt: "Apple hasn’t yet made its big AI move. Here are 6 predictions on what they will do, and how each might affect your business."
-    publishedDateTime: 2023-05-22T07:30:00Z
-    webUrl: "https://www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/"
-    ampWebUrl: "https://www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/05/22/6-predictions-on-how-apple-will-join-the-ai-business-race/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646b115dc42fa4e32d4bd1e7/0x0.jpg?format=jpg&crop=3290,1850,x0,y52,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Prediction: This Cathie Wood AI Stock Will Be 1 of the Top 5 Largest Companies by 2030"
-    excerpt: "Moreover, if Tesla achieved this, it could become one of the top five largest companies. As conditions stand now, Tesla's market cap already exceeds $570 billion, making it the ninth-largest company in terms of market cap. In today's market, its market cap would have to exceed $1.2 trillion to become a top-five company."
-    publishedDateTime: 2023-05-24T09:05:00Z
-    webUrl: "https://www.fool.com/investing/2023/05/24/prediction-cathie-wood-ai-stock-top-5-2030/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 61
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/733173/artificial-intelligence-ai.jpg"
-        width: 2102
-        height: 1426
-        isCached: true
-  - title: "AI, big tech and the ethics of prediction"
-    excerpt: "AI ethics researcher Nell Watson discusses the challenges of regulating an industry that is developing at ‘breakneck speed’."
-    publishedDateTime: 2023-05-24T09:00:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/ai-big-tech-ethics-prediction-regulation-nell-watson"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/05/robot_hand_pointing.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Elon Musk Makes Bold AI Prediction That Will Delight Investors"
-    excerpt: "The best known is ChatGPT, developed by OpenAI, a startup in which software giant Microsoft ... The chatbot showed that AI has reached a point where robots can perform certain tasks much better than humans can. But beyond the search-engine industry ..."
-    publishedDateTime: 2023-05-22T13:48:00Z
-    webUrl: "https://www.thestreet.com/technology/elon-musk-makes-bold-ai-prediction-that-will-delight-investors"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 19
 
 secured: "PJpcTt7o3oYStxTHXBPWOHIGim/HDGKZ3TE/U1MP6ueyFJLoIZi3OGt4Emt58R+jHvC9VYj4aamNj4O47lq6r4m0LfNxsSM7QtqIRUr5I6NYZlamMSRzry1BQiJ54uIvXyKGytvJEM17qZcnX7YzoPAStT/sVMhwJ24uPp2lVk/DrGcd/hfGcXIX0omDOnZ3eMkW0XW7UgTwniGVK8sklVZBSLH1TtQU3S1sRmhZLMbckasEFvOQEmmPdazJZy+UpqzUFo66eT03QCmCrYHEFdl8KyW9EfhVjC4qxUmWaoupvBbu9Ouxy1goXMxvT/rmIsfgUmWN65Z0dgecbzAXV7gcyk5znOz9hqEsaz7RUFMhOMV3BfyEA7kqmPGzPGqCVp69fdEX6MopaIr0ncXDCLXlQyEwZ+jLfyszDp+56ia2E8sIyfvr8OYvRpS18Pzq3CKb972MF769N9I4H4+gmRna7QGVt3me2/rqRsmU3lEw17CnIEBrsyuUA7Fk8/Bn9mS3lblzyYGoNH5d17nP5Q==;4OTzBU2OXAFkrektyFezsg=="
 ---

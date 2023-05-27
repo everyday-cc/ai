@@ -3,21 +3,21 @@ category: news
 title: "A new antibiotic, discovered with artificial intelligence, may defeat a dangerous superbug"
 excerpt: "Using artificial intelligence, researchers say, they’ve found a new type of antibiotic that works against a particularly menacing drug-resistant bacteria."
 publishedDateTime: 2023-05-26T18:45:00Z
-originalUrl: "https://www.kcra.com/article/antibiotic-discovered-with-ai/44017261"
-webUrl: "https://www.kcra.com/article/antibiotic-discovered-with-ai/44017261"
-ampWebUrl: "https://www.kcra.com/amp/article/antibiotic-discovered-with-ai/44017261"
-cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/antibiotic-discovered-with-ai/44017261"
+originalUrl: "https://www.wesh.com/article/antibiotic-discovered-with-ai/44017261"
+webUrl: "https://www.wesh.com/article/antibiotic-discovered-with-ai/44017261"
+ampWebUrl: "https://www.wesh.com/amp/article/antibiotic-discovered-with-ai/44017261"
+cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/antibiotic-discovered-with-ai/44017261"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: kcra.com
-  domain: kcra.com
+  name: WESH
+  domain: wesh.com
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
 images:
@@ -69,6 +69,6 @@ related:
       domain: cnn.com
     quality: 47
 
-secured: "N2Oq0hZZhWoAy00zy8m0AmrAkZ2JFL2YyR2uRFTnRax0DSGSWXQ9EWSfMW7UazUpr1EmQdnFg4RrR/zJgITVQn6/eVDx3xV1t9QAVxETV0dfgqd02TOZxmx5BYSScKaAO6Z6JkS/zpQYQYYHFurjC6tQjKducvWm28GBhfM9cWrfQgtwTrPJSpI7N6JxoUuTAwLAjCcvZx0sTw9w9wC0NgTXYNT5Pf7lyN2Cq1F3RJ8v+iOH08rKgHxFXvAHKzLSDwlPf4RSRC0CTcOoFgEskdVLzkWwE4PUFVRfX4KCY41fB7rKjw7rhd1Jhahcljqv7tAc42WeqJJWEyBDB0NzIDdeVwwZ8/0/USIfhKiarz4=;xj7ritUX9aNMQLDhIY9QlA=="
+secured: "8Jl73EUD/rZkKh9kIEYAXJr4Bz1tMM62cpfZkYsH50jsq2ewcZSVyPC6qNMt/qZ/z0ew9IZO3UuVdEXsT3D1y0Uo3AUxfhUpJRcK3KThwyofgalP9HP6yP3XrXtXBPjv1SsAgCSm+RzvvwF4K/ibH3R2D56WMAbYWORDsSie688ncwkZWiTxMf6hFL6VmImoFaw7zSPJimpphQ/Xv/GRjP4ekVcNaZBbf6mzWE1Y1z9qDy33ZEor+OvVm7rNj3aerRvqHVTjvGWuCXkCnOMBJpZRPEKnn6ylKp+k03WBGchY1FdGIWNdadgtlJNr92LuDyvXf5LTVFy4DuapSoG0HQP2EPxO+ijt0WNql8G/FL0=;RlaJPO4cPaBxKPLjFW/hPg=="
 ---
 

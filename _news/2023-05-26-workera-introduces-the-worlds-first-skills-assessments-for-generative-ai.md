@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Some 42% of Gen Z workers are nervous to tell their manager they are using AI at work, new survey finds"
-    excerpt: "UK companies are falling behind on implementing AI at work leaving employees in the dark about whether and how they can use AI."
-    publishedDateTime: 2023-05-22T08:25:00Z
-    webUrl: "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5"
-    ampWebUrl: "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: "https://i.insider.com/64675e70cd3a9c0019184f68?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Bill Gates: AI will kill off Amazon, Google and drive future humanoid workers"
     excerpt: "Are emerging artificial intelligence tools set to relegate internet giants like Google and Amazon to the same dusty shelves as laser discs, fax machines and overhead projectors?"
     publishedDateTime: 2023-05-24T01:31:00Z

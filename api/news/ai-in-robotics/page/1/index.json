@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-27-how-should-ceos-embrace-ai-or-will-ai-assume-ceo-roles.md",
+      "title": "How Should CEO’s Embrace AI Or Will AI Assume CEO Roles?",
+      "excerpt": "This article discusses the emergence of CEO AI robots/cobots as well as the leadership governance role of CEOs in leading AI investments in their organizations. Examples of companies using CEO robots are identified.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/05/26/how-should-ceos-embrace-ai-or-will-ai-assume-ceo-roles/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/05/26/how-should-ceos-embrace-ai-or-will-ai-assume-ceo-roles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64713f5cdb174f931db2620b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/05/26/how-should-ceos-embrace-ai-or-will-ai-assume-ceo-roles/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/05/26/how-should-ceos-embrace-ai-or-will-ai-assume-ceo-roles/amp/",
+      "publishedDateTime": "2023-05-26T16:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-05-27-opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems.md",
       "title": "Opinion: Stop the robot takeover: How AI advancement can pose problems",
       "excerpt": "Pospisil explains that most jobs robots will take over are automated. They still cannot compare to a human’s ability to adapt or critical thinking skills in more specialized jobs not having to do with Ford production. In short, they won’t replace us in the job market because they’re missing a human element.",
@@ -233,49 +285,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-bill-gates-worrying-prediction-for-artificial-intelligence-and-big-companies.md",
-      "title": "Bill Gates' worrying prediction for artificial intelligence and big companies",
-      "excerpt": "As one of the world's most important tycoons and philanthropists, Bill Gates has discussed how the emergence of artificial intelligence will affect the world and, in particular, la",
-      "sourceUrl": null,
-      "webUrl": "https://www.marca.com/en/technology/2023/05/25/646f321c268e3ea7218b459c.html",
-      "originalUrl": "https://www.marca.com/en/technology/2023/05/25/646f321c268e3ea7218b459c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://phantom-marca.unidadeditorial.es/625075a355f34ff61d65ebf624750347/resize/1200/f/jpg/assets/multimedia/imagenes/2023/05/25/16850010881386.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.marca.com/en/technology/2023/05/25/646f321c268e3ea7218b459c.html",
-      "cdnAmpWebUrl": "https://amp-marca-com.cdn.ampproject.org/c/s/amp.marca.com/en/technology/2023/05/25/646f321c268e3ea7218b459c.html",
-      "publishedDateTime": "2023-05-25T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MARCA",
-        "domain": "marca.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {

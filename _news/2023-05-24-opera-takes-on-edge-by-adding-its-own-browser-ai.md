@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/opera-browser-ai-aria-3328726/"
 webUrl: "https://www.androidauthority.com/opera-browser-ai-aria-3328726/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta starting to built its own AI chips"
-    excerpt: "Meta Training and Inference Accelerator can't play Crystalis yetMeta is building its first custom chip specifically for running AI models.  CEO Mark Zuckerberg recently said the company sees \"an opportunity to introduce AI agents to billions of people in ways that will be useful"
-    publishedDateTime: 2023-05-22T08:50:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/56933-meta-starting-to-built-its-own-ai-chips"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/01d655324d8449f7185ac6f82d5472e9_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Google is starting to roll out its AI search to properly take on Bing"
     excerpt: "Google has announced that it is starting to roll out its generative AI technology to search, properly taking on Bing."
     publishedDateTime: 2023-05-26T00:47:00Z

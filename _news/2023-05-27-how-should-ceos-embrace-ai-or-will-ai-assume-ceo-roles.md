@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/cindygordon/2023/05/26/how-should-ceos-emb
 ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/05/26/how-should-ceos-embrace-ai-or-will-ai-assume-ceo-roles/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/05/26/how-should-ceos-embrace-ai-or-will-ai-assume-ceo-roles/amp/"
 type: article
-quality: 87
-heat: 107
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64713f5cdb174f931db2620b/0x0.jpg?format=jpg&width=1200"
@@ -54,6 +55,6 @@ related:
       domain: bizjournals.com
     quality: 3
 
-secured: "NUfpsMa15m2E01ooFgLYKJpC8AekXkxO/OKXXnvlEAzOS2HjzDkhauaOsfj366q0+yDSSVmJKiHSvtt6l+lhkruHtanaH9bqaXFNkz20RcSAo75w0r1l6LKbPumtrHj1m37Llz+l4li5IiW/vIfDcEtVdSsbtPvQ1ggMOH7Ltytchf5Pi+4G7QCt0cjI1aakYPktcSqfH6AAOUChfW8wLWAkiFeMJ3p8c2fjNsJndZJeJmNCVFhCPZOas3nY1WicQIdpRQ/b+9yBswx1bgaOREP8ui7vtGwsNjmgSTRDWYObiVPC7dhDfdDt8pw9B4mxQtjUqHoCy1v7fRDlI8H1qdEs79wCqqcZgOBve2dG+GU=;BQsCMkm0nC9Ysz8M+Y7/QQ=="
+secured: "ZSkisi6DEJ00Ejdh1Ldr8OkTnEzgwMz83YeUekBZVQGfKRVWtReEVoRgWB7NtdxcrVgfaa/mrj/HeCCzfcHvf7ulLdskPtSTDvEDsq2PeP2kZ5y0xdJn1hSWljWfsazEJaR4yozHkEW2qWWU5zUAEQHYJMsZ/2JfB7S8AjSteDWMS8D9QUavUHD60Yz+BMIFmEkyx9mIVITaRc2BMpeKD2NdZj0MbyrLS+PburaiDfWljk8xrq+QjZPWosfMNXYJBUXsIp7tQg3qLwhD0WjVLkfHATnagp8B72sXKlsDSzQleW6+z3k/kGbBFFFk4fNRrJjx8e4SHgKDqTxnFbnrR6BeIusrXUQM0FQCGNtkyRgSPPLa5hvEWm6OhBwh16mL3DsUpJOHAEvClA6zkbYW4juwqELqyxq/M2l0xCSaxCNhbRFnoNVt3C9RoXyDl8DPz4uRp0pTAkClIpoV1QbkmJ/i9usHuu+G2/rhS9yWLaer4zOZN/p1KMGf6dmW4nQfmECrd8eRXGOeSf7B01vnaA==;9U5bBcwjXmNlmwPkZWBJPw=="
 ---
 

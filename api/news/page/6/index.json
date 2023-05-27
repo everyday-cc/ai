@@ -861,6 +861,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-21-tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns.md",
+      "title": "TSA testing facial recognition at more airports, raising privacy concerns",
+      "excerpt": "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes",
+      "sourceUrl": null,
+      "webUrl": "https://richmond.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_dc05c7fa-a574-550d-b9d8-3ea2916ff588.html",
+      "originalUrl": "https://richmond.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_dc05c7fa-a574-550d-b9d8-3ea2916ff588.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/1/c0/1c0df682-8610-55cb-a4dd-613acee05727/64642a15b0633.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-20T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Richmond",
+        "domain": "richmond.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-21-ai-draws-attention-at-g-7-summit-with-leaders-calling-for-guidelines.md",
       "title": "AI Draws Attention at G-7 Summit, With Leaders Calling for Guidelines",
       "excerpt": "The leaders of the Group of Seven nations say we need to develop an international framework \"to achieve the common vision and goal of trustworthy AI.\"",
@@ -1132,57 +1175,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-china-is-using-ai-to-raise-the-dead-and-give-people-one-last-chance-to-say-goodbye.md",
-      "title": "China is using AI to raise the dead, and give people one last chance to say goodbye",
-      "excerpt": "They wanted to speak to their dead grandparents one last time, so they used artificial intelligence to rebuild loved ones they'd lost.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5",
-      "originalUrl": "https://www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6453d02bb4a8cd00187ac433?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5?amp",
-      "publishedDateTime": "2023-05-20T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

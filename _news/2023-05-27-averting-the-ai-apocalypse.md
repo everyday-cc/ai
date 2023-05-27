@@ -43,19 +43,19 @@ related:
         width: 700
         height: 342
         isCached: true
-  - title: "Making sense of AI research in medicine, in one slide"
-    excerpt: "Research on artificial intelligence in health care runs the gamut of risky but rewarding to relatively useless. Here's what one expert makes of it."
-    publishedDateTime: 2023-05-22T08:30:00Z
-    webUrl: "https://www.statnews.com/2023/05/22/ai-artificial-intelligence-research-medicine-health/"
+  - title: "AI, big tech and the ethics of prediction"
+    excerpt: "AI ethics researcher Nell Watson discusses the challenges of regulating an industry that is developing at ‘breakneck speed’."
+    publishedDateTime: 2023-05-24T09:00:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/ai-big-tech-ethics-prediction-regulation-nell-watson"
     type: article
     provider:
-      name: STAT
-      domain: statnews.com
-    quality: 37
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
     images:
-      - url: "https://www.statnews.com/wp-content/uploads/2023/05/DSC046502-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/05/robot_hand_pointing.jpeg"
+        width: 800
+        height: 600
         isCached: true
   - title: "HHS CIO Karl Mathias Details 3 Promising Applications of AI in Health Care Sector"
     excerpt: "Department of Health and Human Services Chief Information Officer Dr. Karl Mathias highlighted three major areas of AI progress he’s seeing within the health care sector during his keynote address at the Potomac Officers Club ’s 4th Annual CIO Summit."

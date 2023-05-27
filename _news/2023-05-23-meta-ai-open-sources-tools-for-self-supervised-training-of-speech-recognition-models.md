@@ -83,6 +83,22 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Meta AI’s Massively Multilingual Speech Project Scales Speech Technology to 1000+ Languages"
+    excerpt: "Speech technologies such as automatic speech recognition (ASR) and speech synthesis or text-to-speech (TTS) are playing an increasingly important role in many real-world applications. Contemporary speech technology systems however support only about one hundred languages at best — a tiny fraction of the over 7,"
+    publishedDateTime: 2023-05-26T02:20:00Z
+    webUrl: "https://syncedreview.com/2023/05/25/meta-ais-massively-multilingual-speech-project-scales-speech-technology-to-1000-languages/"
+    ampWebUrl: "https://syncedreview.com/2023/05/25/meta-ais-massively-multilingual-speech-project-scales-speech-technology-to-1000-languages/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/05/25/meta-ais-massively-multilingual-speech-project-scales-speech-technology-to-1000-languages/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 49
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
+        isCached: true
   - title: "Meta Platforms open-sources tools for self-supervised training of speech recognition models"
     excerpt: "which aims to overcome the challenges of creating accurate and reliable speech recognition models. AI models that can recognize human speech and respond to it clearly have a lot of potential, especially for people who rely entirely on voice access to ..."
     publishedDateTime: 2023-05-22T16:34:00Z

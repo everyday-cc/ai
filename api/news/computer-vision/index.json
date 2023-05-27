@@ -53,7 +53,7 @@
       "originalUrl": "https://www.foxnews.com/tech/tsas-facial-recognition-air-travel-sparks-privacy-outrage",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -86,6 +86,49 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-05-21-tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns.md",
+      "title": "TSA testing facial recognition at more airports, raising privacy concerns",
+      "excerpt": "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes",
+      "sourceUrl": null,
+      "webUrl": "https://richmond.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_dc05c7fa-a574-550d-b9d8-3ea2916ff588.html",
+      "originalUrl": "https://richmond.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_dc05c7fa-a574-550d-b9d8-3ea2916ff588.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/1/c0/1c0df682-8610-55cb-a4dd-613acee05727/64642a15b0633.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-20T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Richmond",
+        "domain": "richmond.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1337,58 +1380,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-face-recognition-systems-market-worldwide-industry-trends-2023-2030.md",
-      "title": "Face Recognition Systems Market | Worldwide Industry Trends 2023-2030",
-      "excerpt": "The report offers essential statistical information on the market status of Face Recognition Systems players, making it",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-worldwide-industry-trends-2023-2030-2023-05-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-worldwide-industry-trends-2023-2030-2023-05-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-05-19-meta-working-on-new-ai-chip-next-gen-gpus-for-video-workloads.md",
+      "title": "Meta Working On New AI Chip, Next-Gen Gpus For Video Workloads",
+      "excerpt": "Meta (formerly Facebook) is building its first-generation custom silicon chip for running artificial intelligence (AI) model",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106275451/Meta-Working-On-New-AI-Chip-Next-Gen-Gpus-For-Video-Workloads",
+      "originalUrl": "https://menafn.com/1106275451/Meta-Working-On-New-AI-Chip-Next-Gen-Gpus-For-Video-Workloads",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-05/19/I_95b6bimage_story.jpg",
+          "width": 304,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T23:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-19-its-all-gonna-take-over-americans-reveal-fears-of-ai-impacting-every-day-life.md",
       "title": "'It's all gonna take over': Americans reveal fears of AI impacting every day life",
       "excerpt": "Americans in Austin, Texas, shared what they most fear regarding artificial intelligence. Several said they worried about AI job displacement.",
@@ -1138,50 +1181,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-why-google-cloud-bests-aws-microsoft-in-generative-ai-kevin-ichhpurani.md",
-      "title": "Why Google Cloud Bests AWS, Microsoft In Generative AI: Kevin Ichhpurani",
-      "excerpt": "Google’s generative AI enterprise innovation with Google Cloud is better compared to Microsoft and AWS’ artificial intelligence, says partner leader Kevin Ichhpurani.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/why-google-cloud-bests-aws-microsoft-in-generative-ai-kevin-ichhpurani",
-      "originalUrl": "https://www.crn.com/news/cloud/why-google-cloud-bests-aws-microsoft-in-generative-ai-kevin-ichhpurani",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0281-180b09f845b3-5ac794ee6411-1000/kevin-ichhpurani-google-cloud.jpeg",
-          "width": 610,
-          "height": 489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

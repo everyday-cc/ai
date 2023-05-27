@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Some 42% of Gen Z workers are nervous to tell their manager they are using AI at work, new survey finds"
-    excerpt: "UK companies are falling behind on implementing AI at work leaving employees in the dark about whether and how they can use AI."
-    publishedDateTime: 2023-05-22T08:25:00Z
-    webUrl: "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5"
-    ampWebUrl: "https://www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gen-z-workers-nervous-to-tell-manager-ai-use-survey-2023-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: "https://i.insider.com/64675e70cd3a9c0019184f68?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Workera introduces the world's first skills assessments for generative AI"
     excerpt: "PALO ALTO, Calif., May 25, 2023 /PRNewswire/ -- Series B startup Workera announces the release of its generative AI assessments to test, rate and develop the skills of this cutting-edge technology in the contemporary workforce. Over 1,000 users have ..."
     publishedDateTime: 2023-05-25T17:19:00Z

@@ -29,20 +29,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 66
-  - title: "TSA tests facial recognition at more airports, raising concerns on privacy"
-    excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"
-    publishedDateTime: 2023-05-22T07:10:00Z
-    webUrl: "https://www.stltoday.com/tsa-tests-facial-recognition-at-more-airports-raising-concerns-on-privacy/article_105201df-9846-5ebb-b88a-64277b9fc900.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 52
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/b8/3b86fda3-16e1-56fb-944d-a3b12481b1fb/646b155acd51a.image.jpg?crop=887%2C466%2C0%2C63&resize=887%2C466&order=crop%2Cresize"
-        width: 887
-        height: 466
-        isCached: true
   - title: "TSA’s Facial Recognition Sparks Privacy Outrage"
     excerpt: "TSA is currently testing its new facial recognition technology at a number of airports throughout the U.S., identifying and verifying passengers by their unique features. Some government officials are unhappy. They are worried about the risk to civil ..."
     publishedDateTime: 2023-05-22T22:31:00Z
