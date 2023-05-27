@@ -22,6 +22,15 @@ topics:
   - AI
 
 related:
+  - title: "Elastic Unveils the Elasticsearch Relevance Engine for AI"
+    excerpt: "Elastic, the company behind Elasticsearch, today announced the launch of the Elasticsearch Relevance Engine (ESRE),"
+    publishedDateTime: 2023-05-23T15:18:00Z
+    webUrl: "https://www.datanami.com/this-just-in/elastic-unveils-the-elasticsearch-relevance-engine-for-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
   - title: "Elastic to power generative AI models with Elasticsearch Relevance Engine"
     excerpt: "“Generative AI is a revolutionary moment in technology and the companies ... They include Relativity ODA LLC, a provider of legal technology, which is using ESRE and Microsoft Corp.’s Azure OpenAI Service to improve the relevance of results within ..."
     publishedDateTime: 2023-05-23T13:00:00Z

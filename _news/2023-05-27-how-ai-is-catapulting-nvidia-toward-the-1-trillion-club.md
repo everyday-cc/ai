@@ -1,28 +1,30 @@
 ---
 category: news
-title: "Nvidia Stock Surges As Generative AI Frenzy Boosts Sales"
-excerpt: "Nvidia's stock price surged Wednesday after the company said a generative AI spending frenzy is boosting revenue."
-publishedDateTime: 2023-05-24T23:08:00Z
-originalUrl: "https://www.crn.com/news/components-peripherals/nvidia-stock-surges-as-generative-ai-frenzy-boosts-sales"
-webUrl: "https://www.crn.com/news/components-peripherals/nvidia-stock-surges-as-generative-ai-frenzy-boosts-sales"
+title: "How AI Is Catapulting Nvidia Toward the $1 Trillion Club"
+excerpt: "The company’s chips are leaders in processing the complex calculations driving the latest internet revolution."
+publishedDateTime: 2023-05-26T21:31:00Z
+originalUrl: "https://www.wsj.com/articles/how-ai-is-catapulting-nvidia-toward-the-1-trillion-club-14f42380"
+webUrl: "https://www.wsj.com/articles/how-ai-is-catapulting-nvidia-toward-the-1-trillion-club-14f42380"
 type: article
-quality: 56
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
   - AI
-  - AI in Sales
 
 images:
-  - url: "https://www.crn.com/resources/027e-1760b1bd867a-fdfae1545ede-1000/jensen_huang_nvidia.jpeg"
-    width: 648
-    height: 432
+  - url: "https://images.wsj.net/im-788824/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -270,20 +272,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI Is Catapulting Nvidia Toward the $1 Trillion Club"
-    excerpt: "The company’s chips are leaders in processing the complex calculations driving the latest internet revolution."
-    publishedDateTime: 2023-05-26T21:31:00Z
-    webUrl: "https://www.wsj.com/articles/how-ai-is-catapulting-nvidia-toward-the-1-trillion-club-14f42380"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-788824/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Nvidia close to becoming first trillion-dollar chip firm after stellar forecast"
     excerpt: "Courtesy NVIDIA/Handout via REUTERS May 25 (Reuters) - For Nvidia Corp (NVDA.O), the boom in generative artificial intelligence (AI) is everything, everywhere, all at once. The chip designer's shares extended their rally this year on Thursday, soaring 25% ..."
     publishedDateTime: 2023-05-25T09:44:00Z
@@ -359,6 +347,20 @@ related:
       - url: "https://images.barrons.com/im-268126/social"
         width: 1279
         height: 640
+        isCached: true
+  - title: "Nvidia Stock Surges As Generative AI Frenzy Boosts Sales"
+    excerpt: "Nvidia's stock price surged Wednesday after the company said a generative AI spending frenzy is boosting revenue."
+    publishedDateTime: 2023-05-24T23:08:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-stock-surges-as-generative-ai-frenzy-boosts-sales"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 56
+    images:
+      - url: "https://www.crn.com/resources/027e-1760b1bd867a-fdfae1545ede-1000/jensen_huang_nvidia.jpeg"
+        width: 648
+        height: 432
         isCached: true
   - title: "Cathie Wood’s Top Fund Missed Nvidia’s Stock Surge. But ARK Made This AI Bet."
     excerpt: "Cathie Wood's Ark Innovation ETF sold its Nvidia shares before the majority of the chip maker's stock rally but is backing automation software maker UiPath."
@@ -704,6 +706,6 @@ related:
       domain: barrons.com
     quality: 19
 
-secured: "iU/9H2APbDF/yFz/kqyuvH5hfTjbT/FrB7RraGosN+1N0NPdsREHUyXzJAbHkNLWiFFSkOQ/+7JQdh/bYX2YZTWbk+5x65gma3rgS0HKukdd3NOx3z56Qj6JRBE4qUZ1Kdj1zdmGIU6Tt/cvGB1A4rITCqCd3GMtd0kFluBN98J5lZvIPjLQlN1FAJQFu/bm2mPXoL/2B2ib1rNoe4lGIg4vE3qC+T8VJNfZDQA9umnHpGDPiXHed3ibrLKDGhf4bDKqAOi6+yj3MItXXK9AwkO2h0Oh1jwLY436bTlSV899ltuow1MCOrINEUm7iAZ8xEKMQhFCQKxiNF8LucubBpwzcQa/93PzbGp72fZ7lr0=;PgGB4eCueVjS0C9URlTEHw=="
+secured: "idWQtSx2PFklzyC94UMkbCj+NGs4OD5R0wB0SQ1NEjImzARhNLps7PiIooMCKt8LrpgecFuxb0Y8adtlTziXvRQpqJk6hKVpvpCK8SRDBU9oe3nYOKzG18iQerCEFviRXW829Me/1KYntKRD9+wcM7zGKKr4EogBisJ8jC73rLpwTlj8JjMVIfz0RAJR8mBNePMq4fv5lVdryv22PSezpYcrk7Y5efFkyliCqP8hTiHcu159w5Px3WkeOfTisX//OziGVSipM5bb8Up94Rh4I/ufdyuxW1Bxwquqn9+NrZrXowkzwcSynkrykyhnGRByaHGSHpWON53KEk5zS09yTLRX6tAmmPMO680DDYfW6xY=;C4Tu78339BJtJ8sPEe4RRQ=="
 ---
 

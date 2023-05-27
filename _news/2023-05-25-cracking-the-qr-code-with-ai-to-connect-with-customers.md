@@ -40,6 +40,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Regulators take aim at AI to protect consumers and workers"
+    excerpt: "AI also affects hiring, housing and working conditions. Ben Winters, Senior Counsel for the Electronic Privacy Information Center, said a joint statement on enforcement released by federal agencies last month was a positive first step."
+    publishedDateTime: 2023-05-27T04:27:00Z
+    webUrl: "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers"
+    ampWebUrl: "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 57
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2023/05/OCR-Z-BOFA-SVB-0316.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Security processors use AI to detect attacks on next-gen servers"
     excerpt: "New trusted control/compute units (TCU) combine silicon, AI and data collection, and software into a single chip, allowing monitoring during normal server operation for side-channel, network and other peripheral-based attacks. Axiado Corporation has ..."
     publishedDateTime: 2023-05-24T16:58:00Z

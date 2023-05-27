@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellen
 webUrl: "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellence-for-generative-ai/"
 type: article
 quality: 119
-heat: 309
+heat: 299
 published: true
 
 provider:
@@ -217,15 +217,6 @@ related:
       name: Variety
       domain: variety.com
     quality: 19
-  - title: "Apple Ramps Up Hiring of Generative AI Experts"
-    excerpt: "Apple is hiring for at least a dozen new experts in generative artificial intelligence amid rumors that the company is stepping up its work on AI."
-    publishedDateTime: 2023-05-22T12:51:00Z
-    webUrl: "https://www.macrumors.com/2023/05/22/apple-ramps-up-hiring-of-ai-experts/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 17
   - title: "Letter from the editor on generative AI and the FT"
     excerpt: "In its more than 130-year history the Financial Times has upheld the highest standards of journalism. As editor of this newspaper, nothing matters to me more than the trust of readers in the quality journalism we produce. Quality means above all accuracy. It also means fairness and transparency."
     publishedDateTime: 2023-05-26T14:53:00Z

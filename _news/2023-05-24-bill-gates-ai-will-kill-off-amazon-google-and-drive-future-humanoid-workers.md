@@ -50,6 +50,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 46
+  - title: "Don’t fear that AI is here: How the emerging tech can help HR pros"
+    excerpt: "With so much commotion surrounding AI, it’s tempting to write it off as a passing trend but don’t be fooled. As this technology evolves and continues making its way into everyday life, it’s not a matter of if AI will find its way into the world of HR,"
+    publishedDateTime: 2023-05-24T14:52:00Z
+    webUrl: "https://www.benefitspro.com/2023/05/24/dont-fear-that-ai-is-here-how-the-emerging-tech-can-help-hr-pros/"
+    type: article
+    provider:
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 17
 
 secured: "VzTyiFy8CJbcaTkt4Q7SRt7Jq4UVZDXDOEHsJnqCy4h02waW9XUZ8ktgHZZdL+fP95YkdD3Z+gazGVDJcA4HD1gEqAa2UsW0CpRw/0LLnWY6LumvyoijJUmXdtDEHQchLKtF/2I8LUNvU3+LfiBduhESV0kpGXHRrdUrg2gIlaGT47F0ymiu5P06iU6VKUFdusf+NsEHjkZ4CzXNXx4EEL72pdkeaVt7aVKb3geD8vY0cageKVVqZbhp/ofVozrPdnshUIQVEap2orqeTUbEXPEH6zZrD7LZL5GZj0rnWs3WFlOBvvK4HWlEGbqVSKNbmQxNsqoMTvthqcnMgsVpTt540UnkeRMmn0rGEu+S7ad11HR2kjnIjK6K4euSJiXW3CqE7fGis0TZOyFnSNmgC8H+QoHNZPj38RAmtIs9g2OFcC6piX7MvvJucDjScbuIEdtekLtunLarCtewiy/bu6B/icOQz5Ym0jvaOaLg+Ca3SUB6f1E7qRStBEVagtknV7mGFxlSW7IM3h9vDH6Rjw==;XXhAvtsvtTdc419R36dSWw=="
 ---

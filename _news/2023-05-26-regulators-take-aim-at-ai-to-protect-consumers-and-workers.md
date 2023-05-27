@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/regulators-aim-ai-prot
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/regulators-aim-ai-protect-consumers-workers-99622780"
 type: article
 quality: 57
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Regulators take aim at AI to protect consumers and workers"
+    excerpt: "AI also affects hiring, housing and working conditions. Ben Winters, Senior Counsel for the Electronic Privacy Information Center, said a joint statement on enforcement released by federal agencies last month was a positive first step."
+    publishedDateTime: 2023-05-27T04:27:00Z
+    webUrl: "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers"
+    ampWebUrl: "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 57
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2023/05/OCR-Z-BOFA-SVB-0316.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Cracking the QR Code with AI to Connect with Customers"
     excerpt: "Tech Startup RelotiS Uses AI and ML to Build Customer Loyalty, One Package at a Time Wilmington, DE, May 24, 2023 — Product companies use an increasing array of technology … Continue Reading →"
     publishedDateTime: 2023-05-24T17:35:00Z

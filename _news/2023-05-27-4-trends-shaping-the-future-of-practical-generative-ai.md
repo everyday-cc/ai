@@ -216,15 +216,6 @@ related:
       name: Variety
       domain: variety.com
     quality: 19
-  - title: "Apple Ramps Up Hiring of Generative AI Experts"
-    excerpt: "Apple is hiring for at least a dozen new experts in generative artificial intelligence amid rumors that the company is stepping up its work on AI."
-    publishedDateTime: 2023-05-22T12:51:00Z
-    webUrl: "https://www.macrumors.com/2023/05/22/apple-ramps-up-hiring-of-ai-experts/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 17
   - title: "Letter from the editor on generative AI and the FT"
     excerpt: "In its more than 130-year history the Financial Times has upheld the highest standards of journalism. As editor of this newspaper, nothing matters to me more than the trust of readers in the quality journalism we produce. Quality means above all accuracy. It also means fairness and transparency."
     publishedDateTime: 2023-05-26T14:53:00Z
@@ -262,6 +253,6 @@ related:
       domain: businesswire.com
     quality: 8
 
-secured: "MTUCwVXyBju26yW2DRE7bVylZ2HmYVIIuAlb+efhYKpbqplU2pkKdcPcMRdGMCmsmiN5vIxJNAEF20uURjvbXNRAE1NwRkse8fWIisDg5Xrz9ZTUKeKW4jwzNIE5QTupgR7yp4lmT2EgGZGlC9VioRApxIvF2P4i9pmjxRqaz4ibJYs7dFWjqwTBkfUjBCjxW2zD+hG/TX+aQjYl3ju9O3C4fj+TxT7uEAzvX5moC9+ePfuCwgn67umGF7UcItROJf+4ThavoGlrA4Z39gxuwEsSIH2FDBVpLcdONgOha2Vx5GC5L8Qpci21pIraYWXWmupEgnPEM6ENfZBUp1cGYk5MG4wI33R+mxFuw0NBGhU=;CQSPM9K2xsR1RqKqBYt0fQ=="
+secured: "gfYstoH0GmNTuVdMsJEVGxxMKPx5GbBWBW1DM7Lo2VLvd7T9k56L7S6G9Y/vp4c1exGLJtc9wj8S1bKuyQopVnHn+3a3QoLHkPTO/O5biaRx6AlLKpvbbYzOFt2bbqppMf4GnnI1In2Hd9OKb1Jrz9h/h3OLjKZsKb9EYqmTAi3P/rSvYKgYSxplnXWivlKbvBXouDAEu8DbkliCJAPKBKXnuBxkoIp0jS3cwxJ/lKtuJrxLPrbdv9lTcgzbr/ysvUSgrG8DUTggWdUtCtY1A11p68LI4DtDFkU7qvCCndGwnQFpSLCMGP2ruGS/UgxaJ5Dp3HDONpiMWcNuleCJty2kdEYl0Hb9JoQWVh9SGQR6ZCKxZ+NX0KPylNr0hz0WIshJ7Blmx7oTQnADpj+hnLMTMNwAPBeLVGNbApZqHHyQQYqlAFjpp9SdEsIQ3sSuFPSeCD4YlMbIvI0AZ1GbrNR8kxx1ra1tg6bVYUMfRaFqDw/Vl2+4BKCfw0G+TQZIHTIadcSqaXl0aGKj7MYKFw==;hjidDkMGFejBVjw/pGOZxg=="
 ---
 

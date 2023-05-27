@@ -1,0 +1,71 @@
+---
+category: news
+title: "Regulators take aim at AI to protect consumers and workers"
+excerpt: "AI also affects hiring, housing and working conditions. Ben Winters, Senior Counsel for the Electronic Privacy Information Center, said a joint statement on enforcement released by federal agencies last month was a positive first step."
+publishedDateTime: 2023-05-27T04:27:00Z
+originalUrl: "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers"
+webUrl: "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers"
+ampWebUrl: "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers/amp/"
+cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers/amp/"
+type: article
+quality: 57
+heat: -1
+published: false
+
+provider:
+  name: Orange County Register
+  domain: ocregister.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.ocregister.com/wp-content/uploads/2023/05/OCR-Z-BOFA-SVB-0316.jpg?w=1024&h=682"
+    width: 1024
+    height: 682
+    isCached: true
+
+related:
+  - title: "Regulators take aim at AI to protect consumers and workers"
+    excerpt: "AI also affects hiring, housing and working conditions ... hosted by software industry group BSA. “Those could start with industry standards and some sort of coalescing around that. And decisions about whether or not to make those compulsory, and ..."
+    publishedDateTime: 2023-05-26T09:28:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/regulators-aim-ai-protect-consumers-workers-99622780"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/regulators-aim-ai-protect-consumers-workers-99622780"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/regulators-aim-ai-protect-consumers-workers-99622780"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/Business/wirestory_8f5a450bd05e6079c742a9ce00b5c576_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Cracking the QR Code with AI to Connect with Customers"
+    excerpt: "Tech Startup RelotiS Uses AI and ML to Build Customer Loyalty, One Package at a Time Wilmington, DE, May 24, 2023 — Product companies use an increasing array of technology … Continue Reading →"
+    publishedDateTime: 2023-05-24T17:35:00Z
+    webUrl: "https://multichannelmerchant.com/press-releases/cracking-the-qr-code-with-ai-to-connect-with-customers/"
+    type: article
+    provider:
+      name: Multichannel Merchant
+      domain: multichannelmerchant.com
+    quality: 37
+    images:
+      - url: "https://multichannelmerchant.com/wp-content/uploads/2023/05/relotis-product-2-002.jpg"
+        width: 272
+        height: 280
+        isCached: true
+  - title: "Security processors use AI to detect attacks on next-gen servers"
+    excerpt: "New trusted control/compute units (TCU) combine silicon, AI and data collection, and software into a single chip, allowing monitoring during normal server operation for side-channel, network and other peripheral-based attacks. Axiado Corporation has ..."
+    publishedDateTime: 2023-05-24T16:58:00Z
+    webUrl: "https://www.embedded.com/security-processors-use-ai-to-detect-attacks-on-next-gen-servers/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 36
+
+secured: "H2PBux+O4uXwJEkHLZwNX98bZa++EHyWWOSeNNQBi0dfC7ccP59LzVvbURBPYLfW/IxesAGBRx+3eUL+EE2X2MyDn1KyQmfAPz4GX6FPoFcwzbsTuTlUJgyrPnbWGAzQo4ojKQtyBLFjd/FBkUnBnHqUGRDLH2TjEO8hrY0Uv7kM6dSU9wsmGLf1ETU7z4R1u003iN8DjjIqktChq21GqEO33Z7B/V4Qsh8M5WMJ4SgzIesEzxbrQS/Zjie62oHhqqV2rcMSKLGFiT3L5pz2t6Ji+H31b3sm1d648r9fkXtpOwWnYbkwfLbIeopWOuJXEAIoDckjUOFRvRcqI77OFCmwqnCYhBkSgWxPFHiAVoU=;yoi9Ctkz0GPxT66kifL0Iw=="
+---
+

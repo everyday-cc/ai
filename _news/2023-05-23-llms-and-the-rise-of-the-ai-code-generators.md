@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-a
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.amp.html"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/646c62220a46f01c40b5031a/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Where Memory Ends and Generative AI Begins"
+    excerpt: "New photo manipulation tools from Google and Adobe are blurring the lines between real memories and those dreamed up by AI."
+    publishedDateTime: 2023-05-26T10:00:00Z
+    webUrl: "https://www.wired.com/story/where-memory-ends-and-generative-ai-begins/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/646ff414d96882f74caa3dc7/191:100/w_1280,c_limit/Where-Memory-Ends-and-Generative-AI-Begins-Gear-GettyImages-690638821.jpg"
+        width: 1280
+        height: 670
         isCached: true
   - title: "Queer Eye for AI: Risks and limitations of artificial intelligence for the sexual and gender diverse community"
     excerpt: "The risks of AI-powered oppression of sexual and gender diversity are already here. Imagine calling your bank to resolve an issue, but the customer service representative suddenly accuses you of fraud and threatens to suspend your bank account if you don’t invite the “real” you."

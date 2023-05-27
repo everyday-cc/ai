@@ -19,22 +19,24 @@ topics:
   - AI
 
 related:
-  - title: "Artificial neural network helping in designing elastoplastic properties of alloys"
-    excerpt: "Science X is a network of high quality websites with most complete and comprehensive daily coverage of the full sweep of science, technology, and medicine news"
-    publishedDateTime: 2023-05-22T11:06:00Z
-    webUrl: "https://sciencex.com/wire-news/446194896/artificial-neural-network-helping-in-designing-elastoplastic-pro.html"
-    ampWebUrl: "https://sciencex.com/wire-news/446194896/artificial-neural-network-helping-in-designing-elastoplastic-pro.amp"
-    cdnAmpWebUrl: "https://sciencex-com.cdn.ampproject.org/c/s/sciencex.com/wire-news/446194896/artificial-neural-network-helping-in-designing-elastoplastic-pro.amp"
+  - title: "Elasticsearch Relevance Engine brings new vectors to generative AI"
+    excerpt: "The Elasticsearch Relevance Engine (ESRE) integrates AI and vector search to improve search relevance and support generative AI initiatives."
+    publishedDateTime: 2023-05-23T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/elasticsearch-relevance-engine-brings-new-vectors-to-generative-ai/"
     type: article
     provider:
-      name: sciencex
-      domain: sciencex.com
-    quality: 54
-    images:
-      - url: "https://scx1.b-cdn.net/csz/news/800/2023/artificial-neural-netw-1.jpg"
-        width: 800
-        height: 480
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Elastic to power generative AI models with Elasticsearch Relevance Engine"
+    excerpt: "“Generative AI is a revolutionary moment in technology and the companies ... They include Relativity ODA LLC, a provider of legal technology, which is using ESRE and Microsoft Corp.’s Azure OpenAI Service to improve the relevance of results within ..."
+    publishedDateTime: 2023-05-23T13:00:00Z
+    webUrl: "https://siliconangle.com/2023/05/23/elastic-power-generative-ai-models-elasticsearch-relevance-engine/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 18
 
 secured: "s87RaFL4QEKRErnbtWbX1QQkUkflCMd7spBQAjHiyx/qruGRwrOnRMP5PW20s1iGVzYFXXYtbmXCrv97QvgurFxJKkoIJz8wGGHdWMfD5mecnwXGl9JjUZZDOORh4QLClK/QhKbv2HxVJMvniK04wjwsrsA7wnVO5mOeje0OIvO6/MNyFzLiM7b7vQNDe41k0Ja48fn2FczQdvNeYCWtiAbDW2+GrInl+jY3ollo+8FASRaz8d9s1QhaFSDGv4QxpsEg3DAiMG1KDSoNqQoOvj9VYc9AY5rMptaq7tzxSNLvgIvKgNc2oiiqG3TpyiCR9JVO8u303BnQ40es58y6B/JsJTu07m3uRKNHE/NWXHSHsgfLmKQvRkjg8boF93+LL+9n+CYef/0YO+rKq3Imoaxqory37+RoaZViNIghzcRVZ9uO5FlvzjokgnTAseQssmnDcTpdCOjkQ63HfWHsZUPmVacqBSmJAVjSk6zMGLB6phD4P4CSR+PGhYjdab8q19mvmWIeXC5RQalfz66ckg==;b+SQKvaKoRBhtQNtDv1uEQ=="
 ---

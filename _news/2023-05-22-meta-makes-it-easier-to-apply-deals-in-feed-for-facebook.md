@@ -63,15 +63,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Facebook parent Meta fined $1.3 billion for violating EU data transfer rules, company responds"
-    excerpt: "According to the Irish privacy watchdog, Meta's use of a legal instrument known as standard contractual clauses (SCCs) to move data to the US \"did not"
-    publishedDateTime: 2023-05-22T12:03:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/facebook-parent-meta-fined-1-3-billion-for-violating-eu-data-transfer-rules-company-responds/articleshow/100422243.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 0
 
 secured: "azQKZA10e8blhXaOCEsz0UnPp/Js+qDqRMRJK/fJfKKmqX0b31gI/JPyoJhwiLOjSCYUsHz8KXlNJBLOahd+5Cl+HOXbTITqkK9aWUCoWr3dcnWrQnnAJ3TOIT266eMZOv9X1F1w2j29pwBnKtUhz33bo9CZs2APjuJVWPqyK/4NGgmUM3RYsOp2Md8JECyGVCWoNJZv7qsR0GHcVKU6OZ8UYYCmrkx8591ur5R12jWh2DSAkxNISIVa//Fb/6qHaVca5xcAq3TFsXVA0O5Hzw8/mtVFKP+pOXPq178npeuVzm/vwiFhs/0HoQvkB/FYoEuM6e/ZtDnsN/o9iLbzojFHLfOUeLPYCxuzHe6loao=;8xrny0o+R4MGH0CqeO3mFQ=="
 ---

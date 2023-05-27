@@ -965,15 +965,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "FlowX.ai raises $35M for its AI-based approach to application integration"
-    excerpt: "“Digital transformation” and AI remain very buzzy terms in the world of enterprise software, and today a startup operating in Romania that’s built a platform that taps into both concepts, and is seeing user traction in the financial sector, has ..."
-    publishedDateTime: 2023-05-22T12:03:00Z
-    webUrl: "https://techcrunch.com/2023/05/22/romanias-flowx-ai-raises-35m-for-its-ai-based-approach-to-application-integration/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 46
   - title: "Microsoft Build 2023: From ChatGPT on Bing to Azure AI, check all latest announcement"
     excerpt: "Build 2023 also showcases previews of upcoming features such as Windows 11, Bing, and the revolutionary AI copilot. Here are top announcements that were made at the Build 2023 event"
     publishedDateTime: 2023-05-23T19:11:00Z

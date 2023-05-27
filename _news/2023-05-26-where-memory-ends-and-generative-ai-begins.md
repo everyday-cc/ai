@@ -1,22 +1,31 @@
 ---
 category: news
-title: "Queer Eye for AI: Risks and limitations of artificial intelligence for the sexual and gender diverse community"
-excerpt: "The risks of AI-powered oppression of sexual and gender diversity are already here. Imagine calling your bank to resolve an issue, but the customer service representative suddenly accuses you of fraud and threatens to suspend your bank account if you don’t invite the “real” you."
-publishedDateTime: 2023-05-26T12:13:00Z
-originalUrl: "https://www.openglobalrights.org/risks-limitations-artificial-intelligence-sexual-gender-diverse-community/index.cfm"
-webUrl: "https://www.openglobalrights.org/risks-limitations-artificial-intelligence-sexual-gender-diverse-community/index.cfm"
+title: "Where Memory Ends and Generative AI Begins"
+excerpt: "New photo manipulation tools from Google and Adobe are blurring the lines between real memories and those dreamed up by AI."
+publishedDateTime: 2023-05-26T10:00:00Z
+originalUrl: "https://www.wired.com/story/where-memory-ends-and-generative-ai-begins/"
+webUrl: "https://www.wired.com/story/where-memory-ends-and-generative-ai-begins/"
 type: article
-quality: 14
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: openglobalrights
-  domain: openglobalrights.org
+  name: Wired
+  domain: wired.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://media.wired.com/photos/646ff414d96882f74caa3dc7/191:100/w_1280,c_limit/Where-Memory-Ends-and-Generative-AI-Begins-Gear-GettyImages-690638821.jpg"
+    width: 1280
+    height: 670
+    isCached: true
 
 related:
   - title: "LLMs and the rise of the AI code generators"
@@ -51,21 +60,16 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Where Memory Ends and Generative AI Begins"
-    excerpt: "New photo manipulation tools from Google and Adobe are blurring the lines between real memories and those dreamed up by AI."
-    publishedDateTime: 2023-05-26T10:00:00Z
-    webUrl: "https://www.wired.com/story/where-memory-ends-and-generative-ai-begins/"
+  - title: "Queer Eye for AI: Risks and limitations of artificial intelligence for the sexual and gender diverse community"
+    excerpt: "The risks of AI-powered oppression of sexual and gender diversity are already here. Imagine calling your bank to resolve an issue, but the customer service representative suddenly accuses you of fraud and threatens to suspend your bank account if you don’t invite the “real” you."
+    publishedDateTime: 2023-05-26T12:13:00Z
+    webUrl: "https://www.openglobalrights.org/risks-limitations-artificial-intelligence-sexual-gender-diverse-community/index.cfm"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/646ff414d96882f74caa3dc7/191:100/w_1280,c_limit/Where-Memory-Ends-and-Generative-AI-Begins-Gear-GettyImages-690638821.jpg"
-        width: 1280
-        height: 670
-        isCached: true
+      name: openglobalrights
+      domain: openglobalrights.org
+    quality: 14
 
-secured: "DeJFT5fhSE+82HEbA4468tdkc3NiMibXOvZ57yBvL6jLKfPKoGPOaQtqPibV0HP1GasrZ94o0tL5jgbSyKTD+ynLftokG6Gyt9Tvw4Y5sWsYMMZGm08IyjLShL9DuhCthF9sbQ2jc6dNQ1pVILo1JzoGFmsBhHZlP5e7eJKVroeKo6F3G5vm2JJWHyfdhamnTbLiD8NFIlXx+Ic/1o6DfeWnrJOt4zWIm/kKNmI0OoYN+udbE2q/ECr8trD/v7qocjCX/P2G2+qoHxznqBCjvmdIrO1TUjIUZLE3EqadEQkRrXbxyr70tDVmLSkCnWjWBw8hfbvl2KR8ZFYHeUhn8qsVAZ8jFDlaJwvunXFcCTE=;bNpJthcUokFOY+v3qzOTHQ=="
+secured: "tLCZRd326I9JC/sXmlxNow/9kGngr8Q7Lo5a5T/XvlNAkY98nneK9LJPkq7p1PnglnrV4RNZ9P+vfUpzsIXcMB+owRD2n6Tq0bthwRDbR5ylYljssLl5cWuzz73ZVHXajoZ83sY1XqiXoI0nSMrE3hB+VO/YOc9Xj8CZAVSiDx4Hf04iavZ94SuhP95r1VUaDTpx+1sErPAdDGJ8F5xdSENEqRqAmykWKyUM9apsKqn8U09B3UCnCxDFlPsqpFsNWnHfrh8nT3p1uNkU2k/7NnNcGhIfwMwIpoT2SIN6/ySitTISKlgUPGsgRbQypV7Oaw2dbdRKiclNi1kiO/yR/4OJtF3G9RZjx2ylWvK3Sac=;sBtcLVGYaHsAPpx+LMXFVw=="
 ---
 

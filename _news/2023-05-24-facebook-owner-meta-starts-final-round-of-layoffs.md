@@ -64,15 +64,6 @@ related:
       name: Marketing Dive
       domain: marketingdive.com
     quality: 4
-  - title: "Facebook parent Meta fined $1.3 billion for violating EU data transfer rules, company responds"
-    excerpt: "According to the Irish privacy watchdog, Meta's use of a legal instrument known as standard contractual clauses (SCCs) to move data to the US \"did not"
-    publishedDateTime: 2023-05-22T12:03:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/facebook-parent-meta-fined-1-3-billion-for-violating-eu-data-transfer-rules-company-responds/articleshow/100422243.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 0
 
 secured: "YGBBXZ20+qSqHe1OshwDgUPU7zFauaIRy5vJpcJkfR8NfDY+aPosUsw8hQ3pvWXAbvBMWsHnlIYjQzTBAiGk0lnRzENDZFDqo30JxJNbt1wvo33Iq4wgXHBGwXY+oz4FW0hao1roo7SB6INAiQuoPaPOsEeKcFudUQa7MHWVan/G+OWymo7mePx62GAFaWegPysqcf+0fpVgTiU/5cYTXHMCUAWyWMcaRa1h+ReqEJ4aEU9O2OxoQ+tPYBp1j3xatBxyaIvXTPTkK8+UTldcoD7d7kVKTHkee+w6BCFz/MABGlRI34TsjiDE4TQ/jZ8AoglQUOQqoWFG8CDlSrNItpz6imrvTf/Sx53ok+uwyI7yQMCtaZxLobHqax//asgQozUd4+fRLzHFa9RRMBIE9rqKBV2KCqU6uaK+ScNnlGKsABjaNjF1YXKwuKkBlOnZwy47n4TqNiGoTX+zqSBSBdH4E5fGWv5wGRICVZEpmfVOANTGt3f9gFj44r5iO3PQyvvOfpiJLD4dcU1LY1RXRg==;4PJBW485cgI4/j8MRR+dsA=="
 ---

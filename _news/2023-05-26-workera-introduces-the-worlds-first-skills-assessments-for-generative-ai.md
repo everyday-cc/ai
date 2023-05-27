@@ -52,6 +52,15 @@ related:
         width: 1228
         height: 690
         isCached: true
+  - title: "Don’t fear that AI is here: How the emerging tech can help HR pros"
+    excerpt: "With so much commotion surrounding AI, it’s tempting to write it off as a passing trend but don’t be fooled. As this technology evolves and continues making its way into everyday life, it’s not a matter of if AI will find its way into the world of HR,"
+    publishedDateTime: 2023-05-24T14:52:00Z
+    webUrl: "https://www.benefitspro.com/2023/05/24/dont-fear-that-ai-is-here-how-the-emerging-tech-can-help-hr-pros/"
+    type: article
+    provider:
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 17
 
 secured: "MGaCt1GH532KtbDm/LohI7hAD82vcD4k/kcjyOtT3B2F0UBajYV9ZhNJvwpnt6SA3c3kbRW8GqFoQskYp6bliEUMRjh+gFVZzmh1TvrcmQlQzCObXh73Y8MsLfyCtOiJSaYm1WlY/aNF6Q7rVnBCSbZ5YH3uOJfD5bRCGLGgEde08ynqsTgx00E42I5z9ILifv2qfCYL3xGVXw/+V63yIMH7kr0A9qIexCU1k/n0sXXi3S0yntHaJEcH7QrT4xn5Sq9C+gWyAzLeo9GIohc/cWpSfZPdEmYoHSOiLXM1grJmiHBfd5X3Bvv0u4vPetotcDt8dlMB40pn0Vjb113UVQG7el8X3uVvVO35rhqZ0D0=;oORCyrgG5dHOBDYKpj4Fkw=="
 ---

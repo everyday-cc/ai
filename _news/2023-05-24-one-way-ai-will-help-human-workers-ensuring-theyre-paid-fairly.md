@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
         width: 1228
         height: 690
         isCached: true
+  - title: "Don’t fear that AI is here: How the emerging tech can help HR pros"
+    excerpt: "With so much commotion surrounding AI, it’s tempting to write it off as a passing trend but don’t be fooled. As this technology evolves and continues making its way into everyday life, it’s not a matter of if AI will find its way into the world of HR,"
+    publishedDateTime: 2023-05-24T14:52:00Z
+    webUrl: "https://www.benefitspro.com/2023/05/24/dont-fear-that-ai-is-here-how-the-emerging-tech-can-help-hr-pros/"
+    type: article
+    provider:
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 17
 
 secured: "qKqGuTmyaMbGMFSh/25/58qY/E2xmNpodRbiG2dc/aosoLN8CLnuDKXUI7AA1O9JobPJcHeI1hOAF0HhyqwSAzBZYYht72xZfDKlC1Jj7hMIfnAyVXkJ+GUZIeVJ5MB2Ahpdqd80DgHCGeAxQ0opbh2U5Jy39cMXqHQj6rz7NLi2KQng5qZ/YHm7F+xLtr/5QxPAIB5xTDbGQ07X1Tnl8pQVaFflvPCKNHTnBnm9ulNkPGwcvQVwBv6IO6UskSaHGL/HGuU3adCs0q/rGXc7oj4s8CNCX9YCRwpv73IjrOdKNqpXsAhApJ8YrtUkWNQUAV4LAOqMGmTWWLS7Y1z3HrHF+DpWKuc9IRvUXpFWyeE=;t8eig/FxAzIHF2ErIFYkOg=="
 ---
