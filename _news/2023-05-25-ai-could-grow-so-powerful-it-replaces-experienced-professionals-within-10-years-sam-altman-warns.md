@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/ai-grow-powerful-replaces-experienced-p
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-grow-powerful-replaces-experienced-professionals-10-years-sam-altman-warns.amp"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

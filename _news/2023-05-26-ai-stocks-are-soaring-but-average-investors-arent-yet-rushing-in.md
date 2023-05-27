@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/ai-bubble-retail-investors-are
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-bubble-retail-investors-arent-rushing-in-yet-c1a8a3ae"
 type: article
 quality: 87
-heat: 108
+heat: 121
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD7jl4MGgd9k/v1/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "AI Stocks Are Flying, but Don’t Call the Craze a Bubble"
+    excerpt: "Nvidia and other tech stocks have added billions of dollars in market value as the technology has boomed"
+    publishedDateTime: 2023-05-26T20:42:00Z
+    webUrl: "https://www.wsj.com/articles/ai-stocks-are-flying-but-dont-call-the-craze-a-bubble-18403c5a"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-789009/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "CQ05iZB77/sicQGWHhT1iNoM6Ep+t6XcYJr5S8eYgyeDGoy0ObtKMcKQhDSgmUmxEu5Ql8jk9bo4VjEtSZI2e+Jjby6FmiZje810qBfIwTpG+zgE/Y6B6yr2d+Ud2DjqAKlGFX0W/R7CG7jdaQQTTceios0L4jzu/e6fTZa51TNgK0yRV7YNYxBxksZ1Fcr8wsd6eSJuS4eAB7bDRQ5nPSDcTpiuaSlzp06cg2onYZnNbg7lkhl1qvr3V59Al8Rw2gLYul0DglMXEk9V09iGegkEB/D5hIwKf68uqY4SjHmaDrMEwQ0vpE9lBHfPee2fWNSi6PKpcTIVSD/pyk41eLbiJ1vMVMuZQ7hjS3L9vHo=;XTcc8/rJn6c494jsQtij8w=="

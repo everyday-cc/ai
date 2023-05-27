@@ -2,9 +2,9 @@
 category: news
 title: "Rapid AI adoption could cause medical errors, patient harm, WHO warns, urging oversight"
 excerpt: "The World Health Organization is warning that the “meteoric” rise of artificial intelligence tools in healthcare threatens the safety of patients if caution is not exercised. Because of the ..."
-publishedDateTime: 2023-05-18T16:32:00Z
-originalUrl: "https://www.healthcaredive.com/news/WHO-artificial-intelligence-AI-caution/650538/?n=@"
-webUrl: "https://www.healthcaredive.com/news/WHO-artificial-intelligence-AI-caution/650538/?n=@"
+publishedDateTime: 2023-05-18T15:11:00Z
+originalUrl: "https://www.healthcaredive.com/news/WHO-artificial-intelligence-AI-caution/650538/"
+webUrl: "https://www.healthcaredive.com/news/WHO-artificial-intelligence-AI-caution/650538/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 435
     isCached: true
 
-secured: "HwgkKn+ciQNUfiIjqYBtSlDGZ5yRVxDge9UhMsaGF7fSSUYH+qQBhDyHoiOjJP7k998H8b+Gwu/20iIu2atwP3KqPGzGnAY64VJT/YYKf5pOYTE2Biqcz13N3vR/2320Iwg2c9Y8vWngB1kOROMWBnTUJDB+uOr+/8P6fjUZp4BhAyBnIu07ZldERSqAoGGbWNN9MwFSV7xkHhSph71l+PDj8QdsO4rxzupZYpGPIH4bOpDbUo70WP+vnY4QH1DXfDWprH9x2AMFX+VV6x+HzurPuttYO6cPR8kKLuZtNoH3HqOj7onF6vFRie45tXH5t0FU6gZ1clshoTfx78F7qOEqk/i9ZVchJ4fAAPIGgi4=;iIaXf3390/vRGAAKQFZDaw=="
+secured: "4BJc8/iXqhHQwKep/X6fadUzNCJ2bM8oh4NXy3hK90O+nemXlkqqleG8CsrYTIVFF3shEfGGycodYZ2dao67+7x2F1eBeUwP/q0N/CuCxUl3mzURbdHJIi0tNogb9RyVmWEVx2pUbHX7q1FSxn6eiL5OlCLU+U5j0bMq2J8DWKEzE+8ME9z9UwWypTgjL+ptsBvPENto2PAq4grAcqAamRAw3XoppjQ+qepMHNv55cJDwtb82CJ+AIscr4sI3/YI/gFEJmYTjl8Yi3yGmFR91o9Be81utvGskegK4KABnBsulbEKbvmgKk625whdwlZRi0T1Y29ZV6rvCYVtSqZupnbEu3bnYGoKmAQ9R5SZpE4=;rXkX1KxISKUP8EalK+ngsw=="
 ---
 

@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI Stocks Are Flying, but Don’t Call the Craze a Bubble"
+    excerpt: "Nvidia and other tech stocks have added billions of dollars in market value as the technology has boomed"
+    publishedDateTime: 2023-05-26T20:42:00Z
+    webUrl: "https://www.wsj.com/articles/ai-stocks-are-flying-but-dont-call-the-craze-a-bubble-18403c5a"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-789009/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "ewn97LBcXCD6iwdxBXyqb5CY2Tuy9yvjIhiCXvIblUlXAywGyuJQNdYijefHlOQXsTqfRKwnkj28Ya9PmzPZTAXi33LFD6P8G1e60gcM0p0iAOb4rhHNkgkuu/h7RQiifmJdTuiuDOjoLsgWTYi0j/M+AIKQJocvZ4ooKsddTY1oP6vV/Vv+nz7cWkm8NBYxo4FzYjpN11N7lfbbHE27PDza9xoq5Gz77M3PDWzGj5qm2tCXg48SJYLa6peiZD6uCzvlIxOsVzJIRIlPFvLACuH5qQzBrUBB+GlkROUvv7NIekr+xUJ6IyI5gKhjepZT8amTtRCqPR7bEEX3R7XScTm7o4bmvq7znxanZlgMVNc=;I8ykrwqYWZ0sqO6SiMQ4ww=="
 ---

@@ -471,6 +471,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Nvidia set to become a trillion-dollar chip giant thanks to AI"
+    excerpt: "Nvidia took a giant leap toward becoming the first trillion dollar chip company this week, propelled by the explosive rise of AI. Nvidia's stock has soared more than 20% after the Santa Clara tech giant reported strong quarterly earnings Wednesday."
+    publishedDateTime: 2023-05-26T23:03:00Z
+    webUrl: "https://www.sfexaminer.com/news/technology/how-nvidia-using-ai-to-become-trillion-dollar-tech-behemoth/article_66bd32a6-fbf4-11ed-9662-8361458aec4c.html"
+    type: article
+    provider:
+      name: San Francisco Examiner
+      domain: sfexaminer.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/a/c3/ac317738-b6bd-11ed-ad39-dfa63b24187c/63fcdd82a09b9.image.jpg?crop=1280%2C672%2C0%2C3&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Generative AI demand sends Nvidia chip sales soaring; stock surges"
     excerpt: "Nvidia makes chips that power generative AI, a type of artificial intelligence that can create new content, such as text and images, in response to user prompts. That’s the kind of AI underlying ChatGPT,"
     publishedDateTime: 2023-05-25T13:05:00Z
@@ -711,6 +725,6 @@ related:
       domain: barrons.com
     quality: 19
 
-secured: "aMP2cLut0lXD+R1N2BTDsimiwjdGRpQHWLwSIQV6kvUsGpwFFT2+BYT/lxynb3R+LGacFfly55CNLsL9IUsS8FibC92GjWvBnfn4JTr+WaJ42v5dffnC4A75VvucBvVUZurUha9g8qB9CGiH+/duMQwbkV9/+3WX35tKcuT0ZbrzbQdNfa2cIoJZcL6Crj8xSMqi+Q2yLaRoYOpo0M5/scy8O8HGcB0hB7Wa+sdIMKXsn/Uw8R5xbJIYMtqe9a0NSIA1s75sRVv9bc4SyomcpJjBspDbsU48IXSI3N/wo+Ba4AV5hL9heuZ4bzN124H/ZWYb59ejanN/2DRTRFDNxfU/1CXGVLcRib+YOfNlzZ0=;WJL5il2Hyyh/75uISzHlmg=="
+secured: "VcyVNlAE2uZ2AyNBP7MTiUpox7AfVdIMjydgJE3VXoTCaMPVN9p0HvGCi5mC6jTITSGxkcpWID4mPFOom9MOvDv+75MhkPGaIZQCVQaRYTBB452WYVW88roVayx5bEfxfzKItoBtbc7jxXc5BVi6WJDt2vdpLJ0Gol1BzDqSz29aQOf9sVFUWYVLwKPUV8wCqmXWHrLbcxgaT44Bo+yExq31Xrz9GqXPasgGtYAgaQs/XPu816MQ5X1rbUBF+01XQLgCk3vHei6aDI4NqRh1vHpP9oCWC4rnI1tpgRBS6YR0n+Ap3zCUcsdKzXkHtoNeAPVpEfTNceWVl4WoXcj0ZidQKNxrYhsGgKi1sRndxK/pWtDXSGyTWhm7t1GcF64e84FV8DNP0U3aERGKzQSb5RakvFOGxar4egYqNjWLPA8xNu/khBP9Fy/9jcNAdWuTnhrZ+elV1LJt0/8KFwPIcwZBrIqFic5x3WGPaUsdZsz89nl3ncV4ZDTKypNrlHLn+ZJpkNBTgxmZiV9qDkiq8g==;7Pal64kY68dIxF5wwoDU/w=="
 ---
 

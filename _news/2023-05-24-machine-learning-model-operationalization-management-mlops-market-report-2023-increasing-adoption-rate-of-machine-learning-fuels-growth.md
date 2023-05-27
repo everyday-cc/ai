@@ -51,6 +51,15 @@ related:
         width: 333
         height: 250
         isCached: true
+  - title: "Graphics Processing Unit (GPU) Market Report 2023: Rising Number of Data Centres Coupled With Growing Computing Applications Will Boost Sector"
+    excerpt: "The graphics processing unit (GPU) market is projected to grow at a CAGR of 29.57% to reach US$190.977 billion in 2028 from US$31.154 billion in 2021. An electronic circuit/chip known as a graphics processing unit (GPU) is specialized and created to manipulate and change memory to speed up the creation of images in a frame buffer that is meant to be output to a display device."
+    publishedDateTime: 2023-05-26T23:36:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/26/9822058.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "xmOKpJSs77p1FWD0KZ9U4uqgfBJRAKe03nTpaKnIX/CXQIcNyojGsuzT6bb2rXLR4iYVeQi5sWtVW413L3dPmf+//IDb9cOajocos6YdmmuC6aHvyfYjC/RMvmnEy7JxxUA3mejg+HNcD/TXRScI/auAtxILjZ8sSaAw+ibAHSY37hJQVuieJ/AVeZl/zWM6swZpq0IeEfJZ9/+AOSGMMGKwpVamwdLLp7IUmMQeudacucHk0OVfzEXGiYcFoNqD9DAHlZTPimsLq0sR5djRlUOhWuKGMVwE04D/CZ5tzhqj0M3XeCRz/5ssHEkZvAyepggf2dq3QN8btSmFdFF/CPBzY1ymkZhnDHd1fpldZPk=;p+PUaPG4WR5JKiPjW8ZqNQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-a
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.amp.html"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/646c62220a46f01c40b5031a/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "The Promise Of AI ... And The Reality"
-    excerpt: "There are three things I think AI can do right now for operations, marketing and communications in the DSO space as well as in private dental practices."
-    publishedDateTime: 2023-05-24T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/24/the-promise-of-ai--and-the-reality/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/24/the-promise-of-ai--and-the-reality/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/24/the-promise-of-ai--and-the-reality/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645ba61bd8a7fb17319c02fa/0x0.jpg?format=jpg&crop=3574,2012,x0,y410,safe&width=1200"
-        width: 1200
-        height: 676
         isCached: true
   - title: "Queer Eye for AI: Risks and limitations of artificial intelligence for the sexual and gender diverse community"
     excerpt: "The risks of AI-powered oppression of sexual and gender diversity are already here. Imagine calling your bank to resolve an issue, but the customer service representative suddenly accuses you of fraud and threatens to suspend your bank account if you don’t invite the “real” you."

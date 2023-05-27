@@ -30,47 +30,52 @@ images:
     isCached: true
 
 related:
-  - title: "LLMs and the rise of the AI code generators"
-    excerpt: "Large language models like GPT-4 and tools like GitHub Copilot can make good programmers more efficient and bad programmers more dangerous. Are you ready to dive in?"
-    publishedDateTime: 2023-05-23T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.html"
-    ampWebUrl: "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.techhive.com/images/article/2016/08/code-abstract-matrix-100678032-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Digital Twins, Generative AI, And The Metaverse"
-    excerpt: "Exploring the convergence of digital twins, generative AI, and the metaverse, this article delves into the future, where these tech trends democratize 3D design."
-    publishedDateTime: 2023-05-23T06:51:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/23/digital-twins-generative-ai-and-the-metaverse/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/23/digital-twins-generative-ai-and-the-metaverse/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/23/digital-twins-generative-ai-and-the-metaverse/amp/"
+  - title: "Digital Marketing In 2023: The Rise Of AI And What It Means For Your Strategy"
+    excerpt: "If you’re a digital marketer, you can’t execute your strategies without technology. But how does AI fit into the picture, and how can you use it to your advantage?"
+    publishedDateTime: 2023-05-26T22:00:00Z
+    webUrl: "https://www.forbes.com/sites/johnhall/2023/05/26/digital-marketing-in-2023-the-rise-of-ai-and-what-it-means-for-your-strategy/"
+    ampWebUrl: "https://www.forbes.com/sites/johnhall/2023/05/26/digital-marketing-in-2023-the-rise-of-ai-and-what-it-means-for-your-strategy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnhall/2023/05/26/digital-marketing-in-2023-the-rise-of-ai-and-what-it-means-for-your-strategy/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 101
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646c62220a46f01c40b5031a/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/616f031ae034e7cc41252b6e/0x0.jpg?format=jpg&crop=1549,1162,x0,y0,safe&width=1200"
         width: 1200
-        height: 800
+        height: 900
         isCached: true
-  - title: "Queer Eye for AI: Risks and limitations of artificial intelligence for the sexual and gender diverse community"
-    excerpt: "The risks of AI-powered oppression of sexual and gender diversity are already here. Imagine calling your bank to resolve an issue, but the customer service representative suddenly accuses you of fraud and threatens to suspend your bank account if you don’t invite the “real” you."
-    publishedDateTime: 2023-05-26T12:13:00Z
-    webUrl: "https://www.openglobalrights.org/risks-limitations-artificial-intelligence-sexual-gender-diverse-community/index.cfm"
+  - title: "Here’s what’s missing from the White House’s National AI Strategy"
+    excerpt: "The White House announced new National AI Strategy efforts. Here's what's missing, according to AI policy expert Sarah Myers West."
+    publishedDateTime: 2023-05-25T03:39:00Z
+    webUrl: "https://venturebeat.com/ai/heres-whats-missing-from-the-white-houses-national-ai-strategy/"
+    ampWebUrl: "https://venturebeat.com/ai/heres-whats-missing-from-the-white-houses-national-ai-strategy/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/heres-whats-missing-from-the-white-houses-national-ai-strategy/amp/"
     type: article
     provider:
-      name: openglobalrights
-      domain: openglobalrights.org
-    quality: 14
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-76.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "At ISC 2023: Hyperion Reports HPC Industry Grew 4% in 2022; AI to Drive Stronger Growth Next and Following Years"
+    excerpt: "The HPC industry managed to achieve modest overall growth in 2022, but growth of any kind was in doubt right up to the end of the year, according to HPC-AI industry analyst firm Hyperion Research, which hosted its bi-annual HPC market update at a breakfast event this week during the ISC 2023 conference in Hamburg."
+    publishedDateTime: 2023-05-25T17:21:00Z
+    webUrl: "https://insidehpc.com/2023/05/at-isc-2023-hyperion-reports-hpc-industry-grew-4-in-2022-ai-to-drive-stronger-growth-next-and-following-years/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 18
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2023/05/Hyperion-0523-market-update-image-1.png"
+        width: 600
+        height: 332
+        isCached: true
 
 secured: "SPpqJOg+N+qF5e+IsT3Fe1NLm7mNbOC43I9xtKdGERoIJktUYu7siH1bUNTRi+V5Wh3wRNyPdOV5qV/fjlmJqAJaKMXJXDJ/WTO9NzcptIGDTlm1dnR4enkM5OJFoC+mdQIDNX8YeP+PTt1eWO0Ipgxg1Lu8DAyyYtn52d31cP+L6zf7YWXxrqe7+RzEqgMAlklaAuKyvIWxMAIjvhe9ZyIBTTL8EofsluXKkPn6o99F4p0+qF1Rkj/R6y2HmJsrvm0dfp2lxe/AtLNjQSPzO41cIP7bvemDKVVdTYHYYsuKlev2yaRe5sOpnYUBJJQ2YLkX9UQq/wre7Y8PjKIslPtv2iOeKIfzSUHaqg2/Y23xAV/KOlPeLeq2Aw5yiUom2EgGsPz5qbYtR7IOcbpij+TKNnMAHsQa0A9wujbiSVkB10RPhEgz7i8fnJtikO1czVAOQ/ThAJ9Wnx4PaF4YtIwH/DkUyZbGLtBfvZPz4vAJEVapmOZ8EwWL7M7RTMNvm5numZzRGDwg3fAVor7idg==;IOnhLnvrTypzXR3LcjLvww=="
 ---

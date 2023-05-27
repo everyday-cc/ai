@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressi
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressing-the-ethical-use-of-ai-in-healthcare/"
 type: article
 quality: 81
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -52,6 +52,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Averting the AI apocalypse"
+    excerpt: "On the shoulders of this automated labor force, super wealthy AI entrepreneurs and companies will rise to form the most powerful elites to ever lord over humanity. Meanwhile, governments risk collapse from sharply diminished tax bases compounded by their own elected leader’s acute technological incompetence — an AI apocalypse."
+    publishedDateTime: 2023-05-26T21:58:00Z
+    webUrl: "https://www.seattletimes.com/opinion/averting-the-ai-apocalypse/"
+    ampWebUrl: "https://www.seattletimes.com/opinion/averting-the-ai-apocalypse/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/averting-the-ai-apocalypse/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "HHS CIO Karl Mathias Details 3 Promising Applications of AI in Health Care Sector"
     excerpt: "Department of Health and Human Services Chief Information Officer Dr. Karl Mathias highlighted three major areas of AI progress he’s seeing within the health care sector during his keynote address at the Potomac Officers Club ’s 4th Annual CIO Summit."
     publishedDateTime: 2023-05-22T10:01:00Z

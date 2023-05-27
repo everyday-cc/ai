@@ -29,22 +29,6 @@ images:
     height: 372
     isCached: true
 
-related:
-  - title: "Artificial Intelligence – The demystification of a myth"
-    excerpt: "Ever since the phenomenon of ChatGPT, an AI system developed by openAI and launched in November 2022, the term artificial intelligence or AI is the subject of a new worldwide craze, effectively starting to revolutionize major aspects of our society already."
-    publishedDateTime: 2023-05-22T06:09:00Z
-    webUrl: "https://itnation.lu/news/artificial-intelligence-the-demystification-of-a-myth/"
-    type: article
-    provider:
-      name: itnation.lu
-      domain: itnation.lu
-    quality: 39
-    images:
-      - url: "https://saitnationproduction.blob.core.windows.net/itnation-media/2023/05/Article-3-Thumbnail-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-
 secured: "hMqB0ti31n2cUSAj8WQSlppCw37uOaL3G8i5hUAw6vV9QXX3FtFoFzidAkOViFGa7zpdwww9gGaSO/081OD9SEX+Wb9YQ95eZIm/RiJXd5N5IXkY7OsjhQwORXbL+wg+ua77Fa0J2AMFCFSRq366O35cAAYl6quq3kCF9h1YG2LUFXgF8Ag9/fmoUuQUWb5bIx5ddn3awEPjrjZekbkfnsDS7TwoAkNoWUogV00NcgvyCQDU0mz9zovtNRT+pz52ZWD4n8otGn1rCe0c+NcPreoeiY1RJkCc4LoWYqammAPnKehS865kYYhZlJ2+xXyiheydxko91lngaRcARAnoyplIM7HJVTGZOLU8ojtvhvOp/KeMlLeFgywqSJe2x12XhtLB+0j0wW+33Q53JrjYMpTy4AjsDOnvDELjLqKvkuqNE9Z0V/b0KFWv5P+1tPCgcHrEh5WQgdzcbZd6bzNV34rtvaxiohDMKcSB9iamzZ33Cces1JCH5/lZxJPZEuXt4MAEUf4BwIzO0jYLGOSfRA==;LXNEj6wytPoa0jAtIJTw3w=="
 ---
 

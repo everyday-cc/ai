@@ -999,15 +999,6 @@ related:
       name: Mint
       domain: livemint.com
     quality: 42
-  - title: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI"
-    excerpt: "SymphonyAI announced today its first generative AI software application that integrates Microsoft Azure OpenAI Service. Sensa Copilot provides sophisticated AI assistance to financial crime ..."
-    publishedDateTime: 2023-05-22T06:44:00Z
-    webUrl: "https://www.news-journal.com/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai/article_fb132855-6c1f-5110-aaa7-6a5ec18f6a18.html"
-    type: article
-    provider:
-      name: Longview News-Journal
-      domain: news-journal.com
-    quality: 41
   - title: "Microsoft Build 2023: Day 2 features sessions across AI copilot, Microsoft Azure, more"
     excerpt: "After an impactful opening, day 2 of the developer-focused event features sessions across AI copilot experience, building cloud-native systems, utilizing Microsoft Azure to its full potential and more."
     publishedDateTime: 2023-05-24T02:49:00Z

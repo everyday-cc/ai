@@ -479,6 +479,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Nvidia set to become a trillion-dollar chip giant thanks to AI"
+    excerpt: "Nvidia took a giant leap toward becoming the first trillion dollar chip company this week, propelled by the explosive rise of AI. Nvidia's stock has soared more than 20% after the Santa Clara tech giant reported strong quarterly earnings Wednesday."
+    publishedDateTime: 2023-05-26T23:03:00Z
+    webUrl: "https://www.sfexaminer.com/news/technology/how-nvidia-using-ai-to-become-trillion-dollar-tech-behemoth/article_66bd32a6-fbf4-11ed-9662-8361458aec4c.html"
+    type: article
+    provider:
+      name: San Francisco Examiner
+      domain: sfexaminer.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/a/c3/ac317738-b6bd-11ed-ad39-dfa63b24187c/63fcdd82a09b9.image.jpg?crop=1280%2C672%2C0%2C3&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Generative AI demand sends Nvidia chip sales soaring; stock surges"
     excerpt: "Nvidia makes chips that power generative AI, a type of artificial intelligence that can create new content, such as text and images, in response to user prompts. That’s the kind of AI underlying ChatGPT,"
     publishedDateTime: 2023-05-25T13:05:00Z
