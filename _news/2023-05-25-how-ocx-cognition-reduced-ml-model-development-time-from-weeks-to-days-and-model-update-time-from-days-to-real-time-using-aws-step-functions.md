@@ -58,20 +58,6 @@ related:
         width: 1020
         height: 509
         isCached: true
-  - title: "Instruction fine-tuning for FLAN T5 XL with Amazon SageMaker Jumpstart"
-    excerpt: "Generative AI is in the midst of a period of stunning growth. Increasingly capable foundation models are being released continuously, with large language models (LLMs) being one of the most visible model classes. LLMs are models composed of billions of parameters trained on extensive corpora of text,"
-    publishedDateTime: 2023-05-22T17:38:33Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/instruction-fine-tuning-for-flan-t5-xl-with-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/22/instruction-fine-tuning-flan-t5.jpg"
-        width: 1021
-        height: 509
-        isCached: true
   - title: "Perform batch transforms with Amazon SageMaker Jumpstart Text2Text Generation large language models"
     excerpt: "Today we are excited to announce that you can now perform batch transforms with Amazon SageMaker JumpStart large language models (LLMs) for Text2Text Generation. Batch transforms are useful in situations where the responses don’t need to be real time and therefore you can do inference in batch for large"
     publishedDateTime: 2023-05-24T16:13:27Z

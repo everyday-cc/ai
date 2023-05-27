@@ -3,21 +3,21 @@ category: news
 title: "A new antibiotic, discovered with artificial intelligence, may defeat a dangerous superbug"
 excerpt: "Using artificial intelligence, researchers say, they’ve found a new type of antibiotic that works against a particularly menacing drug-resistant bacteria."
 publishedDateTime: 2023-05-26T18:45:00Z
-originalUrl: "https://www.kmbc.com/article/antibiotic-discovered-with-ai/44017261"
-webUrl: "https://www.kmbc.com/article/antibiotic-discovered-with-ai/44017261"
-ampWebUrl: "https://www.kmbc.com/amp/article/antibiotic-discovered-with-ai/44017261"
-cdnAmpWebUrl: "https://www-kmbc-com.cdn.ampproject.org/c/s/www.kmbc.com/amp/article/antibiotic-discovered-with-ai/44017261"
+originalUrl: "https://www.kcra.com/article/antibiotic-discovered-with-ai/44017261"
+webUrl: "https://www.kcra.com/article/antibiotic-discovered-with-ai/44017261"
+ampWebUrl: "https://www.kcra.com/amp/article/antibiotic-discovered-with-ai/44017261"
+cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/antibiotic-discovered-with-ai/44017261"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: KMBC Kansas City
-  domain: kmbc.com
+  name: kcra.com
+  domain: kcra.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
 images:
@@ -69,6 +69,6 @@ related:
       domain: cnn.com
     quality: 47
 
-secured: "e43ku6jckeIJbIxlWbiIyHlv+p8kfw+4GUHm3VvmT9JlkzNLAu6Q3kOQDGiTU1LqFAdG4CFP00DDEhCyQsqwQb3ngrq+0c5BfB4tjBkcY0F2Q7fYjp6XRBhREDhaeXAgzjp/ZFqQSu93o9jrAOtuAT/NQmUGW19rHfnSGOMW7SLt5U3bOgjFRmSrv/KJgpGAtIjejnpF5rp56agMRWGrl7+1ub5Kz7KcWMe79MRwYU1j4WhRXuOKXt1XpdVomMqbyDgNHyTaWFTl0LgqH4miyd+G7+lTr4THlJD+r3YzahGzjeuSAkJeig7UMij4HpdAXGf8ZWgfymb941A5fApbjCrmHzF5tO0hRtwt0vq66I4=;CcrEjnBBkf6vXPloFiGrVg=="
+secured: "s2yvGLFcriaZrMkIr2palmhhX5NTcrrBK/mTNrJ1sQoDzhLJL0hFBiuUS128UwRdd0JFYswQ3ank8CIkO8tj7pHKILC8cvUKwB2cJiF17xZP/SgU3vOuTj8cJNcVloDo423q215BXOwNsh3P0UbtXMxdseXh69QxueoxgOO3iptuHsn/RYYp0Fxw2QhATVcIQNk+ywLvoauYR1jdM7UDvkdlRFYH6KAovcQJgqPpSDP3Rpmc5yX2rU0KcTmqLCu1f/CJE8sGGjv7K4wqI76DJ6816Uv4k/i+A05jf+GGqeVTssxy8Z6X4nVgtYg34N3utt1Iqy7dImN+IXiEQsiajpapgg3u3ZY17QMKmpIO9dI=;TbbSeUFHGwdoaHryFQqvVA=="
 ---
 

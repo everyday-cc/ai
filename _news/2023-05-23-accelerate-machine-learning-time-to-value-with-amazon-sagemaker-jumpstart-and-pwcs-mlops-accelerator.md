@@ -44,20 +44,6 @@ related:
         width: 1260
         height: 551
         isCached: true
-  - title: "Instruction fine-tuning for FLAN T5 XL with Amazon SageMaker Jumpstart"
-    excerpt: "Generative AI is in the midst of a period of stunning growth. Increasingly capable foundation models are being released continuously, with large language models (LLMs) being one of the most visible model classes. LLMs are models composed of billions of parameters trained on extensive corpora of text,"
-    publishedDateTime: 2023-05-22T17:38:33Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/instruction-fine-tuning-for-flan-t5-xl-with-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/22/instruction-fine-tuning-flan-t5.jpg"
-        width: 1021
-        height: 509
-        isCached: true
   - title: "How OCX Cognition reduced ML model development time from weeks to days and model update time from days to real time using AWS Step Functions and Amazon SageMaker"
     excerpt: "This post was co-authored by Brian Curry (Founder and Head of Products at OCX Cognition) and Sandhya MN (Data Science Lead at InfoGain) OCX Cognition is a San Francisco Bay Area-based startup, offering a commercial B2B software as a service (SaaS) product called Spectrum AI. Spectrum AI is a predictive"
     publishedDateTime: 2023-05-25T15:24:39Z

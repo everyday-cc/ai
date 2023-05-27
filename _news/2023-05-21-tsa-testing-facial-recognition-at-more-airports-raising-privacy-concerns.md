@@ -1,26 +1,26 @@
 ---
 category: news
 title: "TSA testing facial recognition at more airports, raising privacy concerns"
-excerpt: "The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen. It’s all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country."
+excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"
 publishedDateTime: 2023-05-21T00:30:00Z
-originalUrl: "https://tulsaworld.com/eedition/page-a4/page_ec7d726c-513f-5e72-92a1-549cc4a8604f.html"
-webUrl: "https://tulsaworld.com/eedition/page-a4/page_ec7d726c-513f-5e72-92a1-549cc4a8604f.html"
+originalUrl: "https://richmond.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_dc05c7fa-a574-550d-b9d8-3ea2916ff588.html"
+webUrl: "https://richmond.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_dc05c7fa-a574-550d-b9d8-3ea2916ff588.html"
 type: article
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: Richmond
+  domain: richmond.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/eedition/e/c7/ec7d726c-513f-5e72-92a1-549cc4a8604f/64696e8c27c1c.fullsize-img.jpg"
-    width: 792
-    height: 1638
+  - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/1/c0/1c0df682-8610-55cb-a4dd-613acee05727/64642a15b0633.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "h5yILHXmmeUkSzuPTKgaU0IV1Vz/TZOleXqclTA/HQFItULMEG4OauzBr55A8mU+PojSCzZGJ7SAiQsaRWkXEjhBr3fB5nDVGAd9A+FBIXHoc2mU69z1y70MbUHGnJ27iE3bcuxBzfeklyD80dhkN7wDsuhTu0LR8vHuc/qrhLywlbcnhOQIshaRKeDL1AflH/osdMYCrOyAv8arG5Onp2m3cGyldCPnWwruOXpBjdulAyXZM6jPOXqTLxM7n3ue/ZIqdNPwUBbw96wVvo38xQKFfn9WiumjlCfEOSolO39ib3GcOBlwszfYdYfZLx6d+Z1uJr03NCZLDofU75bJ3yLOpFqz1ZdiU10efd9AVv+KwVh6nM6nUdXPN+eQ99Jj8DyFlVDBa0ZmxpVnUsFbutCtX3/IaLf3bXvfKOFV7ZzzCZv6AnknsmhQ+VFxA3CLi76QGju7pG1OEQEkigTMIT5wPDEtrxIBDCJmdmTvGlxjZ9Txv/fPwzSuXQlnCY8LU2NnbOGZu5CTfpZLNBRH+Q==;h3OjIHE7vxHvkJNxuXsTpw=="
+secured: "Oka097fCfGyTHQbLj8Ul7i3446J32HKKJ00jz40sJsxkZp62acRHepPBJ7MVxdg2bS7PSSvL7FbbjSyQjeNFE+ptfqJ+JiQarOQiHNr5d0+r4a9OmTiA4/kkZSi6v5BAhLrgQzGcaa6tniY03clC14R3hAGXapeeh/WhI4019m1uzAP4nCM6/2uH5BYH6rjMQX33Ymj3M9shsESRM1g+93J3hhgXUvXTUkPlQrhHWLMBpl74o8C9Bnyp+pPEG6oxFgMO6a+PtMYWFSGcJpet4mM1mIc2p8ZWiympPN/h1ndF5d5LaKeyFtRS2XihpTaN7DN1puwKgoYqxycjGBjHSLGqCX3t2a2+G9wY1A4xiMo=;kmYRvZ+vTx2Xv53S56Aqow=="
 ---
 

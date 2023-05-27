@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/business/economy/news/bank-fintech-coll
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886?amp"
 type: article
 quality: 59
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -145,15 +145,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "What impact will AI have on FinTech in 2023?"
-    excerpt: "Artificial intelligence (AI) is emerging as one of the key driving forces behind financial technology, as in many other industries recently. It’s a defining"
-    publishedDateTime: 2023-05-22T17:20:00Z
-    webUrl: "https://www.businesslancashire.co.uk/2023/05/22/what-impact-will-ai-have-on-fintech-in-2023/"
-    type: article
-    provider:
-      name: https//businesslancashire.co.uk
-      domain: businesslancashire.co.uk
-    quality: 19
   - title: "5 questions with Dave CEO Jason Wilk on the fintech’s in-app moneymaking feature"
     excerpt: "Making money from surveys isn’t some Craigslist scam. It’s a fintech feature — and Wilk said it's made members $1 million since December."
     publishedDateTime: 2023-05-24T21:59:00Z

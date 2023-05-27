@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Uncovering the driving factors behind algal growth in the South-to-North Water Diversion Project using advanced AI"
-    excerpt: "Identifying the factors contributing to algal growth accurately and reliably is vital for sustainable use and scientific management of freshwater resources. As scientific research evolves from using small data sets to larger ones,"
-    publishedDateTime: 2023-05-22T17:24:00Z
-    webUrl: "https://phys.org/news/2023-05-uncovering-factors-algal-growth-south-to-north.html"
-    ampWebUrl: "https://phys.org/news/2023-05-uncovering-factors-algal-growth-south-to-north.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-uncovering-factors-algal-growth-south-to-north.amp"
+  - title: "30 stocks with 'strong buy' ratings from Wall Street's top analysts, according to a fintech company that uses AI to track and analyze big data"
+    excerpt: "Despite macroeconomic turmoil, 2023 is a stock-pickers market where outperformance could be driven by company-specific factors."
+    publishedDateTime: 2023-05-27T10:00:00Z
+    webUrl: "https://www.businessinsider.com/30-stocks-with-strong-buy-ratings-from-top-analysts-tipranks-2023-5"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 35
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/uncovering-the-secret.jpg"
-        width: 1596
-        height: 1020
+      - url: "https://i.insider.com/64710b2e085acb0018feb85b?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "9ckZknfkiPMj/MPmr3SOolDEjM0wF88uCvTKI7WKvhV8+X50cGpAAwXymEZk4EGet1XA+fcX8/375N4uhw2TmJoVYSQjDZWz+PuUlwaU8FplcTuRBkno5+votekXLV/9YaOz2v11/6ZLt/i9VnwIyKFk04VP8AupBzpeCM8hb+SGSPI0omMHmaaB9p4wJ2Evo2GqIeGgb4WT9kd/CvH8GbtjYW95jnhVTZhV4WN2Mqykoolcy+a9j00hHyU0b/wq0xmS2SSoZgz7e+DMQGOm5e8dSZyzCH9ASqDGVA34XLDbDM88Q+k6n8ABGwattGThGfgwC8ChmgHF3y+utc/rtCh4Zh3fQfgYQz5I+7sC/MQ=;J8Bi+jNAoREIZXitLv5FRg=="

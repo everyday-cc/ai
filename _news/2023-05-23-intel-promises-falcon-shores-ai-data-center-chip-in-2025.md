@@ -107,15 +107,6 @@ related:
         width: 1679
         height: 1101
         isCached: true
-  - title: "Intel Revamps Falcon Shores GPU Plans, Integrates Powerful Gaudi AI Accelerator"
-    excerpt: "AI is by far the largest growth market within HPC ... \"Wasn't Falcon Shores going to be some kind of CPU-GPU hybrid thing?\" Indeed it was, dear reader. Intel originally announced Falcon Shores as an \"XPU,\" because the original intention was that it ..."
-    publishedDateTime: 2023-05-22T18:22:00Z
-    webUrl: "https://hothardware.com/news/intel-at-isc-2023"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 30
   - title: "Intel Announces an Integrated Neural AI Accelerator in Meteor Lake"
     excerpt: "Intel says it's working with Microsoft to make the development of AI features on the personal computer a reality. It will do this by offering a VPU, or Vision Processing Unit, as part of the SoC tile in Meteor Lake."
     publishedDateTime: 2023-05-24T18:00:00Z

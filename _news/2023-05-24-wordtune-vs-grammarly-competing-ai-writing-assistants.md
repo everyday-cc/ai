@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Game-changing AI in iPhone 15 will talk in your voice but can it get you kidnapped too?"
+    excerpt: "Phones running Apple's new iOS 17 can learn your voice in 15 minutes and start talking like you. Apple is changing the world for the better. Or is it?"
+    publishedDateTime: 2023-05-27T11:48:00Z
+    webUrl: "https://www.phonearena.com/news/game-changing-ai-in-iphone-15-will-talk-in-your-voice-but-can-it-get-you-kidnapped-too_id147615"
+    type: article
+    provider:
+      name: PhoneArena
+      domain: phonearena.com
+    quality: 31
+    images:
+      - url: "https://m-cdn.phonearena.com/images/article/147615-wide-two_1200/Game-changing-AI-in-iPhone-15-will-talk-in-your-voice-but-can-it-get-you-kidnapped-too.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "2VIBEyCvW2BWGan3DpeX7et5x9a9nOmO3hSDudrPjpHrtU0u0KsZoPuKZQuwma4P/yQNOvtQaRF5Rp7Vhdz7/i9i9VajFB6w91VYyjyQ2XbcdUnsnWbbAVmdvpnb05RBt+qKlI9UZJKa8fVgz3OEIKB1Qwsi3Lb9seNVDmOENVeJdr/vllhmCy/73ym1UgAENrY8qLl0CG/ZwOTCHDNmxOtZ3Ak8rgD2UDffuPBPxSAZ7UBcLxLe8M6x3im0W4z0oqDPd0A9Qs0v5FMvHC+MdYAFBtms6gylvEMeJP7cYdbKtebkTJMg4Vpaiq3WIYPYcSh+3R+2+dZrcCNVXk8jE3k7KJRxIP7LpTZGq/ML/8jUtNOYERe7aygkrtJ18WJwSVE+yHxOBZzsSveQX5hwjFOSsZ630NyTnbeamTCPkTXSZjJzWTbzo297H/eiQ5lWKt3xSeGvVQfUZRdEGXitdSI8P3hdnSF6/20daeNlR0pJ2wQyqHZ678jxB1VNgEl8CXc7nt5ynM/o+mLSonWn+g==;Ze0W+A0+XCnkNX+vxIloSQ=="
 ---

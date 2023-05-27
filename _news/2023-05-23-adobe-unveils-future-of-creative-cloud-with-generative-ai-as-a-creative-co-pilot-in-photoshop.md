@@ -204,7 +204,7 @@ related:
   - title: "Tech Giants Trigger Generative AI Investment Boom"
     excerpt: "From Microsoft to Amazon, Google to Meta, everyone’s in on the artificial intelligence hype, and the money’s following suit."
     publishedDateTime: 2023-05-24T13:59:00Z
-    webUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n=#!"
+    webUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n="
     type: article
     provider:
       name: Variety
@@ -219,15 +219,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
-  - title: "Intel's Broad, Open HPC+AI Portfolio Powers Performance, Generative AI for Science"
-    excerpt: "View the full release here:  \"Intel is committed to serving the HPC and AI community with products that help customers and end-users make breakthrough discoveries faster,\" said Jeff McVeigh, Intel corporate vice president and general manager of the Super Compute Group."
-    publishedDateTime: 2023-05-22T18:55:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/22/9818599.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
 
 secured: "fCVBMF/7FG5XCGKdmuUZc9dusvWhMHQYKub/r2TDTj4Dj60N1brX1s7OngdquoquCy/QMlIkS7Z+yagBhIvTxj9EKiu4lvlpcXggswNbFsAonIo4nhSHjI2qdbGHcOqszGPCepZKfrps/jUstTGQg/pNrABtBGubM8EZZfCkD0oXckVc9DRpdJHyZmIogifnMOKrKICTJVlsXHrAgz4buuxKT/5Slx+6oHDqxlYKbHXIy2MmGE5CU4CQh1v8ei8X3QtYF5UA17nPRLXJne7Q35+WzmzVPVZHbirkVDXhJIfZdOyoiRhlFvP22oRxKEa32dxoYVXNtDJKBcSAXNDzL2p9yc1Ifnne1xRM0gMgS7A=;XqtvPpR674CaMxo8Xso9ZQ=="
 ---

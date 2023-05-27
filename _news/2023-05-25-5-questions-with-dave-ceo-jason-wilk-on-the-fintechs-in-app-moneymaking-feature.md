@@ -159,15 +159,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "What impact will AI have on FinTech in 2023?"
-    excerpt: "Artificial intelligence (AI) is emerging as one of the key driving forces behind financial technology, as in many other industries recently. It’s a defining"
-    publishedDateTime: 2023-05-22T17:20:00Z
-    webUrl: "https://www.businesslancashire.co.uk/2023/05/22/what-impact-will-ai-have-on-fintech-in-2023/"
-    type: article
-    provider:
-      name: https//businesslancashire.co.uk
-      domain: businesslancashire.co.uk
-    quality: 19
   - title: "AI’s pioneering influence on fintech"
     excerpt: "Jennifer Fuller, US Financial Services Lead at PA Consulting, explains how AI tools are reshaping the fintech landscape for financial inclusivity."
     publishedDateTime: 2023-05-24T19:17:00Z

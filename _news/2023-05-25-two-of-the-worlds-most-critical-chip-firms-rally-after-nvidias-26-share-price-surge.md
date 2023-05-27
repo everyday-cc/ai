@@ -135,6 +135,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nvidia Stock Soars on AI Chip Demand, Nears $1 Trillion Market Cap (NVDA)"
+    excerpt: "Its outlook managed to bolster other chip companies, the broader stock market — and maybe the US dollar, too. Don’t forget the much tinier, $55 billion chip company Marvell Technology Inc. It enjoyed a 32% bump after projecting an AI-fueled doubling in sales. Rival Intel Corp. was decidedly not a winner."
+    publishedDateTime: 2023-05-27T11:00:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-05-27/nvidia-stock-soars-on-ai-chip-demand-nears-1-trillion-market-cap-nvda"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 83
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.mu6nu.cD28/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Nvidia stock soars toward all-time high as record revenue forecast backed by ‘killer app’ of AI"
     excerpt: "Nvidia Corp. executives predicted record revenue well beyond anything the company has experienced Wednesday, pushing shares toward record territory."
     publishedDateTime: 2023-05-25T02:53:00Z

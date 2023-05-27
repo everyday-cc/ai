@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-generative-ai
 webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-generative-ai-models-from-amazon-sagemaker-jumpstart-using-the-aws-cdk/"
 type: article
 quality: 116
-heat: 176
+heat: 166
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
     images:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/23/accelerate-machine-learning-pwc-sagemaker.jpg"
         width: 1020
-        height: 509
-        isCached: true
-  - title: "Instruction fine-tuning for FLAN T5 XL with Amazon SageMaker Jumpstart"
-    excerpt: "Generative AI is in the midst of a period of stunning growth. Increasingly capable foundation models are being released continuously, with large language models (LLMs) being one of the most visible model classes. LLMs are models composed of billions of parameters trained on extensive corpora of text,"
-    publishedDateTime: 2023-05-22T17:38:33Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/instruction-fine-tuning-for-flan-t5-xl-with-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/22/instruction-fine-tuning-flan-t5.jpg"
-        width: 1021
         height: 509
         isCached: true
   - title: "How OCX Cognition reduced ML model development time from weeks to days and model update time from days to real time using AWS Step Functions and Amazon SageMaker"

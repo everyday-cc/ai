@@ -3,8 +3,8 @@ category: news
 title: "Tech Giants Trigger Generative AI Investment Boom"
 excerpt: "From Microsoft to Amazon, Google to Meta, everyone’s in on the artificial intelligence hype, and the money’s following suit."
 publishedDateTime: 2023-05-24T13:59:00Z
-originalUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n=#!"
-webUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n=#!"
+originalUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n="
+webUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n="
 type: article
 quality: 19
 heat: -1
@@ -210,15 +210,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
-  - title: "Intel's Broad, Open HPC+AI Portfolio Powers Performance, Generative AI for Science"
-    excerpt: "View the full release here:  \"Intel is committed to serving the HPC and AI community with products that help customers and end-users make breakthrough discoveries faster,\" said Jeff McVeigh, Intel corporate vice president and general manager of the Super Compute Group."
-    publishedDateTime: 2023-05-22T18:55:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/22/9818599.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
   - title: "Adobe Unveils Future of Creative Cloud With Generative AI as a Creative Co-Pilot in Photoshop"
     excerpt: "Adobe (Nasdaq:ADBE) unveiled Generative Fill in Photoshop, bringing Adobe Firefly generative AI capabilities directly into design workflows. Th"
     publishedDateTime: 2023-05-23T11:00:00Z
@@ -229,6 +220,6 @@ related:
       domain: businesswire.com
     quality: 8
 
-secured: "Ue3/KQL8VvJ1g1BXhynh9bOE8sitZ79HGfUzwXxSIiLYgiDmGBbcreKZbKzCxs4fclXIcSE1k14NP5u0ZamDGtVmBCunor8a4QD9TNV02VFdvJwpYhdi6vkloKgqR1uBbOkGjT0acwl1498p60gsJDTI0O2TXhq3/ozVvIymMlKpl4CBoteeP7b57iOk5hoh0mRYCAELU2wljvAL+UEW4kQXaK+x213lwqyiljL9VK1xSaBLKKbJBuhps8Ku9y+XXg/09r5YhzXFJ2UCyYv+P7PHduFGS1DqPiQVYj/s8o2DDjWBTShgGstTqdAtEu258oC+WOauML7gd1Dv8eTRk4TiinXxJggQXZet3AQoggs98aZmpsMcsxpxbX5AMrVOicSMUOBtEdNfrL/knxZ3T1G4OMA5TcDbXlDbVtV0od8I2RfgDkWT1tNN2zvkOLRjojg8/gTEUMt11rP4i2ZIUMRwivTF47cLgck9hU4E71bzX0aTgpZcCRyYweN+swsb76RjQVE0I4HkL5IO7tAlcw==;eemHHc4x2nLAziHTORFSmg=="
+secured: "7Tj+PDFnLKQIsN+3YqUqU9xuijk2cwkE4br81vK2x4wDhUJZWU75vrgK2Kh5M8VKTPeyC+Fj3O/ADIXACDVdOC3LCyzjoEvmnenCMcFwFMxKsq++YwBtDIQkJWg3ef9bRwIAvUtkTguo4on6lgtnr1s0G9lhOENKcgK3vVkZ2Rw7yNsYdCY4uFk0eusuuaO6Bv5M9YqDDX8VnhufYOY9ya0V1e9g/KIp1OfX86WVh1CY/PzR0dBRlb0lsqG1Nr5Wgh+niYGaDQ7/6x0zKx1ymN+/m8O++ZElQKmpsPWPLxAZn9cZm+XUiWL+U5VX6aWdOvMnZO7HNWMwpkbABPGpWiG8WQMa1q47tN4IMeKkYcEBrCbG9JmndZXO/30yxz1YRmQE0MfjYKmtm+PGaWl7uYE+RzNSqnZGiR6fJPdTmfFFL/19S5yQ/jWudLfQ2Rl9vXfQ3OIova1mafJHd63S/La5Fsl0V9koWZKgiBX3WU/E6koNyfv4jhllOMWNW4Yu/RpAVeNiyRseQzjAtnDkkg==;y/u/0Au0W27xjii0JbcGKg=="
 ---
 

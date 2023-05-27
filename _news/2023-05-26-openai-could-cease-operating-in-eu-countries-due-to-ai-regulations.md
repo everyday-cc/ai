@@ -68,22 +68,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Our quick guide to the 6 ways we can regulate AI"
-    excerpt: "The European Union is finalizing the AI Act, a sweeping regulation that aims to regulate the most “high-risk” usages of AI systems. First proposed in 2021, the bill would regulate AI in sectors such as health care and education."
-    publishedDateTime: 2023-05-22T17:43:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/22/1073482/our-quick-guide-to-the-6-ways-we-can-regulate-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/05/22/1073482/our-quick-guide-to-the-6-ways-we-can-regulate-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/22/1073482/our-quick-guide-to-the-6-ways-we-can-regulate-ai/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/starts-stops-regs1_1.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "AI could be smarter than \"experts\" in 10 years, OpenAI CEO says"
     excerpt: "Artificial intelligence could surpass the \"expert skill level\" in most fields within a decade — and trying to stop the emergence of \"superintelligence\" is impossible, wrote OpenAI CEO Sam Altman in a Monday blog post."
     publishedDateTime: 2023-05-23T15:28:00Z

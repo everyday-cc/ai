@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-use-wordtune-ai-on-y
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-wordtune-ai-on-your-iphone-to-generate-content/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/05/Depositphotos_652094916_S-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Game-changing AI in iPhone 15 will talk in your voice but can it get you kidnapped too?"
+    excerpt: "Phones running Apple's new iOS 17 can learn your voice in 15 minutes and start talking like you. Apple is changing the world for the better. Or is it?"
+    publishedDateTime: 2023-05-27T11:48:00Z
+    webUrl: "https://www.phonearena.com/news/game-changing-ai-in-iphone-15-will-talk-in-your-voice-but-can-it-get-you-kidnapped-too_id147615"
+    type: article
+    provider:
+      name: PhoneArena
+      domain: phonearena.com
+    quality: 31
+    images:
+      - url: "https://m-cdn.phonearena.com/images/article/147615-wide-two_1200/Game-changing-AI-in-iPhone-15-will-talk-in-your-voice-but-can-it-get-you-kidnapped-too.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "THzaXJU8edLvMiuoCb1wt+0CAMkFR0Ag6tIDDc1fNhm6B9V2tNt6QJeIpvlsMP4OZFRdwz9YnQOyIXnbjuNkYLz4g4+7XJtl0paVMSFTvRfQdn5/56BnfjRIw5n1V35SAJQ+prsdfVVtMwsjndaEUWOHTLTzkEDhz6YL6GjhcbTSLc19989xjiRMjMH/dXBR+KeB7TpKZUIiFtYyAZBRCe0atqPJGkvqsg7Vad/Pf1htQzXYKL1JOib7K6j3KAw8kl3uORptE+0C6WZfbCGobO65vYfNM7pD2VBaJ+CRQyj8GTRsUrhw8jf1yk1HBpgq7ndx9ZxgpqUtg+xLlIG/oZM1xRSHju/4VnSBlEdpCk8=;1OYh13Sg3MrtbKrMoSVuvQ=="

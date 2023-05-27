@@ -214,15 +214,6 @@ related:
         isCached: true
   - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
-    publishedDateTime: 2023-05-22T17:30:00Z
-    webUrl: "https://www.businessinsider.com/chaptgt-ai-financial-services-reality-hype-whats-next-prepare-2023-may"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
-  - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
-    excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
     publishedDateTime: 2023-05-26T17:30:00Z
     webUrl: "https://www.businessinsider.com/chaptgt-generative-ai-financial-services-whats-next-hype-reality-2023-may"
     type: article

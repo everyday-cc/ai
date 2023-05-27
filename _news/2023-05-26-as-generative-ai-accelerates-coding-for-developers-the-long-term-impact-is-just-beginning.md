@@ -196,7 +196,7 @@ related:
   - title: "Tech Giants Trigger Generative AI Investment Boom"
     excerpt: "From Microsoft to Amazon, Google to Meta, everyone’s in on the artificial intelligence hype, and the money’s following suit."
     publishedDateTime: 2023-05-24T13:59:00Z
-    webUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n=#!"
+    webUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n="
     type: article
     provider:
       name: Variety
@@ -211,15 +211,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
-  - title: "Intel's Broad, Open HPC+AI Portfolio Powers Performance, Generative AI for Science"
-    excerpt: "View the full release here:  \"Intel is committed to serving the HPC and AI community with products that help customers and end-users make breakthrough discoveries faster,\" said Jeff McVeigh, Intel corporate vice president and general manager of the Super Compute Group."
-    publishedDateTime: 2023-05-22T18:55:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/22/9818599.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
   - title: "Adobe Unveils Future of Creative Cloud With Generative AI as a Creative Co-Pilot in Photoshop"
     excerpt: "Adobe (Nasdaq:ADBE) unveiled Generative Fill in Photoshop, bringing Adobe Firefly generative AI capabilities directly into design workflows. Th"
     publishedDateTime: 2023-05-23T11:00:00Z

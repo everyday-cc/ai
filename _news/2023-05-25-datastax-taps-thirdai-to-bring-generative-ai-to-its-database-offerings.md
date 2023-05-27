@@ -9,8 +9,8 @@ ampWebUrl: "https://www.infoworld.com/article/3697708/datastax-taps-thirdai-to-b
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3697708/datastax-taps-thirdai-to-bring-generative-ai-to-its-database-offerings.amp.html"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: InfoWorld
@@ -30,22 +30,31 @@ images:
     isCached: true
 
 related:
-  - title: "This week in data: How to talk AI"
-    excerpt: "In this week's video, Bruno and a special guest discuss “how to talk AI” and best practices for currently available generative AI tools."
-    publishedDateTime: 2023-05-22T17:07:00Z
-    webUrl: "https://venturebeat.com/ai/this-week-in-data-how-to-talk-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/this-week-in-data-how-to-talk-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/this-week-in-data-how-to-talk-ai/amp/"
+  - title: "Teradata deepens Dataiku integration to accelerate enterprise AI projects"
+    excerpt: "Teradata today deepened its integration with Dataiku to help enterprises accelerate their AI projects from pilot to production."
+    publishedDateTime: 2023-05-23T15:37:00Z
+    webUrl: "https://venturebeat.com/ai/teradata-deepens-dataiku-integration-to-accelerate-enterprise-ai-projects/"
+    ampWebUrl: "https://venturebeat.com/ai/teradata-deepens-dataiku-integration-to-accelerate-enterprise-ai-projects/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/teradata-deepens-dataiku-integration-to-accelerate-enterprise-ai-projects/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 86
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/May-22.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/02/AdobeStock_552748421.jpeg?w=1200&strip=all"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
+  - title: "DataStax and ThirdAI Announce Partnership to Democratize Access to Advanced AI Tech"
+    excerpt: "DataStax today announced a partnership with AI startup ThirdAI to make sophisticated large language models (LLMs) and"
+    publishedDateTime: 2023-05-24T20:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/datastax-and-thirdai-announce-partnership-to-democratize-access-to-advanced-ai-tech/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 13
   - title: "DataStax and ThirdAI Partner to Accelerate AI Adoption - in the Cloud or Datacenter - at Dramatically Lower Cost"
     excerpt: "With ThirdAI technology, training AI/ML workloads can be performed on cost-effective CPU chips rather than GPU chips that are more expensive and often only available in limited quantities in the cloud."
     publishedDateTime: 2023-05-24T12:23:00Z

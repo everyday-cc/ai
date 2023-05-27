@@ -476,20 +476,6 @@ related:
         width: 897
         height: 598
         isCached: true
-  - title: "Microsoft healthcare AI subsidiary Nuance hit with job cuts"
-    excerpt: "Nuance Communications, a Microsoft subsidiary, is undergoing layoffs to focus on its healthcare business. CEO Mark Benjamin notified employees of the job cuts May 19."
-    publishedDateTime: 2023-05-22T17:10:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/microsoft-healthcare-ai-subsidiary-nuance-hit-with-job-cuts.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 71
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Microsoft Build 2023: The Biggest News On Copilots, AI, Windows, Security"
     excerpt: "Microsoft gave updates on generative AI copilots, plugins, security, Windows, Fabric, Teams, Power Platform and other offerings during Build 2023."
     publishedDateTime: 2023-05-23T15:00:00Z
@@ -551,6 +537,15 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
+    quality: 64
+  - title: "3 AI Stocks That Could Beat Out Google and Microsoft"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Unless you’ve been off the grid for most of 2023, you know that"
+    publishedDateTime: 2023-05-27T10:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-could-beat-out-google-and-microsoft-1032355321"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 64
   - title: "Microsoft integrates Nvidia’s AI Enterprise Suite with Azure Machine Learning"
     excerpt: "The integration of Nvidia’s software suite will further help enterprises build, deploy, and manage applications based on large language models."
