@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-05-robots-rights-confucianism-alter
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-robots-rights-confucianism-alternative.amp"
 type: article
 quality: 59
-heat: 80
+heat: 79
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/chatgpt-prompt-injection-attack-security
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chatgpt-prompt-injection-attack-security/amp"
 type: article
 quality: 91
-heat: 261
+heat: 241
 published: true
 
 provider:
@@ -192,20 +192,6 @@ related:
         width: 700
         height: 508
         isCached: true
-  - title: "Regulators turn to old laws to tackle AI technology like ChatGPT"
-    excerpt: "As generative AI models gain prominence, regulators are delving into existing laws while shaping new regulations to address privacy and safety concerns."
-    publishedDateTime: 2023-05-23T02:42:00Z
-    webUrl: "https://interestingengineering.com/culture/regulators-use-old-laws-to-regulate-chatgpt"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 37
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/22/image/jpeg/I8FKpngLiRzRDTS7G1SVkRzE8lWrtdhcuBlQZvsi.jpg"
-        width: 1920
-        height: 1282
-        isCached: true
   - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
     excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
     publishedDateTime: 2023-05-23T17:59:00Z
@@ -224,20 +210,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
-  - title: "Gartner: Exploring the short- and mid-term implications of ChatGPT"
-    excerpt: "As such, it's crucial to understand the short-term and mid-term implications of this new development. As a cutting-edge application that leverages a large language model, ChatGPT is revolutionising the thinking about data and analytics."
-    publishedDateTime: 2023-05-23T03:01:00Z
-    webUrl: "https://www.computerweekly.com/opinion/Gartner-Exploring-the-short-and-mid-term-implications-of-ChatGPT"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 24
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/generative-AI-Chat-GPT-Timon-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "ChatGPT, for better or worse: How AI will disrupt the health care sector"
     excerpt: "Opportunities: The health sector is generally slow to adapt to new technologies. Transfers of information on CDs or even faxes remain prevalent among some providers. Dr. William Johnson, president of Moda Health,"
     publishedDateTime: 2023-05-25T21:10:00Z

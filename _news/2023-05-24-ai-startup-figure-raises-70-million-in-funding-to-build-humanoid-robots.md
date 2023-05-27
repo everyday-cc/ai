@@ -67,22 +67,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "AI Startup Updating Old Finance Systems Raises $35M"
-    excerpt: "Artificial intelligence (AI) startup company FlowX.AI secured $35 million in a new funding round led by Dawn Capital. The company operates an AI-powered platform designed to improve the digital infrastructure of banks and help them launch services faster."
-    publishedDateTime: 2023-05-23T02:12:00Z
-    webUrl: "https://247wallst.com/investing/2023/05/22/ai-startup-updating-old-finance-systems-raises-35m/"
-    ampWebUrl: "https://247wallst.com/investing/2023/05/22/ai-startup-updating-old-finance-systems-raises-35m/amp/"
-    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/05/22/ai-startup-updating-old-finance-systems-raises-35m/amp/"
-    type: article
-    provider:
-      name: 24/7 Wall St
-      domain: 247wallst.com
-    quality: 74
-    images:
-      - url: "https://247wallst.com/wp-content/uploads/2022/10/imageForEntry1-3dh.jpg?w=400"
-        width: 400
-        height: 224
-        isCached: true
   - title: "London-Based Startup Builder.ai Raises $250 Million"
     excerpt: "Builder.ai, an artificial intelligence company based in London, has raised $250 million in a funding round led by the Qatar Investment Authority, the Gulf state’s $450 billion sovereign wealth fund."
     publishedDateTime: 2023-05-23T09:00:00Z

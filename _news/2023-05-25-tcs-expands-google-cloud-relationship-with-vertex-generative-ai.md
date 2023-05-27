@@ -58,20 +58,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "TCS Expands Partnership With Google Cloud, Launches Generative AI"
-    excerpt: "Tata Consultancy Services on Wednesday (22 May) announced an expanded partnership with Google Cloud and the launch of its new offering, TCS Generative AI which leverages Google Cloud’s generative AI services,"
-    publishedDateTime: 2023-05-23T03:23:00Z
-    webUrl: "https://swarajyamag.com/tech/tcs-expands-partnership-with-google-cloud-launches-generative-ai"
-    type: article
-    provider:
-      name: Swarajya
-      domain: swarajyamag.com
-    quality: 39
-    images:
-      - url: "https://gumlet.assettype.com/swarajya%2F2023-02%2Fa38bf3ae-864b-49b1-ad8b-01fddfd3c396%2FScreenshot_2023_02_08_at_12_53_49_PM.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "y27rEJ3YEu17E5jkfECuu04l0K8b2xes5+OBWkoTL8eqB13+dfgLqQikayByTj7beGOt9ugV5WRoNCzp77tA+/MnG/2+SRLF48eb7axCiKVYdUK3kKqDKjQYklQYlB6NTPg61lVuBSEFrYhI3dSs+lzL/Kx03QVcJWF6IekZP6TvoWFdpzwjxBlTdyYhWYuKrnRvEbbURF3AaLXDkBPnIKqCwgDDek4EOditAZCO04Hz264GB7YuwhQ6qzT41CitNkcBjI2wNUb/8hyv8718PTnqCmp/GzmHp7auKsywxlTMr5K69HpSf7SgTqtnEgldKAvtlxMsQpYjM3wDQc/KBtW3aYtHHnsAa5/qBcal4Hlx/JMU7+KX92iL1gYVZ53cx033nexWELMIwG4nXq9M0N4LGeEsx0MNBu9AzUSRzXVBBr7PuazT9ueiQa++mrvH8A0v05kipKSMEEUnYS1BiMEqbXNWHGJBiXy+13xiPaFpiHRHPw65xDhrkPThODJ14pd/GwXfU6Rc/hhKmPaAKw==;afQ16g3BN7f0v35+qh632w=="
 ---

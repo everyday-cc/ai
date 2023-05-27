@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/business-65034773.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65034773.amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "ChatGPT: Most Americans Know About It, But Few Actually Use the AI Chatbot"
+    excerpt: "Though 58% of Americans are familiar with ChatGPT, just 14% have actually tried it, a Pew Research Center survey finds."
+    publishedDateTime: 2023-05-27T14:10:00Z
+    webUrl: "https://www.pcmag.com/news/few-americans-have-actually-tried-chatgpt-despite-most-knowing-about-it"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 45
 
 secured: "1l4l5aKxg/aGfmH1hsvT95D1Hrp5YotDMvIG6033744UgdKVLWEC/Cs89u4eSynDQuS8fraIvSXVJdLxSkbjmGtRDBMC1HVoeAsKhn3UWosS2zQljU5+AQEI/1sXKIp/HkORHajhJcCjXdH3HbMZsmsoiTbn98Ii4eY5NFhTfjVop5yhNQfbW+eGanIWSqVpUsjtebWRCGI5dhPw9mp8I575IHSf/Xuqn8zcW+KSeAfckFsNs+1zvH1Ej9WPwYejeKaRRtiGZf0WmiguSgv+7/XEXUrQj0P+hPDJDpkIdk1qhq/rRAEf0hj6l+K3ofQyCCi/vAAArOUAfaaiW6dMpEgJaiW8r/bKPUeVMwlFys9l9UOjn4ywU96H7jAGAiXXysj1X4WENRVqVcs2zkLdS96fM+PLaJtLTbgt+JolY5xNBk4/AbalXW0I0gioKZJvy0IYEclJUK0FOIG6g6JXLYFjo45xVhdyLPYDjCwOqcU7K16pzZPi48SKe2akUYpwY45pFnQzinm8MIv69lVNNQ==;HB4J/Dz2+mRbfDXQvuyh6Q=="
 ---

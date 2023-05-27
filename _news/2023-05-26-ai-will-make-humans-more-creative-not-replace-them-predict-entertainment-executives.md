@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/ai-will-make-humans-more-creative-not-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ai-will-make-humans-more-creative-not-replace-them-predict-entertainment-executives.amp"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:

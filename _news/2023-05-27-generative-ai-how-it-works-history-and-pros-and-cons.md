@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Delving into the conversation about artificial intelligence: What's next?"
-    excerpt: "Many worry about job losses due to this technology, while others anticipate its impact in the future as Congress examines regulations."
-    publishedDateTime: 2023-05-23T01:48:00Z
-    webUrl: "https://www.cbsnews.com/detroit/news/delving-into-the-conversation-about-artificial-intelligence/"
-    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/delving-into-the-conversation-about-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/delving-into-the-conversation-about-artificial-intelligence/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 56
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/23/dc28e7ae-3912-4fa6-a650-1147b5362a51/thumbnail/1200x630/805be5d711bff63fb423dd8ba9d1ae2c/gettyimages-1483272785.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Analysis-Investing in AI: How to Avoid the Hype"
     excerpt: "\"It's just that that’s very hard to be true for the entire market.\" Instead of backing hot start-ups or rushing into highly valued AI-themed businesses that might fail, seasoned investors are taking a lateral view to back already proven technology ..."
     publishedDateTime: 2023-05-26T05:34:00Z

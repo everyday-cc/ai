@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial intelligence — the greatest disruptor ever? | Guest Commentary"
+    excerpt: "The public became truly aware of AI as recently as March 14 with the launch of GPT-4, the successor to GPT-3, which is the technology behind the chatbot"
+    publishedDateTime: 2023-05-27T14:30:00Z
+    webUrl: "https://santamariatimes.com/opinion/guest/artificial-intelligence-the-greatest-disruptor-ever-guest-commentary/article_09b2232c-ba31-5d3e-8343-b4e26865222f.html"
+    type: article
+    provider:
+      name: Santa Maria Times
+      domain: santamariatimes.com
+    quality: 16
 
 secured: "ztNAMrBDivGNZ721rggasi2ePCoptgdDo3e9BWAV+2IAs+ns69e5lVYfLMwMxB6Q3hZGGZRCcgWpR8LJoyfJ8Kf+BSNAQEapo3SLIu+OOK4R5g78peOQCvr4JyPw67iyZybd1V3zSOWTIQnftNIUA8hjBgW46bZT0rIK1qm+Slt/1nAiCje2DkXU/qle9TTtagnJQZ2pNiyf60Pd7nY4zAWmkPwnVtosRrokcqaIWGRyaVWD1drJWd5Oby1cT5iLanCljCCuqeezFd7b+1Q169RJanXJWkvAbLLjgu4QdcXURiDPkiap3Hp9Zf51nMQtOSVBy9w5ANTRfx7MEouuVn5neqswg0xC8/K6MURYHoCi2HjYHr+FGBMoBEXbyHX/Jp/hv3XcsIIad27BkadNxnnSDWCf15mwz5E8iyJWPkYDDkND/cD9dRMiTMHfGCdMQATBkUUPBmhYStAKb9s7MTDGKC+FdOnw4h1TRTJHncaRkYdXgO/NDSw1VRklKvGIp41VQ+7gWmBiq/0E32YqvA==;iJAW6GBv5wCT0XSECrYMSQ=="
 ---

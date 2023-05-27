@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/deandebiase/2023/05/25/disrupting-the-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deandebiase/2023/05/25/disrupting-the-disruptive-disrupters-with-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Artificial intelligence — the greatest disruptor ever? | Guest Commentary"
+    excerpt: "The public became truly aware of AI as recently as March 14 with the launch of GPT-4, the successor to GPT-3, which is the technology behind the chatbot"
+    publishedDateTime: 2023-05-27T14:30:00Z
+    webUrl: "https://santamariatimes.com/opinion/guest/artificial-intelligence-the-greatest-disruptor-ever-guest-commentary/article_09b2232c-ba31-5d3e-8343-b4e26865222f.html"
+    type: article
+    provider:
+      name: Santa Maria Times
+      domain: santamariatimes.com
+    quality: 16
 
 secured: "vYgvTrbqYVL5C9xlWt+h6ZUHFvkW+WzKI0NhTWUd/NGERm/pSjRXlEk0bnl6Fg+G1bTqsMufqoa+Iy6CWq3bCv2fxyjvbN2TqwyAzZgnWPgrRHTqQKailmWHdPEPtKvpPfqQZEvenv3S2d7ILEDTXRX1AcXyLN71G0P2iivdz5k2CWI2cPzxZq0QRTzN3W8pkYRmgDLsF/Zcjq9T2zWJa24P3H1StJDKRwR5jn7TqCr2N6B6jvPYWelylkVBbkS8YpINqIoPK6jONv0Uxwz6r9zLrGMgGJ5Tghd3pwAvJfLN3p1kxWNCYqevKxRH1uCT1KpHy2Mx6vhKZrWnBfOfSPmtTaBcLEs3XNzWFk7kxj2hXuhAiI2cMU4bKK1XmlIFsCjbUlW3qjMIappMH1HjFu9dzIGLsiBl/o6uYIpM2IqoB632xKR4hiBybe84eERhdg2sM0nqXHJkamssBa3xOf6zl9fCU7MMrc8spgIVYLaHhgu7yA4XZ70D1zTarl+lnBxyrNbZkwjO63JU3vdZuQ==;WL9zycvy+RWaW33vaEerYA=="
 ---

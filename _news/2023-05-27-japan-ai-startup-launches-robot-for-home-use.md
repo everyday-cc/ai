@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Figure Raises $70 Million Series A To Support Commercialization Of Figure 01 Humanoid Robot"
+    excerpt: "Figure raises $70 million Series A to support commercialization of Figure 01 humanoid robot May 27, 2023 by mark allinson leave a comment"
+    publishedDateTime: 2023-05-27T21:27:00Z
+    webUrl: "https://menafn.com/1106329764/Figure-Raises-70-Million-Series-A-To-Support-Commercialization-Of-Figure-01-Humanoid-Robot"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 44
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/27/R&AN_7815eimage_story.jpg"
+        width: 900
+        height: 450
+        isCached: true
 
 secured: "ZrI1N9+H6Z2FuRAn/qfXnfKbvfjupBSGEfYUwZl1imsXBoEU/sjy9n8HsJwRK8Wwpt4U8u42i5xTyStKwGkRq616YPjwy/YabAZj5OtJKcQvFH62Lvf+SQUp2GABtzNhqFb/1EbBMF6Hd4Mw/5qszJGqm81KswpB//23AzE0LlN5H3PY5yGOasjK2z/o8+2KSV8qoNmqwefg/4rl4q9fyIZBhPbDI+5SX5SGMfqvFQ/6ZWRO4ezJfi0bhbfwPhFt0wI+TUEHCiU3ft3Jt7EYJ//6Z5EhBEpIzs2XCPhn0VvJdEX0tjhtUO6BPb8SpkthnETn37lsbz9wMK/bGzVr33CZOc1OXvR0GCD+mnVlTISkGbwgiUUStuTVSpmJy0TmacIPVZP4j+065mZlCdzhL5QWMJQ5pqrfwSDeFuj/9Wqvi8gtrCIS4g55SRzYbmuC2RrIrt+a+Y1uE2rV0Ld/SMFdq+6CohFcetlrm01AKWt8ovCZJ2cfnAuxMCq/RuBIFLTRi+5ELKGaRG21OkZPpA==;nfO2lkbHo6/0Jur/XvwtnQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-05-24/ai-startup-figu
 webUrl: "https://www.bloomberg.com/news/articles/2023-05-24/ai-startup-figure-raises-70-million-for-humanoid-robot"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://cdn.mainichi.jp/vol1/2023/05/27/20230527p2g00m0na016000p/0c10.jpg?1"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Figure Raises $70 Million Series A To Support Commercialization Of Figure 01 Humanoid Robot"
+    excerpt: "Figure raises $70 million Series A to support commercialization of Figure 01 humanoid robot May 27, 2023 by mark allinson leave a comment"
+    publishedDateTime: 2023-05-27T21:27:00Z
+    webUrl: "https://menafn.com/1106329764/Figure-Raises-70-Million-Series-A-To-Support-Commercialization-Of-Figure-01-Humanoid-Robot"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 44
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/27/R&AN_7815eimage_story.jpg"
+        width: 900
+        height: 450
         isCached: true
 
 secured: "FnYptzGOT6X21IVCqiZw2VFG/wYzYAfo3OYnHxyDvfT7odrDvhN6v93lRl2m/Hdam5WmCSnB0TcMQAMcCE/jVBk56zsxUyXDafFJcm/ZR25EJHQA78kPxfcMrayokrim9EIi//CxvsS6bn1waozjLiMPctLAswypdszwTq7wJ/DxeyrIC9/zlNZGfEDcaUV0tANRUIGTPhmlqsM9Hd+orcpZm5JG49s1C5BOyo2/0P8rIDa732JtXFv5BCHiVTF8kB7sTslBPL1+/HqOZbRmm0BH8pBHPBvz//dsOlkaJXhMS1EFTKglWWG7TfTdJ32xfUTUlM5ycVF/11alIbwm+VAM3CrPbRhYwyPqoTtwmQUp0/48OVNhbSXB/rY704ZtldnsJgEtFajqEw3GMUjj2jr7kAGh0cIpp8no59aJPvqzMXXrFkue66ld8su5foNPPj9/VHXwiQGlc49/Sv09ENoTsylzJYZbwN/qXlfLNCdisNkfWCVJ+IQxiYw37Eow0+8GwDOza4fpQ5ihWOUjqA==;bOPXZ0DIYwK/vs1f92ExEQ=="

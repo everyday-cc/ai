@@ -7,8 +7,8 @@ originalUrl: "https://www.law.com/corpcounsel/2023/05/25/how-ai-and-machine-lear
 webUrl: "https://www.law.com/corpcounsel/2023/05/25/how-ai-and-machine-learning-will-transform-your-legal-department/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Law
@@ -33,6 +33,15 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 49
+  - title: "Teachers hope that AI, robotics will revolutionize learning"
+    excerpt: "Educationists say robotics is poised to revolutionise the learning landscape by equipping children with essential skills and preparing them for a future, where artificial intelligence (AI)"
+    publishedDateTime: 2023-05-27T18:55:00Z
+    webUrl: "https://www.ntv.co.ug/ug/news/national/teachers-hope-that-ai-robotics-will-revolutionize-learning-4249376"
+    type: article
+    provider:
+      name: NTV
+      domain: ntv.co.ug
     quality: 49
 
 secured: "sun27bBbEzwEqoMsflwIetjZVX+ol4VWAU4UYZNbb0fp64JR0037/cImIdiduKkNKknePUI5Z6zSKQHYimaZNDkhjAK3+7uaA908fmi+RM/Tp6wYK09H8pP+AiBV3kRDQkO1gcGXRK1VDPIj9uG/Cu4bb9T5lpsg+fZIyKcfE8MWnSe4Udyrphd8Vh/BNSb0Qx/ELMMmeRbFsVCDzzwGgECaa2mlD4NIcEf6Umf0Mo3VAxqRVvLevcJNbfL+/IHPoFTvSao9vx5dRv/Ks+v8U64z0rTrLsKhhl25VIeUoQrXGUPucJlfBSjlzNlP8EWqnXdXGpIGtJL0TzU83XKiLjWVkJt6X5Eab4QQtXahR3E=;UXlmFIR/bYMjX0jgpgGATA=="

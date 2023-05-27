@@ -52,20 +52,6 @@ related:
         width: 2560
         height: 1920
         isCached: true
-  - title: "TCS Expands Partnership With Google Cloud, Launches Generative AI"
-    excerpt: "Tata Consultancy Services on Wednesday (22 May) announced an expanded partnership with Google Cloud and the launch of its new offering, TCS Generative AI which leverages Google Cloud’s generative AI services,"
-    publishedDateTime: 2023-05-23T03:23:00Z
-    webUrl: "https://swarajyamag.com/tech/tcs-expands-partnership-with-google-cloud-launches-generative-ai"
-    type: article
-    provider:
-      name: Swarajya
-      domain: swarajyamag.com
-    quality: 39
-    images:
-      - url: "https://gumlet.assettype.com/swarajya%2F2023-02%2Fa38bf3ae-864b-49b1-ad8b-01fddfd3c396%2FScreenshot_2023_02_08_at_12_53_49_PM.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "TCS Expands Google Cloud Relationship With Vertex Generative AI"
     excerpt: "Tata Consultancy Services is banking on its deep customer relationships to find ways to bring Google Vertex AI generative AI to them."
     publishedDateTime: 2023-05-24T17:48:00Z

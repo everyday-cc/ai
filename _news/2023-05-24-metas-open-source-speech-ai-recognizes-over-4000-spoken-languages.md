@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/metas-open-source-speech-ai-recognizes-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/metas-open-source-speech-ai-recognizes-over-4000-spoken-languages-161508200.html"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.gulf-times.com/gulftimes/uploads/images/2023/05/23/33252.jpg"
         width: 1000
         height: 565
-        isCached: true
-  - title: "Meta uses AI to preserve the world's language diversity"
-    excerpt: "Meta has announced series of artificial intelligence (AI) models to preserve the world’s languages that are in danger of disappearing. As the limitations of current speech recognition and generation technology will only accelerate this disappearing trend,"
-    publishedDateTime: 2023-05-23T04:48:00Z
-    webUrl: "https://dunyanews.tv/en/Technology/725904-Meta-uses-AI-to-preserve-the-world-s-language-diversity"
-    ampWebUrl: "https://dunyanews.tv/amp/english/725904.php"
-    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/725904.php"
-    type: article
-    provider:
-      name: Dunya News
-      domain: dunyanews.tv
-    quality: 59
-    images:
-      - url: "https://img.dunyanews.tv/news/2023/May/05-23-23/news_big_images/725904_55319823.jpg"
-        width: 752
-        height: 423
         isCached: true
   - title: "Meta AI’s Massively Multilingual Speech Project Scales Speech Technology to 1000+ Languages"
     excerpt: "Speech technologies such as automatic speech recognition (ASR) and speech synthesis or text-to-speech (TTS) are playing an increasingly important role in many real-world applications. Contemporary speech technology systems however support only about one hundred languages at best — a tiny fraction of the over 7,"

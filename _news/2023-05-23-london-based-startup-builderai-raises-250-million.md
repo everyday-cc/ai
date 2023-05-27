@@ -74,22 +74,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "AI Startup Updating Old Finance Systems Raises $35M"
-    excerpt: "Artificial intelligence (AI) startup company FlowX.AI secured $35 million in a new funding round led by Dawn Capital. The company operates an AI-powered platform designed to improve the digital infrastructure of banks and help them launch services faster."
-    publishedDateTime: 2023-05-23T02:12:00Z
-    webUrl: "https://247wallst.com/investing/2023/05/22/ai-startup-updating-old-finance-systems-raises-35m/"
-    ampWebUrl: "https://247wallst.com/investing/2023/05/22/ai-startup-updating-old-finance-systems-raises-35m/amp/"
-    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/05/22/ai-startup-updating-old-finance-systems-raises-35m/amp/"
-    type: article
-    provider:
-      name: 24/7 Wall St
-      domain: 247wallst.com
-    quality: 74
-    images:
-      - url: "https://247wallst.com/wp-content/uploads/2022/10/imageForEntry1-3dh.jpg?w=400"
-        width: 400
-        height: 224
-        isCached: true
   - title: "AI startup Figure raises $70 million in funding to build humanoid robots"
     excerpt: "The new funding will be used to accelerate the development and manufacturing of the company's first autonomous humanoid, which is expected to launch in the next few months. The valuation of the one-year-old company was not disclosed,"
     publishedDateTime: 2023-05-24T10:59:00Z

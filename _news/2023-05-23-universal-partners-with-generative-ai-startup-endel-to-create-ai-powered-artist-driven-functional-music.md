@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Can AI make me a musical star?"
+    excerpt: "As vocal clones of music’s biggest names go viral, the FT’s pop critic embarks on an unlikely quest to replicate his favourite singer’s voice"
+    publishedDateTime: 2023-05-27T04:00:00Z
+    webUrl: "https://www.ft.com/content/408a8920-cf0c-4f23-925f-8496da15153f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/lifestyle-weekend.jpg"
+        width: 619
+        height: 377
+        isCached: true
 
 secured: "rx3hiR5dhDzI4HfRe5PODae+2jWM5JxNNN/C5ThrSM0XRwbPpxCNHZimZURvVKV6H+AXAiDV2/fj0AR6VaSEhuYpvB3OtjXQEoUQo26ks0CKRrznDfu/OoHjaL37EmmMw9ZLdPJYS4FA5uQhCY/xcajOLaWmwIS/2naVNZ5uGS9CZ4x80MJ/rJCKjiCpHrSxtEwXXV9hnRPDoLHXtXxowMG0T/O88oKQvMZf0W1oRpuCXSjLZ4F4oS6mumGvLHzkBC+1yD40t2X/oJxX2K5xHL24XQefCrdcPL0ryNaJJ796Tk0ygSpmbqSPLdKHixsVL/94sj2FoNcFQ1eT7GRCnUaJvqAtVpR9SsKoXO0TLBOzt+H1nFAYkrRSBW4mFkazP+W0fLxYcQTj41bk6qFMuFdZm0xZMTWqv2TNYp51XRCt/P0TujqVnR7dVbiCl1bSwB+JF1+SL8Tb3TucsZ9vlYfjN+wkuPR21/DHqfCT6aKu20Xs+qdGRa46jJBcQc7Fl7ydGl5u2QjbZsMGT2HnFw==;FpqJOBt8L+us9cjAgUhHpg=="
 ---

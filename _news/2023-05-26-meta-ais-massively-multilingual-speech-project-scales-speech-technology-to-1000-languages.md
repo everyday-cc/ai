@@ -59,22 +59,6 @@ related:
         width: 1000
         height: 565
         isCached: true
-  - title: "Meta uses AI to preserve the world's language diversity"
-    excerpt: "Meta has announced series of artificial intelligence (AI) models to preserve the world’s languages that are in danger of disappearing. As the limitations of current speech recognition and generation technology will only accelerate this disappearing trend,"
-    publishedDateTime: 2023-05-23T04:48:00Z
-    webUrl: "https://dunyanews.tv/en/Technology/725904-Meta-uses-AI-to-preserve-the-world-s-language-diversity"
-    ampWebUrl: "https://dunyanews.tv/amp/english/725904.php"
-    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/725904.php"
-    type: article
-    provider:
-      name: Dunya News
-      domain: dunyanews.tv
-    quality: 59
-    images:
-      - url: "https://img.dunyanews.tv/news/2023/May/05-23-23/news_big_images/725904_55319823.jpg"
-        width: 752
-        height: 423
-        isCached: true
   - title: "Why learn languages in AI Age?"
     excerpt: "AI might save students time, but it should not replace language learning. Instead, the technology could amplify learning, and it might also enhance our humanity. Language makes us unique from other animals."
     publishedDateTime: 2023-05-27T16:00:00Z

@@ -127,6 +127,15 @@ related:
       name: AZ Central
       domain: azcentral.com
     quality: 8
+  - title: "Waymo, Uber set aside past rift over self-driving car technology to team up on robotaxis in Phoenix"
+    excerpt: "- Phoenix Mayor Kate Gallego arrives in a Waymo self-driving vehicle on Dec. 16, 2022, at the Sky Harbor International Airport Sky Train facility in Phoenix. Self-driving car"
+    publishedDateTime: 2023-05-23T17:05:00Z
+    webUrl: "https://www.mrt.com/business/article/waymo-uber-set-aside-past-rift-over-self-driving-18114056.php"
+    type: article
+    provider:
+      name: Midland Reporter-Telegram
+      domain: mrt.com
+    quality: 5
 
 secured: "Lw3dhJ0q7OTgCr2M/nc9tBh4x8L/0Rc+9WfgsauhKz+M0ErFaGfeqqHfXdbdAlFdT7iyI12RzK9uKLzkou/1WSFrpjB0J2E4fh+9+aDs1/Yt8YsYBFUaTO6jhqQVE0mZyfBroMnSPCQGavsn1or5mi97wOzqxuaKQ0aTiIrXj18i9Ed2It3P0W638OxUw8p6iYUlSWr2COYPhacL4dJGGPiuQ4KhXeS2b2Vhd1f/fpOvGh+YTN0M23H03terM6Li1Bpsb1sWATVsC/ZtqM6De6GLZbS7msXmQH0OWLS4m8inJPMlMX7h2cgpu3vsB5zhx7VZiruuwnwTYzF1CHh7eez/LO/FQMkqzfJ7jXrwjXjngBXEltAsbylb3isMLxd5DKCdRyx2EE4huBAA6Fllp+J6vAojlDGzuMCAHP/j7Xj3SSp89u+FvKMDEbZj8axbCgQIqm2ZYCyR4nLzM+v0Osqcc/JVnl6GIJXxyowsudPHAmh0XV1WUKWI1td8Io6YXSAgXGDgG54eBc6IsF9S0Q==;z2wgL9D+u8oaoDad15y5Pw=="
 ---

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "UK to roll out first driverless bus service"
-excerpt: "AFP Listen to article 1x 1.2x 1.5x QUEENSFERRY: The UK will roll out its first driverless bus network ... The control system includes an artificial intelligence engine that receives information ..."
-publishedDateTime: 2023-05-12T03:18:00Z
-originalUrl: "https://www.dawn.com/news/1752537"
-webUrl: "https://www.dawn.com/news/1752537"
+excerpt: "The control system includes an artificial intelligence engine that receives ... \"It's good,\" he said. A driverless bus tested in South Korea's capital, Seoul, last year as part of an experiment ..."
+publishedDateTime: 2023-05-11T22:45:00Z
+originalUrl: "https://www.bangkokpost.com/world/2568467/uk-to-roll-out-first-driverless-bus-service"
+webUrl: "https://www.bangkokpost.com/world/2568467/uk-to-roll-out-first-driverless-bus-service"
 type: article
 
 provider:
-  name: Dawn
-  domain: dawn.com
+  name: Bangkok Post
+  domain: bangkokpost.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://i.dawn.com/large/2023/05/120948366afab03.png?r=094954"
-    width: 800
-    height: 480
+  - url: "https://static.bangkokpost.com/media/content/20230511/c1_4752167_700.jpg"
+    width: 700
+    height: 466
     isCached: true
 
-secured: "ZVTQbc860KMS2CdRfwMm7JX+2jmtZ7pKSKDGKzN7Vh4dPUv8IgtR8PKf5c35cs4DMzmlZebWMzh4Him/+lPIjKoQOcYl2v+8sQYI9wbXVQAKi8PGCErCS8fdKEj3SuAjyzj+Ua99jjY1FIW4FkALsoDPsjjovz27j/D7VDsvHHA5So+5aK/R+z0JTqKVwbISqVPzSCmlbvV+zJMNjDsBImSZScgNtSbTIAmYKVaJSNlOBrWy7yeOYM7u5r/ZRnPfDIBil4AOYZpnaz9vhpBY3OAYuYWH97hOIwxjxsx1hDzls+25Ffm/06NgBFkNps1t4qoC31aVyRbF/VrqNid25TOU+k/VLsenWj2//9gYpy8=;nlIOEGL9QoH91UgSb4MjUw=="
+secured: "IfwWixkjPg0oXlvRaDr6lq5PnodhdmrgLWeX0eEnld/+enH2gc21NtYmu2TrsoHiBIqgrOP/UIEPt8ONYrta1iqSWxbJyJlyJDVsup6sKtMBIiZqmHT4suDd6sPoCuM9ll5GJN4+x2Gzm8BhAUeJgVJ9uD3KKJ//4gDCz7hSSR/NFNtW9PGn16uQveUcPLAKltSrezjEgl9zADRIPx+fmaaBCUR6rGGBVHNYxfV42bCs8WTJW8BsX2sOBv5cat1kmyAsc/vq+/u6G82C3A/LYASyp3jMwMl8cHwi0KTDd3uJolP3tQJlVSNqK5hMa8mM4ubQWdfoJSK/3OMFa7VMDa6Gg46xVn1NELlhGapj3qI=;56soAPEpsFvy5znRV9tAnQ=="
 ---
 

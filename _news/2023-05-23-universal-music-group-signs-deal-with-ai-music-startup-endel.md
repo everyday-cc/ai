@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Can AI make me a musical star?"
+    excerpt: "As vocal clones of music’s biggest names go viral, the FT’s pop critic embarks on an unlikely quest to replicate his favourite singer’s voice"
+    publishedDateTime: 2023-05-27T04:00:00Z
+    webUrl: "https://www.ft.com/content/408a8920-cf0c-4f23-925f-8496da15153f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/lifestyle-weekend.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "Universal partners with generative AI startup Endel to create ‘AI-powered, artist-driven functional music’"
     excerpt: "Companies will use Endel’s proprietary AI technology to let UMG artists \"reimagine\" their music and create \"science-backed soundscapes\""
     publishedDateTime: 2023-05-23T14:26:00Z

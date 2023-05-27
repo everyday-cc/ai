@@ -1,0 +1,60 @@
+---
+category: news
+title: "ChatGPT: Most Americans Know About It, But Few Actually Use the AI Chatbot"
+excerpt: "Though 58% of Americans are familiar with ChatGPT, just 14% have actually tried it, a Pew Research Center survey finds."
+publishedDateTime: 2023-05-27T14:10:00Z
+originalUrl: "https://www.pcmag.com/news/few-americans-have-actually-tried-chatgpt-despite-most-knowing-about-it"
+webUrl: "https://www.pcmag.com/news/few-americans-have-actually-tried-chatgpt-despite-most-knowing-about-it"
+type: article
+quality: 45
+heat: -1
+published: false
+
+provider:
+  name: PC Magazine
+  domain: pcmag.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+related:
+  - title: "ChatGPT: Can China overtake the US in the AI marathon?"
+    excerpt: "But China could catch up, according to analysts, as AI solutions take years to be perfected. Chinese internet companies \"are arguably more advanced than US internet companies, depending on how you're measuring advancement,\" Kendra Schaefer, head of tech policy research at Trivium China tells the BBC."
+    publishedDateTime: 2023-05-23T21:18:00Z
+    webUrl: "https://www.bbc.com/news/business-65034773"
+    ampWebUrl: "https://www.bbc.com/news/business-65034773.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65034773.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/15E48/production/_129327698_gettyimages-1248931741.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "ChatGPT-maker warns it might leave EU over planned AI law"
+    excerpt: "He also met Prime Minister Rishi Sunak and the heads of AI companies DeepMind and Anthropic to discuss the technology's risks - from disinformation to national security and even \""
+    publishedDateTime: 2023-05-25T13:11:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-65708114?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-65708114.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65708114.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/96F6/production/_129864683_gettyimages-1490689874.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+
+secured: "nSOecs2Br9lQre0IG+aw66NZsuCXbouNfq7NStJoEboQg51YFWmo6OrFRARf5oTbHXvoGljZnzfet0BXkhsBrmyf7FlYo00vjUdwPo0dWxqK1o81XWo/DyYtW3jeloD6+c71oe7dwUZuh695OYgPr1Rts/0E76N/sPalY3Z1KAmMFczrThKcBvwXz6BwHTKJJwUieYrutPubEj7YYWd1jXdLWZ91WlFo7aoZSqgrZcTnn7KFJ19tlGQUfgtbLnlhnIqdJ7nxGfYfjr9owtaVVB7AmZa3mlDMjJSZqHMX8nidcxLB5WC9uv9suxkgTZdeM97tXji+Z6OPfXaUCQnayCU3yUFLQwdvIaF2l1PlXQAN00GKxQ0GAT1eLbRKn340jmnlAUq2MNQq2Vd/DWcBLUP6jwR8DupwsnttAvaVezWDvVVU3HN9SlTMDuyOpNFpsim55WXM10qMHfV5mOY2/xNVp72m9rIi6B3NpzLVrmwAMn/GU1G43/nGSNG94fs/1op0AGL1vJuK3fMSa7byyQ==;FY9+jCCe47TPNnUdC9cCpw=="
+---
+

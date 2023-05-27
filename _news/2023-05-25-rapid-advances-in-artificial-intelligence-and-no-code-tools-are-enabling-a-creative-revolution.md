@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/amp/"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 75
+published: true
 
 provider:
   name: Forbes
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Endless Adventures will enable gamers to create narrative games with no-code tools and AI"
-    excerpt: "Endless Adventures came out of stealth at GamesBeat Summit 2023 to talk about the intersection of gaming, AI and user-generated content."
-    publishedDateTime: 2023-05-23T02:00:00Z
-    webUrl: "https://venturebeat.com/games/endless-adventures-will-enable-gamers-to-create-narrative-games-with-no-code-tools-and-ai/"
-    ampWebUrl: "https://venturebeat.com/games/endless-adventures-will-enable-gamers-to-create-narrative-games-with-no-code-tools-and-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/endless-adventures-will-enable-gamers-to-create-narrative-games-with-no-code-tools-and-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 78
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/ENDLESS-5_Gameplay.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "WP5HAdyCHufxvkObbTk7YdWakxUJsRIoKcmJ8MDnQOgxzeIWGaN5s7bH1k+aIfnxFRDGTkC4vz8aJuwZKBHKsSgx4lgmCf75xo1Yl5ZcBepq79seRceN5SrgAkOnemYnOPTTqWn3oy9sGfENf8HUX4Ya+hwO9RR/ROWH/MvQCB/cmp+g58jsjFIB4dKSf3+li3DEOCfuGePrjUwZwLMz5zuIQX5htVWICnLSR6OBgCh+ToPStLfvn4kxehzbxhDCGVFJFIXvIn75jQ4LmWvJBEhSUjhX2n5sTuAZ9CzRtHMKiFKmnm1EMHeuQMpZlugiMQZ8Tf/j1GVqSD2fmZmZVt0b9HU3OScqIc/UPLGNWmoxrhczuKBt3Cgkb8tzGH2j6j5aP0wYdCMGRHdgq5+DaG0/yhjOJk+IC4Jr/p55Yf/PS/C4YNGgFHdRD7ZGgqyJpuIJUzVcdfL5BINwyCXE7XmjBBVaOcvwYl6CU5A2VNWNLMAUY+emTKQe4N+pEDZpI0YXEN1SiCuRv+i/Axrlig==;xGoZng/WDoxZvOOtXrsYyA=="
 ---

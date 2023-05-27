@@ -3,12 +3,10 @@ category: news
 title: "AI startup Anthropic raises $450M for safety-focused chatbot"
 excerpt: "Yet while ChatGPT has faced criticism — and been tweaked — after offering users some concerning results, Anthropic aims to make its chatbot more cautious from the start. Anthropic’s goal is for Claude to be less prone than other chatbots to manipulation that will produce harmful or offensive results."
 publishedDateTime: 2023-05-23T21:58:00Z
-originalUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?n=%5CL"
-webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?n=%5CL"
-ampWebUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
+originalUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/"
+webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
@@ -158,6 +156,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "WMZe1KqlfFRvcJ07cUrRDv5oCFvimy/AfZiA0QbN90QYR4IAKwPqVM9CqJ9eN+SGTgrAsuB1tYlFEJMh1V+I5RGAvITnL5bR882mJMi8E6Y4ZatJChvLeah9kr/oLq+DkgSKxAWiy9mxQJxRtcEdzfZEJfN7Pkt102MI8krs04/6AklOhHN1kzTMYQZMxmSuhNbnQIqvTRMKkTS5ts94T8TiafOaNKCoaJK57ZL3qScrjercn5/cIpr5QDcVCnb3Rp5actfxgGu/z+sBwASeAhSZpWsAnXkjh9Ruq9O+zn72Q6wKpQ+9BKwS0+iZF+TWMXZnD8qB0bvOxT+18kM4oNmLVkzW+Ws0pUkVQtEH8bs=;p+KcD7pBhHpC0u1zrrw47w=="
+secured: "g6/5vs8Rc9ynccJ2aBFUDtCani8PxXnFf6fhOTum1RiO+Sr6V1ocffbHNkHfjqx2hGUFLzxk87XrwIuxT7KwloCWn6o6W994UvexfocFwx7NATImlCXWRacE/05O+aDLxX7sMUPJRoxw53aA5eK/bg7Y//30nJ6LaJ9Ze41IVHIjCaX4IjJD5gn5pM0Nz/hlOVc/Uub8XrUOGvbI3VRH+VfgoV9jRi/XfV9PZHDJpilxtiI4dNwjGDVXJJmWTEm/q3nSH3Gab279e56/Nh76Iu2ILUvUm0/7U1Bg3jP1l0PoyaAOiIZbL/12PJS78iiSHO31yCxggw4AYAckujSIUCCwIXnvwi3Z+nkbeFIw7gA=;GkmyAfHHqZPl0zy563Ap4w=="
 ---
 
