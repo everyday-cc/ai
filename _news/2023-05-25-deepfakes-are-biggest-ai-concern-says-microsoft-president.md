@@ -937,15 +937,6 @@ related:
         width: 530
         height: 710
         isCached: true
-  - title: "Ombori's new StoreAI for Grid leverages Microsoft Azure OpenAI Service"
-    excerpt: "On Wednesday May 24, Ombori will launch StoreAI, which uses Microsoft Azure OpenAI Service to extend the capabilities of its successful store digitalization platform, Grid. StoreAI will include a selection of AI tools designed specifically to meet the needs of physical retailers,"
-    publishedDateTime: 2023-05-22T13:33:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/22/9818460.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 49
   - title: "Microsoft's Azure AI Studio will let customers build their own 'Copilot'"
     excerpt: "Azure AI Studio will provide tools to businesses and developers to build a new capability within the Azure OpenAI Service to combine OpenAI chatbots with their own data to build a chat assistant or an app."
     publishedDateTime: 2023-05-24T11:43:00Z
@@ -1131,15 +1122,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 35
-  - title: "Microsoft says new AI shows signs of human reasoning"
-    excerpt: "A provocative paper from researchers at Microsoft claims AI shows the ability to understand the way people do. Critics say scientists are kidding themselves."
-    publishedDateTime: 2023-05-22T13:09:00Z
-    webUrl: "https://www.seattletimes.com/business/microsoft-says-new-ai-shows-signs-of-human-reasoning/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 34
   - title: "GEP USES MICROSOFT AZURE OPENAI SERVICE TO ENHANCE ITS PROCUREMENT & SUPPLY CHAIN SOFTWARE SOLUTIONS"
     excerpt: "GEP has integrated Microsoft Azure OpenAI Service into its flagship software that enables clients to identify potential risks and optimize procurement and supply chain operations on a global scale CLARK,"
     publishedDateTime: 2023-05-25T14:56:00Z

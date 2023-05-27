@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/05/2
 webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/05/23/in-inclusive-hiring-emotional-intelligence-wins-over-artificial-intelligence/"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial general intelligence: Understanding the future of AI"
-    excerpt: "Discover the future of AI. Learn about the potential of AGI development, its implications for society and the workforce, and key ethical considerations."
-    publishedDateTime: 2023-05-22T13:48:00Z
-    webUrl: "https://interestingengineering.com/innovation/artificial-general-intelligence-understanding-future-ai"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 41
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/14/image/jpeg/B2Q8idGkZUlSMYKAUGMZkDx4mJ533yB9NsRlACRK.jpg"
-        width: 1920
-        height: 1281
-        isCached: true
   - title: "Exclusive: Fifth Third CEO talks about the importance of AI, other tech in the growth of banking"
     excerpt: "The AI is optimizing for the lifetime value of the customer relationships. Retaining your customers and making sure they’re satisfied is the single biggest lever at our disposal,' said Fifth Third Bank CEO Tim Spence while in Louisville on Monday."
     publishedDateTime: 2023-05-23T10:57:00Z

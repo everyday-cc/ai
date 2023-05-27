@@ -2,6 +2,57 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-05-16-ai-biotechnology-show-its-time-to-think-past-bicycles-for-the-mind.md",
+      "title": "AI & Biotechnology Show It’s Time To Think Past Bicycles For The Mind",
+      "excerpt": "As we enter a new era of artificial intelligence and biotechnology, Jobs's framing of computer technology takes on new significance, but also shows its limitations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ebenbayer/2023/05/15/ai--biotechnology-show-its-time-to-think-past-bicycles-for-the-mind/",
+      "originalUrl": "https://www.forbes.com/sites/ebenbayer/2023/05/15/ai--biotechnology-show-its-time-to-think-past-bicycles-for-the-mind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6462d37eadb409b3cadd3ff9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ebenbayer/2023/05/15/ai--biotechnology-show-its-time-to-think-past-bicycles-for-the-mind/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ebenbayer/2023/05/15/ai--biotechnology-show-its-time-to-think-past-bicycles-for-the-mind/amp/",
+      "publishedDateTime": "2023-05-15T17:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-computer-vision-system-market-research-2023-2030.md",
       "title": "Computer Vision System Market Research | 2023-2030",
       "excerpt": "Research Reports has published a new report titled as \"Computer Vision System Market\" by End User (Automotive,",
@@ -1179,59 +1230,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-cloud-partnerships-and-multi-year-contracts-look-before-you-leap.md",
-      "title": "Cloud Partnerships And Multi-Year Contracts: Look Before You Leap",
-      "excerpt": "Before you consider entering into such a strategic partnership where the cloud provider will use your services if you agree to spend a certain amount with them per year, my recommendation is to look before you leap.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/15/cloud-partnerships-and-multi-year-contracts-look-before-you-leap/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/15/cloud-partnerships-and-multi-year-contracts-look-before-you-leap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646235c328bd309432c2ff1a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/15/cloud-partnerships-and-multi-year-contracts-look-before-you-leap/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/15/cloud-partnerships-and-multi-year-contracts-look-before-you-leap/amp/",
-      "publishedDateTime": "2023-05-15T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

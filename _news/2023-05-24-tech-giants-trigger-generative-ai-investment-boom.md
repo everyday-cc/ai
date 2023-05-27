@@ -221,15 +221,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
-  - title: "TCS announces generative AI pact with Google Cloud, new offering for enterprises"
-    excerpt: "Tata Consultancy Services TCS on Monday announced an expanded partnership with Google Cloud and the launch of its new offering -- TCS Generative AI which leve"
-    publishedDateTime: 2023-05-22T13:20:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273838959/tcs-announces-generative-ai-pact-with-google-cloud-new-offering-for-enterprises"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 14
   - title: "Intel's Broad, Open HPC+AI Portfolio Powers Performance, Generative AI for Science"
     excerpt: "View the full release here:  \"Intel is committed to serving the HPC and AI community with products that help customers and end-users make breakthrough discoveries faster,\" said Jeff McVeigh, Intel corporate vice president and general manager of the Super Compute Group."
     publishedDateTime: 2023-05-22T18:55:00Z

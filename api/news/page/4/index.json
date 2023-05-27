@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-24-i-would-never-use-ai-americans-detail-how-much-they-use-artificial-intelligence-in-their-daily-lives.md",
+      "title": "'I would never use AI': Americans detail how much they use artificial intelligence in their daily lives",
+      "excerpt": "Texas residents share how familiar they are with artificial intelligence on a scale from one to 10 and detailed how much they use it each day.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives",
+      "originalUrl": "https://www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1233101-dd3e-4fa5-b48e-450d89af5c6d/fa4dd4b4-d455-47e2-8a43-a3f5c7da6add/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives.amp",
+      "publishedDateTime": "2023-05-23T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant.md",
       "title": "Jugalbandi: Microsoft-backed Indian group aims to bridge language barrier with AI assistant",
       "excerpt": "An Indian research group backed by Microsoft and Infosys co-founder Nandan Nilekani is using generative AI, the technology behind chatbot sensation ChatGPT, for a mobile assistant that aims to make information on government schemes accessible in multiple languages.",
@@ -1022,7 +1073,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/blog/build-next-generation-ai-powered-applications-on-microsoft-azure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1099,
+      "heat": 1079,
       "tags": null,
       "images": [
         {
@@ -1195,57 +1246,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-05-23T07:09:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-ibm-cloud-releases-2023-ibm-cloud-for-financial-services-agreed-upon-procedures-aup-report.md",
-      "title": "IBM Cloud releases 2023 IBM Cloud for Financial Services Agreed-Upon Procedures (AUP) Report",
-      "excerpt": "IBM engages a third-party professional services firm to complete an independent review of IBM Cloud services and processes against the Agreed-Upon Procedures (AUP).\nThe post IBM Cloud releases 2023 IBM Cloud for Financial Services Agreed-Upon Procedures (AUP) Report appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-cloud-releases-2023-ibm-cloud-for-financial-services-agreed-upon-procedures-aup-report/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-cloud-releases-2023-ibm-cloud-for-financial-services-agreed-upon-procedures-aup-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/21_58_p_gorodenkoff-023.lr_.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T07:02:37-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

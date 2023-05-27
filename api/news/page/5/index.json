@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-23-ibm-cloud-releases-2023-ibm-cloud-for-financial-services-agreed-upon-procedures-aup-report.md",
+      "title": "IBM Cloud releases 2023 IBM Cloud for Financial Services Agreed-Upon Procedures (AUP) Report",
+      "excerpt": "IBM engages a third-party professional services firm to complete an independent review of IBM Cloud services and processes against the Agreed-Upon Procedures (AUP).\nThe post IBM Cloud releases 2023 IBM Cloud for Financial Services Agreed-Upon Procedures (AUP) Report appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-cloud-releases-2023-ibm-cloud-for-financial-services-agreed-upon-procedures-aup-report/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-cloud-releases-2023-ibm-cloud-for-financial-services-agreed-upon-procedures-aup-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/21_58_p_gorodenkoff-023.lr_.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T07:02:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-configure-an-ibm-cloud-code-engine-application-to-use-custom-domains.md",
       "title": "Configure an IBM Cloud Code Engine application to use custom domains",
       "excerpt": "How to expose a IBM Cloud Code Engine application via custom domains.\nThe post Configure an IBM Cloud Code Engine application to use custom domains appeared first on IBM Blog.\n",
@@ -409,7 +460,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/05/23/in-inclusive-hiring-emotional-intelligence-wins-over-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -966,7 +1017,7 @@
       "originalUrl": "https://www.zdnet.com/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1213,58 +1264,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-helping-more-people-stay-safe-with-flood-forecasting.md",
-      "title": "Helping more people stay safe with flood forecasting",
-      "excerpt": "AI-powered Flood Hub is expanding to nearly 80 countries worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/sustainability/flood-hub-ai-flood-forecasting-more-countries/",
-      "originalUrl": "https://blog.google/outreach-initiatives/sustainability/flood-hub-ai-flood-forecasting-more-countries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/_Google_Flood_Hub_-_Hero_image.width-1300.png",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/sustainability/flood-hub-ai-flood-forecasting-more-countries/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/sustainability/flood-hub-ai-flood-forecasting-more-countries/amp/",
-      "publishedDateTime": "2023-05-22T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

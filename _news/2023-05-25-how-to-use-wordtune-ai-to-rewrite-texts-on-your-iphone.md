@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-use-wordtune-ai-on-y
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-wordtune-ai-on-your-iphone-to-generate-content/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Here’s how iOS 17 might let you securely unlock an iPhone with just your voice"
-    excerpt: "Apple has the tech in place to offer secure iPhone unlocks via Siri voice commands - here's how iOS 17 could do it."
-    publishedDateTime: 2023-05-22T13:35:00Z
-    webUrl: "https://bgr.com/tech/heres-how-ios-17-might-let-you-securely-unlock-an-iphone-with-just-your-voice/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 0
 
 secured: "THzaXJU8edLvMiuoCb1wt+0CAMkFR0Ag6tIDDc1fNhm6B9V2tNt6QJeIpvlsMP4OZFRdwz9YnQOyIXnbjuNkYLz4g4+7XJtl0paVMSFTvRfQdn5/56BnfjRIw5n1V35SAJQ+prsdfVVtMwsjndaEUWOHTLTzkEDhz6YL6GjhcbTSLc19989xjiRMjMH/dXBR+KeB7TpKZUIiFtYyAZBRCe0atqPJGkvqsg7Vad/Pf1htQzXYKL1JOib7K6j3KAw8kl3uORptE+0C6WZfbCGobO65vYfNM7pD2VBaJ+CRQyj8GTRsUrhw8jf1yk1HBpgq7ndx9ZxgpqUtg+xLlIG/oZM1xRSHju/4VnSBlEdpCk8=;1OYh13Sg3MrtbKrMoSVuvQ=="
 ---

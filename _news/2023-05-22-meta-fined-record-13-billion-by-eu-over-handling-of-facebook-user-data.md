@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-fined-record-1-3-billi
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/"
 type: article
 quality: 73
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Meta makes it easier to apply deals in-feed for Facebook"
-    excerpt: "The new promotional ads format enables users to click an ad to automatically claim an offer and be notified before the deal ends."
-    publishedDateTime: 2023-05-22T14:51:00Z
-    webUrl: "https://www.marketingdive.com/news/meta-tests-promotional-ads-format-new-lead-generation-tools/650819/"
-    type: article
-    provider:
-      name: Marketing Dive
-      domain: marketingdive.com
-    quality: 4
 
 secured: "3acJ+5WTg+kZP+2vAFNx7bvhM21Zv3rfvoDsrmxSWe6WiN/etKS6xmohA4RVNrOWxmhClcrMRnoNoqJre32Bi2JUOC8FHDkKh8x9vQnH/riEvFagQwYrSTiawQHr0gcXFWqfd1IsBC+fImy3SCWOlQkFXf7kabFfOtii6uLLNPNFkKAXFJE/3t7YLBGnm20GBdtVjIHvjcb+zl9thmTX1Xg38URX8N16nMOoeG+zBCSAvi1jr/V6Oo9dKq7WA4KKVxAVZeY2dYuxleqXoab44KMXgje72QAKpjEdAoEfAs+duCWUyZprpDsLJAeKgnnoEbkZI9yD4L94IQ5mgyw2SqQmHw6oIp6i+/+IBZY9UJyRpO7+toj83UzJT1Ikv/4v36De5T1cJxZJirCCubRoxm4+1Ow/92ZaYMnh7w9VLSIGWUhL31jOOsbyN2nqbi+X41mGJ3yH0RsE1OpWZQLoplX0neG0pCuLUz9SIvTM5zLa2ad52zuUPCKmfvNU6kb7CAokHq2PBhbYPP+SRt9lsg==;6yrcLVgZapyyFOvubqq2Rw=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-27-biden-education-department-worried-ai-in-the-classroom-might-be-used-to-spy-on-teachers.md",
+      "title": "Biden Education Department worried AI in the classroom might be used to spy on teachers",
+      "excerpt": "The Department of Education released a report warning that artificial intelligence systems should not be used to surveil teachers in the classroom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/bidens-education-department-worried-ai-classroom-spy-teachers",
+      "originalUrl": "https://www.foxnews.com/politics/bidens-education-department-worried-ai-classroom-spy-teachers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5347284-ddac-4097-8065-387edd09b96b/63aabd01-2815-4a73-a1e9-c19dca9ac7a4/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-education-department-worried-ai-classroom-spy-teachers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-education-department-worried-ai-classroom-spy-teachers.amp",
+      "publishedDateTime": "2023-05-26T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-05-27-how-should-ceos-embrace-ai-or-will-ai-assume-ceo-roles.md",
       "title": "How Should CEO’s Embrace AI Or Will AI Assume CEO Roles?",
       "excerpt": "This article discusses the emergence of CEO AI robots/cobots as well as the leadership governance role of CEOs in leading AI investments in their organizations. Examples of companies using CEO robots are identified.",
@@ -897,7 +949,7 @@
       "originalUrl": "https://www.zdnet.com/article/how-to-use-wordtune-ai-on-your-iphone-to-generate-content/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1043,7 +1095,7 @@
       "originalUrl": "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellence-for-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 299,
+      "heat": 289,
       "tags": null,
       "images": [
         {
@@ -1190,58 +1242,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-disrupting-the-disruptive-disrupterswith-ai.md",
-      "title": "Disrupting The Disruptive Disrupters—With AI",
-      "excerpt": "Competitors large & small, legacy & new, are taking note and fueling the disruptive democratization of fintech. Even the U.S. Government wants to be a service provider",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/deandebiase/2023/05/25/disrupting-the-disruptive-disrupters-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/deandebiase/2023/05/25/disrupting-the-disruptive-disrupters-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646f719aafd87168d103a6f8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/deandebiase/2023/05/25/disrupting-the-disruptive-disrupters-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deandebiase/2023/05/25/disrupting-the-disruptive-disrupters-with-ai/amp/",
-      "publishedDateTime": "2023-05-25T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -59,15 +59,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Meta makes it easier to apply deals in-feed for Facebook"
-    excerpt: "The new promotional ads format enables users to click an ad to automatically claim an offer and be notified before the deal ends."
-    publishedDateTime: 2023-05-22T14:51:00Z
-    webUrl: "https://www.marketingdive.com/news/meta-tests-promotional-ads-format-new-lead-generation-tools/650819/"
-    type: article
-    provider:
-      name: Marketing Dive
-      domain: marketingdive.com
-    quality: 4
 
 secured: "tSdCbxvWbNiCB+ajuBVpN0Evr9gPQPRYTgZ183pnU3OAjbDaAJhenediH/1BrE45uisUBQt78p7/nzULeo8kTrLHTSldWWFSb5o8Sz5/c4CD0d4xOEYkZ8IJbkCCOJGcizA9bPRj3NQuaMnE2ZNYYEflxgAHOn9fmX0KT21T7s/uRQPcaZ4uYzzp5CV0iYfMlXGx6dHT1U/3OFExFNlmZsvhIsRw8yQcTMauS4UcZOzivgbj5St8iHe/CqbJzAUglczu8w85FHcof6UQwDd9P717buQ5l0GsFuM+2hOTF1zdAulGi/amDSAX52wMG1FIZjyGPps/u/gQ5LFkZ1Q7uPSMtK3KbtTLjSkOweOxx/NX8Y2t5Udcy4Gcw4X9BszXwkev+b4n/sFloyvzTI3r7/mt5ln6UxW3j7Bt6XFKbl0KToZ/OFUFysL8RL0EKgPpP9MYOkz0UgjrklCsFfN17IYCSTGRBxBaeowpWHgV6rzIU8wGFnYBM8RvD/jRJHj2HEc2H8XbJLoFq41WmpCBLw==;b6+IAcKX/hcINZKFWTAvuA=="
 ---

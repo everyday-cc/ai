@@ -24,17 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "AI Startup Updating Old Finance Systems Raises $35M"
-    excerpt: "FlowX helps TradFi institutions to launch digital services faster to keep competing with both legacy and neo banks."
-    publishedDateTime: 2023-05-22T14:43:00Z
-    webUrl: "https://tokenist.com/ai-startup-updating-old-finance-systems-raises-35m/"
-    type: article
-    provider:
-      name: The Tokenist
-      domain: tokenist.com
-    quality: 34
-
 secured: "wljGHL5D9pXXwdLmkNfW3Wr+EhsDvtY2ksF9Hc52UHGRBcq1VKh/j5r0+0Dw618R2IKGz7Cf8HwQbVYc0RlTjstZ+NdBNp4Cz5pGKq1xhWhJ2tNnVCJ8bEcCkTrvm4Jo3p7cO3OE6sF4Bf9UthMVQgHEAFBaXQVVLm59q3geMJTElasWnHSy9+f4kO7dqMvD3SC3AbK6zNSaUyvuHv+iTP0OpIyW6LHZ7kWMZt/x6fabAfIoeKKkVE9K+G+7LPSO21+JcPA5aksU3PDBibrgoA8LSlE3ZROmv2iBWPFHsTHb+USI4fmj2eRfFNFKol1BgwfV3QttGtE3aAYOLrXJo/RDquQ2gT8spwwLP+SwdHg=;w9lAJUs/7ysAPBt5ul6FNg=="
 ---
 
