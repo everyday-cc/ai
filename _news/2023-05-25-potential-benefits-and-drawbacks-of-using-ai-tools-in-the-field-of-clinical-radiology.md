@@ -67,15 +67,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "Looking into possible impact of Artificial Intelligence"
-    excerpt: "We talk about the potential of AI and threats it may pose with Aboitiz Data Innovation's David Hardoon. Artificial Intelligence has become a topic of controversy with even the so-called \"Godfather of AI\" Geoffrey Hinton expressing worries over how smart ..."
-    publishedDateTime: 2023-05-22T23:47:00Z
-    webUrl: "https://www.cnnphilippines.com/videos/2023/5/22/Looking-into-possible-impact-of-Artificial-Intelligence.html"
-    type: article
-    provider:
-      name: cnnphilippines
-      domain: cnnphilippines.com
-    quality: 17
 
 secured: "v3gTrRvlefnmyAxYAKWm3TBgJOyBwRk8hlEJNibTz75Q8AYtIJcrNGmwTzh2KzDlQWLSQiDsMnffBfaGOrgneS7ia2f+vgqmQKMy22G+3q58wdSQLLBWu5BjgbF/b+2zV5soH9G/31MC3xdGZKCKd8xWs2kuHUhgWE4rj9OSjI46vt2l3FPB6NlvTOAldqyzltwHFOIsritcM0PmtUy1+29y4/jDBotIEmdkPYG6rvdOKlvAOE2dh2am930QV56i99j6BNFT0eX7RbyjpB1oEjkRLa9VhktdMyNr2VfAku0ZhXyOVytXdO8s4nuLhdyyOBaFpDTUqd4qFG1UKq0qtC1k+O7LDeIuqpvU0Scwf/fhLFJ/bwHbfytbmBFe0W8egDz93mvmT4g2H/6aDaiViQ50V5yAneDxm/aV4aFNYxXaGxgDgctB+/4LEDpW8sZykuosfDrZL7W7/Kqj4M1s1JqzaKkGtyJNb3iWyL5UlC7Hzz4EQUmIAjMaLG7JtlSbtibC9u4V9s6QoRJ5pJAKnA==;yEcvR6/BULhsTs+kqoKwxQ=="
 ---

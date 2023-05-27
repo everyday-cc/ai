@@ -56,15 +56,13 @@ related:
     quality: 22
   - title: "Linda Burney’s urge to vote ‘yes’ in Voice referendum, 66 years after Indigenous Australians counted in population"
     excerpt: "On the anniversary of the 1967 referendum, the government has called for Australians to vote yes for an Indigenous Voice to parliament, amid opposition claims it could set back reconciliation."
-    publishedDateTime: 2023-05-27T07:12:00Z
-    webUrl: "https://www.news.com.au/national/politics/linda-burneys-urge-to-vote-yes-in-voice-referendum-66-years-after-indigenous-australians-counted-in-population/news-story/70ea7222ca95c1e3939aec2e9607fd1e"
-    ampWebUrl: "https://www.news.com.au/national/politics/linda-burneys-urge-to-vote-yes-in-voice-referendum-66-years-after-indigenous-australians-counted-in-population/news-story/70ea7222ca95c1e3939aec2e9607fd1e?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/linda-burneys-urge-to-vote-yes-in-voice-referendum-66-years-after-indigenous-australians-counted-in-population/news-story/70ea7222ca95c1e3939aec2e9607fd1e?amp"
+    publishedDateTime: 2023-05-27T16:42:00Z
+    webUrl: "https://www.theaustralian.com.au/news/latest-news/linda-burneys-urge-to-vote-yes-in-voice-referendum-66-years-after-indigenous-australians-counted-in-population/news-story/70ea7222ca95c1e3939aec2e9607fd1e"
     type: article
     provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 2
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
 
 secured: "55abmnUilRzuKSw7REEX2JH95RVzyxa4Q6FVyxJc7e5DwMMDC8/IbFfUeOvCzFXjKb616b54icPXTrOKHOji1jvufHKzgglN5tRlGJatRSFluHJXMQZJ6xcKrK9gLF9srxgjUMJDVBda9dl4pXQG0KRY6LfFFXv2ZLQ/XHaRnikX5XcF9zqUazHH531YS/ffz7Q+I61qNMSfIoBD1ZPIRcR7rBMzzI4ZkoaHtM30SvVet7mmpOGijr6gxEnJKFuRtIExs6qSV3Dqci88Alc27QEsSI3wxC82HtFdpj3Wzt5acIKZbThULjbDqiC65gfg8stPGbWAO6kGuVjtco3xuQoi2oFwO/nCmgZLNwTucks=;jMo8Z11VeE5vu/KfJin2Hg=="
 ---

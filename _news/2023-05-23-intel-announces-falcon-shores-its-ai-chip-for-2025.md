@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html?amp"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.telecomlead.com/wp-content/uploads/2017/10/Intel-technology-for-5G.jpg"
         width: 640
         height: 353
-        isCached: true
-  - title: "Intel gives details on future AI chips"
-    excerpt: "Intel has provided a handful of new details on a chip for artificial intelligence (AI) computing it plans to introduce in 2025 as it shifts strategy to compete against Nvidia and AMD. At a supercomputing conference in Germany, Intel said its forthcoming ..."
-    publishedDateTime: 2023-05-23T00:50:00Z
-    webUrl: "https://www.itnews.com.au/news/intel-gives-details-on-future-ai-chips-596132"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/20180727123309_crn-intel_Small.jpg"
-        width: 460
-        height: 285
         isCached: true
   - title: "Intel provides details on future AI chips"
     excerpt: "Intel has provided details on a chip for artificial intelligence (AI) computing it is planning to introduce in 2025 as it looks to compete directly with Nvidia and Advanced Micro Devices (AMD)."

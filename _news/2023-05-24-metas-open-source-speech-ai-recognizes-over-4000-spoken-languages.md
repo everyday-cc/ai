@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/metas-open-source-speech-ai-recognizes-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/metas-open-source-speech-ai-recognizes-over-4000-spoken-languages-161508200.html"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
         width: 790
         height: 320
+        isCached: true
+  - title: "Why learn languages in AI Age?"
+    excerpt: "AI might save students time, but it should not replace language learning. Instead, the technology could amplify learning, and it might also enhance our humanity. Language makes us unique from other animals."
+    publishedDateTime: 2023-05-27T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2023/05/28/2003800537"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
+        width: 1200
+        height: 1200
         isCached: true
   - title: "Meta’s Open-Sourced AI Model that Introduced Text-to-Speech In 1,100+ Languages"
     excerpt: "Meta released this week as open-source software an AI model, called Massively Multilingual Speech (MMS), that can recognize over 4,000 spoken languages and produces text-to-speech in over 1,100 languages."

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressi
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressing-the-ethical-use-of-ai-in-healthcare/"
 type: article
 quality: 81
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "Looking into possible impact of Artificial Intelligence"
-    excerpt: "We talk about the potential of AI and threats it may pose with Aboitiz Data Innovation's David Hardoon. Artificial Intelligence has become a topic of controversy with even the so-called \"Godfather of AI\" Geoffrey Hinton expressing worries over how smart ..."
-    publishedDateTime: 2023-05-22T23:47:00Z
-    webUrl: "https://www.cnnphilippines.com/videos/2023/5/22/Looking-into-possible-impact-of-Artificial-Intelligence.html"
-    type: article
-    provider:
-      name: cnnphilippines
-      domain: cnnphilippines.com
-    quality: 17
   - title: "Potential benefits and drawbacks of using AI tools in the field of clinical radiology"
     excerpt: "Since the launch of ChatGPT in November 2022, the use of large language models (LLMs) powered by artificial intelligence (AI) has taken the world by storm."
     publishedDateTime: 2023-05-24T18:06:00Z

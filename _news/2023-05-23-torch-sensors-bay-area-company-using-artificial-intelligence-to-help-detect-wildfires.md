@@ -9,7 +9,7 @@ ampWebUrl: "https://abc30.com/amp/torch-sensors-artificial-intelligence-wildfire
 cdnAmpWebUrl: "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/torch-sensors-artificial-intelligence-wildfire-early-detector-technology/13288960/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,36 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "12 Companies Racing to Create AI Deepfake Detectors"
+    excerpt: "Startups and tech giants alike are racing to create deepfake detection devices to try and prevent a surge in AI-generated disinformation in the age of ChatGPT."
+    publishedDateTime: 2023-05-27T17:31:00Z
+    webUrl: "https://gizmodo.com/chatgpt-ai-12-companies-deepfake-video-image-detectors-1850480813"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/414bba2390ff85756caf600794835a5b.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Deepfakes and a robot's warning: Why AI leaves more questions than answers"
+    excerpt: "The moment I really understood AI’s potential and its pitfalls came when I first saw ... but develop their learning so quickly there is a real fear they could one day start taking decisions on their own. Earlier this year, over a thousand tech leaders ..."
+    publishedDateTime: 2023-05-24T16:25:00Z
+    webUrl: "https://www.itv.com/news/2023-05-24/deepfakes-and-a-robots-warning-why-ai-leaves-more-questions-than-answers"
+    type: article
+    provider:
+      name: ITV
+      domain: itv.com
+    quality: 52
+    images:
+      - url: "https://images.ctfassets.net/pjshm78m9jt4/28slkGqKdDt94Hl6EtHH56/9a850c40df04c19657b3b94f5ce480bd/Younger.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "NbqO2cqJJin8Wyg7OEfH3tNBD+6Tj+QzZyd+kK52W4T6cFmmfBM/inwHvP0VBzKmIy82UlR2k54+1S1P3wGoHpZQYJyTf2eQhfyQvFIhYG0qOWB/ID95gSVXnXPy7WhqLzuXSc2HzmnpINMsRT65Z+HzyxRbMxALiT34Y5XAViASNd7wTBMX6TIvbIBmRPqv3XAASBCDkCIOJlpAhUco9QU2ZBdbqtNoTuZJi5EunWyZOt6BsTL65pN/nlkkkPVUzOpanEngTSIZuqaHvDdTCDwXK+gWwqNlXXPN9tVYzIkXLNCeaZabzmdOZFv7D20JaTQ5F4VJLUXbrMBmBNCQw1Vx0C5JKSFNN/x2jik9kHA=;tO3N+ykrSl70ZXlkax9Dow=="
 ---

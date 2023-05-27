@@ -89,6 +89,20 @@ related:
         width: 790
         height: 320
         isCached: true
+  - title: "Why learn languages in AI Age?"
+    excerpt: "AI might save students time, but it should not replace language learning. Instead, the technology could amplify learning, and it might also enhance our humanity. Language makes us unique from other animals."
+    publishedDateTime: 2023-05-27T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2023/05/28/2003800537"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Meta AI open-sources tools for self-supervised training of speech recognition models"
     excerpt: "AI models that can recognize human speech and respond to ... Its translations are often studied for text-based language translation research, and for many there are also publicly available audio recordings of people reading these texts."
     publishedDateTime: 2023-05-23T13:52:00Z

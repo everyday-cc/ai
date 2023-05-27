@@ -26,13 +26,13 @@ images:
 
 related:
   - title: "Red Hat OpenShift AI Accelerates Generative AI Adoption Across the Hybrid Cloud"
-    excerpt: "Red Hat, Inc. today announced new capabilities for Red Hat OpenShift AI. Building and expanding upon the proven capabilities of"
-    publishedDateTime: 2023-05-23T19:01:00Z
-    webUrl: "https://www.datanami.com/this-just-in/red-hat-openshift-ai-accelerates-generative-ai-adoption-across-the-hybrid-cloud/"
+    excerpt: "Red Hat, Inc., the world's leading provider of open source solutions announced new capabilities for Red Hat OpenShift AI. Building and expanding upon the proven capabilities of Red Hat OpenShift and Red Hat OpenShift Data Science,"
+    publishedDateTime: 2023-05-23T18:17:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/23/9819284.htm"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 15
 
 secured: "yRgCHJRnykvhhwrYYkWVG2Da3C0g8K+kbzrJf6LW5oKYqb7jcA5xr3tL3RI34cVKkQP4DJ53YyioWI5E4plglMKCDFTKljhBgz7TNfVFuNaXW874RsYpo7CbYHgSw/w0u4rzYbOJSR0vgO9sSEkCVM7OKa4wawcLGYQCkEFm0CsCuVc+KmdJB64dU31fOKD3W+m/ZhuSaebz3dlx32K3pkzF24Rv0KgsyUr2CSnx6317//tWYMk1X56mZ5BeYfBRCuMk/fv9rqSer47W90mIHVEffQ6CnOxqLyx8DjvV4T5CYOL81YyvtSk0eCqvA4AqdDKHLvuB151i1n3m6pIkGBRcpKJrSHtlK3MsNdsi9lEz0z601MlYurMHal7LcYLlffwhztI3DqjUXYGGue/MMrWI8vY99dsfdtF+/clLIPHfMHgkfR4H7mbUc/LTtn35gumcOH4LOk/n1shVGb1SCu6SuEb9LUHHTrrWdc6S+PgUwt4NhndxWll0p41dbfWhKiDKUzebpB/aeTavI7SNXA==;QSdIDo/uaXEInhFppaOTsA=="

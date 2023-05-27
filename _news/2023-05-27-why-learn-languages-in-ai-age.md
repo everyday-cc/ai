@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Open-sourcing Massively Multilingual Speech to preserve language diversity: Meta"
-excerpt: "The social media giant said that equipping machines with the ability to recognize and produce speech can make information accessible to many more people, including those who rely entirely on voice to access information."
-publishedDateTime: 2023-05-23T10:56:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/technology/open-sourcing-massively-multilingual-speech-to-preserve-language-diversity-meta/articleshow/100447425.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/technology/open-sourcing-massively-multilingual-speech-to-preserve-language-diversity-meta/articleshow/100447425.cms"
-ampWebUrl: "https://m.economictimes.com/tech/technology/open-sourcing-massively-multilingual-speech-to-preserve-language-diversity-meta/amp_articleshow/100447425.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/open-sourcing-massively-multilingual-speech-to-preserve-language-diversity-meta/amp_articleshow/100447425.cms"
+title: "Why learn languages in AI Age?"
+excerpt: "AI might save students time, but it should not replace language learning. Instead, the technology could amplify learning, and it might also enhance our humanity. Language makes us unique from other animals."
+publishedDateTime: 2023-05-27T16:00:00Z
+originalUrl: "https://www.taipeitimes.com/News/editorials/archives/2023/05/28/2003800537"
+webUrl: "https://www.taipeitimes.com/News/editorials/archives/2023/05/28/2003800537"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Indiatimes
-  domain: indiatimes.com
+  name: The Taipei Times
+  domain: taipeitimes.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
+    width: 1200
+    height: 1200
+    isCached: true
 
 related:
   - title: "Meta’s open-source speech AI recognizes over 4,000 spoken languages"
@@ -85,20 +89,6 @@ related:
         width: 790
         height: 320
         isCached: true
-  - title: "Why learn languages in AI Age?"
-    excerpt: "AI might save students time, but it should not replace language learning. Instead, the technology could amplify learning, and it might also enhance our humanity. Language makes us unique from other animals."
-    publishedDateTime: 2023-05-27T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2023/05/28/2003800537"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 39
-    images:
-      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Meta’s Open-Sourced AI Model that Introduced Text-to-Speech In 1,100+ Languages"
     excerpt: "Meta released this week as open-source software an AI model, called Massively Multilingual Speech (MMS), that can recognize over 4,000 spoken languages and produces text-to-speech in over 1,100 languages."
     publishedDateTime: 2023-05-24T01:05:00Z
@@ -131,6 +121,17 @@ related:
       name: techjuice.pk
       domain: techjuice.pk
     quality: 19
+  - title: "Open-sourcing Massively Multilingual Speech to preserve language diversity: Meta"
+    excerpt: "The social media giant said that equipping machines with the ability to recognize and produce speech can make information accessible to many more people, including those who rely entirely on voice to access information."
+    publishedDateTime: 2023-05-23T10:56:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/open-sourcing-massively-multilingual-speech-to-preserve-language-diversity-meta/articleshow/100447425.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/open-sourcing-massively-multilingual-speech-to-preserve-language-diversity-meta/amp_articleshow/100447425.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/open-sourcing-massively-multilingual-speech-to-preserve-language-diversity-meta/amp_articleshow/100447425.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
   - title: "Facebook’s open-source language model can recognise 4,000 languages and “speak” in 1,100"
     excerpt: "While the model was trained using religious recordings for non-widely-spoken languages, Meta says this hasn’t introduced any bias."
     publishedDateTime: 2023-05-23T15:15:00Z
@@ -143,6 +144,6 @@ related:
       domain: mybroadband.co.za
     quality: 15
 
-secured: "L4Ncw24r5hLfL6ox8sUdxaBS809skqPFhcPihlURK4REfBzSKfcEIZdAb+MzuNIlyif+HcPTVxsrE03y1cjXNm2uW+71pmXJq0xxIvHOIPLO/BO851NhBW2Q2jVJJawlK4G1zNkrgTBOuKt83VbyUvMUhA16AVLWh6bHu0bRpksYVulmHIS59vKI0fI72u+Bcc5iVyOuqzJwRLvq+gtoQishAh2Dbt2a2qoiQ06YHB2rSwMRuHthMUSerAmwGNWLKaL9tP9iXT9pOeJmZiwb/Y5I0wO2TfKdabOdGnRkfisUJDj6rmh3HuTQCqE5lNy7plm/M2+Mnh4fAOGmjiVYL65YQXewjV6NbKZlcyYiejXab8fl3eHkSAbm/Txrhas/H8VAt3Oa+YTDJEKEbcG23PAu96IY7eiLRVpahw17FQCWSJe44HNlVTvL31jm6d9nYxhgzERhG78wFMdomlIJQJZL3aHjvYww/aJ/uEWRP3AojX59GQCagr0lK77VRhiXovpmKCBB2TBtjP993jIAVQ==;97IjqXpzVb4ASjZqL5w1mg=="
+secured: "fLutHqrhd5oLSI60Uln5qxS5E4l9NH16ibV+PC3TJ5xMpKr8Oa8JTuyVoNNFEjucydokBnyLL/deDgpHgN3/nE43TT7oTP+VbpO9Z/JeuqSsM+RKBX7S195DNnJ0e5O/pDQ8Z0mx9uenQ92wv2gFLCFal3l8gweDPplC/Rjrg6wXKLkb8xT+LHSrg9DaH2k8QBozVwBuqNM/PDDtMrrL/49Umc5CL4mnZGYBn9sH143xiXyhEonsS+utP6jsYrtH2qHtOnZMUfLC5A7VrFQNs0TaA+mDs5URfBm2bx9f0ncub3tlMS0Tu183nIBbHtb4/HHC4/q3Rnr0Lkhy1qn0OWg9FJyLVYOXSQhUcvJ2z7A=;dWhFCyrCQCt5Ntl7UDV4Mg=="
 ---
 

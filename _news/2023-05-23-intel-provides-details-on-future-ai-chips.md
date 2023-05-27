@@ -57,20 +57,6 @@ related:
         width: 640
         height: 353
         isCached: true
-  - title: "Intel gives details on future AI chips"
-    excerpt: "Intel has provided a handful of new details on a chip for artificial intelligence (AI) computing it plans to introduce in 2025 as it shifts strategy to compete against Nvidia and AMD. At a supercomputing conference in Germany, Intel said its forthcoming ..."
-    publishedDateTime: 2023-05-23T00:50:00Z
-    webUrl: "https://www.itnews.com.au/news/intel-gives-details-on-future-ai-chips-596132"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/20180727123309_crn-intel_Small.jpg"
-        width: 460
-        height: 285
-        isCached: true
   - title: "Intel shares details on AI chips and shifts strategy"
     excerpt: "NEW YORK: Intel Corp has provided a handful of new details on a chip for artificial intelligence (AI) computing it plans to introduce in 2025 as it shifts strategy to compete against Nvidia Corp and Advanced Micro Devices Inc. At a supercomputing ..."
     publishedDateTime: 2023-05-23T21:14:00Z

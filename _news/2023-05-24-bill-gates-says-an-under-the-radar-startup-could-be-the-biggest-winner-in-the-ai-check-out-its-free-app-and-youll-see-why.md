@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/bill-gates-highlights-inflection-as-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bill-gates-highlights-inflection-as-potential-ai-winner-2023-5?amp"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bill Gates says the best AI agent will replace search and shopping websites"
-    excerpt: "Speaking at AI Forward 2023, an event in San Francisco hosted by Goldman Sachs Group Inc and SV Angel, Gates said it would disappoint him if Microsoft were not in the running, though there was a 50% chance the top player to emerge will be a startup."
-    publishedDateTime: 2023-05-23T00:13:00Z
-    webUrl: "https://www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites"
-    ampWebUrl: "https://www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 55
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/709c3d7f-faa0-45f0-a558-1dcc847fa6c5/ad4f37e6-cde5-4060-b3cf-7af0b25dedfb/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Bill Gates Says AI Could Mean the End of Search Engines"
     excerpt: "Bill Gates Says AI Could Mean , the End of Search Engines. Gates recently spoke at a San Francisco tech event called AI Forward, Insider reports. He said that artificial"
     publishedDateTime: 2023-05-23T23:30:00Z

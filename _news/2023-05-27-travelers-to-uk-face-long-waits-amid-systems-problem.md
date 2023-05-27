@@ -28,20 +28,18 @@ images:
 
 related:
   - title: "Travelers to UK face long waits amid systems problem affecting electronic gates"
-    excerpt: "The British government is working to fix a technical problem that caused electronic border gates at airports around the country to stop working, leading to hourslong waits for travelers entering the U."
-    publishedDateTime: 2023-05-27T14:39:00Z
-    webUrl: "https://abcnews.go.com/Travel/wireStory/travelers-uk-face-long-waits-amid-systems-problem-99649998"
-    ampWebUrl: "https://abcnews.go.com/amp/Travel/wireStory/travelers-uk-face-long-waits-amid-systems-problem-99649998"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Travel/wireStory/travelers-uk-face-long-waits-amid-systems-problem-99649998"
+    excerpt: "Travelers arriving in the U.K. faced hourslong delays Saturday after a technical problem shut electronic border gates at airports across the country, forcing everyone to have their passports checked manually on what was expected to be one of the busiest travel weekends of the year."
+    publishedDateTime: 2023-05-27T16:21:00Z
+    webUrl: "https://www.aol.com/news/travelers-uk-face-long-waits-081432716.html"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 55
+      name: AOL
+      domain: aol.com
+    quality: 35
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://s.yimg.com/ny/api/res/1.2/_HW7skYXdsrdz_fZQVn_ZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/3d759dd9404f136efca5be00f01b734d"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "LwMtB5gR80JUohfQkUJPWPPOPm5qehZ6qvingfXgpp7FNelmPeiFMoBDMwEBaeyQLi6XvlqYCOuV/iFTHmGUVO/eMy37mM58U3vSXs3QDMAc2VQsXxrtedd7cbT7N6F3g0iJV13MYjJIDb8Jk9GgFvxXJE8gDI/K7MaGtERcfiNCNwu7kAMjIjWycj+r5OeYgeXnQyxigQWI+oh5N+K5bXtkYYyw6G2omwHsk85eKgm0xOl1CboGAVtsfCl/GJxJPx1s9GygJkAlHkslAnIK8yKXn3wpsET7BJkkRTU+1d3zCYGFznBNpvDZ7C5LHKndZ0jnvxTtavsDfA7kV+Gt700YeY2Jts/zvrP5yxHIHv8=;mS0x1FuTK9Vl3K9iN2gDJg=="

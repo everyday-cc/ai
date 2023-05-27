@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Bill Gates says the best AI agent will replace search and shopping websites"
-    excerpt: "Speaking at AI Forward 2023, an event in San Francisco hosted by Goldman Sachs Group Inc and SV Angel, Gates said it would disappoint him if Microsoft were not in the running, though there was a 50% chance the top player to emerge will be a startup."
-    publishedDateTime: 2023-05-23T00:13:00Z
-    webUrl: "https://www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites"
-    ampWebUrl: "https://www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/bill-gates-says-best-ai-agent-will-replace-search-shopping-websites.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 55
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/709c3d7f-faa0-45f0-a558-1dcc847fa6c5/ad4f37e6-cde5-4060-b3cf-7af0b25dedfb/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "Y8FRTIrKzH48enEobSbFPZalCWIeM5L+Xy8xdJZb/7o8A8zvE8wPHt/FP/VghMbDsx6HIT7+SecJHLGZjtl5G5nI5IOxFqjfLgh9zcXPHiHPYu4cD3fOeReZKNseN26TosQU5UZRisO0gpRZmYpOMAsHBnwLSrWAHLXNyKYKALnxSL6CJ48suMXeXCtfF7syoskJiWlW8Qff1w2ip2uhotbat7lOv0rJm8pu90g+O6rd18+6qR+s3vtJ059zN2DhzfrnjajMxKK33btlDIsxoHDtNzmTIMiGO9qcAilF8K9bXZRy+in6pZQVM9gFbOqnXkeCt5/dRjJZG4HYHo7almgVhaPyXb/RYyfmKZq6+WQ=;mOPCii8wZudeeorFCorL6g=="
 ---
