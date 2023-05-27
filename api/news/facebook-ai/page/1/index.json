@@ -115,7 +115,7 @@
       "originalUrl": "https://www.wired.com/story/chatgpt-prompt-injection-attack-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 301,
+      "heat": 271,
       "tags": null,
       "images": [
         {
@@ -157,6 +157,58 @@
         "Facebook AI",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-facebook-owner-meta-slashes-business-teams-in-final-round-of-layoffs.md",
+      "title": "Facebook owner Meta slashes business teams in final round of layoffs",
+      "excerpt": "Meta Platforms Inc , owner of Facebook, slashed jobs across its business and operations units on Wednesday as it carried out its last batch of a three-part round of layoffs, part of a plan announced in March to eliminate 10,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/facebook-owner-meta-starts-final-round-layoffs-2023-05-24/",
+      "originalUrl": "https://www.reuters.com/technology/facebook-owner-meta-starts-final-round-layoffs-2023-05-24/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/d_PASdpr3QZXkbBeg_mjFMVR72c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SUJGYB3QTVJK3CHWEDCOPD4KUE.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     },
     {
@@ -1436,50 +1488,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-28-largest-ever-federal-university-grant-awarded-for-ai-and-robotics-research-as-part-of-14b-fund.md",
-      "title": "Largest-ever federal university grant awarded for AI and robotics research, as part of $1.4B fund",
-      "excerpt": "The Canadian government has unveiled which universities will be receiving a portion of $1.4 billion in research funding, with the single largest sum going to the University of Toronto for its work on artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/politics/largest-ever-federal-university-grant-awarded-for-ai-and-robotics-research-as-part-of-1-4b-fund-1.6375101",
-      "originalUrl": "https://www.ctvnews.ca/politics/largest-ever-federal-university-grant-awarded-for-ai-and-robotics-research-as-part-of-1-4b-fund-1.6375101",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/4/28/1_6375107.jpg",
-          "width": 1020,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/national/politics/2023/4/28/1_6375101.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/politics/2023/4/28/1_6375101.amp.html",
-      "publishedDateTime": "2023-04-28T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

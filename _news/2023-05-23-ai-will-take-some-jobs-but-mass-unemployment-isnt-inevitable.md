@@ -46,22 +46,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "AI will take some jobs, but mass unemployment isn’t inevitable"
-    excerpt: "With the right government policies and lifelong learning, we can learn to work alongside AI, says lecturer Erin Ling"
-    publishedDateTime: 2023-05-22T15:45:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/may/22/ai-jobs-policies"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/may/22/ai-jobs-policies"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/may/22/ai-jobs-policies"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/a2f6b29ab87e8d8c336c3fb3aac5b2b4436059c2/0_200_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=a404c4c2f6cfcaed7553a067819a3b44"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "EVMvURf8BfvWN3ZdIeizgSLS7gTMnsj0FSrz1okrdANMowp3KYijmnzSHqdGvShEbhxXreuAtCnv10KUk2RPPPHDhinuqP5q/WQfgJwSV+WhZxT0cCsDMgxq218LTRyR0koz3GHg24m8znOQF0qbfqIAWhZ/GEKowVF1TfbJ1+OpJ22tZRkw6Us04gsu0a+JfbhhwP6bPKW8uOyTnayQj8ZvMLDoMAuYIzgTCDVRDIEDByiqZvcD/cO9l/IkpsOT4Ag6v3KJd2jXMnW9keo0rUpqy8CH8ZHCn8McZLrp9SNtJ7hsetSo9BN2vMjP5flzTawZeJ0ikOs9dJSAus+3OpkSTHsPIHeB/Aqxtx2habMGDyOE96UzVyfGX1tHZw3oIU32ZYrspWJ3MT78/kBpVnQWU2tYxjl1PJMssucroE9f0quCdZ1JSX9TNut/LlVODY4gZVwL/pxt3k/1al7WS+/5hzoGVuc5lxjL1g4TiL2Wg52EQ/QYwUAFGzgq9v8tbiq59VnpyxorCIAPJcAPKg==;SEEZPQ6ieGDtz8WXGupkHA=="
 ---

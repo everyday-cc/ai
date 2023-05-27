@@ -193,17 +193,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 35
-  - title: "Intel's Broad, Open HPC+AI Portfolio Powers Performance, Generative AI for Science"
-    excerpt: "At ISC'23, Intel details competitive performance for diverse HPC and AI workloads, from memory-bound to generative AI, and introduces new science LLM initiative to democratize AI. NEWS HIGHLIGHTS Inte"
-    publishedDateTime: 2023-05-22T16:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/b32513031/intels-broad-open-hpc-ai-portfolio-powers-performance-generative-ai-for-science"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32513031"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32513031"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 33
   - title: "Tech Giants Trigger Generative AI Investment Boom"
     excerpt: "From Microsoft to Amazon, Google to Meta, everyone’s in on the artificial intelligence hype, and the money’s following suit."
     publishedDateTime: 2023-05-24T13:59:00Z

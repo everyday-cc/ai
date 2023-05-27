@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/artificial-intelligence/is-san-francisco-the
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/is-san-francisco-the-best-place-to-start-an-ai-company?_amp=true"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 840
     height: 438
     isCached: true
-
-related:
-  - title: "This Australian Company Can Be the Ideal Partner to Navigate the Complexities of Artificial Intelligence and Autonomy"
-    excerpt: "EarlyBirds, an Australian firm that has created an open innovation platform with services where early adopters, innovators, and subject matter experts (SMEs) can work together to"
-    publishedDateTime: 2023-05-22T17:04:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32513602/this-australian-company-can-be-the-ideal-partner-to-navigate-the-complexities-of-artificial-intell"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32513602"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32513602"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 36
-    images:
-      - url: "https://storage.pressadvantage.com/uploads/image/13184/autonomous_AI_vehical.jpg"
-        width: 480
-        height: 320
-        isCached: true
 
 secured: "oYzgjKIAvt9QUFpFGs3pFRja8Q3ojUZjpPI84w0EhppUB/n8YkOajJEjebKrZ0yjexMOtsIvROcgdnJ+pwgEp8pA6u+d7K4AZmGTob0QkEguxRuveUAGzLou20VY1H7BWojkpkGLZYx4NBvXbpdKssFQqBNZvUm9qOIJZnqCGmcDIGZjKObmtYVbiyLIMohzwCgxFpcsVnl1Kvezi3cASDGiH1SaakXhISWAYrs6ugXK75B6r3rQa9CjPCH3O0mWnkzVKwxl3OeWZ/casEsbtC3hqB671rUtqyOmK3y0zXzDXVrKmbRIXBRJV62OVlZxXrkfWk34OxAsbOPp3qDMlcVZ+qdMEsPiOD+ilVLDax0cm4vmiX4Ydx8juKv0VynqPZB2vYeeZgYGbxI/TpGVv/v8MkaFnT6ho46lVZZmrBirNY6CJzye7vIQX7iuVnQvs3V1d0c/Guq+8qRz/ya6omBwZduSfZ8LJ7KdElLM9jBfSFGxdJYMmGdWOSiEdIMDleIxcyyUcmspSBBj73rl8A==;mJGKkM/9lTqOLl3eEEEAVA=="
 ---

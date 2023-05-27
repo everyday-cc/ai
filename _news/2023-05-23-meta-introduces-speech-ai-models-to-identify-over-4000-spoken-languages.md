@@ -59,22 +59,6 @@ related:
         width: 752
         height: 423
         isCached: true
-  - title: "Meta’s new AI models can recognize and produce speech for more than 1,000 languages"
-    excerpt: "They could help lead to speech apps for many more languages than exist now."
-    publishedDateTime: 2023-05-22T16:42:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/22/1073471/metas-new-ai-models-can-recognize-and-produce-speech-for-more-than-1000-languages/"
-    ampWebUrl: "https://www.technologyreview.com/2023/05/22/1073471/metas-new-ai-models-can-recognize-and-produce-speech-for-more-than-1000-languages/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/22/1073471/metas-new-ai-models-can-recognize-and-produce-speech-for-more-than-1000-languages/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 53
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/chat-balloons1.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "Meta AI’s Massively Multilingual Speech Project Scales Speech Technology to 1000+ Languages"
     excerpt: "Speech technologies such as automatic speech recognition (ASR) and speech synthesis or text-to-speech (TTS) are playing an increasingly important role in many real-world applications. Contemporary speech technology systems however support only about one hundred languages at best — a tiny fraction of the over 7,"
     publishedDateTime: 2023-05-26T02:20:00Z
@@ -90,20 +74,6 @@ related:
       - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
         width: 790
         height: 320
-        isCached: true
-  - title: "Meta Platforms open-sources tools for self-supervised training of speech recognition models"
-    excerpt: "which aims to overcome the challenges of creating accurate and reliable speech recognition models. AI models that can recognize human speech and respond to it clearly have a lot of potential, especially for people who rely entirely on voice access to ..."
-    publishedDateTime: 2023-05-22T16:34:00Z
-    webUrl: "https://siliconangle.com/2023/05/22/meta-platforms-open-sources-tools-self-supervised-speech-recognition-model-training/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 44
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/image_2023-05-19_074935880.png"
-        width: 1062
-        height: 607
         isCached: true
   - title: "Meta’s Open-Sourced AI Model that Introduced Text-to-Speech In 1,100+ Languages"
     excerpt: "Meta released this week as open-source software an AI model, called Massively Multilingual Speech (MMS), that can recognize over 4,000 spoken languages and produces text-to-speech in over 1,100 languages."

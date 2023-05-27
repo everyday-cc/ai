@@ -96,22 +96,6 @@ related:
         isCached: true
   - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
     excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
-    publishedDateTime: 2023-05-22T16:30:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-ai-guide-to-most-talked-about-technology-2023-may"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-ai-guide-to-most-talked-about-technology-2023-may?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-guide-to-most-talked-about-technology-2023-may?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
-    images:
-      - url: "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg"
-        width: 470
-        height: 352
-        isCached: true
-  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
-    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
     publishedDateTime: 2023-05-24T18:30:00Z
     webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-guide-to-technology-2023-may"
     ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-guide-to-technology-2023-may?amp"
@@ -125,22 +109,6 @@ related:
       - url: "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg"
         width: 470
         height: 352
-        isCached: true
-  - title: "ChatGPT and Generative AI in Insurance: Reality, Hype, What's Next, and How to Prepare"
-    excerpt: "ChatGPT is the most talked-about technology of 2023 and has piqued the interest of insurance industry leaders."
-    publishedDateTime: 2023-05-22T17:00:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-ai-insurance-reality-whats-next-hype-how-to-prepare-2023-may"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-ai-insurance-reality-whats-next-hype-how-to-prepare-2023-may?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-insurance-reality-whats-next-hype-how-to-prepare-2023-may?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
-    images:
-      - url: "https://i.insider.com/6440364f3f6f690018de91ee?width=1200&format=jpeg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "5 Ways Marketers Can Become More Strategic With ChatGPT"
     excerpt: "But what do ChatGPT and other generative AI technologies such as Auto-GPT ... ChatGPT will help us expedite translation and expand our marketing content to more languages. We are also looking to use ChatGPT across such areas as chat, copy creation ..."
@@ -157,20 +125,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/60e30e5c4975bdf08feffd1f/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Regulators dust off rule books to tackle generative AI like ChatGPT"
-    excerpt: "As the race to develop more powerful artificial intelligence services like ChatGPT accelerates, some regulators are relying on old laws to control a technology that could upend the way societies and businesses operate."
-    publishedDateTime: 2023-05-22T15:55:00Z
-    webUrl: "https://www.reuters.com/technology/regulators-dust-off-rule-books-tackle-generative-ai-like-chatgpt-2023-05-22/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/A042xjpYEW1-fhIesQ2ZX_Mdp-M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FP3G4673DZI2BNIST6YDZCKYCY.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Google Search starts rolling out ChatGPT-style generative AI results"
     excerpt: "One example screenshot of a \"Bluetooth speaker\" search on desktop shows a big row of \"Sponsored\" shopping ads, then the generative AI results start to show up in a big blue box about halfway down the first page. The blue box summarizes a bunch of ..."

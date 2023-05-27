@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/26/the-future
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/26/the-future-of-data-security-staying-ahead-of-ai/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Open AI-backed start-up deploys robot as security guard"
+    excerpt: "The Norway-based robotic start-up deployed the AI-enabled robot as patrolling guard at two manufacturing sites, one in the USA and the other in Europe"
+    publishedDateTime: 2023-05-27T08:05:00Z
+    webUrl: "https://telanganatoday.com/open-ai-backed-start-up-deploys-robot-as-security-guard"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 71
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/05/robot-1.jpg"
+        width: 1280
+        height: 750
+        isCached: true
   - title: "AI in cybersecurity: Yesterday’s promise, today’s reality"
     excerpt: "What changed that’s made AI in 2023 substantially more impactful than before? First, consumer exposure to emerging AI innovations has elevated the subject, increasing acceptance. From songwriting and composing images in ways previously only imagined to writing college-level papers,"
     publishedDateTime: 2023-05-24T14:09:00Z

@@ -66,20 +66,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "How Researchers are Using Artificial Intelligence to Help Patients Understand Their Health"
-    excerpt: "CASMI visiting researcher Francisco Iacobelli and his team are designing an intelligent tutoring system for breast cancer survivors with low-literacy skills."
-    publishedDateTime: 2023-05-22T16:57:00Z
-    webUrl: "https://www.mccormick.northwestern.edu/news/articles/2023/05/how-researchers-are-using-artificial-intelligence-to-help-patients-understand-their-health/"
-    type: article
-    provider:
-      name: mccormick.northwestern.edu
-      domain: northwestern.edu
-    quality: 29
-    images:
-      - url: "https://www.mccormick.northwestern.edu/images/news/2023/05/how-researchers-are-using-artificial-intelligence-to-help-patients-understand-their-health-social.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Potential benefits and drawbacks of using AI tools in the field of clinical radiology"
     excerpt: "Since the launch of ChatGPT in November 2022, the use of large language models (LLMs) powered by artificial intelligence (AI) has taken the world by storm."
     publishedDateTime: 2023-05-24T18:06:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html?amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 154
+published: true
 
 provider:
   name: Android
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel gives details on future AI chips as it shifts strategy"
-    excerpt: "A smartphone with a displayed Intel logo is placed on a computer motherboard in this illustration taken March 6, 2023. REUTERS/Dado Ruvic/Illustration/"
-    publishedDateTime: 2023-05-22T16:02:00Z
-    webUrl: "https://www.reuters.com/news/picture/intel-gives-details-on-future-ai-chips-a-idUSKBN2XD1A3"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20230522&t=2&i=1633467317&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEJ4L0M3"
-        width: 810
-        height: 542
-        isCached: true
   - title: "Intel reveals new details about upcoming AI chip"
     excerpt: "Intel has revealed details about its upcoming chip for artificial intelligence (AI) computing during a recent conference in Germany. Intel, which is struggling to grow its business, aims to launch the chip, codenamed “Falcon Shores,” in 2025."
     publishedDateTime: 2023-05-23T02:26:00Z
@@ -99,6 +85,20 @@ related:
         width: 1080
         height: 723
         isCached: true
+  - title: "Planet Announces AI Partnerships at GEOINT 2023"
+    excerpt: "Rapid Automatic Image Categorization with Synthetaic Wisconsin-based AI startup Synthetaic joined the Planet Orbit partnership program in April 2023. Their signature product, RAIC (Rapid Automatic Image Categorization), automates the analysis of large ..."
+    publishedDateTime: 2023-05-22T20:15:00Z
+    webUrl: "https://spaceref.com/space-commerce/planet-announces-ai-partnerships-at-geoint-2023/"
+    type: article
+    provider:
+      name: SpaceRef
+      domain: spaceref.com
+    quality: 37
+    images:
+      - url: "https://media2.spaceref.com/wp-content/uploads/2022/08/18100814/Planet.png"
+        width: 1679
+        height: 1101
+        isCached: true
   - title: "Intel Promises Falcon Shores AI Data Center Chip in 2025"
     excerpt: "These rapid advances in AI don't just happen, though. It takes unfathomable computing power to train and run these models. Intel hopes to get a bigger piece of this business with its upcoming Falcon Shores chip, and it has just revealed the first details ..."
     publishedDateTime: 2023-05-22T20:45:00Z
@@ -117,15 +117,6 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 30
-  - title: "Intel Goes Head-to-Head With Nvidia, AMD Over AI Chips. Why It Could Be Too Slow."
-    excerpt: "Intel said it was competing in AI chips but it faces a delay in launching its next generation graphics-processing unit."
-    publishedDateTime: 2023-05-23T12:48:00Z
-    webUrl: "https://www.barrons.com/articles/intel-stock-ai-chip-nvidia-amd-gpu-bc36ab94"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 29
   - title: "Intel Announces an Integrated Neural AI Accelerator in Meteor Lake"
     excerpt: "Intel says it's working with Microsoft to make the development of AI features on the personal computer a reality. It will do this by offering a VPU, or Vision Processing Unit, as part of the SoC tile in Meteor Lake."
     publishedDateTime: 2023-05-24T18:00:00Z

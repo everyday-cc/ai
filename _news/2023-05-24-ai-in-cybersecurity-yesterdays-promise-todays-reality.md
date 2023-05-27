@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Open AI-backed start-up deploys robot as security guard"
+    excerpt: "The Norway-based robotic start-up deployed the AI-enabled robot as patrolling guard at two manufacturing sites, one in the USA and the other in Europe"
+    publishedDateTime: 2023-05-27T08:05:00Z
+    webUrl: "https://telanganatoday.com/open-ai-backed-start-up-deploys-robot-as-security-guard"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 71
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/05/robot-1.jpg"
+        width: 1280
+        height: 750
+        isCached: true
 
 secured: "VuH9gSBxseRHJdkU1QqexmzNohu+ESzKFFwlyO44D7ObGqj9f1WDV2T20co/YQuJo0xzzANxKIsqf/FaRGiMB5M+7b7AnKqrd8m7z/yZhRCPNS/XeQCuaR3owCt2nUvwAcUtit3jDVetrwnl9NSOYJiSeWMESq9OUykt2DDfKnnIEsZJ7rX/fcn2csMHpfD2vCsEhPoLwYCcKbHy8IpVilIxunWk+YmTSs+gJhlJ0S2zidFFPQcvF+1d1ir1nK+oMHf235HFh0uyVKWn11KU0+keJK/rKlcRtOLK7kwtWnPa2hQTUok3pwbOzA6sSD2v2rdRxshwc/4Y6oBS7FgjytBucERB+ZEDOxLP3+XL2RfWr/5TRtFmvK5efm3+i9uz20AN+z+i+RPm1g0ECJb05KTWidqC2j255/IrH+iB0zewjVS2j5a50pMbwO0twasDILUU0idZ82/08Tys8nKPTgvBLnJHPnqsXxKugEoz+CHvzI81Axx1hf2vbmSBLGtnEaNb0VmeMHNvTbNWWQyTgA==;9F9pWOJeSRvZns6f3/V0zA=="
 ---

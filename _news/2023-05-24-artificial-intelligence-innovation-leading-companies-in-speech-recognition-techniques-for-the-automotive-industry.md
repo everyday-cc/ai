@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Regulation Wheels Are In Motion And Congress Battles With Getting The Debt Ceiling Increased - Forbes AI Newsletter May 20th"
-    excerpt: "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend."
-    publishedDateTime: 2023-05-22T15:37:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/05/22/ai-regulation-wheels-are-in-motion-and-congress-battles-with-getting-the-debt-ceiling-increasedforbes-ai-newsletter-may-20th/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 19
 
 secured: "VZwyeMKnZE7OgxqaSFPdkzMKSJ9zg0iMbuJWo6B3P21z9heUoIOMeqh3WDpYBjsmBPkHGnnTnMaSKmDiuV3CWZXtojWa9S46dN4tDw1fAtJNPg2SSPxlMp6HbfyrfnSELx+wj+eZYU4GgjIRJ8LnMg4C+9KavUimKE52JznGu31l2SF8vT6Yjn8BPN/RtmPXLX6wuYf0QKFmrq7rBBk8u1PhOs3ZtIepffXF/el80gTvPZXqQ2i79BEm1tzQy7XkNOERIp+LNLnaCYeRbEEAuelgRDcsIZV8Lk1gR5T7CHdG6fZdFUdjIvofyQIpyw972lSvI0U8ZDNb6F8+vGRnXkbPOYwjTI4iqu8ALICQYAeg5bVfy5pUQ7mEHG/xe2NkVeFe+UHcIjIIMcKH6aylegFjNE7aeTyP8HXsghuN8fPLU9zr7/qYc3vA44wgYYk0f8tAf/4q0kSbNGod7k+r5XnkUb8Ka1MisVdlAbZTSbcFmDvY4gVCwkduFsyX8Z3JTthHhlRyILi93hxg4pXh7Q==;SWzWgI4CqsT6kLanlUZJQQ=="
 ---

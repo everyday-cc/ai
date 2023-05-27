@@ -362,7 +362,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-changing-automation-testing-in-quality-assurance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -868,7 +868,7 @@
       "originalUrl": "https://www.wired.com/story/chatgpt-prompt-injection-attack-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 301,
+      "heat": 271,
       "tags": null,
       "images": [
         {
@@ -974,7 +974,7 @@
       "originalUrl": "https://www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886",
       "featuredContent": null,
       "highlight": null,
-      "heat": 269,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -1103,6 +1103,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-25-facebook-owner-meta-slashes-business-teams-in-final-round-of-layoffs.md",
+      "title": "Facebook owner Meta slashes business teams in final round of layoffs",
+      "excerpt": "Meta Platforms Inc , owner of Facebook, slashed jobs across its business and operations units on Wednesday as it carried out its last batch of a three-part round of layoffs, part of a plan announced in March to eliminate 10,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/facebook-owner-meta-starts-final-round-layoffs-2023-05-24/",
+      "originalUrl": "https://www.reuters.com/technology/facebook-owner-meta-starts-final-round-layoffs-2023-05-24/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/d_PASdpr3QZXkbBeg_mjFMVR72c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SUJGYB3QTVJK3CHWEDCOPD4KUE.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T18:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-an-early-warning-system-for-novel-ai-risks.md",
       "title": "An early warning system for novel AI risks",
       "excerpt": "AI researchers already use a range of evaluation benchmarks to identify unwanted behaviours in AI systems, such as AI systems making misleading statements, biased decisions, or repeating copyrighted content. Now, as the AI community builds and deploys increasingly powerful AI, we must expand the evaluation",
@@ -1203,57 +1255,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-metas-ai-breakthrough-defying-user-tracking-policies-billions-await.md",
-      "title": "Meta's AI Breakthrough: Defying User Tracking Policies, Billions Await!",
-      "excerpt": "The Financial Times reported that Meta Platform (META) has been using AI to circumvent the impact of user tracking policies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jonmarkman/2023/05/24/metas-ai-breakthrough-defying-user-tracking-policies-billions-await/",
-      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2023/05/24/metas-ai-breakthrough-defying-user-tracking-policies-billions-await/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646e94a03689a199465f411d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2023/05/24/metas-ai-breakthrough-defying-user-tracking-policies-billions-await/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/05/24/metas-ai-breakthrough-defying-user-tracking-policies-billions-await/amp/",
-      "publishedDateTime": "2023-05-24T15:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

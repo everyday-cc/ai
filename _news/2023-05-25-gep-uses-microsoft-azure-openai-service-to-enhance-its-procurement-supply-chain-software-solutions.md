@@ -1,10 +1,10 @@
 ---
 category: news
 title: "GEP USES MICROSOFT AZURE OPENAI SERVICE TO ENHANCE ITS PROCUREMENT & SUPPLY CHAIN SOFTWARE SOLUTIONS"
-excerpt: "GEP has integrated Microsoft Azure OpenAI Service into its flagship software that enables clients to identify potential risks and optimize procurement and supply chain operations on a global scale CLARK,"
-publishedDateTime: 2023-05-25T14:56:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-gep-uses-microsoft-azure-openai-service-enhance-its-/2023/05/25/9821322.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-gep-uses-microsoft-azure-openai-service-enhance-its-/2023/05/25/9821322.htm"
+excerpt: "GEP has integrated Microsoft Azure OpenAI Service into its flagship software that enables clients to identify potential risks and optimize procurement and supply chain operations"
+publishedDateTime: 2023-05-25T15:05:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/05/25/9821322.htm"
+webUrl: "https://it.tmcnet.com/news/2023/05/25/9821322.htm"
 type: article
 quality: 34
 heat: -1
@@ -1053,15 +1053,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "AI Activists to Target Microsoft at Build 2023"
-    excerpt: "The activists from Ekō have published a full-page ad in The Seattle Times and a billboard outside of Microsoft Build 2023."
-    publishedDateTime: 2023-05-22T15:11:00Z
-    webUrl: "https://www.thurrott.com/microsoft/283436/ai-activists-to-target-microsoft-at-build-2023"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 36
   - title: "Microsoft launches generative AI tools for developers"
     excerpt: "Microsoft has launched new tools for developers to integrate generative artificial intelligence into their business software, as Big Tech races to commercialise the nascent technology."
     publishedDateTime: 2023-05-23T15:00:00Z
@@ -1154,6 +1145,17 @@ related:
       name: 9to5google
       domain: 9to5google.com
     quality: 30
+  - title: "Empowering the future generation: The advantages of educating students in the new age era of AI"
+    excerpt: "Artificial intelligence (AI) has become a revolutionary force in the quickly changing world of technology, altering various sectors and our daily lives. As AI develops, it is more crucial than ever to get the"
+    publishedDateTime: 2023-05-27T09:53:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 27
   - title: "Habu Announces Collaboration With Microsoft Azure to Deliver Zero-Trust Data Clean Room"
     excerpt: "Habu, a global innovator in data clean room software, today announced a collaboration with Microsoft Azure to integrate its Data Clean Room applicatio"
     publishedDateTime: 2023-05-23T19:05:00Z
@@ -1246,6 +1248,6 @@ related:
       domain: tmcnet.com
     quality: 6
 
-secured: "w1rcWf/kP5/UYB84hQmiqdSqPRwbKcK/oG/KzK4c43nu2nd1JOdGeARdKL8lKLfdgVzIHoQ1j8VnQrLbbzf94oIw/BnEOM77FfiQqcqbE57uyS/IdUZjgr0XBfIn1O3eEgdKx1XSkhBCUCI0AgwP7lYErFZ8rsuYoGYrpLGzYxlBFVtDFsSc/NQ+5JqGYxtfQfYNWT/KoxHOXoNbimT2P9L7oqgr9tHpG7GHWwZ0OYEB9ibGElRiS9YE/4vdlNBgQld9Rx0OJfzFTsMdi2WiyE31XdKMbA5hM5qauRHPaRTgHymEnYq37Uno5bnjOW59mBbT8qMfpBihYLf1t9oUJZZoZJI1SnhKX6ur5AWHjbI=;RlLCH1VCnnHWQ9LC2vrzaA=="
+secured: "Ckh4ui7SZheiZaLJtLjfQCRbDusZuRwgIIwVdtqskC2Qe42JcbN9NGPBJsdSZh0gNPA3wenGb/T7yChlke11FNwFn/oGM7O4nRkud0I71bScXGoiSo0YcLV3Xf/jEdAs/lJXdP9XAkksIULBOPlwthOZCcUGxjPDPDGeXUAFdE/RCeLZXLuzgNPCOSGBsIw/itPdo0tf6zDEq5H+Bbv2hJHSkWcWsnzOWw/E6ZiKqFwGwRhQhe+u+pOyX8GP5vebSnjNkB+rwB0Q+XDL2WT4rVJFQ5zfdCDTR6YHqLz5VS10lhvft/yYhObNa1OeXN156RNP3rsL8a3BUHpzHT7wUD/hBq8fpY/kW9nubCkT9jY=;tw0l7uZzH8YoDeBSATrz5w=="
 ---
 

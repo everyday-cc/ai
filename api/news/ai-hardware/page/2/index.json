@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-16-mediatek-looking-to-build-a-chipset-with-an-nvidia-gpu-next-year.md",
+      "title": "MediaTek looking to build a chipset with an Nvidia GPU next year",
+      "excerpt": "This chip will target Windows on ARM laptops, according to insiders. Besides graphics, Nvidia tech will also bring AI acceleration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gsmarena.com/report_claims_that_mediatek_will_build_a_chipset_with_an_nvidia_gpu_as_early_as_next_year-news-58575.php",
+      "originalUrl": "https://www.gsmarena.com/report_claims_that_mediatek_will_build_a_chipset_with_an_nvidia_gpu_as_early_as_next_year-news-58575.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fdn.gsmarena.com/imgroot/news/23/05/mediatek-nvidia-chipset/-952x498w6/gsmarena_000.jpg",
+          "width": 952,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GSM Arena",
+        "domain": "gsmarena.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-save-more-than-100-on-the-asus-dual-nvidia-geforce-rtx-3070-v2-oc-edition-gpu.md",
       "title": "Save More Than $100 On The ASUS Dual NVIDIA GeForce RTX 3070 V2 OC Edition GPU",
       "excerpt": "Picking up a new GPU just got cheaper, with the ASUS Dual NVIDIA GeForce RTX 3070 V2 OC Edition GPU now selling for just $469.99.",
@@ -1407,49 +1450,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-ai-and-the-hollywood-writers-strike.md",
-      "title": "AI and the Hollywood Writers’ Strike",
-      "excerpt": "The fear—or hope, depending on side of the desk you sit on—is that AI can replace writers and undermine their fees. One of the key sticking points in the Writers Guild of America (WGA) strike that began on May 1 at midnight,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/",
-      "originalUrl": "https://www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenation.com/wp-content/uploads/2023/05/1SAGShotCrop.jpg",
-          "width": 1440,
-          "height": 907,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/tnamp/",
-      "cdnAmpWebUrl": "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/tnamp/",
-      "publishedDateTime": "2023-05-08T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Nation",
-        "domain": "thenation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

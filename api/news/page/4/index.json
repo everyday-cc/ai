@@ -206,7 +206,7 @@
       "originalUrl": "https://www.engadget.com/metas-open-source-speech-ai-recognizes-over-4000-spoken-languages-161508200.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -246,57 +246,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-introducing-chat-the-worlds-first-generative-ai-etf.md",
-      "title": "Introducing CHAT, the World’s First Generative AI ETF",
-      "excerpt": "An old adage says to make hay while the sun is shining, and with interest in generative AI surging thanks to the likes of OpenAI’s ChatGPT and",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/introducing-chat-the-world-s-first-generative-ai-etf-1032346873",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/introducing-chat-the-world-s-first-generative-ai-etf-1032346873",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/05/image-677-1024x548.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 1024,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T19:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -804,6 +753,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-intel-announces-falcon-shores-its-ai-chip-for-2025.md",
+      "title": "Intel announces Falcon Shores, its AI chip for 2025",
+      "excerpt": "Intel has revealed early details about its next-gen artificial intelligence (AI) chip. Called Falcon Shores, this chip will reportedly boast 288GB of high bandwidth memory (HMB3) and support 8-bit floating-point computation. The company plans to introduce ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html",
+      "originalUrl": "https://www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2018/12/AH-Intel-logo-MWC-2018-2-New.jpg",
+          "width": 1918,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html?amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html?amp",
+      "publishedDateTime": "2023-05-23T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },

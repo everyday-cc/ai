@@ -7,7 +7,7 @@ originalUrl: "https://www.fmiblog.com/2023/05/23/motion-control-software-in-robo
 webUrl: "https://www.fmiblog.com/2023/05/23/motion-control-software-in-robotics-market-will-reach-a-value-of-us-37-86-billion-by-2029-at-a-cagr-of-19-6/"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Automotive Robotics Market Size to Grow USD 13.60 Billion by 2027 at a CAGR of 12.8% | Valuates Reports"
-    excerpt: "The global automotive robotics market size was valued at USD 6.63 Billion in 2019 and is projected to reach USD 13.60 Billion by 2027, registering a CAGR of 12.8% from 2020 to 2027. Major factors driving the growth of the Automotive robotics market: The automotive robot market is predicted to develop as a result of rising automation in the sector and improvements in accuracy,"
-    publishedDateTime: 2023-05-22T16:13:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/22/9818506.htm"
+  - title: "Call Center AI Market is Anticipated to Secure US$ 6 Billion by 2032 | Future Market Insights, Inc."
+    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
+    publishedDateTime: 2023-05-26T02:09:00Z
+    webUrl: "https://www.fmiblog.com/2023/05/26/call-center-ai-market-is-anticipated-to-secure-us-6-billion-by-2032-future-market-insights-inc/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 5
   - title: "The Market Value of Mobile Speech Recognition Software is Projected to Reach US$ 25.4 Billion by 2032 | Future Market Insights,Inc."
     excerpt: "The market for mobile speech recognition software is anticipated to grow to a value of US$ 3.3 billion in 2022 and to US$ 25.4 billion by 2032, with a CAGR of 22.5% during the five-year forecast period."
     publishedDateTime: 2023-05-25T15:34:00Z

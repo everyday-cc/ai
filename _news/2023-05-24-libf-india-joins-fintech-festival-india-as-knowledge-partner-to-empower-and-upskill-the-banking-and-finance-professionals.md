@@ -89,36 +89,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "LatAm Fintech Kiwi Raises $80 Million to Provide Underbanked Consumers with Credit Access in the U.S."
-    excerpt: "Kiwi, a fintech dedicated to helping consumers build credit history and improve financial literacy, today announced that it has closed a $75 million credit facility and $4.5 million pre-series A funding round."
-    publishedDateTime: 2023-05-22T16:14:00Z
-    webUrl: "https://financialit.net/news/fundraising-news/latam-fintech-kiwi-raises-80-million-provide-underbanked-consumers-credit"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 39
-    images:
-      - url: "https://financialit.net/sites/default/files/kiwi.png"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Financial Tech Platform Modak, Digital Identity Firm Yoti to Create Safe Fintech Platform for Teens"
-    excerpt: "Modak, a fintech company for teens and families in the US ... On top of it, Modak now “leverages Yoti’s AI facial age estimation technology to enhance platform security.” Yoti’s facial age estimation is “an inclusive and privacy-preserving ..."
-    publishedDateTime: 2023-05-22T16:23:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/05/207434-financial-tech-platform-modak-digital-identity-firm-yoti-to-create-safe-fintech-platform-for-teens/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/05/207434-financial-tech-platform-modak-digital-identity-firm-yoti-to-create-safe-fintech-platform-for-teens/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207434-financial-tech-platform-modak-digital-identity-firm-yoti-to-create-safe-fintech-platform-for-teens/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 30
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/08/School-Bus-Students-Education.jpg"
-        width: 1280
-        height: 1062
-        isCached: true
   - title: "Fintech chiefs debate the future of UK’s digital economy in Parliament"
     excerpt: "Fintech industry leaders warned of the risks posed by AI and ChatGPT last night as well as discussing the role automation and digital skills will play in the driving economic growth.   Speaking at the Parliament Street think tank’s Digital Economy summit on Monday night,"
     publishedDateTime: 2023-05-23T09:28:00Z
@@ -175,15 +145,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "LatAm fintech Kiwi raises $80 million"
-    excerpt: "Kiwi, a fintech dedicated to helping consumers build credit history and improve financial literacy, today announced that it has closed a $75 million credit facility and $4.5 million pre-series A funding round."
-    publishedDateTime: 2023-05-22T15:11:00Z
-    webUrl: "https://www.finextra.com/pressarticle/96927/latam-fintech-kiwi-raises-80-million"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
   - title: "What impact will AI have on FinTech in 2023?"
     excerpt: "Artificial intelligence (AI) is emerging as one of the key driving forces behind financial technology, as in many other industries recently. It’s a defining"
     publishedDateTime: 2023-05-22T17:20:00Z

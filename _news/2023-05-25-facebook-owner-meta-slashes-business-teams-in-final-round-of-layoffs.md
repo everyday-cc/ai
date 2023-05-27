@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/facebook-owner-meta-starts-fina
 webUrl: "https://www.reuters.com/technology/facebook-owner-meta-starts-final-round-layoffs-2023-05-24/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Reuters
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta fined record $1.3 billion by EU over handling of Facebook user data"
-    excerpt: "European Union data regulators have hit Meta with a $1.3 billion fine (about €1.2 billion) and ordered the company to cease transferring EU Facebook user data to the US by October. The fine exceeds Amazon's $886 million fine from the EU for data protection violations in 2021."
-    publishedDateTime: 2023-05-22T16:49:00Z
-    webUrl: "https://www.zdnet.com/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 73
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/51f5cfda5dbc9796f18e715d4ae239f452ffb46a/2023/05/22/84c5ed15-7609-42d0-bd54-9a07cb0e23c1/gettyimages-1244644879.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Facebook owner Meta starts final round of layoffs"
     excerpt: "Meta Platforms Inc started carrying out the last batch of a three-part round of layoffs on Wednesday, according to a source familiar with the matter, as part of a plan announced in March to eliminate 10,"
     publishedDateTime: 2023-05-24T15:16:00Z
@@ -59,6 +43,15 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Facebook Releases AI Model for Protein Sequence Processing"
+    excerpt: "A team of scientists at Facebook AI Research have released a deep-learning model for processing protein data from DNA sequences. The model contains approximately 700M parameters, was trained on ..."
+    publishedDateTime: 2023-05-25T00:00:00Z
+    webUrl: "https://www.infoq.com/news/2020/09/facebook-ai-genomics/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 19
 
 secured: "tSdCbxvWbNiCB+ajuBVpN0Evr9gPQPRYTgZ183pnU3OAjbDaAJhenediH/1BrE45uisUBQt78p7/nzULeo8kTrLHTSldWWFSb5o8Sz5/c4CD0d4xOEYkZ8IJbkCCOJGcizA9bPRj3NQuaMnE2ZNYYEflxgAHOn9fmX0KT21T7s/uRQPcaZ4uYzzp5CV0iYfMlXGx6dHT1U/3OFExFNlmZsvhIsRw8yQcTMauS4UcZOzivgbj5St8iHe/CqbJzAUglczu8w85FHcof6UQwDd9P717buQ5l0GsFuM+2hOTF1zdAulGi/amDSAX52wMG1FIZjyGPps/u/gQ5LFkZ1Q7uPSMtK3KbtTLjSkOweOxx/NX8Y2t5Udcy4Gcw4X9BszXwkev+b4n/sFloyvzTI3r7/mt5ln6UxW3j7Bt6XFKbl0KToZ/OFUFysL8RL0EKgPpP9MYOkz0UgjrklCsFfN17IYCSTGRBxBaeowpWHgV6rzIU8wGFnYBM8RvD/jRJHj2HEc2H8XbJLoFq41WmpCBLw==;b6+IAcKX/hcINZKFWTAvuA=="
 ---

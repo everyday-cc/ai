@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta fined record $1.3 billion by EU over handling of Facebook user data"
-    excerpt: "European Union data regulators have hit Meta with a $1.3 billion fine (about €1.2 billion) and ordered the company to cease transferring EU Facebook user data to the US by October. The fine exceeds Amazon's $886 million fine from the EU for data protection violations in 2021."
-    publishedDateTime: 2023-05-22T16:49:00Z
-    webUrl: "https://www.zdnet.com/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-fined-record-1-3-billion-by-eu-over-handling-of-facebook-user-data/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 73
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/51f5cfda5dbc9796f18e715d4ae239f452ffb46a/2023/05/22/84c5ed15-7609-42d0-bd54-9a07cb0e23c1/gettyimages-1244644879.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Facebook owner Meta slashes business teams in final round of layoffs"
     excerpt: "Meta Platforms Inc , owner of Facebook, slashed jobs across its business and operations units on Wednesday as it carried out its last batch of a three-part round of layoffs, part of a plan announced in March to eliminate 10,"
     publishedDateTime: 2023-05-25T01:43:00Z
@@ -55,6 +39,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Facebook Releases AI Model for Protein Sequence Processing"
+    excerpt: "A team of scientists at Facebook AI Research have released a deep-learning model for processing protein data from DNA sequences. The model contains approximately 700M parameters, was trained on ..."
+    publishedDateTime: 2023-05-25T00:00:00Z
+    webUrl: "https://www.infoq.com/news/2020/09/facebook-ai-genomics/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 19
 
 secured: "YGBBXZ20+qSqHe1OshwDgUPU7zFauaIRy5vJpcJkfR8NfDY+aPosUsw8hQ3pvWXAbvBMWsHnlIYjQzTBAiGk0lnRzENDZFDqo30JxJNbt1wvo33Iq4wgXHBGwXY+oz4FW0hao1roo7SB6INAiQuoPaPOsEeKcFudUQa7MHWVan/G+OWymo7mePx62GAFaWegPysqcf+0fpVgTiU/5cYTXHMCUAWyWMcaRa1h+ReqEJ4aEU9O2OxoQ+tPYBp1j3xatBxyaIvXTPTkK8+UTldcoD7d7kVKTHkee+w6BCFz/MABGlRI34TsjiDE4TQ/jZ8AoglQUOQqoWFG8CDlSrNItpz6imrvTf/Sx53ok+uwyI7yQMCtaZxLobHqax//asgQozUd4+fRLzHFa9RRMBIE9rqKBV2KCqU6uaK+ScNnlGKsABjaNjF1YXKwuKkBlOnZwy47n4TqNiGoTX+zqSBSBdH4E5fGWv5wGRICVZEpmfVOANTGt3f9gFj44r5iO3PQyvvOfpiJLD4dcU1LY1RXRg==;4PJBW485cgI4/j8MRR+dsA=="
 ---

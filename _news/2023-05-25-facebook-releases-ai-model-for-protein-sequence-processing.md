@@ -19,33 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Facebook Open-Sources RoBERTa: an Improved Natural Language Processing Model"
-    excerpt: "Facebook AI open-sourced a new deep-learning natural-language processing (NLP) model, robustly-optimized BERT approach (RoBERTa). Based on Google's BERT pre-training model, RoBERTa includes ..."
-    publishedDateTime: 2023-05-25T00:00:00Z
-    webUrl: "https://www.infoq.com/news/2019/09/facebook-roberta-nlp/"
+  - title: "Facebook owner Meta slashes business teams in final round of layoffs"
+    excerpt: "Meta Platforms Inc , owner of Facebook, slashed jobs across its business and operations units on Wednesday as it carried out its last batch of a three-part round of layoffs, part of a plan announced in March to eliminate 10,"
+    publishedDateTime: 2023-05-25T01:43:00Z
+    webUrl: "https://www.reuters.com/technology/facebook-owner-meta-starts-final-round-layoffs-2023-05-24/"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 36
+      name: Reuters
+      domain: reuters.com
+    quality: 54
     images:
-      - url: "https://res.infoq.com/news/2019/09/facebook-roberta-nlp/en/headerimage/facebook-roberta-nlp-1569497317620.jpg"
+      - url: "https://www.reuters.com/resizer/d_PASdpr3QZXkbBeg_mjFMVR72c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SUJGYB3QTVJK3CHWEDCOPD4KUE.jpg"
         width: 1200
-        height: 630
+        height: 628
         isCached: true
-  - title: "Google Open-Sources ALBERT Natural Language Model"
-    excerpt: "Google AI has open-sourced A Lite Bert (ALBERT), a deep-learning natural language processing (NLP) model, which uses 89% fewer parameters than the state-of-the-art BERT model, with little loss of ..."
-    publishedDateTime: 2023-05-25T00:00:00Z
-    webUrl: "https://www.infoq.com/news/2020/01/google-albert-ai-nlp/"
+  - title: "Facebook owner Meta starts final round of layoffs"
+    excerpt: "Meta Platforms Inc started carrying out the last batch of a three-part round of layoffs on Wednesday, according to a source familiar with the matter, as part of a plan announced in March to eliminate 10,"
+    publishedDateTime: 2023-05-24T15:16:00Z
+    webUrl: "https://www.aol.com/finance/facebook-owner-meta-starts-final-151607919.html"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
+      name: AOL
+      domain: aol.com
     quality: 24
     images:
-      - url: "https://res.infoq.com/news/2020/01/google-albert-ai-nlp/en/headerimage/google-albert-ai-nlp-1578318442851.jpg"
-        width: 3840
-        height: 2160
+      - url: "https://media.zenfs.com/en/reuters-finance.com/dd9b98d09bf65cdfc02f7a3bf7b36379"
+        width: 800
+        height: 534
         isCached: true
 
 secured: "fDro3vLCOUSjxyI6a4bVnVfDPtTSZpSH+bWaVIyxGqq79pWTtOiVThzPLaSqHNXnvp0i+X4mUO++LiYWTa4uhlKuTOJ0E5PwzlB9kHmGJHCXpDdafxe0I2nyHogMqSIK9uA9hG/71FwmkKbOvgHfbdtLFVuX/ogotfHl6CL0zlIm3Vqna18uFHHmxMNWZKW4Dw1qWocCHjhzls3I8a4hZIQ8R3lmovAm0+fadcYiJ6ZOpb5jOjN1G54YDVsaRc9uW5T7TrxnAaWZ1XCQFuYRr1y2Q98zAubehRUAg8vGVgy+7bQ06KdV08p40RLG78MG6kPP1ZuWWx8gWDPkxcse6MDGUYYDswrEa/1zgv1HO9c=;9uzr+WKr35xwGheGzzgPQw=="
