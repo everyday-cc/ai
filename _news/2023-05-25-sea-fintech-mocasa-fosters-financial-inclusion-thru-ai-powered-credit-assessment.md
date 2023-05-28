@@ -132,17 +132,6 @@ related:
       name: PA Consulting Group
       domain: paconsulting.com
     quality: 19
-  - title: "AI-First FinTech Platform Line expands to capture $10 Trillion in Annual Spending Power at the Bottom of the Pyramid"
-    excerpt: "Line Financial Creator of Americas #1 Smart Wallet AppTM, expands its AI capabilities to capture $10 Trillion in Annual Spending Power at the Bottom of the Pyramid in the US. SAN FRANCISCO, May 23, 20"
-    publishedDateTime: 2023-05-23T21:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32541435/ai-first-fintech-platform-line-expands-to-capture-10-trillion-in-annual-spending-power-at-the-bott"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32541435"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32541435"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 16
   - title: "LIBF India joins Fintech Festival India as Knowledge Partner to empower and upskill the banking and finance professionals"
     excerpt: "The London Institute of Banking & Finance India enters the Indian market with the aim to collaborate with corporates, universities and colleges to empower and upskill banking and finance professionals."
     publishedDateTime: 2023-05-24T22:38:00Z

@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Sequoia India’s Surge backs AI-powered video creation platform Gan.ai in $5.2M funding"
-    excerpt: "Gan.ai, an AI-powered video creation platform, raised a $5.2 million seed round led by Surge, Sequoia Capital's rapid scale-up program."
-    publishedDateTime: 2023-05-23T22:46:00Z
-    webUrl: "https://techcrunch.com/2023/05/23/sequoia-indias-surge-backs-ai-powered-video-creation-platform-gan-ai-in-5-2m-funding/"
-    ampWebUrl: "https://techcrunch.com/2023/05/23/sequoia-indias-surge-backs-ai-powered-video-creation-platform-gan-ai-in-5-2m-funding/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/sequoia-indias-surge-backs-ai-powered-video-creation-platform-gan-ai-in-5-2m-funding/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/Suvrat-Bhooshan-Founder-CEO-at-Gan.ai-.jpeg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The AI-driven evolution of banks"
     excerpt: "AI-driven transformation continues to accelerate. In this phase, banks are faced with new challenges and opportunities, which force them to pay attention to a plurality of aspects, all transversally crossed by a major cultural transformation."
     publishedDateTime: 2023-05-25T20:49:00Z

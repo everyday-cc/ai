@@ -22,22 +22,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "At Microsoft Build 2023, Azure Cosmos DB joins the AI toolchain"
-    excerpt: "Microsoft has introduced a spectrum of new tools to make it easier to customize and focus the output of GPT-based AI models. Cosmos DB plays an important role."
-    publishedDateTime: 2023-05-23T19:30:00Z
-    webUrl: "https://www.infoworld.com/article/3696980/at-microsoft-build-2023-azure-cosmos-db-joins-the-ai-toolchain.html"
-    ampWebUrl: "https://www.infoworld.com/article/3696980/at-microsoft-build-2023-azure-cosmos-db-joins-the-ai-toolchain.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696980/at-microsoft-build-2023-azure-cosmos-db-joins-the-ai-toolchain.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 119
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/07/10/artificial-intelligence-698122_1280-100698891-large-100932024-large.jpg?auto=webp&quality=85,70"
-        width: 1199
-        height: 848
-        isCached: true
   - title: "Microsoft aims to win the AI app race with three big advantages"
     excerpt: "At Build, Microsoft showed off its efforts to extend its AI-powered app ecosystem and plugin framework. But this is no easy race to win."
     publishedDateTime: 2023-05-24T16:12:00Z
@@ -102,6 +86,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft confirms 365 Copilot AI will be 'natively integrated' into Edge"
+    excerpt: "The same AI assistant that Microsoft is adding to Office will soon be natively integrated into the company's Edge browser as well.."
+    publishedDateTime: 2023-05-24T15:03:00Z
+    webUrl: "https://www.engadget.com/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html"
+    ampWebUrl: "https://www.engadget.com/amp/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 103
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/aYBYCJ1XAE0xA1D7qsxXAw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/093f0380-f8bf-11ed-9f92-f24cb882d1a4.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft CTO tells devs to ‘do legendary sh*t’ with AI at 2023 Build conference"
     excerpt: "To help developers build AI effectively, securely and responsibly, Microsoft has announced a large set of updates and new initiatives"
     publishedDateTime: 2023-05-23T23:03:00Z
@@ -117,36 +117,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/10/Microsoft-Logo-white-bkgd.jpg?w=1200&strip=all"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Elon Musk Wants to Challenge Google and Microsoft in AI"
-    excerpt: "Twitter boss tells WSJ London event the social-media company could be cash-flow positive starting in June."
-    publishedDateTime: 2023-05-23T23:01:00Z
-    webUrl: "https://www.wsj.com/articles/elon-musk-wants-to-see-an-ai-rival-to-google-microsoft-a299e27f"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-787338/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Microsoft Build 2023: From ChatGPT on Bing to Azure AI, check latest announcement"
-    excerpt: "Build 2023 also showcases previews of upcoming features such as Windows 11, Bing, and the revolutionary AI copilot. Here are top announcements that were made at the Build 2023 event"
-    publishedDateTime: 2023-05-23T19:11:00Z
-    webUrl: "https://www.livemint.com/technology/microsoft-build-2023-from-chatgpt-on-bing-to-azure-ai-check-all-latest-announcement-11684868488914.html"
-    ampWebUrl: "https://www.livemint.com/technology/microsoft-build-2023-from-chatgpt-on-bing-to-azure-ai-check-all-latest-announcement/amp-11684868488914.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/microsoft-build-2023-from-chatgpt-on-bing-to-azure-ai-check-all-latest-announcement/amp-11684868488914.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 84
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/05/23/600x338/Europe-Microsoft-Activision-Blizzard-0_1684868585645_1684868891847.jpg"
-        width: 600
-        height: 338
         isCached: true
   - title: "Elon Musk Wants to Challenge Google and Microsoft in AI"
     excerpt: "Elon Musk says it could involve different parts of his corporate empire, including Twitter, which he predicted could halt its losses as soon as next month."
@@ -314,20 +284,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Microsoft Build: Windows Terminal Preview 1.18, Azure Developer CLI, new Azure Cosmos DB features, and more."
-    excerpt: "Microsoft Build, kicked off yesterday, and the company has been making a lot of updates to its developer offerings."
-    publishedDateTime: 2023-05-24T20:22:00Z
-    webUrl: "https://sdtimes.com/microsoft/microsoft-build-windows-terminal-preview-1-18-azure-developer-cli-new-azure-cosmos-db-features-and-more/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 65
-    images:
-      - url: "https://sdtimes.com/images/sd-premium.png"
-        width: 628
-        height: 246
-        isCached: true
   - title: "Microsoft paused raises and cut bonuses to 'invest in the AI wave,' exec tells employees in internal message"
     excerpt: "In response to employee criticism about recent pay changes, the exec said one reason is \"wanting to invest in the AI wave,\" internal messages show."
     publishedDateTime: 2023-05-24T18:04:00Z
@@ -342,15 +298,22 @@ related:
         width: 682
         height: 341
         isCached: true
-  - title: "How Microsoft is building a platform for custom AI development"
-    excerpt: "With Azure OpenAI at the center, Microsoft has introduced a spectrum of new tools for building custom GPT-based LLMs. Here’s how Cosmos DB’s new vector search capabilities fit in."
-    publishedDateTime: 2023-05-23T19:37:00Z
-    webUrl: "https://www.infoworld.com/article/3696980/how-microsoft-is-building-a-platform-for-custom-ai-development.html"
+  - title: "Jugalbandi: Microsoft-backed Indian group aims to bridge language barrier with AI assistant"
+    excerpt: "An Indian research group backed by Microsoft and Infosys co-founder Nandan Nilekani is using generative AI, the technology behind chatbot sensation ChatGPT, for a mobile assistant that aims to make information on government schemes accessible in multiple languages."
+    publishedDateTime: 2023-05-24T05:56:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
     quality: 64
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/05/23/1600x900/USA-ARTIFICAL-INTELLIGENCE-BIDEN-0_1684866087281_1684866253190.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "3 AI Stocks That Could Beat Out Google and Microsoft"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Unless you’ve been off the grid for most of 2023, you know that"
     publishedDateTime: 2023-05-27T10:41:00Z
@@ -422,24 +385,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Here are all the AI updates Microsoft announced at its developers conference keynote"
-    excerpt: "Microsoft Build developer conference in Seattle on Tuesday, the company announced a series of AI updates to make both Bing and ChatGPT smarter, more intuitive and potentially more ubiquitous."
-    publishedDateTime: 2023-05-23T19:14:00Z
-    webUrl: "https://edition.cnn.com/2023/05/23/tech/microsoft-build-2023-keynote/"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 57
-  - title: "Nvidia teams up with Microsoft to accelerate AI efforts for enterprises and individuals"
-    excerpt: "Nvidia will integrate its AI Enterprise software into Azure Machine Learning and introduce deep learning frameworks on Windows 11 PCs."
-    publishedDateTime: 2023-05-23T19:48:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-teams-up-with-microsoft-to-accelerate-ai-efforts-for-enterprises-and-individuals/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 56
   - title: "Qualcomm, Microsoft Partner to Scale On-Device AI at Build"
     excerpt: "During Microsoft Build 2023, Qualcomm Technologies, Inc. displayed its latest innovations in on-device AI, including showing generative AI running on Snapdragon® compute platforms, as well as new pathways for developers building applications for Windows 11 PCs powered by Snapdragon."
     publishedDateTime: 2023-05-26T01:47:00Z
@@ -454,31 +399,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Microsoft Build 2023 brings expansions to the AI ecosystem, new plugin capabilities with Microsoft’s Copilot ecosystem, and more"
-    excerpt: "Microsoft’s Copilot ecosystem has been expanded to include Copilot in Power BI and Copilot in Power Pages in preview; Copilot in Microsoft Fabric, which is set to become available in preview soon; and Windows Copilot,"
-    publishedDateTime: 2023-05-23T20:22:00Z
-    webUrl: "https://sdtimes.com/microsoft/microsoft-build-2023-brings-expansions-to-the-ai-ecosystem-new-plugin-capabilities-with-microsofts-copilot-ecosystem-and-more/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 55
-    images:
-      - url: "https://sdtimes.com/wp-content/uploads/2023/05/image001.png"
-        width: 1467
-        height: 491
-        isCached: true
-  - title: "DataRobot Partners with Microsoft to Accelerate Value of AI"
-    excerpt: "Integrations with Microsoft's Azure OpenAI Service and Azure Machine Learning brings customers generative AI capabilities, and a more powerful and versatile platform for building, deploying and managi"
-    publishedDateTime: 2023-05-23T19:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/b32539014/datarobot-partners-with-microsoft-to-accelerate-value-of-ai"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32539014"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32539014"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
   - title: "Microsoft and NVIDIA join forces to enhance enterprise AI efforts"
     excerpt: "NVIDIA has an edge over its competitors when it comes to AI processors. The company wants its credentials to be more expansive than that. In the current AI space, what better way to enhance one's credibility than joining hands with Microsoft?"
     publishedDateTime: 2023-05-24T11:50:00Z
@@ -492,20 +412,6 @@ related:
       - url: "https://i.cdn.newsbytesapp.com/images/l39920230524154146.jpeg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Microsoft Announces AI-Powered Windows Copilot and Dev Home"
-    excerpt: "Microsoft is increasing its AI-powered features to Windows 11, with Windows Copilot and Dev Home highlighting the handful of new integration unveilings."
-    publishedDateTime: 2023-05-23T22:01:00Z
-    webUrl: "https://redmondmag.com/articles/2023/05/23/microsoft-announces-ai-powered-windows-copilot-and-dev-home.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/copilotRobot.jpg"
-        width: 647
-        height: 450
         isCached: true
   - title: "Microsoft outlines how to build AI apps and copilots at Build 2023"
     excerpt: "If you are interested in learning more about building artificial intelligence applications and copilots using Microsoft technologies. You will be"
@@ -534,20 +440,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2022/11/Nvidia-Microsoft-logos.jpg"
         width: 593
         height: 290
-        isCached: true
-  - title: "Top 10 Azure Cloud Announcements at Microsoft Build 2023 Dev Conference"
-    excerpt: "Here's a summary of what's new -- specifically the top 10 Azure products and services that reached general availability or will soon -- at the event."
-    publishedDateTime: 2023-05-24T20:50:00Z
-    webUrl: "https://virtualizationreview.com/articles/2023/05/24/azure-build.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 54
-    images:
-      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2017/0917vcrm_F1NewMicrosoft.jpg"
-        width: 647
-        height: 450
         isCached: true
   - title: "Microsoft calls for a new U.S. agency and licensing for AI"
     excerpt: "Smith compared AI to the printing press, elevators and food safety for ... His call for a new agency echoes proposals from OpenAI, the startup behind the wildly popular ChatGPT, which received a $10 billion investment from Microsoft."
@@ -590,20 +482,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "NVIDIA Collaborates With Microsoft to Accelerate Enterprise-Ready Generative AI"
-    excerpt: "NVIDIA today announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives. The integration will create a secure,"
-    publishedDateTime: 2023-05-23T19:18:00Z
-    webUrl: "https://insidebigdata.com/2023/05/23/nvidia-collaborates-with-microsoft-to-accelerate-enterprise-ready-generative-ai/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 50
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2021/01/SOSA_XAI_report_cover.png"
-        width: 530
-        height: 710
-        isCached: true
   - title: "Microsoft's Azure AI Studio will let customers build their own 'Copilot'"
     excerpt: "Azure AI Studio will provide tools to businesses and developers to build a new capability within the Azure OpenAI Service to combine OpenAI chatbots with their own data to build a chat assistant or an app."
     publishedDateTime: 2023-05-24T11:43:00Z
@@ -613,20 +491,6 @@ related:
       name: Gadgets Now
       domain: gadgetsnow.com
     quality: 48
-  - title: "Habu and Microsoft Azure Collaborate to Provide Zero-Trust Data Clean Room Solutions"
-    excerpt: "This collaboration also allows Habu’s innovative CleanCompute capabilities to run on Azure confidential computing, providing a secure environment to run any containerized code for machine learning model training and inference. \"Data cleanrooms running on ..."
-    publishedDateTime: 2023-05-24T15:33:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Habu-and-Microsoft-Azure-Collaborate-to-Provide-Zero-Trust-Data-Clean-Room-Solutions-158806.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 47
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "KPI Partners achieves Microsoft Azure Solutions Partner Designation for Data & AI"
     excerpt: "May 17, 2023 /PRNewswire/ -- KPI Partners, a global trusted strategic partner for Analytics and Digital Transformation solutions, announced today that it has achieved Microsoft Azure Solution Partner status in Data & AI. This recognition showcases the ..."
     publishedDateTime: 2023-05-25T18:37:00Z
@@ -636,15 +500,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 44
-  - title: "Microsoft Build 2023: From ChatGPT on Bing to Azure AI, check all latest announcement"
-    excerpt: "Build 2023 also showcases previews of upcoming features such as Windows 11, Bing, and the revolutionary AI copilot. Here are top announcements that were made at the Build 2023 event"
-    publishedDateTime: 2023-05-23T19:11:00Z
-    webUrl: "https://www.livemint.com/technology/microsoft-build-2023-from-chatgpt-on-bing-to-azure-ai-check-all-latest-announcement-11684868488914.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 42
   - title: "Microsoft Build 2023: Day 2 features sessions across AI copilot, Microsoft Azure, more"
     excerpt: "After an impactful opening, day 2 of the developer-focused event features sessions across AI copilot experience, building cloud-native systems, utilizing Microsoft Azure to its full potential and more."
     publishedDateTime: 2023-05-24T02:49:00Z
@@ -719,15 +574,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 34
-  - title: "Habu Announces Collaboration With Microsoft Azure to Deliver Zero-Trust Data Clean Room"
-    excerpt: "Habu, a global innovator in data clean room software, today announced a collaboration with Microsoft Azure to integrate its Data Clean Room applicatio"
-    publishedDateTime: 2023-05-23T19:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230523005491/en/Habu-Announces-Collaboration-With-Microsoft-Azure-to-Deliver-Zero-Trust-Data-Clean-Room"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 26
   - title: "Habu Announces Collaboration With Microsoft Azure to Deliver Zero-Trust Data Clean Room"
     excerpt: "Habu, a global innovator in data clean room software, has announced a collaboration with Microsoft Azure to integrate its"
     publishedDateTime: 2023-05-25T18:08:00Z

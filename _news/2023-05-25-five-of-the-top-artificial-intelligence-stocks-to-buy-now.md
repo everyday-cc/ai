@@ -26,34 +26,54 @@ images:
     isCached: true
 
 related:
-  - title: "3 Top AI Stocks That Pay Dividends -- and 1 Yields Over 5%"
-    excerpt: "Sure, IBM hasn't been at the center of attention with the recent surge in interest in AI. However, the company has been an AI pioneer for a long time. For example, its Watson technology made headlines in 2011 by beating Jeopardy! champions Brad Rutter and ..."
-    publishedDateTime: 2023-05-25T09:53:00Z
-    webUrl: "https://www.fool.com/investing/2023/05/25/3-top-ai-stocks-that-pay-dividends-1-yields-over-5/"
+  - title: "Will The Artificial Intelligence Mania Sink Stocks?"
+    excerpt: "Stock returns have been dominated by mega-cap technology and artificial intelligence-related stocks. AI has the opportunity to increase productivity across the economy, but even a revolutionary innovation that changes the world can be overdone."
+    publishedDateTime: 2023-05-28T13:53:00Z
+    webUrl: "https://www.forbes.com/sites/bill_stone/2023/05/28/will-the-artificial-intelligence-mania-sink-stocks/"
+    ampWebUrl: "https://www.forbes.com/sites/bill_stone/2023/05/28/will-the-artificial-intelligence-mania-sink-stocks/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bill_stone/2023/05/28/will-the-artificial-intelligence-mania-sink-stocks/amp/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://g.foolcdn.com/editorial/images/733282/dividends-blackboard-sketch-doodle.jpg"
-        width: 2059
-        height: 1456
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64735a8290ba01ceb8569955/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 799
         isCached: true
-  - title: "Five Of The Top Artificial Intelligence Stocks To Buy Now"
-    excerpt: "Five of the Top Artificial Intelligence Stocks to Buy Now The artificial intelligence story is fueling a massive rally in tech. But it's far from"
-    publishedDateTime: 2023-05-25T20:52:00Z
-    webUrl: "https://menafn.com/1106317476/Five-Of-The-Top-Artificial-Intelligence-Stocks-To-Buy-Now"
+  - title: "AI boom drives gains for chip stocks"
+    excerpt: "Demand from institutional investors appears to have underpinned the chipmakers’ recent rally. They are the “primary source” of demand for AI stocks, with only a “marginal increase” in retail investor interest, according to VandaTrack."
+    publishedDateTime: 2023-05-28T04:01:00Z
+    webUrl: "https://www.ft.com/content/fdd5303c-cdf4-434d-99b3-9ccdc84912d1"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 41
+      name: The Financial Times
+      domain: ft.com
+    quality: 54
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?667926"
-        width: 350
-        height: 250
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
+        width: 619
+        height: 376
         isCached: true
+  - title: "3 Pharma Stocks That Will Boom Thanks to AI"
+    excerpt: "This has lead investors to start looking for the top AI-driven pharma stocks. The intersection of data science and machine learning makes research and development fundamentally different than it was previously. Molecule discovery will be much faster than ..."
+    publishedDateTime: 2023-05-26T19:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-pharma-stocks-that-will-boom-thanks-to-ai-1032355093"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Stock market today: AI excitement yanks tech stocks higher on Wall Street"
+    excerpt: "A monster financial forecast from one of Wall Street’s most influential stocks is helping to yank the stock market higher even as worries worsen about political rancor in"
+    publishedDateTime: 2023-05-25T13:38:00Z
+    webUrl: "https://wgnradio.com/news/business-news/ap-stock-market-today-ai-excitement-yanks-tech-stocks-higher-on-wall-street/"
+    type: article
+    provider:
+      name: WGN Radio
+      domain: wgnradio.com
+    quality: 18
 
 secured: "VNdSaoBUx6wb6ImUs6aYDUXeU7XQYBxA24y7E7+oYGcaHfUj2KvdFvHglQniTCtWH5qEe7PDigAQErKY5O4NYtSUWUY3RvxwHrGn4dXLg9dmUVXPFMfXLZX6vBzv9U/4O3KNOptXrnxbwvJsscaKUS0uKTp97eASeCMs6M5enpoLAbd/kqhz2TjmTBmgY6p0KlVbCIRYHMWeeucG7NfpEmlWNc6QmpqaZD30xFyr+gqA86YLKvAcL0iTfWmBBXOWzbE5wGe0Q5j4QuTSSK7N2mh66fdcwtCIqysZg3+Ai11BHAdnOTl5O/jIw3Bym12yWuDsPEcDplsQK2Ez17QkJX8G/YngBnGhW10++v5gjn4=;HlEtmZzM2xJaxDo4AfmoHw=="
 ---

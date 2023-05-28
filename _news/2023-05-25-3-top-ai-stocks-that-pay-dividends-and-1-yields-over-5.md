@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/05/25/3-top-ai-stocks-that-pay
 webUrl: "https://www.fool.com/investing/2023/05/25/3-top-ai-stocks-that-pay-dividends-1-yields-over-5/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Five of the Top Artificial Intelligence Stocks to Buy Now"
-    excerpt: "The artificial intelligence story is fueling a massive rally in tech. But it’s far from over. In fact, as AI revolutionizes just about every industry out there, it could create a $1.81 trillion opportunity,"
-    publishedDateTime: 2023-05-25T15:20:00Z
-    webUrl: "https://www.baystreet.ca/articles/stockstowatch/87814/Five-of-the-Top-Artificial-Intelligence-Stocks-to-Buy-Now"
-    type: article
-    provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 41
-    images:
-      - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/Artificial_Intelligence.jpg"
-        width: 845
-        height: 396
-        isCached: true
   - title: "Five Of The Top Artificial Intelligence Stocks To Buy Now"
     excerpt: "Five of the Top Artificial Intelligence Stocks to Buy Now The artificial intelligence story is fueling a massive rally in tech. But it's far from"
     publishedDateTime: 2023-05-25T20:52:00Z

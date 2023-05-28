@@ -25,20 +25,54 @@ images:
     isCached: true
 
 related:
-  - title: "AI chip boom to drive TSMC revenue growth in 2023"
-    excerpt: "A boost in demand for AI chips may help TSMC sustain its annual revenue increase this year, according to market observers."
-    publishedDateTime: 2023-05-26T01:53:00Z
-    webUrl: "https://www.digitimes.com/news/a20230525PD215/ai-nvidia-tsmc.html"
+  - title: "Will The Artificial Intelligence Mania Sink Stocks?"
+    excerpt: "Stock returns have been dominated by mega-cap technology and artificial intelligence-related stocks. AI has the opportunity to increase productivity across the economy, but even a revolutionary innovation that changes the world can be overdone."
+    publishedDateTime: 2023-05-28T13:53:00Z
+    webUrl: "https://www.forbes.com/sites/bill_stone/2023/05/28/will-the-artificial-intelligence-mania-sink-stocks/"
+    ampWebUrl: "https://www.forbes.com/sites/bill_stone/2023/05/28/will-the-artificial-intelligence-mania-sink-stocks/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bill_stone/2023/05/28/will-the-artificial-intelligence-mania-sink-stocks/amp/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://img.digitimes.com/newsshow/20230525pd215_files/1_2b.jpg"
-        width: 1280
-        height: 853
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64735a8290ba01ceb8569955/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 799
         isCached: true
+  - title: "3 Pharma Stocks That Will Boom Thanks to AI"
+    excerpt: "This has lead investors to start looking for the top AI-driven pharma stocks. The intersection of data science and machine learning makes research and development fundamentally different than it was previously. Molecule discovery will be much faster than ..."
+    publishedDateTime: 2023-05-26T19:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-pharma-stocks-that-will-boom-thanks-to-ai-1032355093"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Five of the Top Artificial Intelligence Stocks to Buy Now"
+    excerpt: "The artificial intelligence story is fueling a massive rally in tech. But it’s far from over. In fact, as AI revolutionizes just about every industry out there, it could create a $1.81 trillion opportunity,"
+    publishedDateTime: 2023-05-25T15:20:00Z
+    webUrl: "https://www.baystreet.ca/articles/stockstowatch/87814/Five-of-the-Top-Artificial-Intelligence-Stocks-to-Buy-Now"
+    type: article
+    provider:
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 41
+    images:
+      - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/Artificial_Intelligence.jpg"
+        width: 845
+        height: 396
+        isCached: true
+  - title: "Stock market today: AI excitement yanks tech stocks higher on Wall Street"
+    excerpt: "A monster financial forecast from one of Wall Street’s most influential stocks is helping to yank the stock market higher even as worries worsen about political rancor in"
+    publishedDateTime: 2023-05-25T13:38:00Z
+    webUrl: "https://wgnradio.com/news/business-news/ap-stock-market-today-ai-excitement-yanks-tech-stocks-higher-on-wall-street/"
+    type: article
+    provider:
+      name: WGN Radio
+      domain: wgnradio.com
+    quality: 18
 
 secured: "oqt6GTFSIvwl/bKIedmi566FnIGSwqsMDhb+m5nHZLxhZFgLHfk5Cjhg70M36e2KlW1tXGnIBgKtvbfulpgMGFs9YIXSrw5LU1YFJFP4j7xgE/BGW1bagxgqiLRXKpDz/0uUyVJZvR+RCQzmkQ5DBwyBY8ry80vg0lqcUBdajWx88XJil7LG7C4riIAsZ0mOl3uYd+gn2QMHKv7wyGW3x5SjFqp+cZdkbbQWHHTLeIqF+XXBd62dpb5dSQrWyPbA7ldgZ+WS2vqOxfk7arOKSGSwZ65fQPf4XrHUXbZYX0c+Cr2WyVdgMeWUANjtImWYfjWq8rv94ptXRQHlElBL2nNk0etUQzSddMSx+tZPBM0JfLrPHo1bO0lHnnYy2bcgeX2N6Fj07bNBlIVWoZcnaxe1O7OWbiGDGMY3+Rg5i4MK30DJcEtKw40YRc9Ld/02kdDts9RC3wk3GK1to5Iwc70Q/mSwDlTTh+MdXBp1zFw90soxNF93CeUvG2e3yfWfnW7xoJOgPf69SAzsruutoA==;sG82dhk8n3Lk2Q3gLUcoXw=="
 ---

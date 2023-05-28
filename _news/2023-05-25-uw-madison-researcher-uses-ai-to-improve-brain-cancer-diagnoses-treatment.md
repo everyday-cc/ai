@@ -39,6 +39,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "RPI researchers awarded $3.3M to improve breast cancer treatment using AI"
+    excerpt: "Researchers from Rensselaer Polytechnic Institute (RPI) and Albany Medical College were awarded a $3.3 million grant over five years by the National Cancer Institute to use artificial"
+    publishedDateTime: 2023-05-28T15:19:00Z
+    webUrl: "https://www.courant.com/2023/05/28/rpi-researchers-awarded-3-3m-to-improve-breast-cancer-treatment-using-ai/"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 38
+    images:
+      - url: "https://www.courant.com/wp-content/uploads/2023/05/88e058ed2e1695b668f3df6c5a8301d1.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "w0XLVxrL7M2vDLaV46hW4XapCOguRpmutgc5kIDVq6BumalGbJ9/jP1jBfOzVGuxIr7Qf2LjH9ydyJYQ2nIcJExG3hVr+8C6m2OBBtjB/7iC1B/H0UvJiCqmKitoHafyg3OCV5HjyTBZ2be6xXs3NpEX9DChwPXv/OBxC7WL3gziZFvMlfeS3Ou23yoJQWiJ2goQH7O8NJrppY5PXCid/BnVIbHOOU8O+oxY4FPcwPXdNRnGzrBe2NMtFwiqyThMyZJpxhSQ1nrLIqhUh9YapCgUvKr37jwjzmwSP/9u+nVCv2TzoRDADh4Pj48fwUNZksd4qdlNNOp+J1L71sxllxIjTjurkpluqkOa7RapVQU=;8TDGjtsPGs/Rm65pCEFbXQ=="
 ---

@@ -2,6 +2,159 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-26-investing-in-ai-how-to-avoid-the-hype.md",
+      "title": "Investing in AI: how to avoid the hype",
+      "excerpt": "However, Porter also cautions that \"we are still very early on the use cases for AI.\" Dizzying valuations have made some investors wary of the technology hype cycle. This concept, popularised by consultancy Gartner,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/investing-ai-how-avoid-hype-2023-05-26/?ref=biztoc.com",
+      "originalUrl": "https://www.reuters.com/technology/investing-ai-how-avoid-hype-2023-05-26/?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/FSPUvb7djINBafN665jGm5-QZEM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6TIDCQXE4ZLHTGW3OELMLU5JIU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T21:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-hands-on-with-magic-compose-the-ai-generating-messages-tool.md",
+      "title": "Hands-on with Magic Compose, the AI-generating Messages tool",
+      "excerpt": "I've had some time to play with an early version of Magic Compose, which uses AI to create texts in Messages. It's fun, but unreliable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/magic-compose-experience-3329552/",
+      "originalUrl": "https://www.androidauthority.com/magic-compose-experience-3329552/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2022/04/Google-Messages-SMS-stock-photo-9.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds.md",
+      "title": "This new AI tool will summarize YouTube videos for you in seconds",
+      "excerpt": "The Eightify Chrome extension uses GPT technology to help you cut straight to the main points of any YouTube video.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/",
+      "originalUrl": "https://www.zdnet.com/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5fe72c33f5b53dda3b2c91139d511c53774776a6/2023/05/25/9ab9c403-1132-4194-ba59-922071931410/screenshot-2023-05-25-at-4-00-28-pm.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/",
+      "publishedDateTime": "2023-05-25T14:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-26-marvell-technology-shares-pop-14-on-ai-lifts-chip-makers.md",
       "title": "Marvell Technology Shares Pop 14% on AI Lifts Chip Makers",
       "excerpt": "\"While we are still in the early stages of our AI ramp, we are forecasting our AI revenue in fiscal ... Shares of Nvidia rocketed Thursday as the graphics-chip maker said the rise of language-generating tools such as OpenAI's ChatGPT and other artificial ...",
@@ -259,7 +412,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-powerful-question-answering-bot-with-amazon-sagemaker-amazon-opensearch-service-streamlit-and-langchain/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -311,7 +464,7 @@
       "originalUrl": "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellence-for-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 239,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -363,7 +516,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/get-insights-on-your-users-search-behavior-from-amazon-kendra-using-an-ml-powered-serverless-stack/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -380,6 +533,59 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-05-25T08:38:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-how-ocx-cognition-reduced-ml-model-development-time-from-weeks-to-days-and-model-update-time-from-days-to-real-time-using-aws-step-functions.md",
+      "title": "How OCX Cognition reduced ML model development time from weeks to days and model update time from days to real time using AWS Step Functions and Amazon SageMaker",
+      "excerpt": "This post was co-authored by Brian Curry (Founder and Head of Products at OCX Cognition) and Sandhya MN (Data Science Lead at InfoGain) OCX Cognition is a San Francisco Bay Area-based startup, offering a commercial B2B software as a service (SaaS) product called Spectrum AI. Spectrum AI is a predictive",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-ocx-cognition-reduced-ml-model-development-time-from-weeks-to-days-and-model-update-time-from-days-to-real-time-using-aws-step-functions-and-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-ocx-cognition-reduced-ml-model-development-time-from-weeks-to-days-and-model-update-time-from-days-to-real-time-using-aws-step-functions-and-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/19/ml-13311Image12.png",
+          "width": 999,
+          "height": 547,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T08:24:39-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -459,7 +665,7 @@
       "originalUrl": "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -966,7 +1172,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-changing-automation-testing-in-quality-assurance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1041,204 +1247,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-nvidias-stellar-results-show-that-theres-an-ai-goldrush-coming-chip-analyst-says.md",
-      "title": "Nvidia's stellar results show that there's an AI goldrush coming, chip analyst says",
-      "excerpt": "Nvidia said it expected its revenue to grow significantly as it upped its production of chips to meet soaring demand for AI.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-ai-chatgpt-stock-market-news-semiconductor-chips-artificial-intelligence-2023-5",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-ai-chatgpt-stock-market-news-semiconductor-chips-artificial-intelligence-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/646f24bb63b4c50018c39dc2?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/nvidia-ai-chatgpt-stock-market-news-semiconductor-chips-artificial-intelligence-2023-5?amp",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/nvidia-ai-chatgpt-stock-market-news-semiconductor-chips-artificial-intelligence-2023-5?amp",
-      "publishedDateTime": "2023-05-25T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-how-much-should-ai-concern-us-we-need-real-guidance-not-vague-alarmism.md",
-      "title": "How much should AI concern us? We need real guidance, not vague alarmism",
-      "excerpt": "Geoffrey Hinton, the visionary expert who was at the heart of so much innovation in artificial intelligence and machine learning, left Google. In an interview with CNN, he said, “I’m just a scientist who suddenly realized that these things are getting smarter than us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.westhawaiitoday.com/2023/05/25/opinion/how-much-should-ai-concern-us-we-need-real-guidance-not-vague-alarmism/",
-      "originalUrl": "https://www.westhawaiitoday.com/2023/05/25/opinion/how-much-should-ai-concern-us-we-need-real-guidance-not-vague-alarmism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.westhawaiitoday.com/wp-content/uploads/2023/05/web1_OPED-AI-CONCERNS-COMMENTARY-GET.jpg",
-          "width": 760,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.westhawaiitoday.com/2023/05/25/opinion/how-much-should-ai-concern-us-we-need-real-guidance-not-vague-alarmism/amp/",
-      "cdnAmpWebUrl": "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2023/05/25/opinion/how-much-should-ai-concern-us-we-need-real-guidance-not-vague-alarmism/amp/",
-      "publishedDateTime": "2023-05-25T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "West Hawaii Today",
-        "domain": "westhawaiitoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-3-top-ai-stocks-that-pay-dividends-and-1-yields-over-5.md",
-      "title": "3 Top AI Stocks That Pay Dividends -- and 1 Yields Over 5%",
-      "excerpt": "Sure, IBM hasn't been at the center of attention with the recent surge in interest in AI. However, the company has been an AI pioneer for a long time. For example, its Watson technology made headlines in 2011 by beating Jeopardy! champions Brad Rutter and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/05/25/3-top-ai-stocks-that-pay-dividends-1-yields-over-5/",
-      "originalUrl": "https://www.fool.com/investing/2023/05/25/3-top-ai-stocks-that-pay-dividends-1-yields-over-5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/733282/dividends-blackboard-sketch-doodle.jpg",
-          "width": 2059,
-          "height": 1456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-no-10-acknowledges-existential-risk-of-ai-for-first-time.md",
-      "title": "No 10 acknowledges ‘existential’ risk of AI for first time",
-      "excerpt": "Rishi Sunak meets heads of firms including DeepMind and OpenAI to discuss safety and regulation",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/may/25/no-10-acknowledges-existential-risk-ai-first-time-rishi-sunak",
-      "originalUrl": "https://www.theguardian.com/technology/2023/may/25/no-10-acknowledges-existential-risk-ai-first-time-rishi-sunak",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/2fa8fa8a5164182b74c4a55b6252326c9e3fc84d/0_61_4338_2603/master/4338.jpg?width=620&quality=85&auto=format&fit=max&s=5192644ccb25c678632a9c2e0a38a618",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/may/25/no-10-acknowledges-existential-risk-ai-first-time-rishi-sunak",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/25/no-10-acknowledges-existential-risk-ai-first-time-rishi-sunak",
-      "publishedDateTime": "2023-05-25T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

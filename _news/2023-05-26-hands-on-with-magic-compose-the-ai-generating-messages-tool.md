@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/magic-compose-experience-3329552/
 webUrl: "https://www.androidauthority.com/magic-compose-experience-3329552/"
 type: article
 quality: 67
-heat: 80
+heat: 77
 published: true
 
 provider:

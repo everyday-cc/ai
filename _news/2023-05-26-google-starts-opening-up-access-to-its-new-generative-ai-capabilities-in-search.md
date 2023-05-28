@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "ChatGPT: Most Americans Know About It, But Few Actually Use the AI Chatbot"
+    excerpt: "Though 58% of Americans are familiar with ChatGPT, just 14% have actually tried it, a Pew Research Center survey finds."
+    publishedDateTime: 2023-05-27T14:10:00Z
+    webUrl: "https://www.pcmag.com/news/few-americans-have-actually-tried-chatgpt-despite-most-knowing-about-it"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 45
   - title: "AI For Kids: A Chatbox Exploration"
     excerpt: "Parents and Educators! Help kids learn about AI (artificial intelligence) by experimenting directly with chatbots and machine learning technology."
     publishedDateTime: 2023-05-25T23:18:00Z

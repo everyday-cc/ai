@@ -39,6 +39,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "Dialogue-guided intelligent document processing with foundation models on Amazon SageMaker JumpStart"
+    excerpt: "Intelligent document processing (IDP) is a technology that automates the processing of high volumes of unstructured data, including text, images, and videos. IDP offers a significant improvement over manual methods and legacy optical character recognition (OCR) systems by addressing challenges such as"
+    publishedDateTime: 2023-05-24T16:50:32Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/dialogue-guided-intelligent-document-processing-with-foundation-models-on-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 74
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/16/ml14223-arch-1260x618.jpg"
+        width: 1260
+        height: 618
+        isCached: true
   - title: "Global Automated Machine Learning (AutoML) Market Report 2023: Increasing Need for Accurate Fraud Detection Drives Growth"
     excerpt: "Market by Offering (Solutions & Services), Application (Data Processing, Model Selection, Hyperparameter Optimization & Tuning, Feature Engineering, Model Ensembling), Vertical and Region - Global Forecast to 2028\" report has been added to  ResearchAndMarkets."
     publishedDateTime: 2023-05-24T22:39:00Z

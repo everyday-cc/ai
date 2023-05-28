@@ -146,15 +146,6 @@ related:
         width: 750
         height: 375
         isCached: true
-  - title: "How AI is being used for consumer education in banking"
-    excerpt: "Jennifer Fuller, US Financial Services Lead at PA Consulting, explains how fintech companies are using AI to improve consumer education and banking interactions."
-    publishedDateTime: 2023-05-23T19:38:00Z
-    webUrl: "https://www.paconsulting.com/newsroom/cmswire-how-ai-is-being-used-for-consumer-education-in-banking-23-may-2023"
-    type: article
-    provider:
-      name: PA Consulting Group
-      domain: paconsulting.com
-    quality: 51
   - title: "As generative AI accelerates coding for developers, the long-term impact is just beginning"
     excerpt: "They are happier because they can pursue the creative work they signed up for.” One of the areas where ChatGPT is beginning to have a transformational effect is in the gaming industry. Developers of video games have been major AI users for some time now,"
     publishedDateTime: 2023-05-26T15:50:00Z

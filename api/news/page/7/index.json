@@ -2,6 +2,203 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-22-intel-gives-details-on-future-ai-chips-as-it-shifts-strategy.md",
+      "title": "Intel gives details on future AI chips as it shifts strategy",
+      "excerpt": "A smartphone with a displayed Intel logo is placed on a computer motherboard in this illustration taken March 6, 2023. REUTERS/Dado Ruvic/Illustration/",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/news/picture/intel-gives-details-on-future-ai-chips-a-idUSKBN2XD1A3",
+      "originalUrl": "https://www.reuters.com/news/picture/intel-gives-details-on-future-ai-chips-a-idUSKBN2XD1A3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20230522&t=2&i=1633467317&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEJ4L0M3",
+          "width": 810,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-22T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-get-past-the-filter-artificial-intelligence-in-hiring.md",
+      "title": "Get Past The Filter: Artificial Intelligence In Hiring",
+      "excerpt": "Most mid- to large-sized companies use resume filters or ATS. With hundreds or thousands of resumes for a job, there is simply no way a human can go through them all.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/22/get-past-the-filter-artificial-intelligence-in-hiring/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/22/get-past-the-filter-artificial-intelligence-in-hiring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646b8fa307a03e9b39bb3718/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/22/get-past-the-filter-artificial-intelligence-in-hiring/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/22/get-past-the-filter-artificial-intelligence-in-hiring/amp/",
+      "publishedDateTime": "2023-05-22T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-helping-more-people-stay-safe-with-flood-forecasting.md",
+      "title": "Helping more people stay safe with flood forecasting",
+      "excerpt": "AI-powered Flood Hub is expanding to nearly 80 countries worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/sustainability/flood-hub-ai-flood-forecasting-more-countries/",
+      "originalUrl": "https://blog.google/outreach-initiatives/sustainability/flood-hub-ai-flood-forecasting-more-countries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/_Google_Flood_Hub_-_Hero_image.width-1300.png",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/sustainability/flood-hub-ai-flood-forecasting-more-countries/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/sustainability/flood-hub-ai-flood-forecasting-more-countries/amp/",
+      "publishedDateTime": "2023-05-22T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-how-to-use-vpn-with-a-vpc-hub-and-spoke-architecture.md",
+      "title": "How to use VPN with a VPC hub-and-spoke architecture",
+      "excerpt": "How to use a VPC VPN Gateway to connect an on-premises (enterprise) network to the IBM Cloud VPC in a transit hub-and-spoke architecture.\nThe post How to use VPN with a VPC hub-and-spoke architecture appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-use-vpn-with-a-vpc-hub-and-spoke-architecture/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-use-vpn-with-a-vpc-hub-and-spoke-architecture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-22T06:09:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-22-ibm-websphere-liberty-announces-instanton-for-cloud-native-java.md",
       "title": "IBM WebSphere Liberty announces InstantOn for cloud-native Java",
       "excerpt": "IBM is pleased to announce the availability of WebSphere Liberty InstantOn coming at the end of June 2023. \nThe post IBM WebSphere Liberty announces InstantOn for cloud-native Java appeared first on IBM Blog.\n",
@@ -978,211 +1175,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones.md",
-      "title": "Artificial Intelligence Will Eliminate Many Tasks, But Also Create New Higher-Level Ones",
-      "excerpt": "Managers need to prepare for 'the biggest shock' coming with AI — replacing entry and low-level white-collar activities with 'first-draft automation.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/20/artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/20/artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6468d7b4762b340e022e9948/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/20/artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/05/20/artificial-intelligence-will-eliminate-many-tasks-but-also-create-new-higher-level-ones/amp/",
-      "publishedDateTime": "2023-05-20T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-google-at-io-2023-weve-been-doing-ai-since-before-it-was-cool.md",
-      "title": "Google at I/O 2023: We’ve been doing AI since before it was cool",
-      "excerpt": "That Google I/O show sure was something, wasn't it? It was a rip-roaring two hours of nonstop AI talk without a break. Bard, Palm, Duet, Unicorn, Gecko, Gemini, Tailwind, Oter—there were so many cryptic AI code names thrown around it was hard to keep track of what Google was talking about.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/google/2023/05/google-at-i-o-2023-weve-been-doing-ai-since-before-it-was-cool/",
-      "originalUrl": "https://arstechnica.com/google/2023/05/google-at-i-o-2023-weve-been-doing-ai-since-before-it-was-cool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/chrome_dcahmkPPXG-800x450.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/google/2023/05/google-at-i-o-2023-weve-been-doing-ai-since-before-it-was-cool/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/google/2023/05/google-at-i-o-2023-weve-been-doing-ai-since-before-it-was-cool/amp/",
-      "publishedDateTime": "2023-05-20T04:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-china-is-using-ai-to-raise-the-dead-and-give-people-one-last-chance-to-say-goodbye.md",
-      "title": "China is using AI to raise the dead, and give people one last chance to say goodbye",
-      "excerpt": "They wanted to speak to their dead grandparents one last time, so they used artificial intelligence to rebuild loved ones they'd lost.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5",
-      "originalUrl": "https://www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6453d02bb4a8cd00187ac433?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-make-money-china-grieving-raise-dead-griefbot-2023-5?amp",
-      "publishedDateTime": "2023-05-20T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-we-put-googles-new-ai-writing-assistant-to-the-test.md",
-      "title": "We Put Google’s New AI Writing Assistant to the Test",
-      "excerpt": "I used Duet AI to send emails and plan my wedding. Its writing can be stuffy and stereotyping—but it’s a glimpse of the future of productivity apps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/googles-duet-ai-writing-assistant-review-test/",
-      "originalUrl": "https://www.wired.com/story/googles-duet-ai-writing-assistant-review-test/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6467cb66f2de86183cf5b3b2/191:100/w_1280,c_limit/Google-Duet-Hands-On-Business-Business-1468320082.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-20T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

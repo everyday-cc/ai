@@ -18,6 +18,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Anthony Albanese to deliver impassioned Voice plea for Lowitja O’Donoghue Oration"
+    excerpt: "Prime Minister Anthony Albanese has pleaded to Australians to “do one better” than the 1967 referendum when they head to the polls later this year but concedes a lot of work is needed."
+    publishedDateTime: 2023-05-28T12:30:00Z
+    webUrl: "https://www.news.com.au/finance/work/leaders/anthony-albanese-to-deliver-impassioned-voice-plea-for-lowitja-odonoghue-oration/news-story/d11268668cbe0b85336287c09cc789e0"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 0
+
 secured: "yHdX9eDpMGh8l8krIrJWIZ/13FKvUmieWfiYTRYHHZ7vL1fbgPRsrV26V4LWLgTXsgki32HY1uXzJlBhKIBxrVi9oJKcPRHkzqnHkFt5SLeOt6AEYC7tIEbG09pQ5myHOHKvXlArDJffcW+Oq7cbimupb112BP23yepIO3LVb4EGRPyf2N1mHlxUKa+GTvpM5e1M1ncptpejJWOUj+GqIqtbCbYLfU9aDEEhL/8UuyTJ3m8HzBU4boLjJ9tSJ25Nao8oAtv7ZJh553lZanzrVQdRGM3rBDR4HtHOFrkj2CaQxrjzFy3Igk1/j7eu4D9Qk5W0l0kuUrhMup6Av/IcPGwPGd1Z9AmXlQMK55sW6d6ZzzlGOYTwr9WMs/XhaqqZwqGa8S2Y3/b8N72LZ2Lx5jgWWgJPkqttbHDsU6yHcKTOyKcXsUb8GTWxy4MgVlidRzaviWF8KB7vWk6WA/jMcxfv3Nw+mXwYRnkuwXwyUqlyhkpdr/zjxk8giQ1UlSIBlhLzAbytj5dGplT7K8j+ig==;/tz4SAOyVryaP/Wm2ICg1g=="
 ---
 

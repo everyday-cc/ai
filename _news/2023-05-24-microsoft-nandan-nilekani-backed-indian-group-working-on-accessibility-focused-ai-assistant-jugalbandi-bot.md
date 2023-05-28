@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgets360.com/internet/news/microsoft-nandan-nilekani-b
 cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/microsoft-nandan-nilekani-backed-indian-research-group-generative-ai-assistant-jugalbandi-bot-4061839/amp"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Jugalbandi: Microsoft-backed Indian group aims to bridge language barrier with AI assistant"
-    excerpt: "An Indian research group backed by Microsoft and Infosys co-founder Nandan Nilekani is using generative AI, the technology behind chatbot sensation ChatGPT, for a mobile assistant that aims to make information on government schemes accessible in multiple languages."
-    publishedDateTime: 2023-05-24T05:56:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 64
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/05/23/1600x900/USA-ARTIFICAL-INTELLIGENCE-BIDEN-0_1684866087281_1684866253190.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Microsoft Launches 'Jugalbandi', An AI-Based Multilingual Chatbot For Rural India"
     excerpt: "Microsoft has unveiled a new generative AI-driven chatbot called 'Jugalbandi', designed for farmers and other users living in rural India."
     publishedDateTime: 2023-05-27T13:24:00Z

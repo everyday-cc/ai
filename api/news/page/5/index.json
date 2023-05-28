@@ -2,6 +2,202 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-24-ai-now-has-a-key-to-spotifys-songwriting-fortress.md",
+      "title": "AI Now Has a Key to Spotify’s Songwriting Fortress",
+      "excerpt": "Overnight on Wall Street is morning in Europe. Bloomberg Daybreak Europe, anchored live from London, tracks breaking news in Europe and around the world. Markets never sleep, and neither does Bloomberg News. Monitor your investments 24 hours a day, around the clock from around the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-05-24/ai-and-music-software-now-has-a-key-to-spotify-s-songwriting-fortress",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-05-24/ai-and-music-software-now-has-a-key-to-spotify-s-songwriting-fortress",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isRoo_2ChE8o/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search.md",
+      "title": "Google to experiment with ads that appear in its AI chatbot in Search",
+      "excerpt": "Google detailed its plans for running Search and Shopping ads inside its conversational AI experience in Search, via the recently announced Search Generative Experience (SGE) in the U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/",
+      "originalUrl": "https://techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/Screenshot-2023-05-23-at-12.41.47-PM.jpg?resize=1200,676",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/amp/",
+      "publishedDateTime": "2023-05-23T19:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-metas-open-source-speech-ai-recognizes-over-4000-spoken-languages.md",
+      "title": "Meta’s open-source speech AI recognizes over 4,000 spoken languages",
+      "excerpt": "Speech recognition and text-to-speech models typically require training on thousands of hours of audio with accompanying transcription labels. (Labels are crucial to machine learning, allowing the algorithms to correctly categorize and “understand” the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/metas-open-source-speech-ai-recognizes-over-4000-spoken-languages-161508200.html",
+      "originalUrl": "https://www.engadget.com/metas-open-source-speech-ai-recognizes-over-4000-spoken-languages-161508200.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/JzJ2abmPPF2r7uJtcJ315A--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/2083da10-f672-11ed-9fae-36f04f718dd4.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/metas-open-source-speech-ai-recognizes-over-4000-spoken-languages-161508200.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/metas-open-source-speech-ai-recognizes-over-4000-spoken-languages-161508200.html",
+      "publishedDateTime": "2023-05-23T19:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-fake-image-of-explosion-near-pentagon-stirs-concerns-over-artificial-intelligence.md",
+      "title": "Fake image of explosion near Pentagon stirs concerns over artificial intelligence",
+      "excerpt": "A fabricated photo seems to show a fiery explosion near the Pentagon and went viral. Now experts say it was likely created by AI, fueling concerns about the technology’s use on social media. NBC News’ Hallie Jackson has more details.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/fake-image-of-explosion-near-pentagon-stirs-concerns-over-artificial-intelligence-176166981779",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/fake-image-of-explosion-near-pentagon-stirs-concerns-over-artificial-intelligence-176166981779",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684882938191_nn_hja_ai_doctored_images_moves_markets_230523_1920x1080-5t44ym.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo176166981779",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo176166981779",
+      "publishedDateTime": "2023-05-23T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-adobe-brings-fireflys-generative-ai-to-photoshop.md",
       "title": "Adobe brings Firefly’s generative AI to Photoshop",
       "excerpt": "Photoshop is getting an infusion of generative AI today with the addition of a number of Firefly-based features that will allow users to extend images beyond their borders with Firefly-generated backgrounds,",
@@ -1056,195 +1252,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-ibm-cloud-releases-2023-ibm-cloud-for-financial-services-agreed-upon-procedures-aup-report.md",
-      "title": "IBM Cloud releases 2023 IBM Cloud for Financial Services Agreed-Upon Procedures (AUP) Report",
-      "excerpt": "IBM engages a third-party professional services firm to complete an independent review of IBM Cloud services and processes against the Agreed-Upon Procedures (AUP).\nThe post IBM Cloud releases 2023 IBM Cloud for Financial Services Agreed-Upon Procedures (AUP) Report appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-cloud-releases-2023-ibm-cloud-for-financial-services-agreed-upon-procedures-aup-report/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-cloud-releases-2023-ibm-cloud-for-financial-services-agreed-upon-procedures-aup-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/21_58_p_gorodenkoff-023.lr_.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T07:02:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-configure-an-ibm-cloud-code-engine-application-to-use-custom-domains.md",
-      "title": "Configure an IBM Cloud Code Engine application to use custom domains",
-      "excerpt": "How to expose a IBM Cloud Code Engine application via custom domains.\nThe post Configure an IBM Cloud Code Engine application to use custom domains appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/configure-an-ibm-cloud-code-engine-application-to-use-custom-domains/",
-      "originalUrl": "https://www.ibm.com/blog/configure-an-ibm-cloud-code-engine-application-to-use-custom-domains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T06:57:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-addressing-the-ethical-use-of-ai-in-healthcare.md",
-      "title": "Addressing The Ethical Use Of AI In Healthcare",
-      "excerpt": "The push to digitize and automate healthcare data management represents a giant leap forward in helping health plans deliver better outcomes for their members.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressing-the-ethical-use-of-ai-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/addressing-the-ethical-use-of-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-azure-cosmos-db-joins-the-ai-toolchain.md",
-      "title": "Azure Cosmos DB joins the AI toolchain",
-      "excerpt": "Microsoft has introduced a spectrum of new tools to make it easier to customize and focus the output of GPT-based AI models. Cosmos DB plays an important role.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3696980/azure-cosmos-db-joins-the-ai-toolchain.html",
-      "originalUrl": "https://www.infoworld.com/article/3696980/azure-cosmos-db-joins-the-ai-toolchain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/07/10/artificial-intelligence-698122_1280-100698891-large-100932024-large.jpg?auto=webp&quality=85,70",
-          "width": 1199,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3696980/azure-cosmos-db-joins-the-ai-toolchain.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696980/azure-cosmos-db-joins-the-ai-toolchain.amp.html",
-      "publishedDateTime": "2023-05-23T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

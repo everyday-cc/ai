@@ -47,6 +47,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-25-microsoft-build-windows-terminal-preview-118-azure-developer-cli-new-azure-cosmos-db-features-and-more.md",
+      "title": "Microsoft Build: Windows Terminal Preview 1.18, Azure Developer CLI, new Azure Cosmos DB features, and more.",
+      "excerpt": "Microsoft Build, kicked off yesterday, and the company has been making a lot of updates to its developer offerings.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/microsoft/microsoft-build-windows-terminal-preview-1-18-azure-developer-cli-new-azure-cosmos-db-features-and-more/",
+      "originalUrl": "https://sdtimes.com/microsoft/microsoft-build-windows-terminal-preview-1-18-azure-developer-cli-new-azure-cosmos-db-features-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/images/sd-premium.png",
+          "width": 628,
+          "height": 246,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T13:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-microsoft-unifies-data-management-analytics-and-ml-into-fabric.md",
       "title": "Microsoft Unifies Data Management, Analytics, and ML Into ‘Fabric’",
       "excerpt": "Microsoft yesterday unveiled Microsoft Fabric, a new offering that unites its suite of data management, analytic, and machine learning tools into a single",
@@ -88,6 +140,59 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages.md",
+      "title": "Microsoft aims to win the AI app race with three big advantages",
+      "excerpt": "At Build, Microsoft showed off its efforts to extend its AI-powered app ecosystem and plugin framework. But this is no easy race to win.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/",
+      "originalUrl": "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 546,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-75.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/",
+      "publishedDateTime": "2023-05-24T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Facebook AI"
       ]
     },
     {
@@ -140,58 +245,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge.md",
-      "title": "Microsoft confirms 365 Copilot AI will be 'natively integrated' into Edge",
-      "excerpt": "The same AI assistant that Microsoft is adding to Office will soon be natively integrated into the company's Edge browser as well..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html",
-      "originalUrl": "https://www.engadget.com/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/aYBYCJ1XAE0xA1D7qsxXAw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/093f0380-f8bf-11ed-9f92-f24cb882d1a4.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html",
-      "publishedDateTime": "2023-05-24T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -277,49 +330,6 @@
       "provider": {
         "name": "The New Indian Express",
         "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant.md",
-      "title": "Jugalbandi: Microsoft-backed Indian group aims to bridge language barrier with AI assistant",
-      "excerpt": "An Indian research group backed by Microsoft and Infosys co-founder Nandan Nilekani is using generative AI, the technology behind chatbot sensation ChatGPT, for a mobile assistant that aims to make information on government schemes accessible in multiple languages.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2023/05/23/1600x900/USA-ARTIFICAL-INTELLIGENCE-BIDEN-0_1684866087281_1684866253190.JPG",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html",
-      "publishedDateTime": "2023-05-23T22:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
         "images": null,
         "publishers": null,
         "authors": null

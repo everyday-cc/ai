@@ -138,15 +138,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How AI is being used for consumer education in banking"
-    excerpt: "Jennifer Fuller, US Financial Services Lead at PA Consulting, explains how fintech companies are using AI to improve consumer education and banking interactions."
-    publishedDateTime: 2023-05-23T19:38:00Z
-    webUrl: "https://www.paconsulting.com/newsroom/cmswire-how-ai-is-being-used-for-consumer-education-in-banking-23-may-2023"
-    type: article
-    provider:
-      name: PA Consulting Group
-      domain: paconsulting.com
-    quality: 51
   - title: "Google Now Testing Generative AI for Search"
     excerpt: "Google today announced that it is opening up access to Search Labs, allowing testers to try out its new Search Generative Experience. The"
     publishedDateTime: 2023-05-25T18:58:00Z

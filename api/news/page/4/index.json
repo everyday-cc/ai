@@ -2,6 +2,316 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-24-3-ways-openai-says-we-should-start-to-tackle-ai-regulation.md",
+      "title": "3 ways OpenAI says we should start to tackle AI regulation",
+      "excerpt": "The blog post outlines three different course of actions that could serve as a good starting point for AI regulation. First, the post calls for there to be some form of a coordinating entity that focuses on the safety and smooth integration of AI technologies into society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/3-ways-openai-says-we-should-start-to-tackle-ai-regulation/",
+      "originalUrl": "https://www.zdnet.com/article/3-ways-openai-says-we-should-start-to-tackle-ai-regulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 257,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/67ecfca84a21b3d7483897b2bfc190bd1cf398dc/2023/05/24/81259cee-41f2-463b-b6c2-85ec4d9c32ea/gettyimages-1453111695.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/3-ways-openai-says-we-should-start-to-tackle-ai-regulation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3-ways-openai-says-we-should-start-to-tackle-ai-regulation/",
+      "publishedDateTime": "2023-05-24T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages.md",
+      "title": "Microsoft aims to win the AI app race with three big advantages",
+      "excerpt": "At Build, Microsoft showed off its efforts to extend its AI-powered app ecosystem and plugin framework. But this is no easy race to win.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/",
+      "originalUrl": "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 546,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-75.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/",
+      "publishedDateTime": "2023-05-24T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-bill-gates-says-an-under-the-radar-startup-could-be-the-biggest-winner-in-the-ai-check-out-its-free-app-and-youll-see-why.md",
+      "title": "Bill Gates says an under-the-radar startup could be the biggest winner in the AI. Check out its free app, and you'll see why.",
+      "excerpt": "The Microsoft cofounder is betting that whichever company creates the most powerful personal agent will disrupt Amazon, Google Search, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/bill-gates-highlights-inflection-as-potential-ai-winner-2023-5",
+      "originalUrl": "https://www.businessinsider.com/bill-gates-highlights-inflection-as-potential-ai-winner-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63dd01090a08ae0018a69f2b?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/bill-gates-highlights-inflection-as-potential-ai-winner-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bill-gates-highlights-inflection-as-potential-ai-winner-2023-5?amp",
+      "publishedDateTime": "2023-05-24T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-google-to-work-with-europe-on-stop-gap-ai-pact.md",
+      "title": "Google to work with Europe on stop-gap ‘AI Pact’",
+      "excerpt": "Google's Sundar Pichai has agreed to work with lawmakers in Europe on what's being referred to as an \"AI Pact\" -- seemingly a stop-gap set of voluntary rules or standards while formal regulations are still being worked on.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/24/eu-google-ai-pact/",
+      "originalUrl": "https://techcrunch.com/2023/05/24/eu-google-ai-pact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1194872527.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/24/eu-google-ai-pact/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/24/eu-google-ai-pact/amp/",
+      "publishedDateTime": "2023-05-24T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-alteryx-reimagines-data-analytics-with-generative-ai.md",
+      "title": "Alteryx reimagines data analytics with generative AI",
+      "excerpt": "How will AiDIN generative AI help? AiDIN is an umbrella term for a series of generative AI innovations set to make their way into the Alteryx Cloud Platform portfolio of products.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/enterprise-analytics/alteryx-reimagines-data-analytics-with-generative-ai/",
+      "originalUrl": "https://venturebeat.com/enterprise-analytics/alteryx-reimagines-data-analytics-with-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/alteryx.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/enterprise-analytics/alteryx-reimagines-data-analytics-with-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/enterprise-analytics/alteryx-reimagines-data-analytics-with-generative-ai/amp/",
+      "publishedDateTime": "2023-05-24T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-artificial-intelligence-may-be-coming-for-your-job.md",
+      "title": "Artificial Intelligence May Be Coming For Your Job",
+      "excerpt": "You will need to adapt to the rapid changes brought on by AI by continually educating and upskilling yourself or asking your employer to enroll you in courses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646e2d720e47eac3ef5f411d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/amp/",
+      "publishedDateTime": "2023-05-24T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-opera-takes-on-edge-by-adding-its-own-browser-ai.md",
       "title": "Opera takes on Edge by adding its own browser AI",
       "excerpt": "Opera’s browser AI is currently available for both desktop and mobile. However, if you want to try it out, you’ll need to download the developer version of Opera One for deskt",
@@ -50,58 +360,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge.md",
-      "title": "Microsoft confirms 365 Copilot AI will be 'natively integrated' into Edge",
-      "excerpt": "The same AI assistant that Microsoft is adding to Office will soon be natively integrated into the company's Edge browser as well..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html",
-      "originalUrl": "https://www.engadget.com/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/aYBYCJ1XAE0xA1D7qsxXAw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/093f0380-f8bf-11ed-9f92-f24cb882d1a4.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html",
-      "publishedDateTime": "2023-05-24T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -947,49 +1205,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-24-jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant.md",
-      "title": "Jugalbandi: Microsoft-backed Indian group aims to bridge language barrier with AI assistant",
-      "excerpt": "An Indian research group backed by Microsoft and Infosys co-founder Nandan Nilekani is using generative AI, the technology behind chatbot sensation ChatGPT, for a mobile assistant that aims to make information on government schemes accessible in multiple languages.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2023/05/23/1600x900/USA-ARTIFICAL-INTELLIGENCE-BIDEN-0_1684866087281_1684866253190.JPG",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html",
-      "publishedDateTime": "2023-05-23T22:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-24-red-hat-extends-openshift-for-the-generative-ai-era.md",
       "title": "Red Hat extends OpenShift for the generative AI era",
       "excerpt": "IBM's Red Hat business unit announces the expansion of its AI capabilities with the new Red Hat OpenShift AI technology.",
@@ -1029,202 +1244,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-ai-now-has-a-key-to-spotifys-songwriting-fortress.md",
-      "title": "AI Now Has a Key to Spotify’s Songwriting Fortress",
-      "excerpt": "Overnight on Wall Street is morning in Europe. Bloomberg Daybreak Europe, anchored live from London, tracks breaking news in Europe and around the world. Markets never sleep, and neither does Bloomberg News. Monitor your investments 24 hours a day, around the clock from around the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-05-24/ai-and-music-software-now-has-a-key-to-spotify-s-songwriting-fortress",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-05-24/ai-and-music-software-now-has-a-key-to-spotify-s-songwriting-fortress",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isRoo_2ChE8o/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search.md",
-      "title": "Google to experiment with ads that appear in its AI chatbot in Search",
-      "excerpt": "Google detailed its plans for running Search and Shopping ads inside its conversational AI experience in Search, via the recently announced Search Generative Experience (SGE) in the U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/",
-      "originalUrl": "https://techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/Screenshot-2023-05-23-at-12.41.47-PM.jpg?resize=1200,676",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/google-to-experiment-with-ads-that-appear-in-its-ai-chatbot-in-search/amp/",
-      "publishedDateTime": "2023-05-23T19:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-metas-open-source-speech-ai-recognizes-over-4000-spoken-languages.md",
-      "title": "Meta’s open-source speech AI recognizes over 4,000 spoken languages",
-      "excerpt": "Speech recognition and text-to-speech models typically require training on thousands of hours of audio with accompanying transcription labels. (Labels are crucial to machine learning, allowing the algorithms to correctly categorize and “understand” the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/metas-open-source-speech-ai-recognizes-over-4000-spoken-languages-161508200.html",
-      "originalUrl": "https://www.engadget.com/metas-open-source-speech-ai-recognizes-over-4000-spoken-languages-161508200.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/JzJ2abmPPF2r7uJtcJ315A--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/2083da10-f672-11ed-9fae-36f04f718dd4.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/metas-open-source-speech-ai-recognizes-over-4000-spoken-languages-161508200.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/metas-open-source-speech-ai-recognizes-over-4000-spoken-languages-161508200.html",
-      "publishedDateTime": "2023-05-23T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-fake-image-of-explosion-near-pentagon-stirs-concerns-over-artificial-intelligence.md",
-      "title": "Fake image of explosion near Pentagon stirs concerns over artificial intelligence",
-      "excerpt": "A fabricated photo seems to show a fiery explosion near the Pentagon and went viral. Now experts say it was likely created by AI, fueling concerns about the technology’s use on social media. NBC News’ Hallie Jackson has more details.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/fake-image-of-explosion-near-pentagon-stirs-concerns-over-artificial-intelligence-176166981779",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/fake-image-of-explosion-near-pentagon-stirs-concerns-over-artificial-intelligence-176166981779",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684882938191_nn_hja_ai_doctored_images_moves_markets_230523_1920x1080-5t44ym.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo176166981779",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo176166981779",
-      "publishedDateTime": "2023-05-23T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

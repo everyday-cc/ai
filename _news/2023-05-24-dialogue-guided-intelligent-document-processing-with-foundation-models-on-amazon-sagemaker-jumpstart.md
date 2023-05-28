@@ -29,76 +29,43 @@ images:
     isCached: true
 
 related:
-  - title: "Deploy generative AI models from Amazon SageMaker JumpStart using the AWS CDK"
-    excerpt: "The seeds of a machine learning (ML) paradigm shift have existed for decades, but with the ready availability of virtually infinite compute capacity, a massive proliferation of data, and the rapid advancement of ML technologies, customers across industries are rapidly adopting and using ML technologies"
-    publishedDateTime: 2023-05-23T20:08:10Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-generative-ai-models-from-amazon-sagemaker-jumpstart-using-the-aws-cdk/"
+  - title: "Automate document validation and fraud detection in the mortgage underwriting process using AWS AI services: Part 1"
+    excerpt: "In this three-part series, we present a solution that demonstrates how you can automate detecting document tampering and fraud at scale using AWS AI and machine learning (ML) services for a mortgage underwriting use case. This solution rides on a more significant global wave of increasing mortgage fraud,"
+    publishedDateTime: 2023-05-24T16:19:46Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-document-validation-and-fraud-detection-in-the-mortgage-underwriting-process-using-aws-ai-services-part-1/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 116
+    quality: 82
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/15/ML-14182-foundation-models-1260x551.png"
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/24/automate-document-validation-1260x630.jpg"
         width: 1260
-        height: 551
-        isCached: true
-  - title: "Accelerate machine learning time to value with Amazon SageMaker JumpStart and PwC’s MLOps accelerator"
-    excerpt: "This is a guest blog post co-written with Vik Pant and Kyle Bassett from PwC. With organizations increasingly investing in machine learning (ML), ML adoption has become an integral part of business transformation strategies. A recent PwC CEO survey unveiled that 84% of Canadian CEOs agree that artificial"
-    publishedDateTime: 2023-05-23T20:18:11Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-machine-learning-time-to-value-with-amazon-sagemaker-jumpstart-and-pwcs-mlops-accelerator/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/23/accelerate-machine-learning-pwc-sagemaker.jpg"
-        width: 1020
-        height: 509
-        isCached: true
-  - title: "How OCX Cognition reduced ML model development time from weeks to days and model update time from days to real time using AWS Step Functions and Amazon SageMaker"
-    excerpt: "This post was co-authored by Brian Curry (Founder and Head of Products at OCX Cognition) and Sandhya MN (Data Science Lead at InfoGain) OCX Cognition is a San Francisco Bay Area-based startup, offering a commercial B2B software as a service (SaaS) product called Spectrum AI. Spectrum AI is a predictive"
-    publishedDateTime: 2023-05-25T15:24:39Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-ocx-cognition-reduced-ml-model-development-time-from-weeks-to-days-and-model-update-time-from-days-to-real-time-using-aws-step-functions-and-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 76
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/19/ml-13311Image12.png"
-        width: 999
-        height: 547
-        isCached: true
-  - title: "Perform batch transforms with Amazon SageMaker Jumpstart Text2Text Generation large language models"
-    excerpt: "Today we are excited to announce that you can now perform batch transforms with Amazon SageMaker JumpStart large language models (LLMs) for Text2Text Generation. Batch transforms are useful in situations where the responses don’t need to be real time and therefore you can do inference in batch for large"
-    publishedDateTime: 2023-05-24T16:13:27Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/perform-batch-transforms-with-amazon-sagemaker-jumpstart-text2text-generation-large-language-models/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 75
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/24/batch-transforms-text2text-sagemaker-1255x630.jpg"
-        width: 1255
         height: 630
         isCached: true
-  - title: "Create high-quality images with Stable Diffusion models and deploy them cost-efficiently with Amazon SageMaker"
-    excerpt: "Text-to-image generation is a task in which a machine learning (ML) model generates an image from a textual description. The goal is to generate an image that closely matches the description, capturing the details and nuances of the text. This task is challenging because it requires the model to understand"
-    publishedDateTime: 2023-05-26T17:57:52Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-high-quality-images-with-stable-diffusion-models-and-deploy-them-cost-efficiently-with-amazon-sagemaker/"
+  - title: "Dissecting the EU’s Artificial Intelligence Act: Implications and Industry Reaction"
+    excerpt: "As artificial intelligence (AI) rapidly integrates into the fabric of our society, regulators worldwide are grappling with the conundrum of creating a comprehensive framework that guides AI usage. Pioneering a move in this direction,"
+    publishedDateTime: 2023-05-25T20:19:00Z
+    webUrl: "https://www.unite.ai/dissecting-the-eus-artificial-intelligence-act-implications-and-industry-reaction/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 69
+      name: unite
+      domain: unite.ai
+    quality: 33
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/26/featured-images-ml-14412.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.unite.ai/wp-content/uploads/2023/05/christian-lue-C241mbgtgys-unsplash-996x600.jpg"
+        width: 996
+        height: 600
         isCached: true
+  - title: "Global Automated Machine Learning (AutoML) Market Report 2023: Increasing Need for Accurate Fraud Detection Drives Growth"
+    excerpt: "Market by Offering (Solutions & Services), Application (Data Processing, Model Selection, Hyperparameter Optimization & Tuning, Feature Engineering, Model Ensembling), Vertical and Region - Global Forecast to 2028\" report has been added to  ResearchAndMarkets."
+    publishedDateTime: 2023-05-24T22:39:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/24/9820837.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "97VzLMoGpg2wHlzny9dIbU2WzK+CWBnG7w7GZIrjuvIJIJ9KAenVhWawX+27D3ZHuUN+lJQVISv3FY4OMXcCrEwBObz1uR6gCOjUd6yFyVj6sfFieFIUHqhoAlhfmvHPqImgk3h+7uLLfXYNw0MoQ/VKHu2OsW1x+FgItrPqNl5/N2w+huK5JbHesXVYUnAMlyxoRmZPNWCJ3r+TgVhcxb5neJyqUHx81Ax1p4810QtQm40jj2ks1q/1AdDPLLEmybS4L9shZnUs2a9yxWPYfOevZ5ZF7QDq1cUuYp/2EmtBH3cP/t0F4olZUhcaw4LFpsw0yJtZGjaM7cGMYIkUK3G7T0Zjc85OVpNb3PWOVEY=;xaJaE+vDOBvoROMUQrmjUA=="
 ---

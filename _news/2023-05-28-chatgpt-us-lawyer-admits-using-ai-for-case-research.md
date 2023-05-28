@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bbc.com/news/world-us-canada-65735769.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-65735769.amp"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: BBC
@@ -30,21 +30,33 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT: Can China overtake the US in the AI marathon?"
-    excerpt: "But China could catch up, according to analysts, as AI solutions take years to be perfected. Chinese internet companies \"are arguably more advanced than US internet companies, depending on how you're measuring advancement,\" Kendra Schaefer, head of tech policy research at Trivium China tells the BBC."
-    publishedDateTime: 2023-05-23T21:18:00Z
-    webUrl: "https://www.bbc.com/news/business-65034773"
-    ampWebUrl: "https://www.bbc.com/news/business-65034773.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65034773.amp"
+  - title: "ChatGPT Rival Google Bard Integrates Images Into Responses, AI Images Coming Soon"
+    excerpt: "Google Bard, the search giant's generative artificial intelligence engine that competes with OpenAI's ChatGPT and Microsoft's Bing AI, has integrated images into queries, the company said in a blog post on Tuesday."
+    publishedDateTime: 2023-05-24T21:35:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/chatgpt-rival-google-bard-integrates-images-into-responses/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
+      name: CNET
+      domain: cnet.com
+    quality: 62
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/15E48/production/_129327698_gettyimages-1248931741.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.cnet.com/a/img/resize/4ab10cbffbbc81f0592dd2e1c6e9afcf909b13ff/hub/2023/05/24/b8f751c9-21f8-4abc-b800-591c3f9685f5/gettyimages-1247375867.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "JPMorgan’s plans for a ChatGPT-like investment service are just part of its larger AI ambitions"
+    excerpt: "JPMorgan Chase is developing a ChatGPT-like service to provide investment advice to customers, but it is a small part of its AI ambitions."
+    publishedDateTime: 2023-05-26T16:39:00Z
+    webUrl: "https://venturebeat.com/ai/jpmorgan-plans-for-a-chatgpt-like-investment-service-are-just-part-of-its-larger-ai-ambitions/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 59
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/jp-morgan-file-gty-ml-200908_1599583350520_hpMain_16x9_992.jpeg?w=1200&strip=all"
+        width: 992
+        height: 558
         isCached: true
   - title: "ChatGPT-maker warns it might leave EU over planned AI law"
     excerpt: "He also met Prime Minister Rishi Sunak and the heads of AI companies DeepMind and Anthropic to discuss the technology's risks - from disinformation to national security and even \""
@@ -62,15 +74,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "ChatGPT: Most Americans Know About It, But Few Actually Use the AI Chatbot"
-    excerpt: "Though 58% of Americans are familiar with ChatGPT, just 14% have actually tried it, a Pew Research Center survey finds."
-    publishedDateTime: 2023-05-27T14:10:00Z
-    webUrl: "https://www.pcmag.com/news/few-americans-have-actually-tried-chatgpt-despite-most-knowing-about-it"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 45
 
 secured: "xrpQgg00bRSvWknwGNBS4hMdVhgAsju4WxeAH3RH/7rE0tsJXoxuI4fXh7nd0sNqLZSRl7i/2rOvTkp2vjEyndqXEGM19D/PUTEKSMtRvlGd0u3JD9SROJjg3eWNF2mSAdG08WXqMaEZG5ABJVhiB2/9YH5zPF0GxoHHgxZagBni9BkjdHi3ffiOV9YcgZ7lY8lxIwX8LYIDpqYAwCJO3I5CWytPBOpPP1ZsA1xbwdRjg/OsvR2sFlYK7fh1RVBL/QUtFEiQbK/7hhgHPJXO5l1gxobInoyXHBGSHiacRyq0sdXxUFjtqcs1LGwpEumTNIERm5sFwslRCM/TdVlEW+p8yMd3jQu/yxDB9YQxLivIaKvYIeXwWnK+HV9/ci9vr1HHHP1dPu4rmB8N1z6XMuGGvvRVDaqanm8Ywq4y6aHDrIx+NsUG+DgonHSMCQsLY8AEJ/Yacd8PchmBuNNNargAHbDmCuOU+l2O13N0s9oOydyGKUdxxA06M6JQVYaLu7Xg+tnp0wjs4vmxDf56sw==;2cx4fIVF/TOHy/aAFZRHXw=="
 ---

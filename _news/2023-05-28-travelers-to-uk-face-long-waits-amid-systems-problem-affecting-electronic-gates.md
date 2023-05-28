@@ -2,19 +2,17 @@
 category: news
 title: "Travelers to UK face long waits amid systems problem affecting electronic gates"
 excerpt: "The British government is working to fix a technical problem that caused electronic border gates at airports around the country to stop working, leading to hourslong waits for travelers entering the U."
-publishedDateTime: 2023-05-28T10:23:00Z
-originalUrl: "https://www.bellinghamherald.com/news/nation-world/world/article275852501.html"
-webUrl: "https://www.bellinghamherald.com/news/nation-world/world/article275852501.html"
-ampWebUrl: "https://amp.bellinghamherald.com/news/nation-world/world/article275852501.html"
-cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/nation-world/world/article275852501.html"
+publishedDateTime: 2023-05-28T12:41:00Z
+originalUrl: "https://www.kansascity.com/news/nation-world/world/article275852501.html"
+webUrl: "https://www.kansascity.com/news/nation-world/world/article275852501.html"
 type: article
-quality: 35
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: The Bellingham Herald
-  domain: bellinghamherald.com
+  name: Kansas City Star
+  domain: kansascity.com
 
 topics:
   - Computer Vision
@@ -52,6 +50,6 @@ related:
         height: 800
         isCached: true
 
-secured: "hnsnsBZBlBP/Z0Zduz3VrrpCBG9kEzrDL6Q6Px/BVIwYmc9tPoK8TH+AWyMImC7WYlqJxeoeTlPOkzY2gPxxgBUwvEoeERaYn1q6x15+CLSIipwZ5dnJr7oBwYjg7hUt6r2a/B9RE3OQPtlK+xAQ9DEaqOrM5l2YBJ0wB8IMS+AY17fa/3VRKMCqVYlr50myuz5u1iFs0gSAsokgiqimpzy/bZpDEoQJBidioXcFBdkxp3tmqg2gJSqD7TtUfCug//2U5qeypgAGdgPldZjHC8Q9FECHDJ56fNkQWy1ruyVOQroCs/lvCHnpuv+Ha4uMGet3MFzdn0ETk0yL/SxqztzMTdTMVX8j4K5CfGji8a4=;Ykil8GmLzZeq7BYuxRcUvg=="
+secured: "T6d2RZYn+oGslnGcqjxEu9ttuyNuUmlTnrr6CVwp6IU89iKI2YCeCC6NO/x6zyGz/H3G+eEUKM0LvqtmLA/LwKIz+1QY5Pr36paWYgA1cpz07oei+ojj8Kwg6MO/SRnZALMqJr2I5OUDqfsLNZ10O9illQC9+rDYgu+AK5llpAhaKZ4pZ/7m1VUp7XbAqla3jXTBiSOqHJ7w59YLwjVt/qRbYI74rLnsps+y4YHGcRuHUB43W4pdbaZVM+lMsZeM0URLGR0gvPlP+ap+/fhW40LZ5+ZbZoZxJiOlpzgSTT+imHFShfJwjfuGU59bj1Vzcj5Gq2Vj9qeP8Lt+4hkTtSKwnRRnEmVUWt32gGaf0hw=;+dSTfmFkw0PimGFmuSC9xg=="
 ---
 

@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How the rise of generative AI could kill the metaverse — or save it"
+    excerpt: "Will generative AI kill the metaverse? Maybe, maybe not. How their combination could build a dynamic digital future."
+    publishedDateTime: 2023-05-28T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-the-rise-of-generative-ai-could-kill-the-metaverse-or-save-it/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/annevb_yelling_into_the_darkness_for_help._Mayday._colorful_tec_736eb19e-1e98-40fa-92cc-613825810f1f.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "VB Transform: Navigating the generative AI wave, insights from top executives at major corporations"
     excerpt: "Enterprise speakers slated to join us at our VB Transform event on July 11 and 12 will shed light on their generative AI initiatives."
     publishedDateTime: 2023-05-26T18:18:00Z

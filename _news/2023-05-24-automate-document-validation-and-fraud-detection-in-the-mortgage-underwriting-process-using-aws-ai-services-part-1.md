@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automate-document-va
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-document-validation-and-fraud-detection-in-the-mortgage-underwriting-process-using-aws-ai-services-part-1/"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Dialogue-guided intelligent document processing with foundation models on Amazon SageMaker JumpStart"
+    excerpt: "Intelligent document processing (IDP) is a technology that automates the processing of high volumes of unstructured data, including text, images, and videos. IDP offers a significant improvement over manual methods and legacy optical character recognition (OCR) systems by addressing challenges such as"
+    publishedDateTime: 2023-05-24T16:50:32Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/dialogue-guided-intelligent-document-processing-with-foundation-models-on-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 74
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/16/ml14223-arch-1260x618.jpg"
+        width: 1260
+        height: 618
+        isCached: true
   - title: "Dissecting the EU’s Artificial Intelligence Act: Implications and Industry Reaction"
     excerpt: "As artificial intelligence (AI) rapidly integrates into the fabric of our society, regulators worldwide are grappling with the conundrum of creating a comprehensive framework that guides AI usage. Pioneering a move in this direction,"
     publishedDateTime: 2023-05-25T20:19:00Z

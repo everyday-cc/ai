@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnhall/2023/05/26/digital-marketing-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnhall/2023/05/26/digital-marketing-in-2023-the-rise-of-ai-and-what-it-means-for-your-strategy/amp/"
 type: article
 quality: 101
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/645ba61bd8a7fb17319c02fa/0x0.jpg?format=jpg&crop=3574,2012,x0,y410,safe&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "French Open 2023: Grand Slam using AI to protect players from online abuse"
+    excerpt: "As the French Open introduces a new technology to help players filter out social media abuse, BBC Sport looks at the issues tennis players encounter online."
+    publishedDateTime: 2023-05-28T15:29:00Z
+    webUrl: "https://www.bbc.com/sport/tennis/65706479"
+    ampWebUrl: "https://www.bbc.com/sport/tennis/65706479.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/tennis/65706479.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 85
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_sport/4BEF/production/_129893491_swiatek_gettytwo.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "At ISC 2023: Hyperion Reports HPC Industry Grew 4% in 2022; AI to Drive Stronger Growth Next and Following Years"
     excerpt: "The HPC industry managed to achieve modest overall growth in 2022, but growth of any kind was in doubt right up to the end of the year, according to HPC-AI industry analyst firm Hyperion Research, which hosted its bi-annual HPC market update at a breakfast event this week during the ISC 2023 conference in Hamburg."

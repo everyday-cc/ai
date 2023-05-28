@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "How AI is reshaping the computer chip industry"
+    excerpt: "Case in point, Nvidia, the computer chip designer, has seen its stock price more than double since the start of the year, to about $300 a share. The Silicon Valley-based company now has a bigger market capitalization than Visa,"
+    publishedDateTime: 2023-05-25T03:28:00Z
+    webUrl: "https://www.marketplace.org/2023/05/24/how-ai-is-reshaping-the-computer-chip-industry/"
+    ampWebUrl: "https://www.marketplace.org/2023/05/24/how-ai-is-reshaping-the-computer-chip-industry/amp/"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2023/05/24/how-ai-is-reshaping-the-computer-chip-industry/amp/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 76
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/05/GettyImages-1468619875-e1684962917211.jpg?fit=740%2C512"
+        width: 740
+        height: 416
+        isCached: true
   - title: "How AI Can Be Used in Investing"
     excerpt: "Another way AI is used in investing is for sentiment analysis. Markets move according to a variety of factors, such as macroeconomic data, earnings reports, geopolitical issues, and interest rates, as well as market sentiment."
     publishedDateTime: 2023-05-24T19:49:00Z

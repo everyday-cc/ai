@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230525PD215/ai-nvidia-tsmc.html"
 webUrl: "https://www.digitimes.com/news/a20230525PD215/ai-nvidia-tsmc.html"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1280
     height: 853
     isCached: true
-
-related:
-  - title: "AI boom drives gains for chip stocks"
-    excerpt: "Demand from institutional investors appears to have underpinned the chipmakers’ recent rally. They are the “primary source” of demand for AI stocks, with only a “marginal increase” in retail investor interest, according to VandaTrack."
-    publishedDateTime: 2023-05-28T04:01:00Z
-    webUrl: "https://www.ft.com/content/fdd5303c-cdf4-434d-99b3-9ccdc84912d1"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
-        width: 619
-        height: 376
-        isCached: true
 
 secured: "rZrQlgBTZ5DUytKtszwbc6tFZuSUzSUfeMqZLr0oEesKstbA5geoSPorH4xvGkeTMfoODaIOPoSnSVZJTIUO0eN8BhCtuzCIzFc1aX4pKW2AeD1af5QgqMFlZU71bDbTlbnFRDkx9tcAqfUshuy8dQr0JzVs86swZOGHn69kc7zoabsleo5lHjO960g2bUBFGshPzklcr6ttwV9E/3QQ3x14V0rfiilvimeNL4qnnPlJOFwmFHLvy9IFvTchLhQcI/8AWOaT421KuygxFkGoLEsFY/fMegSITSd1S9P94RkasLm36nBGEcumzNwyYsYaa7NK04S7yXBcdsfFnH4OuUbx7kN9LSoyeluY8CAyiYQ=;7HhJUsA96Lqkt5dcmpHb6Q=="
 ---

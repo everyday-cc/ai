@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 796
         isCached: true
+  - title: "ChatGPT: Most Americans Know About It, But Few Actually Use the AI Chatbot"
+    excerpt: "Though 58% of Americans are familiar with ChatGPT, just 14% have actually tried it, a Pew Research Center survey finds."
+    publishedDateTime: 2023-05-27T14:10:00Z
+    webUrl: "https://www.pcmag.com/news/few-americans-have-actually-tried-chatgpt-despite-most-knowing-about-it"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 45
   - title: "The Rise of Large Language Models: Revolutionizing AI Chatbots"
     excerpt: "The field of artificial intelligence (AI) has advanced significantly in recent years thanks to improvements in machine learning and natural language processing. The advent of large language models (LLMs) is one such invention that has captivated the world."
     publishedDateTime: 2023-05-26T19:19:00Z
