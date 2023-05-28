@@ -127,15 +127,6 @@ related:
       name: AZ Central
       domain: azcentral.com
     quality: 8
-  - title: "Waymo, Uber set aside past rift over self-driving car technology to team up on robotaxis in Phoenix"
-    excerpt: "Self-driving car pioneer Waymo is teaming up with ride-hailing leader Uber in the Phoenix area to transport passengers and deliver food in robotic cars that triggered a bitter technological dispute be"
-    publishedDateTime: 2023-05-23T12:23:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/waymo-uber-set-aside-past-rift-driving-car-99534972"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 5
 
 secured: "S2IbnGzR9fr8nEgr8vqfzRm8zrHGVxebz4mNQp/V7SZgIj7u3ChDivYjlItL18NC+6WJWvVz3DJ9NzX4CMpvJFOh2FLU/Dk44SIbzFTD0CxQBJwzFaK2EOthXYRkRmeZmGsvzwb01z6FHGK6gm2xavUdCUy5BZLcQnNaV4+IyLZ+yCPq7V4XdtxjO1eEDQOjEK8PWeheoo0Pob81JUuXLDqvFO9ddaJAomf6J8oZEyit4R9EgwpisnmADJW+lcQ+G7Tbo2Nf5WnFC8v5nZBV8qSYcENdtnnWygu76L6Iil+HbCCOvzD2kkoLj5e35ykH0dBRqLfRKqy1xx4fg9gQWDr2MsnDX6IgFPCTtauU2iQnmYr9NnDRL62mAWxK6vfWEHNjxbjKaMUjkcmL2vOnQGpjkNMVeBFBXsTFS6OQ+fsC9YvTx/ZbvBxyVl+kJOaoyPzAB9Q73LyUJH888J2rFZ+W3aSms+xd+burjJCGRKNTSNJ2deaDutfF4EpDl4vrtg3zXEin7iWszW5RK5aehA==;Z6bGGaQak3RRrnMYQZEjdg=="
 ---

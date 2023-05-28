@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 822
         isCached: true
-  - title: "Cohesity Promotes Responsible AI And Security Partnerships At Catalyst Event"
-    excerpt: "Cohesity also announced new integrations with CrowdStrike and ServiceNow. Thanks to these integrations, CrowdStrike or ServiceNow can communicate security event detection with Cohesity and receive event detection alerts from Cohesity to initiate response and remediation workflows."
-    publishedDateTime: 2023-05-23T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/23/cohesity-promotes-responsible-ai-and-security-partnerships-at-catalyst-event/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
 
 secured: "f+uu8tkeNCdnbPPI66pgSCtOR2NjEzeYXiz0QbvQvR8AtEnp70jgd0YdlS/5emgUAl0r0LOUqx6lYatTG8dITTF8KCrCgnLzyAcsz474E3pBZkgYTU84kP08fH3RaJ8PhvasBXKMqKpNo3DyUxgQNOu5NrTnkLk1ZCaL+RBYgpYlkd9dLO6Qu4WCIk8zztcfJw36nyqiXIKKnIJCaMfpGAXDIV/bTOkXL4FpWjYVt5Cpy6fKXONaUO2E0O/6en9K0lhXqheBGr/23MAygDMB0PKiX1jBCZuAXZ3byf1unACo20blTLURY2lft4EHlRweWsZMS27Q1s9ubYOOdbq4Br0xvoOWS+OHEWbgzL6gNX7YD+yCOtBk9c0fayz8yiQtZbYG7rWpJcPiAF2OST7AdZVkFXJK0B+69onCgMeK93/z39GtmZCNmj877CVm1Kftk7hx1+t0k2cR5fFK4t3DTqeK3sPSh60QrbmA0Ebew78OvNq2gTTdSL/U9ydR6wRRGRtw5Cd17YvGXiPAj0gJaw==;Ph1Pf86gZyH/K6OYKp1eYA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/build-next-generation-ai-po
 webUrl: "https://azure.microsoft.com/en-us/blog/build-next-generation-ai-powered-applications-on-microsoft-azure/"
 type: article
 quality: 119
-heat: 1059
+heat: 1019
 published: true
 
 provider:
@@ -857,15 +857,6 @@ related:
         width: 624
         height: 342
         isCached: true
-  - title: "Red Hat unveils Ansible Lightspeed to empower AI-driven IT automation"
-    excerpt: "Learn More Open-source solutions firm Red Hat today unveiled Ansible Lightspeed, a generative AI service integrated with IBM Watson Code Assistant. The company’s latest offering seeks to drive extensive utilization of Ansible automation within organizations,"
-    publishedDateTime: 2023-05-23T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/red-hat-unveils-ansible-lightspeed-to-empower-ai-driven-it-automation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 51
   - title: "NVIDIA Partners with Microsoft to Supercharge Enterprise-Ready Generative AI"
     excerpt: "NVIDIA announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives, enabling Azure customers worldwide to quickly build, deploy, and manage customized ..."
     publishedDateTime: 2023-05-24T16:33:00Z
@@ -949,20 +940,6 @@ related:
       name: Mint
       domain: livemint.com
     quality: 42
-  - title: "AI and automation headline Red Hat’s annual user fest"
-    excerpt: "It wouldn’t be 2023 if there weren’t an artificial intelligence angle, and Red Hat OpenShift AI is the headliner this year. Billed as a “standardized platform for creating production AI/ML models,” the software takes advantage of native graphics processing unit acceleration features and can be deployed on-premises or in the cloud with the same tooling and interfaces."
-    publishedDateTime: 2023-05-23T13:00:00Z
-    webUrl: "https://siliconangle.com/2023/05/23/ai-automation-headline-red-hats-annual-user-fest/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/04/Red-Hat-Summit-2022-Hero-Image.png"
-        width: 1184
-        height: 645
-        isCached: true
   - title: "Microsoft Build 2023: Day 2 features sessions across AI copilot, Microsoft Azure, more"
     excerpt: "After an impactful opening, day 2 of the developer-focused event features sessions across AI copilot experience, building cloud-native systems, utilizing Microsoft Azure to its full potential and more."
     publishedDateTime: 2023-05-24T02:49:00Z
@@ -1097,15 +1074,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 34
-  - title: "Sapiens Joins Forces with Microsoft to Leverage Generative AI for Insurers"
-    excerpt: "Sapiens will integrate Microsoft Azure OpenAI and Azure Power Virtual Agents to provide generative AI solutions for insurance companies, allowing customers to easily navigate comp"
-    publishedDateTime: 2023-05-23T11:37:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/23/9819006.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 32
   - title: "Microsoft Store hones in on AI in Windows with new section and AI-generated reviews"
     excerpt: "We’re starting to see a trend in AI that has companies positioning the advancement as an educational tool rather than just a robot to have a conversation ... the Microsoft Store will start using AI to compose a featured review that takes notes from ..."
     publishedDateTime: 2023-05-23T18:06:00Z
@@ -1185,15 +1153,6 @@ related:
       name: tvbeurope.com
       domain: tvbeurope.com
     quality: 17
-  - title: "Sapiens International Corporation: Sapiens Joins Forces with Microsoft to Leverage Generative AI for Insurers"
-    excerpt: "The integration opens up new market opportunities for insurers worldwide BARCELONA, Spain, May 23, 2023 /PRNewswire/ -- Sapiens International Corporation, (NASDAQ: SPNS) and (TASE: SPNS)"
-    publishedDateTime: 2023-05-23T11:33:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-05/59157123-sapiens-international-corporation-sapiens-joins-forces-with-microsoft-to-leverage-generative-ai-for-insurers-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 15
   - title: "Hyperautomation platform Zvolv to integrate AI orchestration to leverage generative AI in new age enterprise applications"
     excerpt: "Hyperautomation platform Zvolv to integrate AI orchestration to leverage generative AI in new age enterprise applications - Zvolv, a leading global enterprise hyperautomation company today announced new generative AI capabilities"
     publishedDateTime: 2023-05-25T05:31:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/05/25/cohesity-fo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/05/25/cohesity-forges-google-cloud-ai-downwards-to-data-layer/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 606
         isCached: true
-  - title: "Cohesity Promotes Responsible AI And Security Partnerships At Catalyst Event"
-    excerpt: "Cohesity also announced new integrations with CrowdStrike and ServiceNow. Thanks to these integrations, CrowdStrike or ServiceNow can communicate security event detection with Cohesity and receive event detection alerts from Cohesity to initiate response and remediation workflows."
-    publishedDateTime: 2023-05-23T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/23/cohesity-promotes-responsible-ai-and-security-partnerships-at-catalyst-event/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
 
 secured: "w1O4fDnm2QGJVm0U4eVU/SqPn71p50qFEtU3SOcGCEGh0/vVp3AZjY5E9efX3VNgq32vALjwjzdOKoQCE08kgFx4at5+nfdLOjSv/oaV7D+l6RUWGZbyraYN+Y5xW1XmaBuomw5FzYNLiaytaVGIeqQFz6f2I9vrd3dlkAkNlraxtiaRtMwt9PQtmg+2kzzieqcz1Rj2yQ0EcyaKYbuW1DWPmee4FTZtKV7SqxXXeNLO28ZVNAMSnJFvE+7aWm7fMTVcm4iX3nwZGSPFUjC2Aip2MXZbxOiI4av/knI0Fip1vAsqO44bJYmsgqSExVyXbzLzFBUrkI1OeCS5WbIvUJGoswYnK0jYp9xQeTamayM=;X/Ao+wlzkSerRiITOvcG9w=="
 ---

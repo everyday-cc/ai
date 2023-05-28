@@ -88,22 +88,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Governments race to regulate artificial intelligence tools"
-    excerpt: "EU lawmakers have reached a preliminary deal that could pave the way for the world’s first laws governing the new tech."
-    publishedDateTime: 2023-05-23T11:24:00Z
-    webUrl: "https://www.aljazeera.com/news/2023/5/23/governments-race-to-regulate-artificial-intelligence-tools"
-    ampWebUrl: "https://www.aljazeera.com/amp/news/2023/5/23/governments-race-to-regulate-artificial-intelligence-tools"
-    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2023/5/23/governments-race-to-regulate-artificial-intelligence-tools"
-    type: article
-    provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 57
-    images:
-      - url: "https://www.aljazeera.com/wp-content/uploads/2023/03/2023-03-22T214958Z_1139044039_RC2R3Z9ARM44_RTRMADP_3_OPENAI-BUG.jpg?resize=1920%2C1440"
-        width: 1920
-        height: 1440
-        isCached: true
   - title: "OpenAI leaders call for regulation to prevent AI destroying humanity"
     excerpt: "Team behind ChatGPT say equivalent of atomic watchdog is needed to guard against risks of ‘superintelligent’ AIs"
     publishedDateTime: 2023-05-24T04:00:00Z

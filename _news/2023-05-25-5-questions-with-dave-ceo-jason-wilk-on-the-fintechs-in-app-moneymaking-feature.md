@@ -183,15 +183,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 9
-  - title: "Monty Finance highlights global expansion with innovative fintech solutions at Seamless middle east"
-    excerpt: "With a commitment to innovation and client-centricity, MyMonty offers an empowering digital banking experience coupled with competitive offers and advanced AI-backed features. As a trusted FinTech enabler, MyMonty leverages its extensive expertise and ..."
-    publishedDateTime: 2023-05-23T12:07:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/monty-finance-highlights-global-expansion-with-innovative-fintech-solutions-at-seamless-middle-east-ymgybwqd"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 5
   - title: "Invoice Factoring Market Size Worth $6,004.70 Billion By 2032 - Rising Fintech Solution Adoption Rate Among Smes"
     excerpt: "Their economies are fast transitioning from agricultural to manufacturing and export-oriented economies, which has promoted the expansion of invoice factoring in the area. The Asia Pacific region is also home to a significant number of rising economies,"
     publishedDateTime: 2023-05-26T01:12:00Z
@@ -206,15 +197,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "Goldpac pushing boundaries on consumer fintech at Seamless Middle East 2023"
-    excerpt: "Goldpac Fintech exhibiting its latest technologies at Seamless Middle East 2023 (booth A20). Six displays and demonstrations address current payment card issuance needs, from premium card printing finishes and effects,"
-    publishedDateTime: 2023-05-23T12:12:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/23/9818892.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
 
 secured: "OqLiqc2RhJPmNrOZXWVmSsJKNmtwmvimnOkzU28Y1a1zRnnd60luJ0k6t334Jz1nGPxOOJVgeBzMpDpImvAF8g5N1WkAL8QonY6drDWfb2CzLVFMQHNP2zKG6moZoag60jLnIcnbnA9nvpeJNK1FGsPeoeyLJNiDQzaBoNisvR/2WCLFn03Xy2fc76VvAnxbi/IqTJXi2V0KxjlU2eFyCKbCFbK2+4RkKQb8wIUOqD395ueL7uhj7Tg0viP7MEVLDcRbBU3GI7CqF1nfJxmJj6X1mvEQGPsLDERaWceozesoV1JZEkKVZqVSt5/8UpxMhSFPThgXEdlxYZ2Sx04C3bLl54VdN9gns+u0krkhJ5A=;R0ClAr7ZR7lBwn7Zsk21hg=="
 ---

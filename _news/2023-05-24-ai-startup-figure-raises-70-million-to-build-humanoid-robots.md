@@ -1,26 +1,28 @@
 ---
 category: news
-title: "AI Startup Figure Raises $70 Million to Build Humanoid Robots"
-excerpt: "(Reuters) - Figure, a startup that wants to build general-purpose humanoid robots, has raised $70 million from investors led by Parkway Venture Capital in its first external round, the company said on Wednesday."
-publishedDateTime: 2023-05-24T10:03:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2023-05-24/ai-startup-figure-raises-70-million-to-build-humanoid-robots"
-webUrl: "https://www.usnews.com/news/technology/articles/2023-05-24/ai-startup-figure-raises-70-million-to-build-humanoid-robots"
+title: "AI startup Figure raises $70 million to build humanoid robots"
+excerpt: "(Reuters) - Figure, a startup that wants to build general-purpose humanoid robots, has raised $70 million from investors led by Parkway Venture Capital in its first external round, the company ..."
+publishedDateTime: 2023-05-24T10:20:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/05/24/ai-startup-figure-raises-70-million-to-build-humanoid-robots"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2023/05/24/ai-startup-figure-raises-70-million-to-build-humanoid-robots"
 type: article
-quality: 64
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://apicms.thestar.com.my/uploads/images/2023/05/24/2089439.jpg"
+    width: 800
+    height: 532
+    isCached: true
 
 related:
   - title: "Anthropic raises $450M to build next-gen AI assistants"
@@ -38,6 +40,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/04/anthropic-header.jpg?resize=1200,540"
         width: 1200
         height: 540
+        isCached: true
+  - title: "AI startup Figure raises $70 mn to build humanoid robots"
+    excerpt: "Figure, a startup that wants to build general-purpose humanoid robots, has raised $70 million from investors led by Parkway Venture Capital in its first external round. Figure will use the VC ..."
+    publishedDateTime: 2023-05-24T17:42:00Z
+    webUrl: "https://infotechlead.com/tech/ai-startup-figure-raises-70-mn-to-build-humanoid-robots-78521"
+    ampWebUrl: "https://infotechlead.com/tech/ai-startup-figure-raises-70-mn-to-build-humanoid-robots-78521?amp=1"
+    cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/tech/ai-startup-figure-raises-70-mn-to-build-humanoid-robots-78521?amp=1"
+    type: article
+    provider:
+      name: infotechlead
+      domain: infotechlead.com
+    quality: 74
+    images:
+      - url: "https://infotechlead.com/wp-content/uploads/2015/11/Robot.jpg"
+        width: 639
+        height: 402
         isCached: true
   - title: "AI Startup Anthropic Raises $450 Million for Safety-Focused Chatbot"
     excerpt: "Anthropic, an artificial intelligence startup positioning itself as the builder of a safer kind of chatbot, said it raised $450 million in funding to bolster the development of its AI bot, named Claude. The deal brings the company’s total raised to ..."
@@ -87,20 +105,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 42
-  - title: "AI startup Anthropic raises $450M from Spark, Google, Salesforce"
-    excerpt: "Anthropic, a San Francisco-based AI startup, raised $450 million in Series C funding led by Spark Capital, the company announced Tuesday. Why it matters: The startup has been building a war chest as it competes with ChatGPT creator OpenAI."
-    publishedDateTime: 2023-05-23T12:52:00Z
-    webUrl: "https://www.axios.com/2023/05/23/anthropic-funding-series-c"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 39
-    images:
-      - url: "https://images.axios.com/20cN8koAFOoC71Jnd_9qF5cvVFA=/0x0:1920x1080/1366x768/2023/05/23/1684845597335.jpg"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Anthropic raises $450M to build powerful but trustworthy AI systems"
     excerpt: "Anthropic has risen to become a well-known generative AI startup. Co-founded by the siblings Dario Amodei and Daniela Amodei who were vice presidents at the AI company OpenAI LP, it’s best known for the generative AI chatbot ChatGPT,"
     publishedDateTime: 2023-05-23T16:14:00Z
@@ -118,7 +122,7 @@ related:
   - title: "AI startup Anthropic raises $450M for safety-focused chatbot"
     excerpt: "Yet while ChatGPT has faced criticism — and been tweaked — after offering users some concerning results, Anthropic aims to make its chatbot more cautious from the start. Anthropic’s goal is for Claude to be less prone than other chatbots to manipulation that will produce harmful or offensive results."
     publishedDateTime: 2023-05-23T21:58:00Z
-    webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?n=%5CL"
+    webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/"
     ampWebUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
     cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
     type: article
@@ -153,16 +157,7 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
-  - title: "Alphabet-backed AI startup Anthropic raises $450 million"
-    excerpt: "The funding will support our continued work developing helpful, harmless, and honest AI systems — including Claude, an AI assistant that can perform a wide variety of conversational and text processing tasks,"
-    publishedDateTime: 2023-05-23T11:37:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/05/23/anthropic-450-million-fundraise.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
-secured: "NdPxUPitVAvkiWbEgnXDf3kiwOCpmv/M4lMPNo1XxUUyNOw8AB9uVsskMaQ8GM4eFvdXZmfLjX1W9FBV/bd2duTMGe0luev+5n2f99+rCEatd2GHEXJOpKZHqm7oHTlC0ewseApsAmZ7aDaVguQOF9Gy9riWx4FNWFdcOWIWX1eaHMz1p0/NcyNuWE5URhbrHt10Gngt3MpZ5qco2lpF0cHGyFvaoBS7tCI/+UlHDQbmPxEftePafERDqZwk5fbBqYAj71JpF/tPwhpBRT/CkKYYsJsuRoiECAaVlQCdNOu9tpobfFk+SYK6v9vfe+IWDIgoGzRftuGBn4SkEx47IgLcXceTBLfBdn1T3XfY5cWIi+19g6D1mtMxMAQJYs7qcDEi1AOfIqCzhYgG81inqlLrm5mdAOdfiR1fS6+8AMiQsqoUqdD78Gud8x3aO06g54dL70viFhIPUTXUki7d9iqwBiAoIF0d84a/DylmVYiXhTQVxebztnt0/KuY9riWlyGIffoQVyhX3jt1UtjZCg==;PrF8u2yA03MedrOu7F/K8w=="
+secured: "T4wZaGeR++MKXCqMjhdSDaj8+pvLFXRvCqXjUDo0Vq4r4lMzmRIkjc2l088zsFf75cQ+lxwZdiHvFOzvjCWyQPqpc/D3BE3GJwnwpSPyFFPQbJkdlTP4TLyF/V/IxB+5wAJGF4BaPlevQvrsmxqqOpv1bo3O1rvqfslBGTJdTSDHH0AOn0bMw41Ee7mZYKh6dJtBCCqinc4/ygyNlsCAGGxsP3dmbsbr4HT88KMOtvJkuWfVto35w2A4OeTRP2RogK9EhOO7uPm1XkJ0+cDkzLenc/VOpzFd8S5njPo4WHZzv5/x5VOScbiD/6f6OQ0d8LluBoHU5T1cM5c/ZAiOQ3OFxzek7YGeM40d8U893nc=;6NLwfqWLDNZ7pT+Lpme/Yg=="
 ---
 

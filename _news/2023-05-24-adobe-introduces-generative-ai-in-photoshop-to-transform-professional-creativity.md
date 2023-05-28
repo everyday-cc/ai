@@ -139,24 +139,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Amid AI Generated Hoax, Adobe Introduces Firefly in Photoshop"
-    excerpt: "Software giant Adobe has introduced Generative Fill in Photoshop, a feature which brings generative AI powered Firefly directly into the hands of designers."
-    publishedDateTime: 2023-05-23T12:46:00Z
-    webUrl: "https://analyticsindiamag.com/amid-ai-generated-hoax-adobe-introduces-firefly-in-photoshop/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
-  - title: "Adobe launches Generative Fill to boost generative AI efforts"
-    excerpt: "Generative AI tools can be supportive, helping a wide range of people reach their goals in various creative efforts. Adobe certainly hopes that is the case, as it introduces a brand new tool to bolster its artificial intelligence efforts."
-    publishedDateTime: 2023-05-23T11:40:00Z
-    webUrl: "https://appleinsider.com/articles/23/05/23/adobe-launches-generative-fill-to-boost-generative-ai-efforts"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 17
 
 secured: "MY/LeTqYCIPZK0coqOxjkokyfmq5/JDlHohReFAFi3hO1GqqUVwGwy7L2VQWa674r0Cbnh75j8sdl5OG6eRwdLyePqxnck3ZKHc6hdRV53ReGmLtDkJIyl/w9HxGRins7Ax6lJFGQvcq10eshIgxxSJU88bIm3gbDgLughDsLXcGpwqSbN+6GCZ7wdMjyQpgHURj5USfWwyCGkB49jAwQ5eXnTT1L2Bg/mw2bVJsj482U6O68X7PeOtqHJ945HPngrJiNyn+Q5/W8gryeOs/tpSXB3B8v6JI/3NvNUXCnoj7xsihutMe2LPrj37OYpyPHu4Yvi4clPiSkVYwFIAGB6KpztBQYynd9EfDPBM5f6nsEmM5h0puRSX5hxCwVM5JRLCP77dhU50ebVACxa1c6ZMsCGCSAOzflqCw+jfEMM/wQNfFWU2yUqtQlvpZG05KPO1tbH2Xe8mvo0wOa3WZKvp7qABct8ESaOQTmtDIntCD3eB72YdPe3zRF/JuhxWyqpjMWbIQPI74/pH7W33XBA==;44vrmr4Eg/hpbY7GQfeAjQ=="
 ---

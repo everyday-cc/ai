@@ -183,15 +183,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 9
-  - title: "Monty Finance highlights global expansion with innovative fintech solutions at Seamless middle east"
-    excerpt: "With a commitment to innovation and client-centricity, MyMonty offers an empowering digital banking experience coupled with competitive offers and advanced AI-backed features. As a trusted FinTech enabler, MyMonty leverages its extensive expertise and ..."
-    publishedDateTime: 2023-05-23T12:07:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/monty-finance-highlights-global-expansion-with-innovative-fintech-solutions-at-seamless-middle-east-ymgybwqd"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 5
   - title: "Invoice Factoring Market Size Worth $6,004.70 Billion By 2032 - Rising Fintech Solution Adoption Rate Among Smes"
     excerpt: "Their economies are fast transitioning from agricultural to manufacturing and export-oriented economies, which has promoted the expansion of invoice factoring in the area. The Asia Pacific region is also home to a significant number of rising economies,"
     publishedDateTime: 2023-05-26T01:12:00Z
@@ -206,15 +197,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "Goldpac pushing boundaries on consumer fintech at Seamless Middle East 2023"
-    excerpt: "Goldpac Fintech exhibiting its latest technologies at Seamless Middle East 2023 (booth A20). Six displays and demonstrations address current payment card issuance needs, from premium card printing finishes and effects,"
-    publishedDateTime: 2023-05-23T12:12:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/23/9818892.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
 
 secured: "eg6fItZUiwnhsW9MV4juT4XTJuSZb3UicnkM2TTjvBCnbuliLWuWqMmuKfFDEl4mNe9kMWXpMrp3/mZicE1CttY+v8ecOj1dKzXh7UMPt0I5OJTcEMSg0iA2OV/EGRfGgd42Yo+gbCJutHaKdd6/UD8GG+zeW99ObJpDMxqEojJfVLnudJUJMTxyUk4kuhGs0mpZhj28AmlNELvT6nBB21+5kkcEzTVS6j4kLmfRP91MY1JnoTR9kSVA5H73Ozw9xgt26ObhQ+i95LuOPGt1dd2ygW22t6cCyeaPa4IcyL7ziGh1XfJzIPtauzOgqnHi15N89QkZSeH6CKKbuYEujzPndboMd/9tfar/F1p42Og2R2qPSzVeNppaJeLjm6r4e2xrcKcVPCqeqE+Ybmz8SK4ZrPtQ2XJffRmE/GN2wGX1th1MidNPcJgHOxIEGeRsda5mc5BLSfKpHaNXYNTVFZ69jO+8YpV0RWV2KtTnhtd8SWRIAgrD1NcxWNexHBDP8U5PJ3I9Shhziy2COfz5PQ==;ImAMg0/YyAtyCJxN7ns7bw=="
 ---

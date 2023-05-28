@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newindianexpress.com/business/2023/may/24/it-services-fi
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: The New Indian Express
@@ -27,165 +27,57 @@ images:
     isCached: true
 
 related:
-  - title: "The Need For An Artificial Sensory Nervous System For Generative AI"
-    excerpt: "Demand for neural networks and LLMs will snowball in the coming years, and supply will develop to meet requirements."
-    publishedDateTime: 2023-05-23T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-for-an-artificial-sensory-nervous-system-for-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-for-an-artificial-sensory-nervous-system-for-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/23/the-need-for-an-artificial-sensory-nervous-system-for-generative-ai/amp/"
+  - title: "Can The 2024 US Elections Leverage Generative AI?"
+    excerpt: "Let’s discuss the potential of using generative AI in the 2024 US elections and how it can transform political campaigns and decision-making."
+    publishedDateTime: 2023-05-28T01:45:00Z
+    webUrl: "https://www.unite.ai/can-the-2024-us-elections-leverage-generative-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645ba61bd8a7fb17319c02fa/0x0.jpg?format=jpg&crop=3574,2012,x0,y467,safe&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "3 new ways generative AI can help you search"
-    excerpt: "Today, we’re starting to open up access to SGE (Search Generative Experience), one of our first experiments in Search Labs."
-    publishedDateTime: 2023-05-25T15:00:00Z
-    webUrl: "https://blog.google/products/search/search-generative-ai-tips/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 89
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/io23_BlogPostHero_Full_size_RUAz0GV.width-1300.jpg"
-        width: 1300
-        height: 541
-        isCached: true
-  - title: "Red Hat extends OpenShift for the generative AI era"
-    excerpt: "IBM's Red Hat business unit announces the expansion of its AI capabilities with the new Red Hat OpenShift AI technology."
-    publishedDateTime: 2023-05-24T05:19:00Z
-    webUrl: "https://venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/"
-    ampWebUrl: "https://venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/Red-Hat-e1684880569131.jpg?w=1200&strip=all"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Meet Aria: Opera's new built-in generative AI assistant"
-    excerpt: "Aria joins ChatGPT, Facebook Messenger, TikTok, and WhatsApp on the Opera browser sidebar, as the company's own, natively built-in generative AI assistant. The new assistant has access to the internet, so its knowledge is not limited to content before 2021, like the free version of ChatGPT, though the ChatGPT Plus version will differ."
-    publishedDateTime: 2023-05-25T14:49:00Z
-    webUrl: "https://www.zdnet.com/article/meet-aria-operas-new-built-in-generative-ai-assistant/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/meet-aria-operas-new-built-in-generative-ai-assistant/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meet-aria-operas-new-built-in-generative-ai-assistant/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/88280eaa243ed68b15169f1f8e362bcddd6ae1b8/2023/05/25/4f1566bb-6ea0-4367-9b71-4bb0cabb3172/aria-opera.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Snowflake acquires Neeva to add generative AI-based search to Data Cloud"
-    excerpt: "Neeva, which uses large language models to offer an AI-based search experience, is latest company to be picked up in Snowflake's acquisition spree."
-    publishedDateTime: 2023-05-24T21:16:00Z
-    webUrl: "https://www.infoworld.com/article/3697709/snowflake-acquires-neeva-to-add-generative-ai-based-search-to-data-cloud.html"
-    ampWebUrl: "https://www.infoworld.com/article/3697709/snowflake-acquires-neeva-to-add-generative-ai-based-search-to-data-cloud.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3697709/snowflake-acquires-neeva-to-add-generative-ai-based-search-to-data-cloud.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 86
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2020/02/07/15/merger-100830660-large.jpg?auto=webp&quality=85,70"
-        width: 849
-        height: 565
-        isCached: true
-  - title: "Infosys launches Topaz, an AI-first solution to accelerate business value through generative AI"
-    excerpt: "Infosys said organizations could harness the capabilities of cognitive solutions through its Infosys Topaz generative AI offering."
-    publishedDateTime: 2023-05-24T16:55:00Z
-    webUrl: "https://venturebeat.com/ai/infosys-launches-topaz-ai-first-solution-accelerate-business-value-generative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/infosys-launches-topaz-ai-first-solution-accelerate-business-value-generative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/infosys-launches-topaz-ai-first-solution-accelerate-business-value-generative-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_285803778.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Generative AI Systems Aren't Just Open or Closed Source"
-    excerpt: "Conversation around generative AI tends to focus on whether its development is open or closed. It's more responsible to envision releases along a gradient."
-    publishedDateTime: 2023-05-24T11:00:00Z
-    webUrl: "https://www.wired.com/story/generative-ai-systems-arent-just-open-or-closed-source/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/646d173beb3f06fa8140cea2/191:100/w_1280,c_limit/052323-ideas-gradient-ai.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "Where Memory Ends and Generative AI Begins"
-    excerpt: "New photo manipulation tools from Google and Adobe are blurring the lines between real memories and those dreamed up by AI."
-    publishedDateTime: 2023-05-26T10:00:00Z
-    webUrl: "https://www.wired.com/story/where-memory-ends-and-generative-ai-begins/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/646ff414d96882f74caa3dc7/191:100/w_1280,c_limit/Where-Memory-Ends-and-Generative-AI-Begins-Gear-GettyImages-690638821.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "3 ways generative AI is driving innovation in financial services"
-    excerpt: "In some ways, GAI spells more of the same. According to the Bank of England’s research, machine learning, a sub-branch of AI, was last year already being used by 72% of respondents to a financial services survey. While AML and fraud detection ..."
-    publishedDateTime: 2023-05-25T17:09:00Z
-    webUrl: "https://www.finextra.com/the-long-read/692/3-ways-generative-ai-is-driving-innovation-in-financial-services"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
+      name: unite
+      domain: unite.ai
     quality: 39
     images:
-      - url: "https://www.finextra.com/finextra-images/oped/692.jpg"
-        width: 800
-        height: 450
+      - url: "https://www.unite.ai/wp-content/uploads/2023/05/Featured-Blog-Image-Can-The-2024-US-Elections-Leverage-Generative-AI-942x600.jpg"
+        width: 942
+        height: 600
         isCached: true
-  - title: "Snowflake acquires search startup Neeva to leverage generative AI"
-    excerpt: "New Delhi, May 25 (IANS) Cloud data platform provider Snowflake has acquired search startup Neeva to accelerate search in the Data Cloud through generative AI. Neeva has created a unique and transformative search experience that leverages generative AI and ..."
-    publishedDateTime: 2023-05-25T05:47:00Z
-    webUrl: "https://glamsham.com/world/technology/snowflake-acquires-search-startup-neeva-to-leverage-generative-ai"
+  - title: "Pega Announces Pega GenAI to Infuse Generative AI Capabilities in Pega Infinity '23"
+    excerpt: "(NASDAQ: PEGA), the low-code platform provider empowering the world's leading enterprises to Build for Change®, today announced Pega GenAI ™ – a set of 20 new generative AI-powered boosters to be integrated across Pega Infinity ™ '23,"
+    publishedDateTime: 2023-05-23T17:55:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/23/9819294.htm"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 37
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/05/635b94b7ecc224b4d4babeb2ba5a8d5a-3.jpg"
-        width: 647
-        height: 483
-        isCached: true
-  - title: "The Funded: 7 Bay Area companies picked for AWS Generative AI Accelerator"
-    excerpt: "Backed by Amazon Web Services Inc, the not-so-cleverly named Generative AI Accelerator on Wednesday said 21 companies ... Inc. dropped a reported $400 million in 2020 to buy the startup Giphy Inc., the well-known animated image and microvideo database."
-    publishedDateTime: 2023-05-24T21:18:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2023/05/24/the-funded-may-24-generative-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/2082623/Pega_GenAI.jpg"
+        width: 400
+        height: 290
+        isCached: true
+  - title: "Intuit launches lab for employees to experiment with generative AI, will share lessons at VB Transform"
+    excerpt: "Intuit is poised to harness the power of generative AI; its chief data officer is set to speak at VentureBeat's VB Transform 2023."
+    publishedDateTime: 2023-05-25T16:10:00Z
+    webUrl: "https://venturebeat.com/ai/intuit-launches-lab-employees-experiment-generative-ai-will-share-lessons-vb-transform/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 31
+  - title: "Infosys Announces AI-First Offering Topaz To Accelerate Business Value For Global Enterprises"
+    excerpt: "Infosys is taking an AI-first approach to its own transformation, the company said, adding that it is applying Topaz to bring the power of generative AI, analytics and cloud to accelerate its own market offering evolution,"
+    publishedDateTime: 2023-05-23T23:25:00Z
+    webUrl: "https://www.outlookindia.com/business/infosys-announces-ai-first-offering-topaz-to-accelerate-business-value-for-global-enterprises-news-288774"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 28
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Infosys_1665729477.jpg?utm_source=fb"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "GB4oVQ+eoV66EKNTmyBjIdSRuUeyqGsWwAVM4yBCfWkZVPfwlf0lwVsKkgg88DlAC8CkRQ2m43WcvFva2bb3C1rYhGajxSMOCj9FsOvD0q1UvXxVIrRA5UqrmGo2XBb5LOhp++22WDXyp9fNVSIVeMTKDDDcfpkzqmcREJK0YRaYtY5gM1QBkPLXahy9JSsP0dg/BWCRE4RhXoh4NYmGAPhlYKNc+PknyJnhJLxikXI/Go6Xvp/3A+YAx/TL1IhRZAgaXqKY66J7QSUXIBo4D3O5N+2AFA40jRhChwST+D/zObR+LBBIMllOlA7pnQcyQpQ3PSI/8lrdqwowEFspXt0LsmGurvTU7ieDjiALb84EHhJbyxlFALwA+YOwxgrmyISDh5rHz9LzxClEGa7U3b05LiLRAsm6usJtneZlHT5ijfHKqgrOWNoHChDkj3V+2GK1/pWT168j/QSuC11wcvdsI2DK/ih31HvnOFoFPNT9/hgvBwIUFBao5E2YQShje0Wd9XsD5hvrs9idDrHOHg==;XhkEU4YZ/972H1f8+X/JbA=="
 ---

@@ -8,7 +8,7 @@ webUrl: "https://economictimes.indiatimes.com/magazines/panache/in-ai-meta-takes
 ampWebUrl: "https://m.economictimes.com/magazines/panache/in-ai-meta-takes-the-road-less-travelled/amp_articleshow/100556479.cms"
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/in-ai-meta-takes-the-road-less-travelled/amp_articleshow/100556479.cms"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 related:
   - title: "Meta Is Training Its AI on the Bible and Other Religious Texts"

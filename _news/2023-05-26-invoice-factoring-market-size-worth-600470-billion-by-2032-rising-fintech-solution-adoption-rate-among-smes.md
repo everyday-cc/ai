@@ -197,24 +197,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 9
-  - title: "Monty Finance highlights global expansion with innovative fintech solutions at Seamless middle east"
-    excerpt: "With a commitment to innovation and client-centricity, MyMonty offers an empowering digital banking experience coupled with competitive offers and advanced AI-backed features. As a trusted FinTech enabler, MyMonty leverages its extensive expertise and ..."
-    publishedDateTime: 2023-05-23T12:07:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/monty-finance-highlights-global-expansion-with-innovative-fintech-solutions-at-seamless-middle-east-ymgybwqd"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 5
-  - title: "Goldpac pushing boundaries on consumer fintech at Seamless Middle East 2023"
-    excerpt: "Goldpac Fintech exhibiting its latest technologies at Seamless Middle East 2023 (booth A20). Six displays and demonstrations address current payment card issuance needs, from premium card printing finishes and effects,"
-    publishedDateTime: 2023-05-23T12:12:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/23/9818892.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
 
 secured: "Ucw5RSTqnzAwMBNQyGMD9kJKUETWtTxlZNvnMe/dLJXLfUmFeX4p2rJhlrvlKzVQdx/FyCzAcoVE07JHCd+3TrtDQEobmfvCYjy+ramUTdV5GtNLKlHj4xVPJHiYGFnB3gMWXETqySo2X7HQa/4Tcn4XXGW1Ls3HnLreMEVMB2zaVjQEosAGq0YlFjeRpmPT4GlE0i3EkuHLQwELNIRjr10LdVqJHshla0myYZxjbtx0/umnNxUOEd7+8jFjvJjUEG9oQoi0xAl63NrUIaT7gGrf/fHPs7ncnP5pbQYBp0gi2121LdQlGxQQ6YctiFQCC9BUKPi4MzDPdsWtBM/wekdzbXARcB/icarQn20r0zA=;GnhNvsBBbW2zfV8mKKIxnA=="
 ---

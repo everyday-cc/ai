@@ -182,15 +182,6 @@ related:
       name: manilastandard
       domain: manilastandard.net
     quality: 14
-  - title: "Monty Finance highlights global expansion with innovative fintech solutions at Seamless middle east"
-    excerpt: "With a commitment to innovation and client-centricity, MyMonty offers an empowering digital banking experience coupled with competitive offers and advanced AI-backed features. As a trusted FinTech enabler, MyMonty leverages its extensive expertise and ..."
-    publishedDateTime: 2023-05-23T12:07:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/monty-finance-highlights-global-expansion-with-innovative-fintech-solutions-at-seamless-middle-east-ymgybwqd"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 5
   - title: "Invoice Factoring Market Size Worth $6,004.70 Billion By 2032 - Rising Fintech Solution Adoption Rate Among Smes"
     excerpt: "Their economies are fast transitioning from agricultural to manufacturing and export-oriented economies, which has promoted the expansion of invoice factoring in the area. The Asia Pacific region is also home to a significant number of rising economies,"
     publishedDateTime: 2023-05-26T01:12:00Z
@@ -205,15 +196,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "Goldpac pushing boundaries on consumer fintech at Seamless Middle East 2023"
-    excerpt: "Goldpac Fintech exhibiting its latest technologies at Seamless Middle East 2023 (booth A20). Six displays and demonstrations address current payment card issuance needs, from premium card printing finishes and effects,"
-    publishedDateTime: 2023-05-23T12:12:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/23/9818892.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
 
 secured: "SXXO5e8RWCLgnA4RMl1HMAJbMx8uBLwZ5EBcUzVaCWykhjrGs8m+r02BJ0HplPgzrm67j88DudO15dTI84wTX86HgxZIIWfmhct+xc4fU6rZFaqrh5gpo3pjzcP5tjrp59+FKwxkLkfTzRj7DNAi2fuEjQhF9T0iUOt0U58tjyTmsPS3cjTqu/p9nAC/BJc9C9qbh4CuNqxMBwBM9UJzhd77s6iGFBTAFEr6sAgf1Na2xiEzUlUPyKrJI+KC+Tegz3YflQZXwiYbiunmETaKa0pyOLMN/sf0nJCsGRG7yM/Q/5+04tc1H2aMBgBCS8T+LW+ElIHiTltNfgg2eyk/UBG0kinPgsIfELfK1LSPsxM=;/Zjh/VgvJkeuPsEMmUEkaQ=="
 ---

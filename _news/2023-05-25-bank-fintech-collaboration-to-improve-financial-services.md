@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/business/economy/news/bank-fintech-coll
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886?amp"
 type: article
 quality: 59
-heat: 209
+heat: 189
 published: true
 
 provider:
@@ -183,15 +183,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 9
-  - title: "Monty Finance highlights global expansion with innovative fintech solutions at Seamless middle east"
-    excerpt: "With a commitment to innovation and client-centricity, MyMonty offers an empowering digital banking experience coupled with competitive offers and advanced AI-backed features. As a trusted FinTech enabler, MyMonty leverages its extensive expertise and ..."
-    publishedDateTime: 2023-05-23T12:07:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/monty-finance-highlights-global-expansion-with-innovative-fintech-solutions-at-seamless-middle-east-ymgybwqd"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 5
   - title: "Invoice Factoring Market Size Worth $6,004.70 Billion By 2032 - Rising Fintech Solution Adoption Rate Among Smes"
     excerpt: "Their economies are fast transitioning from agricultural to manufacturing and export-oriented economies, which has promoted the expansion of invoice factoring in the area. The Asia Pacific region is also home to a significant number of rising economies,"
     publishedDateTime: 2023-05-26T01:12:00Z
@@ -206,15 +197,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "Goldpac pushing boundaries on consumer fintech at Seamless Middle East 2023"
-    excerpt: "Goldpac Fintech exhibiting its latest technologies at Seamless Middle East 2023 (booth A20). Six displays and demonstrations address current payment card issuance needs, from premium card printing finishes and effects,"
-    publishedDateTime: 2023-05-23T12:12:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/23/9818892.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
 
 secured: "cTNOyMKMPtEwpm59NwAjIgBqr8qw1rXxkYoeiqDaQ77whgfDCHoWsVe7IEG1uNitRYC0kS9IAB1FwKw/5toZFrh7ZW2mcK5/BiAGT/mEzmeQtMgvMWfOPdW39+7usnx1q/x+Ohhj7b1lO+uX132lqn3v32/D7vTofr13Vqblt1jGrv6e1qVgvrsyDresmyhhuP92Aw4/CM3DSefYuN+pJQkZ7VZ1nFon0v8DIH0mLXIFVXOHHDSjE24GjbnSvpLTZdlzeuUnyamy9oTur1fOGvteZGAbGszoZTsfXnhttEXY1baEU+nQ4KjdYhbF2TOO64qHNDqh4YT4eGIuxE1fQ2iNEr3D/F6VJjKmthqbDHc=;tDVmbMhQSUbM7XD4mxE1qQ=="
 ---

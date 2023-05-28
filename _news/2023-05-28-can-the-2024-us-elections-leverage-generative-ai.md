@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/can-the-2024-us-elections-leverage-generative
 webUrl: "https://www.unite.ai/can-the-2024-us-elections-leverage-generative-ai/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,61 @@ images:
     width: 942
     height: 600
     isCached: true
+
+related:
+  - title: "IT services firms leverage generative AI capabilities for clients"
+    excerpt: "Infosys Topaz leverages Infosys applied AI framework to build an AI-first core that empowers people to deliver cognitive solutions that accelerate value-creation."
+    publishedDateTime: 2023-05-24T06:08:00Z
+    webUrl: "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/5/15/w600X390/Artificial_Intelligence.png"
+        width: 600
+        height: 390
+        isCached: true
+  - title: "Pega Announces Pega GenAI to Infuse Generative AI Capabilities in Pega Infinity '23"
+    excerpt: "(NASDAQ: PEGA), the low-code platform provider empowering the world's leading enterprises to Build for Change®, today announced Pega GenAI ™ – a set of 20 new generative AI-powered boosters to be integrated across Pega Infinity ™ '23,"
+    publishedDateTime: 2023-05-23T17:55:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/23/9819294.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/2082623/Pega_GenAI.jpg"
+        width: 400
+        height: 290
+        isCached: true
+  - title: "Intuit launches lab for employees to experiment with generative AI, will share lessons at VB Transform"
+    excerpt: "Intuit is poised to harness the power of generative AI; its chief data officer is set to speak at VentureBeat's VB Transform 2023."
+    publishedDateTime: 2023-05-25T16:10:00Z
+    webUrl: "https://venturebeat.com/ai/intuit-launches-lab-employees-experiment-generative-ai-will-share-lessons-vb-transform/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 31
+  - title: "Infosys Announces AI-First Offering Topaz To Accelerate Business Value For Global Enterprises"
+    excerpt: "Infosys is taking an AI-first approach to its own transformation, the company said, adding that it is applying Topaz to bring the power of generative AI, analytics and cloud to accelerate its own market offering evolution,"
+    publishedDateTime: 2023-05-23T23:25:00Z
+    webUrl: "https://www.outlookindia.com/business/infosys-announces-ai-first-offering-topaz-to-accelerate-business-value-for-global-enterprises-news-288774"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 28
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Infosys_1665729477.jpg?utm_source=fb"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Kkhc/sPcgsEluy1Wp79gM4rw6MB+Qr5A56UNxw+t5U/PVOEv4XynQUy0sMsx/K+s2dmzKzQWuZY3u9ikQm6yDq55gYdJ5eFpO3tWoreXyDLk1KCC/SCpFV301ZqmE5/NQa0EpPA2gcgWsNI7X/T4wZJ1EYQseiiUlinB+epbcHLmi++TNwKmkioiyqJgjQ4bY02lSVTSYTMcOiMU8Bk8KATK8pDwlzLbCb1OZRKYRrPDRahVlfW9yKB4TM9/qDDeFL5cgyp+9cCRgqxl5pgp57ZUO09MVk0sbpksu91Xt/x1T/WQ8m7UNtnO1PAbYpyNlYyscrSKlaut3YuTJskV/9feOCQsnN7cS9k+H078R8QkXx1xJIDx8zN1T0ba1hYaXu5ULv8BwGjNdr8m5l5fsGetU+NBM5U8idwJ4wNaDCmuKpjQHMvmsMnHvMyCIukCckhB0SyhhyuGarPUtB5D9pPAdaPFERKeC7RnVdBG5HpZGlFEpMdJXpNFZ9NtvaEgeYmqQ++xk5s6GZ+exLXOWA==;gmqh/7uPZ1KQ9Z9/qVMb0w=="
 ---

@@ -147,20 +147,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 67
-  - title: "Meta's ChatGPT rival could make language barriers a thing of the past"
-    excerpt: "This move suggests the company is deeply invested in dominating the AI language translation space, but also encourages collaboration in the field. Normally, speech recognition and text-to-speech AI programs need extensive training on a large number of ..."
-    publishedDateTime: 2023-05-23T11:15:00Z
-    webUrl: "https://www.techradar.com/news/metas-chatgpt-rival-could-make-language-barriers-a-thing-of-the-past"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/iQWK76oepRkaWM2CCpqgVV-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Amazon's answer to ChatGPT seen as incomplete"
     excerpt: "Amazon.com Inc.'s cloud customers are clamoring to get their hands on the ChatGPT-style technology the company unveiled six weeks ago. But instead of being allowed to test it, many are being told to sit tight,"
     publishedDateTime: 2023-05-25T20:19:00Z

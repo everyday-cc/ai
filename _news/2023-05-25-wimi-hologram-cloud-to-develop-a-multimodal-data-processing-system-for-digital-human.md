@@ -7,7 +7,7 @@ originalUrl: "https://www.asiaone.com/business/wimi-hologram-cloud-develop-multi
 webUrl: "https://www.asiaone.com/business/wimi-hologram-cloud-develop-multimodal-data-processing-system-digital-human"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -23,26 +23,6 @@ images:
     width: 600
     height: 316
     isCached: true
-
-related:
-  - title: "WiMi Hologram Cloud Develops A Human-Robot Interaction System Based on Machine Learning Algorithms"
-    excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider,"
-    publishedDateTime: 2023-05-23T12:01:00Z
-    webUrl: "https://www.asiaone.com/business/wimi-hologram-cloud-develops-human-robot-interaction-system-based-machine-learning"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 24
-  - title: "WiMi Develops A Deep CNN-Based 3D Image Reconstruction Algorithm System"
-    excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced the development of a deep convolutional neural network-based 3D image reconstruction algorithm system."
-    publishedDateTime: 2023-05-26T14:12:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/26/9821853.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "S4NPo4Psl2pL5nWQB9+QwXBirLOuzJy0TzE0IBAUtNXZ7OWIKge52ssu2RJy7Zykl1i9uv2wHoes8TLB6PuJ7fDSEID3jk38ip1jru8Htvvbm5Of4WLMfUQqxeZBhoATlZwaxh+6nTWsdweJV+G7Az9/PdJe8bEp+TBQb4qq64hpSfINGdPgV3uVxG+qUVja96ypnWApp2bvfLS/6e9TDTv9CSC89OuPYxHcJ6JD0niUd258d2qr/e8G+cJ1n2nPhkDH4/GLMNoFshlHjqVc3kHCH3PuS61jZJRnk7cW5nI82IekOVCjlDLc3Q9Rdh7bJ2Zav2gifukenkOEoiBAci8UtU40q6PjW3dS6cDak4M=;VrUCjDg93L4+RjIpbtTdfg=="
 ---

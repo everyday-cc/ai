@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/vb-transform-navigating-the-generative-
 webUrl: "https://venturebeat.com/ai/vb-transform-navigating-the-generative-ai-wave-insights-from-top-executives-at-major-corporations/"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 750
     height: 500
     isCached: true
-
-related:
-  - title: "Intuit launches lab for employees to experiment with generative AI, will share lessons at VB Transform"
-    excerpt: "Intuit is poised to harness the power of generative AI; its chief data officer is set to speak at VentureBeat's VB Transform 2023."
-    publishedDateTime: 2023-05-25T16:10:00Z
-    webUrl: "https://venturebeat.com/ai/intuit-launches-lab-employees-experiment-generative-ai-will-share-lessons-vb-transform/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 31
 
 secured: "XQqQGh5KLVDu1WpqDH4PCSQXumMSnVia7duavejoM1KAoUghmj6CFGEiGHppm3k9TfUDMI1A/wwAz9XzEwaeJGrYOooYXuWVn1GWJQSRgZIdmAE1XPAUXrcPP6dJUS9HcaW8i7l9lPFFQcwKnaWdyO7Z0iabb1SZ73qB8S9bG/a7OhYDps1FiXSINOAp96cPODpnH6qjlJ1SrmDDa6NCmTpov/o1r6/INCJvKYvFm0yhGcgdviGrhaoxmg2qsbG5ME6+1KJ5GaofGuFA/MdHl1zjIfaqe+ncdSVS3NMi45z5WUtf1jqWeTFXxhoeLPfr9EYebCeaGsHCyyeLySYmfqNwj/4iQ4sOw9NY/TBKu2PKHOcer5BviRYoFygHczCEP7hW/xMHEJQBgcdNlC8YMElOaw8dx4qXFcts1te68vlo2AeXq8HPziCDH9wLZF93yYREtwKsbNbzaowMEt2T7vlAcK2L43S2LyYANV8a0dfJcC4kccHeVvoMEwY1MvePlNUmdmB97MzdUaIQmhlybg==;508Pc+kfoW4OVqPCyPHr/g=="
 ---

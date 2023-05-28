@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/katherinehamilton/2023/05/23/self-drivi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katherinehamilton/2023/05/23/self-driving-ubers-coming-soon-waymo-partnership-could-start-this-year/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -123,15 +123,6 @@ related:
       name: AZ Central
       domain: azcentral.com
     quality: 8
-  - title: "Waymo, Uber set aside past rift over self-driving car technology to team up on robotaxis in Phoenix"
-    excerpt: "Self-driving car pioneer Waymo is teaming up with ride-hailing leader Uber in the Phoenix area to transport passengers and deliver food in robotic cars that triggered a bitter technological dispute be"
-    publishedDateTime: 2023-05-23T12:23:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/waymo-uber-set-aside-past-rift-driving-car-99534972"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 5
   - title: "Waymo, Uber set aside past rift over self-driving car technology to team up on robotaxis in Phoenix"
     excerpt: "- Phoenix Mayor Kate Gallego arrives in a Waymo self-driving vehicle on Dec. 16, 2022, at the Sky Harbor International Airport Sky Train facility in Phoenix. Self-driving car"
     publishedDateTime: 2023-05-23T17:05:00Z

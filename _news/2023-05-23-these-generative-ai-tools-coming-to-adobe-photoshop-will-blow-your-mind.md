@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/these-generative-ai-tools-c
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind-what-you-should-now/"
 type: article
 quality: 89
-heat: 189
+heat: 169
 published: true
 
 provider:
@@ -139,24 +139,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Amid AI Generated Hoax, Adobe Introduces Firefly in Photoshop"
-    excerpt: "Software giant Adobe has introduced Generative Fill in Photoshop, a feature which brings generative AI powered Firefly directly into the hands of designers."
-    publishedDateTime: 2023-05-23T12:46:00Z
-    webUrl: "https://analyticsindiamag.com/amid-ai-generated-hoax-adobe-introduces-firefly-in-photoshop/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
-  - title: "Adobe launches Generative Fill to boost generative AI efforts"
-    excerpt: "Generative AI tools can be supportive, helping a wide range of people reach their goals in various creative efforts. Adobe certainly hopes that is the case, as it introduces a brand new tool to bolster its artificial intelligence efforts."
-    publishedDateTime: 2023-05-23T11:40:00Z
-    webUrl: "https://appleinsider.com/articles/23/05/23/adobe-launches-generative-fill-to-boost-generative-ai-efforts"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 17
 
 secured: "ZFJpdHGJc25KZG1H6CkVZSFy9XzYiAU42RtY89Ag7xGS/ELR8gLl5o/qxYK9O4PUVHP7cprsyG0OLdbtsiju68YSujBtrVXJjtQSIko3zfqlBph9RLkHtIB2SPEPuDJ/xISgbF1f3It6x5CK7R0Fq/iF8DWayAgaRHrgGIFO/p1/Qcy5IWMUCQnrcvQY30jTqJlnJ7nHJ4+bFOPq9pfKYzgNk1RdQiGym0C6/xY4I+mJh8A2wYn2ePhXxaCoh4pKkt2pfwYRx0BhiVzEUJmqdPKSURgFWoH08XkSlqFNW8VGANK9vxnUkTboeQiHgFj03sDLSybYeknE11xQgjpQpouqiEbydBshoLJ7tIs25D+xHNUQNUltYPWADQyPa/4PSpRyOY+IHuQUh+7tsTCk25Qs5cL2AJSqO3D4azXrr30itYj5ioLYxSlO6yETNNZHxQVw2eJomdBv4EP6h2wRG1Q58oEWvrPv9rB7R3BnD7iCUMjIeorXrOGVd327AtKGK7NUeSRLmShwLazfRI+Mzw==;Kq6pbK3I3FTf3riUP80xLg=="
 ---

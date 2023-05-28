@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/generative-ai-poised-to-reshape-workpla
 webUrl: "https://venturebeat.com/ai/generative-ai-poised-to-reshape-workplace-efficiency-revolutionize-jobs-kpmg-study/"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: VentureBeat
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 688
     isCached: true
-
-related:
-  - title: "Artificial intelligence revolutionizes medicine"
-    excerpt: "OUR first fascination with AI (Artificial Intelligence) was seeing how they moved in sci-fiction movies like “The Terminator” and “Matrix.” Another later movie was “Chappie,” which is about a “RoboCop” droid hijacked by the bad guys and utilized to fight the good RoboCops,"
-    publishedDateTime: 2023-05-23T12:34:00Z
-    webUrl: "https://businessmirror.com.ph/2023/05/23/artificial-intelligence-revolutionizes-medicine/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 21
 
 secured: "ZA7MQbBT4z+HaLzEH9sZdDC3tetZZr3w6eGf7vVz8B4HnhtJZcRK9MdODroaf82I0eJ4JlN5fXS9f6BMceK9TG6UuE/SdkNxbHsFyhjTS5PHDXUKqZP+vM0PQN9leOLn2aOWQqCiVDUfCgIbdiPahLrgAOBbO+ohcNqVowQTEFJTXz924HsjltC003fDJUAk3qNglQDTtdEDGJNWox59rnh3rkteY5xOCogG1vuUUKSUd2lcon3kCtFQXcF2+zJ6ns8DiH0ho7G+wQMZ+Uf4bCBrtPCmdXq5XgyfSqwnCN7Vx87bHGjTk4rrztF8pTsO3xDkkzOZsniCe+7jdgFhkZ1HPTmqtmiVv8Y42mbXi7j3blJdYiMDkw9U8nrK55Q4znnAj4pVYbS894t/GKgNM131nJc+tLrIAImwfxNerK7GKGlCEizsEBKZVj82+3uq4OiUKYwaI4jakCg3PrmDzvrl7OkDMt6mG+aO3IZYhhzbQG4YB7BeyHPcXnN3mixid4zc7rRk/l7NZ6eGx4pBrg==;hyLOA1Auj4L/KgNHoIw9RA=="
 ---

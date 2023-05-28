@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-changing-automation-testing-in-quality-assurance/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://media.nbcnewyork.com/2023/05/ai_home_v2.jpg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "3 ways generative AI is driving innovation in financial services"
+    excerpt: "In some ways, GAI spells more of the same. According to the Bank of England’s research, machine learning, a sub-branch of AI, was last year already being used by 72% of respondents to a financial services survey. While AML and fraud detection ..."
+    publishedDateTime: 2023-05-25T17:09:00Z
+    webUrl: "https://www.finextra.com/the-long-read/692/3-ways-generative-ai-is-driving-innovation-in-financial-services"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/692.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Investing in AI — hype and hope"
     excerpt: "Today, Nvidia is valued at $773bn and has sales of around $27bn. In other words, the company is priced at nearly 29 times sales. Those sales could grow rapidly with AI, but even if the company maintains its current margins forever, by my maths it would need to increase sales by around eightfold to justify the current share price."
