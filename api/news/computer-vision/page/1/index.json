@@ -45,36 +45,36 @@
       ]
     },
     {
-      "path": "_news/2023-05-25-edge-ai-and-vision-alliance-announces-2023-vision-tank-start-up-competition-winners.md",
-      "title": "Edge AI and Vision Alliance™ Announces 2023 Vision Tank Start-Up Competition Winners",
-      "excerpt": "ProHawk Technology Group and GMAC Intelligence Recognized for Innovation and Excellence in Perceptual AI and Computer Vision SANTA CLARA, Calif., May 24, 2023 /PRNewswire/ -- The Edge AI and Vision Al",
+      "path": "_news/2023-05-24-3-principles-biometric-vendors-should-embrace-to-promote-trust-in-facial-recognition-technology.md",
+      "title": "3 principles biometric vendors should embrace to promote trust in facial recognition technology",
+      "excerpt": "Here's how vendors can contribute to more responsible and ethical use of facial recognition and other biometric tech and ensure privacy.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/n32566145/edge-ai-and-vision-alliance-announces-2023-vision-tank-start-up-competition-winners",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/n32566145/edge-ai-and-vision-alliance-announces-2023-vision-tank-start-up-competition-winners",
+      "webUrl": "https://venturebeat.com/security/3-principles-biometric-vendors-should-embrace-to-promote-trust-in-facial-recognition-technology/",
+      "originalUrl": "https://venturebeat.com/security/3-principles-biometric-vendors-should-embrace-to-promote-trust-in-facial-recognition-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32566145",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32566145",
-      "publishedDateTime": "2023-05-24T18:56:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T15:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -83,8 +83,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Computer Vision"
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -179,15 +179,15 @@
       "title": "TSA testing facial recognition at more airports, raising privacy concerns",
       "excerpt": "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes",
       "sourceUrl": null,
-      "webUrl": "https://madison.com/news/nation-world/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_6498b42f-bf2c-56ea-817e-29f02d5f6c3e.html",
-      "originalUrl": "https://madison.com/news/nation-world/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_6498b42f-bf2c-56ea-817e-29f02d5f6c3e.html",
+      "webUrl": "https://omaha.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_afb8746e-ea8a-551c-bb05-26bfc9b02f28.html",
+      "originalUrl": "https://omaha.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_afb8746e-ea8a-551c-bb05-26bfc9b02f28.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/d/88/d884cebc-3d39-556e-b721-800393e4200d/64642a1473d46.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/78/d7899d8f-cf01-52ab-acbe-16fe1f61c88c/64642a155739f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -202,8 +202,8 @@
       "publishedDateTime": "2023-05-20T17:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Madison.com",
-        "domain": "madison.com",
+        "name": "Omaha.com",
+        "domain": "omaha.com",
         "images": null,
         "publishers": null,
         "authors": null

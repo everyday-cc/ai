@@ -25,22 +25,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Google Adds Guardrails to Keep AI in Check"
-    excerpt: "Companies are starting to address AI misuse. At Google I/O, for example, executives promised its AI has safety measures."
-    publishedDateTime: 2023-05-24T01:52:00Z
-    webUrl: "https://www.darkreading.com/dr-tech/google-adds-guardrails-to-keep-ai-in-check"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt50ecfd28fe4daaeb/646d6d626e77473b32309588/guardrail-Imaginechina_Limited-alamy.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-
 secured: "bj2K3trbr93T/oeuvkabFGHrfuoUA8EwIEqI0tgEF40e6n5EKkJznpVYKXki93o+RHdl4VfItlTqQDtbSEK4efkHk2xhR0LrlUsya+HjSNqUW2bsNURkSimZuCJlQq6H0VsMFpLtinRWo6yO43gaU951wKIdPOqFXmD3mPbNhsqzp3h36VSU25GdmcQC07I7ULpxX0nnvqPhU9VD5WDy6Ow/Ny7AZPGUEdRMsBMbmi1NzM7SamqV6N6V8o60DlK+Xm3tbjfcbjFDDHyDr/G/jX0rbUAVLW2Hp10R31x/Em0IZc3KbZEpLYndN7TyVmXsVAMJli38SuDhHpucw+phEkP7zJCO491nNm+l9eAwuHeLtEovxYfu6t9+JtHIDn19+mhIuQXxskrMoqyy/wfYWVp/ap/n6/7RkLdRdnA5bVrg2xVPvT/sS2yBzjaLbil+V1JVY0V95bd2tI2EVEVlbbMxirywxLwThAJ86y9FWxi4myr4kYLjnBdbmYdWy2SOeUvdIrKqLDmmR6NXbBjIpQ==;Qtj1IRgucDzaW8Y7ySpCdA=="
 ---
 

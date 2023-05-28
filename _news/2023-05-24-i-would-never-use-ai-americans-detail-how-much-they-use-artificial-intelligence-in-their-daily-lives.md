@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/never-use-ai-americans-detail-much-use-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives.amp"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT: Most Americans Know About It, But Few Actually Use the AI Chatbot"
+    excerpt: "Though 58% of Americans are familiar with ChatGPT, just 14% have actually tried it, a Pew Research Center survey finds."
+    publishedDateTime: 2023-05-27T14:10:00Z
+    webUrl: "https://www.pcmag.com/news/few-americans-have-actually-tried-chatgpt-despite-most-knowing-about-it"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 45
   - title: "Opus Secures $6.8M Series A funding towards AI-powered Training Technology for the Deskless Workforce of 110 Million Americans"
     excerpt: "Opus, a training platform for businesses with a deskless workforce, today announced the close of a $6.8 million Series A funding round led by Stage 2 Capital. Existing investors including Gutter Capital,"
     publishedDateTime: 2023-05-24T15:32:00Z

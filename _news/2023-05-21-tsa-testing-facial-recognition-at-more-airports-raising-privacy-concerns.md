@@ -3,24 +3,24 @@ category: news
 title: "TSA testing facial recognition at more airports, raising privacy concerns"
 excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"
 publishedDateTime: 2023-05-21T00:30:00Z
-originalUrl: "https://madison.com/news/nation-world/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_6498b42f-bf2c-56ea-817e-29f02d5f6c3e.html"
-webUrl: "https://madison.com/news/nation-world/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_6498b42f-bf2c-56ea-817e-29f02d5f6c3e.html"
+originalUrl: "https://omaha.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_afb8746e-ea8a-551c-bb05-26bfc9b02f28.html"
+webUrl: "https://omaha.com/news/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_afb8746e-ea8a-551c-bb05-26bfc9b02f28.html"
 type: article
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/d/88/d884cebc-3d39-556e-b721-800393e4200d/64642a1473d46.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/78/d7899d8f-cf01-52ab-acbe-16fe1f61c88c/64642a155739f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-secured: "PtWoqwk0VWD5zNPXl1kBTXg3/szNvNQstCqTMpZbgq9OjJdx1uFXQUHCr5CUnbhMx5hIiY51lWoU2V3LA/xYgSTW/qRMRaEs0th8N8TW+1x81ojWIZYCu3iNQcumHhgFMkKy2MHES8F5lRHaxZlW3/n4PZq12NM+7WQjTLkjp8iSJyXxpel86cn1pOnKfdo7nxY6BOFgwrY10PwhesAjMVbsaZ2oBr64pqMeGeAfrnVz8V+NIjDnZk+Ev2OVV/ezkfgVP0f5jIDybm0iqyO4Or6wTPuAAOgZWIjhmI/aCeogtAOdSeY1rSfWF01tUYxqvJCsXQbN5g+Y7NPyhpymfC8wQXDJ+ID8KYffSQxRulYKDY+s+Adm1nmCQjfMNaOOvyf43wuJXS71ONOcpGQmQEjk/lh9yT3hcCRnyc7+xZMV3xfEaSWWgoSy6y7E8qByMvPGWBjM1ce4VGuYJRqO0OH9q93u3sUAD/wHLcJv0DCx/OLrek8/2uUC8TODk0047lXu/xHFt9ceudct5DtzPw==;A9+52uTEERn5A2Beg93lOg=="
+secured: "cVFQKKVzzB1V3hhUBJ5fWud4oH2DVetszrEgXu7ZVvDVvkBdehcLcU01MvH6D4oK8PxMTAxIcQj/0MUv7Qg00iHEuORl1rkWPvVU0SYooAK0vWboNV/BklqbIwhwnevRR6bzTvBnOzjfMicPP1SaS/pJ/b3bifjNxvxJn4/h4A+PVqGNKba4dYIQPcVKkwFM6Cy5ke8DvMv63nYAGS3MZ2bkkXFY24Gu8EUlzYh5CZuIw6zyWeFAdny2S4jRerdv0uqL979Amt6pwoq8zcAR1rGSY4/FMEWhoIXLNywqYspNFIQaUhuiknIIH8HP3PPWGHY1sa+SDOeXFQiP9UZMjGcoAphb+xkz1bwCFYQUGMU=;02X0Bi2Qby9DFHIeYeYsgg=="
 ---
 

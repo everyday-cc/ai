@@ -29,6 +29,22 @@ images:
     height: 372
     isCached: true
 
+related:
+  - title: "16 Jobs That Will Disappear in the Future Due to AI"
+    excerpt: "In this article, we will take a look at the 16 jobs that will disappear in the future due to AI. To see more such jobs, go directly to 5 Jobs That Will Disappear in the Future Due to AI. By now you must have heard or read about how AI-powered bots are coming for millions of jobs."
+    publishedDateTime: 2023-05-28T16:43:00Z
+    webUrl: "https://www.insidermonkey.com/blog/16-jobs-that-will-disappear-in-the-future-due-to-ai-1155140/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 39
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/05/28122331/arno-senoner-IvnWhkmpKvk-unsplash.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+
 secured: "hMqB0ti31n2cUSAj8WQSlppCw37uOaL3G8i5hUAw6vV9QXX3FtFoFzidAkOViFGa7zpdwww9gGaSO/081OD9SEX+Wb9YQ95eZIm/RiJXd5N5IXkY7OsjhQwORXbL+wg+ua77Fa0J2AMFCFSRq366O35cAAYl6quq3kCF9h1YG2LUFXgF8Ag9/fmoUuQUWb5bIx5ddn3awEPjrjZekbkfnsDS7TwoAkNoWUogV00NcgvyCQDU0mz9zovtNRT+pz52ZWD4n8otGn1rCe0c+NcPreoeiY1RJkCc4LoWYqammAPnKehS865kYYhZlJ2+xXyiheydxko91lngaRcARAnoyplIM7HJVTGZOLU8ojtvhvOp/KeMlLeFgywqSJe2x12XhtLB+0j0wW+33Q53JrjYMpTy4AjsDOnvDELjLqKvkuqNE9Z0V/b0KFWv5P+1tPCgcHrEh5WQgdzcbZd6bzNV34rtvaxiohDMKcSB9iamzZ33Cces1JCH5/lZxJPZEuXt4MAEUf4BwIzO0jYLGOSfRA==;LXNEj6wytPoa0jAtIJTw3w=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2023/05/24/microsoft-unifies-data-managem
 webUrl: "https://www.datanami.com/2023/05/24/microsoft-unifies-data-management-analytics-and-ml-into-fabric/"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
         width: 420
         height: 300
         isCached: true
-  - title: "Content Analytics Discovery and Cognitive Software Market to Hit US$ 18,237.3 Million by 2032 | Says FMI"
-    excerpt: "The worldwide content analytics discovery and cognitive software market is expected to arrive at a valuation of US$ 4,238.3 Million of every 2022. The expanding utilization man-made intelligence in a large number of uses is projected to be the market’s essential development drivers."
-    publishedDateTime: 2023-05-24T03:11:00Z
-    webUrl: "https://www.fmiblog.com/2023/05/24/content-analytics-discovery-and-cognitive-software-market-to-hit-us-18237-3-million-by-2032-says-fmi/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
 
 secured: "1JasGs8gNKp8XKyzaypTHP+vwQ7iEGkeTnvcucxKd+jV3VOmh+2J35yffGSFA/vIAfkyZqQRP5F+LwraEEPxvES54jPg3jTHKbByRAR992ZCEscD6VXRhpYUzvQeiHObDna8ws3C+CdNKGEvfwhlWSCEfHewqGby+P4vuHcekv+MX9unt/OyakyepKcTPJTh08myED2DQEbG2wuLO9qZQqfHDbb054nZw90BDmQxK/xvpTNOgvil//OUBumHbnyAtnCkoPDlbU9PM4bhPf2hdxpToVep/1oKXrzFzn7YIYlLxXKV69r8k9QcAC0Wp2Tbxb+XFYDQfcoq4TZj41mM3IDxTI28XhBrHWQXgOHY2n2XgT0Drq3lDp/P3B9uBA9iEJb8hUW3Bj0P48QV6Llb5VWURbQ9f8UIJ9/sfUvp/yIj8hFEWcsQ1CHMcl9kXQPOSs61baIKyEu8RR9zYJccKznOw+m26n4bFb9atafnLK0zaIlitn7Lv9Ck4Z3kr+VzTBeqIyr9DitgceuaryPAAg==;MjMzf1WZ5mlcGtkSb3uzig=="
 ---

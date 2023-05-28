@@ -44,19 +44,21 @@ related:
         width: 2560
         height: 1280
         isCached: true
-  - title: "Introducing CHAT, the World’s First Generative AI ETF"
-    excerpt: "An old adage says to make hay while the sun is shining, and with interest in generative AI surging thanks to the likes of OpenAI’s ChatGPT and"
-    publishedDateTime: 2023-05-24T02:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/introducing-chat-the-world-s-first-generative-ai-etf-1032346873"
+  - title: "Google starts opening up access to its new generative AI capabilities in Search"
+    excerpt: "Google announced today that it's starting to open up access to new generative AI capabilities in Search after teasing them at I/O."
+    publishedDateTime: 2023-05-25T20:52:00Z
+    webUrl: "https://techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/"
+    ampWebUrl: "https://techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
     images:
-      - url: "https://blog.tipranks.com/wp-content/uploads/2023/05/image-677-1024x548.png?utm_source=markets.businessinsider.com&utm_medium=referral"
-        width: 1024
-        height: 548
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/google-search-labs-open.png?resize=1200,796"
+        width: 1200
+        height: 796
         isCached: true
 
 secured: "1VRxmEjmlfTzUNdTuBRRes67CHW0M9r/TL8vHCMo0zP3NE2lR/kJjzXS+/WvqpZJbgdPr7nL6U/tsZ5z5uSOGBlFsjUxdvw+/2ciu28TZWVZ9wwAAwC6TyzFCRlbHQLcHoeKbmCFgDcTLrmgm8aAEElRsbjk1cl8/BVEkLsPu1E8WRMtQXVJTBDaYzB7Rfjovo2/+Ddg2fkpfthotm8RuXUHWntA5OabCzwPBvO1LNem1rRRH+Wgw2MHFfRPA5s0wwKOKrUeEjCtzuzuGEiKh+WX+mFy6UDzt86zmRIImIoirrDWiCdq7wLWP32eOLlNxvsHlMB5FSAhP5dEEmBW7raEG28icaGq4/yIwcNH97Y=;I0htclr3+0s9b4meQBw49Q=="

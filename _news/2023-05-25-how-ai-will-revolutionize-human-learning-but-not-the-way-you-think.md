@@ -46,6 +46,20 @@ related:
       name: NTV
       domain: ntv.co.ug
     quality: 49
+  - title: "AI learning how to push our buttons"
+    excerpt: "Artificial intelligence (AI) is magnifying exponentially the fear, anger and hate that social media has already weaponised, journalist and Nobel laureate Maria Ressa (pic) has warned."
+    publishedDateTime: 2023-05-28T21:39:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2023/05/29/ai-learning-how-to-push-our-buttons"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/29/2097703.jpg"
+        width: 1240
+        height: 849
+        isCached: true
 
 secured: "GDsHIpSch6nTi5od6COTvygMSjoiTSPWrmymoI/z9/CCs//9uDiQZ2B+sT37VeJOdnAlKRhN8rLChSy0a+gpt7UGm5zTl4CzBNwlbN5hpdWAxbQidRlIF9zDB7wRAEw3mKx3W36gA7XwUdxNMHm+qIXjU6ZGf/OnnWR+bD+bVHiMH45G7cM1XfZ5mP+y+idQ4hFJRJh5mXDFctIlSSDqvl5gs2KVDPVbEHMzaHx6QJaG3q21uVcG96zp7OFL0PaUu9RCesJFd6O/8aEKc6eBdpBDZr/aSdx618d1Y2ZqB3Iwz0k37uTD8l7FiPtIj45VI2Omr+MkTMgJpKEzLp6FVsvA4Rxq/q8h84lxzLPZD5yYpwR/5kFrDpJ9usYLv1nHsIxMfFlsQP0qhtv7wT6fP9sxMLKNwXL6KGfLZQh43NLL1pjqduHFqZ0TjHgWfNrQrzgAEVtAVxPtIVjz/jYly4vep3Sn11q7gldBoqSmrzChfYSj6+6tf+wTfW2RmxegRWgr2lym5Q6zJDNRJNtQEQ==;0m9mEzL/I19MntKUxrlhFg=="
 ---

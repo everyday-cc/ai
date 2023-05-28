@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/corpcounsel/2023/05/25/how-ai-and-machine-lear
 webUrl: "https://www.law.com/corpcounsel/2023/05/25/how-ai-and-machine-learning-will-transform-your-legal-department/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       name: NTV
       domain: ntv.co.ug
     quality: 49
+  - title: "AI learning how to push our buttons"
+    excerpt: "Artificial intelligence (AI) is magnifying exponentially the fear, anger and hate that social media has already weaponised, journalist and Nobel laureate Maria Ressa (pic) has warned."
+    publishedDateTime: 2023-05-28T21:39:00Z
+    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2023/05/29/ai-learning-how-to-push-our-buttons"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/29/2097703.jpg"
+        width: 1240
+        height: 849
+        isCached: true
 
 secured: "sun27bBbEzwEqoMsflwIetjZVX+ol4VWAU4UYZNbb0fp64JR0037/cImIdiduKkNKknePUI5Z6zSKQHYimaZNDkhjAK3+7uaA908fmi+RM/Tp6wYK09H8pP+AiBV3kRDQkO1gcGXRK1VDPIj9uG/Cu4bb9T5lpsg+fZIyKcfE8MWnSe4Udyrphd8Vh/BNSb0Qx/ELMMmeRbFsVCDzzwGgECaa2mlD4NIcEf6Umf0Mo3VAxqRVvLevcJNbfL+/IHPoFTvSao9vx5dRv/Ks+v8U64z0rTrLsKhhl25VIeUoQrXGUPucJlfBSjlzNlP8EWqnXdXGpIGtJL0TzU83XKiLjWVkJt6X5Eab4QQtXahR3E=;UXlmFIR/bYMjX0jgpgGATA=="
 ---

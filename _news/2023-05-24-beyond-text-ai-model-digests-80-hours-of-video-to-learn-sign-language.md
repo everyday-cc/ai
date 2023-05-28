@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/technology/sign-to-text-ai-improves-accessibi
 webUrl: "https://newatlas.com/technology/sign-to-text-ai-improves-accessibility-deaf/"
 type: article
 quality: 69
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why learn languages in AI Age?"
+    excerpt: "AI might save students time, but it should not replace language learning. Instead, the technology could amplify learning, and it might also enhance our humanity. Language makes us unique from other animals."
+    publishedDateTime: 2023-05-27T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2023/05/28/2003800537"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Researchers develop AI tool to improve accessibility to technology for people who rely on sign language"
     excerpt: "Centro Nacional de Supercomputación (BSC-CNS) and the Universitat Politècnica de Catalunya (UPC) have developed a tool for research into automatic sign language translation that uses artificial intelligence to break down some of the communication barriers commonly faced by deaf people and those that are hard of hearing."
     publishedDateTime: 2023-05-24T16:34:00Z

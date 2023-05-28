@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thenews.com.pk/amp/1073568-uber-announces-deal-with-waym
 cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1073568-uber-announces-deal-with-waymo"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The News International
@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Uber teams up with Google’s Waymo on self-driving cars"
+    excerpt: "Ride-hailing service Uber signed a deal with Google sister company Waymo to offer the tech giant’s self-driving cars through the ride hailing app, potentially setting up a major alliance between ..."
+    publishedDateTime: 2023-05-25T00:13:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/05/23/uber-waymo-self-driving-cars/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 19
 
 secured: "Ze9OhRVwH4/33iJtT/IZGgPSIyvdF+DzQRv/ldgdq3nxG9Na+40pq1fhl2fxXzzqZtsW4v7B8vIZB0rLAnOeo6V5BHzBtVjcttH0tdn8d+bbozJN1yMlCPP2M9HEd4VTPjvkRRbXgTzt+k06qLiytpUmwvxXkrB3asKAQKlRNB5D3ejCHO12U8dA6A2hpKmi3S07AItbJxvdkvklOxrq9dzTdbOacgKtfoWaG+9xH3OPR03SFY/7/FkSKiBMFggLM2tU88TtPtFXD5UBi7+pk1h0R9B/1ByGylEhVZW5OMGocX9zgXTuRMbre84kf8B+cO9wPat9dKDn7cpnKYuPMzQUAzENamx+Feh9sHg/SRxtJ9PLIrQ06qZJdjkD6M4LOlxfgKmXkPs+STayB7MDsugLMYTlLIhJxbGkewhdRRC2CdFhQCmlRQuysw6ZUzBajK98mSKBnfGGekiwwdZixwiENRC0nSab/QBtEU9jb1AJz2n98USIVkCmQOfLewjzJ84m+0dhRR/lTVu0bZbM3A==;I6gKbwV68uJXg5KCGcRGcQ=="
 ---

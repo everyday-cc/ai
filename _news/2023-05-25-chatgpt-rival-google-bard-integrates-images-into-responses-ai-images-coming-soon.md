@@ -47,19 +47,12 @@ related:
   - title: "ChatGPT: US lawyer admits using AI for case research"
     excerpt: "A New York lawyer is facing a court hearing of his own after his firm used AI tool ChatGPT for legal research. A judge said the court was faced with an \"unprecedented circumstance\" after a filing was found to reference example legal cases that did not exist."
     publishedDateTime: 2023-05-27T22:20:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-us-canada-65735769?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-65735769.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-65735769.amp"
+    webUrl: "https://www.bbc.com/news/world-us-canada-65735769"
     type: article
     provider:
       name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0BA2/production/_129887920_a51ab5bf0f46a56367ee748173bcbc653fa4a8e9.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      domain: bbc.com
+    quality: 47
   - title: "Intel Announces an Integrated Neural AI Accelerator in Meteor Lake"
     excerpt: "Intel says it's working with Microsoft to make the development of AI features on the personal computer a reality. It will do this by offering a VPU, or Vision Processing Unit, as part of the SoC tile in Meteor Lake."
     publishedDateTime: 2023-05-24T18:00:00Z

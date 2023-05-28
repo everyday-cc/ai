@@ -127,20 +127,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Microsoft integrates Nvidia’s AI Enterprise Suite with Azure Machine Learning"
-    excerpt: "Microsoft is integrating Nvidia’s AI Enterprise software suite with its Azure Machine Learning service to help enterprise developers build, deploy, and manage applications based on large ..."
-    publishedDateTime: 2023-05-24T05:00:00Z
-    webUrl: "https://www.arnnet.com.au/article/707309/microsoft-integrates-nvidia-ai-enterprise-suite-azure-machine-learning/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 83
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/microsoft_headquarters_by_efes_kitap_cc0_via_pixabay_1200x800-100766833-orig-100916747-orig_2.jpgautowebp8570"
-        width: 472
-        height: 315
-        isCached: true
   - title: "Microsoft launches Azure AI Studio for developers to create their own AI 'copilots'"
     excerpt: "Microsoft has launched Azure AI Studio, a new capability within the Azure OpenAI Service that allows customers to combine OpenAI chatbots with their"
     publishedDateTime: 2023-05-24T06:06:00Z
@@ -476,15 +462,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 44
-  - title: "Microsoft Build 2023: Day 2 features sessions across AI copilot, Microsoft Azure, more"
-    excerpt: "After an impactful opening, day 2 of the developer-focused event features sessions across AI copilot experience, building cloud-native systems, utilizing Microsoft Azure to its full potential and more."
-    publishedDateTime: 2023-05-24T02:49:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/microsoft-build-2023-day-2-features-sessions-across-ai-copilot-microsoft-azure-more-71684896126319.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 41
   - title: "Microsoft to bring Copilot, an AI personal assistant, to Windows"
     excerpt: "Microsoft will integrate a ChatGPT-like system, called \"Windows Copilot,\" in all PC apps, the Redmond, Washington-based tech giant announced Tuesday. The Copilot will be available for Windows 11 as a preview in June."
     publishedDateTime: 2023-05-24T17:42:00Z

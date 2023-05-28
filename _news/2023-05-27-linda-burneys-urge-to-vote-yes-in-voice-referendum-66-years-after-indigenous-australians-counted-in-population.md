@@ -78,6 +78,20 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 22
+  - title: "Far from undermining democracy, The Voice will pluralise and enrich Australia’s democratic conversation"
+    excerpt: "We need a richer account of democracy within which to locate the Voice, to lift the quality of public debate about it."
+    publishedDateTime: 2023-05-28T20:06:00Z
+    webUrl: "https://theconversation.com/far-from-undermining-democracy-the-voice-will-pluralise-and-enrich-australias-democratic-conversation-205384"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 8
+    images:
+      - url: "https://images.theconversation.com/files/527618/original/file-20230523-23-trurlw.jpg?ixlib=rb-1.1.0&rect=14%2C322%2C4879%2C2436&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
 
 secured: "Ozj5pBE3KvQyH0N9UV3hIn/K3hbq4Rd8qkI6dBZj9rTdWKMUDZKPsmsa7nI+L8adpNfbCsZMeirHx87UKicwE/S2yp2mmiW2p3DrMdNva+gyWVEcAbHOyzNDnCbJFeL9T/mfEry7IQUtZ6TeOFQKkwft72Q18HAHW1gGUPSowOdVn4EiRzdbgLG/Qtsy5v3nJTJD80JxNypRXDu0CskGl+wOKgRJvRUg0foGdTPfnZfRq2hDynzo/L46q0V/9TLMeyESVfpDDUjzW08+Dp9BZjXBg/nbYyF5j5U0PqTvFiBc5eBsPuZrtMRzE1udSGSOlN5cVVGop1zxzcVHSwv0flcCPYXXKJK1n0BdFRgheuYimCSAeyETb1CoMuh93Gaye5lGBoule0T41Y/bLJUa4NFzSuPfnFze+kgEbkDzXlBBmaXfJflzszwKn+ZnRDDFIlKdzDQfQTFILCXeydZraW6yzLeMvwEcv+e6+QgT++q+pcSKL93mkojW8oN6M+V/XiyR8azwDEBRBmkguYfxng==;mmCgsmjdTz1uL+R1zOa7yA=="
 ---

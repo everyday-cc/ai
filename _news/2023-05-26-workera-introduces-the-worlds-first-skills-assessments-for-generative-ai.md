@@ -52,20 +52,6 @@ related:
         width: 624
         height: 351
         isCached: true
-  - title: "Bill Gates: AI will kill off Amazon, Google and drive future humanoid workers"
-    excerpt: "Are emerging artificial intelligence tools set to relegate internet giants like Google and Amazon to the same dusty shelves as laser discs, fax machines and overhead projectors?"
-    publishedDateTime: 2023-05-24T01:31:00Z
-    webUrl: "https://www.ksl.com/article/50651412/bill-gates-ai-will-kill-off-amazon-google-and-drive-future-humanoid-workers"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 36
-    images:
-      - url: "https://img.ksl.com/slc/2931/293134/29313479.jpeg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
-        isCached: true
   - title: "Don’t fear that AI is here: How the emerging tech can help HR pros"
     excerpt: "With so much commotion surrounding AI, it’s tempting to write it off as a passing trend but don’t be fooled. As this technology evolves and continues making its way into everyday life, it’s not a matter of if AI will find its way into the world of HR,"
     publishedDateTime: 2023-05-24T14:52:00Z

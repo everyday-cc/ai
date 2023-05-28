@@ -54,15 +54,6 @@ related:
         width: 420
         height: 300
         isCached: true
-  - title: "Content Analytics Discovery and Cognitive Software Market to Hit US$ 18,237.3 Million by 2032 | Says FMI"
-    excerpt: "The worldwide content analytics discovery and cognitive software market is expected to arrive at a valuation of US$ 4,238.3 Million of every 2022. The expanding utilization man-made intelligence in a large number of uses is projected to be the market’s essential development drivers."
-    publishedDateTime: 2023-05-24T03:11:00Z
-    webUrl: "https://www.fmiblog.com/2023/05/24/content-analytics-discovery-and-cognitive-software-market-to-hit-us-18237-3-million-by-2032-says-fmi/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
 
 secured: "Np3H7jVMRReNeVXGZjsdD2US1V64mKauqZbCr5dDDVo9vzyi0Ay4ceOzHB26LvN8Q63w3fgKI2Cxwno8YqnvEofCJ5eREYru7FypMKGmGXe6Ol7qjGww4xk77ZGykmQj2M3r8JNL92Rv2HiLplXm3xEfzg3TI8KZ1BDBL52IohSNkI641V/4FyD4fFd+RYYOlOBM4Pn1M/FHl97VqtrDKlUSqf1U5EPvOg4aBDZpLkwMmnzytHbZm0ZLrWEqMF/1OcwW86A21hvyFPU9OQLOahFrtbFGPhJqR4DPkBPMuauw+ONSzuPIPZFYgQngMc2ZBDRpUcrS6N4WHo5cdrYA8sn6aQZDg2yTHpx+Iksqv+bx6IBSJ6rTOy8KljaRyfiNh7rE4IySUiRR9sDtyzoY7+Z/xoRMFv0g7cnqIBKh8EnsCB8ysC5XyQQ1ZL7KSOlVW00fnrfhkrs+3/HSsPoDWDHLxjF//esYYrVYnOpamaie3O6zcvAZbs6RDjdzJbsKeJ/y0LU6T2WgceO1S9UbFQ==;O90YGKSGpVWahTPAtAjvKw=="
 ---

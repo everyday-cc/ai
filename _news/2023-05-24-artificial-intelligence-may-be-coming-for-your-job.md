@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelli
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI Can Transform Banking For The Better"
+    excerpt: "Artificial intelligence has matured and is disrupting financial services. It can enhance customer service, reduce costs and curb fraud – but only wit"
+    publishedDateTime: 2023-05-28T18:35:00Z
+    webUrl: "https://menafn.com/1106332409/AI-Can-Transform-Banking-For-The-Better"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
 
 secured: "zNVtGHnL2d2/UvcQK/AvEZl5SPtIztcc3QPKWH4jxZJ5eokBVumyu70L+ZN/QVUmPy6+WlFuapDQcCUXIypHH9UfLM7X3ozjwX2hXlb/YNBf+OibesXJN4/lPQ3mOoSvZlcqYauoCWN3t1MEzV7Xol6LMFsWtZKhak6zz5hRMSjooK3YQV0N27P4+idTMZfphzhNGtAzrxfV/TIDcwXMZXSIzcwEzFrgUTfSxe7MB7OHchUyxm2etEyA2AwZS7v7N79O5QLBExUoOlov8pK/zaH2Qm6nb+7VHC1WPcT/ndS+36VakxFBm2CADuqPs/1bxSzw8Jx/EDTh8e9QcDnnodrg5IrGE0ELBabk8k/iROWxz4Fs/enbCHlI/eB2FCMxJo0EK+tbLS8yqBWMzW2paLLICJSBizM0+w2ZPq63Z3zKwIXosIJF3KRD6FxHhPv0QxzRtX3ifzoMJK/VSOjcC4YrvABZLhYGjwFOU3tEjFJuprHD/cpeyz2YAiktzPtAMOLCVLOkwhdtT1Nrlydx0A==;aNzGAJoELReGmrwNRPO8qw=="
 ---

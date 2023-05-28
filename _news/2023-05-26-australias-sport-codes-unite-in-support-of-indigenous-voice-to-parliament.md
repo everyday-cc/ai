@@ -69,6 +69,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Far from undermining democracy, The Voice will pluralise and enrich Australia’s democratic conversation"
+    excerpt: "We need a richer account of democracy within which to locate the Voice, to lift the quality of public debate about it."
+    publishedDateTime: 2023-05-28T20:06:00Z
+    webUrl: "https://theconversation.com/far-from-undermining-democracy-the-voice-will-pluralise-and-enrich-australias-democratic-conversation-205384"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 8
+    images:
+      - url: "https://images.theconversation.com/files/527618/original/file-20230523-23-trurlw.jpg?ixlib=rb-1.1.0&rect=14%2C322%2C4879%2C2436&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
   - title: "Linda Burney’s urge to vote ‘yes’ in Voice referendum, 66 years after Indigenous Australians counted in population"
     excerpt: "On the anniversary of the 1967 referendum, the government has called for Australians to vote yes for an Indigenous Voice to parliament, amid opposition claims it could set back reconciliation."
     publishedDateTime: 2023-05-27T16:42:00Z

@@ -3,22 +3,18 @@ category: news
 title: "French Open 2023: Grand Slam using AI to protect players from online abuse"
 excerpt: "As the French Open introduces a new technology to help players filter out social media abuse, BBC Sport looks at the issues tennis players encounter online."
 publishedDateTime: 2023-05-28T15:29:00Z
-originalUrl: "https://www.bbc.com/sport/tennis/65706479"
-webUrl: "https://www.bbc.com/sport/tennis/65706479"
+originalUrl: "https://www.bbc.co.uk/sport/tennis/65706479?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/sport/tennis/65706479?at_medium=RSS&at_campaign=KARANGA"
 ampWebUrl: "https://www.bbc.com/sport/tennis/65706479.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/tennis/65706479.amp"
 type: article
-quality: 85
+quality: 55
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -93,6 +89,6 @@ related:
         height: 332
         isCached: true
 
-secured: "63VXOfMebkDbCLB3OaCe40YB22yo2NLevT7u4zxQ0tPP9E1ZX6pGu46UmqwA94vNqmv10wKDTDvO6ENjSaX5tkUHlS3XWgAxfnT7EaKLrUdYUMdn8t+4xHEzy2S8z6v335qqzK0r0ym5js9KHEOSeYDHmYqMPN83BRBbU7lEizoMdNUzqWwwTqBz3KwhAliYcSSnL511IAAUQvi6w1+RcbNEVquSjH32P7hKSX7ULmHDnYGtvS2p+XuusodM8TywqQVwR9rcMbBs6IJ0FIwnZpKnz6YeSHLWy6MAyeA5BLuEdHWo4pvpbVDR40f6/WHWkR0j2gD5op2ndTyFCDwLW76scugaXoTOATycMeRYEEUy8q0mFzm6j9m01w8uIAJcFqdhKGOtD1kaeuv3UUjiWmqGzfFT88ipX/sT/a70fuoP126S/vLYQWpStvCeWlsfi8jUq+N4D12K6/RFn6YtvU5el8wLVHx3hhtSscQEONdS9VRsOaUL7XFGpJMGUHS03U4pcsnv6BiO1OwgLzvngQ==;h4nJcReRo+oub83vvn8wAw=="
+secured: "b1atWzUxePiJ21ndp0t+hauW5+jY5kg6n1qR5puX6iY8weEbr0NJ6wtP/ZvPb57UszHwiL4WNu7FMou0aWNn4WuLy1YOMnQt+/m1S/F2ZvHEGyvhMSMBvhbsdn3dqz6w5wKJN7T1PRtAMV07D9yrQOR1dnHG38TKhRTovF51Eo5CAi7T+gASwErTxLQxVuFMm1AoebFMaSYLWMJb7OxMiFDny0yk25kTE0/XW3sCqHoTiMAVkTpgq+krMauQ8Ajhu/2t+IbdJ+IUxjt31o129vBH8lNrjHukSLTUcfbAW4mWgb5OqpY+G0poQyc1I8SCdcRWfSXpOdwfzvLtroxtEbMyim87Js0L6PL9BVWKtMk=;PJDkfEtX05+MLSD3NlSTaQ=="
 ---
 

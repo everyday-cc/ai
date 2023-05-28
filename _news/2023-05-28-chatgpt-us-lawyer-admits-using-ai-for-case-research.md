@@ -3,27 +3,23 @@ category: news
 title: "ChatGPT: US lawyer admits using AI for case research"
 excerpt: "A New York lawyer is facing a court hearing of his own after his firm used AI tool ChatGPT for legal research. A judge said the court was faced with an \"unprecedented circumstance\" after a filing was found to reference example legal cases that did not exist."
 publishedDateTime: 2023-05-27T22:20:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-us-canada-65735769?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/world-us-canada-65735769?at_medium=RSS&at_campaign=KARANGA"
-ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-65735769.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-65735769.amp"
+originalUrl: "https://www.bbc.com/news/world-us-canada-65735769"
+webUrl: "https://www.bbc.com/news/world-us-canada-65735769"
 type: article
-quality: 57
+quality: 47
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0BA2/production/_129887920_a51ab5bf0f46a56367ee748173bcbc653fa4a8e9.jpg"
-    width: 1024
-    height: 576
-    isCached: true
 
 related:
   - title: "ChatGPT Rival Google Bard Integrates Images Into Responses, AI Images Coming Soon"
@@ -66,6 +62,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "5rLgsEpT+ynAjcGUPc6Hzq2b+5DxpQiMiyfjKJOlM+qKhBz0WgMBnHeOd/b/DJ/n6kebekmTMoMPKsl7OVWMU3qNODzWl4svXsxFx7zC7R+tsU3Y0P5gTBRZYW/dwE0LrhzPEUjWGYIi187Y5gmcSKO1NgmZGVkLEiHjixcGiTvGaF825xPA5h99BlddjcJhqsB/2hyr8VGPUM4wBoh+qnlkd0bXqXe4zX2iGDxyHpoB4g+flehhOPP6vHAxBVr3V3Q/GPAQCYhKxRdJZ8cylILeouLEVNGDN/yK4WOvRrka3nqHR8uTyEwkeyMERQbaqywjIMQMyVqbBBH/SzdsdBn/abRrRRkls87l8/yZ/Ps=;Y62m6t2gPr+sAKMTTCudhg=="
+secured: "m61/slFO79PEr5InCJKGo62Nr7Z5CXshktOTd0QmONHdPlxn41tB8/HPCu7zuEaXLjr95dSIVayKmBxSOl39DDbbawy12o+MZkB2B54JslMeuBCDc0f0pgAI98Ut3pCNGJfTlA+u7Jq7g9llYUhP2aS97RUDa0C5qnz5v7EViq419xknKQgbYQxJkB49lFWZ4CnGQEMA4LJ7AsqEFA5PVKABcP46vHB1F8Jh3NAjY2L/S5drny3fAT40c399UZ1ZPRDaOUSKICKmY2ar4gelxTeUyL1klU/k592pVPLL9k79TvkjaVeOUDyB6z89LncZ6dJw/C+6SqWbjjqw3vQvqVfcTZuuvXc0ktaBM5vgunVFrrQANAGWl/Hu7Sy+eDKec7/l+JTzw9E5r5/HlfIepLYvO0xwP8bx3GGXVonUSE0EuEVNNTeLTn41pm3xB8wkjSXa8gW65I+0v0RPdhrYV/iuAYJsqNhZMfQtXSIsJA7SM56GihMWA+Pmd65IEvhkh6ufRxWErIYtZ7ktGZUeIw==;eLNYijLDmCAr/O9ThPGbNQ=="
 ---
 

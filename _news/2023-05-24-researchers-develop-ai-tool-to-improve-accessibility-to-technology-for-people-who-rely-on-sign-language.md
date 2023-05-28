@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Why learn languages in AI Age?"
+    excerpt: "AI might save students time, but it should not replace language learning. Instead, the technology could amplify learning, and it might also enhance our humanity. Language makes us unique from other animals."
+    publishedDateTime: 2023-05-27T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2023/05/28/2003800537"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
 
 secured: "voRnnmMltl84u9316oQ61Q4DQkCpEaLEvC8LDGEEmfzpmp5jYr+YonPKVpDIL0G6gF+Xxg3CpHhyG28MsQzrUEABHqmMCho2e25kt148sMyDB9m2tpFKTXiODvaaxDLJ9HpmnNOgXmCiCjFHlwC1sVT2wwzcw45+iBKXGyOYtY7rSH+4IwTwXBxyIn2KPxh15lpz/slH0SGVGV9eJa7F+jnS8P9EaOiUouJyZaCDN7HWp3vuB7UbobvhFIYI2Nvh4i7b6Bgh4conQGtJpiTeTZMevFFvUkpo6MouxFLiLg6vSc8GCxgBdoPjtlDObAPhhaxo/3Vfla3/PefjY6oZZ1SYsCj4mXXj3Mz1Wot14r4=;VmKQE2yITfKGFt8XTI+TUA=="
 ---

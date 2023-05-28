@@ -56,18 +56,18 @@ related:
         height: 402
         isCached: true
   - title: "AI startup Figure raises $70 million to build humanoid robots"
-    excerpt: "(Reuters) - Figure, a startup that wants to build general-purpose humanoid robots, has raised $70 million from investors led by Parkway Venture Capital in its first external round, the company ..."
-    publishedDateTime: 2023-05-24T10:20:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/05/24/ai-startup-figure-raises-70-million-to-build-humanoid-robots"
+    excerpt: "Figure, a startup that wants to build general-purpose humanoid robots, has raised $70 million from investors led by Parkway Venture Capital in its first external round, the company said on Wednesday."
+    publishedDateTime: 2023-05-24T10:10:00Z
+    webUrl: "https://www.channelnewsasia.com/business/ai-startup-figure-raises-70-million-build-humanoid-robots-3511611"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
     quality: 54
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/24/2089439.jpg"
-        width: 800
-        height: 532
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--0GhPGj2r--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-05-24t100849z_1_lynxmpej4n0dp_rtroptp_3_swiss-science.jpg?itok=u6Xhf_YS"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Figure Raises $70 Million Series A To Support Commercialization Of Figure 01 Humanoid Robot"
     excerpt: "Figure raises $70 million Series A to support commercialization of Figure 01 humanoid robot May 27, 2023 by mark allinson leave a comment"
@@ -100,6 +100,15 @@ related:
     provider:
       name: ARY News Live
       domain: arynews.tv
+    quality: 34
+  - title: "Japan AI startup launches robot for home use"
+    excerpt: "A Japanese artificial intelligence startup has launched a robot for home use capable of delivering items in response to verbal commands, such as bringing dishes and condiments to the dining room table or books and drinks to the sofa."
+    publishedDateTime: 2023-05-28T21:35:00Z
+    webUrl: "https://japantoday.com/category/tech/japan-ai-startup-launches-robot-for-home-use"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
     quality: 34
 
 secured: "ZrI1N9+H6Z2FuRAn/qfXnfKbvfjupBSGEfYUwZl1imsXBoEU/sjy9n8HsJwRK8Wwpt4U8u42i5xTyStKwGkRq616YPjwy/YabAZj5OtJKcQvFH62Lvf+SQUp2GABtzNhqFb/1EbBMF6Hd4Mw/5qszJGqm81KswpB//23AzE0LlN5H3PY5yGOasjK2z/o8+2KSV8qoNmqwefg/4rl4q9fyIZBhPbDI+5SX5SGMfqvFQ/6ZWRO4ezJfi0bhbfwPhFt0wI+TUEHCiU3ft3Jt7EYJ//6Z5EhBEpIzs2XCPhn0VvJdEX0tjhtUO6BPb8SpkthnETn37lsbz9wMK/bGzVr33CZOc1OXvR0GCD+mnVlTISkGbwgiUUStuTVSpmJy0TmacIPVZP4j+065mZlCdzhL5QWMJQ5pqrfwSDeFuj/9Wqvi8gtrCIS4g55SRzYbmuC2RrIrt+a+Y1uE2rV0Ld/SMFdq+6CohFcetlrm01AKWt8ovCZJ2cfnAuxMCq/RuBIFLTRi+5ELKGaRG21OkZPpA==;nfO2lkbHo6/0Jur/XvwtnQ=="

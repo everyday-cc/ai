@@ -9,7 +9,7 @@ ampWebUrl: "https://syncedreview.com/2023/05/25/meta-ais-massively-multilingual-
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/05/25/meta-ais-massively-multilingual-speech-project-scales-speech-technology-to-1000-languages/amp/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     width: 790
     height: 320
     isCached: true
-
-related:
-  - title: "Meta’s open-source speech AI recognizes over 4,000 spoken languages"
-    excerpt: "Speech recognition and text-to-speech models typically require training on thousands of hours of audio with accompanying transcription labels. (Labels are crucial to machine learning, allowing the algorithms to correctly categorize and “understand” the ..."
-    publishedDateTime: 2023-05-24T02:39:00Z
-    webUrl: "https://www.engadget.com/metas-open-source-speech-ai-recognizes-over-4000-spoken-languages-161508200.html"
-    ampWebUrl: "https://www.engadget.com/amp/metas-open-source-speech-ai-recognizes-over-4000-spoken-languages-161508200.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/metas-open-source-speech-ai-recognizes-over-4000-spoken-languages-161508200.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/JzJ2abmPPF2r7uJtcJ315A--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/2083da10-f672-11ed-9fae-36f04f718dd4.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Why learn languages in AI Age?"
-    excerpt: "AI might save students time, but it should not replace language learning. Instead, the technology could amplify learning, and it might also enhance our humanity. Language makes us unique from other animals."
-    publishedDateTime: 2023-05-27T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2023/05/28/2003800537"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 39
-    images:
-      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
 
 secured: "w4mLAwhFo9YI0asDWmfMMXBhjq/i1fdhI162Cw7UYZGUMxiAuLxNCvyypIas1irfodQbX9TvWtsdaAGxnFD8p516CZHrQJVDEAwc5GlouIj0Y/R9gM85rNWm/WSpeD3k+RTRWJ3GxYcvLk1jWuazjWW8U99hj7WADfBt2eRKM3Ux4c/bqdAS6TA1T1VafZ48HnH7w3/yJKL3tCUwl4BtqjFvi0aIRMHE2uhm2xDCon/7/LITtQLEYb0DnmxpDlrWfNyfNaqNeBMZTBTtQZaAjVnwMugwawqMql1YhTv4a7Hn6Xra5XeOKrVFqN2zZVK3MwM9F6xNPDmXVDWC6GAUFw6ti/OR6icn2B4O1i0qw9c=;Q3F+60W8PaUEvqTi6Hi1cg=="
 ---

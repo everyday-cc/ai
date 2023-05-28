@@ -1,29 +1,23 @@
 ---
 category: news
 title: "How will artificial intelligence affect health care systems – will it hurt or help?"
-excerpt: "IU professor Wura Jacobs said an overriding concern when establishing any technology in health care is data privacy and trust."
-publishedDateTime: 2023-05-24T20:04:00Z
-originalUrl: "https://indianapublicmedia.org/news/how-will-artificial-intelligence-affect-health-care-systems-will-it-hurt-or-help.php"
-webUrl: "https://indianapublicmedia.org/news/how-will-artificial-intelligence-affect-health-care-systems-will-it-hurt-or-help.php"
+excerpt: "As artificial intelligence, or AI, enters into the health care field, some experts say there is hope and harm possible for its future."
+publishedDateTime: 2023-05-24T19:35:00Z
+originalUrl: "https://www.wvxu.org/2023-05-24/how-will-artificial-intelligence-affect-health-care-systems-will-it-hurt-or-help"
+webUrl: "https://www.wvxu.org/2023-05-24/how-will-artificial-intelligence-affect-health-care-systems-will-it-hurt-or-help"
 type: article
-quality: 33
-heat: 33
+quality: 13
+heat: 13
 published: false
 
 provider:
-  name: WFIU
-  domain: indianapublicmedia.org
+  name: WVXU
+  domain: wvxu.org
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://indianapublicmedia.org/images/news-images/medical-pixabay.jpeg"
-    width: 1920
-    height: 1280
-    isCached: true
-
-secured: "C7irpPk76XJJC/SxQpvPYiE2JltYnvqXlxOo3x97/WUzW7DGvoHIXnuGfqgjXyG+FXfn+reh5bwAWSWAqn27HpBo7/ut2/BsSIDUjLdTo48OmKtqfGTF4Lz37BEnrShffmAeWyvfY0JcmWqaLHYod8WLN2k0m3jkkX7LAC+h1ZQjEu/sGmrS6/0mavn+uU3Qnh3+kVR8A4FL/VO8sYcMwEZ2qO+ivhVtYoysbbwHEMw8zCi9N+lqQ0GJTuYfhMlhusYtCLNk1BiFUQvFWMeFImEsnE3zwop3eq08u4gP1K8ZHdov1zUoHHSfLHHbNFNHBhHEyfmk2Ce/zszCUaREJcHyo4gsJBPwuUu/W0Ysmps=;1kshW86uEiD7FmGNdRjx0Q=="
+secured: "t0JFCdQbzuTA0MiCh27jfgm4CLnUvz/jkl/NJis4tx6wb/EINJaAHjZe7qKJ2itRxcbKhDCh5cRcTDnFOxQQWD7qJxCPR92DxbnVw6NZgWletODtPbm2bJB4hfdbPoufHBHwRPhqRzZ1ikVA09MQdAkI0B7NgwnFSm7Algn4x6etsuGMeErB2KSjndDaeBI9Ij7Z2/Bp6hIDXO54rpjF8muhUeSNumVhk7HLZcXiWeqJl2kUDQF6gjAa4PdUee8VnRrw3CAYGi8IQVxqk7KcNOr6k9NSdcNG8M6w4RiHztgSMnQluY+v5p/fGsoDXN5wVHDhSAoAaTObElyvtm0B4veKRX5/QtaUBCPowZWlACVIBLiVmtg1dp7sXZ+JWGEOZjM8RP3YJkcWU4hEiGplG8gPlHvRjjFnrzwhWWP803PJcZg/W5NDisgbg+SKrdwj3aWJn6WHrb/Q7ZzdFHnEsrvzzUaPr9NhG5RD0nn+WrJAZKpv285SASiWeC9rTNnhoH7bALhPibLldfUpHG0+Ag==;/e4wG0CMvmxXswkCjAo9Aw=="
 ---
 

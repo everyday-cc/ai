@@ -69,20 +69,6 @@ related:
         width: 1920
         height: 1188
         isCached: true
-  - title: "Nvidia in great position to gain from AI hype, says Intel CEO"
-    excerpt: "Nvidia, which has long been keen on boosting GPU's computing power, is now being presented with an excellent opportunity from the AI wave, according to Intel CEO Pat Gelsinger."
-    publishedDateTime: 2023-05-24T02:04:00Z
-    webUrl: "https://www.digitimes.com/news/a20230523PD218/intel-nvidia-pat-gelsinger.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230523pd218_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Five Of The Top Artificial Intelligence Stocks For A Potential $1.8 Trillion Boom"
     excerpt: "Five of the Top Artificial Intelligence Stocks for a Potential $1.8 Trillion Boom The artificial intelligence story fueled a massive rally in tec"
     publishedDateTime: 2023-05-24T20:53:00Z
