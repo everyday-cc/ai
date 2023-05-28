@@ -1,31 +1,28 @@
 ---
 category: news
 title: "White House unveils new efforts to guide federal research of AI"
-excerpt: "The White House on Tuesday announced new efforts to guide federally backed research on artificial intelligence as the Biden administration looks to get a firmer grip on"
-publishedDateTime: 2023-05-23T22:51:00Z
-originalUrl: "https://thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/"
-webUrl: "https://thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/"
-ampWebUrl: "https://thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/amp/"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/amp/"
+excerpt: "WASHINGTON (AP) — The White House on Tuesday announced new efforts to guide federally backed research on artificial intelligence as the Biden administration looks to get a firmer grip on ..."
+publishedDateTime: 2023-05-23T18:56:00Z
+originalUrl: "https://www.wfsb.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/"
+webUrl: "https://www.wfsb.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/"
+ampWebUrl: "https://www.wfsb.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/?outputType=amp"
+cdnAmpWebUrl: "https://www-wfsb-com.cdn.ampproject.org/c/s/www.wfsb.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/?outputType=amp"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: WFSB
+  domain: wfsb.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://thehill.com/wp-content/uploads/sites/2/2023/05/646d4436e3d464.95529234.jpeg?w=1280"
-    width: 1280
-    height: 853
+  - url: "https://gray-wfsb-prod.cdn.arcpublishing.com/resizer/QgJLzvRug3JdyL_GsIQUJ_Mu8Y0=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/SCNSH5OXB5ABDDMDBS654WJE54.jpg"
+    width: 800
+    height: 450
     isCached: true
 
-secured: "Fa1ap/nie+WA9+rqmi2F/Bje290X0RDzdlLYYPzoi3vjvNS69R0sr6YqTTIlgKavB3ek20YJiILyTqAywQmptKLngmQA8lPnhONLupBCBxrih2qoot3a4+Fyyibc1X7rLL3Wf/SySi+YwXyTydJ6VCHW7YP2YL3hBdVpt4xSU0PI+YxjPRjh0WOtc7WVAuhLboSGZ3c/qw0riwOb6DJxQk6TpeqE+FHX7DpsMvrRicOtMCI0Sc6SnMYSDz15vt+QmzW2+PNm6jgVTPnPned1DTMQIIpAICM3mwz1mvWadMzoNjsmWkDuoiTfsptjWEEKOv02valQNbiXehzXJjbPxAW1aPVEnZeo4kSNLGVnjQs=;3LqxYXxJha7ktDs54VxZJw=="
+secured: "OGlF8Mtl4GjkfzoCpW7apH3jE4T4n4fEMvGDYCNmqYEpbskOevtpEv9jhWNMNi2LGSpG6Cs41e07Con2I/CR1Zo29qVDIp2WG2yXlraOSlzoIRDoBxTJKKicRf/qQ6T7piUesEhth/t0nTqDFmO4CO/yCKKx8T/RohI7bUF0UbkEee+C386885tQP+MRo/NplLqjXwhLBuoKLav+E2Ha+BbsMV91TF7uGMO4gYuIcYpYsXDa9Yjwo/ex0XNs4oJwcIO0+c2bKdQuacGQXkH/ONVr4WkoXaYWDbLPm1ek8YV4bpswqFSdNMp8/8ENYE0f4kYqADVotR1Bw/Uf50FoTTQjMRqbVS9uhL38fkDnIC0=;IHf58A3Moctl36PnY9oAwQ=="
 ---
 

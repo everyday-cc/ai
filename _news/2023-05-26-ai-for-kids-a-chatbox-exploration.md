@@ -80,6 +80,20 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "16 Jobs That Will Disappear in the Future Due to AI"
+    excerpt: "In this article, we will take a look at the 16 jobs that will disappear in the future due to AI. To see more such jobs, go directly to 5 Jobs That Will Disappear in the Future Due to AI. By now you must have heard or read about how AI-powered bots are coming for millions of jobs."
+    publishedDateTime: 2023-05-28T16:43:00Z
+    webUrl: "https://www.insidermonkey.com/blog/16-jobs-that-will-disappear-in-the-future-due-to-ai-1155140/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 39
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/05/28122331/arno-senoner-IvnWhkmpKvk-unsplash.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Twitch Star Amouranth Wants Her AI Chatbot To Put Trolls In Their Place"
     excerpt: "A successful businesswoman (who now reportedly owns a gas station) and OnlyFans creator, Amouranth can now add “tech tycoon who’s excited about AI’s future” to her resume. Kotaku caught up with Amouranth—who ensured us she wasn’t her AI counterpart—to discuss AI Amouranth,"
     publishedDateTime: 2023-05-26T21:30:00Z

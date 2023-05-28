@@ -1,22 +1,20 @@
 ---
 category: news
 title: "SymphonyAI announces strategic collaboration with Microsoft Azure AI for generative AI"
-excerpt: "SymphonyAI announced today its first generative AI software application that integrates Microsoft Azure OpenAI Service. Sensa Copilot provides sophisticated AI assistance to financial crime ..."
-publishedDateTime: 2023-05-09T10:38:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/05/n32282145/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai"
-webUrl: "https://www.benzinga.com/pressreleases/23/05/n32282145/symphonyai-announces-strategic-collaboration-with-microsoft-azure-ai-for-generative-ai"
-ampWebUrl: "https://www.benzinga.com/amp/content/32282145"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32282145"
+excerpt: "SymphonyAI will integrate Microsoft Azure Cognitive Services including Azure OpenAI Service and Azure Cognitive Search, and Azure Applied AI Services, along with Azure API Management and Azure infrastructure, in additional forthcoming vertical use cases ..."
+publishedDateTime: 2023-05-09T10:34:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/05/09/9809924.htm"
+webUrl: "https://it.tmcnet.com/news/2023/05/09/9809924.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "Uirz1L56WoRn/amkg4saZDEOumdnbV2qGlVy2chY+XqLBQFTQp/PsVW/5yqT907YEvNZUH41trHPB5hvYW6RMMr71PdNyF5ZhaLvhTdXmcaMa60bFA+eoG0WGRQfoRDiDzvQDhZ30mDlQttuPr7ZIsHFBf8UoxlBUfx2587uoryJ8R8XVz/SnJ/udCXt2Wh1va7Lg4TX3IGGE1FR8MPp1OYhm2p5vw8pZKLa5cl2TBtKFUIk0KDn6OZSbv/8HJIId3h1u2aI1Q1MztbrJjMhCZhwbso2ttUiXXNdZPhL7lihKuQj6ncNHVkcd2X++/nDUBR981KDXmMPg0Z09XULvprNDpXa1jiKS59lLUg+4JI=;1+0Nyq/YXjQrE/6PhBVicw=="
+secured: "YYSbi6HmuQhoWPYijmY/UjOl0yUNP5arePv081dtJDqjZVZFuhEvE3lOtsRbn65EH4QzclnZY337vcSwBV3eSvoMMIOq13MUNJxLxlmoSMAN8963kNlKq75PzOssRzEHLno3Ki6JkuiwOYCsn7dXxntsdDaEK2JSMBYKYo4TAi6tSsaA6wUfgpms1Y5GcVVTKG4pdzBsLg1Z5kmeSX3mcLouHGenHxD4m6DZLAH0QZVz3/kU/HEEO7vXvRYEYXuMCWoorEUnzbyIzHxM13jp3IFfRWN379ZVgRkYzNojnS8KhWoL3LV6JqFQZgYcSz/9d0lI0RMRsEI2XMlSHI/gwYVHre235OtVHfQLv7TJYY4=;+DLiYI6M/d/wMygeAHFPJQ=="
 ---
 

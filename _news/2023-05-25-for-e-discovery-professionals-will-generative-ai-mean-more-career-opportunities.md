@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI Basics: Unraveling Large Language Models for Legal Professionals"
-    excerpt: "Uses, Risks and Impacts” session at the Master’s Conference in Washington, D.C., on Tuesday unpacked some of the legal industry's confusion around the models that power generative AI."
-    publishedDateTime: 2023-05-23T23:30:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/05/23/generative-ai-basics-unraveling-large-language-models-for-legal-professionals/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 35
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/05/AI-technology_2-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "How AI can create new opportunities for the worldwide air cargo logistics industry"
     excerpt: "Empowerment must be combined with continuous learning at all organizational levels. Preparing for AI means a move away from traditional training to learning."
     publishedDateTime: 2023-05-25T13:42:00Z

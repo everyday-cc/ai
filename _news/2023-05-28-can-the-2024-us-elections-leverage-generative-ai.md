@@ -50,20 +50,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 31
-  - title: "Infosys Announces AI-First Offering Topaz To Accelerate Business Value For Global Enterprises"
-    excerpt: "Infosys is taking an AI-first approach to its own transformation, the company said, adding that it is applying Topaz to bring the power of generative AI, analytics and cloud to accelerate its own market offering evolution,"
-    publishedDateTime: 2023-05-23T23:25:00Z
-    webUrl: "https://www.outlookindia.com/business/infosys-announces-ai-first-offering-topaz-to-accelerate-business-value-for-global-enterprises-news-288774"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 28
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Infosys_1665729477.jpg?utm_source=fb"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Hyperautomation platform Zvolv to integrate AI orchestration to leverage generative AI in new age enterprise applications"
     excerpt: "Hyperautomation platform Zvolv to integrate AI orchestration to leverage generative AI in new age enterprise applications - Zvolv, a leading global enterprise hyperautomation company today announced new generative AI capabilities"
     publishedDateTime: 2023-05-25T05:31:00Z

@@ -64,20 +64,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 31
-  - title: "Infosys Announces AI-First Offering Topaz To Accelerate Business Value For Global Enterprises"
-    excerpt: "Infosys is taking an AI-first approach to its own transformation, the company said, adding that it is applying Topaz to bring the power of generative AI, analytics and cloud to accelerate its own market offering evolution,"
-    publishedDateTime: 2023-05-23T23:25:00Z
-    webUrl: "https://www.outlookindia.com/business/infosys-announces-ai-first-offering-topaz-to-accelerate-business-value-for-global-enterprises-news-288774"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 28
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Infosys_1665729477.jpg?utm_source=fb"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "sxxhhruFYO/xkt2XyYDmAMrKVBYDYh5AlFukLsmpW3/NJoiyvHc4xTzjlXWlp9J1B4SQbr545imwEzY3wMvtKO9X7XZC7nWTCH0X4jacjUEYdOPhwjNYUDETXdEAMbD9VKyfyuQ5j5U8KFsJGv+Sbu81iVKpI8l0MVW7+yRbdZV/jAckCjdnCGt7xHfkFiw+6bAfc+kk6tfOjBG6KM3Aeus51Z504G3q/c2yanm+VvIn6kHj66vhRVPo3lDtWZgke46dYCXtfU71VsQdsyo0SzRHqcGfxSqD9+IcqbE2DeMZgJGTbFB5XdfJQDVvyZqLaCZfC17B8M3xT0vRY4cAE40Xi7IuL5oWz8PqVqz5bjo=;GqPWnApQZ3mcPjH9x2IevQ=="
 ---

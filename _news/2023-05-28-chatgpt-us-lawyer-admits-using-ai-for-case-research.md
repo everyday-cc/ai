@@ -3,22 +3,18 @@ category: news
 title: "ChatGPT: US lawyer admits using AI for case research"
 excerpt: "A New York lawyer is facing a court hearing of his own after his firm used AI tool ChatGPT for legal research. A judge said the court was faced with an \"unprecedented circumstance\" after a filing was found to reference example legal cases that did not exist."
 publishedDateTime: 2023-05-27T22:20:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-65735769"
-webUrl: "https://www.bbc.com/news/world-us-canada-65735769"
-ampWebUrl: "https://www.bbc.com/news/world-us-canada-65735769.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-65735769.amp"
+originalUrl: "https://www.bbc.co.uk/news/world-us-canada-65735769?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/world-us-canada-65735769?at_medium=RSS&at_campaign=KARANGA"
+ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-65735769.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-65735769.amp"
 type: article
-quality: 87
-heat: 117
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -44,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "JPMorgan’s plans for a ChatGPT-like investment service are just part of its larger AI ambitions"
-    excerpt: "JPMorgan Chase is developing a ChatGPT-like service to provide investment advice to customers, but it is a small part of its AI ambitions."
-    publishedDateTime: 2023-05-26T16:39:00Z
-    webUrl: "https://venturebeat.com/ai/jpmorgan-plans-for-a-chatgpt-like-investment-service-are-just-part-of-its-larger-ai-ambitions/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 59
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/jp-morgan-file-gty-ml-200908_1599583350520_hpMain_16x9_992.jpeg?w=1200&strip=all"
-        width: 992
-        height: 558
-        isCached: true
   - title: "ChatGPT-maker warns it might leave EU over planned AI law"
     excerpt: "He also met Prime Minister Rishi Sunak and the heads of AI companies DeepMind and Anthropic to discuss the technology's risks - from disinformation to national security and even \""
     publishedDateTime: 2023-05-25T13:11:00Z
@@ -74,7 +56,16 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Intel Announces an Integrated Neural AI Accelerator in Meteor Lake"
+    excerpt: "Intel says it's working with Microsoft to make the development of AI features on the personal computer a reality. It will do this by offering a VPU, or Vision Processing Unit, as part of the SoC tile in Meteor Lake."
+    publishedDateTime: 2023-05-24T18:00:00Z
+    webUrl: "https://www.extremetech.com/computing/intel-announces-an-integrated-neural-ai-accelerator-in-meteor-lake"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
 
-secured: "xrpQgg00bRSvWknwGNBS4hMdVhgAsju4WxeAH3RH/7rE0tsJXoxuI4fXh7nd0sNqLZSRl7i/2rOvTkp2vjEyndqXEGM19D/PUTEKSMtRvlGd0u3JD9SROJjg3eWNF2mSAdG08WXqMaEZG5ABJVhiB2/9YH5zPF0GxoHHgxZagBni9BkjdHi3ffiOV9YcgZ7lY8lxIwX8LYIDpqYAwCJO3I5CWytPBOpPP1ZsA1xbwdRjg/OsvR2sFlYK7fh1RVBL/QUtFEiQbK/7hhgHPJXO5l1gxobInoyXHBGSHiacRyq0sdXxUFjtqcs1LGwpEumTNIERm5sFwslRCM/TdVlEW+p8yMd3jQu/yxDB9YQxLivIaKvYIeXwWnK+HV9/ci9vr1HHHP1dPu4rmB8N1z6XMuGGvvRVDaqanm8Ywq4y6aHDrIx+NsUG+DgonHSMCQsLY8AEJ/Yacd8PchmBuNNNargAHbDmCuOU+l2O13N0s9oOydyGKUdxxA06M6JQVYaLu7Xg+tnp0wjs4vmxDf56sw==;2cx4fIVF/TOHy/aAFZRHXw=="
+secured: "5rLgsEpT+ynAjcGUPc6Hzq2b+5DxpQiMiyfjKJOlM+qKhBz0WgMBnHeOd/b/DJ/n6kebekmTMoMPKsl7OVWMU3qNODzWl4svXsxFx7zC7R+tsU3Y0P5gTBRZYW/dwE0LrhzPEUjWGYIi187Y5gmcSKO1NgmZGVkLEiHjixcGiTvGaF825xPA5h99BlddjcJhqsB/2hyr8VGPUM4wBoh+qnlkd0bXqXe4zX2iGDxyHpoB4g+flehhOPP6vHAxBVr3V3Q/GPAQCYhKxRdJZ8cylILeouLEVNGDN/yK4WOvRrka3nqHR8uTyEwkeyMERQbaqywjIMQMyVqbBBH/SzdsdBn/abRrRRkls87l8/yZ/Ps=;Y62m6t2gPr+sAKMTTCudhg=="
 ---
 

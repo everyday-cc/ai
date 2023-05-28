@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/magic-compose-experience-3329552/
 webUrl: "https://www.androidauthority.com/magic-compose-experience-3329552/"
 type: article
 quality: 67
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,34 @@ images:
     isCached: true
 
 related:
+  - title: "Google's AI Magic Compose Beta Goes Live For Select Users"
+    excerpt: "Magic Compose can initiate a chat or rewrite a message with seven different tones and styles with the help of Google Bard. The beta is being rolled out for US-based premium Google One subscribers first."
+    publishedDateTime: 2023-05-28T16:37:00Z
+    webUrl: "https://www.pcmag.com/news/googles-ai-magic-compose-beta-goes-live-for-select-users"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/00YXyCobqmXmK47unUvQkkC-1.fit_lim.size_1200x630.v1685291531.png"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Google Magic Compose For AI Crafted Text Messages Rolls Out And It’s Kinda Cool"
+    excerpt: "Now that AI tech like OpenAI’s ChatGPT has taken the world by storm, companies like Apple are trying to play catch-up and build in that type of tech. This also includes Google, who talked a lot about AI at Google IO 2023."
+    publishedDateTime: 2023-05-28T16:54:00Z
+    webUrl: "https://hothardware.com/news/ai-overlords-helping-compose-text-messages-with-google"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 33
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/61719/content/ai-overlords-helping-compose-text-messages-with-google.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "TCS Expands Google Cloud Relationship With Vertex Generative AI"
     excerpt: "Tata Consultancy Services is banking on its deep customer relationships to find ways to bring Google Vertex AI generative AI to them."
     publishedDateTime: 2023-05-24T17:48:00Z

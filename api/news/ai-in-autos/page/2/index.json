@@ -150,6 +150,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-12-uk-to-roll-out-first-driverless-bus-service.md",
+      "title": "UK to roll out first driverless bus service",
+      "excerpt": "AFP Listen to article 1x 1.2x 1.5x QUEENSFERRY: The UK will roll out its first driverless bus network ... The control system includes an artificial intelligence engine that receives information ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dawn.com/news/1752537",
+      "originalUrl": "https://www.dawn.com/news/1752537",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dawn.com/large/2023/05/120948366afab03.png?r=094954",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T20:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dawn",
+        "domain": "dawn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-uk-to-roll-out-driverless-bus-service.md",
       "title": "UK to roll out driverless bus service",
       "excerpt": "The UK will roll out its first driverless bus network in Scotland next week with drivers on standby behind the steering wheel, ready to take control should an emergency",
@@ -193,21 +236,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-12-uk-to-roll-out-first-driverless-bus-service.md",
+      "path": "_news/2023-05-11-uk-to-roll-out-first-driverless-bus-service.md",
       "title": "UK to roll out first driverless bus service",
       "excerpt": "The control system includes an artificial intelligence engine that receives ... \"It's good,\" he said. A driverless bus tested in South Korea's capital, Seoul, last year as part of an experiment ...",
       "sourceUrl": null,
-      "webUrl": "https://www.bangkokpost.com/world/2568467/uk-to-roll-out-first-driverless-bus-service",
-      "originalUrl": "https://www.bangkokpost.com/world/2568467/uk-to-roll-out-first-driverless-bus-service",
+      "webUrl": "https://www.jamaicaobserver.com/latest-news/uk-to-roll-out-first-driverless-bus-service/",
+      "originalUrl": "https://www.jamaicaobserver.com/latest-news/uk-to-roll-out-first-driverless-bus-service/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://static.bangkokpost.com/media/content/20230511/c1_4752167_700.jpg",
-          "width": 700,
-          "height": 466,
+          "url": "https://imengine.public.prod.jam.navigacloud.com/?uuid=8e6f6a29-b6da-567e-9a12-ab3adeffe272&function=fit&type=preview",
+          "width": 500,
+          "height": 293,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -215,13 +258,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T15:45:00-07:00",
+      "ampWebUrl": "https://www.jamaicaobserver.com/latest-news/uk-to-roll-out-first-driverless-bus-service/amp/",
+      "cdnAmpWebUrl": "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/latest-news/uk-to-roll-out-first-driverless-bus-service/amp/",
+      "publishedDateTime": "2023-05-11T08:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bangkok Post",
-        "domain": "bangkokpost.com",
+        "name": "The Jamaica Observer",
+        "domain": "jamaicaobserver.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -275,49 +318,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-uk-to-roll-out-first-driverless-bus-service.md",
-      "title": "UK To Roll Out First Driverless Bus Service",
-      "excerpt": "The control system includes an artificial intelligence engine that receives ... \"It's good,\" he said. A driverless bus tested in South Korea's capital, Seoul, last year as part of an experiment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/uk-to-roll-out-first-driverless-bus-service-736a4108",
-      "originalUrl": "https://www.barrons.com/news/uk-to-roll-out-first-driverless-bus-service-736a4108",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP1044130901645509886074281704499681019817---1.jpg",
-          "width": 768,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/uk-to-roll-out-first-driverless-bus-service-736a4108",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/uk-to-roll-out-first-driverless-bus-service-736a4108",
-      "publishedDateTime": "2023-05-11T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

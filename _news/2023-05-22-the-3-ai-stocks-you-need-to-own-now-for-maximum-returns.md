@@ -1,26 +1,19 @@
 ---
 category: news
 title: "The 3 AI Stocks You Need to Own Now for Maximum Returns"
-excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The popularity of artificial intelligence has surged since the launch of"
-publishedDateTime: 2023-05-22T16:03:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/the-3-ai-stocks-you-need-to-own-now-for-maximum-returns-1032343211"
-webUrl: "https://markets.businessinsider.com/news/stocks/the-3-ai-stocks-you-need-to-own-now-for-maximum-returns-1032343211"
+excerpt: "The popularity of artificial intelligence has surged since the launch of ChatGPT in November 2022, which was developed by the AI startup OpenAI. This has resulted in the company being valued at $ ..."
+publishedDateTime: 2023-05-22T00:00:00Z
+originalUrl: "https://www.nasdaq.com/articles/the-3-ai-stocks-you-need-to-own-now-for-maximum-returns"
+webUrl: "https://www.nasdaq.com/articles/the-3-ai-stocks-you-need-to-own-now-for-maximum-returns"
 type: article
-quality: 47
-heat: 47
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
 
-secured: "ZdRlFkNRxv5uWcllOpPWUJeMKYt5Tet1i7NSEpHSRJHSZqPsKwSKNOX8Q897F7NEDZJkmUrAFzxzaD+H8u703PAT73bVbiT+5uJGjgwyq2CkCsMQ+Ou7kSBSrpZfgCLl5qNX86p3ryjChCGPZpxO0vdKvOGOIB95eJ30VZkAjFFddtdF7IOnncQMODHWLuTUxGoP+uQZa3WCBxb0vNreGpAVretMVFdiwRyPDl3sEPvraPoxLV1ay2ydkjxn+GOrrujugg5pbSUFg9mZnoTb//1l3JVP50gciL9FhO2FhTwol3uNQjYp6awfgCaaGHGqkfovHSRbydBOkw9panwyXPkUoP8q8MaTpJrT7tHi39qBR2LdHBUyzPl1tkwF1XU3oKE0uyn/WQHqMtvKmfw1bb5AO9dUiUc823bnRUzNlBwezxRGeJmkoEkylvdZznEPajkmTVInVrKsSiTihFRSEl87v/fpF7dddH+nzXb/0tm1ybTkJGH93F8w4OxR8vwrr5SL4+sdJWhWnLMR1JqaBQ==;kp3nPKlm8ArPXF/Jc4rarQ=="
+secured: "GfcsoscHFGNCDSuiDZZxR8YQaHL5WGo5JOrOuq+0rjEmxS8fchNA75lw2429rK2uL9uba6P5wvQjpLG5klgMgTaI6vM6JegqqRzbxwLRJPgkzCQECiasMGzYBGMt0v0HEUsMLpJmWJpX9nCY4I5mXUOrp7ZcCpFK8oNXAmTLQs4skaj3ECXKHBTrow+fL4G9D/j9T4EcgZHGoCmIQoppffSkUm9YTsFpmS++JZroFV9YxbSSn/cfnnpgY68A8rdbsTcX607u6KzotZP8NiiSy1qRhIUf+45OQH/0Z3NaTBMHlNsJsHR1LSMuv3j2dSi3Lz8V14A0PTopoSE5kpjsE+NAp3WM+vSbZFpryWKGjh0=;e0Li3NGPCP/Q0wZnyWLnmw=="
 ---
 

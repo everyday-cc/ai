@@ -72,17 +72,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI video startup Gan.ai raises $5.25 million"
-    excerpt: "Generative artificial intelligence-based video creation platform Gan.ai on Tuesday said it has raised $5.25 million in a seed funding round led by Surge, which is Sequoia Capital India’s rapid scale-up programme."
-    publishedDateTime: 2023-05-24T00:30:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/ai-video-startup-gan-ai-raises-5-25-million/articleshow/100454996.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/ai-video-startup-gan-ai-raises-5-25-million/amp_articleshow/100454996.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/ai-video-startup-gan-ai-raises-5-25-million/amp_articleshow/100454996.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 37
   - title: "Singapore-based AI startup KarmaV enters India aims to establish ethical hiring practices and DEI strategies"
     excerpt: "Singapore-based AI startup KarmaV enters India aims to establish ethical hiring practices and DEI strategies - KarmaV an AI-based SaaS platform focussed on solving diversity, equity, and inclusion (DE&I) status"
     publishedDateTime: 2023-05-24T11:02:00Z
@@ -97,15 +86,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Singapore-headquartered AI Credit Modeling FinTech finbots.ai"
-    excerpt: "Accel-backed finbots.ai, a Singapore headquartered B2B SaaS FinTech today announced signing Sathapana Bank—Cambodia's leading commercial bank—as their latest client. With this, finbots.ai's fast growing client case has extended to 9 countries across APAC and MEA markets."
-    publishedDateTime: 2023-05-24T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-singapore-headquartered-ai-credit-modeling-fintech-finbotsai-transform-/2023/05/24/9820875.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "Meet kAI: the four-legged AI employee at Singapore’s rail operator"
     excerpt: "SBS Transit will have a trusty companion to conduct MRT train inspections with – a 50kg, four-legged robotic artificial intelligence (AI) dog called kAI."
     publishedDateTime: 2023-05-26T12:17:00Z

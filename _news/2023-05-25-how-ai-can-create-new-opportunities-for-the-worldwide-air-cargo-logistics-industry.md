@@ -32,20 +32,6 @@ related:
         width: 768
         height: 633
         isCached: true
-  - title: "Generative AI Basics: Unraveling Large Language Models for Legal Professionals"
-    excerpt: "Uses, Risks and Impacts” session at the Master’s Conference in Washington, D.C., on Tuesday unpacked some of the legal industry's confusion around the models that power generative AI."
-    publishedDateTime: 2023-05-23T23:30:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/05/23/generative-ai-basics-unraveling-large-language-models-for-legal-professionals/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 35
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/05/AI-technology_2-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
 
 secured: "WFV70HqyJ2Dz7ps+6pD3soIa7kBsUfSxne39k0Fu1UceGdBEI36W60DmQDSaYkvMhFcp1JF6EbfHVzQrr69qGKfNtIjpsqSZDkF7qGm2Q/rGkFc+M+Cds9jCAuOUrdfDCBGJYoRFwyeMyYzJmnGg4sSz9n2f9FWWzZnQMdQmXO+lakJVKQyp6ht0TrDS0kyy39d4Exjb8JwRKeTI9t2KTtFmmOCY0MHLw6WHbuRY9ZFCv2lVumT+RinRnx6MzMzZq7wCEJMe/491g3exhn7+o+e+blLnIxV+7zb0e/H4qjqvxAvvLPRn84aHi3KaFqNydGplzU1SDoR++snc5R/+cf7Ndzl9QIWr+LF8aM1UuBQ=;ug8DYTgrGsfqGDcL/6Oa9A=="
 ---

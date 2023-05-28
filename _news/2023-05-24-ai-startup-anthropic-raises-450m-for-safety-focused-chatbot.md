@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AI startup Anthropic raises $450M for safety-focused chatbot"
-excerpt: "Yet while ChatGPT has faced criticism — and been tweaked — after offering users some concerning results, Anthropic aims to make its chatbot more cautious from the start. Anthropic’s goal is for Claude to be less prone than other chatbots to manipulation that will produce harmful or offensive results."
-publishedDateTime: 2023-05-23T21:58:00Z
-originalUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/"
-webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/"
+excerpt: "Anthropic, an artificial intelligence startup positioning itself as the builder of a safer kind of chatbot, said it raised $450 million in funding to bolster the development of its AI bot ..."
+publishedDateTime: 2023-05-24T11:45:00Z
+originalUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?n=%5CL"
+webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?n=%5CL"
 ampWebUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
 type: article
@@ -19,6 +19,6 @@ provider:
 topics:
   - AI
 
-secured: "5PSGzh9v9a72EgL5DNMMr5tttNrGq9SPzihP1by7/ivA0OiHUKPNabeaNqXNGEMa7YB3dLznlLStYF/9V6FlWcFUHjAoxCCtB1MN9Yba9xB+ecteA+cSdfcVskornqQYKGVl8igv+cQeuK9AxlHMt73V4uBhMXZo7upz3u7ZVovMJ/mPhuELS18C33BP0b8oG2wObCQe6U7dRqSVuKI3ALKBuk628wrrtq1rGyZgZNQtbbnj0dNN1VpLud03l/gxaL9B/rj1Q1STPf8GSJQ1kFFMciy0uKGHipPARSw7q2FU5c95wBqZmAiKls1rQWcGSbu7AMtG+j6rIHypPH4j3FfPNnS8sEqg6/eGKcq6QW0=;m5/l5HPtLlssbzfukJxzgQ=="
+secured: "5KMvd250zf2nafaLVV++E9T8PJQpfssnEVhP16e4ZneEhGBe13376eoLbFfnb5v67sD82NK83oGlqT/Cxp7j07hZ00gmPXzCTSUOtO80ykSYIvtJ3gv63mogyhRKP5lZcx794sxb9wuV6tMcbgyr/qc72IlTNKUi2lE3xvXH68BrtjdLPKIxqZSauPQJAzHtnIA15OxuAwSgGcFMFBNlwv1fLUr50+7Kg6aUE9NPIvTZM3oU6osyXmyVa+7v/YgMedl/X1o+Cyv3YJSNFG84FP6r40oQZTGn5XLt/vHyEIAvvSXCg3UdNxKMTIy2rFcIp60dMnd+uWtnX2AXf1VZLvZe/yPkvbIUupzvfQJSiDM=;a7W2KEgzrPyB1StM23DGkA=="
 ---
 

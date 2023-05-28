@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-wit
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/"
 type: article
 quality: 106
-heat: 546
+heat: 526
 published: true
 
 provider:
@@ -48,22 +48,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "How Microsoft is laying the foundation for custom AI development"
-    excerpt: "With Azure OpenAI at the center, Microsoft has introduced a spectrum of new tools for building custom GPT-based LLMs. Here’s how Cosmos DB’s new vector search capabilities fit in."
-    publishedDateTime: 2023-05-24T00:47:00Z
-    webUrl: "https://www.infoworld.com/article/3696980/how-microsoft-is-laying-the-foundation-for-custom-ai-development.html"
-    ampWebUrl: "https://www.infoworld.com/article/3696980/how-microsoft-is-laying-the-foundation-for-custom-ai-development.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696980/how-microsoft-is-laying-the-foundation-for-custom-ai-development.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 104
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/07/10/artificial-intelligence-698122_1280-100698891-large-100932024-large.jpg?auto=webp&quality=85,70"
-        width: 1199
-        height: 848
-        isCached: true
   - title: "Microsoft’s AI reaches Indian villages"
     excerpt: "Jugalbandi, a chatbot built in collaboration by Microsoft, is showing signs of progress in redefining information access for villagers in India."
     publishedDateTime: 2023-05-24T09:27:00Z
@@ -95,22 +79,6 @@ related:
       - url: "https://s.yimg.com/uu/api/res/1.2/aYBYCJ1XAE0xA1D7qsxXAw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/093f0380-f8bf-11ed-9f92-f24cb882d1a4.cf.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft CTO tells devs to ‘do legendary sh*t’ with AI at 2023 Build conference"
-    excerpt: "To help developers build AI effectively, securely and responsibly, Microsoft has announced a large set of updates and new initiatives"
-    publishedDateTime: 2023-05-23T23:03:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/"
-    ampWebUrl: "https://venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-cto-tells-devs-to-do-legendary-things-with-ai-at-2023-build-conference/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 99
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/10/Microsoft-Logo-white-bkgd.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Elon Musk Wants to Challenge Google and Microsoft in AI"
     excerpt: "Elon Musk says it could involve different parts of his corporate empire, including Twitter, which he predicted could halt its losses as soon as next month."
@@ -154,6 +122,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Microsoft integrates Nvidia’s AI Enterprise Suite with Azure Machine Learning"
+    excerpt: "Microsoft is integrating Nvidia’s AI Enterprise software suite with its Azure Machine Learning service to help enterprise developers build, deploy, and manage applications based on large ..."
+    publishedDateTime: 2023-05-24T05:00:00Z
+    webUrl: "https://www.arnnet.com.au/article/707309/microsoft-integrates-nvidia-ai-enterprise-suite-azure-machine-learning/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 83
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/microsoft_headquarters_by_efes_kitap_cc0_via_pixabay_1200x800-100766833-orig-100916747-orig_2.jpgautowebp8570"
+        width: 472
+        height: 315
+        isCached: true
   - title: "Microsoft launches Azure AI Studio for developers to create their own AI 'copilots'"
     excerpt: "Microsoft has launched Azure AI Studio, a new capability within the Azure OpenAI Service that allows customers to combine OpenAI chatbots with their"
     publishedDateTime: 2023-05-24T06:06:00Z
@@ -183,22 +165,6 @@ related:
       - url: "https://images.wsj.net/im-787791/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Goldman Sachs And Microsoft Are Quietly Using AI To Lay The Groundwork For The Next Bitcoin, Ethereum And Crypto Price Bull Run"
-    excerpt: "Wall Street giant Goldman Sachs and Microsoft﻿ are among companies backing a new blockchain designed to streamline financial"
-    publishedDateTime: 2023-05-23T23:14:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2023/05/23/goldman-sachs-and-microsoft-are-quietly-using-ai-to-lay-the-groundwork-for-the-next-bitcoin-ethereum-and-crypto-price-bull-run/"
-    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/05/23/goldman-sachs-and-microsoft-are-quietly-using-ai-to-lay-the-groundwork-for-the-next-bitcoin-ethereum-and-crypto-price-bull-run/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/05/23/goldman-sachs-and-microsoft-are-quietly-using-ai-to-lay-the-groundwork-for-the-next-bitcoin-ethereum-and-crypto-price-bull-run/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646ce9abf88059e0ae467d31/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 797
         isCached: true
   - title: "A leaked Amazon generative AI sales playbook shows how the company is going after ChatGPT-maker OpenAI, Microsoft and Google"
     excerpt: "The guidelines may help Amazon make a stronger push in generative AI, where Microsoft, OpenAI, Google and others have taken an early lead."

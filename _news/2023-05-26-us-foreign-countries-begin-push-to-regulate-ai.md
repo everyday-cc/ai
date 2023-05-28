@@ -151,6 +151,20 @@ related:
         width: 506
         height: 380
         isCached: true
+  - title: "How Much Should We Trust Artificial Intelligence"
+    excerpt: "There has been a great deal of recent buzz about the rather dated notion of artificial intelligence ... Consider the case of self-driving cars. Elements of AI come into play in growing numbers ..."
+    publishedDateTime: 2023-05-25T00:00:00Z
+    webUrl: "https://www.infoq.com/articles/ai-trust/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 39
+    images:
+      - url: "https://res.infoq.com/articles/ai-trust/en/headerimage/GettyImages-170614688.jpg"
+        width: 1523
+        height: 1111
+        isCached: true
   - title: "OpenAI raises $175m in funding to invest in AI start-ups"
     excerpt: "According to a filing made by CEO Sam Altman, the latest OpenAI fund is 75pc higher than the company had initially raised during launch."
     publishedDateTime: 2023-05-25T09:23:00Z

@@ -2,6 +2,143 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2023-04-25-microsoft-earnings-to-highlight-ai-cloud-services-direction.md",
+      "title": "Microsoft earnings to highlight AI, cloud services direction",
+      "excerpt": "Goldman Sachs analyst Kash Rangan said that Wall Street has been concerned about a potential slowdown in the growth rate of Microsoft's (MSFT) Azure services. However, Rangan added that ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3959368-microsoft-earnings-to-highlight-ai-cloud-services-direction",
+      "originalUrl": "https://seekingalpha.com/news/3959368-microsoft-earnings-to-highlight-ai-cloud-services-direction",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1184908397/image_1184908397.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-onemeta-aitm-launches-verbumcalltm-the-ultimate-ai-driven-mobile-phone-translation-service-revolutionizing-global-communication.md",
+      "title": "OneMeta AI(TM) launches VerbumCall(TM): The Ultimate AI-driven Mobile Phone Translation Service Revolutionizing Global Communication",
+      "excerpt": "BOUNTIFUL, UT / ACCESSWIRE / April 25, 2023 / OneMeta AI (www.onemeta.ai) ONEI. OneMeta AI, the pioneering mastermind behind AI-powered language solutions, has unveiled the groundbreaking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/04/ac31985816/onemeta-ai-tm-launches-verbumcall-tm-the-ultimate-ai-driven-mobile-phone-translation-service-revo",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/04/ac31985816/onemeta-ai-tm-launches-verbumcall-tm-the-ultimate-ai-driven-mobile-phone-translation-service-revo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31985816",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31985816",
+      "publishedDateTime": "2023-04-25T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-25-4-steps-to-improving-your-esg-risk-management-to-increase-financial-performance.md",
+      "title": "4 steps to improving your ESG risk management to increase financial performance",
+      "excerpt": "Environmental, Social, and Governance (ESG) risk management has emerged as a critical aspect of business strategy for companies worldwide. A 2023 IBM IBV study showed that organizations that are seen as ESG leaders are 43% more likely to outperform their peers on profitability. However, 57% of CEOs admit",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/4-steps-to-improving-your-esg-risk-management-to-increase-financial-performance/",
+      "originalUrl": "https://www.ibm.com/blog/4-steps-to-improving-your-esg-risk-management-to-increase-financial-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/04/4-steps-to-improving-your-ESG-risk-management-to-increase-financial-performance-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-gpu-for-deep-learning-market-sales-volume-and-forecast-2030.md",
       "title": "GPU for Deep Learning Market Sales Volume, And Forecast 2030",
       "excerpt": "The \" GPU for Deep Learning Market\" Size, Trends and Forecasts (2023-2030)â, provides a comprehensive analysis of the",
@@ -1090,151 +1227,6 @@
         "AI Ethics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-europe-zooming-in-on-ai-rates-and-chips-wars.md",
-      "title": "EUROPE Zooming in on AI, rates and chips wars",
-      "excerpt": "A look at the day ahead in European and global markets from Vidya Ranganathan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/europe/global-markets-view-europe-2023-04-25/",
-      "originalUrl": "https://www.reuters.com/markets/europe/global-markets-view-europe-2023-04-25/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/sCjPgigxGRsErknWN7eSfxLsGZY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/45VBV2HLUJOF7NWNRIGT6ESZLE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-24T20:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-traders-have-little-to-fear-from-artificial-intelligence.md",
-      "title": "Traders have little to fear from artificial intelligence",
-      "excerpt": "Artificial Intelligence may indeed hurt some traders but algos have already done half the work. Trading strategies that require human intervention and long-term investors don’t need to worry, yet",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/opinion/traders-have-little-to-fear-from-artificial-intelligence-10469941.html",
-      "originalUrl": "https://www.moneycontrol.com/news/opinion/traders-have-little-to-fear-from-artificial-intelligence-10469941.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2022/04/Business_shutterstock_390313318-770x433.png",
-          "width": 770,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/traders-have-little-to-fear-from-artificial-intelligence-10469941.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/traders-have-little-to-fear-from-artificial-intelligence-10469941.html/amp",
-      "publishedDateTime": "2023-04-24T20:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-25-from-fake-drake-to-ai-generated-eminem-tracks-can-musicians-copyright-style.md",
-      "title": "From fake Drake to AI-generated Eminem tracks: Can musicians copyright style?",
-      "excerpt": "An AI art lecturer says an AI-generated song seemingly created in the style of musician Drake raises copyright questions surrounding an artist's style.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/fake-drake-ai-generated-eminem-tracks-musicians-copyright-style",
-      "originalUrl": "https://www.foxnews.com/entertainment/fake-drake-ai-generated-eminem-tracks-musicians-copyright-style",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe044709-5321-49e6-889e-24f2e7e60968/56371045-25a7-49d1-b3c9-f3c01b831a6e/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/fake-drake-ai-generated-eminem-tracks-musicians-copyright-style.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/fake-drake-ai-generated-eminem-tracks-musicians-copyright-style.amp",
-      "publishedDateTime": "2023-04-24T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

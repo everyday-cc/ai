@@ -102,6 +102,6 @@ related:
       domain: arynews.tv
     quality: 34
 
-secured: "T4wZaGeR++MKXCqMjhdSDaj8+pvLFXRvCqXjUDo0Vq4r4lMzmRIkjc2l088zsFf75cQ+lxwZdiHvFOzvjCWyQPqpc/D3BE3GJwnwpSPyFFPQbJkdlTP4TLyF/V/IxB+5wAJGF4BaPlevQvrsmxqqOpv1bo3O1rvqfslBGTJdTSDHH0AOn0bMw41Ee7mZYKh6dJtBCCqinc4/ygyNlsCAGGxsP3dmbsbr4HT88KMOtvJkuWfVto35w2A4OeTRP2RogK9EhOO7uPm1XkJ0+cDkzLenc/VOpzFd8S5njPo4WHZzv5/x5VOScbiD/6f6OQ0d8LluBoHU5T1cM5c/ZAiOQ3OFxzek7YGeM40d8U893nc=;6NLwfqWLDNZ7pT+Lpme/Yg=="
+secured: "0Ch4+yVn3JzOFTUwYGbou7BVM2wqY1TUnBZWI9p2p1x/6iZ0z/ephgp0gXy/NEtF+fT9cEpxde98dLXHrXvrroDcpeJUkmRxM4pgWVTsVeplClfFjjgkUwpF+zPOPYUF7QHW/YFpPnAi8+D+Ht3PccMr+SS8mlTclhRp4+Y4Jg7NLEZruWJQw8bJuTvDkfOImFjIpD4RfIfeyzFz9g4pQ5U+FjWmy7dze4392+TyNDFLQyaAUz1q9vpCcLHqRNLpTvAxI80JEGNYmfBKqXwQFXZUSImhm9luRGk/CnSuxCZGilj2r0TpdULHKhkRFQHUXlN4u05XjJSr2xcgCXm2QeM0tU5pAQhqTVRtNsFsxUI=;TKQaq3Jqp9rjMC9Z8wXuEQ=="
 ---
 

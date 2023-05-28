@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/metas-open-source-speech-ai-recognizes-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/metas-open-source-speech-ai-recognizes-over-4000-spoken-languages-161508200.html"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
         width: 1200
         height: 1200
-        isCached: true
-  - title: "Meta’s Open-Sourced AI Model that Introduced Text-to-Speech In 1,100+ Languages"
-    excerpt: "Meta released this week as open-source software an AI model, called Massively Multilingual Speech (MMS), that can recognize over 4,000 spoken languages and produces text-to-speech in over 1,100 languages."
-    publishedDateTime: 2023-05-24T01:05:00Z
-    webUrl: "https://iblnews.org/metas-open-sourced-ai-model-that-introduced-text-to-speech-in-1100-languages/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 35
-    images:
-      - url: "https://iblnews.org/wp-content/uploads/2023/05/metalanguages.jpg"
-        width: 860
-        height: 490
         isCached: true
 
 secured: "7/pUGWTDFjhfXRiFzcbevrC9SE0GBXWAz38hXamAYso4pBKoEGq6Rdl+JWbbw8hKQKp2KyzfgxGCwkag8vZEEfC7BoxMHXw5bR/EVd+5wtZYlX1uCbIwmtFBaU4Yboa25LdXSQjFMnE+NCGgnQVUrXHoB/JuhU26T/xp9bgSRjopr43g2x5h6gOFFhwAh90qfdzhKTVh3kCnf8jBj8c556ZkxN1rXWLgfG6AFNfHT6tC8+b6DxfAnWA7ALIJODEFyfX90FKjCLfjpNA3YqKp8YG5DYjM4MGr+GK554w14Kfc84i6npM0CPfoK1sBB+ZkxK9iWyzjotzdyh3YvUREUk2Ta9tCn15FRHWmehO1WESKnTrYIyOh+3O9qQfCwD4+xr49QNmbB8WcO5Om69B8sNGaGGcEF3wGmGzcsnFzeJsEDhsfKcKxp1kjlWqS0rjxKd89C6IjJ+8p3NIc4S97FoYckIY3kCwpGu1JIiXy3QHuynJU/1pR9dfEmLXafT8WjDa6UvVCXrDHLeFd2k2jRw==;XKyHipJ55jtAlltGLoT9Iw=="

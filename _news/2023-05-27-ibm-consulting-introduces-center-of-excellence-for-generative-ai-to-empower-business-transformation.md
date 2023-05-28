@@ -60,22 +60,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Exploring the potential of generative AI in games"
-    excerpt: "Jon Radoff, Kylan Gibbs, Matt White and Hilary Mason sit down at the GamesBeat Summit to chat about generative AI in games."
-    publishedDateTime: 2023-05-23T23:40:00Z
-    webUrl: "https://venturebeat.com/games/exploring-the-potential-of-generative-ai-in-games/"
-    ampWebUrl: "https://venturebeat.com/games/exploring-the-potential-of-generative-ai-in-games/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/exploring-the-potential-of-generative-ai-in-games/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/AIpanel.jpg?w=1200&strip=all"
-        width: 1200
-        height: 673
-        isCached: true
   - title: "What Generative AI Means For Retail"
     excerpt: "We’re only at the start of the generative AI revolution. And we’ve only had a taste of the true impact on retail. But the technology is advancing incredibly fast. It’s why it’s critically important to ensure AI is used responsibly. That means ..."
     publishedDateTime: 2023-05-25T11:50:00Z
@@ -151,6 +135,20 @@ related:
       - url: "https://images.macrumors.com/t/qdB_4ekb91XkZACOM4ewxYF5fbU=/1600x/article-new/2023/05/google-search-ai.jpg"
         width: 1600
         height: 742
+        isCached: true
+  - title: "Top 10 Generative Artificial Intelligence Companies to Invest In"
+    excerpt: "Generative AI will perhaps be the most dominant and consequential buzzword of not only 2023 but this decade. Generative AI is a form of artificial intelligence that enables computers to produce new and original content — text,"
+    publishedDateTime: 2023-05-28T15:42:00Z
+    webUrl: "https://www.insidermonkey.com/blog/top-10-generative-artificial-intelligence-companies-to-invest-in-1155194/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 37
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/05/28113928/chatgpt-gf38b3317c_640.jpg"
+        width: 640
+        height: 359
         isCached: true
   - title: "As generative AI accelerates coding for developers, the long-term impact is just beginning"
     excerpt: "They are happier because they can pursue the creative work they signed up for.” One of the areas where ChatGPT is beginning to have a transformational effect is in the gaming industry. Developers of video games have been major AI users for some time now,"
