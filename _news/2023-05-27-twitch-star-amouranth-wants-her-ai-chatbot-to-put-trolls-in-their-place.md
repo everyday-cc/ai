@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 796
         isCached: true
-  - title: "Is There a UN Role in Artificial Intelligence Chatbot?"
-    excerpt: "Will it take a robot to break that unholy tradition ... of the concerns that the Secretary-General himself has been expressing — the idea that as artificial intelligence develops, it needs to be monitored carefully and the right regulations and standards ..."
-    publishedDateTime: 2023-05-23T07:00:00Z
-    webUrl: "https://www.ipsnews.net/2023/05/un-role-artificial-intelligence-chatbot/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 39
-    images:
-      - url: "https://www.ipsnews.net/Library/2023/05/A-female-robot_2.jpg"
-        width: 630
-        height: 355
-        isCached: true
   - title: "Red Hat makes Ansible Event-Driven and adds generative AI chatbot"
     excerpt: "Red Hat presented some much-needed innovation for Ansible at its summit in Boston. One very big change is that Ansible is now Event-Driven. No longer does"
     publishedDateTime: 2023-05-23T14:47:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-a
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.amp.html"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Digital Twins, Generative AI, And The Metaverse"
-    excerpt: "Exploring the convergence of digital twins, generative AI, and the metaverse, this article delves into the future, where these tech trends democratize 3D design."
-    publishedDateTime: 2023-05-23T06:51:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/23/digital-twins-generative-ai-and-the-metaverse/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/23/digital-twins-generative-ai-and-the-metaverse/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/23/digital-twins-generative-ai-and-the-metaverse/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646c62220a46f01c40b5031a/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Where Memory Ends and Generative AI Begins"
     excerpt: "New photo manipulation tools from Google and Adobe are blurring the lines between real memories and those dreamed up by AI."
     publishedDateTime: 2023-05-26T10:00:00Z

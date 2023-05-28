@@ -1,22 +1,30 @@
 ---
 category: news
 title: "CyberLink FaceMe® facial recognition integrates with MediaTek's Genio 700 IoT Platform to deliver a 6.5X performance boost"
-excerpt: "While it continues to integrate with numerous other IoT platforms, CyberLink FaceMe has significantly improved performance on MediaTek's latest Genio 700 processors. Running on a Genio 700, the FaceMe engine is accelerated by MediaTek's AI Processing Unit (APU)."
-publishedDateTime: 2023-05-24T16:21:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/05/24/9820536.htm"
-webUrl: "https://it.tmcnet.com/news/2023/05/24/9820536.htm"
+excerpt: "CyberLink (5203.TW), a leading manufacturer of AI facial recognition technologies, has strengthened its presence in the smart IoT market. The company has announced that its FaceMe® facial recognition"
+publishedDateTime: 2023-05-24T14:15:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/05/b32552925/cyberlink-faceme-facial-recognition-integrates-with-mediateks-genio-700-iot-platform-to-deliver-a-"
+webUrl: "https://www.benzinga.com/pressreleases/23/05/b32552925/cyberlink-faceme-facial-recognition-integrates-with-mediateks-genio-700-iot-platform-to-deliver-a-"
+ampWebUrl: "https://www.benzinga.com/amp/content/32552925"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32552925"
 type: article
-quality: 0
-heat: -1
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "CyberLink and MediaTek Unite for Enhanced Facial Recognition Performance"
@@ -29,6 +37,6 @@ related:
       domain: iotevolutionworld.com
     quality: 18
 
-secured: "66j0p/1VhqkrJs6RODFdbLY6qDEKGutl2FMcQeUYOkOYYuyxv8ESXtnxo0M90Y8vcwwJEj36MctJtuHnXlGoQIszHqAjGq8cSmMPZXwtVqqujh9+sZmmL+LmWIo472Mq/7r1l3nkePoJqjT6HvQD1Qv1tjwqMileB0G1NN7JuumDo8GKGESkTZYZzAE4cBU55tzkUV9m7JVwZ7uYw/wPpLn+a0VIOe3AgTrOcYpObwkO27kte+nFqiS3dDtDdj8Rre+sC99CtSeKPTy0p7v8R/MedXdTeAosegEHcabHJznk+vOV9PhDluQiLGOeM0GCY1JSHs8Rqomp/zv0eLiwM8fiIUO3VCoMyWuyFh1kSNg=;6RENAOsgyKfod1KieSrFcA=="
+secured: "m/aIGTDOvpyVmw5cYVBnFwHe83Et9LIRDiA7QlFn4NRSFoH3vXd6SNWvICG2nqjmZG7ky1e9/WZEFobynZNQaQChDvHAeAK12fgU80UxV7p/PCoGN7SmHkzEylOQcwUnYaoi0yf3wuvyJvubGs22BQrjIk77xULDKo+3Hw/J/EffIlL2FCCFpuWQjh667CVFdv3tvUaPB2jdB2bRIQSpSTyUgg5dQePb1V83WlAqoMQi9DSe6dO6BNYRY8B1ez7ebrPlX0M/ENS6FQdo5mM0UfBCW1NFki53TAMYcHMc8noJvAiQOFu9FpJ3y962IbpBe6T9KcOBNtCqtwhpn3Hpp+ucuzEst5Gi9Wudk6ZInaU=;XyfiHXdJyLVxQZeSyePKwg=="
 ---
 

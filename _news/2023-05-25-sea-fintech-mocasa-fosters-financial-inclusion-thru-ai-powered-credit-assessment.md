@@ -187,15 +187,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 16
-  - title: "Top 5 Startups Leveraging the Power of AI to Revolutionize the Fintech Industry"
-    excerpt: "Here is the rundown of the top 5 Fintech startups unleashing the power of AI to bring transformation in the industry. Read here everything."
-    publishedDateTime: 2023-05-23T06:18:00Z
-    webUrl: "https://www.ciol.com/top-5-startups-leveraging-the-power-of-ai-to-revolutionize-the-fintech-industry/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 15
   - title: "LIBF India joins Fintech Festival India as Knowledge Partner to empower and upskill the banking and finance professionals"
     excerpt: "The London Institute of Banking & Finance India enters the Indian market with the aim to collaborate with corporates, universities and colleges to empower and upskill banking and finance professionals."
     publishedDateTime: 2023-05-24T22:38:00Z

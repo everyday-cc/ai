@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/ai-startups-outpace-others-in-securing-fu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startups-outpace-others-in-securing-funding-from-vcs/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 110
 published: true
 
 provider:

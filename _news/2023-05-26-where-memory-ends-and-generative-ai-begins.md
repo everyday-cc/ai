@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Digital Twins, Generative AI, And The Metaverse"
-    excerpt: "Exploring the convergence of digital twins, generative AI, and the metaverse, this article delves into the future, where these tech trends democratize 3D design."
-    publishedDateTime: 2023-05-23T06:51:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/23/digital-twins-generative-ai-and-the-metaverse/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/23/digital-twins-generative-ai-and-the-metaverse/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/23/digital-twins-generative-ai-and-the-metaverse/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646c62220a46f01c40b5031a/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Queer Eye for AI: Risks and limitations of artificial intelligence for the sexual and gender diverse community"
     excerpt: "The risks of AI-powered oppression of sexual and gender diversity are already here. Imagine calling your bank to resolve an issue, but the customer service representative suddenly accuses you of fraud and threatens to suspend your bank account if you don’t invite the “real” you."
     publishedDateTime: 2023-05-26T12:13:00Z

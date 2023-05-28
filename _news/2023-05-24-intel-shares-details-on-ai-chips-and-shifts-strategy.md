@@ -41,20 +41,6 @@ related:
         width: 1918
         height: 1080
         isCached: true
-  - title: "Intel provides details on future AI chips"
-    excerpt: "Intel has provided details on a chip for artificial intelligence (AI) computing it is planning to introduce in 2025 as it looks to compete directly with Nvidia and Advanced Micro Devices (AMD)."
-    publishedDateTime: 2023-05-23T06:48:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/intel-provides-details-on-future-ai-chips"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 54
-    images:
-      - url: "https://www.newelectronics.co.uk/media/k1zd5rhn/intel.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Intel Announces an Integrated Neural AI Accelerator in Meteor Lake"
     excerpt: "Intel says it's working with Microsoft to make the development of AI features on the personal computer a reality. It will do this by offering a VPU, or Vision Processing Unit, as part of the SoC tile in Meteor Lake."
     publishedDateTime: 2023-05-24T18:00:00Z

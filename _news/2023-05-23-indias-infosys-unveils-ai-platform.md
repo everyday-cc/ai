@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/indias-infosys-unveils-ai-platf
 webUrl: "https://www.reuters.com/technology/indias-infosys-unveils-ai-platform-2023-05-23/"
 type: article
 quality: 67
-heat: 97
+heat: 98
 published: true
 
 provider:

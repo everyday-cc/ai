@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Artificial Intelligence and its impacts being studied at the University of South Florida"
-excerpt: "The University of South Florida has an institute for artificial intelligence. Professors there are researching AI and working with local leaders in healthcare, finance, biology, and transportation. Students can also get a certificate in AI. Larry Hall is ..."
-publishedDateTime: 2023-05-24T19:30:00Z
-originalUrl: "https://www.abcactionnews.com/news/region-hillsborough/artificial-intelligence-and-its-impacts-being-studied-at-the-university-of-southflorida"
-webUrl: "https://www.abcactionnews.com/news/region-hillsborough/artificial-intelligence-and-its-impacts-being-studied-at-the-university-of-southflorida"
-ampWebUrl: "https://www.abcactionnews.com/news/region-hillsborough/artificial-intelligence-and-its-impacts-being-studied-at-the-university-of-southflorida?_amp=true"
-cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/region-hillsborough/artificial-intelligence-and-its-impacts-being-studied-at-the-university-of-southflorida?_amp=true"
+excerpt: "Artificial intelligence is a major topic of discussion, and it is threatening to change almost every industry in the nation."
+publishedDateTime: 2023-05-25T08:12:00Z
+originalUrl: "https://www.abcactionnews.com/news/region-hillsborough/artificial-intelligence-and-its-impacts-being-studied-at-the-university-of-south-florida"
+webUrl: "https://www.abcactionnews.com/news/region-hillsborough/artificial-intelligence-and-its-impacts-being-studied-at-the-university-of-south-florida"
+ampWebUrl: "https://www.abcactionnews.com/news/region-hillsborough/artificial-intelligence-and-its-impacts-being-studied-at-the-university-of-south-florida?_amp=true"
+cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/region-hillsborough/artificial-intelligence-and-its-impacts-being-studied-at-the-university-of-south-florida?_amp=true"
 type: article
 quality: 50
 heat: 50
@@ -21,11 +21,11 @@ topics:
   - AI
 
 images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/4cf05b3/2147483647/strip/true/crop/1000x563+0+1/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fa4%2F95%2F351fba1a4a1794e755093c2c3031%2Fcell-phone-apps.png"
+  - url: "https://x-default-stgec.uplynk.com/ausw/slices/320/45bf940c346f431c9be273b8942ab6eb/320418ea4b6740edaa17e8593d97b95b/poster_9801ebc77345441d8c35577f820d11a3.jpg"
     width: 1280
     height: 720
     isCached: true
 
-secured: "x03qILbsGh2RYjdmB2b+uBurSP+5whBpV3NJJ8sALIBMHUhluuYe0lwE6hafq30Vyv+NuvlqLU0EKw3SFUSioZajknbhZ0vvOVFIJe3L++OulJQ4yQoGLGiNgfQFwm4/MSDo0SShFP/jqR0V6AiYr3wV+HE3UNSlXMVt9ftPqK/bqyKQrKVzd80S6k3CH9TW3j6mG4g27MBz5e8y0v61h5wW6cwlJtT2kPh2k2VeeARDlOOgUJJpITaR5JT42QgsV7IyrHX8doBWzx+r0YLnLR0/ebA4gag7M4/eRhTZsen+OuIWWy9loJ1lm/qW/y570NYhF6b6n6jJG6HiWgS8G+ieqVcPS9DxrLWY97GGemfALmATEHHEFtPp7tUYjSbAn+ez7cRAL9atb1RO3ZYrP7/9znIO24ejwkuWVrkmTXSnKrm0Alem5qSPa15WgFFGjb/Kg7q5xclq9VoFlCX50BSc0H1TZx9MyyGKZNRP763SX2B8dOUDSGjMOrPqC8oqvKeexla9UsQ/6xZpjPBaYA==;nqyBVrnpApHyB3jwKgosUg=="
+secured: "+RPzhG+2MwW1EcqjI7Toirmc2BX5/3UgIVttcnAKmNCq59Qspx3zfG/nKdNsPzWXZBUIOGw1N+ZOJJDT2feLlPR0ZrkoFATP1U1LxTe3KKjRXWXtvH8iMB+39wd6LeOWBgvu83h/8m0eRsELnkJmPUlYo/vXmgApM7ToUELREeqBoYIXKSuYMALtPBEKC+HnikxhJ80623FBdoUh7ygtthu00+ZxPmGRfu2gX955j4EfQx9VuVOnUwI95ZC1WTzWz12Q01lYaG2qhL8FwscQXuzyKV0ewWcjvXuvxpCZvXyBkW/rPOHZI3RbXHUz9hRP+ia5i7K16NfUxO/En6E3L2zb91Jle9gZ7MpKJpooHM4=;F0tCvnF+v9OrfEqrgcbiWA=="
 ---
 

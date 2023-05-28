@@ -38,6 +38,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "ChatGPT: US lawyer admits using AI for case research"
+    excerpt: "A New York lawyer is facing a court hearing of his own after his firm used AI tool ChatGPT for legal research. A judge said the court was faced with an \"unprecedented circumstance\" after a filing was found to reference example legal cases that did not exist."
+    publishedDateTime: 2023-05-27T22:20:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-65735769"
+    ampWebUrl: "https://www.bbc.com/news/world-us-canada-65735769.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-65735769.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0BA2/production/_129887920_a51ab5bf0f46a56367ee748173bcbc653fa4a8e9.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "ChatGPT-maker warns it might leave EU over planned AI law"
     excerpt: "He also met Prime Minister Rishi Sunak and the heads of AI companies DeepMind and Anthropic to discuss the technology's risks - from disinformation to national security and even \""
     publishedDateTime: 2023-05-25T13:11:00Z

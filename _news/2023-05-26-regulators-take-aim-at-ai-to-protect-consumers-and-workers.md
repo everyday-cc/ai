@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/regulators-aim-ai-prot
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/regulators-aim-ai-protect-consumers-workers-99622780"
 type: article
 quality: 57
-heat: 87
+heat: 88
 published: true
 
 provider:

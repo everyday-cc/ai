@@ -35,20 +35,6 @@ related:
         width: 1918
         height: 1080
         isCached: true
-  - title: "Intel provides details on future AI chips"
-    excerpt: "Intel has provided details on a chip for artificial intelligence (AI) computing it is planning to introduce in 2025 as it looks to compete directly with Nvidia and Advanced Micro Devices (AMD)."
-    publishedDateTime: 2023-05-23T06:48:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/intel-provides-details-on-future-ai-chips"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 54
-    images:
-      - url: "https://www.newelectronics.co.uk/media/k1zd5rhn/intel.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Intel shares details on AI chips and shifts strategy"
     excerpt: "NEW YORK: Intel Corp has provided a handful of new details on a chip for artificial intelligence (AI) computing it plans to introduce in 2025 as it shifts strategy to compete against Nvidia Corp and Advanced Micro Devices Inc. At a supercomputing ..."
     publishedDateTime: 2023-05-23T21:14:00Z

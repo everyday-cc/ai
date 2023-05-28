@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/business/economy/news/bank-fintech-coll
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886?amp"
 type: article
 quality: 59
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -179,15 +179,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 16
-  - title: "Top 5 Startups Leveraging the Power of AI to Revolutionize the Fintech Industry"
-    excerpt: "Here is the rundown of the top 5 Fintech startups unleashing the power of AI to bring transformation in the industry. Read here everything."
-    publishedDateTime: 2023-05-23T06:18:00Z
-    webUrl: "https://www.ciol.com/top-5-startups-leveraging-the-power-of-ai-to-revolutionize-the-fintech-industry/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 15
   - title: "SEA fintech Mocasa fosters financial inclusion thru AI-powered credit assessment"
     excerpt: "The Philippines lags behind its Southeast Asian neighbors when it comes to financial inclusion. About 78% of the country remains unbanked"
     publishedDateTime: 2023-05-25T12:23:00Z

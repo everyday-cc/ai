@@ -234,22 +234,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Ethics — what ethics? For Microsoft, it’s full speed ahead on AI"
-    excerpt: "Microsoft's quickly embraced all things AI, even as many in the tech industry raise concerns about the inherent dangers of the technology. The company doesn't care."
-    publishedDateTime: 2023-05-23T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3697014/ethics-what-ethics-for-microsoft-its-full-speed-ahead-on-ai.html"
-    ampWebUrl: "https://www.computerworld.com/article/3697014/ethics-what-ethics-for-microsoft-its-full-speed-ahead-on-ai.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3697014/ethics-what-ethics-for-microsoft-its-full-speed-ahead-on-ai.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 91
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/11/man_concerned_artificial_intelligence_ai_sign_by_dny59_gettyimages_959737582-100817807-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft announces Azure tools to help developers deploy complex environments and secure their apps"
     excerpt: "Next up is another tool that can ease the workload of developers and reduce the worry of admins: GitHub Advanced Security for Azure DevOps. Last year, Microsoft announced this service was coming, and now, Microsoft is announcing the availability of a public preview."
     publishedDateTime: 2023-05-23T15:01:00Z
