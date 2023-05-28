@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meta introduces speech AI models to identify over 4000 spoken languages"
-    excerpt: "Facebook and Instagram's owner, Meta, has announced series of artificial intelligence (AI) models that can identify more than 4,000 spoken languages, 40 times more"
-    publishedDateTime: 2023-05-23T09:34:00Z
-    webUrl: "https://www.gulf-times.com/article/661582/international/meta-introduces-speech-ai-models-to-identify-over-4000-spoken-languages"
-    ampWebUrl: "https://www.gulf-times.com/article/661582/international/meta-introduces-speech-ai-models-to-identify-over-4000-spoken-languages/amp"
-    cdnAmpWebUrl: "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/661582/international/meta-introduces-speech-ai-models-to-identify-over-4000-spoken-languages/amp"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 59
-    images:
-      - url: "https://www.gulf-times.com/gulftimes/uploads/images/2023/05/23/33252.jpg"
-        width: 1000
-        height: 565
-        isCached: true
   - title: "Meta AI’s Massively Multilingual Speech Project Scales Speech Technology to 1000+ Languages"
     excerpt: "Speech technologies such as automatic speech recognition (ASR) and speech synthesis or text-to-speech (TTS) are playing an increasingly important role in many real-world applications. Contemporary speech technology systems however support only about one hundred languages at best — a tiny fraction of the over 7,"
     publishedDateTime: 2023-05-26T02:20:00Z
@@ -104,17 +88,6 @@ related:
     provider:
       name: techjuice.pk
       domain: techjuice.pk
-    quality: 19
-  - title: "Open-sourcing Massively Multilingual Speech to preserve language diversity: Meta"
-    excerpt: "The social media giant said that equipping machines with the ability to recognize and produce speech can make information accessible to many more people, including those who rely entirely on voice to access information."
-    publishedDateTime: 2023-05-23T10:56:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/open-sourcing-massively-multilingual-speech-to-preserve-language-diversity-meta/articleshow/100447425.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/open-sourcing-massively-multilingual-speech-to-preserve-language-diversity-meta/amp_articleshow/100447425.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/open-sourcing-massively-multilingual-speech-to-preserve-language-diversity-meta/amp_articleshow/100447425.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
     quality: 19
   - title: "Facebook’s open-source language model can recognise 4,000 languages and “speak” in 1,100"
     excerpt: "While the model was trained using religious recordings for non-widely-spoken languages, Meta says this hasn’t introduced any bias."

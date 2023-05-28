@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/24/eu-google-ai-pact/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/24/eu-google-ai-pact/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107239349-1683753251767-_DSC6594.jpg?v=1684951434"
         width: 3283
         height: 2188
-        isCached: true
-  - title: "Europe’s scramble to tame artificial intelligence: podcast"
-    excerpt: "Brussels is a step closer to unveiling regulation for the controversial technology. Dragoș Tudorache, a legislator in the European Parliament, helped write the law. In this Exchange podcast, he argues that the rules focus on the biggest risks while leaving room for innovation."
-    publishedDateTime: 2023-05-23T09:48:00Z
-    webUrl: "https://www.reuters.com/breakingviews/europes-scramble-tame-artificial-intelligence-podcast-2023-05-23/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/_Py_kA5Ubu2IZXEOcXJDfB5m7YY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KNQN4SSDJJM63BFM73UWTDV2GM.jpg"
-        width: 1200
-        height: 628
         isCached: true
 
 secured: "PP7Y3+NYDlLZm/TFZNU9BEkPrORqgUuj/GEIy80rStRT4NUYQuTfMjH8m3FOV+ksTTNne3W4VFYfCmC6vF7tHTr9NF9JIoPB+eHnmm8ExFytfgnqEpanSa/0eawqP9KCd0YjSYqt5/hwvOdUCkuhmCse6RMUQn3kaQ6JOn5HA+oTMzbsqghIrRjtBO0YcqAJZfKQOUAdrk+b9oHApbE2RxQEFZDABHLSLNKdgIeRY/M1PfyeLvSEBOYP8cRjGCYJMPiPuwWDWjt/5cnFWUFcOyygeBdursPmveHPjDHhnU/CbV/qUXWnpB1SUuaW6q7X0J67yKeA4skxkgxKnjQVNyQEk2Uginx1kkcJeNjCJ04=;am0ANkJ8rorbFyCkiY1VtA=="

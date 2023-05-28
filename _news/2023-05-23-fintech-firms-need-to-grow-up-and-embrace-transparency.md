@@ -103,20 +103,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Fintech chiefs debate the future of UK’s digital economy in Parliament"
-    excerpt: "Fintech industry leaders warned of the risks posed by AI and ChatGPT last night as well as discussing the role automation and digital skills will play in the driving economic growth.   Speaking at the Parliament Street think tank’s Digital Economy summit on Monday night,"
-    publishedDateTime: 2023-05-23T09:28:00Z
-    webUrl: "https://techbullion.com/fintech-chiefs-debate-the-future-of-uks-digital-economy-in-parliament/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/05/image001-1-2.jpg"
-        width: 752
-        height: 423
-        isCached: true
   - title: "Financial Inclusion 2.0: The role of fintech innovations"
     excerpt: "According to the Official Ghana Demand Side Survey 2021, Ghana has achieved its financial access target of 85% set by the National Financial Inclusion and Development Strategy 2018 - 2023 ahead of the end of the target year – 2023."
     publishedDateTime: 2023-05-24T07:36:00Z

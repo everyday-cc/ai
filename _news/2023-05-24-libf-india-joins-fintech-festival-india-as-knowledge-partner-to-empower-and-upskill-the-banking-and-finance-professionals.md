@@ -89,20 +89,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Fintech chiefs debate the future of UK’s digital economy in Parliament"
-    excerpt: "Fintech industry leaders warned of the risks posed by AI and ChatGPT last night as well as discussing the role automation and digital skills will play in the driving economic growth.   Speaking at the Parliament Street think tank’s Digital Economy summit on Monday night,"
-    publishedDateTime: 2023-05-23T09:28:00Z
-    webUrl: "https://techbullion.com/fintech-chiefs-debate-the-future-of-uks-digital-economy-in-parliament/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/05/image001-1-2.jpg"
-        width: 752
-        height: 423
-        isCached: true
   - title: "Fintech firms need to grow up and embrace transparency"
     excerpt: "The days of taking shortcuts around regulation and lax fiscal discipline need to come to an end if the industry is going to reach its full potential."
     publishedDateTime: 2023-05-23T14:00:00Z

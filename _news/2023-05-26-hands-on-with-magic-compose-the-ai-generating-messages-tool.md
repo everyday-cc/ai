@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/magic-compose-experience-3329552/
 webUrl: "https://www.androidauthority.com/magic-compose-experience-3329552/"
 type: article
 quality: 67
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Transforming the public sector with artificial intelligence"
-    excerpt: "Artificial Intelligence (AI) is at an inflection point. Since 2017, the number of organizations leveraging AI has doubled, and the impact of this technology’s capabilities is quickly starting to be felt across industries,"
-    publishedDateTime: 2023-05-23T10:05:00Z
-    webUrl: "https://ottawacitizen.com/sponsored/news-sponsored/transforming-the-public-sector-with-artificial-intelligence"
-    ampWebUrl: "https://ottawacitizen.com/sponsored/news-sponsored/transforming-the-public-sector-with-artificial-intelligence/wcm/ab894dae-ff1c-4784-9a0c-94ba4f8cdb28/amp/"
-    cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/sponsored/news-sponsored/transforming-the-public-sector-with-artificial-intelligence/wcm/ab894dae-ff1c-4784-9a0c-94ba4f8cdb28/amp/"
-    type: article
-    provider:
-      name: Ottawa Citizen
-      domain: ottawacitizen.com
-    quality: 59
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/ottawacitizen/wp-content/uploads/2023/05/4v0a0653-edit.xlr_-scaled.jpg"
-        width: 2560
-        height: 1920
-        isCached: true
   - title: "15 Surprising Ways Industries May Soon Leverage Generative AI"
     excerpt: "There’s more to generative AI than writing press blurbs, test questions and memos—indeed, there’s much more to generative AI than writing, period."
     publishedDateTime: 2023-05-25T12:15:00Z

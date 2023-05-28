@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 793
         isCached: true
-  - title: "Adobe integrates generative AI directly into Photoshop with new Firefly capabilities"
-    excerpt: "Adobe has announced its first generative AI integration with Photoshop, bringing Adobe Firefly capabilities directly into design workflows."
-    publishedDateTime: 2023-05-23T11:00:00Z
-    webUrl: "https://venturebeat.com/ai/adobe-integrates-generative-ai-directly-into-photoshop-with-new-firefly-capabilities/"
-    ampWebUrl: "https://venturebeat.com/ai/adobe-integrates-generative-ai-directly-into-photoshop-with-new-firefly-capabilities/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/adobe-integrates-generative-ai-directly-into-photoshop-with-new-firefly-capabilities/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-74.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "Google's Magic Compose is available now, bringing generative AI to Messages"
     excerpt: "Want to compose a text message but don't know what to say? Google's Magic Compose can let AI handle it, rolling out now to Messages in beta."
     publishedDateTime: 2023-05-25T17:01:00Z
@@ -101,22 +85,6 @@ related:
       - url: "https://i.insider.com/6467d7d312a976001917a0d7?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Adobe to integrate AI into Photoshop amid fears of job losses and mass faking of images"
-    excerpt: "Company says Adobe Firefly is a ‘co-pilot’ to graphic design rather than a replacement for humans"
-    publishedDateTime: 2023-05-23T10:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/23/adobe-to-integrate-ai-into-photoshop-amid-fears-of-job-losses-and-mass-faking-of-images"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/23/adobe-to-integrate-ai-into-photoshop-amid-fears-of-job-losses-and-mass-faking-of-images"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/23/adobe-to-integrate-ai-into-photoshop-amid-fears-of-job-losses-and-mass-faking-of-images"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 49
-    images:
-      - url: "https://i.guim.co.uk/img/media/66f3ced92079ae2635e031bc1139cfe11279f411/19_0_762_457/master/762.jpg?width=620&quality=85&auto=format&fit=max&s=d76d3298ea21fedde0d07223ac052f04"
-        width: 620
-        height: 372
         isCached: true
   - title: "Adobe to integrate AI into Photoshop amid fears of job losses and mass faking of images"
     excerpt: "Company says Adobe Firefly is a ‘co-pilot’ to graphic design rather than a replacement for humans"

@@ -3,10 +3,12 @@ category: news
 title: "AI startup Anthropic raises $450M for safety-focused chatbot"
 excerpt: "Yet while ChatGPT has faced criticism — and been tweaked — after offering users some concerning results, Anthropic aims to make its chatbot more cautious from the start. Anthropic’s goal is for Claude to be less prone than other chatbots to manipulation that will produce harmful or offensive results."
 publishedDateTime: 2023-05-23T21:58:00Z
-originalUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/"
-webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/"
+originalUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?n=%5CL"
+webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?n=%5CL"
+ampWebUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
@@ -156,6 +158,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "g6/5vs8Rc9ynccJ2aBFUDtCani8PxXnFf6fhOTum1RiO+Sr6V1ocffbHNkHfjqx2hGUFLzxk87XrwIuxT7KwloCWn6o6W994UvexfocFwx7NATImlCXWRacE/05O+aDLxX7sMUPJRoxw53aA5eK/bg7Y//30nJ6LaJ9Ze41IVHIjCaX4IjJD5gn5pM0Nz/hlOVc/Uub8XrUOGvbI3VRH+VfgoV9jRi/XfV9PZHDJpilxtiI4dNwjGDVXJJmWTEm/q3nSH3Gab279e56/Nh76Iu2ILUvUm0/7U1Bg3jP1l0PoyaAOiIZbL/12PJS78iiSHO31yCxggw4AYAckujSIUCCwIXnvwi3Z+nkbeFIw7gA=;GkmyAfHHqZPl0zy563Ap4w=="
+secured: "sx0dgCuTmMncMTBoeCx52JF0zDD6waIC09NCRIBOR8mFQNqS3+V8Ynmr2YIJ5A45eHXFN9g+me5SkDEgjlYjWvgdpvCP+/bfbGjG9hfS/4Sk0emu6gU95C/JcvLMCkTyHWjYIBFPUPS63NQVJ/OuJW5uoVBxSwZvPgigzroKg14j4cqpy9cdSY1ffll4owJiqHFAK33SHkDneAAHlYi1uhD0YlmAJF+KTEsHpE8STu/FJc+ga9Qyf9fq9ko0ANsVl4unWOWTs/0WVCbwX/1zEqW8hWShngV+mbr+vLvSj8ln5ruvUkrvQaOvIOW2IUlcUdt0JQ5Jylnu+u35s5AX9mv+GPXfmuyQEUIZB0Nky+M=;A9mGqijnvBR+1RqHJTIQ5w=="
 ---
 

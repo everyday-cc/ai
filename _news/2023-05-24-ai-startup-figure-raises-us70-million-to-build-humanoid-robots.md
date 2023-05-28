@@ -120,6 +120,17 @@ related:
         width: 2880
         height: 1620
         isCached: true
+  - title: "AI startup Anthropic raises $450M for safety-focused chatbot"
+    excerpt: "Yet while ChatGPT has faced criticism — and been tweaked — after offering users some concerning results, Anthropic aims to make its chatbot more cautious from the start. Anthropic’s goal is for Claude to be less prone than other chatbots to manipulation that will produce harmful or offensive results."
+    publishedDateTime: 2023-05-23T21:58:00Z
+    webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?n=%5CL"
+    ampWebUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "AI startup raises $70 million to build humanoid robots"
     excerpt: "Figure, a startup that wants to build general-purpose humanoid robots, has raised $70 million from investors led by Parkway Venture Capital in its first"
     publishedDateTime: 2023-05-24T06:07:00Z
@@ -146,15 +157,6 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 17
-  - title: "AI startup Anthropic raises $450M for safety-focused chatbot"
-    excerpt: "Yet while ChatGPT has faced criticism — and been tweaked — after offering users some concerning results, Anthropic aims to make its chatbot more cautious from the start. Anthropic’s goal is for Claude to be less prone than other chatbots to manipulation that will produce harmful or offensive results."
-    publishedDateTime: 2023-05-23T21:58:00Z
-    webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
     quality: 17
 
 secured: "ZwuoTWEahBy7RtQ51HZg3hfAXLdHqEdhyxb0Ce+qj25qtrscFn6KHDfe0K6w+XPFqVg5iSKGSHGAHKOUJOCQ99ra+dE0oWhWWovd343gNS84MqS9XFuWAoF2slos2onnkZpvbzYfG1IEkxzm+XU/++BDy7Dz7SU0+T68w22oEMhGQEqNUsyoLuSWVAHPpRMVA+Lhosjj2rK/RkGL1Z/mmujGXy4iPmlk7MVaY2lgZkfhqZ9tKq63EZwzLAICv3xorANNTtuDuch8HZSzd8YS8Mxg/oThnSAuU04mHS665lblzoHHLaIWdXLa4YLLigjR3AnKPcgIJ7gurTIlkRx94BHi826Zck1M7lQm0509aIw=;E3Dlo+mDDHSEFpW1dsH9wg=="

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Infogain AI Business Solutions Now Available in the Microsoft Azure Marketplace"
-excerpt: "Microsoft Azure customers worldwide now gain access to three NAVIK AI solutions to take advantage of Azure scalability, reliability, and agility to shape business strategies. Infogain, a Silicon ..."
-publishedDateTime: 2023-05-18T16:33:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20230518005632/infogain-ai-business-solutions-now-available-in-the-microsoft-azure-marketplace"
-webUrl: "https://www.morningstar.com/news/business-wire/20230518005632/infogain-ai-business-solutions-now-available-in-the-microsoft-azure-marketplace"
+excerpt: "NAVIK customers can now take advantage of the productive and trusted Azure cloud platform, with streamlined deployment and management. NAVIK is an AI platform that addresses the breadth of AI ..."
+publishedDateTime: 2023-05-18T16:51:00Z
+originalUrl: "https://www.businesswire.com/news/home/20230518005632/en/Infogain-AI-Business-Solutions-Now-Available-in-the-Microsoft-Azure-Marketplace"
+webUrl: "https://www.businesswire.com/news/home/20230518005632/en/Infogain-AI-Business-Solutions-Now-Available-in-the-Microsoft-Azure-Marketplace"
 type: article
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: newsroom.businesswire.com
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "nd0OEQMhD7j2Q1ZnAKprqpT5KgOFaVs8T03jHQspslanI7W23dR/jE3ueS4of67Jx6X6hRXplccNdaAvRLUcPp/8oohFt+OOyW/ElrEZbnr9iOe5WycPRhOFc9sKSCzeTyAATf+Y9UonI8CDi7kk7JqIVvjG9BuVgxPg9pvsApEAP+IiuDedvDqOYh0OYmeSE+r8zGk2kNtLPiLHifscQr8kO7jocVjHtGaYDh3XN4HksY5GA+8uRAtJFccDaI1xlqGgOD8kxpn08LiZJkDCkCYtwszwcgpVdJk4bp6t0cDuvpCoLwHV0O7FrgfHJ8wcrgXDdEpOKh4atyileUTwsihj2F0fyNSRRS3/V/yxZIY=;H9PI5hpRSpGwYR1kzOttJQ=="
+secured: "1j459fSGbvOc16iK0SBlxK2qb/Dr1Mklm241E1eMi0lF1hfPzW0O8PEUDXOIqem2a4836rlkFfFT9f93ssycAmTCt6irc2Rjv7XphzdIYc/QcWi/YsVV3V+X0B3Z2ZTfaLusY594ooMlzqJKWV0AlcjQSKLGzhzDspUcpLTHPJ9MJ9Oq8h93U399yxUyifqQw4jVMWMI0Z6TVkhLTNsRehUBB3TwXc6jeBVCKxcuSkMB1Awl/Az8WOLZ4hEFE+ovmluJI4cgRyTi4ybX2RADSR+GM5u/pQQmZuL1C9hFX2zrgP6UmAG1Wa6vytExRIOgItXtGtS30jSbaec4sNy2HH761lJrxAlSM24HaW0WF9g=;+r1CaR/UeG3lqy0lgCJRpw=="
 ---
 

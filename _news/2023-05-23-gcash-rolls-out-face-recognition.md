@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "GCash rolls out face recognition security"
-    excerpt: "GCash said it rolled out its “DoubleSafe” face recognition security feature to 100 percent of fully-verified users to protect their"
-    publishedDateTime: 2023-05-23T10:45:00Z
-    webUrl: "https://manilastandard.net/business/it-telecom/314333455/gcash-rolls-out-face-recognition-security.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 36
   - title: "G-Xchange banks on facial recognition technology as GCash security feature"
     excerpt: "PAYMENT-system operator G-Xchange Inc. is banking on facial recognition as a security feature users of the Gcash app could use. Last Tuesday, the firm said it has rolled out the feature last May 10 amid reports of a security breach on its system."
     publishedDateTime: 2023-05-23T12:18:00Z

@@ -115,6 +115,17 @@ related:
         width: 2880
         height: 1620
         isCached: true
+  - title: "AI startup Anthropic raises $450M for safety-focused chatbot"
+    excerpt: "Yet while ChatGPT has faced criticism — and been tweaked — after offering users some concerning results, Anthropic aims to make its chatbot more cautious from the start. Anthropic’s goal is for Claude to be less prone than other chatbots to manipulation that will produce harmful or offensive results."
+    publishedDateTime: 2023-05-23T21:58:00Z
+    webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?n=%5CL"
+    ampWebUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "AI startup Figure raises US$70 million to build humanoid robots"
     excerpt: "FIGURE, a startup that wants to build general-purpose humanoid robots, has raised US$70 million from investors led by Parkway Venture Capital in its first external round, the company said on Wednesday (May 24)."
     publishedDateTime: 2023-05-24T10:32:00Z
@@ -150,15 +161,6 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 17
-  - title: "AI startup Anthropic raises $450M for safety-focused chatbot"
-    excerpt: "Yet while ChatGPT has faced criticism — and been tweaked — after offering users some concerning results, Anthropic aims to make its chatbot more cautious from the start. Anthropic’s goal is for Claude to be less prone than other chatbots to manipulation that will produce harmful or offensive results."
-    publishedDateTime: 2023-05-23T21:58:00Z
-    webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
     quality: 17
 
 secured: "kEZgytemr/EoeY2dQMhuH+Nm2R0T61RpegT1U/MbVXvZRasIcmjWT1mo9VqZqDy991Fv2IecP2uB6HDl/QDcnRoaKAhSdlZiSYbOkFwkdugTraibzDF228OYOaliyjYBLSPC64e++u6mlLoCoGx8ydkkc6Jz9oHlND6CWtm10UFJlulHAHh8hM16bTbCgD61TmXv/bndpQgL5bLxA7mzMCuLuK7Tlo7V48QWplijqiCzY+zhRFoZzNdr3rlKrRIUgAvlGswmJqg9qQoSQkwmRJ+0kUWb81FRklGsgEZhAkBS0gow6v2v9NQplE1mdBZkEjYNmypIA7PwHBursDZW1PtTRt8fn02quOQwAdbx5ojHgF4hYJNOxz/AVOe1cq7uRui/GqXOYc3xS3rehTiNeigQVr5hbItkoCa5CsAN8VPOnsmjAb1Vqj0vLht4Vi8p40D1onzDJTcI3C4bSw1TfHY2NPHaktX+59+WVSnjRgsfq51br6ZOufPf4OtGXjpzLCLrN0tTy/AtoFvflfNMgA==;gVcc8pFHYm9PXMU02oxRoQ=="

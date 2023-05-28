@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 788
         isCached: true
-  - title: "GCash rolls out face recognition security"
-    excerpt: "GCash said it rolled out its “DoubleSafe” face recognition security feature to 100 percent of fully-verified users to protect their"
-    publishedDateTime: 2023-05-23T10:45:00Z
-    webUrl: "https://manilastandard.net/business/it-telecom/314333455/gcash-rolls-out-face-recognition-security.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 36
 
 secured: "FNBA+wT8HXzOdgk1oFVAhgiWMBlb67c7ngiyptB5DPI2mwVKdaCgHaIJ8xLcUPatcuu/WkDjqW8GR3RPyo42SbLusPKdTkUh0n7Fib5nLSFv966ID4k3471PYs0YJf/nOnSHoMqS4k5W2xT3RPXSynt0Y/6RrD7XGseCedDty5UW+WOpC/dfwSkyobUa/LQ308QJB3Ryw5NaN6DkA+xYk9TnQ5BOEkFwrCi/ZtKQdCvovuiEmu+SyOTJdwZ6Hr/jGyZ91x1M7pHi2Km0rKV57WjuTySIZuwQbZN0iepc0ybSHwbOeDcSzw/sfS38XKoSReoos2mt4vHaTx06iI7Fh/BpXJPUq9BIVliE3Oszhxk=;/OyaE+PxWIyM21E8nWShdg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/business/economy/news/bank-fintech-coll
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886?amp"
 type: article
 quality: 59
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1684924059.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Fintech chiefs debate the future of UK’s digital economy in Parliament"
-    excerpt: "Fintech industry leaders warned of the risks posed by AI and ChatGPT last night as well as discussing the role automation and digital skills will play in the driving economic growth.   Speaking at the Parliament Street think tank’s Digital Economy summit on Monday night,"
-    publishedDateTime: 2023-05-23T09:28:00Z
-    webUrl: "https://techbullion.com/fintech-chiefs-debate-the-future-of-uks-digital-economy-in-parliament/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/05/image001-1-2.jpg"
-        width: 752
-        height: 423
         isCached: true
   - title: "Fintech firms need to grow up and embrace transparency"
     excerpt: "The days of taking shortcuts around regulation and lax fiscal discipline need to come to an end if the industry is going to reach its full potential."

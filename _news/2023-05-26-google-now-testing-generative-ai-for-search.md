@@ -210,15 +210,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
-  - title: "Adobe Unveils Future of Creative Cloud With Generative AI as a Creative Co-Pilot in Photoshop"
-    excerpt: "Adobe (Nasdaq:ADBE) unveiled Generative Fill in Photoshop, bringing Adobe Firefly generative AI capabilities directly into design workflows. Th"
-    publishedDateTime: 2023-05-23T11:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230523005521/en/Adobe-Unveils-Future-of-Creative-Cloud-With-Generative-AI-as-a-Creative-Co-Pilot-in-Photoshop/"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 8
 
 secured: "ec+EZoVHvLEyE+qpg7y5xuInOz+lg7TQcuwGciHYgseMnhZgIiy2jF2KAIZ/v3X28EWksaJebODofLsXdfIjLo/sBzAvD1r3kKEV/bvD3OimV+p4aICeffQ61z4Tjqx83H3UtkCIupdn/JYtMPP3bdtfm38o6Xq5R+2B0inyHAeb59P5hL0K0lUro0ntMsGQu9X8j38cDScuIrT8eSn0gTRto+XT3mjjN3lNMfKAgd23enMXpeGZH6/KUZ8uWuQjkTdMuS8YDDTIw2VpJhH4/3huCtBhnLvG5xAq0HAWzyE8RFkDfO36wW2ZPD756vywX4k/NSitud+pC5CvVrF+25rwWMnE2yraLWevARCE9BI0hhPaj8wSt6XSp9NYlklmTt9wBhvWy8vpvSLQRaxhW0UxB9KIr+OQd8jHMj5j76uv7RKtwyp/UevldPKJEwUUbDfpBc4HIhfzehxzI0VJ5zTRSkkG01iLvoyeMQBhfkGFa6GY+ZNvtnJXqUBH6YwI5y6KNeRKRlS0ima39TWbgA==;c4pIx7t7/idgCRPnZpXHIA=="
 ---

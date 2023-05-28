@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellen
 webUrl: "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellence-for-generative-ai/"
 type: article
 quality: 119
-heat: 269
+heat: 259
 published: true
 
 provider:
@@ -215,15 +215,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 17
-  - title: "Adobe Unveils Future of Creative Cloud With Generative AI as a Creative Co-Pilot in Photoshop"
-    excerpt: "Adobe (Nasdaq:ADBE) unveiled Generative Fill in Photoshop, bringing Adobe Firefly generative AI capabilities directly into design workflows. Th"
-    publishedDateTime: 2023-05-23T11:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230523005521/en/Adobe-Unveils-Future-of-Creative-Cloud-With-Generative-AI-as-a-Creative-Co-Pilot-in-Photoshop/"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 8
 
 secured: "RQUdGeeLHPjIVWpVGJ0K4x6g3ql+Wqr0mAZNcR49k5shFn7+ttAXc8bFDnrjVxFziaVgwrTsYO4EEqElcqI4cbCfmMFF1QldIa2Kj/Dueo2G76D+No6DKg+VTwfwbyR3/j8Vkm89IiK2+m5hpa7CMpdj1vw6EWAeHVEg4YOrBQkExoqESCggWldWzJmt00sao2r9oYnpXKIyLeZDj4uVfDNW0TIcMzYHt7IxiJdEtdtJy2HTFJzfUBtr+NWaM52t8fUk98UkQAxEiTDXY87VlY1Alx+21pQV4ctsQGakICF+TkW/GT4RyNnBS9++1I6Mvpvg0dM4GodDULWtNsWDWYL6k+znyGhmud/KOzgrT1M=;cSlcN1iKOj2EgF19CIo8IA=="
 ---
