@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Embracing AI in the world of finance"
-    excerpt: "Large Language Models (LLMs) like ChatGPT are shaking up the world of finance. Morgan Stanley is testing an OpenAI-powered chatbot to assist their financial advisors. The bot, trained on the bank's own research reports,"
-    publishedDateTime: 2023-05-23T14:11:00Z
-    webUrl: "https://phys.org/news/2023-05-embracing-ai-world.html"
-    ampWebUrl: "https://phys.org/news/2023-05-embracing-ai-world.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-embracing-ai-world.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/embracing-ai-in-the-wo.jpg"
-        width: 900
-        height: 1037
-        isCached: true
   - title: "How AI Can Be Used in Investing"
     excerpt: "Another way AI is used in investing is for sentiment analysis. Markets move according to a variety of factors, such as macroeconomic data, earnings reports, geopolitical issues, and interest rates, as well as market sentiment."
     publishedDateTime: 2023-05-24T19:49:00Z

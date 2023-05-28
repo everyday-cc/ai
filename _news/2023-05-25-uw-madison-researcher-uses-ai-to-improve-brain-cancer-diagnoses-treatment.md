@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "RPI and Albany Medical College Researchers Awarded $3.3 Million To Improve Breast Cancer Treatment Using Artificial Intelligence"
-    excerpt: "Researchers from Rensselaer Polytechnic Institute (RPI) and Albany Medical College were awarded a $3.3 million grant over five years by the National Cancer Institute to use artificial intelligence (AI) to improve targeted drug therapy in HER2-positive breast cancer treatment."
-    publishedDateTime: 2023-05-23T13:46:00Z
-    webUrl: "https://news.rpi.edu/content/2023/05/23/rpi-and-albany-medical-college-researchers-awarded-33-million-improve-breast"
-    type: article
-    provider:
-      name: RPI News
-      domain: rpi.edu
-    quality: 0
-
 secured: "w0XLVxrL7M2vDLaV46hW4XapCOguRpmutgc5kIDVq6BumalGbJ9/jP1jBfOzVGuxIr7Qf2LjH9ydyJYQ2nIcJExG3hVr+8C6m2OBBtjB/7iC1B/H0UvJiCqmKitoHafyg3OCV5HjyTBZ2be6xXs3NpEX9DChwPXv/OBxC7WL3gziZFvMlfeS3Ou23yoJQWiJ2goQH7O8NJrppY5PXCid/BnVIbHOOU8O+oxY4FPcwPXdNRnGzrBe2NMtFwiqyThMyZJpxhSQ1nrLIqhUh9YapCgUvKr37jwjzmwSP/9u+nVCv2TzoRDADh4Pj48fwUNZksd4qdlNNOp+J1L71sxllxIjTjurkpluqkOa7RapVQU=;8TDGjtsPGs/Rm65pCEFbXQ=="
 ---
 

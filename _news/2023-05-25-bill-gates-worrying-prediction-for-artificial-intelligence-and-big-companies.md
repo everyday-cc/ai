@@ -41,6 +41,20 @@ related:
         width: 2102
         height: 1426
         isCached: true
+  - title: "AI, big tech and the ethics of prediction"
+    excerpt: "AI ethics researcher Nell Watson discusses the challenges of regulating an industry that is developing at ‘breakneck speed’."
+    publishedDateTime: 2023-05-24T09:00:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/ai-big-tech-ethics-prediction-regulation-nell-watson"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/05/robot_hand_pointing.jpeg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "rj67OZpiq57jKgBobLAAXEVOc/5Xq9SkFOHWmIJv1WXwsPvY9+LuKK1uXeSFNpkQYynl4cODYDcdZAd/QphfdL/Z862ODk9dE1TuZ32zBFqFrDsz79B2n/2zVHWxnUfN6pMwwNVkg1eWpmn0VfQuFiiGNeDxYmtG3fFRVRNq8APRl1TmgFEzLYchJSyyX5iHMPfJOvGVl8ZqSVIOMJo93jgqrvTDky6v+fsUt8KVg+8rpEWvHn4W54Fz6y8YF0TubIQo86x5wT6tkAnubt89ddnRqbFzt3cGF+luoEht0WK8oBMQh5iRI6EINcRzknFFvOYgeZhPTdO9CUpLh5RrRYUJBJ5IeY088aQ8nnj+ohw=;1Q3RSIxOqM/0EIm9aTebmg=="
 ---

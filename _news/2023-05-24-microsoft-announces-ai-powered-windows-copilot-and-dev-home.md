@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Build next-generation, AI-powered applications on Microsoft Azure"
-    excerpt: "Welcome to Microsoft Build 2023—the event where we celebrate the developer community. This year, we’ll dive deep into the latest technologies across application development and AI that are enabling the next wave of innovation.\nThe post Build next-generation, AI-powered applications on Microsoft Azure"
-    publishedDateTime: 2023-05-23T15:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/build-next-generation-ai-powered-applications-on-microsoft-azure/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 119
-    images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/05/247907_MS_Build_2023_DigitalAppYoast-SEO-1-1024x536.png"
-        width: 1024
-        height: 536
-        isCached: true
-  - title: "Microsoft makes a push for AI responsibility and safety through Azure"
-    excerpt: "Azure AI Content Safety is now available in preview, but extra features are also coming for Designer and Bing."
-    publishedDateTime: 2023-05-23T15:00:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-pushes-for-ai-responsibility-and-safety-through-azure/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-pushes-for-ai-responsibility-and-safety-through-azure/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-pushes-for-ai-responsibility-and-safety-through-azure/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 119
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/8829b6fd5b43a5e04b8b21eed200a0d06ad1693a/2023/05/22/5186cb3b-4ecd-43d7-83b4-234c88e2755e/msft.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "At Microsoft Build 2023, Azure Cosmos DB joins the AI toolchain"
     excerpt: "Microsoft has introduced a spectrum of new tools to make it easier to customize and focus the output of GPT-based AI models. Cosmos DB plays an important role."
     publishedDateTime: 2023-05-23T19:30:00Z
@@ -103,22 +73,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "All the major Bing Chat and AI announcements from Microsoft Build 2023"
-    excerpt: "Microsoft is continuing to grow its presence in the AI space with a series of new updates and launches. Here's everything you need to know."
-    publishedDateTime: 2023-05-23T15:00:00Z
-    webUrl: "https://www.zdnet.com/article/all-the-major-bing-chat-and-ai-announcements-from-microsoft-build-2023/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/all-the-major-bing-chat-and-ai-announcements-from-microsoft-build-2023/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/all-the-major-bing-chat-and-ai-announcements-from-microsoft-build-2023/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/124918cee0367daf40b45afa743a1fea317fabd5/2023/05/22/6b71b835-9922-4290-a876-7844a6eddf85/gettyimages-1238869000.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft just supercharged ChatGPT with Bing's AI-powered search"
     excerpt: "At Microsoft Build 2023, Microsoft announced that it is bringing the new Bing to ChatGPT as the default search experience."
     publishedDateTime: 2023-05-23T16:32:00Z
@@ -150,22 +104,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1238869000.jpg?w=1024"
         width: 1024
         height: 683
-        isCached: true
-  - title: "The Microsoft Store will help curate AI tools for you now"
-    excerpt: "You probably don't realize how many tasks AI can help you with now, but Microsoft's new AI hub aims to change that."
-    publishedDateTime: 2023-05-23T15:00:00Z
-    webUrl: "https://www.zdnet.com/article/the-microsoft-store-is-getting-more-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-microsoft-store-is-getting-more-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-microsoft-store-is-getting-more-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/4edc48a9de8035a831b0249d0bce689c61ea961a/2023/05/22/bab855bc-c966-42a8-9159-01e84b344c3d/microsoft-store-ai-hub.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "How Microsoft is laying the foundation for custom AI development"
     excerpt: "With Azure OpenAI at the center, Microsoft has introduced a spectrum of new tools for building custom GPT-based LLMs. Here’s how Cosmos DB’s new vector search capabilities fit in."
@@ -199,22 +137,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft confirms 365 Copilot AI will be 'natively integrated' into Edge"
-    excerpt: "The same AI assistant that Microsoft is adding to Office will soon be natively integrated into the company's Edge browser as well.."
-    publishedDateTime: 2023-05-24T15:03:00Z
-    webUrl: "https://www.engadget.com/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html"
-    ampWebUrl: "https://www.engadget.com/amp/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 103
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/aYBYCJ1XAE0xA1D7qsxXAw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/093f0380-f8bf-11ed-9f92-f24cb882d1a4.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft CTO tells devs to ‘do legendary sh*t’ with AI at 2023 Build conference"
     excerpt: "To help developers build AI effectively, securely and responsibly, Microsoft has announced a large set of updates and new initiatives"
     publishedDateTime: 2023-05-23T23:03:00Z
@@ -230,50 +152,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/10/Microsoft-Logo-white-bkgd.jpg?w=1200&strip=all"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft announces Azure tools to help developers deploy complex environments and secure their apps"
-    excerpt: "Next up is another tool that can ease the workload of developers and reduce the worry of admins: GitHub Advanced Security for Azure DevOps. Last year, Microsoft announced this service was coming, and now, Microsoft is announcing the availability of a public preview."
-    publishedDateTime: 2023-05-23T15:01:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-announces-azure-tools-to-help-developers-deploy-complex-environments-and-secure-their-apps/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-azure-tools-to-help-developers-deploy-complex-environments-and-secure-their-apps/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-azure-tools-to-help-developers-deploy-complex-environments-and-secure-their-apps/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/c1e41e19b8a3f4e5c5306cba90afb53a6dff435f/2023/05/23/0eacd389-da03-4a85-977f-27457bc2cc96/gettyimages-1461116181.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Nvidia, Microsoft Open the Door to Running AI Programs on Windows PCs"
-    excerpt: "Nvidia is working with Microsoft to let consumers run powerful AI programs on Windows PCs equipped with its RTX graphics."
-    publishedDateTime: 2023-05-23T15:00:00Z
-    webUrl: "https://uk.pcmag.com/graphics-cards/146964/nvidia-microsoft-open-the-door-to-running-ai-programs-on-windows-pcs"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 86
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/n/nvidia-mic/nvidia-microsoft-open-the-door-to-running-ai-programs-on-win_3f5p.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How Red Hat OpenShift on AWS (ROSA) accelerates enterprise modernization initiatives on cloud, delivering business application innovation"
-    excerpt: "When it comes to driving large technology transformation on Cloud, leveraging&#160;existing investments, and optimizing open innovation within the larger ecosystem with a hybrid cloud platform, IBM Consulting&#8482; offers several learnings to help organizations address the architecture and technology"
-    publishedDateTime: 2023-05-26T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/how-red-hat-openshift-on-aws-rosa-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 86
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/How-Red-Hat-OpenShift-on-AWS-ROSA-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation-scaled.jpg"
-        width: 2560
-        height: 1280
         isCached: true
   - title: "Elon Musk Wants to Challenge Google and Microsoft in AI"
     excerpt: "Twitter boss tells WSJ London event the social-media company could be cash-flow positive starting in June."
@@ -400,6 +278,22 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 78
+  - title: "Goldman Sachs And Microsoft Are Quietly Using AI To Lay The Groundwork For The Next Bitcoin, Ethereum And Crypto Price Bull Run"
+    excerpt: "Wall Street giant Goldman Sachs and Microsoft﻿ are among companies backing a new blockchain designed to streamline financial"
+    publishedDateTime: 2023-05-23T23:14:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2023/05/23/goldman-sachs-and-microsoft-are-quietly-using-ai-to-lay-the-groundwork-for-the-next-bitcoin-ethereum-and-crypto-price-bull-run/"
+    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/05/23/goldman-sachs-and-microsoft-are-quietly-using-ai-to-lay-the-groundwork-for-the-next-bitcoin-ethereum-and-crypto-price-bull-run/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/05/23/goldman-sachs-and-microsoft-are-quietly-using-ai-to-lay-the-groundwork-for-the-next-bitcoin-ethereum-and-crypto-price-bull-run/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646ce9abf88059e0ae467d31/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 797
+        isCached: true
   - title: "A leaked Amazon generative AI sales playbook shows how the company is going after ChatGPT-maker OpenAI, Microsoft and Google"
     excerpt: "The guidelines may help Amazon make a stronger push in generative AI, where Microsoft, OpenAI, Google and others have taken an early lead."
     publishedDateTime: 2023-05-25T20:07:00Z
@@ -462,20 +356,6 @@ related:
         width: 897
         height: 598
         isCached: true
-  - title: "Microsoft Build 2023: The Biggest News On Copilots, AI, Windows, Security"
-    excerpt: "Microsoft gave updates on generative AI copilots, plugins, security, Windows, Fabric, Teams, Power Platform and other offerings during Build 2023."
-    publishedDateTime: 2023-05-23T15:00:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-build-2023-the-biggest-news-on-copilots-ai-windows-security"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 70
-    images:
-      - url: "https://www.crn.com/resources/0281-1814f1950bee-9e2b6be33127-1000/msft-build-2023.jpeg"
-        width: 611
-        height: 458
-        isCached: true
   - title: "Intel And Microsoft Team Up To Bring AI To Windows PCs At Scale, What You Need To Know"
     excerpt: "The announcement comes as part of Microsoft's Build 2023 conference, where the two previewed the AI capabilities of Meteor Lake processors."
     publishedDateTime: 2023-05-24T15:51:00Z
@@ -514,6 +394,20 @@ related:
       - url: "https://sdtimes.com/images/sd-premium.png"
         width: 628
         height: 246
+        isCached: true
+  - title: "Microsoft paused raises and cut bonuses to 'invest in the AI wave,' exec tells employees in internal message"
+    excerpt: "In response to employee criticism about recent pay changes, the exec said one reason is \"wanting to invest in the AI wave,\" internal messages show."
+    publishedDateTime: 2023-05-24T18:04:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-exec-explains-pay-changes-cut-bonuses-ai-wave-investment-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://i.insider.com/646e4e056f9a480018736ddd?width=1200&format=jpeg"
+        width: 682
+        height: 341
         isCached: true
   - title: "How Microsoft is building a platform for custom AI development"
     excerpt: "With Azure OpenAI at the center, Microsoft has introduced a spectrum of new tools for building custom GPT-based LLMs. Here’s how Cosmos DB’s new vector search capabilities fit in."
@@ -613,34 +507,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 57
-  - title: "Build 2023: Microsoft Unleashes an AI Tsunami for Developers, Customers"
-    excerpt: "AI is the focus at this year's Build conference, and Microsoft has a lot to say on this topic for developers and its customers."
-    publishedDateTime: 2023-05-23T15:01:00Z
-    webUrl: "https://www.thurrott.com/cloud/283506/build-2023-microsoft-unleashes-an-ai-tsunami-for-developers-customers"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 56
-    images:
-      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/05/copilot-stack.jpg"
-        width: 1066
-        height: 600
-        isCached: true
-  - title: "Microsoft expands AI plugins and copilot ecosystem for developers"
-    excerpt: "At the same time the company revealed a host of new copilot tools, which are applications that use generative AI to help users with cognitive tasks, such as writing a sales pitch, taking notes or generating images."
-    publishedDateTime: 2023-05-23T15:00:00Z
-    webUrl: "https://siliconangle.com/2023/05/23/microsoft-expands-ai-plugins-copilot-ecosystem-developers/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Hero-art-8c3e25f0-e8b1-484e-a1db-6a6782aa887c.jpg"
-        width: 1256
-        height: 584
-        isCached: true
   - title: "Nvidia teams up with Microsoft to accelerate AI efforts for enterprises and individuals"
     excerpt: "Nvidia will integrate its AI Enterprise software into Azure Machine Learning and introduce deep learning frameworks on Windows 11 PCs."
     publishedDateTime: 2023-05-23T19:48:00Z
@@ -688,48 +554,6 @@ related:
       - url: "https://sdtimes.com/wp-content/uploads/2023/05/image001.png"
         width: 1467
         height: 491
-        isCached: true
-  - title: "Microsoft Build 2023: The Biggest Azure News"
-    excerpt: "Microsoft Build 2023 included news around DevOps, Azure AI Content Safety, Azure Cognitive Service for Language and Microsoft Fabric."
-    publishedDateTime: 2023-05-23T15:00:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-build-2023-the-biggest-azure-news"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/0281-17e8a96e83eb-d93a4c3e590a-1000/microsoft-azure-sign-2.jpeg"
-        width: 500
-        height: 375
-        isCached: true
-  - title: "Microsoft debuts AI assistant for Windows 11"
-    excerpt: "Microsoft is bringing its generative AI capabilities to Windows PCs. Unveiled during the company’s Build developer conference on Tuesday, the feature, called Windows Copilot, gi"
-    publishedDateTime: 2023-05-23T15:00:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-debuts-ai-assistant-windows-150055268.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/oWaoc965sq0ptk_r_dxR0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_yahoo_finance_433/46a0bca06d0130cc4a9751e7d8ad3a8a"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft is giving letting companies build their own AI bots"
-    excerpt: "Microsoft , on Tuesday, announced a new service that will allow enterprises to build their own AI bots or copilots as the company calls them. Unveiled at Microsoft's annual Build"
-    publishedDateTime: 2023-05-23T15:00:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-giving-letting-companies-build-150003775.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/7FwzaEN0YvUK_Xbntj0JqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/e34f91bf8aa03dff3cacc8549b0fe3ad"
-        width: 1200
-        height: 800
         isCached: true
   - title: "The data platform for the era of AI: introducing Microsoft Fabric"
     excerpt: "Microsoft has announced the launch of Microsoft Fabric, an end-to-end analytics platform designed to meet the growing data needs of organisations."
@@ -867,20 +691,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Sapiens reaches agreement with Microsoft to leverage generative AI for insurers"
-    excerpt: "Sapiens International Corporation has announced an agreement to integrate Microsoft Azure OpenAI and Azure Power Virtual Agents to provide generative AI"
-    publishedDateTime: 2023-05-23T15:00:00Z
-    webUrl: "https://www.reinsurancene.ws/sapiens-reaches-agreement-with-microsoft-to-leverage-generative-ai-for-insurers/"
-    type: article
-    provider:
-      name: reinsurancene
-      domain: reinsurancene.ws
-    quality: 50
-    images:
-      - url: "https://149448277.v2.pressablecdn.com/wp-content/uploads/2023/05/blackrock-320x250-1.gif"
-        width: 320
-        height: 250
-        isCached: true
   - title: "NVIDIA Collaborates With Microsoft to Accelerate Enterprise-Ready Generative AI"
     excerpt: "NVIDIA today announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives. The integration will create a secure,"
     publishedDateTime: 2023-05-23T19:18:00Z
@@ -959,43 +769,6 @@ related:
         width: 1351
         height: 615
         isCached: true
-  - title: "Microsoft Build 2023: CEO Satya Nadella’s Boldest Statements"
-    excerpt: "Among the technological advancements introduced during Build 2023 by Redmond, Wash.-based Microsoft is more access to generative artificial intelligence “copilots” across the Microsoft product suite, and embracing of plugins to give developers more generative AI options and more AI-powered security offerings."
-    publishedDateTime: 2023-05-23T22:37:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-build-2023-ceo-satya-nadella-s-boldest-statements"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0281-18159ca7c14e-fa2d6c783a75-1000/nadella.png"
-        width: 600
-        height: 392
-        isCached: true
-  - title: "Thomson Reuters Embraces Generative AI with Microsoft 365 Copilot Integration, Upcoming Product Updates"
-    excerpt: "A host of Thomson Reuters’ products will now be available through Microsoft 365 Copilot for Word, while those products themselves are getting new generative AI capabilities later this year."
-    publishedDateTime: 2023-05-23T17:38:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/05/23/thomson-reuters-embraces-generative-ai-with-microsoft-365-copilot-integration-upcoming-product-updates/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 38
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/05/Thomson-Reuters-Legal-Drafting-767x633-2.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Microsoft launches generative AI tools for developers"
-    excerpt: "Microsoft has launched new tools for developers to integrate generative artificial intelligence into their business software, as Big Tech races to commercialise the nascent technology."
-    publishedDateTime: 2023-05-23T15:00:00Z
-    webUrl: "https://www.ft.com/content/b9bb533e-d2cb-492f-89b9-69b26e64ad3a"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 36
   - title: "Microsoft to bring Copilot, an AI personal assistant, to Windows"
     excerpt: "The Windows Copilot will be available in a taskbar for users. Once open, the Copilot will “stay consistent across your apps, programs and windows.”"
     publishedDateTime: 2023-05-23T18:26:00Z
@@ -1079,17 +852,6 @@ related:
       name: 9to5google
       domain: 9to5google.com
     quality: 30
-  - title: "Empowering the future generation: The advantages of educating students in the new age era of AI"
-    excerpt: "Artificial intelligence (AI) has become a revolutionary force in the quickly changing world of technology, altering various sectors and our daily lives. As AI develops, it is more crucial than ever to get the"
-    publishedDateTime: 2023-05-27T09:53:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 27
   - title: "Habu Announces Collaboration With Microsoft Azure to Deliver Zero-Trust Data Clean Room"
     excerpt: "Habu, a global innovator in data clean room software, today announced a collaboration with Microsoft Azure to integrate its Data Clean Room applicatio"
     publishedDateTime: 2023-05-23T19:05:00Z
@@ -1131,47 +893,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "NashTech is now a Microsoft Azure Solutions Partner for Data & AI, Digital & App Innovation, and Infrastructure Solution Areas"
-    excerpt: "We are thrilled to announce that NashTech has achieved Microsoft Azure Solution partner status and enhanced its capabilities to help customers manage and govern their data across multiple systems to b"
-    publishedDateTime: 2023-05-25T18:02:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32581713/nashtech-is-now-a-microsoft-azure-solutions-partner-for-data-ai-digital-app-innovation-and-infrast"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
-  - title: "Avatar animation, AI-powered video production companies among AWS’ first generative AI accelerator cohort"
-    excerpt: "Companies that employ generative artificial intelligence to create clips for social media ... more than 1,200 applications for the 10 spaces in the programme, prompting AWS to expand it to 21. The company will provide the cohort with the resources ..."
-    publishedDateTime: 2023-05-25T07:21:00Z
-    webUrl: "https://www.tvbeurope.com/media-management/avatar-animation-ai-powered-video-production-companies-among-aws-first-generative-ai-accelerator-cohort"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 17
-  - title: "Hyperautomation platform Zvolv to integrate AI orchestration to leverage generative AI in new age enterprise applications"
-    excerpt: "Hyperautomation platform Zvolv to integrate AI orchestration to leverage generative AI in new age enterprise applications - Zvolv, a leading global enterprise hyperautomation company today announced new generative AI capabilities"
-    publishedDateTime: 2023-05-25T05:31:00Z
-    webUrl: "https://www.siliconindia.com/news/general/hyperautomation-platform-zvolv-to-integrate-ai-orchestration-to-leverage-generative-ai-in-new-age-enterprise-applications-nid-223190-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 14
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/b7z51cen.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "Informatica Announces Integration of its Intelligent Data Management Cloud with Microsoft Fabric"
-    excerpt: "Informatica is one of the first ISV design partners for Microsoft Fabric and brings Azure customers access to IDMC's comprehensive suite of capabilities as a first-party service. The integration allows Azure customers to have: Seamless integration with Informatica's Data Quality solution to identify and provide high quality,"
-    publishedDateTime: 2023-05-23T15:31:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/23/9819642.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
 
 secured: "GmRVkIyO2jo6dWTYfbnNlsU2ZII0/U/Br9MLEIxE4wROW2YFT1jEWgkmmC5uvsrviXlfViNtbb66tydhx0wF2qsyIF91/tEY8KxBPxhvVxvI6UjzdorVHH/NCX1BBq3W663xjhRd6YQwsjm5leEAnR9dT44LudM2yp/NNJddI6ig0e/zoYegX/7KNqmPmaGphY+Kg982pdvCnsUZgtFyL8EhZ8/4ynEbq+Ei9vm+TpPKs/uJ4W6RdF5STIpuA5bq716/WEzNXe7Ae29OfzOsfmpht1dOgJvv7QLcDTc0EwC1074V18nsNx6w18q7nqeFjYL/tfGcVg0w8B4EGnL/vNuVsHDEsR/OGvlHv7YEitziYv+HdEBGCO1C7ZrCs47vUuth9PMZKwVn2GOkjYtZK1BlY+xjbXFv8/P43KXyqus33p3DXIyrU8Unx6LMYI+U2/xq84OhPGSsAR68172tKNTvotT2o70tGVGlZsjr3X7+ylpG/3DpWW2VQbC6oHnom4Aw3g+gdVnUIiB9i8/DLQ==;7Er60UjjGR9UBe9vXFr/pw=="
 ---

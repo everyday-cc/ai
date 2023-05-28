@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/jugalbandi-microsoft-b
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: NDTV
       domain: ndtv.com
     quality: 31
-  - title: "With help from next-generation AI, Indian villagers gain easier access to government services"
-    excerpt: "AI chatbot Jugalbandi powered by Bhashini and Azure OpenAI Service gives Indian villagers access to government services in their language."
-    publishedDateTime: 2023-05-23T15:00:00Z
-    webUrl: "https://news.microsoft.com/en-in/features/with-help-from-next-generation-ai-indian-villagers-gain-easier-access-to-government-services/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 30
-    images:
-      - url: "https://i.ytimg.com/vi/p9gh_HZQCbk/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "3haEvabJeYgUE0oakLa0RxrtutCIUUPFUhx52ERVoktcE58Cs5T6sW5cIqbXO8aDMBja7SxxTAQyaCL1kAcu60grQTekLPZw9M2/zLVYO2/4B6zmngfJ6/n8o4dHSbSQtEw9y+VvasFblGR5l8jLeqMr2XhNNlC3eAbNFDAfC/2a+41pEJsaFaUYahe3z+ebQJdFbSP+OJOa66jEv1glsF8mCuXayW0WgSrU/Kaes7CRyyrk6Olno82SyYmLJdjSSXxPe1OAjp9U2PraIS/kpHqBt4hkr65Uy9xVrQiF/ow+vk8yp4GCMNeYWddzGTlq36S7h2KrDwZvhlFPAO+uhptyoNrkFP69nlHiFmEX+fE=;c3YhcrkqhsJikHBVo2Uplg=="
 ---

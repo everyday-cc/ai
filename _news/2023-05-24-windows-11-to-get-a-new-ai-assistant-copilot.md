@@ -59,20 +59,6 @@ related:
         width: 639
         height: 402
         isCached: true
-  - title: "AI Startup Anthropic Raises $450 Million for Safety-Focused Chatbot"
-    excerpt: "Anthropic, an artificial intelligence startup positioning itself as the builder of a safer kind of chatbot, said it raised $450 million in funding to bolster the development of its AI bot, named Claude. The deal brings the company’s total raised to ..."
-    publishedDateTime: 2023-05-23T14:40:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-23/ai-startup-anthropic-raises-450-million-for-safety-focused-chatbot"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iASVrvag2dgg/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI startup Figure raises $70 million to build humanoid robots"
     excerpt: "(Reuters) - Figure, a startup that wants to build general-purpose humanoid robots, has raised $70 million from investors led by Parkway Venture Capital in its first external round, the company ..."
     publishedDateTime: 2023-05-24T10:20:00Z
@@ -96,15 +82,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "Alphabet-backed AI startup Anthropic raises $450 million as funding freeze thaws"
-    excerpt: "Anthropic logo is seen in this illustration taken March 31, 2023. REUTERS/Dado Ruvic/Illustration"
-    publishedDateTime: 2023-05-23T14:21:00Z
-    webUrl: "https://www.reuters.com/news/picture/alphabet-backed-ai-startup-anthropic-rai-idUSKBN2XE0VA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 42
   - title: "Anthropic raises $450M to build powerful but trustworthy AI systems"
     excerpt: "Anthropic has risen to become a well-known generative AI startup. Co-founded by the siblings Dario Amodei and Daniela Amodei who were vice presidents at the AI company OpenAI LP, it’s best known for the generative AI chatbot ChatGPT,"
     publishedDateTime: 2023-05-23T16:14:00Z

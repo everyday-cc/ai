@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-changing-automation-testing-in-quality-assurance/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Embracing AI in the world of finance"
-    excerpt: "Large Language Models (LLMs) like ChatGPT are shaking up the world of finance. Morgan Stanley is testing an OpenAI-powered chatbot to assist their financial advisors. The bot, trained on the bank's own research reports,"
-    publishedDateTime: 2023-05-23T14:11:00Z
-    webUrl: "https://phys.org/news/2023-05-embracing-ai-world.html"
-    ampWebUrl: "https://phys.org/news/2023-05-embracing-ai-world.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-embracing-ai-world.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/embracing-ai-in-the-wo.jpg"
-        width: 900
-        height: 1037
-        isCached: true
   - title: "AI Terminology 101: AutoML - The Game Changer in Machine Learning"
     excerpt: "This complex yet intriguing area has a lot to offer, and one of its increasingly popular innovations is AutoML, or Automated Machine Learning. AutoML refers to the automated process of end-to-end development of machine learning models. It aims to make ..."
     publishedDateTime: 2023-05-23T17:59:00Z

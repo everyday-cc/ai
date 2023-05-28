@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/business/2023/may/24/it-services-fi
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.amp"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Infosys_1665729477.jpg?utm_source=fb"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Hyperautomation platform Zvolv to integrate AI orchestration to leverage generative AI in new age enterprise applications"
+    excerpt: "Hyperautomation platform Zvolv to integrate AI orchestration to leverage generative AI in new age enterprise applications - Zvolv, a leading global enterprise hyperautomation company today announced new generative AI capabilities"
+    publishedDateTime: 2023-05-25T05:31:00Z
+    webUrl: "https://www.siliconindia.com/news/general/hyperautomation-platform-zvolv-to-integrate-ai-orchestration-to-leverage-generative-ai-in-new-age-enterprise-applications-nid-223190-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 14
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/b7z51cen.jpg"
+        width: 570
+        height: 367
         isCached: true
 
 secured: "GB4oVQ+eoV66EKNTmyBjIdSRuUeyqGsWwAVM4yBCfWkZVPfwlf0lwVsKkgg88DlAC8CkRQ2m43WcvFva2bb3C1rYhGajxSMOCj9FsOvD0q1UvXxVIrRA5UqrmGo2XBb5LOhp++22WDXyp9fNVSIVeMTKDDDcfpkzqmcREJK0YRaYtY5gM1QBkPLXahy9JSsP0dg/BWCRE4RhXoh4NYmGAPhlYKNc+PknyJnhJLxikXI/Go6Xvp/3A+YAx/TL1IhRZAgaXqKY66J7QSUXIBo4D3O5N+2AFA40jRhChwST+D/zObR+LBBIMllOlA7pnQcyQpQ3PSI/8lrdqwowEFspXt0LsmGurvTU7ieDjiALb84EHhJbyxlFALwA+YOwxgrmyISDh5rHz9LzxClEGa7U3b05LiLRAsm6usJtneZlHT5ijfHKqgrOWNoHChDkj3V+2GK1/pWT168j/QSuC11wcvdsI2DK/ih31HvnOFoFPNT9/hgvBwIUFBao5E2YQShje0Wd9XsD5hvrs9idDrHOHg==;XhkEU4YZ/972H1f8+X/JbA=="

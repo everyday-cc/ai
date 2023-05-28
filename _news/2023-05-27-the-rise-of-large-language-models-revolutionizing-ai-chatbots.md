@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 796
         isCached: true
-  - title: "Red Hat makes Ansible Event-Driven and adds generative AI chatbot"
-    excerpt: "Red Hat presented some much-needed innovation for Ansible at its summit in Boston. One very big change is that Ansible is now Event-Driven. No longer does"
-    publishedDateTime: 2023-05-23T14:47:00Z
-    webUrl: "https://www.techzine.eu/blogs/infrastructure/106386/red-hat-makes-ansible-event-driven-and-adds-generative-ai-chatbot/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2022/03/coen-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "AI For Kids: A Chatbox Exploration"
     excerpt: "Parents and Educators! Help kids learn about AI (artificial intelligence) by experimenting directly with chatbots and machine learning technology."
     publishedDateTime: 2023-05-25T23:18:00Z

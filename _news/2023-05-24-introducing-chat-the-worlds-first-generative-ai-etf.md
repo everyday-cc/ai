@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "How Red Hat OpenShift on AWS (ROSA) accelerates enterprise modernization initiatives on cloud, delivering business application innovation"
+    excerpt: "When it comes to driving large technology transformation on Cloud, leveraging&#160;existing investments, and optimizing open innovation within the larger ecosystem with a hybrid cloud platform, IBM Consulting&#8482; offers several learnings to help organizations address the architecture and technology"
+    publishedDateTime: 2023-05-26T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/how-red-hat-openshift-on-aws-rosa-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 86
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/How-Red-Hat-OpenShift-on-AWS-ROSA-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
   - title: "Red Hat OpenShift AI Accelerates Generative AI Adoption Across the Hybrid Cloud"
     excerpt: "Red Hat, Inc., the world's leading provider of open source solutions announced new capabilities for Red Hat OpenShift AI. Building and expanding upon the proven capabilities of Red Hat OpenShift and Red Hat OpenShift Data Science,"
     publishedDateTime: 2023-05-23T18:17:00Z

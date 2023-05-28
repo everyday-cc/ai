@@ -41,15 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Machine intelligence for designing molecules and reaction pathways"
-    excerpt: "Researchers in Japan have developed a machine learning process that simultaneously designs new molecules and suggests the chemical reactions needed to make them. The team at the Institute of Statistical Mathematics (ISM) in Tokyo published their results in the journal Science and Technology of Advanced Materials: Methods."
-    publishedDateTime: 2023-05-23T13:49:00Z
-    webUrl: "https://phys.org/news/2023-05-machine-intelligence-molecules-reaction-pathways.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 4
 
 secured: "XSzcZTGbt1hF5SC4eRi+s+EVQobanMInCYntkNA8NbW6fdPEqci/vw0lis5lJX1FUhPSc6lwviv0vHwaYz4NGHN7oAR8W1lULRGcpKAFvqHIVHwBpZRQQnZvuiQDKJ71qYMkrxejcu5oBo/C9/dkBh+O5dec5oAcoRLC4j6hGKqAFJoR/nhwAt9YXZQVhJ0uDZ/vmxjQvuCxI1LNEhBMjIK3T5kCWfzuKZGwXIjeo7RBrbLfTODhZsqM4LjsZhgbDNv8TuzFsm0/sOd3GdKiine2+jzPf5EtRN6ORBQhWelyxTUon4Zkdgoq+cdkpdgIJURrNr8GBZvTfQAYXwEgchC4ZHwIUITXcI4nbJoKEQ0=;ZLZhdrPpZDouJ1nDsAj45A=="
 ---

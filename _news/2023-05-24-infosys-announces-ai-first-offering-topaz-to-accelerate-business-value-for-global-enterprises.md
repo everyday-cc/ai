@@ -78,6 +78,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 31
+  - title: "Hyperautomation platform Zvolv to integrate AI orchestration to leverage generative AI in new age enterprise applications"
+    excerpt: "Hyperautomation platform Zvolv to integrate AI orchestration to leverage generative AI in new age enterprise applications - Zvolv, a leading global enterprise hyperautomation company today announced new generative AI capabilities"
+    publishedDateTime: 2023-05-25T05:31:00Z
+    webUrl: "https://www.siliconindia.com/news/general/hyperautomation-platform-zvolv-to-integrate-ai-orchestration-to-leverage-generative-ai-in-new-age-enterprise-applications-nid-223190-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 14
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/b7z51cen.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "LAEZknTIZXBmcq1EisFSrR2C2K9C9NwsU0uP3jXMslQLowaJNz5pzXDZsP73odJP0L0ZL2moXmnbnm7jy17CcM8qTqmI5ZddMYh7IxELSpn5lmdE6xezXd2LVuDOg9O6HHthyibFVAdCWXVCdAK/okygCrkQT4UtXMPJ7knKRDNaMbVoUNPvyxmFcbJxidqqLK0XvD1Gy//Jjx4KpHYN8VqiLr/g10gO5Xl2yRK7cjNERauR7QFPmOdfKDT7TYFXZ/YHUA/JxTrnMG97tOB7qQ8JbJ8uAVIYU3W+q7+iYE5LGBdRl80qrHrE7tuTo7L8YF3CQwbOcaGnhixwrmVCNqvBcofQyAwy4lwtJO6A/GY=;MtEhARwSFUM2rVNHEY8F1Q=="
 ---

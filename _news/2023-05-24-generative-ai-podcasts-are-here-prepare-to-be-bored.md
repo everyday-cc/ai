@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/generative-ai-podcasts-boring/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/generative-ai-podcasts-boring/amp"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -142,6 +142,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Avatar animation, AI-powered video production companies among AWS’ first generative AI accelerator cohort"
+    excerpt: "Companies that employ generative artificial intelligence to create clips for social media ... more than 1,200 applications for the 10 spaces in the programme, prompting AWS to expand it to 21. The company will provide the cohort with the resources ..."
+    publishedDateTime: 2023-05-25T07:21:00Z
+    webUrl: "https://www.tvbeurope.com/media-management/avatar-animation-ai-powered-video-production-companies-among-aws-first-generative-ai-accelerator-cohort"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 17
 
 secured: "NFou/rW0lq0fLz8tAjRtSvzMPWqb06VBf5LIvTX9H2fC0wY0oFT8a0xKoRiIZS+amDALLEgTnO6Es5GVNxJIF/zCMNHPESBzcMLo0CJr/Ibq9Un8ABTZ+oUXDo9+FSChf3NK4sD8ZhGi2V/VgO9aS1fyxuwz60D6TlsSsIp5zuwHuFtB9N34yIXoQmAslilTUbs3pFMzZXdgTwwKZhpowXcpvFz6lWUstAxlTwp7Gb8DEkjo5ayAkxHytlTqI1Gzth5VnJEJ829ER7q28p7ZjjqRv/ZTr5dJkQNOc7uPVbGWra59MQ3nzfY82nTdLBRR+fZDOoszpBqetGqcifUahCgS1hHjO9fJ9Pza8Kd84TojhwRR10mcXGkP7DjodAlzGFTbUdW524Hcx2vTDqcPe7r0wYMWU0OcLFLXzvRgY74eEyzORGNQzYrDr6bgU14VZ5iNSLF085lA4waudgePR9nh0JXQWcuX/TMu4YSwQzR9dnsKzSYHw7qHnpl4A95TQ3kamAWajGB49enXoCvi5w==;U0JyaZrnIg+nsjbQp158Nw=="
 ---

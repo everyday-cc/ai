@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/amp/"
 type: article
 quality: 75
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Conversational AI’s advancement and its implications on our lives"
+    excerpt: "Conversational AI has transformed the landscape of customer service and support. With intelligent voice bots, businesses can provide round-the-clock assistance, instant responses, and personalized interactions."
+    publishedDateTime: 2023-05-28T06:29:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/Untitled-design56.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "WP5HAdyCHufxvkObbTk7YdWakxUJsRIoKcmJ8MDnQOgxzeIWGaN5s7bH1k+aIfnxFRDGTkC4vz8aJuwZKBHKsSgx4lgmCf75xo1Yl5ZcBepq79seRceN5SrgAkOnemYnOPTTqWn3oy9sGfENf8HUX4Ya+hwO9RR/ROWH/MvQCB/cmp+g58jsjFIB4dKSf3+li3DEOCfuGePrjUwZwLMz5zuIQX5htVWICnLSR6OBgCh+ToPStLfvn4kxehzbxhDCGVFJFIXvIn75jQ4LmWvJBEhSUjhX2n5sTuAZ9CzRtHMKiFKmnm1EMHeuQMpZlugiMQZ8Tf/j1GVqSD2fmZmZVt0b9HU3OScqIc/UPLGNWmoxrhczuKBt3Cgkb8tzGH2j6j5aP0wYdCMGRHdgq5+DaG0/yhjOJk+IC4Jr/p55Yf/PS/C4YNGgFHdRD7ZGgqyJpuIJUzVcdfL5BINwyCXE7XmjBBVaOcvwYl6CU5A2VNWNLMAUY+emTKQe4N+pEDZpI0YXEN1SiCuRv+i/Axrlig==;xGoZng/WDoxZvOOtXrsYyA=="
 ---

@@ -141,6 +141,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Avatar animation, AI-powered video production companies among AWS’ first generative AI accelerator cohort"
+    excerpt: "Companies that employ generative artificial intelligence to create clips for social media ... more than 1,200 applications for the 10 spaces in the programme, prompting AWS to expand it to 21. The company will provide the cohort with the resources ..."
+    publishedDateTime: 2023-05-25T07:21:00Z
+    webUrl: "https://www.tvbeurope.com/media-management/avatar-animation-ai-powered-video-production-companies-among-aws-first-generative-ai-accelerator-cohort"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 17
 
 secured: "ojsSq0Xc17eeYq5foDmbAjXS4tdz3X1qokCRHpVBVXmgx0mr00/isM4GhPnn/FUNedyiJtmOCZ6LmHbysiplkZ07+at2Bws1IJFd0BTUTub93uf4GeXoA0aQ4vBpd+XDTFvBGM4Ikl7I5T404RphthW5qUN2HLrSe0aRiYawSqhHa6UL3a8Oz4PRX6sB4NqoWGQ3fYSnKn5eeHxew7SSGFK9zts2/wSdmS9lrBxHOJGOHUsWMges3UxOvEV4iZCGPJSZAdqFwXrSoq0yr1FgycGLFQ7VUzWLXQxAxOyG4Q+6o8E9SMnxQ3AwgvIFLM893QzKwDSZMkYPvDV0i0uRczz39vaGfxDEL26W1D4H+BUuIwrb75NS/vzYdDUkMRo7gs52W86s9kZo37t1JKCclwkA+f1gJDtNHIkewbCZT3gWtgeaKzltxrwEXeDtjF4iK1ltn/u7Suk5LKrrztto3TcnfIER7jtIr9bF4QrzQYLGP43pW1PIljGiob1pnxxBf2vaeJ41xJYYZ9aHXtswAA==;ngejHl3KRrRdEblBEZ12kw=="
 ---

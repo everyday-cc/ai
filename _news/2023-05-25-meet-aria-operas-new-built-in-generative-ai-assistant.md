@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meet-aria-operas-new-built-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meet-aria-operas-new-built-in-generative-ai-assistant/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Empowering the future generation: The advantages of educating students in the new age era of AI"
+    excerpt: "Artificial intelligence (AI) has become a revolutionary force in the quickly changing world of technology, altering various sectors and our daily lives. As AI develops, it is more crucial than ever to get the"
+    publishedDateTime: 2023-05-27T09:53:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 27
 
 secured: "NjTAPMMM0J8wkkmIc7bX3hpts3RDFEKFUDq7pZGCRZ1rY8/vv6UZdHE3hrwz2dWPvtFdTsT8mbeM8s/4BkSDFdmsKxuuVfg4SZxDpjqJxqZGmCyX2iVaaeUXKFPLlCARSu+zVwpyhy0z9tIXGimykBILASVuyR5NfTnEwixNg4spTTfqzw90DnsSR5OqrkbICB9x9RL0c0AyyJO0oov1K5a3ohMdyec24cFA5b3uLAVbVA8LZGFOkg+l8Lbx4tXkCpWe4psF5AwVJ5WePnr4IHXif6VNM0GVy4gsRh2fLEvrg8IeMza4z0Vsr7DG8+W2oU1OOePZzMLemBjcUy8LNP0Em070MMx9Cjj+xcojBY+2hPxZZ9T4Sq9pOtp3ONBv6IJ+Z4+ggxzPqUMelCSLLZMeYDWla+Zm3/uk8cSeOX9WdKJrqeZpKmEvH523CSI+60ozhjiR9UIob8dq3rQP8GpMu7c4f/u9Nro4pJZZVLBMYn6GqwS04HFJeRAl371Ymfif+7pclkFtrVLwdq6Idw==;M6wB/0+hmoCePfN8MqqNfg=="
 ---

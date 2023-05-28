@@ -146,20 +146,6 @@ related:
       name: PA Consulting Group
       domain: paconsulting.com
     quality: 51
-  - title: "IBM doubles down on generative AI and hybrid cloud"
-    excerpt: "Given the hype around generative AI with the public preview of ChatGPT and the central role of Red Hat’s OpenShift as IBM’s platform modernization strategy, the choice of those themes was not surprising."
-    publishedDateTime: 2023-05-23T13:27:00Z
-    webUrl: "https://siliconangle.com/2023/05/23/ibm-doubles-generative-ai-hybrid-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/watsonx.jpeg"
-        width: 1194
-        height: 875
-        isCached: true
   - title: "Google Now Testing Generative AI for Search"
     excerpt: "Google today announced that it is opening up access to Search Labs, allowing testers to try out its new Search Generative Experience. The"
     publishedDateTime: 2023-05-25T18:58:00Z

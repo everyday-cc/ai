@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/05/24/prediction-cathie-wood-a
 webUrl: "https://www.fool.com/investing/2023/05/24/prediction-cathie-wood-ai-stock-top-5-2030/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://phantom-marca.unidadeditorial.es/625075a355f34ff61d65ebf624750347/resize/1200/f/jpg/assets/multimedia/imagenes/2023/05/25/16850010881386.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "AI, big tech and the ethics of prediction"
+    excerpt: "AI ethics researcher Nell Watson discusses the challenges of regulating an industry that is developing at ‘breakneck speed’."
+    publishedDateTime: 2023-05-24T09:00:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/ai-big-tech-ethics-prediction-regulation-nell-watson"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/05/robot_hand_pointing.jpeg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "1Yvd4teiHftWQfJ1oal9Shf5SKFH9GHibBRzjEEYaJoKhgH/1F1GS8LbGh0onXfyZKWrNtzgFfFRORn2TZuOGkMYxXhA5IcxzzIioduKayTYSPT4FCm3FzhEEW1OOrfBmI22OKsE35yDIUYbZHXWBFgOVot129d6H+gKxEtH/DWblD6yssHRUs69AsNEaQEG9SXPOTZghL3Z2miVzhWktSYaHMlfKYKmXVzq5rQFc+Tj9MTw8imTOOWJozh2XAmMijK1hQgCbwTAdtDp+OVRTQhLGfWJbU9ZtReam+5mNF9E4Ld4/s0xibv/QXhAbrNfEb3mDpahh4kjYzGGSZJlq7KP553SjIYUegyyETBCPMk=;33WnPYfsRVPZ5xyWi0yuZg=="

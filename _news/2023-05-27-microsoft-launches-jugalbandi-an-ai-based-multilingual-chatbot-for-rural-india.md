@@ -52,20 +52,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "With help from next-generation AI, Indian villagers gain easier access to government services"
-    excerpt: "AI chatbot Jugalbandi powered by Bhashini and Azure OpenAI Service gives Indian villagers access to government services in their language."
-    publishedDateTime: 2023-05-23T15:00:00Z
-    webUrl: "https://news.microsoft.com/en-in/features/with-help-from-next-generation-ai-indian-villagers-gain-easier-access-to-government-services/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 30
-    images:
-      - url: "https://i.ytimg.com/vi/p9gh_HZQCbk/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "nLgX/t3e1cmpeOi7+aEuck+UCXwJ9rT3++3/IpdARfXv9lN6luc8Z+6Qys5Fcm3ayRaEkTMxC0svnEQYd7fGhJw6aq0E9cIxebW29rqP19Lv9v8wtAhRhD9w3uN6DvQ3LfDGzYU0S7dSJN3vqEq4smhkfwG5DI8VgW17mJGxEAgfdIkBwzyj47WNtG1H22X3L0LdZtlguernP2CbxJE2wYO3wEXGnKYor8bfX+DAgjkEYZvn5a2mDdfjYUZijuI3KCClyXBX8uQSp6xg3DFO5Hgy9aDtOZCvAYr+ezkrQV/4nCObctGhpd7S+QtAEhkROOOWTQzLgFVMgJkGpVn4+KlMrZp/i6gB3Hjt/XDacNeck1vxXPw5ZSTHiIf5iYmI6RVT5NnDNP5hTDCS8A5q85gQVGYDArJ3rHoc0WdfYcJPe85NL25v7hZftKWAjuRjbe2Y8oxGuruHmXbGACYAGgNQtLVIUxQiSHSbzRdrRLrfOys1AFEc+Ad4WJLSVBDPB4MN8US3HfKYaKfa/jYCdA==;iaTGjeqIYsMX733s+76iYw=="
 ---

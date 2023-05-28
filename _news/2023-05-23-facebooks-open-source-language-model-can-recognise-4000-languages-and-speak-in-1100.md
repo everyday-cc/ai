@@ -81,24 +81,6 @@ related:
         width: 860
         height: 490
         isCached: true
-  - title: "Meta AI open-sources tools for self-supervised training of speech recognition models"
-    excerpt: "AI models that can recognize human speech and respond to ... Its translations are often studied for text-based language translation research, and for many there are also publicly available audio recordings of people reading these texts."
-    publishedDateTime: 2023-05-23T13:52:00Z
-    webUrl: "https://siliconangle.com/2023/05/22/meta-platforms-open-sources-tools-self-supervised-speech-recognition-model-training/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 27
-  - title: "Meta Creates New AI Tool That Recognizes Over Than 4,000 Languages"
-    excerpt: "Introduced as the Massive Multilingual Speech project, the Meta AI tool is built to protect and preserve languages and is now available to the public"
-    publishedDateTime: 2023-05-23T13:22:00Z
-    webUrl: "https://www.techjuice.pk/meta-creates-new-ai-tool-that-recognizes-over-than-4000-languages/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 19
 
 secured: "/MnDJspBADZI9FVypp0YYVQECigKsxsnyeFkciyF8pJt52q+EG6B9LgOwBTH664JLOz3wQDcjQkdPh8ahgvY1ewHTEzON80EwfOd0odsZAqrSAZs6FywyEflek1yquPJ+CMgbwNt5cCkcKRfFhzRj0F2DDOkwf67foVPi4sqjOvVnfG0t2WU1W5X/ETu8WWFsG0OkV1sY3ub4/AIBzwBeHFOLLqj/P/SBap6lq8EwEJFTvOAHj1ye7ng+GW3LdbBu3AfmEJocyNyxH4hqZHXbn0T1/ySQAr76Sgls4GDvPVZneB72ONycF5wkf/thihsZTo6Rkr9p55VmpKNJom0fvsUg5aGcw7cXdhnI2EQYcirqwwY675lLkagD7GtoSernlDvVZzmyA5/sGqjH/VuBkpAeM7fQU4ZAHPehbWcShskA+mY2YLNan1WTgDoU0mOgK58HxUpXU2UeNsbsSpFOPQGdY4cRllSuOUV5f1R8B27yi/lJ0OQAoURj5wwCWZSLvfNVNikUSJXSOEvF+NEKQ==;7Z7PtLiyYQWk7XJxdGxS1A=="
 ---

@@ -97,20 +97,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Fintech firms need to grow up and embrace transparency"
-    excerpt: "The days of taking shortcuts around regulation and lax fiscal discipline need to come to an end if the industry is going to reach its full potential."
-    publishedDateTime: 2023-05-23T14:00:00Z
-    webUrl: "https://www.americanbanker.com/opinion/fintech-firms-need-to-grow-up-and-embrace-transparency"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 24
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/6982c1c/2147483647/strip/true/crop/7587x3983+0+142/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F66%2F90%2F04940e4943fa9505cd3f219f382f%2Fadobestock-282379113.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Financial Inclusion 2.0: The role of fintech innovations"
     excerpt: "According to the Official Ghana Demand Side Survey 2021, Ghana has achieved its financial access target of 85% set by the National Financial Inclusion and Development Strategy 2018 - 2023 ahead of the end of the target year – 2023."
     publishedDateTime: 2023-05-24T07:36:00Z
