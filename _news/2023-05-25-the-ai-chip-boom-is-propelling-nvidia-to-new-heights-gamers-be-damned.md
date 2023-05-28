@@ -91,20 +91,6 @@ related:
         width: 566
         height: 360
         isCached: true
-  - title: "Nvidia to face shortages after a boom in GPU demand for its AI"
-    excerpt: "Nvidia is seeing a bump in GPU sales in the market over its AI capabilities. However, while this is great news for its GPU business, it would also have the company face stock shortages till the end of this year."
-    publishedDateTime: 2023-05-23T08:59:00Z
-    webUrl: "https://www.gizmochina.com/2023/05/23/nvidia-shortages-after-gpu-boom/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 84
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/05/NVIDIA-Hopper-GPU-_3-g-low_res-scale-2_00x-768x723-1.png"
-        width: 768
-        height: 723
-        isCached: true
   - title: "Nvidia Sales Crush Wall Street Estimates Thanks To AI Boom, Shares Spike Over 20%"
     excerpt: "The professional vizualization segment, which includes Omniverse Cloud, a service running in Microsoft Azure for the development and deployment of industrial metaverse applications, posted $295 million in sales, down 53% from a year ago. “I think in AI ..."
     publishedDateTime: 2023-05-24T21:38:00Z

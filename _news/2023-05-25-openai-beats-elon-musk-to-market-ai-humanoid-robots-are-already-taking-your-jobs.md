@@ -146,22 +146,6 @@ related:
       name: News Track
       domain: newstracklive.com
     quality: 54
-  - title: "OpenAI's Altman Wants International Body Akin To Nuclear Watchdog IAEA To Regulate AI"
-    excerpt: "Sam Altman, CEO of the start-up behind the AI chatbot ChatGPT, agreed with members of the Senate on Tuesday on the need to regulate increasingly powerful AI technology. https://t.co/iFjgQBBdwY pic.twitter.com/NNXJykGJMu"
-    publishedDateTime: 2023-05-23T08:32:00Z
-    webUrl: "https://www.ibtimes.com/openais-altman-wants-international-body-akin-nuclear-watchdog-iaea-regulate-ai-3695000"
-    ampWebUrl: "https://www.ibtimes.com/openais-altman-wants-international-body-akin-nuclear-watchdog-iaea-regulate-ai-3695000?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/openais-altman-wants-international-body-akin-nuclear-watchdog-iaea-regulate-ai-3695000?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 52
-    images:
-      - url: "https://d.ibtimes.com/en/full/4438722/illustration-shows-openai-chatgpt-logos.jpg"
-        width: 1200
-        height: 814
-        isCached: true
   - title: "OpenAI could 'cease operating' in EU countries due to AI regulations"
     excerpt: "Sam Altman, OpenAI CEO, said the company could stop all operations in the European Union if it can't comply with impending artificial intelligence regulations."
     publishedDateTime: 2023-05-25T17:32:00Z

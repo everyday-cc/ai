@@ -122,6 +122,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Where Memory Ends and Generative AI Begins"
+    excerpt: "New photo manipulation tools from Google and Adobe are blurring the lines between real memories and those dreamed up by AI."
+    publishedDateTime: 2023-05-26T10:00:00Z
+    webUrl: "https://www.wired.com/story/where-memory-ends-and-generative-ai-begins/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/646ff414d96882f74caa3dc7/191:100/w_1280,c_limit/Where-Memory-Ends-and-Generative-AI-Begins-Gear-GettyImages-690638821.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "IT services firms leverage generative AI capabilities for clients"
     excerpt: "Infosys Topaz leverages Infosys applied AI framework to build an AI-first core that empowers people to deliver cognitive solutions that accelerate value-creation."
     publishedDateTime: 2023-05-24T06:08:00Z
@@ -137,20 +151,6 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/5/15/w600X390/Artificial_Intelligence.png"
         width: 600
         height: 390
-        isCached: true
-  - title: "What does generative AI mean for health care? We asked the experts"
-    excerpt: "But many researchers in the field strike a much more optimistic tone when it comes to the technology and its potential in health care. Thomas Fuchs, who chairs the Department of Artificial Intelligence and Human Health at Mount Sinai in New York ..."
-    publishedDateTime: 2023-05-23T08:33:00Z
-    webUrl: "https://www.statnews.com/2023/05/23/chatgpt-generative-ai-research-medicine-health/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 41
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2023/05/stat_ai_YouShouldKnow_2000x1125-1024x576.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "3 ways generative AI is driving innovation in financial services"
     excerpt: "In some ways, GAI spells more of the same. According to the Bank of England’s research, machine learning, a sub-branch of AI, was last year already being used by 72% of respondents to a financial services survey. While AML and fraud detection ..."

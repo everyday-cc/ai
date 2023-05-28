@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 606
         isCached: true
-  - title: "Cohesity Turing aims AI tools at backup and ransomware"
-    excerpt: "Backup supplier continues to enrich its ecosystem with more artificial intelligence (AI) for backup and ransomware, with chat-like reporting functions and new security partners in its alliance."
-    publishedDateTime: 2023-05-23T09:00:00Z
-    webUrl: "https://www.computerweekly.com/news/366538115/Cohesity-Turing-aims-AI-tools-at-backup-and-ransomware"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 19
 
 secured: "iCMx2D3nXBLfAUTYeoPo5bVjMsrjJCksIYcKYK/C7gqXR99DVmGgC6q79Iq20Vu66XF8Wq+H/Q0rZNpyJlzUI8pRf8iGsUasEGldrwptl7hNUfa35UNRldua0Z58IlrfdY+t1U+QazL8I9ob9QuSrwXNRg8FdOJ/GNtDFESUKMN+BHd2fKx7F5Qb2OqD7Uof9CYdm3tHFGY+R/+5vfLRfzRv3tfLr2FaO1JTdI1ltaLP+fMe/moRaFg3dIUR41uzyYnt+ZLYCCPXtpouPeWfeinf7GCX2ib/f/DmQziYq8QDthNtfHEzK7Ax6q82jeVykAN+3xcrx11PBqqRSdmdDeJnozY/Ovs1IHJqDZ32Jao4mG16ntHCNtIV9XVCWj4VB2e7fYyWg45goqXFeSELFVtpXy/jhxDUhyDweNQk7JwKWTVTfaHLgCnRvaEbsil8CcwcAxxl1e6kIfV6zgfTW6eKVy05aMmGIMTSp2ig0g+uCGmMffhErXHXNi3RtYlPovICngmTIR1dYPL7V5yctQ==;j3d4OmHsVB3VcYNBLwHCMg=="
 ---

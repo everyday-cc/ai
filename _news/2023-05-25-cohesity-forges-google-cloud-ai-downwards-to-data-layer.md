@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/05/25/cohesity-fo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/05/25/cohesity-forges-google-cloud-ai-downwards-to-data-layer/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 63
-  - title: "Cohesity Turing aims AI tools at backup and ransomware"
-    excerpt: "Backup supplier continues to enrich its ecosystem with more artificial intelligence (AI) for backup and ransomware, with chat-like reporting functions and new security partners in its alliance."
-    publishedDateTime: 2023-05-23T09:00:00Z
-    webUrl: "https://www.computerweekly.com/news/366538115/Cohesity-Turing-aims-AI-tools-at-backup-and-ransomware"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 19
 
 secured: "w1O4fDnm2QGJVm0U4eVU/SqPn71p50qFEtU3SOcGCEGh0/vVp3AZjY5E9efX3VNgq32vALjwjzdOKoQCE08kgFx4at5+nfdLOjSv/oaV7D+l6RUWGZbyraYN+Y5xW1XmaBuomw5FzYNLiaytaVGIeqQFz6f2I9vrd3dlkAkNlraxtiaRtMwt9PQtmg+2kzzieqcz1Rj2yQ0EcyaKYbuW1DWPmee4FTZtKV7SqxXXeNLO28ZVNAMSnJFvE+7aWm7fMTVcm4iX3nwZGSPFUjC2Aip2MXZbxOiI4av/knI0Fip1vAsqO44bJYmsgqSExVyXbzLzFBUrkI1OeCS5WbIvUJGoswYnK0jYp9xQeTamayM=;X/Ao+wlzkSerRiITOvcG9w=="
 ---

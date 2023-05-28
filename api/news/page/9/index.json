@@ -2,6 +2,100 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-05-19-is-tom-hanks-doomed-to-be-digitally-resurrected-by-ai.md",
+      "title": "Is Tom Hanks Doomed To Be Digitally Resurrected By AI?",
+      "excerpt": "James Dean, who died in 1955, was set to be digitally resurrected for the war film Finding Jack, which was reportedly canceled, but not before sparking uproar from movie-lovers and actors. Chris Evans ( Captain America) and Elijah Wood, ( The Lord of the Rings) both tweeted their distaste for the proposed project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danidiplacido/2023/05/18/is-tom-hanks-doomed-to-be-digitally-resurrected-by-ai/",
+      "originalUrl": "https://www.forbes.com/sites/danidiplacido/2023/05/18/is-tom-hanks-doomed-to-be-digitally-resurrected-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6466780977fe545ec0b1abca/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danidiplacido/2023/05/18/is-tom-hanks-doomed-to-be-digitally-resurrected-by-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2023/05/18/is-tom-hanks-doomed-to-be-digitally-resurrected-by-ai/amp/",
+      "publishedDateTime": "2023-05-18T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-18-ibm-named-a-leader-in-the-latest-forrester-wave-report-for-ai-decisioning.md",
+      "title": "IBM named a Leader in the latest Forrester Wave™ report for AI Decisioning",
+      "excerpt": "Forrester Research just released the latest Forrester Wave™ report, and IBM is proud to be recognized as a Leader. \nThe post IBM named a Leader in the latest Forrester Wave™ report for AI Decisioning appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-the-latest-forrester-wave-report-for-ai-decisioning/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-the-latest-forrester-wave-report-for-ai-decisioning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-18T11:25:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-19-reino-unido-planea-reunion-con-openai-deepmind-sobre-riesgos-ia.md",
       "title": "Reino Unido planea reunión con OpenAI, DeepMind sobre riesgos IA",
       "excerpt": "El Gobierno del Reino Unido invitó a una reunión a los directores de algunas de las firmas de inteligencia artificial más grandes del mundo, dijeron personas familiarizadas con el asunto. Coincide con la elaboración en curso de una política del primer ...",
@@ -1095,95 +1189,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications.md",
-      "title": "ApartmentLove Names Ken Lang CTO as the Company Adopts Machine Learning and AI Applications",
-      "excerpt": "This is a wonderfully formative time for the Company and to have Ken leading our engineering, Machine Learning and AI initiatives ensures ... and vacation rental marketing services to property managers, owners, renters, and vacationers in more than 30 ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/globe-newswire/apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications",
-      "originalUrl": "https://financialpost.com/globe-newswire/apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dcs-static.gprod.postmedia.digital/13.6.3/websites/images/canada/fallback.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://financialpost.com/globe-newswire/apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications/wcm/d2f7289e-a57b-48b0-9d66-985ad3323a11/amp/",
-      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/globe-newswire/apartmentlove-names-ken-lang-cto-as-the-company-adopts-machine-learning-and-ai-applications/wcm/d2f7289e-a57b-48b0-9d66-985ad3323a11/amp/",
-      "publishedDateTime": "2023-05-18T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications.md",
-      "title": "CAST AI Slashes Cloud Costs for Organizations that Build, Train and Run Artificial Intelligence (AI) Applications",
-      "excerpt": "CAST AI introduced a series of new features into its platform, designed to dramatically reduce cloud costs for organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/",
-      "originalUrl": "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2023/05/CAST-AI-Slashes-Cloud-Costs-for-Organizations-that-Build-Train-and-Run-Artificial-Intelligence-AI-Applications.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/amp/",
-      "publishedDateTime": "2023-05-18T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
       ]
     }
   ],

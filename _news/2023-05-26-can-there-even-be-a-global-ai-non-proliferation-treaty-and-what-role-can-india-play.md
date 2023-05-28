@@ -19,49 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "India's Infosys unveils AI platform"
-    excerpt: "India's second-largest software services exporter Infosys Ltd said on Tuesday it launched a platform called Infosys Topaz for generative artificial intelligence (AI)."
-    publishedDateTime: 2023-05-23T08:40:00Z
-    webUrl: "https://www.reuters.com/technology/indias-infosys-unveils-ai-platform-2023-05-23/"
+  - title: "AI4Bharat: Putting India on the global map of cutting-edge AI innovation"
+    excerpt: "Launched a year ago, the Nilekani Center at AI4Bhārat has set up a team of close to 200 translators across the country covering 22 Indian languages. Tech billionaire philanthropist Nandan Nilekani is the primary sponsor of the Nilekani Center at AI4Bharat with a focus on developing open-source language tech as a public good."
+    publishedDateTime: 2023-05-28T00:31:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/ai4bharat-putting-india-on-the-global-map-of-cutting-edge-ai-innovation/articleshow/100554612.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/ai4bharat-putting-india-on-the-global-map-of-cutting-edge-ai-innovation/amp_articleshow/100554612.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ai4bharat-putting-india-on-the-global-map-of-cutting-edge-ai-innovation/amp_articleshow/100554612.cms"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 58
     images:
-      - url: "https://www.reuters.com/resizer/ypbUZw9mJoBpsPgqYkSOHSM963A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IK7236HTRVIF5LHRAYWSUV2ZWA.jpg"
-        width: 1200
-        height: 628
+      - url: "https://img.etimg.com/photo/msid-83745775/clean-experience.jpg"
+        width: 710
+        height: 408
         isCached: true
-  - title: "AI policies across the world: Key lessons for India"
-    excerpt: "Several countries have adopted different policies to regulate the development and use of Artificial intelligence (AI). India can incorporate key lessons from them in its \"AI for all\" framework"
-    publishedDateTime: 2023-05-25T11:03:00Z
-    webUrl: "https://www.forbesindia.com/article/isbinsight/ai-policies-across-the-world-key-lessons-for-india/85163/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/isbinsight/ai-policies-across-the-world-key-lessons-for-india/85163/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/ai-policies-across-the-world-key-lessons-for-india/85163/1"
+  - title: "Artificial intelligence innovation: Leading companies in speech recognition techniques for the automotive industry"
+    excerpt: "According to GlobalData’s Technology Foresights, which plots the S-curve for the automotive industry using innovation intensity models built on over 619,000 patents, there are 290+ innovation areas that will shape the future of the industry."
+    publishedDateTime: 2023-05-24T10:05:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-speech-recognition-techniques-automotive/"
     type: article
     provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 59
+      name: Just Auto
+      domain: just-auto.com
+    quality: 32
     images:
-      - url: "https://www.forbesindia.com/media/images/2023/May/img_208481_artificialintelligence.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Infosys Announces AI-First Offering Topaz To Accelerate Business Value For Global Enterprises"
-    excerpt: "Infosys is taking an AI-first approach to its own transformation, the company said, adding that it is applying Topaz to bring the power of generative AI, analytics and cloud to accelerate its own market offering evolution,"
-    publishedDateTime: 2023-05-23T23:25:00Z
-    webUrl: "https://www.outlookindia.com/business/infosys-announces-ai-first-offering-topaz-to-accelerate-business-value-for-global-enterprises-news-288774"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 28
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Infosys_1665729477.jpg?utm_source=fb"
-        width: 1200
-        height: 675
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/05/Artificial-intelligence_Speech-recognition-techniques.jpg"
+        width: 1440
+        height: 810
         isCached: true
 
 secured: "lYigMIkkFmv9KRbS8GqPQSn+IJplcQ7QL4k6NNI+hC/1/nCH24Ja4ez7maB6aWRAZ50lDkXYEw0EY3OiP5lY+FDTB/PHj8rUwgL76Hh5YBYj/qBfdEQfgonBxULyqhuYXB1eYLspsY7804+2OL4ajyeLcOUnQum0+xxTAUWrn1CHxY04lIPtAk1hOsmxJRxBzsAdF21ynySclSg4hH/N8mki6LUzQGUPKBuRIVaqVgFv0He3ennkXpiVrf88u6XlpYsH+h48SbTIab8IpAS7BbaVa3jk5tsEIKzNlOxr2AMPaMK/1pu31z1B0AFOE7bThf7JXQWwNFqakzOT3jBz5slZRkWZxzqk9eBi7gAIdKtsqSlBRMg8RoGSORa+Y+n4AN+rUPNdZFoC6Z8rAfSN7myZspHMoGdrT+g3pgzTpqH1JGTbDp4tYzCf8yIFVA3nY/yAnHTnZd7374JnnN7fsxQbMuqwQf9CoEAZfAksdYF1MV9iPLZ1qMKyDFg7GwyrEzhpKhL1kvWxxWD2AqR0uQ==;o3MIeZZThr3z85Jx79oOyQ=="

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Singapore wants to plug AI skills gap in finance sector"
-    excerpt: "Also: Today's AI boom will amplify social problems if we don't act now, says AI ethics MAS chief fintech officer Sopnendu Mohanty said: \"Supporting AI and data analytics adoption is one of our key strategies to help financial institutions evolve and adopt ..."
-    publishedDateTime: 2023-05-23T07:50:00Z
-    webUrl: "https://www.zdnet.com/article/singapore-wants-to-plug-ai-skills-gap-in-finance-sector/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-wants-to-plug-ai-skills-gap-in-finance-sector/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-wants-to-plug-ai-skills-gap-in-finance-sector/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 106
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/2ea03e238d13117fe1b694848d99966f1946b37c/2023/05/22/1d63f23e-26a4-445f-a93e-dc785351b1a8/gettyimages-1219724477.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Turkish AI-backed Marketing Platform Insider Raises $105 Million"
     excerpt: "Insider, a Turkish artificial intelligence-backed marketing platform, raised as much as $105 million in funding from two existing investors in a deal that highlights how AI companies are defying the global tech industry slump."
     publishedDateTime: 2023-05-24T05:30:00Z
@@ -70,20 +54,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFIBqeSae5.s/v0/1200x801.jpg"
         width: 1200
         height: 801
-        isCached: true
-  - title: "London-Based Startup Builder.ai Raises $250 Million"
-    excerpt: "Builder.ai, an artificial intelligence company based in London, has raised $250 million in a funding round led by the Qatar Investment Authority, the Gulf state’s $450 billion sovereign wealth fund."
-    publishedDateTime: 2023-05-23T09:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-23/ai-startup-builder-ai-raises-250-million"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inAAP5vzXdAo/v0/1200x800.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "AI startup Figure raises $70 million in funding to build humanoid robots"
     excerpt: "The new funding will be used to accelerate the development and manufacturing of the company's first autonomous humanoid, which is expected to launch in the next few months. The valuation of the one-year-old company was not disclosed,"

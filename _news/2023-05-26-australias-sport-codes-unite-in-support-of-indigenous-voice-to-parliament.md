@@ -53,6 +53,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "‘I've got great faith in the Australian people’: Labor backs Voice to Parliament success despite polling showing its less likely to succeed"
+    excerpt: "The Albanese government is remaining firm that the Voice to Parliament referendum will succeed, despite it continuing to lose support from Australians."
+    publishedDateTime: 2023-05-28T01:27:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/ive-got-great-faith-in-the-australian-people-labor-backs-voice-to-parliament-success-despite-polling-showing-its-less-likely-to-succeed/news-story/709db89ccb2227a24f7db95b8ec7a0fa"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/ive-got-great-faith-in-the-australian-people-labor-backs-voice-to-parliament-success-despite-polling-showing-its-less-likely-to-succeed/news-story/709db89ccb2227a24f7db95b8ec7a0fa?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/ive-got-great-faith-in-the-australian-people-labor-backs-voice-to-parliament-success-despite-polling-showing-its-less-likely-to-succeed/news-story/709db89ccb2227a24f7db95b8ec7a0fa?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 25
+    images:
+      - url: "https://content.api.news/v3/images/bin/123bca4a3788b767fd7efa4fce7a9ddb"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Linda Burney’s urge to vote ‘yes’ in Voice referendum, 66 years after Indigenous Australians counted in population"
     excerpt: "On the anniversary of the 1967 referendum, the government has called for Australians to vote yes for an Indigenous Voice to parliament, amid opposition claims it could set back reconciliation."
     publishedDateTime: 2023-05-27T16:42:00Z

@@ -996,20 +996,6 @@ related:
         width: 1351
         height: 615
         isCached: true
-  - title: "Check Point Software Extends Its Industry-Leading Cloud Firewall To Secure Microsoft Azure Virtual WAN"
-    excerpt: "CloudGuard Network Security provides organizations with cyber resilience through a consumption-based offering, seamlessly integrated inside the A"
-    publishedDateTime: 2023-05-23T08:55:00Z
-    webUrl: "https://menafn.com/1106293303/Check-Point-Software-Extends-Its-Industry-Leading-Cloud-Firewall-To-Secure-Microsoft-Azure-Virtual-WAN"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 38
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/23/M_b53b8image_story.jpg"
-        width: 703
-        height: 879
-        isCached: true
   - title: "Thomson Reuters Embraces Generative AI with Microsoft 365 Copilot Integration, Upcoming Product Updates"
     excerpt: "A host of Thomson Reuters’ products will now be available through Microsoft 365 Copilot for Word, while those products themselves are getting new generative AI capabilities later this year."
     publishedDateTime: 2023-05-23T17:38:00Z

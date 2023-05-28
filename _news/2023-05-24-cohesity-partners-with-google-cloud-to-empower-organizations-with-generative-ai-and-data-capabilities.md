@@ -56,15 +56,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 63
-  - title: "Cohesity Turing aims AI tools at backup and ransomware"
-    excerpt: "Backup supplier continues to enrich its ecosystem with more artificial intelligence (AI) for backup and ransomware, with chat-like reporting functions and new security partners in its alliance."
-    publishedDateTime: 2023-05-23T09:00:00Z
-    webUrl: "https://www.computerweekly.com/news/366538115/Cohesity-Turing-aims-AI-tools-at-backup-and-ransomware"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 19
 
 secured: "f+uu8tkeNCdnbPPI66pgSCtOR2NjEzeYXiz0QbvQvR8AtEnp70jgd0YdlS/5emgUAl0r0LOUqx6lYatTG8dITTF8KCrCgnLzyAcsz474E3pBZkgYTU84kP08fH3RaJ8PhvasBXKMqKpNo3DyUxgQNOu5NrTnkLk1ZCaL+RBYgpYlkd9dLO6Qu4WCIk8zztcfJw36nyqiXIKKnIJCaMfpGAXDIV/bTOkXL4FpWjYVt5Cpy6fKXONaUO2E0O/6en9K0lhXqheBGr/23MAygDMB0PKiX1jBCZuAXZ3byf1unACo20blTLURY2lft4EHlRweWsZMS27Q1s9ubYOOdbq4Br0xvoOWS+OHEWbgzL6gNX7YD+yCOtBk9c0fayz8yiQtZbYG7rWpJcPiAF2OST7AdZVkFXJK0B+69onCgMeK93/z39GtmZCNmj877CVm1Kftk7hx1+t0k2cR5fFK4t3DTqeK3sPSh60QrbmA0Ebew78OvNq2gTTdSL/U9ydR6wRRGRtw5Cd17YvGXiPAj0gJaw==;Ph1Pf86gZyH/K6OYKp1eYA=="
 ---

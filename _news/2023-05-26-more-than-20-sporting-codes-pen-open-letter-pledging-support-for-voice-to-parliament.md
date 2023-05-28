@@ -43,6 +43,22 @@ related:
         width: 862
         height: 575
         isCached: true
+  - title: "‘I've got great faith in the Australian people’: Labor backs Voice to Parliament success despite polling showing its less likely to succeed"
+    excerpt: "The Albanese government is remaining firm that the Voice to Parliament referendum will succeed, despite it continuing to lose support from Australians."
+    publishedDateTime: 2023-05-28T01:27:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/ive-got-great-faith-in-the-australian-people-labor-backs-voice-to-parliament-success-despite-polling-showing-its-less-likely-to-succeed/news-story/709db89ccb2227a24f7db95b8ec7a0fa"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/ive-got-great-faith-in-the-australian-people-labor-backs-voice-to-parliament-success-despite-polling-showing-its-less-likely-to-succeed/news-story/709db89ccb2227a24f7db95b8ec7a0fa?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/ive-got-great-faith-in-the-australian-people-labor-backs-voice-to-parliament-success-despite-polling-showing-its-less-likely-to-succeed/news-story/709db89ccb2227a24f7db95b8ec7a0fa?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 25
+    images:
+      - url: "https://content.api.news/v3/images/bin/123bca4a3788b767fd7efa4fce7a9ddb"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Australia’s sport codes unite in support of Indigenous voice to parliament"
     excerpt: "Australia’s sport codes have united in an extraordinary show of support for the Indigenous voice to parliament, advocating for a nation that “values equity and fairness”."
     publishedDateTime: 2023-05-26T00:31:00Z

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-28-ai4bharat-putting-india-on-the-global-map-of-cutting-edge-ai-innovation.md",
+      "title": "AI4Bharat: Putting India on the global map of cutting-edge AI innovation",
+      "excerpt": "Launched a year ago, the Nilekani Center at AI4Bhārat has set up a team of close to 200 translators across the country covering 22 Indian languages. Tech billionaire philanthropist Nandan Nilekani is the primary sponsor of the Nilekani Center at AI4Bharat with a focus on developing open-source language tech as a public good.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/ai4bharat-putting-india-on-the-global-map-of-cutting-edge-ai-innovation/articleshow/100554612.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/ai4bharat-putting-india-on-the-global-map-of-cutting-edge-ai-innovation/articleshow/100554612.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/photo/msid-83745775/clean-experience.jpg",
+          "width": 710,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/ai4bharat-putting-india-on-the-global-map-of-cutting-edge-ai-innovation/amp_articleshow/100554612.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ai4bharat-putting-india-on-the-global-map-of-cutting-edge-ai-innovation/amp_articleshow/100554612.cms",
+      "publishedDateTime": "2023-05-27T17:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-28-ai-ml-data-news-roundup-generative-fill-copilot-aria-and-brain-chips.md",
       "title": "AI, ML & Data News Roundup: Generative Fill, Copilot, Aria, and Brain Chips",
       "excerpt": "The most recent update, covering the week starting May 22nd, 2023, encompasses the latest progress and declarations in the fields of data science, machine learning, and artificial intelligence. This week,",
@@ -1178,57 +1221,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-how-to-use-wordtune-ai-to-rewrite-texts-on-your-iphone.md",
-      "title": "How to use Wordtune AI to rewrite texts on your iPhone",
-      "excerpt": "This iOS app can generate simple messages and emails, photo captions, LinkedIn or Twitter posts, cover letters, blog posts, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-to-use-wordtune-ai-on-your-iphone-to-generate-content/",
-      "originalUrl": "https://www.zdnet.com/article/how-to-use-wordtune-ai-on-your-iphone-to-generate-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/518b7ec6aaad54897cb463a0bb0d677f6062f319/2023/05/25/63011c31-baf3-4366-971b-6170fc02b7cb/gettyimages-1383931877.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-use-wordtune-ai-on-your-iphone-to-generate-content/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-wordtune-ai-on-your-iphone-to-generate-content/",
-      "publishedDateTime": "2023-05-25T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
