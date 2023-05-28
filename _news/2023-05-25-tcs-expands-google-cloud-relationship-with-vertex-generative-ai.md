@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "15 Surprising Ways Industries May Soon Leverage Generative AI"
-    excerpt: "There’s more to generative AI than writing press blurbs, test questions and memos—indeed, there’s much more to generative AI than writing, period."
-    publishedDateTime: 2023-05-25T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/15-surprising-ways-industries-may-soon-leverage-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "y27rEJ3YEu17E5jkfECuu04l0K8b2xes5+OBWkoTL8eqB13+dfgLqQikayByTj7beGOt9ugV5WRoNCzp77tA+/MnG/2+SRLF48eb7axCiKVYdUK3kKqDKjQYklQYlB6NTPg61lVuBSEFrYhI3dSs+lzL/Kx03QVcJWF6IekZP6TvoWFdpzwjxBlTdyYhWYuKrnRvEbbURF3AaLXDkBPnIKqCwgDDek4EOditAZCO04Hz264GB7YuwhQ6qzT41CitNkcBjI2wNUb/8hyv8718PTnqCmp/GzmHp7auKsywxlTMr5K69HpSf7SgTqtnEgldKAvtlxMsQpYjM3wDQc/KBtW3aYtHHnsAa5/qBcal4Hlx/JMU7+KX92iL1gYVZ53cx033nexWELMIwG4nXq9M0N4LGeEsx0MNBu9AzUSRzXVBBr7PuazT9ueiQa++mrvH8A0v05kipKSMEEUnYS1BiMEqbXNWHGJBiXy+13xiPaFpiHRHPw65xDhrkPThODJ14pd/GwXfU6Rc/hhKmPaAKw==;afQ16g3BN7f0v35+qh632w=="
 ---

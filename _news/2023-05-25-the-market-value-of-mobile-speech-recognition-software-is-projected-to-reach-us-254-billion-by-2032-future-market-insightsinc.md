@@ -28,15 +28,6 @@ related:
       name: Future Market Insights
       domain: fmiblog.com
     quality: 5
-  - title: "Cognitive Computing Market to Cross US$ 3.2 Trillion by 2032 | Future Market Insights,Inc."
-    excerpt: "The market for cognitive computing will grow at an astonishing 28.7% CAGR between 2022 and 2032. By 2032, the market is expected to have grown from $257.1 billion in 2022 to $3.2 trillion. According to this analysis,"
-    publishedDateTime: 2023-05-23T17:46:00Z
-    webUrl: "https://www.fmiblog.com/2023/05/23/cognitive-computing-market-to-cross-us-3-2-trillion-by-2032-future-market-insightsinc/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
 
 secured: "UBCC0SrHAqSVwSg1r3v38fh6JXp6JVSIl5FunwlDpl1VuMWbRj8lx3njQpKJTmbHYwHOCyyktJGMc87KeGxUZz4agX0DDN1q3VnufJpX/nySKBx/sFFPJEb1p/4CycuTSUt6BMNEdqZWLaZxi9FY2TINynb3zUJbcnlnp13jb+ggxwZsxp96QhfyRhWmr1XCUow/wKmYkC6mu8X/W/uxESzQgBjnE1SCZ2q/Sqo+nA9hM5IBM20Ic/3dO4a8lnIZSZsYSuPQMr3+kDvQdX/XgxyRW1/iYLPZOl9aa3voSRdZaYXvExwzxkEwK141Xbdxgf9FJ0gXLlvqavCVSKFYrGvw9xG43qgJGrIGnSSAskU=;blI/XpY/gDwZJ+0CXZkFMQ=="
 ---

@@ -24,17 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Robots Level Up: AI Helps Them Understand Material Composition"
-    excerpt: "MIT and Adobe Research researchers have made significant progress in robotics by harnessing the power of artificial intelligence (AI)."
-    publishedDateTime: 2023-05-23T17:38:00Z
-    webUrl: "https://interestingengineering.com/innovation/robots-level-up-ai-helps-them-understand-material-composition"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 34
-
 secured: "Mkomq9jxllQN34GUxVrRxo/+sSRIFzAk15EsYlF0aBh7eCdbcO53W+3xTB0wwrwijU13hA+r9Yc4Hctevn7O9ccg6Sn3mO1meFxkVekIbzSEAZfNTGMIgvKJu3qrmOvAXzijsncRYViQSZ9ekX14XPr3KbE9a8myfSAwuCaW5h6CEsU1ifqiY7K4WTgxOEd+TnhaeoMpvluehPV+uRwtI6YKIq31S6NYvAWQVNnJOiD1eVwDzY11W5g5HGukdIJvW21hdHL4se5iQ7Nq4qA+8mfIICgP6qGk9ZCT6plzwQTUFv1agz3H1J7v2hQlg0Y+hsVDYQj1P7iT6XzquSZJsoXLCoIy5vQWHYT+fLJZfoI=;FkeljRa+hE7lgj0UemkEcg=="
 ---
 

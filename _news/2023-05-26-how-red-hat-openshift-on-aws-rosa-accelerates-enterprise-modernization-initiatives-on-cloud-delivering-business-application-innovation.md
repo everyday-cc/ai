@@ -59,15 +59,6 @@ related:
         width: 1024
         height: 548
         isCached: true
-  - title: "Red Hat OpenShift AI Accelerates Generative AI Adoption Across the Hybrid Cloud"
-    excerpt: "Red Hat, Inc., the world's leading provider of open source solutions announced new capabilities for Red Hat OpenShift AI. Building and expanding upon the proven capabilities of Red Hat OpenShift and Red Hat OpenShift Data Science,"
-    publishedDateTime: 2023-05-23T18:17:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/23/9819284.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
 
 secured: "8L3cZR0EeB94qK/Dchw9lcxsf1K8UiF7EhGDa23kbqXYTqzya/pG3qskGXBx3fbiRVYASP82S71rfWvlfMDYhtrt+DRsygvP26PX8bjfNuFlEQV2mNFyS55BKcTytkGTlzBwDrBsLGzD93CkpOiCVgnm6w7W0xxwerediK6ZI09duLaz7scQk3OePiE3SSL76uUkfF6q2pXiAsHJckLnnh9xY5W8+HeSL3UZcgtImkJrGlpStBvPrNU68owdQJmoewfQ0A3kgIld8MptHe5I26Fh0u+iHxanw2Z1hT5Pk2ly7O12rscxhG+MB+KCegUHgycr5TjZIOSP4DsX+TofMcdJMpUIIQHtU+9zrN2y0sU=;BNnXt8gB5rwfV5KuqxLrGg=="
 ---

@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Thomson Reuters Embraces Generative AI with Microsoft 365 Copilot Integration, Upcoming Product Updates"
-    excerpt: "A host of Thomson Reuters’ products will now be available through Microsoft 365 Copilot for Word, while those products themselves are getting new generative AI capabilities later this year."
-    publishedDateTime: 2023-05-23T17:38:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/05/23/thomson-reuters-embraces-generative-ai-with-microsoft-365-copilot-integration-upcoming-product-updates/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 38
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/05/Thomson-Reuters-Legal-Drafting-767x633-2.jpg"
-        width: 767
-        height: 633
-        isCached: true
 
 secured: "H4Gcdfb6EKS+0NNbVWIgrKzhPH5jpcAr+TGPK8vkGOsRQm9lbRmTe860OHopzDiz/l6uJ5b96txbkACnCAEyClcw0dHjQsTv1FbyxwN8cvQFat+517tathAhMPWLrgvejqKXN4wG5h/PaTw0uVEU/8Is6OaqDu5Jz3w3YeBeCNQoBZgCnFb7eH7EI8Q35zqjBAsIq1WqZ2R+cUWgU4ct1h4AQsAD9+AKsx8d5uHhf7bvzQgyS0dvjyg+SSI5M15DhBUx9y8SYphlhpIoYBAyDoNV6kYABQYshpRXomYbsTmlAd2mduyIugWhCRB2CudrODozoYuSHg/ljSTbQXG9JszWkXGMtAP/f3g7W5CeXj1hKVDV/aJiWTFMdydQPnvzB8H7ogn1kI8fb6+mUCXQ2qCtpLVmhaCCelb4z6MlFwnzLieIa2u+f9li/O4TJfE0S5Z/DFVBCkp0+Y/5LW0QevOmSV5EcZSTu12Hujph8LD4+mWcW1q55sVc5pe7DM13XK4rZcU8D3YtQ5ZyLpDE8A==;kB1sWctllJKvh/b9GTIecQ=="
 ---

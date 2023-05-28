@@ -52,20 +52,6 @@ related:
         width: 942
         height: 600
         isCached: true
-  - title: "Pega Announces Pega GenAI to Infuse Generative AI Capabilities in Pega Infinity '23"
-    excerpt: "(NASDAQ: PEGA), the low-code platform provider empowering the world's leading enterprises to Build for Change®, today announced Pega GenAI ™ – a set of 20 new generative AI-powered boosters to be integrated across Pega Infinity ™ '23,"
-    publishedDateTime: 2023-05-23T17:55:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/23/9819294.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/2082623/Pega_GenAI.jpg"
-        width: 400
-        height: 290
-        isCached: true
   - title: "Infosys Announces AI-First Offering Topaz To Accelerate Business Value For Global Enterprises"
     excerpt: "Infosys is taking an AI-first approach to its own transformation, the company said, adding that it is applying Topaz to bring the power of generative AI, analytics and cloud to accelerate its own market offering evolution,"
     publishedDateTime: 2023-05-23T23:25:00Z

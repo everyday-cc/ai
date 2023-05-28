@@ -199,20 +199,6 @@ related:
         width: 1200
         height: 493
         isCached: true
-  - title: "Microsoft beats Google by integrating an AI assistant straight into its OS"
-    excerpt: "During Microsoft Build, the tech giant announced that Windows 11 will get a new feature called Windows Copilot."
-    publishedDateTime: 2023-05-23T17:11:00Z
-    webUrl: "https://www.androidauthority.com/windows-11-ai-copilot-3328189/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 82
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/05/Windows-Dev-Blog_Windows-Copilot-1024x576-1.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft’s President Backs New Agency to Regulate ChatGPT, Other AI Systems"
     excerpt: "Sam Altman, CEO of ChatGPT creator OpenAI, touted the benefits of AI and acknowledged potential downsides of the technology during a Senate subcommittee hearing on Tuesday. Photo: Patrick Semansky/Associated Press WASHINGTON—Microsoft President Brad ..."
     publishedDateTime: 2023-05-25T12:00:00Z
@@ -367,15 +353,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "Microsoft integrates Nvidia’s AI Enterprise Suite with Azure Machine Learning"
-    excerpt: "The integration of Nvidia’s software suite will further help enterprises build, deploy, and manage applications based on large language models."
-    publishedDateTime: 2023-05-23T19:01:00Z
-    webUrl: "https://www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 63
   - title: "From ChatGPT on Bing to Azure AI: 5 biggest announcements from Microsoft Build 2023"
     excerpt: "Microsoft continues to make strides in AI with a slew of updates and launches announced at Build 2023. From ChatGPT on Bing to Azure AI: 5 biggest announcements from Microsoft Build 2023. Bing, chatGPT,"
     publishedDateTime: 2023-05-25T06:21:00Z
@@ -682,15 +659,6 @@ related:
       domain: hindustantimes.com
     quality: 41
   - title: "Microsoft to bring Copilot, an AI personal assistant, to Windows"
-    excerpt: "The Windows Copilot will be available in a taskbar for users. Once open, the Copilot will “stay consistent across your apps, programs and windows.”"
-    publishedDateTime: 2023-05-23T18:26:00Z
-    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-to-bring-copilot-an-ai-personal-assistant-to-windows/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 36
-  - title: "Microsoft to bring Copilot, an AI personal assistant, to Windows"
     excerpt: "Microsoft will integrate a ChatGPT-like system, called \"Windows Copilot,\" in all PC apps, the Redmond, Washington-based tech giant announced Tuesday. The Copilot will be available for Windows 11 as a preview in June."
     publishedDateTime: 2023-05-24T17:42:00Z
     webUrl: "https://techxplore.com/news/2023-05-microsoft-copilot-ai-personal-windows.html"
@@ -755,15 +723,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 34
-  - title: "Microsoft Store hones in on AI in Windows with new section and AI-generated reviews"
-    excerpt: "We’re starting to see a trend in AI that has companies positioning the advancement as an educational tool rather than just a robot to have a conversation ... the Microsoft Store will start using AI to compose a featured review that takes notes from ..."
-    publishedDateTime: 2023-05-23T18:06:00Z
-    webUrl: "https://9to5google.com/2023/05/23/microsoft-store-ai-features/"
-    type: article
-    provider:
-      name: 9to5google
-      domain: 9to5google.com
-    quality: 30
   - title: "Habu Announces Collaboration With Microsoft Azure to Deliver Zero-Trust Data Clean Room"
     excerpt: "Habu, a global innovator in data clean room software, today announced a collaboration with Microsoft Azure to integrate its Data Clean Room applicatio"
     publishedDateTime: 2023-05-23T19:05:00Z

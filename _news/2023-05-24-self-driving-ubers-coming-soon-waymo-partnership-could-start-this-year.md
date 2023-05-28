@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/katherinehamilton/2023/05/23/self-drivi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katherinehamilton/2023/05/23/self-driving-ubers-coming-soon-waymo-partnership-could-start-this-year/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 149
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 44
-  - title: "Uber to deploy Waymo self-driving cars in Phoenix area"
-    excerpt: "Uber is poised to begin rolling out Waymo self-driving cars in the Phoenix area, marking what could be the first step in a broader partnership that signals the end of the long-standing feud between the two companies."
-    publishedDateTime: 2023-05-23T17:11:00Z
-    webUrl: "https://www.axios.com/2023/05/23/uber-waymo-self-driving-cars-robotaxis"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 39
-    images:
-      - url: "https://images.axios.com/KF2ET-E9UiBQerCfVBiZ3Wn2yrw=/0x0:1920x1080/1366x768/2023/05/23/1684858748699.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Uber will now let you book a Waymo self-driving car through its app"
     excerpt: "The companies say that customers will be able to use the self-driving cars not just for ride-hailing trips through Uber, but for delivery services through Uber Eats as well. In addition, customers can still book a ride through the Waymo One app."
     publishedDateTime: 2023-05-23T21:28:00Z
@@ -123,15 +109,6 @@ related:
       name: AZ Central
       domain: azcentral.com
     quality: 8
-  - title: "Waymo, Uber set aside past rift over self-driving car technology to team up on robotaxis in Phoenix"
-    excerpt: "- Phoenix Mayor Kate Gallego arrives in a Waymo self-driving vehicle on Dec. 16, 2022, at the Sky Harbor International Airport Sky Train facility in Phoenix. Self-driving car"
-    publishedDateTime: 2023-05-23T17:05:00Z
-    webUrl: "https://www.mrt.com/business/article/waymo-uber-set-aside-past-rift-over-self-driving-18114056.php"
-    type: article
-    provider:
-      name: Midland Reporter-Telegram
-      domain: mrt.com
-    quality: 5
 
 secured: "nYnyi275hGSNG3EA/gBETm2UT54rtqdlXoTqECnoSh3f22HkFpyhw0raodUiBKpkHiOh4oG/uQnm9VAZchEGUH65JkbkSKV6qy2UBPO0GoAU2D0KEPDMOZgbWtgfBnPf7bNaajSDchdkJm4zOUTtFTQM2TUel4svjruEnaK2h70u8rbOomxHVZaTplEnn1Ew1+prCjIEguJiUyWd2sXLBQN5bDyt9X1s68g5wy141JXwpPTjRu27ttYYTnzqCxbsSKazxxn+Q3wGGqhUisw9/EqAufIKiv5XQPZZfRQiGxDNcLVBJuI8e65HfEiGB2hrYxLk5FloMOwZ0Njaf+NJBB+r069bmJeL2R2Vg+aWwX/oN38kAubKptl6MIKPuYHHo6u6WqqzhUh7LTONWtAXOt9Nk3bqOdZzspWkj3PrExjrriUI/FRZ8auO0PIOdqETOvsqg8//ZJLyXOtT337RVsPkk61Uph4Ca8JAw9jXewoW+RJ3olq+y0/MLcwpme3RADUMhMHVM+TrghBgRidO6g==;xFQts4O+dD5q4TTjpUTM0Q=="
 ---

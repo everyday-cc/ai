@@ -46,15 +46,6 @@ related:
         width: 849
         height: 565
         isCached: true
-  - title: "Google Search ads will soon automatically adapt to queries using generative AI"
-    excerpt: "Google is going to start using generative AI to boost Search ads relevance based on the context of a query, the company announced today."
-    publishedDateTime: 2023-05-23T18:43:00Z
-    webUrl: "https://techcrunch.com/2023/05/23/google-search-ads-automatically-adapt-queries-using-generative-ai/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 43
   - title: "Snowflake acquires search startup Neeva to leverage generative AI"
     excerpt: "New Delhi, May 25 (IANS) Cloud data platform provider Snowflake has acquired search startup Neeva to accelerate search in the Data Cloud through generative AI. Neeva has created a unique and transformative search experience that leverages generative AI and ..."
     publishedDateTime: 2023-05-25T05:47:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.darkreading.com/dr-tech/google-adds-guardrails-to-keep
 webUrl: "https://www.darkreading.com/dr-tech/google-adds-guardrails-to-keep-ai-in-check"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: New York Daily News
       domain: nydailynews.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.nydailynews.com/resizer/WJloNfbGLnb69TodZQnwmyNjx-I=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/6OPL4SDK2ZBGLEWY3OEM5Q4ORM.jpg"
         width: 1200

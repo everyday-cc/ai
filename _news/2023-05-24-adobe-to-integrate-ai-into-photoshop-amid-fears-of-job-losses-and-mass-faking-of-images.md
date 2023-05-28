@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Adobe adds generative AI to Photoshop"
-    excerpt: "The new AI tools will work similarly to other AI image creation technology, such as Midjourney and DALL-E, which allow people to produce pictures from simple text prompts."
-    publishedDateTime: 2023-05-23T17:16:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/adobe-adds-generative-ai-photoshop-rcna85548"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna85548"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna85548"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230522-ai-photoshop-lr-v3-77cd2e.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
   - title: "Adobe brings Firefly’s generative AI to Photoshop"
     excerpt: "Photoshop is getting an infusion of generative AI today with the addition of a number of Firefly-based features that will allow users to extend images beyond their borders with Firefly-generated backgrounds,"
     publishedDateTime: 2023-05-23T22:24:00Z
@@ -90,15 +74,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Adobe is adding an AI-powered image generator to Photoshop"
-    excerpt: "Adobe on Tuesday said it's incorporating an AI-powered image generator into Photoshop, with the goal of \"dramatically accelerating\" how users edit their photos."
-    publishedDateTime: 2023-05-23T18:08:00Z
-    webUrl: "https://www.cnn.com/2023/05/23/tech/photoshop-generative-ai/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
 
 secured: "EAvH33NMg6rXi0W3/95hrkkHJ7bMjyRfzAHjIgy6lGGqwUNAqNQ03PZQy3Lg+K5pbuuGsgJHCV0ZNndg6HvbLUiDUP+Q3vB5Yobo4NAIckS6UrDBL9DIL/F+K0MNg6x0Cd+4XNeLfBTvbWUmBbY1sSxluIhjKd/39S6ZlAiOoXoe/cYL9vyMbjc37zo1gn0NGqwSgTpGm8ygxWBIcESuiM9rTroWa/IAq5hj8v/vuQTmcJzKzfsBQqLwxE7nlZOnbbUf9JUflpPbk6VhpAVt4SmmQbFw+PnsFCzhDugsdPeGhqs4xN3CC1/yDq1Kt+cYv++iIAEjqEz9G7Us627AVUw5fR/Ri8Czr2LLIAhdjlM=;gF0gr1+r5CXV/a6o0fnVeA=="
 ---

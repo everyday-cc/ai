@@ -82,20 +82,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 44
-  - title: "Uber to deploy Waymo self-driving cars in Phoenix area"
-    excerpt: "Uber is poised to begin rolling out Waymo self-driving cars in the Phoenix area, marking what could be the first step in a broader partnership that signals the end of the long-standing feud between the two companies."
-    publishedDateTime: 2023-05-23T17:11:00Z
-    webUrl: "https://www.axios.com/2023/05/23/uber-waymo-self-driving-cars-robotaxis"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 39
-    images:
-      - url: "https://images.axios.com/KF2ET-E9UiBQerCfVBiZ3Wn2yrw=/0x0:1920x1080/1366x768/2023/05/23/1684858748699.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Uber will now let you book a Waymo self-driving car through its app"
     excerpt: "The companies say that customers will be able to use the self-driving cars not just for ride-hailing trips through Uber, but for delivery services through Uber Eats as well. In addition, customers can still book a ride through the Waymo One app."
     publishedDateTime: 2023-05-23T21:28:00Z
@@ -119,15 +105,6 @@ related:
       name: AZ Central
       domain: azcentral.com
     quality: 8
-  - title: "Waymo, Uber set aside past rift over self-driving car technology to team up on robotaxis in Phoenix"
-    excerpt: "- Phoenix Mayor Kate Gallego arrives in a Waymo self-driving vehicle on Dec. 16, 2022, at the Sky Harbor International Airport Sky Train facility in Phoenix. Self-driving car"
-    publishedDateTime: 2023-05-23T17:05:00Z
-    webUrl: "https://www.mrt.com/business/article/waymo-uber-set-aside-past-rift-over-self-driving-18114056.php"
-    type: article
-    provider:
-      name: Midland Reporter-Telegram
-      domain: mrt.com
-    quality: 5
 
 secured: "g8S8+A00zzlnnLIqVEE3aL2yma5AnKVxJ7NubzmB8FmPzY0KKk84KvRT0e6i3NrUHEeKoBQsqPOpAabjpuzeCr1OO1LTj6U6msQd1qwhiiZsDSngq5vDfHJRzKJpyHrjI5JtmOg75QLbonupgIpQTK+yKXUgdQI7QF1KyvuRahyPz0AZ2uNo6Q8VEiUA+FMRs8MZau0Atya2KF/rhn6nUplZScEnhHZ7+RqUHbL8Ssffxwh1Ec/cN/BzAcpFmq36ExY9ygox1zV+jAdMQeax5TE0J4HoXImQUVfWJmqAGvj9dYL79nV7e3/mzv75UvG7CEN55TFw0StyZnOY/u13swagLvhRWoytrKNvI1SrRVw=;H9Bwk2hBQmuBFgtHa9fHbw=="
 ---

@@ -43,14 +43,14 @@ related:
         isCached: true
   - title: "Travelers to UK face long waits amid systems problem affecting electronic gates"
     excerpt: "The British government is working to fix a technical problem that caused electronic border gates at airports around the country to stop working, leading to hourslong waits for travelers entering the U."
-    publishedDateTime: 2023-05-27T20:44:00Z
-    webUrl: "https://www.sacbee.com/news/nation-world/world/article275852501.html"
-    ampWebUrl: "https://amp.sacbee.com/news/nation-world/world/article275852501.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/world/article275852501.html"
+    publishedDateTime: 2023-05-28T10:23:00Z
+    webUrl: "https://www.bellinghamherald.com/news/nation-world/world/article275852501.html"
+    ampWebUrl: "https://amp.bellinghamherald.com/news/nation-world/world/article275852501.html"
+    cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/nation-world/world/article275852501.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: The Bellingham Herald
+      domain: bellinghamherald.com
     quality: 35
 
 secured: "7cBvhE0XUuXKE/rf+3rtBX06kcrDctBXa7aI4I8RIzkGL/PBwVJxriASmDD2lN1cJlz+Gr3dmAGIBmf03JyW43I3xBT71jhAEX4XuJ5w1rH5Cx3JRiGFEhatb67/ot6KViWPjg87UJu6uXwLSymng7MrwbvwPSgozxxfrQAqza29lYAgjIPF/qAR+X8ikY0nrVxym5kw4QLEHeU1Jm6q/AnHfM3oYKjvY8TtLiDIxSVdZh4OH0DliQtKbetExBwoSySwQQ3mOemQBggg5n+im7UIbHC1Ukr+fPCAQ1scowSyocuY7ZOKW8mZmxVKIQ6cJvt1wRuQJRrKb2TOahv4rQqB6w4VDJYWLTLtfFmxjDc=;twyyfrMXx0XnplC6YtlWNw=="

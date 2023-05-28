@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2023/05/23/adobe-brings-fireflys-generative-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/adobe-brings-fireflys-generative-ai-to-photoshop/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: TechCrunch
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Adobe adds generative AI to Photoshop"
-    excerpt: "The new AI tools will work similarly to other AI image creation technology, such as Midjourney and DALL-E, which allow people to produce pictures from simple text prompts."
-    publishedDateTime: 2023-05-23T17:16:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/adobe-adds-generative-ai-photoshop-rcna85548"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna85548"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna85548"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230522-ai-photoshop-lr-v3-77cd2e.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
   - title: "Reality Is Broken. We Have AI Photos to Blame."
     excerpt: "Adobe Firefly, Midjourney, FaceApp and Try It On are leading AI’s crazy photo-software revolution."
     publishedDateTime: 2023-05-26T03:01:00Z
@@ -90,15 +74,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Adobe is adding an AI-powered image generator to Photoshop"
-    excerpt: "Adobe on Tuesday said it's incorporating an AI-powered image generator into Photoshop, with the goal of \"dramatically accelerating\" how users edit their photos."
-    publishedDateTime: 2023-05-23T18:08:00Z
-    webUrl: "https://www.cnn.com/2023/05/23/tech/photoshop-generative-ai/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
 
 secured: "+MgBYKrByPW73zpdHmkCD4/Ms1tmKDpt8OjypaPr0lgCQbjt3TBX0LEh4Mr5aKed9gQlFquQ5cmJ6NxfBXUv4xbNC1Ygbe/9U/vEB6PxYxkIcDaw1zejnONu3uyHK2bH3Ghu47A1R3D/SdWbO9J00aMfedvH/j5BdvEksx9qY182D2LgW174ZFYlblhE4XVmnju/EYCtbuNd5qV3HaR2pDYnM2a5T5UxT9OOEW5iEIbmrRVMPXpwKIVytwifCKxzmZ7+bAfJIjMWJbC74wJT8fnCra2UY1CiKXuc7uL0ZHU3mDvdkUqCqRsmU9bh2/2+3/SLQtBVDFU7HAZ6bDSBRTqACZA7t7VbKbL3SLmFOrE=;YoFLh7W3OE5JzLYx6TLt/A=="
 ---

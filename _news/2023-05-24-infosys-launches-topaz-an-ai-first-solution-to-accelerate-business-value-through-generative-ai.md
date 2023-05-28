@@ -120,29 +120,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Banks are all-in on AI, but there's one problem: They can't hold on to the talent. Here's why."
-    excerpt: "Top banks are pursuing employees well-versed in artificial intelligence, but they are having a tough time holding on to them."
-    publishedDateTime: 2023-05-23T18:01:00Z
-    webUrl: "https://www.businessinsider.com/banks-ai-talent-big-tech-recruiters-2023-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
-  - title: "A deep dive on generative AI in health care, Pear sold for parts, and progress on stretchable skin"
-    excerpt: "My colleagues and I have been trying to get a handle on how generative AI and large language models — the technology underlying systems like ChatGPT — will meaningfully change health care. How soon, if ever,"
-    publishedDateTime: 2023-05-23T17:44:00Z
-    webUrl: "https://www.statnews.com/2023/05/23/generative-ai-health-care-chatgpt-tech/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 25
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2023/05/GettyImages-1250089762-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Avatar animation, AI-powered video production companies among AWS’ first generative AI accelerator cohort"
     excerpt: "Companies that employ generative artificial intelligence to create clips for social media ... more than 1,200 applications for the 10 spaces in the programme, prompting AWS to expand it to 21. The company will provide the cohort with the resources ..."
     publishedDateTime: 2023-05-25T07:21:00Z

@@ -2,19 +2,19 @@
 category: news
 title: "Travelers to UK face long waits amid systems problem affecting electronic gates"
 excerpt: "The British government is working to fix a technical problem that caused electronic border gates at airports around the country to stop working, leading to hourslong waits for travelers entering the U."
-publishedDateTime: 2023-05-27T20:44:00Z
-originalUrl: "https://www.sacbee.com/news/nation-world/world/article275852501.html"
-webUrl: "https://www.sacbee.com/news/nation-world/world/article275852501.html"
-ampWebUrl: "https://amp.sacbee.com/news/nation-world/world/article275852501.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/world/article275852501.html"
+publishedDateTime: 2023-05-28T10:23:00Z
+originalUrl: "https://www.bellinghamherald.com/news/nation-world/world/article275852501.html"
+webUrl: "https://www.bellinghamherald.com/news/nation-world/world/article275852501.html"
+ampWebUrl: "https://amp.bellinghamherald.com/news/nation-world/world/article275852501.html"
+cdnAmpWebUrl: "https://amp-bellinghamherald-com.cdn.ampproject.org/c/s/amp.bellinghamherald.com/news/nation-world/world/article275852501.html"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: The Bellingham Herald
+  domain: bellinghamherald.com
 
 topics:
   - Computer Vision
@@ -52,6 +52,6 @@ related:
         height: 800
         isCached: true
 
-secured: "uzQJp58Vmeqtn2RrRKS2D7/QgEA2hs76lprfpM/hSs6tzkmVCiKqYU6+7JkDrrR8Fmzc8mvoNQyyUjWT8nh2M7QlwlxZFA0EywcFPmemO+IzYlJRZIQT8Q7VuEX/IwB2mRsKsUf583rqhhyiKFwNn3q6rLuOIo6QsGHMJbg3wwiL+oLJeK1lL1VO5GURUL4MpQGoyvV+N9b4A6TgpP8KShKIzZVo9hEXBd6b03r5b1SNnMdDXcz56zKnKHQ/Pb4dEcTEgHOYZ5c7u40ywDpeLE6VQIHqnzZnuNOLOm4euzBfSQOUXHg2rUa62ZMH4Yper21j0EwQhcHrsxRseYCCHEbRL9HXBJDjlPgoChY/qPk=;3tI6j3CGpgHucUPaSjlZCw=="
+secured: "hnsnsBZBlBP/Z0Zduz3VrrpCBG9kEzrDL6Q6Px/BVIwYmc9tPoK8TH+AWyMImC7WYlqJxeoeTlPOkzY2gPxxgBUwvEoeERaYn1q6x15+CLSIipwZ5dnJr7oBwYjg7hUt6r2a/B9RE3OQPtlK+xAQ9DEaqOrM5l2YBJ0wB8IMS+AY17fa/3VRKMCqVYlr50myuz5u1iFs0gSAsokgiqimpzy/bZpDEoQJBidioXcFBdkxp3tmqg2gJSqD7TtUfCug//2U5qeypgAGdgPldZjHC8Q9FECHDJ56fNkQWy1ruyVOQroCs/lvCHnpuv+Ha4uMGet3MFzdn0ETk0yL/SxqztzMTdTMVX8j4K5CfGji8a4=;Ykil8GmLzZeq7BYuxRcUvg=="
 ---
 

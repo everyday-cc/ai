@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Thomson Reuters Embraces Generative AI with Microsoft 365 Copilot Integration, Upcoming Product Updates"
-    excerpt: "A host of Thomson Reuters’ products will now be available through Microsoft 365 Copilot for Word, while those products themselves are getting new generative AI capabilities later this year."
-    publishedDateTime: 2023-05-23T17:38:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/05/23/thomson-reuters-embraces-generative-ai-with-microsoft-365-copilot-integration-upcoming-product-updates/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 38
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/05/Thomson-Reuters-Legal-Drafting-767x633-2.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "Intel Announces an Integrated Neural AI Accelerator in Meteor Lake"
     excerpt: "Intel says it's working with Microsoft to make the development of AI features on the personal computer a reality. It will do this by offering a VPU, or Vision Processing Unit, as part of the SoC tile in Meteor Lake."
     publishedDateTime: 2023-05-24T18:00:00Z

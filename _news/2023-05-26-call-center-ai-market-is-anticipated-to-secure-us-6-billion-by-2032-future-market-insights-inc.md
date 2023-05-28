@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Cognitive Computing Market to Cross US$ 3.2 Trillion by 2032 | Future Market Insights,Inc."
-    excerpt: "The market for cognitive computing will grow at an astonishing 28.7% CAGR between 2022 and 2032. By 2032, the market is expected to have grown from $257.1 billion in 2022 to $3.2 trillion. According to this analysis,"
-    publishedDateTime: 2023-05-23T17:46:00Z
-    webUrl: "https://www.fmiblog.com/2023/05/23/cognitive-computing-market-to-cross-us-3-2-trillion-by-2032-future-market-insightsinc/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
   - title: "The Market Value of Mobile Speech Recognition Software is Projected to Reach US$ 25.4 Billion by 2032 | Future Market Insights,Inc."
     excerpt: "The market for mobile speech recognition software is anticipated to grow to a value of US$ 3.3 billion in 2022 and to US$ 25.4 billion by 2032, with a CAGR of 22.5% during the five-year forecast period."
     publishedDateTime: 2023-05-25T15:34:00Z

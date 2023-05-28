@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Google Search ads will soon automatically adapt to queries using generative AI"
-    excerpt: "Google is going to start using generative AI to boost Search ads relevance based on the context of a query, the company announced today."
-    publishedDateTime: 2023-05-23T18:43:00Z
-    webUrl: "https://techcrunch.com/2023/05/23/google-search-ads-automatically-adapt-queries-using-generative-ai/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 43
 
 secured: "/FPCa9d/QAXlNVOT0vYZKu/Q3vzBHFKJIZMxFTS1UFtwYLC9/9hadX08R4fUpc1snUdwFClFDJlpFkbEwBvHLA4Ngox9ab3i20hHWqgYO4L2/lTQhyYsPtbOH2SsDGB1VuOoeO8H1OlNchgvtlO4PpbD1krfqKq0LLRTplLf4sZdb2kw2RawFZb7Vs7w+V9fnP4CiT5x7GDnnC/kvUBhsheY+t6ILV9GoAQTbsjwcyGMlc3fZzivfd6ioufol/YI1GOQXPiE/8bCTyz8fTO5OKueIfT+OvcYqpjm4k6ERbhg0pMYD6xRsXXZdY1T+PnyyJ7gY9lWoEvqtgK+QbsBXX6UPTmlmWWWLlCFrnU5r2Q=;RGwqRk/bBA1t8sbcAICAJg=="
 ---

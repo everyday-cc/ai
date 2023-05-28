@@ -76,20 +76,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 44
-  - title: "Uber to deploy Waymo self-driving cars in Phoenix area"
-    excerpt: "Uber is poised to begin rolling out Waymo self-driving cars in the Phoenix area, marking what could be the first step in a broader partnership that signals the end of the long-standing feud between the two companies."
-    publishedDateTime: 2023-05-23T17:11:00Z
-    webUrl: "https://www.axios.com/2023/05/23/uber-waymo-self-driving-cars-robotaxis"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 39
-    images:
-      - url: "https://images.axios.com/KF2ET-E9UiBQerCfVBiZ3Wn2yrw=/0x0:1920x1080/1366x768/2023/05/23/1684858748699.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Uber will now let you book a Waymo self-driving car through its app"
     excerpt: "The companies say that customers will be able to use the self-driving cars not just for ride-hailing trips through Uber, but for delivery services through Uber Eats as well. In addition, customers can still book a ride through the Waymo One app."
     publishedDateTime: 2023-05-23T21:28:00Z
@@ -118,15 +104,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Waymo, Uber set aside past rift over self-driving car technology to team up on robotaxis in Phoenix"
-    excerpt: "- Phoenix Mayor Kate Gallego arrives in a Waymo self-driving vehicle on Dec. 16, 2022, at the Sky Harbor International Airport Sky Train facility in Phoenix. Self-driving car"
-    publishedDateTime: 2023-05-23T17:05:00Z
-    webUrl: "https://www.mrt.com/business/article/waymo-uber-set-aside-past-rift-over-self-driving-18114056.php"
-    type: article
-    provider:
-      name: Midland Reporter-Telegram
-      domain: mrt.com
-    quality: 5
 
 secured: "xkslP9JKG3rKLssKuYe0fB2RCTTZyF6ofnMhHzSIKH+WmhX1s9BFN7DyJIE/cLx1mWHY6m458OKLgxSuGhPiJKix3nlqo28uX9URLn4DYCzCj7t80IxO0nNLMhuYEWFCGBvc5uPHFq0o/E7VT497yswIvAWtUn+m54pRmfVpBq0I9zHMWVNnRLRQifw86zaIzye1wfAxueCEmuYFc7UiOFROWXbhcPylGSP1N0d+bseNznR4ECUxWiUpQ0HyXRrNlOmgoptyT+38sJVRWINcPK95RHULyx80qKPNjNEcRQjluxiK7VLufarhcKsr0uCArob01EWDZLoGCo2J3Uc4X70GDwYf2uVNQoh0qbPNr7FmOmsWKDD1i+5tRzBNkuS/kjt9//91Lsw4xwfEe9qrwmkZ7W5KRNF8VgASS/2waO/Gnclk8F7JXLiWD5HUpWduL8ZSYDZ4p3Y60k8IfjF/mbmTidVXIPT00i+CZrY6G+dsa27dknsEkzUs67PR8XUcfKngBzYoiNT/fOMNtYF1DA==;jviAS9HBZsMsbO3Kn3Ljiw=="
 ---

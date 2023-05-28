@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meet-aria-operas-new-built-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meet-aria-operas-new-built-in-generative-ai-assistant/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Windows 11 to get a new AI assistant – Copilot"
-    excerpt: "one of its most recent AI tools, embodies its vision for the future of the Windows 11 operating system. According to IT Home, Microsoft intends to roll out Copilot to all Windows 11 users later this year. However, the company will start beta testing this ..."
-    publishedDateTime: 2023-05-23T17:46:00Z
-    webUrl: "https://www.gizchina.com/2023/05/23/windows-11-to-get-a-new-ai-assistant-copilot/"
-    ampWebUrl: "https://www.gizchina.com/2023/05/23/windows-11-to-get-a-new-ai-assistant-copilot/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/05/23/windows-11-to-get-a-new-ai-assistant-copilot/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/05/Microsoft-Copilot-a-1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Empowering the future generation: The advantages of educating students in the new age era of AI"
     excerpt: "Artificial intelligence (AI) has become a revolutionary force in the quickly changing world of technology, altering various sectors and our daily lives. As AI develops, it is more crucial than ever to get the"
     publishedDateTime: 2023-05-27T09:53:00Z

@@ -22,29 +22,34 @@ topics:
   - AI
 
 related:
-  - title: "Hands-on with Magic Compose, the AI-generating Messages tool"
-    excerpt: "I've had some time to play with an early version of Magic Compose, which uses AI to create texts in Messages. It's fun, but unreliable."
-    publishedDateTime: 2023-05-25T21:58:00Z
-    webUrl: "https://www.androidauthority.com/magic-compose-experience-3329552/"
+  - title: "How the generative AI boom could deliver a wave of successful businesses"
+    excerpt: "Where generative AI startups can start if they want to turn the short-term generative AI hype into long-term growth."
+    publishedDateTime: 2023-05-27T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 68
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2022/04/Google-Messages-SMS-stock-photo-9.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_567557479.jpeg?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "TCS Expands Google Cloud Relationship With Vertex Generative AI"
-    excerpt: "Tata Consultancy Services is banking on its deep customer relationships to find ways to bring Google Vertex AI generative AI to them."
-    publishedDateTime: 2023-05-24T17:48:00Z
-    webUrl: "https://www.crn.com/news/cloud/tcs-expands-google-cloud-relationship-with-vertex-generative-ai"
+  - title: "VB Transform: Navigating the generative AI wave, insights from top executives at major corporations"
+    excerpt: "Enterprise speakers slated to join us at our VB Transform event on July 11 and 12 will shed light on their generative AI initiatives."
+    publishedDateTime: 2023-05-26T18:18:00Z
+    webUrl: "https://venturebeat.com/ai/vb-transform-navigating-the-generative-ai-wave-insights-from-top-executives-at-major-corporations/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 19
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 53
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/VB226360.jpg?fit=750%2C500&#038;strip=all"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "r/15b2gW/fd+n3ZOOmJZEXk3bP+ZDHxzHzJPnK1ENpXFubEYnGMZDOy7co9PuhMU/JS+mwBbuaWaNOVCVOYKjeJdaPS6bDRd4Kv51equdRwBECfDYVmCUwK2mkjeRAjIwAgZB5KfEyImdA+4d1nuwNrRodwChE8//rxHRgc3PmlVa4rf+7iMkX90JTaCpM/W6GbpDK1GLw8sG/YoQnXAMq3n5S4CFcCZP1YL++N8BZXrq5+yagb9Tx6e9hOX4MNdCX3+6soQLIWKpE06BXiOgGPgkqqNC6Z3QY3sqxvQ28TMfAlGlenXjuRI7Vunxz+G2E9YNyqTUffWURfMsINZYB0AMd3M3p7DM6lviayCO/1kN1YRnA1C/EOxvKJnoBAGrD2hjv6uqDL6b1Nv69uwkvzbb55EXD6nlZAaEkB9kbAmZvWqjTEGZFk8D9USbe27P1k8KRkThP4bt1B07IbSVJQcoq4N4+q9loJVfcXx3i+Owq47bzKvfWVqV8FTxX3xJaX+StkA7y5bkqcp4YOyqA==;676WpY5y6Q+picmgAqjLQQ=="
 ---

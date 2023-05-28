@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/05/25/cohesity-fo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/05/25/cohesity-forges-google-cloud-ai-downwards-to-data-layer/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 822
     isCached: true
-
-related:
-  - title: "Cohesity partners with Google Cloud to empower organizations with generative AI and data capabilities"
-    excerpt: "Cohesity will utilize Google’s recent advancements in AI technology to enhance its AI-ready data security and management platform."
-    publishedDateTime: 2023-05-23T17:38:00Z
-    webUrl: "https://venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/"
-    ampWebUrl: "https://venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/cohesity-partners-google-cloud-empower-organizations-generative-ai-data-capabilities/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1401124210-Thinkhubstudio-e1669658425465.jpg?w=1200&strip=all"
-        width: 1200
-        height: 606
-        isCached: true
 
 secured: "w1O4fDnm2QGJVm0U4eVU/SqPn71p50qFEtU3SOcGCEGh0/vVp3AZjY5E9efX3VNgq32vALjwjzdOKoQCE08kgFx4at5+nfdLOjSv/oaV7D+l6RUWGZbyraYN+Y5xW1XmaBuomw5FzYNLiaytaVGIeqQFz6f2I9vrd3dlkAkNlraxtiaRtMwt9PQtmg+2kzzieqcz1Rj2yQ0EcyaKYbuW1DWPmee4FTZtKV7SqxXXeNLO28ZVNAMSnJFvE+7aWm7fMTVcm4iX3nwZGSPFUjC2Aip2MXZbxOiI4av/knI0Fip1vAsqO44bJYmsgqSExVyXbzLzFBUrkI1OeCS5WbIvUJGoswYnK0jYp9xQeTamayM=;X/Ao+wlzkSerRiITOvcG9w=="
 ---

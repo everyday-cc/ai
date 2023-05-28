@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/red-hat-extends-openshift-for-the-generat
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 1024
         height: 548
         isCached: true
-  - title: "Red Hat OpenShift AI Accelerates Generative AI Adoption Across the Hybrid Cloud"
-    excerpt: "Red Hat, Inc., the world's leading provider of open source solutions announced new capabilities for Red Hat OpenShift AI. Building and expanding upon the proven capabilities of Red Hat OpenShift and Red Hat OpenShift Data Science,"
-    publishedDateTime: 2023-05-23T18:17:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/23/9819284.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
 
 secured: "1VRxmEjmlfTzUNdTuBRRes67CHW0M9r/TL8vHCMo0zP3NE2lR/kJjzXS+/WvqpZJbgdPr7nL6U/tsZ5z5uSOGBlFsjUxdvw+/2ciu28TZWVZ9wwAAwC6TyzFCRlbHQLcHoeKbmCFgDcTLrmgm8aAEElRsbjk1cl8/BVEkLsPu1E8WRMtQXVJTBDaYzB7Rfjovo2/+Ddg2fkpfthotm8RuXUHWntA5OabCzwPBvO1LNem1rRRH+Wgw2MHFfRPA5s0wwKOKrUeEjCtzuzuGEiKh+WX+mFy6UDzt86zmRIImIoirrDWiCdq7wLWP32eOLlNxvsHlMB5FSAhP5dEEmBW7raEG28icaGq4/yIwcNH97Y=;I0htclr3+0s9b4meQBw49Q=="
 ---

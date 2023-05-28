@@ -7,7 +7,7 @@ originalUrl: "https://www.wbur.org/hereandnow/2023/05/26/godfather-ai-warning"
 webUrl: "https://www.wbur.org/hereandnow/2023/05/26/godfather-ai-warning"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1000
     height: 665
     isCached: true
-
-related:
-  - title: "Fifth Third CEO talks about the importance of AI, other tech in the growth of banking"
-    excerpt: "The AI is optimizing for the lifetime value of the customer relationships. Retaining your customers and making sure they’re satisfied is the single biggest lever at our disposal.'"
-    publishedDateTime: 2023-05-23T17:46:00Z
-    webUrl: "https://www.bizjournals.com/cincinnati/inno/stories/news/2023/05/23/fifth-third-ceo-tim-spence-ai-fintechs.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 27
 
 secured: "uNNeiOhhS+aiV7c3R47hk1JsmpqVrbIAQ78O+CuC9FiR1E9Sfr6MDY3iRbSsR93/EBdNqDioN89B3Lt+ACpUM8ibOZaz85rLiB2hiXWpfU2N41yq18jJ0PRj4audeuZMamC6JqeCwWFDk5I0PpOEajcxh6SnxJ+oOp91aVLBTkQ3MO+dGMbPVmcY+IdOpWNo6v2ffsuyE+TayboOtY37SDiZ59NcQNCwTrpBIOSCkEsj4WKHkfmlBaYux6/J8qCJCklHtXZ6IX8Skxj8ch9oj/n9kvEcexJluqd5dbEvkoUbNzXF8vmlUtdvPFYrZLCe2xqfYpPhU1kaz8bywz/KmHMgkwWTT4TeIPMEi73iBMU=;1vcWtVLNGgJcJCGGbexdlw=="
 ---

@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Adobe adds generative AI to Photoshop"
-    excerpt: "The new AI tools will work similarly to other AI image creation technology, such as Midjourney and DALL-E, which allow people to produce pictures from simple text prompts."
-    publishedDateTime: 2023-05-23T17:16:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/adobe-adds-generative-ai-photoshop-rcna85548"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna85548"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna85548"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230522-ai-photoshop-lr-v3-77cd2e.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
   - title: "Adobe brings Firefly’s generative AI to Photoshop"
     excerpt: "Photoshop is getting an infusion of generative AI today with the addition of a number of Firefly-based features that will allow users to extend images beyond their borders with Firefly-generated backgrounds,"
     publishedDateTime: 2023-05-23T22:24:00Z
@@ -90,15 +74,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Adobe is adding an AI-powered image generator to Photoshop"
-    excerpt: "Adobe on Tuesday said it's incorporating an AI-powered image generator into Photoshop, with the goal of \"dramatically accelerating\" how users edit their photos."
-    publishedDateTime: 2023-05-23T18:08:00Z
-    webUrl: "https://www.cnn.com/2023/05/23/tech/photoshop-generative-ai/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
 
 secured: "YiUZWMN56eWu1YP7vFNMq3sLQS5o3evI7DO954/x6E5a9avJ+wPbJTvRteWUgcS8dBQ0p01nf7RGSTi5RpTc3WBru7gjt+nIWTnhkLV3I28vcdfjRGEwdr+8h878GMHQsMl/kxo9X7watQZDzMAuF8dCRCanFoxWPYBsvD8gAaKpGFdACKNAa6oXXnzTaqJu21t8hCaCgiNlXx6vqUkqT21l0UzuuXn3RDgy5yFyl8VFMSuf/zp6THqhcMjGXPXzX1P6kY2wrb106p0pgEV7u18e8YEv7NCZ8u6wjs8kvzMy3qnUrporWVrPbKZGQMaJYazyDyXm7y2oEnrqmgXx8wOM2I2yeEvf0lSovotsqqd1CPebEG2zvl1JIRsqU0KGhgLAqbPOBEjURodJiTlD5QB5ZEgM3hgeYfNN8yVZsilkX6RCP1XgMLgDVjUbGdiQD/e5SGiY8ZUlztGL+PFOgBAKFZxne55pKTHbf4jI4koCX3WmPSkaB05q0NkAJwlpXpqBhCQ8Xd8VgFFcXsJ6tw==;rJ+PWMfLkGXQoWgrJ1grzQ=="
 ---

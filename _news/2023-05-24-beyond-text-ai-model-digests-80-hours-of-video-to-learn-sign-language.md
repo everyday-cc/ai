@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/technology/sign-to-text-ai-improves-accessibi
 webUrl: "https://newatlas.com/technology/sign-to-text-ai-improves-accessibility-deaf/"
 type: article
 quality: 69
-heat: 79
+heat: 81
 published: true
 
 provider:
