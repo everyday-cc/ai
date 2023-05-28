@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna85548"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna85548"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -95,20 +95,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 47
-  - title: "Adobe integrates Firefly's generative AI with Photoshop"
-    excerpt: "Remove unwanted people and objects from your image in just a few clicks with Adobe's Generative Fill – powered by AI"
-    publishedDateTime: 2023-05-23T15:35:00Z
-    webUrl: "https://www.digitalcameraworld.com/news/adobe-integrates-fireflys-generative-ai-with-photoshop"
-    type: article
-    provider:
-      name: digitalcameraworld
-      domain: digitalcameraworld.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/2BvaKhAzrEMqK2v5GjDwhV-1200-80.gif"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "N2TOtxgDGVF59iOyffbOy9drAm/uPnzbq5BqNhVkAMhJxB5nngcBq0xJmj65oeb7fVe/xtnTH9eJg6kcHl6xkO1XjnZcSJmmKYfaEEuyyztfTrFFhG4jtAL40rJ1fBC2Be+sA7juzanU0clTmmWax/PtQLJ1LaJxbiPDwRVBNUUDDMbdwFXkip1ie33/IqBrnsxrZ5cvFYBA8cJXlOiJd1pTFBjjPFzTHi/pOP/Sz/46n4Jxi8fAKErbY5V/W2wRPLsXI31nEZnRyrc3Clro8hlUMHluRkUei4iBn94Ttr+qoXwtoZNCFRhiiRLHNRCgBY1Y5whtHDqrH5dEPbN5NqIxJdFEkoqoBG+UP+PR/e8=;wCEBl2TMzHen7dUV4lbNmA=="
 ---

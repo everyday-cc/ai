@@ -71,17 +71,6 @@ related:
         width: 860
         height: 490
         isCached: true
-  - title: "Facebook’s open-source language model can recognise 4,000 languages and “speak” in 1,100"
-    excerpt: "While the model was trained using religious recordings for non-widely-spoken languages, Meta says this hasn’t introduced any bias."
-    publishedDateTime: 2023-05-23T15:15:00Z
-    webUrl: "https://mybroadband.co.za/news/software/492759-facebooks-open-source-language-model-can-recognise-4000-languages-and-speak-in-1100.html"
-    ampWebUrl: "https://mybroadband.co.za/news/software/492759-facebooks-open-source-language-model-can-recognise-4000-languages-and-speak-in-1100.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/492759-facebooks-open-source-language-model-can-recognise-4000-languages-and-speak-in-1100.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 15
 
 secured: "fLutHqrhd5oLSI60Uln5qxS5E4l9NH16ibV+PC3TJ5xMpKr8Oa8JTuyVoNNFEjucydokBnyLL/deDgpHgN3/nE43TT7oTP+VbpO9Z/JeuqSsM+RKBX7S195DNnJ0e5O/pDQ8Z0mx9uenQ92wv2gFLCFal3l8gweDPplC/Rjrg6wXKLkb8xT+LHSrg9DaH2k8QBozVwBuqNM/PDDtMrrL/49Umc5CL4mnZGYBn9sH143xiXyhEonsS+utP6jsYrtH2qHtOnZMUfLC5A7VrFQNs0TaA+mDs5URfBm2bx9f0ncub3tlMS0Tu183nIBbHtb4/HHC4/q3Rnr0Lkhy1qn0OWg9FJyLVYOXSQhUcvJ2z7A=;dWhFCyrCQCt5Ntl7UDV4Mg=="
 ---

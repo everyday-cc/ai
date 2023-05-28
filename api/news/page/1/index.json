@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-28-the-music-industry-is-freaking-out-about-ai-but-this-artist-is-embracing-the-new-tools.md",
+      "title": "The music industry is freaking out about AI — but this artist is embracing the 'new tools'",
+      "excerpt": "\"Patten\" made his album \"Mirage FM\" entirely from text-to-audio AI samples and says AI tools can help more people \"express themselves.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/music-industry-freaking-out-ai-generated-album-embrace-artificial-intelligence-2023-5",
+      "originalUrl": "https://www.businessinsider.com/music-industry-freaking-out-ai-generated-album-embrace-artificial-intelligence-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/646e42256f9a4800187369fb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/music-industry-freaking-out-ai-generated-album-embrace-artificial-intelligence-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/music-industry-freaking-out-ai-generated-album-embrace-artificial-intelligence-2023-5?amp",
+      "publishedDateTime": "2023-05-28T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-28-ai4bharat-putting-india-on-the-global-map-of-cutting-edge-ai-innovation.md",
       "title": "AI4Bharat: Putting India on the global map of cutting-edge AI innovation",
       "excerpt": "Launched a year ago, the Nilekani Center at AI4Bhārat has set up a team of close to 200 translators across the country covering 22 Indian languages. Tech billionaire philanthropist Nandan Nilekani is the primary sponsor of the Nilekani Center at AI4Bharat with a focus on developing open-source language tech as a public good.",
@@ -98,7 +149,7 @@
       "originalUrl": "https://gizmodo.com/chatgpt-ai-12-companies-deepfake-video-image-detectors-1850480813",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -282,6 +333,57 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-its-hard-to-rave-about-a-plain-white-t-shirt-so-retailers-are-making-ai-do-it.md",
+      "title": "It’s Hard To Rave About A Plain White T-Shirt, So Retailers Are Making AI Do It",
+      "excerpt": "Some retailers are using artificial intelligence to churn out hundreds of product descriptions that used to take weeks to write.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/laurendebter/2023/05/27/its-hard-to-rave-about-a-plain-white-t-shirt-so-retailers-are-making-ai-do-it/",
+      "originalUrl": "https://www.forbes.com/sites/laurendebter/2023/05/27/its-hard-to-rave-about-a-plain-white-t-shirt-so-retailers-are-making-ai-do-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6471142a6fcd75efc69d86b2/0x0.jpg?format=jpg&crop=3840,2160,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-27T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1087,109 +1189,6 @@
       "ampWebUrl": "https://www.marketwatch.com/amp/story/marvell-technology-shares-pop-14-on-ai-lifts-chip-makers-74001f2e",
       "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/marvell-technology-shares-pop-14-on-ai-lifts-chip-makers-74001f2e",
       "publishedDateTime": "2023-05-25T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-scientists-use-ai-to-discover-new-antibiotic-to-treat-deadly-superbug.md",
-      "title": "Scientists use AI to discover new antibiotic to treat deadly superbug",
-      "excerpt": "AI used to discover abaucin, an effective drug against A baumannii, bacteria that can cause dangerous infections",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/may/25/artificial-intelligence-antibiotic-deadly-superbug-hospital",
-      "originalUrl": "https://www.theguardian.com/technology/2023/may/25/artificial-intelligence-antibiotic-deadly-superbug-hospital",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e3742a9a99450fcce971220af793a15e6e951b69/0_413_5500_3300/master/5500.jpg?width=620&quality=85&auto=format&fit=max&s=76edd5356118df70d34bff24513a693f",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/may/25/artificial-intelligence-antibiotic-deadly-superbug-hospital",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/25/artificial-intelligence-antibiotic-deadly-superbug-hospital",
-      "publishedDateTime": "2023-05-25T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-nasdaq-jumps-on-ai-optimism-dow-drops-on-debt-ceiling-angst.md",
-      "title": "Nasdaq jumps on AI optimism, Dow drops on debt ceiling angst",
-      "excerpt": "U.S. stocks were trading mostly higher on Thursday as Nvidia Corp.'s earnings report sent shares of the chip maker soaring and the broader Nasdaq along",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1?mod=joseph-adinolfi",
-      "originalUrl": "https://www.marketwatch.com/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1?mod=joseph-adinolfi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-610305/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1",
-      "publishedDateTime": "2023-05-25T10:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

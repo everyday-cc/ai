@@ -99,20 +99,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 47
-  - title: "Adobe integrates Firefly's generative AI with Photoshop"
-    excerpt: "Remove unwanted people and objects from your image in just a few clicks with Adobe's Generative Fill – powered by AI"
-    publishedDateTime: 2023-05-23T15:35:00Z
-    webUrl: "https://www.digitalcameraworld.com/news/adobe-integrates-fireflys-generative-ai-with-photoshop"
-    type: article
-    provider:
-      name: digitalcameraworld
-      domain: digitalcameraworld.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/2BvaKhAzrEMqK2v5GjDwhV-1200-80.gif"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "EAvH33NMg6rXi0W3/95hrkkHJ7bMjyRfzAHjIgy6lGGqwUNAqNQ03PZQy3Lg+K5pbuuGsgJHCV0ZNndg6HvbLUiDUP+Q3vB5Yobo4NAIckS6UrDBL9DIL/F+K0MNg6x0Cd+4XNeLfBTvbWUmBbY1sSxluIhjKd/39S6ZlAiOoXoe/cYL9vyMbjc37zo1gn0NGqwSgTpGm8ygxWBIcESuiM9rTroWa/IAq5hj8v/vuQTmcJzKzfsBQqLwxE7nlZOnbbUf9JUflpPbk6VhpAVt4SmmQbFw+PnsFCzhDugsdPeGhqs4xN3CC1/yDq1Kt+cYv++iIAEjqEz9G7Us627AVUw5fR/Ri8Czr2LLIAhdjlM=;gF0gr1+r5CXV/a6o0fnVeA=="
 ---

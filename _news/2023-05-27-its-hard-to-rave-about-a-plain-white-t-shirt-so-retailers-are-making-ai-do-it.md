@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/laurendebter/2023/05/27/its-hard-to-r
 webUrl: "https://www.forbes.com/sites/laurendebter/2023/05/27/its-hard-to-rave-about-a-plain-white-t-shirt-so-retailers-are-making-ai-do-it/"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Forbes
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Workers Are Terrified About AI. What Can They Do About It?"
+    excerpt: "The Writers Guild of America has its work cut out in the latest struggle against the perennial problem of automation."
+    publishedDateTime: 2023-05-28T07:06:00Z
+    webUrl: "https://www.thedailybeast.com/workers-are-terrified-about-ai-so-what-can-they-do-about-it"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1685122034/230526-dangers-ai-hero-final_tamrkn"
+        width: 1480
+        height: 833
+        isCached: true
 
 secured: "kMNROK2h+Z4BRPsNqYydVjt8QVh1l0tUrAuWOBdV14zv94DfeiNcY2JYI1RkGBKlRoExpBJPiyksbNdj0Q7dI8g7hOsafZF54DTXWMrtWW3/LSHmsGhblxttSIerNka1UJxCwaLf/dTVrQhtl/6RVwqf8uFN6z8+DK6UXoXx+QG9lGEDCbnrPoni49u4YFCuLpebkQ1dfEIMUbn9JYQKMcmLB+4hGms91uRFbYoI6WgOwtRI2nMEBzt2+SailLrM7FBmM8J/Adt9ihHB/vhWcB6zASQ1F0TnA3uzbblzUueAo1h0u7cR4J0IIZGaALJoufJGJIFtj1Ql8QYSYgGO9Z/OS8gvkaqNOKE6c3wrlT2sCHTy5hbfDLIvaKKW1HWGPXzravZUdFUPWerJH1quAWSL0Eu2VxtzeRo6R3HnA4qPv8fQS85DaaFnIEcf4NsOpvzglOcGWTTcc+bvUZ/JxkZ/oTo6CBRZlxFPusiHpfWgNmNqvqwFTse7buXjZ46ZEFrPKuLWwXFNtCtBqcQASg==;q0icOTeqwi37aTss4Ipylw=="
 ---

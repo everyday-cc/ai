@@ -75,22 +75,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "AI Is The Future Of Gaming And Nvidia’s New RTX 4060 Optimizes For It"
-    excerpt: "Ranked Industry Analyst Patrick Moorhead explains the value Nvidia has created with its AI-driven RTX 40 series and how he sees these GPUs more as AI gaming cards."
-    publishedDateTime: 2023-05-23T16:47:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/23/ai-is-the-future-of-gaming-and-nvidias-new-rtx-4060-optimizes-for-it/"
-    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/23/ai-is-the-future-of-gaming-and-nvidias-new-rtx-4060-optimizes-for-it/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/23/ai-is-the-future-of-gaming-and-nvidias-new-rtx-4060-optimizes-for-it/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646ced51ac423e0c238e4345/0x0.jpg?format=jpg&width=1200"
-        width: 566
-        height: 360
-        isCached: true
   - title: "Nvidia Sales Crush Wall Street Estimates Thanks To AI Boom, Shares Spike Over 20%"
     excerpt: "The professional vizualization segment, which includes Omniverse Cloud, a service running in Microsoft Azure for the development and deployment of industrial metaverse applications, posted $295 million in sales, down 53% from a year ago. “I think in AI ..."
     publishedDateTime: 2023-05-24T21:38:00Z

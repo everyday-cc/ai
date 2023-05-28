@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft launches Fabric, a new end-to-end data and analytics platform"
-    excerpt: "Microsoft Fabric is a new end-to-end data and analytics platform that centers around Microsoft's OneLake data lake but can also pull data from Amazon S3."
-    publishedDateTime: 2023-05-23T15:38:00Z
-    webUrl: "https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/"
-    ampWebUrl: "https://techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/microsoft-launches-fabric-a-new-end-to-end-data-and-analytics-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-159406176.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft Unifies Data Management, Analytics, and ML Into ‘Fabric’"
     excerpt: "Microsoft yesterday unveiled Microsoft Fabric, a new offering that unites its suite of data management, analytic, and machine learning tools into a single"
     publishedDateTime: 2023-05-24T20:07:00Z
@@ -48,29 +32,6 @@ related:
       - url: "https://www.datanami.com/wp-content/uploads/2023/05/MS-Fabric-Logo.png"
         width: 821
         height: 389
-        isCached: true
-  - title: "How Could Generative AI Impact The Data Analytics Landscape?"
-    excerpt: "While many of the possibilities of generative AI in data analytics are yet to emerge, there are already clear indications of the possible areas of impact."
-    publishedDateTime: 2023-05-24T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/24/how-could-generative-ai-impact-the-data-analytics-landscape/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "MAS unveils AI and data analytics skills training scheme"
-    excerpt: "The Monetary Authority of Singapore (MAS) has launched a programme to develop talent in artificial intelligence and data analytics (Aida) in the financial sector."
-    publishedDateTime: 2023-05-24T07:35:00Z
-    webUrl: "https://www.theasset.com/article/49237/mas-unveils-ai-and-data-analytics-skills-training-scheme"
-    type: article
-    provider:
-      name: The Asset
-      domain: theasset.com
-    quality: 39
-    images:
-      - url: "https://www.theasset.com/storage/Image/2023/May/1684902497artificialintelligencebirdseye.jpg"
-        width: 3840
-        height: 2160
         isCached: true
   - title: "Microsoft launches Fabric, a new integrated platform for data analytics, management and machine learning"
     excerpt: "The software can also integrate Azure Data Factory, Azure Synapse Analytics and Power BI into a single unit, particularly to aid business professionals with relevant data."

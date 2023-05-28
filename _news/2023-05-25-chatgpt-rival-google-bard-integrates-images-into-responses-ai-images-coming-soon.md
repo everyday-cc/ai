@@ -67,15 +67,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 19
-  - title: "Informatica Announces Integration of its Intelligent Data Management Cloud with Microsoft Fabric"
-    excerpt: "Informatica is one of the first ISV design partners for Microsoft Fabric and brings Azure customers access to IDMC's comprehensive suite of capabilities as a first-party service. The integration allows Azure customers to have: Seamless integration with Informatica's Data Quality solution to identify and provide high quality,"
-    publishedDateTime: 2023-05-23T15:31:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/23/9819642.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
 
 secured: "NZPfp1lXenHIDmHzwW+Ujp4G5tA/H1VBie4yhRs4qeBUAS8qMPJ7ttzQQjIjtxxVPzmTcAcO9M09w86UgUwTqSXSHnKihKJlrVGvJhD9zPFGXuclK8Q0lVxDwORbMfE8ZXx+ehhM4qm3N2cv7/NHHY7e0FEzyxGo7f1VbH6Mwv32kLpomkI1X/RhLycE7YGufRm88s39tF70zVGl3cFcEr2wplXOQDDEPNDLlx/c79MezAI3Eg7HG58IwcoOVLJX8dhqpvWvv0ddd9n/XokjXXgH5yaguvJoFpOOdueVzuOSsFwKBddKo4MHQmw+RVn3CwSyTZakXeIXPTIHollkniV/Kefr5vfqeKhzrxG6Kt6yJVoMWjTXP5gqj6WCSFVj6t+qkB09upyy0c7J51KgBhtuSu6+Coq5regAgzuiDjQe9AEMUsKIBlAz9Na2IIebTMsUN5y0BZ2u2X26sKntsT/Ws0jlcIW3oaxiDEP/nXQft6R5u4wezwbm13Y+WyzqumQvSxR61r/NVuiMOvkpow==;2DomSFgL0TkNVCUDCJKfhg=="
 ---

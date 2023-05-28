@@ -339,7 +339,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-24/ai-startup-figure-raises-70-million-for-humanoid-robot",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -432,6 +432,49 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-robotics-coding-are-key-for-kids-at-this-business.md",
+      "title": "Robotics, coding are key for kids at this business",
+      "excerpt": "Zebra offers over 25 courses in robotics, artificial intelligence, coding, electronics and technology to kids in grades 1 through 12. What sets Zebra Robotics apart from other programs in the area?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wral.com/story/robotics-coding-are-key-for-kids-at-this-business/20867751/",
+      "originalUrl": "https://www.wral.com/story/robotics-coding-are-key-for-kids-at-this-business/20867751/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wwwcache.wral.com/asset/lifestyles/family/2023/05/18/20867753/Zebra_Competition-DMID1-5yy50wqwd-640x480.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wral.com/amp/20867751/",
+      "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20867751/",
+      "publishedDateTime": "2023-05-23T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL",
+        "domain": "wral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1354,58 +1397,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-sanctuary-ai-unveils-phoenix-a-humanoid-general-purpose-robot-designed-for-work.md",
-      "title": "Sanctuary AI Unveils Phoenix™ - A Humanoid General-Purpose Robot Designed for Work",
-      "excerpt": "Sanctuary AI Unveils Phoenix™ - A Humanoid General-Purpose Robot Designed for Work May 16, 2023 (PRNewswire via COMTEX) -- PR Newswire VANCOUVER, BC, May",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/sanctuary-ai-unveils-phoenixtm---a-humanoid-general-purpose-robot-designed-for-work-2023-05-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/sanctuary-ai-unveils-phoenixtm---a-humanoid-general-purpose-robot-designed-for-work-2023-05-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

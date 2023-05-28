@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/business/economy/news/bank-fintech-coll
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886?amp"
 type: article
 quality: 59
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://www.gulf-times.com/gulftimes/uploads/images/2023/05/26/34940.jpg"
         width: 1000
         height: 559
-        isCached: true
-  - title: "LatAm Fintech Kiwi Acquires $80M to Provide Underbanked Consumers with Credit Access in the US"
-    excerpt: "Kiwi, a fintech dedicated to helping consumers, announced that it has closed a $75 million credit facility and $4.5 million pre-series A funding round."
-    publishedDateTime: 2023-05-23T16:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/05/207533-latam-fintech-kiwi-acquires-80m-to-provide-underbanked-consumers-with-credit-access-in-the-us/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/05/207533-latam-fintech-kiwi-acquires-80m-to-provide-underbanked-consumers-with-credit-access-in-the-us/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207533-latam-fintech-kiwi-acquires-80m-to-provide-underbanked-consumers-with-credit-access-in-the-us/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 47
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/07/Latin-America-South-America-LATAM-Globe-Map-816x1024.jpg"
-        width: 816
-        height: 1024
         isCached: true
   - title: "Fintech Nexus 2023 – Fintech Forever"
     excerpt: "Rising interest rates, stubborn inflation, and the encroachment of AI were topics of discussion at Fintech Nexus. We find ourselves at a crossroads again, and the industry must find its footing to reinvent itself. The keynote speakers this year are akin to ..."

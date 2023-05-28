@@ -98,20 +98,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Adobe integrates Firefly's generative AI with Photoshop"
-    excerpt: "Remove unwanted people and objects from your image in just a few clicks with Adobe's Generative Fill – powered by AI"
-    publishedDateTime: 2023-05-23T15:35:00Z
-    webUrl: "https://www.digitalcameraworld.com/news/adobe-integrates-fireflys-generative-ai-with-photoshop"
-    type: article
-    provider:
-      name: digitalcameraworld
-      domain: digitalcameraworld.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/2BvaKhAzrEMqK2v5GjDwhV-1200-80.gif"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "XfkZEOfcBkHqowGe8m94xgsVZBe71yA/JbMCwtn4G4Bc7ZUdae6yGxTPS2239DUL6Gwu13oHPQlxr31rrUT0gcD79WAk/JmjTbd35OFlHan6LY3GTKJM3W4qVAoTSAP4PxH5ybGcox901dw48Y2Tl1GK9J6Xx7OSSZEfJ9rh+GqDXy6PsvawhTPE4kB58V9NfpBk3kdtIwttmQE5FzGKpjx0Vlu8JGFqNfXodxkjI6drsByOs0Wn0eUjxnluCn+jQPFrbKop+UYvX4ZCtkslt8xfBAytcVfumA5VmxdNR/5BHgor6rBx1n22nO0KLj8PAX13Vqagrvnau2XiEDiX293RBkcBv7Mtwi4J7l201rNd0kOoI3LPZ0VfSViBOlBUXsXq0n2wj88YbJFWjM1haZDpGVuxsfD4G2xj5CPJJiu9UzEIAWiaOKSeiJ0T1yA+39W7aIBEHDiyaeIylcw9RkiWYLigJ+hahO3Xlp/SWyo1A4E8ZUhA/oINIaaDu6NP+khU+xfuFmzrDCCNZEyejg==;CW5E9/rBPiUFw1unohBKvQ=="
 ---

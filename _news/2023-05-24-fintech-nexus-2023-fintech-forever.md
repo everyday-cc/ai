@@ -59,22 +59,6 @@ related:
         width: 1000
         height: 559
         isCached: true
-  - title: "LatAm Fintech Kiwi Acquires $80M to Provide Underbanked Consumers with Credit Access in the US"
-    excerpt: "Kiwi, a fintech dedicated to helping consumers, announced that it has closed a $75 million credit facility and $4.5 million pre-series A funding round."
-    publishedDateTime: 2023-05-23T16:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/05/207533-latam-fintech-kiwi-acquires-80m-to-provide-underbanked-consumers-with-credit-access-in-the-us/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/05/207533-latam-fintech-kiwi-acquires-80m-to-provide-underbanked-consumers-with-credit-access-in-the-us/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207533-latam-fintech-kiwi-acquires-80m-to-provide-underbanked-consumers-with-credit-access-in-the-us/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 47
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/07/Latin-America-South-America-LATAM-Globe-Map-816x1024.jpg"
-        width: 816
-        height: 1024
-        isCached: true
   - title: "LIBF India joins Fintech Festival India as Knowledge Partner to empower and upskill the banking and finance professionals"
     excerpt: "The London Institute of BankingampFinance India enters the Indian market with the aim to collaborate with corporates universities and colleges to empower and ups"
     publishedDateTime: 2023-05-24T11:00:00Z

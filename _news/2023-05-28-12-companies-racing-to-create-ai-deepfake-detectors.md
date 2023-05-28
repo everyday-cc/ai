@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/chatgpt-ai-12-companies-deepfake-video-image-d
 webUrl: "https://gizmodo.com/chatgpt-ai-12-companies-deepfake-video-image-detectors-1850480813"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://images.ctfassets.net/pjshm78m9jt4/28slkGqKdDt94Hl6EtHH56/9a850c40df04c19657b3b94f5ce480bd/Younger.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Torch Sensors: Bay Area company using artificial intelligence to help detect wildfires"
-    excerpt: "Indoor smoke alarms have been around for decades, but imagine having a smoke or fire detector for the outdoors. A Bay Area tech startup says that's their vision."
-    publishedDateTime: 2023-05-23T15:31:00Z
-    webUrl: "https://abc30.com/torch-sensors-artificial-intelligence-wildfire-early-detector-technology/13288960/"
-    ampWebUrl: "https://abc30.com/amp/torch-sensors-artificial-intelligence-wildfire-early-detector-technology/13288960/"
-    cdnAmpWebUrl: "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/torch-sensors-artificial-intelligence-wildfire-early-detector-technology/13288960/"
-    type: article
-    provider:
-      name: ABC30 Action News
-      domain: abc30.com
-    quality: 49
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/13288282_052323-kgo-ai-fire-img.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "0Jz/fpeqVGf/GsZbDF6AFZyp+IFcsgwzeEmPyRR3C3RHMYteKF711xW3/LuIxXrcz08nEo7KmwvQBu4+Rb8C/5VmpEht1/QSnF6JCWujgo3xfpnamCpTvsnJhAOCMLs835ipZgmanuoaLrkn4Eq6VR/31gKD7xToPZi6H8EhADY8nv2tMjAruAEyLjWY3etrD8DJ2nwZnmr1AyMRXJcjJh9nzya0gi1M9PuXTUWPlXTqwUb2KMyxlHqEFn5pf0/k9+5JcuvuLjer7GVbkPO70ftVolYcHeq8SXqysivH+1DkQrhMCj86kkqVZKEKBC3r+cEVU/go3nmP10U2uu1vKTvJK/LExh3m6PnjmAlguz1cJgHRdhBLOVmZiCIHKt41JnR7GuSphUS+kBuoGvaf000bJHjhYPwC/NPhq1MUPTvmfFlpls49yWIfjcLaRrYe0ISUWIau3V2WbD9gwg/UUw5qNoNvMOV+ZgITgbNxKHeAbwpEs4148zk7Q9MrHoAHKs5k95oHZcAg0a6C9EA0lA==;3/Kgkqmfc+LR8Z39raOkFw=="

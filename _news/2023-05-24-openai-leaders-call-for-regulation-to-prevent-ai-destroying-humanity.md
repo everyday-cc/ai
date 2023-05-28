@@ -76,22 +76,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AI could be smarter than \"experts\" in 10 years, OpenAI CEO says"
-    excerpt: "Artificial intelligence could surpass the \"expert skill level\" in most fields within a decade — and trying to stop the emergence of \"superintelligence\" is impossible, wrote OpenAI CEO Sam Altman in a Monday blog post."
-    publishedDateTime: 2023-05-23T15:28:00Z
-    webUrl: "https://www.cbsnews.com/news/ai-smarter-than-experts-in-10-years-openai-ceo/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/ai-smarter-than-experts-in-10-years-openai-ceo/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-smarter-than-experts-in-10-years-openai-ceo/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 57
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/16/6e2a6db3-4995-478d-b77e-333347928bdb/thumbnail/1200x630/0ceeaf04ed7393db8923d6c6807303be/altman-gettyimages-1255305979.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "OpenAI boss downplays fears ChatGPT maker could leave Europe over AI rules"
     excerpt: "OpenAI CEO Sam Altman is downplaying worries that the ChatGPT maker could exit the European Union if it can’t comply with the bloc’s strict new artificial intelligence rules"
     publishedDateTime: 2023-05-26T14:55:00Z
@@ -169,6 +153,20 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/05/16x9/bigstock_Futuristic_Robot_Artificial_In_476546497.6470d51075a88.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "OpenAI raises $175m in funding to invest in AI start-ups"
+    excerpt: "According to a filing made by CEO Sam Altman, the latest OpenAI fund is 75pc higher than the company had initially raised during launch."
+    publishedDateTime: 2023-05-25T09:23:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/openai-startup-fund-raise-ai-sam-altman-sec-filing"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/05/a-14.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "EU takes on artificial intelligence: Will Europe's regulations act scare off OpenAI?"
     excerpt: "But with fears of fake news, video manipulation, robots taking control and our world being driven to an automatic version of Hell, there is much to discuss."

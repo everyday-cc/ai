@@ -2,6 +2,213 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2023-04-09-chatgpt-may-be-coming-for-our-jobs-here-are-the-10-roles-that-ai-is-most-likely-to-replace.md",
+      "title": "ChatGPT may be coming for our jobs. Here are the 10 roles that AI is most likely to replace.",
+      "excerpt": "Insider talked to experts and conducted research to compile a list of jobs that are at highest-risk for replacement by AI. Tech jobs (Coders, computer programmers, software engineers, data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02",
+      "originalUrl": "https://www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63daec1e0a08ae0018a66c69?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02?amp",
+      "publishedDateTime": "2023-04-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-09-university-of-lincoln-robot-seal-used-to-help-vulnerable-people.md",
+      "title": "University of Lincoln 'robot' seal used to help vulnerable people",
+      "excerpt": "Research is currently taking place to see how robots could provide an increasing number of services across the NHS. Up Next. A mind-controlled beer-pouring robot has landed. Video, 00:01:25A ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/av/uk-england-lincolnshire-65178888",
+      "originalUrl": "https://www.bbc.co.uk/news/av/uk-england-lincolnshire-65178888",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/139BD/production/_129271308_p0fdsvsc.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-08T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-09-exrobotics-develops-new-and-improved-version-of-its-inspection-robot.md",
+      "title": "Exrobotics Develops 'New And Improved' Version Of Its Inspection Robot",
+      "excerpt": "ExRobotics develops 'new and improved' version of its inspection robot April 8, 2023 by mark allinson leave a comment  exrobotics",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105965325/Exrobotics-Develops-New-And-Improved-Version-Of-Its-Inspection-Robot",
+      "originalUrl": "https://menafn.com/1105965325/Exrobotics-Develops-New-And-Improved-Version-Of-Its-Inspection-Robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-08T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-09-washington-vows-to-tackle-ai-as-tech-titans-and-critics-descend.md",
+      "title": "Washington vows to tackle AI, as tech titans and critics descend",
+      "excerpt": "Tristan Harris, a tech ethicist well-known among lawmakers for ringing the alarm about the harmful effects of social networks, was now arguing that artificial intelligence represents a potentially ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2023/04/08/washington-artificial-intelligence-regulation/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2023/04/08/washington-artificial-intelligence-regulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KKWVQHG6PNB3RPJZLQ2AWNDG64.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-08T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-09-artificial-intelligence-the-good-the-bad-and-the-ugly.md",
+      "title": "Artificial Intelligence: the Good, the Bad, and the Ugly",
+      "excerpt": "The Guardian, a British newspaper, published a story about a chatbot program that declared its love for a user, told him to leave",
+      "sourceUrl": null,
+      "webUrl": "https://www.omanobserver.om/article/1135374/opinion/oman/artificial-intelligence-the-good-the-bad-and-the-ugly",
+      "originalUrl": "https://www.omanobserver.om/article/1135374/opinion/oman/artificial-intelligence-the-good-the-bad-and-the-ugly",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-08T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "omanobserver",
+        "domain": "omanobserver.om",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-08-deep-learning-model-estimating-breast-density-could-help-with-predicting-cancer-risk.md",
       "title": "Deep learning model estimating breast density could help with predicting cancer risk",
       "excerpt": "Breast density is defined as the proportion of fibro-glandular tissue within the breast and is often used in assessing the risk of developing breast cancer.",
@@ -814,213 +1021,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-pov-why-ethics-education-and-empathy-are-key-to-our-ai-future.md",
-      "title": "POV: Why ethics, education, and empathy are key to our AI future",
-      "excerpt": "As apps like ChatGPT continue to rise in popularity and accessibility, concerns about AI across all sectors of society are also continuing to mount.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fastcompany.com/90877468/pov-why-ethics-education-and-empathy-are-key-to-our-ai-future",
-      "originalUrl": "https://www.fastcompany.com/90877468/pov-why-ethics-education-and-empathy-are-key-to-our-ai-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fast Company",
-        "domain": "fastcompany.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-is-elon-musk-at-odds-with-cathie-wood-over-this-artificial-intelligence-issue.md",
-      "title": "Is Elon Musk At Odds With Cathie Wood Over This Artificial Intelligence Issue?",
-      "excerpt": "Artificial intelligence is incredibly exciting ... any human input because they'll be powered by fully autonomous self-driving software -- which, of course, relies on AI. If Tesla stock does ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/04/07/is-elon-musk-cathie-wood-artificial-intelligence/",
-      "originalUrl": "https://www.fool.com/investing/2023/04/07/is-elon-musk-cathie-wood-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/727201/an-artificial-intelligence-deep-learning-concept-overlaid-on-a-persons-side-profile.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-scott-reeder-will-artificial-intelligence-replace-writers.md",
-      "title": "Scott Reeder: Will artificial intelligence replace writers?",
-      "excerpt": "Well, a machine can only work with the body of information that is available to it. It can scour the internet for answers. But it can’t pick up a phone and drag answers out of a politician reluctant to give them or interview a sobbing crime victim who needs the prompting of a reassuring voice to tell her story.",
-      "sourceUrl": null,
-      "webUrl": "https://qctimes.com/opinion/columnists/scott-reeder-will-artificial-intelligence-replace-writers/article_3ff89dad-dd9c-5436-8ab0-4c05ec6eb5e2.html",
-      "originalUrl": "https://qctimes.com/opinion/columnists/scott-reeder-will-artificial-intelligence-replace-writers/article_3ff89dad-dd9c-5436-8ab0-4c05ec6eb5e2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quad-City Times",
-        "domain": "qctimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-global-artificial-intelligence-ai-in-construction-market-2023-2030-gain-a-competitive-edge-with-top-countries-data.md",
-      "title": "Global Artificial Intelligence (AI) in Construction Market [2023-2030] | Gain a Competitive Edge with Top Countries Data",
-      "excerpt": "Global Artificial Intelligence (AI) in Construction Market [2023-2030] research report is a compilation of information",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-construction-market-2023-2030-gain-a-competitive-edge-with-top-countries-data-2023-04-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-construction-market-2023-2030-gain-a-competitive-edge-with-top-countries-data-2023-04-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-global-legal-tech-artificial-intelligence-market-2023-2030-research-report.md",
-      "title": "Global Legal Tech Artificial Intelligence Market [2023-2030] | Research Report",
-      "excerpt": "Global Legal Tech Artificial Intelligence Market [2023-2030] research report is a compilation of information and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-legal-tech-artificial-intelligence-market-2023-2030-research-report-2023-04-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-legal-tech-artificial-intelligence-market-2023-2030-research-report-2023-04-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T02:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

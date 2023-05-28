@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Torch Sensors: Bay Area company using artificial intelligence to help detect wildfires"
-    excerpt: "Indoor smoke alarms have been around for decades, but imagine having a smoke or fire detector for the outdoors. A Bay Area tech startup says that's their vision."
-    publishedDateTime: 2023-05-23T15:31:00Z
-    webUrl: "https://abc30.com/torch-sensors-artificial-intelligence-wildfire-early-detector-technology/13288960/"
-    ampWebUrl: "https://abc30.com/amp/torch-sensors-artificial-intelligence-wildfire-early-detector-technology/13288960/"
-    cdnAmpWebUrl: "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/torch-sensors-artificial-intelligence-wildfire-early-detector-technology/13288960/"
-    type: article
-    provider:
-      name: ABC30 Action News
-      domain: abc30.com
-    quality: 49
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/13288282_052323-kgo-ai-fire-img.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "FF34JIOdOPBUrX3NJ9C/9Iz/iZVCbNku+8APlNPnRGzTqZBCCeiovCWKe06ebA6arGxoBB7cTIwjQ8Zv/siyowfQUhGWlmnDHGCwutq708MeS1Ll67DZYIE8/yFtD6AhVvOiw8qyEpike0mUU0leFqYIRaL+J148EaoVYhXU3SJjMssgILX38PeVvWQBSEtLtete5X9K5JnTaYUu5wBel2aLBrpadfWDsWsA+kECbSbqGHIsO2BsHbcNh/Omu8rN4t6IJWUZ9VblDNpGQuFJoU9J43ISw6E7mnliVIDrLTRKADVpwZmn5OgWVhL+qidDSgGjh3Bl/csxcZIzxpavaB7vOKZf6AzqgWjOQRvDR0nGQzBJu0amD65YSWtwYyxyhY9t6l01pujDk/6y55dGYLQ4iAkSvNp4PyrLTAKzhvSQdcqysBw0HDqvkymxediOrdZWHfIcB0/4N/cBqH6nDvI74zbXjYPOnGanw35NAslo2oNPFQ+suDDor+EbKP76lLMiYEx3D0+rlzVom3mQbQ==;fLLdqXvrdUgpVhKI1pIRWA=="
 ---

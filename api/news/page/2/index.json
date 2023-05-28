@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-26-scientists-use-ai-to-discover-new-antibiotic-to-treat-deadly-superbug.md",
+      "title": "Scientists use AI to discover new antibiotic to treat deadly superbug",
+      "excerpt": "AI used to discover abaucin, an effective drug against A baumannii, bacteria that can cause dangerous infections",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/may/25/artificial-intelligence-antibiotic-deadly-superbug-hospital",
+      "originalUrl": "https://www.theguardian.com/technology/2023/may/25/artificial-intelligence-antibiotic-deadly-superbug-hospital",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e3742a9a99450fcce971220af793a15e6e951b69/0_413_5500_3300/master/5500.jpg?width=620&quality=85&auto=format&fit=max&s=76edd5356118df70d34bff24513a693f",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/may/25/artificial-intelligence-antibiotic-deadly-superbug-hospital",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/25/artificial-intelligence-antibiotic-deadly-superbug-hospital",
+      "publishedDateTime": "2023-05-25T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-nasdaq-jumps-on-ai-optimism-dow-drops-on-debt-ceiling-angst.md",
+      "title": "Nasdaq jumps on AI optimism, Dow drops on debt ceiling angst",
+      "excerpt": "U.S. stocks were trading mostly higher on Thursday as Nvidia Corp.'s earnings report sent shares of the chip maker soaring and the broader Nasdaq along",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1?mod=joseph-adinolfi",
+      "originalUrl": "https://www.marketwatch.com/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1?mod=joseph-adinolfi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-610305/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1",
+      "publishedDateTime": "2023-05-25T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-how-to-use-wordtune-ai-to-rewrite-texts-on-your-iphone.md",
       "title": "How to use Wordtune AI to rewrite texts on your iPhone",
       "excerpt": "This iOS app can generate simple messages and emails, photo captions, LinkedIn or Twitter posts, cover letters, blog posts, and more.",
@@ -156,7 +259,7 @@
       "originalUrl": "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellence-for-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -357,7 +460,7 @@
       "originalUrl": "https://www.zdnet.com/article/meet-aria-operas-new-built-in-generative-ai-assistant/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -553,7 +656,7 @@
       "originalUrl": "https://us.cnn.com/2023/05/25/tech/nvidia-earnings-ai/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 614,
+      "heat": 604,
       "tags": null,
       "images": [
         {
@@ -1151,109 +1254,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-apexai-operating-system-to-run-volkswagen-robo-ridepooling-vans.md",
-      "title": "Apex.AI Operating System To Run Volkswagen Robo Ridepooling Vans",
-      "excerpt": "The middleware is the vehicle operating system, so all the software that runs as a base software on that ECU (electronic c",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/edgarsten/2023/05/25/apexai-operating-system-to-run-volkswagen-robo-ridepooling-vans/",
-      "originalUrl": "https://www.forbes.com/sites/edgarsten/2023/05/25/apexai-operating-system-to-run-volkswagen-robo-ridepooling-vans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646e5e45ccadd409eda62c39/0x0.jpg?format=jpg&width=1200",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2023/05/25/apexai-operating-system-to-run-volkswagen-robo-ridepooling-vans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2023/05/25/apexai-operating-system-to-run-volkswagen-robo-ridepooling-vans/amp/",
-      "publishedDateTime": "2023-05-25T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-what-are-some-controversies-surrounding-natural-language-processing.md",
-      "title": "What are some controversies surrounding natural language processing?",
-      "excerpt": "translate, extract, and organize information. However, the language processing tools such as Open AI's Chat GPT and other tools run into some challenges, such as misspellings, speech recognition, and the ability of a computer to understand the nuances of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/what-some-controversies-surrounding-natural-language-processing",
-      "originalUrl": "https://www.foxnews.com/tech/what-some-controversies-surrounding-natural-language-processing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/775bdb69-3050-4989-abd5-e41fb41dc74a/4ad6a84e-d689-406a-bc8a-135f5a9db1d6/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/what-some-controversies-surrounding-natural-language-processing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-some-controversies-surrounding-natural-language-processing.amp",
-      "publishedDateTime": "2023-05-24T23:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/metas-open-source-speech-ai-recognizes-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/metas-open-source-speech-ai-recognizes-over-4000-spoken-languages-161508200.html"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -75,17 +75,6 @@ related:
         width: 860
         height: 490
         isCached: true
-  - title: "Facebook’s open-source language model can recognise 4,000 languages and “speak” in 1,100"
-    excerpt: "While the model was trained using religious recordings for non-widely-spoken languages, Meta says this hasn’t introduced any bias."
-    publishedDateTime: 2023-05-23T15:15:00Z
-    webUrl: "https://mybroadband.co.za/news/software/492759-facebooks-open-source-language-model-can-recognise-4000-languages-and-speak-in-1100.html"
-    ampWebUrl: "https://mybroadband.co.za/news/software/492759-facebooks-open-source-language-model-can-recognise-4000-languages-and-speak-in-1100.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/492759-facebooks-open-source-language-model-can-recognise-4000-languages-and-speak-in-1100.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 15
 
 secured: "7/pUGWTDFjhfXRiFzcbevrC9SE0GBXWAz38hXamAYso4pBKoEGq6Rdl+JWbbw8hKQKp2KyzfgxGCwkag8vZEEfC7BoxMHXw5bR/EVd+5wtZYlX1uCbIwmtFBaU4Yboa25LdXSQjFMnE+NCGgnQVUrXHoB/JuhU26T/xp9bgSRjopr43g2x5h6gOFFhwAh90qfdzhKTVh3kCnf8jBj8c556ZkxN1rXWLgfG6AFNfHT6tC8+b6DxfAnWA7ALIJODEFyfX90FKjCLfjpNA3YqKp8YG5DYjM4MGr+GK554w14Kfc84i6npM0CPfoK1sBB+ZkxK9iWyzjotzdyh3YvUREUk2Ta9tCn15FRHWmehO1WESKnTrYIyOh+3O9qQfCwD4+xr49QNmbB8WcO5Om69B8sNGaGGcEF3wGmGzcsnFzeJsEDhsfKcKxp1kjlWqS0rjxKd89C6IjJ+8p3NIc4S97FoYckIY3kCwpGu1JIiXy3QHuynJU/1pR9dfEmLXafT8WjDa6UvVCXrDHLeFd2k2jRw==;XKyHipJ55jtAlltGLoT9Iw=="
 ---

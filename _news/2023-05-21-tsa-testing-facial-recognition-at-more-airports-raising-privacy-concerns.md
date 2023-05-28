@@ -1,26 +1,26 @@
 ---
 category: news
 title: "TSA testing facial recognition at more airports, raising privacy concerns"
-excerpt: "The screen flashes “Photo Complete” and the person walks through — all without having to hand over their identification to the TSA officer sitting behind the screen. It’s all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country."
+excerpt: "A passenger walks up to an airport security checkpoint, slips an ID card into a slot and looks into a camera atop a small screen. The screen flashes"
 publishedDateTime: 2023-05-21T00:30:00Z
-originalUrl: "https://tulsaworld.com/eedition/page-a4/page_ec7d726c-513f-5e72-92a1-549cc4a8604f.html"
-webUrl: "https://tulsaworld.com/eedition/page-a4/page_ec7d726c-513f-5e72-92a1-549cc4a8604f.html"
+originalUrl: "https://madison.com/news/nation-world/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_6498b42f-bf2c-56ea-817e-29f02d5f6c3e.html"
+webUrl: "https://madison.com/news/nation-world/tsa-testing-facial-recognition-at-more-airports-raising-privacy-concerns/article_6498b42f-bf2c-56ea-817e-29f02d5f6c3e.html"
 type: article
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: Madison.com
+  domain: madison.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/eedition/e/c7/ec7d726c-513f-5e72-92a1-549cc4a8604f/64696e8c27c1c.fullsize-img.jpg"
-    width: 792
-    height: 1638
+  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/d/88/d884cebc-3d39-556e-b721-800393e4200d/64642a1473d46.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "E+N/lrUfPpztcR8yY4SG6ck6vEvOa4xGNjyhFXnbF4TyJITA8duI/vI4ptINzyG5hDYaGbO9UrfQ4q1f1ayhHi9n7RiEIp5xUMFWRIVNSfFKojHncVHuQCnt1p8tlrtKnivuP2HXJhoiIaatWbEIsXNXUf8N8ZzwUmhS259LBZQqw21jZq8cX+3K+M96CvOcU4ixus/phyLhYnd3Pe2xLbXPo+TJSawOcFHK+XXR/Cv60IDXmAzjc55QbCPtanOJKwhIg2Z92lOsPlorU4Xeg/2yWE6pWr5aXnXh7hOcv9P0wsSsTw+rImBjEP63gwlV6OuRV12zcr8IFuUJ4q1C9e8+k1d1SuDwzIQXFTaPIDM=;/WJ9p2nVp+AI3Z1UlFdQ7g=="
+secured: "Be20VBH4RKLXmqcAXYCTlOkLidPKJjtLsYwvA9dldu8LWbscj6DSNLb1cvQRDddjot7UpfL55qET+2job9puGlSfPD+EBupuk2K2Nl9UeRpnfPjgj9W9bEeOLcKPJ8IBrsVF0aGgyXIC9FUwqjb69nk/9bOZz0Us6lznEntam2FKStaBFV6ViKNe6enaYMhDJkPaSRiWMW3tu0+rw6PYe4+ALuV7m2Xr1d55mgyCeWPaFH0stADqGqv9lD9AnrBPgr8ZLxQQDNDRRVvOu7t4Bl9iY9lN0wjaVPwsPvympl//jzjgoGyKFG4sJ0CoBZBcb5Ri507RHAEgy/Joqjh6YqhQuVL8aYv1Nc5xiANAmvc=;gb2IvkbMriWaQcYaukv9Mg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/microsoft-confirms-365-copilot-ai-will-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html"
 type: article
 quality: 103
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 19
-  - title: "Informatica Announces Integration of its Intelligent Data Management Cloud with Microsoft Fabric"
-    excerpt: "Informatica is one of the first ISV design partners for Microsoft Fabric and brings Azure customers access to IDMC's comprehensive suite of capabilities as a first-party service. The integration allows Azure customers to have: Seamless integration with Informatica's Data Quality solution to identify and provide high quality,"
-    publishedDateTime: 2023-05-23T15:31:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/23/9819642.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
 
 secured: "S1qBJBOyuMng+z8aDpXwZkEWrvA6+V8Vy6yCsZxJfWTf3Cl2prXOPMcVJ6lF0qZh6m60LnEICcT+sIE96kRrOdxFf0Fa6rNNrIZMpmdM6Y4bj7uAJ60uuKpZCS/OyrWN+a3TA/VO2vXfYfXn8YvWxWgVZSSoGL6Wql9J1UbbcyGh6ScoNtipouFfbXOvBwoCAAxYoPq5YbAzysdl2GV29efELFEPuz08W0PW3ZnhgMjyLy09EqxrYPqLd8Q7tnrpa+x3Ad4qwBxRg8ocgpa7xz06UYk2vRiekJVq54loVA9yWDD9U2QZj/szdvZqK68s/Z939qw7ZA9r0Sd1hi+rfzeHGRUvaD6HS6fov8PxBA90/XeDl08FCsfyp11b4Y4DBNs3TzfHD6YVCuZcEvM4NpocTfiHRCwooUDCXoSrBqVVwO9Sd/k+onY3StT2nN6eRczezDmcBNE0miWetBDmRwPoKY8HpmzmuENJwvsnCcHQU9otm+6aaKtokS1G1jkXKjK9Y0GFbSJHfEdAKik5CQ==;HcPN2xfwHnf4pvqRhE1/oQ=="
 ---

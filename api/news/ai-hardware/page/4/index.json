@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-27-the-ai-revolution-how-companies-like-nvidia-and-tesla-are-leading-the-way.md",
+      "title": "The AI Revolution: How Companies like Nvidia and Tesla Are Leading the Way",
+      "excerpt": "But what about the competition? Alphabet recently claimed its AI chip was more powerful than Nvidia's A100 chips. However, that's not Nvidia's latest and greatest GPU. It would be fairer to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/04/27/the-ai-revolution-how-companies-like-nvidia-and-te/",
+      "originalUrl": "https://www.fool.com/investing/2023/04/27/the-ai-revolution-how-companies-like-nvidia-and-te/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/729397/tesla-model-3-driving-on-the-road.jpg",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-27T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-04-27-broadcom-takes-on-infiniband-with-jericho3-ai-switch-chips.md",
       "title": "Broadcom Takes On InfiniBand With Jericho3-AI Switch Chips",
       "excerpt": "Variety is not only the spice of life, it is also the way to drive innovation and to mitigate risk. Which is why we are seeing switch architectures",
@@ -1386,40 +1439,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-19-artificial-intelligence-ai-chips-market-to-grow-at-a-cagr-of-6151-from-2022-to-2027-growth-from-asics-segment-will-be-significant-technavio.md",
-      "title": "Artificial intelligence (AI) chips market to grow at a CAGR of 61.51% from 2022 to 2027: Growth from ASICs segment will be significant - Technavio",
-      "excerpt": "The artificial intelligence (AI) chips market size is estimated to grow by USD 210,506.47 million during 2022-2027. Moreover, the growth momentum will progress at a CAGR of 61.51% during the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/04/19/9798229.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/04/19/9798229.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

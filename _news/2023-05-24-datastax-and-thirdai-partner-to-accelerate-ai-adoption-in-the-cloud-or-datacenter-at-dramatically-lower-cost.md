@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Teradata deepens Dataiku integration to accelerate enterprise AI projects"
-    excerpt: "Teradata today deepened its integration with Dataiku to help enterprises accelerate their AI projects from pilot to production."
-    publishedDateTime: 2023-05-23T15:37:00Z
-    webUrl: "https://venturebeat.com/ai/teradata-deepens-dataiku-integration-to-accelerate-enterprise-ai-projects/"
-    ampWebUrl: "https://venturebeat.com/ai/teradata-deepens-dataiku-integration-to-accelerate-enterprise-ai-projects/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/teradata-deepens-dataiku-integration-to-accelerate-enterprise-ai-projects/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/02/AdobeStock_552748421.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google's Magic Compose is available now, bringing generative AI to Messages"
     excerpt: "Want to compose a text message but don't know what to say? Google's Magic Compose can let AI handle it, rolling out now to Messages in beta."
     publishedDateTime: 2023-05-25T17:01:00Z

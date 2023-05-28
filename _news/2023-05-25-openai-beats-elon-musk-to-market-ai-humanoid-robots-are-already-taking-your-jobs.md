@@ -71,22 +71,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AI could be smarter than \"experts\" in 10 years, OpenAI CEO says"
-    excerpt: "Artificial intelligence could surpass the \"expert skill level\" in most fields within a decade — and trying to stop the emergence of \"superintelligence\" is impossible, wrote OpenAI CEO Sam Altman in a Monday blog post."
-    publishedDateTime: 2023-05-23T15:28:00Z
-    webUrl: "https://www.cbsnews.com/news/ai-smarter-than-experts-in-10-years-openai-ceo/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/ai-smarter-than-experts-in-10-years-openai-ceo/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-smarter-than-experts-in-10-years-openai-ceo/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 57
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/16/6e2a6db3-4995-478d-b77e-333347928bdb/thumbnail/1200x630/0ceeaf04ed7393db8923d6c6807303be/altman-gettyimages-1255305979.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "OpenAI leaders call for regulation to prevent AI destroying humanity"
     excerpt: "Team behind ChatGPT say equivalent of atomic watchdog is needed to guard against risks of ‘superintelligent’ AIs"
     publishedDateTime: 2023-05-24T04:00:00Z
@@ -167,6 +151,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "OpenAI raises $175m in funding to invest in AI start-ups"
+    excerpt: "According to a filing made by CEO Sam Altman, the latest OpenAI fund is 75pc higher than the company had initially raised during launch."
+    publishedDateTime: 2023-05-25T09:23:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/openai-startup-fund-raise-ai-sam-altman-sec-filing"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/05/a-14.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "EU takes on artificial intelligence: Will Europe's regulations act scare off OpenAI?"
     excerpt: "But with fears of fake news, video manipulation, robots taking control and our world being driven to an automatic version of Hell, there is much to discuss."
     publishedDateTime: 2023-05-25T18:52:00Z
@@ -231,6 +229,6 @@ related:
       domain: betakit.com
     quality: 9
 
-secured: "FZnbfaaR6gvCd8NpSvMmwmg7Zpfr3uTkE9POxZsIXJbkpVEmrizqiBBfe5dNwonQc5UvEn5QyiPNES+pFmLqvSrdytnZAepcIHgctQ+Wdc+sZqDtSEsFPhw/UDizZIDKyd3d5Rmmys0/F3wr4FSkpn8rd6k4C1iGLtZqhrPUz6o4lu56h9Djw0v3F9K14SrAH0BpWwuQZI+QOako0y3oJTYOFBBkMEoM4LoPKQpgsQQrvy2DtkZ8011HvMnjMI3s4cC3b1/bDRP4JmeYMFPGmpQTyGktJBT1ao8i1obEAdp7h8DnlOA/8iI8K/8aHVoptLPaTQo5w+JpUpFZKsx7lQo53U1QqNXWuW1/ATzzReI=;OUtUJqh7x7r+Vucz+KWv7Q=="
+secured: "pBvqAW2D/RJDlca2NHqG7kArM7MfgPM5db1OaMklmMSAg59uRu3mwTovYv1hV9pHQrKj23V9/1yGZc6AqWwBsmoZH5IYlA5tI5IzDwTvu2Wn2ean1+IOjiZA7JBy3xxPwKD/5cqCsjsXNk7ucpmT24h9l5iP5+/vO5M247TeR2BQOEC00pRvhSvsrKDsHj2sdqvqQbG2OM9R+lalpiQ8qVM92SnucYG8g6FsDrS78EuSa/dT3j9XxF+2U/1P3xCp0KRizMQHAvEX5nLk0Wy7e5YgGQqsDu1BInbQxVf1N9p0yfIlS8RzJfSkCdPIE2W3mCq8Q//LScPdT0hL0G4p2gkq3VOlNfUX5vcpj73tk4IIANc5T7VPnPdBhVNeRxf+oOkLswIrsn1lQKPlgLYv0ge1bLuWVLXuN78fAGPTk+z8Z/NVymx8UpyFAx7ScvnLH4H44s81X+jbyLrgSgUJcs7CETrF/+4oIyTowfpCBNg6FGbTRDcSX80PxJ/Hv4d2Xg3CwtgSBIEW3uRYoAO58A==;CSQjARrElH1Ira/ecTObcw=="
 ---
 

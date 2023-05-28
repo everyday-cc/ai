@@ -75,38 +75,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Microsoft just supercharged ChatGPT with Bing's AI-powered search"
-    excerpt: "At Microsoft Build 2023, Microsoft announced that it is bringing the new Bing to ChatGPT as the default search experience."
-    publishedDateTime: 2023-05-23T16:32:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-just-supercharged-chatgpt-with-bings-ai-powered-search/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-just-supercharged-chatgpt-with-bings-ai-powered-search/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-just-supercharged-chatgpt-with-bings-ai-powered-search/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/e9a2c2a795b9505807cc9cffca188b03a86862b3/2023/05/23/5bb843e0-59f0-435b-af26-180412269bac/gettyimages-1249228620-1.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft pledges to watermark AI-generated images and videos"
-    excerpt: "Microsoft says that it will launch new media provenance capabilities for Designer and Bing Image creator to indicate whether images are AI-generated."
-    publishedDateTime: 2023-05-23T16:18:00Z
-    webUrl: "https://techcrunch.com/2023/05/23/microsoft-pledges-to-watermark-ai-generated-images-and-videos/"
-    ampWebUrl: "https://techcrunch.com/2023/05/23/microsoft-pledges-to-watermark-ai-generated-images-and-videos/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/microsoft-pledges-to-watermark-ai-generated-images-and-videos/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1238869000.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "How Microsoft is laying the foundation for custom AI development"
     excerpt: "With Azure OpenAI at the center, Microsoft has introduced a spectrum of new tools for building custom GPT-based LLMs. Here’s how Cosmos DB’s new vector search capabilities fit in."
     publishedDateTime: 2023-05-24T00:47:00Z
@@ -271,15 +239,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Microsoft’s Azure AI Studio lets developers build their own AI ‘copilots’"
-    excerpt: "Microsoft is introducing several new features in Azure AI Studio aimed at enabling companies to build and deploy fine-tuned AI 'copilots.'"
-    publishedDateTime: 2023-05-23T16:00:00Z
-    webUrl: "https://techcrunch.com/2023/05/23/microsoft-debuts-azure-ai-studio-to-let-developers-build-their-own-ai-copilots/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 78
   - title: "Goldman Sachs And Microsoft Are Quietly Using AI To Lay The Groundwork For The Next Bitcoin, Ethereum And Crypto Price Bull Run"
     excerpt: "Wall Street giant Goldman Sachs and Microsoft﻿ are among companies backing a new blockchain designed to streamline financial"
     publishedDateTime: 2023-05-23T23:14:00Z
@@ -358,15 +317,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Microsoft launches new AI tool to moderate text and images"
-    excerpt: "Microsoft has launched a new AI-powered service, Azure AI Content Safety, to detect potentially problematic speech and images online."
-    publishedDateTime: 2023-05-23T16:23:00Z
-    webUrl: "https://techcrunch.com/2023/05/23/microsoft-launches-new-ai-tool-to-moderate-text-and-images/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 66
   - title: "Microsoft Build: Windows Terminal Preview 1.18, Azure Developer CLI, new Azure Cosmos DB features, and more."
     excerpt: "Microsoft Build, kicked off yesterday, and the company has been making a lot of updates to its developer offerings."
     publishedDateTime: 2023-05-24T20:22:00Z
@@ -541,20 +491,6 @@ related:
         width: 1467
         height: 491
         isCached: true
-  - title: "The data platform for the era of AI: introducing Microsoft Fabric"
-    excerpt: "Microsoft has announced the launch of Microsoft Fabric, an end-to-end analytics platform designed to meet the growing data needs of organisations."
-    publishedDateTime: 2023-05-23T15:24:00Z
-    webUrl: "https://analyticsindiamag.com/the-data-platform-for-the-era-of-ai-introducing-microsoft-fabric/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/microsoft-ai-over-human.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "DataRobot Partners with Microsoft to Accelerate Value of AI"
     excerpt: "Integrations with Microsoft's Azure OpenAI Service and Azure Machine Learning brings customers generative AI capabilities, and a more powerful and versatile platform for building, deploying and managi"
     publishedDateTime: 2023-05-23T19:15:00Z
@@ -647,20 +583,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
-  - title: "Google just revealed what its new generative AI ads will look like as it races to keep up with Microsoft and Amazon in the AI gold rush"
-    excerpt: "Google is bringing generative AI to its ad products. But major competitors like Amazon and Microsoft are also racing to release similar ad technology."
-    publishedDateTime: 2023-05-23T15:57:00Z
-    webUrl: "https://www.businessinsider.com/google-is-bringing-generative-ai-to-its-ad-products-2023-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://i.insider.com/628bfdf7b9dbb40018cb53d5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft Build - the past, present and future of ChatGPT on show as Microsoft's 'Mosaic moment' takes center stage"
     excerpt: "That was thecandid confession from the Microsoft CEO about ChatGPT during his keynote address to the firm’s Build developer conference, an event that should leave no-one in any doubt that this is now an AI company."
     publishedDateTime: 2023-05-25T11:09:00Z
@@ -755,20 +677,6 @@ related:
       name: Hindustan Times Tech
       domain: hindustantimes.com
     quality: 41
-  - title: "Microsoft wants Copilot everywhere, including in Windows 11"
-    excerpt: "Build developer conference in Seattle, Microsoft is making a series of announcements. A significant portion of these involve copilots,"
-    publishedDateTime: 2023-05-23T15:04:00Z
-    webUrl: "https://www.techzine.eu/blogs/applications/106385/microsoft-wants-copilot-everywhere-including-in-windows-11/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/W11.jpg"
-        width: 1351
-        height: 615
-        isCached: true
   - title: "Microsoft to bring Copilot, an AI personal assistant, to Windows"
     excerpt: "The Windows Copilot will be available in a taskbar for users. Once open, the Copilot will “stay consistent across your apps, programs and windows.”"
     publishedDateTime: 2023-05-23T18:26:00Z
@@ -870,15 +778,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 26
-  - title: "Microsoft outlines framework for building AI apps and copilots; expands AI plugin ecosystem"
-    excerpt: "A copilot is an application that uses modern AI and large language models to assist you with a complex cognitive task – from ... them to interact with other software and services. Graphic courtesy of Microsoft. “A plugin is about how you, the copilot ..."
-    publishedDateTime: 2023-05-23T15:22:00Z
-    webUrl: "https://news.microsoft.com/source/features/ai/microsoft-outlines-framework-for-building-ai-apps-and-copilots-expands-ai-plugin-ecosystem/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 24
   - title: "NVIDIA makes move in the industrial world by partnering with Microsoft and Dell Technologies for easier Generative AI accessibility"
     excerpt: "One of the biggest driving forces behind Generative AI technology is none other than accelerated computing giant NVIDIA. In its latest announcement, Team Green has shaken hands with Microsoft and Dell Technologies to leverage access to a wider audience."
     publishedDateTime: 2023-05-25T06:32:00Z
