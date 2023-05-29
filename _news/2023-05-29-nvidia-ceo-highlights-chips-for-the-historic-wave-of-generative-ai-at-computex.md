@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/games/nvidia-ceo-highlights-chips-for-the-
 webUrl: "https://venturebeat.com/games/nvidia-ceo-highlights-chips-for-the-historic-wave-of-generative-ai-at-computex/"
 type: article
 quality: 80
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -66,7 +66,16 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "NVIDIA Unveils Powerful NVIDIA DGX GH200 AI Supercomputer for Next-Gen AI Applications"
+    excerpt: "NVIDIA has unveiled a groundbreaking AI supercomputer, the NVIDIA DGX GH200. Powered by the innovative NVIDIA GH200 Grace Hopper Superchips and the NVIDIA NVLink Switch"
+    publishedDateTime: 2023-05-29T07:21:00Z
+    webUrl: "https://www.guru3d.com/news-story/nvidia-unveils-powerful-nvidia-dgx-gh200-ai-supercomputer-for-next-gen-ai-applications.html"
+    type: article
+    provider:
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 11
 
-secured: "lEGIOz3MdCKO1DFo+/DYCBAxVuJvqEt1FU8Gbg0FKE9bUUbvS8JA7lZ3cbYYdUMazSjXVszZDS5mqibkshDFa/LDtvm0TVNsvszlZnb9gWD65WXrzjnuKxVDqNbquFiiFEUsqAjv8NkuzycM6RekCZ1N1vrRUxFBkiOSaeFEuBkoPuMGm6lAcKlT/0gQttzdbwdWOTRN2LGgIrduOLiHb9GbqALjb7SkJojcqw6i/6kxrw/L+WMCFBPoEZvJHgu447W+Z46Yb1nnK7oE24Z4KDZ/EMt7oDiE551nixn/BLwKkNOsiiuzxbc/S/BlZPeo57QE5Kdzh6eqjxJwcasmUVdfSV8EYbO4ftm7rroIw04=;HJPuXxlIEE0GpmxTjwMBUw=="
+secured: "ThZPlApl42fs2zB3GcVq7sTzSNllvVNWxO1ib5koGQ5lGI5XbMvZ71+2ojeIN1FJ144pVNkTCIB4qBuwhopdlzDyij1bsY6KRbHJ5HEak+x9KztWR/7OpHw7nSIbdjHG+l5v3r7kd22s5jRuF5l9yVrHP1pIsMz1rCWBhAG13lPC01jDnGKl/nF/suN9lN3YKIFG1hApnBs9di3yDAHqL02k5tI/zL1+eSHF/b8XNBzn8mIgWAydK7SqMIEnHCwMY2j1VQ+ji0sTzU+DyhLcqjRK9YK08eMhlwtzVJDwC5vQWZwzDJuDmBGOH8QLYjfRUwKsa+t4wU+YSsPMbi88er6A1uAiTtcBU+GgDFqRzFqKHr000ub+IjBTVF/melCa7Q9hjJ7bHkhUwkFX+/BZQa7Y40RENshRxixhpP791nMuS2HVGb+qjQwO9WExVdDsYm4oBaVSUJlqaFpINa3CW4W/XZQXumz78DB2O7QbaGog6JDgHMAvJM+zrH95U4Rvt8nFhbYkGEu/KmOIPR/JhQ==;/LerDN5ZySwmkpWfHc/q1g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/05/26/how-should-ceos-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/05/26/how-should-ceos-embrace-ai-or-will-ai-assume-ceo-roles/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 506
         height: 601
         isCached: true
-  - title: "Palo Alto Networks Inc. CEO says artificial intelligence will double his business with fewer hires"
-    excerpt: "AI has \"huge applicability,\" said Palo Alto Networks Inc. CEO Nikesh Arora, \"both in how we do customer support, and how we build products that become easier for customers to use.\""
-    publishedDateTime: 2023-05-24T14:35:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/05/24/palo-alto-networks-artificial-intelligence.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 3
 
 secured: "ZSkisi6DEJ00Ejdh1Ldr8OkTnEzgwMz83YeUekBZVQGfKRVWtReEVoRgWB7NtdxcrVgfaa/mrj/HeCCzfcHvf7ulLdskPtSTDvEDsq2PeP2kZ5y0xdJn1hSWljWfsazEJaR4yozHkEW2qWWU5zUAEQHYJMsZ/2JfB7S8AjSteDWMS8D9QUavUHD60Yz+BMIFmEkyx9mIVITaRc2BMpeKD2NdZj0MbyrLS+PburaiDfWljk8xrq+QjZPWosfMNXYJBUXsIp7tQg3qLwhD0WjVLkfHATnagp8B72sXKlsDSzQleW6+z3k/kGbBFFFk4fNRrJjx8e4SHgKDqTxnFbnrR6BeIusrXUQM0FQCGNtkyRgSPPLa5hvEWm6OhBwh16mL3DsUpJOHAEvClA6zkbYW4juwqELqyxq/M2l0xCSaxCNhbRFnoNVt3C9RoXyDl8DPz4uRp0pTAkClIpoV1QbkmJ/i9usHuu+G2/rhS9yWLaer4zOZN/p1KMGf6dmW4nQfmECrd8eRXGOeSf7B01vnaA==;9U5bBcwjXmNlmwPkZWBJPw=="
 ---

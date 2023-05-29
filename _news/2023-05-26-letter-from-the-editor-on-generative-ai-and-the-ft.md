@@ -124,6 +124,17 @@ related:
         width: 750
         height: 375
         isCached: true
+  - title: "How generative AI is impacting the creative industry"
+    excerpt: "The root of this is generative AI, a type of artificial intelligence (AI) capable of creating original content. Since the release of ChatGPT in November 2022 by OpenAI, companies like Midjourney, Runway,"
+    publishedDateTime: 2023-05-29T05:59:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/how-generative-ai-impacting-creative-industry"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/digital-economy/how-generative-ai-impacting-creative-industry"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/digital-economy/how-generative-ai-impacting-creative-industry"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 39
   - title: "Google Now Testing Generative AI for Search"
     excerpt: "Google today announced that it is opening up access to Search Labs, allowing testers to try out its new Search Generative Experience. The"
     publishedDateTime: 2023-05-25T18:58:00Z
@@ -152,6 +163,20 @@ related:
         width: 640
         height: 359
         isCached: true
+  - title: "Arm unveils TCS23, driving immersive experiences and new-generation AI applications"
+    excerpt: "Arm held a new product launch event at COMPUTEX 2023, unveiling the \"2023 Total Compute Solution\" (TCS23). Chris Bergey, Senior Vice President and General Manager of Arm's Client Line of Business, stated that TCS23 includes the new Arm Immortalis GPU based on the Arm fifth-generation GPU architecture,"
+    publishedDateTime: 2023-05-29T06:43:00Z
+    webUrl: "https://www.digitimes.com/news/a20230529PD207/arm-computex-2023-ic-design-distribution.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 33
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230529pd207_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "As generative AI accelerates coding for developers, the long-term impact is just beginning"
     excerpt: "They are happier because they can pursue the creative work they signed up for.” One of the areas where ChatGPT is beginning to have a transformational effect is in the gaming industry. Developers of video games have been major AI users for some time now,"
     publishedDateTime: 2023-05-26T15:50:00Z
@@ -166,15 +191,6 @@ related:
         width: 882
         height: 498
         isCached: true
-  - title: "Tech Giants Trigger Generative AI Investment Boom"
-    excerpt: "From Microsoft to Amazon, Google to Meta, everyone’s in on the artificial intelligence hype, and the money’s following suit."
-    publishedDateTime: 2023-05-24T13:59:00Z
-    webUrl: "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n="
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 19
 
 secured: "SyFK5EdzSR+ygUkTMkAFcJRatPNfOuRukiZ6LpDLQaIndokM+yPV51jMkJA9TejO7H/pXstq33474h4ZPvnklYHOnU6tGICsahXDA8+Ft/cIPqyOmg5rmKd+PN805CshgCTh07YaemNvMgDp4BuxWR4RqyTHHpV4J568h84kP9qArOv3ZEUvlvTc5IP5imbFJgkcENSbICWFTkt5wLiiPUySaE+bSHaicQHcLg7X9bb69Pj8OIyIk4PdEhTx32KD3s4AA8kWqOuUE+avQb/ReITmUPuJwPW2/1fEHxiiSjmSRTbnKigNGczsyLA4CntFdCsV132UrUWSg1xsLggss/sH3PiM56MxsbvVVPIXx+I0IsM7AOwM4xeFDiJ3l4Hr8UHNQVRyiOUameSLMtWnmEHTkyrkLS8BBDh4h5s9bcjfXsotpJKrlpx0sA9olqABjcNJhsFic1I71u6YUFWN/5hDNr01puOAeQaLmtgqF9COJzwOCm/snuNTtCw7MG24hqbxckYzUxYnMKOcpqQfHw==;iyBd9Fk1l5d3nOAQeUqCLA=="
 ---

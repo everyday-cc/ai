@@ -61,6 +61,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NVIDIA Unveils Powerful NVIDIA DGX GH200 AI Supercomputer for Next-Gen AI Applications"
+    excerpt: "NVIDIA has unveiled a groundbreaking AI supercomputer, the NVIDIA DGX GH200. Powered by the innovative NVIDIA GH200 Grace Hopper Superchips and the NVIDIA NVLink Switch"
+    publishedDateTime: 2023-05-29T07:21:00Z
+    webUrl: "https://www.guru3d.com/news-story/nvidia-unveils-powerful-nvidia-dgx-gh200-ai-supercomputer-for-next-gen-ai-applications.html"
+    type: article
+    provider:
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 11
 
 secured: "brBOStBwZBwVPWP59FuroQpIjKeM/cioMdIp1CoXzCXX4nidtmRx8335fQeyalqqeeibRL4usdkIkyZn4fGm/aQPuJ2hYzcQqElGEEW6Q8q8J4cxMTxfvykdLNFG3AKLr4MPXR23u6zusGGr4/z80tRvgmUtTs4KB1pH5bjFCoOqSzQvlSMUG0J8vXM5vachayxuY3668Rejcwmt+TnrM2w1c47IN/wBKuYEyNrX67+nHVDmklkeDhts1SKhwNZoMVozalioCpskZpryQFdPp4euOXq8tTA0/k7r+124BmByBcqotiPaSM5BqpDu25NYT6BbmzIyWLQdesOXmwa6oKfBnK4GD4AVg7K69VM8dBQ=;1nfxzr1BM/hVavmZcIOmSw=="
 ---

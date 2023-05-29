@@ -55,15 +55,6 @@ related:
         width: 506
         height: 601
         isCached: true
-  - title: "Palo Alto Networks Inc. CEO says artificial intelligence will double his business with fewer hires"
-    excerpt: "AI has \"huge applicability,\" said Palo Alto Networks Inc. CEO Nikesh Arora, \"both in how we do customer support, and how we build products that become easier for customers to use.\""
-    publishedDateTime: 2023-05-24T14:35:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/05/24/palo-alto-networks-artificial-intelligence.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 3
 
 secured: "57dl0IkcFlEChAsYNnt1j87sYLNitusqls7LpMK2QcANgGOl/8nxfz/wUouta2B3A0He8Jpy6+pukJjf8QlW3mgQKjdU4pYrAHUGweT9NOUiaHlPfiWF+z0gb3BOS98hXnJ/UBprbtqwKF9YlHIJuGedQdJwWPtWh6vEE60RJmXAxYvhxa44D18ZjJBifj7AivkVQ2MGSYXXir6ajd9JGwF9CjGamNdQnrkNg0sxHVETOiPMmvSm8rXBIqOixyXhHjt05T3v2pnTUrbCDfZr+2XjjxO8DQ1DbmPV8WYAGIE0PIoHeriprE+MTiJfQgkVSpnJsjq/nbAsjLXKDOAeyZRLJ3D/I7LEz3EXjxUNysM=;XZvOfPf2tZNZ4PAklY2o6g=="
 ---

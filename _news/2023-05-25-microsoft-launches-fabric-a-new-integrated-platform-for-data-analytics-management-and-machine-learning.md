@@ -40,20 +40,6 @@ related:
         width: 821
         height: 389
         isCached: true
-  - title: "Speech and Voice Analytics Market to Hit US$ 16.2 Billion by 2032 | Future Market Insights,Inc."
-    excerpt: "According to Future Market Insights’ estimate of the Speech and Voice Analytics Market, 2021 saw a global sales value of US$ 1.8 billion. In 2022, the market is anticipated to expand by 22.3%. Solutions,"
-    publishedDateTime: 2023-05-24T13:59:00Z
-    webUrl: "https://www.fmiblog.com/2023/05/24/speech-and-voice-analytics-market-to-hit-us-16-2-billion-by-2032-future-market-insightsinc/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 12
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/05/FMI-New-2-420x300.png"
-        width: 420
-        height: 300
-        isCached: true
 
 secured: "Np3H7jVMRReNeVXGZjsdD2US1V64mKauqZbCr5dDDVo9vzyi0Ay4ceOzHB26LvN8Q63w3fgKI2Cxwno8YqnvEofCJ5eREYru7FypMKGmGXe6Ol7qjGww4xk77ZGykmQj2M3r8JNL92Rv2HiLplXm3xEfzg3TI8KZ1BDBL52IohSNkI641V/4FyD4fFd+RYYOlOBM4Pn1M/FHl97VqtrDKlUSqf1U5EPvOg4aBDZpLkwMmnzytHbZm0ZLrWEqMF/1OcwW86A21hvyFPU9OQLOahFrtbFGPhJqR4DPkBPMuauw+ONSzuPIPZFYgQngMc2ZBDRpUcrS6N4WHo5cdrYA8sn6aQZDg2yTHpx+Iksqv+bx6IBSJ6rTOy8KljaRyfiNh7rE4IySUiRR9sDtyzoY7+Z/xoRMFv0g7cnqIBKh8EnsCB8ysC5XyQQ1ZL7KSOlVW00fnrfhkrs+3/HSsPoDWDHLxjF//esYYrVYnOpamaie3O6zcvAZbs6RDjdzJbsKeJ/y0LU6T2WgceO1S9UbFQ==;O90YGKSGpVWahTPAtAjvKw=="
 ---

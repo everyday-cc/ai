@@ -90,6 +90,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 44
+  - title: "MediaTek, NVIDIA to Transform Automobiles with AI & Accelerated Computing"
+    excerpt: "AI and accelerated computing are fueling the transformation of the entire auto industry. The combination of MediaTek’s industry-leading system-on-chip plus NVIDIA’s GPU and AI software technologies will enable new user experiences, enhanced safety and new connected services for all vehicle segments, from luxury to entry-level."
+    publishedDateTime: 2023-05-29T07:18:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/32228-mediatek-nvidia-to-transform-automobiles-with-ai-accelerated-computing"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 38
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/062e3a14eaea806bc013c9a4a1b09057.jpg?t=20230529_071304"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Five Of The Top Artificial Intelligence Stocks For A Potential $1.8 Trillion Boom"
     excerpt: "Five of the Top Artificial Intelligence Stocks for a Potential $1.8 Trillion Boom The artificial intelligence story fueled a massive rally in tec"
     publishedDateTime: 2023-05-24T20:53:00Z
@@ -104,15 +118,6 @@ related:
         width: 448
         height: 250
         isCached: true
-  - title: "Five of the Top Artificial Intelligence Stocks for a Potential $1.8 Trillion Boom"
-    excerpt: "Detailed price information for Accenture Plc (ACN-N) from The Globe and Mail including charting and trades."
-    publishedDateTime: 2023-05-24T14:12:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/ACN-N/pressreleases/17154514/five-of-the-top-artificial-intelligence-stocks-for-a-potential-18-trillion-boom/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 14
 
 secured: "zxf/nJFrjdEW50E0lF4PZMKUab27Gqfkx3Osa4uEpjwcFBD63NyLqG8cRfRwYDEfUJGJA0lsT75+rZd/hT98qERzm/7av5Yy855JyZsIbRjX47tYjGRVSy/NqQ7Ejecy26HhuEALitbtanEEcB7kHuDjCG/ScnQGQslUafhENGOLPcnXknKQUzEua4z0yufTaWKgx0lVqGHv84FS6Iwu7swZBHUnPuzmf5255wyAl7OVb+XEmDFxpOjWE7Bb/MC6MOphpv4s10/RY1IG2jAu+XjWnmQOyf/Q6rbgWdWSnRDV7WiRHivZqBdx81CPyd7OvoD5tbMcMzlFQXb/5zkbxd2AXNLSPSWbFoFHEa9kL0Nx4hiR/GSq7p/l9rjXjd1nAUvj5hzlPyDMfcJneAraxYdw6t9v+O8f8cfBhr60zTARuTmw8ef2fdkNjHODFquFxl3SofPUALyrqehDV7xO8TXPnpq5aHCEtfaSs6LdDM7EfO/9IjhnBSvJKAwFJ7AsProcT//8GYFExulU4SUtZw==;w71+Y/9CYnbr7tcz8nq5Lw=="
 ---

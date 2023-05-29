@@ -44,6 +44,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Orca AI: Speeding up the evolution of shipping’s digitalisation journey"
+    excerpt: "Artificial Intelligence (AI) is what is powering the new solutions coming to market and what fuels the coming generation of navigation tools that help tackle the challenges the industry is facing – but the real challenge with AI is in “changing mindsets and behaviours”."
+    publishedDateTime: 2023-05-29T06:21:00Z
+    webUrl: "https://splash247.com/orca-ai-speeding-up-the-evolution-of-shippings-digitalisation-journey/"
+    type: article
+    provider:
+      name: Splash 247
+      domain: splash247.com
+    quality: 37
+    images:
+      - url: "https://splash247.com/wp-content/uploads/2023/05/Orca-AI-Yarden-Gross.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "hMqB0ti31n2cUSAj8WQSlppCw37uOaL3G8i5hUAw6vV9QXX3FtFoFzidAkOViFGa7zpdwww9gGaSO/081OD9SEX+Wb9YQ95eZIm/RiJXd5N5IXkY7OsjhQwORXbL+wg+ua77Fa0J2AMFCFSRq366O35cAAYl6quq3kCF9h1YG2LUFXgF8Ag9/fmoUuQUWb5bIx5ddn3awEPjrjZekbkfnsDS7TwoAkNoWUogV00NcgvyCQDU0mz9zovtNRT+pz52ZWD4n8otGn1rCe0c+NcPreoeiY1RJkCc4LoWYqammAPnKehS865kYYhZlJ2+xXyiheydxko91lngaRcARAnoyplIM7HJVTGZOLU8ojtvhvOp/KeMlLeFgywqSJe2x12XhtLB+0j0wW+33Q53JrjYMpTy4AjsDOnvDELjLqKvkuqNE9Z0V/b0KFWv5P+1tPCgcHrEh5WQgdzcbZd6bzNV34rtvaxiohDMKcSB9iamzZ33Cces1JCH5/lZxJPZEuXt4MAEUf4BwIzO0jYLGOSfRA==;LXNEj6wytPoa0jAtIJTw3w=="
 ---

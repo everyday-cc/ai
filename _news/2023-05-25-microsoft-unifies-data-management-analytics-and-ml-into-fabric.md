@@ -7,8 +7,8 @@ originalUrl: "https://www.datanami.com/2023/05/24/microsoft-unifies-data-managem
 webUrl: "https://www.datanami.com/2023/05/24/microsoft-unifies-data-management-analytics-and-ml-into-fabric/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: datanami.com
@@ -39,20 +39,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2021/08/Microsoft_reuters-770x433.jpg"
         width: 770
         height: 433
-        isCached: true
-  - title: "Speech and Voice Analytics Market to Hit US$ 16.2 Billion by 2032 | Future Market Insights,Inc."
-    excerpt: "According to Future Market Insights’ estimate of the Speech and Voice Analytics Market, 2021 saw a global sales value of US$ 1.8 billion. In 2022, the market is anticipated to expand by 22.3%. Solutions,"
-    publishedDateTime: 2023-05-24T13:59:00Z
-    webUrl: "https://www.fmiblog.com/2023/05/24/speech-and-voice-analytics-market-to-hit-us-16-2-billion-by-2032-future-market-insightsinc/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 12
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/05/FMI-New-2-420x300.png"
-        width: 420
-        height: 300
         isCached: true
 
 secured: "1JasGs8gNKp8XKyzaypTHP+vwQ7iEGkeTnvcucxKd+jV3VOmh+2J35yffGSFA/vIAfkyZqQRP5F+LwraEEPxvES54jPg3jTHKbByRAR992ZCEscD6VXRhpYUzvQeiHObDna8ws3C+CdNKGEvfwhlWSCEfHewqGby+P4vuHcekv+MX9unt/OyakyepKcTPJTh08myED2DQEbG2wuLO9qZQqfHDbb054nZw90BDmQxK/xvpTNOgvil//OUBumHbnyAtnCkoPDlbU9PM4bhPf2hdxpToVep/1oKXrzFzn7YIYlLxXKV69r8k9QcAC0Wp2Tbxb+XFYDQfcoq4TZj41mM3IDxTI28XhBrHWQXgOHY2n2XgT0Drq3lDp/P3B9uBA9iEJb8hUW3Bj0P48QV6Llb5VWURbQ9f8UIJ9/sfUvp/yIj8hFEWcsQ1CHMcl9kXQPOSs61baIKyEu8RR9zYJccKznOw+m26n4bFb9atafnLK0zaIlitn7Lv9Ck4Z3kr+VzTBeqIyr9DitgceuaryPAAg==;MjMzf1WZ5mlcGtkSb3uzig=="

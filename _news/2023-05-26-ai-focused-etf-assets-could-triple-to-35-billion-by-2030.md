@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-05-25/assets-in-ai-et
 webUrl: "https://www.bloomberg.com/news/articles/2023-05-25/assets-in-ai-etfs-to-triple-by-2030-with-china-in-the-lead"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Bloomberg L.P.
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "New ETF uses artificial intelligence to time the market"
-    excerpt: "Can AI accurately time the stock market? The developers behind a new ETF from Qraft Technologies believe it can."
-    publishedDateTime: 2023-05-24T13:37:00Z
-    webUrl: "https://www.investmentnews.com/new-etf-uses-artificial-intelligence-to-time-the-market-237946"
-    type: article
-    provider:
-      name: InvestmentNews
-      domain: investmentnews.com
-    quality: 39
-    images:
-      - url: "https://s32566.pcdn.co/wp-content/uploads/2023/01/AI-tech.jpg.optimal.jpg"
-        width: 851
-        height: 567
-        isCached: true
 
 secured: "IZZPvNR0pSNnp9mSy3La+QJAfj4fC0Af2GjKcHbF8yIXyDuk8Mb6OduD9vKfXxq6NzgnBeoO5A3JAfNb4M+5GTk6HfLOURm6kbTzfO+6EkS1ikJgASH6h5QWoP63UPdYEf1vgTHMqC4kyXb9jMP0e6+3+Xy4MWOOvta4YZ54diFTzBhrC/u33iX2juFgWBAXxnYv0D03c09w87N9HkKRH6YKXln8dNN7Kh9HCOBwTsNt871RncBC7BZI4/JSTzQR77NxYjXlelEns4Vak9f4yucMajlPyvu8Oo+d+2cosabPNQw8NkghQaLWEaEQOV5kqbbn/rpc92TQLdmlFidatVAF/zXd1Pdz1P6tmqw8EpRnKjPI5PoJv7MKZ5I8+zQCNZf2G8H0EsZWoN8EAvDqEd9FZC5V50TOn2RR4TY0EZ2jelSudGUWba3I/6tcWX2V6e/6b0PCdwxYzOAaR5zk0vpaNUW2ZL3vIUWbv1ZXB/vNa7eJPwOAY7dSyU75XkO1aiEK+RZL3SQO6uQz8YW36w==;tgL+k4CM/QMrOanMGlHzvw=="
 ---

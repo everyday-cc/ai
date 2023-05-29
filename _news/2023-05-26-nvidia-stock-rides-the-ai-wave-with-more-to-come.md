@@ -71,6 +71,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Nvidia unveils new kind of Ethernet for AI, Grace Hopper 'Superchip' in full production"
+    excerpt: "The Spectrum-X ethernet switch offers \"lossless\" transmission via a new kind of congestion control, said Nvidia."
+    publishedDateTime: 2023-05-29T05:23:00Z
+    webUrl: "https://www.zdnet.com/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 96
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/e496c12a46e4533063ced7ab4bfdf6242b00c860/2023/05/29/05144ef8-05b7-455e-9cd7-72ff48b534c4/nvidia-ceo-jensen-huang-holds-up-spectrum-4-ethernet-switch.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "NVIDIA's next DGX supercomputer is all about generative AI"
     excerpt: "NVIDIA CEO Jensen Hiang made a string of announcements during his Computex keynote, including details about the company’s next DGX supercomputer. Given where the industry is clearly heading, it shouldn’t come as a surprise that the DGX GH200 is largely about helping companies develop generative AI models."
     publishedDateTime: 2023-05-29T04:33:00Z
@@ -158,22 +174,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107098120-1659534459911-gettyimages-1239915582-RAFAPRESS_10042022-0121.jpeg?v=1685013700"
         width: 5000
         height: 3333
-        isCached: true
-  - title: "Nvidia unveils new kind of Ethernet for AI, Grace Hopper 'Superchip' in full production"
-    excerpt: "The Spectrum-X ethernet switch offers \"lossless\" transmission via a new kind of congestion control, said Nvidia."
-    publishedDateTime: 2023-05-29T05:23:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 79
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/e496c12a46e4533063ced7ab4bfdf6242b00c860/2023/05/29/05144ef8-05b7-455e-9cd7-72ff48b534c4/nvidia-ceo-jensen-huang-holds-up-spectrum-4-ethernet-switch.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Nvidia stock soars toward all-time high as record revenue forecast backed by ‘killer app’ of AI"
     excerpt: "Nvidia Corp. executives predicted record revenue well beyond anything the company has experienced Wednesday, pushing shares toward record territory."
@@ -324,6 +324,20 @@ related:
     quality: 67
     images:
       - url: "https://images.wsj.net/im-788824/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "WPP, Nvidia Team Up to Build AI-Enabled Content Engine"
+    excerpt: "WPP is teaming up with Nvidia to develop a content engine that uses generative AI for digital advertising."
+    publishedDateTime: 2023-05-29T05:42:00Z
+    webUrl: "https://www.wsj.com/articles/wpp-nvidia-team-up-to-build-ai-enabled-content-engine-f1d0efaa"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-790364/social"
         width: 1280
         height: 640
         isCached: true
@@ -668,6 +682,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The ASX stocks that could ride the AI boom like Nvidia"
+    excerpt: "AI has lit a fire underneath tech stocks, but investors are split over whether the innovation will transform business models or end up a fad like blockchain or 3D printing."
+    publishedDateTime: 2023-05-29T06:12:00Z
+    webUrl: "https://www.afr.com/technology/the-asx-stocks-that-could-ride-the-ai-boom-like-nvidia-20230528-p5dbwd"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_377%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/46be6cceef56a10fe8b9ee36c006c5f59be895d3"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "How Nvidia created the chip powering the generative AI boom"
     excerpt: "“This is important as it lets us all train bigger models faster as this moves from a research to an engineering problem.” While the timing of the H100’s launch was ideal, Nvidia’s breakthrough in AI can be traced back almost two decades to an ..."
     publishedDateTime: 2023-05-26T16:52:00Z
@@ -763,6 +791,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "NVIDIA Announces DGX GH200 AI Supercomputer"
+    excerpt: "NVIDIA today announced a new class of large-memory AI supercomputer — an NVIDIA DGX ™ supercomputer powered by NVIDIA ® GH200 Grace Hopper Superchips and the NVIDIA NVLink ® Switch System — created to enable the development of giant,"
+    publishedDateTime: 2023-05-29T05:52:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/29/9822132.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
   - title: "Nvidia benefits hugely from hype around AI"
     excerpt: "Nvidia's first-quarter figures will please its shareholders. The GPU giant pulled in $7.2 billion, significantly more than the expected $6.5 billion. The"
     publishedDateTime: 2023-05-25T12:23:00Z
@@ -780,15 +817,6 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 19
-  - title: "NVIDIA Announces DGX GH200 AI Supercomputer"
-    excerpt: "NVIDIA today announced a new class of large-memory AI supercomputer — an NVIDIA DGX ™ supercomputer powered by NVIDIA ® GH200 Grace Hopper Superchips and the NVIDIA NVLink ® Switch System — created to enable the development of giant,"
-    publishedDateTime: 2023-05-29T05:52:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/29/9822132.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
     quality: 19
 
 secured: "NoZXNZdgBx2zJ/u9tKj3Qs436Zc0xJ3Ni69qWxIDgVzKFLE5MZjrc9D1eEu5uZAOmje6BJEMc4+ZcRGz+oBxJZ4RBUA3+WL4cJJ1hBL4LI6F9+KfNxLwfCA8ohmJbMslNPgMQyK7r5Nte58G+aVP20CXO6FWj9QdRE00il4SiOcox0NULsjkoQ7rgZ1BGaYAIYgtUD5wa9EdoysTVMw3GchLr/sRDE7g8IM5eGNLZvMzTKqBHMqBP57pKuD0lwht8a6S3TW7Xzm3NcvzFqM9LJsZ2y1JULmGxU1PfTbPq9PxlXHWhMLiFDsco6mFjHFNXjj3wvtJuulJ3OsbEs/Yn+4I2nmBFk60UUt8XZU7Zn4=;KEBOYApsU7iOb1jd1qfUdA=="

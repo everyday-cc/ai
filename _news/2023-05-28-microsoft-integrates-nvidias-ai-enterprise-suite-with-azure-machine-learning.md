@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Microsoft confirms 365 Copilot AI will be 'natively integrated' into Edge"
-    excerpt: "The same AI assistant that Microsoft is adding to Office will soon be natively integrated into the company's Edge browser as well.."
-    publishedDateTime: 2023-05-24T15:03:00Z
-    webUrl: "https://www.engadget.com/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html"
-    ampWebUrl: "https://www.engadget.com/amp/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-confirms-365-copilot-ai-will-be-natively-integrated-into-edge-150007852.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 103
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/aYBYCJ1XAE0xA1D7qsxXAw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/093f0380-f8bf-11ed-9f92-f24cb882d1a4.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Elon Musk Wants to Challenge Google and Microsoft in AI"
     excerpt: "Elon Musk says it could involve different parts of his corporate empire, including Twitter, which he predicted could halt its losses as soon as next month."
     publishedDateTime: 2023-05-24T23:21:00Z

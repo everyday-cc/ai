@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/nvidia-unveils-new-kind-of-ethernet-for-a
 ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/"
 type: article
-quality: 79
+quality: 96
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/e496c12a46e4533063ced7ab4bfdf6242b00c860/2023/05/29/05144ef8-05b7-455e-9cd7-72ff48b534c4/nvidia-ceo-jensen-huang-holds-up-spectrum-4-ethernet-switch.png?auto=webp&fit=crop&height=675&width=1200"
@@ -313,6 +314,20 @@ related:
     quality: 67
     images:
       - url: "https://images.wsj.net/im-788824/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "WPP, Nvidia Team Up to Build AI-Enabled Content Engine"
+    excerpt: "WPP is teaming up with Nvidia to develop a content engine that uses generative AI for digital advertising."
+    publishedDateTime: 2023-05-29T05:42:00Z
+    webUrl: "https://www.wsj.com/articles/wpp-nvidia-team-up-to-build-ai-enabled-content-engine-f1d0efaa"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-790364/social"
         width: 1280
         height: 640
         isCached: true
@@ -671,6 +686,20 @@ related:
         width: 1440
         height: 901
         isCached: true
+  - title: "The ASX stocks that could ride the AI boom like Nvidia"
+    excerpt: "AI has lit a fire underneath tech stocks, but investors are split over whether the innovation will transform business models or end up a fad like blockchain or 3D printing."
+    publishedDateTime: 2023-05-29T06:12:00Z
+    webUrl: "https://www.afr.com/technology/the-asx-stocks-that-could-ride-the-ai-boom-like-nvidia-20230528-p5dbwd"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_377%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/46be6cceef56a10fe8b9ee36c006c5f59be895d3"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "How Nvidia created the chip powering the generative AI boom"
     excerpt: "“This is important as it lets us all train bigger models faster as this moves from a research to an engineering problem.” While the timing of the H100’s launch was ideal, Nvidia’s breakthrough in AI can be traced back almost two decades to an ..."
     publishedDateTime: 2023-05-26T16:52:00Z
@@ -766,6 +795,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "NVIDIA Announces DGX GH200 AI Supercomputer"
+    excerpt: "NVIDIA today announced a new class of large-memory AI supercomputer — an NVIDIA DGX ™ supercomputer powered by NVIDIA ® GH200 Grace Hopper Superchips and the NVIDIA NVLink ® Switch System — created to enable the development of giant,"
+    publishedDateTime: 2023-05-29T05:52:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/29/9822132.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
   - title: "Nvidia benefits hugely from hype around AI"
     excerpt: "Nvidia's first-quarter figures will please its shareholders. The GPU giant pulled in $7.2 billion, significantly more than the expected $6.5 billion. The"
     publishedDateTime: 2023-05-25T12:23:00Z
@@ -784,16 +822,7 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 19
-  - title: "NVIDIA Announces DGX GH200 AI Supercomputer"
-    excerpt: "NVIDIA today announced a new class of large-memory AI supercomputer — an NVIDIA DGX ™ supercomputer powered by NVIDIA ® GH200 Grace Hopper Superchips and the NVIDIA NVLink ® Switch System — created to enable the development of giant,"
-    publishedDateTime: 2023-05-29T05:52:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/29/9822132.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
-secured: "jZh2f2HNWH+H2AlI1S0njNp60arvoXqAqdyKWfYCtyZoQVSOElTKyMV4qcce11et8RiqrYtdUxbbza/xV2kLVHR3YukgM+4nQsgtcgi7prDCcZQuX61tax539kjB0ZyQnR0h1eYU+dKcPDAgftQx+o4S7Ii+Tg5RJY7SkxAl8SC+LmE+VT95d0JlgHqJ7i67Aw0gR4FTwri+cJ7yzC84846qdMCh2cZDzRR04gWnicgZ4uOIbbeVDUgQx+UNy24SvdnbK+Ldqe+cusLTBxaUACXCQh4JoHjR4PR+91CJFrFJ03La1fPL7uVV1+wT5WgyoLnBu2Knz0kiKhrhvQZPJZ9Rv/4GPQkWR9OhJIfiwZw=;BIdikBtf8qcTlA4u3azn1g=="
+secured: "AiCLcXENtnKL7jbi//pbJ8Acyao6fjTSVJv+HiOHmyXxvF+kI17d3YBW8T1Lys84VTtvAwmxflUVcPbdYE3aFWJ4dZcN4M7MQuqp1nWEq1JsUkcOfbllHnweUp51yPWE+GEwOy+RIO4lnc0YTyq5UlhW2jN+nBuUb4vE1pD7uU7UpL9li+Y/aJpgbIGCKkjMANx/0JM6PTWf3X5tFeyNZB+U95iHHKhb4pVBHG+2dVltSIvSKKs7O5UtscX+t2XeZtPVfljFAjXNH4bdTQDtxPuuM23uGtGuSva+99PbGyfDSZ4NatHlQrEud8yJJiRDWvG7Lgfj/9YC+gy4XdQIRjnTQOKP8dkKGp5Rt9FMrzq/dZ5bSI6Y1Xv99PBRnc4tdoMKNl60y1bvqHjomzWHd0aVIdIF1eb40rehF0RbRgtW9VaeFsUsqwOsO8yZ0CgxRGiEeAzddNLv36jLNFfTEO+iZUZh2DLxQbfh9mshWiZ4qNY7SryIT/2lsJ7cJm6APn0bwalJfcdGecIli63LpA==;LudjUDeyb2T0ur0Y5qY6tg=="
 ---
 

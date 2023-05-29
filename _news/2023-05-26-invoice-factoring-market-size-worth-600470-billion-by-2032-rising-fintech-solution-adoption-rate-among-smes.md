@@ -57,35 +57,19 @@ related:
         width: 1000
         height: 559
         isCached: true
-  - title: "Fintech Nexus 2023 – Fintech Forever"
-    excerpt: "Rising interest rates, stubborn inflation, and the encroachment of AI were topics of discussion at Fintech Nexus. We find ourselves at a crossroads again, and the industry must find its footing to reinvent itself. The keynote speakers this year are akin to ..."
-    publishedDateTime: 2023-05-24T14:52:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/05/207630-fintech-nexus-2023-fintech-forever/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/05/207630-fintech-nexus-2023-fintech-forever/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207630-fintech-nexus-2023-fintech-forever/amp/"
+  - title: "BM Fintech Signs Mou With Centre For AI Innovation Global"
+    excerpt: "BM Fintech - Bait Al Mashura Finance Consultations and CEAI (Centre for AI Innovation) - MyFinB have signed a memo"
+    publishedDateTime: 2023-05-29T07:04:00Z
+    webUrl: "https://menafn.com/1106336636/BM-Fintech-Signs-Mou-With-Centre-For-AI-Innovation-Global"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/05/Caitlin-Long-FinTech-Nexus-2023-NYC-600x337.jpeg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "QED's Rotman: The new fintech winners could be international"
-    excerpt: "Some of the biggest outcomes in fintech of the last decade have been U.S. or consumer-focused businesses. QED Investors co-founder Frank Rotman believes the next generation could be more international."
-    publishedDateTime: 2023-05-24T15:00:00Z
-    webUrl: "https://www.axios.com/pro/fintech-deals/2023/05/24/qeds-rotman-new-fintech-winners-could-be-international"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 24
-    images:
-      - url: "https://images.axios.com/cxmMStJnFV4HYE6TwrM5USHL9Ic=/0x0:1920x1080/1366x768/2023/05/24/1684893826626.jpg"
-        width: 1366
-        height: 768
+      - url: "https://menafn.com/updates/pr/2023-05/29/TP_5c0f8image_story.jpg"
+        width: 1000
+        height: 666
         isCached: true
   - title: "How Fintech Is Revolutionizing Event Payment And Registration"
     excerpt: "Fintech, or financial technology, uses innovative software and digital platforms to deliver financial services to customers. Fintech has been transforming various aspects of the financial industry, such as banking,"

@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI in cybersecurity: Yesterday’s promise, today’s reality"
-    excerpt: "What changed that’s made AI in 2023 substantially more impactful than before? First, consumer exposure to emerging AI innovations has elevated the subject, increasing acceptance. From songwriting and composing images in ways previously only imagined to writing college-level papers,"
-    publishedDateTime: 2023-05-24T14:09:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/24/1073395/ai-in-cybersecurity-yesterdays-promise-todays-reality/"
-    ampWebUrl: "https://www.technologyreview.com/2023/05/24/1073395/ai-in-cybersecurity-yesterdays-promise-todays-reality/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/24/1073395/ai-in-cybersecurity-yesterdays-promise-todays-reality/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/IBM_lock_1200.png?w=1200"
-        width: 1200
-        height: 672
-        isCached: true
 
 secured: "iNnbYpF1bPCfhJHuhKDV8W1Uk++TYIsIY3r/vsVllMzjLM3bPUdrEZbvOrfr626JhPQZjk6ouzQiM4CdoMDC1rB28gTmGUks1xlPExWGrD8NAcpxtJe6zvgijYbir++x9j/9HuNKc0hCozozXk4SHG274fKiU/5B5E7lEKo3ooeRl7/IpXM/THKyVKTyuuCCMrPobiFEewsyFBM6yQlUqRskvqF73mfYAvSL4FF6Jte+g/y5ByimZZRbWttdLH7W/QihFMObAdLGe3YukZ5ctuC8FjLHuwKzhHPAP9QcnW9SyiuqyKs4CNrzFdHgGau1qDZz5OJ60555bmhMtRZ0LLnljUFhGkHYUGlP6ApJMezQpdvaJj/oyoeWQaKBvKwB2bQbmFjWKA2vYW/bwZ/4UAeMgZLZcVee/VZCS7ugZlOtgnQe0G0z4uPGC0kX5CJrrW1cI2V00IQoi7Yiv5LHyy4eF30UABquclfp2M53XDtQ8TrmRtHaBoSGjzrV5niWl0hKw0iN6slb3fyz7RoCag==;cDZlHVngLoWYTV+xNI6NuA=="
 ---
