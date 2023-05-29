@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/amp/"
 type: article
 quality: 91
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -110,6 +110,15 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Nvidia and MediaTek partner to introduce next-generation in-car systems with AI"
+    excerpt: "In its efforts to further the infotainment experience inside vehicles and cater to evolving requirements, Nvidia and MediaTek have announced a partnership to introduce next-generation systems that can stream video or games or interact with drivers using artificial intelligence."
+    publishedDateTime: 2023-05-29T18:17:00Z
+    webUrl: "https://interestingengineering.com/innovation/nvidia-and-mediatek-partner-to-introduce-next-generation-in-car-systems-with-ai"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 15
   - title: "Nvidia, On Its Way to $1 Trillion Market Value, Just Confirmed That AI Hype Is Real"
     excerpt: "Nvidia CEO Jensen Huang said generative AI is now becoming \"the primary workload of most of the world's data centers generating information\"."
     publishedDateTime: 2023-05-25T15:46:00Z

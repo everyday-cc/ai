@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Here’s what’s missing from the White House’s National AI Strategy"
-    excerpt: "The White House announced new National AI Strategy efforts. Here's what's missing, according to AI policy expert Sarah Myers West."
-    publishedDateTime: 2023-05-25T03:39:00Z
-    webUrl: "https://venturebeat.com/ai/heres-whats-missing-from-the-white-houses-national-ai-strategy/"
-    ampWebUrl: "https://venturebeat.com/ai/heres-whats-missing-from-the-white-houses-national-ai-strategy/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/heres-whats-missing-from-the-white-houses-national-ai-strategy/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-76.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "French Open 2023: Grand Slam using AI to protect players from online abuse"
     excerpt: "As the French Open introduces a new technology to help players filter out social media abuse, BBC Sport looks at the issues tennis players encounter online."
     publishedDateTime: 2023-05-28T15:29:00Z

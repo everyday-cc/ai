@@ -113,6 +113,15 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Nvidia and MediaTek partner to introduce next-generation in-car systems with AI"
+    excerpt: "In its efforts to further the infotainment experience inside vehicles and cater to evolving requirements, Nvidia and MediaTek have announced a partnership to introduce next-generation systems that can stream video or games or interact with drivers using artificial intelligence."
+    publishedDateTime: 2023-05-29T18:17:00Z
+    webUrl: "https://interestingengineering.com/innovation/nvidia-and-mediatek-partner-to-introduce-next-generation-in-car-systems-with-ai"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 15
 
 secured: "zxf/nJFrjdEW50E0lF4PZMKUab27Gqfkx3Osa4uEpjwcFBD63NyLqG8cRfRwYDEfUJGJA0lsT75+rZd/hT98qERzm/7av5Yy855JyZsIbRjX47tYjGRVSy/NqQ7Ejecy26HhuEALitbtanEEcB7kHuDjCG/ScnQGQslUafhENGOLPcnXknKQUzEua4z0yufTaWKgx0lVqGHv84FS6Iwu7swZBHUnPuzmf5255wyAl7OVb+XEmDFxpOjWE7Bb/MC6MOphpv4s10/RY1IG2jAu+XjWnmQOyf/Q6rbgWdWSnRDV7WiRHivZqBdx81CPyd7OvoD5tbMcMzlFQXb/5zkbxd2AXNLSPSWbFoFHEa9kL0Nx4hiR/GSq7p/l9rjXjd1nAUvj5hzlPyDMfcJneAraxYdw6t9v+O8f8cfBhr60zTARuTmw8ef2fdkNjHODFquFxl3SofPUALyrqehDV7xO8TXPnpq5aHCEtfaSs6LdDM7EfO/9IjhnBSvJKAwFJ7AsProcT//8GYFExulU4SUtZw==;w71+Y/9CYnbr7tcz8nq5Lw=="
 ---

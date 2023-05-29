@@ -2,6 +2,59 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2023-04-24-sensory-enables-voice-chat-with-generative-ai-on-consumer-devices.md",
+      "title": "Sensory enables voice chat with generative AI on consumer devices",
+      "excerpt": "Sensory, a maker of consumer voice AI, has announced it has integrated ChatGPT and other AI to drive voice responses on consumer devices.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/sensory-enables-voice-chat-with-generative-ai-on-consumer-devices/",
+      "originalUrl": "https://venturebeat.com/ai/sensory-enables-voice-chat-with-generative-ai-on-consumer-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/SENSORY-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 727,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/sensory-enables-voice-chat-with-generative-ai-on-consumer-devices/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/sensory-enables-voice-chat-with-generative-ai-on-consumer-devices/amp/",
+      "publishedDateTime": "2023-04-24T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-infor-achieves-aws-manufacturing-and-industrial-competency.md",
       "title": "Infor Achieves AWS Manufacturing and Industrial Competency",
       "excerpt": "Designation recognizes Infor for its expertise in providing services and software solutions for an end-to-end industrial manufacturing software",
@@ -1150,50 +1203,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-24-artificial-intelligence-what-it-is-and-how-it-is-used.md",
-      "title": "Artificial Intelligence: What It Is and How It Is Used",
-      "excerpt": "He is a Chartered Market Technician (CMT). Artificial intelligence (AI) refers to the simulation of human intelligence by software-coded heuristics. Nowadays this code is prevalent in everything ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp",
-      "originalUrl": "https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.investopedia.com/thmb/LM3fhER-7UsLy-teyQe8VA8f3Bw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/artificial-intelligence-1079012838-6ee85656ad2047f08371f47bd26f1b64.jpg",
-          "width": 1500,
-          "height": 1045,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investopedia",
-        "domain": "investopedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

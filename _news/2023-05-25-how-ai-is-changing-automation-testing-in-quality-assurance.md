@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-changing-automation-testing-in-quality-assurance/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,38 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is reshaping the computer chip industry"
-    excerpt: "Case in point, Nvidia, the computer chip designer, has seen its stock price more than double since the start of the year, to about $300 a share. The Silicon Valley-based company now has a bigger market capitalization than Visa,"
-    publishedDateTime: 2023-05-25T03:28:00Z
-    webUrl: "https://www.marketplace.org/2023/05/24/how-ai-is-reshaping-the-computer-chip-industry/"
-    ampWebUrl: "https://www.marketplace.org/2023/05/24/how-ai-is-reshaping-the-computer-chip-industry/amp/"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2023/05/24/how-ai-is-reshaping-the-computer-chip-industry/amp/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 76
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2023/05/GettyImages-1468619875-e1684962917211.jpg?fit=740%2C512"
-        width: 740
-        height: 416
-        isCached: true
-  - title: "New Life Hacks? Generative AI is Changing and Streamlining Life at Home"
-    excerpt: "While some of the cartoon’s more fantastical inventions may still be light years away, many are already here, like vacuuming robots ... the tech startup that launched ChatGPT, reached 100 million users at an unprecedented rate, pushing AI to the ..."
-    publishedDateTime: 2023-05-25T02:59:00Z
-    webUrl: "https://www.nbcnewyork.com/news/tech/new-life-hacks-generative-ai-is-changing-and-streamlining-life-at-home/4363673/?n=%5CL"
-    ampWebUrl: "https://www.nbcnewyork.com/news/tech/new-life-hacks-generative-ai-is-changing-and-streamlining-life-at-home/4363673/?n=%5CL&amp=1"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/tech/new-life-hacks-generative-ai-is-changing-and-streamlining-life-at-home/4363673/?n=%5CL&amp=1"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 59
-    images:
-      - url: "https://media.nbcnewyork.com/2023/05/ai_home_v2.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Regulating artificial intelligence is a 4D challenge"
     excerpt: "Computer programmers have broadly embraced generative AI as a productivity-enhancing tool. By contrast, striking Hollywood scriptwriters may be the first of many trades to fear their core skills will be automated. This messy story defies simple solutions. Nations will have to adjust to the societal challenges in their own ways."
     publishedDateTime: 2023-05-25T12:10:00Z
@@ -76,6 +44,15 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "Using Artificial Intelligence in the healthcare space"
+    excerpt: "Functional Medicine Expert, Dr. Cathleen Gerenger, and the CEO of My Wellness Reader, Gary Kiss, joined Gayle Guyardo, the host of the global health and wellness show, Bloom, to share more about"
+    publishedDateTime: 2023-05-29T18:30:00Z
+    webUrl: "https://www.wfla.com/bloom-tampa-bay/using-artificial-intelligence-in-the-healthcare-space/"
+    type: article
+    provider:
+      name: WFLA News Channel 8
+      domain: wfla.com
+    quality: 34
 
 secured: "fVGqMaxzbjurI7o76tGEAosqsQlHAErkcrfvG0MnxCCT1WvieQB8raOf6vGq7ApdE4NRrMCDo7L2ePvKuNYamVft9L5iFgDny4UaXRL3CE8oSqNKAtCu4jbxG8so7pzOZOMnKA8xCaIAfFvHDSzBsra45cqaEr22WZRJ+bZO6RpGWf6LGlEr3VEnl0Vghd8QmyjOyPcJVj9c1j60tZKoRm9DB2aaBULe4pWHFj9r/cGYh1Pr6L42vew9FDBgf72BAwjdVMokspB81RNspgL0BuVak1L4pajDgHB4ikz8K8j/qAwBa3oG4pBOVv2YghUh3klfH8Ok3gdTsrQ4xixTA+NtMi/6tSfmBXmVeYLDza8=;CT7LjgdgFw6gBkRDBWQaBA=="
 ---

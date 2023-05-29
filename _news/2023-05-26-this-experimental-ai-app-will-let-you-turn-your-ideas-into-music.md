@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google DeepMind’s AI is generating descriptions for YouTube Shorts"
-    excerpt: "Google recently combined DeepMind and Brain teams into one big AI team called Google DeepMind. The new team has now shared details on its purported first work together. The group details how one of its visual language models (VLM) is being used to generate descriptions for YouTube Shorts."
-    publishedDateTime: 2023-05-25T02:00:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/google-deepminds-ai-is-generating-descriptions-for-youtube-shorts/articleshow/100487884.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/google-deepminds-ai-is-generating-descriptions-for-youtube-shorts/amp_articleshow/100487884.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/google-deepminds-ai-is-generating-descriptions-for-youtube-shorts/amp_articleshow/100487884.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-100487884,imgsize-24486,width-800/100487884.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Flamingo: Google DeepMind's AI enhances YouTube shorts with dynamic video descriptions"
     excerpt: "Boost discoverability and engagement on YouTube Shorts with Google DeepMind's Flamingo. This visual language model generates dynamic video descriptions for enhanced search results."
     publishedDateTime: 2023-05-25T06:07:00Z

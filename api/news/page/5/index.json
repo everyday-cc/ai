@@ -1129,19 +1129,19 @@
     {
       "path": "_news/2023-05-24-white-house-unveils-new-efforts-to-guide-federal-research-of-ai.md",
       "title": "White House unveils new efforts to guide federal research of AI",
-      "excerpt": "FILE – President Joe Biden speaks in the East Room of the White House, May 17, 2023, in Washington. The White House has announced new efforts to guide federally backed research on artificial ...",
+      "excerpt": "WASHINGTON (AP) — The White House on Tuesday announced new efforts to guide federally backed research on artificial intelligence as the Biden administration looks to get a firmer grip on ...",
       "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/",
-      "originalUrl": "https://thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/",
+      "webUrl": "https://www.wsaw.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/",
+      "originalUrl": "https://www.wsaw.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/05/646d4436e3d464.95529234.jpeg?w=1280",
-          "width": 1280,
-          "height": 853,
+          "url": "https://gray-wsaw-prod.cdn.arcpublishing.com/resizer/V94eJesdeoqG8s4xf_8cbHXoKpE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/DFO3VORI3BASLEQ4OP3K5J2S2U.jpg",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1149,13 +1149,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/amp/",
-      "publishedDateTime": "2023-05-23T11:51:00-07:00",
+      "ampWebUrl": "https://www.wsaw.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wsaw-com.cdn.ampproject.org/c/s/www.wsaw.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/?outputType=amp",
+      "publishedDateTime": "2023-05-23T12:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
+        "name": "WSAW",
+        "domain": "wsaw.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1170,21 +1170,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-24-a-swedish-newspaper-is-having-ai-rap-its-articles-in-an-attempt-to-get-young-people-interested-in-the-news.md",
-      "title": "A Swedish newspaper is having AI rap its articles in an attempt to get young people interested in the news",
-      "excerpt": "Other concepts included an AI-driven news therapist and an algorithm that would surprise readers with positive news. Aftonbladet acknowledged the murky ethics of AI-generated content. \"The AI-generated rap is also, as hip-hop tends to be, loaded with some ...",
+      "path": "_news/2023-05-24-meta-unveils-open-source-speech-ai-recognition-of-over-4000-spoken-languages.md",
+      "title": "Meta Unveils Open-Source Speech AI: Recognition of Over 4,000 Spoken Languages",
+      "excerpt": "In the domain of Artificial Intelligence (AI) innovation, a notable development has emerged. Meta, formerly known as Facebook, recently introduced an open-source speech recognition AI. This AI tool is remarkable as it significantly advances global communication by its ability to recognize over 4,",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/swedish-newspaper-experimented-ai-rap-articles-to-appeal-to-youth-2023-5",
-      "originalUrl": "https://www.businessinsider.com/swedish-newspaper-experimented-ai-rap-articles-to-appeal-to-youth-2023-5",
+      "webUrl": "https://www.unite.ai/meta-unveils-open-source-speech-ai-recognition-of-over-4000-spoken-languages/",
+      "originalUrl": "https://www.unite.ai/meta-unveils-open-source-speech-ai-recognition-of-over-4000-spoken-languages/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/646bd0de63c86a0018cd2f77?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 563,
+          "url": "https://www.unite.ai/wp-content/uploads/2023/05/dima-solomin-mr26tQgHGmc-unsplash-942x600.jpg",
+          "width": 942,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1192,23 +1192,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/swedish-newspaper-experimented-ai-rap-articles-to-appeal-to-youth-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/swedish-newspaper-experimented-ai-rap-articles-to-appeal-to-youth-2023-5?amp",
-      "publishedDateTime": "2023-05-23T10:41:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T11:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1217,7 +1208,7 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "Natural Language Processing",
         "AI"
       ]
     }

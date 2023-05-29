@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-ai-tool-will-summa
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google DeepMind’s AI is generating descriptions for YouTube Shorts"
-    excerpt: "Google recently combined DeepMind and Brain teams into one big AI team called Google DeepMind. The new team has now shared details on its purported first work together. The group details how one of its visual language models (VLM) is being used to generate descriptions for YouTube Shorts."
-    publishedDateTime: 2023-05-25T02:00:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/google-deepminds-ai-is-generating-descriptions-for-youtube-shorts/articleshow/100487884.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/google-deepminds-ai-is-generating-descriptions-for-youtube-shorts/amp_articleshow/100487884.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/google-deepminds-ai-is-generating-descriptions-for-youtube-shorts/amp_articleshow/100487884.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-100487884,imgsize-24486,width-800/100487884.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "This experimental AI app will let you turn your ideas into music"
     excerpt: "The app creates two songs from one prompt. Anyone can sign up to try the experimental AI tool right now. From creating images to enhancing search engines, AI is almost everywhere you turn these days."
     publishedDateTime: 2023-05-25T20:43:00Z

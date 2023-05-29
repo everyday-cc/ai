@@ -2,6 +2,57 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-05-15-google-launching-tools-to-identify-misleading-and-ai-images.md",
+      "title": "Google Launching Tools to Identify Misleading and AI Images",
+      "excerpt": "Google is adding two new features to its image search to reduce the spread of misinformation, especially now that artificial intelligence tools have made the creation of photorealistic fakes trivial.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-15/google-launching-tools-to-identify-misleading-and-ai-images",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-15/google-launching-tools-to-identify-misleading-and-ai-images",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im1kpz2VrkVs/v0/1200x798.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-14T22:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-tsa-is-testing-facial-recognition-at-more-airports-raising-privacy-concerns.md",
       "title": "TSA is testing facial recognition at more airports, raising privacy concerns",
       "excerpt": "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country BALTIMORE -- A passenger walks up to an airport ...",
@@ -1165,58 +1216,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-deep-learning-in-ct-scanners-market-2030.md",
-      "title": "Deep Learning in CT Scanners Market | 2030",
-      "excerpt": "Precision Reports has published a new report titled as \" Deep Learning in CT Scanners Market \" by End User ( Hospital, Diagnostic Center, Research, Veterinary Clinic ), Types ( Stationary, Portable ),",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-2030-2023-05-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-2030-2023-05-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

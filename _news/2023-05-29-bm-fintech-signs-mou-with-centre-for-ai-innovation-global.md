@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Bank, fintech collaboration to improve financial services"
-    excerpt: "A strategic partnership of banks, fintech and mobile financial services (MFS) could boost Bangladesh’s banking sector by delivering better, cheaper and more inclusive services, according to the top executives of some lenders in the country."
-    publishedDateTime: 2023-05-25T05:00:00Z
-    webUrl: "https://www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886"
-    ampWebUrl: "https://www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
-    images:
-      - url: "https://images.thedailystar.net/sites/default/files/uploads/2023/05/25/untitled_design_-_2023-05-25t114842.157.png"
-        width: 750
-        height: 393
-        isCached: true
   - title: "Intuit launches lab for employees to experiment with generative AI, will share lessons at VB Transform"
     excerpt: "Intuit is poised to harness the power of generative AI; its chief data officer is set to speak at VentureBeat's VB Transform 2023."
     publishedDateTime: 2023-05-25T16:10:00Z

@@ -2,6 +2,40 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2023-04-07-real-time-update-ati-physical-therapy-inc-atip-stock-navigates-the-market-with-up-to-date-data.md",
+      "title": "Real-Time Update: ATI Physical Therapy Inc. (ATIP) Stock Navigates the Market with Up-to-Date Data",
+      "excerpt": "The stock of ATI Physical Therapy Inc. (ATIP) has seen a -7.75% decrease in the past week, with a -26.92% drop in the past month, and a -14.57% decrease in the past quarter. The volatility ratio for the week is 8.",
+      "sourceUrl": null,
+      "webUrl": "https://newsheater.com/2023/04/06/real-time-update-ati-physical-therapy-inc-atip-stock-navigates-the-market-with-up-to-date-data/",
+      "originalUrl": "https://newsheater.com/2023/04/06/real-time-update-ati-physical-therapy-inc-atip-stock-navigates-the-market-with-up-to-date-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsheater",
+        "domain": "newsheater.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-07-ltx-corporate-bond-trading-moves-to-aws-for-better-ai.md",
       "title": "LTX Corporate Bond Trading Moves To AWS For Better AI",
       "excerpt": "LTX has migrated its electronic trading platform for corporate bonds to Amazon Web Services (AWS). The company, a subsidiary of Broadridge Financial Solutions, Inc., said it will use AWS to better optimize its data science processes.",
@@ -943,40 +977,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-meta-platforms-releases-segment-anything-model-to-accelerate-computer-vision-research.md",
-      "title": "Meta Platforms releases Segment Anything Model to accelerate computer vision research",
-      "excerpt": "Artificial intelligence researchers at Meta Platforms Inc. said today that they’re hoping to democratize a key aspect of computer vision. It’s known as “segmentation,” which refers to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/04/05/meta-platforms-release-segment-anything-model-accelerate-computer-vision-research/",
-      "originalUrl": "https://siliconangle.com/2023/04/05/meta-platforms-release-segment-anything-model-accelerate-computer-vision-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T02:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/chatgpt-prompt-injection-attack-security
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chatgpt-prompt-injection-attack-security/amp"
 type: article
 quality: 91
-heat: 241
+heat: 231
 published: true
 
 provider:
@@ -224,15 +224,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 18
-  - title: "Amazon’s answer to ChatGPT seen as incomplete solution"
-    excerpt: "Amazon.com Inc.’s cloud customers are clamoring to get their hands on the ChatGPT-style technology the company unveiled six weeks ago. But instead of being allowed to test it, many are"
-    publishedDateTime: 2023-05-25T03:30:00Z
-    webUrl: "https://www.havasunews.com/nation/amazon-s-answer-to-chatgpt-seen-as-incomplete-solution/article_5a4c7392-faaa-11ed-be74-3f8cfaab4220.html"
-    type: article
-    provider:
-      name: Havasu News
-      domain: havasunews.com
-    quality: 4
 
 secured: "0oI8DR9/gz1QBhxjn+qUYXK9qS3cuju9WXnauKOgLZxwIj49uxvqbLow+Xo/r5ApeKGO29M+Jn1w0Vf8u88U9CpFmiZPOJWZpL0spaDhIVoGaz2N3eIrdfQa7aEEPDPwGdKOPCZIGfOgDPLbClmHsqngny7jhrmRNqQj/hdksVZGoLTKGYPcOVsXt06DejCNSjTRdPuCNKTnc606t+4NT4WhegkPRv3V7Am4AtJFPfJX+6MLA/c+kbJ1idDDl0zzEv9qxfKHBm67P3vpcA1Y3DF3d8iX7sAz6Iget8yrJ3vVq4/B/NwJ8MqnlPUMa7mpHZyIw/KtuscRNwvx9WlJw9zjw8dRpCYry40bu0hghLxVD+iGWxnlr9A2WayAGJIss7zwCbrj7qBG1D+g6B5d2hrO3DdtD7Ggi2wxXnDtmsxeKe+tqxbByaQWSwtz57mMgevrUBGz7G3hNwzqcjK+/TR9coPlxMZC0+tlmrRfKEOws16JP01Tc6hCMb3CwtfXhYKoo8dQ3JKuC0lj/3aLaw==;W3IYHM1dZbsDUmoowUTyfQ=="
 ---

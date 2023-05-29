@@ -2,9 +2,9 @@
 category: news
 title: "Artificial Intelligence (AI) in Military Market worth $38.8 billion by 2028 - Exclusive Report by MarketsandMarkets™"
 excerpt: "The Artificial Intelligence (AI) in Military Market is estimated to be USD 9.2 billion in 2023 and is projected to reach USD 38.8 billion by 2028, at a CAGR of 33.3% during the forecast period according to a new report by MarketsandMarkets™."
-publishedDateTime: 2023-05-29T11:42:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/05/29/9822189.htm"
-webUrl: "https://it.tmcnet.com/news/2023/05/29/9822189.htm"
+publishedDateTime: 2023-05-29T10:57:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-military-market-worth-388-billion-/2023/05/29/9822189.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-military-market-worth-388-billion-/2023/05/29/9822189.htm"
 type: article
 quality: 11
 heat: -1
@@ -36,6 +36,6 @@ related:
         height: 1043
         isCached: true
 
-secured: "+2PWobwp7ktZOffQEbHLn1j3MjqpPNi79GWQDeV7Qe9lP1OPWy/bddr87t1QIKnDmkZTIzZmnXF/qWVIBbehvzoesD/wYn9Iwg6gtFgDKy695Se7GcwUFf6/vgsPZ+8iAG/zvdRYt8nQ5WJUmklqyGnrRBPaJ8nkEI1W2CVwztTDxjJ+9wNny8mfI3XOLU3m1hVWnHg37Fl0vvMIkX4zOp71g73OETKQhhoM1oB3JP6CXPCfvAMkxgAAfhFsZ13BQuv14CtDcmtMbIsayLswbUIS4CoWQmQQ7MQNDW2obpBCfHxv/X0bxPlZrtgNG1O25M2OMN7dnSI5tAO4WZPrPAuf8JRPLQRUbRivEaG5B6L6Y9jw4F3/mLiLyuqMYLtuXIpksKWh+iuuH0xfGYWD8PZs8WqiBM0r8EvBy6zLbzbT3J/t1yEp5ON8OaamxnqN62uvLrkKV61b+zMJPcLGnDZ99njcrtT5Aioy3trrgUM/1MsKZnm8N9DhMTWBCTSCFhrw9cuja/Kd6tmgnixsjA==;QGDt4f1dLhch3BqJmJBG0Q=="
+secured: "AR+x8wWH3VaffCrt9+m0vzZsB5ibA8VkZbbp1fAz7B8iktir6P+BEKAVdYr1idSC3AwPzYvG1OT814Bdz0aSGI57bXu2OnszODpQ31dpeBLozS3gDB8oYugpL+KeHMAN9qQ8Yqsk5K2CzFZRyeDPF3Ta9VfOurc/fM0+tAU1NV/iSUzckGZulbT2JoaZ2EOrs+K6t9m+bHRIRt6wy7CfMpRfuR8bxbC5bpL/ecEb/Te4MMNo7VOy0OciS3Rhi8e6/jpF2MrDg/wBUhqTOiRxqfhNq76yH0YEWIerMErDIkDIw6jLUWQqfGzrTlT+P/e6f9042Ty0T2iaBSnE7Cs65N4mB6dxXgbxgf0mivBrShkDDd1vi+20xkZUq++Jjq0nhZicyPN7Fa4NtMh6bDcpV82G+Blr87ndEsedHp/w/fH0UzEpVz/wYJ7Rt8aEsOREcdsl465MGocFjH/uimcuDd1veQxLp/MVTr25E0AgEg3bWyM+LABElNsvytjYXGDqAHzai5UO64/Pk5yY6FV9jg==;qnom8A1COdpOzzXc6NU/og=="
 ---
 

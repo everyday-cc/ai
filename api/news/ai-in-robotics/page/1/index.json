@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-29-very-human-questions-about-artificial-intelligence.md",
+      "title": "Very human questions about artificial intelligence",
+      "excerpt": "AI experts tell us we live in unpredictable times. They have no answers and since ordinary people like us don’t even know the right questions to ask, EL PAÍS went to the Institute for Futures Studies",
+      "sourceUrl": null,
+      "webUrl": "https://english.elpais.com/science-tech/2023-05-29/very-human-questions-about-artificial-intelligence.html",
+      "originalUrl": "https://english.elpais.com/science-tech/2023-05-29/very-human-questions-about-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.english.elpais.com/resizer/Ntx0a4c4BRcOFgMTcWKUrceHgD4=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/BMLFUW7I6BGSDGI3WSLCCMOLSE.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.elpais.com/science-tech/2023-05-29/very-human-questions-about-artificial-intelligence.html?outputType=amp",
+      "cdnAmpWebUrl": "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2023-05-29/very-human-questions-about-artificial-intelligence.html?outputType=amp",
+      "publishedDateTime": "2023-05-29T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "El País in English",
+        "domain": "elpais.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-05-29-drone-nerds-to-feature-uav-platforms-at-energy-drone-and-robotics-summit.md",
       "title": "Drone Nerds to Feature UAV Platforms at Energy Drone and Robotics Summit",
       "excerpt": "Drone Nerds, an enterprise drone solutions provider, will attend the 7th Annual Energy Drone and Robotics Summit in Houston, Texas. The Energy Drone & Robotics",
@@ -1351,59 +1395,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-the-case-for-a-code-of-conduct-for-ai-in-healthcare.md",
-      "title": "The case for a code of conduct for AI in healthcare",
-      "excerpt": "The rise of generative AI has prompted an AI ethicist to propose a framework to mitigate the risks of using the ever-developing tech in the healthcare space. This coincides with the chief executive of ChatGPT’s OpenAI urging US legislators to start regulating AI for the safety of humanity.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/",
-      "originalUrl": "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/4f3d9da/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F14%2Fd0%2F9be4e9844471ab60db09eb3130d5%2Fdepositphotos-198133002-l.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true",
-      "publishedDateTime": "2023-05-17T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

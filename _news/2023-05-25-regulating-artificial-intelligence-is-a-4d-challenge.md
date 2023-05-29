@@ -40,38 +40,15 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "How AI is reshaping the computer chip industry"
-    excerpt: "Case in point, Nvidia, the computer chip designer, has seen its stock price more than double since the start of the year, to about $300 a share. The Silicon Valley-based company now has a bigger market capitalization than Visa,"
-    publishedDateTime: 2023-05-25T03:28:00Z
-    webUrl: "https://www.marketplace.org/2023/05/24/how-ai-is-reshaping-the-computer-chip-industry/"
-    ampWebUrl: "https://www.marketplace.org/2023/05/24/how-ai-is-reshaping-the-computer-chip-industry/amp/"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2023/05/24/how-ai-is-reshaping-the-computer-chip-industry/amp/"
+  - title: "Using Artificial Intelligence in the healthcare space"
+    excerpt: "Functional Medicine Expert, Dr. Cathleen Gerenger, and the CEO of My Wellness Reader, Gary Kiss, joined Gayle Guyardo, the host of the global health and wellness show, Bloom, to share more about"
+    publishedDateTime: 2023-05-29T18:30:00Z
+    webUrl: "https://www.wfla.com/bloom-tampa-bay/using-artificial-intelligence-in-the-healthcare-space/"
     type: article
     provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 76
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2023/05/GettyImages-1468619875-e1684962917211.jpg?fit=740%2C512"
-        width: 740
-        height: 416
-        isCached: true
-  - title: "New Life Hacks? Generative AI is Changing and Streamlining Life at Home"
-    excerpt: "While some of the cartoon’s more fantastical inventions may still be light years away, many are already here, like vacuuming robots ... the tech startup that launched ChatGPT, reached 100 million users at an unprecedented rate, pushing AI to the ..."
-    publishedDateTime: 2023-05-25T02:59:00Z
-    webUrl: "https://www.nbcnewyork.com/news/tech/new-life-hacks-generative-ai-is-changing-and-streamlining-life-at-home/4363673/?n=%5CL"
-    ampWebUrl: "https://www.nbcnewyork.com/news/tech/new-life-hacks-generative-ai-is-changing-and-streamlining-life-at-home/4363673/?n=%5CL&amp=1"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/tech/new-life-hacks-generative-ai-is-changing-and-streamlining-life-at-home/4363673/?n=%5CL&amp=1"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 59
-    images:
-      - url: "https://media.nbcnewyork.com/2023/05/ai_home_v2.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
+      name: WFLA News Channel 8
+      domain: wfla.com
+    quality: 34
 
 secured: "oDp5B2xh9VuOZpjkiQNrMB3phCvnnUbHQHEXJ0mtintUIGJzcgaGw+NGz9st4juXYnc6Rjjnny53xafkYYv5upWAjG1NdYgjmr0dFvzNjYZCFjw+dGer+ClmT4imr5D0S67mRUSwK3fVrvXJigqzPJ+s4+PLlAY4vg9yQs72mczFycGEQOEeZDsQMfdfJWZrQ2AOsFkEbvyXlSqsLrSWB3J5ZKEH+HtUYLKBb0wtKwaBJo13QpT+sxc5SVqzKCcTFI9J6d18YtIFZ+AX3Kwj12VNQNrDn3r7e41Cn6jxxmrwf4MratHKTIpJD+5HZV/UVVBkmj53Wp8VegghTI3j644k4W+EWIjPlMAHee937S4=;4Ja/SlYGq9aD92QxlQdWQA=="
 ---

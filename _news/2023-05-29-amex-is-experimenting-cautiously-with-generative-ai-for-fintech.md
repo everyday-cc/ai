@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/amex-is-experimenting-cautiously-with-g
 webUrl: "https://venturebeat.com/ai/amex-is-experimenting-cautiously-with-generative-ai-for-fintech/"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bank, fintech collaboration to improve financial services"
-    excerpt: "A strategic partnership of banks, fintech and mobile financial services (MFS) could boost Bangladesh’s banking sector by delivering better, cheaper and more inclusive services, according to the top executives of some lenders in the country."
-    publishedDateTime: 2023-05-25T05:00:00Z
-    webUrl: "https://www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886"
-    ampWebUrl: "https://www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
-    images:
-      - url: "https://images.thedailystar.net/sites/default/files/uploads/2023/05/25/untitled_design_-_2023-05-25t114842.157.png"
-        width: 750
-        height: 393
-        isCached: true
   - title: "BM Fintech Signs Mou With Centre For AI Innovation Global"
     excerpt: "BM Fintech - Bait Al Mashura Finance Consultations and CEAI (Centre for AI Innovation) - MyFinB have signed a memo"
     publishedDateTime: 2023-05-29T07:04:00Z

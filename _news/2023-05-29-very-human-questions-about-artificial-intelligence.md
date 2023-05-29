@@ -8,8 +8,8 @@ webUrl: "https://english.elpais.com/science-tech/2023-05-29/very-human-questions
 ampWebUrl: "https://english.elpais.com/science-tech/2023-05-29/very-human-questions-about-artificial-intelligence.html?outputType=amp"
 cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2023-05-29/very-human-questions-about-artificial-intelligence.html?outputType=amp"
 type: article
-quality: 59
-heat: 79
+quality: 61
+heat: 83
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.english.elpais.com/resizer/Ntx0a4c4BRcOFgMTcWKUrceHgD4=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/BMLFUW7I6BGSDGI3WSLCCMOLSE.jpg"
@@ -56,6 +57,6 @@ related:
         height: 600
         isCached: true
 
-secured: "0Baa2MWxJtA4lwOhIh5iox675dxvqklZxeVz/UHPGQ2FUVmZdLwi0A9XA4447FY3+xx0XV9KAufC2E90KNnextFFqyoEw+VcaoexjCN9DP+dktzz/O859MZkNTLC1aUMcwegcgwgbciYylw7zKbqHUQYdXcvMvKLRAPKieeq4c7FHIUYeIJ3S21UvOgUKScv6RgrWozFg6CUiczhcpnADE8Z2mFM2201IkIrLWdyzVTqMIw4woY8Mrztoq9ztlGZ9fZA8V7vh9eJ+H8F7oDq2OX+DPlBZ2UY/+m5umWuM6e43pBvB4ks30Zhzdh5DLpRJ7hreiEy6ZBcra5xb8THiCIb3hoqZRBuLve62BFyzT0=;VZR6kpTfMqv//hX3a/cbrw=="
+secured: "OqBVWol5XJ46Q3FvpaDjeacZfz4C90wPrBlIozB6BGl5yUWfRFkcfLPwTYTohWMSY98yKNZLoOwKF6/mj5Mh7kydzefjgk62r9oqeR3++jVCMimBKpdjhhGXx+Wmf2Nm8EqLyfoyPsuoUlmLBSpfaagMB5hqWDOFeEm0Y+cguAoDNzQh+hdGpDrEboPiz5YWdxPPAmsB7aeORdk8U5L+KpEvaoB5jstWIgLA0fd5zZBBSppRkGyTcVEZgqGnUalVZWr1u/4jXUZVG9wQarVSc2PZr7bDQ5M09hlm2c74UJkYhEj2R937kNTwp+WW6+1/L/ggMNLZA7qdY/JxR/2kDjKYZaz8y2rEL2jYg+8WiK6CsM4UyNWdekztKGWyDZnsz8H1v5gtbBOwTwOfohpJV/f/i06WvL9ohuLSbnaq4416zVtpOaHcte/VW+DCqG7k83YtU8f8BlOIKChRTJdNZZQKMO7Xt8oEat/IS+wH36DFTj1x5PoErKEAdHiA0mfeEs1kpcYQFnqe4lypRhTeRg==;XBRBUDnM7Eyf8NJ/nvktXA=="
 ---
 

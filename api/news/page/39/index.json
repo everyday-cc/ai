@@ -2,6 +2,58 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2023-05-03-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "excerpt": "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer the most common FAQs.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
+      "originalUrl": "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 309,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/03/chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot/amp/",
+      "publishedDateTime": "2023-05-03T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-ai-threatens-7800-jobs-as-ibm-pauses-hiring.md",
       "title": "AI threatens 7,800 jobs as IBM pauses hiring",
       "excerpt": "Independent of this move, IBM announced 3,900 job cuts in late January. However, many of the roles reduced due to AI will likely come as a result of the upcoming hiring freeze and jobs vacated by attrition.",
@@ -1129,49 +1181,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-kinetica-taps-chatgpt-for-natural-language-sql-database-queries.md",
-      "title": "Kinetica taps ChatGPT for natural language SQL database queries",
-      "excerpt": "Kinetica, a relational database provider for online analytical processing (OLAP) and real-time analytics, is harnessing the power of OpenAI’s ChatGPT to let developers use natural language ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3694877/kinetica-taps-chatgpt-for-natural-language-sql-database-queries.html",
-      "originalUrl": "https://www.infoworld.com/article/3694877/kinetica-taps-chatgpt-for-natural-language-sql-database-queries.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

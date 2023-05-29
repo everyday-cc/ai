@@ -35,7 +35,7 @@ related:
     provider:
       name: El País in English
       domain: elpais.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://images.english.elpais.com/resizer/Ntx0a4c4BRcOFgMTcWKUrceHgD4=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/BMLFUW7I6BGSDGI3WSLCCMOLSE.jpg"
         width: 1200

@@ -29,8 +29,8 @@ images:
 related:
   - title: "Artificial Intelligence (AI) in Military Market worth $38.8 billion by 2028 - Exclusive Report by MarketsandMarkets™"
     excerpt: "The Artificial Intelligence (AI) in Military Market is estimated to be USD 9.2 billion in 2023 and is projected to reach USD 38.8 billion by 2028, at a CAGR of 33.3% during the forecast period according to a new report by MarketsandMarkets™."
-    publishedDateTime: 2023-05-29T11:42:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/29/9822189.htm"
+    publishedDateTime: 2023-05-29T10:57:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-military-market-worth-388-billion-/2023/05/29/9822189.htm"
     type: article
     provider:
       name: TMCnet

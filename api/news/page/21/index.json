@@ -2,6 +2,57 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-05-12-mttr-vs-mtbf-whats-the-difference.md",
+      "title": "MTTR vs. MTBF: What’s the difference?",
+      "excerpt": "Mean time to repair (MTTR) and mean time between failures (MTBF) are similar metrics with key distinctions for facilities maintenance.\nThe post MTTR vs. MTBF: What’s the difference? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/mttr-vs-mtbf/",
+      "originalUrl": "https://www.ibm.com/blog/mttr-vs-mtbf/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/afe80791-1d4c-4eed-82bd06dc338af887.lr_-630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-12T07:07:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-how-businesses-can-ethically-embrace-artificial-intelligence.md",
       "title": "How Businesses Can Ethically Embrace Artificial Intelligence",
       "excerpt": "Though there are many benefits to using AI in marketing, we must be aware of the potential risks and ethical concerns that come along with it.",
@@ -1167,49 +1218,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-migrate-sessionrunhook-to-keras-callbacks.md",
-      "title": "Migrate SessionRunHook to Keras callbacks",
-      "excerpt": "The following TensorFlow 1 examples show how to set up a custom SessionRunHook that measures examples per second during training. After creating the hook (LoggerHook), pass it to the hooks parameter of tf.estimator.Estimator.train. def _input_fn(): return ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/guide/migrate/sessionrunhook_callback",
-      "originalUrl": "https://www.tensorflow.org/guide/migrate/sessionrunhook_callback",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

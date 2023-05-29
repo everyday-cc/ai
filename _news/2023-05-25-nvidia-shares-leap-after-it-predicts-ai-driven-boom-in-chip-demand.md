@@ -197,22 +197,6 @@ related:
         width: 5000
         height: 3333
         isCached: true
-  - title: "Nvidia stock soars toward all-time high as record revenue forecast backed by ‘killer app’ of AI"
-    excerpt: "Nvidia Corp. executives predicted record revenue well beyond anything the company has experienced Wednesday, pushing shares toward record territory."
-    publishedDateTime: 2023-05-25T02:53:00Z
-    webUrl: "https://www.marketwatch.com/story/nvidia-stock-soars-toward-all-time-high-as-ai-push-leads-executives-to-predict-record-revenue-b0207c10?mod=rex-nutting"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-stock-soars-toward-all-time-high-as-ai-push-leads-executives-to-predict-record-revenue-b0207c10"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-stock-soars-toward-all-time-high-as-ai-push-leads-executives-to-predict-record-revenue-b0207c10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
-    images:
-      - url: "https://images.mktw.net/im-386224/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AI Chip Giant Nvidia Nears Trillion Dollar Valuation"
     excerpt: "The market valuation of Nvidia, a US firm which specializes in chips coveted in the artificial intelligence boom, neared one trillion dollars on Thursday after the company blew past quarterly earnings expectations."
     publishedDateTime: 2023-05-25T19:59:00Z
@@ -276,6 +260,20 @@ related:
       - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2021/12/02/ca8ad24e-18b8-4cb5-aef8-6e6bd2c10926/thumbnail/1200x630/a7b58aa440a66d8ef5fd243395995fc3/cbsnews-nvidia-slide49.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Nvidia Isn’t The Only One Getting a Massive AI Boost"
+    excerpt: "Memory chips are in a slump. Thankfully, artificial intelligence has a huge appetite that will benefit the likes of Samsung, SK Hynix and Micron."
+    publishedDateTime: 2023-05-29T20:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-05-29/nvidia-isn-t-the-only-one-getting-a-massive-ai-boost"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inhXHhwFhi2Y/v1/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Landing AI's Visual Prompting Makes Building and Deploying Computer Vision Easy with NVIDIA Metropolis"
     excerpt: "Landing AI's vision technology realizes the next era of AI factory automation. LandingLens, Landing AI's flagship product platform, enables industrial solution providers and manufacturers to develop,"
@@ -377,6 +375,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Nvidia unveils GH200 super chip and DGX GH200 computing platform for AI"
+    excerpt: "By now it's no secret that Nvidia has gone all-in on the idea of selling shovels to companies big and small that are manically digging in"
+    publishedDateTime: 2023-05-29T18:22:00Z
+    webUrl: "https://www.techspot.com/news/98867-nvidia-unveils-gh200-super-chip-dgx-gh200-computing.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 64
   - title: "How the AI Boom Could Be Nvidia's 'iPhone Moment'"
     excerpt: "The company also provided a revenue forecast for the July quarter way above expectations, citing skyrocketing demand for its artificial intelligence chips with the generative AI boom. Thanks to the surging demand for its artificial intelligence chips,"
     publishedDateTime: 2023-05-26T02:42:00Z
@@ -750,15 +757,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "Nvidia Shares Leap As AI Trend Drives Demand For Chips"
-    excerpt: "Shares in US chip company Nvidia soared more than 25 percent Wednesday after an earnings report showed the artificial intelligence trend is fueling demand for its sophisticated chips."
-    publishedDateTime: 2023-05-25T02:22:00Z
-    webUrl: "https://www.barrons.com/news/nvidia-shares-leap-as-ai-trend-drives-demand-for-chips-d730c10c"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 34
   - title: "Nvidia AI Enterprise moves to Azure"
     excerpt: "Nvidia is integrating its Nvidia AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives. The integration will create a secure, enterprise-ready platform that enables Azure customers worldwide to quickly build,"
     publishedDateTime: 2023-05-26T09:43:00Z
@@ -826,6 +824,15 @@ related:
     provider:
       name: Kotaku
       domain: kotaku.com
+    quality: 17
+  - title: "AI means everyone can now be a programmer, Nvidia chief says"
+    excerpt: "Artificial intelligence means everyone can now be a computer programmer as all they need to do is speak to the computer, Nvidia Corp CEO Jensen Huang said on Monday, hailing the end of the \"digital divide\"."
+    publishedDateTime: 2023-05-29T19:58:00Z
+    webUrl: "https://www.channelnewsasia.com/business/ai-means-everyone-can-now-be-programmer-nvidia-chief-says-3522926"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
     quality: 17
 
 secured: "YfKmXHbkqp96S2RNcGBrYo2ea0e2GwOCFLB814RH/7YXsBour+FbE9qowP09pluIuEMf7NqtQSwH4xKZSgvnGVXkiQzg8cBkA+Br6UdPqRwsylSo6UdQ5O61QoDQZnjICUFSf4GhWPY8iKubVVwug4TDlSkGnToQHaK5wKkVQ3Gos7ybiX9kuJrnzl1w1nFlra5oQh4UHwZiUTQdiPoBqNql2w3WJWSjsEoPWRGUWdRbp4bDJXlyEgDihlVeMhO79SJaJTKAyIB7WURLKKhhOREPwgunRhwG+ohRXzm2fVYnWCa1RGKaR1PPTMNfVIdn83tbRm4wo1WHNg0MFiDL54nYUOirwx3vtUqaJuI+3r8f7VHN7dT++9XsPykBiQRKyio/L6mJ+kcSS55nsUy5CPgIr4AYckxiRx4JVJ3g7CPHZXsBudDgWliBnN2YYuqg+0KP+vyGVTFrlkmst7ZF2fyjGoj1zw/4SmOfBzF40X7CzFuMRJmwgmoT8wDeZ/MSLN9YF+UzlIgckQCN5LAYig==;uoY7SjGOaSG97aey5EcqPQ=="
