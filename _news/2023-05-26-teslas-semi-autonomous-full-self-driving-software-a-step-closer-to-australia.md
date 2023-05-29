@@ -7,7 +7,7 @@ originalUrl: "https://www.drive.com.au/news/tesla-fsd-beta-spotted-in-australia/
 webUrl: "https://www.drive.com.au/news/tesla-fsd-beta-spotted-in-australia/"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,33 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Woman recovering after Tesla crashes in self-driving mode"
+    excerpt: "A woman hit a tree after law enforcement said she put her Tesla in self-driving mode.The crash happened Sunday night in Me"
+    publishedDateTime: 2023-05-29T14:28:00Z
+    webUrl: "https://wwmt.com/news/state/woman-recovering-after-tesla-crashes-in-self-driving-mode"
+    ampWebUrl: "https://wwmt.com/amp/news/state/woman-recovering-after-tesla-crashes-in-self-driving-mode"
+    cdnAmpWebUrl: "https://wwmt-com.cdn.ampproject.org/c/s/wwmt.com/amp/news/state/woman-recovering-after-tesla-crashes-in-self-driving-mode"
+    type: article
+    provider:
+      name: wwmt
+      domain: wwmt.com
+    quality: 59
+    images:
+      - url: "https://wwmt.com/resources/media/6193ac78-15be-45d3-91c8-bb4f58e011de-large16x9_AP22265426693270.jpg?1663855123407"
+        width: 986
+        height: 555
+        isCached: true
+  - title: "Michigan woman hospitalized after self-driving Tesla crashes into tree"
+    excerpt: "An Ottawa County woman wound up in the hospital Sunday, May 28, 2023, after she put her Tesla into self-driving mode and the car veered off the roadway, rolled several times and hit a tree, according to Mecosta County Sheriff's office. (MLive file photo)"
+    publishedDateTime: 2023-05-29T13:03:00Z
+    webUrl: "https://www.mlive.com/news/muskegon/2023/05/michigan-woman-hospitalized-after-self-driving-tesla-crashes-into-tree.html"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 19
 
 secured: "IN+xRVUXO5zEsC1PFnOdlq7qb3g+PIf/BQnZcB6PwnEHyiCV0cE5LgGfERqZgAb+SnHEVz05xIpzj3FMyDbTfNUaZnL2gMfsgNFB7/2eFOIlwbux2323S6OYqOiiWqVJwdIKD6l0WIJWb6ec1Z9nKU1gp0peiC3MK9r48XBnJ/sIfSiOc1axbYFxWJKFNHI0YfhIi0p2B4HWgHlb0L2PRSpVsSrOOeBPfql/uvL7mAKSnbkYIC6zQkN8wQUxuMtC9U5+O2uc+JlseRMx/57zAdecR8rGt/ZwGsF9UNodSPsGyUldcFI5H2RKWJ30T88ZfAsHREgouA68TX0DN3xcEu5K6/56qIlfLMM2wv+wEus=;28rONsqCJj0yZdqUkJqEaA=="
 ---

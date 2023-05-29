@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-04-17-asda-will-start-delivering-food-to-customers-across-london-using-driverless-cars.md",
+      "title": "Asda will start delivering food to customers across London using driverless cars",
+      "excerpt": "In partnership with Wayve, a developer of artificial intelligence for driverless vehicles, the year-long trial will enable Asda to autonomously deliver orders to a catchment area of more than ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html",
+      "originalUrl": "https://www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2023/04/17/15/69917209-0-image-a-2_1681740960641.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html",
+      "cdnAmpWebUrl": "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-11981683/amp/Asda-start-delivering-food-customers-London-using-driverless-cars.html",
+      "publishedDateTime": "2023-04-17T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This is Money",
+        "domain": "thisismoney.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-17-baidu-launches-assisted-driving-system.md",
+      "title": "Baidu launches assisted driving system",
+      "excerpt": "Rob Chu, Baidu Corporate Vice President and GM of Apollo Self Driving explained, \"Whoever can take the lead in providing consumers with a safe and secure intelligent driving experience will likely have a head start in the second half of the intelligent car ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.investing.com/news/stock-market-news/baidu-launches-assisted-driving-system-432SI-2986404",
+      "originalUrl": "https://uk.investing.com/news/stock-market-news/baidu-launches-assisted-driving-system-432SI-2986404",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/news/LYNXMPEB4J07X_L.jpg",
+          "width": 728,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-17T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-17-asda-introduces-self-driving-delivery-vans-in-ai-first.md",
       "title": "Asda introduces self driving delivery vans in AI first",
       "excerpt": "Asda is launching the scheme in partnership with Wayve, a developer of artificial intelligence for self driving cars ... This trend appears here to stay, and bringing driverless vehicles into the fold could be the next step forward,” Myron Jobson ...",
@@ -1238,101 +1324,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-10-dashcam-footage-shows-driverless-cars-clogging-san-francisco.md",
-      "title": "Dashcam Footage Shows Driverless Cars Clogging San Francisco",
-      "excerpt": "The 54, brought to a halt by an autonomous vehicle belonging to Alphabet’s Waymo, isn’t the only bus that’s run into trouble with San Francisco’s growing crowd of driverless vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/",
-      "originalUrl": "https://www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6430be5f3715dbabc0357bd9/master/pass/Autonomous-Vehicles-Are-Clogging-San-Francisco-Business-1390904981.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/amp",
-      "publishedDateTime": "2023-04-10T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-10-apple-sued-by-baidu-over-fake-ernie-chatbot-apps-on-app-store.md",
-      "title": "Apple sued by Baidu over fake Ernie chatbot apps on App Store",
-      "excerpt": "Chinese tech giant Baidu has sued Apple and a number of app developers over fake versions of its AI chatbot that have appeared in the App Store. Baidu unveiled its own version of OpenAI’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/apple-sued-by-baidu-over-fake-ernie-ai-apps-on-app-store/",
-      "originalUrl": "https://www.digitaltrends.com/mobile/apple-sued-by-baidu-over-fake-ernie-ai-apps-on-app-store/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-09T23:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

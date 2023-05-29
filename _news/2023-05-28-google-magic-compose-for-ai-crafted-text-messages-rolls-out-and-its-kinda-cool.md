@@ -52,6 +52,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Google's Magic Compose is available now, bringing generative AI to Messages"
+    excerpt: "Want to compose a text message but don't know what to say? Google's Magic Compose can let AI handle it, rolling out now to Messages in beta."
+    publishedDateTime: 2023-05-25T17:01:00Z
+    webUrl: "https://www.androidauthority.com/google-magic-compose-3329382/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 65
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/05/Google-IO-2023-magic-compose.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Empowering the future generation: The advantages of educating students in the new age era of AI"
     excerpt: "Artificial intelligence (AI) has become a revolutionary force in the quickly changing world of technology, altering various sectors and our daily lives. As AI develops, it is more crucial than ever to get the"
     publishedDateTime: 2023-05-27T09:53:00Z
@@ -63,6 +77,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 27
+  - title: "Google’s encryption-breaking Magic Compose AI proves iPhone shouldn’t support RCS messaging"
+    excerpt: "Google Messages' Magic Compose AI feature breaks encryption. Here's why that's bad news for Apple bringing RCS to iMessage on iPhone."
+    publishedDateTime: 2023-05-29T12:43:00Z
+    webUrl: "https://bgr.com/tech/googles-encryption-breaking-magic-compose-ai-proves-iphone-shouldnt-support-rcs-messaging/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 7
 
 secured: "j1R5kOMIUZRa8EJ99UNOhlUIDgFd8m10ASlDYCnSomhfdQ8L1DcFQ6Exxf0J7ekCKkB8GsND+dE0PsJ9vyYstlHOcppajhntUwEc1sl4fIFonXa/EoZKVP7VgXMWWMykiziDM4/OW6aaisZyxVWUHk5S092faOIgpzg3YuoeiW5RfLRMKWGe0RXZb3YUUkG89NroxKyjwJTkYWqquVcTSOiBSg6uPWYYsPGoV/5PCqjMP+Hu+FIiCHHxxW67kVsG/wG+7oAbLhyEPUM9cCr12UwhFDzh5I1ZlvoePfEubalPaPXetOFdbQoznqi5ZvTkuTxRzPTIvPGTlRA0FS8sLYNj9UyqylLbVajbyoyVsUM=;D5BcLtLmPmprtd1K7TC7aA=="
 ---

@@ -2,6 +2,358 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-25-nvidia-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge.md",
+      "title": "Nvidia is poised to join $1 trillion club thanks to AI-driven surge",
+      "excerpt": "Thanks to a seemingly insatiable demand for AI chips, Nvidia saw its stock soar nearly 30% after yesterday's financial results.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/",
+      "originalUrl": "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-77.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/amp/",
+      "publishedDateTime": "2023-05-25T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-disrupting-the-disruptive-disrupterswith-ai.md",
+      "title": "Disrupting The Disruptive Disrupters—With AI",
+      "excerpt": "Competitors large & small, legacy & new, are taking note and fueling the disruptive democratization of fintech. Even the U.S. Government wants to be a service provider",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/deandebiase/2023/05/25/disrupting-the-disruptive-disrupters-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/deandebiase/2023/05/25/disrupting-the-disruptive-disrupters-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646f719aafd87168d103a6f8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/deandebiase/2023/05/25/disrupting-the-disruptive-disrupters-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deandebiase/2023/05/25/disrupting-the-disruptive-disrupters-with-ai/amp/",
+      "publishedDateTime": "2023-05-25T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-replica-unveils-ai-powered-smart-npcs-for-unreal-engine.md",
+      "title": "Replica unveils AI-powered smart NPCs for Unreal Engine",
+      "excerpt": "Replica Studios is unveiling AI-powered smart NPCs for the Unreal Engine platform. Those NPCs can chat with players using OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/replica-unveils-ai-powered-smart-npcs-for-unreal-engine/",
+      "originalUrl": "https://venturebeat.com/games/replica-unveils-ai-powered-smart-npcs-for-unreal-engine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/replica-4.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 767,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/replica-unveils-ai-powered-smart-npcs-for-unreal-engine/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/replica-unveils-ai-powered-smart-npcs-for-unreal-engine/amp/",
+      "publishedDateTime": "2023-05-25T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-the-five-key-benefits-of-aiops-and-automation.md",
+      "title": "The five key benefits of AIOps and automation",
+      "excerpt": "How AIOps can help your IT staff move from a “break-fix” approach to one that’s more predictive and proactive.\nThe post The five key benefits of AIOps and automation appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-five-key-benefits-of-aiops-and-automation/",
+      "originalUrl": "https://www.ibm.com/blog/the-five-key-benefits-of-aiops-and-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T06:34:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-ai-chip-boom-sends-nvidias-stock-surging-after-whopper-of-a-quarter.md",
+      "title": "AI chip boom sends Nvidia’s stock surging after whopper of a quarter",
+      "excerpt": "Nvidia makes chips that power generative AI, a type of artificial intelligence that can create new content, such as text and images, in response to user prompts. That’s the kind of AI underlying ChatGPT, Google’s Bard, Dall-E and many of the other new ...",
+      "sourceUrl": null,
+      "webUrl": "https://us.cnn.com/2023/05/25/tech/nvidia-earnings-ai/index.html",
+      "originalUrl": "https://us.cnn.com/2023/05/25/tech/nvidia-earnings-ai/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 724,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230525080054-nvidia-2022-file.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/25/tech/nvidia-earnings-ai/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/25/tech/nvidia-earnings-ai/index.html",
+      "publishedDateTime": "2023-05-25T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution.md",
+      "title": "Rapid Advances In Artificial Intelligence And No Code Tools Are Enabling A Creative Revolution",
+      "excerpt": "The creative renaissance that is currently taking place on the internet is being driven by generative AI, Low- and No-Code tools and increases in digital literacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/",
+      "originalUrl": "https://www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645502e42d796d7ec61a40c2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/amp/",
+      "publishedDateTime": "2023-05-25T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-cohesity-forges-google-cloud-ai-downwards-to-data-layer.md",
+      "title": "Cohesity Forges Google Cloud AI ‘Downwards’ To Data Layer",
+      "excerpt": "The current renaissance of Artificial Intelligence (AI) and the Machine Learning (ML) processes that we are now developing and finessing is nothing short of ubiquitous.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/05/25/cohesity-forges-google-cloud-ai-downwards-to-data-layer/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/05/25/cohesity-forges-google-cloud-ai-downwards-to-data-layer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6468d673a3608cf0ba355c45/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 822,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/05/25/cohesity-forges-google-cloud-ai-downwards-to-data-layer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/05/25/cohesity-forges-google-cloud-ai-downwards-to-data-layer/amp/",
+      "publishedDateTime": "2023-05-25T04:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-will-ai-replace-lawyers.md",
       "title": "Will AI Replace Lawyers?",
       "excerpt": "This is not to say that lawyers' work won’t change—or even disappear. There will most likely be less administrative work and we will probably need fewer clerks. Lawyers will have to write less, read less, search less and, frankly, also think less. They will become hyper-augmented which might turn them into overqualified project managers.",
@@ -114,7 +466,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-changing-automation-testing-in-quality-assurance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -216,7 +568,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-ai-chatgpt-stock-market-news-semiconductor-chips-artificial-intelligence-2023-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -568,7 +920,7 @@
       "originalUrl": "https://www.wired.com/story/chatgpt-prompt-injection-attack-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 211,
+      "heat": 221,
       "tags": null,
       "images": [
         {
@@ -715,49 +1067,6 @@
         "AI",
         "AI in Finance",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-bank-fintech-collaboration-to-improve-financial-services.md",
-      "title": "Bank, fintech collaboration to improve financial services",
-      "excerpt": "A strategic partnership of banks, fintech and mobile financial services (MFS) could boost Bangladesh’s banking sector by delivering better, cheaper and more inclusive services, according to the top executives of some lenders in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886",
-      "originalUrl": "https://www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thedailystar.net/sites/default/files/uploads/2023/05/25/untitled_design_-_2023-05-25t114842.157.png",
-          "width": 750,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886?amp",
-      "publishedDateTime": "2023-05-24T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     },
     {
@@ -964,313 +1273,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-elon-musk-wants-to-challenge-google-and-microsoft-in-ai.md",
-      "title": "Elon Musk Wants to Challenge Google and Microsoft in AI",
-      "excerpt": "Elon Musk says it could involve different parts of his corporate empire, including Twitter, which he predicted could halt its losses as soon as next month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/elon-musk-wants-to-see-an-ai-rival-to-google-microsoft-a299e27f?mod=e2tw",
-      "originalUrl": "https://www.wsj.com/articles/elon-musk-wants-to-see-an-ai-rival-to-google-microsoft-a299e27f?mod=e2tw",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 364,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-787338/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T16:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-metas-ai-breakthrough-defying-user-tracking-policies-billions-await.md",
-      "title": "Meta's AI Breakthrough: Defying User Tracking Policies, Billions Await!",
-      "excerpt": "The Financial Times reported that Meta Platform (META) has been using AI to circumvent the impact of user tracking policies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jonmarkman/2023/05/24/metas-ai-breakthrough-defying-user-tracking-policies-billions-await/",
-      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2023/05/24/metas-ai-breakthrough-defying-user-tracking-policies-billions-await/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646e94a03689a199465f411d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2023/05/24/metas-ai-breakthrough-defying-user-tracking-policies-billions-await/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/05/24/metas-ai-breakthrough-defying-user-tracking-policies-billions-await/amp/",
-      "publishedDateTime": "2023-05-24T15:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-chatgpt-rival-google-bard-integrates-images-into-responses-ai-images-coming-soon.md",
-      "title": "ChatGPT Rival Google Bard Integrates Images Into Responses, AI Images Coming Soon",
-      "excerpt": "Google Bard, the search giant's generative artificial intelligence engine that competes with OpenAI's ChatGPT and Microsoft's Bing AI, has integrated images into queries, the company said in a blog post on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/chatgpt-rival-google-bard-integrates-images-into-responses/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/chatgpt-rival-google-bard-integrates-images-into-responses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/4ab10cbffbbc81f0592dd2e1c6e9afcf909b13ff/hub/2023/05/24/b8f751c9-21f8-4abc-b800-591c3f9685f5/gettyimages-1247375867.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-datastax-taps-thirdai-to-bring-generative-ai-to-its-database-offerings.md",
-      "title": "DataStax taps ThirdAI to bring generative AI to its database offerings",
-      "excerpt": "The partnership will see the Apache Cassandra-based database take advantage of ThirdAI’s Bolt technology to achieve better AI training performance on CPUs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3697708/datastax-taps-thirdai-to-bring-generative-ai-to-its-database-offerings.html",
-      "originalUrl": "https://www.infoworld.com/article/3697708/datastax-taps-thirdai-to-bring-generative-ai-to-its-database-offerings.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/04/21/11/user_reviews_data_tracking_monitoring_analytics_event_logging_analysis_threat_detection_by_laurence_dutton_gettyimages-1170687091_2400x1600-100855964-large-100925148-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3697708/datastax-taps-thirdai-to-bring-generative-ai-to-its-database-offerings.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3697708/datastax-taps-thirdai-to-bring-generative-ai-to-its-database-offerings.amp.html",
-      "publishedDateTime": "2023-05-24T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-the-hollywood-writers-strike-3-reasons-not-to-back-down-on-ai.md",
-      "title": "The Hollywood Writers’ Strike: 3 Reasons Not To Back Down On AI",
-      "excerpt": "There's no stopping the development of AI but there are ways to protect humans from being replaced by it. Here are three reasons Hollywood writers cannot afford to back down on the subject.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danafeldman/2023/05/24/the-hollywood-writers-strike-3-reasons-not-to-back-down-on-ai/",
-      "originalUrl": "https://www.forbes.com/sites/danafeldman/2023/05/24/the-hollywood-writers-strike-3-reasons-not-to-back-down-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646e6b9a8535057ada5f411d/0x0.jpg?format=jpg&crop=4800,2702,x0,y79,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danafeldman/2023/05/24/the-hollywood-writers-strike-3-reasons-not-to-back-down-on-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danafeldman/2023/05/24/the-hollywood-writers-strike-3-reasons-not-to-back-down-on-ai/amp/",
-      "publishedDateTime": "2023-05-24T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-former-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed.md",
-      "title": "Former Google CEO Warns AI Could Cause People To Be ‘Harmed Or Killed’",
-      "excerpt": "Eric Schmidt, who served as Google’s chief executive from 2001 to 2011, said artificial intelligence poses “existential risks.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tylerroush/2023/05/24/former-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed/",
-      "originalUrl": "https://www.forbes.com/sites/tylerroush/2023/05/24/former-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646e2c501dfd9a2eb25f411d/0x0.jpg?format=jpg&crop=3958,2226,x0,y98,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tylerroush/2023/05/24/former-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tylerroush/2023/05/24/former-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed/amp/",
-      "publishedDateTime": "2023-05-24T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

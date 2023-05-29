@@ -7,7 +7,7 @@ originalUrl: "https://www.moneycontrol.com/news/technology/microsoft-launches-fa
 webUrl: "https://www.moneycontrol.com/news/technology/microsoft-launches-fabric-a-new-integrated-platform-for-data-analytics-management-and-machine-learning-10659191.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 770
     height: 433
     isCached: true
-
-related:
-  - title: "Microsoft Unifies Data Management, Analytics, and ML Into ‘Fabric’"
-    excerpt: "Microsoft yesterday unveiled Microsoft Fabric, a new offering that unites its suite of data management, analytic, and machine learning tools into a single"
-    publishedDateTime: 2023-05-24T20:07:00Z
-    webUrl: "https://www.datanami.com/2023/05/24/microsoft-unifies-data-management-analytics-and-ml-into-fabric/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 56
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/05/MS-Fabric-Logo.png"
-        width: 821
-        height: 389
-        isCached: true
 
 secured: "Np3H7jVMRReNeVXGZjsdD2US1V64mKauqZbCr5dDDVo9vzyi0Ay4ceOzHB26LvN8Q63w3fgKI2Cxwno8YqnvEofCJ5eREYru7FypMKGmGXe6Ol7qjGww4xk77ZGykmQj2M3r8JNL92Rv2HiLplXm3xEfzg3TI8KZ1BDBL52IohSNkI641V/4FyD4fFd+RYYOlOBM4Pn1M/FHl97VqtrDKlUSqf1U5EPvOg4aBDZpLkwMmnzytHbZm0ZLrWEqMF/1OcwW86A21hvyFPU9OQLOahFrtbFGPhJqR4DPkBPMuauw+ONSzuPIPZFYgQngMc2ZBDRpUcrS6N4WHo5cdrYA8sn6aQZDg2yTHpx+Iksqv+bx6IBSJ6rTOy8KljaRyfiNh7rE4IySUiRR9sDtyzoY7+Z/xoRMFv0g7cnqIBKh8EnsCB8ysC5XyQQ1ZL7KSOlVW00fnrfhkrs+3/HSsPoDWDHLxjF//esYYrVYnOpamaie3O6zcvAZbs6RDjdzJbsKeJ/y0LU6T2WgceO1S9UbFQ==;O90YGKSGpVWahTPAtAjvKw=="
 ---

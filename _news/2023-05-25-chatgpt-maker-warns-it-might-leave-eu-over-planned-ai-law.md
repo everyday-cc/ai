@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT Rival Google Bard Integrates Images Into Responses, AI Images Coming Soon"
-    excerpt: "Google Bard, the search giant's generative artificial intelligence engine that competes with OpenAI's ChatGPT and Microsoft's Bing AI, has integrated images into queries, the company said in a blog post on Tuesday."
-    publishedDateTime: 2023-05-24T21:35:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/chatgpt-rival-google-bard-integrates-images-into-responses/"
+  - title: "JPMorgan’s plans for a ChatGPT-like investment service are just part of its larger AI ambitions"
+    excerpt: "JPMorgan Chase is developing a ChatGPT-like service to provide investment advice to customers, but it is a small part of its AI ambitions."
+    publishedDateTime: 2023-05-26T16:39:00Z
+    webUrl: "https://venturebeat.com/ai/jpmorgan-plans-for-a-chatgpt-like-investment-service-are-just-part-of-its-larger-ai-ambitions/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 62
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 59
     images:
-      - url: "https://www.cnet.com/a/img/resize/4ab10cbffbbc81f0592dd2e1c6e9afcf909b13ff/hub/2023/05/24/b8f751c9-21f8-4abc-b800-591c3f9685f5/gettyimages-1247375867.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/jp-morgan-file-gty-ml-200908_1599583350520_hpMain_16x9_992.jpeg?w=1200&strip=all"
+        width: 992
+        height: 558
         isCached: true
   - title: "ChatGPT: US lawyer admits using AI for case research"
     excerpt: "A New York lawyer is facing a court hearing of his own after his firm used AI tool ChatGPT for legal research. A judge said the court was faced with an \"unprecedented circumstance\" after a filing was found to reference example legal cases that did not exist."
@@ -49,6 +49,15 @@ related:
       name: BBC
       domain: bbc.com
     quality: 47
+  - title: "South Korea’s Naver to target foreign governments with latest ChatGPT-like AI model"
+    excerpt: "South Korea’s Naver to target foreign governments with latest ChatGPT-like AI model on linkedin (opens in a new window)"
+    publishedDateTime: 2023-05-28T04:01:00Z
+    webUrl: "https://www.ft.com/content/8c9a2842-ff01-46aa-a82b-1b46342264f6?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 11
 
 secured: "Ah3FYeTuQrj38W4H21gnVEcU1tJ1z27oP7R3pPp8fXmoH9dvEccn36GPmi9z8UrsijoWHtsBIzKPgQYz3skYTwVYE9KELmRL9yNyhttS4wTrFMzybLLc+vm2GttCkro4QivWoA+zc4IV+OsreIrtXdqGrZgfYV4xUayGMLTJ9f8V+ZdSqXIQRnJTlToBzYhQdNi7Cm6xlZoqGc6cIcZKmzg7m0GpcUm+7ZgmGfCr6Uz7Q2ZMww6x+3fHSkQMpcuH/pv5daCsBYKeP9e9P8Sl2Dqqe6I+zFrujT9xG1y2K3/7kqo4KICSMagoBoEfNfhDvom+65JK2WhA5CMa4dHduUunDwsBDdqJJckndcvUQ7U=;p+SyebOglMDibiGVPznpuQ=="
 ---

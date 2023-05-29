@@ -28,47 +28,68 @@ images:
     isCached: true
 
 related:
-  - title: "DataStax taps ThirdAI to bring generative AI to its database offerings"
-    excerpt: "The partnership will see the Apache Cassandra-based database take advantage of ThirdAI’s Bolt technology to achieve better AI training performance on CPUs."
-    publishedDateTime: 2023-05-24T21:05:00Z
-    webUrl: "https://www.infoworld.com/article/3697708/datastax-taps-thirdai-to-bring-generative-ai-to-its-database-offerings.html"
-    ampWebUrl: "https://www.infoworld.com/article/3697708/datastax-taps-thirdai-to-bring-generative-ai-to-its-database-offerings.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3697708/datastax-taps-thirdai-to-bring-generative-ai-to-its-database-offerings.amp.html"
+  - title: "Hands-on with Magic Compose, the AI-generating Messages tool"
+    excerpt: "I've had some time to play with an early version of Magic Compose, which uses AI to create texts in Messages. It's fun, but unreliable."
+    publishedDateTime: 2023-05-25T21:58:00Z
+    webUrl: "https://www.androidauthority.com/magic-compose-experience-3329552/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/04/21/11/user_reviews_data_tracking_monitoring_analytics_event_logging_analysis_threat_detection_by_laurence_dutton_gettyimages-1170687091_2400x1600-100855964-large-100925148-large.jpg?auto=webp&quality=85,70"
+      - url: "https://www.androidauthority.com/wp-content/uploads/2022/04/Google-Messages-SMS-stock-photo-9.jpg"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Artificial Intelligence To Estimate The Accuracy Of Data Explaining"
-    excerpt: "Despite their enormous size and power, today's artificial intelligence systems routinely fail to distinguish between hallucination and reality. Autonomous driving systems can fail to perceive pedestrians and emergency vehicles right in front of them,"
-    publishedDateTime: 2023-05-29T02:16:00Z
-    webUrl: "https://indiaeducationdiary.in/artificial-intelligence-to-estimate-the-accuracy-of-data-explaining/"
-    ampWebUrl: "https://indiaeducationdiary.in/artificial-intelligence-to-estimate-the-accuracy-of-data-explaining/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/artificial-intelligence-to-estimate-the-accuracy-of-data-explaining/"
+  - title: "Google's AI Magic Compose Beta Goes Live For Select Users"
+    excerpt: "Magic Compose can initiate a chat or rewrite a message with seven different tones and styles with the help of Google Bard. The beta is being rolled out for US-based premium Google One subscribers first."
+    publishedDateTime: 2023-05-28T16:37:00Z
+    webUrl: "https://www.pcmag.com/news/googles-ai-magic-compose-beta-goes-live-for-select-users"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 74
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
     images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2023/05/probabilistic-ai-00.jpg"
-        width: 900
-        height: 547
+      - url: "https://i.pcmag.com/imagery/articles/00YXyCobqmXmK47unUvQkkC-1.fit_lim.size_1200x630.v1685291531.png"
+        width: 1120
+        height: 630
         isCached: true
-  - title: "DataStax and ThirdAI Announce Partnership to Democratize Access to Advanced AI Tech"
-    excerpt: "DataStax today announced a partnership with AI startup ThirdAI to make sophisticated large language models (LLMs) and"
-    publishedDateTime: 2023-05-24T20:00:00Z
-    webUrl: "https://www.datanami.com/this-just-in/datastax-and-thirdai-announce-partnership-to-democratize-access-to-advanced-ai-tech/"
+  - title: "Google Magic Compose For AI Crafted Text Messages Rolls Out And It’s Kinda Cool"
+    excerpt: "Now that AI tech like OpenAI’s ChatGPT has taken the world by storm, companies like Apple are trying to play catch-up and build in that type of tech. This also includes Google, who talked a lot about AI at Google IO 2023."
+    publishedDateTime: 2023-05-28T16:54:00Z
+    webUrl: "https://hothardware.com/news/ai-overlords-helping-compose-text-messages-with-google"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 13
+      name: HotHardware
+      domain: hothardware.com
+    quality: 33
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/61719/content/ai-overlords-helping-compose-text-messages-with-google.jpg"
+        width: 708
+        height: 398
+        isCached: true
+  - title: "Empowering the future generation: The advantages of educating students in the new age era of AI"
+    excerpt: "Artificial intelligence (AI) has become a revolutionary force in the quickly changing world of technology, altering various sectors and our daily lives. As AI develops, it is more crucial than ever to get the"
+    publishedDateTime: 2023-05-27T09:53:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 27
+  - title: "Google’s encryption-breaking Magic Compose AI proves iPhone shouldn’t support RCS messaging"
+    excerpt: "Google Messages' Magic Compose AI feature breaks encryption. Here's why that's bad news for Apple bringing RCS to iMessage on iPhone."
+    publishedDateTime: 2023-05-29T12:43:00Z
+    webUrl: "https://bgr.com/tech/googles-encryption-breaking-magic-compose-ai-proves-iphone-shouldnt-support-rcs-messaging/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 7
 
 secured: "mOXAw60oEJ8hSVZpQGPVXtqO/KwqoxEcBRDXMmL1KHv6gUBMWpNg50zIRsJtMMaLOH0VBFbE444Sk8qYxlknold7L7sViEUL846IrYGF16dTQaPyar8uEIarjGrbhtzLv9QA7TGq1s++30zsBXsiyobL1XbhtAyBxDuWqVCQ45QW+vQt7GXxv721nxWx/7m8sLfMrYGg/4FqbThxoY/9nzvMfSDw+vTy+y0+VIaBKZQQbJR0IlOl8e0O2iWaZI1ddQHGh5RbY4quzi3WJYdOsUVFeFjjs2ITUOidlPWJlch29626rAGfCX2oDk+1EHmkFYRKv5AKLjiRihHYRAEOAX47MrC+Hz0xI16MTRnlze4=;426h3XqMLsKTeqiJLwMlHg=="
 ---

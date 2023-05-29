@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/games/nvidia-ceo-highlights-chips-for-the-
 webUrl: "https://venturebeat.com/games/nvidia-ceo-highlights-chips-for-the-historic-wave-of-generative-ai-at-computex/"
 type: article
 quality: 80
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -84,6 +84,15 @@ related:
       name: Guru3D.com
       domain: guru3d.com
     quality: 11
+  - title: "NVIDIA ACE Injects Generative AI Into Game NPCs Enabling Hyper-Realistic Conversations"
+    excerpt: "NVIDIA is showing off an AI model foundry service that leverages AI-powered natural language interactions to make NPCs feel more intelligent."
+    publishedDateTime: 2023-05-29T12:56:00Z
+    webUrl: "https://hothardware.com/news/nvidia-ace-generative-ai-game-npcs-realistic-conversations"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 9
 
 secured: "ThZPlApl42fs2zB3GcVq7sTzSNllvVNWxO1ib5koGQ5lGI5XbMvZ71+2ojeIN1FJ144pVNkTCIB4qBuwhopdlzDyij1bsY6KRbHJ5HEak+x9KztWR/7OpHw7nSIbdjHG+l5v3r7kd22s5jRuF5l9yVrHP1pIsMz1rCWBhAG13lPC01jDnGKl/nF/suN9lN3YKIFG1hApnBs9di3yDAHqL02k5tI/zL1+eSHF/b8XNBzn8mIgWAydK7SqMIEnHCwMY2j1VQ+ji0sTzU+DyhLcqjRK9YK08eMhlwtzVJDwC5vQWZwzDJuDmBGOH8QLYjfRUwKsa+t4wU+YSsPMbi88er6A1uAiTtcBU+GgDFqRzFqKHr000ub+IjBTVF/melCa7Q9hjJ7bHkhUwkFX+/BZQa7Y40RENshRxixhpP791nMuS2HVGb+qjQwO9WExVdDsYm4oBaVSUJlqaFpINa3CW4W/XZQXumz78DB2O7QbaGog6JDgHMAvJM+zrH95U4Rvt8nFhbYkGEu/KmOIPR/JhQ==;/LerDN5ZySwmkpWfHc/q1g=="
 ---

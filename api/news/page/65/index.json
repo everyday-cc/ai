@@ -2,6 +2,334 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2023-04-18-19-ways-ai-may-soon-revolutionize-the-healthcare-industry.md",
+      "title": "19 Ways AI May Soon Revolutionize The Healthcare Industry",
+      "excerpt": "From managing administrative tasks to analyzing big data to help diagnose disease, AI may soon be enhancing and accelerating cutting-edge patient care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/18/19-ways-ai-may-soon-revolutionize-the-healthcare-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/18/19-ways-ai-may-soon-revolutionize-the-healthcare-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/643d9fea07da9e511fae41f3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/18/19-ways-ai-may-soon-revolutionize-the-healthcare-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/18/19-ways-ai-may-soon-revolutionize-the-healthcare-industry/amp/",
+      "publishedDateTime": "2023-04-18T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-nexcobot-collaborates-with-ecosystem-partners-to-build-first-x86-functional-safety-robot-control-solution.md",
+      "title": "NexCOBOT collaborates with ecosystem partners to build first x86 functional safety robot control solution",
+      "excerpt": "NexCOBOT and its ecosystem partners, will announce the launch of a new functional safety robot control solution in Hannover Messe 2023. NexCOBOT's PC-based robot control platform-SCB100 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20230418PR200/press-release.html&chid=9",
+      "originalUrl": "https://www.digitimes.com/news/a20230418PR200/press-release.html&chid=9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20230418pr200_files/2_2b.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-how-modern-natural-language-processing-is-improving-healthcare.md",
+      "title": "How Modern Natural Language Processing Is Improving Healthcare",
+      "excerpt": "This is where natural language processing (NLP) can be of immense value. NLP software can read and understand unstructured clinical notes, extract data from them in a structured format ...",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2023/04/how-modern-natural-language-processing-is-improving-healthcare/",
+      "originalUrl": "https://medcitynews.com/2023/04/how-modern-natural-language-processing-is-improving-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2019/03/GettyImages-905433516.jpg",
+          "width": 724,
+          "height": 483,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-this-startup-that-automates-sme-invoices-with-ai-just-raised-8-million-check-out-the-10-slide-pitch-deck-triver-used-to-raise-the-fresh-funds.md",
+      "title": "This startup that automates SME invoices with AI just raised $8 million. Check out the 10-slide pitch deck Triver used to raise the fresh funds.",
+      "excerpt": "Deliveroo investor Stride.vc were among the backers of the funding round as London-based Triver emerged from stealth mode.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/triver-london-fintech-startup-raises-8-million-from-deliveroo-backer-2023-4",
+      "originalUrl": "https://www.businessinsider.com/triver-london-fintech-startup-raises-8-million-from-deliveroo-backer-2023-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/643d4c8a56f0dc00198960d5?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T02:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-ai-powered-robot-software-market-seeking-excellent-growth-with-datarobot-neurala-intel-uipath.md",
+      "title": "AI-Powered Robot Software Market Seeking Excellent Growth with DataRobot, Neurala, Intel, UiPath",
+      "excerpt": "The AI-Powered Robot Software Market report 2023-2030 Industries are expected to develop at the greatest rate of CAGR",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-powered-robot-software-market-seeking-excellent-growth-with-datarobot-neurala-intel-uipath-2023-04-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-powered-robot-software-market-seeking-excellent-growth-with-datarobot-neurala-intel-uipath-2023-04-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-can-music-practice-avert-cognitive-decline.md",
+      "title": "Can Music Practice Avert Cognitive Decline?",
+      "excerpt": "A team from UNIGE, HES-SO Geneva and EPFL shows the positive impacts of musical activities to counteract brain ageing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/neuroscience/news/can-music-practice-avert-cognitive-decline-372225",
+      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/can-music-practice-avert-cognitive-decline-372225",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/372225/can-music-practice-avert-cognitive-decline-372225-640x360.jpg?cb=20230418",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-18-aws-wants-to-help-you-build-generative-ai-tools.md",
+      "title": "AWS wants to help you build generative AI tools",
+      "excerpt": "AWS announced several innovations last week that will make it easy and practical for its customers to use generative AI in their businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2023/04/now-aws-wants-to-help-you-build-generative-ai-tools-as-well/",
+      "originalUrl": "https://techwireasia.com/2023/04/now-aws-wants-to-help-you-build-generative-ai-tools-as-well/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techwireasia.com/wp-content/uploads/2023/04/000_33896B8-scaled.jpg",
+          "width": 2560,
+          "height": 1706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T01:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-18-singapore-headquartered-finbotsai-secures-first-client-in-australia.md",
       "title": "Singapore-headquartered finbots.ai secures first client in Australia",
       "excerpt": "Accel-backed finbots.ai, a Singapore headquartered B2B SaaS FinTech today announced signing Argenic - a growth stage Australian FinTech providing a suite of financial solutions for SMEs - as their latest client.",
@@ -790,362 +1118,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-overcome-the-machine-learning-cold-start-challenge-in-fraud-detection-using-amazon-fraud-detector.md",
-      "title": "Overcome the machine learning cold start challenge in fraud detection using Amazon Fraud Detector",
-      "excerpt": "As more businesses increase their online presence to serve their customers better, new fraud patterns are constantly emerging. In today’s ever-evolving digital landscape, where fraudsters are becoming more sophisticated in their tactics, detecting and preventing such fraudulent activities has become",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/overcome-the-machine-learning-cold-start-challenge-in-fraud-detection-using-amazon-fraud-detector/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/overcome-the-machine-learning-cold-start-challenge-in-fraud-detection-using-amazon-fraud-detector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/17/machine-learning-cold-start-fraud-detector.jpg",
-          "width": 1151,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T13:16:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-connect-amazon-emr-and-rstudio-on-amazon-sagemaker.md",
-      "title": "Connect Amazon EMR and RStudio on Amazon SageMaker",
-      "excerpt": "RStudio on Amazon SageMaker is the industry’s first fully managed RStudio Workbench integrated development environment (IDE) in the cloud. You can quickly launch the familiar RStudio IDE and dial up and down the underlying compute resources without interrupting your work, making it easy to build machine",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-emr-and-rstudio-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/connect-amazon-emr-and-rstudio-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/04/17/connect-amazon-emr-r-studio.jpg",
-          "width": 1151,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T13:11:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-ai-anxiety-the-workers-who-fear-losing-their-jobs-to-artificial-intelligence.md",
-      "title": "AI anxiety: The workers who fear losing their jobs to artificial intelligence",
-      "excerpt": "Many workers worry AI is coming for their jobs. Can we get past the fear and find a silver lining? Claire has worked as a PR at a major consulting firm, based in London, for six years. The 34-year-old enjoys her job and earns a comfortable salary,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/worklife/article/20230418-ai-anxiety-artificial-intelligence-replace-jobs",
-      "originalUrl": "https://www.bbc.com/worklife/article/20230418-ai-anxiety-artificial-intelligence-replace-jobs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ychef.files.bbci.co.uk/live/624x351/p0fh6sjs.jpg",
-          "width": 624,
-          "height": 351,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-bing-could-cost-google-23-billion-in-search-revenue.md",
-      "title": "Bing Could Cost Google $23 Billion In Search Revenue",
-      "excerpt": "Google has been worried about A.I.-powered competitors since OpenAI demonstrated a chatbot called ChatGPT in November.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petercohan/2023/04/17/bing-could-cost-google-23-billion-in-search-revenue/",
-      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/04/17/bing-could-cost-google-23-billion-in-search-revenue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/643d53f7884efb12b73bf6f9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 732,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/04/17/bing-could-cost-google-23-billion-in-search-revenue/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/04/17/bing-could-cost-google-23-billion-in-search-revenue/amp/",
-      "publishedDateTime": "2023-04-17T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-18-insights-into-the-robotics-in-entertainment-market-growth-and-future-prospects-with-projected-cagr-rate-10-for-period-2023-2030.md",
-      "title": "Insights into the Robotics in Entertainment Market Growth and Future Prospects with projected CAGR rate 10% for period 2023-2030",
-      "excerpt": "The global Robotics in Entertainment market size is projected to reach multi million by 2030, in comparision to 2021, at unexpected CAGR during 2023-2030 (Ask for Sample Report). As a consultant or industry expert in the field of robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/insights-into-the-robotics-in-entertainment-market-growth-and-future-prospects-with-projected-cagr-rate-10-for-period-2023-2030-2023-04-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/insights-into-the-robotics-in-entertainment-market-growth-and-future-prospects-with-projected-cagr-rate-10-for-period-2023-2030-2023-04-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-17T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-ai-regulatory-efforts-creep-forward-while-board-oversight-lags.md",
-      "title": "AI Regulatory Efforts Creep Forward While Board Oversight Lags",
-      "excerpt": "As the debate continues on the appropriate role for government and industry regulation of AI development, corporate leaders should step up to develop the standards necessary to monitor the application of AI within their own companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaelperegrine/2023/04/17/ai-regulatory-efforts-creep-forward-while-board-oversight-lags/",
-      "originalUrl": "https://www.forbes.com/sites/michaelperegrine/2023/04/17/ai-regulatory-efforts-creep-forward-while-board-oversight-lags/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/643d563851ee8eed2ea008ac/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaelperegrine/2023/04/17/ai-regulatory-efforts-creep-forward-while-board-oversight-lags/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelperegrine/2023/04/17/ai-regulatory-efforts-creep-forward-while-board-oversight-lags/amp/",
-      "publishedDateTime": "2023-04-17T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-best-deals-at-amazon-this-week.md",
-      "title": "Best deals at Amazon this week",
-      "excerpt": "After a long period of being out of stock, the Sony PlayStation 5 is available at Amazon -- at a nice discount. Normally priced at $560, Amazon is offering the God of War PS5 bundle for just $510 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-deals-at-amazon-in-april-2023-04-17/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-deals-at-amazon-in-april-2023-04-17/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/06/14b22de6-0846-496b-b54b-3e4448f63c19/thumbnail/1200x630/c9f1e029eed34ff4c2762d162c5f6742/apple-airpods-pro-2-hero.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-deals-at-amazon-in-april-2023-04-17/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-deals-at-amazon-in-april-2023-04-17/",
-      "publishedDateTime": "2023-04-17T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

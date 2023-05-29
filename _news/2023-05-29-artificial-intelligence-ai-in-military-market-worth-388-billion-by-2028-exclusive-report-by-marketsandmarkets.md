@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Artificial Intelligence (AI) in Military Market worth $38.8 billion by 2028 - Exclusive Report by MarketsandMarkets"
-excerpt: "The Artificial Intelligence (AI) in Military Market is estimated to be USD 9.2 billion in 2023 and is projected to reach USD 38.8 billion by 2028, at a"
-publishedDateTime: 2023-05-29T09:50:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-05/59202235-artificial-intelligence-ai-in-military-market-worth-dollar-38-8-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2023-05/59202235-artificial-intelligence-ai-in-military-market-worth-dollar-38-8-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm"
+title: "Artificial Intelligence (AI) in Military Market worth $38.8 billion by 2028 - Exclusive Report by MarketsandMarkets™"
+excerpt: "The Artificial Intelligence (AI) in Military Market is estimated to be USD 9.2 billion in 2023 and is projected to reach USD 38.8 billion by 2028, at a CAGR of 33.3% during the forecast period according to a new report by MarketsandMarkets™."
+publishedDateTime: 2023-05-29T11:42:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/05/29/9822189.htm"
+webUrl: "https://it.tmcnet.com/news/2023/05/29/9822189.htm"
 type: article
-quality: 12
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
@@ -36,6 +36,6 @@ related:
         height: 1043
         isCached: true
 
-secured: "NhXzAN3CPCpyV1hzAg6vNJ3fd1rzvg9ghoByWy0izhs7tksr5v0Js+tGWu1ze27LYMqL2nPNl/6E2caOQgJEMZbFeLNEyptrzBnctFvKd0VKGd3ZavvxasCSVVBwYUxKTGGcFV7RYwf+ku3XNAnSfouh/4QXcEESLLHOfAPBi5MVl2sy3+X1T66ZWOz6V8A+WXuYpRW0Osx5QvQbpl6m/hhTLYkT6wnbBZ7kCEqNJPyOTZcJ9CxPv/NUWKuL2PwYyY4xdu46zSpqc9JV05AOTDf84Tq29h/32V9OFl8tjk9beb+/FFYua4v+8sdb+ZRK5njzHXysqSK6lO9hShBMG8Lv0JuqKZUI17kTU5Dj9bk=;7JgoRc4n+8iQlU8HGoklsw=="
+secured: "+2PWobwp7ktZOffQEbHLn1j3MjqpPNi79GWQDeV7Qe9lP1OPWy/bddr87t1QIKnDmkZTIzZmnXF/qWVIBbehvzoesD/wYn9Iwg6gtFgDKy695Se7GcwUFf6/vgsPZ+8iAG/zvdRYt8nQ5WJUmklqyGnrRBPaJ8nkEI1W2CVwztTDxjJ+9wNny8mfI3XOLU3m1hVWnHg37Fl0vvMIkX4zOp71g73OETKQhhoM1oB3JP6CXPCfvAMkxgAAfhFsZ13BQuv14CtDcmtMbIsayLswbUIS4CoWQmQQ7MQNDW2obpBCfHxv/X0bxPlZrtgNG1O25M2OMN7dnSI5tAO4WZPrPAuf8JRPLQRUbRivEaG5B6L6Y9jw4F3/mLiLyuqMYLtuXIpksKWh+iuuH0xfGYWD8PZs8WqiBM0r8EvBy6zLbzbT3J/t1yEp5ON8OaamxnqN62uvLrkKV61b+zMJPcLGnDZ99njcrtT5Aioy3trrgUM/1MsKZnm8N9DhMTWBCTSCFhrw9cuja/Kd6tmgnixsjA==;QGDt4f1dLhch3BqJmJBG0Q=="
 ---
 

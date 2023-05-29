@@ -22,19 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "ChatGPT Rival Google Bard Integrates Images Into Responses, AI Images Coming Soon"
-    excerpt: "Google Bard, the search giant's generative artificial intelligence engine that competes with OpenAI's ChatGPT and Microsoft's Bing AI, has integrated images into queries, the company said in a blog post on Tuesday."
-    publishedDateTime: 2023-05-24T21:35:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/chatgpt-rival-google-bard-integrates-images-into-responses/"
+  - title: "JPMorgan’s plans for a ChatGPT-like investment service are just part of its larger AI ambitions"
+    excerpt: "JPMorgan Chase is developing a ChatGPT-like service to provide investment advice to customers, but it is a small part of its AI ambitions."
+    publishedDateTime: 2023-05-26T16:39:00Z
+    webUrl: "https://venturebeat.com/ai/jpmorgan-plans-for-a-chatgpt-like-investment-service-are-just-part-of-its-larger-ai-ambitions/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 62
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 59
     images:
-      - url: "https://www.cnet.com/a/img/resize/4ab10cbffbbc81f0592dd2e1c6e9afcf909b13ff/hub/2023/05/24/b8f751c9-21f8-4abc-b800-591c3f9685f5/gettyimages-1247375867.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/jp-morgan-file-gty-ml-200908_1599583350520_hpMain_16x9_992.jpeg?w=1200&strip=all"
+        width: 992
+        height: 558
         isCached: true
   - title: "ChatGPT-maker warns it might leave EU over planned AI law"
     excerpt: "He also met Prime Minister Rishi Sunak and the heads of AI companies DeepMind and Anthropic to discuss the technology's risks - from disinformation to national security and even \""
@@ -52,6 +52,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "South Korea’s Naver to target foreign governments with latest ChatGPT-like AI model"
+    excerpt: "South Korea’s Naver to target foreign governments with latest ChatGPT-like AI model on linkedin (opens in a new window)"
+    publishedDateTime: 2023-05-28T04:01:00Z
+    webUrl: "https://www.ft.com/content/8c9a2842-ff01-46aa-a82b-1b46342264f6?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 11
 
 secured: "m61/slFO79PEr5InCJKGo62Nr7Z5CXshktOTd0QmONHdPlxn41tB8/HPCu7zuEaXLjr95dSIVayKmBxSOl39DDbbawy12o+MZkB2B54JslMeuBCDc0f0pgAI98Ut3pCNGJfTlA+u7Jq7g9llYUhP2aS97RUDa0C5qnz5v7EViq419xknKQgbYQxJkB49lFWZ4CnGQEMA4LJ7AsqEFA5PVKABcP46vHB1F8Jh3NAjY2L/S5drny3fAT40c399UZ1ZPRDaOUSKICKmY2ar4gelxTeUyL1klU/k592pVPLL9k79TvkjaVeOUDyB6z89LncZ6dJw/C+6SqWbjjqw3vQvqVfcTZuuvXc0ktaBM5vgunVFrrQANAGWl/Hu7Sy+eDKec7/l+JTzw9E5r5/HlfIepLYvO0xwP8bx3GGXVonUSE0EuEVNNTeLTn41pm3xB8wkjSXa8gW65I+0v0RPdhrYV/iuAYJsqNhZMfQtXSIsJA7SM56GihMWA+Pmd65IEvhkh6ufRxWErIYtZ7ktGZUeIw==;eLNYijLDmCAr/O9ThPGbNQ=="
 ---

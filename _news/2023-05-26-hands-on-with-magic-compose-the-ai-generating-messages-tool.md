@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/magic-compose-experience-3329552/
 webUrl: "https://www.androidauthority.com/magic-compose-experience-3329552/"
 type: article
 quality: 67
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Google's Magic Compose is available now, bringing generative AI to Messages"
+    excerpt: "Want to compose a text message but don't know what to say? Google's Magic Compose can let AI handle it, rolling out now to Messages in beta."
+    publishedDateTime: 2023-05-25T17:01:00Z
+    webUrl: "https://www.androidauthority.com/google-magic-compose-3329382/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 65
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/05/Google-IO-2023-magic-compose.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google Magic Compose For AI Crafted Text Messages Rolls Out And It’s Kinda Cool"
     excerpt: "Now that AI tech like OpenAI’s ChatGPT has taken the world by storm, companies like Apple are trying to play catch-up and build in that type of tech. This also includes Google, who talked a lot about AI at Google IO 2023."
     publishedDateTime: 2023-05-28T16:54:00Z
@@ -67,6 +81,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 27
+  - title: "Google’s encryption-breaking Magic Compose AI proves iPhone shouldn’t support RCS messaging"
+    excerpt: "Google Messages' Magic Compose AI feature breaks encryption. Here's why that's bad news for Apple bringing RCS to iMessage on iPhone."
+    publishedDateTime: 2023-05-29T12:43:00Z
+    webUrl: "https://bgr.com/tech/googles-encryption-breaking-magic-compose-ai-proves-iphone-shouldnt-support-rcs-messaging/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 7
 
 secured: "8cM2/Zrz0bbelsBraPI/mr0yF5/tgCV+drmA578RSByHFBc5U2Ch4odokDSRn1m8/4NfgwtGuAadmfjUSN4AcpmEVFYFN/yauymWPO8pDRhV7Frz9hX9OcsL6wWFBX9wMu3A2measnuHFmEUYeY1Nx6RZFwfm4EskWR9veIl8x3431ZNwRvu08jI6jmW2s/79Ud27mmYribonHcq2vzxz42eQrIQhDmGQkDph0AaiiZW3jf4/ONDhlw/02Pp0iSx0GRvZLD1qoE0I1yjYYacKBmZdBr5Oh6WfKPY9lv8FEnsPq+fVTa92rQplYr0Lf4CSV7KaUrPjbdKPwMgYQJR5GQidqlT7lRgJ5b164KVVuUKTzO2Y5pAuGbP0RECwodn38MkDhF2tPpfY+H7bzUrNgAy8SUMGiGrmW3jG5AQKs7ut719sau7DDUxxknMWnbFNS4dddGJpCDWq5BgfMWLvqMl9U2fDAc2jwRbxlZK7/unVEGp76EkSXDqzL6Jv3dt/ubM/X8Il0T2fHpojwaZ9w==;eCgPybnCFCKRpo955hahVw=="
 ---

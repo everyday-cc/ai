@@ -80,6 +80,15 @@ related:
       name: Guru3D.com
       domain: guru3d.com
     quality: 11
+  - title: "NVIDIA ACE Injects Generative AI Into Game NPCs Enabling Hyper-Realistic Conversations"
+    excerpt: "NVIDIA is showing off an AI model foundry service that leverages AI-powered natural language interactions to make NPCs feel more intelligent."
+    publishedDateTime: 2023-05-29T12:56:00Z
+    webUrl: "https://hothardware.com/news/nvidia-ace-generative-ai-game-npcs-realistic-conversations"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 9
 
 secured: "KTCpHt3Cr4ekEm4vaoQVSa3C3VQNnDzH1judbXQw4FlOG08p2uGrAl9L/VFOvgEF3tHA1eVSWK1MmSiAzsUCAAkK4Enlvr3JAyGHUs452tUaCPKLOiFuv7v598PAigQ8xwInRPNG8mprb+Qw6uKXomNt8CHfDud22HQnJycsYtJtXnqV984rf6tmZggd0Qh6X8gGl1XKykWUWEXhgV6ropouoPl+9Ig7anaC3Z7wt0QPvDaXm9GyXBWp+MQS8/G3LQZsxvb0mR4RinVdUGiwf7nSvZRqBaUeeOpoDjjGt7dRhzkB9SLk4ThRRb6WyUSzWlquqLlUA9t1Qy6lXG1UlCHLPlW7Sb3S15uZIr6iKMs=;025WqEpEb4UU5FPwN1/P0Q=="
 ---

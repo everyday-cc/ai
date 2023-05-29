@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-red-hat-openshift-on-aws-rosa-acceler
 webUrl: "https://www.ibm.com/blog/how-red-hat-openshift-on-aws-rosa-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Artificial intelligence innovation: Leading companies in speed profile estimation for the automotive industry"
+    excerpt: "According to GlobalData’s Technology Foresights, which plots the S-curve for the automotive industry using innovation intensity models built on over 619,000 patents, there are 290+ innovation areas that will shape the future of the industry."
+    publishedDateTime: 2023-05-29T12:24:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-speed-profile-estimation-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 0
 
 secured: "8L3cZR0EeB94qK/Dchw9lcxsf1K8UiF7EhGDa23kbqXYTqzya/pG3qskGXBx3fbiRVYASP82S71rfWvlfMDYhtrt+DRsygvP26PX8bjfNuFlEQV2mNFyS55BKcTytkGTlzBwDrBsLGzD93CkpOiCVgnm6w7W0xxwerediK6ZI09duLaz7scQk3OePiE3SSL76uUkfF6q2pXiAsHJckLnnh9xY5W8+HeSL3UZcgtImkJrGlpStBvPrNU68owdQJmoewfQ0A3kgIld8MptHe5I26Fh0u+iHxanw2Z1hT5Pk2ly7O12rscxhG+MB+KCegUHgycr5TjZIOSP4DsX+TofMcdJMpUIIQHtU+9zrN2y0sU=;BNnXt8gB5rwfV5KuqxLrGg=="
 ---

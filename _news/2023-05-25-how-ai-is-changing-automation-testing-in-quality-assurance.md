@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-changing-automation-testing-in-quality-assurance/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
         width: 740
         height: 416
         isCached: true
-  - title: "How AI Can Be Used in Investing"
-    excerpt: "Another way AI is used in investing is for sentiment analysis. Markets move according to a variety of factors, such as macroeconomic data, earnings reports, geopolitical issues, and interest rates, as well as market sentiment."
-    publishedDateTime: 2023-05-24T19:49:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-investing/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
-    images:
-      - url: "https://m.foolcdn.com/media/dubs/images/original_imageshttpsg.foolcdn.comeditorialimag.width-600_IFPc1qZ.jpg"
-        width: 600
-        height: 399
-        isCached: true
   - title: "New Life Hacks? Generative AI is Changing and Streamlining Life at Home"
     excerpt: "While some of the cartoon’s more fantastical inventions may still be light years away, many are already here, like vacuuming robots ... the tech startup that launched ChatGPT, reached 100 million users at an unprecedented rate, pushing AI to the ..."
     publishedDateTime: 2023-05-25T02:59:00Z
@@ -90,15 +76,6 @@ related:
         width: 619
         height: 377
         isCached: true
-  - title: "Welocalize Beta Testing Enhanced Workflow for Managing Expansion of Multilingual AI-Generated Content"
-    excerpt: "Content supply chains will be profoundly disrupted as corporations adopt generative AI technology to create marketing, product, and other forms of content. For over two decades, leading language services provider Welocalize has used artificial intelligence (AI),"
-    publishedDateTime: 2023-05-24T20:46:00Z
-    webUrl: "https://www.ciodive.com/press-release/20230524-welocalize-beta-testing-enhanced-workflow-for-managing-expansion-of-multili-1/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 4
 
 secured: "fVGqMaxzbjurI7o76tGEAosqsQlHAErkcrfvG0MnxCCT1WvieQB8raOf6vGq7ApdE4NRrMCDo7L2ePvKuNYamVft9L5iFgDny4UaXRL3CE8oSqNKAtCu4jbxG8so7pzOZOMnKA8xCaIAfFvHDSzBsra45cqaEr22WZRJ+bZO6RpGWf6LGlEr3VEnl0Vghd8QmyjOyPcJVj9c1j60tZKoRm9DB2aaBULe4pWHFj9r/cGYh1Pr6L42vew9FDBgf72BAwjdVMokspB81RNspgL0BuVak1L4pajDgHB4ikz8K8j/qAwBa3oG4pBOVv2YghUh3klfH8Ok3gdTsrQ4xixTA+NtMi/6tSfmBXmVeYLDza8=;CT7LjgdgFw6gBkRDBWQaBA=="
 ---

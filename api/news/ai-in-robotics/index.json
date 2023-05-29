@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-29-drone-nerds-to-feature-uav-platforms-at-energy-drone-and-robotics-summit.md",
+      "title": "Drone Nerds to Feature UAV Platforms at Energy Drone and Robotics Summit",
+      "excerpt": "Drone Nerds, an enterprise drone solutions provider, will attend the 7th Annual Energy Drone and Robotics Summit in Houston, Texas. The Energy Drone & Robotics",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/g32614299/drone-nerds-to-feature-uav-platforms-at-energy-drone-and-robotics-summit",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/g32614299/drone-nerds-to-feature-uav-platforms-at-energy-drone-and-robotics-summit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32614299",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32614299",
+      "publishedDateTime": "2023-05-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-27-how-should-ceos-embrace-ai-or-will-ai-assume-ceo-roles.md",
       "title": "How Should CEO’s Embrace AI Or Will AI Assume CEO Roles?",
       "excerpt": "This article discusses the emergence of CEO AI robots/cobots as well as the leadership governance role of CEOs in leading AI investments in their organizations. Examples of companies using CEO robots are identified.",
@@ -1361,49 +1404,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-robot-lawyer-with-a-64-success-rate-you-can-now-hire-ai-lawyers-in-the-us.md",
-      "title": "Robot Lawyer With A 64% Success Rate, You Can Now Hire AI Lawyers In The U.S.",
-      "excerpt": "In this report, we take a closer look at how AI is already disrupting the legal sector. Is this a start of an era where we could witness robot lawyers? Watch as Business Today TV’s Rachna Dhanrajani explores.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstoday.in/bt-tv/video/robot-lawyer-with-a-64-success-rate-you-can-now-hire-ai-lawyers-in-the-us-381617-2023-05-17",
-      "originalUrl": "https://www.businesstoday.in/bt-tv/video/robot-lawyer-with-a-64-success-rate-you-can-now-hire-ai-lawyers-in-the-us-381617-2023-05-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/businesstoday/images/video/202305/thumb_web_46-sixteen_nine.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesstoday.in/amp/bt-tv/video/robot-lawyer-with-a-64-success-rate-you-can-now-hire-ai-lawyers-in-the-us-381617-2023-05-17",
-      "cdnAmpWebUrl": "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/bt-tv/video/robot-lawyer-with-a-64-success-rate-you-can-now-hire-ai-lawyers-in-the-us-381617-2023-05-17",
-      "publishedDateTime": "2023-05-16T22:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Today",
-        "domain": "businesstoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

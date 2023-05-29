@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-29-amex-is-experimenting-cautiously-with-generative-ai-for-fintech.md",
+      "title": "AmEx is experimenting cautiously with generative AI for fintech",
+      "excerpt": "AmEx Digital Labs is currently exploring ways LLMs could be used “behind the scenes” to analyze the feedback and inquiries customers provide.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/amex-is-experimenting-cautiously-with-generative-ai-for-fintech/",
+      "originalUrl": "https://venturebeat.com/ai/amex-is-experimenting-cautiously-with-generative-ai-for-fintech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/blue.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-29T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-jpmorgans-plans-for-a-chatgpt-like-investment-service-are-just-part-of-its-larger-ai-ambitions.md",
+      "title": "JPMorgan’s plans for a ChatGPT-like investment service are just part of its larger AI ambitions",
+      "excerpt": "JPMorgan Chase is developing a ChatGPT-like service to provide investment advice to customers, but it is a small part of its AI ambitions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/jpmorgan-plans-for-a-chatgpt-like-investment-service-are-just-part-of-its-larger-ai-ambitions/",
+      "originalUrl": "https://venturebeat.com/ai/jpmorgan-plans-for-a-chatgpt-like-investment-service-are-just-part-of-its-larger-ai-ambitions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/jp-morgan-file-gty-ml-200908_1599583350520_hpMain_16x9_992.jpeg?w=1200&strip=all",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-26T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-disrupting-the-disruptive-disrupterswith-ai.md",
       "title": "Disrupting The Disruptive Disrupters—With AI",
       "excerpt": "Competitors large & small, legacy & new, are taking note and fueling the disruptive democratization of fintech. Even the U.S. Government wants to be a service provider",
@@ -104,49 +209,6 @@
         "AI",
         "AI in Finance",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-bank-fintech-collaboration-to-improve-financial-services.md",
-      "title": "Bank, fintech collaboration to improve financial services",
-      "excerpt": "A strategic partnership of banks, fintech and mobile financial services (MFS) could boost Bangladesh’s banking sector by delivering better, cheaper and more inclusive services, according to the top executives of some lenders in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886",
-      "originalUrl": "https://www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thedailystar.net/sites/default/files/uploads/2023/05/25/untitled_design_-_2023-05-25t114842.157.png",
-          "width": 750,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886?amp",
-      "publishedDateTime": "2023-05-24T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     },
     {
@@ -1334,60 +1396,6 @@
         "name": "Hindustan Times Tech",
         "domain": "hindustantimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Finance",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg.md",
-      "title": "Microsoft helping finance AMD's expansion into AI chips- Bloomberg",
-      "excerpt": "Microsoft Corp is working with Advanced Micro Devices Inc on the chipmaker's expansion into artificial intelligence processors, Bloomberg News reported on Thursday, citing people with knowledge of the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL",
-      "originalUrl": "https://www.reuters.com/article/amd-ai-microsoft/update-1-microsoft-helping-finance-amds-expansion-into-ai-chips-bloomberg-idUSL4N3714JL",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 408,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/xOORmMGGhmHxjWnnPlcl8EiZ6VY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IYT3OK5U4BOMFPVKOXIRRT4YYM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

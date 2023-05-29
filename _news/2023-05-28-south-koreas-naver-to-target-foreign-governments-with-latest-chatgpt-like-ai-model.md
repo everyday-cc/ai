@@ -32,6 +32,31 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "ChatGPT-maker warns it might leave EU over planned AI law"
+    excerpt: "He also met Prime Minister Rishi Sunak and the heads of AI companies DeepMind and Anthropic to discuss the technology's risks - from disinformation to national security and even \""
+    publishedDateTime: 2023-05-25T13:11:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-65708114?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-65708114.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65708114.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/96F6/production/_129864683_gettyimages-1490689874.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "ChatGPT: US lawyer admits using AI for case research"
+    excerpt: "A New York lawyer is facing a court hearing of his own after his firm used AI tool ChatGPT for legal research. A judge said the court was faced with an \"unprecedented circumstance\" after a filing was found to reference example legal cases that did not exist."
+    publishedDateTime: 2023-05-27T22:20:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-65735769"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 47
 
 secured: "tKUM20WW8Y090yqjI2Tq46NA/rNz3fBLqTDUEN0lL1p3ksgguR5/45G4AWPCO8jH1t4Gzq6fM+dZ08XumADBWUPpLtLmiFgU+HaLFf8DHPFr3eSTGTh/1v9wgMRANHwh27NvEJTjF4cNCO6ijJlRgk8dQ9++Kx9TIH0MqO03etJ+bGmAS0q2FsAoWzT2MFxn+QdAPxaoPvR/5TLjHZNqDq2Uns4ud99GqmgqQ/Z5a6MEpieH6oT/oKjrsCNg+BTIxNcZzPk4J6iiHc83fzSWY0AuM/hJu5QWFK4Vr1n38xckp8cqNCFkowuZI83TfsPovo0R31cQ3omDZmamMspkXWF7f29t7wll8bq9DGGIK7HNKFKj3v1StwNNYpWQaDYlqLFB5Jc99fTkXYvxv47tnKk5Hxw5hFBLAgCNdJnEfQgToYKDogXetNkk6mGqs8phiCpCxHc/AWVDHK4ffG2c3frOQF4td2kyyOsSd438Cnl48PxZo8aNGo3hxx1yjilsXYbFupSejOkqORIyW+FbIA==;GRjXUJb+wyiaRtKPiCRYrA=="
 ---

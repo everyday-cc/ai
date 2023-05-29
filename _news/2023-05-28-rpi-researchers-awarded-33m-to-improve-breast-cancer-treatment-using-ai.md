@@ -39,20 +39,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "UW Madison researcher uses AI to improve brain cancer diagnoses, treatment"
-    excerpt: "Current imaging technology can't tell the difference between a cancerous tumor and non-cancerous lesion, according to the center. Because of this, surgeons need to take a biopsy of the tissue"
-    publishedDateTime: 2023-05-24T21:10:00Z
-    webUrl: "https://www.wkow.com/news/uw-madison-researcher-uses-ai-to-improve-brain-cancer-diagnoses-treatment/article_cbfdcbba-fa7f-11ed-a802-6f7a1303660c.html"
-    type: article
-    provider:
-      name: WKOW
-      domain: wkow.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wkow.com/content/tncms/assets/v3/editorial/9/1f/91f3e330-fa81-11ed-88c1-5b81340df8ea/646e8e5074d59.image.png?crop=1230%2C646%2C0%2C22&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "f7Y4MojoRcETewnLpv5WvIuFvtlY4ZiwHW0YgOTWbPxfwL0SxZMd37DK9W2vPLrn9RlBPuhme0CzryOzcsFbIPYoHhYOGG0ShJ9O2a/KA3+aMe3OSzMyA/3wsnk+RnSariZqZOHQ8Xz98cvte3XGzDiwuGItBaXZw4bCXFKbDYyd+j0Nx+8W7OXe55OBXy4rqR50y8EfP1WgyBbJzGQd5AmsAuZz5agEeJ6UaDRWka/qMz112fmSoAngs+0dl7W8mlM2gxsZ/WIAu+rztphA9+mYrheRBfnCsULfJbEnDuwVoYhx8Hkm+jQdhWX1gu91f8gwUJBOjwvQ8xCfZi9THeQtzkbtvELRTucE8ukiSWBkMSRjs04PRekjC1y1LJpK2qxfOER7Z0yhpXCVkSknmCzCMKn/BeP9Z3BkuRjnimwz0KMjZm8pcRvcwqIOuhqG3LuGKo4/xVMl6gCn2JgP0yXQtOXmaU2UjB+QjlqhaGFjl0dLF/2pYeZG0v6NwecH8Zoo5Ve3DV0vTDteAPVnOA==;Ya5XgKV9fk2WqqQ/boYxSA=="
 ---

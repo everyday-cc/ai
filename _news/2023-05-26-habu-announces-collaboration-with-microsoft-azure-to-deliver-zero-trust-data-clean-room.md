@@ -217,20 +217,6 @@ related:
         width: 593
         height: 290
         isCached: true
-  - title: "Top 10 Azure Cloud Announcements at Microsoft Build 2023 Dev Conference"
-    excerpt: "Here's a summary of what's new -- specifically the top 10 Azure products and services that reached general availability or will soon -- at the event."
-    publishedDateTime: 2023-05-24T20:50:00Z
-    webUrl: "https://virtualizationreview.com/articles/2023/05/24/azure-build.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 54
-    images:
-      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2017/0917vcrm_F1NewMicrosoft.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft calls for a new U.S. agency and licensing for AI"
     excerpt: "Smith compared AI to the printing press, elevators and food safety for ... His call for a new agency echoes proposals from OpenAI, the startup behind the wildly popular ChatGPT, which received a $10 billion investment from Microsoft."
     publishedDateTime: 2023-05-25T17:37:00Z

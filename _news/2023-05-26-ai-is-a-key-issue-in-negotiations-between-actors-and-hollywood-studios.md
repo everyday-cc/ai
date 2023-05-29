@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Hollywood Writers’ Strike: 3 Reasons Not To Back Down On AI"
-    excerpt: "There's no stopping the development of AI but there are ways to protect humans from being replaced by it. Here are three reasons Hollywood writers cannot afford to back down on the subject."
-    publishedDateTime: 2023-05-24T20:11:00Z
-    webUrl: "https://www.forbes.com/sites/danafeldman/2023/05/24/the-hollywood-writers-strike-3-reasons-not-to-back-down-on-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/danafeldman/2023/05/24/the-hollywood-writers-strike-3-reasons-not-to-back-down-on-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danafeldman/2023/05/24/the-hollywood-writers-strike-3-reasons-not-to-back-down-on-ai/amp/"
+  - title: "‘Those who hate AI are insecure’: inside Hollywood’s battle over artificial intelligence"
+    excerpt: "We are at a cocktail party pretending we know what we’re talking about,’ an editor said. But it’s clear the role of AI in cinema is dividing the industry"
+    publishedDateTime: 2023-05-26T09:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2023/may/26/hollywood-writers-strike-artificial-intelligence"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2023/may/26/hollywood-writers-strike-artificial-intelligence"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/may/26/hollywood-writers-strike-artificial-intelligence"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Guardian
+      domain: theguardian.com
+    quality: 63
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646e6b9a8535057ada5f411d/0x0.jpg?format=jpg&crop=4800,2702,x0,y79,safe&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://i.guim.co.uk/img/media/a1117f2506c71808556571615b97231f817c3306/0_0_5497_3300/master/5497.jpg?width=620&quality=85&auto=format&fit=max&s=54264d8679d2b7d8f9311375cdccdd5b"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "GvWi63mJhqb25qNZG4vMcSkodZXljfFM0RrpekhnrDyQNEUdyvjPdFZUmgSSvXuorz2LuhoSpuvE+XkfG8s9/tE3LIeCAvVvfBMw3VGOmr1lqQslOEYjN3iV4qQuP0zlFTRkvFqoz5yuzbukCRhkUZXsPAqaGaQi/psv/zPlVFf9J6BTKl67hb6NtOZbZHVHGrXcgOsYxXpkOubLfq7mgrTcdmxwoM1EEPhdrZl5glUWHW9WKa0VevAf2sF5SyUI2t0l11HOqkvkgEdeMPuAJHCCWCg32mkihjBxtYoDGRg9owvLvRjUp7wum0CM8sHoMTydc8LpP1So+h0uN7ibvLWM7d5ihUY5mTTfpF1gH5tAyuBRtP4ZDEd5ndEYRS2aB+Hch/KLqZA7Y6IOno+bCjrrPB3Qfm8W/+phJHA2/ZbEZWWxV1jafUo8CoZFrfGbXdRrjiPEDrOo+f5hHBtHTFBfZ1qZgnRl30FALazgwdQtVb7bLJ6VjZ0sl42WKQe+NeQKMUWuvQsUxvp0Exgudg==;swFyUNfY24zdKAhGc6yk6w=="

@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "How AI Can Be Used in Investing"
-    excerpt: "Another way AI is used in investing is for sentiment analysis. Markets move according to a variety of factors, such as macroeconomic data, earnings reports, geopolitical issues, and interest rates, as well as market sentiment."
-    publishedDateTime: 2023-05-24T19:49:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-investing/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
-    images:
-      - url: "https://m.foolcdn.com/media/dubs/images/original_imageshttpsg.foolcdn.comeditorialimag.width-600_IFPc1qZ.jpg"
-        width: 600
-        height: 399
-        isCached: true
   - title: "New Life Hacks? Generative AI is Changing and Streamlining Life at Home"
     excerpt: "While some of the cartoon’s more fantastical inventions may still be light years away, many are already here, like vacuuming robots ... the tech startup that launched ChatGPT, reached 100 million users at an unprecedented rate, pushing AI to the ..."
     publishedDateTime: 2023-05-25T02:59:00Z
@@ -88,15 +74,6 @@ related:
         width: 619
         height: 377
         isCached: true
-  - title: "Welocalize Beta Testing Enhanced Workflow for Managing Expansion of Multilingual AI-Generated Content"
-    excerpt: "Content supply chains will be profoundly disrupted as corporations adopt generative AI technology to create marketing, product, and other forms of content. For over two decades, leading language services provider Welocalize has used artificial intelligence (AI),"
-    publishedDateTime: 2023-05-24T20:46:00Z
-    webUrl: "https://www.ciodive.com/press-release/20230524-welocalize-beta-testing-enhanced-workflow-for-managing-expansion-of-multili-1/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 4
 
 secured: "MX1JJF4DpEHqD27XKFpvfjLLjxKIcOzUnZrfs36+ixuk2oNr10hybmdgQOCYWgc6VBJLqubhae+oZkrTX1HKXMOvNzfTCyq2T/DGNPRAoNIj1H+oeJoPKgXf2NZDCUgrIeTGOCDwq/mqhIzVPnhjbVvTltBNIEk+rYCVFdw6/PYBMtDsphIQgGjc8OFD6i/HVB6ZwXAActekjFKMg3UE324O++K8s/5S4Fxnu/LT6ZzIUVcV8jHrM8eVeZMQuPc+b5gHt+/qWDZUkTV7pIqJaK8Ma4Ct1rDZLbRmRDJt2xThgM70mWuZzVeeUTA5+KqkXQpsOSH1/LyAlHq+zKISA4HJwdRxJcJtWFMjpyOSHLrV9YAxcKJXIFJ2lY2ZFm+Bpm/mU1RjuT50f4NN8pVOCEjYXsPWzhXw1a+Ddz1SFaasZghaXsoPImqYsrFf2LAmgIr+iF3P9XCisoEEOkKqkBdgGED0BxKmbHXFNYZS3O7pQvKftBzS09PiydFcy475hQRITWjYLSFhE9YI1QKrCg==;fW6F4kR2WiLNQE/8S1iyxA=="
 ---

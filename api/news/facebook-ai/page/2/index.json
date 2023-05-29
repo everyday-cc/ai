@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-01-metas-ai-is-partially-trained-on-breitbart-and-russia-today-study-finds.md",
+      "title": "Meta's AI Is Partially Trained on Breitbart and Russia Today, Study Finds",
+      "excerpt": "AI is sophisticated, but it’s not really intelligent ... language Wikipedia and other web documents. According to the research paper released alongside LLaMA, 15% of its pre-training data ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/ai-bard-google-facebook-trained-on-breitbart-rt-1850352405",
+      "originalUrl": "https://gizmodo.com/ai-bard-google-facebook-trained-on-breitbart-rt-1850352405",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/275d7e1f8b71cbb3d8ce748ccbcef684.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-30T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-yann-le-cun-director-at-meta-the-very-idea-of-wanting-to-slow-down-ai-research-is-akin-to-a-new-form-of-obscurantism.md",
       "title": "Yann Le Cun, director at Meta: 'The very idea of wanting to slow down AI research is akin to a new form of obscurantism'",
       "excerpt": "There, he created the FAIR (Facebook Artificial Intelligence Research) research lab. The author of Quand la machine apprend (\"When the Machine Learns\") was awarded the 2018 Turing Award ...",
@@ -1400,49 +1452,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-ai-desperately-needs-global-oversight.md",
-      "title": "AI Desperately Needs Global Oversight",
-      "excerpt": "This is not a group for research alone ... to clarify that the Facebook Oversight Board is funded by Meta through an independent trust. Rumman Chowdhury is a Responsible AI Fellow at the Berkman ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-desperately-needs-global-oversight/",
-      "originalUrl": "https://www.wired.com/story/ai-desperately-needs-global-oversight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T01:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

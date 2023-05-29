@@ -79,6 +79,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "NVIDIA ACE Injects Generative AI Into Game NPCs Enabling Hyper-Realistic Conversations"
+    excerpt: "NVIDIA is showing off an AI model foundry service that leverages AI-powered natural language interactions to make NPCs feel more intelligent."
+    publishedDateTime: 2023-05-29T12:56:00Z
+    webUrl: "https://hothardware.com/news/nvidia-ace-generative-ai-game-npcs-realistic-conversations"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 9
 
 secured: "4mWu/j+wCUAETpz/kT+1KsKadqlE/fKHcDkfGxB5jViL31v3lRqKKlt4lcJ7bP2SAFVbyZbugXAYHL8VS4Zc3OueVLZE0UI1yaN3Nuz595jPfcUAwcl8Fpx7NhYw3OUq33gvT5FglmchzNUO7kA9lMK040YvdmVWlauRBrHnTTqXC0kj54CVe4JYXJKUMnLKTTFAw8LMftstzBe4Op0lx1ViRYeIqAV7g39MVFyOCLgzk8duKqoTYZqHwM1SNhMwqlv7DmWvUVe9QBylLc2P/6PuzE1K2jm+BlsdIA9yN1c8bfdjJaju1TkM3S9AIyqeMOWXDk1qrJXDUDiiPknEQI2/avmJrM7Ir5iqLNvc5wg=;9LLTgE7JUPibZKSWgkJalg=="
 ---

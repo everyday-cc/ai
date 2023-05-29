@@ -49,22 +49,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Snowflake acquires Neeva to add generative AI-based search to Data Cloud"
-    excerpt: "Neeva, which uses large language models to offer an AI-based search experience, is latest company to be picked up in Snowflake's acquisition spree."
-    publishedDateTime: 2023-05-24T21:16:00Z
-    webUrl: "https://www.infoworld.com/article/3697709/snowflake-acquires-neeva-to-add-generative-ai-based-search-to-data-cloud.html"
-    ampWebUrl: "https://www.infoworld.com/article/3697709/snowflake-acquires-neeva-to-add-generative-ai-based-search-to-data-cloud.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3697709/snowflake-acquires-neeva-to-add-generative-ai-based-search-to-data-cloud.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 86
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2020/02/07/15/merger-100830660-large.jpg?auto=webp&quality=85,70"
-        width: 849
-        height: 565
-        isCached: true
   - title: "Google starts opening up access to its new generative AI capabilities in Search"
     excerpt: "Google announced today that it's starting to open up access to new generative AI capabilities in Search after teasing them at I/O."
     publishedDateTime: 2023-05-25T20:52:00Z
@@ -138,22 +122,6 @@ related:
       - url: "https://taskandpurpose.com/uploads/2023/05/11/subtler.png?auto=webp"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Police hope artificial intelligence can help solve 1991 Cape May County cold case"
-    excerpt: "Investigators are hoping new technology will help them solve a cold case from the 1990s. The Middle Township Police Department and Cape May Prosecutor's Office will deploy to use artificial intelligence to investigate the case of Mark Himebaugh,"
-    publishedDateTime: 2023-05-24T20:54:00Z
-    webUrl: "https://www.cbsnews.com/philadelphia/news/mark-himebaugh-cold-case-ai-cape-may-county-crime/"
-    ampWebUrl: "https://www.cbsnews.com/amp/philadelphia/news/mark-himebaugh-cold-case-ai-cape-may-county-crime/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/philadelphia/news/mark-himebaugh-cold-case-ai-cape-may-county-crime/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 52
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2012/01/11/dde823a1-f578-45f7-abff-f050dfd47d60/thumbnail/1200x630/3e87e8129866d929cf19c3f7e61b2b08/mark-himebaugh.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "15 Surprising Ways Industries May Soon Leverage Generative AI"
     excerpt: "There’s more to generative AI than writing press blurbs, test questions and memos—indeed, there’s much more to generative AI than writing, period."

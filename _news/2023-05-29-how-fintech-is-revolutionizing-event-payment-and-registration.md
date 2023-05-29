@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AmEx is experimenting cautiously with generative AI for fintech"
+    excerpt: "AmEx Digital Labs is currently exploring ways LLMs could be used “behind the scenes” to analyze the feedback and inquiries customers provide."
+    publishedDateTime: 2023-05-29T14:50:00Z
+    webUrl: "https://venturebeat.com/ai/amex-is-experimenting-cautiously-with-generative-ai-for-fintech/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/blue.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Bank, fintech collaboration to improve financial services"
     excerpt: "A strategic partnership of banks, fintech and mobile financial services (MFS) could boost Bangladesh’s banking sector by delivering better, cheaper and more inclusive services, according to the top executives of some lenders in the country."
     publishedDateTime: 2023-05-25T05:00:00Z
@@ -41,22 +55,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Qatar to hold 2nd edition of Fintech Finance Technologies Conference"
-    excerpt: "The State of Qatar will convene the 2nd edition of Fintech Finance Technologies Conference on May 31, with the participation of several international bodies, banks,"
-    publishedDateTime: 2023-05-26T20:02:00Z
-    webUrl: "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference"
-    ampWebUrl: "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference/amp"
-    cdnAmpWebUrl: "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference/amp"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 59
-    images:
-      - url: "https://www.gulf-times.com/gulftimes/uploads/images/2023/05/26/34940.jpg"
-        width: 1000
-        height: 559
-        isCached: true
   - title: "BM Fintech Signs Mou With Centre For AI Innovation Global"
     excerpt: "BM Fintech - Bait Al Mashura Finance Consultations and CEAI (Centre for AI Innovation) - MyFinB have signed a memo"
     publishedDateTime: 2023-05-29T07:04:00Z
@@ -71,29 +69,15 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "5 questions with Dave CEO Jason Wilk on the fintech’s in-app moneymaking feature"
-    excerpt: "Making money from surveys isn’t some Craigslist scam. It’s a fintech feature — and Wilk said it's made members $1 million since December."
-    publishedDateTime: 2023-05-24T21:59:00Z
-    webUrl: "https://www.bankingdive.com/news/5-questions-dave-ceo-jason-wilk-fintech-surveys-feature/651214/"
+  - title: "Intuit launches lab for employees to experiment with generative AI, will share lessons at VB Transform"
+    excerpt: "Intuit is poised to harness the power of generative AI; its chief data officer is set to speak at VentureBeat's VB Transform 2023."
+    publishedDateTime: 2023-05-25T16:10:00Z
+    webUrl: "https://venturebeat.com/ai/intuit-launches-lab-employees-experiment-generative-ai-will-share-lessons-vb-transform/"
     type: article
     provider:
-      name: bankingdive
-      domain: bankingdive.com
-    quality: 19
-    images:
-      - url: "https://www.bankingdive.com/imgproxy/0j2Z6qf8P7Fh6aKOIK7jHLNY142naTxSUjjn5jAaFiU/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0RhdmVfU3BlbmRpbmdfcGljXzIuanBn.jpg"
-        width: 770
-        height: 435
-        isCached: true
-  - title: "AI’s pioneering influence on fintech"
-    excerpt: "Jennifer Fuller, US Financial Services Lead at PA Consulting, explains how AI tools are reshaping the fintech landscape for financial inclusivity."
-    publishedDateTime: 2023-05-24T19:17:00Z
-    webUrl: "https://www.paconsulting.com/newsroom/cmswire-ais-pioneering-influence-on-fintech-24-may-2023"
-    type: article
-    provider:
-      name: PA Consulting Group
-      domain: paconsulting.com
-    quality: 19
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 31
   - title: "SEA fintech Mocasa fosters financial inclusion thru AI-powered credit assessment"
     excerpt: "The Philippines lags behind its Southeast Asian neighbors when it comes to financial inclusion. About 78% of the country remains unbanked"
     publishedDateTime: 2023-05-25T12:23:00Z
@@ -103,29 +87,6 @@ related:
       name: manilastandard
       domain: manilastandard.net
     quality: 14
-  - title: "LIBF India joins Fintech Festival India as Knowledge Partner to empower and upskill the banking and finance professionals"
-    excerpt: "The London Institute of Banking & Finance India enters the Indian market with the aim to collaborate with corporates, universities and colleges to empower and upskill banking and finance professionals."
-    publishedDateTime: 2023-05-24T22:38:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230524/4077172.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 9
-  - title: "Invoice Factoring Market Size Worth $6,004.70 Billion By 2032 - Rising Fintech Solution Adoption Rate Among Smes"
-    excerpt: "Their economies are fast transitioning from agricultural to manufacturing and export-oriented economies, which has promoted the expansion of invoice factoring in the area. The Asia Pacific region is also home to a significant number of rising economies,"
-    publishedDateTime: 2023-05-26T01:12:00Z
-    webUrl: "https://menafn.com/1106319617/Invoice-Factoring-Market-Size-Worth-600470-Billion-By-2032-Rising-Fintech-Solution-Adoption-Rate-Among-Smes"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 3
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?575688"
-        width: 375
-        height: 249
-        isCached: true
 
 secured: "gkjFovG+JeAofxEoRcSsSeO8JjhpUDe9xS4BpDGR/8Oe2CtiuOvfVKvdcSiZCwTF4fux9KAdnnDyKzeErMxemS8lKqP/yA61ihzxgGccDWwIHs7+G1WyMXhPKnplVV8XtDEom2EaWmecf6SQgECOj68X2ALXTPrgr3MIi9XE4WEKLq8DsxaCCXfHEK/XFhK0thNkYwmWWV5s0Ydy1bZw/Hs4mAWLLNCvAuaZq31uvI/1g/HbxW63OcrCAPCY39JqERu0/NwiiXL1KTsmGkDtAUkbnVeBDyj7NfNdYjNxm4z349UYiP2BdernHDb5RO174Gk3wNIw4ILbjhk9qkH5GBpDNvjBmDZKRM/+ZaYCSx2i59YjVYuXy+GB2zjlHJYGj61aPPYsxzYxTMD8iIlb8w1YHXQttAUHPilDCYHqT+4YxNUUx0GVyf1XLzAPLDErAh9CtMOlM+MRDrSmju1CqzL3w4G9iFv2M7/haeK0D2ae/KsoTBXP5iusVeUfklhuNFXvZVCF+Nwz70rh0cdKSg==;XO1gfJfMpGizKOd3wKe0sA=="
 ---

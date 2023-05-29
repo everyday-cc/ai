@@ -162,6 +162,15 @@ related:
         width: 1920
         height: 1200
         isCached: true
+  - title: "Lawyers Getting Tripped Up By Generative AI Such As ChatGPT But Who Really Is To Blame, Asks AI Ethics And AI Law"
+    excerpt: "A recent legal case has seemingly gotten entangled in the use of generative AI by lawyers for one side that have landed in hot water. Lessons for everyone arise."
+    publishedDateTime: 2023-05-29T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/29/lawyers-getting-tripped-up-by-generative-ai-such-as-chatgpt-but-who-really-is-to-blame-asks-ai-ethics-and-ai-law/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 43
   - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
     publishedDateTime: 2023-05-26T17:30:00Z

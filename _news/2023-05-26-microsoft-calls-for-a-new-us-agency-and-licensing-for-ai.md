@@ -219,20 +219,6 @@ related:
         width: 593
         height: 290
         isCached: true
-  - title: "Top 10 Azure Cloud Announcements at Microsoft Build 2023 Dev Conference"
-    excerpt: "Here's a summary of what's new -- specifically the top 10 Azure products and services that reached general availability or will soon -- at the event."
-    publishedDateTime: 2023-05-24T20:50:00Z
-    webUrl: "https://virtualizationreview.com/articles/2023/05/24/azure-build.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 54
-    images:
-      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2017/0917vcrm_F1NewMicrosoft.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft Build - the past, present and future of ChatGPT on show as Microsoft's 'Mosaic moment' takes center stage"
     excerpt: "That was thecandid confession from the Microsoft CEO about ChatGPT during his keynote address to the firm’s Build developer conference, an event that should leave no-one in any doubt that this is now an AI company."
     publishedDateTime: 2023-05-25T11:09:00Z

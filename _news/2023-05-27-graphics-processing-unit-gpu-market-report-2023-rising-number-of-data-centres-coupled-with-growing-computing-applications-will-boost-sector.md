@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Global Automated Machine Learning (AutoML) Market Report 2023: Increasing Need for Accurate Fraud Detection Drives Growth"
-    excerpt: "Market by Offering (Solutions & Services), Application (Data Processing, Model Selection, Hyperparameter Optimization & Tuning, Feature Engineering, Model Ensembling), Vertical and Region - Global Forecast to 2028\" report has been added to  ResearchAndMarkets."
-    publishedDateTime: 2023-05-24T22:39:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/24/9820837.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
   - title: "Global Digital Talent Acquisition Market Report 2023: Growing Adoption Of Video Interview And Cognitive Technologies Boosts Sector"
     excerpt: "The \"global digital talent acquisition market by training (external, internal), certification (ai developers, cloud computing & security, data management), industry - cumulative impact of high inflation - forecast 2023-2030\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2023-05-26T09:52:00Z
