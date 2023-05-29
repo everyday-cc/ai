@@ -110,6 +110,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "NVIDIA ACE for Games uses AI to let you interact and talk with NPCs"
+    excerpt: "The NVIDIA Avatar Cloud Engine (ACE) will let you strike up a conversation with a character in an RPG, and it's all thanks to AI. And some RTX to boot."
+    publishedDateTime: 2023-05-29T09:27:00Z
+    webUrl: "https://www.tweaktown.com/news/91631/nvidia-ace-for-games-uses-ai-to-let-you-interact-and-talk-with-npcs/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 37
+    images:
+      - url: "https://static.tweaktown.com/news/9/1/91631_01_nvidia-ace-for-games-will-let-you-interact-and-talk-with-npcs-your-voice_full.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Nvidia, On Its Way to $1 Trillion Market Value, Just Confirmed That AI Hype Is Real"
     excerpt: "Nvidia CEO Jensen Huang said generative AI is now becoming \"the primary workload of most of the world's data centers generating information\"."
     publishedDateTime: 2023-05-25T15:46:00Z

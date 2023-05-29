@@ -84,22 +84,6 @@ related:
         width: 1200
         height: 796
         isCached: true
-  - title: "Infosys launches Topaz, an AI-first solution to accelerate business value through generative AI"
-    excerpt: "Infosys said organizations could harness the capabilities of cognitive solutions through its Infosys Topaz generative AI offering."
-    publishedDateTime: 2023-05-24T16:55:00Z
-    webUrl: "https://venturebeat.com/ai/infosys-launches-topaz-ai-first-solution-accelerate-business-value-generative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/infosys-launches-topaz-ai-first-solution-accelerate-business-value-generative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/infosys-launches-topaz-ai-first-solution-accelerate-business-value-generative-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_285803778.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How the generative AI boom could deliver a wave of successful businesses"
     excerpt: "Where generative AI startups can start if they want to turn the short-term generative AI hype into long-term growth."
     publishedDateTime: 2023-05-27T15:20:00Z
@@ -141,6 +125,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=750%2C500&#038;strip=all"
         width: 750
         height: 500
+        isCached: true
+  - title: "5 Ways to Boost Your Job Search Results Using AI"
+    excerpt: "ChatGPT (and other forms of AI) can analyze and process vast amounts of information quickly, generate human-like responses to questions and statements, translate text into multiple languages, and even write essays, articles, and stories. It can also ..."
+    publishedDateTime: 2023-05-25T15:00:00Z
+    webUrl: "https://taskandpurpose.com/sponsored-content/ai-job-search/"
+    ampWebUrl: "https://taskandpurpose.com/sponsored-content/ai-job-search/?amp"
+    cdnAmpWebUrl: "https://taskandpurpose-com.cdn.ampproject.org/c/s/taskandpurpose.com/sponsored-content/ai-job-search/?amp"
+    type: article
+    provider:
+      name: Task & Purpose
+      domain: taskandpurpose.com
+    quality: 59
+    images:
+      - url: "https://taskandpurpose.com/uploads/2023/05/11/subtler.png?auto=webp"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Police hope artificial intelligence can help solve 1991 Cape May County cold case"
     excerpt: "Investigators are hoping new technology will help them solve a cold case from the 1990s. The Middle Township Police Department and Cape May Prosecutor's Office will deploy to use artificial intelligence to investigate the case of Mark Himebaugh,"

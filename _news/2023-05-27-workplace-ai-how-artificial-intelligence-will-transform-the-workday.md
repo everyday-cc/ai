@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-art
 webUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday"
 type: article
 quality: 84
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -100,6 +100,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "AI Can Transform Banking For The Better"
+    excerpt: "Artificial intelligence has matured and is disrupting financial services. It can enhance customer service, reduce costs and curb fraud – but only wit"
+    publishedDateTime: 2023-05-28T18:35:00Z
+    webUrl: "https://menafn.com/1106332409/AI-Can-Transform-Banking-For-The-Better"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
 
 secured: "qjjcf5XBoSjbaC9fwCXAO9hVW5utuJmgPh9RbYtnMSJHFq5VReAiluwEfTIbj3BR2+NivFPRtlL6sOX+xFwCgedbbgpSf+1qnvTzj09ODEqLMhhqR/EapPYRhxjfX1pYb87QsPO10WaY5BPQhqSZ7Tg2LSADmQUlizaYEPu+UOmV2EOApObzwpqVX8X9UE9PaGwZ25evMx7OTFn+fHISwIhFsu2n1N/pLIW1qaRHwicssqx8CxmJlw3s2Et4lyWwNqfFMPXeGdZZc9iO6kdUz6bad3dNqOZLT6m/cuykhRNJHE6lNcXpjdD4djm9ztnaSs0HE6fIcF9MbcVpHKfCDfM1Fz7Fd/8QjmQH7GcCBWE=;w05bhVXa7fX5qPlolyWr/g=="
 ---

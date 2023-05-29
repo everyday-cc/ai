@@ -47,6 +47,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Microsoft integrates Nvidia’s AI Enterprise Suite with Azure Machine Learning"
+    excerpt: "Microsoft is integrating Nvidia’s AI Enterprise software suite with its Azure Machine Learning service to help enterprise developers build, deploy, and manage applications based on large ..."
+    publishedDateTime: 2023-05-27T18:59:00Z
+    webUrl: "https://www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.html"
+    ampWebUrl: "https://www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 103
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Weak Gaming GPU Sales Don't Matter for Nvidia as It Faces AI Gold Rush"
     excerpt: "Nvidia's stock skyrockets after the company reports it expect revenue next quarter to hit $11 billion on demand for chips that can power generative AI."
     publishedDateTime: 2023-05-25T15:13:00Z
@@ -555,6 +571,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New Nvidia generative AI chip employs TSMC CoWoS"
+    excerpt: "Nvidia has announced the launch of a new class of large-memory AI supercomputer, the Nvidia DGX, powered by Nvidia's GH200 Grace Hopper superchips and the Nvidia NVLink Switch System, to enable the development of massive,"
+    publishedDateTime: 2023-05-29T09:05:00Z
+    webUrl: "https://www.digitimes.com/news/a20230529PD208/nvidia-ai-supercomputer-tsmc-cowos.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230529pd208_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Generative AI demand sends Nvidia chip sales soaring; stock surges"
     excerpt: "Nvidia makes chips that power generative AI, a type of artificial intelligence that can create new content, such as text and images, in response to user prompts. That’s the kind of AI underlying ChatGPT,"
     publishedDateTime: 2023-05-25T13:05:00Z
@@ -590,6 +620,15 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 49
+  - title: "Nvidia Unveils More Gen AI Products"
+    excerpt: "Chipmaker Nvidia (NVDA) has been making headlines with its extensive new lineup of AI product launches and services. At the Computex"
+    publishedDateTime: 2023-05-29T08:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-unveils-more-gen-ai-products-1032356256"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 49
   - title: "Five things to know about AI chip maker Nvidia and why everyone is talking about it"
     excerpt: "Nvidia made a splash after its mammoth quarterly report and stock boost. Here's what you should know about the company if you're new to it."
@@ -685,6 +724,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4MP7AKH3EEI63OX4X5ICAVTB3I.jpg&w=1440"
         width: 1440
         height: 901
+        isCached: true
+  - title: "Nvidia reveals ridiculous supercomputer built to create next-gen AI"
+    excerpt: "Nvidia has revealed its next-generation supercomputer, the DGX GH200, which is built to handle the development of gigantic next-generation AI models."
+    publishedDateTime: 2023-05-29T09:31:00Z
+    webUrl: "https://www.dexerto.com/tech/nvidia-reveals-ridiculous-supercomputer-built-to-create-next-gen-ai-2159061/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 39
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/29/Nvidia-Supercomputer.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "The ASX stocks that could ride the AI boom like Nvidia"
     excerpt: "AI has lit a fire underneath tech stocks, but investors are split over whether the innovation will transform business models or end up a fad like blockchain or 3D printing."

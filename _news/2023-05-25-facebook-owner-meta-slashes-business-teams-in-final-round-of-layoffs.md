@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook owner Meta starts final round of layoffs"
-    excerpt: "Meta Platforms Inc started carrying out the last batch of a three-part round of layoffs on Wednesday, according to a source familiar with the matter, as part of a plan announced in March to eliminate 10,"
-    publishedDateTime: 2023-05-24T15:16:00Z
-    webUrl: "https://www.aol.com/finance/facebook-owner-meta-starts-final-151607919.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://media.zenfs.com/en/reuters-finance.com/dd9b98d09bf65cdfc02f7a3bf7b36379"
-        width: 800
-        height: 534
-        isCached: true
   - title: "Facebook Releases AI Model for Protein Sequence Processing"
     excerpt: "A team of scientists at Facebook AI Research have released a deep-learning model for processing protein data from DNA sequences. The model contains approximately 700M parameters, was trained on ..."
     publishedDateTime: 2023-05-25T00:00:00Z
@@ -52,6 +38,20 @@ related:
       name: InfoQ
       domain: infoq.com
     quality: 19
+  - title: "Experts Discuss Investigating Social Media Companies Like Facebook, Twitter, and TikTok"
+    excerpt: "Over the past decade, a handful of social media platforms have dominated online life. These companies — operating from fortress-like headquarters — hold immeasurable control over how the world communicates online."
+    publishedDateTime: 2023-05-29T07:00:00Z
+    webUrl: "https://gijn.org/2023/05/29/investigating-social-media-companies/"
+    type: article
+    provider:
+      name: gijn.org
+      domain: gijn.org
+    quality: 16
+    images:
+      - url: "https://gijn.org/wp-content/uploads/2023/05/shutterstock_2278095733.jpg"
+        width: 1000
+        height: 668
+        isCached: true
 
 secured: "tSdCbxvWbNiCB+ajuBVpN0Evr9gPQPRYTgZ183pnU3OAjbDaAJhenediH/1BrE45uisUBQt78p7/nzULeo8kTrLHTSldWWFSb5o8Sz5/c4CD0d4xOEYkZ8IJbkCCOJGcizA9bPRj3NQuaMnE2ZNYYEflxgAHOn9fmX0KT21T7s/uRQPcaZ4uYzzp5CV0iYfMlXGx6dHT1U/3OFExFNlmZsvhIsRw8yQcTMauS4UcZOzivgbj5St8iHe/CqbJzAUglczu8w85FHcof6UQwDd9P717buQ5l0GsFuM+2hOTF1zdAulGi/amDSAX52wMG1FIZjyGPps/u/gQ5LFkZ1Q7uPSMtK3KbtTLjSkOweOxx/NX8Y2t5Udcy4Gcw4X9BszXwkev+b4n/sFloyvzTI3r7/mt5ln6UxW3j7Bt6XFKbl0KToZ/OFUFysL8RL0EKgPpP9MYOkz0UgjrklCsFfN17IYCSTGRBxBaeowpWHgV6rzIU8wGFnYBM8RvD/jRJHj2HEc2H8XbJLoFq41WmpCBLw==;b6+IAcKX/hcINZKFWTAvuA=="
 ---

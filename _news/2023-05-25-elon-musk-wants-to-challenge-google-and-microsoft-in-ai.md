@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/elon-musk-wants-to-see-an-ai-rival-to
 webUrl: "https://www.wsj.com/articles/elon-musk-wants-to-see-an-ai-rival-to-google-microsoft-a299e27f?mod=e2tw"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 384
+published: true
 
 provider:
   name: Wall Street Journal
@@ -29,38 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft aims to win the AI app race with three big advantages"
-    excerpt: "At Build, Microsoft showed off its efforts to extend its AI-powered app ecosystem and plugin framework. But this is no easy race to win."
-    publishedDateTime: 2023-05-24T16:12:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/"
-    ampWebUrl: "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-75.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
-  - title: "Microsoft integrates Nvidia’s AI Enterprise Suite with Azure Machine Learning"
-    excerpt: "Microsoft is integrating Nvidia’s AI Enterprise software suite with its Azure Machine Learning service to help enterprise developers build, deploy, and manage applications based on large ..."
-    publishedDateTime: 2023-05-27T18:59:00Z
-    webUrl: "https://www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.html"
-    ampWebUrl: "https://www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 103
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft Calls for a New US Agency and Licensing for AI"
     excerpt: "Microsoft Corp. is calling for a new US agency to regulate artificial intelligence and licensing requirements to operate the most powerful AI tools, company President Brad Smith said Thursday."
     publishedDateTime: 2023-05-25T13:35:00Z
@@ -149,22 +117,6 @@ related:
         width: 772
         height: 434
         isCached: true
-  - title: "Intel And Microsoft Team Up To Bring AI To Windows PCs At Scale, What You Need To Know"
-    excerpt: "The announcement comes as part of Microsoft's Build 2023 conference, where the two previewed the AI capabilities of Meteor Lake processors."
-    publishedDateTime: 2023-05-24T15:51:00Z
-    webUrl: "https://hothardware.com/news/intel-and-microsoft-to-bring-ai-to-windows-pcs-at-scale"
-    ampWebUrl: "https://amp.hothardware.com/news/intel-and-microsoft-to-bring-ai-to-windows-pcs-at-scale"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-and-microsoft-to-bring-ai-to-windows-pcs-at-scale"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 68
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/61689/content/hero-intel-microsoft-meteor-lake.jpg"
-        width: 708
-        height: 398
-        isCached: true
   - title: "Microsoft paused raises and cut bonuses to 'invest in the AI wave,' exec tells employees in internal message"
     excerpt: "In response to employee criticism about recent pay changes, the exec said one reason is \"wanting to invest in the AI wave,\" internal messages show."
     publishedDateTime: 2023-05-24T18:04:00Z
@@ -188,34 +140,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "From ChatGPT on Bing to Azure AI: 5 biggest announcements from Microsoft Build 2023"
-    excerpt: "Microsoft continues to make strides in AI with a slew of updates and launches announced at Build 2023. From ChatGPT on Bing to Azure AI: 5 biggest announcements from Microsoft Build 2023. Bing, chatGPT,"
-    publishedDateTime: 2023-05-25T06:21:00Z
-    webUrl: "https://www.itp.net/software/from-chatgpt-on-bing-to-azure-ai-5-biggest-announcements-from-microsoft-build-2023"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 63
-    images:
-      - url: "https://www.itp.net/cloud/2023/05/25/MS-Build-2023-Bing-to-ChatGPT.jpg"
-        width: 2000
-        height: 1334
-        isCached: true
-  - title: "Microsoft Build 2023: Microsoft Fabric and oodles of Azure AI integrations announced"
-    excerpt: "Microsoft has unveiled a raft of new products “built for the era of AI” at its annual developer Build conference earlier this week. Microsoft Fabric, which is now in preview, was among the key announcements from the conference."
-    publishedDateTime: 2023-05-26T07:46:00Z
-    webUrl: "https://www.techcentral.ie/microsoft-build-2023-microsoft-fabric-and-oodles-of-azure-ai-integrations-announced/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 62
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2023/05/MIcrosoft_Office_23.jpg"
-        width: 620
-        height: 350
-        isCached: true
   - title: "Windows Copilot Puts AI in the Heart of Microsoft's Most Important Software"
     excerpt: "Some of the most important screen real estate in the world is getting a chatbot that can adjust PC settings, perform searches and suggest music."
     publishedDateTime: 2023-05-27T12:00:00Z
@@ -303,6 +227,20 @@ related:
         width: 593
         height: 290
         isCached: true
+  - title: "Top 10 Azure Cloud Announcements at Microsoft Build 2023 Dev Conference"
+    excerpt: "Here's a summary of what's new -- specifically the top 10 Azure products and services that reached general availability or will soon -- at the event."
+    publishedDateTime: 2023-05-24T20:50:00Z
+    webUrl: "https://virtualizationreview.com/articles/2023/05/24/azure-build.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 54
+    images:
+      - url: "https://virtualizationreview.com/-/media/ECG/VirtualizationReview/Images/IntroImages2017/0917vcrm_F1NewMicrosoft.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft calls for a new U.S. agency and licensing for AI"
     excerpt: "Smith compared AI to the printing press, elevators and food safety for ... His call for a new agency echoes proposals from OpenAI, the startup behind the wildly popular ChatGPT, which received a $10 billion investment from Microsoft."
     publishedDateTime: 2023-05-25T17:37:00Z
@@ -329,20 +267,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2023-05/Screenshot%202023-05-25%20at%2012.07.35.png"
         width: 624
         height: 342
-        isCached: true
-  - title: "NVIDIA Partners with Microsoft to Supercharge Enterprise-Ready Generative AI"
-    excerpt: "NVIDIA announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives, enabling Azure customers worldwide to quickly build, deploy, and manage customized ..."
-    publishedDateTime: 2023-05-24T16:33:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/NVIDIA-Partners-with-Microsoft-to-Supercharge-Enterprise-Ready-Generative-AI-158809.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 51
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "KPI Partners achieves Microsoft Azure Solutions Partner Designation for Data & AI"
     excerpt: "May 17, 2023 /PRNewswire/ -- KPI Partners, a global trusted strategic partner for Analytics and Digital Transformation solutions, announced today that it has achieved Microsoft Azure Solution Partner status in Data & AI. This recognition showcases the ..."
@@ -407,6 +331,15 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 34
+  - title: "Microsoft Launches 'Jugalbandi', An AI-Based Multilingual Chatbot For Rural India"
+    excerpt: "Microsoft has unveiled a new generative AI-driven chatbot called 'Jugalbandi', designed for farmers and other users living in rural India."
+    publishedDateTime: 2023-05-27T13:24:00Z
+    webUrl: "https://www.ndtv.com/feature/microsoft-launches-jugalbandi-an-ai-based-multilingual-chatbot-for-rural-india-4071723"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 31
   - title: "Habu Announces Collaboration With Microsoft Azure to Deliver Zero-Trust Data Clean Room"
     excerpt: "Habu, a global innovator in data clean room software, has announced a collaboration with Microsoft Azure to integrate its"
     publishedDateTime: 2023-05-25T18:08:00Z
@@ -430,6 +363,24 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "NashTech is now a Microsoft Azure Solutions Partner for Data & AI, Digital & App Innovation, and Infrastructure Solution Areas"
+    excerpt: "We are thrilled to announce that NashTech has achieved Microsoft Azure Solution partner status and enhanced its capabilities to help customers manage and govern their data across multiple systems to b"
+    publishedDateTime: 2023-05-25T18:02:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32581713/nashtech-is-now-a-microsoft-azure-solutions-partner-for-data-ai-digital-app-innovation-and-infrast"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
+  - title: "This week in AI: Satya Nadella says Microsoft is moving to co-pilot era for AI, India's AI programme to submit framework soon and more"
+    excerpt: "Humans are in the loop with AI, and it is here to help humans make their job easy, said Satya Nadella, Chairman and Chief Executive Officer of Microsoft, in an exclusive conversation with CNBC-TV18 while talking about the impact of AI on jobs education, its threat, the future, and more."
+    publishedDateTime: 2023-05-28T13:05:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/this-week-in-ai-satya-nadella-says-microsoft-is-moving-to-a-co-pilot-era-for-ai-indias-ai-programme-to-submit-framework-soon-and-more-10678881.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 2
 
 secured: "ZvT9Kfx4rh/0S4ivFAc3g63LZ2Tn36/AETD4NQasV1totzEgWdeKkrqYas2J7A8PuqhWVRhX568abCyqwdTv0ND0XN979EfNPW4h9Y9nRuxSyc6Mkj5L+SHHPui4AE9jhagbPGPWLfFjbfv5A0ucuYwPntIHxSFbIQBpOUKUyOmVYRLx0HAEDVN9Fxgb8HVp/ron1cln7iAKy8qFCNUMAJ9OSlaScPWcRC7zOS38iAHzn7fs+K0MHTSBK2F1xLRI8un5NGedT1beKbr1fhNuFqnLoAS9Be3dG9j2TeZJZhmE0BXMeY5EJXH4ARnS9yBdk6SuTM9p8inzyx8lhFnmle9a4lySBAOYVyPTCJN1usM=;bkUDMmBdeA5FRkhxjFjxQQ=="
 ---

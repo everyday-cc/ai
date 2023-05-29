@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial Intelligence To Estimate The Accuracy Of Data Explaining"
+    excerpt: "Despite their enormous size and power, today's artificial intelligence systems routinely fail to distinguish between hallucination and reality. Autonomous driving systems can fail to perceive pedestrians and emergency vehicles right in front of them,"
+    publishedDateTime: 2023-05-29T02:16:00Z
+    webUrl: "https://indiaeducationdiary.in/artificial-intelligence-to-estimate-the-accuracy-of-data-explaining/"
+    ampWebUrl: "https://indiaeducationdiary.in/artificial-intelligence-to-estimate-the-accuracy-of-data-explaining/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/artificial-intelligence-to-estimate-the-accuracy-of-data-explaining/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 74
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2023/05/probabilistic-ai-00.jpg"
+        width: 900
+        height: 547
+        isCached: true
   - title: "Google's Magic Compose is available now, bringing generative AI to Messages"
     excerpt: "Want to compose a text message but don't know what to say? Google's Magic Compose can let AI handle it, rolling out now to Messages in beta."
     publishedDateTime: 2023-05-25T17:01:00Z

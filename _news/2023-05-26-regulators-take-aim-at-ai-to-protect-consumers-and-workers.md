@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/regulators-aim-ai-prot
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/regulators-aim-ai-protect-consumers-workers-99622780"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
         width: 272
         height: 280
         isCached: true
-  - title: "Security processors use AI to detect attacks on next-gen servers"
-    excerpt: "New trusted control/compute units (TCU) combine silicon, AI and data collection, and software into a single chip, allowing monitoring during normal server operation for side-channel, network and other peripheral-based attacks. Axiado Corporation has ..."
-    publishedDateTime: 2023-05-24T16:58:00Z
-    webUrl: "https://www.embedded.com/security-processors-use-ai-to-detect-attacks-on-next-gen-servers/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 36
 
 secured: "XJsIgrgci1ZugRhm9SeGQG0453avu3/XHW4J8tu18hB3HikAnT+We916bqr9frq/EH9g1Qoli5Lt4FpTkjcMmBNL6xsqw4JXccRAoYqkhJNDdiTY4CaZ5K1voVl1cDNvDlky9GCEbEVaHuwZqBTIjZfqq5F8ybeo5NysbSsBlEAuiDG0yKMo32qAl8HVnhVG/Y0rAQxMgi98U46kodoIk7qAWtM+nlMTPNbwytdYCdt8vlbXpzC3XkS5vDMgyIma3+DRaVVLucMMGonPLV1EdkE06r48glEyTvDkovCS4MzoxLrEwiscPvJOa3WlySX123Owq8iNpBs2hQR4FSZCeESoFkg9V/4IGHqZeu5/F9ACqkvC8o1FItgUO0eP56Q1XKErcxdQTjktXg715dt6Ln7Wp+P/osSAr6/jTX+sbghf5eDtM9YIy7rHAyWz2Uy4Lv2c0V/+Vo6jxDnAMqmZDRUcbyxWqhYB3HRKu9870rstUdnE7705hZiKQW0TPV/xGhu1jUuAOONWppUqzlvTeA==;/nhnMCtl8nmGgk1G0CuCNg=="
 ---

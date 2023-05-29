@@ -88,6 +88,20 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 39
+  - title: "Nvidia reveals generative AI NPCs that can dream up their own dialogue"
+    excerpt: "A new piece of software, Nvidia Ace, was introduced at the Computex Keynote. The software will allow game developers to implement AI NPCs into their worlds."
+    publishedDateTime: 2023-05-29T08:47:00Z
+    webUrl: "https://www.dexerto.com/tech/nvidia-reveals-generative-ai-npcs-that-can-dream-up-their-own-dialogue-2159057/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 39
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/29/ai-nvidia-gen.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "mBHkmjrDY3t63s9BA3UrmHrrZPCuGPGqr7JlfyPN2GVgTcp7PVFj4hrdUxcNUNtgm11mzH/CP6TFz+4g1LGYGFcYNSkk3e9adT28uh/Do586cHAMWhyQn31707cVser/aPOp9qY4DfpDfpSye440uyuF7aHBcvk9h7ik0hNdFeP/X91jqw96GH4WgCY4XvlaCq1fjFIqj3cK8+TO6rcs3uX+HMFfba6UUXnNg66PQGsVC4E1X8bKqagNjmxT1oTb9RrtFCXXCp2YomGVp4r5FQ/gkIrrWDISykHa84lGEXwtzPwRy9DdF1uQ6t/703gaG0nypvAWlYOxBRDEdTwmWPxWR+TqPE+ADLfauDkqXfHbiuUpiFvC2eEmzeMXeGVaxRFqAJdiZ9RhCtdfDXHcbXTzLECpLAFNSbdUZgONOuK2V4bi9+V6eNaCl3YLCEX+Lj9BnuohGMDTD+LBFyLZu3t46l5EzZ8RIKWP/bYFRTRHVUj069WZoywZzDHgbIeOFvLEf1GA6IGfZ4xrRxaLZg==;z4/d9BV62nJMkHmYwwiOKw=="
 ---

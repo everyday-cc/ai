@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "On artificial intelligence, we need real guidance, not fake alarmism"
-    excerpt: "Hinton has been called the “Godfather of AI” because he was one of the seminal figures in the 1980s who worked on techniques, such as backpropagation, that have been pivotal in creating today’s large language models and generative AI like ChatGPT."
-    publishedDateTime: 2023-05-24T16:50:00Z
-    webUrl: "https://www.orlandosentinel.com/2023/05/24/on-artificial-intelligence-we-need-real-guidance-not-fake-alarmism-commentary/"
+  - title: "How Much Should We Trust Artificial Intelligence"
+    excerpt: "There has been a great deal of recent buzz about the rather dated notion of artificial intelligence ... Consider the case of self-driving cars. Elements of AI come into play in growing numbers ..."
+    publishedDateTime: 2023-05-25T00:00:00Z
+    webUrl: "https://www.infoq.com/articles/ai-trust/"
     type: article
     provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 41
+      name: InfoQ
+      domain: infoq.com
+    quality: 39
     images:
-      - url: "https://www.orlandosentinel.com/wp-content/uploads/migration/2023/01/24/DWSYFOC6HYEC7WJ6MFFZQRPB3M.jpg?w=1024&#038;h=670"
-        width: 1024
-        height: 682
+      - url: "https://res.infoq.com/articles/ai-trust/en/headerimage/GettyImages-170614688.jpg"
+        width: 1523
+        height: 1111
         isCached: true
   - title: "Another View | Chicago Tribune: We need true guidance on AI"
     excerpt: "Geoffrey Hinton, the visionary expert who was at the heart of so much innovation in artificial intelligence and machine learning, left Google. In an interview with CNN, he said,"

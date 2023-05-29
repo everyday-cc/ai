@@ -19,38 +19,91 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence May Be Coming For Your Job"
-    excerpt: "You will need to adapt to the rapid changes brought on by AI by continually educating and upskilling yourself or asking your employer to enroll you in courses."
-    publishedDateTime: 2023-05-24T15:31:00Z
-    webUrl: "https://www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/"
-    ampWebUrl: "https://www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/amp/"
+  - title: "Workplace AI: How artificial intelligence will transform the workday"
+    excerpt: "Artificial intelligence has been around for years, but scarcely has it found itself in conversation as much as it has now. The launch of OpenAI’s ChatGPT rocketed generative AI onto the radar of ..."
+    publishedDateTime: 2023-05-26T20:21:00Z
+    webUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: BBC
+      domain: bbc.com
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646e2d720e47eac3ef5f411d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0fnfjfy.jpg"
+        width: 624
+        height: 351
         isCached: true
-  - title: "5 Ways to Boost Your Job Search Results Using AI"
-    excerpt: "ChatGPT (and other forms of AI) can analyze and process vast amounts of information quickly, generate human-like responses to questions and statements, translate text into multiple languages, and even write essays, articles, and stories. It can also ..."
-    publishedDateTime: 2023-05-25T15:00:00Z
-    webUrl: "https://taskandpurpose.com/sponsored-content/ai-job-search/"
-    ampWebUrl: "https://taskandpurpose.com/sponsored-content/ai-job-search/?amp"
-    cdnAmpWebUrl: "https://taskandpurpose-com.cdn.ampproject.org/c/s/taskandpurpose.com/sponsored-content/ai-job-search/?amp"
+  - title: "Investing in AI: how to avoid the hype"
+    excerpt: "However, Porter also cautions that \"we are still very early on the use cases for AI.\" Dizzying valuations have made some investors wary of the technology hype cycle. This concept, popularised by consultancy Gartner,"
+    publishedDateTime: 2023-05-26T04:16:00Z
+    webUrl: "https://www.reuters.com/technology/investing-ai-how-avoid-hype-2023-05-26/?ref=biztoc.com"
     type: article
     provider:
-      name: Task & Purpose
-      domain: taskandpurpose.com
-    quality: 59
+      name: Reuters
+      domain: reuters.com
+    quality: 67
     images:
-      - url: "https://taskandpurpose.com/uploads/2023/05/11/subtler.png?auto=webp"
+      - url: "https://www.reuters.com/resizer/FSPUvb7djINBafN665jGm5-QZEM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6TIDCQXE4ZLHTGW3OELMLU5JIU.jpg"
         width: 1200
-        height: 675
+        height: 628
         isCached: true
+  - title: "How AI and Machine Learning Will Transform Your Legal Department"
+    excerpt: "With 80% of executives believing that automation can be applied to any business decision, AI and ML tools are currently the most popular area where business IT departments will invest in 2023."
+    publishedDateTime: 2023-05-25T15:18:00Z
+    webUrl: "https://www.law.com/corpcounsel/2023/05/25/how-ai-and-machine-learning-will-transform-your-legal-department/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 54
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/428/2023/05/Artificial-Intelligence_2-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Analysis-Investing in AI: How to Avoid the Hype"
+    excerpt: "\"It's just that that’s very hard to be true for the entire market.\" Instead of backing hot start-ups or rushing into highly valued AI-themed businesses that might fail, seasoned investors are taking a lateral view to back already proven technology ..."
+    publishedDateTime: 2023-05-26T05:34:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-05-26/analysis-investing-in-ai-how-to-avoid-the-hype"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
+  - title: "Workera introduces the world's first skills assessments for generative AI"
+    excerpt: "PALO ALTO, Calif., May 25, 2023 /PRNewswire/ -- Series B startup Workera announces the release of its generative AI assessments to test, rate and develop the skills of this cutting-edge technology in the contemporary workforce. Over 1,000 users have ..."
+    publishedDateTime: 2023-05-25T17:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/workera-introduces-the-world-s-first-skills-assessments-for-generative-ai-1032352473"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
+  - title: "Generative AI: How it Works, History, and Pros and Cons"
+    excerpt: "Generative AI is used in everything from creative to academic writing and translation; composing ... in which prompts can be given and interactions can take place in plain language. Here are some of the most popular recent examples of generative AI ..."
+    publishedDateTime: 2023-05-26T18:17:00Z
+    webUrl: "https://www.investopedia.com/generative-ai-7497939"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 41
+    images:
+      - url: "https://www.investopedia.com/thmb/evqH4CUzBFrebOwRlM2CANNWBz8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chatgpt-588fc25767134c248543d3de511ed5ea.jpg"
+        width: 1500
+        height: 1002
+        isCached: true
+  - title: "Averting the AI apocalypse"
+    excerpt: "On the shoulders of this automated labor force, super wealthy AI entrepreneurs and companies will rise to form the most powerful elites to ever lord over humanity. Meanwhile, governments risk collapse from sharply diminished tax bases compounded by their own elected leader’s acute technological incompetence — an AI apocalypse."
+    publishedDateTime: 2023-05-26T21:58:00Z
+    webUrl: "https://www.seattletimes.com/opinion/averting-the-ai-apocalypse/"
+    ampWebUrl: "https://www.seattletimes.com/opinion/averting-the-ai-apocalypse/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/averting-the-ai-apocalypse/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
 
 secured: "uS7TajQ7SkyvXGaxbZMS7EVHf7MHp4vcRF8XS/G/Jr17qoaravRpu2r2YxhVczpAsQORfJQG6Kj6dtpsCbc13K9FrHVkNRJE5vlTldX4ZEtyo70hFj7gLjBwVFyZK9yhUeoknVXteExU0ikgd572ORPP0EAehtIhWif+8KlwxLeMvjWJ1R2+CY3hfu+cqkIyD2I2V2yXXZQzNUgbqUT1NLCIr6Q36EEE/G1vqHqaG94LMBtBM5LZdBU8jZbkvF8Ig8xKuelfDXUWMtxVCSutCz40YK8Lpp6nRAo7l3eF++6hvABtlYUBkEvA7K9Ucx59gK3z7w/Ils29S/aFs3DJzdviWdb2I586q0oh/O2n2fgTf06+bK36oyWAhMlXVko9o6HbAVOt7T0D1JglYibF2j+cT9qSEBmpo2lhkKuUIsd39x6HSh3HcJXvepDlRs+EyrxcW2PjDviL7xxxL7O4sSExx3aVjzK/bUTmMrlaqH2zk86zs8U6ENyDfff76cu2PXRdoSTX9Km894o8SL3LZg==;jiXIVGub2x1U3Oy16IKaxQ=="
 ---

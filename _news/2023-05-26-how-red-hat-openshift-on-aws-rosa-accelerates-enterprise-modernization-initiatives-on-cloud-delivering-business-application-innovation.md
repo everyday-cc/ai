@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-red-hat-openshift-on-aws-rosa-acceler
 webUrl: "https://www.ibm.com/blog/how-red-hat-openshift-on-aws-rosa-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation/"
 type: article
 quality: 86
-heat: 126
+heat: 106
 published: true
 
 provider:
@@ -29,36 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Automate document validation and fraud detection in the mortgage underwriting process using AWS AI services: Part 1"
-    excerpt: "In this three-part series, we present a solution that demonstrates how you can automate detecting document tampering and fraud at scale using AWS AI and machine learning (ML) services for a mortgage underwriting use case. This solution rides on a more significant global wave of increasing mortgage fraud,"
-    publishedDateTime: 2023-05-24T16:19:46Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-document-validation-and-fraud-detection-in-the-mortgage-underwriting-process-using-aws-ai-services-part-1/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 82
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/24/automate-document-validation-1260x630.jpg"
-        width: 1260
-        height: 630
-        isCached: true
-  - title: "Machine Learning Model Operationalization Management (MLOPS) Market Report 2023: Increasing Adoption Rate of Machine Learning Fuels Growth"
-    excerpt: "The \"Machine Learning Model Operationalization Management (MLOPS) Market - Forecasts from 2023 to 2028\" report has been added to ResearchAndMarkets.com's"
-    publishedDateTime: 2023-05-24T15:44:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32555778/machine-learning-model-operationalization-management-mlops-market-report-2023-increasing-adoption-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32555778"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32555778"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 42
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Hyperautomation platform Zvolv to integrate AI orchestration to leverage generative AI in new age enterprise applications"
     excerpt: "Hyperautomation platform Zvolv to integrate AI orchestration to leverage generative AI in new age enterprise applications - Zvolv, a leading global enterprise hyperautomation company today announced new generative AI capabilities"
     publishedDateTime: 2023-05-25T05:31:00Z

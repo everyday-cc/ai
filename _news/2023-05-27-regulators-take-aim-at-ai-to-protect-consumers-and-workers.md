@@ -56,15 +56,6 @@ related:
         width: 272
         height: 280
         isCached: true
-  - title: "Security processors use AI to detect attacks on next-gen servers"
-    excerpt: "New trusted control/compute units (TCU) combine silicon, AI and data collection, and software into a single chip, allowing monitoring during normal server operation for side-channel, network and other peripheral-based attacks. Axiado Corporation has ..."
-    publishedDateTime: 2023-05-24T16:58:00Z
-    webUrl: "https://www.embedded.com/security-processors-use-ai-to-detect-attacks-on-next-gen-servers/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 36
 
 secured: "H2PBux+O4uXwJEkHLZwNX98bZa++EHyWWOSeNNQBi0dfC7ccP59LzVvbURBPYLfW/IxesAGBRx+3eUL+EE2X2MyDn1KyQmfAPz4GX6FPoFcwzbsTuTlUJgyrPnbWGAzQo4ojKQtyBLFjd/FBkUnBnHqUGRDLH2TjEO8hrY0Uv7kM6dSU9wsmGLf1ETU7z4R1u003iN8DjjIqktChq21GqEO33Z7B/V4Qsh8M5WMJ4SgzIesEzxbrQS/Zjie62oHhqqV2rcMSKLGFiT3L5pz2t6Ji+H31b3sm1d648r9fkXtpOwWnYbkwfLbIeopWOuJXEAIoDckjUOFRvRcqI77OFCmwqnCYhBkSgWxPFHiAVoU=;yoi9Ctkz0GPxT66kifL0Iw=="
 ---

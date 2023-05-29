@@ -94,6 +94,15 @@ related:
         width: 1500
         height: 1002
         isCached: true
+  - title: "AI Can Transform Banking For The Better"
+    excerpt: "Artificial intelligence has matured and is disrupting financial services. It can enhance customer service, reduce costs and curb fraud – but only wit"
+    publishedDateTime: 2023-05-28T18:35:00Z
+    webUrl: "https://menafn.com/1106332409/AI-Can-Transform-Banking-For-The-Better"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
 
 secured: "PsKW4b+wai5PA5JIhj3jsE3jny2/DaqXl9+mW8fm//r+UDD4vecHS5UhoEU+x3rOc1L66LRARkaci6Tz3z30lglIP9uml4pyCgnUdTNpseQPFnkB+Hn0v1pl5nkKWoCl6rtfzH76NKxMfVs46D6bAnRoBw4YQtehc/k8yCbS3Kisk/taCalc4f7ZYba9oUu/sM6+XlqEP37M486gyNot0S8kLzCzCll+1R3DYmEPigqsQttymm/i4eeh3Ch0ZJv0aNK9UqffI/xMFVMPPeK3Q7qyN27TGPkwpleBeNDBY2e4WcADL+Y/35qwGGoyGYQkOtrEwDCb2cwp1fTvOdI+fkf6y/+eJpXdZDyw974LTWeErBmwvBfvcmxY7XLmdr+rco5OcFItBLmyjkY1EWnqb2HRE41pcuQKqMJqSCSboY5I2imbJ5kMpc9wP0X3CuXwa3BRdVMbUXzTm6AJGJV0032FHzdGrRiJjIkNUU2yeIAfRuqwkCra8/gNJh7EwcGWn+aawl1fmqvP+aGVfu+Usw==;7a/v+5G7XhMqetz3PI3R9A=="
 ---

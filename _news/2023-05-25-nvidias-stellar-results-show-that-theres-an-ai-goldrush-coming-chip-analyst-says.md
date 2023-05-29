@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/news/stocks/nvidia-ai-chatgpt-st
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/nvidia-ai-chatgpt-stock-market-news-semiconductor-chips-artificial-intelligence-2023-5?amp"
 type: article
 quality: 98
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 39
+  - title: "Nvidia reveals generative AI NPCs that can dream up their own dialogue"
+    excerpt: "A new piece of software, Nvidia Ace, was introduced at the Computex Keynote. The software will allow game developers to implement AI NPCs into their worlds."
+    publishedDateTime: 2023-05-29T08:47:00Z
+    webUrl: "https://www.dexerto.com/tech/nvidia-reveals-generative-ai-npcs-that-can-dream-up-their-own-dialogue-2159057/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 39
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/29/ai-nvidia-gen.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "dNbRxHDzzk9hSMbZ9Vh1RmmqLpMzF8InxXi4LxvLZxlGkcNU3ShXtizZlbSdvnBWp4PFmmH8hQcYDN046bbnqea4Q04eE3N8STqGQZTR40Ijc5y/MqIc72AEAipXZhqtaYIy3ZYgMSmt2mJN6sjyzsspvtivxuLSwW3mAsL1qQc/6mT/WxhnoKG9YRjNUTbUOm6D+Kx7tQil3PbiVIYaBSYgMKKI+wvmle31KvBZNzJhbzVGo+gWa4IRmuBh+K2i3m/rMTSUFvpYKmv8H/dUEwx1ZQj+jCUxazLTUAl7NHNLVZ8LTQbVxe42Xd2zszjAIzjm2Oxh2mbNnyd7q5VOcyDAbO5/lprZ0h7siEWbGJM=;tNf/1aVkq6XJTglFj6u1WQ=="
 ---

@@ -98,6 +98,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "AI Can Transform Banking For The Better"
+    excerpt: "Artificial intelligence has matured and is disrupting financial services. It can enhance customer service, reduce costs and curb fraud – but only wit"
+    publishedDateTime: 2023-05-28T18:35:00Z
+    webUrl: "https://menafn.com/1106332409/AI-Can-Transform-Banking-For-The-Better"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
 
 secured: "MGaCt1GH532KtbDm/LohI7hAD82vcD4k/kcjyOtT3B2F0UBajYV9ZhNJvwpnt6SA3c3kbRW8GqFoQskYp6bliEUMRjh+gFVZzmh1TvrcmQlQzCObXh73Y8MsLfyCtOiJSaYm1WlY/aNF6Q7rVnBCSbZ5YH3uOJfD5bRCGLGgEde08ynqsTgx00E42I5z9ILifv2qfCYL3xGVXw/+V63yIMH7kr0A9qIexCU1k/n0sXXi3S0yntHaJEcH7QrT4xn5Sq9C+gWyAzLeo9GIohc/cWpSfZPdEmYoHSOiLXM1grJmiHBfd5X3Bvv0u4vPetotcDt8dlMB40pn0Vjb113UVQG7el8X3uVvVO35rhqZ0D0=;oORCyrgG5dHOBDYKpj4Fkw=="
 ---

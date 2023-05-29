@@ -1,28 +1,28 @@
 ---
 category: news
 title: "White House unveils new efforts to guide federal research of AI"
-excerpt: "FILE – President Joe Biden speaks in the East Room of the White House, May 17, 2023, in Washington. The White House has announced new efforts to guide federally backed research on artificial ..."
-publishedDateTime: 2023-05-23T18:51:00Z
-originalUrl: "https://thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/"
-webUrl: "https://thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/"
-ampWebUrl: "https://thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/amp/"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/ap-white-house-unveils-new-efforts-to-guide-federal-research-of-ai/amp/"
+excerpt: "WASHINGTON (AP) — The White House on Tuesday announced new efforts to guide federally backed research on artificial intelligence as the Biden administration looks to get a firmer grip on ..."
+publishedDateTime: 2023-05-23T18:54:00Z
+originalUrl: "https://www.kmov.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/"
+webUrl: "https://www.kmov.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/"
+ampWebUrl: "https://www.kmov.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/?outputType=amp"
+cdnAmpWebUrl: "https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/?outputType=amp"
 type: article
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: KMOV
+  domain: kmov.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://thehill.com/wp-content/uploads/sites/2/2023/05/646d4436e3d464.95529234.jpeg?w=1280"
-    width: 1280
-    height: 853
+  - url: "https://gray-kmov-prod.cdn.arcpublishing.com/resizer/bde6pEbDg-_a7TvdLGfkFkzb2Aw=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/Z43CGRD2ZNAYFOY5WVSUHOS56U.jpg"
+    width: 800
+    height: 450
     isCached: true
 
-secured: "73NCza3DT+eT+Yoicc6KsTXgD3lNtwZcy1/Ddxra4MUD6qvMYOobSXRD+Rzwc87kVh8KeAiU4NEmAB86DLHxXuE2lt2a00sGVTsiU4b4B09gwqM9zJ0eDYf48aYvJXKNhElaYF5iaCT+xqZ9JwG/z47LEuML7N6lut5oDp9JOvq7N+fES6D6SzTzYoXim52O9dEDj0d/QigeGiPz9DA2pU4zAUvs/mFFufVH/Qkf9fBmXOgiwX+XqM84TMC40rA6oe2kB6dmf8d95vJe6YROas5ZEJPzh23EJDZWne1CZnVRwcmAdZ+9spYfYYNuXHCiQJ3hgcNuBd97242pavCefAOL9pXDW3tzJJNL7zhXOQw=;YRknkQLRqKj7d/+5Zea1sg=="
+secured: "PvXz4efXsCDQ+1g9mMisIFpEoRGrrYaIAB9DteePuVtiVn1EZRG9sSjZw/vmnHg/G7NkdtdEIvR/zaW53gjUrCcJ35b/5gVSSS0cHwA6MWBLFnFnJk5zdNfSeMT/2NL/4alOZF486OtQQ5po5tg6bdgB/Qm4VLYE1ZM4rbgZkVO+5YP+c0a+Jdo1ZuY+disdIDN+1n9jvg4xrkZPKx8rOPihdrHk970Y39Vc+xvI0skCvYU102NJxOZkw7R3QCkGm9aZNrzHCv+F8kiHmoA4DCVcrTsW3/si95Ihpl3fRXMVqaorGS4BeKM7r4eIDnj0vkcCTCDW3TYvfgZlrRp58RObDojh+VcxleiML2K8eu0=;2CQ4J0Qr8bxlHyiL7XogZw=="
 ---
 

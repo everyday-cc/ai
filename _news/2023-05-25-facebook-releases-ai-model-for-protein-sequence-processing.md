@@ -33,19 +33,19 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Facebook owner Meta starts final round of layoffs"
-    excerpt: "Meta Platforms Inc started carrying out the last batch of a three-part round of layoffs on Wednesday, according to a source familiar with the matter, as part of a plan announced in March to eliminate 10,"
-    publishedDateTime: 2023-05-24T15:16:00Z
-    webUrl: "https://www.aol.com/finance/facebook-owner-meta-starts-final-151607919.html"
+  - title: "Experts Discuss Investigating Social Media Companies Like Facebook, Twitter, and TikTok"
+    excerpt: "Over the past decade, a handful of social media platforms have dominated online life. These companies — operating from fortress-like headquarters — hold immeasurable control over how the world communicates online."
+    publishedDateTime: 2023-05-29T07:00:00Z
+    webUrl: "https://gijn.org/2023/05/29/investigating-social-media-companies/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
+      name: gijn.org
+      domain: gijn.org
+    quality: 16
     images:
-      - url: "https://media.zenfs.com/en/reuters-finance.com/dd9b98d09bf65cdfc02f7a3bf7b36379"
-        width: 800
-        height: 534
+      - url: "https://gijn.org/wp-content/uploads/2023/05/shutterstock_2278095733.jpg"
+        width: 1000
+        height: 668
         isCached: true
 
 secured: "fDro3vLCOUSjxyI6a4bVnVfDPtTSZpSH+bWaVIyxGqq79pWTtOiVThzPLaSqHNXnvp0i+X4mUO++LiYWTa4uhlKuTOJ0E5PwzlB9kHmGJHCXpDdafxe0I2nyHogMqSIK9uA9hG/71FwmkKbOvgHfbdtLFVuX/ogotfHl6CL0zlIm3Vqna18uFHHmxMNWZKW4Dw1qWocCHjhzls3I8a4hZIQ8R3lmovAm0+fadcYiJ6ZOpb5jOjN1G54YDVsaRc9uW5T7TrxnAaWZ1XCQFuYRr1y2Q98zAubehRUAg8vGVgy+7bQ06KdV08p40RLG78MG6kPP1ZuWWx8gWDPkxcse6MDGUYYDswrEa/1zgv1HO9c=;9uzr+WKr35xwGheGzzgPQw=="

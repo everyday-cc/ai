@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GIGABYTE's AI Servers with Superchips Shine at COMPUTEX, Redefining a New Era of Computing"
+    excerpt: "Win Big with AI through GIGABYTE's Pioneering GPU/HPC Servers. GIGABYTE and its subsidiary, Giga Computing, are introducing unparalleled AI/HPC server lineups, leading the era of"
+    publishedDateTime: 2023-05-29T09:07:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/29/9822184.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
   - title: "NVIDIA Launches Accelerated Ethernet Platform for Hyperscale Generative AI"
     excerpt: "NVIDIA today announced NVIDIA Spectrum-X™, an accelerated networking platform designed to improve the performance and efficiency of Ethernet-based AI clouds. NVIDIA Spectrum-X is built on networking innovations powered by the tight coupling of the NVIDIA Spectrum-4 Ethernet switch with the NVIDIA BlueField®-3 DPU,"
     publishedDateTime: 2023-05-29T04:28:00Z

@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Microsoft Build 2023: Microsoft Fabric and oodles of Azure AI integrations announced"
+    excerpt: "Microsoft has unveiled a raft of new products “built for the era of AI” at its annual developer Build conference earlier this week. Microsoft Fabric, which is now in preview, was among the key announcements from the conference."
+    publishedDateTime: 2023-05-26T07:46:00Z
+    webUrl: "https://www.techcentral.ie/microsoft-build-2023-microsoft-fabric-and-oodles-of-azure-ai-integrations-announced/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 62
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2023/05/MIcrosoft_Office_23.jpg"
+        width: 620
+        height: 350
+        isCached: true
   - title: "French Open 2023: Grand Slam using AI to protect players from online abuse"
     excerpt: "As the French Open introduces a new technology to help players filter out social media abuse, BBC Sport looks at the issues tennis players encounter online."
     publishedDateTime: 2023-05-28T15:29:00Z

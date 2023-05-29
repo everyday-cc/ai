@@ -57,6 +57,15 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "The tech giants have an interest in AI regulation"
+    excerpt: "ChatGPT is an example of “generative” ai, which creates humanlike content based on its analysis of texts, images and sounds on the internet. Sam Altman, CEO of OpenAI, the startup that built it, told a congressional hearing this month that regulatory ..."
+    publishedDateTime: 2023-05-25T13:11:00Z
+    webUrl: "https://www.economist.com/business/2023/05/25/the-tech-giants-have-an-interest-in-ai-regulation"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 17
 
 secured: "XsFhbgapk8Nwb0jmrDPfRsjW1bQ3FgTvuj26uq16wXiHakPdtLyaMmOsLxONRzIctvz9naGtspbNb518twyr5U9YE4TD/YBiSvXgIYlI1QSsBFYzyAukmxBuFXUkztLvTgbj3u6TuSFR+vt4aAmdI+vm4WC/w7lq4G3/EaySSTk+iqaS8Gjay8gtisuDTh2X6hvJoktu/8QT2owyzsvTBFf13VkfCclzFvX4pjRiQt9PB25ilKyICw6ZPawylTzU1JjlSr17FPM5uyEBRHe/Lnw9b2GtJ2LuXHb76OEveujBvKAX3jy4A1GdZUL2gq7ZNhYI/lMInW48Y2ZH7aV3hwUQmKTi2wfxbkDJCzUcpdkiQ+nwke0YDdGlk5yXzwDwgQ1A49i3IPuYVMGuxwC0Ys/0cZL8lx/NRQML0gcbE2QLJZR96pY0oUqJFSWyzlMiWW9Nxi7JlnfOYRpFbJyY7DNDXpiZzPFZdbYnZNdhBXfcVdezAPu/UAqagSqJNanZ/bqL3eoc8QhgiP33mI6jvQ==;a5SxQnpmZxEItIKvP7Cm+g=="
 ---

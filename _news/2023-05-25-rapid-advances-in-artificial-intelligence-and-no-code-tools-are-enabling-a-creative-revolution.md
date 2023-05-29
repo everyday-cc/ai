@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/amp/"
 type: article
 quality: 75
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The tech giants have an interest in AI regulation"
+    excerpt: "ChatGPT is an example of “generative” ai, which creates humanlike content based on its analysis of texts, images and sounds on the internet. Sam Altman, CEO of OpenAI, the startup that built it, told a congressional hearing this month that regulatory ..."
+    publishedDateTime: 2023-05-25T13:11:00Z
+    webUrl: "https://www.economist.com/business/2023/05/25/the-tech-giants-have-an-interest-in-ai-regulation"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 17
 
 secured: "WP5HAdyCHufxvkObbTk7YdWakxUJsRIoKcmJ8MDnQOgxzeIWGaN5s7bH1k+aIfnxFRDGTkC4vz8aJuwZKBHKsSgx4lgmCf75xo1Yl5ZcBepq79seRceN5SrgAkOnemYnOPTTqWn3oy9sGfENf8HUX4Ya+hwO9RR/ROWH/MvQCB/cmp+g58jsjFIB4dKSf3+li3DEOCfuGePrjUwZwLMz5zuIQX5htVWICnLSR6OBgCh+ToPStLfvn4kxehzbxhDCGVFJFIXvIn75jQ4LmWvJBEhSUjhX2n5sTuAZ9CzRtHMKiFKmnm1EMHeuQMpZlugiMQZ8Tf/j1GVqSD2fmZmZVt0b9HU3OScqIc/UPLGNWmoxrhczuKBt3Cgkb8tzGH2j6j5aP0wYdCMGRHdgq5+DaG0/yhjOJk+IC4Jr/p55Yf/PS/C4YNGgFHdRD7ZGgqyJpuIJUzVcdfL5BINwyCXE7XmjBBVaOcvwYl6CU5A2VNWNLMAUY+emTKQe4N+pEDZpI0YXEN1SiCuRv+i/Axrlig==;xGoZng/WDoxZvOOtXrsYyA=="
 ---

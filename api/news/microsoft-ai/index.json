@@ -47,21 +47,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-25-microsoft-build-windows-terminal-preview-118-azure-developer-cli-new-azure-cosmos-db-features-and-more.md",
-      "title": "Microsoft Build: Windows Terminal Preview 1.18, Azure Developer CLI, new Azure Cosmos DB features, and more.",
-      "excerpt": "Microsoft Build, kicked off yesterday, and the company has been making a lot of updates to its developer offerings.",
+      "path": "_news/2023-05-25-elon-musk-wants-to-challenge-google-and-microsoft-in-ai.md",
+      "title": "Elon Musk Wants to Challenge Google and Microsoft in AI",
+      "excerpt": "Elon Musk says it could involve different parts of his corporate empire, including Twitter, which he predicted could halt its losses as soon as next month.",
       "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/microsoft/microsoft-build-windows-terminal-preview-1-18-azure-developer-cli-new-azure-cosmos-db-features-and-more/",
-      "originalUrl": "https://sdtimes.com/microsoft/microsoft-build-windows-terminal-preview-1-18-azure-developer-cli-new-azure-cosmos-db-features-and-more/",
+      "webUrl": "https://www.wsj.com/articles/elon-musk-wants-to-see-an-ai-rival-to-google-microsoft-a299e27f?mod=e2tw",
+      "originalUrl": "https://www.wsj.com/articles/elon-musk-wants-to-see-an-ai-rival-to-google-microsoft-a299e27f?mod=e2tw",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 384,
       "tags": null,
       "images": [
         {
-          "url": "https://sdtimes.com/images/sd-premium.png",
-          "width": 628,
-          "height": 246,
+          "url": "https://images.wsj.net/im-787338/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -71,14 +71,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T13:22:00-07:00",
+      "publishedDateTime": "2023-05-24T16:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -94,8 +94,8 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {

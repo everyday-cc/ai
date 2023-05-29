@@ -142,15 +142,20 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 67
-  - title: "ChatGPT and Generative AI for Social Media Marketing: Reality, Hype, What's Next, and How to Prepare"
-    excerpt: "Many social media marketers are already experimenting with generative AI tools. However, these tools aren't the solution for every scenario."
-    publishedDateTime: 2023-05-24T16:30:00Z
-    webUrl: "https://www.businessinsider.com/chaptgpt-ai-social-media-marketing-reality-whats-next-hype-2023-may"
+  - title: "From ChatGPT on Bing to Azure AI: 5 biggest announcements from Microsoft Build 2023"
+    excerpt: "Microsoft continues to make strides in AI with a slew of updates and launches announced at Build 2023. From ChatGPT on Bing to Azure AI: 5 biggest announcements from Microsoft Build 2023. Bing, chatGPT,"
+    publishedDateTime: 2023-05-25T06:21:00Z
+    webUrl: "https://www.itp.net/software/from-chatgpt-on-bing-to-azure-ai-5-biggest-announcements-from-microsoft-build-2023"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
+      name: GDPR fines
+      domain: itp.net
+    quality: 63
+    images:
+      - url: "https://www.itp.net/cloud/2023/05/25/MS-Build-2023-Bing-to-ChatGPT.jpg"
+        width: 2000
+        height: 1334
+        isCached: true
   - title: "Amazon's answer to ChatGPT seen as incomplete"
     excerpt: "Amazon.com Inc.'s cloud customers are clamoring to get their hands on the ChatGPT-style technology the company unveiled six weeks ago. But instead of being allowed to test it, many are being told to sit tight,"
     publishedDateTime: 2023-05-25T20:19:00Z

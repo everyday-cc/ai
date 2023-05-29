@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230525VL205/adas+av-autonomous-d
 webUrl: "https://www.digitimes.com/news/a20230525VL205/adas+av-autonomous-driving-uber-waymo.html?chid=13"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Uber announces deal with Waymo on self-driving cars"
-    excerpt: "Uber has signed a deal with Google's former self-driving car project, Waymo, to offer its vehicles through the ride-hailing app, The Washington Post reported Wednesday. As part of the"
-    publishedDateTime: 2023-05-24T17:07:00Z
-    webUrl: "https://www.thenews.com.pk/latest/1073568-uber-announces-deal-with-waymo"
-    ampWebUrl: "https://www.thenews.com.pk/amp/1073568-uber-announces-deal-with-waymo"
-    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1073568-uber-announces-deal-with-waymo"
-    type: article
-    provider:
-      name: The News International
-      domain: thenews.com.pk
-    quality: 59
-    images:
-      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-05-24/1073568_094330_updates.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Uber teams up with Google’s Waymo on self-driving cars"
     excerpt: "Ride-hailing service Uber signed a deal with Google sister company Waymo to offer the tech giant’s self-driving cars through the ride hailing app, potentially setting up a major alliance between ..."
     publishedDateTime: 2023-05-25T00:13:00Z
