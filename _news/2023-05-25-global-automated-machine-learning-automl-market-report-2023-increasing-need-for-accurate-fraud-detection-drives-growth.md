@@ -7,7 +7,7 @@ originalUrl: "https://technews.tmcnet.com/news/2023/05/24/9820837.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/05/24/9820837.htm"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -19,48 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Automate document validation and fraud detection in the mortgage underwriting process using AWS AI services: Part 1"
-    excerpt: "In this three-part series, we present a solution that demonstrates how you can automate detecting document tampering and fraud at scale using AWS AI and machine learning (ML) services for a mortgage underwriting use case. This solution rides on a more significant global wave of increasing mortgage fraud,"
-    publishedDateTime: 2023-05-24T16:19:46Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-document-validation-and-fraud-detection-in-the-mortgage-underwriting-process-using-aws-ai-services-part-1/"
+  - title: "Global Digital Talent Acquisition Market Report 2023: Growing Adoption Of Video Interview And Cognitive Technologies Boosts Sector"
+    excerpt: "The \"global digital talent acquisition market by training (external, internal), certification (ai developers, cloud computing & security, data management), industry - cumulative impact of high inflation - forecast 2023-2030\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2023-05-26T09:52:00Z
+    webUrl: "https://menafn.com/1106322639/Global-Digital-Talent-Acquisition-Market-Report-2023-Growing-Adoption-Of-Video-Interview-And-Cognitive-Technologies-Boosts-Sector"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 82
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/24/automate-document-validation-1260x630.jpg"
-        width: 1260
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?646730"
+        width: 333
+        height: 250
         isCached: true
-  - title: "Dialogue-guided intelligent document processing with foundation models on Amazon SageMaker JumpStart"
-    excerpt: "Intelligent document processing (IDP) is a technology that automates the processing of high volumes of unstructured data, including text, images, and videos. IDP offers a significant improvement over manual methods and legacy optical character recognition (OCR) systems by addressing challenges such as"
-    publishedDateTime: 2023-05-24T16:50:32Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/dialogue-guided-intelligent-document-processing-with-foundation-models-on-amazon-sagemaker-jumpstart/"
+  - title: "Graphics Processing Unit (GPU) Market Report 2023: Rising Number of Data Centres Coupled With Growing Computing Applications Will Boost Sector"
+    excerpt: "The graphics processing unit (GPU) market is projected to grow at a CAGR of 29.57% to reach US$190.977 billion in 2028 from US$31.154 billion in 2021. An electronic circuit/chip known as a graphics processing unit (GPU) is specialized and created to manipulate and change memory to speed up the creation of images in a frame buffer that is meant to be output to a display device."
+    publishedDateTime: 2023-05-26T23:36:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/26/9822058.htm"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 74
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/16/ml14223-arch-1260x618.jpg"
-        width: 1260
-        height: 618
-        isCached: true
-  - title: "Dissecting the EU’s Artificial Intelligence Act: Implications and Industry Reaction"
-    excerpt: "As artificial intelligence (AI) rapidly integrates into the fabric of our society, regulators worldwide are grappling with the conundrum of creating a comprehensive framework that guides AI usage. Pioneering a move in this direction,"
-    publishedDateTime: 2023-05-25T20:19:00Z
-    webUrl: "https://www.unite.ai/dissecting-the-eus-artificial-intelligence-act-implications-and-industry-reaction/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 33
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/05/christian-lue-C241mbgtgys-unsplash-996x600.jpg"
-        width: 996
-        height: 600
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "yUm9NwZNG1RUM27ZMZVGYRb2eYa5YsOfwnHtQSN8rpO9Iea7KNjcOlo/viFPmGKE6xeebMDJQpOZNotG/omRHH+/hE5bnAL9WiDgujv+IeckYsakaaxqNaRSFAISoPi1bXjIOTcSeqErXxY2vI7CHtXEEz5mxpxi67tNGkfo6UBAbH7+XbwuFyQKrykV6VM7WbeioGQ6wnw+ge/HcYjEy01bxetv3rHAHzWY4Fmvn8O+edkwfIXMTMnf+8s6eybUQ8qW1qbzY18v0HMd/h7GbIjccX+CetfWufDWNoTyFg2ed3cwS1kAyUnQumXU3AcTiSmgkFZjxLFYU99c/RpIJ9ZoJQMaR/FcaXhVYjYnzJg=;BIVxF6VxwHzX8K+5AP1HYw=="
 ---

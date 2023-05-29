@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/investing-ai-how-avoid-hype-202
 webUrl: "https://www.reuters.com/technology/investing-ai-how-avoid-hype-2023-05-26/?ref=biztoc.com"
 type: article
 quality: 67
-heat: 90
+heat: 87
 published: true
 
 provider:

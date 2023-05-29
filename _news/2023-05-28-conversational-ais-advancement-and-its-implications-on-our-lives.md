@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How generative AI can revolutionize customization and user empowerment"
+    excerpt: "It's time to look beyond using generative AI tools for simple outputs and focus on computing capabilities for users and large enterprises."
+    publishedDateTime: 2023-05-28T23:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=750%2C500&#038;strip=all"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "XsFhbgapk8Nwb0jmrDPfRsjW1bQ3FgTvuj26uq16wXiHakPdtLyaMmOsLxONRzIctvz9naGtspbNb518twyr5U9YE4TD/YBiSvXgIYlI1QSsBFYzyAukmxBuFXUkztLvTgbj3u6TuSFR+vt4aAmdI+vm4WC/w7lq4G3/EaySSTk+iqaS8Gjay8gtisuDTh2X6hvJoktu/8QT2owyzsvTBFf13VkfCclzFvX4pjRiQt9PB25ilKyICw6ZPawylTzU1JjlSr17FPM5uyEBRHe/Lnw9b2GtJ2LuXHb76OEveujBvKAX3jy4A1GdZUL2gq7ZNhYI/lMInW48Y2ZH7aV3hwUQmKTi2wfxbkDJCzUcpdkiQ+nwke0YDdGlk5yXzwDwgQ1A49i3IPuYVMGuxwC0Ys/0cZL8lx/NRQML0gcbE2QLJZR96pY0oUqJFSWyzlMiWW9Nxi7JlnfOYRpFbJyY7DNDXpiZzPFZdbYnZNdhBXfcVdezAPu/UAqagSqJNanZ/bqL3eoc8QhgiP33mI6jvQ==;a5SxQnpmZxEItIKvP7Cm+g=="
 ---

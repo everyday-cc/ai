@@ -3,18 +3,22 @@ category: news
 title: "French Open 2023: Grand Slam using AI to protect players from online abuse"
 excerpt: "As the French Open introduces a new technology to help players filter out social media abuse, BBC Sport looks at the issues tennis players encounter online."
 publishedDateTime: 2023-05-28T15:29:00Z
-originalUrl: "https://www.bbc.co.uk/sport/tennis/65706479?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/sport/tennis/65706479?at_medium=RSS&at_campaign=KARANGA"
+originalUrl: "https://www.bbc.com/sport/tennis/65706479"
+webUrl: "https://www.bbc.com/sport/tennis/65706479"
 ampWebUrl: "https://www.bbc.com/sport/tennis/65706479.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/tennis/65706479.amp"
 type: article
-quality: 55
+quality: 85
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -89,6 +93,6 @@ related:
         height: 332
         isCached: true
 
-secured: "b1atWzUxePiJ21ndp0t+hauW5+jY5kg6n1qR5puX6iY8weEbr0NJ6wtP/ZvPb57UszHwiL4WNu7FMou0aWNn4WuLy1YOMnQt+/m1S/F2ZvHEGyvhMSMBvhbsdn3dqz6w5wKJN7T1PRtAMV07D9yrQOR1dnHG38TKhRTovF51Eo5CAi7T+gASwErTxLQxVuFMm1AoebFMaSYLWMJb7OxMiFDny0yk25kTE0/XW3sCqHoTiMAVkTpgq+krMauQ8Ajhu/2t+IbdJ+IUxjt31o129vBH8lNrjHukSLTUcfbAW4mWgb5OqpY+G0poQyc1I8SCdcRWfSXpOdwfzvLtroxtEbMyim87Js0L6PL9BVWKtMk=;PJDkfEtX05+MLSD3NlSTaQ=="
+secured: "MD2kUWBQTyH7S6xaU3H5bBztM3BrcgMrVqxeJlIAWGIlGOXoyphDOpy68lK6H5umIUv1T4sckzJoHg62vREichkp8ArqycUbuDW28mYRgU1RSF2waxWMry7zlwQNg5tmJUl+2jo5OUIm0YokiFnvBl6xIfLK/fV661pdimVOQ3TNmD8Wfl/4vJKFQX88x/r1IV0gk9XpfrxoAX65zo08ca9ZIt8GB5bM6I+wE6Tk5y+i4Kaf73Q52RxWKS34tJNcI9lAZq7qyb/z2W+ZWBQWfg/+va9QYVM9i1Mt49NRs+aII+Ymdf2knDaonm75gu0TjlEbLDKfTl5FeIFUIyGGhZ6OkkiAB0JRIpVP20Kgzew=;If2P06Iqs6qP0IA/bKtcwg=="
 ---
 

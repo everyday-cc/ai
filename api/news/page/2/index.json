@@ -10,7 +10,7 @@
       "originalUrl": "https://www.reuters.com/technology/investing-ai-how-avoid-hype-2023-05-26/?ref=biztoc.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -49,6 +49,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-ai-and-robots-enter-the-toolbox-of-the-construction-industry.md",
+      "title": "AI And Robots Enter The Toolbox Of The Construction Industry",
+      "excerpt": "The construction and development sector is embracing artificial intelligence and robotics to combat labor shortages and attract young talent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bisnow.com/south-florida/news/construction-development/ai-robots-enter-the-toolbox-of-the-construction-industry-119127",
+      "originalUrl": "https://www.bisnow.com/south-florida/news/construction-development/ai-robots-enter-the-toolbox-of-the-construction-industry-119127",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2023%2F05%2F646fc0a3df998-asi-cymba-brandon-spirk-jay-fayette-russ-beck-brad-meltzer-daniell-odess.jpeg&width=1200&sign=RBzGQ2khF0_DQBwgY3jhPTdbwKwCxZWm6sXam5S2PgE",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T17:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bisnow",
+        "domain": "bisnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -318,7 +361,7 @@
       "originalUrl": "https://www.zdnet.com/article/how-to-use-wordtune-ai-on-your-iphone-to-generate-content/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -569,7 +612,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-ocx-cognition-reduced-ml-model-development-time-from-weeks-to-days-and-model-update-time-from-days-to-real-time-using-aws-step-functions-and-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -718,7 +761,7 @@
       "originalUrl": "https://www.zdnet.com/article/meet-aria-operas-new-built-in-generative-ai-assistant/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -966,7 +1009,7 @@
       "originalUrl": "https://www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1196,57 +1239,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-ai-upstart-uipaths-stock-is-down-on-soft-revenue-guidance.md",
-      "title": "AI upstart UiPath’s stock is down on soft revenue guidance",
-      "excerpt": "AI startup UiPath Inc., whose initial public offering fetched a market value of nearly $30 billion in 2021 only to get creamed before recently rebounding, reported quarterly results Wednesday that topped analyst revenue and earnings estimates but offered ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/uipaths-stock-is-down-on-soft-revenue-guidance-4512792e?mod=jon-swartz",
-      "originalUrl": "https://www.marketwatch.com/story/uipaths-stock-is-down-on-soft-revenue-guidance-4512792e?mod=jon-swartz",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-317224/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/uipaths-stock-is-down-on-soft-revenue-guidance-4512792e",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/uipaths-stock-is-down-on-soft-revenue-guidance-4512792e",
-      "publishedDateTime": "2023-05-25T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/intuit-launches-lab-employees-experimen
 webUrl: "https://venturebeat.com/ai/intuit-launches-lab-employees-experiment-generative-ai-will-share-lessons-vb-transform/"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -20,52 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "IT services firms leverage generative AI capabilities for clients"
-    excerpt: "Infosys Topaz leverages Infosys applied AI framework to build an AI-first core that empowers people to deliver cognitive solutions that accelerate value-creation."
-    publishedDateTime: 2023-05-24T06:08:00Z
-    webUrl: "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.html"
-    ampWebUrl: "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/5/15/w600X390/Artificial_Intelligence.png"
-        width: 600
-        height: 390
-        isCached: true
-  - title: "Can The 2024 US Elections Leverage Generative AI?"
-    excerpt: "Let’s discuss the potential of using generative AI in the 2024 US elections and how it can transform political campaigns and decision-making."
-    publishedDateTime: 2023-05-28T01:45:00Z
-    webUrl: "https://www.unite.ai/can-the-2024-us-elections-leverage-generative-ai/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/05/Featured-Blog-Image-Can-The-2024-US-Elections-Leverage-Generative-AI-942x600.jpg"
-        width: 942
-        height: 600
-        isCached: true
-  - title: "Hyperautomation platform Zvolv to integrate AI orchestration to leverage generative AI in new age enterprise applications"
-    excerpt: "Hyperautomation platform Zvolv to integrate AI orchestration to leverage generative AI in new age enterprise applications - Zvolv, a leading global enterprise hyperautomation company today announced new generative AI capabilities"
-    publishedDateTime: 2023-05-25T05:31:00Z
-    webUrl: "https://www.siliconindia.com/news/general/hyperautomation-platform-zvolv-to-integrate-ai-orchestration-to-leverage-generative-ai-in-new-age-enterprise-applications-nid-223190-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 14
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/b7z51cen.jpg"
-        width: 570
-        height: 367
-        isCached: true
 
 secured: "YldLUM1zIWrYkLPdnAlPdIeQw/Ran8ZSC5oYtpUMelepb892yYd6hCHLwWrlv1i1wRQ+LMz7x/9DmBfcOWzpfFJyj3t/gO8HT80tR78+Os2u0PAGOPlW89roGqvOOgfZGjtI2QRbHmIURvlaufuX+h7ASdfCrVw0uG4npzXofXmqNocfNYU7P/WgADCJdsyb5dSLiliqWW4eHAuOUGPPanShbKIRtfMZvJ+x6MmbjhxtUmMvFUqqo/nY8PeYgknU1LdM1Iiq+em5bRz5HzgV6Fa98hsdPZLM453vEeHyTc/GntS51fyzlpf8pSdyMgcTDYL9Jh9ibJ10tdlqHhP2NkBQULy0spRPK37rP1bdTu2o05P2FesB/TYnbm1EajCaUMtMw1291uhvY5i8eC/qKI5GvaZE1b19ZyNG7Msqe+7/+XGZ1te5hr7VprdjGlgDYgKEa/wUYh+uVfK+s3A7lZWGd1mGO0LmHMfmf/387eOki2jbdOvjc3f6S3oZV1tWgl2uQZZzZ7IAab5CPLlbng==;RZ+z82bcMDmiBi7dO0LHIw=="
 ---

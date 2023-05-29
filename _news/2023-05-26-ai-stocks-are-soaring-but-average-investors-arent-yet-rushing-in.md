@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/ai-bubble-retail-investors-are
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-bubble-retail-investors-arent-rushing-in-yet-c1a8a3ae"
 type: article
 quality: 87
-heat: 123
+heat: 117
 published: true
 
 provider:

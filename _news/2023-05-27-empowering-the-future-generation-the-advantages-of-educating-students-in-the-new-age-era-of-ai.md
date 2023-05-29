@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google starts opening up access to its new generative AI capabilities in Search"
+    excerpt: "Google announced today that it's starting to open up access to new generative AI capabilities in Search after teasing them at I/O."
+    publishedDateTime: 2023-05-25T20:52:00Z
+    webUrl: "https://techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/"
+    ampWebUrl: "https://techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/google-search-labs-open.png?resize=1200,796"
+        width: 1200
+        height: 796
+        isCached: true
 
 secured: "2QmCy4ofcxBzzTO2zxIyUi4IzA6kH5z2TEjcqSuGgyG/nSMHYkkkE/IUzkklLeeLg6ajYRp3LMSlD16epPoO+jbIJpLhSaMhjJa7aPowfIo1kfmT5sh2CX6028QGAk+xb/9DkrOMPiSJBOZMae8EMDEZk0eT86/jY94ozO5SdUKNL9ABl2r9vE5RtAwN4mpN9BXQ2WWTqJygXfMgpS1OhlBJaF+sy/j2qOEB5bu1902g/BljENb0xJmLxVnxfKefeq3m9dfDqK6AHPSa79V/5ESpSwxmuJ7Gdh9C49LQlRNXrHKOxl69t9XEMdpKQyQ8dvxzWio8vzCvGB/gFlDmDT88W6E/MfbYIveETmo/wH9htR5nzR9RhHG2brnxqN31fRVHLL+0+YnY5l/L/Md8fyh+Qho+abWMeQsz2YGFaFyM3/fRvWb3GTvvEy2CkJ3Z0pZBqL7Fe7TeK/WzwdlU2Cn0paMD2nRguGQw/hhnsJxtPqzxY0NHPU5BLRy0zLVQQtYmoebIB9BmGtg3+CWerg==;DJKs0uwcZJAyrQ8dE7dJeg=="
 ---

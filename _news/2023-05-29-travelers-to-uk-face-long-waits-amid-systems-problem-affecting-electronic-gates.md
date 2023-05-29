@@ -1,0 +1,66 @@
+---
+category: news
+title: "Travelers to UK face long waits amid systems problem affecting electronic gates"
+excerpt: "The British government is working to fix a technical problem that caused electronic border gates at airports around the country to stop working, leading to hourslong waits for travelers entering the U."
+publishedDateTime: 2023-05-28T22:00:00Z
+originalUrl: "https://www.miamiherald.com/news/nation-world/world/article275852501.html"
+webUrl: "https://www.miamiherald.com/news/nation-world/world/article275852501.html"
+ampWebUrl: "https://amp.miamiherald.com/news/nation-world/world/article275852501.html"
+cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/world/article275852501.html"
+type: article
+quality: 35
+heat: -1
+published: false
+
+provider:
+  name: Miami Herald
+  domain: miamiherald.com
+
+topics:
+  - Computer Vision
+  - AI
+
+related:
+  - title: "Travelers to U.K. face long waits amid systems problem"
+    excerpt: "LONDON >> Travelers arriving in the U.K. faced hourslong delays today after a technical problem shut electronic border gates at airports across the country, forcing everyone to have their passports checked manually on what was expected to be one of the busiest travel weekends of the year."
+    publishedDateTime: 2023-05-27T11:05:00Z
+    webUrl: "https://www.staradvertiser.com/2023/05/27/sports/sports-breaking/travelers-to-u-k-face-long-waits-amid-systems-problem/"
+    ampWebUrl: "https://www.staradvertiser.com/2023/05/27/sports/sports-breaking/travelers-to-u-k-face-long-waits-amid-systems-problem/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/05/27/sports/sports-breaking/travelers-to-u-k-face-long-waits-amid-systems-problem/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 59
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/05/web1_13843382-63da3cfc9dbc48d9b9ac4e6eb9aa4fde.jpg"
+        width: 760
+        height: 507
+        isCached: true
+  - title: "Travelers to UK face long waits amid systems problem affecting electronic gates"
+    excerpt: "Travelers arriving in the U.K. faced hourslong delays Saturday after a technical problem shut electronic border gates at airports across the country, forcing everyone to have their passports checked manually on what was expected to be one of the busiest travel weekends of the year."
+    publishedDateTime: 2023-05-27T16:21:00Z
+    webUrl: "https://www.aol.com/news/travelers-uk-face-long-waits-081432716.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 35
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/_HW7skYXdsrdz_fZQVn_ZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/3d759dd9404f136efca5be00f01b734d"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Travelers to UK face long waits amid systems problem affecting electronic gates"
+    excerpt: "The British government is working to fix a technical problem that caused electronic border gates at airports around the country to stop working, leading to hourslong waits for travelers entering the U."
+    publishedDateTime: 2023-05-28T12:41:00Z
+    webUrl: "https://www.kansascity.com/news/nation-world/world/article275852501.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 15
+
+secured: "7JpL4HNbuukpCzC7SFi8KFcO9/VbB+U4RM3AT8VkqngJQoN60z2sZdQ4KcMAfd/7dtlWvaq8VE84V6OHQm7qSnzaWJRIN9lh3A1cFS8Wk8WgvsisWux2Ls4fD6X9sbUO5FEr4c3hXOXueSVG7oy8BqeVJ2L9wiNl1nUb/8z3d026EdlW83N0gjXyHcscXMNYoRtK5TCpbnJ0+rO46ARQyYb7IOGY9eth3ICtNAeYL00Wfsi/NCYae3jH5TezC9ybyIKirSf26c+JKt2zXrEy13ASvZ0n2U3uylL9S2xUb00f19XnnFiT82xRr4p07m442tR7qsaMeJ6ez76Rn30gNU8hG0DOwRa/i2FYBt090zM=;aGDsu84dim5RONOFznxKSw=="
+---
+

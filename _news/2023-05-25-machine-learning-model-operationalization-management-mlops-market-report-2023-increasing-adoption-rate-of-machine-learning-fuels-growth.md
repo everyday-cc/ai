@@ -20,6 +20,34 @@ topics:
   - Machine Learning
 
 related:
+  - title: "How Red Hat OpenShift on AWS (ROSA) accelerates enterprise modernization initiatives on cloud, delivering business application innovation"
+    excerpt: "When it comes to driving large technology transformation on Cloud, leveraging&#160;existing investments, and optimizing open innovation within the larger ecosystem with a hybrid cloud platform, IBM Consulting&#8482; offers several learnings to help organizations address the architecture and technology"
+    publishedDateTime: 2023-05-26T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/how-red-hat-openshift-on-aws-rosa-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 86
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/How-Red-Hat-OpenShift-on-AWS-ROSA-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
+  - title: "Automate document validation and fraud detection in the mortgage underwriting process using AWS AI services: Part 1"
+    excerpt: "In this three-part series, we present a solution that demonstrates how you can automate detecting document tampering and fraud at scale using AWS AI and machine learning (ML) services for a mortgage underwriting use case. This solution rides on a more significant global wave of increasing mortgage fraud,"
+    publishedDateTime: 2023-05-24T16:19:46Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-document-validation-and-fraud-detection-in-the-mortgage-underwriting-process-using-aws-ai-services-part-1/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 82
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/24/automate-document-validation-1260x630.jpg"
+        width: 1260
+        height: 630
+        isCached: true
   - title: "Machine Learning Model Operationalization Management (MLOPS) Market Report 2023: Increasing Adoption Rate of Machine Learning Fuels Growth"
     excerpt: "The \"Machine Learning Model Operationalization Management (MLOPS) Market - Forecasts from 2023 to 2028\" report has been added to ResearchAndMarkets.com's"
     publishedDateTime: 2023-05-24T15:44:00Z
@@ -36,29 +64,34 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Global Digital Talent Acquisition Market Report 2023: Growing Adoption Of Video Interview And Cognitive Technologies Boosts Sector"
-    excerpt: "The \"global digital talent acquisition market by training (external, internal), certification (ai developers, cloud computing & security, data management), industry - cumulative impact of high inflation - forecast 2023-2030\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2023-05-26T09:52:00Z
-    webUrl: "https://menafn.com/1106322639/Global-Digital-Talent-Acquisition-Market-Report-2023-Growing-Adoption-Of-Video-Interview-And-Cognitive-Technologies-Boosts-Sector"
+  - title: "Artificial intelligence innovation: Leading companies in speech recognition techniques for the automotive industry"
+    excerpt: "According to GlobalData’s Technology Foresights, which plots the S-curve for the automotive industry using innovation intensity models built on over 619,000 patents, there are 290+ innovation areas that will shape the future of the industry."
+    publishedDateTime: 2023-05-24T10:05:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-speech-recognition-techniques-automotive/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
+      name: Just Auto
+      domain: just-auto.com
+    quality: 32
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?646730"
-        width: 333
-        height: 250
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/05/Artificial-intelligence_Speech-recognition-techniques.jpg"
+        width: 1440
+        height: 810
         isCached: true
-  - title: "Graphics Processing Unit (GPU) Market Report 2023: Rising Number of Data Centres Coupled With Growing Computing Applications Will Boost Sector"
-    excerpt: "The graphics processing unit (GPU) market is projected to grow at a CAGR of 29.57% to reach US$190.977 billion in 2028 from US$31.154 billion in 2021. An electronic circuit/chip known as a graphics processing unit (GPU) is specialized and created to manipulate and change memory to speed up the creation of images in a frame buffer that is meant to be output to a display device."
-    publishedDateTime: 2023-05-26T23:36:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/26/9822058.htm"
+  - title: "Hyperautomation platform Zvolv to integrate AI orchestration to leverage generative AI in new age enterprise applications"
+    excerpt: "Hyperautomation platform Zvolv to integrate AI orchestration to leverage generative AI in new age enterprise applications - Zvolv, a leading global enterprise hyperautomation company today announced new generative AI capabilities"
+    publishedDateTime: 2023-05-25T05:31:00Z
+    webUrl: "https://www.siliconindia.com/news/general/hyperautomation-platform-zvolv-to-integrate-ai-orchestration-to-leverage-generative-ai-in-new-age-enterprise-applications-nid-223190-cid-1.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 14
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/b7z51cen.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "iAzLDdIMAADo5n0AuMECnvTHiSqx/bZoTr/rCAP9A8QLq1ae5gUJuxbY/QQpvlhtVAhrh6eCJOtToMKzFYY2HIm9eJbc083koe7mXwcb5zA4fNRf3vxQEc64zyRcGkFnsEZinYfsIMnuQpRkwr3AdG9T3D4uF9pR1WoGxtnaoCdrgUkNvKEGclwvqt04tBiNbTZdVTl0Q11eiAKf9ABkYX5lbar/lyq9R7/JdjTxip8GatprmLxXKZ6eIBuOyw2WiJXNuO/+3nGm2fVo1qceee1XqXpdr7DAAF4g/GAeRgYMlSMwstoEng+TBlfW3t55C6fm3Qrlkcz/dGBkHwLOZrjriV+0j8220R7HXvrU8/U=;/6B6iYCjKT/UPi4LAnmp5w=="
 ---

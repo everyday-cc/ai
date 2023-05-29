@@ -2,40 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-04-07-ai-equipped-eyeglasses-read-silent-speech.md",
-      "title": "AI-Equipped Eyeglasses Read Silent Speech",
-      "excerpt": "Researchers have developed a wearable interface called EchoSpeech, which recognizes silent speech by tracking lip and mouth movements through acoustic-sensing and AI. The device requires minimal user training and recognizes up to 31 unvocalized commands.",
-      "sourceUrl": null,
-      "webUrl": "https://neurosciencenews.com/ai-glasses-silent-speech-22957/",
-      "originalUrl": "https://neurosciencenews.com/ai-glasses-silent-speech-22957/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neuroscience News",
-        "domain": "neurosciencenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-06-speech-and-voice-recognition-market-to-be-worth-6752-billion-by-2030-exclusive-report-by-meticulous-research.md",
       "title": "Speech and Voice Recognition Market to be Worth $67.52 Billion by 2030 - Exclusive Report by Meticulous Research®",
       "excerpt": "‘Speech and Voice Recognition Market by Function (Speech, Voice Recognition), Technology (AI and Non-AI), Deployment Mode (Cloud-based, On-premise), End User (Consumer Electronics ...",

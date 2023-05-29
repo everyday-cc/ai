@@ -9,7 +9,7 @@ ampWebUrl: "https://www.staradvertiser.com/2023/05/27/sports/sports-breaking/tra
 cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/05/27/sports/sports-breaking/travelers-to-u-k-face-long-waits-amid-systems-problem/amp/"
 type: article
 quality: 59
-heat: 80
+heat: 89
 published: true
 
 provider:
@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Travelers to UK face long waits amid systems problem affecting electronic gates"
+    excerpt: "The British government is working to fix a technical problem that caused electronic border gates at airports around the country to stop working, leading to hourslong waits for travelers entering the U."
+    publishedDateTime: 2023-05-28T22:00:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/world/article275852501.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/world/article275852501.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/world/article275852501.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 35
   - title: "Travelers to UK face long waits amid systems problem affecting electronic gates"
     excerpt: "The British government is working to fix a technical problem that caused electronic border gates at airports around the country to stop working, leading to hourslong waits for travelers entering the U."
     publishedDateTime: 2023-05-28T12:41:00Z

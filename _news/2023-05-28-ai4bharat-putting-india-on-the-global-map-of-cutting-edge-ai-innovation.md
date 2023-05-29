@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/ai4bharat-putting-india-
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ai4bharat-putting-india-on-the-global-map-of-cutting-edge-ai-innovation/amp_articleshow/100554612.cms"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Indiatimes
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence innovation: Leading companies in speech recognition techniques for the automotive industry"
-    excerpt: "According to GlobalData’s Technology Foresights, which plots the S-curve for the automotive industry using innovation intensity models built on over 619,000 patents, there are 290+ innovation areas that will shape the future of the industry."
-    publishedDateTime: 2023-05-24T10:05:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-speech-recognition-techniques-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 32
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/05/Artificial-intelligence_Speech-recognition-techniques.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Can there even be a global AI non-proliferation treaty and what role can India play"
     excerpt: "In ToThePoint today, we invited Jaspreet Bindra, the former chief digital officer of Mahindra Group and currently an AI and ethics researcher at Cambridge University, to help us make sense of the growing unease around the dangers of AI and calls by government and industry leaders for global regulation of these technologies."
     publishedDateTime: 2023-05-26T13:29:00Z

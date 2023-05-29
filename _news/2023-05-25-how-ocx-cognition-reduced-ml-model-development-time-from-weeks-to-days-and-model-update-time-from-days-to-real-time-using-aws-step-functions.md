@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-ocx-cognition-re
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-ocx-cognition-reduced-ml-model-development-time-from-weeks-to-days-and-model-update-time-from-days-to-real-time-using-aws-step-functions-and-amazon-sagemaker/"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 999
     height: 547
     isCached: true
+
+related:
+  - title: "Dialogue-guided intelligent document processing with foundation models on Amazon SageMaker JumpStart"
+    excerpt: "Intelligent document processing (IDP) is a technology that automates the processing of high volumes of unstructured data, including text, images, and videos. IDP offers a significant improvement over manual methods and legacy optical character recognition (OCR) systems by addressing challenges such as"
+    publishedDateTime: 2023-05-24T16:50:32Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/dialogue-guided-intelligent-document-processing-with-foundation-models-on-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 74
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/16/ml14223-arch-1260x618.jpg"
+        width: 1260
+        height: 618
+        isCached: true
 
 secured: "cxcn1SWXSacO8z4c7y0R/boUn5u5ArKn3a/Oy0Ev57myeSxwtgE96bR9TZYH4pWuC122z703SWrAepVVBDc156HIxrg5PFdyt65x1kB7FS9IjMvJcQglVs/STEtQxn9Hou3ynH+LySk7Hm/1RD5OIHsY2tvQo0jmoxSBAz+ZDoyXzDAWBUwxpe/ofq8PZQeUgL8aRkQSGD66Gu39ae7g4uNblAFJGlTV3rUp9dIgd4b90hJK3Ftb/jy9o05BVSA2HHgbRsLnqIKLocyHyQCvE6POABBpbpN3Z76wnUI+jyfS4NkiSSH5/na1yB3QGIjfzV0Pfo/HLrXY24a0IfiZT/ri/zLM+z0Zh6uWdrcQzBM=;m8prWHDZGSVMr3ToClxnXA=="
 ---

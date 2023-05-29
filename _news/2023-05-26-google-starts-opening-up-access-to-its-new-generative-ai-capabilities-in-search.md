@@ -30,36 +30,33 @@ images:
     isCached: true
 
 related:
-  - title: "Red Hat extends OpenShift for the generative AI era"
-    excerpt: "IBM's Red Hat business unit announces the expansion of its AI capabilities with the new Red Hat OpenShift AI technology."
-    publishedDateTime: 2023-05-24T05:19:00Z
-    webUrl: "https://venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/"
-    ampWebUrl: "https://venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/amp/"
+  - title: "Meet Aria: Opera's new built-in generative AI assistant"
+    excerpt: "Aria joins ChatGPT, Facebook Messenger, TikTok, and WhatsApp on the Opera browser sidebar, as the company's own, natively built-in generative AI assistant. The new assistant has access to the internet, so its knowledge is not limited to content before 2021, like the free version of ChatGPT, though the ChatGPT Plus version will differ."
+    publishedDateTime: 2023-05-25T14:49:00Z
+    webUrl: "https://www.zdnet.com/article/meet-aria-operas-new-built-in-generative-ai-assistant/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/meet-aria-operas-new-built-in-generative-ai-assistant/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meet-aria-operas-new-built-in-generative-ai-assistant/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/Red-Hat-e1684880569131.jpg?w=1200&strip=all"
+      - url: "https://www.zdnet.com/a/img/resize/88280eaa243ed68b15169f1f8e362bcddd6ae1b8/2023/05/25/4f1566bb-6ea0-4367-9b71-4bb0cabb3172/aria-opera.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 627
+        height: 675
         isCached: true
-  - title: "How Red Hat OpenShift on AWS (ROSA) accelerates enterprise modernization initiatives on cloud, delivering business application innovation"
-    excerpt: "When it comes to driving large technology transformation on Cloud, leveraging&#160;existing investments, and optimizing open innovation within the larger ecosystem with a hybrid cloud platform, IBM Consulting&#8482; offers several learnings to help organizations address the architecture and technology"
-    publishedDateTime: 2023-05-26T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/how-red-hat-openshift-on-aws-rosa-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation/"
+  - title: "Empowering the future generation: The advantages of educating students in the new age era of AI"
+    excerpt: "Artificial intelligence (AI) has become a revolutionary force in the quickly changing world of technology, altering various sectors and our daily lives. As AI develops, it is more crucial than ever to get the"
+    publishedDateTime: 2023-05-27T09:53:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 86
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/How-Red-Hat-OpenShift-on-AWS-ROSA-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation-scaled.jpg"
-        width: 2560
-        height: 1280
-        isCached: true
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 27
 
 secured: "jMCph7luPzrttn3cKoorJJjWn3/AzdCbJT+X5SbZGDd8AwsPV1d97AB/WJgw1aczXJ6hhxciS5Q1rf6WS4+HYa36OQj20fIO3FnX1Lfr6DMsSjsnQYv71RiW4xRH2CSLu4a0mGlZOAGsWqPEk1w/D/rzd9q8ktNS5Lvt+edsguvamfU/UM4ir9PeWl3bNpqZ7rhDY22AknWvk+5szWUlCZSfaSmhTfev11HS/hZeomrJ0pTFjkmmVmad3Tr5qc0GDmfAUPn184mtE2ijFbhOuGCmTYZ5l4URgQ4VvWc2rA4PxRf/SXQxm1mdi+aIHzIfmrEAQkKsjWoZcFaWe3XvkB869azKzWAkNoerzTC1Qj8=;4FfcsbMxTVNQ6oUo6lFmgQ=="
 ---

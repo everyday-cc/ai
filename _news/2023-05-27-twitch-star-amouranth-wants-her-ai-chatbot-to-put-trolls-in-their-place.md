@@ -24,17 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup Anthropic raises $450M for safety-focused chatbot"
-    excerpt: "Anthropic, an artificial intelligence startup positioning itself as the builder of a safer kind of chatbot, said it raised $450 million in funding to bolster the development of its AI bot ..."
-    publishedDateTime: 2023-05-24T11:45:00Z
-    webUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?n=%5CL"
-    ampWebUrl: "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1"
+  - title: "ChatGPT: Most Americans Know About It, But Few Actually Use the AI Chatbot"
+    excerpt: "Though 58% of Americans are familiar with ChatGPT, just 14% have actually tried it, a Pew Research Center survey finds."
+    publishedDateTime: 2023-05-27T14:10:00Z
+    webUrl: "https://www.pcmag.com/news/few-americans-have-actually-tried-chatgpt-despite-most-knowing-about-it"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 45
 
 secured: "KZXuXfY/iEvrn1gPDqEUA3SHhag1ZJK/FmeL2uAlnpPLou2rCjODDT3Wwq1WEe6WfeaJTDtd8fh5yUtY4Uh5Cg8Oei1RKuwaoeRKohBCZ3um7Po4sWfy/MlWx1LuhCVDbGh958GciSL32ppYalj1Qaq3Zv8xqfuIjCKEnokMtMw6NfiDl4HNF32hJ8VAvyPUDguhalZ3DiVacuJ4suCeTscFQYHAChY8Q39qBJ3FPs1x0nsb5Wi4ktmCDOCtUbaJsfLc2xY+XBxwwS6iIQUZWpRFyIfGWe4UI+ZVFNoxWIJMmDindLSrYxX2rcN6sk0GePr+HY15HD01gs/7ryUtmNaFqsA7CWhasBa/okK3yLS1hQzwPBnrNj47uYi2FU+Gie6XLAEgs5U7c80TbBjhRwY+WO9BpI77phtD/T22dJC5g+ieSAJ9neZmY1m93wYIkT1m02habPBoTInZoXjcd9dcJCgZxAnXgRiPa4w98ZV/+FAibwrl6VX41H8JoXC4OjhrrQ5dY6wvpyjB4mMEMw==;zM5J3Gmfe/+Y+eRitYPi3w=="
 ---

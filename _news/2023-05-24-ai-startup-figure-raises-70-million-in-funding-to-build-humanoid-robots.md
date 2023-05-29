@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Turkish AI-backed Marketing Platform Insider Raises $105 Million"
-    excerpt: "Insider, a Turkish artificial intelligence-backed marketing platform, raised as much as $105 million in funding from two existing investors in a deal that highlights how AI companies are defying the global tech industry slump."
-    publishedDateTime: 2023-05-24T05:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-24/turkish-ai-backed-marketing-unicorn-insider-gets-more-funding-for-m-a"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFIBqeSae5.s/v0/1200x801.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Google-Backed AI Startup Anthropic Raises $450 Million, Bringing Total Funding to Nearly $1 Billion"
     excerpt: "Anthropic, an artificial intelligence startup competing with OpenAI in building AI foundation models, said on Tuesday it had raised $450 million (roughly Rs. 3,700 crore) from investors including Alphabet 's Google and Spark Capital."
     publishedDateTime: 2023-05-24T08:05:00Z

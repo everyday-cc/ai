@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI-backed robotics firm 1X deploys the world’s first AI robot in the workforce"
-    excerpt: "Robotics start-up 1X which is backed by Sam Altman’s OpenAI has overtaken Elon Musk’s Tesla in deploying the first AI robot in the workforce. The robot named EVE has been reportedly integrated as a security guard in an Android manufacturing site. The robot is reportedly redefining surveillance and security."
-    publishedDateTime: 2023-05-24T07:24:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/openai-backed-robotics-firm-1x-deploys-the-worlds-first-ai-robot-eve-8626164/"
-    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/openai-backed-robotics-firm-1x-deploys-the-worlds-first-ai-robot-eve-8626164/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/openai-backed-robotics-firm-1x-deploys-the-worlds-first-ai-robot-eve-8626164/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 85
-    images:
-      - url: "https://images.indianexpress.com/2023/05/1X-Eve.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "OpenAI-backed start-up deploys AI-powered robots in real world; beats Tesla"
     excerpt: "1X's revolutionary robot is called EVE. In simple terms, EVE is real-life RoboCop. The robot has a head, a face, and two autonomous arms. The company has deployed the robot as security guards in two industrial locations. It can perform a multitude of human-like tasks, including opening doors and windows, fetching objects, packing goods, and more."
     publishedDateTime: 2023-05-24T13:08:00Z
@@ -120,20 +104,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "AI may pull the trigger in war, but it shouldn’t call the shots"
-    excerpt: "Think killer robots. Autonomous weapons ... Although the task of regulating AI might seem intimidating, we should start with core principles. The most vital one is that a human being should always be involved in the decision to use lethal force."
-    publishedDateTime: 2023-05-24T07:06:00Z
-    webUrl: "https://www.bostonglobe.com/2023/05/24/opinion/seth-moulton-ai-autonomous-weapons/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 39
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/8R1zMyNnXVbxeDGJivBszvh18cs=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SHS6YCGMMWM3F5MQQL4DBZ67QI.jpg"
-        width: 506
-        height: 380
-        isCached: true
   - title: "How Much Should We Trust Artificial Intelligence"
     excerpt: "There has been a great deal of recent buzz about the rather dated notion of artificial intelligence ... Consider the case of self-driving cars. Elements of AI come into play in growing numbers ..."
     publishedDateTime: 2023-05-25T00:00:00Z

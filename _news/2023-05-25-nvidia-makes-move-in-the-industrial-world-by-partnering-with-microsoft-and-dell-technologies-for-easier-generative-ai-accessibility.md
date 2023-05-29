@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft integrates Nvidia’s AI Enterprise Suite with Azure Machine Learning"
+    excerpt: "Microsoft is integrating Nvidia’s AI Enterprise software suite with its Azure Machine Learning service to help enterprise developers build, deploy, and manage applications based on large ..."
+    publishedDateTime: 2023-05-27T18:59:00Z
+    webUrl: "https://www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.html"
+    ampWebUrl: "https://www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 103
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Elon Musk Wants to Challenge Google and Microsoft in AI"
     excerpt: "Elon Musk says it could involve different parts of his corporate empire, including Twitter, which he predicted could halt its losses as soon as next month."
     publishedDateTime: 2023-05-24T23:21:00Z
@@ -130,22 +146,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/02aNS4J1EimGiO8IyBqQRzr-1.fit_lim.size_1200x630.v1685039521.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Microsoft launches Azure AI Studio for developers to create their own AI 'copilots'"
-    excerpt: "Microsoft has launched Azure AI Studio, a new capability within the Azure OpenAI Service that allows customers to combine OpenAI chatbots with their"
-    publishedDateTime: 2023-05-24T06:06:00Z
-    webUrl: "https://www.prokerala.com/news/articles/a1421972.html"
-    ampWebUrl: "https://www.prokerala.com/news/articles/a1421972.html?amp=1"
-    cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1421972.html?amp=1"
-    type: article
-    provider:
-      name: Prokerala
-      domain: prokerala.com
-    quality: 83
-    images:
-      - url: "https://www.prokerala.com/news/photos/imgs/1200/azure-ai-studio-photo-twitter-1592191.jpg"
-        width: 1200
-        height: 493
         isCached: true
   - title: "Microsoft’s President Backs New Agency to Regulate ChatGPT, Other AI Systems"
     excerpt: "Sam Altman, CEO of ChatGPT creator OpenAI, touted the benefits of AI and acknowledged potential downsides of the technology during a Senate subcommittee hearing on Tuesday. Photo: Patrick Semansky/Associated Press WASHINGTON—Microsoft President Brad ..."
@@ -207,22 +207,6 @@ related:
         width: 772
         height: 434
         isCached: true
-  - title: "Microsoft brings latest innovations in cloud, data & AI to COMEX 2023"
-    excerpt: "Through the Azure platform, the intelligent Microsoft Cloud offers public and private enterprises the ability to deliver new business models and boost the speed of innovation and time to market. Microsoft’s AI technologies are protected by industry ..."
-    publishedDateTime: 2023-05-24T05:56:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/microsoft-brings-latest-innovations-in-cloud-data-and-ai-to-comex-2023-tpfqwbqc"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/microsoft-brings-latest-innovations-in-cloud-data-and-ai-to-comex-2023-tpfqwbqc?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/microsoft-brings-latest-innovations-in-cloud-data-and-ai-to-comex-2023-tpfqwbqc?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 74
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZWI0NDI2ZDItMDAxNy00/1/ministeronthebooth-jpg.jpeg?f=3%3A2"
-        width: 897
-        height: 598
-        isCached: true
   - title: "Intel And Microsoft Team Up To Bring AI To Windows PCs At Scale, What You Need To Know"
     excerpt: "The announcement comes as part of Microsoft's Build 2023 conference, where the two previewed the AI capabilities of Meteor Lake processors."
     publishedDateTime: 2023-05-24T15:51:00Z
@@ -252,22 +236,6 @@ related:
       - url: "https://i.insider.com/646e4e056f9a480018736ddd?width=1200&format=jpeg"
         width: 682
         height: 341
-        isCached: true
-  - title: "Jugalbandi: Microsoft-backed Indian group aims to bridge language barrier with AI assistant"
-    excerpt: "An Indian research group backed by Microsoft and Infosys co-founder Nandan Nilekani is using generative AI, the technology behind chatbot sensation ChatGPT, for a mobile assistant that aims to make information on government schemes accessible in multiple languages."
-    publishedDateTime: 2023-05-24T05:56:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/jugalbandi-microsoft-backed-indian-group-aims-to-bridge-language-barrier-with-ai-assistant-71684861722651.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 64
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/05/23/1600x900/USA-ARTIFICAL-INTELLIGENCE-BIDEN-0_1684866087281_1684866253190.JPG"
-        width: 1600
-        height: 900
         isCached: true
   - title: "3 AI Stocks That Could Beat Out Google and Microsoft"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Unless you’ve been off the grid for most of 2023, you know that"
@@ -475,17 +443,6 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 36
-  - title: "Microsoft Build 2023: Establishes a framework for creating AI applications and broadens the Copilot ecosystem"
-    excerpt: "Microsoft unveiled new tools to simplify copilot ecosystem development, including Azure AI Studio and Azure OpenAI Service on your data"
-    publishedDateTime: 2023-05-24T05:54:00Z
-    webUrl: "https://www.dqindia.com/microsoft-build-2023-establishes-a-framework-for-creating-ai-applications-and-broadens-the-copilot-ecosystem/"
-    ampWebUrl: "https://www.dqindia.com/microsoft-build-2023-establishes-a-framework-for-creating-ai-applications-and-broadens-the-copilot-ecosystem/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/microsoft-build-2023-establishes-a-framework-for-creating-ai-applications-and-broadens-the-copilot-ecosystem/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 35
   - title: "Canary Speech Accelerates AI Speech Analysis Technology with Microsoft Cloud for Healthcare Integration"
     excerpt: "Digital vocal biomarker innovator integrates clinical-grade technology providing real-time speech analysis on Microsoft Cloud for Healthcare. PROVO, Utah, May 24, 2023 /PRNewswire/ -- Canary Speech, Inc."
     publishedDateTime: 2023-05-24T23:40:00Z

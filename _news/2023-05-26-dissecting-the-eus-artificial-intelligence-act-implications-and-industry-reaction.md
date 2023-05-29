@@ -25,43 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Automate document validation and fraud detection in the mortgage underwriting process using AWS AI services: Part 1"
-    excerpt: "In this three-part series, we present a solution that demonstrates how you can automate detecting document tampering and fraud at scale using AWS AI and machine learning (ML) services for a mortgage underwriting use case. This solution rides on a more significant global wave of increasing mortgage fraud,"
-    publishedDateTime: 2023-05-24T16:19:46Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-document-validation-and-fraud-detection-in-the-mortgage-underwriting-process-using-aws-ai-services-part-1/"
+  - title: "AI And Robots Enter The Toolbox Of The Construction Industry"
+    excerpt: "The construction and development sector is embracing artificial intelligence and robotics to combat labor shortages and attract young talent."
+    publishedDateTime: 2023-05-26T00:46:00Z
+    webUrl: "https://www.bisnow.com/south-florida/news/construction-development/ai-robots-enter-the-toolbox-of-the-construction-industry-119127"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 82
+      name: Bisnow
+      domain: bisnow.com
+    quality: 54
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/24/automate-document-validation-1260x630.jpg"
-        width: 1260
-        height: 630
+      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2023%2F05%2F646fc0a3df998-asi-cymba-brandon-spirk-jay-fayette-russ-beck-brad-meltzer-daniell-odess.jpeg&width=1200&sign=RBzGQ2khF0_DQBwgY3jhPTdbwKwCxZWm6sXam5S2PgE"
+        width: 1200
+        height: 819
         isCached: true
-  - title: "Dialogue-guided intelligent document processing with foundation models on Amazon SageMaker JumpStart"
-    excerpt: "Intelligent document processing (IDP) is a technology that automates the processing of high volumes of unstructured data, including text, images, and videos. IDP offers a significant improvement over manual methods and legacy optical character recognition (OCR) systems by addressing challenges such as"
-    publishedDateTime: 2023-05-24T16:50:32Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/dialogue-guided-intelligent-document-processing-with-foundation-models-on-amazon-sagemaker-jumpstart/"
+  - title: "How can SaaS, AI, and computer vision digitize the retail industry"
+    excerpt: "Microsoft for Startups talkings about latest digitization trends in the retail and consumer industry with several start-up execs."
+    publishedDateTime: 2023-05-26T03:05:00Z
+    webUrl: "https://technode.com/2023/05/26/how-can-saas-ai-and-computer-vision-digitize-the-retail-industry/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 74
+      name: TechNode
+      domain: technode.com
+    quality: 54
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/16/ml14223-arch-1260x618.jpg"
-        width: 1260
-        height: 618
+      - url: "https://technode.com/wp-content/uploads/2023/05/26327327-scaled-e1685001063413.jpg"
+        width: 2560
+        height: 1542
         isCached: true
-  - title: "Global Automated Machine Learning (AutoML) Market Report 2023: Increasing Need for Accurate Fraud Detection Drives Growth"
-    excerpt: "Market by Offering (Solutions & Services), Application (Data Processing, Model Selection, Hyperparameter Optimization & Tuning, Feature Engineering, Model Ensembling), Vertical and Region - Global Forecast to 2028\" report has been added to  ResearchAndMarkets."
-    publishedDateTime: 2023-05-24T22:39:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/24/9820837.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
 
 secured: "B07eCyFxXxmT8RRWvWn8EiziUpJOlphXIpk6SskmxOZfapuADGQyoTIHaplpA3E6nBAa+mckel/8Wt5deLEJgVo4BA+5eAYs5ur5TMJVIBzw1LNdR7d8Yp8S2hJ2elQ6xGt+H8YyWS0jEkXyEk04hiH8dyo8vrXh6PSpJSsRIT7DVsiQjikR8iwuq9+vlaTW2SrGSN50wrTcJxkm+xXoP1+7xNFnXyU5+caRrxRzI+bjPACFxkrj6zgUF0MAGT4YHdGMrFqbLn05L71U6nNwNDHJtxxktsF//s5iK7t/NvlHOcqUZruzutWulgAW7mwvsmGA+BMj5FYLPlKn1h1OPwk3+9XMraScaWWCg1hK7Ts=;1cL0ONPt1z3vKpVCSEJAhQ=="
 ---

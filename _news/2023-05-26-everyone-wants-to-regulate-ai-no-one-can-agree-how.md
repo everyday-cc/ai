@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Wordtune vs Grammarly: Competing AI Writing Assistants"
-    excerpt: "Assisted Communication for Authenticity In today’s digital landscape, crafting eloquent text has become necessary for professionals, students, and casual writers alike. As a result, AI-powered language tools such as Wordtune and Grammarly have emerged as indispensable resources in the writing process."
-    publishedDateTime: 2023-05-24T07:08:00Z
-    webUrl: "https://techbullion.com/wordtune-vs-grammarly-competing-ai-writing-assistants/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/05/Depositphotos_652094916_S-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Game-changing AI in iPhone 15 will talk in your voice but can it get you kidnapped too?"
     excerpt: "Phones running Apple's new iOS 17 can learn your voice in 15 minutes and start talking like you. Apple is changing the world for the better. Or is it?"
     publishedDateTime: 2023-05-27T11:48:00Z

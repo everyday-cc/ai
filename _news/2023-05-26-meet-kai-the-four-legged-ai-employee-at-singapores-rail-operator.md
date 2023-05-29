@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Turkish AI-backed Marketing Platform Insider Raises $105 Million"
-    excerpt: "Insider, a Turkish artificial intelligence-backed marketing platform, raised as much as $105 million in funding from two existing investors in a deal that highlights how AI companies are defying the global tech industry slump."
-    publishedDateTime: 2023-05-24T05:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-24/turkish-ai-backed-marketing-unicorn-insider-gets-more-funding-for-m-a"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFIBqeSae5.s/v0/1200x801.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "AI startup Figure raises $70 million in funding to build humanoid robots"
     excerpt: "The new funding will be used to accelerate the development and manufacturing of the company's first autonomous humanoid, which is expected to launch in the next few months. The valuation of the one-year-old company was not disclosed,"
     publishedDateTime: 2023-05-24T10:59:00Z
