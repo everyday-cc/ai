@@ -18,45 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "One Way AI Will Help Human Workers: Ensuring They're Paid Fairly"
-    excerpt: "Automation will change the job landscape for many workers—but instead of taking everyone’s jobs away, AI is throwing into relief what kind of skills are most needed for today’s rapidly evolving job market."
-    publishedDateTime: 2023-05-24T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/amp/"
+  - title: "AI Is Helping Create the Chips That Design AI Chips"
+    excerpt: "As artificial intelligence drives demand for more advanced semiconductors, new techniques in AI are becoming crucial to continued progress in chip manufacturing. The entire semiconductor supply chain, from design through to final fabrication, is now domi ..."
+    publishedDateTime: 2023-05-25T15:51:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/05/25/nvidia-s-culitho-has-ai-helping-design-chips/38a4a93a-fb13-11ed-bafc-bf50205661da_story.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/626173e1aeaa4c8e625ca2cd/0x0.jpg?format=jpg&crop=2046,1151,x0,y286,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Workplace AI: How artificial intelligence will transform the workday"
-    excerpt: "Artificial intelligence has been around for years, but scarcely has it found itself in conversation as much as it has now. The launch of OpenAI’s ChatGPT rocketed generative AI onto the radar of ..."
-    publishedDateTime: 2023-05-26T20:21:00Z
-    webUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 84
-    images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0fnfjfy.jpg"
-        width: 624
-        height: 351
-        isCached: true
-  - title: "Workera introduces the world's first skills assessments for generative AI"
-    excerpt: "PALO ALTO, Calif., May 25, 2023 /PRNewswire/ -- Series B startup Workera announces the release of its generative AI assessments to test, rate and develop the skills of this cutting-edge technology in the contemporary workforce. Over 1,000 users have ..."
-    publishedDateTime: 2023-05-25T17:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/workera-introduces-the-world-s-first-skills-assessments-for-generative-ai-1032352473"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
 
 secured: "KjYLueBvEk2sgBCPbbMVkkn9UqC6EVD9geX8vctMAbFB47OjYWKUYOI4CnzgQfPpAKElMKACMRZxjDwaBe4A9tF/eMUUI64fhkpKJyfiD9EYF3Djujsi0JwbVV9nN8WsSHJ/sT0sh5JcQPz51Skwno6SJY8R2NF/ZWYEyzney4xT42fT0kwH6c9plE+9Nlffjwx4Sv+p5NvrOpKqI0ep5yvLsbw2GvUwBp0VVah8fjjMN+TvXz/gdwiQZPVBYxEBP+Z5Er2uNy1bHegBkr0HfrLVmAxPlp0u4N/lgvR+ps768WdxoLdgLm4CZR2NKgp2QFXr2nsFXgUo1xgreTpZdX0wzWAYXKGGSEIl0MvW3yN1dTfafJwrpqM5QIvWts1YR7IrruiQl4UN/dcOXh1y9T5y3JhLQthm2CEeyTjc5FnQeQzvSKTdOzu2YqQtlQKiJf8u3wkoIrybTzdNTvRqhs30u7FsBeFMdGZxuoJuHG/lNa9LFEQSe1xB4IzFpPgMj8DLprj9IDYy/ne8Rjkxiw==;CqHB62k9IlNOeHEoM2aB3A=="
 ---

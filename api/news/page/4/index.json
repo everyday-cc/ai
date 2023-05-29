@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-25-microsoft-unifies-data-management-analytics-and-ml-into-fabric.md",
+      "title": "Microsoft Unifies Data Management, Analytics, and ML Into ‘Fabric’",
+      "excerpt": "Microsoft yesterday unveiled Microsoft Fabric, a new offering that unites its suite of data management, analytic, and machine learning tools into a single",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2023/05/24/microsoft-unifies-data-management-analytics-and-ml-into-fabric/",
+      "originalUrl": "https://www.datanami.com/2023/05/24/microsoft-unifies-data-management-analytics-and-ml-into-fabric/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datanami.com/wp-content/uploads/2023/05/MS-Fabric-Logo.png",
+          "width": 821,
+          "height": 389,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-former-google-ceo-warns-ai-could-cause-people-to-be-harmed-or-killed.md",
       "title": "Former Google CEO Warns AI Could Cause People To Be ‘Harmed Or Killed’",
       "excerpt": "Eric Schmidt, who served as Google’s chief executive from 2001 to 2011, said artificial intelligence poses “existential risks.”",
@@ -249,7 +293,7 @@
       "originalUrl": "https://venturebeat.com/ai/microsoft-aims-to-win-the-ai-app-race-with-three-big-advantages/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 466,
+      "heat": 436,
       "tags": null,
       "images": [
         {
@@ -353,7 +397,7 @@
       "originalUrl": "https://venturebeat.com/enterprise-analytics/alteryx-reimagines-data-analytics-with-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -539,58 +583,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-is-artificial-intelligence-an-investing-fad.md",
-      "title": "Is Artificial Intelligence an Investing Fad?",
-      "excerpt": "The market has bid up a number of stocks that seem to have exposure to artificial intelligence. But are we sure the industry will play out as planned? That's what Travis Hoium digs into in this video, and it may make you think twice about some hot AI stocks. *",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/05/24/is-artificial-intelligence-an-investing-fad/",
-      "originalUrl": "https://www.fool.com/investing/2023/05/24/is-artificial-intelligence-an-investing-fad/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/733368/chatgpt-keyboard.jpg",
-          "width": 2309,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },

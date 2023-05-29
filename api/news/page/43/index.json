@@ -2,6 +2,58 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2023-05-02-godfather-of-ai-exits-google-concerned-about-multiple-ethical-problems.md",
+      "title": "'Godfather of AI' exits Google, concerned about multiple ethical problems",
+      "excerpt": "Hinton worries unregulated AI could lead to waves of misinformation, lost jobs, and problems with fully automated weapons. It’s no secret that Google has been ramping up AI development to put out products that can compete with the likes of ChatGPT,",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-ai-concerns-3319098/",
+      "originalUrl": "https://www.androidauthority.com/google-ai-concerns-3319098/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Logo-Lights.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-05-02-chatgpt-and-generative-ai-around-the-world-maturity-opportunities-and-hurdles-in-key-regions.md",
       "title": "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions",
       "excerpt": "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal.",
@@ -1150,49 +1202,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns.md",
-      "title": "Next big wave in tech investing? Watch out for AI ‘technology unicorns’",
-      "excerpt": "Venture capital pros expect generative AI to be “highly” or “moderately disruptive” over the next five years with more than 70% believe a wave of AI-inspired “technology unicorns” is on the horizon. Check out the results of a new survey from Pitchbook.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/",
-      "originalUrl": "https://wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2019/11/cash-dollars-investing.jpg",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/01/next-big-wave-in-tech-investing-watch-out-for-ai-technology-unicorns/?amp=1",
-      "publishedDateTime": "2023-05-01T03:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

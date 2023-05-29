@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "The Promise Of AI ... And The Reality"
-    excerpt: "There are three things I think AI can do right now for operations, marketing and communications in the DSO space as well as in private dental practices."
-    publishedDateTime: 2023-05-24T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/24/the-promise-of-ai--and-the-reality/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/24/the-promise-of-ai--and-the-reality/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/24/the-promise-of-ai--and-the-reality/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645ba61bd8a7fb17319c02fa/0x0.jpg?format=jpg&crop=3574,2012,x0,y410,safe&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "At ISC 2023: Hyperion Reports HPC Industry Grew 4% in 2022; AI to Drive Stronger Growth Next and Following Years"
     excerpt: "The HPC industry managed to achieve modest overall growth in 2022, but growth of any kind was in doubt right up to the end of the year, according to HPC-AI industry analyst firm Hyperion Research, which hosted its bi-annual HPC market update at a breakfast event this week during the ISC 2023 conference in Hamburg."
     publishedDateTime: 2023-05-25T17:21:00Z
@@ -89,6 +73,6 @@ related:
         height: 332
         isCached: true
 
-secured: "qIfzLPA6jj2EM3I92BoFHSaMuYiZRmxwIRW3nmnwUv8RiPaXybr2mddfX3SRePZzLNk2ehbxVY2MKb+Gi+45qjnJHt3XQlWK+y5ZM6O48a41vStzinbxVRNJvkF+DURr0bmYHYQBM8NkDLIb1CRH0jiwQrX07kXB1rHEnAUNJCGk02OVp06faYW9+1o9nqBxz8PrHQauLUx4VtgVRHzWJqlPM3TCllWGflIirl5SnsHLM7GzDZ4UUSX/yrBOgweBpztiLmEmrb6BX40YiON8gOjqr/o6cxRbbmJfmSfkuSkCWM8GT3Rj7K3ZKL15nWL80EASKrBuviOBzp0o75PQuQBFluFsJFMTZyyq36xSaWE=;x6FJO4I4GkSdsGqznwSTkQ=="
+secured: "MFmvtY2krT1I+VUvz6zMgaObUu8OqUpSBxduPBFcJwBWj0KQw9/pdP/APe7MO5QuDGrL7vYAUytJHlUf37SAsv2UnvKojqMeU4Apaekf9SgXk/men9+Pyddg2lJBK3L7PTniulN7sA5utvhy5M5VxIRHfQrHxWKDxuMRvmCaLFuoaoLU46VwQQUuhPBPjZc5NWd4TvOIQ1eNiJpHxCJgAR+dUU9qTkABf2U3CHOoQiD6vl1ru1y2DRyym9SG2nHBBtg6jRuBhsEhHiv+0Pl2v97k/vimIz8ujCD833Hd+DaqrKa4B27XjXmZ+6ce1c3JPOU8YU6ym+oWj7X4YMou2fptXVbUICNO0xDRmQZqreyRc5WOpP9bck/dYReHEllFhsyiLQh3Bk4o3IEidmNJ2rgE7SEPnyqvkSgMwIvJtXHnn5OgYTBv8doQ1Q3V9Aq7HU5yl2k+uJ1+vseGlRFSN2t0PEBnsPewdt2xoNhv1vQQ9jk7uwziisRO30zzDAroGIV0SV7loKPDZhR0ToR2WA==;OXYEzaLA0i0eTNHI3b83JQ=="
 ---
 

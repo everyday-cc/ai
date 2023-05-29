@@ -20,19 +20,79 @@ topics:
   - AI
 
 related:
-  - title: "Is Artificial Intelligence an Investing Fad?"
-    excerpt: "The market has bid up a number of stocks that seem to have exposure to artificial intelligence. But are we sure the industry will play out as planned? That's what Travis Hoium digs into in this video, and it may make you think twice about some hot AI stocks. *"
-    publishedDateTime: 2023-05-24T14:01:00Z
-    webUrl: "https://www.fool.com/investing/2023/05/24/is-artificial-intelligence-an-investing-fad/"
+  - title: "Workplace AI: How artificial intelligence will transform the workday"
+    excerpt: "Artificial intelligence has been around for years, but scarcely has it found itself in conversation as much as it has now. The launch of OpenAI’s ChatGPT rocketed generative AI onto the radar of ..."
+    publishedDateTime: 2023-05-26T20:21:00Z
+    webUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
+      name: BBC
+      domain: bbc.com
+    quality: 84
     images:
-      - url: "https://g.foolcdn.com/editorial/images/733368/chatgpt-keyboard.jpg"
-        width: 2309
-        height: 1299
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0fnfjfy.jpg"
+        width: 624
+        height: 351
+        isCached: true
+  - title: "Investing in AI: how to avoid the hype"
+    excerpt: "However, Porter also cautions that \"we are still very early on the use cases for AI.\" Dizzying valuations have made some investors wary of the technology hype cycle. This concept, popularised by consultancy Gartner,"
+    publishedDateTime: 2023-05-26T04:16:00Z
+    webUrl: "https://www.reuters.com/technology/investing-ai-how-avoid-hype-2023-05-26/?ref=biztoc.com"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/FSPUvb7djINBafN665jGm5-QZEM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6TIDCQXE4ZLHTGW3OELMLU5JIU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "How AI and Machine Learning Will Transform Your Legal Department"
+    excerpt: "With 80% of executives believing that automation can be applied to any business decision, AI and ML tools are currently the most popular area where business IT departments will invest in 2023."
+    publishedDateTime: 2023-05-25T15:18:00Z
+    webUrl: "https://www.law.com/corpcounsel/2023/05/25/how-ai-and-machine-learning-will-transform-your-legal-department/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 54
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/428/2023/05/Artificial-Intelligence_2-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Analysis-Investing in AI: How to Avoid the Hype"
+    excerpt: "\"It's just that that’s very hard to be true for the entire market.\" Instead of backing hot start-ups or rushing into highly valued AI-themed businesses that might fail, seasoned investors are taking a lateral view to back already proven technology ..."
+    publishedDateTime: 2023-05-26T05:34:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-05-26/analysis-investing-in-ai-how-to-avoid-the-hype"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
+  - title: "Workera introduces the world's first skills assessments for generative AI"
+    excerpt: "PALO ALTO, Calif., May 25, 2023 /PRNewswire/ -- Series B startup Workera announces the release of its generative AI assessments to test, rate and develop the skills of this cutting-edge technology in the contemporary workforce. Over 1,000 users have ..."
+    publishedDateTime: 2023-05-25T17:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/workera-introduces-the-world-s-first-skills-assessments-for-generative-ai-1032352473"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
+  - title: "Generative AI: How it Works, History, and Pros and Cons"
+    excerpt: "Generative AI is used in everything from creative to academic writing and translation; composing ... in which prompts can be given and interactions can take place in plain language. Here are some of the most popular recent examples of generative AI ..."
+    publishedDateTime: 2023-05-26T18:17:00Z
+    webUrl: "https://www.investopedia.com/generative-ai-7497939"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 41
+    images:
+      - url: "https://www.investopedia.com/thmb/evqH4CUzBFrebOwRlM2CANNWBz8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chatgpt-588fc25767134c248543d3de511ed5ea.jpg"
+        width: 1500
+        height: 1002
         isCached: true
 
 secured: "PsKW4b+wai5PA5JIhj3jsE3jny2/DaqXl9+mW8fm//r+UDD4vecHS5UhoEU+x3rOc1L66LRARkaci6Tz3z30lglIP9uml4pyCgnUdTNpseQPFnkB+Hn0v1pl5nkKWoCl6rtfzH76NKxMfVs46D6bAnRoBw4YQtehc/k8yCbS3Kisk/taCalc4f7ZYba9oUu/sM6+XlqEP37M486gyNot0S8kLzCzCll+1R3DYmEPigqsQttymm/i4eeh3Ch0ZJv0aNK9UqffI/xMFVMPPeK3Q7qyN27TGPkwpleBeNDBY2e4WcADL+Y/35qwGGoyGYQkOtrEwDCb2cwp1fTvOdI+fkf6y/+eJpXdZDyw974LTWeErBmwvBfvcmxY7XLmdr+rco5OcFItBLmyjkY1EWnqb2HRE41pcuQKqMJqSCSboY5I2imbJ5kMpc9wP0X3CuXwa3BRdVMbUXzTm6AJGJV0032FHzdGrRiJjIkNUU2yeIAfRuqwkCra8/gNJh7EwcGWn+aawl1fmqvP+aGVfu+Usw==;7a/v+5G7XhMqetz3PI3R9A=="

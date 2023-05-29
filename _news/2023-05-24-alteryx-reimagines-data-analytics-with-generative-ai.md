@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/enterprise-analytics/alteryx-reimagines-data
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/enterprise-analytics/alteryx-reimagines-data-analytics-with-generative-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 794
     isCached: true
-
-related:
-  - title: "How Could Generative AI Impact The Data Analytics Landscape?"
-    excerpt: "While many of the possibilities of generative AI in data analytics are yet to emerge, there are already clear indications of the possible areas of impact."
-    publishedDateTime: 2023-05-24T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/24/how-could-generative-ai-impact-the-data-analytics-landscape/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "N1dtGd5oUshsvV12YNOwRBX1l/9q45nsacHjzgWYCf0czIgBzyPOXFgFv1nswaxutL2pZz1BFhjLQFSXDTOm7dOvvYj1s/ntKe46pc0MmiA8ZmfdsZU0uiM8kmHHwSOCvwdmaepmAnV+chKbvMponjaBqTH1LRs+pG8DLcQt6OLE4BBTmOWbq7tU6WYwyJzE7KY0t4XlKXDz/45vA7pK1Nhf1Ju2r1yIWswxbKuKQJFRYjFl3EFqaFfG4+rOWWSaoGzXG4n+oY0I5OrAdku+GGSMsIp9Tdu2Z2m2clpMWi1RYxSo+Cdb4i/3Q5b3I/UCXmBib2lmWIG0PbiO0HPoA+Ri6m8j0ib3LPnfwhN88Rv/oDj6LwE8P67NcwcP5bKPzpUP/7V5grb98A4OMNCjDdI5SLAnHXCLPGBcddgB6h3s2BGK0798CsUNvCQnkMWR4dpYjCHmTQ53cgmfyGcP96JMCjWrY60YjEoCqGCcaRe5mmlMZb+RK3HXux6bpwuZ+e2Wnx8IlOtbNhriu+dt/A==;7CcK/deEMWavL+Ww3unr3g=="
 ---

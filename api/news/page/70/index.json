@@ -2,6 +2,57 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2023-04-14-arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-it-was-completely-her-voice.md",
+      "title": "Arizona mother describes AI phone scam faking daughter's kidnapping: 'It was completely her voice'",
+      "excerpt": "Computer science professor Subbarao Kambhampati warned that these stories of voice-cloning technology and catfish schemes could become more common as AI technology improves. \"In the beginning, it would require a larger amount of samples. Now there are ways ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-completely-voice",
+      "originalUrl": "https://www.foxnews.com/media/arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-completely-voice",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8eb80cf8-e162-478d-abd8-c8fbc0f1273a/01e11506-91c2-44be-a50c-2ebd0c02eebe/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-completely-voice.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/arizona-mother-describes-ai-phone-scam-faking-daughters-kidnapping-completely-voice.amp",
+      "publishedDateTime": "2023-04-13T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-handing-off-control-while-keeping-the-human-engaged-is-a-constant-challenge-with-surgical-robotics-says-industry-expert.md",
       "title": "Handing Off Control While Keeping the Human Engaged Is a Constant Challenge with Surgical Robotics, Says Industry Expert",
       "excerpt": "As surgical robotics get smaller, more flexible, and more mechanically complex, new challenges arise, such as whether we should rely on the doctor to sort out the control of the devices, or if control should be offloaded to a semi or fully autonomous ...",
@@ -1072,58 +1123,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-13-artificial-intelligence-as-a-service-market-2023-2030-optimize-your-worldwide-industry-with-research-report.md",
-      "title": "Artificial Intelligence as a Service Market [2023-2030] | Optimize Your Worldwide Industry with Research Report",
-      "excerpt": "Global Artificial Intelligence as a Service Market [2023-2030] research report is a compilation of information and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2023-2030-optimize-your-worldwide-industry-with-research-report-2023-04-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2023-2030-optimize-your-worldwide-industry-with-research-report-2023-04-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-13T00:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

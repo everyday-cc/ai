@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "One Way AI Will Help Human Workers: Ensuring They're Paid Fairly"
-    excerpt: "Automation will change the job landscape for many workers—but instead of taking everyone’s jobs away, AI is throwing into relief what kind of skills are most needed for today’s rapidly evolving job market."
-    publishedDateTime: 2023-05-24T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/626173e1aeaa4c8e625ca2cd/0x0.jpg?format=jpg&crop=2046,1151,x0,y286,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Workplace AI: How artificial intelligence will transform the workday"
     excerpt: "Artificial intelligence has been around for years, but scarcely has it found itself in conversation as much as it has now. The launch of OpenAI’s ChatGPT rocketed generative AI onto the radar of ..."
     publishedDateTime: 2023-05-26T20:21:00Z
@@ -52,15 +36,68 @@ related:
         width: 624
         height: 351
         isCached: true
-  - title: "Don’t fear that AI is here: How the emerging tech can help HR pros"
-    excerpt: "With so much commotion surrounding AI, it’s tempting to write it off as a passing trend but don’t be fooled. As this technology evolves and continues making its way into everyday life, it’s not a matter of if AI will find its way into the world of HR,"
-    publishedDateTime: 2023-05-24T14:52:00Z
-    webUrl: "https://www.benefitspro.com/2023/05/24/dont-fear-that-ai-is-here-how-the-emerging-tech-can-help-hr-pros/"
+  - title: "Investing in AI: how to avoid the hype"
+    excerpt: "However, Porter also cautions that \"we are still very early on the use cases for AI.\" Dizzying valuations have made some investors wary of the technology hype cycle. This concept, popularised by consultancy Gartner,"
+    publishedDateTime: 2023-05-26T04:16:00Z
+    webUrl: "https://www.reuters.com/technology/investing-ai-how-avoid-hype-2023-05-26/?ref=biztoc.com"
     type: article
     provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 17
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/FSPUvb7djINBafN665jGm5-QZEM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6TIDCQXE4ZLHTGW3OELMLU5JIU.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "How AI and Machine Learning Will Transform Your Legal Department"
+    excerpt: "With 80% of executives believing that automation can be applied to any business decision, AI and ML tools are currently the most popular area where business IT departments will invest in 2023."
+    publishedDateTime: 2023-05-25T15:18:00Z
+    webUrl: "https://www.law.com/corpcounsel/2023/05/25/how-ai-and-machine-learning-will-transform-your-legal-department/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 54
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/428/2023/05/Artificial-Intelligence_2-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Analysis-Investing in AI: How to Avoid the Hype"
+    excerpt: "\"It's just that that’s very hard to be true for the entire market.\" Instead of backing hot start-ups or rushing into highly valued AI-themed businesses that might fail, seasoned investors are taking a lateral view to back already proven technology ..."
+    publishedDateTime: 2023-05-26T05:34:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-05-26/analysis-investing-in-ai-how-to-avoid-the-hype"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
+  - title: "Generative AI: How it Works, History, and Pros and Cons"
+    excerpt: "Generative AI is used in everything from creative to academic writing and translation; composing ... in which prompts can be given and interactions can take place in plain language. Here are some of the most popular recent examples of generative AI ..."
+    publishedDateTime: 2023-05-26T18:17:00Z
+    webUrl: "https://www.investopedia.com/generative-ai-7497939"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 41
+    images:
+      - url: "https://www.investopedia.com/thmb/evqH4CUzBFrebOwRlM2CANNWBz8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chatgpt-588fc25767134c248543d3de511ed5ea.jpg"
+        width: 1500
+        height: 1002
+        isCached: true
+  - title: "Averting the AI apocalypse"
+    excerpt: "On the shoulders of this automated labor force, super wealthy AI entrepreneurs and companies will rise to form the most powerful elites to ever lord over humanity. Meanwhile, governments risk collapse from sharply diminished tax bases compounded by their own elected leader’s acute technological incompetence — an AI apocalypse."
+    publishedDateTime: 2023-05-26T21:58:00Z
+    webUrl: "https://www.seattletimes.com/opinion/averting-the-ai-apocalypse/"
+    ampWebUrl: "https://www.seattletimes.com/opinion/averting-the-ai-apocalypse/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/averting-the-ai-apocalypse/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
 
 secured: "MGaCt1GH532KtbDm/LohI7hAD82vcD4k/kcjyOtT3B2F0UBajYV9ZhNJvwpnt6SA3c3kbRW8GqFoQskYp6bliEUMRjh+gFVZzmh1TvrcmQlQzCObXh73Y8MsLfyCtOiJSaYm1WlY/aNF6Q7rVnBCSbZ5YH3uOJfD5bRCGLGgEde08ynqsTgx00E42I5z9ILifv2qfCYL3xGVXw/+V63yIMH7kr0A9qIexCU1k/n0sXXi3S0yntHaJEcH7QrT4xn5Sq9C+gWyAzLeo9GIohc/cWpSfZPdEmYoHSOiLXM1grJmiHBfd5X3Bvv0u4vPetotcDt8dlMB40pn0Vjb113UVQG7el8X3uVvVO35rhqZ0D0=;oORCyrgG5dHOBDYKpj4Fkw=="
 ---

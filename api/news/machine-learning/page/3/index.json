@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-05-07-ai-pioneer-geoffrey-hinton-outlines-4-dangers-of-artificial-intelligence.md",
-      "title": "AI pioneer Geoffrey Hinton outlines 4 dangers of artificial intelligence",
-      "excerpt": "The “Godfather of artificial intelligence” has changed his mind about whether AI can become smarter than humans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/",
-      "originalUrl": "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tampabay.com/resizer/Ex5xkonKhkVd-9caaUA6LmErs2I=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/XLO7HHPWM3NDI5NC5D6FR3OQJA.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2023/05/07/ai-pioneer-geoffrey-hinton-outlines-4-dangers-artificial-intelligence/?outputType=amp",
-      "publishedDateTime": "2023-05-07T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tampa Bay Times",
-        "domain": "tampabay.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-05-07-rise-of-artificial-intelligence-is-inevitable-but-should-not-be-feared-father-of-ai-says.md",
       "title": "Rise of artificial intelligence is inevitable but should not be feared, ‘father of AI’ says",
       "excerpt": "Jürgen Schmidhuber believes AI will progress to the point where it surpasses human intelligence and will pay no attention to people The man once described as the father of artificial intelligence ...",
@@ -1357,6 +1314,58 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-emotiv-enlists-two-machine-learning-heavyweights-as-ai-takes-aim-at-the-human-brain.md",
+      "title": "EMOTIV Enlists Two Machine Learning Heavyweights as AI Takes Aim at the Human Brain",
+      "excerpt": "Dr. Flake has been appointed CTO for EMOTIV after helming R&D teams for large technology companies across two decades. Author of the seminal book, The Computational Beauty of Nature, he earned renown as a scientist in academic and research circles before applying his knowledge within the commercial sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/emotiv-enlists-two-machine-learning-heavyweights-as-ai-takes-aim-at-the-human-brain-2023-05-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/emotiv-enlists-two-machine-learning-heavyweights-as-ai-takes-aim-at-the-human-brain-2023-05-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3697708/datastax-taps-thirdai-to-b
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3697708/datastax-taps-thirdai-to-bring-generative-ai-to-its-database-offerings.amp.html"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 13
-  - title: "DataStax and ThirdAI Partner to Accelerate AI Adoption - in the Cloud or Datacenter - at Dramatically Lower Cost"
-    excerpt: "With ThirdAI technology, training AI/ML workloads can be performed on cost-effective CPU chips rather than GPU chips that are more expensive and often only available in limited quantities in the cloud."
-    publishedDateTime: 2023-05-24T12:23:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/24/9820226.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "K8zrxTglheAsi/EwAMVqpUCHuu964VVyJHNhYobrehpWNengY47MR1uTPSAJzIsFtjHBDlXTixdIiofwB8RXEUAQXMAoylUbSQiZ2cGxp7A8A6zc6H0yB5jnzxPUdXXtH0jwZ0RhGSPHQImuFeq3JYkDmtOfqsf76azy8JqUqbP/X3blUisr576eaXMAGM435TtOKjni6eV+XV812NdWm2Yjc9QIPZA/blCB78DXc6g08oyhKo88WigPZwTFAUWJS+QBBPkV1Z+izDcqdiTgxPNOYwWSDHkHed+O/J4S1CNG/HaIiRzgXxi1mZK0EiLcFEVSxTo7I1Dc08sKs2G9ti3n2Nkiwk5Yy0dWqftnWKvuJCF203UBqlLE8p9aOJqBzZ5dKYhQFlWyMXVRo8y1YdlrciDoJRjFay5aDqI06+k6FrXsuBF0DDEvIjAtIxSPJwWk5ESS3CCAdJPkmzH/wLNZF4/9YfGV8jtJIANiKq34ClTVCbS3mRDyBoE19y9gXxgJm6NNqjcCzefWT16U0A==;XeMeUrxRCX8a/Cqxx7Zx2g=="
 ---

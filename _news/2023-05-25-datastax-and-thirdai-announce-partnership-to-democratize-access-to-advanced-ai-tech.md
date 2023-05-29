@@ -49,15 +49,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "DataStax and ThirdAI Partner to Accelerate AI Adoption - in the Cloud or Datacenter - at Dramatically Lower Cost"
-    excerpt: "With ThirdAI technology, training AI/ML workloads can be performed on cost-effective CPU chips rather than GPU chips that are more expensive and often only available in limited quantities in the cloud."
-    publishedDateTime: 2023-05-24T12:23:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/24/9820226.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "YmD9Xk55de4f20CUHnbDHEkAFlcwf4RlyPnQWc9/FqGoTYkBJacgxgFXI2XFrM3mfeKbdwbxl980HrL9YyCMy/Rz4WejgE02wHp5ms0pmBzeN0WG+NH+3PlrnWKHsRisReT7OsSwhE7kVrU+8rkZLKCCy4d7dFsmHelYNAksig5RtiazZO/+iZWCXS31qk1AItls5NYcGg6fD18OmNH5CIIgCnzerOc5l9iYN/VTHcx2x/yZVWq0v6oiC6jqKQkAe7fj3BCRBlp3+illBatade3MDdF8QQJ3QcQVVKAM9oQ5WgT9B+0bxsg3Xm6ohzU4FsFvFDneFxmEpHqxU7wa932u40kdduNppD3P6MzP8qI=;iNWCJ1dHo1My1zS5weN3ZA=="
 ---

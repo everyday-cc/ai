@@ -7,7 +7,7 @@ originalUrl: "https://www.infoq.com/news/2023/05/ai-ml-data-news-may22-2023/"
 webUrl: "https://www.infoq.com/news/2023/05/ai-ml-data-news-may22-2023/"
 type: article
 quality: 71
-heat: 72
+heat: 73
 published: true
 
 provider:

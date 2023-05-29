@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "As NVIDIA Approaches $1T, Company Announces AI Tech Needed To Surpass $2T"
+    excerpt: "The NVIDIA DGX GH200’s massive shared memory space uses NVLink interconnect technology with the NVLink Switch System to combine 256 GH200 superchips, allowing them to"
+    publishedDateTime: 2023-05-29T04:30:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 90
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6473c8a15a1b0fdc91569955/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 620
+        isCached: true
   - title: "Nvidia Poised for Record Sales as AI Demand Kicks In"
     excerpt: "The graphics-chip giant forecast a strong revenue bounce back for the current quarter, driven by growing appetite for generative AI technology."
     publishedDateTime: 2023-05-24T22:28:00Z

@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-05-18-are-alexa-and-siri-ai.md",
+      "title": "Are Alexa and Siri AI?",
+      "excerpt": "Conversational AI is a type of artificial intelligence that ... They have extensive amounts of data that allow them to recognize speech and text to then translate these inputs into meaning. Natural Language Processing in Alexa and Siri Natural language ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/alexa-siri-ai",
+      "originalUrl": "https://www.foxnews.com/tech/alexa-siri-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5c69365-fe8d-493b-bfed-036295311cf9/fa99226e-59e6-4ec3-a739-7a0c2ea9d800/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/alexa-siri-ai.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/alexa-siri-ai.amp",
+      "publishedDateTime": "2023-05-17T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-a-third-former-apple-employee-has-been-charged-with-stealing-self-driving-car-tech.md",
       "title": "A third former Apple employee has been charged with stealing self-driving car tech",
       "excerpt": "A federal court in the Northern District of California has unsealed charges against Weibao Wang, a former Apple software engineer. Wang started working at the company in 2016 as part of a team that developed hardware and software for autonomous systems — technology that could conceivably wind up in self-driving cars.",
@@ -1132,57 +1184,6 @@
         "name": "CBS News",
         "domain": "cbsnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-before-ai-takes-over-make-plans-to-give-everyone-money.md",
-      "title": "Before AI Takes Over, Make Plans to Give Everyone Money",
-      "excerpt": "Here in the United States, an AI jobs revolution need not be anything for average wage-earning families to fear. If AI does not enslave the human race or destroy humanity outright, this generative technology can and should be a very,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/ideas/archive/2023/05/ai-job-losses-policy-support-universal-basic-income/674071/",
-      "originalUrl": "https://www.theatlantic.com/ideas/archive/2023/05/ai-job-losses-policy-support-universal-basic-income/674071/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/VCHLO5tj8BoZvOSAmITi2py2Mqw=/0x102:4792x2598/1200x625/media/img/mt/2023/05/AI_UBI_2/original.jpg",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

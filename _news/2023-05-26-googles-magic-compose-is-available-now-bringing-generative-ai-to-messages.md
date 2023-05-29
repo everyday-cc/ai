@@ -53,15 +53,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 13
-  - title: "DataStax and ThirdAI Partner to Accelerate AI Adoption - in the Cloud or Datacenter - at Dramatically Lower Cost"
-    excerpt: "With ThirdAI technology, training AI/ML workloads can be performed on cost-effective CPU chips rather than GPU chips that are more expensive and often only available in limited quantities in the cloud."
-    publishedDateTime: 2023-05-24T12:23:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/24/9820226.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "mOXAw60oEJ8hSVZpQGPVXtqO/KwqoxEcBRDXMmL1KHv6gUBMWpNg50zIRsJtMMaLOH0VBFbE444Sk8qYxlknold7L7sViEUL846IrYGF16dTQaPyar8uEIarjGrbhtzLv9QA7TGq1s++30zsBXsiyobL1XbhtAyBxDuWqVCQ45QW+vQt7GXxv721nxWx/7m8sLfMrYGg/4FqbThxoY/9nzvMfSDw+vTy+y0+VIaBKZQQbJR0IlOl8e0O2iWaZI1ddQHGh5RbY4quzi3WJYdOsUVFeFjjs2ITUOidlPWJlch29626rAGfCX2oDk+1EHmkFYRKv5AKLjiRihHYRAEOAX47MrC+Hz0xI16MTRnlze4=;426h3XqMLsKTeqiJLwMlHg=="
 ---

@@ -2,6 +2,57 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2023-05-03-artificial-intelligence-detecting-cancer-in-some-us-hospitals.md",
+      "title": "Artificial Intelligence detecting cancer in some U.S. hospitals",
+      "excerpt": "Doctors believe Artificial Intelligence is now saving lives, after a major advancement in breast cancer screenings. A.I. is detecting early signs of the disease, in some cases years before doctors would find the cancer on a traditional scan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/video/6326643971112",
+      "originalUrl": "https://www.foxnews.com/video/6326643971112",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64a7bf5e-cbc4-4589-b30a-252fdbf7d8bf/ce181432-e4f7-4d55-a2a1-64d01842ee04/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-02T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-automated-machine-learning-automl-market-analysis-and-forecast-to-2031.md",
       "title": "Automated Machine Learning (AutoML) Market Analysis and Forecast to 2031",
       "excerpt": "May 03, 2023 (The Expresswire) -- \"Automated Machine Learning (AutoML) Market\" is expected to witness significant growth in the coming years,",
@@ -1100,49 +1151,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-computer-vision-is-transforming-inventory-management-in-the-retail-sector.md",
-      "title": "Computer Vision is Transforming Inventory Management in the Retail Sector",
-      "excerpt": "Retail business owners are often faced with issues in inventory management, which hampers the development of long-term customer relationships.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/technology/computer-vision-is-transforming-inventory-management-in-the-retail-sector",
-      "originalUrl": "https://www.bbntimes.com/technology/computer-vision-is-transforming-inventory-management-in-the-retail-sector",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/How_is_Computer_Vision_Transforming_Inventory_Management_in_the_Retail_Sector.png",
-          "width": 1532,
-          "height": 858,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

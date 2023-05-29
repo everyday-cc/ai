@@ -2,6 +2,57 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-05-11-how-gmail-plans-to-use-ai-to-write-your-emails-for-you.md",
+      "title": "How Gmail Plans to Use AI to Write Your Emails For You",
+      "excerpt": "At its I/O event, Google showed off new AI features called Help Me Write that promise to automate your emails and messages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/how-gmail-plans-to-use-ai-to-write-your-emails-for-you/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/how-gmail-plans-to-use-ai-to-write-your-emails-for-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/8a26daad55df302a2217acdc25f6f0b12005ee2d/hub/2023/05/10/a8b74029-bbff-457e-a48e-7344fd0569c6/help-me-write.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/how-gmail-plans-to-use-ai-to-write-your-emails-for-you/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-gmail-plans-to-use-ai-to-write-your-emails-for-you/",
+      "publishedDateTime": "2023-05-10T18:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-11-ibm-watson-is-getting-an-ai-makeover-and-thats-bad-news-for-workers-everywhere.md",
       "title": "IBM Watson is getting an AI makeover, and that's bad news for workers everywhere",
       "excerpt": "It is also hoped that the Watson Code Assistant will be rolled ... with as many as 7,800 jobs at risk. IBM watsonx.ai and watsonx.data are expected to be generally available by July 2023.",
@@ -1184,58 +1235,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas.md",
-      "title": "Cruise expands supervised self-driving ride-hailing to Houston and Dallas",
-      "excerpt": "Cruise is rolling out its self-driving cars to more cities — specifically, to Houston and Dallas as it expands its Texas-based presence. Cruise already started testing its vehicles in Austin at the end of last year,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/10/cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas/",
-      "originalUrl": "https://techcrunch.com/2023/05/10/cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/Ridehail-Rider-Entry.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/10/cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/10/cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas/amp/",
-      "publishedDateTime": "2023-05-10T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

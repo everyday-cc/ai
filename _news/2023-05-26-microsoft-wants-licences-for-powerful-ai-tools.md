@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Microsoft and Intel collaborate on AI for Windows 11 PCs0 0"
-    excerpt: "This design allows for optimizing segment-relevant performance while reducing power consumption. Intel said Meteor Lake's AI accelerators on the CPU and GPU provide improved performance for running AI models efficiently, enabling a wide range of AI ..."
-    publishedDateTime: 2023-05-24T11:34:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-and-intel-collaborate-on-ai-for-windows-11-pcs/"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-and-intel-collaborate-on-ai-for-windows-11-pcs/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-and-intel-collaborate-on-ai-for-windows-11-pcs/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 106
-    images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2023/05/1682950344_windows_11_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Microsoft confirms 365 Copilot AI will be 'natively integrated' into Edge"
     excerpt: "The same AI assistant that Microsoft is adding to Office will soon be natively integrated into the company's Edge browser as well.."
     publishedDateTime: 2023-05-24T15:03:00Z
@@ -311,20 +295,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Microsoft and NVIDIA join forces to enhance enterprise AI efforts"
-    excerpt: "NVIDIA has an edge over its competitors when it comes to AI processors. The company wants its credentials to be more expansive than that. In the current AI space, what better way to enhance one's credibility than joining hands with Microsoft?"
-    publishedDateTime: 2023-05-24T11:50:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/microsoft-s-azure-machine-learning-gets-nvidia-ai-integration/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 54
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l39920230524154146.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft outlines how to build AI apps and copilots at Build 2023"
     excerpt: "If you are interested in learning more about building artificial intelligence applications and copilots using Microsoft technologies. You will be"
     publishedDateTime: 2023-05-25T13:12:00Z
@@ -394,15 +364,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft's Azure AI Studio will let customers build their own 'Copilot'"
-    excerpt: "Azure AI Studio will provide tools to businesses and developers to build a new capability within the Azure OpenAI Service to combine OpenAI chatbots with their own data to build a chat assistant or an app."
-    publishedDateTime: 2023-05-24T11:43:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/microsofts-azure-ai-studio-will-let-customers-build-their-own-copilot/articleshow/100476638.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 48
   - title: "KPI Partners achieves Microsoft Azure Solutions Partner Designation for Data & AI"
     excerpt: "May 17, 2023 /PRNewswire/ -- KPI Partners, a global trusted strategic partner for Analytics and Digital Transformation solutions, announced today that it has achieved Microsoft Azure Solution Partner status in Data & AI. This recognition showcases the ..."
     publishedDateTime: 2023-05-25T18:37:00Z

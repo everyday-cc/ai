@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "The Promise Of AI ... And The Reality"
-    excerpt: "There are three things I think AI can do right now for operations, marketing and communications in the DSO space as well as in private dental practices."
-    publishedDateTime: 2023-05-24T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/24/the-promise-of-ai--and-the-reality/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/24/the-promise-of-ai--and-the-reality/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/24/the-promise-of-ai--and-the-reality/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645ba61bd8a7fb17319c02fa/0x0.jpg?format=jpg&crop=3574,2012,x0,y410,safe&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "French Open 2023: Grand Slam using AI to protect players from online abuse"
     excerpt: "As the French Open introduces a new technology to help players filter out social media abuse, BBC Sport looks at the issues tennis players encounter online."
     publishedDateTime: 2023-05-28T15:29:00Z

@@ -1224,26 +1224,17 @@
       ]
     },
     {
-      "path": "_news/2023-05-23-meta-open-sources-computer-vision-foundation-model-dinov2.md",
-      "title": "Meta Open-Sources Computer Vision Foundation Model DINOv2",
-      "excerpt": "Meta AI Research open-sourced DINOv2, a foundation model for computer vision (CV) tasks.DINOv2 is pretrained on a curated dataset of 142M images and can be used as a backbone for several tasks ...",
+      "path": "_news/2023-05-23-edge-ai-and-vision-alliance-announces-2023-edge-ai-and-vision-product-of-the-year-award-winners.md",
+      "title": "Edge AI and Vision Alliance™ Announces 2023 Edge AI and Vision Product of the Year™ Award Winners",
+      "excerpt": "Awards Celebrate Innovation and Achievement in Computer Vision and Edge AI SANTA CLARA, Calif.,  /PRNewswire/ -- The Edge AI and Vision Alliance today announced the 2023 winners of the Edge AI and Vision Product of the Year Awards.",
       "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/05/meta-dinov2-vision/",
-      "originalUrl": "https://www.infoq.com/news/2023/05/meta-dinov2-vision/",
+      "webUrl": "https://it.tmcnet.com/news/2023/05/23/9819895.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/05/23/9819895.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2023/05/meta-dinov2-vision/en/headerimage/generatedHeaderImage-1683382074765.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1251,8 +1242,8 @@
       "publishedDateTime": "2023-05-22T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

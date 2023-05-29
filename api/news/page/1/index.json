@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-29-nvidia-ceo-highlights-chips-for-the-historic-wave-of-generative-ai-at-computex.md",
+      "title": "Nvidia CEO highlights chips for the historic wave of generative AI at Computex",
+      "excerpt": "Nvidia CEO Jensen Huang announced a variety of platforms that companies can use to ride a historic wave of generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/nvidia-ceo-highlights-chips-for-the-historic-wave-of-generative-ai-at-computex/",
+      "originalUrl": "https://venturebeat.com/games/nvidia-ceo-highlights-chips-for-the-historic-wave-of-generative-ai-at-computex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/nvidia-ceo-jensen-huang-at-gtc-fall-2022-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-28T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-29-the-ai-boom-runs-on-chips-but-it-cant-get-enough.md",
+      "title": "The AI Boom Runs on Chips, but It Can’t Get Enough",
+      "excerpt": "A shortage of the kind of advanced chips that are the lifeblood of new generative AI systems has set off a race to lock down computing power and find workarounds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/the-ai-boom-runs-on-chips-but-it-cant-get-enough-9f76f554",
+      "originalUrl": "https://www.wsj.com/articles/the-ai-boom-runs-on-chips-but-it-cant-get-enough-9f76f554",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-790143/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-28T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-29-arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones.md",
       "title": "Arm's New CPU, GPU Cores to Deliver Next-Gen AI Experiences on Phones",
       "excerpt": "Arm says pairing its Armv9 Cortex-X4 compute cluster and Arm Immortalis-G720 GPU in a single package will bring powerful AI, 3D, and gaming performance to the top smartphones of 2024.",
@@ -259,7 +363,7 @@
       "originalUrl": "https://www.infoq.com/news/2023/05/ai-ml-data-news-may22-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -655,7 +759,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnhall/2023/05/26/digital-marketing-in-2023-the-rise-of-ai-and-what-it-means-for-your-strategy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -738,6 +842,58 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-workplace-ai-how-artificial-intelligence-will-transform-the-workday.md",
+      "title": "Workplace AI: How artificial intelligence will transform the workday",
+      "excerpt": "Artificial intelligence has been around for years, but scarcely has it found itself in conversation as much as it has now. The launch of OpenAI’s ChatGPT rocketed generative AI onto the radar of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday",
+      "originalUrl": "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ychef.files.bbci.co.uk/live/624x351/p0fnfjfy.jpg",
+          "width": 624,
+          "height": 351,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-26T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -993,7 +1149,7 @@
       "originalUrl": "https://www.ibm.com/blog/strengthening-cybersecurity-in-life-sciences-with-ibm-and-aws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1077,151 +1233,6 @@
       "topics": [
         "IBM AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-this-ai-startup-aims-to-predict-heart-failure-before-it-happens.md",
-      "title": "This AI Startup Aims To Predict Heart Failure Before It Happens",
-      "excerpt": "That’s the dream of Tamir Tal, the founder of Israeli-based artificial intelligence startup Cordio. Its app, HearO, uses machine learning algorithms to detect changes in a patient’s voice that suggest there’s fluid accumulation happening in the lungs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexknapp/2023/05/26/this-ai-startup-aims-to-predict-heart-failure-before-it-happens/",
-      "originalUrl": "https://www.forbes.com/sites/alexknapp/2023/05/26/this-ai-startup-aims-to-predict-heart-failure-before-it-happens/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647007f373dcd9bff4c0026e/0x0.jpg?format=jpg&crop=3322,2492,x0,y237,safe&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-26T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-regulators-take-aim-at-ai-to-protect-consumers-and-workers.md",
-      "title": "Regulators take aim at AI to protect consumers and workers",
-      "excerpt": "AI also affects hiring, housing and working conditions ... hosted by software industry group BSA. “Those could start with industry standards and some sort of coalescing around that. And decisions about whether or not to make those compulsory, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/regulators-aim-ai-protect-consumers-workers-99622780",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/regulators-aim-ai-protect-consumers-workers-99622780",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Business/wirestory_8f5a450bd05e6079c742a9ce00b5c576_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/regulators-aim-ai-protect-consumers-workers-99622780",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/regulators-aim-ai-protect-consumers-workers-99622780",
-      "publishedDateTime": "2023-05-26T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-ai-will-make-humans-more-creative-not-replace-them-predict-entertainment-executives.md",
-      "title": "AI will make humans more creative, not replace them, predict entertainment executives",
-      "excerpt": "Founders of Web3 animation studio Toonstar said they don't believe artificial intelligence will replace humans in the entertainment industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ai-will-make-humans-more-creative-not-replace-them-predict-entertainment-executives",
-      "originalUrl": "https://www.foxnews.com/media/ai-will-make-humans-more-creative-not-replace-them-predict-entertainment-executives",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5347284-ddac-4097-8065-387edd09b96b/63aabd01-2815-4a73-a1e9-c19dca9ac7a4/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/ai-will-make-humans-more-creative-not-replace-them-predict-entertainment-executives.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ai-will-make-humans-more-creative-not-replace-them-predict-entertainment-executives.amp",
-      "publishedDateTime": "2023-05-25T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],
