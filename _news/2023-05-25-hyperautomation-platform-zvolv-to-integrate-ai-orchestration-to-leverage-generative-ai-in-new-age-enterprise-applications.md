@@ -39,15 +39,6 @@ related:
         width: 2560
         height: 1280
         isCached: true
-  - title: "Machine Learning Model Operationalization Management (MLOPS) Market Report 2023: Increasing Adoption Rate of Machine Learning Fuels Growth"
-    excerpt: "Machine learning model operationalization management (MLOPS) market is expected to grow at a CAGR of 47.81% from a market size of US$842.105 million in 2021 to reach US$12,981.316 million in 2028. Machine learning model operationalization management (MLOps) is the process of managing and deploying machine learning models in a business environment and involves the integration of data pipelines,"
-    publishedDateTime: 2023-05-24T17:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-machine-learning-model-operationalization-management-mlops-market-report-/2023/05/24/9820606.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
 
 secured: "sxxhhruFYO/xkt2XyYDmAMrKVBYDYh5AlFukLsmpW3/NJoiyvHc4xTzjlXWlp9J1B4SQbr545imwEzY3wMvtKO9X7XZC7nWTCH0X4jacjUEYdOPhwjNYUDETXdEAMbD9VKyfyuQ5j5U8KFsJGv+Sbu81iVKpI8l0MVW7+yRbdZV/jAckCjdnCGt7xHfkFiw+6bAfc+kk6tfOjBG6KM3Aeus51Z504G3q/c2yanm+VvIn6kHj66vhRVPo3lDtWZgke46dYCXtfU71VsQdsyo0SzRHqcGfxSqD9+IcqbE2DeMZgJGTbFB5XdfJQDVvyZqLaCZfC17B8M3xT0vRY4cAE40Xi7IuL5oWz8PqVqz5bjo=;GqPWnApQZ3mcPjH9x2IevQ=="
 ---

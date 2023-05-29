@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/regulators-aim-ai-prot
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/regulators-aim-ai-protect-consumers-workers-99622780"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: ABC News
@@ -41,20 +41,6 @@ related:
       - url: "https://www.ocregister.com/wp-content/uploads/2023/05/OCR-Z-BOFA-SVB-0316.jpg?w=1024&h=682"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Cracking the QR Code with AI to Connect with Customers"
-    excerpt: "Tech Startup RelotiS Uses AI and ML to Build Customer Loyalty, One Package at a Time Wilmington, DE, May 24, 2023 — Product companies use an increasing array of technology … Continue Reading →"
-    publishedDateTime: 2023-05-24T17:35:00Z
-    webUrl: "https://multichannelmerchant.com/press-releases/cracking-the-qr-code-with-ai-to-connect-with-customers/"
-    type: article
-    provider:
-      name: Multichannel Merchant
-      domain: multichannelmerchant.com
-    quality: 37
-    images:
-      - url: "https://multichannelmerchant.com/wp-content/uploads/2023/05/relotis-product-2-002.jpg"
-        width: 272
-        height: 280
         isCached: true
 
 secured: "XJsIgrgci1ZugRhm9SeGQG0453avu3/XHW4J8tu18hB3HikAnT+We916bqr9frq/EH9g1Qoli5Lt4FpTkjcMmBNL6xsqw4JXccRAoYqkhJNDdiTY4CaZ5K1voVl1cDNvDlky9GCEbEVaHuwZqBTIjZfqq5F8ybeo5NysbSsBlEAuiDG0yKMo32qAl8HVnhVG/Y0rAQxMgi98U46kodoIk7qAWtM+nlMTPNbwytdYCdt8vlbXpzC3XkS5vDMgyIma3+DRaVVLucMMGonPLV1EdkE06r48glEyTvDkovCS4MzoxLrEwiscPvJOa3WlySX123Owq8iNpBs2hQR4FSZCeESoFkg9V/4IGHqZeu5/F9ACqkvC8o1FItgUO0eP56Q1XKErcxdQTjktXg715dt6Ln7Wp+P/osSAr6/jTX+sbghf5eDtM9YIy7rHAyWz2Uy4Lv2c0V/+Vo6jxDnAMqmZDRUcbyxWqhYB3HRKu9870rstUdnE7705hZiKQW0TPV/xGhu1jUuAOONWppUqzlvTeA==;/nhnMCtl8nmGgk1G0CuCNg=="

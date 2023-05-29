@@ -94,22 +94,6 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
-    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
-    publishedDateTime: 2023-05-24T18:30:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-guide-to-technology-2023-may"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-guide-to-technology-2023-may?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-guide-to-technology-2023-may?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
-    images:
-      - url: "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg"
-        width: 470
-        height: 352
-        isCached: true
   - title: "5 Ways Marketers Can Become More Strategic With ChatGPT"
     excerpt: "But what do ChatGPT and other generative AI technologies such as Auto-GPT ... ChatGPT will help us expedite translation and expand our marketing content to more languages. We are also looking to use ChatGPT across such areas as chat, copy creation ..."
     publishedDateTime: 2023-05-25T11:16:00Z

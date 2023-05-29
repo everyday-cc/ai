@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/will-ai-re
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/25/will-ai-replace-lawyers/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "How AI will reshape the music industry, according to 5 entertainment lawyers"
-    excerpt: "AI songs are set to create new legal challenges — and creative opportunities — for artists. Entertainment lawyers laid out the risks and rewards."
-    publishedDateTime: 2023-05-24T17:49:00Z
-    webUrl: "https://www.businessinsider.com/how-ai-will-change-music-entertainment-lawyers-2023-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
 
 secured: "OOtHnGlu9KXrnakVrvXXTRg2+5RYaikS67W/JYANwWDXYMU07hRtYa4YNuf32em54VJYb1Q8vNaofwFEZCwHwDZSNMP7sCt8B5+uu8FWKhoTJl0EP4Ww8e5KZ7El6NviYsaazqEbKHb3bVoowgMmEo4C3a6sH5gQgSS6wanXDmRjZkjphx27X10/gV4F2ilLBxZQCCickaifnzx7AtXOHUJAj1dz4iB1purchXKQipoJ4bB/imNF0dkqOlkIQ/SRi4IPnJeHdOPzmWX42qGIVUjvQbEnM8UJbOc34aDlJSCCj8UfuZ3eHtGSDXKVrSBVg+mrQyoS0RngWuH0V1D2yC8JAMqGGCNkCfffljomuLaUHh2cG88zw4qVxZpXjAJKaCR6k/cRpGHoO5RjVA0cZtbtk1l6JmWqAcO5Gfd+psKrBFAmnC0Aj1ta0qMSRoLd5yTK1AADxjb9veiTYsG/XT/cZJIeBwXU0jMCp7sH8tx0FhDcfkQGS3KwPldKugWfa2tIiilZssct6kWKp07afw==;kDIFMrD1+GI2/4rpfhUrsg=="
 ---

@@ -128,20 +128,6 @@ related:
         width: 772
         height: 434
         isCached: true
-  - title: "Microsoft paused raises and cut bonuses to 'invest in the AI wave,' exec tells employees in internal message"
-    excerpt: "In response to employee criticism about recent pay changes, the exec said one reason is \"wanting to invest in the AI wave,\" internal messages show."
-    publishedDateTime: 2023-05-24T18:04:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-exec-explains-pay-changes-cut-bonuses-ai-wave-investment-2023-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://i.insider.com/646e4e056f9a480018736ddd?width=1200&format=jpeg"
-        width: 682
-        height: 341
-        isCached: true
   - title: "3 AI Stocks That Could Beat Out Google and Microsoft"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Unless you’ve been off the grid for most of 2023, you know that"
     publishedDateTime: 2023-05-27T10:41:00Z
@@ -274,15 +260,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 44
-  - title: "Microsoft to bring Copilot, an AI personal assistant, to Windows"
-    excerpt: "Microsoft will integrate a ChatGPT-like system, called \"Windows Copilot,\" in all PC apps, the Redmond, Washington-based tech giant announced Tuesday. The Copilot will be available for Windows 11 as a preview in June."
-    publishedDateTime: 2023-05-24T17:42:00Z
-    webUrl: "https://techxplore.com/news/2023-05-microsoft-copilot-ai-personal-windows.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 36
   - title: "Canary Speech Accelerates AI Speech Analysis Technology with Microsoft Cloud for Healthcare Integration"
     excerpt: "Digital vocal biomarker innovator integrates clinical-grade technology providing real-time speech analysis on Microsoft Cloud for Healthcare. PROVO, Utah, May 24, 2023 /PRNewswire/ -- Canary Speech, Inc."
     publishedDateTime: 2023-05-24T23:40:00Z

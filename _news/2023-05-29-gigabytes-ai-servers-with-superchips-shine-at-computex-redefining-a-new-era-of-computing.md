@@ -2,9 +2,9 @@
 category: news
 title: "GIGABYTE's AI Servers with Superchips Shine at COMPUTEX, Redefining a New Era of Computing"
 excerpt: "Win Big with AI through GIGABYTE's Pioneering GPU/HPC Servers. GIGABYTE and its subsidiary, Giga Computing, are introducing unparalleled AI/HPC server lineups, leading the era of"
-publishedDateTime: 2023-05-29T09:07:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/29/9822184.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/29/9822184.htm"
+publishedDateTime: 2023-05-29T10:43:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/05/29/9822184.htm"
+webUrl: "https://it.tmcnet.com/news/2023/05/29/9822184.htm"
 type: article
 quality: 24
 heat: -1
@@ -80,6 +80,6 @@ related:
       domain: guru3d.com
     quality: 11
 
-secured: "M6EsX/vSMq3JHTyyvMxJ5chnCyM6m+6MPEqu1kBSZtYGeM0xdRWZvS5xXhR3k4Mbl0z5lq/A/mUFieyNzPlxYyRlIQkw0nnZPxBdTTv6cqGeDKwAqtqcBqknBm2r1XGjnCxoZKfFhiGne0/9y1V6S7ZTotOMlf56iLINPcg3Rqlibe8CAG0mQYq4cZR2a4uHIkWGLGazqVRxp3sdyxunR0jbtVfifZJ7/WXU6McnUX5jPeINo0Y/5XijvesYnNP5bBHZ912JZXKYuyTPvGjFmup9eSHpc2UTi/FQAUC1bkKTADyBok4McgBqViXTt2rw5OhZm4hW8OM/Ypu4vLpCZNBh9+dFJ/WGh4cPHjfXgMAFEjmvYNoqt9C2Hp5pne4a7V6kI27+MsLDL4707IVAu0LT9n3GFl/BHpFiK9sRKuYV142ii6yYD+w1WaJIgcpfZ8FG65uome/O5DUV+UCeybcuJH7CDaVWHEV9CVSspHs7Kr8uLz1qvfhZefaG8fLJ05FpR8jVGoFEg5XUN7pbwQ==;arSTs46x3BFmPxEmYg+KBA=="
+secured: "DYXmJAmD2avglv1G2wxGI9uHXL4wRPyN7qDa0z5QAgBLpIeE6n0GW+V3wgk8oRzbrEcOfQC0FBlNBpxBzEEZW81AurcekpsjOlIYyNV1dbh5/h8Yxy7VKWgQQ5zWc+o8s3eLy17In5f3Lboa5bwAl34CMEo6YSdRLkvg53DAA/yFyyD9Xhep+jE6vh5PXSMIgccE1dAbmw5bCjhYtReQTHbU6h3jaVxGMfv4VFa2tcprnGcqlkXjuUNRJts073tzwMWEQRMGRsbKf4AhTX2nxGSuS2WDPuW+VVXDXwesTgfS18VfOGSMbPuKKz5t8Mw6Y0F2lH4u8eE+98oVQXJ2XLBGz9myhOThk5GSAGsBwNIDw15TMPebL0OIhRetqu28rmcbYLaLrV7Oq3w80preI8PShBgxPNbnMuk8yNqR37I8x4F6RyskpY94zPYkN3w53TiatDXq6kxiHdrLztEnTqbnGexmPd5JcEuXHtCaJav38FgIpNULTJoNUW6yLmNc7sRKUZmC9CptmROdRfxD0w==;tI4nrH/RhawaDi4OAvvSVg=="
 ---
 

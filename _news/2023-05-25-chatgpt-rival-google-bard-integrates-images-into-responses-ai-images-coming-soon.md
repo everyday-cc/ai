@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/services-and-software/chatgpt-rival-goog
 webUrl: "https://www.cnet.com/tech/services-and-software/chatgpt-rival-google-bard-integrates-images-into-responses/"
 type: article
 quality: 62
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
       name: BBC
       domain: bbc.com
     quality: 47
-  - title: "Intel Announces an Integrated Neural AI Accelerator in Meteor Lake"
-    excerpt: "Intel says it's working with Microsoft to make the development of AI features on the personal computer a reality. It will do this by offering a VPU, or Vision Processing Unit, as part of the SoC tile in Meteor Lake."
-    publishedDateTime: 2023-05-24T18:00:00Z
-    webUrl: "https://www.extremetech.com/computing/intel-announces-an-integrated-neural-ai-accelerator-in-meteor-lake"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
 
 secured: "NZPfp1lXenHIDmHzwW+Ujp4G5tA/H1VBie4yhRs4qeBUAS8qMPJ7ttzQQjIjtxxVPzmTcAcO9M09w86UgUwTqSXSHnKihKJlrVGvJhD9zPFGXuclK8Q0lVxDwORbMfE8ZXx+ehhM4qm3N2cv7/NHHY7e0FEzyxGo7f1VbH6Mwv32kLpomkI1X/RhLycE7YGufRm88s39tF70zVGl3cFcEr2wplXOQDDEPNDLlx/c79MezAI3Eg7HG58IwcoOVLJX8dhqpvWvv0ddd9n/XokjXXgH5yaguvJoFpOOdueVzuOSsFwKBddKo4MHQmw+RVn3CwSyTZakXeIXPTIHollkniV/Kefr5vfqeKhzrxG6Kt6yJVoMWjTXP5gqj6WCSFVj6t+qkB09upyy0c7J51KgBhtuSu6+Coq5regAgzuiDjQe9AEMUsKIBlAz9Na2IIebTMsUN5y0BZ2u2X26sKntsT/Ws0jlcIW3oaxiDEP/nXQft6R5u4wezwbm13Y+WyzqumQvSxR61r/NVuiMOvkpow==;2DomSFgL0TkNVCUDCJKfhg=="
 ---

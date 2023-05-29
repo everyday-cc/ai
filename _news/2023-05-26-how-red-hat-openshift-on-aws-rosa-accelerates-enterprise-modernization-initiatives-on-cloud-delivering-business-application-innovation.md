@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-red-hat-openshift-on-aws-rosa-acceler
 webUrl: "https://www.ibm.com/blog/how-red-hat-openshift-on-aws-rosa-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Machine Learning Model Operationalization Management (MLOPS) Market Report 2023: Increasing Adoption Rate of Machine Learning Fuels Growth"
-    excerpt: "Machine learning model operationalization management (MLOPS) market is expected to grow at a CAGR of 47.81% from a market size of US$842.105 million in 2021 to reach US$12,981.316 million in 2028. Machine learning model operationalization management (MLOps) is the process of managing and deploying machine learning models in a business environment and involves the integration of data pipelines,"
-    publishedDateTime: 2023-05-24T17:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-machine-learning-model-operationalization-management-mlops-market-report-/2023/05/24/9820606.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
 
 secured: "8L3cZR0EeB94qK/Dchw9lcxsf1K8UiF7EhGDa23kbqXYTqzya/pG3qskGXBx3fbiRVYASP82S71rfWvlfMDYhtrt+DRsygvP26PX8bjfNuFlEQV2mNFyS55BKcTytkGTlzBwDrBsLGzD93CkpOiCVgnm6w7W0xxwerediK6ZI09duLaz7scQk3OePiE3SSL76uUkfF6q2pXiAsHJckLnnh9xY5W8+HeSL3UZcgtImkJrGlpStBvPrNU68owdQJmoewfQ0A3kgIld8MptHe5I26Fh0u+iHxanw2Z1hT5Pk2ly7O12rscxhG+MB+KCegUHgycr5TjZIOSP4DsX+TofMcdJMpUIIQHtU+9zrN2y0sU=;BNnXt8gB5rwfV5KuqxLrGg=="
 ---

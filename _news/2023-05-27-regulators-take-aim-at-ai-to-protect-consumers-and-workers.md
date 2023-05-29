@@ -42,20 +42,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Cracking the QR Code with AI to Connect with Customers"
-    excerpt: "Tech Startup RelotiS Uses AI and ML to Build Customer Loyalty, One Package at a Time Wilmington, DE, May 24, 2023 — Product companies use an increasing array of technology … Continue Reading →"
-    publishedDateTime: 2023-05-24T17:35:00Z
-    webUrl: "https://multichannelmerchant.com/press-releases/cracking-the-qr-code-with-ai-to-connect-with-customers/"
-    type: article
-    provider:
-      name: Multichannel Merchant
-      domain: multichannelmerchant.com
-    quality: 37
-    images:
-      - url: "https://multichannelmerchant.com/wp-content/uploads/2023/05/relotis-product-2-002.jpg"
-        width: 272
-        height: 280
-        isCached: true
 
 secured: "H2PBux+O4uXwJEkHLZwNX98bZa++EHyWWOSeNNQBi0dfC7ccP59LzVvbURBPYLfW/IxesAGBRx+3eUL+EE2X2MyDn1KyQmfAPz4GX6FPoFcwzbsTuTlUJgyrPnbWGAzQo4ojKQtyBLFjd/FBkUnBnHqUGRDLH2TjEO8hrY0Uv7kM6dSU9wsmGLf1ETU7z4R1u003iN8DjjIqktChq21GqEO33Z7B/V4Qsh8M5WMJ4SgzIesEzxbrQS/Zjie62oHhqqV2rcMSKLGFiT3L5pz2t6Ji+H31b3sm1d648r9fkXtpOwWnYbkwfLbIeopWOuJXEAIoDckjUOFRvRcqI77OFCmwqnCYhBkSgWxPFHiAVoU=;yoi9Ctkz0GPxT66kifL0Iw=="
 ---

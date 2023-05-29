@@ -7,7 +7,7 @@ originalUrl: "https://www.crowdfundinsider.com/tag/emirates-face-recognition-tec
 webUrl: "https://www.crowdfundinsider.com/tag/emirates-face-recognition-technology/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,30 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "The truth about face recognition technology; separating reality from myth"
-    excerpt: "Face recognition technology has revolutionised the domains of access control and time attendance, bringing about improvements in security and surveillance. However, like any emerging technology,"
-    publishedDateTime: 2023-05-25T07:26:00Z
-    webUrl: "https://www.sourcesecurity.com/news/truth-face-recognition-technology-separating-reality-co-6908-ga-co-10086-ga.1684995549.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/truth-face-recognition-technology-separating-reality-co-6908-ga-co-10086-ga.1684995549.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/truth-face-recognition-technology-separating-reality-co-6908-ga-co-10086-ga.1684995549.html"
+  - title: "TENSORGO TECHNOLOGIES: Making learning accessible to all"
+    excerpt: "Technology is a fast moving, ever changing, exciting world. From healthcare and retail to auto and financial services, new technologies are reshaping nearly every industry. But tech’s ability to solve some of humanity’s most confounding challenges depends on how its transformative potential is channelled and implemented."
+    publishedDateTime: 2023-05-28T20:00:00Z
+    webUrl: "https://www.financialexpress.com/industry/ensorgo-technologies-making-learning-accessible-to-all/3104797/"
+    ampWebUrl: "https://www.financialexpress.com/industry/ensorgo-technologies-making-learning-accessible-to-all/3104797/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/ensorgo-technologies-making-learning-accessible-to-all/3104797/lite/"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 38
-  - title: "The dangers of facial-recognition technology in Indian policing"
-    excerpt: "CCTV cameras and facial recognition systems are surveillance tools that carry on the legacy of analogue technologies in stereotyping and targeting specific communities."
-    publishedDateTime: 2023-05-26T08:00:00Z
-    webUrl: "https://caravanmagazine.in/technology/dangers-of-facial-recognition-technology-in-indian-policing"
-    type: article
-    provider:
-      name: The Caravan
-      domain: caravanmagazine.in
-    quality: 24
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 44
     images:
-      - url: "https://lh3.googleusercontent.com/Z9LxkfnxmPtg4yoHMQI8w698TdZ455EQ1tb-63ISGiU3ZvrwGvJo_OKdjk1rA5zF1YYjh1uETgjhWGCtyUnXOihhzrGnHMEdFYZgdFY=w1200-h630-pp"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/srini.jpg"
         width: 1200
-        height: 630
+        height: 675
+        isCached: true
+  - title: "Study Finds AI and Emerging Technologies Increasing Tension as Journalists Face Growing Challenges to Maintain Accuracy and Truth"
+    excerpt: "State of the Media Report spotlights challenges and opportunities in rapidly changing media landscape “Accuracy” and “maintaining credibility as a trusted news source” are leading concerns for journalists,"
+    publishedDateTime: 2023-05-25T01:30:00Z
+    webUrl: "https://www.thaipr.net/en/business_en/3340539"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 10
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/05/Image_2-1-1.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "ZNlDJnYtKOr+gfzubUvxEvC3IaPrEfa/EnVKL51qi2SSEi0D9geAG5M6pYzH5LZdq08HvxPUgMokxIneFKpTnafgzguOaRPqHVxw3qdRX6EFfYVHotViyoXRZkILBYwVnFHidpe72kEYq7oNNn+yFiLo7v/aJ/tDppQxuAvoYDRlK0UEAOnKudxzINrL1B1eUk2a1AJ8tJkoQFVYR8xEs4SLAg21qgvmsdTkuEagiCqDzDgDDcHOLANKE5hiJ2ZFcm+gsafNTOSJWIeHLka8eu/CFsW2RkyUxYgI1Nhy923vd6gFobIobEuvAPu7qU53I0MmyyaSoMFAirDYHRu2Fp5DlPdFtSAMDbqHPyo8BDs=;54bfrNL2Q9LTyRUMXtSTHQ=="

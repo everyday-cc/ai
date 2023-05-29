@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/products/search/search-generative-ai-tips/"
 webUrl: "https://blog.google/products/search/search-generative-ai-tips/"
 type: article
 quality: 89
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -188,15 +188,6 @@ related:
         width: 647
         height: 483
         isCached: true
-  - title: "TCS Expands Google Cloud Relationship With Vertex Generative AI"
-    excerpt: "Tata Consultancy Services is banking on its deep customer relationships to find ways to bring Google Vertex AI generative AI to them."
-    publishedDateTime: 2023-05-24T17:48:00Z
-    webUrl: "https://www.crn.com/news/cloud/tcs-expands-google-cloud-relationship-with-vertex-generative-ai"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 19
   - title: "A Computer Scientist Breaks Down Generative AI’s Hefty Carbon Footprint"
     excerpt: "And that’s just for getting the model ready to launch, before any consumers start using it. Larger models do use more energy during their deployment. There is limited data on the carbon footprint of a single generative AI query, but some industry figures ..."
     publishedDateTime: 2023-05-25T13:34:00Z

@@ -3,8 +3,8 @@ category: news
 title: "2023 Zhongguancun Forum opens in Beijing"
 excerpt: "A metaverse venue is held during the 2023 ZGC Forum in Beijing, May 25, 2023. [Photo/VCG] The 2023 Zhongguancun Forum, or ZGC Forum, featuring frontier science and innovation achi"
 publishedDateTime: 2023-05-26T03:08:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202305/26/WS64701afaa310b6054fad53f0.html"
-webUrl: "https://global.chinadaily.com.cn/a/202305/26/WS64701afaa310b6054fad53f0.html"
+originalUrl: "https://global.chinadaily.com.cn/a/202305/26/WS64701afaa310b6054fad53f0_1.html"
+webUrl: "https://global.chinadaily.com.cn/a/202305/26/WS64701afaa310b6054fad53f0_1.html"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "WN+lJqeAI7kQqpw4UkCPTo1EpOHKpogXZQeyAjCGPzNr4b2dvSRRemEjC/Uj8eOjbYheWIk927bQe7QdnCbr0wbVpd3Tz90dtnUbV2/4Jdv1bqo0Tia6RwYo9fS7TubCia2UHj6gNUkFBCfZeNJnoh0YMJx4uYc8RQFV9SJvIfFpZYKgV9NgRY85LdXYu6fKCxCfM469QGmX1pky0HgWPfkUFLnc8W9EyfnpHPR0ZOrog5pegdE2dyOMcRcOcdPUaD9WOnhrIk6W1uYVV6pm4u3hdTb2tLzpxeFJhnR4AOIkQ6Q15L6xjsq7GGPWZi25yxv4bGiZaUvIGXircP8zb//2FfXhXa+Cfwmq0rXGWtE=;qeCqpv6AUAaFolhXpEhcRQ=="
+secured: "ajrlggG/VLqhr8+aQRTV4ilnUl/lMmhxzxG4zFoGDC7dbonA5Df6zj7O4O/WkkOnAyr2ewO9bE5aO2JiuDKjKMPjLRV83ZGWqYTaZy4vD7SyWkI8WMSGoo6MQqgHpvIei98V0eraEW3YKV7XUoJtlZ5+fPXp/jnyzOQTbIM7ke+clIdUbLYDFzvk0TgpXOVxz1HIeHOks/n9hWCHnXkCi+Ai73QVV2P6RUD3xQ3CXOK6m3hn8IXFqEeCSU7pIf6H/7jG/oQA1KVC6YyGdltAIClrxLwM9OlFATXyCNATg1aT1ROj6Gmyx9g480eSnFuj4KIr/wFLaebGxfv24snJBvW2EURf9xBUfEFHVQPi+ik=;QMCZpGUUcQAE8tVqlNjzoQ=="
 ---
 

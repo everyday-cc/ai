@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1106329766/Apex-Motion-Control-Launches-New-Col
 webUrl: "https://menafn.com/1106329766/Apex-Motion-Control-Launches-New-Collaborative-Robot"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 800
     height: 830
     isCached: true
+
+related:
+  - title: "Figure Raises $70 Million Series A To Support Commercialization Of Figure 01 Humanoid Robot"
+    excerpt: "Figure raises $70 million Series A to support commercialization of Figure 01 humanoid robot May 27, 2023 by mark allinson leave a comment"
+    publishedDateTime: 2023-05-27T21:27:00Z
+    webUrl: "https://menafn.com/1106329764/Figure-Raises-70-Million-Series-A-To-Support-Commercialization-Of-Figure-01-Humanoid-Robot"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 44
+    images:
+      - url: "https://menafn.com/updates/pr/2023-05/27/R&AN_7815eimage_story.jpg"
+        width: 900
+        height: 450
+        isCached: true
 
 secured: "bUoeZyVelITuDJI0NUMvSZD+A2xbdahr+QHm+ttEd3TmsETn1LlXTMbtWtI6lLB30Y/iVnvVgJ93h8dEF5GI3qZBu6Xzt/tMrR1JuyZ3jQEOSiOhG0D9rOqnPZU6SzFf/u93TSQI4MuwiOnge7gFZ7BdSQmD8oEgTkhqroUiC2XYPrDsQq5ZHBWbptQXP4qaDrHUlAAK9Rni1uffwyxiImhEroRrtO+/RYVc3+8rtQGpfDMrZCxKVyj5xJHz7BOkPTd6mEH4RkOXZOu0jp2yOm0Bav2fYk5eFzRHclk8FG2EUjRHAMOCggGtviu/j29uH/sH8lrkfZ3C6gt2KuCJEls9aLKQnFHKHOqG4rza6eUCkzmimDR8RZGHzadqvVFjnf1mUovZhwhKD9hi1ZfV4/BQjZtwm1T/HdNY38IKthZoHuWnmkbc6YbFD/LBpBS9ph7qbzg70eVEMEmZo+sMOlGstty/mtW57+PpnVi0GkqTlJkFHHsGke0pibcagT7gLwlKSsOv3js4HWAgPDtASQ==;jVUOH2G1nAxbkp/XoHuVzw=="
 ---

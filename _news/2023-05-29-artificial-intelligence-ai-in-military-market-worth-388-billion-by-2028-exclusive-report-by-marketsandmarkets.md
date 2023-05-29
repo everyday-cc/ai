@@ -7,7 +7,7 @@ originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-05/59202235-arti
 webUrl: "https://www.finanznachrichten.de/nachrichten-2023-05/59202235-artificial-intelligence-ai-in-military-market-worth-dollar-38-8-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm"
 type: article
 quality: 12
-heat: 12
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,24 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "GqFAl2GJnFwPPDBvnbmHI7C/opk5+CMfzkYOxnQeK2BUwWngTHNuN+5gbPxtplBTP6l2ps2JBmI/k5nRnPmSPpGomm3zE7ixDvQwk/+tx1Bf8ZpA7Fslkwf4iluTSlYxAl+7Yw/j3pPJqRO/HudL5V7Yg8VhlEqDpHZd4IdcUoVjCLk+E0wi5N8E2FHy5waTRS6HgHvGqtlYsPFfBjxZ8Mk5VkSbpJH24kn9fnHC7fxXpjNIaRpHS5IJvV3bBx/ItPkJrpzYQbe436J5O2uQdjoyhE0VVnFT6w4aI5IPk0chYEQj3uW9GCY1csMNm+eJ/va3yMXnAKa2cg9nTaAC/ASbJ4TghUEi8Esb8lXQiMs=;VWSNmg2JLVdJGwuwJ4B0dw=="
+related:
+  - title: "Emerging Markets Report: The Art of Artificial Intelligence"
+    excerpt: "An Emerging Markets Sponsored Commentary ORLANDO, Fla., May 29, 2023 (GLOBE NEWSWIRE) -- It will come as no surprise to even the most passive investor that the market is currently in a full-throated i"
+    publishedDateTime: 2023-05-29T11:07:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32613230/emerging-markets-report-the-art-of-artificial-intelligence"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32613230"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32613230"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+
+secured: "NhXzAN3CPCpyV1hzAg6vNJ3fd1rzvg9ghoByWy0izhs7tksr5v0Js+tGWu1ze27LYMqL2nPNl/6E2caOQgJEMZbFeLNEyptrzBnctFvKd0VKGd3ZavvxasCSVVBwYUxKTGGcFV7RYwf+ku3XNAnSfouh/4QXcEESLLHOfAPBi5MVl2sy3+X1T66ZWOz6V8A+WXuYpRW0Osx5QvQbpl6m/hhTLYkT6wnbBZ7kCEqNJPyOTZcJ9CxPv/NUWKuL2PwYyY4xdu46zSpqc9JV05AOTDf84Tq29h/32V9OFl8tjk9beb+/FFYua4v+8sdb+ZRK5njzHXysqSK6lO9hShBMG8Lv0JuqKZUI17kTU5Dj9bk=;7JgoRc4n+8iQlU8HGoklsw=="
 ---
 

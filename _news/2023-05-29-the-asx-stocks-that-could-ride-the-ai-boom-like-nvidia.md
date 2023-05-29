@@ -679,6 +679,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Nvidia reveals ridiculous supercomputer built to create next-gen AI"
+    excerpt: "Nvidia has revealed its next-generation supercomputer, the DGX GH200, which is built to handle the development of gigantic next-generation AI models."
+    publishedDateTime: 2023-05-29T09:31:00Z
+    webUrl: "https://www.dexerto.com/tech/nvidia-reveals-ridiculous-supercomputer-built-to-create-next-gen-ai-2159061/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 41
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/29/Nvidia-Supercomputer.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Nvidia’s AI Victory Lap"
     excerpt: "The most important acronym in business right now is AI, but another one—GPU—isn’t far behind. Today’s earnings forecast from chip designer Nvidia, which makes graphics processing units that power ChatGPT and its ilk,"
     publishedDateTime: 2023-05-25T00:31:00Z
@@ -735,20 +749,6 @@ related:
         width: 1440
         height: 901
         isCached: true
-  - title: "Nvidia reveals ridiculous supercomputer built to create next-gen AI"
-    excerpt: "Nvidia has revealed its next-generation supercomputer, the DGX GH200, which is built to handle the development of gigantic next-generation AI models."
-    publishedDateTime: 2023-05-29T09:31:00Z
-    webUrl: "https://www.dexerto.com/tech/nvidia-reveals-ridiculous-supercomputer-built-to-create-next-gen-ai-2159061/"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 39
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/29/Nvidia-Supercomputer.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "How Nvidia created the chip powering the generative AI boom"
     excerpt: "“This is important as it lets us all train bigger models faster as this moves from a research to an engineering problem.” While the timing of the H100’s launch was ideal, Nvidia’s breakthrough in AI can be traced back almost two decades to an ..."
     publishedDateTime: 2023-05-26T16:52:00Z
@@ -758,6 +758,20 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 36
+  - title: "NVIDIA Grace Hopper enters full production, with insane AI supercomputer coming"
+    excerpt: "Grace Hopper Superchips are on track for late 2023 and the new NVIDIA DGX GH200 AI Supercomputer connects 256 of them in a 1-Exaflop beast."
+    publishedDateTime: 2023-05-29T10:22:00Z
+    webUrl: "https://www.tweaktown.com/news/91635/nvidia-grace-hopper-enters-full-production-with-insane-ai-supercomputer-coming/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 35
+    images:
+      - url: "https://static.tweaktown.com/news/9/1/91635_01_nvidia-grace-hopper-enters-full-production-with-insane-ai-supercomputer-coming_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
   - title: "Nvidia AI chip value skyrockets amid AI development boom"
     excerpt: "The company says it has been increasing its supply of chips as a response to the increase in demand for them after the emergence of ChatGPT."
     publishedDateTime: 2023-05-25T13:00:00Z

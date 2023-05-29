@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-29T09:31:00Z
 originalUrl: "https://www.dexerto.com/tech/nvidia-reveals-ridiculous-supercomputer-built-to-create-next-gen-ai-2159061/"
 webUrl: "https://www.dexerto.com/tech/nvidia-reveals-ridiculous-supercomputer-built-to-create-next-gen-ai-2159061/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/29/Nvidia-Supercomputer.jpg"
@@ -758,6 +759,20 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 36
+  - title: "NVIDIA Grace Hopper enters full production, with insane AI supercomputer coming"
+    excerpt: "Grace Hopper Superchips are on track for late 2023 and the new NVIDIA DGX GH200 AI Supercomputer connects 256 of them in a 1-Exaflop beast."
+    publishedDateTime: 2023-05-29T10:22:00Z
+    webUrl: "https://www.tweaktown.com/news/91635/nvidia-grace-hopper-enters-full-production-with-insane-ai-supercomputer-coming/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 35
+    images:
+      - url: "https://static.tweaktown.com/news/9/1/91635_01_nvidia-grace-hopper-enters-full-production-with-insane-ai-supercomputer-coming_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
   - title: "Nvidia AI chip value skyrockets amid AI development boom"
     excerpt: "The company says it has been increasing its supply of chips as a response to the increase in demand for them after the emergence of ChatGPT."
     publishedDateTime: 2023-05-25T13:00:00Z
@@ -872,6 +887,6 @@ related:
       domain: barrons.com
     quality: 19
 
-secured: "M1bRslbudogyC5CrERgXMKFOjCBZoaGRV8yYpKfbLVbLCINBhkZwXdt6aNkjM7PLDsTb9O0piIhOOEAXDX1n/UrcluYLlmy67VGH5iyb2ZdkwyJJJTwRvGWGxj2u21jJDD3RmGDAkyqD59J6XXi+Vr/bxaHpXZ9E9rftAHH1+A8yLkH6jbO3yleNPAA6KRHx2yZKWkyV9t9PJePUDOdq6R4y/ozlscwIi6n4sedtgqNoUAW200QmTqVL72l99TdL7XFWqyow9QsgbOFKNhBH4FOJgMCL3H0mPcBAvYhMHG3kBpPbFou2A4d9i4MUKMNa4iX+Mgol5bmsoZQsY95HnFNNjKktSF41EtoUiZ+O9Fw=;wZa0Q3kDPeset2Y9YIt6Hg=="
+secured: "E9ghaLMb/Rb5WWtn7ulfsixPrU6lr8vTbdXLN4uOyv7lJqjvbet/ozkFJzhTZ9tHvs81BpyBcRGuzBZrzfzlLD1XCAAk93B6YZPV+j/eFJ0v0Q+Dsvdos4zaijgtBfJM+szINhnO6+kSnDED6l2yj9ydTkIXwbMlNEPGhnxDKoJchEPhU8BdcUxmGUCi/QM+iuc6s9ACNgA7lyMxWg/eog7nk8zqZbut5Ar1wS+0HiqjMQgTVipIaSeXe6V8W9ec87gwVj2HTiyreTzh96j1KuvW61cxUCt5u7U8CCRRR3X60RZkfzmJUsCBi9Xek8ghLUnUK8Q6K1HK8OzcBTjJ8aUtCx9W5nS5rypgUsaHl2Di0Ud+KqnR8WKDnZxFbm1LvQ5oM01BfwZvcF4VeK89wCe2K3JaMk7ZB6GVtvA47Xhjloz3Exmd3h0O57w+5NWRgivwGiztxFxwQRhS+mC3zBXxEoOYrPKyto8cEy9+AOs9L0huyNGAj/yZfVCi8kvx1mgSTa0yTzBvTwyLksSqVQ==;NZ73gix8mfCPlglYCkXBWw=="
 ---
 

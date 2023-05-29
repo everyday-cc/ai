@@ -63,8 +63,8 @@ related:
         isCached: true
   - title: "GIGABYTE's AI Servers with Superchips Shine at COMPUTEX, Redefining a New Era of Computing"
     excerpt: "Win Big with AI through GIGABYTE's Pioneering GPU/HPC Servers. GIGABYTE and its subsidiary, Giga Computing, are introducing unparalleled AI/HPC server lineups, leading the era of"
-    publishedDateTime: 2023-05-29T09:07:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/29/9822184.htm"
+    publishedDateTime: 2023-05-29T10:43:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/29/9822184.htm"
     type: article
     provider:
       name: TMCnet
