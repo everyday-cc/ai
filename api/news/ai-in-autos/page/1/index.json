@@ -409,6 +409,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-18-sec-looks-to-provide-rules-on-predictive-data-analytics-chair-gensler-says.md",
+      "title": "SEC Looks to Provide Rules on Predictive Data Analytics, Chair Gensler Says",
+      "excerpt": "U.S. Securities and Exchange Commission Chair Gary Gensler said Tuesday that artificial intelligence tools offer promise to companies seeking to detect marketplace trends but also",
+      "sourceUrl": null,
+      "webUrl": "https://www.law.com/texaslawyer/2023/05/17/sec-looks-to-provide-rules-on-predictive-data-analytics-chair-gensler-says/",
+      "originalUrl": "https://www.law.com/texaslawyer/2023/05/17/sec-looks-to-provide-rules-on-predictive-data-analytics-chair-gensler-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.law.com/contrib/content/uploads/sites/292/2023/05/Gary-Gensler-2-767x633.jpg",
+          "width": 767,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-17T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law",
+        "domain": "law.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-baidu-exec-charged-with-stealing-apples-self-driving-car-tech.md",
       "title": "Baidu exec charged with stealing Apple’s self-driving car tech",
       "excerpt": "A former Apple engineer and the executive at an electric vehicle startup owned by the Chinese tech giant Baidu has been charged with stealing Apple’s self-driving technology, as reported earlier by CNBC.",
@@ -590,6 +633,41 @@
       ]
     },
     {
+      "path": "_news/2023-05-18-how-common-is-common-sense-in-ai-and-why-should-we-care.md",
+      "title": "How Common is Common Sense in AI, and Why Should We Care?",
+      "excerpt": "Even JPMorgan CEO Jamie Dimon recently acknowledged the benefits of AI, calling the technology \"extraordinary and groundbreaking.” JPMorgan is now working on more than 300 AI use cases, and Dimon revealed that the bank has spent over $2 billion building cloud-based data centers and is working to modernize a significant portion of its applications to run in both their public and private cloud environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care",
+      "originalUrl": "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-common-is-common-sense-in-ai-and-why-should-we-care?amp",
+      "publishedDateTime": "2023-05-17T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-exec-at-baidu-backed-ev-company-charged-with-stealing-apples-self-driving-car-tech.md",
       "title": "Exec at Baidu-backed EV company charged with stealing Apple’s self-driving car tech",
       "excerpt": "A former Apple engineer and the executive at an electric vehicle startup owned by the Chinese tech giant Baidu has been charged with stealing Apple’s self-driving technology, as reported earlier ...",
@@ -726,6 +804,59 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-microsoft-says-new-ai-shows-signs-of-human-reasoning.md",
+      "title": "Microsoft Says New A.I. Shows Signs of Human Reasoning",
+      "excerpt": "A provocative paper from researchers at Microsoft claims A.I. technology shows the ability to understand the way people do. Critics say those scientists are kidding themselves.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/05/16/technology/microsoft-ai-human-reasoning.html",
+      "originalUrl": "https://www.nytimes.com/2023/05/16/technology/microsoft-ai-human-reasoning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/05/11/business/00ai-sparks/00ai-sparks-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1102,6 +1233,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-16-intelligence-broad-development-space-sustainable-development-driver.md",
+      "title": "Intelligence: Broad Development Space Sustainable Development Driver",
+      "excerpt": "The 7th World Intelligence Summit will be held from May 18 to 21 at the National Convention and Exhibition Center (Thenchin). The theme of the conference | The Eastern Herald",
+      "sourceUrl": null,
+      "webUrl": "https://www.easternherald.com/2023/05/16/intelligence-broad-development-space-sustainable-development-driver/",
+      "originalUrl": "https://www.easternherald.com/2023/05/16/intelligence-broad-development-space-sustainable-development-driver/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.easternherald.com/cdn-cgi/image/width=640,height=355,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2023/05/Intelligence-Broad-Development-Space-Sustainable-Development-Driver.jpg",
+          "width": 640,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Eastern Herald",
+        "domain": "easternherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-baidu-nasdaqbaidu-q1-earnings-today-what-to-expect.md",
       "title": "Baidu (NASDAQ:Baidu) Q1 Earnings Today: What to Expect",
       "excerpt": "Additionally, Baidu’s Apollo Go Robotaxi service offerings (a self-driving ride-hailing platform) in key cities, including Beijing and Wuhan, are likely to have driven revenues in the to-be ...",
@@ -1166,206 +1340,6 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-dui-suspect-claims-tesla-self-drive-malfunction-after-marin-county-crash.md",
-      "title": "DUI suspect claims Tesla self-drive malfunction after Marin County crash",
-      "excerpt": "A San Rafael man was arrested on allegations of intoxicated driving after crashing a Tesla into three parked vehicles, police said. The driver told police the Tesla was in “full self-drive” mode, but a witness said it was swerving erratically and moving at inconsistent speeds before the crashes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2023/05/15/san-rafael-dui-suspect-claims-tesla-self-drive-malfunction-after-crashes/",
-      "originalUrl": "https://www.eastbaytimes.com/2023/05/15/san-rafael-dui-suspect-claims-tesla-self-drive-malfunction-after-crashes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2023/05/MIJ-L-SRPD-0117-01-1.jpg?w=1024&h=866",
-          "width": 1024,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2023/05/15/san-rafael-dui-suspect-claims-tesla-self-drive-malfunction-after-crashes/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/05/15/san-rafael-dui-suspect-claims-tesla-self-drive-malfunction-after-crashes/amp/",
-      "publishedDateTime": "2023-05-15T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-singapore-hopes-artificial-intelligence-will-help-boost-its-tourism-industry.md",
-      "title": "Singapore hopes artificial intelligence will help boost its tourism industry",
-      "excerpt": "As the city-state looks to salvage its battered tourism industry — which contributes around 4% to its economy — it's hoped that artificial intelligence can help the sector bring back visitors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
-      "originalUrl": "https://www.cnbc.com/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106706240-1600338869741-gettyimages-1136947347-nik_1761-----gi--19mar19.jpeg?v=1600339088",
-          "width": 5568,
-          "height": 3712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/24/singapore-looks-to-artificial-intelligence-ai-to-boost-tourism.html",
-      "publishedDateTime": "2023-05-15T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-what-are-the-dangers-of-ai-find-out-why-people-are-afraid-of-artificial-intelligence.md",
-      "title": "What are the dangers of AI? Find out why people are afraid of artificial intelligence",
-      "excerpt": "Many experts worry that the rapid development of artificial intelligence may have unforeseen disastrous consequences for humanity. Machine learning technology is designed to assist humans in their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence",
-      "originalUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9173ff0e-731a-4938-8d98-838e96cab4aa/8c3c171d-0b0c-4650-a5c1-bb79bf268d11/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-dangers-find-out-why-people-afraid-artificial-intelligence.amp",
-      "publishedDateTime": "2023-05-15T01:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-14-my-week-navigating-the-awkward-teenage-years-of-self-driving-cars.md",
-      "title": "My week navigating the awkward teenage years of self-driving cars",
-      "excerpt": "At the time, company staff still sat in the driver’s seat, ready to take over at a moment’s notice if the self-driving car didn’t behave the way it was supposed to. Fast forward a year later ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco",
-      "originalUrl": "https://www.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/9750c38b8398a3c158f98dfcf9648ca8e12f8174/102_0_3300_1980/master/3300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f377989d941377b449012a3d9922f965",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco",
-      "cdnAmpWebUrl": "https://www-theguardian-com.cdn.ampproject.org/c/s/www.theguardian.com/us-news/2023/may/13/self-driving-cars-waymo-cruise-san-francisco",
-      "publishedDateTime": "2023-05-14T00:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

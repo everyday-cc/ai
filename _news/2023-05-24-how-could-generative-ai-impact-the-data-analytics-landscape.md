@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 794
         isCached: true
-  - title: "MAS unveils AI and data analytics skills training scheme"
-    excerpt: "The Monetary Authority of Singapore (MAS) has launched a programme to develop talent in artificial intelligence and data analytics (Aida) in the financial sector."
-    publishedDateTime: 2023-05-24T07:35:00Z
-    webUrl: "https://www.theasset.com/article/49237/mas-unveils-ai-and-data-analytics-skills-training-scheme"
-    type: article
-    provider:
-      name: The Asset
-      domain: theasset.com
-    quality: 39
-    images:
-      - url: "https://www.theasset.com/storage/Image/2023/May/1684902497artificialintelligencebirdseye.jpg"
-        width: 3840
-        height: 2160
-        isCached: true
 
 secured: "njMHaX9kSthrXxnrTiwHNaTyA+DSRuAcB7p3PMQ4wMOQLe3/EVcfmOxXr+KD/0Tn1oxE7rnMCQQTUmhF4yyeWElpkOWEaYpn+LayI+6Fe3nid9jTfGnP9oel6e6BUNFuNnS9/C59Io21mZzLLgH5/eKC8/JmGOj52oY5nGY0KFVoPCCWisuMP3O/4h6boGqDOW18t4D8+Tx7JWkBr7p241ieP+bRgnQNQbfqeDMKEMaiNafLaHq7p7t2l5OXtosNah7DED52M4oBil7fmex3r233RPsByZbvaz+b7IG6+/smTCaTSQ+3LwCS4wE8txBpu/BS8OFelLgnW/5ttq/S3aKST9uy6e+uGfvEleNyT6Gj5pRQAcydaMbVGxZo/Fx85KsL5SxH1tOqiMGgO8geOczYz0tpxA5VTVGM9hc69vU9m/JWV0MtplCtivybwC72Ez+o9MJqjpfVBBIiUqz/9hXUQ1EHRMGrDiBTxVWoB/UOXb5TIuxtbxfHDoPOX2z55UgliKNK25bDlOzhJyNV/w==;vz8aZgwLcwhbV3Hb9gngFA=="
 ---

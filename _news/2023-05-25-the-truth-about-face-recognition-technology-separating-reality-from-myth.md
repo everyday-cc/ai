@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/truth-face-recognition-techn
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/truth-face-recognition-technology-separating-reality-co-6908-ga-co-10086-ga.1684995549.html"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Tagged: emirates face recognition technology"
+    excerpt: "Crowdfund Insider is the leading news and information website covering the emerging global industry of disruptive finance including investment crowdfunding, Blockchain, online lending, and other forms of Fintech. In partnership with Innosuisse andsupported ..."
+    publishedDateTime: 2023-05-29T00:46:00Z
+    webUrl: "https://www.crowdfundinsider.com/tag/emirates-face-recognition-technology/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/12/Crowdfund-Insider-FIntech-Insider-Digital-Assets-Insider-1024x811.png"
+        width: 1024
+        height: 811
+        isCached: true
   - title: "The dangers of facial-recognition technology in Indian policing"
     excerpt: "CCTV cameras and facial recognition systems are surveillance tools that carry on the legacy of analogue technologies in stereotyping and targeting specific communities."
     publishedDateTime: 2023-05-26T08:00:00Z

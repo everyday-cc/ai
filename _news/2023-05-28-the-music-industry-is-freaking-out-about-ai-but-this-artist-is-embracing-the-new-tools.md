@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/music-industry-freaking-out-ai-gener
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/music-industry-freaking-out-ai-generated-album-embrace-artificial-intelligence-2023-5?amp"
 type: article
 quality: 77
-heat: 77
+heat: 78
 published: true
 
 provider:

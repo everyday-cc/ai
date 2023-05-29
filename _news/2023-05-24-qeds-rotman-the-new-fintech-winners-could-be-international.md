@@ -87,19 +87,19 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Financial Inclusion 2.0: The role of fintech innovations"
-    excerpt: "According to the Official Ghana Demand Side Survey 2021, Ghana has achieved its financial access target of 85% set by the National Financial Inclusion and Development Strategy 2018 - 2023 ahead of the end of the target year – 2023."
-    publishedDateTime: 2023-05-24T07:36:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Financial-Inclusion-2-0-The-role-of-fintech-innovations-1772666"
+  - title: "How Fintech Is Revolutionizing Event Payment And Registration"
+    excerpt: "Fintech, or financial technology, uses innovative software and digital platforms to deliver financial services to customers. Fintech has been transforming various aspects of the financial industry, such as banking,"
+    publishedDateTime: 2023-05-28T23:34:00Z
+    webUrl: "https://techbullion.com/how-fintech-is-revolutionizing-event-payment-and-registration/"
     type: article
     provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
+      name: Impacts
+      domain: techbullion.com
     quality: 24
     images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/461/46142018.jpg"
-        width: 600
-        height: 600
+      - url: "https://techbullion.com/wp-content/uploads/2023/05/Fintech-trillion-industry.png"
+        width: 900
+        height: 500
         isCached: true
   - title: "5 questions with Dave CEO Jason Wilk on the fintech’s in-app moneymaking feature"
     excerpt: "Making money from surveys isn’t some Craigslist scam. It’s a fintech feature — and Wilk said it's made members $1 million since December."

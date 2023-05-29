@@ -21,33 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Beyond text: AI model digests 80 hours of video to learn sign language"
-    excerpt: "For deaf and hard-of-hearing people, voice recognition technology like Alexa and Siri can be a barrier to effective communication. Researchers have used AI to develop a tool that converts sign language to text,"
-    publishedDateTime: 2023-05-24T08:03:00Z
-    webUrl: "https://newatlas.com/technology/sign-to-text-ai-improves-accessibility-deaf/"
+  - title: "Meta AI’s Massively Multilingual Speech Project Scales Speech Technology to 1000+ Languages"
+    excerpt: "Speech technologies such as automatic speech recognition (ASR) and speech synthesis or text-to-speech (TTS) are playing an increasingly important role in many real-world applications. Contemporary speech technology systems however support only about one hundred languages at best — a tiny fraction of the over 7,"
+    publishedDateTime: 2023-05-26T02:20:00Z
+    webUrl: "https://syncedreview.com/2023/05/25/meta-ais-massively-multilingual-speech-project-scales-speech-technology-to-1000-languages/"
+    ampWebUrl: "https://syncedreview.com/2023/05/25/meta-ais-massively-multilingual-speech-project-scales-speech-technology-to-1000-languages/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/05/25/meta-ais-massively-multilingual-speech-project-scales-speech-technology-to-1000-languages/amp/"
     type: article
     provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 69
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 49
     images:
-      - url: "https://assets.newatlas.com/dims4/default/305943e/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Faf%2F14%2F844d8eb54f478f6ff82d2ffe4a41%2Fdepositphotos-607081878-l.jpg&na.image_optimisation=0"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Why learn languages in AI Age?"
-    excerpt: "AI might save students time, but it should not replace language learning. Instead, the technology could amplify learning, and it might also enhance our humanity. Language makes us unique from other animals."
-    publishedDateTime: 2023-05-27T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2023/05/28/2003800537"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 39
-    images:
-      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
-        width: 1200
-        height: 1200
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
         isCached: true
 
 secured: "voRnnmMltl84u9316oQ61Q4DQkCpEaLEvC8LDGEEmfzpmp5jYr+YonPKVpDIL0G6gF+Xxg3CpHhyG28MsQzrUEABHqmMCho2e25kt148sMyDB9m2tpFKTXiODvaaxDLJ9HpmnNOgXmCiCjFHlwC1sVT2wwzcw45+iBKXGyOYtY7rSH+4IwTwXBxyIn2KPxh15lpz/slH0SGVGV9eJa7F+jnS8P9EaOiUouJyZaCDN7HWp3vuB7UbobvhFIYI2Nvh4i7b6Bgh4conQGtJpiTeTZMevFFvUkpo6MouxFLiLg6vSc8GCxgBdoPjtlDObAPhhaxo/3Vfla3/PefjY6oZZ1SYsCj4mXXj3Mz1Wot14r4=;VmKQE2yITfKGFt8XTI+TUA=="

@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Google-Backed AI Startup Anthropic Raises $450 Million, Bringing Total Funding to Nearly $1 Billion"
-    excerpt: "Anthropic, an artificial intelligence startup competing with OpenAI in building AI foundation models, said on Tuesday it had raised $450 million (roughly Rs. 3,700 crore) from investors including Alphabet 's Google and Spark Capital."
-    publishedDateTime: 2023-05-24T08:05:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/google-backed-anthropic-ai-startup-raises-usd-450-million-in-funding-spark-capital-4061778"
-    ampWebUrl: "https://www.gadgets360.com/internet/news/google-backed-anthropic-ai-startup-raises-usd-450-million-in-funding-spark-capital-4061778/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/google-backed-anthropic-ai-startup-raises-usd-450-million-in-funding-spark-capital-4061778/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 43
-    images:
-      - url: "https://i.gadgets360cdn.com/large/anthropic_reuters_1_1684915513257.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Singapore-based AI startup KarmaV enters India aims to establish ethical hiring practices and DEI strategies"
     excerpt: "Singapore-based AI startup KarmaV enters India aims to establish ethical hiring practices and DEI strategies - KarmaV an AI-based SaaS platform focussed on solving diversity, equity, and inclusion (DE&I) status"
     publishedDateTime: 2023-05-24T11:02:00Z

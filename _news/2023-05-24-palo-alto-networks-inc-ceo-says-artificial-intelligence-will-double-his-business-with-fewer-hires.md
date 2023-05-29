@@ -48,6 +48,20 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Slack CEO looks to artificial intelligence for help in rolling out new products"
+    excerpt: "One way to break the cycle of drudgery, at least from her point of view, is by effective use of messaging software, particularly when enhanced by artificial intelligence. As the newly christened chief executive of Slack, the messaging app, you would expect ..."
+    publishedDateTime: 2023-05-29T01:56:00Z
+    webUrl: "https://www.bostonglobe.com/2023/05/28/business/slack-ceo-looks-artificial-intelligence-help-rolling-out-new-products/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 33
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/H6cEjLAPixNOGRL6Vljt2IRzw-U=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/3K57X7CI4FD2VB3J3KQHDTJZTA.png"
+        width: 506
+        height: 601
+        isCached: true
 
 secured: "YwM8SkkqMYjowuYzcAMKjdgud9GT3Gs6QjZCnVrht9sN4Pk5fncVsy6Ry9/FPP/UNKbUmB5w68BSxW+xqhDiyPHtN2bzmoJlG/lQhcHSOERaYkMGVFF8bFixyuHaQYFDTbVy9/+YKyAm3Bmvkcvj1jwLAFYG6hNl2DKQOmVa5TpUMIwubZUtYObmjBC0cI/5VvpBQnErM+fs9dlZHYMibTNR7PPzpawKgaThv7CYJgJL592GWwGTdwhSNJTGewQr8+s3nOpepqb0g4DYsb0TlJaQs1wB+kG0vlgv4HlqDWLOnO/krfmt3+GsU/azsC4Fh/aMyAnUzVtEd3bxGLHolZ7YIDLaVhztTLE3hnMAR9NtvjqD/5D2sENHkRVxTdxEZ7T8UR2cEsnTTx7r2ikqs06MNXoN/8SDLsGsFedWd45boQMKNLyX9fCLgr5zHyixgbI3GOyCJ5efhTwlPcMw4DWe0YLNbVqf12WcnIYAiN74N5QLDbMnJ1DyBKbrYClTxkx2pdtnnvG3lRN4jxc9hg==;O7IxscCqD+4xu28sVj96xw=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 696
         isCached: true
+  - title: "Slack CEO looks to artificial intelligence for help in rolling out new products"
+    excerpt: "One way to break the cycle of drudgery, at least from her point of view, is by effective use of messaging software, particularly when enhanced by artificial intelligence. As the newly christened chief executive of Slack, the messaging app, you would expect ..."
+    publishedDateTime: 2023-05-29T01:56:00Z
+    webUrl: "https://www.bostonglobe.com/2023/05/28/business/slack-ceo-looks-artificial-intelligence-help-rolling-out-new-products/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 33
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/H6cEjLAPixNOGRL6Vljt2IRzw-U=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/3K57X7CI4FD2VB3J3KQHDTJZTA.png"
+        width: 506
+        height: 601
+        isCached: true
   - title: "Palo Alto Networks Inc. CEO says artificial intelligence will double his business with fewer hires"
     excerpt: "AI has \"huge applicability,\" said Palo Alto Networks Inc. CEO Nikesh Arora, \"both in how we do customer support, and how we build products that become easier for customers to use.\""
     publishedDateTime: 2023-05-24T14:35:00Z

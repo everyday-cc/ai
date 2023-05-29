@@ -2,6 +2,153 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-05-17-hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare.md",
+      "title": "Hippocratic AI Rakes USD 50 Million in Seed Funding to Develop Models for Healthcare",
+      "excerpt": "According to a report, a startup developing AI models for the healthcare sector, Hippocratic AI, has raked in USD 50 million in a seed funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2023/05/Hippocratic-AI-Rakes-USD-50-Million-in-Seed-Funding-to-Develop.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/hippocratic-ai-rakes-usd-50-million-in-seed-funding-to-develop-models-for-healthcare/amp/",
+      "publishedDateTime": "2023-05-17T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-ai-and-the-future-of-work-developing-a-fascination-and-appreciation-for-the-unknown.md",
+      "title": "AI And The Future Of Work: Developing A Fascination And Appreciation For The Unknown",
+      "excerpt": "There will always be resistance when AI and machine learning tools go mainstream. As humans, we are creatures of habit who tend to cling to our belief systems, and the rapid advancement of AI tools tends to trigger our fear of the unknown.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/17/ai-and-the-future-of-work-developing-a-fascination-and-appreciation-for-the-unknown/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/17/ai-and-the-future-of-work-developing-a-fascination-and-appreciation-for-the-unknown/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6463f64c74ef3c2652bbf4f3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/05/17/ai-and-the-future-of-work-developing-a-fascination-and-appreciation-for-the-unknown/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/05/17/ai-and-the-future-of-work-developing-a-fascination-and-appreciation-for-the-unknown/amp/",
+      "publishedDateTime": "2023-05-17T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-amazon-unveils-echo-pop-new-echo-buds-reports-500m-alexa-device-sales-as-ai-upends-market.md",
+      "title": "Amazon unveils Echo Pop, new Echo Buds; reports >500M Alexa device sales as AI upends market",
+      "excerpt": "In-depth Amazon coverage from the tech giant’s hometown, including e-commerce, AWS, Amazon Prime ... broader market is focused on the rapid development in generative artificial intelligence, where sophisticated interactions with new language models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/amazon-unveils-echo-pop-new-echo-buds-reports-500m-alexa-device-sales-as-ai-upends-market/",
+      "originalUrl": "https://www.geekwire.com/2023/amazon-unveils-echo-pop-new-echo-buds-reports-500m-alexa-device-sales-as-ai-upends-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/05/Echo-Pop-All-Colors.png",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-17T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-kaiser-permanente-announces-new-grant-program-for-artificial-intelligence-and-machine-learning-in-health-care.md",
       "title": "Kaiser Permanente Announces New Grant Program for Artificial Intelligence and Machine Learning in Health Care",
       "excerpt": "AIM-HI program has committed $3 million to fund health systems demonstrating real-world AI and ML capabilities to improve patient healthOAKLAND,",
@@ -1060,154 +1207,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security.md",
-      "title": "Are you who you say you are? TSA tests facial recognition technology to boost airport security",
-      "excerpt": "It's all part of a pilot project by the Transportation Security Administration to assess the use of facial recognition technology at a number of airports across the country. \"What we are trying to ...",
-      "sourceUrl": null,
-      "webUrl": "https://abc7news.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/",
-      "originalUrl": "https://abc7news.com/tsa-facial-recognition-airport-security-transportation-administration/13250231/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/10994202_090221-cc-ap-tsa-generic-img.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7news.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/",
-      "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/tsa-facial-recognition-airport-security-transportation-administration/13250231/",
-      "publishedDateTime": "2023-05-16T22:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC7 San Francisco",
-        "domain": "abc7news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-latest-2023-artificial-intelligence-ai-in-fintech-market-survey-forecast-by-2029-with-75-pages.md",
-      "title": "Latest 2023 \"Artificial Intelligence (AI) in Fintech Market\" Survey & Forecast by 2029 | With 75+ Pages",
-      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this “Artificial Intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/latest-2023-artificial-intelligence-ai-in-fintech-market-survey-forecast-by-2029-with-75-pages-2023-05-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/latest-2023-artificial-intelligence-ai-in-fintech-market-survey-forecast-by-2029-with-75-pages-2023-05-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T20:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-artificial-intelligence-ai-robots-market-upto-2030.md",
-      "title": "Artificial Intelligence (AI) Robots Market upto 2030",
-      "excerpt": "Robots Market \" Insights 2023 By Types ( Service, Industria ), Applications ( Public Relations, StocKManagement) , Regions and Forecast to 2030. The global Artificial Intelligence (AI) Robots market size is projected to reach multimillion USD by 2030,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-upto-2030-2023-05-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-upto-2030-2023-05-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T20:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -37,7 +37,7 @@ related:
     provider:
       name: insidebigdata.com
       domain: insidebigdata.com
-    quality: 35
+    quality: 37
     images:
       - url: "https://insidebigdata.com/wp-content/uploads/2019/05/Artificial_intelligence_SHUTTERSTOCK.jpg"
         width: 300

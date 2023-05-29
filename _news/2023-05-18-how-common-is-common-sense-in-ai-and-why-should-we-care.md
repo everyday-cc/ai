@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Autos
 
 related:
   - title: "The AI renaissance is here. How can businesses stay secure?"

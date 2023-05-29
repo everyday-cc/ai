@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tagged: emirates face recognition technology"
+    excerpt: "Crowdfund Insider is the leading news and information website covering the emerging global industry of disruptive finance including investment crowdfunding, Blockchain, online lending, and other forms of Fintech. In partnership with Innosuisse andsupported ..."
+    publishedDateTime: 2023-05-29T00:46:00Z
+    webUrl: "https://www.crowdfundinsider.com/tag/emirates-face-recognition-technology/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/12/Crowdfund-Insider-FIntech-Insider-Digital-Assets-Insider-1024x811.png"
+        width: 1024
+        height: 811
+        isCached: true
   - title: "The truth about face recognition technology; separating reality from myth"
     excerpt: "Face recognition technology has revolutionised the domains of access control and time attendance, bringing about improvements in security and surveillance. However, like any emerging technology,"
     publishedDateTime: 2023-05-25T07:26:00Z

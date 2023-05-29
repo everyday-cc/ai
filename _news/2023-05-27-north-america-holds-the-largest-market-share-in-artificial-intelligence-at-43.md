@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-27T13:00:00Z
 originalUrl: "https://insidebigdata.com/2023/05/27/north-america-holds-the-largest-market-share-in-artificial-intelligence-at-43/"
 webUrl: "https://insidebigdata.com/2023/05/27/north-america-holds-the-largest-market-share-in-artificial-intelligence-at-43/"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://insidebigdata.com/wp-content/uploads/2019/05/Artificial_intelligence_SHUTTERSTOCK.jpg"
