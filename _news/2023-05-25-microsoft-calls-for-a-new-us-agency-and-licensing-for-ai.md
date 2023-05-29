@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-05-25/microsoft-calls
 webUrl: "https://www.bloomberg.com/news/articles/2023-05-25/microsoft-calls-for-new-us-agency-and-licensing-for-ai-tools"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 344
+published: true
 
 provider:
   name: Bloomberg L.P.
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk Wants to Challenge Google and Microsoft in AI"
-    excerpt: "Elon Musk says it could involve different parts of his corporate empire, including Twitter, which he predicted could halt its losses as soon as next month."
-    publishedDateTime: 2023-05-24T23:21:00Z
-    webUrl: "https://www.wsj.com/articles/elon-musk-wants-to-see-an-ai-rival-to-google-microsoft-a299e27f?mod=e2tw"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-787338/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Microsoft: We Need a New Government Agency to Regulate AI"
     excerpt: "The company also calls for governments to implement a licensing system to ensure companies deploy 'highly capable AI' models responsibly."
     publishedDateTime: 2023-05-25T19:47:00Z
@@ -249,15 +235,20 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 44
-  - title: "Canary Speech Accelerates AI Speech Analysis Technology with Microsoft Cloud for Healthcare Integration"
-    excerpt: "Digital vocal biomarker innovator integrates clinical-grade technology providing real-time speech analysis on Microsoft Cloud for Healthcare. PROVO, Utah, May 24, 2023 /PRNewswire/ -- Canary Speech, Inc."
-    publishedDateTime: 2023-05-24T23:40:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/24/9820780.htm"
+  - title: "Microsoft launches Fabric, a new integrated platform for data analytics, management and machine learning"
+    excerpt: "The software can also integrate Azure Data Factory, Azure Synapse Analytics and Power BI into a single unit, particularly to aid business professionals with relevant data."
+    publishedDateTime: 2023-05-25T07:55:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/microsoft-launches-fabric-a-new-integrated-platform-for-data-analytics-management-and-machine-learning-10659191.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 35
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 39
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/08/Microsoft_reuters-770x433.jpg"
+        width: 770
+        height: 433
+        isCached: true
   - title: "Qualcomm drives Opel connectivity, aligns with Microsoft for on-device AI"
     excerpt: "Mobile platform provider announces partnership to make generative AI more affordable, reliable and private by moving queries and inferencing to edge devices and provider’s infotainment platform for small car bestseller."
     publishedDateTime: 2023-05-25T11:36:00Z

@@ -63,7 +63,7 @@
       "originalUrl": "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -168,7 +168,7 @@
       "originalUrl": "https://www.wired.com/story/chatgpt-prompt-injection-attack-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 221,
+      "heat": 241,
       "tags": null,
       "images": [
         {
@@ -210,58 +210,6 @@
         "Facebook AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-facebook-owner-meta-slashes-business-teams-in-final-round-of-layoffs.md",
-      "title": "Facebook owner Meta slashes business teams in final round of layoffs",
-      "excerpt": "Meta Platforms Inc , owner of Facebook, slashed jobs across its business and operations units on Wednesday as it carried out its last batch of a three-part round of layoffs, part of a plan announced in March to eliminate 10,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/facebook-owner-meta-starts-final-round-layoffs-2023-05-24/",
-      "originalUrl": "https://www.reuters.com/technology/facebook-owner-meta-starts-final-round-layoffs-2023-05-24/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/d_PASdpr3QZXkbBeg_mjFMVR72c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SUJGYB3QTVJK3CHWEDCOPD4KUE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T18:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     },
     {
@@ -1499,6 +1447,58 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-01-metas-ai-is-partially-trained-on-breitbart-and-russia-today-study-finds.md",
+      "title": "Meta's AI Is Partially Trained on Breitbart and Russia Today, Study Finds",
+      "excerpt": "AI is sophisticated, but it’s not really intelligent ... language Wikipedia and other web documents. According to the research paper released alongside LLaMA, 15% of its pre-training data ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/ai-bard-google-facebook-trained-on-breitbart-rt-1850352405",
+      "originalUrl": "https://gizmodo.com/ai-bard-google-facebook-trained-on-breitbart-rt-1850352405",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/275d7e1f8b71cbb3d8ce748ccbcef684.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-30T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     }
   ],

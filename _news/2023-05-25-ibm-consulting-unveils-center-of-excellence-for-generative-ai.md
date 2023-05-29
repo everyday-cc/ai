@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellen
 webUrl: "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellence-for-generative-ai/"
 type: article
 quality: 119
-heat: 239
+heat: 249
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/595592365669c10c08c153f2f6c05df497259108/2023/05/25/20c009a8-9562-4440-a1b3-153663f9f92f/screenshot-2023-05-25-at-11-28-10-am.png?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Missing The AI Forest For The Generative AI Tree"
+    excerpt: "Some companies and entranced by generative AI, but should be exploring other types better suited to their key data."
+    publishedDateTime: 2023-05-29T16:40:00Z
+    webUrl: "https://www.forbes.com/sites/tomdavenport/2023/05/29/missing-the-ai-forest-for-the-generative-ai-tree/"
+    ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2023/05/29/missing-the-ai-forest-for-the-generative-ai-tree/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/05/29/missing-the-ai-forest-for-the-generative-ai-tree/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6474d458bc83efe2be9811f3/0x0.jpg?format=jpg&width=1200"
+        width: 1024
+        height: 1024
         isCached: true
   - title: "IBM Shows Its Full-Stack Generative AI Offering Could Be A Force To Reckon With"
     excerpt: "it hasn't been caught up in the consumer-facing AI frenzy driven by OpenAI, Microsoft, Google and others. However, over the years, IBM has significantly contributed to the field, most famously with the cognitive computing platform IBM Watson. For a ..."

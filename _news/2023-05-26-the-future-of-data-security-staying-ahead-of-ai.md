@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/26/the-future
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/26/the-future-of-data-security-staying-ahead-of-ai/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/05/robot-1.jpg"
         width: 1280
         height: 750
+        isCached: true
+  - title: "Insider Q&A: Artificial intelligence and cybersecurity in military tech"
+    excerpt: "Lospinoso recently told a Senate Armed Services subcommittee how artificial intelligence can help protect military operations. The CEO/programmer discussed the subject with The Associated Press as well how software vulnerabilities in weapons systems are a major threat to the U.S. military. The interview has been edited for clarity and length."
+    publishedDateTime: 2023-05-29T17:43:00Z
+    webUrl: "https://www.click2houston.com/news/2023/05/23/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/"
+    type: article
+    provider:
+      name: Click2Houston
+      domain: click2houston.com
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/PWGTWQ3HTBFCXHPY2CQETHQSJE.jpg?_a=ATCqVhC0"
+        width: 700
+        height: 467
         isCached: true
 
 secured: "FtOFnlDrld45IkPAI0Pw7wwJDAMX7ENeMqjjq5yuFGrOronKggQ4u/9IkJdMOEWq5hJoERlQRZZdR0ZrIeAiNLIb4udomNtA0Yooll+/79uCcTgHhKr3cMiIuo5/2/EtRjSq8nayt+pTuKSbacUF/mJi5TTr3s3MgvftMdt/wipyaGg+atzwTH1PeVqgff4V6aA69tthOLotnDOhUoUvfuHXeUXsFkVK+OAtTfJYV82s3pEWdPit86DVgbX7kWl2SMsEvB2MxCInNK/YzTBkXuoIYIJuFxCGpOWUGXT1kJSE7oeEx7QXzJfoF0+OMg0oyWTC4O7yQN0WqPg+VyRaWf9uLXsC9PmdWh7Fb+WODfs=;fmMNByT5bNOhrXf5CHbfYw=="

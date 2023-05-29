@@ -9,8 +9,8 @@ ampWebUrl: "https://www.westhawaiitoday.com/2023/05/25/opinion/how-much-should-a
 cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2023/05/25/opinion/how-much-should-ai-concern-us-we-need-real-guidance-not-vague-alarmism/amp/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: West Hawaii Today
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Much Should We Trust Artificial Intelligence"
-    excerpt: "There has been a great deal of recent buzz about the rather dated notion of artificial intelligence ... Consider the case of self-driving cars. Elements of AI come into play in growing numbers ..."
-    publishedDateTime: 2023-05-25T00:00:00Z
-    webUrl: "https://www.infoq.com/articles/ai-trust/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 39
-    images:
-      - url: "https://res.infoq.com/articles/ai-trust/en/headerimage/GettyImages-170614688.jpg"
-        width: 1523
-        height: 1111
-        isCached: true
   - title: "Another View | Chicago Tribune: We need true guidance on AI"
     excerpt: "Geoffrey Hinton, the visionary expert who was at the heart of so much innovation in artificial intelligence and machine learning, left Google. In an interview with CNN, he said,"
     publishedDateTime: 2023-05-25T13:31:00Z

@@ -47,6 +47,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-25-microsoft-calls-for-a-new-us-agency-and-licensing-for-ai.md",
+      "title": "Microsoft Calls for a New US Agency and Licensing for AI",
+      "excerpt": "Microsoft Corp. is calling for a new US agency to regulate artificial intelligence and licensing requirements to operate the most powerful AI tools, company President Brad Smith said Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-25/microsoft-calls-for-new-us-agency-and-licensing-for-ai-tools",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-25/microsoft-calls-for-new-us-agency-and-licensing-for-ai-tools",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 344,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUbotLOGsgFM/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-elon-musk-wants-to-challenge-google-and-microsoft-in-ai.md",
       "title": "Elon Musk Wants to Challenge Google and Microsoft in AI",
       "excerpt": "Elon Musk says it could involve different parts of his corporate empire, including Twitter, which he predicted could halt its losses as soon as next month.",
@@ -1443,59 +1495,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund.md",
-      "title": "AMP Robotics attracts investment from Microsoft’s Climate Innovation Fund",
-      "excerpt": "AMP Robotics, a Denver, Colorado-based startup creating robotic systems that can automatically ... infrastructure and expanding new infrastructure based on our application of AI-powered automation,” founder and CEO Matanya Horowitz told TechCrunch ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/",
-      "originalUrl": "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 240,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-172878844.jpg?w=1200",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/11/amp-robotics-attracts-investment-from-microsofts-climate-innovation-fund/amp/",
-      "publishedDateTime": "2023-05-11T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI",
         "Microsoft AI"
       ]

@@ -89,6 +89,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "MediaTek taps Nvidia GPU and AI for connected car chipsets"
+    excerpt: "Today at Computex, MediaTek and Nvidia announced a partnership to develop a unique platform for AI-powered connected cars."
+    publishedDateTime: 2023-05-29T17:21:00Z
+    webUrl: "https://venturebeat.com/ai/mediatek-taps-nvidia-gpu-and-ai-for-connected-car-chipsets/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 99
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/NVIDIA-e1685375149906.jpg?w=1200&strip=all"
+        width: 1200
+        height: 599
+        isCached: true
   - title: "Nvidia unveils new kind of Ethernet for AI, Grace Hopper 'Superchip' in full production"
     excerpt: "The Spectrum-X ethernet switch offers \"lossless\" transmission via a new kind of congestion control, said Nvidia."
     publishedDateTime: 2023-05-29T05:23:00Z
@@ -359,20 +373,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Nvidia’s stock soars 24% on strong sales forecast amid surging demand for AI chips"
-    excerpt: "Wall Street’s projections out of the water, sending its stock up an incredible 24% in extended trading. The company reported net income for the quarter of $2.04 billion, up from the $1.62 billion profit it recorded one year earlier."
-    publishedDateTime: 2023-05-25T00:11:00Z
-    webUrl: "https://siliconangle.com/2023/05/24/nvidias-stock-soars-strong-sales-forecast-amid-surging-demand-ai-chips/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 65
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/jensenhuang1-gtc23.png"
-        width: 2940
-        height: 1912
-        isCached: true
   - title: "NVIDIA Grace Hopper Superchips Designed for Accelerated Generative AI Enter Full Production"
     excerpt: "NVIDIA today announced that the NVIDIA® GH200 Grace Hopper Superchip is in full production, set to power systems coming online worldwide to run complex"
     publishedDateTime: 2023-05-29T03:54:00Z
@@ -437,20 +437,6 @@ related:
         width: 1279
         height: 640
         isCached: true
-  - title: "Nvidia Stock Surges As Generative AI Frenzy Boosts Sales"
-    excerpt: "Nvidia's stock price surged Wednesday after the company said a generative AI spending frenzy is boosting revenue."
-    publishedDateTime: 2023-05-24T23:08:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-stock-surges-as-generative-ai-frenzy-boosts-sales"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 56
-    images:
-      - url: "https://www.crn.com/resources/027e-1760b1bd867a-fdfae1545ede-1000/jensen_huang_nvidia.jpeg"
-        width: 648
-        height: 432
-        isCached: true
   - title: "Cathie Wood’s Top Fund Missed Nvidia’s Stock Surge. But ARK Made This AI Bet."
     excerpt: "Cathie Wood's Ark Innovation ETF sold its Nvidia shares before the majority of the chip maker's stock rally but is backing automation software maker UiPath."
     publishedDateTime: 2023-05-26T11:29:00Z
@@ -480,20 +466,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Grace-Hopper-Image.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Nvidia Shares Soar 28% As Demand Surges For AI Chips"
-    excerpt: "Nvidia shares rocketed in after hours trading after the chipmaker forecast current-quarter revenue more than 50 per cent above analyst expectations, saying it has boosted supply to meet surging demand for its AI chips."
-    publishedDateTime: 2023-05-24T23:47:00Z
-    webUrl: "https://www.channelnews.com.au/nvidia-shares-soar-28-as-demand-surges-for-ai-chips/"
-    type: article
-    provider:
-      name: ChannelNews Australia
-      domain: channelnews.com.au
-    quality: 54
-    images:
-      - url: "https://www.channelnews.com.au/wp-content/uploads/2023/05/nvidia.png"
-        width: 1779
-        height: 1150
         isCached: true
   - title: "AI future depends on semiconductor chips from companies like Nvidia"
     excerpt: "First, it was electronics — then it was cars — and now it's AI: The semiconductor chip is entering a new stratospheric phase."
@@ -635,20 +607,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Nvidia’s AI Victory Lap"
-    excerpt: "The most important acronym in business right now is AI, but another one—GPU—isn’t far behind. Today’s earnings forecast from chip designer Nvidia, which makes graphics processing units that power ChatGPT and its ilk,"
-    publishedDateTime: 2023-05-25T00:31:00Z
-    webUrl: "https://www.theinformation.com/articles/nvidias-ai-victory-lap"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 39
-    images:
-      - url: "https://tii.imgix.net/production/articles/10590/8acf66cb-01c2-4ec8-a79f-2972293e5b94-26Tmy5.png?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nvidia gears up for AI-fueled data center boom"
     excerpt: "The company projects a 10-year transition where data centers are reclaimed and built out as accelerated computing to support generative AI adoption."
     publishedDateTime: 2023-05-25T21:00:00Z
@@ -718,6 +676,20 @@ related:
       - url: "https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_377%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/46be6cceef56a10fe8b9ee36c006c5f59be895d3"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Nvidia to build Israel's most potent AI supercomputer"
+    excerpt: "Nvidia is investing hundreds of millions in building Israel's strongest AI supercomputer, Israel-1, promising breakthroughs in AI applications."
+    publishedDateTime: 2023-05-29T17:36:00Z
+    webUrl: "https://interestingengineering.com/innovation/nvidia-to-build-israels-most-potent-ai-supercomputer"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/29/image/jpeg/jEpzwifYF4BB69ZwTB9uBNJSgOcgWayWXzWHUEZr.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "How Nvidia created the chip powering the generative AI boom"
     excerpt: "“This is important as it lets us all train bigger models faster as this moves from a research to an engineering problem.” While the timing of the H100’s launch was ideal, Nvidia’s breakthrough in AI can be traced back almost two decades to an ..."

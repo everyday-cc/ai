@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 620
         isCached: true
+  - title: "From Gaming Guru to AI Game-Changer: How Nvidia Reinvented Itself"
+    excerpt: "Nvidia was all about gaming. Sure, the Nvidia Tesla high-performance computing card had been available since May 2012 and the third-generation model was just around the corner. But that was just a sideshow in 2013,"
+    publishedDateTime: 2023-05-28T15:19:00Z
+    webUrl: "https://www.nasdaq.com/articles/from-gaming-guru-to-ai-game-changer:-how-nvidia-reinvented-itself"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Nvidia is up 165% in 2023. Here's why its the clear winner in the AI race so far."
     excerpt: "Nvidia's role in powering the AI sector's vast ambitions means it will be a clear leader in the space for a long time, sources told Insider."
     publishedDateTime: 2023-05-27T12:15:00Z

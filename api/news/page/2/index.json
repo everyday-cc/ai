@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-26-stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says.md",
+      "title": "Stock market’s AI frenzy reinforces this crucial rule for traders, RenMac says",
+      "excerpt": "A mind-blowing Thursday surge by shares of chip maker Nvidia Corp. that fed a frenzy for artificial ... the 50-day moving average falls below the 200-day moving average. And the AI rally has some market watchers pondering if another bubble may be in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
+      "originalUrl": "https://www.marketwatch.com/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-789668/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
+      "publishedDateTime": "2023-05-26T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-26-aiml-considerations-of-healthcares-new-frontier.md",
       "title": "AI/ML: Considerations of Healthcare’s New Frontier",
       "excerpt": "Artificial Intelligence (AI) and Machine Learning (ML) is bringing healthcare into a new frontier with vast potential to improve clinical outcomes, manage resources, and support therapeutic development. They also raise ethical, legal, and operational ...",
@@ -191,7 +243,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/26/the-future-of-data-security-staying-ahead-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1033,7 +1085,7 @@
       "originalUrl": "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellence-for-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 239,
+      "heat": 249,
       "tags": null,
       "images": [
         {
@@ -1180,58 +1232,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-3-new-ways-generative-ai-can-help-you-search.md",
-      "title": "3 new ways generative AI can help you search",
-      "excerpt": "Today, we’re starting to open up access to SGE (Search Generative Experience), one of our first experiments in Search Labs.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/search-generative-ai-tips/",
-      "originalUrl": "https://blog.google/products/search/search-generative-ai-tips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/io23_BlogPostHero_Full_size_RUAz0GV.width-1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

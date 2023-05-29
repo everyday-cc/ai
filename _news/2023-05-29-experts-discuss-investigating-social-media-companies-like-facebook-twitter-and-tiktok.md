@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Facebook Releases AI Model for Protein Sequence Processing"
-    excerpt: "A team of scientists at Facebook AI Research have released a deep-learning model for processing protein data from DNA sequences. The model contains approximately 700M parameters, was trained on ..."
-    publishedDateTime: 2023-05-25T00:00:00Z
-    webUrl: "https://www.infoq.com/news/2020/09/facebook-ai-genomics/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 19
 
 secured: "pznnLBlGoid/QBQ/12mIh6u68U8/7FLeVE5t6yZOpkCnKtOn7pugVLbsA3/ziuM2YedHbMZY85gWgDqACVCUPUjgn8k3Hzz8Q+G2aY2EvgeLr5lBrnHyfLBuuffjxXR3I7/G+Ds4qej/iTda/kWtfciIrRv+5jlB3HuF5zbSihV6uuY6ds7tiyJzOok7/bBRVhMhBNA5PY3BQJSQonGbgLUrHbn6338Uy8vQCPo0WhpBWX7Eo8Q5bbNfllSny4SA4KyzCFR0qN18NSp4g+vznJB96bnYgbf7xbnt+zvzcJJEK2Apg7RV+++6IKRnMYR2GhHuomAjdsh7QJN1HiP5NHpmsIHB/BvdYjsQLzJ1BNgTDq/Vk3VC6R62yQOj/Qe+GfeDhXia18gaaj6jExoZ0sVt7BPel2yKOoAAzF/Sx7vsPQKgtlxkzVW0GeG8EccbmTZZGWqNy0HjSVB55x4pcc4FX4O7fIBNT1y8pNLH6ck6kv1QXI/IJVO8ECmpOn0qeI67kgj+QV0okHI3GykbyQ==;7o+ue3c7rrBB8UvnFtX1Eg=="
 ---

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-25-3-new-ways-generative-ai-can-help-you-search.md",
+      "title": "3 new ways generative AI can help you search",
+      "excerpt": "Today, we’re starting to open up access to SGE (Search Generative Experience), one of our first experiments in Search Labs.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/search/search-generative-ai-tips/",
+      "originalUrl": "https://blog.google/products/search/search-generative-ai-tips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/io23_BlogPostHero_Full_size_RUAz0GV.width-1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-nvidia-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge.md",
       "title": "Nvidia is poised to join $1 trillion club thanks to AI-driven surge",
       "excerpt": "Thanks to a seemingly insatiable demand for AI chips, Nvidia saw its stock soar nearly 30% after yesterday's financial results.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -158,6 +210,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-25-microsoft-calls-for-a-new-us-agency-and-licensing-for-ai.md",
+      "title": "Microsoft Calls for a New US Agency and Licensing for AI",
+      "excerpt": "Microsoft Corp. is calling for a new US agency to regulate artificial intelligence and licensing requirements to operate the most powerful AI tools, company President Brad Smith said Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-25/microsoft-calls-for-new-us-agency-and-licensing-for-ai-tools",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-25/microsoft-calls-for-new-us-agency-and-licensing-for-ai-tools",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 344,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUbotLOGsgFM/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-the-five-key-benefits-of-aiops-and-automation.md",
       "title": "The five key benefits of AIOps and automation",
       "excerpt": "How AIOps can help your IT staff move from a “break-fix” approach to one that’s more predictive and proactive.\nThe post The five key benefits of AIOps and automation appeared first on IBM Blog.\n",
@@ -208,7 +312,7 @@
       "originalUrl": "https://us.cnn.com/2023/05/25/tech/nvidia-earnings-ai/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 724,
+      "heat": 704,
       "tags": null,
       "images": [
         {
@@ -568,7 +672,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-ai-chatgpt-stock-market-news-semiconductor-chips-artificial-intelligence-2023-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -608,49 +712,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-how-much-should-ai-concern-us-we-need-real-guidance-not-vague-alarmism.md",
-      "title": "How much should AI concern us? We need real guidance, not vague alarmism",
-      "excerpt": "Geoffrey Hinton, the visionary expert who was at the heart of so much innovation in artificial intelligence and machine learning, left Google. In an interview with CNN, he said, “I’m just a scientist who suddenly realized that these things are getting smarter than us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.westhawaiitoday.com/2023/05/25/opinion/how-much-should-ai-concern-us-we-need-real-guidance-not-vague-alarmism/",
-      "originalUrl": "https://www.westhawaiitoday.com/2023/05/25/opinion/how-much-should-ai-concern-us-we-need-real-guidance-not-vague-alarmism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.westhawaiitoday.com/wp-content/uploads/2023/05/web1_OPED-AI-CONCERNS-COMMENTARY-GET.jpg",
-          "width": 760,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.westhawaiitoday.com/2023/05/25/opinion/how-much-should-ai-concern-us-we-need-real-guidance-not-vague-alarmism/amp/",
-      "cdnAmpWebUrl": "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2023/05/25/opinion/how-much-should-ai-concern-us-we-need-real-guidance-not-vague-alarmism/amp/",
-      "publishedDateTime": "2023-05-25T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "West Hawaii Today",
-        "domain": "westhawaiitoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     },
@@ -920,7 +981,7 @@
       "originalUrl": "https://www.wired.com/story/chatgpt-prompt-injection-attack-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 221,
+      "heat": 241,
       "tags": null,
       "images": [
         {
@@ -1117,58 +1178,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-facebook-owner-meta-slashes-business-teams-in-final-round-of-layoffs.md",
-      "title": "Facebook owner Meta slashes business teams in final round of layoffs",
-      "excerpt": "Meta Platforms Inc , owner of Facebook, slashed jobs across its business and operations units on Wednesday as it carried out its last batch of a three-part round of layoffs, part of a plan announced in March to eliminate 10,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/facebook-owner-meta-starts-final-round-layoffs-2023-05-24/",
-      "originalUrl": "https://www.reuters.com/technology/facebook-owner-meta-starts-final-round-layoffs-2023-05-24/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/d_PASdpr3QZXkbBeg_mjFMVR72c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SUJGYB3QTVJK3CHWEDCOPD4KUE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T18:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     },

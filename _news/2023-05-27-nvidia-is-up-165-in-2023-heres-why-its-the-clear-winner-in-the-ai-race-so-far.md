@@ -71,6 +71,15 @@ related:
         width: 1920
         height: 1188
         isCached: true
+  - title: "From Gaming Guru to AI Game-Changer: How Nvidia Reinvented Itself"
+    excerpt: "Nvidia was all about gaming. Sure, the Nvidia Tesla high-performance computing card had been available since May 2012 and the third-generation model was just around the corner. But that was just a sideshow in 2013,"
+    publishedDateTime: 2023-05-28T15:19:00Z
+    webUrl: "https://www.nasdaq.com/articles/from-gaming-guru-to-ai-game-changer:-how-nvidia-reinvented-itself"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "MediaTek, NVIDIA to Transform Automobiles with AI & Accelerated Computing"
     excerpt: "AI and accelerated computing are fueling the transformation of the entire auto industry. The combination of MediaTek’s industry-leading system-on-chip plus NVIDIA’s GPU and AI software technologies will enable new user experiences, enhanced safety and new connected services for all vehicle segments, from luxury to entry-level."
     publishedDateTime: 2023-05-29T07:18:00Z

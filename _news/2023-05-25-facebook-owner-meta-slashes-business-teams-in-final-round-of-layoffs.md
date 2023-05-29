@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/facebook-owner-meta-starts-fina
 webUrl: "https://www.reuters.com/technology/facebook-owner-meta-starts-final-round-layoffs-2023-05-24/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Reuters
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook Releases AI Model for Protein Sequence Processing"
-    excerpt: "A team of scientists at Facebook AI Research have released a deep-learning model for processing protein data from DNA sequences. The model contains approximately 700M parameters, was trained on ..."
-    publishedDateTime: 2023-05-25T00:00:00Z
-    webUrl: "https://www.infoq.com/news/2020/09/facebook-ai-genomics/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 19
   - title: "Experts Discuss Investigating Social Media Companies Like Facebook, Twitter, and TikTok"
     excerpt: "Over the past decade, a handful of social media platforms have dominated online life. These companies — operating from fortress-like headquarters — hold immeasurable control over how the world communicates online."
     publishedDateTime: 2023-05-29T07:00:00Z

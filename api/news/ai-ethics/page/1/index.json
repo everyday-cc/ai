@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-29-very-human-questions-about-artificial-intelligence.md",
+      "title": "Very human questions about artificial intelligence",
+      "excerpt": "AI experts tell us we live in unpredictable times. They have no answers and since ordinary people like us don’t even know the right questions to ask, EL PAÍS went to the Institute for Futures Studies",
+      "sourceUrl": null,
+      "webUrl": "https://english.elpais.com/science-tech/2023-05-29/very-human-questions-about-artificial-intelligence.html",
+      "originalUrl": "https://english.elpais.com/science-tech/2023-05-29/very-human-questions-about-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.english.elpais.com/resizer/Ntx0a4c4BRcOFgMTcWKUrceHgD4=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/BMLFUW7I6BGSDGI3WSLCCMOLSE.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.elpais.com/science-tech/2023-05-29/very-human-questions-about-artificial-intelligence.html?outputType=amp",
+      "cdnAmpWebUrl": "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2023-05-29/very-human-questions-about-artificial-intelligence.html?outputType=amp",
+      "publishedDateTime": "2023-05-29T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "El País in English",
+        "domain": "elpais.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-28-artificial-intelligence-unesco-mobilizes-education-ministers-for-a-co-ordinated-response-to-chatgpt.md",
       "title": "Artificial Intelligence: UNESCO Mobilizes Education Ministers for a Co-ordinated Response to ChatGPT",
       "excerpt": "In response to the emergence of powerful generative AI tools, on Thursday, UNESCO held the first global meeting of Ministers of Education.",
@@ -87,49 +130,6 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-how-much-should-ai-concern-us-we-need-real-guidance-not-vague-alarmism.md",
-      "title": "How much should AI concern us? We need real guidance, not vague alarmism",
-      "excerpt": "Geoffrey Hinton, the visionary expert who was at the heart of so much innovation in artificial intelligence and machine learning, left Google. In an interview with CNN, he said, “I’m just a scientist who suddenly realized that these things are getting smarter than us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.westhawaiitoday.com/2023/05/25/opinion/how-much-should-ai-concern-us-we-need-real-guidance-not-vague-alarmism/",
-      "originalUrl": "https://www.westhawaiitoday.com/2023/05/25/opinion/how-much-should-ai-concern-us-we-need-real-guidance-not-vague-alarmism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.westhawaiitoday.com/wp-content/uploads/2023/05/web1_OPED-AI-CONCERNS-COMMENTARY-GET.jpg",
-          "width": 760,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.westhawaiitoday.com/2023/05/25/opinion/how-much-should-ai-concern-us-we-need-real-guidance-not-vague-alarmism/amp/",
-      "cdnAmpWebUrl": "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2023/05/25/opinion/how-much-should-ai-concern-us-we-need-real-guidance-not-vague-alarmism/amp/",
-      "publishedDateTime": "2023-05-25T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "West Hawaii Today",
-        "domain": "westhawaiitoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     },
     {

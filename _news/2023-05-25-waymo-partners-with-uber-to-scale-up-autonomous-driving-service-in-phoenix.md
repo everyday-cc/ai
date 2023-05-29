@@ -24,17 +24,6 @@ images:
     height: 853
     isCached: true
 
-related:
-  - title: "Uber teams up with Google’s Waymo on self-driving cars"
-    excerpt: "Ride-hailing service Uber signed a deal with Google sister company Waymo to offer the tech giant’s self-driving cars through the ride hailing app, potentially setting up a major alliance between ..."
-    publishedDateTime: 2023-05-25T00:13:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/05/23/uber-waymo-self-driving-cars/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 19
-
 secured: "g8S8+A00zzlnnLIqVEE3aL2yma5AnKVxJ7NubzmB8FmPzY0KKk84KvRT0e6i3NrUHEeKoBQsqPOpAabjpuzeCr1OO1LTj6U6msQd1qwhiiZsDSngq5vDfHJRzKJpyHrjI5JtmOg75QLbonupgIpQTK+yKXUgdQI7QF1KyvuRahyPz0AZ2uNo6Q8VEiUA+FMRs8MZau0Atya2KF/rhn6nUplZScEnhHZ7+RqUHbL8Ssffxwh1Ec/cN/BzAcpFmq36ExY9ygox1zV+jAdMQeax5TE0J4HoXImQUVfWJmqAGvj9dYL79nV7e3/mzv75UvG7CEN55TFw0StyZnOY/u13swagLvhRWoytrKNvI1SrRVw=;H9Bwk2hBQmuBFgtHa9fHbw=="
 ---
 

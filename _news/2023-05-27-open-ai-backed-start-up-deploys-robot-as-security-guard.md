@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Insider Q&A: Artificial intelligence and cybersecurity in military tech"
+    excerpt: "Lospinoso recently told a Senate Armed Services subcommittee how artificial intelligence can help protect military operations. The CEO/programmer discussed the subject with The Associated Press as well how software vulnerabilities in weapons systems are a major threat to the U.S. military. The interview has been edited for clarity and length."
+    publishedDateTime: 2023-05-29T17:43:00Z
+    webUrl: "https://www.click2houston.com/news/2023/05/23/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/"
+    type: article
+    provider:
+      name: Click2Houston
+      domain: click2houston.com
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/PWGTWQ3HTBFCXHPY2CQETHQSJE.jpg?_a=ATCqVhC0"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "iNnbYpF1bPCfhJHuhKDV8W1Uk++TYIsIY3r/vsVllMzjLM3bPUdrEZbvOrfr626JhPQZjk6ouzQiM4CdoMDC1rB28gTmGUks1xlPExWGrD8NAcpxtJe6zvgijYbir++x9j/9HuNKc0hCozozXk4SHG274fKiU/5B5E7lEKo3ooeRl7/IpXM/THKyVKTyuuCCMrPobiFEewsyFBM6yQlUqRskvqF73mfYAvSL4FF6Jte+g/y5ByimZZRbWttdLH7W/QihFMObAdLGe3YukZ5ctuC8FjLHuwKzhHPAP9QcnW9SyiuqyKs4CNrzFdHgGau1qDZz5OJ60555bmhMtRZ0LLnljUFhGkHYUGlP6ApJMezQpdvaJj/oyoeWQaKBvKwB2bQbmFjWKA2vYW/bwZ/4UAeMgZLZcVee/VZCS7ugZlOtgnQe0G0z4uPGC0kX5CJrrW1cI2V00IQoi7Yiv5LHyy4eF30UABquclfp2M53XDtQ8TrmRtHaBoSGjzrV5niWl0hKw0iN6slb3fyz7RoCag==;cDZlHVngLoWYTV+xNI6NuA=="
 ---

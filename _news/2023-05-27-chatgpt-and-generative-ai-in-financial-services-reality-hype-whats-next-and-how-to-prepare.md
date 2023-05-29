@@ -86,6 +86,22 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
+    publishedDateTime: 2023-05-29T16:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-how-to-prepare-hype-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-how-to-prepare-hype-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-in-payments-how-to-prepare-hype-2023-may?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
+    images:
+      - url: "https://i.insider.com/64414647632fda001803ccf4?width=1200&format=jpeg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
     excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
     publishedDateTime: 2023-05-25T15:59:00Z
@@ -142,6 +158,20 @@ related:
       - url: "https://www.itp.net/cloud/2023/05/25/MS-Build-2023-Bing-to-ChatGPT.jpg"
         width: 2000
         height: 1334
+        isCached: true
+  - title: "ChatGPT takes center stage as students ditch tutors in favor of AI-powered learning"
+    excerpt: "The findings show many students and parents using ChatGPT, with some completely replacing their tutoring sessions with the AI tool."
+    publishedDateTime: 2023-05-29T16:33:00Z
+    webUrl: "https://venturebeat.com/ai/chatgpt-takes-center-stage-students-ditch-tutors-in-favor-of-ai-powered-learning/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/chatGPT-financial-problem.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 718
         isCached: true
   - title: "Amazon's answer to ChatGPT seen as incomplete"
     excerpt: "Amazon.com Inc.'s cloud customers are clamoring to get their hands on the ChatGPT-style technology the company unveiled six weeks ago. But instead of being allowed to test it, many are being told to sit tight,"

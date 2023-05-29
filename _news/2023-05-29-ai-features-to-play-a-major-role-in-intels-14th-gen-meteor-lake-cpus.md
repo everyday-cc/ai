@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 715
         isCached: true
+  - title: "Intel’s 14th-gen “Meteor Lake” chips will have a dedicated VPU (vision processing unit) for AI acceleration"
+    excerpt: "No Comments on Chip makers have been designing chips that incorporate both a CPU and GPU for decades at this point. But we’re increasingly seeing companies add other dedicated features, and as the tech world looks toward AI as the next big thing,"
+    publishedDateTime: 2023-05-29T16:06:00Z
+    webUrl: "https://liliputing.com/intels-14th-gen-meteor-lake-chips-will-have-a-dedicated-vpu-vision-processing-unit-for-ai-acceleration/"
+    type: article
+    provider:
+      name: Liliputing
+      domain: liliputing.com
+    quality: 21
+    images:
+      - url: "https://liliputing.com/wp-content/uploads/2023/05/vpu.jpg"
+        width: 1200
+        height: 651
+        isCached: true
 
 secured: "v7RaWfZotnQUqfFEKdaSPzw1XOxkT8pFDBZJKM5yKNsQsTJZ2sqnhxeLxg9a4WSZU2Y5WcuvkTDxRrLVwyijidfFB+0kaeI8X/UOdZsiaG0SON4spUGPYN1E8HtrPTVAybpq4sQEPl4D7dvzy8c4nkJ/aV9Y0AmXMqX3rW93bEeKTMgN/7RziYdhxTgCntfodFcqWA4EgPJEkNqo6TXW4vhP/X2YuR101hWCd+JnFiV8xWR9GLGugBA2ftD4od1411dt3Rl94D4V3UVwdzUPLK1aLlJXVSoh+S1FJv9ZmFuKy0uKi6bXYWw5J6AptQiO8WUhu0+kcPDg4ddf2J2W/q/MIn41LX+64Ac26yM3+9WIQVh0VFqmJpWOmX2zFaKR1bBUP6bC68FwP2ERTjSF+/MVvPq1GZvriGq5XnJPZcIJ11qhE3YEQVbwvTpRiJ097y8L4Dma0CNDVGpshodLLUdujyzkIpdwPXWOITcmIGhEUu0Z4feR2Mmwb1sfdA+zHzvjAPWDCtNn3DH5r8N3ZA==;uBcxNcALEDAQnw0Hn/BRoQ=="
 ---

@@ -62,6 +62,20 @@ related:
         width: 1076
         height: 541
         isCached: true
+  - title: "NVIDIA is upgrading the in-car experience with AI, streaming, and advanced safety features"
+    excerpt: "NVIDIA revealed a new partnership Monday with Taiwanese semiconductor giant MediaTek to enhance the in-car driver experience and make"
+    publishedDateTime: 2023-05-29T16:43:00Z
+    webUrl: "https://electrek.co/2023/05/29/nvidia-upgrading-in-car-experience-ai-software/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 59
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/05/nvidia-in-car-experience.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Nvidia's blowout forecast sparks huge rally in all things AI"
     excerpt: "Nvidia Corp’s forecast for surging revenue surprised even the most bullish analysts on Wall Street, propelling the chipmaker to the cusp of a US$1 trillion market capitalization and igniting a global jump in stocks linked to artificial intelligence."
     publishedDateTime: 2023-05-25T14:32:00Z
