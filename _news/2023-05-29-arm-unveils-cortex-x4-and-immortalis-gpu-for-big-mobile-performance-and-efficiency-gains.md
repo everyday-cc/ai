@@ -41,7 +41,21 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Arm's next-gen mobile computing platform to deliver improved AI, 3D and gaming to 2024 phones"
+    excerpt: "ARM's next-generation mobile computing platform will take smartphone performance and gaming to the next level."
+    publishedDateTime: 2023-05-29T03:04:00Z
+    webUrl: "https://www.phonearena.com/news/arm-improves-2024-gaming-performance_id147766"
+    type: article
+    provider:
+      name: PhoneArena
+      domain: phonearena.com
+    quality: 28
+    images:
+      - url: "https://m-cdn.phonearena.com/images/articles/402428-image/tcs23arm.jpg"
+        width: 1082
+        height: 599
+        isCached: true
 
-secured: "tj98AxfWKptYs4jaB/xclC0rBYglj78KghklpI0KLvvJQoVcAgYqtYjwUTdm9xZdVxyNatQNdCRUQcLQLnZGB1l2N8zkE1oVbjcrMSlOPi2ugDdR/EBwvFsGeVQfd3CCSwab6Yd7IrMoy3nxK9rnD2DER/H8VoE1GQNR2BIm9LdcTFOwuD+xfQJwD0qJmFH5qDi0A3+S5vq+MNu/uHrXd5ry6em2HEVua2NiUV3DQH2UPSquan+KuoFQsGDHr0VzAVpi5XC4orennqIDyevX7ZjFtSUgtpQDGKLcW/rBAnOkrFaeQMR/pObzXXW5r+U2zmjw9AB2xIrZhHGjlV+TV+89pVLJXm3rbziad4V2MPM=;GDQQgMq2zY+mYgarG5ihlA=="
+secured: "9FJ2wLlG7MP+DAzlv/mTXB5BLtVJcjfCTNu7LXiH5cjnLFNNphp9REKfDZPdwgE9jY4yT7TkfNmjpkbL/Kk30Noajji/TtJr1gLCglPXKEV/xQCRCEhkVTspRFUZ+O/qex8/XhLGmiykLHMDfep6Gj5SlLoxIwycwtrZYXqml2GSGEBgihrruHlbmfA9/pekSkshWHdDVD9huskX+mx0vhoi4j79qKwICV2+f/QOcwBEBzuLyognBFRP895Y3B2Ly39JBfXHlo4vlio7kAc5HE2YogdK6aFjXV5MirwNxCtbpHTGHLfUkdppR11e8At5zwfSwyo8YypszLO17lxnALZmg8jJ6yCoWOH53StYoGgoOAChUPF2HjgLNekbwJLg5VbTM6zckR9oc8YJipU2HQ7Ux4lvKiiU9ewR1u9Yed0KtI1GNgPbFAqwnR0Mvsg9JzBSGrsQanvFA/49p/pxcJqooiBgq5zoAJW8n9FYpzfJ7FN/Ak/ja5HuTNjalLjiZ2kmF53v5AB7OxqgaB15ng==;3UxPUCd2hxXm8aQK1OINGQ=="
 ---
 

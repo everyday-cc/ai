@@ -52,15 +52,17 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "TCS Expands Google Cloud Relationship With Vertex Generative AI"
-    excerpt: "Tata Consultancy Services is banking on its deep customer relationships to find ways to bring Google Vertex AI generative AI to them."
-    publishedDateTime: 2023-05-24T17:48:00Z
-    webUrl: "https://www.crn.com/news/cloud/tcs-expands-google-cloud-relationship-with-vertex-generative-ai"
+  - title: "Empowering the future generation: The advantages of educating students in the new age era of AI"
+    excerpt: "Artificial intelligence (AI) has become a revolutionary force in the quickly changing world of technology, altering various sectors and our daily lives. As AI develops, it is more crucial than ever to get the"
+    publishedDateTime: 2023-05-27T09:53:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 19
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 27
 
 secured: "j1R5kOMIUZRa8EJ99UNOhlUIDgFd8m10ASlDYCnSomhfdQ8L1DcFQ6Exxf0J7ekCKkB8GsND+dE0PsJ9vyYstlHOcppajhntUwEc1sl4fIFonXa/EoZKVP7VgXMWWMykiziDM4/OW6aaisZyxVWUHk5S092faOIgpzg3YuoeiW5RfLRMKWGe0RXZb3YUUkG89NroxKyjwJTkYWqquVcTSOiBSg6uPWYYsPGoV/5PCqjMP+Hu+FIiCHHxxW67kVsG/wG+7oAbLhyEPUM9cCr12UwhFDzh5I1ZlvoePfEubalPaPXetOFdbQoznqi5ZvTkuTxRzPTIvPGTlRA0FS8sLYNj9UyqylLbVajbyoyVsUM=;D5BcLtLmPmprtd1K7TC7aA=="
 ---

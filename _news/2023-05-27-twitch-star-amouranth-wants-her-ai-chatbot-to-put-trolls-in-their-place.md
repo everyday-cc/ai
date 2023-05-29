@@ -33,6 +33,20 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 45
+  - title: "Lazada unveils new eCommerce AI chatbot LazzieChat"
+    excerpt: "Lazada group has released LazzieChat, an eCommerce AI chatbot powered by OpenAI’s ChatGPT technology in Microsoft’s Azure OpenAI Service to provide a more personalized shopping experience to its customers."
+    publishedDateTime: 2023-05-29T03:00:00Z
+    webUrl: "https://www.marketing-interactive.com/lazada-unveils-new-ecommerce-ai-chatbot-lazziechat"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 39
+    images:
+      - url: "https://marketing-interactive-assets.b-cdn.net/images/sg/content-images/by_year_month/2023-may/lazada.jpg?auto_optimize=medium"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "KZXuXfY/iEvrn1gPDqEUA3SHhag1ZJK/FmeL2uAlnpPLou2rCjODDT3Wwq1WEe6WfeaJTDtd8fh5yUtY4Uh5Cg8Oei1RKuwaoeRKohBCZ3um7Po4sWfy/MlWx1LuhCVDbGh958GciSL32ppYalj1Qaq3Zv8xqfuIjCKEnokMtMw6NfiDl4HNF32hJ8VAvyPUDguhalZ3DiVacuJ4suCeTscFQYHAChY8Q39qBJ3FPs1x0nsb5Wi4ktmCDOCtUbaJsfLc2xY+XBxwwS6iIQUZWpRFyIfGWe4UI+ZVFNoxWIJMmDindLSrYxX2rcN6sk0GePr+HY15HD01gs/7ryUtmNaFqsA7CWhasBa/okK3yLS1hQzwPBnrNj47uYi2FU+Gie6XLAEgs5U7c80TbBjhRwY+WO9BpI77phtD/T22dJC5g+ieSAJ9neZmY1m93wYIkT1m02habPBoTInZoXjcd9dcJCgZxAnXgRiPa4w98ZV/+FAibwrl6VX41H8JoXC4OjhrrQ5dY6wvpyjB4mMEMw==;zM5J3Gmfe/+Y+eRitYPi3w=="
 ---

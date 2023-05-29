@@ -56,15 +56,17 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "TCS Expands Google Cloud Relationship With Vertex Generative AI"
-    excerpt: "Tata Consultancy Services is banking on its deep customer relationships to find ways to bring Google Vertex AI generative AI to them."
-    publishedDateTime: 2023-05-24T17:48:00Z
-    webUrl: "https://www.crn.com/news/cloud/tcs-expands-google-cloud-relationship-with-vertex-generative-ai"
+  - title: "Empowering the future generation: The advantages of educating students in the new age era of AI"
+    excerpt: "Artificial intelligence (AI) has become a revolutionary force in the quickly changing world of technology, altering various sectors and our daily lives. As AI develops, it is more crucial than ever to get the"
+    publishedDateTime: 2023-05-27T09:53:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 19
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 27
 
 secured: "PVbeAlbuMRnf4shmCWrzuDWu9T5M0uJHetRcItaVd7ZIbLhUFN/GB/u/d8o0Mf+B4HQd9XUC6cBCsMld23PoQ2JIvVySkaCMOHQ9N9oa+QfOL0QebsuRv/kRW6/ZUQ5ZYlcjMnRQKoc0rOxY4Qq6PwIt6/HshQkeUa8wfoVvL9V+3/bH2A/2knpZbM1HGUsl78AwGUKHzsj29/eV2A+xR4xx2wlCrW6Kiil985qMh3uBYTPJusD3HCMrgF4dB9ZKHsqnX3xA4GdEOpJWZ6qhlUi+El4EWlJCO5SAv3fgJb/az4zcc7lQW902t5h4PpKtW1uphLzApH6cLtGrrnFQ+A2N9hLCD8NUUKnjF81jaxHOPXWg2+JnKllvsaPN9XhhMlyPGC+4uDo0Sdl424UGenBkOBeRpz4iRCl63uN963vZHGe3A4+pfc78mX8cB0kg8PEoL3MciC6Ove+MF/u3ATpPXjLWFhJSNVfufmRHgDgBCZrMBu8dnhL8bWQZY0WsbIHAS803AYL8uXw9MMuOsA==;fzO++5p4dBV15zDP2V4pZQ=="
 ---

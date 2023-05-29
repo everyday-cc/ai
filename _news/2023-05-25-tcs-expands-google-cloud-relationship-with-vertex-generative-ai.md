@@ -19,48 +19,197 @@ topics:
   - AI
 
 related:
-  - title: "Hands-on with Magic Compose, the AI-generating Messages tool"
-    excerpt: "I've had some time to play with an early version of Magic Compose, which uses AI to create texts in Messages. It's fun, but unreliable."
-    publishedDateTime: 2023-05-25T21:58:00Z
-    webUrl: "https://www.androidauthority.com/magic-compose-experience-3329552/"
+  - title: "3 new ways generative AI can help you search"
+    excerpt: "Today, we’re starting to open up access to SGE (Search Generative Experience), one of our first experiments in Search Labs."
+    publishedDateTime: 2023-05-25T15:00:00Z
+    webUrl: "https://blog.google/products/search/search-generative-ai-tips/"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
+      name: Google
+      domain: blog.google
+    quality: 89
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2022/04/Google-Messages-SMS-stock-photo-9.jpg"
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/io23_BlogPostHero_Full_size_RUAz0GV.width-1300.jpg"
+        width: 1300
+        height: 541
+        isCached: true
+  - title: "Meet Aria: Opera's new built-in generative AI assistant"
+    excerpt: "Aria joins ChatGPT, Facebook Messenger, TikTok, and WhatsApp on the Opera browser sidebar, as the company's own, natively built-in generative AI assistant. The new assistant has access to the internet, so its knowledge is not limited to content before 2021, like the free version of ChatGPT, though the ChatGPT Plus version will differ."
+    publishedDateTime: 2023-05-25T14:49:00Z
+    webUrl: "https://www.zdnet.com/article/meet-aria-operas-new-built-in-generative-ai-assistant/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/meet-aria-operas-new-built-in-generative-ai-assistant/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meet-aria-operas-new-built-in-generative-ai-assistant/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/88280eaa243ed68b15169f1f8e362bcddd6ae1b8/2023/05/25/4f1566bb-6ea0-4367-9b71-4bb0cabb3172/aria-opera.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Google's AI Magic Compose Beta Goes Live For Select Users"
-    excerpt: "Magic Compose can initiate a chat or rewrite a message with seven different tones and styles with the help of Google Bard. The beta is being rolled out for US-based premium Google One subscribers first."
-    publishedDateTime: 2023-05-28T16:37:00Z
-    webUrl: "https://www.pcmag.com/news/googles-ai-magic-compose-beta-goes-live-for-select-users"
+  - title: "Snowflake acquires Neeva to add generative AI-based search to Data Cloud"
+    excerpt: "Neeva, which uses large language models to offer an AI-based search experience, is latest company to be picked up in Snowflake's acquisition spree."
+    publishedDateTime: 2023-05-24T21:16:00Z
+    webUrl: "https://www.infoworld.com/article/3697709/snowflake-acquires-neeva-to-add-generative-ai-based-search-to-data-cloud.html"
+    ampWebUrl: "https://www.infoworld.com/article/3697709/snowflake-acquires-neeva-to-add-generative-ai-based-search-to-data-cloud.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3697709/snowflake-acquires-neeva-to-add-generative-ai-based-search-to-data-cloud.amp.html"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 86
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2020/02/07/15/merger-100830660-large.jpg?auto=webp&quality=85,70"
+        width: 849
+        height: 565
+        isCached: true
+  - title: "Google starts opening up access to its new generative AI capabilities in Search"
+    excerpt: "Google announced today that it's starting to open up access to new generative AI capabilities in Search after teasing them at I/O."
+    publishedDateTime: 2023-05-25T20:52:00Z
+    webUrl: "https://techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/"
+    ampWebUrl: "https://techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/google-search-labs-open.png?resize=1200,796"
+        width: 1200
+        height: 796
+        isCached: true
+  - title: "Infosys launches Topaz, an AI-first solution to accelerate business value through generative AI"
+    excerpt: "Infosys said organizations could harness the capabilities of cognitive solutions through its Infosys Topaz generative AI offering."
+    publishedDateTime: 2023-05-24T16:55:00Z
+    webUrl: "https://venturebeat.com/ai/infosys-launches-topaz-ai-first-solution-accelerate-business-value-generative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/infosys-launches-topaz-ai-first-solution-accelerate-business-value-generative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/infosys-launches-topaz-ai-first-solution-accelerate-business-value-generative-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_285803778.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How the generative AI boom could deliver a wave of successful businesses"
+    excerpt: "Where generative AI startups can start if they want to turn the short-term generative AI hype into long-term growth."
+    publishedDateTime: 2023-05-27T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 68
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_567557479.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Where Memory Ends and Generative AI Begins"
+    excerpt: "New photo manipulation tools from Google and Adobe are blurring the lines between real memories and those dreamed up by AI."
+    publishedDateTime: 2023-05-26T10:00:00Z
+    webUrl: "https://www.wired.com/story/where-memory-ends-and-generative-ai-begins/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
     quality: 67
     images:
-      - url: "https://i.pcmag.com/imagery/articles/00YXyCobqmXmK47unUvQkkC-1.fit_lim.size_1200x630.v1685291531.png"
-        width: 1120
-        height: 630
+      - url: "https://media.wired.com/photos/646ff414d96882f74caa3dc7/191:100/w_1280,c_limit/Where-Memory-Ends-and-Generative-AI-Begins-Gear-GettyImages-690638821.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "Google Magic Compose For AI Crafted Text Messages Rolls Out And It’s Kinda Cool"
-    excerpt: "Now that AI tech like OpenAI’s ChatGPT has taken the world by storm, companies like Apple are trying to play catch-up and build in that type of tech. This also includes Google, who talked a lot about AI at Google IO 2023."
-    publishedDateTime: 2023-05-28T16:54:00Z
-    webUrl: "https://hothardware.com/news/ai-overlords-helping-compose-text-messages-with-google"
+  - title: "How generative AI can revolutionize customization and user empowerment"
+    excerpt: "It's time to look beyond using generative AI tools for simple outputs and focus on computing capabilities for users and large enterprises."
+    publishedDateTime: 2023-05-28T23:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 33
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/61719/content/ai-overlords-helping-compose-text-messages-with-google.jpg"
-        width: 708
-        height: 398
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=750%2C500&#038;strip=all"
+        width: 750
+        height: 500
         isCached: true
+  - title: "Police hope artificial intelligence can help solve 1991 Cape May County cold case"
+    excerpt: "Investigators are hoping new technology will help them solve a cold case from the 1990s. The Middle Township Police Department and Cape May Prosecutor's Office will deploy to use artificial intelligence to investigate the case of Mark Himebaugh,"
+    publishedDateTime: 2023-05-24T20:54:00Z
+    webUrl: "https://www.cbsnews.com/philadelphia/news/mark-himebaugh-cold-case-ai-cape-may-county-crime/"
+    ampWebUrl: "https://www.cbsnews.com/amp/philadelphia/news/mark-himebaugh-cold-case-ai-cape-may-county-crime/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/philadelphia/news/mark-himebaugh-cold-case-ai-cape-may-county-crime/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 52
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2012/01/11/dde823a1-f578-45f7-abff-f050dfd47d60/thumbnail/1200x630/3e87e8129866d929cf19c3f7e61b2b08/mark-himebaugh.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "15 Surprising Ways Industries May Soon Leverage Generative AI"
+    excerpt: "There’s more to generative AI than writing press blurbs, test questions and memos—indeed, there’s much more to generative AI than writing, period."
+    publishedDateTime: 2023-05-25T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/15-surprising-ways-industries-may-soon-leverage-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "3 ways generative AI is driving innovation in financial services"
+    excerpt: "In some ways, GAI spells more of the same. According to the Bank of England’s research, machine learning, a sub-branch of AI, was last year already being used by 72% of respondents to a financial services survey. While AML and fraud detection ..."
+    publishedDateTime: 2023-05-25T17:09:00Z
+    webUrl: "https://www.finextra.com/the-long-read/692/3-ways-generative-ai-is-driving-innovation-in-financial-services"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/692.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Snowflake acquires search startup Neeva to leverage generative AI"
+    excerpt: "New Delhi, May 25 (IANS) Cloud data platform provider Snowflake has acquired search startup Neeva to accelerate search in the Data Cloud through generative AI. Neeva has created a unique and transformative search experience that leverages generative AI and ..."
+    publishedDateTime: 2023-05-25T05:47:00Z
+    webUrl: "https://glamsham.com/world/technology/snowflake-acquires-search-startup-neeva-to-leverage-generative-ai"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 37
+    images:
+      - url: "https://glamsham.com/wp-content/uploads/2023/05/635b94b7ecc224b4d4babeb2ba5a8d5a-3.jpg"
+        width: 647
+        height: 483
+        isCached: true
+  - title: "A Computer Scientist Breaks Down Generative AI’s Hefty Carbon Footprint"
+    excerpt: "And that’s just for getting the model ready to launch, before any consumers start using it. Larger models do use more energy during their deployment. There is limited data on the carbon footprint of a single generative AI query, but some industry figures ..."
+    publishedDateTime: 2023-05-25T13:34:00Z
+    webUrl: "https://www.scientificamerican.com/article/a-computer-scientist-breaks-down-generative-ais-hefty-carbon-footprint/?ref=upstract.com"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 17
+  - title: "Avatar animation, AI-powered video production companies among AWS’ first generative AI accelerator cohort"
+    excerpt: "Companies that employ generative artificial intelligence to create clips for social media ... more than 1,200 applications for the 10 spaces in the programme, prompting AWS to expand it to 21. The company will provide the cohort with the resources ..."
+    publishedDateTime: 2023-05-25T07:21:00Z
+    webUrl: "https://www.tvbeurope.com/media-management/avatar-animation-ai-powered-video-production-companies-among-aws-first-generative-ai-accelerator-cohort"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 17
 
 secured: "y27rEJ3YEu17E5jkfECuu04l0K8b2xes5+OBWkoTL8eqB13+dfgLqQikayByTj7beGOt9ugV5WRoNCzp77tA+/MnG/2+SRLF48eb7axCiKVYdUK3kKqDKjQYklQYlB6NTPg61lVuBSEFrYhI3dSs+lzL/Kx03QVcJWF6IekZP6TvoWFdpzwjxBlTdyYhWYuKrnRvEbbURF3AaLXDkBPnIKqCwgDDek4EOditAZCO04Hz264GB7YuwhQ6qzT41CitNkcBjI2wNUb/8hyv8718PTnqCmp/GzmHp7auKsywxlTMr5K69HpSf7SgTqtnEgldKAvtlxMsQpYjM3wDQc/KBtW3aYtHHnsAa5/qBcal4Hlx/JMU7+KX92iL1gYVZ53cx033nexWELMIwG4nXq9M0N4LGeEsx0MNBu9AzUSRzXVBBr7PuazT9ueiQa++mrvH8A0v05kipKSMEEUnYS1BiMEqbXNWHGJBiXy+13xiPaFpiHRHPw65xDhrkPThODJ14pd/GwXfU6Rc/hhKmPaAKw==;afQ16g3BN7f0v35+qh632w=="
 ---

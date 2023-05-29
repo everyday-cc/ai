@@ -73,20 +73,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "LIBF India joins Fintech Festival India as Knowledge Partner to empower and upskill the banking and finance professionals"
-    excerpt: "The London Institute of BankingampFinance India enters the Indian market with the aim to collaborate with corporates universities and colleges to empower and ups"
-    publishedDateTime: 2023-05-24T11:00:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273841244/libf-india-joins-fintech-festival-india-as-knowledge-partner-to-empower-and-upskill-the-banking-and-finance-professionals"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 29
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1684924059.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "QED's Rotman: The new fintech winners could be international"
     excerpt: "Some of the biggest outcomes in fintech of the last decade have been U.S. or consumer-focused businesses. QED Investors co-founder Frank Rotman believes the next generation could be more international."
     publishedDateTime: 2023-05-24T15:00:00Z
@@ -157,6 +143,6 @@ related:
         height: 249
         isCached: true
 
-secured: "WBBiLE/QBZU2OH3KyQf2pYEGayP0PlHyuH8zZc21HjMaolsDUDK8Ht4uWkRldFZISIgb+VasArAkUxoo+Stfv0870SAecnLyLHWwZHkyjUVhpZVPjThqq0Ta8j5r1u8hsAHB+Vkr3rBkXX79QvBzIzzBc4yFaFkf7Y3OP61qQvai/NCFV1K3l1KxVFyMhajsscs8uIH2nMksmABS+ApwG/AGzu4tnC5RJIA5X/cEbHeQQZQKhceG282h2enZYsRKlGUVwl+iiD13gyxL5H+z+VX+B8HEfQKgy7LwF0be8grygy3v3KMpdNtHeP39pHhBxwOL8ITHpa+yFvTDRN6yFm/eDkskLsRqmjpBNIyqc6U=;xuLwdlj9K+GiRiWvFJ1e4g=="
+secured: "gkjFovG+JeAofxEoRcSsSeO8JjhpUDe9xS4BpDGR/8Oe2CtiuOvfVKvdcSiZCwTF4fux9KAdnnDyKzeErMxemS8lKqP/yA61ihzxgGccDWwIHs7+G1WyMXhPKnplVV8XtDEom2EaWmecf6SQgECOj68X2ALXTPrgr3MIi9XE4WEKLq8DsxaCCXfHEK/XFhK0thNkYwmWWV5s0Ydy1bZw/Hs4mAWLLNCvAuaZq31uvI/1g/HbxW63OcrCAPCY39JqERu0/NwiiXL1KTsmGkDtAUkbnVeBDyj7NfNdYjNxm4z349UYiP2BdernHDb5RO174Gk3wNIw4ILbjhk9qkH5GBpDNvjBmDZKRM/+ZaYCSx2i59YjVYuXy+GB2zjlHJYGj61aPPYsxzYxTMD8iIlb8w1YHXQttAUHPilDCYHqT+4YxNUUx0GVyf1XLzAPLDErAh9CtMOlM+MRDrSmju1CqzL3w4G9iFv2M7/haeK0D2ae/KsoTBXP5iusVeUfklhuNFXvZVCF+Nwz70rh0cdKSg==;XO1gfJfMpGizKOd3wKe0sA=="
 ---
 

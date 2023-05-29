@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bill_stone/2023/05/28/will-the-artifici
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bill_stone/2023/05/28/will-the-artificial-intelligence-mania-sink-stocks/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Five of the Top Artificial Intelligence Stocks to Buy Now"
-    excerpt: "The artificial intelligence story is fueling a massive rally in tech. But it’s far from over. In fact, as AI revolutionizes just about every industry out there, it could create a $1.81 trillion opportunity,"
-    publishedDateTime: 2023-05-25T15:20:00Z
-    webUrl: "https://www.baystreet.ca/articles/stockstowatch/87814/Five-of-the-Top-Artificial-Intelligence-Stocks-to-Buy-Now"
-    type: article
-    provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 41
-    images:
-      - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/Artificial_Intelligence.jpg"
-        width: 845
-        height: 396
-        isCached: true
   - title: "Stock market today: AI excitement yanks tech stocks higher on Wall Street"
     excerpt: "A monster financial forecast from one of Wall Street’s most influential stocks is helping to yank the stock market higher even as worries worsen about political rancor in"
     publishedDateTime: 2023-05-25T13:38:00Z

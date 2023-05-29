@@ -35,31 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI startup Figure raises $70 million in funding to build humanoid robots"
-    excerpt: "The new funding will be used to accelerate the development and manufacturing of the company's first autonomous humanoid, which is expected to launch in the next few months. The valuation of the one-year-old company was not disclosed,"
-    publishedDateTime: 2023-05-24T10:59:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/ai-startup-figure-raises-70-million-to-build-humanoid-robots/articleshow/100473777.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/ai-startup-figure-raises-70-million-to-build-humanoid-robots/amp_articleshow/100473777.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/ai-startup-figure-raises-70-million-to-build-humanoid-robots/amp_articleshow/100473777.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 53
-  - title: "Singapore-based AI startup KarmaV enters India aims to establish ethical hiring practices and DEI strategies"
-    excerpt: "Singapore-based AI startup KarmaV enters India aims to establish ethical hiring practices and DEI strategies - KarmaV an AI-based SaaS platform focussed on solving diversity, equity, and inclusion (DE&I) status"
-    publishedDateTime: 2023-05-24T11:02:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/singaporebased-ai-startup-karmav-enters-india-aims-to-establish-ethical-hiring-practices-and-dei-strategies-nid-223177-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 35
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/KzcZ47Dq.jpg"
-        width: 570
-        height: 367
-        isCached: true
 
 secured: "I4j0FR66gDFN+CQ2pZW9wJ6ma0p5v11IxYypg84N/IcWDyFpADGXVygiMMoJ5DZKc8LGZ2mPb29LWM/RuNaSyMDZAr98PvkEqLRkfQncuQ/S+P3qA/s2EbeliJio+AO6CYP/HScPVcN6Uy/NFGXDLd4MMenYmNxkL5ybcsBI5xynkllpADFnAkAxf21K18m98nZhXx3tg1H7qMd1omy3x86XyPw0Pzg5kOKQ/Z8FAYyruUN2q+a8LXOyOhn9r0phJ8geinjxbIFu1uBy07Fdbf9oYVFJhcFmyWJdXgkYhyl33ySIFszVfCxgb0PG2UAIa/VsEdk7s0CpxuFmavbZVwsAPQv8k/25M9ZPrqnLyX4=;S2UyolE+xFumfJNLAgtkBw=="
 ---

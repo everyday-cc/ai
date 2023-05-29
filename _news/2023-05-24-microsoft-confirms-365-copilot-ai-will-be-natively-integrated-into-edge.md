@@ -63,22 +63,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Microsoft’s AI reaches Indian villages"
-    excerpt: "Jugalbandi, a chatbot built in collaboration by Microsoft, is showing signs of progress in redefining information access for villagers in India."
-    publishedDateTime: 2023-05-24T09:27:00Z
-    webUrl: "https://techcrunch.com/2023/05/24/microsoft-ai-chatgpt-reaches-rural-india/"
-    ampWebUrl: "https://techcrunch.com/2023/05/24/microsoft-ai-chatgpt-reaches-rural-india/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/24/microsoft-ai-chatgpt-reaches-rural-india/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/Azure-OpenAI-Service-India-blog-chatbot-view.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft integrates Nvidia’s AI Enterprise Suite with Azure Machine Learning"
     excerpt: "Microsoft is integrating Nvidia’s AI Enterprise software suite with its Azure Machine Learning service to help enterprise developers build, deploy, and manage applications based on large ..."
     publishedDateTime: 2023-05-27T18:59:00Z

@@ -484,6 +484,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Five things to know about AI chip maker Nvidia and why everyone is talking about it"
+    excerpt: "Nvidia made a splash after its mammoth quarterly report and stock boost. Here's what you should know about the company if you're new to it."
+    publishedDateTime: 2023-05-29T02:45:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/five-things-know-nvidia-and-everyone-talking/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 48
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/05/nvidia-gpu.jpg"
+        width: 1466
+        height: 710
+        isCached: true
   - title: "Nvidia Stock Surges Off Huge AI-Focused Earnings Report"
     excerpt: "Here’s the latest on the Nvidia earnings report and who the biggest winners - and losers - were off the back of it."
     publishedDateTime: 2023-05-26T12:04:00Z

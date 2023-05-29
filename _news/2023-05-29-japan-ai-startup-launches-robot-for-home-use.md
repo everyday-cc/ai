@@ -19,49 +19,19 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "AI Startup Figure Raises $70 Million for Humanoid Robot"
-    excerpt: "AI robotics startup Figure raised $70 million to help develop a humanoid robot that it believes could one day take on a wide range of tasks traditionally performed by people."
-    publishedDateTime: 2023-05-24T10:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-24/ai-startup-figure-raises-70-million-for-humanoid-robot"
+  - title: "This AI Startup Aims To Predict Heart Failure Before It Happens"
+    excerpt: "That’s the dream of Tamir Tal, the founder of Israeli-based artificial intelligence startup Cordio. Its app, HearO, uses machine learning algorithms to detect changes in a patient’s voice that suggest there’s fluid accumulation happening in the lungs ..."
+    publishedDateTime: 2023-05-26T10:02:00Z
+    webUrl: "https://www.forbes.com/sites/alexknapp/2023/05/26/this-ai-startup-aims-to-predict-heart-failure-before-it-happens/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQfH1gdaW.uM/v1/1200x667.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647007f373dcd9bff4c0026e/0x0.jpg?format=jpg&crop=3322,2492,x0,y237,safe&width=1200"
         width: 1200
-        height: 667
-        isCached: true
-  - title: "AI startup Figure raises $70 mn to build humanoid robots"
-    excerpt: "Figure, a startup that wants to build general-purpose humanoid robots, has raised $70 million from investors led by Parkway Venture Capital in its first external round. Figure will use the VC ..."
-    publishedDateTime: 2023-05-24T17:42:00Z
-    webUrl: "https://infotechlead.com/tech/ai-startup-figure-raises-70-mn-to-build-humanoid-robots-78521"
-    ampWebUrl: "https://infotechlead.com/tech/ai-startup-figure-raises-70-mn-to-build-humanoid-robots-78521?amp=1"
-    cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/tech/ai-startup-figure-raises-70-mn-to-build-humanoid-robots-78521?amp=1"
-    type: article
-    provider:
-      name: infotechlead
-      domain: infotechlead.com
-    quality: 74
-    images:
-      - url: "https://infotechlead.com/wp-content/uploads/2015/11/Robot.jpg"
-        width: 639
-        height: 402
-        isCached: true
-  - title: "AI startup Figure raises $70 million to build humanoid robots"
-    excerpt: "(Reuters) - Figure, a startup that wants to build general-purpose humanoid robots, has raised $70 million from investors led by Parkway Venture Capital in its first external round, the company ..."
-    publishedDateTime: 2023-05-24T10:20:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/05/24/ai-startup-figure-raises-70-million-to-build-humanoid-robots"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/05/24/2089439.jpg"
-        width: 800
-        height: 532
+        height: 900
         isCached: true
   - title: "Japan AI startup launches robot for home use"
     excerpt: "A Japanese artificial intelligence startup has launched a robot for home use capable of delivering items in response to verbal comman"
@@ -77,29 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Figure Raises $70 Million Series A To Support Commercialization Of Figure 01 Humanoid Robot"
-    excerpt: "Figure raises $70 million Series A to support commercialization of Figure 01 humanoid robot May 27, 2023 by mark allinson leave a comment"
-    publishedDateTime: 2023-05-27T21:27:00Z
-    webUrl: "https://menafn.com/1106329764/Figure-Raises-70-Million-Series-A-To-Support-Commercialization-Of-Figure-01-Humanoid-Robot"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 44
-    images:
-      - url: "https://menafn.com/updates/pr/2023-05/27/R&AN_7815eimage_story.jpg"
-        width: 900
-        height: 450
-        isCached: true
-  - title: "AI startup Figure raises US$70 million to build humanoid robots"
-    excerpt: "FIGURE, a startup that wants to build general-purpose humanoid robots, has raised US$70 million from investors led by Parkway Venture Capital in its first external round, the company said on Wednesday (May 24)."
-    publishedDateTime: 2023-05-24T10:32:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/ai-startup-figure-raises-us70-million-build-humanoid-robots"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 34
 
 secured: "Hx9fgSy5Y3QcFueS7rAijM3CEBKuQ/uBuumznEqE+yjuXk8rKBTNMMqhO2h3u3Lwt6cipO8OVun7B29AEah/MnAWoG1o973SSJWSsy4Gg6b0rwoN0T13zpPhrCWfFrsKEmJ8pk2aSzQEXI7eUugrAGJ3/fMEF/iILJiEkjNE4SYrpF//z0GCfMQLQ5GzJkoMSIi9L7Rjn1jra+kySJo6GiUO2FACNRLkTkWOX4xfJM6VgDrXAWs1Hsxu+qmtNxsZwaDqPFTvkbeCxpHhXtfkKG2valPmm5i8+8FqaB3GI0Ut6Ady0rlJR2W/NjYjhbrhnFTM/Iik1RnznJYDoRbDsyPy1QS/1D6Q8jZU1AnVms0=;HuiNJ7rSp0pAGGmeAFuZLA=="
 ---

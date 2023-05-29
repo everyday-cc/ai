@@ -69,20 +69,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Artificial intelligence innovation: Leading companies in speech recognition techniques for the automotive industry"
-    excerpt: "According to GlobalData’s Technology Foresights, which plots the S-curve for the automotive industry using innovation intensity models built on over 619,000 patents, there are 290+ innovation areas that will shape the future of the industry."
-    publishedDateTime: 2023-05-24T10:05:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-speech-recognition-techniques-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 32
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/05/Artificial-intelligence_Speech-recognition-techniques.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Machine Learning Model Operationalization Management (MLOPS) Market Report 2023: Increasing Adoption Rate of Machine Learning Fuels Growth"
     excerpt: "Machine learning model operationalization management (MLOPS) market is expected to grow at a CAGR of 47.81% from a market size of US$842.105 million in 2021 to reach US$12,981.316 million in 2028. Machine learning model operationalization management (MLOps) is the process of managing and deploying machine learning models in a business environment and involves the integration of data pipelines,"
     publishedDateTime: 2023-05-24T17:18:00Z

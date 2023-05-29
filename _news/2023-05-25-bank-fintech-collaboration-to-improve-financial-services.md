@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/business/economy/news/bank-fintech-coll
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/economy/news/bank-fintech-collaboration-improve-financial-services-3328886?amp"
 type: article
 quality: 59
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/05/Caitlin-Long-FinTech-Nexus-2023-NYC-600x337.jpeg"
         width: 600
         height: 337
-        isCached: true
-  - title: "LIBF India joins Fintech Festival India as Knowledge Partner to empower and upskill the banking and finance professionals"
-    excerpt: "The London Institute of BankingampFinance India enters the Indian market with the aim to collaborate with corporates universities and colleges to empower and ups"
-    publishedDateTime: 2023-05-24T11:00:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273841244/libf-india-joins-fintech-festival-india-as-knowledge-partner-to-empower-and-upskill-the-banking-and-finance-professionals"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 29
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1684924059.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "QED's Rotman: The new fintech winners could be international"
     excerpt: "Some of the biggest outcomes in fintech of the last decade have been U.S. or consumer-focused businesses. QED Investors co-founder Frank Rotman believes the next generation could be more international."

@@ -81,20 +81,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "3 ways generative AI is driving innovation in financial services"
-    excerpt: "In some ways, GAI spells more of the same. According to the Bank of England’s research, machine learning, a sub-branch of AI, was last year already being used by 72% of respondents to a financial services survey. While AML and fraud detection ..."
-    publishedDateTime: 2023-05-25T17:09:00Z
-    webUrl: "https://www.finextra.com/the-long-read/692/3-ways-generative-ai-is-driving-innovation-in-financial-services"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/692.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "nutNIpt7HN/iYhIqQQPkWgVfJscRc9/tgKBlibsqP04F3+cicL235su0PR5UZifO2iQxltgEhIO3uHCO/HH2gLHY0S80qJvH65MQ3G3byih16IwOh3Y9xRLlSrGr7HP1Qg/uAddzemjErPsdjLEEtbLEC7u9JCSiSzfhy2CxBp14UTbGIJ6VsQHkrT7zzRSduU/K5382peJ9bmxE/FF2v56vLTZQdbMFHT3awmttY4GRYEoKaJDk/7CO8RTIsXxkpCtPodpEw/Mf66TkKrgjjsyfMqoO53sEGOLIeN1LMO56VGCy1FiWcj6Pjcfu2ixQDjuvW8DpvTyvVvZIpOl/9etFkfmXv7sp9ZGn/0bwTM4=;2cqWblywOzA43fuA0HBByw=="
 ---

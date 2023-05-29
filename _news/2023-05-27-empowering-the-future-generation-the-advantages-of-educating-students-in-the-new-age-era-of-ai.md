@@ -21,37 +21,47 @@ topics:
   - AI
 
 related:
-  - title: "Meet Aria: Opera's new built-in generative AI assistant"
-    excerpt: "Aria joins ChatGPT, Facebook Messenger, TikTok, and WhatsApp on the Opera browser sidebar, as the company's own, natively built-in generative AI assistant. The new assistant has access to the internet, so its knowledge is not limited to content before 2021, like the free version of ChatGPT, though the ChatGPT Plus version will differ."
-    publishedDateTime: 2023-05-25T14:49:00Z
-    webUrl: "https://www.zdnet.com/article/meet-aria-operas-new-built-in-generative-ai-assistant/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/meet-aria-operas-new-built-in-generative-ai-assistant/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meet-aria-operas-new-built-in-generative-ai-assistant/"
+  - title: "Hands-on with Magic Compose, the AI-generating Messages tool"
+    excerpt: "I've had some time to play with an early version of Magic Compose, which uses AI to create texts in Messages. It's fun, but unreliable."
+    publishedDateTime: 2023-05-25T21:58:00Z
+    webUrl: "https://www.androidauthority.com/magic-compose-experience-3329552/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
     images:
-      - url: "https://www.zdnet.com/a/img/resize/88280eaa243ed68b15169f1f8e362bcddd6ae1b8/2023/05/25/4f1566bb-6ea0-4367-9b71-4bb0cabb3172/aria-opera.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.androidauthority.com/wp-content/uploads/2022/04/Google-Messages-SMS-stock-photo-9.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Google starts opening up access to its new generative AI capabilities in Search"
-    excerpt: "Google announced today that it's starting to open up access to new generative AI capabilities in Search after teasing them at I/O."
-    publishedDateTime: 2023-05-25T20:52:00Z
-    webUrl: "https://techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/"
-    ampWebUrl: "https://techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/amp/"
+  - title: "Google's AI Magic Compose Beta Goes Live For Select Users"
+    excerpt: "Magic Compose can initiate a chat or rewrite a message with seven different tones and styles with the help of Google Bard. The beta is being rolled out for US-based premium Google One subscribers first."
+    publishedDateTime: 2023-05-28T16:37:00Z
+    webUrl: "https://www.pcmag.com/news/googles-ai-magic-compose-beta-goes-live-for-select-users"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/google-search-labs-open.png?resize=1200,796"
-        width: 1200
-        height: 796
+      - url: "https://i.pcmag.com/imagery/articles/00YXyCobqmXmK47unUvQkkC-1.fit_lim.size_1200x630.v1685291531.png"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Google Magic Compose For AI Crafted Text Messages Rolls Out And It’s Kinda Cool"
+    excerpt: "Now that AI tech like OpenAI’s ChatGPT has taken the world by storm, companies like Apple are trying to play catch-up and build in that type of tech. This also includes Google, who talked a lot about AI at Google IO 2023."
+    publishedDateTime: 2023-05-28T16:54:00Z
+    webUrl: "https://hothardware.com/news/ai-overlords-helping-compose-text-messages-with-google"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 33
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/61719/content/ai-overlords-helping-compose-text-messages-with-google.jpg"
+        width: 708
+        height: 398
         isCached: true
 
 secured: "2QmCy4ofcxBzzTO2zxIyUi4IzA6kH5z2TEjcqSuGgyG/nSMHYkkkE/IUzkklLeeLg6ajYRp3LMSlD16epPoO+jbIJpLhSaMhjJa7aPowfIo1kfmT5sh2CX6028QGAk+xb/9DkrOMPiSJBOZMae8EMDEZk0eT86/jY94ozO5SdUKNL9ABl2r9vE5RtAwN4mpN9BXQ2WWTqJygXfMgpS1OhlBJaF+sy/j2qOEB5bu1902g/BljENb0xJmLxVnxfKefeq3m9dfDqK6AHPSa79V/5ESpSwxmuJ7Gdh9C49LQlRNXrHKOxl69t9XEMdpKQyQ8dvxzWio8vzCvGB/gFlDmDT88W6E/MfbYIveETmo/wH9htR5nzR9RhHG2brnxqN31fRVHLL+0+YnY5l/L/Md8fyh+Qho+abWMeQsz2YGFaFyM3/fRvWb3GTvvEy2CkJ3Z0pZBqL7Fe7TeK/WzwdlU2Cn0paMD2nRguGQw/hhnsJxtPqzxY0NHPU5BLRy0zLVQQtYmoebIB9BmGtg3+CWerg==;DJKs0uwcZJAyrQ8dE7dJeg=="

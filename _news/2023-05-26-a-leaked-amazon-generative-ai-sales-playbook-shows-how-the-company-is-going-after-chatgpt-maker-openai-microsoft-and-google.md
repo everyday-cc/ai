@@ -63,22 +63,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Microsoft’s AI reaches Indian villages"
-    excerpt: "Jugalbandi, a chatbot built in collaboration by Microsoft, is showing signs of progress in redefining information access for villagers in India."
-    publishedDateTime: 2023-05-24T09:27:00Z
-    webUrl: "https://techcrunch.com/2023/05/24/microsoft-ai-chatgpt-reaches-rural-india/"
-    ampWebUrl: "https://techcrunch.com/2023/05/24/microsoft-ai-chatgpt-reaches-rural-india/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/24/microsoft-ai-chatgpt-reaches-rural-india/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/Azure-OpenAI-Service-India-blog-chatbot-view.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft confirms 365 Copilot AI will be 'natively integrated' into Edge"
     excerpt: "The same AI assistant that Microsoft is adding to Office will soon be natively integrated into the company's Edge browser as well.."
     publishedDateTime: 2023-05-24T15:03:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/snowflake-acquires-neeva-days-after-the-s
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/snowflake-acquires-neeva-days-after-the-search-startup-pivots-to-enterprise/amp/"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -28,38 +28,6 @@ images:
     width: 1200
     height: 667
     isCached: true
-
-related:
-  - title: "Snowflake acquires Neeva to add generative AI-based search to Data Cloud"
-    excerpt: "Neeva, which uses large language models to offer an AI-based search experience, is latest company to be picked up in Snowflake's acquisition spree."
-    publishedDateTime: 2023-05-24T21:16:00Z
-    webUrl: "https://www.infoworld.com/article/3697709/snowflake-acquires-neeva-to-add-generative-ai-based-search-to-data-cloud.html"
-    ampWebUrl: "https://www.infoworld.com/article/3697709/snowflake-acquires-neeva-to-add-generative-ai-based-search-to-data-cloud.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3697709/snowflake-acquires-neeva-to-add-generative-ai-based-search-to-data-cloud.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 86
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2020/02/07/15/merger-100830660-large.jpg?auto=webp&quality=85,70"
-        width: 849
-        height: 565
-        isCached: true
-  - title: "Snowflake acquires search startup Neeva to leverage generative AI"
-    excerpt: "New Delhi, May 25 (IANS) Cloud data platform provider Snowflake has acquired search startup Neeva to accelerate search in the Data Cloud through generative AI. Neeva has created a unique and transformative search experience that leverages generative AI and ..."
-    publishedDateTime: 2023-05-25T05:47:00Z
-    webUrl: "https://glamsham.com/world/technology/snowflake-acquires-search-startup-neeva-to-leverage-generative-ai"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 37
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/05/635b94b7ecc224b4d4babeb2ba5a8d5a-3.jpg"
-        width: 647
-        height: 483
-        isCached: true
 
 secured: "Mh9D0JjiqK5b2BWvqk7cj7B9T/p/lR1hK/dvTOAhCbWyecwgO5a6lZdezmdaJCrBFQXK3xtldreZtFnaFWmbPkgLgPRBBXrywHT9s4r03jkyiu0TmrvdSMOxa4dJhbb9/e1APWz2Db8HWCg4Qlx47wMKq9Kau+7DpbWke86iQuMVuxs+SAELpLhgwkQh0Gx/kx9YytHLYp9Gy46cfc6hwsSY3gYZ5c+Sl3UZaLU4sM1gEnEFo6UWg1C0i/FtadLe2CWds5CUIJk923JNQY5RvYQ6rqHGfxhbBKlFzh2jENZ6IC9+hcSBBansMcPGvwwH0negrllsM2uYVYNB8SsSn1HuEh62kRtumkIXY0+DPlc=;UwZx5lJLkweumHijrBm0aQ=="
 ---

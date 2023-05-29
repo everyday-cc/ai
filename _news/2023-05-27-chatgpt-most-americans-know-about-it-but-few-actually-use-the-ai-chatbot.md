@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Lazada unveils new eCommerce AI chatbot LazzieChat"
+    excerpt: "Lazada group has released LazzieChat, an eCommerce AI chatbot powered by OpenAI’s ChatGPT technology in Microsoft’s Azure OpenAI Service to provide a more personalized shopping experience to its customers."
+    publishedDateTime: 2023-05-29T03:00:00Z
+    webUrl: "https://www.marketing-interactive.com/lazada-unveils-new-ecommerce-ai-chatbot-lazziechat"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 39
+    images:
+      - url: "https://marketing-interactive-assets.b-cdn.net/images/sg/content-images/by_year_month/2023-may/lazada.jpg?auto_optimize=medium"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Twitch Star Amouranth Wants Her AI Chatbot To Put Trolls In Their Place"
     excerpt: "A successful businesswoman (who now reportedly owns a gas station) and OnlyFans creator, Amouranth can now add “tech tycoon who’s excited about AI’s future” to her resume. Kotaku caught up with Amouranth—who ensured us she wasn’t her AI counterpart—to discuss AI Amouranth,"
     publishedDateTime: 2023-05-26T21:30:00Z

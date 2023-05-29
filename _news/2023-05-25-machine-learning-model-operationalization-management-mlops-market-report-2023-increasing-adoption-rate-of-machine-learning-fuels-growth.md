@@ -64,20 +64,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Artificial intelligence innovation: Leading companies in speech recognition techniques for the automotive industry"
-    excerpt: "According to GlobalData’s Technology Foresights, which plots the S-curve for the automotive industry using innovation intensity models built on over 619,000 patents, there are 290+ innovation areas that will shape the future of the industry."
-    publishedDateTime: 2023-05-24T10:05:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-speech-recognition-techniques-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 32
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2023/05/Artificial-intelligence_Speech-recognition-techniques.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Hyperautomation platform Zvolv to integrate AI orchestration to leverage generative AI in new age enterprise applications"
     excerpt: "Hyperautomation platform Zvolv to integrate AI orchestration to leverage generative AI in new age enterprise applications - Zvolv, a leading global enterprise hyperautomation company today announced new generative AI capabilities"
     publishedDateTime: 2023-05-25T05:31:00Z

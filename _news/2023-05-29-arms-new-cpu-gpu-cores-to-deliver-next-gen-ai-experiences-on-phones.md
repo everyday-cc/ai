@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/arms-new-cpu-gpu-cores-to-deliver-next-
 webUrl: "https://www.pcmag.com/news/arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -45,7 +45,21 @@ related:
         width: 708
         height: 398
         isCached: true
+  - title: "Arm's next-gen mobile computing platform to deliver improved AI, 3D and gaming to 2024 phones"
+    excerpt: "ARM's next-generation mobile computing platform will take smartphone performance and gaming to the next level."
+    publishedDateTime: 2023-05-29T03:04:00Z
+    webUrl: "https://www.phonearena.com/news/arm-improves-2024-gaming-performance_id147766"
+    type: article
+    provider:
+      name: PhoneArena
+      domain: phonearena.com
+    quality: 28
+    images:
+      - url: "https://m-cdn.phonearena.com/images/articles/402428-image/tcs23arm.jpg"
+        width: 1082
+        height: 599
+        isCached: true
 
-secured: "XXjf6ZYzmSW16EULneyh/xMeuLYabfC+AjepZr6hjhOsUAobx2U84IRqsqKrrRiVOg1Xqrei/HP9Kk/cCDgIj9gJCIwNW/YhK33fgT4TxU0ixSztE9gEcji1wDMyacWIIlAYZC+PsCvKkuTmjxosk5a2nVV9pMSUy/eIVAS2P6zDugUOCHGdeG0RAT1YNT0fAOzPVEUOC43qgR5VNraB0r8j0QaTtQRuVTdc+/py1qUL6KS9zpHhNWIY2nhQUVsw9FP/d1oA4gk+tJOJnsGR/yzbshkgKoRE5e+4cczTa5hziZi9jXdtPUoUGZOmipF3/Hxt2yJXrL5shBW9CwOddajuPfFAiVoRzPIVYW38jH8=;9HajxDWz0dx5p14TQEp8dg=="
+secured: "ROKMgBwKBBnGrFosQ634nqTrHZtgbU8e7as3lS+Y6lctyN7t2CZzIiJaIMteg7NTi0bi5EqXWsHH0VAmMEFZuYuQZ1lv7zmcbKzaUauFPW7AXVV7wQpMVZ9MmdAlY9l4GfHNIP01Ya4ETsWXOk2YsPRXVceCka7H4SwhvF3xe6yfVtui3bxJUliKXA05fik5DSigIKQsF6Zgzj5laASxs7cMK110bIhVcX2v8UEzuFBOoD84AEe+ztP3kuo03dpABSq1hUV71Xac7ZoWXfxITGl6eHBKdjTpT7FZbBVZwitchfLieWZwanaBqYzQSpaSR2AYs2QymJMW2uHLqD8Bm9WQe5cfL5ZUj7ff21cobuyVKTv6sHESe+tF9SzcHu4qm8UJK1jJKHUghm6Zn6EnybetF0Kh6pkzU7Zmd5aGKKQCJ0jFPjCjN1g9jd09Abs7tey5FcnDPuEgtSpVOIvT+PBkS4YksWvVFFAMVzjnoQqze0pRI/ikL76ncZlq6bnHd+QpEeNbp5G+y7l1IyNNMQ==;RZl7Z3eWR8R96wt/JC5xgQ=="
 ---
 
