@@ -63,7 +63,7 @@
       "originalUrl": "https://venturebeat.com/ai/nvidia-ceo-reveals-groundbreaking-generative-ai-innovations-for-industries-at-computex-taipei/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -103,7 +103,8 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -115,7 +116,7 @@
       "originalUrl": "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 241,
+      "heat": 251,
       "tags": null,
       "images": [
         {
@@ -409,15 +410,15 @@
       "title": "White House unveils new efforts to guide federal research of AI",
       "excerpt": "WASHINGTON (AP) — The White House on Tuesday announced new efforts to guide federally backed research on artificial intelligence as the Biden administration looks to get a firmer grip on ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wsaw.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/",
-      "originalUrl": "https://www.wsaw.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/",
+      "webUrl": "https://www.wmbfnews.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/",
+      "originalUrl": "https://www.wmbfnews.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://gray-wsaw-prod.cdn.arcpublishing.com/resizer/V94eJesdeoqG8s4xf_8cbHXoKpE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/DFO3VORI3BASLEQ4OP3K5J2S2U.jpg",
+          "url": "https://gray-wmbf-prod.cdn.arcpublishing.com/resizer/qSXxsuzK524tnM_ujEXaX84LJwg=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/ZR5B2DAL3VHRHDPCG6LHZF5V2U.jpg",
           "width": 800,
           "height": 450,
           "title": null,
@@ -427,13 +428,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsaw.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wsaw-com.cdn.ampproject.org/c/s/www.wsaw.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/?outputType=amp",
-      "publishedDateTime": "2023-05-23T12:01:00-07:00",
+      "ampWebUrl": "https://www.wmbfnews.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wmbfnews-com.cdn.ampproject.org/c/s/www.wmbfnews.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/?outputType=amp",
+      "publishedDateTime": "2023-05-23T11:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WSAW",
-        "domain": "wsaw.com",
+        "name": "WMBF News",
+        "domain": "wmbfnews.com",
         "images": null,
         "publishers": null,
         "authors": null

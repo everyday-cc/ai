@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AI Stocks Are on Fire. Marvell Joins Nvidia in the Hot Stocks."
+    excerpt: "Marvell Technology is the latest chip maker to join Nvidia in surging as it forecasts AI to be a long-term growth driver.  Already a subscriber? Sign In"
+    publishedDateTime: 2023-05-26T09:22:00Z
+    webUrl: "https://www.barrons.com/articles/ai-stocks-marvell-nvidia-a2201a91"
+    ampWebUrl: "https://www.barrons.com/amp/articles/ai-stocks-marvell-nvidia-a2201a91"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ai-stocks-marvell-nvidia-a2201a91"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-268126/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "Not Just Nvidia: These Are the Other Big Winners in the AI Chip Biz"
     excerpt: "COVID-19 was hell for tech stock and chip manufacturers, but ChatGPT and AI have since been a boon for Nvidia and other similar companies."
     publishedDateTime: 2023-05-26T21:44:00Z
@@ -95,6 +111,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "WTQA5xDBMs6Xs8Wwp7E/7IbhNYpV79LiM25O61doMbzoczBoklVSAQhxkdB5D2pb7kETsNOnG1MDFqwZF/jNTKiWaZeAvHgKc9fPD9MRRghVSqhS7RNQIt9JEaZ7mr1bvqNbTU8CUY+VGBE+p4S31Fz94VDmbGEfOjz+g9kSB6OFHmbKj+HPaSABhwLT029fwe20WpetwqYYGNxAs4Vb7dvJ8u54uZQJBdOVVbsgTOFxiGNz2SqOAuEGDM6wzdUd8jdp5IASmpJW6wz2WNy3rjWQVUaRZ2Jvgbynng33hbg0/FxP3RsZtwgKY2ohR+0ViETueXjyl3HJcolcuDfL4jIGOhnOQRoJpKcBfC0/sB0=;Tb0JGhcLke6cjiTS+tQrLw=="
+secured: "2URrnV8yvvgvJjatRWMsit2U9LGk9z3LejcPESf051wfS1/1Kww8UFuCH6XcYYKQaaZZaG3IuBpYUROOQFqGR85ZswFtRjhkbLReQRjfqi+kd81l5qpA9ApsowyYeW6Hp3l1k4LzyobvCS1STNh/VSSa6YrtDoXW3x/YofSH4w9crn/P+yQaYctun/PffAtZaPRjVoSviXJ1VioZo5sQZ+sWpAh7ndtDcj0MzyEPMRXFA3orXAN65JbO8YoxpPn7oyAFuXa0aIPY+VUSQv1ui12/L08p0gkaiNwqrvGK19HQxMTv71AkX67mZ/hL6R2qzuFLOLGVljzZGohMX0vVqk086Rw9/qmPuJPG5DV0crHUK+0S9Ry6pngksyPCMyqzZZ/w9ok9MrSCMIvx/RdkD8jO9AzJaWGPnIXGPPPAGuOcTXsqhxkjkMDoC58JhIWKbRQbgdvZFhRSjUJqb8070wZxk64jCZycurliacGh0zfs+ZUEfBMXF5EeKKL4VF51pKIXLOVhOVXChMVidg4rqA==;h1gmmrY94rfVkLnk90NkOw=="
 ---
 

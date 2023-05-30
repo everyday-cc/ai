@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Marvell Technology Shares Pop 14% on AI Lifts Chip Makers"
-    excerpt: "\"While we are still in the early stages of our AI ramp, we are forecasting our AI revenue in fiscal ... Shares of Nvidia rocketed Thursday as the graphics-chip maker said the rise of language-generating tools such as OpenAI's ChatGPT and other artificial ..."
-    publishedDateTime: 2023-05-25T20:29:00Z
-    webUrl: "https://www.marketwatch.com/story/marvell-technology-shares-pop-14-on-ai-lifts-chip-makers-74001f2e"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/marvell-technology-shares-pop-14-on-ai-lifts-chip-makers-74001f2e"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/marvell-technology-shares-pop-14-on-ai-lifts-chip-makers-74001f2e"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 104
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Marvell Technology Stock Jumps as Chip Stocks Keep Rising"
     excerpt: "A day after optimism about the future for AI led shares of Nvidia higher, Marvell Technology stock is making its big move with chip stocks continuing to climb. The stock was recently up more than 27%,"
     publishedDateTime: 2023-05-26T15:00:00Z
@@ -48,22 +32,6 @@ related:
       - url: "https://images.wsj.net/im-789639?width=600"
         width: 600
         height: 800
-        isCached: true
-  - title: "AI Stocks Are on Fire. Marvell Joins Nvidia in the Hot Stocks."
-    excerpt: "Marvell Technology is the latest chip maker to join Nvidia in surging as it forecasts AI to be a long-term growth driver.  Already a subscriber? Sign In"
-    publishedDateTime: 2023-05-26T09:22:00Z
-    webUrl: "https://www.barrons.com/articles/ai-stocks-marvell-nvidia-a2201a91"
-    ampWebUrl: "https://www.barrons.com/amp/articles/ai-stocks-marvell-nvidia-a2201a91"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ai-stocks-marvell-nvidia-a2201a91"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-268126/social"
-        width: 1279
-        height: 640
         isCached: true
   - title: "Shares of Marvell jump sky-high as it forecasts AI chip revenue to double"
     excerpt: "Marvell Technology Inc. topped expectations in its fiscal first-quarter financial results today and said it’s expecting revenue from artificial intelligence to at least double this year, sending its stock sky-high in extended trading."

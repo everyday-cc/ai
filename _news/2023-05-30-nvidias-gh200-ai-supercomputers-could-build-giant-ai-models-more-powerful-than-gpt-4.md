@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-30T10:25:00Z
 originalUrl: "https://www.videogamer.com/news/nvidia-gh200-giant-ai-models/"
 webUrl: "https://www.videogamer.com/news/nvidia-gh200-giant-ai-models/"
 type: article
-quality: 31
-heat: 31
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.videogamer.com/wp-content/uploads/nvidia-grace-hopper-superchip-min.jpg"
@@ -24,6 +25,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "+Lxz1xzS8BeyQPod+SnazF6yL+6YzU0vuf8xrG0KxBWp+eE7YaiDXY5eXxe1qunJxTToA3ZzPH1toB/IulXKCU/EG3BckCKHlM+iFkYwNLu/9lFZAXOx+sOXJ0gOPDUPGbv8fZqiQktHyXVtj7/F+nLWxw3C9SIlBrKj/e/GK8X8e++21+chbgOgnZc8dcCvBaiZx2XAKThoJIHwWbgGmM0dK4ykc/nAd9U0eu2FTkI0bZvZnBsnMN03VJwYjVbk4GriqeoQlaEfbr+UbfdrdsTNHarLc0YD0/lmUaUGShvmrWXGKZSdZgT8tbNG8x0eoP4DLGQsEPwj8c2IY303jX+sFxKHicXpywQm37U0dBQ=;ZjgX528k4hcsAGXSkr4GQg=="
+secured: "rpvuzEY9JXMEBUyRZqi0ANZqle20rFOfFYf78h/PEjZzEuvaBPbkZihgK1aegR8NexAmkUijtCgqM8yT/64qVTDxo8UC8WphEWvfNIje2EW7FRgfb7wDe5rFoB/n6lopFDxaG6r19PHzZsAzg3rwXTDhH4kXYC2f8fqBRs9hQ/xV3hYiomb3eMyg7eEA6aucu27oy9lUVG1iY5t2DcLaP4Rvxi+cjvIjzNHjgV1J2Oh/z90Qhi49KJWM+/zCIfLR9eCb2uy4lwzOiwta9XamCFxApZ8/36VbBNQ2HnZDT2bS1Ju+dPMBvs0AEOg/vAB6m32dmNZfPP8aTVib9CuPzFrQyh/1ShzJ+K6iWA+UH9l/Ml4XKn7NZMsKRBl/FdkdNngHlaYx//+6H/xPKbOJ3UfqQS3YYx8MZccTvIo6ZXVisD+x0GOJHpnbTLTij0uECxgJGZKqOVzU9ywMqlB1KoUxWcPKrmkZKrjPIZ6IFkVkBwBXf/HtUunaBKpFbsxL/bJckeXbYSeFHVt7UQD/dg==;4yC3Vvo/LFLIl/gZR70AiQ=="
 ---
 

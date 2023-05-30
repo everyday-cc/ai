@@ -53,6 +53,17 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "How generative AI is impacting the creative industry"
+    excerpt: "The root of this is generative AI, a type of artificial intelligence (AI) capable of creating original content. Since the release of ChatGPT in November 2022 by OpenAI, companies like Midjourney, Runway,"
+    publishedDateTime: 2023-05-29T05:59:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/how-generative-ai-impacting-creative-industry"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/digital-economy/how-generative-ai-impacting-creative-industry"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/digital-economy/how-generative-ai-impacting-creative-industry"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 39
   - title: "How Fintech Is Revolutionizing Event Payment And Registration"
     excerpt: "Fintech, or financial technology, uses innovative software and digital platforms to deliver financial services to customers. Fintech has been transforming various aspects of the financial industry, such as banking,"
     publishedDateTime: 2023-05-28T23:34:00Z
@@ -67,6 +78,15 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Financial wellness fintech Elifinty launches"
+    excerpt: "UK startup Elifinty has launched its open banking-based \"socially conscious\" debt management platform for consumers and creditors."
+    publishedDateTime: 2023-05-30T13:45:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42388/financial-wellness-fintech-elifinty-launches"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "5t/Ues9D6wtR2ZF+TBt1QbWWEAXPj7GckzhyQcFTkqACopo8seMX71Yh/I2s9iCKpf0wZfyAlv41uEUD3rJf9X+yDa1dsP5wwuXt2RAVDf1mtZHsMPvXUTiV+yJPmLjWwWeayF23L4XjznBFl2jmi16KmqZ1NkMxcNpGR9uknw4dgzle7JTVj2otHOZiz1niwn2GppUYX3VF0tQCf2YbKxKRKliFHhzEam8N9PFO+8BmJN6OPCUXK1Ky0L4Yba1VD1AGy8OmwnbqpWRLiQrUKAr1rnwjI6+7hbIN0Ead8vJO5v7lKIvYVy+RiBm5RCbr3ITq1Nj70qziCCvknlyOOwe4XULt2SKg68PO+cLyiyo=;jQxnO1RpXGz77zLST9ew0w=="
 ---

@@ -39,6 +39,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How generative AI is impacting the creative industry"
+    excerpt: "The root of this is generative AI, a type of artificial intelligence (AI) capable of creating original content. Since the release of ChatGPT in November 2022 by OpenAI, companies like Midjourney, Runway,"
+    publishedDateTime: 2023-05-29T05:59:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/how-generative-ai-impacting-creative-industry"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/digital-economy/how-generative-ai-impacting-creative-industry"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/digital-economy/how-generative-ai-impacting-creative-industry"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 39
   - title: "The Rise of AI in FinTech"
     excerpt: "The financial industry has witnessed a significant transformation in recent years with the rise of financial technology (FinTech) and the emergence of open finance. These disruptive forces have revolutionized traditional banking and financial services,"
     publishedDateTime: 2023-05-30T05:20:00Z
@@ -67,7 +78,16 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Financial wellness fintech Elifinty launches"
+    excerpt: "UK startup Elifinty has launched its open banking-based \"socially conscious\" debt management platform for consumers and creditors."
+    publishedDateTime: 2023-05-30T13:45:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42388/financial-wellness-fintech-elifinty-launches"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
-secured: "dGJWlHSBln1UglcsXleC9ggjZRN78f/VyHAXktUMSM9s77MXb1Oiwnys01+W6LVpPqsCdsq603aGl3jw75W+Hh1coHVr6p/l2Z1bG5nyo2LbW5eQTaqwost5Rxl5I9tqdAT0esLk4tSajc63yF4wUO5EjJGPeQJu6o1ibAl5urvWV3UsasR0CvUvfnYscFZwasKbdP+iL9pV2kWZUZAvMB/OhpObb/48641trRgKA1v+NVyCDZWoI+8qIAo8aFo/vETpUYfqxJhvVhGQalPWHul4+LLTUo6s8ZCipSPtl+P9F4aMNu7inJqUpA8SHgijCm/w7tlAjI7AP0aNVj0DeF3+ZSwY24V1U1ZZI/t05Fs=;7RUO/1dz0v8vFtL+/SR2nA=="
+secured: "UiTvWCUZOnGBTq6Lfg4FVMm+kFi6wcI2HUYqnnd0tksJjkdgAwqPuUeryV8Tcm4A0hJXJ4NryfDDMt9vEeDYI6VxKq/m2kLe2nD4wVz6nYeynxSwPj7XV+w9XMOwBp6cUPd294aVeAxmHX7dR0CoPVJt6IjoNCifqGwBG2Kse38Z0iznhPSlSoWhAygkvjha99q/W/ReXDyPZcdBDUIiZ137ZAp2CnULbd9YC/kUVLJRebzryGsV/vRynXSXZIOTD1aBMv1vO+HXdihCffdOU/L1XtbXLhk/RcyNVdYFt6urP2mpnmg3rBCyX46ievSGiuqkPcaqj5G2U8aoEtwaTDViWXBn+xn1mvwfAW2OZxNGodyX0fTuy6+jhgxAXm2J3M0qa0X2B7KJUZwtZYNIG13XKXkJ5XD1y3krQkeHe+mTJKzOKqTL7/rAyI669hicSgYEeTiErGLryAuTAGRmOX840+Lw447tGwZAMgcSVEe3fdAtkF3Y39OPqU0G+6QdTShq9BpgaJ79KHIn8eigzg==;dx3AaFXKwG77gEqCr7LJcw=="
 ---
 

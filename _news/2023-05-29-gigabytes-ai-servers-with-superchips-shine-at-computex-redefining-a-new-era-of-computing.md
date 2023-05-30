@@ -27,7 +27,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 58
+    quality: 60
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/11/Jensen_GTC-keynote_Omniverse.png?w=1200&strip=all"
         width: 1199

@@ -53,6 +53,17 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "How generative AI is impacting the creative industry"
+    excerpt: "The root of this is generative AI, a type of artificial intelligence (AI) capable of creating original content. Since the release of ChatGPT in November 2022 by OpenAI, companies like Midjourney, Runway,"
+    publishedDateTime: 2023-05-29T05:59:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/how-generative-ai-impacting-creative-industry"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/digital-economy/how-generative-ai-impacting-creative-industry"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/digital-economy/how-generative-ai-impacting-creative-industry"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 39
   - title: "The Rise of AI in FinTech"
     excerpt: "The financial industry has witnessed a significant transformation in recent years with the rise of financial technology (FinTech) and the emergence of open finance. These disruptive forces have revolutionized traditional banking and financial services,"
     publishedDateTime: 2023-05-30T05:20:00Z
@@ -67,6 +78,15 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "Financial wellness fintech Elifinty launches"
+    excerpt: "UK startup Elifinty has launched its open banking-based \"socially conscious\" debt management platform for consumers and creditors."
+    publishedDateTime: 2023-05-30T13:45:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42388/financial-wellness-fintech-elifinty-launches"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "gkjFovG+JeAofxEoRcSsSeO8JjhpUDe9xS4BpDGR/8Oe2CtiuOvfVKvdcSiZCwTF4fux9KAdnnDyKzeErMxemS8lKqP/yA61ihzxgGccDWwIHs7+G1WyMXhPKnplVV8XtDEom2EaWmecf6SQgECOj68X2ALXTPrgr3MIi9XE4WEKLq8DsxaCCXfHEK/XFhK0thNkYwmWWV5s0Ydy1bZw/Hs4mAWLLNCvAuaZq31uvI/1g/HbxW63OcrCAPCY39JqERu0/NwiiXL1KTsmGkDtAUkbnVeBDyj7NfNdYjNxm4z349UYiP2BdernHDb5RO174Gk3wNIw4ILbjhk9qkH5GBpDNvjBmDZKRM/+ZaYCSx2i59YjVYuXy+GB2zjlHJYGj61aPPYsxzYxTMD8iIlb8w1YHXQttAUHPilDCYHqT+4YxNUUx0GVyf1XLzAPLDErAh9CtMOlM+MRDrSmju1CqzL3w4G9iFv2M7/haeK0D2ae/KsoTBXP5iusVeUfklhuNFXvZVCF+Nwz70rh0cdKSg==;XO1gfJfMpGizKOd3wKe0sA=="
 ---

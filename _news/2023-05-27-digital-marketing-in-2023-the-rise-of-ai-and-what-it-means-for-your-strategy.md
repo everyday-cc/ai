@@ -77,6 +77,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Dear AI Stock Fans, Mark Your Calendars for May 31"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips C3.ai (NYSE:AI) investors are awaiting earnings results due May 31, as the"
+    publishedDateTime: 2023-05-30T13:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dear-ai-stock-fans-mark-your-calendars-for-may-31-1032358444"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "The essential AI glossary for marketers"
     excerpt: "The field of AI – which blends elements of computer science, cognitive science, psychology, game theory and a number of other disciplines – comes with a huge variety of technical terms that can be tricky for outsiders to understand."
     publishedDateTime: 2023-05-26T09:04:00Z
@@ -107,12 +116,12 @@ related:
         isCached: true
   - title: "Thematic’s Leading AI-Driven Platform Incorporates Generative AI, Embracing Large Language Models for Customer Feedback Analysis"
     excerpt: "Global feedback analytics leader levels up its own proprietary AI algorithm with the latest large language models to deliver the most thorough, transparent customer feedback insights for clients."
-    publishedDateTime: 2023-05-30T10:14:00Z
-    webUrl: "https://www.sacbee.com/press-releases/article275901341.html"
+    publishedDateTime: 2023-05-30T11:14:00Z
+    webUrl: "https://www.miamiherald.com/press-releases/article275901341.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: Miami Herald
+      domain: miamiherald.com
     quality: 0
 
 secured: "8GAiiXW4FJXClUAKSt/9R3VfrKGbTTlvM1AdLOfgSC4/wyQF2w20czQO2oW86V17a6hCplklPejj5nbocBmGc6v+n07Cie0BxiqvclkUFxrKQGoTUovJNp28wU46T8uH4sj+9HhC7AXkEOlnAmMZlO5C98y3cqqy+Tff7HRZtulnqgeLYthX5DhfzR+1vm2ze6+R1lGD1Kr4Glpfb/DTklXczZYnGHwB9dKZUSRV3O3qtJOiwqi9wLyRSHqc7rzGq2DoUq6dmNv3QchSUJC2mV8seKLMeF+d3dfmB6XRzVO58/G8zyoSNuAwcH0JvV+DSALl2+eJg3pLSZKO3ji5I1qQrbzQnSSnVfF7NjghiLYTcohnFTeua97sA2Le8pfavVjScGUad//M59QsmC4g5VQr5j7QvQFSybI+QQJ5PLsfMynajvWmf0nfbHeUItt9K+uu3QwttUK1Q12FbDrz/TgaPfa6jQZOHJJD35n+VrS/u6AGkXaJ5utkdtkMOma1Ll8Jx2mItDzhEMX/dca++A==;z156f0UEIU0Zg9JEbVwbQQ=="

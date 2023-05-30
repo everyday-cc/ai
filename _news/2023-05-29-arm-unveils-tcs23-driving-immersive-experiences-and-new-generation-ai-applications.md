@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How generative AI can revolutionize customization and user empowerment"
+    excerpt: "It's time to look beyond using generative AI tools for simple outputs and focus on computing capabilities for users and large enterprises."
+    publishedDateTime: 2023-05-28T23:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=750%2C500&#038;strip=all"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Conversational AI’s advancement and its implications on our lives"
     excerpt: "Conversational AI has transformed the landscape of customer service and support. With intelligent voice bots, businesses can provide round-the-clock assistance, instant responses, and personalized interactions."
     publishedDateTime: 2023-05-28T06:29:00Z
@@ -41,43 +55,31 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "US Updates National AI Strategy And Calls For Public Input"
-    excerpt: "The White House released an update outlining the Biden-Harris administration's latest initiatives in formulating the national AI strategy, AI policies, and AI regulation."
-    publishedDateTime: 2023-05-29T12:20:00Z
-    webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/05/29/us-updates-national-ai-strategy-and-calls-for-public-input/"
+  - title: "The AI revolution can put patients at the centre of NHS"
+    excerpt: "A robot shows patients around ... and a cardiologist who has developed an AI tool that allows non-specialists to accurately read heart scans. The Sheba Medical Center, Israel’s biggest hospital, has a portfolio of tech start-ups worth $2 billion, several ..."
+    publishedDateTime: 2023-05-26T07:54:00Z
+    webUrl: "https://www.thetimes.co.uk/article/ai-revolution-can-put-patients-at-centre-of-nhs-vhs6tv8sf?shareToken=c9e1a35b58ee9abef9cc879b537b8fc7"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Five urgent actions needed on AI by UK Government"
-    excerpt: "Generative AI - is developing rapidly. Meanwhile, the UK Government’s AI White Paper has set out an approach to AI regulation that is sector-specific and intended to be agile and a fleet of foot. While the consultation on the White Paper runs its course,"
-    publishedDateTime: 2023-05-30T10:36:00Z
-    webUrl: "https://www.techuk.org/resource/five-urgent-actions-needed-on-ai-by-uk-government.html"
-    type: article
-    provider:
-      name: techUK
-      domain: techuk.org
+      name: The Times
+      domain: thetimes.co.uk
     quality: 39
     images:
-      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/cbbd3a03-45dd-4050-99d9080c5a591e80/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Whitehall-city-65234851-web-1500px.jpg"
-        width: 400
-        height: 276
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F03a162a4-fb14-11ed-9be0-622d8a105167.jpg?crop=1485%2C835%2C7%2C129&resize=1200"
+        width: 1200
+        height: 674
         isCached: true
-  - title: "Dissecting the EU’s Artificial Intelligence Act: Implications and Industry Reaction"
-    excerpt: "As artificial intelligence (AI) rapidly integrates into the fabric of our society, regulators worldwide are grappling with the conundrum of creating a comprehensive framework that guides AI usage. Pioneering a move in this direction,"
-    publishedDateTime: 2023-05-25T20:19:00Z
-    webUrl: "https://www.unite.ai/dissecting-the-eus-artificial-intelligence-act-implications-and-industry-reaction/"
+  - title: "Empowering the future generation: The advantages of educating students in the new age era of AI"
+    excerpt: "Artificial intelligence (AI) has become a revolutionary force in the quickly changing world of technology, altering various sectors and our daily lives. As AI develops, it is more crucial than ever to get the"
+    publishedDateTime: 2023-05-27T09:53:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 33
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/05/christian-lue-C241mbgtgys-unsplash-996x600.jpg"
-        width: 996
-        height: 600
-        isCached: true
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 27
 
 secured: "HZ7OGJfxNm5NnjHsPUOXUhm9/yDTk+tzY3MOv0xySjyANsRv+uVT+mzpkNqMK3hTL3OQ8LO5nALgmETEJvUTSkhwyoX1a0AeGl4W6C4X3fffDGA9n6maPeM4bqFYkG+h0MLtnICwJ7ZWdhI11AJ25XDOyy/yPi+g8jkbODXz/GdJpLGbsyN1d9coDAL/e5xIEl0QtFUqZqaIbaGqBlzTqJlipwmDo7AwY91/Kqhr6/RMz2YsSjKR0fDpzmeNXhdIQEhlakgWPpw7XM15TIlbApRba952OSqJ5/9acUTtqI4J/V8/lPiUcck0rkv/9oZIYbknBlALhNCtnYxfp1vInW2rS+hXQBkN7tDKj7dJddKS+1u2gGa8VUm8b9PpMxgMspyp7sECCD+7Sm6TCudxg8L5KLEDAx2c3Juc0RC0VwjLrj/NLI2+P/0nJ9AbEgwd+xtFJ2J0NDw8EMg8gqRlNp2BJSeOJItd+5xq4uS/xxCwSS+F4MMUYQGzJJQIkJQ7usmc8HYHWBQhBT0mgu8O7w==;25LYN51JTLkKuq7JamnRzg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/five-next-level-marketing-uses-for-ai/amp/"
 type: article
 quality: 106
-heat: 166
+heat: 177
 published: true
 
 provider:
@@ -78,6 +78,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Dear AI Stock Fans, Mark Your Calendars for May 31"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips C3.ai (NYSE:AI) investors are awaiting earnings results due May 31, as the"
+    publishedDateTime: 2023-05-30T13:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dear-ai-stock-fans-mark-your-calendars-for-may-31-1032358444"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "The essential AI glossary for marketers"
     excerpt: "The field of AI – which blends elements of computer science, cognitive science, psychology, game theory and a number of other disciplines – comes with a huge variety of technical terms that can be tricky for outsiders to understand."
     publishedDateTime: 2023-05-26T09:04:00Z
@@ -108,14 +117,14 @@ related:
         isCached: true
   - title: "Thematic’s Leading AI-Driven Platform Incorporates Generative AI, Embracing Large Language Models for Customer Feedback Analysis"
     excerpt: "Global feedback analytics leader levels up its own proprietary AI algorithm with the latest large language models to deliver the most thorough, transparent customer feedback insights for clients."
-    publishedDateTime: 2023-05-30T10:14:00Z
-    webUrl: "https://www.sacbee.com/press-releases/article275901341.html"
+    publishedDateTime: 2023-05-30T11:14:00Z
+    webUrl: "https://www.miamiherald.com/press-releases/article275901341.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: Miami Herald
+      domain: miamiherald.com
     quality: 0
 
-secured: "gbovNtZayB7W1V+aaui/EXhzE+QRrfK6wDCJ7SiTfhy1LiaVFFbA8eMSH/iS3Cmv7Os+mWP8up7C+Xh1YIKbK3xNt4wZdXgXh2wuDHK9ipubscZzOXCQBlWJSXbbytLLuLGC/s+VAxlt5HT4vGVEA2ULZGeuqj+NxBHfjJM3HpTWhwXwMltX4yIDXTyGgcetztyuifitPo6s+KAaynFeo+Lt2LY+LgHxBJb7tcY9zyQX7UYuEEHfg/BAsw0lNOCEpqDJk1379ydLgsr7F5m4g5J9Q7vPlVPiqebHPet1xHoQ8im9wO7xKO9bk82SNg+biAHE0MsSjyS11D1F8rSHbjYvuT/oTnWubK4doCNcLzQ=;wO5n4BT1B4oszxKsT3GSUg=="
+secured: "+U7arNhldXBQvXcaPWl8ZC2brdjptVozBGVqZkeENhsmcC57cdcNZxeY1kzMsktVGfhM9LbvcuVdkU0QPAk/nOY1Z1xnJYoJo3k3b9Xbu6BjQ4ognY7mwdqdGxGHdOd2ygAfzinVBWwoU62lUiB4nNnVTobhc5/7/r3tHOvx1bm+SpH3ZlraHiWAK+b46JjTL6kBopf91TayMRknTzXjkRRxTKPexg7/fGIH6SkXoV+C/yAQQXkjSS5cB3Gix3lhJLPkdK84cuIrtlZfiJy/2ThDc90hA/8eSVAp8GYo5mJL+ObP4nLPJgruCMK9BQHB4HH5pTcQOlGFt8K+0K1sG8ghVVY5Ov3mkX1pdFQJ8xoGIE0jYNqWZqF3rU88JRU6B39i5tFeiTFZ6O0b1biZm7NXajvZ4Vbg6+jWY+1ykMG/Usi6ZgVd+SAxmNnWuk/94i65HE0f6oKeFGgRy6/c2yYtLVmAxD2usqjmFbwkky/f5HvsPrCvr//WOTLCfc/wQpOn+KmwnQy9o4WQ5aUIHA==;SLdk/CS4Hl1flyi2GOYh3A=="
 ---
 

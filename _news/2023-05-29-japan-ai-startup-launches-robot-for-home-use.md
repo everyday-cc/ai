@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Italy plans state-backed fund to promote AI startups"
+    excerpt: "Italy's government plans to set up an investment fund backed by state lender Cassa Depositi e Prestiti (CDP) to promote startups investing in Artificial Intelligence (AI), cabinet undersecretary Alessio Butti said on Tuesday."
+    publishedDateTime: 2023-05-30T11:23:00Z
+    webUrl: "https://www.reuters.com/technology/italy-plans-state-backed-fund-promote-ai-startups-2023-05-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
 
 secured: "Hx9fgSy5Y3QcFueS7rAijM3CEBKuQ/uBuumznEqE+yjuXk8rKBTNMMqhO2h3u3Lwt6cipO8OVun7B29AEah/MnAWoG1o973SSJWSsy4Gg6b0rwoN0T13zpPhrCWfFrsKEmJ8pk2aSzQEXI7eUugrAGJ3/fMEF/iILJiEkjNE4SYrpF//z0GCfMQLQ5GzJkoMSIi9L7Rjn1jra+kySJo6GiUO2FACNRLkTkWOX4xfJM6VgDrXAWs1Hsxu+qmtNxsZwaDqPFTvkbeCxpHhXtfkKG2valPmm5i8+8FqaB3GI0Ut6Ady0rlJR2W/NjYjhbrhnFTM/Iik1RnznJYDoRbDsyPy1QS/1D6Q8jZU1AnVms0=;HuiNJ7rSp0pAGGmeAFuZLA=="
 ---

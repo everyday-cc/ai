@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-29T04:00:00Z
 originalUrl: "https://venturebeat.com/ai/nvidia-ceo-reveals-groundbreaking-generative-ai-innovations-for-industries-at-computex-taipei/"
 webUrl: "https://venturebeat.com/ai/nvidia-ceo-reveals-groundbreaking-generative-ai-innovations-for-industries-at-computex-taipei/"
 type: article
-quality: 58
-heat: 78
+quality: 60
+heat: 80
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/11/Jensen_GTC-keynote_Omniverse.png?w=1200&strip=all"

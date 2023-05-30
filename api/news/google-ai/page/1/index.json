@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-05-30-artificial-intelligence-poses-extinction-risk-bosses-of-top-firms-warn.md",
-      "title": "Artificial intelligence poses 'extinction' risk bosses of top firms warn",
-      "excerpt": "Artificial intelligence could lead to the extinction of humanity, experts including the heads of OpenAI and Google Deepmind warn. Dozens have supported a statement published on the webpage of the Centre for AI Safety .",
+      "path": "_news/2023-05-30-ai-poses-extinction-risk-comparable-to-nuclear-war-ceos-of-openai-deepmind-and-anthropic-say.md",
+      "title": "AI poses 'extinction' risk comparable to nuclear war, CEOs of OpenAI, DeepMind, and Anthropic say",
+      "excerpt": "OpenAI's Altman, DeepMind's Hassabis, and Anthropic's Amodei have all supported a statement that compares the risks of AI with nuclear war.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-65746524",
-      "originalUrl": "https://www.bbc.com/news/uk-65746524",
+      "webUrl": "https://www.businessinsider.com/ai-extinction-risk-openai-deepmind-anthropic-ceos-sam-altman-2023-5",
+      "originalUrl": "https://www.businessinsider.com/ai-extinction-risk-openai-deepmind-anthropic-ceos-sam-altman-2023-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 191,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6B80/production/_129902572_gettyimages-1257740282.jpg",
-          "width": 1024,
-          "height": 576,
+          "url": "https://i.insider.com/642f1618c328830019d9f954?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-65746524.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-65746524.amp",
-      "publishedDateTime": "2023-05-30T04:07:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/ai-extinction-risk-openai-deepmind-anthropic-ceos-sam-altman-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-extinction-risk-openai-deepmind-anthropic-ceos-sam-altman-2023-5?amp",
+      "publishedDateTime": "2023-05-30T06:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,8 +49,8 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI"
+        "AI",
+        "Google AI"
       ]
     },
     {

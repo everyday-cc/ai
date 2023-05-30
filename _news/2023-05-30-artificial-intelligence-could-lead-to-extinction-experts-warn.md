@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bbc.com/news/uk-65746524.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-65746524.amp"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: BBC
@@ -30,53 +30,34 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence poses 'extinction' risk bosses of top firms warn"
-    excerpt: "Artificial intelligence could lead to the extinction of humanity, experts including the heads of OpenAI and Google Deepmind warn. Dozens have supported a statement published on the webpage of the Centre for AI Safety ."
-    publishedDateTime: 2023-05-30T11:07:00Z
-    webUrl: "https://www.bbc.com/news/uk-65746524"
-    ampWebUrl: "https://www.bbc.com/news/uk-65746524.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-65746524.amp"
+  - title: "AI could make humans extinct, say top experts and CEOs in stark warning"
+    excerpt: "Surprisingly, however, that latter view is shared by many leading experts in artificial intelligence – including the CEOs of both OpenAI and Google DeepMind … It’s the sort of statement you’d normally expect from conspiracy theorists living in ..."
+    publishedDateTime: 2023-05-30T12:54:00Z
+    webUrl: "https://9to5mac.com/2023/05/30/ai-could-make-humans-extinct/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 88
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/6B80/production/_129902572_gettyimages-1257740282.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "A.I. Poses ‘Risk of Extinction,’ Industry Leaders Warn"
-    excerpt: "Leaders from OpenAI, Google Deepmind, Anthropic and other A.I. labs warn that future systems could be as deadly as pandemics and nuclear weapons."
-    publishedDateTime: 2023-05-30T09:00:00Z
-    webUrl: "https://www.nytimes.com/2023/05/30/technology/ai-threat-warning.html"
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 19
+  - title: "Artificial intelligence threatens extinction, experts say in new warning"
+    excerpt: "The CEO of ChatGPT maker OpenAI and Geoffrey Hinton, a computer scientist known as the godfather of artificial intelligence, were among the hundreds who signed the statement."
+    publishedDateTime: 2023-05-30T13:52:00Z
+    webUrl: "https://www.wtoc.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 54
-    images:
-      - url: "https://static01.nyt.com/images/2023/05/30/multimedia/30AI-SAFETY-01-jbhq/30AI-SAFETY-01-jbhq-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Frightening new warning Artificial Intelligence presents 'risk of extinction'"
-    excerpt: "Experts are claiming AI should be seen as a \"global priority\" on the same level as a pandemic or nuclear warfare."
-    publishedDateTime: 2023-05-30T11:51:00Z
-    webUrl: "https://www.express.co.uk/news/uk/1775620/artificial-intelligence-extinction-google-chat-gpt"
-    ampWebUrl: "https://www.express.co.uk/news/uk/1775620/artificial-intelligence-extinction-google-chat-gpt/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/uk/1775620/artificial-intelligence-extinction-google-chat-gpt/amp"
+      name: WTOC-TV
+      domain: wtoc.com
+    quality: 18
+  - title: "AI Industry Leaders Issue Stark Warning on ‘Risk of Extinction’"
+    excerpt: "More than 350 top researchers and executives signed a dire one-sentence statement on the dangers of unconstrained artificial intelligence."
+    publishedDateTime: 2023-05-30T11:20:00Z
+    webUrl: "https://www.thedailybeast.com/ai-industry-leaders-issue-stark-warning-on-risk-of-extinction"
     type: article
     provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 54
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/1/590x/secondary/Protesters-calling-for-AI-to-be-brought-under-control-4779617.jpg?r=1685447534843"
-        width: 590
-        height: 350
-        isCached: true
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 17
 
-secured: "larOJbu6e/V43jMSGQFPpJx+KzXqG6lTrN8H6TFvx8mepiClUtkUAoc2pACMKSn6PD+OBj0cjWBcW+YpZMDC/ZJo+wsiId+JuZcGDjsFEb1Yee3y+AwpPoxqP/zzMLgs8GSBrnaXem1ON11iNGtNDQMOg7PMBD2phn5dJ77AinG8622vCcTR/i8mh6ffedZCKuunoOahRtY/G8e6b03Ziq6y99oLQt9hYdNBBxa2kJ9wckgVR4hvOcWxLWdSnJg/JwbI6w3kHNQ7g/ikr2bSzvsJpD+YqWgo89w4aGxNMOLU4nmbP+vxSl9lGegrjzcib7WZSsAU+dayb2TTfEnay6+n8te53vwgQa4qCOgIdYs=;ZXVCGSUJzsIFKu+01Q+xsQ=="
+secured: "mIPw+OQqBQdZZIYaUrJrOrGMpuLkH+xczfT2o6/ONQ/mdvJnV7eIrKQmDFOszF2qKRS4OZImJv0Kf1J5UIVRYMi8M7/TgyoS6k0dMamIPqGvXztrtTRfiCSvD2XjwFDiRl4yHET/naXXG5qg4JBdzQlwX650hIsEHcAMqYitL8PCaY5Rnf+tZ2HWYGwZvek6b2WAStT31j/dypiH83o+Cr+VFQiv/igGAh4NVN9VelR1YvYDHNei0+2d65KGYV5tPxNEuonK3Tja24oVfIcXiDc26OPLbJ4BGUbIN7wHo2Sqhra73h5IJdnTw+AHrrNRSy0lBWKTpggRIO0bersbLtG90xW4tLatikhmPAOsg9wJ3pMDcBV4x99cOMHG6k3fRpNeGoZzabgV0gxNT/mkwbfoH3fDg9C0+1tjg/Fg8Umo5jJiW2S71MWox8xjV9Tx6xmnFHgKDvuR58XqFy9flaP0U+MneOR8FuOTutrFvyCOHLTRGe8i4bJUA8ApvHVmicXXtS9tLAnddUry4mcviw==;s0L7NZplQiSAwfnhOQZg6w=="
 ---
 

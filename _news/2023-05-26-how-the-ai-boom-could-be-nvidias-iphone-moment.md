@@ -28,22 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "2 Stocks to Play the AI Boom, From Nvidia CEO’s Earnings Call Remarks"
-    excerpt: "Investors are now looking for other opportunities to benefit from the AI trend, which has already sparked Nvidia stock’s triple-digit gains this year. Ironically, the best ideas"
-    publishedDateTime: 2023-05-25T19:20:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-price-ai-adobe-servicenow-507a5c79"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-price-ai-adobe-servicenow-507a5c79"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-price-ai-adobe-servicenow-507a5c79"
+  - title: "Why Nvidia is suddenly one of the most valuable companies in the world"
+    excerpt: "Experts predict the next frontiers of AI will include both more public-facing ... to buy the company’s graphics processing units, or GPU chips, for a totally different reason."
+    publishedDateTime: 2023-05-25T23:53:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/05/25/nvidia-ai-stock-gpu-chatbots/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-788731/social"
-        width: 1280
-        height: 640
-        isCached: true
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 4
 
 secured: "zXeIKaiHFSyVcy+OUjID/cUGfCqx/UioNnXNC9gJLBTrxymhQ1uLGQ/iNZG97SEmF+qgNGrsGmCvyVdolq5QI+7CSJJQuQjQhjGpWwbi2nG7jBsaI64qJNmqPTxyCBiQBjFhT5oEcR6JUdz8pn3wPbp6wkn7t/L5MHi27Bmah6dU5pYzATArVifhflMaR2az8Mkdnqw3nOGVbvMzcbKlgmBeRb8if+nh9SsxF8DXRCa9Gf77l8KkXcbq0A8mrr7N8HLDnF5qXVXg85WQGgnmiioU1p6L0+JnQdbV1sKIE791hA2/fA/c5vVw48iIXEHmvgxuRCdEMgLfq872ZS7KbGyTR7DHf+BCWfbR++EPyJE=;tKD2Ss4CEeqCXitabvZhhw=="
 ---

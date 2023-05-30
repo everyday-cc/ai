@@ -32,6 +32,20 @@ related:
         width: 2560
         height: 1280
         isCached: true
+  - title: "IBM Consulting introduces Center of Excellence for generative AI to empower business transformation"
+    excerpt: "implementing and managing generative AI solutions. This approach involves integrating multiple models from industry-leading providers on various cloud platforms. Furthermore, with the cutting-edge innovations from IBM Research and the capabilities of the ..."
+    publishedDateTime: 2023-05-26T19:07:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-consulting-introduces-center-excellence-generative-ai-empower-business-transformation/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 57
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1233363927-e1628896963459.jpg?fit=750%2C499&#038;strip=all"
+        width: 750
+        height: 375
+        isCached: true
 
 secured: "jT5jZPjAsAIaW8ggu7zIHvMrVnCmymSzViuTOCCTYBWy2C04LfW0QgTXZgFhuqxcvONepZ0iGFfLF5dKBCTPbLsFvmRO8SSpzHCF0Qq5enEsnWAnoCEma4pF77mYElHiJK7IsWwqEDKtXSoYnQLUZbVK560yL8F3F6UpUB2TxxYvCLAjFmWUjisMdbBQAliIPMDjGjR7n1YBV1KLV9gtOcD2awNw/fvuYKP+yg+J9mWCAKhU4hPyN2cQuigPoCdwCwxkXIW9daNfvhNbbhlSnEBjLTxiEW2UYe31ttzY1Z2wJuecZ8P94ZBHe0wmFL51UUd5TZzo/GhhRVM6zbFMFVl5HuKfkREUf6uBlxXOdfAS0CPfDy9bEKzohLqmobI2lfH32yI+Y5RC0QnHRngXncAIpbSNymz12321/u043gNNMAnjF702sAWXnfWdgbk5OD9DaVklAjbDdMkX00Cg0DxnvAo4CN2yOoR2L95Gbm35jZFzzNUjH74uIeqd4nmQ4YaRdldyiICO7LT1KCnx1g==;JCdS+MC4ZTMxPR0RodB+9A=="
 ---

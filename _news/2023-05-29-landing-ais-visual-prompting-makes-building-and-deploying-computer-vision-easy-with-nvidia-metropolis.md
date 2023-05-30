@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-s-visua
 webUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-s-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropolis-1032355971"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why Nvidia, C3.ai, and Qualcomm Stocks Keep Going Up"
+    excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services."
+    publishedDateTime: 2023-05-30T15:53:00Z
+    webUrl: "https://www.fool.com/investing/2023/05/30/why-nvidia-c3ai-and-qualcomm-stocks-keep-going-up/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/734387/semiconductor-computer-chip-with-the-letters-ai-in-the-middle.jpg"
+        width: 2190
+        height: 1369
+        isCached: true
   - title: "Nvidia chief Jensen Huang says AI is creating a ‘new computing era’"
     excerpt: "In his first in-person public address since the start of the pandemic Jensen Huang warned that the traditional tech industry would not keep pace with AI ’s advancements, adding that the technology had dramatically lowered the barrier to entry to computer coding."
     publishedDateTime: 2023-05-29T12:17:00Z

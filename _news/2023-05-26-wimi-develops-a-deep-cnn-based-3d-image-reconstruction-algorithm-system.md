@@ -18,6 +18,17 @@ topics:
   - Machine Learning
   - AI
 
+related:
+  - title: "WiMi Hologram Cloud Develops A Hybrid Augmented Intelligent Vision System"
+    excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider,"
+    publishedDateTime: 2023-05-30T12:00:00Z
+    webUrl: "https://www.asiaone.com/business/wimi-hologram-cloud-develops-hybrid-augmented-intelligent-vision-system"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 3
+
 secured: "NFy0x1QObsnyLh4CpeFgiDJgxtAEpDkbh5LO9clqAVEjHho/QIGWKIU7yArpWvFAT8Ot1RkYj+tb+t1Ph5wpkUaYh3j68Zy7KD8zAkcnieEDsxdad9gIUgrk/eRMGz1lXKnJ4KJ4iko6xXf//mmulGvHS5XTlL5wixT0w7E/CriFlK6geUkNZ+VmbFrxHrLD81rqOkVOZSOHOu8m/dCJLnPu0b3cKWvJqrzb/LSkpGVfj2HQAZkN0zBgsKwcjd3RKHL3iT5riSDo6rNO7VaHAg9PfW4sAGI3UiK7rIoJuU2RluV3u6ANkef+eMYFwkIOH0RDJ+TyWIZbKPDn7vVBFlsh779Au4FoL5LmuaBky7w=;zJXOR9CNqyDVjdlZBTzIPg=="
 ---
 

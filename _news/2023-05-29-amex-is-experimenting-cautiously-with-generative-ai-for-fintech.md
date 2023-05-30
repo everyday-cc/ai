@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/amex-is-experimenting-cautiously-with-g
 webUrl: "https://venturebeat.com/ai/amex-is-experimenting-cautiously-with-generative-ai-for-fintech/"
 type: article
 quality: 69
-heat: 100
+heat: 120
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "How generative AI is impacting the creative industry"
+    excerpt: "The root of this is generative AI, a type of artificial intelligence (AI) capable of creating original content. Since the release of ChatGPT in November 2022 by OpenAI, companies like Midjourney, Runway,"
+    publishedDateTime: 2023-05-29T05:59:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/how-generative-ai-impacting-creative-industry"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/digital-economy/how-generative-ai-impacting-creative-industry"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/digital-economy/how-generative-ai-impacting-creative-industry"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 39
   - title: "The Rise of AI in FinTech"
     excerpt: "The financial industry has witnessed a significant transformation in recent years with the rise of financial technology (FinTech) and the emergence of open finance. These disruptive forces have revolutionized traditional banking and financial services,"
     publishedDateTime: 2023-05-30T05:20:00Z
@@ -71,6 +82,15 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Financial wellness fintech Elifinty launches"
+    excerpt: "UK startup Elifinty has launched its open banking-based \"socially conscious\" debt management platform for consumers and creditors."
+    publishedDateTime: 2023-05-30T13:45:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42388/financial-wellness-fintech-elifinty-launches"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "V1MU6oal/fmHUzqXl7/LuFoUitpAUtKMX4EPz0/RGrsc/JGfNRoc6GRcQpDjravcBoAGUlyU6LJcIS9FJoAd3nUCtTJoZBeiGBqGBSS9xOywGBB2EogkAfgrKBX8DMR3ZFNF/R+dQJdAfTETSoulj73Pb6nqFjzXuwPmbpDgN2vVXrjQHvnXeUkIbFecSun65FSgHdjd05AohXQNAy/rCzVJywvCa1aia0nhjVHFI+1Yr3xYkQNMmtwl6XaznaVRJS2lXIqO9iGTCP/Q1Wxufm2imVop39pLOHkZO5qOfCdRNTsa+ghucTfxf1ceFqy9sKbvBmeFJ7Y97NTPPURDs7AR5I6aPhqb88e9sKS/KaqkL/rJGe32xOQDU5u89bEhfH3p9HQfVreoyVsihPnuEJj7OXJerBIYWpfBDTcOAkM9J7A0ucnpKQDX42UVbDPzFfuUKr0r5sq7OkEAyjgvmfLcEI8NeWQ8pUaNWQNXHdDPaCv0n5vd5uExMDT6hh1XRY2xfBU9wypBUfJCo1YwpA==;GgB/FF+aK3TjO7dzdlczqA=="
 ---

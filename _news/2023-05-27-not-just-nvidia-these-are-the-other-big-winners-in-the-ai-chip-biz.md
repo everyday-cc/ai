@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AI Stocks Are on Fire. Marvell Joins Nvidia in the Hot Stocks."
+    excerpt: "Marvell Technology is the latest chip maker to join Nvidia in surging as it forecasts AI to be a long-term growth driver.  Already a subscriber? Sign In"
+    publishedDateTime: 2023-05-26T09:22:00Z
+    webUrl: "https://www.barrons.com/articles/ai-stocks-marvell-nvidia-a2201a91"
+    ampWebUrl: "https://www.barrons.com/amp/articles/ai-stocks-marvell-nvidia-a2201a91"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ai-stocks-marvell-nvidia-a2201a91"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-268126/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "Nvidia is building Israel’s most powerful supercomputer for AI applications"
     excerpt: "The system, called Israel-1, is expected to deliver performance of up to eight exaflops of AI computing that will essentially make it one of the world"
     publishedDateTime: 2023-05-30T10:41:00Z

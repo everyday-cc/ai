@@ -90,15 +90,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nvidia races towards $1tn club as AI frenzy drives chip stocks higher"
-    excerpt: "Nvidia’s blowout sales forecast has set the Silicon Valley company on course to become the first chipmaker to be valued at more than $1tn, as booming demand for its artificial intelligence processors drove semiconductor stocks higher on Thursday."
-    publishedDateTime: 2023-05-25T20:12:00Z
-    webUrl: "https://www.ft.com/content/b074781a-683f-4b20-8c70-33bb71399d94"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "NVIDIA Announces DGX GH200 AI Supercomputer"
     excerpt: "NVIDIA today announced a new class of large-memory AI supercomputer — an NVIDIA DGX ™ supercomputer powered by NVIDIA ® GH200 Grace Hopper Superchips and the NVIDIA NVLink ® Switch System — created to enable the development of giant,"
     publishedDateTime: 2023-05-29T05:52:00Z
@@ -108,6 +99,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 21
+  - title: "Nvidia eclipses $1 trillion market capitalization on artificial intelligence boom"
+    excerpt: "The semiconductor company Nvidia crossed the trillion-dollar market capitalization mark Tuesday, riding an artificial intelligence-propelled boom to become the fifth company to pass the historic threshold."
+    publishedDateTime: 2023-05-30T13:46:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/technology/nvidia-joins-trillion-multi-dollar-market-cap-"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 12
 
 secured: "SHOGgu2Y3lNKhwklLb/mghsB8dkHaYPDPAZsPQC6eGGuug3KxbxcVrkKfttRAdELUM+rqD8u/BNvm/RG8PkKHY8+yZt8AqwK3kX2Tvz6MU0UqlRzqxCO4IBAOHMCk63quAhGM3YYgJqjhkjlEpwMzvvcfKcBqe8ZCxGfG3gqnnPW/Z+iohLWiZyPBDqRKG/GwATHxdBiqrf7Cz2teilP1/iymz0fmw9LOI7E7CMqzvdisEfdRe6o+EoY9+bbKtiCJ1AccRlf0fswwHAUEjvsscufWreuTJp1Ifm3oNhGWq4xCTWpWRIyAA2cLHgahQfUDfqkvW2GJnVAwP/b+ZHAaDh5dzEsAkcYTg4Kx3y99QEEv0obZGi5ATf3BWYqPWsnsqqOfRPnMM15pkEXRlb0d65rIbooRRHtWqQmzM1VYqAovXH3R14Zb5M3lGCdNgqVShpGaZdUEwErPdiSTLErxXoOuWCQ0qwDv4nvENTpjcGp5i0dlMHuE23jFb3Ech+80pPAvEJyrL5FDh5DVBiPQA==;3Ar9KF5BC+rEAQ+0nIk3rA=="
 ---

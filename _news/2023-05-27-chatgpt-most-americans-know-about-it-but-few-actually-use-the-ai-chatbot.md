@@ -54,6 +54,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI Tools Like ChatGPT Will Fail Without Data Integrity – Here’s Why"
+    excerpt: "New generative artificial intelligence (AI) tools such as ChatGPT have generated enormous interest in recent months because they can alter how people find information."
+    publishedDateTime: 2023-05-30T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/garydrenik/2023/05/30/ai-tools-like-chatgpt-will-fail-without-data-integrity--heres-why/"
+    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/05/30/ai-tools-like-chatgpt-will-fail-without-data-integrity--heres-why/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/05/30/ai-tools-like-chatgpt-will-fail-without-data-integrity--heres-why/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6470dcd4b55484225b03a700/0x0.jpg?format=jpg&width=1200"
+        width: 640
+        height: 384
+        isCached: true
   - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
     publishedDateTime: 2023-05-29T16:00:00Z
@@ -70,20 +86,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "A leaked Amazon generative AI sales playbook shows how the company is going after ChatGPT-maker OpenAI, Microsoft and Google"
-    excerpt: "The guidelines may help Amazon make a stronger push in generative AI, where Microsoft, OpenAI, Google and others have taken an early lead."
-    publishedDateTime: 2023-05-25T20:07:00Z
-    webUrl: "https://www.businessinsider.com/amazon-generative-ai-sales-playbook-going-after-openai-microsoft-google-2023-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
-    images:
-      - url: "https://i.insider.com/5ef13e96aee6a8302d441d42?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "ChatGPT takes center stage as students ditch tutors in favor of AI-powered learning"
     excerpt: "The findings show many students and parents using ChatGPT, with some completely replacing their tutoring sessions with the AI tool."
     publishedDateTime: 2023-05-29T16:33:00Z
@@ -97,6 +99,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/05/chatGPT-financial-problem.jpeg?w=1200&strip=all"
         width: 1200
         height: 718
+        isCached: true
+  - title: "ChatGPT launched six months ago. Its impact — and fallout — is just beginning | The AI Beat"
+    excerpt: "A mere six months ago today, OpenAI released ChatGPT. It's been a dizzying AI ride, but it's impact — and fallout — is just beginning."
+    publishedDateTime: 2023-05-30T14:37:00Z
+    webUrl: "https://venturebeat.com/ai/chatgpt-launched-six-months-ago-its-impact-and-fallout-is-just-beginning-the-ai-beat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-78.png?w=1200&strip=all"
+        width: 1200
+        height: 750
         isCached: true
   - title: "JPMorgan’s plans for a ChatGPT-like investment service are just part of its larger AI ambitions"
     excerpt: "JPMorgan Chase is developing a ChatGPT-like service to provide investment advice to customers, but it is a small part of its AI ambitions."
@@ -144,6 +160,15 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Your next job may depend on how well you understand AI tools like ChatGPT"
+    excerpt: "AI is posing a threat to job security, but workers may need to get acquainted with tools like ChatGPT as fast they can to remain employable."
+    publishedDateTime: 2023-05-30T12:19:00Z
+    webUrl: "https://www.businessinsider.com/your-next-job-depends-on-understanding-ai-like-chatgpt-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "ChatGPT: US lawyer admits using AI for case research"
     excerpt: "A New York lawyer is facing a court hearing of his own after his firm used AI tool ChatGPT for legal research. A judge said the court was faced with an \"unprecedented circumstance\" after a filing was found to reference example legal cases that did not exist."
     publishedDateTime: 2023-05-27T22:20:00Z
@@ -153,22 +178,6 @@ related:
       name: BBC
       domain: bbc.com
     quality: 47
-  - title: "Amazon's answer to ChatGPT seen as incomplete"
-    excerpt: "Amazon.com Inc.'s cloud customers are clamoring to get their hands on the ChatGPT-style technology the company unveiled six weeks ago. But instead of being allowed to test it, many are being told to sit tight,"
-    publishedDateTime: 2023-05-25T20:19:00Z
-    webUrl: "https://techxplore.com/news/2023-05-amazon-chatgpt-incomplete.html"
-    ampWebUrl: "https://techxplore.com/news/2023-05-amazon-chatgpt-incomplete.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-amazon-chatgpt-incomplete.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-5.jpg"
-        width: 1920
-        height: 1200
-        isCached: true
   - title: "Lawyers Getting Tripped Up By Generative AI Such As ChatGPT But Who Really Is To Blame, Asks AI Ethics And AI Law"
     excerpt: "A recent legal case has seemingly gotten entangled in the use of generative AI by lawyers for one side that have landed in hot water. Lessons for everyone arise."
     publishedDateTime: 2023-05-29T12:00:00Z
@@ -201,15 +210,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
-  - title: "ChatGPT, for better or worse: How AI will disrupt the health care sector"
-    excerpt: "Opportunities: The health sector is generally slow to adapt to new technologies. Transfers of information on CDs or even faxes remain prevalent among some providers. Dr. William Johnson, president of Moda Health,"
-    publishedDateTime: 2023-05-25T21:10:00Z
-    webUrl: "https://www.bizjournals.com/portland/news/2023/05/25/chatgpt-opportunities-and-threats.html"
+  - title: "We can’t put the ChatGPT AI genie back in the bottle, even if it means risking extinction"
+    excerpt: "Top AI researchers sign 22-word \"risk of extinction\" warning - but I think we can't afford to put ChatGPT back in the box."
+    publishedDateTime: 2023-05-30T14:47:00Z
+    webUrl: "https://bgr.com/tech/we-cant-put-the-chatgpt-ai-genie-back-in-the-bottle-even-if-it-means-risking-extinction/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 18
+      name: BGR
+      domain: bgr.com
+    quality: 30
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/02/ChatGPT.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1330
+        isCached: true
   - title: "South Korea’s Naver to target foreign governments with latest ChatGPT-like AI model"
     excerpt: "South Korea’s Naver to target foreign governments with latest ChatGPT-like AI model on linkedin (opens in a new window)"
     publishedDateTime: 2023-05-28T04:01:00Z

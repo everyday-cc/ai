@@ -24,6 +24,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Arlington public safety call center to start using Amazon AI system for non-emergency calls"
+    excerpt: "Arlington County will soon start using an automated system developed by Amazon Web Services to answer non-emergency public safety calls. Starting on Thursday (June 1), non-emergency callers to 703-558-2222 will go through Amazon Connect to address their issues,"
+    publishedDateTime: 2023-05-30T14:30:00Z
+    webUrl: "https://www.arlnow.com/2023/05/30/arlington-public-safety-call-center-to-start-using-amazon-ai-system-for-non-emergency-calls/"
+    type: article
+    provider:
+      name: ARLnow.com
+      domain: arlnow.com
+    quality: 27
+    images:
+      - url: "https://s26551.pcdn.co/wp-content/uploads/2013/11/ecc5.jpg"
+        width: 825
+        height: 550
+        isCached: true
+
 secured: "kbOWF/TW6Ywnhu8Q9xlQvNBghIeuD/Jb15J2w1B0WTbokGSWpKOzYnuZRYPa3ZyVncXeJAdRA3rC3x7GZksDzqJD0MV72uxfMNGbRdsLySuwNqYRNWvcZ9AEuXFGkXEviVqqACB+FRxxC4/slv02S7fabZUQERmF/AvLrI72hPfXCPPeydDoVCz/b4UYhEruDWnxtx1MPZ0XTaD6vdpmqKbBcHIoMl1KCNHIrd0R8gt4Vd5a9JTyF+Lg34AysQx1HGOI/k54dlxwliY40YN+jnnlFf5mWIkiMUZoHJW73L6D49NTUKY2w5vGjV320JYS3O9Jyu8ihEKjjL7Bf/mpAZYZN22saxsKQKDBxNBDRlRS2peDbvrGLDuO1ucbyVDd1YCdTSgya1k4pCVhnbyWB2qvAE/qTKax18hHu/ruUPbcGWlY5NensQX1NN4dMf+j2awBuAVQEFvX/85cbZNXKZBsUBwBeE8/w5o5EG7jBTus2EZty4FGrOuyZFOBIE9dtCqxkwNOltxJTtXTgwNgmQ==;63hKXRWpzSP5ZZ5Rzx0PbQ=="
 ---
 

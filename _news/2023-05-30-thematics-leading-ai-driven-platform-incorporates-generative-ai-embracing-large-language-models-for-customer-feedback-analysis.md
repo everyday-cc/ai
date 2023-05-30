@@ -2,17 +2,17 @@
 category: news
 title: "Thematic’s Leading AI-Driven Platform Incorporates Generative AI, Embracing Large Language Models for Customer Feedback Analysis"
 excerpt: "Global feedback analytics leader levels up its own proprietary AI algorithm with the latest large language models to deliver the most thorough, transparent customer feedback insights for clients."
-publishedDateTime: 2023-05-30T10:14:00Z
-originalUrl: "https://www.sacbee.com/press-releases/article275901341.html"
-webUrl: "https://www.sacbee.com/press-releases/article275901341.html"
+publishedDateTime: 2023-05-30T11:14:00Z
+originalUrl: "https://www.miamiherald.com/press-releases/article275901341.html"
+webUrl: "https://www.miamiherald.com/press-releases/article275901341.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - Natural Language Processing
@@ -81,6 +81,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Dear AI Stock Fans, Mark Your Calendars for May 31"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips C3.ai (NYSE:AI) investors are awaiting earnings results due May 31, as the"
+    publishedDateTime: 2023-05-30T13:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dear-ai-stock-fans-mark-your-calendars-for-may-31-1032358444"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "The essential AI glossary for marketers"
     excerpt: "The field of AI – which blends elements of computer science, cognitive science, psychology, game theory and a number of other disciplines – comes with a huge variety of technical terms that can be tricky for outsiders to understand."
     publishedDateTime: 2023-05-26T09:04:00Z
@@ -110,6 +119,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "/ucIbWyC4dduvFDhDrqUIgfx2P2ghYJyxUlA1KCXrhRILq/VghWPNOXK1ypeVl+/KpKclN0ODi3ubLtdI4dJxS4Qvwln4MfVYWuUgntulkOzx02LOBhySacYSlpXdDNaQySFfUYkJv7BlYE9AZ5vas4raO3EtqByo2v3J3/ISOysnwwd4mkzrnnjFiBAMmHKnYQDyPLP/g3vSikGYN/r+TJ+u0s9wUBygSG1gTZJbdqsNaW3Pm3ItA/AUdB+wQ7PWA5EUq6qI0P5i2LSaWoWScK9Z+2UyvIW/OJhSDwySgsAO2fWNty8q3YvpT8ihm5xj9mvVqmW436jqAmo6Qq1yefeaTpNkI/GLA6yRSolMfV+ULzxTCSPY81EVoW9eCM4YmnSHyh/LmPJu0Fb6nBT8aignlXLVKcX/hXbJRGrJXS/XiI5GRFLmi679+92HKXFDjHRL4Gey7QP3VX+OzdIBXFFm7Q01oy3Xj2g7QEYK/wxI8sbm2B2rbwyUFJA771sI1AJnsYVygDpTDwo6Ouf7w==;juiVl6YlfqT3BoyJRgMdIw=="
+secured: "v4ADrxwSWgZHiBmwYr3mZgkCM1OyFKR2DKsjHzjn1F5rn4elXAp7BHHLqSAauZ+OutlUy6lfkCgKHW6IJnsMTo2ehoV5eyJ3xMJfRkwGdfdDWejumI3D37j+covcXa/bsk2wcQc7Po1YCXMNyYxf1E3xH+UzSGY2oWTjjbNxsW+CHLOAYFKx3I0QJPvR6dYZVlec78zWCfOe75cNvF3g7RS7U3EQMTnNv9+Mq9CYpE/ytaZU/B1+K/5umMc6X1N0fhIzqohxMz2WbB739S4dwohI0S4m8nqn/6miNDxbBMX6ff7WG0LHh590JmmyTb1vzGd3Z9ZdLFd+vU3xdfZQ5dqC+5kZeqPnZphaRLv7rYMCqglfelR51hwB+u6qI7lRiLGY9hB3CteBwq1QPGhutob3b0izRwdHI/kCMF04d3EFdpCs4lOxGl2u19gqODuk5aYYqCpOwDngK2M0aKL7aHsarmTT2kiGgJriPPY82+AlpnTIh7Fic+KNTv61G4FpjaytcRO+Qnq+oHLvHlcH+g==;ywnfmEs6NNTiXJX3YscARg=="
 ---
 

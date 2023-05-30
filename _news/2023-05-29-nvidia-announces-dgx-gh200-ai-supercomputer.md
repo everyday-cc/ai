@@ -94,15 +94,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nvidia races towards $1tn club as AI frenzy drives chip stocks higher"
-    excerpt: "Nvidia’s blowout sales forecast has set the Silicon Valley company on course to become the first chipmaker to be valued at more than $1tn, as booming demand for its artificial intelligence processors drove semiconductor stocks higher on Thursday."
-    publishedDateTime: 2023-05-25T20:12:00Z
-    webUrl: "https://www.ft.com/content/b074781a-683f-4b20-8c70-33bb71399d94"
+  - title: "Nvidia eclipses $1 trillion market capitalization on artificial intelligence boom"
+    excerpt: "The semiconductor company Nvidia crossed the trillion-dollar market capitalization mark Tuesday, riding an artificial intelligence-propelled boom to become the fifth company to pass the historic threshold."
+    publishedDateTime: 2023-05-30T13:46:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/technology/nvidia-joins-trillion-multi-dollar-market-cap-"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 12
 
 secured: "CNlNkC2yFco8KeDyGW1LaP7qeCErT3YQy+zOHXX0a2zY4KzFipG2JwgbVtdPu/Jr18/rjCFIGR9J0OhiF7pHo5ma+9BPY4Pou7eKsg/1CofZJ5vPBpIUyhyE3CG1QVl6U/amL+VBdpYdJ09JtNAgL1F3h3XFMWSJlZqyiqqCaAK4PiyVyXBLmK5mEPjcI/8rOMlss65PeWynf37IDd8BwScAn7SErH4rAxFNVoo/vkAgSgRTKWMne5jpTKc+fWmdBPy2pTjRae/lVlJqaR3BUKvdwqICiSKleiuJS5r9dVUznU+89QmPcVbatlm+JMKZCzUJdyaWQFKbjqmSVdF2DZ0g8JYDyuMTkUf8dYS/Z90=;zlgiZjwL7miId90qiqmO3A=="
 ---

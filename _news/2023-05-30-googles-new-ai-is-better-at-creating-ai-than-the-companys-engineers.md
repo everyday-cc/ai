@@ -24,6 +24,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "As generative AI accelerates coding for developers, the long-term impact is just beginning"
+    excerpt: "They are happier because they can pursue the creative work they signed up for.” One of the areas where ChatGPT is beginning to have a transformational effect is in the gaming industry. Developers of video games have been major AI users for some time now,"
+    publishedDateTime: 2023-05-26T15:50:00Z
+    webUrl: "https://siliconangle.com/2023/05/26/as-generative-ai-accelerates-coding-for-developers-the-long-term-impact-is-just-beginning-kubeconeu/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 29
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/RobotAtComp.jpg"
+        width: 882
+        height: 498
+        isCached: true
+
 secured: "+TBHFODs7xVAUZLv1QhQbHZVVc0UspegNkGC67dTkbabjqMcMOoBVyJ0/37Lds+IQyP74LaeaGGFyWKzx6PAllvXYgSAHX15sNZOHBxt78TKmHLwZQN17Cb2CVm88R8k2Q+a955hrDW8NXELoYnJq5nJeq7xLmUM/ACOTuDBM56eCLfKMcSlwvnWeNR4S82jLKQg8dYbGCXR5DTuF+yUl3VNC0ULFl6q9IX2gIGLGWb5MC5w2nyxT6Mdfc+CiDfZVJenGqbXNXIE+Grfys9/H3COPmHdNF1yASR1Ph91/zLNz/KB4ADYjuak9fAyL9yoMwW+2FNSFqfLQ0t//izUxs2Ps/kQSRabHAhx2+Mk8zs=;kw8Y82v+Kh99dRKf8v0LSw=="
 ---
 

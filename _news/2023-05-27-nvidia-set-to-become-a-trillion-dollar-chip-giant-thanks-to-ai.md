@@ -154,6 +154,36 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia becomes first chipmaker valued at more than $1tn amid AI boom"
+    excerpt: "Shares in chip company rise on back of hopes for rising demand from artificial intelligence applications"
+    publishedDateTime: 2023-05-30T13:03:00Z
+    webUrl: "https://www.theguardian.com/business/2023/may/30/nvidia-chipmaker-value-ai-chip-shares-artificial-intelligence"
+    ampWebUrl: "https://amp.theguardian.com/business/2023/may/30/nvidia-chipmaker-value-ai-chip-shares-artificial-intelligence"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/may/30/nvidia-chipmaker-value-ai-chip-shares-artificial-intelligence"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/81f12dadd0e98b3ca222064b416434feaceac722/0_233_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=9ac201c8344dd822183b398db114dee2"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "NVIDIA is now worth $1 trillion - and it's all about AI, not gaming GPUs"
+    excerpt: "NVIDIA is making so much cash from its AI chips, will GeForce gaming graphics cards become increasingly less of a priority? That's not"
+    publishedDateTime: 2023-05-30T15:42:00Z
+    webUrl: "https://www.tweaktown.com/news/91657/nvidia-is-now-worth-1-trillion-and-its-all-about-ai-not-gaming-gpus/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 55
+    images:
+      - url: "https://static.tweaktown.com/news/9/1/91657_01_nvidia-is-now-worth-1-trillion-and-its-all-about-ai-not-gaming-gpus_full.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "New Nvidia generative AI chip employs TSMC CoWoS"
     excerpt: "Nvidia has announced the launch of a new class of large-memory AI supercomputer, the Nvidia DGX, powered by Nvidia's GH200 Grace Hopper superchips and the Nvidia NVLink Switch System, to enable the development of massive,"
     publishedDateTime: 2023-05-29T09:05:00Z

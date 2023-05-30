@@ -41,15 +41,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Sam Altman says OpenAI could leave EU over proposed AI law"
-    excerpt: "OpenAI LP Chief Executive Sam Altman says a proposed artificial intelligence law in the European Union could lead the startup to shutter its regional operations. The Financial Times reported Altman’s remarks today."
-    publishedDateTime: 2023-05-25T19:36:00Z
-    webUrl: "https://siliconangle.com/2023/05/25/sam-altman-says-openai-leave-eu-proposed-ai-law/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
 
 secured: "QP8er5ojyc3kBrKzYsrXUN3lXNEL58sfPh+kEdYPoGuYW2IPHtyocdEkk2uqIFRj5g6Wa9L5osXHAD5ivCY+8cVLLO96QEHxSIqCbqCIqUj7bkw/WK8BpFFsBbev7AVAEEomdkUtE0N5yvBvELXRodc4Zw0v5dT3Vzh/pPL7Tvn+3kGUTIDVzbVkpA5BXZ5iziyHGeOQJWl3CEvwpkVoX9UzSPMj3xGiiEJvWC2C+g9fpXM64x2kLls0dVgBTPblcSM1BRDHCSY50XPvshLQAmkS05T1doQqrKxabD5vwedh9OJ5sSwvsZuXsFKRXXJ6AQ/2ezwaq8sBvg0nln7NjDjKzm2HUdbLiBzaMEzKptI=;qK78eslt0uSF3f1Y7G0e6Q=="
 ---

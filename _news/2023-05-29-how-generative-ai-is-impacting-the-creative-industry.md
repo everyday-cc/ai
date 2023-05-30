@@ -21,159 +21,71 @@ topics:
   - AI
 
 related:
-  - title: "Google ads will be customized for you using generative AI"
-    excerpt: "Lastly, Google is incorporating generative AI in Performance Max ad campaigns to assist businesses in the creation of custom assets. This feature will also be available in the new conversational experience in Google Ads."
-    publishedDateTime: 2023-05-25T19:58:00Z
-    webUrl: "https://www.zdnet.com/article/google-ads-will-be-customized-for-you-using-generative-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-ads-will-be-customized-for-you-using-generative-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ads-will-be-customized-for-you-using-generative-ai/"
+  - title: "AmEx is experimenting cautiously with generative AI for fintech"
+    excerpt: "AmEx Digital Labs is currently exploring ways LLMs could be used “behind the scenes” to analyze the feedback and inquiries customers provide."
+    publishedDateTime: 2023-05-29T14:50:00Z
+    webUrl: "https://venturebeat.com/ai/amex-is-experimenting-cautiously-with-generative-ai-for-fintech/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://www.zdnet.com/a/img/resize/595592365669c10c08c153f2f6c05df497259108/2023/05/25/20c009a8-9562-4440-a1b3-153663f9f92f/screenshot-2023-05-25-at-11-28-10-am.png?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/blue.jpg?w=1200&strip=all"
         width: 1200
         height: 675
         isCached: true
-  - title: "Google starts opening up access to its new generative AI capabilities in Search"
-    excerpt: "Google announced today that it's starting to open up access to new generative AI capabilities in Search after teasing them at I/O."
-    publishedDateTime: 2023-05-25T20:52:00Z
-    webUrl: "https://techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/"
-    ampWebUrl: "https://techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/amp/"
+  - title: "BM Fintech signs MoU with centre for AI innovation global"
+    excerpt: "BM Fintech Bait Al Mashura Finance Consultations and CEAI (Centre for AI Innovation) MyFinB have signed a memorandum of"
+    publishedDateTime: 2023-05-29T06:02:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/29/05/2023/bm-fintech-signs-mou-with-centre-for-ai-innovation-global"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/google-search-labs-open.png?resize=1200,796"
-        width: 1200
-        height: 796
-        isCached: true
-  - title: "How the generative AI boom could deliver a wave of successful businesses"
-    excerpt: "Where generative AI startups can start if they want to turn the short-term generative AI hype into long-term growth."
-    publishedDateTime: 2023-05-27T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 68
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_567557479.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Where Memory Ends and Generative AI Begins"
-    excerpt: "New photo manipulation tools from Google and Adobe are blurring the lines between real memories and those dreamed up by AI."
-    publishedDateTime: 2023-05-26T10:00:00Z
-    webUrl: "https://www.wired.com/story/where-memory-ends-and-generative-ai-begins/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/646ff414d96882f74caa3dc7/191:100/w_1280,c_limit/Where-Memory-Ends-and-Generative-AI-Begins-Gear-GettyImages-690638821.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "4 trends shaping the future of practical generative AI"
-    excerpt: "How will enterprises be thinking about and integrating generative AI as the technology grows ubiquitous? Here are some of the ways:"
-    publishedDateTime: 2023-05-27T01:07:00Z
-    webUrl: "https://venturebeat.com/ai/4-trends-shaping-the-future-of-practical-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_business_transformation_concept._technology_futuristic_e_99a9e0a2-4fe3-4416-b96c-b91028eb6b11.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "How generative AI can revolutionize customization and user empowerment"
-    excerpt: "It's time to look beyond using generative AI tools for simple outputs and focus on computing capabilities for users and large enterprises."
-    publishedDateTime: 2023-05-28T23:10:00Z
-    webUrl: "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "IBM Consulting introduces Center of Excellence for generative AI to empower business transformation"
-    excerpt: "implementing and managing generative AI solutions. This approach involves integrating multiple models from industry-leading providers on various cloud platforms. Furthermore, with the cutting-edge innovations from IBM Research and the capabilities of the ..."
-    publishedDateTime: 2023-05-26T19:07:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-consulting-introduces-center-excellence-generative-ai-empower-business-transformation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 57
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1233363927-e1628896963459.jpg?fit=750%2C499&#038;strip=all"
-        width: 750
-        height: 375
-        isCached: true
-  - title: "Pega adds generative AI to Infinity 23"
-    excerpt: "Pega is introducing twenty new generative AI capabilities to its Infinity 23 platform. The capabilities should provide faster decision and workflow"
-    publishedDateTime: 2023-05-30T10:09:00Z
-    webUrl: "https://www.techzine.eu/news/applications/106607/pega-adds-generative-ai-to-infinity-23/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
     quality: 39
     images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2020/05/Pega.jpg"
-        width: 1500
-        height: 1000
+      - url: "https://thepeninsulaqatar.com/get/maximage/20230529_1685340232-924.jpg?1685340232"
+        width: 1000
+        height: 666
         isCached: true
-  - title: "Top 10 Generative Artificial Intelligence Companies to Invest In"
-    excerpt: "Generative AI will perhaps be the most dominant and consequential buzzword of not only 2023 but this decade. Generative AI is a form of artificial intelligence that enables computers to produce new and original content — text,"
-    publishedDateTime: 2023-05-28T15:42:00Z
-    webUrl: "https://www.insidermonkey.com/blog/top-10-generative-artificial-intelligence-companies-to-invest-in-1155194/"
+  - title: "The Rise of AI in FinTech"
+    excerpt: "The financial industry has witnessed a significant transformation in recent years with the rise of financial technology (FinTech) and the emergence of open finance. These disruptive forces have revolutionized traditional banking and financial services,"
+    publishedDateTime: 2023-05-30T05:20:00Z
+    webUrl: "https://taxguru.in/finance/rise-ai-fintech.html"
     type: article
     provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 37
+      name: Tax Guru
+      domain: taxguru.in
+    quality: 39
     images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/05/28113928/chatgpt-gf38b3317c_640.jpg"
-        width: 640
-        height: 359
+      - url: "https://taxguru.in/wp-content/uploads/2022/06/Taxguru-Logo-1.jpg"
+        width: 500
+        height: 500
         isCached: true
-  - title: "As generative AI accelerates coding for developers, the long-term impact is just beginning"
-    excerpt: "They are happier because they can pursue the creative work they signed up for.” One of the areas where ChatGPT is beginning to have a transformational effect is in the gaming industry. Developers of video games have been major AI users for some time now,"
-    publishedDateTime: 2023-05-26T15:50:00Z
-    webUrl: "https://siliconangle.com/2023/05/26/as-generative-ai-accelerates-coding-for-developers-the-long-term-impact-is-just-beginning-kubeconeu/"
+  - title: "How Fintech Is Revolutionizing Event Payment And Registration"
+    excerpt: "Fintech, or financial technology, uses innovative software and digital platforms to deliver financial services to customers. Fintech has been transforming various aspects of the financial industry, such as banking,"
+    publishedDateTime: 2023-05-28T23:34:00Z
+    webUrl: "https://techbullion.com/how-fintech-is-revolutionizing-event-payment-and-registration/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 29
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/RobotAtComp.jpg"
-        width: 882
-        height: 498
+      - url: "https://techbullion.com/wp-content/uploads/2023/05/Fintech-trillion-industry.png"
+        width: 900
+        height: 500
         isCached: true
-  - title: "Letter from the editor on generative AI and the FT"
-    excerpt: "In its more than 130-year history the Financial Times has upheld the highest standards of journalism. As editor of this newspaper, nothing matters to me more than the trust of readers in the quality journalism we produce. Quality means above all accuracy. It also means fairness and transparency."
-    publishedDateTime: 2023-05-26T14:53:00Z
-    webUrl: "https://www.ft.com/content/18337836-7c5f-42bd-a57a-24cdbd06ec51"
+  - title: "Financial wellness fintech Elifinty launches"
+    excerpt: "UK startup Elifinty has launched its open banking-based \"socially conscious\" debt management platform for consumers and creditors."
+    publishedDateTime: 2023-05-30T13:45:00Z
+    webUrl: "https://www.finextra.com/newsarticle/42388/financial-wellness-fintech-elifinty-launches"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "8fXFWXreKKVPQpKNIUMbAu5+Cjj2jLa5GHxZtLwkyxGZB04Ssa3KVVD1osqMPMWLfg9hqPiU9tOsD4ZKyzB1k+RHTSkf5ju5XZ08iuwmmJaSg7LG9fgyzSsILm/Ey2g4Rd6wNRqSyugmTbCSt0G4eq6OBJM2z83OQFtrBSdSNjce7TsO6o3CqWpu02Nu+qRXKIOiZLqdlqD2Fv3MAyjuOUVFuJGbDYR7QYpLCkQq3GqwJto32xsLDJkrw9+lV7l+/HYsxyCBMPwzSUogwl33zRCsjZ1QQwyoONHqOKxWH8B3bhZXgHrE+Yq0bqRs0lR7h+GUMrRWYOBt65O99hMtdz6z2oEtdBAHE3P8LufzB70mO1WnJ5up8QZtBh5BoKHPZW276b3Fah21dsR8Ye5Zfrmy0HMWSIvjx1IaNPwrtd47+MtDh/vszS4EAmoQJ8K/MFnHad4YUQGVZqGs5dzJkW2aV70u6LV3OG5N+xw8il2fC4hdYEMajK7evr77tVy9RMONVvGL+g6yAYoYWnaCrA==;oJ2+2JmqIsTeLn/wy6ULqg=="
 ---

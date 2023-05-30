@@ -7,7 +7,7 @@ originalUrl: "https://hothardware.com/news/ai-overlords-helping-compose-text-mes
 webUrl: "https://hothardware.com/news/ai-overlords-helping-compose-text-messages-with-google"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -24,31 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hands-on with Magic Compose, the AI-generating Messages tool"
-    excerpt: "I've had some time to play with an early version of Magic Compose, which uses AI to create texts in Messages. It's fun, but unreliable."
-    publishedDateTime: 2023-05-25T21:58:00Z
-    webUrl: "https://www.androidauthority.com/magic-compose-experience-3329552/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2022/04/Google-Messages-SMS-stock-photo-9.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Empowering the future generation: The advantages of educating students in the new age era of AI"
-    excerpt: "Artificial intelligence (AI) has become a revolutionary force in the quickly changing world of technology, altering various sectors and our daily lives. As AI develops, it is more crucial than ever to get the"
-    publishedDateTime: 2023-05-27T09:53:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 27
   - title: "Google’s encryption-breaking Magic Compose AI proves iPhone shouldn’t support RCS messaging"
     excerpt: "Google Messages' Magic Compose AI feature breaks encryption. Here's why that's bad news for Apple bringing RCS to iMessage on iPhone."
     publishedDateTime: 2023-05-29T12:43:00Z

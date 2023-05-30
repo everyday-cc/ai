@@ -75,6 +75,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "How to introduce AI into your company’s workflow the smart way"
+    excerpt: "Using predictive analytics is another way to introduce AI into a company's workflow. By analyzing large amounts of data, businesses can gain valuable insights into future trends and make more informed decisions. This is particularly useful for business forecasting and planning, where accurate predictions can make a significant difference."
+    publishedDateTime: 2023-05-30T12:30:00Z
+    webUrl: "https://tucson.com/brandavestudios/how-to-introduce-ai-into-your-company-s-workflow-the-smart-way/article_8c8f6409-e049-56c5-b07c-e8e72436a402.html"
+    type: article
+    provider:
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/8/c8/8c8f6409-e049-56c5-b07c-e8e72436a402/64760d4548fed.preview.png?crop=977%2C550%2C0%2C30&resize=977%2C550&order=crop%2Cresize"
+        width: 977
+        height: 550
+        isCached: true
   - title: "AI Can Transform Banking For The Better"
     excerpt: "Artificial intelligence has matured and is disrupting financial services. It can enhance customer service, reduce costs and curb fraud – but only wit"
     publishedDateTime: 2023-05-28T18:35:00Z

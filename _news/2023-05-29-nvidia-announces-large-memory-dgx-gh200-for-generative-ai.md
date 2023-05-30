@@ -85,15 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nvidia races towards $1tn club as AI frenzy drives chip stocks higher"
-    excerpt: "Nvidia’s blowout sales forecast has set the Silicon Valley company on course to become the first chipmaker to be valued at more than $1tn, as booming demand for its artificial intelligence processors drove semiconductor stocks higher on Thursday."
-    publishedDateTime: 2023-05-25T20:12:00Z
-    webUrl: "https://www.ft.com/content/b074781a-683f-4b20-8c70-33bb71399d94"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "NVIDIA Announces DGX GH200 AI Supercomputer"
     excerpt: "NVIDIA today announced a new class of large-memory AI supercomputer — an NVIDIA DGX ™ supercomputer powered by NVIDIA ® GH200 Grace Hopper Superchips and the NVIDIA NVLink ® Switch System — created to enable the development of giant,"
     publishedDateTime: 2023-05-29T05:52:00Z
@@ -103,6 +94,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 21
+  - title: "Nvidia eclipses $1 trillion market capitalization on artificial intelligence boom"
+    excerpt: "The semiconductor company Nvidia crossed the trillion-dollar market capitalization mark Tuesday, riding an artificial intelligence-propelled boom to become the fifth company to pass the historic threshold."
+    publishedDateTime: 2023-05-30T13:46:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/technology/nvidia-joins-trillion-multi-dollar-market-cap-"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 12
 
 secured: "KTCpHt3Cr4ekEm4vaoQVSa3C3VQNnDzH1judbXQw4FlOG08p2uGrAl9L/VFOvgEF3tHA1eVSWK1MmSiAzsUCAAkK4Enlvr3JAyGHUs452tUaCPKLOiFuv7v598PAigQ8xwInRPNG8mprb+Qw6uKXomNt8CHfDud22HQnJycsYtJtXnqV984rf6tmZggd0Qh6X8gGl1XKykWUWEXhgV6ropouoPl+9Ig7anaC3Z7wt0QPvDaXm9GyXBWp+MQS8/G3LQZsxvb0mR4RinVdUGiwf7nSvZRqBaUeeOpoDjjGt7dRhzkB9SLk4ThRRb6WyUSzWlquqLlUA9t1Qy6lXG1UlCHLPlW7Sb3S15uZIr6iKMs=;025WqEpEb4UU5FPwN1/P0Q=="
 ---
