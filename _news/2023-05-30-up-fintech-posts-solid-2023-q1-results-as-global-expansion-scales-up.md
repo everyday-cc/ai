@@ -69,6 +69,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "New Senior Team Members Strengthen IA Capital Group's Investment Focus at the Intersection of Health and Insurtech/Fintech"
+    excerpt: "A leader in Series A and B venture investments across North American insurtech and fintech, IA Capital is increasingly focused on insurtech/fintech startups with health-related data, analytics, AI and/or personalization capabilities."
+    publishedDateTime: 2023-05-30T18:12:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/30/9822905.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "FEgv0gqHRxqNy/LSy74QxCuk35UAx9J2WJPOiRagYIAkOczeAppatU/gixrZdoX82wDqx7CjXpRk+DoaOYuk8fqNZZZuqgkcSqolUehzf9z/MBOE3bmSGeQHMwYLWlonpgEZVx5WgyIt0wX/hTLgFZCaAa9e9Pn2OM1nsUtX8jd/Tr0c16uS8+SZjlwS6ak6KwPIXgOnJ2BYSps7M5wOxjU8HYGyvsp2qdel7BizLNE2KJT/de3RV5JANFKpdx3UjtKFZ32Qo7+gvPboq+FvH2KjR3A33QYd5dHIEj0mnh3sDOKwLaXDj06pt84hL8SBk6hodWgP064JwJrTYEcWahGjd+LN3ZVtUoeN2n3HZ30=;yulNpSGSDnkIFgsUqR6O3A=="
 ---

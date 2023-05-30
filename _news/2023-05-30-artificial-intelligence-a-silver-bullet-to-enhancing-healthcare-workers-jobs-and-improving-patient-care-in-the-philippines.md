@@ -33,6 +33,15 @@ related:
         width: 1134
         height: 638
         isCached: true
+  - title: "Using Artificial Intelligence in the healthcare space"
+    excerpt: "Functional Medicine Expert, Dr. Cathleen Gerenger, and the CEO of My Wellness Reader, Gary Kiss, joined Gayle Guyardo, the host of the global health and wellness show, Bloom, to share more about"
+    publishedDateTime: 2023-05-29T18:30:00Z
+    webUrl: "https://www.wfla.com/bloom-tampa-bay/using-artificial-intelligence-in-the-healthcare-space/"
+    type: article
+    provider:
+      name: WFLA News Channel 8
+      domain: wfla.com
+    quality: 34
 
 secured: "rf8sWcnhhX5A5mEF6a9RSgAQJs+w9QUY18qHPgNCL0RB68Wq93uQR5tbg5CsOx7bbBDYHvEZRxoaOCbeXjjOVuWVpyIERFL/AOO2OA+NF+BCKzDOOc8BneGG8VGFJGbJZZd0g1+9ofRhxUEcpcsFEJzGsXLDgMiiuhzJfRADXO/2w+vCjkOf902HZXY2NKa/ISAFvSaZQz968bAEuhD8nMkrQs7Z7QcErDxo3XoQFQaHU4HahKl9Oy+Ye4EJ6IPUOZBi8BeJFMcflwkjQW53NuEvRGQfFsf6BLaNFG0pmhZKsZjp82Qq5kX1IpGNduZDvpkiZJkEoD8xbEdBk636rRB7dTboz/PVmDQQAnYc3lM=;HRX0Akse3bLhgkjU6Gc7YQ=="
 ---

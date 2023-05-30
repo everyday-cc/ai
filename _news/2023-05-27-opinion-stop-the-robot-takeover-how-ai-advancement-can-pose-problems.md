@@ -9,7 +9,7 @@ ampWebUrl: "https://highschool.latimes.com/fountain-valley-high-school/opinion-s
 cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 58
+  - title: "Opinion: Why Alphabet is a better bet than Meta Platforms if you’re investing in AI"
+    excerpt: "Then, way back in 2014, it acquired an AI startup named DeepMind — with a string of other acquisitions in between. In other words, if you want a company that has been thinking seriously about AI for years rather than playing with cartoonish avatars and ..."
+    publishedDateTime: 2023-05-30T18:53:00Z
+    webUrl: "https://www.marketwatch.com/story/why-alphabet-is-a-better-bet-than-meta-platforms-if-youre-investing-in-ai-4d46b88"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
 
 secured: "OwkVVuqfg12+EdqDaztFeVSjkfzq0G8HHteXTnMN1F8BFUHI09gKKUVoCDt1hDhY2xo1n9vmyjmOuas9stajW6aiS+8xhWPOjHNYJA63h8/S5QQsIKk47mkE7ntxjtWub5jjtusNJ/uYbhgbkx/zqTTgej3UpPQVguJLwVH2XDj1p7sq+8BGWSH7KMuJ+zv3N1zGdi7xqIgL8gW8I0V2gyM+NPAEXgVbxyDyUi82YHZR6Eeb/SkAlDGDKFUb/1702zGAhRa2GdT/GpjCLTdZrSbFTuJWQFSlaXCw7j8jz1wvI3/jJz5gAbiPnJMdFgEG3lFT0Fc507zgkQjHTXw+coU3G3FhyUKVeTqMERWs87nYxYqHvn6ys35mKWg5G7wwgEkKrB07SXlZS6NsclY2D+PyyX1YjRZUBT4zdi74AsN6wVetVskKbe4UfuLOUVefx15F6FAO6Uff6Do4+n/GgmqptFGKdqvmh1zkeHWTkAq7asLFlps5l+LR6LhrMFFwxNoO2QLkinebeYnCCq029Q==;cLN8Hvb66TPhbPFa1yklJA=="
 ---

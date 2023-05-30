@@ -24,6 +24,17 @@ images:
     height: 504
     isCached: true
 
+related:
+  - title: "Self-Driving Trucks Becoming Common on North Texas Roads"
+    excerpt: "The North Texas area has become the new frontier for the development of self-driving trucks, with several companies setting up shop — and using local  highways for real-world testing."
+    publishedDateTime: 2023-05-30T16:59:00Z
+    webUrl: "https://www.ttnews.com/articles/self-driving-trucks-texas"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 4
+
 secured: "CZDv04r9l85LQ6TjFsGuk53TSFF24buL8nRx7zKhj7hLwaMy+1IpdsjO+pUGvruby5Ux2cFR2yfClX9gzQkHI9H36YcqqGg0VndutlLvm7HyDPemBL+5Zr5VLwr/trOaJHW1Ru3SKNAVZMvWcCSSV8Qjj4CwFNWen9F+qJaOxXI1RpCCLmPEGOHPk17QfR39iI498iJ9LY5LcYyF65JxBHHkPi6GehTk3zDGpXXQ8pHrLb4+wu1A2RDoyu7GN4+6Q83ipPboi1yCD07BRMVUYFdna8M9iXyslzBAGJ6akNjbgY4rkhSMlBJMKVnlR/W0iXYJdhurj/hkwd71mLPYNx/3Gq9OLTPXLJCYjjqLAFQ=;Q+Ji33KDL45/+1/X69rq3A=="
 ---
 

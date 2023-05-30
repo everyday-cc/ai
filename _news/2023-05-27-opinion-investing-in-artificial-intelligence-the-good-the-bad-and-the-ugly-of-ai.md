@@ -39,6 +39,15 @@ related:
         width: 361
         height: 240
         isCached: true
+  - title: "Opinion: Why Alphabet is a better bet than Meta Platforms if you’re investing in AI"
+    excerpt: "Then, way back in 2014, it acquired an AI startup named DeepMind — with a string of other acquisitions in between. In other words, if you want a company that has been thinking seriously about AI for years rather than playing with cartoonish avatars and ..."
+    publishedDateTime: 2023-05-30T18:53:00Z
+    webUrl: "https://www.marketwatch.com/story/why-alphabet-is-a-better-bet-than-meta-platforms-if-youre-investing-in-ai-4d46b88"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
 
 secured: "5KzaBmttZhUFZfqLAA71dtJsunC0VTh4s4lZESvHwaf+PW3FzATNPZ7nDq7j0PS3mDYfnV3RHB+U40kCypfz6f6ThNggD/9Bm6/LwDiEY4CE3dmvxOi9IH9e1/zx8iLXrCgOs2kDrT2wk21amLAsETtWOh1MHbOGLhFCuX0woA941EIafY/q49kVLf8qsnoM6OShJKvLuTovvoETXnNXgb7uKbHs16BGBO0VTGgEMSi3XygwO7oswsIOnn1YS6xi4ZHy2ZqfpHGwg7qEFF29fJ9wftiHEu5pzffNkEBLaiHMEI2ZqalzYKLUmBJT4EqVTmM2UikdtNZIJcWkBoGa+nAQiY9DQC+qBl3zlpKXen8=;Vxe8i9q9/iNZawWBCRj6Aw=="
 ---

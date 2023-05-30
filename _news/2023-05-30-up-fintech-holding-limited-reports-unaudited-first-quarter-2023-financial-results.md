@@ -66,6 +66,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "New Senior Team Members Strengthen IA Capital Group's Investment Focus at the Intersection of Health and Insurtech/Fintech"
+    excerpt: "A leader in Series A and B venture investments across North American insurtech and fintech, IA Capital is increasingly focused on insurtech/fintech startups with health-related data, analytics, AI and/or personalization capabilities."
+    publishedDateTime: 2023-05-30T18:12:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/30/9822905.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "LPXG9+an73kIh7uedoqNF+RnE74uD/56TdJPHfx583gcJDU4xkh4paib/eZMi61bQMiw53pLZsmU8lZQ+tQGHqpGPUV+0YVlX+iZdqgWFabsd+WKdZoqhZbNwImbNY3qpEm8bzg2ht+qBiKHPu9DuIUfJ9Y2XJZOPT1mNid+FTkEWDONHcgSGnvwSVYxIIujTlOl8ciOyoz7IV+T5YPA4lstQIjImXzvR5NkjslhI48xPyq12kdbysASAV6tJrhl6/udizKKA8jfiwnO5SH0ntU0+P3WLPrQBJZ6JIrVp9v6LcsC13QsAXmoW9Y3+PjfSRIle5qEGvgnRqsjQ9voUP/6gQ/27fomAbdmLwYh7MI=;vLLT3ooOOvlm3YGi4ClTiw=="
 ---

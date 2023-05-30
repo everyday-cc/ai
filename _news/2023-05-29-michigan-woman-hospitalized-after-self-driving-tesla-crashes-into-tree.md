@@ -63,6 +63,20 @@ related:
         width: 986
         height: 555
         isCached: true
+  - title: "Hardware 4.0 spotted in Tesla Model Y, self-driving suite still unofficial"
+    excerpt: "The Tesla Model Y is getting Hardware 4.0, an upgraded version of the electric vehicle brand's sensor and software package"
+    publishedDateTime: 2023-05-30T20:27:00Z
+    webUrl: "https://www.cbtnews.com/hardware-4-0-spotted-in-tesla-model-y-self-driving-suite-still-unofficial/"
+    type: article
+    provider:
+      name: cbtnews
+      domain: cbtnews.com
+    quality: 37
+    images:
+      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/05/shutterstock_1349022629.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Tesla’s semi-autonomous Full Self-Driving software a step closer to Australia"
     excerpt: "Sleuths have discovered two Teslas in Australia with software that includes its Full Self-Driving software. Is a full rollout on the way?"
     publishedDateTime: 2023-05-26T05:28:00Z
@@ -77,6 +91,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla Driver Says Self-Driving Mode Crashed Her Car Into a Tree"
+    excerpt: "A Michigan woman was taken to the hospital after her Tesla reportedly self-crashed into a tree when in self-driving mode."
+    publishedDateTime: 2023-05-30T19:25:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-driver-self-driving-tree-crash"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 19
 
 secured: "SI/K76tGfiUQjLW8tAxuVCV8QmjQcKezTcGwSRnxnZ62mFFnBlln90i0G3ZxpMNGCUTwZHyMWPfv6Y+MAZ4knQ4OIKYw4Uvh2RPVQwkq72n24j4IbS/QZkdrJUHuzDrBDuWuUJMyzWZ8y0fA3VsBC6504OCmNI6xlr9Al6skZU4OMRguu2oRtyy2KjMw4nvMn/qQoUOxIicb/vuhupwiJIs8Aa3Izu0IWjMz70CfiK3QrUIZZbYTQ7eOcW+uNfNiunFoG35koS+YLUgW9xw7i/DxcRX8bcbm7LdFgWFlDKIVhvemfRL2u7G0jO8m83LIkfIl1JR1qSWBwmMW1D412HPEKGbdQlI82zFD7E7b2bnKgdzwFGqPbLzRMcBcFd2EOFBd7SiMpuNcr2PqXF35ZrnmB69MRgLgiLZ9JmvhUreY4tAoyWxa8cMCisXpmAe4Ymm4yQsjOsSyPYiVllz+yl6mjC5ZQXe7b0aPRaPU/JQoSVbkWM6ROvequ5HSdb3Oyr2y2TYGL5KBBQN8NpWHaA==;6oZPTXkDwQrpYXksAkz1lw=="
 ---

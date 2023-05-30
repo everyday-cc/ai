@@ -48,6 +48,15 @@ related:
       name: Beebom
       domain: beebom.com
     quality: 19
+  - title: "Intel adds AI engine to Meteor Lake processors"
+    excerpt: "Intel is going to add an AI engine to all Intel Meteor Lake processors. This is to facilitate the processing of increasingly present AI workloads, the"
+    publishedDateTime: 2023-05-30T11:56:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/106627/intel-adds-ai-engine-to-meteor-lake-processors/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 19
 
 secured: "a+8tIC2yzyb6S4f7KbPYMDW3JZBJu+cq9bctLpLgrvfiO1VGHu0jSgPp82zpKInhJQEwcI21Zdx+RUh8mnN8aurDhgkTGLthle471qtiUMnpCMmhRqJaxc7BscSXuTjFLGHhYEQn+mIhOrVx/DyeyjyzH8gN+d40QODuAU8Yr/mfcr0rB7L2GrSVQJr4C5DLiXBJ8zEwXrAFp6+iWzSzbQZtTE7aOnzWKDF+5eEUUqO6fD+d5D9TLIwIamtiv/skPgTWLtb0Vq7Nu9tzFyIudJ8DAVxYnsjSa5cdUcyA+cz2gXD2Lj/jdfioVlpMRZ1ruevtrBZ6fCdd2gJ3JIgJpa1SPUGTCc5xubC5AqOYMVw=;60LlvEFIRh9LJJYSpuS0yw=="
 ---

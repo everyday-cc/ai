@@ -40,6 +40,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "The Oscar goes to ... HAL? Why AI is at center of Hollywood strike."
+    excerpt: "Striking screenwriters carry placards such as “Alexa will not replace us.” But if some view AI the way Sarah Connor in “The Terminator” did, others are embracing the technology."
+    publishedDateTime: 2023-05-30T17:33:00Z
+    webUrl: "https://www.csmonitor.com/The-Culture/2023/0530/The-Oscar-goes-to-HAL-Why-AI-is-at-center-of-Hollywood-strike"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 17
 
 secured: "GvWi63mJhqb25qNZG4vMcSkodZXljfFM0RrpekhnrDyQNEUdyvjPdFZUmgSSvXuorz2LuhoSpuvE+XkfG8s9/tE3LIeCAvVvfBMw3VGOmr1lqQslOEYjN3iV4qQuP0zlFTRkvFqoz5yuzbukCRhkUZXsPAqaGaQi/psv/zPlVFf9J6BTKl67hb6NtOZbZHVHGrXcgOsYxXpkOubLfq7mgrTcdmxwoM1EEPhdrZl5glUWHW9WKa0VevAf2sF5SyUI2t0l11HOqkvkgEdeMPuAJHCCWCg32mkihjBxtYoDGRg9owvLvRjUp7wum0CM8sHoMTydc8LpP1So+h0uN7ibvLWM7d5ihUY5mTTfpF1gH5tAyuBRtP4ZDEd5ndEYRS2aB+Hch/KLqZA7Y6IOno+bCjrrPB3Qfm8W/+phJHA2/ZbEZWWxV1jafUo8CoZFrfGbXdRrjiPEDrOo+f5hHBtHTFBfZ1qZgnRl30FALazgwdQtVb7bLJ6VjZ0sl42WKQe+NeQKMUWuvQsUxvp0Exgudg==;swFyUNfY24zdKAhGc6yk6w=="
 ---

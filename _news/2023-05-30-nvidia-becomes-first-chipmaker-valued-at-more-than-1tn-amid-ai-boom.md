@@ -199,6 +199,24 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "AI Stocks Soar as Nvidia Joins Trillion-Dollar Club"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: shutterstock.com/Victor Runov Despite a soft opener in the equities"
+    publishedDateTime: 2023-05-30T19:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-soar-as-nvidia-joins-trillion-dollar-club-1032359232"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "Chipmaker Nvidia Joins $1 Trillion Valuation Club Thanks to the AI Boom"
+    excerpt: "Nvidia has joined the exclusive club of companies with a $1 trillion market capitalization as the chipmaker benefits from the growing use of artificial intelligence. Nvidia Corp. joins tech titans like Alphabet,"
+    publishedDateTime: 2023-05-30T18:34:00Z
+    webUrl: "https://time.com/6283523/nvidia-trillion-valuation-ai/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 47
   - title: "Nvidia strengthens portfolio to offer more AI products and services"
     excerpt: "Along with chips, Nvidia will now also offer a supercomputer platform and data center networking solution to help users harness the power of AI."
     publishedDateTime: 2023-05-29T15:10:00Z
@@ -212,6 +230,20 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/29/image/jpeg/yD8nZtFgP7hf2lda13UESyo8qm6okOlKPcxawDDm.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Fueled by AI, Nvidia joins the $1 trillion club"
+    excerpt: "Booming demand for its AI chips has landed Nvidia (NVDA) a prime spot in one of the most exclusive clubs on Wall Street: The chipmaker hit a market cap of $1 trillion on Tuesday. It’s just the ninth company globally to have achieved such a feat,"
+    publishedDateTime: 2023-05-30T20:42:00Z
+    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/05/30/nvidia-joins-the-1-trillion-club/"
+    type: article
+    provider:
+      name: KRDO
+      domain: krdo.com
+    quality: 39
+    images:
+      - url: "https://krdo.b-cdn.net/2023/05/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG9uZS10aHVtYm5haWwtNmM4ZTdmNmM3YzhmNDBmZTY2ODg0ODkxMGY4NjFhNTM-L19wYWdlcy9oXzM3MmNkZDY1MDg2YmY2ZTBjZWIyMDkwYjRjZmZhOWYz-300.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Nvidia joins trillion-dollar club, riding on the AI boom"
     excerpt: "Nvidia Corp, the chip-maker, reaches an elite status, joining US companies with a market value of over $1 trillion."
@@ -251,6 +283,6 @@ related:
       domain: channelnewsasia.com
     quality: 17
 
-secured: "0dex+dKykePML8PxRob2C6l1+o28un2xHxsAXwYqdpFuwbfG0GloaYFincV4N0RdyHNUnKg+m5nyvymaN6eOu8CjxSFIPU75DwG4bV04QZUqruo39oJMtjTSngN9WIayDWH7qcCVMm9lTBGK5emFSA4tac+oqUTjaOJis5Pmftc6fWfdAwZJ9ty5LOcmmqKsujuiBVMFEHz7MVbM7R+F3zZXxEkpBF60Ow8Bz0yf3HZSbyqp6cL4dCARdtGc/r5gNSkA2yCx3lO9nkKBKGL++pdEdaQwKlPD8ZJwjFswIjlaTDkQcCcdVFsnKw7qKmq3aRyszNrtI+4J+gCZdRapkmYabFyZCJw8orKAreOiK5g=;X6sqGMk0kXTV1Q42XU0f4w=="
+secured: "Fhjdoz1naP3M9e9mr6rf0m2L+0PljD75NaD/Woorm/NsAYTj/U0bBsBvetDfgwbUWYMbfU923TqkCSjwgZbxlTTvSz+n8sM96KnUYr/pxl8MNXpPxHXjOWk2ESuj9D7k1CxOUjf1DanRjuPyPD58yO0tcT+VTd71E+brXKM4wMaMnb8X3GZc+SIH7mUkzSYS4PydX+oElPvuJPXCX3s4P+0Ir8d87NnzvuhntdLlSktwCzTxYFfoTTHzsbffJBHDKHrbSXQz555Qt/+ratOVdM51EtrSndCAjnduj8Ef2VbfaxNPOCl318fNP7KdlNxmGjWdYi8YAdh9KU4iyLNJx+ilDKH6O8Ce+TPir/TG/J0aEC1aVtZJWTjxnHx78lX54E0XJ/MBZGfpIpO0GZI1iAhGRNF0GwLc9JtdQ0bSQlsZbWNaTRB+dQ2G6tEoduLag2Y8MFwuMgF36iPUQqVpj8Lw0pbFcTaOZgBvyHde3H12UF9ShEka/We/RzmwlHS7r8o+xC5N9PxKtUMSr1009w==;53DTZmSQxYCr/5ZEdlCIfw=="
 ---
 

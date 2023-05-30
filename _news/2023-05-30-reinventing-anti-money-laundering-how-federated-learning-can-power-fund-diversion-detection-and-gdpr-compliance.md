@@ -39,6 +39,20 @@ related:
         width: 1250
         height: 1250
         isCached: true
+  - title: "Facial recognition helps Indian authorities identify SIM fraudsters"
+    excerpt: "The Department of Telecommunication (DoT) in the states of Bihar and Jharkhand found a total of 21,800 fraudulent SIM cards in April and May."
+    publishedDateTime: 2023-05-30T20:29:00Z
+    webUrl: "https://www.biometricupdate.com/202305/facial-recognition-helps-indian-authorities-identify-sim-fraudsters"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/05/01145840/shutterstock_524074843-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "Ao+iMro8CExYJjo08YDAWKz+zlGKpNxf13SSBc4OVVS0QiulDXoHyNJfVNhhHm65iV2sFaxYAM3NY4jHsovz3pGEjLuVAG67bF/jXcf4MjoZGHJwjQDYhtPatsze+zFPzMqIE/PIvzpXMlknIlINNGTMdPZjcntEjgIifXDikhmin5G4ScTAnPmTICYh+BkhowRyS2vPKtvz8R8/jav4YGCvbicevYErFPgChOulcLYkiDA4gnlfyMhPOVbeHoJxp+exGMW6ZrfhaehXnBCemEcRX+9BaqPGw1K6BR7y32lgO5up6fdVBcLeaC/lVKK5LfIlNIzBIAl/CZSUclSUgDM7ONLDttmJ5yO55X44B+ye8ZE9MqAcEJsnccyWvoEA5wCqvWzhawM8P0U8b25rNUKcKh9gLb9QfnodEtaikzO2m1w1SI4eq+lg5nLaJ09sztcEJuiSl3kY+3fSleUzrwf4QY1iT4dmisTM0Vo/qjFvZnW8CkTmsex5lieLz8yu/Z/unBpcqyszx5xHgVJqkA==;TDTu+fO/MmQKgZhr3SxQ9w=="
 ---

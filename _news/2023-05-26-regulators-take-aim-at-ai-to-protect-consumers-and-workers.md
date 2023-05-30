@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/regulators-aim-ai-prot
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/regulators-aim-ai-protect-consumers-workers-99622780"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_sport/4BEF/production/_129893491_swiatek_gettytwo.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Regulators take aim at AI to protect consumers and workers"
+    excerpt: "The nation’s financial watchdog says it’s working to ensure companies follow the law when using artificial intelligence as concerns grow over increasingly powerful AI systems like ChatGPT."
+    publishedDateTime: 2023-05-30T20:03:00Z
+    webUrl: "https://www.stltoday.com/news/regulators-take-aim-at-ai-to-protect-consumers-and-workers/article_b81b2baf-52a2-56db-8d5e-2fe78b89b54f.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/81/b81b2baf-52a2-56db-8d5e-2fe78b89b54f/64736f480e754.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "XJsIgrgci1ZugRhm9SeGQG0453avu3/XHW4J8tu18hB3HikAnT+We916bqr9frq/EH9g1Qoli5Lt4FpTkjcMmBNL6xsqw4JXccRAoYqkhJNDdiTY4CaZ5K1voVl1cDNvDlky9GCEbEVaHuwZqBTIjZfqq5F8ybeo5NysbSsBlEAuiDG0yKMo32qAl8HVnhVG/Y0rAQxMgi98U46kodoIk7qAWtM+nlMTPNbwytdYCdt8vlbXpzC3XkS5vDMgyIma3+DRaVVLucMMGonPLV1EdkE06r48glEyTvDkovCS4MzoxLrEwiscPvJOa3WlySX123Owq8iNpBs2hQR4FSZCeESoFkg9V/4IGHqZeu5/F9ACqkvC8o1FItgUO0eP56Q1XKErcxdQTjktXg715dt6Ln7Wp+P/osSAr6/jTX+sbghf5eDtM9YIy7rHAyWz2Uy4Lv2c0V/+Vo6jxDnAMqmZDRUcbyxWqhYB3HRKu9870rstUdnE7705hZiKQW0TPV/xGhu1jUuAOONWppUqzlvTeA==;/nhnMCtl8nmGgk1G0CuCNg=="

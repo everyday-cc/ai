@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32613837"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32613837"
 type: article
 quality: 53
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 12
-  - title: "Call Center AI Market is Anticipated to Secure US$ 6 Billion by 2032 | Future Market Insights, Inc."
-    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
-    publishedDateTime: 2023-05-26T02:09:00Z
-    webUrl: "https://www.fmiblog.com/2023/05/26/call-center-ai-market-is-anticipated-to-secure-us-6-billion-by-2032-future-market-insights-inc/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 5
 
 secured: "Kf1ksbi+JPM78zrpF9ChelUjwDN5v6Jerhhz4pfFB8XoFhgE4XCBGTot289zDzCPFvS3s4Yg/Gs1UhcsDEdHgoBAvVH13xHi6fbShgPoqLyeg1cfQ9QWiOznena1nwopSQYmC6oZtwGPuA8oKO06Df9EZxaCUziX84SHvFaZz+fGv/AfJnCt3qKqni2lrW9mxTZukJv1sYBeVhRGoKCabnPeAeovgO0hybH55G2DJUiz3YXquDvE0kMFbJn5ZSwinhlLESTF8WYxyFYMpUV/qO5UMyTmniGyEy8CmEXiRWwch7qLaMlZi6oya469b0TAykhkTHSG0AAnwvw0d3jyqeUjHdJb5mOQj4xs6UrhHjc=;gTP8aOllVlom/hr524uA0g=="
 ---

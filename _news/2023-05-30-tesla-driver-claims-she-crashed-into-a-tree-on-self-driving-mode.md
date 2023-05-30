@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/05/30/tesla-driver-claims-crashed-tree-se
 webUrl: "https://electrek.co/2023/05/30/tesla-driver-claims-crashed-tree-self-driving-mode/"
 type: article
 quality: 84
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
         width: 986
         height: 555
         isCached: true
+  - title: "Hardware 4.0 spotted in Tesla Model Y, self-driving suite still unofficial"
+    excerpt: "The Tesla Model Y is getting Hardware 4.0, an upgraded version of the electric vehicle brand's sensor and software package"
+    publishedDateTime: 2023-05-30T20:27:00Z
+    webUrl: "https://www.cbtnews.com/hardware-4-0-spotted-in-tesla-model-y-self-driving-suite-still-unofficial/"
+    type: article
+    provider:
+      name: cbtnews
+      domain: cbtnews.com
+    quality: 37
+    images:
+      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/05/shutterstock_1349022629.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Tesla’s semi-autonomous Full Self-Driving software a step closer to Australia"
     excerpt: "Sleuths have discovered two Teslas in Australia with software that includes its Full Self-Driving software. Is a full rollout on the way?"
     publishedDateTime: 2023-05-26T05:28:00Z
@@ -81,6 +95,15 @@ related:
     provider:
       name: MLive
       domain: mlive.com
+    quality: 19
+  - title: "Tesla Driver Says Self-Driving Mode Crashed Her Car Into a Tree"
+    excerpt: "A Michigan woman was taken to the hospital after her Tesla reportedly self-crashed into a tree when in self-driving mode."
+    publishedDateTime: 2023-05-30T19:25:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-driver-self-driving-tree-crash"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
     quality: 19
 
 secured: "mvhmqW5te90lJfXUaie/7XXD+2s9qxS3HjY+746iS3bvxHAAjbaUDapZHVBaD4uiz8wvl34EXfBp/CHb28j0T/yhGIjW7xt4grz310rNdK/mztSuVjjfRJCAZ6+Zz3elgy0HXWHm+A5tB2oUpuY28rTX/Y/sl6Wj2uhT8gorQyeG+7G6BcvDRf32HqYYlDfzp3Z0ouAXSfSBzp93xYfIOHij9CfnqOjXWdeVMjgyBrepVt0MgbEU/fnukrNBcavOshvpCYvC/2KhcVq7Xr+PkFu4bttUA85iiuJU06o/s03pCneZ77tQFd++IeybBuBaYGT/HRU4xn0YduXwn0kRulbKMKNvh/758xHezxPj9+YP7uiSldLgpJXqrnMxEa4axNInq6GyQI+pBNLptsT2uYMEXZohlhpQ8wYvzgybAe+M0KqggUzYkiAYW1exDFjrOiAoiuzBErBYKW/PzR9gsXjWaGX396u4+MdSFKD/M5DgXT11zokUiw72z5VCFaaIwnbPvTIVfvmZhAFrLSo6Dw==;moPsBDQjAA+IT6QnNco2EQ=="

@@ -1,30 +1,27 @@
 ---
 category: news
-title: "Deepfaking it: America's 2024 election collides with AI boom"
-excerpt: "Thousands of deepfakes are surfacing on social media, blurring fact and fiction in the polarized world of U.S. politics."
-publishedDateTime: 2023-05-30T10:45:00Z
-originalUrl: "https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/"
-webUrl: "https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/"
+title: "Deepfaking it: America’s 2024 election collides with AI boom"
+excerpt: "In total, about 500,000 video and voice deepfakes will be shared on social media sites globally in 2023, DeepMedia estimates. Cloning a voice used to cost $10,000 in server and AI-training costs up until late last year, but now startups offer it for a few dollars, it says."
+publishedDateTime: 2023-05-30T12:00:00Z
+originalUrl: "https://www.stltoday.com/news/local/govt-and-politics/deepfaking-it-america-s-2024-election-collides-with-ai-boom/article_b70316d2-fedc-11ed-a3f4-0b01d695b844.html"
+webUrl: "https://www.stltoday.com/news/local/govt-and-politics/deepfaking-it-america-s-2024-election-collides-with-ai-boom/article_b70316d2-fedc-11ed-a3f4-0b01d695b844.html"
 type: article
-quality: 67
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/V474Hv7yJi3o6w7xd-EIB8vQRBw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3I5SDDPMVVIKRDYF7AD2ZM3CUI.jpg"
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/70/b70316d2-fedc-11ed-a3f4-0b01d695b844/6475e22fcc49b.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
-    height: 628
+    height: 630
     isCached: true
 
 related:
@@ -43,6 +40,6 @@ related:
         height: 675
         isCached: true
 
-secured: "O2Qwlc3mn94PCCHQBF8PEdxOkWJEE6mjQ/5dLisdyzrvqFv0n/ODn3Pr2ExtIqbiqCd/6+TU+24hr5WltQOQoMNgMLqZWzo41EhteC2nk8vUpyIY3f/6lWywKhLuGj2tQc0qXIcL7eenWifPSV8dlG6sJXbSKGpgeOi6gMjn3WQvoEtTNZUhXNGoHKsKsYqlgkCUStVA3tqPfOfRrOtSt3BIJ+8faqN8+6VlEkDgW+O5QxrbElr9XTM6OBZMhMX9aZ7b3l5mpXLBrKbKKyuNIny28Zo97ZwqC7oT2t0qbQqeO66fLxdFaVQSDVSmK9AmikCkXzcVs656G99RA26B7ZwKl2S3C9jS268ZZm5GBtnHsjSThk4Jk9zjVz6Ka0YBIJTuKXq3pqrSgSaUPCu3p/4lKTECv1NiSqfVxk/x8l62CMmAcqrgKWHFN+B0TghJgKHV9yidiH765ucPxz1EtJrJTj8k738zy+gEzA0pi2D73qNfvGEERthjQ00bcSgvSKH0a7RO/HTdmDQpBmiPNg==;2vHNghdafqZ3rQORnoSmUw=="
+secured: "WlbunlTrBtpkfO/Nyio5vV/IN7SiP0TrnB3ySy9557ogsseGdyRULQ/LvZfePukhNjg5OPjq93h3m6kAga1JQBti3oUdx6pCYMON/eJ7jb5WeeYYgBNFVFbqLFBsNzwrW+utnMchcJQlYlnK3T9UVSOCzmJPTpPdtnOHDZndQ2CdHDN2IAcrDBGoBPdnwvKOYweNV3fbFzfH8PRvW1YnP1OTQFtinb1jmMJ6lALoM7qoZu9a0irBaoDf8UieYwcL4oXJ5OET7ngYPISEIwKfh/SGXpDcCO6uPfRC4Du/QZ4fR/MR5V/DrAG45qdVOchMR1nESw8FzIeo6ehewilglM5OZWAdCCEMvbY5aHuiqas=;m+v1nqHoBsjvkd+wYrx80A=="
 ---
 

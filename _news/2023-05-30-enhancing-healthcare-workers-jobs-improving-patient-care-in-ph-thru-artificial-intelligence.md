@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Using Artificial Intelligence in the healthcare space"
+    excerpt: "Functional Medicine Expert, Dr. Cathleen Gerenger, and the CEO of My Wellness Reader, Gary Kiss, joined Gayle Guyardo, the host of the global health and wellness show, Bloom, to share more about"
+    publishedDateTime: 2023-05-29T18:30:00Z
+    webUrl: "https://www.wfla.com/bloom-tampa-bay/using-artificial-intelligence-in-the-healthcare-space/"
+    type: article
+    provider:
+      name: WFLA News Channel 8
+      domain: wfla.com
+    quality: 34
   - title: "Artificial Intelligence – a silver bullet to enhancing healthcare workers jobs and improving patient care in the Philippines"
     excerpt: "The pandemic spotlighted two big challenges in the Philippine healthcare system – long wait times and staff shortages. While we are gradually coming out of the pandemic, we are not free of these challenges."
     publishedDateTime: 2023-05-30T12:10:00Z

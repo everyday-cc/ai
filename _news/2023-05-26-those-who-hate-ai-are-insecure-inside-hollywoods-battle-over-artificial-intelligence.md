@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2023/may/26/hollywood-writers-st
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/may/26/hollywood-writers-strike-artificial-intelligence"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "The Oscar goes to ... HAL? Why AI is at center of Hollywood strike."
+    excerpt: "Striking screenwriters carry placards such as “Alexa will not replace us.” But if some view AI the way Sarah Connor in “The Terminator” did, others are embracing the technology."
+    publishedDateTime: 2023-05-30T17:33:00Z
+    webUrl: "https://www.csmonitor.com/The-Culture/2023/0530/The-Oscar-goes-to-HAL-Why-AI-is-at-center-of-Hollywood-strike"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 17
 
 secured: "0fQ95yqYJP+DDy4fl+Z1vDQ2UmrPY7IIh71BvVo0jBImaGhZ4Lm68QLy2KJ7S6BCCTmYqc/K9VMBVyZXCtgM72HHB3nmg6Ek1BofkV6yeSCBuhPPUrul2YabXKF5uqpqypDRgQ/SArABEw4ROU1s4rySKIqYezW3bnJ92l2+QOnE5Q+Z7I70Ebo3XLuTIOQEUV60yfi7A07hMi8yY+WJez8QtWKsa7oC3vM0OVYJGOZRXjl5x+87bNJvtUvs8n/Y5FZpWdbHaFX+jHrVf0m4rV38iEa3C5shpvzWlLTaBvEN+tEtre809yHJ7XX+f27I0SlUNIv17uPNOqQXwL2AviWVGrPYVJsvwR1F2WY4iyNcDuM2mMClXJoJwXH2/A1UCwpvS+nkWuf7DmpUmTjBYmf1MlRitWUN+QAW1KmioggLZf+UgqZp1hy9ctzmxkqUAFUCBqQ5WHZWvZsHpuOKVWG6SPClb9jjlKSc/00fnYJe340zO5Wg4aUjDx/atfRNlob86vAK8YInrHZaAvIA7g==;xHlzA33holQBL/uIzz/Zug=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd
 cdnAmpWebUrl: "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference/amp"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -66,6 +66,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "New Senior Team Members Strengthen IA Capital Group's Investment Focus at the Intersection of Health and Insurtech/Fintech"
+    excerpt: "A leader in Series A and B venture investments across North American insurtech and fintech, IA Capital is increasingly focused on insurtech/fintech startups with health-related data, analytics, AI and/or personalization capabilities."
+    publishedDateTime: 2023-05-30T18:12:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/30/9822905.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "KzUec5Y6gBD2RnH6yxh0ft/1yaGOGqy94KNmscFLiSQ6jYSo2KGR0KrUG28t5ktqltbuUmd+bMMA2vtNbwhqbJLPH2ZpBnysEpdxZFh64c29frOFosux/OJm9vIQBmmOlkcfc/YYuD24TQVpKQyiQ+RF0CZ4gyZURWxgIGE+gsVTml9S4hzR5O3kzx3CvqpNENIU6QZrqs1kKhjRlHMCvetZE6q197H0P814DcZOHLdk+BtLo25Q39FQfZTtsE2dmHd/HnMEZGfxaHZS2dvLMOaaOBbMrHZ7jAW4Grle5lbDjSenFQoqxgxtyXFxixSZKhQKUgqJyPRfXpSZczqQzUPdy+ZFyyeyWqpUpju6Mvg=;VefzVf3bYoO+RdLkR5rB6g=="
 ---

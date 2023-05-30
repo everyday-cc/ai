@@ -55,6 +55,20 @@ related:
         width: 986
         height: 555
         isCached: true
+  - title: "Hardware 4.0 spotted in Tesla Model Y, self-driving suite still unofficial"
+    excerpt: "The Tesla Model Y is getting Hardware 4.0, an upgraded version of the electric vehicle brand's sensor and software package"
+    publishedDateTime: 2023-05-30T20:27:00Z
+    webUrl: "https://www.cbtnews.com/hardware-4-0-spotted-in-tesla-model-y-self-driving-suite-still-unofficial/"
+    type: article
+    provider:
+      name: cbtnews
+      domain: cbtnews.com
+    quality: 37
+    images:
+      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/05/shutterstock_1349022629.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Tesla’s semi-autonomous Full Self-Driving software a step closer to Australia"
     excerpt: "Sleuths have discovered two Teslas in Australia with software that includes its Full Self-Driving software. Is a full rollout on the way?"
     publishedDateTime: 2023-05-26T05:28:00Z
@@ -78,7 +92,16 @@ related:
       name: MLive
       domain: mlive.com
     quality: 19
+  - title: "Tesla Driver Says Self-Driving Mode Crashed Her Car Into a Tree"
+    excerpt: "A Michigan woman was taken to the hospital after her Tesla reportedly self-crashed into a tree when in self-driving mode."
+    publishedDateTime: 2023-05-30T19:25:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-driver-self-driving-tree-crash"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 19
 
-secured: "JglsJR1W6h6BySVzh9GY2+NKE9jJnlGJTbr9SbmqBu9WbIkzO7PYE44txekVj+8qN0Y+sGnweLVCknMCVgP7N1bqwfHaOnxwSGguuw5zHERPnn5wjANAIWXvmOCkxrE+upRIxvMQfkCDOLk+7dDmJWALfE3kV5HQuZK0tinKOx0IAwR+9ubxMsLm6FDioYDoWe4i1DzJS07Fnlwpf8HM25AHm9McedMo+FiQAGIVONBs2DtZXZVypkG0Q37+B3GO2YLz8WLHFXIietgaxNR80YFvqizJo2G31ye4t2PTw7aV5/b7oUeUG/8OMUL5nccVtoL7/GCc+iQUCumPBZ9Fi3Ml75Zv0waeKua+857BRZ8=;gSh88U+cDhe1OchKESjfuw=="
+secured: "+gbZO1BwvFr2wy3s/zBZkUWDtQyX0IvD9EE8zVbAoIz7ecQcfpOK0w0ZmKUASHuqzwo7jdhfJgynyqrgYp9pUJ7cg+zGRarxFLoapMuwCrT5Oc1frX879dnYxc2wgS4zeCEw/VEg9ZzDnf7uzgGbfOTlvIuKrTeb4E0/njRECUWaGzSuiAcjHyyoLWrYGsdwPomD5C2ToA3vQRfAE/dmISZF3snSJrTCt3MnX/hmR2GAHTbL4BNgdH16sr1myPxky/VRkoctPUBl3G0lXGqxfko1QYLex2frUndu108IdFGdEeKpV47L1p1FtVrP6uXA/dyOtmbvNajy2sf8EZADcc9lhcbr6Il/DI4mociwHK4=;m+4gct2rALId8O8rz0Qe/w=="
 ---
 

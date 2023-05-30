@@ -49,15 +49,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Call Center AI Market is Anticipated to Secure US$ 6 Billion by 2032 | Future Market Insights, Inc."
-    excerpt: "The Call Center AI Market is poised to grow at a stable CAGR of 13.5%, reaching US$ 6 Billion by 2032 from US$ 1.3 Billion in 2021. Growing client involvement through social media platforms, as well as increased data collection through the Internet of Things (IoT),"
-    publishedDateTime: 2023-05-26T02:09:00Z
-    webUrl: "https://www.fmiblog.com/2023/05/26/call-center-ai-market-is-anticipated-to-secure-us-6-billion-by-2032-future-market-insights-inc/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 5
 
 secured: "wpfEX6RBu6kiJ3eRtLtiyf9qyRbhtEqhLxU/bnrJ1vwuky0M1PAtOr6ha3sVEVsFYA9f/pMZdrWNcK+D4yVsprRgvmz/s7s96kLYlg/tTVA+SC0vUHa+2aFjDL+7t15HnygFDb76vSThfhfq4uiNfHcsUHmvFvOttfxsaFweRUR/WRjbMzbUrq9DP/9BQnnu0UY+bovQd7iWXQYx0slv/w5FgHZQ3zE4qrgSBjuhus94BOVqo4v7IO6/TtKbyXkTXVHzm/Gey/etOV1R9RbbvZ7cldqYjQbTIleuYxC+RNsHTKf68cVcD6jm4wMkEgWfNsi3oNpBu1OHhnsZIolOE+x5bs+xrVPyyRVxyL5pZTw=;QbIbAwM634bj9yo0I0E0PA=="
 ---

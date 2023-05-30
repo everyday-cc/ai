@@ -36,20 +36,6 @@ related:
         width: 624
         height: 351
         isCached: true
-  - title: "Investing in AI: how to avoid the hype"
-    excerpt: "However, Porter also cautions that \"we are still very early on the use cases for AI.\" Dizzying valuations have made some investors wary of the technology hype cycle. This concept, popularised by consultancy Gartner,"
-    publishedDateTime: 2023-05-26T04:16:00Z
-    webUrl: "https://www.reuters.com/technology/investing-ai-how-avoid-hype-2023-05-26/?ref=biztoc.com"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/FSPUvb7djINBafN665jGm5-QZEM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6TIDCQXE4ZLHTGW3OELMLU5JIU.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Generative AI: How it Works, History, and Pros and Cons"
     excerpt: "Generative AI is used in everything from creative to academic writing and translation; composing ... in which prompts can be given and interactions can take place in plain language. Here are some of the most popular recent examples of generative AI ..."
     publishedDateTime: 2023-05-26T18:17:00Z

@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "It's Big-Cap AI Stocks Vs. Everything Else"
+    excerpt: "The biggest problem now is that the big-cap names are not acting as leaders. The celebration of a potential debt ceiling deal was a mixed affair. All the major indexes sold off after a gap-up open, and overall breadth was about 3,"
+    publishedDateTime: 2023-05-30T20:35:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/stocks/it-s-big-cap-ai-stocks-vs-everything-else-16124994"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 37
+    images:
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/8769f278-0507-11ec-b1fd-fd3daa580ac4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "X9w0J0iZnbVb9Np2OktzfWDJgStPJssHYZGDQx1+Se/8nuGrpIBlA84omXJ2kiJRON5NfAPpVVJV9ZXFRD1Wod3k5lMUmWY+oREgsx7LUwtx77M3gUbLy29YmWKvKJ+dwS420dzNvrolA0BuzdTCX41QuKE/kHrYQ4+VjfuxrPs8msJU0SDVIxP1eXwdKB02rlbm67vrMF0a/2Y8rDq4bND4Ck4MGiQHAxoYKE953RlsKFzWf7E96AeqG6fodxCC8+Lvh+c6NR4EUOq40fYI1HXXhjmUc8hBwqFL/SEVtSJzMr+lljyq7W/js7p8W1nXJExcHKNI5h2Df8JVGMj42ZNGkC88JHz4J7A9+wdnTWPghOImEUxrPGuDFkL0XtJMTxBTHZBNEhM3p+mLPXYCZzEUC9k5O6Hp+KlepH2ivrX5sq7omzEpVUSDjbAcYVm4o/vgtdUOGLc+8Qa69m79prCTkOKgAhgWSspYTmhWCPTLvPssB29mJ8qvKLvPI/8mkgo8gEaIG5zSvuxWEifHww==;1RKPfhM/K45W0fpmBVai/g=="
 ---

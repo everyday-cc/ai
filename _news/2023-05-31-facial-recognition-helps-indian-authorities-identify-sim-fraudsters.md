@@ -1,0 +1,56 @@
+---
+category: news
+title: "Facial recognition helps Indian authorities identify SIM fraudsters"
+excerpt: "The Department of Telecommunication (DoT) in the states of Bihar and Jharkhand found a total of 21,800 fraudulent SIM cards in April and May."
+publishedDateTime: 2023-05-30T20:29:00Z
+originalUrl: "https://www.biometricupdate.com/202305/facial-recognition-helps-indian-authorities-identify-sim-fraudsters"
+webUrl: "https://www.biometricupdate.com/202305/facial-recognition-helps-indian-authorities-identify-sim-fraudsters"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: Biometric Companies
+  domain: biometricupdate.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/05/01145840/shutterstock_524074843-scaled.jpg"
+    width: 2048
+    height: 1365
+    isCached: true
+
+related:
+  - title: "Deep learning helps in global estimation of phytoplankton pigment concentrations"
+    excerpt: "The community structure of phytoplankton can reflect changes in marine environment and help us understand driving factors behind ecological evolution. Quantifying pigment concentration in phytoplankton is crucial for comprehensive assessment of taxonomic classification and community structure."
+    publishedDateTime: 2023-05-30T14:29:00Z
+    webUrl: "https://phys.org/news/2023-05-deep-global-phytoplankton-pigment.html"
+    ampWebUrl: "https://phys.org/news/2023-05-deep-global-phytoplankton-pigment.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-deep-global-phytoplankton-pigment.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/plankton.jpg"
+        width: 1250
+        height: 1250
+        isCached: true
+  - title: "Reinventing Anti-Money Laundering: How Federated Learning Can Power Fund Diversion Detection And GDPR Compliance"
+    excerpt: "By integrating FML into their AML strategies, banks can enhance their ability to detect and prevent illicit activities and contribute to a secure global financial system."
+    publishedDateTime: 2023-05-30T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/30/reinventing-anti-money-laundering-how-federated-learning-can-power-fund-diversion-detection-and-gdpr-compliance/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 13
+
+secured: "l8VWCOMhFfJSauaGdPMXhtZd6zodrFXP82JU8qq0vn0QZ36OGOKPtWMp7TZQASrCf5LRV9v/Yb09DsSG2ISxlH8jH/Sjsxwb2rSpyXp1TNFV21/2+M4WKz6LSXE2qseh25gEJqLVdhDC7mcJOqY9nolhCxtVpd3BXAgFpAekHRSTHSDOt7baBBtKIOAWFDlHbNkq+vvOBNLprSlWryVDWY9MzYDBRM4J9SX0jjRUG5dRbtIBZoGep4hcKKElNIBrg9LTd/WtD530xhNS4reOtJ8eBpvjLAA033ekvsOPYXTKx/bZzKDgwq2O7AJvWvFpR8y+T6BxbxV787yoQ1+9wDl+oZKHpw2r+L6A3uPjrEg=;kOz+HcxRRBK0qNIToANLLQ=="
+---
+

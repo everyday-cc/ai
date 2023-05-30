@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/ai-bubble-retail-investors-are
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-bubble-retail-investors-arent-rushing-in-yet-c1a8a3ae"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://images.wsj.net/im-789009/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "It's Big-Cap AI Stocks Vs. Everything Else"
+    excerpt: "The biggest problem now is that the big-cap names are not acting as leaders. The celebration of a potential debt ceiling deal was a mixed affair. All the major indexes sold off after a gap-up open, and overall breadth was about 3,"
+    publishedDateTime: 2023-05-30T20:35:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/stocks/it-s-big-cap-ai-stocks-vs-everything-else-16124994"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 37
+    images:
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/8769f278-0507-11ec-b1fd-fd3daa580ac4.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "CQ05iZB77/sicQGWHhT1iNoM6Ep+t6XcYJr5S8eYgyeDGoy0ObtKMcKQhDSgmUmxEu5Ql8jk9bo4VjEtSZI2e+Jjby6FmiZje810qBfIwTpG+zgE/Y6B6yr2d+Ud2DjqAKlGFX0W/R7CG7jdaQQTTceios0L4jzu/e6fTZa51TNgK0yRV7YNYxBxksZ1Fcr8wsd6eSJuS4eAB7bDRQ5nPSDcTpiuaSlzp06cg2onYZnNbg7lkhl1qvr3V59Al8Rw2gLYul0DglMXEk9V09iGegkEB/D5hIwKf68uqY4SjHmaDrMEwQ0vpE9lBHfPee2fWNSi6PKpcTIVSD/pyk41eLbiJ1vMVMuZQ7hjS3L9vHo=;XTcc8/rJn6c494jsQtij8w=="

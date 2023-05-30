@@ -49,20 +49,6 @@ related:
         width: 1279
         height: 640
         isCached: true
-  - title: "Shares of Marvell jump sky-high as it forecasts AI chip revenue to double"
-    excerpt: "Marvell Technology Inc. topped expectations in its fiscal first-quarter financial results today and said it’s expecting revenue from artificial intelligence to at least double this year, sending its stock sky-high in extended trading."
-    publishedDateTime: 2023-05-26T01:19:00Z
-    webUrl: "https://siliconangle.com/2023/05/25/shares-marvell-jump-sky-high-forecasts-ai-chip-revenue-double/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 53
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/murphy-mattmarvell_1200xx7418-4180-0-0.jpg"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "Wba3AwNQoNPaaC/fp0o7J7IP78+GD2j3FXM6Fk2hDTcsAq3sb5adinJd++1HCE+A0iOJazPJkR2go79QL89uZEcIfbOpwCxzDQgdC1HbMQrRZK4LWcswn2rs7ILrIpv+o+9MvJI39S/MYvZZRc5TmHOnkBTtCyQ81q62gsvQ4Q2yWMjvP2ymuWMEiqlA+BE4Av48hHLq2nPaODweUSWDKriLxrcmhdISHmnoO48w4aLjKZC1YffWsliyRUJ7PD5MOaEnxHpRDW2u4Nujn8LcYSB6deuReuopk7REyD7xqXMLfFs6Q8h3Ha+SWxWS2qOd/5yH+nRhCwUjilYbqhFisPdwne5oS0XA1Yt0OUDRvbIRSnxJNNDHyliZR1pM8amsxGmrNSPFVFbs9FZpBbgmkVzrV0V3V9Qoymi9Sr/ToU9FTysZx8ErpG7KKqfhe5zHo1iUuHH7OyzAAuLqJlh/0wYPn3kYv8d6mk8DjwUqEnCg1Ts5r+Un6Q4PkMwmYokQAiVJmDGmCz6p9E8wxChE5A==;y3jQMIM373v4sCNdAh9e5g=="
 ---

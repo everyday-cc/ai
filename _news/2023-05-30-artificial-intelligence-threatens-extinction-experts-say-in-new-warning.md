@@ -1,21 +1,20 @@
 ---
 category: news
 title: "Artificial intelligence threatens extinction, experts say in new warning"
-excerpt: "The CEO of ChatGPT maker OpenAI and Geoffrey Hinton, a computer scientist known as the godfather of artificial intelligence, were among the hundreds who signed the statement."
-publishedDateTime: 2023-05-30T13:52:00Z
-originalUrl: "https://www.wtoc.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/"
-webUrl: "https://www.wtoc.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/"
+excerpt: "Scientists and tech industry leaders have issued a new warning about the perils that artificial intelligence poses to humankind. The statement posted online Tuesday says that “mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war."
+publishedDateTime: 2023-05-30T13:28:00Z
+originalUrl: "https://apnews.com/article/artificial-intelligence-risk-of-extinction-ai-54ea8aadc60d1503e5a65878219aad43"
+webUrl: "https://apnews.com/article/artificial-intelligence-risk-of-extinction-ai-54ea8aadc60d1503e5a65878219aad43"
 type: article
-quality: 18
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: WTOC-TV
-  domain: wtoc.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 related:
@@ -51,6 +50,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI Could Cause Human ‘Extinction,’ Tech Leaders Warn"
+    excerpt: "The statement was published by the U.S.-based nonprofit the Center for AI Safety, which works to reduce society-level risks associated with AI by conducting safety research and advocating ... AI and the parent company of Facebook, WhatsApp and Instagram ..."
+    publishedDateTime: 2023-05-30T13:53:00Z
+    webUrl: "https://www.forbes.com/sites/roberthart/2023/05/30/ai-could-cause-human-extinction-tech-leaders-warn/"
+    ampWebUrl: "https://www.forbes.com/sites/roberthart/2023/05/30/ai-could-cause-human-extinction-tech-leaders-warn/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2023/05/30/ai-could-cause-human-extinction-tech-leaders-warn/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6475f0913ec5532ebf996725/0x0.jpg?format=jpg&crop=1643,924,x0,y45,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial intelligence poses 'extinction' risk bosses of top firms warn"
     excerpt: "Artificial intelligence could lead to the extinction of humanity, experts including the heads of OpenAI and Google Deepmind warn. Dozens have supported a statement published on the webpage of the Centre for AI Safety ."
     publishedDateTime: 2023-05-30T11:07:00Z
@@ -82,22 +97,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/18178/production/_129908689_index-pic_sam_altman_getty.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-    excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
-    publishedDateTime: 2023-05-30T16:38:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692487"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692487"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692487"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 69
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_54ea8aadc60d1503e5a65878219aad43_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "AI Industry Leaders Sign Statement Warning of 'Extinction' Level Risks"
     excerpt: "The statement, signed by OpenAI CEO Sam Altman and DeepMind CEO Demis Hassabis, says mitigating the risks of AI should be a global priority."
@@ -136,22 +135,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 64
-  - title: "Artificial intelligence threatens extinction, experts say in new warning"
-    excerpt: "The CEO of ChatGPT maker OpenAI and Geoffrey Hinton, a computer scientist known as the godfather of artificial intelligence, were among the hundreds who signed the statement."
-    publishedDateTime: 2023-05-30T17:51:00Z
-    webUrl: "https://www.wabi.tv/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/"
-    ampWebUrl: "https://www.wabi.tv/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wabi-tv.cdn.ampproject.org/c/s/www.wabi.tv/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/?outputType=amp"
-    type: article
-    provider:
-      name: WABI-TV
-      domain: wabi.tv
-    quality: 58
-    images:
-      - url: "https://gray-wabi-prod.cdn.arcpublishing.com/resizer/m_XtCz8LtSk_EbNzADPy09E3XaU=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/ZQ3HWNZJKFHT7C4QGV4S3BSPFQ.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Risk of extinction by AI should be global priority, say experts"
     excerpt: "Hundreds of tech leaders call for world to treat AI as danger on par with pandemics and nuclear war"
     publishedDateTime: 2023-05-30T16:10:00Z
@@ -217,9 +200,9 @@ related:
   - title: "AI could pose \"risk of extinction\" akin to nuclear war and pandemics, experts say"
     excerpt: "Leaders from OpenAI, Google and others involved in artificial intelligence are warning about its potential for societal harm."
     publishedDateTime: 2023-05-30T16:44:00Z
-    webUrl: "https://www.cbsnews.com/news/ai-risk-of-extinction-warning/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/ai-risk-of-extinction-warning/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-risk-of-extinction-warning/"
+    webUrl: "https://www.cbsnews.com/miami/news/ai-risk-of-extinction-warning/"
+    ampWebUrl: "https://www.cbsnews.com/amp/miami/news/ai-risk-of-extinction-warning/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/ai-risk-of-extinction-warning/"
     type: article
     provider:
       name: CBS News
@@ -229,6 +212,20 @@ related:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/30/b6bee73f-614d-4bf4-9c9c-236b40f793e1/thumbnail/1200x630/b67df9a2ab281f01fdb948a3e3cbd506/gettyimages-1257903926.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial intelligence raises risk of extinction, experts warn"
+    excerpt: "Hundreds of leading figures have signed a statement saying it should be a global priority to address what AI is capable of before it's out of control."
+    publishedDateTime: 2023-05-30T21:14:00Z
+    webUrl: "https://www.pressherald.com/2023/05/30/artificial-intelligence-raises-risk-of-extinction-experts-warn/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 52
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/4/2023/05/AP23122568029558-1685481267-1024x682.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Top AI CEOs, experts raise 'risk of extinction' from AI"
     excerpt: "AI pioneer Hinton earlier told Reuters that AI could pose a ... Technologycategory China, South Korea agree to strengthen talks on chip industry, Chinese commerce ministry says May 27, 2023 Technologycategory China urges Japan to halt export restrictions ..."
@@ -273,6 +270,24 @@ related:
       name: Time
       domain: time.com
     quality: 42
+  - title: "Artificial Intelligence Raises Risk of Extinction, Experts Say in New Warning"
+    excerpt: "Scientists and tech industry leaders have issued a new warning about the perils that artificial intelligence poses to humankind."
+    publishedDateTime: 2023-05-30T13:24:00Z
+    webUrl: "https://www.nbcdfw.com/news/national-international/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/3267698/"
+    type: article
+    provider:
+      name: NBC DFW
+      domain: nbcdfw.com
+    quality: 31
+  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
+    excerpt: "Scientists and tech industry leaders, including high-level executives at Microsoft and Google, issued a new warning Tuesday about the perils that artificial intelligence poses to humankind."
+    publishedDateTime: 2023-05-30T17:09:00Z
+    webUrl: "https://thehill.com/homenews/ap/ap-business/ap-artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 31
   - title: "Eminent AI experts and corporate heads caution about the probability of ‘extinction risk’"
     excerpt: "Renowned figures in the technology industry, including the leaders of OpenAI and Google Deepmind, have issued a warning about the potential dangers associated"
     publishedDateTime: 2023-05-30T14:37:00Z
@@ -310,6 +325,24 @@ related:
       name: 9to5Mac
       domain: 9to5mac.com
     quality: 19
+  - title: "AI Leaders Warn of ‘Risk of Extinction’"
+    excerpt: "In an era marked by rapid technological advancements, the ascension of artificial intelligence (AI) stands at the forefront of innovation. However, this same marvel of human intellect that drives progress and convenience is also raising existential concerns for the future of humanity,"
+    publishedDateTime: 2023-05-30T19:39:00Z
+    webUrl: "https://www.unite.ai/ai-leaders-warn-of-risk-of-extinction/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 19
+  - title: "Artificial intelligence threatens extinction, experts say in new warning"
+    excerpt: "The CEO of ChatGPT maker OpenAI and Geoffrey Hinton, a computer scientist known as the godfather of artificial intelligence, were among the hundreds who signed the statement."
+    publishedDateTime: 2023-05-30T18:53:00Z
+    webUrl: "https://www.knoe.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/"
+    type: article
+    provider:
+      name: KNOE
+      domain: knoe.com
+    quality: 18
   - title: "AI Industry Leaders Issue Stark Warning on ‘Risk of Extinction’"
     excerpt: "More than 350 top researchers and executives signed a dire one-sentence statement on the dangers of unconstrained artificial intelligence."
     publishedDateTime: 2023-05-30T11:20:00Z
@@ -319,7 +352,16 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 17
+  - title: "Human Extinction From AI is Possible, Developers Warn"
+    excerpt: "\"AGI fear-mongering is overhyped, toxic, likely to lead to regulatory capture by incumbents, and can slow down or hinder the positive applications of AI across society including biological science and medicine,\" he Tweeted ."
+    publishedDateTime: 2023-05-30T20:41:00Z
+    webUrl: "https://www.thestreet.com/technology/human-extinction-from-ai-is-possible-developers-warn"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 17
 
-secured: "Lvvl9nWCmeI2LV+jPfGUvst4eKWZjoswGHsLXOVq2YaG63D9ExFT+jUiXtUhng7Vgo38fryU7QkpxX9jq2zlrPzfEVydQo4FbIQlN6F76gSsSCJnM/NmwXSEHtI1iix+PzNtChpHHZatBMaqEDUfutBoe7jyj5lgFvIDbq+2AdP/ApmSNTjZgWREDAMcHbUsifv4agti4v4dDj8nPDc3NPaDdS+M2tUkmQiNr73Jha/z2ruFCNQtHgyMz0relVXfa1bXQFnMuBVWNYCLQipYQ+ZUnh0/pNPqJI0KhYbTW2fhIau4RciTIrg17GihtllbZ6uODriZwujSqmh0kMAOHmJKL9OIp/3qmKeQBz4kkxcDRFcdYpJshq553JQSv1Nb645z3ttOoRXYhbtZsuxLWJbVad/46kXAUyuJ0b4zyLJRI4lg1j5ph+MrNzdTcHOO3Ec6gXo6y2X0M3bS9MBhXgNj6CNvj1jXQReA30aFAvfTx3YgTt2VHWDM7/27VQNC2FO4yWJFxGFaM82eXMYxww==;Q7i30K4DMlyFK23FR4sXKA=="
+secured: "Hr9y8hEs6bf+Dg9kf0PgfDqRJtzOPZ9cLe/uQM49AfGvKUAZHvC2TXjhS/wpTtx/9sOeHzke7UCb/lrDd+7158f25SqTO9UazlkVMVnMtd3cUlQ/Fl5j4B3FuYbuaIFpom4L7uEqKi9cRVHSl5LUD2HF1+eDuWDsImXPL+QVeIq8niNRYYtOithq4TjfZHZCAbkH+F2WTX/gRee9BHHF2IbDtKJoRvbkSPTa3McC9yqaoz0RubmJ1vwHVV2nQDZp1b2SlfBOmFqAD7oYk9I0uIyF/98F88QVnQSOr7tvJ7HQvZjA74ai1pY7xu6CrMfblY489X7f9e55jyuMT1LlvyYX3Ic29ze4z48nFkow9/DalSHq4lYpT7i1BQclhjZdid1mYPoaYuZqthirBi3P4NAvAndtlmW88eX0lnYzI3r1V5peCVxrIleTPMyrPNmS6DdkG0rGY/S79n1DuaqRlBgLtSsJhlXRUshblgpE4AuhejZtFg+7iV8mq0miG3EBbBUdvQvTiKQA1iBPBO7SBA==;ZZ7F/QAUWwfmUui6l5gNuA=="
 ---
 

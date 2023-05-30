@@ -108,6 +108,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "A lawyer used ChatGPT to cite bogus cases. What are the ethics?"
+    excerpt: "A New York lawyer is facing potential sanctions over an error-riddled brief he drafted with help from ChatGPT."
+    publishedDateTime: 2023-05-30T18:46:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/lawyer-used-chatgpt-cite-bogus-cases-what-are-ethics-2023-05-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/_5viwYdgAYqzIa9RsQKeRVtZJGU=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZGSQRA7Y2JNLBOEYBWCKD3FTZM.jpg"
+        width: 728
+        height: 381
+        isCached: true
   - title: "ChatGPT takes center stage as students ditch tutors in favor of AI-powered learning"
     excerpt: "The findings show many students and parents using ChatGPT, with some completely replacing their tutoring sessions with the AI tool."
     publishedDateTime: 2023-05-29T16:33:00Z
@@ -165,6 +179,20 @@ related:
       - url: "https://s.abcnews.com/images/US/wirestory_73ff96c6571f38ad5fd68b3072722790_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Chat-powered AI boom is helping rewrite the winners and losers of the chip market"
+    excerpt: "Intel's foundry transition continues to be a slow and pock-marked affair with several partners either pulling out of or pausing previous commitments according"
+    publishedDateTime: 2023-05-30T20:41:00Z
+    webUrl: "https://www.onmsft.com/news/chat-powered-ai-boom-is-helping-rewrite-the-winners-and-losers-of-the-chip-market/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 49
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/05/Intel-vs.-NVIDIA-Chipmakers-Bing-Image-Creator.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Your next job may depend on how well you understand AI tools like ChatGPT"
     excerpt: "AI is posing a threat to job security, but workers may need to get acquainted with tools like ChatGPT as fast they can to remain employable."
@@ -225,6 +253,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
+  - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
+    publishedDateTime: 2023-05-30T17:30:00Z
+    webUrl: "https://www.businessinsider.com/chaptgt-generative-ai-financial-services-whats-next-reality-hype-2023-may"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
   - title: "We can’t put the ChatGPT AI genie back in the bottle, even if it means risking extinction"
     excerpt: "Top AI researchers sign 22-word \"risk of extinction\" warning - but I think we can't afford to put ChatGPT back in the box."
     publishedDateTime: 2023-05-30T14:47:00Z
@@ -239,6 +276,24 @@ related:
         width: 2000
         height: 1330
         isCached: true
+  - title: "How Could ChatGPT and Artificial Intelligence Impact the Economy?"
+    excerpt: "ChatGPT, the first artificial intelligence app developed by OpenAI, has already created sweeping changes in certain industries. Publishers are laying down standards for AI use for writers -- or,"
+    publishedDateTime: 2023-05-30T17:32:00Z
+    webUrl: "https://www.aol.com/finance/could-chatgpt-artificial-intelligence-impact-173250399.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 21
+  - title: "Albany software company launches AI content platform to compete with ChatGPT"
+    excerpt: "An Albany-based software company has launched an artificial intelligence product that intends to compete with the likes of ChatGPT."
+    publishedDateTime: 2023-05-30T21:18:00Z
+    webUrl: "https://www.bizjournals.com/albany/inno/stories/news/2023/05/30/nowigence-lille-artificial-intelligence-chatgpt.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 14
   - title: "South Korea’s Naver to target foreign governments with latest ChatGPT-like AI model"
     excerpt: "South Korea’s Naver to target foreign governments with latest ChatGPT-like AI model on linkedin (opens in a new window)"
     publishedDateTime: 2023-05-28T04:01:00Z
@@ -249,6 +304,6 @@ related:
       domain: ft.com
     quality: 11
 
-secured: "cOgjB1luiQQ+S49J9f4PURINS5QSWeNJ9WbTPoEessXtPOrKNjwUW+0p8ywTPDa7RvBA4GcZT1XhrDyIUTlJ1yVKnWgbxuBbvSDIT5CUlDUgnPSiHbdB9CQCsHrz9iX2ZHH4QA/zZewc5r5QQCeDM1sf/wD7eDzRrRC1/TpgMEBVUHcMZ9zlo+OTXlLIRWc7PUjh0vHCVY0XojMXXENBLfmkKtTmBin/5J7PdcW2o1MHmvVyPlaHNplgyYJYpuw5S/7W2MkuQiDgZIDhzsLQvsLeIw12CVElm+1y884BwNArC1v+xx40fZrYZyH4hHrRKc6ZF2eXxLqOt6Kd/NvYVZzHzvvDv3kXE8j7ERSXCEU=;pwkaGzsz1wqeAosTjKv7rw=="
+secured: "z2kfmDmviBbUzv8EG4W5UVtk8O+FdeXag4yXV6q9/YLM7Rt2E0MGNzQTYXbAjSi7pst1dzNS6dIY97ukJNmADMLEoQghGfaTWYZ69by2uH60lSNuIwWKJfXinP5YZNaROCnhUPhNpJPj+nos+IxcNYqdWwyP6+tORGXqX8+44LuYJEF74SsZXqMr87lYR/aAAVcpZY/p9ez7Ma5TAnWnBASrK8tshpIbmiAZmggcGqT6VkfSfMCAgxHjyG6t3slFWmFeOkEYZJSglCR6dlkHyPjhNyt6xdP8jnZCfS491hf9kEYpYA1fwuRfITK/ybxWMxxFrlyel+v9RptdotxHibP8cIKD1iHnaJnTo+WE/eCUd4MqwqFNbcywdFZhU6ALTk5mhv44ixkNXpdttdCu630YPljFH18M3CRGJbrfXTOftx3iKnp2LhtStGqB/a6+jkCSYl+BH4RMJHInnat4ev07iGkpT4BpKY+lwUoINHV/HiXB6lG3ngsgLd6okBkQj7uOwPOXClG2tp+yt8w9jA==;d/ZC4JnfrqkxqoM/SO45yQ=="
 ---
 

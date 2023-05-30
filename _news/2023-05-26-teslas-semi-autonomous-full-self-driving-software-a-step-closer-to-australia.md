@@ -69,6 +69,20 @@ related:
         width: 986
         height: 555
         isCached: true
+  - title: "Hardware 4.0 spotted in Tesla Model Y, self-driving suite still unofficial"
+    excerpt: "The Tesla Model Y is getting Hardware 4.0, an upgraded version of the electric vehicle brand's sensor and software package"
+    publishedDateTime: 2023-05-30T20:27:00Z
+    webUrl: "https://www.cbtnews.com/hardware-4-0-spotted-in-tesla-model-y-self-driving-suite-still-unofficial/"
+    type: article
+    provider:
+      name: cbtnews
+      domain: cbtnews.com
+    quality: 37
+    images:
+      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/05/shutterstock_1349022629.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Michigan woman hospitalized after self-driving Tesla crashes into tree"
     excerpt: "An Ottawa County woman wound up in the hospital Sunday, May 28, 2023, after she put her Tesla into self-driving mode and the car veered off the roadway, rolled several times and hit a tree, according to Mecosta County Sheriff's office. (MLive file photo)"
     publishedDateTime: 2023-05-29T13:03:00Z
@@ -77,6 +91,15 @@ related:
     provider:
       name: MLive
       domain: mlive.com
+    quality: 19
+  - title: "Tesla Driver Says Self-Driving Mode Crashed Her Car Into a Tree"
+    excerpt: "A Michigan woman was taken to the hospital after her Tesla reportedly self-crashed into a tree when in self-driving mode."
+    publishedDateTime: 2023-05-30T19:25:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-driver-self-driving-tree-crash"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
     quality: 19
 
 secured: "IN+xRVUXO5zEsC1PFnOdlq7qb3g+PIf/BQnZcB6PwnEHyiCV0cE5LgGfERqZgAb+SnHEVz05xIpzj3FMyDbTfNUaZnL2gMfsgNFB7/2eFOIlwbux2323S6OYqOiiWqVJwdIKD6l0WIJWb6ec1Z9nKU1gp0peiC3MK9r48XBnJ/sIfSiOc1axbYFxWJKFNHI0YfhIi0p2B4HWgHlb0L2PRSpVsSrOOeBPfql/uvL7mAKSnbkYIC6zQkN8wQUxuMtC9U5+O2uc+JlseRMx/57zAdecR8rGt/ZwGsF9UNodSPsGyUldcFI5H2RKWJ30T88ZfAsHREgouA68TX0DN3xcEu5K6/56qIlfLMM2wv+wEus=;28rONsqCJj0yZdqUkJqEaA=="
