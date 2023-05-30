@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 562
         isCached: true
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs."
-    publishedDateTime: 2023-05-25T14:50:00Z
-    webUrl: "https://techcrunch.com/2023/05/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/05/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "5 Artificial Intelligence Use Cases More Promising Than ChatGPT"
     excerpt: "Spending on AI-centric systems will exceed a staggering $300 billion by 2026. Here are five use cases more promising than ChatGPT you may not be aware of."
     publishedDateTime: 2023-05-25T16:20:00Z
@@ -154,22 +138,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/05/jp-morgan-file-gty-ml-200908_1599583350520_hpMain_16x9_992.jpeg?w=1200&strip=all"
         width: 992
         height: 558
-        isCached: true
-  - title: "ChatGPT-maker warns it might leave EU over planned AI law"
-    excerpt: "He also met Prime Minister Rishi Sunak and the heads of AI companies DeepMind and Anthropic to discuss the technology's risks - from disinformation to national security and even \""
-    publishedDateTime: 2023-05-25T13:11:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-65708114?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-65708114.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65708114.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/96F6/production/_129864683_gettyimages-1490689874.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "OpenAI boss downplays fears ChatGPT maker could leave Europe over AI rules"
     excerpt: "OpenAI CEO Sam Altman is downplaying worries that the ChatGPT maker could exit the European Union if it can’t comply with the bloc’s strict new artificial intelligence rules"

@@ -58,20 +58,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Microsoft Calls for a New US Agency and Licensing for AI"
-    excerpt: "Microsoft Corp. is calling for a new US agency to regulate artificial intelligence and licensing requirements to operate the most powerful AI tools, company President Brad Smith said Thursday."
-    publishedDateTime: 2023-05-25T13:35:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-25/microsoft-calls-for-new-us-agency-and-licensing-for-ai-tools"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUbotLOGsgFM/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft: We Need a New Government Agency to Regulate AI"
     excerpt: "The company also calls for governments to implement a licensing system to ensure companies deploy 'highly capable AI' models responsibly."
     publishedDateTime: 2023-05-25T19:47:00Z
@@ -134,15 +120,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 62
-  - title: "Microsoft Chief Calls for Humans to Rule AI, Safeguard Critical Infrastructure"
-    excerpt: "In short, we must always ensure that AI remains under human control,\" he wrote ... Last week, Sam Altman, CEO of OpenAI, the startup behind ChatGPT, told a Senate panel in his first appearance before Congress that use of artificial intelligence to ..."
-    publishedDateTime: 2023-05-25T13:21:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-05-25/microsoft-chief-calls-for-humans-to-rule-ai-safeguard-critical-infrastructure"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 60
   - title: "NVIDIA is upgrading the in-car experience with AI, streaming, and advanced safety features"
     excerpt: "NVIDIA revealed a new partnership Monday with Taiwanese semiconductor giant MediaTek to enhance the in-car driver experience and make"
     publishedDateTime: 2023-05-29T16:43:00Z
@@ -197,20 +174,6 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/3e86f7e036a8aebbe5b8d2829f5091ef.jpg?t=20230526_013346"
         width: 752
         height: 408
-        isCached: true
-  - title: "Microsoft outlines how to build AI apps and copilots at Build 2023"
-    excerpt: "If you are interested in learning more about building artificial intelligence applications and copilots using Microsoft technologies. You will be"
-    publishedDateTime: 2023-05-25T13:12:00Z
-    webUrl: "https://www.geeky-gadgets.com/build-ai-apps-and-copilots-25-05-2023/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/how-to-build-AI-apps-and-copilots.jpg"
-        width: 700
-        height: 489
         isCached: true
   - title: "AI future depends on semiconductor chips from companies like Nvidia"
     excerpt: "First, it was electronics — then it was cars — and now it's AI: The semiconductor chip is entering a new stratospheric phase."

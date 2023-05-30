@@ -28,19 +28,47 @@ images:
     isCached: true
 
 related:
-  - title: "AI is transformative – but ethics must come first"
-    excerpt: "By prioritising responsible AI, companies create trust in AI both internally and externally, making it easier to scale AI systems with confidence."
-    publishedDateTime: 2023-05-29T10:01:00Z
-    webUrl: "https://techcentral.co.za/ai-is-transformative-but-ethics-must-come-first-fnbprom/226270/"
+  - title: "How the generative AI boom could deliver a wave of successful businesses"
+    excerpt: "Where generative AI startups can start if they want to turn the short-term generative AI hype into long-term growth."
+    publishedDateTime: 2023-05-27T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/"
     type: article
     provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 68
     images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2023/04/mark-nasila-1500-800.jpg"
-        width: 1500
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_567557479.jpeg?w=1200&strip=all"
+        width: 1200
         height: 800
+        isCached: true
+  - title: "Where Memory Ends and Generative AI Begins"
+    excerpt: "New photo manipulation tools from Google and Adobe are blurring the lines between real memories and those dreamed up by AI."
+    publishedDateTime: 2023-05-26T10:00:00Z
+    webUrl: "https://www.wired.com/story/where-memory-ends-and-generative-ai-begins/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/646ff414d96882f74caa3dc7/191:100/w_1280,c_limit/Where-Memory-Ends-and-Generative-AI-Begins-Gear-GettyImages-690638821.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "How the rise of generative AI could kill the metaverse — or save it"
+    excerpt: "Will generative AI kill the metaverse? Maybe, maybe not. How their combination could build a dynamic digital future."
+    publishedDateTime: 2023-05-28T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-the-rise-of-generative-ai-could-kill-the-metaverse-or-save-it/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/annevb_yelling_into_the_darkness_for_help._Mayday._colorful_tec_736eb19e-1e98-40fa-92cc-613825810f1f.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "XQqQGh5KLVDu1WpqDH4PCSQXumMSnVia7duavejoM1KAoUghmj6CFGEiGHppm3k9TfUDMI1A/wwAz9XzEwaeJGrYOooYXuWVn1GWJQSRgZIdmAE1XPAUXrcPP6dJUS9HcaW8i7l9lPFFQcwKnaWdyO7Z0iabb1SZ73qB8S9bG/a7OhYDps1FiXSINOAp96cPODpnH6qjlJ1SrmDDa6NCmTpov/o1r6/INCJvKYvFm0yhGcgdviGrhaoxmg2qsbG5ME6+1KJ5GaofGuFA/MdHl1zjIfaqe+ncdSVS3NMi45z5WUtf1jqWeTFXxhoeLPfr9EYebCeaGsHCyyeLySYmfqNwj/4iQ4sOw9NY/TBKu2PKHOcer5BviRYoFygHczCEP7hW/xMHEJQBgcdNlC8YMElOaw8dx4qXFcts1te68vlo2AeXq8HPziCDH9wLZF93yYREtwKsbNbzaowMEt2T7vlAcK2L43S2LyYANV8a0dfJcC4kccHeVvoMEwY1MvePlNUmdmB97MzdUaIQmhlybg==;508Pc+kfoW4OVqPCyPHr/g=="

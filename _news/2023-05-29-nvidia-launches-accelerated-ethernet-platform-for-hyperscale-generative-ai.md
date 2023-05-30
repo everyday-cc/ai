@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia Hints At Upcoming AI-Focused Spectrum-4 Ethernet"
-    excerpt: "It is no surprise at all that Nvidia’s datacenter business is making money hang over fist right now as generative AI makes machine learning a household"
-    publishedDateTime: 2023-05-25T14:34:00Z
-    webUrl: "https://www.nextplatform.com/2023/05/25/nvidia-hints-at-upcoming-ai-focused-spectrum-4-ethernet/"
-    ampWebUrl: "https://www.nextplatform.com/2023/05/25/nvidia-hints-at-upcoming-ai-focused-spectrum-4-ethernet/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/05/25/nvidia-hints-at-upcoming-ai-focused-spectrum-4-ethernet/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2022/04/nvidia-spectrum-4-logo.jpg"
-        width: 1076
-        height: 541
-        isCached: true
 
 secured: "brBOStBwZBwVPWP59FuroQpIjKeM/cioMdIp1CoXzCXX4nidtmRx8335fQeyalqqeeibRL4usdkIkyZn4fGm/aQPuJ2hYzcQqElGEEW6Q8q8J4cxMTxfvykdLNFG3AKLr4MPXR23u6zusGGr4/z80tRvgmUtTs4KB1pH5bjFCoOqSzQvlSMUG0J8vXM5vachayxuY3668Rejcwmt+TnrM2w1c47IN/wBKuYEyNrX67+nHVDmklkeDhts1SKhwNZoMVozalioCpskZpryQFdPp4euOXq8tTA0/k7r+124BmByBcqotiPaSM5BqpDu25NYT6BbmzIyWLQdesOXmwa6oKfBnK4GD4AVg7K69VM8dBQ=;1nfxzr1BM/hVavmZcIOmSw=="
 ---

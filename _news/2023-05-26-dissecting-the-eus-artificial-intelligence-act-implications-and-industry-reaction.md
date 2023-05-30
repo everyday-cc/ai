@@ -25,31 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Conversational AI’s advancement and its implications on our lives"
-    excerpt: "Conversational AI has transformed the landscape of customer service and support. With intelligent voice bots, businesses can provide round-the-clock assistance, instant responses, and personalized interactions."
-    publishedDateTime: 2023-05-28T06:29:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/lite/"
+  - title: "AI And Robots Enter The Toolbox Of The Construction Industry"
+    excerpt: "The construction and development sector is embracing artificial intelligence and robotics to combat labor shortages and attract young talent."
+    publishedDateTime: 2023-05-26T00:46:00Z
+    webUrl: "https://www.bisnow.com/south-florida/news/construction-development/ai-robots-enter-the-toolbox-of-the-construction-industry-119127"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
+      name: Bisnow
+      domain: bisnow.com
+    quality: 54
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/Untitled-design56.jpg"
+      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2023%2F05%2F646fc0a3df998-asi-cymba-brandon-spirk-jay-fayette-russ-beck-brad-meltzer-daniell-odess.jpeg&width=1200&sign=RBzGQ2khF0_DQBwgY3jhPTdbwKwCxZWm6sXam5S2PgE"
         width: 1200
-        height: 675
+        height: 819
         isCached: true
-  - title: "US Updates National AI Strategy And Calls For Public Input"
-    excerpt: "The White House released an update outlining the Biden-Harris administration's latest initiatives in formulating the national AI strategy, AI policies, and AI regulation."
-    publishedDateTime: 2023-05-29T12:20:00Z
-    webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/05/29/us-updates-national-ai-strategy-and-calls-for-public-input/"
+  - title: "How can SaaS, AI, and computer vision digitize the retail industry"
+    excerpt: "Microsoft for Startups talkings about latest digitization trends in the retail and consumer industry with several start-up execs."
+    publishedDateTime: 2023-05-26T03:05:00Z
+    webUrl: "https://technode.com/2023/05/26/how-can-saas-ai-and-computer-vision-digitize-the-retail-industry/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: TechNode
+      domain: technode.com
+    quality: 54
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/05/26327327-scaled-e1685001063413.jpg"
+        width: 2560
+        height: 1542
+        isCached: true
 
 secured: "B07eCyFxXxmT8RRWvWn8EiziUpJOlphXIpk6SskmxOZfapuADGQyoTIHaplpA3E6nBAa+mckel/8Wt5deLEJgVo4BA+5eAYs5ur5TMJVIBzw1LNdR7d8Yp8S2hJ2elQ6xGt+H8YyWS0jEkXyEk04hiH8dyo8vrXh6PSpJSsRIT7DVsiQjikR8iwuq9+vlaTW2SrGSN50wrTcJxkm+xXoP1+7xNFnXyU5+caRrxRzI+bjPACFxkrj6zgUF0MAGT4YHdGMrFqbLn05L71U6nNwNDHJtxxktsF//s5iK7t/NvlHOcqUZruzutWulgAW7mwvsmGA+BMj5FYLPlKn1h1OPwk3+9XMraScaWWCg1hK7Ts=;1cL0ONPt1z3vKpVCSEJAhQ=="
 ---

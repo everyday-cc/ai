@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-cus
 webUrl: "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: VentureBeat
@@ -28,119 +28,66 @@ images:
     isCached: true
 
 related:
-  - title: "3 new ways generative AI can help you search"
-    excerpt: "Today, we’re starting to open up access to SGE (Search Generative Experience), one of our first experiments in Search Labs."
-    publishedDateTime: 2023-05-25T15:00:00Z
-    webUrl: "https://blog.google/products/search/search-generative-ai-tips/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 89
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/io23_BlogPostHero_Full_size_RUAz0GV.width-1300.jpg"
-        width: 1300
-        height: 541
-        isCached: true
-  - title: "Meet Aria: Opera's new built-in generative AI assistant"
-    excerpt: "Aria joins ChatGPT, Facebook Messenger, TikTok, and WhatsApp on the Opera browser sidebar, as the company's own, natively built-in generative AI assistant. The new assistant has access to the internet, so its knowledge is not limited to content before 2021, like the free version of ChatGPT, though the ChatGPT Plus version will differ."
-    publishedDateTime: 2023-05-25T14:49:00Z
-    webUrl: "https://www.zdnet.com/article/meet-aria-operas-new-built-in-generative-ai-assistant/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/meet-aria-operas-new-built-in-generative-ai-assistant/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meet-aria-operas-new-built-in-generative-ai-assistant/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/88280eaa243ed68b15169f1f8e362bcddd6ae1b8/2023/05/25/4f1566bb-6ea0-4367-9b71-4bb0cabb3172/aria-opera.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google starts opening up access to its new generative AI capabilities in Search"
-    excerpt: "Google announced today that it's starting to open up access to new generative AI capabilities in Search after teasing them at I/O."
-    publishedDateTime: 2023-05-25T20:52:00Z
-    webUrl: "https://techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/"
-    ampWebUrl: "https://techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/google-search-labs-open.png?resize=1200,796"
-        width: 1200
-        height: 796
-        isCached: true
-  - title: "How the generative AI boom could deliver a wave of successful businesses"
-    excerpt: "Where generative AI startups can start if they want to turn the short-term generative AI hype into long-term growth."
-    publishedDateTime: 2023-05-27T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/"
+  - title: "Generative AI poised to reshape workplace efficiency, revolutionize jobs: KPMG study"
+    excerpt: "A survey of 225 U.S. executives by KPMG aims to illuminate key insights and concerns regarding the implementation of generative AI."
+    publishedDateTime: 2023-05-25T21:50:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-poised-to-reshape-workplace-efficiency-revolutionize-jobs-kpmg-study/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 68
+    quality: 62
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_567557479.jpeg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/AI-Time-Out-high.jpg?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 688
         isCached: true
-  - title: "Where Memory Ends and Generative AI Begins"
-    excerpt: "New photo manipulation tools from Google and Adobe are blurring the lines between real memories and those dreamed up by AI."
-    publishedDateTime: 2023-05-26T10:00:00Z
-    webUrl: "https://www.wired.com/story/where-memory-ends-and-generative-ai-begins/"
+  - title: "The AI-driven evolution of banks"
+    excerpt: "AI-driven transformation continues to accelerate. In this phase, banks are faced with new challenges and opportunities, which force them to pay attention to a plurality of aspects, all transversally crossed by a major cultural transformation."
+    publishedDateTime: 2023-05-25T20:49:00Z
+    webUrl: "https://techxplore.com/news/2023-05-ai-driven-evolution-banks.html"
+    ampWebUrl: "https://techxplore.com/news/2023-05-ai-driven-evolution-banks.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-ai-driven-evolution-banks.amp"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/646ff414d96882f74caa3dc7/191:100/w_1280,c_limit/Where-Memory-Ends-and-Generative-AI-Begins-Gear-GettyImages-690638821.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "5 Ways to Boost Your Job Search Results Using AI"
-    excerpt: "ChatGPT (and other forms of AI) can analyze and process vast amounts of information quickly, generate human-like responses to questions and statements, translate text into multiple languages, and even write essays, articles, and stories. It can also ..."
-    publishedDateTime: 2023-05-25T15:00:00Z
-    webUrl: "https://taskandpurpose.com/sponsored-content/ai-job-search/"
-    ampWebUrl: "https://taskandpurpose.com/sponsored-content/ai-job-search/?amp"
-    cdnAmpWebUrl: "https://taskandpurpose-com.cdn.ampproject.org/c/s/taskandpurpose.com/sponsored-content/ai-job-search/?amp"
-    type: article
-    provider:
-      name: Task & Purpose
-      domain: taskandpurpose.com
+      name: techxplore
+      domain: techxplore.com
     quality: 59
     images:
-      - url: "https://taskandpurpose.com/uploads/2023/05/11/subtler.png?auto=webp"
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-money.jpg"
+        width: 1920
+        height: 1188
+        isCached: true
+  - title: "Conversational AI’s advancement and its implications on our lives"
+    excerpt: "Conversational AI has transformed the landscape of customer service and support. With intelligent voice bots, businesses can provide round-the-clock assistance, instant responses, and personalized interactions."
+    publishedDateTime: 2023-05-28T06:29:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/Untitled-design56.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "3 ways generative AI is driving innovation in financial services"
-    excerpt: "In some ways, GAI spells more of the same. According to the Bank of England’s research, machine learning, a sub-branch of AI, was last year already being used by 72% of respondents to a financial services survey. While AML and fraud detection ..."
-    publishedDateTime: 2023-05-25T17:09:00Z
-    webUrl: "https://www.finextra.com/the-long-read/692/3-ways-generative-ai-is-driving-innovation-in-financial-services"
+  - title: "The AI revolution can put patients at the centre of NHS"
+    excerpt: "A robot shows patients around ... and a cardiologist who has developed an AI tool that allows non-specialists to accurately read heart scans. The Sheba Medical Center, Israel’s biggest hospital, has a portfolio of tech start-ups worth $2 billion, several ..."
+    publishedDateTime: 2023-05-26T07:54:00Z
+    webUrl: "https://www.thetimes.co.uk/article/ai-revolution-can-put-patients-at-centre-of-nhs-vhs6tv8sf?shareToken=c9e1a35b58ee9abef9cc879b537b8fc7"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
+      name: The Times
+      domain: thetimes.co.uk
     quality: 39
     images:
-      - url: "https://www.finextra.com/finextra-images/oped/692.jpg"
-        width: 800
-        height: 450
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F03a162a4-fb14-11ed-9be0-622d8a105167.jpg?crop=1485%2C835%2C7%2C129&resize=1200"
+        width: 1200
+        height: 674
         isCached: true
-  - title: "A Computer Scientist Breaks Down Generative AI’s Hefty Carbon Footprint"
-    excerpt: "And that’s just for getting the model ready to launch, before any consumers start using it. Larger models do use more energy during their deployment. There is limited data on the carbon footprint of a single generative AI query, but some industry figures ..."
-    publishedDateTime: 2023-05-25T13:34:00Z
-    webUrl: "https://www.scientificamerican.com/article/a-computer-scientist-breaks-down-generative-ais-hefty-carbon-footprint/?ref=upstract.com"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 17
 
 secured: "TdZSVxYLsxDbWWV4XYKUcDhaqbhlgs+sb2O+0azkDUyL+EgrG8+j/EE/XW1bCu6bwkXGyWA1tbb9/Zz1oJNqDf1XEMuGiaxXafm80ATnWTJiI60xKh7P7b5qVgcjN+SSVUaHHvxn/KcYyEZ8YKz1aOPhT1y39w6WkVht3Mzgj66jBSpLaxH9rEtLQ8NWKqCjS3JwbFBnOouyqsggBWcLm4xhm8ISd84cuU8Pre/Q6k+lpS8S4Yl9e3eVn8dV5xK1KYQWPw5m37U9RYBRt23hFLcGHvsGjpiomHpgM/m43LV5oA3+R7c+0RrmxhTDmggLsPmhoOfh8+rUqjTEWslAznl32YrrgQ9r1F21q2uYtfwT+EaMkoT2cx8Q6yphYzG/4XkiFMc4W4zFAGvNAeeCT5WDnoidrvzDd+H423msMSYFjElKtPWhIvaDxiA02O0Dq3FCRnqOLD82YPWSObRjw+0HZWIQ9nT298mxe9BsyOYks3V2cRZasgZhTQZwqeZOWb+YPHE+dR3nHcZR0qqxkw==;sQaedvTxShMgEbUYzBPlYQ=="
 ---

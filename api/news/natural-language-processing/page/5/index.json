@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-04-11-how-to-use-large-language-models-and-knowledge-graphs-to-manage-enterprise-data.md",
-      "title": "How to use large language models and knowledge graphs to manage enterprise data",
-      "excerpt": "By combining ontology and large language model-driven techniques, engineers can build a knowledge graph that is easily queried and updatable.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-to-use-large-language-models-and-knowledge-graphs-to-manage-enterprise-data/",
-      "originalUrl": "https://venturebeat.com/ai/how-to-use-large-language-models-and-knowledge-graphs-to-manage-enterprise-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/GettyImages-1168971517-e1611944131140.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-to-use-large-language-models-and-knowledge-graphs-to-manage-enterprise-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-use-large-language-models-and-knowledge-graphs-to-manage-enterprise-data/amp/",
-      "publishedDateTime": "2023-04-10T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-11-5-natural-language-processing-libraries-to-use.md",
       "title": "5 Natural language processing libraries to use",
       "excerpt": "Natural language processing (NLP) is important because it enables machines to understand, interpret and generate human language, which is the primary means of communication between people.",

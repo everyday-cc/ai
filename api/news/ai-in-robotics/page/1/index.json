@@ -280,6 +280,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-26-ai-and-robots-enter-the-toolbox-of-the-construction-industry.md",
+      "title": "AI And Robots Enter The Toolbox Of The Construction Industry",
+      "excerpt": "The construction and development sector is embracing artificial intelligence and robotics to combat labor shortages and attract young talent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bisnow.com/south-florida/news/construction-development/ai-robots-enter-the-toolbox-of-the-construction-industry-119127",
+      "originalUrl": "https://www.bisnow.com/south-florida/news/construction-development/ai-robots-enter-the-toolbox-of-the-construction-industry-119127",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2023%2F05%2F646fc0a3df998-asi-cymba-brandon-spirk-jay-fayette-russ-beck-brad-meltzer-daniell-odess.jpeg&width=1200&sign=RBzGQ2khF0_DQBwgY3jhPTdbwKwCxZWm6sXam5S2PgE",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T17:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bisnow",
+        "domain": "bisnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-robots-and-rights-confucianism-offers-an-alternative.md",
       "title": "Robots and rights: Confucianism offers an alternative",
       "excerpt": "Philosophers and legal scholars have explored significant aspects of the moral and legal status of robots, with some advocating for giving robots rights. As robots assume more roles in the world, a new analysis reviewed research on robot rights,",
@@ -1342,50 +1385,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-tesla-updates-ai-trained-robot-army-takes-new-bots-for-a-walk.md",
-      "title": "Tesla updates AI-trained robot army, takes new bots for a walk",
-      "excerpt": "When it was first revealed at the Tesla AI Day 2022, the humanoid robot needed assistance from staff and could barely stand.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/tesla-robot-army-takes-a-walk",
-      "originalUrl": "https://cointelegraph.com/news/tesla-robot-army-takes-a-walk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-05/48bbada3-10a1-4d54-813d-2764c5b0ce1c.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/tesla-robot-army-takes-a-walk/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/tesla-robot-army-takes-a-walk/amp",
-      "publishedDateTime": "2023-05-17T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

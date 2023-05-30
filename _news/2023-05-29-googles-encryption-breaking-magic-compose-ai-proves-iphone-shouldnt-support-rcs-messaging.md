@@ -46,20 +46,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Google's Magic Compose is available now, bringing generative AI to Messages"
-    excerpt: "Want to compose a text message but don't know what to say? Google's Magic Compose can let AI handle it, rolling out now to Messages in beta."
-    publishedDateTime: 2023-05-25T17:01:00Z
-    webUrl: "https://www.androidauthority.com/google-magic-compose-3329382/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 65
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/05/Google-IO-2023-magic-compose.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google Magic Compose For AI Crafted Text Messages Rolls Out And It’s Kinda Cool"
     excerpt: "Now that AI tech like OpenAI’s ChatGPT has taken the world by storm, companies like Apple are trying to play catch-up and build in that type of tech. This also includes Google, who talked a lot about AI at Google IO 2023."
     publishedDateTime: 2023-05-28T16:54:00Z
@@ -74,17 +60,6 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Empowering the future generation: The advantages of educating students in the new age era of AI"
-    excerpt: "Artificial intelligence (AI) has become a revolutionary force in the quickly changing world of technology, altering various sectors and our daily lives. As AI develops, it is more crucial than ever to get the"
-    publishedDateTime: 2023-05-27T09:53:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 27
 
 secured: "SA4kgmOfumocFFukY362Eplt5HDuno2SJeP7sOkjVLTdT68OjFNOM/mXyrwqa1xWEdInX3o+Gl3+HgX/CJ2o1JdIPX0hcTa8ANeDkMxEfI25qtSJLX8JcSXEfmxJLv3p1KLVMYrQG9+EUsA3HGIfQjJUzR65zsrP8Ydu8h/CVBKI67oFblHAmuDZFkSugyAn3FzR+STQzaXwcycT18cnETGhuaG608u+YJItpAWl+XzkCWLB4h7GYOzoDtOVCwIAzKihgyJYyhBdp/4BRoLanTg/ub5bEXO1rNlk2v6xLQgey6b9Wr5teQfsoLDjxIZ7/45l2M72/pdy/m143f5zqI5aH1D8rWSqrFjQIE4RjbJjXQ+hAySPQYXVI5WoE7nJyV6/790DDClVMg3wRdwMIH2g/w4FJ+rS0KbMDOJ0SZKyL6Oftz/qruyu6/DdlfvC/qz+gabOpZ7gMXyPdG1OpS6IGD0yPcbLKBJ0MkuJcgJ8OxlJENxlMPrCbVm1WprAtT9eLL9WIRMbo/lsDFOzig==;rBm275pyjgBjb2/XKM/EOA=="
 ---

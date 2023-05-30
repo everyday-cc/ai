@@ -38,22 +38,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Scientists use AI to find promising new antibiotic to fight evasive hospital superbug"
-    excerpt: "Scientists at McMaster University and the Massachusetts Institute of Technology have used artificial intelligence to discover a new antibiotic that could be used to fight a deadly, drug-resistant pathogen that strikes vulnerable hospital patients."
-    publishedDateTime: 2023-05-25T14:58:00Z
-    webUrl: "https://phys.org/news/2023-05-scientists-ai-antibiotic-evasive-hospital.html"
-    ampWebUrl: "https://phys.org/news/2023-05-scientists-ai-antibiotic-evasive-hospital.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-scientists-ai-antibiotic-evasive-hospital.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 50
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/scientists-use-ai-to-f-1.jpg"
-        width: 2880
-        height: 1620
-        isCached: true
   - title: "A new antibiotic, discovered with artificial intelligence, may defeat a dangerous superbug"
     excerpt: "Using artificial intelligence, researchers say, they’ve found a new type of antibiotic that works against a particularly menacing drug-resistant bacteria."
     publishedDateTime: 2023-05-26T18:45:00Z

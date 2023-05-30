@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-unveils-new-kind-of-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/"
 type: article
 quality: 96
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia Hints At Upcoming AI-Focused Spectrum-4 Ethernet"
-    excerpt: "It is no surprise at all that Nvidia’s datacenter business is making money hang over fist right now as generative AI makes machine learning a household"
-    publishedDateTime: 2023-05-25T14:34:00Z
-    webUrl: "https://www.nextplatform.com/2023/05/25/nvidia-hints-at-upcoming-ai-focused-spectrum-4-ethernet/"
-    ampWebUrl: "https://www.nextplatform.com/2023/05/25/nvidia-hints-at-upcoming-ai-focused-spectrum-4-ethernet/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/05/25/nvidia-hints-at-upcoming-ai-focused-spectrum-4-ethernet/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2022/04/nvidia-spectrum-4-logo.jpg"
-        width: 1076
-        height: 541
-        isCached: true
   - title: "NVIDIA Launches Accelerated Ethernet Platform for Hyperscale Generative AI"
     excerpt: "NVIDIA today announced NVIDIA Spectrum-X™, an accelerated networking platform designed to improve the performance and efficiency of Ethernet-based AI clouds. NVIDIA Spectrum-X is built on networking innovations powered by the tight coupling of the NVIDIA Spectrum-4 Ethernet switch with the NVIDIA BlueField®-3 DPU,"
     publishedDateTime: 2023-05-29T04:28:00Z

@@ -32,29 +32,6 @@ related:
         width: 1199
         height: 582
         isCached: true
-  - title: "Nvidia Stock Soars 29% As CEO Jensen Huang Cites Generative AI Edge"
-    excerpt: "Nvidia is prepared to supply those AI chips. As Colette Kress, Nvidia’s CFO told investors on the earnings call, “This demand has extended our data center visibility out a few quarters and we have procured substantially higher supply for the second-half of the year.”"
-    publishedDateTime: 2023-05-25T13:24:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/05/25/nvidia-stock-soars-29-as-ceo-jensen-huang-cites-generative-ai-edge/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Nvidia announces large-memory DGX GH200 for generative AI"
-    excerpt: "Nvidia has announced a new DGX class, the GH200, for generative AI workloads. The DGX GH200 connects up to 256 Grace Hopper Superchips into a single 144TB GPU system. The superchip is itself a combination of Nvidia's Grace Arm CPU and Hopper GPU,"
-    publishedDateTime: 2023-05-29T04:49:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-announces-large-memory-dgx-gh200-for-generative-ai/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Grace_Hopper_Image.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "GIGABYTE's AI Servers with Superchips Shine at COMPUTEX, Redefining a New Era of Computing"
     excerpt: "Win Big with AI through GIGABYTE's Pioneering GPU/HPC Servers. GIGABYTE and its subsidiary, Giga Computing, are introducing unparalleled AI/HPC server lineups, leading the era of"
     publishedDateTime: 2023-05-29T10:43:00Z

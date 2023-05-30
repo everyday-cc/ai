@@ -156,21 +156,21 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Nvidia shares skyrocket after AI-fueled sales projections crush forecasts; Chip maker nears $1 trillion valuation"
-    excerpt: "Shares of Nvidia, already one of the world's most valuable companies, skyrocketed Thursday after the chipmaker forecast a huge jump in revenue, signaling how vastly the broadening use of artificial intelligence could reshape the tech sector."
-    publishedDateTime: 2023-05-25T14:02:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/nvidia-stock-price-ai-artificial-intelligence-sales-projections-earnings/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/nvidia-stock-price-ai-artificial-intelligence-sales-projections-earnings/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/nvidia-stock-price-ai-artificial-intelligence-sales-projections-earnings/"
+  - title: "Nvidia’s new Grace Hopper superchip to fuel its DGX GH200 AI supercomputer"
+    excerpt: "The DGX GH200 AI supercomputer is targeted toward developing and supporting large language models. Google Cloud, Meta, and Microsoft already have access to it."
+    publishedDateTime: 2023-05-30T07:36:00Z
+    webUrl: "https://www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.html"
+    ampWebUrl: "https://www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.amp.html"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 70
+      name: Network World
+      domain: networkworld.com
+    quality: 72
     images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2021/12/02/ca8ad24e-18b8-4cb5-aef8-6e6bd2c10926/thumbnail/1200x630/a7b58aa440a66d8ef5fd243395995fc3/cbsnews-nvidia-slide49.jpg"
+      - url: "https://images.idgesg.net/images/article/2023/05/nvidia-dgx-gh200-100941527-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
   - title: "Nvidia Isn’t The Only One Getting a Massive AI Boost"
     excerpt: "Memory chips are in a slump. Thankfully, artificial intelligence has a huge appetite that will benefit the likes of Samsung, SK Hynix and Micron."
@@ -269,6 +269,22 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "AI Means Everyone Can Now Be a Computer Programmer, Says Nvidia Chief"
+    excerpt: "Nvidia has surged to become the world's most valuable listed semiconductor company as a major supplier of chips and computing systems for AI."
+    publishedDateTime: 2023-05-30T06:38:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/ai-artificial-intelligence-everyone-can-be-computer-programmer-nvidia-chief-4078184"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/ai-artificial-intelligence-everyone-can-be-computer-programmer-nvidia-chief-4078184/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/ai-artificial-intelligence-everyone-can-be-computer-programmer-nvidia-chief-4078184/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 59
+    images:
+      - url: "https://i.gadgets360cdn.com/large/NVIDIA_ceo_reuters_1685428692399.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nvidia launches GH200 Superchip to accelerate generative AI workloads"
     excerpt: "The Nvidia GH200 Superchip (pictured) has been designed to power systems that will run some of the most sophisticated and complex AI workloads yet, including training the next generation of generative AI models."
     publishedDateTime: 2023-05-29T04:30:00Z
@@ -298,6 +314,20 @@ related:
       - url: "https://images.barrons.com/im-789325/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Not Just Nvidia: These Are the Other Big Winners in the AI Chip Biz"
+    excerpt: "COVID-19 was hell for tech stock and chip manufacturers, but ChatGPT and AI have since been a boon for Nvidia and other similar companies."
+    publishedDateTime: 2023-05-26T21:44:00Z
+    webUrl: "https://decrypt.co/142568/nvidia-big-winners-ai-chip-biz-tech-stocks"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 54
+    images:
+      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/05/nvidia-ai-chips-gID_7.jpeg"
+        width: 1024
+        height: 512
         isCached: true
   - title: "Nvidia set to become a trillion-dollar chip giant thanks to AI"
     excerpt: "Nvidia took a giant leap toward becoming the first trillion dollar chip company this week, propelled by the explosive rise of AI. Nvidia's stock has soared more than 20% after the Santa Clara tech giant reported strong quarterly earnings Wednesday."
@@ -336,15 +366,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
-  - title: "Generative AI demand sends Nvidia chip sales soaring; stock surges"
-    excerpt: "Nvidia makes chips that power generative AI, a type of artificial intelligence that can create new content, such as text and images, in response to user prompts. That’s the kind of AI underlying ChatGPT,"
-    publishedDateTime: 2023-05-25T13:05:00Z
-    webUrl: "https://wraltechwire.com/2023/05/25/generative-ai-demand-sends-nvidia-chip-sales-soaring-stock-surges/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 51
   - title: "Nvidia Unveils More Gen AI Products"
     excerpt: "Chipmaker Nvidia (NVDA) has been making headlines with its extensive new lineup of AI product launches and services. At the Computex"
     publishedDateTime: 2023-05-29T08:26:00Z
@@ -400,17 +421,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Nvidia's blowout forecast sparks huge rally in all things AI"
-    excerpt: "Nvidia Corp’s forecast for surging revenue surprised even the most bullish analysts on Wall Street, propelling the chipmaker to the cusp of a US$1 trillion market capitalization and igniting a global jump in stocks linked to artificial intelligence."
-    publishedDateTime: 2023-05-25T14:32:00Z
-    webUrl: "https://www.theedgesingapore.com/news/semiconductor/nvidias-blowout-forecast-sparks-huge-rally-all-things-ai"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/news/semiconductor/nvidias-blowout-forecast-sparks-huge-rally-all-things-ai"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/semiconductor/nvidias-blowout-forecast-sparks-huge-rally-all-things-ai"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 39
   - title: "Nvidia gears up for AI-fueled data center boom"
     excerpt: "The company projects a 10-year transition where data centers are reclaimed and built out as accelerated computing to support generative AI adoption."
     publishedDateTime: 2023-05-25T21:00:00Z

@@ -27,150 +27,64 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia is poised to join $1 trillion club thanks to AI-driven surge"
-    excerpt: "Thanks to a seemingly insatiable demand for AI chips, Nvidia saw its stock soar nearly 30% after yesterday's financial results."
-    publishedDateTime: 2023-05-25T14:56:00Z
-    webUrl: "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/"
-    ampWebUrl: "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/amp/"
+  - title: "How generative AI can revolutionize customization and user empowerment"
+    excerpt: "It's time to look beyond using generative AI tools for simple outputs and focus on computing capabilities for users and large enterprises."
+    publishedDateTime: 2023-05-28T23:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 91
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-77.png?w=1200&strip=all"
-        width: 1200
-        height: 750
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=750%2C500&#038;strip=all"
+        width: 750
+        height: 500
         isCached: true
-  - title: "As NVIDIA Approaches $1T, Company Announces AI Tech Needed To Surpass $2T"
-    excerpt: "The NVIDIA DGX GH200’s massive shared memory space uses NVLink interconnect technology with the NVLink Switch System to combine 256 GH200 superchips, allowing them to"
-    publishedDateTime: 2023-05-29T04:30:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/amp/"
+  - title: "Generative AI poised to reshape workplace efficiency, revolutionize jobs: KPMG study"
+    excerpt: "A survey of 225 U.S. executives by KPMG aims to illuminate key insights and concerns regarding the implementation of generative AI."
+    publishedDateTime: 2023-05-25T21:50:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-poised-to-reshape-workplace-efficiency-revolutionize-jobs-kpmg-study/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 90
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6473c8a15a1b0fdc91569955/0x0.jpg?format=jpg&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/AI-Time-Out-high.jpg?w=1200&strip=all"
         width: 1200
-        height: 620
+        height: 688
         isCached: true
-  - title: "Nvidia Stock Soars on AI Chip Demand, Nears $1 Trillion Market Cap (NVDA)"
-    excerpt: "Its outlook managed to bolster other chip companies, the broader stock market — and maybe the US dollar, too. Don’t forget the much tinier, $55 billion chip company Marvell Technology Inc. It enjoyed a 32% bump after projecting an AI-fueled doubling in sales. Rival Intel Corp. was decidedly not a winner."
-    publishedDateTime: 2023-05-27T11:00:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-05-27/nvidia-stock-soars-on-ai-chip-demand-nears-1-trillion-market-cap-nvda"
+  - title: "Conversational AI’s advancement and its implications on our lives"
+    excerpt: "Conversational AI has transformed the landscape of customer service and support. With intelligent voice bots, businesses can provide round-the-clock assistance, instant responses, and personalized interactions."
+    publishedDateTime: 2023-05-28T06:29:00Z
+    webUrl: "https://www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/"
+    ampWebUrl: "https://www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/lite/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 83
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.mu6nu.cD28/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Nvidia just added $200 billion to its market cap on AI hype - and the gold rush may just be getting started"
-    excerpt: "Insider's Phil Rosen explains what's behind the key chip stock's meteoric rise."
-    publishedDateTime: 2023-05-26T10:40:00Z
-    webUrl: "https://www.businessinsider.com/nvidia-stock-rally-ai-artificial-intelligence-huange-markets-investors-2023-5"
-    ampWebUrl: "https://www.businessinsider.com/nvidia-stock-rally-ai-artificial-intelligence-huange-markets-investors-2023-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nvidia-stock-rally-ai-artificial-intelligence-huange-markets-investors-2023-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://i.insider.com/646fa51cdcf4b30018881416?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "2 Stocks to Play the AI Boom, From Nvidia CEO’s Earnings Call Remarks"
-    excerpt: "Investors are now looking for other opportunities to benefit from the AI trend, which has already sparked Nvidia stock’s triple-digit gains this year. Ironically, the best ideas"
-    publishedDateTime: 2023-05-25T19:20:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-price-ai-adobe-servicenow-507a5c79"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-price-ai-adobe-servicenow-507a5c79"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-price-ai-adobe-servicenow-507a5c79"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
+      name: The Financial Express
+      domain: financialexpress.com
     quality: 59
     images:
-      - url: "https://images.barrons.com/im-788731/social"
-        width: 1280
-        height: 640
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/Untitled-design56.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Cathie Wood’s Top Fund Missed Nvidia’s Stock Surge. But ARK Made This AI Bet."
-    excerpt: "Cathie Wood's Ark Innovation ETF sold its Nvidia shares before the majority of the chip maker's stock rally but is backing automation software maker UiPath."
-    publishedDateTime: 2023-05-26T11:29:00Z
-    webUrl: "https://www.barrons.com/articles/cathie-wood-nvidia-stock-ark-ai-uipath-b080d4c0"
-    ampWebUrl: "https://www.barrons.com/amp/articles/cathie-wood-nvidia-stock-ark-ai-uipath-b080d4c0"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/cathie-wood-nvidia-stock-ark-ai-uipath-b080d4c0"
+  - title: "The AI revolution can put patients at the centre of NHS"
+    excerpt: "A robot shows patients around ... and a cardiologist who has developed an AI tool that allows non-specialists to accurately read heart scans. The Sheba Medical Center, Israel’s biggest hospital, has a portfolio of tech start-ups worth $2 billion, several ..."
+    publishedDateTime: 2023-05-26T07:54:00Z
+    webUrl: "https://www.thetimes.co.uk/article/ai-revolution-can-put-patients-at-centre-of-nhs-vhs6tv8sf?shareToken=c9e1a35b58ee9abef9cc879b537b8fc7"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 56
-    images:
-      - url: "https://images.barrons.com/im-577741/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Nvidia Shares Jump as Chip Maker Approaches $1 Trillion Valuation"
-    excerpt: "As tech giants such as Google, Microsoft, Amazon and Facebook rush to build AI capabilities similar to ChatGPT, they need pricey chips. And as WSJ’s Dan Gallagher explains, that’s good for Nvidia. Nvidia gained almost a third of its market value on ..."
-    publishedDateTime: 2023-05-25T13:55:00Z
-    webUrl: "https://www.wsj.com/articles/nvidia-shares-jump-as-chip-maker-approaches-1-trillion-valuation-7f8ccd68"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 49
-  - title: "From Gaming Guru to AI Game-Changer: How Nvidia Reinvented Itself"
-    excerpt: "Nvidia was all about gaming. Sure, the Nvidia Tesla high-performance computing card had been available since May 2012 and the third-generation model was just around the corner. But that was just a sideshow in 2013,"
-    publishedDateTime: 2023-05-28T15:19:00Z
-    webUrl: "https://www.nasdaq.com/articles/from-gaming-guru-to-ai-game-changer:-how-nvidia-reinvented-itself"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
-  - title: "Nvidia nears $1 trillion valuation amid AI boom"
-    excerpt: "A trillion dollars of installed global data center infrastructure will transition from general-purpose to accelerated computing as companies race to apply generative AI into every product, service, and business process."
-    publishedDateTime: 2023-05-26T11:55:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-nears-1-trillion-valuation-amid-ai-boom/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
+      name: The Times
+      domain: thetimes.co.uk
     quality: 39
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/Nvidia_Jensen_holds_T4.2e16d0ba.fill-1200x630.jpg"
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F03a162a4-fb14-11ed-9be0-622d8a105167.jpg?crop=1485%2C835%2C7%2C129&resize=1200"
         width: 1200
-        height: 630
+        height: 674
         isCached: true
-  - title: "Nvidia races towards $1tn club as AI frenzy drives chip stocks higher"
-    excerpt: "Nvidia chief Jensen Huang said: ‘When generative AI I came along, it triggered a killer app for this computing platform that’s been in preparation for some time ..."
-    publishedDateTime: 2023-05-25T13:13:00Z
-    webUrl: "https://www.ft.com/content/b074781a-683f-4b20-8c70-33bb71399d94?shareType=nongift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
-  - title: "Nvidia, On Its Way to $1 Trillion Market Value, Just Confirmed That AI Hype Is Real"
-    excerpt: "Nvidia CEO Jensen Huang said generative AI is now becoming \"the primary workload of most of the world's data centers generating information\"."
-    publishedDateTime: 2023-05-25T15:46:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-on-its-way-to-1-trillion-just-confirmed-ai-hype-is-real"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 13
 
 secured: "IvIfWj5oLTnu/VQ6ZkBkk91EG08HErzM6wIsnq/husuUu/z8XSpHT0CMIdszcSJwU1dp1rG+30hK9pMXC9iqbwWm/8jj1oEjG+kBMdSU4BNIrEL0ojuW9SWjFO3S5N9048O9V+K7HHghvAzVYUrlnCPMwqKwwjX7YyameWrZON29EI1xbWQNCtPk+/oWBwqxsoZn7KNyebI2KZC17iNi7Dy28EVacpua9JHi5GHwRrv22a2/oPKZgKaLqjyG1rYcIDKvS8f89iBN/VvVtDC1fzHQ7kTXeUHgpxCd4x/rbswAMwgFhSwyJ7YER/2f1UQSLYfCc2W/kO5eaJYT2X4RPFFkGamtTp3kTQEWfPAOIpk=;MA/xZXnKbagTtTHqM8mriQ=="
 ---

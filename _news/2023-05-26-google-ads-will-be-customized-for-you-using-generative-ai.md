@@ -44,22 +44,6 @@ related:
         width: 2560
         height: 1280
         isCached: true
-  - title: "Here’s Why Generative AI Isn’t Coming For Lawyers"
-    excerpt: "We can all learn something by scraping legal information from the internet, but this doesn’t necessarily translate ... answer is analytical AI. Or rather, a combination of the two. Like generative AI, analytical AI is a large language model (LLM)."
-    publishedDateTime: 2023-05-25T14:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/heres-why-generative-ai-isnt-coming-for-lawyers/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/heres-why-generative-ai-isnt-coming-for-lawyers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/25/heres-why-generative-ai-isnt-coming-for-lawyers/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/627ebb248ab29e9de3b015b6/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Missing The AI Forest For The Generative AI Tree"
     excerpt: "Some companies and entranced by generative AI, but should be exploring other types better suited to their key data."
     publishedDateTime: 2023-05-29T16:40:00Z

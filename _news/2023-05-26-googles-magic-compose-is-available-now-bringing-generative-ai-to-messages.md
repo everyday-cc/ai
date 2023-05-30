@@ -28,47 +28,49 @@ images:
     isCached: true
 
 related:
-  - title: "Hands-on with Magic Compose, the AI-generating Messages tool"
-    excerpt: "I've had some time to play with an early version of Magic Compose, which uses AI to create texts in Messages. It's fun, but unreliable."
-    publishedDateTime: 2023-05-25T21:58:00Z
-    webUrl: "https://www.androidauthority.com/magic-compose-experience-3329552/"
+  - title: "Google starts opening up access to its new generative AI capabilities in Search"
+    excerpt: "Google announced today that it's starting to open up access to new generative AI capabilities in Search after teasing them at I/O."
+    publishedDateTime: 2023-05-25T20:52:00Z
+    webUrl: "https://techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/"
+    ampWebUrl: "https://techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/amp/"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2022/04/Google-Messages-SMS-stock-photo-9.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/google-search-labs-open.png?resize=1200,796"
         width: 1200
-        height: 675
+        height: 796
         isCached: true
-  - title: "Google's AI Magic Compose Beta Goes Live For Select Users"
-    excerpt: "Magic Compose can initiate a chat or rewrite a message with seven different tones and styles with the help of Google Bard. The beta is being rolled out for US-based premium Google One subscribers first."
-    publishedDateTime: 2023-05-28T16:37:00Z
-    webUrl: "https://www.pcmag.com/news/googles-ai-magic-compose-beta-goes-live-for-select-users"
+  - title: "3 ways generative AI is driving innovation in financial services"
+    excerpt: "In some ways, GAI spells more of the same. According to the Bank of England’s research, machine learning, a sub-branch of AI, was last year already being used by 72% of respondents to a financial services survey. While AML and fraud detection ..."
+    publishedDateTime: 2023-05-25T17:09:00Z
+    webUrl: "https://www.finextra.com/the-long-read/692/3-ways-generative-ai-is-driving-innovation-in-financial-services"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: Finextra
+      domain: finextra.com
+    quality: 39
     images:
-      - url: "https://i.pcmag.com/imagery/articles/00YXyCobqmXmK47unUvQkkC-1.fit_lim.size_1200x630.v1685291531.png"
-        width: 1120
-        height: 630
+      - url: "https://www.finextra.com/finextra-images/oped/692.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Google Magic Compose For AI Crafted Text Messages Rolls Out And It’s Kinda Cool"
-    excerpt: "Now that AI tech like OpenAI’s ChatGPT has taken the world by storm, companies like Apple are trying to play catch-up and build in that type of tech. This also includes Google, who talked a lot about AI at Google IO 2023."
-    publishedDateTime: 2023-05-28T16:54:00Z
-    webUrl: "https://hothardware.com/news/ai-overlords-helping-compose-text-messages-with-google"
+  - title: "Google is starting to roll out its AI search to properly take on Bing"
+    excerpt: "Google has announced that it is starting to roll out its generative AI technology to search, properly taking on Bing."
+    publishedDateTime: 2023-05-26T00:47:00Z
+    webUrl: "https://bgr.com/tech/google-is-starting-to-roll-out-its-ai-search-to-properly-take-on-bing/"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 33
+      name: BGR
+      domain: bgr.com
+    quality: 39
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/61719/content/ai-overlords-helping-compose-text-messages-with-google.jpg"
-        width: 708
-        height: 398
+      - url: "https://bgr.com/wp-content/uploads/2023/05/Google-Search-AI.jpg?quality=82&strip=all"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Empowering the future generation: The advantages of educating students in the new age era of AI"
     excerpt: "Artificial intelligence (AI) has become a revolutionary force in the quickly changing world of technology, altering various sectors and our daily lives. As AI develops, it is more crucial than ever to get the"
@@ -81,15 +83,6 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 27
-  - title: "Google’s encryption-breaking Magic Compose AI proves iPhone shouldn’t support RCS messaging"
-    excerpt: "Google Messages' Magic Compose AI feature breaks encryption. Here's why that's bad news for Apple bringing RCS to iMessage on iPhone."
-    publishedDateTime: 2023-05-29T12:43:00Z
-    webUrl: "https://bgr.com/tech/googles-encryption-breaking-magic-compose-ai-proves-iphone-shouldnt-support-rcs-messaging/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 7
 
 secured: "mOXAw60oEJ8hSVZpQGPVXtqO/KwqoxEcBRDXMmL1KHv6gUBMWpNg50zIRsJtMMaLOH0VBFbE444Sk8qYxlknold7L7sViEUL846IrYGF16dTQaPyar8uEIarjGrbhtzLv9QA7TGq1s++30zsBXsiyobL1XbhtAyBxDuWqVCQ45QW+vQt7GXxv721nxWx/7m8sLfMrYGg/4FqbThxoY/9nzvMfSDw+vTy+y0+VIaBKZQQbJR0IlOl8e0O2iWaZI1ddQHGh5RbY4quzi3WJYdOsUVFeFjjs2ITUOidlPWJlch29626rAGfCX2oDk+1EHmkFYRKv5AKLjiRihHYRAEOAX47MrC+Hz0xI16MTRnlze4=;426h3XqMLsKTeqiJLwMlHg=="
 ---
