@@ -7,7 +7,7 @@ originalUrl: "https://caravanmagazine.in/technology/dangers-of-facial-recognitio
 webUrl: "https://caravanmagazine.in/technology/dangers-of-facial-recognition-technology-in-indian-policing"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,17 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "The truth about face recognition technology; separating reality from myth"
-    excerpt: "Face recognition technology has revolutionised the domains of access control and time attendance, bringing about improvements in security and surveillance. However, like any emerging technology,"
-    publishedDateTime: 2023-05-25T07:26:00Z
-    webUrl: "https://www.sourcesecurity.com/news/truth-face-recognition-technology-separating-reality-co-6908-ga-co-10086-ga.1684995549.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/truth-face-recognition-technology-separating-reality-co-6908-ga-co-10086-ga.1684995549.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/truth-face-recognition-technology-separating-reality-co-6908-ga-co-10086-ga.1684995549.html"
+  - title: "UK MPs examine MET police use of facial recognition"
+    excerpt: "Tony Mansfield delivered the results of NLP’s testing on Tuesday to the Science, Innovation and Technology Committee alongside Lindsey Chiswick,"
+    publishedDateTime: 2023-05-26T19:36:00Z
+    webUrl: "https://www.biometricupdate.com/202305/uk-mps-examine-met-police-use-of-facial-recognition"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 38
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
 
 secured: "8/meTW/qfVYugp3clAdQ+VRn+h7LGRs3QUJg6spvEXg+YOhLDtEqk4bSiaemBWmY22DV0NWnOPhoItX84XJFKTNynwU1PTm5HrjtGnE8Zlw76mGct+MBL6YAvrxQP2OJWL6/u/dF1RxUvwVRfNGRnzdp+3wPXVyBdmvmO25dQ9F4eW8AbNRFaeV5WocKdS20ldaz3eOV96vDGshHDNSiYVhf7N/Dt4WkmZgre9hIWHhgrfOp0+7r/cDM6HYmYz0x7bjvSYaxxPqs+0Rq6U44c1hmVNEOlrXl3arovHwCXF8OVOF0L9EzqsBm5Le4aR6UmImWb+K1ZzdUi2o6tOGp+X4JtmxXrkbGB1cbxZTtHR0=;AlL3yX56uVe0jZzajVI/xw=="
 ---

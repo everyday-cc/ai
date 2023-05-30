@@ -41,6 +41,20 @@ related:
         width: 862
         height: 575
         isCached: true
+  - title: "Australia lagging behind on AI regulation"
+    excerpt: "Australia is at risk of falling behind when it comes to artificial intelligence (AI) regulation as its uses become more apparent every day and major economic blocs start carving out dedicated laws to govern the powerful technology."
+    publishedDateTime: 2023-05-30T00:46:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/australia-lagging-behind-on-ai-regulation.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/ai-regulation-blocks.jpg"
+        width: 691
+        height: 389
+        isCached: true
   - title: "More than 20 sporting codes pen open letter pledging support for Voice to parliament"
     excerpt: "In the ultimate coming together, a collective of the biggest sporting bodies in Australia has pledged unwavering support for the Indigenous Voice to parliament in an open letter, declaring sport “plays a significant role in reconciling Australia”."
     publishedDateTime: 2023-05-26T04:31:00Z

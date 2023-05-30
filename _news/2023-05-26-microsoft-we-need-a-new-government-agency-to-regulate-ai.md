@@ -157,20 +157,6 @@ related:
         width: 700
         height: 489
         isCached: true
-  - title: "NVIDIA Teams with Microsoft on Enterprise-Ready Generative AI"
-    excerpt: "NVIDIA has announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning targeting enterprise AI initiatives. The integration will create a secure, enterprise-ready platform that enables Azure customers worldwide to quickly build,"
-    publishedDateTime: 2023-05-25T08:28:00Z
-    webUrl: "https://insidehpc.com/2023/05/nvidia-teams-with-microsoft-on-enterprise-ready-generative-ai/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 54
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2022/11/Nvidia-Microsoft-logos.jpg"
-        width: 593
-        height: 290
-        isCached: true
   - title: "Microsoft calls for a new U.S. agency and licensing for AI"
     excerpt: "Smith compared AI to the printing press, elevators and food safety for ... His call for a new agency echoes proposals from OpenAI, the startup behind the wildly popular ChatGPT, which received a $10 billion investment from Microsoft."
     publishedDateTime: 2023-05-25T17:37:00Z
@@ -207,20 +193,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 44
-  - title: "Microsoft launches Fabric, a new integrated platform for data analytics, management and machine learning"
-    excerpt: "The software can also integrate Azure Data Factory, Azure Synapse Analytics and Power BI into a single unit, particularly to aid business professionals with relevant data."
-    publishedDateTime: 2023-05-25T07:55:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/microsoft-launches-fabric-a-new-integrated-platform-for-data-analytics-management-and-machine-learning-10659191.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 39
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/08/Microsoft_reuters-770x433.jpg"
-        width: 770
-        height: 433
-        isCached: true
   - title: "Qualcomm drives Opel connectivity, aligns with Microsoft for on-device AI"
     excerpt: "Mobile platform provider announces partnership to make generative AI more affordable, reliable and private by moving queries and inferencing to edge devices and provider’s infotainment platform for small car bestseller."
     publishedDateTime: 2023-05-25T11:36:00Z

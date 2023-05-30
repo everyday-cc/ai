@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/05/26/how-should-ceos-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/05/26/how-should-ceos-embrace-ai-or-will-ai-assume-ceo-roles/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chip Design CEO Outlook"
-    excerpt: "Semiconductor Engineering sat down with Joseph Sawicki, executive vice president for IC EDA at Siemens Digital Industries Software; John Kibarian, president and CEO of PDF Solutions; John Lee, general manager and vice president of Ansys’ Semiconductor Business Unit;"
-    publishedDateTime: 2023-05-25T07:08:00Z
-    webUrl: "https://semiengineering.com/chip-design-ceo-outlook/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_486011997-wafer-12-5-22-scaled.jpeg?fit=2560%2C1440&ssl=1"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Slack CEO looks to artificial intelligence for help in rolling out new products"
     excerpt: "One way to break the cycle of drudgery, at least from her point of view, is by effective use of messaging software, particularly when enhanced by artificial intelligence. As the newly christened chief executive of Slack, the messaging app, you would expect ..."
     publishedDateTime: 2023-05-29T01:56:00Z

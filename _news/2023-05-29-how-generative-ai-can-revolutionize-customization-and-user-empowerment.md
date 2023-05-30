@@ -150,15 +150,6 @@ related:
       name: Scientific American
       domain: scientificamerican.com
     quality: 17
-  - title: "Avatar animation, AI-powered video production companies among AWS’ first generative AI accelerator cohort"
-    excerpt: "Companies that employ generative artificial intelligence to create clips for social media ... more than 1,200 applications for the 10 spaces in the programme, prompting AWS to expand it to 21. The company will provide the cohort with the resources ..."
-    publishedDateTime: 2023-05-25T07:21:00Z
-    webUrl: "https://www.tvbeurope.com/media-management/avatar-animation-ai-powered-video-production-companies-among-aws-first-generative-ai-accelerator-cohort"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 17
 
 secured: "TdZSVxYLsxDbWWV4XYKUcDhaqbhlgs+sb2O+0azkDUyL+EgrG8+j/EE/XW1bCu6bwkXGyWA1tbb9/Zz1oJNqDf1XEMuGiaxXafm80ATnWTJiI60xKh7P7b5qVgcjN+SSVUaHHvxn/KcYyEZ8YKz1aOPhT1y39w6WkVht3Mzgj66jBSpLaxH9rEtLQ8NWKqCjS3JwbFBnOouyqsggBWcLm4xhm8ISd84cuU8Pre/Q6k+lpS8S4Yl9e3eVn8dV5xK1KYQWPw5m37U9RYBRt23hFLcGHvsGjpiomHpgM/m43LV5oA3+R7c+0RrmxhTDmggLsPmhoOfh8+rUqjTEWslAznl32YrrgQ9r1F21q2uYtfwT+EaMkoT2cx8Q6yphYzG/4XkiFMc4W4zFAGvNAeeCT5WDnoidrvzDd+H423msMSYFjElKtPWhIvaDxiA02O0Dq3FCRnqOLD82YPWSObRjw+0HZWIQ9nT298mxe9BsyOYks3V2cRZasgZhTQZwqeZOWb+YPHE+dR3nHcZR0qqxkw==;sQaedvTxShMgEbUYzBPlYQ=="
 ---

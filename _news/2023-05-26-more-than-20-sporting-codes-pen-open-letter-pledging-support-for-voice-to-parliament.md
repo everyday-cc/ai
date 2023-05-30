@@ -43,6 +43,20 @@ related:
         width: 862
         height: 575
         isCached: true
+  - title: "Australia lagging behind on AI regulation"
+    excerpt: "Australia is at risk of falling behind when it comes to artificial intelligence (AI) regulation as its uses become more apparent every day and major economic blocs start carving out dedicated laws to govern the powerful technology."
+    publishedDateTime: 2023-05-30T00:46:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/australia-lagging-behind-on-ai-regulation.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/ai-regulation-blocks.jpg"
+        width: 691
+        height: 389
+        isCached: true
   - title: "‘I've got great faith in the Australian people’: Labor backs Voice to Parliament success despite polling showing its less likely to succeed"
     excerpt: "The Albanese government is remaining firm that the Voice to Parliament referendum will succeed, despite it continuing to lose support from Australians."
     publishedDateTime: 2023-05-28T01:27:00Z

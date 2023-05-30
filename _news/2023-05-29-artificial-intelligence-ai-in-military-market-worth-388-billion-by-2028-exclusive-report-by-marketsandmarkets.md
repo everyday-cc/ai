@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-29T11:42:00Z
 originalUrl: "https://it.tmcnet.com/news/2023/05/29/9822189.htm"
 webUrl: "https://it.tmcnet.com/news/2023/05/29/9822189.htm"
 type: article
-quality: 9
+quality: 11
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Emerging Markets Report: The Art of Artificial Intelligence"

@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 696
         isCached: true
-  - title: "Chip Design CEO Outlook"
-    excerpt: "Semiconductor Engineering sat down with Joseph Sawicki, executive vice president for IC EDA at Siemens Digital Industries Software; John Kibarian, president and CEO of PDF Solutions; John Lee, general manager and vice president of Ansys’ Semiconductor Business Unit;"
-    publishedDateTime: 2023-05-25T07:08:00Z
-    webUrl: "https://semiengineering.com/chip-design-ceo-outlook/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_486011997-wafer-12-5-22-scaled.jpeg?fit=2560%2C1440&ssl=1"
-        width: 2560
-        height: 1440
-        isCached: true
 
 secured: "SqaAtm1Pf31l6oOiF3WLLh3KSUsUlCPjxObTZoxzX4wiorbB5aeTZsszJJGZxZ8VN/5m2v/tyA5fGfg5fawrRLy43IsGmxt6NqqhxrHRBLU+C1GMpAKNtLPZN1qTAlMzt0V/77gnTq++LnNtlKY8R2oVIdXy+MdhVe5tk+eCtQrsSs1BjUweWQIqm8zZCcKEnLK98yBYc1Pj7QfsQa6yBL7lOM/AyipBKDwPBEw7HUXm4TsTR9Lmh69Nd9QvfJanrRECdPKw1GUPgufopT2TBDVLdwc7Ba9R329F/PFwJyZvEFH9amiLGMA2pASWvAxGqjKfN9FBFcTcGRsIGPTiLm70QX280GQ32zadgPGCXpg=;vrt5y+2uwwLi7obvjghazw=="
 ---
