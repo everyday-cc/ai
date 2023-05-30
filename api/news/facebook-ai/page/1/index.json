@@ -10,7 +10,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/soxq-etf-front-row-exposure-to-semiconductor-stocks-and-ai-1032356835",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -409,15 +409,15 @@
       "title": "White House unveils new efforts to guide federal research of AI",
       "excerpt": "WASHINGTON (AP) — The White House on Tuesday announced new efforts to guide federally backed research on artificial intelligence as the Biden administration looks to get a firmer grip on ...",
       "sourceUrl": null,
-      "webUrl": "https://www.kwch.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/",
-      "originalUrl": "https://www.kwch.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/",
+      "webUrl": "https://www.wsaw.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/",
+      "originalUrl": "https://www.wsaw.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://gray-kwch-prod.cdn.arcpublishing.com/resizer/dc20k0e9bzKFlpV22la5AucHJac=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/SEZQWR6I6ZDUZAHFTJQQPE65FI.jpg",
+          "url": "https://gray-wsaw-prod.cdn.arcpublishing.com/resizer/V94eJesdeoqG8s4xf_8cbHXoKpE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/DFO3VORI3BASLEQ4OP3K5J2S2U.jpg",
           "width": 800,
           "height": 450,
           "title": null,
@@ -427,13 +427,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.kwch.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-kwch-com.cdn.ampproject.org/c/s/www.kwch.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/?outputType=amp",
+      "ampWebUrl": "https://www.wsaw.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wsaw-com.cdn.ampproject.org/c/s/www.wsaw.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/?outputType=amp",
       "publishedDateTime": "2023-05-23T12:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KWCH",
-        "domain": "kwch.com",
+        "name": "WSAW",
+        "domain": "wsaw.com",
         "images": null,
         "publishers": null,
         "authors": null

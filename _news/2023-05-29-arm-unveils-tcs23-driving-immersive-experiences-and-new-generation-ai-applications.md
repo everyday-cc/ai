@@ -50,6 +50,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Five urgent actions needed on AI by UK Government"
+    excerpt: "Generative AI - is developing rapidly. Meanwhile, the UK Government’s AI White Paper has set out an approach to AI regulation that is sector-specific and intended to be agile and a fleet of foot. While the consultation on the White Paper runs its course,"
+    publishedDateTime: 2023-05-30T10:36:00Z
+    webUrl: "https://www.techuk.org/resource/five-urgent-actions-needed-on-ai-by-uk-government.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 39
+    images:
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/cbbd3a03-45dd-4050-99d9080c5a591e80/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Whitehall-city-65234851-web-1500px.jpg"
+        width: 400
+        height: 276
+        isCached: true
   - title: "Dissecting the EU’s Artificial Intelligence Act: Implications and Industry Reaction"
     excerpt: "As artificial intelligence (AI) rapidly integrates into the fabric of our society, regulators worldwide are grappling with the conundrum of creating a comprehensive framework that guides AI usage. Pioneering a move in this direction,"
     publishedDateTime: 2023-05-25T20:19:00Z

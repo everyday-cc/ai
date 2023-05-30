@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/ai4bharat-putting-india-
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ai4bharat-putting-india-on-the-global-map-of-cutting-edge-ai-innovation/amp_articleshow/100554612.cms"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Indiatimes
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 ways generative AI is driving innovation in financial services"
-    excerpt: "In some ways, GAI spells more of the same. According to the Bank of England’s research, machine learning, a sub-branch of AI, was last year already being used by 72% of respondents to a financial services survey. While AML and fraud detection ..."
-    publishedDateTime: 2023-05-25T17:09:00Z
-    webUrl: "https://www.finextra.com/the-long-read/692/3-ways-generative-ai-is-driving-innovation-in-financial-services"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/692.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Can there even be a global AI non-proliferation treaty and what role can India play"
     excerpt: "In ToThePoint today, we invited Jaspreet Bindra, the former chief digital officer of Mahindra Group and currently an AI and ethics researcher at Cambridge University, to help us make sense of the growing unease around the dangers of AI and calls by government and industry leaders for global regulation of these technologies."
     publishedDateTime: 2023-05-26T13:29:00Z

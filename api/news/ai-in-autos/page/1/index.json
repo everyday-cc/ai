@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-05-29-woman-recovering-after-tesla-crashes-in-self-driving-mode.md",
-      "title": "Woman recovering after Tesla crashes in self-driving mode",
-      "excerpt": "A woman hit a tree after law enforcement said she put her Tesla in self-driving mode.The crash happened Sunday night in Me",
+      "path": "_news/2023-05-30-tesla-driver-claims-she-crashed-into-a-tree-on-self-driving-mode.md",
+      "title": "Tesla driver claims she crashed into a tree on ‘self-driving mode’",
+      "excerpt": "A Tesla driver in Michigan claimed that her car was in “self-driving mode” when she crashed into a tree. As usual, it is important to take these claims with a grain of salt until the data is collected. The accident happened on Sunday evening near Big Rapids.",
       "sourceUrl": null,
-      "webUrl": "https://wwmt.com/news/state/woman-recovering-after-tesla-crashes-in-self-driving-mode",
-      "originalUrl": "https://wwmt.com/news/state/woman-recovering-after-tesla-crashes-in-self-driving-mode",
+      "webUrl": "https://electrek.co/2023/05/30/tesla-driver-claims-crashed-tree-self-driving-mode/",
+      "originalUrl": "https://electrek.co/2023/05/30/tesla-driver-claims-crashed-tree-self-driving-mode/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 124,
       "tags": null,
       "images": [
         {
-          "url": "https://wwmt.com/resources/media/6193ac78-15be-45d3-91c8-bb4f58e011de-large16x9_AP22265426693270.jpg?1663855123407",
-          "width": 986,
-          "height": 555,
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://wwmt.com/amp/news/state/woman-recovering-after-tesla-crashes-in-self-driving-mode",
-      "cdnAmpWebUrl": "https://wwmt-com.cdn.ampproject.org/c/s/wwmt.com/amp/news/state/woman-recovering-after-tesla-crashes-in-self-driving-mode",
-      "publishedDateTime": "2023-05-29T07:28:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "wwmt",
-        "domain": "wwmt.com",
-        "images": null,
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -63,15 +63,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "Workera introduces the world's first skills assessments for generative AI"
-    excerpt: "PALO ALTO, Calif., May 25, 2023 /PRNewswire/ -- Series B startup Workera announces the release of its generative AI assessments to test, rate and develop the skills of this cutting-edge technology in the contemporary workforce. Over 1,000 users have ..."
-    publishedDateTime: 2023-05-25T17:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/workera-introduces-the-world-s-first-skills-assessments-for-generative-ai-1032352473"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
   - title: "Averting the AI apocalypse"
     excerpt: "On the shoulders of this automated labor force, super wealthy AI entrepreneurs and companies will rise to form the most powerful elites to ever lord over humanity. Meanwhile, governments risk collapse from sharply diminished tax bases compounded by their own elected leader’s acute technological incompetence — an AI apocalypse."
     publishedDateTime: 2023-05-26T21:58:00Z

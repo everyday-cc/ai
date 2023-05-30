@@ -22,22 +22,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Rights or Rites? Reimagining Robots’ Moral Status through Confucian Lens"
-    excerpt: "As robots become more pervasive in our society, the question of whether they should be granted rights is a subject of increasing debate."
-    publishedDateTime: 2023-05-25T18:33:00Z
-    webUrl: "https://neurosciencenews.com/confucian-robot-rite-23345/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 38
-    images:
-      - url: "https://neurosciencenews.com/files/2023/05/confucious-robots-rites-neurosicence.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-
 secured: "E401+7KhzhKxFf7kGX/vIb6iVMRxGKbnIHv3k7IWqEjd26sJzUNrfUC/nSi4KqXuFrJDQJFagLGSj9vyAsIyrBCUcvyAa7A1VUitpk98k33U6oaxaSOhxHHwkdk2k0jkr8GdRk9e2+OAFagDrM+FtYFuTsA/71zCxgBOjfbLXuBKaQc/kNLiFuPc8QoIMLHsXy4XTukNjpjKDce+EEFKIZq/rfh1iDORgBOMKHqkODWwv0/hiNIY/kS9Fswy0RjnlMEdv0jroq1+4F29VrKYZWJC4t+3MrwtdF5M48SrfM9cj8yZlsTLiEoLcU/KRNO1oNMdHTMNTpPbhaNx5/UChX26Qn3Z2C9uPyhBha3ifRU=;0r8stwU8mCGBA5Xymj4NAA=="
 ---
 

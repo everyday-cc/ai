@@ -67,22 +67,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "5 points to govern AI: Microsoft’s recommended guardrails for the future"
-    excerpt: "This post is the foreword written by Brad Smith for Microsoft’s report Governing AI: A Blueprint for the Future. The first part of the report details five ways governments should consider policies, laws,"
-    publishedDateTime: 2023-05-25T17:27:00Z
-    webUrl: "https://wraltechwire.com/2023/05/25/5-points-to-govern-ai-microsofts-recommended-guardrails-for-the-future/"
-    ampWebUrl: "https://wraltechwire.com/2023/05/25/5-points-to-govern-ai-microsofts-recommended-guardrails-for-the-future/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/25/5-points-to-govern-ai-microsofts-recommended-guardrails-for-the-future/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 75
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
-        width: 772
-        height: 434
-        isCached: true
   - title: "Microsoft Gets Price-Target Hike On 'Jaw-Dropping' Nvidia Guidance: 'Direct AI Barometer For Redmond'"
     excerpt: "Daniel Ives maintained an Outperform rating and increased his price target from $340 to $375. The Microsoft Thesis: Microsoft's resilient cloud deal flow and AI monetization opportunity make Wedbush more bullish on the software giant,"
     publishedDateTime: 2023-05-30T08:03:00Z
@@ -256,17 +240,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Microsoft calls for a new U.S. agency and licensing for AI"
-    excerpt: "Smith compared AI to the printing press, elevators and food safety for ... His call for a new agency echoes proposals from OpenAI, the startup behind the wildly popular ChatGPT, which received a $10 billion investment from Microsoft."
-    publishedDateTime: 2023-05-25T17:37:00Z
-    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-calls-for-a-new-u-s-agency-and-licensing-for-ai/"
-    ampWebUrl: "https://www.seattletimes.com/business/microsoft/microsoft-calls-for-a-new-u-s-agency-and-licensing-for-ai/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft/microsoft-calls-for-a-new-u-s-agency-and-licensing-for-ai/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
   - title: "Five things to know about AI chip maker Nvidia and why everyone is talking about it"
     excerpt: "Nvidia made a splash after its mammoth quarterly report and stock boost. Here's what you should know about the company if you're new to it."
     publishedDateTime: 2023-05-29T02:45:00Z
@@ -290,15 +263,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "KPI Partners achieves Microsoft Azure Solutions Partner Designation for Data & AI"
-    excerpt: "May 17, 2023 /PRNewswire/ -- KPI Partners, a global trusted strategic partner for Analytics and Digital Transformation solutions, announced today that it has achieved Microsoft Azure Solution Partner status in Data & AI. This recognition showcases the ..."
-    publishedDateTime: 2023-05-25T18:37:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1324704&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 44
   - title: "Nvidia gears up for AI-fueled data center boom"
     excerpt: "The company projects a 10-year transition where data centers are reclaimed and built out as accelerated computing to support generative AI adoption."
     publishedDateTime: 2023-05-25T21:00:00Z
@@ -312,20 +276,6 @@ related:
       - url: "https://www.ciodive.com/imgproxy/XNQoxz-_plEGhHQU6obzgrF85F9pYno_U8mnsqMERhg/crop:3000:1695/g:nowe:0:281/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk1NzAzNzAxOC5qcGc.jpg"
         width: 770
         height: 435
-        isCached: true
-  - title: "Nvidia Stock Rides the AI Wave With More to Come"
-    excerpt: "With its 25% post-earnings surge on Thursday, the stock is now up 161% this year on the promise that the company’s chips will power the future of AI. So what kind of sorcery is this? And why are investors willing to pay 186 times current earnings to ..."
-    publishedDateTime: 2023-05-25T17:33:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/05/25/nvidia-stock-rides-the-ai-wave-with-more-to-come/e42d26ac-fb21-11ed-bafc-bf50205661da_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4MP7AKH3EEI63OX4X5ICAVTB3I.jpg&w=1440"
-        width: 1440
-        height: 901
         isCached: true
   - title: "Nvidia is not the only firm cashing in on the AI gold rush"
     excerpt: "A GREY RECTANGULAR building on the outskirts of San Jose houses rows upon rows of blinking machines. Tangles of colourful wires connect high-end servers, networking gear and data-storage systems. Bulky air-conditioning units whirr overhead. The noise forces visitors to shout."
@@ -424,15 +374,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 34
-  - title: "Habu Announces Collaboration With Microsoft Azure to Deliver Zero-Trust Data Clean Room"
-    excerpt: "Habu, a global innovator in data clean room software, has announced a collaboration with Microsoft Azure to integrate its"
-    publishedDateTime: 2023-05-25T18:08:00Z
-    webUrl: "https://www.datanami.com/this-just-in/habu-announces-collaboration-with-microsoft-azure-to-deliver-zero-trust-data-clean-room/"
+  - title: "Microsoft and Amazon Announce Similar New Machine Translation Features a Day Apart"
+    excerpt: "Microsoft and Amazon announce similar new machine translation features within a day of each other, both intended for enterprise users."
+    publishedDateTime: 2023-05-30T08:15:00Z
+    webUrl: "https://slator.com/microsoft-amazon-announce-similar-machine-translation-features-day-apart/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 26
+      name: Slator
+      domain: slator.com
+    quality: 30
   - title: "Nvidia's New AI Is Coming For Absolutely Every Gaming Job"
     excerpt: "AI is coming to games, whether you like it or not. Last night’s Nvidia keynote showed just how powerful—and devastating—that’s going to be. The company’s CEO, Jensen Huang, showed off how its freshly announced “Omniverse Avatar Cloud Engine” (ACE) can create real-time interactive AI NPCs,"
     publishedDateTime: 2023-05-29T12:30:00Z

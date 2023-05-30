@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2023/05/30/1073680/how-to-talk-about-a
 ampWebUrl: "https://www.technologyreview.com/2023/05/30/1073680/how-to-talk-about-ai-even-if-you-dont-know-much-about-ai/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/30/1073680/how-to-talk-about-ai-even-if-you-dont-know-much-about-ai/amp/"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/yes-robots-yes-2a.jpeg?w=3000"
@@ -43,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "JJSgFa5+RstcVLhMxc9UP5DCp2ZZwIFEDQPv6s9wPpKxsi4JpS+M4RM3MGMtat+wUuv/EpI7gaQp64SLDltHBhxEzgGiLe+nFPTjDlY034oF6QzHDseDmmt2Q1s0eKKBAhWbi++zu6xntS7ts8CSI74sgi4RSOS9oO0WdspYB300Wn+EFZLOZSw5JROg7bC1syvwEpNPuYiKFjruS19UnQbDJQd0ktOo8D5PQI7Ng+1UufFerFTydWFZPcczFtSemoSo47HZEuDbfv1tXmsd9bqr5CqKKrOAdCF+mfDlKpVkaPmrKEe1IoKx+UUukKOszvU5oexsf08GLG3agQJZDbuDywdRTU5fm2mNtxW5kcM=;vy8xK7Gxr9ZUraHzdm57yQ=="
+secured: "KSKszEfgV7PxL1LELMnCGpi7apcfLm6wCmmDkO2boZpkt466T85YmDwsfgS7iYpUACOvNU4/XHbTJGhcnGbitjIRFKBIMT4xwj66k62ZpH2HVIhdLY7GCJQfZfF1L+pBRNSuZ3uNdtyGU7DTBUTvHR8lQzr2lV2iAN1ryYjnIElSuyAcbEND7QJkym6W7o+TNEcDuYt+rE05PW1kK9I+O/WcsF0/2o0wZvs8xFLLYD1q4wGumLV1K4vwss9Ar9BmxqtCb0irH7RoAwJLBkVsrkfbFGgrG/Ix3CcmoLX339L+8nOXKcYrwoabk12rjL0nVAeTp1XY0r1+I1JgEnMKS3J9IXooyC97jnTYeA6kXMPkik6tvvqSdckrVELdvyH9E0pQkl7SZ65dxz+7dITGGn3FHTQm7967DIRp06QLlCr33B+yUnsElont9NQVluUvlA4n5Or+GQH0/S4XlUQQMyu7FJMsl9w1/ioNg1EVg54JPTdUTIA6dDo3HIYvsIxEoatjR2nC4roHzQ9508fbAQ==;tg8FyFX0ZH28zfXyKJx6fQ=="
 ---
 

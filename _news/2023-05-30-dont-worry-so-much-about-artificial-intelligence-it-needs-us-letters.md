@@ -36,13 +36,13 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/yes-robots-yes-2a.jpeg?w=3000"
         width: 3000
         height: 1688
         isCached: true
 
-secured: "iqD1XaQNOoQLSQseIJdcs6KTqtvCtKvJI/JZf4/TMAxxbLr0/+NGxlJ56/ZRRyPN7fRK76PFamxgNUATYoaeBce5bsx8XZfRTuyWceKUN7jN5TfLPs3ORIYkeOobxdlpGlD64v02zMwT+ug8QvmAUZVLaH74chTIhiHR3sPB5/3ma3u9e898bbgQ3AB7bWMd/XsG3SOCB6fvppyJlGxblynhsFtUyFLjsqgt6neqZwRY3ubpN+jNYPoeu6OMUf3Gm+e8Rf8e25ED45lBSpPuPmf8ZqLbZYdT/DVgjzTgnu39KkzvebdWSeLCIXUHyDOpNtX1hkGNF06FBrcnkGWX9RvSSFuUZ4kuBJdW6+TMNtw=;kK+0CuHX+iILmqo7zr0iCg=="
+secured: "cP6od8X5dd3T4F9CUa1ZBJZd2Oq+GRL0NhrcwrwyaRamuVT9CNYw9JOD+kLPgNv4eDsGk8tG8ju9tbwYxNG6p+P+VHqmIM2K/38NjkDCUSFDUW+IL3G3Kg3umMb+UFlih6/iLQeSxqAxLgOzYVpsFnL33XJHcqqyukNcBUAl+WBx98HO/aZEL6GuELhy315ab3VtbGmIJWOriAOKJE+7J6+WAUVZ8ARIWusNBhWvcS0bNVNIXOy8sjZfBkbfuJjvrBdEXb8onuZzUZ7MAzK8WY5sLrMdNP7kz7TqDMUZjzig0OKy2TEHfUe/W2VSPzU2a89bT2U1+mvPDQoGLdi3Frup6/HVU1V2s/1zD9SZasPIBRMaLnokF9Vvoy8DQPq/0fawA/boH1K6zJJVK1icFaVjn18dvUtCvtymyCbfDGByYKB+t/lJRJWr2jcmu/yGX0eXGb/NcZXzVmiZUvqE1nZ50jEPpnvNTowuxezE3BgZbR4WUdE5EPjTg/WF+6tJ862UbiHCancrCjRAjk3pcw==;mIizlqTj25NNe/I5TMGi7g=="
 ---
 

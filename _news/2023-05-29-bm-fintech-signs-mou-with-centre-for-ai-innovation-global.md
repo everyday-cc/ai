@@ -1,25 +1,25 @@
 ---
 category: news
-title: "BM Fintech Signs Mou With Centre For AI Innovation Global"
-excerpt: "BM Fintech - Bait Al Mashura Finance Consultations and CEAI (Centre for AI Innovation) - MyFinB have signed a memo"
-publishedDateTime: 2023-05-29T07:04:00Z
-originalUrl: "https://menafn.com/1106336636/BM-Fintech-Signs-Mou-With-Centre-For-AI-Innovation-Global"
-webUrl: "https://menafn.com/1106336636/BM-Fintech-Signs-Mou-With-Centre-For-AI-Innovation-Global"
+title: "BM Fintech signs MoU with centre for AI innovation global"
+excerpt: "BM Fintech Bait Al Mashura Finance Consultations and CEAI (Centre for AI Innovation) MyFinB have signed a memorandum of"
+publishedDateTime: 2023-05-29T06:02:00Z
+originalUrl: "https://thepeninsulaqatar.com/article/29/05/2023/bm-fintech-signs-mou-with-centre-for-ai-innovation-global"
+webUrl: "https://thepeninsulaqatar.com/article/29/05/2023/bm-fintech-signs-mou-with-centre-for-ai-innovation-global"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: The Peninsula
+  domain: thepeninsulaqatar.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2023-05/29/TP_5c0f8image_story.jpg"
+  - url: "https://thepeninsulaqatar.com/get/maximage/20230529_1685340232-924.jpg?1685340232"
     width: 1000
     height: 666
     isCached: true
@@ -68,6 +68,6 @@ related:
         height: 500
         isCached: true
 
-secured: "aS++/yJbUiWq75WdfENkp/b89HbvRBNcfz7y+56L1tQu9Zp33peW2sEpaX7SFEJk0D01OHvcHfHKSEuTAYwHUe4s/N1Qy0pmFGVhxI9Z6YXX4yYm7Cifi7Yx2j8c0JQC4ypM4s/q7FH8EM8wU4lME2waAx9ZOCjoEWZ7ygRLpbpEHE94FeZMAbCsYvykRZBu/E+15+J6asVb5vPZE+l8CwV1iLMrB7wR1IXQ/weZQr5iu3k88qCOOTIV7BtaG6A+fhSbGolEj7SIiPs3otoj4OMYvUGjRvj5uwsiALBEoy3IkmSt3ervwTT+IG5O/6tlpKWilG4IfCmhH/mtocu+LhQhWkDSe/1siocxL5mKa/KruiV3JJIkrgtz3pRQBEcWDdyUUEtjiHgEvRmmG0LZkNJGsktP97lCNqa3aIpSjt97rPxh9WO5XwPtmb51L7Qntdq4zh/CR1DYFJ23gpbLLwaPieHvAWIB5OsOYls5LwoH2e8mPZTPLQndGElaRurTxZ7mIHNJFdDztECUMekm6A==;z/a0MnqgjQcfYY6HC7lQCQ=="
+secured: "dGJWlHSBln1UglcsXleC9ggjZRN78f/VyHAXktUMSM9s77MXb1Oiwnys01+W6LVpPqsCdsq603aGl3jw75W+Hh1coHVr6p/l2Z1bG5nyo2LbW5eQTaqwost5Rxl5I9tqdAT0esLk4tSajc63yF4wUO5EjJGPeQJu6o1ibAl5urvWV3UsasR0CvUvfnYscFZwasKbdP+iL9pV2kWZUZAvMB/OhpObb/48641trRgKA1v+NVyCDZWoI+8qIAo8aFo/vETpUYfqxJhvVhGQalPWHul4+LLTUo6s8ZCipSPtl+P9F4aMNu7inJqUpA8SHgijCm/w7tlAjI7AP0aNVj0DeF3+ZSwY24V1U1ZZI/t05Fs=;7RUO/1dz0v8vFtL+/SR2nA=="
 ---
 

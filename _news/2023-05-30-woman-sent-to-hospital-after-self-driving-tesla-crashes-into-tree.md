@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla driver claims she crashed into a tree on ‘self-driving mode’"
+    excerpt: "A Tesla driver in Michigan claimed that her car was in “self-driving mode” when she crashed into a tree. As usual, it is important to take these claims with a grain of salt until the data is collected. The accident happened on Sunday evening near Big Rapids."
+    publishedDateTime: 2023-05-30T11:00:00Z
+    webUrl: "https://electrek.co/2023/05/30/tesla-driver-claims-crashed-tree-self-driving-mode/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 84
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Woman recovering after Tesla crashes in self-driving mode"
     excerpt: "A woman hit a tree after law enforcement said she put her Tesla in self-driving mode.The crash happened Sunday night in Me"
     publishedDateTime: 2023-05-29T14:28:00Z
@@ -65,6 +79,6 @@ related:
       domain: mlive.com
     quality: 19
 
-secured: "PmqfogWn9Lo3px2FyaKXoDArPrZwnstcSVqZUwZ5RCGnZCRJ15zPQ8C6wGTAsiV3ve6IdjvcF6tZ0rE1emVyaJtGekBbtOfXk1lSrb9Nwqg66f6qW02OiHDSDBcLMccaWwFu2GHHguMCaQq0eOua5mktUjHK/M9xUOI3I9wBBkSoPZrNfVZljBgxq+ALFiqKI7BeZnmSi9U/6MQkG8DWnpdCfE6led4lGEfqYwwBKjQtMnYKdmrh4XFi7eHrGXpxmSIivajDgh7EFbcJFsqx1Bi1y3TB02fbSz7plc/vGde09J42eSt3Ovkq59cVnDS4HOzTA4dJEf0TotXDmsqWvdVpj1q+ZOT6aQE/GHlhwPI=;LbLzIqboHZKfCD6FeqGqLg=="
+secured: "2owXLTqOuSuK6c52nJuSljlq0VOLZpQvAenMR0NK+VvkbkzBP6YNpcd/vo7UHtQCTxtP7GLXN53RgelFkCY6Fi7FN0CPpWVsFt/3fVGkUGU+tuAJe1HTjuQS6G7vn+/L5QVSaAbFP5rmohC1y0A/B3Q6mDPs7MCvmFF0296udizDQA/mU/7dP6zem00wZqXS3nIpfZYiC8CZZ9AdYuEM1dMA+oZO8KJDeyE7F3quLaqMqwIj2Mh3rvI8hQyYDs1tIcJkjjhhxQmngAwPLdy6jR6gsTEESc0Ffqwrk1qLG4N5SqP2f+uVKRQi8SbHWlH63WB3vK+hLU7jI4MY7O/wvWhybXOGRUPGo7oTTxdd1I9+h3iFSI1LfqQsS2nSzTNxIapx1L6hkIzEFHInzGBLjpErgF6oAHmGOVb1jv3vkmRiyVYFXsW2E0j/K9nZJF/7VSGB/Pl1NnOuLw4/uY6VAzI5v0n+RrGZmEOe3Mqbx+zyo3tONF+8vpzcAKN2yVEIUuBvHcKO9odCtYjwrSjp2Q==;VpGeAtZ6SR+YrBSNhSRhKg=="
 ---
 

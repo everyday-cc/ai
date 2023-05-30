@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Nvidia is building Israel’s most powerful supercomputer for AI applications"
+    excerpt: "The system, called Israel-1, is expected to deliver performance of up to eight exaflops of AI computing that will essentially make it one of the world"
+    publishedDateTime: 2023-05-30T10:41:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/articleshow/100621717.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/amp_articleshow/100621717.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/amp_articleshow/100621717.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://static.toiimg.com/photo/msid-100621670/100621670.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Nvidia is up 165% in 2023. Here's why its the clear winner in the AI race so far."
     excerpt: "Nvidia's role in powering the AI sector's vast ambitions means it will be a clear leader in the space for a long time, sources told Insider."
     publishedDateTime: 2023-05-27T12:15:00Z

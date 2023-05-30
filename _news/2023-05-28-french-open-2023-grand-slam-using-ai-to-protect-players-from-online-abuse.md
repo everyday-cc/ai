@@ -26,35 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "Digital Marketing In 2023: The Rise Of AI And What It Means For Your Strategy"
-    excerpt: "If you’re a digital marketer, you can’t execute your strategies without technology. But how does AI fit into the picture, and how can you use it to your advantage?"
-    publishedDateTime: 2023-05-26T22:00:00Z
-    webUrl: "https://www.forbes.com/sites/johnhall/2023/05/26/digital-marketing-in-2023-the-rise-of-ai-and-what-it-means-for-your-strategy/"
-    ampWebUrl: "https://www.forbes.com/sites/johnhall/2023/05/26/digital-marketing-in-2023-the-rise-of-ai-and-what-it-means-for-your-strategy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnhall/2023/05/26/digital-marketing-in-2023-the-rise-of-ai-and-what-it-means-for-your-strategy/amp/"
+  - title: "Regulators take aim at AI to protect consumers and workers"
+    excerpt: "AI also affects hiring, housing and working conditions ... hosted by software industry group BSA. “Those could start with industry standards and some sort of coalescing around that. And decisions about whether or not to make those compulsory, and ..."
+    publishedDateTime: 2023-05-26T09:28:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/regulators-aim-ai-protect-consumers-workers-99622780"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/regulators-aim-ai-protect-consumers-workers-99622780"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/regulators-aim-ai-protect-consumers-workers-99622780"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 101
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/616f031ae034e7cc41252b6e/0x0.jpg?format=jpg&crop=1549,1162,x0,y0,safe&width=1200"
-        width: 1200
-        height: 900
+      - url: "https://s.abcnews.com/images/Business/wirestory_8f5a450bd05e6079c742a9ce00b5c576_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "At ISC 2023: Hyperion Reports HPC Industry Grew 4% in 2022; AI to Drive Stronger Growth Next and Following Years"
-    excerpt: "The HPC industry managed to achieve modest overall growth in 2022, but growth of any kind was in doubt right up to the end of the year, according to HPC-AI industry analyst firm Hyperion Research, which hosted its bi-annual HPC market update at a breakfast event this week during the ISC 2023 conference in Hamburg."
-    publishedDateTime: 2023-05-25T17:21:00Z
-    webUrl: "https://insidehpc.com/2023/05/at-isc-2023-hyperion-reports-hpc-industry-grew-4-in-2022-ai-to-drive-stronger-growth-next-and-following-years/"
+  - title: "Regulators take aim at AI to protect consumers and workers"
+    excerpt: "AI also affects hiring, housing and working conditions. Ben Winters, Senior Counsel for the Electronic Privacy Information Center, said a joint statement on enforcement released by federal agencies last month was a positive first step."
+    publishedDateTime: 2023-05-27T04:27:00Z
+    webUrl: "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers"
+    ampWebUrl: "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers/amp/"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 18
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 57
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/05/Hyperion-0523-market-update-image-1.png"
-        width: 600
-        height: 332
+      - url: "https://www.ocregister.com/wp-content/uploads/2023/05/OCR-Z-BOFA-SVB-0316.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "MFmvtY2krT1I+VUvz6zMgaObUu8OqUpSBxduPBFcJwBWj0KQw9/pdP/APe7MO5QuDGrL7vYAUytJHlUf37SAsv2UnvKojqMeU4Apaekf9SgXk/men9+Pyddg2lJBK3L7PTniulN7sA5utvhy5M5VxIRHfQrHxWKDxuMRvmCaLFuoaoLU46VwQQUuhPBPjZc5NWd4TvOIQ1eNiJpHxCJgAR+dUU9qTkABf2U3CHOoQiD6vl1ru1y2DRyym9SG2nHBBtg6jRuBhsEhHiv+0Pl2v97k/vimIz8ujCD833Hd+DaqrKa4B27XjXmZ+6ce1c3JPOU8YU6ym+oWj7X4YMou2fptXVbUICNO0xDRmQZqreyRc5WOpP9bck/dYReHEllFhsyiLQh3Bk4o3IEidmNJ2rgE7SEPnyqvkSgMwIvJtXHnn5OgYTBv8doQ1Q3V9Aq7HU5yl2k+uJ1+vseGlRFSN2t0PEBnsPewdt2xoNhv1vQQ9jk7uwziisRO30zzDAroGIV0SV7loKPDZhR0ToR2WA==;OXYEzaLA0i0eTNHI3b83JQ=="

@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Tesla driver claims she crashed into a tree on ‘self-driving mode’"
+    excerpt: "A Tesla driver in Michigan claimed that her car was in “self-driving mode” when she crashed into a tree. As usual, it is important to take these claims with a grain of salt until the data is collected. The accident happened on Sunday evening near Big Rapids."
+    publishedDateTime: 2023-05-30T11:00:00Z
+    webUrl: "https://electrek.co/2023/05/30/tesla-driver-claims-crashed-tree-self-driving-mode/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 84
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Woman recovering after Tesla crashes in self-driving mode"
     excerpt: "A woman hit a tree after law enforcement said she put her Tesla in self-driving mode.The crash happened Sunday night in Me"
     publishedDateTime: 2023-05-29T14:28:00Z

@@ -45,6 +45,22 @@ related:
         width: 1000
         height: 559
         isCached: true
+  - title: "UP Fintech Holding Limited Reports Unaudited First Quarter 2023 Financial Results"
+    excerpt: "UP Fintech Holding Limited (NASDAQ:TIGR) (\"UP Fintech\" or the \"Company\"), a leading online brokerage firm focusing on global investors, today announced its unaudited"
+    publishedDateTime: 2023-05-30T07:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32618787/up-fintech-holding-limited-reports-unaudited-first-quarter-2023-financial-results"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32618787"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32618787"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "UP Fintech posts solid 2023 Q1 results as global expansion scales up"
     excerpt: "Non-GAAP profit doubled quarter-over-quarter (QoQ) to US$10.33 million, a two-year highNumber of new customer accounts up 40% QoQ, thanks to"
     publishedDateTime: 2023-05-30T09:07:00Z

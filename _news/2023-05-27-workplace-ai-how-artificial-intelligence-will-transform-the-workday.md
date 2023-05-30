@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-art
 webUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
-  - title: "Workera introduces the world's first skills assessments for generative AI"
-    excerpt: "PALO ALTO, Calif., May 25, 2023 /PRNewswire/ -- Series B startup Workera announces the release of its generative AI assessments to test, rate and develop the skills of this cutting-edge technology in the contemporary workforce. Over 1,000 users have ..."
-    publishedDateTime: 2023-05-25T17:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/workera-introduces-the-world-s-first-skills-assessments-for-generative-ai-1032352473"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
   - title: "Generative AI: How it Works, History, and Pros and Cons"
     excerpt: "Generative AI is used in everything from creative to academic writing and translation; composing ... in which prompts can be given and interactions can take place in plain language. Here are some of the most popular recent examples of generative AI ..."
     publishedDateTime: 2023-05-26T18:17:00Z

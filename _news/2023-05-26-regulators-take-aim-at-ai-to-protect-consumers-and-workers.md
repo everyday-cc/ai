@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/regulators-aim-ai-prot
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/regulators-aim-ai-protect-consumers-workers-99622780"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: ABC News
@@ -41,6 +41,22 @@ related:
       - url: "https://www.ocregister.com/wp-content/uploads/2023/05/OCR-Z-BOFA-SVB-0316.jpg?w=1024&h=682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "French Open 2023: Grand Slam using AI to protect players from online abuse"
+    excerpt: "As the French Open introduces a new technology to help players filter out social media abuse, BBC Sport looks at the issues tennis players encounter online."
+    publishedDateTime: 2023-05-28T15:29:00Z
+    webUrl: "https://www.bbc.co.uk/sport/tennis/65706479"
+    ampWebUrl: "https://www.bbc.com/sport/tennis/65706479.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/tennis/65706479.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_sport/4BEF/production/_129893491_swiatek_gettytwo.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "XJsIgrgci1ZugRhm9SeGQG0453avu3/XHW4J8tu18hB3HikAnT+We916bqr9frq/EH9g1Qoli5Lt4FpTkjcMmBNL6xsqw4JXccRAoYqkhJNDdiTY4CaZ5K1voVl1cDNvDlky9GCEbEVaHuwZqBTIjZfqq5F8ybeo5NysbSsBlEAuiDG0yKMo32qAl8HVnhVG/Y0rAQxMgi98U46kodoIk7qAWtM+nlMTPNbwytdYCdt8vlbXpzC3XkS5vDMgyIma3+DRaVVLucMMGonPLV1EdkE06r48glEyTvDkovCS4MzoxLrEwiscPvJOa3WlySX123Owq8iNpBs2hQR4FSZCeESoFkg9V/4IGHqZeu5/F9ACqkvC8o1FItgUO0eP56Q1XKErcxdQTjktXg715dt6Ln7Wp+P/osSAr6/jTX+sbghf5eDtM9YIy7rHAyWz2Uy4Lv2c0V/+Vo6jxDnAMqmZDRUcbyxWqhYB3HRKu9870rstUdnE7705hZiKQW0TPV/xGhu1jUuAOONWppUqzlvTeA==;/nhnMCtl8nmGgk1G0CuCNg=="

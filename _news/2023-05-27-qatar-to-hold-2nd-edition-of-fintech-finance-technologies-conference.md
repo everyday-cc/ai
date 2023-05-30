@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd
 cdnAmpWebUrl: "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference/amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
       - url: "https://media.wired.com/photos/647110b557ff6ec62db8a73d/191:100/w_1280,c_limit/Revolut-Needs-A-Plan-B-Business-1372216177.jpg"
         width: 1280
         height: 670
+        isCached: true
+  - title: "UP Fintech Holding Limited Reports Unaudited First Quarter 2023 Financial Results"
+    excerpt: "UP Fintech Holding Limited (NASDAQ:TIGR) (\"UP Fintech\" or the \"Company\"), a leading online brokerage firm focusing on global investors, today announced its unaudited"
+    publishedDateTime: 2023-05-30T07:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32618787/up-fintech-holding-limited-reports-unaudited-first-quarter-2023-financial-results"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32618787"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32618787"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "UP Fintech posts solid 2023 Q1 results as global expansion scales up"
     excerpt: "Non-GAAP profit doubled quarter-over-quarter (QoQ) to US$10.33 million, a two-year highNumber of new customer accounts up 40% QoQ, thanks to"

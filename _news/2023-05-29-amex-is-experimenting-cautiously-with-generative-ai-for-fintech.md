@@ -29,17 +29,17 @@ images:
     isCached: true
 
 related:
-  - title: "BM Fintech Signs Mou With Centre For AI Innovation Global"
-    excerpt: "BM Fintech - Bait Al Mashura Finance Consultations and CEAI (Centre for AI Innovation) - MyFinB have signed a memo"
-    publishedDateTime: 2023-05-29T07:04:00Z
-    webUrl: "https://menafn.com/1106336636/BM-Fintech-Signs-Mou-With-Centre-For-AI-Innovation-Global"
+  - title: "BM Fintech signs MoU with centre for AI innovation global"
+    excerpt: "BM Fintech Bait Al Mashura Finance Consultations and CEAI (Centre for AI Innovation) MyFinB have signed a memorandum of"
+    publishedDateTime: 2023-05-29T06:02:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/29/05/2023/bm-fintech-signs-mou-with-centre-for-ai-innovation-global"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
     quality: 39
     images:
-      - url: "https://menafn.com/updates/pr/2023-05/29/TP_5c0f8image_story.jpg"
+      - url: "https://thepeninsulaqatar.com/get/maximage/20230529_1685340232-924.jpg?1685340232"
         width: 1000
         height: 666
         isCached: true

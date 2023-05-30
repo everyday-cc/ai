@@ -50,6 +50,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Five urgent actions needed on AI by UK Government"
+    excerpt: "Generative AI - is developing rapidly. Meanwhile, the UK Government’s AI White Paper has set out an approach to AI regulation that is sector-specific and intended to be agile and a fleet of foot. While the consultation on the White Paper runs its course,"
+    publishedDateTime: 2023-05-30T10:36:00Z
+    webUrl: "https://www.techuk.org/resource/five-urgent-actions-needed-on-ai-by-uk-government.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 39
+    images:
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/cbbd3a03-45dd-4050-99d9080c5a591e80/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Whitehall-city-65234851-web-1500px.jpg"
+        width: 400
+        height: 276
+        isCached: true
   - title: "Arm unveils TCS23, driving immersive experiences and new-generation AI applications"
     excerpt: "Arm held a new product launch event at COMPUTEX 2023, unveiling the \"2023 Total Compute Solution\" (TCS23). Chris Bergey, Senior Vice President and General Manager of Arm's Client Line of Business, stated that TCS23 includes the new Arm Immortalis GPU based on the Arm fifth-generation GPU architecture,"
     publishedDateTime: 2023-05-29T06:43:00Z

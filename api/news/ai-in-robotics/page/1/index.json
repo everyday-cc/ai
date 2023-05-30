@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-30-should-your-company-be-embracing-ai.md",
+      "title": "Should Your Company Be Embracing AI?",
+      "excerpt": "As businesses continue to implement AI into their growth campaigns, you might be wondering if it’s time for you to follow suit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2023/05/30/should-your-company-be-embracing-ai/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2023/05/30/should-your-company-be-embracing-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6470f1e77c557919ad569955/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 751,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/05/30/should-your-company-be-embracing-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/30/should-your-company-be-embracing-ai/amp/",
+      "publishedDateTime": "2023-05-30T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-29-very-human-questions-about-artificial-intelligence.md",
       "title": "Very human questions about artificial intelligence",
       "excerpt": "AI experts tell us we live in unpredictable times. They have no answers and since ordinary people like us don’t even know the right questions to ask, EL PAÍS went to the Institute for Futures Studies",
@@ -880,8 +932,8 @@
       "title": "3 Undervalued Artificial Intelligence and Robotics Stocks to Buy Now",
       "excerpt": "Artificial intelligence (AI) has engulfed the headlines ... Even Warren Buffett and Charlie Munger discussed AI and robotics at the Berkshire Hathaway annual meeting. But like most trends ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-undervalued-artificial-intelligence-and-robotics-stocks-to-buy-now",
-      "originalUrl": "https://www.nasdaq.com/articles/3-undervalued-artificial-intelligence-and-robotics-stocks-to-buy-now",
+      "webUrl": "https://www.nasdaq.com/articles/3-undervalued-artificial-intelligence-and-robotics-stocks-to-buy-now?time=1684664100",
+      "originalUrl": "https://www.nasdaq.com/articles/3-undervalued-artificial-intelligence-and-robotics-stocks-to-buy-now?time=1684664100",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -891,7 +943,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-21T04:15:00-07:00",
+      "publishedDateTime": "2023-05-21T03:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",
@@ -1342,50 +1394,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-tesla-updates-ai-trained-robot-army-takes-new-bots-for-a-walk.md",
-      "title": "Tesla updates AI-trained robot army, takes new bots for a walk",
-      "excerpt": "When it was first revealed at the Tesla AI Day 2022, the humanoid robot needed assistance from staff and could barely stand.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/tesla-robot-army-takes-a-walk",
-      "originalUrl": "https://cointelegraph.com/news/tesla-robot-army-takes-a-walk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-05/48bbada3-10a1-4d54-813d-2764c5b0ce1c.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/tesla-robot-army-takes-a-walk/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/tesla-robot-army-takes-a-walk/amp",
-      "publishedDateTime": "2023-05-17T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

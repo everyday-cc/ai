@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "The News, Media Ethics And ChatGPT For PR And Comms Work"
+    excerpt: "ChatGPT has been an absolute sensation since its launch in November 2022. It brings to bear an impressive array of capabilities, from writing software code to creating hipster craft cocktail recipes. Its generative artificial intelligence (AI) cousins, including Google’s Bard and Microsoft’s Bing AI, deliver similar features and functionality."
+    publishedDateTime: 2023-05-30T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/the-news-media-ethics-and-chatgpt-for-pr-and-comms-work/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/the-news-media-ethics-and-chatgpt-for-pr-and-comms-work/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/the-news-media-ethics-and-chatgpt-for-pr-and-comms-work/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6470eeb4176d959a57569955/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
     publishedDateTime: 2023-05-29T16:00:00Z
@@ -62,17 +78,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google Search starts rolling out ChatGPT-style generative AI results"
-    excerpt: "One example screenshot of a \"Bluetooth speaker\" search on desktop shows a big row of \"Sponsored\" shopping ads, then the generative AI results start to show up in a big blue box about halfway down the first page. The blue box summarizes a bunch of ..."
-    publishedDateTime: 2023-05-25T17:41:00Z
-    webUrl: "https://arstechnica.com/gadgets/2023/05/google-search-starts-rolling-out-chat-gpt-style-generative-ai-results/"
-    ampWebUrl: "https://arstechnica.com/gadgets/2023/05/google-search-starts-rolling-out-chat-gpt-style-generative-ai-results/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/05/google-search-starts-rolling-out-chat-gpt-style-generative-ai-results/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
   - title: "ChatGPT takes center stage as students ditch tutors in favor of AI-powered learning"
     excerpt: "The findings show many students and parents using ChatGPT, with some completely replacing their tutoring sessions with the AI tool."
     publishedDateTime: 2023-05-29T16:33:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-05-30/qualcomm-says-a
 webUrl: "https://www.bloomberg.com/news/articles/2023-05-30/qualcomm-says-ai-will-demand-more-power-than-just-the-cloud"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:
@@ -43,6 +43,6 @@ related:
         height: 800
         isCached: true
 
-secured: "fmpXCkRrhk57PglHkIUv0aVGANYEfGcatBB7EvixC+r7Aw92QQHROzrfRURRHW+QflrLnd4vnIWdunYBOHW0uEvGoLwacsU/6vEliJj8bINlIEgMB0YJ1h+wgZ7GisHg4JZin3rvwlMvnSnrTvJ4l4GofARKXHd9x/QQgVaovHIGPRrjT5+/IW0DvmkGEL1pn4h9/0G4eSaCNGG1PAn1tIDs9hvuLOyzAbpR72r7q5D5nwAM/KG0nfHf6OZADNfSLUy6fZ3MwG+en/tgMrSsBgU3lRclLzqp+S3NFq4Gm87kn7B8uJw6TcpEcTOgOVJjU2lJ7BYAy/5bfyxyGOad9Cp4F4+g+puweU7zqElmjYk=;LOguBEs+e8/Eq61/6OFBog=="
+secured: "JdZ+Pts4O6cvH/Ck43/CmU6X5bmpsFcd6GHS7U6ukZzmyZKUklSIVqJppaXHL0lo37INGC9+s4dW95Za5sKWK+C6uAXDyTTfDnRX19a/MWoqwLxU06xMvYrCyiXYvq6CJmdOY12xB/KJ8McRPHJwaVLGOv0xtN0VWKFrxxInqg7QI7prBAzcWx5MG6N1RKKZJXHAErD6xyx7f/AAs1SOmmG1Bsq7/vbCDRfrz2ry7Yg4kMCIev12XEf/ecdQ6XBjAcahWp8t/1G389rfVAXqftMyyEjRsPnSJBYTSKTTTLC2JKJo/OpXL/Z26yIbuP0bzreZFgzHyfm0496JUUUFXMGRHRCAAd4t8cYAyCxWRh9zl5qUOoJfD/t8zIIZa/VTrH2FFlmpP8DW7g30ouMf3BFSCLun59KGc3XoAnrql8/gZp1yNVQ3G09y9y7xMMKSsfjAWknem1v2LHjNDRLdTSWCDTgzJy4ibI6BSpNhsmPPt8j+sNKEteQ2qFVU71DQ/bpldTr/oogCT4tN6cIOHg==;iy0YvfxgnRBuXp8Is5Ac5Q=="
 ---
 
