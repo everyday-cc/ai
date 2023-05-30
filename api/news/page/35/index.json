@@ -2,6 +2,387 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-05-05-idvv-announces-artificial-intelligence-ai-client-in-medical-sector.md",
+      "title": "IDVV Announces Artificial Intelligence (AI) Client In Medical Sector",
+      "excerpt": "LAS VEGAS, NV / ACCESSWIRE / May 5, 2023 / International Endeavors Corporation 'IEC' (OTC PINK:IDVV) announced that its AI division WITech has",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/idvv-announces-artificial-intelligence-ai-client-in-medical-sector-1032298117",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/idvv-announces-artificial-intelligence-ai-client-in-medical-sector-1032298117",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-05T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-scientists-warn-of-ai-dangers-but-dont-agree-on-solutions.md",
+      "title": "Scientists warn of AI dangers but don't agree on solutions",
+      "excerpt": "Margaret Mitchell, a former leader on Google’s AI ethics team, said she’s upset that Hinton didn’t speak out during his decade in a position of power at Google, especially after the 2020 ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/wireStory/scientists-warn-ai-dangers-agree-solutions-99051162",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/scientists-warn-ai-dangers-agree-solutions-99051162",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/wirestory_5f7dc295a576833dfc3378071b5716f2_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/scientists-warn-ai-dangers-agree-solutions-99051162",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/scientists-warn-ai-dangers-agree-solutions-99051162",
+      "publishedDateTime": "2023-05-05T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-simplifying-the-business-of-care-using-ai-and-blockchain.md",
+      "title": "Simplifying The Business of Care Using AI and Blockchain",
+      "excerpt": "Blockchain technology could revolutionize the industry by eliminating much of the inefficiencies and waste which has been normalized in the medical-insurance exchange. getty. In 2",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/05/simplifying-the-business-of-care-using-ai-and-blockchain/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/05/simplifying-the-business-of-care-using-ai-and-blockchain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645407220ec95baad79c02fb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/05/05/simplifying-the-business-of-care-using-ai-and-blockchain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/05/05/simplifying-the-business-of-care-using-ai-and-blockchain/amp/",
+      "publishedDateTime": "2023-05-05T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-how-ai-and-llms-are-streamlining-financial-services.md",
+      "title": "How AI And LLMs Are Streamlining Financial Services",
+      "excerpt": "As AI becomes increasingly sophisticated and widely adopted, we can anticipate even more innovation in the fintech sector, leading to smarter, more efficient financial services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/05/how-ai-and-llms-are-streamlining-financial-services/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/05/how-ai-and-llms-are-streamlining-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64542fab9410055126fb7277/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 715,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/05/how-ai-and-llms-are-streamlining-financial-services/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/05/how-ai-and-llms-are-streamlining-financial-services/amp/",
+      "publishedDateTime": "2023-05-05T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-data-governance-and-regulating-data-in-agriculture.md",
+      "title": "Data governance and regulating data in agriculture",
+      "excerpt": "While data governance and regulation continue to become a growing concern, with discussions around how data is collected by platforms and corporations to ensure personal information isn’t ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/data-governance-and-regulating-data-in-agriculture/536332",
+      "originalUrl": "https://www.itworldcanada.com/article/data-governance-and-regulating-data-in-agriculture/536332",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2023/04/Screen-Shot-2023-04-11-at-11.34.56-AM.png",
+          "width": 1224,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/data-governance-and-regulating-data-in-agriculture/536332?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/data-governance-and-regulating-data-in-agriculture/536332?amp=1",
+      "publishedDateTime": "2023-05-05T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-microsoft-is-helping-finance-amds-expansion-into-ai-chips.md",
+      "title": "Microsoft Is Helping Finance AMD’s Expansion Into AI Chips",
+      "excerpt": "Microsoft Corp. is working with Advanced Micro Devices Inc. on the chipmaker's expansion into artificial intelligence processors, according to people with knowledge of the situation, part of a multipronged strategy to secure more of the highly coveted components.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 488,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/05/05/1600x900/USA-ARTIFICAL-INTELLIGENCE-BIDEN-0_1683254919434_1683254950133.JPG",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-is-helping-finance-amd-s-expansion-into-ai-chips-71683222710006.html",
+      "publishedDateTime": "2023-05-05T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-the-uks-antitrust-agency-is-going-after-big-techs-ai-models-now.md",
+      "title": "The UK's antitrust agency is going after Big Tech's AI models now",
+      "excerpt": "Just a week after thwarting Microsoft's attempt to shell out $68.7 billion for video game maker Activision Blizzard, the UK's antitrust agency Competition and Markets Authority (CMA) announced that it will launch a review of the artificial intelligence landscape in Britain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/british-antitrust-regulator-initiates-review-of-artificial-intelligence-models/",
+      "originalUrl": "https://www.zdnet.com/article/british-antitrust-regulator-initiates-review-of-artificial-intelligence-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3ab8ef325c6e33edbf20cbedb830b8b735fdc5db/2023/05/05/68674ef7-3674-4257-a864-b0364eb1edac/gettyimages-1388879870.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/british-antitrust-regulator-initiates-review-of-artificial-intelligence-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/british-antitrust-regulator-initiates-review-of-artificial-intelligence-models/",
+      "publishedDateTime": "2023-05-05T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-05-meta-platforms-scoops-up-ai-networking-chip-team-from-graphcore.md",
+      "title": "Meta Platforms scoops up AI networking chip team from Graphcore",
+      "excerpt": "Meta Platforms Inc has hired an Oslo-based team that until late last year was building artificial-intelligence networking technology at British chip unicorn Graphcore.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/meta-platforms-scoops-up-ai-networking-chip-team-graphcore-2023-05-05/",
+      "originalUrl": "https://www.reuters.com/technology/meta-platforms-scoops-up-ai-networking-chip-team-graphcore-2023-05-05/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/8g5tZ20Sbn0AThhkzgz3v_o1wMA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WBUVTOEJBFKNFAXZSYE544RLH4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-05T06:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-05-the-best-movies-on-amazon-prime-video-may-2023.md",
       "title": "The best movies on Amazon Prime Video (May 2023)",
       "excerpt": "The beginning of May marks a bit of a spring cleaning for Amazon Prime Video. Several titles have gone out the door, while the latest additions to the Prime Video library are now settling in.",
@@ -844,366 +1225,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-greg-gutfeld-can-kamala-harris-handle-her-new-position-on-ai-or-will-she-wing-it.md",
-      "title": "GREG GUTFELD: Can Kamala Harris handle her new position on AI or will she wing it?",
-      "excerpt": "Fox News host Greg Gutfeld digs into the Biden White House tapping Vice President Kamala Harris as it's point person on AI on \"Gutfeld!\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/greg-gutfeld-can-kamala-harris-handle-her-new-position-on-ai-or-will-she-wing-it",
-      "originalUrl": "https://www.foxnews.com/opinion/greg-gutfeld-can-kamala-harris-handle-her-new-position-on-ai-or-will-she-wing-it",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15332ba0-38fb-48a2-b099-291423b0cc4d/8589599e-3047-4915-9ec6-97ad6a10f81f/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/greg-gutfeld-can-kamala-harris-handle-her-new-position-on-ai-or-will-she-wing-it.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/greg-gutfeld-can-kamala-harris-handle-her-new-position-on-ai-or-will-she-wing-it.amp",
-      "publishedDateTime": "2023-05-04T21:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-tired-of-applying-to-jobs-ai-can-help.md",
-      "title": "Tired of applying to jobs? AI can help",
-      "excerpt": "We have all been there: spending countless hours tailoring and designing our resumes, and writing and rewriting our cover letters for employers who ask for them. There is no point in denying that these tasks are as tedious as they get.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/tech-startup/news/tired-applying-jobs-ai-can-help-3310986",
-      "originalUrl": "https://www.thedailystar.net/tech-startup/news/tired-applying-jobs-ai-can-help-3310986",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/05/04/chatgpt_job_applications.jpg",
-          "width": 750,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/tech-startup/news/tired-applying-jobs-ai-can-help-3310986?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/tired-applying-jobs-ai-can-help-3310986?amp",
-      "publishedDateTime": "2023-05-04T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-godfather-of-artificial-intelligence-has-spoken-up-about-the-dangers-of-ai-is-it-too-late.md",
-      "title": "Godfather of artificial intelligence has spoken up about the dangers of AI: Is it too late?",
-      "excerpt": "Hopefully, Google scientist Geoffrey Hinton’s warnings about the technology’s potential harms will persuade other researchers to come forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/world/godfather-of-artificial-intelligence-geoffrey-hinton-has-spoken-up-about-the-dangers-of-ai-11683244206712.html",
-      "originalUrl": "https://www.livemint.com/news/world/godfather-of-artificial-intelligence-geoffrey-hinton-has-spoken-up-about-the-dangers-of-ai-11683244206712.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/05/05/600x338/AI_1683244895616_1683244900703.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/world/godfather-of-artificial-intelligence-geoffrey-hinton-has-spoken-up-about-the-dangers-of-ai/amp-11683244206712.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/godfather-of-artificial-intelligence-geoffrey-hinton-has-spoken-up-about-the-dangers-of-ai/amp-11683244206712.html",
-      "publishedDateTime": "2023-05-04T17:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-white-house-big-tech-bosses-told-to-protect-public-from-ai-risks.md",
-      "title": "White House: Big Tech bosses told to protect public from AI risks",
-      "excerpt": "Tech bosses were summoned to the White House on Thursday and told they must protect the public from the dangers of Artificial Intelligence (AI). Sundar Pichai of Google, Satya Nadella of Microsoft, and OpenAI's Sam Altmann were told they had a \"moral\" duty to safeguard society.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-65489163",
-      "originalUrl": "https://www.bbc.com/news/business-65489163",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/E7CC/production/_129604395_aigetty.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-65489163.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-65489163.amp",
-      "publishedDateTime": "2023-05-04T17:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-ai-could-enable-10000-robot-led-microbe-experiments-per-day.md",
-      "title": "AI Could Enable 10,000 Robot-Led Microbe Experiments Per Day",
-      "excerpt": "An artificial intelligence system enables robots to conduct autonomous scientific experiments ... two microbes associated with oral health—with no baseline information to start with. Bacteria consume some combination of the 20 amino acids needed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/immunology/news/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973",
-      "originalUrl": "https://www.technologynetworks.com/immunology/news/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/372973/ai-could-enable-10000-robot-led-microbe-experiments-per-day-372973-640x360.jpg?cb=20230505",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-amazons-ai-is-helping-the-police-watch-you.md",
-      "title": "Amazon's AI Is Helping the Police Watch You",
-      "excerpt": "Amazon markets the AI, called Rekognition, for a variety of applications from the innocuous (allowing videos to be searchable by the people and objects that appear in them) to more concerning applications, such as real-time tracking and security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Traffic%20cameras.jpg",
-          "width": 1280,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-need-to-improve-surgical-robotics-focus-on-the-motion-control.md",
-      "title": "Need to Improve Surgical Robotics? Focus on the Motion Control",
-      "excerpt": "They aren’t built with off-the-shelf motion technology. To develop advanced, differentiated robotics, motion control companies are developing high-performance, custom motion control products. A wide range of motors and specifically designed equipment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation/need-improve-surgical-robotics-focus-motion-control",
-      "originalUrl": "https://www.designnews.com/automation/need-improve-surgical-robotics-focus-motion-control",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/AdobeStock_447506276.jpeg",
-          "width": 1540,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-the-challenges-and-opportunities-of-using-artificial-intelligence-to-manage-chronic-conditions.md",
-      "title": "The Challenges and Opportunities of Using Artificial Intelligence to Manage Chronic Conditions",
-      "excerpt": "2 It is no surprise therefore that efforts are underway to look at how to best harness cutting-edge technologies such as artificial intelligence (AI ... This in turn could lead to a different therapy decision and subsequently a different health outcome.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/challenges-and-opportunities-using-artificial-intelligence-manage-chronic",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/challenges-and-opportunities-using-artificial-intelligence-manage-chronic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/artificial-intelligence-3382507_640%201online.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

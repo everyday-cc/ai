@@ -39,15 +39,6 @@ related:
         width: 361
         height: 240
         isCached: true
-  - title: "Opinion: Every corporate leader should give a commencement speech"
-    excerpt: "The value of an inspiring, well-delivered commencement speech ... is to set out values themselves. This is both a challenge and tremendous opportunity for corporate leaders,' Julia Hobsbawm writes."
-    publishedDateTime: 2023-05-25T12:00:00Z
-    webUrl: "https://www.crainscleveland.com/education/why-every-corporate-leader-should-give-commencement-speech"
-    type: article
-    provider:
-      name: Crain's Cleveland Business
-      domain: crainscleveland.com
-    quality: 4
 
 secured: "5KzaBmttZhUFZfqLAA71dtJsunC0VTh4s4lZESvHwaf+PW3FzATNPZ7nDq7j0PS3mDYfnV3RHB+U40kCypfz6f6ThNggD/9Bm6/LwDiEY4CE3dmvxOi9IH9e1/zx8iLXrCgOs2kDrT2wk21amLAsETtWOh1MHbOGLhFCuX0woA941EIafY/q49kVLf8qsnoM6OShJKvLuTovvoETXnNXgb7uKbHs16BGBO0VTGgEMSi3XygwO7oswsIOnn1YS6xi4ZHy2ZqfpHGwg7qEFF29fJ9wftiHEu5pzffNkEBLaiHMEI2ZqalzYKLUmBJT4EqVTmM2UikdtNZIJcWkBoGa+nAQiY9DQC+qBl3zlpKXen8=;Vxe8i9q9/iNZawWBCRj6Aw=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "Artificial Intelligence (AI) in Military Market worth $38.8 billion by 2028 - Exclusive Report by MarketsandMarkets™"
 excerpt: "The Artificial Intelligence (AI) in Military Market is estimated to be USD 9.2 billion in 2023 and is projected to reach USD 38.8 billion by 2028, at a CAGR of 33.3% during the forecast period according to a new report by MarketsandMarkets™."
-publishedDateTime: 2023-05-29T10:57:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-military-market-worth-388-billion-/2023/05/29/9822189.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-military-market-worth-388-billion-/2023/05/29/9822189.htm"
+publishedDateTime: 2023-05-29T11:42:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/05/29/9822189.htm"
+webUrl: "https://it.tmcnet.com/news/2023/05/29/9822189.htm"
 type: article
 quality: 11
 heat: -1
@@ -36,6 +36,6 @@ related:
         height: 1043
         isCached: true
 
-secured: "E2D8bm/1+zyFBi1LXX4zYb3Tx9DpKqia6BF1IZRbtPoy7OFXsLO6TLArYBZJS5CNOXJ1Why6OnRBl2wakKSqkvRXJs/GwCVrZHJisvQWbBxBrxn3RSnGzgGlOl+uac21unDKinB5/cJ6/ujMb25uc8ORiWc3t6iXztMWOiBSxgOSnxLt8v9H0mrOndb1Vjsl0b9RXEhCmvw1VmYLt4r/cJ+7G1HUd3ENcE+aX1vF/NWnov1H75/uiJBEI3TgOUZVSR8IE4AQS9reAtXr+CEm18J6lFfDYlSCbzDoXV6uT2e1KijQAZXxHSKiTvNcLRT24mBW+FMtZLTS0F8300Ld4SqSt+u/ORKxXSWFe8rB2x7Q3N6zlfzvpdteT/+ryAPiZYfiLg73AJelI86xtDl3/jQr6SkVhaM+FOPbbJcrtEwhTyF/2xCkuVtNBuDY/rbsCvxdrE4e3zIER0IpIp8fHRCswdxSgkRbGSGib/KdCuuJTp5CfHMPiOAR6ZfDBhQbs/xUugM8LFG8pHi2uAFlkQ==;H3V11OmGaAUZ7S1KBBlkQg=="
+secured: "djQVIjFvDZxfY3DhsREENG06IrLns/MQLHUUhJTtDT7HWFldOhlqXr1kfBnIOxTGtZFbpPGyAsgQhINSOt57ZrJFS5jZVSZ66AcYlOQn2GOIXuhvHWsz6rwL6xbEgRpfOE4p7KganenP/mxuPiY3hDEP/yz33PlP0lAJ0LS9UM9zF0vGydn6cJPSXJIO7ozAzN/uBP5iinZ6xXe3Ai2PF0CTN+pZmSOEf1WnGWBln21Q4OEZs1fEQikYVk5+6c9HbxzSytv8ymUo9F9DbicflOtidTNqwX3qM1XcxFNdw6hRf5n+Src2HMYr38Y2rDbhLAI7XkX2TU87a3sfTkSbO5VJfuVPZyIh+l05T86IYxUNOWJhgTMjSv1QMUDEDg2dC5Tk1O6YRQPY2SMPpuZRj2TVVwRBk/P1a4OBscHSCnU+cBZCUiQX24z/6vBnBHDVh+v4trTpOvRu3BwKSNIX1XWeP028Jf5Cm2Dggi4UI1nL6PKYBnSejowuHrsJPJJ6MElECHJnl5FvqM1d5n7dBA==;6r6uVgD9ItUCEGJP5G2Irg=="
 ---
 

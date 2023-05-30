@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/products/search/search-generative-ai-tips/"
 webUrl: "https://blog.google/products/search/search-generative-ai-tips/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -119,15 +119,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "15 Surprising Ways Industries May Soon Leverage Generative AI"
-    excerpt: "There’s more to generative AI than writing press blurbs, test questions and memos—indeed, there’s much more to generative AI than writing, period."
-    publishedDateTime: 2023-05-25T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/15-surprising-ways-industries-may-soon-leverage-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "3 ways generative AI is driving innovation in financial services"
     excerpt: "In some ways, GAI spells more of the same. According to the Bank of England’s research, machine learning, a sub-branch of AI, was last year already being used by 72% of respondents to a financial services survey. While AML and fraud detection ..."
     publishedDateTime: 2023-05-25T17:09:00Z

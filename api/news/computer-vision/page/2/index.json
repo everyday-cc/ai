@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-13-2023-computer-vision-system-market-research-report-analysis-by-2030.md",
+      "title": "2023, Computer Vision System Market Research Report Analysis by 2030",
+      "excerpt": "Computer Vision System Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-research-report-analysis-by-2030-2023-05-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-research-report-analysis-by-2030-2023-05-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-12T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-metaspectral-says-using-ai-and-computer-vision-can-monitor-environmental-hazards.md",
+      "title": "Metaspectral Says Using AI And Computer Vision Can Monitor Environmental Hazards",
+      "excerpt": "This company belives that artificial intelligence and computer vision can be used to monitor for environmental hazards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2023/05/12/metaspectral-says-using-ai-and-computer-vision-can-monitor-environmental-hazards/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2023/05/12/metaspectral-says-using-ai-and-computer-vision-can-monitor-environmental-hazards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645d1a1d43ea8cfc1f2796dd/0x0.jpg?format=jpg&width=1200",
+          "width": 924,
+          "height": 694,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2023/05/12/metaspectral-says-using-ai-and-computer-vision-can-monitor-environmental-hazards/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2023/05/12/metaspectral-says-using-ai-and-computer-vision-can-monitor-environmental-hazards/amp/",
+      "publishedDateTime": "2023-05-12T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-eu-parliament-backs-ai-restrictions-and-facial-recognition-ban.md",
       "title": "EU parliament backs AI restrictions and facial recognition ban",
       "excerpt": "The European parliament has voted in favour of a ban on biometric surveillance and restrictions on generative AI and foundation models such as ChatGPT.",
@@ -1285,92 +1389,6 @@
       "provider": {
         "name": "The Baltimore Sun",
         "domain": "baltimoresun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-computer-vision-is-transforming-inventory-management-in-the-retail-sector.md",
-      "title": "Computer Vision is Transforming Inventory Management in the Retail Sector",
-      "excerpt": "Retail business owners are often faced with issues in inventory management, which hampers the development of long-term customer relationships.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/technology/computer-vision-is-transforming-inventory-management-in-the-retail-sector",
-      "originalUrl": "https://www.bbntimes.com/technology/computer-vision-is-transforming-inventory-management-in-the-retail-sector",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/How_is_Computer_Vision_Transforming_Inventory_Management_in_the_Retail_Sector.png",
-          "width": 1532,
-          "height": 858,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-02-landing-ai-announces-the-worlds-first-validation-ready-computer-vision-software-for-fda-regulated-manufacturers.md",
-      "title": "Landing AI Announces the World's First Validation-Ready Computer Vision Software for FDA-Regulated Manufacturers",
-      "excerpt": "\"AI, starting with computer vision, is a game-changing tool for medical device, pharmaceutical and life sciences industries, and we'll see rapid innovation in the coming years,\" said Andrew Ng ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/landing-ai-announces-the-worlds-first-validation-ready-computer-vision-software-for-fda-regulated-manufacturers/article_1193883f-c73d-550c-b11e-e36827805b2c.html",
-      "originalUrl": "https://www.victoriaadvocate.com/landing-ai-announces-the-worlds-first-validation-ready-computer-vision-software-for-fda-regulated-manufacturers/article_1193883f-c73d-550c-b11e-e36827805b2c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/9/89/989f9cf4-43ac-5f44-8296-4db5b93b41bb/64510611dad8d.image.jpg?crop=1259%2C661%2C0%2C177&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-02T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
         "images": null,
         "publishers": null,
         "authors": null

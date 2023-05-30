@@ -129,15 +129,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "15 Surprising Ways Industries May Soon Leverage Generative AI"
-    excerpt: "There’s more to generative AI than writing press blurbs, test questions and memos—indeed, there’s much more to generative AI than writing, period."
-    publishedDateTime: 2023-05-25T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/15-surprising-ways-industries-may-soon-leverage-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "A Computer Scientist Breaks Down Generative AI’s Hefty Carbon Footprint"
     excerpt: "And that’s just for getting the model ready to launch, before any consumers start using it. Larger models do use more energy during their deployment. There is limited data on the carbon footprint of a single generative AI query, but some industry figures ..."
     publishedDateTime: 2023-05-25T13:34:00Z

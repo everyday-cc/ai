@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/marvell-technology-shares-pop-
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/marvell-technology-shares-pop-14-on-ai-lifts-chip-makers-74001f2e"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/murphy-mattmarvell_1200xx7418-4180-0-0.jpg"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Nvidia stuns markets and signals how artificial intelligence could reshape technology sector"
+    excerpt: "Shares of Nvidia, already one of the world’s most valuable companies, are skyrocketing after the chipmaker forecast a huge jump in revenue, signaling how vastly the broadening use of artificial intell"
+    publishedDateTime: 2023-05-25T16:32:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/nvidia-stuns-markets-signals-artificial-intelligence-reshape-technology-99602566"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/nvidia-stuns-markets-signals-artificial-intelligence-reshape-technology-99602566"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/nvidia-stuns-markets-signals-artificial-intelligence-reshape-technology-99602566"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 46
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_f6b9df3a4cafe1a4ee041cc736b97a89_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Marvell Technology Is the Latest Tech Firm to Benefit From AI"
     excerpt: "Marvell Technology (MRVL) is the latest tech firm to say it is benefitting from the boom in artificial intelligence (AI), and shares skyrocketed on Friday after the company released its first-quarter earnings."

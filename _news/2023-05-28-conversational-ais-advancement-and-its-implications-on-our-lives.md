@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/blockchain-conversational-
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/lite/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Financial Express
@@ -27,45 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "Rapid Advances In Artificial Intelligence And No Code Tools Are Enabling A Creative Revolution"
-    excerpt: "The creative renaissance that is currently taking place on the internet is being driven by generative AI, Low- and No-Code tools and increases in digital literacy."
-    publishedDateTime: 2023-05-25T12:17:00Z
-    webUrl: "https://www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/amp/"
+  - title: "US Updates National AI Strategy And Calls For Public Input"
+    excerpt: "The White House released an update outlining the Biden-Harris administration's latest initiatives in formulating the national AI strategy, AI policies, and AI regulation."
+    publishedDateTime: 2023-05-29T12:20:00Z
+    webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/05/29/us-updates-national-ai-strategy-and-calls-for-public-input/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 75
+    quality: 47
+  - title: "Dissecting the EU’s Artificial Intelligence Act: Implications and Industry Reaction"
+    excerpt: "As artificial intelligence (AI) rapidly integrates into the fabric of our society, regulators worldwide are grappling with the conundrum of creating a comprehensive framework that guides AI usage. Pioneering a move in this direction,"
+    publishedDateTime: 2023-05-25T20:19:00Z
+    webUrl: "https://www.unite.ai/dissecting-the-eus-artificial-intelligence-act-implications-and-industry-reaction/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 33
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645502e42d796d7ec61a40c2/0x0.jpg?format=jpg&width=1200"
-        width: 1200
+      - url: "https://www.unite.ai/wp-content/uploads/2023/05/christian-lue-C241mbgtgys-unsplash-996x600.jpg"
+        width: 996
         height: 600
         isCached: true
-  - title: "Arendai and AiQ Robotics Join Forces to Offer Unified Orchestration and Robotics Solution"
-    excerpt: "Arendai and AiQ robotics last Thursday announced a partnership that will enable the companies to expand their services into the rapidly growing industry 4.0. By combining Arendai's cutting-edge solution,"
-    publishedDateTime: 2023-05-29T02:33:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/32220-arendai-and-aiq-robotics-join-forces-to-offer-unified-orchestration-and-robotics-solution"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 60
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/f387e437c862082eed484b9d226001b5.jpg?t=20230529_022121"
-        width: 752
-        height: 408
-        isCached: true
-  - title: "The tech giants have an interest in AI regulation"
-    excerpt: "ChatGPT is an example of “generative” ai, which creates humanlike content based on its analysis of texts, images and sounds on the internet. Sam Altman, CEO of OpenAI, the startup that built it, told a congressional hearing this month that regulatory ..."
-    publishedDateTime: 2023-05-25T13:11:00Z
-    webUrl: "https://www.economist.com/business/2023/05/25/the-tech-giants-have-an-interest-in-ai-regulation"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 17
 
 secured: "XsFhbgapk8Nwb0jmrDPfRsjW1bQ3FgTvuj26uq16wXiHakPdtLyaMmOsLxONRzIctvz9naGtspbNb518twyr5U9YE4TD/YBiSvXgIYlI1QSsBFYzyAukmxBuFXUkztLvTgbj3u6TuSFR+vt4aAmdI+vm4WC/w7lq4G3/EaySSTk+iqaS8Gjay8gtisuDTh2X6hvJoktu/8QT2owyzsvTBFf13VkfCclzFvX4pjRiQt9PB25ilKyICw6ZPawylTzU1JjlSr17FPM5uyEBRHe/Lnw9b2GtJ2LuXHb76OEveujBvKAX3jy4A1GdZUL2gq7ZNhYI/lMInW48Y2ZH7aV3hwUQmKTi2wfxbkDJCzUcpdkiQ+nwke0YDdGlk5yXzwDwgQ1A49i3IPuYVMGuxwC0Ys/0cZL8lx/NRQML0gcbE2QLJZR96pY0oUqJFSWyzlMiWW9Nxi7JlnfOYRpFbJyY7DNDXpiZzPFZdbYnZNdhBXfcVdezAPu/UAqagSqJNanZ/bqL3eoc8QhgiP33mI6jvQ==;a5SxQnpmZxEItIKvP7Cm+g=="
 ---

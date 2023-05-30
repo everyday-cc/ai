@@ -78,20 +78,6 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "Microsoft’s President Backs New Agency to Regulate ChatGPT, Other AI Systems"
-    excerpt: "Sam Altman, CEO of ChatGPT creator OpenAI, touted the benefits of AI and acknowledged potential downsides of the technology during a Senate subcommittee hearing on Tuesday. Photo: Patrick Semansky/Associated Press WASHINGTON—Microsoft President Brad ..."
-    publishedDateTime: 2023-05-25T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/microsofts-president-backs-new-agency-to-regulate-chatgpt-other-ai-systems-c847bae0"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 81
-    images:
-      - url: "https://images.wsj.net/im-787791/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "A leaked Amazon generative AI sales playbook shows how the company is going after ChatGPT-maker OpenAI, Microsoft and Google"
     excerpt: "The guidelines may help Amazon make a stronger push in generative AI, where Microsoft, OpenAI, Google and others have taken an early lead."
     publishedDateTime: 2023-05-25T20:07:00Z
@@ -121,22 +107,6 @@ related:
       - url: "https://i.insider.com/6465284f7224930019f34a4f?width=1200&format=jpeg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "5 Ways Marketers Can Become More Strategic With ChatGPT"
-    excerpt: "But what do ChatGPT and other generative AI technologies such as Auto-GPT ... ChatGPT will help us expedite translation and expand our marketing content to more languages. We are also looking to use ChatGPT across such areas as chat, copy creation ..."
-    publishedDateTime: 2023-05-25T11:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/25/5-ways-marketers-can-become-more-strategic-with-chatgpt/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/25/5-ways-marketers-can-become-more-strategic-with-chatgpt/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/25/5-ways-marketers-can-become-more-strategic-with-chatgpt/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/60e30e5c4975bdf08feffd1f/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Google Search starts rolling out ChatGPT-style generative AI results"
     excerpt: "One example screenshot of a \"Bluetooth speaker\" search on desktop shows a big row of \"Sponsored\" shopping ads, then the generative AI results start to show up in a big blue box about halfway down the first page. The blue box summarizes a bunch of ..."

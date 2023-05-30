@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-04-21-smart-gun-operating-on-facial-recognition-goes-on-sale-in-us.md",
+      "title": "Smart Gun Operating On Facial Recognition Goes On Sale In U.S",
+      "excerpt": "Reuters Colorado-based Biofire Tech is taking orders for a smart gun enabled by facial-recognition technology, the latest development in personalized weapons that can only be fired by verified users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/smart-gun-operating-facial-recognition-goes-sale-us-3688139",
+      "originalUrl": "https://www.ibtimes.com/smart-gun-operating-facial-recognition-goes-sale-us-3688139",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.com/en/full/4448798/smart-gun-operating-facial-recognition-sale-us.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/smart-gun-operating-facial-recognition-goes-sale-us-3688139?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/smart-gun-operating-facial-recognition-goes-sale-us-3688139?amp=1",
+      "publishedDateTime": "2023-04-21T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-21-facial-recognition-is-expanding-its-watchful-eye-but-suffers-from-notable-fails.md",
+      "title": "Facial recognition is expanding its watchful eye but suffers from notable fails",
+      "excerpt": "Various police departments and businesses in the U.S. are increasingly using facial recognition as a security measure, but has been hit with notable criticisms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/facial-recognition-expanding-watchful-eye-suffers-notable-fails",
+      "originalUrl": "https://www.foxnews.com/tech/facial-recognition-expanding-watchful-eye-suffers-notable-fails",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e702dcb0-2ff1-4895-96a1-af55176105b0/298264ac-cd74-457f-913c-021026f36032/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/facial-recognition-expanding-watchful-eye-suffers-notable-fails.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/facial-recognition-expanding-watchful-eye-suffers-notable-fails.amp",
+      "publishedDateTime": "2023-04-20T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-python-developer-computer-vision-machine-learning.md",
       "title": "Python Developer – Computer Vision / Machine Learning",
       "excerpt": "Vacancy available in the heart of Cape Town’s genteel Southern Suburb, for a full-time Python Developer with experience in Computer Vision and Machine Learning to join our client’s engineering team to help bring innovative products to the market.",
@@ -1201,83 +1297,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-techsee-announces-new-multi-sensory-ai-for-service-automation-built-on-integration-between-openais-chatgpt-and-techsees-computer-vision-ai.md",
-      "title": "TechSee Announces New Multi-Sensory AI For Service Automation Built on Integration between OpenAI's ChatGPT and TechSee's Computer Vision AI",
-      "excerpt": "The integration of Computer Vision AI and Conversational Al will empower organizations to offer full service automation across all digital",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/techsee-announces-new-multi-sensory-ai-for-service-automation-built-on-integration-between-openai-s-chatgpt-and-techsee-s-computer-vision-ai-1032219428",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/techsee-announces-new-multi-sensory-ai-for-service-automation-built-on-integration-between-openai-s-chatgpt-and-techsee-s-computer-vision-ai-1032219428",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-council-post-why-responsible-ai-in-computer-vision-is-imperative.md",
-      "title": "Council Post: Why Responsible AI in Computer Vision is Imperative",
-      "excerpt": "Organisations and people must take the initiative in utilising computer vision and facial recognition in an ethical and responsible manner until governmental bodies are able to effectively regulate these developing technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/why-responsible-ai-in-computer-vision-is-imperative/",
-      "originalUrl": "https://analyticsindiamag.com/why-responsible-ai-in-computer-vision-is-imperative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-06T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

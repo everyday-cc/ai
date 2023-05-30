@@ -2,59 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2023-04-11-should-robots-with-artificial-intelligence-have-moral-or-legal-rights.md",
-      "title": "Should Robots With Artificial Intelligence Have Moral or Legal Rights?",
-      "excerpt": "Artificial intelligence is writing essays ... bolstering longstanding worries that robots might someday overtake us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/robots-ai-legal-rights-3c47ef40",
-      "originalUrl": "https://www.wsj.com/articles/robots-ai-legal-rights-3c47ef40",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-756352/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-10T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2023-04-11-how-robots-and-ai-are-transforming-the-surgery-room.md",
       "title": "How Robots and AI Are Transforming the Surgery Room",
       "excerpt": "Robotic devices and artificial intelligence are being increasingly incorporated into healthcare institutions across the world: What the future may hold for this critical sector.",
@@ -1207,6 +1154,50 @@
         "Microsoft AI",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-03-30-5-artificial-intelligence-etfs-for-investors-to-ride-the-ai-wave-plus-one-bonus-alternative.md",
+      "title": "5 Artificial Intelligence ETFs For Investors To Ride The AI Wave - Plus One Bonus Alternative",
+      "excerpt": "It invests in a diverse range of stocks in the robotics, automation and AI sectors. As well as investing in the tech more broadly, ROBO also has a focus on healthcare, where automation and artificial intelligence can help save lives, as well as drive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/03/30/5-artificial-intelligence-etfs-for-investors-to-ride-the-ai-waveplus-one-bonus-alternative/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/03/30/5-artificial-intelligence-etfs-for-investors-to-ride-the-ai-waveplus-one-bonus-alternative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/03/30/5-artificial-intelligence-etfs-for-investors-to-ride-the-ai-waveplus-one-bonus-alternative/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/03/30/5-artificial-intelligence-etfs-for-investors-to-ride-the-ai-waveplus-one-bonus-alternative/amp/",
+      "publishedDateTime": "2023-03-30T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

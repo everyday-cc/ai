@@ -9,7 +9,7 @@ ampWebUrl: "https://highschool.latimes.com/fountain-valley-high-school/opinion-s
 cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 58
-  - title: "Opinion: Every corporate leader should give a commencement speech"
-    excerpt: "The value of an inspiring, well-delivered commencement speech ... is to set out values themselves. This is both a challenge and tremendous opportunity for corporate leaders,' Julia Hobsbawm writes."
-    publishedDateTime: 2023-05-25T12:00:00Z
-    webUrl: "https://www.crainscleveland.com/education/why-every-corporate-leader-should-give-commencement-speech"
-    type: article
-    provider:
-      name: Crain's Cleveland Business
-      domain: crainscleveland.com
-    quality: 4
 
 secured: "OwkVVuqfg12+EdqDaztFeVSjkfzq0G8HHteXTnMN1F8BFUHI09gKKUVoCDt1hDhY2xo1n9vmyjmOuas9stajW6aiS+8xhWPOjHNYJA63h8/S5QQsIKk47mkE7ntxjtWub5jjtusNJ/uYbhgbkx/zqTTgej3UpPQVguJLwVH2XDj1p7sq+8BGWSH7KMuJ+zv3N1zGdi7xqIgL8gW8I0V2gyM+NPAEXgVbxyDyUi82YHZR6Eeb/SkAlDGDKFUb/1702zGAhRa2GdT/GpjCLTdZrSbFTuJWQFSlaXCw7j8jz1wvI3/jJz5gAbiPnJMdFgEG3lFT0Fc507zgkQjHTXw+coU3G3FhyUKVeTqMERWs87nYxYqHvn6ys35mKWg5G7wwgEkKrB07SXlZS6NsclY2D+PyyX1YjRZUBT4zdi74AsN6wVetVskKbe4UfuLOUVefx15F6FAO6Uff6Do4+n/GgmqptFGKdqvmh1zkeHWTkAq7asLFlps5l+LR6LhrMFFwxNoO2QLkinebeYnCCq029Q==;cLN8Hvb66TPhbPFa1yklJA=="
 ---

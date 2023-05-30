@@ -24,22 +24,6 @@ images:
     height: 960
     isCached: true
 
-related:
-  - title: "Regulating artificial intelligence is a 4D challenge"
-    excerpt: "Computer programmers have broadly embraced generative AI as a productivity-enhancing tool. By contrast, striking Hollywood scriptwriters may be the first of many trades to fear their core skills will be automated. This messy story defies simple solutions. Nations will have to adjust to the societal challenges in their own ways."
-    publishedDateTime: 2023-05-25T12:10:00Z
-    webUrl: "https://www.ft.com/content/57bc42f7-2b44-49e9-9df1-4facddd43e3d"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
-
 secured: "vpJWeKbk0wpBAuf9FksGADFLkIQVbpV3xo8BoK1rs87xpxGH0u3aTqnMo1t2m42jBibwOtk1W49iR9qwSrmPamzLHalIzQ50PUtGHjX78Idgz5OEvEl+LuRsFK8E7rjh8yCuCuVk95mxsgn9LxiWFuBq/FE8XHTW4clsU2/2vJtpYUx0Bu+RjaROgQG8cyc5Nz/88j/EIpFX+/6YMXiWiYdU/aZ3YGSsfcGGkz6uW09Le40r5nE+mZ/TWW96ctLuoTUeYHJmGPmIelkz4JhyKlRw9TNrR/dN14ZPxr7SB8hR4awZOLjM3+pcze44sx6Mc3VEynEx7N0hNpQt16l3DJEGD+kIhZMHoILPWctSMVQ=;PsW+oxaI/qkylp5FNfL3mg=="
 ---
 

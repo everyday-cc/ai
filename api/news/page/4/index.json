@@ -2,6 +2,370 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-25-what-are-some-controversies-surrounding-natural-language-processing.md",
+      "title": "What are some controversies surrounding natural language processing?",
+      "excerpt": "translate, extract, and organize information. However, the language processing tools such as Open AI's Chat GPT and other tools run into some challenges, such as misspellings, speech recognition, and the ability of a computer to understand the nuances of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/what-some-controversies-surrounding-natural-language-processing",
+      "originalUrl": "https://www.foxnews.com/tech/what-some-controversies-surrounding-natural-language-processing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/775bdb69-3050-4989-abd5-e41fb41dc74a/4ad6a84e-d689-406a-bc8a-135f5a9db1d6/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/what-some-controversies-surrounding-natural-language-processing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/what-some-controversies-surrounding-natural-language-processing.amp",
+      "publishedDateTime": "2023-05-24T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-ai-could-grow-so-powerful-it-replaces-experienced-professionals-within-10-years-sam-altman-warns.md",
+      "title": "AI could grow so powerful it replaces experienced professionals within 10 years, Sam Altman warns",
+      "excerpt": "Tech leaders, such as OpenAI's Sam Altman and Google's Sundar Pichai, posted essays this week, arguing in favor of regulating artificial intelligence as the tech becomes smarter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/ai-grow-powerful-replaces-experienced-professionals-10-years-sam-altman-warns",
+      "originalUrl": "https://www.foxnews.com/tech/ai-grow-powerful-replaces-experienced-professionals-10-years-sam-altman-warns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/add1ff58-28cd-4879-ab08-64d30b2db0e9/69b5d999-1496-431d-b86e-8ac249a316cc/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/ai-grow-powerful-replaces-experienced-professionals-10-years-sam-altman-warns.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-grow-powerful-replaces-experienced-professionals-10-years-sam-altman-warns.amp",
+      "publishedDateTime": "2023-05-24T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-the-security-hole-at-the-heart-of-chatgpt-and-bing.md",
+      "title": "The Security Hole at the Heart of ChatGPT and Bing",
+      "excerpt": "Indirect prompt-injection attacks can leave people vulnerable to scams and data theft when they use the AI chatbots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/chatgpt-prompt-injection-attack-security/",
+      "originalUrl": "https://www.wired.com/story/chatgpt-prompt-injection-attack-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/646ea845f2de86183cf5b400/master/pass/The-Security-Hole-at-the-Heart-of-ChatGPT-and-Bing-Security-GettyImages-1264516882.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/chatgpt-prompt-injection-attack-security/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chatgpt-prompt-injection-attack-security/amp",
+      "publishedDateTime": "2023-05-24T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-will-definitely-replace-me-americans-fear-artificial-intelligence-will-steal-their-jobs.md",
+      "title": "‘Will definitely replace me’: Americans fear artificial intelligence will steal their jobs",
+      "excerpt": "People in Texas sounded off on AI job displacement, with half of people who spoke to Fox News convinced that the tech will rob them of work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/definitely-replace-americans-fear-artificial-intelligence-steal-jobs",
+      "originalUrl": "https://www.foxnews.com/tech/definitely-replace-americans-fear-artificial-intelligence-steal-jobs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5347284-ddac-4097-8065-387edd09b96b/63aabd01-2815-4a73-a1e9-c19dca9ac7a4/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/definitely-replace-americans-fear-artificial-intelligence-steal-jobs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/definitely-replace-americans-fear-artificial-intelligence-steal-jobs.amp",
+      "publishedDateTime": "2023-05-24T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-singapores-ai-based-marketing-unicorn-raises-105-million-to-finance-ma.md",
+      "title": "Singapore’s AI-Based Marketing Unicorn Raises $105 Million To Finance M&A",
+      "excerpt": "Insider, an AI-powered marketing platform, said it has raised another $105 million from Qatar Investment Authority (QIA) and Istanbul-based buyout firm Esas Private Equity. The company said its latest funding round gives it a valuation of almost $2 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ardianwibisono/2023/05/25/singapores-ai-based-marketing-unicorn-raises-105-million-to-finance-ma/",
+      "originalUrl": "https://www.forbes.com/sites/ardianwibisono/2023/05/25/singapores-ai-based-marketing-unicorn-raises-105-million-to-finance-ma/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646ed3d9a2eb01ce6303a6f8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ardianwibisono/2023/05/25/singapores-ai-based-marketing-unicorn-raises-105-million-to-finance-ma/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ardianwibisono/2023/05/25/singapores-ai-based-marketing-unicorn-raises-105-million-to-finance-ma/amp/",
+      "publishedDateTime": "2023-05-24T22:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-the-trump-desantis-showdown-is-now-official-and-artificial-intelligence-is-right-in-the-middle-of-it.md",
+      "title": "The Trump-DeSantis showdown is now official, and artificial intelligence is right in the middle of it",
+      "excerpt": "In a video posted by Trump, DeSantis and Elon Musk are joined on Twitter Spaces by Adolf Hitler, the FBI, Dick Cheney, George Soros, and Klaus Schwab.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-ai-video-hitler-fbi-devil-ron-desantis-elon-musk-2023-5",
+      "originalUrl": "https://www.businessinsider.com/trump-ai-video-hitler-fbi-devil-ron-desantis-elon-musk-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/646ee4a950731c001938adcc?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-ai-video-hitler-fbi-devil-ron-desantis-elon-musk-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ai-video-hitler-fbi-devil-ron-desantis-elon-musk-2023-5?amp",
+      "publishedDateTime": "2023-05-24T21:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-an-early-warning-system-for-novel-ai-risks.md",
+      "title": "An early warning system for novel AI risks",
+      "excerpt": "AI researchers already use a range of evaluation benchmarks to identify unwanted behaviours in AI systems, such as AI systems making misleading statements, biased decisions, or repeating copyrighted content. Now, as the AI community builds and deploys increasingly powerful AI, we must expand the evaluation",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/an-early-warning-system-for-novel-ai-risks",
+      "originalUrl": "https://www.deepmind.com/blog/an-early-warning-system-for-novel-ai-risks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/646f6e9992ceb1a002f3c316_16x9-min.jpg",
+          "width": 3841,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-insilico-medicine-receives-ind-approval-for-novel-ai-designed-usp1-inhibitor-for-cancer.md",
       "title": "Insilico Medicine receives IND approval for novel AI-designed USP1 inhibitor for cancer",
       "excerpt": "Insilico Medicine, a generative artificial intelligence-driven clinical stage drug discovery company, today announced that the U.S. Food and Drug Administration (FDA) recently approved the initial investigational new drug (IND) application for ISM3091 for the treatment of patients with solid tumors.",
@@ -866,341 +1230,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-deep-robotics-launches-lite3-quadruped-robot-with-advanced-front-flipping-mobility.md",
-      "title": "DEEP Robotics launches Lite3 quadruped robot with advanced front flipping mobility",
-      "excerpt": "DEEP Robotics Co. has announced the launch in Europe of the newest version of its dexterous intelligent robot dog, Lite3.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/deep-robotics-launches-lite3-quadruped-robot-with-advanced-front-flipping-mobility/",
-      "originalUrl": "https://www.therobotreport.com/deep-robotics-launches-lite3-quadruped-robot-with-advanced-front-flipping-mobility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/05/deep-robotics-sponsored-featured-image-may2023.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-self-driving-car-startup-haomoai-unveils-low-price-delivery-robot.md",
-      "title": "Self-driving car startup Haomo.ai unveils low price delivery robot",
-      "excerpt": "On Monday, Great Wall Motor-backed Chinese self-driving car startup Haomo.ai unveiled the latest generation of its autonomous delivery vehicle, priced at RMB 89,999 ($12,767), which the company claims makes it the cheapest in the industry. The robot ...",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2023/05/23/self-driving-car-startup-haomo-ai-unveils-12767-delivery-robot/",
-      "originalUrl": "https://technode.com/2023/05/23/self-driving-car-startup-haomo-ai-unveils-12767-delivery-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
-          "width": 540,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-ai-in-retail-smarter-stores-smarter-product-design.md",
-      "title": "AI in retail: Smarter stores, smarter product design",
-      "excerpt": "Retail companies are turning to AI to handle a long list of challenges that would keep any business leader awake at night",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-in-retail-smarter-stores-smarter-product-design/",
-      "originalUrl": "https://venturebeat.com/ai/ai-in-retail-smarter-stores-smarter-product-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/AdobeStock_573239156-1.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-in-retail-smarter-stores-smarter-product-design/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-in-retail-smarter-stores-smarter-product-design/amp/",
-      "publishedDateTime": "2023-05-24T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-kubernetes-version-127-now-available-in-ibm-cloud-kubernetes-service.md",
-      "title": "Kubernetes version 1.27 now available in IBM Cloud Kubernetes Service",
-      "excerpt": "We are excited to announce the availability of Kubernetes version 1.27 for your clusters that are running in IBM Cloud Kubernetes Service.\nThe post Kubernetes version 1.27 now available in IBM Cloud Kubernetes Service appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/kubernetes-version-1-27-now-available-in-ibm-cloud-kubernetes-service/",
-      "originalUrl": "https://www.ibm.com/blog/kubernetes-version-1-27-now-available-in-ibm-cloud-kubernetes-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T05:51:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-redefining-the-consumer-experience-diageo-partners-with-sap-and-ibm-on-global-digital-transformation.md",
-      "title": "Redefining the consumer experience: Diageo partners with SAP and IBM on global digital transformation",
-      "excerpt": "Today, we are thrilled to announce an exciting partnership between Diageo, IBM and SAP that aims to modernize Diageo’s operations on a global scale and set new benchmarks for the industry.\nThe post Redefining the consumer experience: Diageo partners with SAP and IBM on global digital transformation appeared",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/diageo-partners-with-sap-and-ibm/",
-      "originalUrl": "https://www.ibm.com/blog/diageo-partners-with-sap-and-ibm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/Option-1.jpg",
-          "width": 1190,
-          "height": 568,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly.md",
-      "title": "One Way AI Will Help Human Workers: Ensuring They're Paid Fairly",
-      "excerpt": "Automation will change the job landscape for many workers—but instead of taking everyone’s jobs away, AI is throwing into relief what kind of skills are most needed for today’s rapidly evolving job market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/626173e1aeaa4c8e625ca2cd/0x0.jpg?format=jpg&crop=2046,1151,x0,y286,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/24/one-way-ai-will-help-human-workers-ensuring-theyre-paid-fairly/amp/",
-      "publishedDateTime": "2023-05-24T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-woman-using-ai-to-redesign-garden-sparks-debate-cool-but-sad.md",
-      "title": "Woman Using AI to Redesign Garden Sparks Debate: 'Cool But Sad'",
-      "excerpt": "Paulina Machaj told Newsweek she's used artificial intelligence to generate design ideas and gain inspiration for what her courtyard garden could look like.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/diy-garden-design-ai-artificial-intelligence-1802314",
-      "originalUrl": "https://www.newsweek.com/diy-garden-design-ai-artificial-intelligence-1802314",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2238408/backyard-garden-woman-looking-computer-screens.jpg",
-          "width": 2201,
-          "height": 1553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/diy-garden-design-ai-artificial-intelligence-1802314?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/diy-garden-design-ai-artificial-intelligence-1802314?amp=1",
-      "publishedDateTime": "2023-05-24T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

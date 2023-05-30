@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/business/2023/05/25/nvidia-s-culith
 webUrl: "https://www.washingtonpost.com/business/2023/05/25/nvidia-s-culitho-has-ai-helping-design-chips/38a4a93a-fb13-11ed-bafc-bf50205661da_story.html"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1484
     height: 779
     isCached: true
+
+related:
+  - title: "Google’s New AI Is Better at Creating AI Than the Company’s Engineers"
+    excerpt: "One of the more noteworthy remarks to come out of Google I/O '17 conference this week was CEO Sundar Pichai recalling how his team had joked that they have achieved \"AI inception\" with AutoML."
+    publishedDateTime: 2023-05-29T23:23:00Z
+    webUrl: "https://futurism.com/googles-new-ai-is-better-at-creating-ai-than-the-companys-engineers"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 39
+    images:
+      - url: "https://wp-assets.futurism.com/2017/05/google-annouce.png"
+        width: 1400
+        height: 600
+        isCached: true
 
 secured: "dM7YdLnpKTNoVvr/N4RV1Zhv3bKhJ57CdLeNsWFvrpP/jvwy75tDFiAuxCGfZNQcyB0IkQdLv0AWJmjkHh4h3yljmeMsYt9WvTnnY/te8f1mcgaTnCNLLTAB8l/GW5bFKVfBRqpIuOMsOwbVC/xl+gWIDGUspXJtllO0JCD0q/rycc9sXqrXOliAXV0QtxHLsqm6F5qnA8qriQzT4O6XUSioghnBMejJE2YmX4mnWLyoE4OJUgp+XrGEPYeWmmTeWA9/+Y9ecnLwpStqREBcBPyTTLEipLz4xsN2oMf5q7BQTAQFhXOFPU7iEg+grmlOlVAAE+IJ5nzx3EUMhhXEMO+u6BA2t9hMn0RwVwWJEPI=;NXV+LYvJoFjkjFA4RxRKdw=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/nvidia-ceo-reveals-groundbreaking-gener
 webUrl: "https://venturebeat.com/ai/nvidia-ceo-reveals-groundbreaking-generative-ai-innovations-for-industries-at-computex-taipei/"
 type: article
 quality: 58
-heat: -1
-published: false
+heat: 98
+published: true
 
 provider:
   name: VentureBeat
@@ -29,20 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia CEO highlights chips for the historic wave of generative AI at Computex"
-    excerpt: "Nvidia CEO Jensen Huang announced a variety of platforms that companies can use to ride a historic wave of generative AI."
-    publishedDateTime: 2023-05-29T04:30:00Z
-    webUrl: "https://venturebeat.com/games/nvidia-ceo-highlights-chips-for-the-historic-wave-of-generative-ai-at-computex/"
+  - title: "Nvidia Stock Soars 29% As CEO Jensen Huang Cites Generative AI Edge"
+    excerpt: "Nvidia is prepared to supply those AI chips. As Colette Kress, Nvidia’s CFO told investors on the earnings call, “This demand has extended our data center visibility out a few quarters and we have procured substantially higher supply for the second-half of the year.”"
+    publishedDateTime: 2023-05-25T13:24:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/05/25/nvidia-stock-soars-29-as-ceo-jensen-huang-cites-generative-ai-edge/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/02/nvidia-ceo-jensen-huang-at-gtc-fall-2022-2.jpg?w=1200&strip=all"
-        width: 1200
-        height: 637
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Nvidia announces large-memory DGX GH200 for generative AI"
     excerpt: "Nvidia has announced a new DGX class, the GH200, for generative AI workloads. The DGX GH200 connects up to 256 Grace Hopper Superchips into a single 144TB GPU system. The superchip is itself a combination of Nvidia's Grace Arm CPU and Hopper GPU,"
     publishedDateTime: 2023-05-29T04:49:00Z
@@ -66,24 +61,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 24
-  - title: "NVIDIA Launches Accelerated Ethernet Platform for Hyperscale Generative AI"
-    excerpt: "NVIDIA today announced NVIDIA Spectrum-X™, an accelerated networking platform designed to improve the performance and efficiency of Ethernet-based AI clouds. NVIDIA Spectrum-X is built on networking innovations powered by the tight coupling of the NVIDIA Spectrum-4 Ethernet switch with the NVIDIA BlueField®-3 DPU,"
-    publishedDateTime: 2023-05-29T04:28:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/29/9822135.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
-  - title: "NVIDIA Unveils Powerful NVIDIA DGX GH200 AI Supercomputer for Next-Gen AI Applications"
-    excerpt: "NVIDIA has unveiled a groundbreaking AI supercomputer, the NVIDIA DGX GH200. Powered by the innovative NVIDIA GH200 Grace Hopper Superchips and the NVIDIA NVLink Switch"
-    publishedDateTime: 2023-05-29T07:21:00Z
-    webUrl: "https://www.guru3d.com/news-story/nvidia-unveils-powerful-nvidia-dgx-gh200-ai-supercomputer-for-next-gen-ai-applications.html"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 11
   - title: "NVIDIA ACE Injects Generative AI Into Game NPCs Enabling Hyper-Realistic Conversations"
     excerpt: "NVIDIA is showing off an AI model foundry service that leverages AI-powered natural language interactions to make NPCs feel more intelligent."
     publishedDateTime: 2023-05-29T12:56:00Z

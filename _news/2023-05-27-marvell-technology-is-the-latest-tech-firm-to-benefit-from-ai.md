@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Nvidia stuns markets and signals how artificial intelligence could reshape technology sector"
+    excerpt: "Shares of Nvidia, already one of the world’s most valuable companies, are skyrocketing after the chipmaker forecast a huge jump in revenue, signaling how vastly the broadening use of artificial intell"
+    publishedDateTime: 2023-05-25T16:32:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/nvidia-stuns-markets-signals-artificial-intelligence-reshape-technology-99602566"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/nvidia-stuns-markets-signals-artificial-intelligence-reshape-technology-99602566"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/nvidia-stuns-markets-signals-artificial-intelligence-reshape-technology-99602566"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 46
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_f6b9df3a4cafe1a4ee041cc736b97a89_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "Wba3AwNQoNPaaC/fp0o7J7IP78+GD2j3FXM6Fk2hDTcsAq3sb5adinJd++1HCE+A0iOJazPJkR2go79QL89uZEcIfbOpwCxzDQgdC1HbMQrRZK4LWcswn2rs7ILrIpv+o+9MvJI39S/MYvZZRc5TmHOnkBTtCyQ81q62gsvQ4Q2yWMjvP2ymuWMEiqlA+BE4Av48hHLq2nPaODweUSWDKriLxrcmhdISHmnoO48w4aLjKZC1YffWsliyRUJ7PD5MOaEnxHpRDW2u4Nujn8LcYSB6deuReuopk7REyD7xqXMLfFs6Q8h3Ha+SWxWS2qOd/5yH+nRhCwUjilYbqhFisPdwne5oS0XA1Yt0OUDRvbIRSnxJNNDHyliZR1pM8amsxGmrNSPFVFbs9FZpBbgmkVzrV0V3V9Qoymi9Sr/ToU9FTysZx8ErpG7KKqfhe5zHo1iUuHH7OyzAAuLqJlh/0wYPn3kYv8d6mk8DjwUqEnCg1Ts5r+Un6Q4PkMwmYokQAiVJmDGmCz6p9E8wxChE5A==;y3jQMIM373v4sCNdAh9e5g=="
 ---

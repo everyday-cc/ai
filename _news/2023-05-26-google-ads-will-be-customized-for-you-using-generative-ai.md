@@ -60,22 +60,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "What Generative AI Means For Retail"
-    excerpt: "We’re only at the start of the generative AI revolution. And we’ve only had a taste of the true impact on retail. But the technology is advancing incredibly fast. It’s why it’s critically important to ensure AI is used responsibly. That means ..."
-    publishedDateTime: 2023-05-25T11:50:00Z
-    webUrl: "https://www.forbes.com/sites/jillstandish/2023/05/25/what-generative-ai-means-for-retail/"
-    ampWebUrl: "https://www.forbes.com/sites/jillstandish/2023/05/25/what-generative-ai-means-for-retail/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jillstandish/2023/05/25/what-generative-ai-means-for-retail/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646f4b84bb1952736f03a6fa/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Missing The AI Forest For The Generative AI Tree"
     excerpt: "Some companies and entranced by generative AI, but should be exploring other types better suited to their key data."
     publishedDateTime: 2023-05-29T16:40:00Z

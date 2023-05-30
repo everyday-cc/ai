@@ -51,22 +51,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "What Generative AI Means For Retail"
-    excerpt: "We’re only at the start of the generative AI revolution. And we’ve only had a taste of the true impact on retail. But the technology is advancing incredibly fast. It’s why it’s critically important to ensure AI is used responsibly. That means ..."
-    publishedDateTime: 2023-05-25T11:50:00Z
-    webUrl: "https://www.forbes.com/sites/jillstandish/2023/05/25/what-generative-ai-means-for-retail/"
-    ampWebUrl: "https://www.forbes.com/sites/jillstandish/2023/05/25/what-generative-ai-means-for-retail/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jillstandish/2023/05/25/what-generative-ai-means-for-retail/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646f4b84bb1952736f03a6fa/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google ads will be customized for you using generative AI"
     excerpt: "Lastly, Google is incorporating generative AI in Performance Max ad campaigns to assist businesses in the creation of custom assets. This feature will also be available in the new conversational experience in Google Ads."
     publishedDateTime: 2023-05-25T19:58:00Z

@@ -19,75 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia CEO highlights chips for the historic wave of generative AI at Computex"
-    excerpt: "Nvidia CEO Jensen Huang announced a variety of platforms that companies can use to ride a historic wave of generative AI."
-    publishedDateTime: 2023-05-29T04:30:00Z
-    webUrl: "https://venturebeat.com/games/nvidia-ceo-highlights-chips-for-the-historic-wave-of-generative-ai-at-computex/"
+  - title: "Nvidia unveils new kind of Ethernet for AI, Grace Hopper 'Superchip' in full production"
+    excerpt: "The Spectrum-X ethernet switch offers \"lossless\" transmission via a new kind of congestion control, said Nvidia."
+    publishedDateTime: 2023-05-29T05:23:00Z
+    webUrl: "https://www.zdnet.com/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
+      name: ZDNet
+      domain: zdnet.com
+    quality: 96
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/02/nvidia-ceo-jensen-huang-at-gtc-fall-2022-2.jpg?w=1200&strip=all"
+      - url: "https://www.zdnet.com/a/img/resize/e496c12a46e4533063ced7ab4bfdf6242b00c860/2023/05/29/05144ef8-05b7-455e-9cd7-72ff48b534c4/nvidia-ceo-jensen-huang-holds-up-spectrum-4-ethernet-switch.png?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 637
+        height: 675
         isCached: true
-  - title: "Nvidia CEO reveals groundbreaking generative AI innovations for industries at COMPUTEX Taipei"
-    excerpt: "Huang believes the innovations will facilitate new business models and enhance efficiency across a multitude of industries."
-    publishedDateTime: 2023-05-29T04:00:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-ceo-reveals-groundbreaking-generative-ai-innovations-for-industries-at-computex-taipei/"
+  - title: "Nvidia Hints At Upcoming AI-Focused Spectrum-4 Ethernet"
+    excerpt: "It is no surprise at all that Nvidia’s datacenter business is making money hang over fist right now as generative AI makes machine learning a household"
+    publishedDateTime: 2023-05-25T14:34:00Z
+    webUrl: "https://www.nextplatform.com/2023/05/25/nvidia-hints-at-upcoming-ai-focused-spectrum-4-ethernet/"
+    ampWebUrl: "https://www.nextplatform.com/2023/05/25/nvidia-hints-at-upcoming-ai-focused-spectrum-4-ethernet/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/05/25/nvidia-hints-at-upcoming-ai-focused-spectrum-4-ethernet/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 58
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/Jensen_GTC-keynote_Omniverse.png?w=1200&strip=all"
-        width: 1199
-        height: 582
+      - url: "http://www.nextplatform.com/wp-content/uploads/2022/04/nvidia-spectrum-4-logo.jpg"
+        width: 1076
+        height: 541
         isCached: true
-  - title: "Nvidia announces large-memory DGX GH200 for generative AI"
-    excerpt: "Nvidia has announced a new DGX class, the GH200, for generative AI workloads. The DGX GH200 connects up to 256 Grace Hopper Superchips into a single 144TB GPU system. The superchip is itself a combination of Nvidia's Grace Arm CPU and Hopper GPU,"
-    publishedDateTime: 2023-05-29T04:49:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-announces-large-memory-dgx-gh200-for-generative-ai/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Grace_Hopper_Image.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "GIGABYTE's AI Servers with Superchips Shine at COMPUTEX, Redefining a New Era of Computing"
-    excerpt: "Win Big with AI through GIGABYTE's Pioneering GPU/HPC Servers. GIGABYTE and its subsidiary, Giga Computing, are introducing unparalleled AI/HPC server lineups, leading the era of"
-    publishedDateTime: 2023-05-29T10:43:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/29/9822184.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
-  - title: "NVIDIA Unveils Powerful NVIDIA DGX GH200 AI Supercomputer for Next-Gen AI Applications"
-    excerpt: "NVIDIA has unveiled a groundbreaking AI supercomputer, the NVIDIA DGX GH200. Powered by the innovative NVIDIA GH200 Grace Hopper Superchips and the NVIDIA NVLink Switch"
-    publishedDateTime: 2023-05-29T07:21:00Z
-    webUrl: "https://www.guru3d.com/news-story/nvidia-unveils-powerful-nvidia-dgx-gh200-ai-supercomputer-for-next-gen-ai-applications.html"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 11
-  - title: "NVIDIA ACE Injects Generative AI Into Game NPCs Enabling Hyper-Realistic Conversations"
-    excerpt: "NVIDIA is showing off an AI model foundry service that leverages AI-powered natural language interactions to make NPCs feel more intelligent."
-    publishedDateTime: 2023-05-29T12:56:00Z
-    webUrl: "https://hothardware.com/news/nvidia-ace-generative-ai-game-npcs-realistic-conversations"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 9
 
 secured: "brBOStBwZBwVPWP59FuroQpIjKeM/cioMdIp1CoXzCXX4nidtmRx8335fQeyalqqeeibRL4usdkIkyZn4fGm/aQPuJ2hYzcQqElGEEW6Q8q8J4cxMTxfvykdLNFG3AKLr4MPXR23u6zusGGr4/z80tRvgmUtTs4KB1pH5bjFCoOqSzQvlSMUG0J8vXM5vachayxuY3668Rejcwmt+TnrM2w1c47IN/wBKuYEyNrX67+nHVDmklkeDhts1SKhwNZoMVozalioCpskZpryQFdPp4euOXq8tTA0/k7r+124BmByBcqotiPaSM5BqpDu25NYT6BbmzIyWLQdesOXmwa6oKfBnK4GD4AVg7K69VM8dBQ=;1nfxzr1BM/hVavmZcIOmSw=="
 ---

@@ -27,15 +27,6 @@ images:
 related:
   - title: "St. Luke’s University Health Network Selects GE HealthCare for $30 Million Purchase of Cutting-Edge CT Technology, Powered by Artificial Intelligence"
     excerpt: "GE HealthCare (Nasdaq: GEHC), a leading medical technology innovator, announced today its largest ever CT deal in the United States – a $30 million or"
-    publishedDateTime: 2023-05-25T13:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20230525005059/en/St.-Luke’s-University-Health-Network-Selects-GE-HealthCare-for-30-Million-Purchase-of-Cutting-Edge-CT-Technology-Powered-by-Artificial-Intelligence"
-    type: article
-    provider:
-      name: newsroom.businesswire.com
-      domain: businesswire.com
-    quality: 0
-  - title: "St. Luke’s University Health Network Selects GE HealthCare for $30 Million Purchase of Cutting-Edge CT Technology, Powered by Artificial Intelligence"
-    excerpt: "GE HealthCare (Nasdaq: GEHC), a leading medical technology innovator, announced today its largest ever CT deal in the United States – a $30 million or"
     publishedDateTime: 2023-05-25T17:01:00Z
     webUrl: "https://www.businesswire.com/news/home/20230525005059/en/"
     type: article

@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Microsoft Build 2023: Microsoft Fabric and oodles of Azure AI integrations announced"
-    excerpt: "Microsoft has unveiled a raft of new products “built for the era of AI” at its annual developer Build conference earlier this week. Microsoft Fabric, which is now in preview, was among the key announcements from the conference."
-    publishedDateTime: 2023-05-26T07:46:00Z
-    webUrl: "https://www.techcentral.ie/microsoft-build-2023-microsoft-fabric-and-oodles-of-azure-ai-integrations-announced/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 62
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2023/05/MIcrosoft_Office_23.jpg"
-        width: 620
-        height: 350
-        isCached: true
   - title: "At ISC 2023: Hyperion Reports HPC Industry Grew 4% in 2022; AI to Drive Stronger Growth Next and Following Years"
     excerpt: "The HPC industry managed to achieve modest overall growth in 2022, but growth of any kind was in doubt right up to the end of the year, according to HPC-AI industry analyst firm Hyperion Research, which hosted its bi-annual HPC market update at a breakfast event this week during the ISC 2023 conference in Hamburg."
     publishedDateTime: 2023-05-25T17:21:00Z

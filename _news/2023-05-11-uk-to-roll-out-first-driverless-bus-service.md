@@ -1,28 +1,28 @@
 ---
 category: news
-title: "UK to roll out first driverless bus service"
+title: "UK To Roll Out First Driverless Bus Service"
 excerpt: "The control system includes an artificial intelligence engine that receives ... \"It's good,\" he said. A driverless bus tested in South Korea's capital, Seoul, last year as part of an experiment ..."
-publishedDateTime: 2023-05-11T15:47:00Z
-originalUrl: "https://www.jamaicaobserver.com/latest-news/uk-to-roll-out-first-driverless-bus-service/"
-webUrl: "https://www.jamaicaobserver.com/latest-news/uk-to-roll-out-first-driverless-bus-service/"
-ampWebUrl: "https://www.jamaicaobserver.com/latest-news/uk-to-roll-out-first-driverless-bus-service/amp/"
-cdnAmpWebUrl: "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/latest-news/uk-to-roll-out-first-driverless-bus-service/amp/"
+publishedDateTime: 2023-05-11T15:13:00Z
+originalUrl: "https://www.barrons.com/news/uk-to-roll-out-first-driverless-bus-service-736a4108"
+webUrl: "https://www.barrons.com/news/uk-to-roll-out-first-driverless-bus-service-736a4108"
+ampWebUrl: "https://www.barrons.com/amp/news/uk-to-roll-out-first-driverless-bus-service-736a4108"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/uk-to-roll-out-first-driverless-bus-service-736a4108"
 type: article
 
 provider:
-  name: The Jamaica Observer
-  domain: jamaicaobserver.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://imengine.public.prod.jam.navigacloud.com/?uuid=8e6f6a29-b6da-567e-9a12-ab3adeffe272&function=fit&type=preview"
-    width: 500
-    height: 293
+  - url: "https://www.barrons.com/asset/external-media/afp/AFP1044130901645509886074281704499681019817---1.jpg"
+    width: 768
+    height: 511
     isCached: true
 
-secured: "sQXPxgP3qtT8Z22S+lXrQoG/GemSSY8EiYGSV/veKYxfYGagnFyLLL4n+gv1N5QPOxWZ7iIy37dRh2OhlulvADwJH+fLJybTjRyeyd/MsoqVKDV5AAO6BhYryU3ghrhR0bXeHI65JoqBTo/FE4RtnWKTKFi/kWbTTbiJ7egcKeHNsAQaj3n4WXGeDfJEkwJ40UrjB/4uAjgqOPctdG+6ITZYxODrM2IH5Jz38/bFy479pYupYiwtFSJdWJo04GImyNVZfUMSCl2/YvY3D5bHj53D12yPjSc0hCBebBynosTyrTwrNVrAZVExfhDrbD6EOBCS3DhMjHEWR4eTOALauGSeiZ1aTmTwcz5VwZqxJXE=;uxhUT0OdAU0NzLCX1U8N9g=="
+secured: "+sSyiBy/GOt02KLsITGRsYJenPwQdiZItM5yx6Pj/lajke+3kusuryGMyVjSxHFdKGOyvYh2i+VvmjlM6hMtEI5VTL38aIwGRKK2qGgYyKn8fPxU1B8pZVz0Lb3eUPjkfkL6Mgxot46IUygK7UQwfQkRzRpGjuwW3rGiBqrTedPv5769lgpGuhMnNi8+mGxJAjPsRJXWJYwYbi+xNIHrS5ZsExI2KuIP3Uys2A6Kc0yt0R9c5FhQ/x8b4E/wSH88jLhpVmIxazMjyWHyZN7gvN5cpf8I5vQwZI1Ge32L2KCgeFsaknl63h/F8GqDC+Ld6BHbGgYzw1dX0o8Gs/5svwJ3RVrBvIQo4UjPbRt1Cyw=;sVUhiPbEoppO9tMTru3Bww=="
 ---
 

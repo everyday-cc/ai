@@ -18,51 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "Rapid Advances In Artificial Intelligence And No Code Tools Are Enabling A Creative Revolution"
-    excerpt: "The creative renaissance that is currently taking place on the internet is being driven by generative AI, Low- and No-Code tools and increases in digital literacy."
-    publishedDateTime: 2023-05-25T12:17:00Z
-    webUrl: "https://www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/amp/"
+  - title: "Tech stocks surge as wave of interest in AI drives $4tn rally"
+    excerpt: "Shares in some firms involved in AI technology more than double in value as traders bet on massive growth in industry"
+    publishedDateTime: 2023-05-26T15:42:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/26/tech-stock-surge-interest-artificial-intelligence-technology-nvidia-double-value"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/26/tech-stock-surge-interest-artificial-intelligence-technology-nvidia-double-value"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/26/tech-stock-surge-interest-artificial-intelligence-technology-nvidia-double-value"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 75
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/645502e42d796d7ec61a40c2/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Arendai and AiQ Robotics Join Forces to Offer Unified Orchestration and Robotics Solution"
-    excerpt: "Arendai and AiQ robotics last Thursday announced a partnership that will enable the companies to expand their services into the rapidly growing industry 4.0. By combining Arendai's cutting-edge solution,"
-    publishedDateTime: 2023-05-29T02:33:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/32220-arendai-and-aiq-robotics-join-forces-to-offer-unified-orchestration-and-robotics-solution"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 60
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/f387e437c862082eed484b9d226001b5.jpg?t=20230529_022121"
-        width: 752
-        height: 408
-        isCached: true
-  - title: "Conversational AI’s advancement and its implications on our lives"
-    excerpt: "Conversational AI has transformed the landscape of customer service and support. With intelligent voice bots, businesses can provide round-the-clock assistance, instant responses, and personalized interactions."
-    publishedDateTime: 2023-05-28T06:29:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/Untitled-design56.jpg"
-        width: 1200
-        height: 675
+      - url: "https://i.guim.co.uk/img/media/19ff90af449562a872b92a4b1bb59182ef369fd8/0_48_1440_864/master/1440.jpg?width=620&quality=85&auto=format&fit=max&s=b5e7380a884110ab59c94721955980b6"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "ePW456RpVjX2mX1OA/uict1nGWOhOCgq+8ZbVYod7GL8+hYHjvTuhNE7441fFH2YNnyRdVhUrpTf7NMy6CWV9Zus9yOz5EWXivaI/zTaH+rKB82Bgmw73f/ExKqGcMe3flMSdGeozrSA8CeXVXjYH1pQfHxUf9cR2UzjdAzSXHNJV9OQf8PresDvXLGsXacL9UQXRVC0BIjryDWhYwzXDgYryfc9QK09weIw0Kf/NW5ujqdHMYj2BOxuI2izOgXXGXmj+LyltvKir5j5rpNB70eUMV6W7vVjDEEwdKt+/hz/tmM1tt4+cg/Slv7wZES1shU0XxcMTSPXMqjQzrlIein/Sm7VYb6ilKOSHZSPyGA9SwhaRFQtLgmPnmWr/ebvVU1UoR4yOy0S+bypuSG7sh/ua7m7Khf51iFq1hg83IA7LXADIcvWdZj7ZL/uryL5Pgfgb8XUUN8Aa2HK/cC4APcXp8caLSV6TMXecpRW7wgnON+98yryl5aK4XDmUAJeRlK94OnaHkrpiiJIa2hxQw==;QwSKO1SpgDRRe2ciOpRfVQ=="

@@ -53,6 +53,20 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "The Rise of AI in FinTech"
+    excerpt: "The financial industry has witnessed a significant transformation in recent years with the rise of financial technology (FinTech) and the emergence of open finance. These disruptive forces have revolutionized traditional banking and financial services,"
+    publishedDateTime: 2023-05-30T05:20:00Z
+    webUrl: "https://taxguru.in/finance/rise-ai-fintech.html"
+    type: article
+    provider:
+      name: Tax Guru
+      domain: taxguru.in
+    quality: 39
+    images:
+      - url: "https://taxguru.in/wp-content/uploads/2022/06/Taxguru-Logo-1.jpg"
+        width: 500
+        height: 500
+        isCached: true
   - title: "Intuit launches lab for employees to experiment with generative AI, will share lessons at VB Transform"
     excerpt: "Intuit is poised to harness the power of generative AI; its chief data officer is set to speak at VentureBeat's VB Transform 2023."
     publishedDateTime: 2023-05-25T16:10:00Z
@@ -62,15 +76,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 31
-  - title: "SEA fintech Mocasa fosters financial inclusion thru AI-powered credit assessment"
-    excerpt: "The Philippines lags behind its Southeast Asian neighbors when it comes to financial inclusion. About 78% of the country remains unbanked"
-    publishedDateTime: 2023-05-25T12:23:00Z
-    webUrl: "https://manilastandard.net/tech/314334112/sea-fintech-mocasa-fosters-financial-inclusion-thru-ai-powered-credit-assessment.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 14
 
 secured: "gkjFovG+JeAofxEoRcSsSeO8JjhpUDe9xS4BpDGR/8Oe2CtiuOvfVKvdcSiZCwTF4fux9KAdnnDyKzeErMxemS8lKqP/yA61ihzxgGccDWwIHs7+G1WyMXhPKnplVV8XtDEom2EaWmecf6SQgECOj68X2ALXTPrgr3MIi9XE4WEKLq8DsxaCCXfHEK/XFhK0thNkYwmWWV5s0Ydy1bZw/Hs4mAWLLNCvAuaZq31uvI/1g/HbxW63OcrCAPCY39JqERu0/NwiiXL1KTsmGkDtAUkbnVeBDyj7NfNdYjNxm4z349UYiP2BdernHDb5RO174Gk3wNIw4ILbjhk9qkH5GBpDNvjBmDZKRM/+ZaYCSx2i59YjVYuXy+GB2zjlHJYGj61aPPYsxzYxTMD8iIlb8w1YHXQttAUHPilDCYHqT+4YxNUUx0GVyf1XLzAPLDErAh9CtMOlM+MRDrSmju1CqzL3w4G9iFv2M7/haeK0D2ae/KsoTBXP5iusVeUfklhuNFXvZVCF+Nwz70rh0cdKSg==;XO1gfJfMpGizKOd3wKe0sA=="
 ---

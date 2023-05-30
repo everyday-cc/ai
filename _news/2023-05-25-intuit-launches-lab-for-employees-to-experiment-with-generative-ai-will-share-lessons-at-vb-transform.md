@@ -50,6 +50,20 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "The Rise of AI in FinTech"
+    excerpt: "The financial industry has witnessed a significant transformation in recent years with the rise of financial technology (FinTech) and the emergence of open finance. These disruptive forces have revolutionized traditional banking and financial services,"
+    publishedDateTime: 2023-05-30T05:20:00Z
+    webUrl: "https://taxguru.in/finance/rise-ai-fintech.html"
+    type: article
+    provider:
+      name: Tax Guru
+      domain: taxguru.in
+    quality: 39
+    images:
+      - url: "https://taxguru.in/wp-content/uploads/2022/06/Taxguru-Logo-1.jpg"
+        width: 500
+        height: 500
+        isCached: true
   - title: "How Fintech Is Revolutionizing Event Payment And Registration"
     excerpt: "Fintech, or financial technology, uses innovative software and digital platforms to deliver financial services to customers. Fintech has been transforming various aspects of the financial industry, such as banking,"
     publishedDateTime: 2023-05-28T23:34:00Z
@@ -64,15 +78,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "SEA fintech Mocasa fosters financial inclusion thru AI-powered credit assessment"
-    excerpt: "The Philippines lags behind its Southeast Asian neighbors when it comes to financial inclusion. About 78% of the country remains unbanked"
-    publishedDateTime: 2023-05-25T12:23:00Z
-    webUrl: "https://manilastandard.net/tech/314334112/sea-fintech-mocasa-fosters-financial-inclusion-thru-ai-powered-credit-assessment.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 14
 
 secured: "YldLUM1zIWrYkLPdnAlPdIeQw/Ran8ZSC5oYtpUMelepb892yYd6hCHLwWrlv1i1wRQ+LMz7x/9DmBfcOWzpfFJyj3t/gO8HT80tR78+Os2u0PAGOPlW89roGqvOOgfZGjtI2QRbHmIURvlaufuX+h7ASdfCrVw0uG4npzXofXmqNocfNYU7P/WgADCJdsyb5dSLiliqWW4eHAuOUGPPanShbKIRtfMZvJ+x6MmbjhxtUmMvFUqqo/nY8PeYgknU1LdM1Iiq+em5bRz5HzgV6Fa98hsdPZLM453vEeHyTc/GntS51fyzlpf8pSdyMgcTDYL9Jh9ibJ10tdlqHhP2NkBQULy0spRPK37rP1bdTu2o05P2FesB/TYnbm1EajCaUMtMw1291uhvY5i8eC/qKI5GvaZE1b19ZyNG7Msqe+7/+XGZ1te5hr7VprdjGlgDYgKEa/wUYh+uVfK+s3A7lZWGd1mGO0LmHMfmf/387eOki2jbdOvjc3f6S3oZV1tWgl2uQZZzZ7IAab5CPLlbng==;RZ+z82bcMDmiBi7dO0LHIw=="
 ---

@@ -23,6 +23,36 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Microsoft integrates Nvidia’s AI Enterprise Suite with Azure Machine Learning"
+    excerpt: "Microsoft is integrating Nvidia’s AI Enterprise software suite with its Azure Machine Learning service to help enterprise developers build, deploy, and manage applications based on large ..."
+    publishedDateTime: 2023-05-27T18:59:00Z
+    webUrl: "https://www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.html"
+    ampWebUrl: "https://www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 103
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Weak Gaming GPU Sales Don't Matter for Nvidia as It Faces AI Gold Rush"
+    excerpt: "Nvidia's stock skyrockets after the company reports it expect revenue next quarter to hit $11 billion on demand for chips that can power generative AI."
+    publishedDateTime: 2023-05-25T15:13:00Z
+    webUrl: "https://www.pcmag.com/news/weak-gaming-gpu-sales-dont-matter-for-nvidia-as-it-faces-ai-gold-rush"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 101
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03VpWdOi9ptp95GOTFMU3Fw-1.fit_lim.size_1200x630.v1685024253.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Microsoft Calls for a New US Agency and Licensing for AI"
     excerpt: "Microsoft Corp. is calling for a new US agency to regulate artificial intelligence and licensing requirements to operate the most powerful AI tools, company President Brad Smith said Thursday."
     publishedDateTime: 2023-05-25T13:35:00Z
@@ -51,22 +81,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Microsoft-powered AI chatbot ‘Jugalbandi’ is here. All you need to know"
-    excerpt: "The made in India Artificial intelligence chatbot currently understands 10 of the 22 official Indian languages and covers 171 government programs."
-    publishedDateTime: 2023-05-26T15:00:00Z
-    webUrl: "https://www.hindustantimes.com/technology/jugalbandi-microsoft-ai-chatbot-features-open-source-language-technology-news-ai4bharat-project-101685111840575.html"
-    ampWebUrl: "https://www.hindustantimes.com/technology/jugalbandi-microsoft-ai-chatbot-features-open-source-language-technology-news-ai4bharat-project-101685111840575-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/jugalbandi-microsoft-ai-chatbot-features-open-source-language-technology-news-ai4bharat-project-101685111840575-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 76
-    images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2023/05/26/1600x900/jugalbandi_ai_chatbot_microsoft_1685113035503_1685113045220.PNG"
-        width: 1600
-        height: 899
-        isCached: true
   - title: "5 points to govern AI: Microsoft’s recommended guardrails for the future"
     excerpt: "This post is the foreword written by Brad Smith for Microsoft’s report Governing AI: A Blueprint for the Future. The first part of the report details five ways governments should consider policies, laws,"
     publishedDateTime: 2023-05-25T17:27:00Z
@@ -83,6 +97,20 @@ related:
         width: 772
         height: 434
         isCached: true
+  - title: "WPP, Nvidia Team Up to Build AI-Enabled Content Engine"
+    excerpt: "WPP is teaming up with Nvidia to develop a content engine that uses generative AI for digital advertising."
+    publishedDateTime: 2023-05-29T05:42:00Z
+    webUrl: "https://www.wsj.com/articles/wpp-nvidia-team-up-to-build-ai-enabled-content-engine-f1d0efaa"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-790364/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "3 AI Stocks That Could Beat Out Google and Microsoft"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Unless you’ve been off the grid for most of 2023, you know that"
     publishedDateTime: 2023-05-27T10:41:00Z
@@ -92,6 +120,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "Microsoft Build 2023: Microsoft Fabric and oodles of Azure AI integrations announced"
+    excerpt: "Microsoft has unveiled a raft of new products “built for the era of AI” at its annual developer Build conference earlier this week. Microsoft Fabric, which is now in preview, was among the key announcements from the conference."
+    publishedDateTime: 2023-05-26T07:46:00Z
+    webUrl: "https://www.techcentral.ie/microsoft-build-2023-microsoft-fabric-and-oodles-of-azure-ai-integrations-announced/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 62
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2023/05/MIcrosoft_Office_23.jpg"
+        width: 620
+        height: 350
+        isCached: true
   - title: "Windows Copilot Puts AI in the Heart of Microsoft's Most Important Software"
     excerpt: "Some of the most important screen real estate in the world is getting a chatbot that can adjust PC settings, perform searches and suggest music."
     publishedDateTime: 2023-05-27T12:00:00Z
@@ -101,6 +143,20 @@ related:
       name: CNET
       domain: cnet.com
     quality: 62
+  - title: "NVIDIA is upgrading the in-car experience with AI, streaming, and advanced safety features"
+    excerpt: "NVIDIA revealed a new partnership Monday with Taiwanese semiconductor giant MediaTek to enhance the in-car driver experience and make"
+    publishedDateTime: 2023-05-29T16:43:00Z
+    webUrl: "https://electrek.co/2023/05/29/nvidia-upgrading-in-car-experience-ai-software/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 59
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/05/nvidia-in-car-experience.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Microsoft President Says Deepfakes Are Biggest Concern Around AI, Steps Needed to Curb AI-Driven Fraud"
     excerpt: "Microsoft president Brad Smith called for steps to ensure that people know when a photo or video is real and when it is generated by AI."
     publishedDateTime: 2023-05-26T05:04:00Z
@@ -156,6 +212,20 @@ related:
         width: 700
         height: 489
         isCached: true
+  - title: "AI future depends on semiconductor chips from companies like Nvidia"
+    excerpt: "First, it was electronics — then it was cars — and now it's AI: The semiconductor chip is entering a new stratospheric phase."
+    publishedDateTime: 2023-05-25T21:29:00Z
+    webUrl: "https://www.axios.com/2023/05/25/ai-chips-nvidia-stock-tsmc"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 54
+    images:
+      - url: "https://images.axios.com/eC2i1FzN2gLk9x04WMB6Zcs7-qY=/0x0:1920x1080/1366x768/2023/05/25/1685041769199.jpg"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Microsoft calls for a new U.S. agency and licensing for AI"
     excerpt: "Smith compared AI to the printing press, elevators and food safety for ... His call for a new agency echoes proposals from OpenAI, the startup behind the wildly popular ChatGPT, which received a $10 billion investment from Microsoft."
     publishedDateTime: 2023-05-25T17:37:00Z
@@ -167,22 +237,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
-  - title: "Microsoft Build - the past, present and future of ChatGPT on show as Microsoft's 'Mosaic moment' takes center stage"
-    excerpt: "That was thecandid confession from the Microsoft CEO about ChatGPT during his keynote address to the firm’s Build developer conference, an event that should leave no-one in any doubt that this is now an AI company."
-    publishedDateTime: 2023-05-25T11:09:00Z
-    webUrl: "https://diginomica.com/microsoft-build-past-present-and-future-chatgpt-show-microsofts-mosaic-moment-takes-center-stage"
-    ampWebUrl: "https://diginomica.com/microsoft-build-past-present-and-future-chatgpt-show-microsofts-mosaic-moment-takes-center-stage?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/microsoft-build-past-present-and-future-chatgpt-show-microsofts-mosaic-moment-takes-center-stage?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 52
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-05/Screenshot%202023-05-25%20at%2012.07.35.png"
-        width: 624
-        height: 342
-        isCached: true
   - title: "KPI Partners achieves Microsoft Azure Solutions Partner Designation for Data & AI"
     excerpt: "May 17, 2023 /PRNewswire/ -- KPI Partners, a global trusted strategic partner for Analytics and Digital Transformation solutions, announced today that it has achieved Microsoft Azure Solution Partner status in Data & AI. This recognition showcases the ..."
     publishedDateTime: 2023-05-25T18:37:00Z
@@ -192,15 +246,48 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 44
-  - title: "Qualcomm drives Opel connectivity, aligns with Microsoft for on-device AI"
-    excerpt: "Mobile platform provider announces partnership to make generative AI more affordable, reliable and private by moving queries and inferencing to edge devices and provider’s infotainment platform for small car bestseller."
-    publishedDateTime: 2023-05-25T11:36:00Z
-    webUrl: "https://www.computerweekly.com/news/366538331/Qualcomm-drives-new-Opel-connectivity-aligns-with-Microsoft-for-on-device-AI"
+  - title: "MediaTek, NVIDIA to Transform Automobiles with AI & Accelerated Computing"
+    excerpt: "AI and accelerated computing are fueling the transformation of the entire auto industry. The combination of MediaTek’s industry-leading system-on-chip plus NVIDIA’s GPU and AI software technologies will enable new user experiences, enhanced safety and new connected services for all vehicle segments, from luxury to entry-level."
+    publishedDateTime: 2023-05-29T07:18:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/32228-mediatek-nvidia-to-transform-automobiles-with-ai-accelerated-computing"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
+      name: Deep
+      domain: thefastmode.com
+    quality: 38
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/062e3a14eaea806bc013c9a4a1b09057.jpg?t=20230529_071304"
+        width: 752
+        height: 408
+        isCached: true
+  - title: "NVIDIA ACE for Games uses AI to let you interact and talk with NPCs"
+    excerpt: "The NVIDIA Avatar Cloud Engine (ACE) will let you strike up a conversation with a character in an RPG, and it's all thanks to AI. And some RTX to boot."
+    publishedDateTime: 2023-05-29T09:27:00Z
+    webUrl: "https://www.tweaktown.com/news/91631/nvidia-ace-for-games-uses-ai-to-let-you-interact-and-talk-with-npcs/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 37
+    images:
+      - url: "https://static.tweaktown.com/news/9/1/91631_01_nvidia-ace-for-games-will-let-you-interact-and-talk-with-npcs-your-voice_full.jpg"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "MediaTek and Nvidia to develop AI cabin solutions for software-defined vehicles"
+    excerpt: "MediaTek will work with Nvidia to deliver automotive solutions that surpass the industry’s growing needs and demands while posing a significant market opportunity for the companies."
+    publishedDateTime: 2023-05-30T05:42:00Z
+    webUrl: "https://www.autocarpro.in/news-international/mediatek-and-nvidia-to-develop-ai-cabin-solutions-for-software-defined-vehicles--115247"
+    type: article
+    provider:
+      name: Autocar Pro
+      domain: autocarpro.in
     quality: 35
+    images:
+      - url: "https://cdni.autocarindia.com/utils/imageresizer.ashx?n=http://img.haymarketsac.in/autocarpro/3402baa9-7f7b-4176-8b37-a212b8ff1fdc_845aKey-Visual_-MediaTek-_-NVIDIA-Press-Image1600x900.jpg"
+        width: 1502
+        height: 845
+        isCached: true
   - title: "Deepfakes are biggest AI concern, says Microsoft president"
     excerpt: "In Washington speech, Brad Smith calls for steps to ensure people know when a photo or video is generated by AI"
     publishedDateTime: 2023-05-25T16:01:00Z
@@ -228,15 +315,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 34
-  - title: "Microsoft Launches 'Jugalbandi', An AI-Based Multilingual Chatbot For Rural India"
-    excerpt: "Microsoft has unveiled a new generative AI-driven chatbot called 'Jugalbandi', designed for farmers and other users living in rural India."
-    publishedDateTime: 2023-05-27T13:24:00Z
-    webUrl: "https://www.ndtv.com/feature/microsoft-launches-jugalbandi-an-ai-based-multilingual-chatbot-for-rural-india-4071723"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 31
   - title: "Habu Announces Collaboration With Microsoft Azure to Deliver Zero-Trust Data Clean Room"
     excerpt: "Habu, a global innovator in data clean room software, has announced a collaboration with Microsoft Azure to integrate its"
     publishedDateTime: 2023-05-25T18:08:00Z
@@ -246,24 +324,24 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 26
-  - title: "NashTech is now a Microsoft Azure Solutions Partner for Data & AI, Digital & App Innovation, and Infrastructure Solution Areas"
-    excerpt: "We are thrilled to announce that NashTech has achieved Microsoft Azure Solution partner status and enhanced its capabilities to help customers manage and govern their data across multiple systems to b"
-    publishedDateTime: 2023-05-25T18:02:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32581713/nashtech-is-now-a-microsoft-azure-solutions-partner-for-data-ai-digital-app-innovation-and-infrast"
+  - title: "Nvidia's New AI Is Coming For Absolutely Every Gaming Job"
+    excerpt: "AI is coming to games, whether you like it or not. Last night’s Nvidia keynote showed just how powerful—and devastating—that’s going to be. The company’s CEO, Jensen Huang, showed off how its freshly announced “Omniverse Avatar Cloud Engine” (ACE) can create real-time interactive AI NPCs,"
+    publishedDateTime: 2023-05-29T12:30:00Z
+    webUrl: "https://kotaku.com/nvidia-ace-ai-rtx-4060-ti-gpu-graphics-gaming-jobs-1850484480"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
-  - title: "This week in AI: Satya Nadella says Microsoft is moving to co-pilot era for AI, India's AI programme to submit framework soon and more"
-    excerpt: "Humans are in the loop with AI, and it is here to help humans make their job easy, said Satya Nadella, Chairman and Chief Executive Officer of Microsoft, in an exclusive conversation with CNBC-TV18 while talking about the impact of AI on jobs education, its threat, the future, and more."
-    publishedDateTime: 2023-05-28T13:05:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/this-week-in-ai-satya-nadella-says-microsoft-is-moving-to-a-co-pilot-era-for-ai-indias-ai-programme-to-submit-framework-soon-and-more-10678881.html"
+      name: Kotaku
+      domain: kotaku.com
+    quality: 17
+  - title: "Nvidia and MediaTek partner to introduce next-generation in-car systems with AI"
+    excerpt: "In its efforts to further the infotainment experience inside vehicles and cater to evolving requirements, Nvidia and MediaTek have announced a partnership to introduce next-generation systems that can stream video or games or interact with drivers using artificial intelligence."
+    publishedDateTime: 2023-05-29T18:17:00Z
+    webUrl: "https://interestingengineering.com/innovation/nvidia-and-mediatek-partner-to-introduce-next-generation-in-car-systems-with-ai"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 2
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 15
 
 secured: "mt8iLWLkCnegAB5ke979FRhSe0NA8hgUM2JxnJW5Zx66VcRY+wnXOHCHRIVLh6nhyQEh8tfEVq70Acnd6wfQT5X/Zg4W9cB3o1nlj8yMWeze66al4GrsNuTZ2i+oV8I3Lgm4kSxASmAfx8/y7wFz17qFo7jLpTHBUqQMt2C7icIA30T5NPQBYlhCFyhRnFHvWPtkh8VHPXp1zaHphhyxatrglzInFcIWcjMMScnf4ciaA9oPZhqZZSrjzH03btwstWbbxWjRk/GRw64iPsw7NDVa4Es87qMKi27D7SOWwIzS5ZFbP8ndiomLAb+mG4lqSUlaPFC9tE6f/cj1BQTNEvhme/L1x8v/4M/LS6oCy9CclMjcs2mVRqVJMxxthWGKkMYO9vpZpBCtI0D8ewv4WSc+37/wv8Z2YsPppfC0yFU4PuRLITZJHQHZMFHpS2j8lN2YUleJ8hTGFUizRPBIfnK2zP50gx6snZXF+GIjN5QFaU2S1ydSmFFH/1F5Nw8URs4JtQPBDLz2tU8belOvEA==;y+aNI2Vw8ZEn3pXJRZ/ZVw=="
 ---
