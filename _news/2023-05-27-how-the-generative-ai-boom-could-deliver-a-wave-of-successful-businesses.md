@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-the-generative-ai-boom-could-delive
 webUrl: "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/"
 type: article
 quality: 68
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -108,15 +108,6 @@ related:
         width: 640
         height: 359
         isCached: true
-  - title: "Letter from the editor on generative AI and the FT"
-    excerpt: "In its more than 130-year history the Financial Times has upheld the highest standards of journalism. As editor of this newspaper, nothing matters to me more than the trust of readers in the quality journalism we produce. Quality means above all accuracy. It also means fairness and transparency."
-    publishedDateTime: 2023-05-26T14:53:00Z
-    webUrl: "https://www.ft.com/content/18337836-7c5f-42bd-a57a-24cdbd06ec51"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "2Gyicz6r8tbI1I/QYPObtrDYM7b+atT6U13psQ8PnA+/N00xwDvIHSuuZxQ5VA3aADdFbR+IYnp7/nOUBa5E4gl299JIHQjPfYM8nMvDhL8tJ79hHxB+Nhdb26dFbTDStHekkO6+DBuVxUsjeHcpoKNSFUB53w56PUPEt0+ytqMU5lTaW88iSIEkGXTZFm7jxxrsJgq2ALzbdIwhXeKr25hWlvzvd9Uk94Pio3y+5vGNtBTWb6xsQLS/7XHFMyCUl9/3tlaKwsBBSQEBxHRxQaAWLWBVuX5l+lwupF0p0jehWyUo7F2EGdtQCvuppJSA4sFl+6ZvywpPK12X0QpwwnCVr/rxBFmHHFnML98aCG0RdmLavopgmLrtsp/KEUnuRthVEaYZFlvQnEzk3fz1L9rKi4OQyA3/4v5dJNtQZehmotsNUhJh9rYcG+CUJ/9z6iKqwDpHm9A6puWs+YoEE43Zj+K+Ufm+rcBrxCEEYkGSd2PtR9YGxlJFoOBoBvusIK964bH/Ah+74QpU/CLAMQ==;KUHkV8DD5NNMd2ziviA3UQ=="
 ---

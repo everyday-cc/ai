@@ -41,20 +41,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Prominent AI Figures Issue Warning On The Global Priority Of Addressing AI's Existential Threat"
-    excerpt: "A group of renowned AI researchers, engineers, and CEOs has jointly expressed concerns over the potential existential threat posed by artificial intelligence (AI) to humanity. The San Francisco-based non-profit,"
-    publishedDateTime: 2023-05-30T12:44:00Z
-    webUrl: "https://www.technobezz.com/prominent-ai-figures-issue-warning-on-the-global-priority-of-addressing-ai-s-existential-threat/"
-    type: article
-    provider:
-      name: Technobezz.com
-      domain: technobezz.com
-    quality: 27
-    images:
-      - url: "https://cdn.technobezz.com/c/image_Carousel_imageformat_lightbox_1034446794_455edf9095/image_Carousel_imageformat_lightbox_1034446794_455edf9095.jpg"
-        width: 1564
-        height: 782
-        isCached: true
 
 secured: "wrZAzD67VAb7J+ImhyewOnNjlp8NAWEpk9dzYi6diRRl4rL+b2YW7XhpFs5TZ5noGKS2Dk9vcsIQHGCEQt4Eg8nQBdmBXwdktopbnoNDc4YRvPlIqaxw7MAnaWb6k8wNWsp4B7rOV/v3R3SDaVGli01Gxd7FwhZIYI6NSTCtknaQHqwG4GVexngAi7eCmi3HuRfOMEwBmZPKa1Rn71muUftcfKnmyfiCGVGzmZWh0DtM6AShYs2BzLOhdxTpOMsJ+DBo+eHVTi2GmBjqs5ZsJ8ssxw9OLsTlk3MvLhPYzAiIwMnCKZtCgMNOJNQ/B8WFpfH/vwa9JKDsJgCB9uf1dLLGHZISvOLW41bF5CWzfSA=;2F1O9nL4DJfES5nY9vd5tg=="
 ---

@@ -150,6 +150,20 @@ related:
       name: CNET
       domain: cnet.com
     quality: 62
+  - title: "Bulls Charge Into The Memorial Day Weekend On AI Excitement And Nvidia Earnings Momentum"
+    excerpt: "The Markets To say NVDA (NASDAQ: NVDA) crushed earnings is a drastic understatement. You won’t find fundamental analysis on this page. But it does make sense to pay attention to the smart and experienced traders that know the fundamentals."
+    publishedDateTime: 2023-05-30T17:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/etf/bulls-charge-into-the-memorial-day-weekend-on-ai-excitement-and-nvidia-earnings-momentum-1032358964"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/2-bull-photography-tkriu01wdfm-unsplash.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "NVIDIA is upgrading the in-car experience with AI, streaming, and advanced safety features"
     excerpt: "NVIDIA revealed a new partnership Monday with Taiwanese semiconductor giant MediaTek to enhance the in-car driver experience and make"
     publishedDateTime: 2023-05-29T16:43:00Z
@@ -431,6 +445,6 @@ related:
       domain: interestingengineering.com
     quality: 15
 
-secured: "idw4Bv+NFCZQmguzta4Hnj4JJMMD7/lPr8kusx+zKoECT5lgzV06WJ80LpgpeSSeFq29/UPfqAkoNRAEhkRaAeenMsCjno0zZkDn0vB8E8bjTiZ/gUMhVkAIKrxP0DKR62X3kNLuTHxkkXvzQlckdmBBgPzH49tYTprw/9qGDL3EgjrIeo3ac8BHmVxSTJXtWKCln8aPTbwUjYzkk17pmaeIhwL3KtOBsgW5DjmueFK0D34P4ayPkAX2fLze0UirMtQI+AlnwQtLN/8ORr8iIMeND+xgtTBsFxb6tZ3OQUl8i5eaRGgM366K7RTHbrm6wZKieTN8w8X0LqqKFTi8Q+RRsJtDwmfVgF2RtH+2D7w=;zeYO/nL41heCDPrVbUJFEw=="
+secured: "Pa289R+2RuRwsmYm3NR8isVHH0tgLkZhBCqdeuU4ZV9dDBuwzdlA5h5b8ueWbdLXiZosXL9JVZM/WJLvYL+6xUIIOz3fDgyd9rkMmF83TEd73r3dJP3dcF9pnplEw2jSTQ9t+22F8y2eutrTCLBnJ62pFdgeKjVtz3V2F4BCiJrlzE5FvUfhashpMc3pxxfGNPcicy3qOLBm9sPLs0KzW1F16m9eLpJcVTeJSrdB+rPap774OXD76FGEjnmWi1U40jx3JXyRyYrVbhS9a55ekwZrAV2K40B2VmvMEM+Gk0fH1HBgZZU+G75sVGm83MHlzPpKPy3qrjP9Ol/8FTvAE57FbCYn/j5v/1EOMAXt6ey1x04gFwtslVyYNkxx+7ACoxRQ3sRGGrpHWOFphZ5Bwd5BY427OEcrkMbhHpglyUG7UtrB+QYZmaeLfYXaeWdYTFmYBdQ71wCAOtorbIcP8Bzt7pVs5rwbW4bU7h1CIMkGA9ana2NAGqnyJ9mayjMSvHXpqrMNPH7VT6oYKOR4/g==;CIhLJoxhzb7CsCjRkC7t7w=="
 ---
 

@@ -107,15 +107,6 @@ related:
         width: 640
         height: 359
         isCached: true
-  - title: "Letter from the editor on generative AI and the FT"
-    excerpt: "In its more than 130-year history the Financial Times has upheld the highest standards of journalism. As editor of this newspaper, nothing matters to me more than the trust of readers in the quality journalism we produce. Quality means above all accuracy. It also means fairness and transparency."
-    publishedDateTime: 2023-05-26T14:53:00Z
-    webUrl: "https://www.ft.com/content/18337836-7c5f-42bd-a57a-24cdbd06ec51"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "9jQPDIrXmKXyWgKK/HNPdKfZRafpxXoz39rFFMv/2UHfI/vXpAJZxJcHu5Op4prZEL50uVGXYAeH1xb01/7yzUVGgoeTZatj9lmO+dpGYGWUDZ1oUtb20YUNruOTiRUMfK4mb/v930saP4uUHZ8oH4mfbvHoEmBeyZQ/KaI/1+nAjPIYCIfWONjn33biNJI+IEQY5/tqMvlO6PRy36gbBxHClMfOhcwj5ULoJfaqb8EoNbYmZ9ibN9ZUVp0ztwyL0vuiFZKZ0O4sem4TSX+pGPjjvLaN1VHAliKAQpMsNVfG9tAKLs7ZG6xl3t68R/FK43usKk3m7Xbj98S6Fb0010tZSv0A+3mOFkzk0NoWztIssJu1IaUIr7Xw1joft3qQs/Lm+uAvdSV5Pv9DANXE30Z5roUCB4xEMU91A9fW3mHXrPcS7Pm4MA4NF1J2MLJTwTQMeMCUOkujkiNoAU1leGlNJtchLLVw/t9tkptctFcdsOKA6PAi/fvyDewNy/mXLylezT1hyB97G1ZznuciIA==;8g3NNhZwXj8cIH+4bSJG3A=="
 ---

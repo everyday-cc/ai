@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-s-visua
 webUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-s-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropolis-1032355971"
 type: article
 quality: 68
-heat: 88
+heat: 108
 published: true
 
 provider:
@@ -42,6 +42,36 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/734387/semiconductor-computer-chip-with-the-letters-ai-in-the-middle.jpg"
         width: 2190
         height: 1369
+        isCached: true
+  - title: "Nvidia is building Israel’s most powerful supercomputer for AI applications"
+    excerpt: "The system, called Israel-1, is expected to deliver performance of up to eight exaflops of AI computing that will essentially make it one of the world"
+    publishedDateTime: 2023-05-30T10:41:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/articleshow/100621717.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/amp_articleshow/100621717.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/amp_articleshow/100621717.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://static.toiimg.com/photo/msid-100621670/100621670.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Nvidia to build Israel's most potent AI supercomputer"
+    excerpt: "Nvidia is investing hundreds of millions in building Israel's strongest AI supercomputer, Israel-1, promising breakthroughs in AI applications."
+    publishedDateTime: 2023-05-29T17:36:00Z
+    webUrl: "https://interestingengineering.com/innovation/nvidia-to-build-israels-most-potent-ai-supercomputer"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/29/image/jpeg/jEpzwifYF4BB69ZwTB9uBNJSgOcgWayWXzWHUEZr.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Nvidia chief Jensen Huang says AI is creating a ‘new computing era’"
     excerpt: "In his first in-person public address since the start of the pandemic Jensen Huang warned that the traditional tech industry would not keep pace with AI ’s advancements, adding that the technology had dramatically lowered the barrier to entry to computer coding."

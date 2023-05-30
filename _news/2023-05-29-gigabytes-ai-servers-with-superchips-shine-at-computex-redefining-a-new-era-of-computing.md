@@ -33,6 +33,20 @@ related:
         width: 1199
         height: 582
         isCached: true
+  - title: "Nvidia reveals generative AI NPCs that can dream up their own dialogue"
+    excerpt: "A new piece of software, Nvidia Ace, was introduced at the Computex Keynote. The software will allow game developers to implement AI NPCs into their worlds."
+    publishedDateTime: 2023-05-29T08:47:00Z
+    webUrl: "https://www.dexerto.com/tech/nvidia-reveals-generative-ai-npcs-that-can-dream-up-their-own-dialogue-2159057/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 39
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/29/ai-nvidia-gen.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "NVIDIA ACE Injects Generative AI Into Game NPCs Enabling Hyper-Realistic Conversations"
     excerpt: "NVIDIA is showing off an AI model foundry service that leverages AI-powered natural language interactions to make NPCs feel more intelligent."
     publishedDateTime: 2023-05-29T12:56:00Z

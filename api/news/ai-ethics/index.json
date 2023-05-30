@@ -46,49 +46,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-29-ai-democracy-and-the-global-order.md",
-      "title": "AI, democracy, and the global order",
-      "excerpt": "Future historians may well mark the second half of March 2023 as the moment when the era of artificial intelligence truly began.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/opinion/views/news/ai-democracy-and-the-global-order-3332641",
-      "originalUrl": "https://www.thedailystar.net/opinion/views/news/ai-democracy-and-the-global-order-3332641",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/05/29/ai.jpg",
-          "width": 750,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/opinion/views/news/ai-democracy-and-the-global-order-3332641?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/opinion/views/news/ai-democracy-and-the-global-order-3332641?amp",
-      "publishedDateTime": "2023-05-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-28-artificial-intelligence-unesco-mobilizes-education-ministers-for-a-co-ordinated-response-to-chatgpt.md",
       "title": "Artificial Intelligence: UNESCO Mobilizes Education Ministers for a Co-ordinated Response to ChatGPT",
       "excerpt": "In response to the emergence of powerful generative AI tools, on Thursday, UNESCO held the first global meeting of Ministers of Education.",
@@ -141,7 +98,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -521,6 +478,58 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-how-to-talk-about-ai-like-an-insider.md",
+      "title": "How to talk about A.I. like an insider",
+      "excerpt": "AI ethics describes the desire to prevent AI from causing immediate harm, and often focuses on questions like how AI systems collect and process data and the possibility of bias in areas like ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/05/21/ai-glossary-how-to-talk-about-ai-like-an-insider.html",
+      "originalUrl": "https://www.cnbc.com/2023/05/21/ai-glossary-how-to-talk-about-ai-like-an-insider.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/47432137-12-seized-shipments-slide4.jpg?v=1684677601",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/21/ai-glossary-how-to-talk-about-ai-like-an-insider.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/21/ai-glossary-how-to-talk-about-ai-like-an-insider.html",
+      "publishedDateTime": "2023-05-21T22:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {

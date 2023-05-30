@@ -103,15 +103,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Letter from the editor on generative AI and the FT"
-    excerpt: "In its more than 130-year history the Financial Times has upheld the highest standards of journalism. As editor of this newspaper, nothing matters to me more than the trust of readers in the quality journalism we produce. Quality means above all accuracy. It also means fairness and transparency."
-    publishedDateTime: 2023-05-26T14:53:00Z
-    webUrl: "https://www.ft.com/content/18337836-7c5f-42bd-a57a-24cdbd06ec51"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "1sQee71u7r/SFAViyr6UtKxtt8AW++1c9rjyOZu+sI0oroZPLui5NAgdRkxT2l6Pxwnz/zheQ1Z2ECQZLuFSd5hl0UoJuAKlLgREbWbpwQj5ZzZmMnGPxlxePXf0Dz/K0U9vJ5G5lPIqsKoU/LH5Rqz49mfh+yaUY00OZYUdnNpqo6t1M6s28WSEDaH4Z4dZeGIaqZZZKyCpt2vAB83w1wB1cEEh+dH5tVbUV68WYnCyH+mU/8XUxxLfk8zPZGuVHy20u3c7HepUmYmFoCVfeTgoZKxXG68lcahXUf5LTslbAqQ7q5hgtU8tmAkiZ3Zb+L5pA8A6AFVkiFZvSNP3Yw4zLrG5bGbAVid/tYWDytoGgLXRGJiqXnbO5welL+Xqa1FA0vdyH83xihDBA23/PqgedmLtxi1LrgOnCRdpA95ZypL2vk3Nq0SkvxSE8eoUe4OlB1z0of+3mK/duLml5Vk0eHpu/GyW7vnFG8WnQ90t6FkEPb4VW44TFBXeLVkS7xe5Uk27Dx/i31ALqiWBYQ==;jvwfv8OFp63aMZHyF6UOgw=="
 ---

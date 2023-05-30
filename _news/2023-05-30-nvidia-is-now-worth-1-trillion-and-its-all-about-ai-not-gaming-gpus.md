@@ -68,22 +68,6 @@ related:
         width: 1200
         height: 637
         isCached: true
-  - title: "AI Chip Giant Nvidia Nears Trillion Dollar Valuation"
-    excerpt: "The market valuation of Nvidia, a US firm which specializes in chips coveted in the artificial intelligence boom, neared one trillion dollars on Thursday after the company blew past quarterly earnings expectations."
-    publishedDateTime: 2023-05-25T23:59:00Z
-    webUrl: "https://www.barrons.com/news/ai-chip-giant-nvidia-nears-trillion-dollar-valuation-6935e483"
-    ampWebUrl: "https://www.barrons.com/amp/news/ai-chip-giant-nvidia-nears-trillion-dollar-valuation-6935e483"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-chip-giant-nvidia-nears-trillion-dollar-valuation-6935e483"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP1142699521695357999177111569604888203951---1.jpg"
-        width: 768
-        height: 512
-        isCached: true
   - title: "How AI may help Nvidia to become first trillion-dollar chip-making company"
     excerpt: "This is what Microsoft co-founder Bill Gates has to say on the 'big AI winner' of tomorrow Microsoft co-founder Bill Gates said that the future top company in artificial intelligence will likely have created a personal digital agent that can perform ..."
     publishedDateTime: 2023-05-26T11:37:00Z
@@ -227,6 +211,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Nvidia joins trillion-dollar club, riding on the AI boom"
+    excerpt: "Nvidia Corp, the chip-maker, reaches an elite status, joining US companies with a market value of over $1 trillion."
+    publishedDateTime: 2023-05-30T17:10:00Z
+    webUrl: "https://interestingengineering.com/innovation/nvidia-joins-trillion-dollar-club-riding-on-the-ai-boom"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/30/image/jpeg/3sL71HLAMXd4tYS7CJGu8laOnawvwd8VjT2csGpB.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Nvidia debuts more AI supercomputers and services as shares continue to soar"
     excerpt: "Nvidia debuted a host of new AI technologies on Monday, as the chip giant's stock price skyrocketed on a positive second quarter outlook."
     publishedDateTime: 2023-05-29T14:10:00Z
@@ -251,6 +249,6 @@ related:
       domain: channelnewsasia.com
     quality: 17
 
-secured: "G7o8JxFRl2huoxWwYrwFDAYsSp08lcv0wFl4/OaUvhAgIezXF6Yx2YOrRNMit16Ni/+tzrR2DEk5W0ig4KHRpFwm1nZxNao9W1CDadBmpMhWGHrFo/yNBlFzZnPBs9ZWCnV5p072Xxjzp2aiQpfWdprrm0OIYVdTHxacbX6vZsWWM/4z2ZzmN7elPMZnNzpMFck1EbiDKwbe58Cj5SVEJ+7FXmU6p202B3n4rRXKQVXjhd+HSZzd6Qk1VrWsmwWt0+qrfntLX5PmdSUdp+y3s0yvzJ3ewZN+FvckrcuF4838CFeUsa5iJBnBpd05ZbBqtzLb5yVZ49C/z6WpTxcU0KUT0mVxjWxuoyffLUbhK60=;ptu2F4OGb743CdZ2KpHRIw=="
+secured: "ystkCS4wGAPV22GAq1OAYpLahCLA1YJNhRxeDQpLE3q4WT645htDJe6HPWd4oaa+xKaBsovAU4LkANMRDZDVTJw3eYg9YLo8Nw2FN76aMIgoKbjJjXhNQ1B6l2YSfQovLzKUaT+yUkpw1Y7ZUl13QORc4D/LMqPQP58TQHbkUFAWHt+b33s3DCD1zdtAEKow+D9BTPDNj5D96Ro3n2/ay/6SPgic1i95K/uZD+J57+VzmzRcdAqOWbLJTpYVVsndlsYV8x9AM6ZimPaXayKBRaaW+VJVp42OT8EC4JYG+3FwkibY9zRmnLSGgg7mIM5guzjyTRZ1kBQJvsmf9I8u4VNaKixa5KNwkuj+bRKlvdku3n+Er1kS7fFBXgpJO7zgb4+ymtto5JB6GaC3rMFJyt8V3GyXWPslvZTQU420SwQX665TzHYEp3G3/auAMcv7KSxDJSCvEZbTVhxM0/8vnlpteqPauju6XqQ0e8lALdZMmtSICpBu7EPJKqOGteHtHKMiKWUYHUAwXhtpCMVoCQ==;CjEUy8kkOHq3eG8kA+6CtA=="
 ---
 

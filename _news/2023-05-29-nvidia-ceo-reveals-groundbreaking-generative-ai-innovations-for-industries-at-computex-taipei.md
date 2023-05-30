@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/nvidia-ceo-reveals-groundbreaking-gener
 webUrl: "https://venturebeat.com/ai/nvidia-ceo-reveals-groundbreaking-generative-ai-innovations-for-industries-at-computex-taipei/"
 type: article
 quality: 60
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia reveals generative AI NPCs that can dream up their own dialogue"
+    excerpt: "A new piece of software, Nvidia Ace, was introduced at the Computex Keynote. The software will allow game developers to implement AI NPCs into their worlds."
+    publishedDateTime: 2023-05-29T08:47:00Z
+    webUrl: "https://www.dexerto.com/tech/nvidia-reveals-generative-ai-npcs-that-can-dream-up-their-own-dialogue-2159057/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 39
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/29/ai-nvidia-gen.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "GIGABYTE's AI Servers with Superchips Shine at COMPUTEX, Redefining a New Era of Computing"
     excerpt: "Win Big with AI through GIGABYTE's Pioneering GPU/HPC Servers. GIGABYTE and its subsidiary, Giga Computing, are introducing unparalleled AI/HPC server lineups, leading the era of"
     publishedDateTime: 2023-05-29T10:43:00Z

@@ -48,15 +48,6 @@ related:
       name: Beebom
       domain: beebom.com
     quality: 19
-  - title: "Intel's 14th Generation Meteor Lake Processors: Emphasizing AI and Energy Efficiency"
-    excerpt: "Intel's 14th generation processors, codenamed Meteor Lake, is set to introduce a focus on AI and energy efficiency. At the Computex 2023 event, Intel revealed details about their upcoming Intel Core"
-    publishedDateTime: 2023-05-30T07:26:00Z
-    webUrl: "https://www.guru3d.com/news-story/intels-14th-generation-meteor-lake-processors-emphasizing-ai-and-energy-efficiency.html"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 12
 
 secured: "a+8tIC2yzyb6S4f7KbPYMDW3JZBJu+cq9bctLpLgrvfiO1VGHu0jSgPp82zpKInhJQEwcI21Zdx+RUh8mnN8aurDhgkTGLthle471qtiUMnpCMmhRqJaxc7BscSXuTjFLGHhYEQn+mIhOrVx/DyeyjyzH8gN+d40QODuAU8Yr/mfcr0rB7L2GrSVQJr4C5DLiXBJ8zEwXrAFp6+iWzSzbQZtTE7aOnzWKDF+5eEUUqO6fD+d5D9TLIwIamtiv/skPgTWLtb0Vq7Nu9tzFyIudJ8DAVxYnsjSa5cdUcyA+cz2gXD2Lj/jdfioVlpMRZ1ruevtrBZ6fCdd2gJ3JIgJpa1SPUGTCc5xubC5AqOYMVw=;60LlvEFIRh9LJJYSpuS0yw=="
 ---

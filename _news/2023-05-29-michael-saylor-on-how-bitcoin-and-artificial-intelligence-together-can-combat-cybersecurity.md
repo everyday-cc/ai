@@ -36,6 +36,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "SRG Technology drives global software services with IBM Cloud VPC under the hood"
+    excerpt: "SRGT chose IBM Cloud VPC for a new cloud platform that offered both flexibility and security for hosting its client-facing applications. \nThe post SRG Technology drives global software services with IBM Cloud VPC under the hood appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-05-30T16:51:39Z
+    webUrl: "https://www.ibm.com/blog/srg-technology-drives-global-software-services-with-ibm-cloud-vpc-under-the-hood/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 97
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/029a5404copy.lr_-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
 
 secured: "yCL0I3Uh0wOE3EzwITjsvAb+svfpj0g8daLIpCGAfx8/RyHx6vQQzfVLjxbhzgZR6fF/toSZ9MGC2mL22Hj5/7J6ZV+iQHQ4/hZvoYkw/ARVTwb6z7hDJvSPtEJYv/mr8XbO17KglZuArEi9npyS2wE4yMiPE/gkJ40QzyO7TP32UJxqOJMdD2ReOgYn6KGajFnlNiDTMbXcGVn1oztfaWLshMdKXXprKzlsnsFrkB2vgiWDfUMOUGMZv4xXot+H5eUOqU1rQL67DlYOPz2ji8Gn7PMXyFtdHczWi49LdnTA8ByDbmHD0waFXWGR3SGvYWCf2yd4AJWOvQC89lcjHbi5hajBPuKdbwGcNDhIckER2/VJbpYkeo2Jbm6w77ZtrF5+IcwGonGg3WS3hJrRY/vLLOIA4228qM2vS6UeY4yfGpPYtaGrXmiOT5ALzMfmNDmrpJw6op7pvWjvY5n0UGNeKOQ029HeBwuWq39lBJattUfYUJlUP3Y8vm5umn/Gwyu9IRbqDO5POd7+p0R/rQ==;MvD7PwwMjCIWssxDqdFkAA=="
 ---

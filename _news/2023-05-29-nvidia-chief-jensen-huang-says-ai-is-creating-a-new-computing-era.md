@@ -46,6 +46,36 @@ related:
         width: 2190
         height: 1369
         isCached: true
+  - title: "Nvidia is building Israel’s most powerful supercomputer for AI applications"
+    excerpt: "The system, called Israel-1, is expected to deliver performance of up to eight exaflops of AI computing that will essentially make it one of the world"
+    publishedDateTime: 2023-05-30T10:41:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/articleshow/100621717.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/amp_articleshow/100621717.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/amp_articleshow/100621717.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://static.toiimg.com/photo/msid-100621670/100621670.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Nvidia to build Israel's most potent AI supercomputer"
+    excerpt: "Nvidia is investing hundreds of millions in building Israel's strongest AI supercomputer, Israel-1, promising breakthroughs in AI applications."
+    publishedDateTime: 2023-05-29T17:36:00Z
+    webUrl: "https://interestingengineering.com/innovation/nvidia-to-build-israels-most-potent-ai-supercomputer"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/29/image/jpeg/jEpzwifYF4BB69ZwTB9uBNJSgOcgWayWXzWHUEZr.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "FrbduG6AkOoZCpKfaFUhJ3O2zKxaJbKNJJKnvx0zig2Tx6pf8nEju1gL7vyfoknG1ByyOGXp0pdtdyGQZkIviJT75LYmFnq1zsUL7vRYp9DQhtrgihqPjWNhmfwEprf5uvfQzAnGu8rpQCckJ+DHYTIdtVXgaHPCs8s6u4gsD8l8n4f+LxsNn+yUv+SbSMGb+tvss580My1JgxAMJVMuehP3QugU/IBBoHYDjvI3viyb+rk5NWAt65a5z2hidpqH4etP+Bl2bxIRgoHT/ifZwPky/AWrTkd+8+I2Z680OIvpNpV/k8sdObdazp3ZBnxAavKVJaZOs1dTmA5c0vUpU4OIMayTjqEfHuX4w13L2G/tbentwR6F42kZvYyZeVU4qvwCxJGVz7eLJDG7MP0GtzM8X8+jLeY7oCAVx/Q7ectzgafZ44etEVJ51MPbx48GRdbB3flNAvjT6PskLfysCyZJtRoxoJvRGbzkyeFvONvnf7ZgDW6Dtp8JlTbmHEGbRodecrRd6JmMOGgtcOsM6A==;1ae2hw+0a3WvJXW9doCT/Q=="
 ---

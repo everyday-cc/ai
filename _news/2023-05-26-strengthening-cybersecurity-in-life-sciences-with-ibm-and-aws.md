@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/strengthening-cybersecurity-in-life-scien
 webUrl: "https://www.ibm.com/blog/strengthening-cybersecurity-in-life-sciences-with-ibm-and-aws/"
 type: article
 quality: 99
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AWS AI
 
 related:
+  - title: "SRG Technology drives global software services with IBM Cloud VPC under the hood"
+    excerpt: "SRGT chose IBM Cloud VPC for a new cloud platform that offered both flexibility and security for hosting its client-facing applications. \nThe post SRG Technology drives global software services with IBM Cloud VPC under the hood appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-05-30T16:51:39Z
+    webUrl: "https://www.ibm.com/blog/srg-technology-drives-global-software-services-with-ibm-cloud-vpc-under-the-hood/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 97
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/029a5404copy.lr_-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
   - title: "Michael Saylor on how Bitcoin and artificial intelligence together can combat cybersecurity"
     excerpt: "In a recent interview with Kitco News, Michael Saylor, executive chairman, MicroStrategy, mentioned that Bitcoin might help in cybersecurity if collaborated with artificial intelligence, such as deepfake, stated Cointelegraph."
     publishedDateTime: 2023-05-29T05:39:00Z

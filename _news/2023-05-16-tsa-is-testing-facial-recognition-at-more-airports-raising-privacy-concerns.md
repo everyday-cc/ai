@@ -1,28 +1,20 @@
 ---
 category: news
 title: "TSA is testing facial recognition at more airports, raising privacy concerns"
-excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country BALTIMORE -- A passenger walks up to an airport ..."
-publishedDateTime: 2023-05-15T17:47:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
-webUrl: "https://abcnews.go.com/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/tsa-tests-facial-recognition-technology-boost-airport-security-99322644"
+excerpt: "The agency tasked with securing America's airports is testing the use of facial recognition technology at a number of airports across the country. The Transportation Safety Administration says the technology is an effort to more accurately identify the millions of passengers traveling through its airports every day and that passengers can opt out."
+publishedDateTime: 2023-05-15T19:29:00Z
+originalUrl: "https://apnews.com/article/facial-recognition-airport-screening-tsa-d8b6397c02afe16602c8d34409d1451f"
+webUrl: "https://apnews.com/article/facial-recognition-airport-screening-tsa-d8b6397c02afe16602c8d34409d1451f"
 type: article
 
 provider:
-  name: ABC News
-  domain: abcnews.go.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
-
-secured: "N9G0Kp38ThDzx/R4GtfLF+Th8DKFzGtH1eHGxVQM0/I7x5S0m4OjQ1jR67kt8BLXKag0cQlRQfK8EzXsS5APrq1L2de7pJ0d/JkXgGhTujUdlQT2X1F3lqZun5ok4wFkmmgW0MjtIt8d+lt/WdGuO939gYu+s0BjAECqC3ly9n1V2qx1RJ/d/ViPFFCQCHlhSX9KUY1YGkHCu0KwcXZ3g2zI4DlHvDSPQKRgQrinqC8WuTuGrefdsttYSnvxuvSf2JB71DIFDPp4PHetuLBFffARxUn7l749FTS+YpW64h/YhVBuyqyyJxD+gowMv3vh9SkpSIzELryQxjThLzuwuCDuG1Eqidux3w3qyVTBASc=;/Q9z/JM9CXxB5VHeT4JUFw=="
+secured: "K6N7Xu/dwHU7PSFdDgpSf0X8jMwA86T6ZHb52BAF1WbBEQQxwhO91v5bJVJmgfxztBEOPOEbrcM/StPSccNiFAZpcshofJXHQhy0CIwSwrBrTqmk67h2rkR77pi+HME05n28EXpPOJ0qpx69FjotBEZDSELbT4+d6BnKEU4d0cMWGqMKc3JhtpO3vUCG98wByWQ+BBA8B9vkIT1CzfH/YjLDpbYVfOs3vV4s3aLQ0CGo+0G5bWkcn7kQ6NiZrxr5vfg0QbGdJgA9iiQANCP+0mjWTn4TeAWaS5e6LtO664HIl5ABC+U1pqd72uKTNmQ6lfNz5IKCcyIqPtK8oJVKDWhKngqLIYs6F68h0Nj1NvU=;i0T7S0tkzLlU1d7GktcS9g=="
 ---
 

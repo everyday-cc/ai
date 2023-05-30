@@ -51,15 +51,15 @@ related:
         isCached: true
   - title: "Woman sent to hospital after self-driving Tesla crashes into tree"
     excerpt: "A woman hit a tree after law enforcement said she put her Tesla in self-driving mode. The crash happened Sunday night in Mecosta County's Colfax Township on McKinley Road near 135th Avenue. According to the Mecosta County Sheriff's Office,"
-    publishedDateTime: 2023-05-29T17:25:00Z
-    webUrl: "https://wjla.com/news/nation-world/woman-sent-to-hospital-after-self-driving-tesla-crashes-into-tree-mecosta-county-michigan-automated"
+    publishedDateTime: 2023-05-29T22:26:00Z
+    webUrl: "https://kfoxtv.com/news/nation-world/woman-sent-to-hospital-after-self-driving-tesla-crashes-into-tree-mecosta-county-michigan-automated"
     type: article
     provider:
-      name: wjla
-      domain: wjla.com
+      name: kfoxtv
+      domain: kfoxtv.com
     quality: 39
     images:
-      - url: "https://wjla.com/resources/media/4b221edb-c40e-42a3-bf2f-601a147ee531-large16x9_AP23097481304567.jpg?1682101698739"
+      - url: "https://kfoxtv.com/resources/media/4b221edb-c40e-42a3-bf2f-601a147ee531-large16x9_AP23097481304567.jpg?1682101698739"
         width: 986
         height: 555
         isCached: true

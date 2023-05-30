@@ -33,6 +33,22 @@ related:
         width: 600
         height: 800
         isCached: true
+  - title: "AI Stocks Are on Fire. Marvell Joins Nvidia in the Hot Stocks."
+    excerpt: "Marvell Technology is the latest chip maker to join Nvidia in surging as it forecasts AI to be a long-term growth driver.  Already a subscriber? Sign In"
+    publishedDateTime: 2023-05-26T09:22:00Z
+    webUrl: "https://www.barrons.com/articles/ai-stocks-marvell-nvidia-a2201a91"
+    ampWebUrl: "https://www.barrons.com/amp/articles/ai-stocks-marvell-nvidia-a2201a91"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ai-stocks-marvell-nvidia-a2201a91"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-268126/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "Shares of Marvell jump sky-high as it forecasts AI chip revenue to double"
     excerpt: "Marvell Technology Inc. topped expectations in its fiscal first-quarter financial results today and said it’s expecting revenue from artificial intelligence to at least double this year, sending its stock sky-high in extended trading."
     publishedDateTime: 2023-05-26T01:19:00Z

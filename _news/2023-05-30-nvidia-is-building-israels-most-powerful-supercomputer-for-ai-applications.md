@@ -27,74 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia: The chip maker that became an AI superpower"
-    excerpt: "Jensen Huang, now the chief executive of Nvidia, was one of its founders back in 1993. Then, Nvidia was focused on making graphics better for gaming and other applications. In 1999 it developed GPUs to enhance image display for computers."
-    publishedDateTime: 2023-05-25T23:26:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-65675027"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-65675027.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65675027.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0784/production/_129842910_jensen_huang-extended.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "AI Stocks Are on Fire. Marvell Joins Nvidia in the Hot Stocks."
-    excerpt: "Marvell Technology is the latest chip maker to join Nvidia in surging as it forecasts AI to be a long-term growth driver.  Already a subscriber? Sign In"
-    publishedDateTime: 2023-05-26T09:22:00Z
-    webUrl: "https://www.barrons.com/articles/ai-stocks-marvell-nvidia-a2201a91"
-    ampWebUrl: "https://www.barrons.com/amp/articles/ai-stocks-marvell-nvidia-a2201a91"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ai-stocks-marvell-nvidia-a2201a91"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-268126/social"
-        width: 1279
-        height: 640
-        isCached: true
-  - title: "Not Just Nvidia: These Are the Other Big Winners in the AI Chip Biz"
-    excerpt: "COVID-19 was hell for tech stock and chip manufacturers, but ChatGPT and AI have since been a boon for Nvidia and other similar companies."
-    publishedDateTime: 2023-05-26T21:44:00Z
-    webUrl: "https://decrypt.co/142568/nvidia-big-winners-ai-chip-biz-tech-stocks"
-    type: article
-    provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 54
-    images:
-      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/05/nvidia-ai-chips-gID_7.jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Nvidia is up 165% in 2023. Here's why its the clear winner in the AI race so far."
-    excerpt: "Nvidia's role in powering the AI sector's vast ambitions means it will be a clear leader in the space for a long time, sources told Insider."
-    publishedDateTime: 2023-05-27T12:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-ai-race-artificial-intelligence-wall-street-gpu-huang-2023-5"
+  - title: "Landing AI's Visual Prompting Makes Building and Deploying Computer Vision Easy with NVIDIA Metropolis"
+    excerpt: "Landing AI's vision technology realizes the next era of AI factory automation. LandingLens, Landing AI's flagship product platform, enables industrial solution providers and manufacturers to develop,"
+    publishedDateTime: 2023-05-29T05:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-s-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropolis-1032355971"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 44
-  - title: "Nvidia reveals generative AI NPCs that can dream up their own dialogue"
-    excerpt: "A new piece of software, Nvidia Ace, was introduced at the Computex Keynote. The software will allow game developers to implement AI NPCs into their worlds."
-    publishedDateTime: 2023-05-29T08:47:00Z
-    webUrl: "https://www.dexerto.com/tech/nvidia-reveals-generative-ai-npcs-that-can-dream-up-their-own-dialogue-2159057/"
+    quality: 68
+    images:
+      - url: "https://mma.prnewswire.com/media/1811961/NPN_Partner_Badge_Colored_Logo.jpg"
+        width: 400
+        height: 205
+        isCached: true
+  - title: "Why Nvidia, C3.ai, and Qualcomm Stocks Keep Going Up"
+    excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services."
+    publishedDateTime: 2023-05-30T15:53:00Z
+    webUrl: "https://www.fool.com/investing/2023/05/30/why-nvidia-c3ai-and-qualcomm-stocks-keep-going-up/"
     type: article
     provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 39
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
     images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/29/ai-nvidia-gen.jpg"
-        width: 1600
-        height: 900
+      - url: "https://g.foolcdn.com/editorial/images/734387/semiconductor-computer-chip-with-the-letters-ai-in-the-middle.jpg"
+        width: 2190
+        height: 1369
         isCached: true
   - title: "Nvidia to build Israel's most potent AI supercomputer"
     excerpt: "Nvidia is investing hundreds of millions in building Israel's strongest AI supercomputer, Israel-1, promising breakthroughs in AI applications."
@@ -110,6 +69,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Nvidia chief Jensen Huang says AI is creating a ‘new computing era’"
+    excerpt: "In his first in-person public address since the start of the pandemic Jensen Huang warned that the traditional tech industry would not keep pace with AI ’s advancements, adding that the technology had dramatically lowered the barrier to entry to computer coding."
+    publishedDateTime: 2023-05-29T12:17:00Z
+    webUrl: "https://ft.com/content/5bfcc670-7fcf-4ffd-92ae-cd7b7948405f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "2URrnV8yvvgvJjatRWMsit2U9LGk9z3LejcPESf051wfS1/1Kww8UFuCH6XcYYKQaaZZaG3IuBpYUROOQFqGR85ZswFtRjhkbLReQRjfqi+kd81l5qpA9ApsowyYeW6Hp3l1k4LzyobvCS1STNh/VSSa6YrtDoXW3x/YofSH4w9crn/P+yQaYctun/PffAtZaPRjVoSviXJ1VioZo5sQZ+sWpAh7ndtDcj0MzyEPMRXFA3orXAN65JbO8YoxpPn7oyAFuXa0aIPY+VUSQv1ui12/L08p0gkaiNwqrvGK19HQxMTv71AkX67mZ/hL6R2qzuFLOLGVljzZGohMX0vVqk086Rw9/qmPuJPG5DV0crHUK+0S9Ry6pngksyPCMyqzZZ/w9ok9MrSCMIvx/RdkD8jO9AzJaWGPnIXGPPPAGuOcTXsqhxkjkMDoC58JhIWKbRQbgdvZFhRSjUJqb8070wZxk64jCZycurliacGh0zfs+ZUEfBMXF5EeKKL4VF51pKIXLOVhOVXChMVidg4rqA==;h1gmmrY94rfVkLnk90NkOw=="
 ---

@@ -156,6 +156,20 @@ related:
       name: CNET
       domain: cnet.com
     quality: 62
+  - title: "Bulls Charge Into The Memorial Day Weekend On AI Excitement And Nvidia Earnings Momentum"
+    excerpt: "The Markets To say NVDA (NASDAQ: NVDA) crushed earnings is a drastic understatement. You won’t find fundamental analysis on this page. But it does make sense to pay attention to the smart and experienced traders that know the fundamentals."
+    publishedDateTime: 2023-05-30T17:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/etf/bulls-charge-into-the-memorial-day-weekend-on-ai-excitement-and-nvidia-earnings-momentum-1032358964"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/2-bull-photography-tkriu01wdfm-unsplash.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "NVIDIA is upgrading the in-car experience with AI, streaming, and advanced safety features"
     excerpt: "NVIDIA revealed a new partnership Monday with Taiwanese semiconductor giant MediaTek to enhance the in-car driver experience and make"
     publishedDateTime: 2023-05-29T16:43:00Z

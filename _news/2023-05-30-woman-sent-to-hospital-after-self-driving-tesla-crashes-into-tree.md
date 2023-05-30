@@ -2,24 +2,24 @@
 category: news
 title: "Woman sent to hospital after self-driving Tesla crashes into tree"
 excerpt: "A woman hit a tree after law enforcement said she put her Tesla in self-driving mode. The crash happened Sunday night in Mecosta County's Colfax Township on McKinley Road near 135th Avenue. According to the Mecosta County Sheriff's Office,"
-publishedDateTime: 2023-05-29T17:25:00Z
-originalUrl: "https://wjla.com/news/nation-world/woman-sent-to-hospital-after-self-driving-tesla-crashes-into-tree-mecosta-county-michigan-automated"
-webUrl: "https://wjla.com/news/nation-world/woman-sent-to-hospital-after-self-driving-tesla-crashes-into-tree-mecosta-county-michigan-automated"
+publishedDateTime: 2023-05-29T22:26:00Z
+originalUrl: "https://kfoxtv.com/news/nation-world/woman-sent-to-hospital-after-self-driving-tesla-crashes-into-tree-mecosta-county-michigan-automated"
+webUrl: "https://kfoxtv.com/news/nation-world/woman-sent-to-hospital-after-self-driving-tesla-crashes-into-tree-mecosta-county-michigan-automated"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: wjla
-  domain: wjla.com
+  name: kfoxtv
+  domain: kfoxtv.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://wjla.com/resources/media/4b221edb-c40e-42a3-bf2f-601a147ee531-large16x9_AP23097481304567.jpg?1682101698739"
+  - url: "https://kfoxtv.com/resources/media/4b221edb-c40e-42a3-bf2f-601a147ee531-large16x9_AP23097481304567.jpg?1682101698739"
     width: 986
     height: 555
     isCached: true
@@ -79,6 +79,6 @@ related:
       domain: mlive.com
     quality: 19
 
-secured: "2owXLTqOuSuK6c52nJuSljlq0VOLZpQvAenMR0NK+VvkbkzBP6YNpcd/vo7UHtQCTxtP7GLXN53RgelFkCY6Fi7FN0CPpWVsFt/3fVGkUGU+tuAJe1HTjuQS6G7vn+/L5QVSaAbFP5rmohC1y0A/B3Q6mDPs7MCvmFF0296udizDQA/mU/7dP6zem00wZqXS3nIpfZYiC8CZZ9AdYuEM1dMA+oZO8KJDeyE7F3quLaqMqwIj2Mh3rvI8hQyYDs1tIcJkjjhhxQmngAwPLdy6jR6gsTEESc0Ffqwrk1qLG4N5SqP2f+uVKRQi8SbHWlH63WB3vK+hLU7jI4MY7O/wvWhybXOGRUPGo7oTTxdd1I9+h3iFSI1LfqQsS2nSzTNxIapx1L6hkIzEFHInzGBLjpErgF6oAHmGOVb1jv3vkmRiyVYFXsW2E0j/K9nZJF/7VSGB/Pl1NnOuLw4/uY6VAzI5v0n+RrGZmEOe3Mqbx+zyo3tONF+8vpzcAKN2yVEIUuBvHcKO9odCtYjwrSjp2Q==;VpGeAtZ6SR+YrBSNhSRhKg=="
+secured: "JglsJR1W6h6BySVzh9GY2+NKE9jJnlGJTbr9SbmqBu9WbIkzO7PYE44txekVj+8qN0Y+sGnweLVCknMCVgP7N1bqwfHaOnxwSGguuw5zHERPnn5wjANAIWXvmOCkxrE+upRIxvMQfkCDOLk+7dDmJWALfE3kV5HQuZK0tinKOx0IAwR+9ubxMsLm6FDioYDoWe4i1DzJS07Fnlwpf8HM25AHm9McedMo+FiQAGIVONBs2DtZXZVypkG0Q37+B3GO2YLz8WLHFXIietgaxNR80YFvqizJo2G31ye4t2PTw7aV5/b7oUeUG/8OMUL5nccVtoL7/GCc+iQUCumPBZ9Fi3Ml75Zv0waeKua+857BRZ8=;gSh88U+cDhe1OchKESjfuw=="
 ---
 

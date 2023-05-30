@@ -81,17 +81,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Australia’s sport codes unite in support of Indigenous voice to parliament"
-    excerpt: "Australia’s sport codes have united in an extraordinary show of support for the Indigenous voice to parliament, advocating for a nation that “values equity and fairness”."
-    publishedDateTime: 2023-05-26T00:31:00Z
-    webUrl: "https://www.news.com.au/sport/australias-sport-codes-unite-in-support-of-indigenous-voice-to-parliament/news-story/c95011ad29c44681a0363da339be8a0e"
-    ampWebUrl: "https://www.news.com.au/sport/australias-sport-codes-unite-in-support-of-indigenous-voice-to-parliament/news-story/c95011ad29c44681a0363da339be8a0e?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/sport/australias-sport-codes-unite-in-support-of-indigenous-voice-to-parliament/news-story/c95011ad29c44681a0363da339be8a0e?amp"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 22
   - title: "Far from undermining democracy, The Voice will pluralise and enrich Australia’s democratic conversation"
     excerpt: "We need a richer account of democracy within which to locate the Voice, to lift the quality of public debate about it."
     publishedDateTime: 2023-05-28T20:06:00Z

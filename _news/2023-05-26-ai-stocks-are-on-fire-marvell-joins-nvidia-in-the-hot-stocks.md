@@ -27,89 +27,43 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia: The chip maker that became an AI superpower"
-    excerpt: "Jensen Huang, now the chief executive of Nvidia, was one of its founders back in 1993. Then, Nvidia was focused on making graphics better for gaming and other applications. In 1999 it developed GPUs to enhance image display for computers."
-    publishedDateTime: 2023-05-25T23:26:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-65675027"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-65675027.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65675027.amp"
+  - title: "Marvell Technology Stock Jumps as Chip Stocks Keep Rising"
+    excerpt: "A day after optimism about the future for AI led shares of Nvidia higher, Marvell Technology stock is making its big move with chip stocks continuing to climb. The stock was recently up more than 27%,"
+    publishedDateTime: 2023-05-26T15:00:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-26-2023/card/marvell-technology-stock-jumps-as-chip-stocks-keep-rising-z6xLa5PPADAItygaUQPj"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 74
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0784/production/_129842910_jensen_huang-extended.png"
-        width: 1024
-        height: 576
+      - url: "https://images.wsj.net/im-789639?width=600"
+        width: 600
+        height: 800
         isCached: true
-  - title: "Nvidia is building Israel’s most powerful supercomputer for AI applications"
-    excerpt: "The system, called Israel-1, is expected to deliver performance of up to eight exaflops of AI computing that will essentially make it one of the world"
-    publishedDateTime: 2023-05-30T10:41:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/articleshow/100621717.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/amp_articleshow/100621717.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/amp_articleshow/100621717.cms"
+  - title: "Shares of Marvell jump sky-high as it forecasts AI chip revenue to double"
+    excerpt: "Marvell Technology Inc. topped expectations in its fiscal first-quarter financial results today and said it’s expecting revenue from artificial intelligence to at least double this year, sending its stock sky-high in extended trading."
+    publishedDateTime: 2023-05-26T01:19:00Z
+    webUrl: "https://siliconangle.com/2023/05/25/shares-marvell-jump-sky-high-forecasts-ai-chip-revenue-double/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 57
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 53
     images:
-      - url: "https://static.toiimg.com/photo/msid-100621670/100621670.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/murphy-mattmarvell_1200xx7418-4180-0-0.jpg"
+        width: 1200
+        height: 676
         isCached: true
-  - title: "Not Just Nvidia: These Are the Other Big Winners in the AI Chip Biz"
-    excerpt: "COVID-19 was hell for tech stock and chip manufacturers, but ChatGPT and AI have since been a boon for Nvidia and other similar companies."
-    publishedDateTime: 2023-05-26T21:44:00Z
-    webUrl: "https://decrypt.co/142568/nvidia-big-winners-ai-chip-biz-tech-stocks"
+  - title: "Marvell Technology Is the Latest Tech Firm to Benefit From AI"
+    excerpt: "Marvell Technology (MRVL) is the latest tech firm to say it is benefitting from the boom in artificial intelligence (AI), and shares skyrocketed on Friday after the company released its first-quarter earnings."
+    publishedDateTime: 2023-05-26T19:54:00Z
+    webUrl: "https://www.investopedia.com/marvell-technology-is-the-latest-tech-firm-to-benefit-from-ai-7504792"
     type: article
     provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 54
-    images:
-      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/05/nvidia-ai-chips-gID_7.jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Nvidia is up 165% in 2023. Here's why its the clear winner in the AI race so far."
-    excerpt: "Nvidia's role in powering the AI sector's vast ambitions means it will be a clear leader in the space for a long time, sources told Insider."
-    publishedDateTime: 2023-05-27T12:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-ai-race-artificial-intelligence-wall-street-gpu-huang-2023-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
-  - title: "Nvidia reveals generative AI NPCs that can dream up their own dialogue"
-    excerpt: "A new piece of software, Nvidia Ace, was introduced at the Computex Keynote. The software will allow game developers to implement AI NPCs into their worlds."
-    publishedDateTime: 2023-05-29T08:47:00Z
-    webUrl: "https://www.dexerto.com/tech/nvidia-reveals-generative-ai-npcs-that-can-dream-up-their-own-dialogue-2159057/"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 39
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/29/ai-nvidia-gen.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Nvidia to build Israel's most potent AI supercomputer"
-    excerpt: "Nvidia is investing hundreds of millions in building Israel's strongest AI supercomputer, Israel-1, promising breakthroughs in AI applications."
-    publishedDateTime: 2023-05-29T17:36:00Z
-    webUrl: "https://interestingengineering.com/innovation/nvidia-to-build-israels-most-potent-ai-supercomputer"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/29/image/jpeg/jEpzwifYF4BB69ZwTB9uBNJSgOcgWayWXzWHUEZr.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: Investopedia
+      domain: investopedia.com
+    quality: 19
 
 secured: "8qNxQlVwpyBHS0iskW7t4834w660pYssk4LE2rRUpnqlDcY+BBxXQp1cNxt28vBBEWM5Yp1LDoovB/GPVaMj1fQyN0rM8TUZ2VTQkYqdWm0+O3J40HRpBz9Apw/lHnVF+YNaTTD8mS38v2Kir/KILAG/FvbLQ2Anvsa5TARgKtRo/VlMKjhc6VEgnacfRVYC5STgHlKpWdxYbhZMXabS4godtFIa3bCPlDJZ6eJ2uHMePrZ2fG8ZV0/MX4zAiI6SaaICnv1RxT1V6wRphg9I9OxPDGyxcuvh9I/yONBfYiedPvXS6qe7sNoBMEzc4ghaJfNOHMNr42wzXxrXeAflbzr+Y7/glPc7Rb5g9880TCY=;kLHniffZen0GP7SmnhZwwQ=="
 ---

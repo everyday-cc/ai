@@ -78,6 +78,36 @@ related:
         width: 640
         height: 384
         isCached: true
+  - title: "ChatGPT vs Bing Chat vs Google Bard: Which is the best AI chatbot?"
+    excerpt: "GPT-4 is the largest LLM available for use when compared to all other AI chatbots. GPT-4 has over 100 trillion parameters; GPT-3.5 has 175 billion parameters. More parameters means that, essentially, the model is trained on more data, which makes it more likely to answer questions correctly."
+    publishedDateTime: 2023-05-30T16:26:00Z
+    webUrl: "https://www.zdnet.com/article/chatgpt-vs-bing-chat-vs-google-bard-which-is-the-best-ai-chatbot/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-vs-bing-chat-vs-google-bard-which-is-the-best-ai-chatbot/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-vs-bing-chat-vs-google-bard-which-is-the-best-ai-chatbot/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/3a48a084a7a93ad8c86dde1b9665b51646afbb96/2023/05/24/198d2750-d626-47a5-beca-9735824020a7/versus.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "UK startup taps ChatGPT to launch AI playlist generator"
+    excerpt: "A UK startup has tapped ChatGPT to build a text-to-music playlist generator. The AI system is the brainchild of Uppbeat, an audio platform based in Leeds. Targeting content creators, the feature finds copyright-free tracks for video soundtracks."
+    publishedDateTime: 2023-05-30T15:47:00Z
+    webUrl: "https://thenextweb.com/news/uk-startup-uppbeat-taps-chatgpt-to-launch-ai-text-to-music-playlist-generator"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2FUntitled-design-6-1.jpg&signature=5a484168b068ec4ec7870faeb2d42768"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "ChatGPT takes center stage as students ditch tutors in favor of AI-powered learning"
     excerpt: "The findings show many students and parents using ChatGPT, with some completely replacing their tutoring sessions with the AI tool."
     publishedDateTime: 2023-05-29T16:33:00Z
@@ -117,22 +147,6 @@ related:
     quality: 59
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/05/jp-morgan-file-gty-ml-200908_1599583350520_hpMain_16x9_992.jpeg?w=1200&strip=all"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "OpenAI boss downplays fears ChatGPT maker could leave Europe over AI rules"
-    excerpt: "OpenAI CEO Sam Altman is downplaying worries that the ChatGPT maker could exit the European Union if it can’t comply with the bloc’s strict new artificial intelligence rules"
-    publishedDateTime: 2023-05-26T14:55:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 55
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_1a249ab94593356940d8f56d15e8a019_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

@@ -67,22 +67,6 @@ related:
         width: 1200
         height: 637
         isCached: true
-  - title: "AI Chip Giant Nvidia Nears Trillion Dollar Valuation"
-    excerpt: "The market valuation of Nvidia, a US firm which specializes in chips coveted in the artificial intelligence boom, neared one trillion dollars on Thursday after the company blew past quarterly earnings expectations."
-    publishedDateTime: 2023-05-25T23:59:00Z
-    webUrl: "https://www.barrons.com/news/ai-chip-giant-nvidia-nears-trillion-dollar-valuation-6935e483"
-    ampWebUrl: "https://www.barrons.com/amp/news/ai-chip-giant-nvidia-nears-trillion-dollar-valuation-6935e483"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-chip-giant-nvidia-nears-trillion-dollar-valuation-6935e483"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP1142699521695357999177111569604888203951---1.jpg"
-        width: 768
-        height: 512
-        isCached: true
   - title: "How AI may help Nvidia to become first trillion-dollar chip-making company"
     excerpt: "This is what Microsoft co-founder Bill Gates has to say on the 'big AI winner' of tomorrow Microsoft co-founder Bill Gates said that the future top company in artificial intelligence will likely have created a personal digital agent that can perform ..."
     publishedDateTime: 2023-05-26T11:37:00Z
@@ -237,6 +221,20 @@ related:
     quality: 39
     images:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/29/image/jpeg/yD8nZtFgP7hf2lda13UESyo8qm6okOlKPcxawDDm.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Nvidia joins trillion-dollar club, riding on the AI boom"
+    excerpt: "Nvidia Corp, the chip-maker, reaches an elite status, joining US companies with a market value of over $1 trillion."
+    publishedDateTime: 2023-05-30T17:10:00Z
+    webUrl: "https://interestingengineering.com/innovation/nvidia-joins-trillion-dollar-club-riding-on-the-ai-boom"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/30/image/jpeg/3sL71HLAMXd4tYS7CJGu8laOnawvwd8VjT2csGpB.jpg"
         width: 1920
         height: 1080
         isCached: true

@@ -73,6 +73,22 @@ related:
         width: 640
         height: 384
         isCached: true
+  - title: "ChatGPT vs Bing Chat vs Google Bard: Which is the best AI chatbot?"
+    excerpt: "GPT-4 is the largest LLM available for use when compared to all other AI chatbots. GPT-4 has over 100 trillion parameters; GPT-3.5 has 175 billion parameters. More parameters means that, essentially, the model is trained on more data, which makes it more likely to answer questions correctly."
+    publishedDateTime: 2023-05-30T16:26:00Z
+    webUrl: "https://www.zdnet.com/article/chatgpt-vs-bing-chat-vs-google-bard-which-is-the-best-ai-chatbot/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-vs-bing-chat-vs-google-bard-which-is-the-best-ai-chatbot/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-vs-bing-chat-vs-google-bard-which-is-the-best-ai-chatbot/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/3a48a084a7a93ad8c86dde1b9665b51646afbb96/2023/05/24/198d2750-d626-47a5-beca-9735824020a7/versus.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
     publishedDateTime: 2023-05-29T16:00:00Z
@@ -88,6 +104,20 @@ related:
       - url: "https://i.insider.com/64414647632fda001803ccf4?width=1200&format=jpeg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "UK startup taps ChatGPT to launch AI playlist generator"
+    excerpt: "A UK startup has tapped ChatGPT to build a text-to-music playlist generator. The AI system is the brainchild of Uppbeat, an audio platform based in Leeds. Targeting content creators, the feature finds copyright-free tracks for video soundtracks."
+    publishedDateTime: 2023-05-30T15:47:00Z
+    webUrl: "https://thenextweb.com/news/uk-startup-uppbeat-taps-chatgpt-to-launch-ai-text-to-music-playlist-generator"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2FUntitled-design-6-1.jpg&signature=5a484168b068ec4ec7870faeb2d42768"
+        width: 1280
+        height: 640
         isCached: true
   - title: "ChatGPT takes center stage as students ditch tutors in favor of AI-powered learning"
     excerpt: "The findings show many students and parents using ChatGPT, with some completely replacing their tutoring sessions with the AI tool."
@@ -128,22 +158,6 @@ related:
     quality: 59
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/05/jp-morgan-file-gty-ml-200908_1599583350520_hpMain_16x9_992.jpeg?w=1200&strip=all"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "OpenAI boss downplays fears ChatGPT maker could leave Europe over AI rules"
-    excerpt: "OpenAI CEO Sam Altman is downplaying worries that the ChatGPT maker could exit the European Union if it can’t comply with the bloc’s strict new artificial intelligence rules"
-    publishedDateTime: 2023-05-26T14:55:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 55
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_1a249ab94593356940d8f56d15e8a019_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -232,6 +246,6 @@ related:
       domain: ft.com
     quality: 11
 
-secured: "SUbEi6z9OJeL+eJitvFTPEW3MxJ8CODqrLZ2Eh9UHdbwBpRbFBQ15rfO5hB5YLoHBIG1nihJuMTUfRfXiVLE5nG9rI2YH7pSwT8qjTucz9YkbIQFCyebihsqt4+gi3ighUw5s1f930O+2ruiyO7D0R5Lj1p47r0Aq/iIjOSQWHgEg1BC0Foxf8zYagp7uI5j7wGYkGlPcb/V6rz8YOa42h5JDtidbmwwDk6xoi/zf2ZIrXc6NyZQ1sKQH0YCCeG7uvn8zrQ6CO3/Qa2ppCqNwHbvCFjrXsemsNPZSmz+o+cV0FWbVKA29IvHY1hv6E3+CqRQI9uVgEKzFKwT0ERcJvksH0HBZeRXwb/+rMhVfBg=;0TebNvjKmF2viQpZYhrmrQ=="
+secured: "G7/LyCufcUYMjV/FwuJAdL4baFpfWO8/roOu17RDxE5kv8d/6j0G+xI6mgaB3BH645jA9XrddT7jH2qVfIetjnpjo26Lch5Qh3WjZs10OmRTY5OiaF9WpPAY67ATvCouQVX87seF9LE7vIiBTvinCVBR6oxMK7O4EO6A4so5+ynRze8RgJGq3M6Kg8FPtSTcIvThYb2dhq9gYbkkqqGVn4rMmEOmZoskdKD7JHCD1L2sEoFn9Ai3I9SdgTuPoAzIGE43WcZLPpt6566Ku2Smp+05RrWXABAx8uQLnpQkIm5usbma+9yJ7Zudpc7ywawspmoZaVQ7U88ynUN05m45G/DpkGDfW9OQFxFO5Isi4aqkOYQwj6Pum9qN2RYJrnb4jMySzoyULMQGgFOat5XuA664mbhaax3gNZNX1datBokmIPAikpRWQ/SSIcB/ZgIBhdDVZJ7Jir60GM4zpI9SjJ9wnyvW8GPqqnNN+RCBdCgETLdQ2Z7q4NtJ17dsSAPH7AYtZBQafTlvVw2SjRbdoA==;VgRqqcPIKgA7tQAX+xOvkw=="
 ---
 

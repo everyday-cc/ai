@@ -87,17 +87,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Australia’s sport codes unite in support of Indigenous voice to parliament"
-    excerpt: "Australia’s sport codes have united in an extraordinary show of support for the Indigenous voice to parliament, advocating for a nation that “values equity and fairness”."
-    publishedDateTime: 2023-05-26T00:31:00Z
-    webUrl: "https://www.news.com.au/sport/australias-sport-codes-unite-in-support-of-indigenous-voice-to-parliament/news-story/c95011ad29c44681a0363da339be8a0e"
-    ampWebUrl: "https://www.news.com.au/sport/australias-sport-codes-unite-in-support-of-indigenous-voice-to-parliament/news-story/c95011ad29c44681a0363da339be8a0e?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/sport/australias-sport-codes-unite-in-support-of-indigenous-voice-to-parliament/news-story/c95011ad29c44681a0363da339be8a0e?amp"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 22
   - title: "Linda Burney’s urge to vote ‘yes’ in Voice referendum, 66 years after Indigenous Australians counted in population"
     excerpt: "On the anniversary of the 1967 referendum, the government has called for Australians to vote yes for an Indigenous Voice to parliament, amid opposition claims it could set back reconciliation."
     publishedDateTime: 2023-05-27T16:42:00Z
