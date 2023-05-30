@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "The Security Hole at the Heart of ChatGPT and Bing"
-    excerpt: "Indirect prompt-injection attacks can leave people vulnerable to scams and data theft when they use the AI chatbots."
-    publishedDateTime: 2023-05-25T06:00:00Z
-    webUrl: "https://www.wired.com/story/chatgpt-prompt-injection-attack-security/"
-    ampWebUrl: "https://www.wired.com/story/chatgpt-prompt-injection-attack-security/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chatgpt-prompt-injection-attack-security/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 91
-    images:
-      - url: "https://media.wired.com/photos/646ea845f2de86183cf5b400/master/pass/The-Security-Hole-at-the-Heart-of-ChatGPT-and-Bing-Security-GettyImages-1264516882.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "How ChatGPT Is Reshaping The C-Suite, With New AI Leadership Position"
     excerpt: "A stunning forecast from the chipmaker - whose silicon solutions are powering the future with artificial intelligence (AI) chips - pushed the company’s stock up 24%. The company forecast revenue that was 50% higher than estimates, according to Reuters."
     publishedDateTime: 2023-05-26T15:29:00Z
@@ -83,6 +67,20 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "Microsoft’s President Backs New Agency to Regulate ChatGPT, Other AI Systems"
+    excerpt: "Sam Altman, CEO of ChatGPT creator OpenAI, touted the benefits of AI and acknowledged potential downsides of the technology during a Senate subcommittee hearing on Tuesday. Photo: Patrick Semansky/Associated Press WASHINGTON—Microsoft President Brad ..."
+    publishedDateTime: 2023-05-25T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/microsofts-president-backs-new-agency-to-regulate-chatgpt-other-ai-systems-c847bae0"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 81
+    images:
+      - url: "https://images.wsj.net/im-787791/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
     publishedDateTime: 2023-05-29T16:00:00Z
@@ -98,6 +96,20 @@ related:
       - url: "https://i.insider.com/64414647632fda001803ccf4?width=1200&format=jpeg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "A leaked Amazon generative AI sales playbook shows how the company is going after ChatGPT-maker OpenAI, Microsoft and Google"
+    excerpt: "The guidelines may help Amazon make a stronger push in generative AI, where Microsoft, OpenAI, Google and others have taken an early lead."
+    publishedDateTime: 2023-05-25T20:07:00Z
+    webUrl: "https://www.businessinsider.com/amazon-generative-ai-sales-playbook-going-after-openai-microsoft-google-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
+    images:
+      - url: "https://i.insider.com/5ef13e96aee6a8302d441d42?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
     excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
@@ -142,20 +154,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 67
-  - title: "From ChatGPT on Bing to Azure AI: 5 biggest announcements from Microsoft Build 2023"
-    excerpt: "Microsoft continues to make strides in AI with a slew of updates and launches announced at Build 2023. From ChatGPT on Bing to Azure AI: 5 biggest announcements from Microsoft Build 2023. Bing, chatGPT,"
-    publishedDateTime: 2023-05-25T06:21:00Z
-    webUrl: "https://www.itp.net/software/from-chatgpt-on-bing-to-azure-ai-5-biggest-announcements-from-microsoft-build-2023"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 63
-    images:
-      - url: "https://www.itp.net/cloud/2023/05/25/MS-Build-2023-Bing-to-ChatGPT.jpg"
-        width: 2000
-        height: 1334
-        isCached: true
   - title: "ChatGPT takes center stage as students ditch tutors in favor of AI-powered learning"
     excerpt: "The findings show many students and parents using ChatGPT, with some completely replacing their tutoring sessions with the AI tool."
     publishedDateTime: 2023-05-29T16:33:00Z
@@ -170,6 +168,70 @@ related:
         width: 1200
         height: 718
         isCached: true
+  - title: "JPMorgan’s plans for a ChatGPT-like investment service are just part of its larger AI ambitions"
+    excerpt: "JPMorgan Chase is developing a ChatGPT-like service to provide investment advice to customers, but it is a small part of its AI ambitions."
+    publishedDateTime: 2023-05-26T16:39:00Z
+    webUrl: "https://venturebeat.com/ai/jpmorgan-plans-for-a-chatgpt-like-investment-service-are-just-part-of-its-larger-ai-ambitions/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 59
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/jp-morgan-file-gty-ml-200908_1599583350520_hpMain_16x9_992.jpeg?w=1200&strip=all"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "ChatGPT-maker warns it might leave EU over planned AI law"
+    excerpt: "He also met Prime Minister Rishi Sunak and the heads of AI companies DeepMind and Anthropic to discuss the technology's risks - from disinformation to national security and even \""
+    publishedDateTime: 2023-05-25T13:11:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-65708114?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-65708114.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65708114.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/96F6/production/_129864683_gettyimages-1490689874.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "OpenAI boss downplays fears ChatGPT maker could leave Europe over AI rules"
+    excerpt: "OpenAI CEO Sam Altman is downplaying worries that the ChatGPT maker could exit the European Union if it can’t comply with the bloc’s strict new artificial intelligence rules"
+    publishedDateTime: 2023-05-26T14:55:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 55
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_1a249ab94593356940d8f56d15e8a019_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "ChatGPT: US lawyer admits using AI for case research"
+    excerpt: "A New York lawyer is facing a court hearing of his own after his firm used AI tool ChatGPT for legal research. A judge said the court was faced with an \"unprecedented circumstance\" after a filing was found to reference example legal cases that did not exist."
+    publishedDateTime: 2023-05-27T22:20:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-65735769"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 47
+  - title: "ChatGPT: Most Americans Know About It, But Few Actually Use the AI Chatbot"
+    excerpt: "Though 58% of Americans are familiar with ChatGPT, just 14% have actually tried it, a Pew Research Center survey finds."
+    publishedDateTime: 2023-05-27T14:10:00Z
+    webUrl: "https://www.pcmag.com/news/few-americans-have-actually-tried-chatgpt-despite-most-knowing-about-it"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 45
   - title: "Amazon's answer to ChatGPT seen as incomplete"
     excerpt: "Amazon.com Inc.'s cloud customers are clamoring to get their hands on the ChatGPT-style technology the company unveiled six weeks ago. But instead of being allowed to test it, many are being told to sit tight,"
     publishedDateTime: 2023-05-25T20:19:00Z
@@ -218,6 +280,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
+  - title: "South Korea’s Naver to target foreign governments with latest ChatGPT-like AI model"
+    excerpt: "South Korea’s Naver to target foreign governments with latest ChatGPT-like AI model on linkedin (opens in a new window)"
+    publishedDateTime: 2023-05-28T04:01:00Z
+    webUrl: "https://www.ft.com/content/8c9a2842-ff01-46aa-a82b-1b46342264f6?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 11
 
 secured: "j3p8T81HuyHdpyIqnhNU6J6Ua448P/aOq8k1m3a/dQZ6maG5P+jpH1AaXL5iYuVo35Lm5Swpn1YRnrhcuC/cGganXe47bXn8xlnvq8wW0BTaCxjB7mdumMno7r9mvFBjMhRd6x5I21xGGBtgirpF/P+VKpjG/h0x4SW6tpkXQ7qogGt/cvk9o6LHJAS5IqKhuLDjiLDKXGZkOZuDjt8b02Ad1MQOM6ASEkn6fLKTU+vmHN6WI21j0AOBs1cLGyiR9fqWeLuYipjkquCnMZPH8Dch/a638M4FHMGdW1v3bbo+NtZGLzvdna3PujsR1Go74E1R3x8j1Nj9eVWZXh0usLn/P25tqb91jHmxBEycuLA=;tqudL6pa3rTIkGBaucDc5g=="
 ---

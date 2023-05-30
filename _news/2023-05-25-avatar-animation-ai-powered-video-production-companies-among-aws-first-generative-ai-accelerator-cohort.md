@@ -146,20 +146,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Snowflake acquires search startup Neeva to leverage generative AI"
-    excerpt: "New Delhi, May 25 (IANS) Cloud data platform provider Snowflake has acquired search startup Neeva to accelerate search in the Data Cloud through generative AI. Neeva has created a unique and transformative search experience that leverages generative AI and ..."
-    publishedDateTime: 2023-05-25T05:47:00Z
-    webUrl: "https://glamsham.com/world/technology/snowflake-acquires-search-startup-neeva-to-leverage-generative-ai"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 37
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/05/635b94b7ecc224b4d4babeb2ba5a8d5a-3.jpg"
-        width: 647
-        height: 483
-        isCached: true
   - title: "A Computer Scientist Breaks Down Generative AI’s Hefty Carbon Footprint"
     excerpt: "And that’s just for getting the model ready to launch, before any consumers start using it. Larger models do use more energy during their deployment. There is limited data on the carbon footprint of a single generative AI query, but some industry figures ..."
     publishedDateTime: 2023-05-25T13:34:00Z

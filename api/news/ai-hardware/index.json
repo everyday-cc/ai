@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-30-soxq-etf-front-row-exposure-to-semiconductor-stocks-and-ai.md",
+      "title": "SOXQ ETF: Front-Row Exposure to Semiconductor Stocks and AI",
+      "excerpt": "On the other hand, I also wouldn’t want to not have exposure to these names, as AI is clearly here to stay and is just getting started on disrupting many industries. Thus, my strategy (not financial advice) with an ETF like this would be to start a ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/soxq-etf-front-row-exposure-to-semiconductor-stocks-and-ai-1032356835",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/soxq-etf-front-row-exposure-to-semiconductor-stocks-and-ai-1032356835",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/05/image-798-1024x548.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 1024,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-29T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-29-nvidia-ceo-highlights-chips-for-the-historic-wave-of-generative-ai-at-computex.md",
       "title": "Nvidia CEO highlights chips for the historic wave of generative AI at Computex",
       "excerpt": "Nvidia CEO Jensen Huang announced a variety of platforms that companies can use to ride a historic wave of generative AI.",
@@ -255,6 +308,59 @@
       ]
     },
     {
+      "path": "_news/2023-05-26-how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position.md",
+      "title": "How ChatGPT Is Reshaping The C-Suite, With New AI Leadership Position",
+      "excerpt": "A stunning forecast from the chipmaker - whose silicon solutions are powering the future with artificial intelligence (AI) chips - pushed the company’s stock up 24%. The company forecast revenue that was 50% higher than estimates, according to Reuters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/",
+      "originalUrl": "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 291,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6470b943b202b5301a9d86b2/0x0.jpg?format=jpg&crop=3250,1523,x0,y6,safe&width=1200",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/amp/",
+      "publishedDateTime": "2023-05-26T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-26-marvell-technology-shares-pop-14-on-ai-lifts-chip-makers.md",
       "title": "Marvell Technology Shares Pop 14% on AI Lifts Chip Makers",
       "excerpt": "\"While we are still in the early stages of our AI ramp, we are forecasting our AI revenue in fiscal ... Shares of Nvidia rocketed Thursday as the graphics-chip maker said the rise of language-generating tools such as OpenAI's ChatGPT and other artificial ...",
@@ -420,7 +526,7 @@
       "originalUrl": "https://us.cnn.com/2023/05/25/tech/nvidia-earnings-ai/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 714,
+      "heat": 734,
       "tags": null,
       "images": [
         {
@@ -1381,92 +1487,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-vultr-and-domino-data-lab-partner-to-reduce-ai-time-to-value-amid-surging-gpu-demand.md",
-      "title": "Vultr and Domino Data Lab Partner to Reduce AI Time-to-Value Amid Surging GPU Demand",
-      "excerpt": "\"Customers seeking AI-driven competitive advantage must grapple with staggering GPU demand and cost pressures,\" said Nick Elprin, CEO and co-founder at Domino Data Lab. \"Our integration with Vultr ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230518005226/en/Vultr-and-Domino-Data-Lab-Partner-to-Reduce-AI-Time-to-Value-Amid-Surging-GPU-Demand/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230518005226/en/Vultr-and-Domino-Data-Lab-Partner-to-Reduce-AI-Time-to-Value-Amid-Surging-GPU-Demand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsroom.businesswire.com",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-chatgpt-outperforms-money-managers-as-americans-flock-to-ai-for-investing-advice.md",
-      "title": "ChatGPT outperforms money managers, as Americans flock to AI for investing advice",
-      "excerpt": "Considering AI's existing ability to best the most blue-chip of money managers out there, the days of paying mutual funds management fees for middling returns, at least in the current structure, may be winding to a close. All of this sounds like investing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/chatgpt-is-trouncing-money-managers-and-is-destined-to-turn-the-investing-world-upside-down/",
-      "originalUrl": "https://www.zdnet.com/article/chatgpt-is-trouncing-money-managers-and-is-destined-to-turn-the-investing-world-upside-down/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/27a45630c4d84e49412c328fdfea7c6343d52b9b/2023/05/17/88b1d561-a90d-4972-a16e-17274145535e/gettyimages-1472335476.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chatgpt-is-trouncing-money-managers-and-is-destined-to-turn-the-investing-world-upside-down/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-is-trouncing-money-managers-and-is-destined-to-turn-the-investing-world-upside-down/",
-      "publishedDateTime": "2023-05-18T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

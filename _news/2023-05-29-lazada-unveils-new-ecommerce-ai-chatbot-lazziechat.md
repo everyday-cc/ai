@@ -7,7 +7,7 @@ originalUrl: "https://www.marketing-interactive.com/lazada-unveils-new-ecommerce
 webUrl: "https://www.marketing-interactive.com/lazada-unveils-new-ecommerce-ai-chatbot-lazziechat"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,29 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT: Most Americans Know About It, But Few Actually Use the AI Chatbot"
-    excerpt: "Though 58% of Americans are familiar with ChatGPT, just 14% have actually tried it, a Pew Research Center survey finds."
-    publishedDateTime: 2023-05-27T14:10:00Z
-    webUrl: "https://www.pcmag.com/news/few-americans-have-actually-tried-chatgpt-despite-most-knowing-about-it"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 45
-  - title: "Twitch Star Amouranth Wants Her AI Chatbot To Put Trolls In Their Place"
-    excerpt: "A successful businesswoman (who now reportedly owns a gas station) and OnlyFans creator, Amouranth can now add “tech tycoon who’s excited about AI’s future” to her resume. Kotaku caught up with Amouranth—who ensured us she wasn’t her AI counterpart—to discuss AI Amouranth,"
-    publishedDateTime: 2023-05-26T21:30:00Z
-    webUrl: "https://kotaku.com/twitch-streamer-amouranth-ai-chatbot-forever-companion-1850481108"
-    type: article
-    provider:
-      name: Kotaku
-      domain: kotaku.com
-    quality: 37
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c6e0b3c6e810a144a98d73d66654de7e.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Talk to the bot? An AI chatbot may be your next therapist"
     excerpt: "Pandemic stresses led to millions more Americans seeking mental health treatment, so it may prove tempting for insurers to offer up apps and chatbots to meet the mental health parity requirement."
     publishedDateTime: 2023-05-29T15:39:00Z

@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-04-19-scbx-forges-new-collaboration-with-stanford-hai-to-drive-innovation-in-ai-and-fintech.md",
-      "title": "SCBX forges new collaboration with Stanford HAI to drive innovation in AI and fintech",
-      "excerpt": "With the aim of becoming the leading regional financial technology group, SCBX is firmly committed to staying at the forefront of the latest developments in AI and fintech with the ultimate goal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bangkokpost.com/thailand/pr/2551739/scbx-forges-new-collaboration-with-stanford-hai-to-drive-innovation-in-ai-and-fintech",
-      "originalUrl": "https://www.bangkokpost.com/thailand/pr/2551739/scbx-forges-new-collaboration-with-stanford-hai-to-drive-innovation-in-ai-and-fintech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.bangkokpost.com/media/content/20230418/c1_2551739_700.jpg",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-18T16:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bangkok Post",
-        "domain": "bangkokpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-04-18-singapore-headquartered-finbotsai-secures-first-client-in-australia.md",
       "title": "Singapore-headquartered finbots.ai secures first client in Australia",
       "excerpt": "Accel-backed finbots.ai, a Singapore headquartered B2B SaaS FinTech today announced signing Argenic - a growth stage Australian FinTech providing a suite of financial solutions for SMEs - as their latest client.",

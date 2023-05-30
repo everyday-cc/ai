@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "OpenAI boss downplays fears ChatGPT maker could leave Europe over AI rules"
-    excerpt: "OpenAI CEO Sam Altman is downplaying worries that the ChatGPT maker could exit the European Union if it can’t comply with the bloc’s strict new artificial intelligence rules"
-    publishedDateTime: 2023-05-26T14:55:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 55
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_1a249ab94593356940d8f56d15e8a019_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "A startup backed by OpenAI uses AI-powered robots in the real world"
     excerpt: "USA: The rise of ChatGPT and companies like it have shown that no white-collar job is safe. But if you believe that blue-collar jobs ar..|News Track"
     publishedDateTime: 2023-05-25T10:27:00Z
@@ -49,24 +33,38 @@ related:
       name: News Track
       domain: newstracklive.com
     quality: 54
-  - title: "EU takes on artificial intelligence: Will Europe's regulations act scare off OpenAI?"
-    excerpt: "But with fears of fake news, video manipulation, robots taking control and our world being driven to an automatic version of Hell, there is much to discuss."
-    publishedDateTime: 2023-05-25T18:52:00Z
-    webUrl: "https://www.france24.com/en/tv-shows/the-debate/20230525-eu-takes-on-artificial-intelligence-will-europe-s-regulations-act-scare-off-openai"
+  - title: "OpenAI raises $175m in funding to invest in AI start-ups"
+    excerpt: "According to a filing made by CEO Sam Altman, the latest OpenAI fund is 75pc higher than the company had initially raised during launch."
+    publishedDateTime: 2023-05-25T09:23:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/openai-startup-fund-raise-ai-sam-altman-sec-filing"
     type: article
     provider:
-      name: France 24
-      domain: france24.com
-    quality: 27
-  - title: "U.S., China and Europe begin push to regulate AI"
-    excerpt: "Regulations could have a significant impact on the research and implementation of products and technology in the security industry in the coming years."
-    publishedDateTime: 2023-05-26T19:41:00Z
-    webUrl: "https://www.securityinfowatch.com/cybersecurity/article/53061798/us-china-and-europe-begin-push-to-regulate-ai"
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/05/a-14.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "OpenAI nearly doubles size of its startup investment fund"
+    excerpt: "Here's how big OpenAI's fund now is, what they've backed so far and who they added as a limited partner (it’s not just Microsoft)."
+    publishedDateTime: 2023-05-25T21:24:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/05/25/openai-startup-fund-nearly-doubles.html"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 19
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
+  - title: "Sam Altman says OpenAI could leave EU over proposed AI law"
+    excerpt: "OpenAI LP Chief Executive Sam Altman says a proposed artificial intelligence law in the European Union could lead the startup to shutter its regional operations. The Financial Times reported Altman’s remarks today."
+    publishedDateTime: 2023-05-25T19:36:00Z
+    webUrl: "https://siliconangle.com/2023/05/25/sam-altman-says-openai-leave-eu-proposed-ai-law/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
 
 secured: "h4XV9kWS57XF5WnZHgW1RTH/BDnm9qe59haAOnyGB0wGaoMoJswj3iUIDWLczHT22hPU7KPmjkQvtdpuJMTzqb5EWRLizi2MCzfciYdnLcx0AmbqPAkJeW1W4IKSPBYyI26gTkD3eSazB2f+a0JcY68jWy/pyHhIhKgtKCh9v85eIN2CYpbxAk+yjnSlI1Nw4kGn9hj2rIZdK51XBudCdRTADDczcruaxAPwnI4ezTLF6lZM/4CFqMSKx7t90s38QBlMicUZ1MvHYPOYIiqniqw9CwRAKKvwm489CUigx4w5ihjS76iR9yEF8cx/DwDWch23mAiqkumocMAueDoGtfeETRcNPzkJanB+IqUGbSKRY8dmMf9aD64iRWmZhSQ5f9bocmm6CRnZd0fnZFNaSWQk5TANyM7sNQCMlO5f7ANHq5DFNt3MWOxSeL9QMkyR6z1TpvUWgLhpLUVHlArsOZ/Q/VjudlH81oaUDfyQgz6eGe4lwrarO7VEF97MFrDfZnIfA5oOQiTLAS+CCWWSow==;PKUN/ADuJjEo2WSZF0ddtA=="
 ---

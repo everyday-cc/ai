@@ -47,34 +47,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Microsoft’s President Backs New Agency to Regulate ChatGPT, Other AI Systems"
-    excerpt: "Sam Altman, CEO of ChatGPT creator OpenAI, touted the benefits of AI and acknowledged potential downsides of the technology during a Senate subcommittee hearing on Tuesday. Photo: Patrick Semansky/Associated Press WASHINGTON—Microsoft President Brad ..."
-    publishedDateTime: 2023-05-25T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/microsofts-president-backs-new-agency-to-regulate-chatgpt-other-ai-systems-c847bae0"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 81
-    images:
-      - url: "https://images.wsj.net/im-787791/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "A leaked Amazon generative AI sales playbook shows how the company is going after ChatGPT-maker OpenAI, Microsoft and Google"
-    excerpt: "The guidelines may help Amazon make a stronger push in generative AI, where Microsoft, OpenAI, Google and others have taken an early lead."
-    publishedDateTime: 2023-05-25T20:07:00Z
-    webUrl: "https://www.businessinsider.com/amazon-generative-ai-sales-playbook-going-after-openai-microsoft-google-2023-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
-    images:
-      - url: "https://i.insider.com/5ef13e96aee6a8302d441d42?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Microsoft-powered AI chatbot ‘Jugalbandi’ is here. All you need to know"
     excerpt: "The made in India Artificial intelligence chatbot currently understands 10 of the 22 official Indian languages and covers 171 government programs."
     publishedDateTime: 2023-05-26T15:00:00Z
@@ -307,20 +279,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 26
-  - title: "NVIDIA makes move in the industrial world by partnering with Microsoft and Dell Technologies for easier Generative AI accessibility"
-    excerpt: "One of the biggest driving forces behind Generative AI technology is none other than accelerated computing giant NVIDIA. In its latest announcement, Team Green has shaken hands with Microsoft and Dell Technologies to leverage access to a wider audience."
-    publishedDateTime: 2023-05-25T06:32:00Z
-    webUrl: "https://www.tech-critter.com/nvidia-generative-ai-with-microsoft-dell-technologies/"
-    type: article
-    provider:
-      name: tech-critter.com
-      domain: tech-critter.com
-    quality: 24
-    images:
-      - url: "https://secure.gravatar.com/avatar/a0ed3175f99016ebcbdaabb913231517?s=300&d=mm&r=g"
-        width: 300
-        height: 300
-        isCached: true
   - title: "This week in AI: Satya Nadella says Microsoft is moving to co-pilot era for AI, India's AI programme to submit framework soon and more"
     excerpt: "Humans are in the loop with AI, and it is here to help humans make their job easy, said Satya Nadella, Chairman and Chief Executive Officer of Microsoft, in an exclusive conversation with CNBC-TV18 while talking about the impact of AI on jobs education, its threat, the future, and more."
     publishedDateTime: 2023-05-28T13:05:00Z

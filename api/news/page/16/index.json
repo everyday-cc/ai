@@ -2,6 +2,109 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-05-16-webex-meetings-will-use-ai-tools-to-help-speech-impaired-users-communicate.md",
+      "title": "Webex meetings will use AI tools to help speech-impaired users communicate",
+      "excerpt": "Speech recognition company Voiceitt has announced it's integrating its technology into Webex Meetings. Building on Webex's existing live translations, Voiceitt's AI establishes and transcribes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/webex-meetings-will-use-ai-tools-to-help-speech-impaired-users-communicate-120047102.html",
+      "originalUrl": "https://www.engadget.com/webex-meetings-will-use-ai-tools-to-help-speech-impaired-users-communicate-120047102.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/jHsrxabp8l3n7x78cT7SjA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/61b5a7c0-ef15-11ed-bfff-f6659136f7be.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-cheat-sheets-for-ai-information-overload.md",
+      "title": "Cheat Sheets For AI Information Overload",
+      "excerpt": "There is now a firehose stream of AI-related information published each day, and it is getting harder to keep up with what's happening in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/",
+      "originalUrl": "https://www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646272cf4f56e282d1dd3ffb/0x0.jpg?format=jpg&width=1200",
+          "width": 887,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/05/16/cheat-sheets-for-ai-information-overload/amp/",
+      "publishedDateTime": "2023-05-16T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-intelligence-broad-development-space-sustainable-development-driver.md",
       "title": "Intelligence: Broad Development Space Sustainable Development Driver",
       "excerpt": "The 7th World Intelligence Summit will be held from May 18 to 21 at the National Convention and Exhibition Center (Thenchin). The theme of the conference | The Eastern Herald",
@@ -1093,110 +1196,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-2023-face-recognition-systems-market-global-industry-analysis-till-2030.md",
-      "title": "2023, Face Recognition Systems Market | Global Industry Analysis Till 2030",
-      "excerpt": "Face Recognition Systems Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information |",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-face-recognition-systems-market-global-industry-analysis-till-2030-2023-05-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-face-recognition-systems-market-global-industry-analysis-till-2030-2023-05-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T23:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-future-of-learning-online-innovation-for-a-career-in-tech.md",
-      "title": "Future Of Learning - Online Innovation For A Career In Tech",
-      "excerpt": "Has Computer Science replaced Business as the ‘it’ school on campus? Both provide degrees offering great careerss, competitive salaries and transferable skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mattsymonds/2023/05/16/future-of-learningonline-innovation-for-a-career-in-tech/",
-      "originalUrl": "https://www.forbes.com/sites/mattsymonds/2023/05/16/future-of-learningonline-innovation-for-a-career-in-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6462a8bc2bb080df5bc2ff1a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mattsymonds/2023/05/16/future-of-learningonline-innovation-for-a-career-in-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattsymonds/2023/05/16/future-of-learningonline-innovation-for-a-career-in-tech/amp/",
-      "publishedDateTime": "2023-05-15T22:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

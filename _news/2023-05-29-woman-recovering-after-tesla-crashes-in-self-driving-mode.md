@@ -9,7 +9,7 @@ ampWebUrl: "https://wwmt.com/amp/news/state/woman-recovering-after-tesla-crashes
 cdnAmpWebUrl: "https://wwmt-com.cdn.ampproject.org/c/s/wwmt.com/amp/news/state/woman-recovering-after-tesla-crashes-in-self-driving-mode"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Woman sent to hospital after self-driving Tesla crashes into tree"
+    excerpt: "A woman hit a tree after law enforcement said she put her Tesla in self-driving mode. The crash happened Sunday night in Mecosta County's Colfax Township on McKinley Road near 135th Avenue. According to the Mecosta County Sheriff's Office,"
+    publishedDateTime: 2023-05-29T22:26:00Z
+    webUrl: "https://wset.com/news/nation-world/woman-sent-to-hospital-after-self-driving-tesla-crashes-into-tree-mecosta-county-michigan-automated"
+    type: article
+    provider:
+      name: WSET
+      domain: wset.com
+    quality: 39
+    images:
+      - url: "https://wset.com/resources/media/4b221edb-c40e-42a3-bf2f-601a147ee531-large16x9_AP23097481304567.jpg?1682101698739"
+        width: 986
+        height: 555
+        isCached: true
   - title: "Tesla’s semi-autonomous Full Self-Driving software a step closer to Australia"
     excerpt: "Sleuths have discovered two Teslas in Australia with software that includes its Full Self-Driving software. Is a full rollout on the way?"
     publishedDateTime: 2023-05-26T05:28:00Z

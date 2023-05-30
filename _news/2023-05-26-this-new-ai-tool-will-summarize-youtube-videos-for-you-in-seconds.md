@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-ai-tool-will-summa
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,17 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Flamingo: Google DeepMind's AI enhances YouTube shorts with dynamic video descriptions"
-    excerpt: "Boost discoverability and engagement on YouTube Shorts with Google DeepMind's Flamingo. This visual language model generates dynamic video descriptions for enhanced search results."
-    publishedDateTime: 2023-05-25T06:07:00Z
-    webUrl: "https://odishatv.in/news/technology/flamingo-google-deepmind-s-ai-enhances-youtube-shorts-with-dynamic-video-descriptions-205172"
-    ampWebUrl: "https://odishatv.in/news/technology/flamingo-google-deepmind-s-ai-enhances-youtube-shorts-with-dynamic-video-descriptions-205172/amp"
-    cdnAmpWebUrl: "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/technology/flamingo-google-deepmind-s-ai-enhances-youtube-shorts-with-dynamic-video-descriptions-205172/amp"
-    type: article
-    provider:
-      name: Odisha TV
-      domain: odishatv.in
-    quality: 46
 
 secured: "XypGk9nADbHVNuTC0nDdZ6mop0CP12UimFVDpGLUrdRvcY9j53u2mQxwRyv5hSEqlUeMtS9+ZR+muW0/MvX3XuFRwjozllDbxyp8E88a1/edqPmoT/Pwhp+oPR2STeletit3Y5FIuz6BLPU6TxSGrjr43edMZD2Le0m721BKiBP8ClWEuWt04B8xyFAfHgGhTdZhAaJMfOFcs/4k84DNLR6Sitpg5YFMT5YrbMHZ0y0ERUTVP/0GRNNwpoIZZmP670fneCGmRwtfWK6kJxkJTAXNUtWs1qWH5cG9vfRqqDU4dGOYBS/bIaVi2074YY706KHKFI9luIihbZA99aI6vUKtnOZoitrRzQD4liz4tfRVuOoCS/pl6s7STEoSetu+1SgMeaVXrMhMYvCxFZAYXjBRwlrGMNA/OAf8rDoIXoqxm2nbjE2VPJbly7GdIS/fzYpVzAY4enwfRFyb63ECSdUkPR0dK0syVLgdBni2VO7NvJT8XvuTL6D52+xPot7slRJcq5uU2MM+/pyIqWEkkQ==;n6Q0+zjVzvNXOXzMDxH+3w=="
 ---

@@ -2,27 +2,27 @@
 category: news
 title: "White House unveils new efforts to guide federal research of AI"
 excerpt: "WASHINGTON (AP) — The White House on Tuesday announced new efforts to guide federally backed research on artificial intelligence as the Biden administration looks to get a firmer grip on ..."
-publishedDateTime: 2023-05-23T19:01:00Z
-originalUrl: "https://www.wsaw.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/"
-webUrl: "https://www.wsaw.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/"
-ampWebUrl: "https://www.wsaw.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/?outputType=amp"
-cdnAmpWebUrl: "https://www-wsaw-com.cdn.ampproject.org/c/s/www.wsaw.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/?outputType=amp"
+publishedDateTime: 2023-05-23T18:54:00Z
+originalUrl: "https://www.kmov.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/"
+webUrl: "https://www.kmov.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/"
+ampWebUrl: "https://www.kmov.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/?outputType=amp"
+cdnAmpWebUrl: "https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/2023/05/23/white-house-unveils-new-efforts-guide-federal-research-ai/?outputType=amp"
 type: article
 
 provider:
-  name: WSAW
-  domain: wsaw.com
+  name: KMOV
+  domain: kmov.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://gray-wsaw-prod.cdn.arcpublishing.com/resizer/V94eJesdeoqG8s4xf_8cbHXoKpE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/DFO3VORI3BASLEQ4OP3K5J2S2U.jpg"
+  - url: "https://gray-kmov-prod.cdn.arcpublishing.com/resizer/K6u67TUbSLyTxZxcsKDw135rhTQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/WCVXCFFXRJHWZLIIJA6GDIQSQQ.jpg"
     width: 800
     height: 450
     isCached: true
 
-secured: "QZFazNBVYnWbytcR4zd/dgv/tXY6tiTqqWdRotaJWhdDCzXC7Y+pTw7/OP+bnyJEMfNYcHNQi4E4YReLj69U6fU+vLkvEksLU2IO3icTUFT5QNW/NVoq54K1zgYbXOrHFSKXbmmLt6An97AzBS6hiBKLlJDo1goSzgIcYFUutTzyiYTQkowqcWUHUKaGr/3C8QgqizXAAwgOIxpUjRaP1+fx+pqeudGnQvYoCDXjHG0WPZVxnHSLviiK2UIhrLC7yHBJWhhsyUsVhjpyDAtX8aSTeITAU325qUSgh1pkfoyDQcqC4Iz+1Ze1ZPlL3Vi1ODoxq/HV3dGZRH+TXawWnefKkr4Qo54nEWddpiStYYg=;uwe38wHtDes25zvlTUEaLw=="
+secured: "cNmVmUULOWD44S+zEwL7Jzfdf0xqs0SJK75/gZ5Cl0z/ojsY08SWje1xkH1YuFHvcdYweqMwHAvPYNCgWRcS4mPwvm+MzdX/ugqcRNO+xUg7083JYjVczZgrP57K8xysojk62aZSKhO1m3fJciuLKKtSqFe89h3JXfettVnqFBm7DUFz3zTYjOTpBArAjy0OLMcbGIGLWuR0diYYPOnMCxzrpFJA7WZaDWLzpns4+uJjU84SJ+I1Sb6ftjjuu8WZqElN2ieHAWaKYW5saRxZ4+vl+iak8itl+hnnYUyrLu869UfRJ5H8je7l1hzhSBfYEP9SgojPdm927Z+a519f7MmyXh1kIufUKl6rAnkpV8A=;tZ9EalFyanag86106WjJTA=="
 ---
 

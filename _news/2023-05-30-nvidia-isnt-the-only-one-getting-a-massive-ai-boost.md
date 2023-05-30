@@ -165,6 +165,20 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "MediaTek Adopts Nvidia Tech for Automotive AI and Chips"
+    excerpt: "The Taiwanese chipmaker, a rival to Qualcomm Inc. in equipping smartphones with silicon, announced it will integrate new Nvidia graphics hardware and AI technologies in its forthcoming cabin solutions. San Diego-based Qualcomm, along with Nvidia ..."
+    publishedDateTime: 2023-05-29T23:37:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-29/mediatek-adopts-nvidia-tech-for-automotive-ai-and-chips"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igA.RuE918aI/v1/1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nvidia Stock Soars on AI Chip Demand, Nears $1 Trillion Market Cap (NVDA)"
     excerpt: "Its outlook managed to bolster other chip companies, the broader stock market — and maybe the US dollar, too. Don’t forget the much tinier, $55 billion chip company Marvell Technology Inc. It enjoyed a 32% bump after projecting an AI-fueled doubling in sales. Rival Intel Corp. was decidedly not a winner."
     publishedDateTime: 2023-05-27T11:00:00Z
@@ -688,6 +702,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Nvidia is not the only firm cashing in on the AI gold rush"
+    excerpt: "A GREY RECTANGULAR building on the outskirts of San Jose houses rows upon rows of blinking machines. Tangles of colourful wires connect high-end servers, networking gear and data-storage systems. Bulky air-conditioning units whirr overhead. The noise forces visitors to shout."
+    publishedDateTime: 2023-05-29T19:34:00Z
+    webUrl: "https://www.economist.com/business/2023/05/29/nvidia-is-not-the-only-firm-cashing-in-on-the-ai-gold-rush"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230603_WBD001.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Nvidia to build Israel's most potent AI supercomputer"
     excerpt: "Nvidia is investing hundreds of millions in building Israel's strongest AI supercomputer, Israel-1, promising breakthroughs in AI applications."
     publishedDateTime: 2023-05-29T17:36:00Z
@@ -835,6 +863,6 @@ related:
       domain: channelnewsasia.com
     quality: 17
 
-secured: "YgIXAUMOytbU/F6PKQJbFmsYJs+0s2DiKhQxuVzBjPaGwRwirAkODu5n90TfBc8qDKIMaBj/1h7Xd5dx+rL3nS2Oj9PkRxC6KPYrWRJaIGH1ySiVsfTtlGudQhp5UGyiEGVwvP0FPXkBrlXRRTQ46+XCBloffq7xcvAviDEFviwoe7CaybMS3sBmr/2QKYMJMjKspb7HjZa0BoGVMOR4yocnkbwnZT6bU9/qy0r/P38nnH+ODqNGbYDAjY44+hOGMrXTpMifHlZa7wwocGcLfd0uUXbeOmqKcSoW114vuoo+2bb6LjX9aHsJ0Mc7iHYLMAmbI8Sm/czSf03xxZOarMa9BZCEIQBYZuigXyMAgUU=;nOHea8McDrXMOmeTGuQbFw=="
+secured: "8rkjp+j4kuoF0HuWOTJ5CI3ivQjpkUjmJHCY8CEQkUJpIaC+ONHJktBozrRzuXfpOj0OXdNV1E4ShUdKfOq+siVwV0XFqQKgYll4Ils2FyN+QgtTjQPGBPY2o4GaSaP4Ph7sZdjYvvQmAewQOvUkrz//6KVRAW6f77pMhghE22GkcCyuRKN8NWhzxAHt6MP+srgRB/eRqROSnjsRM3qi/v8hL0pbpy1HSnLWVj9L+rVcK9/m14+IGsYKoKYxhcfcNNpT3DrXFeNTu8oljl0orHRUxdvgfATPHX4WQFtlKoBPgSsYn/428YvDd2uNGFrYGV1x7J3ElX/L+rlckb6TUQf13TZokY1lKs/ds3EDCqkvW1rk3sWItTDaUexqVka3K/qQR/yqNN/AuJCkvqaPBwbxiHYGL1OM48LJrW/6Lh7bXk3doJ85Ig51hlzyzFRaD730MI/su8JmHZ5L8818GGbYsPwZfrbkIYM6KQ2DOXGmbb7351E0YnPjPXpqu87btqmfweNYWjpwuH2JWwQY9w==;yW3XYJseVVJmhlMSz/lzyw=="
 ---
 

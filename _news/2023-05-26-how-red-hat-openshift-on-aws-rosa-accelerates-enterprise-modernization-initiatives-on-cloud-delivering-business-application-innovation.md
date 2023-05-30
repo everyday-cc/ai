@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-red-hat-openshift-on-aws-rosa-acceler
 webUrl: "https://www.ibm.com/blog/how-red-hat-openshift-on-aws-rosa-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hyperautomation platform Zvolv to integrate AI orchestration to leverage generative AI in new age enterprise applications"
-    excerpt: "Hyperautomation platform Zvolv to integrate AI orchestration to leverage generative AI in new age enterprise applications - Zvolv, a leading global enterprise hyperautomation company today announced new generative AI capabilities"
-    publishedDateTime: 2023-05-25T05:31:00Z
-    webUrl: "https://www.siliconindia.com/news/general/hyperautomation-platform-zvolv-to-integrate-ai-orchestration-to-leverage-generative-ai-in-new-age-enterprise-applications-nid-223190-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 14
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/b7z51cen.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "Artificial intelligence innovation: Leading companies in speed profile estimation for the automotive industry"
     excerpt: "According to GlobalData’s Technology Foresights, which plots the S-curve for the automotive industry using innovation intensity models built on over 619,000 patents, there are 290+ innovation areas that will shape the future of the industry."
     publishedDateTime: 2023-05-29T12:24:00Z

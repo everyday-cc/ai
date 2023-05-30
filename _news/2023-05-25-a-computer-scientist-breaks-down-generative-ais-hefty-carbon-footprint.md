@@ -145,20 +145,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Snowflake acquires search startup Neeva to leverage generative AI"
-    excerpt: "New Delhi, May 25 (IANS) Cloud data platform provider Snowflake has acquired search startup Neeva to accelerate search in the Data Cloud through generative AI. Neeva has created a unique and transformative search experience that leverages generative AI and ..."
-    publishedDateTime: 2023-05-25T05:47:00Z
-    webUrl: "https://glamsham.com/world/technology/snowflake-acquires-search-startup-neeva-to-leverage-generative-ai"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 37
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/05/635b94b7ecc224b4d4babeb2ba5a8d5a-3.jpg"
-        width: 647
-        height: 483
-        isCached: true
   - title: "Avatar animation, AI-powered video production companies among AWS’ first generative AI accelerator cohort"
     excerpt: "Companies that employ generative artificial intelligence to create clips for social media ... more than 1,200 applications for the 10 spaces in the programme, prompting AWS to expand it to 21. The company will provide the cohort with the resources ..."
     publishedDateTime: 2023-05-25T07:21:00Z

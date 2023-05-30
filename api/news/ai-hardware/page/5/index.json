@@ -2,6 +2,75 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-04-19-salience-labs-appoints-former-imagination-technologies-cpo-to-lead-productization-of-multi-chip-photonics-processor-for-ai.md",
+      "title": "Salience Labs appoints former Imagination Technologies CPO to lead productization of multi-chip photonics processor for AI",
+      "excerpt": "At Imagination Technologies, Chris delivered the annual 5-year strategy and business plan and the roadmap of GPU, AI and CPU products licensed to mobile, consumer, data centre and automotive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20230419005519/salience-labs-appoints-former-imagination-technologies-cpo-to-lead-productization-of-multi-chip-photonics-processor-for-ai",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20230419005519/salience-labs-appoints-former-imagination-technologies-cpo-to-lead-productization-of-multi-chip-photonics-processor-for-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-19T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-19-microsoft-could-be-secretly-working-on-own-ai-chip-heres-everything-you-need-to-know.md",
+      "title": "Microsoft could be secretly working on own AI chip, here's everything you need to know",
+      "excerpt": "Microsoft is reportedly working on its in-house custom AI processors to minimise its dependency on other chip makers. To those unaware, Microsoft invested $1 billion in OpenAI, the company behind ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.co.uk/microsoft-could-secretly-working-its-own-ai-chip-heres-everything-you-need-know-1715235",
+      "originalUrl": "https://www.ibtimes.co.uk/microsoft-could-secretly-working-its-own-ai-chip-heres-everything-you-need-know-1715235",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-18T23:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBTimes UK",
+        "domain": "ibtimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-19-microsoft-is-bringing-the-power-of-ai-home-with-its-own-chip.md",
       "title": "Microsoft is bringing the power of AI home with its own chip",
       "excerpt": "According to Reuters, Microsoft is developing its own AI chip with the “Athena” codename. It will power the tech behind AI chatbots like ChatGPT, Reuters cites The Information’s report that ...",
@@ -1305,101 +1374,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-04-08-qualcomm-nvidia-spar-for-top-spot-in-ai-chip-efficiency-tests.md",
-      "title": "Qualcomm, Nvidia spar for top spot in AI chip efficiency tests",
-      "excerpt": "Analysts believe that the market for data center inference chips will grow quickly as businesses put AI technologies into their products, but companies such as Alphabet Inc's (GOOGL.O) Google are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/qualcomm-nvidia-spar-top-spot-ai-chip-efficiency-tests-2023-04-05/",
-      "originalUrl": "https://www.reuters.com/technology/qualcomm-nvidia-spar-top-spot-ai-chip-efficiency-tests-2023-04-05/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/nw8NV9fGtMpdO-apNxB9b8XrnMo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YFEMUBDHVROMXP4EK3GFP7CKPQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-07T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-07-webgpu-is-coming-to-supercharge-chrome-for-3d-gaming-and-3x-faster-ai-performance.md",
-      "title": "WebGPU Is Coming To Supercharge Chrome For 3D Gaming And 3X Faster AI Performance",
-      "excerpt": "Google is currently testing a Chrome browser API that promises to open up 'a new dawn for web graphics' as well as give AI a serious kick in the pants.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/webgpu-supercharge-chrome-3d-gaming-3x-faster-ai",
-      "originalUrl": "https://hothardware.com/news/webgpu-supercharge-chrome-3d-gaming-3x-faster-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/61345/content/Chrome_Logos_Hero.jpg",
-          "width": 708,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/webgpu-supercharge-chrome-3d-gaming-3x-faster-ai",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/webgpu-supercharge-chrome-3d-gaming-3x-faster-ai",
-      "publishedDateTime": "2023-04-07T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

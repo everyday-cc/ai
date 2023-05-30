@@ -29,33 +29,69 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Calls for a New US Agency and Licensing for AI"
-    excerpt: "Microsoft Corp. is calling for a new US agency to regulate artificial intelligence and licensing requirements to operate the most powerful AI tools, company President Brad Smith said Thursday."
-    publishedDateTime: 2023-05-25T13:35:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-25/microsoft-calls-for-new-us-agency-and-licensing-for-ai-tools"
+  - title: "How ChatGPT Is Reshaping The C-Suite, With New AI Leadership Position"
+    excerpt: "A stunning forecast from the chipmaker - whose silicon solutions are powering the future with artificial intelligence (AI) chips - pushed the company’s stock up 24%. The company forecast revenue that was 50% higher than estimates, according to Reuters."
+    publishedDateTime: 2023-05-26T15:29:00Z
+    webUrl: "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/"
+    ampWebUrl: "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/amp/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUbotLOGsgFM/v1/1200x800.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6470b943b202b5301a9d86b2/0x0.jpg?format=jpg&crop=3250,1523,x0,y6,safe&width=1200"
         width: 1200
+        height: 562
+        isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "Here's a guide to help understand Open AI's viral text-generating system. We outline the most recent ChatGPT updates and answer the most common FAQs."
+    publishedDateTime: 2023-05-25T14:50:00Z
+    webUrl: "https://techcrunch.com/2023/05/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/05/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/24/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "5 Artificial Intelligence Use Cases More Promising Than ChatGPT"
+    excerpt: "Spending on AI-centric systems will exceed a staggering $300 billion by 2026. Here are five use cases more promising than ChatGPT you may not be aware of."
+    publishedDateTime: 2023-05-25T16:20:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2023/05/25/5-artificial-intelligence-use-cases-more-promising-than-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/sap/2023/05/25/5-artificial-intelligence-use-cases-more-promising-than-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/05/25/5-artificial-intelligence-use-cases-more-promising-than-chatgpt/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646f891710231fc65d161774/0x0.jpg?format=jpg&width=1200"
+        width: 800
         height: 800
         isCached: true
-  - title: "Microsoft: We Need a New Government Agency to Regulate AI"
-    excerpt: "The company also calls for governments to implement a licensing system to ensure companies deploy 'highly capable AI' models responsibly."
-    publishedDateTime: 2023-05-25T19:47:00Z
-    webUrl: "https://www.pcmag.com/news/microsoft-we-need-a-new-government-agency-to-regulate-ai"
+  - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
+    publishedDateTime: 2023-05-29T16:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-how-to-prepare-hype-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-how-to-prepare-hype-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-in-payments-how-to-prepare-hype-2023-may?amp"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
     images:
-      - url: "https://i.pcmag.com/imagery/articles/02aNS4J1EimGiO8IyBqQRzr-1.fit_lim.size_1200x630.v1685039521.jpg"
-        width: 1120
-        height: 630
+      - url: "https://i.insider.com/64414647632fda001803ccf4?width=1200&format=jpeg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "A leaked Amazon generative AI sales playbook shows how the company is going after ChatGPT-maker OpenAI, Microsoft and Google"
     excerpt: "The guidelines may help Amazon make a stronger push in generative AI, where Microsoft, OpenAI, Google and others have taken an early lead."
@@ -71,270 +107,193 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft-powered AI chatbot ‘Jugalbandi’ is here. All you need to know"
-    excerpt: "The made in India Artificial intelligence chatbot currently understands 10 of the 22 official Indian languages and covers 171 government programs."
-    publishedDateTime: 2023-05-26T15:00:00Z
-    webUrl: "https://www.hindustantimes.com/technology/jugalbandi-microsoft-ai-chatbot-features-open-source-language-technology-news-ai4bharat-project-101685111840575.html"
-    ampWebUrl: "https://www.hindustantimes.com/technology/jugalbandi-microsoft-ai-chatbot-features-open-source-language-technology-news-ai4bharat-project-101685111840575-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/jugalbandi-microsoft-ai-chatbot-features-open-source-language-technology-news-ai4bharat-project-101685111840575-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 76
-    images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2023/05/26/1600x900/jugalbandi_ai_chatbot_microsoft_1685113035503_1685113045220.PNG"
-        width: 1600
-        height: 899
-        isCached: true
-  - title: "5 points to govern AI: Microsoft’s recommended guardrails for the future"
-    excerpt: "This post is the foreword written by Brad Smith for Microsoft’s report Governing AI: A Blueprint for the Future. The first part of the report details five ways governments should consider policies, laws,"
-    publishedDateTime: 2023-05-25T17:27:00Z
-    webUrl: "https://wraltechwire.com/2023/05/25/5-points-to-govern-ai-microsofts-recommended-guardrails-for-the-future/"
-    ampWebUrl: "https://wraltechwire.com/2023/05/25/5-points-to-govern-ai-microsofts-recommended-guardrails-for-the-future/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/25/5-points-to-govern-ai-microsofts-recommended-guardrails-for-the-future/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 75
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
-        width: 772
-        height: 434
-        isCached: true
-  - title: "3 AI Stocks That Could Beat Out Google and Microsoft"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Unless you’ve been off the grid for most of 2023, you know that"
-    publishedDateTime: 2023-05-27T10:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-could-beat-out-google-and-microsoft-1032355321"
+  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
+    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
+    publishedDateTime: 2023-05-25T15:59:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-ai-around-the-world-opportunities-key-regions-hurdles-maturity-2023-may"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-ai-around-the-world-opportunities-key-regions-hurdles-maturity-2023-may?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-around-the-world-opportunities-key-regions-hurdles-maturity-2023-may?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 64
-  - title: "Windows Copilot Puts AI in the Heart of Microsoft's Most Important Software"
-    excerpt: "Some of the most important screen real estate in the world is getting a chatbot that can adjust PC settings, perform searches and suggest music."
-    publishedDateTime: 2023-05-27T12:00:00Z
-    webUrl: "https://www.cnet.com/tech/computing/windows-copilot-puts-ai-in-the-heart-of-microsoft-most-important-software/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 62
-  - title: "Microsoft Chief Calls for Humans to Rule AI, Safeguard Critical Infrastructure"
-    excerpt: "In short, we must always ensure that AI remains under human control,\" he wrote ... Last week, Sam Altman, CEO of OpenAI, the startup behind ChatGPT, told a Senate panel in his first appearance before Congress that use of artificial intelligence to ..."
-    publishedDateTime: 2023-05-25T13:21:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-05-25/microsoft-chief-calls-for-humans-to-rule-ai-safeguard-critical-infrastructure"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 60
-  - title: "Microsoft President Says Deepfakes Are Biggest Concern Around AI, Steps Needed to Curb AI-Driven Fraud"
-    excerpt: "Microsoft president Brad Smith called for steps to ensure that people know when a photo or video is real and when it is generated by AI."
-    publishedDateTime: 2023-05-26T05:04:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/microsoft-president-brad-smith-deepfake-biggest-ai-concern-openai-chatgpt-4067712"
-    ampWebUrl: "https://www.gadgets360.com/internet/news/microsoft-president-brad-smith-deepfake-biggest-ai-concern-openai-chatgpt-4067712/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/microsoft-president-brad-smith-deepfake-biggest-ai-concern-openai-chatgpt-4067712/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 58
+    quality: 75
     images:
-      - url: "https://i.gadgets360cdn.com/large/ai_reuters_1681460368579.jpg"
+      - url: "https://i.insider.com/6465284f7224930019f34a4f?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 900
         isCached: true
-  - title: "Microsoft urges lawmakers, companies to ‘step up’ with AI guardrails"
-    excerpt: "Microsoft President Brad Smith has called for governments to “move faster” on regulating artificial intelligence (AI) but said that tech companies need to step up to the plate too."
-    publishedDateTime: 2023-05-26T01:48:00Z
-    webUrl: "https://cointelegraph.com/news/microsoft-urges-ai-artificial-intelligence-regulation-guardrails"
-    ampWebUrl: "https://cointelegraph.com/news/microsoft-urges-ai-artificial-intelligence-regulation-guardrails/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/microsoft-urges-ai-artificial-intelligence-regulation-guardrails/amp"
+  - title: "5 Ways Marketers Can Become More Strategic With ChatGPT"
+    excerpt: "But what do ChatGPT and other generative AI technologies such as Auto-GPT ... ChatGPT will help us expedite translation and expand our marketing content to more languages. We are also looking to use ChatGPT across such areas as chat, copy creation ..."
+    publishedDateTime: 2023-05-25T11:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/25/5-ways-marketers-can-become-more-strategic-with-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/25/5-ways-marketers-can-become-more-strategic-with-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/25/5-ways-marketers-can-become-more-strategic-with-chatgpt/amp/"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 56
-  - title: "Qualcomm, Microsoft Partner to Scale On-Device AI at Build"
-    excerpt: "During Microsoft Build 2023, Qualcomm Technologies, Inc. displayed its latest innovations in on-device AI, including showing generative AI running on Snapdragon® compute platforms, as well as new pathways for developers building applications for Windows 11 PCs powered by Snapdragon."
-    publishedDateTime: 2023-05-26T01:47:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/32202-qualcomm-microsoft-partner-to-scale-on-device-ai-at-build"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 56
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/3e86f7e036a8aebbe5b8d2829f5091ef.jpg?t=20230526_013346"
-        width: 752
-        height: 408
+      - url: "https://imageio.forbes.com/specials-images/imageserve/60e30e5c4975bdf08feffd1f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Microsoft outlines how to build AI apps and copilots at Build 2023"
-    excerpt: "If you are interested in learning more about building artificial intelligence applications and copilots using Microsoft technologies. You will be"
-    publishedDateTime: 2023-05-25T13:12:00Z
-    webUrl: "https://www.geeky-gadgets.com/build-ai-apps-and-copilots-25-05-2023/"
+  - title: "Google Search starts rolling out ChatGPT-style generative AI results"
+    excerpt: "One example screenshot of a \"Bluetooth speaker\" search on desktop shows a big row of \"Sponsored\" shopping ads, then the generative AI results start to show up in a big blue box about halfway down the first page. The blue box summarizes a bunch of ..."
+    publishedDateTime: 2023-05-25T17:41:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/05/google-search-starts-rolling-out-chat-gpt-style-generative-ai-results/"
+    ampWebUrl: "https://arstechnica.com/gadgets/2023/05/google-search-starts-rolling-out-chat-gpt-style-generative-ai-results/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/05/google-search-starts-rolling-out-chat-gpt-style-generative-ai-results/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+  - title: "ChatGPT takes center stage as students ditch tutors in favor of AI-powered learning"
+    excerpt: "The findings show many students and parents using ChatGPT, with some completely replacing their tutoring sessions with the AI tool."
+    publishedDateTime: 2023-05-29T16:33:00Z
+    webUrl: "https://venturebeat.com/ai/chatgpt-takes-center-stage-students-ditch-tutors-in-favor-of-ai-powered-learning/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/chatGPT-financial-problem.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 718
+        isCached: true
+  - title: "JPMorgan’s plans for a ChatGPT-like investment service are just part of its larger AI ambitions"
+    excerpt: "JPMorgan Chase is developing a ChatGPT-like service to provide investment advice to customers, but it is a small part of its AI ambitions."
+    publishedDateTime: 2023-05-26T16:39:00Z
+    webUrl: "https://venturebeat.com/ai/jpmorgan-plans-for-a-chatgpt-like-investment-service-are-just-part-of-its-larger-ai-ambitions/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 59
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/jp-morgan-file-gty-ml-200908_1599583350520_hpMain_16x9_992.jpeg?w=1200&strip=all"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "ChatGPT-maker warns it might leave EU over planned AI law"
+    excerpt: "He also met Prime Minister Rishi Sunak and the heads of AI companies DeepMind and Anthropic to discuss the technology's risks - from disinformation to national security and even \""
+    publishedDateTime: 2023-05-25T13:11:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-65708114?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-65708114.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65708114.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/96F6/production/_129864683_gettyimages-1490689874.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "OpenAI boss downplays fears ChatGPT maker could leave Europe over AI rules"
+    excerpt: "OpenAI CEO Sam Altman is downplaying worries that the ChatGPT maker could exit the European Union if it can’t comply with the bloc’s strict new artificial intelligence rules"
+    publishedDateTime: 2023-05-26T14:55:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 55
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_1a249ab94593356940d8f56d15e8a019_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "ChatGPT: US lawyer admits using AI for case research"
+    excerpt: "A New York lawyer is facing a court hearing of his own after his firm used AI tool ChatGPT for legal research. A judge said the court was faced with an \"unprecedented circumstance\" after a filing was found to reference example legal cases that did not exist."
+    publishedDateTime: 2023-05-27T22:20:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-65735769"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 47
+  - title: "ChatGPT: Most Americans Know About It, But Few Actually Use the AI Chatbot"
+    excerpt: "Though 58% of Americans are familiar with ChatGPT, just 14% have actually tried it, a Pew Research Center survey finds."
+    publishedDateTime: 2023-05-27T14:10:00Z
+    webUrl: "https://www.pcmag.com/news/few-americans-have-actually-tried-chatgpt-despite-most-knowing-about-it"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 45
+  - title: "Amazon's answer to ChatGPT seen as incomplete"
+    excerpt: "Amazon.com Inc.'s cloud customers are clamoring to get their hands on the ChatGPT-style technology the company unveiled six weeks ago. But instead of being allowed to test it, many are being told to sit tight,"
+    publishedDateTime: 2023-05-25T20:19:00Z
+    webUrl: "https://techxplore.com/news/2023-05-amazon-chatgpt-incomplete.html"
+    ampWebUrl: "https://techxplore.com/news/2023-05-amazon-chatgpt-incomplete.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-amazon-chatgpt-incomplete.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-5.jpg"
+        width: 1920
+        height: 1200
+        isCached: true
+  - title: "Lawyers Getting Tripped Up By Generative AI Such As ChatGPT But Who Really Is To Blame, Asks AI Ethics And AI Law"
+    excerpt: "A recent legal case has seemingly gotten entangled in the use of generative AI by lawyers for one side that have landed in hot water. Lessons for everyone arise."
+    publishedDateTime: 2023-05-29T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/29/lawyers-getting-tripped-up-by-generative-ai-such-as-chatgpt-but-who-really-is-to-blame-asks-ai-ethics-and-ai-law/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 43
+  - title: "AI alternatives to ChatGPT"
+    excerpt: "Even though everyone seems to be talking about ChatGPT, the new artificial intelligence service created by the team over at OpenAI, there are plenty of"
+    publishedDateTime: 2023-05-26T09:33:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-alternatives-to-chatgpt/"
     type: article
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/how-to-build-AI-apps-and-copilots.jpg"
-        width: 700
-        height: 489
-        isCached: true
-  - title: "NVIDIA Teams with Microsoft on Enterprise-Ready Generative AI"
-    excerpt: "NVIDIA has announced that it is integrating its NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning targeting enterprise AI initiatives. The integration will create a secure, enterprise-ready platform that enables Azure customers worldwide to quickly build,"
-    publishedDateTime: 2023-05-25T08:28:00Z
-    webUrl: "https://insidehpc.com/2023/05/nvidia-teams-with-microsoft-on-enterprise-ready-generative-ai/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 54
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2022/11/Nvidia-Microsoft-logos.jpg"
-        width: 593
-        height: 290
-        isCached: true
-  - title: "Microsoft calls for a new U.S. agency and licensing for AI"
-    excerpt: "Smith compared AI to the printing press, elevators and food safety for ... His call for a new agency echoes proposals from OpenAI, the startup behind the wildly popular ChatGPT, which received a $10 billion investment from Microsoft."
-    publishedDateTime: 2023-05-25T17:37:00Z
-    webUrl: "https://www.seattletimes.com/business/microsoft/microsoft-calls-for-a-new-u-s-agency-and-licensing-for-ai/"
-    ampWebUrl: "https://www.seattletimes.com/business/microsoft/microsoft-calls-for-a-new-u-s-agency-and-licensing-for-ai/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/microsoft/microsoft-calls-for-a-new-u-s-agency-and-licensing-for-ai/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
-  - title: "Microsoft Build - the past, present and future of ChatGPT on show as Microsoft's 'Mosaic moment' takes center stage"
-    excerpt: "That was thecandid confession from the Microsoft CEO about ChatGPT during his keynote address to the firm’s Build developer conference, an event that should leave no-one in any doubt that this is now an AI company."
-    publishedDateTime: 2023-05-25T11:09:00Z
-    webUrl: "https://diginomica.com/microsoft-build-past-present-and-future-chatgpt-show-microsofts-mosaic-moment-takes-center-stage"
-    ampWebUrl: "https://diginomica.com/microsoft-build-past-present-and-future-chatgpt-show-microsofts-mosaic-moment-takes-center-stage?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/microsoft-build-past-present-and-future-chatgpt-show-microsofts-mosaic-moment-takes-center-stage?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 52
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-05/Screenshot%202023-05-25%20at%2012.07.35.png"
-        width: 624
-        height: 342
-        isCached: true
-  - title: "KPI Partners achieves Microsoft Azure Solutions Partner Designation for Data & AI"
-    excerpt: "May 17, 2023 /PRNewswire/ -- KPI Partners, a global trusted strategic partner for Analytics and Digital Transformation solutions, announced today that it has achieved Microsoft Azure Solution Partner status in Data & AI. This recognition showcases the ..."
-    publishedDateTime: 2023-05-25T18:37:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1324704&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 44
-  - title: "Microsoft launches Fabric, a new integrated platform for data analytics, management and machine learning"
-    excerpt: "The software can also integrate Azure Data Factory, Azure Synapse Analytics and Power BI into a single unit, particularly to aid business professionals with relevant data."
-    publishedDateTime: 2023-05-25T07:55:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/microsoft-launches-fabric-a-new-integrated-platform-for-data-analytics-management-and-machine-learning-10659191.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
     quality: 39
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/08/Microsoft_reuters-770x433.jpg"
-        width: 770
-        height: 433
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/AI-alternatives-to-ChatGPT.jpg"
+        width: 700
+        height: 508
         isCached: true
-  - title: "Qualcomm drives Opel connectivity, aligns with Microsoft for on-device AI"
-    excerpt: "Mobile platform provider announces partnership to make generative AI more affordable, reliable and private by moving queries and inferencing to edge devices and provider’s infotainment platform for small car bestseller."
-    publishedDateTime: 2023-05-25T11:36:00Z
-    webUrl: "https://www.computerweekly.com/news/366538331/Qualcomm-drives-new-Opel-connectivity-aligns-with-Microsoft-for-on-device-AI"
+  - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
+    publishedDateTime: 2023-05-26T17:30:00Z
+    webUrl: "https://www.businessinsider.com/chaptgt-generative-ai-financial-services-whats-next-hype-reality-2023-may"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 35
-  - title: "Deepfakes are biggest AI concern, says Microsoft president"
-    excerpt: "In Washington speech, Brad Smith calls for steps to ensure people know when a photo or video is generated by AI"
-    publishedDateTime: 2023-05-25T16:01:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/25/deepfakes-ai-concern-microsoft-brad-smith"
+  - title: "ChatGPT, for better or worse: How AI will disrupt the health care sector"
+    excerpt: "Opportunities: The health sector is generally slow to adapt to new technologies. Transfers of information on CDs or even faxes remain prevalent among some providers. Dr. William Johnson, president of Moda Health,"
+    publishedDateTime: 2023-05-25T21:10:00Z
+    webUrl: "https://www.bizjournals.com/portland/news/2023/05/25/chatgpt-opportunities-and-threats.html"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 34
-  - title: "GEP USES MICROSOFT AZURE OPENAI SERVICE TO ENHANCE ITS PROCUREMENT & SUPPLY CHAIN SOFTWARE SOLUTIONS"
-    excerpt: "GEP has integrated Microsoft Azure OpenAI Service into its flagship software that enables clients to identify potential risks and optimize procurement and supply chain operations"
-    publishedDateTime: 2023-05-25T15:05:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/25/9821322.htm"
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 18
+  - title: "South Korea’s Naver to target foreign governments with latest ChatGPT-like AI model"
+    excerpt: "South Korea’s Naver to target foreign governments with latest ChatGPT-like AI model on linkedin (opens in a new window)"
+    publishedDateTime: 2023-05-28T04:01:00Z
+    webUrl: "https://www.ft.com/content/8c9a2842-ff01-46aa-a82b-1b46342264f6?shareType=nongift"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-  - title: "Microsoft wants licences for powerful AI tools"
-    excerpt: "Microsoft is calling for a new US agency to regulate artificial intelligence and licensing requirements to operate the most powerful AI tools, company president Brad Smith said Thursday."
-    publishedDateTime: 2023-05-26T05:58:00Z
-    webUrl: "https://mybroadband.co.za/news/software/493375-microsoft-wants-licences-for-powerful-ai-tools.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 34
-  - title: "Microsoft Launches 'Jugalbandi', An AI-Based Multilingual Chatbot For Rural India"
-    excerpt: "Microsoft has unveiled a new generative AI-driven chatbot called 'Jugalbandi', designed for farmers and other users living in rural India."
-    publishedDateTime: 2023-05-27T13:24:00Z
-    webUrl: "https://www.ndtv.com/feature/microsoft-launches-jugalbandi-an-ai-based-multilingual-chatbot-for-rural-india-4071723"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 31
-  - title: "Habu Announces Collaboration With Microsoft Azure to Deliver Zero-Trust Data Clean Room"
-    excerpt: "Habu, a global innovator in data clean room software, has announced a collaboration with Microsoft Azure to integrate its"
-    publishedDateTime: 2023-05-25T18:08:00Z
-    webUrl: "https://www.datanami.com/this-just-in/habu-announces-collaboration-with-microsoft-azure-to-deliver-zero-trust-data-clean-room/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 26
-  - title: "NVIDIA makes move in the industrial world by partnering with Microsoft and Dell Technologies for easier Generative AI accessibility"
-    excerpt: "One of the biggest driving forces behind Generative AI technology is none other than accelerated computing giant NVIDIA. In its latest announcement, Team Green has shaken hands with Microsoft and Dell Technologies to leverage access to a wider audience."
-    publishedDateTime: 2023-05-25T06:32:00Z
-    webUrl: "https://www.tech-critter.com/nvidia-generative-ai-with-microsoft-dell-technologies/"
-    type: article
-    provider:
-      name: tech-critter.com
-      domain: tech-critter.com
-    quality: 24
-    images:
-      - url: "https://secure.gravatar.com/avatar/a0ed3175f99016ebcbdaabb913231517?s=300&d=mm&r=g"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "NashTech is now a Microsoft Azure Solutions Partner for Data & AI, Digital & App Innovation, and Infrastructure Solution Areas"
-    excerpt: "We are thrilled to announce that NashTech has achieved Microsoft Azure Solution partner status and enhanced its capabilities to help customers manage and govern their data across multiple systems to b"
-    publishedDateTime: 2023-05-25T18:02:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32581713/nashtech-is-now-a-microsoft-azure-solutions-partner-for-data-ai-digital-app-innovation-and-infrast"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
-  - title: "This week in AI: Satya Nadella says Microsoft is moving to co-pilot era for AI, India's AI programme to submit framework soon and more"
-    excerpt: "Humans are in the loop with AI, and it is here to help humans make their job easy, said Satya Nadella, Chairman and Chief Executive Officer of Microsoft, in an exclusive conversation with CNBC-TV18 while talking about the impact of AI on jobs education, its threat, the future, and more."
-    publishedDateTime: 2023-05-28T13:05:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/this-week-in-ai-satya-nadella-says-microsoft-is-moving-to-a-co-pilot-era-for-ai-indias-ai-programme-to-submit-framework-soon-and-more-10678881.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 2
+      name: The Financial Times
+      domain: ft.com
+    quality: 11
 
 secured: "rH77Q5tmrzzI/mJz7hCFYk0Xj8BDWVigTU7ReTL3x9/OsjyY9Uwta3VJO3PsL28CPCynWMnwX6NnkGD227+rdDF0ihcCaAhHjFqeTTqoPVrJJIgSMJrP9AT6VZo63KIgKzl/Tvwopg4dmkl2POa4BvlblKrmwlJkPK+wCNhZbX7YENaY+sW/k+TXXzguCnL54C+NZvltfaN18ZEvYG9PuzUa+RcvdobqZqZkGIEPYtXFXR3CNBic+tRkYpE5oOQxvs8F9jFrbRxX1AJSdhf47jXe/v3nnoYEJ1iLtb0f5BAO8TPF5HGnCKw/mzwOXHUJE+jUIcyqes7npjCC8p1ymW90jcsrOmZfAvpKNOLy0Xg=;RodZ+dMctVAHY1F4DcvY/w=="
 ---
