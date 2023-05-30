@@ -798,6 +798,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-16-nigeria-election-the-mystery-of-the-altered-results-in-disputed-poll.md",
+      "title": "Nigeria election: The mystery of the altered results in disputed poll",
+      "excerpt": "A BBC investigation has found evidence suggesting some results from Nigeria's presidential election may have been manipulated. The winner Bola Tinubu is due to be inaugurated on 29 May but the opposition is challenging this.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/65163713?at_link_origin=BBCAfrica&at_link_type=web_link&at_format=link&at_ptr_name=twitter&at_campaign_type=owned&at_link_id=38E53C18-F37D-11ED-83EF-5408D872BE90&at_bbc_team=editorial",
+      "originalUrl": "https://www.bbc.com/news/65163713?at_link_origin=BBCAfrica&at_link_type=web_link&at_format=link&at_ptr_name=twitter&at_campaign_type=owned&at_link_id=38E53C18-F37D-11ED-83EF-5408D872BE90&at_bbc_team=editorial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/A39C/production/_129748814_nigeria_officials_epa.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/65163713.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/65163713.amp",
+      "publishedDateTime": "2023-05-15T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-demand-forecasting-at-getir-built-with-amazon-forecast.md",
       "title": "Demand forecasting at Getir built with Amazon Forecast",
       "excerpt": "This is a guest post co-authored by Nafi Ahmet Turgut, Mutlu Polatcan, Pınar Baki, Mehmet İkbal Özmen, Hasan Burak Yel, and Hamza Akyıldız from Getir. Getir is the pioneer of ultrafast grocery delivery. The tech company has revolutionized last-mile delivery with its “groceries in minutes” delivery proposition.",
@@ -1432,59 +1484,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-10-publish-predictive-dashboards-in-amazon-quicksight-using-ml-predictions-from-amazon-sagemaker-canvas.md",
-      "title": "Publish predictive dashboards in Amazon QuickSight using ML predictions from Amazon SageMaker Canvas",
-      "excerpt": "Understanding business trends, customer behavior, sales revenue, increase in demand, and buyer propensity all start with data. Exploring, analyzing, interpreting, and finding trends in data is essential for businesses to achieve successful outcomes. Business analysts play a pivotal role in facilitating",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/publish-predictive-dashboards-in-amazon-quicksight-using-ml-predictions-from-amazon-sagemaker-canvas/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/publish-predictive-dashboards-in-amazon-quicksight-using-ml-predictions-from-amazon-sagemaker-canvas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/10/predictive-dashboards-quicksight-sagemaker-canvas.jpg",
-          "width": 1068,
-          "height": 537,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T07:17:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/tech-startup/news/how-not-let-ai-outsma
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/how-not-let-ai-outsmart-you-the-office-3329781?amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 750
     height: 393
     isCached: true
+
+related:
+  - title: "Using Artificial Intelligence in the healthcare space"
+    excerpt: "Functional Medicine Expert, Dr. Cathleen Gerenger, and the CEO of My Wellness Reader, Gary Kiss, joined Gayle Guyardo, the host of the global health and wellness show, Bloom, to share more about"
+    publishedDateTime: 2023-05-29T18:30:00Z
+    webUrl: "https://www.wfla.com/bloom-tampa-bay/using-artificial-intelligence-in-the-healthcare-space/"
+    type: article
+    provider:
+      name: WFLA News Channel 8
+      domain: wfla.com
+    quality: 34
 
 secured: "TZhhWTX/6y5f0weya8yVpk+qE3Y3wP85JXTfj6Lta75WsHwCfeseTAjxH+VR5tYZZSQu85RCf9vOpLIPWNVTHWfSOn8ghBdq1KxPSAHUEJPry+l6HSIaWmKqIwDfceVQXRhRHm6TCQXs9K2tdN4y7uR3RCyhEm5UjHNWVzCOMFC/E/sc8W6K8cbwxPe4JR2YTdVNMwR51MQSMXFINEdWKUVXaf387yPwtjuTieJ5+u8ZFClD++4fSpZnyxMV3ZnWFcrt6v7OQJ3EhmBf8ChBqvDzJ8d0xIND5c1MtOUiroCsNr3zG1AUrTKKY4uM6wVviolusdQ47lZqs9uFTePT4tmuCAZGsEd+FDwW5jr8m9k=;TijNt9L9Smo8TZQyTwgdpA=="
 ---

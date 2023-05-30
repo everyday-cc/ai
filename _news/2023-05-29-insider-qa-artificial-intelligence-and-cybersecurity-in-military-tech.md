@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Insider Q&A: Artificial intelligence and cybersecurity in military tech"
-excerpt: "Josh Lospinoso’s first cybersecurity startup was acquired in 2017 by Raytheon/Forcepoint.. His second, Shift5, works with the U.S. military, rail operators and airlines including JetBlue. A 2009 West Point grad and Rhodes Scholar,"
-publishedDateTime: 2023-05-29T16:11:00Z
-originalUrl: "https://www.chron.com/business/article/insider-q-a-artificial-intelligence-and-18124215.php"
-webUrl: "https://www.chron.com/business/article/insider-q-a-artificial-intelligence-and-18124215.php"
+excerpt: "Lospinoso recently told a Senate Armed Services subcommittee how artificial intelligence can help protect military operations. The CEO/programmer discussed the subject with The Associated Press as well how software vulnerabilities in weapons systems are a major threat to the U."
+publishedDateTime: 2023-05-29T12:10:00Z
+originalUrl: "https://www.seattletimes.com/business/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/"
+webUrl: "https://www.seattletimes.com/business/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/"
+ampWebUrl: "https://www.seattletimes.com/business/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/?amp=1"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI
@@ -63,6 +65,6 @@ related:
         height: 467
         isCached: true
 
-secured: "1Yh2RUW57564E+VtzQ6gXQ0y1hS6pwR+ad1R6O7/Z2kekDBQNOqGL0KV5BXC3+4oFUxwx5TNsmkwhPCKLez7B8jVfufwAkSge/9+bXOKUX2mTfbXUqfJrPwpicoLZj9yw0+mD9EuvtgpaKjKujQwffb0U77xZFGegTHNzp1fuA1t6tmJMlg+5SOJ4HV+nyPj15fUzO6bgfJGY4lCf3Z7Z42zNYENPnbRGPSi0msK102Zc0t7nGCPnvkS8jMkuJ/efelQ75FR57ShJ87k5p7hcKfFMqDreG2aqe6RcWqAcRNaYDd2ZHdOrGUYYigJ9TVdyP60ozVbVy4TOiKbp7DvX2fqhwD8WOhJoclisgpvfj7EyZOfy0h51ADPi/j06dvOfPvnlpiBEXh5nH81T5rAPDAPVQ6E/z4O8tJ0IAjV8FJ41FgAWh5c0Uc7m6hKDxDBrq7ZwRXAVdM4+aebBA1ieHfjdIH+fiueAhx1eJ8xU+/JZZkd7/Or06b7rsYKOWWK2IVmfuwfe+FA9PdWZnJwHA==;qvxdT6uXoRQJHnbEN4tXDQ=="
+secured: "MajF7+1NxMKtOz7Y5Ghhk+6C3EdNhmDAbfYniF95T+w08Vuxbh5KT/GVIblhwZlzKetxFLJxHbAKgqAtzcTAn5TIf6BtGhVlqG050NnzMtKsSjyBSIMbN65idwH+N36THsAu9t7A1FmFWldSMTHQE/kxsiQqmT89Z8eB8jtKyMCKsq2toAibWZ8+/Ws2JpQtNqvYqkDzHXGxNWhm06ih2EscR5tuHQJaX5waXApHKQtgZcerVBXEBJ/cYNCS2e51rYtY2BfQAZvV0cWu6t90gMznyEGmMZMDmTJ1jvXJjazylfVApelIki7jt3LiK96ZfmYpdhe8L7Wzge3hi5uclVuUtQ+AIdp39QRSp8/Hl0gLv8FG4fGbxCubiY+B0LujEv9FKywRuuQPt+6QvD0wXxoHfnrBc1yiWcEPwgAe68tIz8QBMtxeS5u74eTtM9idvY1uhmeZAXjGk2/HvtgtEfa4DVTujjiS5u3gVKe0cjSrz/ZRNEpyYHo01i+2KTbJLyYsuMC4Jcz96rHgH99emA==;Bf+1NcKPoTQ2YUo6AERU5w=="
 ---
 

@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 620
         isCached: true
+  - title: "Nvidia just added $200 billion to its market cap on AI hype - and the gold rush may just be getting started"
+    excerpt: "Insider's Phil Rosen explains what's behind the key chip stock's meteoric rise."
+    publishedDateTime: 2023-05-26T10:40:00Z
+    webUrl: "https://www.businessinsider.com/nvidia-stock-rally-ai-artificial-intelligence-huange-markets-investors-2023-5"
+    ampWebUrl: "https://www.businessinsider.com/nvidia-stock-rally-ai-artificial-intelligence-huange-markets-investors-2023-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nvidia-stock-rally-ai-artificial-intelligence-huange-markets-investors-2023-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/646fa51cdcf4b30018881416?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The AI-driven evolution of banks"
     excerpt: "AI-driven transformation continues to accelerate. In this phase, banks are faced with new challenges and opportunities, which force them to pay attention to a plurality of aspects, all transversally crossed by a major cultural transformation."
     publishedDateTime: 2023-05-25T20:49:00Z
@@ -67,6 +83,20 @@ related:
         width: 1920
         height: 1188
         isCached: true
+  - title: "NVIDIA is upgrading the in-car experience with AI, streaming, and advanced safety features"
+    excerpt: "NVIDIA revealed a new partnership Monday with Taiwanese semiconductor giant MediaTek to enhance the in-car driver experience and make"
+    publishedDateTime: 2023-05-29T16:43:00Z
+    webUrl: "https://electrek.co/2023/05/29/nvidia-upgrading-in-car-experience-ai-software/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 59
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/05/nvidia-in-car-experience.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Nvidia is up 165% in 2023. Here's why its the clear winner in the AI race so far."
     excerpt: "Nvidia's role in powering the AI sector's vast ambitions means it will be a clear leader in the space for a long time, sources told Insider."
     publishedDateTime: 2023-05-27T12:15:00Z
@@ -76,6 +106,31 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 44
+  - title: "Nvidia's blowout forecast sparks huge rally in all things AI"
+    excerpt: "Nvidia Corp’s forecast for surging revenue surprised even the most bullish analysts on Wall Street, propelling the chipmaker to the cusp of a US$1 trillion market capitalization and igniting a global jump in stocks linked to artificial intelligence."
+    publishedDateTime: 2023-05-25T14:32:00Z
+    webUrl: "https://www.theedgesingapore.com/news/semiconductor/nvidias-blowout-forecast-sparks-huge-rally-all-things-ai"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/news/semiconductor/nvidias-blowout-forecast-sparks-huge-rally-all-things-ai"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/semiconductor/nvidias-blowout-forecast-sparks-huge-rally-all-things-ai"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 39
+  - title: "Nvidia reveals generative AI NPCs that can dream up their own dialogue"
+    excerpt: "A new piece of software, Nvidia Ace, was introduced at the Computex Keynote. The software will allow game developers to implement AI NPCs into their worlds."
+    publishedDateTime: 2023-05-29T08:47:00Z
+    webUrl: "https://www.dexerto.com/tech/nvidia-reveals-generative-ai-npcs-that-can-dream-up-their-own-dialogue-2159057/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 39
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/29/ai-nvidia-gen.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "MediaTek, NVIDIA to Transform Automobiles with AI & Accelerated Computing"
     excerpt: "AI and accelerated computing are fueling the transformation of the entire auto industry. The combination of MediaTek’s industry-leading system-on-chip plus NVIDIA’s GPU and AI software technologies will enable new user experiences, enhanced safety and new connected services for all vehicle segments, from luxury to entry-level."
     publishedDateTime: 2023-05-29T07:18:00Z

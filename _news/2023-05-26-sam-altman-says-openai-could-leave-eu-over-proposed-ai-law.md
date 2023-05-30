@@ -18,17 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "A startup backed by OpenAI uses AI-powered robots in the real world"
-    excerpt: "USA: The rise of ChatGPT and companies like it have shown that no white-collar job is safe. But if you believe that blue-collar jobs ar..|News Track"
-    publishedDateTime: 2023-05-25T10:27:00Z
-    webUrl: "https://english.newstracklive.com/news/a-startup-backed-by-openai-uses-aipowered-robots-in-the-real-world-sc71-nu355-ta355-1277961-1.html"
-    ampWebUrl: "https://english.newstracklive.com/ampnews/a-startup-backed-by-openai-uses-aipowered-robots-in-the-real-world-sc71-nu355-ta355-1277961-1.html"
-    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/a-startup-backed-by-openai-uses-aipowered-robots-in-the-real-world-sc71-nu355-ta355-1277961-1.html"
-    type: article
-    provider:
-      name: News Track
-      domain: newstracklive.com
-    quality: 54
   - title: "OpenAI could 'cease operating' in EU countries due to AI regulations"
     excerpt: "Sam Altman, OpenAI CEO, said the company could stop all operations in the European Union if it can't comply with impending artificial intelligence regulations."
     publishedDateTime: 2023-05-25T17:32:00Z
@@ -38,29 +27,29 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "OpenAI raises $175m in funding to invest in AI start-ups"
-    excerpt: "According to a filing made by CEO Sam Altman, the latest OpenAI fund is 75pc higher than the company had initially raised during launch."
-    publishedDateTime: 2023-05-25T09:23:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/openai-startup-fund-raise-ai-sam-altman-sec-filing"
+  - title: "U.S., foreign countries begin push to regulate AI"
+    excerpt: "Regulations could have a significant impact on the research and implementation of products and technology in the security industry in the coming years."
+    publishedDateTime: 2023-05-26T16:17:00Z
+    webUrl: "https://www.securityinfowatch.com/cybersecurity/article/53061798/us-foreign-countries-begin-push-to-regulate-ai"
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
     images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/05/a-14.jpg"
-        width: 800
-        height: 600
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/05/16x9/bigstock_Futuristic_Robot_Artificial_In_476546497.6470d51075a88.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "OpenAI nearly doubles size of its startup investment fund"
-    excerpt: "Here's how big OpenAI's fund now is, what they've backed so far and who they added as a limited partner (it’s not just Microsoft)."
-    publishedDateTime: 2023-05-25T21:24:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/05/25/openai-startup-fund-nearly-doubles.html"
+  - title: "EU takes on artificial intelligence: Will Europe's regulations act scare off OpenAI?"
+    excerpt: "But with fears of fake news, video manipulation, robots taking control and our world being driven to an automatic version of Hell, there is much to discuss."
+    publishedDateTime: 2023-05-25T18:52:00Z
+    webUrl: "https://www.france24.com/en/tv-shows/the-debate/20230525-eu-takes-on-artificial-intelligence-will-europe-s-regulations-act-scare-off-openai"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
+      name: France 24
+      domain: france24.com
+    quality: 27
 
 secured: "JnIvCN4wvzvO+Srns3vboNJ1DVi6Q4ZVshnIgqiOY/yWBYgS8bSyIC5tWM6yOkVyJYYTVEznr8bsR5jq+vfNloM5py6jWlS52eXbVl89p3w7PeWrrGIOjd9leDUPdcVe1Rcq9JQa5abHmlqSRPg+02o/lHPT303F7DHgYrTukkZSI3JUaY/Jl5Qivd2EJUwyKrvODrDiIy7nqyGrr9/beyOEl37ANQJZDr7C8xY8d/fZYTjFT+HxVv6ks+NmEdFczmE0NVN8MfwPKy3yOcnQdRGKGjzJqui5lrd2eOw95NwajK2dBMNBKhlOoQZvFP6qYn31m8R/voO9yA+3mxTjB18zwfRXeZUVKUlogvmlPH8=;sCWZ5pQP9Ld988PGuuGL9Q=="
 ---

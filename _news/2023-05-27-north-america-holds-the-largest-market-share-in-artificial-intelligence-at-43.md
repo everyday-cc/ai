@@ -7,7 +7,7 @@ originalUrl: "https://insidebigdata.com/2023/05/27/north-america-holds-the-large
 webUrl: "https://insidebigdata.com/2023/05/27/north-america-holds-the-largest-market-share-in-artificial-intelligence-at-43/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 300
     height: 203
     isCached: true
-
-related:
-  - title: "America’s Math Coach Is Teaching Fifth-Graders to Outsmart AI"
-    excerpt: "This professor is traveling the country with simple advice for an uncertain future: Be more human."
-    publishedDateTime: 2023-05-25T11:00:00Z
-    webUrl: "https://www.wsj.com/articles/chatgpt-ai-math-po-shen-loh-1e9f80dc"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-788010/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "+EV8Qtk8+2cQAaJ5y9Lh6eVqwJPRGf2qL4vsxSXRaF4WznYJtsnbdiVuLWqDQw4WhLhtOsd+xIp8CFZ3IUBniTJWEhVpKx3AFGoODAj41NnznJvJiEGsWdKnkilntm9AcUSHag5O1GJBnShLUpJJmelORqxN+fNwwCKLzwte+AmyJlccPEsiRWaecuO1KgAunmw06SHnkKwM7v6hDcYVZwshFEn8+vqhbN2/0f7vGGxGW/tYhtRDBT8dgna/ErxvLksg6NZ8trUiIhTIx842k9k7DUNA9qTjwAJgmB/PoJKkc2vsnIf1viB7ixLk4HBbvPf/cw6MHRRHs9Nhfh+FZNZkBx6xdmwAHKU2R6pDIWX4LA7VBgWWTrRvn5o+6ntgJMD6wdePXjrgGasAPcu9aWCux1d+VNowe8W+2S/MXd7b4OxGUCbmCmiRZMKaFTLqNOzzavrQDB/cEZ+DDV5w1BVbwSY2F/YU5cye8K90Tbp5iWjCdpvyySmcfB4cXVntMQn8uw8WfsCi8lLTn1mVBQ==;iPWhE2IAajotvPPBAWTv8w=="
 ---

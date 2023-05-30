@@ -24,31 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Changing Automation Testing In Quality Assurance"
-    excerpt: "One major way AI automatic testing of software has changed the process of quality assurance is by speeding up the entire process. With AI, there is no need to make manual calculations or go through the process of manually testing the software over and over again."
-    publishedDateTime: 2023-05-25T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-changing-automation-testing-in-quality-assurance/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-changing-automation-testing-in-quality-assurance/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/25/how-ai-is-changing-automation-testing-in-quality-assurance/amp/"
+  - title: "A new challenge: making AI-generated content detectable"
+    excerpt: "Software giant Microsoft has announced solutions, and French Economy Minister Bruno Le Maire raised the issue when he met with Sam Altman, CEO of OpenAI, creator of ChatGPT."
+    publishedDateTime: 2023-05-29T02:23:00Z
+    webUrl: "https://www.lemonde.fr/en/economy/article/2023/05/29/a-new-challenge-making-ai-generated-content-detectable_6028319_19.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Le Monde.fr
+      domain: lemonde.fr
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646e109d287ca827f3a62c39/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 798
+      - url: "https://img.lemde.fr/2023/05/24/464/0/2185/1456/1440/960/60/0/c1c0c89_1684968779783-aurel-ia-detectable.jpg"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Using Artificial Intelligence in the healthcare space"
-    excerpt: "Functional Medicine Expert, Dr. Cathleen Gerenger, and the CEO of My Wellness Reader, Gary Kiss, joined Gayle Guyardo, the host of the global health and wellness show, Bloom, to share more about"
-    publishedDateTime: 2023-05-29T18:30:00Z
-    webUrl: "https://www.wfla.com/bloom-tampa-bay/using-artificial-intelligence-in-the-healthcare-space/"
-    type: article
-    provider:
-      name: WFLA News Channel 8
-      domain: wfla.com
-    quality: 34
 
 secured: "oDp5B2xh9VuOZpjkiQNrMB3phCvnnUbHQHEXJ0mtintUIGJzcgaGw+NGz9st4juXYnc6Rjjnny53xafkYYv5upWAjG1NdYgjmr0dFvzNjYZCFjw+dGer+ClmT4imr5D0S67mRUSwK3fVrvXJigqzPJ+s4+PLlAY4vg9yQs72mczFycGEQOEeZDsQMfdfJWZrQ2AOsFkEbvyXlSqsLrSWB3J5ZKEH+HtUYLKBb0wtKwaBJo13QpT+sxc5SVqzKCcTFI9J6d18YtIFZ+AX3Kwj12VNQNrDn3r7e41Cn6jxxmrwf4MratHKTIpJD+5HZV/UVVBkmj53Wp8VegghTI3j644k4W+EWIjPlMAHee937S4=;4Ja/SlYGq9aD92QxlQdWQA=="
 ---

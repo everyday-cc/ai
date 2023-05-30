@@ -205,22 +205,6 @@ related:
         width: 5000
         height: 3333
         isCached: true
-  - title: "Nvidia shares leap after it predicts AI-driven boom in chip demand"
-    excerpt: "US tech firm on course for valuation well over $900bn as quarterly revenue forecast excites investors"
-    publishedDateTime: 2023-05-25T10:36:00Z
-    webUrl: "https://www.theguardian.com/business/2023/may/25/nvidia-shares-leap-ai-boom-chip-us-tech-firm-valuation"
-    ampWebUrl: "https://amp.theguardian.com/business/2023/may/25/nvidia-shares-leap-ai-boom-chip-us-tech-firm-valuation"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/may/25/nvidia-shares-leap-ai-boom-chip-us-tech-firm-valuation"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 74
-    images:
-      - url: "https://i.guim.co.uk/img/media/e5a60f6b9f1f17a92ec182087efb8a899d89a855/0_226_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=65fd4ecd7e16016fcff3e1cf311ade01"
-        width: 620
-        height: 372
-        isCached: true
   - title: "AI Chip Giant Nvidia Nears Trillion Dollar Valuation"
     excerpt: "The market valuation of Nvidia, a US firm which specializes in chips coveted in the artificial intelligence boom, neared one trillion dollars on Thursday after the company blew past quarterly earnings expectations."
     publishedDateTime: 2023-05-25T19:59:00Z
@@ -252,6 +236,20 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/0784/production/_129842910_jensen_huang-extended.png"
         width: 1024
         height: 576
+        isCached: true
+  - title: "World’s most valuable chip maker Nvidia unveils more AI products after US$184 billion rally"
+    excerpt: "In a keynote speech at Computex Taiwan, Nvidia CEO Jensen Huang unveiled a new batch of AI products and services, looking to capitalise on a frenzy that has made his company the world’s most valuable chip maker."
+    publishedDateTime: 2023-05-30T02:55:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3222257/worlds-most-valuable-chip-maker-nvidia-unveils-more-ai-products-after-us184-billion-rally"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 74
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/05/30/45d7016d-e83e-411c-a363-e85893b7208b_e6ceab3b.jpg?itok=3dq4j9na&v=1685415274"
+        width: 1200
+        height: 630
         isCached: true
   - title: "How AI may help Nvidia to become first trillion-dollar chip-making company"
     excerpt: "This is what Microsoft co-founder Bill Gates has to say on the 'big AI winner' of tomorrow Microsoft co-founder Bill Gates said that the future top company in artificial intelligence will likely have created a personal digital agent that can perform ..."
@@ -354,20 +352,6 @@ related:
       - url: "https://images.wsj.net/im-790364/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Nvidia close to becoming first trillion-dollar chip firm after stellar forecast"
-    excerpt: "Courtesy NVIDIA/Handout via REUTERS May 25 (Reuters) - For Nvidia Corp (NVDA.O), the boom in generative artificial intelligence (AI) is everything, everywhere, all at once. The chip designer's shares extended their rally this year on Thursday, soaring 25% ..."
-    publishedDateTime: 2023-05-25T09:44:00Z
-    webUrl: "https://www.reuters.com/technology/nvidia-close-becoming-first-trillion-dollar-chip-firm-after-stellar-forecast-2023-05-25/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 65
-    images:
-      - url: "https://www.reuters.com/resizer/tyFpR0H5gc8GFCzc32yvJXBPe84=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VTXHVAI3VBOYTAQRG7NBVL5EII.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "NVIDIA Grace Hopper Superchips Designed for Accelerated Generative AI Enter Full Production"
     excerpt: "NVIDIA today announced that the NVIDIA® GH200 Grace Hopper Superchip is in full production, set to power systems coming online worldwide to run complex"
@@ -539,15 +523,6 @@ related:
       name: WRAL TechWire
       domain: wraltechwire.com
     quality: 51
-  - title: "Nasdaq Futures Jump as Nvidia Leads AI-Driven Rally"
-    excerpt: "Shares of Nvidia Corp, the world's most valuable listed chip company, jumped 24% in premarket trading ... This helped it lead a rally among heavyweight AI players including Microsoft Corp and Alphabet Inc, which rose 1.9% and 2.0%, respectively."
-    publishedDateTime: 2023-05-25T09:24:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-05-25/nasdaq-futures-jump-as-nvidia-leads-ai-driven-rally"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Nvidia Shares Jump as Chip Maker Approaches $1 Trillion Valuation"
     excerpt: "As tech giants such as Google, Microsoft, Amazon and Facebook rush to build AI capabilities similar to ChatGPT, they need pricey chips. And as WSJ’s Dan Gallagher explains, that’s good for Nvidia. Nvidia gained almost a third of its market value on ..."
     publishedDateTime: 2023-05-25T13:55:00Z
@@ -859,6 +834,6 @@ related:
       domain: channelnewsasia.com
     quality: 17
 
-secured: "QcBD4uiy5EFZlv5/IcSyjRYHtY9AgaJfFniSau0nihOQJGLUwzZ5ufA2q3rp2pOC9ii++N3VdqJuRoRYJEkxD2ZKDaRtngfkPZOfD1qmnMTIkcApJ/2wxHK3TcwZNsPBdRfr18eIr6EaDNUjobwM+VZBqRRgqQhnlLdF4LQ9hUVJJtt5w8jzpUZcWmZJ6m1ktUK4mqi1f0ytAGaTYcbVDnxsdL8ut4Pc+A++v1nplDxWjONDZGBfj6bMPFwIMns3Xby/3ho1JSS0ujkCQ0NsH4kuOPofXsCMAo2lTaq2mD3dmh00NAsGtbnLxr6IKisQ4n/qWfi04jS45Yj4xDTboXynGgMzuObuqBiK0nIzkcA=;fx6D4CE6AlO+I9BYuunc7A=="
+secured: "6B83FiGi/gcbsu4l+gHpw0jmVg/BefSc8psH1vMK16DyHoo+kyyPaPH9Rq2yi1E5Vm8lk80h3iHXUWPhDw6AxXyi0yEMlVogpU7fWd2kK920u4UWc2RuxD2tD+idzHLfghA30k1wRvQwAcX39PYXqHyMwsxBATxZDzB4KoSleCYxVQEHTD5jrGdb1uAB/Q10b6Xuw+kTqtuNTkHOXTta6QNbQt2MDkraRr2DrQNv7unr74smvx8joc2wBPqJxE3PkUyUZJYsaifmSr0l9hRH+77SRj2H5D/I6WAZdN1+2ODsivX5Q+iHYmirRi3McHE1D/UZbhatsgvL6ftMgd1RCFKiV5GH7Eu/RBe+PiBo8pARyMK4DNJ6eNkHB9wMZJQtxHCSyvaIgwck6AAW971A9/jzzYmKPy26mSwZUO8w0GLA8BGZdsBpwB8UY3oz9XUeh5gN+E6cx91uj6ctDCsHMvjkteFGllPoZxh6ceIe0h1fa0YDTeGQrh8nqAo9JdRfDrytM/fBWHHM/vLHCIS3RQ==;gEURxcJihR5OhAnkftdK0A=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "Artificial Intelligence (AI) in Military Market worth $38.8 billion by 2028 - Exclusive Report by MarketsandMarkets™"
 excerpt: "The Artificial Intelligence (AI) in Military Market is estimated to be USD 9.2 billion in 2023 and is projected to reach USD 38.8 billion by 2028, at a CAGR of 33.3% during the forecast period according to a new report by MarketsandMarkets™."
-publishedDateTime: 2023-05-29T11:42:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/05/29/9822189.htm"
-webUrl: "https://it.tmcnet.com/news/2023/05/29/9822189.htm"
+publishedDateTime: 2023-05-29T10:57:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-military-market-worth-388-billion-/2023/05/29/9822189.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-military-market-worth-388-billion-/2023/05/29/9822189.htm"
 type: article
 quality: 11
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 related:
   - title: "Emerging Markets Report: The Art of Artificial Intelligence"
@@ -36,6 +36,6 @@ related:
         height: 1043
         isCached: true
 
-secured: "BW2pKQ/lB9EfYzdWmLi/xxMWHOh0+YEBb8WpdvAbXBmVBu3pX3pJ2WQ/4GXEsAnIAqz6wZrs7EPCWsXRWnDKxTYQFBsDhk823dVO4VgR3KVqQDPoUg84f8a4vyQTdsUh8icSUyu+oRzQcoE6eo55UW5cF77G+UZiCZkOKTUTPYraa4q+ZInecGmA15+t2ZAhcoO8y4MZ11YIgyVHekyCKy+Jbr648iIjRbcIpsAdznq+yVhTenZ899fjmPOsfYXG2a/y3dA1lgq88v+/NpR2xtc5RRpEgzOZ+0RCGUnb7TM8ib9JrfRLpBl/KYDG/7zcksHxI8UascyCXH7MIU8tPuUZFqvuAtM5SoSMrZHW/bKv20dsMHDdPjxhO5Jn0e/4hNycktu7GxEHv2Imf1//70FgI/NtGhFAV1gxWWFEEjyENsMnndIZA/fs8FJxAi8jxKJjnW4EvaUfG6NlZ5QN13C9lzhmsfvCTwtgF3Lr4CZZsPhVCWqzYcjR2J8gosupRHtFilw7Vvg2UbkB7bo16w==;lCdx+FxP69xuJkH9FC4+SA=="
+secured: "E2D8bm/1+zyFBi1LXX4zYb3Tx9DpKqia6BF1IZRbtPoy7OFXsLO6TLArYBZJS5CNOXJ1Why6OnRBl2wakKSqkvRXJs/GwCVrZHJisvQWbBxBrxn3RSnGzgGlOl+uac21unDKinB5/cJ6/ujMb25uc8ORiWc3t6iXztMWOiBSxgOSnxLt8v9H0mrOndb1Vjsl0b9RXEhCmvw1VmYLt4r/cJ+7G1HUd3ENcE+aX1vF/NWnov1H75/uiJBEI3TgOUZVSR8IE4AQS9reAtXr+CEm18J6lFfDYlSCbzDoXV6uT2e1KijQAZXxHSKiTvNcLRT24mBW+FMtZLTS0F8300Ld4SqSt+u/ORKxXSWFe8rB2x7Q3N6zlfzvpdteT/+ryAPiZYfiLg73AJelI86xtDl3/jQr6SkVhaM+FOPbbJcrtEwhTyF/2xCkuVtNBuDY/rbsCvxdrE4e3zIER0IpIp8fHRCswdxSgkRbGSGib/KdCuuJTp5CfHMPiOAR6ZfDBhQbs/xUugM8LFG8pHi2uAFlkQ==;H3V11OmGaAUZ7S1KBBlkQg=="
 ---
 

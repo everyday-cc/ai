@@ -60,14 +60,16 @@ related:
         height: 467
         isCached: true
   - title: "Insider Q&A: Artificial intelligence and cybersecurity in military tech"
-    excerpt: "Josh Lospinoso’s first cybersecurity startup was acquired in 2017 by Raytheon/Forcepoint.. His second, Shift5, works with the U.S. military, rail operators and airlines including JetBlue. A 2009 West Point grad and Rhodes Scholar,"
-    publishedDateTime: 2023-05-29T16:11:00Z
-    webUrl: "https://www.chron.com/business/article/insider-q-a-artificial-intelligence-and-18124215.php"
+    excerpt: "Lospinoso recently told a Senate Armed Services subcommittee how artificial intelligence can help protect military operations. The CEO/programmer discussed the subject with The Associated Press as well how software vulnerabilities in weapons systems are a major threat to the U."
+    publishedDateTime: 2023-05-29T12:10:00Z
+    webUrl: "https://www.seattletimes.com/business/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/"
+    ampWebUrl: "https://www.seattletimes.com/business/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/?amp=1"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 17
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
 
 secured: "FtOFnlDrld45IkPAI0Pw7wwJDAMX7ENeMqjjq5yuFGrOronKggQ4u/9IkJdMOEWq5hJoERlQRZZdR0ZrIeAiNLIb4udomNtA0Yooll+/79uCcTgHhKr3cMiIuo5/2/EtRjSq8nayt+pTuKSbacUF/mJi5TTr3s3MgvftMdt/wipyaGg+atzwTH1PeVqgff4V6aA69tthOLotnDOhUoUvfuHXeUXsFkVK+OAtTfJYV82s3pEWdPit86DVgbX7kWl2SMsEvB2MxCInNK/YzTBkXuoIYIJuFxCGpOWUGXT1kJSE7oeEx7QXzJfoF0+OMg0oyWTC4O7yQN0WqPg+VyRaWf9uLXsC9PmdWh7Fb+WODfs=;fmMNByT5bNOhrXf5CHbfYw=="
 ---
