@@ -10,7 +10,7 @@
       "originalUrl": "https://english.elpais.com/science-tech/2023-05-29/very-human-questions-about-artificial-intelligence.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -90,58 +90,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-27-how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses.md",
-      "title": "How the generative AI boom could deliver a wave of successful businesses",
-      "excerpt": "Where generative AI startups can start if they want to turn the short-term generative AI hype into long-term growth.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/",
-      "originalUrl": "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_567557479.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-27T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-26-a-call-for-safe-and-ethical-ai-artificial-intelligence-for-health.md",
       "title": "A Call for Safe and Ethical AI (Artificial Intelligence) for Health",
       "excerpt": "The World Health Organisation (WHO) urges caution while employing extensive language model tools (LLMs) produced by artificial intelligence (AI ... including LLMs, to support healthcare professionals, patients, researchers, and scientists.",
@@ -183,6 +131,49 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-how-to-not-let-ai-outsmart-you-in-the-office.md",
+      "title": "How to not let AI outsmart you in the office",
+      "excerpt": "In the era of artificial intelligence (AI), where algorithms continuously evolve and data-driven decision-making prevails, it is crucial for professionals to adapt and avoid being outsmarted by the digital tools that surround them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/tech-startup/news/how-not-let-ai-outsmart-you-the-office-3329781",
+      "originalUrl": "https://www.thedailystar.net/tech-startup/news/how-not-let-ai-outsmart-you-the-office-3329781",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/05/26/ai_in_workplaces.jpg?itok=CtbAklmd",
+          "width": 750,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/tech-startup/news/how-not-let-ai-outsmart-you-the-office-3329781?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/how-not-let-ai-outsmart-you-the-office-3329781?amp",
+      "publishedDateTime": "2023-05-25T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {

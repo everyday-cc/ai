@@ -59,6 +59,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "The ASX stocks that could ride the AI boom like Nvidia"
+    excerpt: "AI has lit a fire underneath tech stocks, but investors are split over whether the innovation will transform business models or end up a fad like blockchain or 3D printing."
+    publishedDateTime: 2023-05-29T06:12:00Z
+    webUrl: "https://www.afr.com/technology/the-asx-stocks-that-could-ride-the-ai-boom-like-nvidia-20230528-p5dbwd"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_377%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/46be6cceef56a10fe8b9ee36c006c5f59be895d3"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "oqt6GTFSIvwl/bKIedmi566FnIGSwqsMDhb+m5nHZLxhZFgLHfk5Cjhg70M36e2KlW1tXGnIBgKtvbfulpgMGFs9YIXSrw5LU1YFJFP4j7xgE/BGW1bagxgqiLRXKpDz/0uUyVJZvR+RCQzmkQ5DBwyBY8ry80vg0lqcUBdajWx88XJil7LG7C4riIAsZ0mOl3uYd+gn2QMHKv7wyGW3x5SjFqp+cZdkbbQWHHTLeIqF+XXBd62dpb5dSQrWyPbA7ldgZ+WS2vqOxfk7arOKSGSwZ65fQPf4XrHUXbZYX0c+Cr2WyVdgMeWUANjtImWYfjWq8rv94ptXRQHlElBL2nNk0etUQzSddMSx+tZPBM0JfLrPHo1bO0lHnnYy2bcgeX2N6Fj07bNBlIVWoZcnaxe1O7OWbiGDGMY3+Rg5i4MK30DJcEtKw40YRc9Ld/02kdDts9RC3wk3GK1to5Iwc70Q/mSwDlTTh+MdXBp1zFw90soxNF93CeUvG2e3yfWfnW7xoJOgPf69SAzsruutoA==;sG82dhk8n3Lk2Q3gLUcoXw=="
 ---

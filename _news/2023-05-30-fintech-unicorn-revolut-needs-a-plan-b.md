@@ -45,7 +45,16 @@ related:
         width: 1000
         height: 559
         isCached: true
+  - title: "UP Fintech posts solid 2023 Q1 results as global expansion scales up"
+    excerpt: "Non-GAAP profit doubled quarter-over-quarter (QoQ) to US$10.33 million, a two-year highNumber of new customer accounts up 40% QoQ, thanks to"
+    publishedDateTime: 2023-05-30T09:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/up-fintech-posts-solid-2023-q1-results-as-global-expansion-scales-up-1032357570"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
-secured: "NkOZvcfBHAwKV7zigRqWkLFfIiBn69xkBS6Jso0Z6xLBE+VAauv/4ql6kcRTICbhzXs45kvfQOtTznOwykjR7Getl/5n/QY6JsGdfVoU3/S3EAcIVqI/pOuycOm4XP9w/62PcYPp1qhOKdn1kS80nE/jT7mnqo9xw2G+wfBPTiffeg24sfjEF26N+x970E1mnWlcqZUEPWwcIquIse6CH+TakgdZqbI/kwf7tz2mmuSB9FLEJrtVVv9aK8e/0VCAUiMYBJ3gLfqqhASABqXXEnMjLe3T5y3H2afjCz25Ax8elVRxkQu3H92uXNU6w4hqWcd/b+F5zGKprpM0RuF0JAuKwQcR7w8jBG7l0pzzlg0=;+eXyh8fgpYwKkzDkKNFc6g=="
+secured: "zUds59b53yA5TneMsKh2XBcnBnoDvTha4cg5+rCeJ0II9kx3soBJhuqLKxw/pjtKjOebAliVE0/S0D0rZ4jCH8GEXczdTn4xWmSgDAPV3+ggs71HdXucnUStD4NhwfYb0U+wxiW98VtgIbqC7rwf/nJ/E4Sp9bGm7pKhadAJGZKisLrzMGHLwG72aggKpyEYNLBKf6f7S1nnR9GobvmExbZHTNkDDr9ejV45fUAfp2CoMD/XJ2TJ5YFDLq4soAn8IF1Tf/oLaoY2ccOS0baLj2UUiwZLjFOGF+95VMcYNNMJ/StI1Ej0NyEtxPqaQz0vmvQjcR7VDRcJRQoFZcHb56gquhvQjkZ4ZYgO+dfbdzKsd1WrEHH7lBhbN22JHtYt6tNTI9WYCFJyhDR1HY2HJ+5j5KrYeNFWBoXrRmGMtA5k/ha0iw1lezEYUgHpV7JL+s7sqjhMbO5O6HID1Zwwmw+pqcJVOCKNXkunUHCXrcD2HzZN5fUsGnl4v8BTzW4ASQV/jfOX+bwJe8zZ+g6smA==;2WhHJumzFd6o4QOeYqffdw=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-27-cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you.md",
+      "title": "Cloud Paves The Way To AI. But Understand What Your Cloud Providers Aren’t Telling You",
+      "excerpt": "That's the word from David Linthicum, chief cloud strategy officer for Deloitte Consulting and author of the just-published book, An Insider's Guide to Cloud Computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/27/cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/27/cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64721da4e3e8f6f090569955/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/27/cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/05/27/cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you/amp/",
+      "publishedDateTime": "2023-05-27T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-27-travelers-to-uk-face-long-waits-amid-systems-problem.md",
       "title": "Travelers to U.K. face long waits amid systems problem",
       "excerpt": "LONDON >> Travelers arriving in the U.K. faced hourslong delays today after a technical problem shut electronic border gates at airports across the country, forcing everyone to have their passports checked manually on what was expected to be one of the busiest travel weekends of the year.",
@@ -355,7 +406,7 @@
       "originalUrl": "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -395,6 +446,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference.md",
+      "title": "Qatar to hold 2nd edition of Fintech Finance Technologies Conference",
+      "excerpt": "The State of Qatar will convene the 2nd edition of Fintech Finance Technologies Conference on May 31, with the participation of several international bodies, banks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference",
+      "originalUrl": "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gulf-times.com/gulftimes/uploads/images/2023/05/26/34940.jpg",
+          "width": 1000,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference/amp",
+      "cdnAmpWebUrl": "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference/amp",
+      "publishedDateTime": "2023-05-26T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf Times",
+        "domain": "gulf-times.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -459,7 +553,7 @@
       "originalUrl": "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 261,
+      "heat": 241,
       "tags": null,
       "images": [
         {
@@ -556,7 +650,7 @@
       "originalUrl": "https://www.hindustantimes.com/technology/jugalbandi-microsoft-ai-chatbot-features-open-source-language-technology-news-ai4bharat-project-101685111840575.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1032,21 +1126,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-26-how-the-ai-boom-could-be-nvidias-iphone-moment.md",
-      "title": "How the AI Boom Could Be Nvidia's 'iPhone Moment'",
-      "excerpt": "The company also provided a revenue forecast for the July quarter way above expectations, citing skyrocketing demand for its artificial intelligence chips with the generative AI boom. Thanks to the surging demand for its artificial intelligence chips,",
+      "path": "_news/2023-05-26-how-to-not-let-ai-outsmart-you-in-the-office.md",
+      "title": "How to not let AI outsmart you in the office",
+      "excerpt": "In the era of artificial intelligence (AI), where algorithms continuously evolve and data-driven decision-making prevails, it is crucial for professionals to adapt and avoid being outsmarted by the digital tools that surround them.",
       "sourceUrl": null,
-      "webUrl": "https://247wallst.com/investing/2023/05/25/how-the-ai-boom-could-be-nvidias-iphone-moment/",
-      "originalUrl": "https://247wallst.com/investing/2023/05/25/how-the-ai-boom-could-be-nvidias-iphone-moment/",
+      "webUrl": "https://www.thedailystar.net/tech-startup/news/how-not-let-ai-outsmart-you-the-office-3329781",
+      "originalUrl": "https://www.thedailystar.net/tech-startup/news/how-not-let-ai-outsmart-you-the-office-3329781",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://247wallst.com/wp-content/uploads/2022/02/imageForEntry10-KvA.jpg?w=400",
-          "width": 400,
-          "height": 224,
+          "url": "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/05/26/ai_in_workplaces.jpg?itok=CtbAklmd",
+          "width": 750,
+          "height": 393,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1054,13 +1148,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://247wallst.com/investing/2023/05/25/how-the-ai-boom-could-be-nvidias-iphone-moment/amp/",
-      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/05/25/how-the-ai-boom-could-be-nvidias-iphone-moment/amp/",
-      "publishedDateTime": "2023-05-25T19:42:00-07:00",
+      "ampWebUrl": "https://www.thedailystar.net/tech-startup/news/how-not-let-ai-outsmart-you-the-office-3329781?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/how-not-let-ai-outsmart-you-the-office-3329781?amp",
+      "publishedDateTime": "2023-05-25T21:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "24/7 Wall St",
-        "domain": "247wallst.com",
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1070,154 +1164,51 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-nvidia-the-chip-maker-that-became-an-ai-superpower.md",
+      "title": "Nvidia: The chip maker that became an AI superpower",
+      "excerpt": "Jensen Huang, now the chief executive of Nvidia, was one of its founders back in 1993. Then, Nvidia was focused on making graphics better for gaming and other applications. In 1999 it developed GPUs to enhance image display for computers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/business-65675027",
+      "originalUrl": "https://www.bbc.co.uk/news/business-65675027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/0784/production/_129842910_jensen_huang-extended.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/business-65675027.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65675027.amp",
+      "publishedDateTime": "2023-05-25T16:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-ai-and-robots-enter-the-toolbox-of-the-construction-industry.md",
-      "title": "AI And Robots Enter The Toolbox Of The Construction Industry",
-      "excerpt": "The construction and development sector is embracing artificial intelligence and robotics to combat labor shortages and attract young talent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bisnow.com/south-florida/news/construction-development/ai-robots-enter-the-toolbox-of-the-construction-industry-119127",
-      "originalUrl": "https://www.bisnow.com/south-florida/news/construction-development/ai-robots-enter-the-toolbox-of-the-construction-industry-119127",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2023%2F05%2F646fc0a3df998-asi-cymba-brandon-spirk-jay-fayette-russ-beck-brad-meltzer-daniell-odess.jpeg&width=1200&sign=RBzGQ2khF0_DQBwgY3jhPTdbwKwCxZWm6sXam5S2PgE",
-          "width": 1200,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T17:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bisnow",
-        "domain": "bisnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-hands-on-with-magic-compose-the-ai-generating-messages-tool.md",
-      "title": "Hands-on with Magic Compose, the AI-generating Messages tool",
-      "excerpt": "I've had some time to play with an early version of Magic Compose, which uses AI to create texts in Messages. It's fun, but unreliable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/magic-compose-experience-3329552/",
-      "originalUrl": "https://www.androidauthority.com/magic-compose-experience-3329552/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2022/04/Google-Messages-SMS-stock-photo-9.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds.md",
-      "title": "This new AI tool will summarize YouTube videos for you in seconds",
-      "excerpt": "The Eightify Chrome extension uses GPT technology to help you cut straight to the main points of any YouTube video.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/",
-      "originalUrl": "https://www.zdnet.com/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5fe72c33f5b53dda3b2c91139d511c53774776a6/2023/05/25/9ab9c403-1132-4194-ba59-922071931410/screenshot-2023-05-25-at-4-00-28-pm.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/",
-      "publishedDateTime": "2023-05-25T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

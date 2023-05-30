@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-30-qualcomm-says-ai-will-demand-more-power-than-just-the-cloud.md",
+      "title": "Qualcomm Says AI Will Demand More Power Than Just the Cloud",
+      "excerpt": "Qualcomm Inc. is betting the future of AI will require more computing power than what the cloud alone can provide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-30/qualcomm-says-ai-will-demand-more-power-than-just-the-cloud",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-30/qualcomm-says-ai-will-demand-more-power-than-just-the-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iV9Pq7ZOJOmM/v1/1200x904.jpg",
+          "width": 1200,
+          "height": 904,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-soxq-etf-front-row-exposure-to-semiconductor-stocks-and-ai.md",
       "title": "SOXQ ETF: Front-Row Exposure to Semiconductor Stocks and AI",
       "excerpt": "On the other hand, I also wouldn’t want to not have exposure to these names, as AI is clearly here to stay and is just getting started on disrupting many industries. Thus, my strategy (not financial advice) with an ETF like this would be to start a ...",
@@ -63,7 +114,7 @@
       "originalUrl": "https://venturebeat.com/ai/mediatek-taps-nvidia-gpu-and-ai-for-connected-car-chipsets/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -115,7 +166,7 @@
       "originalUrl": "https://english.elpais.com/science-tech/2023-05-29/very-human-questions-about-artificial-intelligence.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -159,7 +210,7 @@
       "originalUrl": "https://venturebeat.com/ai/amex-is-experimenting-cautiously-with-generative-ai-for-fintech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -297,7 +348,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/23/05/g32613837/ai-in-drug-discovery-market-is-expected-to-reach-4-0-billion-marketsandmarkets",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -340,7 +391,7 @@
       "originalUrl": "https://newatlas.com/health-wellbeing/smartphone-speech-app-may-spot-alzheimers-early-on/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -392,7 +443,7 @@
       "originalUrl": "https://www.zdnet.com/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -496,7 +547,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -601,7 +652,7 @@
       "originalUrl": "https://www.wsj.com/articles/the-ai-boom-runs-on-chips-but-it-cant-get-enough-9f76f554",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -740,57 +791,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-29-how-generative-ai-can-revolutionize-customization-and-user-empowerment.md",
-      "title": "How generative AI can revolutionize customization and user empowerment",
-      "excerpt": "It's time to look beyond using generative AI tools for simple outputs and focus on computing capabilities for users and large enterprises.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/",
-      "originalUrl": "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=750%2C500&#038;strip=all",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-28-artificial-intelligence-unesco-mobilizes-education-ministers-for-a-co-ordinated-response-to-chatgpt.md",
       "title": "Artificial Intelligence: UNESCO Mobilizes Education Ministers for a Co-ordinated Response to ChatGPT",
       "excerpt": "In response to the emergence of powerful generative AI tools, on Thursday, UNESCO held the first global meeting of Ministers of Education.",
@@ -894,7 +894,7 @@
       "originalUrl": "https://www.forbes.com/sites/bill_stone/2023/05/28/will-the-artificial-intelligence-mania-sink-stocks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -988,6 +988,92 @@
       ]
     },
     {
+      "path": "_news/2023-05-28-conversational-ais-advancement-and-its-implications-on-our-lives.md",
+      "title": "Conversational AI’s advancement and its implications on our lives",
+      "excerpt": "Conversational AI has transformed the landscape of customer service and support. With intelligent voice bots, businesses can provide round-the-clock assistance, instant responses, and personalized interactions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/",
+      "originalUrl": "https://www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/05/Untitled-design56.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/lite/",
+      "publishedDateTime": "2023-05-27T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-28-ai4bharat-putting-india-on-the-global-map-of-cutting-edge-ai-innovation.md",
+      "title": "AI4Bharat: Putting India on the global map of cutting-edge AI innovation",
+      "excerpt": "Launched a year ago, the Nilekani Center at AI4Bhārat has set up a team of close to 200 translators across the country covering 22 Indian languages. Tech billionaire philanthropist Nandan Nilekani is the primary sponsor of the Nilekani Center at AI4Bharat with a focus on developing open-source language tech as a public good.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/ai4bharat-putting-india-on-the-global-map-of-cutting-edge-ai-innovation/articleshow/100554612.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/ai4bharat-putting-india-on-the-global-map-of-cutting-edge-ai-innovation/articleshow/100554612.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/photo/msid-83745775/clean-experience.jpg",
+          "width": 710,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/ai4bharat-putting-india-on-the-global-map-of-cutting-edge-ai-innovation/amp_articleshow/100554612.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ai4bharat-putting-india-on-the-global-map-of-cutting-edge-ai-innovation/amp_articleshow/100554612.cms",
+      "publishedDateTime": "2023-05-27T17:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-28-microsoft-integrates-nvidias-ai-enterprise-suite-with-azure-machine-learning.md",
       "title": "Microsoft integrates Nvidia’s AI Enterprise Suite with Azure Machine Learning",
       "excerpt": "Microsoft is integrating Nvidia’s AI Enterprise software suite with its Azure Machine Learning service to help enterprise developers build, deploy, and manage applications based on large ...",
@@ -996,7 +1082,7 @@
       "originalUrl": "https://www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 333,
+      "heat": 443,
       "tags": null,
       "images": [
         {
@@ -1124,109 +1210,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you.md",
-      "title": "Cloud Paves The Way To AI. But Understand What Your Cloud Providers Aren’t Telling You",
-      "excerpt": "That's the word from David Linthicum, chief cloud strategy officer for Deloitte Consulting and author of the just-published book, An Insider's Guide to Cloud Computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/27/cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/27/cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64721da4e3e8f6f090569955/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/27/cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/05/27/cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you/amp/",
-      "publishedDateTime": "2023-05-27T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses.md",
-      "title": "How the generative AI boom could deliver a wave of successful businesses",
-      "excerpt": "Where generative AI startups can start if they want to turn the short-term generative AI hype into long-term growth.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/",
-      "originalUrl": "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_567557479.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-27T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

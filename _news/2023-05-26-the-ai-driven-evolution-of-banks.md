@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-05-ai-driven-evolution-banks.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-ai-driven-evolution-banks.amp"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,50 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How generative AI can revolutionize customization and user empowerment"
-    excerpt: "It's time to look beyond using generative AI tools for simple outputs and focus on computing capabilities for users and large enterprises."
-    publishedDateTime: 2023-05-28T23:10:00Z
-    webUrl: "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Generative AI poised to reshape workplace efficiency, revolutionize jobs: KPMG study"
-    excerpt: "A survey of 225 U.S. executives by KPMG aims to illuminate key insights and concerns regarding the implementation of generative AI."
-    publishedDateTime: 2023-05-25T21:50:00Z
-    webUrl: "https://venturebeat.com/ai/generative-ai-poised-to-reshape-workplace-efficiency-revolutionize-jobs-kpmg-study/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 62
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/AI-Time-Out-high.jpg?w=1200&strip=all"
-        width: 1200
-        height: 688
-        isCached: true
-  - title: "Conversational AI’s advancement and its implications on our lives"
-    excerpt: "Conversational AI has transformed the landscape of customer service and support. With intelligent voice bots, businesses can provide round-the-clock assistance, instant responses, and personalized interactions."
-    publishedDateTime: 2023-05-28T06:29:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/Untitled-design56.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The AI revolution can put patients at the centre of NHS"
     excerpt: "A robot shows patients around ... and a cardiologist who has developed an AI tool that allows non-specialists to accurately read heart scans. The Sheba Medical Center, Israel’s biggest hospital, has a portfolio of tech start-ups worth $2 billion, several ..."
     publishedDateTime: 2023-05-26T07:54:00Z

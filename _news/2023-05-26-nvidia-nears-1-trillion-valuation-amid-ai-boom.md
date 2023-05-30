@@ -41,6 +41,36 @@ related:
         width: 1200
         height: 620
         isCached: true
+  - title: "NVIDIA's next DGX supercomputer is all about generative AI"
+    excerpt: "NVIDIA CEO Jensen Hiang made a string of announcements during his Computex keynote, including details about the company’s next DGX supercomputer. Given where the industry is clearly heading, it shouldn’t come as a surprise that the DGX GH200 is largely about helping companies develop generative AI models."
+    publishedDateTime: 2023-05-29T04:33:00Z
+    webUrl: "https://www.engadget.com/nvidias-next-dgx-supercomputer-is-all-about-generative-ai-043053544.html"
+    ampWebUrl: "https://www.engadget.com/amp/nvidias-next-dgx-supercomputer-is-all-about-generative-ai-043053544.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nvidias-next-dgx-supercomputer-is-all-about-generative-ai-043053544.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/oSI4q9uVuwV7MEZuGjHxYg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/e876fd10-fbe8-11ed-bcbf-0f9780637f7b.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Nvidia reveals ridiculous supercomputer built to create next-gen AI"
+    excerpt: "Nvidia has revealed its next-generation supercomputer, the DGX GH200, which is built to handle the development of gigantic next-generation AI models."
+    publishedDateTime: 2023-05-29T09:31:00Z
+    webUrl: "https://www.dexerto.com/tech/nvidia-reveals-ridiculous-supercomputer-built-to-create-next-gen-ai-2159061/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 41
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/29/Nvidia-Supercomputer.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Nvidia announces large-memory DGX GH200 for generative AI"
     excerpt: "Nvidia has announced a new DGX class, the GH200, for generative AI workloads. The DGX GH200 connects up to 256 Grace Hopper Superchips into a single 144TB GPU system. The superchip is itself a combination of Nvidia's Grace Arm CPU and Hopper GPU,"
     publishedDateTime: 2023-05-29T04:49:00Z
@@ -55,15 +85,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nvidia, On Its Way to $1 Trillion Market Value, Just Confirmed That AI Hype Is Real"
-    excerpt: "Nvidia CEO Jensen Huang said generative AI is now becoming \"the primary workload of most of the world's data centers generating information\"."
-    publishedDateTime: 2023-05-25T15:46:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-on-its-way-to-1-trillion-just-confirmed-ai-hype-is-real"
+  - title: "Nvidia races towards $1tn club as AI frenzy drives chip stocks higher"
+    excerpt: "Nvidia’s blowout sales forecast has set the Silicon Valley company on course to become the first chipmaker to be valued at more than $1tn, as booming demand for its artificial intelligence processors drove semiconductor stocks higher on Thursday."
+    publishedDateTime: 2023-05-25T20:12:00Z
+    webUrl: "https://www.ft.com/content/b074781a-683f-4b20-8c70-33bb71399d94"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 13
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
+  - title: "NVIDIA Announces DGX GH200 AI Supercomputer"
+    excerpt: "NVIDIA today announced a new class of large-memory AI supercomputer — an NVIDIA DGX ™ supercomputer powered by NVIDIA ® GH200 Grace Hopper Superchips and the NVIDIA NVLink ® Switch System — created to enable the development of giant,"
+    publishedDateTime: 2023-05-29T05:52:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/29/9822132.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
 
 secured: "SwhD9FswY2nHklTDBdCcO4Wuf2fRFx8blAFieqt+y00lkK9fKCdwYVy5u3untCpOZ1umSoPfo0GFtxvofb9YHoER+O+2G32lGw4xp6BpuWKm4R9GhN47KzMQuezXy+/ECLBnVdVq2ZdHs/x/+1/lWAbNQfMU6u140vmn1wPjz7wyZpMKnLLE6KmBJxtrIZdxgqKlnQOnGiCmsU8FsR6ncJQPsDMMZ9pCT5CZMGf0WwsD9G7LlwVELfCIbzwUdTh/kKDlF/ZN7xl8Y/wbhFDJ9WLKT5Gx/S5n68e6hvbhwa3JD9wHtT2rNQwAJykq/yioaei2zLMQBDUpSNnZj8qZrA1maEBEDWgeTHX52kGnUIw=;mEoFBxSLwbXKyBiaYEkIYA=="
 ---

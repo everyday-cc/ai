@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Weak Gaming GPU Sales Don't Matter for Nvidia as It Faces AI Gold Rush"
-    excerpt: "Nvidia's stock skyrockets after the company reports it expect revenue next quarter to hit $11 billion on demand for chips that can power generative AI."
-    publishedDateTime: 2023-05-25T15:13:00Z
-    webUrl: "https://www.pcmag.com/news/weak-gaming-gpu-sales-dont-matter-for-nvidia-as-it-faces-ai-gold-rush"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 101
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03VpWdOi9ptp95GOTFMU3Fw-1.fit_lim.size_1200x630.v1685024253.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Microsoft: We Need a New Government Agency to Regulate AI"
     excerpt: "The company also calls for governments to implement a licensing system to ensure companies deploy 'highly capable AI' models responsibly."
     publishedDateTime: 2023-05-25T19:47:00Z
@@ -68,6 +54,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/02aNS4J1EimGiO8IyBqQRzr-1.fit_lim.size_1200x630.v1685039521.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "MediaTek Adopts Nvidia Tech for Automotive AI and Chips"
+    excerpt: "The Taiwanese chipmaker, a rival to Qualcomm Inc. in equipping smartphones with silicon, announced it will integrate new Nvidia graphics hardware and AI technologies in its forthcoming cabin solutions. San Diego-based Qualcomm, along with Nvidia ..."
+    publishedDateTime: 2023-05-29T23:37:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-29/mediatek-adopts-nvidia-tech-for-automotive-ai-and-chips"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igA.RuE918aI/v1/1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "5 points to govern AI: Microsoft’s recommended guardrails for the future"
     excerpt: "This post is the foreword written by Brad Smith for Microsoft’s report Governing AI: A Blueprint for the Future. The first part of the report details five ways governments should consider policies, laws,"
@@ -84,6 +84,48 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
         width: 772
         height: 434
+        isCached: true
+  - title: "Microsoft Gets Price-Target Hike On 'Jaw-Dropping' Nvidia Guidance: 'Direct AI Barometer For Redmond'"
+    excerpt: "Daniel Ives maintained an Outperform rating and increased his price target from $340 to $375. The Microsoft Thesis: Microsoft's resilient cloud deal flow and AI monetization opportunity make Wedbush more bullish on the software giant,"
+    publishedDateTime: 2023-05-30T08:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-gets-price-target-hike-on-jaw-dropping-nvidia-guidance-direct-ai-barometer-for-redmond-1032357546"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Microsoft_Stock_Photo_by_JOCA_PH_on_Shutterstock_0.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Nvidia Isn’t The Only One Getting a Massive AI Boost"
+    excerpt: "Memory chips are in a slump. Thankfully, artificial intelligence has a huge appetite that will benefit the likes of Samsung, SK Hynix and Micron."
+    publishedDateTime: 2023-05-29T20:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-05-29/nvidia-isn-t-the-only-one-getting-a-massive-ai-boost"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inhXHhwFhi2Y/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Nvidia Envy, Powered by AI and a Frenzy of Hype"
+    excerpt: "The gains are jaw-dropping and everyone’s rushing to the AI bandwagon. But pause to reflect on the early internet and first-movers who didn’t survive."
+    publishedDateTime: 2023-05-26T04:49:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-05-26/nvidia-envy-market-shock-powered-by-ai-and-a-frenzy-of-hype"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivTvuAUNN83g/v1/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "WPP, Nvidia Team Up to Build AI-Enabled Content Engine"
     excerpt: "WPP is teaming up with Nvidia to develop a content engine that uses generative AI for digital advertising."
@@ -186,6 +228,22 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Amazon Was the Rare AI and Cloud Play Left Out of the Nvidia Bump. Here’s Why."
+    excerpt: "Amazon is the world's largest cloud-computing company. But investors ignored the stock on a day when many other plays were up sharply."
+    publishedDateTime: 2023-05-26T01:55:00Z
+    webUrl: "https://www.barrons.com/articles/amazon-misses-rally-8a6e2511"
+    ampWebUrl: "https://www.barrons.com/amp/articles/amazon-misses-rally-8a6e2511"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amazon-misses-rally-8a6e2511"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 55
+    images:
+      - url: "https://images.barrons.com/im-789325/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Microsoft calls for a new U.S. agency and licensing for AI"
     excerpt: "Smith compared AI to the printing press, elevators and food safety for ... His call for a new agency echoes proposals from OpenAI, the startup behind the wildly popular ChatGPT, which received a $10 billion investment from Microsoft."
     publishedDateTime: 2023-05-25T17:37:00Z
@@ -197,6 +255,38 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "Nvidia Unveils More Gen AI Products"
+    excerpt: "Chipmaker Nvidia (NVDA) has been making headlines with its extensive new lineup of AI product launches and services. At the Computex"
+    publishedDateTime: 2023-05-29T08:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-unveils-more-gen-ai-products-1032356256"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Five things to know about AI chip maker Nvidia and why everyone is talking about it"
+    excerpt: "Nvidia made a splash after its mammoth quarterly report and stock boost. Here's what you should know about the company if you're new to it."
+    publishedDateTime: 2023-05-29T02:45:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/five-things-know-nvidia-and-everyone-talking/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 48
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/05/nvidia-gpu.jpg"
+        width: 1466
+        height: 710
+        isCached: true
+  - title: "Nvidia Stock Surges Off Huge AI-Focused Earnings Report"
+    excerpt: "Here’s the latest on the Nvidia earnings report and who the biggest winners - and losers - were off the back of it."
+    publishedDateTime: 2023-05-26T12:04:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/05/26/nvidia-stock-surges-off-huge-ai-focused-earnings-report/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "KPI Partners achieves Microsoft Azure Solutions Partner Designation for Data & AI"
     excerpt: "May 17, 2023 /PRNewswire/ -- KPI Partners, a global trusted strategic partner for Analytics and Digital Transformation solutions, announced today that it has achieved Microsoft Azure Solution Partner status in Data & AI. This recognition showcases the ..."
     publishedDateTime: 2023-05-25T18:37:00Z
@@ -206,6 +296,48 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 44
+  - title: "Nvidia gears up for AI-fueled data center boom"
+    excerpt: "The company projects a 10-year transition where data centers are reclaimed and built out as accelerated computing to support generative AI adoption."
+    publishedDateTime: 2023-05-25T21:00:00Z
+    webUrl: "https://www.ciodive.com/news/Nvidia-earnings-generative-AI-GPU-TPU-data-centers/651328/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/imgproxy/XNQoxz-_plEGhHQU6obzgrF85F9pYno_U8mnsqMERhg/crop:3000:1695/g:nowe:0:281/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTk1NzAzNzAxOC5qcGc.jpg"
+        width: 770
+        height: 435
+        isCached: true
+  - title: "Nvidia Stock Rides the AI Wave With More to Come"
+    excerpt: "With its 25% post-earnings surge on Thursday, the stock is now up 161% this year on the promise that the company’s chips will power the future of AI. So what kind of sorcery is this? And why are investors willing to pay 186 times current earnings to ..."
+    publishedDateTime: 2023-05-25T17:33:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/05/25/nvidia-stock-rides-the-ai-wave-with-more-to-come/e42d26ac-fb21-11ed-bafc-bf50205661da_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4MP7AKH3EEI63OX4X5ICAVTB3I.jpg&w=1440"
+        width: 1440
+        height: 901
+        isCached: true
+  - title: "Nvidia is not the only firm cashing in on the AI gold rush"
+    excerpt: "A GREY RECTANGULAR building on the outskirts of San Jose houses rows upon rows of blinking machines. Tangles of colourful wires connect high-end servers, networking gear and data-storage systems. Bulky air-conditioning units whirr overhead. The noise forces visitors to shout."
+    publishedDateTime: 2023-05-29T19:34:00Z
+    webUrl: "https://www.economist.com/business/2023/05/29/nvidia-is-not-the-only-firm-cashing-in-on-the-ai-gold-rush"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230603_WBD001.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "MediaTek, NVIDIA to Transform Automobiles with AI & Accelerated Computing"
     excerpt: "AI and accelerated computing are fueling the transformation of the entire auto industry. The combination of MediaTek’s industry-leading system-on-chip plus NVIDIA’s GPU and AI software technologies will enable new user experiences, enhanced safety and new connected services for all vehicle segments, from luxury to entry-level."
     publishedDateTime: 2023-05-29T07:18:00Z
@@ -234,6 +366,29 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "How Nvidia created the chip powering the generative AI boom"
+    excerpt: "“This is important as it lets us all train bigger models faster as this moves from a research to an engineering problem.” While the timing of the H100’s launch was ideal, Nvidia’s breakthrough in AI can be traced back almost two decades to an ..."
+    publishedDateTime: 2023-05-26T16:52:00Z
+    webUrl: "https://www.ft.com/content/315d804a-6ce1-4fb7-a86a-1fa222b77266"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 36
+  - title: "NVIDIA Grace Hopper enters full production, with insane AI supercomputer coming"
+    excerpt: "Grace Hopper Superchips are on track for late 2023 and the new NVIDIA DGX GH200 AI Supercomputer connects 256 of them in a 1-Exaflop beast."
+    publishedDateTime: 2023-05-29T10:22:00Z
+    webUrl: "https://www.tweaktown.com/news/91635/nvidia-grace-hopper-enters-full-production-with-insane-ai-supercomputer-coming/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 35
+    images:
+      - url: "https://static.tweaktown.com/news/9/1/91635_01_nvidia-grace-hopper-enters-full-production-with-insane-ai-supercomputer-coming_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
   - title: "MediaTek and Nvidia to develop AI cabin solutions for software-defined vehicles"
     excerpt: "MediaTek will work with Nvidia to deliver automotive solutions that surpass the industry’s growing needs and demands while posing a significant market opportunity for the companies."
     publishedDateTime: 2023-05-30T05:42:00Z
@@ -248,24 +403,6 @@ related:
         width: 1502
         height: 845
         isCached: true
-  - title: "Deepfakes are biggest AI concern, says Microsoft president"
-    excerpt: "In Washington speech, Brad Smith calls for steps to ensure people know when a photo or video is generated by AI"
-    publishedDateTime: 2023-05-25T16:01:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/25/deepfakes-ai-concern-microsoft-brad-smith"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 34
-  - title: "GEP USES MICROSOFT AZURE OPENAI SERVICE TO ENHANCE ITS PROCUREMENT & SUPPLY CHAIN SOFTWARE SOLUTIONS"
-    excerpt: "GEP has integrated Microsoft Azure OpenAI Service into its flagship software that enables clients to identify potential risks and optimize procurement and supply chain operations"
-    publishedDateTime: 2023-05-25T15:05:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/25/9821322.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
   - title: "Microsoft wants licences for powerful AI tools"
     excerpt: "Microsoft is calling for a new US agency to regulate artificial intelligence and licensing requirements to operate the most powerful AI tools, company president Brad Smith said Thursday."
     publishedDateTime: 2023-05-26T05:58:00Z
@@ -274,6 +411,15 @@ related:
     provider:
       name: MyBroadband
       domain: mybroadband.co.za
+    quality: 34
+  - title: "Nvidia AI Enterprise moves to Azure"
+    excerpt: "Nvidia is integrating its Nvidia AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives. The integration will create a secure, enterprise-ready platform that enables Azure customers worldwide to quickly build,"
+    publishedDateTime: 2023-05-26T09:43:00Z
+    webUrl: "https://it-online.co.za/2023/05/26/nvidia-ai-enterprise-moves-to-azure/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
     quality: 34
   - title: "Habu Announces Collaboration With Microsoft Azure to Deliver Zero-Trust Data Clean Room"
     excerpt: "Habu, a global innovator in data clean room software, has announced a collaboration with Microsoft Azure to integrate its"

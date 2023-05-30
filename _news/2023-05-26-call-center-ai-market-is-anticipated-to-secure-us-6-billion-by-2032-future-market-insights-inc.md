@@ -58,15 +58,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 12
-  - title: "The Market Value of Mobile Speech Recognition Software is Projected to Reach US$ 25.4 Billion by 2032 | Future Market Insights,Inc."
-    excerpt: "The market for mobile speech recognition software is anticipated to grow to a value of US$ 3.3 billion in 2022 and to US$ 25.4 billion by 2032, with a CAGR of 22.5% during the five-year forecast period."
-    publishedDateTime: 2023-05-25T15:34:00Z
-    webUrl: "https://www.fmiblog.com/2023/05/25/the-market-value-of-mobile-speech-recognition-software-is-projected-to-reach-us-25-4-billion-by-2032-future-market-insightsinc/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
 
 secured: "I/laZ6BUZb+CrfXBShKrISMdB571nHF+s4/9tRBiG6wRfkCxD01/kTx98vvMjaPIfwMbNxm++RPx/XkRgQo52dHnOkXCtJyDom1f+iwjSjQjVTtslzqBpWNisLBvYImkqQQ3Lr7HYiTU0tOvShm8/MvGx4d6qs0VnNJhivAuo97OaRjQOczDC6Kvtjkd6v9tWG56LbVVgRCBlAu0Z+2GSqJ3RgeA+JUQt5jvCNk0G50dhFM1fm5ABPF6kHhV4AUfj4ih5juM95sfBkWFVAIByHZuEUw/TOH72D37SCjKq8ICMnNAKO83awAXZw6Gj1U+UoWNPjNdDWnnw1xw9YOsoEKSo1iFKQIbK7QjUckmnx8=;wYmu3RFXFW06AZM0S0OL/A=="
 ---

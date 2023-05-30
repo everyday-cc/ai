@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How the AI Boom Could Be Nvidia's 'iPhone Moment'"
-    excerpt: "The company also provided a revenue forecast for the July quarter way above expectations, citing skyrocketing demand for its artificial intelligence chips with the generative AI boom. Thanks to the surging demand for its artificial intelligence chips,"
-    publishedDateTime: 2023-05-26T02:42:00Z
-    webUrl: "https://247wallst.com/investing/2023/05/25/how-the-ai-boom-could-be-nvidias-iphone-moment/"
-    ampWebUrl: "https://247wallst.com/investing/2023/05/25/how-the-ai-boom-could-be-nvidias-iphone-moment/amp/"
-    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/05/25/how-the-ai-boom-could-be-nvidias-iphone-moment/amp/"
+  - title: "Qualcomm Says AI Will Demand More Power Than Just the Cloud"
+    excerpt: "Qualcomm Inc. is betting the future of AI will require more computing power than what the cloud alone can provide."
+    publishedDateTime: 2023-05-30T09:07:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-30/qualcomm-says-ai-will-demand-more-power-than-just-the-cloud"
     type: article
     provider:
-      name: 24/7 Wall St
-      domain: 247wallst.com
-    quality: 61
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://247wallst.com/wp-content/uploads/2022/02/imageForEntry10-KvA.jpg?w=400"
-        width: 400
-        height: 224
-        isCached: true
-  - title: "Nvidia's 'iPhone moment' in AI signals tons of future growth. Here's our new price target"
-    excerpt: "Jim Cramer, a supporter of Nvidia since at least 2017, recently designated it the Club's second own-it-don't-trade-it stock."
-    publishedDateTime: 2023-05-25T15:38:00Z
-    webUrl: "https://www.cnbc.com/2023/05/25/nvidia-iphone-moment-in-ai-signals-tons-of-future-growth-new-price-target.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 60
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106747420-1602840895304-GettyImages-902419318_1.jpg?v=1685036232&w=1920&h=1080"
-        width: 1920
-        height: 1080
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iV9Pq7ZOJOmM/v1/1200x904.jpg"
+        width: 1200
+        height: 904
         isCached: true
 
 secured: "PoNu2x9MA0t+Vmgbls5yUGGZqu8iOmYnjAG2AQ0/bCBI2Mem0m4z1SwVG7kG8RgXBn58B22oUaSYbhkoX+aBgzp16lmtboOxKEDgZOhIkzVcRa2z6n/LVYWGre4Gsx68pYmDJTGB+fn37Z6G4PhnJ89Q68nVveUCpYNLy6QlrjZ5Bb1t983W4fRffndthvxRr1kE4FU460R84gKIi36/6XPZN96wM9MoziOoMMTZxs3FvJMvxZGn+WjmsfqvoVLL5NWKFzWxE0BiIxy6T/7fOYWnxD7asxWYvwPEdo/60r0OT+hwqzq/aLFVmhgZQurO0OuhvHWpefS6PZSlnTkKl6VapV3Y75PoPQkwtwtsCfE=;YHzADzTedtkkLtl+Zgp4DQ=="

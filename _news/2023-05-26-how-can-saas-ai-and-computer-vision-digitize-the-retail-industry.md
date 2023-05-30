@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 819
         isCached: true
-  - title: "Dissecting the EU’s Artificial Intelligence Act: Implications and Industry Reaction"
-    excerpt: "As artificial intelligence (AI) rapidly integrates into the fabric of our society, regulators worldwide are grappling with the conundrum of creating a comprehensive framework that guides AI usage. Pioneering a move in this direction,"
-    publishedDateTime: 2023-05-25T20:19:00Z
-    webUrl: "https://www.unite.ai/dissecting-the-eus-artificial-intelligence-act-implications-and-industry-reaction/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 33
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/05/christian-lue-C241mbgtgys-unsplash-996x600.jpg"
-        width: 996
-        height: 600
-        isCached: true
 
 secured: "LrtBruP0RRk9Sc5xPi2pMeHGpaw5qudAsOPnfU6IclCgdpI8FEm3lIXf+9J0d32eKstJx/IIypE3X4ZmXB/OZ1Kgpoy0qa4zWOsJxPg1NaY+5rVjY4ybi/DoKaAH+xK+cXBN1cxtIpAvKqn02xXLmuYi5XmSX5K1U6w0hbeWuQhJkSgzG2TFzPvfnKCwT3Vdf+Vy51dZmf2Sej4a9Sq7RxwRgvPT3V6x8LwTOsAKDtOhX1DNMzy2vUaRqnSkDxNE+enbAGRl/X4hvnQI1FqVcjiG8Ht5zPfoUiFNN1F6SaAj9w18b6vOCpwnsaedPvJvf/yAvS0DmGEllTzK4CGIRb76RRFHRytrQ3TY5AF6fgo=;PXcP36yhmfWbwUqIokXWgw=="
 ---

@@ -38,20 +38,17 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google's AI Magic Compose Beta Goes Live For Select Users"
-    excerpt: "Magic Compose can initiate a chat or rewrite a message with seven different tones and styles with the help of Google Bard. The beta is being rolled out for US-based premium Google One subscribers first."
-    publishedDateTime: 2023-05-28T16:37:00Z
-    webUrl: "https://www.pcmag.com/news/googles-ai-magic-compose-beta-goes-live-for-select-users"
+  - title: "Empowering the future generation: The advantages of educating students in the new age era of AI"
+    excerpt: "Artificial intelligence (AI) has become a revolutionary force in the quickly changing world of technology, altering various sectors and our daily lives. As AI develops, it is more crucial than ever to get the"
+    publishedDateTime: 2023-05-27T09:53:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/00YXyCobqmXmK47unUvQkkC-1.fit_lim.size_1200x630.v1685291531.png"
-        width: 1120
-        height: 630
-        isCached: true
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 27
   - title: "Google’s encryption-breaking Magic Compose AI proves iPhone shouldn’t support RCS messaging"
     excerpt: "Google Messages' Magic Compose AI feature breaks encryption. Here's why that's bad news for Apple bringing RCS to iMessage on iPhone."
     publishedDateTime: 2023-05-29T12:43:00Z

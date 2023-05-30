@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd
 cdnAmpWebUrl: "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Gulf Times
@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "UP Fintech posts solid 2023 Q1 results as global expansion scales up"
+    excerpt: "Non-GAAP profit doubled quarter-over-quarter (QoQ) to US$10.33 million, a two-year highNumber of new customer accounts up 40% QoQ, thanks to"
+    publishedDateTime: 2023-05-30T09:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/up-fintech-posts-solid-2023-q1-results-as-global-expansion-scales-up-1032357570"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "KzUec5Y6gBD2RnH6yxh0ft/1yaGOGqy94KNmscFLiSQ6jYSo2KGR0KrUG28t5ktqltbuUmd+bMMA2vtNbwhqbJLPH2ZpBnysEpdxZFh64c29frOFosux/OJm9vIQBmmOlkcfc/YYuD24TQVpKQyiQ+RF0CZ4gyZURWxgIGE+gsVTml9S4hzR5O3kzx3CvqpNENIU6QZrqs1kKhjRlHMCvetZE6q197H0P814DcZOHLdk+BtLo25Q39FQfZTtsE2dmHd/HnMEZGfxaHZS2dvLMOaaOBbMrHZ7jAW4Grle5lbDjSenFQoqxgxtyXFxixSZKhQKUgqJyPRfXpSZczqQzUPdy+ZFyyeyWqpUpju6Mvg=;VefzVf3bYoO+RdLkR5rB6g=="
 ---

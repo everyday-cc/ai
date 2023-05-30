@@ -36,6 +36,17 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Microsoft’s Jugalbandi: Know about AI-powered multilingual chatbot"
+    excerpt: "Microsoft has launched a new generative AI chatbot called Jugalbandi, a multilingual chatbot accessible via WhatsApp. “The Jugalbandi AI assistant is powered by language models from AI4Bharat, a government-backed initiative, and reasoning models from Microsoft Azure OpenAI Service,” the tech giant wrote in a blog post."
+    publishedDateTime: 2023-05-30T09:30:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/microsofts-jugalbandi-know-about-ai-powered-multilingual-chatbot/article66911141.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsofts-jugalbandi-know-about-ai-powered-multilingual-chatbot/article66911141.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsofts-jugalbandi-know-about-ai-powered-multilingual-chatbot/article66911141.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 56
   - title: "Talk to the bot? An AI chatbot may be your next therapist"
     excerpt: "Pandemic stresses led to millions more Americans seeking mental health treatment, so it may prove tempting for insurers to offer up apps and chatbots to meet the mental health parity requirement."
     publishedDateTime: 2023-05-29T15:39:00Z

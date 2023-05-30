@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/technology/jugalbandi-microsoft-ai-ch
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/jugalbandi-microsoft-ai-chatbot-features-open-source-language-technology-news-ai4bharat-project-101685111840575-amp.html"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft’s Jugalbandi: Know about AI-powered multilingual chatbot"
+    excerpt: "Microsoft has launched a new generative AI chatbot called Jugalbandi, a multilingual chatbot accessible via WhatsApp. “The Jugalbandi AI assistant is powered by language models from AI4Bharat, a government-backed initiative, and reasoning models from Microsoft Azure OpenAI Service,” the tech giant wrote in a blog post."
+    publishedDateTime: 2023-05-30T09:30:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/microsofts-jugalbandi-know-about-ai-powered-multilingual-chatbot/article66911141.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsofts-jugalbandi-know-about-ai-powered-multilingual-chatbot/article66911141.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsofts-jugalbandi-know-about-ai-powered-multilingual-chatbot/article66911141.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 56
   - title: "Microsoft Launches 'Jugalbandi', An AI-Based Multilingual Chatbot For Rural India"
     excerpt: "Microsoft has unveiled a new generative AI-driven chatbot called 'Jugalbandi', designed for farmers and other users living in rural India."
     publishedDateTime: 2023-05-27T13:24:00Z

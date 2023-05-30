@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "IBM Consulting unveils Center of Excellence for generative AI"
-    excerpt: "IBM Consulting has established a Center of Excellence for generative AI. It stands alongside IBM Consulting&#8217;s existing global AI and Automation practice, which includes 21,000 data and AI consultants who have conducted over 40,000 enterprise client engagements. The Center of Excellence (CoE) already"
-    publishedDateTime: 2023-05-25T16:00:53Z
-    webUrl: "https://www.ibm.com/blog/ibm-consulting-unveils-center-of-excellence-for-generative-ai/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/IBM-Consulting-unveils-Center-of-Excellence-for-generative-AI-1-scaled.jpg"
-        width: 2560
-        height: 1280
-        isCached: true
   - title: "Google ads will be customized for you using generative AI"
     excerpt: "Lastly, Google is incorporating generative AI in Performance Max ad campaigns to assist businesses in the creation of custom assets. This feature will also be available in the new conversational experience in Google Ads."
     publishedDateTime: 2023-05-25T19:58:00Z
@@ -67,21 +53,49 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "IBM Shows Its Full-Stack Generative AI Offering Could Be A Force To Reckon With"
-    excerpt: "it hasn't been caught up in the consumer-facing AI frenzy driven by OpenAI, Microsoft, Google and others. However, over the years, IBM has significantly contributed to the field, most famously with the cognitive computing platform IBM Watson. For a ..."
-    publishedDateTime: 2023-05-25T16:57:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/25/ibm-shows-its-full-stack-generative-ai-offering-could-be-a-force-to-reckon-with/"
-    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/25/ibm-shows-its-full-stack-generative-ai-offering-could-be-a-force-to-reckon-with/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/25/ibm-shows-its-full-stack-generative-ai-offering-could-be-a-force-to-reckon-with/amp/"
+  - title: "Google starts opening up access to its new generative AI capabilities in Search"
+    excerpt: "Google announced today that it's starting to open up access to new generative AI capabilities in Search after teasing them at I/O."
+    publishedDateTime: 2023-05-25T20:52:00Z
+    webUrl: "https://techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/"
+    ampWebUrl: "https://techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646f91be35b7dfa61705ca3b/0x0.jpg?format=jpg&crop=1073,604,x0,y80,safe&width=1200"
-        width: 1073
-        height: 604
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/google-search-labs-open.png?resize=1200,796"
+        width: 1200
+        height: 796
+        isCached: true
+  - title: "How the generative AI boom could deliver a wave of successful businesses"
+    excerpt: "Where generative AI startups can start if they want to turn the short-term generative AI hype into long-term growth."
+    publishedDateTime: 2023-05-27T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 68
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_567557479.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Where Memory Ends and Generative AI Begins"
+    excerpt: "New photo manipulation tools from Google and Adobe are blurring the lines between real memories and those dreamed up by AI."
+    publishedDateTime: 2023-05-26T10:00:00Z
+    webUrl: "https://www.wired.com/story/where-memory-ends-and-generative-ai-begins/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/646ff414d96882f74caa3dc7/191:100/w_1280,c_limit/Where-Memory-Ends-and-Generative-AI-Begins-Gear-GettyImages-690638821.jpg"
+        width: 1280
+        height: 670
         isCached: true
   - title: "4 trends shaping the future of practical generative AI"
     excerpt: "How will enterprises be thinking about and integrating generative AI as the technology grows ubiquitous? Here are some of the ways:"
@@ -96,6 +110,34 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_business_transformation_concept._technology_futuristic_e_99a9e0a2-4fe3-4416-b96c-b91028eb6b11.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Google's AI Magic Compose Beta Goes Live For Select Users"
+    excerpt: "Magic Compose can initiate a chat or rewrite a message with seven different tones and styles with the help of Google Bard. The beta is being rolled out for US-based premium Google One subscribers first."
+    publishedDateTime: 2023-05-28T16:37:00Z
+    webUrl: "https://www.pcmag.com/news/googles-ai-magic-compose-beta-goes-live-for-select-users"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/00YXyCobqmXmK47unUvQkkC-1.fit_lim.size_1200x630.v1685291531.png"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "How generative AI can revolutionize customization and user empowerment"
+    excerpt: "It's time to look beyond using generative AI tools for simple outputs and focus on computing capabilities for users and large enterprises."
+    publishedDateTime: 2023-05-28T23:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=750%2C500&#038;strip=all"
+        width: 750
+        height: 500
         isCached: true
   - title: "IBM Consulting introduces Center of Excellence for generative AI to empower business transformation"
     excerpt: "implementing and managing generative AI solutions. This approach involves integrating multiple models from industry-leading providers on various cloud platforms. Furthermore, with the cutting-edge innovations from IBM Research and the capabilities of the ..."
@@ -138,20 +180,6 @@ related:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/05/28113928/chatgpt-gf38b3317c_640.jpg"
         width: 640
         height: 359
-        isCached: true
-  - title: "Arm unveils TCS23, driving immersive experiences and new-generation AI applications"
-    excerpt: "Arm held a new product launch event at COMPUTEX 2023, unveiling the \"2023 Total Compute Solution\" (TCS23). Chris Bergey, Senior Vice President and General Manager of Arm's Client Line of Business, stated that TCS23 includes the new Arm Immortalis GPU based on the Arm fifth-generation GPU architecture,"
-    publishedDateTime: 2023-05-29T06:43:00Z
-    webUrl: "https://www.digitimes.com/news/a20230529PD207/arm-computex-2023-ic-design-distribution.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 33
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230529pd207_files/2_b.jpg"
-        width: 640
-        height: 427
         isCached: true
   - title: "As generative AI accelerates coding for developers, the long-term impact is just beginning"
     excerpt: "They are happier because they can pursue the creative work they signed up for.” One of the areas where ChatGPT is beginning to have a transformational effect is in the gaming industry. Developers of video games have been major AI users for some time now,"

@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2023/05/230525141526.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/05/230525141526.htm"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Robots and rights: Confucianism offers an alternative"
-    excerpt: "Philosophers and legal scholars have explored significant aspects of the moral and legal status of robots, with some advocating for giving robots rights. As robots assume more roles in the world, a new analysis reviewed research on robot rights,"
-    publishedDateTime: 2023-05-25T16:47:00Z
-    webUrl: "https://techxplore.com/news/2023-05-robots-rights-confucianism-alternative.html"
-    ampWebUrl: "https://techxplore.com/news/2023-05-robots-rights-confucianism-alternative.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-robots-rights-confucianism-alternative.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-robot.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Rights or Rites? Reimagining Robots’ Moral Status through Confucian Lens"
     excerpt: "As robots become more pervasive in our society, the question of whether they should be granted rights is a subject of increasing debate."
     publishedDateTime: 2023-05-25T18:33:00Z

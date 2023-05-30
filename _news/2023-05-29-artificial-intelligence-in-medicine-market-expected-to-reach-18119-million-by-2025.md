@@ -58,15 +58,6 @@ related:
       name: Future Market Insights
       domain: fmiblog.com
     quality: 5
-  - title: "The Market Value of Mobile Speech Recognition Software is Projected to Reach US$ 25.4 Billion by 2032 | Future Market Insights,Inc."
-    excerpt: "The market for mobile speech recognition software is anticipated to grow to a value of US$ 3.3 billion in 2022 and to US$ 25.4 billion by 2032, with a CAGR of 22.5% during the five-year forecast period."
-    publishedDateTime: 2023-05-25T15:34:00Z
-    webUrl: "https://www.fmiblog.com/2023/05/25/the-market-value-of-mobile-speech-recognition-software-is-projected-to-reach-us-25-4-billion-by-2032-future-market-insightsinc/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
 
 secured: "wpfEX6RBu6kiJ3eRtLtiyf9qyRbhtEqhLxU/bnrJ1vwuky0M1PAtOr6ha3sVEVsFYA9f/pMZdrWNcK+D4yVsprRgvmz/s7s96kLYlg/tTVA+SC0vUHa+2aFjDL+7t15HnygFDb76vSThfhfq4uiNfHcsUHmvFvOttfxsaFweRUR/WRjbMzbUrq9DP/9BQnnu0UY+bovQd7iWXQYx0slv/w5FgHZQ3zE4qrgSBjuhus94BOVqo4v7IO6/TtKbyXkTXVHzm/Gey/etOV1R9RbbvZ7cldqYjQbTIleuYxC+RNsHTKf68cVcD6jm4wMkEgWfNsi3oNpBu1OHhnsZIolOE+x5bs+xrVPyyRVxyL5pZTw=;QbIbAwM634bj9yo0I0E0PA=="
 ---

@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Military Market worth $38.8 billion by 2028 - Exclusive Report by MarketsandMarkets™"
-excerpt: "The Artificial Intelligence (AI) in Military Market is estimated to be USD 9.2 billion in 2023 and is projected to reach USD 38.8 billion by 2028, at a CAGR of 33.3% during the"
-publishedDateTime: 2023-05-29T09:31:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/05/n32612736/artificial-intelligence-ai-in-military-market-worth-38-8-billion-by-2028-exclusive-report-by-marke"
-webUrl: "https://www.benzinga.com/pressreleases/23/05/n32612736/artificial-intelligence-ai-in-military-market-worth-38-8-billion-by-2028-exclusive-report-by-marke"
-ampWebUrl: "https://www.benzinga.com/amp/content/32612736"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32612736"
+excerpt: "The Artificial Intelligence (AI) in Military Market is estimated to be USD 9.2 billion in 2023 and is projected to reach USD 38.8 billion by 2028, at a CAGR of 33.3% during the forecast period according to a new report by MarketsandMarkets™."
+publishedDateTime: 2023-05-29T11:42:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/05/29/9822189.htm"
+webUrl: "https://it.tmcnet.com/news/2023/05/29/9822189.htm"
 type: article
-quality: 51
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "Emerging Markets Report: The Art of Artificial Intelligence"
@@ -44,6 +36,6 @@ related:
         height: 1043
         isCached: true
 
-secured: "gS8gs1KPSJBUsbyk98NPtzAuON3YODjfM9k6jViIA+nSpEiDGNJGGcgIb+AV3OTCvdgR/uqJtoEJEVf0MxJrs54TRcMUyyDF6vrSEEPvagOPDKK2nHWAjCcoYugAqHH61dD6UV9iejbzrGUIQqXbPwTT0D2uO1+6KkQQ1DAMWBgGTzJR0BfvQiejXbt/nFOOfposEzRq2wxX+Lk/vLEVuwitpIEvClA1nzNyVGvxxupgOdjDFGP14X+gZIXGTDT++/kq0H5q837KySzqRrUuYAxoIEyZ8S29HEi875FSv3WANggeFs7rmzJgIhpd6Q80/odaoXkfDwFOWecmr95OWQa/Vxx/+xqKhRi68o+XuEY=;6971GtMNLw5/MTZjo8oAGA=="
+secured: "VfuI8WBl17sG9bMHsrSz2MAc93QXfOW6mvP23O9sILFM708FCbDsY2Zn+hMRACFwW7jZ3vrlWceV9IhZ/xROf3wqyknmEdKTPaKlowFmnA8QxxwDeA5C/QQuRuag78r2uxm4z5idwBly3SuM5+6OHEvQnPSy8rB4NRl0iTS7IconULiVRLFjiJCbTrFQJrAjqFlyWi31jJicm5dHxpP7h6YDChQbfEuPjqDcIAC2LY3ftY961//jp1i08j3jqY4lWnuHZ7h+EYiewXr/U+SjdSnjWKKFrx+pyW8cOSZSuJGMJ0dZtbOIUU//cQPUwe8KjwQndAYpMYqc7zdIY4UFTJ0AT84xOIOVG7AjPI1IZs62xZD29pBnnrhtM7irTESNY5SusNxT/l+OBSa64js0bwd0egQ8hWlhe9Ev1jDacJ4rX0I/9Ru3nEHJ5Pp1URYBuaw+dOYns5P0W77nrgNA9FTJEWOM3wI1rfdPZeOMTeImrlR9s8tNi6wzUUVHNm15nUbggr0+CHSQx417MFN+cw==;AcFVObUmpJkt7eXw4VfnoA=="
 ---
 

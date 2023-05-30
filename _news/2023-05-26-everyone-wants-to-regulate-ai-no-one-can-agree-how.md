@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/plaintext-everyone-wants-to-regulate-a
 webUrl: "https://www.wired.com/story/plaintext-everyone-wants-to-regulate-ai/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,35 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "How to use Wordtune AI to rewrite texts on your iPhone"
-    excerpt: "This iOS app can generate simple messages and emails, photo captions, LinkedIn or Twitter posts, cover letters, blog posts, and more."
-    publishedDateTime: 2023-05-25T16:59:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-use-wordtune-ai-on-your-iphone-to-generate-content/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-use-wordtune-ai-on-your-iphone-to-generate-content/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-wordtune-ai-on-your-iphone-to-generate-content/"
+  - title: "U.S., foreign countries begin push to regulate AI"
+    excerpt: "Regulations could have a significant impact on the research and implementation of products and technology in the security industry in the coming years."
+    publishedDateTime: 2023-05-26T16:17:00Z
+    webUrl: "https://www.securityinfowatch.com/cybersecurity/article/53061798/us-foreign-countries-begin-push-to-regulate-ai"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
     images:
-      - url: "https://www.zdnet.com/a/img/resize/518b7ec6aaad54897cb463a0bb0d677f6062f319/2023/05/25/63011c31-baf3-4366-971b-6170fc02b7cb/gettyimages-1383931877.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/05/16x9/bigstock_Futuristic_Robot_Artificial_In_476546497.6470d51075a88.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Game-changing AI in iPhone 15 will talk in your voice but can it get you kidnapped too?"
-    excerpt: "Phones running Apple's new iOS 17 can learn your voice in 15 minutes and start talking like you. Apple is changing the world for the better. Or is it?"
-    publishedDateTime: 2023-05-27T11:48:00Z
-    webUrl: "https://www.phonearena.com/news/game-changing-ai-in-iphone-15-will-talk-in-your-voice-but-can-it-get-you-kidnapped-too_id147615"
-    type: article
-    provider:
-      name: PhoneArena
-      domain: phonearena.com
-    quality: 31
-    images:
-      - url: "https://m-cdn.phonearena.com/images/article/147615-wide-two_1200/Game-changing-AI-in-iPhone-15-will-talk-in-your-voice-but-can-it-get-you-kidnapped-too.jpg"
-        width: 1200
-        height: 675
+        height: 630
         isCached: true
 
 secured: "d/ljo3P1s+KeWRDMA+FeCSH8xaq9bbTK/ULTaCrLwdLDC+FlT7ViT5Q9LP3CafrJzPCLnHVXOENsG4g6b1el3WrKrckxMzgC4nGkc8jnjiqE1ZEZtvKSKj35Y6ACD81CXSqr4SgX6hCIEsM07OzRsQ5TCgEqUk3D0S69zd+LamNGOCOnL4Mj3L3mmy1AEmk50fWrJrExwtok2v+ZwYeh0zFmS/wt7rMmebOjv56c0WNJ51GAkVFbQ/BWGj30agLnv86vn27MO6F6FYTSVrZExqm26dut+BMVQNAMCxzXWmF3vGP/BsiP34feQtr7BiNFG4TAB4DqDGIq/HKsom4IetQvV9aqt6r73WKsfUEu10HeXP5pKcgn4T3QwZ+vZA/wKgvj1OCorjM6NFgyF4M5Gt4n25QzwxHWiwC64eZp3N4tKNwFYvM06EFzm7Do5DpkV4Yl0JS5YHPONtVcT8/AFt10HEU0SF67qdvo/zuQGJakUslNVyqY9GcZ0CtuWlOXuI7hP5f+UsxhwsCgY0zskA==;hrtesXJFqB/U8wI9Dsu4tA=="

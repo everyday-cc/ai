@@ -41,6 +41,36 @@ related:
         width: 1200
         height: 620
         isCached: true
+  - title: "NVIDIA's next DGX supercomputer is all about generative AI"
+    excerpt: "NVIDIA CEO Jensen Hiang made a string of announcements during his Computex keynote, including details about the company’s next DGX supercomputer. Given where the industry is clearly heading, it shouldn’t come as a surprise that the DGX GH200 is largely about helping companies develop generative AI models."
+    publishedDateTime: 2023-05-29T04:33:00Z
+    webUrl: "https://www.engadget.com/nvidias-next-dgx-supercomputer-is-all-about-generative-ai-043053544.html"
+    ampWebUrl: "https://www.engadget.com/amp/nvidias-next-dgx-supercomputer-is-all-about-generative-ai-043053544.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nvidias-next-dgx-supercomputer-is-all-about-generative-ai-043053544.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/oSI4q9uVuwV7MEZuGjHxYg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/e876fd10-fbe8-11ed-bcbf-0f9780637f7b.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Nvidia reveals ridiculous supercomputer built to create next-gen AI"
+    excerpt: "Nvidia has revealed its next-generation supercomputer, the DGX GH200, which is built to handle the development of gigantic next-generation AI models."
+    publishedDateTime: 2023-05-29T09:31:00Z
+    webUrl: "https://www.dexerto.com/tech/nvidia-reveals-ridiculous-supercomputer-built-to-create-next-gen-ai-2159061/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 41
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/29/Nvidia-Supercomputer.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Nvidia nears $1 trillion valuation amid AI boom"
     excerpt: "A trillion dollars of installed global data center infrastructure will transition from general-purpose to accelerated computing as companies race to apply generative AI into every product, service, and business process."
     publishedDateTime: 2023-05-26T11:55:00Z
@@ -55,15 +85,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nvidia, On Its Way to $1 Trillion Market Value, Just Confirmed That AI Hype Is Real"
-    excerpt: "Nvidia CEO Jensen Huang said generative AI is now becoming \"the primary workload of most of the world's data centers generating information\"."
-    publishedDateTime: 2023-05-25T15:46:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-on-its-way-to-1-trillion-just-confirmed-ai-hype-is-real"
+  - title: "Nvidia races towards $1tn club as AI frenzy drives chip stocks higher"
+    excerpt: "Nvidia’s blowout sales forecast has set the Silicon Valley company on course to become the first chipmaker to be valued at more than $1tn, as booming demand for its artificial intelligence processors drove semiconductor stocks higher on Thursday."
+    publishedDateTime: 2023-05-25T20:12:00Z
+    webUrl: "https://www.ft.com/content/b074781a-683f-4b20-8c70-33bb71399d94"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 13
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
+  - title: "NVIDIA Announces DGX GH200 AI Supercomputer"
+    excerpt: "NVIDIA today announced a new class of large-memory AI supercomputer — an NVIDIA DGX ™ supercomputer powered by NVIDIA ® GH200 Grace Hopper Superchips and the NVIDIA NVLink ® Switch System — created to enable the development of giant,"
+    publishedDateTime: 2023-05-29T05:52:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/29/9822132.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
 
 secured: "KTCpHt3Cr4ekEm4vaoQVSa3C3VQNnDzH1judbXQw4FlOG08p2uGrAl9L/VFOvgEF3tHA1eVSWK1MmSiAzsUCAAkK4Enlvr3JAyGHUs452tUaCPKLOiFuv7v598PAigQ8xwInRPNG8mprb+Qw6uKXomNt8CHfDud22HQnJycsYtJtXnqV984rf6tmZggd0Qh6X8gGl1XKykWUWEXhgV6ropouoPl+9Ig7anaC3Z7wt0QPvDaXm9GyXBWp+MQS8/G3LQZsxvb0mR4RinVdUGiwf7nSvZRqBaUeeOpoDjjGt7dRhzkB9SLk4ThRRb6WyUSzWlquqLlUA9t1Qy6lXG1UlCHLPlW7Sb3S15uZIr6iKMs=;025WqEpEb4UU5FPwN1/P0Q=="
 ---

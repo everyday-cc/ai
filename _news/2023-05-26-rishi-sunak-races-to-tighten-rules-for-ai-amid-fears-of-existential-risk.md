@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/may/26/rishi-sunak-races
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/26/rishi-sunak-races-to-tighten-rules-for-ai-amid-fears-of-existential-risk"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "Rishi Sunak wants nuclear-style safety rules for AI as PM acknowledges ‘existential’ risk"
-    excerpt: "The Prime Minister held Downing Street talks with chief executives of leading artificial intelligence companies, where they acknowledged the 'existential' risk from advanced forms of the technology"
-    publishedDateTime: 2023-05-25T15:22:00Z
-    webUrl: "https://inews.co.uk/news/politics/rishi-sunak-nuclear-safety-rules-ai-chat-gpt-2365483?ico=most_popular"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 30
-    images:
-      - url: "https://wp.inews.co.uk/wp-content/uploads/2023/04/SEI_150101244-1200x630-pl-exclusive.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "APLZvIlFEmDlPL29RYvSqswd/5DD3DUgdZW7nvoy/INX6aSy5pOqZKLmsrONRYuZeRip2UO56E89EXHVZ8glEa8m2eUNbu7f6a5VmCJT96nNLs+2juqmzaZCK9C3vns7DBq8t3HiMpXFepx8oP2oRx3Wq/HkO0jPTCh2GvmJvdDxwsouc4WHbBIaXxZGDrVYmU8aivhQ4m8CX+iXzJWA5cHAmxIf2q61C7sfxwdE+k2u6KxZ8uLVQ5R42+/TJr4Tn9xEA64+7xnA2SsTe/ccS47e9tdOJipQwsLOl3BrW3r3ZxCYElBBf5Y/U2LE5aiUs+wKna1OCF7hvgDhKKcB5iCH3c6wrPkh31c/NkDl0Uw=;VD8HyxTjaJLzmulOGjA/gA=="
 ---

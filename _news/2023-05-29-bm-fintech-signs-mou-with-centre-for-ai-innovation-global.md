@@ -53,15 +53,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Intuit launches lab for employees to experiment with generative AI, will share lessons at VB Transform"
-    excerpt: "Intuit is poised to harness the power of generative AI; its chief data officer is set to speak at VentureBeat's VB Transform 2023."
-    publishedDateTime: 2023-05-25T16:10:00Z
-    webUrl: "https://venturebeat.com/ai/intuit-launches-lab-employees-experiment-generative-ai-will-share-lessons-vb-transform/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 31
   - title: "How Fintech Is Revolutionizing Event Payment And Registration"
     excerpt: "Fintech, or financial technology, uses innovative software and digital platforms to deliver financial services to customers. Fintech has been transforming various aspects of the financial industry, such as banking,"
     publishedDateTime: 2023-05-28T23:34:00Z

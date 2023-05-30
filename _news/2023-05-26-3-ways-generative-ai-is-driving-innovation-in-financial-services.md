@@ -25,61 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Google starts opening up access to its new generative AI capabilities in Search"
-    excerpt: "Google announced today that it's starting to open up access to new generative AI capabilities in Search after teasing them at I/O."
-    publishedDateTime: 2023-05-25T20:52:00Z
-    webUrl: "https://techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/"
-    ampWebUrl: "https://techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/25/google-starts-opening-up-access-to-its-new-generative-ai-capabilities-in-search/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/google-search-labs-open.png?resize=1200,796"
-        width: 1200
-        height: 796
-        isCached: true
-  - title: "Google's Magic Compose is available now, bringing generative AI to Messages"
-    excerpt: "Want to compose a text message but don't know what to say? Google's Magic Compose can let AI handle it, rolling out now to Messages in beta."
-    publishedDateTime: 2023-05-25T17:01:00Z
-    webUrl: "https://www.androidauthority.com/google-magic-compose-3329382/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 65
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/05/Google-IO-2023-magic-compose.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Google is starting to roll out its AI search to properly take on Bing"
-    excerpt: "Google has announced that it is starting to roll out its generative AI technology to search, properly taking on Bing."
-    publishedDateTime: 2023-05-26T00:47:00Z
-    webUrl: "https://bgr.com/tech/google-is-starting-to-roll-out-its-ai-search-to-properly-take-on-bing/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/05/Google-Search-AI.jpg?quality=82&strip=all"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Empowering the future generation: The advantages of educating students in the new age era of AI"
-    excerpt: "Artificial intelligence (AI) has become a revolutionary force in the quickly changing world of technology, altering various sectors and our daily lives. As AI develops, it is more crucial than ever to get the"
-    publishedDateTime: 2023-05-27T09:53:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
+  - title: "AI4Bharat: Putting India on the global map of cutting-edge AI innovation"
+    excerpt: "Launched a year ago, the Nilekani Center at AI4Bhārat has set up a team of close to 200 translators across the country covering 22 Indian languages. Tech billionaire philanthropist Nandan Nilekani is the primary sponsor of the Nilekani Center at AI4Bharat with a focus on developing open-source language tech as a public good."
+    publishedDateTime: 2023-05-28T00:31:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/ai4bharat-putting-india-on-the-global-map-of-cutting-edge-ai-innovation/articleshow/100554612.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/ai4bharat-putting-india-on-the-global-map-of-cutting-edge-ai-innovation/amp_articleshow/100554612.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ai4bharat-putting-india-on-the-global-map-of-cutting-edge-ai-innovation/amp_articleshow/100554612.cms"
     type: article
     provider:
       name: Indiatimes
       domain: indiatimes.com
-    quality: 27
+    quality: 58
+    images:
+      - url: "https://img.etimg.com/photo/msid-83745775/clean-experience.jpg"
+        width: 710
+        height: 408
+        isCached: true
+  - title: "Can there even be a global AI non-proliferation treaty and what role can India play"
+    excerpt: "In ToThePoint today, we invited Jaspreet Bindra, the former chief digital officer of Mahindra Group and currently an AI and ethics researcher at Cambridge University, to help us make sense of the growing unease around the dangers of AI and calls by government and industry leaders for global regulation of these technologies."
+    publishedDateTime: 2023-05-26T13:29:00Z
+    webUrl: "https://www.forbesindia.com/audio/to-the-point/can-there-even-be-a-global-ai-nonprolifesration-treaty-and-what-role-can-india-play/85209"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 13
 
 secured: "1FP+P16orbNwU7hkVksi2jpPbAl7jFVGAiajnkXNy+1xe367Ja5uhDN89zBkpdy2ZYgwLwaGVRlOIZDflXtSmg14vompfEfFZTXqFXgNM+3nnnv84Fqo8TS5B5I6EjjxuEnYTtnMDvqpjqjm1VQ0G+VjcNb/X2Fg3cf2q6ejjov2KOrXd93PXHOhe0XP/i7V2Oh8Su4XrlFdaS9Miqwb9ujf8nVF4B5ig15cW3bMTcLVoxCaZqbYy5bG2jflvigwEv9d2CgNgFWVtWAcbI7EnAx6EOBINXb1Yvnz9nNbWEeGce7YkB/f3ETz3Kh8lfDRSJxaffeXDt1syTiq95mn0E1sKS2M7N58yahPVnu3bY8=;+7PRr4cU5e1YNq4mnDkKVw=="
 ---

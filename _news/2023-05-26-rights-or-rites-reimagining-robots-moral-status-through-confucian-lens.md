@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robots and rights: Confucianism offers an alternative"
-    excerpt: "Philosophers and legal scholars have explored significant aspects of the moral and legal status of robots, with some advocating for giving robots rights. As robots assume more roles in the world, a new analysis reviewed research on robot rights,"
-    publishedDateTime: 2023-05-25T16:47:00Z
-    webUrl: "https://techxplore.com/news/2023-05-robots-rights-confucianism-alternative.html"
-    ampWebUrl: "https://techxplore.com/news/2023-05-robots-rights-confucianism-alternative.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-robots-rights-confucianism-alternative.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-robot.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Robots and Rights: Confucianism Offers Alternative"
     excerpt: "As robots assume more roles in the world, a new analysis reviewed research on robot rights, concluding that granting rights to robots is a bad idea. Instead, the article looks to Confucianism to offer an alternative."
     publishedDateTime: 2023-05-25T23:24:00Z

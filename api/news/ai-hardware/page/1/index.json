@@ -63,7 +63,7 @@
       "originalUrl": "https://venturebeat.com/ai/mediatek-taps-nvidia-gpu-and-ai-for-connected-car-chipsets/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -115,7 +115,7 @@
       "originalUrl": "https://www.zdnet.com/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -167,7 +167,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -220,7 +220,7 @@
       "originalUrl": "https://www.wsj.com/articles/the-ai-boom-runs-on-chips-but-it-cant-get-enough-9f76f554",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -473,7 +473,7 @@
       "originalUrl": "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 261,
+      "heat": 241,
       "tags": null,
       "images": [
         {
@@ -518,21 +518,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-26-how-the-ai-boom-could-be-nvidias-iphone-moment.md",
-      "title": "How the AI Boom Could Be Nvidia's 'iPhone Moment'",
-      "excerpt": "The company also provided a revenue forecast for the July quarter way above expectations, citing skyrocketing demand for its artificial intelligence chips with the generative AI boom. Thanks to the surging demand for its artificial intelligence chips,",
+      "path": "_news/2023-05-26-nvidia-the-chip-maker-that-became-an-ai-superpower.md",
+      "title": "Nvidia: The chip maker that became an AI superpower",
+      "excerpt": "Jensen Huang, now the chief executive of Nvidia, was one of its founders back in 1993. Then, Nvidia was focused on making graphics better for gaming and other applications. In 1999 it developed GPUs to enhance image display for computers.",
       "sourceUrl": null,
-      "webUrl": "https://247wallst.com/investing/2023/05/25/how-the-ai-boom-could-be-nvidias-iphone-moment/",
-      "originalUrl": "https://247wallst.com/investing/2023/05/25/how-the-ai-boom-could-be-nvidias-iphone-moment/",
+      "webUrl": "https://www.bbc.co.uk/news/business-65675027",
+      "originalUrl": "https://www.bbc.co.uk/news/business-65675027",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://247wallst.com/wp-content/uploads/2022/02/imageForEntry10-KvA.jpg?w=400",
-          "width": 400,
-          "height": 224,
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/0784/production/_129842910_jensen_huang-extended.png",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -540,13 +540,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://247wallst.com/investing/2023/05/25/how-the-ai-boom-could-be-nvidias-iphone-moment/amp/",
-      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/05/25/how-the-ai-boom-could-be-nvidias-iphone-moment/amp/",
-      "publishedDateTime": "2023-05-25T19:42:00-07:00",
+      "ampWebUrl": "https://www.bbc.co.uk/news/business-65675027.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65675027.amp",
+      "publishedDateTime": "2023-05-25T16:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "24/7 Wall St",
-        "domain": "247wallst.com",
+        "name": "BBC",
+        "domain": "bbc.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -556,7 +556,6 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
         "AI",
         "AI Hardware"
       ]

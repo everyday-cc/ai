@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bill_stone/2023/05/28/will-the-artifici
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bill_stone/2023/05/28/will-the-artificial-intelligence-mania-sink-stocks/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "The ASX stocks that could ride the AI boom like Nvidia"
+    excerpt: "AI has lit a fire underneath tech stocks, but investors are split over whether the innovation will transform business models or end up a fad like blockchain or 3D printing."
+    publishedDateTime: 2023-05-29T06:12:00Z
+    webUrl: "https://www.afr.com/technology/the-asx-stocks-that-could-ride-the-ai-boom-like-nvidia-20230528-p5dbwd"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_377%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/46be6cceef56a10fe8b9ee36c006c5f59be895d3"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "q+3vPRPMsrlulCZE1LLTyJitYWX9UKzt/1kjVlSHUSGahwMQAAfOgQ16tKQIpCJzLmfR49CuCa/7fKNyXFdoSCsNKyI1CrwfJQRmD3dBbb6+7tLoEmF3YGQKdl3F/cNuiTW6AunaZoz03+agJ4nxHEyg5EuP+VN56igd1/F+p2H6jLPAtqvomdB7DYmKHpTRRRHFZSPId8UzB6KJM1RndTZ8XB6SrquBE75xJZcvnBgXoMfzcoPyNXpgRQwQ2KMbvvcKlS9aXlkgeh1xRhNdOjELA8BTDctE520nx8aDJ2aWC7MHzVe1lhq/RHPWrA+RTKQjXQJcFW9nBIcGOuQFP6QRO3+67oCO3Mu0+wazoVi041awdP0oEFDEiWT6w0eCwrUGunVGJzkraZlMabig1sO0SQOS/1axQ5cYs1ppa5DgUL+tlmAgZ9Z22nL9lgNfOPR4L7ds/m7/ojqg9wfBRbWCPK6YPab7yi5QDgxsi1UhQXX6wJpTHX3yXD25X72j+kon5D9cUAw6xQExR1JSsA==;Nlxv6KAgJI2/g5nvmYF0sw=="
 ---

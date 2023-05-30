@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://gray-kwch-prod.cdn.arcpublishing.com/resizer/PUbmndVSYecxqXlN98exMo3-lGM=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/ZYTM7R7PW5BTRO25N3O42AR3YU.png"
+  - url: "https://gray-kwch-prod.cdn.arcpublishing.com/resizer/dc20k0e9bzKFlpV22la5AucHJac=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/SEZQWR6I6ZDUZAHFTJQQPE65FI.jpg"
     width: 800
     height: 450
     isCached: true
 
-secured: "2ykcxpCH21YNZWnpGXVFtY7/TRsjX82ChxUbpHYlAA+/fztH+EFC63vZAYNGn9jzboK8xkccjVJgdBg96A/0c6Gkcii15CiJ0A/lCMd2RV2+bEShwqDbuRn59EgUObwh27kZH9O0h1urhf8XpGLIJ/bergbpThwhDGbckBQhvrOqn3f4NqWtUFrKMtMsWyIzVeviZfT/JFWtbDJ4+GVAp3OlE8o7AK4HQ/HaSw5FZ8+LBqNFu9rC3x2vF3kH6KyYFtfFX79K3q8hzm/Oc+9WJ3Jkms7L1WqkGkGt66j5fzj+wg8bh9/gth9MWamxBzt+t27AnMLO2n8eIl6ZmnlH/1LFqxUwW+vQt5yoCjgpkhg=;pyUe9n1vaDNCej0nonqiCQ=="
+secured: "0PHmxcOa8BtYTlANd7laRFDyK4SuLp0F0/6xpuZ+hu2XP2y24rSAKCSr68vcg5u0YoUkgbhTxZUdCvXXl86a+HUTwsgVfgt6CGnEPMNI8DI8jQ6aUN6TZPhCrzXqQuv4Wa7aIsOlNmaE+/4GNdPG7dEQ71Mrge/5USPlZSU7VZwbc2ujWI38y0VaL3S0NXAgKJqfIRlW32h5CuesLsyXDxzEIYkwtR+XZKp/UmhOqReXTPtP4UNPNi+ch6TL5aO2xZHzUQEiD08VpEtzVB5qvfMVZjCDOT+qoHSuHvC918ZId/vBq7ql56jFuP5CCPqbGT2h+lYoSvKMESGp0RaCkgUnAhwhpf0yMMumkzBVQyY=;amTb0O7kDx+KVas3vV6fxA=="
 ---
 

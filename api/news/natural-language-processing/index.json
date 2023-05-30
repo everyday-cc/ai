@@ -10,7 +10,7 @@
       "originalUrl": "https://newatlas.com/health-wellbeing/smartphone-speech-app-may-spot-alzheimers-early-on/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -54,6 +54,92 @@
       ]
     },
     {
+      "path": "_news/2023-05-28-conversational-ais-advancement-and-its-implications-on-our-lives.md",
+      "title": "Conversational AI’s advancement and its implications on our lives",
+      "excerpt": "Conversational AI has transformed the landscape of customer service and support. With intelligent voice bots, businesses can provide round-the-clock assistance, instant responses, and personalized interactions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/",
+      "originalUrl": "https://www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/05/Untitled-design56.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/lite/",
+      "publishedDateTime": "2023-05-27T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-28-ai4bharat-putting-india-on-the-global-map-of-cutting-edge-ai-innovation.md",
+      "title": "AI4Bharat: Putting India on the global map of cutting-edge AI innovation",
+      "excerpt": "Launched a year ago, the Nilekani Center at AI4Bhārat has set up a team of close to 200 translators across the country covering 22 Indian languages. Tech billionaire philanthropist Nandan Nilekani is the primary sponsor of the Nilekani Center at AI4Bharat with a focus on developing open-source language tech as a public good.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/ai4bharat-putting-india-on-the-global-map-of-cutting-edge-ai-innovation/articleshow/100554612.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/ai4bharat-putting-india-on-the-global-map-of-cutting-edge-ai-innovation/articleshow/100554612.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/photo/msid-83745775/clean-experience.jpg",
+          "width": 710,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/ai4bharat-putting-india-on-the-global-map-of-cutting-edge-ai-innovation/amp_articleshow/100554612.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ai4bharat-putting-india-on-the-global-map-of-cutting-edge-ai-innovation/amp_articleshow/100554612.cms",
+      "publishedDateTime": "2023-05-27T17:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-26-microsoft-powered-ai-chatbot-jugalbandi-is-here-all-you-need-to-know.md",
       "title": "Microsoft-powered AI chatbot ‘Jugalbandi’ is here. All you need to know",
       "excerpt": "The made in India Artificial intelligence chatbot currently understands 10 of the 22 official Indian languages and covers 171 government programs.",
@@ -62,7 +148,7 @@
       "originalUrl": "https://www.hindustantimes.com/technology/jugalbandi-microsoft-ai-chatbot-features-open-source-language-technology-news-ai4bharat-project-101685111840575.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1349,112 +1435,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-natural-language-processing-nlp-market-2023-2029-enormous-growth-detailed-perspective-and-top-players-microsoft-ibm-3m-amazon-aws.md",
-      "title": "Natural Language Processing (NLP) Market 2023-2029 Enormous Growth, Detailed Perspective, and Top Players – Microsoft, IBM, 3M, Amazon AWS",
-      "excerpt": "Latest released the research study on Global Natural Language Processing (NLP) Market, offers a detailed overview of the factors influencing the global business scope. The Natural Language Processing (NLP) Market report is a valuable source of insightful data for business strategists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-2029-enormous-growth-detailed-perspective-and-top-players-microsoft-ibm-3m-amazon-aws-2023-05-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2023-2029-enormous-growth-detailed-perspective-and-top-players-microsoft-ibm-3m-amazon-aws-2023-05-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T00:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-12-speech-recognition-software-market-till-2030.md",
-      "title": "Speech Recognition Software Market Till 2030",
-      "excerpt": "The Global Speech Recognition Software market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2030. In 2021, the market is growing at a steady rate and with the rising adoption of strategies by key players,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-till-2030-2023-05-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-till-2030-2023-05-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

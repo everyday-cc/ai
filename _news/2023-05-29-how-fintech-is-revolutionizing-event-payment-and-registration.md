@@ -67,15 +67,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Intuit launches lab for employees to experiment with generative AI, will share lessons at VB Transform"
-    excerpt: "Intuit is poised to harness the power of generative AI; its chief data officer is set to speak at VentureBeat's VB Transform 2023."
-    publishedDateTime: 2023-05-25T16:10:00Z
-    webUrl: "https://venturebeat.com/ai/intuit-launches-lab-employees-experiment-generative-ai-will-share-lessons-vb-transform/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 31
 
 secured: "gkjFovG+JeAofxEoRcSsSeO8JjhpUDe9xS4BpDGR/8Oe2CtiuOvfVKvdcSiZCwTF4fux9KAdnnDyKzeErMxemS8lKqP/yA61ihzxgGccDWwIHs7+G1WyMXhPKnplVV8XtDEom2EaWmecf6SQgECOj68X2ALXTPrgr3MIi9XE4WEKLq8DsxaCCXfHEK/XFhK0thNkYwmWWV5s0Ydy1bZw/Hs4mAWLLNCvAuaZq31uvI/1g/HbxW63OcrCAPCY39JqERu0/NwiiXL1KTsmGkDtAUkbnVeBDyj7NfNdYjNxm4z349UYiP2BdernHDb5RO174Gk3wNIw4ILbjhk9qkH5GBpDNvjBmDZKRM/+ZaYCSx2i59YjVYuXy+GB2zjlHJYGj61aPPYsxzYxTMD8iIlb8w1YHXQttAUHPilDCYHqT+4YxNUUx0GVyf1XLzAPLDErAh9CtMOlM+MRDrSmju1CqzL3w4G9iFv2M7/haeK0D2ae/KsoTBXP5iusVeUfklhuNFXvZVCF+Nwz70rh0cdKSg==;XO1gfJfMpGizKOd3wKe0sA=="
 ---

@@ -8,7 +8,7 @@ webUrl: "https://abcnews.go.com/Technology/wireStory/chatgpts-chief-testify-cong
 ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/chatgpts-chief-testify-congress-concerns-grow-artificial-intelligences-99354581"
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/chatgpts-chief-testify-congress-concerns-grow-artificial-intelligences-99354581"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://s.abcnews.com/images/US/wirestory_73ff96c6571f38ad5fd68b3072722790_16x9_992.jpg"
@@ -41,22 +42,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6470b943b202b5301a9d86b2/0x0.jpg?format=jpg&crop=3250,1523,x0,y6,safe&width=1200"
         width: 1200
         height: 562
-        isCached: true
-  - title: "5 Artificial Intelligence Use Cases More Promising Than ChatGPT"
-    excerpt: "Spending on AI-centric systems will exceed a staggering $300 billion by 2026. Here are five use cases more promising than ChatGPT you may not be aware of."
-    publishedDateTime: 2023-05-25T16:20:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/05/25/5-artificial-intelligence-use-cases-more-promising-than-chatgpt/"
-    ampWebUrl: "https://www.forbes.com/sites/sap/2023/05/25/5-artificial-intelligence-use-cases-more-promising-than-chatgpt/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/05/25/5-artificial-intelligence-use-cases-more-promising-than-chatgpt/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646f891710231fc65d161774/0x0.jpg?format=jpg&width=1200"
-        width: 800
-        height: 800
         isCached: true
   - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
@@ -87,22 +72,6 @@ related:
       - url: "https://i.insider.com/5ef13e96aee6a8302d441d42?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions"
-    excerpt: "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal."
-    publishedDateTime: 2023-05-25T15:59:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-ai-around-the-world-opportunities-key-regions-hurdles-maturity-2023-may"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-ai-around-the-world-opportunities-key-regions-hurdles-maturity-2023-may?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-around-the-world-opportunities-key-regions-hurdles-maturity-2023-may?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 75
-    images:
-      - url: "https://i.insider.com/6465284f7224930019f34a4f?width=1200&format=jpeg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Google Search starts rolling out ChatGPT-style generative AI results"
     excerpt: "One example screenshot of a \"Bluetooth speaker\" search on desktop shows a big row of \"Sponsored\" shopping ads, then the generative AI results start to show up in a big blue box about halfway down the first page. The blue box summarizes a bunch of ..."

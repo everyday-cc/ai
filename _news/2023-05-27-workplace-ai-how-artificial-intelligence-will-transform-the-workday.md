@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-art
 webUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday"
 type: article
 quality: 84
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.reuters.com/resizer/FSPUvb7djINBafN665jGm5-QZEM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6TIDCQXE4ZLHTGW3OELMLU5JIU.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "How AI and Machine Learning Will Transform Your Legal Department"
-    excerpt: "With 80% of executives believing that automation can be applied to any business decision, AI and ML tools are currently the most popular area where business IT departments will invest in 2023."
-    publishedDateTime: 2023-05-25T15:18:00Z
-    webUrl: "https://www.law.com/corpcounsel/2023/05/25/how-ai-and-machine-learning-will-transform-your-legal-department/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 54
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/428/2023/05/Artificial-Intelligence_2-767x633.jpg"
-        width: 767
-        height: 633
         isCached: true
   - title: "Analysis-Investing in AI: How to Avoid the Hype"
     excerpt: "\"It's just that that’s very hard to be true for the entire market.\" Instead of backing hot start-ups or rushing into highly valued AI-themed businesses that might fail, seasoned investors are taking a lateral view to back already proven technology ..."

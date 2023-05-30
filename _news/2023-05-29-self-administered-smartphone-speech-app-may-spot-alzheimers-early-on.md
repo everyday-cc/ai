@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/health-wellbeing/smartphone-speech-app-may-spot
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/health-wellbeing/smartphone-speech-app-may-spot-alzheimers-early-on/?amp=true"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Alzheimer's App Detects Disease Using Speech Data"
+    excerpt: "Researchers have developed a self-administered mobile application that analyzes speech data as an automatic screening tool for the early detection of Alzheimer's disease."
+    publishedDateTime: 2023-05-30T08:08:00Z
+    webUrl: "https://www.technologynetworks.com/diagnostics/news/alzheimers-app-detects-disease-using-speech-data-373944"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 24
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/373944/alzheimers-app-detects-disease-using-speech-data-373944-640x360.jpg?cb=20230530"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "svu0UqDf8rXA6tyNG4NV3KaOC4yrPYkz8sOXaXvOdh8aF1fpHkqMUr8u7cMXIOOKm2Ve86cg/IHcaGZ1eSLyQXD/dhVO4xfpqnGq9omN5ghIc4vE04G29ws/gpIJ0Msphb80r4YXdhnJa3a/LfKtAYGj6bYiSUv1AT8wqy46JCEyEbdpm2Y174/t93Bg/4jufszjollPU6XLxAR3QcuFV2LkJlBFz1vKvKBMqCwEe11qpTVHiJatf1MY89b79SVl4JWyLmHm5NgI8F3e40vVmRAtVfmUdaoPu3joTNQv+yDfNl5qpR2wd7V7F3CDuTouC422bgJKJr9WrqcIFbuxbA9uSURScvHNz/HGRAWqKlkepL3otCxfKNiMKP1dtTfecGGdfeMO58+/33Oz8H6iXvM9dW2rWRnsbNOwmAlbZ+5jIHiuAowl4xckqHRLd2hO1XREK58jjvXZzqGopdrK3BQsSr5Tp0aBDClJ4ZYQunAG4Ww/GkA78kuD1bnqqLB5k41Kdv/APzOJiZqnqj/iiQ==;EABIDVuk8mmLNRzIen409Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://english.elpais.com/science-tech/2023-05-29/very-human-questi
 cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2023-05-29/very-human-questions-about-artificial-intelligence.html?outputType=amp"
 type: article
 quality: 61
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.counterpunch.org/wp-content/uploads/2023/05/word-image-284042-1.jpeg"
         width: 2048
         height: 2048
-        isCached: true
-  - title: "Can AI ask questions and change knowledge assessment?"
-    excerpt: "The new conversational AI, which emerged in late 2022, focused people’s attention on asking chatbots questions. At the same time, artificial intelligence itself started asking questions when prompted by people trying to get AI-generated content for quizzes,"
-    publishedDateTime: 2023-05-25T15:39:00Z
-    webUrl: "https://techbullion.com/can-ai-ask-questions-and-change-knowledge-assessment/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 37
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/05/ai-question-generator-techbullion-1000x600.png"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "HcFV2BoH/p3aPJnd9IfIjy3tWbLI0sRue5UwrFObps9TjykTajIw72sMwJD0hYn7E0joFVU3/vD2Xw6ebLmLv0Kz4kFYEkqGj3Y7+rBThngcyhPImc0ayA/U+pYIjLUiZei0EjCPVFhr3zw+d5jUD+L1lNCkjRbzaTaf7VyNHwqwV/KF3txjSfyfZJOJubLr/i9KrUXUkp8M0JiZ6d3Q5CLwI1gbhJNvY+ljAiDeETIQTnd4cDtfEOPKNeGgMEQKd0MeJ5SIWrIMCHfxb/0JLp5mQULpPdU3eu+0fqt5GxKwGugw1lwtMk9Pp1loNPKWaK0Ohn9vahdiqylCPoL1uSlcgh3FLEpIc7a1j+VqyEmR2y8uEJMa/9F+/MzodQzbpG6PVqEiKyV3aSdS/fn30QDACmPFeR/ZWEKZqUIQ0YXP5ooDSqmDUJqPu606hzIyUY2hFUJ5WQLJooqlipoCVQfe9jN/8iBUZlGGj64SVyO3VKAwv8zvtgkMpuxsPOeU/eHhDsUswoS+N9J8KGzKlg==;JV31N98vggmKhWRT6gPrdw=="
