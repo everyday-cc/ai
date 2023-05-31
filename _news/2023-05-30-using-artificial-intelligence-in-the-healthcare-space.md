@@ -19,29 +19,40 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Enhancing healthcare workers’ jobs, improving patient care in PH thru Artificial Intelligence"
-    excerpt: "The pandemic spotlighted two big challenges in the Philippine healthcare system – long wait times and staff shortages. While we"
-    publishedDateTime: 2023-05-30T09:37:00Z
-    webUrl: "https://manilastandard.net/tech/314335681/enhancing-healthcare-workers-jobs-improving-patient-care-in-ph-thru-artificial-intelligence.html"
+  - title: "AI is the future of health care, but here's what it can never replace"
+    excerpt: "AI should be viewed as a tool to assist a physician by removing tedious administrative tasks, enhancing diagnostic capability, and improving patient outcomes."
+    publishedDateTime: 2023-05-31T06:00:00Z
+    webUrl: "https://www.foxnews.com/opinion/ai-future-health-care-heres-what-can-never-replace"
+    ampWebUrl: "https://www.foxnews.com/opinion/ai-future-health-care-heres-what-can-never-replace.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/ai-future-health-care-heres-what-can-never-replace.amp"
     type: article
     provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 43
+      name: Fox News
+      domain: foxnews.com
+    quality: 89
     images:
-      - url: "https://manilastandard.net/wp-content/uploads/2023/05/Shot10_A_Patient_On_Backboard_PNG.jpg"
-        width: 1134
-        height: 638
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7cd60392-d2ad-44a6-81e7-6e274b66a4ae/2d72dd9f-59e1-4876-970b-40c3f8b45c87/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Artificial Intelligence – a silver bullet to enhancing healthcare workers jobs and improving patient care in the Philippines"
-    excerpt: "The pandemic spotlighted two big challenges in the Philippine healthcare system – long wait times and staff shortages. While we are gradually coming out of the pandemic, we are not free of these challenges."
-    publishedDateTime: 2023-05-30T12:10:00Z
-    webUrl: "https://businessmirror.com.ph/2023/05/30/artificial-intelligence-a-silver-bullet-to-enhancing-healthcare-workers-jobs-and-improving-patient-care-in-the-philippines/"
+  - title: "GPUs get all the headlines, but the future of AI is real-time data"
+    excerpt: "The era of AI everything continues to excite. But unlike the internet era, where any company announcing a dot-com anything immediately rose in value, the AI gods appear to be more selective. Nvidia Corp."
+    publishedDateTime: 2023-05-27T18:13:00Z
+    webUrl: "https://siliconangle.com/2023/05/27/gpus-get-headlines-future-ai-real-time-data/"
     type: article
     provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 7
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
+  - title: "AI is scary. Here are 10 things we can do to keep it under control"
+    excerpt: "If it seems artificial intelligence is the biggest technological advancement in history, that’s because it is."
+    publishedDateTime: 2023-05-31T02:14:00Z
+    webUrl: "https://www.northjersey.com/story/tech/2023/05/30/10-things-to-do-so-we-dont-lose-control-over-artificial-intelligence/70269866007/"
+    type: article
+    provider:
+      name: NorthJersey.com
+      domain: northjersey.com
+    quality: 17
 
 secured: "KdpzaCbC1DQH/qZF2RWHXxDJrrIia7RQrhb3rJwfVfIceDx62gDysPZF2EuugOqte0GlwPi0QojhQUqNGYw5pQJ0rtD1J9PzM8mO/++MuO5YjcksFpcHmVMRR8hJSwVnsXVJgcrzyG6T3zUJZbDMZlWPTx9zxqRGtK3U9STsWdYLcbPSHzMABANVbpdIabcfxSitQXpNu6+6DXEbSeCp9SMrEW52Hzgnd1zs8CZ9mUmxm9MW9SHo34ztviNi4l/QBUAb1BVwZ9aOAEwjZIb1gkyeLsSMEguh61GDiydtSRxn2LFJlRa+VlEb4oHlV0698PKENPOxFqDUDfGk46z1uvKIp2+4JDLimoVwb12UiW0gg9xk41gNKg4ctrXXGPc0u2X1LwIuHPjn1gHfOAbpwKq+h33DoGQsO3jtOKoDaZd2DRaT+Cx2igZe8icXUEZ+ETvRVbFc/WkQyD/HQtJC5hiO2eDFUzk1FPMVA83p6F/i6G8v4wyhJ7TSgxF/Z3HxPYQyTkhC7NAagqMBQEpMbA==;kmVXZhkz3DjU5mJYkR9Q9w=="
 ---

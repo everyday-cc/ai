@@ -19,6 +19,20 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "Open AI-backed start-up deploys robot as security guard"
+    excerpt: "The Norway-based robotic start-up deployed the AI-enabled robot as patrolling guard at two manufacturing sites, one in the USA and the other in Europe"
+    publishedDateTime: 2023-05-27T08:05:00Z
+    webUrl: "https://telanganatoday.com/open-ai-backed-start-up-deploys-robot-as-security-guard"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 71
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/05/robot-1.jpg"
+        width: 1280
+        height: 750
+        isCached: true
   - title: "Japan AI startup launches robot for home use"
     excerpt: "A Japanese artificial intelligence startup has launched a robot for home use capable of delivering items in response to verbal comman"
     publishedDateTime: 2023-05-27T03:00:00Z
@@ -33,43 +47,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Odisha All In On AI, Launches AI For Youth"
-    excerpt: "Odisha is setting an example for states like Karnataka and Telengana, which are lagging behind in AI initiatives."
-    publishedDateTime: 2023-05-30T05:43:00Z
-    webUrl: "https://analyticsindiamag.com/odisha-all-in-on-ai-launches-ai-for-youth/"
+  - title: "OpenAI startup plans to deploy robot workers in assisted living communities"
+    excerpt: "A startup plans to put AI-powered robots in assisted living communities, adding to other real-world jobs where the robots are being tested."
+    publishedDateTime: 2023-05-30T16:18:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/openai-startup-plans-to-deploy-robot-workers-in-assisted-living-facilities/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/05/naveen-patnaik-3.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Can AI make me a musical star?"
-    excerpt: "As vocal clones of music’s biggest names go viral, the FT’s pop critic embarks on an unlikely quest to replicate his favourite singer’s voice"
-    publishedDateTime: 2023-05-27T04:00:00Z
-    webUrl: "https://www.ft.com/content/408a8920-cf0c-4f23-925f-8496da15153f"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/lifestyle-weekend.jpg"
-        width: 619
-        height: 377
-        isCached: true
-  - title: "Corporate VCs ride AI startup wave"
-    excerpt: "Of the 44 startups Workday Ventures has backed, about 25% are already using tech developed by OpenAI, according to managing director Barbry McGann. She adds it's because the AI company's tools are so \"enterprise-ready,\" making it easy for business software makers to quickly integrate the tech."
-    publishedDateTime: 2023-05-27T13:00:00Z
-    webUrl: "https://www.axios.com/2023/05/27/corporate-vcs-ride-ai-startup-wave"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 17
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 32
 
 secured: "Hx9fgSy5Y3QcFueS7rAijM3CEBKuQ/uBuumznEqE+yjuXk8rKBTNMMqhO2h3u3Lwt6cipO8OVun7B29AEah/MnAWoG1o973SSJWSsy4Gg6b0rwoN0T13zpPhrCWfFrsKEmJ8pk2aSzQEXI7eUugrAGJ3/fMEF/iILJiEkjNE4SYrpF//z0GCfMQLQ5GzJkoMSIi9L7Rjn1jra+kySJo6GiUO2FACNRLkTkWOX4xfJM6VgDrXAWs1Hsxu+qmtNxsZwaDqPFTvkbeCxpHhXtfkKG2valPmm5i8+8FqaB3GI0Ut6Ady0rlJR2W/NjYjhbrhnFTM/Iik1RnznJYDoRbDsyPy1QS/1D6Q8jZU1AnVms0=;HuiNJ7rSp0pAGGmeAFuZLA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/05/29/us-updates
 webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/05/29/us-updates-national-ai-strategy-and-calls-for-public-input/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,33 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "China warns of risks from artificial intelligence, calls for beefed-up national security measures"
-    excerpt: "BEIJING -- China warns of risks from artificial intelligence, calls for beefed-up national security measures."
-    publishedDateTime: 2023-05-31T05:27:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/china-warns-risks-artificial-intelligence-calls-beefed-national-99716270"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/china-warns-risks-artificial-intelligence-calls-beefed-national-99716270"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/china-warns-risks-artificial-intelligence-calls-beefed-national-99716270"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 61
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Alert: China warns of risks from artificial intelligence, calls for beefed-up national security measures"
-    excerpt: "China warns of risks from artificial intelligence, calls for beefed-up national security measures."
-    publishedDateTime: 2023-05-31T05:19:00Z
-    webUrl: "https://www.chron.com/news/world/article/alert-china-warns-of-risks-from-artificial-18127134.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 17
 
 secured: "8n9ajMY+nXr8FeLfo5Xg5ENRxctK7MY2unmLozUEVuNJ3rVTdMj9JWlHY9KeRasUz7pIWDWFFAfG7mqQ/3wN7DjvUXt0YfKH7azHLaDM2r3bSiTAbiqLeItilOqd8OuEgjwGXZ+jG0xPUmmxh9uUX7X3sBm+fcgPPGSEupoRxDqg471WTjHSCfEMs59EiuYXNt5KiLezThAD0Va6A9yJxv5mRJwoSaL40dAmtupG4VWtx4WlPNRTBPU8wSzcLYDzsf/EwwsylKeVJrfQneZeJUxaeRq1rpoYbrbHi7L6vIsnJTp001v+gHCCnRhoWHvOBvv4CXbdInTEjvxCKj1ceHmzUKUBwV5kfNaC0SuxVNmC9T/sem15Enf4gY1TG28pfSfr39ANaKiWQ00kCWYGZ+2ZE8s5/Ip9Q7YKaNBTaPQnyq4SRe2P1SrroWl515bIbXpFJtjq1SchKpXjI3qwtsXqD/BByOFtCrS1qJGiiT2Qwa/dkw6/qHLZm4cypmTTk8+Y4CjDd6IDPx6FbebCcg==;w6llOr03h9d9Mi7BNfw1ww=="
 ---

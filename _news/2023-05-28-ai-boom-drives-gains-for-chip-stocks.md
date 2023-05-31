@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "AI Stocks Are Flying, but Don’t Call the Craze a Bubble"
+    excerpt: "Nvidia and other tech stocks have added billions of dollars in market value as the technology has boomed"
+    publishedDateTime: 2023-05-26T20:42:00Z
+    webUrl: "https://www.wsj.com/articles/ai-stocks-are-flying-but-dont-call-the-craze-a-bubble-18403c5a"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-789009/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "3 Pharma Stocks That Will Boom Thanks to AI"
     excerpt: "This has lead investors to start looking for the top AI-driven pharma stocks. The intersection of data science and machine learning makes research and development fundamentally different than it was previously. Molecule discovery will be much faster than ..."
     publishedDateTime: 2023-05-26T19:31:00Z
@@ -72,6 +86,20 @@ related:
       - url: "https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_377%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/46be6cceef56a10fe8b9ee36c006c5f59be895d3"
         width: 1200
         height: 628
+        isCached: true
+  - title: "It's Big-Cap AI Stocks Vs. Everything Else"
+    excerpt: "The biggest problem now is that the big-cap names are not acting as leaders. The celebration of a potential debt ceiling deal was a mixed affair. All the major indexes sold off after a gap-up open, and overall breadth was about 3,"
+    publishedDateTime: 2023-05-30T20:35:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/stocks/it-s-big-cap-ai-stocks-vs-everything-else-16124994"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 37
+    images:
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/8769f278-0507-11ec-b1fd-fd3daa580ac4.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "oqt6GTFSIvwl/bKIedmi566FnIGSwqsMDhb+m5nHZLxhZFgLHfk5Cjhg70M36e2KlW1tXGnIBgKtvbfulpgMGFs9YIXSrw5LU1YFJFP4j7xgE/BGW1bagxgqiLRXKpDz/0uUyVJZvR+RCQzmkQ5DBwyBY8ry80vg0lqcUBdajWx88XJil7LG7C4riIAsZ0mOl3uYd+gn2QMHKv7wyGW3x5SjFqp+cZdkbbQWHHTLeIqF+XXBd62dpb5dSQrWyPbA7ldgZ+WS2vqOxfk7arOKSGSwZ65fQPf4XrHUXbZYX0c+Cr2WyVdgMeWUANjtImWYfjWq8rv94ptXRQHlElBL2nNk0etUQzSddMSx+tZPBM0JfLrPHo1bO0lHnnYy2bcgeX2N6Fj07bNBlIVWoZcnaxe1O7OWbiGDGMY3+Rg5i4MK30DJcEtKw40YRc9Ld/02kdDts9RC3wk3GK1to5Iwc70Q/mSwDlTTh+MdXBp1zFw90soxNF93CeUvG2e3yfWfnW7xoJOgPf69SAzsruutoA==;sG82dhk8n3Lk2Q3gLUcoXw=="

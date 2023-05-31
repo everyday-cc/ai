@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/05/openai-execs-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/amp/"
 type: article
 quality: 95
-heat: 405
+heat: 415
 published: true
 
 provider:
@@ -210,22 +210,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "OpenAI boss downplays fears ChatGPT maker could leave Europe over AI rules"
-    excerpt: "OpenAI CEO Sam Altman is downplaying worries that the ChatGPT maker could exit the European Union if it can’t comply with the bloc’s strict new artificial intelligence rules"
-    publishedDateTime: 2023-05-26T14:55:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 55
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_1a249ab94593356940d8f56d15e8a019_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "A.I. Poses ‘Risk of Extinction,’ Industry Leaders Warn"
     excerpt: "Leaders from OpenAI, Google Deepmind, Anthropic and other A.I. labs warn that future systems could be as deadly as pandemics and nuclear weapons."
     publishedDateTime: 2023-05-30T09:00:00Z
@@ -309,6 +293,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "AI leaders warn the technology poses 'risk of extinction' like pandemics and nuclear war"
+    excerpt: "\"Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war,\" said the one-sentence statement released by the San Francisco-based nonprofit Center for AI Safety."
+    publishedDateTime: 2023-05-30T19:55:00Z
+    webUrl: "https://abcnews.go.com/Technology/ai-leaders-warn-technology-poses-risk-extinction-pandemics/story?id=99690874"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/ai-leaders-warn-technology-poses-risk-extinction-pandemics/story?id=99690874"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/ai-leaders-warn-technology-poses-risk-extinction-pandemics/story?id=99690874"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 48
+    images:
+      - url: "https://s.abcnews.com/images/Business/open-ai-sam-altman-gty-moe-010-230530_1685456702322_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "AI could lead to 'extinction', warn experts including heads of OpenAI and Google Deepmind"
     excerpt: "World leaders are being called on to halt the risk of 'extinction' at the hands of artificial intelligence. Business and academic leaders, including the heads of OpenAI and Google Deepmind, said the risks from AI should be treated with the same urgency as pandemics or nuclear war."
     publishedDateTime: 2023-05-30T14:23:00Z
@@ -356,6 +356,34 @@ related:
       - url: "https://krdo.b-cdn.net/2023/05/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG9uZS10aHVtYm5haWwtODMwZjVjNWNjNDYxMjRlNzJiMGM2ZGViMjRlZmIzMzM-L19wYWdlcy9oX2I1NzU0YjE3NDA1NGVhMjUxODM2MDZjNjBjMTcwNjg1-300.jpg"
         width: 1200
         height: 592
+        isCached: true
+  - title: "AI pioneers claim AI could bring about the extinction of humanity"
+    excerpt: "The Centre for AI Safety has published a statement that emphasises the need for implementing appropriate AI risk-reducing controls."
+    publishedDateTime: 2023-05-31T07:51:00Z
+    webUrl: "https://www.ibtimes.co.uk/ai-pioneers-claim-ai-could-bring-about-extinction-humanity-1716236"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 39
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1715771/artificial-intelligence.png"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Artificial intelligence threatens extinction, experts say in new warning"
+    excerpt: "Scientists and tech industry leaders have issued a new warning about the perils that artificial intelligence poses to humankind"
+    publishedDateTime: 2023-05-30T13:34:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692490"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 36
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_54ea8aadc60d1503e5a65878219aad43_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Eminent AI experts and corporate heads caution about the probability of ‘extinction risk’"
     excerpt: "Renowned figures in the technology industry, including the leaders of OpenAI and Google Deepmind, have issued a warning about the potential dangers associated"
@@ -430,15 +458,6 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 17
-  - title: "Artificial intelligence threatens extinction, experts say in new warning"
-    excerpt: "Scientists and tech industry leaders have issued a new warning about the perils that artificial intelligence poses to humankind. The statement posted online Tuesday says that “mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war."
-    publishedDateTime: 2023-05-30T13:28:00Z
-    webUrl: "https://apnews.com/article/artificial-intelligence-risk-of-extinction-ai-54ea8aadc60d1503e5a65878219aad43"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
 
 secured: "CVv4p4tYJ4ctlej6uGlxIiT0L11U5eMu+0KDd950iOk0he9+0is0rm15wIxTAy3/BLXedQWqjmvEAJxk8FwRstSmCfwvPV9+TohheGOVm8PbJbxIurIwWQ3nh8DUHqpa2zuXiFYECwwDwiveWQB0Mpk1jV4arcX88L2idZV3OViKZTedSk5+tXkPg50PEj4V5KStVSaIIUQ1Elk7fu42ekgl/W2I5wYUaTd+2poaj9A+G1MTGvNaaMmeJxBMDWpLeDLXmkRO8vrV84U+KvATfEVTE5mRkKMMsUKSZPbdiUHSairky/w2VeWhX/qpni+NydbpZVrrm3YVOKGOatjSlHDBTS2OLDd5FugkUn/11XydcFlJXlgKKzUwai77x3M3SgI+EfdCoPA0+PDWyxypqcNRXSRnS4UivH+bx4DRMRnzwAo5Vj3wpmE9VImkacXysjFAhhVWx9h7VR3tkn60XNQZ9mdHheNIRtFn1uw4dPN4efpAAkRqyP/FP5omLCDdAdi1mEy/H8I5n4eqjhnL+Q==;kMdif3A3/rNTbKjR4/Z9Bg=="
 ---

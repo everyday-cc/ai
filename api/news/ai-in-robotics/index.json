@@ -6,8 +6,8 @@
       "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
       "excerpt": "Robots are on display at the International Conference on Robotics and Automation in London, where visitors can get a glimpse of the future",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699797",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699797",
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972",
       "featuredContent": null,
       "highlight": null,
       "heat": 84,
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699797",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699797",
-      "publishedDateTime": "2023-05-30T10:34:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972",
+      "publishedDateTime": "2023-05-30T10:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ABC",
@@ -226,21 +226,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-27-japan-ai-startup-launches-robot-for-home-use.md",
-      "title": "Japan AI startup launches robot for home use",
-      "excerpt": "A Japanese artificial intelligence startup has launched a robot for home use capable of delivering items in response to verbal comman",
+      "path": "_news/2023-05-27-open-ai-backed-start-up-deploys-robot-as-security-guard.md",
+      "title": "Open AI-backed start-up deploys robot as security guard",
+      "excerpt": "The Norway-based robotic start-up deployed the AI-enabled robot as patrolling guard at two manufacturing sites, one in the USA and the other in Europe",
       "sourceUrl": null,
-      "webUrl": "https://mainichi.jp/english/articles/20230527/p2g/00m/0na/018000c",
-      "originalUrl": "https://mainichi.jp/english/articles/20230527/p2g/00m/0na/018000c",
+      "webUrl": "https://telanganatoday.com/open-ai-backed-start-up-deploys-robot-as-security-guard",
+      "originalUrl": "https://telanganatoday.com/open-ai-backed-start-up-deploys-robot-as-security-guard",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 101,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.mainichi.jp/vol1/2023/05/27/20230527p2g00m0na016000p/0c10.jpg?1",
-          "width": 1200,
-          "height": 630,
+          "url": "https://cdn.telanganatoday.com/wp-content/uploads/2023/05/robot-1.jpg",
+          "width": 1280,
+          "height": 750,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -250,11 +250,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-26T20:00:00-07:00",
+      "publishedDateTime": "2023-05-27T01:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "毎日新聞",
-        "domain": "mainichi.jp",
+        "name": "Telangana Today",
+        "domain": "telanganatoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -265,7 +265,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Security"
       ]
     },
     {

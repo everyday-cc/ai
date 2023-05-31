@@ -29,10 +29,10 @@ images:
 related:
   - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
     excerpt: "Robots are on display at the International Conference on Robotics and Automation in London, where visitors can get a glimpse of the future"
-    publishedDateTime: 2023-05-30T17:34:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699797"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699797"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699797"
+    publishedDateTime: 2023-05-30T17:43:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972"
     type: article
     provider:
       name: ABC

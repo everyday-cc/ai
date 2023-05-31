@@ -94,6 +94,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Future Of Generative AI Beyond ChatGPT"
+    excerpt: "Step into the future of artificial intelligence as we explore its extraordinary potential, from next-generation language models to generative design and gaming."
+    publishedDateTime: 2023-05-31T07:42:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/31/the-future-of-generative-ai-beyond-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/31/the-future-of-generative-ai-beyond-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/31/the-future-of-generative-ai-beyond-chatgpt/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6476f9bd5141e2d7f0a62ddd/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 652
+        isCached: true
   - title: "A lawyer used ChatGPT to cite bogus cases. What are the ethics?"
     excerpt: "A New York lawyer is facing potential sanctions over an error-riddled brief he drafted with help from ChatGPT."
     publishedDateTime: 2023-05-30T18:46:00Z

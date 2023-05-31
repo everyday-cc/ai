@@ -7,8 +7,8 @@ originalUrl: "https://telanganatoday.com/open-ai-backed-start-up-deploys-robot-a
 webUrl: "https://telanganatoday.com/open-ai-backed-start-up-deploys-robot-as-security-guard"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 101
+published: true
 
 provider:
   name: Telangana Today
@@ -26,47 +26,38 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Of Data Security: Staying Ahead Of AI"
-    excerpt: "While the benefits of recent AI innovation are enormous, the use of AI in its many forms comes with challenges."
-    publishedDateTime: 2023-05-26T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/26/the-future-of-data-security-staying-ahead-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/26/the-future-of-data-security-staying-ahead-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/26/the-future-of-data-security-staying-ahead-of-ai/amp/"
+  - title: "Japan AI startup launches robot for home use"
+    excerpt: "A Japanese artificial intelligence startup has launched a robot for home use capable of delivering items in response to verbal comman"
+    publishedDateTime: 2023-05-27T03:00:00Z
+    webUrl: "https://mainichi.jp/english/articles/20230527/p2g/00m/0na/018000c"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: 毎日新聞
+      domain: mainichi.jp
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5fabe26daa1946a71defd95f/0x0.jpg?format=jpg&width=1200"
+      - url: "https://cdn.mainichi.jp/vol1/2023/05/27/20230527p2g00m0na016000p/0c10.jpg?1"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "Insider Q&A: Artificial intelligence and cybersecurity in military tech"
-    excerpt: "Lospinoso recently told a Senate Armed Services subcommittee how artificial intelligence can help protect military operations. The CEO/programmer discussed the subject with The Associated Press as well how software vulnerabilities in weapons systems are a major threat to the U.S. military. The interview has been edited for clarity and length."
-    publishedDateTime: 2023-05-29T17:43:00Z
-    webUrl: "https://www.click2houston.com/news/2023/05/23/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/"
+  - title: "Japan AI startup launches robot for home use"
+    excerpt: "A Japanese artificial intelligence startup has launched a robot for home use capable of delivering items in response to verbal commands, such as bringing dishes and condiments to the dining room table or books and drinks to the sofa."
+    publishedDateTime: 2023-05-28T21:35:00Z
+    webUrl: "https://japantoday.com/category/tech/japan-ai-startup-launches-robot-for-home-use"
     type: article
     provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/PWGTWQ3HTBFCXHPY2CQETHQSJE.jpg?_a=ATCqVhC0"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "Insider Q&A: Artificial intelligence and cybersecurity in military tech"
-    excerpt: "Lospinoso recently told a Senate Armed Services subcommittee how artificial intelligence can help protect military operations. The CEO/programmer discussed the subject with The Associated Press as well how software vulnerabilities in weapons systems are a major threat to the U."
-    publishedDateTime: 2023-05-29T12:10:00Z
-    webUrl: "https://www.seattletimes.com/business/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/"
-    ampWebUrl: "https://www.seattletimes.com/business/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/?amp=1"
+      name: Japan Today
+      domain: japantoday.com
+    quality: 34
+  - title: "OpenAI startup plans to deploy robot workers in assisted living communities"
+    excerpt: "A startup plans to put AI-powered robots in assisted living communities, adding to other real-world jobs where the robots are being tested."
+    publishedDateTime: 2023-05-30T16:18:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/openai-startup-plans-to-deploy-robot-workers-in-assisted-living-facilities/"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 32
 
 secured: "iNnbYpF1bPCfhJHuhKDV8W1Uk++TYIsIY3r/vsVllMzjLM3bPUdrEZbvOrfr626JhPQZjk6ouzQiM4CdoMDC1rB28gTmGUks1xlPExWGrD8NAcpxtJe6zvgijYbir++x9j/9HuNKc0hCozozXk4SHG274fKiU/5B5E7lEKo3ooeRl7/IpXM/THKyVKTyuuCCMrPobiFEewsyFBM6yQlUqRskvqF73mfYAvSL4FF6Jte+g/y5ByimZZRbWttdLH7W/QihFMObAdLGe3YukZ5ctuC8FjLHuwKzhHPAP9QcnW9SyiuqyKs4CNrzFdHgGau1qDZz5OJ60555bmhMtRZ0LLnljUFhGkHYUGlP6ApJMezQpdvaJj/oyoeWQaKBvKwB2bQbmFjWKA2vYW/bwZ/4UAeMgZLZcVee/VZCS7ugZlOtgnQe0G0z4uPGC0kX5CJrrW1cI2V00IQoi7Yiv5LHyy4eF30UABquclfp2M53XDtQ8TrmRtHaBoSGjzrV5niWl0hKw0iN6slb3fyz7RoCag==;cDZlHVngLoWYTV+xNI6NuA=="
 ---

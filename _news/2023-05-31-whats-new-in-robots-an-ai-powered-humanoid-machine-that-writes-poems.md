@@ -2,11 +2,11 @@
 category: news
 title: "What's new in robots? An AI-powered humanoid machine that writes poems"
 excerpt: "Robots are on display at the International Conference on Robotics and Automation in London, where visitors can get a glimpse of the future"
-publishedDateTime: 2023-05-30T17:34:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699797"
-webUrl: "https://abcnews.go.com/International/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699797"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699797"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699797"
+publishedDateTime: 2023-05-30T17:43:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972"
+webUrl: "https://abcnews.go.com/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972"
 type: article
 quality: 74
 heat: 84
@@ -44,6 +44,6 @@ related:
         height: 683
         isCached: true
 
-secured: "DHiutQZRhjwSCxWDvCuvK13oRdtNubtiigzz8zfy/kbNTXod6oIcHFmpJH1QDqLeU4gt6rksZxdK/dndZdPzojCQqtsCSdhXQMVfO29h5ao/y1rLN4aAUQX1rWzCefFaRUIQvsSMPoK8AM0GXBdmWK3FOOx8zIPXGbsra5RGIAIQcJRpFT/oevxfjLwJ+chVQD6BxmX5hQBGMUxkEtlJ7M21qYj21c/D6wMX+Ae9QXda1UaT8BgUO1pkOk7Ve33BWQ+5SiMTdL//xHyyPzMgWL6vTGOCSACEdLNVXOTdipGc76PpqsaI3iNBzjbGWibTKyjJFnlbORxts00MRNFT6wNqzCXyV3MxxZ4todr/tYw=;fZINf2zJK1wCSz3gElSL8g=="
+secured: "EjZ4X0Z6LmuH9G4HM031nSlDLtPORhH3UQpOTImz4PvKRk/aRI6CreR0aQwVnu95RpWQCAw6uTlBsazP4DEGHrZkTj6NHIRyUOFhamsWpAakFhCNNVYy5lS8BJxwPEPfrwLTJttGbCCnSLNCYzOVrwim/c8JNqkPGtxg/8CIC6mK9LeNWYszz4CFYpNnth5ppGDlfmVJUicxZCdrKlLUnzmeBCIy4ascbl2jr8l9AtrMxLdFb9rDUtpd2U91uIUb+T3xWrrWKzcH81B+atLlo/N/vxslzRNjxbXDK84tYHIoA+qOAnTKIyWqgiV9Lgcm9cwzbg397WGI7oN+gRUYALNSUlUcTtzmCJZt0Dy2Gwc=;T5MmN6WYHO1Zu6c6F3SnvQ=="
 ---
 

@@ -216,22 +216,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "OpenAI boss downplays fears ChatGPT maker could leave Europe over AI rules"
-    excerpt: "OpenAI CEO Sam Altman is downplaying worries that the ChatGPT maker could exit the European Union if it can’t comply with the bloc’s strict new artificial intelligence rules"
-    publishedDateTime: 2023-05-26T14:55:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 55
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_1a249ab94593356940d8f56d15e8a019_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "A.I. Poses ‘Risk of Extinction,’ Industry Leaders Warn"
     excerpt: "Leaders from OpenAI, Google Deepmind, Anthropic and other A.I. labs warn that future systems could be as deadly as pandemics and nuclear weapons."
     publishedDateTime: 2023-05-30T09:00:00Z
@@ -315,6 +299,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "AI leaders warn the technology poses 'risk of extinction' like pandemics and nuclear war"
+    excerpt: "\"Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war,\" said the one-sentence statement released by the San Francisco-based nonprofit Center for AI Safety."
+    publishedDateTime: 2023-05-30T19:55:00Z
+    webUrl: "https://abcnews.go.com/Technology/ai-leaders-warn-technology-poses-risk-extinction-pandemics/story?id=99690874"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/ai-leaders-warn-technology-poses-risk-extinction-pandemics/story?id=99690874"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/ai-leaders-warn-technology-poses-risk-extinction-pandemics/story?id=99690874"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 48
+    images:
+      - url: "https://s.abcnews.com/images/Business/open-ai-sam-altman-gty-moe-010-230530_1685456702322_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Artificial intelligence could one day cause human extinction, center for AI safety warns"
     excerpt: "Worries about artificial intelligence systems outsmarting humans and running wild have intensified with the rise of a new generation of highly capable AI chatbots such as ChatGPT."
     publishedDateTime: 2023-05-30T16:52:00Z
@@ -351,6 +351,34 @@ related:
       - url: "https://krdo.b-cdn.net/2023/05/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG9uZS10aHVtYm5haWwtODMwZjVjNWNjNDYxMjRlNzJiMGM2ZGViMjRlZmIzMzM-L19wYWdlcy9oX2I1NzU0YjE3NDA1NGVhMjUxODM2MDZjNjBjMTcwNjg1-300.jpg"
         width: 1200
         height: 592
+        isCached: true
+  - title: "AI pioneers claim AI could bring about the extinction of humanity"
+    excerpt: "The Centre for AI Safety has published a statement that emphasises the need for implementing appropriate AI risk-reducing controls."
+    publishedDateTime: 2023-05-31T07:51:00Z
+    webUrl: "https://www.ibtimes.co.uk/ai-pioneers-claim-ai-could-bring-about-extinction-humanity-1716236"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 39
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1715771/artificial-intelligence.png"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Artificial intelligence threatens extinction, experts say in new warning"
+    excerpt: "Scientists and tech industry leaders have issued a new warning about the perils that artificial intelligence poses to humankind"
+    publishedDateTime: 2023-05-30T13:34:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692490"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 36
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_54ea8aadc60d1503e5a65878219aad43_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Eminent AI experts and corporate heads caution about the probability of ‘extinction risk’"
     excerpt: "Renowned figures in the technology industry, including the leaders of OpenAI and Google Deepmind, have issued a warning about the potential dangers associated"
@@ -425,15 +453,6 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 17
-  - title: "Artificial intelligence threatens extinction, experts say in new warning"
-    excerpt: "Scientists and tech industry leaders have issued a new warning about the perils that artificial intelligence poses to humankind. The statement posted online Tuesday says that “mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war."
-    publishedDateTime: 2023-05-30T13:28:00Z
-    webUrl: "https://apnews.com/article/artificial-intelligence-risk-of-extinction-ai-54ea8aadc60d1503e5a65878219aad43"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
 
 secured: "V51iYyb/F4mk9datuIFOWfLE36bvx2SgTO5G8pjLhMzUaHZt/Tt5QL6sxr/8ct09a9RRIJSMHpObmy6nVO/LxTYV3QCU0BqFk6lT+JY4rbPLpDvho1Z8b711UKzy4T8saupQkWhVoZ6FnBRxqrh+Kyt04PoL6BnkqiPTNtoqKJzZN+U7ZzWzNGO2tKVa+bFY9rEimA/EUF9UWxV+E0EGsQD++w9irLmsvhOX8q483rxDjQ0I6a7JOPK1TXrAXW7DBpr5p9ST/7pytDNY0W6LZW6gsRCZX0p4yHpthp5BCmvdLgm0f+d9LMeb+0dVpCkr/lVgvPqHK1ynl/U2kMgBNm1YNWL04R4+qEgnK2GQ7Ekrl8kACSFe+MG1071/lSpPpk1zz0OC3CmYNCB1Fn41xwt1cjsmhZYc3nJn+tlBg8rfXogc3xsIgHQgpIH20p557b94AtLq2XaxTCCDTeFCnD+5oNUtn5CREhJn8vPgGFZhXD5HCllTbnbiU0hmMaxIFe119aq/CUlsO2wPp0AmkQ==;FA7LLkdk97DjDTiy/ALsBg=="
 ---

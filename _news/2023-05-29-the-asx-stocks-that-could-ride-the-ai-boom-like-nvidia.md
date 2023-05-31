@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "AI Stocks Are Flying, but Don’t Call the Craze a Bubble"
+    excerpt: "Nvidia and other tech stocks have added billions of dollars in market value as the technology has boomed"
+    publishedDateTime: 2023-05-26T20:42:00Z
+    webUrl: "https://www.wsj.com/articles/ai-stocks-are-flying-but-dont-call-the-craze-a-bubble-18403c5a"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-789009/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "AI boom drives gains for chip stocks"
     excerpt: "Demand from institutional investors appears to have underpinned the chipmakers’ recent rally. They are the “primary source” of demand for AI stocks, with only a “marginal increase” in retail investor interest, according to VandaTrack."
     publishedDateTime: 2023-05-28T04:01:00Z
@@ -73,6 +87,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "It's Big-Cap AI Stocks Vs. Everything Else"
+    excerpt: "The biggest problem now is that the big-cap names are not acting as leaders. The celebration of a potential debt ceiling deal was a mixed affair. All the major indexes sold off after a gap-up open, and overall breadth was about 3,"
+    publishedDateTime: 2023-05-30T20:35:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/stocks/it-s-big-cap-ai-stocks-vs-everything-else-16124994"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 37
+    images:
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/8769f278-0507-11ec-b1fd-fd3daa580ac4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "7I8buysOs+Os8g26lrJG1u9U2z1b7LCN+46ir3GNdGrXzbfVVCn99MBj92ljl710bUgiXsSbKkCOiCSCjelzFY1EhsMMM+rHhkSe0jXmj8GFJ1rvZwYA+M6zagVgMLOZwO0Vh8JeNDkyYbOYFRFUXa/6hWVIP1EIKykbq7zft837DGE5QmxNazE7g6H3OoKTd8HOGJ2NAGGLbHpmfUT674s5v/1R29i0XKTpFKNjCZWra3TGzgcE8oR1Gw+QveaVESsCvuJ4GVtFF5JLV+82RBK3/L+C5Au7GuX+2HCIXM4UUeTe02dyd/Vtbaf4ox2Vjgf2WYeaTT2NJJ4UUUVRJu8E+kNQ3uWWxRSLkjhVyN8=;kxbwNyo6qMQzMCMrI/0C9w=="
 ---

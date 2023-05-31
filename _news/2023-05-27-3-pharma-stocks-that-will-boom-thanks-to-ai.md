@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "AI Stocks Are Flying, but Don’t Call the Craze a Bubble"
+    excerpt: "Nvidia and other tech stocks have added billions of dollars in market value as the technology has boomed"
+    publishedDateTime: 2023-05-26T20:42:00Z
+    webUrl: "https://www.wsj.com/articles/ai-stocks-are-flying-but-dont-call-the-craze-a-bubble-18403c5a"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-789009/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "AI boom drives gains for chip stocks"
     excerpt: "Demand from institutional investors appears to have underpinned the chipmakers’ recent rally. They are the “primary source” of demand for AI stocks, with only a “marginal increase” in retail investor interest, according to VandaTrack."
     publishedDateTime: 2023-05-28T04:01:00Z
@@ -75,6 +89,20 @@ related:
       - url: "https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_377%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/46be6cceef56a10fe8b9ee36c006c5f59be895d3"
         width: 1200
         height: 628
+        isCached: true
+  - title: "It's Big-Cap AI Stocks Vs. Everything Else"
+    excerpt: "The biggest problem now is that the big-cap names are not acting as leaders. The celebration of a potential debt ceiling deal was a mixed affair. All the major indexes sold off after a gap-up open, and overall breadth was about 3,"
+    publishedDateTime: 2023-05-30T20:35:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/stocks/it-s-big-cap-ai-stocks-vs-everything-else-16124994"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 37
+    images:
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/8769f278-0507-11ec-b1fd-fd3daa580ac4.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "2FJ9SaPcZ7IwEDv2PTrel1aqxSdd14jmsl8Vhzaqe7NMYsmo7/oQLKe68BCgBkFijX4W58SNX05h25YnKwTPPeOgoj7vGd1o78DlwfZOBXWt+ZjhlcH9MEzjMHLUZWHflomiFYofDcVi4a4my/kT6YDLGSbNEZPTYLqmNjcgDZK8i7UcikrvYZ1MnIDBi1h3wMGz2SO3yAlN4WaqajihjRFGV2/QZf8o48/t37VBX2uGuBz+dxcHLAEpPJNTsbf0PJzTLw/DLtpU8WIpk0dV6PiN9uRlePBPDnEuA7DqPao+PNEq9NT47Ls/zcgMgvFdOKpT4qrKaH6AL8lp7l3Eu/Op0NtZXbyTjbi5FAHF8KU=;h1H8k6rGfDOo0M4zBxX3Xw=="

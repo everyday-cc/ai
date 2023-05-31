@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/05/26/as-generative-ai-accelerates-c
 webUrl: "https://siliconangle.com/2023/05/26/as-generative-ai-accelerates-coding-for-developers-the-long-term-impact-is-just-beginning-kubeconeu/"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 882
     height: 498
     isCached: true
-
-related:
-  - title: "Google’s New AI Is Better at Creating AI Than the Company’s Engineers"
-    excerpt: "One of the more noteworthy remarks to come out of Google I/O '17 conference this week was CEO Sundar Pichai recalling how his team had joked that they have achieved \"AI inception\" with AutoML."
-    publishedDateTime: 2023-05-29T23:23:00Z
-    webUrl: "https://futurism.com/googles-new-ai-is-better-at-creating-ai-than-the-companys-engineers"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 39
-    images:
-      - url: "https://wp-assets.futurism.com/2017/05/google-annouce.png"
-        width: 1400
-        height: 600
-        isCached: true
 
 secured: "Laxf1wgC5qG0L/8eeLcUz9sd+/A3UAEAXudj1p8GtBgoE48LTavYFGFUEpi44H1fftY9zvAMfBZuYqCE3xWypM6Vnpr0CS5U6GZpWDZAcv+5VPDz+/e3EcDZ3nOeHGMdHeklEhZQB5GMP8QHJvjC/eKrcITfnoUnXQEAN6JGrZLjFDNDLiiAHTVkiVNmnsvyraD5dZ8+SZT70OEgj9h+e5bMVaNPQ4hSQMnsHJYPxikVlAbAI++IolFzavnm5W4ekV2vTA6ZP88qlUVOm2OmdPaDWOV5CPcQ9RVQJHgT5QdNYEASd/LWxiCeXeNuK3vvlfLRM3DJ+WkkxhOuE0Ut3eTgXSAZsPX/q++qHf8vcRs=;1jRQ1OdhfdbEVix20fa2ww=="
 ---

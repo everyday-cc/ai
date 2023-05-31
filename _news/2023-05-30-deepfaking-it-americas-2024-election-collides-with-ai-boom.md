@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Deepfaking it: America's 2024 election collides with AI boom"
+    excerpt: "Thousands of deepfakes are surfacing on social media, blurring fact and fiction in the polarized world of U.S. politics."
+    publishedDateTime: 2023-05-31T02:17:00Z
+    webUrl: "https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/mg_Z3flbGFCYf_PGJ98qsWZc7Gc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W2AOGF7FCFKJ5PN6UOL7GVR7VM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "WlbunlTrBtpkfO/Nyio5vV/IN7SiP0TrnB3ySy9557ogsseGdyRULQ/LvZfePukhNjg5OPjq93h3m6kAga1JQBti3oUdx6pCYMON/eJ7jb5WeeYYgBNFVFbqLFBsNzwrW+utnMchcJQlYlnK3T9UVSOCzmJPTpPdtnOHDZndQ2CdHDN2IAcrDBGoBPdnwvKOYweNV3fbFzfH8PRvW1YnP1OTQFtinb1jmMJ6lALoM7qoZu9a0irBaoDf8UieYwcL4oXJ5OET7ngYPISEIwKfh/SGXpDcCO6uPfRC4Du/QZ4fR/MR5V/DrAG45qdVOchMR1nESw8FzIeo6ehewilglM5OZWAdCCEMvbY5aHuiqas=;m+v1nqHoBsjvkd+wYrx80A=="
 ---

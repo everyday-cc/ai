@@ -1,31 +1,23 @@
 ---
 category: news
 title: "2023 Digital Health Market in North America: Featuring Omada, Planet Fitness, Proteus Digital, Sweatcoin and Well Doc Among Others"
-excerpt: "The \"North America Digital Health Market and Trends 2023\" report has been added to ResearchAndMarkets.com's offering. Teleconsultation in the form of video and audio"
-publishedDateTime: 2023-05-30T22:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/05/n32638750/2023-digital-health-market-in-north-america-featuring-omada-planet-fitness-proteus-digital-sweatco"
-webUrl: "https://www.benzinga.com/pressreleases/23/05/n32638750/2023-digital-health-market-in-north-america-featuring-omada-planet-fitness-proteus-digital-sweatco"
-ampWebUrl: "https://www.benzinga.com/amp/content/32638750"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32638750"
+excerpt: "Teleconsultation in the form of video and audio calls has gained importance among medical professionals and patients in the U.S. and Canada Digital health trends like remote patient monitoring, telemedicine,"
+publishedDateTime: 2023-05-30T22:31:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/05/30/9823040.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/05/30/9823040.htm"
 type: article
-quality: 14
-heat: 14
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "BVheiipY1YNUNCAA0llim4mwYLvfUDLFQTfOXEEmPvMF/WE69NQRvryL48jEJxDWs275I/1kdC5DZEerYyFX+Rp1BQIZgl+ICS5TvsZ+QMo/eMoGRZNC9goV5nX4XfjtL2NvBTmFe6E7wA7JV8XWmwoWSv6zHendwGg6GWqPJDKR3OxJRn7Ms/Jco/gERGh7rpgoDaxQpqE2UwpF3J5RZRIuY2yPqhRNLSvSyjz1GjUSr87LT1r/ve1iLDcjRoiD9ySCIIXumTiEfNRZ8px7EGUwnilWVD2PEGPNwfIcj1eVYQZxX+fDqMo383ZGJfjPuHN5v0QbId6KabGbI11NtRxayquepHGTXZx0VzHmTw0=;fgXFiAdmzATI+JVN0wyRqA=="
+secured: "dYmNtp+xavdaHw/0pzpNDMvyfCGQ85rxOOQrbfdTok42p0CZQ7zWOHxpjhNmq4of6fCSbLBJLxEmcYLkb/r3qqH7ZeXnS2NgpCDQg/JwGFnaHRsQ9xSW+SD8WcmiSM3FJIaB0HUG8wy7gPlU7uUNYVQOL+am3VSXKftS7W2BrOVJzo/8qjKrhlrD8cFNFQE+M32QLaoXLGFQbKxVz+mbzbkl29Ck/kcAU67mnGqv2iTxBD6OgcEl46WSRyNBZ6l6P3DvHn+2bEpk1b89J82Q6RNJ/OWmXAu1BR47zb89aUazsVUWrpXqI11e8aCHGx0zwnfinriNdmjdveXSS31z5EBGh/dvlgAgCEWnaMIG/7k=;NIqvudcdaTZka039GatVsw=="
 ---
 

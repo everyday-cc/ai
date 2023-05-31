@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Artificial intelligence threatens extinction, experts say in new warning"
-excerpt: "Scientists and tech industry leaders have issued a new warning about the perils that artificial intelligence poses to humankind. The statement posted online Tuesday says that “mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war."
-publishedDateTime: 2023-05-30T13:28:00Z
-originalUrl: "https://apnews.com/article/artificial-intelligence-risk-of-extinction-ai-54ea8aadc60d1503e5a65878219aad43"
-webUrl: "https://apnews.com/article/artificial-intelligence-risk-of-extinction-ai-54ea8aadc60d1503e5a65878219aad43"
+excerpt: "Scientists and tech industry leaders have issued a new warning about the perils that artificial intelligence poses to humankind"
+publishedDateTime: 2023-05-30T13:34:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692490"
+webUrl: "https://abcnews.go.com/Business/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692490"
 type: article
-quality: 16
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/International/wirestory_54ea8aadc60d1503e5a65878219aad43_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "OpenAI execs warn of “risk of extinction” from artificial intelligence in new open letter"
@@ -213,22 +219,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "OpenAI boss downplays fears ChatGPT maker could leave Europe over AI rules"
-    excerpt: "OpenAI CEO Sam Altman is downplaying worries that the ChatGPT maker could exit the European Union if it can’t comply with the bloc’s strict new artificial intelligence rules"
-    publishedDateTime: 2023-05-26T14:55:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/openai-boss-downplays-fears-chatgpt-maker-leave-europe-99628933"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 55
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_1a249ab94593356940d8f56d15e8a019_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "A.I. Poses ‘Risk of Extinction,’ Industry Leaders Warn"
     excerpt: "Leaders from OpenAI, Google Deepmind, Anthropic and other A.I. labs warn that future systems could be as deadly as pandemics and nuclear weapons."
     publishedDateTime: 2023-05-30T09:00:00Z
@@ -312,6 +302,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "AI leaders warn the technology poses 'risk of extinction' like pandemics and nuclear war"
+    excerpt: "\"Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war,\" said the one-sentence statement released by the San Francisco-based nonprofit Center for AI Safety."
+    publishedDateTime: 2023-05-30T19:55:00Z
+    webUrl: "https://abcnews.go.com/Technology/ai-leaders-warn-technology-poses-risk-extinction-pandemics/story?id=99690874"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/ai-leaders-warn-technology-poses-risk-extinction-pandemics/story?id=99690874"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/ai-leaders-warn-technology-poses-risk-extinction-pandemics/story?id=99690874"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 48
+    images:
+      - url: "https://s.abcnews.com/images/Business/open-ai-sam-altman-gty-moe-010-230530_1685456702322_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "AI could lead to 'extinction', warn experts including heads of OpenAI and Google Deepmind"
     excerpt: "World leaders are being called on to halt the risk of 'extinction' at the hands of artificial intelligence. Business and academic leaders, including the heads of OpenAI and Google Deepmind, said the risks from AI should be treated with the same urgency as pandemics or nuclear war."
     publishedDateTime: 2023-05-30T14:23:00Z
@@ -359,6 +365,20 @@ related:
       - url: "https://krdo.b-cdn.net/2023/05/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG9uZS10aHVtYm5haWwtODMwZjVjNWNjNDYxMjRlNzJiMGM2ZGViMjRlZmIzMzM-L19wYWdlcy9oX2I1NzU0YjE3NDA1NGVhMjUxODM2MDZjNjBjMTcwNjg1-300.jpg"
         width: 1200
         height: 592
+        isCached: true
+  - title: "AI pioneers claim AI could bring about the extinction of humanity"
+    excerpt: "The Centre for AI Safety has published a statement that emphasises the need for implementing appropriate AI risk-reducing controls."
+    publishedDateTime: 2023-05-31T07:51:00Z
+    webUrl: "https://www.ibtimes.co.uk/ai-pioneers-claim-ai-could-bring-about-extinction-humanity-1716236"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 39
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1715771/artificial-intelligence.png"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Eminent AI experts and corporate heads caution about the probability of ‘extinction risk’"
     excerpt: "Renowned figures in the technology industry, including the leaders of OpenAI and Google Deepmind, have issued a warning about the potential dangers associated"
@@ -434,6 +454,6 @@ related:
       domain: thestreet.com
     quality: 17
 
-secured: "Hr9y8hEs6bf+Dg9kf0PgfDqRJtzOPZ9cLe/uQM49AfGvKUAZHvC2TXjhS/wpTtx/9sOeHzke7UCb/lrDd+7158f25SqTO9UazlkVMVnMtd3cUlQ/Fl5j4B3FuYbuaIFpom4L7uEqKi9cRVHSl5LUD2HF1+eDuWDsImXPL+QVeIq8niNRYYtOithq4TjfZHZCAbkH+F2WTX/gRee9BHHF2IbDtKJoRvbkSPTa3McC9yqaoz0RubmJ1vwHVV2nQDZp1b2SlfBOmFqAD7oYk9I0uIyF/98F88QVnQSOr7tvJ7HQvZjA74ai1pY7xu6CrMfblY489X7f9e55jyuMT1LlvyYX3Ic29ze4z48nFkow9/DalSHq4lYpT7i1BQclhjZdid1mYPoaYuZqthirBi3P4NAvAndtlmW88eX0lnYzI3r1V5peCVxrIleTPMyrPNmS6DdkG0rGY/S79n1DuaqRlBgLtSsJhlXRUshblgpE4AuhejZtFg+7iV8mq0miG3EBbBUdvQvTiKQA1iBPBO7SBA==;ZZ7F/QAUWwfmUui6l5gNuA=="
+secured: "pL4h93e7p8tJsSn0m4/DKb2PnO24+w2iiZR7d6MNEKxO1Xi/U6LNhEHcP/pe7ww4c7oZyGU6wgdrOcAcyZwliZdmoJ/J/Uj7KjffABguzIggjCX/SX7eLx8F+nG9IiTK12c5pWm1npzv3wYXpZGg0KdHmxuGFYJ1YDpkYio87UrOVgJL6VMZdCFn7Q+B4BF/aoGb72SHaC8KmAh+oDnN82Fld2wu2HsYyfaQchyAMCIm0qwuKus4v1fEG+d0sCyqQEq+hjH4EY42cVZ9GcqCnnan58lfV0IekpGxRX4uDTUQm9+GWY9GhfCL1W1/k1dZDXiNuWa4/q6HweV5z8CxASZVZtXoAUlbdbtKbZfcnuU=;jbUigpXH3lt1F/Fo3AChpQ=="
 ---
 

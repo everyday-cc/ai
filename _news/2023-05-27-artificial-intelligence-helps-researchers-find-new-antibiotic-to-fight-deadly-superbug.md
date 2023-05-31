@@ -24,6 +24,17 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "A new antibiotic, discovered with artificial intelligence, may defeat a dangerous superbug"
+    excerpt: "Using artificial intelligence, researchers say, they’ve found a new type of antibiotic that works against a particularly menacing drug-resistant bacteria."
+    publishedDateTime: 2023-05-26T18:45:00Z
+    webUrl: "https://www.kmbc.com/article/antibiotic-discovered-with-ai/44017261"
+    type: article
+    provider:
+      name: KMBC Kansas City
+      domain: kmbc.com
+    quality: 9
+
 secured: "xVL2W19ACtXanm/qZA2Coqjpi+1vpj5zab9Pc+qDJPu7yuH4NYXPSQ9vpZo14NzJ+3JnZPR7uHn5Hn0sULkP/fhuKZ+69+hQJgoA1NqPiNivwoMo4WpX4UUbI86RZ9NioRjq3yMOLSCy8SldJ3Lidd7S4n22/8gcHOyCzkKq0YkA+qX9Xv9keMkY/ZDrqEbinDDiP8NjQlsuRnKXInT0ETfFd0164PFW3CYmZZEpK2GdXgErHzcGj9ty4Z8x2inwC1bdZCCO+J/PRD8ooQUaZrebJ2XXDt4HOA9ni9SoDz3y+QVxS0r/98itXKtBUbfG34fzlSrMPKDghomtMbdmpTVN4GDN5c+LfpJsdyJ86HnyP+x6mFJoXm/ASxlkbK0NVFu4XHpifL1mvQFQFXZu0ULixKD9RSSQS+OxDjrmyrewTYyj/9X9ANaavsU4uPt/jfD5U4+DNDBYJg3BZlKKVUXrBSUFlJj5P5Cx3rldCppQqEns+cg42xAMchAFCI19oO0tBedZ+UOTa4N0Pqub1A==;Xk8dweLXKR2FFV5bIpXRTA=="
 ---
 
