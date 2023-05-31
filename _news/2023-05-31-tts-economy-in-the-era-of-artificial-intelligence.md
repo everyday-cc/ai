@@ -9,7 +9,7 @@ ampWebUrl: "https://trinidadexpress.com/business/local/t-t-s-economy-in-the-era-
 cdnAmpWebUrl: "https://trinidadexpress-com.cdn.ampproject.org/c/s/trinidadexpress.com/business/local/t-t-s-economy-in-the-era-of-artificial-intelligence/article_3d627998-ff46-11ed-8f23-832b2bd1be3e.amp.html"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     height: 512
     isCached: true
 
-related:
-  - title: "Don’t believe your lying eyes in the AI era"
-    excerpt: "For instance, New York startup Runway has just released a tool that allows anyone to transform one video into another type of video using words and images as prompts, while San Francisco-based Gan.ai has raised money from VC luminaries like Sequoia Capital ..."
-    publishedDateTime: 2023-05-26T10:49:00Z
-    webUrl: "https://www.bangordailynews.com/2023/05/26/opinion/opinion-contributor/dont-believe-your-lying-eyes-in-the-ai-era/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 37
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2023/05/Fake-Pentagon-Explosion-Fact-Focus.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-
-secured: "CjLQAqzYv5rIZsz6fepTFQ5PmfEvz8HQYwWg6uTffbmiJFBvqDBM+4m7VjtZ+qVmS0FTcsjej7BIUWC1xy4K0m53dMqFcxuVtWgU41qIMjKcdqmPHhFkURleU8glYbvfVj95JtN6VEMcTsnKs1S96Td/w+BKqO/YpJd9laooq2bOiajx3cxZc/2qezupvNbIqgzIPZJN2J2U/tniuLVZa/GudPdv4ZGqXWTIF2x4v2viu1AXuoG6xJUKQwl4cEmo8TKF1CP71xfjeWLGRgL3cocKRBU2D6hkNTUCc5lwElG9XzKmjwOPIiidyWA54UzskDAiFAYqH9YhYgLjsO7Df/MypejLFeyxq0/mvHu9PzY=;K7lzcTZeokBzniQw753GFQ=="
+secured: "d8jIpXj4cj4qTNhxLmaZedt/UuBx9JMdfkDABqk1Ru1oNMYuwc1GMo3PaZWigC6Rcn/9X2vLEc6gwQz16XTIL8zclruXJF6MGovH/PUXwvzN7nHFE2eHWvEkC1JLhVLg7E+C0ROEpRf6JVLbo9j5p0+Zk+Rn4vuJ7URCG03FP+tRX8vM1Jv0SdiFi++EPYnwE7Zul/fsW6E3+kUlqrA+db9Q8i/NdwtdWsci9L8nksvZAVUCrcPB1IlO/EkpjidDtF+QS6YSXTFoQ0nAa13YXx65+lWfX7d2brbgPGzJHp6Uq1aM6C/tcBn3wZXXwZdCE1m5GDqNOJ1X1nqo5bCJF16BxEDlYEBK37IIXHseiiRIHFXqcyowoS0AqillugkZ+zc63aRHENSDquDKhXMI1djvQa2hME0RsdxTvI4BIglxNdJIpe3SG33FXidnxylEqbmDX2uRkowsBzA+KNlSi5CODUXq3skAtjRDyP6K2nQy3X4aQeyYK6C3KxtUaPigE3OhH07b/SY9pjDyKcf0ng==;gcbprz86BpPsKVg9hRQ2dQ=="
 ---
 

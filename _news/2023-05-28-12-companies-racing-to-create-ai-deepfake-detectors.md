@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/chatgpt-ai-12-companies-deepfake-video-image-d
 webUrl: "https://gizmodo.com/chatgpt-ai-12-companies-deepfake-video-image-detectors-1850480813"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3696978/microsoft-integrates-nv
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.amp.html"
 type: article
 quality: 103
-heat: 363
+heat: 353
 published: true
 
 provider:
@@ -301,15 +301,6 @@ related:
         width: 1502
         height: 845
         isCached: true
-  - title: "Nvidia AI Enterprise moves to Azure"
-    excerpt: "Nvidia is integrating its Nvidia AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives. The integration will create a secure, enterprise-ready platform that enables Azure customers worldwide to quickly build,"
-    publishedDateTime: 2023-05-26T09:43:00Z
-    webUrl: "https://it-online.co.za/2023/05/26/nvidia-ai-enterprise-moves-to-azure/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 34
   - title: "Nvidia bets on AI hype to help it chip away at Intel"
     excerpt: "Chip maker Nvidia hopes to mount a stronger challenge to Intel with a new product line that promises the best generative AI capabilities."
     publishedDateTime: 2023-05-30T12:07:00Z

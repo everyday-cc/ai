@@ -106,20 +106,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "The essential AI glossary for marketers"
-    excerpt: "The field of AI – which blends elements of computer science, cognitive science, psychology, game theory and a number of other disciplines – comes with a huge variety of technical terms that can be tricky for outsiders to understand."
-    publishedDateTime: 2023-05-26T09:04:00Z
-    webUrl: "https://www.thedrum.com/news/2023/05/25/the-essential-ai-glossary-marketers"
-    type: article
-    provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 39
-    images:
-      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/untitled_design_-_2023-01-26t124615.978.png?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Generative AI may be the next AK-47"
     excerpt: "AI has the potential to change how wars are waged. But few humanitarians are thinking about how it will shape conflicts and crises."
     publishedDateTime: 2023-05-30T11:33:00Z

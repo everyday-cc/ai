@@ -308,15 +308,6 @@ related:
         width: 1502
         height: 845
         isCached: true
-  - title: "Nvidia AI Enterprise moves to Azure"
-    excerpt: "Nvidia is integrating its Nvidia AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives. The integration will create a secure, enterprise-ready platform that enables Azure customers worldwide to quickly build,"
-    publishedDateTime: 2023-05-26T09:43:00Z
-    webUrl: "https://it-online.co.za/2023/05/26/nvidia-ai-enterprise-moves-to-azure/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 34
   - title: "Microsoft and Amazon Announce Similar New Machine Translation Features a Day Apart"
     excerpt: "Microsoft and Amazon announce similar new machine translation features within a day of each other, both intended for enterprise users."
     publishedDateTime: 2023-05-30T08:15:00Z

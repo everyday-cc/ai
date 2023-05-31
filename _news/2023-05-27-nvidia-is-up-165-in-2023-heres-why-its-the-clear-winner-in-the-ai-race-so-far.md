@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-ai-ra
 webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-ai-race-artificial-intelligence-wall-street-gpu-huang-2023-5"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Not Just Nvidia: These Are the Other Big Winners in the AI Chip Biz"
+    excerpt: "COVID-19 was hell for tech stock and chip manufacturers, but ChatGPT and AI have since been a boon for Nvidia and other similar companies."
+    publishedDateTime: 2023-05-26T21:44:00Z
+    webUrl: "https://decrypt.co/142568/nvidia-big-winners-ai-chip-biz-tech-stocks"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 54
+    images:
+      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/05/nvidia-ai-chips-gID_7.jpeg"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "KQ5+umLKd6PWw0sPELXlmcaxkvlM6xKKFqeNxRU2XsmGrIwsxeePmQMHTZ1Ng0frC8gJeLIDcFgIiyf8UEbpvyf6G94xlIm85x5FiOedgSry0kzGc2Yumisw8RNVkDXkybUx4xSajUgBu356oDPSH6Dor9VsM6WB8VgFZ53f/+SzDrWwopdQ8mhOm0B/EJBZylMDutWaepgvNljVv/0BCiT2cp7nRN0/TdZ2at1Gnpafc4NCUL8y7swWyXrABKlMtUGi+oJkyZD+SOM8gW8PJQe9LhEMyQi6CJdR1u4kPcoR8/+Q3g7t2yBFnTIsiRsMz8XODHSzgcLjpX2LjMO1D5K07K0PGkB95B3kTZyzgNyq+VdFyHWL6HPE1ND7pI+H0IDmvLtEywTSpkv1z8xvoJS41wxMhWyvqc2jTPFSOZyDyBjB8QomorTTp1Kh8fSYt5/I/ikgZpT+LysC7YFKos46Bm8TLtwj8yP0bMcmf1/41ghkJq1sZd2KUtKQ9OrR96QqJzdxMi+sYjv7q+fkKQ==;1E3duH+0jJ28Gw6skoJtcw=="
 ---

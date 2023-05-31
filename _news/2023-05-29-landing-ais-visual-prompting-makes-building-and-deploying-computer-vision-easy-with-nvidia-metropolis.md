@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-s-visua
 webUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-s-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropolis-1032355971"
 type: article
 quality: 68
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nvidia chief Jensen Huang says AI is creating a ‘new computing era’"
-    excerpt: "In his first in-person public address since the start of the pandemic Jensen Huang warned that the traditional tech industry would not keep pace with AI ’s advancements, adding that the technology had dramatically lowered the barrier to entry to computer coding."
-    publishedDateTime: 2023-05-29T12:17:00Z
-    webUrl: "https://ft.com/content/5bfcc670-7fcf-4ffd-92ae-cd7b7948405f"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "3D4DSrq0VpT6C9sqAPxvT03IVGziQryX4W4NnlfXJiLdTS57M2Wkg8/u64kGphjS8puw210k6u6FKPNy7ooZ1/4A/w+gcdPTh6n5YsY7GxP89IfNJUqf2nSKvW2FqUpaKiVEh1PMhNmPw24fs0LaDEKWLK99frcCFXfrzoCYGbzCF/OHNaeWfGdUaWRBsV3UHJ2pwPDnEuUkeFveD54u80kjjKv/WZrCbL2AGXKVJSjuh9HPmaN676kmazcv16ADlL21WEZHWOqCzb3gMtF4188HbwmmNeRp2pKsyq43e+nnW5u0YZIhz11XXR6fbsacZ8TxRV/1EWFh0xvq3bjbn8loiKTervINP12FuNUcSoYpvZw0njfcfzK+tYX8jcvsNVONcEYZbiwIHv9hXsiYDKvBgKY3Sv398U3gtwVHzsWN3yFBlvpNmaaXww+WRMrtq1dMwFPLmbrNjteZsiRSG4Nc3rcJ4bevfPW+MBzINvuvaa4qz9roEoNx8jtJMSLleZ1U+uSphHMUCZUijGBxcQ==;3klBCKqg647DbokI912kWA=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-30T13:45:00Z
 originalUrl: "https://www.finextra.com/newsarticle/42388/financial-wellness-fintech-elifinty-launches"
 webUrl: "https://www.finextra.com/newsarticle/42388/financial-wellness-fintech-elifinty-launches"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://www.finextra.com/finextra-images/top_pics/xl/rszelifinty-maysamrizvi.jpg"
+    width: 480
+    height: 270
+    isCached: true
 
 related:
   - title: "AmEx is experimenting cautiously with generative AI for fintech"
@@ -87,6 +93,6 @@ related:
         height: 500
         isCached: true
 
-secured: "8TwX2lTYWq5oFysSXJDCiz8x2oGP9N8jSng4Y17tMMfIBPxr5NFZTSyTjYHBKvPgaZhvqCcNw6itsiFaPc0EjYPaI5oUXx4B853kKpdLKGqq26N5StsLOAI0Smms2VRMgu6pHhw9L/MexsSCn0jWrmkdKD9VxsyA+Ri3Ue+/BY096DIXKsRBz9q+OrNHSvnlsi58PEsMpvmOnREV/yRTqBcqWGjDMAITmd2BXxFMzB+d0y00N4+d2dJwpKyd5r0E8SUMogDcBIQkOUOLy6UN+7YECsZ9kNKMsCWxFL6ABTVzwfUOpUSBsPWk2Swx/GzsB6Kbfa6JKO+Dz4e9iwYx2XjPzlRVPoQEWz9DNvSntbg=;YQgvzpNJLKhOk7EsmialUw=="
+secured: "zrtPwYmtQnFdOdyxSICu/rghQ5ext9DI+KqIYQKRja2N6ZbZvz7AAicWehO2CPcl8gMndVo/UulHwuBEF2W2dtognkK+6P2/LOjwrTSIo70Jl2e/FuYZJ+KmN4OONwZ+hLbC5A7/Esymtuozyvg6EC2/lRLSWki/lGen9s4qi3C/ksMi1gWAt4QJ0VKkR35xZqLAg0nDJGrDxkBmZaJ9BxCUwmxz6w8LhNhyspgLxSDlFfC/8i+auM8kmZE5Ws3X+MMPPku0uujqzcL33cNraGPibnVXfN5BoUVazZDQOTjcLDr6/tsBx0jH3UYPhMz51Y6A1PQKAZjmAdmQmfCT9/bVTVMTQDBnIMqcmpz9Q+U=;YJHc0z/bjcDL1zFutCA9Yg=="
 ---
 

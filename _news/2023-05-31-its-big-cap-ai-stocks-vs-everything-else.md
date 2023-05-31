@@ -40,20 +40,6 @@ related:
         width: 1279
         height: 640
         isCached: true
-  - title: "2 AI Stocks Billionaires Are Buying Hand Over Fist"
-    excerpt: "Generative artificial intelligence applications such as ChatGPT have become so popular with the general public that billionaire investors are buying AI stocks left and right. Billionaires who know Nvidia is the leading provider of the chips that AI ..."
-    publishedDateTime: 2023-05-26T09:28:00Z
-    webUrl: "https://www.fool.com/investing/2023/05/26/2-ai-stocks-billionaires-are-buying-hand-over-fist/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/733767/investment-presentation-getty.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "AI Is Becoming the Stock Market’s Answer to Everything"
     excerpt: "Rarely does a tech-powered stock rally come along that isn’t pilloried for the fragility of its foundation. Now, with a snowballing craze for artificial intelligence pretty much propping up the market by itself,"
     publishedDateTime: 2023-05-26T20:11:00Z

@@ -69,15 +69,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Nvidia chief Jensen Huang says AI is creating a ‘new computing era’"
-    excerpt: "In his first in-person public address since the start of the pandemic Jensen Huang warned that the traditional tech industry would not keep pace with AI ’s advancements, adding that the technology had dramatically lowered the barrier to entry to computer coding."
-    publishedDateTime: 2023-05-29T12:17:00Z
-    webUrl: "https://ft.com/content/5bfcc670-7fcf-4ffd-92ae-cd7b7948405f"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "XPui/XqPOYl40JalyKakgBkv1H6PTFZjAb8MjNpiU+RPRTUvNsO873L98bFccD1nWMnyRm0C8OEvANyFhk3oLzkkONhOs8hrODL5gqJ6yeJHKMVlNAVwkkgfUTLJdBjAGF6cKQGz8uIdQmoBvCmWXoQTfX0zy2gPBllxYVOJyKHjn9wmsYtapJKIPoShUMagl6b0dYoNwHrluMUr6AWtUmFOF5wd+XgAz5PemDMP6G6ue9fp97MimNvTfc71ARMez8hI8uMCgjo3Veht0/5xZFuuGBmPEo+tM5NWLOcAS//jRSnARdfllnBEBxdYqd0gVdcJLtVEpBdnIabyA6lvkZCuNiasCFtPbHoiGQVOu+dXaKfWUytLi+pune2CA2dbBd2ffwlo3g9X+/Z+b9+ybkoUEWaiCzLAT+Sdb1x4GGZL4O0Nq4ag328AHq32FDoJ+mGA9VD3KhAo71yUQiEEpzx91fihslgFIschmigM5i5+v3WW6VArXvYECmp12EWNCcW+Wse6T2F1QH1nYBs0pQ==;0fyYz4S6b+GAxOY7GIkYcQ=="
 ---

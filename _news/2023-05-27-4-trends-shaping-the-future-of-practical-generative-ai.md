@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Where Memory Ends and Generative AI Begins"
-    excerpt: "New photo manipulation tools from Google and Adobe are blurring the lines between real memories and those dreamed up by AI."
-    publishedDateTime: 2023-05-26T10:00:00Z
-    webUrl: "https://www.wired.com/story/where-memory-ends-and-generative-ai-begins/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/646ff414d96882f74caa3dc7/191:100/w_1280,c_limit/Where-Memory-Ends-and-Generative-AI-Begins-Gear-GettyImages-690638821.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "How the rise of generative AI could kill the metaverse — or save it"
     excerpt: "Will generative AI kill the metaverse? Maybe, maybe not. How their combination could build a dynamic digital future."
     publishedDateTime: 2023-05-28T15:20:00Z

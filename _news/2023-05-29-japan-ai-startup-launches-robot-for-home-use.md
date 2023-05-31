@@ -19,34 +19,6 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "This AI Startup Aims To Predict Heart Failure Before It Happens"
-    excerpt: "That’s the dream of Tamir Tal, the founder of Israeli-based artificial intelligence startup Cordio. Its app, HearO, uses machine learning algorithms to detect changes in a patient’s voice that suggest there’s fluid accumulation happening in the lungs ..."
-    publishedDateTime: 2023-05-26T10:02:00Z
-    webUrl: "https://www.forbes.com/sites/alexknapp/2023/05/26/this-ai-startup-aims-to-predict-heart-failure-before-it-happens/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647007f373dcd9bff4c0026e/0x0.jpg?format=jpg&crop=3322,2492,x0,y237,safe&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Top 5 Artificial Intelligence Start-ups to Watch in 2023"
-    excerpt: "Founded in 2021 by former OpenAI researchers, Anthropic counts Google as a major investor. The Alphabet ( GOOG -0.63%) ( GOOGL -0.75%) subsidiary took a 10% stake earlier in 2023, and Anthopic has had multiple funding rounds this year. It was valued at $4.1 billion in March. It also counts Salesforce ( CRM 1.59%) and Zoom ( ZM -0.89%) as investors."
-    publishedDateTime: 2023-05-30T20:30:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-startups/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
-    images:
-      - url: "https://m.foolcdn.com/media/dubs/images/original_imageshttpsg.foolcdn.comeditorialimag.width-600_IFPc1qZ.jpg"
-        width: 600
-        height: 399
-        isCached: true
   - title: "Japan AI startup launches robot for home use"
     excerpt: "A Japanese artificial intelligence startup has launched a robot for home use capable of delivering items in response to verbal comman"
     publishedDateTime: 2023-05-27T03:00:00Z
@@ -61,15 +33,43 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Italy plans state-backed fund to promote AI startups"
-    excerpt: "Italy's government plans to set up an investment fund backed by state lender Cassa Depositi e Prestiti (CDP) to promote startups investing in Artificial Intelligence (AI), cabinet undersecretary Alessio Butti said on Tuesday."
-    publishedDateTime: 2023-05-30T11:23:00Z
-    webUrl: "https://www.reuters.com/technology/italy-plans-state-backed-fund-promote-ai-startups-2023-05-30/"
+  - title: "Odisha All In On AI, Launches AI For Youth"
+    excerpt: "Odisha is setting an example for states like Karnataka and Telengana, which are lagging behind in AI initiatives."
+    publishedDateTime: 2023-05-30T05:43:00Z
+    webUrl: "https://analyticsindiamag.com/odisha-all-in-on-ai-launches-ai-for-youth/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/05/naveen-patnaik-3.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Can AI make me a musical star?"
+    excerpt: "As vocal clones of music’s biggest names go viral, the FT’s pop critic embarks on an unlikely quest to replicate his favourite singer’s voice"
+    publishedDateTime: 2023-05-27T04:00:00Z
+    webUrl: "https://www.ft.com/content/408a8920-cf0c-4f23-925f-8496da15153f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/lifestyle-weekend.jpg"
+        width: 619
+        height: 377
+        isCached: true
+  - title: "Corporate VCs ride AI startup wave"
+    excerpt: "Of the 44 startups Workday Ventures has backed, about 25% are already using tech developed by OpenAI, according to managing director Barbry McGann. She adds it's because the AI company's tools are so \"enterprise-ready,\" making it easy for business software makers to quickly integrate the tech."
+    publishedDateTime: 2023-05-27T13:00:00Z
+    webUrl: "https://www.axios.com/2023/05/27/corporate-vcs-ride-ai-startup-wave"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
 
 secured: "Hx9fgSy5Y3QcFueS7rAijM3CEBKuQ/uBuumznEqE+yjuXk8rKBTNMMqhO2h3u3Lwt6cipO8OVun7B29AEah/MnAWoG1o973SSJWSsy4Gg6b0rwoN0T13zpPhrCWfFrsKEmJ8pk2aSzQEXI7eUugrAGJ3/fMEF/iILJiEkjNE4SYrpF//z0GCfMQLQ5GzJkoMSIi9L7Rjn1jra+kySJo6GiUO2FACNRLkTkWOX4xfJM6VgDrXAWs1Hsxu+qmtNxsZwaDqPFTvkbeCxpHhXtfkKG2valPmm5i8+8FqaB3GI0Ut6Ady0rlJR2W/NjYjhbrhnFTM/Iik1RnznJYDoRbDsyPy1QS/1D6Q8jZU1AnVms0=;HuiNJ7rSp0pAGGmeAFuZLA=="
 ---

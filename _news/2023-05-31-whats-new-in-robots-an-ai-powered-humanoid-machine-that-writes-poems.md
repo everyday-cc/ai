@@ -1,27 +1,28 @@
 ---
 category: news
 title: "What's new in robots? An AI-powered humanoid machine that writes poems"
-excerpt: "Robots are on display at the International Conference on Robotics and Automation in London, where visitors can get a glimpse of the future."
-publishedDateTime: 2023-05-30T22:27:00Z
-originalUrl: "https://www.click2houston.com/business/2023/05/30/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/"
-webUrl: "https://www.click2houston.com/business/2023/05/30/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/"
+excerpt: "Robots are on display at the International Conference on Robotics and Automation in London, where visitors can get a glimpse of the future"
+publishedDateTime: 2023-05-30T17:34:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699799"
+webUrl: "https://abcnews.go.com/Business/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699799"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699799"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699799"
 type: article
-quality: 39
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Click2Houston
-  domain: click2houston.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SIHLYWUWUREPZOTZKFPXSHTJ7U.jpg?_a=ATCqVhC0"
-    width: 700
-    height: 467
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -42,6 +43,6 @@ related:
         height: 683
         isCached: true
 
-secured: "Dw3X0Ut5gy/BMLTsXN9xS7HD8vf6cJKfB1uoibaBSJpXYtoIuIJ2mWj75Ta0hmWTla5P6Nk6OZ+7UTOdAgG1M8BfiySjT9l79WAVRYu/3j/JytcF2RUXVPJIUr/u9l8KmdtAJXJt7hFGn0k2kinXjAUTwXQ3tT93mdnyvdhNlbHCsDMH/H2NsbkAJksPv6ak8H238GdLu6ULC8/vIocm1zkY+B+nurqkSLkj3jpG/ZknZD0wyiUaE8qIRGFFUrqIbDLOlLLoGh1zBJD8RUPq1dCqc89nFKNialCXTAGN/9NDH5KWqnBqTf2SpmiuPR4MyZ09+mPQddwNRmNmGoTkyG1w/2eyvfaiiYE28oX3DnY=;iBooCVxKbufEhXDPT7gwJA=="
+secured: "ze29qdmYFSiOPU8K6R02hEbbyeaBsc+oXGSAsQTXo1ClrESTm/6QPtQkeDyKz/R3t0LiHkD97iULlzLytbHb4tR9j4HXkSWOTHVtI63d21VbAqc0Y6lVnZ/JJpdnxCWvzrPMECCoB+mMYFCm9j7gkhBCxJvngYhoE4ZU82eCzqRiSkiDrcg8ZjwlT2poD2ETvvH00o1XM0fwkwPFaegqhsnkgVjnelYbLo5IDTaoahzmXtKwLKzYUNN2ktXZrjUwRZyr7ntszwVgezWGMThtOzO5MIQjdgK0hHzWf9EwbnqV25P7P0BEyiJCQUhp7CP6zyPMjkEMYnU+PyJgBuTNyjmJ9SwKVS8DuRkIlV2Mb3o=;m6Y9UgCr2yuV3rnfVvsccA=="
 ---
 

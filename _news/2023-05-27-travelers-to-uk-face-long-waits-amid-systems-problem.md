@@ -9,7 +9,7 @@ ampWebUrl: "https://www.staradvertiser.com/2023/05/27/sports/sports-breaking/tra
 cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/05/27/sports/sports-breaking/travelers-to-u-k-face-long-waits-amid-systems-problem/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 90
 published: true
 
 provider:

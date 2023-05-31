@@ -85,7 +85,12 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
-    quality: 4
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rszelifinty-maysamrizvi.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "8fXFWXreKKVPQpKNIUMbAu5+Cjj2jLa5GHxZtLwkyxGZB04Ssa3KVVD1osqMPMWLfg9hqPiU9tOsD4ZKyzB1k+RHTSkf5ju5XZ08iuwmmJaSg7LG9fgyzSsILm/Ey2g4Rd6wNRqSyugmTbCSt0G4eq6OBJM2z83OQFtrBSdSNjce7TsO6o3CqWpu02Nu+qRXKIOiZLqdlqD2Fv3MAyjuOUVFuJGbDYR7QYpLCkQq3GqwJto32xsLDJkrw9+lV7l+/HYsxyCBMPwzSUogwl33zRCsjZ1QQwyoONHqOKxWH8B3bhZXgHrE+Yq0bqRs0lR7h+GUMrRWYOBt65O99hMtdz6z2oEtdBAHE3P8LufzB70mO1WnJ5up8QZtBh5BoKHPZW276b3Fah21dsR8Ye5Zfrmy0HMWSIvjx1IaNPwrtd47+MtDh/vszS4EAmoQJ8K/MFnHad4YUQGVZqGs5dzJkW2aV70u6LV3OG5N+xw8il2fC4hdYEMajK7evr77tVy9RMONVvGL+g6yAYoYWnaCrA==;oJ2+2JmqIsTeLn/wy6ULqg=="
 ---

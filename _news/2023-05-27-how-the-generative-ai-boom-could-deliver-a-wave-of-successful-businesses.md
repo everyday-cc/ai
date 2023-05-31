@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-the-generative-ai-boom-could-delive
 webUrl: "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/"
 type: article
 quality: 68
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Where Memory Ends and Generative AI Begins"
-    excerpt: "New photo manipulation tools from Google and Adobe are blurring the lines between real memories and those dreamed up by AI."
-    publishedDateTime: 2023-05-26T10:00:00Z
-    webUrl: "https://www.wired.com/story/where-memory-ends-and-generative-ai-begins/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/646ff414d96882f74caa3dc7/191:100/w_1280,c_limit/Where-Memory-Ends-and-Generative-AI-Begins-Gear-GettyImages-690638821.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "4 trends shaping the future of practical generative AI"
     excerpt: "How will enterprises be thinking about and integrating generative AI as the technology grows ubiquitous? Here are some of the ways:"
     publishedDateTime: 2023-05-27T01:07:00Z

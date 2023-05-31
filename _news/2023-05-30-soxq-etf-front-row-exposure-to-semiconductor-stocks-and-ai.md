@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/soxq-etf-front-row
 webUrl: "https://markets.businessinsider.com/news/stocks/soxq-etf-front-row-exposure-to-semiconductor-stocks-and-ai-1032356835"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:

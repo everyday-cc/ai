@@ -43,6 +43,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "JazzUp AI Revolutionizes Multiple Industries with Customized Artificial Intelligence Solutions"
+    excerpt: "In a remarkable stride towards empowering industries through artificial intelligence (AI), JazzUp AI today unveiled its comprehensive suite of AI solutions. JazzUp AI's innovative productivity solutio"
+    publishedDateTime: 2023-05-31T01:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/ab32640180/jazzup-ai-revolutionizes-multiple-industries-with-customized-artificial-intelligence-solutions"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32640180"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32640180"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 60
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Conversational AI’s advancement and its implications on our lives"
     excerpt: "Conversational AI has transformed the landscape of customer service and support. With intelligent voice bots, businesses can provide round-the-clock assistance, instant responses, and personalized interactions."
     publishedDateTime: 2023-05-28T06:29:00Z

@@ -25,22 +25,6 @@ images:
 
 related:
   - title: "Regulators take aim at AI to protect consumers and workers"
-    excerpt: "AI also affects hiring, housing and working conditions ... hosted by software industry group BSA. “Those could start with industry standards and some sort of coalescing around that. And decisions about whether or not to make those compulsory, and ..."
-    publishedDateTime: 2023-05-26T09:28:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/regulators-aim-ai-protect-consumers-workers-99622780"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/regulators-aim-ai-protect-consumers-workers-99622780"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/regulators-aim-ai-protect-consumers-workers-99622780"
-    type: article
-    provider:
-      name: ABC News
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/Business/wirestory_8f5a450bd05e6079c742a9ce00b5c576_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Regulators take aim at AI to protect consumers and workers"
     excerpt: "AI also affects hiring, housing and working conditions. Ben Winters, Senior Counsel for the Electronic Privacy Information Center, said a joint statement on enforcement released by federal agencies last month was a positive first step."
     publishedDateTime: 2023-05-27T04:27:00Z
     webUrl: "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers"

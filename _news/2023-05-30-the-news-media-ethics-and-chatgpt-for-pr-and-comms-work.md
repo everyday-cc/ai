@@ -231,20 +231,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 43
-  - title: "AI alternatives to ChatGPT"
-    excerpt: "Even though everyone seems to be talking about ChatGPT, the new artificial intelligence service created by the team over at OpenAI, there are plenty of"
-    publishedDateTime: 2023-05-26T09:33:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-alternatives-to-chatgpt/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/AI-alternatives-to-ChatGPT.jpg"
-        width: 700
-        height: 508
-        isCached: true
   - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
     publishedDateTime: 2023-05-26T17:30:00Z

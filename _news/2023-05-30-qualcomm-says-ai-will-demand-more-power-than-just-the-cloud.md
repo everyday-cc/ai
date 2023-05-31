@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-05-30/qualcomm-says-a
 webUrl: "https://www.bloomberg.com/news/articles/2023-05-30/qualcomm-says-ai-will-demand-more-power-than-just-the-cloud"
 type: article
 quality: 67
-heat: 78
+heat: 77
 published: true
 
 provider:
