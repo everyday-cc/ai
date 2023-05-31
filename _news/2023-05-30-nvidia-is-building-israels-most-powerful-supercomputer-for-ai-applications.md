@@ -69,6 +69,38 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Methane-cutting genetics research and disease-preventing AI project among Farming Innovation grant winners"
+    excerpt: "Ground-breaking research that could advance the UK dairy industry’s sustainability and efficiency is being funded through Defra’s Farming Innovation Program."
+    publishedDateTime: 2023-05-31T14:59:00Z
+    webUrl: "https://www.dairyreporter.com/Article/2023/05/31/Methane-cutting-genetics-research-and-disease-preventing-AI-project-among-Farming-Innovation-grant-winners"
+    type: article
+    provider:
+      name: Dairy Reporter
+      domain: dairyreporter.com
+    quality: 21
+    images:
+      - url: "https://www.dairyreporter.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/dairyreporter.com/article/2023/05/31/methane-cutting-genetics-research-and-disease-preventing-ai-project-among-farming-innovation-grant-winners/16456604-1-eng-GB/Methane-cutting-genetics-research-and-disease-preventing-AI-project-among-Farming-Innovation-grant-winners.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Nvidia chief Jensen Huang says AI is creating a ‘new computing era’"
+    excerpt: "In his first in-person public address since the start of the pandemic Jensen Huang warned that the traditional tech industry would not keep pace with AI ’s advancements, adding that the technology had dramatically lowered the barrier to entry to computer coding."
+    publishedDateTime: 2023-05-29T12:17:00Z
+    webUrl: "https://ft.com/content/5bfcc670-7fcf-4ffd-92ae-cd7b7948405f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
+  - title: "Innodisk empowers smart factories with NVIDIA AI and Metropolis Platforms, and Aetina's SuperEdge AI Training Platforms"
+    excerpt: "Innodisk is collaborating with NVIDIA and Aetina to bring the latest artificial intelligence (AI)-powered industrial digitalization and automated inspection into its factories for advanced electronics manufacturing."
+    publishedDateTime: 2023-05-31T13:51:00Z
+    webUrl: "https://electronics360.globalspec.com/article/19762/innodisk-empowers-smart-factories-with-nvidia-ai-and-metropolis-platforms-and-aetina-s-superedge-ai-training-platforms"
+    type: article
+    provider:
+      name: electronics360.globalspec
+      domain: globalspec.com
+    quality: 0
 
 secured: "2URrnV8yvvgvJjatRWMsit2U9LGk9z3LejcPESf051wfS1/1Kww8UFuCH6XcYYKQaaZZaG3IuBpYUROOQFqGR85ZswFtRjhkbLReQRjfqi+kd81l5qpA9ApsowyYeW6Hp3l1k4LzyobvCS1STNh/VSSa6YrtDoXW3x/YofSH4w9crn/P+yQaYctun/PffAtZaPRjVoSviXJ1VioZo5sQZ+sWpAh7ndtDcj0MzyEPMRXFA3orXAN65JbO8YoxpPn7oyAFuXa0aIPY+VUSQv1ui12/L08p0gkaiNwqrvGK19HQxMTv71AkX67mZ/hL6R2qzuFLOLGVljzZGohMX0vVqk086Rw9/qmPuJPG5DV0crHUK+0S9Ry6pngksyPCMyqzZZ/w9ok9MrSCMIvx/RdkD8jO9AzJaWGPnIXGPPPAGuOcTXsqhxkjkMDoC58JhIWKbRQbgdvZFhRSjUJqb8070wZxk64jCZycurliacGh0zfs+ZUEfBMXF5EeKKL4VF51pKIXLOVhOVXChMVidg4rqA==;h1gmmrY94rfVkLnk90NkOw=="
 ---

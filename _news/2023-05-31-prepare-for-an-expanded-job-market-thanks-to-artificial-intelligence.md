@@ -46,22 +46,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "Digital Marketing In 2023: The Rise Of AI And What It Means For Your Strategy"
-    excerpt: "If you’re a digital marketer, you can’t execute your strategies without technology. But how does AI fit into the picture, and how can you use it to your advantage?"
-    publishedDateTime: 2023-05-26T22:00:00Z
-    webUrl: "https://www.forbes.com/sites/johnhall/2023/05/26/digital-marketing-in-2023-the-rise-of-ai-and-what-it-means-for-your-strategy/"
-    ampWebUrl: "https://www.forbes.com/sites/johnhall/2023/05/26/digital-marketing-in-2023-the-rise-of-ai-and-what-it-means-for-your-strategy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnhall/2023/05/26/digital-marketing-in-2023-the-rise-of-ai-and-what-it-means-for-your-strategy/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 101
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/616f031ae034e7cc41252b6e/0x0.jpg?format=jpg&crop=1549,1162,x0,y0,safe&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Missing The AI Forest For The Generative AI Tree"
     excerpt: "Some companies and entranced by generative AI, but should be exploring other types better suited to their key data."
     publishedDateTime: 2023-05-29T16:40:00Z

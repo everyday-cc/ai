@@ -9,7 +9,7 @@ ampWebUrl: "https://www.albawaba.com/amp/business/pr/game-emirates-group-and-aws
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/game-emirates-group-and-aws-team-craft-immersive-digital-world-1520998"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 6678
     height: 5344
     isCached: true
+
+related:
+  - title: "UAE’s Emirates partners with AWS to bring immersive, gamified training to employees"
+    excerpt: "With a brand new Emirates Virtual Hub, the airlines will use iXR technology to provide its cabin crew with an unmatched 3D interactive experience. UAE's Emirates partners with AWS to bring immersive,"
+    publishedDateTime: 2023-05-31T12:10:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/uaes-emirates-partners-with-aws-to-bring-immersive-gamified-training-to-employees"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 28
 
 secured: "lxRNfhpctj5xJmPlAR8ppP0hRcifK7hcUsaBs6qkLIGzeg8r86WigTlwk1DcM+arlgv6SRjMD4YJYs1tb4vAIbuUVTsUlVxBo5yVrvMb/jDpWNjK+C1/j+G/9BqNnkFpsa25SJzob14xIQEkPg/vkDikfJe47OI4+R81BYl5WtYnMJrGUEXv47xiySRy+zwy1tGjWq2SyAxiyykckT1HBrbaJ4OVPAN9BqoPuKGGXBpxr5NLdzruRPm8uO6P81y0WG+A7gbiDLKbii+nYUEp//+VB9nX7zHfkuBfUsJxSVrSbHp/7euFNlzP4nIYqwGsChc+1FiU1mMxMdEEFGhNPzz55kVESN+GboyNqbKlQok/y8vzWCnRRlVtR/OMEtCl9EodO4gcZ2ok91ylBmE5BNbSB+Fn0vcAJcJ1kg2gm1X72ejJbaQasM/RcC2S+8XIRt/54bHsTtLdomw5jA5TQJfW1f2DpwKqyrmhA7YTjahdE7c/wC6/ueAgGYVIbXqLPeBJUTH+PQMFkn44negW4A==;QzC4KDiFoXD9W03pyoDiqw=="
 ---

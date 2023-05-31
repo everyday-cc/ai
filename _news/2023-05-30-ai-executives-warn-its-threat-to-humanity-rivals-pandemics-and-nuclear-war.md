@@ -27,15 +27,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
-  - title: "More Tech Experts Issue Warning About Possible Threat of Artificial Intelligence"
-    excerpt: "More Tech Experts , Issue Warning About Possible Threat , of Artificial Intelligence. NBC reports that leading experts in artificial intelligence have released a statement warning that the technology"
-    publishedDateTime: 2023-05-30T19:06:00Z
-    webUrl: "https://www.thetimes-tribune.com/news/nation-world/more-tech-experts-issue-warning-about-possible-threat-of-artificial-intelligence/video_1047b33b-381a-51e2-8c35-434de3411eaf.html"
-    type: article
-    provider:
-      name: The Scranton Times-Tribune
-      domain: thetimes-tribune.com
-    quality: 12
 
 secured: "GMg911LRCcVifwZpyDsJPfbgpNo5XpKkWEAsn/DZuC5JqEnFSy1Uw1Q6whlh0UzXCi58PZkcm5pJ4Nx/AHyHYKhV2pyn4fpmjeqh4Mq8TcJjpFi/WFllewpCE2RN2C7jDDzex2aLX3g+5i+oexcc/QIqRd4Pgkk3tkECTJLGIzPmVWI14iCidSWSvjapsFuLr1R1iXUmXOYI+H5uroFXXQFNfGa6RRbGEfWOBLBwzy5VjyprgOW/rJQK5ABvTYN8CmR9nGNDOQLPfUiBbRXkC1DW2drrCv62V37wvWjNUpApglrQnqNAbhnXRpxCUx4OdF5ATArr+5ubImA4W8VBxpoVd+HHph14OlG90GIKIbUPnf8vMCVYdAXy77MKyYLQ3BmLpFcTBd68IIfC+oNf+i28nGzRc7U8Gly2T4Xf4rW4gnaC2UQY+wGSNnWLHn/zk3SlmL3xjcbeS7EdCjXWa2AI+MLB14pl5lTgTtZu9y1OemnkeGj3t7GPyuMoJdGItDzch7KyuutkA5nHp2YNvA==;2spCRkCLv0KffPyMKeL/Yg=="
 ---

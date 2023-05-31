@@ -1,32 +1,22 @@
 ---
 category: news
 title: "NEWSMAKER-Nvidia CEO Jensen Huang: Boss of trillion-dollar chip firm powering the AI boom"
-excerpt: "Jensen Huang, the chief of chipmaker Nvidia Corp, has joined an elite list of tech executives to head a company worth $1 trillion."
-publishedDateTime: 2023-05-30T19:24:00Z
-originalUrl: "https://www.reuters.com/article/nvidia-stocks-huang/newsmaker-nvidia-ceo-jensen-huang-boss-of-trillion-dollar-chip-firm-powering-the-ai-boom-idUSL4N37R3QV"
-webUrl: "https://www.reuters.com/article/nvidia-stocks-huang/newsmaker-nvidia-ceo-jensen-huang-boss-of-trillion-dollar-chip-firm-powering-the-ai-boom-idUSL4N37R3QV"
+excerpt: "But Huang recognized that university labs were using his chips for work in AI, a niche n computer science that held promise of powering everything from virtual assistants to self-driving cars. At the time,"
+publishedDateTime: 2023-05-30T20:24:00Z
+originalUrl: "https://www.nasdaq.com/articles/newsmaker-nvidia-ceo-jensen-huang:-boss-of-trillion-dollar-chip-firm-powering-the-ai-boom"
+webUrl: "https://www.nasdaq.com/articles/newsmaker-nvidia-ceo-jensen-huang:-boss-of-trillion-dollar-chip-firm-powering-the-ai-boom"
 type: article
-quality: 75
-heat: 115
-published: true
+quality: 55
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Nvidia: chipmaker’s strategic AI moves result in a tech position of power"
@@ -45,44 +35,7 @@ related:
         width: 620
         height: 417
         isCached: true
-  - title: "Nvidia's massive AI GPU has enough memory to make a gamer weep and even Jensen Huang's wondering 'if this could play Crysis?'"
-    excerpt: "The superchip comes with 576GB of GPU memory, including 96GB of HBM3 memory and 480GB of LPDDR5. Considering even the 24GB of GDDR6X on the RTX 4090, it makes for stark comparison"
-    publishedDateTime: 2023-05-29T06:45:00Z
-    webUrl: "https://www.pcgamer.com/nvidias-massive-ai-gpu-has-enough-memory-to-make-a-gamer-weep-and-even-jensen-huangs-wondering-if-this-could-play-crysis/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 27
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/xThSbwdmR5sspBTnq5ftvZ-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Nvidia founder and CEO Jensen Huang: Run for food or run from being food"
-    excerpt: "Jensen Huang, the founder and CEO of GPU company Nvidia, encouraged students to be agile for the opportunities brought by the AI revolution, to have the humility to admit failure and ask for help as well as to endure the needed pain and sacrifice for realizing their dreams in his commencement speech at the National Taiwan University (NTU) on May 27 in Taipei."
-    publishedDateTime: 2023-05-27T06:50:00Z
-    webUrl: "https://www.digitimes.com/news/a20230527VL200.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 23
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230527vl200_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Nvidia chief Jensen Huang says AI is creating a ‘new computing era’"
-    excerpt: "In his first in-person public address since the start of the pandemic Jensen Huang warned that the traditional tech industry would not keep pace with AI ’s advancements, adding that the technology had dramatically lowered the barrier to entry to computer coding."
-    publishedDateTime: 2023-05-29T12:17:00Z
-    webUrl: "https://ft.com/content/5bfcc670-7fcf-4ffd-92ae-cd7b7948405f"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
-secured: "M1bxekxu9GKkovDzS4thwjPIj2YYVHUHVLTj9EfysH9yo5ZhKHriyO0kJhZ48P3NjjBdQpp0ihR/sKQbTImUB9b8V6ELQ7uZIplyf1mpbvW9zNoLkK8Fllxgx/BgmuBy7I5QrTURxicsMwBCeEPiWVXdaCwi/nc/x+ZhhOsQ8lYY67Di9Ja2/PEv545V1asDuLPZTBW68pFwb2MN4a+uSeXwIHFnUT67PC/DAc11IvxiPMNL1sEuk0fe7GyXBNgzrCWLljxY0ImlyllgmZJzkhSm9NnoSx9/OhvIgxSLbJXOz38QzNJ25kvClBITuafnfld4oRJlNURqNxgcyHI9kgbk6G0eUMT5eEUMsRnyhjM=;eiZlSCkb64FYEx7oZGOS9A=="
+secured: "XhK6JOqXphiKq3rnDuCUrEFyzmWICFu/4vNxayq3Fpofp9gsbgGxPj//D5U84/6I8zinCkrJX8e5q51564tdw9Hx+EDYlY8u3tK1+WRP9buWx0Vv9mmXDHmhbtwNb05tNqKCVEDbCYHy69dztLpiEzZuAtt/Ru/knsDJeSCfxGcHPqI2uWmUCySh0PFRr2wqnd+vBKkM7QbTLtRb79qWUYGRcSBFRZ9CcD9tEBeNSUTB0lqbIMOivqVIcBt2rRJV4InB3U5i32f5dT3aui3zIDHpJJwGW4Lp9VdL5rpUTUcCLLKadKvnU6WXHuZnYlXqRW/io9wK/g1Fzc95NAbupFxypwIamM3kT77mQkV+h7iVZZUwNAHwZvtA9XwDUOgt7OWcUf8d7GbfObhem/gjnlPQIfxEQOje9t3Wwr98wh2d+7jCu/+s9gYigkhP8tcMbTE11kL8TAsXS1JfuiTLDuJefsCwHjp0qRSzBuQrvRO4XZPsDrXDjAo4RajfGc5SOYs2WNuNDlfO90vyKV/nRA==;yAJkie2kcaYqdcjVYkzeog=="
 ---
 

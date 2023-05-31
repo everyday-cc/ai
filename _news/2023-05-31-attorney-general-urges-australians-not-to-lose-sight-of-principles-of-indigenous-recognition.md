@@ -73,6 +73,15 @@ related:
         width: 1590
         height: 1060
         isCached: true
+  - title: "Australian fruit-picking robot could help ease labor shortages"
+    excerpt: "Australian startup Ripe Robotics is spiking the industry’s interest with its newly launched fruit-picking robot, Eve"
+    publishedDateTime: 2023-05-31T13:03:00Z
+    webUrl: "https://www.freshfruitportal.com/news/2023/05/31/australian-fruit-picking-robot-could-help-ease-labor-shortages/"
+    type: article
+    provider:
+      name: Fresh Fruit Portal
+      domain: freshfruitportal.com
+    quality: 19
   - title: "Far from undermining democracy, The Voice will pluralise and enrich Australia’s democratic conversation"
     excerpt: "We need a richer account of democracy within which to locate the Voice, to lift the quality of public debate about it."
     publishedDateTime: 2023-05-28T20:06:00Z

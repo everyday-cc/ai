@@ -26,6 +26,17 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "Robots participating in the Power Slap League?"
+    excerpt: "This video, which shows a robot competing in the Power Slap League, was created by AI and went viral with several people thinking it was real."
+    publishedDateTime: 2023-05-31T12:39:00Z
+    webUrl: "https://en.as.com/other_sports/robots-participating-in-the-power-slap-league-v/"
+    type: article
+    provider:
+      name: as.com
+      domain: as.com
+    quality: 19
+
 secured: "Xr5ZqicqDoF7hOSeFKPC2Dnnjr7pVYixqPSdD1nzmoqpy/X/NB7IxvnS+NSgIitH40QLrnYnqZQEvHcrtP3jBihpp7doNfmGJEXgMdGR1xIMYkLRskftuPtGm2MmqugQCyBjbi4CBDIrLrKNcNa+5yeAoxcJP8J6t2d/Og4qT4KrNscVjhnmpsd1aV+IAf8FsVopL/WUQ4zfc3kE/9VwZuZ3olUnJtVWmAulWDOZm5aUQuYj2sc1trFv/srJ7a02R0qE8ppY4yIRo9Z5CuFjYPoGb58T9KC15PWAMMO1kkmnDTQizHVEibJA3++P8FNKlZxOSyPfNy9nHKLm1H8jl56SilNq1mC4fMDQLxp99AVL+Vv0Tq4KO4se2NpThgkKe3DmjbibDayx6esx6pnPSImSZaFzEJDvBhsjCI15bjGyjQZDLFdKC2Us/ARLuoLSX28XFgBwifOuRKsc5ghNo73d15VfQuHHZiAezrEZCEPS/qzkXA4dwM8Did08v38qC8aihcyVyTU2c81UNRu4Qw==;Z8PktPIduw/R7CPObyQhXw=="
 ---
 

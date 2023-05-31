@@ -83,6 +83,15 @@ related:
         width: 1590
         height: 1060
         isCached: true
+  - title: "Australian fruit-picking robot could help ease labor shortages"
+    excerpt: "Australian startup Ripe Robotics is spiking the industry’s interest with its newly launched fruit-picking robot, Eve"
+    publishedDateTime: 2023-05-31T13:03:00Z
+    webUrl: "https://www.freshfruitportal.com/news/2023/05/31/australian-fruit-picking-robot-could-help-ease-labor-shortages/"
+    type: article
+    provider:
+      name: Fresh Fruit Portal
+      domain: freshfruitportal.com
+    quality: 19
 
 secured: "HhKjoFqiMjKRYxkBxWYj0Wgk/6+bjW9+B09H2jy/IKFJ0IrwfZ2tfJzu2YJ/TLSjflPWcakHO4xDMXkBNPBG9lA+Dn7YRBYIA73mp/vtAbxcz7lk4Q0pB5Lx5Ymoz8Erel6oTY3VSdNKWDop11cy47EJd1eBZLjgD50mNb7SQTweom3X/ztE4oJnPigoVXnry2BS2zhI87UswTxweD9mmZNbrW0LLsi+elnopEC8ifEFzSZbrhMeB4r2KDg4d5Sro9gxBJKCQh6zl1izA++idxDzXck1UWnVq8+ch4xJdTP79J3XePYdml0firc9IEvK8im8wDamsBMpck5TNnK5L6SS4CxghiEwVySpmffW0myaAHzvDxUyKgZNi75VMunmY3g1WTqj4hxSW33fRtspvRTCOED1uRHADNyJX5nowrcP+oSfR1aeyv+BqulR0czqaKYVzKIove1/MNDZJ1JTlN1VUBq6OWTxOX6xv07Imyao5erhJEYTQ1hADlRClDeAGWAlh4J5NgjcSrLHxssvYQ==;C1nsnlKcf3q7y0MKagZdRQ=="
 ---

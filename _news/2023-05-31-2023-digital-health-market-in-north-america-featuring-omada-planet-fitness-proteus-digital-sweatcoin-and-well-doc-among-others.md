@@ -1,23 +1,23 @@
 ---
 category: news
 title: "2023 Digital Health Market in North America: Featuring Omada, Planet Fitness, Proteus Digital, Sweatcoin and Well Doc Among Others"
-excerpt: "Teleconsultation in the form of video and audio calls has gained importance among medical professionals and patients in the U.S. and Canada Digital health trends like remote patient monitoring, telemedicine,"
-publishedDateTime: 2023-05-30T22:31:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/30/9823040.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/30/9823040.htm"
+excerpt: "The \"North America Digital Health Market and Trends 2023\" report has been added to ResearchAndMarkets.com's offering. Teleconsultation in the form of video and audio"
+publishedDateTime: 2023-05-30T22:15:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/05/n32638750/2023-digital-health-market-in-north-america-featuring-omada-planet-fitness-proteus-digital-sweatco"
+webUrl: "https://www.benzinga.com/pressreleases/23/05/n32638750/2023-digital-health-market-in-north-america-featuring-omada-planet-fitness-proteus-digital-sweatco"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "dYmNtp+xavdaHw/0pzpNDMvyfCGQ85rxOOQrbfdTok42p0CZQ7zWOHxpjhNmq4of6fCSbLBJLxEmcYLkb/r3qqH7ZeXnS2NgpCDQg/JwGFnaHRsQ9xSW+SD8WcmiSM3FJIaB0HUG8wy7gPlU7uUNYVQOL+am3VSXKftS7W2BrOVJzo/8qjKrhlrD8cFNFQE+M32QLaoXLGFQbKxVz+mbzbkl29Ck/kcAU67mnGqv2iTxBD6OgcEl46WSRyNBZ6l6P3DvHn+2bEpk1b89J82Q6RNJ/OWmXAu1BR47zb89aUazsVUWrpXqI11e8aCHGx0zwnfinriNdmjdveXSS31z5EBGh/dvlgAgCEWnaMIG/7k=;NIqvudcdaTZka039GatVsw=="
+secured: "3Jc4yVr3tygAAwGs5Mh7gcbDf3ZuBM3172zZ/dhzOp1NozE6Re8IkZF6LTIBklhNtLATbEMwYkXcf6IXgHqcDHLk2t/E1Bg+7iGOswaKPoH9M2OfgQxJQJ2o/O1iw7+Li1iNBgaXsX+oZZ+Udh9kZftf31FruYqy67SkSsSoea0SlPjJ/x74T9gJJQTFJ9xA1OAE6V4U4LLoOfbAqepRguConi52SjG2o5R7sidDjNPIXrFh+PauguAX9W5ftmEBsJuPsxwY448GvPSfdZ2Id7hFoMfV0x4+MOLEyyehJJmGA3lEoMC3M/ITMO932OIoTFHjxUpf/lIue5OZGay5v0LvVDhNv951MYGJfMS9zq4=;IlbBi+1cmRSYpGvFM/aS+Q=="
 ---
 

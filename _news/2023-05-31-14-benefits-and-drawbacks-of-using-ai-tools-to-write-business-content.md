@@ -58,6 +58,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "72% of Business Leaders Want AI Adoption Within 3 Years: Weekly Stat"
+    excerpt: "New data suggests that leaders are highly interested in AI but must plan around the risks associated with adoption."
+    publishedDateTime: 2023-05-31T14:57:00Z
+    webUrl: "https://www.cfo.com/technology/automation/ai-driven-automation/2023/05/artificial-intelligence-adoption-timeline-chatgpt-generative-ai/"
+    type: article
+    provider:
+      name: CFO
+      domain: cfo.com
+    quality: 39
+    images:
+      - url: "https://assets.cfo.com/images/Zz04NThhNjkwYWZmMWExMWVkYWJlZjQ2M2Q1ZDg4MWJmZg==?width=1200"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "T1SKLjOnPNsxpKiYyJNjNl50Wjeg6Ym6PRxV6ANyZqt5f0B/A1UYEocPegj3ZVk2Cuss6Emt+eoe3CH2+XtvKy2Qb5BESHzGaLfNMocDCYqzn0dMgOeZ6chp5A7sLvwWZrdWGUfw4GJ+f1dvoU72MXsdv/4Ih4VCszU4bmsqaJ2oRIaGEo6gt2d+QSrLExELLQcJGnjVdtYwtlkclA9Gu2BB70VvnwkZ0eU4zMUnBJVbu+X5ULt4XA4ma4FQAOU7W/QycnK778+CeJGRvXp1JFm4q0josFovcDgakr/qPHjiZ76ySAG8A3iqyWXE+Civrz9haNFA+W3tK2n3Lh7ewwonZh0vAtaIb8g2Ud4uNEU=;1YGm3IQfC4hlAHZLVbA8Ug=="
 ---

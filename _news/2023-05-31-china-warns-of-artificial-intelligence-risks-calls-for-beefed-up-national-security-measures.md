@@ -1,24 +1,30 @@
 ---
 category: news
 title: "China warns of artificial intelligence risks, calls for beefed-up national security measures"
-excerpt: "China's ruling Communist Party is calling for beefed-up national security measures, highlighting risks from artificial intelligence."
-publishedDateTime: 2023-05-31T05:21:00Z
-originalUrl: "https://www.seattletimes.com/business/china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/"
-webUrl: "https://www.seattletimes.com/business/china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/"
-ampWebUrl: "https://www.seattletimes.com/business/china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/?amp=1"
+excerpt: "The statement underscores the tension between the government’s determination to be technological leaders and concerns about the possible harms of such technologies."
+publishedDateTime: 2023-05-31T14:13:00Z
+originalUrl: "https://www.nbcnews.com/news/world/china-warns-artificial-intelligence-risks-calls-beefed-national-securi-rcna87021"
+webUrl: "https://www.nbcnews.com/news/world/china-warns-artificial-intelligence-risks-calls-beefed-national-securi-rcna87021"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna87021"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna87021"
 type: article
-quality: 43
-heat: -1
-published: false
+quality: 93
+heat: 133
+published: true
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
   - AI
   - AI in Security
+
+images:
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230531-xi-jinping-jm-1004-8797e3.jpg"
+    width: 2500
+    height: 1667
+    isCached: true
 
 related:
   - title: "Chinese Leader Xi Jinping Warns of AI Risks to National Security"
@@ -51,6 +57,15 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "US Updates National AI Strategy And Calls For Public Input"
+    excerpt: "The White House released an update outlining the Biden-Harris administration's latest initiatives in formulating the national AI strategy, AI policies, and AI regulation."
+    publishedDateTime: 2023-05-29T12:20:00Z
+    webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/05/29/us-updates-national-ai-strategy-and-calls-for-public-input/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Alert: China warns of risks from artificial intelligence, calls for beefed-up national security measures"
     excerpt: "China warns of risks from artificial intelligence, calls for beefed-up national security measures."
     publishedDateTime: 2023-05-31T05:19:00Z
@@ -61,6 +76,6 @@ related:
       domain: chron.com
     quality: 17
 
-secured: "7LXgpOEqp8yWQhgOUWo8GDyFkaLOLOuCQZ3ysUdWm322mbwu+8UXMZkTLXytP/MLUBUI3cyJcyokYpNqyy72yrHzhAd3sFJHtu5oRBorvrVHrpCV4N/3PMgULn3mWqSFpAixwoJMy3fhA6MATcsOor45GPyPfxUs79Wz1a8W4SvT62WGj3a4vlKnOng7SJPFiq1ZiCrBEk0OmKUIKs7AV+aomZ4WrrWo9Bo1huOqJF7Kvh5Dc8mydJFIqdywmLAgHknzEDE1KQGVgqoiZLindx82q8fLwPzKMT1yA3Uw6l8bZc/9DyyF/XJRZpioDr0izfgsbmnpv+9ANHSfTWNwGUb/Dlg3jwF7zicZTcUX2PUNOl9cSyFvCoDV0SmC+wMD6BJy7XI3ZUmNVRF/RZyizmPY8Ct7CORR7ncrv8aO1dUS5qe7S3o8KttvzuXOt7U8X5RfLofKuWi/kfpavppTUPTERTEpMsa6v9sxYuWsZKK9K25AenOwOLkhfen/s4mzuONp7YI7ruUK6pHyWlfKPg==;tfwtbfpfFldIYN6nE8hT1g=="
+secured: "jfmTJkcO25rbSUciuo9PYHjth2DIpZutphldijZcj+r8eQTKotZYJcHP56kaLl5bne64ZpKrBv7+hI6XkJSqwn7JPwUu7EhViLM+ZZpCvcMGJuma/RwQ7yTqxwXvIh9PtVmYh2/L014uQ8aLWMOrxev6dZEmYOp71PVbYfVG3aX4TFWuVN0ystPhuFnEt8e05CGYnKYiCj0Jy3ZsEcZHI+SOR7rKcQhwXH5SetkcsaJokYbTmZiTZ7CXZQEqiEXPRLIeXv4JpnFhBaLStIvc5Sj7hsizHpqsRUu+kL1B51zpt9xKNdJWuou4OQ0jlI1DQd4Kx7WTFGytzN9DDzcQ7xnAyrSv3q1dipHo/B34GBg=;NbMWDiDgexxFdLpptjW2Gw=="
 ---
 

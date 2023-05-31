@@ -31,15 +31,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 14
-  - title: "More Tech Experts Issue Warning About Possible Threat of Artificial Intelligence"
-    excerpt: "More Tech Experts , Issue Warning About Possible Threat , of Artificial Intelligence. NBC reports that leading experts in artificial intelligence have released a statement warning that the technology"
-    publishedDateTime: 2023-05-30T19:06:00Z
-    webUrl: "https://www.thetimes-tribune.com/news/nation-world/more-tech-experts-issue-warning-about-possible-threat-of-artificial-intelligence/video_1047b33b-381a-51e2-8c35-434de3411eaf.html"
-    type: article
-    provider:
-      name: The Scranton Times-Tribune
-      domain: thetimes-tribune.com
-    quality: 12
 
 secured: "Z9vdGRh+7J2p0/O92BCLPa5a2oIhBxwkyMh7Ta83qIPmyBWtSANKyI5z00vNznRnGYAS7KTxRi6+aLXpfQgnBoNHeS+M0T0m/DXf0eMw1Ro8mVW81P/BsWCCtcb0WRX5NLogdyOvWU720/9nR8X7sMuAJCmZgtWuLGccrFiuwItc7zSv6pFWkoWeZ9nR0fBiYXLCwppHv6HksLRie8AG65jE/Ve8p7CoVY3gwe3YooPfbb356fLvW2+0mUdLttkJflmsuTyTIpN+/NNQq6gGWKe+Ok3I78uvmUqAxsQBmJ5bHKHkiO4QHc025bjcziXobw+/POJTiy7o/5AplGNCaVa9ktu/mpOmDt3n35omnD97Fg4iqjFQXfyojOcnq93qTqYxq0ArOiwuP6tZe07F1vOVrTQjo/m46Q3jeH1IHj03lJhm9nx0DFHEUSQXOjU3Cakp0ggJBOloD0lT1NuNtdpCg4uVWQ0o3Je37zUplodObVItnMx48JZdvPNWCDIRrogfR56/WHWqrnlPBAlYnw==;AIwXr8gBFkz9jvoGDlMaYA=="
 ---

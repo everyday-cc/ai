@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Not Just Nvidia: These Are the Other Big Winners in the AI Chip Biz"
-    excerpt: "COVID-19 was hell for tech stock and chip manufacturers, but ChatGPT and AI have since been a boon for Nvidia and other similar companies."
-    publishedDateTime: 2023-05-26T21:44:00Z
-    webUrl: "https://decrypt.co/142568/nvidia-big-winners-ai-chip-biz-tech-stocks"
-    type: article
-    provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 54
-    images:
-      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/05/nvidia-ai-chips-gID_7.jpeg"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "E8V2VqfGClX3KJ1aQjHCRLBAZxAwi1vYTIxb3UnycBa8qJItjAfEPIB3XeJvQ1wsU1+uZ5osCMAb7/3kV97OkbYkHAaTvFAa3NzPHRXhuma0eTB+Cldw67s9w5izQQ7rEzn+V0jQ0Ntap8NhU1RMeWA000yVvKSRDDu/2/WFBLo2i86Hl+y7lvwgBOIt9ab7EurWcImKSuti6UNUAKTnrUJ3LZju3IOOceTYUjISb3AJHgYUo2uCiz/W/xN3BjstpxA3Tsfjmd3EBIeM3MngnVk2Wiapg+jl3cmzsEBbxd9+r6RL4kxX+n23AS+uxLAlj9MV4LgYuGcJervRjjRkvn9oChGdF2teeM+qzPpXfxP/sbEOUe2Glf/RfgQOdLfUSJVxxySForj2H6xzH68vKoZ6nKFskDOHJckFsNJ/1Kjdfcch28a3/W6CIFQLv03Ww4qhzv5eK6v/USQv5c4M6je262VhmnjQaq6xoHid+djN/ejYko3GsKo+JKov4rjpCdCMPQhf4cVGBD7pVp2E/g==;Xzex+RWHJ1eXg6hA73Eocg=="
 ---

@@ -46,22 +46,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "Digital Marketing In 2023: The Rise Of AI And What It Means For Your Strategy"
-    excerpt: "If you’re a digital marketer, you can’t execute your strategies without technology. But how does AI fit into the picture, and how can you use it to your advantage?"
-    publishedDateTime: 2023-05-26T22:00:00Z
-    webUrl: "https://www.forbes.com/sites/johnhall/2023/05/26/digital-marketing-in-2023-the-rise-of-ai-and-what-it-means-for-your-strategy/"
-    ampWebUrl: "https://www.forbes.com/sites/johnhall/2023/05/26/digital-marketing-in-2023-the-rise-of-ai-and-what-it-means-for-your-strategy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnhall/2023/05/26/digital-marketing-in-2023-the-rise-of-ai-and-what-it-means-for-your-strategy/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 101
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/616f031ae034e7cc41252b6e/0x0.jpg?format=jpg&crop=1549,1162,x0,y0,safe&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Prepare For An Expanded Job Market, Thanks To Artificial Intelligence"
     excerpt: "Don't produce the same output as a generative AI tool. Differentiate yourself by adding value on top of the base output."
     publishedDateTime: 2023-05-30T22:29:00Z

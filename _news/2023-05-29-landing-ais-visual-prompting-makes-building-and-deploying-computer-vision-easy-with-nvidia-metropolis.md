@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-s-visua
 webUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-s-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropolis-1032355971"
 type: article
 quality: 68
-heat: 98
+heat: 128
 published: true
 
 provider:
@@ -73,6 +73,38 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Methane-cutting genetics research and disease-preventing AI project among Farming Innovation grant winners"
+    excerpt: "Ground-breaking research that could advance the UK dairy industry’s sustainability and efficiency is being funded through Defra’s Farming Innovation Program."
+    publishedDateTime: 2023-05-31T14:59:00Z
+    webUrl: "https://www.dairyreporter.com/Article/2023/05/31/Methane-cutting-genetics-research-and-disease-preventing-AI-project-among-Farming-Innovation-grant-winners"
+    type: article
+    provider:
+      name: Dairy Reporter
+      domain: dairyreporter.com
+    quality: 21
+    images:
+      - url: "https://www.dairyreporter.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/dairyreporter.com/article/2023/05/31/methane-cutting-genetics-research-and-disease-preventing-ai-project-among-farming-innovation-grant-winners/16456604-1-eng-GB/Methane-cutting-genetics-research-and-disease-preventing-AI-project-among-Farming-Innovation-grant-winners.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Nvidia chief Jensen Huang says AI is creating a ‘new computing era’"
+    excerpt: "In his first in-person public address since the start of the pandemic Jensen Huang warned that the traditional tech industry would not keep pace with AI ’s advancements, adding that the technology had dramatically lowered the barrier to entry to computer coding."
+    publishedDateTime: 2023-05-29T12:17:00Z
+    webUrl: "https://ft.com/content/5bfcc670-7fcf-4ffd-92ae-cd7b7948405f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
+  - title: "Innodisk empowers smart factories with NVIDIA AI and Metropolis Platforms, and Aetina's SuperEdge AI Training Platforms"
+    excerpt: "Innodisk is collaborating with NVIDIA and Aetina to bring the latest artificial intelligence (AI)-powered industrial digitalization and automated inspection into its factories for advanced electronics manufacturing."
+    publishedDateTime: 2023-05-31T13:51:00Z
+    webUrl: "https://electronics360.globalspec.com/article/19762/innodisk-empowers-smart-factories-with-nvidia-ai-and-metropolis-platforms-and-aetina-s-superedge-ai-training-platforms"
+    type: article
+    provider:
+      name: electronics360.globalspec
+      domain: globalspec.com
+    quality: 0
 
 secured: "3D4DSrq0VpT6C9sqAPxvT03IVGziQryX4W4NnlfXJiLdTS57M2Wkg8/u64kGphjS8puw210k6u6FKPNy7ooZ1/4A/w+gcdPTh6n5YsY7GxP89IfNJUqf2nSKvW2FqUpaKiVEh1PMhNmPw24fs0LaDEKWLK99frcCFXfrzoCYGbzCF/OHNaeWfGdUaWRBsV3UHJ2pwPDnEuUkeFveD54u80kjjKv/WZrCbL2AGXKVJSjuh9HPmaN676kmazcv16ADlL21WEZHWOqCzb3gMtF4188HbwmmNeRp2pKsyq43e+nnW5u0YZIhz11XXR6fbsacZ8TxRV/1EWFh0xvq3bjbn8loiKTervINP12FuNUcSoYpvZw0njfcfzK+tYX8jcvsNVONcEYZbiwIHv9hXsiYDKvBgKY3Sv398U3gtwVHzsWN3yFBlvpNmaaXww+WRMrtq1dMwFPLmbrNjteZsiRSG4Nc3rcJ4bevfPW+MBzINvuvaa4qz9roEoNx8jtJMSLleZ1U+uSphHMUCZUijGBxcQ==;3klBCKqg647DbokI912kWA=="
 ---

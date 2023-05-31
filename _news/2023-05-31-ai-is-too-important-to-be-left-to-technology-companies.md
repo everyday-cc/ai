@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/05/31/ai-is-too-impo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/05/31/ai-is-too-important-to-be-left-to-technology-companies/amp/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Forbes
@@ -22,17 +22,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Marvell Technology Is the Latest Tech Firm to Benefit From AI"
-    excerpt: "Marvell Technology (MRVL) is the latest tech firm to say it is benefitting from the boom in artificial intelligence (AI), and shares skyrocketed on Friday after the company released its first-quarter earnings."
-    publishedDateTime: 2023-05-26T19:54:00Z
-    webUrl: "https://www.investopedia.com/marvell-technology-is-the-latest-tech-firm-to-benefit-from-ai-7504792"
-    type: article
-    provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 19
 
 secured: "gIFVFvpG+KoqVyDwhDw9Dq90VV0MDBbzfdC4aokbxwxdNy3D2z0FHaw89Kj40XPmfawTly99lSntmrQKg8SW4JQ60au2r7B25R0PhLFPFZmlOF1WYkwxggMdG4jqngmK04kdYMAA+2mDP/IAo8XiDuCjHVT8ojHC66O3crkDQPeb9dV+OR2uU/mTTXMrtNYYLR5MMWl0dmQlzIiMzB9stikt+udeRMGE8dpOYeFJE0eQVObaDdJlimcpxAOoOOGVXF9uUoRNG2ukiAkcGAMo0I6U+//Wlrde7TMHHApLYesAwnFmn7M0T6lVXW8EnsyWCr3nQ4z+gbhQst7JxTvnENSO+Fsf8hIWKKJlHlurEW0=;PZqdTKXGF4yo2Sk0yWTHXw=="
 ---

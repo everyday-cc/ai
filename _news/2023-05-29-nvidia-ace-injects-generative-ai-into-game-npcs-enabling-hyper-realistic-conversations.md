@@ -55,6 +55,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 24
+  - title: "AI is about to significantly change your computer: HP CEO"
+    excerpt: "CEO Enrique Lores says consumers and businesses are poised to see big changes to their computers within 24 months due to new advances in artificial intelligence. \"What we are working on is to build AI capabilities into the PC,"
+    publishedDateTime: 2023-05-31T12:14:00Z
+    webUrl: "https://www.aol.com/finance/ai-significantly-change-computer-hp-121459455.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 17
 
 secured: "ttyOX/2fekKtNNV0Iphhae++t1jM/dlsaa9K344TUgALxiz8nuNzm+qsSobLWi4btndzqXaVT0wE68lkPXCoZFdcO9cGmO1OPWr7VyaGvmfpyt85+HyH0zYc4yUWzH+E4WDClyqVxZWFJrKjDPOArdRA/QzQB/AF3D2tc1nuFKttbPdutuTx28k9vbKJUUVMC/GH1+GH/LVsNPkgQgato0kJOpiULh8u6uydQzyCxn6xSBHcONxaHiW8ApxYQ/mcmuYG/lUNQKLTWV5lTQwtx432VzyjJZDRb3uSNoOIMmTmUMXjpG81C8mdoLXKbIWJbNdQr51+OTxM1z+dbnHOCly5kB7nbomzwrZsrhRfJ8+gyYZdddumNadVQTdDRECdLJl/RHmN7xE/xkqvP27/n9HOQjWT8kr+rONbup1WWTqiIBvka+fZ7qo2yKBKE2uBeHTZNNu8h3oGCTuLa5jISKxYd7SKVjho+ou0pFBnwaYkT4ROqXD11hM9Lx0MA5hhoz8O/Vcuykv/BVMgcZd+wA==;WNAOyItN84Pbkz6ICZlQeQ=="
 ---

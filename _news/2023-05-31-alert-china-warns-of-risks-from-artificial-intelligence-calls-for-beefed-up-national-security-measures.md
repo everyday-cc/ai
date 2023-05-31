@@ -19,6 +19,22 @@ topics:
   - AI in Security
 
 related:
+  - title: "China warns of artificial intelligence risks, calls for beefed-up national security measures"
+    excerpt: "The statement underscores the tension between the government’s determination to be technological leaders and concerns about the possible harms of such technologies."
+    publishedDateTime: 2023-05-31T14:13:00Z
+    webUrl: "https://www.nbcnews.com/news/world/china-warns-artificial-intelligence-risks-calls-beefed-national-securi-rcna87021"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna87021"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna87021"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 93
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230531-xi-jinping-jm-1004-8797e3.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Chinese Leader Xi Jinping Warns of AI Risks to National Security"
     excerpt: "A meeting headed by party leader and President Xi Jinping on Tuesday urged “dedicated efforts to safeguard political security and improve the security governance of internet data and artificial intelligence,"
     publishedDateTime: 2023-05-31T06:52:00Z
@@ -49,17 +65,15 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "China warns of artificial intelligence risks, calls for beefed-up national security measures"
-    excerpt: "China's ruling Communist Party is calling for beefed-up national security measures, highlighting risks from artificial intelligence."
-    publishedDateTime: 2023-05-31T05:21:00Z
-    webUrl: "https://www.seattletimes.com/business/china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/"
-    ampWebUrl: "https://www.seattletimes.com/business/china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/?amp=1"
+  - title: "US Updates National AI Strategy And Calls For Public Input"
+    excerpt: "The White House released an update outlining the Biden-Harris administration's latest initiatives in formulating the national AI strategy, AI policies, and AI regulation."
+    publishedDateTime: 2023-05-29T12:20:00Z
+    webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/05/29/us-updates-national-ai-strategy-and-calls-for-public-input/"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 43
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "sxqzLCa3SJ+QQDE6Y4zSjjA9VzYAWkF8UI2w9UxhReMZcma5ViXON9pSfKvuEDNZ/9A9oTz8ba8r8aKZjBimDPiYtNWXLSDpolH8Q0+eaZV33UpYzvNOsWsh0WF27U2r/UfLdVrG8ti7yM8wfNiIspIauBbZcmkMsyKeU98b5p9oO4g2PcaQ2+pcqAwRd8XC7QIs7w/MunhWBuzPbX5Mwxqo51qwdd04OqGR0cWsWU5NaA419mLr/vCNVTVB2+Lw4EKY+U2R0c9m4gSK4kmWgguBPc2r6Rq76IOexSoF4WUMXqAumrMO14cL5vJXIYxJuBJtVH2A4rfANkwY90oRs54SgbNWxPRz3gbkmjYAC9M=;Nh9IjHk13bzuL0M48kFxbg=="
 ---

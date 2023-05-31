@@ -7,7 +7,7 @@ originalUrl: "https://tucson.com/brandavestudios/how-to-introduce-ai-into-your-c
 webUrl: "https://tucson.com/brandavestudios/how-to-introduce-ai-into-your-company-s-workflow-the-smart-way/article_8c8f6409-e049-56c5-b07c-e8e72436a402.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,31 +22,6 @@ images:
     width: 977
     height: 550
     isCached: true
-
-related:
-  - title: "Workplace AI: How artificial intelligence will transform the workday"
-    excerpt: "Artificial intelligence has been around for years, but scarcely has it found itself in conversation as much as it has now. The launch of OpenAI’s ChatGPT rocketed generative AI onto the radar of ..."
-    publishedDateTime: 2023-05-26T20:21:00Z
-    webUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 84
-    images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0fnfjfy.jpg"
-        width: 624
-        height: 351
-        isCached: true
-  - title: "AI Can Transform Banking For The Better"
-    excerpt: "Artificial intelligence has matured and is disrupting financial services. It can enhance customer service, reduce costs and curb fraud – but only wit"
-    publishedDateTime: 2023-05-28T18:35:00Z
-    webUrl: "https://menafn.com/1106332409/AI-Can-Transform-Banking-For-The-Better"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
 
 secured: "BnKsDtL8hIHx8xh7FR06kRcx1rAiQs4BZOo77mSVgTbmf1T8oOFQNVnu4ukvTdByBoub9Z1PQ/Y+VUngtVugaDzaNE7/2i7fM87sBLpUwj89kz17xgo3GCe/8KKAZpoa7XKtD4sB4Fnya1OvaVd/w8y1AlgboNL+EwTAXZI4Q8b3KLZKIeZ/cto63oVzIMn6kmzXIA4ijzPKkDIcF4jBVx/tytef0OKLLGsg/muq5k3e5vsVKanODtl+18aOXQDi+L6n8y5OlR9RdXj81uZMM0mAKZ+idIDcW35b0mX2CQmn7cTcjVCI3sPTJmys53BCQIgVzdByenOtWqPTPJqu6Nyyjawtnop1gdRBYrv6PfDTC7MMpEWpvgzyOK60kxiHwCZgnFimHta1k+u4InxA4i+QhfZMuMrT7kSwHpVk7iA5uGm7mF4eVEM3Se4/1LPp4I0waB76pulLPgUDcY3Ho/27De5YXF13SZ4/OSomBAp6PO3ReUwhialUFw2ZhY18tk8I/Vp82ciMqgyxw6sgJg==;TSo7V6cu5M1IkrKso+LsAA=="
 ---

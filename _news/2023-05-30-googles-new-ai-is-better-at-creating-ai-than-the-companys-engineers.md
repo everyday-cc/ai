@@ -25,49 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Is Becoming the Stock Market’s Answer to Everything"
-    excerpt: "Rarely does a tech-powered stock rally come along that isn’t pilloried for the fragility of its foundation. Now, with a snowballing craze for artificial intelligence pretty much propping up the market by itself,"
-    publishedDateTime: 2023-05-26T20:11:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-26/ai-oligarchy-becoming-the-stock-market-s-answer-to-everything"
+  - title: "Using AI to create better, more potent medicines"
+    excerpt: "While it can take years for the pharmaceutical industry to create medicines capable of treating or curing human disease, a new study suggests that using generative artificial intelligence could vastly accelerate the drug-development process."
+    publishedDateTime: 2023-05-30T17:16:00Z
+    webUrl: "https://phys.org/news/2023-05-ai-potent-medicines.html"
+    ampWebUrl: "https://phys.org/news/2023-05-ai-potent-medicines.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-ai-potent-medicines.amp"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
+      name: Phys.org
+      domain: phys.org
+    quality: 57
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD7jl4MGgd9k/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Artificial Intelligence Is Becoming Much Scarier"
-    excerpt: "In the Bible’s Book of Revelation, the four horsemen of the apocalypse represented conquest, bloodshed, famine, and pestilence. The new four horsemen are artificial intelligence, climate change, nuclear war, and pandemics. These threats are interconnected in ways such as the following:"
-    publishedDateTime: 2023-05-30T15:31:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/hot-thought/202305/artificial-intelligence-is-becoming-much-scarier"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/hot-thought/202305/artificial-intelligence-is-becoming-much-scarier?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/hot-thought/202305/artificial-intelligence-is-becoming-much-scarier?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 61
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-05/ChatGPT_logo.svg_.png.jpg?itok=eTZN73Sj"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "Chat-powered AI boom is helping rewrite the winners and losers of the chip market"
-    excerpt: "Intel's foundry transition continues to be a slow and pock-marked affair with several partners either pulling out of or pausing previous commitments according"
-    publishedDateTime: 2023-05-30T20:41:00Z
-    webUrl: "https://www.onmsft.com/news/chat-powered-ai-boom-is-helping-rewrite-the-winners-and-losers-of-the-chip-market/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 49
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/05/Intel-vs.-NVIDIA-Chipmakers-Bing-Image-Creator.jpg"
-        width: 1024
-        height: 768
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/using-ai-to-create-bet.jpg"
+        width: 2000
+        height: 1400
         isCached: true
 
 secured: "+TBHFODs7xVAUZLv1QhQbHZVVc0UspegNkGC67dTkbabjqMcMOoBVyJ0/37Lds+IQyP74LaeaGGFyWKzx6PAllvXYgSAHX15sNZOHBxt78TKmHLwZQN17Cb2CVm88R8k2Q+a955hrDW8NXELoYnJq5nJeq7xLmUM/ACOTuDBM56eCLfKMcSlwvnWeNR4S82jLKQg8dYbGCXR5DTuF+yUl3VNC0ULFl6q9IX2gIGLGWb5MC5w2nyxT6Mdfc+CiDfZVJenGqbXNXIE+Grfys9/H3COPmHdNF1yASR1Ph91/zLNz/KB4ADYjuak9fAyL9yoMwW+2FNSFqfLQ0t//izUxs2Ps/kQSRabHAhx2+Mk8zs=;kw8Y82v+Kh99dRKf8v0LSw=="

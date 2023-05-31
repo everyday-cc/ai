@@ -7,7 +7,7 @@ originalUrl: "https://techcentral.co.za/ai-is-transformative-but-ethics-must-com
 webUrl: "https://techcentral.co.za/ai-is-transformative-but-ethics-must-come-first-fnbprom/226270/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1500
     height: 800
     isCached: true
+
+related:
+  - title: "AI Can Transform Banking For The Better"
+    excerpt: "Artificial intelligence has matured and is disrupting financial services. It can enhance customer service, reduce costs and curb fraud – but only wit"
+    publishedDateTime: 2023-05-28T18:35:00Z
+    webUrl: "https://menafn.com/1106332409/AI-Can-Transform-Banking-For-The-Better"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
 
 secured: "1nchNCxjv6C6CPUFSNS0it2AKOFwu2kdOeIXYLVAUZd1WTvd25Am6x6AufIiPmmHeiremA3sJ7XqHAppl4TFwspyyZY18grtWwbJjNeHXARwrGg1igDLkgnKgFRxxZrE2GrWGOZwK/j2OgSmR5vhgp4lHpFYNu3uOrdnL32XmoOZXCWvv+eTRy8kxauqlMsHxepI2XsJtdQZSzSa/hdTkeLV0ppZr7vNereqD7GkvOx90/vHZHW0lm6yT5pWroo6Chf4SVZkq6+59jW/IfNLh43kakaDyxDByttQUwiYm1p0dareBgNLIfne80UwPfpd9LAtRmS956mBWchVaKXnbLXvMlwpikA48Jc7PLYnU2CRUxSCuV/NT9xpfr6/wj8FN2RvbXFIEUy6gbafAhgAmjRknQ+imt24F2qchHKIgK0sU/mGEPd2+M0TKjqmXNrAHEm0WPCAGB3wn6trtJ8smzB60JecrEJEfrz2riBinJwz7Mn7uwZ+7B17vgIGL4nAKQgIegyU5CkWeovZmfUYRA==;ihDkIt5lCdIGF60rFDEHKA=="
 ---

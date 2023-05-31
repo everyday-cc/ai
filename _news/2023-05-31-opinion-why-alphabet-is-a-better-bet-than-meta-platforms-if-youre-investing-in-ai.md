@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/story/why-alphabet-is-a-better-bet-tha
 webUrl: "https://www.marketwatch.com/story/why-alphabet-is-a-better-bet-than-meta-platforms-if-youre-investing-in-ai-4d46b88"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -20,24 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Opinion: Stop the robot takeover: How AI advancement can pose problems"
-    excerpt: "Pospisil explains that most jobs robots will take over are automated. They still cannot compare to a human’s ability to adapt or critical thinking skills in more specialized jobs not having to do with Ford production. In short, they won’t replace us in the job market because they’re missing a human element."
-    publishedDateTime: 2023-05-26T21:32:00Z
-    webUrl: "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/"
-    ampWebUrl: "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/amp/"
-    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/amp/"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 74
-    images:
-      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/01/Screenshot-2023-01-28-11.17.25-PM.png?fit=361%2C240&ssl=1"
-        width: 361
-        height: 240
-        isCached: true
 
 secured: "mdMLTpy2EvJ+9FEBsVc/30WdNGjAlSEsyCR+0z4zrvpvR6howVeY5EBMqUmo8dPPCb0Gl7GFj5C6mj4hvFZVbTzbwsMiQF2YvglNV+LHxuyj4S8T/FCpuK4cq0WjEbaK+Z6Mwo5PzkGGiJ1xhVdIpy/lwl/k1T4n4kckGfJiPJ+UMSSE20Skt420FVg4vgytid4h7ydSTvdyhpoDG/lAb8sYL2Q3lI0dgb17RVAg1ZFt98GiWtcN0H8Nxo96l/dzSaZeniUunvbGqy5ycVbitrbG8Mf1ty3ZGgiUPfJ8+Y7m8WFIrwHKbYfTjkGvBqIXMy/bT/vYM7D6OFEuMtA7VuPnUfydgxWcVLUem6806kQ=;98aDUs+kjdI05hgFXZRkQA=="
 ---

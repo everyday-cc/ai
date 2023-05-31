@@ -37,17 +37,6 @@ related:
         width: 1200
         height: 757
         isCached: true
-  - title: "Averting the AI apocalypse"
-    excerpt: "On the shoulders of this automated labor force, super wealthy AI entrepreneurs and companies will rise to form the most powerful elites to ever lord over humanity. Meanwhile, governments risk collapse from sharply diminished tax bases compounded by their own elected leader’s acute technological incompetence — an AI apocalypse."
-    publishedDateTime: 2023-05-26T21:58:00Z
-    webUrl: "https://www.seattletimes.com/opinion/averting-the-ai-apocalypse/"
-    ampWebUrl: "https://www.seattletimes.com/opinion/averting-the-ai-apocalypse/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/averting-the-ai-apocalypse/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
 
 secured: "FpusQaEnVOAiY/WefXFK0/ltZVAjgU1hsvQtehdYl1TZtOvPM8U5HT3f4nge0wPnnnsI9QLGdaybFH2h/ZDj902mnWR2N1QG4BXQyOwaFayIfi3GaeFBZNhgOhlMJMYkqWoFhidFCndYbBWAgDMqL7npZ8MX60RrQZauAcUHrhaFWS8MzcOLfSQ8qLHuqNOqInT8d0Yuwy4k3Onnb56WnDUDqwTNGeMmEHbsn0c/UbhRyULqETy5BbZrksV6GSVT60Fbnjg27T3WhL+OwX2JeVf1brflZjFifuDvTLebfjsbpLCzheucYtQ/jR8m4MA5u12HQe78HqUCR8cJ5CbalQr9uWkoyo0XbIo7seZq3FSZMfsvtIBI/yHSd1wZWcB8g/+b5DGBygGj32T0veRdkZyNzNUPyCJFpJ7e7MLX08ev20nTxvFr/eIBWbCWItsOLpg8GdEU7THcv9gK3eaq2xYy3AOrirgQjrfFeLVFEl2bv6Q4krnOH7MsAlyPgGE2zBMu2nWmWrVpor7t+iph6Q==;x6grPVZC+hPGNegMSbwvfQ=="
 ---

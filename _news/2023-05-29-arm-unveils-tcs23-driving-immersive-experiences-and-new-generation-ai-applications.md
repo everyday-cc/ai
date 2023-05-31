@@ -85,6 +85,15 @@ related:
         width: 3000
         height: 1687
         isCached: true
+  - title: "Notion Projects Aims To Revolutionize Workplace Collaboration, With The Help Of AI"
+    excerpt: "Notion hopes that AI can help cut down on the fragmentation within this space with its new product, Notion Projects"
+    publishedDateTime: 2023-05-31T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/05/31/notion-projects-shows-how-ai-can-revolutionize-workplace-collaboration/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 41
   - title: "Empowering the future generation: The advantages of educating students in the new age era of AI"
     excerpt: "Artificial intelligence (AI) has become a revolutionary force in the quickly changing world of technology, altering various sectors and our daily lives. As AI develops, it is more crucial than ever to get the"
     publishedDateTime: 2023-05-27T09:53:00Z

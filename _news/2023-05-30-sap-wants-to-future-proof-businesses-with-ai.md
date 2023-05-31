@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/30/sap-wants-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/30/sap-wants-to-future-proof-businesses-with-ai/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/05/28122331/arno-senoner-IvnWhkmpKvk-unsplash.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "72% of Business Leaders Want AI Adoption Within 3 Years: Weekly Stat"
+    excerpt: "New data suggests that leaders are highly interested in AI but must plan around the risks associated with adoption."
+    publishedDateTime: 2023-05-31T14:57:00Z
+    webUrl: "https://www.cfo.com/technology/automation/ai-driven-automation/2023/05/artificial-intelligence-adoption-timeline-chatgpt-generative-ai/"
+    type: article
+    provider:
+      name: CFO
+      domain: cfo.com
+    quality: 39
+    images:
+      - url: "https://assets.cfo.com/images/Zz04NThhNjkwYWZmMWExMWVkYWJlZjQ2M2Q1ZDg4MWJmZg==?width=1200"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "lqUy2Fyy7g0NCpO3S3ZkbWfmdcEWiFGO0oCmXiU236hKy0SkxZqxehZYN7g5uNTzI3BhR3Q7bv3QC+KVXKAhVtsSmK1VW+LLmg4F57x5sPLsW59rpGIWKv0Bk35wuhf4huJz2Rzm8Fms29TwyVa2JhkLOWqeQRJcnkhyHnDmgfYFG5bmruY6kz1OocIiDq50fVA6N90lQgeRzXgJBqLplH/TMbzWLjpqq5LSqoLjWqFR3ALn9TVhlc5lLHenQyqFnV4wNXqZu/fNoZi0sc3da5JfI0UbHUMqdRdDrYPSwZjGE4wG0CkrCI9tyEltjX7Oszv4aa1o9DZGz25kb1dbZsgZ0P0wLnupB9fjBULkorg=;krZC6bSiDOM0h+5adDwVqQ=="

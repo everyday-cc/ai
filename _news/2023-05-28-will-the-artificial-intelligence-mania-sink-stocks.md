@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bill_stone/2023/05/28/will-the-artifici
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bill_stone/2023/05/28/will-the-artificial-intelligence-mania-sink-stocks/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Stocks Are Flying, but Don’t Call the Craze a Bubble"
-    excerpt: "Nvidia and other tech stocks have added billions of dollars in market value as the technology has boomed"
-    publishedDateTime: 2023-05-26T20:42:00Z
-    webUrl: "https://www.wsj.com/articles/ai-stocks-are-flying-but-dont-call-the-craze-a-bubble-18403c5a"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-789009/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AI boom drives gains for chip stocks"
     excerpt: "Demand from institutional investors appears to have underpinned the chipmakers’ recent rally. They are the “primary source” of demand for AI stocks, with only a “marginal increase” in retail investor interest, according to VandaTrack."
     publishedDateTime: 2023-05-28T04:01:00Z
@@ -58,15 +44,6 @@ related:
         width: 619
         height: 376
         isCached: true
-  - title: "3 Pharma Stocks That Will Boom Thanks to AI"
-    excerpt: "This has lead investors to start looking for the top AI-driven pharma stocks. The intersection of data science and machine learning makes research and development fundamentally different than it was previously. Molecule discovery will be much faster than ..."
-    publishedDateTime: 2023-05-26T19:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-pharma-stocks-that-will-boom-thanks-to-ai-1032355093"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "The ASX stocks that could ride the AI boom like Nvidia"
     excerpt: "AI has lit a fire underneath tech stocks, but investors are split over whether the innovation will transform business models or end up a fad like blockchain or 3D printing."
     publishedDateTime: 2023-05-29T06:12:00Z

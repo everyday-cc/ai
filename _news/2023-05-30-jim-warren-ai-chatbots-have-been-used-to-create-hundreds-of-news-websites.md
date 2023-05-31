@@ -48,34 +48,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 45
-  - title: "The Rise of Large Language Models: Revolutionizing AI Chatbots"
-    excerpt: "The field of artificial intelligence (AI) has advanced significantly in recent years thanks to improvements in machine learning and natural language processing. The advent of large language models (LLMs) is one such invention that has captivated the world."
-    publishedDateTime: 2023-05-26T19:19:00Z
-    webUrl: "https://techstory.in/llms-and-ai-chatbots/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/05/buying-your-first-investment-property-top-10-tips.asp-ADD-Color-074cf6b2f8434f4fbc8d94edeb361cd6-360x240.jpg"
-        width: 360
-        height: 240
-        isCached: true
-  - title: "Twitch Star Amouranth Wants Her AI Chatbot To Put Trolls In Their Place"
-    excerpt: "A successful businesswoman (who now reportedly owns a gas station) and OnlyFans creator, Amouranth can now add “tech tycoon who’s excited about AI’s future” to her resume. Kotaku caught up with Amouranth—who ensured us she wasn’t her AI counterpart—to discuss AI Amouranth,"
-    publishedDateTime: 2023-05-26T21:30:00Z
-    webUrl: "https://kotaku.com/twitch-streamer-amouranth-ai-chatbot-forever-companion-1850481108"
-    type: article
-    provider:
-      name: Kotaku
-      domain: kotaku.com
-    quality: 37
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c6e0b3c6e810a144a98d73d66654de7e.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Talk to the bot? An AI chatbot may be your next therapist"
     excerpt: "Pandemic stresses led to millions more Americans seeking mental health treatment, so it may prove tempting for insurers to offer up apps and chatbots to meet the mental health parity requirement."
     publishedDateTime: 2023-05-29T15:39:00Z

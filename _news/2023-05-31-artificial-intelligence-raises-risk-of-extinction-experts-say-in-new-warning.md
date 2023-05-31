@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-excerpt: "Leading scientists and tech industry leaders are warning about the perils artificial intelligence poses to humankind, saying “mitigating the risk of extinction from AI should be a global priority.”"
-publishedDateTime: 2023-05-30T20:59:00Z
-originalUrl: "https://omaha.com/lifestyles/technology/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/article_3eb0705d-ca7c-585a-b604-d1bce7016ce7.html"
-webUrl: "https://omaha.com/lifestyles/technology/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/article_3eb0705d-ca7c-585a-b604-d1bce7016ce7.html"
+excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
+publishedDateTime: 2023-05-31T12:32:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692490"
+webUrl: "https://abcnews.go.com/Business/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692490"
 type: article
-quality: 51
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/3/eb/3eb0705d-ca7c-585a-b604-d1bce7016ce7/6476696677da3.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://s.abcnews.com/images/International/wirestory_54ea8aadc60d1503e5a65878219aad43_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -121,6 +120,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Artificial Intelligence Threatens Extinction, Experts Say In New Warning"
+    excerpt: "Worries about artificial intelligence systems outsmarting humans and running wild have intensified with the rise of a new generation of highly capable AI chatbots such as ChatGPT."
+    publishedDateTime: 2023-05-30T18:17:00Z
+    webUrl: "https://www.huffpost.com/entry/artificial-intelligence-warning_n_64760343e4b0a7554f40cb8d"
+    ampWebUrl: "https://www.huffpost.com/entry/artificial-intelligence-warning_n_64760343e4b0a7554f40cb8d/amp"
+    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/artificial-intelligence-warning_n_64760343e4b0a7554f40cb8d/amp"
+    type: article
+    provider:
+      name: HuffPost
+      domain: huffpost.com
+    quality: 86
+    images:
+      - url: "https://img.huffingtonpost.com/asset/6476033f2400001a00f79e46.jpg?cache=G4PHmwP461&ops=1200_630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI extinction risk warning backed by OpenAI, DeepMind chiefs"
     excerpt: "Explore the debate on AI's potential threat to humanity, featuring experts from OpenAI, Google DeepMind, and more discussing extinction risks and solutions."
     publishedDateTime: 2023-05-31T01:38:00Z
@@ -203,22 +218,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/03/AI-e1628527067120.jpeg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Artificial intelligence threatens extinction, experts say in new warning"
-    excerpt: "The CEO of ChatGPT maker OpenAI and Geoffrey Hinton, a computer scientist known as the godfather of artificial intelligence, were among the hundreds who signed the statement."
-    publishedDateTime: 2023-05-30T18:53:00Z
-    webUrl: "https://www.fox8live.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/"
-    ampWebUrl: "https://www.fox8live.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/?outputType=amp"
-    cdnAmpWebUrl: "https://www-fox8live-com.cdn.ampproject.org/c/s/www.fox8live.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/?outputType=amp"
-    type: article
-    provider:
-      name: WVUE FOX 8 News
-      domain: fox8live.com
-    quality: 58
-    images:
-      - url: "https://gray-wvue-prod.cdn.arcpublishing.com/resizer/GzKbb6yaD2Vecv4bQ9EEyEXiiuQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/NY3WZ3IREJFNVI5ETARLFTIIIQ.png"
-        width: 800
-        height: 450
         isCached: true
   - title: "Risk of extinction by AI should be global priority, say experts"
     excerpt: "Hundreds of tech leaders call for world to treat AI as danger on par with pandemics and nuclear war"
@@ -385,6 +384,20 @@ related:
         width: 1200
         height: 592
         isCached: true
+  - title: "Tech executives sign warning letter regarding artificial intelligence risks"
+    excerpt: "The one-sentence open letter, issued by the nonprofit Center for AI Safety, is both brief and ominous, without extrapolating how the more than 300 signees foresee AI developing into an existential threat to humanity."
+    publishedDateTime: 2023-05-31T14:31:00Z
+    webUrl: "https://kyma.com/dsw-living/technology/2023/05/31/tech-executives-sign-warning-letter-regarding-artificial-intelligence-risks/"
+    type: article
+    provider:
+      name: KYMA
+      domain: kyma.com
+    quality: 37
+    images:
+      - url: "https://kyma.b-cdn.net/2023/05/InkOHhe2-AI-WARNING-LETTER.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Eminent AI experts and corporate heads caution about the probability of ‘extinction risk’"
     excerpt: "Renowned figures in the technology industry, including the leaders of OpenAI and Google Deepmind, have issued a warning about the potential dangers associated"
     publishedDateTime: 2023-05-30T14:37:00Z
@@ -468,6 +481,6 @@ related:
       domain: chron.com
     quality: 16
 
-secured: "oo3QHkUTry1Rp7zzn/7472lLOq7NM3QSikm8yT3bLYDgCj7BTWW8Q8aYBMW9O17FwKUoFXTlFCxhk90LSqCND38qxgehjmkV2KOjCPJepG9hW+f8brRDT+hRT05MtlnzdrwCeYlXczzQBfpHAsr5Y0hMUc9fvCqRzT9I1wFrURFyn8y3oobXDwsSoRHC2OVuHugMlcCVykpe9wceHDk+PIfkCnbvees4dGBIh4UDOTJwOPybkcfPN3IZCBdp5KReQgw+bW8NQXK2mFPDNCpY9eoFWOtcjFyFe3wHhp8Cs0O5lnFGW6TVqYq5v9hqu2D/cKZIZR3AHQr6eTZsqGt2XXHRMrLaq+CaFooZtiYNCINtwAutlTdHRCfhF+ru1qYUeRhMXXT6ItB5umSXrGO3PQ4KeUYX5MnPt+54KtiXAp6YJHaRou8WgyEcO9dAVptLKQV0A5+urAnsdbCy94ou8O7Z1zz+Bp5/BMOMTFmJvopilulADT0FJ8YteE4gJWT1hUwW3ezmqs4wPWjWu8iwBw==;8pmbn1QO0qQVga+A6qPs5A=="
+secured: "Qp9T0pghaYWg8K/ix3TCyW1JhPNe9l4I02dolWDGJW1hZxRYNf9gmVKYXBNqqqLArHIB01EK21+mMAIXD9jEZ5vutzAM6kh6F54cA7amiA19qLcYyH/SUY7dOcGCLI9cz0ojqCKFj2RCGn2f7gMoTFaO70fCYjUHtu9olYgv7PWxsl3nDKkTiYjMqmkfjVSekYY7bm7hTGTtSmq898Ce/5KBDeXvx8kvqGFCnjH+GdCBqZLrOl8X50Xb3w9dc9s5ePiLCpYyWZ7E0TEOAS4iQdzpBvpo2FA/ZbUTGvFhq3hmDnevAxhJisLiw3OlJ6kTu692tFtAzdKD183pPwm2y7aCl0aVsxr+/tVXG76r9YE=;46VU4QewLb5pb3VvAJcy1A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/27/ai-scares-the-bejesus-out-of-me/am
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/27/ai-scares-the-bejesus-out-of-me/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

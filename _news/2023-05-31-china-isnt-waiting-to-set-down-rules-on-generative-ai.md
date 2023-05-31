@@ -70,6 +70,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Notion Projects Aims To Revolutionize Workplace Collaboration, With The Help Of AI"
+    excerpt: "Notion hopes that AI can help cut down on the fragmentation within this space with its new product, Notion Projects"
+    publishedDateTime: 2023-05-31T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/05/31/notion-projects-shows-how-ai-can-revolutionize-workplace-collaboration/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 41
   - title: "Arm unveils TCS23, driving immersive experiences and new-generation AI applications"
     excerpt: "Arm held a new product launch event at COMPUTEX 2023, unveiling the \"2023 Total Compute Solution\" (TCS23). Chris Bergey, Senior Vice President and General Manager of Arm's Client Line of Business, stated that TCS23 includes the new Arm Immortalis GPU based on the Arm fifth-generation GPU architecture,"
     publishedDateTime: 2023-05-29T06:43:00Z

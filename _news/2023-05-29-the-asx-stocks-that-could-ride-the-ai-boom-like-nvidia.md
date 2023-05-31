@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "AI Stocks Are Flying, but Don’t Call the Craze a Bubble"
-    excerpt: "Nvidia and other tech stocks have added billions of dollars in market value as the technology has boomed"
-    publishedDateTime: 2023-05-26T20:42:00Z
-    webUrl: "https://www.wsj.com/articles/ai-stocks-are-flying-but-dont-call-the-craze-a-bubble-18403c5a"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-789009/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AI boom drives gains for chip stocks"
     excerpt: "Demand from institutional investors appears to have underpinned the chipmakers’ recent rally. They are the “primary source” of demand for AI stocks, with only a “marginal increase” in retail investor interest, according to VandaTrack."
     publishedDateTime: 2023-05-28T04:01:00Z
@@ -69,15 +55,6 @@ related:
         width: 619
         height: 376
         isCached: true
-  - title: "3 Pharma Stocks That Will Boom Thanks to AI"
-    excerpt: "This has lead investors to start looking for the top AI-driven pharma stocks. The intersection of data science and machine learning makes research and development fundamentally different than it was previously. Molecule discovery will be much faster than ..."
-    publishedDateTime: 2023-05-26T19:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-pharma-stocks-that-will-boom-thanks-to-ai-1032355093"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "It's Big-Cap AI Stocks Vs. Everything Else"
     excerpt: "The biggest problem now is that the big-cap names are not acting as leaders. The celebration of a potential debt ceiling deal was a mixed affair. All the major indexes sold off after a gap-up open, and overall breadth was about 3,"
     publishedDateTime: 2023-05-30T20:35:00Z

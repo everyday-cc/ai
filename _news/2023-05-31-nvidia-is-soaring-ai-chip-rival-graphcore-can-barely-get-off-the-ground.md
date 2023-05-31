@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2023-05-31/nvidia-is-so
 webUrl: "https://www.bloomberg.com/news/newsletters/2023-05-31/nvidia-is-soaring-ai-chip-rival-graphcore-can-barely-get-off-the-ground"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -43,21 +43,7 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Not Just Nvidia: These Are the Other Big Winners in the AI Chip Biz"
-    excerpt: "COVID-19 was hell for tech stock and chip manufacturers, but ChatGPT and AI have since been a boon for Nvidia and other similar companies."
-    publishedDateTime: 2023-05-26T21:44:00Z
-    webUrl: "https://decrypt.co/142568/nvidia-big-winners-ai-chip-biz-tech-stocks"
-    type: article
-    provider:
-      name: decrypt
-      domain: decrypt.co
-    quality: 54
-    images:
-      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/05/nvidia-ai-chips-gID_7.jpeg"
-        width: 1024
-        height: 512
-        isCached: true
 
-secured: "UgJ4Sm/OmbOxNJlPX/FvTNcyktFg1ZNGYNG/V4FMLqRSKpce7hOP3uIBRngiamC49buctRgW9dwZ4SmPqAedz1NLdLEsRoMV4SLRZ6flIGbYZM641gsnEaEOSSsb+G9QbMybjvKfeh1E4YSuAdwTO9gwSRYbZbImy55JcP1Rb75JG/x4s/HOP3dR8dgYBgUY73fWLyAPIN5tXGuZPnRExJyI2avsQRsCptV07RdJD9BIrxETXSMO0rv48RLgOxbesRhSRWGc/362B1g1Eo9mdT+lyXJu5p46X0UQRpvTsQBY8YwOgOYU8rVUNMlsFsLuUh+4j0By8iY1c65gYjoECzYrKd0ySYJiUocYbT0lwAc=;kkbwcky7nB7CENIVuZ2I6Q=="
+secured: "tox265TGEV8zgrCf6eBMfbxbDVFXdt2NY+U5QR3EnuyhHXcEcLua/2oEnoAw5ceWDJx4zLBtJhjMa2sKsfMvZ+0rdLv/8MvNr2bNGIXdutpm/ui2/zuYjIRFYCKEqhE6RmcfDklnxzPoZXtOZ1HeFzxDMLKAVjadAzGheg1b8dvBZeL4px6ZkF+rDKRPnBBE22fjE2O4g8RY1/uvKgNtfYqE68KtejyVPtcwIlVcL65eoCTeg2be6pj+oAKc60tjUZAlQ6TOBi0LRoHG2+nrQB5MEzxs6jgupV8iesP98kfrzWuct0L5kbjSIZEnsvaXN8pkjid2o4YVaIHrJ62hk5z17jBS9WLIZInc3h3xEbQ1GPePlLGnC0jfCPPOnmEM5fB5fI6puW1gZDGSUOCq9pGOblqwwAtSV9I+LnCxdkElYQelRa/6aXtXCsv4MzjnpcrcUeRDDe0IR94+za+cOn5sEJKA8MyU1/g9MCvvUQqVuIMB9BSrQ/RXBoZn6FYhBIht+MZyPIseYfYAT9hbbQ==;6AQ/lTNwWIB33fwMvRMN5A=="
 ---
 

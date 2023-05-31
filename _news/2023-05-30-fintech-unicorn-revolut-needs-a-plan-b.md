@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/fintech-unicorn-revolut-needs-a-plan-b
 webUrl: "https://www.wired.com/story/fintech-unicorn-revolut-needs-a-plan-b/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -29,56 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Qatar to hold 2nd edition of Fintech Finance Technologies Conference"
-    excerpt: "The State of Qatar will convene the 2nd edition of Fintech Finance Technologies Conference on May 31, with the participation of several international bodies, banks,"
-    publishedDateTime: 2023-05-26T20:02:00Z
-    webUrl: "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference"
-    ampWebUrl: "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference/amp"
-    cdnAmpWebUrl: "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference/amp"
+  - title: "Klarna’s Q1 results show that the fintech unicorn’s turnaround is in full swing"
+    excerpt: "Klarna managed to nab market share in a contracting market, keeping its own growth story afloat despite stiff headwinds."
+    publishedDateTime: 2023-05-30T18:53:00Z
+    webUrl: "https://techcrunch.com/2023/05/30/klarna-q1-results-analysis-ai/"
     type: article
     provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 59
-    images:
-      - url: "https://www.gulf-times.com/gulftimes/uploads/images/2023/05/26/34940.jpg"
-        width: 1000
-        height: 559
-        isCached: true
-  - title: "UP Fintech Holding Limited Reports Unaudited First Quarter 2023 Financial Results"
-    excerpt: "UP Fintech Holding Limited (NASDAQ:TIGR) (\"UP Fintech\" or the \"Company\"), a leading online brokerage firm focusing on global investors, today announced its unaudited"
-    publishedDateTime: 2023-05-30T07:59:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32618787/up-fintech-holding-limited-reports-unaudited-first-quarter-2023-financial-results"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32618787"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32618787"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "UP Fintech posts solid 2023 Q1 results as global expansion scales up"
-    excerpt: "Non-GAAP profit doubled quarter-over-quarter (QoQ) to US$10.33 million, a two-year highNumber of new customer accounts up 40% QoQ, thanks to"
-    publishedDateTime: 2023-05-30T09:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/up-fintech-posts-solid-2023-q1-results-as-global-expansion-scales-up-1032357570"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-  - title: "New Senior Team Members Strengthen IA Capital Group's Investment Focus at the Intersection of Health and Insurtech/Fintech"
-    excerpt: "A leader in Series A and B venture investments across North American insurtech and fintech, IA Capital is increasingly focused on insurtech/fintech startups with health-related data, analytics, AI and/or personalization capabilities."
-    publishedDateTime: 2023-05-30T18:12:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/30/9822905.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 30
 
 secured: "zUds59b53yA5TneMsKh2XBcnBnoDvTha4cg5+rCeJ0II9kx3soBJhuqLKxw/pjtKjOebAliVE0/S0D0rZ4jCH8GEXczdTn4xWmSgDAPV3+ggs71HdXucnUStD4NhwfYb0U+wxiW98VtgIbqC7rwf/nJ/E4Sp9bGm7pKhadAJGZKisLrzMGHLwG72aggKpyEYNLBKf6f7S1nnR9GobvmExbZHTNkDDr9ejV45fUAfp2CoMD/XJ2TJ5YFDLq4soAn8IF1Tf/oLaoY2ccOS0baLj2UUiwZLjFOGF+95VMcYNNMJ/StI1Ej0NyEtxPqaQz0vmvQjcR7VDRcJRQoFZcHb56gquhvQjkZ4ZYgO+dfbdzKsd1WrEHH7lBhbN22JHtYt6tNTI9WYCFJyhDR1HY2HJ+5j5KrYeNFWBoXrRmGMtA5k/ha0iw1lezEYUgHpV7JL+s7sqjhMbO5O6HID1Zwwmw+pqcJVOCKNXkunUHCXrcD2HzZN5fUsGnl4v8BTzW4ASQV/jfOX+bwJe8zZ+g6smA==;2WhHJumzFd6o4QOeYqffdw=="
 ---

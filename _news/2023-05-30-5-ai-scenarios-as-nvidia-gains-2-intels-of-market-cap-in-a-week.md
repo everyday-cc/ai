@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft vets lead secretive education startup using generative AI to help students learn"
+    excerpt: "Two decades after selling their startup to Microsoft, Eran Megiddo and Liviu Asnash are going back to their entrepreneurial roots. The longtime Microsoft leaders are the co-founders of Maximal Learning,"
+    publishedDateTime: 2023-05-31T14:13:00Z
+    webUrl: "https://www.geekwire.com/2023/microsoft-vets-lead-secretive-education-startup-using-generative-ai-to-help-students-learn/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 91
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/05/Screen-Shot-2023-05-31-at-7.07.16-AM.png"
+        width: 1088
+        height: 539
+        isCached: true
   - title: "MediaTek Adopts Nvidia Tech for Automotive AI and Chips"
     excerpt: "The Taiwanese chipmaker, a rival to Qualcomm Inc. in equipping smartphones with silicon, announced it will integrate new Nvidia graphics hardware and AI technologies in its forthcoming cabin solutions. San Diego-based Qualcomm, along with Nvidia ..."
     publishedDateTime: 2023-05-29T23:37:00Z
@@ -126,6 +140,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Has Launched “Jugalbandi”—A New Generative AI App for India"
+    excerpt: "India, home to more than 1.4 billion people, is an incredibly ripe market for digital and AI-based innovation."
+    publishedDateTime: 2023-05-31T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/saibala/2023/05/31/microsoft-has-launched-jugalbandi-a-new-generative-ai-app-for-india/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
   - title: "3 AI Stocks That Could Beat Out Google and Microsoft"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Unless you’ve been off the grid for most of 2023, you know that"
     publishedDateTime: 2023-05-27T10:41:00Z
@@ -281,6 +304,15 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "AI Battle Heats Up: Microsoft to Take on Apple Head-on"
+    excerpt: "With Microsoft's new partnerships, the pillars of the PC ecosystem have teamed up to challenge Apple’s dominance in the AI ecosystem."
+    publishedDateTime: 2023-05-29T12:03:00Z
+    webUrl: "https://analyticsindiamag.com/ai-battle-heats-up-microsoft-to-take-on-apple-head-on/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
   - title: "NVIDIA Grace Hopper enters full production, with insane AI supercomputer coming"
     excerpt: "Grace Hopper Superchips are on track for late 2023 and the new NVIDIA DGX GH200 AI Supercomputer connects 256 of them in a 1-Exaflop beast."
     publishedDateTime: 2023-05-29T10:22:00Z
@@ -345,6 +377,15 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 15
+  - title: "The Rise And Rise of NVIDIA"
+    excerpt: "Taking another step towards becoming the 7th company in the world to reach a trillion-dollar market cap, NVIDIA and SoftBank have partnered to drive generative AI applications in Japan. SoftBank will use NVIDIA’s GH200 Grace Hopper superchip in its data centers to develop 5G/6G applications,"
+    publishedDateTime: 2023-05-30T08:08:00Z
+    webUrl: "https://analyticsindiamag.com/the-rise-and-rise-of-nvidia/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 4
 
 secured: "x2L1vBEtS5Utj6wsbyQWZHoBcwhBgdoaApik8O45SzbbQ9Wh3q6Kerign6w8ShU5kBcTYlhuuJYUCnGJ1BqpR1hdL9I0Wk8Z/Q/Tt4MHTiSfB+IaTak4hSnSHudsSaNT81mjevccf2rKPVwqVwMD34jh6VwEx4wf06z5Q05ApJMmQNZve/nLVLdomA698n34woQwvSaFyTXramo1ywqzfGOVMwdkbaEUXD1zQoGd6gyWHspez+/c7VXNPXGBoD3rs4S+yZzKjxP0gv7RmqSfzJWQ55kCasaBq2sDib+udMzVDktFIR73U7jli/eTcbmVgelsYDwsE2VJBv5CY4w8oUwdRSQoh1il4k1aZHco5Ao=;7P4gsD/tD5H44GmpRjCKHQ=="
 ---

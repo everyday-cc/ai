@@ -47,6 +47,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AI is about to significantly change your computer: HP CEO"
+    excerpt: "CEO Enrique Lores says consumers and businesses are poised to see big changes to their computers within 24 months due to new advances in artificial intelligence. \"What we are working on is to build AI capabilities into the PC,"
+    publishedDateTime: 2023-05-31T12:14:00Z
+    webUrl: "https://www.aol.com/finance/ai-significantly-change-computer-hp-121459455.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 17
   - title: "NVIDIA ACE Injects Generative AI Into Game NPCs Enabling Hyper-Realistic Conversations"
     excerpt: "NVIDIA is showing off an AI model foundry service that leverages AI-powered natural language interactions to make NPCs feel more intelligent."
     publishedDateTime: 2023-05-29T12:56:00Z

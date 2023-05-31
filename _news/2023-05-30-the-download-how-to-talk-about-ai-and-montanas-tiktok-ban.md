@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "The Download: meet the longevity obsessives, and how China’s regulating AI"
+    excerpt: "Back in April, the Chinese internet regulator published a draft regulation on generative AI. The document doesn’t call out any specific company, but the way it is worded makes it clear that it was inspired by the incessant launch of large-language-model chatbots in China and the US."
+    publishedDateTime: 2023-05-31T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/31/1073768/the-download-meet-the-longevity-obsessives-and-how-chinas-regulating-ai/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 15
+
 secured: "1HkAmM/vNwpOGYGUahDRgaGcRVGmMmYUB4AtWMrczlwn1BWTjApQXbMRyMLRMKQqrV/4uRnW+HuVM0WMEN9Apm35qsmULIz6Z+PiVU3s/8qmNOespam1QS7Wd2/kJQblJ/PVtbwdhqpnFtGHU9gVxWGgfhQ0GFuNTo4JE9IoLXdb5m4hDx8+JfGLXIUkjkEER08VjExeA5mJXhM9Wlm11nNnR2U0dtzFFaB12R0Oj44DSZA6In/OaCuj1JW6e8HHeKKjXCKtlb6+m3xTejU65CY8QDMTjigK9F4aq72oRA3gUtZmlgW0gpGOOS3uLNOVew9t1qclitlU9j4pOvUDWYebMcZjpGRjU3WO4lU5fsDRx5ANbrlZTFW5CbaUnbiJfEAEN1ZsLPIRbw38dBY9bljPHhciaZ5dR7vDU3d1xf47fb+ai5hDnNgouBrCyEbZCNk/VIXGe2dbMt50u89enZNS7gdYiTE9m5XJ+f5oq/sCtP3m5GBfT9RmfDayblb/RE+KbLK7rtu8dJIHBQ44pw==;usdZPNmBkL5Wt9pZzMQeJA=="
 ---
 
