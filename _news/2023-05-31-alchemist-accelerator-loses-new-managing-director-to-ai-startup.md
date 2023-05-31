@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/05
 webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/05/30/alchemist-accelerator-rachel-chalmers-steps-down.html"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AWS picks biotech startup for AI accelerator program"
+    excerpt: "Ordaos, a drug design company, was selected for the AWS Generative AI Accelerator, a mentorship program for companies working with generative artificial intelli"
+    publishedDateTime: 2023-05-31T21:04:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/aws-picks-biotech-startup-for-ai-accelerator-program.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "3p/GxQ4PQVz8tNDSuWkSyIrl3Glfc8LmfXWrZw3zw8O8EUXwv7E1wK0gJDZHAR03Z9F8Frl0h+6wLz/COddNgPyry3vpR7hOnGuI/hV8hdlqKyeP1Fm5HDW7dYZ6QlTrmvWt0BEoMhAR50qoaXfd0x8Tu9T8S+JiyeOotz/5M/H+8DJjfr/f1TNs/b+NKzxYe+MRsG68jFIaZXncYlFWN8FEpe+uyqBfc8FYDxFcZcSJn6fanM6UEdK0+eaRyIr5EIEi/MVTeDL6pIFFzxTknztCWApInKhJY1nYGs3jxzc11fyxOL0OrIF+wPDsHLNW7HOVG8Ay0R/ynjOPYhgc9kIqeJVElV6oQN6f/Q9NTwI2SYyD5RptqG6vYFzdjpASOGD8wMY5BtOLYRc/Fjtse8eOVJuSix0jlA+Feav9MDI/Nd5rKKFHmBxoyNpzxk23WPbN0PIK5x7EqUl54VJAWo3E5+fXwIbdWo6VCK+v4hegY/9sW6FWjtFl01Gq5hDLDDG6UOc8uZewpO5wI+Qbvw==;fKahw/MqLH094FkyK6BNAA=="
 ---

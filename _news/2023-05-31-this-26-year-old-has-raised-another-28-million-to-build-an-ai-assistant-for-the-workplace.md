@@ -42,6 +42,20 @@ related:
         width: 720
         height: 719
         isCached: true
+  - title: "GPU Cloud Provider CoreWeave Secures $200M Series B Extension"
+    excerpt: "CoreWeave, a specialized cloud provider built for large-scale GPU-accelerated workloads, today announced an additional $200 million in funding from Magnetar Capital (“Magnetar”), a leading alternative asset manager."
+    publishedDateTime: 2023-05-31T19:59:00Z
+    webUrl: "https://insidehpc.com/2023/05/gpu-cloud-provider-coreweave-secures-200m-series-b-extension/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2022/05/cloud-computing-shutterstock-622863563.jpg"
+        width: 500
+        height: 334
+        isCached: true
   - title: "Specialized Cloud Provider CoreWeave Rides AI Wave To Another $200M Round"
     excerpt: "CoreWeave, an AI cloud infrastructure company, has raised another $200 million in a Series B extension funding round that values it at $2 billion"
     publishedDateTime: 2023-05-31T16:50:00Z
@@ -56,6 +70,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "GPU-accelerated cloud provider CoreWeave secures $200M led by Magnetar Capital"
+    excerpt: "CoreWeave Inc., a cloud compute provider that specializes in large-scale graphics processing unit-accelerated workloads, announced today that it has raised $200 million in additional funding from Magnetar Capital."
+    publishedDateTime: 2023-05-31T17:54:00Z
+    webUrl: "https://siliconangle.com/2023/05/31/gpu-accelerated-cloud-provider-coreweave-secures-200m-led-magnetar-capital/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 15
 
 secured: "rq+tl3XqO6kGA1P9uoP2VoyM4gI10/rqtsEenbr+igg7vK5LVp3W2zo1xIGxC0zmSbkvN+4Z9SY51XmVLvfkogWFgrRo+Bmn1i88+LovBBZ/fZKGmrk97Ox17FYLmOng+BN+PNuz2dGwmasPiYdSqOZdZMNVIbIPo8wCcvYb49nZHXRCcfAFgOfanZPdp/MkNYPQ6AkL4aE3bxS5tKxjNDja512qvxTdZ26FKa+OwaSu8Jh9I64km3Z1T4WfluWmQfrKn4RMal/aTrsF/Tu3ggeZXQL7BdHb64vdwG4rkX7d8e/fJo2fB62X/oenIhUSUk6/y0xGQvXuhhykfszwHbnBAjFlCehKEegm002RIc9eWqI4xG4wFoB/dleoAPKVzIQpyj0bpVtH/gR8GRB/Z19o+LkisYCb0V8ZRbWrgOlTXP//7jaUgiIRHJlrtCoG6F4CKP12sRZAKbUQeXb9euN9o+LZI6ep/DTMsJ8HAmeIjZ9oVDzMLXd1U571TpN+EclTuLe2SChoGWRTTnvkGg==;F+qvJBjmCbQP7QeN8fT/jA=="
 ---

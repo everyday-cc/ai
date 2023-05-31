@@ -152,6 +152,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "NVIDIA: From Chipmaker to Trillion-Dollar AI Powerhouse"
+    excerpt: "From being a renowned chipmaker for computer graphics to an industry titan momentarily reaching a trillion-dollar valuation, Nvidia's journey is one for the business books. This rapid ascent is a testament to the growing significance of artificial intelligence (AI) in shaping the future of technology."
+    publishedDateTime: 2023-05-31T21:19:00Z
+    webUrl: "https://www.unite.ai/nvidia-from-chipmaker-to-trillion-dollar-ai-powerhouse/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 54
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/05/nvidia-og-image-1200x630-1-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "AI Stocks Soar as Nvidia Joins Trillion-Dollar Club"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: shutterstock.com/Victor Runov Despite a soft opener in the equities"
     publishedDateTime: 2023-05-30T19:34:00Z
@@ -226,20 +240,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nvidia, The World's Newest, AI-amped Tech Giant"
-    excerpt: "Nvidia, a chip technology company, became a trillion dollar enterprise this week and the world's newest tech giant. Here are a few key facts about the little-known firm. Nvidia is not an out-of-the-blue startup."
-    publishedDateTime: 2023-05-31T17:21:00Z
-    webUrl: "https://www.ibtimes.com/nvidia-worlds-newest-ai-amped-tech-giant-3696862"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: "https://d.ibtimes.com/en/full/4462012/nvidia-chief-jensen-huang-centre-l-poses-photographs-before-attending-press-conference.jpg"
-        width: 768
-        height: 511
-        isCached: true
   - title: "Nvidia debuts more AI supercomputers and services as shares continue to soar"
     excerpt: "Nvidia debuted a host of new AI technologies on Monday, as the chip giant's stock price skyrocketed on a positive second quarter outlook."
     publishedDateTime: 2023-05-29T14:10:00Z
@@ -263,6 +263,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 34
+  - title: "Nvidia, The World's Newest, AI-amped Tech Giant"
+    excerpt: "Nvidia, a chip technology company, became a trillion dollar enterprise this week and the world’s newest tech giant. Here are a few key facts about the little-known firm."
+    publishedDateTime: 2023-05-31T17:18:00Z
+    webUrl: "https://www.barrons.com/news/nvidia-the-world-s-newest-ai-amped-tech-giant-8bf9a0e6"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 19
   - title: "AI means everyone can now be a programmer, Nvidia chief says"
     excerpt: "Artificial intelligence means everyone can now be a computer programmer as all they need to do is speak to the computer, Nvidia Corp CEO Jensen Huang said on Monday, hailing the end of the \"digital divide\"."
     publishedDateTime: 2023-05-29T19:58:00Z

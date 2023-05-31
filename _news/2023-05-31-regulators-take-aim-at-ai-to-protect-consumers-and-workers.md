@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Regulators take aim at AI to protect consumers and workers"
-    excerpt: "AI also affects hiring, housing and working conditions. Ben Winters, Senior Counsel for the Electronic Privacy Information Center, said a joint statement on enforcement released by federal agencies last month was a positive first step."
-    publishedDateTime: 2023-05-27T04:27:00Z
-    webUrl: "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers"
-    ampWebUrl: "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 57
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2023/05/OCR-Z-BOFA-SVB-0316.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "French Open 2023: Grand Slam using AI to protect players from online abuse"
     excerpt: "As the French Open introduces a new technology to help players filter out social media abuse, BBC Sport looks at the issues tennis players encounter online."
     publishedDateTime: 2023-05-28T15:29:00Z
@@ -55,20 +39,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_sport/4BEF/production/_129893491_swiatek_gettytwo.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Chat-powered AI boom is helping rewrite the winners and losers of the chip market"
-    excerpt: "Intel's foundry transition continues to be a slow and pock-marked affair with several partners either pulling out of or pausing previous commitments according"
-    publishedDateTime: 2023-05-30T20:41:00Z
-    webUrl: "https://www.onmsft.com/news/chat-powered-ai-boom-is-helping-rewrite-the-winners-and-losers-of-the-chip-market/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 49
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/05/Intel-vs.-NVIDIA-Chipmakers-Bing-Image-Creator.jpg"
-        width: 1024
-        height: 768
         isCached: true
 
 secured: "MB1CrSRNkVS234XRn+VssNhViC3ygD21wqwhhMJ7AsBIJL+by9JyS5CcOlal8DO+tqIgkd6yYW0uJS+xkkdf0fNFAWuzMpPA5rtyJYqYhk0UXb1RDspS38abibSpcuTGqzHYdnu6owY+seMkyAz/Qe5K0gFGR4WCWDuqaiFL6mSR6OebbRZRHoZnifAGNX3dU2NJ8OUNfJlNbH6H03h7MKx51P95FqXtD+BB63YZu/rQ6iV6szVN6CQZxoVlni50toZlB2kyMvNpvGmuHp/ggQusSV2LcODjc6m4VL0UP6/A7pKJpAOM1cglvbqZoVZmye/SC8DP4nDwVcz6WuhKcgzyqRmiHYgwUvN8AHbyqpE=;vdG3HNiVSGX3QH9F3D+MJw=="

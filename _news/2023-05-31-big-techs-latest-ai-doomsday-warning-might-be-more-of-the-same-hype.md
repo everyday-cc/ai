@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/technology/ai-warning-critics/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-warning-critics/?amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://www.adn.com/resizer//a5XrKwCrCY-a4wdkBEBEucq5iXc=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/GXREDENRBKWXL7J3MWHKIHD7MM.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "C3.ai Q1 earnings beat expectations, but shares collapse more than 12%"
+    excerpt: "And while shares of AI darling Nvidia are up 162% since the start 2023, C3.ai's stock is up a whopping 252%. C3.ai produces enterprise AI software used by a wide range of industries including transportation, healthcare, and manufacturing. On Tuesday ..."
+    publishedDateTime: 2023-05-31T21:21:00Z
+    webUrl: "https://www.aol.com/finance/c3-ai-q1-earnings-beat-210159825.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/raHhnUfPC_A9MUgKbe9diQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/661f494f4b6204b19db76a9d88a825d5"
+        width: 1200
+        height: 900
         isCached: true
   - title: "More Tech Experts Issue Warning About Possible Threat of Artificial Intelligence"
     excerpt: "More Tech Experts , Issue Warning About Possible Threat , of Artificial Intelligence. NBC reports that leading experts in artificial intelligence have released a statement warning that the technology"

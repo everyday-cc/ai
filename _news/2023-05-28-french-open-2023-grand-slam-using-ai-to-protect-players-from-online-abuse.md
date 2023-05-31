@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/sport/tennis/65706479.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/tennis/65706479.amp"
 type: article
 quality: 55
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -26,36 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Regulators take aim at AI to protect consumers and workers"
-    excerpt: "AI also affects hiring, housing and working conditions. Ben Winters, Senior Counsel for the Electronic Privacy Information Center, said a joint statement on enforcement released by federal agencies last month was a positive first step."
-    publishedDateTime: 2023-05-27T04:27:00Z
-    webUrl: "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers"
-    ampWebUrl: "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers/amp/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 57
-    images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2023/05/OCR-Z-BOFA-SVB-0316.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Chat-powered AI boom is helping rewrite the winners and losers of the chip market"
-    excerpt: "Intel's foundry transition continues to be a slow and pock-marked affair with several partners either pulling out of or pausing previous commitments according"
-    publishedDateTime: 2023-05-30T20:41:00Z
-    webUrl: "https://www.onmsft.com/news/chat-powered-ai-boom-is-helping-rewrite-the-winners-and-losers-of-the-chip-market/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 49
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/05/Intel-vs.-NVIDIA-Chipmakers-Bing-Image-Creator.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Regulators take aim at AI to protect consumers and workers"
     excerpt: "The nation’s financial watchdog says it’s working to ensure companies follow the law when using artificial intelligence as concerns grow over increasingly powerful AI systems like ChatGPT."
     publishedDateTime: 2023-05-30T20:03:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tylerroush/2023/05/31/ai-rules-coming-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tylerroush/2023/05/31/ai-rules-coming-way-too-late-eu-official-warns-calls-for-code-of-conduct/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "US, Europe working on voluntary AI code of conduct as calls grow for regulation"
+    excerpt: "The voluntary code would bridge the gap while the 27-nation EU works on groundbreaking AI rules that won't take effect for up to three years, European Commission Vice President Margrethe Vestager said at a meeting of the EU-U."
+    publishedDateTime: 2023-05-31T20:05:00Z
+    webUrl: "https://www.chron.com/news/politics/article/us-europe-working-on-voluntary-ai-code-of-18127929.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 13
 
 secured: "8DFkAaNf9a9yOvl1jyR7YU1A4t9pHc9nRlz+gw6d+0TAnH25ThK0hL6IE1KGXG9ZhmzNvj5xQZCXpopMFEG//0KDqXVu+rL96Juhn5qbladg6BzPwcYuAoy969M0bCNkpGdtpYpYRtymJBoHrstZyANVzScYsRR9VIz7D3nXzLvCPkV7FbQGiu8FmNfjreGeNG8UggBwXnvYSasiyQUlR6HtYEfeEoVyXYn1jlWGUtfdxtJIBVwAPDZ8y9UP7bAfRpGfJkPlltWt6hwfb2bDNKmGe02bWhVEx3oGu0EbR+7Lqg5VYU0TEYHzEW878rDgJsjDxM9O+AtaIRDSoglYvokiD/tb6w3mhIvhtaXoJ6Q=;uAXHN1jm4AJDo9NyCkNQRw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.ksl.com/article/50652337/how-a-utah-company-is-seeking
 webUrl: "https://www.ksl.com/article/50652337/how-a-utah-company-is-seeking-to-democratize-health-care-by-using-ai"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "How Cedars-Sinai plans to 'democratize' artificial intelligence"
+    excerpt: "Sinai's new center, dubbed the Center for Artificial Intelligence Research and Education, will focus on \"democratizing\" artificial intelligence so all clinicians and biomedical researchers will be able to use it regardless of training or expertise,"
+    publishedDateTime: 2023-05-31T20:26:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/how-cedars-sinai-plans-to-democratize-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "maquhAMe/2TQZEmAYMbI8rts6VKWJbX08ymdbuYzw2VuXv4NHKdWfjXKUwKk1nQTmyz2o/lQfEaxJkX/cy2S1DvGepm7TE3GlOfiqtzCC1lVGLEVvK2TLcGXgO7pB7jNkr/dlkiv4/UonhYt04cA7p5NEiAWH6jxJLI+Ms/ZiHnoLSVRrfJ/CSdfbDqC+giMSrb0AIMofEZFYaQfPAW1vV2/cY5YB4RKMMDIAT+Zr+XQ0znCQtRaX6oZJ6qLxPz6ZFBCM5/n41yYt0lKTWeHuhfktYHHjI7rZG7dLZAab8LYcsG6EBTIJBhK8VZZYAM730H4AAHlMWM80d1Z8aSIHYbRyix3auZpRURJc6csRsU+eXhq7/QWGHR+ckpBKLomMkfAlbl3hKB0dhtlvMEsnHEK4yfJtIASat/a/aess7DoFa8Gmso26nF1vM79+16X4LVqPyaM58GLpe3ywBTNb2uL8AAX8hCXDetcRSD7SaKFIqP8AjPvM0jCW3xjJGQW5/zN8q8N+WOG7D3jALCIWg==;RXGxWNr39CA6GvudVBIBow=="
 ---

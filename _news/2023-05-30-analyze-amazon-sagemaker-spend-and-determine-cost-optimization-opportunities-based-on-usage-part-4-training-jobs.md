@@ -43,6 +43,15 @@ related:
         width: 1024
         height: 509
         isCached: true
+  - title: "Host ML models on Amazon SageMaker using Triton: CV model with PyTorch backend"
+    excerpt: "PyTorch is a machine learning (ML) framework based on the Torch library, used for applications such as computer vision and natural language processing. One of the primary reasons that customers are choosing a PyTorch framework is its simplicity and the fact that it’s designed and assembled to work with"
+    publishedDateTime: 2023-05-31T18:40:07Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-cv-model-with-pytorch-backend/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 99
   - title: "Analyze Amazon SageMaker spend and determine cost optimization opportunities based on usage, Part 1"
     excerpt: "Cost optimization is one of the pillars of the AWS Well-Architected Framework, and it’s a continual process of refinement and improvement over the span of a workload’s lifecycle. It enables building and operating cost-aware systems that minimize costs, maximize return on investment, and achieve business"
     publishedDateTime: 2023-05-30T16:49:45Z
@@ -85,6 +94,15 @@ related:
         width: 1024
         height: 506
         isCached: true
+  - title: "Configure and use defaults for Amazon SageMaker resources with the SageMaker Python SDK"
+    excerpt: "The Amazon SageMaker Python SDK is an open-source library for training and deploying machine learning (ML) models on Amazon SageMaker. Enterprise customers in tightly controlled industries such as healthcare and finance set up security guardrails to ensure their data is encrypted and traffic doesn’t"
+    publishedDateTime: 2023-05-31T18:35:17Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/configure-and-use-defaults-for-amazon-sagemaker-resources-with-the-sagemaker-python-sdk/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 61
   - title: "Analyze Amazon SageMaker spend and determine cost optimization opportunities based on usage, Part 2: SageMaker notebooks and Studio"
     excerpt: "In 2021, we launched AWS Support Proactive Services as part of the AWS Enterprise Support offering. Since its introduction, we have helped hundreds of customers optimize their workloads, set guardrails, and improve the visibility of their machine learning (ML) workloads’ cost and usage. In this series"
     publishedDateTime: 2023-05-30T16:50:06Z

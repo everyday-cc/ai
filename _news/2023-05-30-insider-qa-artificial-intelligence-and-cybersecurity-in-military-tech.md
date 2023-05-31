@@ -7,7 +7,7 @@ originalUrl: "https://www.click2houston.com/news/2023/05/23/insider-qa-artificia
 webUrl: "https://www.click2houston.com/news/2023/05/23/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "CrowdStrike debuts generative AI cybersecurity chatbot and new AWS integrations"
+    excerpt: "CrowdStrike Holdings Inc. is rolling out new capabilities that will help companies more effectively respond to breach attempts. The first set of features, a collection of integrations for Amazon Web Services Inc."
+    publishedDateTime: 2023-05-31T21:19:00Z
+    webUrl: "https://siliconangle.com/2023/05/31/crowdstrike-debuts-generative-ai-cybersecurity-chatbot-new-aws-integrations/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 50
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/crowdstrike.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "Insider Q&A: Artificial intelligence and cybersecurity in military tech"
     excerpt: "Lospinoso recently told a Senate Armed Services subcommittee how artificial intelligence can help protect military operations. The CEO/programmer discussed the subject with The Associated Press as well how software vulnerabilities in weapons systems are a major threat to the U."
     publishedDateTime: 2023-05-29T12:10:00Z

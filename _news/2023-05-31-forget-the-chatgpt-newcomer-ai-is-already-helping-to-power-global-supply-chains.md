@@ -103,6 +103,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ..."
+    publishedDateTime: 2023-05-31T19:27:00Z
+    webUrl: "https://techcrunch.com/2023/05/31/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
   - title: "Lawyers Getting Tripped Up By Generative AI Such As ChatGPT But Who Really Is To Blame, Asks AI Ethics And AI Law"
     excerpt: "A recent legal case has seemingly gotten entangled in the use of generative AI by lawyers for one side that have landed in hot water. Lessons for everyone arise."
     publishedDateTime: 2023-05-29T12:00:00Z
@@ -120,6 +129,15 @@ related:
     provider:
       name: AOL
       domain: aol.com
+    quality: 21
+  - title: "This ChatGPT-inspired large language model speaks fluent finance"
+    excerpt: "Mark Dredze, associate professor of computer science, discusses BloombergGPT, the first large language model built specifically for the finance industry"
+    publishedDateTime: 2023-05-31T18:44:00Z
+    webUrl: "https://hub.jhu.edu/2023/05/31/ai-chatbot-speaks-finance/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
     quality: 21
   - title: "Albany software company launches AI content platform to compete with ChatGPT"
     excerpt: "An Albany-based software company has launched an artificial intelligence product that intends to compete with the likes of ChatGPT."

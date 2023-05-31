@@ -73,6 +73,22 @@ related:
         width: 1088
         height: 539
         isCached: true
+  - title: "Opinion: Nvidia and these 6 tech giants will gobble up the AI pie"
+    excerpt: "In fact, the event was all about AI — from integrating artificial intelligence with Windows, Bing and developer tools. Note that many of the offerings were still in “preview” mode. As for Azure, its cloud platform, Microsoft is trying to catch ..."
+    publishedDateTime: 2023-05-31T13:04:00Z
+    webUrl: "https://www.marketwatch.com/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 89
+    images:
+      - url: "https://images.mktw.net/im-747436/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "MediaTek Adopts Nvidia Tech for Automotive AI and Chips"
     excerpt: "The Taiwanese chipmaker, a rival to Qualcomm Inc. in equipping smartphones with silicon, announced it will integrate new Nvidia graphics hardware and AI technologies in its forthcoming cabin solutions. San Diego-based Qualcomm, along with Nvidia ..."
     publishedDateTime: 2023-05-29T23:37:00Z
@@ -371,6 +387,15 @@ related:
       name: Slator
       domain: slator.com
     quality: 30
+  - title: "The generative AI hype bubble runs through Nvidia"
+    excerpt: "Generative AI is the hottest trend on Wall Street. Ever since OpenAI’s ChatGPT debuted in late 2022, kicking off a flurry of activity in the space, investors have been piling into AI stocks. And Nvidia (NVDA) has been the biggest winner."
+    publishedDateTime: 2023-05-31T19:41:00Z
+    webUrl: "https://www.aol.com/finance/generative-ai-hype-bubble-runs-164142386.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
   - title: "Nvidia's New AI Is Coming For Absolutely Every Gaming Job"
     excerpt: "AI is coming to games, whether you like it or not. Last night’s Nvidia keynote showed just how powerful—and devastating—that’s going to be. The company’s CEO, Jensen Huang, showed off how its freshly announced “Omniverse Avatar Cloud Engine” (ACE) can create real-time interactive AI NPCs,"
     publishedDateTime: 2023-05-29T12:30:00Z

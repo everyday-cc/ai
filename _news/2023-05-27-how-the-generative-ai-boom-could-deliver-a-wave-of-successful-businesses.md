@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-the-generative-ai-boom-could-delive
 webUrl: "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/"
 type: article
 quality: 68
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "4 trends shaping the future of practical generative AI"
-    excerpt: "How will enterprises be thinking about and integrating generative AI as the technology grows ubiquitous? Here are some of the ways:"
-    publishedDateTime: 2023-05-27T01:07:00Z
-    webUrl: "https://venturebeat.com/ai/4-trends-shaping-the-future-of-practical-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_business_transformation_concept._technology_futuristic_e_99a9e0a2-4fe3-4416-b96c-b91028eb6b11.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "How the rise of generative AI could kill the metaverse — or save it"
     excerpt: "Will generative AI kill the metaverse? Maybe, maybe not. How their combination could build a dynamic digital future."
     publishedDateTime: 2023-05-28T15:20:00Z

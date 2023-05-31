@@ -29,10 +29,19 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 51
+  - title: "AWS Announces General Availability of Amazon Security Lake"
+    excerpt: "Amazon Web Services, Inc. (AWS) has announced the general availability of Amazon Security Lake, a service that automatically"
+    publishedDateTime: 2023-05-31T18:31:00Z
+    webUrl: "https://www.datanami.com/this-just-in/aws-announces-general-availability-of-amazon-security-lake/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 51
   - title: "Salt Security Attains AWS Security Competency Status"
     excerpt: "Salt Security, the leading API security company, today announced that it has achieved Amazon Web Services (AWS) Security Competency status in the Application Security category. Salt is the only API security company to have earned AWS Security Competency."
-    publishedDateTime: 2023-05-31T17:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/05/31/9823421.htm"
+    publishedDateTime: 2023-05-31T18:09:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/31/9823421.htm"
     type: article
     provider:
       name: TMCnet

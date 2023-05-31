@@ -57,6 +57,15 @@ related:
       name: Benefits Pro
       domain: benefitspro.com
     quality: 19
+  - title: "US eating disorder helpline takes down AI chatbot over harmful advice"
+    excerpt: "National Eating Disorder Association has also been under criticism for firing four employees in March who formed a union"
+    publishedDateTime: 2023-05-31T17:56:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/31/eating-disorder-hotline-union-ai-chatbot-harm"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "TpjbHvBLgdz7zpLdIYjAqBburJNlDrLZY4no5iazzwEda1/PELIidLlUuWBNWCCyVVzlOJhzofTEx0C0n0nMbgleXba2KjJ12I/250O5jJeYFcR9+uV8abT4zyloSqQpCstGHevCP7hd+sJIXVp/MtH4vr7Eoi4FmPIyC1kbLO23k4VwF74lPg/9cbs+fY6ubS586ZpznjypEIISRzZEdcJz9nhXvjB54jVdpTW+Fv3kiVPE1Wue1h/IZUVlB+4H3/yGeDuqFFI7qcZZjmSqOYBQnGgo45999/t1xdNq1vbVJ5ougwv5+nPqP9QthpJIi6wrb9p3DHWWC+PQUiRLR6v0kvgwpgR7KDU5AE9UiSxqzN1SSRPzOGWqc4L8L3mqOyDXqzOrkJ7zs8sfP0V9Q2FxD2Q7fEGPqlxxjH+9zQ1JhebGyOVFmpbhdsp5b5i9rNK3M4rhaEbCJEWoM9VKGqaiAFaaeVD2uIyYJgQ1Mwo6no2JBRSkwir/XNgH9QBDWGJG9S/7utDsN9pn/okVhA==;yJzVVI6OoqW7hXJxn/XNQQ=="
 ---

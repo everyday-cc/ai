@@ -110,6 +110,15 @@ related:
         width: 740
         height: 450
         isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ..."
+    publishedDateTime: 2023-05-31T19:27:00Z
+    webUrl: "https://techcrunch.com/2023/05/31/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
   - title: "Lawyers Getting Tripped Up By Generative AI Such As ChatGPT But Who Really Is To Blame, Asks AI Ethics And AI Law"
     excerpt: "A recent legal case has seemingly gotten entangled in the use of generative AI by lawyers for one side that have landed in hot water. Lessons for everyone arise."
     publishedDateTime: 2023-05-29T12:00:00Z
@@ -127,6 +136,15 @@ related:
     provider:
       name: AOL
       domain: aol.com
+    quality: 21
+  - title: "This ChatGPT-inspired large language model speaks fluent finance"
+    excerpt: "Mark Dredze, associate professor of computer science, discusses BloombergGPT, the first large language model built specifically for the finance industry"
+    publishedDateTime: 2023-05-31T18:44:00Z
+    webUrl: "https://hub.jhu.edu/2023/05/31/ai-chatbot-speaks-finance/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
     quality: 21
 
 secured: "2zmxQ5Rj+gzBHEjdn8g3fxnS0Vz7Mv7CVGOAG6/CWg2QCzgw3l7B27dqDS7ex7OADTrOjDrJpyhjnmtjT/rW1CKL8IeH71tW629L/6syU4HRoCh5yA9wcNv7fmwF+9wsDH2rYlCORwzkmtgXz8gCY/9M5+0Kp017a6i3dBt9kDkb4cc8TJftrsMQXy+k5B81h2BOiUKLL82zA03K5ievBsPL4KhMf3hql8m6Zhu6XOKqjsGHF7ShGkOngoZz0q76qLIdasc6agV+TnahYR8JXSObSvJzBoUpy5sezRMoAn4BNdRR75dKkwzOor+N9jE7eA3f/cuXLBMaRcgHlbIZSlKpsht8GyUIrh5caYpFnNYTecTcJDZt/ukaMBycIt7r+EtMgF7evqZKX+MmhZ8PoMc3TfjGhyPkQwoc1ey0Gz2ywU+5TcEzFzeXJDzeBk2Veg7lJ0Po945ayI35selbvJLkaMamzHxX0HgndVc2G2Lf9Fjy+2r2EKOEZRg90IbrbIHwdzUKM3G2UyRYehtrKQ==;Daed/ZZTWuTgrtMOvmlxFw=="

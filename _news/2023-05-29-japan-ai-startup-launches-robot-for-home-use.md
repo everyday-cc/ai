@@ -35,20 +35,6 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "Japan AI startup launches robot for home use"
-    excerpt: "A Japanese artificial intelligence startup has launched a robot for home use capable of delivering items in response to verbal comman"
-    publishedDateTime: 2023-05-27T03:00:00Z
-    webUrl: "https://mainichi.jp/english/articles/20230527/p2g/00m/0na/018000c"
-    type: article
-    provider:
-      name: 毎日新聞
-      domain: mainichi.jp
-    quality: 54
-    images:
-      - url: "https://cdn.mainichi.jp/vol1/2023/05/27/20230527p2g00m0na016000p/0c10.jpg?1"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Hx9fgSy5Y3QcFueS7rAijM3CEBKuQ/uBuumznEqE+yjuXk8rKBTNMMqhO2h3u3Lwt6cipO8OVun7B29AEah/MnAWoG1o973SSJWSsy4Gg6b0rwoN0T13zpPhrCWfFrsKEmJ8pk2aSzQEXI7eUugrAGJ3/fMEF/iILJiEkjNE4SYrpF//z0GCfMQLQ5GzJkoMSIi9L7Rjn1jra+kySJo6GiUO2FACNRLkTkWOX4xfJM6VgDrXAWs1Hsxu+qmtNxsZwaDqPFTvkbeCxpHhXtfkKG2valPmm5i8+8FqaB3GI0Ut6Ady0rlJR2W/NjYjhbrhnFTM/Iik1RnznJYDoRbDsyPy1QS/1D6Q8jZU1AnVms0=;HuiNJ7rSp0pAGGmeAFuZLA=="
 ---

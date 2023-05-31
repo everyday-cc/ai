@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-04-04-adlink-pocket-ai-portable-plug-and-play-gpu-accelerator.md",
+      "title": "ADLINK Pocket AI portable, plug and play GPU accelerator",
+      "excerpt": "ADLINK has this week introduced a new piece of hardware to its range which will be available to preorder later this month and takes the form of the Pocket AI, “the first ever ultra-portable GPU ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/gpu-accelerator-04-04-2023/",
+      "originalUrl": "https://www.geeky-gadgets.com/gpu-accelerator-04-04-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-04T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-04-adlink-launches-portable-gpu-accelerator-with-nvidia-rtx-a500.md",
       "title": "Adlink launches portable GPU accelerator with NVIDIA RTX A500",
       "excerpt": "ADLINK Technology Inc., a global leader in edge computing, today launched Pocket AI - the first ever ultra-portable GPU accelerator to offer exceptional power at a cost-effective price point.",

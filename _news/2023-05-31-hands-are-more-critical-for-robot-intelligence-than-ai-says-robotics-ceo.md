@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo?amp"
 type: article
 quality: 90
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Japan AI startup launches robot for home use"
-    excerpt: "A Japanese artificial intelligence startup has launched a robot for home use capable of delivering items in response to verbal comman"
-    publishedDateTime: 2023-05-27T03:00:00Z
-    webUrl: "https://mainichi.jp/english/articles/20230527/p2g/00m/0na/018000c"
-    type: article
-    provider:
-      name: 毎日新聞
-      domain: mainichi.jp
-    quality: 54
-    images:
-      - url: "https://cdn.mainichi.jp/vol1/2023/05/27/20230527p2g00m0na016000p/0c10.jpg?1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Japan AI startup launches robot for home use"
     excerpt: "A Japanese artificial intelligence startup has launched a robot for home use capable of delivering items in response to verbal commands, such as bringing dishes and condiments to the dining room table or books and drinks to the sofa."
     publishedDateTime: 2023-05-28T21:35:00Z

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Nvidia, The World's Newest, AI-amped Tech Giant"
-excerpt: "Nvidia, a chip technology company, became a trillion dollar enterprise this week and the world's newest tech giant. Here are a few key facts about the little-known firm. Nvidia is not an out-of-the-blue startup."
-publishedDateTime: 2023-05-31T17:21:00Z
-originalUrl: "https://www.ibtimes.com/nvidia-worlds-newest-ai-amped-tech-giant-3696862"
-webUrl: "https://www.ibtimes.com/nvidia-worlds-newest-ai-amped-tech-giant-3696862"
+excerpt: "Nvidia, a chip technology company, became a trillion dollar enterprise this week and the world’s newest tech giant. Here are a few key facts about the little-known firm."
+publishedDateTime: 2023-05-31T17:18:00Z
+originalUrl: "https://www.barrons.com/news/nvidia-the-world-s-newest-ai-amped-tech-giant-8bf9a0e6"
+webUrl: "https://www.barrons.com/news/nvidia-the-world-s-newest-ai-amped-tech-giant-8bf9a0e6"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://d.ibtimes.com/en/full/4462012/nvidia-chief-jensen-huang-centre-l-poses-photographs-before-attending-press-conference.jpg"
-    width: 768
-    height: 511
-    isCached: true
 
 related:
   - title: "MediaTek taps Nvidia GPU and AI for connected car chipsets"
@@ -166,6 +160,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "NVIDIA: From Chipmaker to Trillion-Dollar AI Powerhouse"
+    excerpt: "From being a renowned chipmaker for computer graphics to an industry titan momentarily reaching a trillion-dollar valuation, Nvidia's journey is one for the business books. This rapid ascent is a testament to the growing significance of artificial intelligence (AI) in shaping the future of technology."
+    publishedDateTime: 2023-05-31T21:19:00Z
+    webUrl: "https://www.unite.ai/nvidia-from-chipmaker-to-trillion-dollar-ai-powerhouse/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 54
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/05/nvidia-og-image-1200x630-1-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "AI Stocks Soar as Nvidia Joins Trillion-Dollar Club"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: shutterstock.com/Victor Runov Despite a soft opener in the equities"
     publishedDateTime: 2023-05-30T19:34:00Z
@@ -273,6 +281,6 @@ related:
       domain: channelnewsasia.com
     quality: 17
 
-secured: "munjm+LaocBbjspbRobEqOlUJcOUVVM4ASyTugOS7QtD4DjfhuqQJv2d+Xuw5/33BDjzOu3BNNAxJtSBHnbyEKVO8xBUIlrGrHSLHJHCAFVcORg0ecO0wN7rUC3ryskUT6OvQao8Uu1qMg2YITNPI+xjEZOT+UEiySpid/ASVtcW4IaTo11rpOiYlmIQGK9t2LpcQ0B3H+YZg4Jka/H3qXXWBmcU1VvoUpzn41kmsMpO9kTP0sSitOnMk+0auqEOIV1FdZgq7YnGEyBcOEWygdLncxq5+ehhuHMstml6eJ0NND/oqzMaPnx8zQd8jzzKvq3lCmbbZNaPERetOwhUP1FHfv2ECZxTouOAu+Pdxz0=;cT/DiXG+a194udncHmc1Sg=="
+secured: "BbkSMRRwPgvMfikKU8gi77HOp0w/OMhnqw5bj7cZIJ5tXFueKuyKNViS3oacaYWrCe7ozuZb1HLsYjHKTVIyoSVwHTH7QnrUjJkkIvAKfXNXkxWhKYo54UyrA/r4dUmtwPwIsRhFA9+/+Y8kUadE67u8NPiM2P5+zT64S7/7KF+G7IgDhqz8iTIO45Uq4DInd8P6oraONUD1uxkKCMDkuFCx95ct7L0QhwpwePHDmY3haP3i56c+C+w8nP31NU6gejkolZRQC3xt7rlqRsuXKgsyKDgtnCbT7NJkuI7p9wfdoF/YPFa+/LpKYSaXOtnJrDbBXTRImVIyt7wpoLMw7I3d3UoNXuc81h/2GY5mEeHTNiX1c41KfuR33zvDl7qSwGeKINhV6sPUc7Q0Xxb4Lx1viZ+3i83WOAUq5d/UkhOlGMEWo83LGyM8IqEyCA5a0ubgNkLxHZWmEiAjOHNxTE/oXWQIcHK1iiYLDBGG2RntWk+RhoTJTdmXsO0qT2jBYGqIiwNxv3w1d771Ujlncw==;qETyVja1H+gfcag5fW14Mw=="
 ---
 

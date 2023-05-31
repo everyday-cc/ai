@@ -77,20 +77,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nvidia's reboot: How the processing giant made the shift from gaming to AI"
-    excerpt: "Nvidia is ready to deliver improved solutions to meet the rising requirements. The venerable V100 chip is still powerful but the more recent H100 model can crunch AI data nearly 10 times faster and also supports superior interconnection features for much ..."
-    publishedDateTime: 2023-05-31T17:43:00Z
-    webUrl: "https://www.usatoday.com/story/money/2023/05/31/how-nvidia-reinvented-itself/70265023007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 37
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/05/25/USAT/96ccb936-a4f1-428e-a72b-d8bd5c1eb7a5-70210697007-artificial-intelligence-ai.jpg?auto=webp&crop=2101,1182,x0,y213&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Methane-cutting genetics research and disease-preventing AI project among Farming Innovation grant winners"
     excerpt: "Ground-breaking research that could advance the UK dairy industry’s sustainability and efficiency is being funded through Defra’s Farming Innovation Program."
     publishedDateTime: 2023-05-31T14:59:00Z
@@ -113,6 +99,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 17
+  - title: "Nvidia's reboot: How the processing giant made the shift from gaming to AI"
+    excerpt: "Here's how Nvidia CEO Jensen Huang presented the results of Q1 2019, five years ago: At the heart of our opportunity is the incredible growth of computing demand of AI, just as traditional computing has slowed. The GPU computing approach we have pioneered ..."
+    publishedDateTime: 2023-05-31T17:52:00Z
+    webUrl: "https://www.freep.com/story/money/2023/05/31/how-nvidia-reinvented-itself/70265023007/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
     quality: 17
 
 secured: "8usf0IfLKu6DXgFe4LqnrBz09x3+BV5TrhakCLmzm2KIY/KMXyXRLJBq9MwjV6XxX9Do7YzcTvrUe/RmFxjV1oi30/ZD7dVbmmRs1Z/6aJGO9LiB5msFl/gAUCmAjLn6v/nJqBxJwVSwaOdXc0MyRvLpfEe71pNKMg3h5CYV1cy6mB8IG5fKVDvXd0rRdpRM8tSmALaq7v9i3qNIg5KTNukJpmScauNPEKd2Op9OeOMhUEHENhdqcbAo7V1y1ss8J40yxObutBeMEU6iVB4nz4VtyTeAlaBIOW1Y4w9+rV41T8/hd5N3mFqIohe9Wnk1LeNGqx0VKZddW/Io0H0hRxOD2miYLvY/uBDz8GzZcgI3ozedVSxk7kY6bS3t3F1skcZrLRpNniM7+cB+M0auXm/8/+a/hmZAW6rmpzXwm/WUHF13KoNP/eK9b+pmCMggSTsmuXr0wwSEKBFVi4usaW0peIsuWkZQ64EQBJrDlB1RSHnwWOKLSVLrmFuMk+GgOfyDqRWyiHvT4OPhXb3yAg==;q94RumFfeQtlG+ymVWLVRQ=="

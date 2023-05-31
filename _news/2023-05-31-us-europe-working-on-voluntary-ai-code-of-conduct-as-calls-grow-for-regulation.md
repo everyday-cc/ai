@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "US, Europe working on voluntary AI code of conduct as calls grow for regulation"
+    excerpt: "The voluntary code would bridge the gap while the 27-nation EU works on groundbreaking AI rules that won't take effect for up to three years, European Commission Vice President Margrethe Vestager said at a meeting of the EU-U."
+    publishedDateTime: 2023-05-31T20:05:00Z
+    webUrl: "https://www.chron.com/news/politics/article/us-europe-working-on-voluntary-ai-code-of-18127929.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 13
 
 secured: "YKXtAV+ZwOQEHZFtIs6FCHV2nkCcUyekpPS1EIzjsS+6I/7T986jwWRvfrMKvy/ywhxfPTt3MiP2uq2n8RUyCeVFwmeKk09Tu097j10OpJpVKVjC1u/gemQgkpA5GVOhDGHbUnqn6/ATie/hCpsdF/F+OY46HXZlJV7ffrCvS1fcAhJQ2G3mXLFSCrMc5vYte07EabV2dJ/6xGZ6CZKI2PAPu4XONhj3dkIrQQ+0cNHId+NaFZNPELr95AlDE7j3L7Tqpoclg3nB1BfJ0WFVYyxlJT3a9EUrTUQSjye937R6CH160nibgzUNWaouTRN1Hh+SYUsYQiZpVTQFrPtw/R08JRV4KZs4uZsGutemnW8=;n3tZAepotbG7jMIXNb5vTg=="
 ---

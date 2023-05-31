@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/ai-product-recommendations/"
 webUrl: "https://www.wired.com/story/ai-product-recommendations/"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
       name: Benefits Pro
       domain: benefitspro.com
     quality: 19
+  - title: "US eating disorder helpline takes down AI chatbot over harmful advice"
+    excerpt: "National Eating Disorder Association has also been under criticism for firing four employees in March who formed a union"
+    publishedDateTime: 2023-05-31T17:56:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/31/eating-disorder-hotline-union-ai-chatbot-harm"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "llmDtM0EPGOztmHUNwo9CfW5XvYuLjTgB235GsQFqRuHHVSkSvm7UgYfoGFgriv9jZiTduaV76BscFeIBCukszs9K2GnDUBuRm3XMZTL/OkTGUwyFK8q/8cLE/sumq3wpfBXaiPNK7EXAOESReTu10oG8BCZQLyc5gchpPns/NUK2u4aUO8KEOyEYYLsLCUxqnfCtm0uJNF9H+5VGQPyjp97oJsxp1+3QJw19C39VAuhLh+qsRX7u/ARjMSmnQO7j9lXshOlxDHAglD6NGGHhcEZebLz4vKa73+K8Z76IRTPwtgT32yKvfHGu8jiFd8tOVvaANfFz8Oj8K7A7du+BlfUd/53WTeGtQVthvTNZCChKoWbFtycglsay2sdhTEKZCVxr2ImsbLtIQ/6EufgFLB5t3eo4FnS1RCsIE9yopi8mLnSHG7DtvncSo9vISR90OAzygOZg4erGWaKt4cK2K8SSdHkUBRwzdw6k3ouPfLeHQ1OeM3jVfAsv1T6Wu8Tz+XPEpPyEXHPQPwSf5zx7g==;5BH2+Kp2fwBNb9a8Pya/YQ=="
 ---

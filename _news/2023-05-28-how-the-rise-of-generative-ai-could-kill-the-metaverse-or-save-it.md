@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "4 trends shaping the future of practical generative AI"
-    excerpt: "How will enterprises be thinking about and integrating generative AI as the technology grows ubiquitous? Here are some of the ways:"
-    publishedDateTime: 2023-05-27T01:07:00Z
-    webUrl: "https://venturebeat.com/ai/4-trends-shaping-the-future-of-practical-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/annevb_business_transformation_concept._technology_futuristic_e_99a9e0a2-4fe3-4416-b96c-b91028eb6b11.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "With Generative AI, Don’t Believe The Hype: Believe The Impact"
     excerpt: "Whether it’s AI-painted portraits of your old high school classmates or poems about the family cat, you’ve seen a lot of hype around generative AI. You’ve seen ChatGPT cause some to predict the end of high school English as we know it. You’ve seen pundits tussle over whether AI-generated art is really art."
     publishedDateTime: 2023-05-30T12:15:00Z

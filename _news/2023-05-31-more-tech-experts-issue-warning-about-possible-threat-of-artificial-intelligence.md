@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "C3.ai Q1 earnings beat expectations, but shares collapse more than 12%"
+    excerpt: "And while shares of AI darling Nvidia are up 162% since the start 2023, C3.ai's stock is up a whopping 252%. C3.ai produces enterprise AI software used by a wide range of industries including transportation, healthcare, and manufacturing. On Tuesday ..."
+    publishedDateTime: 2023-05-31T21:21:00Z
+    webUrl: "https://www.aol.com/finance/c3-ai-q1-earnings-beat-210159825.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/raHhnUfPC_A9MUgKbe9diQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/661f494f4b6204b19db76a9d88a825d5"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "mEXuo6RDeptiYGo98lT81CSRRBVEgkeJsTdqDCfNsauWdGtHqiPinOXwN32aV1U4tOtLZhCVJtki80QoJbmZwhIxg/HKhZr0+6UNHWqOFxqTX9DYfo9JSuFJvflIJgCWtRg0CJ9TFz+Y3pj6tBWdnt/qCR+4lUjGAVdJQ/jiirIBvXxFzy4HU57lzr186Oor2ieqTif5uU3YvuJkMqjw6voMAau2nQEc9JpKhj1bcOA21DqlLwa+m6xHZ6opdBtjA6iIwYqJ4G22ykErkncnMLgRKC8Z8QnkGIUWnKMmXoe/siUas8o31rG4QRA8C9FpD4q6myVCZuHenLWXt0DvqYkW1hVOIn6j2nSu8fMz1o291vnpGFnhA+Mf+75VXD7CTuhRGY1UPUuRpuGV2iHhhn/Yp+nbF+xv9m/qJHQFrcDMG5a1AzDHIWUQQQOCdGBbXltp8MRMSKiSQY1Qd2KlZTd9Aul2FbxOuPzRILh9gEobCegYR9qP0FppP8YqqW2uG4rLx3/L9hFhleGhBn1PTw==;ymljIVnCZCvvnNDYDmhfMg=="
 ---
