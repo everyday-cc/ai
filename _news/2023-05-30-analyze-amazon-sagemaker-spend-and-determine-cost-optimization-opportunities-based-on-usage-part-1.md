@@ -71,20 +71,6 @@ related:
         width: 1024
         height: 506
         isCached: true
-  - title: "Create high-quality images with Stable Diffusion models and deploy them cost-efficiently with Amazon SageMaker"
-    excerpt: "Text-to-image generation is a task in which a machine learning (ML) model generates an image from a textual description. The goal is to generate an image that closely matches the description, capturing the details and nuances of the text. This task is challenging because it requires the model to understand"
-    publishedDateTime: 2023-05-26T17:57:52Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-high-quality-images-with-stable-diffusion-models-and-deploy-them-cost-efficiently-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 69
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/26/featured-images-ml-14412.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Analyze Amazon SageMaker spend and determine cost optimization opportunities based on usage, Part 2: SageMaker notebooks and Studio"
     excerpt: "In 2021, we launched AWS Support Proactive Services as part of the AWS Enterprise Support offering. Since its introduction, we have helped hundreds of customers optimize their workloads, set guardrails, and improve the visibility of their machine learning (ML) workloads’ cost and usage. In this series"
     publishedDateTime: 2023-05-30T16:50:06Z

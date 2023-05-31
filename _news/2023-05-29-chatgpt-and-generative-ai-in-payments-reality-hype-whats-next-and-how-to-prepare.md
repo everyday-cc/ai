@@ -85,15 +85,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
-    excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
-    publishedDateTime: 2023-05-26T17:30:00Z
-    webUrl: "https://www.businessinsider.com/chaptgt-generative-ai-financial-services-whats-next-hype-reality-2023-may"
+  - title: "Lawyer’s AI Blunder Shows Perils of ChatGPT in ‘Early Days’"
+    excerpt: "A lawyer’s citation of court decisions fabricated by ChatGPT shows the peril of relying on the artificial intelligence chatbot without proper safeguards."
+    publishedDateTime: 2023-05-31T09:30:00Z
+    webUrl: "https://news.bloomberglaw.com/business-and-practice/lawyers-ai-blunder-shows-perils-of-chatgpt-in-early-days"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 39
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/d4cd88e/2147483647/crop/3998x1541%2B0%2B102/resize/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2Fbb%2F6a%2Fd098b3bf4e919a9049b7cd6a8ddc%2Fchatgpt.jpg"
+        width: 1920
+        height: 740
+        isCached: true
   - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
     publishedDateTime: 2023-05-30T17:30:00Z

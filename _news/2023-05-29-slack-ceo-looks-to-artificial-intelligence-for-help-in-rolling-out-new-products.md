@@ -7,7 +7,7 @@ originalUrl: "https://www.bostonglobe.com/2023/05/28/business/slack-ceo-looks-ar
 webUrl: "https://www.bostonglobe.com/2023/05/28/business/slack-ceo-looks-artificial-intelligence-help-rolling-out-new-products/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -22,40 +22,6 @@ images:
     width: 506
     height: 601
     isCached: true
-
-related:
-  - title: "How Should CEO’s Embrace AI Or Will AI Assume CEO Roles?"
-    excerpt: "This article discusses the emergence of CEO AI robots/cobots as well as the leadership governance role of CEOs in leading AI investments in their organizations. Examples of companies using CEO robots are identified."
-    publishedDateTime: 2023-05-26T23:34:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/05/26/how-should-ceos-embrace-ai-or-will-ai-assume-ceo-roles/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/05/26/how-should-ceos-embrace-ai-or-will-ai-assume-ceo-roles/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/05/26/how-should-ceos-embrace-ai-or-will-ai-assume-ceo-roles/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64713f5cdb174f931db2620b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 696
-        isCached: true
-  - title: "Hands are more critical for robot intelligence than AI, says robotics CEO"
-    excerpt: "In fact, they don't address the central problem of intelligence at all, which is how to understand the world around you, and then act on it. For Rose, and for the humanoid robots built and operated by Sanctuary AI,"
-    publishedDateTime: 2023-05-31T09:29:00Z
-    webUrl: "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo"
-    ampWebUrl: "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 88
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-05/597F4F78-034F-4C75-A533-1DD249D8DA70.jpeg"
-        width: 770
-        height: 500
-        isCached: true
 
 secured: "SqaAtm1Pf31l6oOiF3WLLh3KSUsUlCPjxObTZoxzX4wiorbB5aeTZsszJJGZxZ8VN/5m2v/tyA5fGfg5fawrRLy43IsGmxt6NqqhxrHRBLU+C1GMpAKNtLPZN1qTAlMzt0V/77gnTq++LnNtlKY8R2oVIdXy+MdhVe5tk+eCtQrsSs1BjUweWQIqm8zZCcKEnLK98yBYc1Pj7QfsQa6yBL7lOM/AyipBKDwPBEw7HUXm4TsTR9Lmh69Nd9QvfJanrRECdPKw1GUPgufopT2TBDVLdwc7Ba9R329F/PFwJyZvEFH9amiLGMA2pASWvAxGqjKfN9FBFcTcGRsIGPTiLm70QX280GQ32zadgPGCXpg=;vrt5y+2uwwLi7obvjghazw=="
 ---

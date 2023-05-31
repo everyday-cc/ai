@@ -1,0 +1,79 @@
+---
+category: news
+title: "Red-hot stock: $1 trillion club now includes chip maker Nvidia"
+excerpt: "Nvidia has joined the exclusive club of companies with a $1 trillion market capitalization as the chipmaker benefits from the growing use of artificial intelligence."
+publishedDateTime: 2023-05-31T10:17:00Z
+originalUrl: "https://wraltechwire.com/2023/05/31/red-hot-stock-1-trillion-club-now-includes-chip-maker-nvidia/"
+webUrl: "https://wraltechwire.com/2023/05/31/red-hot-stock-1-trillion-club-now-includes-chip-maker-nvidia/"
+ampWebUrl: "https://wraltechwire.com/2023/05/31/red-hot-stock-1-trillion-club-now-includes-chip-maker-nvidia/?amp=1"
+cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/31/red-hot-stock-1-trillion-club-now-includes-chip-maker-nvidia/?amp=1"
+type: article
+quality: 59
+heat: -1
+published: false
+
+provider:
+  name: WRAL TechWire
+  domain: wraltechwire.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://wraltechwire.com/wp-content/uploads/2021/03/processor-540254_1280-e1616494859780.jpg"
+    width: 1270
+    height: 713
+    isCached: true
+
+related:
+  - title: "Nvidia Dominates AI Silicon, But That Doesn’t Justify A $1 Trillion Valuation"
+    excerpt: "Nvidia (NASDAQ: NVDA) stock surged by 24% in Thursday’s trading after the company posted a better-than-expected set of Q1 FY’24 results and provided Q2 revenue guidance that was well ahead of Street estimates."
+    publishedDateTime: 2023-05-30T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/"
+    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647591d4304997e476bb5bd0/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Nvidia Stock Soars on AI Chip Demand, Nears $1 Trillion Market Cap (NVDA)"
+    excerpt: "Its outlook managed to bolster other chip companies, the broader stock market — and maybe the US dollar, too. Don’t forget the much tinier, $55 billion chip company Marvell Technology Inc. It enjoyed a 32% bump after projecting an AI-fueled doubling in sales. Rival Intel Corp. was decidedly not a winner."
+    publishedDateTime: 2023-05-27T11:00:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-05-27/nvidia-stock-soars-on-ai-chip-demand-nears-1-trillion-market-cap-nvda"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 83
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.mu6nu.cD28/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Nvidia Close to $1 Trillion Market Valuation. AI Is Driving the Market."
+    excerpt: "Nvidia NVDA +2.54% was closing in on a market valuation of $1 trillion as the chip maker’s stock rose in premarket trading on Tuesday."
+    publishedDateTime: 2023-05-30T10:00:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-trillion-valuation-ai-89ecb969"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-trillion-valuation-ai-89ecb969"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-trillion-valuation-ai-89ecb969"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-231723/social"
+        width: 1280
+        height: 640
+        isCached: true
+
+secured: "t8oDcSDtcTELthG4igsBBTK++GdOeZSvtu1joiUwy+oETFL16Pl6c/0V5Vjjw2iCZ94UT0PwFEmvoDuTMf3VWh8LhBzz7DJOtHm/PLvOis4G1JpdBFuGuWdUoSo6rVb4ReNFbWoE9kXuPT3OlCjZrAePTPV++1+5Cy+zXeuiskj0nRQvo6pfFmrI3miRBSqUAJYdgk0gIIp/ALoQoliwd/TrTsEL2d+Da5L2cqz3rKz64xngNUZ3RWsTh4x7PovkT4F/BWNBZkvTu0SoV0soYXRR/jWQmtYPaDggWDkcdEH2gQk/y8j1joJAzpB0p5eY4/MZykIr3D3Qq4yo8Q0WUtruUWR6/mwquxWIrs+uMxQ=;oKvon1LvdTYCKWLtRE9wQw=="
+---
+

@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Artificial intelligence threatens extinction, experts say in new warning"
-excerpt: "Scientists and tech industry leaders have issued a new warning about the perils that artificial intelligence poses to humankind"
-publishedDateTime: 2023-05-30T13:34:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692490"
-webUrl: "https://abcnews.go.com/Business/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692490"
+excerpt: "Sam Altman, CEO of ChatGPT maker OpenAI, and Geoffrey Hinton, a computer scientist known as the godfather of artificial intelligence, were among the hundreds of leading figures who signed the statement,"
+publishedDateTime: 2023-05-30T14:04:00Z
+originalUrl: "https://www.chron.com/news/world/article/artificial-intelligence-threatens-extinction-18125404.php"
+webUrl: "https://www.chron.com/news/world/article/artificial-intelligence-threatens-extinction-18125404.php"
 type: article
-quality: 36
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/International/wirestory_54ea8aadc60d1503e5a65878219aad43_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "OpenAI execs warn of “risk of extinction” from artificial intelligence in new open letter"
@@ -203,6 +197,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Artificial intelligence threatens extinction, experts say in new warning"
+    excerpt: "The CEO of ChatGPT maker OpenAI and Geoffrey Hinton, a computer scientist known as the godfather of artificial intelligence, were among the hundreds who signed the statement."
+    publishedDateTime: 2023-05-30T18:53:00Z
+    webUrl: "https://www.fox8live.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/"
+    ampWebUrl: "https://www.fox8live.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/?outputType=amp"
+    cdnAmpWebUrl: "https://www-fox8live-com.cdn.ampproject.org/c/s/www.fox8live.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/?outputType=amp"
+    type: article
+    provider:
+      name: WVUE FOX 8 News
+      domain: fox8live.com
+    quality: 58
+    images:
+      - url: "https://gray-wvue-prod.cdn.arcpublishing.com/resizer/GzKbb6yaD2Vecv4bQ9EEyEXiiuQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/NY3WZ3IREJFNVI5ETARLFTIIIQ.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Risk of extinction by AI should be global priority, say experts"
     excerpt: "Hundreds of tech leaders call for world to treat AI as danger on par with pandemics and nuclear war"
     publishedDateTime: 2023-05-30T16:10:00Z
@@ -382,20 +392,6 @@ related:
         width: 1200
         height: 592
         isCached: true
-  - title: "AI pioneers claim AI could bring about the extinction of humanity"
-    excerpt: "The Centre for AI Safety has published a statement that emphasises the need for implementing appropriate AI risk-reducing controls."
-    publishedDateTime: 2023-05-31T07:51:00Z
-    webUrl: "https://www.ibtimes.co.uk/ai-pioneers-claim-ai-could-bring-about-extinction-humanity-1716236"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 39
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1715771/artificial-intelligence.png"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Eminent AI experts and corporate heads caution about the probability of ‘extinction risk’"
     excerpt: "Renowned figures in the technology industry, including the leaders of OpenAI and Google Deepmind, have issued a warning about the potential dangers associated"
     publishedDateTime: 2023-05-30T14:37:00Z
@@ -442,15 +438,15 @@ related:
       name: unite
       domain: unite.ai
     quality: 19
-  - title: "Artificial intelligence threatens extinction, experts say in new warning"
-    excerpt: "The CEO of ChatGPT maker OpenAI and Geoffrey Hinton, a computer scientist known as the godfather of artificial intelligence, were among the hundreds who signed the statement."
-    publishedDateTime: 2023-05-30T18:53:00Z
-    webUrl: "https://www.knoe.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/"
+  - title: "AI poses ‘risk of extinction’ warn industry leaders"
+    excerpt: "AI could pose an existential threat to humanity, artificial intelligence luminaries have warned, in an extraordinary one-sentence open letter, urging that it be treated with the same level of urgency as pandemic and nuclear war."
+    publishedDateTime: 2023-05-31T11:47:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/ai-poses-risk-of-extinction-warn-industry-leaders/news-story/1fdc1030037dd60fb3813436e8538a9d"
     type: article
     provider:
-      name: KNOE
-      domain: knoe.com
-    quality: 18
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
   - title: "AI Industry Leaders Issue Stark Warning on ‘Risk of Extinction’"
     excerpt: "More than 350 top researchers and executives signed a dire one-sentence statement on the dangers of unconstrained artificial intelligence."
     publishedDateTime: 2023-05-30T11:20:00Z
@@ -470,6 +466,6 @@ related:
       domain: thestreet.com
     quality: 17
 
-secured: "6JQk/enZ0dmDEDXTqZJ5Sowl6OkiVAeZEkeJbiwmJer9e9MqsND0GPw7YV7H7TT74zbt6RDKl2DsWj6wMRxBMAK0cKaf1QVczi94B9NIeBqrqQ63uSv2MRkYoEW+VzNqGQQc0UT/2oiVgJ3Cx5z7AtWnYiNAvghXFPtoVTXrWXNtxMdfACJKZH0Md0U+1IOOPr/x3yad8z1FyydYGp8hQWeNMfZsMV+buurXPrBYZd33GujcNtYswtdNcenLghv33jUiWv4IST+cWj/pK3pWB28HTwOhXmHlDZh3Fp+leL/Kvt4ysuqnlsU+VUR0VMYW5y/G0d4S9m3sH4+bOln2iAb1KT6C8GEm+NUQwTCiRYJ6ujA/xW9FTP89Rrg0J5G491gqeyfzQG2fGitywIVxmEZxtEOO7YnndTNdpEY0Z3ZwAlMx6h9N31vIJleMamnItRPCfoVYye00bFhc6xpQoRqPUtWqQoIaYNN/NGcSwyHnok7tS0uEV2826DUZVDXf4bPgKYN6X027nHUtZfW/XA==;+sN76ZxUa7e+CHJ56bI98w=="
+secured: "MJxVZk46ODGl1rIXeYwitugI6MjqDRvGht+H8BIImBfaO/eInmj/4UYQlTuKahtiGH4/fjXzHCZ15CzavtGjHtKBC/1mXIuezfjhMOqNJObXoL8G4xBb/esfjONQcR+wIw6RJrUMRmLnu1C1fX/JrZS8z6tgME+Hws40CmtZvvAVnX91TB8zB7tBa/4HUynGHuqzkCBb3dERlTy4tr1ebA9SodjQZK74yXfKQ1QQYkZXBf15jKiyUZjsisMTGgYKUW/pX+mZzPc///FL2JCIAr73PLooCEhYEUeZVfmhl6tudssq13YvNWBIDqnIEnltFjAWjG5RFIaEDsCPpscUc87aEdb/VRX/iM/k+s0XfCZp9XqouIVo1EDYeWkXTcrEmvgPa3M/Gvn+PboLH1rbeyhWrGho+nu3XXsdJU6J8oKCwBM7oRMdLyIRgAhKMU0d4wwd4vkROC06haC/JEAAhHAlOPiuMuSR8dgz5HCN7BeLQNl1X+v510+fqne4Kf6zhMAHdwjo2CeaZiJCkOu67A==;b3SryPcbyXgP3QAfrTqbzA=="
 ---
 

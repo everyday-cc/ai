@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-art
 webUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI: How it Works, History, and Pros and Cons"
-    excerpt: "Generative AI is used in everything from creative to academic writing and translation; composing ... in which prompts can be given and interactions can take place in plain language. Here are some of the most popular recent examples of generative AI ..."
-    publishedDateTime: 2023-05-26T18:17:00Z
-    webUrl: "https://www.investopedia.com/generative-ai-7497939"
-    type: article
-    provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 41
-    images:
-      - url: "https://www.investopedia.com/thmb/evqH4CUzBFrebOwRlM2CANNWBz8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chatgpt-588fc25767134c248543d3de511ed5ea.jpg"
-        width: 1500
-        height: 1002
-        isCached: true
   - title: "How to introduce AI into your company’s workflow the smart way"
     excerpt: "Using predictive analytics is another way to introduce AI into a company's workflow. By analyzing large amounts of data, businesses can gain valuable insights into future trends and make more informed decisions. This is particularly useful for business forecasting and planning, where accurate predictions can make a significant difference."
     publishedDateTime: 2023-05-30T12:30:00Z

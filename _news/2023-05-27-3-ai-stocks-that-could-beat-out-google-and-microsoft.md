@@ -111,6 +111,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Lisa Su Saved AMD. Now She Wants Nvidia's AI Crown"
+    excerpt: "AMD's CEO orchestrated one of the great turnarounds in Silicon Valley history, driving the dying semiconductor maker's stock price up nearly 30-fold in less than a decade. Now she's preparing for battle in the coming AI revolution—and she expects to keep winning."
+    publishedDateTime: 2023-05-31T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/iainmartin/2023/05/31/lisa-su-saved-amd-now-she-wants-nvidias-ai-crown/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64760ef28d9d32e3a6569955/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Windows Copilot Puts AI in the Heart of Microsoft's Most Important Software"
     excerpt: "Some of the most important screen real estate in the world is getting a chatbot that can adjust PC settings, perform searches and suggest music."
     publishedDateTime: 2023-05-27T12:00:00Z

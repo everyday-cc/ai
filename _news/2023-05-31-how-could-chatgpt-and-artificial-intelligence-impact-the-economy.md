@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Future Of Generative AI Beyond ChatGPT"
+    excerpt: "Step into the future of artificial intelligence as we explore its extraordinary potential, from next-generation language models to generative design and gaming."
+    publishedDateTime: 2023-05-31T07:42:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/31/the-future-of-generative-ai-beyond-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/31/the-future-of-generative-ai-beyond-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/31/the-future-of-generative-ai-beyond-chatgpt/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6476f9bd5141e2d7f0a62ddd/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 652
+        isCached: true
   - title: "ChatGPT vs Bing Chat vs Google Bard: Which is the best AI chatbot?"
     excerpt: "GPT-4 is the largest LLM available for use when compared to all other AI chatbots. GPT-4 has over 100 trillion parameters; GPT-3.5 has 175 billion parameters. More parameters means that, essentially, the model is trained on more data, which makes it more likely to answer questions correctly."
     publishedDateTime: 2023-05-30T16:26:00Z
@@ -51,22 +67,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/3a48a084a7a93ad8c86dde1b9665b51646afbb96/2023/05/24/198d2750-d626-47a5-beca-9735824020a7/versus.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "The Future Of Generative AI Beyond ChatGPT"
-    excerpt: "Step into the future of artificial intelligence as we explore its extraordinary potential, from next-generation language models to generative design and gaming."
-    publishedDateTime: 2023-05-31T07:42:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/31/the-future-of-generative-ai-beyond-chatgpt/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/31/the-future-of-generative-ai-beyond-chatgpt/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/31/the-future-of-generative-ai-beyond-chatgpt/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6476f9bd5141e2d7f0a62ddd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 652
         isCached: true
   - title: "A lawyer used ChatGPT to cite bogus cases. What are the ethics?"
     excerpt: "A New York lawyer is facing potential sanctions over an error-riddled brief he drafted with help from ChatGPT."
@@ -95,6 +95,22 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2FUntitled-design-6-1.jpg&signature=5a484168b068ec4ec7870faeb2d42768"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Forget the ChatGPT newcomer — AI is already helping to power global supply chains"
+    excerpt: "ChatGPT may be the hot topic but AI has been embedded in enterprise technology for much longer. Samsara's Adam Warren digs into the value of AI in the logistics industry."
+    publishedDateTime: 2023-05-31T09:57:00Z
+    webUrl: "https://diginomica.com/forget-chatgpt-newcomer-ai-already-helping-power-global-supply-chains"
+    ampWebUrl: "https://diginomica.com/forget-chatgpt-newcomer-ai-already-helping-power-global-supply-chains?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/forget-chatgpt-newcomer-ai-already-helping-power-global-supply-chains?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 54
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-05/Shutterstock_2281213913.png"
+        width: 740
+        height: 450
         isCached: true
   - title: "Lawyers Getting Tripped Up By Generative AI Such As ChatGPT But Who Really Is To Blame, Asks AI Ethics And AI Law"
     excerpt: "A recent legal case has seemingly gotten entangled in the use of generative AI by lawyers for one side that have landed in hot water. Lessons for everyone arise."

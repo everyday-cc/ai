@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-31-the-ethics-of-communication-between-ai-and-humans.md",
+      "title": "The Ethics Of Communication Between AI And Humans",
+      "excerpt": "AI has taken the world by storm. With the rise of ChatGPT, Bard and autonomous cars, we are changing how we work, live and even comprehend life. With this rise comes worrying concerns around the ethics of communication between AI and humans. Consequently ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ff5b3599f2634f6eaa9372/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/amp/",
+      "publishedDateTime": "2023-05-31T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-chatgpt-launched-six-months-ago-its-impact-and-fallout-is-just-beginning-the-ai-beat.md",
       "title": "ChatGPT launched six months ago. Its impact — and fallout — is just beginning | The AI Beat",
       "excerpt": "A mere six months ago today, OpenAI released ChatGPT. It's been a dizzying AI ride, but it's impact — and fallout — is just beginning.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/ai/chatgpt-launched-six-months-ago-its-impact-and-fallout-is-just-beginning-the-ai-beat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -63,7 +115,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/the-news-media-ethics-and-chatgpt-for-pr-and-comms-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -115,7 +167,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1397,58 +1449,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-2023-to-2030-data-and-ai-ethics-market-size-with-the-rising-need-to-broaden-viewpoint.md",
-      "title": "2023 To 2030, Data and AI Ethics Market Size With The Rising Need To Broaden Viewpoint",
-      "excerpt": "This Data and AI Ethics Market report researches the key producers of Data and AI Ethics, also provides the sales of main regions and countries. Highlights of the upcoming market",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-to-2030-data-and-ai-ethics-market-size-with-the-rising-need-to-broaden-viewpoint-2023-05-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-to-2030-data-and-ai-ethics-market-size-with-the-rising-need-to-broaden-viewpoint-2023-05-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-10T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

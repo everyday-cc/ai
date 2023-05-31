@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dom
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://images.barrons.com/im-231723/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Red-hot stock: $1 trillion club now includes chip maker Nvidia"
+    excerpt: "Nvidia has joined the exclusive club of companies with a $1 trillion market capitalization as the chipmaker benefits from the growing use of artificial intelligence."
+    publishedDateTime: 2023-05-31T10:17:00Z
+    webUrl: "https://wraltechwire.com/2023/05/31/red-hot-stock-1-trillion-club-now-includes-chip-maker-nvidia/"
+    ampWebUrl: "https://wraltechwire.com/2023/05/31/red-hot-stock-1-trillion-club-now-includes-chip-maker-nvidia/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/31/red-hot-stock-1-trillion-club-now-includes-chip-maker-nvidia/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 59
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2021/03/processor-540254_1280-e1616494859780.jpg"
+        width: 1270
+        height: 713
         isCached: true
 
 secured: "sQPD5id3+FO2m2HROCUbuks+WLU3deb6aGqOPzufaMXZtZUQs3ga+13sA9vLOywsDVVNDPhG1bMQSkL1sSBWvDCId+OWOHT4L8mhtXDDK1qecWoRql7QQ1BfEvuzHgkx7leZnO9o3eGriEiBdxDxqVxyjlTybezURYalrLpT7WURTEcQUWEa8gF2SY3HNhZc/Sqap1qUWTZnkhLQPznqZdgZtKL9NMAR9JnUZjMBwK5V9ZfgjI0MCTqWp/BGovUVCj5cbed7fUTYmocWX40fqo32MBu8KfxOg+nAcrl++wKRARyIuPmatbjvMCZfsllKYb7qtYTyci8fDSp/nn1cztjQycgXMFDAvoepWox4vws=;Iee2offNeLu+YPS+ygPtBw=="

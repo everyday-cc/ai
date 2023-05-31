@@ -65,21 +65,21 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Conversational AI’s advancement and its implications on our lives"
-    excerpt: "Conversational AI has transformed the landscape of customer service and support. With intelligent voice bots, businesses can provide round-the-clock assistance, instant responses, and personalized interactions."
-    publishedDateTime: 2023-05-28T06:29:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-conversational-ais-advancement-and-its-implications-on-our-lives-3104512/lite/"
+  - title: "China isn’t waiting to set down rules on generative AI"
+    excerpt: "The draft regulation released in April is part of a large game of tech industry whack-a-mole. China Report is MIT Technology Review’s newsletter about technology developments in China. Sign up to receive it in your inbox every Tuesday."
+    publishedDateTime: 2023-05-31T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/31/1073743/china-generative-ai-quick-regulation/"
+    ampWebUrl: "https://www.technologyreview.com/2023/05/31/1073743/china-generative-ai-quick-regulation/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/31/1073743/china-generative-ai-quick-regulation/amp/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/Untitled-design56.jpg"
-        width: 1200
-        height: 675
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/AP23075301204542-crop.jpeg?w=3000"
+        width: 3000
+        height: 1687
         isCached: true
   - title: "Arm unveils TCS23, driving immersive experiences and new-generation AI applications"
     excerpt: "Arm held a new product launch event at COMPUTEX 2023, unveiling the \"2023 Total Compute Solution\" (TCS23). Chris Bergey, Senior Vice President and General Manager of Arm's Client Line of Business, stated that TCS23 includes the new Arm Immortalis GPU based on the Arm fifth-generation GPU architecture,"

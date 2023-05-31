@@ -8,9 +8,9 @@ webUrl: "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai-sa
 ampWebUrl: "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo?amp"
 type: article
-quality: 88
-heat: -1
-published: false
+quality: 90
+heat: 130
+published: true
 
 provider:
   name: Diginomica
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2023-05/597F4F78-034F-4C75-A533-1DD249D8DA70.jpeg"
@@ -43,21 +44,46 @@ related:
         width: 1200
         height: 696
         isCached: true
-  - title: "Slack CEO looks to artificial intelligence for help in rolling out new products"
-    excerpt: "One way to break the cycle of drudgery, at least from her point of view, is by effective use of messaging software, particularly when enhanced by artificial intelligence. As the newly christened chief executive of Slack, the messaging app, you would expect ..."
-    publishedDateTime: 2023-05-29T01:56:00Z
-    webUrl: "https://www.bostonglobe.com/2023/05/28/business/slack-ceo-looks-artificial-intelligence-help-rolling-out-new-products/"
+  - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
+    excerpt: "Robots are on display at the International Conference on Robotics and Automation in London, where visitors can get a glimpse of the future"
+    publishedDateTime: 2023-05-30T17:43:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 33
+      name: ABC
+      domain: abcnews.go.com
+    quality: 74
     images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/H6cEjLAPixNOGRL6Vljt2IRzw-U=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/3K57X7CI4FD2VB3J3KQHDTJZTA.png"
-        width: 506
-        height: 601
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
+  - title: "Japan AI startup launches robot for home use"
+    excerpt: "A Japanese artificial intelligence startup has launched a robot for home use capable of delivering items in response to verbal comman"
+    publishedDateTime: 2023-05-27T03:00:00Z
+    webUrl: "https://mainichi.jp/english/articles/20230527/p2g/00m/0na/018000c"
+    type: article
+    provider:
+      name: 毎日新聞
+      domain: mainichi.jp
+    quality: 54
+    images:
+      - url: "https://cdn.mainichi.jp/vol1/2023/05/27/20230527p2g00m0na016000p/0c10.jpg?1"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Japan AI startup launches robot for home use"
+    excerpt: "A Japanese artificial intelligence startup has launched a robot for home use capable of delivering items in response to verbal commands, such as bringing dishes and condiments to the dining room table or books and drinks to the sofa."
+    publishedDateTime: 2023-05-28T21:35:00Z
+    webUrl: "https://japantoday.com/category/tech/japan-ai-startup-launches-robot-for-home-use"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 34
 
-secured: "Ux1QDScWoZZeYeGCAC4YmuEl7z3+zEzKKxqrEAPvdFp0Ovn+7aXRK6s2WHbMHY4pbjj+18uyxWdeFGXao/Gbe7cmpVw6/E5TjPh0ch5jTY9ZWZYkkiP/rVyk3uA50iLeUMQtXc2gA2KS5jx4khXQzEZodwJ9fy4Kfpw67ilXpBb6xsSF/56dfg2yfjD539DDIyfjbKQRbnHYyBdStn9xP0Zpea/t+uPkkoai541AnnfvbLuqnARzZy+h+OTZNbCxFLpo9yPftxD9cHdzwgfB/9Dl5hlx5ADNapfUS9SOCoIKnjyclRiAR6FT6j+8sa9sgLp3RuEcsYQ5yVDA0u3JVfkOob8izVsOBPE4hDR/amk=;hLUG+fRPXrEfgbgxu6DDxw=="
+secured: "+hDlBQ5Ii4zDm3PMa7tosKTS6qf2xBlegxv6L1+9cRRVtNCmdZoO1dC19jCpD/jK7yd/5M09hxQk25Pm/s4Oc7LufAT40jzEF0+vrb4NUy3ru8Q1AgInZO1g8bcQ42tjlgsh499AgAnepdeGge9sZg7nT8O3UO6vfxady9SQQfO6Gt68AWLeZuYBOz+IG+kMxcQUYRkaW60IHwms8ded4imnaJl5dp/8DTiWa6W/tb9gulcBtraz738RYR4i6L1WRfjHIEIfX6jftz4p5bKYeWZXYb+pkYsOJxdUvWxauvrIYnR5q1RmdcqAdKu7EeGthvXrCkF5FEYPbxDTS+y1Y3tqyrH84+gB89H2abbjnsHWg9HG9VIf1Us8QiEvNReQ5eUUn7ZMd2gSa0YSQHreY+vRucOhl3wkBi596g4Vthe1YRln9oR3RNougW6rxDnEx9mrLV7Xg47f7cHp9Gk1+T2DGliJScuTHYgdMt0AxjGceyLgvmeg/yPSqrs2uY6/5Jr84bvIVxreMZr3pahQmA==;wBJ/8nJ9FMQG+xpOPdsMRQ=="
 ---
 

@@ -209,6 +209,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Artificial intelligence threatens extinction, experts say in new warning"
+    excerpt: "The CEO of ChatGPT maker OpenAI and Geoffrey Hinton, a computer scientist known as the godfather of artificial intelligence, were among the hundreds who signed the statement."
+    publishedDateTime: 2023-05-30T18:53:00Z
+    webUrl: "https://www.fox8live.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/"
+    ampWebUrl: "https://www.fox8live.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/?outputType=amp"
+    cdnAmpWebUrl: "https://www-fox8live-com.cdn.ampproject.org/c/s/www.fox8live.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/?outputType=amp"
+    type: article
+    provider:
+      name: WVUE FOX 8 News
+      domain: fox8live.com
+    quality: 58
+    images:
+      - url: "https://gray-wvue-prod.cdn.arcpublishing.com/resizer/GzKbb6yaD2Vecv4bQ9EEyEXiiuQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/NY3WZ3IREJFNVI5ETARLFTIIIQ.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "EU officials to meet OpenAI CEO again in June over AI laws"
     excerpt: "The meeting, which is most likely to take place in San Francisco, will see the two parties discuss how OpenAI will implement the EU’s AI regulations that will come into effect in 2026."
     publishedDateTime: 2023-05-31T03:48:00Z
@@ -372,34 +388,6 @@ related:
         width: 1200
         height: 592
         isCached: true
-  - title: "AI pioneers claim AI could bring about the extinction of humanity"
-    excerpt: "The Centre for AI Safety has published a statement that emphasises the need for implementing appropriate AI risk-reducing controls."
-    publishedDateTime: 2023-05-31T07:51:00Z
-    webUrl: "https://www.ibtimes.co.uk/ai-pioneers-claim-ai-could-bring-about-extinction-humanity-1716236"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 39
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1715771/artificial-intelligence.png"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Artificial intelligence threatens extinction, experts say in new warning"
-    excerpt: "Scientists and tech industry leaders have issued a new warning about the perils that artificial intelligence poses to humankind"
-    publishedDateTime: 2023-05-30T13:34:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692490"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 36
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_54ea8aadc60d1503e5a65878219aad43_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Eminent AI experts and corporate heads caution about the probability of ‘extinction risk’"
     excerpt: "Renowned figures in the technology industry, including the leaders of OpenAI and Google Deepmind, have issued a warning about the potential dangers associated"
     publishedDateTime: 2023-05-30T14:37:00Z
@@ -446,15 +434,15 @@ related:
       name: unite
       domain: unite.ai
     quality: 19
-  - title: "Artificial intelligence threatens extinction, experts say in new warning"
-    excerpt: "The CEO of ChatGPT maker OpenAI and Geoffrey Hinton, a computer scientist known as the godfather of artificial intelligence, were among the hundreds who signed the statement."
-    publishedDateTime: 2023-05-30T18:53:00Z
-    webUrl: "https://www.knoe.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/"
+  - title: "AI poses ‘risk of extinction’ warn industry leaders"
+    excerpt: "AI could pose an existential threat to humanity, artificial intelligence luminaries have warned, in an extraordinary one-sentence open letter, urging that it be treated with the same level of urgency as pandemic and nuclear war."
+    publishedDateTime: 2023-05-31T11:47:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/ai-poses-risk-of-extinction-warn-industry-leaders/news-story/1fdc1030037dd60fb3813436e8538a9d"
     type: article
     provider:
-      name: KNOE
-      domain: knoe.com
-    quality: 18
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
   - title: "AI Industry Leaders Issue Stark Warning on ‘Risk of Extinction’"
     excerpt: "More than 350 top researchers and executives signed a dire one-sentence statement on the dangers of unconstrained artificial intelligence."
     publishedDateTime: 2023-05-30T11:20:00Z
@@ -473,6 +461,15 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 17
+  - title: "Artificial intelligence threatens extinction, experts say in new warning"
+    excerpt: "Sam Altman, CEO of ChatGPT maker OpenAI, and Geoffrey Hinton, a computer scientist known as the godfather of artificial intelligence, were among the hundreds of leading figures who signed the statement,"
+    publishedDateTime: 2023-05-30T14:04:00Z
+    webUrl: "https://www.chron.com/news/world/article/artificial-intelligence-threatens-extinction-18125404.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 16
 
 secured: "/ddwV2YItTS9KdwqoPtktw7pz4up4hiCT6U93vizNlazQcfKC7JIf2Etw+J4SlN9cKrzKZkJ9SKJhHjPTIT/TvfJTNlHzppWliP47Oc/vEoA9ZMHT079R7T9Ex/CHp41qRheh7WssdbVUeQMUYfRb8+lIG1dFOEfpuEjQNtgrYjol09t4gmxj6A0jkDWLVMNhsNZJpmATWKTKg+izs1MJ2yeUgCA9SKh2hv0TyVQPwn+wLlPAx/uX3YpHXqUTGtsBaaPXWdw7XobVMdinhBDtrlOtUEnnYiYbKjlMnhDBZ2xAgJYvyk542laMbxoHWY8b1UeFaJHI5HqaiD5savGjZZNBUNljSYBWRALvC+MViF+wTLi6DCW9nyPLtGsWbQJ+p6iJ6MxG3NeCH1jNnlK0AtaTfF1ODVZZTvT0A5cA8UhSl7iUrfKSmYpJ3x6kRTXJpIbGAzqbpAZTn6w8uY1gsJBklr/pUMAywlCeIYITJAWpMvjoOw9ID3zs1tMQ0Lo2SPyWUM+w6s8VNpnYKasHw==;90xcKKJk9LR5d5crrXYRcA=="
 ---

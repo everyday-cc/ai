@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bill_stone/2023/05/28/will-the-artifici
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bill_stone/2023/05/28/will-the-artificial-intelligence-mania-sink-stocks/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
     excerpt: "This has lead investors to start looking for the top AI-driven pharma stocks. The intersection of data science and machine learning makes research and development fundamentally different than it was previously. Molecule discovery will be much faster than ..."
     publishedDateTime: 2023-05-26T19:31:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/3-pharma-stocks-that-will-boom-thanks-to-ai-1032355093"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "3 Tech Stocks With the Best AI Language Models"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The stocks on the list are prominent tech stocks with cutting-edge"
-    publishedDateTime: 2023-05-26T18:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-tech-stocks-with-the-best-ai-language-models-1032355073"
     type: article
     provider:
       name: Business Insider

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/chatgpt-launched-six-months-ago-its-imp
 webUrl: "https://venturebeat.com/ai/chatgpt-launched-six-months-ago-its-impact-and-fallout-is-just-beginning-the-ai-beat/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT: Most Americans Know About It, But Few Actually Use the AI Chatbot"
-    excerpt: "Though 58% of Americans are familiar with ChatGPT, just 14% have actually tried it, a Pew Research Center survey finds."
-    publishedDateTime: 2023-05-27T14:10:00Z
-    webUrl: "https://www.pcmag.com/news/few-americans-have-actually-tried-chatgpt-despite-most-knowing-about-it"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 45
   - title: "Should artificial intelligence be regulated by a U.S. or global body? The head of ChatGPT thinks so"
     excerpt: "OpenAI CEO Sam Altman speaks before a Senate judiciary subcommittee on privacy, technology and the law hearing on artificial intelligence on Capitol Hill on Tuesday. (Patrick Semansky/The ..."
     publishedDateTime: 2023-05-30T16:49:00Z

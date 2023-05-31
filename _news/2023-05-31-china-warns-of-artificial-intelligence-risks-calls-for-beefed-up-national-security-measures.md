@@ -1,31 +1,24 @@
 ---
 category: news
 title: "China warns of artificial intelligence risks, calls for beefed-up national security measures"
-excerpt: "China’s ruling Communist Party has warned of the risks posed by advances in artificial intelligence while calling for heightened national security measures. A meeting headed by"
-publishedDateTime: 2023-05-31T07:21:00Z
-originalUrl: "https://thehill.com/homenews/ap/ap-technology/ap-china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/"
-webUrl: "https://thehill.com/homenews/ap/ap-technology/ap-china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/"
-ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ap-china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/amp/"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ap-china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/amp/"
+excerpt: "China's ruling Communist Party is calling for beefed-up national security measures, highlighting risks from artificial intelligence."
+publishedDateTime: 2023-05-31T05:21:00Z
+originalUrl: "https://www.seattletimes.com/business/china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/"
+webUrl: "https://www.seattletimes.com/business/china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/"
+ampWebUrl: "https://www.seattletimes.com/business/china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/?amp=1"
 type: article
-quality: 65
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
-  - Facebook AI
   - AI
   - AI in Security
-
-images:
-  - url: "https://thehill.com/wp-content/uploads/sites/2/2023/05/647705c757cbc6.34467087.jpeg?w=1280"
-    width: 1280
-    height: 853
-    isCached: true
 
 related:
   - title: "Chinese Leader Xi Jinping Warns of AI Risks to National Security"
@@ -68,6 +61,6 @@ related:
       domain: chron.com
     quality: 17
 
-secured: "X84xVnStDH650c4LFAyofJjax2nXrANtJ1wtGbJcCqRRqyBxuDmmkmHk91R75oGeaARdMmte3u2M86FLv1V5LvY+iF0UP+m4pWCG/ZO8G9IX1o0qfWdnAgLvrU3YeT5RlF5iY6EDBGsuka+/ikt6akneacM1XyElMUmVFaM5pPp8XxJBqcZHvG3fihoLQ1zWlZFkDyRlokne5mwN41irrSNMXgReyVTFr/0taNJYDKaaCggMdWsLJQZgDh6lhQPdKkObW/OU55bU24d9Yu24E+bJNXoLq6PMlCfIyCjozISBDnYaYWpQRe17Ciuwk+PwXnJuCHoO/LZcQY13rqkawBVXpFzouMgqS45QFzXXPCc=;JLBdCHMpBU1Tglv1MDRNMQ=="
+secured: "7LXgpOEqp8yWQhgOUWo8GDyFkaLOLOuCQZ3ysUdWm322mbwu+8UXMZkTLXytP/MLUBUI3cyJcyokYpNqyy72yrHzhAd3sFJHtu5oRBorvrVHrpCV4N/3PMgULn3mWqSFpAixwoJMy3fhA6MATcsOor45GPyPfxUs79Wz1a8W4SvT62WGj3a4vlKnOng7SJPFiq1ZiCrBEk0OmKUIKs7AV+aomZ4WrrWo9Bo1huOqJF7Kvh5Dc8mydJFIqdywmLAgHknzEDE1KQGVgqoiZLindx82q8fLwPzKMT1yA3Uw6l8bZc/9DyyF/XJRZpioDr0izfgsbmnpv+9ANHSfTWNwGUb/Dlg3jwF7zicZTcUX2PUNOl9cSyFvCoDV0SmC+wMD6BJy7XI3ZUmNVRF/RZyizmPY8Ct7CORR7ncrv8aO1dUS5qe7S3o8KttvzuXOt7U8X5RfLofKuWi/kfpavppTUPTERTEpMsa6v9sxYuWsZKK9K25AenOwOLkhfen/s4mzuONp7YI7ruUK6pHyWlfKPg==;tfwtbfpfFldIYN6nE8hT1g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-th
 cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-the-crowd-at-tech-show/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1024
     height: 683
     isCached: true
-
-related:
-  - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
-    excerpt: "Robots are on display at the International Conference on Robotics and Automation in London, where visitors can get a glimpse of the future"
-    publishedDateTime: 2023-05-30T17:43:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 74
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
 
 secured: "bxGyyHAFvY9vFq097B/krDjSVWRPLL6b8kA1rYqxpxJg7Hb8NvoiH7k4luz+o3g4weOU7vhJ5JWZfwRmvy5KTZ05lhlQXL10yLqaGtN7T1PgqOW/PZvEM2rg5cGXM0ADX4o0Gp4n/O+1HyqI4dcUh2dVCXyu7ClQbcnriUhXoM77SeDcqgavYpun8y3UEJ+DYPe2Q9jDfK1Y7w+rP9q/Fuyog/x5hQZfC1/BcMFspFSHQ5cWHIZOxN9WJSVdghrQCRGkR/VA4BzJsu/Rnv8wFNFU7w+K0/iT/lNkHG4/f5NkSnRv2r9VcOu2JZq6d4hsAkiGUxAq+noEqLyt0bL2+MpDNAkz4dzBIWSStZqhlBXYEL38r5sf5uljA5IW3EMaGRUJUM9Xir+aClB6py6/29cRqGgz3259GMWqCq1R3R2ur3FkA0+fMWJIPEdeTbf5aBAwoBkC8aeVldhOlnvU2Leujn8pKeUKOZvjleyUqmTCEqwrw4MtX9E6YZiJRXi5ZILuB8TtEJjPcIK5l3iNUg==;cIqbsoRJH4lTdPKO3ZzoKg=="
 ---

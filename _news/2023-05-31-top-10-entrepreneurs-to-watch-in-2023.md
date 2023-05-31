@@ -33,6 +33,22 @@ related:
         width: 600
         height: 399
         isCached: true
+  - title: "Baidu to invest $145M on AI start-ups"
+    excerpt: "Chinese internet giant Baidu was tipped to set aside CNY1 billion ($145 million) to fund home-grown AI developers."
+    publishedDateTime: 2023-05-31T10:51:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/baidu-to-invest-145m-on-ai-start-ups/"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/baidu-to-invest-145m-on-ai-start-ups/amp/"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/baidu-to-invest-145m-on-ai-start-ups/amp/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 57
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2023/05/MWL_Baidu_HQ_New_650.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Italy plans state-backed fund to promote AI startups"
     excerpt: "Italy's government plans to set up an investment fund backed by state lender Cassa Depositi e Prestiti (CDP) to promote startups investing in Artificial Intelligence (AI), cabinet undersecretary Alessio Butti said on Tuesday."
     publishedDateTime: 2023-05-30T11:23:00Z

@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Red-hot stock: $1 trillion club now includes chip maker Nvidia"
+    excerpt: "Nvidia has joined the exclusive club of companies with a $1 trillion market capitalization as the chipmaker benefits from the growing use of artificial intelligence."
+    publishedDateTime: 2023-05-31T10:17:00Z
+    webUrl: "https://wraltechwire.com/2023/05/31/red-hot-stock-1-trillion-club-now-includes-chip-maker-nvidia/"
+    ampWebUrl: "https://wraltechwire.com/2023/05/31/red-hot-stock-1-trillion-club-now-includes-chip-maker-nvidia/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/31/red-hot-stock-1-trillion-club-now-includes-chip-maker-nvidia/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 59
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2021/03/processor-540254_1280-e1616494859780.jpg"
+        width: 1270
+        height: 713
+        isCached: true
 
 secured: "6b29VtntIHiM0LMTkLOjS97OTRfg8Ot8/7jiQmIg8eLsBCtpH4Kgr3RUSk2sa3rBubnFAfstvYZPN4SV1SBmYgBcbzOAHJXrzXMy5rieklzvlcwx6z5XpkBPjzLneJlfHZKnBXzI2jnMmacfXtbIUbWByTXZyUO/ET/9kvVX+i1bF85k2LzpzgiyVpGWGHWMSqQrjKslhFOEAMDmwL8Y9u65f8dY7tnmqknn1jZ0otff2+ALNYjY02Q0wPdTdcNbLx1+uCV/hUwYh4uIrzw5YdMtq+1Ljbg4M2ubYWLVEviLyXBmzO/zILRvnIngkHXn9khM4jVg8uXCaZqdbog7BAlWnK0OEwYCR24CYGSkcW8=;qqpQlCE4PRQN1tdON6RO7Q=="
 ---

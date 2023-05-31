@@ -25,89 +25,66 @@ images:
     isCached: true
 
 related:
-  - title: "How are Indian languages faring in the age of AI and language models?"
-    excerpt: "As large language models like ChatGPT find more applications around the world, their adoption also passively spreads a prejudice against languages other than English, including Indian languages. Some researchers are working to remedy this."
+  - title: "I Asked AI Chatbots to Help Me Shop. They All Failed"
+    excerpt: "I test products and write reviews for my job. So I asked ChatGPT, Bard, and Bing Chat to recommend headphones—and I saw exactly where the AI falls short."
+    publishedDateTime: 2023-05-31T11:01:00Z
+    webUrl: "https://www.wired.com/story/ai-product-recommendations/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/64768c549a01d944fee35eba/191:100/w_1280,c_limit/I-Asked-ChatGPT-to-Help-Me-Shop.-It-Failed-Gear-GettyImages-1337276171.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "ChatGPT: Most Americans Know About It, But Few Actually Use the AI Chatbot"
+    excerpt: "Though 58% of Americans are familiar with ChatGPT, just 14% have actually tried it, a Pew Research Center survey finds."
+    publishedDateTime: 2023-05-27T14:10:00Z
+    webUrl: "https://www.pcmag.com/news/few-americans-have-actually-tried-chatgpt-despite-most-knowing-about-it"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 45
+  - title: "Twitch Star Amouranth Wants Her AI Chatbot To Put Trolls In Their Place"
+    excerpt: "A successful businesswoman (who now reportedly owns a gas station) and OnlyFans creator, Amouranth can now add “tech tycoon who’s excited about AI’s future” to her resume. Kotaku caught up with Amouranth—who ensured us she wasn’t her AI counterpart—to discuss AI Amouranth,"
+    publishedDateTime: 2023-05-26T21:30:00Z
+    webUrl: "https://kotaku.com/twitch-streamer-amouranth-ai-chatbot-forever-companion-1850481108"
+    type: article
+    provider:
+      name: Kotaku
+      domain: kotaku.com
+    quality: 37
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c6e0b3c6e810a144a98d73d66654de7e.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Jim Warren: AI chatbots have been used to create hundreds of news websites"
+    excerpt: "Misinformation tracker NewsGuard has identified more than 125 websites, published in 10 languages, with news content written by AI tools"
     publishedDateTime: 2023-05-30T10:00:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece/amp/"
+    webUrl: "https://www.chicagotribune.com/opinion/commentary/ct-opinion-ai-fake-news-chatgpt-20230530-dlggdtqypngf7hk6pfsfzwyo64-story.html"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 37
     images:
-      - url: "https://th-i.thgim.com/public/sci-tech/science/12fdik/article66911414.ece/alternates/FREE_1200/aboodi-vesakaran-SOp7CS0-1MA-unsplash.jpg"
+      - url: "https://www.chicagotribune.com/resizer/sTCFwy1DXyc5qYFInLVJ5loZ9OY=/1200x630/filters:format(jpg):quality(70):focal(2293x1960:2303x1970)/cloudfront-us-east-1.images.arcpublishing.com/tronc/UPJDSXSRJIER3SHFXQ3B6AB7ZM.jpg"
         width: 1200
-        height: 867
+        height: 630
         isCached: true
-  - title: "What are large language models — and how are they used in generative AI?"
-    excerpt: "Large lanuage models are the algorithmic basis for chatbots like OpenAI's ChatGPT and Google's Bard, but the technology is tied back to billions -- even trillions -- of parameters that can make them both inaccurate and non-specific for vertical industry use."
-    publishedDateTime: 2023-05-30T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3697649/what-are-large-language-models-and-how-are-they-used-in-generative-ai.html"
-    ampWebUrl: "https://www.computerworld.com/article/3697649/what-are-large-language-models-and-how-are-they-used-in-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3697649/what-are-large-language-models-and-how-are-they-used-in-generative-ai.amp.html"
+  - title: "Talk to the bot? An AI chatbot may be your next therapist"
+    excerpt: "Pandemic stresses led to millions more Americans seeking mental health treatment, so it may prove tempting for insurers to offer up apps and chatbots to meet the mental health parity requirement."
+    publishedDateTime: 2023-05-29T15:39:00Z
+    webUrl: "https://www.benefitspro.com/2023/05/29/an-ai-chatbot-may-be-your-next-therapist-will-it-actually-help-your-mental-health/"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 58
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/05/llm-image-100941414-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Why learn languages in AI Age?"
-    excerpt: "AI might save students time, but it should not replace language learning. Instead, the technology could amplify learning, and it might also enhance our humanity. Language makes us unique from other animals."
-    publishedDateTime: 2023-05-27T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2023/05/28/2003800537"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 39
-    images:
-      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
-  - title: "Over half of China's large language models are open sourced: report"
-    excerpt: "China has 14 provincial-level regions that are currently working on the development of large language models LLMs among which mor"
-    publishedDateTime: 2023-05-29T11:31:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273846806/over-half-of-chinas-large-language-models-are-open-sourced-report"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Over half of China’s large language models are open sourced: report"
-    excerpt: "China has 14 provincial-level regions that are currently working on the development of large language models (LLMs), among which more than"
-    publishedDateTime: 2023-05-29T23:00:00Z
-    webUrl: "https://www.macaubusiness.com/over-half-of-chinas-large-language-models-are-open-sourced-report/"
-    type: article
-    provider:
-      name: Macau Business
-      domain: macaubusiness.com
-    quality: 24
-    images:
-      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/10/MB-Still-Pop-up-Banner-800x480px.jpg"
-        width: 800
-        height: 480
-        isCached: true
-  - title: "Here Are 30 New Jobs Language Industry CEOs Expect to Hire for in the AI Age"
-    excerpt: "As LLMs are put into production across the translation industry, CEOs will recruit for roles such as Prompt Engineers or Source Language AI Copy Editors."
-    publishedDateTime: 2023-05-31T09:00:00Z
-    webUrl: "https://slator.com/30-new-jobs-language-industry-ceos-expect-to-hire-ai-age/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 16
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 19
 
 secured: "P8BBKShXzGRy7qmeaJwAOkXazBDA/Yw34zcAEEZYEcxPGhKv5yAH+sWAFlcwaTSdd7vf9cnvEh5LrAtDu7PuIsgMstssLx38JvZDCgNhO5QvVtwMZDT8MKtQ53LCfEVX0cPJ94i6NffzXxnmCQA8whGyGT5h7UMgZ2cPOXmlMTgw335rA0o6nyVzo7Lw9CAYpjPFn+O6hiYXcuNrxzYrwh5DjRTGquNFXYwbIbihNrZ5ggfFpxzemy5uhRYVUIz/oiHRTWV9mpXxmBWuC6Nc/klnGNcCeXhoWfsk9QoMF1Awi7R308CVTDWC4p453Q3ejOa7YJ0keguNuumVjvDaGJ7J4ZoJq7C79ZeKpIWbTKGalUG3Q7Kbp+2kHpyfpgrOdyiFYER3QmTrjPMugHnrXW3OF4jm/w4RS85eQ4haWvewDPL3KzHCTpLXqtJQP5Yf920c68jBTAt/LZiZZVE+3JGdtE8u9TN3IEu0chG3G09geea+S6aFGcn6u6tJlSUhtHS0vEBNXFGLJuMhmr8ydA==;FbUj30KS6fRJ0K7lpencpQ=="
 ---

@@ -41,6 +41,34 @@ related:
         width: 400
         height: 205
         isCached: true
+  - title: "Why Nvidia, C3.ai, and Qualcomm Stocks Keep Going Up"
+    excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services."
+    publishedDateTime: 2023-05-30T15:53:00Z
+    webUrl: "https://www.fool.com/investing/2023/05/30/why-nvidia-c3ai-and-qualcomm-stocks-keep-going-up/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/734387/semiconductor-computer-chip-with-the-letters-ai-in-the-middle.jpg"
+        width: 2190
+        height: 1369
+        isCached: true
+  - title: "Nvidia to build Israel's most potent AI supercomputer"
+    excerpt: "Nvidia is investing hundreds of millions in building Israel's strongest AI supercomputer, Israel-1, promising breakthroughs in AI applications."
+    publishedDateTime: 2023-05-29T17:36:00Z
+    webUrl: "https://interestingengineering.com/innovation/nvidia-to-build-israels-most-potent-ai-supercomputer"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/29/image/jpeg/jEpzwifYF4BB69ZwTB9uBNJSgOcgWayWXzWHUEZr.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "2URrnV8yvvgvJjatRWMsit2U9LGk9z3LejcPESf051wfS1/1Kww8UFuCH6XcYYKQaaZZaG3IuBpYUROOQFqGR85ZswFtRjhkbLReQRjfqi+kd81l5qpA9ApsowyYeW6Hp3l1k4LzyobvCS1STNh/VSSa6YrtDoXW3x/YofSH4w9crn/P+yQaYctun/PffAtZaPRjVoSviXJ1VioZo5sQZ+sWpAh7ndtDcj0MzyEPMRXFA3orXAN65JbO8YoxpPn7oyAFuXa0aIPY+VUSQv1ui12/L08p0gkaiNwqrvGK19HQxMTv71AkX67mZ/hL6R2qzuFLOLGVljzZGohMX0vVqk086Rw9/qmPuJPG5DV0crHUK+0S9Ry6pngksyPCMyqzZZ/w9ok9MrSCMIvx/RdkD8jO9AzJaWGPnIXGPPPAGuOcTXsqhxkjkMDoC58JhIWKbRQbgdvZFhRSjUJqb8070wZxk64jCZycurliacGh0zfs+ZUEfBMXF5EeKKL4VF51pKIXLOVhOVXChMVidg4rqA==;h1gmmrY94rfVkLnk90NkOw=="
 ---

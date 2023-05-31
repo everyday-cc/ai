@@ -38,20 +38,6 @@ related:
         width: 624
         height: 351
         isCached: true
-  - title: "Generative AI: How it Works, History, and Pros and Cons"
-    excerpt: "Generative AI is used in everything from creative to academic writing and translation; composing ... in which prompts can be given and interactions can take place in plain language. Here are some of the most popular recent examples of generative AI ..."
-    publishedDateTime: 2023-05-26T18:17:00Z
-    webUrl: "https://www.investopedia.com/generative-ai-7497939"
-    type: article
-    provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 41
-    images:
-      - url: "https://www.investopedia.com/thmb/evqH4CUzBFrebOwRlM2CANNWBz8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chatgpt-588fc25767134c248543d3de511ed5ea.jpg"
-        width: 1500
-        height: 1002
-        isCached: true
   - title: "AI Can Transform Banking For The Better"
     excerpt: "Artificial intelligence has matured and is disrupting financial services. It can enhance customer service, reduce costs and curb fraud – but only wit"
     publishedDateTime: 2023-05-28T18:35:00Z

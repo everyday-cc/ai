@@ -36,6 +36,22 @@ related:
         width: 600
         height: 399
         isCached: true
+  - title: "Baidu to invest $145M on AI start-ups"
+    excerpt: "Chinese internet giant Baidu was tipped to set aside CNY1 billion ($145 million) to fund home-grown AI developers."
+    publishedDateTime: 2023-05-31T10:51:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/baidu-to-invest-145m-on-ai-start-ups/"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/baidu-to-invest-145m-on-ai-start-ups/amp/"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/baidu-to-invest-145m-on-ai-start-ups/amp/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 57
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2023/05/MWL_Baidu_HQ_New_650.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Top 10 Entrepreneurs to Watch in 2023"
     excerpt: "Watch out, 2023 — the following groundbreaking entrepreneurs are coming for you! From serial entrepreneurship and investing to trauma-informed therapy and women’s rights, their specialties span a wide range of industries,"
     publishedDateTime: 2023-05-30T20:44:00Z

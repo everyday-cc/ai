@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/30/google-deepmind-introduces-barkour
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/30/google-deepmind-introduces-barkour-a-benchmark-for-quadrupedal-robots/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 768
         height: 334
         isCached: true
-  - title: "Google Search of today won’t exist in 10 years, says DeepMind co-founder"
-    excerpt: "Will 'old-school search' be gone in 10 years, thanks to ChatGPT, the new Bing and Google's new Search Generative Experience?"
-    publishedDateTime: 2023-05-26T18:59:00Z
-    webUrl: "https://searchengineland.com/google-search-of-today-wont-exist-in-10-years-says-deepmind-co-founder-427647"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 18
 
 secured: "jKGU9q8/1/IZg393stiSE/YGP/+RT4RAHMriJj9B6jlsvM8TPMkhu7ikQ6T3IPpSak02BeGRNt6kiJTcHlv8mpkEcxl7SH9iVw12HTgk6t3zkzwt4n0Y3fuZ5avCJQuTdzRO3E2pfCaoXjaTXSux5tQEYsrFB5a80NVVrgIvgyWp893nURf09kRtnIpoSonXl+kYBUXnkBFtr9nWVqfEh2j6k2YCAUZUTCwQM3YpimuxjhE7TAEA2AV7RBQtN0cieWckM5QNbAdFPgqAQxuPHI2cLVbCdU0eMO7jeu/q7E6wRJJJm3Yv4VdRoIwtZuZAQufbtViuDrAJdNTu6onWZLsBxN/q4XnSZg4Ixm9WWW9ir1sdkpyeWM2Jco1jU42nynXBOdQ4kjfwsfBN5GIg+tY/zVFi81OgqIDhC9qq5M+ZwkdQiFV3Gz2g8w5WpfZBx9FlYgIP98Ou4ur2Lk388VsytKJNudhpo7pMqCOjUtbn5RNtBlXTArwFeADkE+xmMnqtcnwhtwx1IkJvSOmgGQ==;HDxsZ/8S/joYDqcSjA3ppg=="
 ---

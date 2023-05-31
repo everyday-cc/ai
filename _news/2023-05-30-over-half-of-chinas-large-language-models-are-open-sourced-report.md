@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Rise of Large Language Models: Revolutionizing AI Chatbots"
-    excerpt: "The field of artificial intelligence (AI) has advanced significantly in recent years thanks to improvements in machine learning and natural language processing. The advent of large language models (LLMs) is one such invention that has captivated the world."
-    publishedDateTime: 2023-05-26T19:19:00Z
-    webUrl: "https://techstory.in/llms-and-ai-chatbots/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/05/buying-your-first-investment-property-top-10-tips.asp-ADD-Color-074cf6b2f8434f4fbc8d94edeb361cd6-360x240.jpg"
-        width: 360
-        height: 240
-        isCached: true
   - title: "Why learn languages in AI Age?"
     excerpt: "AI might save students time, but it should not replace language learning. Instead, the technology could amplify learning, and it might also enhance our humanity. Language makes us unique from other animals."
     publishedDateTime: 2023-05-27T16:00:00Z

@@ -56,7 +56,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6476f9bd5141e2d7f0a62ddd/0x0.jpg?format=jpg&width=1200"
         width: 1200
@@ -89,6 +89,22 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2FUntitled-design-6-1.jpg&signature=5a484168b068ec4ec7870faeb2d42768"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Forget the ChatGPT newcomer — AI is already helping to power global supply chains"
+    excerpt: "ChatGPT may be the hot topic but AI has been embedded in enterprise technology for much longer. Samsara's Adam Warren digs into the value of AI in the logistics industry."
+    publishedDateTime: 2023-05-31T09:57:00Z
+    webUrl: "https://diginomica.com/forget-chatgpt-newcomer-ai-already-helping-power-global-supply-chains"
+    ampWebUrl: "https://diginomica.com/forget-chatgpt-newcomer-ai-already-helping-power-global-supply-chains?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/forget-chatgpt-newcomer-ai-already-helping-power-global-supply-chains?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 54
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-05/Shutterstock_2281213913.png"
+        width: 740
+        height: 450
         isCached: true
   - title: "Lawyers Getting Tripped Up By Generative AI Such As ChatGPT But Who Really Is To Blame, Asks AI Ethics And AI Law"
     excerpt: "A recent legal case has seemingly gotten entangled in the use of generative AI by lawyers for one side that have landed in hot water. Lessons for everyone arise."

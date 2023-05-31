@@ -27,75 +27,66 @@ images:
     isCached: true
 
 related:
-  - title: "How generative AI can revolutionize customization and user empowerment"
-    excerpt: "It's time to look beyond using generative AI tools for simple outputs and focus on computing capabilities for users and large enterprises."
-    publishedDateTime: 2023-05-28T23:10:00Z
-    webUrl: "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/"
+  - title: "The Ethics Of Communication Between AI And Humans"
+    excerpt: "AI has taken the world by storm. With the rise of ChatGPT, Bard and autonomous cars, we are changing how we work, live and even comprehend life. With this rise comes worrying concerns around the ethics of communication between AI and humans. Consequently ..."
+    publishedDateTime: 2023-05-31T11:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 500
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63ff5b3599f2634f6eaa9372/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Vectara aims to ground generative AI conversational search without hallucinations"
-    excerpt: "AI powered conversational search platform Vectara has new capabilities aiming to improve generative AI for business data."
-    publishedDateTime: 2023-05-30T22:48:00Z
-    webUrl: "https://venturebeat.com/ai/vectara-aims-to-ground-generative-ai-conversational-search-without-hallucinations/"
+  - title: "Very human questions about artificial intelligence"
+    excerpt: "AI experts tell us we live in unpredictable times. They have no answers and since ordinary people like us don’t even know the right questions to ask, EL PAÍS went to the Institute for Futures Studies"
+    publishedDateTime: 2023-05-29T16:37:00Z
+    webUrl: "https://english.elpais.com/science-tech/2023-05-29/very-human-questions-about-artificial-intelligence.html"
+    ampWebUrl: "https://english.elpais.com/science-tech/2023-05-29/very-human-questions-about-artificial-intelligence.html?outputType=amp"
+    cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2023-05-29/very-human-questions-about-artificial-intelligence.html?outputType=amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
+      name: El País in English
+      domain: elpais.com
+    quality: 61
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/image1-8.png?w=1200&strip=all"
-        width: 1045
-        height: 598
+      - url: "https://images.english.elpais.com/resizer/Ntx0a4c4BRcOFgMTcWKUrceHgD4=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/BMLFUW7I6BGSDGI3WSLCCMOLSE.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "JazzUp AI Revolutionizes Multiple Industries with Customized Artificial Intelligence Solutions"
-    excerpt: "In a remarkable stride towards empowering industries through artificial intelligence (AI), JazzUp AI today unveiled its comprehensive suite of AI solutions. JazzUp AI's innovative productivity solutio"
-    publishedDateTime: 2023-05-31T01:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/ab32640180/jazzup-ai-revolutionizes-multiple-industries-with-customized-artificial-intelligence-solutions"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32640180"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32640180"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 60
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Arm unveils TCS23, driving immersive experiences and new-generation AI applications"
-    excerpt: "Arm held a new product launch event at COMPUTEX 2023, unveiling the \"2023 Total Compute Solution\" (TCS23). Chris Bergey, Senior Vice President and General Manager of Arm's Client Line of Business, stated that TCS23 includes the new Arm Immortalis GPU based on the Arm fifth-generation GPU architecture,"
-    publishedDateTime: 2023-05-29T06:43:00Z
-    webUrl: "https://www.digitimes.com/news/a20230529PD207/arm-computex-2023-ic-design-distribution.html"
+  - title: "AI becomes the not-so-secret weapon behind new rounds of chip competition"
+    excerpt: "News about significant improvements in yields and capacity on Samsung's 4nm process and the subsequent win in getting orders from AMD and Google raised some eyebrows among its competitors. How did Samsung make such a huge leap in such a short time?"
+    publishedDateTime: 2023-05-29T02:56:00Z
+    webUrl: "https://www.digitimes.com/news/a20230523VL204/ai-commentary-and-analysis-ic-design-distribution-ic-manufacturing.html"
     type: article
     provider:
       name: Digi Times
       domain: digitimes.com
-    quality: 33
+    quality: 53
     images:
-      - url: "https://img.digitimes.com/newsshow/20230529pd207_files/2_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://img.digitimes.com/newsshow/20230523vl204_files/1_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Empowering the future generation: The advantages of educating students in the new age era of AI"
-    excerpt: "Artificial intelligence (AI) has become a revolutionary force in the quickly changing world of technology, altering various sectors and our daily lives. As AI develops, it is more crucial than ever to get the"
-    publishedDateTime: 2023-05-27T09:53:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
+  - title: "AI pioneers claim AI could bring about the extinction of humanity"
+    excerpt: "The Centre for AI Safety has published a statement that emphasises the need for implementing appropriate AI risk-reducing controls."
+    publishedDateTime: 2023-05-31T07:51:00Z
+    webUrl: "https://www.ibtimes.co.uk/ai-pioneers-claim-ai-could-bring-about-extinction-humanity-1716236"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 27
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 39
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1715771/artificial-intelligence.png"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "XsFhbgapk8Nwb0jmrDPfRsjW1bQ3FgTvuj26uq16wXiHakPdtLyaMmOsLxONRzIctvz9naGtspbNb518twyr5U9YE4TD/YBiSvXgIYlI1QSsBFYzyAukmxBuFXUkztLvTgbj3u6TuSFR+vt4aAmdI+vm4WC/w7lq4G3/EaySSTk+iqaS8Gjay8gtisuDTh2X6hvJoktu/8QT2owyzsvTBFf13VkfCclzFvX4pjRiQt9PB25ilKyICw6ZPawylTzU1JjlSr17FPM5uyEBRHe/Lnw9b2GtJ2LuXHb76OEveujBvKAX3jy4A1GdZUL2gq7ZNhYI/lMInW48Y2ZH7aV3hwUQmKTi2wfxbkDJCzUcpdkiQ+nwke0YDdGlk5yXzwDwgQ1A49i3IPuYVMGuxwC0Ys/0cZL8lx/NRQML0gcbE2QLJZR96pY0oUqJFSWyzlMiWW9Nxi7JlnfOYRpFbJyY7DNDXpiZzPFZdbYnZNdhBXfcVdezAPu/UAqagSqJNanZ/bqL3eoc8QhgiP33mI6jvQ==;a5SxQnpmZxEItIKvP7Cm+g=="
 ---

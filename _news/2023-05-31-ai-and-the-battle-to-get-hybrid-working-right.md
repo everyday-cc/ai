@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rogertrapp/2023/05/30/ai-and-the-battle
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogertrapp/2023/05/30/ai-and-the-battle-to-get-hybrid-working-right/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "Unlocking the power of AI"
+    excerpt: "Navigating the impact of AI was the topic under discussion at First Technology’s recent hybrid Microsoft event, held both virtually and in-person at The Leonardo in Sandton, Johannesburg."
+    publishedDateTime: 2023-05-31T10:57:00Z
+    webUrl: "https://mybroadband.co.za/news/industrynews/494061-unlocking-the-power-of-ai.html"
+    ampWebUrl: "https://mybroadband.co.za/news/industrynews/494061-unlocking-the-power-of-ai.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/494061-unlocking-the-power-of-ai.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 39
   - title: "Averting the AI apocalypse"
     excerpt: "On the shoulders of this automated labor force, super wealthy AI entrepreneurs and companies will rise to form the most powerful elites to ever lord over humanity. Meanwhile, governments risk collapse from sharply diminished tax bases compounded by their own elected leader’s acute technological incompetence — an AI apocalypse."
     publishedDateTime: 2023-05-26T21:58:00Z

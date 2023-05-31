@@ -53,6 +53,15 @@ related:
       name: NorthJersey.com
       domain: northjersey.com
     quality: 17
+  - title: "Clalit Health Services plans to use Artificial Intelligence and Machine Learning to further enhance patient care"
+    excerpt: "Cloudera, the hybrid data company, today announced its collaboration with Clalit Health Services, the largest of Israel's four state-mandated health service organizations. The health service provider is set to harness the Cloudera Data Platform (CDP) to provide high-quality,"
+    publishedDateTime: 2023-05-31T10:18:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/31/9823225.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "LN9k6NgIABH61LJZENxQdFAKRHRkPirx+ZV/lIRKOZWzJwx1RKuJw8Dkdlyfd5aVMgsx9Q6eEx4FureqopC3imMlAcYj7t7EHyclyVK9R1FNA4c0l+IrBxRm0it5vZYtQAnl1oxeuutMsTNyNzNiGCunSqYgYct+HKWZjW7logsmD5HHA8CCJUKcmzX93DaYdfo8+clA5dGKjYMnV0tmi8oLukIHdzShtRi5D+OZoF8u4f3sWjxIeEzomdQQ0S2BLFFw+Qfhvyv+2CvWvxBaby9I21ddH8lHslJAD7dSbDB0JLOunVOnRvog2Y+Z4v/XTneocMmSUe4UP3x9bM7ser/3m/VX45LI1k15L84Wudh4NhazhDXTR7ijYGm4y1YfzpxlDDM56BKRaNEHlj40S7B7/gBLtKLPNC3jka65CLPte5m6LZYxF6SrzvqSxYLpgfBQKxg7itMFX9Xy4hSYwSXcaWIQavNKcxvOKFsa8KBeBvOeKZz9p/AlUoo9qx9E1P1mce7TL69LZxfKAxrNDQ==;4RFgFxRs2jGI7wB9Zhmcig=="
 ---

@@ -52,6 +52,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 19
+  - title: "Clalit Health Services plans to use Artificial Intelligence and Machine Learning to further enhance patient care"
+    excerpt: "Cloudera, the hybrid data company, today announced its collaboration with Clalit Health Services, the largest of Israel's four state-mandated health service organizations. The health service provider is set to harness the Cloudera Data Platform (CDP) to provide high-quality,"
+    publishedDateTime: 2023-05-31T10:18:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/31/9823225.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "hUeqBMlamM9GcF0emEqeQm/F8MX8Tic+MY2dFZosmg47vrO3EmhF/fxF18fpWYCsf1oLyZVT1ci7tHZ0KkglEjnhghT4eiARsont1LfQ5ZyZtEbxcT2pLqpr8v4KXuXhQ842e2lgeDKhP+phvcqJpD+y/u8I0ZhMimAcoSZZ/UxMDf6x7bvMa3xYwTxtDozf1ttOn7Tu1rIFqXGTZDhHFouzhfg3bT5a+pQHeBIcu7lXP83ZNPSo60GtB5V40QX5vdPNx7G81LrX8uDwgFOTrKaAm3dBQq9vSfQQYMwYSTFSNgB7GiQZHTa1jy4Me3DUYpYQs3fShnfuYcQkq7Yi0z9NpOhwW53t/xCbCeFdUJiY5sFJkZqwjSRLETF04uWHmHpokDwyAfT1Hc1WOW82Z5i03dvF+9wiLFEUMkOiaet14o55DUEoIli969CGxnakt22GUQaUzmuPN18qYwZ52lfbdxHaw/7j467QUyJGd2zspZZvLCI3Xlb9MhBw/V7Ur3wzuB9M3mDD9L7oCmu5sQ==;5snYCIKeiduDtC5PyqWsyA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://highschool.latimes.com/fountain-valley-high-school/opinion-s
 cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: Investing in artificial intelligence: The good, the bad and the ugly of AI"
-    excerpt: "Crazy but true: If you want to take a high-risk gamble on a boom in “artificial intelligence” stocks, there’s an exchange-traded fund for that. The Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 2X Shares UBOT, +3.00% is a ..."
-    publishedDateTime: 2023-05-26T17:30:00Z
-    webUrl: "https://www.marketwatch.com/story/investing-in-artificial-intelligence-the-good-the-bad-and-the-ugly-of-ai-6a38ea00"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
   - title: "Opinion: Why Alphabet is a better bet than Meta Platforms if you’re investing in AI"
     excerpt: "Then, way back in 2014, it acquired an AI startup named DeepMind — with a string of other acquisitions in between. In other words, if you want a company that has been thinking seriously about AI for years rather than playing with cartoonish avatars and ..."
     publishedDateTime: 2023-05-30T18:53:00Z

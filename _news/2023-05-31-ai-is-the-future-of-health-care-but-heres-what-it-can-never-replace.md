@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/opinion/ai-future-health-care-heres-what-can
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/ai-future-health-care-heres-what-can-never-replace.amp"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
       name: NorthJersey.com
       domain: northjersey.com
     quality: 17
+  - title: "Clalit Health Services plans to use Artificial Intelligence and Machine Learning to further enhance patient care"
+    excerpt: "Cloudera, the hybrid data company, today announced its collaboration with Clalit Health Services, the largest of Israel's four state-mandated health service organizations. The health service provider is set to harness the Cloudera Data Platform (CDP) to provide high-quality,"
+    publishedDateTime: 2023-05-31T10:18:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/31/9823225.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "1xnJn5Gzi7rdDPiJoueZgK3F+2g8yt8OgcrW1FqCgo3zNSVOJt4zjS/D5u+RSqN1mKKZK5VdaNaVw9f6f0VnfGJEmoFVGWe1oVcEfF1YZ81t17bFqHTgIeueBlhgdh2w6GSPTeAfQxWXGYrOZWWNJrNFqpw6iXcPRmD0+KQs6HfoCajRqcpWYVNCZVSWVMkSc5+oHr2ugz02fNRdTqaE0zUMgwUCwckk+QxIkRWCqzhVpIJQuV+sw5NsPOAEqkI/ccm1gYc0nsl0yKqaLXmkVIpTb/muIMXEtzOkSDaItoK4fGqOBZXWP/JtqbZ7dUB4g5yCeJ3xM5D7xnZgiBhpRSMguKYlwiegjBbgOtkZn4TPBEO1cExGc6uATuz3lRFyPeUWnLxDbTVz7p0W+pfFSRYM0PkIzE9iBNp9FgMmVx81PBckLBHG6qsANnd86NcYeQ4Lo4ZKz3gbJ17rG0JkZLY5rcMQC1P0V6AIhEtuRgiVpspFQHrE5qdLj46+eRngQj2zCvYxyE7Thr7RDsgJmw==;MEcYYGwkeHzVfATYs7EkNQ=="
 ---
