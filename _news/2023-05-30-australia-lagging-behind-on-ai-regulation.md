@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Dreaming of a brighter future, Voice advocates call for Australia’s healing"
+    excerpt: "Linda Burney has told an audience in Canberra the story of Australia is incomplete, starting with what the constitution does not acknowledge."
+    publishedDateTime: 2023-05-31T00:21:00Z
+    webUrl: "https://www.themandarin.com.au/221588-dreaming-of-a-brighter-future-voice-advocates-call-for-australias-healing/"
+    type: article
+    provider:
+      name: The Mandarin
+      domain: themandarin.com.au
+    quality: 22
+    images:
+      - url: "https://www.themandarin.com.au/wp-content/uploads/2023/05/Alicia-Payne.png"
+        width: 1590
+        height: 1060
+        isCached: true
   - title: "Far from undermining democracy, The Voice will pluralise and enrich Australia’s democratic conversation"
     excerpt: "We need a richer account of democracy within which to locate the Voice, to lift the quality of public debate about it."
     publishedDateTime: 2023-05-28T20:06:00Z

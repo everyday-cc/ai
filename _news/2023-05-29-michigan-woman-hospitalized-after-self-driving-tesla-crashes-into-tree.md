@@ -2,11 +2,13 @@
 category: news
 title: "Michigan woman hospitalized after self-driving Tesla crashes into tree"
 excerpt: "An Ottawa County woman wound up in the hospital Sunday, May 28, 2023, after she put her Tesla into self-driving mode and the car veered off the roadway, rolled several times and hit a tree, according to Mecosta County Sheriff's office. (MLive file photo)"
-publishedDateTime: 2023-05-29T13:03:00Z
-originalUrl: "https://www.mlive.com/news/muskegon/2023/05/michigan-woman-hospitalized-after-self-driving-tesla-crashes-into-tree.html"
-webUrl: "https://www.mlive.com/news/muskegon/2023/05/michigan-woman-hospitalized-after-self-driving-tesla-crashes-into-tree.html"
+publishedDateTime: 2023-05-29T16:02:00Z
+originalUrl: "https://www.mlive.com/news/muskegon/2023/05/michigan-woman-hospitalized-after-self-driving-tesla-crashes-into-tree.html?outputType=amp"
+webUrl: "https://www.mlive.com/news/muskegon/2023/05/michigan-woman-hospitalized-after-self-driving-tesla-crashes-into-tree.html?outputType=amp"
+ampWebUrl: "https://www.mlive.com/news/muskegon/2023/05/michigan-woman-hospitalized-after-self-driving-tesla-crashes-into-tree.html?outputType=amp"
+cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/muskegon/2023/05/michigan-woman-hospitalized-after-self-driving-tesla-crashes-into-tree.html?outputType=amp"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/V24HYLTACBAALNXN6KO5JHMACQ.jpg"
+    width: 960
+    height: 673
+    isCached: true
 
 related:
   - title: "Tesla driver claims she crashed into a tree on ‘self-driving mode’"
@@ -96,6 +104,6 @@ related:
       domain: futurism.com
     quality: 19
 
-secured: "SI/K76tGfiUQjLW8tAxuVCV8QmjQcKezTcGwSRnxnZ62mFFnBlln90i0G3ZxpMNGCUTwZHyMWPfv6Y+MAZ4knQ4OIKYw4Uvh2RPVQwkq72n24j4IbS/QZkdrJUHuzDrBDuWuUJMyzWZ8y0fA3VsBC6504OCmNI6xlr9Al6skZU4OMRguu2oRtyy2KjMw4nvMn/qQoUOxIicb/vuhupwiJIs8Aa3Izu0IWjMz70CfiK3QrUIZZbYTQ7eOcW+uNfNiunFoG35koS+YLUgW9xw7i/DxcRX8bcbm7LdFgWFlDKIVhvemfRL2u7G0jO8m83LIkfIl1JR1qSWBwmMW1D412HPEKGbdQlI82zFD7E7b2bnKgdzwFGqPbLzRMcBcFd2EOFBd7SiMpuNcr2PqXF35ZrnmB69MRgLgiLZ9JmvhUreY4tAoyWxa8cMCisXpmAe4Ymm4yQsjOsSyPYiVllz+yl6mjC5ZQXe7b0aPRaPU/JQoSVbkWM6ROvequ5HSdb3Oyr2y2TYGL5KBBQN8NpWHaA==;6oZPTXkDwQrpYXksAkz1lw=="
+secured: "Xgreb+nCcyrX6JaAaH4sGnqnAzGxqfXcWsza0B/XyVDIZqbD709WbGi6EP0CYVMCNmv4w6/Vv9NQ8zBodWw16g9iGkC+66Wzrv4GlwzL8OO1e3CXGiGE0nc0z60qdfNHTzVtTKwxGEz4RosTemi+OtSLpFnoGEqpY1p4KY9qDHtTMxel+Z1U/1R4s/Em+r6FLw+luMi/lWlDMt5i+XvoRQChgTQ1UztT88ggNBdnqwEFNOh9OxnagKbMoEP5yL2SWfewL8g83Q8EfAsf/1S22yQSMe8vdWLfDXi56hAhHP/p2DKC6GV9oaKWna4sN7uIbjosgBDw6xxqjoJgFYEi4b0zlNHbSgu8soVuHNtUEI8=;7PypEoi4JdZSecnigYcPOw=="
 ---
 

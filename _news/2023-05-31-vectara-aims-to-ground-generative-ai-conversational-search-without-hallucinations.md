@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The AI revolution can put patients at the centre of NHS"
-    excerpt: "A robot shows patients around ... and a cardiologist who has developed an AI tool that allows non-specialists to accurately read heart scans. The Sheba Medical Center, Israel’s biggest hospital, has a portfolio of tech start-ups worth $2 billion, several ..."
-    publishedDateTime: 2023-05-26T07:54:00Z
-    webUrl: "https://www.thetimes.co.uk/article/ai-revolution-can-put-patients-at-centre-of-nhs-vhs6tv8sf?shareToken=c9e1a35b58ee9abef9cc879b537b8fc7"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F03a162a4-fb14-11ed-9be0-622d8a105167.jpg?crop=1485%2C835%2C7%2C129&resize=1200"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Arm unveils TCS23, driving immersive experiences and new-generation AI applications"
     excerpt: "Arm held a new product launch event at COMPUTEX 2023, unveiling the \"2023 Total Compute Solution\" (TCS23). Chris Bergey, Senior Vice President and General Manager of Arm's Client Line of Business, stated that TCS23 includes the new Arm Immortalis GPU based on the Arm fifth-generation GPU architecture,"
     publishedDateTime: 2023-05-29T06:43:00Z
@@ -99,6 +85,6 @@ related:
       domain: indiatimes.com
     quality: 27
 
-secured: "RSwaz3eQZdcTP6FAO1pKX6L/XzNEWdNIbzWjT3KcPgO7GSAyiPZWl8jgzl6CgJZtKDofygDMKyhYozv3rMDiOG2UNzhAMuzcdIWai64AZOE9WoTCk5VD2zQNslWtWKSD3N5m1oEn090O9QzfqRJQKZ4IKh2ZrW4jxrfC6Xr/916vqLl8PfCZJZGg/W1HueO3Z6mzaEb+PJbqANre9KTlYryVbWGNzHzWbUQ/aBnJ1hZJqsmF060MHwZJ3SMnOFrlYnEqG8dSlsR18cSNkvaWvl+222JHFioxYc51DNSewhB4R6NtZDB9ES3QJh9dz7QqBnoRC2yeezS1eXGCykqakvmIEsVjH6xrPhskVIZtDKM=;xO7Jp78ra0UpWknNL+0uoQ=="
+secured: "wXMEzHHdU2kxsl4TnKj/kSlotLn49WXHzb4DFuqUgYKsFDb8kFC3HyMLtb42rsAKuI079XmOhwyH6dfkxu+MDCTWaHBUq9+4lUqip6lrx28qXg6iHbbx0ezGU8qZvc/h9REDnRBrJ7AHKOz/+etxJ2R/lMLOfdJ6EWCVp4iQcTO+bwU5GpcibBCFG1deVDJ0+3/CvylGICRTxBEIL9DcUzVYPgdoxqh0Hb9eUUZqVZNXnF9thMWynTNEbBfdgOekIeuCqj8OV71wQyYgqlTMZKXxaYPlCWqjF0nf7JU8UjbN7xUBfP/G1GW179wT0KHdDqsZXVEPVjuUBmzX1gX4Xb+hosZATJ0z88JYeiZxnp/DyEmDtadQBF/20Rld6KG4rF1AzeWJmPmNeGS4gGsX+v47aIrcGBlB/89BZuO1cyRxYfj3eJUuLglPdILyawG2invEq4gl4ss9OTksLmkCL93icgFtawkTGnB/SSQaDzdhbg2CpH8+wqHkPcTtQssNFTqcAdh0XlWV8LEfGLc0zg==;QYT20Lq5L2b5nb7/vs6jSw=="
 ---
 

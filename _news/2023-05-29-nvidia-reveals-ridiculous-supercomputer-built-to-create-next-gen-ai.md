@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia briefly worth $1 trillion thanks to AI boom"
+    excerpt: "Investors excited about the possibilities for artificial intelligence have sent the US chipmaker's value soaring."
+    publishedDateTime: 2023-05-30T20:22:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-65757812?at_medium=RSS"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-65757812.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65757812.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9941/production/_129933293_gettyimages-1258278958.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Nvidia nears $1 trillion valuation amid AI boom"
     excerpt: "A trillion dollars of installed global data center infrastructure will transition from general-purpose to accelerated computing as companies race to apply generative AI into every product, service, and business process."
     publishedDateTime: 2023-05-26T11:55:00Z

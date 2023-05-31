@@ -120,20 +120,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "Microsoft Build 2023: Microsoft Fabric and oodles of Azure AI integrations announced"
-    excerpt: "Microsoft has unveiled a raft of new products “built for the era of AI” at its annual developer Build conference earlier this week. Microsoft Fabric, which is now in preview, was among the key announcements from the conference."
-    publishedDateTime: 2023-05-26T07:46:00Z
-    webUrl: "https://www.techcentral.ie/microsoft-build-2023-microsoft-fabric-and-oodles-of-azure-ai-integrations-announced/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 62
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2023/05/MIcrosoft_Office_23.jpg"
-        width: 620
-        height: 350
-        isCached: true
   - title: "Bulls Charge Into The Memorial Day Weekend On AI Excitement And Nvidia Earnings Momentum"
     excerpt: "The Markets To say NVDA (NASDAQ: NVDA) crushed earnings is a drastic understatement. You won’t find fundamental analysis on this page. But it does make sense to pay attention to the smart and experienced traders that know the fundamentals."
     publishedDateTime: 2023-05-30T17:05:00Z

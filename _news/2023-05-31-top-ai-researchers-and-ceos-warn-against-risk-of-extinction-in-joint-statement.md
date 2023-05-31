@@ -6,7 +6,7 @@ publishedDateTime: 2023-05-30T22:09:00Z
 originalUrl: "https://venturebeat.com/ai/top-ai-researchers-and-ceos-warn-against-risk-of-extinction-in-joint-statement/"
 webUrl: "https://venturebeat.com/ai/top-ai-researchers-and-ceos-warn-against-risk-of-extinction-in-joint-statement/"
 type: article
-quality: 62
+quality: 64
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/03/AI-e1628527067120.jpeg?w=1200&strip=all"
@@ -107,6 +108,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/18178/production/_129908689_index-pic_sam_altman_getty.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "AI extinction risk warning backed by OpenAI, DeepMind chiefs"
+    excerpt: "Explore the debate on AI's potential threat to humanity, featuring experts from OpenAI, Google DeepMind, and more discussing extinction risks and solutions."
+    publishedDateTime: 2023-05-31T01:38:00Z
+    webUrl: "https://thethaiger.com/news/world/ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs"
+    ampWebUrl: "https://thethaiger.com/news/world/ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs/amp"
+    cdnAmpWebUrl: "https://thethaiger-com.cdn.ampproject.org/c/s/thethaiger.com/news/world/ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs/amp"
+    type: article
+    provider:
+      name: The Thaiger
+      domain: thethaiger.com
+    quality: 74
+    images:
+      - url: "https://thethaiger.com/wp-content/uploads/2023/05/129902572_gettyimages-1257740282.jpg"
+        width: 976
+        height: 549
         isCached: true
   - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
     excerpt: "Scientists and tech industry leaders, including high-level executives at Microsoft and Google, issued a new warning Tuesday about the perils that artificial intelligence poses to humankind."
@@ -253,6 +270,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
+    excerpt: "Leading scientists and tech industry leaders are warning about the perils artificial intelligence poses to humankind, saying “mitigating the risk of extinction from AI should be a global priority.”"
+    publishedDateTime: 2023-05-30T20:59:00Z
+    webUrl: "https://omaha.com/lifestyles/technology/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/article_3eb0705d-ca7c-585a-b604-d1bce7016ce7.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 51
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/3/eb/3eb0705d-ca7c-585a-b604-d1bce7016ce7/6476696677da3.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Top AI CEOs, experts raise 'risk of extinction' from AI"
     excerpt: "AI pioneer Hinton earlier told Reuters that AI could pose a ... Technologycategory China, South Korea agree to strengthen talks on chip industry, Chinese commerce ministry says May 27, 2023 Technologycategory China urges Japan to halt export restrictions ..."
     publishedDateTime: 2023-05-30T13:10:00Z
@@ -310,15 +341,6 @@ related:
         width: 1200
         height: 592
         isCached: true
-  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-    excerpt: "Scientists and tech industry leaders, including high-level executives at Microsoft and Google, issued a new warning Tuesday about the perils that artificial intelligence poses to humankind."
-    publishedDateTime: 2023-05-30T17:09:00Z
-    webUrl: "https://thehill.com/homenews/ap/ap-business/ap-artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 31
   - title: "Eminent AI experts and corporate heads caution about the probability of ‘extinction risk’"
     excerpt: "Renowned figures in the technology industry, including the leaders of OpenAI and Google Deepmind, have issued a warning about the potential dangers associated"
     publishedDateTime: 2023-05-30T14:37:00Z
@@ -402,6 +424,6 @@ related:
       domain: apnews.com
     quality: 16
 
-secured: "s3++QvHvyLQm4errCORCBLammcbRyS8V2hOwkECw50jgWqzuXffdpZsQgx3KgycF9em+FGf5bBccA5CQ0+0LSEId7RmmhNf9mUmLrGI/UUKbHsxMF3v+27PSkeApTEJI1+YS6hCfn2XwqFIg2PZK+jEIYc97Y3EAzS9NmDB0CqFkpNP8J1431TDYY+vevsqUzpPJs9LlUpBXTEwm8uffzJtkxHuaOLJQ2Pw2LoAq0nNz4NZb45Q1+46VfrcqXnDwduAt2fp6gDdYAvI7TfgzFFyl+WaNCLtrIt9BA82dCyNTZ4jStZyXjh+DBCC/pFcGeG89wz4ya2kJJTmajRD0EpOk/3HVgR3/2jXzBNYFdJg=;OtYAIhHPoVnZuRnvkY+TAg=="
+secured: "LACRzentmmMsv8CeMxXH8j2A0BvpML8VpppcVCMRz/P4BzsxFnT6M6XC17JEKh7hWOUbeM10/qfoO9T5omoerhHoeIMDxhLdl+0ounF3GRYcNOsywLPuqx4c7xDSV2zh6CKSwlDpGlBi98e/DqpWTr2sbrg8h6RaBVAiNiyJGy1X3tJDy39ZO38mx1EC/2vV/J4onPSPWNO9li0gL3MPZHl7EmywOvXPsxJDw55tjWhU1/wOfF+xhOV5Vq7mP4H2lyFPQNcPhkUzFS0dg7pB9d/GyxODC5tCU9DnXYRDmsCole6XVOPOrY4AUANLnAfyLlWeaVj8fXlZRUEBZpq3/18IDML7TsmID/OQ1IW3sWyrluUcekT0vh1CJX/+53fh2xljQfjAKYo6QHUNWFbHYoyQoANRutiQpbroEFqUPTekhBvXJvNfU6kZu4BfsjHXqj0S0EuTL5ulEjyUHCjIMZYMtwyzIslWQqclFOqTFIh3hblM9Yx9qFISvf/8YZVqL+BN4urxbOgqnPpufKd5zA==;1Uh5ItazMnOHd+SWUMjw0Q=="
 ---
 

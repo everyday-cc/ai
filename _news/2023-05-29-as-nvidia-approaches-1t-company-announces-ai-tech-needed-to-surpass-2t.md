@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/amp/"
 type: article
 quality: 90
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://s.yimg.com/uu/api/res/1.2/oSI4q9uVuwV7MEZuGjHxYg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/e876fd10-fbe8-11ed-bcbf-0f9780637f7b.cf.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Nvidia briefly worth $1 trillion thanks to AI boom"
+    excerpt: "Investors excited about the possibilities for artificial intelligence have sent the US chipmaker's value soaring."
+    publishedDateTime: 2023-05-30T20:22:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-65757812?at_medium=RSS"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-65757812.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65757812.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9941/production/_129933293_gettyimages-1258278958.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Nvidia reveals ridiculous supercomputer built to create next-gen AI"
     excerpt: "Nvidia has revealed its next-generation supercomputer, the DGX GH200, which is built to handle the development of gigantic next-generation AI models."

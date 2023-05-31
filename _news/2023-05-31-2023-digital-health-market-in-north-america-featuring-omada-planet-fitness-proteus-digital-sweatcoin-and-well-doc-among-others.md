@@ -1,31 +1,23 @@
 ---
 category: news
 title: "2023 Digital Health Market in North America: Featuring Omada, Planet Fitness, Proteus Digital, Sweatcoin and Well Doc Among Others"
-excerpt: "The \"North America Digital Health Market and Trends 2023\" report has been added to ResearchAndMarkets.com's offering. Teleconsultation in the form of video and audio"
-publishedDateTime: 2023-05-30T22:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/05/n32638750/2023-digital-health-market-in-north-america-featuring-omada-planet-fitness-proteus-digital-sweatco"
-webUrl: "https://www.benzinga.com/pressreleases/23/05/n32638750/2023-digital-health-market-in-north-america-featuring-omada-planet-fitness-proteus-digital-sweatco"
-ampWebUrl: "https://www.benzinga.com/amp/content/32638750"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32638750"
+excerpt: "Teleconsultation in the form of video and audio calls has gained importance among medical professionals and patients in the U.S. and Canada Digital health trends like remote patient monitoring, telemedicine,"
+publishedDateTime: 2023-05-30T22:31:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/05/30/9823040.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/05/30/9823040.htm"
 type: article
-quality: 14
-heat: 14
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "2q6YTIyScDM0Hwn7jdv6AHpDkWla7zxwwX8CtV9bOu7E4lq6dAPuKwLrZO2H+70GA812IeSSPc9dikeXJkoEqEv8AHjb8KKG+CvAusZJUMYUjkxL68pKAvxS18Ev5DnNGzDFH7GNADZF69mCXcCldTIBYpRa8u0N3wWvQ0INS9ksknH4a5xDxIr0lP2a3kgyBUGsR4nlTbyCBBzHh/acM3PFpN3xMIDFkO4yRmA7Di5F1HECsgtPLDruIkIMi4B+tSKaculjg0KxQbWK61Y3r33lIiygFLCXogxTIdNg2lLUPgYllQ+r+5HfJFFt1nDZgnmDeeRNvqvrJZw8HQewEAdwlVXU6fFYwM4q64ZIBPc=;A0ES5/pcHxX6/K4mzLVk9w=="
+secured: "Hzg7rcwBCZjN9EkfUORbyvgnDnqf+bLUAn8gpq4jmIu/yvUM4C0Fe/m5W66/J5B0vKxXqrrzz4t1/GJVcnCGqFaZfYwPZXmN0mtUZYShFBJSaunal9kytl0KhJzEVj/HXjCyHFtY+KHV/sMzjK/cdXn+9dK9rxKcD2JvU/KDvh542x4OpWaMu0Se0d+Zo90rg//lbfResVU9lV4zzLjNlC4NhEhkExADxQuPmb+BHsMdsL7w2ddXHVuaatQCQpAXa8BME2kZ/mdoj1b5kPRxaTJ0CdMafiDSXp4W/wq1gi3DiT3mEB3LSEfHhYGu/2p1zp/YGVtqvazsHH1ely3uoqKX4/9UMGemEsdJgDt5lPA=;jpWnRAEgsBjAhRhdwrsNBg=="
 ---
 

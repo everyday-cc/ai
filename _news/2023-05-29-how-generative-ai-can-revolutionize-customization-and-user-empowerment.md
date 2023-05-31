@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-cus
 webUrl: "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/Untitled-design56.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "The AI revolution can put patients at the centre of NHS"
-    excerpt: "A robot shows patients around ... and a cardiologist who has developed an AI tool that allows non-specialists to accurately read heart scans. The Sheba Medical Center, Israel’s biggest hospital, has a portfolio of tech start-ups worth $2 billion, several ..."
-    publishedDateTime: 2023-05-26T07:54:00Z
-    webUrl: "https://www.thetimes.co.uk/article/ai-revolution-can-put-patients-at-centre-of-nhs-vhs6tv8sf?shareToken=c9e1a35b58ee9abef9cc879b537b8fc7"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F03a162a4-fb14-11ed-9be0-622d8a105167.jpg?crop=1485%2C835%2C7%2C129&resize=1200"
-        width: 1200
-        height: 674
         isCached: true
   - title: "Arm unveils TCS23, driving immersive experiences and new-generation AI applications"
     excerpt: "Arm held a new product launch event at COMPUTEX 2023, unveiling the \"2023 Total Compute Solution\" (TCS23). Chris Bergey, Senior Vice President and General Manager of Arm's Client Line of Business, stated that TCS23 includes the new Arm Immortalis GPU based on the Arm fifth-generation GPU architecture,"

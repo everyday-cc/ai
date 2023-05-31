@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Michigan woman hospitalized after self-driving Tesla crashes into tree"
+    excerpt: "An Ottawa County woman wound up in the hospital Sunday, May 28, 2023, after she put her Tesla into self-driving mode and the car veered off the roadway, rolled several times and hit a tree, according to Mecosta County Sheriff's office. (MLive file photo)"
+    publishedDateTime: 2023-05-29T16:02:00Z
+    webUrl: "https://www.mlive.com/news/muskegon/2023/05/michigan-woman-hospitalized-after-self-driving-tesla-crashes-into-tree.html?outputType=amp"
+    ampWebUrl: "https://www.mlive.com/news/muskegon/2023/05/michigan-woman-hospitalized-after-self-driving-tesla-crashes-into-tree.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/muskegon/2023/05/michigan-woman-hospitalized-after-self-driving-tesla-crashes-into-tree.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 59
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/V24HYLTACBAALNXN6KO5JHMACQ.jpg"
+        width: 960
+        height: 673
+        isCached: true
   - title: "Woman recovering after Tesla crashes in self-driving mode"
     excerpt: "A woman hit a tree after law enforcement said she put her Tesla in self-driving mode.The crash happened Sunday night in Me"
     publishedDateTime: 2023-05-29T14:28:00Z
@@ -81,15 +97,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Michigan woman hospitalized after self-driving Tesla crashes into tree"
-    excerpt: "An Ottawa County woman wound up in the hospital Sunday, May 28, 2023, after she put her Tesla into self-driving mode and the car veered off the roadway, rolled several times and hit a tree, according to Mecosta County Sheriff's office. (MLive file photo)"
-    publishedDateTime: 2023-05-29T13:03:00Z
-    webUrl: "https://www.mlive.com/news/muskegon/2023/05/michigan-woman-hospitalized-after-self-driving-tesla-crashes-into-tree.html"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 19
   - title: "Tesla Driver Says Self-Driving Mode Crashed Her Car Into a Tree"
     excerpt: "A Michigan woman was taken to the hospital after her Tesla reportedly self-crashed into a tree when in self-driving mode."
     publishedDateTime: 2023-05-30T19:25:00Z

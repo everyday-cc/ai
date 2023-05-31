@@ -39,6 +39,20 @@ related:
         width: 691
         height: 389
         isCached: true
+  - title: "Dreaming of a brighter future, Voice advocates call for Australia’s healing"
+    excerpt: "Linda Burney has told an audience in Canberra the story of Australia is incomplete, starting with what the constitution does not acknowledge."
+    publishedDateTime: 2023-05-31T00:21:00Z
+    webUrl: "https://www.themandarin.com.au/221588-dreaming-of-a-brighter-future-voice-advocates-call-for-australias-healing/"
+    type: article
+    provider:
+      name: The Mandarin
+      domain: themandarin.com.au
+    quality: 22
+    images:
+      - url: "https://www.themandarin.com.au/wp-content/uploads/2023/05/Alicia-Payne.png"
+        width: 1590
+        height: 1060
+        isCached: true
 
 secured: "HhKjoFqiMjKRYxkBxWYj0Wgk/6+bjW9+B09H2jy/IKFJ0IrwfZ2tfJzu2YJ/TLSjflPWcakHO4xDMXkBNPBG9lA+Dn7YRBYIA73mp/vtAbxcz7lk4Q0pB5Lx5Ymoz8Erel6oTY3VSdNKWDop11cy47EJd1eBZLjgD50mNb7SQTweom3X/ztE4oJnPigoVXnry2BS2zhI87UswTxweD9mmZNbrW0LLsi+elnopEC8ifEFzSZbrhMeB4r2KDg4d5Sro9gxBJKCQh6zl1izA++idxDzXck1UWnVq8+ch4xJdTP79J3XePYdml0firc9IEvK8im8wDamsBMpck5TNnK5L6SS4CxghiEwVySpmffW0myaAHzvDxUyKgZNi75VMunmY3g1WTqj4hxSW33fRtspvRTCOED1uRHADNyJX5nowrcP+oSfR1aeyv+BqulR0czqaKYVzKIove1/MNDZJ1JTlN1VUBq6OWTxOX6xv07Imyao5erhJEYTQ1hADlRClDeAGWAlh4J5NgjcSrLHxssvYQ==;C1nsnlKcf3q7y0MKagZdRQ=="
 ---

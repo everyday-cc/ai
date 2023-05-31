@@ -52,6 +52,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia briefly worth $1 trillion thanks to AI boom"
+    excerpt: "Investors excited about the possibilities for artificial intelligence have sent the US chipmaker's value soaring."
+    publishedDateTime: 2023-05-30T20:22:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-65757812?at_medium=RSS"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-65757812.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65757812.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9941/production/_129933293_gettyimages-1258278958.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Nvidia reveals ridiculous supercomputer built to create next-gen AI"
     excerpt: "Nvidia has revealed its next-generation supercomputer, the DGX GH200, which is built to handle the development of gigantic next-generation AI models."
     publishedDateTime: 2023-05-29T09:31:00Z

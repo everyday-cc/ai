@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-excerpt: "Scientists and tech industry leaders, including high-level executives at Microsoft and Google, issued a new warning Tuesday about the perils that artificial intelligence poses to humankind."
-publishedDateTime: 2023-05-30T17:09:00Z
-originalUrl: "https://thehill.com/homenews/ap/ap-business/ap-artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/"
-webUrl: "https://thehill.com/homenews/ap/ap-business/ap-artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/"
+excerpt: "Leading scientists and tech industry leaders are warning about the perils artificial intelligence poses to humankind, saying “mitigating the risk of extinction from AI should be a global priority.”"
+publishedDateTime: 2023-05-30T20:59:00Z
+originalUrl: "https://omaha.com/lifestyles/technology/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/article_3eb0705d-ca7c-585a-b604-d1bce7016ce7.html"
+webUrl: "https://omaha.com/lifestyles/technology/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/article_3eb0705d-ca7c-585a-b604-d1bce7016ce7.html"
 type: article
-quality: 31
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
-  - Facebook AI
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/3/eb/3eb0705d-ca7c-585a-b604-d1bce7016ce7/6476696677da3.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "OpenAI execs warn of “risk of extinction” from artificial intelligence in new open letter"
@@ -99,6 +105,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AI extinction risk warning backed by OpenAI, DeepMind chiefs"
+    excerpt: "Explore the debate on AI's potential threat to humanity, featuring experts from OpenAI, Google DeepMind, and more discussing extinction risks and solutions."
+    publishedDateTime: 2023-05-31T01:38:00Z
+    webUrl: "https://thethaiger.com/news/world/ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs"
+    ampWebUrl: "https://thethaiger.com/news/world/ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs/amp"
+    cdnAmpWebUrl: "https://thethaiger-com.cdn.ampproject.org/c/s/thethaiger.com/news/world/ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs/amp"
+    type: article
+    provider:
+      name: The Thaiger
+      domain: thethaiger.com
+    quality: 74
+    images:
+      - url: "https://thethaiger.com/wp-content/uploads/2023/05/129902572_gettyimages-1257740282.jpg"
+        width: 976
+        height: 549
+        isCached: true
   - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
     excerpt: "Scientists and tech industry leaders, including high-level executives at Microsoft and Google, issued a new warning Tuesday about the perils that artificial intelligence poses to humankind."
     publishedDateTime: 2023-05-30T13:28:00Z
@@ -160,7 +182,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 62
+    quality: 64
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/03/AI-e1628527067120.jpeg?w=1200&strip=all"
         width: 1200
@@ -398,6 +420,6 @@ related:
       domain: apnews.com
     quality: 16
 
-secured: "9Cq+xDFqZWY00FJsa9hPv7F56R34FkGjxTT/MYFx2UTnUGc9VQWar0QCIaxl52u29Pe77aTATRxCkrWBRhIICM/KhYnHgPmcl1OshoTKP8EtVb6GdOcAU0BlU1JOVPpgkpBbAPcSY5JySsraHwiYFXi9PgioaQikry63lB7ED08JjAwD/yZWJFA++hZdk2F3A/qClraatnq4MUpsTbNE9h2WFNaUhfdvDFf6YLDFiJQv8Uv57vvNOfA5QWorghIguBQk8MmlbvLdIamVfYjTLbqh/+z+AK6ecSz1xBcjLFlmzumO6pQC8Cf8oMFti6fX/0SqPZHe4llscmX+9vFCTC/QR9Nqdy3U3fZ8jhdSAsyqyHhVmjOqjvEhI6qO9Q3Up2a5NraUE337f6rVaDMFSgdOHA8iY+Ou+rNk1sUkM4m47iEa/3+Fc2y8IGh8MMDC6dDBKXQhaA57ClFmpG3pAoVC6Dl4jYmDH1Am3as5lEtqiae7NXnvc9uYI6QcaPj9C/bVFrcAMVEraQYdtQkxjg==;NS+b3xFHwM9uMZGvgxNeiA=="
+secured: "Is56sQJZaYwGBpn+jKqn44r+EgTINVVO8bUcel+Yk8BkLk4zaVOh9GRqxZL6SuSNeApz3l/1SeIBg/23bFmMCs5cD+G7292NEOPaOeMQ4QZjGMZ9/5DBq6xr4ZQOUUqvkEek4IZWTpD34zCteSMx2kM2z8cp2IgYoKsq5oR6SibMwjyyBNCGxRaCImFo/ywK7CjgZ+b7Tsr+GJSsSEwqZKJLADbuy/SOhuMem35F9NMuPcoXhOJDHQOF2U8fg1M6xIHh2Y2hbcBnFdx3/ImKLALgNywlFeG76NXkPT2f4yCXFjP9a0/X8kcWYYgPulIooGzKAR2JRidi6c3RDeW3DLbQl9PorV9afOBuQRl/Sbs=;LHB+HG76JEwQn3IkgSGHlw=="
 ---
 

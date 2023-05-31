@@ -228,6 +228,20 @@ related:
       name: Time
       domain: time.com
     quality: 47
+  - title: "AI demand briefly catapults Nvidia into $1 trillion club"
+    excerpt: "The total value of computer chip and graphics processing card manufacturer Nvidia briefly touched $1 trillion on May 30 as demand for the company’s artificial intelligence tech surged into overdrive."
+    publishedDateTime: 2023-05-31T00:40:00Z
+    webUrl: "https://cointelegraph.com/news/nvidia-briefly-hits-1-trillion-market-cap"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 39
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-05/795d3f2c-200d-4544-9605-74bfbb101f9d.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Fueled by AI, Nvidia joins the $1 trillion club"
     excerpt: "Booming demand for its AI chips has landed Nvidia (NVDA) a prime spot in one of the most exclusive clubs on Wall Street: The chipmaker hit a market cap of $1 trillion on Tuesday. It’s just the ninth company globally to have achieved such a feat,"
     publishedDateTime: 2023-05-30T20:42:00Z

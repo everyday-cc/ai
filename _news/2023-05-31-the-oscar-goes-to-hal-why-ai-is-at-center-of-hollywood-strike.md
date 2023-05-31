@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "‘Those who hate AI are insecure’: inside Hollywood’s battle over artificial intelligence"
-    excerpt: "We are at a cocktail party pretending we know what we’re talking about,’ an editor said. But it’s clear the role of AI in cinema is dividing the industry"
-    publishedDateTime: 2023-05-26T09:00:00Z
-    webUrl: "https://www.theguardian.com/us-news/2023/may/26/hollywood-writers-strike-artificial-intelligence"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2023/may/26/hollywood-writers-strike-artificial-intelligence"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/may/26/hollywood-writers-strike-artificial-intelligence"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 63
-    images:
-      - url: "https://i.guim.co.uk/img/media/a1117f2506c71808556571615b97231f817c3306/0_0_5497_3300/master/5497.jpg?width=620&quality=85&auto=format&fit=max&s=54264d8679d2b7d8f9311375cdccdd5b"
-        width: 620
-        height: 372
-        isCached: true
   - title: "AI is a key issue in negotiations between actors and Hollywood studios"
     excerpt: "The US actors’ union will negotiate with Hollywood studios over the rights to use AI to create \"digital twins\" of actors, and the results could determine the viability of acting as a career"
     publishedDateTime: 2023-05-26T11:59:00Z

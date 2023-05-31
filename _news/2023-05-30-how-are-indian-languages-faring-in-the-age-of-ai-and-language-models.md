@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/science/indian-languages-chatgpt-l
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece/amp/"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
         width: 1200
         height: 1200
-        isCached: true
-  - title: "The dangers of facial-recognition technology in Indian policing"
-    excerpt: "CCTV cameras and facial recognition systems are surveillance tools that carry on the legacy of analogue technologies in stereotyping and targeting specific communities."
-    publishedDateTime: 2023-05-26T08:00:00Z
-    webUrl: "https://caravanmagazine.in/technology/dangers-of-facial-recognition-technology-in-indian-policing"
-    type: article
-    provider:
-      name: The Caravan
-      domain: caravanmagazine.in
-    quality: 24
-    images:
-      - url: "https://lh3.googleusercontent.com/Z9LxkfnxmPtg4yoHMQI8w698TdZ455EQ1tb-63ISGiU3ZvrwGvJo_OKdjk1rA5zF1YYjh1uETgjhWGCtyUnXOihhzrGnHMEdFYZgdFY=w1200-h630-pp"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Over half of China's large language models are open sourced: report"
     excerpt: "China has 14 provincial-level regions that are currently working on the development of large language models LLMs among which mor"
