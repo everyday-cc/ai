@@ -49,6 +49,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Artificial Intelligence in Retail Market is Expected to Surpass US$ 127.09 Billion by 2033 | Says FMI"
+    excerpt: "The global artificial intelligence in retail market is expected to reach US$ 10.76 billion by 2023, with demand for AI in retail predicted to grow at a CAGR of 28% and surpass US$ 127.09 billion by 2033."
+    publishedDateTime: 2023-05-31T04:46:00Z
+    webUrl: "https://www.fmiblog.com/2023/05/31/artificial-intelligence-in-retail-market-is-expected-to-surpass-us-127-09-billion-by-2033-says-fmi/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 19
 
 secured: "wpfEX6RBu6kiJ3eRtLtiyf9qyRbhtEqhLxU/bnrJ1vwuky0M1PAtOr6ha3sVEVsFYA9f/pMZdrWNcK+D4yVsprRgvmz/s7s96kLYlg/tTVA+SC0vUHa+2aFjDL+7t15HnygFDb76vSThfhfq4uiNfHcsUHmvFvOttfxsaFweRUR/WRjbMzbUrq9DP/9BQnnu0UY+bovQd7iWXQYx0slv/w5FgHZQ3zE4qrgSBjuhus94BOVqo4v7IO6/TtKbyXkTXVHzm/Gey/etOV1R9RbbvZ7cldqYjQbTIleuYxC+RNsHTKf68cVcD6jm4wMkEgWfNsi3oNpBu1OHhnsZIolOE+x5bs+xrVPyyRVxyL5pZTw=;QbIbAwM634bj9yo0I0E0PA=="
 ---

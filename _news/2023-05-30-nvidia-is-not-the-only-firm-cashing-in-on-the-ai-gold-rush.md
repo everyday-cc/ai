@@ -212,15 +212,6 @@ related:
         width: 1466
         height: 710
         isCached: true
-  - title: "Nvidia Stock Surges Off Huge AI-Focused Earnings Report"
-    excerpt: "Here’s the latest on the Nvidia earnings report and who the biggest winners - and losers - were off the back of it."
-    publishedDateTime: 2023-05-26T12:04:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/05/26/nvidia-stock-surges-off-huge-ai-focused-earnings-report/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "MediaTek, NVIDIA to Transform Automobiles with AI & Accelerated Computing"
     excerpt: "AI and accelerated computing are fueling the transformation of the entire auto industry. The combination of MediaTek’s industry-leading system-on-chip plus NVIDIA’s GPU and AI software technologies will enable new user experiences, enhanced safety and new connected services for all vehicle segments, from luxury to entry-level."
     publishedDateTime: 2023-05-29T07:18:00Z

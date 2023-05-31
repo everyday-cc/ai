@@ -52,17 +52,6 @@ related:
         width: 1500
         height: 1002
         isCached: true
-  - title: "Averting the AI apocalypse"
-    excerpt: "On the shoulders of this automated labor force, super wealthy AI entrepreneurs and companies will rise to form the most powerful elites to ever lord over humanity. Meanwhile, governments risk collapse from sharply diminished tax bases compounded by their own elected leader’s acute technological incompetence — an AI apocalypse."
-    publishedDateTime: 2023-05-26T21:58:00Z
-    webUrl: "https://www.seattletimes.com/opinion/averting-the-ai-apocalypse/"
-    ampWebUrl: "https://www.seattletimes.com/opinion/averting-the-ai-apocalypse/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/averting-the-ai-apocalypse/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
   - title: "AI Can Transform Banking For The Better"
     excerpt: "Artificial intelligence has matured and is disrupting financial services. It can enhance customer service, reduce costs and curb fraud – but only wit"
     publishedDateTime: 2023-05-28T18:35:00Z

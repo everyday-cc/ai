@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-29T23:26:00Z
 originalUrl: "https://stanforddaily.com/2023/05/29/students-voice-expectations-and-concerns-for-future-provost/"
 webUrl: "https://stanforddaily.com/2023/05/29/students-voice-expectations-and-concerns-for-future-provost/"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "jTWFn2pwFHffGM1QQdqiMCIOrE3KVX6bbsrnRFYzcdZgplZjf3BflEOhEAAhBxMYRL/7CgO4Aj9abv+UwFNmokokK4Nvuh6kja9hH127/lvGuRrGAZ9+TDjB3/G9ZbblbjGUb5JRHUCcrhizJlf5MP2AfiSbUQ7IgJ+XsfKK7jxv2Tw1P/FQxmgtrzhFqekZvlCHw1DIcBYklDiG1WAkRBdAyUMeb2dA0Jx1KkXZSYU60WRa6kb2aQ9O0ypvfA+AcZlGz0bJ6FcPTRHPweh2qZzNyxteNkBH4V6/x0CEJMBHCizoJsQE+QwrihIIUnw3XuBE7uIaREWvmjwaExs1Vvl2wvEiL49DJ8i+tWgh74k=;T5mXkY9wU4lryScBA0E2Wg=="
+images:
+  - url: "https://stanforddaily.com/wp-content/uploads/2020/01/NEW.012420.facsen.jpg"
+    width: 990
+    height: 660
+    isCached: true
+
+secured: "X8WjduH3pZvga552PGYH3GXRr/i9WhH32urP+eSOS/3EWmhNYlkgeE+Qum6XZuy7nfOpaQn3Rb8wt4yxS58Y/gIYWMaZXOC6bedaPxLsDJsD7w+w9v1qojP+KSEouizrPW7gWArG4G9O2iu7tUv5fMHucRBqk7rSsnS1nblAX+CfNa/J/OUker8OnR6oiwpcj6JxyoieRfBQnt5+oV7lZHjPJwHAyB21RRCIUA64A0yNrSrl5a7W7DdmOg8Oq40Qh7nkiIhavUeOMvyiksoZnolJXoJtK11NXJn4GuPUkXP3dOymd6V8hemnfihHwqjRbvjJ44r5AClsi5vhdizHnEz7SsCf625mKCnJGBloC2g=;snvTzrS6hLfRwvI7Jj7PAA=="
 ---
 

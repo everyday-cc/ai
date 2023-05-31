@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-31-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
+      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
+      "excerpt": "Robots are on display at the International Conference on Robotics and Automation in London, where visitors can get a glimpse of the future",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/International/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699797",
+      "originalUrl": "https://abcnews.go.com/International/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699797",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699797",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699797",
+      "publishedDateTime": "2023-05-30T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-legged-robots-learn-dynamic-physical-characteristics-of-terrains-like-animals.md",
       "title": "Legged robots learn dynamic physical characteristics of terrains like animals",
       "excerpt": "endowing the robot with physical artificial intelligence. Credit: Science China Press Finally, the work conducts both indoor and outdoor hardware experiments, and the experimental results demonstrate that the proposed approach can effectively help robots ...",
@@ -1320,50 +1363,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-tech-digest-daily-roundup-tesla-issues-optimus-robot-update.md",
-      "title": "Tech Digest daily roundup: Tesla issues Optimus robot update",
-      "excerpt": "BBC The government must act to prepare for artificial intelligence (AI) to hit the workplace “like a freight train”, the boss of one of Britain’s leading energy companies has told Sky News. Greg Jackson, founder of Octopus, says the adoption of AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techdigest.tv/2023/05/tech-digest-daily-roundup-tesla-issues-optimus-robot-update.html",
-      "originalUrl": "https://www.techdigest.tv/2023/05/tech-digest-daily-roundup-tesla-issues-optimus-robot-update.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2023/05/Tesla-optimus-.webp?resize=788%2C443&#038;ssl=1",
-          "width": 788,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-19T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Digest",
-        "domain": "techdigest.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

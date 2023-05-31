@@ -107,6 +107,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AI risks leading humanity to 'extinction,' experts warn"
+    excerpt: "It's the most recent in a series of alarms raised by experts in artificial intelligence — but also one that stoked growing pushback against a focus on what seem to be its overhyped hypothetical harms."
+    publishedDateTime: 2023-05-30T23:32:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/ai-risks-leading-humanity-extinction-experts-warn-rcna86791"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna86791"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna86791"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230530-sam-altman-openAI-mn-0935-09934e.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
     excerpt: "Scientists and tech industry leaders, including high-level executives at Microsoft and Google, issued a new warning Tuesday about the perils that artificial intelligence poses to humankind."
     publishedDateTime: 2023-05-30T13:28:00Z

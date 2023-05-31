@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/amp/"
 type: article
 quality: 90
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
       - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/29/Nvidia-Supercomputer.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Nvidia nears $1 trillion valuation amid AI boom"
-    excerpt: "A trillion dollars of installed global data center infrastructure will transition from general-purpose to accelerated computing as companies race to apply generative AI into every product, service, and business process."
-    publishedDateTime: 2023-05-26T11:55:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-nears-1-trillion-valuation-amid-ai-boom/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Nvidia_Jensen_holds_T4.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Nvidia announces large-memory DGX GH200 for generative AI"
     excerpt: "Nvidia has announced a new DGX class, the GH200, for generative AI workloads. The DGX GH200 connects up to 256 Grace Hopper Superchips into a single 144TB GPU system. The superchip is itself a combination of Nvidia's Grace Arm CPU and Hopper GPU,"

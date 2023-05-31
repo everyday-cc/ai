@@ -87,20 +87,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Nvidia nears $1 trillion valuation amid AI boom"
-    excerpt: "A trillion dollars of installed global data center infrastructure will transition from general-purpose to accelerated computing as companies race to apply generative AI into every product, service, and business process."
-    publishedDateTime: 2023-05-26T11:55:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-nears-1-trillion-valuation-amid-ai-boom/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Nvidia_Jensen_holds_T4.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "NVIDIA Announces DGX GH200 AI Supercomputer"
     excerpt: "NVIDIA today announced a new class of large-memory AI supercomputer — an NVIDIA DGX ™ supercomputer powered by NVIDIA ® GH200 Grace Hopper Superchips and the NVIDIA NVLink ® Switch System — created to enable the development of giant,"
     publishedDateTime: 2023-05-29T05:52:00Z

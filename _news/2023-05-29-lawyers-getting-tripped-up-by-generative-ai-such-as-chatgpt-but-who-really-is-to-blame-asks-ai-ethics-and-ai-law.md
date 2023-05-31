@@ -230,6 +230,22 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 45
+  - title: "Should artificial intelligence be regulated by a U.S. or global body? The head of ChatGPT thinks so"
+    excerpt: "OpenAI CEO Sam Altman speaks before a Senate judiciary subcommittee on privacy, technology and the law hearing on artificial intelligence on Capitol Hill on Tuesday. (Patrick Semansky/The ..."
+    publishedDateTime: 2023-05-30T16:49:00Z
+    webUrl: "https://www.cbc.ca/news/world/artificial-intelligence-regulated-1.6845389"
+    ampWebUrl: "https://www.cbc.ca/amp/1.6845389"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6845389"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 45
+    images:
+      - url: "https://i.cbc.ca/1.6845407.1684268021!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/congress-openai-ceo.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
     publishedDateTime: 2023-05-26T17:30:00Z
@@ -248,6 +264,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
+  - title: "Chinese AI chatbot firm Xiao-I eyes global market after Nasdaq IPO on ChatGPT fever"
+    excerpt: "When Yuan Hui launched his company’s first chatbot two decades ago, the world had yet to catch up on the potential of conversational artificial intelligence (AI). Today, Shanghai-based Xiao-I is worth more than US$400 million,"
+    publishedDateTime: 2023-05-31T04:20:00Z
+    webUrl: "https://www.channelnewsasia.com/business/china-xiao-i-artificial-intelligence-company-nasdaq-3527291"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 33
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--fYeRF4wY--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/05/31/china_xiao-i.png?itok=9K8E7QKU"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "We can’t put the ChatGPT AI genie back in the bottle, even if it means risking extinction"
     excerpt: "Top AI researchers sign 22-word \"risk of extinction\" warning - but I think we can't afford to put ChatGPT back in the box."
     publishedDateTime: 2023-05-30T14:47:00Z

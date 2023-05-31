@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-art
 webUrl: "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -43,17 +43,6 @@ related:
         width: 1500
         height: 1002
         isCached: true
-  - title: "Averting the AI apocalypse"
-    excerpt: "On the shoulders of this automated labor force, super wealthy AI entrepreneurs and companies will rise to form the most powerful elites to ever lord over humanity. Meanwhile, governments risk collapse from sharply diminished tax bases compounded by their own elected leader’s acute technological incompetence — an AI apocalypse."
-    publishedDateTime: 2023-05-26T21:58:00Z
-    webUrl: "https://www.seattletimes.com/opinion/averting-the-ai-apocalypse/"
-    ampWebUrl: "https://www.seattletimes.com/opinion/averting-the-ai-apocalypse/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/averting-the-ai-apocalypse/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
   - title: "How to introduce AI into your company’s workflow the smart way"
     excerpt: "Using predictive analytics is another way to introduce AI into a company's workflow. By analyzing large amounts of data, businesses can gain valuable insights into future trends and make more informed decisions. This is particularly useful for business forecasting and planning, where accurate predictions can make a significant difference."
     publishedDateTime: 2023-05-30T12:30:00Z

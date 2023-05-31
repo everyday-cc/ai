@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-the-generative-ai-boom-could-delive
 webUrl: "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/"
 type: article
 quality: 68
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/05/annevb_yelling_into_the_darkness_for_help._Mayday._colorful_tec_736eb19e-1e98-40fa-92cc-613825810f1f.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "IBM Consulting introduces Center of Excellence for generative AI to empower business transformation"
+    excerpt: "implementing and managing generative AI solutions. This approach involves integrating multiple models from industry-leading providers on various cloud platforms. Furthermore, with the cutting-edge innovations from IBM Research and the capabilities of the ..."
+    publishedDateTime: 2023-05-26T19:07:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-consulting-introduces-center-excellence-generative-ai-empower-business-transformation/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 57
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1233363927-e1628896963459.jpg?fit=750%2C499&#038;strip=all"
+        width: 750
+        height: 375
         isCached: true
   - title: "VB Transform: Navigating the generative AI wave, insights from top executives at major corporations"
     excerpt: "Enterprise speakers slated to join us at our VB Transform event on July 11 and 12 will shed light on their generative AI initiatives."

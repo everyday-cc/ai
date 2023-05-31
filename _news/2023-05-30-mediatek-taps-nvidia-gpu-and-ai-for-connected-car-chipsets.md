@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/mediatek-taps-nvidia-gpu-and-ai-for-con
 webUrl: "https://venturebeat.com/ai/mediatek-taps-nvidia-gpu-and-ai-for-connected-car-chipsets/"
 type: article
 quality: 99
-heat: 299
+heat: 289
 published: true
 
 provider:
@@ -56,22 +56,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/02/nvidia-ceo-jensen-huang-at-gtc-fall-2022-2.jpg?w=1200&strip=all"
         width: 1200
         height: 637
-        isCached: true
-  - title: "How AI may help Nvidia to become first trillion-dollar chip-making company"
-    excerpt: "This is what Microsoft co-founder Bill Gates has to say on the 'big AI winner' of tomorrow Microsoft co-founder Bill Gates said that the future top company in artificial intelligence will likely have created a personal digital agent that can perform ..."
-    publishedDateTime: 2023-05-26T11:37:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-ai-may-help-nvidia-to-become-first-trillion-dollar-chip-making-company/articleshow/100529424.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-ai-may-help-nvidia-to-become-first-trillion-dollar-chip-making-company/amp_articleshow/100529424.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/how-ai-may-help-nvidia-to-become-first-trillion-dollar-chip-making-company/amp_articleshow/100529424.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 72
-    images:
-      - url: "https://static.toiimg.com/photo/msid-100529672/100529672.jpg"
-        width: 1920
-        height: 1280
         isCached: true
   - title: "How AI Is Catapulting Nvidia Toward the $1 Trillion Club"
     excerpt: "The company’s chips are leaders in processing the complex calculations driving the latest internet revolution."

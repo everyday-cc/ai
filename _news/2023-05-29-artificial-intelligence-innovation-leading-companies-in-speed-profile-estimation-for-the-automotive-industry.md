@@ -18,33 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "How Red Hat OpenShift on AWS (ROSA) accelerates enterprise modernization initiatives on cloud, delivering business application innovation"
-    excerpt: "When it comes to driving large technology transformation on Cloud, leveraging&#160;existing investments, and optimizing open innovation within the larger ecosystem with a hybrid cloud platform, IBM Consulting&#8482; offers several learnings to help organizations address the architecture and technology"
-    publishedDateTime: 2023-05-26T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/how-red-hat-openshift-on-aws-rosa-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation/"
+  - title: "AI & IP—Data Protection At The Crossroads Of Innovation And Intellectual Property"
+    excerpt: "From cutting-edge registration techniques to implementing privacy-enhancing technologies, businesses must be creative and forward-thinking in protecting intellectual property in the AI age."
+    publishedDateTime: 2023-05-30T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/30/ai--ip-data-protection-at-the-crossroads-of-innovation-and-intellectual-property/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/30/ai--ip-data-protection-at-the-crossroads-of-innovation-and-intellectual-property/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/30/ai--ip-data-protection-at-the-crossroads-of-innovation-and-intellectual-property/amp/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 86
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/05/How-Red-Hat-OpenShift-on-AWS-ROSA-accelerates-enterprise-modernization-initiatives-on-cloud-delivering-business-application-innovation-scaled.jpg"
-        width: 2560
-        height: 1280
-        isCached: true
-  - title: "IBM Consulting introduces Center of Excellence for generative AI to empower business transformation"
-    excerpt: "implementing and managing generative AI solutions. This approach involves integrating multiple models from industry-leading providers on various cloud platforms. Furthermore, with the cutting-edge innovations from IBM Research and the capabilities of the ..."
-    publishedDateTime: 2023-05-26T19:07:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-consulting-introduces-center-excellence-generative-ai-empower-business-transformation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 57
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1233363927-e1628896963459.jpg?fit=750%2C499&#038;strip=all"
-        width: 750
-        height: 375
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61095ac215869a022481acb3/0x0.jpg?format=jpg&crop=3283,1848,x0,y109,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "jT5jZPjAsAIaW8ggu7zIHvMrVnCmymSzViuTOCCTYBWy2C04LfW0QgTXZgFhuqxcvONepZ0iGFfLF5dKBCTPbLsFvmRO8SSpzHCF0Qq5enEsnWAnoCEma4pF77mYElHiJK7IsWwqEDKtXSoYnQLUZbVK560yL8F3F6UpUB2TxxYvCLAjFmWUjisMdbBQAliIPMDjGjR7n1YBV1KLV9gtOcD2awNw/fvuYKP+yg+J9mWCAKhU4hPyN2cQuigPoCdwCwxkXIW9daNfvhNbbhlSnEBjLTxiEW2UYe31ttzY1Z2wJuecZ8P94ZBHe0wmFL51UUd5TZzo/GhhRVM6zbFMFVl5HuKfkREUf6uBlxXOdfAS0CPfDy9bEKzohLqmobI2lfH32yI+Y5RC0QnHRngXncAIpbSNymz12321/u043gNNMAnjF702sAWXnfWdgbk5OD9DaVklAjbDdMkX00Cg0DxnvAo4CN2yOoR2L95Gbm35jZFzzNUjH74uIeqd4nmQ4YaRdldyiICO7LT1KCnx1g==;JCdS+MC4ZTMxPR0RodB+9A=="

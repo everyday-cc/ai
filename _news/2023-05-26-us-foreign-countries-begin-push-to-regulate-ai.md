@@ -7,7 +7,7 @@ originalUrl: "https://www.securityinfowatch.com/cybersecurity/article/53061798/u
 webUrl: "https://www.securityinfowatch.com/cybersecurity/article/53061798/us-foreign-countries-begin-push-to-regulate-ai"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Everyone Wants to Regulate AI. No One Can Agree How"
-    excerpt: "US lawmakers and CEOs alike say new rules are needed to prevent artificial intelligence from doing harm. So far, there are more wish lists than laws."
-    publishedDateTime: 2023-05-26T13:00:00Z
-    webUrl: "https://www.wired.com/story/plaintext-everyone-wants-to-regulate-ai/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 49
 
 secured: "DLO0QERNqk5PUgMJjdj3C01ut17mzzoqqMFDIOUD5LNkIwZSt8XA/CKNLcaUXip7xsyGE4iiY2gTFcKu1J5PGxLbvmE6VBtvyeoaq9cnbENzzYY6OMZRxn93I5Xmp7mqC0UxamUueadALydB6KiHtDgMZ3j6RKGpcSI3IpiyiZ0X2HIfB3s9p6D+11Th5gOUTp8Oqt4wA0LClDOVA4V99l4xUrF0+6vc334V6E1tILhGDID940qlTW3NMyClpNeWPkYJdAmJoZQeOA+t7cV2rnCNfsnMAV6lqxlRVKoI4tB4FjKChGTRkJGUJMdFzzwcJDF0Xm596n4Cx8SztMwcB/rsUYOnBj0Udt2xsanKxzk=;J3RjzUT7LqlseSBi0MP8Fw=="
 ---

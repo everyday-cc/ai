@@ -212,15 +212,6 @@ related:
         width: 1466
         height: 710
         isCached: true
-  - title: "Nvidia Stock Surges Off Huge AI-Focused Earnings Report"
-    excerpt: "Here’s the latest on the Nvidia earnings report and who the biggest winners - and losers - were off the back of it."
-    publishedDateTime: 2023-05-26T12:04:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/05/26/nvidia-stock-surges-off-huge-ai-focused-earnings-report/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Nvidia is not the only firm cashing in on the AI gold rush"
     excerpt: "A GREY RECTANGULAR building on the outskirts of San Jose houses rows upon rows of blinking machines. Tangles of colourful wires connect high-end servers, networking gear and data-storage systems. Bulky air-conditioning units whirr overhead. The noise forces visitors to shout."
     publishedDateTime: 2023-05-29T19:34:00Z

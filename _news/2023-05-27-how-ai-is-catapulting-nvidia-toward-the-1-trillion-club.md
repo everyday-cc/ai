@@ -70,22 +70,6 @@ related:
         width: 1200
         height: 637
         isCached: true
-  - title: "How AI may help Nvidia to become first trillion-dollar chip-making company"
-    excerpt: "This is what Microsoft co-founder Bill Gates has to say on the 'big AI winner' of tomorrow Microsoft co-founder Bill Gates said that the future top company in artificial intelligence will likely have created a personal digital agent that can perform ..."
-    publishedDateTime: 2023-05-26T11:37:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-ai-may-help-nvidia-to-become-first-trillion-dollar-chip-making-company/articleshow/100529424.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-ai-may-help-nvidia-to-become-first-trillion-dollar-chip-making-company/amp_articleshow/100529424.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/how-ai-may-help-nvidia-to-become-first-trillion-dollar-chip-making-company/amp_articleshow/100529424.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 72
-    images:
-      - url: "https://static.toiimg.com/photo/msid-100529672/100529672.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "NVIDIA Grace Hopper Superchips Designed for Accelerated Generative AI Enter Full Production"
     excerpt: "NVIDIA today announced that the NVIDIA® GH200 Grace Hopper Superchip is in full production, set to power systems coming online worldwide to run complex"
     publishedDateTime: 2023-05-29T03:54:00Z

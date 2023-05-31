@@ -39,6 +39,20 @@ related:
         width: 691
         height: 389
         isCached: true
+  - title: "The right-wing origins of Australia’s indigenous Voice"
+    excerpt: "A book by two central advocates of the Labor government’s Voice scheme shows that, far from being a grassroots movement, it originated as a bid to head off anger and disaffection among ordinary indigenous people."
+    publishedDateTime: 2023-05-31T04:32:00Z
+    webUrl: "https://www.wsws.org/en/articles/2023/05/31/aaux-m31.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 24
+    images:
+      - url: "https://www.wsws.org/asset/b02d378e-e0ac-4c3f-8a8b-67978884312d?rendition=1600x900"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Far from undermining democracy, The Voice will pluralise and enrich Australia’s democratic conversation"
     excerpt: "We need a richer account of democracy within which to locate the Voice, to lift the quality of public debate about it."
     publishedDateTime: 2023-05-28T20:06:00Z

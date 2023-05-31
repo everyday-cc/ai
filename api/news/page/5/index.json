@@ -2,6 +2,163 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-25-two-of-the-worlds-most-critical-chip-firms-rally-after-nvidias-26-share-price-surge.md",
+      "title": "Two of the world's most critical chip firms rally after Nvidia's 26% share price surge",
+      "excerpt": "Dutch firm ASML and Taiwan's TSMC, two of the world's most important semiconductor firms, got a share price boost after Nvidia's earnings impressed investors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/05/25/tsmc-asml-two-critical-chip-firms-rally-after-nvidias-earnings.html",
+      "originalUrl": "https://www.cnbc.com/2023/05/25/tsmc-asml-two-critical-chip-firms-rally-after-nvidias-earnings.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107098120-1659534459911-gettyimages-1239915582-RAFAPRESS_10042022-0121.jpeg?v=1685013700",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/05/25/tsmc-asml-two-critical-chip-firms-rally-after-nvidias-earnings.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/05/25/tsmc-asml-two-critical-chip-firms-rally-after-nvidias-earnings.html",
+      "publishedDateTime": "2023-05-25T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-3-new-ways-generative-ai-can-help-you-search.md",
+      "title": "3 new ways generative AI can help you search",
+      "excerpt": "Today, we’re starting to open up access to SGE (Search Generative Experience), one of our first experiments in Search Labs.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/search/search-generative-ai-tips/",
+      "originalUrl": "https://blog.google/products/search/search-generative-ai-tips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/io23_BlogPostHero_Full_size_RUAz0GV.width-1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-nvidia-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge.md",
+      "title": "Nvidia is poised to join $1 trillion club thanks to AI-driven surge",
+      "excerpt": "Thanks to a seemingly insatiable demand for AI chips, Nvidia saw its stock soar nearly 30% after yesterday's financial results.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/",
+      "originalUrl": "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-77.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/amp/",
+      "publishedDateTime": "2023-05-25T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-disrupting-the-disruptive-disrupterswith-ai.md",
       "title": "Disrupting The Disruptive Disrupters—With AI",
       "excerpt": "Competitors large & small, legacy & new, are taking note and fueling the disruptive democratization of fintech. Even the U.S. Government wants to be a service provider",
@@ -1100,161 +1257,6 @@
         "AI",
         "AI in Finance",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-the-trump-desantis-showdown-is-now-official-and-artificial-intelligence-is-right-in-the-middle-of-it.md",
-      "title": "The Trump-DeSantis showdown is now official, and artificial intelligence is right in the middle of it",
-      "excerpt": "In a video posted by Trump, DeSantis and Elon Musk are joined on Twitter Spaces by Adolf Hitler, the FBI, Dick Cheney, George Soros, and Klaus Schwab.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-ai-video-hitler-fbi-devil-ron-desantis-elon-musk-2023-5",
-      "originalUrl": "https://www.businessinsider.com/trump-ai-video-hitler-fbi-devil-ron-desantis-elon-musk-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/646ee4a950731c001938adcc?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-ai-video-hitler-fbi-devil-ron-desantis-elon-musk-2023-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ai-video-hitler-fbi-devil-ron-desantis-elon-musk-2023-5?amp",
-      "publishedDateTime": "2023-05-24T21:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-a-mind-controlled-beer-pouring-robot-has-landed.md",
-      "title": "A mind-controlled beer-pouring robot has landed",
-      "excerpt": "Video by Emma Hallett A mind-controlled beer-pouring robot has landed. Video, 00:01:25A mind-controlled beer-pouring robot has landed Up Next. Police on horseback ride after driver using phone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/uk-england-somerset-64989895?at_bbc_team=editorial&at_link_id=4E7CCCA2-C4D0-11ED-980B-A0E6ECABB293&at_campaign_type=owned&at_format=link&at_link_type=web_link&at_ptr_name=twitter&at_link_origin=BBCBristol",
-      "originalUrl": "https://www.bbc.com/news/av/uk-england-somerset-64989895?at_bbc_team=editorial&at_link_id=4E7CCCA2-C4D0-11ED-980B-A0E6ECABB293&at_campaign_type=owned&at_format=link&at_link_type=web_link&at_ptr_name=twitter&at_link_origin=BBCBristol",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/156D1/production/_129016778_p0f9c0v9.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T17:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-an-early-warning-system-for-novel-ai-risks.md",
-      "title": "An early warning system for novel AI risks",
-      "excerpt": "AI researchers already use a range of evaluation benchmarks to identify unwanted behaviours in AI systems, such as AI systems making misleading statements, biased decisions, or repeating copyrighted content. Now, as the AI community builds and deploys increasingly powerful AI, we must expand the evaluation",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/an-early-warning-system-for-novel-ai-risks",
-      "originalUrl": "https://www.deepmind.com/blog/an-early-warning-system-for-novel-ai-risks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/646f6e9992ceb1a002f3c316_16x9-min.jpg",
-          "width": 3841,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

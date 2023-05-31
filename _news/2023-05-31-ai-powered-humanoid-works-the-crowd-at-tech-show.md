@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-th
 cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-the-crowd-at-tech-show/amp/"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -30,14 +30,14 @@ related:
   - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
     excerpt: "Robots are on display at the International Conference on Robotics and Automation in London, where visitors can get a glimpse of the future"
     publishedDateTime: 2023-05-30T17:34:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699799"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699799"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699799"
+    webUrl: "https://abcnews.go.com/International/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699797"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699797"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699797"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 57
+    quality: 74
     images:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834

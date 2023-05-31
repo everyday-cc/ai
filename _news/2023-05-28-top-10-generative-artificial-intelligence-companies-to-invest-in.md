@@ -66,6 +66,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "IBM Consulting introduces Center of Excellence for generative AI to empower business transformation"
+    excerpt: "implementing and managing generative AI solutions. This approach involves integrating multiple models from industry-leading providers on various cloud platforms. Furthermore, with the cutting-edge innovations from IBM Research and the capabilities of the ..."
+    publishedDateTime: 2023-05-26T19:07:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-consulting-introduces-center-excellence-generative-ai-empower-business-transformation/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 57
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1233363927-e1628896963459.jpg?fit=750%2C499&#038;strip=all"
+        width: 750
+        height: 375
+        isCached: true
   - title: "VB Transform: Navigating the generative AI wave, insights from top executives at major corporations"
     excerpt: "Enterprise speakers slated to join us at our VB Transform event on July 11 and 12 will shed light on their generative AI initiatives."
     publishedDateTime: 2023-05-26T18:18:00Z

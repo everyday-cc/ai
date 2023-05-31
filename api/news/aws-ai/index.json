@@ -941,17 +941,26 @@
       "title": "Nigeria election: The mystery of the altered results in disputed poll",
       "excerpt": "On 25 February, Nigerians cast their votes at thousands of polling stations across the country. At each polling station, the votes for the party of each candidate were publicly announced and the results sheets taken for collation first at the ward level, then at local government (LGA) centres.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/65163713?at_link_origin=BBC_News&at_link_id=F7D1BAE0-F3C1-11ED-A1D3-487EFF7C7F44&at_format=link&at_ptr_name=facebook_page&at_campaign_type=owned&at_link_type=web_link&at_bbc_team=editorial",
-      "originalUrl": "https://www.bbc.com/news/65163713?at_link_origin=BBC_News&at_link_id=F7D1BAE0-F3C1-11ED-A1D3-487EFF7C7F44&at_format=link&at_ptr_name=facebook_page&at_campaign_type=owned&at_link_type=web_link&at_bbc_team=editorial",
+      "webUrl": "https://www.bbc.com/news/65163713?s=09",
+      "originalUrl": "https://www.bbc.com/news/65163713?s=09",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/A39C/production/_129748814_nigeria_officials_epa.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.bbc.com/news/65163713.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/65163713.amp",
       "publishedDateTime": "2023-05-15T17:02:00-07:00",
       "updatedDateTime": null,
       "provider": {

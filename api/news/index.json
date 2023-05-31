@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-31-china-warns-of-risks-from-artificial-intelligence-calls-for-beefed-up-national-security-measures.md",
+      "title": "China warns of risks from artificial intelligence, calls for beefed-up national security measures",
+      "excerpt": "BEIJING -- China warns of risks from artificial intelligence, calls for beefed-up national security measures.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/International/wireStory/china-warns-risks-artificial-intelligence-calls-beefed-national-99716270",
+      "originalUrl": "https://abcnews.go.com/International/wireStory/china-warns-risks-artificial-intelligence-calls-beefed-national-99716270",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/china-warns-risks-artificial-intelligence-calls-beefed-national-99716270",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/china-warns-risks-artificial-intelligence-calls-beefed-national-99716270",
+      "publishedDateTime": "2023-05-30T22:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-ai-and-the-battle-to-get-hybrid-working-right.md",
+      "title": "AI And The Battle To Get Hybrid Working Right",
+      "excerpt": "New technology has the potential to make the divide between in-person and remote working less apparent. But it also threatens many roles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rogertrapp/2023/05/30/ai-and-the-battle-to-get-hybrid-working-right/",
+      "originalUrl": "https://www.forbes.com/sites/rogertrapp/2023/05/30/ai-and-the-battle-to-get-hybrid-working-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64767a3aae90d099d7569955/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 757,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rogertrapp/2023/05/30/ai-and-the-battle-to-get-hybrid-working-right/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogertrapp/2023/05/30/ai-and-the-battle-to-get-hybrid-working-right/amp/",
+      "publishedDateTime": "2023-05-30T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-tech-up-on-ai-enthusiasm-tech-roundup.md",
       "title": "Tech Up on AI Enthusiasm -- Tech Roundup",
       "excerpt": "Shares of technology companies rose slightly as optimism about new artificial-intelligence developments buoyed some mega cap stocks. Nvidia crossed",
@@ -552,6 +646,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-31-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
+      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
+      "excerpt": "Robots are on display at the International Conference on Robotics and Automation in London, where visitors can get a glimpse of the future",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/International/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699797",
+      "originalUrl": "https://abcnews.go.com/International/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699797",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699797",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699797",
+      "publishedDateTime": "2023-05-30T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-amazon-sagemaker-xgboost-now-offers-fully-distributed-gpu-training.md",
       "title": "Amazon SageMaker XGBoost now offers fully distributed GPU training",
       "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",
@@ -707,7 +844,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 395,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1008,7 +1145,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/30/ai--ip-data-protection-at-the-crossroads-of-innovation-and-intellectual-property/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1091,162 +1228,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-is-ai-easier-to-control-than-gain-of-function-research-on-viruses-it-depends-on-whom-you-ask.md",
-      "title": "Is AI Easier To Control Than Gain-Of-Function Research On Viruses? It Depends On Whom You Ask.",
-      "excerpt": "AI scientists think AI should be regulated because it might be dangerous. Virologists working to create deadly viruses think they can regulate themselves. Hmm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevensalzberg/2023/05/30/is-ai-easier-to-control-than-gain-of-function-research-on-viruses-it-depends-on-whom-you-ask/",
-      "originalUrl": "https://www.forbes.com/sites/stevensalzberg/2023/05/30/is-ai-easier-to-control-than-gain-of-function-research-on-viruses-it-depends-on-whom-you-ask/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6474a700a75bc6b0cb7b69d9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevensalzberg/2023/05/30/is-ai-easier-to-control-than-gain-of-function-research-on-viruses-it-depends-on-whom-you-ask/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevensalzberg/2023/05/30/is-ai-easier-to-control-than-gain-of-function-research-on-viruses-it-depends-on-whom-you-ask/amp/",
-      "publishedDateTime": "2023-05-30T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-five-next-level-marketing-uses-for-ai.md",
-      "title": "Five Next-Level Marketing Uses For AI",
-      "excerpt": "Tom Wozniak heads up Marketing and Communications as the COO for OPTIZMO Technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/five-next-level-marketing-uses-for-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/five-next-level-marketing-uses-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6470eb7f789ac5b53803a6f8/0x0.jpg?format=jpg&width=1200",
-          "width": 400,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/five-next-level-marketing-uses-for-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/five-next-level-marketing-uses-for-ai/amp/",
-      "publishedDateTime": "2023-05-30T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation.md",
-      "title": "Nvidia Dominates AI Silicon, But That Doesn’t Justify A $1 Trillion Valuation",
-      "excerpt": "Nvidia (NASDAQ: NVDA) stock surged by 24% in Thursday’s trading after the company posted a better-than-expected set of Q1 FY’24 results and provided Q2 revenue guidance that was well ahead of Street estimates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647591d4304997e476bb5bd0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/amp/",
-      "publishedDateTime": "2023-05-30T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

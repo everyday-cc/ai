@@ -2,6 +2,125 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-05-23-endless-adventures-will-enable-gamers-to-create-narrative-games-with-no-code-tools-and-ai.md",
+      "title": "Endless Adventures will enable gamers to create narrative games with no-code tools and AI",
+      "excerpt": "Endless Adventures came out of stealth at GamesBeat Summit 2023 to talk about the intersection of gaming, AI and user-generated content.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/endless-adventures-will-enable-gamers-to-create-narrative-games-with-no-code-tools-and-ai/",
+      "originalUrl": "https://venturebeat.com/games/endless-adventures-will-enable-gamers-to-create-narrative-games-with-no-code-tools-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/ENDLESS-5_Gameplay.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/endless-adventures-will-enable-gamers-to-create-narrative-games-with-no-code-tools-and-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/endless-adventures-will-enable-gamers-to-create-narrative-games-with-no-code-tools-and-ai/amp/",
+      "publishedDateTime": "2023-05-22T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-cognitive-dissonance-what-to-know.md",
+      "title": "Cognitive dissonance: What to know",
+      "excerpt": "Cognitive dissonance is the discomfort a person feels when their behavior does not align with their values or beliefs. Cognitive dissonance is not a disease or illness. It is a psychological ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medicalnewstoday.com/articles/326738",
+      "originalUrl": "https://www.medicalnewstoday.com/articles/326738",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical News Today",
+        "domain": "medicalnewstoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-edge-ai-and-vision-alliance-announces-2023-edge-ai-and-vision-product-of-the-year-award-winners.md",
+      "title": "Edge AI and Vision Alliance™ Announces 2023 Edge AI and Vision Product of the Year™ Award Winners",
+      "excerpt": "Awards Celebrate Innovation and Achievement in Computer Vision and Edge AI SANTA CLARA, Calif.,  /PRNewswire/ -- The Edge AI and Vision Alliance today announced the 2023 winners of the Edge AI and Vision Product of the Year Awards.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/05/23/9819895.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/05/23/9819895.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-meta-open-sources-computer-vision-foundation-model-dinov2.md",
       "title": "Meta Open-Sources Computer Vision Foundation Model DINOv2",
       "excerpt": "Meta AI Research open-sourced DINOv2, a foundation model for computer vision (CV) tasks.DINOv2 is pretrained on a curated dataset of 142M images and can be used as a backbone for several tasks ...",
@@ -1036,135 +1155,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-12-best-artificial-intelligence-ai-stocks-to-buy-for-2023.md",
-      "title": "12 Best Artificial Intelligence (AI) Stocks To Buy For 2023",
-      "excerpt": "The artificial intelligence (AI) chatbot conducts nearly ... All are positioned for gains as robotics and AI adoption rises. Sector exposure is primarily in technology, industry and healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/",
-      "originalUrl": "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63eeaae555e0f25c5c2ed0f6/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-automotive-deep-learning-platform-shifts-to-cloud.md",
-      "title": "Automotive deep learning platform shifts to cloud",
-      "excerpt": "One more chipmaker is taking its semiconductor design solutions to the cloud in a bid to reinvent the developer experience while easing evaluation tasks for deep learning-based automotive designs. In collaboration with software house Fixstars, Renesas is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/automotive-deep-learning-platform-shifts-to-cloud/",
-      "originalUrl": "https://www.embedded.com/automotive-deep-learning-platform-shifts-to-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-22-how-artificial-intelligence-is-revolutionising-healthcare.md",
-      "title": "How Artificial Intelligence is revolutionising healthcare",
-      "excerpt": "Artificial Intelligence (AI ... AI is often far more cost-efficient than manual healthcare. Its development could therefore make medical treatment and care possible for more people, including ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.euronews.com/next/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare",
-      "originalUrl": "https://www.euronews.com/next/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/stories/06/77/95/72/1000x563_cmsv2_318135f2-319f-5def-a5e6-ef3157a46aa7-6779572.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
