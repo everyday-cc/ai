@@ -55,6 +55,20 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Chat-powered AI boom is helping rewrite the winners and losers of the chip market"
+    excerpt: "Intel's foundry transition continues to be a slow and pock-marked affair with several partners either pulling out of or pausing previous commitments according"
+    publishedDateTime: 2023-05-30T20:41:00Z
+    webUrl: "https://www.onmsft.com/news/chat-powered-ai-boom-is-helping-rewrite-the-winners-and-losers-of-the-chip-market/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 49
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/05/Intel-vs.-NVIDIA-Chipmakers-Bing-Image-Creator.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "+TBHFODs7xVAUZLv1QhQbHZVVc0UspegNkGC67dTkbabjqMcMOoBVyJ0/37Lds+IQyP74LaeaGGFyWKzx6PAllvXYgSAHX15sNZOHBxt78TKmHLwZQN17Cb2CVm88R8k2Q+a955hrDW8NXELoYnJq5nJeq7xLmUM/ACOTuDBM56eCLfKMcSlwvnWeNR4S82jLKQg8dYbGCXR5DTuF+yUl3VNC0ULFl6q9IX2gIGLGWb5MC5w2nyxT6Mdfc+CiDfZVJenGqbXNXIE+Grfys9/H3COPmHdNF1yASR1Ph91/zLNz/KB4ADYjuak9fAyL9yoMwW+2FNSFqfLQ0t//izUxs2Ps/kQSRabHAhx2+Mk8zs=;kw8Y82v+Kh99dRKf8v0LSw=="
 ---

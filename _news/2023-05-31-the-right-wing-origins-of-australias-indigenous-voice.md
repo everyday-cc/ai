@@ -39,6 +39,22 @@ related:
         width: 691
         height: 389
         isCached: true
+  - title: "Attorney general urges Australians not to lose sight of principles of Indigenous recognition"
+    excerpt: "The Liberal party amplifies its opposition to the voice to parliament, as government brands opponents ‘a muddle’"
+    publishedDateTime: 2023-05-31T07:42:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/may/31/attorney-general-urges-australians-not-to-lose-sight-of-principles-of-indigenous-recognition"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/may/31/attorney-general-urges-australians-not-to-lose-sight-of-principles-of-indigenous-recognition"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/may/31/attorney-general-urges-australians-not-to-lose-sight-of-principles-of-indigenous-recognition"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 33
+    images:
+      - url: "https://i.guim.co.uk/img/media/37550566f3d36b76f9e657c24d902ad620cddd7e/0_275_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=640f54b5ed37a875fd07df114ef1ad3e"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Dreaming of a brighter future, Voice advocates call for Australia’s healing"
     excerpt: "Linda Burney has told an audience in Canberra the story of Australia is incomplete, starting with what the constitution does not acknowledge."
     publishedDateTime: 2023-05-31T00:21:00Z

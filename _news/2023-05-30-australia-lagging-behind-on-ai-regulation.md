@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Attorney general urges Australians not to lose sight of principles of Indigenous recognition"
+    excerpt: "The Liberal party amplifies its opposition to the voice to parliament, as government brands opponents ‘a muddle’"
+    publishedDateTime: 2023-05-31T07:42:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/may/31/attorney-general-urges-australians-not-to-lose-sight-of-principles-of-indigenous-recognition"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/may/31/attorney-general-urges-australians-not-to-lose-sight-of-principles-of-indigenous-recognition"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/may/31/attorney-general-urges-australians-not-to-lose-sight-of-principles-of-indigenous-recognition"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 33
+    images:
+      - url: "https://i.guim.co.uk/img/media/37550566f3d36b76f9e657c24d902ad620cddd7e/0_275_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=640f54b5ed37a875fd07df114ef1ad3e"
+        width: 620
+        height: 372
+        isCached: true
   - title: "The right-wing origins of Australia’s indigenous Voice"
     excerpt: "A book by two central advocates of the Labor government’s Voice scheme shows that, far from being a grassroots movement, it originated as a bid to head off anger and disaffection among ordinary indigenous people."
     publishedDateTime: 2023-05-31T04:32:00Z

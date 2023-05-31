@@ -175,6 +175,20 @@ related:
         width: 1200
         height: 702
         isCached: true
+  - title: "Microsoft thoughts on the future of AI"
+    excerpt: "Eric Horvitz Chief Scientific Officer at Microsoft has taken to the official Microsoft blog this week to write an article on the future of AI and the"
+    publishedDateTime: 2023-05-31T08:58:00Z
+    webUrl: "https://www.geeky-gadgets.com/the-future-of-ai-31-05-2023/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/the-future-of-AI.jpg"
+        width: 700
+        height: 475
+        isCached: true
   - title: "Nvidia to demand a premium for AI chips"
     excerpt: "The AI hype is providing Nvidia with plenty of cashflow. Announcements of new Nvidia partners keep coming, but it seems the company will continue to face"
     publishedDateTime: 2023-05-30T14:59:00Z
@@ -268,15 +282,6 @@ related:
         width: 1152
         height: 768
         isCached: true
-  - title: "How Nvidia created the chip powering the generative AI boom"
-    excerpt: "“This is important as it lets us all train bigger models faster as this moves from a research to an engineering problem.” While the timing of the H100’s launch was ideal, Nvidia’s breakthrough in AI can be traced back almost two decades to an ..."
-    publishedDateTime: 2023-05-26T16:52:00Z
-    webUrl: "https://www.ft.com/content/315d804a-6ce1-4fb7-a86a-1fa222b77266"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 36
   - title: "MediaTek and Nvidia to develop AI cabin solutions for software-defined vehicles"
     excerpt: "MediaTek will work with Nvidia to deliver automotive solutions that surpass the industry’s growing needs and demands while posing a significant market opportunity for the companies."
     publishedDateTime: 2023-05-30T05:42:00Z

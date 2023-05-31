@@ -42,18 +42,20 @@ related:
         height: 256
         isCached: true
   - title: "China warns of artificial intelligence risks, calls for beefed-up national security measures"
-    excerpt: "China's ruling Communist Party is calling for beefed-up national security measures, highlighting risks from artificial intelligence. The official Xinhua News Agency said a meeting headed by party lead"
-    publishedDateTime: 2023-05-31T05:22:00Z
-    webUrl: "https://www.postregister.com/businessreport/healthcare/china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/article_491edfdd-a862-5587-862d-75f26b4cc266.html"
+    excerpt: "China’s ruling Communist Party has warned of the risks posed by advances in artificial intelligence while calling for heightened national security measures. A meeting headed by"
+    publishedDateTime: 2023-05-31T07:21:00Z
+    webUrl: "https://thehill.com/homenews/ap/ap-technology/ap-china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/"
+    ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ap-china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ap-china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/amp/"
     type: article
     provider:
-      name: Post Register
-      domain: postregister.com
-    quality: 45
+      name: The Hill
+      domain: thehill.com
+    quality: 65
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/b/84/b8440cdf-6a54-581b-9d12-ead7e39aa5b5/6476db5368c36.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/05/647705c757cbc6.34467087.jpeg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Alert: China warns of risks from artificial intelligence, calls for beefed-up national security measures"
     excerpt: "China warns of risks from artificial intelligence, calls for beefed-up national security measures."

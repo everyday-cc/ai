@@ -219,6 +219,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "EU officials to meet OpenAI CEO again in June over AI laws"
+    excerpt: "The meeting, which is most likely to take place in San Francisco, will see the two parties discuss how OpenAI will implement the EU’s AI regulations that will come into effect in 2026."
+    publishedDateTime: 2023-05-31T03:48:00Z
+    webUrl: "https://www.computerworld.com/article/3697754/eu-officials-to-meet-openai-ceo-again-in-june-over-ai-laws.html"
+    ampWebUrl: "https://www.computerworld.com/article/3697754/eu-officials-to-meet-openai-ceo-again-in-june-over-ai-laws.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3697754/eu-officials-to-meet-openai-ceo-again-in-june-over-ai-laws.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.techhive.com/images/article/2017/01/p029684001801-819244-100706761-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 552
+        isCached: true
   - title: "A.I. Poses ‘Risk of Extinction,’ Industry Leaders Warn"
     excerpt: "Leaders from OpenAI, Google Deepmind, Anthropic and other A.I. labs warn that future systems could be as deadly as pandemics and nuclear weapons."
     publishedDateTime: 2023-05-30T09:00:00Z
@@ -454,6 +470,6 @@ related:
       domain: thestreet.com
     quality: 17
 
-secured: "pL4h93e7p8tJsSn0m4/DKb2PnO24+w2iiZR7d6MNEKxO1Xi/U6LNhEHcP/pe7ww4c7oZyGU6wgdrOcAcyZwliZdmoJ/J/Uj7KjffABguzIggjCX/SX7eLx8F+nG9IiTK12c5pWm1npzv3wYXpZGg0KdHmxuGFYJ1YDpkYio87UrOVgJL6VMZdCFn7Q+B4BF/aoGb72SHaC8KmAh+oDnN82Fld2wu2HsYyfaQchyAMCIm0qwuKus4v1fEG+d0sCyqQEq+hjH4EY42cVZ9GcqCnnan58lfV0IekpGxRX4uDTUQm9+GWY9GhfCL1W1/k1dZDXiNuWa4/q6HweV5z8CxASZVZtXoAUlbdbtKbZfcnuU=;jbUigpXH3lt1F/Fo3AChpQ=="
+secured: "6JQk/enZ0dmDEDXTqZJ5Sowl6OkiVAeZEkeJbiwmJer9e9MqsND0GPw7YV7H7TT74zbt6RDKl2DsWj6wMRxBMAK0cKaf1QVczi94B9NIeBqrqQ63uSv2MRkYoEW+VzNqGQQc0UT/2oiVgJ3Cx5z7AtWnYiNAvghXFPtoVTXrWXNtxMdfACJKZH0Md0U+1IOOPr/x3yad8z1FyydYGp8hQWeNMfZsMV+buurXPrBYZd33GujcNtYswtdNcenLghv33jUiWv4IST+cWj/pK3pWB28HTwOhXmHlDZh3Fp+leL/Kvt4ysuqnlsU+VUR0VMYW5y/G0d4S9m3sH4+bOln2iAb1KT6C8GEm+NUQwTCiRYJ6ujA/xW9FTP89Rrg0J5G491gqeyfzQG2fGitywIVxmEZxtEOO7YnndTNdpEY0Z3ZwAlMx6h9N31vIJleMamnItRPCfoVYye00bFhc6xpQoRqPUtWqQoIaYNN/NGcSwyHnok7tS0uEV2826DUZVDXf4bPgKYN6X027nHUtZfW/XA==;+sN76ZxUa7e+CHJ56bI98w=="
 ---
 

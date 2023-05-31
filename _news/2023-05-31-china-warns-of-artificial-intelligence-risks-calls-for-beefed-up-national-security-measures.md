@@ -1,28 +1,30 @@
 ---
 category: news
 title: "China warns of artificial intelligence risks, calls for beefed-up national security measures"
-excerpt: "China's ruling Communist Party is calling for beefed-up national security measures, highlighting risks from artificial intelligence. The official Xinhua News Agency said a meeting headed by party lead"
-publishedDateTime: 2023-05-31T05:22:00Z
-originalUrl: "https://www.postregister.com/businessreport/healthcare/china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/article_491edfdd-a862-5587-862d-75f26b4cc266.html"
-webUrl: "https://www.postregister.com/businessreport/healthcare/china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/article_491edfdd-a862-5587-862d-75f26b4cc266.html"
+excerpt: "China’s ruling Communist Party has warned of the risks posed by advances in artificial intelligence while calling for heightened national security measures. A meeting headed by"
+publishedDateTime: 2023-05-31T07:21:00Z
+originalUrl: "https://thehill.com/homenews/ap/ap-technology/ap-china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/"
+webUrl: "https://thehill.com/homenews/ap/ap-technology/ap-china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/"
+ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ap-china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/amp/"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ap-china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures/amp/"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Post Register
-  domain: postregister.com
+  name: The Hill
+  domain: thehill.com
 
 topics:
-  - AI in Healthcare
+  - Facebook AI
   - AI
   - AI in Security
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/b/84/b8440cdf-6a54-581b-9d12-ead7e39aa5b5/6476db5368c36.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://thehill.com/wp-content/uploads/sites/2/2023/05/647705c757cbc6.34467087.jpeg?w=1280"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -66,6 +68,6 @@ related:
       domain: chron.com
     quality: 17
 
-secured: "TDSFD0+DY4wMIzwNX6hDKdJAoxLpNowv15M2RZjvZ0q4ychaTxNKKcZvl4uDkJGUmfBKdfFMzdW9CFRq6+IRcTpnmKAYHjz31/HNeIJURTO31SqfH920+lmP+EQa4wce9PaS+r3K53+46nnUg4T7FdvgxOQSCCTaW8uaJosafI6gFaJzodz0FKehm+croYpJfM1HXn5XnJZYr0/DQ7ohgiQHQQ8E01S7eVD2Zr2/OOw1gfMgosztW5+VHB53pQ0L9/86WDtKa9UaamNVqoj6rgKgRla4/5l1s/8JrHHxi0yAZyyZNZNtwQ7+m4ImFZFfcEoHYWpBs08nhyt7Uah4Rjb15v3yyM9R2gb+eL395FA=;IREGthkGYI3EXkfReg2RLg=="
+secured: "X84xVnStDH650c4LFAyofJjax2nXrANtJ1wtGbJcCqRRqyBxuDmmkmHk91R75oGeaARdMmte3u2M86FLv1V5LvY+iF0UP+m4pWCG/ZO8G9IX1o0qfWdnAgLvrU3YeT5RlF5iY6EDBGsuka+/ikt6akneacM1XyElMUmVFaM5pPp8XxJBqcZHvG3fihoLQ1zWlZFkDyRlokne5mwN41irrSNMXgReyVTFr/0taNJYDKaaCggMdWsLJQZgDh6lhQPdKkObW/OU55bU24d9Yu24E+bJNXoLq6PMlCfIyCjozISBDnYaYWpQRe17Ciuwk+PwXnJuCHoO/LZcQY13rqkawBVXpFzouMgqS45QFzXXPCc=;JLBdCHMpBU1Tglv1MDRNMQ=="
 ---
 

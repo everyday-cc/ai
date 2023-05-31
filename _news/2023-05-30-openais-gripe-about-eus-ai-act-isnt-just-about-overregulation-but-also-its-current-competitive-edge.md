@@ -26,22 +26,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Does Character AI allow NSFW content? Users start petition about filter rules"
-    excerpt: "AI has exploded onto the internet in the last year, with many sites and apps taking advantage of the tech. One of which is Character AI, a chatbot with a difference. However, some have become annoyed at the filter rules and have started a petition."
-    publishedDateTime: 2023-05-26T16:15:00Z
-    webUrl: "https://www.hitc.com/en-gb/2023/05/26/does-character-ai-allow-nsfw-content-users-start-petition-about-filter-rules/"
-    type: article
-    provider:
-      name: HITC
-      domain: hitc.com
-    quality: 34
-    images:
-      - url: "https://www.hitc.com/static/uploads/2023/05/GettyImages-1184809801-scaled.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-
 secured: "QP8er5ojyc3kBrKzYsrXUN3lXNEL58sfPh+kEdYPoGuYW2IPHtyocdEkk2uqIFRj5g6Wa9L5osXHAD5ivCY+8cVLLO96QEHxSIqCbqCIqUj7bkw/WK8BpFFsBbev7AVAEEomdkUtE0N5yvBvELXRodc4Zw0v5dT3Vzh/pPL7Tvn+3kGUTIDVzbVkpA5BXZ5iziyHGeOQJWl3CEvwpkVoX9UzSPMj3xGiiEJvWC2C+g9fpXM64x2kLls0dVgBTPblcSM1BRDHCSY50XPvshLQAmkS05T1doQqrKxabD5vwedh9OJ5sSwvsZuXsFKRXXJ6AQ/2ezwaq8sBvg0nln7NjDjKzm2HUdbLiBzaMEzKptI=;qK78eslt0uSF3f1Y7G0e6Q=="
 ---
 

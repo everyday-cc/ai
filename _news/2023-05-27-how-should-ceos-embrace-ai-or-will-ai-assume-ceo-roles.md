@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/05/26/how-should-ceos-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/05/26/how-should-ceos-embrace-ai-or-will-ai-assume-ceo-roles/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hands are more critical for robot intelligence than AI, says robotics CEO"
+    excerpt: "In fact, they don't address the central problem of intelligence at all, which is how to understand the world around you, and then act on it. For Rose, and for the humanoid robots built and operated by Sanctuary AI,"
+    publishedDateTime: 2023-05-31T09:29:00Z
+    webUrl: "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo"
+    ampWebUrl: "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 88
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-05/597F4F78-034F-4C75-A533-1DD249D8DA70.jpeg"
+        width: 770
+        height: 500
+        isCached: true
   - title: "Slack CEO looks to artificial intelligence for help in rolling out new products"
     excerpt: "One way to break the cycle of drudgery, at least from her point of view, is by effective use of messaging software, particularly when enhanced by artificial intelligence. As the newly christened chief executive of Slack, the messaging app, you would expect ..."
     publishedDateTime: 2023-05-29T01:56:00Z

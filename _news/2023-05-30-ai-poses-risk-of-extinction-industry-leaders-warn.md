@@ -224,6 +224,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "EU officials to meet OpenAI CEO again in June over AI laws"
+    excerpt: "The meeting, which is most likely to take place in San Francisco, will see the two parties discuss how OpenAI will implement the EU’s AI regulations that will come into effect in 2026."
+    publishedDateTime: 2023-05-31T03:48:00Z
+    webUrl: "https://www.computerworld.com/article/3697754/eu-officials-to-meet-openai-ceo-again-in-june-over-ai-laws.html"
+    ampWebUrl: "https://www.computerworld.com/article/3697754/eu-officials-to-meet-openai-ceo-again-in-june-over-ai-laws.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3697754/eu-officials-to-meet-openai-ceo-again-in-june-over-ai-laws.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.techhive.com/images/article/2017/01/p029684001801-819244-100706761-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 552
+        isCached: true
   - title: "Frightening new warning Artificial Intelligence presents 'risk of extinction'"
     excerpt: "Experts are claiming AI should be seen as a \"global priority\" on the same level as a pandemic or nuclear warfare."
     publishedDateTime: 2023-05-30T11:51:00Z

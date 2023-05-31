@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/science/indian-languages-chatgpt-l
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -99,6 +99,15 @@ related:
         width: 800
         height: 480
         isCached: true
+  - title: "Here Are 30 New Jobs Language Industry CEOs Expect to Hire for in the AI Age"
+    excerpt: "As LLMs are put into production across the translation industry, CEOs will recruit for roles such as Prompt Engineers or Source Language AI Copy Editors."
+    publishedDateTime: 2023-05-31T09:00:00Z
+    webUrl: "https://slator.com/30-new-jobs-language-industry-ceos-expect-to-hire-ai-age/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 16
 
 secured: "MsGT49y2i6Okj6f7dQnTegRhter5j7+j3gvLOULHijMQzfADyWVmdUSDd4IcGPkeAu45CbCDyCbVrnihN2+OfP5neBwyep6Aed94efN6w2Moa6amXzU1iv5ny5Rbioxyi0HdaIsIi+1Cgs/d1YpJcWb1gRLRPS9kncDnykoejY0YgtT7F4xOB8MOKbZ9yL3IdjzzDc8Vil6tk6RPgunwqJaE44N/EKbaiJvp4Nzs5qA60TkEy/hsI7SH6csx+YpMsQgXo1gXqJFp5hOC788uZ2iSMjjBptRK2b4cshjtCVtVhGHE0ApRjVFccMHvek6Pf2A2THI0nBC748NmCghbwpcyY5Ls3XzM8Ie968vjuByDHSoeWEc/RZUTyF7eTHXqJ3tuHxjkF3zphVtTPlvXg2UlXUaCQwOiSkx8TuPH+SklBwrUtpCupWI3GzGOK6WAlwQ5sLCOkXgsrBoMsy+GlSA0VgtPRpn3PCn/PxoYHtCxNX0gC9c35bh+IomOGCw88pZZTmPVUQv7RvV9ncYVIg==;1+uS599iZJfQwNGumbvU4A=="
 ---
