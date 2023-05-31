@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/mediatek-taps-nvidia-gpu-and-ai-for-con
 webUrl: "https://venturebeat.com/ai/mediatek-taps-nvidia-gpu-and-ai-for-connected-car-chipsets/"
 type: article
 quality: 99
-heat: 279
+heat: 289
 published: true
 
 provider:
@@ -229,6 +229,20 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/30/image/jpeg/3sL71HLAMXd4tYS7CJGu8laOnawvwd8VjT2csGpB.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Nvidia, The World's Newest, AI-amped Tech Giant"
+    excerpt: "Nvidia, a chip technology company, became a trillion dollar enterprise this week and the world's newest tech giant. Here are a few key facts about the little-known firm. Nvidia is not an out-of-the-blue startup."
+    publishedDateTime: 2023-05-31T17:21:00Z
+    webUrl: "https://www.ibtimes.com/nvidia-worlds-newest-ai-amped-tech-giant-3696862"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://d.ibtimes.com/en/full/4462012/nvidia-chief-jensen-huang-centre-l-poses-photographs-before-attending-press-conference.jpg"
+        width: 768
+        height: 511
         isCached: true
   - title: "Nvidia debuts more AI supercomputers and services as shares continue to soar"
     excerpt: "Nvidia debuted a host of new AI technologies on Monday, as the chip giant's stock price skyrocketed on a positive second quarter outlook."

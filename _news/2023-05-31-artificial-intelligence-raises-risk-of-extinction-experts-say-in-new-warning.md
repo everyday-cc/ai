@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
-publishedDateTime: 2023-05-31T12:32:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692490"
-webUrl: "https://abcnews.go.com/Business/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692490"
+excerpt: "Leading scientists and tech industry leaders are warning about the perils artificial intelligence poses to humankind, saying “mitigating the risk of extinction from AI should be a global priority.”"
+publishedDateTime: 2023-05-31T07:32:00Z
+originalUrl: "https://madison.com/news/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/article_25149b54-010a-543a-bcea-102afed5c957.html"
+webUrl: "https://madison.com/news/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/article_25149b54-010a-543a-bcea-102afed5c957.html"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Madison.com
+  domain: madison.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/International/wirestory_54ea8aadc60d1503e5a65878219aad43_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/2/51/25149b54-010a-543a-bcea-102afed5c957/6476696440c58.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -85,22 +86,6 @@ related:
     quality: 88
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/6B80/production/_129902572_gettyimages-1257740282.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Artificial intelligence could lead to extinction, experts warn"
-    excerpt: "Artificial intelligence could lead to the extinction of humanity, experts - including the heads of OpenAI and Google Deepmind - have warned. Dozens have supported a statement published on the webpage of the Centre for AI Safety."
-    publishedDateTime: 2023-05-30T16:32:00Z
-    webUrl: "https://www.bbc.com/news/uk-65746524?at_ptr_name=facebook_page&at_link_type=web_link&at_link_origin=BBC_News&at_campaign_type=owned&at_link_id=73422F66-FEEE-11ED-B559-B5127F934D9D&at_bbc_team=editorial&at_format=link"
-    ampWebUrl: "https://www.bbc.com/news/uk-65746524.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-65746524.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/18178/production/_129908689_index-pic_sam_altman_getty.jpg"
         width: 1024
         height: 576
         isCached: true
@@ -218,6 +203,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/03/AI-e1628527067120.jpeg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Artificial intelligence could lead to extinction, experts warn"
+    excerpt: "Artificial intelligence could lead to the extinction of humanity, experts - including the heads of OpenAI and Google Deepmind - have warned. Dozens have supported a statement published on the webpage of the Centre for AI Safety."
+    publishedDateTime: 2023-05-30T16:32:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-65746524?at_ptr_name=facebook_page&at_medium=social&at_link_type=web_link&at_link_origin=BBC_News&at_campaign_type=owned&at_link_id=73422F66-FEEE-11ED-B559-B5127F934D9D&at_bbc_team=editorial&at_campaign=Social_Flow&at_format=link"
+    ampWebUrl: "https://www.bbc.co.uk/news/uk-65746524.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-65746524.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/18178/production/_129908689_index-pic_sam_altman_getty.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Risk of extinction by AI should be global priority, say experts"
     excerpt: "Hundreds of tech leaders call for world to treat AI as danger on par with pandemics and nuclear war"
@@ -384,6 +385,20 @@ related:
         width: 1200
         height: 592
         isCached: true
+  - title: "Leading experts warn of a risk of extinction from AI"
+    excerpt: "The call for guardrails on AI systems has intensified in recent months as public and profit-driven enterprises are embracing new generations of programs."
+    publishedDateTime: 2023-05-31T16:59:00Z
+    webUrl: "https://www.ktoo.org/2023/05/31/ai-risk-extinction-chatgpt/"
+    type: article
+    provider:
+      name: KTOO
+      domain: ktoo.org
+    quality: 39
+    images:
+      - url: "https://media.ktoo.org/wp-content/uploads/2023/05/gettyimages-1462188008-882e18cb60aa9f47fd79679ce541032789ee8e02-aspect-ratio-16-9-1536x864.jpg"
+        width: 1536
+        height: 864
+        isCached: true
   - title: "Tech executives sign warning letter regarding artificial intelligence risks"
     excerpt: "The one-sentence open letter, issued by the nonprofit Center for AI Safety, is both brief and ominous, without extrapolating how the more than 300 signees foresee AI developing into an existential threat to humanity."
     publishedDateTime: 2023-05-31T14:31:00Z
@@ -481,6 +496,6 @@ related:
       domain: chron.com
     quality: 16
 
-secured: "Qp9T0pghaYWg8K/ix3TCyW1JhPNe9l4I02dolWDGJW1hZxRYNf9gmVKYXBNqqqLArHIB01EK21+mMAIXD9jEZ5vutzAM6kh6F54cA7amiA19qLcYyH/SUY7dOcGCLI9cz0ojqCKFj2RCGn2f7gMoTFaO70fCYjUHtu9olYgv7PWxsl3nDKkTiYjMqmkfjVSekYY7bm7hTGTtSmq898Ce/5KBDeXvx8kvqGFCnjH+GdCBqZLrOl8X50Xb3w9dc9s5ePiLCpYyWZ7E0TEOAS4iQdzpBvpo2FA/ZbUTGvFhq3hmDnevAxhJisLiw3OlJ6kTu692tFtAzdKD183pPwm2y7aCl0aVsxr+/tVXG76r9YE=;46VU4QewLb5pb3VvAJcy1A=="
+secured: "O6dVt9/Rqn9YdeDxc2puHtvA5DlrKyytiw+ZVfnLFruj3wwg+6SX230Exy2ztD31DILUmudaTVCsIEr0o1vhw2/KeUigIPGCrUGEfUnXnt6jsS7h1++Z5l4siCNvKpBtXxDwKBC7Ta4qHUwDFRE568EVrE6puK+FVz/H0qJsEfqOEBMMXXucziOlBK9U/BsTh12isLDogVf1vsSKkgPhY8sUwcWd6VM7tSgzCsa1QrKT/9e/5srlZqEZgguAo6xzwswwPVMoyT/aJktV3Y957rTo1U91R9f0UEso7z8wuc5rtYKOUaz14yYwLKXl+Wdr/NyuwH6H8ZCMpjvjXcuY/1ONJ6B8K0uh6co/WbYyQzs=;QwHJlbi4986OER2jbabxDw=="
 ---
 

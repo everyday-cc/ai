@@ -68,6 +68,20 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "AI in China: Xi aims for balance between progress and protection"
+    excerpt: "China calls for heightened national security measures for artificial intelligence. A meeting chaired by President Xi Jinping emphasized the need to safeguard political security and improve security governance of internet data and artificial intelligence."
+    publishedDateTime: 2023-05-31T15:57:00Z
+    webUrl: "https://www.csmonitor.com/World/Asia-Pacific/2023/0531/AI-in-China-Xi-aims-for-balance-between-progress-and-protection"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 37
+    images:
+      - url: "https://images.csmonitor.com/csm/2023/05/1156877_1_053123-China-AI_standard.jpg?alias=standard_900x600"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Alert: China warns of risks from artificial intelligence, calls for beefed-up national security measures"
     excerpt: "China warns of risks from artificial intelligence, calls for beefed-up national security measures."
     publishedDateTime: 2023-05-31T05:19:00Z

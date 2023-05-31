@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
     quality: 39
     images:
       - url: "https://d.ibtimes.co.uk/en/full/1715771/artificial-intelligence.png"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Max Cooper is using AI to push the frontiers of creativity and communication"
+    excerpt: "The acclaimed London-based music producer — known for his ethereal sounds and visually hypnotic live performances — discusses the limits of human language, the future of music, the dangers of unchecked AI research and the mysteries of consciousness."
+    publishedDateTime: 2023-05-31T16:14:00Z
+    webUrl: "https://www.thedrum.com/news/2023/05/31/max-cooper-ai-the-future-music-and-consciousness"
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
+    quality: 36
+    images:
+      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/thumbnail_image_6487327.jpeg?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
         width: 1280
         height: 853
         isCached: true

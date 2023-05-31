@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/informa
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-startups/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "Top 10 Entrepreneurs to Watch in 2023"
-    excerpt: "Watch out, 2023 — the following groundbreaking entrepreneurs are coming for you! From serial entrepreneurship and investing to trauma-informed therapy and women’s rights, their specialties span a wide range of industries,"
-    publishedDateTime: 2023-05-30T20:44:00Z
-    webUrl: "https://www.laweekly.com/top-10-entrepreneurs-to-watch-in-2023/"
-    type: article
-    provider:
-      name: Laweekly
-      domain: laweekly.com
-    quality: 4
 
 secured: "DqWoAXm6kbFjNktnHI2lo6Nn/IoRttpY60ba8NHwifNd7PdEvHzB3w7WZ245S93qO4uWdu9A9FBDhX8O0Dy7HCDL6gNQq4uFFOxIEUTL0oo+hM0Pf+s9lFg1CbkwTUP+bjMJC8ifHQI5zy6XTBS8BFZOeOrytmA5GeMz1/BWGYEb1wMj6ceXehjPXBiJFoK2fUL3lEizbEY2wQH8QisKdJRG10purFO97Gw57Ou45TZIY7mN94w6z+Yq5VyuO226unKxtAGCeF3dacvtPIkyjCvIQlM5kPXLbs04u9mB6dKU4S+PPSzvvXpbvWDu/9cpR+7urSf/9xGqVaVe9Q8qjU2eiyRQZMPAlow88tu26LcxC3Jmjzpcz23UQannNq2xFNWoGkstioz/LeU9Om/nTTkWxhs97/Q0tyVgvOw0LI4433ApMcvPFzNS5Go5L3q3Nh4BSrC8QvO6KeBJzmHTzrQwyOhUYq53QoFiDJef71iYRPkXvvO42eCK8vRikVNBjDnBEsWYGDPZArb+ysqACA==;BlTq8oJx5FOdNi03Qr/OAA=="
 ---

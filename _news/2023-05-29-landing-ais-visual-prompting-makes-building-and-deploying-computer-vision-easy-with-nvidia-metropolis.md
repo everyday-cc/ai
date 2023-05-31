@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-s-visua
 webUrl: "https://markets.businessinsider.com/news/stocks/landing-ai-s-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropolis-1032355971"
 type: article
 quality: 68
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/29/image/jpeg/jEpzwifYF4BB69ZwTB9uBNJSgOcgWayWXzWHUEZr.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Nvidia's reboot: How the processing giant made the shift from gaming to AI"
+    excerpt: "Nvidia is ready to deliver improved solutions to meet the rising requirements. The venerable V100 chip is still powerful but the more recent H100 model can crunch AI data nearly 10 times faster and also supports superior interconnection features for much ..."
+    publishedDateTime: 2023-05-31T17:43:00Z
+    webUrl: "https://www.usatoday.com/story/money/2023/05/31/how-nvidia-reinvented-itself/70265023007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 37
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/05/25/USAT/96ccb936-a4f1-428e-a72b-d8bd5c1eb7a5-70210697007-artificial-intelligence-ai.jpg?auto=webp&crop=2101,1182,x0,y213&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Methane-cutting genetics research and disease-preventing AI project among Farming Innovation grant winners"
     excerpt: "Ground-breaking research that could advance the UK dairy industry’s sustainability and efficiency is being funded through Defra’s Farming Innovation Program."

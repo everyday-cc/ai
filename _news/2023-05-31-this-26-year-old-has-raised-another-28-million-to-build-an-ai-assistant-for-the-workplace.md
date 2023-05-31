@@ -42,7 +42,21 @@ related:
         width: 720
         height: 719
         isCached: true
+  - title: "Specialized Cloud Provider CoreWeave Rides AI Wave To Another $200M Round"
+    excerpt: "CoreWeave, an AI cloud infrastructure company, has raised another $200 million in a Series B extension funding round that values it at $2 billion"
+    publishedDateTime: 2023-05-31T16:50:00Z
+    webUrl: "https://news.crunchbase.com/cloud/ai-coreweave-funding-venture/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 38
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Cloud_Computing.jpg"
+        width: 900
+        height: 506
+        isCached: true
 
-secured: "o8vDVQv2u9MCefVtiejL8njeN3M8g2IDtSRC+HgzGS18Ngz5kuU6dytUmZk6TF58w4Ep3TMBNSZ6U/UwUCz2qhvQ9sTLg+b1ck50FcrfW3yyTHDG9HD6BPJC9G/CJjQrZuKUXxuBAUsr9lggE5A8HPvE05/z4Alor/vYW4wYmq/BFHVkdXZrApE66+XIyZZfqJuCpdX5xl7xyXBvl4OuzUFOnpcWUKkQgiroLL5PllS1J8f3PBdZzh0RAl7YqpAs1J0ERnwCo8diIHqvMGSq+UqDwWEibIEQJQOYwYnBwYH1bfMJ8CEyx4HGgpgnoMU55qtwAWracKInij2tLd39gGs6lC67xQhw5qhnhhssiWQ=;mi/GQZ8l+AeQ2l43yCwqKw=="
+secured: "rq+tl3XqO6kGA1P9uoP2VoyM4gI10/rqtsEenbr+igg7vK5LVp3W2zo1xIGxC0zmSbkvN+4Z9SY51XmVLvfkogWFgrRo+Bmn1i88+LovBBZ/fZKGmrk97Ox17FYLmOng+BN+PNuz2dGwmasPiYdSqOZdZMNVIbIPo8wCcvYb49nZHXRCcfAFgOfanZPdp/MkNYPQ6AkL4aE3bxS5tKxjNDja512qvxTdZ26FKa+OwaSu8Jh9I64km3Z1T4WfluWmQfrKn4RMal/aTrsF/Tu3ggeZXQL7BdHb64vdwG4rkX7d8e/fJo2fB62X/oenIhUSUk6/y0xGQvXuhhykfszwHbnBAjFlCehKEegm002RIc9eWqI4xG4wFoB/dleoAPKVzIQpyj0bpVtH/gR8GRB/Z19o+LkisYCb0V8ZRbWrgOlTXP//7jaUgiIRHJlrtCoG6F4CKP12sRZAKbUQeXb9euN9o+LZI6ep/DTMsJ8HAmeIjZ9oVDzMLXd1U571TpN+EclTuLe2SChoGWRTTnvkGg==;F+qvJBjmCbQP7QeN8fT/jA=="
 ---
 

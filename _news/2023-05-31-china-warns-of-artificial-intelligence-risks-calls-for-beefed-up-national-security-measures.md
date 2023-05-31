@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna87021"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna87021"
 type: article
 quality: 93
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "AI in China: Xi aims for balance between progress and protection"
+    excerpt: "China calls for heightened national security measures for artificial intelligence. A meeting chaired by President Xi Jinping emphasized the need to safeguard political security and improve security governance of internet data and artificial intelligence."
+    publishedDateTime: 2023-05-31T15:57:00Z
+    webUrl: "https://www.csmonitor.com/World/Asia-Pacific/2023/0531/AI-in-China-Xi-aims-for-balance-between-progress-and-protection"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 37
+    images:
+      - url: "https://images.csmonitor.com/csm/2023/05/1156877_1_053123-China-AI_standard.jpg?alias=standard_900x600"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Alert: China warns of risks from artificial intelligence, calls for beefed-up national security measures"
     excerpt: "China warns of risks from artificial intelligence, calls for beefed-up national security measures."
     publishedDateTime: 2023-05-31T05:19:00Z
@@ -76,6 +90,6 @@ related:
       domain: chron.com
     quality: 17
 
-secured: "jfmTJkcO25rbSUciuo9PYHjth2DIpZutphldijZcj+r8eQTKotZYJcHP56kaLl5bne64ZpKrBv7+hI6XkJSqwn7JPwUu7EhViLM+ZZpCvcMGJuma/RwQ7yTqxwXvIh9PtVmYh2/L014uQ8aLWMOrxev6dZEmYOp71PVbYfVG3aX4TFWuVN0ystPhuFnEt8e05CGYnKYiCj0Jy3ZsEcZHI+SOR7rKcQhwXH5SetkcsaJokYbTmZiTZ7CXZQEqiEXPRLIeXv4JpnFhBaLStIvc5Sj7hsizHpqsRUu+kL1B51zpt9xKNdJWuou4OQ0jlI1DQd4Kx7WTFGytzN9DDzcQ7xnAyrSv3q1dipHo/B34GBg=;NbMWDiDgexxFdLpptjW2Gw=="
+secured: "TqHdrNYHujF4Pc0tuRgvWimumrXupbI1Vy8pxzIcpZ/3k+yEShQDzaSGlUgkudRavgTbG7NJpO/qFysqY9KfLCLsz3dgwBpu3MYokW/yGQpZoQiiTEZ6MT3bMV+Gxtavnzr8sua/EL23tOOeWnD+cP2eMOpydrg/dc1UJBkLmRny1d12NSeegc2nAti7WmRdaAUG+DZ/0T7/BZ7tk43thInYC/DINiItdFrYj1OLa8CzspYndQhsrzbQVRJuj25lOBTsvJ42ijQlnH40+HrO4Plk2WHTCRSfSmkiSafVfohhAhf0TMyWlV47UT/dH1PHDRsc1hkvBMIdZsRpI9R5Y7b7r1N55bOtuy9zeiBjNR0py7kWbqyiliUft645+GOLE6t1UYCO5J83map4pTBPXKub6nPggnKmr7MLh21TqDHUSSqNf2eG1Hw8QmEQNyzlg+bBFR5RoeU9G1gYYoRqFnD9MdmRL25DckPgNdPh1ABLiithOFmMPKO/j0ggWGDV/dbWH2jeRXkOtxQRSK2OPg==;9NwCoTs7feEm6Ws5QfxE3A=="
 ---
 

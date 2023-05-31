@@ -87,6 +87,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Max Cooper is using AI to push the frontiers of creativity and communication"
+    excerpt: "The acclaimed London-based music producer — known for his ethereal sounds and visually hypnotic live performances — discusses the limits of human language, the future of music, the dangers of unchecked AI research and the mysteries of consciousness."
+    publishedDateTime: 2023-05-31T16:14:00Z
+    webUrl: "https://www.thedrum.com/news/2023/05/31/max-cooper-ai-the-future-music-and-consciousness"
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
+    quality: 36
+    images:
+      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/thumbnail_image_6487327.jpeg?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "XsFhbgapk8Nwb0jmrDPfRsjW1bQ3FgTvuj26uq16wXiHakPdtLyaMmOsLxONRzIctvz9naGtspbNb518twyr5U9YE4TD/YBiSvXgIYlI1QSsBFYzyAukmxBuFXUkztLvTgbj3u6TuSFR+vt4aAmdI+vm4WC/w7lq4G3/EaySSTk+iqaS8Gjay8gtisuDTh2X6hvJoktu/8QT2owyzsvTBFf13VkfCclzFvX4pjRiQt9PB25ilKyICw6ZPawylTzU1JjlSr17FPM5uyEBRHe/Lnw9b2GtJ2LuXHb76OEveujBvKAX3jy4A1GdZUL2gq7ZNhYI/lMInW48Y2ZH7aV3hwUQmKTi2wfxbkDJCzUcpdkiQ+nwke0YDdGlk5yXzwDwgQ1A49i3IPuYVMGuxwC0Ys/0cZL8lx/NRQML0gcbE2QLJZR96pY0oUqJFSWyzlMiWW9Nxi7JlnfOYRpFbJyY7DNDXpiZzPFZdbYnZNdhBXfcVdezAPu/UAqagSqJNanZ/bqL3eoc8QhgiP33mI6jvQ==;a5SxQnpmZxEItIKvP7Cm+g=="
 ---

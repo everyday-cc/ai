@@ -263,6 +263,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Intel cedes spotlight at global tech gala to AI darling Nvidia"
+    excerpt: "Intel, long synonymous with the fastest processors, has seen its all-purpose chips overshadowed by Nvidia's more specialized, parallel-processing architecture."
+    publishedDateTime: 2023-05-31T17:13:00Z
+    webUrl: "https://www.seattletimes.com/business/intel-cedes-spotlight-at-global-tech-gala-to-ai-darling-nvidia/"
+    ampWebUrl: "https://www.seattletimes.com/business/intel-cedes-spotlight-at-global-tech-gala-to-ai-darling-nvidia/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/intel-cedes-spotlight-at-global-tech-gala-to-ai-darling-nvidia/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "MediaTek, NVIDIA to Transform Automobiles with AI & Accelerated Computing"
     excerpt: "AI and accelerated computing are fueling the transformation of the entire auto industry. The combination of MediaTek’s industry-leading system-on-chip plus NVIDIA’s GPU and AI software technologies will enable new user experiences, enhanced safety and new connected services for all vehicle segments, from luxury to entry-level."
     publishedDateTime: 2023-05-29T07:18:00Z

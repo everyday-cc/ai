@@ -240,6 +240,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Nvidia, The World's Newest, AI-amped Tech Giant"
+    excerpt: "Nvidia, a chip technology company, became a trillion dollar enterprise this week and the world's newest tech giant. Here are a few key facts about the little-known firm. Nvidia is not an out-of-the-blue startup."
+    publishedDateTime: 2023-05-31T17:21:00Z
+    webUrl: "https://www.ibtimes.com/nvidia-worlds-newest-ai-amped-tech-giant-3696862"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: "https://d.ibtimes.com/en/full/4462012/nvidia-chief-jensen-huang-centre-l-poses-photographs-before-attending-press-conference.jpg"
+        width: 768
+        height: 511
+        isCached: true
   - title: "Nvidia's GPU Chiplet Design Unlocks Potential in Emerging Markets"
     excerpt: "Nvidia When our analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* They just revealed what they believe are the ten best stocks for investors to buy right"
     publishedDateTime: 2023-05-31T15:32:00Z

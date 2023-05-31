@@ -83,6 +83,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Nvidia's reboot: How the processing giant made the shift from gaming to AI"
+    excerpt: "Nvidia is ready to deliver improved solutions to meet the rising requirements. The venerable V100 chip is still powerful but the more recent H100 model can crunch AI data nearly 10 times faster and also supports superior interconnection features for much ..."
+    publishedDateTime: 2023-05-31T17:43:00Z
+    webUrl: "https://www.usatoday.com/story/money/2023/05/31/how-nvidia-reinvented-itself/70265023007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 37
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/05/25/USAT/96ccb936-a4f1-428e-a72b-d8bd5c1eb7a5-70210697007-artificial-intelligence-ai.jpg?auto=webp&crop=2101,1182,x0,y213&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nvidia chief Jensen Huang says AI is creating a ‘new computing era’"
     excerpt: "In his first in-person public address since the start of the pandemic Jensen Huang warned that the traditional tech industry would not keep pace with AI ’s advancements, adding that the technology had dramatically lowered the barrier to entry to computer coding."
     publishedDateTime: 2023-05-29T12:17:00Z
@@ -102,6 +116,6 @@ related:
       domain: globalspec.com
     quality: 0
 
-secured: "w3MgyNdZ6R3O/6bIsAYEaPyDZ+Jig885VG7zd4x75nFZgUoAmZoLPvZiF4cowihLRzMvM2b2QOwEpcpACcXs7AMykh9l/M+fx5yzpm7xHrzRd56UxORVajp0FXdC4eAN6H1zlW+LccY4YzqF24rlo4uIppsuhO9Ozmh1WeMVZET0CkXFdl4+ZTb0Wq2Uh6wxAckyY++BXaOAjbtGTCoTYHrIx1i5H/slpSKnlvK0Q13Rjg48OLbwfNnxIZNUBR0BAU8uZXnmCwphzzQjgtc2FIWT3RRt0i+iH52I76GCinyv+LY+IBaT56VQDWb1vTxwo3uwyapgWd8nydmQReynnicqrKYRvWNhyqcdYcjpYxs=;CUgsb7LBDRJDFooVlT4xBA=="
+secured: "gWAqGnNDMsS/S8D8PcabgPvVDiccmRvYNom5qE3QUbn8U+BZMk30Zo9jJbSXMP5ZmDWCtbRwYxfoxJEOVKUW+NV8ZZXNdGZSSiSOEyUW6CumU0D2Uett3OOCGUxYyn0GoCwrEvU9A8WrQHQ1E5X+FkLMOx5EqujkI1dTKv9DmF//f8+7zd2epmHEBOKsIUa15UvnRgnIf5Ftfvaqb15iYWWqNXWDd+ikVTWLXuS3Rp7RIxfpJlzU3pZC4jm+q5+quutPOdqB14HRGcbdDKVY+kjmiN9+t0+0Rzn79jDYCjlhdVfLAfa59vqvYzZdUGdCYU/PqDLfxILw1UGdwXVgI5yeMg38X5s9MmpLKXLxEqBtWp98r0j9Ofj7y4cVX8SlVwt5n/Tuw2qIp3tDuYcVP+PHHXiZD53FDQFeR29Zayqe8inXeG/P0S4jjCtSXK8iMT6mtA7d53Lp2M4B87eW5nXG/J0fc9imwQYw44qbyrVHfkX6jFg4h1S8vSzNUk76nLFcUy4/CzWjy/Q2DKIWjQ==;e+9rvX2cS+MbZJf1wUpq7A=="
 ---
 

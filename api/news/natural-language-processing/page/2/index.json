@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-16-this-ai-bot-translates-dead-ancient-languages-into-english.md",
+      "title": "This AI Bot Translates Dead Ancient Languages into English",
+      "excerpt": "In any number of sites around the world home to ancient artifacts and the remains of once-thriving societies, there are clay tablets in the ground with messages that have been waiting to be read ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailybeast.com/this-ai-bot-translates-dead-ancient-languages-into-english",
+      "originalUrl": "https://www.thedailybeast.com/this-ai-bot-translates-dead-ancient-languages-into-english",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T21:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Beast",
+        "domain": "thedailybeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-introducing-amazon-textract-bulk-document-uploader-for-enhanced-evaluation-and-analysis.md",
       "title": "Introducing Amazon Textract Bulk Document Uploader for enhanced evaluation and analysis",
       "excerpt": "Amazon Textract is a machine learning (ML) service that automatically extracts text, handwriting, and data from any document or image. To make it simpler to evaluate the capabilities of Amazon Textract, we have launched a new Bulk Document Uploader feature on the Amazon Textract console that enables",
@@ -1443,49 +1477,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-05-qatar-adopts-speech-recognition-ai-to-boost-prosecution-efficiency.md",
-      "title": "Qatar adopts speech recognition AI to boost prosecution efficiency",
-      "excerpt": "Qatar has started to use AI speech-to-text technology in public prosecution to boost efficiency, local media reported Thursday. The system will be used in criminal investigations and editing legal documents in addition to manual input.",
-      "sourceUrl": null,
-      "webUrl": "https://www.poandpo.com/news/qatar-adopts-speech-recognition-ai-to-boost-prosecution-efficiency/",
-      "originalUrl": "https://www.poandpo.com/news/qatar-adopts-speech-recognition-ai-to-boost-prosecution-efficiency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0223/doha.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.poandpo.com/news/qatar-adopts-speech-recognition-ai-to-boost-prosecution-efficiency.amp",
-      "cdnAmpWebUrl": "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/news/qatar-adopts-speech-recognition-ai-to-boost-prosecution-efficiency.amp",
-      "publishedDateTime": "2023-05-05T01:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "poandpo.com",
-        "domain": "poandpo.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

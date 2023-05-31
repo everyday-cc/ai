@@ -7,7 +7,7 @@ originalUrl: "https://www.postandcourier.com/clemson-receives-20m-to-fund-effort
 webUrl: "https://www.postandcourier.com/clemson-receives-20m-to-fund-effort-to-use-ai-in-health-care/article_dd6372bb-3457-5e52-9288-c78ca269eaff.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,36 @@ images:
     height: 593
     isCached: true
 
-secured: "vveqHF8AEoZ/6/okBkQ/7kyBrxirF4AoVombHjJh7WBdONBGUP4AV/YaDBGr1aCbjgpgwkNhYSF+l7r5yJHzGoAm265mHXUF+BWkkdUzr6X6+6dueJFhp7Q+GS0M1Dar9mXj5CTSqDW2r8UyioD2l0APveWhKmfpBTdNyCxDoCbuSPF/pMew0p+z3ZxxnFdVfPe5kA8eE5g9GhueEEtppAe8sVLLUbf6fGEG6S5QEUIQtrG2zJ4tOux1vqj9ih+fI6jFxwWpcxys205PxkWPZMOO6w2ncYHAWKeCk8u+PC3K7bDvhu3Q5zN3JGOTv752CuImSbBTfhf+8IaNUQeWUpB9cheJVashvBOzUwnfD1Q=;Ywe9yBIUXbHe8BQdp2trkw=="
+related:
+  - title: "Hyro doubles down on plug-and-play AI assistants with $20M funding"
+    excerpt: "Hyro, a company offering plug-and-play AI assistants for enterprises, today raised $20 million in a series B funding round."
+    publishedDateTime: 2023-05-31T16:05:00Z
+    webUrl: "https://venturebeat.com/ai/hyro-doubles-down-on-plug-and-play-ai-assistants-with-20m-funding/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_734436697-e1685544872753.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Hyro, a conversational AI startup for enterprise, raised $20 million in new funding using this 15-slide pitch deck"
+    excerpt: "Hyro, an AI tool for enterprise users like healthcare providers, has brought in new funding to build out its conversational AI products."
+    publishedDateTime: 2023-05-31T14:00:00Z
+    webUrl: "https://www.businessinsider.com/hyro-conversational-ai-for-health-raises-20-million-funding-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+    images:
+      - url: "https://i.insider.com/64774869085acb0018fefaa1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "/EsrxysfMOXjISaD7ysJwwfRE4oqq3xqxg3gISOLISTlLFZ73PBtttEyYxUiJho7FwCxKr1QsfxUSS1WFtTVnCCQZw1zKMQm5IMNGjdDs2MsAtAQHGc9XgSaKZ/jVMcHz9e8+qJszGF1sm+dAAZu6WeODMPEi/fX0RvbW/hYMqZFVxOseUFJI3rum4ujG6fCw9n1ircTuh/ZvlpuXiUoo0AIzeLM4qt5i+cOK8fkByJBa8XkZnOoe+XM1RwOkRGGsUzWpLvjurP/0/LAcRL/IlnP1c7jSirHfj8/eACjDEyaJqWWMx2q70pwo/UnwNqnqX/x7iZBpJ8k+evWG5OtTTEKLWTa0KB5BUQ51bUsv8lBH4imDPTJU2/RKZLBJQEaIzW+fPybNIYLW0bFGenKpF5L1b88pCj0OMFV3WjnQPrR1cunDsLUq9YvcIEn/c4vG0agI4QnAwwSr/2+4LkhChwdg1WYnCM7bC8qHVxoD3+SzfcgY+BqWzXFr/l3flQncuPkjlR4QHqvS6PimDJGPg==;j9rqEM9nXOKSiPyxjeEr6g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3697649/what-are-large-languag
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3697649/what-are-large-language-models-and-how-are-they-used-in-generative-ai.amp.html"
 type: article
 quality: 58
-heat: -1
+heat: 68
 published: false
 
 provider:
@@ -27,73 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "How are Indian languages faring in the age of AI and language models?"
-    excerpt: "As large language models like ChatGPT find more applications around the world, their adoption also passively spreads a prejudice against languages other than English, including Indian languages. Some researchers are working to remedy this."
-    publishedDateTime: 2023-05-30T10:00:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece/amp/"
+  - title: "Can The 2024 US Elections Leverage Generative AI?"
+    excerpt: "Let’s discuss the potential of using generative AI in the 2024 US elections and how it can transform political campaigns and decision-making."
+    publishedDateTime: 2023-05-28T01:45:00Z
+    webUrl: "https://www.unite.ai/can-the-2024-us-elections-leverage-generative-ai/"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://th-i.thgim.com/public/sci-tech/science/12fdik/article66911414.ece/alternates/FREE_1200/aboodi-vesakaran-SOp7CS0-1MA-unsplash.jpg"
-        width: 1200
-        height: 867
-        isCached: true
-  - title: "Why learn languages in AI Age?"
-    excerpt: "AI might save students time, but it should not replace language learning. Instead, the technology could amplify learning, and it might also enhance our humanity. Language makes us unique from other animals."
-    publishedDateTime: 2023-05-27T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/editorials/archives/2023/05/28/2003800537"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
+      name: unite
+      domain: unite.ai
     quality: 39
     images:
-      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
-        width: 1200
-        height: 1200
+      - url: "https://www.unite.ai/wp-content/uploads/2023/05/Featured-Blog-Image-Can-The-2024-US-Elections-Leverage-Generative-AI-942x600.jpg"
+        width: 942
+        height: 600
         isCached: true
-  - title: "Over half of China's large language models are open sourced: report"
-    excerpt: "China has 14 provincial-level regions that are currently working on the development of large language models LLMs among which mor"
-    publishedDateTime: 2023-05-29T11:31:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273846806/over-half-of-chinas-large-language-models-are-open-sourced-report"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Over half of China’s large language models are open sourced: report"
-    excerpt: "China has 14 provincial-level regions that are currently working on the development of large language models (LLMs), among which more than"
-    publishedDateTime: 2023-05-29T23:00:00Z
-    webUrl: "https://www.macaubusiness.com/over-half-of-chinas-large-language-models-are-open-sourced-report/"
-    type: article
-    provider:
-      name: Macau Business
-      domain: macaubusiness.com
-    quality: 24
-    images:
-      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/10/MB-Still-Pop-up-Banner-800x480px.jpg"
-        width: 800
-        height: 480
-        isCached: true
-  - title: "Here Are 30 New Jobs Language Industry CEOs Expect to Hire for in the AI Age"
-    excerpt: "As LLMs are put into production across the translation industry, CEOs will recruit for roles such as Prompt Engineers or Source Language AI Copy Editors."
-    publishedDateTime: 2023-05-31T09:00:00Z
-    webUrl: "https://slator.com/30-new-jobs-language-industry-ceos-expect-to-hire-ai-age/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 16
 
 secured: "guZ+tbHxBGBcZvEczjU4pmoOF1V3+fRIyCdgNjVGuK5itPcOCq+46y8w1PiVquQ5Z14U7LZDXktMkgkEe1exfqp50cqyJ90+7/F2HjRDYGo+O1oWFTIAdFNZklh+OKKmhfZwy5mHTK5bZYLBz6pTGUiZ/2jwAlaq1g7aXS1ChaX/WMjAohRjtbDoEJ8Bw2atbc0tvYvIQUTATgn50AWJKDn1hCRWMcpijZjho5pn3IkOnsgwn0/MzqQuIk8jiO1IA/rSI4QBHVvSwS9TmiEwnlw7W3GPASmkMXByYWQmjaourQ3KvK4sWmQOYRX6wc7y2lc3ZbmWRymyygB1F86EKJuP6EDs+fVHua2hEKYlSUgkQP6NH7rwtUXRseMprTp3HU4gdeF0Mr9Ola7cUfMwgXucDPaSKaSdqIvtCNXVqPfY7SjPtPPxqUghlkQvTR97TAWkyFYtayLIiL/HeZJzsxl4R8tpoy3MnVH5yCDZB+FGg2ugA0+iO/AmCtWRiSRlXlcRi2zy6joKxWMIr+6sbQ==;5Hr/Rk/lPh6BkA9viYsaUQ=="
 ---

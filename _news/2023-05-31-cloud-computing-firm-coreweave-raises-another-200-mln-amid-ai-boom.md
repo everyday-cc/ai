@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/cloud-computing-firm-coreweave-
 webUrl: "https://www.reuters.com/technology/cloud-computing-firm-coreweave-raises-another-200-mln-amid-ai-boom-2023-05-31/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/647765a27cd337408abdbfe4/0x0.jpg?format=jpg&crop=3823,2868,x0,y729,safe&width=1200"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Specialized Cloud Provider CoreWeave Rides AI Wave To Another $200M Round"
+    excerpt: "CoreWeave, an AI cloud infrastructure company, has raised another $200 million in a Series B extension funding round that values it at $2 billion"
+    publishedDateTime: 2023-05-31T16:50:00Z
+    webUrl: "https://news.crunchbase.com/cloud/ai-coreweave-funding-venture/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 38
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Cloud_Computing.jpg"
+        width: 900
+        height: 506
         isCached: true
 
 secured: "dfdYQWEw4NBqhFT2K6OCiS43bkZ/C0ztfZkEX58e+6qi6kN2SW6Hm4i/x/cABFm+edsYHVHaqHq29KyXQDVh6p48I1XYju3aQNoOkzKBzMq+ZB00vbphLoEQWrW2yoPpJ4MzZp9/08+OQojOhPCo6Afm+TftVWBBbSB52ehzxLEd/xVmFULESQMBcMi3yF99v2SDxxt4wwErCJI5se3HoODF16sPIIhE3Sx0L8tgvMz6MO1jfo2qWDd2hxu8H3Mw/iVnsIiS4/Ajs3qhtQ4d12QOXUO6FSl/rTcsoHAcmfljUDrxVzK782j9F/3IeIGi1KsmZBxXq6Lviy2jF+AasGF6KV/bDfqF8IqrEnYLr3w=;IJP30meVSW5WaS5UGCtUrQ=="

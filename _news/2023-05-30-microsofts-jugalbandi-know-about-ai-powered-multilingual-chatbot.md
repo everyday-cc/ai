@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsofts-jugalbandi
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsofts-jugalbandi-know-about-ai-powered-multilingual-chatbot/article66911141.ece/amp/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Business Line
@@ -22,6 +22,20 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Microsoft launches Jugalbandi: an AI-powered platform and chatbot to bridge information gap in India"
+    excerpt: "Microsoft, a pioneer in the artificial intelligence (AI) field, has made significant strides with its latest venture, Jugalbandi. This generative AI-driven"
+    publishedDateTime: 2023-05-31T14:54:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-launches-jugalbandi-an-ai-powered-platform-and-chatbot-to-bridge-information-gap-in-india/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 41
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/05/Azure-OpenAI-Service-phone.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft Launches 'Jugalbandi', An AI-Based Multilingual Chatbot For Rural India"
     excerpt: "Microsoft has unveiled a new generative AI-driven chatbot called 'Jugalbandi', designed for farmers and other users living in rural India."
     publishedDateTime: 2023-05-27T13:24:00Z

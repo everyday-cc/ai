@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo?amp"
 type: article
 quality: 90
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Should CEO’s Embrace AI Or Will AI Assume CEO Roles?"
-    excerpt: "This article discusses the emergence of CEO AI robots/cobots as well as the leadership governance role of CEOs in leading AI investments in their organizations. Examples of companies using CEO robots are identified."
-    publishedDateTime: 2023-05-26T23:34:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2023/05/26/how-should-ceos-embrace-ai-or-will-ai-assume-ceo-roles/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/05/26/how-should-ceos-embrace-ai-or-will-ai-assume-ceo-roles/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/05/26/how-should-ceos-embrace-ai-or-will-ai-assume-ceo-roles/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64713f5cdb174f931db2620b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 696
-        isCached: true
   - title: "Japan AI startup launches robot for home use"
     excerpt: "A Japanese artificial intelligence startup has launched a robot for home use capable of delivering items in response to verbal comman"
     publishedDateTime: 2023-05-27T03:00:00Z

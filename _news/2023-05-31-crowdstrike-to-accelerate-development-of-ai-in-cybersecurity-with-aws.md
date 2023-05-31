@@ -37,6 +37,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 51
+  - title: "Salt Security Attains AWS Security Competency Status"
+    excerpt: "Salt Security, the leading API security company, today announced that it has achieved Amazon Web Services (AWS) Security Competency status in the Application Security category. Salt is the only API security company to have earned AWS Security Competency."
+    publishedDateTime: 2023-05-31T17:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/05/31/9823421.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 51
 
 secured: "ImIhhfTGW/sTmyCGOiTplgogBSLaSwlzn8ohKEHfLGawZRIWcwDJOApDZMxS0gd6fTYD8lbfNIR/o1rafSXhfqCv3rvDrMINswrZg3EpH5m1xlgsFZplvLCyzI1wGB7ABgxm1DlwrTzB6xi+UWLmIJSH03IR2I4ccbwRhLag0EXTeak8ULn3NmTxhndQZlWc3ZFhMiozpES103MFGNOEo/AaNLV6kCTyDKEzfO3H5YRNIyp2lw7vS2JaK0zae23RlpdVLRm7ik5TrM6j1xuIzlbMDeCPcEe2YG6oWz2321Iy5oaPtn75GGb8a013w3t11dhJu1apH06WckKlJHwdUQfCJXgz6fta4SEO3KXAvA4=;/ZdDtwrhxzFBxQBKKMWpCA=="
 ---

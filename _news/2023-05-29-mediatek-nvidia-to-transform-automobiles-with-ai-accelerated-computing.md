@@ -277,6 +277,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Intel cedes spotlight at global tech gala to AI darling Nvidia"
+    excerpt: "Intel, long synonymous with the fastest processors, has seen its all-purpose chips overshadowed by Nvidia's more specialized, parallel-processing architecture."
+    publishedDateTime: 2023-05-31T17:13:00Z
+    webUrl: "https://www.seattletimes.com/business/intel-cedes-spotlight-at-global-tech-gala-to-ai-darling-nvidia/"
+    ampWebUrl: "https://www.seattletimes.com/business/intel-cedes-spotlight-at-global-tech-gala-to-ai-darling-nvidia/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/intel-cedes-spotlight-at-global-tech-gala-to-ai-darling-nvidia/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "NVIDIA ACE for Games uses AI to let you interact and talk with NPCs"
     excerpt: "The NVIDIA Avatar Cloud Engine (ACE) will let you strike up a conversation with a character in an RPG, and it's all thanks to AI. And some RTX to boot."
     publishedDateTime: 2023-05-29T09:27:00Z

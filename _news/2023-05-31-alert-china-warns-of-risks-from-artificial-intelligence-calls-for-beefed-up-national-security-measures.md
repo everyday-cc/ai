@@ -74,6 +74,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "AI in China: Xi aims for balance between progress and protection"
+    excerpt: "China calls for heightened national security measures for artificial intelligence. A meeting chaired by President Xi Jinping emphasized the need to safeguard political security and improve security governance of internet data and artificial intelligence."
+    publishedDateTime: 2023-05-31T15:57:00Z
+    webUrl: "https://www.csmonitor.com/World/Asia-Pacific/2023/0531/AI-in-China-Xi-aims-for-balance-between-progress-and-protection"
+    type: article
+    provider:
+      name: Christian Science Monitor
+      domain: csmonitor.com
+    quality: 37
+    images:
+      - url: "https://images.csmonitor.com/csm/2023/05/1156877_1_053123-China-AI_standard.jpg?alias=standard_900x600"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "sxqzLCa3SJ+QQDE6Y4zSjjA9VzYAWkF8UI2w9UxhReMZcma5ViXON9pSfKvuEDNZ/9A9oTz8ba8r8aKZjBimDPiYtNWXLSDpolH8Q0+eaZV33UpYzvNOsWsh0WF27U2r/UfLdVrG8ti7yM8wfNiIspIauBbZcmkMsyKeU98b5p9oO4g2PcaQ2+pcqAwRd8XC7QIs7w/MunhWBuzPbX5Mwxqo51qwdd04OqGR0cWsWU5NaA419mLr/vCNVTVB2+Lw4EKY+U2R0c9m4gSK4kmWgguBPc2r6Rq76IOexSoF4WUMXqAumrMO14cL5vJXIYxJuBJtVH2A4rfANkwY90oRs54SgbNWxPRz3gbkmjYAC9M=;Nh9IjHk13bzuL0M48kFxbg=="
 ---

@@ -268,6 +268,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Intel cedes spotlight at global tech gala to AI darling Nvidia"
+    excerpt: "Intel, long synonymous with the fastest processors, has seen its all-purpose chips overshadowed by Nvidia's more specialized, parallel-processing architecture."
+    publishedDateTime: 2023-05-31T17:13:00Z
+    webUrl: "https://www.seattletimes.com/business/intel-cedes-spotlight-at-global-tech-gala-to-ai-darling-nvidia/"
+    ampWebUrl: "https://www.seattletimes.com/business/intel-cedes-spotlight-at-global-tech-gala-to-ai-darling-nvidia/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/intel-cedes-spotlight-at-global-tech-gala-to-ai-darling-nvidia/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "MediaTek, NVIDIA to Transform Automobiles with AI & Accelerated Computing"
     excerpt: "AI and accelerated computing are fueling the transformation of the entire auto industry. The combination of MediaTek’s industry-leading system-on-chip plus NVIDIA’s GPU and AI software technologies will enable new user experiences, enhanced safety and new connected services for all vehicle segments, from luxury to entry-level."
     publishedDateTime: 2023-05-29T07:18:00Z
@@ -393,6 +404,6 @@ related:
       domain: analyticsindiamag.com
     quality: 4
 
-secured: "jFTvjPqP/gDgFbpA6EFedfsNsauIIKXFfs4tbR2NJr7N6fNgUXrKgEycy4RFWbg+/2HZvh9sAUmvMH5DGIV/5+MKSuv+mR41JywAXIl+GCBZVldlkFdnmGSdENJh2gudMWBfQ9q2mpQqY0Zjf9BytIeurdbtWpilNlYhCOP5t43Aew8+6TdyrEGqC1nX5iP6FkNns3jSXd49wclu7Ex6wTo/10LM7CkiiicRp1iqsd5eq2bnRUMiCwx7fiuykf0opDaUrIm2tcUzNFS3jANB80oljMmxajYuPFI1XWJtBloOMq3atnYVhLbLSomqGAUw4Cc46ibFZKei77VOBFtPOwtCnuVg21BSyUvC8GVOloU=;lhwhcdTozMLBEw5swlHzWg=="
+secured: "zS8qeyaxvahkY/75DOVyQWrRhybE1sk6wc/RGPcs4JBKPRKNgi4/NXtGI1VOMKwecwogC1Y6X3vJnt+/gy2BB42D9Tm2s63wW5EGzKzjZlEIx13lJ8X36Zdtp/MqwvU8DTEpocE792n9olCe5jExXPna4EHxpbBE2AdlT4SjNNnwHKwRY5ZnASI+SyRUiQXn8mqRekXi7HvKRYb5ya+FWT6w2QawZB/kYNallrp+VrWHhewZvVd19SWvZZHDne6CqclKpNlRCrpAQuZaFEEpNylaWdb/E1IhTX8JQonEXmqnxzhu1JNMgUw5nxUYYf77CSvcjvZLGRmpue0CzZqU3oqFmTS4fFhMKzA66YKyJIj4HHaD4ljaUBqJaG21lWG2wgNaNU2NZikwk+cyPTBaBziG7G9Dubvfqo2KeHKW5H4B3xVn5PWVCgfg5KRwxOceO99a/RBRfQIOKPg3N0huj4D6rLlJBwD7PfikihlVxiKCitaiajGhYyzGalWdV8eXtNJhzYDMbfgyoDve2nEPLQ==;isg3rbqPECeB3bomng+IBw=="
 ---
 

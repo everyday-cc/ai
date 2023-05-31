@@ -49,15 +49,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "Top 10 Entrepreneurs to Watch in 2023"
-    excerpt: "Watch out, 2023 — the following groundbreaking entrepreneurs are coming for you! From serial entrepreneurship and investing to trauma-informed therapy and women’s rights, their specialties span a wide range of industries,"
-    publishedDateTime: 2023-05-30T20:44:00Z
-    webUrl: "https://www.laweekly.com/top-10-entrepreneurs-to-watch-in-2023/"
-    type: article
-    provider:
-      name: Laweekly
-      domain: laweekly.com
-    quality: 4
 
 secured: "xkRMS+MUmi9VXe47feEqOmiybf3b3Nxn+ZfLYxDwCHzUV8DpT4TpiHIl1nYB7c/rkGpBlWnj41Vp5Ng3ocT/echS+uAevPcrunfYrilBDK9D8mhMTi5QJFX08e/J7NiSvqppD4iS3y6ypLwMVEoLRU4IBJ+FvfFWIBE0xf/cq4EsDlNd9h3IO/nix0M435T/5NrhSpiwUzpHLcC1lLLXrGqEyOo6Gm7pCaZYjxazm5IxDmLNsesNs6gbN6e4Yit8i0WDvVhDW1QHJpg8/9Qq/UdJlezxR5ScKX4PLyCPRMhx/fJ5IJ8L6QlEto+mBXE4pMsVReT2kFMeW1u843cu9lVm9z4BhxejhfVh1bi/WKU=;l/p6TWTpakju6QZitjxlFg=="
 ---
