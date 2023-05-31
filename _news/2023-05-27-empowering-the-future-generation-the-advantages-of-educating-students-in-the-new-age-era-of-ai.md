@@ -35,6 +35,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Vectara aims to ground generative AI conversational search without hallucinations"
+    excerpt: "AI powered conversational search platform Vectara has new capabilities aiming to improve generative AI for business data."
+    publishedDateTime: 2023-05-30T22:48:00Z
+    webUrl: "https://venturebeat.com/ai/vectara-aims-to-ground-generative-ai-conversational-search-without-hallucinations/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/image1-8.png?w=1200&strip=all"
+        width: 1045
+        height: 598
+        isCached: true
   - title: "Conversational AI’s advancement and its implications on our lives"
     excerpt: "Conversational AI has transformed the landscape of customer service and support. With intelligent voice bots, businesses can provide round-the-clock assistance, instant responses, and personalized interactions."
     publishedDateTime: 2023-05-28T06:29:00Z

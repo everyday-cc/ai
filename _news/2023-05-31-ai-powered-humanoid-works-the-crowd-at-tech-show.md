@@ -28,22 +28,15 @@ images:
 
 related:
   - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
-    excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people."
-    publishedDateTime: 2023-05-30T21:29:00Z
-    webUrl: "https://www.aol.com/news/whats-robots-ai-powered-humanoid-172719200.html"
-    ampWebUrl: "https://www.aol.com/amphtml/whats-robots-ai-powered-humanoid-172719200.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/whats-robots-ai-powered-humanoid-172719200.html"
+    excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It's one of hundreds of robots on display this week at the International Conference on Robotics and Automation,"
+    publishedDateTime: 2023-05-30T21:28:00Z
+    webUrl: "https://www.chron.com/news/world/article/what-s-new-in-robots-an-ai-powered-humanoid-18125979.php"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 57
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/mDduyUwMK1KfqiS7xQzKrw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/160bc3c7c623321bce1738aa99fad703"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 17
 
-secured: "fVSR1OrJM7vodogvtjgFEan78Yc7aiKeEqhqS7b77oAyzyrn7CRKM/zGBdI4g2vRx0PeKPwZMiTeTprFIMc513LoAkJR9s8J376zHUXUw2WHnso+SyP5uVUXXgN5LZN0oUmZohpmHZbubJdO3FIOVE3YzrtANt24pukxwAuYiOZKsdImr803i330q86H9F6pDP1KfH6ZoiX9ngIUkjJ+BVUn56aBtWDltreZkJCxmnfFa3I1PmQy+XdtXmwLTLe3qbSBS/ChsGaMiufyf9yMIAFu2tmKSOnmRh3AsQOx69B4fkcBqEspBxTPVKa+aQiL42db0djQY3iUpsogjgHSOxDyllB293tYtdH9m0k3E5g=;jiVN8/acAKpMwaz8WKt2Ig=="
+secured: "bxGyyHAFvY9vFq097B/krDjSVWRPLL6b8kA1rYqxpxJg7Hb8NvoiH7k4luz+o3g4weOU7vhJ5JWZfwRmvy5KTZ05lhlQXL10yLqaGtN7T1PgqOW/PZvEM2rg5cGXM0ADX4o0Gp4n/O+1HyqI4dcUh2dVCXyu7ClQbcnriUhXoM77SeDcqgavYpun8y3UEJ+DYPe2Q9jDfK1Y7w+rP9q/Fuyog/x5hQZfC1/BcMFspFSHQ5cWHIZOxN9WJSVdghrQCRGkR/VA4BzJsu/Rnv8wFNFU7w+K0/iT/lNkHG4/f5NkSnRv2r9VcOu2JZq6d4hsAkiGUxAq+noEqLyt0bL2+MpDNAkz4dzBIWSStZqhlBXYEL38r5sf5uljA5IW3EMaGRUJUM9Xir+aClB6py6/29cRqGgz3259GMWqCq1R3R2ur3FkA0+fMWJIPEdeTbf5aBAwoBkC8aeVldhOlnvU2Leujn8pKeUKOZvjleyUqmTCEqwrw4MtX9E6YZiJRXi5ZILuB8TtEJjPcIK5l3iNUg==;cIqbsoRJH4lTdPKO3ZzoKg=="
 ---
 

@@ -20,7 +20,14 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
-secured: "LRemqLLfUOCN1aCHLvreofe0/vTHaoomQRtRnjXEWkbfNQR2OiIvV9aq/B/4osxJlmZOAx3zJXGmbvvD9jL2z8DckrMGFxIFqfIC7kBZ9IVd8E3Nzs8UZtihmjryIay0XSt/0RTnywnbWnw3Kyo390DhuUC7C6lcSkwX7s8DkrZhzWr3/VjeBPFABjPpE+eZT8GxX00b2Xl4KK0MMctm00XrXdNNZ0mMvsp2ASh6tE93eJ3tnCB0yxTYOgQ77Qu3Wo7c0KkX5MOU5jw8Z+Ty1gqyTwHeyJPOwT7Iq+42XLSBlmtymVMvpW426WtsNHxvpYTVmBLbqjWxg6NV2TyQ3xAgwGdiS9U+og02Qbt72ZJYME03a2NozchjGnJxqmleCxvQDEL30+2kZr4DV7jR1BaQ0pcwQs8o1auVGP0sLDKS2gmW/+Pupq7KkW4xcQL2qRMuMP46F8mFq5ZXPc4Xw5IBuB2NG94fmp4bv8fZYUWUItkoEPDucnjG6M8D4fwIzfDRghubdTDN0uVhJAur+w==;uFpO/o/kaQwsFB81fedjuw=="
+images:
+  - url: "https://cdn.vox-cdn.com/thumbor/gapqdOPrQE7L6x3iMxFcfg-6SjI=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/13292779/acastro_181017_1777_brain_ai_0002.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "n13wi/LP8Yi0if0Iv0b9GcXdnk2cCf8xKCWw1yzFRtDx4Wx/5TCn/inP795j5aLIPMYrRZlRq+kklWFFYYc5qElZlZ7E4o0NGUHvoM5h7YDmCK95+aOYv3EwKANTmlqeO4A0M3X0pscoaIXYwxZaYkdpB69FEylSluFGbT9RK5n+7QRIfdf1RI6cssFOLLr5lVKd1iKry0tgt4MV7V5Wv2yplfa6Ji4nKCVtn+QWIuaPGy8HdhYjYSJ/+ldMjX8vPLf/tQiuxxRZ1gxiydX3Dj1tgqXcTO0eJb9B/bK4nbJnuL4x4VsdVvs4dU8NoZAfxt0CNmJk/5+pxfIfOTYxCi1pX3ktztEU4htzOIM34cg=;4d/vwbvG2vzgwk+txNYRkQ=="
 ---
 

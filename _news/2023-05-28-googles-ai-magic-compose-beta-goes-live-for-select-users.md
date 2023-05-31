@@ -76,6 +76,22 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Prepare For An Expanded Job Market, Thanks To Artificial Intelligence"
+    excerpt: "Don't produce the same output as a generative AI tool. Differentiate yourself by adding value on top of the base output."
+    publishedDateTime: 2023-05-30T22:29:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/05/30/prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/05/30/prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/05/30/prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62579c7e40a68b70f7243179/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Dear AI Stock Fans, Mark Your Calendars for May 31"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips C3.ai (NYSE:AI) investors are awaiting earnings results due May 31, as the"
     publishedDateTime: 2023-05-30T13:23:00Z

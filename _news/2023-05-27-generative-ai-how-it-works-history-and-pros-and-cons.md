@@ -40,15 +40,6 @@ related:
         width: 624
         height: 351
         isCached: true
-  - title: "Analysis-Investing in AI: How to Avoid the Hype"
-    excerpt: "\"It's just that that’s very hard to be true for the entire market.\" Instead of backing hot start-ups or rushing into highly valued AI-themed businesses that might fail, seasoned investors are taking a lateral view to back already proven technology ..."
-    publishedDateTime: 2023-05-26T05:34:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-05-26/analysis-investing-in-ai-how-to-avoid-the-hype"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "Averting the AI apocalypse"
     excerpt: "On the shoulders of this automated labor force, super wealthy AI entrepreneurs and companies will rise to form the most powerful elites to ever lord over humanity. Meanwhile, governments risk collapse from sharply diminished tax bases compounded by their own elected leader’s acute technological incompetence — an AI apocalypse."
     publishedDateTime: 2023-05-26T21:58:00Z

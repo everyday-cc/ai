@@ -69,20 +69,15 @@ related:
         width: 986
         height: 555
         isCached: true
-  - title: "Tesla’s semi-autonomous Full Self-Driving software a step closer to Australia"
-    excerpt: "Sleuths have discovered two Teslas in Australia with software that includes its Full Self-Driving software. Is a full rollout on the way?"
-    publishedDateTime: 2023-05-26T05:28:00Z
-    webUrl: "https://www.drive.com.au/news/tesla-fsd-beta-spotted-in-australia/"
+  - title: "Self-driving cars lack social intelligence in traffic"
+    excerpt: "Self-driving cars fall short when it comes to understanding the social codes in traffic that let human drivers decide whether to give way or drive on, according to new research."
+    publishedDateTime: 2023-05-30T22:15:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/05/230530125438.htm"
     type: article
     provider:
-      name: Drive.com.au
-      domain: drive.com.au
-    quality: 36
-    images:
-      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_675,q_auto:good,w_1200/cms/uploads/rfhfhsHORuW7lz6uFicu"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
   - title: "Michigan woman hospitalized after self-driving Tesla crashes into tree"
     excerpt: "An Ottawa County woman wound up in the hospital Sunday, May 28, 2023, after she put her Tesla into self-driving mode and the car veered off the roadway, rolled several times and hit a tree, according to Mecosta County Sheriff's office. (MLive file photo)"
     publishedDateTime: 2023-05-29T13:03:00Z
@@ -102,6 +97,6 @@ related:
       domain: futurism.com
     quality: 19
 
-secured: "vHIvIAXA/3l3473BoXZqjwHCSLGLa1Jh8Hu1VxJLFlUnOxMM4gG4sYynTCHoIQkAij73gMG47b/Uk44hLCTQLBZiTFdIxt7wK+rRZiSfZWLd/5zdM8wB8NE/wL4FcT1+3EowroE7apP/Azz1PTJDGLFdpUbh1oaPbZ5+5Ptx68x+bzE/QzXhGOXWXqp8Ul1uNl2CJD5G6LalaL8kNSTogENIzmGjflEoq1LaZtR/EFzrxKCu6aeXEdVmEZ+JG0uliDzoTgsIY8Usoz3b+Cl9ivTXi8SUwwolWmZEHPcMkNCIfluYYrT3cFRzUQLrXUT0Qt0rJq4lINAxvhptsaZn7nK/2Lys+h2+u+GedGm7W/k=;FV3CkqUFbswH+aOEMSQUHQ=="
+secured: "fBVFNw7SoWSv+5pWQt+cIAfi2uAcR80j4RyHcZqQ1jweG8CWlTmjHU7sE+xCOD+ggPRFBYlWrAbaCVVFnwG3BsUvZHNIu20OHu3enDxO1es/w4kYJNkbWYyghoYyh+KyZlwfZtLhTQlctPzS1ORaMiU4WQoh7NDk6OJcz/6mYygQdlW4sUqQWGzqWTXX4iBUiVgf93C89IrxcQ5kBS3QubiZXNl7odw4gPi3WhNIMpQXwhdaizh6dXNpSIL5AZ+qiVDipfh+1qSiXmb1nYxrjzQSKgyzzVuo7/A3trDp2ftXV2g7B05o6dcf/5ltbgFhLChmmhN4w4KtX4VGejqxRIJ9htsqF+99XZ/9AwtsiPjaL5Woa3TRjW1sqQN/4P+zHR9UhnSSOIGI+aYrvQthJ7fncwtQl4SKHEHycg3nV/lA2ebxxYxNdYAReJ8K51r/65AsUI9lVnpFmEdPHTSYJPid9hKY9MC/7JmTTDtkQZDP5TZiWEghijs8gm1bpaXr2j9fTo5svAlJkk3uWK0OHw==;Am351mgbPeb+ft3M0l6fXg=="
 ---
 

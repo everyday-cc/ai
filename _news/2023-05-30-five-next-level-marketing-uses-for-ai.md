@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/five-next-level-marketing-uses-for-ai/amp/"
 type: article
 quality: 106
-heat: 176
+heat: 187
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6474d458bc83efe2be9811f3/0x0.jpg?format=jpg&width=1200"
         width: 1024
         height: 1024
+        isCached: true
+  - title: "Prepare For An Expanded Job Market, Thanks To Artificial Intelligence"
+    excerpt: "Don't produce the same output as a generative AI tool. Differentiate yourself by adding value on top of the base output."
+    publishedDateTime: 2023-05-30T22:29:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/05/30/prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/05/30/prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/05/30/prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62579c7e40a68b70f7243179/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 801
         isCached: true
   - title: "Google's AI Magic Compose Beta Goes Live For Select Users"
     excerpt: "Magic Compose can initiate a chat or rewrite a message with seven different tones and styles with the help of Google Bard. The beta is being rolled out for US-based premium Google One subscribers first."

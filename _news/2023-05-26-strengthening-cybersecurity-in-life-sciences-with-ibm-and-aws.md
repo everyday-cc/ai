@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/strengthening-cybersecurity-in-life-scien
 webUrl: "https://www.ibm.com/blog/strengthening-cybersecurity-in-life-sciences-with-ibm-and-aws/"
 type: article
 quality: 99
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
         width: 2560
         height: 1280
         isCached: true
+  - title: "AWS Announces General Availability of Amazon Security Lake"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Security Lake, a service that automatically centralizes an organization's security data from across their AWS environments,"
+    publishedDateTime: 2023-05-30T22:35:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/05/30/9822968.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 51
   - title: "Michael Saylor on how Bitcoin and artificial intelligence together can combat cybersecurity"
     excerpt: "In a recent interview with Kitco News, Michael Saylor, executive chairman, MicroStrategy, mentioned that Bitcoin might help in cybersecurity if collaborated with artificial intelligence, such as deepfake, stated Cointelegraph."
     publishedDateTime: 2023-05-29T05:39:00Z

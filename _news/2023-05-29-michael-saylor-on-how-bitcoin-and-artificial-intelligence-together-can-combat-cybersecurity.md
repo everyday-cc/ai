@@ -50,6 +50,15 @@ related:
         width: 2560
         height: 1280
         isCached: true
+  - title: "AWS Announces General Availability of Amazon Security Lake"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Security Lake, a service that automatically centralizes an organization's security data from across their AWS environments,"
+    publishedDateTime: 2023-05-30T22:35:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/05/30/9822968.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 51
 
 secured: "yCL0I3Uh0wOE3EzwITjsvAb+svfpj0g8daLIpCGAfx8/RyHx6vQQzfVLjxbhzgZR6fF/toSZ9MGC2mL22Hj5/7J6ZV+iQHQ4/hZvoYkw/ARVTwb6z7hDJvSPtEJYv/mr8XbO17KglZuArEi9npyS2wE4yMiPE/gkJ40QzyO7TP32UJxqOJMdD2ReOgYn6KGajFnlNiDTMbXcGVn1oztfaWLshMdKXXprKzlsnsFrkB2vgiWDfUMOUGMZv4xXot+H5eUOqU1rQL67DlYOPz2ji8Gn7PMXyFtdHczWi49LdnTA8ByDbmHD0waFXWGR3SGvYWCf2yd4AJWOvQC89lcjHbi5hajBPuKdbwGcNDhIckER2/VJbpYkeo2Jbm6w77ZtrF5+IcwGonGg3WS3hJrRY/vLLOIA4228qM2vS6UeY4yfGpPYtaGrXmiOT5ALzMfmNDmrpJw6op7pvWjvY5n0UGNeKOQ029HeBwuWq39lBJattUfYUJlUP3Y8vm5umn/Gwyu9IRbqDO5POd7+p0R/rQ==;MvD7PwwMjCIWssxDqdFkAA=="
 ---

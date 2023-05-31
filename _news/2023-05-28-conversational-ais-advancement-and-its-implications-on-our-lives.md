@@ -41,6 +41,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Vectara aims to ground generative AI conversational search without hallucinations"
+    excerpt: "AI powered conversational search platform Vectara has new capabilities aiming to improve generative AI for business data."
+    publishedDateTime: 2023-05-30T22:48:00Z
+    webUrl: "https://venturebeat.com/ai/vectara-aims-to-ground-generative-ai-conversational-search-without-hallucinations/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/image1-8.png?w=1200&strip=all"
+        width: 1045
+        height: 598
+        isCached: true
   - title: "The AI revolution can put patients at the centre of NHS"
     excerpt: "A robot shows patients around ... and a cardiologist who has developed an AI tool that allows non-specialists to accurately read heart scans. The Sheba Medical Center, Israel’s biggest hospital, has a portfolio of tech start-ups worth $2 billion, several ..."
     publishedDateTime: 2023-05-26T07:54:00Z

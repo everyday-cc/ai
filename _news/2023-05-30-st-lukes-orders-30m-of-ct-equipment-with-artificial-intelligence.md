@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/area/lehighvalley/st-lukes-orders-30m-of
 webUrl: "https://www.wfmz.com/news/area/lehighvalley/st-lukes-orders-30m-of-ct-equipment-with-artificial-intelligence/article_45080292-fef3-11ed-aa76-9b74fefd7b1c.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "St. Luke's inks $30M deal with GE HealthCare"
-    excerpt: "St. Luke's University Health Network signed a $30 million contract with GE HealthCare to install 21 CT systems powered by artificial intelligence. These CT syst"
-    publishedDateTime: 2023-05-26T05:09:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/st-lukes-inks-30m-deal-with-ge-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "Q0AuDeLp/iyDFOACghdY6Vnh6p0Lt1vG8yE0P+UqMKBYQ/p0GV/rk1VhYroT4a8CN1eSpVCugdcj2XgWtd4IaF0qEwQ5IvpWO1iZcHuRj4t8gm4ysMC5IS48//7xRdlk4Hi2Sxqf8InxaQ+7u2qjfv6ScE7n57aEdkrJJ/VEMfzQ7syDJKIpC4vJeFQIZY/haHgJLYT50fuECwYPVTnDpf6NbnkB6xaBTReqcA9milqkxDZcJW6+3yxyr7411tSwbx5fbHoM/8bor8cYb/9I/GTY7PZj6H1Wve/V0ifLzKGWwQpp4qCCHnTI1ev+EeCam5vAyuFsa1FRdQTCjG0r80FROREieH3aWJQlaf6v8t6s5dlDkYyDa46qRp7CnoSsvKYUOz9yD2KeIB0gKvwojaG5v+PgOfXeB0pazrp0mm7B+qlT154LduFu0SOfcNvzDPry5h9aNsVLQ6/KyfvKD/VBmfz0LJ+X2wzG0887O/euJ6q+8OlBegvCAuHwfI1F5X4Ik0oNhWOuScgF1kZNbw==;l3gfqfymnGm16XIHtpnGCg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3696978/microsoft-integrates-nv
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.amp.html"
 type: article
 quality: 103
-heat: 383
+heat: 373
 published: true
 
 provider:
@@ -315,15 +315,6 @@ related:
         width: 1502
         height: 845
         isCached: true
-  - title: "Microsoft wants licences for powerful AI tools"
-    excerpt: "Microsoft is calling for a new US agency to regulate artificial intelligence and licensing requirements to operate the most powerful AI tools, company president Brad Smith said Thursday."
-    publishedDateTime: 2023-05-26T05:58:00Z
-    webUrl: "https://mybroadband.co.za/news/software/493375-microsoft-wants-licences-for-powerful-ai-tools.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 34
   - title: "Nvidia AI Enterprise moves to Azure"
     excerpt: "Nvidia is integrating its Nvidia AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives. The integration will create a secure, enterprise-ready platform that enables Azure customers worldwide to quickly build,"
     publishedDateTime: 2023-05-26T09:43:00Z

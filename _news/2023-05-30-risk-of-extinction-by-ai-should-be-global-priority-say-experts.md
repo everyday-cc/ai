@@ -110,6 +110,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
+    excerpt: "Scientists and tech industry leaders, including high-level executives at Microsoft and Google, issued a new warning Tuesday about the perils that artificial intelligence poses to humankind."
+    publishedDateTime: 2023-05-30T13:28:00Z
+    webUrl: "https://www.wral.com/story/artificial-intelligence-threatens-extinction-experts-say-in-new-warning/20886276/"
+    ampWebUrl: "https://www.wral.com/amp/20886276/"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20886276/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 71
+    images:
+      - url: "https://wwwcache.wral.com/asset/news/technology/2023/05/30/20886277/6475fa6fa5ee5-media_7dd689f31dad4f5ca5d5ab652dfdfdec-DMID1-5z2v6gjo8-640x480.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "AI Industry Leaders Sign Statement Warning of 'Extinction' Level Risks"
     excerpt: "The statement, signed by OpenAI CEO Sam Altman and DeepMind CEO Demis Hassabis, says mitigating the risks of AI should be a global priority."
     publishedDateTime: 2023-05-30T17:25:00Z
@@ -147,6 +163,20 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 64
+  - title: "Top AI researchers and CEOs warn against ‘risk of extinction’ in joint statement"
+    excerpt: "Experts in the field of artificial intelligence have signed a statement emphasizing the existential threat posed by advanced AI."
+    publishedDateTime: 2023-05-30T22:09:00Z
+    webUrl: "https://venturebeat.com/ai/top-ai-researchers-and-ceos-warn-against-risk-of-extinction-in-joint-statement/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/AI-e1628527067120.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "OpenAI boss downplays fears ChatGPT maker could leave Europe over AI rules"
     excerpt: "OpenAI CEO Sam Altman is downplaying worries that the ChatGPT maker could exit the European Union if it can’t comply with the bloc’s strict new artificial intelligence rules"
     publishedDateTime: 2023-05-26T14:55:00Z
@@ -266,15 +296,20 @@ related:
       name: Time
       domain: time.com
     quality: 42
-  - title: "Artificial Intelligence Raises Risk of Extinction, Experts Say in New Warning"
-    excerpt: "Scientists and tech industry leaders have issued a new warning about the perils that artificial intelligence poses to humankind."
-    publishedDateTime: 2023-05-30T13:24:00Z
-    webUrl: "https://www.nbcdfw.com/news/national-international/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/3267698/"
+  - title: "AI industry and researchers sign statement warning of ‘extinction’ risk"
+    excerpt: "Dozens of AI industry leaders, academics and even some celebrities on Tuesday called for reducing the risk of global annihilation due to artificial intelligence, arguing in a brief statement that the threat of an AI extinction event should be a top global priority."
+    publishedDateTime: 2023-05-30T19:35:00Z
+    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/05/30/ai-industry-and-researchers-sign-statement-warning-of-extinction-risk/"
     type: article
     provider:
-      name: NBC DFW
-      domain: nbcdfw.com
-    quality: 31
+      name: KRDO
+      domain: krdo.com
+    quality: 39
+    images:
+      - url: "https://krdo.b-cdn.net/2023/05/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG9uZS10aHVtYm5haWwtODMwZjVjNWNjNDYxMjRlNzJiMGM2ZGViMjRlZmIzMzM-L19wYWdlcy9oX2I1NzU0YjE3NDA1NGVhMjUxODM2MDZjNjBjMTcwNjg1-300.jpg"
+        width: 1200
+        height: 592
+        isCached: true
   - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
     excerpt: "Scientists and tech industry leaders, including high-level executives at Microsoft and Google, issued a new warning Tuesday about the perils that artificial intelligence poses to humankind."
     publishedDateTime: 2023-05-30T17:09:00Z
@@ -367,6 +402,6 @@ related:
       domain: apnews.com
     quality: 16
 
-secured: "Lbho+eyOsr7ljWJMp7MuA8yqBqXbzz90iIX2dZONEIsFXJgo6E9EwkmiYxpu43NbD16T0fIruacoRHwimhGhJ20+D89pFqNYIxZcjCbsUjb+I+tQXcYJGboxiKymtW2caIYSImQ4ZhxlRtnpSaF85WZiO9NiDPJ8GirmP7w3KE5Zofr47TkwHtbonpL/mvN2WOmT0fmdbEKFRixzmtMoAdV8dJCCugInpKe3GbKTTH/lZjvzkF5iiD0hpMhKXayfp1L64GslXdfR7AZ2SXkv195LBxTtv/akT+z6cEiGhbU90ELQCB0IJQwPeGGGcMPMOZsNa/w4gCUhmOM14hBsPRLtOSZ7oWfgPUozcS+2d3w=;h8kok+zhW6HEozVjqDXc4g=="
+secured: "/ddwV2YItTS9KdwqoPtktw7pz4up4hiCT6U93vizNlazQcfKC7JIf2Etw+J4SlN9cKrzKZkJ9SKJhHjPTIT/TvfJTNlHzppWliP47Oc/vEoA9ZMHT079R7T9Ex/CHp41qRheh7WssdbVUeQMUYfRb8+lIG1dFOEfpuEjQNtgrYjol09t4gmxj6A0jkDWLVMNhsNZJpmATWKTKg+izs1MJ2yeUgCA9SKh2hv0TyVQPwn+wLlPAx/uX3YpHXqUTGtsBaaPXWdw7XobVMdinhBDtrlOtUEnnYiYbKjlMnhDBZ2xAgJYvyk542laMbxoHWY8b1UeFaJHI5HqaiD5savGjZZNBUNljSYBWRALvC+MViF+wTLi6DCW9nyPLtGsWbQJ+p6iJ6MxG3NeCH1jNnlK0AtaTfF1ODVZZTvT0A5cA8UhSl7iUrfKSmYpJ3x6kRTXJpIbGAzqbpAZTn6w8uY1gsJBklr/pUMAywlCeIYITJAWpMvjoOw9ID3zs1tMQ0Lo2SPyWUM+w6s8VNpnYKasHw==;90xcKKJk9LR5d5crrXYRcA=="
 ---
 

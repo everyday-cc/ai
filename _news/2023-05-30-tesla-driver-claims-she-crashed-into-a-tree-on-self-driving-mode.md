@@ -73,20 +73,15 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Tesla’s semi-autonomous Full Self-Driving software a step closer to Australia"
-    excerpt: "Sleuths have discovered two Teslas in Australia with software that includes its Full Self-Driving software. Is a full rollout on the way?"
-    publishedDateTime: 2023-05-26T05:28:00Z
-    webUrl: "https://www.drive.com.au/news/tesla-fsd-beta-spotted-in-australia/"
+  - title: "Self-driving cars lack social intelligence in traffic"
+    excerpt: "Self-driving cars fall short when it comes to understanding the social codes in traffic that let human drivers decide whether to give way or drive on, according to new research."
+    publishedDateTime: 2023-05-30T22:15:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/05/230530125438.htm"
     type: article
     provider:
-      name: Drive.com.au
-      domain: drive.com.au
-    quality: 36
-    images:
-      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_675,q_auto:good,w_1200/cms/uploads/rfhfhsHORuW7lz6uFicu"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
   - title: "Michigan woman hospitalized after self-driving Tesla crashes into tree"
     excerpt: "An Ottawa County woman wound up in the hospital Sunday, May 28, 2023, after she put her Tesla into self-driving mode and the car veered off the roadway, rolled several times and hit a tree, according to Mecosta County Sheriff's office. (MLive file photo)"
     publishedDateTime: 2023-05-29T13:03:00Z

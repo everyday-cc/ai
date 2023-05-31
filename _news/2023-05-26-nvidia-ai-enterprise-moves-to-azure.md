@@ -322,15 +322,6 @@ related:
         width: 1502
         height: 845
         isCached: true
-  - title: "Microsoft wants licences for powerful AI tools"
-    excerpt: "Microsoft is calling for a new US agency to regulate artificial intelligence and licensing requirements to operate the most powerful AI tools, company president Brad Smith said Thursday."
-    publishedDateTime: 2023-05-26T05:58:00Z
-    webUrl: "https://mybroadband.co.za/news/software/493375-microsoft-wants-licences-for-powerful-ai-tools.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 34
   - title: "Nvidia bets on AI hype to help it chip away at Intel"
     excerpt: "Chip maker Nvidia hopes to mount a stronger challenge to Intel with a new product line that promises the best generative AI capabilities."
     publishedDateTime: 2023-05-30T12:07:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/05/207800-artificial-intellige
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/05/207800-artificial-intelligence-unesco-mobilizes-education-ministers-for-a-co-ordinated-response-to-chatgpt/amp/"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Crowdfund Insider
@@ -26,22 +26,6 @@ images:
     width: 809
     height: 607
     isCached: true
-
-related:
-  - title: "Syria participates in UNESCO meeting on discussing Ethics of Artificial Intelligence in education"
-    excerpt: "With the participation of Syria, a virtual ministerial round table meeting was held on Thursday, organized by United Nations Educational, Scientific and Cultural Organization (UNESCO), with the aim of discussing the normative framework for ethics of generative artificial intelligence (GAI) in education."
-    publishedDateTime: 2023-05-26T07:06:00Z
-    webUrl: "https://www.sana.sy/en/?p=309461"
-    type: article
-    provider:
-      name: S A N A
-      domain: sana.sy
-    quality: 58
-    images:
-      - url: "https://www.sana.sy/en/wp-content/uploads/2023/05/1شسي-196-660x330-1.jpg"
-        width: 660
-        height: 330
-        isCached: true
 
 secured: "ps6ZAjs4lBTRARazQsjlfhdHVrmFkg/lTR7drh+OQVdchkOMyqyLJ/WW/301l6w5rIGQdtFHYZIUgpHHOcF8f3Y0m2g1nRu7B52n+93FIeMyeHaQv7PnSMvTJWVIT4Bxg10t/vC3GzGZtIOZXiKBgCmFkKGhTT2h7IMkqybhNIUQqsva+3xr+RUN+IJB5xGLTX97P///gAJdXJQG0FLWivcWlyoYCk6BS+m5IN+Yi50W2t3lwSWh6TGBL2enIdQ66w9EFN+FEKN2ZNXDzSLwxC4TVtIpcLaZizO+TBc4B8CGSjyQD/tLEg9DXk+hyHpo0+17Rbcr70WitFfaFyxHqFGInyUs827qLYQ6Fcg0IxhmiDVGbsofOn6k3DmsSZVvPVw1N2eV/ggBdhVvLKJPwN6lF1GAQnXqcx9umQESyvMRwEhCh8CKLYnnaiLTg4a+2mOZX9rnmQrlTbaJifiUNNb6eYY5CH/PfSYsUB7QEG0MfETYJqdEE4tYaiUw6/bKUPU4jyrG995xxOWjwgG7Qw==;vdscVK460eEWXoLF0SzNaQ=="
 ---

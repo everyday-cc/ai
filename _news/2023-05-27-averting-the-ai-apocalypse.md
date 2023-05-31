@@ -34,15 +34,6 @@ related:
         width: 624
         height: 351
         isCached: true
-  - title: "Analysis-Investing in AI: How to Avoid the Hype"
-    excerpt: "\"It's just that that’s very hard to be true for the entire market.\" Instead of backing hot start-ups or rushing into highly valued AI-themed businesses that might fail, seasoned investors are taking a lateral view to back already proven technology ..."
-    publishedDateTime: 2023-05-26T05:34:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-05-26/analysis-investing-in-ai-how-to-avoid-the-hype"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "Generative AI: How it Works, History, and Pros and Cons"
     excerpt: "Generative AI is used in everything from creative to academic writing and translation; composing ... in which prompts can be given and interactions can take place in plain language. Here are some of the most popular recent examples of generative AI ..."
     publishedDateTime: 2023-05-26T18:17:00Z
