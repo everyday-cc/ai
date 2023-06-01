@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Does AI pose the same threat as nuclear war?"
+    excerpt: "A new open letter signed by prominent figures in the tech world claims artificial intelligence (AI) carries the same risks to human life as nuclear weapons or pandemics, but digital ethicists and researchers are saying it’s all hype that ignores the technology’s real dangers and promotes a strange ideology."
+    publishedDateTime: 2023-06-01T01:31:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/does-ai-pose-the-same-threat-as-nuclear-war.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/nuclear-bomb-explode.jpg"
+        width: 1067
+        height: 600
+        isCached: true
   - title: "AI executives warn its threat to humanity rivals ‘pandemics and nuclear war’"
     excerpt: "A group of chief executives and scientists from companies including OpenAI and Google DeepMind has warned the threat to humanity from the fast-developing technology rivals that of nuclear conflict and disease."
     publishedDateTime: 2023-05-30T13:23:00Z

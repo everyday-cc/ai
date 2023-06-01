@@ -9,8 +9,8 @@ ampWebUrl: "https://www.albawaba.com/amp/business/pr/game-emirates-group-and-aws
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/game-emirates-group-and-aws-team-craft-immersive-digital-world-1520998"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Al Bawaba News
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Emirates Group, AWS team up to craft an immersive digital world"
+    excerpt: "The Emirates Group is embarking on a futuristic immersive digital journey to transform its employee experiences -- a first for the industry -- by collaborating"
+    publishedDateTime: 2023-06-01T00:08:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273849803/emirates-group-aws-team-up-to-craft-an-immersive-digital-world"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "UAE’s Emirates partners with AWS to bring immersive, gamified training to employees"
     excerpt: "With a brand new Emirates Virtual Hub, the airlines will use iXR technology to provide its cabin crew with an unmatched 3D interactive experience. UAE's Emirates partners with AWS to bring immersive,"
     publishedDateTime: 2023-05-31T12:10:00Z

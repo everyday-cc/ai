@@ -311,18 +311,18 @@ related:
         height: 682
         isCached: true
   - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-    excerpt: "Leading scientists and tech industry leaders are warning about the perils artificial intelligence poses to humankind, saying “mitigating the risk of extinction from AI should be a global priority.”"
-    publishedDateTime: 2023-05-31T07:32:00Z
-    webUrl: "https://madison.com/news/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/article_25149b54-010a-543a-bcea-102afed5c957.html"
+    excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
+    publishedDateTime: 2023-05-31T12:32:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692490"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 51
+      name: ABC
+      domain: abcnews.go.com
+    quality: 49
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/2/51/25149b54-010a-543a-bcea-102afed5c957/6476696440c58.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://s.abcnews.com/images/International/wirestory_54ea8aadc60d1503e5a65878219aad43_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "AI leaders warn the technology poses 'risk of extinction' like pandemics and nuclear war"
     excerpt: "\"Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war,\" said the one-sentence statement released by the San Francisco-based nonprofit Center for AI Safety."
