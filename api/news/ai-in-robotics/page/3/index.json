@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-14-humans-could-be-controlled-by-robots-ai-firms-founder-warns.md",
+      "title": "Humans could be controlled by robots, AI firm’s founder warns",
+      "excerpt": "Robots could end up controlling humanity ... if we have agents more capable than us that we cannot control, that are going across the internet and hooked up and they achieve a level of automation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theboltonnews.co.uk/news/national/23520591.humans-controlled-robots-ai-firms-founder-warns/",
+      "originalUrl": "https://www.theboltonnews.co.uk/news/national/23520591.humans-controlled-robots-ai-firms-founder-warns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theboltonnews.co.uk/resources/images/16777260/?type=og-image",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-13T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bolton News",
+        "domain": "theboltonnews.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-perrone-robotics-rolling-out-self-driving-shuttle-program-for-colleges-and-universities.md",
+      "title": "Perrone Robotics rolling out self-driving shuttle program for colleges and universities",
+      "excerpt": "The “Auto Campus” program will allow students to get to their day to day activities through self-driving shuttles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbc29.com/2023/05/12/perrone-robotics-rolling-out-self-driving-shuttle-program-colleges-universities/",
+      "originalUrl": "https://www.nbc29.com/2023/05/12/perrone-robotics-rolling-out-self-driving-shuttle-program-colleges-universities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wvir-prod.cdn.arcpublishing.com/resizer/TihH-d-vB9iQxhRq9IIMPHd3Apo=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/I2EV3YZNFJED5BJKC7GTQFXC3A.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbc29.com/2023/05/12/perrone-robotics-rolling-out-self-driving-shuttle-program-colleges-universities/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nbc29-com.cdn.ampproject.org/c/s/www.nbc29.com/2023/05/12/perrone-robotics-rolling-out-self-driving-shuttle-program-colleges-universities/?outputType=amp",
+      "publishedDateTime": "2023-05-12T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC29",
+        "domain": "nbc29.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-artificial-intelligence-etf-hits-52-week-high-as-its-23-ytd.md",
       "title": "Artificial Intelligence ETF hits 52-week high as its +23% YTD",
       "excerpt": "Artificial Intelligence has been one of the big buzzwords of 2023 and the Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) has taken notice as the exchange traded fund touched a new ...",
@@ -1248,101 +1335,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-start-ai-sai-is-now-available-for-trading-on-lbank-exchange.md",
-      "title": "Start AI (SAI) Is Now Available for Trading on LBank Exchange",
-      "excerpt": "robotics, biomedical AI, media, arts and entertainment. There're multiple features provided by Start AI for all kinds of businesses, these features include Distributed AI Space, which reduces the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/32258672/start-ai-sai-is-now-available-for-trading-on-lbank-exchange",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/32258672/start-ai-sai-is-now-available-for-trading-on-lbank-exchange",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newsfilecorp.com/files/8831/165169_c2e150a184cf6869_001.jpg",
-          "width": 550,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32258672",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32258672",
-      "publishedDateTime": "2023-05-08T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-the-jobs-ai-wont-take-yet.md",
-      "title": "The jobs AI won't take yet",
-      "excerpt": "Since the start of the industrial revolution ... And that could be dire, says Martin Ford, author of Rule of the Robots: How Artificial Intelligence Will Transform Everything. “It's not just that this would happen to individuals, but it could be pretty ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/worklife/article/20230507-the-jobs-ai-wont-take-yet",
-      "originalUrl": "https://www.bbc.com/worklife/article/20230507-the-jobs-ai-wont-take-yet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ychef.files.bbci.co.uk/live/624x351/p0flr5cn.jpg",
-          "width": 624,
-          "height": 351,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-07T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

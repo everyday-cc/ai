@@ -38,6 +38,15 @@ related:
         width: 1296
         height: 729
         isCached: true
+  - title: "Tottenham's Harry Kane invests in fitness AI and robotics company OxeFit"
+    excerpt: "Kane invested in OxeFit as part of the startup’s oversubscribed Series A2 investment round. The Dallas-based fitness AI and robotics company makes smart gym equipment that offers dynamic resistance and computer vision form tracking."
+    publishedDateTime: 2023-06-01T16:32:00Z
+    webUrl: "https://www.sportsbusinessjournal.com/Daily/Issues/2023/06/01/Technology/harry-kane-oxefit-investment.aspx"
+    type: article
+    provider:
+      name: Sports Business Journal
+      domain: sportsbusinessjournal.com
+    quality: 48
   - title: "English soccer star Harry Kane invests in fitness AI and robotics company OxeFit"
     excerpt: "Kane invested in OxeFit as part of the startup’s oversubscribed Series A2 investment round. The Dallas-based fitness AI and robotics company makes smart gym equipment that offers dynamic resistance and computer vision form tracking."
     publishedDateTime: 2023-06-01T13:46:00Z

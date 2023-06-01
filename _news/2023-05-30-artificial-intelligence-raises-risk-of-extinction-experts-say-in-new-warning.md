@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Artificial Intelligence Raises Risk of Extinction, Experts Say in New Warning"
-excerpt: "Scientists and tech industry leaders have issued a new warning about the perils that artificial intelligence poses to humankind."
-publishedDateTime: 2023-05-30T13:24:00Z
-originalUrl: "https://www.nbcdfw.com/news/national-international/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/3267698/"
-webUrl: "https://www.nbcdfw.com/news/national-international/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/3267698/"
-ampWebUrl: "https://www.nbcdfw.com/news/national-international/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/3267698/?amp=1"
-cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/3267698/?amp=1"
+title: "Artificial intelligence raises risk of extinction, experts say in new warning"
+excerpt: "The CEO of ChatGPT maker OpenAI and Geoffrey Hinton, a computer scientist known as the godfather of artificial intelligence, were among the hundreds who signed the statement."
+publishedDateTime: 2023-05-30T13:52:00Z
+originalUrl: "https://www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/"
+webUrl: "https://www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/"
+ampWebUrl: "https://www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/?outputType=amp"
+cdnAmpWebUrl: "https://www-wbko-com.cdn.ampproject.org/c/s/www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/?outputType=amp"
 type: article
 quality: 71
 heat: -1
 published: false
 
 provider:
-  name: NBC DFW
-  domain: nbcdfw.com
+  name: WBKO
+  domain: wbko.com
 
 topics:
-  - AI in Healthcare
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://media.nbcdfw.com/2023/05/CHATGPT.jpg?quality=85&strip=all&resize=1200%2C675"
-    width: 1200
-    height: 675
+  - url: "https://gray-wbko-prod.cdn.arcpublishing.com/resizer/m2_Hb0UKjlNkGm-4CU7nAg9lueY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/CK5GVJIDSNCA5JWCP6IMLZNW4A.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -523,6 +523,6 @@ related:
       domain: chron.com
     quality: 16
 
-secured: "8o5jzUiL1lNgNNcWHeTHtF5rCPEXGAfXADIjot6rUwlbhms/wopHafd1jjcYBqNzmVJ6dLeqNS5ex1Y97SczStSFk+fVGLzealFPvYv1Da7fadXNp9uY63LJU4aXbrSsJ6/dxpZ9HnQRw/WTsQ0i7aXJ+l/EIx7K2SDIKY7QXbDbJHKlfr3IasqT9RTCNwmSM/dS9nnt3BdW4otaYF6n5h2n+OpzjBUycUNTMmmnzUKpIGz0hz/+T2GYZbR6dFf+6QPUltLSjEKKHfLfA2yHP1RwaDCjVrNjqtFHH8WMq6ka7XdwEa8sqS9TjpexX/EcGinldjIJe04DWl1v4Gp9b3DnMItLmG0LXMa0H0gnc94=;aa1ulAp4qcdT5QTXJONu3A=="
+secured: "Xa3NVmTQ5MIpIBlyEJoSgN/BlEcvoGZcCwEaNs6vVNL7JS5R504Z/K+LFTUO8aoB+YkWHxD8L5Pj8kBTOOlks75hJRlx8DeeXcvMxmF8ibxvk2Blq/fBwgVdPfyAP4P7+PbSqtgTqX1RTQdZF+cgdEI2ZPuUSLUZzFANEraMJjETnOcJ/wVmXGWBWuXISRdp8Pe43qaJ+SOLMMxIpZddjL0mSEw6/RMAaPcit9Wmmth6FoFj/PU1EF2dhhAOEA/p4XsNXlnTTw0czrL518l/Xx/DeA0ylR+YdnFH4jdUDv1DVTdXIGwefom8Y5spS8nUReuhFz7bVxiDlni0tzwdZeUINTBG1TyBgTe1ffvLi78=;fIQLv7oOYyKLZCUTUFHuNQ=="
 ---
 

@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Asus plans on-site ChatGPT-like AI server rentals for privacy and data control"
+    excerpt: "Taiwan's Asustek Computer (known popularly as \"Asus\") plans to introduce a rental business AI server that will operate on-site to address security concerns and data control issues that come from cloud-based AI systems,"
+    publishedDateTime: 2023-06-01T16:00:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/06/asus-plans-on-site-chatgpt-like-ai-server-rentals-for-privacy-and-data-control/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/06/asus-plans-on-site-chatgpt-like-ai-server-rentals-for-privacy-and-data-control/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/asus-plans-on-site-chatgpt-like-ai-server-rentals-for-privacy-and-data-control/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/asus_hero_3-800x427.jpg"
+        width: 800
+        height: 427
+        isCached: true
   - title: "A lawyer used ChatGPT to cite bogus cases. What are the ethics?"
     excerpt: "A New York lawyer is facing potential sanctions over an error-riddled brief he drafted with help from ChatGPT."
     publishedDateTime: 2023-05-30T18:46:00Z

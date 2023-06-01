@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-dow
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://m.foolcdn.com/media/dubs/images/original_imageshttpsg.foolcdn.comeditorialimag.width-600_IFPc1qZ.jpg"
         width: 600
         height: 399
+        isCached: true
+  - title: "3 artificial intelligence share ideas"
+    excerpt: "Investing in artificial intelligence (AI) has become a key stock market theme in 2023. Here are three share ideas that could benefit."
+    publishedDateTime: 2023-06-01T16:23:00Z
+    webUrl: "https://www.hl.co.uk/news/articles/3-artificial-intelligence-share-ideas"
+    type: article
+    provider:
+      name: Hargreaves Lansdown
+      domain: hl.co.uk
+    quality: 39
+    images:
+      - url: "https://www.hl.co.uk/__data/assets/image/0004/18673762/Graphic-lightbulb.jpg"
+        width: 5150
+        height: 2508
         isCached: true
 
 secured: "/mPAU9blPhIQAxxdoQ/pIVMM3mR0J1ETIv3yuJK16kiMgLIKZMOF3qWkzgGGIX570AdaslF/Mwz4mnvBDqrs6pqvh0SdkWWfdY4lg+jKhFHT4t/T63Gigm/RZqZOqTpTVny/FxYmvVpRuqIioHvHIjP+935ME4ZRHEGpPD+N4kxB2mm4+smKgL6gGqW3QIQYteblBEWam+2KnpobaZ65qdgkYE8K5LYpMf2fZSL022J+WbD/2+umWedHc5zvWSdQ4H8zASTCZXA7xPr/CFrBApxm+2uc7g1Xx3QHo4ZcbHSC6zU/Ts1bW9MoIKKJ9h1EekC0joojd3cFIvzUF61keLpH+sBpHQbuw2NQcuNv7Phy4rVh/HQRPtHq/ETUB0xRvXe2Y3HCIZm+QMgsf/GmCae2oUNExX1qc05msPJreI0pkCdzCQ8snr0lkz3x9gS8FbnMoE/f7nRm7yL6HCkwjwnnaiDQKKuUyyBXf7eshSrv5onnQuHkKfkR6yHD2bE4ll+AZRIPLIhY6vm2WJMtOQ==;pguK2F65zlABO1EoXn4rvg=="

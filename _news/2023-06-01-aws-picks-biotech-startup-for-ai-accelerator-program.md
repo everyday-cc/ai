@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/innovation/aws-picks-biotech
 webUrl: "https://www.beckershospitalreview.com/innovation/aws-picks-biotech-startup-for-ai-accelerator-program.html"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
+  - title: "AWS announces the 25 startups selected for its first 'fintech in Africa' accelerator"
+    excerpt: "African fintech startups have been selected for the inaugural Amazon Web Services (AWS) FinTech Africa Accelerator cohort. This cohort was selected from over 500 applications and is part of the EMEA Startup Loft Accelerator (SLA) program run by AWS."
+    publishedDateTime: 2023-06-01T16:43:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1326213&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 12
 
 secured: "RUvb1AZbuTrkE5osICbwuCg7w+lOrGPCrNTQMTNQwXEC07z7yUk+EhuFdQT5TiDKhHUnfCdFP9QP/jGvNxQo4r9vCqe55v6W2OYDRSdkxbEw7ibT7rR3vF5SCZI0EJ/z7K2jZIuFiUsKlsH3bPfMb7kweaNXNXJd8h2BiZDslrNybOHHkgzJlColm3bqcJl/Krujs9f5R5XjmyJlN5VnhQC69bZSYtq2oaTNMSygcrfFkvaJitdpaI06Tk8iS27MY82+qt1CS6pkfSU/hniQ8Oz22bnLv+qgj0fqXE5UF++cfoseqYZVDUS1dxHBHREXU8hjUJmtyjXCPjjQFoq5v7pbkoodKeW2WD564o7Xm1k=;fAEUQ335AaoOg4pon2XzoQ=="
 ---

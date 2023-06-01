@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/the-news-media-ethics-and-chatgpt-for-pr-and-comms-work/amp/"
 type: article
 quality: 89
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/3a48a084a7a93ad8c86dde1b9665b51646afbb96/2023/05/24/198d2750-d626-47a5-beca-9735824020a7/versus.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Asus plans on-site ChatGPT-like AI server rentals for privacy and data control"
+    excerpt: "Taiwan's Asustek Computer (known popularly as \"Asus\") plans to introduce a rental business AI server that will operate on-site to address security concerns and data control issues that come from cloud-based AI systems,"
+    publishedDateTime: 2023-06-01T16:00:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/06/asus-plans-on-site-chatgpt-like-ai-server-rentals-for-privacy-and-data-control/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/06/asus-plans-on-site-chatgpt-like-ai-server-rentals-for-privacy-and-data-control/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/asus-plans-on-site-chatgpt-like-ai-server-rentals-for-privacy-and-data-control/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/asus_hero_3-800x427.jpg"
+        width: 800
+        height: 427
         isCached: true
   - title: "No ChatGPT in my court: Judge orders all AI-generated content must be declared and checked"
     excerpt: "Few lawyers are foolish enough to let AI make their arguments, but one did, and this judge is making sure that doesn't happen in his court."

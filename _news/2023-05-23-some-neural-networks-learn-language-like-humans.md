@@ -3,8 +3,8 @@ category: news
 title: "Some Neural Networks Learn Language Like Humans"
 excerpt: "We preselected all newsletters you had before unsubscribing."
 publishedDateTime: 2023-05-23T06:05:00Z
-originalUrl: "https://www.realclearscience.com/2023/05/23/some_neural_networks_learn_language_like_humans_901078.html"
-webUrl: "https://www.realclearscience.com/2023/05/23/some_neural_networks_learn_language_like_humans_901078.html"
+originalUrl: "https://www.realclearscience.com/2023/05/23/some_neural_networks_learn_language_like_humans_901078.html#!"
+webUrl: "https://www.realclearscience.com/2023/05/23/some_neural_networks_learn_language_like_humans_901078.html#!"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "FC+0EDBdaECmSskyk283bL4OOXmnYCC8pu/JXbTtei3GLZQ5axK554+eYqKqCLMDF+TgqFG5GkKAsztdRJ6DdnS4SWyXwpK7difTK3EQMYULfDlVSVZFomm8gPrehD3cDUzatoAsyL3YvzP7+ycWV8O5h0/IXWz+TR8l8WHKZ74TtQuTh6KIq8yKUUcnCt1dD/0uCq//PH3nrZKEO3x2h6vZgOdK/0vioDqW3Xd4+MX+Jb6d1HA7zE0syMqZB+cqXPUy9hqzgT3NxGMW6KE4KE24M4BtiNL/3TkOjfHhHhkysjHWe+8XTQlBtP6RfPFw5JOh566SAiSKUx0xevXMA8bZ17iNq886FUC/4zae+aQ=;NiOjPdKTQ5ql82/dIqU97w=="
+secured: "nSbAwjkotWHSU1ixIQ4vOW80fT/P4osYAZSLzk5QIHgmsU5HNgxkWA6YRgv/8ECy8fZUgs4Kz1RjC3zQ9HsbmwEd+iia4wnYU+/tH8siO6A4sjWhzeqeRVBSfKXUj/khFKtxlrV4ovi5+0N9NgRzY90DdxZ0FHcISuLV/0qIGtQRMe2X870w5h6orLxHR3CTojQHfmzcHrQhFSbh1U8wHKiOm7R/bVntw4rYMygXoKs83d57WsWWGT6LOUDCVXO6QJq8siFZe5ZQWSOYqgWDCPCyeCpAJjH2u3q/rpCQ/cMUZMlpCJBpZgQb5Up7OTabtSlLzlIU8rHgulvOT2aBExr1x6cwZfv3mlE1iBDN/c8=;oldyRtGlGLnemTzJjjY2pg=="
 ---
 

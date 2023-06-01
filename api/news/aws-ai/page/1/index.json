@@ -53,7 +53,7 @@
       "originalUrl": "https://www.beckershospitalreview.com/innovation/aws-picks-biotech-startup-for-ai-accelerator-program.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -865,20 +865,20 @@
     },
     {
       "path": "_news/2023-05-23-aws-supports-hsuhk-to-establish-hong-kongs-first-cloud-innovation-school.md",
-      "title": "AWS Supports HSUHK to Establish Hong Kong's First Cloud Innovation School",
-      "excerpt": "HONG KONG SAR - Media OutReach - 23 May 2023 - Amazon Web Services (AWS) today announced its support for The Hang Seng University of Hong Kong (HSUHK) to establish Cloud Innovation School (CIS), the first such school in Hong Kong,",
+      "title": "AWS Supports HSUHK to Establish Hong Kong’s First Cloud Innovation School",
+      "excerpt": "HONG KONG SAR - Media OutReach - 23 May 2023 - Amazon Web Services (AWS) today announced its support for The Hang Seng University of Hong Kong (HSUHK) to",
       "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/aws-supports-hsuhk-establish-hong-kongs-first-cloud-innovation-school",
-      "originalUrl": "https://www.asiaone.com/business/aws-supports-hsuhk-establish-hong-kongs-first-cloud-innovation-school",
+      "webUrl": "https://www.macaubusiness.com/aws-supports-hsuhk-to-establish-hong-kongs-first-cloud-innovation-school/",
+      "originalUrl": "https://www.macaubusiness.com/aws-supports-hsuhk-to-establish-hong-kongs-first-cloud-innovation-school/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://release.media-outreach.com/release.php/Images/364933/-.jpg#image-364933",
-          "width": 1752,
-          "height": 980,
+          "url": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/05/V6UQ7e.jpeg",
+          "width": 1210,
+          "height": 680,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -888,11 +888,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T02:55:00-07:00",
+      "publishedDateTime": "2023-05-22T18:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
+        "name": "Macau Business",
+        "domain": "macaubusiness.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/news/india/artificial-intelligence-candi
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/artificial-intelligence-candidates-use-chatgpt-to-crack-telangana-govt-exams/amp_articleshow/100623774.cms"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
+    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
+    publishedDateTime: 2023-06-01T16:31:00Z
+    webUrl: "https://www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june"
+    ampWebUrl: "https://www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg"
+        width: 470
+        height: 352
+        isCached: true
   - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
     excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
     publishedDateTime: 2023-05-30T18:31:00Z

@@ -31,13 +31,13 @@ images:
 
 related:
   - title: "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
-    excerpt: "Automation Anywhere, the #1 leader in cloud-native intelligent automation, today announced it is working with Amazon Web Services (AWS) to bring intelligent automation and generative AI innovations to market."
-    publishedDateTime: 2023-06-01T13:23:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/06/01/9824889.htm"
+    excerpt: "Automation Anywhere today announced it is working with Amazon Web Services (AWS) to bring intelligent automation and"
+    publishedDateTime: 2023-06-01T16:38:00Z
+    webUrl: "https://www.datanami.com/this-just-in/automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: datanami.com
+      domain: datanami.com
     quality: 13
 
 secured: "4saXEKm8Mj4AamBZ9TP4nJ02fRm0mZfDhUcpknIcuxNEmg2U85CNw75omTaknterhxNwcw+IVZb8us4uAyobywvSngHPmLvu/xot2CobqsVr8LD0nTQlQzfhwmKSMslqZJDKVDfkmxnCWAxdHU2X5R6eaImj+AuubvcbiMLrmTqsME1F42OoeKW7jhahuKHv1oh+r6keHbpDVwGFg4CWihnIQt9Ex6Yc/WirpV6fSY4BIaZeKfDNNpEehmQRAY9tb5VFNlHC8LfS1ZOAyh9Y7k+6kgTNd/nHIbI3hwodoVKX7KdjAURpJTwLV+zmm2QfZEEYSEfSOWjSB4y/wPFCr8X6uZR3uZWrhokAfcVtgzmXglEhUtkqLIGb20N0ed1mqzgSwpxNtXePGKHfA4gmbjqwW65j6z24OAA7nOwVSCuBR4+zF9SsQkne50QQgQgTRTa5qhkMmAcIgUB/zWugBIXv5U70i04N8KClQ2nuhjqOCVTKXcn4LyJQTlFUAfF4j50047QqVVJaKOfaE9uecA==;/LYXNiZsBwjWDuHWpxlZVA=="

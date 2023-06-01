@@ -2,6 +2,205 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-02-microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.md",
+      "title": "Microsoft offers Azure ML data import CLI, SDK for Snowflake, other databases",
+      "excerpt": "The new integration, which is in public preview, is designed to bring data into Azure’s ML service from data repositories outside the Azure platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.html",
+      "originalUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2017/08/5_microsoft-azure-100733132-large.jpg?auto=webp&quality=85,70",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.amp.html",
+      "publishedDateTime": "2023-06-01T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-watch-artificial-intelligence-dominates-london-robot-show.md",
+      "title": "Watch: Artificial intelligence dominates London Robot Show",
+      "excerpt": "A quick lesson in artificial intelligence from Ameca who uses OpenAI’s ChatGPT-3 to respond to any question you might have – and can respond in any language.The robot is built by Engineered Arts, a UK-based company.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/news/international/uk/watch-artificial-intelligence-dominates-london-robot-show/videoshow/100685103.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/news/international/uk/watch-artificial-intelligence-dominates-london-robot-show/videoshow/100685103.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/thumb/width-600,height-450,msid-100685103,imgsize-32844/watch-artificial-intelligence-dominates-london-robot-show.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/news/international/uk/watch-artificial-intelligence-dominates-london-robot-show/amp_videoshow/100685103.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/uk/watch-artificial-intelligence-dominates-london-robot-show/amp_videoshow/100685103.cms",
+      "publishedDateTime": "2023-06-01T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-chatgpt-and-generative-ai-our-guide-to-2023s-most-talked-about-technology.md",
+      "title": "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology",
+      "excerpt": "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june",
+      "originalUrl": "https://www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg",
+          "width": 470,
+          "height": 352,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june?amp",
+      "publishedDateTime": "2023-06-01T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-taskus-shares-rise-on-launch-of-ai-customer-service-app.md",
+      "title": "TaskUs Shares Rise on Launch of AI Customer Service App",
+      "excerpt": "By Sabela Ojea Shares of TaskUs on Thursday rose after the company said it launched a generative AI customer service application named TaskGPT. At",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/taskus-shares-rise-on-launch-of-ai-customer-service-app-d7b65df",
+      "originalUrl": "https://www.marketwatch.com/story/taskus-shares-rise-on-launch-of-ai-customer-service-app-d7b65df",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/taskus-shares-rise-on-launch-of-ai-customer-service-app-d7b65df",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/taskus-shares-rise-on-launch-of-ai-customer-service-app-d7b65df",
+      "publishedDateTime": "2023-06-01T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-2-chip-stocks-that-jp-morgan-says-could-dominate-the-critical-ai-market.md",
       "title": "2 Chip Stocks That J.P. Morgan Says Could Dominate the Critical AI Market",
       "excerpt": "J.P. Morgan says two chip stocks will do well riding the rising demand for custom-designed semiconductors: Broadcom and Marvell Technology Already a subscriber? Sign In",
@@ -104,7 +303,7 @@
       "originalUrl": "https://www.espn.com/soccer/story/_/id/37772984/tottenham-harry-kane-hopes-artificial-intelligence-help-reduce-injuries",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -984,203 +1183,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-cisco-aims-for-ai-first-security-with-armorblox-buy.md",
-      "title": "Cisco aims for AI-first security with Armorblox buy",
-      "excerpt": "Looking to bolster the AI support in its Security Cloud strategy Cisco announced plans to acquire Armorblox, a 6-year old predictive and generative AI vendor that specializes in attack prediction and rapid threat detection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3698288/cisco-aims-for-ai-first-security-with-armorblox-buy.html",
-      "originalUrl": "https://www.networkworld.com/article/3698288/cisco-aims-for-ai-first-security-with-armorblox-buy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/04/05/08/pcworld-infosec4tc-platinum-membership-cyber-security-training-lifetime-access-100939398-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3698288/cisco-aims-for-ai-first-security-with-armorblox-buy.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3698288/cisco-aims-for-ai-first-security-with-armorblox-buy.amp.html",
-      "publishedDateTime": "2023-05-31T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-while-parents-worry-teens-are-bullying-snapchat-ai.md",
-      "title": "While parents worry, teens are bullying Snapchat AI",
-      "excerpt": "Users can also personalize My AI with custom Bitmoji avatars, and chatting feels a bit more intimate than going back and forth with ChatGPT’s faceless interface. Not all users were happy with the new chatbot,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-my-ai/",
-      "originalUrl": "https://techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-my-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/snapchat-my-ai-3.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-my-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-my-ai/amp/",
-      "publishedDateTime": "2023-05-31T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-ai-war-crimes-evidence-erased-by-social-media-platforms.md",
-      "title": "AI: War crimes evidence erased by social media platforms",
-      "excerpt": "Evidence of potential human rights abuses may be lost after being deleted by tech companies, the BBC has found. Platforms remove graphic videos, often using artificial intelligence - but footage that may help prosecutions can be taken down without being archived.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-65755517",
-      "originalUrl": "https://www.bbc.com/news/technology-65755517",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/16D5E/production/_129943539_still02.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-65755517.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65755517.amp",
-      "publishedDateTime": "2023-05-31T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-ai-startup-c3ais-stock-plunges-20-after-softer-revenue-guidance.md",
-      "title": "AI startup C3.ai’s stock plunges 20% after softer revenue guidance",
-      "excerpt": "Shares of white-hot Ai startup C3.ai Inc., which had been hurtling toward record highs earlier this week, took an abrupt U-turn Wednesday. The company’s stock AI, -8.96% skidded 14% in after-hours trading in the minutes leading up to its quarterly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66?mod=mw_quote_news",
-      "originalUrl": "https://www.marketwatch.com/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66?mod=mw_quote_news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-789589/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66",
-      "publishedDateTime": "2023-05-31T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

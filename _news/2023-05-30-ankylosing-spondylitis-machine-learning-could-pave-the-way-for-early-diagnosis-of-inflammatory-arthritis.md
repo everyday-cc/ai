@@ -1,23 +1,31 @@
 ---
 category: news
-title: "Ankylosing spondylitis: machine learning could pave the way for early diagnosis of inflammatory arthritis"
-excerpt: "Unfortunately, diagnosing AS can be a lengthy process, taking up to ten years from the onset of symptoms and usually requiring X-rays. The slow progression of the condition, coupled with the lack of a definitive test, contributes to these delays."
-publishedDateTime: 2023-05-30T11:37:00Z
-originalUrl: "https://theconversation.com/ankylosing-spondylitis-machine-learning-could-pave-the-way-for-early-diagnosis-of-inflammatory-arthritis-203786"
-webUrl: "https://theconversation.com/ankylosing-spondylitis-machine-learning-could-pave-the-way-for-early-diagnosis-of-inflammatory-arthritis-203786"
+title: "Ankylosing spondylitis: Machine learning could pave the way for early diagnosis of inflammatory arthritis"
+excerpt: "Ankylosing spondylitis (AS) is the second most common type of inflammatory arthritis, often affecting teenagers and young adults. Symptoms of AS can include back pain, stiffness, joint inflammation (arthritis),"
+publishedDateTime: 2023-05-30T14:40:00Z
+originalUrl: "https://medicalxpress.com/news/2023-05-ankylosing-spondylitis-machine-pave-early.html"
+webUrl: "https://medicalxpress.com/news/2023-05-ankylosing-spondylitis-machine-pave-early.html"
+ampWebUrl: "https://medicalxpress.com/news/2023-05-ankylosing-spondylitis-machine-pave-early.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-05-ankylosing-spondylitis-machine-pave-early.amp"
 type: article
-quality: 2
-heat: 2
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "Dxso0/qCCDLUj+3vROIW5Wyp/ABxOiLgZyfwZXKYllzbzxbrwcjoCR2fCsEvjF/sozJtUHKu+7B1UBhTTh7V0H66NTqa3WpjICOe9tfpr8Skk7JptRwP0FmIb+0ESi4kBdN312Yz4JcoOvARm+ujJt4J7JJqVdI3xeO5yzo1EvIU55pkV+GSZ+KMLelcfbopK9wRBHoi6L7Wlole3vjT8+Jk7WRPgVswVQ8jiohfBMC/5eMD/3zzXe8xZnzGyRmWngLDFLt5rPc6XRmuLbrCt1S54aF/KUnzkpJdupX1a7tp7T5yfDnGrHgDS++EZ9scoMSWaLJfbsr9vuaVNrribSv7KsGn8DN0gDNsR43gmpmrS6ngI4prTTx48Q+BYJts9BrttFG4hlQlnKlHSiKtdm84m3ClzfGjSAhyHjHjGxNKiU4wQYrcg5vSBOqdpmu6TBmRQMbOAoZPSWOpKXZ4q5tqXhBq0W4hh09Qcv8cpxEcAJwye0NKLrIWib9ml6/LCrr+hJoqtt+dZANPqVv/uQ==;LlteggzyfSiX2SF6wkmQrg=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ankylosing-spondylitis.jpg"
+    width: 1356
+    height: 668
+    isCached: true
+
+secured: "aXcCValpmIqxCq0jOSmIsndJzNAjhtNUGXuXSPwd/RBTHW9QPz+7PwoQYpLuukTGUzyPki1FxZdLcnJl1H7HBDT3UDbSxN0OMW3Ghb/tPGyoVdOZ4hNEv5GCg0evI2FDL21/UORDDZ/FNV0mwdAEH+e1x3xQ6DkNvtfd5rAVswCHsl2rUdNsjXw683Iu+T+LkdPcAGFZEQBrKiwSjI+I08CL5pjwq78fVeneNxL2ENCcDYUYVogdgYGuFabcHW+uGtaq3JcL5/ELZdv1VKE0rbEyL6HUB0RFhhYH6Na1KiCUEfUHm0VqcJaKfwEnxdw8HRGi4ELcO+aT/Knm7tVrNiDzy9IDG+u74VsBfAvAPYM=;YobGKxbCE7Ec+WTyySiwrQ=="
 ---
 

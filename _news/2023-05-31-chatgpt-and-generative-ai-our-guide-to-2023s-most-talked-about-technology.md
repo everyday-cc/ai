@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
+    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
+    publishedDateTime: 2023-06-01T16:31:00Z
+    webUrl: "https://www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june"
+    ampWebUrl: "https://www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg"
+        width: 470
+        height: 352
+        isCached: true
   - title: "Artificial intelligence: Candidates use ChatGPT to crack Telangana govt exams"
     excerpt: "A special investigation team has found out that artificial intelligence was deployed by one accused to clear exams held by The Telangana State Public Service Commission (TSPSC). The accused used ChatGPT to get answers after he accessed the question papers for recruiting assistant executive engineer (AEE) and divisional accounts officer (DAO)."
     publishedDateTime: 2023-05-30T11:47:00Z

@@ -123,21 +123,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Raises Risk of Extinction, Experts Say in New Warning"
-    excerpt: "Scientists and tech industry leaders have issued a new warning about the perils that artificial intelligence poses to humankind."
-    publishedDateTime: 2023-05-30T13:24:00Z
-    webUrl: "https://www.nbcdfw.com/news/national-international/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/3267698/"
-    ampWebUrl: "https://www.nbcdfw.com/news/national-international/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/3267698/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/3267698/?amp=1"
+  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
+    excerpt: "The CEO of ChatGPT maker OpenAI and Geoffrey Hinton, a computer scientist known as the godfather of artificial intelligence, were among the hundreds who signed the statement."
+    publishedDateTime: 2023-05-30T13:52:00Z
+    webUrl: "https://www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/"
+    ampWebUrl: "https://www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wbko-com.cdn.ampproject.org/c/s/www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/?outputType=amp"
     type: article
     provider:
-      name: NBC DFW
-      domain: nbcdfw.com
+      name: WBKO
+      domain: wbko.com
     quality: 71
     images:
-      - url: "https://media.nbcdfw.com/2023/05/CHATGPT.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
+      - url: "https://gray-wbko-prod.cdn.arcpublishing.com/resizer/m2_Hb0UKjlNkGm-4CU7nAg9lueY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/CK5GVJIDSNCA5JWCP6IMLZNW4A.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "AI Industry Leaders Sign Statement Warning of 'Extinction' Level Risks"
     excerpt: "The statement, signed by OpenAI CEO Sam Altman and DeepMind CEO Demis Hassabis, says mitigating the risks of AI should be a global priority."

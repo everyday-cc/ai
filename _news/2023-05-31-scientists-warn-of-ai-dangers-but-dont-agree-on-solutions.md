@@ -7,7 +7,7 @@ originalUrl: "https://www.rep-am.com/news/2023/05/30/scientists-warn-of-ai-dange
 webUrl: "https://www.rep-am.com/news/2023/05/30/scientists-warn-of-ai-dangers-but-dont-agree-on-solutions/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 800
     height: 533
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Could Make Humans Extinct, Scientists Warn"
-    excerpt: "Worries about AI systems outsmarting humans and running wild have intensified with the rise of a new generation of highly capable chatbots."
-    publishedDateTime: 2023-05-30T22:40:00Z
-    webUrl: "https://patch.com/us/across-america/artificial-intelligence-could-make-humans-extinct-scientists-warn"
-    ampWebUrl: "https://patch.com/us/across-america/amp/31398946/artificial-intelligence-could-make-humans-extinct-scientists-warn"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/us/across-america/amp/31398946/artificial-intelligence-could-make-humans-extinct-scientists-warn"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 57
-    images:
-      - url: "https://patch.com/img/cdn20/ap/22940811/20230530/063900/styles/patch_image/public/ap23144596433121-1___30183726587.jpg"
-        width: 1066
-        height: 800
-        isCached: true
 
 secured: "ighxc1J3FXsLt3IvSkNDDM7GCe+9Lq2WRgl5ZB0Z/Lq0Mx7tB4JCxtf8GiJ88Gt7dyKX3I/p5kcVKA35mASpy9Mo2dLCz7A1+WSiAcnRK9caxdHX6g4cNtr+Tr6yH9BBnnph6OmK8b9I+n+4hD3jAAXmGvnZXopvJ6btK/R7/1C5zva/DReFlJd4edNVRpC5MtaZygbjn9VCjtpDZ3jO56sj9pDt4/1gAD8NB2wAl9avNmWamLgxbRPofwH+k7ClIYxpCHm8ToGlk2e20U85k0qCt7HGw+Z3HCOiCjmx7RzdtRP0b8W3vS3byLpCAQibm71ZZxH3R3IfluYcBXB+noZ9oUU4o7GwfsTYmt5Cihk=;3ehdCPLuqwZow1mG2tz1Dw=="
 ---

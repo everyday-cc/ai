@@ -84,20 +84,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
-  - title: "Microsoft thoughts on the future of AI"
-    excerpt: "Eric Horvitz Chief Scientific Officer at Microsoft has taken to the official Microsoft blog this week to write an article on the future of AI and the"
-    publishedDateTime: 2023-05-31T08:58:00Z
-    webUrl: "https://www.geeky-gadgets.com/the-future-of-ai-31-05-2023/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/the-future-of-AI.jpg"
-        width: 700
-        height: 475
-        isCached: true
   - title: "Nvidia Unveils More Gen AI Products"
     excerpt: "Chipmaker Nvidia (NVDA) has been making headlines with its extensive new lineup of AI product launches and services. At the Computex"
     publishedDateTime: 2023-05-29T08:26:00Z

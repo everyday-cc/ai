@@ -101,6 +101,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Reflections on artificial intelligence"
+    excerpt: "When ChatGPT, a large language model artificial intelligence (AI ... It is not difficult to understand the main ideas of a neural network model being the platform of ChatGPT and other large AI models. It is a vast tangle of networks of input and output ..."
+    publishedDateTime: 2023-06-01T16:05:00Z
+    webUrl: "https://businessmirror.com.ph/2023/06/02/reflections-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 39
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/04/Column-box-Eagle-Watch.jpg"
+        width: 1400
+        height: 735
+        isCached: true
   - title: "Max Cooper is using AI to push the frontiers of creativity and communication"
     excerpt: "The acclaimed London-based music producer — known for his ethereal sounds and visually hypnotic live performances — discusses the limits of human language, the future of music, the dangers of unchecked AI research and the mysteries of consciousness."
     publishedDateTime: 2023-05-31T16:14:00Z

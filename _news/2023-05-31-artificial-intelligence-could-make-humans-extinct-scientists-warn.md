@@ -9,7 +9,7 @@ ampWebUrl: "https://patch.com/us/across-america/amp/31398946/artificial-intellig
 cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/us/across-america/amp/31398946/artificial-intelligence-could-make-humans-extinct-scientists-warn"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,17 +26,17 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists warn of AI dangers but don’t agree on solutions"
-    excerpt: "CAMBRIDGE, Mass. - Computer scientists who helped build the foundations of today's artificial intelligence technology are warning of its dangers, but that doesn't mean they agree on what those dangers are or how to prevent them."
-    publishedDateTime: 2023-05-30T22:58:00Z
-    webUrl: "https://www.rep-am.com/news/2023/05/30/scientists-warn-of-ai-dangers-but-dont-agree-on-solutions/"
+  - title: "Top AI researcher dismisses AI ‘extinction’ fears, challenges ‘hero scientist’ narrative"
+    excerpt: "Kyunghyun Cho, a prominent AI researcher and associate professor at NYU, expressed frustration with the current discourse around AI risk."
+    publishedDateTime: 2023-06-01T17:02:00Z
+    webUrl: "https://venturebeat.com/ai/top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative/"
     type: article
     provider:
-      name: Republican-American
-      domain: rep-am.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 58
     images:
-      - url: "https://cdn.rep-am.com/wp-content/uploads/2023/05/20230530-195859-pic-910974924.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Ez6kELuXoAQ7r_B.jpeg?w=1200&strip=all"
         width: 800
         height: 533
         isCached: true

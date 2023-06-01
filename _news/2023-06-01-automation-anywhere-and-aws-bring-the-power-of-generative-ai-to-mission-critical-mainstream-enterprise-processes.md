@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
-excerpt: "Automation Anywhere, the #1 leader in cloud-native intelligent automation, today announced it is working with Amazon Web Services (AWS) to bring intelligent automation and generative AI innovations to market."
-publishedDateTime: 2023-06-01T13:23:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/06/01/9824889.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/06/01/9824889.htm"
+excerpt: "Automation Anywhere today announced it is working with Amazon Web Services (AWS) to bring intelligent automation and"
+publishedDateTime: 2023-06-01T16:38:00Z
+originalUrl: "https://www.datanami.com/this-just-in/automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes/"
+webUrl: "https://www.datanami.com/this-just-in/automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes/"
 type: article
 quality: 13
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: datanami.com
+  domain: datanami.com
 
 topics:
   - AWS AI
@@ -36,6 +36,6 @@ related:
         height: 800
         isCached: true
 
-secured: "sQaz6f9YtKMqj41IVLIeXcXFya1e+NwpTNRGWN6ILQH0p1BGcXwZahkrV5gNC8Ker1lRALqjGk+xdjcbiBVDzwA+L2Sl/0X8B/rULglpu7h5906OSyVEWQ5Zc3p5N+S7LgX2ltd5QGitUoy3wkI/sHymNXI24lPYedUTtt1g9D1LFqPlcS619AWf0v3nXL/MHZy08wEjM/vqcwSeTub2bT0KRB2DokVSWpEmgj8HniPwdyDk4zheVWlNLhlCOp0Ku6WCqlgqmGpcWT8FJzc/5KRJm4Vl7AKByDX3frDrLA3EqD/owu6A91hUGR4NN+XGs+FjCxOgxi3nYeT6JcpQsIAjs8ZLprzwoqjWyjy+Elcun8WNC+NMZR7BysYQVJwT8Ph9PHTiO0T1Ii9KV09uwdwShQBHTw93NCfpOJs+u4/bjCBFMlPRqM4cRIj8Upk8IVrrO5FVZzEVimhKJbkg9t0Rq4GFRAZ6H9u/WGNTl3t6cGcWb1c3MHEXl4YaUB2p+/rNSjjXQF3vPX86UVgPDw==;g7yFsRnfrBNNDXH0ssTLmQ=="
+secured: "C3alrY223GLzJOPa+g44Pr7aoIOC07ZuifJwUhnjz5B5V8ZAbxwWaimuLhx7K3tLb2jsXU02gwPAvmfvBrEkQQSUUAG++xaUpqHUZirCw4yQL+bVl2woLJktdT8hG5cjVb665cW1sNltQkHc1JLaR8BIMZ4I3hvQAUOWpcrZEUk1A8fMA8uhh8dNYPUo297QFipLbp1iiqlS13wkhoVak6maThHOKz8wAchkGGjt7oZnnhafZstu3ThQ05pMa52+qesLLbGnPh71tnz+J+ZUlyovJJRS4Xj5ubGkawZRhD2SBwCi7zQvVNXGJVIF6z63WXi7Zsr/DARXVefHvIWOn6MDcscEabB8/MjiTPDji+Jeq0f5ztjaK9SFHBHi1aH6wNeFPm8MVioMIzXbRmubtrmkxfJ1Wp6Log0b8w5SUbkwx4n47pjIbEaEfyRCxeO+HNV/uvL3D6YvRfqM/g5+AU1DiiqrQF5fKs58fZCrErhfAP/npMtVkczDSOqHaomRuhyv1le4CFnm1+akgb9Rag==;xP5OQeoXwj1cZAO3EhAU7g=="
 ---
 
