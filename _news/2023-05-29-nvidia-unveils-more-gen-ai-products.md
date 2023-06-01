@@ -236,6 +236,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "The Rise of In-House AI Chip Production by Tech Giants Threatens Nvidia’s Dominance"
+    excerpt: "Nvidia Corporation (NASDAQ: NVDA), a leading player in the field of artificial intelligence (AI), has enjoyed a strong competitive advantage with its AI moat."
+    publishedDateTime: 2023-06-01T06:10:00Z
+    webUrl: "https://techstory.in/the-rise-of-in-house-ai-chip-production-by-tech-giants-threatens-nvidias-dominance/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 50
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/06/NVIDIA-Logo-inside-at-angle.jpg"
+        width: 1920
+        height: 1081
+        isCached: true
   - title: "Five things to know about AI chip maker Nvidia and why everyone is talking about it"
     excerpt: "Nvidia made a splash after its mammoth quarterly report and stock boost. Here's what you should know about the company if you're new to it."
     publishedDateTime: 2023-05-29T02:45:00Z

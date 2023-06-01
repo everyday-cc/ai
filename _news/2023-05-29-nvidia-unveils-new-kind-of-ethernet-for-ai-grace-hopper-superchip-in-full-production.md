@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-unveils-new-kind-of-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/"
 type: article
 quality: 96
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://assets.newatlas.com/dims4/default/e16410b/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F24%2F2b%2F319f6a3e407aba43f1f0418ebfed%2Fnvidia-dgx.jpeg&na.image_optimisation=0"
         width: 1200
         height: 630
+        isCached: true
+  - title: "NVIDIA announces new class of supercomputer and other AI-focused data center services"
+    excerpt: "The NVIDIA DGX supercomputer could be the top of its class. Learn what this may mean for enterprise AI and high-performance computing."
+    publishedDateTime: 2023-06-01T04:07:00Z
+    webUrl: "https://www.techrepublic.com/article/nvidia-dgx-ai-supercomputer-computex-announcements/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 62
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/09/nvidia-omniverse-cloud.jpeg"
+        width: 1200
+        height: 801
         isCached: true
   - title: "Nvidia launches GH200 Superchip to accelerate generative AI workloads"
     excerpt: "The Nvidia GH200 Superchip (pictured) has been designed to power systems that will run some of the most sophisticated and complex AI workloads yet, including training the next generation of generative AI models."

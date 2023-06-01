@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Many Sensors For Autonomous Driving?"
+    excerpt: "“Each type of sensor has limitations,” Kouthon said. “Cameras are excellent for object recognition but provide poor distance information, and image processing requires substantial computing resources. In contrast, lidar and radar provide excellent ..."
+    publishedDateTime: 2023-06-01T07:04:00Z
+    webUrl: "https://semiengineering.com/how-many-sensors-for-autonomous-driving/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 24
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/Fig01_Cadence_ProsCons_vehicleSensing_tech.png?fit=1274%2C715&ssl=1"
+        width: 1274
+        height: 715
+        isCached: true
   - title: "Self-Driving Trucks Becoming Common on North Texas Roads"
     excerpt: "The North Texas area has become the new frontier for the development of self-driving trucks, with several companies setting up shop — and using local  highways for real-world testing."
     publishedDateTime: 2023-05-30T16:59:00Z

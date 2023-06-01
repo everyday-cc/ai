@@ -37,15 +37,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 56
-  - title: "Microsoft Launches 'Jugalbandi', An AI-Based Multilingual Chatbot For Rural India"
-    excerpt: "Microsoft has unveiled a new generative AI-driven chatbot called 'Jugalbandi', designed for farmers and other users living in rural India."
-    publishedDateTime: 2023-05-27T13:24:00Z
-    webUrl: "https://www.ndtv.com/feature/microsoft-launches-jugalbandi-an-ai-based-multilingual-chatbot-for-rural-india-4071723"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 31
 
 secured: "QpTKc8FVO3C0LS/6STsnV8fUjqYxAr+WfNDFG+NOJBqWAPZBRfATEn5QBN90g/EGOakEAfMpJggySH0CNpjY0t9vyaSnQOg4PuxjcNAwwJvcPPE7xBnzawtqkP8I5xJ8G3EeK9oEFsDVjdLf7Vaz0rh6tIIeJQwiXLWwoPi3BU5Rs+sQVrfOpq7JpPwlsEte6gHDtR9T2naoSMEXbMBDfiBazN6snUV9SXnvwUhOL+hI2WN0vjqUcqx0r0Y8BUL++XkkXhvyNQOCpU9mjINqUUQz7rZOGbIaebR7/PJ/Oo69wyYCAB8IjHm69RwblxSyyFRGrT6MMwRIXYoWC3ZOaxZtdXEyrKvs4KgMVgX6nn2mi7pAcJUrrdJzwS0mSEWqwU4FkM7/G+L6D0E/pjOuihtZ0zmxWc1UT3s8irsIF7sf1EYL27yAr7rCIsn/lgYhzTlHXu+V11jD5LAz1TAHePxmeOB6qCbdMCLrhJ98NJCXkOTDoolj076W8VAXQpvUOkuJANCxh7S4upnyESpiEQ==;qr2Yr7P/9tc6be2RESM/KA=="
 ---

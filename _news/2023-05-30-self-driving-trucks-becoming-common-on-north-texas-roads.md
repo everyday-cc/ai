@@ -33,6 +33,20 @@ related:
         width: 1920
         height: 1081
         isCached: true
+  - title: "How Many Sensors For Autonomous Driving?"
+    excerpt: "“Each type of sensor has limitations,” Kouthon said. “Cameras are excellent for object recognition but provide poor distance information, and image processing requires substantial computing resources. In contrast, lidar and radar provide excellent ..."
+    publishedDateTime: 2023-06-01T07:04:00Z
+    webUrl: "https://semiengineering.com/how-many-sensors-for-autonomous-driving/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 24
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/Fig01_Cadence_ProsCons_vehicleSensing_tech.png?fit=1274%2C715&ssl=1"
+        width: 1274
+        height: 715
+        isCached: true
 
 secured: "YPHM2zt2a9m9Con3Wexph1pbwdoDPNFukpXgbUeIVhVOZQymNjx6gm3xwC+hbUec/onmUug8PYKKMg8H0v41ZG9uCfdAH1XWGoLVY0pJ6erzoHjSL2wfkhzXgElm47WEd3qRv7DcA2tBGd0Ny1jvNTrGBohJfnnJakqKtIP3Go/HyLYJxuQjbMcm+qSWW9URUrIpMS7UkSIyu1MEpXu79DzvAOmg4QVOHXd1nKX7dWt2TK5GSNfTC/mkYynm/swgHN0wZzMgN6DEvZr/yd/BMY9T563f/gmFCZnhNrZL8ku9gflqM5UQELDe5F5lsjUXKoY9tjuIGLb5zj8qXIwGayBPmKJTCX0GpLcgmjRe1sL4Xsx9jQ7FrMENLDRthlC7zOSvTkNDcjIt4JMMm75Lpf/wiKjSGzyBhd4hurNu1LpKjvCordLZSTfXAcMLaiAOWweE/eJyy3IoXBDcSi/p9YPYx8iy/ZNEJUrLVMaPDQbB2MsVVUIxJYNvUMWDB4OrIuBvehvN0iTWr1I+ITI/0Q==;6rAVO+AfDpkfIk1GbAvAOA=="
 ---

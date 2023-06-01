@@ -94,6 +94,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 41
+  - title: "Welcome To EDA 4.0 And The AI-Driven Revolution"
+    excerpt: "Two groups of classic approaches have been proposed to automate translation. One group of approaches is to introduce constrained natural language (CNL ... may be achieved depending on the capability of AI accelerators and the complexity of the ML models."
+    publishedDateTime: 2023-06-01T07:08:00Z
+    webUrl: "https://semiengineering.com/welcome-to-eda-4-0-and-the-ai-driven-revolution/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/Siemens_Welcome-to-EDA-4-fig1-typical-city-of-EDA-4.0-era.jpg?fit=1394%2C705&ssl=1"
+        width: 1394
+        height: 705
+        isCached: true
 
 secured: "HZ7OGJfxNm5NnjHsPUOXUhm9/yDTk+tzY3MOv0xySjyANsRv+uVT+mzpkNqMK3hTL3OQ8LO5nALgmETEJvUTSkhwyoX1a0AeGl4W6C4X3fffDGA9n6maPeM4bqFYkG+h0MLtnICwJ7ZWdhI11AJ25XDOyy/yPi+g8jkbODXz/GdJpLGbsyN1d9coDAL/e5xIEl0QtFUqZqaIbaGqBlzTqJlipwmDo7AwY91/Kqhr6/RMz2YsSjKR0fDpzmeNXhdIQEhlakgWPpw7XM15TIlbApRba952OSqJ5/9acUTtqI4J/V8/lPiUcck0rkv/9oZIYbknBlALhNCtnYxfp1vInW2rS+hXQBkN7tDKj7dJddKS+1u2gGa8VUm8b9PpMxgMspyp7sECCD+7Sm6TCudxg8L5KLEDAx2c3Juc0RC0VwjLrj/NLI2+P/0nJ9AbEgwd+xtFJ2J0NDw8EMg8gqRlNp2BJSeOJItd+5xq4uS/xxCwSS+F4MMUYQGzJJQIkJQ7usmc8HYHWBQhBT0mgu8O7w==;25LYN51JTLkKuq7JamnRzg=="
 ---

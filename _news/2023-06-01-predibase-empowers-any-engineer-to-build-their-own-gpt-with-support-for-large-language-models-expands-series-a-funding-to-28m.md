@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Predibase Empowers Any Engineer to Build Their Own GPT With Support for Large Language Models; Expands Series A Funding to $28M"
-excerpt: "Predibase, the first commercially available low-code declarative ML platform for developers, today announced the general availability of its platform, adding new features for large language models and introducing free trial editions."
-publishedDateTime: 2023-05-31T20:07:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/05/31/9824020.htm"
-webUrl: "https://it.tmcnet.com/news/2023/05/31/9824020.htm"
+excerpt: "GA Release enhances Low-Code AI Platform with Data Science Copilot and Introduces Free TrialsSAN FRANCISCO--(BUSINESS WIRE)--Predibase, the first"
+publishedDateTime: 2023-05-31T18:47:00Z
+originalUrl: "https://www.01net.it/predibase-empowers-any-engineer-to-build-their-own-gpt-with-support-for-large-language-models-expands-series-a-funding-to-28m/"
+webUrl: "https://www.01net.it/predibase-empowers-any-engineer-to-build-their-own-gpt-with-support-for-large-language-models-expands-series-a-funding-to-28m/"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
   - Machine Learning
@@ -29,6 +29,6 @@ related:
       domain: siliconangle.com
     quality: 27
 
-secured: "/CfYHKneAMfgUCFsOHBJJ6u524xYclVMlWsulWYbH2DVDAbcL0o0uF023Pay3mlBBTZR7Q1Ydr/s1Oowpbc4dkYMx9sKc8YBGNecktJ5sQe4xc24iuqHsDyUL0jzZ6vfcnZy9JZjL0zLKTxNAwZjDdt63OykiVpCyLVWG5TbFJEy0aenZAmuco94inhT34XTtTWEOKXQTmvCF2mKdMrlbZazHfdNA4Rn7TQEpNcmpjyZrdlGnJUxZqmWRA8snjhKtGA6fFLLYReey26UZdP8AvaMYpkvSVB6G2kiKyjV5SaTHtLVR3UqnrTMBhOz/LOTD1FxWyP84bPVB4XztCT+NW8ScbDXkrG5km5vUT2gBbg=;97PDI67Tu0v09rMtqCDjPQ=="
+secured: "1C/Mft4upHkw3GehFmgH2m6/JHhuNnNLg2D/lbG8aCc2ONDZEI8tdJgzhQgY/a7IU3G/L9mgeHJiTcH2O3SRxv8FR/oijyhzQIJZinbULZJYw5JqT5CDhcJ/Qe/eW08R3WSsRaBDzPkkVEsc3Q0HDWc7iAzS0AAWOCe+2eYTpLGXL7fJhYBe4SxT7Lmi5oQ4kS2XvQJvsJirVuQPYCT8GCLJvB8EwHwhs8p1dAyRZ4GtpXDMjjzWzTKmc0HhkSQK2FdzZy6iN5+6jW5A+i+WB7beagkGhQ2cqV4lrvZf/YY03nFsK4GqkGRPkQTNQ+1eGacvKhz87ltxN6sPA1EiJvbNtKrcuWtj5JdPTqYuZgs=;NK1QMbbX2vjOgtngnQfYAg=="
 ---
 

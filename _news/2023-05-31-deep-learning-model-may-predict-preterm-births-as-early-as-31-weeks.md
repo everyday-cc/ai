@@ -5,9 +5,11 @@ excerpt: "Preterm birth, which occurs when a baby is born before 37 weeks of ges
 publishedDateTime: 2023-05-30T17:47:00Z
 originalUrl: "https://medicalxpress.com/news/2023-05-deep-preterm-births-early-weeks.html"
 webUrl: "https://medicalxpress.com/news/2023-05-deep-preterm-births-early-weeks.html"
+ampWebUrl: "https://medicalxpress.com/news/2023-05-deep-preterm-births-early-weeks.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-05-deep-preterm-births-early-weeks.amp"
 type: article
-quality: 19
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -17,6 +19,12 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/preterm-births-could-b.jpg"
+    width: 2000
+    height: 1064
+    isCached: true
 
 related:
   - title: "New deep learning model may predict preterm births as early as 31 weeks"
@@ -34,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "sAeaVpK/7r0+AWfp870QiTtT1iuydgSo33yT/GWgXIIbeSqk1yGdBFGTlLOlATTWtmwvQPprYLGdc3THwfj2DQlksl1u5NpmP9f9EX4iWvwodlPgmxvdX2fUVQvaCq2BlS9SsLCFhjOqqIEZdca5PzuDlTHs8sYfz31GVYqsxLuRMQiTMZmo1//GmYJb7qgeCPNEOjuub/2bgfIv9PiZ4RQRQ+2pLrE+nLSq1SWsgvC1lGsNy/CWEsW+azV17wNWNkJIuvPdStQAw1qHQ552bRfOowb2sXAJTyi8pFCZpFZAdzgQM/C0+ecppHVqnCntaknt3hAogozKA1Hf1vsglmooQL4+9NkxWwloQTDONdw=;KNFqZvOFBku6XyueA/zeYQ=="
+secured: "vkAo25jqjKIUtEW/vhIWwCpfUSMgddojjsqn6kdsGvCooVBUg2QmwsjhQ3Ls9HW6CY4b/YVl0AYPp6LdqQW62YUE6v0rZUn9pg6aI7hSqZOaIg4nXxndcxCv/E+dtGHlv8RQkz31uloS1Ojplcd1Lr+BFYXxy4dz4Z619cBz1Mm4t3aR5aWddkgjctimpPm3DyN7ldj3XXM9vPcerOpLlCtUXRzhOQ+Uqg5xEzuNBrbzvYK9ssEWwt0wOOFJj+cT0ijJy138pIubF4Ln9C7Axr3Gs1Zf1raPxHK4znzIo+buy4bDv8AY7c0Z+GnpNFdTX5IeGUOSXafl2brERi8xsocAsAJQUazZiw3ercT/0UA=;t7n6UZokwXIYb/WTd9WN9A=="
 ---
 

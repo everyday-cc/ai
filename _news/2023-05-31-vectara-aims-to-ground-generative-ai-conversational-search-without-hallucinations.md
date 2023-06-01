@@ -84,6 +84,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 41
+  - title: "Welcome To EDA 4.0 And The AI-Driven Revolution"
+    excerpt: "Two groups of classic approaches have been proposed to automate translation. One group of approaches is to introduce constrained natural language (CNL ... may be achieved depending on the capability of AI accelerators and the complexity of the ML models."
+    publishedDateTime: 2023-06-01T07:08:00Z
+    webUrl: "https://semiengineering.com/welcome-to-eda-4-0-and-the-ai-driven-revolution/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/Siemens_Welcome-to-EDA-4-fig1-typical-city-of-EDA-4.0-era.jpg?fit=1394%2C705&ssl=1"
+        width: 1394
+        height: 705
+        isCached: true
   - title: "Arm unveils TCS23, driving immersive experiences and new-generation AI applications"
     excerpt: "Arm held a new product launch event at COMPUTEX 2023, unveiling the \"2023 Total Compute Solution\" (TCS23). Chris Bergey, Senior Vice President and General Manager of Arm's Client Line of Business, stated that TCS23 includes the new Arm Immortalis GPU based on the Arm fifth-generation GPU architecture,"
     publishedDateTime: 2023-05-29T06:43:00Z

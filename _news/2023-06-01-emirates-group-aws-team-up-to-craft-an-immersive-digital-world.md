@@ -41,6 +41,20 @@ related:
         width: 6678
         height: 5344
         isCached: true
+  - title: "Emirates Group and AWS to create immersive digital experience for employees"
+    excerpt: "The scope of the collaboration includes the development of an Extended Reality platform, 3D virtual hubs, virtual training, gamified environments, and simulated experiences for learning"
+    publishedDateTime: 2023-06-01T07:03:00Z
+    webUrl: "https://gulfbusiness.com/emirates-aws-to-build-extended-reality-platform/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 37
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/06/Emirates-group_AWS.jpeg"
+        width: 920
+        height: 630
+        isCached: true
   - title: "UAE’s Emirates partners with AWS to bring immersive, gamified training to employees"
     excerpt: "With a brand new Emirates Virtual Hub, the airlines will use iXR technology to provide its cabin crew with an unmatched 3D interactive experience. UAE's Emirates partners with AWS to bring immersive,"
     publishedDateTime: 2023-05-31T12:10:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/31/character-ai-the-a16z-backed-chatb
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/31/character-ai-the-a16z-backed-chatbot-startup-tops-1-7m-installs-in-first-week/amp/"
 type: article
 quality: 83
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "ChatGPT: Most Americans Know About It, But Few Actually Use the AI Chatbot"
-    excerpt: "Though 58% of Americans are familiar with ChatGPT, just 14% have actually tried it, a Pew Research Center survey finds."
-    publishedDateTime: 2023-05-27T14:10:00Z
-    webUrl: "https://www.pcmag.com/news/few-americans-have-actually-tried-chatgpt-despite-most-knowing-about-it"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 45
   - title: "Chinese AI chatbot firm Xiao-I eyes global market after Nasdaq IPO on ChatGPT fever"
     excerpt: "When Yuan Hui launched his company’s first chatbot two decades ago, the world had yet to catch up on the potential of conversational artificial intelligence (AI). Today, Shanghai-based Xiao-I is worth more than US$400 million,"
     publishedDateTime: 2023-05-31T04:20:00Z

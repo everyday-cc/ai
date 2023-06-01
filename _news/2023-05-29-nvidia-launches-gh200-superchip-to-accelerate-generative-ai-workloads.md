@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NVIDIA announces new class of supercomputer and other AI-focused data center services"
+    excerpt: "The NVIDIA DGX supercomputer could be the top of its class. Learn what this may mean for enterprise AI and high-performance computing."
+    publishedDateTime: 2023-06-01T04:07:00Z
+    webUrl: "https://www.techrepublic.com/article/nvidia-dgx-ai-supercomputer-computex-announcements/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 62
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/09/nvidia-omniverse-cloud.jpeg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "NVIDIA: GH200 Grace Hopper Superchips For Accelerated Generative AI Now In Full Production"
     excerpt: "NVIDIA (NVDA) announced its GH200 Grace Hopper Superchip is in full production, and systems with these Superchips are expected to be"
     publishedDateTime: 2023-05-29T07:22:00Z

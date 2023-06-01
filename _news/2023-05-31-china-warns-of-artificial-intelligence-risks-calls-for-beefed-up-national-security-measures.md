@@ -1,29 +1,29 @@
 ---
 category: news
 title: "China warns of artificial intelligence risks, calls for beefed-up national security measures"
-excerpt: "China has warned of the risks posed by advances in artificial intelligence while calling for heightened national security measures"
-publishedDateTime: 2023-05-31T09:18:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716269"
-webUrl: "https://abcnews.go.com/International/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716269"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716269"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716269"
+excerpt: "The statement underscores the tension between the government’s determination to be technological leaders and concerns about the possible harms of such technologies."
+publishedDateTime: 2023-05-31T14:13:00Z
+originalUrl: "https://www.nbcnews.com/news/world/china-warns-artificial-intelligence-risks-calls-beefed-national-securi-rcna87021"
+webUrl: "https://www.nbcnews.com/news/world/china-warns-artificial-intelligence-risks-calls-beefed-national-securi-rcna87021"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna87021"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna87021"
 type: article
-quality: 63
-heat: -1
-published: false
+quality: 93
+heat: 143
+published: true
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
   - AI
   - AI in Security
 
 images:
-  - url: "https://s.abcnews.com/images/International/wirestory_00a38e550ef6b4ac12cd1fd418363d2b_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230531-xi-jinping-jm-1004-8797e3.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -57,22 +57,15 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "China’s Xi Jinping calls for greater state control of AI to counter ‘dangerous storms’"
-    excerpt: "President says national security threats are increasing and urged greater oversight of artificial intelligence and data security"
-    publishedDateTime: 2023-05-31T23:42:00Z
-    webUrl: "https://www.theguardian.com/world/2023/jun/01/chinas-xi-jinping-calls-for-greater-state-control-of-ai-to-counter-dangerous-storms"
-    ampWebUrl: "https://amp.theguardian.com/world/2023/jun/01/chinas-xi-jinping-calls-for-greater-state-control-of-ai-to-counter-dangerous-storms"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/jun/01/chinas-xi-jinping-calls-for-greater-state-control-of-ai-to-counter-dangerous-storms"
+  - title: "US Updates National AI Strategy And Calls For Public Input"
+    excerpt: "The White House released an update outlining the Biden-Harris administration's latest initiatives in formulating the national AI strategy, AI policies, and AI regulation."
+    publishedDateTime: 2023-05-29T12:20:00Z
+    webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/05/29/us-updates-national-ai-strategy-and-calls-for-public-input/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 49
-    images:
-      - url: "https://i.guim.co.uk/img/media/4268df96cffff87537b9ff983eda098f6e057beb/0_0_3094_2000/master/3094.jpg?width=620&quality=85&auto=format&fit=max&s=61243aa6e5043dc82087170825fb008d"
-        width: 620
-        height: 401
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "AI in China: Xi aims for balance between progress and protection"
     excerpt: "China calls for heightened national security measures for artificial intelligence. A meeting chaired by President Xi Jinping emphasized the need to safeguard political security and improve security governance of internet data and artificial intelligence."
     publishedDateTime: 2023-05-31T15:57:00Z
@@ -97,6 +90,6 @@ related:
       domain: chron.com
     quality: 17
 
-secured: "TiK9v3OzB00+K26wDnbG4dDz69H6IwQQL+XaqZyXR8u1w1hrQ1Rbyl163qnfDRHt5/N3IZbhzIzpes1gO63boUT9Bn2AaJfAekXNLqD2BJht9FbDDC3XEI1N6y/YkVaXsHzyO70svmI9MPsvLOGwA93Y86LjTG+HMfa19ensFM+7fnxhza4A7s+8ERBi7wgIeofrEb+WY1hCQsKRO7hH6h9sJcnZibZvHtDp5pREfREhzteKFHpWax0ROGXmAWm/flBsVw9PFg2lef2pCyxmo2ag2cgRFALaJC6woVTwYu1Xgfs423LkgMcnc/Yg/E74iF2NeHsasUx3lVjj1CdwW6zkiTuytN5gCo+8uYG/lMn2Zygwe0/QusMr6rBES4QhtGmy2TGdDK2KHHkwATGuFqUbaUgBd00cR2vQsaDVAbglxsjRUrT+9kO3cjFdEEqh+Xvbwh7aViYfvvvZZ4KFLH6qrocmhJZSEjJWh9DT+ttBKIv0XiyHmZ2PYkDOnHsTbi0EWnn5BG2wUDV2SMKpRg==;U9nopqBkWzlT96jIRH0DCA=="
+secured: "G5qedxW5mG2DmkVDNgN+iiE+lMIOG49AmxHesPIvjjmQQSC+NzRxX8fMhLTQB+v6IAiPdbFtjiozz0M2Iyoy+1rmSuit6E54M7upXKXe2f0aOmvxUQrp/4Q7GsCC3v8TQXDvUwwm9+ikz97AWfGdF4LmBS2SkXmJkxIbV+6G3/3cyeyHF4DgNJTB12wD1QHhlidwl3l5gqm3RsQwIOmACDO74E2TQcsRFKxsMZRd+NA7Y0KV7oZxBxxr6NIxt3Sfz7xG9RZ4DnTAy8GRU3mvoEbqwrXQv8A/PW8ok+0eOP8nIb82TNl1EewmeoEGFSz2F03bSBtX5KLZzRVCGDXu0AL4K7d4BZy0TopFtSDiNKE=;m+IotHEWP7WELgO4p1YOsg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3696978/microsoft-integrates-nv
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.amp.html"
 type: article
 quality: 103
-heat: 403
+heat: 413
 published: true
 
 provider:
@@ -224,6 +224,20 @@ related:
       - url: "https://www.techzine.eu/wp-content/uploads/2023/05/evk3-300x300.png"
         width: 300
         height: 300
+        isCached: true
+  - title: "The Rise of In-House AI Chip Production by Tech Giants Threatens Nvidia’s Dominance"
+    excerpt: "Nvidia Corporation (NASDAQ: NVDA), a leading player in the field of artificial intelligence (AI), has enjoyed a strong competitive advantage with its AI moat."
+    publishedDateTime: 2023-06-01T06:10:00Z
+    webUrl: "https://techstory.in/the-rise-of-in-house-ai-chip-production-by-tech-giants-threatens-nvidias-dominance/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 50
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/06/NVIDIA-Logo-inside-at-angle.jpg"
+        width: 1920
+        height: 1081
         isCached: true
   - title: "Nvidia Unveils More Gen AI Products"
     excerpt: "Chipmaker Nvidia (NVDA) has been making headlines with its extensive new lineup of AI product launches and services. At the Computex"

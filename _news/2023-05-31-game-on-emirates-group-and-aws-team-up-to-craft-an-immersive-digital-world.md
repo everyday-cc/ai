@@ -9,7 +9,7 @@ ampWebUrl: "https://www.albawaba.com/amp/business/pr/game-emirates-group-and-aws
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/game-emirates-group-and-aws-team-craft-immersive-digital-world-1520998"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Emirates Group and AWS to create immersive digital experience for employees"
+    excerpt: "The scope of the collaboration includes the development of an Extended Reality platform, 3D virtual hubs, virtual training, gamified environments, and simulated experiences for learning"
+    publishedDateTime: 2023-06-01T07:03:00Z
+    webUrl: "https://gulfbusiness.com/emirates-aws-to-build-extended-reality-platform/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 37
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/06/Emirates-group_AWS.jpeg"
+        width: 920
+        height: 630
         isCached: true
   - title: "UAE’s Emirates partners with AWS to bring immersive, gamified training to employees"
     excerpt: "With a brand new Emirates Virtual Hub, the airlines will use iXR technology to provide its cabin crew with an unmatched 3D interactive experience. UAE's Emirates partners with AWS to bring immersive,"

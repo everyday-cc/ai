@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/brand-focus/revolutionising-skin
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/brand-focus/revolutionising-skin-treatments-with-artificial-intelligence-ai-in-homeopathy-for-the-first-time-in-india"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 900
     height: 600
     isCached: true
+
+related:
+  - title: "AI Terminology 101: How Recurrent Neural Networks Are Revolutionising AI"
+    excerpt: "Recurrent Neural Networks (RNNs) are a class of artificial neural networks designed for processing sequential data. Unlike traditional feedforward neural networks, which process inputs independently, RNNs take into account the 'history' of inputs they've ..."
+    publishedDateTime: 2023-05-30T15:05:00Z
+    webUrl: "https://yourstory.com/2023/05/ai-terminology-101-unraveling-recurrent-neural-networks"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 53
+    images:
+      - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Screenshot2023-05-30at7-1685456702994.png?fm=png&auto=format"
+        width: 2130
+        height: 1058
+        isCached: true
 
 secured: "5coVLcYr95ZT7bUV3uxSBFw7ZfwJrne4USVAXJDALKFoZ2VRdpE+f/uXMXKl0ezd37HZIJ+tXjBZfdS2gJoi5BVv/6yVWJnVGoKOBsBESqo3frSqFIwPmAZfLQqPAs23hlad+/6S1Q+hh0SeJGDKUiAHPBXsTZuTzMnjuVZ7pnWBsDicbKPuALP6Hr25ImPM980M13Vaugs+ZpCOU09gl/l92q5nsL6xoLsKbX8BTvM9mFf/scKeSAvzB6nSN4Tm4TFMH3H6hb+jOcjl7AS2xW+Xcdrhy0EUxkwttzsYODPVA4x670IcP2EnHRLxYQyibc8yTEHgzvbbbh8GgRHV3A8y380viG7r9ZngNoo2QzM=;fnS4EKiDIUdIkIRl9hJvzg=="
 ---
