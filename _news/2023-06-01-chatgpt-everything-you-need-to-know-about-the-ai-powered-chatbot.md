@@ -131,6 +131,22 @@ related:
         width: 740
         height: 450
         isCached: true
+  - title: "Q&A: Professor discusses ChatGPT-inspired large language model built for the finance industry"
+    excerpt: "First there was ChatGPT, an artificial intelligence model with a seemingly uncanny ability to mimic human language. Now there is the Bloomberg-created BloombergGPT, the first large language model built specifically for the finance industry."
+    publishedDateTime: 2023-06-01T08:41:00Z
+    webUrl: "https://techxplore.com/news/2023-06-qa-professor-discusses-chatgpt-inspired-large.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-qa-professor-discusses-chatgpt-inspired-large.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-qa-professor-discusses-chatgpt-inspired-large.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 50
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-6.jpg"
+        width: 1920
+        height: 1358
+        isCached: true
   - title: "Lawyers Getting Tripped Up By Generative AI Such As ChatGPT But Who Really Is To Blame, Asks AI Ethics And AI Law"
     excerpt: "A recent legal case has seemingly gotten entangled in the use of generative AI by lawyers for one side that have landed in hot water. Lessons for everyone arise."
     publishedDateTime: 2023-05-29T12:00:00Z

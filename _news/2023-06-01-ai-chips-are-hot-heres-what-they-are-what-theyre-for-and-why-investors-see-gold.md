@@ -1,27 +1,21 @@
 ---
 category: news
 title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
-publishedDateTime: 2023-06-01T00:32:00Z
-originalUrl: "https://www.washingtonpost.com/business/2023/06/01/nvidia-chatgpt-ai-chips-stock-jump/aa6dcedc-003d-11ee-9eb0-6c94dcb16fcf_story.html"
-webUrl: "https://www.washingtonpost.com/business/2023/06/01/nvidia-chatgpt-ai-chips-stock-jump/aa6dcedc-003d-11ee-9eb0-6c94dcb16fcf_story.html"
+excerpt: "This photo provided by the chipmaker Nvidia shows the company’s HGX H100 module, which can use as many as eight AI chips to train artificial intelligence systems and perf"
+publishedDateTime: 2023-06-01T09:32:00Z
+originalUrl: "https://www.chron.com/business/article/ai-chips-are-hot-here-s-what-they-are-what-18129273.php"
+webUrl: "https://www.chron.com/business/article/ai-chips-are-hot-here-s-what-they-are-what-18129273.php"
 type: article
-quality: 31
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: The Washington Post
-  domain: washingtonpost.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
-
-images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UWXX3IAAHUI65HVQNSKNZMLPZ4.jpg&w=1440"
-    width: 1440
-    height: 960
-    isCached: true
 
 related:
   - title: "AI is the future of health care, but here's what it can never replace"
@@ -86,6 +80,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "Dp0SSqXtzPsB07xR8eiYNkKuQOnO/lpfsgCjPk/i7ssj+kcjpYrig4NnGBZ2tG4JANAfkMK2j/Sgb6oSGQVB9ssfDK9+4ufDJ15ESrhtyHOuED2LHGUsMhCypTCmlF+m4EMmyQisN5dgq6tQFV+ixoRrs3ulmmkUPsK3zzssmGyiXRA2VKcxvzS/Nv0F1TvkTvqt/Gekgk3S+mQlJ/5KlUuMLy6OevVZ7UtsmPe1lQOTCcqtP4r3PAYvyxUDWXhKJa06za6WUiBRA57k2vfNTqm/muJ/JTzgSpqrUu5gVm8Qf/NPKqlPhpoaK1VBcCJXHsuBMc3ezWzVvCJyhYDpAvhJyCuxCz78XBStEVh1tUI=;Pu5JCUrY3cHK7cpst+2vUw=="
+secured: "2KeNVp7Z/y2QpBz/fFXxYetbbWZsmoPM7uYlBMt59EHD8nT405W9GnWY836/yOLoEC/nlvYAnef7VCCSSBuGwFH0H3YhRQl/vHysrYFrIUBVaTkIODrmZrhymWEJfEW2cNNNF6R1wohDSkqn4F2cXRyH6Kh47xgb6HPSkZD9tHoGBiTe3yTaOfyPze/XmJnzMy2AYEYwH7Hk+5nnE4hLD41cNwVu2R1QSumEjP/8ipLDQoeSNOsbTmNc7eRSiBHE9unlJpbLVCBERwxYeSk5J00+jPgA7gYI2T2+rOGDXcIOPLZtU2GMrgY2FvYbvSWTytXB0ZnG+6+YgNZJbbFIwdIUosx74D4akmoyVra0vnh5HSaZFtCaDzsaiRGVduSjnJ2vwyszt4rIJICdEuihZPxOe/dpW4hM3kMtFceMmuv7jJbHnKCWiszlCilv5ejnSdzKbSUfpNflK188NNs8qX+m5o4ssaAkj5zBX2wUrJi1XEv3LRpPltGKkitCY2rHob7EziQa+1jnbxtmUso94w==;Tbzs2UPPgsnmo8aMyFe3+w=="
 ---
 

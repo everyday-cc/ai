@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI to take centre stage at Singapore Fintech Festival"
+    excerpt: "The Monetary Authority of Singapore (MAS) and Elevandi today announced the theme of the Singapore FinTech Festival (SFF) 2023 – ‘Applications of Artificial Intelligence (AI) in Financial Services’."
+    publishedDateTime: 2023-06-01T09:44:00Z
+    webUrl: "https://www.finextra.com/pressarticle/97087/ai-to-take-centre-stage-at-singapore-fintech-festival"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Artificial Intelligence to take centre stage at the Singapore FinTech Festival 2023"
     excerpt: "The Monetary Authority of Singapore (MAS) and Elevandi 1 today announced the theme of the Singapore FinTech Festival (SFF) 2023 – 'Applications of Artificial Intelligence (AI) in Financial Services'."
     publishedDateTime: 2023-05-31T00:00:00Z
@@ -64,6 +78,20 @@ related:
       - url: "https://mma.prnewswire.com/media/2089389/1.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "Artificial Intelligence to take centre stage at the Singapore FinTech Festival 2023"
+    excerpt: "The Monetary Authority of Singapore (MAS) and Elevandi1today announced the theme of the Singapore FinTech Festival (SFF) 2023- 'Applications of Artificial Intelligence (AI) in Financial Services'. SFF 2023 will focus on the growth and adoption of AI and how this technology can potentially be used in financial services."
+    publishedDateTime: 2023-06-01T02:55:00Z
+    webUrl: "https://www.malaysiasun.com/news/273849916/artificial-intelligence-to-take-centre-stage-at-the-singapore-fintech-festival-2023"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 33
+    images:
+      - url: "https://mma.prnasia.com/media2/2089389/1.jpg?p=medium600"
+        width: 600
+        height: 400
         isCached: true
   - title: "Exploring the role of Artificial Intelligence in Forex Trading: Can machines outsmart humans?"
     excerpt: "The future of AI in forex trading looks promising. With technological advancements, AI is expected to become even more integral to forex trading."

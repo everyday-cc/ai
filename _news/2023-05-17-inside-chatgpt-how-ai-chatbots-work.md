@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230510-ai-chatgpt-explainer-static-jg-07e16a.jpg"

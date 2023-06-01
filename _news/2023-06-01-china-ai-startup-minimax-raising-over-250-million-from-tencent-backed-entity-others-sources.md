@@ -66,6 +66,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "China AI startup MiniMax raising over $250 mln from Tencent-backed entity, others - sources"
+    excerpt: "Minimax: The deal comes amid a global AI buzz kicked off by ChatGPT that has spread to China, shoring up stocks in artificial intelligence firms and prompting a flurry of domestic companies, such as Alibaba,"
+    publishedDateTime: 2023-06-01T09:29:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/china-ai-startup-minimax-raising-over-250-mln-from-tencent-backed-entity-others-sources/100674627"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 27
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-100674627,imgsize-481568,width-1200,height=765,overlay-ettelecom/internet/china-ai-startup-minimax-raising-over-250-mln-from-tencent-backed-entity-others-sources.jpg"
+        width: 1200
+        height: 765
+        isCached: true
 
 secured: "PzLcFft+MmgC9a1HEz5X9fLLviQc08LpNP95QPv4X3N3KSQ2RuXQivJjzHYt67sMz7WR+5MVulsvvWkKeBnATtg4y1+IwoDND7Ebg/J1kdeFpHwWsWfh5IO16kwpBsRPG3rtQUUI+TIW+SjfcDkHmYhzP0dk8glzbSgX+NQrmQOMXyBAaVCBgSVsDt8D+9OYoP7vdlTo1za4jNUrXYdlbJWbXpDQ0eEXt4ZpSPQIzGUJJ1ywWEv5LFZh2fkOM4hJl/cnZR5OLxGyxBraTXVm4gWExvwQjTUASIkA+Y+HXJR+b259TD/MD4LzzCIW//3UEB8FZAAaDB26mDXKdR7W9QiSIcwxE+le5F9TED2bGfA=;z7cZ5H79cDfIrcmKTIHDmA=="
 ---

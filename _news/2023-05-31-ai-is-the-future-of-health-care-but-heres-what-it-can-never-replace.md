@@ -40,20 +40,6 @@ related:
       name: WFLA News Channel 8
       domain: wfla.com
     quality: 34
-  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
-    publishedDateTime: 2023-06-01T00:32:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/06/01/nvidia-chatgpt-ai-chips-stock-jump/aa6dcedc-003d-11ee-9eb0-6c94dcb16fcf_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 31
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UWXX3IAAHUI65HVQNSKNZMLPZ4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "GPUs get all the headlines, but the future of AI is real-time data"
     excerpt: "The era of AI everything continues to excite. But unlike the internet era, where any company announcing a dot-com anything immediately rose in value, the AI gods appear to be more selective. Nvidia Corp."
     publishedDateTime: 2023-05-27T18:13:00Z
@@ -90,6 +76,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 15
+  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
+    excerpt: "This photo provided by the chipmaker Nvidia shows the company’s HGX H100 module, which can use as many as eight AI chips to train artificial intelligence systems and perf"
+    publishedDateTime: 2023-06-01T09:32:00Z
+    webUrl: "https://www.chron.com/business/article/ai-chips-are-hot-here-s-what-they-are-what-18129273.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 11
 
 secured: "1xnJn5Gzi7rdDPiJoueZgK3F+2g8yt8OgcrW1FqCgo3zNSVOJt4zjS/D5u+RSqN1mKKZK5VdaNaVw9f6f0VnfGJEmoFVGWe1oVcEfF1YZ81t17bFqHTgIeueBlhgdh2w6GSPTeAfQxWXGYrOZWWNJrNFqpw6iXcPRmD0+KQs6HfoCajRqcpWYVNCZVSWVMkSc5+oHr2ugz02fNRdTqaE0zUMgwUCwckk+QxIkRWCqzhVpIJQuV+sw5NsPOAEqkI/ccm1gYc0nsl0yKqaLXmkVIpTb/muIMXEtzOkSDaItoK4fGqOBZXWP/JtqbZ7dUB4g5yCeJ3xM5D7xnZgiBhpRSMguKYlwiegjBbgOtkZn4TPBEO1cExGc6uATuz3lRFyPeUWnLxDbTVz7p0W+pfFSRYM0PkIzE9iBNp9FgMmVx81PBckLBHG6qsANnd86NcYeQ4Lo4ZKz3gbJ17rG0JkZLY5rcMQC1P0V6AIhEtuRgiVpspFQHrE5qdLj46+eRngQj2zCvYxyE7Thr7RDsgJmw==;MEcYYGwkeHzVfATYs7EkNQ=="
 ---

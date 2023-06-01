@@ -7,7 +7,7 @@ originalUrl: "https://kotaku.com/ai-art-layoff-video-game-studio-pc-midjourney-a
 webUrl: "https://kotaku.com/ai-art-layoff-video-game-studio-pc-midjourney-aigc-1850489333"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "More Artists Are Embracing Artificial Intelligence, Not Fighting It"
+    excerpt: "Overnight on Wall Street is morning in Europe. Bloomberg Daybreak Europe, anchored live from London, tracks breaking news in Europe and around the world. Markets never sleep, and neither does Bloomberg News. Monitor your investments 24 hours a day, around the clock from around the globe."
+    publishedDateTime: 2023-06-01T07:05:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-01/more-artists-are-embracing-artificial-intelligence-not-fighting-it"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaF3AA6x8BFM/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "5J9V97RXx9qTmuzfPSzgr2vHyAn2Pwi11/ozw+gQRPGe5ogY6p9wCvhHIdblfPGVUuQPImsuSHnx6UHmCFf3MeWpCNkJ4MqsmZ20dV8LhpS3LUdADmyIvF7z38Ztskyqa6ojUCuuA4YgLcKyxhMcXEYYZDcYyJlBpBqpFlrwe/V60l+d8fpyEACAUJQ9UwBTYb72Lvx85nYUL8diywGcA3+GXymNTX6lnDfZwn/ma+iXcFGBwmPuTXgcgma5HaoL2TigNwyudnTGWZPcxgUGDmBGNA3tphB6YiCfiKNMx1L3ugEk0Tcas/oB1r81tkfOjV7TOhIcfPIfvCI5j3q5zxzMs/Ccl0jkrYqDzqX9/8gsMyrPgXVExjptv5zuc0UW2lzSXaiKCoBe27N/ggKwkJxqr8E3O2/cRWGUG+uxj25eNPzf6c6M21iA5TTs5n4qM9kwH3VmYoOpH6eQlp+t8ch2KuXwkxFILHicSlvbXOm+Kvz5QiIa+Y9EUYgSUrCWQ7+Zmv/jLXSk/CeztUECPw==;ZKQ6ap+rg57m1vsIAQEqdg=="
 ---

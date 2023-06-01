@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Greens voice concerns over facial recognition technology"
+    excerpt: "A Green Party TD has said it is important to make a distinction between bodycams and facial recognition technology."
+    publishedDateTime: 2023-06-01T08:06:00Z
+    webUrl: "https://www.rte.ie/news/ireland/2023/0601/1386841-facial-recognition-technology/"
+    type: article
+    provider:
+      name: RTE Online
+      domain: www.rte.ie
+    quality: 41
+    images:
+      - url: "https://img.rasset.ie/00132672-1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "qS8JdlqCGt6JQi1SnXgbd95WVxaphBGpKAJ0Y9Jdxgjlpcy40k/N7IqGsf/369/ryCZl1sfs0/9+nMu1M8yMMztUExLlsYZFiLO/hX4yY6FP3VOsIlAaNQ+5PXuY2c0SzpJnIVUcWu3X2vWBK3Ro3nSlaSKSPcAewJmjDp/0EwaAB16xv+auFUVquY/1z0LNiDoLksVoje54uxPLcpoKX5+ZH99lFURgz7dDFpp+KGQUazAJaFy9oqDeMRrIDOJWpC3b2tJUeHHnMVCCVwf+5jCCkBXvFX3S+3VayRHMjU8nnO/GZHYWEOpBICVFdhMxFXNqfgb5eSMyA6bK3Zt2RbRwa/XPKyYT6m6KgGHS/vLUWMGEzdnrv9KeSoEzKWUwS7zkJvyrqbqgJH1/PTzJJV6V0PsBBvsrK+xjNjHTcKJWX2n7SeElFK5DK4SAcvRMETERB3Mdx11ZbSEqow8kunG4pRFR73Y8GswyJRYPnnMX1br4vcLjIWNNMRJWuR4XqJvvLJqfC+1r9hh/RTBoAg==;LfurepNVq/VzrKeQIc2gqQ=="
 ---

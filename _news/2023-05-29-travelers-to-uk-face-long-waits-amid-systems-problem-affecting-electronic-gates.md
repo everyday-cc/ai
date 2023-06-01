@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.miamiherald.com/news/nation-world/world/article275852501
 cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/world/article275852501.html"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Travelers to UK face long waits amid systems problem affecting electronic gates"
-    excerpt: "Travelers arriving in the U.K. faced hourslong delays Saturday after a technical problem shut electronic border gates at airports across the country, forcing everyone to have their passports checked manually on what was expected to be one of the busiest travel weekends of the year."
-    publishedDateTime: 2023-05-27T16:21:00Z
-    webUrl: "https://www.aol.com/news/travelers-uk-face-long-waits-081432716.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 35
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/_HW7skYXdsrdz_fZQVn_ZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/3d759dd9404f136efca5be00f01b734d"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Travelers to UK face long waits amid systems problem affecting electronic gates"
     excerpt: "The British government is working to fix a technical problem that caused electronic border gates at airports around the country to stop working, leading to hourslong waits for travelers entering the U."
     publishedDateTime: 2023-05-28T12:41:00Z

@@ -24,52 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "How the generative AI boom could deliver a wave of successful businesses"
-    excerpt: "Where generative AI startups can start if they want to turn the short-term generative AI hype into long-term growth."
-    publishedDateTime: 2023-05-27T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 68
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_567557479.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How the rise of generative AI could kill the metaverse — or save it"
-    excerpt: "Will generative AI kill the metaverse? Maybe, maybe not. How their combination could build a dynamic digital future."
-    publishedDateTime: 2023-05-28T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-the-rise-of-generative-ai-could-kill-the-metaverse-or-save-it/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/annevb_yelling_into_the_darkness_for_help._Mayday._colorful_tec_736eb19e-1e98-40fa-92cc-613825810f1f.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "With Generative AI, Don’t Believe The Hype: Believe The Impact"
-    excerpt: "Whether it’s AI-painted portraits of your old high school classmates or poems about the family cat, you’ve seen a lot of hype around generative AI. You’ve seen ChatGPT cause some to predict the end of high school English as we know it. You’ve seen pundits tussle over whether AI-generated art is really art."
-    publishedDateTime: 2023-05-30T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/30/with-generative-ai-dont-believe-the-hype-believe-the-impact/"
+  - title: "AI Is Too Important To Be Left To Technology Companies"
+    excerpt: "When we show the value a business can achieve, even with the most basic applications of AI, we see a lot of excitement and mental lightbulbs start to fire off.'"
+    publishedDateTime: 2023-05-31T11:01:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/05/31/ai-is-too-important-to-be-left-to-technology-companies/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/05/31/ai-is-too-important-to-be-left-to-technology-companies/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/05/31/ai-is-too-important-to-be-left-to-technology-companies/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
-  - title: "Generative AI Could Be the Great Equalizer That Also Boosts the Global Economy"
-    excerpt: "There's no question that AI will significantly transform the workforce shortly. It's already happening in people's everyday work lives, including my own. As an example, my team recently lost a couple of people who routinely wrote SQL queries,"
-    publishedDateTime: 2023-05-31T21:32:00Z
-    webUrl: "https://www.inc.com/sania-khan/generative-ai-could-be-great-equalizer-that-also-boosts-global-economy.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 13
+    quality: 67
 
 secured: "1sQee71u7r/SFAViyr6UtKxtt8AW++1c9rjyOZu+sI0oroZPLui5NAgdRkxT2l6Pxwnz/zheQ1Z2ECQZLuFSd5hl0UoJuAKlLgREbWbpwQj5ZzZmMnGPxlxePXf0Dz/K0U9vJ5G5lPIqsKoU/LH5Rqz49mfh+yaUY00OZYUdnNpqo6t1M6s28WSEDaH4Z4dZeGIaqZZZKyCpt2vAB83w1wB1cEEh+dH5tVbUV68WYnCyH+mU/8XUxxLfk8zPZGuVHy20u3c7HepUmYmFoCVfeTgoZKxXG68lcahXUf5LTslbAqQ7q5hgtU8tmAkiZ3Zb+L5pA8A6AFVkiFZvSNP3Yw4zLrG5bGbAVid/tYWDytoGgLXRGJiqXnbO5welL+Xqa1FA0vdyH83xihDBA23/PqgedmLtxi1LrgOnCRdpA95ZypL2vk3Nq0SkvxSE8eoUe4OlB1z0of+3mK/duLml5Vk0eHpu/GyW7vnFG8WnQ90t6FkEPb4VW44TFBXeLVkS7xe5Uk27Dx/i31ALqiWBYQ==;jvwfv8OFp63aMZHyF6UOgw=="
 ---

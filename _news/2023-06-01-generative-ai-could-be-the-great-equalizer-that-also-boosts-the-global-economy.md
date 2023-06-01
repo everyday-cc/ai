@@ -18,56 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "How the generative AI boom could deliver a wave of successful businesses"
-    excerpt: "Where generative AI startups can start if they want to turn the short-term generative AI hype into long-term growth."
-    publishedDateTime: 2023-05-27T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/"
+  - title: "T&T’s economy in the era of Artificial Intelligence"
+    excerpt: "ARTIFICIAL Intelligence (AI) and robotic technologies are impinging on economic development the world over.In particular, they are improving productivity and enabling competitiveness but in certain ca"
+    publishedDateTime: 2023-05-31T00:01:00Z
+    webUrl: "https://trinidadexpress.com/business/local/t-t-s-economy-in-the-era-of-artificial-intelligence/article_3d627998-ff46-11ed-8f23-832b2bd1be3e.html"
+    ampWebUrl: "https://trinidadexpress.com/business/local/t-t-s-economy-in-the-era-of-artificial-intelligence/article_3d627998-ff46-11ed-8f23-832b2bd1be3e.amp.html"
+    cdnAmpWebUrl: "https://trinidadexpress-com.cdn.ampproject.org/c/s/trinidadexpress.com/business/local/t-t-s-economy-in-the-era-of-artificial-intelligence/article_3d627998-ff46-11ed-8f23-832b2bd1be3e.amp.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 68
+      name: Trinidad Express Newspapers
+      domain: trinidadexpress.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_567557479.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How the rise of generative AI could kill the metaverse — or save it"
-    excerpt: "Will generative AI kill the metaverse? Maybe, maybe not. How their combination could build a dynamic digital future."
-    publishedDateTime: 2023-05-28T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/how-the-rise-of-generative-ai-could-kill-the-metaverse-or-save-it/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/annevb_yelling_into_the_darkness_for_help._Mayday._colorful_tec_736eb19e-1e98-40fa-92cc-613825810f1f.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "With Generative AI, Don’t Believe The Hype: Believe The Impact"
-    excerpt: "Whether it’s AI-painted portraits of your old high school classmates or poems about the family cat, you’ve seen a lot of hype around generative AI. You’ve seen ChatGPT cause some to predict the end of high school English as we know it. You’ve seen pundits tussle over whether AI-generated art is really art."
-    publishedDateTime: 2023-05-30T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/30/with-generative-ai-dont-believe-the-hype-believe-the-impact/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Top 10 Generative Artificial Intelligence Companies to Invest In"
-    excerpt: "Generative AI will perhaps be the most dominant and consequential buzzword of not only 2023 but this decade. Generative AI is a form of artificial intelligence that enables computers to produce new and original content — text,"
-    publishedDateTime: 2023-05-28T15:42:00Z
-    webUrl: "https://www.insidermonkey.com/blog/top-10-generative-artificial-intelligence-companies-to-invest-in-1155194/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 37
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/05/28113928/chatgpt-gf38b3317c_640.jpg"
-        width: 640
-        height: 359
+      - url: "https://bloximages.newyork1.vip.townnews.com/trinidadexpress.com/content/tncms/assets/v3/editorial/6/33/633c65ac-ff46-11ed-ad02-03b9fe55431e/64768e8cd74b4.image.jpg"
+        width: 732
+        height: 512
         isCached: true
 
 secured: "SSg4YG4LILfOG8NjpFWLttWMTc0Y+jwaO+zU+5yXMHfr1o85gPAkTzISTkyzeriP/155ffHVtfllkDwS+g6D2/Fn/onR4oSqIYG7qpYBes2vxGkrtH1kJsl6Bia+tmsDc5QqdGGKF9myKqFAwaksR0hAc2X0eEL/KBXbVipLR73m7Tu12hXScJajx1pfwen97SDPThapbKyRBNlYP3a3OCi6suFKPRHpa5E94OYnuvZi8m1dIMw6jC3wf2e+g8aTROWTbf2x7qOEsx4OGYTCAXascf9vL3qeVaf/5CePLWXQdGFV4IxR6pGsNYzrEn9MBeeuOF9g6qFTvJbMtTIy0CvjUYy7cs+cIzoELBOIn91B0Mqjw9zArwFaW9l76227atQggBwx/H+sJzdpLxEfvhrkNK1XNMEEEq5rEkMGKX4ZURv1ff6XfZFKagHxx9Yq2qc83AS1kILlo9lKWS41c7oXZLbKVHceqW1qPoHh2TSO4XAF5LgBiLjA5Avn4VayBWamq0Nw0wV7KKqwBj3VKw==;bfCdcpaMiu73hLZnEGnoWg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/the-news-media-ethics-and-chatgpt-for-pr-and-comms-work/amp/"
 type: article
 quality: 89
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -122,6 +122,22 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2023-05/Shutterstock_2281213913.png"
         width: 740
         height: 450
+        isCached: true
+  - title: "Q&A: Professor discusses ChatGPT-inspired large language model built for the finance industry"
+    excerpt: "First there was ChatGPT, an artificial intelligence model with a seemingly uncanny ability to mimic human language. Now there is the Bloomberg-created BloombergGPT, the first large language model built specifically for the finance industry."
+    publishedDateTime: 2023-06-01T08:41:00Z
+    webUrl: "https://techxplore.com/news/2023-06-qa-professor-discusses-chatgpt-inspired-large.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-qa-professor-discusses-chatgpt-inspired-large.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-qa-professor-discusses-chatgpt-inspired-large.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 50
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-6.jpg"
+        width: 1920
+        height: 1358
         isCached: true
   - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
     excerpt: "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ..."

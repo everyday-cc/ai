@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-th
 cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-the-crowd-at-tech-show/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Boston Herald
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "What’s new in robots? An AI-powered humanoid machine that writes poems"
+    excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
+    publishedDateTime: 2023-06-01T08:48:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/jun/01/whats-new-in-robots-an-ai-powered-humanoid/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 54
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204479203_204479203-4497212ae77643a5a468fcbbb895bc0c_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
+        isCached: true
   - title: "What’s new in robots? An AI-powered humanoid machine that writes poems"
     excerpt: "\"It means we have to build an intuitive system that people can learn in a very short time, like half an hour,\" he said."
     publishedDateTime: 2023-05-31T12:50:00Z

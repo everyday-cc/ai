@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial intelligence could lead to extinction, experts warn"
-excerpt: "Artificial intelligence could lead to the extinction of humanity, experts - including the heads of OpenAI and Google Deepmind - have warned. Dozens have supported a statement published on the webpage of the Centre for AI Safety."
-publishedDateTime: 2023-05-30T16:32:00Z
-originalUrl: "https://www.bbc.co.uk/news/uk-65746524?at_ptr_name=facebook_page&at_medium=social&at_link_type=web_link&at_link_origin=BBC_News&at_campaign_type=owned&at_link_id=73422F66-FEEE-11ED-B559-B5127F934D9D&at_bbc_team=editorial&at_campaign=Social_Flow&at_format=link"
-webUrl: "https://www.bbc.co.uk/news/uk-65746524?at_ptr_name=facebook_page&at_medium=social&at_link_type=web_link&at_link_origin=BBC_News&at_campaign_type=owned&at_link_id=73422F66-FEEE-11ED-B559-B5127F934D9D&at_bbc_team=editorial&at_campaign=Social_Flow&at_format=link"
+excerpt: "Artificial intelligence could lead to the extinction of humanity, experts including the heads of OpenAI and Google Deepmind warn. Dozens have supported a statement published on the webpage of the Centre for AI Safety ."
+publishedDateTime: 2023-05-30T11:31:00Z
+originalUrl: "https://www.bbc.co.uk/news/uk-65746524?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/uk-65746524?at_medium=RSS&at_campaign=KARANGA"
 ampWebUrl: "https://www.bbc.co.uk/news/uk-65746524.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-65746524.amp"
 type: article
@@ -150,7 +150,7 @@ related:
       domain: wbko.com
     quality: 71
     images:
-      - url: "https://gray-wbko-prod.cdn.arcpublishing.com/resizer/NZr7pA6a4B3yRMEEsLFFJMyDzdg=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/TOTGUTFDUVAEHKHOTT2DTWASMU.jpg"
+      - url: "https://gray-wbko-prod.cdn.arcpublishing.com/resizer/m2_Hb0UKjlNkGm-4CU7nAg9lueY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/CK5GVJIDSNCA5JWCP6IMLZNW4A.jpg"
         width: 800
         height: 450
         isCached: true
@@ -167,6 +167,20 @@ related:
       - url: "https://www.cnet.com/a/img/resize/2dc3500f203ced9cff4738727c8a636b25abb1a6/hub/2022/12/10/f740691c-a2e7-4119-9d71-bd37ced7afbb/chatgpt-chatbot-art.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI Poses Threat To Human Existence, Experts In New Warning Letter"
+    excerpt: "But now, this recent letter reportedly endorsed by Microsoft's chief technology and science officers, as well as Demis Hassabis, CEO of Google's AI research lab DeepMind, and two Google executives who lead its AI policy efforts. The statement doesn't ..."
+    publishedDateTime: 2023-06-01T08:38:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ai-poses-threat-to-human-existence-experts-in-new-warning/453287"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1685607676-Untitleddesign-2023-06-01T134751526.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Runaway AI Is an Extinction Risk, Experts Warn"
     excerpt: "A new statement from industry leaders cautions that artificial intelligence poses a threat to humanity on par with nuclear war or a pandemic."
@@ -504,6 +518,6 @@ related:
       domain: chron.com
     quality: 16
 
-secured: "SjIG88214I9KwaQFxCuvCzcDNP96Y8fnQ/gwFGnmNY+ZXbq1JzBl+hPiSmt6MXu8RWp8+bR0LrjkOC9LnYD51MDCWK4CjeS1wOoiqnImyvWkL3Fsw7Ea6UElt1fkNMHqcNzkvGBbBAsSgkKZyVK6SUNs10epx8Ev9Xk2Tn6+FM+t4ALkZQvFhL7QgCP1sZTbX5oUr/1zE8md8zgpx1Jz7SZ9ndDgpUJz2uBkf9b8F9boeeSwmD6AcQxogZ4LFDR883NBdLFfC94cfmDAFY3/Ru898ApENA3DgqslqXVbjmTpl4rdQ9FgTle2/gZQU2KDMP40nL0uuRonWQ5ha2cqSVmEpkjsOhc3oh0oeKHdRvYiFKbxoydvlfpJZ2arelhwPaUSozNfnaf6WTLJjqQp96z8Yvn5DTMH3egoPHKx8vjRvJtGY1JsURQll1AXPvwtRbhAmTmV+VI47OhWFVTsGnFg629APhAGFww2PoDpltAn3uAY3nIIt4QVCcraXPu9tOvDMn/M/m4PHEtaw4ujjQ==;+Vglu6XFdyvEnHmGNn0AzQ=="
+secured: "cd80h8lASIUfPevUU4WbakWNufHgJ+Hj3KYKeMCrPawJVYca16Ie2pIHgLAHmIpX5a9QiV6GuSwYVWJI1kguSAKJvZsivyj513r3UNeAAgJdcUYDtC5rc30v+1QdlN9yT49IwnCuVnVz2VrXCKapENcqAqHCi1VvxLkmy22WU62tzkM75hh/XoSyZDuM8i6aIXzil1qHKmzH8NnNNxFQos87/Gz56aYsGlrKcehAwnUxkWamgA7Ipy8KzDiyen4qjDlV1/PUsjiL3BEXuDADm7nVCS+fK0f7vrXKQz3C/2mogUX+lYPDnjjHuHhJDrUwKRJ4W77U7+OVNGfSNBX5qpvAtfzXC5Z0mtZSwhkIFs4=;KBlZdCETJmRnoBpwU5DoVQ=="
 ---
 

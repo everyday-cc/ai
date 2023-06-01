@@ -2,9 +2,9 @@
 category: news
 title: "Startup Etched Closes Seed Round, Promises More Cost-Effective AI Chip"
 excerpt: "Etched, a startup that has designed a more specialized, less power-intensive chip for running generative AI models, is expected to announce Tuesday that it raised $5.36 million in a seed round led ..."
-publishedDateTime: 2023-05-16T12:17:00Z
-originalUrl: "https://www.wsj.com/articles/startup-etched-closes-seed-round-promises-more-cost-effective-ai-chip-f5fd79aa"
-webUrl: "https://www.wsj.com/articles/startup-etched-closes-seed-round-promises-more-cost-effective-ai-chip-f5fd79aa"
+publishedDateTime: 2023-05-16T11:03:00Z
+originalUrl: "https://www.wsj.com/articles/startup-etched-closes-seed-round-promises-more-cost-effective-ai-chip-f5fd79aa?tpl=venturecapital"
+webUrl: "https://www.wsj.com/articles/startup-etched-closes-seed-round-promises-more-cost-effective-ai-chip-f5fd79aa?tpl=venturecapital"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 640
     isCached: true
 
-secured: "ovLxUchg1dcTsm1CtZv45+GWxUGojkmLBzImEUET+BMVTmxjKz0nvxdYice4Y1boGcVCTcTWmdn5XXxkMfWYWEtLHuJfBkOR4p79+PVIkmQ5fuq2wxo79IHpDUgnyipNzYZLxCnzdmJn+7EJAr4FNbFPQbQGWWaKCXvgDBDgbrMBY3VJGrpl3VNPylqOLy7NWrp+7bIFsbO8QaVwishz987xMt/mmYLyVLFNvruLtnW6AIfTtG7ZtCKt+ts4zUN71+7HX1J8xCfRLv6Nn92cB0ike8xEl+bIL7rsoNDkk08hGG2k3I5GP3xo7EPy8rMA0a9y90t8xdNW43g05pRvHvTvLPqjdGiqttewlDUTtho=;X9tqB6DTUmVf+1Zv2cW56Q=="
+secured: "xttK7QZHi1OaR0E3Buwlo6EhfHpPvIhmZIDUDPcMBSCqSvjg+uPc/J60uoh/HqIX3DDEE0bW3MF0wWpLajrQuwtuztRjf2XvL/fGhpTufxItLfpp2wzBP2yPIkKvMxTcsqQCvaANhFQ3b0BV5qhAO8Va591dyb9jt/b3OWIoV2ABnNTcph8UWQtpDRlTxeswwP97onsBx14DtSQgJC3Fsu124auzQiF6escMPx64VHLEx9686qP5dWs+TkCYKS7QvzD8ydlUJjCNjgHgctqzM7qjP5EMeXsqL6LFsH59Ut4dLLgCxqwSPmJDZO5Q+tQxpYVLQpMkrGrHFVW76ZJDKAjJGc110bPjalS8DDscJWs=;156gpuVIRtToN1AZ69AwCw=="
 ---
 

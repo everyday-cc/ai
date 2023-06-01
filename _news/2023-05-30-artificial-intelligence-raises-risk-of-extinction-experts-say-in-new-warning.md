@@ -21,7 +21,7 @@ topics:
   - AI
 
 images:
-  - url: "https://gray-wbko-prod.cdn.arcpublishing.com/resizer/NZr7pA6a4B3yRMEEsLFFJMyDzdg=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/TOTGUTFDUVAEHKHOTT2DTWASMU.jpg"
+  - url: "https://gray-wbko-prod.cdn.arcpublishing.com/resizer/m2_Hb0UKjlNkGm-4CU7nAg9lueY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/CK5GVJIDSNCA5JWCP6IMLZNW4A.jpg"
     width: 800
     height: 450
     isCached: true
@@ -153,6 +153,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Poses Threat To Human Existence, Experts In New Warning Letter"
+    excerpt: "But now, this recent letter reportedly endorsed by Microsoft's chief technology and science officers, as well as Demis Hassabis, CEO of Google's AI research lab DeepMind, and two Google executives who lead its AI policy efforts. The statement doesn't ..."
+    publishedDateTime: 2023-06-01T08:38:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ai-poses-threat-to-human-existence-experts-in-new-warning/453287"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1685607676-Untitleddesign-2023-06-01T134751526.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Runaway AI Is an Extinction Risk, Experts Warn"
     excerpt: "A new statement from industry leaders cautions that artificial intelligence poses a threat to humanity on par with nuclear war or a pandemic."
     publishedDateTime: 2023-05-30T13:55:00Z
@@ -191,9 +205,9 @@ related:
         height: 600
         isCached: true
   - title: "Artificial intelligence could lead to extinction, experts warn"
-    excerpt: "Artificial intelligence could lead to the extinction of humanity, experts - including the heads of OpenAI and Google Deepmind - have warned. Dozens have supported a statement published on the webpage of the Centre for AI Safety."
-    publishedDateTime: 2023-05-30T16:32:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-65746524?at_ptr_name=facebook_page&at_medium=social&at_link_type=web_link&at_link_origin=BBC_News&at_campaign_type=owned&at_link_id=73422F66-FEEE-11ED-B559-B5127F934D9D&at_bbc_team=editorial&at_campaign=Social_Flow&at_format=link"
+    excerpt: "Artificial intelligence could lead to the extinction of humanity, experts including the heads of OpenAI and Google Deepmind warn. Dozens have supported a statement published on the webpage of the Centre for AI Safety ."
+    publishedDateTime: 2023-05-30T11:31:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-65746524?at_medium=RSS&at_campaign=KARANGA"
     ampWebUrl: "https://www.bbc.co.uk/news/uk-65746524.amp"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-65746524.amp"
     type: article
@@ -505,6 +519,6 @@ related:
       domain: chron.com
     quality: 16
 
-secured: "i3wsHbHHQ3UF7kbUzoItHlZCN8PsLH60Fh2XAXLNCJzJYWwOnYnfXB/CFHiTQmU72R52PygweSBpBw2ASyC1eonqbKv6urN86Drdzrr3jdfFWq5Z/9fOpe7gw5/cBm1CKT1kBSf+UBALsVW3WNLXxN6HmMB45CIjYUMkkA+pRqRLVdOT7jA1PvDZOIceIPW3oYvfbn+YrYpyp2989fSGP91FNvUy/7/PKy5Q433dHjJBYeCvpXXgtJnKhSYguyEIJilDTxd4kc+Cyttv+VPnwL9uRbdIOEfnWSvdT5rbad3I/Fj7DrCWS72AMz9eRaJcAJ3hrHSQRmyTWbQF5gZ+VAFk2UMoAKLgLEe010q2bzI=;rdrNMpl2gG6gfrTfOcnv4g=="
+secured: "155Qd1sg0FIXXRy8PashKFoIC/ClCobekckMGJMTeB/Xo2CvIva15UgKrMkL0K+E+LcSqVahHoGaC96pbQlVTI4FGXeICHwhUEV9e5MXalwD/7mlMZAqCc0pkk4fPO+H11HBmiK09JAWheRfDV9vgCv3gWnP3SuE/fLBnoRNJ4Uls7lkuff8qx56cD80V5fNHfh0D6hKGNP3PP3D+4pT58GF8XgqAKHcSfkw2pNJNIOneTfjP/7gdUYmbZ9YB6KxDOUoYSTNu+KdKzsKraz9OCsvCoS1ra0yhTjWoHlesk/BgycSm+b1p4QP3vwt4ABYf9E1wkPaMC7As8DP4oyZFcGHFLRPwsvv+7ksjGJUO6w=;w2XR6LEckFiS02eAa6Fdmg=="
 ---
 

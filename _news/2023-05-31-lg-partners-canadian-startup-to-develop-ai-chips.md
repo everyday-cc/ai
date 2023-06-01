@@ -40,6 +40,36 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "LG Electronics partners with Canadian startup to develop AI chips"
+    excerpt: "LG Electronics and Canadian AI computing startup Tenstorrent said Wednesday they are working together to develop next-generation chips that could potentially power the Korean tech company's smart consumer appliances and automotive products. Tenstorrent ..."
+    publishedDateTime: 2023-06-01T09:58:00Z
+    webUrl: "https://koreatimes.co.kr/www/nation/2023/05/419_352030.html?miRedirects=1"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352030"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=352030"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 57
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202305/2b1f37c95e1e41e394c1e7a942b44843.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "LG Electronics, Canada’s Tenstorrent AI Computing Startup Partner for Chips Development"
+    excerpt: "LG Electronics announced on Wednesday, May 31, that it has teamed up with a Canada-based AI computing startup called Tenstorrent. They will cooperate to develop next-generation chips that may power the formers"
+    publishedDateTime: 2023-06-01T09:01:00Z
+    webUrl: "https://www.econotimes.com/LG-Electronics-Canadas-Tenstorrent-AI-Computing-Startup-Partner-for-Chips-Development-1657147"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 46
+    images:
+      - url: "https://f1.econotimes.com/2023/06/e162b5qozr_th_1024x0.jpg"
+        width: 1024
+        height: 681
+        isCached: true
 
 secured: "c1gXP2SRfy5nQFKyYQAXX08Aj9ScGjXeiolQlrAcO+0kk96LQdtwBuAiHD0UELztGwRtYdq5mdCYGNmSuTKw5afDAEjutLOfhBOh4D3Uo6eTbrgm+XZX31Nl/7ffA04IOeff88teFaGg1MaexUuYvx6JxLaZ69xBM+AdEq2nR04u7afXz2ohZUsL2A41Zkbfyp8L2lecOm+7B+bRdTeCw+9aQp8Up3Imko5NOgOOCEGOQksZqgc2u/6E4ip9ua1/+CZuGv6RN0equ2PYp1ZuLNd3WRCApu7Smtt5e7sM9OFsEB/8X3DDit3bz6utVbolOaa2f/ekKkUMtOMCAMGyaFHUtoifc8wjV2ecY48b89w=;DmdUNWihYo4xNH/pXs7nKg=="
 ---

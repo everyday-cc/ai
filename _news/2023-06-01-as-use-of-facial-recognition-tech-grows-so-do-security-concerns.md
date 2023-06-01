@@ -7,8 +7,8 @@ originalUrl: "https://www.startribune.com/as-use-of-facial-recognition-technolog
 webUrl: "https://www.startribune.com/as-use-of-facial-recognition-technology-grows-so-do-security-concerns/600279118/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Star Tribune
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Greens voice concerns over facial recognition technology"
+    excerpt: "A Green Party TD has said it is important to make a distinction between bodycams and facial recognition technology."
+    publishedDateTime: 2023-06-01T08:06:00Z
+    webUrl: "https://www.rte.ie/news/ireland/2023/0601/1386841-facial-recognition-technology/"
+    type: article
+    provider:
+      name: RTE Online
+      domain: www.rte.ie
+    quality: 41
+    images:
+      - url: "https://img.rasset.ie/00132672-1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Green Party won't back use of facial recognition technology by gardaí"
     excerpt: "The Green Party will not back a renewed call from Minister for Justice Simon Harris to support legislation which would pave the way for gardaí to use facial recognition technology."
     publishedDateTime: 2023-05-31T16:47:00Z
