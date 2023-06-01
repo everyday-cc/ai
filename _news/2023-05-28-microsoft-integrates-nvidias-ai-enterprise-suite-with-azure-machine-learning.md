@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3696978/microsoft-integrates-nv
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.amp.html"
 type: article
 quality: 103
-heat: 413
+heat: 403
 published: true
 
 provider:
@@ -153,15 +153,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
-  - title: "Windows Copilot Puts AI in the Heart of Microsoft's Most Important Software"
-    excerpt: "Some of the most important screen real estate in the world is getting a chatbot that can adjust PC settings, perform searches and suggest music."
-    publishedDateTime: 2023-05-27T12:00:00Z
-    webUrl: "https://www.cnet.com/tech/computing/windows-copilot-puts-ai-in-the-heart-of-microsoft-most-important-software/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 62
   - title: "Bulls Charge Into The Memorial Day Weekend On AI Excitement And Nvidia Earnings Momentum"
     excerpt: "The Markets To say NVDA (NASDAQ: NVDA) crushed earnings is a drastic understatement. You won’t find fundamental analysis on this page. But it does make sense to pay attention to the smart and experienced traders that know the fundamentals."
     publishedDateTime: 2023-05-30T17:05:00Z

@@ -2,21 +2,27 @@
 category: news
 title: "Nvidia's reboot: How the processing giant made the shift from gaming to AI"
 excerpt: "Here's how Nvidia CEO Jensen Huang presented the results of Q1 2019, five years ago: At the heart of our opportunity is the incredible growth of computing demand of AI, just as traditional computing has slowed. The GPU computing approach we have pioneered ..."
-publishedDateTime: 2023-05-31T17:52:00Z
-originalUrl: "https://www.freep.com/story/money/2023/05/31/how-nvidia-reinvented-itself/70265023007/"
-webUrl: "https://www.freep.com/story/money/2023/05/31/how-nvidia-reinvented-itself/70265023007/"
+publishedDateTime: 2023-05-31T17:45:00Z
+originalUrl: "https://www.usatoday.com/story/money/2023/05/31/how-nvidia-reinvented-itself/70265023007/"
+webUrl: "https://www.usatoday.com/story/money/2023/05/31/how-nvidia-reinvented-itself/70265023007/"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.gannett-cdn.com/presto/2023/05/25/USAT/96ccb936-a4f1-428e-a72b-d8bd5c1eb7a5-70210697007-artificial-intelligence-ai.jpg?auto=webp&crop=2101,1182,x0,y213&format=pjpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Landing AI's Visual Prompting Makes Building and Deploying Computer Vision Easy with NVIDIA Metropolis"
@@ -110,6 +116,6 @@ related:
       domain: globalspec.com
     quality: 0
 
-secured: "XmgBCzbZGdc+h4/langEG/zIDJFyin7DxIKQ4j7P4nsposF31Kjv9Xv6rO+4bjCHsB3XVoUvpkczO2k8EpqUIdhKhV6mJxZbq8ncirZszrE1LiUfVE/Pyz9laEqGM9RC5qrlVrr+q+mRQC6dSnSLERUIBNUrmaQNsvUC3eUeXFGaYADKtxqk2PvIFCivYXY1ADrG7iSUsQ1fDX8chAfOkSor0izu+4xrulkDzYqO08WkphaJPhf6EsXomrEgYTccE7TNNLXiMQ5mEWRXHY4DhMtjE876Loe598YFcjBB1dZotSysXi5fWKSkVfzstk95EI3eM3/GrgHa7+dRXzgwcYscHCueyWH42hXXGFBbr6eUOU7VRqf6LSHhcY0BrnU2BTFoIoLJ1yJXv5f+yOcs3gPrMTV7cTrT85g8RvxwRyqkctvNhlvvuyMCn9/7y8IMHOHd/3QEN75dmiN48M9on4p5k8pjGkWZP8kz+519fzcnVz0LOIifKLpad1zTEmAPwX59t0ZT6+FZqYOfeJkZnA==;UoaPsco/loq15bLM2DYQFA=="
+secured: "HFGoWmnzROcHOW9ir+CcPWa3JwfHmFy17Sz4Wr7u2FUU3xRkQG0yM6a8TU0/b3cfkNyyxICjr6URMnakRWiQYF17xro/0haeqek9oj2r6bmMCFH96CNGLCRtx9pH1GUfBj+NfhCz/+4B6wOsO4NYACkOXDahZucxpTmDnShRfd8u482B1sNdfu5R0yDa5XT7x+58mKCmY8vZ2GXuLdcDUdBiSx1hMt6gmdyL8IIBa3qKvlPzaKEuiSfj+JDjnpPfODl8R3ZWwcmZ2GilhtHhCi+jRJTCrrFwKOzFbaIarROs7iM2dr3SvsmiI/nQ9SUeJzSyjQuqwqi6k9XyvRGTKYlYtZoLwn7xbFhTCdIcevI=;SMAirtdMqyBP9GhyNLw2hg=="
 ---
 

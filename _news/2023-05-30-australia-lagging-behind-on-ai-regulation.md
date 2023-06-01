@@ -69,6 +69,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Young Australians could make voice referendum a success"
+    excerpt: "Young Australians are expected to be key to the Indigenous voice referendum succeeding. Cabinet minister Don Farrell told the National Press ClubÂ voters aged over 55 tended to oppose the voice, while Australians under 35 overwhelmingly backed it."
+    publishedDateTime: 2023-06-01T05:37:00Z
+    webUrl: "https://www.corowafreepress.com.au/national/young-australians-could-make-voice-referendum-a-success/"
+    type: article
+    provider:
+      name: corowafreepress
+      domain: corowafreepress.com.au
+    quality: 24
+    images:
+      - url: "https://imengine.public.prod.mmg.navigacloud.com?uuid=cfb4c592-f9cc-5811-8fbc-622940b7257d&function=original&type=preview"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Dreaming of a brighter future, Voice advocates call for Australia’s healing"
     excerpt: "Linda Burney has told an audience in Canberra the story of Australia is incomplete, starting with what the constitution does not acknowledge."
     publishedDateTime: 2023-05-31T00:21:00Z

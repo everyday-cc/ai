@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Character.AI, the a16z-backed chatbot startup, tops 1.7M installs in first week"
+    excerpt: "Demand for AI via consumer mobile apps has been climbing, with market leader OpenAI's ChatGPT mobile app topping half a million downloads in its first six days."
+    publishedDateTime: 2023-05-31T23:47:00Z
+    webUrl: "https://techcrunch.com/2023/05/31/character-ai-the-a16z-backed-chatbot-startup-tops-1-7m-installs-in-first-week/"
+    ampWebUrl: "https://techcrunch.com/2023/05/31/character-ai-the-a16z-backed-chatbot-startup-tops-1-7m-installs-in-first-week/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/31/character-ai-the-a16z-backed-chatbot-startup-tops-1-7m-installs-in-first-week/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/characterai-Mobile-App.png?w=1011"
+        width: 1011
+        height: 497
+        isCached: true
   - title: "I Asked AI Chatbots to Help Me Shop. They All Failed"
     excerpt: "I test products and write reviews for my job. So I asked ChatGPT, Bard, and Bing Chat to recommend headphones—and I saw exactly where the AI falls short."
     publishedDateTime: 2023-05-31T11:01:00Z
@@ -42,19 +58,19 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 45
-  - title: "Jim Warren: AI chatbots have been used to create hundreds of news websites"
-    excerpt: "Misinformation tracker NewsGuard has identified more than 125 websites, published in 10 languages, with news content written by AI tools"
-    publishedDateTime: 2023-05-30T10:00:00Z
-    webUrl: "https://www.chicagotribune.com/opinion/commentary/ct-opinion-ai-fake-news-chatgpt-20230530-dlggdtqypngf7hk6pfsfzwyo64-story.html"
+  - title: "Chinese AI chatbot firm Xiao-I eyes global market after Nasdaq IPO on ChatGPT fever"
+    excerpt: "When Yuan Hui launched his company’s first chatbot two decades ago, the world had yet to catch up on the potential of conversational artificial intelligence (AI). Today, Shanghai-based Xiao-I is worth more than US$400 million,"
+    publishedDateTime: 2023-05-31T04:20:00Z
+    webUrl: "https://www.channelnewsasia.com/business/china-xiao-i-artificial-intelligence-company-nasdaq-3527291"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 37
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 33
     images:
-      - url: "https://www.chicagotribune.com/resizer/sTCFwy1DXyc5qYFInLVJ5loZ9OY=/1200x630/filters:format(jpg):quality(70):focal(2293x1960:2303x1970)/cloudfront-us-east-1.images.arcpublishing.com/tronc/UPJDSXSRJIER3SHFXQ3B6AB7ZM.jpg"
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--fYeRF4wY--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/05/31/china_xiao-i.png?itok=9K8E7QKU"
         width: 1200
-        height: 630
+        height: 676
         isCached: true
   - title: "US eating disorder helpline takes down AI chatbot over harmful advice"
     excerpt: "National Eating Disorder Association has also been under criticism for firing four employees in March who formed a union"

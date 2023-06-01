@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-05-22-artificial-intelligence-catalyzes-gene-activation-research-and-uncovers-rare-dna-sequences.md",
+      "title": "Artificial intelligence catalyzes gene activation research and uncovers rare DNA sequences",
+      "excerpt": "Artificial intelligence has exploded across our news feeds, with ChatGPT and related AI technologies becoming the focus of broad public scrutiny. Beyond popular chatbots, biologists are finding ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/05/230519104559.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/05/230519104559.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-21T20:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-22-12-best-artificial-intelligence-ai-stocks-to-buy-for-2023.md",
       "title": "12 Best Artificial Intelligence (AI) Stocks To Buy For 2023",
       "excerpt": "The artificial intelligence (AI) chatbot conducts nearly ... All are positioned for gains as robotics and AI adoption rises. Sector exposure is primarily in technology, industry and healthcare.",
@@ -1121,58 +1164,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-20-ai-will-have-the-most-negative-impact-on-emerging-workforces.md",
-      "title": "AI Will Have The Most Negative Impact On Emerging Workforces",
-      "excerpt": "AI has been around for a while, as have its many dangers. In ‘The Levelling’ we wrote about how algorithms were both causing and provoking inequalities and social injustice. Last summer we flagged the very sinister example of how the Spiez Laboratory in Switzerland (see the Final Problem) one of whose specialisations is the study of deadly toxins and infectious diseases (located not too far away from the Reichenbach Falls),",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikeosullivan/2023/05/20/ai-will-have-the-most-negative-impact-on-emerging-workforces/",
-      "originalUrl": "https://www.forbes.com/sites/mikeosullivan/2023/05/20/ai-will-have-the-most-negative-impact-on-emerging-workforces/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64688f919388e7fff92e9948/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mikeosullivan/2023/05/20/ai-will-have-the-most-negative-impact-on-emerging-workforces/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/05/20/ai-will-have-the-most-negative-impact-on-emerging-workforces/amp/",
-      "publishedDateTime": "2023-05-20T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

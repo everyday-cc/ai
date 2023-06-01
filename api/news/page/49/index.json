@@ -2,6 +2,40 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2023-05-01-analytixinsight-reports-2022-financial-results-provides-corporate-update-and-reports-marketwall-q1-2023-record-financial-results.md",
+      "title": "AnalytixInsight Reports 2022 Financial Results, Provides Corporate Update and Reports MarketWall Q1 2023 Record Financial Results",
+      "excerpt": "InvestoPro momentum is now building and MarketWall has posted record breaking financial results for the first quarter of 2023 on the back of the new recurring revenue license agreement with our bank partner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/05/01/9804689.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/05/01/9804689.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-01T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-01-how-to-optimize-google-cloud-platform-cloud-costs-with-ibm-turbonomic.md",
       "title": "How to optimize Google Cloud Platform cloud costs with IBM Turbonomic",
       "excerpt": "A close look at how IBM Turbonomic helps customers optimize their GCP cloud costs.\nThe post How to optimize Google Cloud Platform cloud costs with IBM Turbonomic appeared first on IBM Blog.\n",
@@ -1108,57 +1142,6 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-01-we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution.md",
-      "title": "We must perfect predictive models for generative AI to deliver on the AI revolution",
-      "excerpt": "To accelerate the AI revolution, we shouldn’t abandon “old school AI” for flashier generative AI. Why we should perfect predictive AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/",
-      "originalUrl": "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1347040940.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/we-must-perfect-predictive-models-for-generative-ai-to-deliver-on-the-ai-revolution/amp/",
-      "publishedDateTime": "2023-04-30T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
+    publishedDateTime: 2023-06-01T00:32:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/06/01/nvidia-chatgpt-ai-chips-stock-jump/aa6dcedc-003d-11ee-9eb0-6c94dcb16fcf_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 31
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UWXX3IAAHUI65HVQNSKNZMLPZ4.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "GPUs get all the headlines, but the future of AI is real-time data"
     excerpt: "The era of AI everything continues to excite. But unlike the internet era, where any company announcing a dot-com anything immediately rose in value, the AI gods appear to be more selective. Nvidia Corp."
     publishedDateTime: 2023-05-27T18:13:00Z
@@ -44,6 +58,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 19
+  - title: "Orlando companies harness the power of AI in revolutionizing health care"
+    excerpt: "As the health care industry faces staffing shortages and rising costs, AI is offering a solution that can free up time for health care providers to focus on patient care."
+    publishedDateTime: 2023-06-01T04:00:00Z
+    webUrl: "https://www.bizjournals.com/orlando/inno/stories/partner-content/2023/06/01/orlando-companies-harness-the-power-of-ai-in.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 18
   - title: "AI is scary. Here are 10 things we can do to keep it under control"
     excerpt: "If it seems artificial intelligence is the biggest technological advancement in history, that’s because it is."
     publishedDateTime: 2023-05-31T02:14:00Z

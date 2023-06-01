@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Travelers to U.K. face long waits amid systems problem"
-    excerpt: "LONDON >> Travelers arriving in the U.K. faced hourslong delays today after a technical problem shut electronic border gates at airports across the country, forcing everyone to have their passports checked manually on what was expected to be one of the busiest travel weekends of the year."
-    publishedDateTime: 2023-05-27T11:05:00Z
-    webUrl: "https://www.staradvertiser.com/2023/05/27/sports/sports-breaking/travelers-to-u-k-face-long-waits-amid-systems-problem/"
-    ampWebUrl: "https://www.staradvertiser.com/2023/05/27/sports/sports-breaking/travelers-to-u-k-face-long-waits-amid-systems-problem/amp/"
-    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/05/27/sports/sports-breaking/travelers-to-u-k-face-long-waits-amid-systems-problem/amp/"
-    type: article
-    provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 59
-    images:
-      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/05/web1_13843382-63da3cfc9dbc48d9b9ac4e6eb9aa4fde.jpg"
-        width: 760
-        height: 507
-        isCached: true
   - title: "Travelers to UK face long waits amid systems problem affecting electronic gates"
     excerpt: "Travelers arriving in the U.K. faced hourslong delays Saturday after a technical problem shut electronic border gates at airports across the country, forcing everyone to have their passports checked manually on what was expected to be one of the busiest travel weekends of the year."
     publishedDateTime: 2023-05-27T16:21:00Z

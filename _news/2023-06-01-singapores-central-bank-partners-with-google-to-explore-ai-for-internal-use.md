@@ -9,7 +9,7 @@ ampWebUrl: "https://247wallst.com/investing/2023/05/31/singapores-central-bank-p
 cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/05/31/singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use/amp/"
 type: article
 quality: 71
-heat: 81
+heat: 112
 published: true
 
 provider:
@@ -27,6 +27,45 @@ images:
     isCached: true
 
 related:
+  - title: "Singapore Regulator Says AI is Focus of Marquee Fintech Festival"
+    excerpt: "Artificial intelligence will take center stage at Singapore’s annual fintech event in November, underscoring the growing significance of the technology."
+    publishedDateTime: 2023-06-01T05:12:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-01/singapore-regulator-says-ai-is-focus-of-marquee-fintech-festival"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/id_yFIvm7P3Y/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Artificial Intelligence to take centre stage at the Singapore FinTech Festival 2023"
+    excerpt: "The Monetary Authority of Singapore (MAS) and Elevandi 1 today announced the theme of the Singapore FinTech Festival (SFF) 2023 – 'Applications of Artificial Intelligence (AI) in Financial Services'."
+    publishedDateTime: 2023-05-31T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-take-centre-stage-the-singapore-fintech-/2023/05/31/9824216.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/2089389/1.jpg"
+        width: 400
+        height: 267
+        isCached: true
+  - title: "Singapore FinTech Festival 2023 to explore applications of AI in financial services"
+    excerpt: "The Monetary Authority of Singapore (MAS) and Elevandi have announced “Application of Artificial Intelligence (AI) in Financial Services” as the theme for Singapore FinTech Festival (SFF) this year. SFF 2023 will focus on the growth and adoption of AI and how the technology can be potentially used in financial services."
+    publishedDateTime: 2023-06-01T04:14:00Z
+    webUrl: "https://www.theedgesingapore.com/news/fintech/singapore-fintech-festival-2023-explore-applications-ai-financial-services"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/news/fintech/singapore-fintech-festival-2023-explore-applications-ai-financial-services"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/fintech/singapore-fintech-festival-2023-explore-applications-ai-financial-services"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 33
   - title: "Exploring the role of Artificial Intelligence in Forex Trading: Can machines outsmart humans?"
     excerpt: "The future of AI in forex trading looks promising. With technological advancements, AI is expected to become even more integral to forex trading."
     publishedDateTime: 2023-05-31T09:49:00Z

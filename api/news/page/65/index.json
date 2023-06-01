@@ -2,6 +2,58 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2023-04-21-bard-now-helps-you-code.md",
+      "title": "Bard now helps you code",
+      "excerpt": "Bard can now help with programming and software development tasks, across more than 20 programming languages.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/code-with-bard/",
+      "originalUrl": "https://blog.google/technology/ai/code-with-bard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/9_Bard_Coding_Social_Share_Still_Blog_Social_.width-1300.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/code-with-bard/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/code-with-bard/amp/",
+      "publishedDateTime": "2023-04-21T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-21-the-cfo-at-the-forefront-of-innovation.md",
       "title": "The CFO: at the forefront of innovation",
       "excerpt": "Historically, the Chief Financial Officer (CFO) role had been strictly focused on accounting for financial information. These days, there&#8217;s a need &#8212; and even some pressure &#8212; for CFOs to evolve their scope and influence the innovation agenda within their enterprises. For starters, they",
@@ -1134,50 +1186,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-21-artificial-intelligence-examples-of-ethical-dilemmas.md",
-      "title": "Artificial Intelligence: examples of ethical dilemmas",
-      "excerpt": "To not replicate stereotypical representations of women in the digital realm, UNESCO addresses gender bias in AI in the UNESCO Recommendation on the Ethics of Artificial Intelligence, the very first global standard-setting instrument on the subject.",
-      "sourceUrl": null,
-      "webUrl": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases",
-      "originalUrl": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unesco.org/sites/default/files/styles/banner_mobile/public/2022-03/shutterstock_1803136597.jpeg?h=a4246cac&itok=-x8_-N4C",
-          "width": 400,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UNESCO",
-        "domain": "unesco.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

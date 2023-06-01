@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-excerpt: "Leading scientists and tech industry leaders are warning about the perils artificial intelligence poses to humankind, saying “mitigating the risk of extinction from AI should be a global priority.”"
-publishedDateTime: 2023-05-31T07:49:00Z
-originalUrl: "https://kenoshanews.com/news/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/article_ca55b621-31b5-565b-a68e-a61d47a9d39a.html"
-webUrl: "https://kenoshanews.com/news/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/article_ca55b621-31b5-565b-a68e-a61d47a9d39a.html"
+excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
+publishedDateTime: 2023-05-31T12:32:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692579"
+webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692579"
 type: article
-quality: 51
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Kenosha News
-  domain: kenoshanews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/kenoshanews.com/content/tncms/assets/v3/editorial/c/a5/ca55b621-31b5-565b-a68e-a61d47a9d39a/647669627cf8b.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://s.abcnews.com/images/International/wirestory_54ea8aadc60d1503e5a65878219aad43_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -137,21 +136,21 @@ related:
         width: 976
         height: 549
         isCached: true
-  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-    excerpt: "Scientists and tech industry leaders, including high-level executives at Microsoft and Google, issued a new warning Tuesday about the perils that artificial intelligence poses to humankind."
-    publishedDateTime: 2023-05-30T13:28:00Z
-    webUrl: "https://www.wral.com/story/artificial-intelligence-threatens-extinction-experts-say-in-new-warning/20886276/"
-    ampWebUrl: "https://www.wral.com/amp/20886276/"
-    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20886276/"
+  - title: "Artificial Intelligence Raises Risk of Extinction, Experts Say in New Warning"
+    excerpt: "Scientists and tech industry leaders have issued a new warning about the perils that artificial intelligence poses to humankind."
+    publishedDateTime: 2023-05-30T13:24:00Z
+    webUrl: "https://www.nbcdfw.com/news/national-international/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/3267698/"
+    ampWebUrl: "https://www.nbcdfw.com/news/national-international/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/3267698/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/3267698/?amp=1"
     type: article
     provider:
-      name: WRAL
-      domain: wral.com
+      name: NBC DFW
+      domain: nbcdfw.com
     quality: 71
     images:
-      - url: "https://wwwcache.wral.com/asset/news/technology/2023/05/30/20886277/6475fa6fa5ee5-media_7dd689f31dad4f5ca5d5ab652dfdfdec-DMID1-5z2v6gjo8-640x480.jpg"
-        width: 640
-        height: 480
+      - url: "https://media.nbcdfw.com/2023/05/CHATGPT.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "AI Industry Leaders Sign Statement Warning of 'Extinction' Level Risks"
     excerpt: "The statement, signed by OpenAI CEO Sam Altman and DeepMind CEO Demis Hassabis, says mitigating the risks of AI should be a global priority."
@@ -505,6 +504,6 @@ related:
       domain: chron.com
     quality: 16
 
-secured: "s9luqPdlPkwK/iVHNybVvlwsWsfgLAlbekZjXchkTFKYEY00WKihQUjGcgIolT+2moFark07waBTNK1Z40vidxM2AwcGNDQE0+d8y50CCq9rFsb7IzjfrFZyJIL6OMQi/OYpN+IW9jrytAJZ7tUU77+E+HgTfJFOOztIjF4KwLOXCJA0z8F5E68mCM79VULsIP0WI0ziA1hW2ZsstKSFPQacaNAqvXhwCZJEwf/H+PObEps7PiumDNUJmO6m4sw4hwWjaK/F1gu6hsHp1jFlHU5qmxNsOyKPEHWc/i6oZEODqRela79B+hG0JRYcEChmnE3pPFOVL/1labaA1fYKnvS02ry8p2g4U5ojLsL5Guk=;h7rgnQoS/VrmOxWptaTpFA=="
+secured: "WteVQFdGZsQHh4T3WfsrUOait0mY4GiAXTWosf0o5AcNUN7shQg5ZQsmPCo14WJOG80LFmMwvXX0T8nytGrmJo+5Z4P7vGSu7NNDctUz5xshZ4C82r6xti8Hw03JHi/BiX8vLMnS5Jn2feJ0LoJFZr9WT0P+kLjRsPSyp7xnfIIhiao9mYgxRsCLkLqzrwSF12mBUnPWrFfR1WhqyVg0DKKmAjqdLrh8pGUmSUvV3oOffmbkiG4BuLo8oTystAO7HdXX8V71IBkGvYNmbyu3SPQuX3LQBPt9N4P5Yrs17vQynFsFbNHMLpgbBkPjUJA4dcfA+MBbh04pulsYmCMxvZvr3Bc1WtFEjZrvdSZnN7E=;tX8Rr5wTwZsS1pNtqHmsAA=="
 ---
 

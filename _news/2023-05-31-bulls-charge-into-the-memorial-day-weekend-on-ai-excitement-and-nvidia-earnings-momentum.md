@@ -170,15 +170,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
-  - title: "Windows Copilot Puts AI in the Heart of Microsoft's Most Important Software"
-    excerpt: "Some of the most important screen real estate in the world is getting a chatbot that can adjust PC settings, perform searches and suggest music."
-    publishedDateTime: 2023-05-27T12:00:00Z
-    webUrl: "https://www.cnet.com/tech/computing/windows-copilot-puts-ai-in-the-heart-of-microsoft-most-important-software/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 62
   - title: "NVIDIA is upgrading the in-car experience with AI, streaming, and advanced safety features"
     excerpt: "NVIDIA revealed a new partnership Monday with Taiwanese semiconductor giant MediaTek to enhance the in-car driver experience and make"
     publishedDateTime: 2023-05-29T16:43:00Z

@@ -1,27 +1,22 @@
 ---
 category: news
 title: "AI: War crimes evidence erased by social media platforms"
-excerpt: "Evidence of potential human rights abuses may be lost after being deleted by tech companies, the BBC has found. Platforms remove graphic videos, often using artificial intelligence - but footage that may help prosecutions can be taken down without being archived."
+excerpt: "Artificial intelligence (AI) can remove harmful and illegal content at scale. When it comes to moderating violent images from wars, however, machines lack the nuance to identify human rights violations. Human rights groups say there is an urgent need for social media companies to prevent this information from vanishing."
 publishedDateTime: 2023-05-31T23:01:00Z
-originalUrl: "https://www.bbc.com/news/technology-65755517"
-webUrl: "https://www.bbc.com/news/technology-65755517"
-ampWebUrl: "https://www.bbc.com/news/technology-65755517.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-65755517.amp"
+originalUrl: "https://www.bbc.co.uk/news/technology-65755517"
+webUrl: "https://www.bbc.co.uk/news/technology-65755517"
+ampWebUrl: "https://www.bbc.co.uk/news/technology-65755517.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-65755517.amp"
 type: article
-quality: 89
-heat: 89
-published: true
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
-  - Facebook AI
   - AI
 
 images:
@@ -30,6 +25,6 @@ images:
     height: 576
     isCached: true
 
-secured: "zVDniJWqbGLgG+tnUVwS9QEqiK0aHNtwQboblyhl5OuzYp2NDZ5yQTtZuSeLMyH9uPn1uJW2FBLHRDxRxsGwm4TngmLLpu14Oz/BbeZ7FHipGv26fG9BV0pYiXbRgKwuVki+0VIodKV5PubtDczBRro3NpEvbGkHJkoZandXBp0oDJZ3PmtmQckoBQ7fDQchjijhrfGeLBspmiqUtBrE5ffbB5ToaGwfiFjQYhZ8/8jR8Cz66nL/YwidZ8gWvyFort6Rx6D7rLhSPafHUtiO1ZBwTvI4UES8DwRoPxhCL/DgBxqWzA04RPaYRJ5OyFSksIsAiBgveObHeYo1pq0vnb8QOg/EQ3tkpojS40Q/XFXIvapHR+t6ULYxDZohZJbuxd9l7THjXDNVSo4RPA66Zznmp92znV72XdCWvK4CDoCZ5FjpJGTk6enrHGaztN88jKLoU0X0sB8RCm6jSUd0GG6rIZgeuXIiZy5qndhq9QTNg3//Hm1CNbjbf1mIhBtc02J0ySv9ogWzWYIpY6EUAQ==;1R+TOldaSXDLFoQq9Dp2/Q=="
+secured: "KvHdklDWRv7TIUOL5/X/CkRLp9Jl32W1UGZzgs6+lyLqRSo2VwTpgEVma1+geXexRL5qR2Fc3mhbq5v60I7SIsa2smOTV/IUeWbp40VEW+1hmaQjIiR6PZc5WTGs0ORB+SFWvKVZ9c2aqpDAmfvk21TKfJ/mQmq+mGNBWvE7+tWcnlEyuhzsj2LvYzUl/Isef6i/BybYoneC3Zd/mKsGzFKyPefILtHqOhsaPuumI0cp2QeW2lNzbiBK07eufZ1z/FdCByhdCUE9z62epvHAX7x12KyxmjlcVh98CLZDp8nNf/YNapLUFxkCRrIIf5cCLOZT/5ixtGFjAh1iP8NeBc1w9jccwRK0SZgHPGy4Nfo=;nGGpla/HD0YPWHbUV3sQxA=="
 ---
 

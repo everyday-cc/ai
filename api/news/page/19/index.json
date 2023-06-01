@@ -2,6 +2,57 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-05-17-unmasking-the-hype-how-ai-can-empower-small-e-commerce-businesses.md",
+      "title": "Unmasking The Hype: How AI Can Empower Small E-Commerce Businesses",
+      "excerpt": "It’s an inquisitive mind that can help us separate the hype from the genuine opportunities and evaluate AI’s true potential in the ever-evolving world of e-commerce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/17/unmasking-the-hype-how-ai-can-empower-small-e-commerce-businesses/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/17/unmasking-the-hype-how-ai-can-empower-small-e-commerce-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6463e6cab986491758c2ff1a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/17/unmasking-the-hype-how-ai-can-empower-small-e-commerce-businesses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/17/unmasking-the-hype-how-ai-can-empower-small-e-commerce-businesses/amp/",
+      "publishedDateTime": "2023-05-17T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-uae-company-launches-first-of-a-kind-locally-made-robot-to-fight-fires-in-the-region.md",
       "title": "UAE company launches first-of-a-kind locally-made robot to fight fires in the region",
       "excerpt": "Dubai, UAE - FFBOTS, the Jebel Ali Industrial Area-based Emirati firm, has launched the first locally-made firefighting robot of its kind in the Middle East, with world-class technical specifications and operational capabilities.",
@@ -1159,59 +1210,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-microsoft-says-new-ai-shows-signs-of-human-reasoning.md",
-      "title": "Microsoft Says New A.I. Shows Signs of Human Reasoning",
-      "excerpt": "A provocative paper from researchers at Microsoft claims A.I. technology shows the ability to understand the way people do. Critics say those scientists are kidding themselves.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/05/16/technology/microsoft-ai-human-reasoning.html",
-      "originalUrl": "https://www.nytimes.com/2023/05/16/technology/microsoft-ai-human-reasoning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/05/11/business/00ai-sparks/00ai-sparks-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-16T15:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

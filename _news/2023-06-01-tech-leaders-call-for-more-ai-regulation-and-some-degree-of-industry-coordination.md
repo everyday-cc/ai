@@ -69,6 +69,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Young Australians could make voice referendum a success"
+    excerpt: "Young Australians are expected to be key to the Indigenous voice referendum succeeding. Cabinet minister Don Farrell told the National Press ClubÂ voters aged over 55 tended to oppose the voice, while Australians under 35 overwhelmingly backed it."
+    publishedDateTime: 2023-06-01T05:37:00Z
+    webUrl: "https://www.corowafreepress.com.au/national/young-australians-could-make-voice-referendum-a-success/"
+    type: article
+    provider:
+      name: corowafreepress
+      domain: corowafreepress.com.au
+    quality: 24
+    images:
+      - url: "https://imengine.public.prod.mmg.navigacloud.com?uuid=cfb4c592-f9cc-5811-8fbc-622940b7257d&function=original&type=preview"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Dreaming of a brighter future, Voice advocates call for Australia’s healing"
     excerpt: "Linda Burney has told an audience in Canberra the story of Australia is incomplete, starting with what the constitution does not acknowledge."
     publishedDateTime: 2023-05-31T00:21:00Z
@@ -107,6 +121,6 @@ related:
         height: 668
         isCached: true
 
-secured: "JSYt00UyCm7dxfCfy3FIyMlzP0ZyWDqtmBESuEWaeh2oBZoyHI7Qw5UO6i3k+5ZLsZdOya6KNPe+FkPG0vVdnyfx14lTZoka9IU0HmJDRLtKWqd2W8gOom3oF1xxVNSvkAHHY5VN5+a6yUWCYGneQENTllDVcnAWkTT4dkrDMMFjvr/G2a4PPqm8q2en21H3ZFKuj6eWF6fEDv775c5UyB31pnP6QrB7oGw7sg1OAL0ncn5hqmUSNLi7YIgRA+J2fdZKWc6re1Q70QXJs43UO9MzEQFJFuSFF88B8D2T6C6C83sryRVfZqFUrmVG1jo/je+ymFKZbULpXO0nKnddWtrg8HQaMX7VE+0BXBZDOr0=;8KxSq/iEm7WIDcGETRbhvQ=="
+secured: "G7vm2ApcSLZEgoQddxkjDxGiX8WZQRMwf09cZqHEzx6W4Un6/R0E96G2ZjV6PZ+ujdvFURx3ThwK9cHFNCNj8hzkv1QGp7XNDGrBSpl440NyYP/F/GVIUHAwjf3XX50x7ObAWwRjIwiJUfF3tKlR684xkf94afPairy/eFNsbp2xwKZGPB4ILzLENUsvA8spwtCCvXUbS40Ib+ag27mZJgoRZflr+CkywgpvmSGOTiIqWBUMXsdEmpkz44ImcAvfvmaPOvDEQ9Ad1ADkMejVUplCr28MDmmCnEmvDtBOB+4/FaOo1qRKSSEQQvsm+U1s3T6OY8pdr2dKkKwvcUB3cLnASlNS4PYZb0KwxxDnxDT7zLz/PYlS3JdygFCHy002QEyVOM16aSXMiRMaNyyD6o7R6XUUUgC23O/aNSX0kf/JadicLcsqVTghvW7YuRWbQSWCSOStoxn0y6Em02nap8cPFUxy/GaMa2h+hukycXpiETSf0kYTj6yrpissym7QSDUFYNjr12qhOYmfj8ewyA==;HlmvSY5t1M5CBcn1TSQc1Q=="
 ---
 

@@ -137,21 +137,21 @@ related:
         width: 976
         height: 549
         isCached: true
-  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-    excerpt: "Scientists and tech industry leaders, including high-level executives at Microsoft and Google, issued a new warning Tuesday about the perils that artificial intelligence poses to humankind."
-    publishedDateTime: 2023-05-30T13:28:00Z
-    webUrl: "https://www.wral.com/story/artificial-intelligence-threatens-extinction-experts-say-in-new-warning/20886276/"
-    ampWebUrl: "https://www.wral.com/amp/20886276/"
-    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20886276/"
+  - title: "Artificial Intelligence Raises Risk of Extinction, Experts Say in New Warning"
+    excerpt: "Scientists and tech industry leaders have issued a new warning about the perils that artificial intelligence poses to humankind."
+    publishedDateTime: 2023-05-30T13:24:00Z
+    webUrl: "https://www.nbcdfw.com/news/national-international/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/3267698/"
+    ampWebUrl: "https://www.nbcdfw.com/news/national-international/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/3267698/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/3267698/?amp=1"
     type: article
     provider:
-      name: WRAL
-      domain: wral.com
+      name: NBC DFW
+      domain: nbcdfw.com
     quality: 71
     images:
-      - url: "https://wwwcache.wral.com/asset/news/technology/2023/05/30/20886277/6475fa6fa5ee5-media_7dd689f31dad4f5ca5d5ab652dfdfdec-DMID1-5z2v6gjo8-640x480.jpg"
-        width: 640
-        height: 480
+      - url: "https://media.nbcdfw.com/2023/05/CHATGPT.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "AI Industry Leaders Sign Statement Warning of 'Extinction' Level Risks"
     excerpt: "The statement, signed by OpenAI CEO Sam Altman and DeepMind CEO Demis Hassabis, says mitigating the risks of AI should be a global priority."
@@ -312,20 +312,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-    excerpt: "Leading scientists and tech industry leaders are warning about the perils artificial intelligence poses to humankind, saying “mitigating the risk of extinction from AI should be a global priority.”"
-    publishedDateTime: 2023-05-31T07:49:00Z
-    webUrl: "https://kenoshanews.com/news/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/article_ca55b621-31b5-565b-a68e-a61d47a9d39a.html"
-    type: article
-    provider:
-      name: Kenosha News
-      domain: kenoshanews.com
-    quality: 51
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/kenoshanews.com/content/tncms/assets/v3/editorial/c/a5/ca55b621-31b5-565b-a68e-a61d47a9d39a/647669627cf8b.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Top AI CEOs, experts raise 'risk of extinction' from AI"
     excerpt: "AI pioneer Hinton earlier told Reuters that AI could pose a ... Technologycategory China, South Korea agree to strengthen talks on chip industry, Chinese commerce ministry says May 27, 2023 Technologycategory China urges Japan to halt export restrictions ..."
     publishedDateTime: 2023-05-30T13:10:00Z
@@ -335,6 +321,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
+    excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
+    publishedDateTime: 2023-05-31T12:32:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692579"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 49
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_54ea8aadc60d1503e5a65878219aad43_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "AI leaders warn the technology poses 'risk of extinction' like pandemics and nuclear war"
     excerpt: "\"Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war,\" said the one-sentence statement released by the San Francisco-based nonprofit Center for AI Safety."
     publishedDateTime: 2023-05-30T19:55:00Z
