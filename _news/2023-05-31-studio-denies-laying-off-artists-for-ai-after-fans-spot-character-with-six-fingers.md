@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Helper, Hindrance Or Hype: How Understanding AI’s Existing Impact Forecasts Its Future"
+    excerpt: "AI enhances various industries and aspects of our daily lives by empowering people to make informed judgment calls, analyze risk at scale and personalize consumer experiences. Right now, it’s neither a savior nor a death sentence."
+    publishedDateTime: 2023-06-01T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/01/helper-hindrance-or-hype-how-understanding-ais-existing-impact-forecasts-its-future/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 39
 
 secured: "5J9V97RXx9qTmuzfPSzgr2vHyAn2Pwi11/ozw+gQRPGe5ogY6p9wCvhHIdblfPGVUuQPImsuSHnx6UHmCFf3MeWpCNkJ4MqsmZ20dV8LhpS3LUdADmyIvF7z38Ztskyqa6ojUCuuA4YgLcKyxhMcXEYYZDcYyJlBpBqpFlrwe/V60l+d8fpyEACAUJQ9UwBTYb72Lvx85nYUL8diywGcA3+GXymNTX6lnDfZwn/ma+iXcFGBwmPuTXgcgma5HaoL2TigNwyudnTGWZPcxgUGDmBGNA3tphB6YiCfiKNMx1L3ugEk0Tcas/oB1r81tkfOjV7TOhIcfPIfvCI5j3q5zxzMs/Ccl0jkrYqDzqX9/8gsMyrPgXVExjptv5zuc0UW2lzSXaiKCoBe27N/ggKwkJxqr8E3O2/cRWGUG+uxj25eNPzf6c6M21iA5TTs5n4qM9kwH3VmYoOpH6eQlp+t8ch2KuXwkxFILHicSlvbXOm+Kvz5QiIa+Y9EUYgSUrCWQ7+Zmv/jLXSk/CeztUECPw==;ZKQ6ap+rg57m1vsIAQEqdg=="
 ---

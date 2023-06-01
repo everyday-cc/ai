@@ -368,6 +368,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 34
+  - title: "MediaTek, Nvidia partner for AI-based in-cabin solutions"
+    excerpt: "The smart cabin automotive offerings will run Nvidia Drive OS, Drive IX, Cuda and TensorRT software technologies. MediaTek will use its Dimensity Auto platform with Nvidia’s advanced driver assistance systems (ADAS) solutions to deliver all-around smarter in-vehicle experiences,"
+    publishedDateTime: 2023-06-01T13:05:00Z
+    webUrl: "https://electronics360.globalspec.com/article/19769/mediatek-nvidia-partner-for-ai-based-in-cabin-solutions"
+    type: article
+    provider:
+      name: electronics360.globalspec
+      domain: globalspec.com
+    quality: 19
   - title: "Nvidia's New AI Is Coming For Absolutely Every Gaming Job"
     excerpt: "AI is coming to games, whether you like it or not. Last night’s Nvidia keynote showed just how powerful—and devastating—that’s going to be. The company’s CEO, Jensen Huang, showed off how its freshly announced “Omniverse Avatar Cloud Engine” (ACE) can create real-time interactive AI NPCs,"
     publishedDateTime: 2023-05-29T12:30:00Z

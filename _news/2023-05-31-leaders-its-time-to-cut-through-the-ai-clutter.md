@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/05/31/leaders-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/05/31/leaders-its-time-to-cut-through-the-ai-clutter/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Executives explore the cutting edge of AI at the Transform 2023 Leadership Summit"
+    excerpt: "Transform's Leadership Summit offers off-the-record space for leaders to dive into the ways AI is disrupting the technology landscape."
+    publishedDateTime: 2023-06-01T14:30:00Z
+    webUrl: "https://venturebeat.com/ai/executives-explore-the-cutting-edge-of-ai-at-the-transform-2023-leadership-summit/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/i-M2dNmWS-X2.jpg?w=1200&strip=all"
+        width: 1200
+        height: 663
+        isCached: true
 
 secured: "nA+7XW7DWf/J4YQL3ZPZ/77UFHWluvgAJ4hYjOBqUCqVyBBhQqENTRI31JpgLeOHgBC6bmcE0FfsKq/Y/VQ4UgrzFu0Qtorc3VRqlZuS0ud7/KzJkTcCRu5CoaKmsto4WghB/WXgceGfpXSeH4RVPVa/d8VvFlCtNdxa2OrBNmjoYkypYChqAs1xWn6zlEzx09DX/zRBP2nBG7B38wszxLCxmNANXWO3ulC9QutXZpwLUQBdECTjwxhHUptneCp+Pq6FaKoUc5n67EjKM28U10MVj6kfWDc1rUQdKcHqf/3xr5SFybVmlmaSOMSuHGVIYax6E4jss8t3xrQMAnWthG9PwgCpW5QsgLHLqqa6pM8FCUtRxlrEaSmWQJrHwjbmx2appxuMXhtwWDkxIEk7WExba8+eWMF6c4LH+MReiPPMScKSI/srVX7jneiwHYcclGj3jmqMr+JsENQT07NMi7b5o1c9AsSkcxl6xyvrYMHsKtoaNy78T7DxTyZEacUdOYaax988LomuBQpcCtazjw==;s0AqS+6kf1U8bjSSt2p9kQ=="
 ---

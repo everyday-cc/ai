@@ -55,6 +55,20 @@ related:
         width: 942
         height: 600
         isCached: true
+  - title: "Exploring the Capabilities of Smaller, Open-source Large Language Models"
+    excerpt: "Our AI experts share their key takeaways from exploring the capabilities of open-source language models, which tend are to be much smaller than larger, proprietary models like ChatGPT."
+    publishedDateTime: 2023-06-01T15:30:00Z
+    webUrl: "https://www.wwt.com/article/exploring-the-capabilities-of-smaller-open-source-large-language-models"
+    type: article
+    provider:
+      name: WWT
+      domain: wwt.com
+    quality: 23
+    images:
+      - url: "https://www.wwt.com/api/attachments/6478b46272b1d2f00dead0b5/thumbnail?width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "zYOtlDA77tjjt+oTZw2OFqqSJCAVqAou6TYzPP8cZOt9tl9N4V/v7ALkgCDDXvyEGKRXwGS3BqdNKhn6O16d79BwK5qOQyKekAkHea4w4OFe1akocRnvFQQm0PqzVrj78CCnrg5A0E3THV4p6LXktpl9kakieAFtN6oTBXjsRMl3ZET19MNK5R2e4pPE9985H27LRDOlPbXfptKL4Ac/GCfP6wmg4X6pnfBSsnc09Wza+ZYrfuLrOsLGjcdUWwsr0Zx+5wDc/nfapOKgdaRRXlE4p8/W6q+IWhjJ233jAch9lrrmcxmOo3oH2sxPHrbRql0MC1t5Yx0X5Gtq6/66rALfVVJMR2wW2eWE6ngVumA=;hMkZmNU176VxWCo4xRX5sQ=="
 ---

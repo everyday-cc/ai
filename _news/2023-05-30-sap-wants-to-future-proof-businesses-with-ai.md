@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/05/30/sap-wants-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/30/sap-wants-to-future-proof-businesses-with-ai/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Automation Anywhere collaborates with AWS to empower enterprise processes with generative AI"
+    excerpt: "Automation Anywhere will utilize Amazon SageMaker JumpStart and Bedrock to provide enhanced generative AI capabilities."
+    publishedDateTime: 2023-06-01T15:08:00Z
+    webUrl: "https://venturebeat.com/ai/automation-anywhere-collaborates-aws-empower-enterprise-processes-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 73
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/AIAAI-VentureBeat-2023-Banner-Ads-1200x675-05312023.png?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "14 Benefits And Drawbacks Of Using AI Tools To Write Business Content"
     excerpt: "By learning and weighing the pros and cons, businesses can make informed decisions about integrating AI into their content creation processes."
     publishedDateTime: 2023-05-30T17:15:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/01/artificial-intelli
 ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/01/artificial-intelligence-series-1-of-5-past-present-and-future/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/01/artificial-intelligence-series-1-of-5-past-present-and-future/amp/"
 type: article
-quality: 91
-heat: 91
+quality: 93
+heat: 93
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI in Healthcare
   - AI
   - Machine Learning
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6477eba34d097636f07fb058/0x0.jpg?format=jpg&width=1200"

@@ -33,6 +33,15 @@ related:
         width: 610
         height: 349
         isCached: true
+  - title: "CrowdStrike to accelerate development of AI in cyber-security with AWS"
+    excerpt: "These include both cyber-security-related generative AI applications, as well as cloud-plus-cloud security solutions."
+    publishedDateTime: 2023-06-01T13:07:00Z
+    webUrl: "https://www.voicendata.com/crowdstrike-to-accelerate-development-of-ai-in-cyber-security-with-aws/"
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 51
   - title: "CrowdStrike debuts generative AI cybersecurity chatbot and new AWS integrations"
     excerpt: "CrowdStrike Holdings Inc. is rolling out new capabilities that will help companies more effectively respond to breach attempts. The first set of features, a collection of integrations for Amazon Web Services Inc."
     publishedDateTime: 2023-05-31T21:19:00Z
@@ -77,17 +86,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Insider Q&A: Artificial intelligence and cybersecurity in military tech"
-    excerpt: "Lospinoso recently told a Senate Armed Services subcommittee how artificial intelligence can help protect military operations. The CEO/programmer discussed the subject with The Associated Press as well how software vulnerabilities in weapons systems are a major threat to the U."
-    publishedDateTime: 2023-05-29T12:10:00Z
-    webUrl: "https://www.seattletimes.com/business/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/"
-    ampWebUrl: "https://www.seattletimes.com/business/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
   - title: "Generative Artificial Intelligence Tool May Support Drug Development"
     excerpt: "Researchers at Ohio State University have developed a generative AI framework that may help accelerate drug design and development."
     publishedDateTime: 2023-05-31T18:02:00Z
@@ -97,6 +95,15 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 19
+  - title: "Insider Q&A: Artificial intelligence and cybersecurity in military tech"
+    excerpt: "Josh Lospinoso’s first cybersecurity startup was acquired in 2017 by Raytheon/Forcepoint.. His second, Shift5, works with the U.S. military, rail operators and airlines including JetBlue. A 2009 West Point grad and Rhodes Scholar,"
+    publishedDateTime: 2023-05-29T16:11:00Z
+    webUrl: "https://www.chron.com/business/article/insider-q-a-artificial-intelligence-and-18124215.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 17
 
 secured: "ImIhhfTGW/sTmyCGOiTplgogBSLaSwlzn8ohKEHfLGawZRIWcwDJOApDZMxS0gd6fTYD8lbfNIR/o1rafSXhfqCv3rvDrMINswrZg3EpH5m1xlgsFZplvLCyzI1wGB7ABgxm1DlwrTzB6xi+UWLmIJSH03IR2I4ccbwRhLag0EXTeak8ULn3NmTxhndQZlWc3ZFhMiozpES103MFGNOEo/AaNLV6kCTyDKEzfO3H5YRNIyp2lw7vS2JaK0zae23RlpdVLRm7ik5TrM6j1xuIzlbMDeCPcEe2YG6oWz2321Iy5oaPtn75GGb8a013w3t11dhJu1apH06WckKlJHwdUQfCJXgz6fta4SEO3KXAvA4=;/ZdDtwrhxzFBxQBKKMWpCA=="
 ---

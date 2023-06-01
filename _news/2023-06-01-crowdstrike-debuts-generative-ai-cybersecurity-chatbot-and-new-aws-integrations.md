@@ -39,6 +39,15 @@ related:
         width: 610
         height: 349
         isCached: true
+  - title: "CrowdStrike to accelerate development of AI in cyber-security with AWS"
+    excerpt: "These include both cyber-security-related generative AI applications, as well as cloud-plus-cloud security solutions."
+    publishedDateTime: 2023-06-01T13:07:00Z
+    webUrl: "https://www.voicendata.com/crowdstrike-to-accelerate-development-of-ai-in-cyber-security-with-aws/"
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 51
   - title: "Michael Saylor on how Bitcoin and artificial intelligence together can combat cybersecurity"
     excerpt: "In a recent interview with Kitco News, Michael Saylor, executive chairman, MicroStrategy, mentioned that Bitcoin might help in cybersecurity if collaborated with artificial intelligence, such as deepfake, stated Cointelegraph."
     publishedDateTime: 2023-05-29T05:39:00Z
@@ -69,17 +78,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Insider Q&A: Artificial intelligence and cybersecurity in military tech"
-    excerpt: "Lospinoso recently told a Senate Armed Services subcommittee how artificial intelligence can help protect military operations. The CEO/programmer discussed the subject with The Associated Press as well how software vulnerabilities in weapons systems are a major threat to the U."
-    publishedDateTime: 2023-05-29T12:10:00Z
-    webUrl: "https://www.seattletimes.com/business/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/"
-    ampWebUrl: "https://www.seattletimes.com/business/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
   - title: "CrowdStrike to Accelerate Development of AI in Cybersecurity with AWS"
     excerpt: "CrowdStrike is leveraging new generative AI capabilities of Amazon Bedrock, a fully managed service that makes foundation models (FMs) from leading AI startups and Amazon available via an API, to help customers adopt advanced Falcon Platform search,"
     publishedDateTime: 2023-05-31T13:36:00Z
@@ -98,6 +96,15 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 19
+  - title: "Insider Q&A: Artificial intelligence and cybersecurity in military tech"
+    excerpt: "Josh Lospinoso’s first cybersecurity startup was acquired in 2017 by Raytheon/Forcepoint.. His second, Shift5, works with the U.S. military, rail operators and airlines including JetBlue. A 2009 West Point grad and Rhodes Scholar,"
+    publishedDateTime: 2023-05-29T16:11:00Z
+    webUrl: "https://www.chron.com/business/article/insider-q-a-artificial-intelligence-and-18124215.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 17
 
 secured: "Ymxe8diA6q0l7GcLmfRuYr4BeR87HxMgPFR4BUpoF5gjlC0BtKmHPPbTSp12hWhn3Cc/k+hJJBHnd+LXfDy8yc9ANOk0GsrfvISnS8H0mWGc8Q4VQvPkU55mVwln7RqAo3qQCGtQAQthdeT9kghEQZpCRmiQPCkZB5CMKWuYBx7awkpcjbA4TOsg6PVSSpoUj6SalAhTYSZ7cL/1XgOkvu4vlrlfryazzVFql1w1zyWSg309d6ghunSgaMBD9QnSaE46jGkVnLSNme0SMzNFM2EzdXFJEatKsYga4MiNH72yVNfYwm9vB4tVUQT85TYGqKF0+TxboXDB7nVkT+d899B8Cc75AQnnsLFmr1Skg4gXmdba6EPZZku2acjFTDpxE72p0CpcKCck0YEMUiV3I66IZf5lMiiXeDNAOLsL2Z26/76LJCUrizAbzNnaRg8z1mQz02uSHDYeoh0BrbnmocEk+oaijzkrM4IEQ9ELucEtj85uajlAf9reKbg2KnMdUrijmvRnR/U18/WbtWxn3g==;QZWTSnElW7cpMHfA+mllQA=="
 ---

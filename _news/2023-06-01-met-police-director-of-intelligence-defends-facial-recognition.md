@@ -1,0 +1,76 @@
+---
+category: news
+title: "Met Police director of intelligence defends facial recognition"
+excerpt: "The Met Police’s director of intelligence has appeared before MPs to make the case for its continuing use of facial recognition technology, following announcements from the force and the Home Office t"
+publishedDateTime: 2023-06-01T09:00:00Z
+originalUrl: "https://www.computerweekly.com/news/366538871/Met-Police-director-of-intelligence-defends-facial-recognition"
+webUrl: "https://www.computerweekly.com/news/366538871/Met-Police-director-of-intelligence-defends-facial-recognition"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: Computer Weekly
+  domain: computerweekly.com
+
+topics:
+  - Computer Vision
+  - AI
+
+related:
+  - title: "As use of facial recognition tech grows, so do security concerns"
+    excerpt: "Experts fear the billion-dollar industry's potential for mass surveillance and its lack of safeguards to protect millions of images of real people's faces from theft or alteration."
+    publishedDateTime: 2023-05-31T19:06:00Z
+    webUrl: "https://www.startribune.com/as-use-of-facial-recognition-technology-grows-so-do-security-concerns/600279118/"
+    type: article
+    provider:
+      name: Star Tribune
+      domain: startribune.com
+    quality: 56
+    images:
+      - url: "https://chorus.stimg.co/24691350/merlin_70921675.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Greens voice concerns over facial recognition technology"
+    excerpt: "A Green Party TD has said it is important to make a distinction between bodycams and facial recognition technology."
+    publishedDateTime: 2023-06-01T08:06:00Z
+    webUrl: "https://www.rte.ie/news/ireland/2023/0601/1386841-facial-recognition-technology/"
+    type: article
+    provider:
+      name: RTE Online
+      domain: www.rte.ie
+    quality: 41
+    images:
+      - url: "https://img.rasset.ie/00132672-1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "GSOC chief warns that body cams and facial recognition tech will be open to abuse"
+    excerpt: "GSOC boss Hugh Hume said that the watchdog will need significant investment if it is to keep track of misconduct related to abuse of new technologies."
+    publishedDateTime: 2023-06-01T15:54:00Z
+    webUrl: "https://www.thejournal.ie/gsoc-ireland-6083158-Jun2023/"
+    type: article
+    provider:
+      name: TheJournal.ie
+      domain: thejournal.ie
+    quality: 34
+    images:
+      - url: "https://img2.thejournal.ie/article/6083158/river/?height=400&version=6083316"
+        width: 613
+        height: 400
+        isCached: true
+  - title: "Green Party won't back use of facial recognition technology by gardaí"
+    excerpt: "The Green Party will not back a renewed call from Minister for Justice Simon Harris to support legislation which would pave the way for gardaí to use facial recognition technology."
+    publishedDateTime: 2023-05-31T16:47:00Z
+    webUrl: "https://www.rte.ie/news/2023/0531/1386728-bodycams-green-party/"
+    type: article
+    provider:
+      name: RTE Online
+      domain: www.rte.ie
+    quality: 19
+
+secured: "SztOe5mZJ4wjuYns5UO/uDvW+VVXZM5kp64OF7gk0ZGH1CNEEEHBXUqfKQKGI97zASuh7BVq+bk9KRGaSlKnkqNDcWD7MnNe4BB6awvtMiE/GOsz/wEVuW5V4sZAAvEP/GjxkVUKNlq8rlG7ZdnV1qG8b4XMO8pNW1e4r9jpI2tIqKGg50IAdo7PTlZy0bRuqX16xI2Gp7GiFYvpi0xJUxJQ2ymdrnAEsEWe3Ry3M4S5s5ayixXxrFxJT8iasSc2+m7DP1G/No3GhCuQQnT6NJYxtoZjUfeEYgnh0ftY7742ENgfPN6qTfiKot5ZAA5MXVNsOec5GPIG/KXmzrdisctEQWpjut2loxfuVoZAk4KOBIGkOB6GtH8Amm1FWOYyZp/Ztx8FZp3S/4hD5K0IbHKP3RQ8fLb8j7l8/zgwWEOzkoc90MrPOSyMyd+a3GsOKSzoLVMyahIs2jHn/3FOBXnuZOd8Oz6h8QTZfqb5ItHRB4e+qPoyrGrj8fZL+gyyVn0Dskgjp9MC+KMZdI5cuA==;XMsvfnk4jiXNdJMDGcGo9A=="
+---
+

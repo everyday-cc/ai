@@ -7,7 +7,7 @@ originalUrl: "https://slator.com/microsoft-amazon-announce-similar-machine-trans
 webUrl: "https://slator.com/microsoft-amazon-announce-similar-machine-translation-features-day-apart/"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -20,15 +20,6 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "AI Battle Heats Up: Microsoft to Take on Apple Head-on"
-    excerpt: "With Microsoft's new partnerships, the pillars of the PC ecosystem have teamed up to challenge Apple’s dominance in the AI ecosystem."
-    publishedDateTime: 2023-05-29T12:03:00Z
-    webUrl: "https://analyticsindiamag.com/ai-battle-heats-up-microsoft-to-take-on-apple-head-on/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 36
   - title: "Localization Professionals Mourn the Demise of Microsoft’s Language Portal"
     excerpt: "Readers chime in on OpenAI’s GPT trademark, language companies’ ownership of language tools, and integrating large language models."
     publishedDateTime: 2023-06-01T08:30:00Z

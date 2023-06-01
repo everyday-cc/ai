@@ -15,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://static.bangkokpost.com/media/content/20230511/c1_4752167_700.jpg"
-    width: 700
-    height: 466
-    isCached: true
-
-secured: "2KCGRIUbVLwaL8BszcxAKDKTACYbpxMLqjeP5mH3Lbcwvo5Dw094HxFqcAZ1XwLMy2yuW8cXbtQO6hdzB34riwmuLnCgVe0RlahhAwJcLxhoXYTrfkfWkr2GFPmqkk08N1hHG87giceM6+boIEw/9o5+8iyvQ1rlcVBeyogaI73/1RjEnrGhrvMdVmqmoNIuF+dUWNeFYKSO9jsHJgnuynaGpdPcvJfMeVDARP5zfQj9Xwxg4CIWbTR4i8soG8sKAoFpceS2SsRc8KqyGaR7FfDXdOyt5nJ9YN9Nv7yqY8zh+qH+HfZHYwoI/Q5zsdKD/IdUKf3ssfqaO9zMyYHpoVlKJbGdZLFdkBA5REi9PpI=;OmA/iLmGBTaehSOTznO7Uw=="
+secured: "cASdv/5/AfqAAXWmMFfU+1OFyY4MBJPU7gG+zLhiWNh+9IYvh1q2cl/ly71iZ2Z4KefOK09GrJeNdX9LLVar8SzsaG7wJdvLKfCJIYVRD8CIG5y59UCYgwUG3d8732CKXTG3ql/sCocedXKZCPJBfb5/PDft/7voujIaJX0JiBWSkO+xw3sRU7RfN0lHQ6B4Rf13Oo8O3VY5KufF1eyURav9u6VCabJG7dIkls057C5ea7LpMwh5tZ7ff0dYCFzOyVCvEC5dCdSyhn/lN5YfVocj9ir8HFsWEUbKAKB5FNFCRcDVpGCb2qN81tUhdSj9rhRRncMgnxCgBLNEktJlk1eQe96KRXLXxxYdB7IzUZ8=;l4gbBz1HM8JkcR8b6MmB4A=="
 ---
 

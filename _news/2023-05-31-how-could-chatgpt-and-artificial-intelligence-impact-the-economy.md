@@ -171,6 +171,15 @@ related:
       name: HUB
       domain: jhu.edu
     quality: 21
+  - title: "Auto-GPT an autonomous ChatGPT AI assistant"
+    excerpt: "What is AutoGPT? Its a new automation system that harnesses the power of ChatGPT and is capable of managing projects without user input."
+    publishedDateTime: 2023-06-01T13:27:00Z
+    webUrl: "https://www.geeky-gadgets.com/auto-gpt-an-autonomous-chatgpt-ai-assistant/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
   - title: "Albany software company launches AI content platform to compete with ChatGPT"
     excerpt: "An Albany-based software company has launched an artificial intelligence product that intends to compete with the likes of ChatGPT."
     publishedDateTime: 2023-05-30T21:18:00Z

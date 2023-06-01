@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Insider Q&A: Artificial intelligence and cybersecurity in military tech"
-excerpt: "Lospinoso recently told a Senate Armed Services subcommittee how artificial intelligence can help protect military operations. The CEO/programmer discussed the subject with The Associated Press as well how software vulnerabilities in weapons systems are a major threat to the U."
-publishedDateTime: 2023-05-29T12:10:00Z
-originalUrl: "https://www.seattletimes.com/business/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/"
-webUrl: "https://www.seattletimes.com/business/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/"
-ampWebUrl: "https://www.seattletimes.com/business/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/?amp=1"
+excerpt: "Josh Lospinoso’s first cybersecurity startup was acquired in 2017 by Raytheon/Forcepoint.. His second, Shift5, works with the U.S. military, rail operators and airlines including JetBlue. A 2009 West Point grad and Rhodes Scholar,"
+publishedDateTime: 2023-05-29T16:11:00Z
+originalUrl: "https://www.chron.com/business/article/insider-q-a-artificial-intelligence-and-18124215.php"
+webUrl: "https://www.chron.com/business/article/insider-q-a-artificial-intelligence-and-18124215.php"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
@@ -34,6 +32,15 @@ related:
         width: 610
         height: 349
         isCached: true
+  - title: "CrowdStrike to accelerate development of AI in cyber-security with AWS"
+    excerpt: "These include both cyber-security-related generative AI applications, as well as cloud-plus-cloud security solutions."
+    publishedDateTime: 2023-06-01T13:07:00Z
+    webUrl: "https://www.voicendata.com/crowdstrike-to-accelerate-development-of-ai-in-cyber-security-with-aws/"
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 51
   - title: "CrowdStrike debuts generative AI cybersecurity chatbot and new AWS integrations"
     excerpt: "CrowdStrike Holdings Inc. is rolling out new capabilities that will help companies more effectively respond to breach attempts. The first set of features, a collection of integrations for Amazon Web Services Inc."
     publishedDateTime: 2023-05-31T21:19:00Z
@@ -97,6 +104,6 @@ related:
       domain: healthitanalytics.com
     quality: 19
 
-secured: "MajF7+1NxMKtOz7Y5Ghhk+6C3EdNhmDAbfYniF95T+w08Vuxbh5KT/GVIblhwZlzKetxFLJxHbAKgqAtzcTAn5TIf6BtGhVlqG050NnzMtKsSjyBSIMbN65idwH+N36THsAu9t7A1FmFWldSMTHQE/kxsiQqmT89Z8eB8jtKyMCKsq2toAibWZ8+/Ws2JpQtNqvYqkDzHXGxNWhm06ih2EscR5tuHQJaX5waXApHKQtgZcerVBXEBJ/cYNCS2e51rYtY2BfQAZvV0cWu6t90gMznyEGmMZMDmTJ1jvXJjazylfVApelIki7jt3LiK96ZfmYpdhe8L7Wzge3hi5uclVuUtQ+AIdp39QRSp8/Hl0gLv8FG4fGbxCubiY+B0LujEv9FKywRuuQPt+6QvD0wXxoHfnrBc1yiWcEPwgAe68tIz8QBMtxeS5u74eTtM9idvY1uhmeZAXjGk2/HvtgtEfa4DVTujjiS5u3gVKe0cjSrz/ZRNEpyYHo01i+2KTbJLyYsuMC4Jcz96rHgH99emA==;Bf+1NcKPoTQ2YUo6AERU5w=="
+secured: "e0zy7RJlTNfFs8DpvELREBh1NFiw6Z7HMPyuUL64JlzqVPb+Gm6ruZ7QK+VKJrPgqYNjMfZqTH/OOnfOtCjIJGJ9l6iMik4MFANdXtItHWA6b2G9xKPeulc8Q28C/ozRpoOI/62PDQZwCf7v92IoCW37XyuhjmggblteQh08dKBGZwLc+EUjSWzCkaCJ1I/1mBf7fhJ2HfHQDz7YYdGGxWEgjrYNppXgrvPm+Sg6yNwILTd0LAS6MFm9QsXurkqafxl8AZAZYPk4gfw+eJ/FnX7xGSSw6aje9+N6DW9QWB+GB/TotWixgDZ34vBoXmWTM3m3nset/6VbN9+zlqhSjp2QckFfcjp0Gni9zsBPKjBdyhzbBwjzp6bxJ6AL74CFtSny8bOwzrHGa/r9+HhSYdR09S4fyPmCo36c6h+CnzSFin7FyW6PaaSqQDpkD9WyqLcH2fmKd6Qn8/rOxUPORGdm2/sKHwZcYV0Pi+yTlgdI0DatnSpQHdCCJOAi/mZVh8i77O3z62sQOIojriJuCA==;k6kaUcwFWqhfl0HzR4A+LQ=="
 ---
 

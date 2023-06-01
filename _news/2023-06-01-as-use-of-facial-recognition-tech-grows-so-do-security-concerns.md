@@ -7,7 +7,7 @@ originalUrl: "https://www.startribune.com/as-use-of-facial-recognition-technolog
 webUrl: "https://www.startribune.com/as-use-of-facial-recognition-technology-grows-so-do-security-concerns/600279118/"
 type: article
 quality: 56
-heat: 76
+heat: 96
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "GSOC chief warns that body cams and facial recognition tech will be open to abuse"
+    excerpt: "GSOC boss Hugh Hume said that the watchdog will need significant investment if it is to keep track of misconduct related to abuse of new technologies."
+    publishedDateTime: 2023-06-01T15:54:00Z
+    webUrl: "https://www.thejournal.ie/gsoc-ireland-6083158-Jun2023/"
+    type: article
+    provider:
+      name: TheJournal.ie
+      domain: thejournal.ie
+    quality: 34
+    images:
+      - url: "https://img2.thejournal.ie/article/6083158/river/?height=400&version=6083316"
+        width: 613
+        height: 400
+        isCached: true
   - title: "Green Party won't back use of facial recognition technology by gardaí"
     excerpt: "The Green Party will not back a renewed call from Minister for Justice Simon Harris to support legislation which would pave the way for gardaí to use facial recognition technology."
     publishedDateTime: 2023-05-31T16:47:00Z
@@ -48,6 +62,15 @@ related:
     provider:
       name: RTE Online
       domain: www.rte.ie
+    quality: 19
+  - title: "Met Police director of intelligence defends facial recognition"
+    excerpt: "The Met Police’s director of intelligence has appeared before MPs to make the case for its continuing use of facial recognition technology, following announcements from the force and the Home Office t"
+    publishedDateTime: 2023-06-01T09:00:00Z
+    webUrl: "https://www.computerweekly.com/news/366538871/Met-Police-director-of-intelligence-defends-facial-recognition"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
     quality: 19
 
 secured: "6+rLZp8HuEB2nSpQ3piEpus5osAU+A8LVbQMcYTrm7YNTuYYP/WuVtSUSM28pQCnwad+feyybN9f3f7XH8TXODQRxKJyYIu9FVncHqkHlGydhtIH5LS5lVxoPviIX49jBDkxLOMMFOlf2/7OIIeZ5MD/h1wo7KNIAIUvnI2urqFAUqhFLI6d82dINKsy/wx03kRuILlP2kqsRF5ZcoV7zf5gyBnYY2PtUo7BvzLIrTfBabMqRsUJQpCOZmSDIhCkMGbItDAg8UOwPB2ieMH3GOHRZVtm16nMwMoE0qJyHt/hg+9Ue/jFM3wYl6fa06ynq+74t7z9rfwvCIH/uwYAR+OKT90REAOPGVlwi/ZG1Bk=;+C1vugnbVVqQG9VfRetdXQ=="

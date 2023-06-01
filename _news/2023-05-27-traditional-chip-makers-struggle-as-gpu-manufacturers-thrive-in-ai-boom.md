@@ -1,16 +1,13 @@
 ---
 category: news
 title: "Traditional Chip Makers Struggle as GPU Manufacturers Thrive in AI Boom"
-excerpt: "Intel's struggles raise concerns about competitiveness in AI space, while GPU manufacturers like Nvidia and Marvell reap rewards amid stock declines."
-publishedDateTime: 2023-05-27T04:54:00Z
+excerpt: "Intel’s struggles raise concerns about competitiveness in AI space, while GPU manufacturers like Nvidia and Marvell reap rewards amid stock declines. The surging demand for AI has brought the ..."
+publishedDateTime: 2023-05-27T16:26:00Z
 originalUrl: "https://www.fxempire.com/news/article/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom-1349749"
 webUrl: "https://www.fxempire.com/news/article/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom-1349749"
 ampWebUrl: "https://amp.fxempire.com/en/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom/1349749"
 cdnAmpWebUrl: "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom/1349749"
 type: article
-quality: 69
-heat: 69
-published: false
 
 provider:
   name: FXEmpire.com
@@ -20,6 +17,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "g6hke6TJYFJI1Ae/AHoxrzcSpQ0sVEbS/6tQu4GW8f7yKz8kH1ywkUcpHaYUzQUqcmBJ34uQQBb4wSuysMwcvUspNgngovBqQB3fcOFB/hAIdgm1Yp/tVx2ZkPMT+pHF2pqjhsHCqJBE3jH3gDBhX9R7pQ0ePeArZxYjBTI0zqFAy8Ho2hEcoWNVXJxnsFlpKPHLCIe+zLq4pJI2WCb2RAbORkuuheADRHK+AOwrf7JzRqZAiVwgM+wAysHSKf2u4Sb/CzDxbevEr2UAyxbWeCTH7/YaigvoEx6/thTQ1CBoENxTqfX05tbrvfookxCEBOrHTP045JXOya6zGqI6XZmN9ldXbHZ/3FvxM7igLe5wjLdiYQYSey3tz5oj+OTNyy/PyptbqrJAaXyL/XTIji+NHq/ZUWCDJB6hFFIjTtwvZB5KWDb7dL6g7k84rEfn0268hXCJJfmHuE17pyZjME4yO37MhNKnowhRC1EhGZDLXvt9ilz+IzAOk1Wj/PO9gHF2h4ynKJsqzKrh1yFlBw==;ole+KGHjTbDnFdCMrrP4mQ=="
+secured: "VovzbU7zrMnErGqhPn+pT/r/10rzcIysbtNaStkGGb4WKGZKDWhYW/7pJFIghn+z1fdAdLWCiWBcsnjpTUtuPpdUR4YNksWpd5f/SSYhmMLykMeJGW+0wNcakgxtH5ih15j1IcNjHSUhVRXwfjX7CM3aHFBtclbMx9MIOosjwGVZLYVYBODSRnWljumJYmWlCJw1+5H5AM1QBD7fDMk3RD99fZ+XADRuXA/fXCWO9p0zScLiNj8ovsEEcG6OseqC0MJsnHfIfVtSL+/C8G8tOnp0KDiC8lnB4wYf76AN+9GFMSVPuI8hT5GBjNklVGkKkUJc23F/sKCZzQKDP6UcVvNuSaZ4A/359POHDjnBaqA=;FpJenbWemB7knvRMVDtjpg=="
 ---
 

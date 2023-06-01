@@ -20,15 +20,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "AI Battle Heats Up: Microsoft to Take on Apple Head-on"
-    excerpt: "With Microsoft's new partnerships, the pillars of the PC ecosystem have teamed up to challenge Apple’s dominance in the AI ecosystem."
-    publishedDateTime: 2023-05-29T12:03:00Z
-    webUrl: "https://analyticsindiamag.com/ai-battle-heats-up-microsoft-to-take-on-apple-head-on/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 36
   - title: "Microsoft and Amazon Announce Similar New Machine Translation Features a Day Apart"
     excerpt: "Microsoft and Amazon announce similar new machine translation features within a day of each other, both intended for enterprise users."
     publishedDateTime: 2023-05-30T08:15:00Z

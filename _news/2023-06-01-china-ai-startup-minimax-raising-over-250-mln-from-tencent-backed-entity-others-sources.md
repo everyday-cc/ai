@@ -1,27 +1,25 @@
 ---
 category: news
 title: "China AI startup MiniMax raising over $250 mln from Tencent-backed entity, others - sources"
-excerpt: "Minimax: The deal comes amid a global AI buzz kicked off by ChatGPT that has spread to China, shoring up stocks in artificial intelligence firms and prompting a flurry of domestic companies, such as Alibaba,"
-publishedDateTime: 2023-06-01T09:29:00Z
-originalUrl: "https://telecom.economictimes.indiatimes.com/news/internet/china-ai-startup-minimax-raising-over-250-mln-from-tencent-backed-entity-others-sources/100674627"
-webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/china-ai-startup-minimax-raising-over-250-mln-from-tencent-backed-entity-others-sources/100674627"
+excerpt: "Chinese startup MiniMax, working on AI solutions similar to that of Microsoft-backed OpenAI's ChatGPT, is close to completing a fundraising of more than $250 million that will value it at about $1.2 billion,"
+publishedDateTime: 2023-06-01T03:46:00Z
+originalUrl: "https://www.reuters.com/technology/china-ai-startup-minimax-raising-over-250-mln-tencent-backed-entity-others-2023-06-01/"
+webUrl: "https://www.reuters.com/technology/china-ai-startup-minimax-raising-over-250-mln-tencent-backed-entity-others-2023-06-01/"
 type: article
-quality: 27
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: telecom.economictimes.indiatimes
-  domain: indiatimes.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-100674627,imgsize-481568,width-1200,height=765,overlay-ettelecom/internet/china-ai-startup-minimax-raising-over-250-mln-from-tencent-backed-entity-others-sources.jpg"
-    width: 1200
-    height: 765
-    isCached: true
 
 related:
   - title: "China AI startup MiniMax raising over $250 million from Tencent-backed entity, others: Report"
@@ -78,6 +76,6 @@ related:
         height: 676
         isCached: true
 
-secured: "v9oyMelI8vDDp1idvcuA8ZQ/3+q47VV7LbcwS5DRDuRQO9Syeklbi3G78S0ZouRokEhHlC2vhwRE1ZJK7ZTIeAM2Xi+Ms6vQvTw9dx8UczEMSFJ5RgCpo2+FM/rW6oy8+R7TD+gmipNPW8YjCmQckcnBiN4ErWwbPMPhnO5PY9jaYNETjO9Txa5tCmOU5uh0VfD+sipwx2LmTgRbBEJ+SX3mCdvcXkG6bUaWInpajCP/NMBjgjUdviHtu2c8VN+w7ZPfavXRfXksqpUInkk+O7HaHZlKC8RqjI6L7/361wrcB8xbF1QCMisUs/uksm3593LxeFIgvvMnF/7+MbnVS8gWUcNuV7pNNOqj3X8/3D8=;XHKC9fJmm32emMj0OicP7Q=="
+secured: "mCd/qiZNcYmMFpGVrBtrvx4kBxHhAFFEy9JAco+GxzVs56QCMFeeabeidZv1IUwVpsvPg8z37RZ4qJScTVM/I52m37+aOV0fXx8BWrEj4Gz4hIt5STst59k6AraAK5hNCHI90PQIAA7JQ/XaWqObnfx/aGRBjhEtMS4yJoTzolz5nU4ah26Ox7WgN33IqK4EtsLlTtFiPGAR9FjshGSsmPKLUOPHR2qY8Nrh/b6Bmx6TdEKE6q0apZyJtaAUIhPIMSEwrq4JG6dYKTwBRhce8M2I3/Qvg1YVV/h8kSqzKb8+lkH2AeQ8XbnC7JLzRMlO9X8o2OzbyFko8Vp/MehhQpBYu92mNzq8/dFAdvz9LUU=;BZexjWLrghuvpwU50qykPA=="
 ---
 

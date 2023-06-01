@@ -7,7 +7,7 @@ originalUrl: "https://www.stltoday.com/news/regulators-take-aim-at-ai-to-protect
 webUrl: "https://www.stltoday.com/news/regulators-take-aim-at-ai-to-protect-consumers-and-workers/article_b81b2baf-52a2-56db-8d5e-2fe78b89b54f.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,38 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "What AI Can’t Do And What Great Leaders Will Do"
+    excerpt: "As AI masters language, it will more easily fool us; reconnecting with the bodily resonance of language helps leaders put AI in service of life."
+    publishedDateTime: 2023-06-01T14:39:00Z
+    webUrl: "https://www.forbes.com/sites/ginnywhitelaw/2023/06/01/what-ai-cant-do-and-what-great-leaders-will-do/"
+    ampWebUrl: "https://www.forbes.com/sites/ginnywhitelaw/2023/06/01/what-ai-cant-do-and-what-great-leaders-will-do/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ginnywhitelaw/2023/06/01/what-ai-cant-do-and-what-great-leaders-will-do/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6478ab86174558bfeb7b69d9/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "Workers Are Terrified About AI. What Can They Do About It?"
+    excerpt: "The Writers Guild of America has its work cut out in the latest struggle against the perennial problem of automation."
+    publishedDateTime: 2023-05-28T07:06:00Z
+    webUrl: "https://www.thedailybeast.com/workers-are-terrified-about-ai-so-what-can-they-do-about-it"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1685122034/230526-dangers-ai-hero-final_tamrkn"
+        width: 1480
+        height: 833
+        isCached: true
 
 secured: "MB1CrSRNkVS234XRn+VssNhViC3ygD21wqwhhMJ7AsBIJL+by9JyS5CcOlal8DO+tqIgkd6yYW0uJS+xkkdf0fNFAWuzMpPA5rtyJYqYhk0UXb1RDspS38abibSpcuTGqzHYdnu6owY+seMkyAz/Qe5K0gFGR4WCWDuqaiFL6mSR6OebbRZRHoZnifAGNX3dU2NJ8OUNfJlNbH6H03h7MKx51P95FqXtD+BB63YZu/rQ6iV6szVN6CQZxoVlni50toZlB2kyMvNpvGmuHp/ggQusSV2LcODjc6m4VL0UP6/A7pKJpAOM1cglvbqZoVZmye/SC8DP4nDwVcz6WuhKcgzyqRmiHYgwUvN8AHbyqpE=;vdG3HNiVSGX3QH9F3D+MJw=="
 ---

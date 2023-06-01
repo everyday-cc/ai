@@ -1,21 +1,28 @@
 ---
 category: news
 title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-excerpt: "This photo provided by the chipmaker Nvidia shows the company’s HGX H100 module, which can use as many as eight AI chips to train artificial intelligence systems and perf"
-publishedDateTime: 2023-06-01T09:32:00Z
-originalUrl: "https://www.chron.com/business/article/ai-chips-are-hot-here-s-what-they-are-what-18129273.php"
-webUrl: "https://www.chron.com/business/article/ai-chips-are-hot-here-s-what-they-are-what-18129273.php"
+excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
+publishedDateTime: 2023-06-01T09:31:00Z
+originalUrl: "https://www.local10.com/business/2023/06/01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
+webUrl: "https://www.local10.com/business/2023/06/01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
 type: article
-quality: 11
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: WPLG
+  domain: local10.com
 
 topics:
+  - Facebook AI
   - AI
+
+images:
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SIQQ7UVKUNDXRHQQE2TFZQO3RU.jpg?_a=ATCqVhC0"
+    width: 700
+    height: 467
+    isCached: true
 
 related:
   - title: "AI is the future of health care, but here's what it can never replace"
@@ -33,6 +40,20 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7cd60392-d2ad-44a6-81e7-6e274b66a4ae/2d72dd9f-59e1-4876-970b-40c3f8b45c87/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AI chips are hot. Here's what they are."
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip,"
+    publishedDateTime: 2023-06-01T15:11:00Z
+    webUrl: "https://norfolkdailynews.com/news/national/feature_national/ai-chips-are-hot-heres-what-they-are/article_e50444c6-008e-11ee-8e38-6b3227a49a96.html"
+    type: article
+    provider:
+      name: Norfolk Daily News
+      domain: norfolkdailynews.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/2/f2/2f237702-008f-11ee-8f78-27dd5b461b9c/6478b65123d5c.image.jpg?crop=620%2C326%2C0%2C43&resize=620%2C326&order=crop%2Cresize"
+        width: 620
+        height: 326
         isCached: true
   - title: "Using Artificial Intelligence in the healthcare space"
     excerpt: "Functional Medicine Expert, Dr. Cathleen Gerenger, and the CEO of My Wellness Reader, Gary Kiss, joined Gayle Guyardo, the host of the global health and wellness show, Bloom, to share more about"
@@ -71,6 +92,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "7qj0GNeT254nbGQFTdUfOMW95D0O4QW0TPddgwL8LLD+tviTsb1JAi0izgXhgd3tSyCi0AWLiE15jxe1YwCAUH7+c8uBEGXadFhBNE7QIHUodVnJZMptaJ7WDdon5LIApOWyUZaiN5SHSJJU8Zp0b1F7ipQscxyXVfAgo7yDD3w6Qt/LPxEIuiq8AXNjgY7h8UOFzTj+AF6Io13eR9fV1PDk5tVDa06BIs7Y2hY/B7foz3dDaemVR1/FP3XXZ94MV/iL8lU2RIDX8roumNII1VAACcAqXSwCX20T1zIam7RDGdlCJ/P8BC3to354evEfHSJbcX1gbkS/UUelsglBQlSXu0AT+o6zBBxDy13nDfAbNZeZiWvklaNeR4opZM1qm1MC5hQwWTxLjP/RpvXFdcm7ehY27o4RabptJBQa3HdG5GjQ7Lz7C7/MYIKip2i6+Tpm7lgWJCVG3GehxQo8ZlzV7g0Nd3P945LXGYzGcYDsnzVHkFQ5m8UavgHDLOwo5ExcTkiVy2PmzVfYh5Hz1w==;FUHFvrHRniW0S2yWsTZnWw=="
+secured: "JQhph0MtW6P/l61209opCi0NIcbh+2eTJWuO+M6nJoSTbB9DXSZRXRA5IfCIGQSxcc1scnG8Vge3bZ6PsH3APyHqW4JDWfP8IornOoXdU1ALUEoCBntrmo4ZKAqTjPaEf7qgaqez78OqNhyMvEOKyvt/Ps2EPSB1o+h2vMTsx/rSQqAb7nIB8BH24nQ9hi+UcOO46OcWBubbwARptU3Rw7AVliGWFdwkoGoSqtNXtQnMCbzaZtL/uWBiapPTFD50KI1fJmgzvlybe52oTfTxUMredUSV06rA44dvjKiysM5SZkz9QisWVwks5hzW9U4IAIAbo7/UvzJ3vWZxmRNVn/E9dQ78xnzHsOMubRfSwR4=;MS2Zt7MifPKKC8F6XCd5pg=="
 ---
 

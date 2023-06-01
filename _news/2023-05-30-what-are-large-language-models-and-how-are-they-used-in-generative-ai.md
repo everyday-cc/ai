@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3697649/what-are-large-languag
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3697649/what-are-large-language-models-and-how-are-they-used-in-generative-ai.amp.html"
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://www.unite.ai/wp-content/uploads/2023/05/Featured-Blog-Image-Can-The-2024-US-Elections-Leverage-Generative-AI-942x600.jpg"
         width: 942
         height: 600
+        isCached: true
+  - title: "Exploring the Capabilities of Smaller, Open-source Large Language Models"
+    excerpt: "Our AI experts share their key takeaways from exploring the capabilities of open-source language models, which tend are to be much smaller than larger, proprietary models like ChatGPT."
+    publishedDateTime: 2023-06-01T15:30:00Z
+    webUrl: "https://www.wwt.com/article/exploring-the-capabilities-of-smaller-open-source-large-language-models"
+    type: article
+    provider:
+      name: WWT
+      domain: wwt.com
+    quality: 23
+    images:
+      - url: "https://www.wwt.com/api/attachments/6478b46272b1d2f00dead0b5/thumbnail?width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "guZ+tbHxBGBcZvEczjU4pmoOF1V3+fRIyCdgNjVGuK5itPcOCq+46y8w1PiVquQ5Z14U7LZDXktMkgkEe1exfqp50cqyJ90+7/F2HjRDYGo+O1oWFTIAdFNZklh+OKKmhfZwy5mHTK5bZYLBz6pTGUiZ/2jwAlaq1g7aXS1ChaX/WMjAohRjtbDoEJ8Bw2atbc0tvYvIQUTATgn50AWJKDn1hCRWMcpijZjho5pn3IkOnsgwn0/MzqQuIk8jiO1IA/rSI4QBHVvSwS9TmiEwnlw7W3GPASmkMXByYWQmjaourQ3KvK4sWmQOYRX6wc7y2lc3ZbmWRymyygB1F86EKJuP6EDs+fVHua2hEKYlSUgkQP6NH7rwtUXRseMprTp3HU4gdeF0Mr9Ola7cUfMwgXucDPaSKaSdqIvtCNXVqPfY7SjPtPPxqUghlkQvTR97TAWkyFYtayLIiL/HeZJzsxl4R8tpoy3MnVH5yCDZB+FGg2ugA0+iO/AmCtWRiSRlXlcRi2zy6joKxWMIr+6sbQ==;5Hr/Rk/lPh6BkA9viYsaUQ=="

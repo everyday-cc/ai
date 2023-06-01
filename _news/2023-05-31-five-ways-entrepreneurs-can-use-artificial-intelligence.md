@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/31/five-ways-entrepreneu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/31/five-ways-entrepreneurs-can-use-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63ff5b3599f2634f6eaa9372/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Five ways enterprises can stop synthetic identity fraud with AI"
+    excerpt: "How AI gives analysts insights and delivers more accuracy and real-time latency to stop potential synthetic identity fraud before it happens."
+    publishedDateTime: 2023-06-01T14:03:00Z
+    webUrl: "https://venturebeat.com/security/five-ways-enterprises-can-stop-synthetic-identity-fraud-with-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-155354133-e1666657794715.jpg?w=1200&strip=all"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Top 10 Entrepreneurs to Watch in 2023"
     excerpt: "Watch out, 2023 — the following groundbreaking entrepreneurs are coming for you! From serial entrepreneurship and investing to trauma-informed therapy and women’s rights, their specialties span a wide range of industries,"

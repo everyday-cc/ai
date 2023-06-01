@@ -1,30 +1,22 @@
 ---
 category: news
 title: "FTC hits Amazon with $25 million fine for violating child privacy with Alexa voice assistant"
-excerpt: "Amazon has agreed to pay a $25 million civil penalty to settle Federal Trade Commission allegations it violated a child privacy law and deceived parents by keeping for years kids’ voice and location d"
-publishedDateTime: 2023-06-01T03:02:00Z
-originalUrl: "https://www.wsbtv.com/news/ftc-hits-amazon-with/BTYQRY62CXQNKLBZAPQCLXYICY/"
-webUrl: "https://www.wsbtv.com/news/ftc-hits-amazon-with/BTYQRY62CXQNKLBZAPQCLXYICY/"
-ampWebUrl: "https://www.wsbtv.com/news/ftc-hits-amazon-with/BTYQRY62CXQNKLBZAPQCLXYICY/?outputType=amp"
-cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/ftc-hits-amazon-with/BTYQRY62CXQNKLBZAPQCLXYICY/?outputType=amp"
+excerpt: "The FTC is ordering Amazon to pay more than $30 million in fines over privacy violations involving Alexa and Ring."
+publishedDateTime: 2023-06-01T13:01:00Z
+originalUrl: "https://www.boston.com/news/business/2023/06/01/ftc-hits-amazon-with-25-million-fine-for-violating-child-privacy-with-alexa-voice-assistant/"
+webUrl: "https://www.boston.com/news/business/2023/06/01/ftc-hits-amazon-with-25-million-fine-for-violating-child-privacy-with-alexa-voice-assistant/"
 type: article
-quality: 33
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WSB-TV
-  domain: wsbtv.com
+  name: Boston.com
+  domain: boston.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/w_NkDlbGLueibb4bimDoKD25A1o=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/FXOXM3MUKMU7WQ2KUHLKJTOBWE.jpg"
-    width: 1440
-    height: 810
-    isCached: true
 
 related:
   - title: "Amazon fined $25M fine for violating child privacy with Alexa voice assistant"
@@ -43,7 +35,35 @@ related:
         width: 4761
         height: 3174
         isCached: true
+  - title: "Amazon to pay $31M in privacy violation penalties for Alexa voice assistant and Ring camera"
+    excerpt: "Washington – Amazon agreed Wednesday to pay a $25 million civil penalty to settle Federal Trade Commission allegations it violated a child privacy law and deceived parents by keeping for years kids' voice and location data recorded by its popular Alexa voice assistant."
+    publishedDateTime: 2023-06-01T15:08:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2023/06/01/amazon-to-pay-31m-in-privacy-violation-penalties-for-alexa-voice-assistant-and-ring-camera/70277304007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 14
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/06/01/PDTN/8767e07e-1125-452e-a479-e6277469a47d-AP23151745514006.jpg?auto=webp&crop=888,500,x22,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "FTC and Amazon negotiate $25 million fine over violations of child privacy involving Alexa voice assistant"
+    excerpt: "Amazon kept the kids’ data to refine its voice recognition algorithm, the artificial intelligence behind Alexa, which powers Echo and other smart speakers, Bedoya said. The FTC complaint sends a message to all tech companies who are “sprinting to do ..."
+    publishedDateTime: 2023-06-01T14:21:00Z
+    webUrl: "https://www.adn.com/nation-world/2023/06/01/ftc-and-amazon-negotiate-25-million-fine-over-violations-of-child-privacy-involving-alexa-voice-assistant/"
+    type: article
+    provider:
+      name: Alaska Dispatch News
+      domain: adn.com
+    quality: 6
+    images:
+      - url: "https://www.adn.com/resizer//QjgWcAJ75nTessRLfBgeVPJwo-A=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/NOT7D6CYW57HOJIU6ODJDFVKVE.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "udcmJ6xE24kvnpp6abuQEVyW8r2x92BvL2IJS7ulpkncH+7FH8kPxDenytK1BoecXZytfd0iFOb9I6gGL4DXwSxjatb0WdsoUL+qGzdzk98LTsxm1soXZo4V3t+4945sw8q6RsR3Lmjx4hvJlyDmKU4GHS1ouHm1CRjNUctaSxUKIpp9v6kWkry1hqdL+SotOPSbnoYh2jvmYL33fpm0c2jakq6UuAZCACA7w59ccbhOBnsc2mqfDqf7byGOBtCKH2alQ+MximQb5lupbeIQBChKOb8HcoMkPRrBofuFnkaBqh6uZO2c1bzTYx2OentSH73dS33B5guovdsl26qe/3GEcoFxIL0NOM8B5AU0e729UREXeMksHtdjk2xEkHdijNQg1roLQWsKMif2HHyKiZnBWCdfvqEJJXfIKLrB4FtLzEFw8XDiKYDPmT+s362xWUhfKPR4tVAgKMI/e9LK6qyxpus/VopZwA4J+9trBtdad3QuYZIUYMzknYezx3vTcpDgLEHqeGLpWTQEKI7HKg==;LczugseUUGSR4OjQntV2dA=="
+secured: "CleWMyepfb51eO6cw+jYh/i5C6LKiLBgNLEX6f4wU5kSlt6RuEpzXjTY4zHygtrpxYHkIz1Wh8FrSTXuxMtYstUgD+h7dCSgOo0NqLE2MyxrpTJHiij9FGJeiOH3OCx0Q7m9bvbTkn2Lelyi4pPOC/rPIq9kaMF7ESHWuYtTinqnzugEOUuKMiy5Y8lCLks1wXLFjyX6djdedZC3En07JtqvSBpjpds7Z56s3c+LcRvICoZ2efYT7FYGptavZSdNzLmMnscgGD2Qc3UzLQ8FNqWW3IxhYPp+pejIJDdyhIw6omEuZJOJi2y12f7+IeEzuHSaTIIjwCUXQ3Bftfga+Ay5i23N/VRlBVm77hLiuzoPvwxQXWPeCzaBiJTLCKSUwEb6rUGQl3iSYdskOS1G+w7lY7oQY7MNlB4ff8VnVOOluoh1qEdKWXuYAAGc/RRWrjhnp2E+lUN3rg3J+h9PtYl3kOvpfvwW16Sh//radjfrSdTYswMKYpIJ5htDPaHrhHaR7b6jMJfUPeokwPrnVw==;QtXLm5czvl0N8UQDd9fGxQ=="
 ---
 

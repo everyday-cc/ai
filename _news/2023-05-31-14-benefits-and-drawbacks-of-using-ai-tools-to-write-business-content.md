@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Automation Anywhere collaborates with AWS to empower enterprise processes with generative AI"
+    excerpt: "Automation Anywhere will utilize Amazon SageMaker JumpStart and Bedrock to provide enhanced generative AI capabilities."
+    publishedDateTime: 2023-06-01T15:08:00Z
+    webUrl: "https://venturebeat.com/ai/automation-anywhere-collaborates-aws-empower-enterprise-processes-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 73
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/AIAAI-VentureBeat-2023-Banner-Ads-1200x675-05312023.png?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "16 Jobs That Will Disappear in the Future Due to AI"
     excerpt: "In this article, we will take a look at the 16 jobs that will disappear in the future due to AI. To see more such jobs, go directly to 5 Jobs That Will Disappear in the Future Due to AI. By now you must have heard or read about how AI-powered bots are coming for millions of jobs."
     publishedDateTime: 2023-05-28T16:43:00Z

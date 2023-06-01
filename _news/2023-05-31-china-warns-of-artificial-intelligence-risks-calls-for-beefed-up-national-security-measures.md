@@ -1,29 +1,29 @@
 ---
 category: news
 title: "China warns of artificial intelligence risks, calls for beefed-up national security measures"
-excerpt: "The statement underscores the tension between the government’s determination to be technological leaders and concerns about the possible harms of such technologies."
-publishedDateTime: 2023-05-31T14:13:00Z
-originalUrl: "https://www.nbcnews.com/news/world/china-warns-artificial-intelligence-risks-calls-beefed-national-securi-rcna87021"
-webUrl: "https://www.nbcnews.com/news/world/china-warns-artificial-intelligence-risks-calls-beefed-national-securi-rcna87021"
-ampWebUrl: "https://www.nbcnews.com/news/amp/rcna87021"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna87021"
+excerpt: "China has warned of the risks posed by advances in artificial intelligence while calling for heightened national security measures"
+publishedDateTime: 2023-05-31T09:18:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716269"
+webUrl: "https://abcnews.go.com/International/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716269"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716269"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716269"
 type: article
-quality: 93
-heat: 143
-published: true
+quality: 63
+heat: -1
+published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
   - AI in Security
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230531-xi-jinping-jm-1004-8797e3.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://s.abcnews.com/images/International/wirestory_00a38e550ef6b4ac12cd1fd418363d2b_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -41,6 +41,20 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "US seeks to curb investment in Chinese chips, AI and quantum computing"
+    excerpt: "WASHINGTON (Reuters) - New rules under consideration would restrict the flow of U.S. investments and know-how into Chinese companies working on advanced semiconductors, artificial intelligence and quantum computing, a U.S. Treasury official said on ..."
+    publishedDateTime: 2023-06-01T15:41:00Z
+    webUrl: "https://www.reuters.com/article/usa-china-congress-idCAKBN2XM1F6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20230531&t=2&i=1634411747&r=LYNXMPEJ4U0Q7&w=800"
+        width: 800
+        height: 508
+        isCached: true
   - title: "China warns of risks from artificial intelligence, calls for beefed-up national security measures"
     excerpt: "BEIJING -- China warns of risks from artificial intelligence, calls for beefed-up national security measures."
     publishedDateTime: 2023-05-31T05:27:00Z
@@ -57,15 +71,22 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "US Updates National AI Strategy And Calls For Public Input"
-    excerpt: "The White House released an update outlining the Biden-Harris administration's latest initiatives in formulating the national AI strategy, AI policies, and AI regulation."
-    publishedDateTime: 2023-05-29T12:20:00Z
-    webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/05/29/us-updates-national-ai-strategy-and-calls-for-public-input/"
+  - title: "China’s Xi Jinping calls for greater state control of AI to counter ‘dangerous storms’"
+    excerpt: "President says national security threats are increasing and urged greater oversight of artificial intelligence and data security"
+    publishedDateTime: 2023-05-31T23:42:00Z
+    webUrl: "https://www.theguardian.com/world/2023/jun/01/chinas-xi-jinping-calls-for-greater-state-control-of-ai-to-counter-dangerous-storms"
+    ampWebUrl: "https://amp.theguardian.com/world/2023/jun/01/chinas-xi-jinping-calls-for-greater-state-control-of-ai-to-counter-dangerous-storms"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/jun/01/chinas-xi-jinping-calls-for-greater-state-control-of-ai-to-counter-dangerous-storms"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: The Guardian
+      domain: theguardian.com
+    quality: 49
+    images:
+      - url: "https://i.guim.co.uk/img/media/4268df96cffff87537b9ff983eda098f6e057beb/0_0_3094_2000/master/3094.jpg?width=620&quality=85&auto=format&fit=max&s=61243aa6e5043dc82087170825fb008d"
+        width: 620
+        height: 401
+        isCached: true
   - title: "AI in China: Xi aims for balance between progress and protection"
     excerpt: "China calls for heightened national security measures for artificial intelligence. A meeting chaired by President Xi Jinping emphasized the need to safeguard political security and improve security governance of internet data and artificial intelligence."
     publishedDateTime: 2023-05-31T15:57:00Z
@@ -90,6 +111,6 @@ related:
       domain: chron.com
     quality: 17
 
-secured: "qhmIt5sI6E1jraqRYAZ+UYdBKj2t03aohRscWeGKpeRHyxF1biAtn+AramC0r8OS2kJG0UQjcYNb9tEcgQJUcivfoZro8pir+de/LzKdYMOMLVAkoES2Ba8OXt8CK5NoBFQdJGb2Ox/X0F7fNzV/UGr53ekCHUAWqHvROIvj4n6DZNosc5Ftzwbloe/QFjklMuIDTbpe9DYxtJ0B3tYBjCZeJod1c037VNbKZkNHqWr2gwElKFXbS9K+S8eNgSSEbHufoGdxYJm56sl7LURM7NCpxdN+YU46zZjcTxo2I06QnTNKY24SYaSr6c1xdJdNYZsKvHvvy/Gpde6fCWlSfg+w/L8vFv9ye9/pLCXH5PQQEVDC43dy6Z46d4ou+eXJi+d7OQ8mbD45o7NoJjWTah1cQcYR1C4UHrleTtMBf/3EMPTFjY9+mYuvjyUAZQP22UPJDD8MT3iTfA3p3T9wBPhhP8GaarsoDUl8rkRNuhIXW8bq++bulS6nfmcBB1mgKqvoM3D7MmdTsi/bdLbVMw==;q9/nFIRyAVzR7tCskSfmoA=="
+secured: "ORjyxxPzlNh4MfthECenuzAlexG6R1VJXOygFoXvwSl5rM9k6EhG1uF/+SndtRPqVAgDGx0IGirM/P9H+e/NWGkU3zg4kPW4EZiJzi7wEOXKCpWIxNqLr7Ooy0viTsJWLlpVk2hiDWyjXK3p81UilbSYf5MWCSoBlSi5NsaH29z2HDdWyN5ByyZp5ePSCPUpVpOVCzfDm7AXeSvTDfyHOp/ZFwQxj1RRUD8XjiKBYEJimRq0GXpby8khf2WS0X8o0Gv1E9UX9eA49b8HHdGh+75ptEwkZ4uIIMAQcHkfBct8U/+HcEle//v6kyl3YqDjY1+7uEIJtSV4y+SX30/pah38B38pEpISTJA9AvN/BKI=;9tNmop+Gw3vwW0AqEZG3Ig=="
 ---
 

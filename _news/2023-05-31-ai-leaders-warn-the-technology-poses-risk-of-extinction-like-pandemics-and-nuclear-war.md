@@ -336,20 +336,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
-  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-    excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
-    publishedDateTime: 2023-05-31T12:32:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692579"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 49
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_54ea8aadc60d1503e5a65878219aad43_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "AI experts challenge ‘doomer’ narrative, including ‘extinction risk’ claims"
     excerpt: "“It’s almost a topsy-turvy world,” Sara Hooker, head of the nonprofit Cohere for AI and former research scientist at Google Brain, told VentureBeat. “In the public discourse, [x-risk] is being treated as if it’s the dominant view of this technology."
     publishedDateTime: 2023-05-31T18:08:00Z
@@ -449,6 +435,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
+    excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
+    publishedDateTime: 2023-05-31T12:32:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692490"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 29
   - title: "Prominent AI Figures Issue Warning On The Global Priority Of Addressing AI's Existential Threat"
     excerpt: "A group of renowned AI researchers, engineers, and CEOs has jointly expressed concerns over the potential existential threat posed by artificial intelligence (AI) to humanity. The San Francisco-based non-profit,"
     publishedDateTime: 2023-05-30T12:44:00Z
@@ -507,6 +502,15 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
+    quality: 17
+  - title: "AI: Is there a risk of human extinction?"
+    excerpt: "Artificial intelligence could lead to extinction, experts warn"
+    publishedDateTime: 2023-06-01T13:19:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p0frnnsd"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
     quality: 17
   - title: "Artificial intelligence threatens extinction, experts say in new warning"
     excerpt: "Sam Altman, CEO of ChatGPT maker OpenAI, and Geoffrey Hinton, a computer scientist known as the godfather of artificial intelligence, were among the hundreds of leading figures who signed the statement,"

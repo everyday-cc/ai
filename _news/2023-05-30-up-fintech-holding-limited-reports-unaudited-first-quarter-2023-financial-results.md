@@ -36,6 +36,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "Africa Fintech Summit: AWS announces the 25 startups selected for its first 'fintech in Africa' accelerator"
+    excerpt: "Over 90% of startups we know created their Minimum Viable Product (MVP) on AWS. Products like Compute, Amazon SageMaker among others help them to build fast-scaling products that VCs like us love to back. We are excited to provide our expertise to young ..."
+    publishedDateTime: 2023-06-01T13:08:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59236812-africa-fintech-summit-aws-announces-the-25-startups-selected-for-its-first-fintech-in-africa-accelerator-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 1
 
 secured: "LPXG9+an73kIh7uedoqNF+RnE74uD/56TdJPHfx583gcJDU4xkh4paib/eZMi61bQMiw53pLZsmU8lZQ+tQGHqpGPUV+0YVlX+iZdqgWFabsd+WKdZoqhZbNwImbNY3qpEm8bzg2ht+qBiKHPu9DuIUfJ9Y2XJZOPT1mNid+FTkEWDONHcgSGnvwSVYxIIujTlOl8ciOyoz7IV+T5YPA4lstQIjImXzvR5NkjslhI48xPyq12kdbysASAV6tJrhl6/udizKKA8jfiwnO5SH0ntU0+P3WLPrQBJZ6JIrVp9v6LcsC13QsAXmoW9Y3+PjfSRIle5qEGvgnRqsjQ9voUP/6gQ/27fomAbdmLwYh7MI=;vLLT3ooOOvlm3YGi4ClTiw=="
 ---

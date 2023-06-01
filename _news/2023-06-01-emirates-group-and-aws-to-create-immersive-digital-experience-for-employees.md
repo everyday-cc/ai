@@ -51,7 +51,7 @@ related:
       domain: bignewsnetwork.com
     quality: 39
     images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+      - url: "https://cdn.bignewsnetwork.com/ani1685578399.jpg"
         width: 630
         height: 420
         isCached: true

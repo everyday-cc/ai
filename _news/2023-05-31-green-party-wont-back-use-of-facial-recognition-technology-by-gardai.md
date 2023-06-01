@@ -47,6 +47,29 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "GSOC chief warns that body cams and facial recognition tech will be open to abuse"
+    excerpt: "GSOC boss Hugh Hume said that the watchdog will need significant investment if it is to keep track of misconduct related to abuse of new technologies."
+    publishedDateTime: 2023-06-01T15:54:00Z
+    webUrl: "https://www.thejournal.ie/gsoc-ireland-6083158-Jun2023/"
+    type: article
+    provider:
+      name: TheJournal.ie
+      domain: thejournal.ie
+    quality: 34
+    images:
+      - url: "https://img2.thejournal.ie/article/6083158/river/?height=400&version=6083316"
+        width: 613
+        height: 400
+        isCached: true
+  - title: "Met Police director of intelligence defends facial recognition"
+    excerpt: "The Met Police’s director of intelligence has appeared before MPs to make the case for its continuing use of facial recognition technology, following announcements from the force and the Home Office t"
+    publishedDateTime: 2023-06-01T09:00:00Z
+    webUrl: "https://www.computerweekly.com/news/366538871/Met-Police-director-of-intelligence-defends-facial-recognition"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 19
 
 secured: "qS8JdlqCGt6JQi1SnXgbd95WVxaphBGpKAJ0Y9Jdxgjlpcy40k/N7IqGsf/369/ryCZl1sfs0/9+nMu1M8yMMztUExLlsYZFiLO/hX4yY6FP3VOsIlAaNQ+5PXuY2c0SzpJnIVUcWu3X2vWBK3Ro3nSlaSKSPcAewJmjDp/0EwaAB16xv+auFUVquY/1z0LNiDoLksVoje54uxPLcpoKX5+ZH99lFURgz7dDFpp+KGQUazAJaFy9oqDeMRrIDOJWpC3b2tJUeHHnMVCCVwf+5jCCkBXvFX3S+3VayRHMjU8nnO/GZHYWEOpBICVFdhMxFXNqfgb5eSMyA6bK3Zt2RbRwa/XPKyYT6m6KgGHS/vLUWMGEzdnrv9KeSoEzKWUwS7zkJvyrqbqgJH1/PTzJJV6V0PsBBvsrK+xjNjHTcKJWX2n7SeElFK5DK4SAcvRMETERB3Mdx11ZbSEqow8kunG4pRFR73Y8GswyJRYPnnMX1br4vcLjIWNNMRJWuR4XqJvvLJqfC+1r9hh/RTBoAg==;LfurepNVq/VzrKeQIc2gqQ=="
 ---

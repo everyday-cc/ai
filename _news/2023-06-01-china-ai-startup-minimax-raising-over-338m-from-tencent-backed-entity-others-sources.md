@@ -40,6 +40,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "China AI startup MiniMax raising over $250 mln from Tencent-backed entity, others - sources"
+    excerpt: "Chinese startup MiniMax, working on AI solutions similar to that of Microsoft-backed OpenAI's ChatGPT, is close to completing a fundraising of more than $250 million that will value it at about $1.2 billion,"
+    publishedDateTime: 2023-06-01T03:46:00Z
+    webUrl: "https://www.reuters.com/technology/china-ai-startup-minimax-raising-over-250-mln-tencent-backed-entity-others-2023-06-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 37
   - title: "China AI Startup MiniMax Raising Over $250 Million From Tencent-Backed Entity, Others - Sources"
     excerpt: "BEIJING/HONG KONG (Reuters) - Chinese startup MiniMax, working on AI solutions similar to that of Microsoft-backed OpenAI's ChatGPT, is close to completing a fundraising of more than $250 million that will value it at about $1.2 billion, people familiar with the matter said."
     publishedDateTime: 2023-06-01T04:46:00Z
@@ -62,20 +71,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--5eo1Y7tf--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-05-22t123056z_1_lynxmpej4l0f9_rtroptp_3_usa-tencent-holdings-investments.jpg?itok=mhyCJneU"
         width: 1200
         height: 676
-        isCached: true
-  - title: "China AI startup MiniMax raising over $250 mln from Tencent-backed entity, others - sources"
-    excerpt: "Minimax: The deal comes amid a global AI buzz kicked off by ChatGPT that has spread to China, shoring up stocks in artificial intelligence firms and prompting a flurry of domestic companies, such as Alibaba,"
-    publishedDateTime: 2023-06-01T09:29:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/china-ai-startup-minimax-raising-over-250-mln-from-tencent-backed-entity-others-sources/100674627"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 27
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-100674627,imgsize-481568,width-1200,height=765,overlay-ettelecom/internet/china-ai-startup-minimax-raising-over-250-mln-from-tencent-backed-entity-others-sources.jpg"
-        width: 1200
-        height: 765
         isCached: true
 
 secured: "dmBcwd6oDVLrqp6732B0auqYmRuo/OdP2C0fU2PqdefOpshpYFdW1dapGYWU4AOeGAkCoUyWnl5vCMwOqVbumRMeEvJI4/u/5KIcBxB5+nwD9ZwctVzKeXV6nZK1JYOwndsk9RRACAFeFZlA+oJF9Ct3xwlibH06e5YUJqNZWrW85gdY6M/8hhfgUrvc1UKc1TU/5JbwYUeqTYI54sg7ZyhHwBNU95c/Y+HVdV1EHzRUTPKBLUPcbIv+KX037Ahu2A/FJWoVaMzpMiBkm7/6Junne+VEXOMljZa60im1etehrG+J2Y33eS9/5aFbZptACXFU1cM2mJm0+GDNqlFPXYrkr7v8nC1T/KcbkyIz17U=;kweUVmJaXxH7alOHps7TAQ=="

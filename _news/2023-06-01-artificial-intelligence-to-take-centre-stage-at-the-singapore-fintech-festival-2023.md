@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Artificial Intelligence to take centre stage at the Singapore FinTech Festival 2023"
-excerpt: "The Monetary Authority of Singapore (MAS) and Elevandi1today announced the theme of the Singapore FinTech Festival (SFF) 2023- 'Applications of Artificial Intelligence (AI) in Financial Services'. SFF 2023 will focus on the growth and adoption of AI and how this technology can potentially be used in financial services."
-publishedDateTime: 2023-06-01T02:55:00Z
-originalUrl: "https://www.malaysiasun.com/news/273849916/artificial-intelligence-to-take-centre-stage-at-the-singapore-fintech-festival-2023"
-webUrl: "https://www.malaysiasun.com/news/273849916/artificial-intelligence-to-take-centre-stage-at-the-singapore-fintech-festival-2023"
+excerpt: "Artificial Intelligence to take centre stage at the Singapore FinTech Festival 2023 Singapore, 1 June 2023… The Monetary Authority of Singapore (MAS) and Elevandi[1] today announced the theme of the Singapore FinTech Festival (SFF) 2023 – ‘Applications of Artificial Intelligence (AI) in Financial Services’."
+publishedDateTime: 2023-06-01T14:49:00Z
+originalUrl: "https://www.globalbankingandfinance.com/artificial-intelligence-to-take-centre-stage-at-the-singapore-fintech-festival-2023/"
+webUrl: "https://www.globalbankingandfinance.com/artificial-intelligence-to-take-centre-stage-at-the-singapore-fintech-festival-2023/"
+ampWebUrl: "https://www.globalbankingandfinance.com/artificial-intelligence-to-take-centre-stage-at-the-singapore-fintech-festival-2023/"
+cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/artificial-intelligence-to-take-centre-stage-at-the-singapore-fintech-festival-2023/"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Malaysia Sun
-  domain: malaysiasun.com
+  name: List of Banks in Belarus
+  domain: globalbankingandfinance.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnasia.com/media2/2089389/1.jpg?p=medium600"
-    width: 600
-    height: 400
+  - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2023/06/SPO.jpg"
+    width: 624
+    height: 416
     isCached: true
 
 related:
@@ -104,6 +106,6 @@ related:
       domain: mybroadband.co.za
     quality: 8
 
-secured: "LB2+81vrxZGbTZ6v2rqRQAB1rS6jCvRIP0HkCuzu3Yy4omaL52asTNfE9COLg7RoUtbIkfXpv8MSL87Ox7yDoe97nYfediFFkeftuVT4CPT/zkrzF6Ajw/CWQ6PTJH8SsD6ONg3mxNHi8qd+YwpjkS9wdciyf89h//WvkIbJORNJ0xCRlirqJBP0IabmdAFMstvt37mXFto0DXQtYYyRXPOMbhL7UsCacKt/w1rshJJgaFR8he3orQa+rdr6EAhwrDr16Kl2yJQZ6fFKVISkN5vx4/omNXKtHdGZ8tNNOW/y8OuJtfKbyiX9UDUB2FEaT3LBcx/zwQqZzHkkfjHkbjDg9/lDfZI9GG5X/oPnF6E6YmW2cwbacyOSNyAJR1owDR14EwQAiTxs+NrINBEKZ/bJc9hdhhQSSS3mVFoYK5VG8og7aTtDoqVxmfd5MlzCb/Pq4e65zbBnGiDZDfKFB0PHKB2Tdsej3VC5HYKT9Vnz+RAjnnhB+TFxiB0GackRQoy34bf60ound6j+YxaTvg==;9KxHZc/C3Ghy+WJJTMhWMg=="
+secured: "x8tTyPJrsCHieyAHgGS2scyCO/FDRtM6IqBowZKjGt4hg6/u2dUwk2v7QyJzxAbujMhgzlAA+qMaTf4ZJ7cbMoOR4IUNzuyKxnxyyvjJW+gfZSna1AYFf6uSKHTU+sGtN2lDZu2vnmghyHX5RJBfW4fCNoJCs7S4Dg1tzvBRioOqJ4OUpK53+9SfQCsKK3FmewpXS0xvwFTy/eCTfzmRmTnBm1HHxAOHql0CLyuB9fcQJ4i1RW+UAjhzLU6CkwqsWIvnttdeFvTKwrRpUqrkVwKAbO3KPXC0YiuK+RJpxEY4l99vVHWwC2WlZFelPiyJbFe+7KyjZFn5r4crskBRiD5U0dMJvS0Mf7nCY6i/rp4=;2qoBPr6GjkmWh1OLTgrxXQ=="
 ---
 

@@ -3,10 +3,10 @@ category: news
 title: "Artificial intelligence raises risk of extinction, experts say in new warning"
 excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
 publishedDateTime: 2023-05-31T12:32:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692579"
-webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692579"
+originalUrl: "https://abcnews.go.com/Business/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692490"
+webUrl: "https://abcnews.go.com/Business/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692490"
 type: article
-quality: 49
+quality: 29
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/International/wirestory_54ea8aadc60d1503e5a65878219aad43_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "OpenAI execs warn of “risk of extinction” from artificial intelligence in new open letter"
@@ -508,6 +502,15 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 17
+  - title: "AI: Is there a risk of human extinction?"
+    excerpt: "Artificial intelligence could lead to extinction, experts warn"
+    publishedDateTime: 2023-06-01T13:19:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p0frnnsd"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 17
   - title: "Artificial intelligence threatens extinction, experts say in new warning"
     excerpt: "Sam Altman, CEO of ChatGPT maker OpenAI, and Geoffrey Hinton, a computer scientist known as the godfather of artificial intelligence, were among the hundreds of leading figures who signed the statement,"
     publishedDateTime: 2023-05-30T14:04:00Z
@@ -518,6 +521,6 @@ related:
       domain: chron.com
     quality: 16
 
-secured: "nNDys20RSCL2euqpMA7cMn/ZoERvBoSGjfLEUr6i6rZ0u2/tR1xGJO2G44GtaunjshBpGjTp4nST3StSgVIYq9lKqyLf7LmcYw9f2m6aE0kdEhG3nugB9AaMN4IKxfOclXimly4wRxWp508AIpxIMzS8a6/MEsp/pKRFI50yc89+jIa/QZ2eUDSy6riVHp7qWHJUOlZDIh6YlKHpqv818V0oM0DyGLSWWw4NuIvDvRPl4LZb0f0pzr7CdPl6XuUsFqqbtaVkve9uhVNNYjEtg9JzN17jPkZgOLTdI0InT1+Qv1yi3L4JHiEfjLe4uNNgRdxXkerOwZVWkiKLlW98FtW/R3HlwAQpUiGMJ0/PYFdgjJz6bA25VDslAF6hp5MnJOJIvMpmwDywaTtB6fbechIN7zgsB0o8jyIZVBasNEKUSt0a2jYRtVDE1p1wUzN6q5aemeeyiwcUu77GDKig3nzoJchSeMGO6a+5mW2SKDJAiFI1RyBuUTAQ65X6S4V6irC7UjpBobkFVDFrCymfhw==;E2ScbQOPif1cRg/3CSv7hg=="
+secured: "K8epMsfG787Kp0RFVkWMPUke6qiJXrvMBho5r8OLY7MdQttyFJOooW6aCSgnK8A4+UEHTRNWPxhGNlJcGL32nDDkL+ycnyNlAQsxYGL4Jcu+HYJLNn9SXUhGks5FMEKxX/bzhnaLILI3sW83h20M0yy8r4Afof9maw/3KTqiEsZ8xX8twHamuA/M4hLcp01jTsb3/mDsCGjPBAkJtPFxSKKsfcD3NQZ/v2ENfO8cld0YbYGKeyrzBG11TLIURGqa1uvN+soEBTeg6BRn9i6B39jj8YpckrHe+L32q3Q6orZkyNz/T3Wj/zB8tU396E+DnsAkgiV9pjh9bN58qavkjboCNoavanQmpjbDxNoMk03sHSDcGVKl0gvij8tgQlfZrpxonbC6kMVAXXGpQ1jFa9FxN65dy2biwrvoNECObvBL7SUZGBClbM3AXvpltHFdC8LRrpn1UPpUNum2BmS4ZYCN61BzStizJi6BFTDFShuHHLF4IAVzGIj4pi1wqWeZ34ZxqiRFMO1E9Y0K/2sAMg==;I4GcS8qBvIvijT5wEWl2Pw=="
 ---
 

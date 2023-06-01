@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-05-16-how-to-achieve-high-impact-personalization-at-scale-with-managed-marketing-services.md",
+      "title": "How to achieve high-impact personalization at scale with managed marketing services",
+      "excerpt": "To help companies better deliver on their marketing vision and scale their marketing business processes, managed marketing services (MMS) offshore has become a fast growing trend. According to an Everest Group&#174; study, offshore MMS centers increased over 50% from 2019 to 2022. What&#8217;s more,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-achieve-high-impact-personalization-at-scale-with-managed-marketing-services/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-achieve-high-impact-personalization-at-scale-with-managed-marketing-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/How-to-achieve-high-impact-personalization-at-scale-with-managed-marketing-services--630x330.jpg",
+          "width": 630,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-05-15-unlock-productivity-with-advanced-generative-ai.md",
       "title": "Unlock productivity with advanced generative AI",
       "excerpt": "Learn how we are unlocking new levels of productivity by introducing advanced generative AI into Watson Assistant use cases.\nThe post Unlock productivity with advanced generative AI appeared first on IBM Blog.\n",
@@ -1396,58 +1448,6 @@
         "name": "theregister",
         "domain": "theregister.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-03-ais-chaotic-rollout-in-big-us-hospitals-detailed-in-anonymous-quotes.md",
-      "title": "AI’s chaotic rollout in big US hospitals detailed in anonymous quotes",
-      "excerpt": "But, behind the public fray of fanfare and failures, there's a chaotic reality of rollouts that has largely gone untold. For years, health care systems and hospitals have grappled with inefficient and,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2023/05/ais-chaotic-rollout-in-big-us-hospitals-detailed-in-anonymous-quotes/",
-      "originalUrl": "https://arstechnica.com/science/2023/05/ais-chaotic-rollout-in-big-us-hospitals-detailed-in-anonymous-quotes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/doctor-making-an-ai-deal-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/science/2023/05/ais-chaotic-rollout-in-big-us-hospitals-detailed-in-anonymous-quotes/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/05/ais-chaotic-rollout-in-big-us-hospitals-detailed-in-anonymous-quotes/amp/",
-      "publishedDateTime": "2023-05-02T15:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

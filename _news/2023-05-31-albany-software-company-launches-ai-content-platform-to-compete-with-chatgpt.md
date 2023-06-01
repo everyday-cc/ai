@@ -178,6 +178,15 @@ related:
       name: HUB
       domain: jhu.edu
     quality: 21
+  - title: "Auto-GPT an autonomous ChatGPT AI assistant"
+    excerpt: "What is AutoGPT? Its a new automation system that harnesses the power of ChatGPT and is capable of managing projects without user input."
+    publishedDateTime: 2023-06-01T13:27:00Z
+    webUrl: "https://www.geeky-gadgets.com/auto-gpt-an-autonomous-chatgpt-ai-assistant/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
 
 secured: "2zmxQ5Rj+gzBHEjdn8g3fxnS0Vz7Mv7CVGOAG6/CWg2QCzgw3l7B27dqDS7ex7OADTrOjDrJpyhjnmtjT/rW1CKL8IeH71tW629L/6syU4HRoCh5yA9wcNv7fmwF+9wsDH2rYlCORwzkmtgXz8gCY/9M5+0Kp017a6i3dBt9kDkb4cc8TJftrsMQXy+k5B81h2BOiUKLL82zA03K5ievBsPL4KhMf3hql8m6Zhu6XOKqjsGHF7ShGkOngoZz0q76qLIdasc6agV+TnahYR8JXSObSvJzBoUpy5sezRMoAn4BNdRR75dKkwzOor+N9jE7eA3f/cuXLBMaRcgHlbIZSlKpsht8GyUIrh5caYpFnNYTecTcJDZt/ukaMBycIt7r+EtMgF7evqZKX+MmhZ8PoMc3TfjGhyPkQwoc1ey0Gz2ywU+5TcEzFzeXJDzeBk2Veg7lJ0Po945ayI35selbvJLkaMamzHxX0HgndVc2G2Lf9Fjy+2r2EKOEZRg90IbrbIHwdzUKM3G2UyRYehtrKQ==;Daed/ZZTWuTgrtMOvmlxFw=="
 ---

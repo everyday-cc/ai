@@ -46,6 +46,20 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "Five ways enterprises can stop synthetic identity fraud with AI"
+    excerpt: "How AI gives analysts insights and delivers more accuracy and real-time latency to stop potential synthetic identity fraud before it happens."
+    publishedDateTime: 2023-06-01T14:03:00Z
+    webUrl: "https://venturebeat.com/security/five-ways-enterprises-can-stop-synthetic-identity-fraud-with-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-155354133-e1666657794715.jpg?w=1200&strip=all"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Top 10 Entrepreneurs to Watch in 2023"
     excerpt: "Watch out, 2023 — the following groundbreaking entrepreneurs are coming for you! From serial entrepreneurship and investing to trauma-informed therapy and women’s rights, their specialties span a wide range of industries,"
     publishedDateTime: 2023-05-30T20:44:00Z
@@ -56,6 +70,6 @@ related:
       domain: laweekly.com
     quality: 4
 
-secured: "ujw/uZCxO7I7wsGUkZgkhKILk2FmYa/2XqNlEYckxlNuc6LCaWFy39raXRHzlw46EGdxl3xnLwVrKCi1s7TDwUhafyjKE4c8MwaA9QwDu4q6O5V79xOoj+PRQri3jUcYucheLUBCLLZq6yv1kAF+E8GFEguqWsTKf/OuloZjsuhmPqwd+iRMR5NtO4nEDquHqxvdDcIR0PLSd32otZI4rzw6sxHIjlx6O9xF0Iq5oVNoQQeh1VRzcUE/eiiwZJexde8Ny4v6Pe27v3HyOzoCzyxDt8SVQGtLjRNLHhpCejqzHxZ7cFVfpkjLTwjGSaA+svBX+g3nhVHfd64QJdpOpAQSpeGzUG9DDORrkDG3kDU=;7FFkpxgxuqzubC/cs8FmzQ=="
+secured: "itV9Zyin9+HpUpL+cnIeBinIanUZBsB28CdZAtkuzUDaIC+hAFBz7EEnFJXT41qz8P551UnrYLnG6eFBgaOopH7WM1uYtUQYOOHiy0SVb41Urb40P0ivvOAKQtLIOJm650zSkJcUOSqGxm2hdqrINjQ/IZokzebcdJ5YFdjcZm0DM0u15RYQSAKIfvO41d7dls0/I16NesMGx/ah9mxHnMvfqCpGA/DxCHQKQefDPpiL6TEekYpb2NrGX3/zvZ4jiJlsEiJoXoTsDe2Xz+OlYRdJqdXf4vZG5U90qtT0OnSbsKt4AK4C+5Z2DPDs0pFa5FfCDXoQqjoII+W577p/91MGnaEY80DyOBjxXJxbgKdhce7jf/wf9IZCIzgzAB6C2js+/Y0qRAOs2H4RPJecNQ1oYdd/zQW1ezM/JQ+xNycndEW9rXETx5T+/NXlCoVpVa+v3WSF2LqFYTrvbQlxf6Q2DyTy0sbDoeSg7xOiZu599IivDi5zFvTVHtgOUtVzzTkGog1nzVJsDHzHKcvZSA==;LdemrF8/RV9VDmnSN+237w=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-01/more-artists-ar
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-01/more-artists-are-embracing-artificial-intelligence-not-fighting-it"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Helper, Hindrance Or Hype: How Understanding AI’s Existing Impact Forecasts Its Future"
+    excerpt: "AI enhances various industries and aspects of our daily lives by empowering people to make informed judgment calls, analyze risk at scale and personalize consumer experiences. Right now, it’s neither a savior nor a death sentence."
+    publishedDateTime: 2023-06-01T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/01/helper-hindrance-or-hype-how-understanding-ais-existing-impact-forecasts-its-future/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 39
   - title: "Studio Denies Laying Off Artists For AI After Fans Spot Character With Six Fingers"
     excerpt: "Unfortunately, some of the circulated content is based on mistranslations of our previous statements and false reports'"
     publishedDateTime: 2023-05-30T23:45:00Z

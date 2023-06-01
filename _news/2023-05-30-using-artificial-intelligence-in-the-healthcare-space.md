@@ -35,6 +35,34 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI chips are hot. Here's what they are."
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip,"
+    publishedDateTime: 2023-06-01T15:11:00Z
+    webUrl: "https://norfolkdailynews.com/news/national/feature_national/ai-chips-are-hot-heres-what-they-are/article_e50444c6-008e-11ee-8e38-6b3227a49a96.html"
+    type: article
+    provider:
+      name: Norfolk Daily News
+      domain: norfolkdailynews.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/2/f2/2f237702-008f-11ee-8f78-27dd5b461b9c/6478b65123d5c.image.jpg?crop=620%2C326%2C0%2C43&resize=620%2C326&order=crop%2Cresize"
+        width: 620
+        height: 326
+        isCached: true
+  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
+    publishedDateTime: 2023-06-01T09:31:00Z
+    webUrl: "https://www.local10.com/business/2023/06/01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
+    type: article
+    provider:
+      name: WPLG
+      domain: local10.com
+    quality: 33
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SIQQ7UVKUNDXRHQQE2TFZQO3RU.jpg?_a=ATCqVhC0"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Orlando companies harness the power of AI in revolutionizing health care"
     excerpt: "As the health care industry faces staffing shortages and rising costs, AI is offering a solution that can free up time for health care providers to focus on patient care."
     publishedDateTime: 2023-06-01T04:00:00Z
@@ -62,15 +90,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 15
-  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-    excerpt: "This photo provided by the chipmaker Nvidia shows the company’s HGX H100 module, which can use as many as eight AI chips to train artificial intelligence systems and perf"
-    publishedDateTime: 2023-06-01T09:32:00Z
-    webUrl: "https://www.chron.com/business/article/ai-chips-are-hot-here-s-what-they-are-what-18129273.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 11
 
 secured: "KdpzaCbC1DQH/qZF2RWHXxDJrrIia7RQrhb3rJwfVfIceDx62gDysPZF2EuugOqte0GlwPi0QojhQUqNGYw5pQJ0rtD1J9PzM8mO/++MuO5YjcksFpcHmVMRR8hJSwVnsXVJgcrzyG6T3zUJZbDMZlWPTx9zxqRGtK3U9STsWdYLcbPSHzMABANVbpdIabcfxSitQXpNu6+6DXEbSeCp9SMrEW52Hzgnd1zs8CZ9mUmxm9MW9SHo34ztviNi4l/QBUAb1BVwZ9aOAEwjZIb1gkyeLsSMEguh61GDiydtSRxn2LFJlRa+VlEb4oHlV0698PKENPOxFqDUDfGk46z1uvKIp2+4JDLimoVwb12UiW0gg9xk41gNKg4ctrXXGPc0u2X1LwIuHPjn1gHfOAbpwKq+h33DoGQsO3jtOKoDaZd2DRaT+Cx2igZe8icXUEZ+ETvRVbFc/WkQyD/HQtJC5hiO2eDFUzk1FPMVA83p6F/i6G8v4wyhJ7TSgxF/Z3HxPYQyTkhC7NAagqMBQEpMbA==;kmVXZhkz3DjU5mJYkR9Q9w=="
 ---

@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+  - url: "https://cdn.bignewsnetwork.com/ani1685578399.jpg"
     width: 630
     height: 420
     isCached: true
@@ -65,6 +65,6 @@ related:
       domain: itp.net
     quality: 28
 
-secured: "3am4UJdzBU4CSBiTsDj3W3xs10HAuo30To1DTVdne5Htc/RBXWw5fZ5UUwgqU5BcXz2+/o7mdjq6pB8R8cj8WS9GVFwJeVqnxwhXpYDL9vtpDfLwDBFXoyXZ2gve4zi9Ygwf0Daoth0AYOFGQCbUmpdck4+PFVEJYkY4UtUvkhFr/5pNT84LyOlT8eyRgMJmU1N8h5pP/ihMJD1J9DsWj/DulS1+up35aYU6b/keoTmLUX8df1TQCmthbNuPfmb0VpuS8Y2U2xqgqLPdruSc/T6+uaJGAYATo3H+FzEHaZu02FXuoi6uo6noTS3CF9BMZTZ91MaG7086IZ1+8K8fOyl42AM8MFf9o8FLe3uWC5c=;dgo1Zo75oCaEr/kdLgVjaA=="
+secured: "v0bJZZzBtTJL/rdor5oncixTESDab1GSzqU8Hc6wMWyRWyk85Ez7qgzxRE3I+ZLzM/1oa/DAZ+xSuGjqzc4ymC4xdBjehtA4ptS5NCOo6N+s60JiP3KEDnIvAdNvJTqB9iD3Kdaeo+PKRmr7RJmmXjsUVPuyqC+hIb01j/y5cAavZ+R5QAMVOzFTVNj+Gsia7wkbxdksfbIWZeBpOnzlO6y9o9znSh7/8L79pNMo+TFFIW7iK7zb6evkjfHhhmjYX9hX45qq3Ia4AvznYmlp39SHRC0M0hiR8wl5vEZiwv24jXHLIrM8ncRGsRsJ2XoPq7lay5w0oT+uQj+OFwpTl08eOmqX1fQXQm58/3cnOuU=;sMa0YMmhB4QXJYKnKlTVIw=="
 ---
 

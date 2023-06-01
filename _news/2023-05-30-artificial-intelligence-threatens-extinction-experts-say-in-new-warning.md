@@ -328,20 +328,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
-  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-    excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
-    publishedDateTime: 2023-05-31T12:32:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692579"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 49
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_54ea8aadc60d1503e5a65878219aad43_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "AI leaders warn the technology poses 'risk of extinction' like pandemics and nuclear war"
     excerpt: "\"Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war,\" said the one-sentence statement released by the San Francisco-based nonprofit Center for AI Safety."
     publishedDateTime: 2023-05-30T19:55:00Z
@@ -457,6 +443,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
+    excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
+    publishedDateTime: 2023-05-31T12:32:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692490"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 29
   - title: "Prominent AI Figures Issue Warning On The Global Priority Of Addressing AI's Existential Threat"
     excerpt: "A group of renowned AI researchers, engineers, and CEOs has jointly expressed concerns over the potential existential threat posed by artificial intelligence (AI) to humanity. The San Francisco-based non-profit,"
     publishedDateTime: 2023-05-30T12:44:00Z
@@ -515,6 +510,15 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
+    quality: 17
+  - title: "AI: Is there a risk of human extinction?"
+    excerpt: "Artificial intelligence could lead to extinction, experts warn"
+    publishedDateTime: 2023-06-01T13:19:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p0frnnsd"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
     quality: 17
 
 secured: "MJxVZk46ODGl1rIXeYwitugI6MjqDRvGht+H8BIImBfaO/eInmj/4UYQlTuKahtiGH4/fjXzHCZ15CzavtGjHtKBC/1mXIuezfjhMOqNJObXoL8G4xBb/esfjONQcR+wIw6RJrUMRmLnu1C1fX/JrZS8z6tgME+Hws40CmtZvvAVnX91TB8zB7tBa/4HUynGHuqzkCBb3dERlTy4tr1ebA9SodjQZK74yXfKQ1QQYkZXBf15jKiyUZjsisMTGgYKUW/pX+mZzPc///FL2JCIAr73PLooCEhYEUeZVfmhl6tudssq13YvNWBIDqnIEnltFjAWjG5RFIaEDsCPpscUc87aEdb/VRX/iM/k+s0XfCZp9XqouIVo1EDYeWkXTcrEmvgPa3M/Gvn+PboLH1rbeyhWrGho+nu3XXsdJU6J8oKCwBM7oRMdLyIRgAhKMU0d4wwd4vkROC06haC/JEAAhHAlOPiuMuSR8dgz5HCN7BeLQNl1X+v510+fqne4Kf6zhMAHdwjo2CeaZiJCkOu67A==;b3SryPcbyXgP3QAfrTqbzA=="

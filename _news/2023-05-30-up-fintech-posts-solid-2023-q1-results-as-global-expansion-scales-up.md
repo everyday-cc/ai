@@ -39,6 +39,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Africa Fintech Summit: AWS announces the 25 startups selected for its first 'fintech in Africa' accelerator"
+    excerpt: "Over 90% of startups we know created their Minimum Viable Product (MVP) on AWS. Products like Compute, Amazon SageMaker among others help them to build fast-scaling products that VCs like us love to back. We are excited to provide our expertise to young ..."
+    publishedDateTime: 2023-06-01T13:08:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59236812-africa-fintech-summit-aws-announces-the-25-startups-selected-for-its-first-fintech-in-africa-accelerator-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 1
 
 secured: "FEgv0gqHRxqNy/LSy74QxCuk35UAx9J2WJPOiRagYIAkOczeAppatU/gixrZdoX82wDqx7CjXpRk+DoaOYuk8fqNZZZuqgkcSqolUehzf9z/MBOE3bmSGeQHMwYLWlonpgEZVx5WgyIt0wX/hTLgFZCaAa9e9Pn2OM1nsUtX8jd/Tr0c16uS8+SZjlwS6ak6KwPIXgOnJ2BYSps7M5wOxjU8HYGyvsp2qdel7BizLNE2KJT/de3RV5JANFKpdx3UjtKFZ32Qo7+gvPboq+FvH2KjR3A33QYd5dHIEj0mnh3sDOKwLaXDj06pt84hL8SBk6hodWgP064JwJrTYEcWahGjd+LN3ZVtUoeN2n3HZ30=;yulNpSGSDnkIFgsUqR6O3A=="
 ---

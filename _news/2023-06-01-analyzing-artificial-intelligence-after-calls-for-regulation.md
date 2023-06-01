@@ -111,6 +111,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "ArteraAI Presents New Data Validating AI-Derived Predictive Biomarker at 2023 ASCO Annual Meeting"
+    excerpt: "ArteraAI, the developer of multimodal artificial intelligence-based predictive and prognostic cancer tests, announces new data validating a multimodal AI-derived predictive biomarker, which has been selected as an oral presentation at the 2023 ASCO annual meeting."
+    publishedDateTime: 2023-06-01T13:01:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/arteraai-presents-new-data-validating-ai-derived-predictive-biomarker-at-2023-asco-annual-meeting/article_1d4033b9-b457-503b-904b-003d97c6b125.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 6
   - title: "Thematic’s Leading AI-Driven Platform Incorporates Generative AI, Embracing Large Language Models for Customer Feedback Analysis"
     excerpt: "Global feedback analytics leader levels up its own proprietary AI algorithm with the latest large language models to deliver the most thorough, transparent customer feedback insights for clients."
     publishedDateTime: 2023-05-30T11:14:00Z

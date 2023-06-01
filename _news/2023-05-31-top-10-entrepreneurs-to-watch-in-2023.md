@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Five ways enterprises can stop synthetic identity fraud with AI"
+    excerpt: "How AI gives analysts insights and delivers more accuracy and real-time latency to stop potential synthetic identity fraud before it happens."
+    publishedDateTime: 2023-06-01T14:03:00Z
+    webUrl: "https://venturebeat.com/security/five-ways-enterprises-can-stop-synthetic-identity-fraud-with-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-155354133-e1666657794715.jpg?w=1200&strip=all"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "LMWA6xvzjzQ9tJubO0XFmYqNRBQep1vmG2xoeVBVXi+1IiUjTyQNJyIBAEA/9+NTLWF9uVJBKbrtYD71heMhvQHHLme4vh/VQIhi2ticGDjTk+9XWcNYZfInFRyDJ0dvo3i/UEL9BAx9taipyFxaD4kv82r4OaWSxkyr7u6KH7UTa4bleTv7GFZeG1e1BDzT6Qd4Oso/mdCEivnV8ZfNts4Su1zbooc9FuTlRsboN1ozeyHSWcd5HJ8sWkHd0Bcvkvh+me+Saqk10l0ucBUEriywWRuDc6aX/aTOqCpofFIfsUvTW4B+I+0Bi1Q0f8bOqDuS+savsk1/lpcIi4yZaqMQrh3YUoRilnLnWXrdG80VwctTKQyQ+t1/20Uo12CCsQRBt/MhJ3nUI8t32Z95BUEq1eXtzlzt1LMtRAGC4iMdpKRC/gMx42o/UGHbXK7CyvgsbcOEFSv3iva91eSxs3gbDrN2K2zNcRaWRPC0lWk9R92eGy+Ex6e3RRShS8ij9Jv/zqyXjZtud1bROqvMTw==;cV/i7tgGrpLj5z2OVpDsGQ=="
 ---

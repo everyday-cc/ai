@@ -335,20 +335,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
-  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-    excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
-    publishedDateTime: 2023-05-31T12:32:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692579"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 49
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_54ea8aadc60d1503e5a65878219aad43_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "AI leaders warn the technology poses 'risk of extinction' like pandemics and nuclear war"
     excerpt: "\"Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war,\" said the one-sentence statement released by the San Francisco-based nonprofit Center for AI Safety."
     publishedDateTime: 2023-05-30T19:55:00Z
@@ -464,6 +450,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
+    excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
+    publishedDateTime: 2023-05-31T12:32:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692490"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 29
   - title: "AI could make humans extinct, say top experts and CEOs in stark warning"
     excerpt: "Surprisingly, however, that latter view is shared by many leading experts in artificial intelligence – including the CEOs of both OpenAI and Google DeepMind … It’s the sort of statement you’d normally expect from conspiracy theorists living in ..."
     publishedDateTime: 2023-05-30T12:54:00Z
@@ -508,6 +503,15 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
+    quality: 17
+  - title: "AI: Is there a risk of human extinction?"
+    excerpt: "Artificial intelligence could lead to extinction, experts warn"
+    publishedDateTime: 2023-06-01T13:19:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p0frnnsd"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
     quality: 17
   - title: "Artificial intelligence threatens extinction, experts say in new warning"
     excerpt: "Sam Altman, CEO of ChatGPT maker OpenAI, and Geoffrey Hinton, a computer scientist known as the godfather of artificial intelligence, were among the hundreds of leading figures who signed the statement,"
