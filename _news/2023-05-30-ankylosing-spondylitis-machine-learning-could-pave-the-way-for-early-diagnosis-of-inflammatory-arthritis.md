@@ -1,31 +1,23 @@
 ---
 category: news
-title: "Ankylosing spondylitis: Machine learning could pave the way for early diagnosis of inflammatory arthritis"
-excerpt: "Ankylosing spondylitis (AS) is the second most common type of inflammatory arthritis, often affecting teenagers and young adults. Symptoms of AS can include back pain, stiffness, joint inflammation (arthritis),"
-publishedDateTime: 2023-05-30T14:40:00Z
-originalUrl: "https://medicalxpress.com/news/2023-05-ankylosing-spondylitis-machine-pave-early.html"
-webUrl: "https://medicalxpress.com/news/2023-05-ankylosing-spondylitis-machine-pave-early.html"
-ampWebUrl: "https://medicalxpress.com/news/2023-05-ankylosing-spondylitis-machine-pave-early.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-05-ankylosing-spondylitis-machine-pave-early.amp"
+title: "Ankylosing spondylitis: machine learning could pave the way for early diagnosis of inflammatory arthritis"
+excerpt: "Unfortunately, diagnosing AS can be a lengthy process, taking up to ten years from the onset of symptoms and usually requiring X-rays. The slow progression of the condition, coupled with the lack of a definitive test, contributes to these delays."
+publishedDateTime: 2023-05-30T11:37:00Z
+originalUrl: "https://theconversation.com/ankylosing-spondylitis-machine-learning-could-pave-the-way-for-early-diagnosis-of-inflammatory-arthritis-203786"
+webUrl: "https://theconversation.com/ankylosing-spondylitis-machine-learning-could-pave-the-way-for-early-diagnosis-of-inflammatory-arthritis-203786"
 type: article
-quality: 42
-heat: 42
+quality: 2
+heat: 2
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ankylosing-spondylitis.jpg"
-    width: 1356
-    height: 668
-    isCached: true
-
-secured: "aXcCValpmIqxCq0jOSmIsndJzNAjhtNUGXuXSPwd/RBTHW9QPz+7PwoQYpLuukTGUzyPki1FxZdLcnJl1H7HBDT3UDbSxN0OMW3Ghb/tPGyoVdOZ4hNEv5GCg0evI2FDL21/UORDDZ/FNV0mwdAEH+e1x3xQ6DkNvtfd5rAVswCHsl2rUdNsjXw683Iu+T+LkdPcAGFZEQBrKiwSjI+I08CL5pjwq78fVeneNxL2ENCcDYUYVogdgYGuFabcHW+uGtaq3JcL5/ELZdv1VKE0rbEyL6HUB0RFhhYH6Na1KiCUEfUHm0VqcJaKfwEnxdw8HRGi4ELcO+aT/Knm7tVrNiDzy9IDG+u74VsBfAvAPYM=;YobGKxbCE7Ec+WTyySiwrQ=="
+secured: "Y2l0bkY8m9h1qX1+0wLd+PbaAdXeoZ7osesyCQ2BgLyPgjRBJOFjTxJh5dhYqCklVSaygMAD9xTQVo6qsjdatRHmt4HUte0F4DtyJu3xt5ir6ln2hy6X50/lttsXb2cFKAUZuCd9S1P0wcLuUteJxTgVEX8Ig2HshVcQ6D4AkcwazhGn2R5p53WaXXd4/uSl9IQUI8dJZNmn28XqHnczGBxYlPvUuIOV2ARttNMAUGCrWppMIhN90JqhIil8c3vqqPnT7ErPZDz0HDrcl7BY0PCuCKrRDMrIOSb0Y2DFHEx8r1objdY9dFQQaoQ/0ItLeOfR6kmmWjUZrd1uHbSdWyVyMtN7oUJqzIyrQEbxZr3+S9QJm5zv6ikKV45MKm5D9LTyHt8SrkM5XiDcpM3ypNorBuuRk5i9loRY5Jcx8h3rUgK8OarXQV7SrAzQDdDTSEDO+z7KmMuPyA79+9TbpfgAdWkvTOmor+zmB/UQ1QmbuBxuJ7lXQH8JwcRvOnEciO20jgKuSQz7SIqbaIivxg==;qDJvI9GqWuaHs6U87l8Rgw=="
 ---
 

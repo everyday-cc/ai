@@ -37,6 +37,15 @@ related:
         width: 1200
         height: 757
         isCached: true
+  - title: "2 Things Enterprises Get Right About AI, and 1 Thing They Get Wrong"
+    excerpt: "Artificial Intelligence (AI) is having a profound impact on the way enterprises across the globe do business, and it's only continuing to grow. That's unsurprising, as companies across all industries leverage AI as a tool to cut costs,"
+    publishedDateTime: 2023-06-01T19:03:00Z
+    webUrl: "https://www.inc.com/sarvarth-misra/2-things-enterprises-get-right-about-ai-1-thing-they-get-wrong.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "FpusQaEnVOAiY/WefXFK0/ltZVAjgU1hsvQtehdYl1TZtOvPM8U5HT3f4nge0wPnnnsI9QLGdaybFH2h/ZDj902mnWR2N1QG4BXQyOwaFayIfi3GaeFBZNhgOhlMJMYkqWoFhidFCndYbBWAgDMqL7npZ8MX60RrQZauAcUHrhaFWS8MzcOLfSQ8qLHuqNOqInT8d0Yuwy4k3Onnb56WnDUDqwTNGeMmEHbsn0c/UbhRyULqETy5BbZrksV6GSVT60Fbnjg27T3WhL+OwX2JeVf1brflZjFifuDvTLebfjsbpLCzheucYtQ/jR8m4MA5u12HQe78HqUCR8cJ5CbalQr9uWkoyo0XbIo7seZq3FSZMfsvtIBI/yHSd1wZWcB8g/+b5DGBygGj32T0veRdkZyNzNUPyCJFpJ7e7MLX08ev20nTxvFr/eIBWbCWItsOLpg8GdEU7THcv9gK3eaq2xYy3AOrirgQjrfFeLVFEl2bv6Q4krnOH7MsAlyPgGE2zBMu2nWmWrVpor7t+iph6Q==;x6grPVZC+hPGNegMSbwvfQ=="
 ---

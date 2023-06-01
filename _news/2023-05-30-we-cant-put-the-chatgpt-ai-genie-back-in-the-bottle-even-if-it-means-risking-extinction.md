@@ -163,15 +163,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
-  - title: "South Korea’s Naver to target foreign governments with latest ChatGPT-like AI model"
-    excerpt: "South Korea’s Naver to target foreign governments with latest ChatGPT-like AI model on linkedin (opens in a new window)"
-    publishedDateTime: 2023-05-28T04:01:00Z
-    webUrl: "https://www.ft.com/content/8c9a2842-ff01-46aa-a82b-1b46342264f6?shareType=nongift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 11
 
 secured: "G7/LyCufcUYMjV/FwuJAdL4baFpfWO8/roOu17RDxE5kv8d/6j0G+xI6mgaB3BH645jA9XrddT7jH2qVfIetjnpjo26Lch5Qh3WjZs10OmRTY5OiaF9WpPAY67ATvCouQVX87seF9LE7vIiBTvinCVBR6oxMK7O4EO6A4so5+ynRze8RgJGq3M6Kg8FPtSTcIvThYb2dhq9gYbkkqqGVn4rMmEOmZoskdKD7JHCD1L2sEoFn9Ai3I9SdgTuPoAzIGE43WcZLPpt6566Ku2Smp+05RrWXABAx8uQLnpQkIm5usbma+9yJ7Zudpc7ywawspmoZaVQ7U88ynUN05m45G/DpkGDfW9OQFxFO5Isi4aqkOYQwj6Pum9qN2RYJrnb4jMySzoyULMQGgFOat5XuA664mbhaax3gNZNX1datBokmIPAikpRWQ/SSIcB/ZgIBhdDVZJ7Jir60GM4zpI9SjJ9wnyvW8GPqqnNN+RCBdCgETLdQ2Z7q4NtJ17dsSAPH7AYtZBQafTlvVw2SjRbdoA==;VgRqqcPIKgA7tQAX+xOvkw=="
 ---

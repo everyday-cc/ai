@@ -102,6 +102,15 @@ related:
         width: 1024
         height: 506
         isCached: true
+  - title: "Implement a multi-object tracking solution on a custom dataset with Amazon SageMaker"
+    excerpt: "The demand for multi-object tracking (MOT) in video analysis has increased significantly in many industries, such as live sports, manufacturing, and traffic monitoring. For example, in live sports, MOT can track soccer players in real time to analyze physical performance such as real-time speed and moving"
+    publishedDateTime: 2023-06-01T18:19:35Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/implement-a-multi-object-tracking-solution-on-a-custom-dataset-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 62
   - title: "Analyze Amazon SageMaker spend and determine cost optimization opportunities based on usage, Part 2: SageMaker notebooks and Studio"
     excerpt: "In 2021, we launched AWS Support Proactive Services as part of the AWS Enterprise Support offering. Since its introduction, we have helped hundreds of customers optimize their workloads, set guardrails, and improve the visibility of their machine learning (ML) workloads’ cost and usage. In this series"
     publishedDateTime: 2023-05-30T16:50:06Z

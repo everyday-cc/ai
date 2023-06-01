@@ -2,6 +2,551 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-27-opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems.md",
+      "title": "Opinion: Stop the robot takeover: How AI advancement can pose problems",
+      "excerpt": "Pospisil explains that most jobs robots will take over are automated. They still cannot compare to a human’s ability to adapt or critical thinking skills in more specialized jobs not having to do with Ford production. In short, they won’t replace us in the job market because they’re missing a human element.",
+      "sourceUrl": null,
+      "webUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/",
+      "originalUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/01/Screenshot-2023-01-28-11.17.25-PM.png?fit=361%2C240&ssl=1",
+          "width": 361,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/amp/",
+      "cdnAmpWebUrl": "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/amp/",
+      "publishedDateTime": "2023-05-26T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-workplace-ai-how-artificial-intelligence-will-transform-the-workday.md",
+      "title": "Workplace AI: How artificial intelligence will transform the workday",
+      "excerpt": "Artificial intelligence has been around for years, but scarcely has it found itself in conversation as much as it has now. The launch of OpenAI’s ChatGPT rocketed generative AI onto the radar of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday",
+      "originalUrl": "https://www.bbc.com/worklife/article/20230515-workplace-ai-how-artificial-intelligence-will-transform-the-workday",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ychef.files.bbci.co.uk/live/624x351/p0fnfjfy.jpg",
+          "width": 624,
+          "height": 351,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-26T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-ai-is-becoming-the-stock-markets-answer-to-everything.md",
+      "title": "AI Is Becoming the Stock Market’s Answer to Everything",
+      "excerpt": "Rarely does a tech-powered stock rally come along that isn’t pilloried for the fragility of its foundation. Now, with a snowballing craze for artificial intelligence pretty much propping up the market by itself,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-26/ai-oligarchy-becoming-the-stock-market-s-answer-to-everything",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-26/ai-oligarchy-becoming-the-stock-market-s-answer-to-everything",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD7jl4MGgd9k/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-26T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference.md",
+      "title": "Qatar to hold 2nd edition of Fintech Finance Technologies Conference",
+      "excerpt": "The State of Qatar will convene the 2nd edition of Fintech Finance Technologies Conference on May 31, with the participation of several international bodies, banks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference",
+      "originalUrl": "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gulf-times.com/gulftimes/uploads/images/2023/05/26/34940.jpg",
+          "width": 1000,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference/amp",
+      "cdnAmpWebUrl": "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference/amp",
+      "publishedDateTime": "2023-05-26T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf Times",
+        "domain": "gulf-times.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-h2oai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services.md",
+      "title": "H2O.ai Recognized as a Visionary in the 2023 Gartner® Magic Quadrant™ for Cloud AI Developer Services",
+      "excerpt": "“We believe H2O AI Cloud is one of the best autoML and enables organizations to build predictive models and gain insights from their data quickly and easily. “As a community powered organization, our grassroots movement to democratize AI has led us to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/h2o-ai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services/",
+      "originalUrl": "https://www.01net.it/h2o-ai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-26T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-what-you-need-to-know-about-ai-etfs.md",
+      "title": "What You Need to Know About AI ETFs",
+      "excerpt": "BOTZ aims to provide investment returns that generally correspond to performance of the Indxx Global Robotics & Artificial Intelligence Thematic Index (before fees and expenses), Global X says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thinkadvisor.com/2023/05/26/what-you-need-to-know-about-ai-etfs/",
+      "originalUrl": "https://www.thinkadvisor.com/2023/05/26/what-you-need-to-know-about-ai-etfs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2022/02/2022-2-22-artificial-intelligence_Adobe-Stock_640x640_peshkov.jpg",
+          "width": 640,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-26T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Think Advisor",
+        "domain": "thinkadvisor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-h2oai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services.md",
+      "title": "H2O.ai Recognized as a Visionary in the 2023 Gartner® Magic Quadrant™ for Cloud AI Developer Services",
+      "excerpt": "The AI cloud leader, H2O.ai, announced it has been named a Visionary in the 20223 Gartner Magic Quadrant for Cloud AI Developer Services. \"H2O.ai is excited to be recognized by Gartner to be the only Visionary in the 2023 Magic Quadrant for Cloud AI Developer Services,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/05/26/9821977.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/05/26/9821977.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-26T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says.md",
+      "title": "Stock market’s AI frenzy reinforces this crucial rule for traders, RenMac says",
+      "excerpt": "A mind-blowing Thursday surge by shares of chip maker Nvidia Corp. that fed a frenzy for artificial ... the 50-day moving average falls below the 200-day moving average. And the AI rally has some market watchers pondering if another bubble may be in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
+      "originalUrl": "https://www.marketwatch.com/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-789668/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
+      "publishedDateTime": "2023-05-26T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position.md",
+      "title": "How ChatGPT Is Reshaping The C-Suite, With New AI Leadership Position",
+      "excerpt": "A stunning forecast from the chipmaker - whose silicon solutions are powering the future with artificial intelligence (AI) chips - pushed the company’s stock up 24%. The company forecast revenue that was 50% higher than estimates, according to Reuters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/",
+      "originalUrl": "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 331,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6470b943b202b5301a9d86b2/0x0.jpg?format=jpg&crop=3250,1523,x0,y6,safe&width=1200",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/amp/",
+      "publishedDateTime": "2023-05-26T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-aiml-considerations-of-healthcares-new-frontier.md",
+      "title": "AI/ML: Considerations of Healthcare’s New Frontier",
+      "excerpt": "Artificial Intelligence (AI) and Machine Learning (ML) is bringing healthcare into a new frontier with vast potential to improve clinical outcomes, manage resources, and support therapeutic development. They also raise ethical, legal, and operational ...",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2023/05/ai-ml-considerations-of-healthcares-new-frontier/",
+      "originalUrl": "https://medcitynews.com/2023/05/ai-ml-considerations-of-healthcares-new-frontier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2021/03/GettyImages-1206796363.jpg",
+          "width": 810,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-26T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-marvell-technology-stock-jumps-as-chip-stocks-keep-rising.md",
+      "title": "Marvell Technology Stock Jumps as Chip Stocks Keep Rising",
+      "excerpt": "A day after optimism about the future for AI led shares of Nvidia higher, Marvell Technology stock is making its big move with chip stocks continuing to climb. The stock was recently up more than 27%,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-26-2023/card/marvell-technology-stock-jumps-as-chip-stocks-keep-rising-z6xLa5PPADAItygaUQPj",
+      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-26-2023/card/marvell-technology-stock-jumps-as-chip-stocks-keep-rising-z6xLa5PPADAItygaUQPj",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-789639?width=600",
+          "width": 600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-26T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-microsoft-powered-ai-chatbot-jugalbandi-is-here-all-you-need-to-know.md",
+      "title": "Microsoft-powered AI chatbot ‘Jugalbandi’ is here. All you need to know",
+      "excerpt": "The made in India Artificial intelligence chatbot currently understands 10 of the 22 official Indian languages and covers 171 government programs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/technology/jugalbandi-microsoft-ai-chatbot-features-open-source-language-technology-news-ai4bharat-project-101685111840575.html",
+      "originalUrl": "https://www.hindustantimes.com/technology/jugalbandi-microsoft-ai-chatbot-features-open-source-language-technology-news-ai4bharat-project-101685111840575.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hindustantimes.com/ht-img/img/2023/05/26/1600x900/jugalbandi_ai_chatbot_microsoft_1685113035503_1685113045220.PNG",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/technology/jugalbandi-microsoft-ai-chatbot-features-open-source-language-technology-news-ai4bharat-project-101685111840575-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/jugalbandi-microsoft-ai-chatbot-features-open-source-language-technology-news-ai4bharat-project-101685111840575-amp.html",
+      "publishedDateTime": "2023-05-26T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-26-ai-stocks-are-soaring-but-average-investors-arent-yet-rushing-in.md",
       "title": "AI stocks are soaring but average investors aren’t yet rushing in",
       "excerpt": "Debt-ceiling angst is battling with AI euphoria to leave the Wall Street barometer in the doldrums — bobbing near the top of a channel it has held all year. ‘Neutral’ is thus the apposite new rating for U.",
@@ -609,589 +1154,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-nvidia-the-chip-maker-that-became-an-ai-superpower.md",
-      "title": "Nvidia: The chip maker that became an AI superpower",
-      "excerpt": "Jensen Huang, now the chief executive of Nvidia, was one of its founders back in 1993. Then, Nvidia was focused on making graphics better for gaming and other applications. In 1999 it developed GPUs to enhance image display for computers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/business-65675027",
-      "originalUrl": "https://www.bbc.co.uk/news/business-65675027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/0784/production/_129842910_jensen_huang-extended.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/business-65675027.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65675027.amp",
-      "publishedDateTime": "2023-05-25T16:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-microsoft-rains-more-machine-learning-on-azure-cloud.md",
-      "title": "Microsoft rains more machine learning on Azure cloud",
-      "excerpt": "Microsoft made sure to include Azure in the AI-fest that was the Build 2023 developer conference this week. As enterprises consider experimenting with or deploying generative AI, they may well look to public clouds and similar scalable compute and storage infrastructure to run things like large-language models (LLMs).",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2023/05/25/microsoft_azure_ai_cloud/",
-      "originalUrl": "https://www.theregister.com/2023/05/25/microsoft_azure_ai_cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-hands-on-with-magic-compose-the-ai-generating-messages-tool.md",
-      "title": "Hands-on with Magic Compose, the AI-generating Messages tool",
-      "excerpt": "I've had some time to play with an early version of Magic Compose, which uses AI to create texts in Messages. It's fun, but unreliable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/magic-compose-experience-3329552/",
-      "originalUrl": "https://www.androidauthority.com/magic-compose-experience-3329552/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2022/04/Google-Messages-SMS-stock-photo-9.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds.md",
-      "title": "This new AI tool will summarize YouTube videos for you in seconds",
-      "excerpt": "The Eightify Chrome extension uses GPT technology to help you cut straight to the main points of any YouTube video.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/",
-      "originalUrl": "https://www.zdnet.com/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5fe72c33f5b53dda3b2c91139d511c53774776a6/2023/05/25/9ab9c403-1132-4194-ba59-922071931410/screenshot-2023-05-25-at-4-00-28-pm.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/",
-      "publishedDateTime": "2023-05-25T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-marvell-technology-shares-pop-14-on-ai-lifts-chip-makers.md",
-      "title": "Marvell Technology Shares Pop 14% on AI Lifts Chip Makers",
-      "excerpt": "\"While we are still in the early stages of our AI ramp, we are forecasting our AI revenue in fiscal ... Shares of Nvidia rocketed Thursday as the graphics-chip maker said the rise of language-generating tools such as OpenAI's ChatGPT and other artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/marvell-technology-shares-pop-14-on-ai-lifts-chip-makers-74001f2e",
-      "originalUrl": "https://www.marketwatch.com/story/marvell-technology-shares-pop-14-on-ai-lifts-chip-makers-74001f2e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/marvell-technology-shares-pop-14-on-ai-lifts-chip-makers-74001f2e",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/marvell-technology-shares-pop-14-on-ai-lifts-chip-makers-74001f2e",
-      "publishedDateTime": "2023-05-25T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-openai-offers-100000-grants-for-ideas-on-ai-governance.md",
-      "title": "OpenAI offers $100,000 grants for ideas on AI governance",
-      "excerpt": "OpenAI, the startup behind the popular ChatGPT artificial intelligence chatbot, said Thursday it will award 10 equal grants from a fund of $1 million for experiments in democratic processes to determine how AI software should be governed to address bias and other factors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/openai-offers-100000-grants-ideas-ai-governance-2023-05-25/",
-      "originalUrl": "https://www.reuters.com/technology/openai-offers-100000-grants-ideas-ai-governance-2023-05-25/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/iqo4WxdERy47YkN_PHWL63ghNJw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OUXSPAPPUVK27H6RHKQWKLT4VI.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-google-ads-will-be-customized-for-you-using-generative-ai.md",
-      "title": "Google ads will be customized for you using generative AI",
-      "excerpt": "Lastly, Google is incorporating generative AI in Performance Max ad campaigns to assist businesses in the creation of custom assets. This feature will also be available in the new conversational experience in Google Ads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-ads-will-be-customized-for-you-using-generative-ai/",
-      "originalUrl": "https://www.zdnet.com/article/google-ads-will-be-customized-for-you-using-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/595592365669c10c08c153f2f6c05df497259108/2023/05/25/20c009a8-9562-4440-a1b3-153663f9f92f/screenshot-2023-05-25-at-11-28-10-am.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-ads-will-be-customized-for-you-using-generative-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ads-will-be-customized-for-you-using-generative-ai/",
-      "publishedDateTime": "2023-05-25T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-scientists-use-ai-to-discover-new-antibiotic-to-treat-deadly-superbug.md",
-      "title": "Scientists use AI to discover new antibiotic to treat deadly superbug",
-      "excerpt": "AI used to discover abaucin, an effective drug against A baumannii, bacteria that can cause dangerous infections",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/may/25/artificial-intelligence-antibiotic-deadly-superbug-hospital",
-      "originalUrl": "https://www.theguardian.com/technology/2023/may/25/artificial-intelligence-antibiotic-deadly-superbug-hospital",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e3742a9a99450fcce971220af793a15e6e951b69/0_413_5500_3300/master/5500.jpg?width=620&quality=85&auto=format&fit=max&s=76edd5356118df70d34bff24513a693f",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/may/25/artificial-intelligence-antibiotic-deadly-superbug-hospital",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/25/artificial-intelligence-antibiotic-deadly-superbug-hospital",
-      "publishedDateTime": "2023-05-25T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-nasdaq-jumps-on-ai-optimism-dow-drops-on-debt-ceiling-angst.md",
-      "title": "Nasdaq jumps on AI optimism, Dow drops on debt ceiling angst",
-      "excerpt": "U.S. stocks were trading mostly higher on Thursday as Nvidia Corp.'s earnings report sent shares of the chip maker soaring and the broader Nasdaq along",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1?mod=joseph-adinolfi",
-      "originalUrl": "https://www.marketwatch.com/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1?mod=joseph-adinolfi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-610305/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-surge-boosts-nasdaq-futures-while-debt-ceiling-debacle-damps-dow-1a048cf1",
-      "publishedDateTime": "2023-05-25T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-the-impact-of-ai-on-company-culture-and-how-to-prepare-now.md",
-      "title": "The Impact Of AI On Company Culture And How To Prepare Now",
-      "excerpt": "Your company’s culture will impact how quickly and successfully an organization can adopt AI. Done well, AI can actually improve company culture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/larryenglish/2023/05/25/the-impact-of-ai-on-company-culture-and-how-to-prepare-now/",
-      "originalUrl": "https://www.forbes.com/sites/larryenglish/2023/05/25/the-impact-of-ai-on-company-culture-and-how-to-prepare-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646e18456276933948a62c39/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/larryenglish/2023/05/25/the-impact-of-ai-on-company-culture-and-how-to-prepare-now/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/larryenglish/2023/05/25/the-impact-of-ai-on-company-culture-and-how-to-prepare-now/amp/",
-      "publishedDateTime": "2023-05-25T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-how-to-use-wordtune-ai-to-rewrite-texts-on-your-iphone.md",
-      "title": "How to use Wordtune AI to rewrite texts on your iPhone",
-      "excerpt": "This iOS app can generate simple messages and emails, photo captions, LinkedIn or Twitter posts, cover letters, blog posts, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-to-use-wordtune-ai-on-your-iphone-to-generate-content/",
-      "originalUrl": "https://www.zdnet.com/article/how-to-use-wordtune-ai-on-your-iphone-to-generate-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/518b7ec6aaad54897cb463a0bb0d677f6062f319/2023/05/25/63011c31-baf3-4366-971b-6170fc02b7cb/gettyimages-1383931877.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-use-wordtune-ai-on-your-iphone-to-generate-content/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-wordtune-ai-on-your-iphone-to-generate-content/",
-      "publishedDateTime": "2023-05-25T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-robots-and-rights-confucianism-offers-an-alternative.md",
-      "title": "Robots and rights: Confucianism offers an alternative",
-      "excerpt": "Philosophers and legal scholars have explored significant aspects of the moral and legal status of robots, with some advocating for giving robots rights. As robots assume more roles in the world, a new analysis reviewed research on robot rights,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-05-robots-rights-confucianism-alternative.html",
-      "originalUrl": "https://techxplore.com/news/2023-05-robots-rights-confucianism-alternative.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-robot.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-05-robots-rights-confucianism-alternative.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-robots-rights-confucianism-alternative.amp",
-      "publishedDateTime": "2023-05-25T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

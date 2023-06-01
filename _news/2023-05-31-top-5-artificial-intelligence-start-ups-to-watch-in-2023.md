@@ -44,6 +44,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI startup C3.ai’s stock plunges 22% after softer revenue guidance"
+    excerpt: "Shares of white-hot Ai startup C3.ai Inc., which had been hurtling toward record highs earlier this week, took an abrupt U-turn Wednesday. The company’s stock AI, -13.22% skidded 14% in after-hours trading in the minutes leading up to its quarterly financial results."
+    publishedDateTime: 2023-06-01T11:53:00Z
+    webUrl: "https://www.marketwatch.com/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 87
+    images:
+      - url: "https://images.mktw.net/im-789589/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "3 artificial intelligence share ideas"
     excerpt: "Investing in artificial intelligence (AI) has become a key stock market theme in 2023. Here are three share ideas that could benefit."
     publishedDateTime: 2023-06-01T16:23:00Z

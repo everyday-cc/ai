@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-xgb
 webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-xgboost-now-offers-fully-distributed-gpu-training/"
 type: article
 quality: 121
-heat: 201
+heat: 211
 published: true
 
 provider:
@@ -95,6 +95,15 @@ related:
         width: 1024
         height: 506
         isCached: true
+  - title: "Implement a multi-object tracking solution on a custom dataset with Amazon SageMaker"
+    excerpt: "The demand for multi-object tracking (MOT) in video analysis has increased significantly in many industries, such as live sports, manufacturing, and traffic monitoring. For example, in live sports, MOT can track soccer players in real time to analyze physical performance such as real-time speed and moving"
+    publishedDateTime: 2023-06-01T18:19:35Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/implement-a-multi-object-tracking-solution-on-a-custom-dataset-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 62
   - title: "Configure and use defaults for Amazon SageMaker resources with the SageMaker Python SDK"
     excerpt: "The Amazon SageMaker Python SDK is an open-source library for training and deploying machine learning (ML) models on Amazon SageMaker. Enterprise customers in tightly controlled industries such as healthcare and finance set up security guardrails to ensure their data is encrypted and traffic doesn’t"
     publishedDateTime: 2023-05-31T18:35:17Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/05/openai-execs-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/amp/"
 type: article
 quality: 95
-heat: 475
+heat: 495
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://img.huffingtonpost.com/asset/6476033f2400001a00f79e46.jpg?cache=G4PHmwP461&ops=1200_630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "OpenAI found a way to make AI models more logical and avoid hallucinations"
+    excerpt: "The creation of false information has led to widespread concerns about the dissemination of misinformation and its potential negative consequences. In a new research post, OpenAI shares that it may have found a way to make AI models act more logically and avoid hallucinations."
+    publishedDateTime: 2023-06-01T21:33:00Z
+    webUrl: "https://www.zdnet.com/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/dd3e7e04d52ada5ef30e6114a2d7e5e1747c90fd/2023/06/01/2df7ccbe-245b-426a-95df-d9ec5ff9cad3/gettyimages-1460653515.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "AI extinction risk warning backed by OpenAI, DeepMind chiefs"
     excerpt: "Explore the debate on AI's potential threat to humanity, featuring experts from OpenAI, Google DeepMind, and more discussing extinction risks and solutions."
@@ -526,6 +542,15 @@ related:
       name: Houston Chronicle
       domain: chron.com
     quality: 16
+  - title: "‘Mitigating the risk of extinction’: As the capabilities of artificial intelligence grow, so do calls for regulation"
+    excerpt: "The Center for AI Safety released a statement earlier this week signed by a group of leaders in artificial intelligence about the technology’s risks: “Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks,"
+    publishedDateTime: 2023-06-01T18:53:00Z
+    webUrl: "https://www.texasstandard.org/stories/ai-artificial-intelligence-dangers-deep-fakes-chatgpt-mitigating-risk-exctinction-statement-regulation/"
+    type: article
+    provider:
+      name: Texas Standard
+      domain: texasstandard.org
+    quality: 0
 
 secured: "CVv4p4tYJ4ctlej6uGlxIiT0L11U5eMu+0KDd950iOk0he9+0is0rm15wIxTAy3/BLXedQWqjmvEAJxk8FwRstSmCfwvPV9+TohheGOVm8PbJbxIurIwWQ3nh8DUHqpa2zuXiFYECwwDwiveWQB0Mpk1jV4arcX88L2idZV3OViKZTedSk5+tXkPg50PEj4V5KStVSaIIUQ1Elk7fu42ekgl/W2I5wYUaTd+2poaj9A+G1MTGvNaaMmeJxBMDWpLeDLXmkRO8vrV84U+KvATfEVTE5mRkKMMsUKSZPbdiUHSairky/w2VeWhX/qpni+NydbpZVrrm3YVOKGOatjSlHDBTS2OLDd5FugkUn/11XydcFlJXlgKKzUwai77x3M3SgI+EfdCoPA0+PDWyxypqcNRXSRnS4UivH+bx4DRMRnzwAo5Vj3wpmE9VImkacXysjFAhhVWx9h7VR3tkn60XNQZ9mdHheNIRtFn1uw4dPN4efpAAkRqyP/FP5omLCDdAdi1mEy/H8I5n4eqjhnL+Q==;kMdif3A3/rNTbKjR4/Z9Bg=="
 ---

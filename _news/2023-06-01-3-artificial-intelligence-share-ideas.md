@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI startup C3.ai’s stock plunges 22% after softer revenue guidance"
+    excerpt: "Shares of white-hot Ai startup C3.ai Inc., which had been hurtling toward record highs earlier this week, took an abrupt U-turn Wednesday. The company’s stock AI, -13.22% skidded 14% in after-hours trading in the minutes leading up to its quarterly financial results."
+    publishedDateTime: 2023-06-01T11:53:00Z
+    webUrl: "https://www.marketwatch.com/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 87
+    images:
+      - url: "https://images.mktw.net/im-789589/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Top 5 Artificial Intelligence Start-ups to Watch in 2023"
     excerpt: "Founded in 2021 by former OpenAI researchers, Anthropic counts Google as a major investor. The Alphabet ( GOOG -0.63%) ( GOOGL -0.75%) subsidiary took a 10% stake earlier in 2023, and Anthopic has had multiple funding rounds this year. It was valued at $4.1 billion in March. It also counts Salesforce ( CRM 1.59%) and Zoom ( ZM -0.89%) as investors."
     publishedDateTime: 2023-05-30T20:30:00Z
@@ -56,6 +72,6 @@ related:
         height: 399
         isCached: true
 
-secured: "IAFHaO8o0dGpGgmYexPZrM5hfe3vh69PUc0bNtlMLcmrs15bVf9yiuLn2ZsF/y1JItp7TH9/uRpCBeCMDN/a9f3+QL7e9SpVgjUfh/9EnxNa4HU/y+UDAW+eQhSMDKufnbVQGTNEJrxYloQ0G5FnsudrfkkzK7qC1tf4+DTtE0pZqZiLiQc5Z3PqcDp6QEJ4p7xJPW6qdH2WDZUxrOp55lsFDevYFlm3ELfqLv8QJOMh7BP0NAqIgMjwOlwK1r2CeyD4t5ynihPX1NB64UtAJYj4R4ynB10IckJ4r9lWd952jAeFmLKHKNX54C/8ao4NkdDlhFF5TPdI0HJWrMBFFIeU349yH6hsvQv0V+v63a8=;KezA/5a/sMnafKUPyjL+aw=="
+secured: "aLpiqSCnLG5ct5zGnm6ffg8T5phZS+2PPXWk0VC6CesXGqS4e2Aj1CrPcoK4YLmmkdb9NJ27+Lx7IXO8IMnzOJ2DAtHBYHu6i4lToseerMemPHoZyI1rDzR/oInDWAyJTFajBciIEKQohZzIJ7EfHw3fr2g8vqlLA+ysynWL8jmMhveB4dkk2Xjrhpv4CiH+r6fU0OhXOmi+ARGxFlwCziLizAhL89DKR0ZAo2kK/w9zFkt4Zy6lEiZc1fjQagPSKs/KxTBoEog4T/gq4kFTWhi5H+nTrHAIXZ5qhFk7T0ebi1m/2Uc8egN1MEvb2rq09pq9agfnsQNZZt5syy1chGD5BHqinK+CjQdaPvGBoE3REc0Lk07bOuhIVlfrFLyO09Fo5ycvx2jPn6YtpXXoB05+udqIuoA1Jp5KYGNocSmMduTIltbzlypaTomf4ytyVOmSXEf88nnYSqhzOr/iskrbJ91tloeuiiCmQzf+orAw4fd1A1K8lhPR6V5+O3amRPjluznb4g9mhmYfIGrgzw==;fKQNv7/jNMO6HPhvjGwKBQ=="
 ---
 

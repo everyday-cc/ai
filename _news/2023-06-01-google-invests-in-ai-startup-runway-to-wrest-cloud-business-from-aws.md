@@ -39,6 +39,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "AWS announces the 25 startups selected for its first 'fintech in Africa' accelerator"
+    excerpt: "Cohort participants from Kenya, Nigeria, South Africa, Egypt, Ghana, Uganda, and Cameroon    Description: Sekai Ndemanga, Head of FinTech Venture Capital and Startup Business"
+    publishedDateTime: 2023-06-01T21:00:00Z
+    webUrl: "https://www.asiaone.com/business/aws-announces-25-startups-selected-its-first-fintech-africa-accelerator"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 32
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2023/pr-newswire_500_4_143.jpg?h=7de12b8a&itok=Ap2Qfkdg"
+        width: 600
+        height: 316
+        isCached: true
   - title: "Alchemist Accelerator loses new managing director to AI startup"
     excerpt: "Rachel Chalmers took over in September when founder Ravi Belani stepped down last fall. Here's why she's leaving to join an AI startup after helming Alchemist Accelerator for less than a year."
     publishedDateTime: 2023-05-30T18:09:00Z

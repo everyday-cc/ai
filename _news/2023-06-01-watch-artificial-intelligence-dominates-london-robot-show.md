@@ -28,20 +28,18 @@ images:
 
 related:
   - title: "AI dominates London Robot Show"
-    excerpt: "A quick lesson in artificial intelligence from Ameca who uses OpenAI’s ChatGPT-3 to respond to any question you might have – and can respond in any language.The robot is built by Engineered Arts, a UK-based company."
-    publishedDateTime: 2023-06-01T17:38:00Z
-    webUrl: "https://timesofindia.indiatimes.com/videos/international/ai-dominates-london-robot-show/videoshow/100685675.cms"
-    ampWebUrl: "https://m.timesofindia.com/videos/international/ai-dominates-london-robot-show/amp_videoshow/100685675.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/international/ai-dominates-london-robot-show/amp_videoshow/100685675.cms"
+    excerpt: "A quick lesson in artificial intelligence from Ameca who uses OpenAI’s ChatGPT-3 to respond to any question you might have – and can respond in any language. The robot is"
+    publishedDateTime: 2023-06-01T21:00:00Z
+    webUrl: "https://www.stltoday.com/news/ai-dominates-london-robot-show/video_f3c60698-28ff-545e-923c-7cade2415914.html"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 54
     images:
-      - url: "https://static.toiimg.com/photo/msid-100685675/videos/international/ai-dominates-london-robot-show.jpg"
-        width: 1280
-        height: 720
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/3c/f3c60698-28ff-545e-923c-7cade2415914/6479080b6c093.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Robotics and automation dialogue in London takes off with new conference"
     excerpt: "Secretary of State for Science, Innovation and Technology, Chloe Smith, spoke at Conference on Robotics and Automation held in London"
@@ -58,6 +56,6 @@ related:
         height: 1124
         isCached: true
 
-secured: "8+hUHjaStEQUmh+76scwgw1rv/hKwt+EW8eiwGk/bAkHW3zsA1tpvMAL8rAk4NS7nzmkDp61p3BLhYYESf76hDKj+eaX4himJrVu0cnui5wxqASbcpkEEkb5YmP1KBCBuCStULOLP6HgXJuibM7UwnT4gApSQjECYF9bWcSUgoEigAtMFJk4yWiyDd7ceuXHbVApNZuonSqIA5DQ+nv4d5DQ+4bBea+29Aq8OVB3hXbPM/uO1sC/FlvU0YbKXTLUjPZ1zwWsvKTm5/oYW0s183jdqIJ62cIrBPcjdLMLkx+nLIvC1WOO4gAlZRVUaVrnumHgLa4rXdpzzl2UmXoq+Q6gG9X0TJR9Io1DdSRShyM=;4nSqf/LuPPscsWcyz98iwQ=="
+secured: "yfmSTec3cJ2D5pPJAMhosDh9oxhj+Che7xFeEC6CHgAkDSCU1p9Eq5ix7g2eLG+eq9f5ZEDK2Kpa67XGEnIzqyz8N/86avBQT3Oqd8Vhj+WR4FqHCVlXcI+KhsBLgJYxaPlo5lxWJ5/mkNg0dhyJix8uyUtg77/V79dGxg5eAmq8mS9LV4e8AG4CXxLJ+v1ha/8RPQ1QE5GczNGwgJCwWzACSn9RVcth6zfaWSP2l4QZrsmizEd9FDIkL/L/p4bk1nf8UU77f+pJXvFuqomAZATeS4r+/ajUsE81Cw81gmd84BdETpgURp8TljmC9qWfAXoQv2Rpolcwb2sMEyWwCWDRdo4htGPtOzLWrBufrebYsvAzq8fTpL8STltLCiTbblCL+9oS5X/gpP+76KKz0ch1r3s31vHmEc/PFKwpi3bW1Jpn2EFl6mtA5HGfEXsdesIfG332ntem5c1lsGvSs7lpbKGP/HHob1EY5LydjcuYQCBYuSHs5+vpuCjTUtlpQ6zDkh0CNfRoLyfm91eoMg==;D6HtOpIauv/fVkdSdpKo4w=="
 ---
 

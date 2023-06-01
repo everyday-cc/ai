@@ -115,6 +115,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "OpenAI found a way to make AI models more logical and avoid hallucinations"
+    excerpt: "The creation of false information has led to widespread concerns about the dissemination of misinformation and its potential negative consequences. In a new research post, OpenAI shares that it may have found a way to make AI models act more logically and avoid hallucinations."
+    publishedDateTime: 2023-06-01T21:33:00Z
+    webUrl: "https://www.zdnet.com/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/dd3e7e04d52ada5ef30e6114a2d7e5e1747c90fd/2023/06/01/2df7ccbe-245b-426a-95df-d9ec5ff9cad3/gettyimages-1460653515.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI extinction risk warning backed by OpenAI, DeepMind chiefs"
     excerpt: "Explore the debate on AI's potential threat to humanity, featuring experts from OpenAI, Google DeepMind, and more discussing extinction risks and solutions."
     publishedDateTime: 2023-05-31T01:38:00Z
@@ -521,6 +537,15 @@ related:
       name: Houston Chronicle
       domain: chron.com
     quality: 16
+  - title: "‘Mitigating the risk of extinction’: As the capabilities of artificial intelligence grow, so do calls for regulation"
+    excerpt: "The Center for AI Safety released a statement earlier this week signed by a group of leaders in artificial intelligence about the technology’s risks: “Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks,"
+    publishedDateTime: 2023-06-01T18:53:00Z
+    webUrl: "https://www.texasstandard.org/stories/ai-artificial-intelligence-dangers-deep-fakes-chatgpt-mitigating-risk-exctinction-statement-regulation/"
+    type: article
+    provider:
+      name: Texas Standard
+      domain: texasstandard.org
+    quality: 0
 
 secured: "+TSR5mx0Y8rkXpNx+YIciD/pyqCMTvIhmCY8AR9MxcJyacDtHJvJnZc0HoEDm0KlH/eX0mdKU+4SEzi5f3ftH+9UXxEy5iEn9qK8+WMh+9yVG/JEjkPW7hFvx62xMWIYK9guiBij0nBZTBpGz4zX3LolViT3a3sLRHCIu8Ua09dPs4RrW3XQOrhfNvdAH64il9mqah/VacocGohil00mZ83upntfMW4HIYhDKZMBI4s2UqyebBAD3V7l0UiqjeByvwnOpXQY3vIE+bAfzcdLfl1cW70B+E2vgJrxeQ42Nk1iI3Z/5Nvwt2IQrmXiYrdM462EDk6nr8pYw53SurLta9XlRidgTHfL1cg7H3uRlfmQO0ds7Y875Kfk3MRnCNx1Zb5RmF4GgN/W7r7Lixvu7arAmOjw3G7zgeEF47yyo+/1bgBQxcdD5aKczj8oD8IN7rrNfszBhPfi0fQuvMht0/mNHkJzX3AVtCUE2gWpzSOvefJlGPcrQX4ZQdH+LyocId58T4dw2SqQU5B69LINgw==;xZs/xIRc5IK6y61W5GA8qQ=="
 ---

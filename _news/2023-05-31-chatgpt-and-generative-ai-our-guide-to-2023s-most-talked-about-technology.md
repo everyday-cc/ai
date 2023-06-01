@@ -55,6 +55,24 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "ChatGPT and Generative AI in Search: The Biggest Digital Ad Format Is Ripe for Revolution"
+    excerpt: "Microsoft and Google are racing to develop the best AI-assisted search experience, leaving advertisers on the precipice of major disruption."
+    publishedDateTime: 2023-06-01T18:59:00Z
+    webUrl: "https://www.businessinsider.com/search-generative-ai-chatgpt-biggest-search-format-ripe-for-revolution-2023-june"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+  - title: "ChatGPT and Generative AI in Media and Advertising: With Use Cases Set, the Battle for Hearts and Minds Begins"
+    excerpt: "Generative AI can already do much of the work and low-skilled labor that powers modern media and advertising."
+    publishedDateTime: 2023-06-01T18:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-media-use-cases-set-battle-begins-2023-june"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
 
 secured: "Wbn7y2pAVX7s7qRL4JAoOziN8TmGnm/JGrei6jbmgqgSzAmt3ABJhLDZMy62VrjnqNg3Vu0DxlQFv5Z/3l1wX2pBgTatIXpq5LzqT0h7tFy7fkjhC5y3dNyrLbpVQsEasUT5t235IQPCNC10k8QPScjtb64tPRN9UR+gvhWlvVFzSpMVXnojSNi21ztLbOQ1H9UohCp6iseYaLMAWSa7zkcIiCkbz/d3/kWYB95IRRBdfcC6PvLSdPw048bkAIBlbDBp38h4M8wpneemld+vFiul9FsDFwjc6G+CvxuxUPeq3pXYTlA3vocivrWUHDqjYtp3L/Zrv9VRfxgUZ6c6mgAwpos25oDncDiDBVuOdNg=;S7ImQQRZdDypl+A6I/JkVw=="
 ---

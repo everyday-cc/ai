@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Can The 2024 US Elections Leverage Generative AI?"
-    excerpt: "Let’s discuss the potential of using generative AI in the 2024 US elections and how it can transform political campaigns and decision-making."
-    publishedDateTime: 2023-05-28T01:45:00Z
-    webUrl: "https://www.unite.ai/can-the-2024-us-elections-leverage-generative-ai/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/05/Featured-Blog-Image-Can-The-2024-US-Elections-Leverage-Generative-AI-942x600.jpg"
-        width: 942
-        height: 600
-        isCached: true
   - title: "Exploring the Capabilities of Smaller, Open-source Large Language Models"
     excerpt: "Our AI experts share their key takeaways from exploring the capabilities of open-source language models, which tend are to be much smaller than larger, proprietary models like ChatGPT."
     publishedDateTime: 2023-06-01T15:30:00Z

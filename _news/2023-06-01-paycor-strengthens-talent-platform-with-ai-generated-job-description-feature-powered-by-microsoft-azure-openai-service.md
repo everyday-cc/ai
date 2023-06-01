@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/paycor-strengthens
 webUrl: "https://markets.businessinsider.com/news/stocks/paycor-strengthens-talent-platform-with-ai-generated-job-description-feature-powered-by-microsoft-azure-openai-service-1032364080"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft bolsters AI capabilities with coreWeave partnership"
+    excerpt: "which offers simplified access to Nvidia's powerful GPUs for running AI models. Microsoft's investment in CoreWeave aims to ensure that OpenAI's viral ChatGPT chatbot has sufficient computing power. OpenAI relies on Microsoft's Azure cloud infrastructure ..."
+    publishedDateTime: 2023-06-01T21:37:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1076105-microsoft-bolsters-ai-capabilities-with-coreweave-partnership"
+    ampWebUrl: "https://www.thenews.com.pk/amp/1076105-microsoft-bolsters-ai-capabilities-with-coreweave-partnership"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1076105-microsoft-bolsters-ai-capabilities-with-coreweave-partnership"
+    type: article
+    provider:
+      name: The News International
+      domain: thenews.com.pk
+    quality: 74
+    images:
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-06-02/1076105_024731_updates.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "AI Battle Heats Up: Microsoft to Take on Apple Head-on"
     excerpt: "With Microsoft's new partnerships, the pillars of the PC ecosystem have teamed up to challenge Apple’s dominance in the AI ecosystem."
     publishedDateTime: 2023-05-29T12:03:00Z

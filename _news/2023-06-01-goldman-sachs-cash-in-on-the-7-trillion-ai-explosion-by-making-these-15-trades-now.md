@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/investing-ai-stocks-to-buy-now-opt
 webUrl: "https://www.businessinsider.com/investing-ai-stocks-to-buy-now-options-trades-goldman-sachs-2023-6"
 type: article
 quality: 62
-heat: 74
+heat: 75
 published: true
 
 provider:

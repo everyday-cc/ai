@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/join-us-at-prestocon-day-a-free-virtual-c
 webUrl: "https://www.ibm.com/blog/join-us-at-prestocon-day-a-free-virtual-community-event/"
 type: article
 quality: 102
-heat: 103
+heat: 102
 published: true
 
 provider:

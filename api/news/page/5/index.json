@@ -2,6 +2,307 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-30-ai-ipdata-protection-at-the-crossroads-of-innovation-and-intellectual-property.md",
+      "title": "AI & IP—Data Protection At The Crossroads Of Innovation And Intellectual Property",
+      "excerpt": "From cutting-edge registration techniques to implementing privacy-enhancing technologies, businesses must be creative and forward-thinking in protecting intellectual property in the AI age.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/30/ai--ip-data-protection-at-the-crossroads-of-innovation-and-intellectual-property/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/30/ai--ip-data-protection-at-the-crossroads-of-innovation-and-intellectual-property/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61095ac215869a022481acb3/0x0.jpg?format=jpg&crop=3283,1848,x0,y109,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/30/ai--ip-data-protection-at-the-crossroads-of-innovation-and-intellectual-property/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/30/ai--ip-data-protection-at-the-crossroads-of-innovation-and-intellectual-property/amp/",
+      "publishedDateTime": "2023-05-30T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-ai-tools-like-chatgpt-will-fail-without-data-integrity-heres-why.md",
+      "title": "AI Tools Like ChatGPT Will Fail Without Data Integrity – Here’s Why",
+      "excerpt": "New generative artificial intelligence (AI) tools such as ChatGPT have generated enormous interest in recent months because they can alter how people find information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/05/30/ai-tools-like-chatgpt-will-fail-without-data-integrity--heres-why/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/05/30/ai-tools-like-chatgpt-will-fail-without-data-integrity--heres-why/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6470dcd4b55484225b03a700/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/05/30/ai-tools-like-chatgpt-will-fail-without-data-integrity--heres-why/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/05/30/ai-tools-like-chatgpt-will-fail-without-data-integrity--heres-why/amp/",
+      "publishedDateTime": "2023-05-30T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-ibm-tech-now-may-30-2023.md",
+      "title": "IBM Tech Now: May 30, 2023",
+      "excerpt": "The latest episode of IBM Tech Now looks at IBM Watson Code Assistant, IBM Hybrid Cloud Mesh and IBM Event Automation.\nThe post IBM Tech Now: May 30, 2023 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-tech-now-77/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-tech-now-77/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T06:01:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-the-news-media-ethics-and-chatgpt-for-pr-and-comms-work.md",
+      "title": "The News, Media Ethics And ChatGPT For PR And Comms Work",
+      "excerpt": "ChatGPT has been an absolute sensation since its launch in November 2022. It brings to bear an impressive array of capabilities, from writing software code to creating hipster craft cocktail recipes. Its generative artificial intelligence (AI) cousins, including Google’s Bard and Microsoft’s Bing AI, deliver similar features and functionality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/the-news-media-ethics-and-chatgpt-for-pr-and-comms-work/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/the-news-media-ethics-and-chatgpt-for-pr-and-comms-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6470eeb4176d959a57569955/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/the-news-media-ethics-and-chatgpt-for-pr-and-comms-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/the-news-media-ethics-and-chatgpt-for-pr-and-comms-work/amp/",
+      "publishedDateTime": "2023-05-30T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-is-ai-easier-to-control-than-gain-of-function-research-on-viruses-it-depends-on-whom-you-ask.md",
+      "title": "Is AI Easier To Control Than Gain-Of-Function Research On Viruses? It Depends On Whom You Ask.",
+      "excerpt": "AI scientists think AI should be regulated because it might be dangerous. Virologists working to create deadly viruses think they can regulate themselves. Hmm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevensalzberg/2023/05/30/is-ai-easier-to-control-than-gain-of-function-research-on-viruses-it-depends-on-whom-you-ask/",
+      "originalUrl": "https://www.forbes.com/sites/stevensalzberg/2023/05/30/is-ai-easier-to-control-than-gain-of-function-research-on-viruses-it-depends-on-whom-you-ask/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6474a700a75bc6b0cb7b69d9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevensalzberg/2023/05/30/is-ai-easier-to-control-than-gain-of-function-research-on-viruses-it-depends-on-whom-you-ask/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevensalzberg/2023/05/30/is-ai-easier-to-control-than-gain-of-function-research-on-viruses-it-depends-on-whom-you-ask/amp/",
+      "publishedDateTime": "2023-05-30T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-five-next-level-marketing-uses-for-ai.md",
+      "title": "Five Next-Level Marketing Uses For AI",
+      "excerpt": "Tom Wozniak heads up Marketing and Communications as the COO for OPTIZMO Technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/five-next-level-marketing-uses-for-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/five-next-level-marketing-uses-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6470eb7f789ac5b53803a6f8/0x0.jpg?format=jpg&width=1200",
+          "width": 400,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/five-next-level-marketing-uses-for-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/five-next-level-marketing-uses-for-ai/amp/",
+      "publishedDateTime": "2023-05-30T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation.md",
       "title": "Nvidia Dominates AI Silicon, But That Doesn’t Justify A $1 Trillion Valuation",
       "excerpt": "Nvidia (NASDAQ: NVDA) stock surged by 24% in Thursday’s trading after the company posted a better-than-expected set of Q1 FY’24 results and provided Q2 revenue guidance that was well ahead of Street estimates.",
@@ -209,6 +510,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-30-how-to-talk-about-ai-even-if-you-dont-know-much-about-ai.md",
+      "title": "How to talk about AI (even if you don’t know much about AI)",
+      "excerpt": "There is a trend in the AI community right now to talk about the long-term risks and potential of AI. It’s easy to be distracted by hypothetical scenarios and imagine what the technology could possibly do in the future, but discussions about AI are usually better served by being pragmatic and focusing on the actual, not the what-ifs, Vincent adds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/05/30/1073680/how-to-talk-about-ai-even-if-you-dont-know-much-about-ai/",
+      "originalUrl": "https://www.technologyreview.com/2023/05/30/1073680/how-to-talk-about-ai-even-if-you-dont-know-much-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/05/yes-robots-yes-2a.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/05/30/1073680/how-to-talk-about-ai-even-if-you-dont-know-much-about-ai/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/30/1073680/how-to-talk-about-ai-even-if-you-dont-know-much-about-ai/amp/",
+      "publishedDateTime": "2023-05-30T01:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-what-are-large-language-models-and-how-are-they-used-in-generative-ai.md",
       "title": "What are large language models — and how are they used in generative AI?",
       "excerpt": "Large lanuage models are the algorithmic basis for chatbots like OpenAI's ChatGPT and Google's Bard, but the technology is tied back to billions -- even trillions -- of parameters that can make them both inaccurate and non-specific for vertical industry use.",
@@ -217,7 +561,7 @@
       "originalUrl": "https://www.computerworld.com/article/3697649/what-are-large-language-models-and-how-are-they-used-in-generative-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -891,349 +1235,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-arendai-and-aiq-robotics-join-forces-to-offer-unified-orchestration-and-robotics-solution.md",
-      "title": "Arendai and AiQ Robotics Join Forces to Offer Unified Orchestration and Robotics Solution",
-      "excerpt": "Arendai and AiQ robotics last Thursday announced a partnership that will enable the companies to expand their services into the rapidly growing industry 4.0. By combining Arendai's cutting-edge solution,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/technology-solutions/32220-arendai-and-aiq-robotics-join-forces-to-offer-unified-orchestration-and-robotics-solution",
-      "originalUrl": "https://www.thefastmode.com/technology-solutions/32220-arendai-and-aiq-robotics-join-forces-to-offer-unified-orchestration-and-robotics-solution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/f387e437c862082eed484b9d226001b5.jpg?t=20230529_022121",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T19:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-artificial-intelligence-to-estimate-the-accuracy-of-data-explaining.md",
-      "title": "Artificial Intelligence To Estimate The Accuracy Of Data Explaining",
-      "excerpt": "Despite their enormous size and power, today's artificial intelligence systems routinely fail to distinguish between hallucination and reality. Autonomous driving systems can fail to perceive pedestrians and emergency vehicles right in front of them,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/artificial-intelligence-to-estimate-the-accuracy-of-data-explaining/",
-      "originalUrl": "https://indiaeducationdiary.in/artificial-intelligence-to-estimate-the-accuracy-of-data-explaining/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2023/05/probabilistic-ai-00.jpg",
-          "width": 900,
-          "height": 547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/artificial-intelligence-to-estimate-the-accuracy-of-data-explaining/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/artificial-intelligence-to-estimate-the-accuracy-of-data-explaining/",
-      "publishedDateTime": "2023-05-28T19:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones.md",
-      "title": "Arm's New CPU, GPU Cores to Deliver Next-Gen AI Experiences on Phones",
-      "excerpt": "Arm says pairing its Armv9 Cortex-X4 compute cluster and Arm Immortalis-G720 GPU in a single package will bring powerful AI, 3D, and gaming performance to the top smartphones of 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones",
-      "originalUrl": "https://www.pcmag.com/news/arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00n6JF7PK0qozSLHl73N4AU-1.fit_lim.size_1200x630.v1685112823.png",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-10-free-online-coursera-classes-to-take-if-you-want-to-work-in-ai-from-experts-at-amazon-meta-and-others.md",
-      "title": "10 free online Coursera classes to take if you want to work in AI, from experts at Amazon, Meta, and others",
-      "excerpt": "Find the course here. Artificial intelligence: ethics & societal challenges Class description: The class covers the ethical and societal aspects of artificial intelligence over four modules that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2",
-      "originalUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63eb9ca47518920018f33adb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2?amp",
-      "publishedDateTime": "2023-05-28T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-how-generative-ai-can-revolutionize-customization-and-user-empowerment.md",
-      "title": "How generative AI can revolutionize customization and user empowerment",
-      "excerpt": "It's time to look beyond using generative AI tools for simple outputs and focus on computing capabilities for users and large enterprises.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/",
-      "originalUrl": "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=750%2C500&#038;strip=all",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-28-want-to-prep-for-an-interview-using-ai-this-tiktok-video-shows-you-how.md",
-      "title": "Want To Prep For An Interview Using AI? This TikTok Video Shows You How",
-      "excerpt": "A TikTok video by a user named Hanna Goefft shows how easy it is to use AI to help you prepare for an interview. It’s a novel idea and actually seems to work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnbbrandon/2023/05/28/want-to-prep-for-an-interview-using-ai-this-tiktok-video-shows-you-how/",
-      "originalUrl": "https://www.forbes.com/sites/johnbbrandon/2023/05/28/want-to-prep-for-an-interview-using-ai-this-tiktok-video-shows-you-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647372dbb65ff1df789811f3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnbbrandon/2023/05/28/want-to-prep-for-an-interview-using-ai-this-tiktok-video-shows-you-how/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/05/28/want-to-prep-for-an-interview-using-ai-this-tiktok-video-shows-you-how/amp/",
-      "publishedDateTime": "2023-05-28T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-28-how-the-rise-of-generative-ai-could-kill-the-metaverse-or-save-it.md",
-      "title": "How the rise of generative AI could kill the metaverse — or save it",
-      "excerpt": "Will generative AI kill the metaverse? Maybe, maybe not. How their combination could build a dynamic digital future.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-the-rise-of-generative-ai-could-kill-the-metaverse-or-save-it/",
-      "originalUrl": "https://venturebeat.com/ai/how-the-rise-of-generative-ai-could-kill-the-metaverse-or-save-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/annevb_yelling_into_the_darkness_for_help._Mayday._colorful_tec_736eb19e-1e98-40fa-92cc-613825810f1f.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

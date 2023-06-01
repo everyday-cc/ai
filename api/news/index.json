@@ -2,6 +2,255 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-02-ai-is-trending-in-google-searches-but-its-not-yet-to-the-peak-reached-by-bitcoin-in-2017.md",
+      "title": "'AI' is trending in Google searches — but it's not yet to the peak reached by Bitcoin in 2017",
+      "excerpt": "Interest in AI is at an all-time high on Google searches, an Alliance Bernstein analyst notes. But it's still not as popular as Bitcoin at its height.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-trending-google-search-bitcoin-metaverse-chatgpt-artificial-intelligence-2023-5",
+      "originalUrl": "https://www.businessinsider.com/ai-trending-google-search-bitcoin-metaverse-chatgpt-artificial-intelligence-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6477bb1b085acb0018ff14ed?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-trending-google-search-bitcoin-metaverse-chatgpt-artificial-intelligence-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-trending-google-search-bitcoin-metaverse-chatgpt-artificial-intelligence-2023-5?amp",
+      "publishedDateTime": "2023-06-01T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-broadcom-suffers-sales-slowdown-even-as-it-points-to-ai-gains.md",
+      "title": "Broadcom Suffers Sales Slowdown, Even as It Points to AI Gains",
+      "excerpt": "Broadcom Inc., one of the world’s biggest chipmakers, said that artificial intelligence spending is helping fuel sales, but not enough to offset a broader post-pandemic slowdown.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-01/broadcom-suffers-sales-slowdown-even-as-it-points-to-ai-gains",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-01/broadcom-suffers-sales-slowdown-even-as-it-points-to-ai-gains",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZW6Tmm1CFkM/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-humanoid-robot-imagines-nightmare-ai-scenario.md",
+      "title": "Humanoid robot 'imagines' nightmare AI scenario",
+      "excerpt": "A UK-based company has made a humanoid robot that can have conversations almost as natural as human beings and make facial expressions. Almond Li has more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idOV661501062023RP1",
+      "originalUrl": "https://www.reuters.com/video/watch/idOV661501062023RP1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20230601&i=OV661501062023RP1&r=OV661501062023RP1&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-ai-spurs-scientists-calling-to-fast-track-consciousness-research.md",
+      "title": "AI Spurs Scientists Calling To Fast-Track Consciousness Research",
+      "excerpt": "Now we’re in this pickle because we don’t want the AI system running the IRS to suddenly get creative one day,” says Mason only half-jokingly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andreamorris/2023/06/01/ai-spurs-scientists-calling-to-fast-track-consciousness-research/",
+      "originalUrl": "https://www.forbes.com/sites/andreamorris/2023/06/01/ai-spurs-scientists-calling-to-fast-track-consciousness-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6477ccd6f0f14cbe8aa62ddd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andreamorris/2023/06/01/ai-spurs-scientists-calling-to-fast-track-consciousness-research/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreamorris/2023/06/01/ai-spurs-scientists-calling-to-fast-track-consciousness-research/amp/",
+      "publishedDateTime": "2023-06-01T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-artificial-intelligence-ai-in-finance.md",
+      "title": "Artificial Intelligence (AI) in Finance",
+      "excerpt": "Artificial intelligence is poised to reshape the finance industry, yet finance companies face numerous concerns about this emerging technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/artificial-intelligence-finance/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/artificial-intelligence-finance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.md",
       "title": "Microsoft offers Azure ML data import CLI, SDK for Snowflake, other databases",
       "excerpt": "The new integration, which is in public preview, is designed to bring data into Azure’s ML service from data repositories outside the Azure platform.",
@@ -52,6 +301,58 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative.md",
+      "title": "Top AI researcher dismisses AI ‘extinction’ fears, challenges ‘hero scientist’ narrative",
+      "excerpt": "Kyunghyun Cho, a prominent AI researcher and associate professor at NYU, expressed frustration with the current discourse around AI risk.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative/",
+      "originalUrl": "https://venturebeat.com/ai/top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/Ez6kELuXoAQ7r_B.jpeg?w=1200&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -106,7 +407,7 @@
       "originalUrl": "https://www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -209,7 +510,7 @@
       "originalUrl": "https://www.barrons.com/articles/broadcom-marvell-technology-chip-stock-ai-66c05d9b",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -252,7 +553,7 @@
       "originalUrl": "https://www.forbes.com/sites/ginnywhitelaw/2023/06/01/what-ai-cant-do-and-what-great-leaders-will-do/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -345,7 +646,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/paycor-strengthens-talent-platform-with-ai-generated-job-description-feature-powered-by-microsoft-azure-openai-service-1032364080",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -593,7 +894,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/06/01/augmented-reality-is-already-changing-healthcare-for-the-better/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -633,49 +934,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-broadcom-is-a-bellwether-for-chips-earnings-will-be-focused-on-ai.md",
-      "title": "Broadcom Is a Bellwether for Chips. Earnings Will Be Focused on AI.",
-      "excerpt": "Chip investors are eagerly awaiting the latest results from semiconductor bellwether Broadcom after the market close to get an update on its businesses and progress in the artificial intelligence market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/broadcom-earnings-stock-price-92f9f4ca",
-      "originalUrl": "https://www.barrons.com/articles/broadcom-earnings-stock-price-92f9f4ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-791517/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/broadcom-earnings-stock-price-92f9f4ca",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/broadcom-earnings-stock-price-92f9f4ca",
-      "publishedDateTime": "2023-06-01T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -731,7 +989,7 @@
       "originalUrl": "https://www.businessinsider.com/investing-ai-stocks-to-buy-now-options-trades-goldman-sachs-2023-6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -974,231 +1232,6 @@
         "AI",
         "Machine Learning",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-wall-street-banks-seizing-ai-to-rewire-world-of-finance.md",
-      "title": "Wall Street banks seizing AI to rewire world of finance",
-      "excerpt": "The AI revolution is unfolding on Wall Street as wider interest grows in the evolving technology and its likely impact on business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.afr.com/technology/wall-street-banks-seizing-ai-to-rewire-world-of-finance-20230601-p5dd3o",
-      "originalUrl": "https://www.afr.com/technology/wall-street-banks-seizing-ai-to-rewire-world-of-finance-20230601-p5dd3o",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.ffx.io/images/$zoom_0.1226%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/6f1786ce28c16c72663235a343f9913c7b67032b",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T23:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian Financial Review",
-        "domain": "afr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-the-top-5-ai-careers-in-2023-unlocking-the-potential-of-artificial-intelligence.md",
-      "title": "The Top 5 AI Careers in 2023: Unlocking the Potential of Artificial Intelligence",
-      "excerpt": "Artificial intelligence has become next big thing, paving the way for exciting career opportunities. From machine learning to robotics, AI careers have expanded across various domains. In this article,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.sg/top-5-ai-careers-2023-unlocking-potential-artificial-intelligence-70424",
-      "originalUrl": "https://www.ibtimes.sg/top-5-ai-careers-2023-unlocking-potential-artificial-intelligence-70424",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data.ibtimes.sg/en/full/67921/ai-career.jpg",
-          "width": 1600,
-          "height": 884,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.sg/top-5-ai-careers-2023-unlocking-potential-artificial-intelligence-70424",
-      "cdnAmpWebUrl": "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/top-5-ai-careers-2023-unlocking-potential-artificial-intelligence-70424",
-      "publishedDateTime": "2023-05-31T23:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-crowdstrike-to-accelerate-development-of-ai-in-cybersecurity-with-aws.md",
-      "title": "CrowdStrike to Accelerate Development of AI in Cybersecurity with AWS",
-      "excerpt": "CrowdStrike has said that it is working with Amazon Web Services (AWS) to develop powerful new generative AI applications that help customers accelerate their cloud, security and artificial intelligen",
-      "sourceUrl": null,
-      "webUrl": "https://www.smechannels.com/crowdstrike-to-accelerate-development-of-ai-in-cybersecurity-with-aws/",
-      "originalUrl": "https://www.smechannels.com/crowdstrike-to-accelerate-development-of-ai-in-cybersecurity-with-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.smechannels.com/wp-content/uploads/2023/06/Raj-Rajamani.jpg?fit=610%2C349&ssl=1",
-          "width": 610,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T20:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NETGEAR",
-        "domain": "smechannels.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use.md",
-      "title": "Singapore's Central Bank Partners With Google to Explore AI for Internal Use",
-      "excerpt": "The Central Bank of Singapore is partnering with Google’s cloud unit to explore potential internal use cases of the burgeoning artificial intelligence (AI) space and advance the development of innovative technologies in the Asian hub,",
-      "sourceUrl": null,
-      "webUrl": "https://247wallst.com/investing/2023/05/31/singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use/",
-      "originalUrl": "https://247wallst.com/investing/2023/05/31/singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://247wallst.com/wp-content/uploads/2020/04/imageForEntry16-Xbo.jpg?w=400",
-          "width": 400,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://247wallst.com/investing/2023/05/31/singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use/amp/",
-      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/05/31/singapores-central-bank-partners-with-google-to-explore-ai-for-internal-use/amp/",
-      "publishedDateTime": "2023-05-31T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "24/7 Wall St",
-        "domain": "247wallst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-characterai-the-a16z-backed-chatbot-startup-tops-17m-installs-in-first-week.md",
-      "title": "Character.AI, the a16z-backed chatbot startup, tops 1.7M installs in first week",
-      "excerpt": "Demand for AI via consumer mobile apps has been climbing, with market leader OpenAI's ChatGPT mobile app topping half a million downloads in its first six days.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/31/character-ai-the-a16z-backed-chatbot-startup-tops-1-7m-installs-in-first-week/",
-      "originalUrl": "https://techcrunch.com/2023/05/31/character-ai-the-a16z-backed-chatbot-startup-tops-1-7m-installs-in-first-week/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/characterai-Mobile-App.png?w=1011",
-          "width": 1011,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/31/character-ai-the-a16z-backed-chatbot-startup-tops-1-7m-installs-in-first-week/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/31/character-ai-the-a16z-backed-chatbot-startup-tops-1-7m-installs-in-first-week/amp/",
-      "publishedDateTime": "2023-05-31T16:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

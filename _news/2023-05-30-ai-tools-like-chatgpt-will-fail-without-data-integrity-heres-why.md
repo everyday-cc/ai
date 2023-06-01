@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/05/30/ai-tools-like-cha
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/05/30/ai-tools-like-chatgpt-will-fail-without-data-integrity--heres-why/amp/"
 type: article
 quality: 87
-heat: 197
+heat: 187
 published: true
 
 provider:
@@ -166,15 +166,6 @@ related:
         width: 2000
         height: 1330
         isCached: true
-  - title: "South Korea’s Naver to target foreign governments with latest ChatGPT-like AI model"
-    excerpt: "South Korea’s Naver to target foreign governments with latest ChatGPT-like AI model on linkedin (opens in a new window)"
-    publishedDateTime: 2023-05-28T04:01:00Z
-    webUrl: "https://www.ft.com/content/8c9a2842-ff01-46aa-a82b-1b46342264f6?shareType=nongift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 11
 
 secured: "rD2eF2BMH+J53urTRNyeqrAXt3SC/9iP36pEj70rNr1wzH5qWh1w8e9ccXyWOVrhT2+UE7ZKF2WFKfU700+BpOfsAs/KRtHdHjmfcoWJ9VG37cmuxpU/Ok+anZttEU9YRpbFmG9o6er12NFfvR9MGM6uH0Ux9gseptYogTwB+KfsQ0FpIR2YpdLJGtHdx+Plt+5vdpR40psgA1iIR/NZfuSrCDSRX/Bsw/jFOYJJ0DUXjrAReVIRVLtjrbnKIaplr5Pw+qTcSQMa2H/wzBokV/MVJA9y8DDHri5frzKgQezbjuvcc4Yhj/FWsFGH31Wucshw/51G0dBMQsM+WYwrln1TSV3hNC9S3l2SW68S1vc=;fbAYaWPl4Yu/NoZPC+Z/Fg=="
 ---

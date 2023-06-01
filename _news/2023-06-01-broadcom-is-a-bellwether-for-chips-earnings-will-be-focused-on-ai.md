@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/articles/broadcom-earnings-stock-price-9
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/broadcom-earnings-stock-price-92f9f4ca"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Barron's
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Broadcom Suffers Sales Slowdown, Even as It Points to AI Gains"
+    excerpt: "Broadcom Inc., one of the world’s biggest chipmakers, said that artificial intelligence spending is helping fuel sales, but not enough to offset a broader post-pandemic slowdown."
+    publishedDateTime: 2023-06-01T20:27:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-01/broadcom-suffers-sales-slowdown-even-as-it-points-to-ai-gains"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZW6Tmm1CFkM/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Broadcom’s AI Chip Deals Excite Wall Street. It’s About More Than Apple."
     excerpt: "KeyBanc Capital Markets analyst John Vinh raised his price target on the company ahead of its earnings this week."
     publishedDateTime: 2023-05-30T12:30:00Z

@@ -166,15 +166,6 @@ related:
         width: 2000
         height: 1330
         isCached: true
-  - title: "South Korea’s Naver to target foreign governments with latest ChatGPT-like AI model"
-    excerpt: "South Korea’s Naver to target foreign governments with latest ChatGPT-like AI model on linkedin (opens in a new window)"
-    publishedDateTime: 2023-05-28T04:01:00Z
-    webUrl: "https://www.ft.com/content/8c9a2842-ff01-46aa-a82b-1b46342264f6?shareType=nongift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 11
 
 secured: "oGzudLAU4CSr7vn5+LsY+z4ESOy79qBwYei8gPGJlfFXvbTnpNJSCYv9OX5sv1SB9mWS1LV3ZUzSnquONWa9Cch6ZtwGzMP2XQB74BWv5DTKfBiLzYaGokGI9B7wNS2gOppPq87no2s1FYvOzRu+rpdMJZWqDYnqEcgajyjSR0VzsVDn6Sskn8W97/eoE6WZ+UIgNw9NRRP5r7aMamI9ukZHjUmyOE+dp5buCAGavFA7lvYfqMCtVkVzrx4zb8LoXHX9jLtQ2lJJYTS0+lFYNo8X9kT4TLCinv4yfQlDox3eUGekmygt4bw8U2q6TXi/lPOfDfYSIwXtzMg82zDqV2zSrhYkgtcvbbV2wXnYjfekjzGfgESzn5++JaLhJXVEI6JK4MydHhty7QVjOkdvZHzmQw9LsITF/zXI2QPIKsnOLBsOh+c2YG+ao1CgwWqaddhHpeqxykRxIr7hcwPts+eDWFnIkryFH33sEeICE12LNtA+iTiuxavcpDo3uf//f4ClW5U/4rzYDnBRSGS5wg==;eGpHK4pk466rT75L/3YSBQ=="
 ---

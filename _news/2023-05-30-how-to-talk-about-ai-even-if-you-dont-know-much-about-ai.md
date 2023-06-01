@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/05/30/1073680/how-to-talk-abou
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/30/1073680/how-to-talk-about-ai-even-if-you-dont-know-much-about-ai/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: MIT Technology Review
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "How to Use AI in Your Job Search"
+    excerpt: "Artificial intelligence is about to transform the job search. Research confirms the value of using AI in your job search. At the very least, AI can be of immediate practical help with your resume."
+    publishedDateTime: 2023-06-01T20:49:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/platform-for-success/202306/how-to-use-ai-in-your-job-search"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/platform-for-success/202306/how-to-use-ai-in-your-job-search?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/platform-for-success/202306/how-to-use-ai-in-your-job-search?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-06/ai.jpg?itok=YfnF92cM"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "Don’t worry so much about artificial intelligence. It needs us | Letters"
     excerpt: "AI pioneer Geoffrey Hinton outlines 4 dangers of artificial intelligence | May 7"
     publishedDateTime: 2023-05-30T09:00:00Z

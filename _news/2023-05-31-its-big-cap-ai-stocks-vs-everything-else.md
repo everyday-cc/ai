@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "AI boom drives gains for chip stocks"
-    excerpt: "Demand from institutional investors appears to have underpinned the chipmakers’ recent rally. They are the “primary source” of demand for AI stocks, with only a “marginal increase” in retail investor interest, according to VandaTrack."
-    publishedDateTime: 2023-05-28T04:01:00Z
-    webUrl: "https://www.ft.com/content/fdd5303c-cdf4-434d-99b3-9ccdc84912d1"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/markets.jpg"
-        width: 619
-        height: 376
-        isCached: true
   - title: "The ASX stocks that could ride the AI boom like Nvidia"
     excerpt: "AI has lit a fire underneath tech stocks, but investors are split over whether the innovation will transform business models or end up a fad like blockchain or 3D printing."
     publishedDateTime: 2023-05-29T06:12:00Z
@@ -68,6 +54,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "The AI Apocalypse Is Here - - What Will Stop AI from Destroying Us?"
+    excerpt: "OvalPixel's Blockchain-Powered AI Trivia Game Could Help Stop the AI Apocalypse. LOS ANGELES, June 1, 2023 /PRNewswire/ -- OvalPixel, an AI gaming company, believes that developin"
+    publishedDateTime: 2023-06-01T18:27:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/06/01/9825186.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "FM15KaNCMXBgOGCZASe7KFZZhU6bEx3ebOthgtRoobBs7+ltfcpS5Ih1HA9yRmTq9KgJJ46Ofk7Xg5q9a/ZQq2M1xJ4hluu3VUNGEYI3rojsQElub+jL+VNAOhJN1wiX94bJuWrDT7x7IfZ27M+ohnHGbMEgRgQswvY9vFt6Ersak/XtFEL4HprBHRXakJYT78qHqLb1pjBONusO6sYvMdqBovESevP9TsYr4QmduP9/1GfmfKln7OOwm0l5ahXSggBWpsYCeHKK1hsnRJ4wv23ZwxzxlvWPzvNcptr2yTvU6rH039Ge63yJWrVyGDXcNYF3bWMW98OVpXDZxfXHYgtYubEP+bjtXbp+2q6UsnQ=;Xuy1+/JYlzoIWmU4QTgV/Q=="
 ---

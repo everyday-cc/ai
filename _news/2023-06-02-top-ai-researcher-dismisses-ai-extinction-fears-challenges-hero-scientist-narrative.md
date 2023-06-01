@@ -6,9 +6,9 @@ publishedDateTime: 2023-06-01T17:02:00Z
 originalUrl: "https://venturebeat.com/ai/top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative/"
 webUrl: "https://venturebeat.com/ai/top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative/"
 type: article
-quality: 58
-heat: 68
-published: false
+quality: 60
+heat: 70
+published: true
 
 provider:
   name: VentureBeat
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/06/Ez6kELuXoAQ7r_B.jpeg?w=1200&strip=all"
@@ -45,6 +46,6 @@ related:
         height: 800
         isCached: true
 
-secured: "5UUMSbqNn88TnQ6ociS5JB5rBORThxkjOTbVZLxut0KuRP5mE2V1b2kkfTnwKQEKByZzi3DLESpW5sHnLtNp4h8+xET9an1qhyjxG71wAclLQaSN63l8viDpsTkdkxLmXgTunZp7gCWyEB8imirTeEntiNSRqpUEyUUIFBkXk6PfC9OHxbFWPFhv8ysOVAsSE+OCSCvHpflCF1Fnzw8NICRH2aq6u3gU8Z+4BQMUj9nNkzsoY+uao6mJ1knbyfnr8VrTmkwRamR3dbaEEYMHVjrI8tke2DYOKHNzfnuUaypfexwPWWYun+eQvyR11pWrXY6U1eB0369wGtp8RqpsbyiLeHFMc5v8QEJIA+drDls=;CZ6cJc4HU/EUdfAv/vyigw=="
+secured: "ajZrktmvuZGUhyh8+Sio7MFpD3KFofPN8yWffSaawBqvwu7Gdrw1kQYicUUG6gEb8xMxEZF2CY4tJm0BV0c+eKZETwQ60AcirBSBNnswhCs2KbJq7+XUPp9vyRjUorgaEdHo3w2JQqOOTqcWYxFVqlib58s/FKwqLmCmGyXscDBvlSrsUQjBxtyCkzblEpoU81ED1IWBZtQ18I8Gf3z6Asb1WFFC10bj8tpZR7snxjEfOlzFsIs2VzwdBvdxiY8zuS2SNheSiP2i7WakuUq0PvdnQICCYq8yd4G9RMphSZXEag69yiVBcoWDFN6T8pUSrVkYBONtbPhMWIcFZND8FBXTCRYokPUPXW0RYEbpCq+yDodYeplFPaTKsv43scm+5co9XkwBBkJRp4ml+TIQm1dk4oR7WV3udhq34ma5vKJweJPLkg3FKA9ua64Q8aekHVWxnLSlcgFSfZ5gy5+r3t5ydeY/0Gqp2bmQu0D7oxfcyK+Sqsf9BkSbu3cA8DzvwbqWxHF/xijsN06LBn72ag==;Srn6r5q/Z4N/WSd2HhBkJA=="
 ---
 

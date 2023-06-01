@@ -705,6 +705,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-23-nvidia-to-face-shortages-after-a-boom-in-gpu-demand-for-its-ai.md",
+      "title": "Nvidia to face shortages after a boom in GPU demand for its AI",
+      "excerpt": "Nvidia is seeing a bump in GPU sales in the market over its AI capabilities. However, while this is great news for its GPU business, it would also have the company face stock shortages till the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/05/23/nvidia-shortages-after-gpu-boom/",
+      "originalUrl": "https://www.gizmochina.com/2023/05/23/nvidia-shortages-after-gpu-boom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/05/NVIDIA-Hopper-GPU-_3-g-low_res-scale-2_00x-768x723-1.png",
+          "width": 768,
+          "height": 723,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-synopsys-lays-out-the-benefits-of-ai.md",
       "title": "Synopsys Lays Out The Benefits Of AI",
       "excerpt": "Synopsys User Group Meeting, CEO Aart de Geuss explains the industry dynamics in an engineering world transformed by AI.",
@@ -890,6 +942,40 @@
       "provider": {
         "name": "Digit",
         "domain": "digit.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-22-supermicro-launches-industrys-first-nvidia-hgx-h100-8-and-4-gpu-h100-servers-with-liquid-cooling-reduces-data-center-power-costs-by-up-to.md",
+      "title": "Supermicro Launches Industry's First NVIDIA HGX H100 8 and 4-GPU H100 Servers with Liquid Cooling -- Reduces Data Center Power Costs by Up to 40%",
+      "excerpt": "Liquid Cooled Large Scale AI Training Infrastructure Delivered as a Total Rack Integrated Solution to Accelerate Deployment, Increase Performance, and Reduce Total Cost to the Environment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/n32502037/supermicro-launches-industrys-first-nvidia-hgx-h100-8-and-4-gpu-h100-servers-with-liquid-cooling-r",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/n32502037/supermicro-launches-industrys-first-nvidia-hgx-h100-8-and-4-gpu-h100-servers-with-liquid-cooling-r",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-21T21:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1369,103 +1455,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-chatgpt-outperforms-money-managers-as-americans-flock-to-ai-for-investing-advice.md",
-      "title": "ChatGPT outperforms money managers, as Americans flock to AI for investing advice",
-      "excerpt": "Considering AI's existing ability to best the most blue-chip of money managers out there, the days of paying mutual funds management fees for middling returns, at least in the current structure, may be winding to a close. All of this sounds like investing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/chatgpt-is-trouncing-money-managers-and-is-destined-to-turn-the-investing-world-upside-down/",
-      "originalUrl": "https://www.zdnet.com/article/chatgpt-is-trouncing-money-managers-and-is-destined-to-turn-the-investing-world-upside-down/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/27a45630c4d84e49412c328fdfea7c6343d52b9b/2023/05/17/88b1d561-a90d-4972-a16e-17274145535e/gettyimages-1472335476.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chatgpt-is-trouncing-money-managers-and-is-destined-to-turn-the-investing-world-upside-down/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-is-trouncing-money-managers-and-is-destined-to-turn-the-investing-world-upside-down/",
-      "publishedDateTime": "2023-05-18T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-18-cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications.md",
-      "title": "CAST AI Slashes Cloud Costs for Organizations that Build, Train and Run Artificial Intelligence (AI) Applications",
-      "excerpt": "CAST AI introduced a series of new features into its platform, designed to dramatically reduce cloud costs for organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/",
-      "originalUrl": "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2023/05/CAST-AI-Slashes-Cloud-Costs-for-Organizations-that-Build-Train-and-Run-Artificial-Intelligence-AI-Applications.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/cast-ai-slashes-cloud-costs-for-organizations-that-build-train-and-run-artificial-intelligence-ai-applications/amp/",
-      "publishedDateTime": "2023-05-18T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
       ]
     }
   ],

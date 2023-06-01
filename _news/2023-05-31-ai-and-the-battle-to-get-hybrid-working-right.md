@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rogertrapp/2023/05/30/ai-and-the-battle
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogertrapp/2023/05/30/ai-and-the-battle-to-get-hybrid-working-right/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 39
+  - title: "2 Things Enterprises Get Right About AI, and 1 Thing They Get Wrong"
+    excerpt: "Artificial Intelligence (AI) is having a profound impact on the way enterprises across the globe do business, and it's only continuing to grow. That's unsurprising, as companies across all industries leverage AI as a tool to cut costs,"
+    publishedDateTime: 2023-06-01T19:03:00Z
+    webUrl: "https://www.inc.com/sarvarth-misra/2-things-enterprises-get-right-about-ai-1-thing-they-get-wrong.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "/1tZF7M6M3jHNufskSar1isT178qMBYH4H4575HfLnzruAnRPfTMvgiEeNUDMUK7CZK13GWc+RSaBu50xtvY1Dec+INCOGOHDepH0wsGrAtEKab194xgQptkbtOK02i+jM9GRQi0byfnSuwJyK8eZPJusQnW84L2n7LhVVfFr1brmPt/WDNyHqSsurdZIuVtqDmANC6wvsKId3YWSAIJNjdxpWLlBw3g3ahxBqgVCjIWl1M83s1XI+AV07dvbOe/1RrpjIkUgERec1fZSAjsouuev93dx1l5dqsAiAxpkXZI9k3iyfj8EUqyOFrC7UR6peYKXa2xTjRXpF0NKr5KNIMakFGkr5tgQek3bnbvV68=;yRAZYanQ8DeDCMZByfPbBg=="
 ---

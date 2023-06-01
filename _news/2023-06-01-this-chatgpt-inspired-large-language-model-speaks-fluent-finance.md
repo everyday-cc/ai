@@ -178,6 +178,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 43
+  - title: "See why AI like ChatGPT has gotten so good, so fast"
+    excerpt: "The results illustrate how quickly the technology has advanced. May 24 at 7:45 p.m. Artificial intelligence has become shockingly capable in the past year. The latest chatbots can conduct fluid ..."
+    publishedDateTime: 2023-05-29T05:40:00Z
+    webUrl: "https://www.washingtonpost.com/business/interactive/2023/artificial-intelligence-tech-rapid-advances/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WGDPFE62DZF4BJ2WYNVFTCRMCA.jpg&w=1200"
+        width: 1200
+        height: 623
+        isCached: true
   - title: "How Could ChatGPT and Artificial Intelligence Impact the Economy?"
     excerpt: "ChatGPT, the first artificial intelligence app developed by OpenAI, has already created sweeping changes in certain industries. Publishers are laying down standards for AI use for writers -- or,"
     publishedDateTime: 2023-05-30T17:32:00Z
@@ -206,6 +220,6 @@ related:
       domain: bizjournals.com
     quality: 14
 
-secured: "I7wWM+A43QJi6nU69Cdlt+C+6f7YC07MkaHaSBWvDNIbklNWzjHVgD9YJapaS+7mXMrSh1QB2ELJwL+fSfFtBDu+iNx3PUcJ95JIM1ZAzxKvZnuyBh1w+Gak6uomOvOgS41PF6ka5O5cHN5RjzgxE/E2O5wfOmjCY9XFRaEf7PByFtzVkfxzTzovyog2zNB8BjasNUDisj/XCOcd/2YWDNEmYmWJiYikXCiHaoB85Uqxlc0KMKLOrZcYhdHkLgznZGISKA2iH7n5s3Ikw/Up6YOdfydtCpvy84nUV3Ucx5F6PnnLmubK88t8gKk+ScE/DoEaeXtn/7z2SzsFWMMz32eIQ61VTJe/VS8A+qe4dYM=;u7xFhu38Tcp82Wsl8wsHqg=="
+secured: "B8pDYiQCOUejW8tkPYE6VVL8MEMWB2He4evzTIfl+6x5g511s7y/3j7UTyUa+gKVCmTKvz5Z21geWlNZUS2empKx/2pnHiiJqIGdM8CmmxcMg3+7wsep7mg9HtvZbSjjZkICDmQ9f7MCRSDl4md2CbL8vZllNpOd8jAuGuZ4945cDNetPki2/NAemv4hkELzKHqXZ9JhDyKmze66Rc9zOh/lQvqlQA1nX29hwYwMISGN7D6jLUfUu/c0P8gZLPgj/pU9M/kwSJoz9sPRc92hu+ztlVFbnrfrwaHjKiua5wiKgmRwrIxM8yUa8bHTdwrfLsQohbaOpySmhc8xr66hhiHuIhPN5p/NWn90X5lholLbppYp2zqkN5YQlzfXtJEGIqNrAKlBrN5FBETbvuWu6KkW8k7sHmLo4EtWY+wXRQY+KcaT92A9/ZGrZ51txtuHj0bR+iKpp2ZhmaeQMDhgS/ACmL6zP3NBVGuEoco/MU9RciHpjyttHcUuSAbYGOvYsyK3w5zb2Wjzs8FdIrU/oQ==;ebv7khPBoCfXIAp1wzx6xw=="
 ---
 

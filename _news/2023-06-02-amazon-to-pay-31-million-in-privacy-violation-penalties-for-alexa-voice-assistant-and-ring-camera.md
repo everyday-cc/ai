@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Amazon to pay $31 million in privacy violation penalties for Alexa voice assistant and Ring camera"
-excerpt: "Amazon said last month that it sold more than a half-billion Alexa-enabled devices globally and use of the service increased 35% last year."
-publishedDateTime: 2023-06-01T17:45:00Z
-originalUrl: "https://tulsaworld.com/news/nation-world/business/amazon-to-pay-31-million-in-privacy-violation-penalties-for-alexa-voice-assistant-and-ring/article_91e73e73-d2cd-5ff4-91a6-62f65e046f20.html"
-webUrl: "https://tulsaworld.com/news/nation-world/business/amazon-to-pay-31-million-in-privacy-violation-penalties-for-alexa-voice-assistant-and-ring/article_91e73e73-d2cd-5ff4-91a6-62f65e046f20.html"
+excerpt: "Amazon has agreed to pay a $25 million civil penalty to settle Federal Trade Commission allegations it violated a child privacy law and deceived parents by keeping for years kids’ voice and location data recorded by its Alexa voice assistant."
+publishedDateTime: 2023-06-01T18:51:00Z
+originalUrl: "https://www.clickondetroit.com/business/2023/05/31/ftc-charges-amazon-with-privacy-violations-over-alexa-and-ring-cameras/"
+webUrl: "https://www.clickondetroit.com/business/2023/05/31/ftc-charges-amazon-with-privacy-violations-over-alexa-and-ring-cameras/"
 type: article
-quality: 10
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: clickondetroit.com
+  domain: clickondetroit.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/9/1e/91e73e73-d2cd-5ff4-91a6-62f65e046f20/6478cbbf7da09.preview.jpg?crop=1721%2C904%2C8%2C160&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Amazon fined $25M fine for violating child privacy with Alexa voice assistant"
@@ -110,7 +104,16 @@ related:
       name: Boston.com
       domain: boston.com
     quality: 0
+  - title: "Amazon to pay $31M in privacy violation penalties for Alexa voice assistant and Ring camera"
+    excerpt: "WASHINGTON — Amazon agreed Wednesday to pay a $25 million civil penalty to settle Federal Trade Commission allegations it violated a child privacy law and deceived parents by keeping for"
+    publishedDateTime: 2023-06-01T19:29:00Z
+    webUrl: "https://www.niagara-gazette.com/news/amazon-to-pay-31m-in-privacy-violation-penalties-for-alexa-voice-assistant-and-ring-camera/article_44ef57a2-00aa-11ee-9c8d-f7699c6bf802.html"
+    type: article
+    provider:
+      name: Niagara Gazette
+      domain: niagara-gazette.com
+    quality: 0
 
-secured: "fz9Jd6b18Tq1jl6mEqvo2JoxNNg9SL37NOUsDrIkdiuqPVQFmJoybQHXURRmbmqYBAZ47/MmZ32FOEeE6a4c0VUyQ+ZXfV7E7nkiaZUUoVMncHkTzkUWAvK+G4mYhkje8qQtyxYLkLO/lhquH2ocvhmcX/t/OwM0XYbtyZhgfiSkoAIBFaPEgDIh1ZBYhaFvBkyNxC5MohWxhjdRwuOMAmV94Zi+MCbN0A/iFSYGK3cH8cVwUXOP2KqpltDtq4jcZbno3c166mGNXjK6mrbS41lgFaciIw01Ug6cEVnTv51I/KAyXm4c7ksgh9155b/eBdmz5zgLIyihyjV7D2ifeA8H2+ej57z7BcHEzThflpg=;2nmOoa6CDXQn+hiS/nOSzw=="
+secured: "jiJlr8xGqTWTvCKxQPzmP6CB/Nt0FJ0O8i7+q7VOl8OnRarl+MEjdIjOLrRljRBx0W+F7Ot/sVgyRclZfPTJDC0+6N7B4mBCT3Jvqaz4sCAanD1Lo2eQ5JSjd36P71wBj3Q9ohl7sfTi1LjiHZMc0UXGodevY75RDIl/bp+ZeIWWGBxHwowa/lMBptRjbuItODAk64nEGSbg1OVfQTQC7bDA30omZ17XWS2K9LlsE4O1lzDQOEe8ej0rZy20Zm5f7NvQ5xB4XWp0jYWrFDCt2vmiNd1Aw5YBFTWonZZhPkFRSKxvtsTarlGdbz+Jdh/VCaqTLM+771rkj/eTsEWQ3fFi68PgYTU2bt9XDLxpzi+uqi9+Y+cWhHWGJ0Scy653nLE2ofDzYKMhHqj+dwgSX+0TdvuTwOedN542ItLnnBO4RbbR76hkJ7j4wBtsXz0iHC/vKRKgfE86lZMsPpqGEdKeCnBYzzxeVdZeYitEPuIWrZawBGx5WyiNRs+EsxJ0AeiXnVMBoiEoM7HLtMmDlw==;L3CDAV75Zc/LLfCplWP9GQ=="
 ---
 

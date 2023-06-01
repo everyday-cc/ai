@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/technology/wall-street-banks-seizing-ai-to-rew
 webUrl: "https://www.afr.com/technology/wall-street-banks-seizing-ai-to-rewire-world-of-finance-20230601-p5dd3o"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Your Evening Briefing: AI Is Sweeping Across Wall Street"
+    excerpt: "JPMorgan is advertising for more AI roles than rivals. Morgan Stanley bankers are, well, “experimenting.” Unsurprisingly, the AI revolution is unfolding rapidly on Wall Street as wider interest grows in the evolving technology and its likely impact on business."
+    publishedDateTime: 2023-06-01T21:11:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-01/bloomberg-evening-briefing-new-ai-jobs-are-sweeping-across-wall-street"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1_ZOx4vSljQ/v0/1200x900.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "OP66T3I2QVjihRfsBsT19tF0i6NzL2H/FmReOiGNgPJ/LdpVhw8LzhVFL0lOCtWSZPao/r7/sndXKv6ShWIJKq4AL7oLGh22Z4JPUWnYXwoYOTLeYhQMuDdaDCJ++FAow7U/Z13XQ5SGhqjBdyNQlPDh81+KV6q0COFihuyYQ6R9xPt3qh4EaYEviKFiBKUQi4U6uwN0JoKoCStUu7aCzF+TOfbN9rEo/te2qDlyS+qVniQold+V9KTI5c/JAiNvwklKaj72kRl6BwNPDU5fHrd9Isl0BIZ6MYRkpQ0Y8cjEy0ZajoNnujOI2ybu14yB+hoNsz6DgczsHXWaCD61aGSLw6YbyAkiJpafYgP06f8=;zRIUALE1T0+qetqdqyYO1w=="
 ---

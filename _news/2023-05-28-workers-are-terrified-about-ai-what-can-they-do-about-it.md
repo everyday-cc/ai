@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "Why AI chips are hot and what they are"
+    excerpt: "SAN FRANCISCO >> The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper."
+    publishedDateTime: 2023-06-01T21:00:00Z
+    webUrl: "https://www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/"
+    ampWebUrl: "https://www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/06/01/breaking-news/why-ai-chips-are-hot-and-what-they-are/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 74
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/06/web1_13859247-13f3b5a518ca4bafaefc4d7ce03ff410.jpg"
+        width: 760
+        height: 507
+        isCached: true
   - title: "Regulators take aim at AI to protect consumers and workers"
     excerpt: "The nation’s financial watchdog says it’s working to ensure companies follow the law when using artificial intelligence as concerns grow over increasingly powerful AI systems like ChatGPT."
     publishedDateTime: 2023-05-30T20:03:00Z

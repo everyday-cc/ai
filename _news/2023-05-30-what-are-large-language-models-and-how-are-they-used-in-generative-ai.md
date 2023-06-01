@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3697649/what-are-large-languag
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3697649/what-are-large-language-models-and-how-are-they-used-in-generative-ai.amp.html"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Erico-Behmer-Victoria-Martinez-Clean.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Can The 2024 US Elections Leverage Generative AI?"
-    excerpt: "Let’s discuss the potential of using generative AI in the 2024 US elections and how it can transform political campaigns and decision-making."
-    publishedDateTime: 2023-05-28T01:45:00Z
-    webUrl: "https://www.unite.ai/can-the-2024-us-elections-leverage-generative-ai/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/05/Featured-Blog-Image-Can-The-2024-US-Elections-Leverage-Generative-AI-942x600.jpg"
-        width: 942
-        height: 600
         isCached: true
   - title: "Exploring the Capabilities of Smaller, Open-source Large Language Models"
     excerpt: "Our AI experts share their key takeaways from exploring the capabilities of open-source language models, which tend are to be much smaller than larger, proprietary models like ChatGPT."

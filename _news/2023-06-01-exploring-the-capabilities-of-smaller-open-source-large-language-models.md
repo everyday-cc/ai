@@ -55,20 +55,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Can The 2024 US Elections Leverage Generative AI?"
-    excerpt: "Let’s discuss the potential of using generative AI in the 2024 US elections and how it can transform political campaigns and decision-making."
-    publishedDateTime: 2023-05-28T01:45:00Z
-    webUrl: "https://www.unite.ai/can-the-2024-us-elections-leverage-generative-ai/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/05/Featured-Blog-Image-Can-The-2024-US-Elections-Leverage-Generative-AI-942x600.jpg"
-        width: 942
-        height: 600
-        isCached: true
 
 secured: "VbFXh+q28aBfPJDsQu5lJXpcB1iOaYLM/ZnQxsPvMK579lMAC2EQh54iXKy3GkUGCLr4by6wX5vEPe/SDfvJirVa8wpDJZZpnJ+XkDz9H8KZOSNeOno1jn5U7xtID4DycX9+E4JuO9aCZzGNsohlcnTHICUEbSVfCz4p6Pv6Lve2+c1YvpReBhVmMjkjId7UB7xg3H2akTEIqA/g3ugDScH1eRS6i0PszZCsHxZmeL7dlodJZ0qFMdOPSk3yMhfzwH5rheSb5xvskKbStnxAiMx9JGxtKN9720xfozgxD5U/NjL/KJaIrHMA0rCJGSOtTzlsy4hMnIFpvTtmCB02TiBEfjfX/+4/oNv+8yVXdUhjljHiuPMhvlimwv3V0/e9yI+nPTPfZYg3mk8tKeVi6qhc7jHRYRo0WHoh6kSowv7bGImZcgzmoPiSosJe5WbqLjuL1pl+/MOxnViYoNV4FjQ99lZ1bmGZnbFRDgDH7sWpqTjFLifJsX1QwR7eOZB6QtOT1muq+OI1hPahpbeSpQ==;+R3LUabvi/ehDYJhFNxz+g=="
 ---

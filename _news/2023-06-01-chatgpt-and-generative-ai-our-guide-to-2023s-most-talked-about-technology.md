@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/generative-ai-chatgpt-guide-to-most-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june?amp"
 type: article
 quality: 85
-heat: 105
+heat: 125
 published: true
 
 provider:
@@ -55,6 +55,24 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "ChatGPT and Generative AI in Search: The Biggest Digital Ad Format Is Ripe for Revolution"
+    excerpt: "Microsoft and Google are racing to develop the best AI-assisted search experience, leaving advertisers on the precipice of major disruption."
+    publishedDateTime: 2023-06-01T18:59:00Z
+    webUrl: "https://www.businessinsider.com/search-generative-ai-chatgpt-biggest-search-format-ripe-for-revolution-2023-june"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+  - title: "ChatGPT and Generative AI in Media and Advertising: With Use Cases Set, the Battle for Hearts and Minds Begins"
+    excerpt: "Generative AI can already do much of the work and low-skilled labor that powers modern media and advertising."
+    publishedDateTime: 2023-06-01T18:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-media-use-cases-set-battle-begins-2023-june"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
 
 secured: "pglOB2LyVmR3TO21g/lBByydOcHGaqcSJ+ufX17SEphE7tpXsllIqd6NUS3GxIjw/Ux0nnbhITKbGXzeqGj9m3Bpjt2MWoC0DeIquFDfk2Diokf3pxLoPRvkam6TPf30/5Yl9b360Q3hEJQDaRsbt1lxeiN64YVaoKPFz9kxyR1HCNyfSlPE07nZozT9OoyNPPvlbWe+by/GTw1MHmqIqeS0vcG4pazsWYUJV6CgrnO71XuQIAyli9mudt0ssDPTgbXomfnbnCeMbncH3HVMwZzeBegFPOTKRyA/F3vPtj8ACtz6YC1JeuSj725bAVurwjICKMNdk4pConRKSZHJVJlf/hplNLgpeKHjaAAEirY=;pdAASN2b98pjgmTOKIfvFw=="
 ---
