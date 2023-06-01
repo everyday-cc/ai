@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-cus
 webUrl: "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/"
 type: article
 quality: 67
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -97,17 +97,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Empowering the future generation: The advantages of educating students in the new age era of AI"
-    excerpt: "Artificial intelligence (AI) has become a revolutionary force in the quickly changing world of technology, altering various sectors and our daily lives. As AI develops, it is more crucial than ever to get the"
-    publishedDateTime: 2023-05-27T09:53:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/empowering-the-future-generation-the-advantages-of-educating-students-in-the-new-age-era-of-ai/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 27
 
 secured: "TdZSVxYLsxDbWWV4XYKUcDhaqbhlgs+sb2O+0azkDUyL+EgrG8+j/EE/XW1bCu6bwkXGyWA1tbb9/Zz1oJNqDf1XEMuGiaxXafm80ATnWTJiI60xKh7P7b5qVgcjN+SSVUaHHvxn/KcYyEZ8YKz1aOPhT1y39w6WkVht3Mzgj66jBSpLaxH9rEtLQ8NWKqCjS3JwbFBnOouyqsggBWcLm4xhm8ISd84cuU8Pre/Q6k+lpS8S4Yl9e3eVn8dV5xK1KYQWPw5m37U9RYBRt23hFLcGHvsGjpiomHpgM/m43LV5oA3+R7c+0RrmxhTDmggLsPmhoOfh8+rUqjTEWslAznl32YrrgQ9r1F21q2uYtfwT+EaMkoT2cx8Q6yphYzG/4XkiFMc4W4zFAGvNAeeCT5WDnoidrvzDd+H423msMSYFjElKtPWhIvaDxiA02O0Dq3FCRnqOLD82YPWSObRjw+0HZWIQ9nT298mxe9BsyOYks3V2cRZasgZhTQZwqeZOWb+YPHE+dR3nHcZR0qqxkw==;sQaedvTxShMgEbUYzBPlYQ=="
 ---

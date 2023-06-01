@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/theyec/2023/05/31/five-ways-entrepreneurs-
 ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/31/five-ways-entrepreneurs-can-use-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/31/five-ways-entrepreneurs-can-use-artificial-intelligence/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/620a556214ce14ae732b0ac7/0x0.jpg?format=jpg&crop=752,423,x0,y78,safe&width=1200"
@@ -40,6 +41,6 @@ related:
       domain: laweekly.com
     quality: 4
 
-secured: "BUmRe5YURkGann3C77zeFSKgaYjQuy7Jt8GNE8ph4t7FVQj/rUWMIwPYC/2XNSfyzp4AVcNSxLzIKrFzJICDdNByU4aRHSbOU2B972Cb1bx8+RRhKYk3pxciCSwY7RSnvFPdsO9jZT6d1oZxeYbDIiIzV7BmnnnDFM5jPWDvrX81W0qUNKjGmZHvlQc0ZgpEhprdQv/i1PGuPP1+eAoAR4J32pTOwekhBm+efC8/kMikGOcSx632oJ/ZWxY/LDsUGVZh51fxSmWjixmdQ8bhlpN6gQnfZ9OiopuQAlqFwDI5VkL1vJD5Q2kPiHRB56KvZ75LdLvBY850/Zk/zMfaw4QrqWC0aDKub0ygjFfGWhI=;Y5iBhAv2oHROhhzvP2MpHw=="
+secured: "8hnfoYq7BRtPZtbsD1dktiyufQhlbnoKkwCyKYLZtoe0dFGC03iNNnkWqxq1amOWyuFyGNsbnUriI3WYR+fEwS77dwijiROrHF0LJJDeANW51dm/G8parpgcNsVGMo3A6ZS+009nORM58UCc7azrIbmwgx4kIkFy4gqstQv/IAbtvbbnJgPQuBUVWokGxjp4E5md5vBad7quloF6BXozGxDjTE/3GL1E+J7KD9FAmgIh1N1f4f8FUK4FspptKsYCROLuhMwSDJ4/t0OGyZiWWU9KIuBCjraYvKd0CuD4S5Eu9sK3jpzaM+1aD/CRNjZALhODU/m5Mf+f0U95c0YJZf8zy1i1hvNDaDxl+P3Nf0NfiYhEoYnC/Y4jmyQ0BCJbiF5uSoQw4luQUzIl297zWweF2fhYS2o5qCtNrF6QSfJZQhcCVDqakFF28dnyAllSahUf9rtskWx/qHWmfbKwn4zdHq1MNCZGhpL63a7L251p5L9EuxYMbLADTaAl8Hko5NuJnDvgGoxipwfe+e9P0Q==;YFTvyBVi4AUZ7ghdqoUKvg=="
 ---
 

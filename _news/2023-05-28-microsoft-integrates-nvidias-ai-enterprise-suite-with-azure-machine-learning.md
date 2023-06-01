@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3696978/microsoft-integrates-nv
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3696978/microsoft-integrates-nvidia-s-ai-enterprise-suite-with-azure-machine-learning.amp.html"
 type: article
 quality: 103
-heat: 423
+heat: 413
 published: true
 
 provider:
@@ -153,15 +153,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
-  - title: "3 AI Stocks That Could Beat Out Google and Microsoft"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Unless you’ve been off the grid for most of 2023, you know that"
-    publishedDateTime: 2023-05-27T10:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-could-beat-out-google-and-microsoft-1032355321"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "Windows Copilot Puts AI in the Heart of Microsoft's Most Important Software"
     excerpt: "Some of the most important screen real estate in the world is getting a chatbot that can adjust PC settings, perform searches and suggest music."
     publishedDateTime: 2023-05-27T12:00:00Z

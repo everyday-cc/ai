@@ -7,7 +7,7 @@ originalUrl: "https://www.thedailybeast.com/workers-are-terrified-about-ai-so-wh
 webUrl: "https://www.thedailybeast.com/workers-are-terrified-about-ai-so-what-can-they-do-about-it"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1480
     height: 833
     isCached: true
-
-related:
-  - title: "It’s Hard To Rave About A Plain White T-Shirt, So Retailers Are Making AI Do It"
-    excerpt: "Some retailers are using artificial intelligence to churn out hundreds of product descriptions that used to take weeks to write."
-    publishedDateTime: 2023-05-27T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/laurendebter/2023/05/27/its-hard-to-rave-about-a-plain-white-t-shirt-so-retailers-are-making-ai-do-it/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6471142a6fcd75efc69d86b2/0x0.jpg?format=jpg&crop=3840,2160,x0,y0,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "+0a1cy0VxzmJv55rGBhs6v/DexRUQYnGUQT2I9+EbBm333+2AN9Jtrf+mABxPkD2rU0FF/3ctt3SYKnITB0GoDuHdz2Ks6M5K/kOHY+d1M4F/D6XCmMsYYjX55elMdaQ5EewbluJHNSkJvD4trawWaXg7QIw+DI6kO2qRiSX6qQHhCMFmLohkPkgWlUo0e54Ld786vIjUHnP9FoBkfVRwgiuffc9DCY8iSeVqVgbznaNp6XTdq0m97JoytmjMEDmPU0SuGJvyk/1t9AxbJN3IBXYfVToj8h3i4W88fXH2NYdoaBprsj7NfpjVCkO+Vv//RC4Ohd9zS+AVVkkQEtVGHU+cGNqOhwVNDnC6GV/5+m/o9X+BFdlrBBUSz0s4+RPiEoxHZf5rmr+VGu+1QdVN+zyYRuoo7val2YQUL0ah7qmftjCcG2rxjShAZO5B7aqic7V4obzs2XXPbsSYGKlth+jDxeOyV9X7M3kY9WdlWeY0zWXAhN4IsYid7aGPwCCcjcAWj/Bo7xTjjjArQOe/A==;wNNxHSX8GWSGE8YF84PHNQ=="
 ---

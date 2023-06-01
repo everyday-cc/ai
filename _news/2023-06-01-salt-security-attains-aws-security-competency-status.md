@@ -47,15 +47,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 51
-  - title: "CrowdStrike to Accelerate Development of AI in Cybersecurity with AWS"
-    excerpt: "CrowdStrike is leveraging new generative AI capabilities of Amazon Bedrock, a fully managed service that makes foundation models (FMs) from leading AI startups and Amazon available via an API, to help customers adopt advanced Falcon Platform search,"
-    publishedDateTime: 2023-05-31T13:36:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/31/9823444.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
 
 secured: "hRnrx8KihGhOaJUkT6AZGx/O4yOVimHC06LnyDO5LlFgRkTMQuZQ34Gwq/yvu+rTgA7R5CpSIXoG4gcSfcWesZ5Gr+TPKwJi0WfWEYbXlT/cD3YOztPNte+iY4JMJ1dN4R7lkbOr4IOa5pAv4DhSgU8Ati/TtWqvj1W+W8x5E8CajeiLbyhsxWSb/Tf2zndOtgv/xxfNIvE5/ZeSNNnwtTOGDWjshAo4tlHNhDMGhwgFKY8Umwl9XU92TqfTydMS+NyvRSr9bX20IdsewnzZ74rv12UpYB1lS93d1PbfooDvmD5noCT9QM5DVnFSrqg4HX7dwfL0cyxRib2cbqPKEZgpG/fco+3MTxK59Brphpc=;ixbjbiUlxKu6eU1raHKGsQ=="
 ---

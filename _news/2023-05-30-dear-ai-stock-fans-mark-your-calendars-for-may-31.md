@@ -85,6 +85,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Analyzing artificial intelligence after calls for regulation"
+    excerpt: "Dozens of industry leaders are calling for artificial intelligence regulation, warning it could lead to the threat of extinction."
+    publishedDateTime: 2023-06-01T02:49:00Z
+    webUrl: "https://www.cbsnews.com/detroit/news/analyzing-artificial-intelligence-after-calls-for-regulation/"
+    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/analyzing-artificial-intelligence-after-calls-for-regulation/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/analyzing-artificial-intelligence-after-calls-for-regulation/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 57
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/01/28abd6a7-6cc2-4f13-b9aa-3fc5e852fd83/thumbnail/1200x630/a7541c193cdf5136fedbe7569278ac01/snapshot-44.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Generative AI may be the next AK-47"
     excerpt: "AI has the potential to change how wars are waged. But few humanitarians are thinking about how it will shape conflicts and crises."
     publishedDateTime: 2023-05-30T11:33:00Z

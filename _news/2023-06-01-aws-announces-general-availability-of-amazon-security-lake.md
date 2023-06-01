@@ -47,15 +47,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 51
-  - title: "CrowdStrike to Accelerate Development of AI in Cybersecurity with AWS"
-    excerpt: "CrowdStrike is leveraging new generative AI capabilities of Amazon Bedrock, a fully managed service that makes foundation models (FMs) from leading AI startups and Amazon available via an API, to help customers adopt advanced Falcon Platform search,"
-    publishedDateTime: 2023-05-31T13:36:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/31/9823444.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
 
 secured: "lsmHTW2MLFaeZu4DMKllooIQ+TsLx0CaOiu4Vr6OT9KbYDIbHmWQB6ZMBGQ5av98yjr9dliBUsMkJKs5qMT+z5zbx7zbqWuIImDgZLoB44JjD9JfYbi1dRe2d/WGmR5zeDiw9OqAtDLHX1Yo+lzFFGadj57FV5w1wNgtCs/4gNM69hbgDLCCZOYMtS5mTCDVL334w290IvVuKXZ9KRmNHoWFULxKNu1tJ3khbOFaYlAE8VFZa9XPsFPAREZfgl/Jl5I94it/pWg9aSazKiTEFXvbvCWzX/zb5l8T0nBA/iUOTTXEoxWnc3YPgUFFZq47X5P53ZBTNmsw7AkwaUXy61au1gtBGBUmO5MjDf7WkLw=;ybas6x7Nb2gGdPL7UqNsZQ=="
 ---

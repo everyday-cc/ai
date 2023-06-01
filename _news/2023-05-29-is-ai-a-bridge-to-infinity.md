@@ -33,15 +33,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "Generative Artificial Intelligence Tool May Support Drug Development"
-    excerpt: "Researchers at Ohio State University have developed a generative AI framework that may help accelerate drug design and development."
-    publishedDateTime: 2023-05-31T18:02:00Z
-    webUrl: "https://healthitanalytics.com/news/generative-artificial-intelligence-tool-may-support-drug-development"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
 
 secured: "fjJLgg6UuNIvYc+9PXxrlVaSNBJZH1OCBPUL8s9VYfnfc3RcTvyPnp2vEnW1ptaWY1htwkzauUv9VDIJiHCsikWP6fRPfKrFJoI9QajQHSnDeB1MG61KvxN92ceOT9ElZSVIpd/cW+EBUhU9z2uiPMhZdHl92mwEoiUPv2m4ngZ3kgl6SIcT2q5J5M+jdK89llc/vieJAmA+EsKhJRYY7lHx/PKlynH+nFTovcCrv2oFv4CnJ3uErvfptll8mh2Jh3bt3jwNadR6l7tR6Ey6Z5bhxDjs/BxLFyjgN1nG8O5Z811Rwuvwgsk414/MYJNBxDhwJcPkjVUiKuArxD3eYY8E/c9DV9uEGsKoFJUrn+0=;IM6bLfJ4MfyYZnaWqOUoMw=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Tech leaders call for more AI regulation and 'some degree' of industry coordination"
+    excerpt: "The need for a standardized approach towards innovation in AI is fast becoming an urgent matter. AI is currently causing havoc everywhere from plagiarism issues in academia to winning the World Photography Awards back in April,"
+    publishedDateTime: 2023-06-01T03:35:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202306/01/WS6477fbd4a3107584c3ac356b.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 33
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202306/01/6477fbd4a3107584e594749a.jpeg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "The right-wing origins of Australia’s indigenous Voice"
     excerpt: "A book by two central advocates of the Labor government’s Voice scheme shows that, far from being a grassroots movement, it originated as a bid to head off anger and disaffection among ordinary indigenous people."
     publishedDateTime: 2023-05-31T04:32:00Z

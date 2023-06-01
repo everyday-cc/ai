@@ -46,6 +46,20 @@ related:
         width: 640
         height: 384
         isCached: true
+  - title: "Alibaba to Build ChatGPT-Like AI Into Meeting, Messaging Apps"
+    excerpt: "Alibaba Group Holding Ltd. is integrating its most advanced artificial intelligence system into its Slack-like DingTalk messaging app and a meeting assistant named Tingwu."
+    publishedDateTime: 2023-06-01T02:15:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-06-01/alibaba-to-build-chatgpt-like-ai-into-meeting-messaging-apps"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikm5l1s5foiw/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "ChatGPT takes center stage as students ditch tutors in favor of AI-powered learning"
     excerpt: "The findings show many students and parents using ChatGPT, with some completely replacing their tutoring sessions with the AI tool."
     publishedDateTime: 2023-05-29T16:33:00Z

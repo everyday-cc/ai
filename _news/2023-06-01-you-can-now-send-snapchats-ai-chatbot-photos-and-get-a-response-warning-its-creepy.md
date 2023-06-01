@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/you-can-now-send-snapchats-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-now-send-snapchats-ai-chatbot-photos-and-get-a-response-warning-its-creepy/"
 type: article
 quality: 79
-heat: 139
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -30,15 +30,22 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT: Most Americans Know About It, But Few Actually Use the AI Chatbot"
-    excerpt: "Though 58% of Americans are familiar with ChatGPT, just 14% have actually tried it, a Pew Research Center survey finds."
-    publishedDateTime: 2023-05-27T14:10:00Z
-    webUrl: "https://www.pcmag.com/news/few-americans-have-actually-tried-chatgpt-despite-most-knowing-about-it"
+  - title: "While parents worry, teens are bullying Snapchat AI"
+    excerpt: "Users can also personalize My AI with custom Bitmoji avatars, and chatting feels a bit more intimate than going back and forth with ChatGPT’s faceless interface. Not all users were happy with the new chatbot,"
+    publishedDateTime: 2023-05-31T23:34:00Z
+    webUrl: "https://techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-my-ai/"
+    ampWebUrl: "https://techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-my-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-my-ai/amp/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 45
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/04/snapchat-my-ai-3.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Snapchat launches a new generative AI feature, ‘My AI Snaps,’ for paid subscribers"
     excerpt: "Snapchat today announced the launch of a new generative AI feature that will allow Snapchat+ subscribers to send Snaps of what they’re up to in order to receive a generative Snap back from the in-app chatbot,"
     publishedDateTime: 2023-05-31T13:29:00Z
@@ -48,52 +55,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 41
-  - title: "Lazada unveils new eCommerce AI chatbot LazzieChat"
-    excerpt: "Lazada group has released LazzieChat, an eCommerce AI chatbot powered by OpenAI’s ChatGPT technology in Microsoft’s Azure OpenAI Service to provide a more personalized shopping experience to its customers."
-    publishedDateTime: 2023-05-29T03:00:00Z
-    webUrl: "https://www.marketing-interactive.com/lazada-unveils-new-ecommerce-ai-chatbot-lazziechat"
-    type: article
-    provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
-    quality: 39
-    images:
-      - url: "https://marketing-interactive-assets.b-cdn.net/images/sg/content-images/by_year_month/2023-may/lazada.jpg?auto_optimize=medium"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Chinese AI chatbot firm Xiao-I eyes global market after Nasdaq IPO on ChatGPT fever"
-    excerpt: "When Yuan Hui launched his company’s first chatbot two decades ago, the world had yet to catch up on the potential of conversational artificial intelligence (AI). Today, Shanghai-based Xiao-I is worth more than US$400 million,"
-    publishedDateTime: 2023-05-31T04:20:00Z
-    webUrl: "https://www.channelnewsasia.com/business/china-xiao-i-artificial-intelligence-company-nasdaq-3527291"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 33
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--fYeRF4wY--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/05/31/china_xiao-i.png?itok=9K8E7QKU"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Talk to the bot? An AI chatbot may be your next therapist"
-    excerpt: "Pandemic stresses led to millions more Americans seeking mental health treatment, so it may prove tempting for insurers to offer up apps and chatbots to meet the mental health parity requirement."
-    publishedDateTime: 2023-05-29T15:39:00Z
-    webUrl: "https://www.benefitspro.com/2023/05/29/an-ai-chatbot-may-be-your-next-therapist-will-it-actually-help-your-mental-health/"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 19
-  - title: "US eating disorder helpline takes down AI chatbot over harmful advice"
-    excerpt: "National Eating Disorder Association has also been under criticism for firing four employees in March who formed a union"
-    publishedDateTime: 2023-05-31T17:56:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/31/eating-disorder-hotline-union-ai-chatbot-harm"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "Je5ntxkDYWy1UDp8ejtuy80c7LPiRlexhw37BqOZmKRObTr2KVJuZ5IqcQ8vrY010UPGxl0cyukWfM1D+zzZfpjfoe6z/yOZxO17fp1duJ8GUZ6G7d7MobS0oEmqHL7O7vlFrHQ3JuMrZkX4uDn97DFueBxAaLII5+UK8FhAxpDu8V2JLhBp7T2IGzKIwE4xMUE7Z/bJGIhen/MRku7uJ/em0LcSgWj8oFv3CghTG13rMAIHJrlpeyaqPmc7cqi3HJicTgrO+dM/6LVkQ1l83nhh4ZaUPZeo7MEjwpIpfNBmYCykFB7CXtSCSh5bBj0+CnG6rpD92zowA8bq0pAvopQ3asec+ACzNK2VOwoVs5X3G9SC/PE2qpZV2OL9xNmvYx5JODxJ1nikDymIbeWEm/nNzZ3ocqSRssTgezH13O3h2zsUXZkb2lnRt81GhOg6b2Q1VL6mqKaESLtxIpX5BPqtj8G/XsrxoYybT4xC6UlG6N0Bdok24w639JNy74l8IlIdd/6g90Y9WyU/kZDFUQ==;VBvz3LVI94CxdpStDx1PoA=="
 ---

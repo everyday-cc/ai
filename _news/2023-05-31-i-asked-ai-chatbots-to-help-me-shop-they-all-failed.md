@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/ai-product-recommendations/"
 webUrl: "https://www.wired.com/story/ai-product-recommendations/"
 type: article
 quality: 67
-heat: 77
+heat: 107
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT: Most Americans Know About It, But Few Actually Use the AI Chatbot"
+    excerpt: "Though 58% of Americans are familiar with ChatGPT, just 14% have actually tried it, a Pew Research Center survey finds."
+    publishedDateTime: 2023-05-27T14:10:00Z
+    webUrl: "https://www.pcmag.com/news/few-americans-have-actually-tried-chatgpt-despite-most-knowing-about-it"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 45
   - title: "Jim Warren: AI chatbots have been used to create hundreds of news websites"
     excerpt: "Misinformation tracker NewsGuard has identified more than 125 websites, published in 10 languages, with news content written by AI tools"
     publishedDateTime: 2023-05-30T10:00:00Z
@@ -42,6 +51,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Talk to the bot? An AI chatbot may be your next therapist"
+    excerpt: "Pandemic stresses led to millions more Americans seeking mental health treatment, so it may prove tempting for insurers to offer up apps and chatbots to meet the mental health parity requirement."
+    publishedDateTime: 2023-05-29T15:39:00Z
+    webUrl: "https://www.benefitspro.com/2023/05/29/an-ai-chatbot-may-be-your-next-therapist-will-it-actually-help-your-mental-health/"
+    type: article
+    provider:
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 19
+  - title: "US eating disorder helpline takes down AI chatbot over harmful advice"
+    excerpt: "National Eating Disorder Association has also been under criticism for firing four employees in March who formed a union"
+    publishedDateTime: 2023-05-31T17:56:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/may/31/eating-disorder-hotline-union-ai-chatbot-harm"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "llmDtM0EPGOztmHUNwo9CfW5XvYuLjTgB235GsQFqRuHHVSkSvm7UgYfoGFgriv9jZiTduaV76BscFeIBCukszs9K2GnDUBuRm3XMZTL/OkTGUwyFK8q/8cLE/sumq3wpfBXaiPNK7EXAOESReTu10oG8BCZQLyc5gchpPns/NUK2u4aUO8KEOyEYYLsLCUxqnfCtm0uJNF9H+5VGQPyjp97oJsxp1+3QJw19C39VAuhLh+qsRX7u/ARjMSmnQO7j9lXshOlxDHAglD6NGGHhcEZebLz4vKa73+K8Z76IRTPwtgT32yKvfHGu8jiFd8tOVvaANfFz8Oj8K7A7du+BlfUd/53WTeGtQVthvTNZCChKoWbFtycglsay2sdhTEKZCVxr2ImsbLtIQ/6EufgFLB5t3eo4FnS1RCsIE9yopi8mLnSHG7DtvncSo9vISR90OAzygOZg4erGWaKt4cK2K8SSdHkUBRwzdw6k3ouPfLeHQ1OeM3jVfAsv1T6Wu8Tz+XPEpPyEXHPQPwSf5zx7g==;5BH2+Kp2fwBNb9a8Pya/YQ=="
 ---

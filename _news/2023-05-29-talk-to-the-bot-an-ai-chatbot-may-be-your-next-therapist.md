@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "You can now send Snapchat's AI chatbot photos and get a response (warning, it's creepy)"
-    excerpt: "On Wednesday, Snapchat announced that Snapchat+ users are able to Snap the chatbot photos and receive unique, generative AI messages from the chatbot in return. For example, Snapchat says users can send it a photo of their grocery haul and possibly get a recipe for the ingredients in the picture."
-    publishedDateTime: 2023-05-31T21:32:00Z
-    webUrl: "https://www.zdnet.com/article/you-can-now-send-snapchats-ai-chatbot-photos-and-get-a-response-warning-its-creepy/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/you-can-now-send-snapchats-ai-chatbot-photos-and-get-a-response-warning-its-creepy/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-now-send-snapchats-ai-chatbot-photos-and-get-a-response-warning-its-creepy/"
+  - title: "I Asked AI Chatbots to Help Me Shop. They All Failed"
+    excerpt: "I test products and write reviews for my job. So I asked ChatGPT, Bard, and Bing Chat to recommend headphones—and I saw exactly where the AI falls short."
+    publishedDateTime: 2023-05-31T11:01:00Z
+    webUrl: "https://www.wired.com/story/ai-product-recommendations/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 79
+      name: Wired
+      domain: wired.com
+    quality: 67
     images:
-      - url: "https://www.zdnet.com/a/img/resize/b8d1552d3ea9e2b58aec71720062fac7f6afd628/2023/05/31/72c1a77f-a6de-4d7b-a141-d3394ab6d291/screenshot-2023-05-31-at-1-40-18-pm.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://media.wired.com/photos/64768c549a01d944fee35eba/191:100/w_1280,c_limit/I-Asked-ChatGPT-to-Help-Me-Shop.-It-Failed-Gear-GettyImages-1337276171.jpg"
+        width: 1280
+        height: 670
         isCached: true
   - title: "ChatGPT: Most Americans Know About It, But Few Actually Use the AI Chatbot"
     excerpt: "Though 58% of Americans are familiar with ChatGPT, just 14% have actually tried it, a Pew Research Center survey finds."
@@ -44,42 +42,19 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 45
-  - title: "Snapchat launches a new generative AI feature, ‘My AI Snaps,’ for paid subscribers"
-    excerpt: "Snapchat today announced the launch of a new generative AI feature that will allow Snapchat+ subscribers to send Snaps of what they’re up to in order to receive a generative Snap back from the in-app chatbot,"
-    publishedDateTime: 2023-05-31T13:29:00Z
-    webUrl: "https://techcrunch.com/2023/05/31/snapchat-launches-a-new-generative-ai-feature-my-ai-snaps-for-paid-subscribers/"
+  - title: "Jim Warren: AI chatbots have been used to create hundreds of news websites"
+    excerpt: "Misinformation tracker NewsGuard has identified more than 125 websites, published in 10 languages, with news content written by AI tools"
+    publishedDateTime: 2023-05-30T10:00:00Z
+    webUrl: "https://www.chicagotribune.com/opinion/commentary/ct-opinion-ai-fake-news-chatgpt-20230530-dlggdtqypngf7hk6pfsfzwyo64-story.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 41
-  - title: "Lazada unveils new eCommerce AI chatbot LazzieChat"
-    excerpt: "Lazada group has released LazzieChat, an eCommerce AI chatbot powered by OpenAI’s ChatGPT technology in Microsoft’s Azure OpenAI Service to provide a more personalized shopping experience to its customers."
-    publishedDateTime: 2023-05-29T03:00:00Z
-    webUrl: "https://www.marketing-interactive.com/lazada-unveils-new-ecommerce-ai-chatbot-lazziechat"
-    type: article
-    provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
-    quality: 39
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 37
     images:
-      - url: "https://marketing-interactive-assets.b-cdn.net/images/sg/content-images/by_year_month/2023-may/lazada.jpg?auto_optimize=medium"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Chinese AI chatbot firm Xiao-I eyes global market after Nasdaq IPO on ChatGPT fever"
-    excerpt: "When Yuan Hui launched his company’s first chatbot two decades ago, the world had yet to catch up on the potential of conversational artificial intelligence (AI). Today, Shanghai-based Xiao-I is worth more than US$400 million,"
-    publishedDateTime: 2023-05-31T04:20:00Z
-    webUrl: "https://www.channelnewsasia.com/business/china-xiao-i-artificial-intelligence-company-nasdaq-3527291"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 33
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--fYeRF4wY--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/05/31/china_xiao-i.png?itok=9K8E7QKU"
+      - url: "https://www.chicagotribune.com/resizer/sTCFwy1DXyc5qYFInLVJ5loZ9OY=/1200x630/filters:format(jpg):quality(70):focal(2293x1960:2303x1970)/cloudfront-us-east-1.images.arcpublishing.com/tronc/UPJDSXSRJIER3SHFXQ3B6AB7ZM.jpg"
         width: 1200
-        height: 676
+        height: 630
         isCached: true
   - title: "US eating disorder helpline takes down AI chatbot over harmful advice"
     excerpt: "National Eating Disorder Association has also been under criticism for firing four employees in March who formed a union"
