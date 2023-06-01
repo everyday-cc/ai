@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/space-shu
 cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/space-shuttle-to-self-driving-cars-lambdatest-wants-to-test-every-tech-123052800759_1.html"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,29 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Ferrari on self-driving cars: ‘We don't care'"
-    excerpt: "The ultraluxury brand doesn't plan to make software that will take over for the driver but is working toward releasing an EV by 2025."
-    publishedDateTime: 2023-05-28T04:01:00Z
-    webUrl: "https://www.autonews.com/mobility-report/ferraro-ceo-we-dont-care-about-self-driving-cars"
+  - title: "The “death of self-driving cars” has been greatly exaggerated"
+    excerpt: "Seven years ago, hype about self-driving cars was off the charts. It wasn’t just Tesla CEO Elon Musk—who has been making outlandish predictions about self-driving technology since 2015. In 2016, Ford set a goal to start selling cars without steering ..."
+    publishedDateTime: 2023-06-01T11:00:00Z
+    webUrl: "https://arstechnica.com/cars/2023/06/the-death-of-self-driving-cars-is-greatly-exaggerated/"
+    ampWebUrl: "https://arstechnica.com/cars/2023/06/the-death-of-self-driving-cars-is-greatly-exaggerated/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/06/the-death-of-self-driving-cars-is-greatly-exaggerated/amp/"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 74
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/VIGNA-MAIN_i.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/IPACE_3-800x533.jpg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Jeep is testing self-driving off-road vehicle tech (video)"
-    excerpt: "Jeep has offered the public a glimpse of its autonomous off-road driving technology in a new video. The two Jeep Grand Cherokee 4xe test cars – which utilise artificial intelligence (AI) to tackle various kinds of terrain without the need for a driver – were put through their paces in Moab,"
-    publishedDateTime: 2023-05-31T11:24:00Z
-    webUrl: "https://www.driving.co.uk/news/jeep-is-testing-self-driving-off-road-vehicle-tech-video/"
-    type: article
-    provider:
-      name: Sunday Times Driving
-      domain: driving.co.uk
-    quality: 4
 
 secured: "sPTkRkOm8PAAY7UPYpxlbO/xrwZydNCLyHjK+LkII5f8I1qRSBBGyotRmSfRrJFvPWAX3eKDC1QGadRhqFxz0j9LXv1Vwa8n6XkSqx/gg7/DY12BTwHvPMtd7a44l0TQf2UUBhv4zYr9tBhZchCtqn7B65a3NPwLhvI/BdITbRg+m9NgBY0Lf8rN7OBvXkXVMe21vw839Kpn1hjNnuUSo9zMq3pkgy8+cVzRDv0D3M3F8NqQVOcnZKCgClW6++f/UsWV3TARMM5bSQuKv21jtMHxe9fsOco/izfo1VhhlAaPvsdEshe3WlQTTThkYNaCz2Lq+Fy3Rl9Db8BvMGMJkE7PtNckmECxrYtjqPmWA+Y=;316/KULBp87zhsevK1In4A=="
 ---

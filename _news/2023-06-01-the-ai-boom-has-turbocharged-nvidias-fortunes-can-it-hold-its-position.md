@@ -7,7 +7,7 @@ originalUrl: "https://www.economist.com/leaders/2023/06/01/the-ai-boom-has-turbo
 webUrl: "https://www.economist.com/leaders/2023/06/01/the-ai-boom-has-turbocharged-nvidias-fortunes-can-it-hold-its-position"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "From Gaming Guru to AI Game-Changer: How Nvidia Reinvented Itself"
-    excerpt: "Nvidia was all about gaming. Sure, the Nvidia Tesla high-performance computing card had been available since May 2012 and the third-generation model was just around the corner. But that was just a sideshow in 2013,"
-    publishedDateTime: 2023-05-28T15:19:00Z
-    webUrl: "https://www.nasdaq.com/articles/from-gaming-guru-to-ai-game-changer:-how-nvidia-reinvented-itself"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
-
-secured: "deXGBzmsglLAR1wlIaIbrAms5RSIjj/ttJprYMonSmGCYlJhhWjfUsTNG1amjdjFE8MD6ML96K2xsVNC40VlInhdL5MKSxuRJvCZFgWoBRzvoy6AoShcfXRQO5YwXCFI/W7gxpwxZwiEg6hd4VCFnTwCQ61oAkIdaArs9sTe9w7ChfEjg13Q1BE2VaKq9zid0t7tZk/DmlByur9MBYDR42kIPf2qFFz9mZ3eriV7L2Y1SjYzQ4Ev0yrT0M2uwsmGbDjrtKqkzg5P8qjOfKA7TZA0qNmNjEZcwRrFg8R0kUVYJGoRfEwLyXTMqtDW4e+12/KjG74Eud2eQ1GiYpGvCy/LnLVmw6SBsoFLvuTpkuc=;XIC34x7JrIqhV8NjgxG6NQ=="
+secured: "04VFFlEOp7hYxsQqP8YMO35UdEbfFZgDHVsTYYm8a5VWqkJn+ZfNH8PSv845slH/CWiLrSHOS04IgckYiNQxwRTuyQwt9boLxgenXY0OrGuqQK0/vHNyK3ptFW8ToMeD8QiyaNXQXsX8FWQF7LRikCNUSZCXUp8J28Xrnt/QsVIYiABVAIvsHa6+17at37kyOLqfFgJztwE4h5VcV3QNXmZki7M70+nMFqCBZfe1vNm76UFfi2sNMy8rgJInyypX6E3k/8mmyJSbNR43lVDaEANmmXARDZ7Wdn9nHXTswnKPnha9OBAJlwi0pXTjwcbZEfbF+OekqHq99PlyrIv/ldPHGZj/AwJIak5TX5KyOV7wJ14JT42gaLgIt3Eg7z5npvfZ/yP5S5o94Z1MfMmgA/LUKQL9U66eLqsYke/NP9HnsswwGpxLr7fBAFu+eaZIsIEYpGf/n+MuxuEGmKS/Ry+iBP6rYzoGkETKclvQfLvHY5qSU2N6Vy9+aAeD7M0w9qsxdYraaqjER6LrR8fiCw==;8sSAlPTKYyGBAmSZYZb2mQ=="
 ---
 

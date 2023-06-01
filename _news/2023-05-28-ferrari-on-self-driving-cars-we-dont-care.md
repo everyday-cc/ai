@@ -7,7 +7,7 @@ originalUrl: "https://www.autonews.com/mobility-report/ferraro-ceo-we-dont-care-
 webUrl: "https://www.autonews.com/mobility-report/ferraro-ceo-we-dont-care-about-self-driving-cars"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,30 +25,14 @@ images:
     isCached: true
 
 related:
-  - title: "Space shuttle to self-driving cars: LambdaTest wants to test every tech"
-    excerpt: "LambdaTest wants to test not just software, but every kind of technology, including the next space shuttle and self-driving cars"
-    publishedDateTime: 2023-05-28T14:13:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/space-shuttle-to-self-driving-cars-lambdatest-wants-to-test-every-tech-123052800759_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/space-shuttle-to-self-driving-cars-lambdatest-wants-to-test-every-tech-123052800759_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/space-shuttle-to-self-driving-cars-lambdatest-wants-to-test-every-tech-123052800759_1.html"
+  - title: "Would you travel in a self-driving car?"
+    excerpt: "This past week, we polled Twitter users on whether or not they’d use a self-driving car for travel. More than half said they wouldn’t, but another quarter of voters said they may someday try it in the future."
+    publishedDateTime: 2023-05-30T11:54:00Z
+    webUrl: "https://www.wivb.com/wake-up/would-you-travel-in-a-self-driving-car/"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 44
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-05/28/full/1685283213-1815.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Jeep is testing self-driving off-road vehicle tech (video)"
-    excerpt: "Jeep has offered the public a glimpse of its autonomous off-road driving technology in a new video. The two Jeep Grand Cherokee 4xe test cars – which utilise artificial intelligence (AI) to tackle various kinds of terrain without the need for a driver – were put through their paces in Moab,"
-    publishedDateTime: 2023-05-31T11:24:00Z
-    webUrl: "https://www.driving.co.uk/news/jeep-is-testing-self-driving-off-road-vehicle-tech-video/"
-    type: article
-    provider:
-      name: Sunday Times Driving
-      domain: driving.co.uk
+      name: WIVB-TV
+      domain: wivb.com
     quality: 4
 
 secured: "bCg8fGL0fI3smV9kda99qRG11aoqrHWJc1IFWNI2qmmXCksdUdcNhqw/3bt6uSV7Af2/w0YZ1izIUUWuKDw0CB6B2GRnKA1q0ha7AjgLB7nuwWWdqGRQOCEuNjQH2jvHtYrdNijVWkcA9EUmDNdPRy+rfKnpGtUw3ZucXVuM3+ERXndCMKbJUv4x9Yn6ckxRthmK7Z76CVeAWL0hIuS6pFG1qXU9b7tOhUvx7Q5JNdB3EUnc/VyEL9l/36IEbG4B5Bjznux2MicEpZil0yQA9TUiZcqDiBzUNw3vGdndRBNZou1J6fIZSijLkRik7beYCjhsBhsMUC1OXPJgVko8mE6s38PygUa2VjveS4ZqzJe7eXllg/O8KpiQBFMnDATF/LxO5DEd9w5pgFuqF/+9n5z44bzjVgulLASrvztlBDtXVkzfP413S9zzlEMXdsytkLsZrm3+hnSyPOqDLUkq8dkkQjh+z89y73VlqaS2MRVsQH204mvhM/YKFGioRlI55ik40Rlsh9LaNnrMr3aQ3A==;pRYtQohPVFEIQ5+O8rzVyQ=="

@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/world/us/deepfaking-it-americas-2024-elect
 webUrl: "https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Reuters
@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "12 Companies Racing to Create AI Deepfake Detectors"
-    excerpt: "Startups and tech giants alike are racing to create deepfake detection devices to try and prevent a surge in AI-generated disinformation in the age of ChatGPT."
-    publishedDateTime: 2023-05-27T17:31:00Z
-    webUrl: "https://gizmodo.com/chatgpt-ai-12-companies-deepfake-video-image-detectors-1850480813"
+  - title: "The AI software market will boom to $787 billion by 2026. Here are the top 20 stocks that will lead, according to Bank of America."
+    excerpt: "These companies are in the top tier for being best-positioned to take advantage of the booming AI opportunity."
+    publishedDateTime: 2023-05-31T14:13:00Z
+    webUrl: "https://www.businessinsider.com/ai-software-stocks-buy-artificial-intelligence-market-bank-of-america-2023-5"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/414bba2390ff85756caf600794835a5b.jpg"
-        width: 1200
-        height: 675
+      - url: "https://i.insider.com/64766d17085acb0018fef066?width=700"
+        width: 700
+        height: 525
         isCached: true
   - title: "Deepfaking it: America’s 2024 election collides with AI boom"
     excerpt: "In total, about 500,000 video and voice deepfakes will be shared on social media sites globally in 2023, DeepMedia estimates. Cloning a voice used to cost $10,000 in server and AI-training costs up until late last year, but now startups offer it for a few dollars, it says."

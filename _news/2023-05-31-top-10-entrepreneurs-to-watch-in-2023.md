@@ -35,6 +35,22 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "How Companies Can Determine Potential Generative AI Use Cases"
+    excerpt: "While generative AI presents opportunities for some types of businesses, it creates serious challenges for others."
+    publishedDateTime: 2023-06-01T11:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/01/how-companies-can-determine-potential-generative-ai-use-cases/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/01/how-companies-can-determine-potential-generative-ai-use-cases/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/01/how-companies-can-determine-potential-generative-ai-use-cases/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63ff5b3599f2634f6eaa9372/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "LMWA6xvzjzQ9tJubO0XFmYqNRBQep1vmG2xoeVBVXi+1IiUjTyQNJyIBAEA/9+NTLWF9uVJBKbrtYD71heMhvQHHLme4vh/VQIhi2ticGDjTk+9XWcNYZfInFRyDJ0dvo3i/UEL9BAx9taipyFxaD4kv82r4OaWSxkyr7u6KH7UTa4bleTv7GFZeG1e1BDzT6Qd4Oso/mdCEivnV8ZfNts4Su1zbooc9FuTlRsboN1ozeyHSWcd5HJ8sWkHd0Bcvkvh+me+Saqk10l0ucBUEriywWRuDc6aX/aTOqCpofFIfsUvTW4B+I+0Bi1Q0f8bOqDuS+savsk1/lpcIi4yZaqMQrh3YUoRilnLnWXrdG80VwctTKQyQ+t1/20Uo12CCsQRBt/MhJ3nUI8t32Z95BUEq1eXtzlzt1LMtRAGC4iMdpKRC/gMx42o/UGHbXK7CyvgsbcOEFSv3iva91eSxs3gbDrN2K2zNcRaWRPC0lWk9R92eGy+Ex6e3RRShS8ij9Jv/zqyXjZtud1bROqvMTw==;cV/i7tgGrpLj5z2OVpDsGQ=="
 ---

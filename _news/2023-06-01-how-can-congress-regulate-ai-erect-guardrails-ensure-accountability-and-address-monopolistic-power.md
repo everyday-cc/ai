@@ -1,23 +1,29 @@
 ---
 category: news
 title: "How can Congress regulate AI? Erect guardrails, ensure accountability and address monopolistic power"
-excerpt: "When it comes to keeping this possible \"new type of tech monopoly\" in check, examples from around the world may pave the way, writes this information systems scholar."
-publishedDateTime: 2023-05-31T18:30:00Z
-originalUrl: "https://technical.ly/civic-news/ai-congressional-regulation-monopoly/"
-webUrl: "https://technical.ly/civic-news/ai-congressional-regulation-monopoly/"
+excerpt: "Takeaways: A new federal agency to regulate AI sounds helpful but could become unduly influenced by the tech industry. Instead, Congress can legislate accountability. Instead of licensing companies"
+publishedDateTime: 2023-06-01T11:41:00Z
+originalUrl: "https://www.econotimes.com/How-can-Congress-regulate-AI-Erect-guardrails-ensure-accountability-and-address-monopolistic-power-1657017"
+webUrl: "https://www.econotimes.com/How-can-Congress-regulate-AI-Erect-guardrails-ensure-accountability-and-address-monopolistic-power-1657017"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Technical
-  domain: technical.ly
+  name: EconoTimes
+  domain: econotimes.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "qxbHsmPCe9mjLE+eQ21WUDsPFPnQSOnCo+jmc2n75MX+e0EUUV7maw4bIyfGB3SHcY5USvF0DHzEgWo58YKqTTo44EmzzqfK7X5MiabEqowf5ZbMo+ARkDkENa0BwMiMrgjpEsCgFBNHryyEmmjak+2d9Whs7ZdC8bHiDe6gbGpMK3fgh5UvzB+MvhrhGgQwtLOOb+k+RQr+Cjro8Sdb/wb/OrZlDRSQ7KhGnZqIFGtjMNQoz9Yz+2aatbIyv/W2XAVhnFqq3TGEe7uwcIfG910KYrXJXR+It1DmKtz1b+2Hky0rb9unljqNRIxJzGAnDK4rZvzDM22J4mOAi6n+irTeXAyBVtaFElQXau5X+Hk=;Jsl1J51SveWwt5TsYNnWiw=="
+images:
+  - url: "https://www.econotimes.com/assets/images/econotimes/metaDefault2.png"
+    width: 400
+    height: 330
+    isCached: true
+
+secured: "pCI4EJfMAzp1FbEdZ6i9N/wRCKgUTzHmS+8JDXw/6rVxYAGniMm6e4BtYReVtjXY9yM0O4rdOCVIkd392vLKx5EYjv9yYzPR5SpzHMpAB0Q30TB2MQ71DFujrPSxiO2Ikm/G6jePdTchs7MayMOhoBAYKwy4pYoTesvE2gh/LH28CaMYnLrXpAXjF24NI4yfHOxws3S6P7IW7PcuvZFxLAcLSfgQw7uORY8bp25yWvpij0/wrNjeCy2c8rjK3GaJcQVBXl4cQA41QCoQ8og4/X4E39owlr521unzi5aUZCIRHd0vq+IF8cMEENtj6sB/64Glqpl/JV9sfmSiwrZJbHb4vxztSzJpODzRYy9VAeU=;0rJn5KUXwdPnzVoqnMBe7A=="
 ---
 

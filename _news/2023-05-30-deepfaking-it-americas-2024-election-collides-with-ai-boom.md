@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "12 Companies Racing to Create AI Deepfake Detectors"
-    excerpt: "Startups and tech giants alike are racing to create deepfake detection devices to try and prevent a surge in AI-generated disinformation in the age of ChatGPT."
-    publishedDateTime: 2023-05-27T17:31:00Z
-    webUrl: "https://gizmodo.com/chatgpt-ai-12-companies-deepfake-video-image-detectors-1850480813"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/414bba2390ff85756caf600794835a5b.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Deepfaking it: America's 2024 election collides with AI boom"
     excerpt: "Thousands of deepfakes are surfacing on social media, blurring fact and fiction in the polarized world of U.S. politics."
     publishedDateTime: 2023-05-31T02:17:00Z
@@ -52,6 +38,20 @@ related:
       - url: "https://www.reuters.com/resizer/mg_Z3flbGFCYf_PGJ98qsWZc7Gc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W2AOGF7FCFKJ5PN6UOL7GVR7VM.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "The AI software market will boom to $787 billion by 2026. Here are the top 20 stocks that will lead, according to Bank of America."
+    excerpt: "These companies are in the top tier for being best-positioned to take advantage of the booming AI opportunity."
+    publishedDateTime: 2023-05-31T14:13:00Z
+    webUrl: "https://www.businessinsider.com/ai-software-stocks-buy-artificial-intelligence-market-bank-of-america-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+    images:
+      - url: "https://i.insider.com/64766d17085acb0018fef066?width=700"
+        width: 700
+        height: 525
         isCached: true
 
 secured: "WlbunlTrBtpkfO/Nyio5vV/IN7SiP0TrnB3ySy9557ogsseGdyRULQ/LvZfePukhNjg5OPjq93h3m6kAga1JQBti3oUdx6pCYMON/eJ7jb5WeeYYgBNFVFbqLFBsNzwrW+utnMchcJQlYlnK3T9UVSOCzmJPTpPdtnOHDZndQ2CdHDN2IAcrDBGoBPdnwvKOYweNV3fbFzfH8PRvW1YnP1OTQFtinb1jmMJ6lALoM7qoZu9a0irBaoDf8UieYwcL4oXJ5OET7ngYPISEIwKfh/SGXpDcCO6uPfRC4Du/QZ4fR/MR5V/DrAG45qdVOchMR1nESw8FzIeo6ehewilglM5OZWAdCCEMvbY5aHuiqas=;m+v1nqHoBsjvkd+wYrx80A=="

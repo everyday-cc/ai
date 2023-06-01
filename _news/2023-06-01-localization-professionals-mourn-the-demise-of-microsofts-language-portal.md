@@ -7,7 +7,7 @@ originalUrl: "https://slator.com/localization-professionals-mourn-demise-of-micr
 webUrl: "https://slator.com/localization-professionals-mourn-demise-of-microsofts-language-portal/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,26 @@ topics:
   - Natural Language Processing
   - AI
   - Microsoft AI
+
+related:
+  - title: "AI Battle Heats Up: Microsoft to Take on Apple Head-on"
+    excerpt: "With Microsoft's new partnerships, the pillars of the PC ecosystem have teamed up to challenge Apple’s dominance in the AI ecosystem."
+    publishedDateTime: 2023-05-29T12:03:00Z
+    webUrl: "https://analyticsindiamag.com/ai-battle-heats-up-microsoft-to-take-on-apple-head-on/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
+  - title: "Microsoft and Amazon Announce Similar New Machine Translation Features a Day Apart"
+    excerpt: "Microsoft and Amazon announce similar new machine translation features within a day of each other, both intended for enterprise users."
+    publishedDateTime: 2023-05-30T08:15:00Z
+    webUrl: "https://slator.com/microsoft-amazon-announce-similar-machine-translation-features-day-apart/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 30
 
 secured: "b3s8+NJ51ioDb2unxUF9Ja5dxAa6Z3TM8GyhrP80e6Kdqx5FK/DqBDTJ5Cum54uAhZXKzo5LkrgVmIPBuIX88xYPDml0RlWAQCxNjLWCQ0Skcj9RvazhIDnGTCZWaiLn1EekhmOtAUMS8Xcv9DaLumL3V7EUgda7ETG4ZPGKJoco9XAIL3vyqDft3rVA9cOCGEMxwVWxyiyC3SbbYhKAI8l3M3IU8DTZOAsP5rsn0LDAVPVRIORBO+zYIjzGTQImVIDm1ykAfiCwiEjuct+DbEZPYti0+BXTzcCbzbyDDVmyijPe/5Q/VIbwtQDrvWzium2vLaexSrik7T/ArJuN/8safnoyxjHHTOb8IcxSXoKKjNoKsnerNtrCnZeaa1WdQAkRNgGOQT4EeSa08bSMVkoDKdGocOUdlZjJtx2E8NpNnXC0+n02bD+mW2aood+Au4959awRZ/VvAY7t5WIuQzA7vF1mswu7nlU8ufFPH1q7kwiBgF8o5ukq82azXig5PL8u5OJ5GN7DGIigf4Pc2Q==;JYIerPTW9sUIEObisz+8OQ=="
 ---

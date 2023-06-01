@@ -47,6 +47,15 @@ related:
         width: 1274
         height: 715
         isCached: true
+  - title: "Jeep is testing self-driving off-road vehicle tech (video)"
+    excerpt: "Jeep has offered the public a glimpse of its autonomous off-road driving technology in a new video. The two Jeep Grand Cherokee 4xe test cars – which utilise artificial intelligence (AI) to tackle various kinds of terrain without the need for a driver – were put through their paces in Moab,"
+    publishedDateTime: 2023-05-31T11:24:00Z
+    webUrl: "https://www.driving.co.uk/news/jeep-is-testing-self-driving-off-road-vehicle-tech-video/"
+    type: article
+    provider:
+      name: Sunday Times Driving
+      domain: driving.co.uk
+    quality: 4
 
 secured: "YPHM2zt2a9m9Con3Wexph1pbwdoDPNFukpXgbUeIVhVOZQymNjx6gm3xwC+hbUec/onmUug8PYKKMg8H0v41ZG9uCfdAH1XWGoLVY0pJ6erzoHjSL2wfkhzXgElm47WEd3qRv7DcA2tBGd0Ny1jvNTrGBohJfnnJakqKtIP3Go/HyLYJxuQjbMcm+qSWW9URUrIpMS7UkSIyu1MEpXu79DzvAOmg4QVOHXd1nKX7dWt2TK5GSNfTC/mkYynm/swgHN0wZzMgN6DEvZr/yd/BMY9T563f/gmFCZnhNrZL8ku9gflqM5UQELDe5F5lsjUXKoY9tjuIGLb5zj8qXIwGayBPmKJTCX0GpLcgmjRe1sL4Xsx9jQ7FrMENLDRthlC7zOSvTkNDcjIt4JMMm75Lpf/wiKjSGzyBhd4hurNu1LpKjvCordLZSTfXAcMLaiAOWweE/eJyy3IoXBDcSi/p9YPYx8iy/ZNEJUrLVMaPDQbB2MsVVUIxJYNvUMWDB4OrIuBvehvN0iTWr1I+ITI/0Q==;6rAVO+AfDpkfIk1GbAvAOA=="
 ---

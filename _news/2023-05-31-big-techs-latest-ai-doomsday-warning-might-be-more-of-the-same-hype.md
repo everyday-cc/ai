@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/technology/ai-warning-critics/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-warning-critics/?amp"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "More Tech Experts Issue Warning About Possible Threat of Artificial Intelligence"
-    excerpt: "More Tech Experts , Issue Warning About Possible Threat , of Artificial Intelligence. NBC reports that leading experts in artificial intelligence have released a statement warning that the technology"
-    publishedDateTime: 2023-05-30T19:06:00Z
-    webUrl: "https://www.thetimes-tribune.com/news/nation-world/more-tech-experts-issue-warning-about-possible-threat-of-artificial-intelligence/video_1047b33b-381a-51e2-8c35-434de3411eaf.html"
-    type: article
-    provider:
-      name: The Scranton Times-Tribune
-      domain: thetimes-tribune.com
-    quality: 12
 
 secured: "zRrUhiskuQ2VBeyhQLahGeIjbMg/KcH4TXQW8cIO+RWmZ2P1PIrv6UVl+8lBHsEaSY+PPQpC7rmkx+oaC02vckFyBarxyUwjWcw/fZ60C3Tv7E27i4vkrK/XEVIRlTjj/TyYRX/TdGucdxG6B3doSg6J0b+ED96RtoEWIKbw5aFB2VN3icuSqlRMPquqCGglRn4bAiLn3QoeKTU4DoUrniOLdejQviLtvIZv1o9xcQ3f1EbwHFR3Y9Mn7km3qQ4ohwcnISSNI7nxfon6lyY5VfgB+GST3gjPXUyboAUGmRe6QcFXK7x8ZZWHupThPUwPwk5fVF5KQUKVYusF/IuPe6fX7ZglcMEsjnokrlY2yoIGSIFvjn7j0RzGk+pBtbK6fTzx7ZnHbuDfS/7YNvujhOz6BJRbILedqQ+K0VpDKd3lF9a5k+T48rXWuRqjs2+qVvdDAShOSeCDELmAw0HeEhe11BoQ7PUXDlucq+Qch5qWELczubY1ex2RnAnruV1VZ//WxdXNLl8Soow8R3CTqg==;kRF2bEN/AK3GBYH5CmyNMw=="
 ---

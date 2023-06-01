@@ -47,6 +47,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 51
+  - title: "ExtraHop now supports Amazon Security Lake to centralise security data on AWS"
+    excerpt: "ExtraHop, a pioneer in cloud-native network detection and response NDR, announces support for Amazon Security Lake from Amazon Web Services (AWS). The offering will allow customers to share"
+    publishedDateTime: 2023-06-01T11:22:00Z
+    webUrl: "https://www.sourcesecurity.com/news/extrahop-now-supports-amazon-security-lake-centralise-security-data-aws-co-11423-ga-co-1537871022-ga.1685606100.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 33
 
 secured: "A9J+vuLorz6ph9w7XLLLYm9UbUB1Rp/Ll/oOC186kSN1W1eJY8WUPpyI0Job/5BKHt67WlIk8VTxBGM+mcljm1Jetv5w6+5pJNoAJX3QSIyQBGchP9bLDdPzA9gi3ycQZn6xCV/mqgMPkU7cHu0pfcqLrmMEy6KC4ulfdfpP8mXBP/idjG9Rnrs6ABkSh+mwzitXc5xnWKCFMMhWpw9EPe6DIUgllqJp9HpnrHJf32SJHDR3GE5QEBq676JzNAbIoiqVaLns546quoNd0ZMUSqq/iKLTxxVypJI/uxCtbuPhVoSiI/AfLvD/OqXt5RHgyjzcuD/ILqlHhOO/35ju0gVFSiKVjON38HWiW30eMow=;XgEPmLsOH5pwkm8pB9HfrQ=="
 ---

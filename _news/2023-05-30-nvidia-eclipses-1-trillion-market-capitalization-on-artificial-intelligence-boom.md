@@ -18,21 +18,35 @@ topics:
   - AI
 
 related:
-  - title: "As NVIDIA Approaches $1T, Company Announces AI Tech Needed To Surpass $2T"
-    excerpt: "The NVIDIA DGX GH200’s massive shared memory space uses NVLink interconnect technology with the NVLink Switch System to combine 256 GH200 superchips, allowing them to"
-    publishedDateTime: 2023-05-29T04:30:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/amp/"
+  - title: "Generative AI $7 Trillion Ecosystem: Invest In Nvidia, Microsoft, Adobe And More"
+    excerpt: "Worldwide cloud revenue is expected to increase 21.7% in 2023 to $597.3 billion. Gartner IT +1.5% expects generative AI to create “a surge in cloud revenue” driven primarily by these and other hyperscalers. Ultimately, all the investment in generative AI technology must result in applications that people pay money to use."
+    publishedDateTime: 2023-05-30T14:19:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/05/30/generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more/"
+    ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/05/30/generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/05/30/generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 90
+    quality: 101
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6473c8a15a1b0fdc91569955/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64733c9329fc673cfa0cb088/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 620
+        height: 800
+        isCached: true
+  - title: "Microsoft vets lead secretive education startup using generative AI to help students learn"
+    excerpt: "Two decades after selling their startup to Microsoft, Eran Megiddo and Liviu Asnash are going back to their entrepreneurial roots. The longtime Microsoft leaders are the co-founders of Maximal Learning,"
+    publishedDateTime: 2023-05-31T14:13:00Z
+    webUrl: "https://www.geekwire.com/2023/microsoft-vets-lead-secretive-education-startup-using-generative-ai-to-help-students-learn/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 91
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/05/Screen-Shot-2023-05-31-at-7.07.16-AM.png"
+        width: 1088
+        height: 539
         isCached: true
   - title: "NVIDIA's next DGX supercomputer is all about generative AI"
     excerpt: "NVIDIA CEO Jensen Hiang made a string of announcements during his Computex keynote, including details about the company’s next DGX supercomputer. Given where the industry is clearly heading, it shouldn’t come as a surprise that the DGX GH200 is largely about helping companies develop generative AI models."
@@ -50,59 +64,121 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nvidia briefly worth $1 trillion thanks to AI boom"
-    excerpt: "Investors excited about the possibilities for artificial intelligence have sent the US chipmaker's value soaring."
-    publishedDateTime: 2023-05-30T20:22:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-65757812?at_medium=RSS"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-65757812.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65757812.amp"
+  - title: "MediaTek Adopts Nvidia Tech for Automotive AI and Chips"
+    excerpt: "The Taiwanese chipmaker, a rival to Qualcomm Inc. in equipping smartphones with silicon, announced it will integrate new Nvidia graphics hardware and AI technologies in its forthcoming cabin solutions. San Diego-based Qualcomm, along with Nvidia ..."
+    publishedDateTime: 2023-05-29T23:37:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-05-29/mediatek-adopts-nvidia-tech-for-automotive-ai-and-chips"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9941/production/_129933293_gettyimages-1258278958.jpg"
-        width: 1024
-        height: 576
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igA.RuE918aI/v1/1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Nvidia reveals ridiculous supercomputer built to create next-gen AI"
-    excerpt: "Nvidia has revealed its next-generation supercomputer, the DGX GH200, which is built to handle the development of gigantic next-generation AI models."
-    publishedDateTime: 2023-05-29T09:31:00Z
-    webUrl: "https://www.dexerto.com/tech/nvidia-reveals-ridiculous-supercomputer-built-to-create-next-gen-ai-2159061/"
+  - title: "Microsoft Has Launched “Jugalbandi”—A New Generative AI App for India"
+    excerpt: "India, home to more than 1.4 billion people, is an incredibly ripe market for digital and AI-based innovation."
+    publishedDateTime: 2023-05-31T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/saibala/2023/05/31/microsoft-has-launched-jugalbandi-a-new-generative-ai-app-for-india/"
     type: article
     provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 66
+  - title: "Microsoft thoughts on the future of AI"
+    excerpt: "Eric Horvitz Chief Scientific Officer at Microsoft has taken to the official Microsoft blog this week to write an article on the future of AI and the"
+    publishedDateTime: 2023-05-31T08:58:00Z
+    webUrl: "https://www.geeky-gadgets.com/the-future-of-ai-31-05-2023/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
     images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/29/Nvidia-Supercomputer.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/the-future-of-AI.jpg"
+        width: 700
+        height: 475
         isCached: true
-  - title: "Nvidia announces large-memory DGX GH200 for generative AI"
-    excerpt: "Nvidia has announced a new DGX class, the GH200, for generative AI workloads. The DGX GH200 connects up to 256 Grace Hopper Superchips into a single 144TB GPU system. The superchip is itself a combination of Nvidia's Grace Arm CPU and Hopper GPU,"
-    publishedDateTime: 2023-05-29T04:49:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-announces-large-memory-dgx-gh200-for-generative-ai/"
+  - title: "Nvidia Unveils More Gen AI Products"
+    excerpt: "Chipmaker Nvidia (NVDA) has been making headlines with its extensive new lineup of AI product launches and services. At the Computex"
+    publishedDateTime: 2023-05-29T08:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-unveils-more-gen-ai-products-1032356256"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "AI demand briefly catapults Nvidia into $1 trillion club"
+    excerpt: "The total value of computer chip and graphics processing card manufacturer Nvidia briefly touched $1 trillion on May 30 as demand for the company’s artificial intelligence tech surged into overdrive."
+    publishedDateTime: 2023-05-31T00:40:00Z
+    webUrl: "https://cointelegraph.com/news/nvidia-briefly-hits-1-trillion-market-cap"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
     quality: 39
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/Grace_Hopper_Image.2e16d0ba.fill-1200x630.jpg"
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-05/795d3f2c-200d-4544-9605-74bfbb101f9d.jpg"
         width: 1200
-        height: 630
+        height: 799
         isCached: true
-  - title: "NVIDIA Announces DGX GH200 AI Supercomputer"
-    excerpt: "NVIDIA today announced a new class of large-memory AI supercomputer — an NVIDIA DGX ™ supercomputer powered by NVIDIA ® GH200 Grace Hopper Superchips and the NVIDIA NVLink ® Switch System — created to enable the development of giant,"
-    publishedDateTime: 2023-05-29T05:52:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/29/9822132.htm"
+  - title: "Fueled by AI, Nvidia joins the $1 trillion club"
+    excerpt: "Booming demand for its AI chips has landed Nvidia (NVDA) a prime spot in one of the most exclusive clubs on Wall Street: The chipmaker hit a market cap of $1 trillion on Tuesday. It’s just the ninth company globally to have achieved such a feat,"
+    publishedDateTime: 2023-05-30T20:42:00Z
+    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/05/30/nvidia-joins-the-1-trillion-club/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
+      name: KRDO
+      domain: krdo.com
+    quality: 39
+    images:
+      - url: "https://krdo.b-cdn.net/2023/05/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG9uZS10aHVtYm5haWwtNmM4ZTdmNmM3YzhmNDBmZTY2ODg0ODkxMGY4NjFhNTM-L19wYWdlcy9oXzM3MmNkZDY1MDg2YmY2ZTBjZWIyMDkwYjRjZmZhOWYz-300.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Nvidia joins trillion-dollar club, riding on the AI boom"
+    excerpt: "Nvidia Corp, the chip-maker, reaches an elite status, joining US companies with a market value of over $1 trillion."
+    publishedDateTime: 2023-05-30T17:10:00Z
+    webUrl: "https://interestingengineering.com/innovation/nvidia-joins-trillion-dollar-club-riding-on-the-ai-boom"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/30/image/jpeg/3sL71HLAMXd4tYS7CJGu8laOnawvwd8VjT2csGpB.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "The generative AI hype bubble runs through Nvidia"
+    excerpt: "Generative AI is the hottest trend on Wall Street. Ever since OpenAI’s ChatGPT debuted in late 2022, kicking off a flurry of activity in the space, investors have been piling into AI stocks. And Nvidia (NVDA) has been the biggest winner."
+    publishedDateTime: 2023-05-31T19:41:00Z
+    webUrl: "https://www.aol.com/finance/generative-ai-hype-bubble-runs-164142386.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
+  - title: "Nvidia and MediaTek partner to introduce next-generation in-car systems with AI"
+    excerpt: "In its efforts to further the infotainment experience inside vehicles and cater to evolving requirements, Nvidia and MediaTek have announced a partnership to introduce next-generation systems that can stream video or games or interact with drivers using artificial intelligence."
+    publishedDateTime: 2023-05-29T18:17:00Z
+    webUrl: "https://interestingengineering.com/innovation/nvidia-and-mediatek-partner-to-introduce-next-generation-in-car-systems-with-ai"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 15
+  - title: "The Rise And Rise of NVIDIA"
+    excerpt: "Taking another step towards becoming the 7th company in the world to reach a trillion-dollar market cap, NVIDIA and SoftBank have partnered to drive generative AI applications in Japan. SoftBank will use NVIDIA’s GH200 Grace Hopper superchip in its data centers to develop 5G/6G applications,"
+    publishedDateTime: 2023-05-30T08:08:00Z
+    webUrl: "https://analyticsindiamag.com/the-rise-and-rise-of-nvidia/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 4
 
 secured: "Ylxpsu3q/TOS8+Ot1jjlMGo4XYSK2OXy0MWdR/GS8yz3h2Tt2Oj9bb4KnelJCyCttqhHDDMx8XyRjTQqknrOZ4wIjNn5+aDKZCklxTjy4bVmrtqTjR8U494zgM+gU0dyyikSMzuHiodxcYSenw9X/eDunoeFL9icLbsuDnYhO8CjXxAYTmZp7lDu7cCMj63RRQTQha64EH+8CLmZWtzp8yz3cW3Bb2XiozWzQi08WNgmW1traXsu5DqGaa/GoRbC40WPIZO0LU2FivqsNrMpVxz9wohaHlIzqchgE8BS2iaxY9WBXyN+NYngluRU4ccVrcFx8CuQfnaDTHhhvd43OoPcjBkw+qfrNwD5jmTVDC+OBW6YSmJXdKlktSaq2mAvwgGNWq2jgGU+sCZXFrOH2tCLfopQUBYLQzrgGV21tNuQKDGZ/K2ko1wdhvDmNEIt9qQ6cS2Gqer/y9FfLxMRLTXZns9EOoien6Shl49OL8oRraac4Mw3cMrnFKZ7M2yYt3ZFXgav8UAqWS4ppKr/iw==;o+MXttdfYDbb5fcwNzabww=="
 ---

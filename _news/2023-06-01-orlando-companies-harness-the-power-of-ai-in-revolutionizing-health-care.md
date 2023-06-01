@@ -44,15 +44,6 @@ related:
       name: WFLA News Channel 8
       domain: wfla.com
     quality: 34
-  - title: "GPUs get all the headlines, but the future of AI is real-time data"
-    excerpt: "The era of AI everything continues to excite. But unlike the internet era, where any company announcing a dot-com anything immediately rose in value, the AI gods appear to be more selective. Nvidia Corp."
-    publishedDateTime: 2023-05-27T18:13:00Z
-    webUrl: "https://siliconangle.com/2023/05/27/gpus-get-headlines-future-ai-real-time-data/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
   - title: "AI is scary. Here are 10 things we can do to keep it under control"
     excerpt: "If it seems artificial intelligence is the biggest technological advancement in history, that’s because it is."
     publishedDateTime: 2023-05-31T02:14:00Z

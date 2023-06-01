@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2023-05-31/nvidia-is-so
 webUrl: "https://www.bloomberg.com/news/newsletters/2023-05-31/nvidia-is-soaring-ai-chip-rival-graphcore-can-barely-get-off-the-ground"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6476eb8534b28c816e7b69d7/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 801
+        isCached: true
+  - title: "NVIDIA is upgrading the in-car experience with AI, streaming, and advanced safety features"
+    excerpt: "NVIDIA revealed a new partnership Monday with Taiwanese semiconductor giant MediaTek to enhance the in-car driver experience and make"
+    publishedDateTime: 2023-05-29T16:43:00Z
+    webUrl: "https://electrek.co/2023/05/29/nvidia-upgrading-in-car-experience-ai-software/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 59
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/05/nvidia-in-car-experience.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "tox265TGEV8zgrCf6eBMfbxbDVFXdt2NY+U5QR3EnuyhHXcEcLua/2oEnoAw5ceWDJx4zLBtJhjMa2sKsfMvZ+0rdLv/8MvNr2bNGIXdutpm/ui2/zuYjIRFYCKEqhE6RmcfDklnxzPoZXtOZ1HeFzxDMLKAVjadAzGheg1b8dvBZeL4px6ZkF+rDKRPnBBE22fjE2O4g8RY1/uvKgNtfYqE68KtejyVPtcwIlVcL65eoCTeg2be6pj+oAKc60tjUZAlQ6TOBi0LRoHG2+nrQB5MEzxs6jgupV8iesP98kfrzWuct0L5kbjSIZEnsvaXN8pkjid2o4YVaIHrJ62hk5z17jBS9WLIZInc3h3xEbQ1GPePlLGnC0jfCPPOnmEM5fB5fI6puW1gZDGSUOCq9pGOblqwwAtSV9I+LnCxdkElYQelRa/6aXtXCsv4MzjnpcrcUeRDDe0IR94+za+cOn5sEJKA8MyU1/g9MCvvUQqVuIMB9BSrQ/RXBoZn6FYhBIht+MZyPIseYfYAT9hbbQ==;6AQ/lTNwWIB33fwMvRMN5A=="

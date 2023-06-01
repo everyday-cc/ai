@@ -54,15 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "More Tech Experts Issue Warning About Possible Threat of Artificial Intelligence"
-    excerpt: "More Tech Experts , Issue Warning About Possible Threat , of Artificial Intelligence. NBC reports that leading experts in artificial intelligence have released a statement warning that the technology"
-    publishedDateTime: 2023-05-30T19:06:00Z
-    webUrl: "https://www.thetimes-tribune.com/news/nation-world/more-tech-experts-issue-warning-about-possible-threat-of-artificial-intelligence/video_1047b33b-381a-51e2-8c35-434de3411eaf.html"
-    type: article
-    provider:
-      name: The Scranton Times-Tribune
-      domain: thetimes-tribune.com
-    quality: 12
 
 secured: "00Mb40XI1Hopq8kPq1/iRcTxigmrJnPKMtl7w0QvgWBAazWDsT33iugIr6WqNXaWY8t+J8d6o1jw+v6m17sTT+B9Z9Dj/USnJs4AsttdEml7azCKX66zhlH5LoqXdGZV9Ke5HlQyijHAXHQqtWOiIbHR80HntuEUOHQQUsgoujLj48SypcPgyMFOvdTILbU1Gc7qTIM44yEEIvcVekgVpI66ip1/6IilWVcPDhzMehMLU93tNSsdCyEo6SCJlXxmK4L5nMvecE5bYsBm9KrCcxtbt+jdcLAwkMCvT2dxir6hkGen7WharD+vavovy6M0CCQORiwbR3L4BZHoX0fXA5jFyOttJP0wI9uz49SFxUI=;vibOReGAUK9DgZtAkiW96g=="
 ---

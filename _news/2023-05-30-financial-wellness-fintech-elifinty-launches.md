@@ -92,6 +92,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Must Attend Fintech Events This Year"
+    excerpt: "As the world starts to shake off the years-long recession and start to see the bright light, many economies are starting to stretch their muscles. While there is still a lot to do and a lot to cover before many countries can say they have shaken off all of the economic woes,"
+    publishedDateTime: 2023-06-01T10:55:00Z
+    webUrl: "https://techbullion.com/must-attend-fintech-events-this-year/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/06/fintech-events.png"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "dyB7G5kqJb8HWlw5+Jf274BtUcOph9IRgRFasBF1F0XjVpyJzI3Dn6u/9Tz6xH78aoDU2Nbs6szB4nfpqhlh75tH4ZKed7DbKHvhULgdBDLs7g/33ZxeNqedHubNlejfZJpwah4Gkt+z0MElF0vWqYWf3nAJAhcBnFpU+XNcq6mza21Fe1VSdayIfkaO/EdWN344HfdNOfrFnQ4NGMb5prEjbkGp9oE5NCsILkp3OZtEAJxIPfbFsFIIjrEK6n/Yotb9tJCUygXhA98EQIs3IgNSmfwfMQUWk48BzBKnjvLWrZfpBGevIX9w3D0ecj/CTd4jkGaBqo1K7ttGcPNPU1xE2ThvxWPkDFOpdiXG2mu83d1Thl5wjF+OWK6oP+aoTs9EeCyGZ+x43eK3hKYNPMKI61TuScWd0vx1r9DbrarjtzjVMLtcWKVIL1MfL4vVoGvCa5yqrKq7roNJpmQXfENA95pSfmpL75pMor3cqm5wLTAs5krBAAtS4oiVt6FrQ3ZlqrIj11mOq8wK4L0jUA==;D5LAUIaaD83EumQrgteQYw=="
 ---

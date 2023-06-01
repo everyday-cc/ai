@@ -88,6 +88,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "The Revolutionary Potential of Humane's Wearable AI"
+    excerpt: "A Revolutionary Concept or Just Hype? Humane, a secretive tech startup founded by former Apple veterans, recently unveiled its wearable AI technology that it's been working on. The company has been shrouded in secrecy for over a year,"
+    publishedDateTime: 2023-06-01T09:29:00Z
+    webUrl: "https://yourstory.com/2023/05/humane-wearable-ai-revolutionary-concept-or-hype"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 39
+    images:
+      - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Image6o8u-1685609102796.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Max Cooper is using AI to push the frontiers of creativity and communication"
     excerpt: "The acclaimed London-based music producer — known for his ethereal sounds and visually hypnotic live performances — discusses the limits of human language, the future of music, the dangers of unchecked AI research and the mysteries of consciousness."
     publishedDateTime: 2023-05-31T16:14:00Z

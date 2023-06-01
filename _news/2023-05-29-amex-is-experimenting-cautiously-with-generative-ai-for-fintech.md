@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/amex-is-experimenting-cautiously-with-g
 webUrl: "https://venturebeat.com/ai/amex-is-experimenting-cautiously-with-generative-ai-for-fintech/"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       - url: "https://www.finextra.com/finextra-images/top_pics/xl/rszelifinty-maysamrizvi.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "Must Attend Fintech Events This Year"
+    excerpt: "As the world starts to shake off the years-long recession and start to see the bright light, many economies are starting to stretch their muscles. While there is still a lot to do and a lot to cover before many countries can say they have shaken off all of the economic woes,"
+    publishedDateTime: 2023-06-01T10:55:00Z
+    webUrl: "https://techbullion.com/must-attend-fintech-events-this-year/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/06/fintech-events.png"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "V1MU6oal/fmHUzqXl7/LuFoUitpAUtKMX4EPz0/RGrsc/JGfNRoc6GRcQpDjravcBoAGUlyU6LJcIS9FJoAd3nUCtTJoZBeiGBqGBSS9xOywGBB2EogkAfgrKBX8DMR3ZFNF/R+dQJdAfTETSoulj73Pb6nqFjzXuwPmbpDgN2vVXrjQHvnXeUkIbFecSun65FSgHdjd05AohXQNAy/rCzVJywvCa1aia0nhjVHFI+1Yr3xYkQNMmtwl6XaznaVRJS2lXIqO9iGTCP/Q1Wxufm2imVop39pLOHkZO5qOfCdRNTsa+ghucTfxf1ceFqy9sKbvBmeFJ7Y97NTPPURDs7AR5I6aPhqb88e9sKS/KaqkL/rJGe32xOQDU5u89bEhfH3p9HQfVreoyVsihPnuEJj7OXJerBIYWpfBDTcOAkM9J7A0ucnpKQDX42UVbDPzFfuUKr0r5sq7OkEAyjgvmfLcEI8NeWQ8pUaNWQNXHdDPaCv0n5vd5uExMDT6hh1XRY2xfBU9wypBUfJCo1YwpA==;GgB/FF+aK3TjO7dzdlczqA=="

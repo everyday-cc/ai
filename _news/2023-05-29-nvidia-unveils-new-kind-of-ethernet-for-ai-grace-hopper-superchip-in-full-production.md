@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-unveils-new-kind-of-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/"
 type: article
 quality: 96
-heat: 186
+heat: 196
 published: true
 
 provider:
@@ -125,6 +125,20 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/LkawQJbtVRxsIUQp.gC4OA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/01c8b6ee2eab434aa7e28e0d4477950b"
         width: 1200
         height: 800
+        isCached: true
+  - title: "NVIDIA Grace Hopper enters full production, with insane AI supercomputer coming"
+    excerpt: "Grace Hopper Superchips are on track for late 2023 and the new NVIDIA DGX GH200 AI Supercomputer connects 256 of them in a 1-Exaflop beast."
+    publishedDateTime: 2023-05-29T10:22:00Z
+    webUrl: "https://www.tweaktown.com/news/91635/nvidia-grace-hopper-enters-full-production-with-insane-ai-supercomputer-coming/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 35
+    images:
+      - url: "https://static.tweaktown.com/news/9/1/91635_01_nvidia-grace-hopper-enters-full-production-with-insane-ai-supercomputer-coming_full.jpg"
+        width: 1500
+        height: 843
         isCached: true
   - title: "NVIDIA Launches Accelerated Ethernet Platform for Hyperscale Generative AI"
     excerpt: "NVIDIA today announced NVIDIA Spectrum-X™, an accelerated networking platform designed to improve the performance and efficiency of Ethernet-based AI clouds. NVIDIA Spectrum-X is built on networking innovations powered by the tight coupling of the NVIDIA Spectrum-4 Ethernet switch with the NVIDIA BlueField®-3 DPU,"

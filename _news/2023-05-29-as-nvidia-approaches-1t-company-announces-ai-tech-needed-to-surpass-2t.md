@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/amp/"
 type: article
 quality: 90
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA's next DGX supercomputer is all about generative AI"
-    excerpt: "NVIDIA CEO Jensen Hiang made a string of announcements during his Computex keynote, including details about the company’s next DGX supercomputer. Given where the industry is clearly heading, it shouldn’t come as a surprise that the DGX GH200 is largely about helping companies develop generative AI models."
-    publishedDateTime: 2023-05-29T04:33:00Z
-    webUrl: "https://www.engadget.com/nvidias-next-dgx-supercomputer-is-all-about-generative-ai-043053544.html"
-    ampWebUrl: "https://www.engadget.com/amp/nvidias-next-dgx-supercomputer-is-all-about-generative-ai-043053544.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nvidias-next-dgx-supercomputer-is-all-about-generative-ai-043053544.html"
+  - title: "Opinion: Nvidia and these 6 tech giants will gobble up the AI pie"
+    excerpt: "In fact, the event was all about AI — from integrating artificial intelligence with Windows, Bing and developer tools. Note that many of the offerings were still in “preview” mode. As for Azure, its cloud platform, Microsoft is trying to catch ..."
+    publishedDateTime: 2023-05-31T13:04:00Z
+    webUrl: "https://www.marketwatch.com/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 89
     images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/oSI4q9uVuwV7MEZuGjHxYg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/e876fd10-fbe8-11ed-bcbf-0f9780637f7b.cf.jpg"
-        width: 1200
-        height: 630
+      - url: "https://images.mktw.net/im-747436/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Nvidia briefly worth $1 trillion thanks to AI boom"
     excerpt: "Investors excited about the possibilities for artificial intelligence have sent the US chipmaker's value soaring."
@@ -92,6 +92,31 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Intel cedes spotlight at global tech gala to AI darling Nvidia"
+    excerpt: "Intel, long synonymous with the fastest processors, has seen its all-purpose chips overshadowed by Nvidia's more specialized, parallel-processing architecture."
+    publishedDateTime: 2023-05-31T17:13:00Z
+    webUrl: "https://www.seattletimes.com/business/intel-cedes-spotlight-at-global-tech-gala-to-ai-darling-nvidia/"
+    ampWebUrl: "https://www.seattletimes.com/business/intel-cedes-spotlight-at-global-tech-gala-to-ai-darling-nvidia/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/intel-cedes-spotlight-at-global-tech-gala-to-ai-darling-nvidia/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
+  - title: "NVIDIA ACE for Games uses AI to let you interact and talk with NPCs"
+    excerpt: "The NVIDIA Avatar Cloud Engine (ACE) will let you strike up a conversation with a character in an RPG, and it's all thanks to AI. And some RTX to boot."
+    publishedDateTime: 2023-05-29T09:27:00Z
+    webUrl: "https://www.tweaktown.com/news/91631/nvidia-ace-for-games-uses-ai-to-let-you-interact-and-talk-with-npcs/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 37
+    images:
+      - url: "https://static.tweaktown.com/news/9/1/91631_01_nvidia-ace-for-games-will-let-you-interact-and-talk-with-npcs-your-voice_full.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "NVIDIA Announces DGX GH200 AI Supercomputer"
     excerpt: "NVIDIA today announced a new class of large-memory AI supercomputer — an NVIDIA DGX ™ supercomputer powered by NVIDIA ® GH200 Grace Hopper Superchips and the NVIDIA NVLink ® Switch System — created to enable the development of giant,"
     publishedDateTime: 2023-05-29T05:52:00Z
@@ -101,15 +126,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 21
-  - title: "Nvidia eclipses $1 trillion market capitalization on artificial intelligence boom"
-    excerpt: "The semiconductor company Nvidia crossed the trillion-dollar market capitalization mark Tuesday, riding an artificial intelligence-propelled boom to become the fifth company to pass the historic threshold."
-    publishedDateTime: 2023-05-30T13:46:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/nvidia-joins-trillion-multi-dollar-market-cap-"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 12
 
 secured: "SHOGgu2Y3lNKhwklLb/mghsB8dkHaYPDPAZsPQC6eGGuug3KxbxcVrkKfttRAdELUM+rqD8u/BNvm/RG8PkKHY8+yZt8AqwK3kX2Tvz6MU0UqlRzqxCO4IBAOHMCk63quAhGM3YYgJqjhkjlEpwMzvvcfKcBqe8ZCxGfG3gqnnPW/Z+iohLWiZyPBDqRKG/GwATHxdBiqrf7Cz2teilP1/iymz0fmw9LOI7E7CMqzvdisEfdRe6o+EoY9+bbKtiCJ1AccRlf0fswwHAUEjvsscufWreuTJp1Ifm3oNhGWq4xCTWpWRIyAA2cLHgahQfUDfqkvW2GJnVAwP/b+ZHAaDh5dzEsAkcYTg4Kx3y99QEEv0obZGi5ATf3BWYqPWsnsqqOfRPnMM15pkEXRlb0d65rIbooRRHtWqQmzM1VYqAovXH3R14Zb5M3lGCdNgqVShpGaZdUEwErPdiSTLErxXoOuWCQ0qwDv4nvENTpjcGp5i0dlMHuE23jFb3Ech+80pPAvEJyrL5FDh5DVBiPQA==;3Ar9KF5BC+rEAQ+0nIk3rA=="
 ---

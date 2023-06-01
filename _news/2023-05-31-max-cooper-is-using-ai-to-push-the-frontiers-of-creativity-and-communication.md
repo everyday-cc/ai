@@ -101,6 +101,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "The Revolutionary Potential of Humane's Wearable AI"
+    excerpt: "A Revolutionary Concept or Just Hype? Humane, a secretive tech startup founded by former Apple veterans, recently unveiled its wearable AI technology that it's been working on. The company has been shrouded in secrecy for over a year,"
+    publishedDateTime: 2023-06-01T09:29:00Z
+    webUrl: "https://yourstory.com/2023/05/humane-wearable-ai-revolutionary-concept-or-hype"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 39
+    images:
+      - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Image6o8u-1685609102796.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "AKsy24J7VcNL5JxAK8wmBcd3mNSANcAvqHh6dl4aInadM2VxLjiXWRphAX+F+VWbrA36Vr/moBVZQoswgkQfPkPys+iQsH/g4Zrgg9sGkQ5VMx6qqEQoJGAu0n9m97k/xaRnOGhL63NZSfZono9okuJ72bPv+/PbjRGn3uy8wAhGwDMkAg3Bke82UuKbBWwBqlZr6s/gnke0Yh4gOFFJALIRSWT9uR0hVAYW7mqJm8QwWumwBs4NZrbz90f79HSkHrsTPDRsjjGMzjlknMTVdtjbf1Eqt2psoUCwtxxprro9aN2aqff+DFJD9sKU6k6G26DxyD0cXr8OLpORpYsvFYMbgL1pj/7fNXibYaSsZgE=;HrJJTmo3W6fIPjAqLkmC+w=="
 ---

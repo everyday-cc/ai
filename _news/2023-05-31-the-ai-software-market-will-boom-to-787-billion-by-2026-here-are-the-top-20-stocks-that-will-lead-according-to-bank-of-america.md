@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/ai-software-stocks-buy-artificial-
 webUrl: "https://www.businessinsider.com/ai-software-stocks-buy-artificial-intelligence-market-bank-of-america-2023-5"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,36 @@ images:
     width: 700
     height: 525
     isCached: true
+
+related:
+  - title: "Deepfaking it: America's 2024 election collides with AI boom"
+    excerpt: "Thousands of deepfakes are surfacing on social media, blurring fact and fiction in the polarized world of U.S. politics."
+    publishedDateTime: 2023-05-31T02:17:00Z
+    webUrl: "https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/mg_Z3flbGFCYf_PGJ98qsWZc7Gc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W2AOGF7FCFKJ5PN6UOL7GVR7VM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Deepfaking it: America’s 2024 election collides with AI boom"
+    excerpt: "In total, about 500,000 video and voice deepfakes will be shared on social media sites globally in 2023, DeepMedia estimates. Cloning a voice used to cost $10,000 in server and AI-training costs up until late last year, but now startups offer it for a few dollars, it says."
+    publishedDateTime: 2023-05-30T12:00:00Z
+    webUrl: "https://www.stltoday.com/news/local/govt-and-politics/deepfaking-it-america-s-2024-election-collides-with-ai-boom/article_b70316d2-fedc-11ed-a3f4-0b01d695b844.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/70/b70316d2-fedc-11ed-a3f4-0b01d695b844/6475e22fcc49b.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "EJYzgoNGf1Fu6LCK9BN9aioGruQKU7Mw6uAIyouy+01vMv96ggG9D2jZ8LgRSHjyJzcV0u9ORmgX/AF8i/PNeyZqXxDD1KOy47x8nxjeXNk5phqRKLvZTiw9thaangJlAHsn8Gsm+GC9aHlQx4Id4g5+WMlf5WgsmRRgCLAgUQdHZWQaqpBNjPJLk5g+oAv5LeYCH6AxnxRGvBm9+Pr5Jay0ate/JFsLsZ1+P7UWAH+J6VC8vCnNORBk4LAVMWDA6tmlbb9EGrnNs4/qNY02yts3ok0YBK0XPdPW9dg4vs+5b2qWBvT7hqIxpOO2Weu3xdEDe4iW67jXo9wo19yQKZu9FFTHKP0hGA6cd7RbBUKDpOg/lYRHRY4vO9wZ/urHNAdnAqyp9q1rhlW5eGH6n6cDLL6Y2R3bOQcugIuP1W89OrxaFWf4+iSb/o3KX1mXY178UCTySrJlYGaC9ICkPF543CSQwoTOKwUgZVGG8D61jOVlluTBTOIvq8Ju0BdtGoWHPfMkVUfaX3zglSz6vg==;ir5fclSH/EBG2xyV2/3/Mg=="
 ---

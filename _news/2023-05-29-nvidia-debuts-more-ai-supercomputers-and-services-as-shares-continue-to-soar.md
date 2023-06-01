@@ -83,6 +83,34 @@ related:
         width: 1200
         height: 637
         isCached: true
+  - title: "WPP, Nvidia Team Up to Build AI-Enabled Content Engine"
+    excerpt: "WPP is teaming up with Nvidia to develop a content engine that uses generative AI for digital advertising."
+    publishedDateTime: 2023-05-29T05:42:00Z
+    webUrl: "https://www.wsj.com/articles/wpp-nvidia-team-up-to-build-ai-enabled-content-engine-f1d0efaa"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-790364/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Lisa Su Saved AMD. Now She Wants Nvidia's AI Crown"
+    excerpt: "AMD's CEO orchestrated one of the great turnarounds in Silicon Valley history, driving the dying semiconductor maker's stock price up nearly 30-fold in less than a decade. Now she's preparing for battle in the coming AI revolution—and she expects to keep winning."
+    publishedDateTime: 2023-05-31T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/iainmartin/2023/05/31/lisa-su-saved-amd-now-she-wants-nvidias-ai-crown/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64760ef28d9d32e3a6569955/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "NVIDIA Grace Hopper Superchips Designed for Accelerated Generative AI Enter Full Production"
     excerpt: "NVIDIA today announced that the NVIDIA® GH200 Grace Hopper Superchip is in full production, set to power systems coming online worldwide to run complex"
     publishedDateTime: 2023-05-29T03:54:00Z
@@ -123,6 +151,22 @@ related:
       - url: "https://i.gadgets360cdn.com/large/NVIDIA_ceo_reuters_1685428692399.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Inside Nvidia's new AI supercomputer"
+    excerpt: "Nvidia's Grace Hopper CPU/GPU combo underpins its supercomputer the company claims can crank out nearly an exaFLOP of AI performance."
+    publishedDateTime: 2023-05-30T15:31:00Z
+    webUrl: "https://www.networkworld.com/article/3697655/inside-nvidias-new-ai-supercomputer.html"
+    ampWebUrl: "https://www.networkworld.com/article/3697655/inside-nvidias-new-ai-supercomputer.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3697655/inside-nvidias-new-ai-supercomputer.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/22/17/nvidia-hopper-100922537-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 702
         isCached: true
   - title: "Nvidia becomes first chipmaker valued at more than $1tn amid AI boom"
     excerpt: "Shares in chip company rise on back of hopes for rising demand from artificial intelligence applications"
@@ -182,6 +226,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Nvidia to demand a premium for AI chips"
+    excerpt: "The AI hype is providing Nvidia with plenty of cashflow. Announcements of new Nvidia partners keep coming, but it seems the company will continue to face"
+    publishedDateTime: 2023-05-30T14:59:00Z
+    webUrl: "https://www.techzine.eu/news/applications/106652/nvidia-to-demand-a-premium-for-ai-chips/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/evk3-300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "NVIDIA: From Chipmaker to Trillion-Dollar AI Powerhouse"
     excerpt: "From being a renowned chipmaker for computer graphics to an industry titan momentarily reaching a trillion-dollar valuation, Nvidia's journey is one for the business books. This rapid ascent is a testament to the growing significance of artificial intelligence (AI) in shaping the future of technology."
     publishedDateTime: 2023-05-31T21:19:00Z
@@ -205,6 +263,34 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "The Rise of In-House AI Chip Production by Tech Giants Threatens Nvidia’s Dominance"
+    excerpt: "Nvidia Corporation (NASDAQ: NVDA), a leading player in the field of artificial intelligence (AI), has enjoyed a strong competitive advantage with its AI moat."
+    publishedDateTime: 2023-06-01T06:10:00Z
+    webUrl: "https://techstory.in/the-rise-of-in-house-ai-chip-production-by-tech-giants-threatens-nvidias-dominance/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 50
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/06/NVIDIA-Logo-inside-at-angle.jpg"
+        width: 1920
+        height: 1081
+        isCached: true
+  - title: "Five things to know about AI chip maker Nvidia and why everyone is talking about it"
+    excerpt: "Nvidia made a splash after its mammoth quarterly report and stock boost. Here's what you should know about the company if you're new to it."
+    publishedDateTime: 2023-05-29T02:45:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/five-things-know-nvidia-and-everyone-talking/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 48
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/05/nvidia-gpu.jpg"
+        width: 1466
+        height: 710
+        isCached: true
   - title: "Chipmaker Nvidia Joins $1 Trillion Valuation Club Thanks to the AI Boom"
     excerpt: "Nvidia has joined the exclusive club of companies with a $1 trillion market capitalization as the chipmaker benefits from the growing use of artificial intelligence. Nvidia Corp. joins tech titans like Alphabet,"
     publishedDateTime: 2023-05-30T18:34:00Z
@@ -228,48 +314,43 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AI demand briefly catapults Nvidia into $1 trillion club"
-    excerpt: "The total value of computer chip and graphics processing card manufacturer Nvidia briefly touched $1 trillion on May 30 as demand for the company’s artificial intelligence tech surged into overdrive."
-    publishedDateTime: 2023-05-31T00:40:00Z
-    webUrl: "https://cointelegraph.com/news/nvidia-briefly-hits-1-trillion-market-cap"
+  - title: "MediaTek, NVIDIA to Transform Automobiles with AI & Accelerated Computing"
+    excerpt: "AI and accelerated computing are fueling the transformation of the entire auto industry. The combination of MediaTek’s industry-leading system-on-chip plus NVIDIA’s GPU and AI software technologies will enable new user experiences, enhanced safety and new connected services for all vehicle segments, from luxury to entry-level."
+    publishedDateTime: 2023-05-29T07:18:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/32228-mediatek-nvidia-to-transform-automobiles-with-ai-accelerated-computing"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 39
+      name: Deep
+      domain: thefastmode.com
+    quality: 38
     images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-05/795d3f2c-200d-4544-9605-74bfbb101f9d.jpg"
-        width: 1200
-        height: 799
+      - url: "https://www.thefastmode.com/media/k2/items/src/062e3a14eaea806bc013c9a4a1b09057.jpg?t=20230529_071304"
+        width: 752
+        height: 408
         isCached: true
-  - title: "Fueled by AI, Nvidia joins the $1 trillion club"
-    excerpt: "Booming demand for its AI chips has landed Nvidia (NVDA) a prime spot in one of the most exclusive clubs on Wall Street: The chipmaker hit a market cap of $1 trillion on Tuesday. It’s just the ninth company globally to have achieved such a feat,"
-    publishedDateTime: 2023-05-30T20:42:00Z
-    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/05/30/nvidia-joins-the-1-trillion-club/"
+  - title: "MediaTek and Nvidia to develop AI cabin solutions for software-defined vehicles"
+    excerpt: "MediaTek will work with Nvidia to deliver automotive solutions that surpass the industry’s growing needs and demands while posing a significant market opportunity for the companies."
+    publishedDateTime: 2023-05-30T05:42:00Z
+    webUrl: "https://www.autocarpro.in/news-international/mediatek-and-nvidia-to-develop-ai-cabin-solutions-for-software-defined-vehicles--115247"
     type: article
     provider:
-      name: KRDO
-      domain: krdo.com
-    quality: 39
+      name: Autocar Pro
+      domain: autocarpro.in
+    quality: 35
     images:
-      - url: "https://krdo.b-cdn.net/2023/05/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG9uZS10aHVtYm5haWwtNmM4ZTdmNmM3YzhmNDBmZTY2ODg0ODkxMGY4NjFhNTM-L19wYWdlcy9oXzM3MmNkZDY1MDg2YmY2ZTBjZWIyMDkwYjRjZmZhOWYz-300.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cdni.autocarindia.com/utils/imageresizer.ashx?n=http://img.haymarketsac.in/autocarpro/3402baa9-7f7b-4176-8b37-a212b8ff1fdc_845aKey-Visual_-MediaTek-_-NVIDIA-Press-Image1600x900.jpg"
+        width: 1502
+        height: 845
         isCached: true
-  - title: "Nvidia joins trillion-dollar club, riding on the AI boom"
-    excerpt: "Nvidia Corp, the chip-maker, reaches an elite status, joining US companies with a market value of over $1 trillion."
-    publishedDateTime: 2023-05-30T17:10:00Z
-    webUrl: "https://interestingengineering.com/innovation/nvidia-joins-trillion-dollar-club-riding-on-the-ai-boom"
+  - title: "Nvidia bets on AI hype to help it chip away at Intel"
+    excerpt: "Chip maker Nvidia hopes to mount a stronger challenge to Intel with a new product line that promises the best generative AI capabilities."
+    publishedDateTime: 2023-05-30T12:07:00Z
+    webUrl: "https://telecoms.com/521969/nvidia-bets-on-ai-hype-to-help-it-chip-away-at-intel/"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/30/image/jpeg/3sL71HLAMXd4tYS7CJGu8laOnawvwd8VjT2csGpB.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: Telecoms
+      domain: telecoms.com
+    quality: 34
   - title: "Nvidia's GPU Chiplet Design Unlocks Potential in Emerging Markets"
     excerpt: "Nvidia When our analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* They just revealed what they believe are the ten best stocks for investors to buy right"
     publishedDateTime: 2023-05-31T15:32:00Z
@@ -288,6 +369,15 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 19
+  - title: "Nvidia's New AI Is Coming For Absolutely Every Gaming Job"
+    excerpt: "AI is coming to games, whether you like it or not. Last night’s Nvidia keynote showed just how powerful—and devastating—that’s going to be. The company’s CEO, Jensen Huang, showed off how its freshly announced “Omniverse Avatar Cloud Engine” (ACE) can create real-time interactive AI NPCs,"
+    publishedDateTime: 2023-05-29T12:30:00Z
+    webUrl: "https://kotaku.com/nvidia-ace-ai-rtx-4060-ti-gpu-graphics-gaming-jobs-1850484480"
+    type: article
+    provider:
+      name: Kotaku
+      domain: kotaku.com
+    quality: 17
   - title: "AI means everyone can now be a programmer, Nvidia chief says"
     excerpt: "Artificial intelligence means everyone can now be a computer programmer as all they need to do is speak to the computer, Nvidia Corp CEO Jensen Huang said on Monday, hailing the end of the \"digital divide\"."
     publishedDateTime: 2023-05-29T19:58:00Z
