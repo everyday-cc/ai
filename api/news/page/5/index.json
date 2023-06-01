@@ -2,6 +2,290 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-27-how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses.md",
+      "title": "How the generative AI boom could deliver a wave of successful businesses",
+      "excerpt": "Where generative AI startups can start if they want to turn the short-term generative AI hype into long-term growth.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/",
+      "originalUrl": "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/AdobeStock_567557479.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-27T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-travelers-to-uk-face-long-waits-amid-systems-problem.md",
+      "title": "Travelers to U.K. face long waits amid systems problem",
+      "excerpt": "LONDON >> Travelers arriving in the U.K. faced hourslong delays today after a technical problem shut electronic border gates at airports across the country, forcing everyone to have their passports checked manually on what was expected to be one of the busiest travel weekends of the year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.staradvertiser.com/2023/05/27/sports/sports-breaking/travelers-to-u-k-face-long-waits-amid-systems-problem/",
+      "originalUrl": "https://www.staradvertiser.com/2023/05/27/sports/sports-breaking/travelers-to-u-k-face-long-waits-amid-systems-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.staradvertiser.com/wp-content/uploads/2023/05/web1_13843382-63da3cfc9dbc48d9b9ac4e6eb9aa4fde.jpg",
+          "width": 760,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.staradvertiser.com/2023/05/27/sports/sports-breaking/travelers-to-u-k-face-long-waits-amid-systems-problem/amp/",
+      "cdnAmpWebUrl": "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/05/27/sports/sports-breaking/travelers-to-u-k-face-long-waits-amid-systems-problem/amp/",
+      "publishedDateTime": "2023-05-27T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Honolulu Star-Advertiser",
+        "domain": "staradvertiser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-its-hard-to-rave-about-a-plain-white-t-shirt-so-retailers-are-making-ai-do-it.md",
+      "title": "It’s Hard To Rave About A Plain White T-Shirt, So Retailers Are Making AI Do It",
+      "excerpt": "Some retailers are using artificial intelligence to churn out hundreds of product descriptions that used to take weeks to write.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/laurendebter/2023/05/27/its-hard-to-rave-about-a-plain-white-t-shirt-so-retailers-are-making-ai-do-it/",
+      "originalUrl": "https://www.forbes.com/sites/laurendebter/2023/05/27/its-hard-to-rave-about-a-plain-white-t-shirt-so-retailers-are-making-ai-do-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6471142a6fcd75efc69d86b2/0x0.jpg?format=jpg&crop=3840,2160,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-27T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-open-ai-backed-start-up-deploys-robot-as-security-guard.md",
+      "title": "Open AI-backed start-up deploys robot as security guard",
+      "excerpt": "The Norway-based robotic start-up deployed the AI-enabled robot as patrolling guard at two manufacturing sites, one in the USA and the other in Europe",
+      "sourceUrl": null,
+      "webUrl": "https://telanganatoday.com/open-ai-backed-start-up-deploys-robot-as-security-guard",
+      "originalUrl": "https://telanganatoday.com/open-ai-backed-start-up-deploys-robot-as-security-guard",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.telanganatoday.com/wp-content/uploads/2023/05/robot-1.jpg",
+          "width": 1280,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-27T01:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telangana Today",
+        "domain": "telanganatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-biden-education-department-worried-ai-in-the-classroom-might-be-used-to-spy-on-teachers.md",
+      "title": "Biden Education Department worried AI in the classroom might be used to spy on teachers",
+      "excerpt": "The Department of Education released a report warning that artificial intelligence systems should not be used to surveil teachers in the classroom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/bidens-education-department-worried-ai-classroom-spy-teachers",
+      "originalUrl": "https://www.foxnews.com/politics/bidens-education-department-worried-ai-classroom-spy-teachers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5347284-ddac-4097-8065-387edd09b96b/63aabd01-2815-4a73-a1e9-c19dca9ac7a4/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-education-department-worried-ai-classroom-spy-teachers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-education-department-worried-ai-classroom-spy-teachers.amp",
+      "publishedDateTime": "2023-05-26T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-regulators-take-aim-at-ai-to-protect-consumers-and-workers.md",
+      "title": "Regulators take aim at AI to protect consumers and workers",
+      "excerpt": "AI also affects hiring, housing and working conditions. Ben Winters, Senior Counsel for the Electronic Privacy Information Center, said a joint statement on enforcement released by federal agencies last month was a positive first step.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers",
+      "originalUrl": "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ocregister.com/wp-content/uploads/2023/05/OCR-Z-BOFA-SVB-0316.jpg?w=1024&h=682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers/amp/",
+      "cdnAmpWebUrl": "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers/amp/",
+      "publishedDateTime": "2023-05-26T21:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orange County Register",
+        "domain": "ocregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-27-opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems.md",
       "title": "Opinion: Stop the robot takeover: How AI advancement can pose problems",
       "excerpt": "Pospisil explains that most jobs robots will take over are automated. They still cannot compare to a human’s ability to adapt or critical thinking skills in more specialized jobs not having to do with Ford production. In short, they won’t replace us in the job market because they’re missing a human element.",
@@ -915,272 +1199,6 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-a-new-antibiotic-discovered-with-artificial-intelligence-may-defeat-a-dangerous-superbug.md",
-      "title": "A new antibiotic, discovered with artificial intelligence, may defeat a dangerous superbug",
-      "excerpt": "Using artificial intelligence, researchers say, they’ve found a new type of antibiotic that works against a particularly menacing drug-resistant bacteria. When they tested the antibiotic on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/05/25/health/antibiotic-artificial-intelligence-superbug/index.html",
-      "originalUrl": "https://www.cnn.com/2023/05/25/health/antibiotic-artificial-intelligence-superbug/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230525180540-ai-antibiotic-superbug-052023.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/25/health/antibiotic-artificial-intelligence-superbug/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/25/health/antibiotic-artificial-intelligence-superbug/index.html",
-      "publishedDateTime": "2023-05-25T18:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-researcher-combines-ai-and-microelectronics-to-create-neural-implants-that-fight-brain-disorders.md",
-      "title": "Researcher combines AI and microelectronics to create neural implants that fight brain disorders",
-      "excerpt": "Neural implants can help treat brain disorders such as Parkinson’s disease and epilepsy by directly modulating abnormal activities – and the University of Toronto’s Xilin Liu is working with microelectronics and artificial intelligence to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.utoronto.ca/news/researcher-combines-ai-and-microelectronics-create-neural-implants-fight-brain-disorders",
-      "originalUrl": "https://www.utoronto.ca/news/researcher-combines-ai-and-microelectronics-create-neural-implants-fight-brain-disorders",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "University of Toronto",
-        "domain": "utoronto.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-nvidia-the-chip-maker-that-became-an-ai-superpower.md",
-      "title": "Nvidia: The chip maker that became an AI superpower",
-      "excerpt": "Jensen Huang, now the chief executive of Nvidia, was one of its founders back in 1993. Then, Nvidia was focused on making graphics better for gaming and other applications. In 1999 it developed GPUs to enhance image display for computers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/business-65675027",
-      "originalUrl": "https://www.bbc.co.uk/news/business-65675027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/0784/production/_129842910_jensen_huang-extended.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/business-65675027.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65675027.amp",
-      "publishedDateTime": "2023-05-25T16:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-microsoft-rains-more-machine-learning-on-azure-cloud.md",
-      "title": "Microsoft rains more machine learning on Azure cloud",
-      "excerpt": "Microsoft made sure to include Azure in the AI-fest that was the Build 2023 developer conference this week. As enterprises consider experimenting with or deploying generative AI, they may well look to public clouds and similar scalable compute and storage infrastructure to run things like large-language models (LLMs).",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2023/05/25/microsoft_azure_ai_cloud/",
-      "originalUrl": "https://www.theregister.com/2023/05/25/microsoft_azure_ai_cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-hands-on-with-magic-compose-the-ai-generating-messages-tool.md",
-      "title": "Hands-on with Magic Compose, the AI-generating Messages tool",
-      "excerpt": "I've had some time to play with an early version of Magic Compose, which uses AI to create texts in Messages. It's fun, but unreliable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/magic-compose-experience-3329552/",
-      "originalUrl": "https://www.androidauthority.com/magic-compose-experience-3329552/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2022/04/Google-Messages-SMS-stock-photo-9.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds.md",
-      "title": "This new AI tool will summarize YouTube videos for you in seconds",
-      "excerpt": "The Eightify Chrome extension uses GPT technology to help you cut straight to the main points of any YouTube video.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/",
-      "originalUrl": "https://www.zdnet.com/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5fe72c33f5b53dda3b2c91139d511c53774776a6/2023/05/25/9ab9c403-1132-4194-ba59-922071931410/screenshot-2023-05-25-at-4-00-28-pm.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/",
-      "publishedDateTime": "2023-05-25T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

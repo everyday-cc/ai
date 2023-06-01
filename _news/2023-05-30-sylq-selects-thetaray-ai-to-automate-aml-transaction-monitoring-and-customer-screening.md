@@ -1,31 +1,23 @@
 ---
 category: news
 title: "Sylq Selects ThetaRay AI to Automate AML Transaction Monitoring and Customer Screening"
-excerpt: "Paris-based fintech adopts ThetaRay's AI-powered AML transaction monitoring and customer screening solution to boost the onboarding process Sylq, the French e-payments leader, and ThetaRay, a leading provider of AI-powered transaction monitoring technology ..."
-publishedDateTime: 2023-05-30T10:06:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/05/b32619545/sylq-selects-thetaray-ai-to-automate-aml-transaction-monitoring-and-customer-screening"
-webUrl: "https://www.benzinga.com/pressreleases/23/05/b32619545/sylq-selects-thetaray-ai-to-automate-aml-transaction-monitoring-and-customer-screening"
-ampWebUrl: "https://www.benzinga.com/amp/content/32619545"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32619545"
+excerpt: "Sylq acquired ThetaRay's newly released AI customer screening solution to boost its unique, fully digital onboarding process for KYB (Know Your Busiess) and KYC (Know Your Customer). ThetaRay's API-driven and AI based solution enables Sylq to introduce high automation to monitor transactions and screen merchants against sanctions lists,"
+publishedDateTime: 2023-05-30T11:25:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/05/30/9822420.htm"
+webUrl: "https://it.tmcnet.com/news/2023/05/30/9822420.htm"
 type: article
-quality: 51
-heat: 51
+quality: 11
+heat: 11
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "f9LEiRlGILKz2gir014aJZ4AQoNXmYXg1IE3x+j53bglpBwiBtxdkirle4xRVTsqyEc1jqJ66dnlpLfQbdlIuJC5krtRqOS963t2h1cmR1VjjCLV3GK8P3jKZvaqJuP9b+ySbM3oQjdIRa0UgTNkGoCUBFek+5ws91HIKGqQLdJNnH4GdOh/lW3bZD7Wv1m67VGH2TGcHDsQ/jnCjXx4LR6SIUjrh6fiU3Z4nVsIzodUqWEZ8XKC2wyWjnyBBdA7gnIMOIAiV8cVUUMJrLXEiiztjnjzt+EBFf9GnFuggGVLmU9iZmGCwD4yWndX+dB+WPNiYPkrDbN/qqCj81aULxvCHhVWWJhf3bHbYfcjxdE=;v4fYIXdnZN4kAf4bcBRXhw=="
+secured: "vZzGh2nZSERI8Rr+3GlEsWZZyQf3RATGgN9XIgbi/HaF6Ox9mMixG96cDycFgY89FXNHzrrVhnIyp7g2dmA5rw0HaIZ9+YEexbLrxzt62BYwnx0rk82DUeuDsgv/NXt7ComkdJ0eYSWWsVPkwDOQBk+40xJUz3guk5GgWC3m01/zWEnm/hjmfCOM9nai/U3QTxrJbbyo+5xJbYwe5j7tHYnMto/lpUKXOgOiQl1nB5YAub/rPvbetiOj4D7ciEjil5o4Uafr/6ouP1Z4nDAAL0u1o54m9W/+kFmpmZJSG92fyAmJcDOaLwj/HjjfBMI60CxJsLWTnd+96Ygg7BT7u4ow6r3bo3A17C6jHCd5ucPKz/Tod+gRCyLtwxiYd7q1zNsHPyFCymQL8Ug8w0dz6yKysieLoUI/XTLoM+2RCzcLiwJFnSfmk/7/T0bxrFXQ1iu9ephtsIGEDp5hYi3zJKn38RN3wEezjb4U0EdbXOwpVM8vc2E1B6QRpDNBacmzdRfKJhBcJiDNOPK9GQlXDQ==;b42gay1hd/ZUIhlvqx2cng=="
 ---
 

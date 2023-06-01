@@ -1,10 +1,10 @@
 ---
 category: news
 title: "University of Oklahoma Joins the BrainChip University AI Accelerator Program"
-excerpt: "BrainChip Holdings Ltd (ASX: BRN, OTCQX: BRCHF, ADR: BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, today announced that University of Oklahoma (OU) has joined the University AI Accelerator Program to ensure students have the tools and resources needed to encourage development of cutting-edge technologies that will continue to usher in an era of essential AI solutions."
-publishedDateTime: 2023-05-31T21:45:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/31/9824157.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/31/9824157.htm"
+excerpt: "BrainChip's University AI Accelerator Program provides hardware, training, and guidance to students at higher education institutions with existing AI engineering programs. Students participating in the program will have access to real-world,"
+publishedDateTime: 2023-05-31T22:52:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-university-oklahoma-joins-brainchip-university-ai-accelerator-program-/2023/05/31/9824157.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-university-oklahoma-joins-brainchip-university-ai-accelerator-program-/2023/05/31/9824157.htm"
 type: article
 quality: 31
 heat: 31
@@ -18,6 +18,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "It24XJIDetQZ3wZJ9IspcbUZMksJXfvqZanbKM2XVg+bjbfpJrqbM40oH9Z1BA62MJplJr4z6gcTPaTQlHvAe23wAhpJoxBUY3PtHXNIcsLewP7YLtV5PRtBlZo4tPE+sswU4pCyVM/e5de3BTbGzzvj41hN5hMnts9FsD4OZ3AjYk5YKBLEXJ84vH/6CIn34JMbIHAhHW1j7HzjjXV8HaedPNaFBQR57eJ1iReO4bJ/h/SC6rTJFAPVhfVU54JcOB9tt9BjwjsYaEqR03sUCOAZ3Ru3qNlX0RIj12y7CGoDO2CpbQNq+uD0iUWyn0EXplpsG13slsD+9BxDAqeiC7rtM7onG2htBSIMtdboCVw=;yrckQMK2xy/FxjDcqV/MJw=="
+secured: "zymkozLPvv6+WQCseE5297WNBg3DwQbXyPubS0h0P0gQkg7MahJH1dypcHRZmyCUEVEIngwQRlKQGKEly12LCrn0Yk0KQcquUxp+GJEz+DYLQYOq7gVog3kfopaVA2dOJA0tmRYOx/Xq8mQ3dF4vpZ4WHQavgqoM3thIDBCDSC3l5JmyYengF3lK47PvwjkJyyPQAnMESnHjPfIWVVNqK7Eto2gvJop6U9ExVZaIgYC2P0CUcO3nlz/K9Fiv04T68DrXkD/N/y5AUDbWO8NorFcw1Kbt7DilZawh7hhBAbSwSgtZCK4xkHDBhgEY7N+F2QGMeZyfmMRZOIh9oSI99dH4dYuttItCcxElFXR9iic=;cloQWq05+qTEwZTyx+VbzA=="
 ---
 

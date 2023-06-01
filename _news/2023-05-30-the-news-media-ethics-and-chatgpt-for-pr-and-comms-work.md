@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/the-news-media-ethics-and-chatgpt-for-pr-and-comms-work/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/3a48a084a7a93ad8c86dde1b9665b51646afbb96/2023/05/24/198d2750-d626-47a5-beca-9735824020a7/versus.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "No ChatGPT in my court: Judge orders all AI-generated content must be declared and checked"
+    excerpt: "Few lawyers are foolish enough to let AI make their arguments, but one did, and this judge is making sure that doesn't happen in his court."
+    publishedDateTime: 2023-05-31T21:06:00Z
+    webUrl: "https://techcrunch.com/2023/05/30/no-chatgpt-in-my-court-judge-orders-all-ai-generated-content-must-be-declared-and-checked/"
+    ampWebUrl: "https://techcrunch.com/2023/05/30/no-chatgpt-in-my-court-judge-orders-all-ai-generated-content-must-be-declared-and-checked/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/30/no-chatgpt-in-my-court-judge-orders-all-ai-generated-content-must-be-declared-and-checked/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 77
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-853938300.jpg?resize=1200,900"
+        width: 1200
+        height: 900
         isCached: true
   - title: "A lawyer used ChatGPT to cite bogus cases. What are the ethics?"
     excerpt: "A New York lawyer is facing potential sanctions over an error-riddled brief he drafted with help from ChatGPT."

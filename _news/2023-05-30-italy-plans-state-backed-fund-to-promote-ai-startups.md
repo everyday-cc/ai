@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/italy-plans-state-backed-fund-p
 webUrl: "https://www.reuters.com/technology/italy-plans-state-backed-fund-promote-ai-startups-2023-05-30/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,36 +22,15 @@ topics:
   - AI
 
 related:
-  - title: "Top 5 Artificial Intelligence Start-ups to Watch in 2023"
-    excerpt: "Founded in 2021 by former OpenAI researchers, Anthropic counts Google as a major investor. The Alphabet ( GOOG -0.63%) ( GOOGL -0.75%) subsidiary took a 10% stake earlier in 2023, and Anthopic has had multiple funding rounds this year. It was valued at $4.1 billion in March. It also counts Salesforce ( CRM 1.59%) and Zoom ( ZM -0.89%) as investors."
-    publishedDateTime: 2023-05-30T20:30:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-startups/"
+  - title: "Corporate VCs ride AI startup wave"
+    excerpt: "Of the 44 startups Workday Ventures has backed, about 25% are already using tech developed by OpenAI, according to managing director Barbry McGann. She adds it's because the AI company's tools are so \"enterprise-ready,\" making it easy for business software makers to quickly integrate the tech."
+    publishedDateTime: 2023-05-27T13:00:00Z
+    webUrl: "https://www.axios.com/2023/05/27/corporate-vcs-ride-ai-startup-wave"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
-    images:
-      - url: "https://m.foolcdn.com/media/dubs/images/original_imageshttpsg.foolcdn.comeditorialimag.width-600_IFPc1qZ.jpg"
-        width: 600
-        height: 399
-        isCached: true
-  - title: "Baidu to invest $145M on AI start-ups"
-    excerpt: "Chinese internet giant Baidu was tipped to set aside CNY1 billion ($145 million) to fund home-grown AI developers."
-    publishedDateTime: 2023-05-31T10:51:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/baidu-to-invest-145m-on-ai-start-ups/"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/baidu-to-invest-145m-on-ai-start-ups/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/baidu-to-invest-145m-on-ai-start-ups/amp/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 57
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2023/05/MWL_Baidu_HQ_New_650.jpg"
-        width: 650
-        height: 400
-        isCached: true
+      name: Axios
+      domain: axios.com
+    quality: 17
 
 secured: "EtUi7GCzyeMYdqXJO+y8sYVuRZOKeWDg7jo1vQArzPFuxLZ9obTA7dUbhhXrIV80shgdjs0NNwUMffCXHKqNb8kwK6oEu730D+ypXdx7jkVusxrjrKFOlRrBgMt1/6aRiywDmx44q0RGs/NbkyXa6k02cAD3yEBM0svyFheEDrL2EEY+Ms03mn8Gpi0y6vAKi6mZXqOv6ve3pbyhyk4iQ+md/wgSh5BI1CoH4YkGluKK/9aLUgjsTJhKezkizD4+OxUXg7MLak7LFFEd3U6kb18Jtjff5JVpJcpMcmms4J5/6mHuHvZmIi/IIAjv6KbAQ965wS+5UwcaqzJ51E9K25TDNRiw7mOdoyKjVJAbbsOVBKmhYGqlVxqa9Z4GzdYY/BwmDo8b/jXYl+NcuAUllJT7zE8TWBDS6J7qvC+cm41eRqmtac0RQu78/BBz3Qqy0bHp+CoFAQvt/DeU/kzPTefCpS8pqgKLca2Bser49W0GI1n89gZ3Sa7FPT1LZBtblKFm8xKFyyY0Nu1YQB9OIQ==;1xDQdmLoPJXtE01WLgfkgg=="
 ---

@@ -2,6 +2,309 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-05-09-microsoft-stock-nasdaqmsft-dont-discount-its-early-lead-in-the-ai-race.md",
+      "title": "Microsoft Stock (NASDAQ:MSFT): Don’t Discount Its Early Lead in the AI Race",
+      "excerpt": "Microsoft (NASDAQ:MSFT) stock has been very quick to recover from the brutal bear market of 2022. Year-to-date, MSFT stock is up around 30%,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-nasdaq-msft-don-t-discount-its-early-lead-in-the-ai-race-1032303276",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-nasdaq-msft-don-t-discount-its-early-lead-in-the-ai-race-1032303276",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/05/image-225-1024x348.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 1024,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-securing-mlflow-in-aws-fine-grained-access-control-with-aws-native-services.md",
+      "title": "Securing MLflow in AWS: Fine-grained access control with AWS native services",
+      "excerpt": "With Amazon SageMaker, you can manage the whole end-to-end machine learning (ML) lifecycle. It offers many native capabilities to help manage ML workflows aspects, such as experiment tracking, and model governance via the model registry. This post provides a solution tailored to customers that are already",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/securing-mlflow-in-aws-fine-grained-access-control-with-aws-native-services/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/securing-mlflow-in-aws-fine-grained-access-control-with-aws-native-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/02/ML-12213-mlflow_architecture-958x630.png",
+          "width": 958,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T10:12:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-host-ml-models-on-amazon-sagemaker-using-triton-tensorrt-models.md",
+      "title": "Host ML models on Amazon SageMaker using Triton: TensorRT models",
+      "excerpt": "Sometimes it can be very beneficial to use tools such as compilers that can modify and compile your models for optimal inference performance. In this post, we explore TensorRT and how to use it with Amazon SageMaker inference using NVIDIA Triton Inference Server. We explore how TensorRT works and how",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-tensorrt-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-tensorrt-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/08/host-ml-models-triton-tensorrt-1260x630.jpg",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T10:04:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-alex-jones-furious-after-falling-for-ai-generated-tucker-carlson-prank-call.md",
+      "title": "Alex Jones Furious After Falling For AI-Generated Tucker Carlson Prank Call",
+      "excerpt": "Conspiracy theorist Alex Jones went on a rant after being pranked by content creator Chris James, known as \"Prank Stallone.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danidiplacido/2023/05/08/alex-jones-furious-after-falling-for-ai-generated-tucker-carlson-prank-call/",
+      "originalUrl": "https://www.forbes.com/sites/danidiplacido/2023/05/08/alex-jones-furious-after-falling-for-ai-generated-tucker-carlson-prank-call/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6459254af727a344f71170d1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danidiplacido/2023/05/08/alex-jones-furious-after-falling-for-ai-generated-tucker-carlson-prank-call/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2023/05/08/alex-jones-furious-after-falling-for-ai-generated-tucker-carlson-prank-call/amp/",
+      "publishedDateTime": "2023-05-08T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-microsoft-rebuts-allegations-of-ai-chip-collaboration-with-amd-should-nvidia-worry.md",
+      "title": "Microsoft Rebuts Allegations Of AI Chip Collaboration With AMD, Should NVIDIA Worry?",
+      "excerpt": "People who are supposedly knowledgeable about the situation say Microsoft and AMD have teamed up to design AI chips to rival NVIDIA's product offerings.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/microsoft-rebuts-allegations-ai-chip-collaboration-amd",
+      "originalUrl": "https://hothardware.com/news/microsoft-rebuts-allegations-ai-chip-collaboration-amd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/61562/content/Microsoft_Processor_Hero.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-what-really-made-geoffrey-hinton-into-an-ai-doomer.md",
+      "title": "What Really Made Geoffrey Hinton Into an AI Doomer",
+      "excerpt": "The AI pioneer is alarmed by how clever the technology he helped create has become. And it all started with a joke.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/geoffrey-hinton-ai-chatgpt-dangers/",
+      "originalUrl": "https://www.wired.com/story/geoffrey-hinton-ai-chatgpt-dangers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6458f22c4a854832b16fcf7b/191:100/w_1280,c_limit/GeoffHinton_Biz_h_15908078.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-ocrolus-adds-openai-gpt-embeddings-for-deeper-automation-in-financial-document-analysis.md",
       "title": "Ocrolus Adds OpenAI GPT Embeddings for Deeper Automation in Financial Document Analysis",
       "excerpt": "Addition strengthens company's ability to process semi-structured and unstructured documents without human involvementNEW YORK, May 8, 2023",
@@ -902,291 +1205,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-amazon-turns-to-ai-to-drive-advertising-revenues-as-overall-ai-use-grows.md",
-      "title": "Amazon Turns To AI To Drive Advertising Revenues As Overall AI Use Grows",
-      "excerpt": "Amazon is building a new team that will work on artificial intelligence (AI) tools that generate photos and videos for merchants to use on the Amazon platform. It is a new initiative that CEO Andy Jassy approved.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/walterloeb/2023/05/08/amazon-turns-to-ai-to-drive-advertising-revenues-as-overall-ai-use-grows/",
-      "originalUrl": "https://www.forbes.com/sites/walterloeb/2023/05/08/amazon-turns-to-ai-to-drive-advertising-revenues-as-overall-ai-use-grows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5d798465c0e1890008d12c06/0x0.jpg?format=jpg&crop=4900,2211,x0,y391,safe&width=1200",
-          "width": 1200,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/walterloeb/2023/05/08/amazon-turns-to-ai-to-drive-advertising-revenues-as-overall-ai-use-grows/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/walterloeb/2023/05/08/amazon-turns-to-ai-to-drive-advertising-revenues-as-overall-ai-use-grows/amp/",
-      "publishedDateTime": "2023-05-08T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-the-state-of-attention-where-is-attention-led-advertising-going.md",
-      "title": "The State Of Attention: Where Is Attention-Led Advertising Going?",
-      "excerpt": "While there is a general acceptance that attention is the future of digital ad measurement, what is still under debate is how it should be calculated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/08/the-state-of-attention-where-is-attention-led-advertising-going/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/08/the-state-of-attention-where-is-attention-led-advertising-going/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6455020d99dbf6b8c49c02fc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/08/the-state-of-attention-where-is-attention-led-advertising-going/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/08/the-state-of-attention-where-is-attention-led-advertising-going/amp/",
-      "publishedDateTime": "2023-05-08T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-heres-what-the-godfather-of-ai-has-to-say-on-the-dangers-of-artificial-intelligence.md",
-      "title": "Here's what the 'Godfather of AI' has to say on the dangers of artificial intelligence",
-      "excerpt": "Hinton mentioned that there's a recommendation on what people should do but when it comes to AI, there are no recommendations as of now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.headlinestoday.in/technology/heres-what-the-godfather-of-ai-has-to-say-on-the-dangers-of-artificial-intelligence-544949246.html",
-      "originalUrl": "https://www.headlinestoday.in/technology/heres-what-the-godfather-of-ai-has-to-say-on-the-dangers-of-artificial-intelligence-544949246.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "headlinestoday",
-        "domain": "headlinestoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-natural-language-processing-for-healthcare-and-life-sciences-market-projected-to-show-strong-growth-by-2030-microsoft-google-ibm-3m.md",
-      "title": "Natural Language Processing For Healthcare And Life Sciences Market Projected to Show Strong Growth by 2030| Microsoft, Google, IBM, 3M",
-      "excerpt": "The Global Natural Language Processing For Healthcare And Life Sciences Market research report gives an essential outline",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-projected-to-show-strong-growth-by-2030-microsoft-google-ibm-3m-2023-05-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-projected-to-show-strong-growth-by-2030-microsoft-google-ibm-3m-2023-05-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-makemytrip-collaborates-with-microsoft-introduces-voice-assisted-travel-bookings-details-here.md",
-      "title": "MakeMyTrip collaborates with Microsoft, introduces voice assisted travel bookings. Details here",
-      "excerpt": "The new platform will help in curating and booking holiday packages based on variable inputs like occasion, budget, activity preferences, time of travel, hotel reviews etc, based on the type of traveller the user is.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/makemytrip-collaborates-with-microsoft-introduces-voice-assisted-travel-bookings-details-here-11683533784960.html",
-      "originalUrl": "https://www.livemint.com/news/india/makemytrip-collaborates-with-microsoft-introduces-voice-assisted-travel-bookings-details-here-11683533784960.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/05/08/600x338/AI_1683534039523_1683534039751.JPG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/makemytrip-collaborates-with-microsoft-introduces-voice-assisted-travel-bookings-details-here/amp-11683533784960.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/makemytrip-collaborates-with-microsoft-introduces-voice-assisted-travel-bookings-details-here/amp-11683533784960.html",
-      "publishedDateTime": "2023-05-08T02:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai.md",
-      "title": "No Business Plan? No Problem. ChatGPT Spawns an Investor Gold Rush in AI",
-      "excerpt": "It is boom times for startups touting generative artificial intelligence technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai-6bdbed3c",
-      "originalUrl": "https://www.wsj.com/articles/no-business-plan-no-problem-chatgpt-spawns-an-investor-gold-rush-in-ai-6bdbed3c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-776000/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

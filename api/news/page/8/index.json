@@ -2,6 +2,300 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-05-25-microsoft-introduces-new-ui-experience-for-trying-out-computer-vision-with-vision-studio.md",
+      "title": "Microsoft Introduces New UI Experience for Trying out Computer Vision with Vision Studio",
+      "excerpt": "Microsoft recently introduced a new User Interface (UI) for developers called Vision Studio to try its Computer Vision API. Vision Studio is intended to allow developers to explore, demo and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/11/azure-computer-vision-studio/",
+      "originalUrl": "https://www.infoq.com/news/2022/11/azure-computer-vision-studio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2022/11/azure-computer-vision-studio/en/headerimage/generatedHeaderImage-1667429468411.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-the-lightning-onset-of-aiwhat-suddenly-changed-an-ars-frontiers-2023-recap.md",
+      "title": "The lightning onset of AI—what suddenly changed? An Ars Frontiers 2023 recap",
+      "excerpt": "Ars Technica hosted our Ars Frontiers virtual conference. In our fifth panel, we covered—What Suddenly Changed?\" The panel featured a conversation with Paige Bailey, lead product manager for Generative Models at Google DeepMind,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/05/the-lightning-onset-of-ai-what-suddenly-changed-an-ars-frontiers-2023-recap/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/05/the-lightning-onset-of-ai-what-suddenly-changed-an-ars-frontiers-2023-recap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/2023_AI_panel_hero_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/the-lightning-onset-of-ai-what-suddenly-changed-an-ars-frontiers-2023-recap/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/the-lightning-onset-of-ai-what-suddenly-changed-an-ars-frontiers-2023-recap/amp/",
+      "publishedDateTime": "2023-05-24T16:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-elon-musk-wants-to-challenge-google-and-microsoft-in-ai.md",
+      "title": "Elon Musk Wants to Challenge Google and Microsoft in AI",
+      "excerpt": "Elon Musk says it could involve different parts of his corporate empire, including Twitter, which he predicted could halt its losses as soon as next month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/elon-musk-wants-to-see-an-ai-rival-to-google-microsoft-a299e27f?mod=e2tw",
+      "originalUrl": "https://www.wsj.com/articles/elon-musk-wants-to-see-an-ai-rival-to-google-microsoft-a299e27f?mod=e2tw",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 354,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-787338/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T16:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-metas-ai-breakthrough-defying-user-tracking-policies-billions-await.md",
+      "title": "Meta's AI Breakthrough: Defying User Tracking Policies, Billions Await!",
+      "excerpt": "The Financial Times reported that Meta Platform (META) has been using AI to circumvent the impact of user tracking policies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jonmarkman/2023/05/24/metas-ai-breakthrough-defying-user-tracking-policies-billions-await/",
+      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2023/05/24/metas-ai-breakthrough-defying-user-tracking-policies-billions-await/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646e94a03689a199465f411d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2023/05/24/metas-ai-breakthrough-defying-user-tracking-policies-billions-await/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/05/24/metas-ai-breakthrough-defying-user-tracking-policies-billions-await/amp/",
+      "publishedDateTime": "2023-05-24T15:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-global-automated-machine-learning-automl-market-report-2023-increasing-need-for-accurate-fraud-detection-drives-growth.md",
+      "title": "Global Automated Machine Learning (AutoML) Market Report 2023: Increasing Need for Accurate Fraud Detection Drives Growth",
+      "excerpt": "DUBLIN, May 24, 2023 /PRNewswire/ -- The \"Automated Machine Learning (AutoML) Market by Offering (Solutions & Services), Application (Data Processing, Model Selection, Hyperparameter Optimization ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/n32564655/global-automated-machine-learning-automl-market-report-2023-increasing-need-for-accurate-fraud-det",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/n32564655/global-automated-machine-learning-automl-market-report-2023-increasing-need-for-accurate-fraud-det",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32564655",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32564655",
+      "publishedDateTime": "2023-05-24T15:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-25-chatgpt-rival-google-bard-integrates-images-into-responses-ai-images-coming-soon.md",
+      "title": "ChatGPT Rival Google Bard Integrates Images Into Responses, AI Images Coming Soon",
+      "excerpt": "Google Bard, the search giant's generative artificial intelligence engine that competes with OpenAI's ChatGPT and Microsoft's Bing AI, has integrated images into queries, the company said in a blog post on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/chatgpt-rival-google-bard-integrates-images-into-responses/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/chatgpt-rival-google-bard-integrates-images-into-responses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/4ab10cbffbbc81f0592dd2e1c6e9afcf909b13ff/hub/2023/05/24/b8f751c9-21f8-4abc-b800-591c3f9685f5/gettyimages-1247375867.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-25-father-mercredi-students-compete-with-the-best-at-vex-robotics-world-championships.md",
       "title": "Father Mercredi students compete with the best at VEX Robotics World Championships",
       "excerpt": "Eight students from Father Mercredi High School proved they can face some of the world’s best youth robotics teams after competing in the world’s largest robotics competition last month. We apologize,",
@@ -891,273 +1185,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-automated-machine-learning-automl-market-worth-64-billion-by-2028-growing-at-a-cagr-of-446-report-by-marketsandmarkets.md",
-      "title": "Automated Machine Learning (AutoML) Market worth $6.4 billion by 2028, growing at a CAGR of 44.6%: Report by MarketsandMarkets™",
-      "excerpt": "By deployment it is further bifurcated into cloud and on-premises. AutoML solutions are designed to automate many of the tasks involved in developing and deploying machine learning models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/g32552421/automated-machine-learning-automl-market-worth-6-4-billion-by-2028-growing-at-a-cagr-of-44-6-repor",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/g32552421/automated-machine-learning-automl-market-worth-6-4-billion-by-2028-growing-at-a-cagr-of-44-6-repor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32552421",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32552421",
-      "publishedDateTime": "2023-05-24T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-tech-giants-trigger-generative-ai-investment-boom.md",
-      "title": "Tech Giants Trigger Generative AI Investment Boom",
-      "excerpt": "From Microsoft to Amazon, Google to Meta, everyone’s in on the artificial intelligence hype, and the money’s following suit.",
-      "sourceUrl": null,
-      "webUrl": "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n=@",
-      "originalUrl": "https://variety.com/vip/tech-giants-trigger-generative-ai-investment-boom-1235623392/?n=@",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Variety",
-        "domain": "variety.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-self-driving-car-startup-haomoai-unveils-low-price-delivery-robot.md",
-      "title": "Self-driving car startup Haomo.ai unveils low price delivery robot",
-      "excerpt": "On Monday, Great Wall Motor-backed Chinese self-driving car startup Haomo.ai unveiled the latest generation of its autonomous delivery vehicle, priced at RMB 89,999 ($12,767), which the company claims makes it the cheapest in the industry. The robot ...",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2023/05/23/self-driving-car-startup-haomo-ai-unveils-12767-delivery-robot/",
-      "originalUrl": "https://technode.com/2023/05/23/self-driving-car-startup-haomo-ai-unveils-12767-delivery-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
-          "width": 540,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-ai-in-retail-smarter-stores-smarter-product-design.md",
-      "title": "AI in retail: Smarter stores, smarter product design",
-      "excerpt": "Retail companies are turning to AI to handle a long list of challenges that would keep any business leader awake at night",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-in-retail-smarter-stores-smarter-product-design/",
-      "originalUrl": "https://venturebeat.com/ai/ai-in-retail-smarter-stores-smarter-product-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/AdobeStock_573239156-1.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-in-retail-smarter-stores-smarter-product-design/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-in-retail-smarter-stores-smarter-product-design/amp/",
-      "publishedDateTime": "2023-05-24T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-kubernetes-version-127-now-available-in-ibm-cloud-kubernetes-service.md",
-      "title": "Kubernetes version 1.27 now available in IBM Cloud Kubernetes Service",
-      "excerpt": "We are excited to announce the availability of Kubernetes version 1.27 for your clusters that are running in IBM Cloud Kubernetes Service.\nThe post Kubernetes version 1.27 now available in IBM Cloud Kubernetes Service appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/kubernetes-version-1-27-now-available-in-ibm-cloud-kubernetes-service/",
-      "originalUrl": "https://www.ibm.com/blog/kubernetes-version-1-27-now-available-in-ibm-cloud-kubernetes-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T05:51:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-redefining-the-consumer-experience-diageo-partners-with-sap-and-ibm-on-global-digital-transformation.md",
-      "title": "Redefining the consumer experience: Diageo partners with SAP and IBM on global digital transformation",
-      "excerpt": "Today, we are thrilled to announce an exciting partnership between Diageo, IBM and SAP that aims to modernize Diageo’s operations on a global scale and set new benchmarks for the industry.\nThe post Redefining the consumer experience: Diageo partners with SAP and IBM on global digital transformation appeared",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/diageo-partners-with-sap-and-ibm/",
-      "originalUrl": "https://www.ibm.com/blog/diageo-partners-with-sap-and-ibm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/Option-1.jpg",
-          "width": 1190,
-          "height": 568,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

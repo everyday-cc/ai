@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/cloud-computing-firm-coreweave-
 webUrl: "https://www.reuters.com/technology/cloud-computing-firm-coreweave-raises-another-200-mln-amid-ai-boom-2023-05-31/"
 type: article
 quality: 71
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI startup Runway recently signed a huge cloud computing contract with Google"
+    excerpt: "It indicates the ability to send an email. An curved arrow pointing right. Google and Runway have a major new contract that provides the generative AI startup will millions of dollars in cloud services and related credits. Runway, which has raised funding ..."
+    publishedDateTime: 2023-05-31T22:22:00Z
+    webUrl: "https://www.businessinsider.com/google-cloud-runway-generative-ai-startup-contract-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://i.insider.com/6447ec3f6001ce00190644ca?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "This 26-Year-Old Has Raised Another $28 Million To Build An AI Assistant For The Workplace"
     excerpt: "Stockholm-based learning platform Sana has announced a suite of generative AI tools along with an extension to its Series B round, bringing its total funding to $80"
     publishedDateTime: 2023-05-31T15:32:00Z

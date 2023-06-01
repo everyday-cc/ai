@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/informa
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-startups/"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Motley Fool
@@ -28,31 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu to invest $145M on AI start-ups"
-    excerpt: "Chinese internet giant Baidu was tipped to set aside CNY1 billion ($145 million) to fund home-grown AI developers."
-    publishedDateTime: 2023-05-31T10:51:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/baidu-to-invest-145m-on-ai-start-ups/"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/baidu-to-invest-145m-on-ai-start-ups/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/baidu-to-invest-145m-on-ai-start-ups/amp/"
+  - title: "AI startup C3.ai’s stock plunges 20% after softer revenue guidance"
+    excerpt: "Shares of white-hot Ai startup C3.ai Inc., which had been hurtling toward record highs earlier this week, took an abrupt U-turn Wednesday. The company’s stock AI, -8.96% skidded 14% in after-hours trading in the minutes leading up to its quarterly ..."
+    publishedDateTime: 2023-05-31T22:09:00Z
+    webUrl: "https://www.marketwatch.com/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66?mod=mw_quote_news"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66"
     type: article
     provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 57
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 87
     images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2023/05/MWL_Baidu_HQ_New_650.jpg"
-        width: 650
-        height: 400
+      - url: "https://images.mktw.net/im-789589/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Italy plans state-backed fund to promote AI startups"
-    excerpt: "Italy's government plans to set up an investment fund backed by state lender Cassa Depositi e Prestiti (CDP) to promote startups investing in Artificial Intelligence (AI), cabinet undersecretary Alessio Butti said on Tuesday."
-    publishedDateTime: 2023-05-30T11:23:00Z
-    webUrl: "https://www.reuters.com/technology/italy-plans-state-backed-fund-promote-ai-startups-2023-05-30/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
 
 secured: "DqWoAXm6kbFjNktnHI2lo6Nn/IoRttpY60ba8NHwifNd7PdEvHzB3w7WZ245S93qO4uWdu9A9FBDhX8O0Dy7HCDL6gNQq4uFFOxIEUTL0oo+hM0Pf+s9lFg1CbkwTUP+bjMJC8ifHQI5zy6XTBS8BFZOeOrytmA5GeMz1/BWGYEb1wMj6ceXehjPXBiJFoK2fUL3lEizbEY2wQH8QisKdJRG10purFO97Gw57Ou45TZIY7mN94w6z+Yq5VyuO226unKxtAGCeF3dacvtPIkyjCvIQlM5kPXLbs04u9mB6dKU4S+PPSzvvXpbvWDu/9cpR+7urSf/9xGqVaVe9Q8qjU2eiyRQZMPAlow88tu26LcxC3Jmjzpcz23UQannNq2xFNWoGkstioz/LeU9Om/nTTkWxhs97/Q0tyVgvOw0LI4433ApMcvPFzNS5Go5L3q3Nh4BSrC8QvO6KeBJzmHTzrQwyOhUYq53QoFiDJef71iYRPkXvvO42eCK8vRikVNBjDnBEsWYGDPZArb+ysqACA==;BlTq8oJx5FOdNi03Qr/OAA=="
 ---

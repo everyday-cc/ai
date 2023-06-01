@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
-publishedDateTime: 2023-05-31T12:32:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692579"
-webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692579"
+excerpt: "Leading scientists and tech industry leaders are warning about the perils artificial intelligence poses to humankind, saying “mitigating the risk of extinction from AI should be a global priority.”"
+publishedDateTime: 2023-05-31T07:32:00Z
+originalUrl: "https://madison.com/news/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/article_25149b54-010a-543a-bcea-102afed5c957.html"
+webUrl: "https://madison.com/news/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/article_25149b54-010a-543a-bcea-102afed5c957.html"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Madison.com
+  domain: madison.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/International/wirestory_54ea8aadc60d1503e5a65878219aad43_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/2/51/25149b54-010a-543a-bcea-102afed5c957/6476696440c58.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -504,6 +505,6 @@ related:
       domain: chron.com
     quality: 16
 
-secured: "AS3o1Csa1NXxJNCH8XcpZDTljbCegJgaFpYvODTvkO8uQUzLQt5xj/E6heUJCyRkVlnPeswgXKO2gTDEhJiRf4QSWIfzg7hM+oMGHd5vJd1PPfxScUMnrIJogHJJaoa5XjoyCBRLIflu3wBqxXW5jK3x61/iMo8HQe98UtCzgaESace4iIGiPYXhlLHdWmLa1OODxbgcOK/+ze3ZEjWqKyG1HBNrNQMJHkIDr+Kw3sW2xX8PJ5xgPtC50s2VfrRcKUBApzULJbh/4i5JekfSsT0F/yvT625OQY2xyuV4Cl3FcSDBTTOhcX8F/NzuIL5Li8tbxFY1OiwMAH5zHqNYXx4yDSeH6jmcToBY8xhzMtw=;6E0g6WJWCZ3JTKco741Rxw=="
+secured: "MYv1vOY+j/aOYRkNlyJIe7rHdJ16DpCCWIF2pfTN7SEn3c9Yg7Bu/L366WOA8p1N1clO8qNtUy9YVKRERPnpDEqR/DZGhCJw1knJ7Az6+od5qevrFY/oqeUBqQJ0umTAHcammR5PAkvSUVsxMEF2syUKsi72oWRntqXz1vxXU1hiwbuqDgL7XTqZGFdSPlnMLRyReZap40UoffS4dY1PAo0hId6VD402SVUkFomGEi8O+b9i74XC4XIEksqHijLoYmvdNJ/UmGEyhe6EFPmKh4JsTuXx25Pp4+iLWkI0wiSwk4+RCTQUHxc6lcrOcTJBmNHRvDED3EmvsSUO85TTCFts0xqlLRdCny7TGoGDWY8=;uqbpmY8VEEop33IgYrdmdQ=="
 ---
 

@@ -61,6 +61,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Generative AI Could Be the Great Equalizer That Also Boosts the Global Economy"
+    excerpt: "There's no question that AI will significantly transform the workforce shortly. It's already happening in people's everyday work lives, including my own. As an example, my team recently lost a couple of people who routinely wrote SQL queries,"
+    publishedDateTime: 2023-05-31T21:32:00Z
+    webUrl: "https://www.inc.com/sania-khan/generative-ai-could-be-great-equalizer-that-also-boosts-global-economy.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 13
 
 secured: "1sQee71u7r/SFAViyr6UtKxtt8AW++1c9rjyOZu+sI0oroZPLui5NAgdRkxT2l6Pxwnz/zheQ1Z2ECQZLuFSd5hl0UoJuAKlLgREbWbpwQj5ZzZmMnGPxlxePXf0Dz/K0U9vJ5G5lPIqsKoU/LH5Rqz49mfh+yaUY00OZYUdnNpqo6t1M6s28WSEDaH4Z4dZeGIaqZZZKyCpt2vAB83w1wB1cEEh+dH5tVbUV68WYnCyH+mU/8XUxxLfk8zPZGuVHy20u3c7HepUmYmFoCVfeTgoZKxXG68lcahXUf5LTslbAqQ7q5hgtU8tmAkiZ3Zb+L5pA8A6AFVkiFZvSNP3Yw4zLrG5bGbAVid/tYWDytoGgLXRGJiqXnbO5welL+Xqa1FA0vdyH83xihDBA23/PqgedmLtxi1LrgOnCRdpA95ZypL2vk3Nq0SkvxSE8eoUe4OlB1z0of+3mK/duLml5Vk0eHpu/GyW7vnFG8WnQ90t6FkEPb4VW44TFBXeLVkS7xe5Uk27Dx/i31ALqiWBYQ==;jvwfv8OFp63aMZHyF6UOgw=="
 ---

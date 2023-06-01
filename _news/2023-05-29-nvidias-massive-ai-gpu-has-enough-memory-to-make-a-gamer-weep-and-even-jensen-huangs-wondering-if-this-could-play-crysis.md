@@ -24,22 +24,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Nvidia founder and CEO Jensen Huang: Run for food or run from being food"
-    excerpt: "Jensen Huang, the founder and CEO of GPU company Nvidia, encouraged students to be agile for the opportunities brought by the AI revolution, to have the humility to admit failure and ask for help as well as to endure the needed pain and sacrifice for realizing their dreams in his commencement speech at the National Taiwan University (NTU) on May 27 in Taipei."
-    publishedDateTime: 2023-05-27T06:50:00Z
-    webUrl: "https://www.digitimes.com/news/a20230527VL200.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 23
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230527vl200_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-
 secured: "TRqAMhDKZXSTZexMNb+cO95hLEptfhvTeCZxmLctbl35Nl5wwE0B849n4q8fNYH/0ap7jQrM8T7X+1kNa0tfU+SNWkxtX2xF64pjdEhg2yBT6iJt2JAo+LNeNk/m4/o4ogl2UOYBcyhO/g8F9BCiW+/r0sRGQzAK+uH+1h8l5FvAQlWkiFpZPPFJc2FY00WRZpHMhONqT5qVhZE/hsyQjJlA9z+P0OJWE4xJnzvPqbfsS4gkhn9UnjKJs6+iMdWBwuAjKPHQwDgjYhYoKDxSGfrS+mVNso82lBNMgM8KOAIodcydsPJqu/YTe7Imp5Pp/HsypGtcu/73X4mwgTUmuIkOph2epU94seo8x5yaV44=;qAr18bBWvhOCsA/cptV9hQ=="
 ---
 

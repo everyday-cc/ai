@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-31T21:46:00Z
 originalUrl: "https://www.biometricupdate.com/202305/eu-data-watchdog-publishes-guidelines-on-facial-recognition-in-policing"
 webUrl: "https://www.biometricupdate.com/202305/eu-data-watchdog-publishes-guidelines-on-facial-recognition-in-policing"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
@@ -24,6 +25,6 @@ images:
     height: 1152
     isCached: true
 
-secured: "GziWIwUmhhdJ2lvgZh7JQmBdjBYOc6HeRe7SJHdEO+cN6DbDBI0LtqlY57iRqbdy6dz1Pd1dm8JfO8YxJoIaQdYqStuuoZwkd1Ug40rE1Isgc5Aah/LIqA5LL101XX9kLJLajaOLTQ5l4U98git+6feZ2+eSX7e1IfXeiSKO74axWvLS/Lg4ugaIp6SlyLugLheuZCNF2oefC9ZjQHbWlYGoEaOrCj2E5Btu4AnmWjx+zDCWmFDF8VrqId7ItwCMQxHcja6hSUgKOa3u9iFeanTAMa411kEDd/9x0v5nTo7S9LEQTOz3lejT1O2WJbFEpwi+Hrny7bvcKdu5bvvGLY3mGTi8UfEo5GjUsk9U2fQ=;7GASABhb8cPm2r3SLyF0OA=="
+secured: "p5aT9npbMGUpa9Vw58TarqakXH3r5yyRPKm7SIBclB6vl07Rzw/JknhixikiBdVniAJ3BxLKOdSSCfvqupti81LaMZvpxEZeN9ahoA/Vq6dPxYzEnZwesnEFX2kM1QWvfyZg8erJXPKp3i9wVbARxqILtH2jc9SMrTvA6ToJ0rugkPJpU57hI1//GYhYIkC1URsgT2KPuye2VjZh5uOPu8lTPtHdevfhc5miwOJtREiqncM8IQeNoqAYsbUaTIbuQbE/JdixSGf12qi+Ajo+H3QvVO7DxEuIWYe3LD3O8zIvO10XGAjGTxFDwW8aduuKBkmSzd1TOCd8c2aEh9HazubzfKYvfNsQfdtl4Xq8VF0fifosaHvRhPsxRyQoEakFguBn2AamUphgnD5BFc8lT0s3utWrZHcxQB8603qxbu/QrSOWHre1MQtvdfEHPqoJqWwMK716IbFP+FP8Veu+co6kQa7F0Eqsf2e2/6vgDzIaZMNHKrk9HhJjUirXYW/RQovILUYGcaTt2Dx2LLhdzw==;bsjnsIFTqx2DdMI91BDrZg=="
 ---
 

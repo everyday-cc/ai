@@ -33,6 +33,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "IBM Launches Watsonx to Power Next-Generation AI Foundation Models for Businesses"
+    excerpt: "Kindly share this postIBM has announced IBM watsonx, a new AI and data platform that will enable enterprises to scale and accelerate the impact of the most advanced AI with trusted data. Enterprises turning to AI today need access to a full technology stack that enables them to train,"
+    publishedDateTime: 2023-05-31T23:07:00Z
+    webUrl: "https://www.nigeriacommunicationsweek.com.ng/ibm-launches-watsonx-to-power-next-generation-ai-foundation-models-for-businesses/"
+    type: article
+    provider:
+      name: nigeriacommunicationsweek
+      domain: nigeriacommunicationsweek.com.ng
+    quality: 49
+    images:
+      - url: "https://i0.wp.com/www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2023/05/IBM-Watsonx-1s.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "b0mnORBg/lnBpdZUZUnqsouViqnScWOoBSMiPaxrNdosD5k5/yt731jpS4qu2DUTQmVcesLN0u/rch4ey/CxPTs2bkkZTccp1eUwC2xZC6hLbURDySxby+rc70s6+RgT60tTWqZdJKebiu7+pIyN2fF5PgjIXYNxhoIeywnPf0HZe44tXBSlhJ64Z2ICZMYCZavxGyr8ziOyxKuyQqHhF6eJBLxEsUxGckNKgcacf9AU+W95XP6QA5SeJmUzRJn6HsOjUPGIetyAbCegbCnEC+ms72kqDuNxI8dYhYvuGEVAcLYVKOHQ+RMlJg/clbbl4ky2HXp+TrHNQhoC6lt/YWr65kTRGC9knyzrP4BqcpUjvJAtHszPzuU8RbdjH+ab1OSOz0nKsXnHc9gxyyOLCRCItglAC+O5DHDMqphmCL7MmxtQUfBNWirUdjbWVE5C3Vdsu0zfuPcv2++o9lMPUtd/I5GxIjKugKepBhUgGfFsyM5F2rpP5oKzvmmht8nxNBBKCiaZfFy2LKWuOyaNuQ==;tX3lxxT72e3W+x2XsoEfhA=="
 ---

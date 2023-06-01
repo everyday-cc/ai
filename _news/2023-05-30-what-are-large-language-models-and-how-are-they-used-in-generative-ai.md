@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerworld.com/article/3697649/what-are-large-languag
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3697649/what-are-large-language-models-and-how-are-they-used-in-generative-ai.amp.html"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Computerworld
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "The rise of artificial intelligence: How language models and NLP are transforming industries"
+    excerpt: "Frustrated by manual onboarding processes during its quest to grow market share in the corporate sector, Banco Galicia resorted to using Red Hat Inc.’s expertise when creating an NLP platform, according to Erico Behmer (pictured,"
+    publishedDateTime: 2023-05-31T22:05:00Z
+    webUrl: "https://siliconangle.com/2023/05/31/rise-artificial-intelligence-language-models-nlp-transforming-industries-rhsummit/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 43
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Erico-Behmer-Victoria-Martinez-Clean.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Can The 2024 US Elections Leverage Generative AI?"
     excerpt: "Let’s discuss the potential of using generative AI in the 2024 US elections and how it can transform political campaigns and decision-making."
     publishedDateTime: 2023-05-28T01:45:00Z

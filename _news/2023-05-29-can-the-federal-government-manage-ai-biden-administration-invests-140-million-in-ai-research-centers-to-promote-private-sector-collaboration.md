@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden Education Department worried AI in the classroom might be used to spy on teachers"
-    excerpt: "The Department of Education released a report warning that artificial intelligence systems should not be used to surveil teachers in the classroom."
-    publishedDateTime: 2023-05-27T06:00:00Z
-    webUrl: "https://www.foxnews.com/politics/bidens-education-department-worried-ai-classroom-spy-teachers"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-education-department-worried-ai-classroom-spy-teachers.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-education-department-worried-ai-classroom-spy-teachers.amp"
+  - title: "See the 17-slide presentation an AI startup used to raise $15 million to improve post-hospital care"
+    excerpt: "Improper care after hospitalizations can drive up medical costs. Laguna is looking to change that through AI."
+    publishedDateTime: 2023-05-31T20:01:00Z
+    webUrl: "https://www.businessinsider.com/pitch-deck-laguna-health-15-million-series-a-2023-5"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 96
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c5347284-ddac-4097-8065-387edd09b96b/63aabd01-2815-4a73-a1e9-c19dca9ac7a4/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+      - url: "https://i.insider.com/6477a6d7df2567001837e74e?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
 
 secured: "KRQLiaxJXzcY7OiPD6KK/pshBNxSUx5GI4pUtCcOnWO51IF6bZfLCcQpdPbC2Y5il3BLHnVA91tCK85L87TNP8nzje0Iss+gWOT4aB5Ypfz8vKIeTDcwGPqjvYjeTqOsGvuTV28gQnC0gE2B7Tz24/Q/csDZjkNDpDK0E5ie6dzgFwUkFldtlRwbmEj53AfuVV95dCBO59wgCTRkp5vDsr0uQwngbocJcSsLL28RN9RFPQ+NuGnfXvyZ2kKIG2F5lqNOf47UEJCf2be7ZzfdJJsVFPwCWwTEBdmCtpkGi9MKhjtsz9UM9mAXuCThPknsFKuchzUae7p+dz948d+yDlHuAgOYXerh6IUBsxxukmg=;36drdGDvwXGMBV+onD5r5w=="

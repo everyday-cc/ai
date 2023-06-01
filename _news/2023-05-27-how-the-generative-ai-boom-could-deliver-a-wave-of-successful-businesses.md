@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-the-generative-ai-boom-could-delive
 webUrl: "https://venturebeat.com/ai/how-the-generative-ai-boom-could-deliver-a-wave-of-successful-businesses/"
 type: article
 quality: 68
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -66,6 +66,15 @@ related:
         width: 640
         height: 359
         isCached: true
+  - title: "Generative AI Could Be the Great Equalizer That Also Boosts the Global Economy"
+    excerpt: "There's no question that AI will significantly transform the workforce shortly. It's already happening in people's everyday work lives, including my own. As an example, my team recently lost a couple of people who routinely wrote SQL queries,"
+    publishedDateTime: 2023-05-31T21:32:00Z
+    webUrl: "https://www.inc.com/sania-khan/generative-ai-could-be-great-equalizer-that-also-boosts-global-economy.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 13
 
 secured: "2Gyicz6r8tbI1I/QYPObtrDYM7b+atT6U13psQ8PnA+/N00xwDvIHSuuZxQ5VA3aADdFbR+IYnp7/nOUBa5E4gl299JIHQjPfYM8nMvDhL8tJ79hHxB+Nhdb26dFbTDStHekkO6+DBuVxUsjeHcpoKNSFUB53w56PUPEt0+ytqMU5lTaW88iSIEkGXTZFm7jxxrsJgq2ALzbdIwhXeKr25hWlvzvd9Uk94Pio3y+5vGNtBTWb6xsQLS/7XHFMyCUl9/3tlaKwsBBSQEBxHRxQaAWLWBVuX5l+lwupF0p0jehWyUo7F2EGdtQCvuppJSA4sFl+6ZvywpPK12X0QpwwnCVr/rxBFmHHFnML98aCG0RdmLavopgmLrtsp/KEUnuRthVEaYZFlvQnEzk3fz1L9rKi4OQyA3/4v5dJNtQZehmotsNUhJh9rYcG+CUJ/9z6iKqwDpHm9A6puWs+YoEE43Zj+K+Ufm+rcBrxCEEYkGSd2PtR9YGxlJFoOBoBvusIK964bH/Ah+74QpU/CLAMQ==;KUHkV8DD5NNMd2ziviA3UQ=="
 ---

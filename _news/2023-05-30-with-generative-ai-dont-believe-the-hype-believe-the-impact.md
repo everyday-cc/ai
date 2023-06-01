@@ -64,6 +64,15 @@ related:
         width: 640
         height: 359
         isCached: true
+  - title: "Generative AI Could Be the Great Equalizer That Also Boosts the Global Economy"
+    excerpt: "There's no question that AI will significantly transform the workforce shortly. It's already happening in people's everyday work lives, including my own. As an example, my team recently lost a couple of people who routinely wrote SQL queries,"
+    publishedDateTime: 2023-05-31T21:32:00Z
+    webUrl: "https://www.inc.com/sania-khan/generative-ai-could-be-great-equalizer-that-also-boosts-global-economy.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 13
 
 secured: "48LZYborBg8PSy0P7x3gkgyt+9iaZWG5jX45BMBQESlwiitbvTbux3menz+yEKG+E8JwvYycHp98nyaNSdp0ioTUw+l/LOXot2Nh6FwFZ1bKRn0QO7iXhMiLqxLsfNW+3WPq0sJOFuAS9SRFC7ujTl3BhT0xF7WmSEyHyTNgkBVyZ4qu8b0QJNpGYQxtPO+niBa1UtDeSXsiIRLDIf2pSkJTHJ4ndNWbLoQ6BGtANsal7vsFt3DGC5Vddysif47BcFZ2Nz5/fTW1V9/hslzIVTx5hn2kgsNxfaFQa16NHbCkwaGq3/J4PMuqPrqTWHc6RUWOQ5vmyztoTGwmPTfjZjcDx0Kigu8KVZjK+r0MaAd8gzWtoNN0Ao3fjqcKxtGl5/Lls6Svd8fMW5znftvOGpon8wIwUCJH598lTmEPi+ogOUoiEig7neLRe9hrWyRz0bV6WuoHCT3ghUYtq9/zJ7NJ85mpPJcpMC1tqbNgzv+GRFJdw3wnan8Qji67EX9h7QLgjkMlsl2rYKqHkzVkig==;BDCiB4CceTCMZNBi26ih3w=="
 ---

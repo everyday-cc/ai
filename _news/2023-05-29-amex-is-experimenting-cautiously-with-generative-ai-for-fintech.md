@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/amex-is-experimenting-cautiously-with-g
 webUrl: "https://venturebeat.com/ai/amex-is-experimenting-cautiously-with-generative-ai-for-fintech/"
 type: article
 quality: 69
-heat: 120
+heat: 119
 published: true
 
 provider:

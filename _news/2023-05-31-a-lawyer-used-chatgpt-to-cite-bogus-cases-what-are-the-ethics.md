@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "No ChatGPT in my court: Judge orders all AI-generated content must be declared and checked"
+    excerpt: "Few lawyers are foolish enough to let AI make their arguments, but one did, and this judge is making sure that doesn't happen in his court."
+    publishedDateTime: 2023-05-31T21:06:00Z
+    webUrl: "https://techcrunch.com/2023/05/30/no-chatgpt-in-my-court-judge-orders-all-ai-generated-content-must-be-declared-and-checked/"
+    ampWebUrl: "https://techcrunch.com/2023/05/30/no-chatgpt-in-my-court-judge-orders-all-ai-generated-content-must-be-declared-and-checked/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/30/no-chatgpt-in-my-court-judge-orders-all-ai-generated-content-must-be-declared-and-checked/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 77
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-853938300.jpg?resize=1200,900"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "UK startup taps ChatGPT to launch AI playlist generator"
     excerpt: "A UK startup has tapped ChatGPT to build a text-to-music playlist generator. The AI system is the brainchild of Uppbeat, an audio platform based in Leeds. Targeting content creators, the feature finds copyright-free tracks for video soundtracks."
     publishedDateTime: 2023-05-30T15:47:00Z

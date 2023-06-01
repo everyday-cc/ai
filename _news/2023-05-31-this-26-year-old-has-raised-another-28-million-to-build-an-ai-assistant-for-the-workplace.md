@@ -42,6 +42,20 @@ related:
         width: 720
         height: 719
         isCached: true
+  - title: "Generative AI startup Runway recently signed a huge cloud computing contract with Google"
+    excerpt: "It indicates the ability to send an email. An curved arrow pointing right. Google and Runway have a major new contract that provides the generative AI startup will millions of dollars in cloud services and related credits. Runway, which has raised funding ..."
+    publishedDateTime: 2023-05-31T22:22:00Z
+    webUrl: "https://www.businessinsider.com/google-cloud-runway-generative-ai-startup-contract-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://i.insider.com/6447ec3f6001ce00190644ca?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "GPU Cloud Provider CoreWeave Secures $200M Series B Extension"
     excerpt: "CoreWeave, a specialized cloud provider built for large-scale GPU-accelerated workloads, today announced an additional $200 million in funding from Magnetar Capital (“Magnetar”), a leading alternative asset manager."
     publishedDateTime: 2023-05-31T19:59:00Z
