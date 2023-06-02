@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-excerpt: "The CEO of ChatGPT maker OpenAI and Geoffrey Hinton, a computer scientist known as the godfather of artificial intelligence, were among the hundreds who signed the statement."
-publishedDateTime: 2023-05-30T13:52:00Z
-originalUrl: "https://www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/"
-webUrl: "https://www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/"
-ampWebUrl: "https://www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/?outputType=amp"
-cdnAmpWebUrl: "https://www-wbko-com.cdn.ampproject.org/c/s/www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/?outputType=amp"
+excerpt: "Scientists and tech industry leaders, including high-level executives at Microsoft and Google, issued a new warning Tuesday about the perils that artificial intelligence poses to humankind."
+publishedDateTime: 2023-05-30T13:28:00Z
+originalUrl: "https://www.wral.com/story/artificial-intelligence-threatens-extinction-experts-say-in-new-warning/20886276/"
+webUrl: "https://www.wral.com/story/artificial-intelligence-threatens-extinction-experts-say-in-new-warning/20886276/"
+ampWebUrl: "https://www.wral.com/amp/20886276/"
+cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20886276/"
 type: article
 quality: 71
 heat: -1
 published: false
 
 provider:
-  name: WBKO
-  domain: wbko.com
+  name: WRAL
+  domain: wral.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://gray-wbko-prod.cdn.arcpublishing.com/resizer/m2_Hb0UKjlNkGm-4CU7nAg9lueY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/CK5GVJIDSNCA5JWCP6IMLZNW4A.jpg"
-    width: 800
-    height: 450
+  - url: "https://wwwcache.wral.com/asset/news/technology/2023/05/30/20886277/6475fa6fa5ee5-media_7dd689f31dad4f5ca5d5ab652dfdfdec-DMID1-5z2v6gjo8-640x480.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -595,6 +595,6 @@ related:
       domain: texasstandard.org
     quality: 0
 
-secured: "TGb8xBOauvwzbI75pl/QEs3B/fAL5vit9ysFLbP/Lm4rs2+2uBSVtHd4K8+U+hoBE1eHm68Bs6xyNwrLLHc2ypTVcpBjpKxzXHroVl9sKyOw8HKDSZmVri1g9mS2/6N9pmwdv2ZppUZ8XCI/vRpoIem+D661QVv0Bycb81DH81V549s1VnUV1K0uE01QZYQRdflcg+YbXMQlu7wMny4DChFhwVH2Mqib4ulMWRhffZcwLXvcU8LyF4wDFfSGPn/STm2lGV0yIt5B3fIPfVMlae/jhBb24C/ek+SRYiFcqTMnlMO8rJiIqL8p5cQmUd7tD4x95xzcUx778wdjf+saeifU6XaVaiAqN8so9H1Kgx3pwXhIw/YsoDxfOCR4080VkiYVA6DAT0soSPwLMHdal4uo6Q2N9mz8KuLpQ5pzwUjnIS+m6R+DBfJ7Tofl+PU4kJEbeu9idhPJg1/DPrBZjltGxhcuDa/pY+yjms+pGN8MdK9a8WicNUd9R8D3BfwQg8JcmLKzLCMPdO4tiwzmng==;7pifwTREOoXLnPr0rqDxGw=="
+secured: "iiXbYgHaOagIJO6ArPx6XCH7M+aW48Ef/L3hahmuLPjUp2znG3tapnu2BtBJvJb+UxPGoc4HmE0jT2rDMWpKojiDsdKkdzgakYEWEGxKWUecUJXrsFdziM4lSYvxeIDeZsXwqeGOH5+WfQ5q2buu4Ov7u9UFxhVrbN/TCoqCRwoUY5Vk8lbo6bjwTzeD7LnARNHQ2/z60A8sBmsKNeSnHKf2sbARTskquUsb+6yn7uffPRQFWpffpmqTLtwHg/4jIv0wbfq2yxzwP++9y7zUFHOI4+7o6wHrptXQC1gcqcqrf0Pf+Y8vqMbtLYyJ4eRoiCQkhhS4W1wkR4icKKvBK+ymWhf/6axd/n+UmDNRSJo=;TFxIvqkhmNpwh2evCEjo0A=="
 ---
 

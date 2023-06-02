@@ -19,43 +19,34 @@ topics:
   - AI
 
 related:
-  - title: "AI is key for Intel's new Meteor Lake CPUs: Here's what you need to know"
-    excerpt: "Everyone's talking about AI these days, and Intel is hopping on the bandwagon with Meteor Lake and its new VPU. In a press presentation attended by Tom's Guide, Intel representatives claimed that the amount of compute power required to do things like dynamic noise suppression in video calls has increased significantly in recent years."
-    publishedDateTime: 2023-05-29T13:01:00Z
-    webUrl: "https://www.tomsguide.com/news/intel-meteor-lake"
+  - title: "Will artificial intelligence revolutionize the hiring process?"
+    excerpt: "It seems like everyone is talking about artificial intelligence and all of the ways it will change the way we live and work in the not-too-distant future. One of the ways that businesses are already using AI is in the recruitment and hiring process."
+    publishedDateTime: 2023-06-02T13:18:00Z
+    webUrl: "https://www.nhbr.com/will-artificial-intelligence-revolutionize-the-hiring-process/"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 38
+      name: NH Business Review
+      domain: nhbr.com
+    quality: 39
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/8YNQC87d39NvpSnb9DRk3J-1200-80.jpg"
-        width: 1200
-        height: 715
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.nhbr.com/content/uploads/2023/06/s/c/ai-hiring-process.jpg"
+        width: 2164
+        height: 1385
         isCached: true
-  - title: "Intel’s 14th-gen “Meteor Lake” chips will have a dedicated VPU (vision processing unit) for AI acceleration"
-    excerpt: "No Comments on Chip makers have been designing chips that incorporate both a CPU and GPU for decades at this point. But we’re increasingly seeing companies add other dedicated features, and as the tech world looks toward AI as the next big thing,"
-    publishedDateTime: 2023-05-29T16:06:00Z
-    webUrl: "https://liliputing.com/intels-14th-gen-meteor-lake-chips-will-have-a-dedicated-vpu-vision-processing-unit-for-ai-acceleration/"
+  - title: "Delhi startup is using AI to fix challenges in the hiring process"
+    excerpt: "TraqCheck uses AI technology and automation to streamline the background verification process. It currently has more than 150 clients, including Reliance Retail, Lenskart, Motherson Sumi, Hero Cycles,"
+    publishedDateTime: 2023-05-30T01:15:00Z
+    webUrl: "https://yourstory.com/2023/05/delhi-startup-ai-hiring-employees-traqcheck"
     type: article
     provider:
-      name: Liliputing
-      domain: liliputing.com
-    quality: 21
+      name: Your Story
+      domain: yourstory.com
+    quality: 37
     images:
-      - url: "https://liliputing.com/wp-content/uploads/2023/05/vpu.jpg"
-        width: 1200
-        height: 651
+      - url: "https://images.yourstory.com/cs/2/6c7d986093a511ec98ee9fbd8fa414a8/CopyofImageTaggingnoframesEditorialTeamMaster26-1685361632712.png?fm=png&auto=format"
+        width: 1600
+        height: 800
         isCached: true
-  - title: "AI Features to Play a Major Role in Intel’s 14th-Gen Meteor Lake CPUs"
-    excerpt: "Check out Intel's latest updates on the Meteor Lake 14th Gen CPUs here, where they have discussed many new AI-focused features."
-    publishedDateTime: 2023-05-29T12:37:00Z
-    webUrl: "https://beebom.com/intel-14th-gen-meteor-lake-ai-features/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 19
   - title: "Intel's 14th Generation Meteor Lake Processors: Emphasizing AI and Energy Efficiency"
     excerpt: "Intel's 14th generation processors, codenamed Meteor Lake, is set to introduce a focus on AI and energy efficiency. At the Computex 2023 event, Intel revealed details about their upcoming Intel Core"
     publishedDateTime: 2023-05-30T07:26:00Z

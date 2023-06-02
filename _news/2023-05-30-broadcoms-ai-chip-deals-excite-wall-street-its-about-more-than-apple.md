@@ -65,6 +65,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Buy Broadcom thanks to an undervalued artificial intelligence portfolio, Bank of America says"
+    excerpt: "Bank of America thinks chipmaker Broadcom can thrive in the ongoing artificial intelligence boom. The bank raised its price target on the stock to $950 from $800 and reiterated its buy rating. BofA's new forecast represents more than 20% upside compared to the stock's $789."
+    publishedDateTime: 2023-06-02T09:48:00Z
+    webUrl: "https://www.cnbc.com/2023/06/02/buy-broadcom-thanks-to-an-undervalued-ai-portfolio-bank-of-america-says.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 53
 
 secured: "0mA08oveha4ODF02HNilod+s5caGhejVL5AxDlIwlUS1AJ3ZZpqC1eDDSnxCMuQNUY4mZbsAgbycsM59at4ILLBnFv6npCIdwfehyw21RPZNchDxliNMMAiMjTkysqdREgebC3Zc5ttSfxJRekD4OgRdawBtFVfbk98FUPiM/PJCui9Hda6+AjoxrjAiDr6rEKYmGOscdkqwjrc2xonEQfl5xq0OlWNX5foUG8UgWp7TOGs2m5ZW37oJDwIzVgOkGXB6iMvFT0iHV/o3QeQWnYCgpcgJoOYPFcUopbMFiVSsKm2kXD5vPsGe6er7Qku/pkSR2k/gNUvJz8KqTJO4/DF0hsY6EGuAUL1oWqNTLYVW8FZZb8bQOD4T1CvBopft+ye2b7sb1hVZ2Fl7TpAzm7ZFILlBRwuhEPRaHrZCyKBsiQgh/R5B4268wzSlXIJmD2iREpzNHaTs2FKqDZL9+yxmtthOJ6CzpkcrVtx8rHGIRxCXZ9WNVVmv/gwXtmQ0zZuWIBiZkKpFM5m+WYH09w==;nCrxgcB7d86KO0sDVYZjxQ=="
 ---

@@ -21,19 +21,6 @@ topics:
   - AI
   - AI in Security
 
-related:
-  - title: "The impact of AI on the financial services industry"
-    excerpt: "Artificial Intelligence (AI) has emerged as a transformative force in various sectors, revolutionizing the way industries operate and deliver services. One such domain experiencing significant disruption is the financial services industry."
-    publishedDateTime: 2023-06-01T15:01:00Z
-    webUrl: "https://www.bworldonline.com/banking-finance/2023/06/02/526310/the-impact-of-ai-on-the-financial-services-industry/"
-    ampWebUrl: "https://www.bworldonline.com/banking-finance/2023/06/02/526310/the-impact-of-ai-on-the-financial-services-industry/?amp"
-    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/banking-finance/2023/06/02/526310/the-impact-of-ai-on-the-financial-services-industry/?amp"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 39
-
 secured: "l4dMFaic13moE07eSyt8DKTSkTwXBMdt4DYusLxIV054aroIhHhVdNt9/03VMnfwu9tpwCf0Zi488+ndhvrKmE640AWts7NOfOe+yk+xhJeue3coBR2rOwjUOuku4tETOy3OWB1ShVUiGLDh2QPDD1fnTPsFONLrXtNfve2d4/K96f3Lm07hIZqscCdF8bCYxxlbdkTbWK2CiJUYXlatgNx+x1rTAoub7cuYGh94Y8LmoGrMzHP0x+0+yUEQQpoQ+qVCAqWo1VYiI2Iyoqksh/5RcecdsLiWVz4I6Mx6DYa8xzJ4mPf14uSP4iVPQV51m4wMbcQoFHiAV2Ekhgahg5J4Rc62ruBiEfDSObEW2Bo=;+3/nxjmOBSen9k6NDc/dvQ=="
 ---
 

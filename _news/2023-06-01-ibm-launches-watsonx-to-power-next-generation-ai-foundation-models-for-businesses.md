@@ -39,15 +39,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "XtalPi Announces Collaboration with Lilly, Using AI + Robotics to Uncover First-in-class Therapeutics"
-    excerpt: "XtalPi has established itself as an industry leader in combining mutually informative AI \"dry lab\" algorithms with large-scale \"wet lab\" robotics to empower pharmaceutical innovation. Building upon existing success,"
-    publishedDateTime: 2023-05-30T12:13:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/30/9822516.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
 
 secured: "8rQCdr/GbDSMUqOptJnVf/0BQ6DD7Mxyq3Hjf0WmkF2crEP+P1DwiTKGdFC8U+ztz/Sxbxj+vRrg/ASgnfpK4ZkgIwLKGMVUsV4wkfYyAv44IZewcdzFqc62rN+G0jh8pyt7uUAuViyhb1cJbI3Ov9jqcf4ya42H0ACuzh2g/KdJ+jDbU9Ju9osxKTA135nNOPQlCzQWkOHYU1NYQRPML/WuVkiBIoZM7DdhPiOGfP/HdBK0Rfx9kbbVttfkK2DHpHHjvyFg59aoHSUiFwAQdyJvIQqx5mt2cO1JEn8b5Bb66p4q/HYjGmNYDeEds8mc6tIvm3KOROXwtHqKB4LVomHo7u9rvB5okkcme8pQRXI=;3OppFwneW1VzEL0R7NPHkA=="
 ---

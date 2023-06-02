@@ -137,6 +137,29 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Air Force Now Claims Its Simulated AI Drone DIDN’T Try to Kill Anyone"
+    excerpt: "The senior U.S. Air Force official who said a simulated test with an AI-controlled drone ended with the drone “killing” its human operator is now backtracking. The Royal Aeronautical Society, the host of the conference at which Colonel Tucker “Cinco” Hamilton discussed the incident,"
+    publishedDateTime: 2023-06-02T13:52:00Z
+    webUrl: "https://www.thedailybeast.com/air-force-now-claims-its-simulated-ai-drone-didnt-try-to-kill-anyone"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2916,w_5184,x_0,y_137/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1685716547/2022-09-08T105621Z_1676758531_RC2XCW9HXSAO_RTRMADP_3_SWISS-DEFENCE_whexap"
+        width: 1480
+        height: 833
+        isCached: true
+  - title: "Reports of an AI drone that 'killed' its operator are pure fiction"
+    excerpt: "It has been widely reported that a US Air Force drone went rogue and 'killed' its operator in a simulation, sparking fears of an AI revolution - but this simulation never took place. Why are we so quick to believe AI horror stories?"
+    publishedDateTime: 2023-06-02T12:20:00Z
+    webUrl: "https://www.newscientist.com/article/2376660-reports-of-an-ai-drone-that-killed-its-operator-are-pure-fiction/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 17
 
 secured: "K1FGNJTdZRF/PkLYJwdIrdbAwbJUQjJixp9z1Rxqf8R50B3bEhO5+oR4SnVh8rqov21gSQ2npO91t5vwSX1I8xCy+fbHUj9LOkEls0UkBPnRzuZ/fHttAq+Rs2J++Hzf0/HL32BtjtJsOjbd93AonZV3J2p4I7RMcIo5eWskSY8dUKfYq2b25YJx6tfKz5pyjfpNh5gZUBG1N+fQr0Fn8Kw9R7exqu5vrlq3xLuztXw/haDg90wa8Ds8gmLGQXb1vH0Xc4l/lNGsUMjgIk8NZBA9HeWvkC67LySA9hXOYP7m4LDzsmWXAEu6dgBxB7t8ktV3NwaS5FF82sSGACBSkUcMIj4UUxCUHnspffjHlzCI9aWGA4xHst2fhNs+3m76rt/QypYH+9A40djZAPrzB4cr6ar7TgmvDVGiF+LiVP9rDSoE2PCuwFlOdhJKHGYYitt7CZBi9vPjbamyZAKDC3vb5Lgkno6of2PYfivMhe4hTfaqlJfhvpdT7ID6qdFdFurURTE3A3vd9myGh+delg==;epB2ZjaqQXQxtXi/RlMenw=="
 ---

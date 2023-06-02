@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/amex-is-experimenting-cautiously-with-g
 webUrl: "https://venturebeat.com/ai/amex-is-experimenting-cautiously-with-generative-ai-for-fintech/"
 type: article
 quality: 69
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://image.chitra.live/api/v1/wps/d87be48/eabf10b8-256a-43f1-8809-6fdf5f835566/7/Wazed-1-370x229.jpg"
         width: 370
         height: 229
+        isCached: true
+  - title: "Why banks are chasing fintech partnerships"
+    excerpt: "Traditional banks are keen to partner with fintechs for their knowledge. But what do the digital players get out of the deal?"
+    publishedDateTime: 2023-06-02T15:17:00Z
+    webUrl: "https://www.raconteur.net/growth-strategies/why-banks-are-chasing-fintech-partnerships/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 39
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2023/05/fintech_online_banking_app.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Generative AI Is Moving Into Adtech. But Which Companies Will Stand The Test Of Time?"
     excerpt: "Generative AI is bulldozing through every industry possible, including advertising and brand marketing. And VCs have some choices to make."

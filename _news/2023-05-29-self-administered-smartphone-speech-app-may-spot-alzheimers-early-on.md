@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/health-wellbeing/smartphone-speech-app-may-spot
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/health-wellbeing/smartphone-speech-app-may-spot-alzheimers-early-on/?amp=true"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Single-cell dissection of Alzheimer's vascular changes across six brain regions"
+    excerpt: "Your brain is powered by 400 miles of blood vessels that provide nutrients, clear out waste products, and form a tight protective barrier—the blood brain barrier—that controls which molecules can enter or exit."
+    publishedDateTime: 2023-06-02T13:52:00Z
+    webUrl: "https://medicalxpress.com/news/2023-06-single-cell-alzheimer-vascular-brain-regions.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-06-single-cell-alzheimer-vascular-brain-regions.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-single-cell-alzheimer-vascular-brain-regions.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 55
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/single-cell-dissection-1.jpg"
+        width: 1748
+        height: 2707
+        isCached: true
   - title: "Alzheimer's App Detects Disease Using Speech Data"
     excerpt: "Researchers have developed a self-administered mobile application that analyzes speech data as an automatic screening tool for the early detection of Alzheimer's disease."
     publishedDateTime: 2023-05-30T08:08:00Z

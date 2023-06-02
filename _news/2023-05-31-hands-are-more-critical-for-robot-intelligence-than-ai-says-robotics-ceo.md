@@ -28,15 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "Japan AI startup launches robot for home use"
-    excerpt: "A Japanese artificial intelligence startup has launched a robot for home use capable of delivering items in response to verbal commands, such as bringing dishes and condiments to the dining room table or books and drinks to the sofa."
-    publishedDateTime: 2023-05-28T21:35:00Z
-    webUrl: "https://japantoday.com/category/tech/japan-ai-startup-launches-robot-for-home-use"
+  - title: "MassRobotics recognizes 2 women for their robotics accomplishments"
+    excerpt: "This inaugural MassRobotics Robotics Medal award was presented to Nancy Amato for her research on the algorithmic foundations of motion planning and more."
+    publishedDateTime: 2023-06-02T14:24:00Z
+    webUrl: "https://www.therobotreport.com/massrobotics-recognizes-2-women-for-their-robotics-accomplishments/"
     type: article
     provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 34
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 84
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2023/06/massrobotics-featured.jpg"
+        width: 770
+        height: 500
+        isCached: true
 
 secured: "+hDlBQ5Ii4zDm3PMa7tosKTS6qf2xBlegxv6L1+9cRRVtNCmdZoO1dC19jCpD/jK7yd/5M09hxQk25Pm/s4Oc7LufAT40jzEF0+vrb4NUy3ru8Q1AgInZO1g8bcQ42tjlgsh499AgAnepdeGge9sZg7nT8O3UO6vfxady9SQQfO6Gt68AWLeZuYBOz+IG+kMxcQUYRkaW60IHwms8ded4imnaJl5dp/8DTiWa6W/tb9gulcBtraz738RYR4i6L1WRfjHIEIfX6jftz4p5bKYeWZXYb+pkYsOJxdUvWxauvrIYnR5q1RmdcqAdKu7EeGthvXrCkF5FEYPbxDTS+y1Y3tqyrH84+gB89H2abbjnsHWg9HG9VIf1Us8QiEvNReQ5eUUn7ZMd2gSa0YSQHreY+vRucOhl3wkBi596g4Vthe1YRln9oR3RNougW6rxDnEx9mrLV7Xg47f7cHp9Gk1+T2DGliJScuTHYgdMt0AxjGceyLgvmeg/yPSqrs2uY6/5Jr84bvIVxreMZr3pahQmA==;wBJ/8nJ9FMQG+xpOPdsMRQ=="
 ---

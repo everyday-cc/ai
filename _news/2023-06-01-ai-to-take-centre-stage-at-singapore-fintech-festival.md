@@ -71,6 +71,15 @@ related:
         width: 624
         height: 416
         isCached: true
+  - title: "Singapore puts AI on the cloud to boost public sector deployment"
+    excerpt: "Dedicated cloud resources running on Google's platform have been carved out to to enable Singapore government agencies to deploy AI applications more efficiently and securely."
+    publishedDateTime: 2023-06-02T13:08:00Z
+    webUrl: "https://www.zdnet.com/article/singapore-puts-ai-on-the-cloud-to-boost-public-sector-deployment/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 51
   - title: "Artificial Intelligence to take centre stage at the Singapore FinTech Festival 2023"
     excerpt: "The Monetary Authority of Singapore (MAS) and Elevandi 1 today announced the theme of the Singapore FinTech Festival (SFF) 2023 – 'Applications of Artificial Intelligence (AI) in Financial Services'."
     publishedDateTime: 2023-05-31T00:00:00Z

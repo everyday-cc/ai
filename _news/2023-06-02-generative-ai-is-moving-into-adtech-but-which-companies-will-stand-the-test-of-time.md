@@ -80,6 +80,20 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "Why banks are chasing fintech partnerships"
+    excerpt: "Traditional banks are keen to partner with fintechs for their knowledge. But what do the digital players get out of the deal?"
+    publishedDateTime: 2023-06-02T15:17:00Z
+    webUrl: "https://www.raconteur.net/growth-strategies/why-banks-are-chasing-fintech-partnerships/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 39
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2023/05/fintech_online_banking_app.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How Fintech Is Revolutionizing Event Payment And Registration"
     excerpt: "Fintech, or financial technology, uses innovative software and digital platforms to deliver financial services to customers. Fintech has been transforming various aspects of the financial industry, such as banking,"
     publishedDateTime: 2023-05-28T23:34:00Z

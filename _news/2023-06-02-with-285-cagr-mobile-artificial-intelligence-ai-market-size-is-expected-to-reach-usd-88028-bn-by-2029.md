@@ -27,7 +27,7 @@ related:
     provider:
       name: tynmagazine.com
       domain: tynmagazine.com
-    quality: 37
+    quality: 39
 
 secured: "Ibm1MPxgSzstDVkmkJTFcGbY75GUqSa5ptcG4La6rLEFvLh6Oli64PZu38798H0aKgJ281kFJKxmzr27KHmy/jtHVt9bXZxreGzg4t6yQ686rOVHuGbd5X+psUwecUI0Z/KuPGYJrgAKJSrrwJ/2R2lriOGmw0gdGh8YZlzViruUzOFWWLpip0+m/xXQ7OMyxR79BqWcXUsjaJrFUcDWRgclWN9U3rZgpiUS8c2mWzdB5hvXQJl6//8Vo+ALVkp5fRIQLYCjKtXLwxOxRdTTEltKMuB+9KDfD6SbEPe+C2ubwHcobdP1w+IRU8AaDlHI+D2JvyaOVY+CUIOKWWFJGI8joSHInyfKMjYyTBgF9WA=;792XXZG3f5qKrzCiFNI0Ig=="
 ---

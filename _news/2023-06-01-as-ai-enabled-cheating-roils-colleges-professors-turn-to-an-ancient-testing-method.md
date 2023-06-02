@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/ai-colleges-cheating-oral-exams-286e0
 webUrl: "https://www.wsj.com/articles/ai-colleges-cheating-oral-exams-286e0091"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Wall Street Journal
@@ -26,22 +26,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Methane-cutting genetics research and disease-preventing AI project among Farming Innovation grant winners"
-    excerpt: "Ground-breaking research that could advance the UK dairy industry’s sustainability and efficiency is being funded through Defra’s Farming Innovation Program."
-    publishedDateTime: 2023-05-31T14:59:00Z
-    webUrl: "https://www.dairyreporter.com/Article/2023/05/31/Methane-cutting-genetics-research-and-disease-preventing-AI-project-among-Farming-Innovation-grant-winners"
-    type: article
-    provider:
-      name: Dairy Reporter
-      domain: dairyreporter.com
-    quality: 21
-    images:
-      - url: "https://www.dairyreporter.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/dairyreporter.com/article/2023/05/31/methane-cutting-genetics-research-and-disease-preventing-ai-project-among-farming-innovation-grant-winners/16456604-1-eng-GB/Methane-cutting-genetics-research-and-disease-preventing-AI-project-among-Farming-Innovation-grant-winners.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "WMSoTvxFesxlyMxWcug/bXYgsmjN1CkZdpdE4zsCbQTBUVc/cghup+aaMOVi05Rs/OHsTTPDFpmz7N2yf6BZ0f2ZF6Ga9Sbl/IEnCRCht7RSNqnmKpEeYo4eFLBu8Vv7MOC8+XZNOJR3WQFAJcFnQ/oKgdrQw1bIednOUW2rLOVkJ9lM8qsevBjy1fUvsJb4JJ4fesh8+Lh+aFwqTojuDmKHQ0drXJkJzt51z/k4Wh5bm9nADun2t5DuJq2fBxdy/W95QgPrK5/mOQajqYyQMjlbvK1a2zRw6VEegKM8RzDWMejdBPFcnMYmxhrHjNIiSHzYRv+BcK2SctsQ4VURKsuFHPagIjM84mk3MZx4RlHhUiqaezi2DTkzvmoRqyg5IN04jkjsIO9zFPWpIF+Wmudnwj5AeHpPfBRaHSs/WeOk3MYl9ai5Q/3pDdP7NusG4iVXoa7LTJjhsP4tBQJCRfgvbmXcNaGpcbk0FKwzsZYOW9HhX+3GRacubn/lwKAsUpw9MI+427iPIb/4c92WfA==;GLj0A6qOqAjtVlDsBr6gOw=="
 ---

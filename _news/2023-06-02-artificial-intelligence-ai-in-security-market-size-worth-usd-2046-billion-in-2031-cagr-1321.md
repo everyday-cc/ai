@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-02T10:36:00Z
 originalUrl: "https://tynmagazine.com/artificial-intelligence-ai-in-security-market-size-worth-usd-20-46-billion-in-2031-cagr-13-21/"
 webUrl: "https://tynmagazine.com/artificial-intelligence-ai-in-security-market-size-worth-usd-20-46-billion-in-2031-cagr-13-21/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Security
+  - AI Ethics
 
 related:
   - title: "With 28.5% CAGR, Mobile Artificial Intelligence (AI) Market Size is Expected to Reach USD 880.28 Bn by 2029"

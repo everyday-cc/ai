@@ -87,6 +87,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "When AI Needs A Human-In-The-Loop"
+    excerpt: "In her role as senior director of product management for SS&C Blue Prism, Kavitha Chennupati is upbeat about automation and sees a specific space for humans-in-the-loop being brought in later on in the AI deployment process. With specific reference to the process of IDP (Intelligent Document Processing) which transcends into content processing."
+    publishedDateTime: 2023-06-02T13:34:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/06/02/when-ai-needs-a-human-in-the-loop/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "AI pioneers claim AI could bring about the extinction of humanity"
     excerpt: "The Centre for AI Safety has published a statement that emphasises the need for implementing appropriate AI risk-reducing controls."
     publishedDateTime: 2023-05-31T07:51:00Z
@@ -115,20 +124,6 @@ related:
         width: 1400
         height: 735
         isCached: true
-  - title: "The Illusion of China’s AI Prowess"
-    excerpt: "It would not serve U.S. interests if a regulatory crackdown crippled the domestic AI industry while Chinese AI companies, unshackled, could flourish. But a closer look at the development of AI in China—especially that of large language models (LLMs),"
-    publishedDateTime: 2023-06-02T04:53:00Z
-    webUrl: "https://www.foreignaffairs.com/china/toner-et-al"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 39
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/05/30/RTX6GAIT_0.jpg?itok=Jn86PW6V"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Max Cooper is using AI to push the frontiers of creativity and communication"
     excerpt: "The acclaimed London-based music producer — known for his ethereal sounds and visually hypnotic live performances — discusses the limits of human language, the future of music, the dangers of unchecked AI research and the mysteries of consciousness."
     publishedDateTime: 2023-05-31T16:14:00Z
@@ -143,6 +138,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "The Illusion of China’s AI Prowess"
+    excerpt: "JENNY XIAO is a venture capitalist investing in AI startups and a Ph.D. candidate at Columbia University. In the abstract, these concerns make sense. It would not serve U.S. interests if a regulatory crackdown crippled the domestic AI industry while Chinese AI companies,"
+    publishedDateTime: 2023-06-02T13:36:00Z
+    webUrl: "https://www.foreignaffairs.com/china/illusion-chinas-ai-prowess-regulation"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 19
 
 secured: "Q81gM2tKBr8y36N1D3VutDuwwgHPCWebp3kL6Quh68HYhFIsnB+fMfHd7MZlpFNTYTok+j8dydChWGt6Kmj6yGUd/5DiPtd5h6jLjImBV4S9m1dQc6ZLtXypU4bzGfVLaGPmHXTP4PTUU44h6nVk4pgl3acBIuANEqnQBJr3rVUuT6owNz2omhAfi+YKwdWRU7J0KZLVJRkAozkdDwSWmLn5/eECsmRiSp23qb3nuwUinuk0Svkh2Lkc5Lm1mi4Pu8mUzBYD59dlLFs4dJbF1l2J9fwFf/JYB+y4M04a5Bfb11hJyg9M7lrwuqcW91L2WFoz/r09H5HDVEs/oT1pQXWaVqZzpAsuGVssy6YV8uM=;RP/cxyzhWXHcM/LQ3aOOwQ=="
 ---

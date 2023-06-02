@@ -9,8 +9,8 @@ ampWebUrl: "https://arstechnica.com/cars/2023/06/the-death-of-self-driving-cars-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/06/the-death-of-self-driving-cars-is-greatly-exaggerated/amp/"
 type: article
 quality: 74
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Ars Technica
@@ -29,6 +29,24 @@ images:
     width: 800
     height: 533
     isCached: true
+
+related:
+  - title: "Fears Of AI Are Greatly Exaggerated"
+    excerpt: "Of course there are the usual worker concerns about wages, but fears have also been expressed of how ChatGPT and like AI applications will replace writers. Apart from Hollywood’s concerns, there are also more widespread job fears."
+    publishedDateTime: 2023-06-02T13:33:00Z
+    webUrl: "https://www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/"
+    ampWebUrl: "https://www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6107edfcfc8e877cae7a6fed/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 789
+        isCached: true
 
 secured: "B0/qlVLzrsxOHgs38/3b6C2YfwfjhVfNkqzcr1w/aczR651DOSiNlXnuodYhKaxyz4mzjKEWl58xafibb7v9XDvsGWiHsBNrSZciOdg0KFl1VLIAIuEs6iYdi5j2xYEbqlOHTzA1Mdn40WpJcF+DWuY24quQra6fsrYF26J1WGDkWyZ5vAIuAAnfpfsNfcwdkk86FNBJm8t4Yd7CMmGkQQ2AmbU7UQxYEftzJRey1F7c+Bo8ZQAfuNCwqKYteGrMWwHUU8VsvNaLlrAu1VRlaedKcSpzG3htMGWElhd1+2HaJapq1O7XjVmXo5U97T9YwEe4bsUGWqbhBKnFNiU0Mz6aI7XCONd9bsPes49IXzvNNsrXZq4hcRkXUnLGKFpzn54ltBOTUygnjdH7fBqnMK5QC8QO3hBhnBezQimBNwbj/l4JXt7TNYhanH/bOAELFM0iq0fX12f8AlImqmVb8m4QWOSdbtGNa0hqUl49mYvhAOwTmtAFFCo/Zjo8Va+p/YOLkcBItTRNcqfXJ8QQHg==;5vCu4W/UIyBmEuq9IgbEKw=="
 ---

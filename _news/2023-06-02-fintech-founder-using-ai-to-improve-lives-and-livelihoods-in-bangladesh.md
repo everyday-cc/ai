@@ -67,6 +67,20 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "Why banks are chasing fintech partnerships"
+    excerpt: "Traditional banks are keen to partner with fintechs for their knowledge. But what do the digital players get out of the deal?"
+    publishedDateTime: 2023-06-02T15:17:00Z
+    webUrl: "https://www.raconteur.net/growth-strategies/why-banks-are-chasing-fintech-partnerships/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 39
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2023/05/fintech_online_banking_app.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Generative AI Is Moving Into Adtech. But Which Companies Will Stand The Test Of Time?"
     excerpt: "Generative AI is bulldozing through every industry possible, including advertising and brand marketing. And VCs have some choices to make."
     publishedDateTime: 2023-06-02T11:00:00Z
@@ -124,6 +138,6 @@ related:
         height: 500
         isCached: true
 
-secured: "cEhINgFVGzlCh0DOPuBHqMS8XsewV/p2DR4JzKkOQrXxlLklT37qopbtZuq7J41XibDCNnJ63UXzalYFf5YmTftdinjJ6Ls+WScQDYfmPLf+p2e1rhQ374EmzigXP962M4qZjxugtBC7pKqTojbc4ClUeVgOwV4ac+uP3TP6Ze40vOZndglKSSsNz0TgtK23zMDE8Wy/Eg1XMxEmVnAEsdH4T7ePHaFH4Hlc6q+TGOd2PUVvHX/rQs7AZpigEL0B87PTkqdjXVNrORQswHM5CtZH95GnmuN/kI5ikMNadQJViz7cM4kHMvs9GCB27MoJ+aVmY0ILfSN/Gazqwk89cGN5OPwZC5OL+OdCkbbzGN4=;Ppi9qCT/codVO9Sfbzg2Mw=="
+secured: "lXNR5PHzyO4StymV0zmcsPRHYUn8ZxlDTaGzaQBEyHuL0itWus3p+Ur5uJe4AonNwrDPiygtYUODrilhhxfRF8ezLZw3TmR8UFPTdonZdBapKXFuEBORTxIawUPFUMimd7eG1/N47qdQXQkW0X21n1gB7hGueMzuT1E2S9DP50cMtmAfxsIsEwhdknVwpa/dGsptomlORgkq3VRjTal3yUmTpz268DTYyKrHpDL9qeWxkLZGyF/ZNYXKsLlkxajFUOnZgEBXyAYhz5UeogglyweI+0TOd769TP49fgzFv+jevO0gvPdAeTtRIfWYf1INeQDowbVtvkS1IjjMXaOmqdu5v5JLCAcNnjS8roYIM1xS3Ow7zTcmrOCiSW2Eu3OI227lBoLSPj2MValHIpp8qopCmQxBoYK6irwjkn4F8n+u27xyp4Zbk0OnxvBB0y2/r1gs8OFWQ6d3fEMi/V9CBvsWl3ElUhbsFzVho4h9ZjynR5eM3d2NgmTMtNkJB52a5hAKrIQhHNq+ax8JCSxrAw==;m8bdypKh8jrxYVwpK72How=="
 ---
 

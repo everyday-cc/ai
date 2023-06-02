@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/chatgpt-non-english-languages-ai-revol
 webUrl: "https://www.wired.com/story/chatgpt-non-english-languages-ai-revolution/"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://i.cbc.ca/1.6845407.1684268021!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/congress-openai-ceo.jpg"
         width: 620
         height: 349
-        isCached: true
-  - title: "Orca AI: Speeding up the evolution of shipping’s digitalisation journey"
-    excerpt: "Artificial Intelligence (AI) is what is powering the new solutions coming to market and what fuels the coming generation of navigation tools that help tackle the challenges the industry is facing – but the real challenge with AI is in “changing mindsets and behaviours”."
-    publishedDateTime: 2023-05-29T06:21:00Z
-    webUrl: "https://splash247.com/orca-ai-speeding-up-the-evolution-of-shippings-digitalisation-journey/"
-    type: article
-    provider:
-      name: Splash 247
-      domain: splash247.com
-    quality: 37
-    images:
-      - url: "https://splash247.com/wp-content/uploads/2023/05/Orca-AI-Yarden-Gross.jpg"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "JA0ddG0UtTOjMkuLPcBtdpdNr7yvgsog1UJWlDDxh1Fby0CRPkddHnSm++uWnGhJCKR+6qZff7Wbuzfc2FVEa/vutzEjkDnYIhRWMqE0JrBYan+s/8ftE09Mis0s7Ab5WCla7HKiXGbrFh1RqTa8U2scL7luQbW0n7NIHFK3xVpfR12a2jvZzsYeyz4NVI0IcQHBVU7lJ9g400NAQcz/NdXtC0Fz4VW1SQPgGfpfV3DXh5RMvRTbhX2Kjum16iriu57BtM9LgJtxdx3X8FjGtRgX+2tld53fMuVZqsPbkN+epCNl5WrlNcflGfZwLYGQcLoATwVQhV8OpsXawJFYczoqVT/da6QfGhFS78tHgcRoanj8QBy+QyhK31LUt+nWCfqmyfenwN2mUAC0tZCdcS0Z6bfsRBToQQP7oqD+ZmWQaXpT+dnQLGjXmQiwW5VkzDiAGCszSMxA5S8ctixuHI1tqIfM04ZVg7Vwm2SptbxX+br1ZImlpXeVDQRH7adRbtPhZmSaCNlAITJW4D/bag==;3v5OmCtE2Qewfu7vPS//Sg=="

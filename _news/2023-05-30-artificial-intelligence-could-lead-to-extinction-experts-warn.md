@@ -155,20 +155,20 @@ related:
         height: 549
         isCached: true
   - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-    excerpt: "The CEO of ChatGPT maker OpenAI and Geoffrey Hinton, a computer scientist known as the godfather of artificial intelligence, were among the hundreds who signed the statement."
-    publishedDateTime: 2023-05-30T13:52:00Z
-    webUrl: "https://www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/"
-    ampWebUrl: "https://www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wbko-com.cdn.ampproject.org/c/s/www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/?outputType=amp"
+    excerpt: "Scientists and tech industry leaders, including high-level executives at Microsoft and Google, issued a new warning Tuesday about the perils that artificial intelligence poses to humankind."
+    publishedDateTime: 2023-05-30T13:28:00Z
+    webUrl: "https://www.wral.com/story/artificial-intelligence-threatens-extinction-experts-say-in-new-warning/20886276/"
+    ampWebUrl: "https://www.wral.com/amp/20886276/"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20886276/"
     type: article
     provider:
-      name: WBKO
-      domain: wbko.com
+      name: WRAL
+      domain: wral.com
     quality: 71
     images:
-      - url: "https://gray-wbko-prod.cdn.arcpublishing.com/resizer/m2_Hb0UKjlNkGm-4CU7nAg9lueY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/CK5GVJIDSNCA5JWCP6IMLZNW4A.jpg"
-        width: 800
-        height: 450
+      - url: "https://wwwcache.wral.com/asset/news/technology/2023/05/30/20886277/6475fa6fa5ee5-media_7dd689f31dad4f5ca5d5ab652dfdfdec-DMID1-5z2v6gjo8-640x480.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "AI Industry Leaders Sign Statement Warning of 'Extinction' Level Risks"
     excerpt: "The statement, signed by OpenAI CEO Sam Altman and DeepMind CEO Demis Hassabis, says mitigating the risks of AI should be a global priority."
@@ -594,6 +594,6 @@ related:
       domain: texasstandard.org
     quality: 0
 
-secured: "71PpnQ6MbeIPobdkMSKoz9xCm6tTK+eZ+VMmlMZWD3KnYhPtB7LC5t6BdjSp/5lOAKqBZYyWk8GGBxejtMbBN1dAOttZXKdU3GNjzX+i/ookKU22fM2Y4QfvovNlEK7HxxN36LC9TPuh+hKCaTuvcSqTup6rTTboOkG9SCBG6JJ1ZVZJhGoK+F68f8lkRhzwb6rcVBgwinnf3bFkFz1cD8J8rwgRYdRsqObr1dI9toKTT12bkevXisyBtTl6vOSg1efJ8+Lqu/v4QmZohDgsygq3ah5RX2TChOhHnkVhzbVUsbltxzwdDUU16m0IHhbFPLd214zJubbJZeVdmAbiBJgPncPgPGKn+Sr/9W9H6+c=;uN1GLfcUhGZ2ueqMiXqd0w=="
+secured: "3jx6GZ1ba488yeFGt3aCgeLxItKA1lZ64W7/+puY9yZnNnIx0x6sRRHAny3pWFU2W46zMsrhZANFeR7PSbYPmsz0ttWmjc6np5+Y0hi1BmxZf3E0LTSs5ew8L1eIdrlbaANIaWN4R4vHxUGmrvK5MHDsWFha58VWQABR8p4MlZpctA89+RNho5FwqK9bi7R93+Yw3VqSnvwOOhpieeV3EDFMre/F8QA49azPUhYXD95BHbYF0e5Iv0hiWsfm3KLnvHMYbMyOiZPnSRQPpav4gDV13E8dUFYQzSKUMCT305RLFCoHN6IY4v2twEJSmdYVuEKzM/lAoyAe0luyTeYOutCVXxFfWPXj/nCx3FHlDW0gvXzxrHEbEhQWNfzewUGQ14ADSz8+aGVVmzPnp0yhbKfokg3KHbLINYNGbTxJpmNqmhEOI1A7Jh/mXmwDJbaQvjPAyCYN8JqOZbmWwdHSM8CMUTJHhQVdOahRcup535L1zWXmL6vvp8D1hhpNFJ/fiG/v79h+RbwXJdN0mumSWg==;qrufhz7xgQjLPZkrqSpR8Q=="
 ---
 

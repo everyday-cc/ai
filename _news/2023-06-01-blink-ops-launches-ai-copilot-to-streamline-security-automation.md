@@ -70,15 +70,6 @@ related:
       name: Kansas City Star
       domain: kansascity.com
     quality: 6
-  - title: "Artificial intelligence innovation: Leading companies in speed profile estimation for the automotive industry"
-    excerpt: "According to GlobalData’s Technology Foresights, which plots the S-curve for the automotive industry using innovation intensity models built on over 619,000 patents, there are 290+ innovation areas that will shape the future of the industry."
-    publishedDateTime: 2023-05-29T12:24:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-speed-profile-estimation-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 0
 
 secured: "MNptGqhr0yN8jy1jI86AYVT0+xUVYQsQcXT3TopVSpkw9BGRPNedwL8LQp7RZfiZ2C8fO3Z4zNETm9HNpiWuEL9TAD+Gj3wvzBwwDSZLDF/HLe8S286Pb53P6ouEEo/bN3sfoe+E0pTbTL3QXy9qQoDZmdtmERsZx5rabkpE2q5o8Aj8uCCkDq//QIizae8yYr8Ezn7mjPSPeDv5F4aNaqlCLxae8cmPj2RAwIEBHLhL79Os6NyGtYjBzSqoUjvANc379KfcF7i4nJvsgk7rmsEU+xUbO0I1rBHGJAFf51Y64aCQBupZqDhEE/eA7rJuQed7YgHu3hmYgc9VNodReIcf4MwvQQODiqwSerqk0Vw=;jjggqNsOavWUujgvPwMhFQ=="
 ---

@@ -26,6 +26,17 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "Woflow Acquires European Startup XtremeAI, Expanding Reach and Bolstering AI Capabilities"
+    excerpt: "The deal brings new customers, valuable team expertise, and advanced AI technology to Woflow's growing data infrastructure platformSAN FRANCISCO,"
+    publishedDateTime: 2023-06-02T14:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/woflow-acquires-european-startup-xtremeai-expanding-reach-and-bolstering-ai-capabilities-1032367504"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+
 secured: "UC2Ib4KFjuvfJLUtrMX6CP7wxZhx69/Nmqe6etjDMK2dfUhXZ08hT/gsky9ID4iUzpMf8xChF2nmFkYrAk6dmZFs7NPWPweinguXyWIOhdAfOvZLp09kuvoKozxqLQDyoxWz1SeV2vkbFWzmGuDYQxI+kzyS5kgiR9sav3qo0jkQR3U1WwoRwtFmcKvHZI5yerRCVdYS/7NH6R0toIEshPTDcCGYM8XOVhA2gq6ewT3MAo+g/lscSnx9RHxFXcbndf6buR3C3iOB1HtpQU4QSCP3KcrIq5BhQrPXS5hPxYuWb1SwZijDLg90mPQWzuAghp/o4fMA5A/jy6/XENHwDTJVgZ/yYJVR07EaCkmp3M9DqfTYdsgrv6mWKdyT26X2pa91MKZ5FJVValmhD8y8d+cyXWGBE0emxTDlvRuNB9NKbUnXSvn/g62VTeVRnEav3x/7BipJ3g2APw8v74R70naMMT7pfgLFppyX4UGbWylnqyVm+4G5+Xr+nijn/Mo80KmXd7mlqi8F0f0pM3LUcA==;JuktpuX62mk8DC7hnejbbw=="
 ---
 

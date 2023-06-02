@@ -140,7 +140,30 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Air Force Now Claims Its Simulated AI Drone DIDN’T Try to Kill Anyone"
+    excerpt: "The senior U.S. Air Force official who said a simulated test with an AI-controlled drone ended with the drone “killing” its human operator is now backtracking. The Royal Aeronautical Society, the host of the conference at which Colonel Tucker “Cinco” Hamilton discussed the incident,"
+    publishedDateTime: 2023-06-02T13:52:00Z
+    webUrl: "https://www.thedailybeast.com/air-force-now-claims-its-simulated-ai-drone-didnt-try-to-kill-anyone"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2916,w_5184,x_0,y_137/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1685716547/2022-09-08T105621Z_1676758531_RC2XCW9HXSAO_RTRMADP_3_SWISS-DEFENCE_whexap"
+        width: 1480
+        height: 833
+        isCached: true
+  - title: "Reports of an AI drone that 'killed' its operator are pure fiction"
+    excerpt: "It has been widely reported that a US Air Force drone went rogue and 'killed' its operator in a simulation, sparking fears of an AI revolution - but this simulation never took place. Why are we so quick to believe AI horror stories?"
+    publishedDateTime: 2023-06-02T12:20:00Z
+    webUrl: "https://www.newscientist.com/article/2376660-reports-of-an-ai-drone-that-killed-its-operator-are-pure-fiction/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 17
 
-secured: "6ZrOCALXGK/nVhZT/ptjg5knX5wzS1zTaxYQavAKtkK9+iKqNDzMCi1M3ZT1szo06kjEsGT342mvuJ+TAda4HPMD0rwfV6z9SNgC/kf8lh5ye3NBDBvKOIzQL3DXwfVQJbULLYQyfU/wVSxPtYVngaYvdAjSFxGUkRv0iTEoko4L7rgnkKocfaHjiE+PbOXexkPRVPOd2QB68rCi/sAi1GGZq19ehK5hmtLmL2+qY2DsydHs6ESPH4p0/PH0O46aodraulq1dR/TBDxJPgF1Y/wQSJUL515Tk+Hio4mf3hKzmq9BDlTuLuS8JNbMNfIrfoWXrGUO0IRJzy1AItR3moPhzBfe3TNw1ZNacw4ne0E=;SyXI5XIzGAF3vZhoEayIgQ=="
+secured: "0QNI43HrHzzMRC21ytz9uJyDH/hpTMfkomRxOvXEDLGT31rrV7z+PhWT4Vc/aRxfwH8BrrVA3FPLIrQ7YLJbM+S9dqJm9CZArrOLWszL3bhS1ohi5RJfEX7mVpZ77foqVjEpaB9EWnc2Jp92BDPd11klUnnWWipbdZ2NuClTlelcw9YFteC5b4YEqFxuq9PioPyp6whYXEjYcj/jcixocnfKaiDT26vMhUoyEEaP1W7koDUUGvv0cjpash0q+2dbDWLBGi1PpMCUq2xhoWFTuLl63GTlbVm6KSCI+XxLkavmnbrtEU9eRHeVULRXJABhOpPIcIY+d9aM50UzS/NQbUzqkfeQzYaBykLFSUuKv/+OxSEfra7n3tF3F1pnWedFwnGgGpt7NA++tLkfaith9qq9wlNd66mk242E5NBTOiQH0gaBUfolzjHU82sGLY3rHz3u6dhDPfyJfpkro/ExUSL8xNYE+x3/MCQGShAd1H3fvSMiqn900BqfjmsoQudjvW0nKcgParY8oVYuxmzGiw==;P45zZgMSZs2WyUvN1AtvtQ=="
 ---
 

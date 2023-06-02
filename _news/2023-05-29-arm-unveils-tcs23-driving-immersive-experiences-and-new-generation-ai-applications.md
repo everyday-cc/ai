@@ -25,20 +25,89 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Now Seeking Generative AI Engineers for AR/VR Applications"
-    excerpt: "Apple is calling on experts with backgrounds in generative AI to work with the company's \"most advanced technologies,\""
-    publishedDateTime: 2023-06-02T11:51:00Z
-    webUrl: "https://www.macrumors.com/2023/06/02/apple-seeking-generative-ai-engineers-for-ar-vr/"
+  - title: "How generative AI can revolutionize customization and user empowerment"
+    excerpt: "It's time to look beyond using generative AI tools for simple outputs and focus on computing capabilities for users and large enterprises."
+    publishedDateTime: 2023-05-28T23:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/"
     type: article
     provider:
-      name: MacRumors
-      domain: macrumors.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=750%2C500&#038;strip=all"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "ApexOne.AI Revolutionizes Business Operations with Advanced Artificial Intelligence Solutions"
+    excerpt: "ApexOne.AI, a leading provider of cutting-edge artificial intelligence (AI) solutions, announces the launch of their groundbreaking platform designed to transform business operations and drive unprece"
+    publishedDateTime: 2023-06-02T01:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/ab32684334/apexone-ai-revolutionizes-business-operations-with-advanced-artificial-intelligence-solutions"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32684334"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32684334"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 63
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "JazzUp AI Revolutionizes Multiple Industries with Customized Artificial Intelligence Solutions"
+    excerpt: "In a remarkable stride towards empowering industries through artificial intelligence (AI), JazzUp AI today unveiled its comprehensive suite of AI solutions. JazzUp AI's innovative productivity solutio"
+    publishedDateTime: 2023-05-31T01:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/ab32640180/jazzup-ai-revolutionizes-multiple-industries-with-customized-artificial-intelligence-solutions"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32640180"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32640180"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 60
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Welcome To EDA 4.0 And The AI-Driven Revolution"
+    excerpt: "Two groups of classic approaches have been proposed to automate translation. One group of approaches is to introduce constrained natural language (CNL ... may be achieved depending on the capability of AI accelerators and the complexity of the ML models."
+    publishedDateTime: 2023-06-01T07:08:00Z
+    webUrl: "https://semiengineering.com/welcome-to-eda-4-0-and-the-ai-driven-revolution/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
     quality: 39
     images:
-      - url: "https://images.macrumors.com/t/X8Mvv4-ay3fM6NWUohr6lbyLJmM=/1600x/article-new/2022/03/hey-siri-banner-apple.jpg"
-        width: 1600
-        height: 840
+      - url: "https://semiengineering.com/wp-content/uploads/Siemens_Welcome-to-EDA-4-fig1-typical-city-of-EDA-4.0-era.jpg?fit=1394%2C705&ssl=1"
+        width: 1394
+        height: 705
         isCached: true
+  - title: "Jacobs and Palantir Expand Partnership to ‘Revolutionize’ AI Solutions Across Industries"
+    excerpt: "The partnership aims to harness Palantir's cutting-edge AI capabilities and revolutionize the commercialization of AI solutions across a range of sectors—including critical infrastructure, advanced facilities,"
+    publishedDateTime: 2023-06-01T22:23:00Z
+    webUrl: "https://dallasinnovates.com/jacobs-and-palantir-expand-partnership-to-revolutionize-ai-solutions-across-industries/"
+    type: article
+    provider:
+      name: Dallas Innovates
+      domain: dallasinnovates.com
+    quality: 30
+    images:
+      - url: "https://s24806.pcdn.co/wp-content/uploads/2023/06/Jacobs_Palantir2-iStock-970.jpg"
+        width: 970
+        height: 464
+        isCached: true
+  - title: "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
+    excerpt: "Automation Anywhere today announced it is working with Amazon Web Services (AWS) to bring intelligent automation and"
+    publishedDateTime: 2023-06-01T16:38:00Z
+    webUrl: "https://www.datanami.com/this-just-in/automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 13
 
 secured: "HZ7OGJfxNm5NnjHsPUOXUhm9/yDTk+tzY3MOv0xySjyANsRv+uVT+mzpkNqMK3hTL3OQ8LO5nALgmETEJvUTSkhwyoX1a0AeGl4W6C4X3fffDGA9n6maPeM4bqFYkG+h0MLtnICwJ7ZWdhI11AJ25XDOyy/yPi+g8jkbODXz/GdJpLGbsyN1d9coDAL/e5xIEl0QtFUqZqaIbaGqBlzTqJlipwmDo7AwY91/Kqhr6/RMz2YsSjKR0fDpzmeNXhdIQEhlakgWPpw7XM15TIlbApRba952OSqJ5/9acUTtqI4J/V8/lPiUcck0rkv/9oZIYbknBlALhNCtnYxfp1vInW2rS+hXQBkN7tDKj7dJddKS+1u2gGa8VUm8b9PpMxgMspyp7sECCD+7Sm6TCudxg8L5KLEDAx2c3Juc0RC0VwjLrj/NLI2+P/0nJ9AbEgwd+xtFJ2J0NDw8EMg8gqRlNp2BJSeOJItd+5xq4uS/xxCwSS+F4MMUYQGzJJQIkJQ7usmc8HYHWBQhBT0mgu8O7w==;25LYN51JTLkKuq7JamnRzg=="
 ---

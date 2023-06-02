@@ -2,7 +2,7 @@
 category: news
 title: "What's new in robots? An AI-powered humanoid machine that writes poems"
 excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
-publishedDateTime: 2023-06-02T03:07:00Z
+publishedDateTime: 2023-06-02T12:59:00Z
 originalUrl: "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
 webUrl: "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
 ampWebUrl: "https://abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
@@ -72,6 +72,6 @@ related:
         height: 683
         isCached: true
 
-secured: "S+0tu1A8oVHmDfGfjGbhfYo8ewqEOBD9X9hNu2jZUpTpKkCJ7/E6fzg4pWe4UlDg9gOgBCWhk75tMJ2iYSMghbjJErw0lkv7dR+bTHMnZ8BDXIb8duLeZQ2pBDL+ZZfPGozjLKaR1EIkO3ROScoV67PuQ2YDXa8xXb7xla6ycHhPHKYtdqs342I+boOYXA2ZObsb0hg9o5I6IMl3/x8WP+PSDHpvEm5tEkRCgJw9oVlU8X+v3jwuRA6Ah9G/E5HYx6IrACXRhp2+bic2Jbn8NiXbKJyaf//9+16wX7dsgrw0YJtecgFryr135FBd1ulpwQ24Mlbe1KoqcH/wo7xEMKzc5eBGUqixBWK+vOQgHAvS1qekPwKkAzjTiqGhqOFXnl3UcszwBM3rre5ZpgiO4kXAB2m/A2PjrUCs/kMM/5qAaoTkj64XHFeiWrjDTuSof5di4AHIkeSQj0Gcw4qwSnALmPeucUv56Gw7Y9CR0sJRxHlkH4lwpouUJZwSdEhMNlwWAu84uDUFDov+qMJNLA==;jVUQwMkgD+W/1QXu8AG2xA=="
+secured: "qYN7hBh50OzjTjBPTSXugq/GxmFFisCEHmHJ5Bh2GXsojVDrsq7MPP6D3f+WwAIfSdpLVW1UMf5Y91Na3uvu56iowQS4lv8UJXkzUuZpZxkCjSrrOBYZBZ8sfRXkOb9V+aKX65TopYqXEK15ExGheVvZJglm/cxgIdKtF5YcG17mO2rz+nbZR8ILY0jqalFQX1C1n8otjj6nIGS1WJBjWFONUAUCSfmip1ENN+/3Ei3wDeofWJWP44kCygkPNnY1muFYt4KMI8WURumPWcvI7QqlooWVEri41ztM4t36d2Z005GlBh5XYDAU33A1XQeqFfxIZto+9Ty/oEnB8KI3bG+UV31w/3x5vyqazvjNrB4=;QCffBuRC1AV0+vruuzT3+g=="
 ---
 

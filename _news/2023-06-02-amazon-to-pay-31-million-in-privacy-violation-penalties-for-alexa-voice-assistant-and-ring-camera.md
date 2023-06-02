@@ -131,6 +131,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon to pay $31 million for Alexa voice assistant and Ring camera privacy violations"
+    excerpt: "Amazon has agreed to pay a $25 million civil penalty to settle Federal Trade Commission allegations it violated a child privacy law and deceived parents by keeping for years kids' voice and location data recorded by its Alexa voice assistant."
+    publishedDateTime: 2023-06-01T11:53:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/ftc-charges-amazon-with-privacy-violations-over-alexa-and-ring-cameras-2/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 0
   - title: "FTC hits Amazon with $25 million fine for violating child privacy with Alexa voice assistant"
     excerpt: "The FTC is ordering Amazon to pay more than $30 million in fines over privacy violations involving Alexa and Ring."
     publishedDateTime: 2023-06-01T13:01:00Z
@@ -150,6 +159,6 @@ related:
       domain: niagara-gazette.com
     quality: 0
 
-secured: "IDFngQ36ivZFZxy+CIghArQwS2iYBURxwFg30qa0ZN49ID8EXh4p4o+FN/N8D16qG8dxLqVm6WgBihHGmx29HC7yOkGaKlTiEYyvMRR5vYIBXo6ZYPDriAwU4N40pm5uCe0zAIFy30IDbK9e7hTRkjaWuoa59HMCSGGQ4StCXaHy1LtwUHi23aQHprq8KViF+CDMEPPEKE+Wtp56Xu2Yt4JhaCXESrqEaUTwjlelPEgqyfpWLQerwe7hSMPoHIYMLFPmg+Gf2sV6JUp2PwiYBZQ6TmNl+I3hEJcLuZDhbnIoJFzgS2uY1JWXMRyd7ZzsMdJrOjnFCLDqHjwPWG6vPdyLVvzxE5XhytIJR/h8KSo=;6Tzw553l8dGKQjfPU1Xh0w=="
+secured: "XR2MGMG1aZoglpwhgl28iY7yAgoKOnoURKrR8qZnptNOM+Rdf7M6OgALJB5NLazfoEwRLQN75lQewrHAkthQUgcXIIVuhB/fC9NJc70eENZKgda8c0OlbvB+P9YDjwGttMXVMj2AXEUZbB+iQYRelYiDQqfkpX/3lCsWFekcjl/7q4DNlj4jLyXItSjUTQ8SokhuRIUBS40/oYZ/z8kBKEzjlDqAkndcPCf4fcZ97GYOeBiEooBnpBQIa+IYOItXVLkU54+6yypwSAlEf23eepv8/Yscy7Apn5PyePzngfU150VvRmELOQY3T3OqVmo6ymdV10Vg4wB6AD2MR1LeB8JcERyu8BHzJL/dO4qE3qvJ5p82YROX0jNIjJWH/X3lEBX3YushqZTrCUZMzk173Anmc+3mpYSCgXknfrhl7vrTSjFSAzjgGpSqAtIsC+F3KUQxQI5HTKxKFyqAhB3af8I0rkJGA5u8KPwfN8tlDJMf2fb3Vwe/mH5+Nru9j2cN3UAtktgmBE7ijrP8r2hCDA==;FX0hMonmOTgMgsOU/wk3IA=="
 ---
 

@@ -27,45 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning helps in global estimation of phytoplankton pigment concentrations"
-    excerpt: "The community structure of phytoplankton can reflect changes in marine environment and help us understand driving factors behind ecological evolution. Quantifying pigment concentration in phytoplankton is crucial for comprehensive assessment of taxonomic classification and community structure."
-    publishedDateTime: 2023-05-30T14:29:00Z
-    webUrl: "https://phys.org/news/2023-05-deep-global-phytoplankton-pigment.html"
-    ampWebUrl: "https://phys.org/news/2023-05-deep-global-phytoplankton-pigment.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-deep-global-phytoplankton-pigment.amp"
+  - title: "Artificial Neural Networks Global Market Report 2023: Sector to Reach $1.3 Billion by 2030 at an 11% CAGR"
+    excerpt: "ResearchAndMarkets.com is the world's leading source for international market research reports and market data. We provide you with the latest data on international and regional markets, key industries, the top companies, new products and the latest trends."
+    publishedDateTime: 2023-05-29T22:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32616857/artificial-neural-networks-global-market-report-2023-sector-to-reach-1-3-billion-by-2030-at-an-11-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32616857"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32616857"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 54
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 42
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/plankton.jpg"
-        width: 1250
-        height: 1250
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Facial recognition helps Indian authorities identify SIM fraudsters"
-    excerpt: "The Department of Telecommunication (DoT) in the states of Bihar and Jharkhand found a total of 21,800 fraudulent SIM cards in April and May."
-    publishedDateTime: 2023-05-30T20:29:00Z
-    webUrl: "https://www.biometricupdate.com/202305/facial-recognition-helps-indian-authorities-identify-sim-fraudsters"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/05/01145840/shutterstock_524074843-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Reinventing Anti-Money Laundering: How Federated Learning Can Power Fund Diversion Detection And GDPR Compliance"
-    excerpt: "By integrating FML into their AML strategies, banks can enhance their ability to detect and prevent illicit activities and contribute to a secure global financial system."
-    publishedDateTime: 2023-05-30T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/30/reinventing-anti-money-laundering-how-federated-learning-can-power-fund-diversion-detection-and-gdpr-compliance/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 13
 
 secured: "r70dYTVVmrQuIqSvuUQ1rmqtnp2J9uEfXfa3/z07gT5alrqN8ETu+zp1V41L7wypyuOwndlHi8fVYl0W0pA9P756UeYS8tufD72GnXi8xlYM+eLfqRrsvHsC6Kkwp2WxVBQc8re0V2HDQLWAKcDeTY3CrgE74lUijK0AantkbbMnwOe7pmldIUJq+OO2Kzc4u7z6iTYg5sHIc3MzC3hg9aEd/IRncuIVgVCWIsO+bngUO2TKzYFtx3z6AWyBnrRw2MIf4P1a3K5hMa/GbJzrRJxJXhcqm6unTzHoz2ic/86TyMFRuv3qfmrCm8lCKzQURUL0vz+62A564VFWercUdqxHJx8FLqaxsdJIORzjIkg=;yyXuAPzCHyPKJnIDXu+CKg=="
 ---

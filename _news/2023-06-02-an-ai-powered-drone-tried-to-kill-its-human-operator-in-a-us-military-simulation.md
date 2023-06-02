@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-powered-drone-tried-killing-its-o
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-powered-drone-tried-killing-its-operator-in-military-simulation-2023-6?amp"
 type: article
 quality: 84
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -141,6 +141,29 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Air Force Now Claims Its Simulated AI Drone DIDN’T Try to Kill Anyone"
+    excerpt: "The senior U.S. Air Force official who said a simulated test with an AI-controlled drone ended with the drone “killing” its human operator is now backtracking. The Royal Aeronautical Society, the host of the conference at which Colonel Tucker “Cinco” Hamilton discussed the incident,"
+    publishedDateTime: 2023-06-02T13:52:00Z
+    webUrl: "https://www.thedailybeast.com/air-force-now-claims-its-simulated-ai-drone-didnt-try-to-kill-anyone"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2916,w_5184,x_0,y_137/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1685716547/2022-09-08T105621Z_1676758531_RC2XCW9HXSAO_RTRMADP_3_SWISS-DEFENCE_whexap"
+        width: 1480
+        height: 833
+        isCached: true
+  - title: "Reports of an AI drone that 'killed' its operator are pure fiction"
+    excerpt: "It has been widely reported that a US Air Force drone went rogue and 'killed' its operator in a simulation, sparking fears of an AI revolution - but this simulation never took place. Why are we so quick to believe AI horror stories?"
+    publishedDateTime: 2023-06-02T12:20:00Z
+    webUrl: "https://www.newscientist.com/article/2376660-reports-of-an-ai-drone-that-killed-its-operator-are-pure-fiction/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 17
 
 secured: "Wzq9XUKS4bVVeU9poCcDg3PKaHUzSULC0m4R/qYgRGlOYjpcpPrPQHEV5/txNUdTQr1KlZgO53qDPDQGpP6qJs5KgQNKqSy2RFf88NZ2mIqqNbNdF4Svdgex/wKmjMG5v788g3nECSGVQB7KNCUMTAFhuW82/ZKy7ehQ8LV57ve5wpdm5PEoaVoQ+qFIJlAI3E9n9/riRTjxf+YW2MVYR7Gg9c3aucSYEBT9IDmmysJmBSoqDQ5Vs8HnDNztggDMMzb3e8qmkzuKrsllfzdtRRetFgCy+I/UAYljAU1TAIMM2nNPeNGL4BRP+CFccxKM3nAnp7uhCa8vmiOqmka+fkusCrmfv5ddbKFtgWDtBCrbjwiBLJH5D7E3ggsuaoP49QUpgiX7r+ROVTxu+l78n94tTNLHzYh5sltqpLWFT2XGXpJgDpRdECBR4e3XAVDsCo7704oFh05Y0z95AIGUysmYacbc9Ab6yIv4QMQy8lD2tMs3I4+xyHmIbKWhTXQaFPSuzYd5MSYUMQCPZIACfQ==;iTNPXTPBr9jo9eqS3v9VLw=="
 ---

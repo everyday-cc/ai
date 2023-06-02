@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-01/broadcom-suffer
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-01/broadcom-suffers-sales-slowdown-even-as-it-points-to-ai-gains"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Buy Broadcom thanks to an undervalued artificial intelligence portfolio, Bank of America says"
+    excerpt: "Bank of America thinks chipmaker Broadcom can thrive in the ongoing artificial intelligence boom. The bank raised its price target on the stock to $950 from $800 and reiterated its buy rating. BofA's new forecast represents more than 20% upside compared to the stock's $789."
+    publishedDateTime: 2023-06-02T09:48:00Z
+    webUrl: "https://www.cnbc.com/2023/06/02/buy-broadcom-thanks-to-an-undervalued-ai-portfolio-bank-of-america-says.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 53
   - title: "Broadcom’s AI Chip Deals Excite Wall Street. It’s About More Than Apple."
     excerpt: "KeyBanc Capital Markets analyst John Vinh raised his price target on the company ahead of its earnings this week."
     publishedDateTime: 2023-05-30T12:30:00Z

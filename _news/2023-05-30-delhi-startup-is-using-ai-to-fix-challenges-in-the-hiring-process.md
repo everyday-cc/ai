@@ -7,7 +7,7 @@ originalUrl: "https://yourstory.com/2023/05/delhi-startup-ai-hiring-employees-tr
 webUrl: "https://yourstory.com/2023/05/delhi-startup-ai-hiring-employees-traqcheck"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,40 @@ images:
     width: 1600
     height: 800
     isCached: true
+
+related:
+  - title: "Will artificial intelligence revolutionize the hiring process?"
+    excerpt: "It seems like everyone is talking about artificial intelligence and all of the ways it will change the way we live and work in the not-too-distant future. One of the ways that businesses are already using AI is in the recruitment and hiring process."
+    publishedDateTime: 2023-06-02T13:18:00Z
+    webUrl: "https://www.nhbr.com/will-artificial-intelligence-revolutionize-the-hiring-process/"
+    type: article
+    provider:
+      name: NH Business Review
+      domain: nhbr.com
+    quality: 39
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.nhbr.com/content/uploads/2023/06/s/c/ai-hiring-process.jpg"
+        width: 2164
+        height: 1385
+        isCached: true
+  - title: "Intel adds AI engine to Meteor Lake processors"
+    excerpt: "Intel is going to add an AI engine to all Intel Meteor Lake processors. This is to facilitate the processing of increasingly present AI workloads, the"
+    publishedDateTime: 2023-05-30T11:56:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/106627/intel-adds-ai-engine-to-meteor-lake-processors/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 19
+  - title: "Intel's 14th Generation Meteor Lake Processors: Emphasizing AI and Energy Efficiency"
+    excerpt: "Intel's 14th generation processors, codenamed Meteor Lake, is set to introduce a focus on AI and energy efficiency. At the Computex 2023 event, Intel revealed details about their upcoming Intel Core"
+    publishedDateTime: 2023-05-30T07:26:00Z
+    webUrl: "https://www.guru3d.com/news-story/intels-14th-generation-meteor-lake-processors-emphasizing-ai-and-energy-efficiency.html"
+    type: article
+    provider:
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 12
 
 secured: "fIrbxlL4f4SBstQArbWhbSgPEzo3mXd8L+Ojs9o1LnoSMcfEvecj+0KegiukmOGm9ECETkbusuVviTxu8rAF74daGHWCWhEL/KCWQVQjUbHQ9797h4SXoAQt0rz1LSZBvgMCCmUH26zyJNtabZr0qsENHuZNtCX8+9O0GwsxX+efX143HdB4SC2VA/S+z7blv2uY72s7MU1GjAoqALL4j9CH23XWhHcKKC5vy+nwScUo4AZkp6H8WgCyYSE/OIjt1xNT9xgwGZJ0X9FfQmt6BzgFOFjJDGzoDnwS0KWgwhzvQ9Z2B62G1nB5NktiBSy+yzDn8Ke0nm9GpCzMRk4Gf7mWMy3H1AMpNnY2+Y4RjqKftFzbREGkgDrPT57g9oXzlJZUgf+PnkVt4Xw9lPfKrtdh09GJ1ioUqz9k2ilZGfC3JLPeLKdPK2qC2RD8rQ6ARLv1is6EvdBH79LH1VSDAjHbAGjLbVpXxTfjPB2eKhtzfI4ZdfhMD4Kx/N8rFKrXGD8dWAGTObe/8avq7XmhMA==;k8L/IjywNv9dvpvCuvdShw=="
 ---

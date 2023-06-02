@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/trondarneundheim/2023/05/31/the-cry-wol
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/trondarneundheim/2023/05/31/the-cry-wolf-moment-of-ai-hype-is-unhelpful/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 563
     isCached: true
+
+related:
+  - title: "The AI Hype Cycle Is Distracting Companies"
+    excerpt: "Machine learning has an “AI” problem. With new breathtaking capabilities from generative AI released every several months — and AI hype escalating at an even higher rate — it’s high time we differentiate most of today’s practical ML projects from those research advances."
+    publishedDateTime: 2023-06-02T12:05:00Z
+    webUrl: "https://hbr.org/2023/06/the-ai-hype-cycle-is-distracting-companies"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
 
 secured: "xEp4/h/vsG81bqocOppWva4EWy3cyabOwVsQidlNC+heznesvTHu7x9bGq5fVx9gQpnMI+aBjJbhCE6RGQhkVkN9Z0UDyL9fPdT/OTzHx7HVs7xoEbgX7EBEF3EKrl7iZ4lzUBbXLWwaUHTYbDzM/e8gyNkmDfFEXQBSm9z0ntNTTbjqrXeT+XczcCNc5fcsxp9BsvvyC5da+ppqQhkv57YJwqnqDuwdyV+WEdZyHwK4VC1dqRW4cCvsDYZ+865h31IaHYc6Wsa7i366Xw9aRvO+8t7QqxuGNLs+V48JeyGVktEjx7xFOfR23wmScVKjyhLP4TN0dmtw8buFfoxAtEAl3YPEBZLhP6Y9QbuC09A=;tOCrEFCEuZ3a1vi2E6fpOg=="
 ---

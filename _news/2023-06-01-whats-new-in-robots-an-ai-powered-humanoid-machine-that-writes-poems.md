@@ -27,7 +27,7 @@ images:
 related:
   - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
     excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
-    publishedDateTime: 2023-06-02T03:07:00Z
+    publishedDateTime: 2023-06-02T12:59:00Z
     webUrl: "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
     ampWebUrl: "https://abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
     cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"

@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Accelerating AI & Innovation: the future of banking depends on core modernization"
+    excerpt: "In the rapidly evolving landscape of financial services, embracing AI and digital innovation at scale has become imperative for banks to stay competitive. With the power of AI and machine learning, financial institutions can leverage predictive analytics, anomaly detection and shared learning models"
+    publishedDateTime: 2023-06-02T15:39:20Z
+    webUrl: "https://www.ibm.com/blog/accelerating-ai-innovation-the-future-of-banking-depends-on-core-modernization/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 114
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/06/Accelerating-AI-Innovation-the-future-of-banking-depends-on-core-modernization-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
   - title: "The Coming AI Revolution In Home Care"
     excerpt: "I believe that future industry leaders in home care can lead the field by leveraging these AI technologies and tools to enhance the home care experience."
     publishedDateTime: 2023-06-02T11:00:00Z
@@ -38,142 +52,210 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How generative AI can revolutionize customization and user empowerment"
-    excerpt: "It's time to look beyond using generative AI tools for simple outputs and focus on computing capabilities for users and large enterprises."
-    publishedDateTime: 2023-05-28T23:10:00Z
-    webUrl: "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/"
+  - title: "AI & IP—Data Protection At The Crossroads Of Innovation And Intellectual Property"
+    excerpt: "From cutting-edge registration techniques to implementing privacy-enhancing technologies, businesses must be creative and forward-thinking in protecting intellectual property in the AI age."
+    publishedDateTime: 2023-05-30T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/30/ai--ip-data-protection-at-the-crossroads-of-innovation-and-intellectual-property/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/30/ai--ip-data-protection-at-the-crossroads-of-innovation-and-intellectual-property/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/30/ai--ip-data-protection-at-the-crossroads-of-innovation-and-intellectual-property/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "AI Bots Are Coming to Finance"
-    excerpt: "Also direct listing lawsuits, SPAC lawsuits, unemployed Harvard MBAs and the CEO of Goldman Sachs is also a DJ."
-    publishedDateTime: 2023-06-01T18:31:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-01/ai-bots-are-coming-to-finance"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
-  - title: "ApexOne.AI Revolutionizes Business Operations with Advanced Artificial Intelligence Solutions"
-    excerpt: "ApexOne.AI, a leading provider of cutting-edge artificial intelligence (AI) solutions, announces the launch of their groundbreaking platform designed to transform business operations and drive unprece"
-    publishedDateTime: 2023-06-02T01:59:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/ab32684334/apexone-ai-revolutionizes-business-operations-with-advanced-artificial-intelligence-solutions"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32684334"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32684334"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 63
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "JazzUp AI Revolutionizes Multiple Industries with Customized Artificial Intelligence Solutions"
-    excerpt: "In a remarkable stride towards empowering industries through artificial intelligence (AI), JazzUp AI today unveiled its comprehensive suite of AI solutions. JazzUp AI's innovative productivity solutio"
-    publishedDateTime: 2023-05-31T01:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/ab32640180/jazzup-ai-revolutionizes-multiple-industries-with-customized-artificial-intelligence-solutions"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32640180"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32640180"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 60
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Revolutionising Skin Treatments with Artificial Intelligence (AI) in homeopathy for the first time in India"
-    excerpt: "Dr. Batra’s® brings the World’s first 5th Generation AI Skin analyser to India"
-    publishedDateTime: 2023-06-01T04:05:00Z
-    webUrl: "https://www.freepressjournal.in/brand-focus/revolutionising-skin-treatments-with-artificial-intelligence-ai-in-homeopathy-for-the-first-time-in-india"
-    ampWebUrl: "https://www.freepressjournal.in/amp/brand-focus/revolutionising-skin-treatments-with-artificial-intelligence-ai-in-homeopathy-for-the-first-time-in-india"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/brand-focus/revolutionising-skin-treatments-with-artificial-intelligence-ai-in-homeopathy-for-the-first-time-in-india"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 56
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2023-06/fbdfefd8-9f0e-493b-ac46-5ba8129e1e50/1_91.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "AI Terminology 101: How Recurrent Neural Networks Are Revolutionising AI"
-    excerpt: "Recurrent Neural Networks (RNNs) are a class of artificial neural networks designed for processing sequential data. Unlike traditional feedforward neural networks, which process inputs independently, RNNs take into account the 'history' of inputs they've ..."
-    publishedDateTime: 2023-05-30T15:05:00Z
-    webUrl: "https://yourstory.com/2023/05/ai-terminology-101-unraveling-recurrent-neural-networks"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 53
-    images:
-      - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Screenshot2023-05-30at7-1685456702994.png?fm=png&auto=format"
-        width: 2130
-        height: 1058
-        isCached: true
-  - title: "Welcome To EDA 4.0 And The AI-Driven Revolution"
-    excerpt: "Two groups of classic approaches have been proposed to automate translation. One group of approaches is to introduce constrained natural language (CNL ... may be achieved depending on the capability of AI accelerators and the complexity of the ML models."
-    publishedDateTime: 2023-06-01T07:08:00Z
-    webUrl: "https://semiengineering.com/welcome-to-eda-4-0-and-the-ai-driven-revolution/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/Siemens_Welcome-to-EDA-4-fig1-typical-city-of-EDA-4.0-era.jpg?fit=1394%2C705&ssl=1"
-        width: 1394
-        height: 705
-        isCached: true
-  - title: "How the Biden administration is trying to regulate bias in health care AI"
-    excerpt: "Artificial intelligence could revolutionize health care. It could also perpetuate and exacerbate generations of racial inequities."
-    publishedDateTime: 2023-06-01T20:21:00Z
-    webUrl: "https://www.wfyi.org/news/articles/how-the-biden-administration-is-trying-to-regulate-bias-in-health-care-ai"
-    type: article
-    provider:
-      name: WFYI
-      domain: wfyi.org
-    quality: 38
-    images:
-      - url: "https://www.wfyi.org/files/wfyi/articles/original/pexels-ivan-samkov-4989167.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61095ac215869a022481acb3/0x0.jpg?format=jpg&crop=3283,1848,x0,y109,safe&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial Intelligence finds a home in the vineyard: A revolution in the world of winemaking."
-    excerpt: "As the designer era crumbles before our eyes, businesses are entirely implementing the capabilities of AI. Leading this revolutionary charge is the winemaking company Land of Basarabia. Its founder has long been a mastermind in such traditionally conservative fields like winemaking and beekeeping."
-    publishedDateTime: 2023-05-29T06:31:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-finds-a-home-in-the-vineyard-a-revolution-in-the-world-of-winemaking/"
+  - title: "How a Jiffy Lube franchisee with 500 locations used machine learning to fine-tune their finance tech transformation"
+    excerpt: "So, the company made the move to modernize how it handles financial workflows with automation and machine learning. “The first thing we ... after more than three decades of service with the company, according to a Securities and Exchange Commission ..."
+    publishedDateTime: 2023-06-02T11:33:00Z
+    webUrl: "https://fortune.com/2023/06/02/jiffy-lube-franchisee-machine-learning-finance-tech-transformation/"
+    ampWebUrl: "https://fortune.com/2023/06/02/jiffy-lube-franchisee-machine-learning-finance-tech-transformation/amp/"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/06/02/jiffy-lube-franchisee-machine-learning-finance-tech-transformation/amp/"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 84
+    images:
+      - url: "https://content.fortune.com/wp-content/uploads/2023/06/GettyImages-1423782273.jpg?w=840"
+        width: 840
+        height: 560
+        isCached: true
+  - title: "AI Acceleration in the Racing Industry"
+    excerpt: "In this article, we’ll explore how AI is reshaping the racing landscape and the top companies to invest in the AI self-driving space – specifically race cars. In contrast to normal road traffic, car racing has no rules,"
+    publishedDateTime: 2023-06-02T12:52:00Z
+    webUrl: "https://www.nasdaq.com/articles/ai-acceleration-in-the-racing-industry"
+    ampWebUrl: "https://www.nasdaq.com/articles/ai-acceleration-in-the-racing-industry?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-acceleration-in-the-racing-industry?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "InnovationRx: The Cost Of Social Care; Plus, AI To Predict Heart Failure"
+    excerpt: "The lead author is Sanjay Basu, a doctor and the cofounder of Waymark Health, a startup whose launch we profiled last year. Waymark is trying to help better coordinate care for patients on Medicaid, the government-funded health insurance for low-income ..."
+    publishedDateTime: 2023-05-31T21:40:00Z
+    webUrl: "https://www.forbes.com/sites/katiejennings/2023/05/31/innovationrx-the-cost-of-social-care-plus-ai-to-predict-heart-failure/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6477be43c167819183bdbfe8/0x0.jpg?format=jpg&width=1200"
+        width: 960
+        height: 720
+        isCached: true
+  - title: "Analyzing artificial intelligence after calls for regulation"
+    excerpt: "Dozens of industry leaders are calling for artificial intelligence regulation, warning it could lead to the threat of extinction."
+    publishedDateTime: 2023-06-01T02:49:00Z
+    webUrl: "https://www.cbsnews.com/detroit/news/analyzing-artificial-intelligence-after-calls-for-regulation/"
+    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/analyzing-artificial-intelligence-after-calls-for-regulation/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/analyzing-artificial-intelligence-after-calls-for-regulation/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 57
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/01/28abd6a7-6cc2-4f13-b9aa-3fc5e852fd83/thumbnail/1200x630/a7541c193cdf5136fedbe7569278ac01/snapshot-44.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Apple is accelerating hiring efforts for generative AI engineers"
+    excerpt: "Apple is again recruiting for Machine Learning engineers for both Apple AR and \"Conversational and Generative AI.\""
+    publishedDateTime: 2023-06-02T11:12:00Z
+    webUrl: "https://appleinsider.com/articles/23/06/02/apple-is-accelerating-hiring-efforts-for-generative-ai-engineers"
+    ampWebUrl: "https://appleinsider.com/articles/23/06/02/apple-is-accelerating-hiring-efforts-for-generative-ai-engineers/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/06/02/apple-is-accelerating-hiring-efforts-for-generative-ai-engineers/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 57
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/54505-110094-Apple-Siri-xl.jpg"
+        width: 1312
+        height: 738
+        isCached: true
+  - title: "Deep learning helps in global estimation of phytoplankton pigment concentrations"
+    excerpt: "The community structure of phytoplankton can reflect changes in marine environment and help us understand driving factors behind ecological evolution. Quantifying pigment concentration in phytoplankton is crucial for comprehensive assessment of taxonomic classification and community structure."
+    publishedDateTime: 2023-05-30T14:29:00Z
+    webUrl: "https://phys.org/news/2023-05-deep-global-phytoplankton-pigment.html"
+    ampWebUrl: "https://phys.org/news/2023-05-deep-global-phytoplankton-pigment.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-deep-global-phytoplankton-pigment.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/plankton.jpg"
+        width: 1250
+        height: 1250
+        isCached: true
+  - title: "CreativAI srl Launches AI Chat Master: An Innovative AI-Powered Chat Assistant App"
+    excerpt: "AI Chat Master, a powerful AI-powered chat assistant app by CreativAI srl, features natural dialogue, question answering, text generation, automatic translation, and more. AI Chat Master revolutionize"
+    publishedDateTime: 2023-05-31T01:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/ab32640081/creativai-srl-launches-ai-chat-master-an-innovative-ai-powered-chat-assistant-app"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32640081"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32640081"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Pioneering the Future of Oncology: AI and Deep Learning in Lung Cancer Detection and Prognosis"
+    excerpt: "In the dynamic realm of radiology, the advent of artificial intelligence (AI) has ushered in a transformative era. Over 300 AI-powered tools have been greenlit by the FDA, marking a significant stride in the field."
+    publishedDateTime: 2023-05-29T06:16:00Z
+    webUrl: "https://techbullion.com/pioneering-the-future-of-oncology-ai-and-deep-learning-in-lung-cancer-detection-and-prognosis/"
     type: article
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 25
+    quality: 42
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/05/img.jpg"
-        width: 1358
-        height: 1282
+      - url: "https://techbullion.com/wp-content/uploads/2023/05/rfsetwet.jpg"
+        width: 560
+        height: 424
         isCached: true
-  - title: "Can artificial intelligence improve cancer care?"
-    excerpt: "The development of artificial intelligence (AI) has evolved substantially since it was founded in the 1950s, rapidly outpacing expectations with capabilities that are already affecting the way we live and work."
-    publishedDateTime: 2023-05-31T22:42:00Z
-    webUrl: "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(23)00240-1/fulltext"
+  - title: "Orca AI: Speeding up the evolution of shipping’s digitalisation journey"
+    excerpt: "Artificial Intelligence (AI) is what is powering the new solutions coming to market and what fuels the coming generation of navigation tools that help tackle the challenges the industry is facing – but the real challenge with AI is in “changing mindsets and behaviours”."
+    publishedDateTime: 2023-05-29T06:21:00Z
+    webUrl: "https://splash247.com/orca-ai-speeding-up-the-evolution-of-shippings-digitalisation-journey/"
     type: article
     provider:
-      name: The Lancet
-      domain: thelancet.com
-    quality: 19
+      name: Splash 247
+      domain: splash247.com
+    quality: 37
+    images:
+      - url: "https://splash247.com/wp-content/uploads/2023/05/Orca-AI-Yarden-Gross.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "XtalPi Announces Collaboration with Lilly, Using AI + Robotics to Uncover First-in-class Therapeutics"
+    excerpt: "XtalPi has established itself as an industry leader in combining mutually informative AI \"dry lab\" algorithms with large-scale \"wet lab\" robotics to empower pharmaceutical innovation. Building upon existing success,"
+    publishedDateTime: 2023-05-30T12:13:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/30/9822516.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+  - title: "Tech leaders call for more AI regulation and 'some degree' of industry coordination"
+    excerpt: "The need for a standardized approach towards innovation in AI is fast becoming an urgent matter. AI is currently causing havoc everywhere from plagiarism issues in academia to winning the World Photography Awards back in April,"
+    publishedDateTime: 2023-06-01T03:35:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202306/01/WS6477fbd4a3107584c3ac356b.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 33
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202306/01/6477fbd4a3107584e594749a.jpeg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "How the Banking Industry Can Capitalise on Conversational AI"
+    excerpt: "Conversational AI has quickly captured the intense interest of consumers and businesses, including banks. The technology promises to help banks achieve hyper-personalised service delivery but requires productive AI platforms."
+    publishedDateTime: 2023-05-31T06:37:00Z
+    webUrl: "https://internationalbanker.com/banking/how-the-banking-industry-can-capitalise-on-conversational-ai/"
+    type: article
+    provider:
+      name: International Banker
+      domain: internationalbanker.com
+    quality: 21
+  - title: "Methane-cutting genetics research and disease-preventing AI project among Farming Innovation grant winners"
+    excerpt: "Ground-breaking research that could advance the UK dairy industry’s sustainability and efficiency is being funded through Defra’s Farming Innovation Program."
+    publishedDateTime: 2023-05-31T14:59:00Z
+    webUrl: "https://www.dairyreporter.com/Article/2023/05/31/Methane-cutting-genetics-research-and-disease-preventing-AI-project-among-Farming-Innovation-grant-winners"
+    type: article
+    provider:
+      name: Dairy Reporter
+      domain: dairyreporter.com
+    quality: 21
+    images:
+      - url: "https://www.dairyreporter.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/dairyreporter.com/article/2023/05/31/methane-cutting-genetics-research-and-disease-preventing-ai-project-among-farming-innovation-grant-winners/16456604-1-eng-GB/Methane-cutting-genetics-research-and-disease-preventing-AI-project-among-Farming-Innovation-grant-winners.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Artificial intelligence innovation: Leading companies in speed profile estimation for the automotive industry"
+    excerpt: "According to GlobalData’s Technology Foresights, which plots the S-curve for the automotive industry using innovation intensity models built on over 619,000 patents, there are 290+ innovation areas that will shape the future of the industry."
+    publishedDateTime: 2023-05-29T12:24:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-speed-profile-estimation-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 0
 
 secured: "DRxh9MLnbCnMymC0D3Sc2Pd8vf9wofuob43P4FPfjC0HQv/9y0yu5ouMmdSkXldQQkH+Ik3ooZz8v0zW6W09mbCikJvvf2PZY8SGWEmkbCg1wJeLU/b53fkWj+2qN5/UFXzTPSKKdY/VZbxOfhKSwlSoqFm9HRArJKgCJKdvJZqDsHxGj/ZSUeJAeDkoOFyksMwiT1kcOv73e8XgDWLXNLjlAFSqRV0pFMHXrMv2kmSbSbe4ro11tamymh+xh9k4oI1gzGwb4e3eWsXxCRX4GVzXbIjmmv1rZIIjgtTuB2t/66YSKWJUnmg3qo2fMxe4eJQmGovTum9MHZ5JKgDiJ9bm8iyK4ebtdxP3Wkn5KncrHJM8jPTpsEct9dhb8mIclQ+m9rxQ5RJjrINzhtrOEZtYY0Gt+ub67loSJgDx0BfEfiUKrPPfbu4LfB8Rq0QnUlfXzi2kfipOY7jDbOvHFwYA/FqMTfezTsQngT3DKmbdtygwPZtkPeFmwWZRIMGzkHI+GBo/enJA31q1cjfrHg==;c2ygAyPWY3hqpAT1vjawcw=="
 ---

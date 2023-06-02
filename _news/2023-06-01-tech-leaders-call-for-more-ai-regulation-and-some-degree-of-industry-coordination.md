@@ -25,101 +25,235 @@ images:
     isCached: true
 
 related:
-  - title: "Australia lagging behind on AI regulation"
-    excerpt: "Australia is at risk of falling behind when it comes to artificial intelligence (AI) regulation as its uses become more apparent every day and major economic blocs start carving out dedicated laws to govern the powerful technology."
-    publishedDateTime: 2023-05-30T00:46:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/australia-lagging-behind-on-ai-regulation.html"
+  - title: "Accelerating AI & Innovation: the future of banking depends on core modernization"
+    excerpt: "In the rapidly evolving landscape of financial services, embracing AI and digital innovation at scale has become imperative for banks to stay competitive. With the power of AI and machine learning, financial institutions can leverage predictive analytics, anomaly detection and shared learning models"
+    publishedDateTime: 2023-06-02T15:39:20Z
+    webUrl: "https://www.ibm.com/blog/accelerating-ai-innovation-the-future-of-banking-depends-on-core-modernization/"
     type: article
     provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
+      name: IBM
+      domain: ibm.com
+    quality: 114
     images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/ai-regulation-blocks.jpg"
-        width: 691
-        height: 389
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/06/Accelerating-AI-Innovation-the-future-of-banking-depends-on-core-modernization-scaled.jpg"
+        width: 2560
+        height: 1280
         isCached: true
-  - title: "Attorney general urges Australians not to lose sight of principles of Indigenous recognition"
-    excerpt: "The Liberal party amplifies its opposition to the voice to parliament, as government brands opponents ‘a muddle’"
-    publishedDateTime: 2023-05-31T07:42:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/may/31/attorney-general-urges-australians-not-to-lose-sight-of-principles-of-indigenous-recognition"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/may/31/attorney-general-urges-australians-not-to-lose-sight-of-principles-of-indigenous-recognition"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/may/31/attorney-general-urges-australians-not-to-lose-sight-of-principles-of-indigenous-recognition"
+  - title: "The Coming AI Revolution In Home Care"
+    excerpt: "I believe that future industry leaders in home care can lead the field by leveraging these AI technologies and tools to enhance the home care experience."
+    publishedDateTime: 2023-06-02T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/02/the-coming-ai-revolution-in-home-care/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/02/the-coming-ai-revolution-in-home-care/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/02/the-coming-ai-revolution-in-home-care/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 33
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://i.guim.co.uk/img/media/37550566f3d36b76f9e657c24d902ad620cddd7e/0_275_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=640f54b5ed37a875fd07df114ef1ad3e"
-        width: 620
-        height: 372
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6478b2a540837295a30e1090/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "The right-wing origins of Australia’s indigenous Voice"
-    excerpt: "A book by two central advocates of the Labor government’s Voice scheme shows that, far from being a grassroots movement, it originated as a bid to head off anger and disaffection among ordinary indigenous people."
-    publishedDateTime: 2023-05-31T04:32:00Z
-    webUrl: "https://www.wsws.org/en/articles/2023/05/31/aaux-m31.html"
+  - title: "AI & IP—Data Protection At The Crossroads Of Innovation And Intellectual Property"
+    excerpt: "From cutting-edge registration techniques to implementing privacy-enhancing technologies, businesses must be creative and forward-thinking in protecting intellectual property in the AI age."
+    publishedDateTime: 2023-05-30T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/30/ai--ip-data-protection-at-the-crossroads-of-innovation-and-intellectual-property/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/30/ai--ip-data-protection-at-the-crossroads-of-innovation-and-intellectual-property/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/30/ai--ip-data-protection-at-the-crossroads-of-innovation-and-intellectual-property/amp/"
     type: article
     provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 24
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://www.wsws.org/asset/b02d378e-e0ac-4c3f-8a8b-67978884312d?rendition=1600x900"
-        width: 1600
-        height: 900
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61095ac215869a022481acb3/0x0.jpg?format=jpg&crop=3283,1848,x0,y109,safe&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Young Australians could make voice referendum a success"
-    excerpt: "Young Australians are expected to be key to the Indigenous voice referendum succeeding. Cabinet minister Don Farrell told the National Press ClubÂ voters aged over 55 tended to oppose the voice, while Australians under 35 overwhelmingly backed it."
-    publishedDateTime: 2023-06-01T05:37:00Z
-    webUrl: "https://www.corowafreepress.com.au/national/young-australians-could-make-voice-referendum-a-success/"
+  - title: "How a Jiffy Lube franchisee with 500 locations used machine learning to fine-tune their finance tech transformation"
+    excerpt: "So, the company made the move to modernize how it handles financial workflows with automation and machine learning. “The first thing we ... after more than three decades of service with the company, according to a Securities and Exchange Commission ..."
+    publishedDateTime: 2023-06-02T11:33:00Z
+    webUrl: "https://fortune.com/2023/06/02/jiffy-lube-franchisee-machine-learning-finance-tech-transformation/"
+    ampWebUrl: "https://fortune.com/2023/06/02/jiffy-lube-franchisee-machine-learning-finance-tech-transformation/amp/"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/06/02/jiffy-lube-franchisee-machine-learning-finance-tech-transformation/amp/"
     type: article
     provider:
-      name: corowafreepress
-      domain: corowafreepress.com.au
-    quality: 24
+      name: Fortune
+      domain: fortune.com
+    quality: 84
     images:
-      - url: "https://imengine.public.prod.mmg.navigacloud.com?uuid=cfb4c592-f9cc-5811-8fbc-622940b7257d&function=original&type=preview"
-        width: 800
+      - url: "https://content.fortune.com/wp-content/uploads/2023/06/GettyImages-1423782273.jpg?w=840"
+        width: 840
+        height: 560
+        isCached: true
+  - title: "AI Acceleration in the Racing Industry"
+    excerpt: "In this article, we’ll explore how AI is reshaping the racing landscape and the top companies to invest in the AI self-driving space – specifically race cars. In contrast to normal road traffic, car racing has no rules,"
+    publishedDateTime: 2023-06-02T12:52:00Z
+    webUrl: "https://www.nasdaq.com/articles/ai-acceleration-in-the-racing-industry"
+    ampWebUrl: "https://www.nasdaq.com/articles/ai-acceleration-in-the-racing-industry?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-acceleration-in-the-racing-industry?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "InnovationRx: The Cost Of Social Care; Plus, AI To Predict Heart Failure"
+    excerpt: "The lead author is Sanjay Basu, a doctor and the cofounder of Waymark Health, a startup whose launch we profiled last year. Waymark is trying to help better coordinate care for patients on Medicaid, the government-funded health insurance for low-income ..."
+    publishedDateTime: 2023-05-31T21:40:00Z
+    webUrl: "https://www.forbes.com/sites/katiejennings/2023/05/31/innovationrx-the-cost-of-social-care-plus-ai-to-predict-heart-failure/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6477be43c167819183bdbfe8/0x0.jpg?format=jpg&width=1200"
+        width: 960
+        height: 720
+        isCached: true
+  - title: "Analyzing artificial intelligence after calls for regulation"
+    excerpt: "Dozens of industry leaders are calling for artificial intelligence regulation, warning it could lead to the threat of extinction."
+    publishedDateTime: 2023-06-01T02:49:00Z
+    webUrl: "https://www.cbsnews.com/detroit/news/analyzing-artificial-intelligence-after-calls-for-regulation/"
+    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/analyzing-artificial-intelligence-after-calls-for-regulation/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/analyzing-artificial-intelligence-after-calls-for-regulation/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 57
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/01/28abd6a7-6cc2-4f13-b9aa-3fc5e852fd83/thumbnail/1200x630/a7541c193cdf5136fedbe7569278ac01/snapshot-44.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Apple is accelerating hiring efforts for generative AI engineers"
+    excerpt: "Apple is again recruiting for Machine Learning engineers for both Apple AR and \"Conversational and Generative AI.\""
+    publishedDateTime: 2023-06-02T11:12:00Z
+    webUrl: "https://appleinsider.com/articles/23/06/02/apple-is-accelerating-hiring-efforts-for-generative-ai-engineers"
+    ampWebUrl: "https://appleinsider.com/articles/23/06/02/apple-is-accelerating-hiring-efforts-for-generative-ai-engineers/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/06/02/apple-is-accelerating-hiring-efforts-for-generative-ai-engineers/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 57
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/54505-110094-Apple-Siri-xl.jpg"
+        width: 1312
+        height: 738
+        isCached: true
+  - title: "Deep learning helps in global estimation of phytoplankton pigment concentrations"
+    excerpt: "The community structure of phytoplankton can reflect changes in marine environment and help us understand driving factors behind ecological evolution. Quantifying pigment concentration in phytoplankton is crucial for comprehensive assessment of taxonomic classification and community structure."
+    publishedDateTime: 2023-05-30T14:29:00Z
+    webUrl: "https://phys.org/news/2023-05-deep-global-phytoplankton-pigment.html"
+    ampWebUrl: "https://phys.org/news/2023-05-deep-global-phytoplankton-pigment.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-deep-global-phytoplankton-pigment.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 54
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/plankton.jpg"
+        width: 1250
+        height: 1250
+        isCached: true
+  - title: "CreativAI srl Launches AI Chat Master: An Innovative AI-Powered Chat Assistant App"
+    excerpt: "AI Chat Master, a powerful AI-powered chat assistant app by CreativAI srl, features natural dialogue, question answering, text generation, automatic translation, and more. AI Chat Master revolutionize"
+    publishedDateTime: 2023-05-31T01:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/ab32640081/creativai-srl-launches-ai-chat-master-an-innovative-ai-powered-chat-assistant-app"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32640081"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32640081"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Pioneering the Future of Oncology: AI and Deep Learning in Lung Cancer Detection and Prognosis"
+    excerpt: "In the dynamic realm of radiology, the advent of artificial intelligence (AI) has ushered in a transformative era. Over 300 AI-powered tools have been greenlit by the FDA, marking a significant stride in the field."
+    publishedDateTime: 2023-05-29T06:16:00Z
+    webUrl: "https://techbullion.com/pioneering-the-future-of-oncology-ai-and-deep-learning-in-lung-cancer-detection-and-prognosis/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 42
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/05/rfsetwet.jpg"
+        width: 560
+        height: 424
+        isCached: true
+  - title: "Notion Projects Aims To Revolutionize Workplace Collaboration, With The Help Of AI"
+    excerpt: "Notion hopes that AI can help cut down on the fragmentation within this space with its new product, Notion Projects"
+    publishedDateTime: 2023-05-31T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/05/31/notion-projects-shows-how-ai-can-revolutionize-workplace-collaboration/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 41
+  - title: "Orca AI: Speeding up the evolution of shipping’s digitalisation journey"
+    excerpt: "Artificial Intelligence (AI) is what is powering the new solutions coming to market and what fuels the coming generation of navigation tools that help tackle the challenges the industry is facing – but the real challenge with AI is in “changing mindsets and behaviours”."
+    publishedDateTime: 2023-05-29T06:21:00Z
+    webUrl: "https://splash247.com/orca-ai-speeding-up-the-evolution-of-shippings-digitalisation-journey/"
+    type: article
+    provider:
+      name: Splash 247
+      domain: splash247.com
+    quality: 37
+    images:
+      - url: "https://splash247.com/wp-content/uploads/2023/05/Orca-AI-Yarden-Gross.jpg"
+        width: 1000
         height: 600
         isCached: true
-  - title: "Dreaming of a brighter future, Voice advocates call for Australia’s healing"
-    excerpt: "Linda Burney has told an audience in Canberra the story of Australia is incomplete, starting with what the constitution does not acknowledge."
-    publishedDateTime: 2023-05-31T00:21:00Z
-    webUrl: "https://www.themandarin.com.au/221588-dreaming-of-a-brighter-future-voice-advocates-call-for-australias-healing/"
+  - title: "XtalPi Announces Collaboration with Lilly, Using AI + Robotics to Uncover First-in-class Therapeutics"
+    excerpt: "XtalPi has established itself as an industry leader in combining mutually informative AI \"dry lab\" algorithms with large-scale \"wet lab\" robotics to empower pharmaceutical innovation. Building upon existing success,"
+    publishedDateTime: 2023-05-30T12:13:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/30/9822516.htm"
     type: article
     provider:
-      name: The Mandarin
-      domain: themandarin.com.au
-    quality: 22
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+  - title: "How the Banking Industry Can Capitalise on Conversational AI"
+    excerpt: "Conversational AI has quickly captured the intense interest of consumers and businesses, including banks. The technology promises to help banks achieve hyper-personalised service delivery but requires productive AI platforms."
+    publishedDateTime: 2023-05-31T06:37:00Z
+    webUrl: "https://internationalbanker.com/banking/how-the-banking-industry-can-capitalise-on-conversational-ai/"
+    type: article
+    provider:
+      name: International Banker
+      domain: internationalbanker.com
+    quality: 21
+  - title: "Methane-cutting genetics research and disease-preventing AI project among Farming Innovation grant winners"
+    excerpt: "Ground-breaking research that could advance the UK dairy industry’s sustainability and efficiency is being funded through Defra’s Farming Innovation Program."
+    publishedDateTime: 2023-05-31T14:59:00Z
+    webUrl: "https://www.dairyreporter.com/Article/2023/05/31/Methane-cutting-genetics-research-and-disease-preventing-AI-project-among-Farming-Innovation-grant-winners"
+    type: article
+    provider:
+      name: Dairy Reporter
+      domain: dairyreporter.com
+    quality: 21
     images:
-      - url: "https://www.themandarin.com.au/wp-content/uploads/2023/05/Alicia-Payne.png"
-        width: 1590
-        height: 1060
+      - url: "https://www.dairyreporter.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/dairyreporter.com/article/2023/05/31/methane-cutting-genetics-research-and-disease-preventing-ai-project-among-farming-innovation-grant-winners/16456604-1-eng-GB/Methane-cutting-genetics-research-and-disease-preventing-AI-project-among-Farming-Innovation-grant-winners.jpg"
+        width: 750
+        height: 500
         isCached: true
-  - title: "Australian fruit-picking robot could help ease labor shortages"
-    excerpt: "Australian startup Ripe Robotics is spiking the industry’s interest with its newly launched fruit-picking robot, Eve"
-    publishedDateTime: 2023-05-31T13:03:00Z
-    webUrl: "https://www.freshfruitportal.com/news/2023/05/31/australian-fruit-picking-robot-could-help-ease-labor-shortages/"
+  - title: "Artificial intelligence innovation: Leading companies in speed profile estimation for the automotive industry"
+    excerpt: "According to GlobalData’s Technology Foresights, which plots the S-curve for the automotive industry using innovation intensity models built on over 619,000 patents, there are 290+ innovation areas that will shape the future of the industry."
+    publishedDateTime: 2023-05-29T12:24:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-speed-profile-estimation-automotive/"
     type: article
     provider:
-      name: Fresh Fruit Portal
-      domain: freshfruitportal.com
-    quality: 19
-  - title: "Far from undermining democracy, The Voice will pluralise and enrich Australia’s democratic conversation"
-    excerpt: "We need a richer account of democracy within which to locate the Voice, to lift the quality of public debate about it."
-    publishedDateTime: 2023-05-28T20:06:00Z
-    webUrl: "https://theconversation.com/far-from-undermining-democracy-the-voice-will-pluralise-and-enrich-australias-democratic-conversation-205384"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 8
-    images:
-      - url: "https://images.theconversation.com/files/527618/original/file-20230523-23-trurlw.jpg?ixlib=rb-1.1.0&rect=14%2C322%2C4879%2C2436&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
+      name: Just Auto
+      domain: just-auto.com
+    quality: 0
 
 secured: "G7vm2ApcSLZEgoQddxkjDxGiX8WZQRMwf09cZqHEzx6W4Un6/R0E96G2ZjV6PZ+ujdvFURx3ThwK9cHFNCNj8hzkv1QGp7XNDGrBSpl440NyYP/F/GVIUHAwjf3XX50x7ObAWwRjIwiJUfF3tKlR684xkf94afPairy/eFNsbp2xwKZGPB4ILzLENUsvA8spwtCCvXUbS40Ib+ag27mZJgoRZflr+CkywgpvmSGOTiIqWBUMXsdEmpkz44ImcAvfvmaPOvDEQ9Ad1ADkMejVUplCr28MDmmCnEmvDtBOB+4/FaOo1qRKSSEQQvsm+U1s3T6OY8pdr2dKkKwvcUB3cLnASlNS4PYZb0KwxxDnxDT7zLz/PYlS3JdygFCHy002QEyVOM16aSXMiRMaNyyD6o7R6XUUUgC23O/aNSX0kf/JadicLcsqVTghvW7YuRWbQSWCSOStoxn0y6Em02nap8cPFUxy/GaMa2h+hukycXpiETSf0kYTj6yrpissym7QSDUFYNjr12qhOYmfj8ewyA==;HlmvSY5t1M5CBcn1TSQc1Q=="
 ---

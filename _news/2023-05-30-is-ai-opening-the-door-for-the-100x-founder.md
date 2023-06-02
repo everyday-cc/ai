@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/starting-a-business/is-ai-opening-the
 webUrl: "https://www.entrepreneur.com/starting-a-business/is-ai-opening-the-door-for-the-100x-founder/450149"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Entrepreneur
@@ -26,6 +26,17 @@ images:
     width: 2000
     height: 1333
     isCached: true
+
+related:
+  - title: "The Instagram Founders’ New News App Is Actually an AI Play"
+    excerpt: "Artifact offers a personalized feed of news and can also translate clickbait headlines using AI. Kevin Systrom says that’s only the beginning."
+    publishedDateTime: 2023-06-02T13:00:00Z
+    webUrl: "https://www.wired.com/story/plaintext-instagram-founders-artifact-news-app-ai/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
 
 secured: "6N8ANVq8Ja48Sz5ROjAqLefK/ZeQQiZMnW1Az6uEA8kXz8MJ0G5RQjVl0SxXp0FYO+kCSsc3HTs0Vg155n6kCqdREP2t7KAA/ORHpyTmnw0YuJ8uF7NlVXFas3Y/PnSecu42e2CSgmj3dvsPU7Q/loyldk0WVIAInGhvzuWqx2+vW1s5TNPKrGviitp0APck5+kVEoKASib6GNQ8S/VM7IKYGSudF+rnf6vgWBHuJQsLCaJLFtrOiiw2PzbKQ01l312X4OVEEsy4ef4C+PYTiZeXR1Isp0geekhGScPtwJO57XqrLhj/5Q4T8TJL/vg12fTPAicbaj/JEsijh2bzeJHurHjgV2eUiU3PF/4ZCHQ=;qnhDxOiCd0FCJFzMOOP0CA=="
 ---

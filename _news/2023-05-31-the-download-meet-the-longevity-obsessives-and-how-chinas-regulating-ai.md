@@ -7,7 +7,7 @@ originalUrl: "https://www.technologyreview.com/2023/05/31/1073768/the-download-m
 webUrl: "https://www.technologyreview.com/2023/05/31/1073768/the-download-meet-the-longevity-obsessives-and-how-chinas-regulating-ai/"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "The Download: AI films, and the threat of microplastics"
+    excerpt: "The short answer is: we don’t really know. But scientists have begun to build a picture of their potential effects from early studies in animals and clumps of cells, and new research suggests that they could affect not only the health of our body tissues, but our immune systems more generally. Read the full story."
+    publishedDateTime: 2023-06-02T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2023/06/02/1073883/the-download-ai-films-and-the-threat-of-microplastics/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "ScgK0Tl1xhayLVtcimm95bU6JlhzGhxs6ebwI3D8f7P+fmi7FkZpdEbUS9MSQb14peXxUFdvJU7JiM4Fuujgz8WpNRY82pNirGr/R2Rslt3cbsa7mG1zwVZ7dY4Ghr3YwcSBk3IuCa/RP7opNLc7vanq6eSh1zNPmAMfCkveUiGKtSzJivWZ/L4nZYO9R29gGk6T+qxciOkegy8PxCgDgm3WbFv4CxYbTxYpPSvO4X7AoazaHRZ/lAGzCcZDWJIbN/5G/PyvxTD2cbAC49MAPUsY/RwjFr5dELgSeg2ccHmVfR26C7gTZK0CWPKHvxH1Sv+lvOCylZTnTEfXjITzBJslEfXpWA8B9swC8QKxx04zz+q6xJRi3inYSJClGEpEwARX4+IGZBODiOXeT4BAqcuXT5TeGEppzf4yTzeZj9Rj7OGalHRsNfznW78i9bMfK2HQbYTZi5j5hNR2PCE/4+GVwBYHBEVWRNFUTk29CIyTHYM9NtG1KsnXqeh+/cKlDHUE8DHG+E93MJlGf7UqRg==;whf8D3jRj1f5ny5XUy8Ejw=="
 ---

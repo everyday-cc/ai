@@ -6,9 +6,9 @@ publishedDateTime: 2023-06-01T03:46:00Z
 originalUrl: "https://www.reuters.com/technology/china-ai-startup-minimax-raising-over-250-mln-tencent-backed-entity-others-2023-06-01/"
 webUrl: "https://www.reuters.com/technology/china-ai-startup-minimax-raising-over-250-mln-tencent-backed-entity-others-2023-06-01/"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 57
+heat: 97
+published: true
 
 provider:
   name: Reuters
@@ -20,6 +20,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/zbM4LKzDJ8HMsa46MNnK7MqdDPI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34BX3KHMXBPTPP4KRTJSDCN4AA.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "China AI startup MiniMax raising over $250 million from Tencent-backed entity, others: Report"
@@ -76,6 +82,6 @@ related:
         height: 676
         isCached: true
 
-secured: "mCd/qiZNcYmMFpGVrBtrvx4kBxHhAFFEy9JAco+GxzVs56QCMFeeabeidZv1IUwVpsvPg8z37RZ4qJScTVM/I52m37+aOV0fXx8BWrEj4Gz4hIt5STst59k6AraAK5hNCHI90PQIAA7JQ/XaWqObnfx/aGRBjhEtMS4yJoTzolz5nU4ah26Ox7WgN33IqK4EtsLlTtFiPGAR9FjshGSsmPKLUOPHR2qY8Nrh/b6Bmx6TdEKE6q0apZyJtaAUIhPIMSEwrq4JG6dYKTwBRhce8M2I3/Qvg1YVV/h8kSqzKb8+lkH2AeQ8XbnC7JLzRMlO9X8o2OzbyFko8Vp/MehhQpBYu92mNzq8/dFAdvz9LUU=;BZexjWLrghuvpwU50qykPA=="
+secured: "2GztYJl+k86X3H4zUwy5vfKzoAX4Fbh3O6ewF8BLHbh7ge4PkFDs/u7ED30/2rExaVQROSdQ9ApqH/xHozcSOFn+mwIOKJxAh228m36kCGwjwzsvfh6f4CfGKNKYkAMvT0zPUn86a8dqZgQTVdFnc3uVq+vN6A/63BFJR5ofqX2knKeVLH00vpyBehY5GoDsNat8vmAlj0IrN3em/S5a6Ie5jDpnD+A7VaLPle1uGZ594P8aZJCEe07T7O6htQQB6/mr69OZsGka2w6KkWKP79sk6W0SkuwpAp8lPw9MZg5N9PpsHeq4BNtKD0ZP9YOCiZZ8PGV5ZdCRsfv/yFaVz4vl1psSZ9ssnsAtCr3rGyE=;XJU8FiRR92pTg2lzvNshdA=="
 ---
 

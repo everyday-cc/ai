@@ -23,68 +23,15 @@ topics:
   - AI in Finance
 
 related:
-  - title: "The Coming AI Revolution In Home Care"
-    excerpt: "I believe that future industry leaders in home care can lead the field by leveraging these AI technologies and tools to enhance the home care experience."
-    publishedDateTime: 2023-06-02T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/02/the-coming-ai-revolution-in-home-care/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/02/the-coming-ai-revolution-in-home-care/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/02/the-coming-ai-revolution-in-home-care/amp/"
+  - title: "Artificial Intelligence (AI) in Finance"
+    excerpt: "Artificial intelligence is poised to reshape the finance industry, yet finance companies face numerous concerns about this emerging technology."
+    publishedDateTime: 2023-06-01T18:33:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/artificial-intelligence-finance/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6478b2a540837295a30e1090/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How generative AI can revolutionize customization and user empowerment"
-    excerpt: "It's time to look beyond using generative AI tools for simple outputs and focus on computing capabilities for users and large enterprises."
-    publishedDateTime: 2023-05-28T23:10:00Z
-    webUrl: "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "ApexOne.AI Revolutionizes Business Operations with Advanced Artificial Intelligence Solutions"
-    excerpt: "ApexOne.AI, a leading provider of cutting-edge artificial intelligence (AI) solutions, announces the launch of their groundbreaking platform designed to transform business operations and drive unprece"
-    publishedDateTime: 2023-06-02T01:59:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/ab32684334/apexone-ai-revolutionizes-business-operations-with-advanced-artificial-intelligence-solutions"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32684334"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32684334"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 63
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "JazzUp AI Revolutionizes Multiple Industries with Customized Artificial Intelligence Solutions"
-    excerpt: "In a remarkable stride towards empowering industries through artificial intelligence (AI), JazzUp AI today unveiled its comprehensive suite of AI solutions. JazzUp AI's innovative productivity solutio"
-    publishedDateTime: 2023-05-31T01:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/ab32640180/jazzup-ai-revolutionizes-multiple-industries-with-customized-artificial-intelligence-solutions"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32640180"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32640180"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 60
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+      name: eWeek
+      domain: eweek.com
+    quality: 79
   - title: "Revolutionising Skin Treatments with Artificial Intelligence (AI) in homeopathy for the first time in India"
     excerpt: "Dr. Batra’s® brings the World’s first 5th Generation AI Skin analyser to India"
     publishedDateTime: 2023-06-01T04:05:00Z
@@ -101,80 +48,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "AI Terminology 101: How Recurrent Neural Networks Are Revolutionising AI"
-    excerpt: "Recurrent Neural Networks (RNNs) are a class of artificial neural networks designed for processing sequential data. Unlike traditional feedforward neural networks, which process inputs independently, RNNs take into account the 'history' of inputs they've ..."
-    publishedDateTime: 2023-05-30T15:05:00Z
-    webUrl: "https://yourstory.com/2023/05/ai-terminology-101-unraveling-recurrent-neural-networks"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 53
-    images:
-      - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Screenshot2023-05-30at7-1685456702994.png?fm=png&auto=format"
-        width: 2130
-        height: 1058
-        isCached: true
-  - title: "Notion Projects Aims To Revolutionize Workplace Collaboration, With The Help Of AI"
-    excerpt: "Notion hopes that AI can help cut down on the fragmentation within this space with its new product, Notion Projects"
-    publishedDateTime: 2023-05-31T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/05/31/notion-projects-shows-how-ai-can-revolutionize-workplace-collaboration/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 41
-  - title: "Welcome To EDA 4.0 And The AI-Driven Revolution"
-    excerpt: "Two groups of classic approaches have been proposed to automate translation. One group of approaches is to introduce constrained natural language (CNL ... may be achieved depending on the capability of AI accelerators and the complexity of the ML models."
-    publishedDateTime: 2023-06-01T07:08:00Z
-    webUrl: "https://semiengineering.com/welcome-to-eda-4-0-and-the-ai-driven-revolution/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/Siemens_Welcome-to-EDA-4-fig1-typical-city-of-EDA-4.0-era.jpg?fit=1394%2C705&ssl=1"
-        width: 1394
-        height: 705
-        isCached: true
-  - title: "How the Biden administration is trying to regulate bias in health care AI"
-    excerpt: "Artificial intelligence could revolutionize health care. It could also perpetuate and exacerbate generations of racial inequities."
-    publishedDateTime: 2023-06-01T20:21:00Z
-    webUrl: "https://www.wfyi.org/news/articles/how-the-biden-administration-is-trying-to-regulate-bias-in-health-care-ai"
-    type: article
-    provider:
-      name: WFYI
-      domain: wfyi.org
-    quality: 38
-    images:
-      - url: "https://www.wfyi.org/files/wfyi/articles/original/pexels-ivan-samkov-4989167.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Artificial Intelligence finds a home in the vineyard: A revolution in the world of winemaking."
-    excerpt: "As the designer era crumbles before our eyes, businesses are entirely implementing the capabilities of AI. Leading this revolutionary charge is the winemaking company Land of Basarabia. Its founder has long been a mastermind in such traditionally conservative fields like winemaking and beekeeping."
-    publishedDateTime: 2023-05-29T06:31:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-finds-a-home-in-the-vineyard-a-revolution-in-the-world-of-winemaking/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 25
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/05/img.jpg"
-        width: 1358
-        height: 1282
-        isCached: true
-  - title: "Can artificial intelligence improve cancer care?"
-    excerpt: "The development of artificial intelligence (AI) has evolved substantially since it was founded in the 1950s, rapidly outpacing expectations with capabilities that are already affecting the way we live and work."
-    publishedDateTime: 2023-05-31T22:42:00Z
-    webUrl: "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(23)00240-1/fulltext"
-    type: article
-    provider:
-      name: The Lancet
-      domain: thelancet.com
-    quality: 19
 
 secured: "bKE2n3IEbrU1CUXW61MhCipI2sjPtYTZjlCT8RR7a4NSUZo2ZZzquzHwVMK5QTe/AAnD7l1V1zOuu91KpUA9BAl3Us2j+RwFB7Ao6stu5nkaXvGN1oosGz9Rx0jbscMcf+U0EVbccp4CWPuAJOJ0jXeDG/yCkMs1Tz2cP/bX6F+EoQvePSApgUrQLv62zvEjenmSv+AQA2IKNM7dEmwZ7NT5LReBD+Lv090mPMbMaXWLJzYRUX3Cbmjn3kqDxmYFetLbUp/JlCzbwPxASmd2VGvXv1cXgc/+pi3oercMm6r7U+TdPEdLQn41JUFxthGMdU60yu5wFjanQioZYyeSd2uwOCkbXDsSnJZQUQezCqmhfRLf3S4ATtLzufisb6mh8QDJXB1HX3dEp8AItKZD+gltuBfTIN5RtJ8vOaFldCcJOyNN3zPPuwr14AJ0XwMRCWhIexCJ/W7inqTcc3cMD9uXG5+G8mwNfh1RDwinSC8UGbTzwk+ZZeptV70T3CnXwdi78ASAz7dEkP4Iwv8WKg==;UW/r4fcXeXZ9wCq95Bd5rA=="
 ---

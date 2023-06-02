@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/five-next-level-marketing-uses-for-ai/amp/"
 type: article
 quality: 106
-heat: 196
+heat: 176
 published: true
 
 provider:
@@ -79,38 +79,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2018/01/red-wheel-barrow_pile-of-money_high-paying-salary-100745643-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Analyzing artificial intelligence after calls for regulation"
-    excerpt: "Dozens of industry leaders are calling for artificial intelligence regulation, warning it could lead to the threat of extinction."
-    publishedDateTime: 2023-06-01T02:49:00Z
-    webUrl: "https://www.cbsnews.com/detroit/news/analyzing-artificial-intelligence-after-calls-for-regulation/"
-    ampWebUrl: "https://www.cbsnews.com/amp/detroit/news/analyzing-artificial-intelligence-after-calls-for-regulation/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/detroit/news/analyzing-artificial-intelligence-after-calls-for-regulation/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 57
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/01/28abd6a7-6cc2-4f13-b9aa-3fc5e852fd83/thumbnail/1200x630/a7541c193cdf5136fedbe7569278ac01/snapshot-44.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Apple is accelerating hiring efforts for generative AI engineers"
-    excerpt: "Apple is again recruiting for Machine Learning engineers for both Apple AR and \"Conversational and Generative AI.\""
-    publishedDateTime: 2023-06-02T11:12:00Z
-    webUrl: "https://appleinsider.com/articles/23/06/02/apple-is-accelerating-hiring-efforts-for-generative-ai-engineers"
-    ampWebUrl: "https://appleinsider.com/articles/23/06/02/apple-is-accelerating-hiring-efforts-for-generative-ai-engineers/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/06/02/apple-is-accelerating-hiring-efforts-for-generative-ai-engineers/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 57
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/54505-110094-Apple-Siri-xl.jpg"
-        width: 1312
-        height: 738
         isCached: true
   - title: "Dear AI Stock Fans, Mark Your Calendars for May 31"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips C3.ai (NYSE:AI) investors are awaiting earnings results due May 31, as the"

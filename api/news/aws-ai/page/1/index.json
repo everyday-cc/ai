@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-02-modernizing-child-support-enforcement-with-ibm-and-aws.md",
+      "title": "Modernizing child support enforcement with IBM and AWS",
+      "excerpt": "The IBM and AWS partnership can accelerate your child support enforcement modernization journey.\nThe post Modernizing child support enforcement with IBM and AWS appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/modernizing-child-support-enforcement-with-ibm-and-aws/",
+      "originalUrl": "https://www.ibm.com/blog/modernizing-child-support-enforcement-with-ibm-and-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T06:03:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-crowdstrike-to-accelerate-development-of-ai-in-cybersecurity-with-aws.md",
       "title": "CrowdStrike to Accelerate Development of AI in Cybersecurity with AWS",
       "excerpt": "CrowdStrike has said that it is working with Amazon Web Services (AWS) to develop powerful new generative AI applications that help customers accelerate their cloud, security and artificial intelligen",
@@ -907,6 +950,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-23-the-65-weirdest-most-hilarious-things-you-can-buy-on-amazon.md",
+      "title": "The 65 Weirdest, Most Hilarious Things You Can Buy on Amazon",
+      "excerpt": "Amazon is your go-to site for almost everything. Between the Amazon products you use every day and the perfect Amazon Prime gifts for everyone on your list, how could it not be? You can also ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rd.com/list/strange-things-amazon/",
+      "originalUrl": "https://www.rd.com/list/strange-things-amazon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rd.com/wp-content/uploads/2021/06/The-65-Weirdest-Most-Hilarious-Things-You-Can-Buy-on-Amazon-FT.jpg",
+          "width": 1600,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reader's Digest",
+        "domain": "rd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-18-announcing-the-updated-microsoft-sharepoint-connector-v20-for-amazon-kendra.md",
       "title": "Announcing the updated Microsoft SharePoint connector (V2.0) for Amazon Kendra",
       "excerpt": "Amazon Kendra is a highly accurate and simple-to-use intelligent search service powered by machine learning (ML). Amazon Kendra offers a suite of data source connectors to simplify the process of ingesting and indexing your content, wherever it resides. Valuable data in organizations is stored in both",
@@ -1319,110 +1405,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-05-16T09:42:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-nigeria-election-the-mystery-of-the-altered-results-in-disputed-poll.md",
-      "title": "Nigeria election: The mystery of the altered results in disputed poll",
-      "excerpt": "On 25 February, Nigerians cast their votes at thousands of polling stations across the country. At each polling station, the votes for the party of each candidate were publicly announced and the results sheets taken for collation first at the ward level, then at local government (LGA) centres.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/65163713?s=09",
-      "originalUrl": "https://www.bbc.com/news/65163713?s=09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/A39C/production/_129748814_nigeria_officials_epa.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/65163713.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/65163713.amp",
-      "publishedDateTime": "2023-05-15T17:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-demand-forecasting-at-getir-built-with-amazon-forecast.md",
-      "title": "Demand forecasting at Getir built with Amazon Forecast",
-      "excerpt": "This is a guest post co-authored by Nafi Ahmet Turgut, Mutlu Polatcan, Pınar Baki, Mehmet İkbal Özmen, Hasan Burak Yel, and Hamza Akyıldız from Getir. Getir is the pioneer of ultrafast grocery delivery. The tech company has revolutionized last-mile delivery with its “groceries in minutes” delivery proposition.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/demand-forecasting-at-getir-built-with-amazon-forecast/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/demand-forecasting-at-getir-built-with-amazon-forecast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/15/demand-forecasting-getir.jpg",
-          "width": 1071,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T10:53:33-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

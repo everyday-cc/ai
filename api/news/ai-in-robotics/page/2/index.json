@@ -300,23 +300,41 @@
       "title": "3 Undervalued Artificial Intelligence and Robotics Stocks to Buy Now",
       "excerpt": "Artificial intelligence (AI) has engulfed the headlines ... Even Warren Buffett and Charlie Munger discussed AI and robotics at the Berkshire Hathaway annual meeting. But like most trends ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-undervalued-artificial-intelligence-and-robotics-stocks-to-buy-now",
-      "originalUrl": "https://www.nasdaq.com/articles/3-undervalued-artificial-intelligence-and-robotics-stocks-to-buy-now",
+      "webUrl": "https://www.fool.com/investing/2023/05/21/3-undervalued-artificial-intelligence-and-robotics/",
+      "originalUrl": "https://www.fool.com/investing/2023/05/21/3-undervalued-artificial-intelligence-and-robotics/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/732837/gettyimages-1224066697.jpg",
+          "width": 2122,
+          "height": 1413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-21T04:15:00-07:00",
+      "publishedDateTime": "2023-05-21T03:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

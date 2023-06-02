@@ -139,6 +139,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Interest in AI causes developer Nvidia to reach $1 trillion in value"
+    excerpt: "As investors piled more capital into Nvidia the chipmaker has become one of the biggest winners of the artificial intelligence boom"
+    publishedDateTime: 2023-06-02T15:54:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273852108/interest-in-ai-causes-developer-nvidia-to-reach-1-trillion-in-value"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1685591446215.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Nvidia and MediaTek partner to introduce next-generation in-car systems with AI"
     excerpt: "In its efforts to further the infotainment experience inside vehicles and cater to evolving requirements, Nvidia and MediaTek have announced a partnership to introduce next-generation systems that can stream video or games or interact with drivers using artificial intelligence."
     publishedDateTime: 2023-05-29T18:17:00Z
