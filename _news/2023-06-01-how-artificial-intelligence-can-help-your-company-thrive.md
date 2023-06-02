@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 751
         isCached: true
+  - title: "What's The Point of Expanding Album Covers with AI?"
+    excerpt: "With Photoshop’s new generative fill tool—which uses artificial intelligence to generate an expanded section of a piece of work—pro-AI knuckledraggers across Twitter are revealing the ExPaNdEd EdItIoNs of some of music’s most iconic album covers."
+    publishedDateTime: 2023-06-02T17:10:00Z
+    webUrl: "https://gizmodo.com/ai-ai-art-dall-e-expanded-album-covers-1850495918"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b917b007d29b3cc15579aab8fcefb4c4.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "1n3x+WHpohCZP3d13OAJTAEYf5vN2GUneVQKr4i/7A6hGGHWIm5xBRtq29oaWhsq15PrFVu0RrwLv77cekEkmp0CjFx+tPMqeFTj8eOuKjldlzn2dDE7OYQ0FAjSila0ftO0EpJHE+5PoNUunQSbq9NJiutVlYMiXYSNec9UJaK6zrRWPEervq7Y6jkqlghK21qpNSdzlPKI4kJnXA2v3q9Au2reKyW9aLg0L9CQ7Ws+kJwATMJ2/fJcIvXEKa/1ScZAlwIF1k4SThAjMc9r30sAVRSCY/epfTnvy+AovpSpDdC0VA+Iu1/rRvW93d1/prx+fsZDw8uTK9kO6OQn4mbhsHHgI7cGIsCe8qPMOoswB8VMBZ9nW7dbCUZftpYau5Km2LqBCkQLYc3mxsW9e+Zu4YG1vNA+slR3Y9qP1j0xIW/pYepmuPMBp0Md/FcKcTMbCVLPKKm2v9IhCKv5+QwrAZtddAD4Z/5m5i7LxU50NaFNBtp0Zqhx9V6J+4oVLtvfTV8YKM26fPAbRoqhwA==;4320ujijBVH4GW3Su4/NwA=="
 ---

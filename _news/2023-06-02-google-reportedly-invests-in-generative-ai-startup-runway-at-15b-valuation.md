@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google invests in generative AI startup Runway, gets it as a cloud customer"
+    excerpt: "Google has invested in generative AI startup Runway in a deal that values the company at around $1.5 billion. The investment, which was part of a $100m funding round, also means that Runway will now use Google Cloud as its preferred cloud provider,"
+    publishedDateTime: 2023-06-02T16:58:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/google-invests-in-generative-ai-startup-runway-gets-it-as-a-cloud-customer/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 35
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Google_Data_Center.2e16d0ba.fill-1200x630.jpg"
+        width: 660
+        height: 348
+        isCached: true
 
 secured: "ECclHG///ixPeBHapBX7zzMSQYymGkCBqEv8V8ZhYnGO1ZEEsYLLB7PRd2oAHFFoR8oE1EPp6aitsD+nGpzXKdf0Ix5KDpyCxqw+hal5bXIBpxFNFHYtRbaB0XL9FGtiV/rI3EWr/uOlflsWkbZdENjdd3JenO6FitZ607d9R1uIMZ/51gn3ZEsZt9CgLD4udGnqAaGlkIIwQ/OoYR4qjMpFbjMwldY5AzHBuZRiyKRYIfj1YOCGJcKVF6iolSxosSdyAJ07UuEHF5VzBHBcRrLqRKfsOdy/lEH5pakGRy+Tl+SPjDLKw4Vx3wuRSYb5JG/Eqq1u+ip86XQUWjOf5DcigyGVChV8DbxeDaDD3vx4HAlKgSFKu5zVAlS1oI0N3SRKdXfiaqTsRtUyrk30yJ4LUDxw484PuIKUYqEtTxuIghTfI/qKpdGveNdYTpmpDe2r69AdyOPDhj9AzG/q+e6PiP7BaUrueLxdptQWM/JWFhhO57bIWpTxxsps8rJd/DyN/lGXo6086l+U0Yv/sw==;bX8v0v182D/o7x8qwN4C6Q=="
 ---

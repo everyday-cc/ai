@@ -53,15 +53,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Self-Driving Trucks Becoming Common on North Texas Roads"
-    excerpt: "The North Texas area has become the new frontier for the development of self-driving trucks, with several companies setting up shop — and using local  highways for real-world testing."
-    publishedDateTime: 2023-05-30T16:59:00Z
-    webUrl: "https://www.ttnews.com/articles/self-driving-trucks-texas"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 4
   - title: "Jeep is testing self-driving off-road vehicle tech (video)"
     excerpt: "Jeep has offered the public a glimpse of its autonomous off-road driving technology in a new video. The two Jeep Grand Cherokee 4xe test cars – which utilise artificial intelligence (AI) to tackle various kinds of terrain without the need for a driver – were put through their paces in Moab,"
     publishedDateTime: 2023-05-31T11:24:00Z

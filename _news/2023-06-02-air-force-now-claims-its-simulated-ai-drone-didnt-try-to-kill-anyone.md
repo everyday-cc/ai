@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Air Force denies running simulation where AI drone “killed” its operator"
+    excerpt: "Over the past 24 hours, several news outlets reported a now-retracted story claiming that the US Air Force had run a simulation in which an AI-controlled drone \"went rogue\" and \"killed the operator because that person was keeping it from accomplishing its objective."
+    publishedDateTime: 2023-06-02T16:21:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 86
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/ucav_drone_hero_1-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "An AI-powered drone tried to kill its human operator in a US military simulation"
     excerpt: "\"It killed the operator because that person was keeping it from accomplishing its objective,\" Col. Tucker Hamilton said at a recent conference."
     publishedDateTime: 2023-06-01T22:54:00Z
@@ -160,6 +176,6 @@ related:
       domain: newscientist.com
     quality: 17
 
-secured: "Dmep8g2uX4rgyBfvBYqo9TYuWfBvpdo9xJGu6u016UbumyRH8p+orqip5y52LA0TF/QFF62BcacsXrrtFoNMYUQ8zkCuKB8zWo3yT3oZk21ehpxuK/2F6mDrjV2yf263s0Zzuu2O4nNV9gob+i7W5t5MTN1WejXLZF4YMY/Lk7eQC9zjQ73/WznoAk8FGc3kVMzZ6TPUbboIJmlUaf057mtQXVzSF+Vo6YxyfMz3WtzsWmCgCIAWOLLzlV3fxXg64RdyYFFVAJki6JDgL0EBsAJFtoT8+0r6LEUVITiWr9kfDHATYdf5VS9LcZksou7yAmQ1TQz8z1zfD6e4g2WK/mmJ9JlwjE+rKxgRjO9YFp8=;hs96eMia3VwwBhlXkFu1WQ=="
+secured: "Ngf9qSrq8IVWcL56hW8mhUmVSE4qFv4M2n5jrY8XNLw6r1b4RtWbZO8VGNQUfFfqMDFo+zKkc3uUoecl6GFqZwg6DSjKJ1z5y5uHcprsg5unanPpSl7LIBgOyaf1Rz0cz4aZx87hUSzkqTutccHQZ3O/HpYeo+9DFZAJi+iKwaVcrsarQOOTi+GVmfEjcbVN4QbSqFaaEsQlYi49ntdZjDlwBN7ZFCxLqfOryuZFmcnlUG13OdTuaiiK0f3T+Nq636hi+GQFaHFLUV6XanuWdKl1MjdrmFVLqyCD9VejysnCKtb/yPNPdqXnW5coJpDfDOAD0Wo6oZBaANwGfzzR92hjGannTz49umVpJJjXEBsnAnnDguAo8JtauBlFXiR7fsk14K9DcsI9+fApEhzNcb6L3HguIhepmLJwHYbLtJ7MmDlUi+xA2cHWtd8Tq3MovJ57/C3v+cUBGAcknjaQtkyHn1MpgpZRehigqffT9w4nQS7gU3l81byCJV6G6cnMlaRylL1EAXZMzDfXpKvU4g==;1XI3jgEe2fqi1z37gpD3rg=="
 ---
 

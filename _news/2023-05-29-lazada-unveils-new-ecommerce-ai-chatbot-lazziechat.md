@@ -96,6 +96,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Walmart showcases robots, drones, AI chatbots during shareholder week"
+    excerpt: "A robot makes hamburgers at a Sam’s Club. Robots retrieve items for order fulfillment in Bentonville. AI chatbots help Walmart merchants. Drones make deliveries in Northwest Arkansas. Highlighting such"
+    publishedDateTime: 2023-06-02T17:55:00Z
+    webUrl: "https://talkbusiness.net/2023/06/walmart-showcases-robots-drones-ai-chatbots-during-shareholder-week/"
+    type: article
+    provider:
+      name: Talk Business
+      domain: talkbusiness.net
+    quality: 54
+    images:
+      - url: "https://talkbusiness.net/wp-content/uploads/2023/06/alphabot-machine-walmart.jpg"
+        width: 1200
+        height: 626
+        isCached: true
   - title: "Jim Warren: AI chatbots have been used to create hundreds of news websites"
     excerpt: "Misinformation tracker NewsGuard has identified more than 125 websites, published in 10 languages, with news content written by AI tools"
     publishedDateTime: 2023-05-30T10:00:00Z

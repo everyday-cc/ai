@@ -52,20 +52,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "The Rise of AI in FinTech"
-    excerpt: "The financial industry has witnessed a significant transformation in recent years with the rise of financial technology (FinTech) and the emergence of open finance. These disruptive forces have revolutionized traditional banking and financial services,"
-    publishedDateTime: 2023-05-30T05:20:00Z
-    webUrl: "https://taxguru.in/finance/rise-ai-fintech.html"
-    type: article
-    provider:
-      name: Tax Guru
-      domain: taxguru.in
-    quality: 39
-    images:
-      - url: "https://taxguru.in/wp-content/uploads/2022/06/Taxguru-Logo-1.jpg"
-        width: 500
-        height: 500
-        isCached: true
   - title: "Fintech founder using AI to improve lives and livelihoods in Bangladesh"
     excerpt: "Women in Tech Excellence Rising Star of Financial Services awards winner, Shabnam Wazed is shaping fintech, using AI to make financial services more inclusive."
     publishedDateTime: 2023-06-02T09:31:00Z
@@ -79,62 +65,6 @@ related:
       - url: "https://image.chitra.live/api/v1/wps/d87be48/eabf10b8-256a-43f1-8809-6fdf5f835566/7/Wazed-1-370x229.jpg"
         width: 370
         height: 229
-        isCached: true
-  - title: "Why banks are chasing fintech partnerships"
-    excerpt: "Traditional banks are keen to partner with fintechs for their knowledge. But what do the digital players get out of the deal?"
-    publishedDateTime: 2023-06-02T15:17:00Z
-    webUrl: "https://www.raconteur.net/growth-strategies/why-banks-are-chasing-fintech-partnerships/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 39
-    images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2023/05/fintech_online_banking_app.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How Fintech Is Revolutionizing Event Payment And Registration"
-    excerpt: "Fintech, or financial technology, uses innovative software and digital platforms to deliver financial services to customers. Fintech has been transforming various aspects of the financial industry, such as banking,"
-    publishedDateTime: 2023-05-28T23:34:00Z
-    webUrl: "https://techbullion.com/how-fintech-is-revolutionizing-event-payment-and-registration/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/05/Fintech-trillion-industry.png"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "Financial wellness fintech Elifinty launches"
-    excerpt: "UK startup Elifinty has launched its open banking-based \"socially conscious\" debt management platform for consumers and creditors."
-    publishedDateTime: 2023-05-30T13:45:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42388/financial-wellness-fintech-elifinty-launches"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rszelifinty-maysamrizvi.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Must Attend Fintech Events This Year"
-    excerpt: "As the world starts to shake off the years-long recession and start to see the bright light, many economies are starting to stretch their muscles. While there is still a lot to do and a lot to cover before many countries can say they have shaken off all of the economic woes,"
-    publishedDateTime: 2023-06-01T10:55:00Z
-    webUrl: "https://techbullion.com/must-attend-fintech-events-this-year/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/06/fintech-events.png"
-        width: 900
-        height: 500
         isCached: true
 
 secured: "OFXVUQ+B+lQ+HRhh27xmxKmagqG872i+5f18tuNSJ3AmdHggFV7wvaSMflC0y4amB6okpegdhbtFpt1uSNkE/cIwoD5Z8UyQ8mr6a45may582y6qhFY8X2o3grHPSKURiA0ipPyOL10oHleRkQKcqYZs7Fa1aongJDoXhtyg+coIMdux8Nrc1XpODf+8I7o6AcH166jWqWnaw4pSm63d0KaKUSKaVs0NYMmOpnngbrj4mTAhL9RWlu9S9pVuip7taVPhT2hqCAZ/oQonQ7opgNHEFIeJbmjKkVHDxRrtfIqM8n4nE3R1sVs3BmMKjoESEvGxDZa8wzBJHHJfn6HDHf2M2Sahwid2xGphr8JLAmc=;QTQRNghhlIgfZkd10a2d8Q=="

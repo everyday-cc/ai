@@ -359,6 +359,20 @@ related:
       name: Telecoms
       domain: telecoms.com
     quality: 34
+  - title: "MediaTek teams up with Nvidia for auto solutions"
+    excerpt: "There has been speculation that MediaTek was in talks with Nvidia to develop chips for Windows on Arm notebook computers and for its first graphics processing unit (GPU). “AI and accelerated computing are fueling the transformation of the entire auto ..."
+    publishedDateTime: 2023-05-30T00:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2023/05/30/2003800626"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 24
+    images:
+      - url: "https://www.taipeitimes.com/images/2023/05/30/p12-230530-601.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "MediaTek, Nvidia partner for AI-based in-cabin solutions"
     excerpt: "The smart cabin automotive offerings will run Nvidia Drive OS, Drive IX, Cuda and TensorRT software technologies. MediaTek will use its Dimensity Auto platform with Nvidia’s advanced driver assistance systems (ADAS) solutions to deliver all-around smarter in-vehicle experiences,"
     publishedDateTime: 2023-06-01T13:05:00Z

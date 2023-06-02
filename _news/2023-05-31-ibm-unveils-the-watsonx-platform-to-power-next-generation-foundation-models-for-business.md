@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/ibm-unveils-th
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/ibm-unveils-the-watsonx-platform-to-power-next-generation-foundation-models-for-business-fhardlvb?amp=1"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,31 @@ images:
     width: 874
     height: 583
     isCached: true
+
+related:
+  - title: "IBM Launches Watsonx to Power Next-Generation AI Foundation Models for Businesses"
+    excerpt: "IBM (NYSE: IBM) has announced IBM watsonx, a new AI and data platform that will enable enterprises to scale and accelerate the impact of the most advanced AI with trusted data. Enterprises turning to AI today need access to a full technology stack that enables them to train,"
+    publishedDateTime: 2023-06-02T17:34:00Z
+    webUrl: "https://www.kbc.co.ke/ibm-launches-watsonx-to-power-next-generation-ai-foundation-models-for-businesses/"
+    type: article
+    provider:
+      name: Kenya Broadcasting Corporation
+      domain: kbc.co.ke
+    quality: 51
+    images:
+      - url: "https://www.kbc.co.ke/wp-content/uploads/2023/06/IBM-Watsonx.jpeg"
+        width: 2048
+        height: 1152
+        isCached: true
+  - title: "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
+    excerpt: "Automation Anywhere today announced it is working with Amazon Web Services (AWS) to bring intelligent automation and"
+    publishedDateTime: 2023-06-01T16:38:00Z
+    webUrl: "https://www.datanami.com/this-just-in/automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 13
 
 secured: "TMp9+nTWAXt85NCOOnAOqOcR7Hyk8/f/sw0qxoY2XTj1ZguI9d0KY85yjGySCQjNeK5hl/SMZlWjoQBe3KN+B7EYVwmbIK178Uhkr0dbHq27kEvFAaXTwVJrhspI9XvGsgU4lb7ddDIPvdwuCliiKM+N7aqZ+aUZsvzFKdgqM0IdJ/ppc79bz1RrrsigWKTcjFEt0sBHl0aCBoKRkje/QafzP8J9OAGyt5w+OlLXPcVEe99FmXnM+viLUKGEKqdODuHhN4iSiudnncxRrFYSNA0rHLQdR+kCS4VP4Cd2qnAraRgP/jiFRyrT69rrT2aYRDY0ACz8Og+Ek2ixCZhAzO2Q52UqkI95EA0QTI9xZzSBBPpB+sF6Zt97NhPVBhXR5zwtljngktwhlG23n2qzC/MKKJcpoaIBdUG1jDQSPwMDn7QyRG2h6fIUWeWa0ESJWtRc3reuW3fIKEIngPvB0bogDzfwNcQa3ua2gAyZWk1Jck0LMFl3ctLcq/Rszn7k8jK52IagyIClP6/1aM8OkQ==;qhvvSNydPZnn4EiewQvFSw=="
 ---

@@ -6,9 +6,9 @@ publishedDateTime: 2023-06-02T13:00:00Z
 originalUrl: "https://www.wired.com/story/plaintext-instagram-founders-artifact-news-app-ai/"
 webUrl: "https://www.wired.com/story/plaintext-instagram-founders-artifact-news-app-ai/"
 type: article
-quality: 47
-heat: -1
-published: false
+quality: 69
+heat: 89
+published: true
 
 provider:
   name: Wired
@@ -20,6 +20,13 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+
+images:
+  - url: "https://media.wired.com/photos/64791c108ca7067a92af16b6/191:100/w_1280,c_limit/Artifact-News-App-Top-Plaintext-Business.jpg"
+    width: 1280
+    height: 670
+    isCached: true
 
 related:
   - title: "Is AI Opening the Door for the 100x Founder'?"
@@ -36,7 +43,16 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Meta Will Provide Generative AI for Advertisers in Instagram or Facebook"
+    excerpt: "Meta, formerly known as Facebook, announced an AI Sandbox for advertisers to help them improve their ad performance for businesses and spend less time and resources on repurposing creative assets. This AI Sandbox testing background,"
+    publishedDateTime: 2023-05-30T03:46:00Z
+    webUrl: "https://iblnews.org/meta-will-provide-generative-ai-for-advertisers-in-instagram-or-facebook/"
+    type: article
+    provider:
+      name: IBL News
+      domain: iblnews.org
+    quality: 18
 
-secured: "swprbVfTr1QAyMf4vDtHQuN2Gba/FJag+ya2tCSqH+cscvAFx6z2oWetvILsjHMM7HbTg1rjVTQcS5zBM0hu7oZbcrUDlpzg7dhJ8QFzziSKNn0SN5wMaMjQPjBY4X3CuxF5weRpAuVK7Vha76ItqqZHKo/C5zIHhE1lpa4jFxHgDLc1KAOnNSWoD8oxHFECMbSv8z5bVeTWgT6nUgCH6jrFrXuK837+dimt6OD2YrLTHhHVMfxwa23CRwA6R16Snjgu6Sdyi/P3cMLv+/VZqGcbvjQVa89KkNDIacXYUOcgOZBOuq2/SxrwAGXUESi0J2BkN80jdp/DlkMWSxhNWUOXF1qOc6SysIu2Oa2yn0Ukhwgx0aT9rZ0TKcoAG96bXAbD/UnWiq6G5yndjWOdmJFf2TYczk9Hg5yr8cCMB3zegFv3MajHdi2E4MC4isJtpMHVPEy5RbDOK0vHzegqO8/jQ86yP77nIvQ7BYZKQcYfBcIC+xUToToCnWNRqWc05ObVn8oO+8ys8ZExOxDaqA==;xstze6ubdyR8/m7UITrXDQ=="
+secured: "ymKKijforzru5ZmeOKjBBIi/AN2QseYya4etVQB0Yau/v/tFWBo1gnK3RpGsq45xubb1X5n8uSc5G8yfjzNXF6OM1rBZggyRXeUfHxB0jO9j05R5d3qo06XEbcUq+p2a724aHsMhM59Ms40G8Wk7olS0bsMfarMe1KtHPS6QPTGvjZIDqStT4lnaVd2pNi3vMJC2SGuHS0V06vj4F6SBbwvwKBbWZqtaY9jba52p2AUMFEOXSxnafZIdELeL4QYGFcEguwHHgGvUfsxIwVDbxzgtEamY38+CcMrg/m+jwS65hsAzc2unVaU68d0S2TMe644+qvQmS+kkyF68q/SfBykht0I/4/erAHhKzggG4XM=;ss3j0mSmG5kqECcfz5uBjw=="
 ---
 

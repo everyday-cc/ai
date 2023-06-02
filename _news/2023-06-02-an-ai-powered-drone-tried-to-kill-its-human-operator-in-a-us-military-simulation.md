@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/ai-powered-drone-tried-killing-its-o
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-powered-drone-tried-killing-its-operator-in-military-simulation-2023-6?amp"
 type: article
 quality: 84
-heat: 177
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Air Force denies running simulation where AI drone “killed” its operator"
+    excerpt: "Over the past 24 hours, several news outlets reported a now-retracted story claiming that the US Air Force had run a simulation in which an AI-controlled drone \"went rogue\" and \"killed the operator because that person was keeping it from accomplishing its objective."
+    publishedDateTime: 2023-06-02T16:21:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 86
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/ucav_drone_hero_1-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "AI-Controlled Drone Decides to Kill Human Operator in Simulated Mission"
     excerpt: "An AI-enabled drone decided to kill its human operator during a mission simulation because it proved to be the best way to score more points. As the Royal Aeronautical Society rep"
     publishedDateTime: 2023-06-02T10:49:00Z

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-06-02-an-ai-powered-drone-tried-to-kill-its-human-operator-in-a-us-military-simulation.md",
-      "title": "An AI-powered drone tried to kill its human operator in a US military simulation",
-      "excerpt": "\"It killed the operator because that person was keeping it from accomplishing its objective,\" Col. Tucker Hamilton said at a recent conference.",
+      "path": "_news/2023-06-02-the-instagram-founders-new-news-app-is-actually-an-ai-play.md",
+      "title": "The Instagram Founders’ New News App Is Actually an AI Play",
+      "excerpt": "Artifact offers a personalized feed of news and can also translate clickbait headlines using AI. Kevin Systrom says that’s only the beginning.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-powered-drone-tried-killing-its-operator-in-military-simulation-2023-6",
-      "originalUrl": "https://www.businessinsider.com/ai-powered-drone-tried-killing-its-operator-in-military-simulation-2023-6",
+      "webUrl": "https://www.wired.com/story/plaintext-instagram-founders-artifact-news-app-ai/",
+      "originalUrl": "https://www.wired.com/story/plaintext-instagram-founders-artifact-news-app-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/626ad8f286fa90001905ac76?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
+          "url": "https://media.wired.com/photos/64791c108ca7067a92af16b6/191:100/w_1280,c_limit/Artifact-News-App-Top-Plaintext-Business.jpg",
+          "width": 1280,
+          "height": 670,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,9 +24,61 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-powered-drone-tried-killing-its-operator-in-military-simulation-2023-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-powered-drone-tried-killing-its-operator-in-military-simulation-2023-6?amp",
-      "publishedDateTime": "2023-06-01T15:54:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-generative-ai-startup-runway-taps-google-to-lead-a-100-million-funding-round-and-sign-a-major-cloud-contract.md",
+      "title": "Generative AI startup Runway taps Google to lead a $100 million funding round and sign a major cloud contract",
+      "excerpt": "This is the latest example of a cloud provider making a significant investment in a generative AI startup as tools like ChatGPT become popular.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-runway-ai-invests-generative-startup-cloud-contract-2023-5",
+      "originalUrl": "https://www.businessinsider.com/google-runway-ai-invests-generative-startup-cloud-contract-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6447ec3f6001ce00190644ca?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T13:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -49,8 +101,9 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
-        "AI"
+        "Microsoft AI",
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -307,7 +360,7 @@
       "originalUrl": "https://venturebeat.com/ai/nvidia-ceo-reveals-groundbreaking-generative-ai-innovations-for-industries-at-computex-taipei/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1458,59 +1511,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-06-good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems.md",
-      "title": "Good bot, bad bot: Using AI and ML to solve data quality problems",
-      "excerpt": "Bots (both good and bad) will soon constitute an even larger share of internet traffic. How to fight them with AI and ML.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems/",
-      "originalUrl": "https://venturebeat.com/ai/good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/annevb_a_good_chatbot_and_a_bad_chatbot._Colorful_futuristic_te_ed17e50e-3d48-4de3-b5d3-f1f04adb84f4.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems/amp/",
-      "publishedDateTime": "2023-05-06T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

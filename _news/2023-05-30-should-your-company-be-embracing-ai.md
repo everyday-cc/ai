@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/30/should-your-company-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/30/should-your-company-be-embracing-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6438211dffe260fd7c13615b/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 738
+        isCached: true
+  - title: "What's The Point of Expanding Album Covers with AI?"
+    excerpt: "With Photoshop’s new generative fill tool—which uses artificial intelligence to generate an expanded section of a piece of work—pro-AI knuckledraggers across Twitter are revealing the ExPaNdEd EdItIoNs of some of music’s most iconic album covers."
+    publishedDateTime: 2023-06-02T17:10:00Z
+    webUrl: "https://gizmodo.com/ai-ai-art-dall-e-expanded-album-covers-1850495918"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b917b007d29b3cc15579aab8fcefb4c4.png"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "sXDD5VIgj49plUNTyecyVRJ//e1Dq18ER++RsOcB5s21xGpLp08QHFev/pmEhJ7ICpvE0ujYd9VzeWXlJCNYrE9Bb/3OoJt7gln2NqaEXnx3DYgJE5LLjIpdjLcSj8pT00SCpzZuG/CS24ognq+RQStKdk76/1KxGJbejRLsNBBVb9RNIgnQvCWyqxSuB4FB5BwUBsADPbXoddUk5ghQOtIcoOz2h7vik0Z240UyJeSihJEfgTmR4IQrikljS75fZGGuYEUQo2X49dA7lJ7IZLWWp/cQO197PWigfrBWXAPVEnwdnjlluK7ZWF3zsAuso7MtP+c+LDG30kpOORixxyNNbwqcC4WcbSblCFLZP2lSFD6Jsm3li4wr5aWs05i9O7tE5ikbFXHG0DKZnNvzDmgE3qHGtjpBFo1C4P8lisboDoBDwG9hPZh3cyT43v/qbXu0ZglgbbY8o0858TxR6b5ysdB9YvCgqgtGY1JfegAKq314KlJmRjg7vzh9u4ZIBWXTpYjbURBhVDhUpcRQkQ==;0x65NVPcDVlMBomVh+0muw=="

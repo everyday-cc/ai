@@ -8,7 +8,7 @@ webUrl: "https://www.nasdaq.com/articles/ai-acceleration-in-the-racing-industry"
 ampWebUrl: "https://www.nasdaq.com/articles/ai-acceleration-in-the-racing-industry?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-acceleration-in-the-racing-industry?amp"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Autos
 
 related:
   - title: "Accelerating AI & Innovation: the future of banking depends on core modernization"

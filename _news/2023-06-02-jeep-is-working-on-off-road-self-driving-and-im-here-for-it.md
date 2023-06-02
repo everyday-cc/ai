@@ -53,15 +53,6 @@ related:
         width: 1274
         height: 715
         isCached: true
-  - title: "Self-Driving Trucks Becoming Common on North Texas Roads"
-    excerpt: "The North Texas area has become the new frontier for the development of self-driving trucks, with several companies setting up shop — and using local  highways for real-world testing."
-    publishedDateTime: 2023-05-30T16:59:00Z
-    webUrl: "https://www.ttnews.com/articles/self-driving-trucks-texas"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 4
   - title: "Jeep is testing self-driving off-road vehicle tech (video)"
     excerpt: "Jeep has offered the public a glimpse of its autonomous off-road driving technology in a new video. The two Jeep Grand Cherokee 4xe test cars – which utilise artificial intelligence (AI) to tackle various kinds of terrain without the need for a driver – were put through their paces in Moab,"
     publishedDateTime: 2023-05-31T11:24:00Z
@@ -72,6 +63,6 @@ related:
       domain: driving.co.uk
     quality: 4
 
-secured: "DNlz+u5QxRfV5Mde7UUa2wtzB1OK/8g91MnmB+yZ2Ipw4bDJTP3YVZ3nB+/mBEK5ccCjWVVbHpInLhEHv0FAOuBcD45BlWdnMBv3MEiwHGQYwG2nYSrJh8105QJzKjEJWyUOLAUVzHv1Izn/oBcAik82ZgxcQP1sQQcxFpA8T4lT5Sjj2hxZt4wxoXn5BUnssaHbwSDDyRqqIP/7ysxR4BnuTp3Zvm7Ni/hUWgiZ0iKxWQyPrymSKxIX52Ps++i8vtIIjxuCTMYw6Eb2KqOhcGdl7JWbYbsFscBHsfFQFBUG/ZXM6i6qUnHwD+h7l3CAejfKW7LTOo0d9MI1/9lX5avcT7gVr4ns8WRTZZgzVCA=;GMJQ0aQjopQ82MkCq1vRSQ=="
+secured: "xb5OMEj27Dd7oiF+CdyPivb+AbeaJh+HIS8leeo8o01HsoQAluWcNu4O09PdxFYY0Sz1gUkCrCslyuYZc8NfE7KgPiAdB2zlcbokRy7D7lY7pHbCgyGYNRWIkRfKNeBFq7UmlTnnFZ21dPNSI2IbdH3AuJb+gOuAKzGHehN5RAxnVlxqlT4dgDkWqSCKjKuQDhMiWpSDYsU0aQDr2J3BGIpxHusYOKrhd3+n4vaFQmJwZJ9uOoNhyx4VPkpfxkYkN4MHG3p0TSvNhnskA6mJLFkGaGRRVl41Z0MbAriYfmFcdb94i1LZS9oja0PZ/AbsBqchEP3WDNgND2Kz1SDHXLFwnWmdDVuDL20ly8XCbdNoIU+Rshuzq2CEDO1IwxkqArAdEbnIvH1aaNmMCjpOoOe4HRUMjdi3Co/F5yzs3oHPAYNm5c3cAMNtsrXG/en4pFUgFODU2K2va57UxOnIg/biFZBnte7bz8pO9BWix0+o8Kfy2K+z0EWQGO8n08Frv7n3PMYtKtGlwIcCauopow==;IV3x4H0ittuV2FFZZGWZ0Q=="
 ---
 

@@ -93,6 +93,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Walmart showcases robots, drones, AI chatbots during shareholder week"
+    excerpt: "A robot makes hamburgers at a Sam’s Club. Robots retrieve items for order fulfillment in Bentonville. AI chatbots help Walmart merchants. Drones make deliveries in Northwest Arkansas. Highlighting such"
+    publishedDateTime: 2023-06-02T17:55:00Z
+    webUrl: "https://talkbusiness.net/2023/06/walmart-showcases-robots-drones-ai-chatbots-during-shareholder-week/"
+    type: article
+    provider:
+      name: Talk Business
+      domain: talkbusiness.net
+    quality: 54
+    images:
+      - url: "https://talkbusiness.net/wp-content/uploads/2023/06/alphabot-machine-walmart.jpg"
+        width: 1200
+        height: 626
+        isCached: true
   - title: "Lazada unveils new eCommerce AI chatbot LazzieChat"
     excerpt: "Lazada group has released LazzieChat, an eCommerce AI chatbot powered by OpenAI’s ChatGPT technology in Microsoft’s Azure OpenAI Service to provide a more personalized shopping experience to its customers."
     publishedDateTime: 2023-05-29T03:00:00Z

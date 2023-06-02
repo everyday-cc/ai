@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/nvidia-ceo-reveals-groundbreaking-gener
 webUrl: "https://venturebeat.com/ai/nvidia-ceo-reveals-groundbreaking-generative-ai-innovations-for-industries-at-computex-taipei/"
 type: article
 quality: 60
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://static.toiimg.com/photo/msid-100621670/100621670.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "NVIDIA Computex 2023 Keynote Biggest Announcements And Developments"
+    excerpt: "Huang confirmed full volume production of GPU server HGX H100 has begun ... NVIDIA has undoubtedly bet big on the world of AI. However, it hasn't sidelined gamers. The company indicated it ..."
+    publishedDateTime: 2023-05-31T00:56:00Z
+    webUrl: "https://www.gizbot.com/tech-biz/nvidia-computex-2023-keynote-biggest-announcements-developments-ai-gpu-085682.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/tech-biz/nvidia-computex-2023-keynote-biggest-announcements-developments-ai-gpu-085682.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/tech-biz/nvidia-computex-2023-keynote-biggest-announcements-developments-ai-gpu-085682.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 44
+    images:
+      - url: "https://www.gizbot.com/img/1200x60x675/img/2023/05/nvidia-computex-2023-keynote-highlights-1685361407.jpeg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Nvidia reveals generative AI NPCs that can dream up their own dialogue"
     excerpt: "A new piece of software, Nvidia Ace, was introduced at the Computex Keynote. The software will allow game developers to implement AI NPCs into their worlds."

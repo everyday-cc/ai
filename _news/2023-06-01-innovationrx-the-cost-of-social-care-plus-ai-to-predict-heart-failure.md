@@ -100,7 +100,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 69
+    quality: 71
   - title: "Analyzing artificial intelligence after calls for regulation"
     excerpt: "Dozens of industry leaders are calling for artificial intelligence regulation, warning it could lead to the threat of extinction."
     publishedDateTime: 2023-06-01T02:49:00Z

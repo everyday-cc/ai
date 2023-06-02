@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
+    publishedDateTime: 2023-06-02T16:30:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-in-payments-how-to-prepare-whats-next-reality-hype-2023-june"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-in-payments-how-to-prepare-whats-next-reality-hype-2023-june?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-in-payments-how-to-prepare-whats-next-reality-hype-2023-june?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
+    images:
+      - url: "https://i.insider.com/64414647632fda001803ccf4?width=1200&format=jpeg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
     publishedDateTime: 2023-06-01T17:30:00Z
@@ -137,6 +153,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/06/01114551/voicehub-sensory.png"
         width: 1497
         height: 696
+        isCached: true
+  - title: "This test might be an easy way to distinguish humans from AI like ChatGPT"
+    excerpt: "A test called the Capital Letter Test might help you discern a human from generative AI software like ChatGPT - here's how it works."
+    publishedDateTime: 2023-06-02T17:04:00Z
+    webUrl: "https://bgr.com/tech/this-test-might-be-an-easy-way-to-distinguish-humans-from-ai-like-chatgpt/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 36
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/04/chat-gpt-open-ai.jpg?quality=82&strip=all"
+        width: 3024
+        height: 1701
         isCached: true
   - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."

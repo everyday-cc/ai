@@ -55,6 +55,22 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "NVIDIA Computex 2023 Keynote Biggest Announcements And Developments"
+    excerpt: "Huang confirmed full volume production of GPU server HGX H100 has begun ... NVIDIA has undoubtedly bet big on the world of AI. However, it hasn't sidelined gamers. The company indicated it ..."
+    publishedDateTime: 2023-05-31T00:56:00Z
+    webUrl: "https://www.gizbot.com/tech-biz/nvidia-computex-2023-keynote-biggest-announcements-developments-ai-gpu-085682.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/tech-biz/nvidia-computex-2023-keynote-biggest-announcements-developments-ai-gpu-085682.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/tech-biz/nvidia-computex-2023-keynote-biggest-announcements-developments-ai-gpu-085682.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 44
+    images:
+      - url: "https://www.gizbot.com/img/1200x60x675/img/2023/05/nvidia-computex-2023-keynote-highlights-1685361407.jpeg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI is about to significantly change your computer: HP CEO"
     excerpt: "CEO Enrique Lores says consumers and businesses are poised to see big changes to their computers within 24 months due to new advances in artificial intelligence. \"What we are working on is to build AI capabilities into the PC,"
     publishedDateTime: 2023-05-31T12:14:00Z

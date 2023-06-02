@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32684334"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32684334"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 93
+published: true
 
 provider:
   name: Benzinga.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How generative AI can revolutionize customization and user empowerment"
-    excerpt: "It's time to look beyond using generative AI tools for simple outputs and focus on computing capabilities for users and large enterprises."
-    publishedDateTime: 2023-05-28T23:10:00Z
-    webUrl: "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 500
-        isCached: true
   - title: "JazzUp AI Revolutionizes Multiple Industries with Customized Artificial Intelligence Solutions"
     excerpt: "In a remarkable stride towards empowering industries through artificial intelligence (AI), JazzUp AI today unveiled its comprehensive suite of AI solutions. JazzUp AI's innovative productivity solutio"
     publishedDateTime: 2023-05-31T01:49:00Z
@@ -57,34 +43,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Welcome To EDA 4.0 And The AI-Driven Revolution"
-    excerpt: "Two groups of classic approaches have been proposed to automate translation. One group of approaches is to introduce constrained natural language (CNL ... may be achieved depending on the capability of AI accelerators and the complexity of the ML models."
-    publishedDateTime: 2023-06-01T07:08:00Z
-    webUrl: "https://semiengineering.com/welcome-to-eda-4-0-and-the-ai-driven-revolution/"
+  - title: "For more than 2 years: ALSO empowers SMBs with AI solutions"
+    excerpt: "Recognizing the immense potential of Artificial Intelligence (AI) for Small and Medium-sized Businesses (SMBs), the Technology Provider established its AI platform roughly two years ago to enable companies of all sizes to make the most of this groundbreaking technology."
+    publishedDateTime: 2023-06-01T05:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/for-more-than-2-years-also-empowers-smbs-with-ai-solutions-1032363069"
     type: article
     provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/Siemens_Welcome-to-EDA-4-fig1-typical-city-of-EDA-4.0-era.jpg?fit=1394%2C705&ssl=1"
-        width: 1394
-        height: 705
-        isCached: true
-  - title: "Arm unveils TCS23, driving immersive experiences and new-generation AI applications"
-    excerpt: "Arm held a new product launch event at COMPUTEX 2023, unveiling the \"2023 Total Compute Solution\" (TCS23). Chris Bergey, Senior Vice President and General Manager of Arm's Client Line of Business, stated that TCS23 includes the new Arm Immortalis GPU based on the Arm fifth-generation GPU architecture,"
-    publishedDateTime: 2023-05-29T06:43:00Z
-    webUrl: "https://www.digitimes.com/news/a20230529PD207/arm-computex-2023-ic-design-distribution.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 33
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230529pd207_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Jacobs and Palantir Expand Partnership to ‘Revolutionize’ AI Solutions Across Industries"
     excerpt: "The partnership aims to harness Palantir's cutting-edge AI capabilities and revolutionize the commercialization of AI solutions across a range of sectors—including critical infrastructure, advanced facilities,"
     publishedDateTime: 2023-06-01T22:23:00Z
@@ -99,15 +66,6 @@ related:
         width: 970
         height: 464
         isCached: true
-  - title: "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
-    excerpt: "Automation Anywhere today announced it is working with Amazon Web Services (AWS) to bring intelligent automation and"
-    publishedDateTime: 2023-06-01T16:38:00Z
-    webUrl: "https://www.datanami.com/this-just-in/automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 13
 
 secured: "+/VKubG8PzWxFmvS6qhKcdDfGqRYhw5gVzWJCXmPwDvEG/Wh1gvvRQt3FL+8xRFyo+swd1y80Q7AkQcN+3XBb6Fofd/O/QDGrT2zpEaD7luvijwlK2jkLs8s2emHRPJfm0Yjdq7wK/RGgmpgESU9RvgzQIYGGe+OiH1RWK2vCkRLCINdHysMR7Au7UMrXaPSz+vGFGz4IIbGc2GMSSeDONXW79gS1GALCmlzeJ9KkP4AV1r0ktaYlmu6X0mk+Pn/HsCf0/REJPKG0Dw/ibQBlbhdim8gMgF63/mSQpY2I3afpbBdFHl8VhOQihseQHrW+SDQJsvjWPtrNeHLiiCgEGFEAyagSnJHDPvmw4Z+phs=;1+OH+BuykPXgOVefo+e7HA=="
 ---

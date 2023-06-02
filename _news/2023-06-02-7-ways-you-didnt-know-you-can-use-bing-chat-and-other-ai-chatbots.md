@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/7-ways-you-didnt-know-you-c
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/"
 type: article
 quality: 87
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Walmart showcases robots, drones, AI chatbots during shareholder week"
+    excerpt: "A robot makes hamburgers at a Sam’s Club. Robots retrieve items for order fulfillment in Bentonville. AI chatbots help Walmart merchants. Drones make deliveries in Northwest Arkansas. Highlighting such"
+    publishedDateTime: 2023-06-02T17:55:00Z
+    webUrl: "https://talkbusiness.net/2023/06/walmart-showcases-robots-drones-ai-chatbots-during-shareholder-week/"
+    type: article
+    provider:
+      name: Talk Business
+      domain: talkbusiness.net
+    quality: 54
+    images:
+      - url: "https://talkbusiness.net/wp-content/uploads/2023/06/alphabot-machine-walmart.jpg"
+        width: 1200
+        height: 626
+        isCached: true
   - title: "Lazada unveils new eCommerce AI chatbot LazzieChat"
     excerpt: "Lazada group has released LazzieChat, an eCommerce AI chatbot powered by OpenAI’s ChatGPT technology in Microsoft’s Azure OpenAI Service to provide a more personalized shopping experience to its customers."
     publishedDateTime: 2023-05-29T03:00:00Z
@@ -146,6 +160,6 @@ related:
       domain: theguardian.com
     quality: 17
 
-secured: "b6pMb6LihptVOBxCSY51H7K9s8JipDnnZtAY6PEDVuf33ky7P4ek7koFbVX+YsMdL3UQj5hCR9UrkBSsewZuOiq5+1BV1U1uwP5PBL/K2iQ8Yw5IOh4T76zYRiHEMCIiG1CmigJ9DtsqdVW2Vm8uiK/FzRChCU80PUG2WKtu/PKKD9cR3bIOLE4LxSx7UovIyyOA7tOM2VVqsYMJZWCnb9jjT6LsdaJ/HoXHpZw5yuRZfJJ0nSeyNrFnhVVvH7Z9pqODa2Ml2WwCtpPpLsV3nXJOuKC5bp5F3m4a72oWTxTEA+EWR6TDqYXNS8tJLfamC2rIwqpHg6j92dSG18rFHmLIgGecF5qZUowmeDjDQ2w=;el9tZKUODkfUcT7T6Hbhug=="
+secured: "wkwh77eGMsve0cVHpA7GodWtLyExYayfnfrMu+qbeNjiaufnMlFdbseH3Gcsjt+pcf28pchqCTe7nRcjGCmK04wAbIy6l8Dt096eA9EvIzc0RCCdG9zL6B5A8kovNmBPFMU01TULs4aLM0RmuRRUw+eNpk3fs4xpMdBwgy91bXWYWKXjM8Jcrj5etbB8lXXpBBluHTJoeOu5Fdm5C7x2ZIpuF+qFCylh/tjREwdEyJZsUV0iV+IUuAxxZvXX0aBIxTkNGdV6w+1Q6jSxlofwIgHFDg4QQ52J61Ste1vSrs8yDvRyKhOy8rAvtny8lSBgMl+Kn9a907qnpchaSeEVbudhIRWghgbZRVWasafby/7NhXYSYOHdKegz7NxPD2OU8yt7tBOPwDgly8GEvwsa23ChhaSIghc18SqCPg4qHDb2B0XvmLt0wcMMZaKfz9I9hUP8VxqW165gV/069VU6HqooX0s3Mjno9l2rIMICNa5ntmncqjulELf90YFkNbOdyXJdlu0tkwKc8W/Pvo3N8w==;jIWQeYgA4W+cuOCy+mvHCw=="
 ---
 

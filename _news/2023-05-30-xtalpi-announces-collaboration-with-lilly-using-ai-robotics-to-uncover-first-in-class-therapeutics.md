@@ -91,7 +91,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 69
+    quality: 71
   - title: "InnovationRx: The Cost Of Social Care; Plus, AI To Predict Heart Failure"
     excerpt: "The lead author is Sanjay Basu, a doctor and the cofounder of Waymark Health, a startup whose launch we profiled last year. Waymark is trying to help better coordinate care for patients on Medicaid, the government-funded health insurance for low-income ..."
     publishedDateTime: 2023-05-31T21:40:00Z
