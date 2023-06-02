@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI robot 'AI-Da' designs mugs, plates for London Design Biennale"
+    excerpt: "I do not have thoughts and feelings like humans do,\" Ai-Da said. \"But the objects mean a lot to me if they succeed in their aim, which is helping the viewer question the role of new technologies in our lives."
+    publishedDateTime: 2023-06-02T09:48:00Z
+    webUrl: "https://www.gulftoday.ae/culture/2023/06/02/ai-robot-ai-da-designs-mugs-plates-for-london-design-biennale"
+    type: article
+    provider:
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 54
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/6/2/al-robot.ashx?h=450&w=750&hash=940203BF5B297C3C645CD9EB464F7B6F"
+        width: 750
+        height: 450
+        isCached: true
 
 secured: "M2nhVMZFGEby8MGVnbTWTmZ7Jl0TS1W7L3GuJoOqas7rIawyiijQATtuCgZ7sl5v7kM1opLolgKp1Msyzc6BDQhipeJfPbx33WcqtIDDCVfSorNMPagnY9H9TsLQ/54ks8ZGyYgduch9Lhq7XaqIHV1Njkb9Xlm7njW/gDXSWLiy4QTNUnU0NcAzdDNKAAPDtkMFyDyWDiOJI0xl346TwZgX9xuJ44ymmxTbJQeRHUybAY+FTXE48ZMZ44nWXAwH1Gz8RUR5phMGegNV+5/bsTLueutQd43IaD9Fr0FV/ljGnvNWOa5TDC6Fib890zXKEKO7CZ1+02+Ng7WqgYqYXnL+KhB5kGfMa4qsVAc1TG9nhjbYqoLzN+796VxJX9SEZQc5GZfVgBl8uC36NR5vMNDvm3Wt7dWGtIXFNEF8Vp8r8Xs+P2ay2WTQW+Dpdk/eu5Szw7qtY1DbSus6vLFRjBePyuFHrBmEuih1uw+2Ro3/bzd/cioTMueelZrejlTf0hqhLSM6g7BtabZ+sy1bKw==;JNjPF9BVrTpF436DC7GZyA=="
 ---

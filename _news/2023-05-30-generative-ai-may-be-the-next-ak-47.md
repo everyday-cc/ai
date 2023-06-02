@@ -73,19 +73,21 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Google's AI Magic Compose Beta Goes Live For Select Users"
-    excerpt: "Magic Compose can initiate a chat or rewrite a message with seven different tones and styles with the help of Google Bard. The beta is being rolled out for US-based premium Google One subscribers first."
-    publishedDateTime: 2023-05-28T16:37:00Z
-    webUrl: "https://www.pcmag.com/news/googles-ai-magic-compose-beta-goes-live-for-select-users"
+  - title: "Funding for cloud-based generative AI"
+    excerpt: "Get ready for the rush of generative AI applications heading your way in 2024, but watch out for the size of the bill. Who is going to pay for it?"
+    publishedDateTime: 2023-06-02T09:04:00Z
+    webUrl: "https://www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.amp.html"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
     images:
-      - url: "https://i.pcmag.com/imagery/articles/00YXyCobqmXmK47unUvQkkC-1.fit_lim.size_1200x630.v1685291531.png"
-        width: 1120
-        height: 630
+      - url: "https://images.idgesg.net/images/article/2018/01/red-wheel-barrow_pile-of-money_high-paying-salary-100745643-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Analyzing artificial intelligence after calls for regulation"
     excerpt: "Dozens of industry leaders are calling for artificial intelligence regulation, warning it could lead to the threat of extinction."

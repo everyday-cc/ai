@@ -1,0 +1,40 @@
+---
+category: news
+title: "Amazon promo codes for June 2023"
+excerpt: "Amazon Prime is Amazon’s subscription service which gives you access to loads of great benefits. Firstly, there’s free same-day, one-day, and two-day shipping. You can also enjoy services like ..."
+publishedDateTime: 2023-06-01T14:30:00Z
+originalUrl: "https://www.pcgamer.com/coupons/amazon.com/"
+webUrl: "https://www.pcgamer.com/coupons/amazon.com/"
+type: article
+quality: 24
+heat: 24
+published: false
+
+provider:
+  name: PC Gamer
+  domain: pcgamer.com
+
+topics:
+  - AWS AI
+  - AI
+
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/kYQT2Yb9WkTYgHGhpZqEeb-1200-80.png"
+    width: 800
+    height: 450
+    isCached: true
+
+related:
+  - title: "Best Amazon deals in June 2023: Today's best sales"
+    excerpt: "Generally speaking, Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day."
+    publishedDateTime: 2023-05-31T19:33:00Z
+    webUrl: "https://www.tomsguide.com/news/best-amazon-deals"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 21
+
+secured: "J+dN703E7UyXZ1ZCDN0bldJY3UZMyz5JmRbDa7Z2aB9NDs1WqBkaCUBL7tCyX/04B8HGZdHsSk5Jh5VGsS3vTS3vHhHH6bZZGHBQl8oHWUinezd15ZmLdbsaInBAhJZ76gKxz4zLZ7XhD7ErV43aRnglSDTwNL/Ze67mlkumTLjDvnwtwLU30tZI6wIip/ENGHCyUg8TMkw5K5Oc9/eOPJk7rCbbk9YnILnFzBUsHsFMnx4VyM3MaA1sHNK7DgV/AhYErVdpBz/6J7uB/9CYTX48v6wA5/ixE2/PFWEhMsZy29uX0n4NwriBrNAv0EnKoK+WPTFKUR5iwGgU4l1Gg9DwUDjXDCNPYoP/L1PqF4U=;ith0NNbTkThSDHZIRYFk3Q=="
+---
+

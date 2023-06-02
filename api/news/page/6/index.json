@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-05-29-ai-firms-scramble-for-power-as-chip-demand-outpaces-supply.md",
+      "title": "AI Firms Scramble for Power as Chip Demand Outpaces Supply",
+      "excerpt": "AI firms are grappling with a shortage of chips that are critical to developing and improving AI systems. The shortfall of the much-needed advanced graphics processing units (GPUs",
+      "sourceUrl": null,
+      "webUrl": "https://247wallst.com/technology-3/2023/05/29/ai-firms-scramble-for-power-as-chip-demand-outpaces-supply/",
+      "originalUrl": "https://247wallst.com/technology-3/2023/05/29/ai-firms-scramble-for-power-as-chip-demand-outpaces-supply/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://247wallst.com/wp-content/uploads/2022/10/imageForEntry6-ZXZ.jpg?w=400",
+          "width": 400,
+          "height": 224,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://247wallst.com/technology-3/2023/05/29/ai-firms-scramble-for-power-as-chip-demand-outpaces-supply/amp/",
+      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2023/05/29/ai-firms-scramble-for-power-as-chip-demand-outpaces-supply/amp/",
+      "publishedDateTime": "2023-05-29T05:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "24/7 Wall St",
+        "domain": "247wallst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-29-ai-in-drug-discovery-market-is-expected-to-reach-40-billion-marketsandmarkets.md",
+      "title": "AI in Drug Discovery Market is Expected to Reach $4.0 billion | MarketsandMarkets.",
+      "excerpt": "AI (Artificial Intelligence) is poised to revolutionize the drug discovery industry in the near future, offering immense potential to accelerate and enhance the process of",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/g32613837/ai-in-drug-discovery-market-is-expected-to-reach-4-0-billion-marketsandmarkets",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/g32613837/ai-in-drug-discovery-market-is-expected-to-reach-4-0-billion-marketsandmarkets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32613837",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32613837",
+      "publishedDateTime": "2023-05-29T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-29-emerging-markets-report-the-art-of-artificial-intelligence.md",
       "title": "Emerging Markets Report: The Art of Artificial Intelligence",
       "excerpt": "An Emerging Markets Sponsored Commentary ORLANDO, Fla., May 29, 2023 (GLOBE NEWSWIRE) -- It will come as no surprise to even the most passive investor that the market is currently in a full-throated i",
@@ -151,19 +237,19 @@
     {
       "path": "_news/2023-05-29-landing-ais-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropolis.md",
       "title": "Landing AI's Visual Prompting Makes Building and Deploying Computer Vision Easy with NVIDIA Metropolis",
-      "excerpt": "Landing AI's vision technology realizes the next era of AI factory automation. LandingLens, Landing AI's flagship product platform, enables industrial solution providers and manufacturers to develop,",
+      "excerpt": "PALO ALTO, Calif., May 29, 2023 /PRNewswire/ -- Landing AI, a leading computer vision cloud company, today announced at Computex that it is using the new NVIDIA Metropolis for Factories ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/landing-ai-s-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropolis-1032355971",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/landing-ai-s-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropolis-1032355971",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/n32611926/landing-ais-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropo",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/n32611926/landing-ais-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropo",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 88,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1811961/NPN_Partner_Badge_Colored_Logo.jpg",
-          "width": 400,
-          "height": 205,
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -171,23 +257,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T22:13:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32611926",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32611926",
+      "publishedDateTime": "2023-05-28T21:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -447,17 +524,17 @@
     {
       "path": "_news/2023-05-29-arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones.md",
       "title": "Arm's New CPU, GPU Cores to Deliver Next-Gen AI Experiences on Phones",
-      "excerpt": "Arm also revealed a powerful new GPU architecture for mobile devices called ... more realistic 3D animations, and boosted AI functionality, though these will all rely on chipmakers, device makers ...",
+      "excerpt": "Arm says pairing its Armv9 Cortex-X4 compute cluster and Arm Immortalis-G720 GPU in a single package will bring powerful AI, 3D, and gaming performance to the top smartphones of 2024.",
       "sourceUrl": null,
-      "webUrl": "https://au.pcmag.com/processors/100206/arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones",
-      "originalUrl": "https://au.pcmag.com/processors/100206/arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones",
+      "webUrl": "https://www.pcmag.com/news/arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones",
+      "originalUrl": "https://www.pcmag.com/news/arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/a/arms-new-c/arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on_hsra.1200.jpg",
+          "url": "https://i.pcmag.com/imagery/articles/00n6JF7PK0qozSLHl73N4AU-1.fit_lim.size_1200x630.v1685112823.png",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -469,7 +546,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T17:31:00-07:00",
+      "publishedDateTime": "2023-05-28T17:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PC Magazine",
@@ -484,49 +561,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-arm-unveils-cortex-x4-and-immortalis-gpu-for-big-mobile-performance-and-efficiency-gains.md",
-      "title": "Arm Unveils Cortex-X4 And Immortalis GPU For Big Mobile Performance And Efficiency Gains",
-      "excerpt": "Arm is announcing its latest CPU and GPU designs, which will power future generations of smartphones, tablets, IoT devices, and even some laptops.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/reviews/arm-tcs-2023-cortex-x4-immortalis-g720",
-      "originalUrl": "https://hothardware.com/reviews/arm-tcs-2023-cortex-x4-immortalis-g720",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/article/3312/content/small_arm-tcs23-mobile-future.jpg",
-          "width": 708,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/reviews/arm-tcs-2023-cortex-x4-immortalis-g720",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/reviews/arm-tcs-2023-cortex-x4-immortalis-g720",
-      "publishedDateTime": "2023-05-28T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1139,57 +1173,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you.md",
-      "title": "Cloud Paves The Way To AI. But Understand What Your Cloud Providers Aren’t Telling You",
-      "excerpt": "That's the word from David Linthicum, chief cloud strategy officer for Deloitte Consulting and author of the just-published book, An Insider's Guide to Cloud Computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/27/cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/27/cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64721da4e3e8f6f090569955/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/27/cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/05/27/cloud-paves-the-way-to-ai-but-understand-what-your-cloud-providers-arent-telling-you/amp/",
-      "publishedDateTime": "2023-05-27T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

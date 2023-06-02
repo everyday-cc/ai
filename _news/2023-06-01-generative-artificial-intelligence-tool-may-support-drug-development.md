@@ -19,91 +19,34 @@ topics:
   - AI
 
 related:
-  - title: "CrowdStrike to Accelerate Development of AI in Cybersecurity with AWS"
-    excerpt: "CrowdStrike has said that it is working with Amazon Web Services (AWS) to develop powerful new generative AI applications that help customers accelerate their cloud, security and artificial intelligen"
-    publishedDateTime: 2023-06-01T03:34:00Z
-    webUrl: "https://www.smechannels.com/crowdstrike-to-accelerate-development-of-ai-in-cybersecurity-with-aws/"
+  - title: "Generative AI has a Digital Blackface problem"
+    excerpt: "Generative AI has let brands like Levi's create digital BIPOC models for cheap. Advertisers now weigh how to use AI without cutting out BIPOC talent."
+    publishedDateTime: 2023-06-02T09:01:00Z
+    webUrl: "https://www.businessinsider.com/generative-ai-stokes-digital-blackface-accusations-advertisers-adjust-2023-6"
     type: article
     provider:
-      name: NETGEAR
-      domain: smechannels.com
-    quality: 54
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://i0.wp.com/www.smechannels.com/wp-content/uploads/2023/06/Raj-Rajamani.jpg?fit=610%2C349&ssl=1"
-        width: 610
-        height: 349
-        isCached: true
-  - title: "CrowdStrike to accelerate development of AI in cyber-security with AWS"
-    excerpt: "These include both cyber-security-related generative AI applications, as well as cloud-plus-cloud security solutions."
-    publishedDateTime: 2023-06-01T13:07:00Z
-    webUrl: "https://www.voicendata.com/crowdstrike-to-accelerate-development-of-ai-in-cyber-security-with-aws/"
-    type: article
-    provider:
-      name: Voicendata.com
-      domain: voicendata.com
-    quality: 51
-  - title: "CrowdStrike debuts generative AI cybersecurity chatbot and new AWS integrations"
-    excerpt: "CrowdStrike Holdings Inc. is rolling out new capabilities that will help companies more effectively respond to breach attempts. The first set of features, a collection of integrations for Amazon Web Services Inc."
-    publishedDateTime: 2023-05-31T21:19:00Z
-    webUrl: "https://siliconangle.com/2023/05/31/crowdstrike-debuts-generative-ai-cybersecurity-chatbot-new-aws-integrations/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 50
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/crowdstrike.png"
-        width: 718
-        height: 400
-        isCached: true
-  - title: "Michael Saylor on how Bitcoin and artificial intelligence together can combat cybersecurity"
-    excerpt: "In a recent interview with Kitco News, Michael Saylor, executive chairman, MicroStrategy, mentioned that Bitcoin might help in cybersecurity if collaborated with artificial intelligence, such as deepfake, stated Cointelegraph."
-    publishedDateTime: 2023-05-29T05:39:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-michael-saylor-on-how-bitcoin-and-artificial-intelligence-together-can-combat-cybersecurity-3105526/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-michael-saylor-on-how-bitcoin-and-artificial-intelligence-together-can-combat-cybersecurity-3105526/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-michael-saylor-on-how-bitcoin-and-artificial-intelligence-together-can-combat-cybersecurity-3105526/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 49
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/Image-credit-Freepik172.jpg"
+      - url: "https://i.insider.com/647908c6085acb0018ff3f1c?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Insider Q&A: Artificial intelligence and cybersecurity in military tech"
-    excerpt: "Lospinoso recently told a Senate Armed Services subcommittee how artificial intelligence can help protect military operations. The CEO/programmer discussed the subject with The Associated Press as well how software vulnerabilities in weapons systems are a major threat to the U.S. military. The interview has been edited for clarity and length."
-    publishedDateTime: 2023-05-29T17:43:00Z
-    webUrl: "https://www.click2houston.com/news/2023/05/23/insider-qa-artificial-intelligence-and-cybersecurity-in-military-tech/"
+  - title: "Pega adds generative AI to Infinity 23"
+    excerpt: "Pega is introducing twenty new generative AI capabilities to its Infinity 23 platform. The capabilities should provide faster decision and workflow"
+    publishedDateTime: 2023-05-30T10:09:00Z
+    webUrl: "https://www.techzine.eu/news/applications/106607/pega-adds-generative-ai-to-infinity-23/"
     type: article
     provider:
-      name: Click2Houston
-      domain: click2houston.com
+      name: techzine
+      domain: techzine.eu
     quality: 39
     images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/PWGTWQ3HTBFCXHPY2CQETHQSJE.jpg?_a=ATCqVhC0"
-        width: 700
-        height: 467
+      - url: "https://www.techzine.eu/wp-content/uploads/2020/05/Pega.jpg"
+        width: 1500
+        height: 1000
         isCached: true
-  - title: "CrowdStrike to Accelerate Development of AI in Cybersecurity with AWS"
-    excerpt: "CrowdStrike is leveraging new generative AI capabilities of Amazon Bedrock, a fully managed service that makes foundation models (FMs) from leading AI startups and Amazon available via an API, to help customers adopt advanced Falcon Platform search,"
-    publishedDateTime: 2023-05-31T13:36:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/31/9823444.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-  - title: "Insider Q&A: Artificial intelligence and cybersecurity in military tech"
-    excerpt: "Josh Lospinoso’s first cybersecurity startup was acquired in 2017 by Raytheon/Forcepoint.. His second, Shift5, works with the U.S. military, rail operators and airlines including JetBlue. A 2009 West Point grad and Rhodes Scholar,"
-    publishedDateTime: 2023-05-29T16:11:00Z
-    webUrl: "https://www.chron.com/business/article/insider-q-a-artificial-intelligence-and-18124215.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 17
 
 secured: "FnAdDJFM5xXBuAWdRWOVVppy4/ntH1ajxlBJSCZMlGgnl+2Y/IGSVZ2L8pFOrT4OhCJBDbsLOXcvX1948jg0oE0diTPN9PHO7TGr07fT4he7C6gS1RHFFM3hchQsM91PxgGTCKMvILM8FrFARC6IueXH4wgv0fNt+U6lo7GD216VI/W2BdcPobkalrQC34csMyhV7DEVmGkVcwRL7Q+hukfV2M5kReyw0TXajxl8guNaPTK0U/nlWzvGzYJQn27UUd9wOYzHVEOzgcwPm4+nBvh+tR2y4CKu8ELHhHdVrx02nFNPUklVgMuxANLqM2SEg4tKEzHTP1V0Lfuo62RRmwTryPmymjwb1AZGo79CkgPciXg23quCutB+fX+u2lf3GXzgdYwbvIvl/Uoa4+WvppWPMCV8h9uZleU8s0S1URcY3bQC/Bs6v/MIpBTxORQrqA6Wv9QAmQD0yNXdrempLnqLzV68tk7Ozvb+G/1FqA547vbCu0CHL1MPu2WuDo84JXkGgakfXLETq1q+8v/euQ==;RmPmpdeS7AZkAKs+Nc1JIg=="
 ---

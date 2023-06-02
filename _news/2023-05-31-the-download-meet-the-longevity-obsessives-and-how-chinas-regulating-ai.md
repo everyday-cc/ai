@@ -7,7 +7,7 @@ originalUrl: "https://www.technologyreview.com/2023/05/31/1073768/the-download-m
 webUrl: "https://www.technologyreview.com/2023/05/31/1073768/the-download-meet-the-longevity-obsessives-and-how-chinas-regulating-ai/"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "The Download: how to talk about AI, and Montana’s TikTok ban"
-    excerpt: "US policymakers have been scrutinizing the app intensely in recent months over concerns about Chinese espionage, and under the new changes, marketplaces like Google Play and Apple’s App Store could face fines of $10,000 per day if they make TikTok available to users in Montana from 1 January next year."
-    publishedDateTime: 2023-05-30T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/30/1073683/the-download-how-to-talk-about-ai-and-montanas-tiktok-ban/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
 
 secured: "ScgK0Tl1xhayLVtcimm95bU6JlhzGhxs6ebwI3D8f7P+fmi7FkZpdEbUS9MSQb14peXxUFdvJU7JiM4Fuujgz8WpNRY82pNirGr/R2Rslt3cbsa7mG1zwVZ7dY4Ghr3YwcSBk3IuCa/RP7opNLc7vanq6eSh1zNPmAMfCkveUiGKtSzJivWZ/L4nZYO9R29gGk6T+qxciOkegy8PxCgDgm3WbFv4CxYbTxYpPSvO4X7AoazaHRZ/lAGzCcZDWJIbN/5G/PyvxTD2cbAC49MAPUsY/RwjFr5dELgSeg2ccHmVfR26C7gTZK0CWPKHvxH1Sv+lvOCylZTnTEfXjITzBJslEfXpWA8B9swC8QKxx04zz+q6xJRi3inYSJClGEpEwARX4+IGZBODiOXeT4BAqcuXT5TeGEppzf4yTzeZj9Rj7OGalHRsNfznW78i9bMfK2HQbYTZi5j5hNR2PCE/4+GVwBYHBEVWRNFUTk29CIyTHYM9NtG1KsnXqeh+/cKlDHUE8DHG+E93MJlGf7UqRg==;whf8D3jRj1f5ny5XUy8Ejw=="
 ---

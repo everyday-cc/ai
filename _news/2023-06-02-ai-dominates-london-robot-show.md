@@ -41,6 +41,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "AI robot 'AI-Da' designs mugs, plates for London Design Biennale"
+    excerpt: "I do not have thoughts and feelings like humans do,\" Ai-Da said. \"But the objects mean a lot to me if they succeed in their aim, which is helping the viewer question the role of new technologies in our lives."
+    publishedDateTime: 2023-06-02T09:48:00Z
+    webUrl: "https://www.gulftoday.ae/culture/2023/06/02/ai-robot-ai-da-designs-mugs-plates-for-london-design-biennale"
+    type: article
+    provider:
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 54
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/6/2/al-robot.ashx?h=450&w=750&hash=940203BF5B297C3C645CD9EB464F7B6F"
+        width: 750
+        height: 450
+        isCached: true
   - title: "Robotics and automation dialogue in London takes off with new conference"
     excerpt: "Secretary of State for Science, Innovation and Technology, Chloe Smith, spoke at Conference on Robotics and Automation held in London"
     publishedDateTime: 2023-06-01T10:19:00Z

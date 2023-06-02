@@ -29,15 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "From Gaming Guru to AI Game-Changer: How Nvidia Reinvented Itself"
-    excerpt: "Nvidia was all about gaming. Sure, the Nvidia Tesla high-performance computing card had been available since May 2012 and the third-generation model was just around the corner. But that was just a sideshow in 2013,"
-    publishedDateTime: 2023-05-28T15:19:00Z
-    webUrl: "https://www.nasdaq.com/articles/from-gaming-guru-to-ai-game-changer:-how-nvidia-reinvented-itself"
+  - title: "Nvidia to build Israel's most potent AI supercomputer"
+    excerpt: "Nvidia is investing hundreds of millions in building Israel's strongest AI supercomputer, Israel-1, promising breakthroughs in AI applications."
+    publishedDateTime: 2023-05-29T17:36:00Z
+    webUrl: "https://interestingengineering.com/innovation/nvidia-to-build-israels-most-potent-ai-supercomputer"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/29/image/jpeg/jEpzwifYF4BB69ZwTB9uBNJSgOcgWayWXzWHUEZr.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "5 AI Scenarios as Nvidia Gains 2 'Intels' of Market Cap in a Week"
     excerpt: "Just how transformational artificial intelligence will be is unknown, but there will be winners and losers in the space."
     publishedDateTime: 2023-05-30T15:01:00Z

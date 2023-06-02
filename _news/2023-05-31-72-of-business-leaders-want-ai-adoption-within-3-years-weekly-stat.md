@@ -69,19 +69,19 @@ related:
         width: 1200
         height: 680
         isCached: true
-  - title: "16 Jobs That Will Disappear in the Future Due to AI"
-    excerpt: "In this article, we will take a look at the 16 jobs that will disappear in the future due to AI. To see more such jobs, go directly to 5 Jobs That Will Disappear in the Future Due to AI. By now you must have heard or read about how AI-powered bots are coming for millions of jobs."
-    publishedDateTime: 2023-05-28T16:43:00Z
-    webUrl: "https://www.insidermonkey.com/blog/16-jobs-that-will-disappear-in-the-future-due-to-ai-1155140/"
+  - title: "Asus rents businesses AI servers"
+    excerpt: "Fixes security worries on cloud Taiwan's Asus plans to introduce a rental business AI server that will operate on-site to address security concerns and data control issues from cloud-based AI systems."
+    publishedDateTime: 2023-06-02T09:47:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57016-asus-rents-businesses-ai-servers"
     type: article
     provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
+      name: Fudzilla
+      domain: fudzilla.com
     quality: 39
     images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/05/28122331/arno-senoner-IvnWhkmpKvk-unsplash.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://www.fudzilla.com/media/k2/items/cache/5193e407ef1abf82eaf13b9d85bed0eb_L.jpg"
+        width: 620
+        height: 467
         isCached: true
 
 secured: "FqsYhwrRPSqdgScoHI7PzdeN4tfKC90pvgECtIz/Yge7BIpR65jORwGxeNJG/PKlnxL//NEyL7KV1gHKXvcKrmVMItUJU8mO7K7o07D56FyJhP7YOtMLHX2zzbUSkAKRkLu+9KlC/z8dSfnH/LHdmFIkPvjNGOxh/FFPPOrxKZyW6G8IREbygXwf812kp0kylq6hGfDGTmgi9O43B/JuPXiRGymmwK5pdF7E+ccD0433PqPpCTHsqRRFOuBEw3e04YfCXqJjfJqVltoBclsOJFb24WSJVPuJwb3mEY6s0r/rcmb9NXTB0QwKq71HV/HUv21itStyDmsE243TB8+K90Fmz8u4X4yHquQAgf0yMMlmu8SrDrSCWwnyQ1HMBYKkAUFtYfagEYWGHmYwUBlJ3Yb5lTZZFcZcVfqwZqZrjniyQaPGAWA1klFi99tb9ku26R3eKPGOLTFEt73a99JLxuI5xae0lF7okRzo5HduR62rNeQrIuotegKi+50awQ+uTLl404suIThI/Qkv1CW0Vg==;xVf+U/zKglPL0TXyAktbmA=="

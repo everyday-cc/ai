@@ -32,6 +32,22 @@ related:
         width: 1199
         height: 582
         isCached: true
+  - title: "Nvidia is building Israel’s most powerful supercomputer for AI applications"
+    excerpt: "The system, called Israel-1, is expected to deliver performance of up to eight exaflops of AI computing that will essentially make it one of the world"
+    publishedDateTime: 2023-05-30T10:41:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/articleshow/100621717.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/amp_articleshow/100621717.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/amp_articleshow/100621717.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://static.toiimg.com/photo/msid-100621670/100621670.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Nvidia reveals generative AI NPCs that can dream up their own dialogue"
     excerpt: "A new piece of software, Nvidia Ace, was introduced at the Computex Keynote. The software will allow game developers to implement AI NPCs into their worlds."
     publishedDateTime: 2023-05-29T08:47:00Z
@@ -46,15 +62,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "GIGABYTE's AI Servers with Superchips Shine at COMPUTEX, Redefining a New Era of Computing"
-    excerpt: "Win Big with AI through GIGABYTE's Pioneering GPU/HPC Servers. GIGABYTE and its subsidiary, Giga Computing, are introducing unparalleled AI/HPC server lineups, leading the era of"
-    publishedDateTime: 2023-05-29T10:43:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/29/9822184.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
   - title: "AI is about to significantly change your computer: HP CEO"
     excerpt: "CEO Enrique Lores says consumers and businesses are poised to see big changes to their computers within 24 months due to new advances in artificial intelligence. \"What we are working on is to build AI capabilities into the PC,"
     publishedDateTime: 2023-05-31T12:14:00Z

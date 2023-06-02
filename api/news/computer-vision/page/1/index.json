@@ -48,19 +48,19 @@
     {
       "path": "_news/2023-05-29-landing-ais-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropolis.md",
       "title": "Landing AI's Visual Prompting Makes Building and Deploying Computer Vision Easy with NVIDIA Metropolis",
-      "excerpt": "Landing AI's vision technology realizes the next era of AI factory automation. LandingLens, Landing AI's flagship product platform, enables industrial solution providers and manufacturers to develop,",
+      "excerpt": "PALO ALTO, Calif., May 29, 2023 /PRNewswire/ -- Landing AI, a leading computer vision cloud company, today announced at Computex that it is using the new NVIDIA Metropolis for Factories ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/landing-ai-s-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropolis-1032355971",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/landing-ai-s-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropolis-1032355971",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/n32611926/landing-ais-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropo",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/n32611926/landing-ais-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropo",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 88,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1811961/NPN_Partner_Badge_Colored_Logo.jpg",
-          "width": 400,
-          "height": 205,
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -68,23 +68,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T22:13:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32611926",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32611926",
+      "publishedDateTime": "2023-05-28T21:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -127,6 +118,49 @@
       "provider": {
         "name": "Honolulu Star-Advertiser",
         "domain": "staradvertiser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-internship-computer-vision-for-highway-inspection.md",
+      "title": "Internship | Computer vision for highway inspection",
+      "excerpt": "The Intelligent Imaging department at TNO works on a large variety of computer vision solutions in the field of inspection. One of these projects is the automated inspection of the Dutch highways, where our algorithms are used to monitor the state of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tno.nl/en/careers/vacancies/2023/05/internship-computer-vision-highway/",
+      "originalUrl": "https://www.tno.nl/en/careers/vacancies/2023/05/internship-computer-vision-highway/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tno.nl/publish/library/18/hoofdafbeelding_tno_als_werkgever_1.jpg",
+          "width": 1920,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-26T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TNO",
+        "domain": "www.tno.nl",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1311,58 +1345,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-15-2023-computer-vision-system-market-research-report-analysis-by-2030.md",
-      "title": "2023, Computer Vision System Market Research Report Analysis by 2030",
-      "excerpt": "Computer Vision System Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-research-report-analysis-by-2030-2023-05-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-research-report-analysis-by-2030-2023-05-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-14T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

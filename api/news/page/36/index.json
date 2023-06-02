@@ -2,6 +2,83 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-05-10-ai-will-create-a-serious-number-of-losers-warns-deepmind-co-founder.md",
+      "title": "AI will create ‘a serious number of losers’, warns DeepMind co-founder",
+      "excerpt": "Advances in artificial intelligence will threaten white-collar workers and create “a serious number of losers” over the next decade, according to one of the co-founders of AI lab DeepMind who has pioneered the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/0c105d93-e017-470d-8653-a2a30fd720b2?shareType=nongift",
+      "originalUrl": "https://www.ft.com/content/0c105d93-e017-470d-8653-a2a30fd720b2?shareType=nongift",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-09T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-10-ibm-announces-ai-platform-watsonx-to-help-businesses.md",
+      "title": "IBM announces AI platform watsonx to help businesses",
+      "excerpt": "clients can quickly train and deploy custom AI capabilities across their entire business, all while retaining full control of their data.\" More than a decade ago, IBM introduced Watson ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/ibm-announces-ai-platform-watsonx-businesses",
+      "originalUrl": "https://www.foxbusiness.com/technology/ibm-announces-ai-platform-watsonx-businesses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/05/0/0/IBM.jpg?ve=1&tl=1",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/ibm-announces-ai-platform-watsonx-businesses",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/ibm-announces-ai-platform-watsonx-businesses",
+      "publishedDateTime": "2023-05-09T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-a-robot-with-artificial-intelligence-self-terminated-after-15-minutes-of-manual-labor.md",
       "title": "A robot with artificial intelligence “self-terminated” after 15 minutes of manual labor.",
       "excerpt": "During a dayslong trade show, a prototype robot fell a few times while demonstrating its ability to move boxes in a warehouse setting. The manufacturing company, Agility Robotics, said the falls did not mean the robot consciously decided to stop working.",
@@ -1091,102 +1168,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-ai-wrote-95-percent-of-this-murder-mystery.md",
-      "title": "AI Wrote 95 Percent of This Murder Mystery",
-      "excerpt": "Stephen Marche composed 'Death of an Author' using three AI tools, under the shared pen name Aidan Marchine. Here’s a look at the result.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/death-of-an-author-ai-book-excerpt/",
-      "originalUrl": "https://www.wired.com/story/death-of-an-author-ai-book-excerpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6459890a40f1b0ff5784445b/master/pass/Death-of-An-Author-AI-Culture-1337018866.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/death-of-an-author-ai-book-excerpt/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/death-of-an-author-ai-book-excerpt/amp",
-      "publishedDateTime": "2023-05-09T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-businesses-in-south-jersey-and-around-the-country-utilize-robots-ai-to-help-customers.md",
-      "title": "Businesses in South Jersey and around the country utilize robots, AI to help customers",
-      "excerpt": "Robots and AI technology assist us in our every day lives. How about Siri, Apple’s virtual assistant, and Alexa, Amazon’s cloud-based voice service? Or AI assistants at stores that help you shop?",
-      "sourceUrl": null,
-      "webUrl": "https://www.courierpostonline.com/story/news/local/2023/05/09/artificial-intelligence-robots-help-customers-south-jersey/70075803007/",
-      "originalUrl": "https://www.courierpostonline.com/story/news/local/2023/05/09/artificial-intelligence-robots-help-customers-south-jersey/70075803007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2023/04/28/PCHH/8457e6e3-ba72-4462-98e7-341ba35b7220-Robotsmashburger.jpg?auto=webp&crop=1511,850,x0,y403&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courier-Post",
-        "domain": "courierpostonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,101 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-05-17-exec-at-baidu-backed-ev-company-charged-with-stealing-apples-self-driving-car-tech.md",
+      "title": "Exec at Baidu-backed EV company charged with stealing Apple’s self-driving car tech",
+      "excerpt": "A former Apple engineer and the executive at an electric vehicle startup owned by the Chinese tech giant Baidu has been charged with stealing Apple’s self-driving technology, as reported earlier ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/5/17/23726769/apple-baidu-self-driving-trade-secrets-stolen",
+      "originalUrl": "https://www.theverge.com/2023/5/17/23726769/apple-baidu-self-driving-trade-secrets-stolen",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/x2E5qk82ChtE9vZvW1p2duIOnxA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24401980/STK071_ACastro_apple_0003.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-17T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-17-las-vegas-airport-testing-facial-recognition-to-screen-passengers.md",
+      "title": "Las Vegas airport testing facial recognition to screen passengers",
+      "excerpt": "The TSA says the security program is voluntary and accurate, but critics have raised concerns about bias in facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reviewjournal.com/business/las-vegas-airport-testing-facial-recognition-to-screen-passengers-2777726/",
+      "originalUrl": "https://www.reviewjournal.com/business/las-vegas-airport-testing-facial-recognition-to-screen-passengers-2777726/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reviewjournal.com/wp-content/uploads/2023/05/17778613_web1_AP23116691165190.jpg?w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.reviewjournal.com/business/las-vegas-airport-testing-facial-recognition-to-screen-passengers-2777726/amp/",
+      "cdnAmpWebUrl": "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/las-vegas-airport-testing-facial-recognition-to-screen-passengers-2777726/amp/",
+      "publishedDateTime": "2023-05-17T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Las Vegas Review-Journal",
+        "domain": "reviewjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-17-healthcare-bi-market-size-share-trends-analysis-report-2029-aimr.md",
       "title": "Healthcare BI Market Size, Share & Trends Analysis Report 2029| AIMR",
       "excerpt": "Moreover, the emergence of big data analytics, artificial intelligence, and machine learning technologies in healthcare is expected to drive the growth of this market in the future. Opportunities and Threats in Healthcare BI Market The Healthcare BI Market ...",
@@ -1125,94 +1220,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-the-case-for-a-code-of-conduct-for-ai-in-healthcare.md",
-      "title": "The case for a code of conduct for AI in healthcare",
-      "excerpt": "The rise of generative AI has prompted an AI ethicist to propose a framework to mitigate the risks of using the ever-developing tech in the healthcare space. This coincides with the chief executive of ChatGPT’s OpenAI urging US legislators to start regulating AI for the safety of humanity.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/",
-      "originalUrl": "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/4f3d9da/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F14%2Fd0%2F9be4e9844471ab60db09eb3130d5%2Fdepositphotos-198133002-l.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/case-code-of-conduct-ai-healthcare/?amp=true",
-      "publishedDateTime": "2023-05-17T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision.md",
-      "title": "Future of AI in e-commerce: Transforming data with ML and computer vision",
-      "excerpt": "While a lot has been discussedin areas of face recognition, graphical capabilities, some of the following use cases in e-Commerce can greatly benefit from computer vision, image processing. As a customer you want to know the best offers on your favourite ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/",
-      "originalUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/future-of-ai-in-e-commerce-transforming-data-with-ml-and-computer-vision/amp/",
-      "publishedDateTime": "2023-05-16T23:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

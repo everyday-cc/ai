@@ -23,6 +23,17 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "We have bigger worries than AI"
+    excerpt: "Now, all of a sudden, we’re told that artificial intelligence is a growing menace that should be considered as potentially dangerous as nuclear weapons, climate change, gun deaths or even the mind of Marjorie Taylor Greene."
+    publishedDateTime: 2023-06-02T09:38:00Z
+    webUrl: "https://lasvegassun.com/news/2023/jun/02/we-have-bigger-worries-than-ai/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 19
+
 secured: "zEp0jjw3IhqXRmlLPlpEVjQQbWLpniS4fPJ1hn3fqHYrsjW2CM+X78W9C4rNUv5ixo7mPPb+/fdsiIwP1l+L+hqfWOmpKJtnvozLRyOhUbS1i1EjyhGm9FCCwcqhHRZChItFcZ7loWatxO6q36XAnBI6DkeSKvanlnVhsMP6lJaghGDK+RkU26w4keZ8//XtKLLiEuMMy99T0Yh0uoLJyrGYz0XXio2tuIiUdyBq46+8O3dPErZmuDlt2Qk8Qy+bv7YJ3ACrN6rMQtuhI7mY9WwAX0DMNTzeurhLVB/4hrR7WoWyDqESUlDKJeuBPqQRk8OBihOkeCC9+BziDS4XsxwUevJ+J4BWXYi+RJofdUI=;vnAtnx1QX70iPG6+umv8Ng=="
 ---
 

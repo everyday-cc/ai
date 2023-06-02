@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 680
         isCached: true
-  - title: "16 Jobs That Will Disappear in the Future Due to AI"
-    excerpt: "In this article, we will take a look at the 16 jobs that will disappear in the future due to AI. To see more such jobs, go directly to 5 Jobs That Will Disappear in the Future Due to AI. By now you must have heard or read about how AI-powered bots are coming for millions of jobs."
-    publishedDateTime: 2023-05-28T16:43:00Z
-    webUrl: "https://www.insidermonkey.com/blog/16-jobs-that-will-disappear-in-the-future-due-to-ai-1155140/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 39
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/05/28122331/arno-senoner-IvnWhkmpKvk-unsplash.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "72% of Business Leaders Want AI Adoption Within 3 Years: Weekly Stat"
     excerpt: "New data suggests that leaders are highly interested in AI but must plan around the risks associated with adoption."
     publishedDateTime: 2023-05-31T14:57:00Z
@@ -86,6 +72,20 @@ related:
       - url: "https://assets.cfo.com/images/Zz04NThhNjkwYWZmMWExMWVkYWJlZjQ2M2Q1ZDg4MWJmZg==?width=1200"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Asus rents businesses AI servers"
+    excerpt: "Fixes security worries on cloud Taiwan's Asus plans to introduce a rental business AI server that will operate on-site to address security concerns and data control issues from cloud-based AI systems."
+    publishedDateTime: 2023-06-02T09:47:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57016-asus-rents-businesses-ai-servers"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/5193e407ef1abf82eaf13b9d85bed0eb_L.jpg"
+        width: 620
+        height: 467
         isCached: true
 
 secured: "ZeiIRVvaYGO+pMtTrlZucN15pNm94SH/VCr6aCbVYgHMqkq9vLIhHbAlr4dF9UQmR2/KOmzAIoJ3wXMYqfinjApbuMSN38FTomff4AK4OKitxR60Tcsw4/cFmfLNdtpfYaxnylNU7F37SDF7q5MPsZ2BHG5QC5CO3tIp7XyENHRzmT48B+nkxvZWxEO9UMDmCae9crKc5d3Mh9Se8rTuv1OcRpmo0l16CBoBjmB80gOh4MFvTpm64ObZrU0CyCjgomn/RHo6xslHZRBsFpR2+mgr2BYBwtwtc5TNKVp6YyWDIdf8/H/M8MEtPBdPUDFvhPIjGSxcvfHw4osTx4O4jL1oSzrNO/ULgY7w8aS6d/FoOMtWaUklv8Bu6EurCMe+WFeL7GkHjDCcPUepGkEzIBDW03JcH8zHv2k5BqCGN3Gqgodf6xwdaeWw7I6Zl7aJd5r2h4/VursEZtyy5/CewaQHrbhkjgkuv4evz7P0wWykoMH628TVSbktEw/n9WBuRgmNMQdex3/q58Gy/HJwnw==;T7lP1lZ6PqejcYmMSv7Z0A=="

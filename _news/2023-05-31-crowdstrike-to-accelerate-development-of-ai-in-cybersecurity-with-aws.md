@@ -86,15 +86,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Generative Artificial Intelligence Tool May Support Drug Development"
-    excerpt: "Researchers at Ohio State University have developed a generative AI framework that may help accelerate drug design and development."
-    publishedDateTime: 2023-05-31T18:02:00Z
-    webUrl: "https://healthitanalytics.com/news/generative-artificial-intelligence-tool-may-support-drug-development"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
   - title: "Insider Q&A: Artificial intelligence and cybersecurity in military tech"
     excerpt: "Josh Lospinoso’s first cybersecurity startup was acquired in 2017 by Raytheon/Forcepoint.. His second, Shift5, works with the U.S. military, rail operators and airlines including JetBlue. A 2009 West Point grad and Rhodes Scholar,"
     publishedDateTime: 2023-05-29T16:11:00Z

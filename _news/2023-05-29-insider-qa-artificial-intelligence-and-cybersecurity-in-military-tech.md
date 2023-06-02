@@ -94,15 +94,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
-  - title: "Generative Artificial Intelligence Tool May Support Drug Development"
-    excerpt: "Researchers at Ohio State University have developed a generative AI framework that may help accelerate drug design and development."
-    publishedDateTime: 2023-05-31T18:02:00Z
-    webUrl: "https://healthitanalytics.com/news/generative-artificial-intelligence-tool-may-support-drug-development"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
 
 secured: "e0zy7RJlTNfFs8DpvELREBh1NFiw6Z7HMPyuUL64JlzqVPb+Gm6ruZ7QK+VKJrPgqYNjMfZqTH/OOnfOtCjIJGJ9l6iMik4MFANdXtItHWA6b2G9xKPeulc8Q28C/ozRpoOI/62PDQZwCf7v92IoCW37XyuhjmggblteQh08dKBGZwLc+EUjSWzCkaCJ1I/1mBf7fhJ2HfHQDz7YYdGGxWEgjrYNppXgrvPm+Sg6yNwILTd0LAS6MFm9QsXurkqafxl8AZAZYPk4gfw+eJ/FnX7xGSSw6aje9+N6DW9QWB+GB/TotWixgDZ34vBoXmWTM3m3nset/6VbN9+zlqhSjp2QckFfcjp0Gni9zsBPKjBdyhzbBwjzp6bxJ6AL74CFtSny8bOwzrHGa/r9+HhSYdR09S4fyPmCo36c6h+CnzSFin7FyW6PaaSqQDpkD9WyqLcH2fmKd6Qn8/rOxUPORGdm2/sKHwZcYV0Pi+yTlgdI0DatnSpQHdCCJOAi/mZVh8i77O3z62sQOIojriJuCA==;k6kaUcwFWqhfl0HzR4A+LQ=="
 ---

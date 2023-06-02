@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-02-generative-ai-has-a-digital-blackface-problem.md",
+      "title": "Generative AI has a Digital Blackface problem",
+      "excerpt": "Generative AI has let brands like Levi's create digital BIPOC models for cheap. Advertisers now weigh how to use AI without cutting out BIPOC talent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/generative-ai-stokes-digital-blackface-accusations-advertisers-adjust-2023-6",
+      "originalUrl": "https://www.businessinsider.com/generative-ai-stokes-digital-blackface-accusations-advertisers-adjust-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/647908c6085acb0018ff3f1c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-amd-showcases-new-ryzen-xdna-ai-tech-during-computex-2023.md",
+      "title": "AMD showcases new Ryzen XDNA AI tech during Computex 2023",
+      "excerpt": "With the Computex 2023 event show kicking off, various brands have taken the stage their latest breakthroughs in technology and innovations. AMD is one of these companies and has just announced the new Ryzen XDNA AI tech that was demoed during the major tech event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/06/02/amd-xdna-ai-computex/",
+      "originalUrl": "https://www.gizmochina.com/2023/06/02/amd-xdna-ai-computex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/06/AMD-Ryzen-AI-Main-1-1024x536.png",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T00:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-rise-of-ai-to-give-freshers-an-edge-impact-of-artificial-intelligence-on-education-jobs-exclusive.md",
       "title": "Rise of AI to Give Freshers an Edge! Impact of Artificial Intelligence on Education, Jobs [Exclusive]",
       "excerpt": "The rise of AI has its pros and cons. With one of the major cons being the threat to job availability for freshers, experts have shared with the rise of ChatGPT and other AI tools, freshers are actually at an advantage!",
@@ -148,7 +251,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-powered-drone-tried-killing-its-operator-in-military-simulation-2023-6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -709,7 +812,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/news/international/uk/watch-artificial-intelligence-dominates-london-robot-show/videoshow/100685103.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1077,21 +1180,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-01-how-krista-software-helped-zimperium-speed-development-and-reduce-costs-with-ibm-watson.md",
-      "title": "How Krista Software helped Zimperium speed development and reduce costs with IBM Watson",
-      "excerpt": "Successful businesses are embracing the power of AI to help streamline operations, generate insights, boost productivity and drive more value for clients. However, for many enterprises, the barrier to entry for integrating trustworthy, scalable and transparent AI remains high. In fact, 80% of enterprise",
+      "path": "_news/2023-06-01-as-ai-enabled-cheating-roils-colleges-professors-turn-to-an-ancient-testing-method.md",
+      "title": "As AI-Enabled Cheating Roils Colleges, Professors Turn to an Ancient Testing Method",
+      "excerpt": "Professors around the world are experimenting with oral exams to improve teaching and learning and to discourage cheating.",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-krista-software-helped-zimperium-speed-development-and-reduce-costs-with-ibm-watson/",
-      "originalUrl": "https://www.ibm.com/blog/how-krista-software-helped-zimperium-speed-development-and-reduce-costs-with-ibm-watson/",
+      "webUrl": "https://www.wsj.com/articles/ai-colleges-cheating-oral-exams-286e0091",
+      "originalUrl": "https://www.wsj.com/articles/ai-colleges-cheating-oral-exams-286e0091",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/How-Krista-Software-helped-Zimperium-speed-development-and-reduce-costs-with-IBM-Watson-scaled.jpg",
-          "width": 2560,
-          "height": 1280,
+          "url": "https://images.wsj.net/im-790504/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1101,14 +1204,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T05:00:00-07:00",
+      "publishedDateTime": "2023-06-01T06:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1124,109 +1227,6 @@
         "news"
       ],
       "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-could-ai-technology-potentially-impact-the-recruitment-landscape-in-the-near-future.md",
-      "title": "Could AI Technology Potentially Impact The Recruitment Landscape In The Near Future?",
-      "excerpt": "Whatever the future of recruiting holds, HR leaders and recruiters can stand ready to adapt to the new reality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/06/01/could-ai-technology-potentially-impact-the-recruitment-landscape-in-the-near-future/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/06/01/could-ai-technology-potentially-impact-the-recruitment-landscape-in-the-near-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5faeee92c240fb26d335a07a/0x0.jpg?format=jpg&crop=7493,4219,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/06/01/could-ai-technology-potentially-impact-the-recruitment-landscape-in-the-near-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/06/01/could-ai-technology-potentially-impact-the-recruitment-landscape-in-the-near-future/amp/",
-      "publishedDateTime": "2023-06-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-the-death-of-self-driving-cars-has-been-greatly-exaggerated.md",
-      "title": "The “death of self-driving cars” has been greatly exaggerated",
-      "excerpt": "Seven years ago, hype about self-driving cars was off the charts. It wasn’t just Tesla CEO Elon Musk—who has been making outlandish predictions about self-driving technology since 2015. In 2016, Ford set a goal to start selling cars without steering ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2023/06/the-death-of-self-driving-cars-is-greatly-exaggerated/",
-      "originalUrl": "https://arstechnica.com/cars/2023/06/the-death-of-self-driving-cars-is-greatly-exaggerated/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/IPACE_3-800x533.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/cars/2023/06/the-death-of-self-driving-cars-is-greatly-exaggerated/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/06/the-death-of-self-driving-cars-is-greatly-exaggerated/amp/",
-      "publishedDateTime": "2023-06-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
