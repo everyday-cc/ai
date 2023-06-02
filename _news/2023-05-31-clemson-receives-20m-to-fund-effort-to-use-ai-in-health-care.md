@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Hyro Raises $20M for Conversational AI Assistant Used by Intermountain, Novant & More"
+    excerpt: "Hyro — a New York-based startup selling a conversational AI platform for providers — recently closed a $20 million Series B funding round. The platform is \"mostly plug-and-play\" and requires minimal effort and resources from providers,"
+    publishedDateTime: 2023-06-02T19:34:00Z
+    webUrl: "https://medcitynews.com/2023/06/ai-language-healthcare-technology/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 30
+    images:
+      - url: "https://medcitynews.com/uploads/2023/05/75.png"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "/EsrxysfMOXjISaD7ysJwwfRE4oqq3xqxg3gISOLISTlLFZ73PBtttEyYxUiJho7FwCxKr1QsfxUSS1WFtTVnCCQZw1zKMQm5IMNGjdDs2MsAtAQHGc9XgSaKZ/jVMcHz9e8+qJszGF1sm+dAAZu6WeODMPEi/fX0RvbW/hYMqZFVxOseUFJI3rum4ujG6fCw9n1ircTuh/ZvlpuXiUoo0AIzeLM4qt5i+cOK8fkByJBa8XkZnOoe+XM1RwOkRGGsUzWpLvjurP/0/LAcRL/IlnP1c7jSirHfj8/eACjDEyaJqWWMx2q70pwo/UnwNqnqX/x7iZBpJ8k+evWG5OtTTEKLWTa0KB5BUQ51bUsv8lBH4imDPTJU2/RKZLBJQEaIzW+fPybNIYLW0bFGenKpF5L1b88pCj0OMFV3WjnQPrR1cunDsLUq9YvcIEn/c4vG0agI4QnAwwSr/2+4LkhChwdg1WYnCM7bC8qHVxoD3+SzfcgY+BqWzXFr/l3flQncuPkjlR4QHqvS6PimDJGPg==;j9rqEM9nXOKSiPyxjeEr6g=="
 ---

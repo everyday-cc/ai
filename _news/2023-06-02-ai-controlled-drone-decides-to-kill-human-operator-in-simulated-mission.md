@@ -179,6 +179,24 @@ related:
       name: New Scientist
       domain: newscientist.com
     quality: 17
+  - title: "Terminator-Like Skynet Vision Seems Reality As AI Drone Kills Its Operator"
+    excerpt: "Conversations about AI and related technologies cannot be heard if you are not going to talk about ethics and AI.”"
+    publishedDateTime: 2023-06-02T17:56:00Z
+    webUrl: "https://insidebitcoins.com/news/terminator-like-skynet-vision-seems-reality-as-ai-drone-kills-its-operator"
+    type: article
+    provider:
+      name: Inside Bitcoins
+      domain: insidebitcoins.com
+    quality: 17
+  - title: "Air Force official ‘misspoke’ in tale of AI drone killing human operator in US test mission"
+    excerpt: "An Air Force official says he “misspoke” when describing how an artificially intelligent drone programmed to destroy air defence systems rebelled and “killed” its human operator after it decided they were in the way of its mission air defence systems."
+    publishedDateTime: 2023-06-02T18:43:00Z
+    webUrl: "https://www.aol.com/ai-operated-drone-kills-human-090205649.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 9
 
 secured: "52EaPxsHyomAY/zshZcl/e3m0qBSoI+3cfWHkoPt+MS18PlDUjzdpDe90YpNDvtZB/8Ie/c7a33UAQfZbBQfy7mMNdYIpl7piNiXOZK2iPK/v8Y2K95jlQY/pSJovePSuilLi7wUsYmbTnRNlxj8tvDWoCawEI6LYOCsbhL091tBeu/+LR5ITtOgWgAB72oLPCgT8ip+YYzszno7eeFVT/II3WIp0b+232yI4MNqDRz/AUylJry8iZQaEvvRIzC16T0dTwux8kP8JYcYXBKex34FvDXhpPN/c2g0qFe1mRV66VsURl7c9/ochbsty640jI4NVszpj9zR5k5ftKGD/Je3LUXDisHEI0zJE9jLosI=;a6qOhz9VMp8cNKkibn430g=="
 ---

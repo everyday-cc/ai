@@ -36,6 +36,15 @@ related:
         width: 768
         height: 633
         isCached: true
+  - title: "The hardest part of working with generative AI in healthcare"
+    excerpt: "UC San Diego Health is piloting generative artificial intelligence, built by Epic and Microsoft, to help physicians respond to patients' questions. Challenges i"
+    publishedDateTime: 2023-06-02T18:28:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/the-hardest-part-of-working-with-generative-ai-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
 
 secured: "48LZYborBg8PSy0P7x3gkgyt+9iaZWG5jX45BMBQESlwiitbvTbux3menz+yEKG+E8JwvYycHp98nyaNSdp0ioTUw+l/LOXot2Nh6FwFZ1bKRn0QO7iXhMiLqxLsfNW+3WPq0sJOFuAS9SRFC7ujTl3BhT0xF7WmSEyHyTNgkBVyZ4qu8b0QJNpGYQxtPO+niBa1UtDeSXsiIRLDIf2pSkJTHJ4ndNWbLoQ6BGtANsal7vsFt3DGC5Vddysif47BcFZ2Nz5/fTW1V9/hslzIVTx5hn2kgsNxfaFQa16NHbCkwaGq3/J4PMuqPrqTWHc6RUWOQ5vmyztoTGwmPTfjZjcDx0Kigu8KVZjK+r0MaAd8gzWtoNN0Ao3fjqcKxtGl5/Lls6Svd8fMW5znftvOGpon8wIwUCJH598lTmEPi+ogOUoiEig7neLRe9hrWyRz0bV6WuoHCT3ghUYtq9/zJ7NJ85mpPJcpMC1tqbNgzv+GRFJdw3wnan8Qji67EX9h7QLgjkMlsl2rYKqHkzVkig==;BDCiB4CceTCMZNBi26ih3w=="
 ---

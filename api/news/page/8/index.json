@@ -2,6 +2,91 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-05-27-regulators-take-aim-at-ai-to-protect-consumers-and-workers.md",
+      "title": "Regulators take aim at AI to protect consumers and workers",
+      "excerpt": "AI also affects hiring, housing and working conditions. Ben Winters, Senior Counsel for the Electronic Privacy Information Center, said a joint statement on enforcement released by federal agencies last month was a positive first step.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers",
+      "originalUrl": "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ocregister.com/wp-content/uploads/2023/05/OCR-Z-BOFA-SVB-0316.jpg?w=1024&h=682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers/amp/",
+      "cdnAmpWebUrl": "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers/amp/",
+      "publishedDateTime": "2023-05-26T21:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orange County Register",
+        "domain": "ocregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems.md",
+      "title": "Opinion: Stop the robot takeover: How AI advancement can pose problems",
+      "excerpt": "Pospisil explains that most jobs robots will take over are automated. They still cannot compare to a human’s ability to adapt or critical thinking skills in more specialized jobs not having to do with Ford production. In short, they won’t replace us in the job market because they’re missing a human element.",
+      "sourceUrl": null,
+      "webUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/",
+      "originalUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/01/Screenshot-2023-01-28-11.17.25-PM.png?fit=361%2C240&ssl=1",
+          "width": 361,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/amp/",
+      "cdnAmpWebUrl": "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/amp/",
+      "publishedDateTime": "2023-05-26T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-27-workplace-ai-how-artificial-intelligence-will-transform-the-workday.md",
       "title": "Workplace AI: How artificial intelligence will transform the workday",
       "excerpt": "Artificial intelligence has been around for years, but scarcely has it found itself in conversation as much as it has now. The launch of OpenAI’s ChatGPT rocketed generative AI onto the radar of ...",
@@ -1077,83 +1162,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-3-tech-stocks-with-the-best-ai-language-models.md",
-      "title": "3 Tech Stocks With the Best AI Language Models",
-      "excerpt": "translation, and image captioning. The competitive performance of LLaMA compared to existing models like GPT-3 and PaLM showcases rapid advancements in AI language technology. Furthermore ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-tech-stocks-with-the-best-ai-language-models?time=1685126933",
-      "originalUrl": "https://www.nasdaq.com/articles/3-tech-stocks-with-the-best-ai-language-models?time=1685126933",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-news-tagged-ai-chips.md",
-      "title": "NEWS TAGGED AI CHIPS",
-      "excerpt": "A boost in demand for AI chips may help TSMC sustain its annual revenue increase this year, according to market observers. Almost all of TSMC's top-10 customers have readied plans to adopt the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/tag/ai_chips/00110853.html",
-      "originalUrl": "https://www.digitimes.com/tag/ai_chips/00110853.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/ad/en_20230302_dtmember_bigbutton.gif",
-          "width": 336,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

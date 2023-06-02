@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/hyro-doubles-down-on-plug-and-play-ai-a
 webUrl: "https://venturebeat.com/ai/hyro-doubles-down-on-plug-and-play-ai-assistants-with-20m-funding/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/d/15/d15c6111-da35-5bc9-87aa-ccea2b6efeb8/64771f60ce289.image.jpg?resize=706%2C593"
         width: 706
         height: 593
+        isCached: true
+  - title: "Hyro Raises $20M for Conversational AI Assistant Used by Intermountain, Novant & More"
+    excerpt: "Hyro — a New York-based startup selling a conversational AI platform for providers — recently closed a $20 million Series B funding round. The platform is \"mostly plug-and-play\" and requires minimal effort and resources from providers,"
+    publishedDateTime: 2023-06-02T19:34:00Z
+    webUrl: "https://medcitynews.com/2023/06/ai-language-healthcare-technology/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 30
+    images:
+      - url: "https://medcitynews.com/uploads/2023/05/75.png"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "HTu1Spri0eGYyKyx7ikGCuD4jnozlwuAb2LYqcngH3hwzvv/nVnadFti7zk9V2H2jk6OukIgQ9t/zh7uvG2oKGQeOkWWncGOFljX6Y/Wuv7Zvxydl37J7/VT7kzFkbCt4Xn6Bm/CPSywjVF0xvnulSdlX27LkbEQnWjcvT5Fodn77fQnoJCfFb+FVgRatJ8U6C9lTGC+At/8+YwdZlMZGNsURxrHCSbMj+bM99T6DIPDXwLL9xucHPG7MsUwMxD+EX3C+l3CRxMim9hVQQx92Fp/Vgui+o27Rf7EhvTAbHzfZBmzLUPXyRU6SdWABjNMQPzhaYJmW8a9FxMIwM/E2GdqfczdsBRiqI21tt8d03HsvfaEKsymXtQETZjZ23uZdYbClrbb5nrCz4CL/1Bjsd67V2YI86cdcs2EZDNlhOqHCbOlR4OZ7v1YvNR8qpQdCp/MYedSwjw8pWYgQGtnGxkLP8xudwzSvwZ8IS8CkRjyFt0dFOb/UCdskidJWn0lNwrGWcll+XEL5pzMqEaktg==;VpvEHeJVEHf1c4eFhoyefQ=="

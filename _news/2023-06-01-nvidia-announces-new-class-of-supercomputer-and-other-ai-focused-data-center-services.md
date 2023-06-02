@@ -89,20 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nvidia launches GH200 Superchip to accelerate generative AI workloads"
-    excerpt: "The Nvidia GH200 Superchip (pictured) has been designed to power systems that will run some of the most sophisticated and complex AI workloads yet, including training the next generation of generative AI models."
-    publishedDateTime: 2023-05-29T04:30:00Z
-    webUrl: "https://siliconangle.com/2023/05/29/nvidia-launches-gh200-superchip-accelerate-generative-ai-workloads/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Grace-Hopper-Image.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "NVIDIA: GH200 Grace Hopper Superchips For Accelerated Generative AI Now In Full Production"
     excerpt: "NVIDIA (NVDA) announced its GH200 Grace Hopper Superchip is in full production, and systems with these Superchips are expected to be"
     publishedDateTime: 2023-05-29T07:22:00Z
@@ -140,15 +126,6 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "NVIDIA Launches Accelerated Ethernet Platform for Hyperscale Generative AI"
-    excerpt: "NVIDIA today announced NVIDIA Spectrum-X™, an accelerated networking platform designed to improve the performance and efficiency of Ethernet-based AI clouds. NVIDIA Spectrum-X is built on networking innovations powered by the tight coupling of the NVIDIA Spectrum-4 Ethernet switch with the NVIDIA BlueField®-3 DPU,"
-    publishedDateTime: 2023-05-29T04:28:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/29/9822135.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
   - title: "NVIDIA Unveils Powerful NVIDIA DGX GH200 AI Supercomputer for Next-Gen AI Applications"
     excerpt: "NVIDIA has unveiled a groundbreaking AI supercomputer, the NVIDIA DGX GH200. Powered by the innovative NVIDIA GH200 Grace Hopper Superchips and the NVIDIA NVLink Switch"
     publishedDateTime: 2023-05-29T07:21:00Z

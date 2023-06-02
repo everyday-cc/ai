@@ -2,108 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-05-31-the-cry-wolf-moment-of-ai-hype-is-unhelpful.md",
-      "title": "The Cry Wolf Moment Of AI Hype Is Unhelpful",
-      "excerpt": "AI increasingly represents a significant cybersecurity threat as an asset for criminals and hostile states. But cybersecurity is a mature industry with plenty of experts well equipped to handle the challenge. There is no reason to shut down AI because of cybersecurity fears.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/trondarneundheim/2023/05/31/the-cry-wolf-moment-of-ai-hype-is-unhelpful/",
-      "originalUrl": "https://www.forbes.com/sites/trondarneundheim/2023/05/31/the-cry-wolf-moment-of-ai-hype-is-unhelpful/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64775cf577dadfd9427b69d7/0x0.jpg?format=jpg&crop=3980,1867,x0,y390,safe&width=1200",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/trondarneundheim/2023/05/31/the-cry-wolf-moment-of-ai-hype-is-unhelpful/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/trondarneundheim/2023/05/31/the-cry-wolf-moment-of-ai-hype-is-unhelpful/amp/",
-      "publishedDateTime": "2023-05-31T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-ai-rules-coming-way-too-late-eu-official-warnscalls-for-code-of-conduct.md",
-      "title": "AI Rules Coming ‘Way Too Late,’ EU Official Warns—Calls For Code Of Conduct",
-      "excerpt": "Margrethe Vestager, the European Union’s tech chief, said standards were necessary “in order for society to trust what is ongoing.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tylerroush/2023/05/31/ai-rules-coming-way-too-late-eu-official-warns-calls-for-code-of-conduct/",
-      "originalUrl": "https://www.forbes.com/sites/tylerroush/2023/05/31/ai-rules-coming-way-too-late-eu-official-warns-calls-for-code-of-conduct/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647754bcdd66b5203b7b69d7/0x0.jpg?format=jpg&crop=4781,2691,x113,y418,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tylerroush/2023/05/31/ai-rules-coming-way-too-late-eu-official-warns-calls-for-code-of-conduct/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tylerroush/2023/05/31/ai-rules-coming-way-too-late-eu-official-warns-calls-for-code-of-conduct/amp/",
-      "publishedDateTime": "2023-05-31T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-31-lg-teams-up-with-canadian-startup-for-ai-chip-development.md",
       "title": "LG teams Up with Canadian startup for AI chip development",
       "excerpt": "Tenstorrent, founded in 2016, specializes in AI computer development, as reported by Yonhap. The CEO, Jim Keller, is a renowned microprocessor engineer celebrated for his achievements at AMD and Apple.",
@@ -155,7 +53,7 @@
       "originalUrl": "https://www.popsci.com/technology/ai-warning-critics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -185,6 +83,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-opinion-nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie.md",
+      "title": "Opinion: Nvidia and these 6 tech giants will gobble up the AI pie",
+      "excerpt": "In fact, the event was all about AI — from integrating artificial intelligence with Windows, Bing and developer tools. Note that many of the offerings were still in “preview” mode. As for Azure, its cloud platform, Microsoft is trying to catch ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8",
+      "originalUrl": "https://www.marketwatch.com/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 239,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-747436/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8",
+      "publishedDateTime": "2023-05-31T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -383,7 +333,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -590,7 +540,7 @@
       "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-05-31/nvidia-is-soaring-ai-chip-rival-graphcore-can-barely-get-off-the-ground",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -834,7 +784,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/this-ai-stock-has-dwarfed-nvidia-nasdaq-nvda-with-its-returns-1032360217",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1175,6 +1125,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution.md",
+      "title": "The Amazon Echo Was Just The Beginning Of Alexa's Voice-First Revolution",
+      "excerpt": "With 47 very high quality voices in 23 languages. Finally Amazon Rekognition will allow Alexa projects to also use image recognition to add visual decoding to Alexa-like solutions. These tools are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/",
+      "originalUrl": "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/530109090/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/amp/",
+      "publishedDateTime": "2023-05-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },

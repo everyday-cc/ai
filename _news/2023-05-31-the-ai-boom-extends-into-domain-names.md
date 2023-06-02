@@ -34,6 +34,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Y Combinator founder Paul Graham thinks stock market investors are missing out on the AI boom"
+    excerpt: "AI-related stocks have soared on the public markets this year, but new research from Vanda Research shows that institutional investors are driving the upswing. Retail investors, however, \"remain on the sidelines\" the research firm said in its note."
+    publishedDateTime: 2023-06-02T19:22:00Z
+    webUrl: "https://www.businessinsider.com/paul-graham-thinks-stock-market-investors-missing-out-ai-boom-2023-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
 
 secured: "Ze/4KRbyJ7OjCT/jTG3bA0tEoW/kSUWoNb9SNFyap/QAU1L9NVmzni7YDtIQVfS6FYtYn7RQW60pb1zV1Y5MZK3D9Z1Qe39VUGwvlK1P+QL16h30vzXnvgkS+IFPZ5nA3N5D6qs0SUtAJHHikGkaCSY2HfD+9hnuRcdq+EiKj6HaU5FS0vbH39U/5yr3uek2JeS8y+BAxYxooNUbBigMmHl4oeLrteixgmsqpngd41oKnLwjgmFa3bUGRCGjqTYpPdRXj8w/Z2hmsAgYHP2s/xd8gyMVRKJEB0xlQ4DeEDTvSpQym816fNV9htFCcHMVvDddpLzscHAM76Ng7z8p8Ifqf9kFMqMnUc2t/gmnZEo=;Q9d0u72zDwdl7rrZieSRBw=="
 ---

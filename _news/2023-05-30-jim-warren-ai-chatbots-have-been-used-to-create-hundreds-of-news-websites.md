@@ -110,20 +110,6 @@ related:
         width: 1200
         height: 626
         isCached: true
-  - title: "Lazada unveils new eCommerce AI chatbot LazzieChat"
-    excerpt: "Lazada group has released LazzieChat, an eCommerce AI chatbot powered by OpenAI’s ChatGPT technology in Microsoft’s Azure OpenAI Service to provide a more personalized shopping experience to its customers."
-    publishedDateTime: 2023-05-29T03:00:00Z
-    webUrl: "https://www.marketing-interactive.com/lazada-unveils-new-ecommerce-ai-chatbot-lazziechat"
-    type: article
-    provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
-    quality: 39
-    images:
-      - url: "https://marketing-interactive-assets.b-cdn.net/images/sg/content-images/by_year_month/2023-may/lazada.jpg?auto_optimize=medium"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Chinese AI chatbot firm Xiao-I eyes global market after Nasdaq IPO on ChatGPT fever"
     excerpt: "When Yuan Hui launched his company’s first chatbot two decades ago, the world had yet to catch up on the potential of conversational artificial intelligence (AI). Today, Shanghai-based Xiao-I is worth more than US$400 million,"
     publishedDateTime: 2023-05-31T04:20:00Z

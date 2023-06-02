@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/this-ai-stock-has-
 webUrl: "https://markets.businessinsider.com/news/stocks/this-ai-stock-has-dwarfed-nvidia-nasdaq-nvda-with-its-returns-1032360217"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "StockWatch: Nvidia Rides AI Wave to 180% Stock Surge"
+    excerpt: "highest-performing data center graphics processing unit (GPU), designed to accelerate AI training and inference, high-performance computing (HPC), and data analytics applications in cloud data centers, servers, systems at the edge, and workstations."
+    publishedDateTime: 2023-06-02T17:50:00Z
+    webUrl: "https://www.genengnews.com/gen-edge/stockwatch-nvidia-rides-ai-wave-to-180-stock-surge/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 19
   - title: "Nvidia stock price skyrockets on Nasdaq index amid AI boom. Should I own it?"
     excerpt: "Nvidia stock is expensive, but the first-quarter results show that Wall Street is still underestimating its potential in the AI boom. It's the leading chipmaker for generative AI, and that position is unlikely to change as the company continues to innovate with new products like its Hopper GPU architecture."
     publishedDateTime: 2023-05-30T19:06:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.heraldtribune.com/story/news/technology/2023/06/01/flo
 webUrl: "https://www.heraldtribune.com/story/news/technology/2023/06/01/florida-companies-ai-artificial-intelligence/70274365007/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "AI boom: Don’t miss out, but avoid the frenzy"
+    excerpt: "Investors must take a cautious approach to the Artificial Intelligence (AI) boom to avoid getting ‘burned says Nigel Green."
+    publishedDateTime: 2023-05-30T04:10:00Z
+    webUrl: "https://www.traveldailymedia.com/ai-boom-dont-miss-out-but-avoid-the-frenzy/"
+    ampWebUrl: "https://www.traveldailymedia.com/ai-boom-dont-miss-out-but-avoid-the-frenzy/amp/"
+    cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/ai-boom-dont-miss-out-but-avoid-the-frenzy/amp/"
+    type: article
+    provider:
+      name: Travel Daily Media
+      domain: traveldailymedia.com
+    quality: 59
+    images:
+      - url: "https://www.traveldailymedia.com/assets/2023/05/shutterstock_1040657359.jpg"
+        width: 1000
+        height: 543
+        isCached: true
   - title: "AI Boom: Don't Miss Out, But Avoid The Frenzy"
     excerpt: "Investors must take a cautious approach to the Artificial Intelligence (AI) boom to avoid getting 'burned', warns a serial tech entrepreneur and the"
     publishedDateTime: 2023-05-30T19:15:00Z

@@ -2,59 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-05-30-five-next-level-marketing-uses-for-ai.md",
-      "title": "Five Next-Level Marketing Uses For AI",
-      "excerpt": "Tom Wozniak heads up Marketing and Communications as the COO for OPTIZMO Technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/five-next-level-marketing-uses-for-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/five-next-level-marketing-uses-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6470eb7f789ac5b53803a6f8/0x0.jpg?format=jpg&width=1200",
-          "width": 400,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/five-next-level-marketing-uses-for-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/five-next-level-marketing-uses-for-ai/amp/",
-      "publishedDateTime": "2023-05-30T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
       "path": "_news/2023-05-30-nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation.md",
       "title": "Nvidia Dominates AI Silicon, But That Doesn’t Justify A $1 Trillion Valuation",
       "excerpt": "Nvidia (NASDAQ: NVDA) stock surged by 24% in Thursday’s trading after the company posted a better-than-expected set of Q1 FY’24 results and provided Q2 revenue guidance that was well ahead of Street estimates.",
@@ -63,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -211,6 +158,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-30-nvidia-is-building-israels-most-powerful-supercomputer-for-ai-applications.md",
+      "title": "Nvidia is building Israel’s most powerful supercomputer for AI applications",
+      "excerpt": "The system, called Israel-1, is expected to deliver performance of up to eight exaflops of AI computing that will essentially make it one of the world",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/articleshow/100621717.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/articleshow/100621717.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-100621670/100621670.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/amp_articleshow/100621717.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/amp_articleshow/100621717.cms",
+      "publishedDateTime": "2023-05-30T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-qualcomm-says-ai-will-demand-more-power-than-just-the-cloud.md",
       "title": "Qualcomm Says AI Will Demand More Power Than Just the Cloud",
       "excerpt": "Qualcomm Inc. is betting the future of AI will require more computing power than what the cloud alone can provide.",
@@ -219,7 +209,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-30/qualcomm-says-ai-will-demand-more-power-than-just-the-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -348,6 +338,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-30-ai-boom-dont-miss-out-but-avoid-the-frenzy.md",
+      "title": "AI boom: Don’t miss out, but avoid the frenzy",
+      "excerpt": "Investors must take a cautious approach to the Artificial Intelligence (AI) boom to avoid getting ‘burned says Nigel Green.",
+      "sourceUrl": null,
+      "webUrl": "https://www.traveldailymedia.com/ai-boom-dont-miss-out-but-avoid-the-frenzy/",
+      "originalUrl": "https://www.traveldailymedia.com/ai-boom-dont-miss-out-but-avoid-the-frenzy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.traveldailymedia.com/assets/2023/05/shutterstock_1040657359.jpg",
+          "width": 1000,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.traveldailymedia.com/ai-boom-dont-miss-out-but-avoid-the-frenzy/amp/",
+      "cdnAmpWebUrl": "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/ai-boom-dont-miss-out-but-avoid-the-frenzy/amp/",
+      "publishedDateTime": "2023-05-29T21:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Travel Daily Media",
+        "domain": "traveldailymedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-retail-investors-arent-buying-into-the-ai-hype-yet-and-the-boom-pales-in-comparison-to-the-meme-stock-bubble.md",
       "title": "Retail investors aren't buying into the AI hype yet, and the boom pales in comparison to the meme-stock bubble",
       "excerpt": "So far this year, Nvidia stock has shot up 167%. Meanwhile, the Global X Robotics & Artificial Intelligence ETF has soared 33%, and the ROBO Global Robotics & Automation Index ETF is up 19%.",
@@ -356,7 +389,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-investing-artificial-intelligence-nvidia-retail-average-tech-buying-2023-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -461,7 +494,7 @@
       "originalUrl": "https://venturebeat.com/ai/mediatek-taps-nvidia-gpu-and-ai-for-connected-car-chipsets/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 399,
+      "heat": 359,
       "tags": null,
       "images": [
         {
@@ -505,6 +538,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-30-should-the-government-be-allowed-to-use-facial-recognition.md",
+      "title": "Should the government be allowed to use facial recognition?",
+      "excerpt": "While security implementations of facial-recognition software continue, the technology has reportedly found uses in more nefarious settings. A report in The Washington Post found that dozens of ...",
+      "sourceUrl": null,
+      "webUrl": "https://theweek.com/tech/1023600/should-the-government-be-allowed-to-use-facial-recognition",
+      "originalUrl": "https://theweek.com/tech/1023600/should-the-government-be-allowed-to-use-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1685134084/FaceRecGov.jpg",
+          "width": 814,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theweek.com/tech/1023600/should-the-government-be-allowed-to-use-facial-recognition?amp",
+      "cdnAmpWebUrl": "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/tech/1023600/should-the-government-be-allowed-to-use-facial-recognition?amp",
+      "publishedDateTime": "2023-05-29T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "THE WEEK",
+        "domain": "theweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-29-amex-is-experimenting-cautiously-with-generative-ai-for-fintech.md",
       "title": "AmEx is experimenting cautiously with generative AI for fintech",
       "excerpt": "AmEx Digital Labs is currently exploring ways LLMs could be used “behind the scenes” to analyze the feedback and inquiries customers provide.",
@@ -513,7 +589,7 @@
       "originalUrl": "https://venturebeat.com/ai/amex-is-experimenting-cautiously-with-generative-ai-for-fintech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -789,7 +865,7 @@
       "originalUrl": "https://www.zdnet.com/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -841,7 +917,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/23/05/n32611926/landing-ais-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropo",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -1116,110 +1192,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones.md",
-      "title": "Arm's New CPU, GPU Cores to Deliver Next-Gen AI Experiences on Phones",
-      "excerpt": "Arm says pairing its Armv9 Cortex-X4 compute cluster and Arm Immortalis-G720 GPU in a single package will bring powerful AI, 3D, and gaming performance to the top smartphones of 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones",
-      "originalUrl": "https://www.pcmag.com/news/arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00n6JF7PK0qozSLHl73N4AU-1.fit_lim.size_1200x630.v1685112823.png",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-28T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-10-free-online-coursera-classes-to-take-if-you-want-to-work-in-ai-from-experts-at-amazon-meta-and-others.md",
-      "title": "10 free online Coursera classes to take if you want to work in AI, from experts at Amazon, Meta, and others",
-      "excerpt": "Find the course here. Artificial intelligence: ethics & societal challenges Class description: The class covers the ethical and societal aspects of artificial intelligence over four modules that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2",
-      "originalUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63eb9ca47518920018f33adb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2?amp",
-      "publishedDateTime": "2023-05-28T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

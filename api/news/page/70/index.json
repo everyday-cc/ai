@@ -2,6 +2,101 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2023-04-20-ai-terminologies-101-understanding-computer-vision-and-its-applications.md",
+      "title": "AI Terminologies 101: Understanding Computer Vision and Its Applications",
+      "excerpt": "Computer Vision is a type of artificial intelligence (AI) that enables machines to interpret and understand the visual world. Computer Vision algorithms can analyse and extract information from ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/preview/2023/04/ai-terminologies-101-understanding-computer-vision",
+      "originalUrl": "https://yourstory.com/preview/2023/04/ai-terminologies-101-understanding-computer-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/images/undefined/nucleus-1677242056743.png",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-20T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-20-robustai-raises-20m-as-it-scales-robot-deliveries-for-pilot-customers.md",
+      "title": "Robust.AI raises $20M as it scales robot deliveries for pilot customers",
+      "excerpt": "When the company started, Robust.AI’s founders had no intention of making ... t systems on the market with the on-board hardware the startup is trying to push. “Silicon as gone pretty wild ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/04/20/robust-ai-raises-20m-as-it-scales-robot-deliveries-for-pilot-customers/",
+      "originalUrl": "https://techcrunch.com/2023/04/20/robust-ai-raises-20m-as-it-scales-robot-deliveries-for-pilot-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/Robust-Carters2.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/04/20/robust-ai-raises-20m-as-it-scales-robot-deliveries-for-pilot-customers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/04/20/robust-ai-raises-20m-as-it-scales-robot-deliveries-for-pilot-customers/amp/",
+      "publishedDateTime": "2023-04-20T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-20-coreweave-raises-221m-series-b-to-expand-specialized-cloud-infrastructure-powering-the-generative-ai-and-large-language-model-boom.md",
       "title": "CoreWeave Raises $221M Series B to Expand Specialized Cloud Infrastructure Powering the Generative AI and Large Language Model Boom",
       "excerpt": "CoreWeave (\"the Company\"), a specialized cloud provider built for large-scale GPU-accelerated workloads, today announced it has secured $221 million in Series B funding. The round was led by Magnetar Capital (\"Magnetar\"),",
@@ -1080,92 +1175,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-how-much-more-can-autonomous-cars-improve-waymo.md",
-      "title": "How Much More Can Autonomous Cars Improve? Waymo!",
-      "excerpt": "Alphabet’s autonomous vehicle subsidiary, Waymo, remains optimistic and the company points out that while other companies are suffering high-profile collisions, Waymo is continuing to deliver autonomous taxi services safely and reliably in Phoenix ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automotive-engineering/how-much-more-can-autonomous-cars-improve-waymo",
-      "originalUrl": "https://www.designnews.com/automotive-engineering/how-much-more-can-autonomous-cars-improve-waymo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Waymo%20Pacifica%20Passenger.jpg",
-          "width": 1527,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-20-more-nigerians-to-access-credit-facilities-with-kredete-ai-powered-lending-platform.md",
-      "title": "More Nigerians to access credit facilities with Kredete AI-Powered lending platform",
-      "excerpt": "Fintech startup, Kredete, has opened up an opportunity for more Nigerians to get access to credit facilities with the launch of an Artificial Intelligence, AI-powered application for lending ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vanguardngr.com/2023/04/more-nigerians-to-access-credit-facilities-with-kredete-ai-powered-lending-platform/",
-      "originalUrl": "https://www.vanguardngr.com/2023/04/more-nigerians-to-access-credit-facilities-with-kredete-ai-powered-lending-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vanguardngr.com/wp-content/uploads/2023/01/Artboard-1.png",
-          "width": 1125,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vanguardngr.com/2023/04/more-nigerians-to-access-credit-facilities-with-kredete-ai-powered-lending-platform/amp/",
-      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2023/04/more-nigerians-to-access-credit-facilities-with-kredete-ai-powered-lending-platform/amp/",
-      "publishedDateTime": "2023-04-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vanguard",
-        "domain": "vanguardngr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/89ad267be88983be00a29d56b9a48965dfd6aff3/0_0_3235_1942/master/3235.jpg?width=620&quality=85&auto=format&fit=max&s=e090c8964c3e679e4404ffb46a0a3627"
         width: 620
         height: 372
-        isCached: true
-  - title: "AI becomes the not-so-secret weapon behind new rounds of chip competition"
-    excerpt: "News about significant improvements in yields and capacity on Samsung's 4nm process and the subsequent win in getting orders from AMD and Google raised some eyebrows among its competitors. How did Samsung make such a huge leap in such a short time?"
-    publishedDateTime: 2023-05-29T02:56:00Z
-    webUrl: "https://www.digitimes.com/news/a20230523VL204/ai-commentary-and-analysis-ic-design-distribution-ic-manufacturing.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 53
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230523vl204_files/1_2b.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "When AI Needs A Human-In-The-Loop"
     excerpt: "In her role as senior director of product management for SS&C Blue Prism, Kavitha Chennupati is upbeat about automation and sees a specific space for humans-in-the-loop being brought in later on in the AI deployment process. With specific reference to the process of IDP (Intelligent Document Processing) which transcends into content processing."

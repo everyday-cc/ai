@@ -62,7 +62,7 @@
       "originalUrl": "https://www.kbc.co.ke/ibm-launches-watsonx-to-power-next-generation-ai-foundation-models-for-businesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -201,7 +201,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -356,7 +356,7 @@
       "originalUrl": "https://www.zdnet.com/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -936,6 +936,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-02-nvidia-contracts-tsmc-to-manufacture-next-gen-ai-chip-says-huang.md",
+      "title": "Nvidia contracts TSMC to manufacture next-gen AI chip, says Huang",
+      "excerpt": "Nvidia's next-generation AI chip will continue to be manufactured by TSMC, said company CEO Jensen Huang in response to market concerns regarding the processor vendor's partnership with the pure-play foundry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20230601PD213/jensen-huang-nvidia-tsmc.html",
+      "originalUrl": "https://www.digitimes.com/news/a20230601PD213/jensen-huang-nvidia-tsmc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/ad/en_20230302_dtmember_bigbutton.gif",
+          "width": 336,
+          "height": 280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T18:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-french-open-enlists-ai-company-to-help-players-fight-social-media-hate.md",
       "title": "French Open Enlists AI Company to Help Players Fight Social Media Hate",
       "excerpt": "The automated software filters out abusive comments on social media platforms including Instagram, TikTok and Twitter.",
@@ -1192,58 +1235,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-humanoid-robot-imagines-nightmare-ai-scenario.md",
-      "title": "Humanoid robot 'imagines' nightmare AI scenario",
-      "excerpt": "A UK-based company has made a humanoid robot that can have conversations almost as natural as human beings and make facial expressions. Almond Li has more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idOV661501062023RP1",
-      "originalUrl": "https://www.reuters.com/video/watch/idOV661501062023RP1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20230601&i=OV661501062023RP1&r=OV661501062023RP1&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

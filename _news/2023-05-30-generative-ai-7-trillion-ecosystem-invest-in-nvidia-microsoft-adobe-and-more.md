@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/05/30/generative-ai-7-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/05/30/generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more/amp/"
 type: article
 quality: 101
-heat: 231
+heat: 221
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2023/05/Screen-Shot-2023-05-31-at-7.07.16-AM.png"
         width: 1088
         height: 539
-        isCached: true
-  - title: "NVIDIA's next DGX supercomputer is all about generative AI"
-    excerpt: "NVIDIA CEO Jensen Hiang made a string of announcements during his Computex keynote, including details about the company’s next DGX supercomputer. Given where the industry is clearly heading, it shouldn’t come as a surprise that the DGX GH200 is largely about helping companies develop generative AI models."
-    publishedDateTime: 2023-05-29T04:33:00Z
-    webUrl: "https://www.engadget.com/nvidias-next-dgx-supercomputer-is-all-about-generative-ai-043053544.html"
-    ampWebUrl: "https://www.engadget.com/amp/nvidias-next-dgx-supercomputer-is-all-about-generative-ai-043053544.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nvidias-next-dgx-supercomputer-is-all-about-generative-ai-043053544.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/oSI4q9uVuwV7MEZuGjHxYg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-05/e876fd10-fbe8-11ed-bcbf-0f9780637f7b.cf.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "MediaTek Adopts Nvidia Tech for Automotive AI and Chips"
     excerpt: "The Taiwanese chipmaker, a rival to Qualcomm Inc. in equipping smartphones with silicon, announced it will integrate new Nvidia graphics hardware and AI technologies in its forthcoming cabin solutions. San Diego-based Qualcomm, along with Nvidia ..."

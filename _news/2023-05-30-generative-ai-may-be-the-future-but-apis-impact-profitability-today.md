@@ -33,6 +33,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "The hardest part of working with generative AI in healthcare"
+    excerpt: "UC San Diego Health is piloting generative artificial intelligence, built by Epic and Microsoft, to help physicians respond to patients' questions. Challenges i"
+    publishedDateTime: 2023-06-02T18:28:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/the-hardest-part-of-working-with-generative-ai-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
 
 secured: "UkvZEKemLQyXQCpG1ga4gxDbOVCfv8xa96cFsR2kSnysKPpu4m6fgyD0Wd1Dv063qon6D/9j729RsaIKMeUEqcGRECUcfWpIGBh48PmTyoCAvgq9zlR9i3ALkGrqWAF9efx5tTeyHtVdEcuSWTi7u7/mBSibLxTA4ijiPpDmGMdDETJJbQ1uN6N3GN6LBYEuaNi3BiSKDzk2umBCnydWnLfvQni2rSINwh4VWoD2oz5rF7oUJ+0L0LMZezWYLWpCMtPFP5RBQJQbGIbS+bA76Si0+RNV8LoRqzqrXbuZkrgzU/WbHnJTIpbB12P/pkQMChh7RuN9/87VtGgja7dwWwUja6NsruCWUPl2quqRpFc=;Zpj4GpQ3zDBYp7YulpSRzw=="
 ---

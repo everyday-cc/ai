@@ -9,8 +9,8 @@ ampWebUrl: "https://www.traveldailymedia.com/ai-boom-dont-miss-out-but-avoid-the
 cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/ai-boom-dont-miss-out-but-avoid-the-frenzy/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Travel Daily Media
@@ -27,20 +27,24 @@ images:
     isCached: true
 
 related:
-  - title: "The AI Boom Runs on Chips, but It Can’t Get Enough"
-    excerpt: "A shortage of the kind of advanced chips that are the lifeblood of new generative AI systems has set off a race to lock down computing power and find workarounds."
-    publishedDateTime: 2023-05-29T03:01:00Z
-    webUrl: "https://www.wsj.com/articles/the-ai-boom-runs-on-chips-but-it-cant-get-enough-9f76f554"
+  - title: "The AI boom: These Florida companies are using artificial intelligence"
+    excerpt: "Artificial intelligence has been integrated into our lives long before the ChatGPT craze. Here's how you interact with it everyday."
+    publishedDateTime: 2023-06-01T18:28:00Z
+    webUrl: "https://www.heraldtribune.com/story/news/technology/2023/06/01/florida-companies-ai-artificial-intelligence/70274365007/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-790143/social"
-        width: 1280
-        height: 640
-        isCached: true
+      name: Sarasota Herald-Tribune
+      domain: heraldtribune.com
+    quality: 34
+  - title: "AI Boom: Don't Miss Out, But Avoid The Frenzy"
+    excerpt: "Investors must take a cautious approach to the Artificial Intelligence (AI) boom to avoid getting 'burned', warns a serial tech entrepreneur and the"
+    publishedDateTime: 2023-05-30T19:15:00Z
+    webUrl: "https://menafn.com/1106356738/AI-Boom-Dont-Miss-Out-But-Avoid-The-Frenzy"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "fabvPlXsvOVvfh7EKK4DF96NUzpn1mJas4tY+CabB3pZN771HD7/3ORYAbqMDYZS+x5C+N6RZ4A43eFvCoB+Wt9tSCJJv3otfQMvrfssrDBUngCvM3Y2UhkY1lg++oWhniIalZLP85SZ6LjjizRtrVKRNMp18c+b2+e4887Blz1AqAH29nItNsQ7QaWA8XsvWHP42jWUs+4srNy3VTXbFwxCPaIHqpzd/4VTHuVwNSa/7MXnUi4HCLvbBAeeOtvNEIws6BGUO7RTyFJLAE0mv2fv2jTmmXEkq2Sem43n49PGsKosl/O4M37aNSw94TM7cM+TCSJwUWUjKJ4FqDlhImuDyUGku0xNNjzNs3lmacc=;6MezOznu3RM4O8ypeWO+xw=="
 ---

@@ -2,6 +2,110 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2023-05-12-h2o-ai-launches-h2ogpt-and-llm-studio-to-help-companies-make-their-own-chatbots.md",
+      "title": "H2O AI launches H2OGPT and LLM Studio to help companies make their own chatbots",
+      "excerpt": "“One can take open assist–type datasets and start using the base model to build a GPT,” Sri Ambati, the cofounder and CEO of H2O AI, told VentureBeat. “They can then fine-tune it for a specific use case using their own dataset, as well as add ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/h2o-ai-launches-h2ogpt-llm-studio/",
+      "originalUrl": "https://venturebeat.com/ai/h2o-ai-launches-h2ogpt-llm-studio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/chatbot-e1683843122122.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/h2o-ai-launches-h2ogpt-llm-studio/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/h2o-ai-launches-h2ogpt-llm-studio/amp/",
+      "publishedDateTime": "2023-05-11T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-12-cryptominers-try-to-pivot-gpu-farms-to-ai-workloads-after-crypto-decline.md",
+      "title": "Cryptominers try to pivot GPU farms to AI workloads after crypto decline",
+      "excerpt": "Two large cryptomining companies, Hut 8 and Hive Blockchain, have redirected their mining GPU infrastructure toward high-performance computing (HPC), which includes AI workloads. This move could",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/98661-cryptominers-try-pivot-gpu-farms-ai-after-ethereum.html",
+      "originalUrl": "https://www.techspot.com/news/98661-cryptominers-try-pivot-gpu-farms-ai-after-ethereum.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/01/2023-01-25-image-18.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-11T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-05-12-githubs-thomas-dohmke-talks-open-source-ai-and-more-on-the-disrupt-saas-stage.md",
       "title": "GitHub’s Thomas Dohmke talks open source, AI and more on the Disrupt SaaS Stage",
       "excerpt": "Thomas Dohmke, the CEO of GitHub, will join TechCrunch for a fireside chat on this year's SaaS Stage at TechCrunch Disrupt 2023.",
@@ -1137,91 +1241,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-spotify-has-an-ai-music-problembut-bots-love-it.md",
-      "title": "Spotify Has an AI Music Problem—but Bots Love It",
-      "excerpt": "Fake listeners are flocking to AI-made songs on streaming platforms, taking much needed money away from human artists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/spotify-ai-music-robot-listeners/",
-      "originalUrl": "https://www.wired.com/story/spotify-ai-music-robot-listeners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/645c19f20cbc15924e602a5c/master/pass/AI-Bot-Spotify-Listeners-Culture-1324648625.jpg",
-          "width": 2400,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/spotify-ai-music-robot-listeners/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/spotify-ai-music-robot-listeners/amp",
-      "publishedDateTime": "2023-05-11T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-11-informatica-announces-expanded-industry-focus-and-zero-cost-data-pipelines-and-transformations-with-aws.md",
-      "title": "Informatica Announces Expanded Industry Focus and Zero Cost Data Pipelines and Transformations with AWS",
-      "excerpt": "Informatica, an enterprise cloud data management leader, built upon their years-long relationship with Amazon Web",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/informatica-announces-expanded-industry-focus-and-zero-cost-data-pipelines-and-transformations-with-aws/",
-      "originalUrl": "https://www.datanami.com/this-just-in/informatica-announces-expanded-industry-focus-and-zero-cost-data-pipelines-and-transformations-with-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-11T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

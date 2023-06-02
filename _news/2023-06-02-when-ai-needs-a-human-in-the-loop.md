@@ -86,20 +86,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "AI becomes the not-so-secret weapon behind new rounds of chip competition"
-    excerpt: "News about significant improvements in yields and capacity on Samsung's 4nm process and the subsequent win in getting orders from AMD and Google raised some eyebrows among its competitors. How did Samsung make such a huge leap in such a short time?"
-    publishedDateTime: 2023-05-29T02:56:00Z
-    webUrl: "https://www.digitimes.com/news/a20230523VL204/ai-commentary-and-analysis-ic-design-distribution-ic-manufacturing.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 53
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230523vl204_files/1_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "AI pioneers claim AI could bring about the extinction of humanity"
     excerpt: "The Centre for AI Safety has published a statement that emphasises the need for implementing appropriate AI risk-reducing controls."
     publishedDateTime: 2023-05-31T07:51:00Z

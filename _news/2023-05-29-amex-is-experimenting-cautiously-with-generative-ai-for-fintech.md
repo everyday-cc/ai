@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/amex-is-experimenting-cautiously-with-g
 webUrl: "https://venturebeat.com/ai/amex-is-experimenting-cautiously-with-generative-ai-for-fintech/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://thepeninsulaqatar.com/get/maximage/20230529_1685340232-924.jpg?1685340232"
         width: 1000
         height: 666
+        isCached: true
+  - title: "5 Companies leveraging AI to transform the future of FinTech"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-06-01T07:03:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-companies-leveraging-ai-to-transform-the-future-of-fintech/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/ibs_Artificial-Intelligence.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Fintech founder using AI to improve lives and livelihoods in Bangladesh"
     excerpt: "Women in Tech Excellence Rising Star of Financial Services awards winner, Shabnam Wazed is shaping fintech, using AI to make financial services more inclusive."

@@ -41,6 +41,20 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "IBM Launches Watsonx to Power Next-Generation AI Foundation Models for Businesses"
+    excerpt: "Kindly share this postIBM has announced IBM watsonx, a new AI and data platform that will enable enterprises to scale and accelerate the impact of the most advanced AI with trusted data. Enterprises turning to AI today need access to a full technology stack that enables them to train,"
+    publishedDateTime: 2023-05-31T23:07:00Z
+    webUrl: "https://www.nigeriacommunicationsweek.com.ng/ibm-launches-watsonx-to-power-next-generation-ai-foundation-models-for-businesses/"
+    type: article
+    provider:
+      name: nigeriacommunicationsweek
+      domain: nigeriacommunicationsweek.com.ng
+    quality: 49
+    images:
+      - url: "https://i0.wp.com/www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2023/05/IBM-Watsonx-1s.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
     excerpt: "Automation Anywhere today announced it is working with Amazon Web Services (AWS) to bring intelligent automation and"
     publishedDateTime: 2023-06-01T16:38:00Z

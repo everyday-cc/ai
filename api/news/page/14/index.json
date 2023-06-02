@@ -2,6 +2,92 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-05-23-intel-announces-falcon-shores-its-ai-chip-for-2025.md",
+      "title": "Intel announces Falcon Shores, its AI chip for 2025",
+      "excerpt": "Intel has revealed early details about its next-gen artificial intelligence (AI) chip. Called Falcon Shores, this chip will reportedly boast 288GB of high bandwidth memory (HMB3) and support 8-bit floating-point computation. The company plans to introduce ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html",
+      "originalUrl": "https://www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2018/12/AH-Intel-logo-MWC-2018-2-New.jpg",
+          "width": 1918,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html?amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html?amp",
+      "publishedDateTime": "2023-05-23T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-robotics-coding-are-key-for-kids-at-this-business.md",
+      "title": "Robotics, coding are key for kids at this business",
+      "excerpt": "Zebra offers over 25 courses in robotics, artificial intelligence, coding, electronics and technology to kids in grades 1 through 12. What sets Zebra Robotics apart from other programs in the area?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wral.com/story/robotics-coding-are-key-for-kids-at-this-business/20867751/",
+      "originalUrl": "https://www.wral.com/story/robotics-coding-are-key-for-kids-at-this-business/20867751/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wwwcache.wral.com/asset/lifestyles/family/2023/05/18/20867753/Zebra_Competition-DMID1-5yy50wqwd-640x480.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wral.com/amp/20867751/",
+      "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20867751/",
+      "publishedDateTime": "2023-05-23T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL",
+        "domain": "wral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-dont-believe-your-lying-eyes-in-the-ai-era.md",
       "title": "Don't Believe Your Lying Eyes in the AI Era",
       "excerpt": "Technology will only get us so far in dealing with AI-generated photos, of which there will be many. We’ll all need to become more dubious.",
@@ -1171,109 +1257,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-llms-and-the-rise-of-the-ai-code-generators.md",
-      "title": "LLMs and the rise of the AI code generators",
-      "excerpt": "Large language models like GPT-4 and tools like GitHub Copilot can make good programmers more efficient and bad programmers more dangerous. Are you ready to dive in?",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.html",
-      "originalUrl": "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/08/code-abstract-matrix-100678032-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.amp.html",
-      "publishedDateTime": "2023-05-23T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-indias-infosys-unveils-ai-platform.md",
-      "title": "India's Infosys unveils AI platform",
-      "excerpt": "India's second-largest software services exporter Infosys Ltd said on Tuesday it launched a platform called Infosys Topaz for generative artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/indias-infosys-unveils-ai-platform-2023-05-23/",
-      "originalUrl": "https://www.reuters.com/technology/indias-infosys-unveils-ai-platform-2023-05-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/ypbUZw9mJoBpsPgqYkSOHSM963A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IK7236HTRVIF5LHRAYWSUV2ZWA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/06/air-force-den
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/amp/"
 type: article
 quality: 86
-heat: 186
+heat: 206
 published: true
 
 provider:
@@ -179,7 +179,25 @@ related:
       name: New Scientist
       domain: newscientist.com
     quality: 17
+  - title: "Terminator-Like Skynet Vision Seems Reality As AI Drone Kills Its Operator"
+    excerpt: "Conversations about AI and related technologies cannot be heard if you are not going to talk about ethics and AI.”"
+    publishedDateTime: 2023-06-02T17:56:00Z
+    webUrl: "https://insidebitcoins.com/news/terminator-like-skynet-vision-seems-reality-as-ai-drone-kills-its-operator"
+    type: article
+    provider:
+      name: Inside Bitcoins
+      domain: insidebitcoins.com
+    quality: 17
+  - title: "Air Force official ‘misspoke’ in tale of AI drone killing human operator in US test mission"
+    excerpt: "An Air Force official says he “misspoke” when describing how an artificially intelligent drone programmed to destroy air defence systems rebelled and “killed” its human operator after it decided they were in the way of its mission air defence systems."
+    publishedDateTime: 2023-06-02T18:43:00Z
+    webUrl: "https://www.aol.com/ai-operated-drone-kills-human-090205649.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 9
 
-secured: "IfbHRMLi7aBnX4BPD5tMcbcMr5n9vX3iEECxoHgGF4o00zNq0PR7UfPIyPFvk3dyjDR0ESt3fuj743r52S82GUcQRkaLUiw7/kLIVTTY3fZPJKwtPlo+HPb/Sx7x3hR8FJktlgRMBH/jOzguQnviSEgS7gzN2fijZ1VQwYE73WOTvgYb3tRQcwueX1vXNM94HeiMSnOG8fl+ppkHYPhA/idr89WQb5QTPKbRTeKBf44jCcf3CPvnz0BBpDyYW2HqrPemtNUFCyNsO6ig1Eb8NUHsMSXy7k4u6SdpKgm6yJ7VlcL6Vsj50NMEvbYJe6Jd1hoXzjvB5JwJN9wL6X5rJxh4qzn6QUU6sRSDtEYMp00=;Sq02NPKhMwpYWIMVxNbRLQ=="
+secured: "GSfxsUbBj/7fHSHl2Qy57nxS/87y9QI9CxqLQXMuIpWK8axbN+vkljQW5cN+1fKltYFLR9a9Vpugq3uyt3SFatZ1YnyxLD+ad2E1VkpjOP1KEKtXTSmbWnBTiA4t7f54X1BqDLDtO6+aQJXFsn5ev5l0HClrax8A2soTuBG75rgdHSJVmeNWDCRG8LbXn5ogbIxbpwvIxKdZ2DXH5jGHX3GaqX/bOYs4v8LSXAY025iuh72eNtwt3iEOrN98Azxcc+heGoyTePuWdAH1b/U4005rF8grW30mQtJo09FMsjRfoVeImW1D8X4SV3KRGv/CuCcsQfenbzyykWl7fxLW9OOhAJI1DiwJWmGbQ6yuWobp/sUit/IeJyODAYGkRUOsQOSKClWpbI+NNAH9gtDhGTGxbCpJMRIOAAvgQO9UndhWh3oPA0KNkxXYLXucZGYBV/fA0lahRO+SNb0E6ofsnmfz3EWkNA7PQxrZHrGF9NKo/kkDqyxueiJDa0iei4spJubT1ONHiJeLEZRL+0PTtw==;6w7tgqI02iTbBDfnyDo1WA=="
 ---
 

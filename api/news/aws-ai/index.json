@@ -315,6 +315,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-31-the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution.md",
+      "title": "The Amazon Echo Was Just The Beginning Of Alexa's Voice-First Revolution",
+      "excerpt": "With 47 very high quality voices in 23 languages. Finally Amazon Rekognition will allow Alexa projects to also use image recognition to add visual decoding to Alexa-like solutions. These tools are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/",
+      "originalUrl": "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/530109090/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/amp/",
+      "publishedDateTime": "2023-05-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-aws-announces-general-availability-of-amazon-security-lake.md",
       "title": "AWS Announces General Availability of Amazon Security Lake",
       "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Security Lake, a service that automatically centralizes an organization's security data from across their AWS environments,",
@@ -1369,58 +1421,6 @@
         "AI",
         "AI in Healthcare",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-nigeria-election-di-unexplained-nigeria-election-votes-wey-political-parties-dey-contest.md",
-      "title": "Nigeria election: Di unexplained Nigeria election votes wey political parties dey contest",
-      "excerpt": "Wen we compare di profile image for dis account to di television pictures of Dr Ariaga using Amazon Rekognition software, we achieve a match of 97.2%, wey indicate a very high probability say dem be di same man. Dr Ariaga no respond to messages wey we send ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/pidgin/tori-65564971?at_link_origin=bbcnewspidgin&at_campaign_type=owned&at_format=link&at_link_id=7E3B4882-F3B1-11ED-9926-EF73AD7C7D13&at_ptr_name=twitter&at_link_type=web_link&at_bbc_team=editorial",
-      "originalUrl": "https://www.bbc.com/pidgin/tori-65564971?at_link_origin=bbcnewspidgin&at_campaign_type=owned&at_format=link&at_link_id=7E3B4882-F3B1-11ED-9926-EF73AD7C7D13&at_ptr_name=twitter&at_link_type=web_link&at_bbc_team=editorial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_pidgin/7854/production/_129440803_tinubu1.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/pidgin/tori-65564971.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/pidgin/tori-65564971.amp",
-      "publishedDateTime": "2023-05-16T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

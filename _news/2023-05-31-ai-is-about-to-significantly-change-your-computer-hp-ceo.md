@@ -18,75 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia CEO reveals groundbreaking generative AI innovations for industries at COMPUTEX Taipei"
-    excerpt: "Huang believes the innovations will facilitate new business models and enhance efficiency across a multitude of industries."
-    publishedDateTime: 2023-05-29T04:00:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-ceo-reveals-groundbreaking-generative-ai-innovations-for-industries-at-computex-taipei/"
+  - title: "AI will 'change significantly' the business of work: HP CEO"
+    excerpt: "On this jobs report Friday, we are reminded that many of the jobs created last month may not even exist a decade from now as generative AI takes hold in businesses large and small. Or at least this writer is thinking along those dreary lines."
+    publishedDateTime: 2023-06-02T15:49:00Z
+    webUrl: "https://www.aol.com/finance/ai-change-significantly-business-hp-125036884.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 60
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/Jensen_GTC-keynote_Omniverse.png?w=1200&strip=all"
-        width: 1199
-        height: 582
-        isCached: true
-  - title: "Nvidia is building Israel’s most powerful supercomputer for AI applications"
-    excerpt: "The system, called Israel-1, is expected to deliver performance of up to eight exaflops of AI computing that will essentially make it one of the world"
-    publishedDateTime: 2023-05-30T10:41:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/articleshow/100621717.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/amp_articleshow/100621717.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/amp_articleshow/100621717.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://static.toiimg.com/photo/msid-100621670/100621670.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "NVIDIA Computex 2023 Keynote Biggest Announcements And Developments"
-    excerpt: "Huang confirmed full volume production of GPU server HGX H100 has begun ... NVIDIA has undoubtedly bet big on the world of AI. However, it hasn't sidelined gamers. The company indicated it ..."
-    publishedDateTime: 2023-05-31T00:56:00Z
-    webUrl: "https://www.gizbot.com/tech-biz/nvidia-computex-2023-keynote-biggest-announcements-developments-ai-gpu-085682.html"
-    ampWebUrl: "https://www.gizbot.com/amphtml/tech-biz/nvidia-computex-2023-keynote-biggest-announcements-developments-ai-gpu-085682.html"
-    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/tech-biz/nvidia-computex-2023-keynote-biggest-announcements-developments-ai-gpu-085682.html"
-    type: article
-    provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 44
-    images:
-      - url: "https://www.gizbot.com/img/1200x60x675/img/2023/05/nvidia-computex-2023-keynote-highlights-1685361407.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Nvidia reveals generative AI NPCs that can dream up their own dialogue"
-    excerpt: "A new piece of software, Nvidia Ace, was introduced at the Computex Keynote. The software will allow game developers to implement AI NPCs into their worlds."
-    publishedDateTime: 2023-05-29T08:47:00Z
-    webUrl: "https://www.dexerto.com/tech/nvidia-reveals-generative-ai-npcs-that-can-dream-up-their-own-dialogue-2159057/"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
+      name: AOL
+      domain: aol.com
     quality: 39
     images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/29/ai-nvidia-gen.jpg"
-        width: 1600
-        height: 900
+      - url: "https://s.yimg.com/ny/api/res/1.2/DFF6yiSaX7TyPLN2RXHocw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/0c57b59aaa696c84279a0f55f4c2e6e0"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "NVIDIA ACE Injects Generative AI Into Game NPCs Enabling Hyper-Realistic Conversations"
-    excerpt: "NVIDIA is showing off an AI model foundry service that leverages AI-powered natural language interactions to make NPCs feel more intelligent."
-    publishedDateTime: 2023-05-29T12:56:00Z
-    webUrl: "https://hothardware.com/news/nvidia-ace-generative-ai-game-npcs-realistic-conversations"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 9
 
 secured: "cqfD8RYwCxjwH8LnEmrSqMXecrWAFnyaln9fdiq0xKoIzyylkDOa97U4WPHNQrWqCqrKKa10Cs9ZDssIIkaHZgpkJvafb+V7+e81zLs6/aApIEEP8H62a2u8kNvpGHsUZBiMHvh37OgSXREEkvJ9dODXCaweywZadXS0I9Npf1Mv58U7r+FZwuwRG2Xom+5YWJru8Y4QAYiSeQLeQoJFtSBmZxiF8lntpOhnfmOu768vQjToEhqdStqYOYnjf08zcswpuctfGcAeCwh0qePi6bpLyyslwbnpHbhexWvaOhJfyJngqXCc2MSsS6x9mmlpJOi99qtWIs5xMEIBIxEWKEFPQNYLXid7qFiGyKeT7T55KlTTh0ZJFdcYBPcmD5N3gObv9r+2mXHb5L81RoRoaPXD7ZlP0XrR82TmgTi600s/lat/7taDV6PI4yhml8RPItb975CJgrlIfXH7KkCMcZcGGhz63TdfR3sR+yaeCe9JPooPSdzoMbRG76claQegdnTK2ZsKN15jyilet5VYOg==;kvwo2hOlMNUM6HE3XKy/UA=="
 ---

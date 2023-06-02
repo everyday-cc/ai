@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Amazon Echo Was Just The Beginning Of Alexa's Voice-First Revolution"
+    excerpt: "With 47 very high quality voices in 23 languages. Finally Amazon Rekognition will allow Alexa projects to also use image recognition to add visual decoding to Alexa-like solutions. These tools are ..."
+    publishedDateTime: 2023-05-31T00:00:00Z
+    webUrl: "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/530109090/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Amazon fined $25M fine for violating child privacy with Alexa voice assistant"
     excerpt: "Separately, the company agreed to pay $5.8 million in customer refunds for alleged privacy violations involving its doorbell camera Ring."
     publishedDateTime: 2023-06-01T10:45:00Z
@@ -40,22 +56,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UA22MMHJYBGE7FDLHIVRFJU6MM.jpg"
         width: 4761
         height: 3174
-        isCached: true
-  - title: "Alexa stored kids’ voice, location data for years. FTC slaps Amazon with $25M fine"
-    excerpt: "The Federal Trade Commission alleged Amazon violated a child privacy law and deceived customers, including parents."
-    publishedDateTime: 2023-06-01T16:09:00Z
-    webUrl: "https://thegrio.com/2023/06/01/alexa-stored-kids-voice-location-data-for-years-ftc-slaps-amazon-with-25m-fine/"
-    ampWebUrl: "https://thegrio.com/2023/06/01/alexa-stored-kids-voice-location-data-for-years-ftc-slaps-amazon-with-25m-fine/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2023/06/01/alexa-stored-kids-voice-location-data-for-years-ftc-slaps-amazon-with-25m-fine/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 38
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2023/06/AP23151745514006-scaled.jpg"
-        width: 2560
-        height: 1707
         isCached: true
   - title: "Amazon to pay $31 million in fines for Alexa voice assistant and Ring camera privacy violations"
     excerpt: "Amazon has agreed to pay a $25 million civil penalty to settle Federal Trade Commission allegations it violated a child privacy law and deceived parents by keeping for years kids' voice and location data recorded by its Alexa voice assistant."

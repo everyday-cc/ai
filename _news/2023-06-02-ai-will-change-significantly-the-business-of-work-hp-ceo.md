@@ -24,6 +24,17 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "AI is about to significantly change your computer: HP CEO"
+    excerpt: "CEO Enrique Lores says consumers and businesses are poised to see big changes to their computers within 24 months due to new advances in artificial intelligence. \"What we are working on is to build AI capabilities into the PC,"
+    publishedDateTime: 2023-05-31T12:14:00Z
+    webUrl: "https://www.aol.com/finance/ai-significantly-change-computer-hp-121459455.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 17
+
 secured: "SGGOMPvElRQmWmKtuol8ARhD6iK1DHzs0aX8bqh/ykv/HbAR8m+UVaItAOxxlvYDQan4zv1QJVpuQhW66TgJ698C7wrhK94SPtf/wUg3Xdg0g48mr4Mka8GjD9Ylnbe777LYzjdZjRfv1Kwgtpk5kLmEygwSIeN6borqvOce2VVIbpWoSPMwZpeWuXTb2QqD/BOPK0yej8DYEIHX1Dsp71BlC52N2Xma2sd3fMmKFrA78PqhsKB8diNFe9G15rkzQCihLJxmYkZynPRHgU/IJw0mwie4iBX8w1nnnhD/1yQ8CAUSE9q6b8woIt0LhlCVa3HZ9oK/jlVlop8C9Oi3Zg00ZCprGP5izy3pSZbe55c=;8mLieF6tgWnIZC5XMeiK+Q=="
 ---
 

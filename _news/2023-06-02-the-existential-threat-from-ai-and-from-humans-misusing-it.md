@@ -78,20 +78,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI becomes the not-so-secret weapon behind new rounds of chip competition"
-    excerpt: "News about significant improvements in yields and capacity on Samsung's 4nm process and the subsequent win in getting orders from AMD and Google raised some eyebrows among its competitors. How did Samsung make such a huge leap in such a short time?"
-    publishedDateTime: 2023-05-29T02:56:00Z
-    webUrl: "https://www.digitimes.com/news/a20230523VL204/ai-commentary-and-analysis-ic-design-distribution-ic-manufacturing.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 53
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230523vl204_files/1_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "When AI Needs A Human-In-The-Loop"
     excerpt: "In her role as senior director of product management for SS&C Blue Prism, Kavitha Chennupati is upbeat about automation and sees a specific space for humans-in-the-loop being brought in later on in the AI deployment process. With specific reference to the process of IDP (Intelligent Document Processing) which transcends into content processing."
     publishedDateTime: 2023-06-02T13:34:00Z
@@ -167,6 +153,6 @@ related:
       domain: foreignaffairs.com
     quality: 19
 
-secured: "kpt2bDQdVMUs9Ws9yWPV+S+ucMf00C5XqFmFNdWBlCBi+xV0fqMhRkN9b+sF4ALPHn0ZAyEzVlR3WljTBM49ZRnlieKa68Jgrwl/pbxmEc/GoDsqFQooHhob/gcQQP2RCD+NJhl1b2kAZ/3XU+Y705Txj+QTYCkAbbsJX0L7tsgFj0efUksm6oebUBYsrbC2oPGDN0iE6GGayVgP4+DrLvAGnlENEn21FkQzCkZ16toa9ZB8ejOfsutmg6cf0NCjCwmBMNREJXRTabeLKwq7LxLOLkezUa3XRlM5TEf5Kl413nCadL/UB6fjCxH+QszjDQmn20nQYPEkDTHwrFd43Vz7f7X/PAOKz4SV4aBoxZA=;Knm4jUmnze8nU/AXV3iLZw=="
+secured: "prKa6uRMnSVpyjEm5EdX4ZVcfoHMe8g7dnehfqHvjVuIEsMjhXjkrTmhl7KshI0TRe7wk02lVECP0WB/UTe9VrsTRQdTl44RiJh02EjzPN9CDK3feX0ZxpyCQr66Lpxm+TSJfJ7zuWo9CrCigLmwhJc018Oat5kJrw7BuXZIm4GdSpakuzW2T72kMq39OIqPqeL4beuI8RdLTRipuiKtwbsq3NfbaIb6rc+lAVgVh8dhaJ/FfnCJvYlUwsz9DFUHusaIsiLPAqcy3iQIXAnqOFB4zO/6R5CDdLv8L37Q4jAFMBLsCrzrMoEu2aEqso+4/UQ8TwQHfjCutMndXXvoLM48LAnonQ9KK+raDkWls8/QSwvLxQQotoKAsm8b1SeNlaxsCRvbNUBpwkfMvh+jZ11kWPaT9b2E4K+xNYNjzRA/9km94JWAlh0dgnVHEGc8u/Ya1RDt++0xCrTF9Ll8x4S9qtuyiWWdcd9U9tJ944BoAVQPeJ13Fnf7ypc18WE0Ez9sQ22BgeEGh7i5DRvj3A==;lnmZFInn648fDmNYaKaG+g=="
 ---
 

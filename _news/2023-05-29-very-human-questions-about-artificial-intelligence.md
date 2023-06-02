@@ -76,20 +76,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "AI becomes the not-so-secret weapon behind new rounds of chip competition"
-    excerpt: "News about significant improvements in yields and capacity on Samsung's 4nm process and the subsequent win in getting orders from AMD and Google raised some eyebrows among its competitors. How did Samsung make such a huge leap in such a short time?"
-    publishedDateTime: 2023-05-29T02:56:00Z
-    webUrl: "https://www.digitimes.com/news/a20230523VL204/ai-commentary-and-analysis-ic-design-distribution-ic-manufacturing.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 53
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230523vl204_files/1_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "When AI Needs A Human-In-The-Loop"
     excerpt: "In her role as senior director of product management for SS&C Blue Prism, Kavitha Chennupati is upbeat about automation and sees a specific space for humans-in-the-loop being brought in later on in the AI deployment process. With specific reference to the process of IDP (Intelligent Document Processing) which transcends into content processing."
     publishedDateTime: 2023-06-02T13:34:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-investing-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/ai-stocks-investing-artificial-intelligence-nvidia-retail-average-tech-buying-2023-5?amp"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Y Combinator founder Paul Graham thinks stock market investors are missing out on the AI boom"
+    excerpt: "AI-related stocks have soared on the public markets this year, but new research from Vanda Research shows that institutional investors are driving the upswing. Retail investors, however, \"remain on the sidelines\" the research firm said in its note."
+    publishedDateTime: 2023-06-02T19:22:00Z
+    webUrl: "https://www.businessinsider.com/paul-graham-thinks-stock-market-investors-missing-out-ai-boom-2023-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
   - title: "The AI boom extends into domain names"
     excerpt: "It feels like every new startup is calling itself an AI company, no matter what it really does, while many old ones are rebranding as such … Registrations of .ai domain names are up 156% over the past year,"
     publishedDateTime: 2023-05-31T16:39:00Z

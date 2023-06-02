@@ -7,8 +7,8 @@ originalUrl: "https://www.digitimes.com/news/a20230601PD213/jensen-huang-nvidia-
 webUrl: "https://www.digitimes.com/news/a20230601PD213/jensen-huang-nvidia-tsmc.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Digi Times
@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia chief Jensen Huang says AI is creating a ‘new computing era’"
+    excerpt: "In his first in-person public address since the start of the pandemic Jensen Huang warned that the traditional tech industry would not keep pace with AI ’s advancements, adding that the technology had dramatically lowered the barrier to entry to computer coding."
+    publishedDateTime: 2023-05-29T12:17:00Z
+    webUrl: "https://ft.com/content/5bfcc670-7fcf-4ffd-92ae-cd7b7948405f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "XAHPZCNsZQ5avzfdBkCyCu61tHkyyJChcd9x9ZHQB+/HYEJIduhwFVJ2kxURA66ONI3rZArulkPs7nOpHFGS7Q0OzdJC8WUHxw50ciDXHnARjyUgkXRx/w9gMsgNifW9DP1Rm48h7je2QW5mBIGntFabx221xu5AKaYLpioGjNuE6NuN9EUWUBj8SlbRSTK97+jTZUqaRlhTJLHuu27g29nLuCVg7X4blvOVrRJ7Uk9OIFv9+g4htfah6vnGExSLn5jKxW9sEMtiKZ7bPgSrntv0DNlVFI8PCBpbNCcdaY4302u3SpIduZnzB7nXyZ8YsJ5+vtITKO39Vtf/O7uH09Nj4K+RFFcFKRYF5Rk3vHA=;eKNphbTpPVBmNOyEkTvBaA=="
 ---

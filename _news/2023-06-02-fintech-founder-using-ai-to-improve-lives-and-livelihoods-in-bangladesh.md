@@ -53,6 +53,20 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "5 Companies leveraging AI to transform the future of FinTech"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-06-01T07:03:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-companies-leveraging-ai-to-transform-the-future-of-fintech/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/06/ibs_Artificial-Intelligence.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Generative AI Is Moving Into Adtech. But Which Companies Will Stand The Test Of Time?"
     excerpt: "Generative AI is bulldozing through every industry possible, including advertising and brand marketing. And VCs have some choices to make."
     publishedDateTime: 2023-06-02T11:00:00Z

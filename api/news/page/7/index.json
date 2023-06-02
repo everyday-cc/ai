@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-05-29-arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones.md",
+      "title": "Arm's New CPU, GPU Cores to Deliver Next-Gen AI Experiences on Phones",
+      "excerpt": "Arm says pairing its Armv9 Cortex-X4 compute cluster and Arm Immortalis-G720 GPU in a single package will bring powerful AI, 3D, and gaming performance to the top smartphones of 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones",
+      "originalUrl": "https://www.pcmag.com/news/arms-new-cpu-gpu-cores-to-deliver-next-gen-ai-experiences-on-phones",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00n6JF7PK0qozSLHl73N4AU-1.fit_lim.size_1200x630.v1685112823.png",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-28T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-29-10-free-online-coursera-classes-to-take-if-you-want-to-work-in-ai-from-experts-at-amazon-meta-and-others.md",
+      "title": "10 free online Coursera classes to take if you want to work in AI, from experts at Amazon, Meta, and others",
+      "excerpt": "Find the course here. Artificial intelligence: ethics & societal challenges Class description: The class covers the ethical and societal aspects of artificial intelligence over four modules that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2",
+      "originalUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63eb9ca47518920018f33adb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-free-online-classes-coursera-meta-amazon-2023-2?amp",
+      "publishedDateTime": "2023-05-28T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-29-google-deepmind-makes-youtube-shorts-more-searchable-with-ai.md",
       "title": "Google Deepmind makes YouTube Shorts more searchable with AI",
       "excerpt": "Google Deepmind has introduced a new visual language model for YouTube Shorts, making them more searchable with AI-generated metadata descriptions. The language model, Flamingo, also provides ...",
@@ -1054,91 +1158,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-regulators-take-aim-at-ai-to-protect-consumers-and-workers.md",
-      "title": "Regulators take aim at AI to protect consumers and workers",
-      "excerpt": "AI also affects hiring, housing and working conditions. Ben Winters, Senior Counsel for the Electronic Privacy Information Center, said a joint statement on enforcement released by federal agencies last month was a positive first step.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers",
-      "originalUrl": "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ocregister.com/wp-content/uploads/2023/05/OCR-Z-BOFA-SVB-0316.jpg?w=1024&h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers/amp/",
-      "cdnAmpWebUrl": "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/05/26/regulators-take-aim-at-ai-to-protect-consumers-and-workers/amp/",
-      "publishedDateTime": "2023-05-26T21:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orange County Register",
-        "domain": "ocregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems.md",
-      "title": "Opinion: Stop the robot takeover: How AI advancement can pose problems",
-      "excerpt": "Pospisil explains that most jobs robots will take over are automated. They still cannot compare to a human’s ability to adapt or critical thinking skills in more specialized jobs not having to do with Ford production. In short, they won’t replace us in the job market because they’re missing a human element.",
-      "sourceUrl": null,
-      "webUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/",
-      "originalUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/01/Screenshot-2023-01-28-11.17.25-PM.png?fit=361%2C240&ssl=1",
-          "width": 361,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/amp/",
-      "cdnAmpWebUrl": "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/fountain-valley-high-school/opinion-stop-the-robot-takeover-how-ai-advancement-can-pose-problems/amp/",
-      "publishedDateTime": "2023-05-26T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
