@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial intelligence could lead to extinction, experts warn"
-excerpt: "Artificial intelligence could lead to the extinction of humanity, experts including the heads of OpenAI and Google Deepmind warn. Dozens have supported a statement published on the webpage of the Centre for AI Safety ."
-publishedDateTime: 2023-05-30T11:31:00Z
-originalUrl: "https://www.bbc.co.uk/news/uk-65746524?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/uk-65746524?at_medium=RSS&at_campaign=KARANGA"
+excerpt: "Artificial intelligence could lead to the extinction of humanity, experts - including the heads of OpenAI and Google Deepmind - have warned. Dozens have supported a statement published on the webpage of the Centre for AI Safety."
+publishedDateTime: 2023-05-30T16:32:00Z
+originalUrl: "https://www.bbc.co.uk/news/uk-65746524?at_ptr_name=facebook_page&at_medium=social&at_link_type=web_link&at_link_origin=BBC_News&at_campaign_type=owned&at_link_id=73422F66-FEEE-11ED-B559-B5127F934D9D&at_bbc_team=editorial&at_campaign=Social_Flow&at_format=link"
+webUrl: "https://www.bbc.co.uk/news/uk-65746524?at_ptr_name=facebook_page&at_medium=social&at_link_type=web_link&at_link_origin=BBC_News&at_campaign_type=owned&at_link_id=73422F66-FEEE-11ED-B559-B5127F934D9D&at_bbc_team=editorial&at_campaign=Social_Flow&at_format=link"
 ampWebUrl: "https://www.bbc.co.uk/news/uk-65746524.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-65746524.amp"
 type: article
@@ -234,6 +234,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/03/AI-e1628527067120.jpeg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Top AI researchers and CEOs warn against ‘risk of extinction’ in 22-word statement"
+    excerpt: "This statement, published by a San Francisco-based non-profit, the Center for AI Safety, has been co-signed by figures including Google DeepMind CEO Demis Hassabis and OpenAI CEO Sam Altman ..."
+    publishedDateTime: 2023-05-31T05:05:00Z
+    webUrl: "https://www.theverge.com/2023/5/30/23742005/ai-risk-warning-22-word-statement-google-deepmind-openai"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 63
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/TVAPXNsHjyXzjCHMtXTMFKUQstA=/0x0:1275x700/1200x628/filters:focal(638x350:639x351)/cdn.vox-cdn.com/uploads/chorus_asset/file/24690541/AlexaSteinbru_ck_ExplainableAI_1275x700.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Risk of extinction by AI should be global priority, say experts"
     excerpt: "Hundreds of tech leaders call for world to treat AI as danger on par with pandemics and nuclear war"
@@ -580,6 +594,6 @@ related:
       domain: texasstandard.org
     quality: 0
 
-secured: "8/D76qK2VXnsebzIUlAaOR4aZleCPu4MCmPrBA0Ix7okyepz0M9OaJDTCNgfSFLQ4w1qlTJICbZR0acjol1deBwKW655KWLq7wZ4RCH0cawXYCBc+9JqDBBlCq4i8M1olFm/BJkOLK3X8/tms1ZxQsUWdi8yG6A6nv+CIlmGMBdWAW43orAxMor8s7XKAAesN4Y0vVd5LXSCSEjOc/SsHrHch8kAHF2Jwj1JsDsrKBKRxWFU/eb6YHFScbqR86PxBIPs++M8QiXp/ipJOttQbNDhCEWEWzAF5BVKZxzlqKoGidiSLNuZXL7NPNZ5z+HWN/EoBlD82un0Nht+LvxfzSTP6rE1+YEtf7zYjiDfsU0De88xvollMht7W6/9Pve/FchOAhsZIAAM9WULgY/oIWVl2vSg0pl1AubcqnaRQjF1E8ULLFYGsGnPAUI+SZnrOR6Zjc1uqObOaXoZtB9l2OnDg81CNdveAPLfn6mOYYle0zCa8IEmX2Vt84j5bCSTI4wIhrlbCmfeghY4KFGydw==;NpJd+iK2khfmZnY1mGi+lw=="
+secured: "71PpnQ6MbeIPobdkMSKoz9xCm6tTK+eZ+VMmlMZWD3KnYhPtB7LC5t6BdjSp/5lOAKqBZYyWk8GGBxejtMbBN1dAOttZXKdU3GNjzX+i/ookKU22fM2Y4QfvovNlEK7HxxN36LC9TPuh+hKCaTuvcSqTup6rTTboOkG9SCBG6JJ1ZVZJhGoK+F68f8lkRhzwb6rcVBgwinnf3bFkFz1cD8J8rwgRYdRsqObr1dI9toKTT12bkevXisyBtTl6vOSg1efJ8+Lqu/v4QmZohDgsygq3ah5RX2TChOhHnkVhzbVUsbltxzwdDUU16m0IHhbFPLd214zJubbJZeVdmAbiBJgPncPgPGKn+Sr/9W9H6+c=;uN1GLfcUhGZ2ueqMiXqd0w=="
 ---
 

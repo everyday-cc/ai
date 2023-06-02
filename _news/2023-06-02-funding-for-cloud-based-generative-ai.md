@@ -94,6 +94,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Apple is accelerating hiring efforts for generative AI engineers"
+    excerpt: "Apple is again recruiting for Machine Learning engineers for both Apple AR and \"Conversational and Generative AI.\""
+    publishedDateTime: 2023-06-02T11:12:00Z
+    webUrl: "https://appleinsider.com/articles/23/06/02/apple-is-accelerating-hiring-efforts-for-generative-ai-engineers"
+    ampWebUrl: "https://appleinsider.com/articles/23/06/02/apple-is-accelerating-hiring-efforts-for-generative-ai-engineers/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/06/02/apple-is-accelerating-hiring-efforts-for-generative-ai-engineers/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 57
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/54505-110094-Apple-Siri-xl.jpg"
+        width: 1312
+        height: 738
+        isCached: true
   - title: "Dear AI Stock Fans, Mark Your Calendars for May 31"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips C3.ai (NYSE:AI) investors are awaiting earnings results due May 31, as the"
     publishedDateTime: 2023-05-30T13:23:00Z
@@ -136,6 +152,6 @@ related:
       domain: miamiherald.com
     quality: 0
 
-secured: "fhi0RvJ4dyvViSzvgl3W0GZvzHeexRqo6TDIws3kAip5uscKDjPGmscG07HyK2Mn2oUYfXugfFHlC23Tl8Bgyn7PbWfmO1KvtfhWXpFoP8BIpZ/Q9ibYHNNl5V48PX9pc9hMbG5/c6OVkPnQGhGG56EPRM8GeDe2dFgoAE2rAFEt9HKEbgr6p4DONzLX6VZhN3tekrHxw9fHF1AfchQWc1/kUO4qftBHaGaeQ1zjKb3ObIoHFA93jNS7FQbMpvpZMm0rdUPyrwbAz6g43KVsjwfgKEQ2vCf4D20FGji88JW95kKBnCdUCxFxkFPSZ6Xqd+htF2r9LqZ+Zey+yuvcPxrT7zCh8fZWwlD64QO8ezU=;zr54HIq0/aHItdcP+6WW8A=="
+secured: "NDdA6bTnyqdgAvTJgvaKAHWA4WwLg0cKEx58lrYrCKXzM6vPaMh4zLiEoSOMP0Xxd3CsUvMd4yGxEIkMRKmi3u2aTvzFB+bVIcLoOA9shXAUVjGvy2Ec0AAwiB+wXszQKaRyudAxcgf2aIMguW2+HF5t/7QFdy1eya3BkWvsPRS9XUMxAPzOBhWLPM3+ElBEssnw6y7obrjJ1h8MezXWwOqMZZ2heUK5GxXer2Wc1n5fgzK09SEXLR3cn+eziGCgJw+WvA2WwRlQM1f1wepKxRFkx7yHrOSDInUn99JU9Tui3U+MirQevvXvSzUfzIoIQDPPCA9/eeg+090FwdVnJiXyNHKi+0phOF6MZRsFFAtfYcsdQg9q+4wM6r3x24TalJv7cZx6wMjhGbl+Fk1UJBWnukuy7HktHD+mQDGVQF7Iyum2HBq85UApHNVpU6VFJs+K0gWjfw/eUDstSuyCgREg02IGjMCBJ+6bbZZznuG8A1EygemQ+swC6YMEmMNUR7wMQm9miCi7il1q0AKhrQ==;N5QvJAA6uL0YIxGbEvTyFw=="
 ---
 

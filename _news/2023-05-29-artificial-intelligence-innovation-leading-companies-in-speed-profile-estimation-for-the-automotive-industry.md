@@ -18,22 +18,61 @@ topics:
   - AI
 
 related:
-  - title: "AI & IP—Data Protection At The Crossroads Of Innovation And Intellectual Property"
-    excerpt: "From cutting-edge registration techniques to implementing privacy-enhancing technologies, businesses must be creative and forward-thinking in protecting intellectual property in the AI age."
-    publishedDateTime: 2023-05-30T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/30/ai--ip-data-protection-at-the-crossroads-of-innovation-and-intellectual-property/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/30/ai--ip-data-protection-at-the-crossroads-of-innovation-and-intellectual-property/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/30/ai--ip-data-protection-at-the-crossroads-of-innovation-and-intellectual-property/amp/"
+  - title: "AI, Machine Learning And Automation: What Agencies Need To Know"
+    excerpt: "Automation refers to the use of machines to automate routine tasks that would otherwise be executed by humans. It involves configuring a set of rules and triggers to initiate actions. While automation is often complex, it lacks AI’s ability to learn from data to optimize performance."
+    publishedDateTime: 2023-06-02T11:29:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machine-learning-and-automation-what-agencies-need-to-know/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machine-learning-and-automation-what-agencies-need-to-know/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machine-learning-and-automation-what-agencies-need-to-know/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5fa196489a65b17baccf944f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 996
+        isCached: true
+  - title: "Blink Ops launches AI copilot to streamline security automation"
+    excerpt: "Blink Ops, a cybersecurity startup based in Tel Aviv, has launched a new software product that uses generative AI to create no-code workflows for security and IT operations. The service, called Blink Copilot,"
+    publishedDateTime: 2023-05-31T21:00:00Z
+    webUrl: "https://venturebeat.com/ai/blink-ops-launches-ai-copilot-to-streamline-security-automation/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61095ac215869a022481acb3/0x0.jpg?format=jpg&crop=3283,1848,x0,y109,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Blink-logo_tel-aviv.png?fit=750%2C422&#038;strip=all"
+        width: 750
+        height: 422
         isCached: true
+  - title: "How ‘Automation Bias’ Plus Artificial Intelligence Can Lead To Medical Misdiagnoses"
+    excerpt: "The machine does not always know where it’s going! Automation bias is when humans trust the results of a machine, even over the evidence of their senses and knowledge."
+    publishedDateTime: 2023-05-30T16:27:00Z
+    webUrl: "https://www.forbes.com/sites/paulhsieh/2023/05/30/how-automation-bias-plus-artificial-intelligence-can-lead-to-medical-misdiagnoses/"
+    ampWebUrl: "https://www.forbes.com/sites/paulhsieh/2023/05/30/how-automation-bias-plus-artificial-intelligence-can-lead-to-medical-misdiagnoses/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/05/30/how-automation-bias-plus-artificial-intelligence-can-lead-to-medical-misdiagnoses/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647622e2daa10678ac569955/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "8Flow.ai Announces Self-Learning Automation Engine for Customer Support, Raises $6.6 Million"
+    excerpt: "SAN FRANCISCO / ACCESSWIRE / June 1, 2023 / 8Flow.ai, a startup focused on analyzing and automating customer support workflows, has emerged from stealth and raised $6.6 million in funding. The round was led by Caffeinated Capital, with participation from ..."
+    publishedDateTime: 2023-06-01T15:26:00Z
+    webUrl: "https://www.kansascity.com/press-releases/article275984861.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 6
 
 secured: "jT5jZPjAsAIaW8ggu7zIHvMrVnCmymSzViuTOCCTYBWy2C04LfW0QgTXZgFhuqxcvONepZ0iGFfLF5dKBCTPbLsFvmRO8SSpzHCF0Qq5enEsnWAnoCEma4pF77mYElHiJK7IsWwqEDKtXSoYnQLUZbVK560yL8F3F6UpUB2TxxYvCLAjFmWUjisMdbBQAliIPMDjGjR7n1YBV1KLV9gtOcD2awNw/fvuYKP+yg+J9mWCAKhU4hPyN2cQuigPoCdwCwxkXIW9daNfvhNbbhlSnEBjLTxiEW2UYe31ttzY1Z2wJuecZ8P94ZBHe0wmFL51UUd5TZzo/GhhRVM6zbFMFVl5HuKfkREUf6uBlxXOdfAS0CPfDy9bEKzohLqmobI2lfH32yI+Y5RC0QnHRngXncAIpbSNymz12321/u043gNNMAnjF702sAWXnfWdgbk5OD9DaVklAjbDdMkX00Cg0DxnvAo4CN2yOoR2L95Gbm35jZFzzNUjH74uIeqd4nmQ4YaRdldyiICO7LT1KCnx1g==;JCdS+MC4ZTMxPR0RodB+9A=="
 ---

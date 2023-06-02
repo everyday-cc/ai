@@ -43,6 +43,20 @@ related:
         width: 720
         height: 719
         isCached: true
+  - title: "Microsoft signs multi-billion dollar deal with GPU cloud provider CoreWeave to meet AI needs"
+    excerpt: "CoreWeave is a specialized cloud provider built for large-scale GPU-accelerated workloads. The company raised $200 million earlier this week - just a month after it raised $221m a"
+    publishedDateTime: 2023-06-02T10:35:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-signs-multi-billion-dollar-deal-with-gpu-cloud-provider-coreweave-to-meet-ai-needs/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 60
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "This 26-Year-Old Has Raised Another $28 Million To Build An AI Assistant For The Workplace"
     excerpt: "Stockholm-based learning platform Sana has announced a suite of generative AI tools along with an extension to its Series B round, bringing its total funding to $80"
     publishedDateTime: 2023-05-31T15:32:00Z

@@ -71,6 +71,15 @@ related:
         width: 600
         height: 399
         isCached: true
+  - title: "Is C3.ai Stock Poised for a Short Squeeze?"
+    excerpt: "After C3.ai reported a disappointing outlook along with its fourth-quarter earnings, its shares plummeted. Here's why the heavy shorting activity in the stock should intensify."
+    publishedDateTime: 2023-06-02T10:32:00Z
+    webUrl: "https://www.thestreet.com/memestocks/reddit-trends/is-c3-ai-stock-poised-for-a-short-squeeze"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 17
 
 secured: "aLpiqSCnLG5ct5zGnm6ffg8T5phZS+2PPXWk0VC6CesXGqS4e2Aj1CrPcoK4YLmmkdb9NJ27+Lx7IXO8IMnzOJ2DAtHBYHu6i4lToseerMemPHoZyI1rDzR/oInDWAyJTFajBciIEKQohZzIJ7EfHw3fr2g8vqlLA+ysynWL8jmMhveB4dkk2Xjrhpv4CiH+r6fU0OhXOmi+ARGxFlwCziLizAhL89DKR0ZAo2kK/w9zFkt4Zy6lEiZc1fjQagPSKs/KxTBoEog4T/gq4kFTWhi5H+nTrHAIXZ5qhFk7T0ebi1m/2Uc8egN1MEvb2rq09pq9agfnsQNZZt5syy1chGD5BHqinK+CjQdaPvGBoE3REc0Lk07bOuhIVlfrFLyO09Fo5ycvx2jPn6YtpXXoB05+udqIuoA1Jp5KYGNocSmMduTIltbzlypaTomf4ytyVOmSXEf88nnYSqhzOr/iskrbJ91tloeuiiCmQzf+orAw4fd1A1K8lhPR6V5+O3amRPjluznb4g9mhmYfIGrgzw==;fKQNv7/jNMO6HPhvjGwKBQ=="
 ---

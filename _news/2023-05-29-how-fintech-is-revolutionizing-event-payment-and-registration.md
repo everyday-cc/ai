@@ -53,17 +53,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "How generative AI is impacting the creative industry"
-    excerpt: "The root of this is generative AI, a type of artificial intelligence (AI) capable of creating original content. Since the release of ChatGPT in November 2022 by OpenAI, companies like Midjourney, Runway,"
-    publishedDateTime: 2023-05-29T05:59:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/how-generative-ai-impacting-creative-industry"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/digital-economy/how-generative-ai-impacting-creative-industry"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/digital-economy/how-generative-ai-impacting-creative-industry"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 39
   - title: "The Rise of AI in FinTech"
     excerpt: "The financial industry has witnessed a significant transformation in recent years with the rise of financial technology (FinTech) and the emergence of open finance. These disruptive forces have revolutionized traditional banking and financial services,"
     publishedDateTime: 2023-05-30T05:20:00Z
@@ -77,6 +66,34 @@ related:
       - url: "https://taxguru.in/wp-content/uploads/2022/06/Taxguru-Logo-1.jpg"
         width: 500
         height: 500
+        isCached: true
+  - title: "Fintech founder using AI to improve lives and livelihoods in Bangladesh"
+    excerpt: "Women in Tech Excellence Rising Star of Financial Services awards winner, Shabnam Wazed is shaping fintech, using AI to make financial services more inclusive."
+    publishedDateTime: 2023-06-02T09:31:00Z
+    webUrl: "https://www.computing.co.uk/interview/4117005/fintech-founder-ai-improve-lives-livelihoods-bangladesh"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/d87be48/eabf10b8-256a-43f1-8809-6fdf5f835566/7/Wazed-1-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
+  - title: "Generative AI Is Moving Into Adtech. But Which Companies Will Stand The Test Of Time?"
+    excerpt: "Generative AI is bulldozing through every industry possible, including advertising and brand marketing. And VCs have some choices to make."
+    publishedDateTime: 2023-06-02T11:00:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/generative-ai-adtech-venture-funding-startups"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 30
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Facing.jpg"
+        width: 900
+        height: 506
         isCached: true
   - title: "Financial wellness fintech Elifinty launches"
     excerpt: "UK startup Elifinty has launched its open banking-based \"socially conscious\" debt management platform for consumers and creditors."

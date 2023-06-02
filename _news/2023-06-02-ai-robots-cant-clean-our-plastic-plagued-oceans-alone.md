@@ -1,32 +1,29 @@
 ---
 category: news
 title: "AI Robots Can’t Clean Our Plastic-Plagued Oceans Alone"
-excerpt: "AI algorithms are already being widely used, including in – yes – ocean-cleaning efforts (there are even robots). But while AI has made the process efficient and autonomous, there are limitations."
-publishedDateTime: 2023-06-02T04:00:00Z
-originalUrl: "https://www.bloomberg.com/opinion/articles/2023-06-02/ai-robots-can-t-clean-our-plastic-plagued-oceans"
-webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-02/ai-robots-can-t-clean-our-plastic-plagued-oceans"
+excerpt: "Seemingly overnight, we’ve ended up co-existing with artificial intelligence. It’s making spoof photos of the pope, scaring the stock market with fake explosions and helping us with our emotional issues. But some are wondering whether there are better uses for the technology:"
+publishedDateTime: 2023-06-02T04:23:00Z
+originalUrl: "https://www.washingtonpost.com/business/energy/2023/06/02/ai-robots-can-t-clean-our-plastic-plagued-oceans/8e2d47a0-00fd-11ee-9eb0-6c94dcb16fcf_story.html"
+webUrl: "https://www.washingtonpost.com/business/energy/2023/06/02/ai-robots-can-t-clean-our-plastic-plagued-oceans/8e2d47a0-00fd-11ee-9eb0-6c94dcb16fcf_story.html"
 type: article
-quality: 67
-heat: 67
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: Bloomberg L.P.
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Washington Post
+  domain: washingtonpost.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_eno0iSnl1Y/v1/1200x800.jpg"
-    width: 1200
-    height: 800
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
-secured: "4Qh+N0oFPlmMbh0pzV42m3/TPHElzTsYJM+BxspJyDj2doUdNtT4fuBAykwAPgk72G30pxqnrQgmkHZtfwBqbkj9KT0GFrHMjrItOSF9x0qXckmlYL+uekmGfu3S35+oKybHmhWC7QDKF0nu9suHdfPgflrTYSA/b/a7TNhlIfIt2ZP5nNUw3UboOnploVdB7ocTx/72ZczwJog0u1Ryex/LMmrT81q3IqkrQrypzcAMZAJnFstWTlQSWPjiVqbIH/l96Zl4VTkALYgt5zGckUt7NGAYMXC8oU/ZRFYy/kHWEOQSJjK1s4alikpLJ2orHgiroyVY8prPZCoPO2KVR3WLTwNNgz2AkjitYBI03Qo=;Ly9D+2X30iz6pt8Wp9b5Xw=="
+secured: "daruyNXhwhJpVSLcj+3I6AI/PYgr9KxzJiUpenq+iX0p/QzKxxyv6QosXa3cqcJb83UpKj/5l94/uG/Cy8NMr4E2ZlX3qP1c2ZJ+Ul6QfWRA7usAyvl24Nae2OUI2mmBMCywgOkFPyoW0QkpCRLrRAfSVzdKnqZr01CPrPEiMthycCclNLVrR2Hu9UUolGWlEZNMn+6Q9WbhwgqD9+zztMhNgidw8FLTQIARjgOqe2FenRdAZZRV6uIH4LQM+3K1QGbfCgprobp/mWNMuf1BibetTZ4vfNJH+z0/t9Jn1sBUjqir/SMjVBevryF16PQwF5rLwhrivMNcMmtxE27dktIlHc3iE9iVoYLZqxxXKkQ=;9LgPV+keNzbhT0x9/QXEVw=="
 ---
 

@@ -227,10 +227,24 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Top AI researchers and CEOs warn against ‘risk of extinction’ in 22-word statement"
+    excerpt: "This statement, published by a San Francisco-based non-profit, the Center for AI Safety, has been co-signed by figures including Google DeepMind CEO Demis Hassabis and OpenAI CEO Sam Altman ..."
+    publishedDateTime: 2023-05-31T05:05:00Z
+    webUrl: "https://www.theverge.com/2023/5/30/23742005/ai-risk-warning-22-word-statement-google-deepmind-openai"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 63
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/TVAPXNsHjyXzjCHMtXTMFKUQstA=/0x0:1275x700/1200x628/filters:focal(638x350:639x351)/cdn.vox-cdn.com/uploads/chorus_asset/file/24690541/AlexaSteinbru_ck_ExplainableAI_1275x700.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Artificial intelligence could lead to extinction, experts warn"
-    excerpt: "Artificial intelligence could lead to the extinction of humanity, experts including the heads of OpenAI and Google Deepmind warn. Dozens have supported a statement published on the webpage of the Centre for AI Safety ."
-    publishedDateTime: 2023-05-30T11:31:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-65746524?at_medium=RSS&at_campaign=KARANGA"
+    excerpt: "Artificial intelligence could lead to the extinction of humanity, experts - including the heads of OpenAI and Google Deepmind - have warned. Dozens have supported a statement published on the webpage of the Centre for AI Safety."
+    publishedDateTime: 2023-05-30T16:32:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-65746524?at_ptr_name=facebook_page&at_medium=social&at_link_type=web_link&at_link_origin=BBC_News&at_campaign_type=owned&at_link_id=73422F66-FEEE-11ED-B559-B5127F934D9D&at_bbc_team=editorial&at_campaign=Social_Flow&at_format=link"
     ampWebUrl: "https://www.bbc.co.uk/news/uk-65746524.amp"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-65746524.amp"
     type: article

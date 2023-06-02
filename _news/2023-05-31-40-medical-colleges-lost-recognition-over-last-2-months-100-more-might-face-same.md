@@ -43,6 +43,20 @@ related:
         width: 660
         height: 440
         isCached: true
+  - title: "Two local VOICE advocates receive national recognition"
+    excerpt: "The Indiana Department of Health is recognizing members of VOICE Indiana who were honored as 2023 Group Youth Advocates of the Year by the Campaign for Tobacco-Free Kids for their advocacy efforts in the fight for a tobacco-free future."
+    publishedDateTime: 2023-06-01T00:01:00Z
+    webUrl: "https://readthereporter.com/two-local-voice-advocates-receive-national-recognition/"
+    type: article
+    provider:
+      name: Hamilton County Reporter
+      domain: readthereporter.com
+    quality: 24
+    images:
+      - url: "https://readthereporter.com/wp-content/uploads/2023/06/VOICE-Award-2023-777x437.jpg"
+        width: 777
+        height: 437
+        isCached: true
 
 secured: "wnusqqv+Y0v6DeWEawJy1nQFWbX+zleN91KuP5lTJcmOE3b15bqTS4N6EuCnzrV13W4UEBoE7VJA9SINaZ7kCtrxVbBjfXvjqmD7QMvvWxhx9XhHNEG4DBvDKC7PUhWrzy+lv8i5bm/hBsENrt6xSpIdYOs1HhHZNbsQ5Q4OYOEvvOBTz5rMy7ELPOEhmriE/LxPJazfG5fCSbxP5LxHaqtYeeFGJtHElZSlSuzoyyjQgQgNsCG1A7Sv9a8ArI/MHPghDjb+H+XSrTZuKQln0KEdQmgL6CZxiOjM0Y3OTD+/CQn+PtIB2pzicTudXqvFwgrT9GhvWHQiY5hKIETP9JnPKiUDf1hGUoKuhOolVSzHhAcR71KEtgWh9MXlb/AxFX60e+GONmF0idGyCrUtnLj28qJeB1yKcYKuy3LLgQojGkuVm/oXboUUrj/0QP92lqpU4y/Jg7c3qL43RGx2WJtY1OqNqsFb4XzdZK1xEjANlhDUiOyHFfL8mNo+FqKWxm8lfO1w4r9W365RuAxIsg==;QLPIYaESg2JyIOljBM+inA=="
 ---

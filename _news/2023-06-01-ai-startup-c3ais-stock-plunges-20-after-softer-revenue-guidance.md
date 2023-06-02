@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-dow
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -74,6 +74,15 @@ related:
         width: 5150
         height: 2508
         isCached: true
+  - title: "Is C3.ai Stock Poised for a Short Squeeze?"
+    excerpt: "After C3.ai reported a disappointing outlook along with its fourth-quarter earnings, its shares plummeted. Here's why the heavy shorting activity in the stock should intensify."
+    publishedDateTime: 2023-06-02T10:32:00Z
+    webUrl: "https://www.thestreet.com/memestocks/reddit-trends/is-c3-ai-stock-poised-for-a-short-squeeze"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 17
 
 secured: "/mPAU9blPhIQAxxdoQ/pIVMM3mR0J1ETIv3yuJK16kiMgLIKZMOF3qWkzgGGIX570AdaslF/Mwz4mnvBDqrs6pqvh0SdkWWfdY4lg+jKhFHT4t/T63Gigm/RZqZOqTpTVny/FxYmvVpRuqIioHvHIjP+935ME4ZRHEGpPD+N4kxB2mm4+smKgL6gGqW3QIQYteblBEWam+2KnpobaZ65qdgkYE8K5LYpMf2fZSL022J+WbD/2+umWedHc5zvWSdQ4H8zASTCZXA7xPr/CFrBApxm+2uc7g1Xx3QHo4ZcbHSC6zU/Ts1bW9MoIKKJ9h1EekC0joojd3cFIvzUF61keLpH+sBpHQbuw2NQcuNv7Phy4rVh/HQRPtHq/ETUB0xRvXe2Y3HCIZm+QMgsf/GmCae2oUNExX1qc05msPJreI0pkCdzCQ8snr0lkz3x9gS8FbnMoE/f7nRm7yL6HCkwjwnnaiDQKKuUyyBXf7eshSrv5onnQuHkKfkR6yHD2bE4ll+AZRIPLIhY6vm2WJMtOQ==;pguK2F65zlABO1EoXn4rvg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/paulhsieh/2023/05/30/how-automation-bia
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/05/30/how-automation-bias-plus-artificial-intelligence-can-lead-to-medical-misdiagnoses/amp/"
 type: article
 quality: 81
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,15 +30,54 @@ images:
     isCached: true
 
 related:
-  - title: "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
-    excerpt: "Automation Anywhere today announced it is working with Amazon Web Services (AWS) to bring intelligent automation and"
-    publishedDateTime: 2023-06-01T16:38:00Z
-    webUrl: "https://www.datanami.com/this-just-in/automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes/"
+  - title: "AI, Machine Learning And Automation: What Agencies Need To Know"
+    excerpt: "Automation refers to the use of machines to automate routine tasks that would otherwise be executed by humans. It involves configuring a set of rules and triggers to initiate actions. While automation is often complex, it lacks AI’s ability to learn from data to optimize performance."
+    publishedDateTime: 2023-06-02T11:29:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machine-learning-and-automation-what-agencies-need-to-know/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machine-learning-and-automation-what-agencies-need-to-know/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machine-learning-and-automation-what-agencies-need-to-know/amp/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 13
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5fa196489a65b17baccf944f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 996
+        isCached: true
+  - title: "Blink Ops launches AI copilot to streamline security automation"
+    excerpt: "Blink Ops, a cybersecurity startup based in Tel Aviv, has launched a new software product that uses generative AI to create no-code workflows for security and IT operations. The service, called Blink Copilot,"
+    publishedDateTime: 2023-05-31T21:00:00Z
+    webUrl: "https://venturebeat.com/ai/blink-ops-launches-ai-copilot-to-streamline-security-automation/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Blink-logo_tel-aviv.png?fit=750%2C422&#038;strip=all"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "8Flow.ai Announces Self-Learning Automation Engine for Customer Support, Raises $6.6 Million"
+    excerpt: "SAN FRANCISCO / ACCESSWIRE / June 1, 2023 / 8Flow.ai, a startup focused on analyzing and automating customer support workflows, has emerged from stealth and raised $6.6 million in funding. The round was led by Caffeinated Capital, with participation from ..."
+    publishedDateTime: 2023-06-01T15:26:00Z
+    webUrl: "https://www.kansascity.com/press-releases/article275984861.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 6
+  - title: "Artificial intelligence innovation: Leading companies in speed profile estimation for the automotive industry"
+    excerpt: "According to GlobalData’s Technology Foresights, which plots the S-curve for the automotive industry using innovation intensity models built on over 619,000 patents, there are 290+ innovation areas that will shape the future of the industry."
+    publishedDateTime: 2023-05-29T12:24:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-speed-profile-estimation-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 0
 
 secured: "4saXEKm8Mj4AamBZ9TP4nJ02fRm0mZfDhUcpknIcuxNEmg2U85CNw75omTaknterhxNwcw+IVZb8us4uAyobywvSngHPmLvu/xot2CobqsVr8LD0nTQlQzfhwmKSMslqZJDKVDfkmxnCWAxdHU2X5R6eaImj+AuubvcbiMLrmTqsME1F42OoeKW7jhahuKHv1oh+r6keHbpDVwGFg4CWihnIQt9Ex6Yc/WirpV6fSY4BIaZeKfDNNpEehmQRAY9tb5VFNlHC8LfS1ZOAyh9Y7k+6kgTNd/nHIbI3hwodoVKX7KdjAURpJTwLV+zmm2QfZEEYSEfSOWjSB4y/wPFCr8X6uZR3uZWrhokAfcVtgzmXglEhUtkqLIGb20N0ed1mqzgSwpxNtXePGKHfA4gmbjqwW65j6z24OAA7nOwVSCuBR4+zF9SsQkne50QQgQgTRTa5qhkMmAcIgUB/zWugBIXv5U70i04N8KClQ2nuhjqOCVTKXcn4LyJQTlFUAfF4j50047QqVVJaKOfaE9uecA==;/LYXNiZsBwjWDuHWpxlZVA=="
 ---

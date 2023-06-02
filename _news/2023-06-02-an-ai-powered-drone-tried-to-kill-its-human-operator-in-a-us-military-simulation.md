@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-powered-drone-tried-killing-its-o
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-powered-drone-tried-killing-its-operator-in-military-simulation-2023-6?amp"
 type: article
 quality: 84
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-Controlled Drone Decides to Kill Human Operator in Simulated Mission"
+    excerpt: "An AI-enabled drone decided to kill its human operator during a mission simulation because it proved to be the best way to score more points. As the Royal Aeronautical Society rep"
+    publishedDateTime: 2023-06-02T10:49:00Z
+    webUrl: "https://www.pcmag.com/news/ai-controlled-drone-decides-to-kill-human-operator-in-simulated-mission"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/067OZxsxcuPrMfhuQNEUjZY-1.fit_lim.size_1200x630.v1685702074.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "AI military drone kept murdering its human operator in simulated tests"
     excerpt: "A U.S. Air Force Colonel reported that in a simulated test, an AI-controlled drone kept killing its human operator when it was denied from completing its search and destroy missions."
     publishedDateTime: 2023-06-02T01:15:00Z

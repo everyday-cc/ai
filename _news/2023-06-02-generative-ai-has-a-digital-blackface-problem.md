@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-02T09:01:00Z
 originalUrl: "https://www.businessinsider.com/generative-ai-stokes-digital-blackface-accusations-advertisers-adjust-2023-6"
 webUrl: "https://www.businessinsider.com/generative-ai-stokes-digital-blackface-accusations-advertisers-adjust-2023-6"
 type: article
-quality: 67
-heat: 87
+quality: 69
+heat: 89
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://i.insider.com/647908c6085acb0018ff3f1c?width=1200&format=jpeg"
@@ -52,6 +53,6 @@ related:
       domain: healthitanalytics.com
     quality: 19
 
-secured: "x6EvR36R32/b4/cKEEQFjogHUkKP49LoSWF/7n5iggoCcuM09H78Dj+blOmMpzJM4skf4Y9eC+d8hLHLQdW0NBDIQJhHzDEcVmuroKByfKIROFaMijaPEyrpjEC0LfCz2hJkABJaLFoHz2oCIHQzqCy8520YtYKP9M7QgCwZfgZgk9aMGS8CKjhT0M0+1eQn2dHpJPpVYWlOknina/SIot72hojPgWE8+4F1pgb5+jUjkwMQq+oxeoldJfpOR4oC9vSv3PcJZ/rkYpCONMiL7BjwRIE+rnZodrhUFhd070Y2EMx/x9HHvEz0Lm6d9/J7zejU5u2HNU8kzqpqSlgwiLtU4+DmVQS8GcU+fns8x8o=;sDSWaU2haDK7kA0OtAY/LA=="
+secured: "vqitOYp4sLbg30V8hgxnIXb+TI5aPAhm+iXMjlVpPUns/PLKZyPO4oDs6Cu7QYatnyiytO/v3lP0NRCAEsYv5nTLMUGdpAA9GyjQmL8wigbylY6qCO6MLycPJgXahqtDa2wvj+7TWZdlhYtnqj2+ifG8Op5WjnlynAdozntE8jb8hQt7qCiMTmzkdyMiqmQO6Dwz5WITPfSPqGCZ16E3gvjhiC9p3XGjwfkDAeKqx12DBD8k+6t2PaWWhGfrJN1d0gPbV4A7kORe52nZ1w8VOEMuM0Vy0kHFn5z27dwBn9Zjrn2LM+7xJGwflvGKLEiuNK+UomdNe4mLMyGjTMo8Fhh9c9OZFsDLPLLKV4ytHJAO4h0+t+CZ3kHLNUpFIzKYqB6MgcTarymEtyRSQ5bI1aieFPJLYP0L5jCRS1b/DCGaBA/nlWpoc0zOAcZkot3u0tEDGCWJt14MPiLSNOEicqj0OOO+C56sPwg92bb0srNutK/BBvLBjS4BvAMZFdnlYo9VoMG2dcNUId83SgatKQ==;6IDv27m65yLspyxVHiZeTw=="
 ---
 

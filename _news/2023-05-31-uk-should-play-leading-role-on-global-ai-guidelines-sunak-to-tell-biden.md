@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/may/31/uk-should-play-le
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/31/uk-should-play-leading-role-in-developing-ai-global-guidelines-sunak-to-tell-biden"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "How the Biden administration is trying to regulate bias in health care AI"
-    excerpt: "Artificial intelligence could revolutionize health care. It could also perpetuate and exacerbate generations of racial inequities."
-    publishedDateTime: 2023-06-01T20:21:00Z
-    webUrl: "https://www.wfyi.org/news/articles/how-the-biden-administration-is-trying-to-regulate-bias-in-health-care-ai"
-    type: article
-    provider:
-      name: WFYI
-      domain: wfyi.org
-    quality: 38
-    images:
-      - url: "https://www.wfyi.org/files/wfyi/articles/original/pexels-ivan-samkov-4989167.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "gsrC8QlW/hpuZ6P1S39ctoKAGcIl/vbLP+0cZftaVGQ2Wh2CTgOne5ZDr9LyJ1yWeWPOwpQnosqy3XhSz3xbiiPmpbKF1+vsj/CIOAuprQqLd6XhKmhrYK48pXBxg1u7Bl2065/Eh34eH/U4kDr6ItqwwzQn3PF5vz82s6KwkCdIHTmYTBaj4FUtVfhPyDjc2q7ZzAYcsWTRKgSZEYZ4I2PNd43l34Gsvdu51MYOHhDWuHWrvrbJfJ6gG+Yi5aX1eqIovkZTkSPh3Xo0yG5pBEqMxMJ7d1zojfBJkiSHkOyUFUpzu5zNN1FleB+YYCZGj7FCEGpbwJsIM97K8NSEGikJxBSxAa0McsX3QmiPFtzoKgqOmTLWgBWd1yzClcNJo0ri0Kx4qnXYvQry3MTOWQq1zI4zwgl1/UztDGMEnHSG8eDygL7S2qbjr1b0oZbx3ItHF3hNnyhfaU4EkfM2cW7R2CGwW3zHnettUfsWZHHn5bPFLQYwvq/ZCuOaH1A2Vo6xvK4zLtuxT/yBsnsXXQ==;pOGlRnyBLzNDcfyjVg5A8Q=="
 ---

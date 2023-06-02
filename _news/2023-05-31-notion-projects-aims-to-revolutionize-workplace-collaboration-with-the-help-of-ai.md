@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "The Coming AI Revolution In Home Care"
+    excerpt: "I believe that future industry leaders in home care can lead the field by leveraging these AI technologies and tools to enhance the home care experience."
+    publishedDateTime: 2023-06-02T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/02/the-coming-ai-revolution-in-home-care/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/02/the-coming-ai-revolution-in-home-care/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/02/the-coming-ai-revolution-in-home-care/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6478b2a540837295a30e1090/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How generative AI can revolutionize customization and user empowerment"
     excerpt: "It's time to look beyond using generative AI tools for simple outputs and focus on computing capabilities for users and large enterprises."
     publishedDateTime: 2023-05-28T23:10:00Z
@@ -36,20 +52,15 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Vectara aims to ground generative AI conversational search without hallucinations"
-    excerpt: "AI powered conversational search platform Vectara has new capabilities aiming to improve generative AI for business data."
-    publishedDateTime: 2023-05-30T22:48:00Z
-    webUrl: "https://venturebeat.com/ai/vectara-aims-to-ground-generative-ai-conversational-search-without-hallucinations/"
+  - title: "AI Bots Are Coming to Finance"
+    excerpt: "Also direct listing lawsuits, SPAC lawsuits, unemployed Harvard MBAs and the CEO of Goldman Sachs is also a DJ."
+    publishedDateTime: 2023-06-01T18:31:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-06-01/ai-bots-are-coming-to-finance"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Bloomberg L.P.
+      domain: bloomberg.com
     quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/image1-8.png?w=1200&strip=all"
-        width: 1045
-        height: 598
-        isCached: true
   - title: "ApexOne.AI Revolutionizes Business Operations with Advanced Artificial Intelligence Solutions"
     excerpt: "ApexOne.AI, a leading provider of cutting-edge artificial intelligence (AI) solutions, announces the launch of their groundbreaking platform designed to transform business operations and drive unprece"
     publishedDateTime: 2023-06-02T01:59:00Z
@@ -82,21 +93,35 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "China isn’t waiting to set down rules on generative AI"
-    excerpt: "The draft regulation released in April is part of a large game of tech industry whack-a-mole. China Report is MIT Technology Review’s newsletter about technology developments in China. Sign up to receive it in your inbox every Tuesday."
-    publishedDateTime: 2023-05-31T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/31/1073743/china-generative-ai-quick-regulation/"
-    ampWebUrl: "https://www.technologyreview.com/2023/05/31/1073743/china-generative-ai-quick-regulation/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/31/1073743/china-generative-ai-quick-regulation/amp/"
+  - title: "Revolutionising Skin Treatments with Artificial Intelligence (AI) in homeopathy for the first time in India"
+    excerpt: "Dr. Batra’s® brings the World’s first 5th Generation AI Skin analyser to India"
+    publishedDateTime: 2023-06-01T04:05:00Z
+    webUrl: "https://www.freepressjournal.in/brand-focus/revolutionising-skin-treatments-with-artificial-intelligence-ai-in-homeopathy-for-the-first-time-in-india"
+    ampWebUrl: "https://www.freepressjournal.in/amp/brand-focus/revolutionising-skin-treatments-with-artificial-intelligence-ai-in-homeopathy-for-the-first-time-in-india"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/brand-focus/revolutionising-skin-treatments-with-artificial-intelligence-ai-in-homeopathy-for-the-first-time-in-india"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 56
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/AP23075301204542-crop.jpeg?w=3000"
-        width: 3000
-        height: 1687
+      - url: "https://gumlet.assettype.com/freepressjournal/2023-06/fbdfefd8-9f0e-493b-ac46-5ba8129e1e50/1_91.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "AI Terminology 101: How Recurrent Neural Networks Are Revolutionising AI"
+    excerpt: "Recurrent Neural Networks (RNNs) are a class of artificial neural networks designed for processing sequential data. Unlike traditional feedforward neural networks, which process inputs independently, RNNs take into account the 'history' of inputs they've ..."
+    publishedDateTime: 2023-05-30T15:05:00Z
+    webUrl: "https://yourstory.com/2023/05/ai-terminology-101-unraveling-recurrent-neural-networks"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 53
+    images:
+      - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Screenshot2023-05-30at7-1685456702994.png?fm=png&auto=format"
+        width: 2130
+        height: 1058
         isCached: true
   - title: "Welcome To EDA 4.0 And The AI-Driven Revolution"
     excerpt: "Two groups of classic approaches have been proposed to automate translation. One group of approaches is to introduce constrained natural language (CNL ... may be achieved depending on the capability of AI accelerators and the complexity of the ML models."
@@ -112,34 +137,43 @@ related:
         width: 1394
         height: 705
         isCached: true
-  - title: "Arm unveils TCS23, driving immersive experiences and new-generation AI applications"
-    excerpt: "Arm held a new product launch event at COMPUTEX 2023, unveiling the \"2023 Total Compute Solution\" (TCS23). Chris Bergey, Senior Vice President and General Manager of Arm's Client Line of Business, stated that TCS23 includes the new Arm Immortalis GPU based on the Arm fifth-generation GPU architecture,"
-    publishedDateTime: 2023-05-29T06:43:00Z
-    webUrl: "https://www.digitimes.com/news/a20230529PD207/arm-computex-2023-ic-design-distribution.html"
+  - title: "How the Biden administration is trying to regulate bias in health care AI"
+    excerpt: "Artificial intelligence could revolutionize health care. It could also perpetuate and exacerbate generations of racial inequities."
+    publishedDateTime: 2023-06-01T20:21:00Z
+    webUrl: "https://www.wfyi.org/news/articles/how-the-biden-administration-is-trying-to-regulate-bias-in-health-care-ai"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 33
+      name: WFYI
+      domain: wfyi.org
+    quality: 38
     images:
-      - url: "https://img.digitimes.com/newsshow/20230529pd207_files/2_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://www.wfyi.org/files/wfyi/articles/original/pexels-ivan-samkov-4989167.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Jacobs and Palantir Expand Partnership to ‘Revolutionize’ AI Solutions Across Industries"
-    excerpt: "The partnership aims to harness Palantir's cutting-edge AI capabilities and revolutionize the commercialization of AI solutions across a range of sectors—including critical infrastructure, advanced facilities,"
-    publishedDateTime: 2023-06-01T22:23:00Z
-    webUrl: "https://dallasinnovates.com/jacobs-and-palantir-expand-partnership-to-revolutionize-ai-solutions-across-industries/"
+  - title: "Artificial Intelligence finds a home in the vineyard: A revolution in the world of winemaking."
+    excerpt: "As the designer era crumbles before our eyes, businesses are entirely implementing the capabilities of AI. Leading this revolutionary charge is the winemaking company Land of Basarabia. Its founder has long been a mastermind in such traditionally conservative fields like winemaking and beekeeping."
+    publishedDateTime: 2023-05-29T06:31:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-finds-a-home-in-the-vineyard-a-revolution-in-the-world-of-winemaking/"
     type: article
     provider:
-      name: Dallas Innovates
-      domain: dallasinnovates.com
-    quality: 30
+      name: Impacts
+      domain: techbullion.com
+    quality: 25
     images:
-      - url: "https://s24806.pcdn.co/wp-content/uploads/2023/06/Jacobs_Palantir2-iStock-970.jpg"
-        width: 970
-        height: 464
+      - url: "https://techbullion.com/wp-content/uploads/2023/05/img.jpg"
+        width: 1358
+        height: 1282
         isCached: true
+  - title: "Can artificial intelligence improve cancer care?"
+    excerpt: "The development of artificial intelligence (AI) has evolved substantially since it was founded in the 1950s, rapidly outpacing expectations with capabilities that are already affecting the way we live and work."
+    publishedDateTime: 2023-05-31T22:42:00Z
+    webUrl: "https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(23)00240-1/fulltext"
+    type: article
+    provider:
+      name: The Lancet
+      domain: thelancet.com
+    quality: 19
 
 secured: "DRxh9MLnbCnMymC0D3Sc2Pd8vf9wofuob43P4FPfjC0HQv/9y0yu5ouMmdSkXldQQkH+Ik3ooZz8v0zW6W09mbCikJvvf2PZY8SGWEmkbCg1wJeLU/b53fkWj+2qN5/UFXzTPSKKdY/VZbxOfhKSwlSoqFm9HRArJKgCJKdvJZqDsHxGj/ZSUeJAeDkoOFyksMwiT1kcOv73e8XgDWLXNLjlAFSqRV0pFMHXrMv2kmSbSbe4ro11tamymh+xh9k4oI1gzGwb4e3eWsXxCRX4GVzXbIjmmv1rZIIjgtTuB2t/66YSKWJUnmg3qo2fMxe4eJQmGovTum9MHZ5JKgDiJ9bm8iyK4ebtdxP3Wkn5KncrHJM8jPTpsEct9dhb8mIclQ+m9rxQ5RJjrINzhtrOEZtYY0Gt+ub67loSJgDx0BfEfiUKrPPfbu4LfB8Rq0QnUlfXzi2kfipOY7jDbOvHFwYA/FqMTfezTsQngT3DKmbdtygwPZtkPeFmwWZRIMGzkHI+GBo/enJA31q1cjfrHg==;c2ygAyPWY3hqpAT1vjawcw=="
 ---

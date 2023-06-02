@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Experts warn of the dangers of AI, weigh in on ongoing EU regulation"
+    excerpt: "Experts including ChatGPT head Sam Altman suggest AI may pose a risk of \"extinction.\" Altman's OpenAI is among the U.S. tech companies keeping an eye on possible European Union regulation."
+    publishedDateTime: 2023-06-02T04:53:00Z
+    webUrl: "https://www.techrepublic.com/article/ai-caution-risk-statement/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/10/tr-ai-running-relevant.jpeg"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "US, Europe working on voluntary AI code of conduct as calls grow for regulation"
     excerpt: "The United States and Europe are drawing up a voluntary code of conduct for artificial intelligence, with a draft expected in weeks"
     publishedDateTime: 2023-05-31T16:33:00Z

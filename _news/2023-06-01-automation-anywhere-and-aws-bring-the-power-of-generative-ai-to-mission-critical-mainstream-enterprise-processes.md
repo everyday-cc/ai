@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "How ‘Automation Bias’ Plus Artificial Intelligence Can Lead To Medical Misdiagnoses"
-    excerpt: "The machine does not always know where it’s going! Automation bias is when humans trust the results of a machine, even over the evidence of their senses and knowledge."
-    publishedDateTime: 2023-05-30T16:27:00Z
-    webUrl: "https://www.forbes.com/sites/paulhsieh/2023/05/30/how-automation-bias-plus-artificial-intelligence-can-lead-to-medical-misdiagnoses/"
-    ampWebUrl: "https://www.forbes.com/sites/paulhsieh/2023/05/30/how-automation-bias-plus-artificial-intelligence-can-lead-to-medical-misdiagnoses/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/05/30/how-automation-bias-plus-artificial-intelligence-can-lead-to-medical-misdiagnoses/amp/"
+  - title: "CreativAI srl Launches AI Chat Master: An Innovative AI-Powered Chat Assistant App"
+    excerpt: "AI Chat Master, a powerful AI-powered chat assistant app by CreativAI srl, features natural dialogue, question answering, text generation, automatic translation, and more. AI Chat Master revolutionize"
+    publishedDateTime: 2023-05-31T01:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/05/ab32640081/creativai-srl-launches-ai-chat-master-an-innovative-ai-powered-chat-assistant-app"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32640081"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32640081"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647622e2daa10678ac569955/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "C3alrY223GLzJOPa+g44Pr7aoIOC07ZuifJwUhnjz5B5V8ZAbxwWaimuLhx7K3tLb2jsXU02gwPAvmfvBrEkQQSUUAG++xaUpqHUZirCw4yQL+bVl2woLJktdT8hG5cjVb665cW1sNltQkHc1JLaR8BIMZ4I3hvQAUOWpcrZEUk1A8fMA8uhh8dNYPUo297QFipLbp1iiqlS13wkhoVak6maThHOKz8wAchkGGjt7oZnnhafZstu3ThQ05pMa52+qesLLbGnPh71tnz+J+ZUlyovJJRS4Xj5ubGkawZRhD2SBwCi7zQvVNXGJVIF6z63WXi7Zsr/DARXVefHvIWOn6MDcscEabB8/MjiTPDji+Jeq0f5ztjaK9SFHBHi1aH6wNeFPm8MVioMIzXbRmubtrmkxfJ1Wp6Log0b8w5SUbkwx4n47pjIbEaEfyRCxeO+HNV/uvL3D6YvRfqM/g5+AU1DiiqrQF5fKs58fZCrErhfAP/npMtVkczDSOqHaomRuhyv1le4CFnm1+akgb9Rag==;xP5OQeoXwj1cZAO3EhAU7g=="

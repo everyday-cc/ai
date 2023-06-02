@@ -43,6 +43,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "AI-Controlled Drone Decides to Kill Human Operator in Simulated Mission"
+    excerpt: "An AI-enabled drone decided to kill its human operator during a mission simulation because it proved to be the best way to score more points. As the Royal Aeronautical Society rep"
+    publishedDateTime: 2023-06-02T10:49:00Z
+    webUrl: "https://www.pcmag.com/news/ai-controlled-drone-decides-to-kill-human-operator-in-simulated-mission"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/067OZxsxcuPrMfhuQNEUjZY-1.fit_lim.size_1200x630.v1685702074.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "AI military drone kept murdering its human operator in simulated tests"
     excerpt: "A U.S. Air Force Colonel reported that in a simulated test, an AI-controlled drone kept killing its human operator when it was denied from completing its search and destroy missions."
     publishedDateTime: 2023-06-02T01:15:00Z
@@ -124,6 +138,6 @@ related:
         height: 413
         isCached: true
 
-secured: "gtMlPcl1HUHJcB6H8jH5eq4uKPwZn6Ae/Ul4Qgmn3eGUCXiNw7IzH5MrpkZKzV4ZbwPp9Zf1cGeBDErEy0Kx6T/t8IlJLRXztdOWWa56iSwaMXDfwFDdPzoB2RE7bR+DUtEzckF5/lN6iczv/uOcZG/jOgWUL/n4ArAv3Om3K6dE4WNJjRj2VXYxuS6e0LkgEhOayKSq2KyFR2KjChNh232VDHU5PxazEcyg7uVw4cD9UI9IyfnqQG4zqv+IO/LHxb6O+j3Pm9lcqz+HR2eNPuCVACEaAvVfmIp8pqC9MkZzg3XV1l/7UUGZSlZmN8G8wi+6vnniiYf7PRtIJSkK9N1dro5CYYi2uXJj8MLv2ts=;y4P+R4q21Wn7bDhuCHZweg=="
+secured: "K1FGNJTdZRF/PkLYJwdIrdbAwbJUQjJixp9z1Rxqf8R50B3bEhO5+oR4SnVh8rqov21gSQ2npO91t5vwSX1I8xCy+fbHUj9LOkEls0UkBPnRzuZ/fHttAq+Rs2J++Hzf0/HL32BtjtJsOjbd93AonZV3J2p4I7RMcIo5eWskSY8dUKfYq2b25YJx6tfKz5pyjfpNh5gZUBG1N+fQr0Fn8Kw9R7exqu5vrlq3xLuztXw/haDg90wa8Ds8gmLGQXb1vH0Xc4l/lNGsUMjgIk8NZBA9HeWvkC67LySA9hXOYP7m4LDzsmWXAEu6dgBxB7t8ktV3NwaS5FF82sSGACBSkUcMIj4UUxCUHnspffjHlzCI9aWGA4xHst2fhNs+3m76rt/QypYH+9A40djZAPrzB4cr6ar7TgmvDVGiF+LiVP9rDSoE2PCuwFlOdhJKHGYYitt7CZBi9vPjbamyZAKDC3vb5Lgkno6of2PYfivMhe4hTfaqlJfhvpdT7ID6qdFdFurURTE3A3vd9myGh+delg==;epB2ZjaqQXQxtXi/RlMenw=="
 ---
 

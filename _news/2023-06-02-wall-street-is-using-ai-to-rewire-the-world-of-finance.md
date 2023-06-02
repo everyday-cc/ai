@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "AI set to take the world of weather forecasting by storm"
+    excerpt: "Papers have been released by the technology companies Google DeepMind, Huawei and Nvidia that appear to show impressive forecasting results driven by machine learning. Peter Dueben, head of earth ..."
+    publishedDateTime: 2023-06-01T02:51:00Z
+    webUrl: "https://www.thetimes.co.uk/article/ai-set-to-take-the-world-of-weather-forecasting-by-storm-7nsqw3mjh"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F88280ba6-fba8-11ed-bc7a-1444acf8fa38.jpg?crop=4701%2C2644%2C787%2C658&resize=1200"
+        width: 1200
+        height: 674
+        isCached: true
 
 secured: "y/zP1MF8ZsTNBycYjgVvdiXNLLRf6rUiks1spOLM1soKEqTFty7IbrUhRNvHv6gpHc1XL+qbDIelUlVFNw3dGNy+mkpjDj6sKcPvUxy5WEejHF48V0cZ3NiCNOUn+5Nl1G17i6tBk4pUU/ZGRBXuqutvoOvq8AGXHnI5u4ogi3pB4WIHZwOe//WNDy2vPOIaZA5Y7WKV2MWTxxzWK92OBdF5smbtGJuzknUvczH0GgvDhIhEhLFk78qAmp1DYUFutjqNy9zTrdL8L1UPXLk+Zmg1OQCi7Fj7v8ZT35DxRojr1fnFA44LQ52T857nMq2NCdMfR2VWxw4LCR+79gBU0DBmmHDejtS3oA29bw6AUB0=;ANSJmUi8oHqlH6aX5SDpMQ=="
 ---

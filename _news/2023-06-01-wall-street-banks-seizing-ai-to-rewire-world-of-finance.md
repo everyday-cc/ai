@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/technology/wall-street-banks-seizing-ai-to-rew
 webUrl: "https://www.afr.com/technology/wall-street-banks-seizing-ai-to-rewire-world-of-finance-20230601-p5dd3o"
 type: article
 quality: 71
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://s3-prod.crainsnewyork.com/styles/1200x630/s3/aiwallstreet.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI set to take the world of weather forecasting by storm"
+    excerpt: "Papers have been released by the technology companies Google DeepMind, Huawei and Nvidia that appear to show impressive forecasting results driven by machine learning. Peter Dueben, head of earth ..."
+    publishedDateTime: 2023-06-01T02:51:00Z
+    webUrl: "https://www.thetimes.co.uk/article/ai-set-to-take-the-world-of-weather-forecasting-by-storm-7nsqw3mjh"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F88280ba6-fba8-11ed-bc7a-1444acf8fa38.jpg?crop=4701%2C2644%2C787%2C658&resize=1200"
+        width: 1200
+        height: 674
         isCached: true
 
 secured: "OP66T3I2QVjihRfsBsT19tF0i6NzL2H/FmReOiGNgPJ/LdpVhw8LzhVFL0lOCtWSZPao/r7/sndXKv6ShWIJKq4AL7oLGh22Z4JPUWnYXwoYOTLeYhQMuDdaDCJ++FAow7U/Z13XQ5SGhqjBdyNQlPDh81+KV6q0COFihuyYQ6R9xPt3qh4EaYEviKFiBKUQi4U6uwN0JoKoCStUu7aCzF+TOfbN9rEo/te2qDlyS+qVniQold+V9KTI5c/JAiNvwklKaj72kRl6BwNPDU5fHrd9Isl0BIZ6MYRkpQ0Y8cjEy0ZajoNnujOI2ybu14yB+hoNsz6DgczsHXWaCD61aGSLw6YbyAkiJpafYgP06f8=;zRIUALE1T0+qetqdqyYO1w=="

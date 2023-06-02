@@ -25,118 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How generative AI can revolutionize customization and user empowerment"
-    excerpt: "It's time to look beyond using generative AI tools for simple outputs and focus on computing capabilities for users and large enterprises."
-    publishedDateTime: 2023-05-28T23:10:00Z
-    webUrl: "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/"
+  - title: "Apple Now Seeking Generative AI Engineers for AR/VR Applications"
+    excerpt: "Apple is calling on experts with backgrounds in generative AI to work with the company's \"most advanced technologies,\""
+    publishedDateTime: 2023-06-02T11:51:00Z
+    webUrl: "https://www.macrumors.com/2023/06/02/apple-seeking-generative-ai-engineers-for-ar-vr/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/06/Generative-AI-e1668186981244.jpg?fit=750%2C500&#038;strip=all"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Vectara aims to ground generative AI conversational search without hallucinations"
-    excerpt: "AI powered conversational search platform Vectara has new capabilities aiming to improve generative AI for business data."
-    publishedDateTime: 2023-05-30T22:48:00Z
-    webUrl: "https://venturebeat.com/ai/vectara-aims-to-ground-generative-ai-conversational-search-without-hallucinations/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/image1-8.png?w=1200&strip=all"
-        width: 1045
-        height: 598
-        isCached: true
-  - title: "ApexOne.AI Revolutionizes Business Operations with Advanced Artificial Intelligence Solutions"
-    excerpt: "ApexOne.AI, a leading provider of cutting-edge artificial intelligence (AI) solutions, announces the launch of their groundbreaking platform designed to transform business operations and drive unprece"
-    publishedDateTime: 2023-06-02T01:59:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/ab32684334/apexone-ai-revolutionizes-business-operations-with-advanced-artificial-intelligence-solutions"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32684334"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32684334"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 63
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "JazzUp AI Revolutionizes Multiple Industries with Customized Artificial Intelligence Solutions"
-    excerpt: "In a remarkable stride towards empowering industries through artificial intelligence (AI), JazzUp AI today unveiled its comprehensive suite of AI solutions. JazzUp AI's innovative productivity solutio"
-    publishedDateTime: 2023-05-31T01:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/ab32640180/jazzup-ai-revolutionizes-multiple-industries-with-customized-artificial-intelligence-solutions"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32640180"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32640180"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 60
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "China isn’t waiting to set down rules on generative AI"
-    excerpt: "The draft regulation released in April is part of a large game of tech industry whack-a-mole. China Report is MIT Technology Review’s newsletter about technology developments in China. Sign up to receive it in your inbox every Tuesday."
-    publishedDateTime: 2023-05-31T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/31/1073743/china-generative-ai-quick-regulation/"
-    ampWebUrl: "https://www.technologyreview.com/2023/05/31/1073743/china-generative-ai-quick-regulation/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/31/1073743/china-generative-ai-quick-regulation/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/AP23075301204542-crop.jpeg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
-  - title: "Notion Projects Aims To Revolutionize Workplace Collaboration, With The Help Of AI"
-    excerpt: "Notion hopes that AI can help cut down on the fragmentation within this space with its new product, Notion Projects"
-    publishedDateTime: 2023-05-31T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/05/31/notion-projects-shows-how-ai-can-revolutionize-workplace-collaboration/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 41
-  - title: "Welcome To EDA 4.0 And The AI-Driven Revolution"
-    excerpt: "Two groups of classic approaches have been proposed to automate translation. One group of approaches is to introduce constrained natural language (CNL ... may be achieved depending on the capability of AI accelerators and the complexity of the ML models."
-    publishedDateTime: 2023-06-01T07:08:00Z
-    webUrl: "https://semiengineering.com/welcome-to-eda-4-0-and-the-ai-driven-revolution/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
+      name: MacRumors
+      domain: macrumors.com
     quality: 39
     images:
-      - url: "https://semiengineering.com/wp-content/uploads/Siemens_Welcome-to-EDA-4-fig1-typical-city-of-EDA-4.0-era.jpg?fit=1394%2C705&ssl=1"
-        width: 1394
-        height: 705
-        isCached: true
-  - title: "Jacobs and Palantir Expand Partnership to ‘Revolutionize’ AI Solutions Across Industries"
-    excerpt: "The partnership aims to harness Palantir's cutting-edge AI capabilities and revolutionize the commercialization of AI solutions across a range of sectors—including critical infrastructure, advanced facilities,"
-    publishedDateTime: 2023-06-01T22:23:00Z
-    webUrl: "https://dallasinnovates.com/jacobs-and-palantir-expand-partnership-to-revolutionize-ai-solutions-across-industries/"
-    type: article
-    provider:
-      name: Dallas Innovates
-      domain: dallasinnovates.com
-    quality: 30
-    images:
-      - url: "https://s24806.pcdn.co/wp-content/uploads/2023/06/Jacobs_Palantir2-iStock-970.jpg"
-        width: 970
-        height: 464
+      - url: "https://images.macrumors.com/t/X8Mvv4-ay3fM6NWUohr6lbyLJmM=/1600x/article-new/2022/03/hey-siri-banner-apple.jpg"
+        width: 1600
+        height: 840
         isCached: true
 
 secured: "HZ7OGJfxNm5NnjHsPUOXUhm9/yDTk+tzY3MOv0xySjyANsRv+uVT+mzpkNqMK3hTL3OQ8LO5nALgmETEJvUTSkhwyoX1a0AeGl4W6C4X3fffDGA9n6maPeM4bqFYkG+h0MLtnICwJ7ZWdhI11AJ25XDOyy/yPi+g8jkbODXz/GdJpLGbsyN1d9coDAL/e5xIEl0QtFUqZqaIbaGqBlzTqJlipwmDo7AwY91/Kqhr6/RMz2YsSjKR0fDpzmeNXhdIQEhlakgWPpw7XM15TIlbApRba952OSqJ5/9acUTtqI4J/V8/lPiUcck0rkv/9oZIYbknBlALhNCtnYxfp1vInW2rS+hXQBkN7tDKj7dJddKS+1u2gGa8VUm8b9PpMxgMspyp7sECCD+7Sm6TCudxg8L5KLEDAx2c3Juc0RC0VwjLrj/NLI2+P/0nJ9AbEgwd+xtFJ2J0NDw8EMg8gqRlNp2BJSeOJItd+5xq4uS/xxCwSS+F4MMUYQGzJJQIkJQ7usmc8HYHWBQhBT0mgu8O7w==;25LYN51JTLkKuq7JamnRzg=="

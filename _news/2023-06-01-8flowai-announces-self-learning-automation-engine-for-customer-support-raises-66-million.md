@@ -7,7 +7,7 @@ originalUrl: "https://www.kansascity.com/press-releases/article275984861.html"
 webUrl: "https://www.kansascity.com/press-releases/article275984861.html"
 type: article
 quality: 6
-heat: 6
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,63 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AI, Machine Learning And Automation: What Agencies Need To Know"
+    excerpt: "Automation refers to the use of machines to automate routine tasks that would otherwise be executed by humans. It involves configuring a set of rules and triggers to initiate actions. While automation is often complex, it lacks AI’s ability to learn from data to optimize performance."
+    publishedDateTime: 2023-06-02T11:29:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machine-learning-and-automation-what-agencies-need-to-know/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machine-learning-and-automation-what-agencies-need-to-know/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machine-learning-and-automation-what-agencies-need-to-know/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5fa196489a65b17baccf944f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 996
+        isCached: true
+  - title: "Blink Ops launches AI copilot to streamline security automation"
+    excerpt: "Blink Ops, a cybersecurity startup based in Tel Aviv, has launched a new software product that uses generative AI to create no-code workflows for security and IT operations. The service, called Blink Copilot,"
+    publishedDateTime: 2023-05-31T21:00:00Z
+    webUrl: "https://venturebeat.com/ai/blink-ops-launches-ai-copilot-to-streamline-security-automation/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Blink-logo_tel-aviv.png?fit=750%2C422&#038;strip=all"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "How ‘Automation Bias’ Plus Artificial Intelligence Can Lead To Medical Misdiagnoses"
+    excerpt: "The machine does not always know where it’s going! Automation bias is when humans trust the results of a machine, even over the evidence of their senses and knowledge."
+    publishedDateTime: 2023-05-30T16:27:00Z
+    webUrl: "https://www.forbes.com/sites/paulhsieh/2023/05/30/how-automation-bias-plus-artificial-intelligence-can-lead-to-medical-misdiagnoses/"
+    ampWebUrl: "https://www.forbes.com/sites/paulhsieh/2023/05/30/how-automation-bias-plus-artificial-intelligence-can-lead-to-medical-misdiagnoses/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/05/30/how-automation-bias-plus-artificial-intelligence-can-lead-to-medical-misdiagnoses/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647622e2daa10678ac569955/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Artificial intelligence innovation: Leading companies in speed profile estimation for the automotive industry"
+    excerpt: "According to GlobalData’s Technology Foresights, which plots the S-curve for the automotive industry using innovation intensity models built on over 619,000 patents, there are 290+ innovation areas that will shape the future of the industry."
+    publishedDateTime: 2023-05-29T12:24:00Z
+    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-speed-profile-estimation-automotive/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 0
 
 secured: "SECgqD1vH2cw18y5ODP2AtrQvUl7mZouz140TChMO22diX16Vqa8OAsU37peZpbfbxNwsPgyf0QBPFY50OUl2UZSYg9nU1jsJnb48dYSGLlCfHAdi2ws2v3LAiX2p2zfaonSLxylQtE4GH5NVhXDZNHIkoXMJfOqTLDMBMtglNcxotAwIS+txaYvqwAf4zrQrNrrOtlW1FGnAzoWS6zpgM37lfs08AIeFp6KvOHPPEKIWAOae/p5CkrkKxkMjp/KFvJHWGwDvAQnByfzcUlENk9B+aK/+MiFVJIN4l/oP2vETmWxeJytYE+8wi8zYsy450XsLS5KPbmzLUCFDBEHb7tXs3vg4Us9wjNG1FDYWbc=;OyGEWkbT0v8D+n1eBozRmg=="
 ---

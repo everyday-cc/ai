@@ -60,6 +60,6 @@ related:
       domain: globalspec.com
     quality: 0
 
-secured: "vL3covy9tCuu++kxRBxuygOV5yGTKu9B7uh3c5Sa0R/+Q5J4K9QqjV54aqaBpL3YSeN6sH+mjM0RDfe71V9iRpE8UTbNlvUkmEz/+TUNV9TZeqQWEd65Wf/5ay6PzJr4V0r0uLLK0GRRC71NSzNlKhwsio/H//+fpb4Yh70jFXYF9we+ULlEbXSqPsSB179h0aiI0Gus1PBdpEraGxEfoo8GrwvSkB85Epk92t1w88dOc+10c5uqKDe3rNcqK8l1KelkZ4z6foMz32H56EbRPRuEVsnUp68jnMNVHAdVdrg+kCL5wPflR0Vgh5DRqsLwQxHFHbzOlIV3dczyP5vpUauBvfU6vQd0kBKe4BsdiJo=;lJLF5m/KdUXOsfyJ+Kbz8g=="
+secured: "e7oa8LAxMCLsQD/l6dhJnShHW/w1+/XAk5xQXqMr9wcXrkld1vL0WOtuHoC8umFTrK7YXm2yTv0x0c7yi+MnyiMJyHCWt5eQ1ZGZmOZDNUG3LIaSrMgWYtpNVdEfq8Vvhq/0Po+0gRAvlQy4PoUZd+MpXQ1C7cqiwG95iyouJIVHXopx1d8y43JtihiG164wRXCQBWjy/iU/S09rrwrNhI2nUwQ+Tm/b8VzG2ES06vYr5Eorsb5PSjnvJH0v95iSNNo6wBZ3eOs+gFgTN+Qu0KH5hil+X7qXGaZUAxYuSSLOiq+j2bkwiGalrIEPjrpF1d5enwyHD7jX/hIav9Ys/nJV/yKLCPPKDy4TjK3oH0A=;LkkVRuXgeBsLS0vCyMHLEQ=="
 ---
 
