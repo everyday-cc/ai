@@ -2,11 +2,11 @@
 category: news
 title: "How Could ChatGPT and Artificial Intelligence Impact the Economy?"
 excerpt: "ChatGPT, the first artificial intelligence app developed by OpenAI, has already created sweeping changes in certain industries. Publishers are laying down standards for AI use for writers -- or,"
-publishedDateTime: 2023-05-30T17:32:00Z
-originalUrl: "https://www.aol.com/finance/could-chatgpt-artificial-intelligence-impact-173250399.html"
-webUrl: "https://www.aol.com/finance/could-chatgpt-artificial-intelligence-impact-173250399.html"
+publishedDateTime: 2023-05-30T20:31:00Z
+originalUrl: "https://www.aol.com/could-chatgpt-artificial-intelligence-impact-173250399.html"
+webUrl: "https://www.aol.com/could-chatgpt-artificial-intelligence-impact-173250399.html"
 type: article
-quality: 21
+quality: 41
 heat: -1
 published: false
 
@@ -15,9 +15,15 @@ provider:
   domain: aol.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI in Healthcare
+  - AI
+  - Machine Learning
+
+images:
+  - url: "https://s.yimg.com/ny/api/res/1.2/xDPXbHH__.11PlmHjydkZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/5b1ae28d022f8e6817c0cc692dfdd0b9"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "The News, Media Ethics And ChatGPT For PR And Comms Work"
@@ -220,6 +226,6 @@ related:
       domain: bizjournals.com
     quality: 14
 
-secured: "GjopDHCCMu1tFUblzgNhSWzbnybAwziqUkP2s0bXdLhAWa25l5N79KVtW0MbphimE30tZDxengzeQsCppvVK/FaPB01uArvUJYoswr23/BfzJ+UBp0GMf5gcsj/PYo+C4beF+doSl4H0eMKaUPQzRhs1T04AX6dtgJUzwBZDNt28goyXekZnpJ5YF+fcG3FfrQJQ4UtMpVJscScH+VtY9JM784FyNDgpFQ8G+7uPN8Bti6crkpkbTTgKOh+cqmY0mh7gqKv/xcDr3HlatQifk4NPqpPbygzI7i81zEoaq0raCI9ohzQo+s7vwjvWg0XuiNO/XKFT/z+3GHwE+DmwE6iDH/XH/53X2CmMuk3tSOo6ecVWuqr/vDjz1zy2D4/xi6oWnU/Ie1ag4BpXchOm0iLaUMhThahzlqICa22Z0cpMm2aVVYLtayZGNYI+xjAk2tMUxXmH66nFjm1GbtUXczLp7gglR4PcyFq/UPkeBbDK4hfOrWXY9/i2ZDm++hUtk/JtWUeuOPpkobc+VEx8BQ==;wQSDKYKBLAsw2/KEG1DnXw=="
+secured: "QmnO9ZQw4b2/ncHiEZS5x27teA6mK6U+vBJpTSos3vd4JSUDxrmhhh8nv2wV6fC8zAV3j2TiWcXc1e0EBxVo5mSMKifWb18nNGrCScFvgvq9LTGk1Xkkd5jbXTxL4nFrwUjXAW3V8h8lX5YBXhzmPdgPZ23+4gr8ZdQ/hAi4n/v0Wp4zM4V8oflNOsrGummeciZBbwS4ehyxbAYIRpMFmxk+pRCqzIdVB8FLUXu76UeR0PMfa/VhkcTYNK5BFve7DJlm3SbXed6373Bx+5itajQzV9UREm+s7imCs79wmml6K7Rx7MsUVOd+GwTRKqeazFKPe8KFVlaTdkJ6jejhUxm5xe6sC6hWI/VHQzGsVg4=;9hbvI1veHw4zV253QG94rQ=="
 ---
 

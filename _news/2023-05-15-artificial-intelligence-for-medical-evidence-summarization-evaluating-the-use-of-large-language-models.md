@@ -17,6 +17,13 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_748194_16841552243963173.jpg"
+    width: 2000
+    height: 1600
+    isCached: true
 
 related:
   - title: "How to scale the use of large language models in marketing"
@@ -29,6 +36,6 @@ related:
       domain: searchengineland.com
     quality: 21
 
-secured: "jgT1NwE0iga+qdmpClxBCbYt3M2Ydnszkfk8paC7FoyN7emFdVSFTKPl0Bcve8Dhk7eO1Krc08+b0V7muJRhSVuSN3wY3Y4vYYQEocASONq8rPwT/j7eeNbD18hYiU2ICorc/XKibecnDbsHKA3A7mza9DOk7StYwaPjV2HLPswKIqmHBs7egDjcuLAvHSTX4xyoQLcCT9CYhtxq5KCZ/Dm5izhG3AWEvw1st/PJHRmMTYXx09TczNSp1cSygTkvzSnymkcnbbIFMcDeuRx54x+Apfdg994uu+gySdjQ5GYQzF1rByfO8EXRociYzUZjejYz4xpe0FwrnD4xKwzJ+ZjICY7VVzXXvnc4Q/rTN63K6YYWJJk3x0WSuA5vHkZDxl0lwBt7gdUibBtYGiUwOW1wWTsnMNYf3wAAfC/eYGifIJTJ1HIbVTQsKtv1EJRQZV/Pm77AmP3fupW3X9UQxTTGrudQfCwkmS9mTwZoVup+I5F5vihhEs5HVHsH5cKvVQwDcI74f6kVN8WR6dL3Hw==;8jkaKID2/+tUWjrpH6b9Zg=="
+secured: "NRRSRgJ1r/fA15nkE5uYEUQxx4wpCbNdXJpuxngfooiQopICEP0Ry/S9RcIxdEE19lZqRfN2d471TMaiDc//1BDdH2BlBUrhT/jl/NK7AI9D/a1ycEpq6ivCmnNKB8pwaWXcAYpa8NaR0XJMB+Ap8JJBzsSOuHX72j25WL18By3EHvnC1NyRqruHvk5Le/GSDhFavGRviJV4nHM5AvEpf7VcRiQRMYYxFwIJ2Kt3aJy9abgG8x8NRqTdDEJPpTG50qxe9cMFv2lcWiQXHVhEENaxtE8AbY5OC8q4BS6tPafeOP2LYQiBBY6Hi36oCVP+buymbdCb+eliOmFh5Dl5jtLo9E7iwPKQsjU67XyODlA=;/7Cnxt6mHOFTOXP1Fv0+jw=="
 ---
 

@@ -172,6 +172,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
+  - title: "How Could ChatGPT and Artificial Intelligence Impact the Economy?"
+    excerpt: "ChatGPT, the first artificial intelligence app developed by OpenAI, has already created sweeping changes in certain industries. Publishers are laying down standards for AI use for writers -- or,"
+    publishedDateTime: 2023-05-30T20:31:00Z
+    webUrl: "https://www.aol.com/could-chatgpt-artificial-intelligence-impact-173250399.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 41
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/xDPXbHH__.11PlmHjydkZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/5b1ae28d022f8e6817c0cc692dfdd0b9"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "See why AI like ChatGPT has gotten so good, so fast"
     excerpt: "The results illustrate how quickly the technology has advanced. May 24 at 7:45 p.m. Artificial intelligence has become shockingly capable in the past year. The latest chatbots can conduct fluid ..."
     publishedDateTime: 2023-05-29T05:40:00Z
@@ -186,15 +200,6 @@ related:
         width: 1200
         height: 623
         isCached: true
-  - title: "How Could ChatGPT and Artificial Intelligence Impact the Economy?"
-    excerpt: "ChatGPT, the first artificial intelligence app developed by OpenAI, has already created sweeping changes in certain industries. Publishers are laying down standards for AI use for writers -- or,"
-    publishedDateTime: 2023-05-30T17:32:00Z
-    webUrl: "https://www.aol.com/finance/could-chatgpt-artificial-intelligence-impact-173250399.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 21
   - title: "This ChatGPT-inspired large language model speaks fluent finance"
     excerpt: "Mark Dredze, associate professor of computer science, discusses BloombergGPT, the first large language model built specifically for the finance industry"
     publishedDateTime: 2023-05-31T18:44:00Z
