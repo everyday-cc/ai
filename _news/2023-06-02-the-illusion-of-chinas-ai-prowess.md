@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The 15 Biggest Risks Of Artificial Intelligence"
+    excerpt: "There's a dark side to AI. Learn about the potential negative consequences of this transformative technology and how we can help ensure a safer and more balanced future."
+    publishedDateTime: 2023-06-02T07:07:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/06/02/the-15-biggest-risks-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/06/02/the-15-biggest-risks-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/02/the-15-biggest-risks-of-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647994d97ff0e466a60e1090/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Very human questions about artificial intelligence"
     excerpt: "AI experts tell us we live in unpredictable times. They have no answers and since ordinary people like us don’t even know the right questions to ask, EL PAÍS went to the Institute for Futures Studies"
     publishedDateTime: 2023-05-29T16:37:00Z
@@ -128,6 +144,6 @@ related:
         height: 853
         isCached: true
 
-secured: "I54tfEHvX0qWgcZRhnYwwIRhr/xOWqchErpZglyskULA97HMHr5+3u2vAP1zYTC8XW1VSylUJkKXf7he8Q0KpSTOE4exmyEGJx1msjtadLzI75ZPA0KtkUh6EzmZFkqCosnr/5qvFdfu/67Xaem5CvWciL8XBuXN4I2+EKwthTCeC16Y9ut0enh5x+4HaT2E3hTuvFnWsK0uA3XaE1nCykUTE2elPj/35d1cWVJSukPbzKnaSHtd+upN70pSLm9jCFXYQE+s7FK1ApTB0ZSt1D6FyptDu1dXjsWaYWxmtQS6P10fvVSUYngyPeXeTHctZHFogczUeiddpW4ftOdzHxDFWP87V+MTVC7dRgm/CoU=;Y3cdtyJk0mdPP8XJGU6miQ=="
+secured: "VkGAzkGsNcgRTVG8KGsH2TCxhZ+YXKKz3OqdtV7rSPQdp82o2IA2wwk31ltk7upirtrlsW4EQJx+st3X9MwdRopJSNK0K0dktGqKs4bpW/hkkJUD58kpsjQNOVKhlruN4ENYB0KIY8q743MPHA6NByqd8Y0kWyH2p2DcMXT2Nn0jXEgslVEuij29qY1/E48p80eIDeROneeNcpsIZlZZUvWFZLFm5OB90/6q0oF6uV1rnaPNf0rjpSkclWJST+I0l+PvHcopfCK+Cc+9IPZxipeWFWk6XvYX3qQMNJ6pf/02iVwYwHOS4FJuNe5Vr7FrzcGl4WQHb0MqspJZS/ocbS3KVLLs7Ae5fKfpJEGmRmIZFXmFEZcHb2vYqxHzO88pMJr5CWcKGZ7ZEadq0ZgvggAOIapozqjRr7aw/GHZO9oCOPG7wX5AdNFzM5xZTuw25ni/RPpkYN+NSK5TxWL5jaDEO4bepIur55poob5fjaizNKHure0MbUe6sJgxN15y/KJXm72Abj496OvdD3cGkg==;vHMCzMWBkJjB+slNozCklA=="
 ---
 

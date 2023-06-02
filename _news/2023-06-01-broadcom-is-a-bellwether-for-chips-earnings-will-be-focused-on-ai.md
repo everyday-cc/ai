@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Broadcom CEO Sees Rising AI Chip Demand. Earnings Were Strong."
+    excerpt: "Chip maker Broadcom reported better-than-expected earnings for its fiscal second quarter. The revenue outlook topped Wall Street's forecast, as well."
+    publishedDateTime: 2023-06-02T01:44:00Z
+    webUrl: "https://www.barrons.com/articles/broadcom-earnings-stock-price-92f9f4ca"
+    ampWebUrl: "https://www.barrons.com/amp/articles/broadcom-earnings-stock-price-92f9f4ca"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/broadcom-earnings-stock-price-92f9f4ca"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://images.barrons.com/im-791517/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Broadcom’s AI Chip Deals Excite Wall Street. It’s About More Than Apple."
     excerpt: "KeyBanc Capital Markets analyst John Vinh raised his price target on the company ahead of its earnings this week."
     publishedDateTime: 2023-05-30T12:30:00Z

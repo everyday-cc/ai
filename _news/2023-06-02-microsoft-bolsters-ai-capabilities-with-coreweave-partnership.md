@@ -41,6 +41,34 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "OneDegree Global and Microsoft Join Forces to Drive Insurtech and Cybersecurity Innovations with Azure OpenAI"
+    excerpt: "OneDegree Global (OneDegree), a leading technology startup in the insurtech and cybersecurity sectors, is thrilled to announce a strategic partnership with Microsoft Hong Kong. This collaboration marks a major milestone as OneDegree integrates Azure OpenAI Service into its IXT insurtech and Cymetrics cybersecurity solutions,"
+    publishedDateTime: 2023-06-02T07:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-onedegree-global-microsoft-jo-forces-drive-insurtech-cybersecurity-/2023/06/02/9825439.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 50
+    images:
+      - url: "https://mma.prnewswire.com/media/2091414/OneDegree_Global_and_Microsoft_Join_Forces_to_Drive_Insurtech_and_Cybersecurity_Innovations_with_Azu.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Microsoft Build 2023: Bing AI and Copilot Plugins for ChatGPT OpenAI, Microsoft Fabric and More"
+    excerpt: "This year's Microsoft Build was focused on artificial intelligence, with new Copilot experience additions for Windows 11 and Edge, as well as new Bing AI and Copilot plugins for ChatGPT OpenAI. Key announcements also included the Microsoft Fabric analytics platform,"
+    publishedDateTime: 2023-06-02T07:05:00Z
+    webUrl: "https://www.infoq.com/news/2023/06/microsoft-build-2023/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 42
+    images:
+      - url: "https://res.infoq.com/news/2023/06/microsoft-build-2023/en/headerimage/generatedHeaderImage-1685637758526.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Battle Heats Up: Microsoft to Take on Apple Head-on"
     excerpt: "With Microsoft's new partnerships, the pillars of the PC ecosystem have teamed up to challenge Apple’s dominance in the AI ecosystem."
     publishedDateTime: 2023-05-29T12:03:00Z
