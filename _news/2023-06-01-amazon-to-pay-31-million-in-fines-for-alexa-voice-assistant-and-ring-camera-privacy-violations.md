@@ -59,6 +59,22 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Amazon to pay $31 million in privacy violation penalties for Alexa voice assistant and Ring camera"
+    excerpt: "Amazon has agreed to pay a $25 million civil penalty to settle Federal Trade Commission allegations it violated a child privacy law and deceived parents by keeping for years kids’ voice and location d"
+    publishedDateTime: 2023-06-01T15:19:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ftc-charges-amazon-privacy-violations-alexa-ring-cameras-99745297"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ftc-charges-amazon-privacy-violations-alexa-ring-cameras-99745297"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ftc-charges-amazon-privacy-violations-alexa-ring-cameras-99745297"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 30
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_971419109d7af10203d7ccfd28fcd0ad_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Amazon to pay $31M in privacy violation penalties for Alexa voice assistant and Ring camera"
     excerpt: "Washington – Amazon agreed Wednesday to pay a $25 million civil penalty to settle Federal Trade Commission allegations it violated a child privacy law and deceived parents by keeping for years kids' voice and location data recorded by its popular Alexa voice assistant."
     publishedDateTime: 2023-06-01T15:08:00Z

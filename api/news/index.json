@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-02-french-open-enlists-ai-company-to-help-players-fight-social-media-hate.md",
+      "title": "French Open Enlists AI Company to Help Players Fight Social Media Hate",
+      "excerpt": "The automated software filters out abusive comments on social media platforms including Instagram, TikTok and Twitter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/french-open-enlists-ai-company-to-help-players-fight-social-media-hate/",
+      "originalUrl": "https://www.cnet.com/tech/french-open-enlists-ai-company-to-help-players-fight-social-media-hate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/3e2d53873a7382261bdedb700e09480800d14740/hub/2023/06/01/d873990a-8525-4fb2-9b9a-0aac6336a45a/french-open-getty-1495198907.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T16:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-an-ai-powered-drone-tried-to-kill-its-human-operator-in-a-us-military-simulation.md",
       "title": "An AI-powered drone tried to kill its human operator in a US military simulation",
       "excerpt": "\"It killed the operator because that person was keeping it from accomplishing its objective,\" Col. Tucker Hamilton said at a recent conference.",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-powered-drone-tried-killing-its-operator-in-military-simulation-2023-6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -414,7 +465,7 @@
       "originalUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -562,7 +613,7 @@
       "originalUrl": "https://www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1184,58 +1235,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-investors-see-ai-chips-as-new-gold-heres-why.md",
-      "title": "Investors See AI Chips as New Gold. Here’s Why",
-      "excerpt": "AI chips have suddenly taken center stage in what is considered an AI revolution that could reshape the technology sector—and the world",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6284046/nvidia-ai-chips-investment/",
-      "originalUrl": "https://time.com/6284046/nvidia-ai-chips-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://time.com/img/icons/wallet-connect.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T00:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

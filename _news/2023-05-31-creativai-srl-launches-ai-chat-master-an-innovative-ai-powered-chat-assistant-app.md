@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32640081"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32640081"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1043
     height: 1043
     isCached: true
-
-related:
-  - title: "AI-yai-yai: We need to put guardrails around increasingly powerful artificial intelligence technology"
-    excerpt: "Mock its creepiness and funny little mistakes all you like. Artificial intelligence has just taken a quantum leap, and those gains will quicken as time passes and tireless machine learning builds on itself."
-    publishedDateTime: 2023-05-28T08:10:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-edit-ai-guardrails-regulation-biden-20230528-n3h6nb6oajesvhd5eigkyxjbai-story.html"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 41
-    images:
-      - url: "https://www.nydailynews.com/resizer/WJloNfbGLnb69TodZQnwmyNjx-I=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/6OPL4SDK2ZBGLEWY3OEM5Q4ORM.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "G2ujhA1CH4jGKaAQT6bIwEyJOuivdXxolpAzCe/fMd9ROV0tvFUZdxgR8Ide8MBxxCuHcZpEQZYeUx8sTaF9qVJzfK4dlfiCUaT+l9KBXcuWOnGz6m2CjzjfUd4D+nubDvVkJb83TTT4uflR5fPXZ1Ch5fcYC0rGDBSrIH37YCQXbeOP3owcjGuyp7/LEkLjwonn4J3QJiiVUvu5sQtA+V9KzJZuflcVQLZ6UsJe8Lpk8eDpP9O3pv72mo0IrWjbPu4zD75UAqlaWPx+dCxwCyYrsGnsURfzSP0iCDX198vTIMKiRRlitKqqwK9W06I6ajb6dj8AcjLOtc9MO9ERHzEMsKAp+bk0QDmUUPK4OoooXku84VJ36hAEs6fzh6Oig9pKRWbfOiroIoXjYM0gmbVKGRCZkZ97BXMqTQyATS0QfVx0M7bkld8E2P6ajmtg74LGfN+rkbaZAW+lbMoxdUA7P+Cg4Gmf8fSY+W7K+Gm5X8Z2N077Cm66cNjDY2A1yArkBqe+9LZgfWfbJt0G/g==;hXCID3GsWTx0n8d0zqwF0g=="
 ---

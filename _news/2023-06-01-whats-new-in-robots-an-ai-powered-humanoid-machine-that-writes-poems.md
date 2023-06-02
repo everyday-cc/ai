@@ -2,17 +2,17 @@
 category: news
 title: "What’s new in robots? An AI-powered humanoid machine that writes poems"
 excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
-publishedDateTime: 2023-06-01T08:48:00Z
-originalUrl: "https://www.arkansasonline.com/news/2023/jun/01/whats-new-in-robots-an-ai-powered-humanoid/"
-webUrl: "https://www.arkansasonline.com/news/2023/jun/01/whats-new-in-robots-an-ai-powered-humanoid/"
+publishedDateTime: 2023-06-01T08:45:00Z
+originalUrl: "https://www.nwaonline.com/news/2023/jun/01/whats-new-in-robots-an-ai-powered-humanoid/"
+webUrl: "https://www.nwaonline.com/news/2023/jun/01/whats-new-in-robots-an-ai-powered-humanoid/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Arkansas Democrat-Gazette
-  domain: arkansasonline.com
+  name: Northwest Arkansas Democrat Gazette
+  domain: nwaonline.com
 
 topics:
   - AI in Robotics
@@ -41,7 +41,21 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "What’s new in robots? An AI-powered humanoid machine that writes poems"
+    excerpt: "\"It means we have to build an intuitive system that people can learn in a very short time, like half an hour,\" he said."
+    publishedDateTime: 2023-05-31T12:50:00Z
+    webUrl: "https://sentinelcolorado.com/a-town-magazine/lifestyle/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/"
+    type: article
+    provider:
+      name: Sentinel Colorado
+      domain: sentinelcolorado.com
+    quality: 39
+    images:
+      - url: "https://sentinelcolorado.com/wp-content/uploads/2023/05/AP23150457430119.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
-secured: "frIxO5sPbdjxJ37/E5bgQTTS9g7ZzR7dO+xSpUQaFoZscLbBpzGlQsBctm4tsDZS3yCegQYK4F7nUDqlEdbAlWArJ+9UyI1EpMb9mTUWkNQH6u0CxkWSeJtTBI6eMbdRGzyfb7vXFos1UE8i80YIMWcejmc4Y1tpgbW/vpCeaEvy17oiUIuy530q/A9ZCGK0tXsKhS9+D3WNFvqIq6TqDyMOAA591HhWvP2zffBag6funR4fCPg8cxvht43Aztz4sBFVmNs8XNZ8kTtUR27Rr1CbCZGXgjdqiMaMhNutdtA1aeQhAAruaS5WvImL/u6Z80yaz1jICZLmnv62y8F7o6rhwVb2e60L9QcXeuAxn9xKlKZo3dq/tv7YFLDiom2+G02VPcs3br400k3d/6oNUnW8QOEvG8doll9DtXbSrUYH33sicOUAYaBXjyLMzunHWIHd9pI6xtbF11+lud+2cSk1WkoiyiN1KROiRT35ywzxs8OX+tAKgvTJa90FOS2uWF05Dz0nXIfoEO7ZBnxtbw==;F7KbUc1eXBFXETkUXb2x/A=="
+secured: "pHoulBKti5jsWtySQazUNFwoIdPNZ4rWHbgfR4RNhE6bJ3hFSBQiUjwCClnAMlhhf+XCv3yC0TeimnzRescLOCf8YtJ16uAWDAakVTGksdOQ6RRXbqYMfG8eGzLvmEIUMGgfAi3qvuVWCEFu3sn8ViszmlzwB39n6I1jCnFl3TjcHK7UwEEK5LP9RSJLozjHROhimLY7cA5tUIYCOP7SRVMOOCzXXH3AB0Y3h0QUu88JNNgNVPv1KDFFQHJZc5891BozXuOfu8zO1PbYBnl4VFTerd7dNHHb85DxOVejyU0MZH+zBlvKxobZOHSA7sIP46Qdcki1OMgyAooYJEKLZE6VAOXbmRm85U00BrbgAq0=;H+ArfeGqMb48dgK3xor0fQ=="
 ---
 

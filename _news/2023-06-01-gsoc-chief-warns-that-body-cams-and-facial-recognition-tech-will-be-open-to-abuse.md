@@ -53,6 +53,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "As use of facial recognition tech grows, so do privacy concerns"
+    excerpt: "Experts fear the billion-dollar industry's potential for mass surveillance and its lack of safeguards to protect millions of images of real people's faces from theft or alteration."
+    publishedDateTime: 2023-05-31T19:06:00Z
+    webUrl: "https://www.startribune.com/as-use-of-facial-recognition-technology-grows-so-do-security-concerns/600279118/"
+    type: article
+    provider:
+      name: Star Tribune
+      domain: startribune.com
+    quality: 39
+    images:
+      - url: "https://chorus.stimg.co/24691350/merlin_70921675.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Green Party won't back use of facial recognition technology by gardaí"
     excerpt: "The Green Party will not back a renewed call from Minister for Justice Simon Harris to support legislation which would pave the way for gardaí to use facial recognition technology."
     publishedDateTime: 2023-05-31T16:47:00Z

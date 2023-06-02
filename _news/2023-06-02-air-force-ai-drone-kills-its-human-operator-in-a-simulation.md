@@ -42,6 +42,38 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "AI military drone kept murdering its human operator in simulated tests"
+    excerpt: "A U.S. Air Force Colonel reported that in a simulated test, an AI-controlled drone kept killing its human operator when it was denied from completing its search and destroy missions."
+    publishedDateTime: 2023-06-02T01:15:00Z
+    webUrl: "https://cointelegraph.com/news/ai-drone-kill-human-operator-in-tests"
+    ampWebUrl: "https://cointelegraph.com/news/ai-drone-kill-human-operator-in-tests/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/ai-drone-kill-human-operator-in-tests/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 59
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/d2d4e8db-2486-40f7-ad2d-2f05c217b331.jpg"
+        width: 740
+        height: 492
+        isCached: true
+  - title: "US military drone controlled by AI killed its operator during simulated test"
+    excerpt: "The artificial intelligence used ‘highly unexpected strategies’ to achieve its mission and attacked anyone who interfered"
+    publishedDateTime: 2023-06-02T00:36:00Z
+    webUrl: "https://www.theguardian.com/us-news/2023/jun/01/us-military-drone-ai-killed-operator-simulated-test"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2023/jun/01/us-military-drone-ai-killed-operator-simulated-test"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/jun/01/us-military-drone-ai-killed-operator-simulated-test"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 54
+    images:
+      - url: "https://i.guim.co.uk/img/media/4e659b81ef7356d46c73bdc7f610f74a0b0cfc8c/0_0_4928_3280/master/4928.jpg?width=620&quality=85&auto=format&fit=max&s=16e2023f24c79048020b21ff42710d4e"
+        width: 620
+        height: 413
+        isCached: true
 
 secured: "WBXf4rrqBtEHSC90FpYxbw0lt3hxy4tQ99aoZEhZcm6c6/UNgQvLckWzSu12JSeNq9mVropudMsnINkvsMeXxxu5rhdwL9QHXD8iYTAxLB3ApuI0ZTQbZECAU5ubbzJ6dPtetTEmanuQzzV6EbrdtJ13mltyFLngDdni/Wtb92X2I+kBMPMjE4XgQJYfWemWi8bfJGGu0qHluXq+n99DAeQQObo6Yg3uVIpIz1GxAJaO9IP+8Pc5c8nsTDY+S41Xm/qcpcG78F5nQBz4Pr7PmCAnHHbje+gJB1OBplWRdXjbOn65XdEkMI6r3IApILmpKuu0ShGGL6qRcyf56clVuvi3Np8TeoVDavRF0PzDjYc=;gEZv7oiWAI9i9ZFp39o53Q=="
 ---

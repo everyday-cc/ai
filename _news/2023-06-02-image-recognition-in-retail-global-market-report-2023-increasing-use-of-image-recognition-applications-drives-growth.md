@@ -1,41 +1,72 @@
 ---
 category: news
 title: "Image Recognition In Retail Global Market Report 2023: Increasing use of Image Recognition Applications Drives Growth"
-excerpt: "This report provides strategists, marketers and senior management with the critical information they need to assess the market. The global image recognition in retail market is expected to grow from $1."
-publishedDateTime: 2023-06-01T23:40:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/06/01/9825362.htm"
-webUrl: "https://it.tmcnet.com/news/2023/06/01/9825362.htm"
+excerpt: "The main types of image recognition in retail are code recognition, digital image processing, facial recognition, object recognition, and others. Code recognition is an identifying solution that can read and validate both QR codes, all conventional ..."
+publishedDateTime: 2023-06-01T22:21:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32682999/image-recognition-in-retail-global-market-report-2023-increasing-use-of-image-recognition-applicat"
+webUrl: "https://www.benzinga.com/pressreleases/23/06/n32682999/image-recognition-in-retail-global-market-report-2023-increasing-use-of-image-recognition-applicat"
+ampWebUrl: "https://www.benzinga.com/amp/content/32682999"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32682999"
 type: article
-quality: 0
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
 related:
-  - title: "Artificial Neural Networks Global Market Report 2023: Sector to Reach $1.3 Billion by 2030 at an 11% CAGR"
-    excerpt: "ResearchAndMarkets.com is the world's leading source for international market research reports and market data. We provide you with the latest data on international and regional markets, key industries, the top companies, new products and the latest trends."
-    publishedDateTime: 2023-05-29T22:34:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32616857/artificial-neural-networks-global-market-report-2023-sector-to-reach-1-3-billion-by-2030-at-an-11-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32616857"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32616857"
+  - title: "Deep learning helps in global estimation of phytoplankton pigment concentrations"
+    excerpt: "The community structure of phytoplankton can reflect changes in marine environment and help us understand driving factors behind ecological evolution. Quantifying pigment concentration in phytoplankton is crucial for comprehensive assessment of taxonomic classification and community structure."
+    publishedDateTime: 2023-05-30T14:29:00Z
+    webUrl: "https://phys.org/news/2023-05-deep-global-phytoplankton-pigment.html"
+    ampWebUrl: "https://phys.org/news/2023-05-deep-global-phytoplankton-pigment.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-deep-global-phytoplankton-pigment.amp"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 42
+      name: Phys.org
+      domain: phys.org
+    quality: 54
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/plankton.jpg"
+        width: 1250
+        height: 1250
         isCached: true
+  - title: "Facial recognition helps Indian authorities identify SIM fraudsters"
+    excerpt: "The Department of Telecommunication (DoT) in the states of Bihar and Jharkhand found a total of 21,800 fraudulent SIM cards in April and May."
+    publishedDateTime: 2023-05-30T20:29:00Z
+    webUrl: "https://www.biometricupdate.com/202305/facial-recognition-helps-indian-authorities-identify-sim-fraudsters"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/05/01145840/shutterstock_524074843-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Reinventing Anti-Money Laundering: How Federated Learning Can Power Fund Diversion Detection And GDPR Compliance"
+    excerpt: "By integrating FML into their AML strategies, banks can enhance their ability to detect and prevent illicit activities and contribute to a secure global financial system."
+    publishedDateTime: 2023-05-30T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/30/reinventing-anti-money-laundering-how-federated-learning-can-power-fund-diversion-detection-and-gdpr-compliance/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 13
 
-secured: "3fxzIUpwSvk4DpH9zOhbmG0wNmeSzvQ0A3bvZsd5+gSJdeOCFSDggIEniLzHN9IbE1ooymMcdBKldVlS7zfFTL6OgOETzacHjAVhfA94gmMEzixSvqjALDE7vPdJ/r69LuMCUDGeZv9WvsNRfNyBHkvudm6HVSj2B7O4lJHGoBXBXboWg8Xfz3zaMkTx/lNsVASeUlGnzydU5L3dItn+J/Sj6ShPkgdXeeBUF7NHMMGwc1EtZIngjijzRk8p6MFHWmI2Am0YZKPZyjK8QeAZ/0zCcdMPXP3bsi+gpPso2q+c0X3Z7NXyWzNGd4vJfFM0ZUJxJhbTUZEbeRyboE57nm9ThxAzmrEinSfJNKq4sf4=;n7/up0fV24J/MHkxCKGGaA=="
+secured: "QlKsY6S98q5L0cMNxPGPRI3lrIr4g3BeK4vmcd0vGycsXSJhtELl4C6myePJ/dBE0uRjpKk1FII2QFGWVhO3uRIIuUz3PvE0pLZbM3KYrgEtgOZ3nxIK9PNz47VgRLg1f40JMDOF9P/0Uj0Uduek3z2nm8P136pvzQK06bnPl3nSj1Q/xcRd34WZ5t+WAVhAfW/bMFfnlLK2Kz7A6ORznkvAlKcdwbtK8oN25z9JoubZ3TMWvKGb57vHYqB5b5FvY1+jpivwtdnkAy6PWd3i11Ht2nOatHOdHz5dGsYg0DYlyuk3lfcgJuMspZHnoM9WqgSpcxpBwtUoIS3AVrcqvCQkXqoQnspvX9dTscmkcjg=;M5oRWnBy1tAPcJvQ/XBdJg=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-31-chinese-leader-xi-jinping-warns-of-ai-risks-to-national-security.md",
+      "title": "Chinese Leader Xi Jinping Warns of AI Risks to National Security",
+      "excerpt": "A meeting headed by party leader and President Xi Jinping on Tuesday urged “dedicated efforts to safeguard political security and improve the security governance of internet data and artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6283663/xi-jinping-warns-ai-risk-national-security/",
+      "originalUrl": "https://time.com/6283663/xi-jinping-warns-ai-risk-national-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://time.com/img/icons/wallet-connect.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T23:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-asm-sees-impact-from-china-chip-curbs-offset-by-ai-driven-demand.md",
       "title": "ASM Sees Impact From China Chip Curbs Offset by AI-Driven Demand",
       "excerpt": "Dutch chip gear firm ASM International NV said the impact on its sales from US semiconductor export controls on China is “not a big deal” amid strong demand for chips driven by artificial intelligence applications.",
@@ -334,6 +386,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-ai-powered-humanoid-works-the-crowd-at-tech-show.md",
+      "title": "AI-powered humanoid works the crowd at tech show",
+      "excerpt": "Will Jackson, director of Engineered Arts, the British company that created Ameca, said his company’s robots are designed for tasks that involve interacting with humans, such as helping",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-the-crowd-at-tech-show/",
+      "originalUrl": "https://www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-the-crowd-at-tech-show/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bostonherald.com/wp-content/uploads/2023/05/AP23150442054195.jpg?w=1024&h=683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-the-crowd-at-tech-show/amp/",
+      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-the-crowd-at-tech-show/amp/",
+      "publishedDateTime": "2023-05-30T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Boston Herald",
+        "domain": "bostonherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -837,7 +932,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 505,
+      "heat": 515,
       "tags": null,
       "images": [
         {
@@ -1134,110 +1229,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-high-quality-human-feedback-for-your-generative-ai-applications-from-amazon-sagemaker-ground-truth-plus.md",
-      "title": "High-quality human feedback for your generative AI applications from Amazon SageMaker Ground Truth Plus",
-      "excerpt": "Amazon SageMaker Ground Truth Plus helps you prepare high-quality training datasets by removing the undifferentiated heavy lifting associated with building data labeling applications and managing the labeling workforce. All you do is share data along with labeling requirements, and Ground Truth Plus",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/high-quality-human-feedback-for-your-generative-ai-applications-from-amazon-sagemaker-ground-truth-plus/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/high-quality-human-feedback-for-your-generative-ai-applications-from-amazon-sagemaker-ground-truth-plus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/26/ML-14314-image005-1063x630.png",
-          "width": 1063,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T09:13:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-sap-wants-to-future-proof-businesses-with-ai.md",
-      "title": "SAP Wants To Future-Proof Businesses With AI",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead examines how SAP says it wants to help customers transform business models in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/30/sap-wants-to-future-proof-businesses-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/30/sap-wants-to-future-proof-businesses-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647617a83cda87b81f945378/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/30/sap-wants-to-future-proof-businesses-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/30/sap-wants-to-future-proof-businesses-with-ai/amp/",
-      "publishedDateTime": "2023-05-30T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

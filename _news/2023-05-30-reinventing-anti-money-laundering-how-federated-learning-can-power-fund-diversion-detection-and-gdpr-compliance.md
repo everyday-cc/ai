@@ -53,6 +53,22 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Image Recognition In Retail Global Market Report 2023: Increasing use of Image Recognition Applications Drives Growth"
+    excerpt: "The main types of image recognition in retail are code recognition, digital image processing, facial recognition, object recognition, and others. Code recognition is an identifying solution that can read and validate both QR codes, all conventional ..."
+    publishedDateTime: 2023-06-01T22:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32682999/image-recognition-in-retail-global-market-report-2023-increasing-use-of-image-recognition-applicat"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32682999"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32682999"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 36
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "Ao+iMro8CExYJjo08YDAWKz+zlGKpNxf13SSBc4OVVS0QiulDXoHyNJfVNhhHm65iV2sFaxYAM3NY4jHsovz3pGEjLuVAG67bF/jXcf4MjoZGHJwjQDYhtPatsze+zFPzMqIE/PIvzpXMlknIlINNGTMdPZjcntEjgIifXDikhmin5G4ScTAnPmTICYh+BkhowRyS2vPKtvz8R8/jav4YGCvbicevYErFPgChOulcLYkiDA4gnlfyMhPOVbeHoJxp+exGMW6ZrfhaehXnBCemEcRX+9BaqPGw1K6BR7y32lgO5up6fdVBcLeaC/lVKK5LfIlNIzBIAl/CZSUclSUgDM7ONLDttmJ5yO55X44B+ye8ZE9MqAcEJsnccyWvoEA5wCqvWzhawM8P0U8b25rNUKcKh9gLb9QfnodEtaikzO2m1w1SI4eq+lg5nLaJ09sztcEJuiSl3kY+3fSleUzrwf4QY1iT4dmisTM0Vo/qjFvZnW8CkTmsex5lieLz8yu/Z/unBpcqyszx5xHgVJqkA==;TDTu+fO/MmQKgZhr3SxQ9w=="
 ---

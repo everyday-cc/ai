@@ -1,56 +1,61 @@
 ---
 category: news
-title: "What's new in robots? An AI-powered humanoid machine that writes poems"
-excerpt: "Hundreds of robots are on display this week at the International Conference on Robotics and Automation in London."
-publishedDateTime: 2023-05-31T13:45:00Z
-originalUrl: "https://tucson.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_532d32af-c149-5cfc-924f-06df94705189.html"
-webUrl: "https://tucson.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_532d32af-c149-5cfc-924f-06df94705189.html"
+title: "What’s new in robots? An AI-powered humanoid machine that writes poems"
+excerpt: "\"It means we have to build an intuitive system that people can learn in a very short time, like half an hour,\" he said."
+publishedDateTime: 2023-05-31T12:50:00Z
+originalUrl: "https://sentinelcolorado.com/a-town-magazine/lifestyle/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/"
+webUrl: "https://sentinelcolorado.com/a-town-magazine/lifestyle/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/"
 type: article
-quality: 54
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Arizona Daily Star
-  domain: tucson.com
+  name: Sentinel Colorado
+  domain: sentinelcolorado.com
 
 topics:
-  - AI in Robotics
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/5/32/532d32af-c149-5cfc-924f-06df94705189/6477381fe5bbb.preview.jpg?crop=1735%2C977%2C25%2C2&resize=1119%2C630&order=crop%2Cresize"
-    width: 1119
-    height: 630
+  - url: "https://sentinelcolorado.com/wp-content/uploads/2023/05/AP23150457430119.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
-  - title: "Hands are more critical for robot intelligence than AI, says robotics CEO"
-    excerpt: "In fact, they don't address the central problem of intelligence at all, which is how to understand the world around you, and then act on it. For Rose, and for the humanoid robots built and operated by Sanctuary AI,"
-    publishedDateTime: 2023-05-31T09:29:00Z
-    webUrl: "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo"
-    ampWebUrl: "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo?amp"
+  - title: "AI-powered humanoid works the crowd at tech show"
+    excerpt: "Will Jackson, director of Engineered Arts, the British company that created Ameca, said his company’s robots are designed for tasks that involve interacting with humans, such as helping"
+    publishedDateTime: 2023-05-30T21:45:00Z
+    webUrl: "https://www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-the-crowd-at-tech-show/"
+    ampWebUrl: "https://www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-the-crowd-at-tech-show/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-the-crowd-at-tech-show/amp/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 90
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 59
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-05/597F4F78-034F-4C75-A533-1DD249D8DA70.jpeg"
-        width: 770
-        height: 500
+      - url: "https://www.bostonherald.com/wp-content/uploads/2023/05/AP23150442054195.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Japan AI startup launches robot for home use"
-    excerpt: "A Japanese artificial intelligence startup has launched a robot for home use capable of delivering items in response to verbal commands, such as bringing dishes and condiments to the dining room table or books and drinks to the sofa."
-    publishedDateTime: 2023-05-28T21:35:00Z
-    webUrl: "https://japantoday.com/category/tech/japan-ai-startup-launches-robot-for-home-use"
+  - title: "What’s new in robots? An AI-powered humanoid machine that writes poems"
+    excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
+    publishedDateTime: 2023-06-01T08:45:00Z
+    webUrl: "https://www.nwaonline.com/news/2023/jun/01/whats-new-in-robots-an-ai-powered-humanoid/"
     type: article
     provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 34
+      name: Northwest Arkansas Democrat Gazette
+      domain: nwaonline.com
+    quality: 54
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204479203_204479203-4497212ae77643a5a468fcbbb895bc0c_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
+        isCached: true
 
-secured: "e6ZPu82OOISLFSMWqWxVB80BtR9V/Axmpc9jPCg7iyYFTSFDFG4qaWg93WOm+3AgAD2dJYo+OH84vIb0wN4DuM9wG6I9CB43E7NFV6Dtlazl3yJUclCxCWALYpt/EoICyMQuAcp2ewwwYtHVmRE6Yg/22cIKjBUeMPvEsna37Xj5JOCY7ePRPq+oy+imWuDGe50uSeyuN6pkYxITC2l+QYqoakl6uchqibccIbJqsyeD0wSMpxo8SOW72iZOur46fukFdJ/QCM7k6evVmnW1D/9SFvItgS2v1Ng5Irw2MBbcMOyqtEFJx5tMOT3fHdMfBcVW7gt+G3nl1s5CSL9cWi5JFCk2KVDLynxWeK9tE4k=;MF0Wk8SFPfjJFE6NNpBPaA=="
+secured: "mHOjuigjYP5CbE5ZxGRhpXxUoXGZaJAe06bonw5zUGOCvPHUzO8OEV2giTWBMwiuu44x6DXPgvnD3ayZ+6L6zsAoacBjSmY3bIz4DkAl/AOb6V223fZD7vyI759lkaLEk4rY9TBsVnDcJwM8IwwCCY7IB056urK7zm7dFeh1wXLmYFkiP5cmJGAfqCWJh+VOGj3RTLrSuMtn6FsbHFT7uj6ibKuXjmot69gqYzzLxk875EoDs4VqVmiUOx4OzBXARWvv4pmUipwkfmgvR3bShwAlraSXhpjScCK9uNFxpZdwb6nDbEw1ckGlNrPxG19PsFbo8pdDQXRvBUEJcod1VsF3hbFU4T7UA+PTZzuQix0=;tJ8wOC5OTN1QWnpAan9haA=="
 ---
 

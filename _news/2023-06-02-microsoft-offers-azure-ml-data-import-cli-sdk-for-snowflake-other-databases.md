@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.amp.html"
 type: article
 quality: 118
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1185699748.jpg?resize=1200,800"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Using Innovation To Expand Microsoft’s Markets"
+    excerpt: "Learn how Chris Capossela, Microsoft’s Executive Vice President and Chief Marketing Officer is helping the company realize the full market potential the shift to cloud infrastructure, the future of work,"
+    publishedDateTime: 2023-06-02T00:24:00Z
+    webUrl: "https://www.forbes.com/sites/stephendiorio/2023/06/01/using-innovation-to-expand-microsofts-markets/"
+    ampWebUrl: "https://www.forbes.com/sites/stephendiorio/2023/06/01/using-innovation-to-expand-microsofts-markets/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephendiorio/2023/06/01/using-innovation-to-expand-microsofts-markets/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647901c847b2a3e2ed11cc53/0x0.jpg?format=jpg&crop=5000,2342,x0,y284,safe&width=1200"
+        width: 1200
+        height: 562
         isCached: true
   - title: "Microsoft thoughts on the future of AI"
     excerpt: "Eric Horvitz Chief Scientific Officer at Microsoft has taken to the official Microsoft blog this week to write an article on the future of AI and the"

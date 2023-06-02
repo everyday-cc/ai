@@ -26,17 +26,6 @@ images:
     height: 1043
     isCached: true
 
-related:
-  - title: "Image Recognition In Retail Global Market Report 2023: Increasing use of Image Recognition Applications Drives Growth"
-    excerpt: "This report provides strategists, marketers and senior management with the critical information they need to assess the market. The global image recognition in retail market is expected to grow from $1."
-    publishedDateTime: 2023-06-01T23:40:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/01/9825362.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "/ehSfmfkOz3PFKUi8F/6MgzEEYhNig/NuJ/37dTbvXwncttelfzM35kLRldVApnBI4zDwV/iA/wJZOP4/EhVp5oPhuvSUHizqkqeiaWLp+JSLJVdmuwASYsaoWy0HahhiJKJZ/SmWqeDbXsCkU8NeZ45Im7TUjzRSehN3q+UEP2hswIZI0exSPI5WXDRM5DNIcCQypOdyFuFC2Lccfn8ACi9qt1KY0rYOlP8elqUAoRkBRSisYO47FOFrSfXP4j2s/fJB9ez04dHaw9LWaNtj+rt1c5/YSHnbN+wDYxNcQ3zvoUBn7ma7NbdX+uKu2OwBx3AfZBipdRNSDZS/Wrx2kcj+oGneZFCmiJIly/kcMQ=;x1jNMNJKNcQaB0pxlEAyCw=="
 ---
 

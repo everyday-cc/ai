@@ -2,6 +2,101 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2023-05-08-ais-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong.md",
+      "title": "AI's facial recognition failures: Three times crime solving intelligence got it wrong",
+      "excerpt": "Law enforcement's use of artifical intelligence-driven facial recognition puts everyone into what one expert called a \"perpetual police line-up,\" and studies show it's more likely the finger will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/ai-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong",
+      "originalUrl": "https://www.foxnews.com/us/ai-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/12/340/340/69272029239__714BF986-699F-43ED-BD6D-FD1D2BB59635.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/ai-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-facial-recognition-failures-three-times-crime-solving-intelligence-got-it-wrong.amp",
+      "publishedDateTime": "2023-05-08T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-ai-and-the-hollywood-writers-strike.md",
+      "title": "AI and the Hollywood Writers’ Strike",
+      "excerpt": "The fear—or hope, depending on side of the desk you sit on—is that AI can replace writers and undermine their fees. One of the key sticking points in the Writers Guild of America (WGA) strike that began on May 1 at midnight,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/",
+      "originalUrl": "https://www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thenation.com/wp-content/uploads/2023/05/1SAGShotCrop.jpg",
+          "width": 1440,
+          "height": 907,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/tnamp/",
+      "cdnAmpWebUrl": "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/economy/ai-and-the-hollywood-writers-strike/tnamp/",
+      "publishedDateTime": "2023-05-08T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Nation",
+        "domain": "thenation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-ai-dude-the-most-sophisticated-artificial-intelligence-technology.md",
       "title": "AI DUDE: The Most Sophisticated Artificial Intelligence Technology",
       "excerpt": "The AIDUDE company is proud to announce the launch of its latest innovation, Ai Dude, which utilizes the most sophisticated Artificial Intelligence (AI) technology to provide businesses with a powerful tool for content creation and optimization.",
@@ -1100,92 +1195,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-start-ai-sai-is-now-available-for-trading-on-lbank-exchange.md",
-      "title": "Start AI (SAI) Is Now Available for Trading on LBank Exchange",
-      "excerpt": "robotics, biomedical AI, media, arts and entertainment. There're multiple features provided by Start AI for all kinds of businesses, these features include Distributed AI Space, which reduces the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/32258672/start-ai-sai-is-now-available-for-trading-on-lbank-exchange",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/32258672/start-ai-sai-is-now-available-for-trading-on-lbank-exchange",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newsfilecorp.com/files/8831/165169_c2e150a184cf6869_001.jpg",
-          "width": 550,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32258672",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32258672",
-      "publishedDateTime": "2023-05-08T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-china-is-developing-ai-without-us-chips-heres-how.md",
-      "title": "China is developing AI without US chips: Here's how",
-      "excerpt": "The report revealed that local Chinese companies are working on ways to develop AI with weaker semiconductors along with combinations of chips to stop the reliance on one type of hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how",
-      "originalUrl": "https://cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-05/945d6562-7cc8-4c63-9ad5-3bc1eacd921a.jpg",
-          "width": 740,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/china-is-developing-ai-without-us-chips-here-s-how/amp",
-      "publishedDateTime": "2023-05-08T01:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

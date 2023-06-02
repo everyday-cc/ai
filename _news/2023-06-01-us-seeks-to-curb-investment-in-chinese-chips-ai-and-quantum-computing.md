@@ -46,9 +46,9 @@ related:
   - title: "China warns of artificial intelligence risks, calls for beefed-up national security measures"
     excerpt: "China has warned of the risks posed by advances in artificial intelligence while calling for heightened national security measures"
     publishedDateTime: 2023-05-31T09:18:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716269"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716269"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716269"
+    webUrl: "https://abcnews.go.com/Business/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716451"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716451"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716451"
     type: article
     provider:
       name: ABC

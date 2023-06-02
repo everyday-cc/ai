@@ -2,6 +2,83 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2023-04-11-ahlenius-where-will-ai-impact-our-jobs-most.md",
+      "title": "AHLENIUS: Where will AI impact our jobs most?",
+      "excerpt": "The first phases of AI have yet to move the needle in labor market performance, such as labor productivity or manufacturing productivity growth. In addition, it is hard to aggregate productivity numbers and productivity gains with internet applications like GPS navigation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.beaumontenterprise.com/business/article/ai-impact-jobs-most-17884647.php",
+      "originalUrl": "https://www.beaumontenterprise.com/business/article/ai-impact-jobs-most-17884647.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/30/33/36/23181207/5/rawImage.jpg",
+          "width": 1573,
+          "height": 2048,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-10T20:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Beaumont Enterprise",
+        "domain": "beaumontenterprise.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-11-thailands-8-most-well-funded-fintech-companies.md",
+      "title": "Thailand’s 8 Most Well-Funded Fintech Companies",
+      "excerpt": "With the Thai fintech industry on the rise, we’ve decided to look at the country’s up-and-coming fintech startups, identifying the companies that have raised the most funding. For this list, we’ve focused on fintech companies with their headquarters in Thailand,",
+      "sourceUrl": null,
+      "webUrl": "https://fintechnews.sg/71364/thailand/top-funded-fintech-thailand-2023/",
+      "originalUrl": "https://fintechnews.sg/71364/thailand/top-funded-fintech-thailand-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-10T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fintech Singapore",
+        "domain": "fintechnews.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-11-5-natural-language-processing-libraries-to-use.md",
       "title": "5 Natural language processing libraries to use",
       "excerpt": "Natural language processing (NLP) is important because it enables machines to understand, interpret and generate human language, which is the primary means of communication between people.",
@@ -1055,84 +1132,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-09-exrobotics-develops-new-and-improved-version-of-its-inspection-robot.md",
-      "title": "Exrobotics Develops 'New And Improved' Version Of Its Inspection Robot",
-      "excerpt": "ExRobotics develops 'new and improved' version of its inspection robot April 8, 2023 by mark allinson leave a comment  exrobotics",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105965325/Exrobotics-Develops-New-And-Improved-Version-Of-Its-Inspection-Robot",
-      "originalUrl": "https://menafn.com/1105965325/Exrobotics-Develops-New-And-Improved-Version-Of-Its-Inspection-Robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-08T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-09-washington-vows-to-tackle-ai-as-tech-titans-and-critics-descend.md",
-      "title": "Washington vows to tackle AI, as tech titans and critics descend",
-      "excerpt": "Tristan Harris, a tech ethicist well-known among lawmakers for ringing the alarm about the harmful effects of social networks, was now arguing that artificial intelligence represents a potentially ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2023/04/08/washington-artificial-intelligence-regulation/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2023/04/08/washington-artificial-intelligence-regulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KKWVQHG6PNB3RPJZLQ2AWNDG64.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-08T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

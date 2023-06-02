@@ -73,6 +73,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Amazon to pay $31 million in privacy violation penalties for Alexa voice assistant and Ring camera"
+    excerpt: "Amazon has agreed to pay a $25 million civil penalty to settle Federal Trade Commission allegations it violated a child privacy law and deceived parents by keeping for years kids’ voice and location d"
+    publishedDateTime: 2023-06-01T15:19:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ftc-charges-amazon-privacy-violations-alexa-ring-cameras-99745297"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ftc-charges-amazon-privacy-violations-alexa-ring-cameras-99745297"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ftc-charges-amazon-privacy-violations-alexa-ring-cameras-99745297"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 30
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_971419109d7af10203d7ccfd28fcd0ad_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Amazon to pay $31M in privacy violation penalties for Alexa voice assistant and Ring camera"
     excerpt: "Washington – Amazon agreed Wednesday to pay a $25 million civil penalty to settle Federal Trade Commission allegations it violated a child privacy law and deceived parents by keeping for years kids' voice and location data recorded by its popular Alexa voice assistant."
     publishedDateTime: 2023-06-01T15:08:00Z
@@ -134,6 +150,6 @@ related:
       domain: niagara-gazette.com
     quality: 0
 
-secured: "KksA5awzLTokbCZzTF/3PJJ1nQBH8zt3o5rPXjzci3T/xAe/LEqMJ009pFfEdB73brRnhuLbTnXsLlB7bOnK1HXvaw4Vq0ZCV93l7q0cflngqalW5wth0ju4tSNwntNSBZtWRa222S7g0woG2x168VCQze5AeHUfpZocV6seZLvdqit8eOw0IWlTO8K81ZV4dWNCtXyRqxt3xLXeAibvbFFOQH08bhYE2r4X7UBTPykaQ4hJkE707Yeevmo3cv2Iw9OHSGwiqHhxfv4EQfmZgcd26yYlBuMU+zKm8X0t6KpuXgL49E2Huaao5xFAnixuOVcjTCr7UIOuDCLdZA1mAPE5mnfZRpAWKo4XCBAnSUQ=;6mA0kqPIXmuPHPQoV/xJhA=="
+secured: "LkaxuebGNmwIidSFFOh9dJHPNVrv5ylAwnyzxnSbHlNKTFYWT7TXjbviqhYez2zC/btgo1vYQqa83HhHyQjXQdhazakBtAk5+vHAky9qKuCWonIkMg7FaRmMCFrKHOlv5PvFBB2cfs7TOTFJgQT9++zWP5dRsQ9JB9S3lHr+H+O17oekXI1n+Iww1r6dNw7NEdF96rocbQzapW6SQqPm6elFo95xQELw/uDcyttIlIFx8YDq9GOWNIwPrnK5Gtf/5S/WJ59bQa30lPIJI/frOF10u8sTq4HQiKtlulOMW2D/p8Pm60rwmE/VCMSDx4aJOOPc6rx9rujjLMswJJttA+B068s7g64GMlh+JS2JDTzz7Nv8U5/nsGM3ZgrfRRQjc1ZvYPEVLFuBy2kvGkkdOrfVDnxCrOUxybdk/5cpt/3Tk2hcGPi5vVg9aWpP/pJfPIBeDCfaym2tb0K/RJyh58nkIpAAkbtOrHf81WpAZzy3WO7LkCfZwbj3oHj5fbtLUR+UfMDWjzhJDpL0h6jO4Q==;5FCeLH+DW0c9MFfkwGiqjw=="
 ---
 

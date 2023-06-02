@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-04-23-manufacturers-hope-for-ai-boost-in-factories.md",
+      "title": "Manufacturers Hope For AI Boost In Factories",
+      "excerpt": "Manufacturers are hoping for the artificial intelligence revolution to reach their factories, envisaging robots being used to repair complex machinery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/manufacturers-hope-for-ai-boost-in-factories-a1ba155f",
+      "originalUrl": "https://www.barrons.com/news/manufacturers-hope-for-ai-boost-in-factories-a1ba155f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/manufacturers-hope-for-ai-boost-in-factories-a1ba155f",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/manufacturers-hope-for-ai-boost-in-factories-a1ba155f",
+      "publishedDateTime": "2023-04-23T01:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-22-have-robots-take-care-of-your-cat-when-you-travel.md",
       "title": "Have Robots Take Care Of Your Cat When You Travel",
       "excerpt": "If you like to travel, a cat is the perfect pet. They don't need constant walking. They don't need an overabundance of interaction (if they want any), and they don't destroy your house if left alone for a few days.",
@@ -1317,49 +1351,6 @@
         "name": "La Prensa Latina",
         "domain": "laprensalatina.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-15-3-thrilling-robotics-stocks-for-aggressive-investors-to-buy.md",
-      "title": "3 Thrilling Robotics Stocks for Aggressive Investors to Buy",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The buzz surrounding generative artificial intelligence (AI) this year is",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-thrilling-robotics-stocks-to-buy-1032233798",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-thrilling-robotics-stocks-to-buy-1032233798",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-14T15:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

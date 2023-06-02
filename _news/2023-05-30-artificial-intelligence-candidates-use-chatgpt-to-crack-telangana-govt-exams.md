@@ -42,6 +42,20 @@ related:
         width: 470
         height: 352
         isCached: true
+  - title: "Guidelines for the Ethical Use of Generative AI (i.e. ChatGPT) on Campus"
+    excerpt: "without dishonestly using the AI systems to cheat? The Campus Ethics team, a group of Hackworth Fellows from the Markkula Center for Applied Ethics, study this dilemma, providing a guide for students to help them use ChatGPT ethically. This guide outlines ..."
+    publishedDateTime: 2023-06-01T12:39:00Z
+    webUrl: "https://www.scu.edu/ethics/focus-areas/campus-ethics/guidelines-for-the-ethical-use-of-generative-ai-ie-chatgpt-on-campus/"
+    type: article
+    provider:
+      name: Santa Clara University
+      domain: scu.edu
+    quality: 53
+    images:
+      - url: "https://www.scu.edu/media/ethics-center/hackworth-fellows/ChatGPT-Image-360x225.jpg"
+        width: 360
+        height: 225
+        isCached: true
   - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
     excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
     publishedDateTime: 2023-05-30T18:31:00Z

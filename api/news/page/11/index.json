@@ -2,6 +2,109 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-05-24-artificial-intelligence-may-be-coming-for-your-job.md",
+      "title": "Artificial Intelligence May Be Coming For Your Job",
+      "excerpt": "You will need to adapt to the rapid changes brought on by AI by continually educating and upskilling yourself or asking your employer to enroll you in courses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646e2d720e47eac3ef5f411d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/05/24/artificial-intelligence-may-be-coming-for-your-job/amp/",
+      "publishedDateTime": "2023-05-24T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-opera-takes-on-edge-by-adding-its-own-browser-ai.md",
+      "title": "Opera takes on Edge by adding its own browser AI",
+      "excerpt": "Opera’s browser AI is currently available for both desktop and mobile. However, if you want to try it out, you’ll need to download the developer version of Opera One for deskt",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/opera-browser-ai-aria-3328726/",
+      "originalUrl": "https://www.androidauthority.com/opera-browser-ai-aria-3328726/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/05/Aria-Cover-Image.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-the-right-to-react-to-harmful-speech.md",
       "title": "The right to react to harmful speech",
       "excerpt": "SCC dismisses a defamation action using anti-SLAPP law, and highlighting the public interest in protecting counter-speech.",
@@ -1066,90 +1169,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-ai-startup-anthropic-raises-450m-for-safety-focused-chatbot.md",
-      "title": "AI startup Anthropic raises $450M for safety-focused chatbot",
-      "excerpt": "Anthropic, an artificial intelligence startup positioning itself as the builder of a safer kind of chatbot, said it raised $450 million in funding to bolster the development of its AI bot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/",
-      "originalUrl": "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1",
-      "publishedDateTime": "2023-05-23T22:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-red-hat-extends-openshift-for-the-generative-ai-era.md",
-      "title": "Red Hat extends OpenShift for the generative AI era",
-      "excerpt": "IBM's Red Hat business unit announces the expansion of its AI capabilities with the new Red Hat OpenShift AI technology.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/",
-      "originalUrl": "https://venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Red-Hat-e1684880569131.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/amp/",
-      "publishedDateTime": "2023-05-23T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

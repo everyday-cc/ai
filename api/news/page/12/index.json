@@ -2,6 +2,90 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-05-24-ai-startup-anthropic-raises-450m-for-safety-focused-chatbot.md",
+      "title": "AI startup Anthropic raises $450M for safety-focused chatbot",
+      "excerpt": "Anthropic, an artificial intelligence startup positioning itself as the builder of a safer kind of chatbot, said it raised $450 million in funding to bolster the development of its AI bot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/",
+      "originalUrl": "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1",
+      "publishedDateTime": "2023-05-23T22:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-red-hat-extends-openshift-for-the-generative-ai-era.md",
+      "title": "Red Hat extends OpenShift for the generative AI era",
+      "excerpt": "IBM's Red Hat business unit announces the expansion of its AI capabilities with the new Red Hat OpenShift AI technology.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/",
+      "originalUrl": "https://venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Red-Hat-e1684880569131.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/red-hat-extends-openshift-for-the-generative-ai-era/amp/",
+      "publishedDateTime": "2023-05-23T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-ai-now-has-a-key-to-spotifys-songwriting-fortress.md",
       "title": "AI Now Has a Key to Spotify’s Songwriting Fortress",
       "excerpt": "Overnight on Wall Street is morning in Europe. Bloomberg Daybreak Europe, anchored live from London, tracks breaking news in Europe and around the world. Markets never sleep, and neither does Bloomberg News. Monitor your investments 24 hours a day, around the clock from around the globe.",
@@ -1098,83 +1182,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-ai-first-fintech-platform-line-expands-to-capture-10-trillion-in-annual-spending-power-at-the-bottom-of-the-pyramid-news-journalcom.md",
-      "title": "AI-First FinTech Platform Line expands to capture $10 Trillion in Annual Spending Power at the Bottom of the Pyramid | | news-journal.com",
-      "excerpt": "To learn more about Line, please visit https://useline.com. About Line Financial Line is a profitable AI-First fintech platform that accurately risk ranks the bottom 80% of the US working ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/ai-first-fintech-platform-line-expands-to-capture-10-trillion-in-annual-spending-power-at/article_b3cc3bc1-78fd-565d-bf2f-7b5410f0ece9.html",
-      "originalUrl": "https://www.news-journal.com/ai-first-fintech-platform-line-expands-to-capture-10-trillion-in-annual-spending-power-at/article_b3cc3bc1-78fd-565d-bf2f-7b5410f0ece9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-intel-announces-falcon-shores-its-ai-chip-for-2025.md",
-      "title": "Intel announces Falcon Shores, its AI chip for 2025",
-      "excerpt": "Intel has revealed early details about its next-gen artificial intelligence (AI) chip. Called Falcon Shores, this chip will reportedly boast 288GB of high bandwidth memory (HMB3) and support 8-bit floating-point computation. The company plans to introduce ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html",
-      "originalUrl": "https://www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2018/12/AH-Intel-logo-MWC-2018-2-New.jpg",
-          "width": 1918,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html?amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2023/05/intel-falcon-shores-ai-chip-2025.html?amp",
-      "publishedDateTime": "2023-05-23T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

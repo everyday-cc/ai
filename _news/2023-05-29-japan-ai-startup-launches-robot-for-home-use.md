@@ -35,20 +35,6 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
-    excerpt: "Hundreds of robots are on display this week at the International Conference on Robotics and Automation in London."
-    publishedDateTime: 2023-05-31T13:45:00Z
-    webUrl: "https://tucson.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_532d32af-c149-5cfc-924f-06df94705189.html"
-    type: article
-    provider:
-      name: Arizona Daily Star
-      domain: tucson.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/5/32/532d32af-c149-5cfc-924f-06df94705189/6477381fe5bbb.preview.jpg?crop=1735%2C977%2C25%2C2&resize=1119%2C630&order=crop%2Cresize"
-        width: 1119
-        height: 630
-        isCached: true
 
 secured: "Hx9fgSy5Y3QcFueS7rAijM3CEBKuQ/uBuumznEqE+yjuXk8rKBTNMMqhO2h3u3Lwt6cipO8OVun7B29AEah/MnAWoG1o973SSJWSsy4Gg6b0rwoN0T13zpPhrCWfFrsKEmJ8pk2aSzQEXI7eUugrAGJ3/fMEF/iILJiEkjNE4SYrpF//z0GCfMQLQ5GzJkoMSIi9L7Rjn1jra+kySJo6GiUO2FACNRLkTkWOX4xfJM6VgDrXAWs1Hsxu+qmtNxsZwaDqPFTvkbeCxpHhXtfkKG2valPmm5i8+8FqaB3GI0Ut6Ady0rlJR2W/NjYjhbrhnFTM/Iik1RnznJYDoRbDsyPy1QS/1D6Q8jZU1AnVms0=;HuiNJ7rSp0pAGGmeAFuZLA=="
 ---

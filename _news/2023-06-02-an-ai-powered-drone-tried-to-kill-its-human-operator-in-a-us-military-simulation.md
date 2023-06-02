@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-powered-drone-tried-killing-its-o
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-powered-drone-tried-killing-its-operator-in-military-simulation-2023-6?amp"
 type: article
 quality: 84
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI military drone kept murdering its human operator in simulated tests"
+    excerpt: "A U.S. Air Force Colonel reported that in a simulated test, an AI-controlled drone kept killing its human operator when it was denied from completing its search and destroy missions."
+    publishedDateTime: 2023-06-02T01:15:00Z
+    webUrl: "https://cointelegraph.com/news/ai-drone-kill-human-operator-in-tests"
+    ampWebUrl: "https://cointelegraph.com/news/ai-drone-kill-human-operator-in-tests/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/ai-drone-kill-human-operator-in-tests/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 59
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/d2d4e8db-2486-40f7-ad2d-2f05c217b331.jpg"
+        width: 740
+        height: 492
+        isCached: true
   - title: "Air Force AI drone kills its human operator in a simulation"
     excerpt: "An Air Force AI got a little too good at its job, deciding to kill its human overseers to accomplish its mission"
     publishedDateTime: 2023-06-01T21:42:00Z
@@ -47,7 +63,23 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "US military drone controlled by AI killed its operator during simulated test"
+    excerpt: "The artificial intelligence used ‘highly unexpected strategies’ to achieve its mission and attacked anyone who interfered"
+    publishedDateTime: 2023-06-02T00:36:00Z
+    webUrl: "https://www.theguardian.com/us-news/2023/jun/01/us-military-drone-ai-killed-operator-simulated-test"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2023/jun/01/us-military-drone-ai-killed-operator-simulated-test"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/jun/01/us-military-drone-ai-killed-operator-simulated-test"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 54
+    images:
+      - url: "https://i.guim.co.uk/img/media/4e659b81ef7356d46c73bdc7f610f74a0b0cfc8c/0_0_4928_3280/master/4928.jpg?width=620&quality=85&auto=format&fit=max&s=16e2023f24c79048020b21ff42710d4e"
+        width: 620
+        height: 413
+        isCached: true
 
-secured: "wbIOw027Pb+jktwFVpIzlbSz/Xgn8112UjMh/kt2fo/UngE35+WQKYhnfnDAI2mS6okSDfR6EMq97kUY4q36Ijxt+0YvHS7IiUdIAYWhxLVtscEg+iuDeTucu/zTFLrMxXnHI1WOwB6yAXKyQOMquXbzWU3y0Do5DJdLCod8ZEbLjZQ+5TNX8/BGcFGQrDHH9iE2YRsC4g6nQP8j0uQWxiX+0QXzfq6F49fXqB1HYlkNt+VrPwyoaXHq39NCTCldZJuDV24e6CqIqghyleaVhyXpiNbqiNQ9y7LjrLgbHjoBZlcavVfBs2TkVBTvUGL7mIFZN564WUrevlKI52vm0s3kB0JpIxOJwMl1E7LfDNc=;GeHPgmMh2anDuaKeUKrZlw=="
+secured: "Wzq9XUKS4bVVeU9poCcDg3PKaHUzSULC0m4R/qYgRGlOYjpcpPrPQHEV5/txNUdTQr1KlZgO53qDPDQGpP6qJs5KgQNKqSy2RFf88NZ2mIqqNbNdF4Svdgex/wKmjMG5v788g3nECSGVQB7KNCUMTAFhuW82/ZKy7ehQ8LV57ve5wpdm5PEoaVoQ+qFIJlAI3E9n9/riRTjxf+YW2MVYR7Gg9c3aucSYEBT9IDmmysJmBSoqDQ5Vs8HnDNztggDMMzb3e8qmkzuKrsllfzdtRRetFgCy+I/UAYljAU1TAIMM2nNPeNGL4BRP+CFccxKM3nAnp7uhCa8vmiOqmka+fkusCrmfv5ddbKFtgWDtBCrbjwiBLJH5D7E3ggsuaoP49QUpgiX7r+ROVTxu+l78n94tTNLHzYh5sltqpLWFT2XGXpJgDpRdECBR4e3XAVDsCo7704oFh05Y0z95AIGUysmYacbc9Ab6yIv4QMQy8lD2tMs3I4+xyHmIbKWhTXQaFPSuzYd5MSYUMQCPZIACfQ==;iTNPXTPBr9jo9eqS3v9VLw=="
 ---
 

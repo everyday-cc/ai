@@ -311,6 +311,20 @@ related:
         width: 590
         height: 350
         isCached: true
+  - title: "Humans risk extinction from AI, Deepmind and OpenAI warn"
+    excerpt: "Artificial intelligence bosses say mitigating risk of extinction from AI should be ‘global priority alongside pandemics and nuclear war’"
+    publishedDateTime: 2023-05-30T15:01:00Z
+    webUrl: "https://www.independent.co.uk/tech/ai-existential-risk-deepmind-openai-b2348380.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 54
+    images:
+      - url: "https://static.independent.co.uk/2023/05/30/17/1fb93159f6448e9580007f27bdc17016Y29udGVudHNlYXJjaGFwaSwxNjg1NTQ4Mjcw-2.29338284.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI could pose \"risk of extinction\" akin to nuclear war and pandemics, experts say"
     excerpt: "Leaders from OpenAI, Google and others involved in artificial intelligence are warning about its potential for societal harm."
     publishedDateTime: 2023-05-30T16:44:00Z
@@ -327,20 +341,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-    excerpt: "Leading scientists and tech industry leaders are warning about the perils artificial intelligence poses to humankind, saying “mitigating the risk of extinction from AI should be a global priority.”"
-    publishedDateTime: 2023-05-31T07:49:00Z
-    webUrl: "https://kenoshanews.com/news/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/article_ca55b621-31b5-565b-a68e-a61d47a9d39a.html"
-    type: article
-    provider:
-      name: Kenosha News
-      domain: kenoshanews.com
-    quality: 51
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/kenoshanews.com/content/tncms/assets/v3/editorial/c/a5/ca55b621-31b5-565b-a68e-a61d47a9d39a/647669627cf8b.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Top AI CEOs, experts raise 'risk of extinction' from AI"
     excerpt: "AI pioneer Hinton earlier told Reuters that AI could pose a ... Technologycategory China, South Korea agree to strengthen talks on chip industry, Chinese commerce ministry says May 27, 2023 Technologycategory China urges Japan to halt export restrictions ..."
     publishedDateTime: 2023-05-30T13:10:00Z
@@ -350,6 +350,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
+    excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
+    publishedDateTime: 2023-05-31T12:32:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692490"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 49
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_54ea8aadc60d1503e5a65878219aad43_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "AI leaders warn the technology poses 'risk of extinction' like pandemics and nuclear war"
     excerpt: "\"Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war,\" said the one-sentence statement released by the San Francisco-based nonprofit Center for AI Safety."
     publishedDateTime: 2023-05-30T19:55:00Z
