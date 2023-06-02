@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo?amp"
 type: article
 quality: 90
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
+    excerpt: "Hundreds of robots are on display this week at the International Conference on Robotics and Automation in London."
+    publishedDateTime: 2023-05-31T13:45:00Z
+    webUrl: "https://tucson.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_532d32af-c149-5cfc-924f-06df94705189.html"
+    type: article
+    provider:
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/5/32/532d32af-c149-5cfc-924f-06df94705189/6477381fe5bbb.preview.jpg?crop=1735%2C977%2C25%2C2&resize=1119%2C630&order=crop%2Cresize"
+        width: 1119
+        height: 630
+        isCached: true
   - title: "Japan AI startup launches robot for home use"
     excerpt: "A Japanese artificial intelligence startup has launched a robot for home use capable of delivering items in response to verbal commands, such as bringing dishes and condiments to the dining room table or books and drinks to the sofa."
     publishedDateTime: 2023-05-28T21:35:00Z

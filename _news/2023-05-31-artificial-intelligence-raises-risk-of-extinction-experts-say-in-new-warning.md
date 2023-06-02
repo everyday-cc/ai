@@ -1,21 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
-publishedDateTime: 2023-05-31T12:32:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692490"
-webUrl: "https://abcnews.go.com/Business/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692490"
+excerpt: "Leading scientists and tech industry leaders are warning about the perils artificial intelligence poses to humankind, saying “mitigating the risk of extinction from AI should be a global priority.”"
+publishedDateTime: 2023-05-31T07:49:00Z
+originalUrl: "https://kenoshanews.com/news/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/article_ca55b621-31b5-565b-a68e-a61d47a9d39a.html"
+webUrl: "https://kenoshanews.com/news/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/article_ca55b621-31b5-565b-a68e-a61d47a9d39a.html"
 type: article
-quality: 29
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Kenosha News
+  domain: kenoshanews.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/kenoshanews.com/content/tncms/assets/v3/editorial/c/a5/ca55b621-31b5-565b-a68e-a61d47a9d39a/647669627cf8b.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "OpenAI execs warn of “risk of extinction” from artificial intelligence in new open letter"
@@ -445,6 +452,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Tech leaders issue dire \"extinction\" risk warning over AI"
+    excerpt: "We got an alarming warning this week about artificial intelligence from some of the world's top minds on the matter, explains Dr. Manjeet Rege, chair of the department of software engineering and data science at the University of St."
+    publishedDateTime: 2023-06-01T21:50:00Z
+    webUrl: "https://www.cbsnews.com/minnesota/video/tech-leaders-issue-dire-extinction-risk-warning-over-ai/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/01/8917377a-ae18-4434-be80-f6b4fc308536/thumbnail/1200x630/b78a61166ed28cb57e3005078cbb23b7/c95574ccc46cab15c6d6f35ce3e1976f.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Eminent AI experts and corporate heads caution about the probability of ‘extinction risk’"
     excerpt: "Renowned figures in the technology industry, including the leaders of OpenAI and Google Deepmind, have issued a warning about the potential dangers associated"
     publishedDateTime: 2023-05-30T14:37:00Z
@@ -546,6 +567,6 @@ related:
       domain: texasstandard.org
     quality: 0
 
-secured: "K8epMsfG787Kp0RFVkWMPUke6qiJXrvMBho5r8OLY7MdQttyFJOooW6aCSgnK8A4+UEHTRNWPxhGNlJcGL32nDDkL+ycnyNlAQsxYGL4Jcu+HYJLNn9SXUhGks5FMEKxX/bzhnaLILI3sW83h20M0yy8r4Afof9maw/3KTqiEsZ8xX8twHamuA/M4hLcp01jTsb3/mDsCGjPBAkJtPFxSKKsfcD3NQZ/v2ENfO8cld0YbYGKeyrzBG11TLIURGqa1uvN+soEBTeg6BRn9i6B39jj8YpckrHe+L32q3Q6orZkyNz/T3Wj/zB8tU396E+DnsAkgiV9pjh9bN58qavkjboCNoavanQmpjbDxNoMk03sHSDcGVKl0gvij8tgQlfZrpxonbC6kMVAXXGpQ1jFa9FxN65dy2biwrvoNECObvBL7SUZGBClbM3AXvpltHFdC8LRrpn1UPpUNum2BmS4ZYCN61BzStizJi6BFTDFShuHHLF4IAVzGIj4pi1wqWeZ34ZxqiRFMO1E9Y0K/2sAMg==;I4GcS8qBvIvijT5wEWl2Pw=="
+secured: "PVgiUFLPOL54/92OHOSUwCuHkrjxtSHK32UBuu6ryyWqqME/pObL2aFhjW4we2BGcrWPCY1LyCcucbCsqnezA2AYKZgrcXut0btyeYsTOnx/i5Q3OTwv51SdYlr/5QfkBWajEEypiVY/2obzc72Q8WlwGTqm6a89T5OLX/E2LEsgqITfkEc7QZEyRL6fw4Un+eCQCiTi1u5B3fDS4LixVVK8WAd0iR9XrwvoAV15S/gPfgLgwg3cP/wyPUrlWO4KhQz48LTjnG7KNXj1kBZ33Y+apKpVJXGVJBVqegPYjM5JbDa/G+eAN/1DfpNDLI68yX8kDiY0knmqlg6Encnon4/TVimn2uNJZzeNL2RFtd8=;ukF60/ze3z5sMl/30G0NUw=="
 ---
 

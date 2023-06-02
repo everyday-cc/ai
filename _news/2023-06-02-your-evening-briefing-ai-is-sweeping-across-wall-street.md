@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Wall Street is using AI to rewire the world of finance"
+    excerpt: "Morgan Stanley says its bankers are “experimenting” in a “safe and contained environment.” Meanwhile, JPMorgan Chase is hoovering up talent, advertising for more AI roles than any of its rivals. The AI revolution is unfolding on Wall Street as wider interest grows in the evolving technology and its likely impact on business."
+    publishedDateTime: 2023-06-01T20:02:00Z
+    webUrl: "https://www.crainsnewyork.com/technology/ai-finance-wall-street-banks-roll-out-new-tools-chatgpt-era"
+    type: article
+    provider:
+      name: Crain's New York
+      domain: crainsnewyork.com
+    quality: 56
+    images:
+      - url: "https://s3-prod.crainsnewyork.com/styles/1200x630/s3/aiwallstreet.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "sCTkwblPABX8wi8A4xYVY/4oRVz296yotuL69skfj/1BgCt8MqLxW3b8KChvZjOfGl1EcWy5ftjjONjVX2m3dr2lEFEjxvlqyvNjYBY1l5t2bYQN/x073mxEhG0+LNGisriXXgPUyGv1LNcK3oFJ0BbJciKUpXE5+EbBAwy6hZ3mPO1WZCMLliRJ/s9OKAQKvoJJpRYFD+Pn9EM5qQpegV/hjI0+YGLVF3tyLXMBOTKAnsPVZqLgUTTeT044hWvy6WhOGTjsO7zb7m251Ps4uVy+2YDjZDjGH+dyxuPg9q4zNOOlIeKJT/UkgovgKDvJIPowG0fvwiSmTmpxqKme3sDszr2x899rL+GZEcYMFdI=;GugeV2Zu4F7HGvLjI1IdOQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ginnywhitelaw/2023/06/01/what-ai-cant-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ginnywhitelaw/2023/06/01/what-ai-cant-do-and-what-great-leaders-will-do/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.staradvertiser.com/wp-content/uploads/2023/06/web1_13859247-13f3b5a518ca4bafaefc4d7ce03ff410.jpg"
         width: 760
         height: 507
-        isCached: true
-  - title: "Workers Are Terrified About AI. What Can They Do About It?"
-    excerpt: "The Writers Guild of America has its work cut out in the latest struggle against the perennial problem of automation."
-    publishedDateTime: 2023-05-28T07:06:00Z
-    webUrl: "https://www.thedailybeast.com/workers-are-terrified-about-ai-so-what-can-they-do-about-it"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1685122034/230526-dangers-ai-hero-final_tamrkn"
-        width: 1480
-        height: 833
         isCached: true
   - title: "Regulators take aim at AI to protect consumers and workers"
     excerpt: "The nation’s financial watchdog says it’s working to ensure companies follow the law when using artificial intelligence as concerns grow over increasingly powerful AI systems like ChatGPT."

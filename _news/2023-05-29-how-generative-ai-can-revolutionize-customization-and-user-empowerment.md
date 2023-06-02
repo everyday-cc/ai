@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-cus
 webUrl: "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/"
 type: article
 quality: 67
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230529pd207_files/2_b.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Jacobs and Palantir Expand Partnership to ‘Revolutionize’ AI Solutions Across Industries"
+    excerpt: "The partnership aims to harness Palantir's cutting-edge AI capabilities and revolutionize the commercialization of AI solutions across a range of sectors—including critical infrastructure, advanced facilities,"
+    publishedDateTime: 2023-06-01T22:23:00Z
+    webUrl: "https://dallasinnovates.com/jacobs-and-palantir-expand-partnership-to-revolutionize-ai-solutions-across-industries/"
+    type: article
+    provider:
+      name: Dallas Innovates
+      domain: dallasinnovates.com
+    quality: 30
+    images:
+      - url: "https://s24806.pcdn.co/wp-content/uploads/2023/06/Jacobs_Palantir2-iStock-970.jpg"
+        width: 970
+        height: 464
         isCached: true
 
 secured: "TdZSVxYLsxDbWWV4XYKUcDhaqbhlgs+sb2O+0azkDUyL+EgrG8+j/EE/XW1bCu6bwkXGyWA1tbb9/Zz1oJNqDf1XEMuGiaxXafm80ATnWTJiI60xKh7P7b5qVgcjN+SSVUaHHvxn/KcYyEZ8YKz1aOPhT1y39w6WkVht3Mzgj66jBSpLaxH9rEtLQ8NWKqCjS3JwbFBnOouyqsggBWcLm4xhm8ISd84cuU8Pre/Q6k+lpS8S4Yl9e3eVn8dV5xK1KYQWPw5m37U9RYBRt23hFLcGHvsGjpiomHpgM/m43LV5oA3+R7c+0RrmxhTDmggLsPmhoOfh8+rUqjTEWslAznl32YrrgQ9r1F21q2uYtfwT+EaMkoT2cx8Q6yphYzG/4XkiFMc4W4zFAGvNAeeCT5WDnoidrvzDd+H423msMSYFjElKtPWhIvaDxiA02O0Dq3FCRnqOLD82YPWSObRjw+0HZWIQ9nT298mxe9BsyOYks3V2cRZasgZhTQZwqeZOWb+YPHE+dR3nHcZR0qqxkw==;sQaedvTxShMgEbUYzBPlYQ=="

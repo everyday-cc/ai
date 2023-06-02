@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Amazon to pay $31 million in privacy violation penalties for Alexa voice assistant and Ring camera"
-excerpt: "Amazon has agreed to pay a $25 million civil penalty to settle Federal Trade Commission allegations it violated a child privacy law and deceived parents by keeping for years kids’ voice and location data recorded by its Alexa voice assistant."
-publishedDateTime: 2023-06-01T18:51:00Z
-originalUrl: "https://www.clickondetroit.com/business/2023/05/31/ftc-charges-amazon-with-privacy-violations-over-alexa-and-ring-cameras/"
-webUrl: "https://www.clickondetroit.com/business/2023/05/31/ftc-charges-amazon-with-privacy-violations-over-alexa-and-ring-cameras/"
+excerpt: "Amazon said last month that it sold more than a half-billion Alexa-enabled devices globally and use of the service increased 35% last year."
+publishedDateTime: 2023-06-01T17:45:00Z
+originalUrl: "https://tulsaworld.com/news/nation-world/business/amazon-to-pay-31-million-in-privacy-violation-penalties-for-alexa-voice-assistant-and-ring/article_91e73e73-d2cd-5ff4-91a6-62f65e046f20.html"
+webUrl: "https://tulsaworld.com/news/nation-world/business/amazon-to-pay-31-million-in-privacy-violation-penalties-for-alexa-voice-assistant-and-ring/article_91e73e73-d2cd-5ff4-91a6-62f65e046f20.html"
 type: article
-quality: 0
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: clickondetroit.com
-  domain: clickondetroit.com
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/9/1e/91e73e73-d2cd-5ff4-91a6-62f65e046f20/6478cbbf7da09.preview.jpg?crop=1721%2C904%2C8%2C160&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Amazon fined $25M fine for violating child privacy with Alexa voice assistant"
@@ -81,6 +87,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Amazon to pay $31 million in privacy violation penalties for Alexa voice assistant and Ring camera (copy)"
+    excerpt: "Amazon said last month that it sold more than a half-billion Alexa-enabled devices globally and use of the service increased 35% last year."
+    publishedDateTime: 2023-06-01T17:45:00Z
+    webUrl: "https://cumberlink.com/business/technology/amazon-to-pay-31-million-in-privacy-violation-penalties-for-alexa-voice-assistant-and-ring/article_0505659e-00c5-11ee-8848-53f57ef4a334.html"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: cumberlink.com
+    quality: 7
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/cumberlink.com/content/tncms/assets/v3/editorial/0/50/0505659e-00c5-11ee-8848-53f57ef4a334/6478cbb026134.preview.jpg?crop=1721%2C904%2C8%2C160&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "FTC and Amazon negotiate $25 million fine over violations of child privacy involving Alexa voice assistant"
     excerpt: "Amazon kept the kids’ data to refine its voice recognition algorithm, the artificial intelligence behind Alexa, which powers Echo and other smart speakers, Bedoya said. The FTC complaint sends a message to all tech companies who are “sprinting to do ..."
     publishedDateTime: 2023-06-01T14:21:00Z
@@ -114,6 +134,6 @@ related:
       domain: niagara-gazette.com
     quality: 0
 
-secured: "jiJlr8xGqTWTvCKxQPzmP6CB/Nt0FJ0O8i7+q7VOl8OnRarl+MEjdIjOLrRljRBx0W+F7Ot/sVgyRclZfPTJDC0+6N7B4mBCT3Jvqaz4sCAanD1Lo2eQ5JSjd36P71wBj3Q9ohl7sfTi1LjiHZMc0UXGodevY75RDIl/bp+ZeIWWGBxHwowa/lMBptRjbuItODAk64nEGSbg1OVfQTQC7bDA30omZ17XWS2K9LlsE4O1lzDQOEe8ej0rZy20Zm5f7NvQ5xB4XWp0jYWrFDCt2vmiNd1Aw5YBFTWonZZhPkFRSKxvtsTarlGdbz+Jdh/VCaqTLM+771rkj/eTsEWQ3fFi68PgYTU2bt9XDLxpzi+uqi9+Y+cWhHWGJ0Scy653nLE2ofDzYKMhHqj+dwgSX+0TdvuTwOedN542ItLnnBO4RbbR76hkJ7j4wBtsXz0iHC/vKRKgfE86lZMsPpqGEdKeCnBYzzxeVdZeYitEPuIWrZawBGx5WyiNRs+EsxJ0AeiXnVMBoiEoM7HLtMmDlw==;L3CDAV75Zc/LLfCplWP9GQ=="
+secured: "IDFngQ36ivZFZxy+CIghArQwS2iYBURxwFg30qa0ZN49ID8EXh4p4o+FN/N8D16qG8dxLqVm6WgBihHGmx29HC7yOkGaKlTiEYyvMRR5vYIBXo6ZYPDriAwU4N40pm5uCe0zAIFy30IDbK9e7hTRkjaWuoa59HMCSGGQ4StCXaHy1LtwUHi23aQHprq8KViF+CDMEPPEKE+Wtp56Xu2Yt4JhaCXESrqEaUTwjlelPEgqyfpWLQerwe7hSMPoHIYMLFPmg+Gf2sV6JUp2PwiYBZQ6TmNl+I3hEJcLuZDhbnIoJFzgS2uY1JWXMRyd7ZzsMdJrOjnFCLDqHjwPWG6vPdyLVvzxE5XhytIJR/h8KSo=;6Tzw553l8dGKQjfPU1Xh0w=="
 ---
 

@@ -107,6 +107,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Jacobs and Palantir Expand Partnership to ‘Revolutionize’ AI Solutions Across Industries"
+    excerpt: "The partnership aims to harness Palantir's cutting-edge AI capabilities and revolutionize the commercialization of AI solutions across a range of sectors—including critical infrastructure, advanced facilities,"
+    publishedDateTime: 2023-06-01T22:23:00Z
+    webUrl: "https://dallasinnovates.com/jacobs-and-palantir-expand-partnership-to-revolutionize-ai-solutions-across-industries/"
+    type: article
+    provider:
+      name: Dallas Innovates
+      domain: dallasinnovates.com
+    quality: 30
+    images:
+      - url: "https://s24806.pcdn.co/wp-content/uploads/2023/06/Jacobs_Palantir2-iStock-970.jpg"
+        width: 970
+        height: 464
+        isCached: true
 
 secured: "8hAwYwFqnJKVNbVBYX564akZJSG0WmOqBzsodJHqod3g9TEjEhVLKKpQTh2HaoIMuf3ygTmesq+TxUoyV3nCoN298HcLafH+Wr1j3g2v0A06KiqOufi8Yj6jBhE5brQuIq3GMbGcp8qtP9dbgIsSSw5H2uh7o6mWajETr2OY59vUjhDXqhsiI7Eh8npmOPwj0faXRJZ/rRwAxGfTTLuTK6n2f/41RxYnRtPWqadrCh4JB9N/voZa+9Hcql+vBUfwJnNk0sEhNPxRvX2860uSTTFeWHBcHE+AMp4wSpuOAh6PBEUMpEcRKDTjI99nzBgusVxx7tfg09EyHJ2c7qmY1Oh+v+hkDawgMNLAC8jwhI0=;YS0ILf11eLXrTNRLjlx2Mg=="
 ---

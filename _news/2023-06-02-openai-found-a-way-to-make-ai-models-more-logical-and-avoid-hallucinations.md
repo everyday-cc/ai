@@ -331,6 +331,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
+    excerpt: "Leading scientists and tech industry leaders are warning about the perils artificial intelligence poses to humankind, saying “mitigating the risk of extinction from AI should be a global priority.”"
+    publishedDateTime: 2023-05-31T07:49:00Z
+    webUrl: "https://kenoshanews.com/news/artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning/article_ca55b621-31b5-565b-a68e-a61d47a9d39a.html"
+    type: article
+    provider:
+      name: Kenosha News
+      domain: kenoshanews.com
+    quality: 51
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/kenoshanews.com/content/tncms/assets/v3/editorial/c/a5/ca55b621-31b5-565b-a68e-a61d47a9d39a/647669627cf8b.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Top AI CEOs, experts raise 'risk of extinction' from AI"
     excerpt: "AI pioneer Hinton earlier told Reuters that AI could pose a ... Technologycategory China, South Korea agree to strengthen talks on chip industry, Chinese commerce ministry says May 27, 2023 Technologycategory China urges Japan to halt export restrictions ..."
     publishedDateTime: 2023-05-30T13:10:00Z
@@ -441,6 +455,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Tech leaders issue dire \"extinction\" risk warning over AI"
+    excerpt: "We got an alarming warning this week about artificial intelligence from some of the world's top minds on the matter, explains Dr. Manjeet Rege, chair of the department of software engineering and data science at the University of St."
+    publishedDateTime: 2023-06-01T21:50:00Z
+    webUrl: "https://www.cbsnews.com/minnesota/video/tech-leaders-issue-dire-extinction-risk-warning-over-ai/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/01/8917377a-ae18-4434-be80-f6b4fc308536/thumbnail/1200x630/b78a61166ed28cb57e3005078cbb23b7/c95574ccc46cab15c6d6f35ce3e1976f.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Eminent AI experts and corporate heads caution about the probability of ‘extinction risk’"
     excerpt: "Renowned figures in the technology industry, including the leaders of OpenAI and Google Deepmind, have issued a warning about the potential dangers associated"
     publishedDateTime: 2023-05-30T14:37:00Z
@@ -455,15 +483,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-    excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
-    publishedDateTime: 2023-05-31T12:32:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692490"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 29
   - title: "Prominent AI Figures Issue Warning On The Global Priority Of Addressing AI's Existential Threat"
     excerpt: "A group of renowned AI researchers, engineers, and CEOs has jointly expressed concerns over the potential existential threat posed by artificial intelligence (AI) to humanity. The San Francisco-based non-profit,"
     publishedDateTime: 2023-05-30T12:44:00Z
@@ -551,6 +570,6 @@ related:
       domain: texasstandard.org
     quality: 0
 
-secured: "fXAYgWq/65RQR5RzA2LZJF8zbFT64fXhoS+M6d/NPyUN00zdKzmWehtxse94mRaQQ+dcyROjf5fQx18quXRvBKKmxkJlPQLeWQKKOrhsAK+MqKiqfCyrzokxb6x+EkaWEUrTk5cJ/1acb42XW3tJ4/wnboLGj7ueUOfkag1WWmXksrENs6d8+I8U4tX9VxK6MgdKbq8Ew0D1IsV1S53k2a9uT9J41zCxB4D//NntMX1/Uscx2C8AZ85epIFClqYZmKaC18ZOE7BgMpop1vApeEaXZH7S53WKvw3ODT6qzurSZJzywyxS22Qi8kiw/UrIr298kxZ7l4bHHOnlPuzRhK6Ps7mudTqECrgcgAdtx6s=;nq2cVsjaEL/1Rkcc0oVqTg=="
+secured: "r8IvucDc8Xp7tf8Kvub4NuxlRR11xoNrH/Wmj3NR1l8eJ0w3s8vkvB0+ovuxN3iyz55LSjSSF7nePFkZ6a7C5KyLDaICAOJ1sCw7vZmAkNQy6vulRG7xW9IEqwypfCRNaG9yPGyFcleXpxniXwIPZe+aziRgUM49LwfDzCyB6PDrsb0HphLmhQZyCkMmkMxT/m9qOeMrG2YqkZazovgsj+n93AsRoPbHcfVsAS3NAPbbcF1gXiq1F7qDsuf/Tb1nBh6yaaNrc21wAQmYIHYACdMuUThmhtgS8QG3/BcYImW+zrAVfziC3wZ9k9ovw5l3dazJsRJRF1q6LONNAElbr/a2gkjTCW++Uu0wFlHJ7F9j/REEK/sUZEqJp6zs+N8+GtHPkLqoR+BXXq1fD25hQyjiNcqcSLB3zfyr9N7rR6Qrlt9ByC0ay13+2elO3lm0sEsLM77dJSsKfxJY0vwpDHic8cV+zNgFdfVuxAIjwNjB9d6rnjiUhvDJUSTgJ8yBGq1QOtIYgwTtwwLCOuhASw==;XxaM97Fp4L4Bi7fbYn2xvA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3698288/cisco-aims-for-ai-first
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3698288/cisco-aims-for-ai-first-security-with-armorblox-buy.amp.html"
 type: article
 quality: 76
-heat: 86
+heat: 87
 published: true
 
 provider:

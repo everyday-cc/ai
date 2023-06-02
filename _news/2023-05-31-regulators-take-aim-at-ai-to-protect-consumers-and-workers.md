@@ -56,20 +56,6 @@ related:
         width: 760
         height: 507
         isCached: true
-  - title: "Workers Are Terrified About AI. What Can They Do About It?"
-    excerpt: "The Writers Guild of America has its work cut out in the latest struggle against the perennial problem of automation."
-    publishedDateTime: 2023-05-28T07:06:00Z
-    webUrl: "https://www.thedailybeast.com/workers-are-terrified-about-ai-so-what-can-they-do-about-it"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1685122034/230526-dangers-ai-hero-final_tamrkn"
-        width: 1480
-        height: 833
-        isCached: true
 
 secured: "MB1CrSRNkVS234XRn+VssNhViC3ygD21wqwhhMJ7AsBIJL+by9JyS5CcOlal8DO+tqIgkd6yYW0uJS+xkkdf0fNFAWuzMpPA5rtyJYqYhk0UXb1RDspS38abibSpcuTGqzHYdnu6owY+seMkyAz/Qe5K0gFGR4WCWDuqaiFL6mSR6OebbRZRHoZnifAGNX3dU2NJ8OUNfJlNbH6H03h7MKx51P95FqXtD+BB63YZu/rQ6iV6szVN6CQZxoVlni50toZlB2kyMvNpvGmuHp/ggQusSV2LcODjc6m4VL0UP6/A7pKJpAOM1cglvbqZoVZmye/SC8DP4nDwVcz6WuhKcgzyqRmiHYgwUvN8AHbyqpE=;vdG3HNiVSGX3QH9F3D+MJw=="
 ---

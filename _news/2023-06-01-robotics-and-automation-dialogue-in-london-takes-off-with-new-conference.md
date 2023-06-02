@@ -44,14 +44,14 @@ related:
   - title: "AI dominates London Robot Show"
     excerpt: "A quick lesson in artificial intelligence from Ameca who uses OpenAI’s ChatGPT-3 to respond to any question you might have – and can respond in any language. The robot is"
     publishedDateTime: 2023-06-01T21:00:00Z
-    webUrl: "https://www.stltoday.com/news/ai-dominates-london-robot-show/video_f3c60698-28ff-545e-923c-7cade2415914.html"
+    webUrl: "https://omaha.com/news/ai-dominates-london-robot-show/video_de47f54a-26f8-5d7a-8fd3-9bd93e9e142f.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Omaha.com
+      domain: omaha.com
     quality: 54
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/3c/f3c60698-28ff-545e-923c-7cade2415914/6479080b6c093.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/e4/de47f54a-26f8-5d7a-8fd3-9bd93e9e142f/64790a5e7049a.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Workers Are Terrified About AI. What Can They Do About It?"
-    excerpt: "The Writers Guild of America has its work cut out in the latest struggle against the perennial problem of automation."
-    publishedDateTime: 2023-05-28T07:06:00Z
-    webUrl: "https://www.thedailybeast.com/workers-are-terrified-about-ai-so-what-can-they-do-about-it"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1685122034/230526-dangers-ai-hero-final_tamrkn"
-        width: 1480
-        height: 833
-        isCached: true
   - title: "Regulators take aim at AI to protect consumers and workers"
     excerpt: "The nation’s financial watchdog says it’s working to ensure companies follow the law when using artificial intelligence as concerns grow over increasingly powerful AI systems like ChatGPT."
     publishedDateTime: 2023-05-30T20:03:00Z
@@ -72,6 +58,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ZrdrUfvdhM43pCHT0wME7svY3VXEv+swrdac7bsy2l+r+krMgtKkcJ6kwn1ympJq18xMKbMv8hERqLD/KBLfTVvA8hFnoiwaCU01/TfV0sYGytuLPULtzqHDLflC9Vyy3yM193uBv5kdpTDQtUuEesynxBSJ3FWw3r/EiVOVK98kVz5rpCQC3m0+eDbWC4Ok58/4i7EUn/oaBScLCFlr7kAYnSHfXcJlVUEqQWBI18HepAjM0Nxusj9wHq3E8Bu/r7J3wmCkZM3pW5P/28nK2Vv2ZcIw+2CLfFaL0bRmTAtmLGgMv1d/4dpnRpwrhmshB3HCmeWxduE1okT336wv5VfdqMpICBmrPk2aku0SxsQ=;UIo0xFu7AVFZuhZmFGV2jg=="
+secured: "lxYWqdo33fJTnzQ1zncgY5bxFeON7By8OOJEbtgk59Xx9H53n9XFr8JMGKgcjgcBYAAQ6NmtA1KQnHjrHcUuT7tqED6decHDS6+b/wLmYDTe4iSkMQu1iHQxX37PMcAH5R1gjACK+L/igqW1hr9v23Hj1pHCyb3XIhbx4kzXKeuDsOs621se0q5ZA/aIZd+IHJOSsf9dZrOyPvJGb9jl8meZiKjmyJy18+dO9dKfpwflI1mlhq7lkGJAJXgXKApJBHXoq5MOSU2c1t/09pFRxz7vGWC7rlwr54G/K1TGQmuzgWNy+fLmzbYB6zH3K9ug3mBpsLn6sixUy9CeM+5CSxWWd+5+/FkPd/qEMY1v5NWjxHdrISgHiVswi/UjiyePp+1jLxYImITJ47xABwMBhe/9f8zZY4u6PfOkAUWl1SHVLFzSXmS+CjJUleiPVH0njMxtWTgAR12HiGtoiX28MsXSIlH+mibuXyBY9Lzmpe9fArb0LcCwt/odG4yvXsQ/KeOi3BW3zH4wdV15m+vHxw==;PzyMpg0Q9UJxukKzvdt6wQ=="
 ---
 
