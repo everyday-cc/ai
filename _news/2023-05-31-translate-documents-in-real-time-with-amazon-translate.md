@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/translate-documents-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/translate-documents-in-real-time-with-amazon-translate/"
 type: article
 quality: 106
-heat: 107
+heat: 106
 published: true
 
 provider:

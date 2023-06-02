@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ginnywhitelaw/2023/06/01/what-ai-cant-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ginnywhitelaw/2023/06/01/what-ai-cant-do-and-what-great-leaders-will-do/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:

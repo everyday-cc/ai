@@ -290,6 +290,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-31-taiwans-foxconn-predicts-huge-growth-in-ai-server-business.md",
+      "title": "Taiwan's Foxconn Predicts Huge Growth In AI Server Business",
+      "excerpt": "Taiwanese tech giant and key Apple supplier Foxconn predicts three-digit growth for its artificial intelligence server business due to robust demand for AI products such as ChatGPT, its chairman said Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740?refsec=topics_afp-news",
+      "originalUrl": "https://www.barrons.com/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740?refsec=topics_afp-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP6595984239764979366134169632271358072436---1.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740",
+      "publishedDateTime": "2023-05-31T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-cloud-computing-firm-coreweave-raises-another-200-mln-amid-ai-boom.md",
       "title": "Cloud computing firm CoreWeave raises another $200 mln amid AI boom",
       "excerpt": "Specialized cloud computing provider CoreWeave has raised $200 million in funding from its existing investor Magnetar Capital, highlighting investor interest in backing infrastructure powering the generative AI boom.",
@@ -1266,6 +1309,40 @@
       ]
     },
     {
+      "path": "_news/2023-05-28-traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom.md",
+      "title": "Traditional Chip Makers Struggle as GPU Manufacturers Thrive in AI Boom",
+      "excerpt": "Intel’s struggles raise concerns about competitiveness in AI space, while GPU manufacturers like Nvidia and Marvell reap rewards amid stock declines. The surging demand for AI has brought the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fxempire.com/news/article/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom-1349749",
+      "originalUrl": "https://www.fxempire.com/news/article/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom-1349749",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.fxempire.com/en/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom/1349749",
+      "cdnAmpWebUrl": "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom/1349749",
+      "publishedDateTime": "2023-05-27T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FXEmpire.com",
+        "domain": "fxempire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-28-ai-ml-data-news-roundup-generative-fill-copilot-aria-and-brain-chips.md",
       "title": "AI, ML & Data News Roundup: Generative Fill, Copilot, Aria, and Brain Chips",
       "excerpt": "The most recent update, covering the week starting May 22nd, 2023, encompasses the latest progress and declarations in the fields of data science, machine learning, and artificial intelligence. This week,",
@@ -1313,10 +1390,10 @@
     {
       "path": "_news/2023-05-27-traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom.md",
       "title": "Traditional Chip Makers Struggle as GPU Manufacturers Thrive in AI Boom",
-      "excerpt": "Intel’s struggles raise concerns about competitiveness in AI space, while GPU manufacturers like Nvidia and Marvell reap rewards amid stock declines. The surging demand for AI has brought the ...",
+      "excerpt": "The surging demand for AI has brought the stock market’s recent performance into focus, revealing the diverging paths of traditional chip makers and GPU manufacturers and highlighting the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.fxempire.com/news/article/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom-1349749",
-      "originalUrl": "https://www.fxempire.com/news/article/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom-1349749",
+      "webUrl": "https://www.nasdaq.com/articles/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom",
+      "originalUrl": "https://www.nasdaq.com/articles/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1324,13 +1401,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.fxempire.com/en/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom/1349749",
-      "cdnAmpWebUrl": "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom/1349749",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-05-27T09:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FXEmpire.com",
-        "domain": "fxempire.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1377,111 +1454,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position.md",
-      "title": "How ChatGPT Is Reshaping The C-Suite, With New AI Leadership Position",
-      "excerpt": "A stunning forecast from the chipmaker - whose silicon solutions are powering the future with artificial intelligence (AI) chips - pushed the company’s stock up 24%. The company forecast revenue that was 50% higher than estimates, according to Reuters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/",
-      "originalUrl": "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 331,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6470b943b202b5301a9d86b2/0x0.jpg?format=jpg&crop=3250,1523,x0,y6,safe&width=1200",
-          "width": 1200,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2023/05/26/how-chatgpt-is-reshaping-the-c-suite-with-new-ai-leadership-position/amp/",
-      "publishedDateTime": "2023-05-26T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-marvell-technology-stock-jumps-as-chip-stocks-keep-rising.md",
-      "title": "Marvell Technology Stock Jumps as Chip Stocks Keep Rising",
-      "excerpt": "A day after optimism about the future for AI led shares of Nvidia higher, Marvell Technology stock is making its big move with chip stocks continuing to climb. The stock was recently up more than 27%,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-26-2023/card/marvell-technology-stock-jumps-as-chip-stocks-keep-rising-z6xLa5PPADAItygaUQPj",
-      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-05-26-2023/card/marvell-technology-stock-jumps-as-chip-stocks-keep-rising-z6xLa5PPADAItygaUQPj",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-789639?width=600",
-          "width": 600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

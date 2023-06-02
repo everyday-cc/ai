@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-cus
 webUrl: "https://venturebeat.com/ai/how-generative-ai-can-revolutionize-customization-and-user-empowerment/"
 type: article
 quality: 67
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/05/image1-8.png?w=1200&strip=all"
         width: 1045
         height: 598
+        isCached: true
+  - title: "ApexOne.AI Revolutionizes Business Operations with Advanced Artificial Intelligence Solutions"
+    excerpt: "ApexOne.AI, a leading provider of cutting-edge artificial intelligence (AI) solutions, announces the launch of their groundbreaking platform designed to transform business operations and drive unprece"
+    publishedDateTime: 2023-06-02T01:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/ab32684334/apexone-ai-revolutionizes-business-operations-with-advanced-artificial-intelligence-solutions"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32684334"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32684334"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 63
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "JazzUp AI Revolutionizes Multiple Industries with Customized Artificial Intelligence Solutions"
     excerpt: "In a remarkable stride towards empowering industries through artificial intelligence (AI), JazzUp AI today unveiled its comprehensive suite of AI solutions. JazzUp AI's innovative productivity solutio"

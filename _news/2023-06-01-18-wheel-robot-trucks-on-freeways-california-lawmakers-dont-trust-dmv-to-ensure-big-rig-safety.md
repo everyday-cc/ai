@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-01T15:00:00Z
 originalUrl: "https://www.aol.com/news/18-wheel-robot-trucks-freeways-120029323.html"
 webUrl: "https://www.aol.com/news/18-wheel-robot-trucks-freeways-120029323.html"
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"

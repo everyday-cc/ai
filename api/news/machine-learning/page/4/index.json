@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-04-deep-learning-enables-intuitive-prosthetic-control.md",
+      "title": "Deep Learning Enables Intuitive Prosthetic Control",
+      "excerpt": "However, researchers have worked to simplify this task, by capturing nerve signals and allowing deep learning routines to figure the rest out. The prosthetic arm under test actually carries a ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2021/05/27/deep-learning-enables-intuitive-prosthetic-control/",
+      "originalUrl": "https://hackaday.com/2021/05/27/deep-learning-enables-intuitive-prosthetic-control/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2021/05/cudarm.jpg",
+          "width": 800,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-nippon-life-selects-h2oai-to-transform-its-insurance-business-with-machine-learning-and-improve-customer-health.md",
       "title": "Nippon Life Selects H2O.ai to Transform Its Insurance Business With Machine Learning and Improve Customer Health",
       "excerpt": "\"AI is transforming the trillion dollar healthcare insurance industry, both the businesses themselves and the care they facilitate,\" said Sri Ambati, CEO and founder of H2O.ai. \"By helping Nippon Life advance their AI initiatives and create better customer experiences,",
@@ -1305,49 +1348,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-27-a-versatile-deep-learning-model-for-accurate-prediction-of-plant-growth.md",
-      "title": "A versatile deep-learning model for accurate prediction of plant growth",
-      "excerpt": "To overcome this limitation, researchers from Korea led by Professor Jung Eok Son from Seoul National University have created a novel deep-learning based crop model known as “DeepCrop”, for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/987092",
-      "originalUrl": "https://www.eurekalert.org/news-releases/987092",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fa66d95e-03d1-4a32-a4d4-df30ecb190da/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 346,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-27T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

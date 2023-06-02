@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-powered-drone-tried-killing-its-o
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-powered-drone-tried-killing-its-operator-in-military-simulation-2023-6?amp"
 type: article
 quality: 84
-heat: 114
+heat: 116
 published: true
 
 provider:

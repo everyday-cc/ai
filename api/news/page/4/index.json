@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-31-artificial-intelligence-why-auto-companies-are-redesigning-cars-and-suppliers.md",
+      "title": "Artificial Intelligence: Why Auto Companies Are Redesigning Cars And Suppliers",
+      "excerpt": "Automotive companies aren't just changing applications to include AI. They're changing architectures, ecosystems and suppliers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevetengler/2023/05/31/artificial-intelligence-why-auto-companies-are-redesigning-cars-and-suppliers/",
+      "originalUrl": "https://www.forbes.com/sites/stevetengler/2023/05/31/artificial-intelligence-why-auto-companies-are-redesigning-cars-and-suppliers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/645272f4a40f8ee7ada63a42/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevetengler/2023/05/31/artificial-intelligence-why-auto-companies-are-redesigning-cars-and-suppliers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2023/05/31/artificial-intelligence-why-auto-companies-are-redesigning-cars-and-suppliers/amp/",
+      "publishedDateTime": "2023-05-31T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-game-on-emirates-group-and-aws-team-up-to-craft-an-immersive-digital-world.md",
+      "title": "Game On! Emirates Group and AWS team up to craft an immersive digital world",
+      "excerpt": "The Emirates Group is embarking on a futuristic, immersive digital journey to transform its employee experiences – a first for the industry – by collabo",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/game-emirates-group-and-aws-team-craft-immersive-digital-world-1520998",
+      "originalUrl": "https://www.albawaba.com/business/pr/game-emirates-group-and-aws-team-craft-immersive-digital-world-1520998",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2023-05/ixr4.jpg?itok=gIOz0nbP",
+          "width": 6678,
+          "height": 5344,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/game-emirates-group-and-aws-team-craft-immersive-digital-world-1520998",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/game-emirates-group-and-aws-team-craft-immersive-digital-world-1520998",
+      "publishedDateTime": "2023-05-31T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-chinese-leader-xi-jinping-warns-of-ai-risks-to-national-security.md",
       "title": "Chinese Leader Xi Jinping Warns of AI Risks to National Security",
       "excerpt": "A meeting headed by party leader and President Xi Jinping on Tuesday urged “dedicated efforts to safeguard political security and improve the security governance of internet data and artificial intelligence,",
@@ -386,49 +481,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-ai-powered-humanoid-works-the-crowd-at-tech-show.md",
-      "title": "AI-powered humanoid works the crowd at tech show",
-      "excerpt": "Will Jackson, director of Engineered Arts, the British company that created Ameca, said his company’s robots are designed for tasks that involve interacting with humans, such as helping",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-the-crowd-at-tech-show/",
-      "originalUrl": "https://www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-the-crowd-at-tech-show/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bostonherald.com/wp-content/uploads/2023/05/AP23150442054195.jpg?w=1024&h=683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-the-crowd-at-tech-show/amp/",
-      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-the-crowd-at-tech-show/amp/",
-      "publishedDateTime": "2023-05-30T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston Herald",
-        "domain": "bostonherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -1163,57 +1215,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-how-automation-bias-plus-artificial-intelligence-can-lead-to-medical-misdiagnoses.md",
-      "title": "How ‘Automation Bias’ Plus Artificial Intelligence Can Lead To Medical Misdiagnoses",
-      "excerpt": "The machine does not always know where it’s going! Automation bias is when humans trust the results of a machine, even over the evidence of their senses and knowledge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/paulhsieh/2023/05/30/how-automation-bias-plus-artificial-intelligence-can-lead-to-medical-misdiagnoses/",
-      "originalUrl": "https://www.forbes.com/sites/paulhsieh/2023/05/30/how-automation-bias-plus-artificial-intelligence-can-lead-to-medical-misdiagnoses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647622e2daa10678ac569955/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paulhsieh/2023/05/30/how-automation-bias-plus-artificial-intelligence-can-lead-to-medical-misdiagnoses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/05/30/how-automation-bias-plus-artificial-intelligence-can-lead-to-medical-misdiagnoses/amp/",
-      "publishedDateTime": "2023-05-30T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

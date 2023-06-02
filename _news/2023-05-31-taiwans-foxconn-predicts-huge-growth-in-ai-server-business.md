@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/news/taiwan-s-foxconn-predicts-huge-grow
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Barron's
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Taiwan semiconductor supply chain gearing up for high-end AI GPU boom"
+    excerpt: "Taiwan's semiconductor supply chain has \"fine-tuned\" production plans for a major artificial intelligence (AI) chip client in order to satisfy demand in time, according to industry sources."
+    publishedDateTime: 2023-06-02T01:59:00Z
+    webUrl: "https://www.digitimes.com/news/a20230601PD212/ai-gpu-nvidia-tsmc.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230601pd212_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Foxconn forecasts its AI server business will double in second half of 2023"
     excerpt: "Foxconn forecasts its AI server business will at least double in the second half of this year, making the world’s biggest contract electronics manufacturer — best known for making the iPhone — the latest beneficiary of the rapid rise of generative artificial intelligence systems such as ChatGPT."
     publishedDateTime: 2023-05-31T06:25:00Z

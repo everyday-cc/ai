@@ -2,6 +2,134 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-05-24-understanding-the-deployment-of-deep-learning-algorithms-on-embedded-platforms.md",
+      "title": "Understanding the Deployment of Deep Learning algorithms on Embedded Platforms",
+      "excerpt": "These platforms, equipped with deep learning algorithms, have opened a world of possibilities, enabling smart devices, autonomous systems, and intelligent applications. The deployment of deep learning algorithms on embedded platforms is crucial.",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/articles/54089/understanding-the-deployment-of-deep-learning-algorithms-on-embedded-platforms.html",
+      "originalUrl": "https://www.design-reuse.com/articles/54089/understanding-the-deployment-of-deep-learning-algorithms-on-embedded-platforms.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-it-services-firms-leverage-generative-ai-capabilities-for-clients.md",
+      "title": "IT services firms leverage generative AI capabilities for clients",
+      "excerpt": "Infosys Topaz leverages Infosys applied AI framework to build an AI-first core that empowers people to deliver cognitive solutions that accelerate value-creation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.html",
+      "originalUrl": "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/5/15/w600X390/Artificial_Intelligence.png",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2023/may/24/it-services-firms-leverage-generative-ai-capabilities-for-clients-2578094.amp",
+      "publishedDateTime": "2023-05-23T23:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-i-would-never-use-ai-americans-detail-how-much-they-use-artificial-intelligence-in-their-daily-lives.md",
+      "title": "'I would never use AI': Americans detail how much they use artificial intelligence in their daily lives",
+      "excerpt": "Texas residents share how familiar they are with artificial intelligence on a scale from one to 10 and detailed how much they use it each day.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives",
+      "originalUrl": "https://www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1233101-dd3e-4fa5-b48e-450d89af5c6d/fa4dd4b4-d455-47e2-8a43-a3f5c7da6add/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/never-use-ai-americans-detail-much-use-artificial-intelligence-daily-lives.amp",
+      "publishedDateTime": "2023-05-23T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-ai-startup-anthropic-raises-450m-for-safety-focused-chatbot.md",
       "title": "AI startup Anthropic raises $450M for safety-focused chatbot",
       "excerpt": "Anthropic, an artificial intelligence startup positioning itself as the builder of a safer kind of chatbot, said it raised $450 million in funding to bolster the development of its AI bot ...",
@@ -1028,152 +1156,6 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-machine-learning-has-potential-to-transform-oil-and-gas-industry-says-globaldata.md",
-      "title": "Machine Learning Has Potential to Transform Oil and Gas Industry, Says GlobalData",
-      "excerpt": "Machine learning has the potential to improve efficiency, increase production and reduce costs in the oil and gas industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/may-2023/machine-learning-transform-oil-gas-industry",
-      "originalUrl": "https://www.automation.com/en-us/articles/may-2023/machine-learning-transform-oil-gas-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/8033f7c8-5c9d-481c-bc16-e71d0aa4ef8f/Machine-learning-news-May-23-2023-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T09:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-anthropic-raises-450m-to-build-next-gen-ai-assistants.md",
-      "title": "Anthropic raises $450M to build next-gen AI assistants",
-      "excerpt": "Anthropic, the generative AI startup co-founded by OpenAI veterans, has raised $350 million in a funding round led by Spark Capital",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/23/anthropic-raises-350m-to-build-next-gen-ai-assistants/",
-      "originalUrl": "https://techcrunch.com/2023/05/23/anthropic-raises-350m-to-build-next-gen-ai-assistants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/anthropic-header.jpg?resize=1200,540",
-          "width": 1200,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/23/anthropic-raises-350m-to-build-next-gen-ai-assistants/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/23/anthropic-raises-350m-to-build-next-gen-ai-assistants/amp/",
-      "publishedDateTime": "2023-05-23T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-ai-optimism-how-embracing-artificial-intelligence-is-getting-workers-ahead.md",
-      "title": "AI optimism: How embracing artificial intelligence is getting workers ahead",
-      "excerpt": "The idea of AI in the workplace may be unnerving – yet far more workers are excited about the technology than it may seem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/worklife/article/20230522-ai-optimism-how-embracing-artificial-intelligence-is-getting-workers-ahead",
-      "originalUrl": "https://www.bbc.com/worklife/article/20230522-ai-optimism-how-embracing-artificial-intelligence-is-getting-workers-ahead",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ychef.files.bbci.co.uk/live/624x351/p0fprh8l.jpg",
-          "width": 624,
-          "height": 351,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

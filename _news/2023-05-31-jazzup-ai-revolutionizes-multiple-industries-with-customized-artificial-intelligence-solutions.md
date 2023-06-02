@@ -54,6 +54,22 @@ related:
         width: 1045
         height: 598
         isCached: true
+  - title: "ApexOne.AI Revolutionizes Business Operations with Advanced Artificial Intelligence Solutions"
+    excerpt: "ApexOne.AI, a leading provider of cutting-edge artificial intelligence (AI) solutions, announces the launch of their groundbreaking platform designed to transform business operations and drive unprece"
+    publishedDateTime: 2023-06-02T01:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/ab32684334/apexone-ai-revolutionizes-business-operations-with-advanced-artificial-intelligence-solutions"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32684334"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32684334"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 63
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "China isn’t waiting to set down rules on generative AI"
     excerpt: "The draft regulation released in April is part of a large game of tech industry whack-a-mole. China Report is MIT Technology Review’s newsletter about technology developments in China. Sign up to receive it in your inbox every Tuesday."
     publishedDateTime: 2023-05-31T10:00:00Z

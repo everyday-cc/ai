@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Traditional Chip Makers Struggle as GPU Manufacturers Thrive in AI Boom"
-excerpt: "Intel’s struggles raise concerns about competitiveness in AI space, while GPU manufacturers like Nvidia and Marvell reap rewards amid stock declines. The surging demand for AI has brought the ..."
+excerpt: "The surging demand for AI has brought the stock market’s recent performance into focus, revealing the diverging paths of traditional chip makers and GPU manufacturers and highlighting the ..."
 publishedDateTime: 2023-05-27T16:26:00Z
-originalUrl: "https://www.fxempire.com/news/article/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom-1349749"
-webUrl: "https://www.fxempire.com/news/article/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom-1349749"
-ampWebUrl: "https://amp.fxempire.com/en/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom/1349749"
-cdnAmpWebUrl: "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom/1349749"
+originalUrl: "https://www.nasdaq.com/articles/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom"
+webUrl: "https://www.nasdaq.com/articles/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom"
 type: article
 
 provider:
-  name: FXEmpire.com
-  domain: fxempire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "0My2Zfyyd4acItERRAe/UlWLj+VfPk2MTUUuQGr39HQkUrSQ8yeWQ+KckfukrKaeSOl6vaaQWWV4bkCBXK1+bel6uRj/ZU1pzJbn7zPWhd7JXDF2tTO44yr+Nh/pLQB5NyorWJA2IMkVaLv+AE9Kw7NJGc6VPp73WoconbC5WGgtQIJ7zclH0iB7HjtCu+tBXfG79YBU3Daz0yHY1oOpaNh0Ulb22OT2y1K3E6zAOnaASqZL9edu6cjEwi8qi/qzXFUgil369YTM+BByfhQP44hcYECJwUV5aZ/+7jeYPgruOJhdu/S0T0WjZ3t4srcI8LzzrvTRxOp92d/fCdQjDyGZeupjOfuE8GVZkRUgv/o=;VBUEEE7WxWlKn/2Sll2BoQ=="
+secured: "GRp1M2wTa+qQOUuF1Nw5wXdMA31xQjEROzeT3jPe/hdqUFPYBxoUGPTl/KlOBwVwlwRy+mp53Lh6xQdZuKgYmj4nBq46331rJzl8VdIfdpaKLZG3MPWhGYBGNV2LzefHbuBQwGJI+qN2xoK5BH1LOaIZcDVFEF1+28B6Fqw1VNcKj2EdRkf2/yF95ze0nsvB3qhDU38JBv1Bw8aqXc0tXS+mGADSso565oCusABW+PECJtJM8xtV3f8ovlURK/viEJmU4zD5Fj7py62gM13qo6n7xIh45IPI8vUkAg9axA8qVJi9jSitUgJenfq2EqaXSqX0T+qmK/xpofXkarHBgiIyMRCmodjDNZBvwzCqBe0=;eA30fcuozDiJFfsYNNJr0w=="
 ---
 

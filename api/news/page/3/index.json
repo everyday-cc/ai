@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-01-opinion-weve-reached-a-turning-point-with-ai-expert-says.md",
+      "title": "Opinion: We’ve reached a turning point with AI, expert says",
+      "excerpt": "Russell has called for rebuilding AI on a different foundation to ensure our control over the technology — but that ... There are a few other big areas of work in AI. There’s robotics, which is both how do you make a physical robot that can actually ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/05/31/opinions/artificial-intelligence-stuart-russell",
+      "originalUrl": "https://www.cnn.com/2023/05/31/opinions/artificial-intelligence-stuart-russell",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230525103431-20230525-perils-of-ai-power-on.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/31/opinions/artificial-intelligence-stuart-russell/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/31/opinions/artificial-intelligence-stuart-russell/index.html",
+      "publishedDateTime": "2023-05-31T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-the-importance-of-diversity-in-finance-ai-why-inclusive-data-and-representation-matter.md",
       "title": "The Importance Of Diversity In Finance AI: Why Inclusive Data And Representation Matter",
       "excerpt": "For all the promise AI offers, it also poses a risk of advancing societal iniquities if organizations don’t use it responsibly.",
@@ -506,7 +558,7 @@
       "originalUrl": "https://www.ibm.com/blog/preventive-maintenance-vs-predictive-maintenance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 82,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -985,6 +1037,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-31-taiwans-foxconn-predicts-huge-growth-in-ai-server-business.md",
+      "title": "Taiwan's Foxconn Predicts Huge Growth In AI Server Business",
+      "excerpt": "Taiwanese tech giant and key Apple supplier Foxconn predicts three-digit growth for its artificial intelligence server business due to robust demand for AI products such as ChatGPT, its chairman said Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740?refsec=topics_afp-news",
+      "originalUrl": "https://www.barrons.com/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740?refsec=topics_afp-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP6595984239764979366134169632271358072436---1.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740",
+      "publishedDateTime": "2023-05-31T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-hands-are-more-critical-for-robot-intelligence-than-ai-says-robotics-ceo.md",
       "title": "Hands are more critical for robot intelligence than AI, says robotics CEO",
       "excerpt": "In fact, they don't address the central problem of intelligence at all, which is how to understand the world around you, and then act on it. For Rose, and for the humanoid robots built and operated by Sanctuary AI,",
@@ -1129,101 +1224,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-artificial-intelligence-why-auto-companies-are-redesigning-cars-and-suppliers.md",
-      "title": "Artificial Intelligence: Why Auto Companies Are Redesigning Cars And Suppliers",
-      "excerpt": "Automotive companies aren't just changing applications to include AI. They're changing architectures, ecosystems and suppliers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevetengler/2023/05/31/artificial-intelligence-why-auto-companies-are-redesigning-cars-and-suppliers/",
-      "originalUrl": "https://www.forbes.com/sites/stevetengler/2023/05/31/artificial-intelligence-why-auto-companies-are-redesigning-cars-and-suppliers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645272f4a40f8ee7ada63a42/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevetengler/2023/05/31/artificial-intelligence-why-auto-companies-are-redesigning-cars-and-suppliers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2023/05/31/artificial-intelligence-why-auto-companies-are-redesigning-cars-and-suppliers/amp/",
-      "publishedDateTime": "2023-05-31T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-game-on-emirates-group-and-aws-team-up-to-craft-an-immersive-digital-world.md",
-      "title": "Game On! Emirates Group and AWS team up to craft an immersive digital world",
-      "excerpt": "The Emirates Group is embarking on a futuristic, immersive digital journey to transform its employee experiences – a first for the industry – by collabo",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/game-emirates-group-and-aws-team-craft-immersive-digital-world-1520998",
-      "originalUrl": "https://www.albawaba.com/business/pr/game-emirates-group-and-aws-team-craft-immersive-digital-world-1520998",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2023-05/ixr4.jpg?itok=gIOz0nbP",
-          "width": 6678,
-          "height": 5344,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/game-emirates-group-and-aws-team-craft-immersive-digital-world-1520998",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/game-emirates-group-and-aws-team-craft-immersive-digital-world-1520998",
-      "publishedDateTime": "2023-05-31T00:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

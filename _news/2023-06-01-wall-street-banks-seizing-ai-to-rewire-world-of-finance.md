@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/technology/wall-street-banks-seizing-ai-to-rew
 webUrl: "https://www.afr.com/technology/wall-street-banks-seizing-ai-to-rewire-world-of-finance-20230601-p5dd3o"
 type: article
 quality: 71
-heat: 91
+heat: 92
 published: true
 
 provider:

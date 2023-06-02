@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-01-goldman-sachs-cash-in-on-the-7-trillion-ai-explosion-by-making-these-15-trades-now.md",
+      "title": "Goldman Sachs: Cash in on the $7 trillion AI explosion by making these 15 trades now",
+      "excerpt": "Goldman Sachs shared 15 buy-rated stocks that have exposure to artificial intelligence as the technology gets increasingly popular and transformative.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/investing-ai-stocks-to-buy-now-options-trades-goldman-sachs-2023-6",
+      "originalUrl": "https://www.businessinsider.com/investing-ai-stocks-to-buy-now-options-trades-goldman-sachs-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6474bec63be3b50019f72dc7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-investors-see-ai-chips-as-new-gold-heres-why.md",
       "title": "Investors See AI Chips as New Gold. Here’s Why",
       "excerpt": "AI chips have suddenly taken center stage in what is considered an AI revolution that could reshape the technology sector—and the world",
@@ -212,7 +264,7 @@
       "originalUrl": "https://www.afr.com/technology/wall-street-banks-seizing-ai-to-rewire-world-of-finance-20230601-p5dd3o",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -488,7 +540,7 @@
       "originalUrl": "https://www.networkworld.com/article/3698288/cisco-aims-for-ai-first-security-with-armorblox-buy.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -988,7 +1040,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/translate-documents-in-real-time-with-amazon-translate/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1169,58 +1221,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-opinion-weve-reached-a-turning-point-with-ai-expert-says.md",
-      "title": "Opinion: We’ve reached a turning point with AI, expert says",
-      "excerpt": "Russell has called for rebuilding AI on a different foundation to ensure our control over the technology — but that ... There are a few other big areas of work in AI. There’s robotics, which is both how do you make a physical robot that can actually ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/05/31/opinions/artificial-intelligence-stuart-russell",
-      "originalUrl": "https://www.cnn.com/2023/05/31/opinions/artificial-intelligence-stuart-russell",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230525103431-20230525-perils-of-ai-power-on.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/31/opinions/artificial-intelligence-stuart-russell/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/31/opinions/artificial-intelligence-stuart-russell/index.html",
-      "publishedDateTime": "2023-05-31T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

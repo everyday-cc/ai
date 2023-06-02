@@ -34,6 +34,20 @@ related:
         width: 768
         height: 512
         isCached: true
+  - title: "Taiwan semiconductor supply chain gearing up for high-end AI GPU boom"
+    excerpt: "Taiwan's semiconductor supply chain has \"fine-tuned\" production plans for a major artificial intelligence (AI) chip client in order to satisfy demand in time, according to industry sources."
+    publishedDateTime: 2023-06-02T01:59:00Z
+    webUrl: "https://www.digitimes.com/news/a20230601PD212/ai-gpu-nvidia-tsmc.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230601pd212_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "eDnjv7Kb6OKtHf6B0Na5hJ5mh9jUxLF9wd0dMhJMkJpz3p4oGAmKIM/2IYEKJ/xiYpp6mT7FyEdRNeIrmv5XZQkemVCBmNJSF1SVdzMeEl5VM2PkDR3MtUj40JaN+zOP3vjkOh/ZOcf1dnMCfnoNYjaFbyT+voUwk0DfMRZSbLjTNJXs2wy9hkASjCWXY1DRnh5p/lUDnlv1qvcSFAURRhKA/aUeAH2jTrfSBw8u5OdOZ3EGbkc9mYuSz4PWy1cKtPww22ghP6M8TivyBXJ6NRejJXzYrGNhhDxnqescMK5J4Xrw6veBdldrw8KeCz9R5AHuU1QCLn2g3ZZuHPLPPcAlOslkhZ4DPYmNdQyZVjfUuLMOSwoBcQb1X/J+H0r0y8HR1Ax8n+b2fSJI0edagAUJNTs4jpcQU/z//VcsdcsEKf3mmmIIlg9TdZmTUE+qb12F5TEoBd7g/tqMMRuRibZsfk7QrpZmjvKk1IKSTpafudXnMOpyXvs0KOCcZN0o6sOm71MMNMf/CVpaewokLg==;1uQy7bWDVczlfN+SxOqsyg=="
 ---

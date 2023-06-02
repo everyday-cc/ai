@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/preventive-maintenance-vs-predictive-main
 webUrl: "https://www.ibm.com/blog/preventive-maintenance-vs-predictive-maintenance/"
 type: article
 quality: 82
-heat: 83
+heat: 82
 published: true
 
 provider:

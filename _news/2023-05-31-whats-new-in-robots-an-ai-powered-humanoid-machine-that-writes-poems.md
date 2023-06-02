@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
+    excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
+    publishedDateTime: 2023-06-02T03:07:00Z
+    webUrl: "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+    ampWebUrl: "https://abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 74
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AI-powered humanoid works the crowd at tech show"
     excerpt: "Will Jackson, director of Engineered Arts, the British company that created Ameca, said his company’s robots are designed for tasks that involve interacting with humans, such as helping"
     publishedDateTime: 2023-05-30T21:45:00Z
@@ -56,6 +72,6 @@ related:
         height: 399
         isCached: true
 
-secured: "mHOjuigjYP5CbE5ZxGRhpXxUoXGZaJAe06bonw5zUGOCvPHUzO8OEV2giTWBMwiuu44x6DXPgvnD3ayZ+6L6zsAoacBjSmY3bIz4DkAl/AOb6V223fZD7vyI759lkaLEk4rY9TBsVnDcJwM8IwwCCY7IB056urK7zm7dFeh1wXLmYFkiP5cmJGAfqCWJh+VOGj3RTLrSuMtn6FsbHFT7uj6ibKuXjmot69gqYzzLxk875EoDs4VqVmiUOx4OzBXARWvv4pmUipwkfmgvR3bShwAlraSXhpjScCK9uNFxpZdwb6nDbEw1ckGlNrPxG19PsFbo8pdDQXRvBUEJcod1VsF3hbFU4T7UA+PTZzuQix0=;tJ8wOC5OTN1QWnpAan9haA=="
+secured: "0YopqWg39ShoCa2OlKysZD+tmqfTmvFKkrEAQKk5bh9NL0VGMjSSGH+zHn1bL3q794NKeGdESzE/OZcXKV0j2uEnPRhLRN6c+IVsSsFk6ObcywzBOb8NdJQZECzLEquDYN8bSDkkUd8N/JHr/rt8Z7bLcicY66X4hCiCwd1Hi6yZ+KZ6eL8ypRoGqYHB881WMKmfQfmEn23KmeIE6eL6PrYwH98+5cwBPbYrLnl9uusS82p34Jb6kdywIS6epyJC+tbVVJ48e63TtZfxLC4D9emWnJvHyEG6RK496ZcYajk1Ei2+UVGKPJSPvH56mHgWDzUjDHyAxKhvGh2Nrx6uI+f2TOyEo5OZ0qmCpMbjd9IfleEQA2UJMK+c1m+/AL8FJgXCQj06faR5d/XoLe7VFvQNThrZJPCW+H+vUkZD2AzaSTQmElkV0O6g8gU5cMDhEZicLgkGkN3a//m6bfcUn36ipAZ9l0lepkRpzbREaQ8fB153C+xyvRXWI/FgqJg4024KgKqKnyekRstGz/7LCQ==;enwaORrhFrV8vorZnP9oRg=="
 ---
 
