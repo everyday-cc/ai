@@ -244,20 +244,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "MediaTek, NVIDIA to Transform Automobiles with AI & Accelerated Computing"
-    excerpt: "AI and accelerated computing are fueling the transformation of the entire auto industry. The combination of MediaTek’s industry-leading system-on-chip plus NVIDIA’s GPU and AI software technologies will enable new user experiences, enhanced safety and new connected services for all vehicle segments, from luxury to entry-level."
-    publishedDateTime: 2023-05-29T07:18:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/32228-mediatek-nvidia-to-transform-automobiles-with-ai-accelerated-computing"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 38
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/062e3a14eaea806bc013c9a4a1b09057.jpg?t=20230529_071304"
-        width: 752
-        height: 408
-        isCached: true
   - title: "MediaTek and Nvidia to develop AI cabin solutions for software-defined vehicles"
     excerpt: "MediaTek will work with Nvidia to deliver automotive solutions that surpass the industry’s growing needs and demands while posing a significant market opportunity for the companies."
     publishedDateTime: 2023-05-30T05:42:00Z

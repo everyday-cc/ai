@@ -1,29 +1,30 @@
 ---
 category: news
 title: "Nowhere for Investors to Hide From AI Hype"
-excerpt: "This week, chip maker Nvidia was briefly worth more than $1 trillion, thanks to investor excitement about demand for its chips created by so-called “generative AI,\" the technology behind ChatGPT. Smaller AI-related stocks have also soared as investors search for the big winner from the latest fashionable theme."
-publishedDateTime: 2023-06-02T12:29:00Z
-originalUrl: "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype-11685708705195.html"
-webUrl: "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype-11685708705195.html"
-ampWebUrl: "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html"
+excerpt: "Investors thinking of putting money into artificial intelligence need to apply a little real intelligence first."
+publishedDateTime: 2023-06-02T11:00:00Z
+originalUrl: "https://www.wsj.com/articles/nowhere-for-investors-to-hide-from-ai-hype-7cb52fd7"
+webUrl: "https://www.wsj.com/articles/nowhere-for-investors-to-hide-from-ai-hype-7cb52fd7"
 type: article
-quality: 59
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Mint
-  domain: livemint.com
+  name: Wall Street Journal
+  domain: wsj.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - IBM AI
   - AI
 
 images:
-  - url: "https://www.livemint.com/lm-img/img/2023/06/02/600x338/Nvidia_1685708783326_1685708790004.JPG"
-    width: 599
-    height: 338
+  - url: "https://images.wsj.net/im-792763/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -56,6 +57,6 @@ related:
         height: 431
         isCached: true
 
-secured: "Y/6+KPWjcSXCaCww/kS9oBNtCru5o5++ibDSingNbrMxb+jojzGA+iPAQMiq/L0I2+K0DKjOQ7fRUK6GKO7G2R+EejUY1AdKUrcgXULZ/l31CBHOukHzU8Wh5XKIYXjNsW36BJp5pchCdp0tB+AlrrT2QNd8NvA0FsizIQH8CVc3dUJWHH7KI+x0U4lhSWf6MMPZ5IHQo4nMDPnYZ6StczJRGnp2oxTmgA24xv9/3o5tKpYvMZArr8/TqPGGKfq3jXfdBWh3nUQJRWZvg86oBQx8bb3FAal/2eWOB/OtvNnp91aeA0tyIl1ZFtblK7UAbw1/8PqeNNx3FqZ/0SciVB6W6qvR6yU+95++e4TRy6he+Mweh9ZzRwNcMIiJMH2gUtUsWiUeQKijC3121yl97TxzsIcDkLUuxqpbAOQ+06OW1k1zlJd3i/hwHkK7vd4N+kHWWNuPUc9RLTiqQHi2ebcqK7rsuVWTHref5QK6fYcw/olfu8njpJ01tj7Dvb0LL0m07vnc43T4YmD0WQsSBA==;LWiDGx/2fJAIeTF33TCKDQ=="
+secured: "NwFIUlr+HKyHX6Ly0V/EAo//UqhZeXcBTOQh2wdf8isnLvce+TK9pDC+aBTGXbWnwKOqOEc69trExVedL0Bt3ssw9rTN9fe1XGg/Xa4CdWB8wi3GpzVUTH8j/bC4NXPSCxz5KNwZF1elBnZMEp4akuvJuJG4S/sqUFbPFIerEhP2mI2oYebI0wObPQJ36aVG9cZ8BmNx1+F75yXZKhyrOt/My7nVInRJ8Z50FTNFQrgL9fyvSmYX/K2NhTSJN3anTT4jqnByZhvzqPIKaMaFzlCgVZHn5msCrsuikMoDB0p0hpP3qy/miie2ejgHRVtO/aphI6XJS39tbXW4I37PTFmSr6Dun0+Qmvlys82Stoc=;ubBBf1hc4eMrDvX5x7Ag9w=="
 ---
 

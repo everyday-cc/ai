@@ -33,6 +33,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "Neuralangelo Nvidia AI Lets You Form 3D Models From 2D Videos"
+    excerpt: "Nvidia unveiled an AI model that can generate three-dimensional objects from two-dimensional videos. It is called Neuralangelo, a mix of the words “neural” from neural networks and"
+    publishedDateTime: 2023-06-03T01:01:00Z
+    webUrl: "https://technology.inquirer.net/124770/neuralangelo-nvidia-ai-forms-3d-models-from-2d-videos"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 39
+    images:
+      - url: "https://technology.inquirer.net/files/2023/06/euralangelo-nvidia-ai-3d-models-2d-videos.png-620x349.png"
+        width: 620
+        height: 349
+        isCached: true
   - title: "NVIDIA ACE Injects Generative AI Into Game NPCs Enabling Hyper-Realistic Conversations"
     excerpt: "NVIDIA is showing off an AI model foundry service that leverages AI-powered natural language interactions to make NPCs feel more intelligent."
     publishedDateTime: 2023-05-29T12:56:00Z

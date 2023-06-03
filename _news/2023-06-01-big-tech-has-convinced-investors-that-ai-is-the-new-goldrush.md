@@ -40,20 +40,18 @@ related:
         height: 256
         isCached: true
   - title: "Nowhere for Investors to Hide From AI Hype"
-    excerpt: "This week, chip maker Nvidia was briefly worth more than $1 trillion, thanks to investor excitement about demand for its chips created by so-called “generative AI,\" the technology behind ChatGPT. Smaller AI-related stocks have also soared as investors search for the big winner from the latest fashionable theme."
-    publishedDateTime: 2023-06-02T12:29:00Z
-    webUrl: "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype-11685708705195.html"
-    ampWebUrl: "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html"
+    excerpt: "Investors thinking of putting money into artificial intelligence need to apply a little real intelligence first."
+    publishedDateTime: 2023-06-02T11:00:00Z
+    webUrl: "https://www.wsj.com/articles/nowhere-for-investors-to-hide-from-ai-hype-7cb52fd7"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/06/02/600x338/Nvidia_1685708783326_1685708790004.JPG"
-        width: 599
-        height: 338
+      - url: "https://images.wsj.net/im-792763/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "O9EEsRTIhvel5nc+MbIpbr6B3r+uwZ0DYEf7QFZnpnNBk7haVx1scIuvCuuOm8uAhAdvJbz+WKvFGql71xexfOYZvRXqPpsStI1QFS8qC9CppPeCxhcFpTp1slDdIiSEMbZkKXc/Q5Zeh6ki3zfEaiDuNAjZpxV6hmMAWe3s3IX/nDsOUdIQZVnpLSGsLXjBY5/vZ6u9hgnCE11HipzMjDXShOpgyL9DciB8PAeq5ZoXb1JkTAJXlzfhSngT02MZopOApeD65ykr1vrwMRCBrBU/7G3iY2l5FHC7lLetoCr1h5KSrnEb7ZHSoPUwsmOKFnCGKGBtHgrqsSiUl2+R7uRzQ+zGECjbUJqOlvG1eCVRvmxYY1r9zU531vpSnVqBDq6+qRD+DApY7gYpCWrm3OeFEcSwqyiNi8BKE1Y946pgCTJQV2vVm2ah5dMxqC0cW7NBYczmPe7Xo3WsuzWAMeKIzzI8d1DJRfX4iEGfLrkQCg99z3K+CqUm1RU5hngwCuOy2lLjS7DAfM8z6liX+w==;rWy/RnRXVgZ/4MLcqr+17g=="

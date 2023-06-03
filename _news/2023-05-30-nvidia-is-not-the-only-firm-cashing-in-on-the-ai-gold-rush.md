@@ -168,20 +168,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
-  - title: "Nvidia reveals generative AI NPCs that can dream up their own dialogue"
-    excerpt: "A new piece of software, Nvidia Ace, was introduced at the Computex Keynote. The software will allow game developers to implement AI NPCs into their worlds."
-    publishedDateTime: 2023-05-29T08:47:00Z
-    webUrl: "https://www.dexerto.com/tech/nvidia-reveals-generative-ai-npcs-that-can-dream-up-their-own-dialogue-2159057/"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 39
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/29/ai-nvidia-gen.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Intel cedes spotlight at global tech gala to AI darling Nvidia"
     excerpt: "Intel, long synonymous with the fastest processors, has seen its all-purpose chips overshadowed by Nvidia's more specialized, parallel-processing architecture."
     publishedDateTime: 2023-05-31T17:13:00Z

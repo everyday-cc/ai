@@ -1,29 +1,27 @@
 ---
 category: news
 title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
-publishedDateTime: 2023-06-01T05:50:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
-webUrl: "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
+publishedDateTime: 2023-06-01T09:31:00Z
+originalUrl: "https://www.local10.com/business/2023/06/01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
+webUrl: "https://www.local10.com/business/2023/06/01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
 type: article
-quality: 68
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: WPLG
+  domain: local10.com
 
 topics:
-  - AI Hardware
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SIQQ7UVKUNDXRHQQE2TFZQO3RU.jpg?_a=ATCqVhC0"
+    width: 700
+    height: 467
     isCached: true
 
 related:
@@ -57,6 +55,17 @@ related:
         width: 620
         height: 326
         isCached: true
+  - title: "AP: AI chips are hot. Here’s what they are, what they’re for and why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed"
+    publishedDateTime: 2023-06-03T01:02:00Z
+    webUrl: "https://www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
+    ampWebUrl: "https://www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/?amp=1"
+    cdnAmpWebUrl: "https://www-wmay-com.cdn.ampproject.org/c/s/www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/?amp=1"
+    type: article
+    provider:
+      name: 92.7 WMAY
+      domain: wmay.com
+    quality: 46
   - title: "Using Artificial Intelligence in the healthcare space"
     excerpt: "Functional Medicine Expert, Dr. Cathleen Gerenger, and the CEO of My Wellness Reader, Gary Kiss, joined Gayle Guyardo, the host of the global health and wellness show, Bloom, to share more about"
     publishedDateTime: 2023-05-29T18:30:00Z
@@ -94,6 +103,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "ai21vK8hVu9x/z3kwxkVTyoOfF/AVWdAGDajgAaE+u4Pod+8l3By/qpU0/sLPHdjmOe3sUovsp+6ep6SrnInp8uY4MgWmzYkzFIG26UYUS4vY3MsNhCwz55efFSI2DZiAnKhnNpY9ZoJBNUDbAfe/28J/rwKNC/SztDx2+p0GEfShwiO9+wHPqd+ZivSh+GHI00rP4FRRbVeo9mtzzWZViYew/SNgDSEpGq92R6Ix62YyTaT+H2RAaCMO/6JmDG5BlONSwOU4asrSOoef4giPlUCAdfaNOMevLVvV7ZRikmA6rHtf5TZOWabIuwqY+ucH1akterDoCqmwLKA+++8eQBzvUUYi+OXnfBNECcqtS8=;/5alRyfo5VWOZkO2+kjFmQ=="
+secured: "p3Gf2jia6f/NzenJar8hv7Hy+L4H8S6iD1TBo4Z6PoqJKyisoDZHa83fEwvXmDTi+1ryI34r1R/r3pJoKrfctDc1VCvAGnG3fLinGS/Z1DA7aflqtXAjjc7O5NdeulrU5sOOBKc1KDOwRHuCUilE21apjuSEDbcgPMkh0oOioyj4zuOZO5Jhy07TCBZ7bBFCt1daM0BQOFkkm6BeGTLrQBtTsZiUycoN1jOIzTNmESP47a1mWJtPb5Cbx4LtluBzNqafUguu1pMG4ejaNhXAWggHNNTrFn+a5qRxduvk9NVN7zR8yodzboP4t6ojVXSMpshC07oZv2IffOXDqNQEPSQzrX++hth4/I+EvOEUeq4=;XIftMaQAtjfqCVwhftDKXw=="
 ---
 

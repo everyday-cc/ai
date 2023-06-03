@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-administered smartphone speech app may spot Alzheimer’s early on"
-    excerpt: "Researchers have developed a self-administered smartphone app to screen for neurodegenerative conditions like Alzheimer’s disease and mild cognitive impairment by analyzing speech patterns. With subtle speech disturbances being an early indicator of these conditions,"
-    publishedDateTime: 2023-05-29T07:07:00Z
-    webUrl: "https://newatlas.com/health-wellbeing/smartphone-speech-app-may-spot-alzheimers-early-on/"
-    ampWebUrl: "https://newatlas.com/health-wellbeing/smartphone-speech-app-may-spot-alzheimers-early-on/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/health-wellbeing/smartphone-speech-app-may-spot-alzheimers-early-on/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 74
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/96441db/2147483647/strip/true/crop/1999x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F8c%2F43%2F688be2a14c71b250a8669ff2d7db%2Fdepositphotos-299713804-l.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Single-cell dissection of Alzheimer's vascular changes across six brain regions"
     excerpt: "Your brain is powered by 400 miles of blood vessels that provide nutrients, clear out waste products, and form a tight protective barrier—the blood brain barrier—that controls which molecules can enter or exit."
     publishedDateTime: 2023-06-02T13:52:00Z

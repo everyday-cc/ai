@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/french-open-enlists-ai-company-to-help-p
 webUrl: "https://www.cnet.com/tech/french-open-enlists-ai-company-to-help-players-fight-social-media-hate/"
 type: article
 quality: 67
-heat: 91
+heat: 92
 published: true
 
 provider:

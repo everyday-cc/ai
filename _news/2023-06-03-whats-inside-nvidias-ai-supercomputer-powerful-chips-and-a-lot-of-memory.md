@@ -230,20 +230,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "MediaTek, NVIDIA to Transform Automobiles with AI & Accelerated Computing"
-    excerpt: "AI and accelerated computing are fueling the transformation of the entire auto industry. The combination of MediaTek’s industry-leading system-on-chip plus NVIDIA’s GPU and AI software technologies will enable new user experiences, enhanced safety and new connected services for all vehicle segments, from luxury to entry-level."
-    publishedDateTime: 2023-05-29T07:18:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/32228-mediatek-nvidia-to-transform-automobiles-with-ai-accelerated-computing"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 38
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/062e3a14eaea806bc013c9a4a1b09057.jpg?t=20230529_071304"
-        width: 752
-        height: 408
-        isCached: true
   - title: "Nvidia debuts more AI supercomputers and services as shares continue to soar"
     excerpt: "Nvidia debuted a host of new AI technologies on Monday, as the chip giant's stock price skyrocketed on a positive second quarter outlook."
     publishedDateTime: 2023-05-29T14:10:00Z
@@ -341,6 +327,6 @@ related:
       domain: channelnewsasia.com
     quality: 17
 
-secured: "5inrapphAOF14MA8HdSYFHOtmoOvTNo/7cCIsWPRU73R2Owr1Wma4l2ArvM+254tediU2sw40DbXz8lXI0iIJf6k8F2wIpxbxMQP0a0miGOF6IF4wbLccZu/cXj6MOcZsw9bwnuVo+HpiW1jlIYwoQvEvh2QsK2uKMjZ1I0v2e8sfpgeyGbIhU8hSFNHaNcizfhfF606NGsv6UGpSKKLnt6xw5PaGwzZt+eFjom2QOVM/4yO/tRpJdUQ5JU4Auuh2I/tO+V8IYJypzKCeTnfqbz0PHiaM/e32S/ZdinCC1PUg6DJzJJatTZta5e9jkkyrPW9VLMK8AdkhoKsGH1qp6xpXy2uGO6M/udZT1ZG6E8=;XTo69/abDVfVbN0z9T6Eaw=="
+secured: "00AM+KM1FOgNnw14pzTu2lZJLIr2bp4Jwa40Em+FD7TAgAD+BXrRJPVeFPWYoQlDpAcZaJtsjsEP5g+NzBTYF+yQCsUgPFtTLT6UKdEbE/4qYrenhiAoXxf3diOS+UbZa8IrxZZAMx9tUXFgFfHTol3yg2w2Ygv0G2jSg2lJLZnF2mfzULieEpEjrPVUlTJFzBKCebFbisUODu7M/jBz7MMM8Jn4oZJ418OUUFF9WO68PlKX7Av/UdIsC2sXEQlFMzc0AwCzTEUk+uPOOfbCL9MdC1CU0O5cAR11r1qPyHfxrhcreit7HoN407wkcGTyAlhsS0gmqd9qKxEYRyf1hOEyEH5lZEPlkZfpsq6ZQwaPVrea0P54LoHznwZ61oMIqSEZIph1fuF8Dt6kjJ10+Nkkjno1mvKgknC5pW0/P3W6DwaWHSeDDqhD3+i2Yf2mJC77yYQKah4RxvJ6+jQ3hT2eW2EJjVgpp/kfiEDfUDQdPi5fG7gLHtkcWQ+wpHtxM+EcZCNHs8chrC0Rof2P7A==;DPgNz80VjmK4xnFANly+vQ=="
 ---
 

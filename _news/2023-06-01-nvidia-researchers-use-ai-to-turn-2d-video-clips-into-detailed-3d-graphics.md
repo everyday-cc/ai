@@ -24,6 +24,20 @@ topics:
   - Facebook AI
 
 related:
+  - title: "Neuralangelo Nvidia AI Lets You Form 3D Models From 2D Videos"
+    excerpt: "Nvidia unveiled an AI model that can generate three-dimensional objects from two-dimensional videos. It is called Neuralangelo, a mix of the words “neural” from neural networks and"
+    publishedDateTime: 2023-06-03T01:01:00Z
+    webUrl: "https://technology.inquirer.net/124770/neuralangelo-nvidia-ai-forms-3d-models-from-2d-videos"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 39
+    images:
+      - url: "https://technology.inquirer.net/files/2023/06/euralangelo-nvidia-ai-3d-models-2d-videos.png-620x349.png"
+        width: 620
+        height: 349
+        isCached: true
   - title: "NVIDIA ACE for Games uses AI to let you interact and talk with NPCs"
     excerpt: "The NVIDIA Avatar Cloud Engine (ACE) will let you strike up a conversation with a character in an RPG, and it's all thanks to AI. And some RTX to boot."
     publishedDateTime: 2023-05-29T09:27:00Z
