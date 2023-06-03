@@ -7,7 +7,7 @@ originalUrl: "https://www.smechannels.com/crowdstrike-to-accelerate-development-
 webUrl: "https://www.smechannels.com/crowdstrike-to-accelerate-development-of-ai-in-cybersecurity-with-aws/"
 type: article
 quality: 54
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
-  - title: "Insider Q&A: Artificial intelligence and cybersecurity in military tech"
-    excerpt: "Josh Lospinoso’s first cybersecurity startup was acquired in 2017 by Raytheon/Forcepoint.. His second, Shift5, works with the U.S. military, rail operators and airlines including JetBlue. A 2009 West Point grad and Rhodes Scholar,"
-    publishedDateTime: 2023-05-29T16:11:00Z
-    webUrl: "https://www.chron.com/business/article/insider-q-a-artificial-intelligence-and-18124215.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 17
 
 secured: "WkykS80oSjrlexpQk3CLqf7sR0m5QVEdLpv4Z95i+nVTZ3OWElKgr+3rx9CDrM8heDkHdkfT3OeEVfkXx1XSLP0Ns/OQXKTShszo02z1fxU0IxqtIhfGznNS38A17OZgDffPzk4anezzTzjqUXrJC7Lw9jQZMcGK523Er3+/Z+XDus42w9kWhTGCXLxocclyUdxD1iuglI5IkQRb7dqy8RpURILe11rR+2h46BbcNnoHX0S0RQDRkpXtHszwzwgH5/NjPlZ163LLzS/rtIfwr7N87kI2N29T7x3ht/lyIuQj3Z6+ft5+8EN5eMHiJH4xWNyle6KJqQhdSk3qVSKarLS4gH06TfUDNKifo7nS/GXQRq5X3oZgNSUcnT4fzldXV0ZTLjOLALna4niERPlJ1B1zucJZkkXLQws8ejD3nSfoWE9DJyI4ppQXoua4BpaP6TRjrbZ4bUUIW5XxGye3i7o5YIlFCAMtnpQ2SVvqkMhfzRZ+B9cGyHivrfCl6fAkWB7AExf6w2xtwcV2kyspNQ==;1JrMhBzrIULB5Erydumi7w=="
 ---

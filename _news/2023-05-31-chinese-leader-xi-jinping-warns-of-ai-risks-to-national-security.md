@@ -7,8 +7,8 @@ originalUrl: "https://time.com/6283663/xi-jinping-warns-ai-risk-national-securit
 webUrl: "https://time.com/6283663/xi-jinping-warns-ai-risk-national-security/"
 type: article
 quality: 84
-heat: 144
-published: true
+heat: -1
+published: false
 
 provider:
   name: Time
@@ -29,35 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "US seeks to curb investment in Chinese chips, AI and quantum computing"
-    excerpt: "WASHINGTON (Reuters) - New rules under consideration would restrict the flow of U.S. investments and know-how into Chinese companies working on advanced semiconductors, artificial intelligence and quantum computing, a U.S. Treasury official said on ..."
-    publishedDateTime: 2023-06-01T15:41:00Z
-    webUrl: "https://www.reuters.com/article/usa-china-congress-idCAKBN2XM1F6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20230531&t=2&i=1634411747&r=LYNXMPEJ4U0Q7&w=800"
-        width: 800
-        height: 508
-        isCached: true
   - title: "China warns of artificial intelligence risks, calls for beefed-up national security measures"
-    excerpt: "China has warned of the risks posed by advances in artificial intelligence while calling for heightened national security measures"
-    publishedDateTime: 2023-05-31T09:18:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716269"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716269"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716269"
+    excerpt: "The statement underscores the tension between the government’s determination to be technological leaders and concerns about the possible harms of such technologies."
+    publishedDateTime: 2023-05-31T14:13:00Z
+    webUrl: "https://www.nbcnews.com/news/world/china-warns-artificial-intelligence-risks-calls-beefed-national-securi-rcna87021"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna87021"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna87021"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 63
+      name: NBC News
+      domain: nbcnews.com
+    quality: 93
     images:
-      - url: "https://s.abcnews.com/images/International/wirestory_00a38e550ef6b4ac12cd1fd418363d2b_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230531-xi-jinping-jm-1004-8797e3.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "China warns of risks from artificial intelligence, calls for beefed-up national security measures"
     excerpt: "BEIJING -- China warns of risks from artificial intelligence, calls for beefed-up national security measures."
@@ -74,22 +60,6 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
-        isCached: true
-  - title: "China’s Xi Jinping calls for greater state control of AI to counter ‘dangerous storms’"
-    excerpt: "President says national security threats are increasing and urged greater oversight of artificial intelligence and data security"
-    publishedDateTime: 2023-05-31T23:42:00Z
-    webUrl: "https://www.theguardian.com/world/2023/jun/01/chinas-xi-jinping-calls-for-greater-state-control-of-ai-to-counter-dangerous-storms"
-    ampWebUrl: "https://amp.theguardian.com/world/2023/jun/01/chinas-xi-jinping-calls-for-greater-state-control-of-ai-to-counter-dangerous-storms"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/jun/01/chinas-xi-jinping-calls-for-greater-state-control-of-ai-to-counter-dangerous-storms"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 49
-    images:
-      - url: "https://i.guim.co.uk/img/media/4268df96cffff87537b9ff983eda098f6e057beb/0_0_3094_2000/master/3094.jpg?width=620&quality=85&auto=format&fit=max&s=61243aa6e5043dc82087170825fb008d"
-        width: 620
-        height: 401
         isCached: true
   - title: "AI in China: Xi aims for balance between progress and protection"
     excerpt: "China calls for heightened national security measures for artificial intelligence. A meeting chaired by President Xi Jinping emphasized the need to safeguard political security and improve security governance of internet data and artificial intelligence."

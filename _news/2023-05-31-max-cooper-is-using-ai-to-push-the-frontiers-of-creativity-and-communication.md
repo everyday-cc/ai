@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Very human questions about artificial intelligence"
-    excerpt: "AI experts tell us we live in unpredictable times. They have no answers and since ordinary people like us don’t even know the right questions to ask, EL PAÍS went to the Institute for Futures Studies"
-    publishedDateTime: 2023-05-29T16:37:00Z
-    webUrl: "https://english.elpais.com/science-tech/2023-05-29/very-human-questions-about-artificial-intelligence.html"
-    ampWebUrl: "https://english.elpais.com/science-tech/2023-05-29/very-human-questions-about-artificial-intelligence.html?outputType=amp"
-    cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/science-tech/2023-05-29/very-human-questions-about-artificial-intelligence.html?outputType=amp"
-    type: article
-    provider:
-      name: El País in English
-      domain: elpais.com
-    quality: 61
-    images:
-      - url: "https://images.english.elpais.com/resizer/Ntx0a4c4BRcOFgMTcWKUrceHgD4=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/BMLFUW7I6BGSDGI3WSLCCMOLSE.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The existential threat from AI – and from humans misusing it"
     excerpt: "Letters: Roger Haines writes that there is no evidence of AI sentience, while Prof Paul Huxley recalls Asimov’s laws of robotics, and Phyl Hyde says fears of AI are being overblown"
     publishedDateTime: 2023-06-02T15:17:00Z

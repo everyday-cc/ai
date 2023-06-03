@@ -42,6 +42,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "In Bengaluru, landlord invests Rs 8 lakh in tenant’s AI start-up; Internet stunned"
+    excerpt: "Just when we thought Bengaluru couldn’t amaze us any further, a heart-warming incident has emerged. A resident of Bengaluru shared an exceptional account wherein his landlord, unexpectedly, made an astonishing investment of $10,"
+    publishedDateTime: 2023-06-03T09:49:00Z
+    webUrl: "https://www.firstpost.com/india/in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-start-up-internet-stunned-12684922.html"
+    ampWebUrl: "https://www.firstpost.com/india/in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-start-up-internet-stunned-12684922.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/india/in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-start-up-internet-stunned-12684922.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 51
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/06/rupee-new1.jpg"
+        width: 640
+        height: 362
+        isCached: true
 
 secured: "gkAGnmlFIL9cgbgneMDwnwD1kI23m7Rg1Ril/e0a2zxA0TkfWjhvxBBIEh04W9hangksWqV57EmhzypzuV5RWsD8NdXAhE4r35bL/3SkYzLvupnBCtnbWdKVqZnO2fspGNjZYQ3MExHudcUSkn90L4qi62++XUCr+ifmawMPqJaSjMWh1h96yVf1QAaxp9sQCB5PytLM9GaAfxLIxdZxj7Wihpxx+LBkmIoOhPphV38ItrjRRmuGjgJZepYsKU08tRmjbL7DYku6DSIb4X9yhAfmPQePaxlibr69ECP0m94LeDDvszxxvo1tp8RXhg6vKjGftl/KRh9br+cQGmUVKOJbrXPf8KnD04CaxW7QLqc=;AMH4QT6sfcom6v860QvktA=="
 ---

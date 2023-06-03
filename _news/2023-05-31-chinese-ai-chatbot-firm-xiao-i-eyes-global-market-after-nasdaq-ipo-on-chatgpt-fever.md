@@ -124,15 +124,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Talk to the bot? An AI chatbot may be your next therapist"
-    excerpt: "Pandemic stresses led to millions more Americans seeking mental health treatment, so it may prove tempting for insurers to offer up apps and chatbots to meet the mental health parity requirement."
-    publishedDateTime: 2023-05-29T15:39:00Z
-    webUrl: "https://www.benefitspro.com/2023/05/29/an-ai-chatbot-may-be-your-next-therapist-will-it-actually-help-your-mental-health/"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 19
   - title: "US eating disorder helpline takes down AI chatbot over harmful advice"
     excerpt: "National Eating Disorder Association has also been under criticism for firing four employees in March who formed a union"
     publishedDateTime: 2023-05-31T17:56:00Z

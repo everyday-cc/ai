@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 631
         isCached: true
+  - title: "Artificial intelligence: The greatest disruptor ever?"
+    excerpt: "You may not be interested in artificial intelligence, but artificial intelligence is interested in you. Suddenly, long-rumored and awaited, AI is upon the world"
+    publishedDateTime: 2023-06-03T09:05:00Z
+    webUrl: "https://lasvegassun.com/news/2023/jun/03/artificial-intelligence-the-greatest-disruptor-eve/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 17
 
 secured: "jX0aHSK3IMucRwFzm11kKZP8YrUruu3Hf9njq8igRGvEZcJlkCTMFI/jEVeqkqdOmc67Un7MKo1J287ARYoPMZ/J4dIfYWBanOriZBNelQEbJmkPtc7wWf4NdT/oQkW+z48QL6MrrlEKvhnE9rH8NpFv5KJ25M4dSPcS/aR298rYBukbqBQw2+uC+S7yx58nEIIwRM2QVIjVzhyZUarPMM9QrDDi+3TszDWu7F37obRAU/0g3NriZEYzBak3voxBQEd+7+mOoCojBOedBXa1w9OBcauN6NxXf9Amx5ZnQQhf6rFoAJ+GK8fk9vMSxUPaY/baxHYuA+bz67XDO/WqPUVwbpwTec4DU4w5byFhe40=;wuC0QqMZat6MXOW25Kf6Qg=="
 ---

@@ -1,34 +1,44 @@
 ---
 category: news
-title: "Investors See AI Chips as New Gold. Here’s Why"
-excerpt: "AI chips have suddenly taken center stage in what is considered an AI revolution that could reshape the technology sector—and the world"
-publishedDateTime: 2023-06-01T07:53:00Z
-originalUrl: "https://time.com/6284046/nvidia-ai-chips-investment/"
-webUrl: "https://time.com/6284046/nvidia-ai-chips-investment/"
+title: "AI Chips: What They Are and Why Investors See Gold"
+excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
+publishedDateTime: 2023-06-03T08:55:00Z
+originalUrl: "https://businessjournaldaily.com/ai-chips-what-they-are-and-why-investors-see-gold/"
+webUrl: "https://businessjournaldaily.com/ai-chips-what-they-are-and-why-investors-see-gold/"
 type: article
-quality: 84
-heat: 134
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: Time
-  domain: time.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Journal Daily
+  domain: businessjournaldaily.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://time.com/img/icons/wallet-connect.png"
-    width: 256
-    height: 256
+  - url: "https://businessjournaldaily.com/wp-content/uploads/2023/06/Nvidia-HGX-H100-module-AP.jpg"
+    width: 925
+    height: 520
     isCached: true
 
 related:
+  - title: "Investors See AI Chips as New Gold. Here’s Why"
+    excerpt: "AI chips have suddenly taken center stage in what is considered an AI revolution that could reshape the technology sector—and the world"
+    publishedDateTime: 2023-06-01T07:53:00Z
+    webUrl: "https://time.com/6284046/nvidia-ai-chips-investment/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 84
+    images:
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "US seeks to curb investment in Chinese chips, AI and quantum computing"
     excerpt: "WASHINGTON (Reuters) - New rules under consideration would restrict the flow of U.S. investments and know-how into Chinese companies working on advanced semiconductors, artificial intelligence and quantum computing, a U.S. Treasury official said on ..."
     publishedDateTime: 2023-06-01T15:41:00Z
@@ -73,20 +83,6 @@ related:
         width: 599
         height: 338
         isCached: true
-  - title: "AI Chips: What They Are and Why Investors See Gold"
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
-    publishedDateTime: 2023-06-03T08:55:00Z
-    webUrl: "https://businessjournaldaily.com/ai-chips-what-they-are-and-why-investors-see-gold/"
-    type: article
-    provider:
-      name: Business Journal Daily
-      domain: businessjournaldaily.com
-    quality: 54
-    images:
-      - url: "https://businessjournaldaily.com/wp-content/uploads/2023/06/Nvidia-HGX-H100-module-AP.jpg"
-        width: 925
-        height: 520
-        isCached: true
   - title: "Big Tech has convinced investors that AI is the new goldrush"
     excerpt: "Investors rushing to put cash into AI based companies In what could be a huge bubble, investors are rushing to put their savings into companies centred around AI technology.  Time Magazine has reported that such chips have suddenly taken center stage in what some experts consider an AI"
     publishedDateTime: 2023-06-01T09:33:00Z
@@ -102,6 +98,6 @@ related:
         height: 431
         isCached: true
 
-secured: "LyQSFEy+viDUYC5A9yu7qWxNN+9ZJDJZCk5ui+b/zRElxppEsQechDZcWhZIeXc+J8/aQSSvR6lfLpfrUJKD8/J9sYZRH7BdDeu5sAfC5m0RRJpur5iT599ITcE3Z01le0kXcw0gJTkpvYGwSd84l5DOjti2BlbVBT1RQRi5tHxDztGj973MfHzo06HXEsON3oUHin/spMc/p1ldoOZI4lOA5mAjImXseDGAoFAfX6CQlrkJk8pyc03VSDlmRE/Lu5k9e2a/fqI1sI3TGbyVIwNKaHsQd5YLf6iUpN1EB0p55tdfbj4FVz3p9BQHyF0jO4vmcmL2qFV1qnzsfawFXaxounQ7MhYeR7f9IJHVRl3WBMAPJNHR9xb4ytoRYA/vxZwcp+jCL0QWTX9qMAKJMNkwVlJiXnHNvVAIT1YSZUc8tQVf/f1S/qWEGiIuejbshf+/O4PtxdF+Nn71vtE9oJRjB8xit1IpkC+Znwry5Z3POEEfOQAV05Z4FJvHmmsWlk7xksWSO6ZXraHzGtiOWA==;l03o5/DdWc1tD72eoAugYA=="
+secured: "LMUaKq/bExAnzLVSbEzDmwc5HAjlaElLjhVkjlzUqLEtiV9sE6UGkdw6n+r4rNrPAP/txwM2w8em5ttc4zgc9K6viPgyXqoPRFsICHZXBCK/IWyam4KnAntIKWTx6nM2oCM8j3YFYx06EYsCrF2RDsIa7LIyYJGLeqYbcp4/Zn77B5SkWdyz4kARsxH1B0BndUK0Tbsd0QluuYxw51VkV37lTflzo7fOatrk1fMGLYeI07ymMcajqbmiM3D6eqiCJI/CnhtOagq/0G7ixN6CkRQYqGf/RAX83Y0ANt3vtr6tppHZjlxKJN7sw9lrZKUzqKGBe8Ln2EOWdAbHIRxHHtlzr/LyxuMZPrxNu0soeWU=;JTX7uRQKTTUlU7JMYhcFKA=="
 ---
 

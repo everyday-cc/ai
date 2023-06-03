@@ -6,8 +6,8 @@ publishedDateTime: 2023-06-03T07:40:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/introducing-nichefire-s-trendfire-launch-unleashing-ai-powered-trend-prediction-for-businesses-1032368389"
 webUrl: "https://markets.businessinsider.com/news/stocks/introducing-nichefire-s-trendfire-launch-unleashing-ai-powered-trend-prediction-for-businesses-1032368389"
 type: article
-quality: 55
-heat: 55
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://storage.googleapis.com/mmstudio-images/gallery/oM6rIz0qQug4KigzzLTTzaYeplf1/1685705719636-0.jpg"
@@ -27,6 +28,6 @@ images:
     height: 450
     isCached: true
 
-secured: "y7RXAeCm2m3OjQoQC+WR6nUBvC+yzqEUPwYMwcPgX9p92KxUAqKz/2Gj4s2MzjAV0y0MUqQjBSdGgfAP9QjEH9oIB583tOMBSGaGdzhhy6gmUDnl1o9sa/MpNL7wDcW3Ega2W8VOhwKE3X14JYXO/q0zfqdBAk/FNWR27RCxNXAHIX99TlwE1D4sQw/t1Cq1SVLbF7+ahO2pb6CwC/D9QUhRcaR0CeBLsmVWI5Fa4HG8vawzZLzbxPZBDxWGIUDzSJdBf0FhM7hwOmdvFLJ2idrfrVuDG9U/lmvhq5owmgc/f7PORdTkFbIyCC9RlLUCUBdPgEGtGmqAj3e1SdvDpxEJWt73q+MYoxSppgGO0II=;d1DVmg4eR8uSAXa3UPrMdg=="
+secured: "a8dMyIMFbY6okB5eVTGhlU220+MkN7EhSzhy+7S8k7U1SD+20mfgfGXPl7D1hkxoCAucgwICp/5wj6Stdo5eAdwj46Gi2JmSBdb0huoHRJG/EMqkcCW00dLFYgSqSqXe+NTpj+O3MmTpQuyYXYW5dDH1RKWY+9RnQDkIAtTzt3D8iOLvrYJ95vWGSCDQwGW+OQmv8lyIAAByuZghlGTT7mH4aFmSjzTwtcRcOQcFsGqNgQGCi4CRWlEkP0BII13RQ47fW+kE1l2S0e84vfCuO3Dz35GKv1S3CK4WGLYIq3LQRVpsXP2U+t+V1+zlrY8kIXeoAALjfCKuBu+WWAgGnrDnUQolwK2qywn0kwkGsm5KJ3KaUdByvrJcwipf/J8ztmJ585HPKUvk8edIp5zvQ/iqUye0LyXujDhbXY6ZHxw1EyGzPNaL0GIxbNhd452iT9PvLP46sM0XN0jzQJmmv/b0dzaH5kzMmH5AOiPGXVi6N42m9iyjSMssAwtOaTK3I5XCqXcqlK5trf2YKMovvA==;S6DIUgZSxm34tk9DIFUlaw=="
 ---
 

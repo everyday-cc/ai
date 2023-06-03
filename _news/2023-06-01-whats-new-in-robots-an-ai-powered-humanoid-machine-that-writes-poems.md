@@ -73,6 +73,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "What’s new in robots? An AI-powered humanoid machine that writes poems"
+    excerpt: "\"It means we have to build an intuitive system that people can learn in a very short time, like half an hour,\" he said."
+    publishedDateTime: 2023-05-31T12:50:00Z
+    webUrl: "https://sentinelcolorado.com/a-town-magazine/lifestyle/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/"
+    type: article
+    provider:
+      name: Sentinel Colorado
+      domain: sentinelcolorado.com
+    quality: 39
+    images:
+      - url: "https://sentinelcolorado.com/wp-content/uploads/2023/05/AP23150457430119.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "pHoulBKti5jsWtySQazUNFwoIdPNZ4rWHbgfR4RNhE6bJ3hFSBQiUjwCClnAMlhhf+XCv3yC0TeimnzRescLOCf8YtJ16uAWDAakVTGksdOQ6RRXbqYMfG8eGzLvmEIUMGgfAi3qvuVWCEFu3sn8ViszmlzwB39n6I1jCnFl3TjcHK7UwEEK5LP9RSJLozjHROhimLY7cA5tUIYCOP7SRVMOOCzXXH3AB0Y3h0QUu88JNNgNVPv1KDFFQHJZc5891BozXuOfu8zO1PbYBnl4VFTerd7dNHHb85DxOVejyU0MZH+zBlvKxobZOHSA7sIP46Qdcki1OMgyAooYJEKLZE6VAOXbmRm85U00BrbgAq0=;H+ArfeGqMb48dgK3xor0fQ=="
 ---

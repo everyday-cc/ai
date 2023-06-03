@@ -39,22 +39,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "Missing The AI Forest For The Generative AI Tree"
-    excerpt: "Some companies and entranced by generative AI, but should be exploring other types better suited to their key data."
-    publishedDateTime: 2023-05-29T16:40:00Z
-    webUrl: "https://www.forbes.com/sites/tomdavenport/2023/05/29/missing-the-ai-forest-for-the-generative-ai-tree/"
-    ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2023/05/29/missing-the-ai-forest-for-the-generative-ai-tree/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/05/29/missing-the-ai-forest-for-the-generative-ai-tree/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6474d458bc83efe2be9811f3/0x0.jpg?format=jpg&width=1200"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "Prepare For An Expanded Job Market, Thanks To Artificial Intelligence"
     excerpt: "Don't produce the same output as a generative AI tool. Differentiate yourself by adding value on top of the base output."
     publishedDateTime: 2023-05-30T22:29:00Z

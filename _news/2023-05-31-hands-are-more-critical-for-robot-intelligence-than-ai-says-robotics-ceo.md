@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo?amp"
 type: article
 quality: 90
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2023/06/massrobotics-featured.jpg"
         width: 770
         height: 500
-        isCached: true
-  - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
-    excerpt: "Hundreds of robots are on display this week at the International Conference on Robotics and Automation in London."
-    publishedDateTime: 2023-05-31T13:45:00Z
-    webUrl: "https://omaha.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_ed20e4ee-d21b-5a74-91e7-8b0930805c1f.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/e/d2/ed20e4ee-d21b-5a74-91e7-8b0930805c1f/6477381b0b5c5.preview.jpg?crop=1739%2C914%2C24%2C33&resize=1200%2C631&order=crop%2Cresize"
-        width: 1200
-        height: 631
         isCached: true
 
 secured: "+hDlBQ5Ii4zDm3PMa7tosKTS6qf2xBlegxv6L1+9cRRVtNCmdZoO1dC19jCpD/jK7yd/5M09hxQk25Pm/s4Oc7LufAT40jzEF0+vrb4NUy3ru8Q1AgInZO1g8bcQ42tjlgsh499AgAnepdeGge9sZg7nT8O3UO6vfxady9SQQfO6Gt68AWLeZuYBOz+IG+kMxcQUYRkaW60IHwms8ded4imnaJl5dp/8DTiWa6W/tb9gulcBtraz738RYR4i6L1WRfjHIEIfX6jftz4p5bKYeWZXYb+pkYsOJxdUvWxauvrIYnR5q1RmdcqAdKu7EeGthvXrCkF5FEYPbxDTS+y1Y3tqyrH84+gB89H2abbjnsHWg9HG9VIf1Us8QiEvNReQ5eUUn7ZMd2gSa0YSQHreY+vRucOhl3wkBi596g4Vthe1YRln9oR3RNougW6rxDnEx9mrLV7Xg47f7cHp9Gk1+T2DGliJScuTHYgdMt0AxjGceyLgvmeg/yPSqrs2uY6/5Jr84bvIVxreMZr3pahQmA==;wBJ/8nJ9FMQG+xpOPdsMRQ=="

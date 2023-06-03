@@ -41,6 +41,20 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "US seeks to curb investment in Chinese chips, AI and quantum computing"
+    excerpt: "WASHINGTON (Reuters) - New rules under consideration would restrict the flow of U.S. investments and know-how into Chinese companies working on advanced semiconductors, artificial intelligence and quantum computing, a U.S. Treasury official said on ..."
+    publishedDateTime: 2023-06-01T15:41:00Z
+    webUrl: "https://www.reuters.com/article/usa-china-congress-idCAKBN2XM1F6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20230531&t=2&i=1634411747&r=LYNXMPEJ4U0Q7&w=800"
+        width: 800
+        height: 508
+        isCached: true
   - title: "Nowhere for Investors to Hide From AI Hype"
     excerpt: "Investors thinking of putting money into artificial intelligence need to apply a little real intelligence first."
     publishedDateTime: 2023-06-02T11:00:00Z
@@ -54,6 +68,20 @@ related:
       - url: "https://images.wsj.net/im-792763/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "AI Chips: What They Are and Why Investors See Gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
+    publishedDateTime: 2023-06-03T08:55:00Z
+    webUrl: "https://businessjournaldaily.com/ai-chips-what-they-are-and-why-investors-see-gold/"
+    type: article
+    provider:
+      name: Business Journal Daily
+      domain: businessjournaldaily.com
+    quality: 54
+    images:
+      - url: "https://businessjournaldaily.com/wp-content/uploads/2023/06/Nvidia-HGX-H100-module-AP.jpg"
+        width: 925
+        height: 520
         isCached: true
   - title: "Big Tech has convinced investors that AI is the new goldrush"
     excerpt: "Investors rushing to put cash into AI based companies In what could be a huge bubble, investors are rushing to put their savings into companies centred around AI technology.  Time Magazine has reported that such chips have suddenly taken center stage in what some experts consider an AI"

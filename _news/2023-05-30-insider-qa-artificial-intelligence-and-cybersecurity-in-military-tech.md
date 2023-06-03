@@ -71,15 +71,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
-  - title: "Insider Q&A: Artificial intelligence and cybersecurity in military tech"
-    excerpt: "Josh Lospinoso’s first cybersecurity startup was acquired in 2017 by Raytheon/Forcepoint.. His second, Shift5, works with the U.S. military, rail operators and airlines including JetBlue. A 2009 West Point grad and Rhodes Scholar,"
-    publishedDateTime: 2023-05-29T16:11:00Z
-    webUrl: "https://www.chron.com/business/article/insider-q-a-artificial-intelligence-and-18124215.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 17
 
 secured: "GrkbLDx3bUXB42h/K0l/AFBxOP5SkmFSP9fX783sBNq03PcCZrnBlh+u1Mz1BrsNGVG1J0+R7jxMdox6k49dxHNy2Gf4breJuEa3915H8aJewkKcJGHxys5h/vgPrvlVg6rcLGzz2qJ+zk1PWMNJdDVBMDaWdwq8FO+Th8WEJRDEk0Fj5Yyz8BxOkT6RwjcbglAYpHelhm18mdinzuV89JTgzYUa4X2baRJqtORvzLJ7xC03E35cpaCEAg1QL0EskRqRkPkO7dUzkI8lS30GKGw+Cn+S8JFCOzgH1tXRlcRZFH/TczFIY+d7skuaRCyDCDkFc46kTPLIFjOV0779OTMv0g5EV6/AjGNhSvoFaG61J1DjdIVF8mNv2IgLbsirem7mMDSiea8tmowZxWcZhanP/nS+8Qj3W3nrCKq2xeWU8bt3J5Pijxb/voOUF4EAISZiZaWMUbEpgIf85wqafsmKhEoY/k3+SH9M9qh7dRtbF3iI7SZTutqRmEVBTCqVjYNlGlQamPbDkjmydSFVYA==;eUSrezfdR3oPs3b6Ecrfkw=="
 ---

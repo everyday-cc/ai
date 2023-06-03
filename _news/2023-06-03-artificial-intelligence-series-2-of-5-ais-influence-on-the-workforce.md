@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelli
 ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/"
 type: article
-quality: 102
-heat: 222
+quality: 104
+heat: 224
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/647ae893e7fefa617d13b283/0x0.jpg?format=jpg&crop=4500,2107,x0,y201,safe&width=1200"
@@ -192,6 +193,6 @@ related:
       domain: lasvegassun.com
     quality: 19
 
-secured: "FrK2vZiVRFAMdqDRQTIsjEj4SweMhY8k46CzyLKQHu/edvX5uNo1EQAeL13Qyy+Cyp8wkbdg9FjadphCfR2fglqncOCWPbCOrvqQalGfE0qJNPxwU8D432u+H57WHKgX9MZiJ56Txj2BMneUMfEWrxU1oIq8UOlpXhDlVDv14oR72qXHBEOqDiPjjLco1vyCODJd+HhzvXpSfrfIYfiWPBrlx8bMmOal+oUHw0QeDVBWARQGAQuclbSJzDE8N8jlS4oBnRW+UcVEC666fJon/ePjEVEippQS7IbW/2XBQYXq7fM7//I8kAEcCuUrJ893119plPqtoTZ0x6Om1mZAdMIfsI9bwAgY/Tg38rLn7VI=;wAT2dnFl7aVl+PhULNXK/Q=="
+secured: "c+n7xGf9Ly3GHP6jYbnmL+0vvXLpsV9I0pz1m2vlW0Gnfhgbxu0bG/gcilr7dmj4cpJBBZ/b77lPZcp1+exzDS0dfssr5VFKcolI8ojwI3zyhZirJZOSy7b02IQM2lDvjOWaZD98ax2J8CH9vX671VWxujTFacglJe0RThhfI7Lw1hVrWratBJnYbuZKcHYglYiS1y7KV4L7rqziunrmjkwDrAStIHXUh9fMgwm6iY4e4qMGdftG0cYg+sd1TTO7hlNF7DQV/NfZdeUjP0mvCLrxE9KCQshfdF0WByqaHrz4m8XvHr51W8GjFkzK8dyuctYSmOnZ0JxHJDi5DN6piQwpnsueW8oq81Bz/xJTY0sRtQGzHFggrhqz4YqvlY0twtWUPJ9FMZi4zcxa1ZdWGj5fR4Aypzyqyp0OksZ4YuCnfTaOZ6hhdW8wpjrwXFJzWZPrXyZ+GTqiPVRAUBvx5rhn4DLlNyOGn1qsFxYt3jg1rosAjzAAChxGF1/Q7OSEIgoKn1iUGs9KhsgVbzSezA==;QDJyenbTe8KvSKL61gZ4Ng=="
 ---
 

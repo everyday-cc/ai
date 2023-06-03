@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-01-goldman-sachs-cash-in-on-the-7-trillion-ai-explosion-by-making-these-15-trades-now.md",
+      "title": "Goldman Sachs: Cash in on the $7 trillion AI explosion by making these 15 trades now",
+      "excerpt": "Goldman Sachs shared 15 buy-rated stocks that have exposure to artificial intelligence as the technology gets increasingly popular and transformative.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/investing-ai-stocks-to-buy-now-options-trades-goldman-sachs-2023-6",
+      "originalUrl": "https://www.businessinsider.com/investing-ai-stocks-to-buy-now-options-trades-goldman-sachs-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6474bec63be3b50019f72dc7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-investors-see-ai-chips-as-new-gold-heres-why.md",
       "title": "Investors See AI Chips as New Gold. Here’s Why",
       "excerpt": "AI chips have suddenly taken center stage in what is considered an AI revolution that could reshape the technology sector—and the world",
@@ -10,7 +62,7 @@
       "originalUrl": "https://time.com/6284046/nvidia-ai-chips-investment/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -307,7 +359,7 @@
       "originalUrl": "https://www.smechannels.com/crowdstrike-to-accelerate-development-of-ai-in-cybersecurity-with-aws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -981,6 +1033,50 @@
       ]
     },
     {
+      "path": "_news/2023-06-01-as-use-of-facial-recognition-tech-grows-so-do-security-concerns.md",
+      "title": "As use of facial recognition tech grows, so do security concerns",
+      "excerpt": "Experts fear the billion-dollar industry's potential for mass surveillance and its lack of safeguards to protect millions of images of real people's faces from theft or alteration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.startribune.com/as-use-of-facial-recognition-technology-grows-so-do-security-concerns/600279118/",
+      "originalUrl": "https://www.startribune.com/as-use-of-facial-recognition-technology-grows-so-do-security-concerns/600279118/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://chorus.stimg.co/24691350/merlin_70921675.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Star Tribune",
+        "domain": "startribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-the-importance-of-diversity-in-finance-ai-why-inclusive-data-and-representation-matter.md",
       "title": "The Importance Of Diversity In Finance AI: Why Inclusive Data And Representation Matter",
       "excerpt": "For all the promise AI offers, it also poses a risk of advancing societal iniquities if organizations don’t use it responsibly.",
@@ -1134,108 +1230,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-climate-change-is-threatening-ketchup-ai-could-help-save-it.md",
-      "title": "Climate Change Is Threatening Ketchup. AI Could Help Save It",
-      "excerpt": "Drought has decimated production of tomato paste—the key ingredient in ketchup—for three years running. AI could save your French fries.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6283762/climate-change-tomatoes-ketchup-ai/",
-      "originalUrl": "https://time.com/6283762/climate-change-tomatoes-ketchup-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://time.com/img/icons/wallet-connect.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-hyro-doubles-down-on-plug-and-play-ai-assistants-with-20m-funding.md",
-      "title": "Hyro doubles down on plug-and-play AI assistants with $20M funding",
-      "excerpt": "Hyro, a company offering plug-and-play AI assistants for enterprises, today raised $20 million in a series B funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/hyro-doubles-down-on-plug-and-play-ai-assistants-with-20m-funding/",
-      "originalUrl": "https://venturebeat.com/ai/hyro-doubles-down-on-plug-and-play-ai-assistants-with-20m-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_734436697-e1685544872753.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

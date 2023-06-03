@@ -2,6 +2,108 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-05-31-climate-change-is-threatening-ketchup-ai-could-help-save-it.md",
+      "title": "Climate Change Is Threatening Ketchup. AI Could Help Save It",
+      "excerpt": "Drought has decimated production of tomato paste—the key ingredient in ketchup—for three years running. AI could save your French fries.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6283762/climate-change-tomatoes-ketchup-ai/",
+      "originalUrl": "https://time.com/6283762/climate-change-tomatoes-ketchup-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://time.com/img/icons/wallet-connect.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-hyro-doubles-down-on-plug-and-play-ai-assistants-with-20m-funding.md",
+      "title": "Hyro doubles down on plug-and-play AI assistants with $20M funding",
+      "excerpt": "Hyro, a company offering plug-and-play AI assistants for enterprises, today raised $20 million in a series B funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/hyro-doubles-down-on-plug-and-play-ai-assistants-with-20m-funding/",
+      "originalUrl": "https://venturebeat.com/ai/hyro-doubles-down-on-plug-and-play-ai-assistants-with-20m-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_734436697-e1685544872753.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-amazon-turns-to-ai-to-weed-out-damaged-goods.md",
       "title": "Amazon Turns to AI to Weed Out Damaged Goods",
       "excerpt": "The company expects artificial intelligence to reduce the number of damaged items moving through fulfillment centers and to speed up deliveries.",
@@ -155,6 +257,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-31-china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures.md",
+      "title": "China warns of artificial intelligence risks, calls for beefed-up national security measures",
+      "excerpt": "The statement underscores the tension between the government’s determination to be technological leaders and concerns about the possible harms of such technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/china-warns-artificial-intelligence-risks-calls-beefed-national-securi-rcna87021",
+      "originalUrl": "https://www.nbcnews.com/news/world/china-warns-artificial-intelligence-risks-calls-beefed-national-securi-rcna87021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230531-xi-jinping-jm-1004-8797e3.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna87021",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna87021",
+      "publishedDateTime": "2023-05-31T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-lg-teams-up-with-canadian-startup-for-ai-chip-development.md",
       "title": "LG teams Up with Canadian startup for AI chip development",
       "excerpt": "Tenstorrent, founded in 2016, specializes in AI computer development, as reported by Yonhap. The CEO, Jim Keller, is a renowned microprocessor engineer celebrated for his achievements at AMD and Apple.",
@@ -248,7 +393,7 @@
       "originalUrl": "https://www.marketwatch.com/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -486,7 +631,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -840,7 +985,7 @@
       "originalUrl": "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1071,162 +1216,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-chinese-leader-xi-jinping-warns-of-ai-risks-to-national-security.md",
-      "title": "Chinese Leader Xi Jinping Warns of AI Risks to National Security",
-      "excerpt": "A meeting headed by party leader and President Xi Jinping on Tuesday urged “dedicated efforts to safeguard political security and improve the security governance of internet data and artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6283663/xi-jinping-warns-ai-risk-national-security/",
-      "originalUrl": "https://time.com/6283663/xi-jinping-warns-ai-risk-national-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://time.com/img/icons/wallet-connect.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T23:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-asm-sees-impact-from-china-chip-curbs-offset-by-ai-driven-demand.md",
-      "title": "ASM Sees Impact From China Chip Curbs Offset by AI-Driven Demand",
-      "excerpt": "Dutch chip gear firm ASM International NV said the impact on its sales from US semiconductor export controls on China is “not a big deal” amid strong demand for chips driven by artificial intelligence applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-05-31/asm-sees-impact-from-china-chip-curbs-offset-by-ai-driven-demand",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-05-31/asm-sees-impact-from-china-chip-curbs-offset-by-ai-driven-demand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWtUlDBoHJr8/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T23:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-ai-is-the-future-of-health-care-but-heres-what-it-can-never-replace.md",
-      "title": "AI is the future of health care, but here's what it can never replace",
-      "excerpt": "AI should be viewed as a tool to assist a physician by removing tedious administrative tasks, enhancing diagnostic capability, and improving patient outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/ai-future-health-care-heres-what-can-never-replace",
-      "originalUrl": "https://www.foxnews.com/opinion/ai-future-health-care-heres-what-can-never-replace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7cd60392-d2ad-44a6-81e7-6e274b66a4ae/2d72dd9f-59e1-4876-970b-40c3f8b45c87/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/ai-future-health-care-heres-what-can-never-replace.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/ai-future-health-care-heres-what-can-never-replace.amp",
-      "publishedDateTime": "2023-05-30T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

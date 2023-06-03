@@ -46,22 +46,6 @@ related:
         isCached: true
   - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
-    publishedDateTime: 2023-05-29T16:00:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-how-to-prepare-hype-2023-may"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-and-generative-ai-in-payments-how-to-prepare-hype-2023-may?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-and-generative-ai-in-payments-how-to-prepare-hype-2023-may?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 80
-    images:
-      - url: "https://i.insider.com/64414647632fda001803ccf4?width=1200&format=jpeg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "ChatGPT and Generative AI in Payments: Reality, Hype, What's Next, and How to Prepare"
-    excerpt: "ChatGPT is the most talked-about technology of 2023 and has caught the attention of payments services providers."
     publishedDateTime: 2023-06-02T16:30:00Z
     webUrl: "https://www.businessinsider.com/chatgpt-in-payments-how-to-prepare-whats-next-reality-hype-2023-june"
     ampWebUrl: "https://www.businessinsider.com/chatgpt-in-payments-how-to-prepare-whats-next-reality-hype-2023-june?amp"
@@ -91,20 +75,6 @@ related:
       - url: "https://i.insider.com/64403454632fda001803b2e0?width=1200&format=jpeg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "ChatGPT takes center stage as students ditch tutors in favor of AI-powered learning"
-    excerpt: "The findings show many students and parents using ChatGPT, with some completely replacing their tutoring sessions with the AI tool."
-    publishedDateTime: 2023-05-29T16:33:00Z
-    webUrl: "https://venturebeat.com/ai/chatgpt-takes-center-stage-students-ditch-tutors-in-favor-of-ai-powered-learning/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/chatGPT-financial-problem.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 718
         isCached: true
   - title: "Your next job may depend on how well you understand AI tools like ChatGPT"
     excerpt: "AI is posing a threat to job security, but workers may need to get acquainted with tools like ChatGPT as fast they can to remain employable."

@@ -135,15 +135,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Talk to the bot? An AI chatbot may be your next therapist"
-    excerpt: "Pandemic stresses led to millions more Americans seeking mental health treatment, so it may prove tempting for insurers to offer up apps and chatbots to meet the mental health parity requirement."
-    publishedDateTime: 2023-05-29T15:39:00Z
-    webUrl: "https://www.benefitspro.com/2023/05/29/an-ai-chatbot-may-be-your-next-therapist-will-it-actually-help-your-mental-health/"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 19
 
 secured: "J3jYSopxWDOqD97LwGf2tLArxkGaRmjkObe0mStmtQj1eDQufagZss2QaSKzRfKtmkg5gZNpAyZSZOY1nrua/fBun0YDgOC7WBD8IUaxzyLwuVxAn3KjoVJ2qYz4Y5NcqaaQnu6bW7HW4vZhxFl62C1J17rVi9AdRkuOk9QxMUmhQobK9dgyc2FIf8v5phvZEf0zqLbxisvBcgJKkjYoRK+E3x7uEZmH1S9gVk7ybPQ0y/sZVcvsO/kt7aan+SqLZMSG+2M8J3SsQL/gThoOvtlDsXmBOfTkvtKMjSX6/9RXFcFZzn/p1gu3/UnoWiN41be65mjo4EpSfxcFMx8pL4wb4bT5EfJyZ7pucGAUNYGe1inljRbdfij6VgekawQX+T2JZQZj4njWDEZpKVw2Wg4GtQThxmjV2Im1ipVTC7YOaUQT/MtxDOJ/y6B2BcoCagiyT2OvH9XpKxMozIqE/0gc0eHkRwjTNhSjV2CaErzefylQnYsSLyAfZ9Rw8wVKi6RkiD4Ozk/gKfyKtZCbeQ==;IDo/jxSh2m87Na47owbu/Q=="
 ---

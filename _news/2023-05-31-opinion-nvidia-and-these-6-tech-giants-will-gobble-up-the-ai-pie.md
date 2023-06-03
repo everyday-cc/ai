@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-and-these-6-tech-giants
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8"
 type: article
 quality: 89
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -102,20 +102,6 @@ related:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/2-bull-photography-tkriu01wdfm-unsplash.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "NVIDIA is upgrading the in-car experience with AI, streaming, and advanced safety features"
-    excerpt: "NVIDIA revealed a new partnership Monday with Taiwanese semiconductor giant MediaTek to enhance the in-car driver experience and make"
-    publishedDateTime: 2023-05-29T16:43:00Z
-    webUrl: "https://electrek.co/2023/05/29/nvidia-upgrading-in-car-experience-ai-software/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/05/nvidia-in-car-experience.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Nvidia Close to $1 Trillion Market Valuation. AI Is Driving the Market."
     excerpt: "Nvidia NVDA +2.54% was closing in on a market valuation of $1 trillion as the chip maker’s stock rose in premarket trading on Tuesday."

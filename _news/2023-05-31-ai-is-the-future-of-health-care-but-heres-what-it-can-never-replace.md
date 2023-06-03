@@ -33,10 +33,10 @@ images:
 related:
   - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
     excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
-    publishedDateTime: 2023-06-01T05:42:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/ai-chips-hot-investors-gold-99749106"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/ai-chips-hot-investors-gold-99749106"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/ai-chips-hot-investors-gold-99749106"
+    publishedDateTime: 2023-06-01T13:10:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
     type: article
     provider:
       name: ABC

@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Michigan woman hospitalized after self-driving Tesla crashes into tree"
-    excerpt: "An Ottawa County woman wound up in the hospital Sunday, May 28, 2023, after she put her Tesla into self-driving mode and the car veered off the roadway, rolled several times and hit a tree, according to Mecosta County Sheriff's office. (MLive file photo)"
-    publishedDateTime: 2023-05-29T16:02:00Z
-    webUrl: "https://www.mlive.com/news/muskegon/2023/05/michigan-woman-hospitalized-after-self-driving-tesla-crashes-into-tree.html?outputType=amp"
-    ampWebUrl: "https://www.mlive.com/news/muskegon/2023/05/michigan-woman-hospitalized-after-self-driving-tesla-crashes-into-tree.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/muskegon/2023/05/michigan-woman-hospitalized-after-self-driving-tesla-crashes-into-tree.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 59
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/V24HYLTACBAALNXN6KO5JHMACQ.jpg"
-        width: 960
-        height: 673
-        isCached: true
   - title: "Hardware 4.0 spotted in Tesla Model Y, self-driving suite still unofficial"
     excerpt: "The Tesla Model Y is getting Hardware 4.0, an upgraded version of the electric vehicle brand's sensor and software package"
     publishedDateTime: 2023-05-30T20:27:00Z

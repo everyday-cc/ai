@@ -2,6 +2,109 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-05-20-high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit.md",
+      "title": "High-Stakes: Generative AI Shakes Global Diplomacy At Japan’s 2023 G7 Summit",
+      "excerpt": "The G7 in Japan discussions are focused on the need for regulations to keep up with the rapid advancements in AI. Our goal is to start a global dialogue on the best way to adopt generative AI. It's important to start this conversation now before the AI wave overtakes us.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2023/05/19/high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2023/05/19/high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6467ae6159db0ac6342e9948/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2023/05/19/high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2023/05/19/high-stakes-generative-ai-shakes-global-diplomacy-at-japans-2023-g7-summit/amp/",
+      "publishedDateTime": "2023-05-19T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-which-artificial-intelligence-stocks-are-institutional-investors-buying.md",
+      "title": "Which Artificial Intelligence Stocks Are Institutional Investors Buying?",
+      "excerpt": "We are currently witnessing ever-increasing use cases and growing acceptance of AI in every walk of life. Here are 7 AI stocks getting institutional attention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/investor-hub/article/which-artificial-intelligence-stocks-are-institutional-investors-buying/",
+      "originalUrl": "https://www.forbes.com/sites/investor-hub/article/which-artificial-intelligence-stocks-are-institutional-investors-buying/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646699007031f328f841e295/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-19T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-05-20-apple-looking-to-hire-machine-learning-engineers-with-an-interest-in-generative-ai.md",
       "title": "Apple looking to hire machine learning engineers with an interest in generative AI",
       "excerpt": "Apple's Technology Development Group (TDG) is looking for Machine-Learning engineers with a background and/or interest in Generative AI! You will be leveraging innovative Generative models to build fundamental applications on top of Apple's most advanced ...",
@@ -1091,102 +1194,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer.md",
-      "title": "Meta bets big on AI with custom chips — and a supercomputer",
-      "excerpt": "Meta wants the world -- and particularly investors -- to know it's going big or going home where it concerns AI and the hardware to build it.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/",
-      "originalUrl": "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-twist.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/18/meta-bets-big-on-ai-with-custom-chips-and-a-supercomputer/amp/",
-      "publishedDateTime": "2023-05-18T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-19-adopting-artificial-intelligence-things-leaders-need-to-know.md",
-      "title": "Adopting Artificial Intelligence: Things Leaders Need to Know",
-      "excerpt": "Artificial intelligence (AI ... from movie recommendations to self-driving cars, and are expected to have a major impact on businesses in the coming years. Software leaders should be able to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/05/AI-leaders-need-know/",
-      "originalUrl": "https://www.infoq.com/news/2023/05/AI-leaders-need-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2023/05/AI-leaders-need-know/en/headerimage/adopting-artificial-intelligenc-things-leaders-need-to-know-header-1684308986874.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-18T15:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

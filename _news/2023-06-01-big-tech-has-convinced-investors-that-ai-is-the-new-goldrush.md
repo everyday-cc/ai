@@ -39,6 +39,20 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "US seeks to curb investment in Chinese chips, AI and quantum computing"
+    excerpt: "WASHINGTON (Reuters) - New rules under consideration would restrict the flow of U.S. investments and know-how into Chinese companies working on advanced semiconductors, artificial intelligence and quantum computing, a U.S. Treasury official said on ..."
+    publishedDateTime: 2023-06-01T15:41:00Z
+    webUrl: "https://www.reuters.com/article/usa-china-congress-idCAKBN2XM1F6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20230531&t=2&i=1634411747&r=LYNXMPEJ4U0Q7&w=800"
+        width: 800
+        height: 508
+        isCached: true
   - title: "Nowhere for Investors to Hide From AI Hype"
     excerpt: "Investors thinking of putting money into artificial intelligence need to apply a little real intelligence first."
     publishedDateTime: 2023-06-02T11:00:00Z
@@ -68,6 +82,20 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/06/02/600x338/Nvidia_1685708783326_1685708790004.JPG"
         width: 599
         height: 338
+        isCached: true
+  - title: "AI Chips: What They Are and Why Investors See Gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
+    publishedDateTime: 2023-06-03T08:55:00Z
+    webUrl: "https://businessjournaldaily.com/ai-chips-what-they-are-and-why-investors-see-gold/"
+    type: article
+    provider:
+      name: Business Journal Daily
+      domain: businessjournaldaily.com
+    quality: 54
+    images:
+      - url: "https://businessjournaldaily.com/wp-content/uploads/2023/06/Nvidia-HGX-H100-module-AP.jpg"
+        width: 925
+        height: 520
         isCached: true
 
 secured: "O9EEsRTIhvel5nc+MbIpbr6B3r+uwZ0DYEf7QFZnpnNBk7haVx1scIuvCuuOm8uAhAdvJbz+WKvFGql71xexfOYZvRXqPpsStI1QFS8qC9CppPeCxhcFpTp1slDdIiSEMbZkKXc/Q5Zeh6ki3zfEaiDuNAjZpxV6hmMAWe3s3IX/nDsOUdIQZVnpLSGsLXjBY5/vZ6u9hgnCE11HipzMjDXShOpgyL9DciB8PAeq5ZoXb1JkTAJXlzfhSngT02MZopOApeD65ykr1vrwMRCBrBU/7G3iY2l5FHC7lLetoCr1h5KSrnEb7ZHSoPUwsmOKFnCGKGBtHgrqsSiUl2+R7uRzQ+zGECjbUJqOlvG1eCVRvmxYY1r9zU531vpSnVqBDq6+qRD+DApY7gYpCWrm3OeFEcSwqyiNi8BKE1Y946pgCTJQV2vVm2ah5dMxqC0cW7NBYczmPe7Xo3WsuzWAMeKIzzI8d1DJRfX4iEGfLrkQCg99z3K+CqUm1RU5hngwCuOy2lLjS7DAfM8z6liX+w==;rWy/RnRXVgZ/4MLcqr+17g=="

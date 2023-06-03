@@ -29,10 +29,10 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese Leader Xi Jinping Warns of AI Risks to National Security"
-    excerpt: "A meeting headed by party leader and President Xi Jinping on Tuesday urged “dedicated efforts to safeguard political security and improve the security governance of internet data and artificial intelligence,"
-    publishedDateTime: 2023-05-31T06:52:00Z
-    webUrl: "https://time.com/6283663/xi-jinping-warns-ai-risk-national-security/"
+  - title: "Investors See AI Chips as New Gold. Here’s Why"
+    excerpt: "AI chips have suddenly taken center stage in what is considered an AI revolution that could reshape the technology sector—and the world"
+    publishedDateTime: 2023-06-01T07:53:00Z
+    webUrl: "https://time.com/6284046/nvidia-ai-chips-investment/"
     type: article
     provider:
       name: Time
@@ -43,77 +43,64 @@ related:
         width: 256
         height: 256
         isCached: true
-  - title: "China warns of artificial intelligence risks, calls for beefed-up national security measures"
-    excerpt: "China has warned of the risks posed by advances in artificial intelligence while calling for heightened national security measures"
-    publishedDateTime: 2023-05-31T09:18:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716269"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716269"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716269"
+  - title: "Nowhere for Investors to Hide From AI Hype"
+    excerpt: "Investors thinking of putting money into artificial intelligence need to apply a little real intelligence first."
+    publishedDateTime: 2023-06-02T11:00:00Z
+    webUrl: "https://www.wsj.com/articles/nowhere-for-investors-to-hide-from-ai-hype-7cb52fd7"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 63
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://s.abcnews.com/images/International/wirestory_00a38e550ef6b4ac12cd1fd418363d2b_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://images.wsj.net/im-792763/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "China warns of risks from artificial intelligence, calls for beefed-up national security measures"
-    excerpt: "BEIJING -- China warns of risks from artificial intelligence, calls for beefed-up national security measures."
-    publishedDateTime: 2023-05-31T05:27:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/china-warns-risks-artificial-intelligence-calls-beefed-national-99716270"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/china-warns-risks-artificial-intelligence-calls-beefed-national-99716270"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/china-warns-risks-artificial-intelligence-calls-beefed-national-99716270"
+  - title: "Nowhere for Investors to Hide From AI Hype"
+    excerpt: "This week, chip maker Nvidia was briefly worth more than $1 trillion, thanks to investor excitement about demand for its chips created by so-called “generative AI,\" the technology behind ChatGPT. Smaller AI-related stocks have also soared as investors search for the big winner from the latest fashionable theme."
+    publishedDateTime: 2023-06-02T23:59:00Z
+    webUrl: "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype-11685708705195.html"
+    ampWebUrl: "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 61
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://www.livemint.com/lm-img/img/2023/06/02/600x338/Nvidia_1685708783326_1685708790004.JPG"
+        width: 599
+        height: 338
         isCached: true
-  - title: "China’s Xi Jinping calls for greater state control of AI to counter ‘dangerous storms’"
-    excerpt: "President says national security threats are increasing and urged greater oversight of artificial intelligence and data security"
-    publishedDateTime: 2023-05-31T23:42:00Z
-    webUrl: "https://www.theguardian.com/world/2023/jun/01/chinas-xi-jinping-calls-for-greater-state-control-of-ai-to-counter-dangerous-storms"
-    ampWebUrl: "https://amp.theguardian.com/world/2023/jun/01/chinas-xi-jinping-calls-for-greater-state-control-of-ai-to-counter-dangerous-storms"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/jun/01/chinas-xi-jinping-calls-for-greater-state-control-of-ai-to-counter-dangerous-storms"
+  - title: "AI Chips: What They Are and Why Investors See Gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
+    publishedDateTime: 2023-06-03T08:55:00Z
+    webUrl: "https://businessjournaldaily.com/ai-chips-what-they-are-and-why-investors-see-gold/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 49
+      name: Business Journal Daily
+      domain: businessjournaldaily.com
+    quality: 54
     images:
-      - url: "https://i.guim.co.uk/img/media/4268df96cffff87537b9ff983eda098f6e057beb/0_0_3094_2000/master/3094.jpg?width=620&quality=85&auto=format&fit=max&s=61243aa6e5043dc82087170825fb008d"
+      - url: "https://businessjournaldaily.com/wp-content/uploads/2023/06/Nvidia-HGX-H100-module-AP.jpg"
+        width: 925
+        height: 520
+        isCached: true
+  - title: "Big Tech has convinced investors that AI is the new goldrush"
+    excerpt: "Investors rushing to put cash into AI based companies In what could be a huge bubble, investors are rushing to put their savings into companies centred around AI technology.  Time Magazine has reported that such chips have suddenly taken center stage in what some experts consider an AI"
+    publishedDateTime: 2023-06-01T09:33:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57006-big-tech-has-convinced-investors-that-ai-is-the-new-goldrush"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/a293d8e24c55b90b471899afc06ee65a_L.jpg"
         width: 620
-        height: 401
+        height: 431
         isCached: true
-  - title: "AI in China: Xi aims for balance between progress and protection"
-    excerpt: "China calls for heightened national security measures for artificial intelligence. A meeting chaired by President Xi Jinping emphasized the need to safeguard political security and improve security governance of internet data and artificial intelligence."
-    publishedDateTime: 2023-05-31T15:57:00Z
-    webUrl: "https://www.csmonitor.com/World/Asia-Pacific/2023/0531/AI-in-China-Xi-aims-for-balance-between-progress-and-protection"
-    type: article
-    provider:
-      name: Christian Science Monitor
-      domain: csmonitor.com
-    quality: 37
-    images:
-      - url: "https://images.csmonitor.com/csm/2023/05/1156877_1_053123-China-AI_standard.jpg?alias=standard_900x600"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Alert: China warns of risks from artificial intelligence, calls for beefed-up national security measures"
-    excerpt: "China warns of risks from artificial intelligence, calls for beefed-up national security measures."
-    publishedDateTime: 2023-05-31T05:19:00Z
-    webUrl: "https://www.chron.com/news/world/article/alert-china-warns-of-risks-from-artificial-18127134.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 17
 
 secured: "1fbcMt8Wd+mU7Hs5EGHZHN2pJCJDYu0nqQdBU18+DZua3gDPHAit8Rqr/Q/FowCBCv2t/CQ9W84EgUi9/tTlxAj+mokOslcMMzxmFTD7jKvb04uzChjZN8wEhI1Y0BYJmpdEj0IIF12aToBtt6DwVM9YtlwQImKqa6GRuHppXUgP157n+bM5GBLcDoWgKvdiSa0Djn6oUVhXe9hL0iaJlMB0mDRazRhTi6Psc/WORp9tSWa+gKYkFkAbyigNLvaX3F6Re61MZST/aNZKE5FDor6lWiH4q+w3K5zCGUBLaUfCn1gCMrZ0AR1pKITRFHpaFRxtH8R9QnUetvia8NhhRNRAUz0Dsg6TLovCJR3/GsE=;VjEUJQ7/kNOyyDfgiBXXug=="
 ---
