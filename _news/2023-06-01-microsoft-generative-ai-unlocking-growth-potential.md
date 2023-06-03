@@ -1,22 +1,28 @@
 ---
 category: news
-title: "The Rise And Rise of NVIDIA"
-excerpt: "Taking another step towards becoming the 7th company in the world to reach a trillion-dollar market cap, NVIDIA and SoftBank have partnered to drive generative AI applications in Japan. SoftBank will use NVIDIA’s GH200 Grace Hopper superchip in its data centers to develop 5G/6G applications,"
-publishedDateTime: 2023-05-30T08:08:00Z
-originalUrl: "https://analyticsindiamag.com/the-rise-and-rise-of-nvidia/"
-webUrl: "https://analyticsindiamag.com/the-rise-and-rise-of-nvidia/"
+title: "Microsoft: Generative AI Unlocking Growth Potential"
+excerpt: "Microsoft's AI initiatives, including the availability of OpenAI's GPT-4 in Azure, OpenAI Service and the introduction of Azure AI Studio can potentially drive significant growth and expand ..."
+publishedDateTime: 2023-05-31T23:32:00Z
+originalUrl: "https://seekingalpha.com/article/4608596-microsoft-generative-ai-unlocking-growth-potential"
+webUrl: "https://seekingalpha.com/article/4608596-microsoft-generative-ai-unlocking-growth-potential"
 type: article
-quality: 4
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Analytics India Magazine
-  domain: analyticsindiamag.com
+  name: Seeking Alpha
+  domain: seekingalpha.com
 
 topics:
-  - Google AI
+  - Microsoft AI
   - AI
+
+images:
+  - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1464561575/image_1464561575.jpg?io=getty-c-w1536"
+    width: 1536
+    height: 864
+    isCached: true
 
 related:
   - title: "Generative AI $7 Trillion Ecosystem: Invest In Nvidia, Microsoft, Adobe And More"
@@ -58,20 +64,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
-  - title: "Microsoft: Generative AI Unlocking Growth Potential"
-    excerpt: "Microsoft's AI initiatives, including the availability of OpenAI's GPT-4 in Azure, OpenAI Service and the introduction of Azure AI Studio can potentially drive significant growth and expand ..."
-    publishedDateTime: 2023-05-31T23:32:00Z
-    webUrl: "https://seekingalpha.com/article/4608596-microsoft-generative-ai-unlocking-growth-potential"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1464561575/image_1464561575.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 864
-        isCached: true
   - title: "AI demand briefly catapults Nvidia into $1 trillion club"
     excerpt: "The total value of computer chip and graphics processing card manufacturer Nvidia briefly touched $1 trillion on May 30 as demand for the company’s artificial intelligence tech surged into overdrive."
     publishedDateTime: 2023-05-31T00:40:00Z
@@ -146,7 +138,16 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 12
+  - title: "The Rise And Rise of NVIDIA"
+    excerpt: "Taking another step towards becoming the 7th company in the world to reach a trillion-dollar market cap, NVIDIA and SoftBank have partnered to drive generative AI applications in Japan. SoftBank will use NVIDIA’s GH200 Grace Hopper superchip in its data centers to develop 5G/6G applications,"
+    publishedDateTime: 2023-05-30T08:08:00Z
+    webUrl: "https://analyticsindiamag.com/the-rise-and-rise-of-nvidia/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 4
 
-secured: "EToMGs933VxJ88ykTH4I/f93wqvpKe28rg4L7SO16HvxaaXBqt2CW6XB+Zcjob/0jvlXFTaNkWVh4GFW23VbEB3MnP1clqDoBOtkFlNaXrOnrcz14VlkZ8eID2nH5CJlzlUta45sVn3J6qiz/vEjHebAmA06w1FQ0V19LoqltXhbCIVssUWiZ+N1GCawRc2V+072NJRZjHiOiVgGyyRfF7tLm5Tg+2M/Kgl1Xy4P0hDJ+mIsHyL4l+1Afux9UucyZgYoSH0hLORHEflfOiUrq6Cy/BfyLLVmLl7lc3Nwktf3yoTn9qAaDIj+L0oUbbTicVFzU1kv68XddGOCa7SkwziPiBn3xv7IH73R9xzT9iwjrof7iT/5BZHNsz4ncfrjxo3plNQBn81F2ctzLSo/3PRnQHJ0c8NZVtSYnR+x+GR4KsZheM+KhYdC+YGzq0KaO8YI3rOivyjqza6G8JejpO2yAn4vceHw6+BoVN7XYE7NFRbu1486GHofVGC5XouRd5ExmAd9S/PGBKDnQ1w5sg==;NhdylftoAI2GhWJCqvARSg=="
+secured: "nJyTpUEornwa8U4Q2GauxuLljxG3Al8eresLsmJBBL9lrfXPW08zrLsobsvtY7ZI6DjfOt1BcknIrRrpN7R7WgLShglHCCBbT29pWASXoYfYdy63u+unf36VFAEHj6dlNVSiJzqcF0t61yhEmFHgKTuPOTdWZaZSxMpnxwIvmfXeZZOeRQGWjIjNXSyEak/1CPJdZwzsF1NokVtn9+KI6HB9fEBuruF9WHFI1wo7lyL7wvDjrZv8FYS8eKRNeP4E1gOVZhfrfAVx1KRxgvPcqscyx8swo6gAbSqXqloMxAtbkl4QLusM51mJlGQ80sqabwgdSi3gXHC/htjP582raeTmcdTUEM2x/zCRRwmmASw=;j6BsdI+wPmBpA4a8dkNoMA=="
 ---
 

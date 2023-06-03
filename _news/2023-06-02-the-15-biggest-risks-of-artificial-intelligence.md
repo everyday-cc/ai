@@ -62,6 +62,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "How AI Will Revolutionize Communications"
+    excerpt: "The bottom line is that it’s time to face the AI revolution head-on and seize the opportunities it offers. In the fast-paced world of communications, standing still is not an option. Learn how to leverage AI and start to unlock new levels of impact."
+    publishedDateTime: 2023-06-03T17:17:00Z
+    webUrl: "https://www.benzinga.com/news/23/06/32704273/how-ai-will-revolutionize-communications"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32704273"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32704273"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/06/03/portadas_javi_benzinga41.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "When AI Needs A Human-In-The-Loop"
     excerpt: "In her role as senior director of product management for SS&C Blue Prism, Kavitha Chennupati is upbeat about automation and sees a specific space for humans-in-the-loop being brought in later on in the AI deployment process. With specific reference to the process of IDP (Intelligent Document Processing) which transcends into content processing."
     publishedDateTime: 2023-06-02T13:34:00Z

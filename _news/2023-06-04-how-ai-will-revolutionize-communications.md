@@ -1,25 +1,29 @@
 ---
 category: news
-title: "When AI Needs A Human-In-The-Loop"
-excerpt: "In her role as senior director of product management for SS&C Blue Prism, Kavitha Chennupati is upbeat about automation and sees a specific space for humans-in-the-loop being brought in later on in the AI deployment process. With specific reference to the process of IDP (Intelligent Document Processing) which transcends into content processing."
-publishedDateTime: 2023-06-02T13:34:00Z
-originalUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/06/02/when-ai-needs-a-human-in-the-loop/"
-webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/06/02/when-ai-needs-a-human-in-the-loop/"
+title: "How AI Will Revolutionize Communications"
+excerpt: "The bottom line is that it’s time to face the AI revolution head-on and seize the opportunities it offers. In the fast-paced world of communications, standing still is not an option. Learn how to leverage AI and start to unlock new levels of impact."
+publishedDateTime: 2023-06-03T17:17:00Z
+originalUrl: "https://www.benzinga.com/news/23/06/32704273/how-ai-will-revolutionize-communications"
+webUrl: "https://www.benzinga.com/news/23/06/32704273/how-ai-will-revolutionize-communications"
+ampWebUrl: "https://www.benzinga.com/amp/content/32704273"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32704273"
 type: article
-quality: 47
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
+
+images:
+  - url: "https://cdn.benzinga.com/files/images/story/2023/06/03/portadas_javi_benzinga41.jpg?width=1200&height=800&fit=crop"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "The Ethics Of Communication Between AI And Humans"
@@ -70,22 +74,15 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "How AI Will Revolutionize Communications"
-    excerpt: "The bottom line is that it’s time to face the AI revolution head-on and seize the opportunities it offers. In the fast-paced world of communications, standing still is not an option. Learn how to leverage AI and start to unlock new levels of impact."
-    publishedDateTime: 2023-06-03T17:17:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32704273/how-ai-will-revolutionize-communications"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32704273"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32704273"
+  - title: "When AI Needs A Human-In-The-Loop"
+    excerpt: "In her role as senior director of product management for SS&C Blue Prism, Kavitha Chennupati is upbeat about automation and sees a specific space for humans-in-the-loop being brought in later on in the AI deployment process. With specific reference to the process of IDP (Intelligent Document Processing) which transcends into content processing."
+    publishedDateTime: 2023-06-02T13:34:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/06/02/when-ai-needs-a-human-in-the-loop/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/06/03/portadas_javi_benzinga41.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "AI pioneers claim AI could bring about the extinction of humanity"
     excerpt: "The Centre for AI Safety has published a statement that emphasises the need for implementing appropriate AI risk-reducing controls."
     publishedDateTime: 2023-05-31T07:51:00Z
@@ -152,6 +149,6 @@ related:
       domain: foreignaffairs.com
     quality: 19
 
-secured: "oMaSSeuLwIDWpZ1CKuKe3AEjrXpuRFvmgWRGV3w3cQz0/svUpWzshGSBLuo4IsJZW//thc4qMp12WzEE2E7WKnzHp9MHIqxF+DYNyP+sUJamc+iXmfvtDKl97DIhFeAZhyvNQFb0tDAg01XIB6oLO+XP3ytDMGG08hXgiAiSFccQgx6YX0+K8yf5zjgHc5N8GFn+Pi3OBhmtp+vho6SvEmitoFqQ5mKX3cyK9DEfRSm7eI36Mgd3j1Y4N9i4AD/lAfSGd5SdZiXHmEOBLBzqnr3rZMRqj3iUJFGIZVs3WXSRbI/URA5Q2WLUlF8vu/3jd7UuuJ2qkj7Pz9uexTH/yfx8dgDUyyj4FF97+oSAfp54aOmUpaVxz7jhORiYv6BkKdO+cOMBprB7GyMVrQEbdogyyyWxlgp/oZrM8PBCb4sK1kJsY7ZA2eqawlEdpLo6NuZYOmSfSWE4bQzOZF5pS6MppcUTBSAvOZTSuJ/bm0FROypMp5TVx8suaxoW+jafwvME1cONinzvDnEdlcDqCA==;w2qi6vhjgvMcmFEzEnpBZQ=="
+secured: "tRarbvGad6RFUN05ZA2dhAdF9tB6kT5Yi/f+mqsjfTYuxCFBjLRo9hIIkKw3elg1WqleBeYa7j9XFtML80dhABIbijDC4Bx7xqHJN4RernpEBoEZXH9Ihx7tYwWr/OFhPbQNPYuPcltiw1ZjyQKaVoL9yaQVAltWF3hO80lR4uBhROhSXP4fevc0pTUiIbKzYk35SGqnEMzVFd2dki2p8TkDH7FkHCXth2lUg5q3qKXKrgEEHvDY0VXzxiWQDk8V3H8n3al2i8AO/NH97xTgr0C4VJcMTdFf8L5h2Uw59uWinLGINbIpamA5HGYvmAfuGocw6CNZx9GWT3SUoEJA87tL4A2Y42BqBVOFVIZwghk=;9czXtriyAmsvXqRAf2YX4A=="
 ---
 

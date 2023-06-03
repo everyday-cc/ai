@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Australia lagging behind on AI regulation"
-    excerpt: "Australia is at risk of falling behind when it comes to artificial intelligence (AI) regulation as its uses become more apparent every day and major economic blocs start carving out dedicated laws to govern the powerful technology."
-    publishedDateTime: 2023-05-30T00:46:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/australia-lagging-behind-on-ai-regulation.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/ai-regulation-blocks.jpg"
-        width: 691
-        height: 389
-        isCached: true
   - title: "The right-wing origins of Australia’s indigenous Voice"
     excerpt: "A book by two central advocates of the Labor government’s Voice scheme shows that, far from being a grassroots movement, it originated as a bid to head off anger and disaffection among ordinary indigenous people."
     publishedDateTime: 2023-05-31T04:32:00Z

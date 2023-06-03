@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "MediaTek Adopts Nvidia Tech for Automotive AI and Chips"
-    excerpt: "The Taiwanese chipmaker, a rival to Qualcomm Inc. in equipping smartphones with silicon, announced it will integrate new Nvidia graphics hardware and AI technologies in its forthcoming cabin solutions. San Diego-based Qualcomm, along with Nvidia ..."
-    publishedDateTime: 2023-05-29T23:37:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-05-29/mediatek-adopts-nvidia-tech-for-automotive-ai-and-chips"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 84
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igA.RuE918aI/v1/1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft Has Launched “Jugalbandi”—A New Generative AI App for India"
     excerpt: "India, home to more than 1.4 billion people, is an incredibly ripe market for digital and AI-based innovation."
     publishedDateTime: 2023-05-31T10:00:00Z
@@ -69,6 +55,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
+  - title: "Microsoft: Generative AI Unlocking Growth Potential"
+    excerpt: "Microsoft's AI initiatives, including the availability of OpenAI's GPT-4 in Azure, OpenAI Service and the introduction of Azure AI Studio can potentially drive significant growth and expand ..."
+    publishedDateTime: 2023-05-31T23:32:00Z
+    webUrl: "https://seekingalpha.com/article/4608596-microsoft-generative-ai-unlocking-growth-potential"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1464561575/image_1464561575.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 864
+        isCached: true
   - title: "AI demand briefly catapults Nvidia into $1 trillion club"
     excerpt: "The total value of computer chip and graphics processing card manufacturer Nvidia briefly touched $1 trillion on May 30 as demand for the company’s artificial intelligence tech surged into overdrive."
     publishedDateTime: 2023-05-31T00:40:00Z

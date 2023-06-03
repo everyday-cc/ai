@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/accelerating-ai-innovation-the-future-of-
 webUrl: "https://www.ibm.com/blog/accelerating-ai-innovation-the-future-of-banking-depends-on-core-modernization/"
 type: article
 quality: 114
-heat: 285
+heat: 284
 published: true
 
 provider:

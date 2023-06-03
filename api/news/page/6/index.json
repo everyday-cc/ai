@@ -2,109 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-05-30-srg-technology-drives-global-software-services-with-ibm-cloud-vpc-under-the-hood.md",
-      "title": "SRG Technology drives global software services with IBM Cloud VPC under the hood",
-      "excerpt": "SRGT chose IBM Cloud VPC for a new cloud platform that offered both flexibility and security for hosting its client-facing applications. \nThe post SRG Technology drives global software services with IBM Cloud VPC under the hood appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/srg-technology-drives-global-software-services-with-ibm-cloud-vpc-under-the-hood/",
-      "originalUrl": "https://www.ibm.com/blog/srg-technology-drives-global-software-services-with-ibm-cloud-vpc-under-the-hood/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/05/029a5404copy.lr_-scaled.jpg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T09:51:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-amperes-ampereone-wants-to-achieve-chip-nirvana-more-datacenter-compute-for-less-power.md",
-      "title": "Ampere’s AmpereOne Wants To Achieve Chip Nirvana: More Datacenter Compute For Less Power",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead examines Ampere’s new milestone, which is unique and undoubtedly disruptive to all the datacenter CPU and SoC players.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/30/amperes-ampereone-wants-to-achieve-chip-nirvana-more-datacenter-compute-for-less-power/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/30/amperes-ampereone-wants-to-achieve-chip-nirvana-more-datacenter-compute-for-less-power/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647626c58c1e7ad3d4996727/0x0.jpg?format=jpg&width=1200",
-          "width": 881,
-          "height": 656,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/30/amperes-ampereone-wants-to-achieve-chip-nirvana-more-datacenter-compute-for-less-power/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/30/amperes-ampereone-wants-to-achieve-chip-nirvana-more-datacenter-compute-for-less-power/amp/",
-      "publishedDateTime": "2023-05-30T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-30-ive-tested-a-lot-of-ai-tools-for-work-these-are-my-5-favorite-so-far.md",
       "title": "I've tested a lot of AI tools for work. These are my 5 favorite so far",
       "excerpt": "Grammarly is a tool that's often overlooked. The platform is known for its ability to check for spelling, grammar, conciseness, and more in your everyday writing. Although it excels at these tasks, the tool can do so much more.",
@@ -1249,6 +1146,92 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-29-drone-nerds-to-feature-uav-platforms-at-energy-drone-and-robotics-summit.md",
+      "title": "Drone Nerds to Feature UAV Platforms at Energy Drone and Robotics Summit",
+      "excerpt": "Drone Nerds, an enterprise drone solutions provider, will attend the 7th Annual Energy Drone and Robotics Summit in Houston, Texas. The Energy Drone & Robotics",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/05/g32614299/drone-nerds-to-feature-uav-platforms-at-energy-drone-and-robotics-summit",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/g32614299/drone-nerds-to-feature-uav-platforms-at-energy-drone-and-robotics-summit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32614299",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32614299",
+      "publishedDateTime": "2023-05-29T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-29-ai-firms-scramble-for-power-as-chip-demand-outpaces-supply.md",
+      "title": "AI Firms Scramble for Power as Chip Demand Outpaces Supply",
+      "excerpt": "AI firms are grappling with a shortage of chips that are critical to developing and improving AI systems. The shortfall of the much-needed advanced graphics processing units (GPUs",
+      "sourceUrl": null,
+      "webUrl": "https://247wallst.com/technology-3/2023/05/29/ai-firms-scramble-for-power-as-chip-demand-outpaces-supply/",
+      "originalUrl": "https://247wallst.com/technology-3/2023/05/29/ai-firms-scramble-for-power-as-chip-demand-outpaces-supply/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://247wallst.com/wp-content/uploads/2022/10/imageForEntry6-ZXZ.jpg?w=400",
+          "width": 400,
+          "height": 224,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://247wallst.com/technology-3/2023/05/29/ai-firms-scramble-for-power-as-chip-demand-outpaces-supply/amp/",
+      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2023/05/29/ai-firms-scramble-for-power-as-chip-demand-outpaces-supply/amp/",
+      "publishedDateTime": "2023-05-29T05:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "24/7 Wall St",
+        "domain": "247wallst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

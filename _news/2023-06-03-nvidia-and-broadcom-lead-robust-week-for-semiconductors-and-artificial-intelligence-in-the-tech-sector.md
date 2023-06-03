@@ -208,20 +208,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "MediaTek teams up with Nvidia for auto solutions"
-    excerpt: "There has been speculation that MediaTek was in talks with Nvidia to develop chips for Windows on Arm notebook computers and for its first graphics processing unit (GPU). “AI and accelerated computing are fueling the transformation of the entire auto ..."
-    publishedDateTime: 2023-05-30T00:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/biz/archives/2023/05/30/2003800626"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 24
-    images:
-      - url: "https://www.taipeitimes.com/images/2023/05/30/p12-230530-601.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Nvidia, The World's Newest, AI-amped Tech Giant"
     excerpt: "Nvidia, a chip technology company, became a trillion dollar enterprise this week and the world’s newest tech giant. Here are a few key facts about the little-known firm."
     publishedDateTime: 2023-05-31T17:18:00Z

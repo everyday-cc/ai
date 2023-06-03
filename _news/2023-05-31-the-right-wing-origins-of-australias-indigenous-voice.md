@@ -41,20 +41,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Australia lagging behind on AI regulation"
-    excerpt: "Australia is at risk of falling behind when it comes to artificial intelligence (AI) regulation as its uses become more apparent every day and major economic blocs start carving out dedicated laws to govern the powerful technology."
-    publishedDateTime: 2023-05-30T00:46:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/australia-lagging-behind-on-ai-regulation.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/ai-regulation-blocks.jpg"
-        width: 691
-        height: 389
-        isCached: true
   - title: "Dreaming of a brighter future, Voice advocates call for Australia’s healing"
     excerpt: "Linda Burney has told an audience in Canberra the story of Australia is incomplete, starting with what the constitution does not acknowledge."
     publishedDateTime: 2023-05-31T00:21:00Z
