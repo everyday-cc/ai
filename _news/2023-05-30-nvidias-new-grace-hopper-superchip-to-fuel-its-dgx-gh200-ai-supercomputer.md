@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "What’s Inside Nvidia’s AI Supercomputer? Powerful Chips and a Lot of Memory."
+    excerpt: "This past Monday, chip giant Nvidia which has seen its shares nearly triple to over $400 on rising demand for AI, announced its new DGX GH200 AI supercomputer powered by its GH200 Grace Hopper superchips. That’s a lot of letters, numbers, and supers."
+    publishedDateTime: 2023-06-02T23:35:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-ai-supercomputer-chips-c3ac4da0"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 71
+    images:
+      - url: "https://images.barrons.com/im-793870/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "NVIDIA announces new class of supercomputer and other AI-focused data center services"
     excerpt: "The NVIDIA DGX supercomputer could be the top of its class. Learn what this may mean for enterprise AI and high-performance computing."
     publishedDateTime: 2023-06-01T04:07:00Z
@@ -35,7 +51,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 62
+    quality: 64
     images:
       - url: "https://www.techrepublic.com/wp-content/uploads/2022/09/nvidia-omniverse-cloud.jpeg"
         width: 1200
@@ -56,20 +72,6 @@ related:
       - url: "https://static.toiimg.com/photo/msid-100621670/100621670.jpg"
         width: 1920
         height: 1280
-        isCached: true
-  - title: "Nvidia to build Israel's most potent AI supercomputer"
-    excerpt: "Nvidia is investing hundreds of millions in building Israel's strongest AI supercomputer, Israel-1, promising breakthroughs in AI applications."
-    publishedDateTime: 2023-05-29T17:36:00Z
-    webUrl: "https://interestingengineering.com/innovation/nvidia-to-build-israels-most-potent-ai-supercomputer"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/29/image/jpeg/jEpzwifYF4BB69ZwTB9uBNJSgOcgWayWXzWHUEZr.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Nvidia’s GH200 AI supercomputers could build ‘giant’ AI models more powerful than GPT-4"
     excerpt: "Nvidia have just revealed their DGX GH200 AI supercomputer, far surpassing the competition, and potentially leading to the development of GPT-5."

@@ -29,10 +29,26 @@ images:
     isCached: true
 
 related:
-  - title: "Investors See AI Chips as New Gold. Here’s Why"
-    excerpt: "AI chips have suddenly taken center stage in what is considered an AI revolution that could reshape the technology sector—and the world"
-    publishedDateTime: 2023-06-01T07:53:00Z
-    webUrl: "https://time.com/6284046/nvidia-ai-chips-investment/"
+  - title: "Nvidia’s CEO plans trip to meet Chinese tech executives despite US curbs on AI chips"
+    excerpt: "Nvidia CEO Jensen Huang is heading to China to meet with executives from Tencent, ByteDance and EV makers Li Auto and BYD, despite rising tensions between Washington and Beijing."
+    publishedDateTime: 2023-06-01T02:34:00Z
+    webUrl: "https://www.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips"
+    ampWebUrl: "https://amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 97
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/06/01/bdb2ca71-bbb4-46b6-8dc5-afceee3cce14_a868d5fc.jpg?itok=qKnSkKzI&v=1685586767"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Chinese Leader Xi Jinping Warns of AI Risks to National Security"
+    excerpt: "A meeting headed by party leader and President Xi Jinping on Tuesday urged “dedicated efforts to safeguard political security and improve the security governance of internet data and artificial intelligence,"
+    publishedDateTime: 2023-05-31T06:52:00Z
+    webUrl: "https://time.com/6283663/xi-jinping-warns-ai-risk-national-security/"
     type: article
     provider:
       name: Time
@@ -43,64 +59,141 @@ related:
         width: 256
         height: 256
         isCached: true
-  - title: "Nowhere for Investors to Hide From AI Hype"
-    excerpt: "Investors thinking of putting money into artificial intelligence need to apply a little real intelligence first."
-    publishedDateTime: 2023-06-02T11:00:00Z
-    webUrl: "https://www.wsj.com/articles/nowhere-for-investors-to-hide-from-ai-hype-7cb52fd7"
+  - title: "AI Means Everyone Can Now Be a Computer Programmer, Says Nvidia Chief"
+    excerpt: "Nvidia has surged to become the world's most valuable listed semiconductor company as a major supplier of chips and computing systems for AI."
+    publishedDateTime: 2023-05-30T06:38:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/ai-artificial-intelligence-everyone-can-be-computer-programmer-nvidia-chief-4078184"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/ai-artificial-intelligence-everyone-can-be-computer-programmer-nvidia-chief-4078184/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/ai-artificial-intelligence-everyone-can-be-computer-programmer-nvidia-chief-4078184/amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 59
     images:
-      - url: "https://images.wsj.net/im-792763/social"
+      - url: "https://i.gadgets360cdn.com/large/NVIDIA_ceo_reuters_1685428692399.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Inside Nvidia's new AI supercomputer"
+    excerpt: "Nvidia's Grace Hopper CPU/GPU combo underpins its supercomputer the company claims can crank out nearly an exaFLOP of AI performance."
+    publishedDateTime: 2023-05-30T15:31:00Z
+    webUrl: "https://www.networkworld.com/article/3697655/inside-nvidias-new-ai-supercomputer.html"
+    ampWebUrl: "https://www.networkworld.com/article/3697655/inside-nvidias-new-ai-supercomputer.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3697655/inside-nvidias-new-ai-supercomputer.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/22/17/nvidia-hopper-100922537-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 702
+        isCached: true
+  - title: "Nvidia Close to $1 Trillion Market Valuation. AI Is Driving the Market."
+    excerpt: "Nvidia NVDA +2.54% was closing in on a market valuation of $1 trillion as the chip maker’s stock rose in premarket trading on Tuesday."
+    publishedDateTime: 2023-05-30T10:00:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-trillion-valuation-ai-89ecb969"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-trillion-valuation-ai-89ecb969"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-trillion-valuation-ai-89ecb969"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-231723/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Nowhere for Investors to Hide From AI Hype"
-    excerpt: "This week, chip maker Nvidia was briefly worth more than $1 trillion, thanks to investor excitement about demand for its chips created by so-called “generative AI,\" the technology behind ChatGPT. Smaller AI-related stocks have also soared as investors search for the big winner from the latest fashionable theme."
-    publishedDateTime: 2023-06-02T23:59:00Z
-    webUrl: "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype-11685708705195.html"
-    ampWebUrl: "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html"
+  - title: "NEWSMAKER-Nvidia CEO Jensen Huang: Boss of trillion-dollar chip firm powering the AI boom"
+    excerpt: "But Huang recognized that university labs were using his chips for work in AI, a niche n computer science that held promise of powering everything from virtual assistants to self-driving cars. At the time,"
+    publishedDateTime: 2023-05-30T20:24:00Z
+    webUrl: "https://www.nasdaq.com/articles/newsmaker-nvidia-ceo-jensen-huang:-boss-of-trillion-dollar-chip-firm-powering-the-ai-boom"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/06/02/600x338/Nvidia_1685708783326_1685708790004.JPG"
-        width: 599
-        height: 338
-        isCached: true
-  - title: "AI Chips: What They Are and Why Investors See Gold"
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
-    publishedDateTime: 2023-06-03T08:55:00Z
-    webUrl: "https://businessjournaldaily.com/ai-chips-what-they-are-and-why-investors-see-gold/"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 55
+  - title: "Nvidia to demand a premium for AI chips"
+    excerpt: "The AI hype is providing Nvidia with plenty of cashflow. Announcements of new Nvidia partners keep coming, but it seems the company will continue to face"
+    publishedDateTime: 2023-05-30T14:59:00Z
+    webUrl: "https://www.techzine.eu/news/applications/106652/nvidia-to-demand-a-premium-for-ai-chips/"
     type: article
     provider:
-      name: Business Journal Daily
-      domain: businessjournaldaily.com
+      name: techzine
+      domain: techzine.eu
     quality: 54
     images:
-      - url: "https://businessjournaldaily.com/wp-content/uploads/2023/06/Nvidia-HGX-H100-module-AP.jpg"
-        width: 925
-        height: 520
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/evk3-300x300.png"
+        width: 300
+        height: 300
         isCached: true
-  - title: "Big Tech has convinced investors that AI is the new goldrush"
-    excerpt: "Investors rushing to put cash into AI based companies In what could be a huge bubble, investors are rushing to put their savings into companies centred around AI technology.  Time Magazine has reported that such chips have suddenly taken center stage in what some experts consider an AI"
-    publishedDateTime: 2023-06-01T09:33:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/57006-big-tech-has-convinced-investors-that-ai-is-the-new-goldrush"
+  - title: "NVIDIA: From Chipmaker to Trillion-Dollar AI Powerhouse"
+    excerpt: "From being a renowned chipmaker for computer graphics to an industry titan momentarily reaching a trillion-dollar valuation, Nvidia's journey is one for the business books. This rapid ascent is a testament to the growing significance of artificial intelligence (AI) in shaping the future of technology."
+    publishedDateTime: 2023-05-31T21:19:00Z
+    webUrl: "https://www.unite.ai/nvidia-from-chipmaker-to-trillion-dollar-ai-powerhouse/"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
+      name: unite
+      domain: unite.ai
+    quality: 54
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/a293d8e24c55b90b471899afc06ee65a_L.jpg"
-        width: 620
-        height: 431
+      - url: "https://www.unite.ai/wp-content/uploads/2023/05/nvidia-og-image-1200x630-1-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
+  - title: "The Rise of In-House AI Chip Production by Tech Giants Threatens Nvidia’s Dominance"
+    excerpt: "Nvidia Corporation (NASDAQ: NVDA), a leading player in the field of artificial intelligence (AI), has enjoyed a strong competitive advantage with its AI moat."
+    publishedDateTime: 2023-06-01T06:10:00Z
+    webUrl: "https://techstory.in/the-rise-of-in-house-ai-chip-production-by-tech-giants-threatens-nvidias-dominance/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 50
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/06/NVIDIA-Logo-inside-at-angle.jpg"
+        width: 1920
+        height: 1081
+        isCached: true
+  - title: "Nvidia researchers use AI to turn 2D video clips into detailed 3D graphics"
+    excerpt: "Neuralangelo, a new AI model from Nvidia Research, uses AI to take two-dimensional video clips and turn them into detailed 3D."
+    publishedDateTime: 2023-06-01T13:01:00Z
+    webUrl: "https://venturebeat.com/games/nvidia-researchers-use-ai-to-turn-2d-video-clips-into-detailed-3d-graphics/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "Chipmaker Nvidia Joins $1 Trillion Valuation Club Thanks to the AI Boom"
+    excerpt: "Nvidia has joined the exclusive club of companies with a $1 trillion market capitalization as the chipmaker benefits from the growing use of artificial intelligence. Nvidia Corp. joins tech titans like Alphabet,"
+    publishedDateTime: 2023-05-30T18:34:00Z
+    webUrl: "https://time.com/6283523/nvidia-trillion-valuation-ai/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 47
+  - title: "Nvidia bets on AI hype to help it chip away at Intel"
+    excerpt: "Chip maker Nvidia hopes to mount a stronger challenge to Intel with a new product line that promises the best generative AI capabilities."
+    publishedDateTime: 2023-05-30T12:07:00Z
+    webUrl: "https://telecoms.com/521969/nvidia-bets-on-ai-hype-to-help-it-chip-away-at-intel/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 34
+  - title: "AI means everyone can now be a programmer, Nvidia chief says"
+    excerpt: "Artificial intelligence means everyone can now be a computer programmer as all they need to do is speak to the computer, Nvidia Corp CEO Jensen Huang said on Monday, hailing the end of the \"digital divide\"."
+    publishedDateTime: 2023-05-29T19:58:00Z
+    webUrl: "https://www.channelnewsasia.com/business/ai-means-everyone-can-now-be-programmer-nvidia-chief-says-3522926"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 17
 
 secured: "1fbcMt8Wd+mU7Hs5EGHZHN2pJCJDYu0nqQdBU18+DZua3gDPHAit8Rqr/Q/FowCBCv2t/CQ9W84EgUi9/tTlxAj+mokOslcMMzxmFTD7jKvb04uzChjZN8wEhI1Y0BYJmpdEj0IIF12aToBtt6DwVM9YtlwQImKqa6GRuHppXUgP157n+bM5GBLcDoWgKvdiSa0Djn6oUVhXe9hL0iaJlMB0mDRazRhTi6Psc/WORp9tSWa+gKYkFkAbyigNLvaX3F6Re61MZST/aNZKE5FDor6lWiH4q+w3K5zCGUBLaUfCn1gCMrZ0AR1pKITRFHpaFRxtH8R9QnUetvia8NhhRNRAUz0Dsg6TLovCJR3/GsE=;VjEUJQ7/kNOyyDfgiBXXug=="
 ---

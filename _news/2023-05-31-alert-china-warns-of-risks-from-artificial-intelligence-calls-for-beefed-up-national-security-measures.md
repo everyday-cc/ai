@@ -35,20 +35,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Chinese Leader Xi Jinping Warns of AI Risks to National Security"
-    excerpt: "A meeting headed by party leader and President Xi Jinping on Tuesday urged “dedicated efforts to safeguard political security and improve the security governance of internet data and artificial intelligence,"
-    publishedDateTime: 2023-05-31T06:52:00Z
-    webUrl: "https://time.com/6283663/xi-jinping-warns-ai-risk-national-security/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 84
-    images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "China warns of risks from artificial intelligence, calls for beefed-up national security measures"
     excerpt: "BEIJING -- China warns of risks from artificial intelligence, calls for beefed-up national security measures."
     publishedDateTime: 2023-05-31T05:27:00Z

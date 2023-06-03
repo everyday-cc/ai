@@ -99,6 +99,20 @@ related:
         width: 2190
         height: 1369
         isCached: true
+  - title: "Lisa Su Saved AMD. Now She Wants Nvidia's AI Crown"
+    excerpt: "AMD's CEO orchestrated one of the great turnarounds in Silicon Valley history, driving the dying semiconductor maker's stock price up nearly 30-fold in less than a decade. Now she's preparing for battle in the coming AI revolution—and she expects to keep winning."
+    publishedDateTime: 2023-05-31T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/iainmartin/2023/05/31/lisa-su-saved-amd-now-she-wants-nvidias-ai-crown/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64760ef28d9d32e3a6569955/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Bulls Charge Into The Memorial Day Weekend On AI Excitement And Nvidia Earnings Momentum"
     excerpt: "The Markets To say NVDA (NASDAQ: NVDA) crushed earnings is a drastic understatement. You won’t find fundamental analysis on this page. But it does make sense to pay attention to the smart and experienced traders that know the fundamentals."
     publishedDateTime: 2023-05-30T17:05:00Z
@@ -112,22 +126,6 @@ related:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/2-bull-photography-tkriu01wdfm-unsplash.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "Nvidia Close to $1 Trillion Market Valuation. AI Is Driving the Market."
-    excerpt: "Nvidia NVDA +2.54% was closing in on a market valuation of $1 trillion as the chip maker’s stock rose in premarket trading on Tuesday."
-    publishedDateTime: 2023-05-30T10:00:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-trillion-valuation-ai-89ecb969"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-trillion-valuation-ai-89ecb969"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-trillion-valuation-ai-89ecb969"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-231723/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Nvidia briefly worth $1 trillion thanks to AI boom"
     excerpt: "Investors excited about the possibilities for artificial intelligence have sent the US chipmaker's value soaring."
@@ -145,6 +143,29 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "NVIDIA is now worth $1 trillion - and it's all about AI, not gaming GPUs"
+    excerpt: "NVIDIA is making so much cash from its AI chips, will GeForce gaming graphics cards become increasingly less of a priority? That's not"
+    publishedDateTime: 2023-05-30T15:42:00Z
+    webUrl: "https://www.tweaktown.com/news/91657/nvidia-is-now-worth-1-trillion-and-its-all-about-ai-not-gaming-gpus/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 55
+    images:
+      - url: "https://static.tweaktown.com/news/9/1/91657_01_nvidia-is-now-worth-1-trillion-and-its-all-about-ai-not-gaming-gpus_full.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI Stocks Soar as Nvidia Joins Trillion-Dollar Club"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: shutterstock.com/Victor Runov Despite a soft opener in the equities"
+    publishedDateTime: 2023-05-30T19:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-soar-as-nvidia-joins-trillion-dollar-club-1032359232"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "Opinion: Why Alphabet is a better bet than Meta Platforms if you’re investing in AI"
     excerpt: "Then, way back in 2014, it acquired an AI startup named DeepMind — with a string of other acquisitions in between. In other words, if you want a company that has been thinking seriously about AI for years rather than playing with cartoonish avatars and ..."
     publishedDateTime: 2023-05-30T18:53:00Z
@@ -179,6 +200,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Charting Nvidia’s 30-Year Ride to Overnight AI Success"
+    excerpt: "But an increasing number of its chips are being installed in data centers to help companies like Microsoft Corp., Alphabet Inc., OpenAI, and Amazon.com Inc. build their AI capabilities and offer those services to clients. Last year’s release of ChatGPT ..."
+    publishedDateTime: 2023-06-03T03:55:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/06/02/chips-inside-nvidia-s-30-year-ride-to-overnight-ai-success/d74f9838-01c1-11ee-9eb0-6c94dcb16fcf_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2Q74LDABYEI65HVQNSKNZMLPZ4.jpg&w=1440"
+        width: 1440
+        height: 969
+        isCached: true
   - title: "The AI boom has turbocharged Nvidia’s fortunes. Can it hold its position?"
     excerpt: "Nvidia’s other strength is its software. CUDA, its ai platform, is popular with programmers and runs only on the company’s chips. By, for instance, giving free access to its chips and software to some AI researchers, the firm focused on encouraging developers to use its software long before its competitors set out to woo them."
     publishedDateTime: 2023-06-01T08:41:00Z
@@ -193,6 +228,29 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "MediaTek teams up with Nvidia for auto solutions"
+    excerpt: "There has been speculation that MediaTek was in talks with Nvidia to develop chips for Windows on Arm notebook computers and for its first graphics processing unit (GPU). “AI and accelerated computing are fueling the transformation of the entire auto ..."
+    publishedDateTime: 2023-05-30T00:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2023/05/30/2003800626"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 24
+    images:
+      - url: "https://www.taipeitimes.com/images/2023/05/30/p12-230530-601.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Nvidia, The World's Newest, AI-amped Tech Giant"
+    excerpt: "Nvidia, a chip technology company, became a trillion dollar enterprise this week and the world’s newest tech giant. Here are a few key facts about the little-known firm."
+    publishedDateTime: 2023-05-31T17:18:00Z
+    webUrl: "https://www.barrons.com/news/nvidia-the-world-s-newest-ai-amped-tech-giant-8bf9a0e6"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 19
   - title: "Nvidia and Broadcom lead robust week for semiconductors and artificial intelligence in the tech sector"
     excerpt: "This was a major week for semiconductors and artificial intelligence stocks ... Plurilock Security Inc. (TSX-V:PLUR) said an overseas healthcare administrative services provider has placed a new order for its high-margin flagship software platform."
     publishedDateTime: 2023-06-02T19:37:00Z

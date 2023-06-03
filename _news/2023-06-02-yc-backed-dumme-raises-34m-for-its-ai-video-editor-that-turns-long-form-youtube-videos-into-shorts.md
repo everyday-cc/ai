@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-it
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/amp/"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "The 5 Insidious Ways AI Has Already Impacted Your Life for Years"
+    excerpt: "AI isn’t all chatbots and image generators. It also isn’t Skynet threatening to go live and destroy all of humanity. In fact, artificial intelligence isn’t even all that intelligent—and glossing over its history of hallucinating facts and making wrong decisions has allowed it to cause real harm to humans as a result."
+    publishedDateTime: 2023-06-03T05:43:00Z
+    webUrl: "https://www.thedailybeast.com/the-5-insidious-ways-ai-has-already-impacted-your-life-for-years"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1685750253/060323-ai-hero_o91e0g"
+        width: 1480
+        height: 833
+        isCached: true
 
 secured: "sWGmJuDVS7JSpXfwVRjGx3YNHDAHISVYaIBG7zoIPKV4Gu7zHPR0MBNrtax9ihH1/stYvaLgml3calhZQAUYnrK98tmPpTG4KQog2v6GYbS2keA2QpOGZoBubW3v8RTCiGq5XzteNHen5EQpOTD29vIG/ZUUvDsKvW9Ga/HiTba/1tTSeiLNcBL8TM2lV9WeNSvDHLK5pwNF2X5C9SDsncI/JFAuXMX4FcRjyHWFoq2NFEuMDKvhjevAgQMAAz00+Z1PkOgWvXxlAdVv9eWdpXhAJ+v43VPAkb5i1Hz7qFnEPfMr0/nRp/00hhNEyYawe7QJQQZPxoegakaxDt0M/XKchT0ILA9w8BUZhy/oZB4=;f3iGndJ0mkeVuiixtvzcPQ=="
 ---

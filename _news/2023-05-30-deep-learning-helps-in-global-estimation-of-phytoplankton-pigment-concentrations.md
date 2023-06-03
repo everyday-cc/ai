@@ -41,6 +41,22 @@ related:
         width: 2560
         height: 1280
         isCached: true
+  - title: "The ethics of AI in education"
+    excerpt: "One of the ethical concerns of AI in education is the potential impact on mental health. Studies have shown that students who rely heavily on technology for learning, whether it is adaptive learning systems,"
+    publishedDateTime: 2023-06-03T10:59:00Z
+    webUrl: "https://www.financialexpress.com/education-2/the-ethics-of-ai-in-education/3111961/"
+    ampWebUrl: "https://www.financialexpress.com/education-2/the-ethics-of-ai-in-education/3111961/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/the-ethics-of-ai-in-education/3111961/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 91
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/ai1-1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Coming AI Revolution In Home Care"
     excerpt: "I believe that future industry leaders in home care can lead the field by leveraging these AI technologies and tools to enhance the home care experience."
     publishedDateTime: 2023-06-02T11:00:00Z

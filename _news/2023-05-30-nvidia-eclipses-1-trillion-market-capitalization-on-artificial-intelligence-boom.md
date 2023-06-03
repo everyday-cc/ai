@@ -136,15 +136,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 19
-  - title: "Nvidia and MediaTek partner to introduce next-generation in-car systems with AI"
-    excerpt: "In its efforts to further the infotainment experience inside vehicles and cater to evolving requirements, Nvidia and MediaTek have announced a partnership to introduce next-generation systems that can stream video or games or interact with drivers using artificial intelligence."
-    publishedDateTime: 2023-05-29T18:17:00Z
-    webUrl: "https://interestingengineering.com/innovation/nvidia-and-mediatek-partner-to-introduce-next-generation-in-car-systems-with-ai"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 15
   - title: "The Rise And Rise of NVIDIA"
     excerpt: "Taking another step towards becoming the 7th company in the world to reach a trillion-dollar market cap, NVIDIA and SoftBank have partnered to drive generative AI applications in Japan. SoftBank will use NVIDIA’s GH200 Grace Hopper superchip in its data centers to develop 5G/6G applications,"
     publishedDateTime: 2023-05-30T08:08:00Z

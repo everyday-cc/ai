@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dom
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/amp/"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "MediaTek, Nvidia partner for AI-based in-cabin solutions"
+    excerpt: "The smart cabin automotive offerings will run Nvidia Drive OS, Drive IX, Cuda and TensorRT software technologies. MediaTek will use its Dimensity Auto platform with Nvidia’s advanced driver assistance systems (ADAS) solutions to deliver all-around smarter in-vehicle experiences,"
+    publishedDateTime: 2023-06-01T13:05:00Z
+    webUrl: "https://electronics360.globalspec.com/article/19769/mediatek-nvidia-partner-for-ai-based-in-cabin-solutions"
+    type: article
+    provider:
+      name: electronics360.globalspec
+      domain: globalspec.com
+    quality: 19
 
 secured: "sQPD5id3+FO2m2HROCUbuks+WLU3deb6aGqOPzufaMXZtZUQs3ga+13sA9vLOywsDVVNDPhG1bMQSkL1sSBWvDCId+OWOHT4L8mhtXDDK1qecWoRql7QQ1BfEvuzHgkx7leZnO9o3eGriEiBdxDxqVxyjlTybezURYalrLpT7WURTEcQUWEa8gF2SY3HNhZc/Sqap1qUWTZnkhLQPznqZdgZtKL9NMAR9JnUZjMBwK5V9ZfgjI0MCTqWp/BGovUVCj5cbed7fUTYmocWX40fqo32MBu8KfxOg+nAcrl++wKRARyIuPmatbjvMCZfsllKYb7qtYTyci8fDSp/nn1cztjQycgXMFDAvoepWox4vws=;Iee2offNeLu+YPS+ygPtBw=="
 ---

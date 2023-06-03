@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna87021"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna87021"
 type: article
 quality: 93
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese Leader Xi Jinping Warns of AI Risks to National Security"
-    excerpt: "A meeting headed by party leader and President Xi Jinping on Tuesday urged “dedicated efforts to safeguard political security and improve the security governance of internet data and artificial intelligence,"
-    publishedDateTime: 2023-05-31T06:52:00Z
-    webUrl: "https://time.com/6283663/xi-jinping-warns-ai-risk-national-security/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 84
-    images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "China warns of risks from artificial intelligence, calls for beefed-up national security measures"
     excerpt: "BEIJING -- China warns of risks from artificial intelligence, calls for beefed-up national security measures."
     publishedDateTime: 2023-05-31T05:27:00Z
@@ -81,6 +67,6 @@ related:
       domain: chron.com
     quality: 17
 
-secured: "g7QPgFqP3t5Hu7yJOK9JJIiFaKbYYdQ27o3qWp8KPykM0c1nOJzpLOEFTAGt71tIECLnqkRBch7nMKwHu5cYyUpa9pazCph5UgnLlYe5awQjz0HfNE4zlyquhYh8hcG46Wma1cMfvNEDZjW1fblDUlSpUv/D8WYhTLmnimq9dkoXDfOfO3iYckxlaEb5I7GVVFOkezPVXA+L0faYcrFN/0esghCwkF3eUZ5Y6VmkWjmVW2ghcSFSsixAft1S8RJobqg/RHbAcEKye1lncgp/ya0To3MyHMRio58mxW3OTqoLqelF1G66dDUtuCXdqq63uNnqPsRz2I1Pe0CSNX0IFbEmUMksnOuSG5HEEgz/Uhg=;UXltWw+spsk2zWzpg51FpQ=="
+secured: "bUveM5ptGuDUPCt4G9yMuw43tLVta5YVcFI+oOvfuf83RrkFHUofiG76/jKWJ/r+ZRYTF2EZ1bCBdy/OXGFfOCDnhI6x9qulisYPBuELX3RxZlGSF1rpGsmwGFxVOFpJdShtpLHtpEL0yw3PBAXViXBFFSyiUYCSRIJN77b6hNfJBlhtzBAYslUcUx1rWjfcCb5Iedpc//xZSqeC2Uu/wH2HvvChFq/7R7S0FF5y3+aFdHw4Gdzqb15FGK6Bd4gu9Fwt6mcGd0Wn2jaqGaULACi8481nvd71TfAUVjn4By6MWA8IAVuNbjAuifQRMMQeSnFNbParWIVEX16hXNjs2TtZAFJLnRzSZWLOQHWHJKc3nwsmm0r1EBtlDsDeE633GD44k35gIuGW2xvw/R0nBA3oI2rTc9WAzIsx2G0xz43v1KmMqrE1CjhVLOMCC27DHxVBU5baLGRv2xZBPXDcCqs4YIzP7g55vsczOgJ+9mAMedicwMZsspaQ2zVVZhkgVac+yVVg+Z35KvkkMqrfew==;GKGjDkGFl7gIZ/yud9LmDA=="
 ---
 

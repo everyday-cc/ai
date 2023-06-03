@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/games/nvidia-researchers-use-ai-to-turn-2d
 webUrl: "https://venturebeat.com/games/nvidia-researchers-use-ai-to-turn-2d-video-clips-into-detailed-3d-graphics/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -24,20 +24,176 @@ topics:
   - Facebook AI
 
 related:
-  - title: "Neuralangelo Nvidia AI Lets You Form 3D Models From 2D Videos"
-    excerpt: "Nvidia unveiled an AI model that can generate three-dimensional objects from two-dimensional videos. It is called Neuralangelo, a mix of the words “neural” from neural networks and"
-    publishedDateTime: 2023-06-03T01:01:00Z
-    webUrl: "https://technology.inquirer.net/124770/neuralangelo-nvidia-ai-forms-3d-models-from-2d-videos"
+  - title: "Nvidia’s CEO plans trip to meet Chinese tech executives despite US curbs on AI chips"
+    excerpt: "Nvidia CEO Jensen Huang is heading to China to meet with executives from Tencent, ByteDance and EV makers Li Auto and BYD, despite rising tensions between Washington and Beijing."
+    publishedDateTime: 2023-06-01T02:34:00Z
+    webUrl: "https://www.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips"
+    ampWebUrl: "https://amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips"
     type: article
     provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 39
+      name: scmp.com
+      domain: scmp.com
+    quality: 97
     images:
-      - url: "https://technology.inquirer.net/files/2023/06/euralangelo-nvidia-ai-3d-models-2d-videos.png-620x349.png"
-        width: 620
-        height: 349
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/06/01/bdb2ca71-bbb4-46b6-8dc5-afceee3cce14_a868d5fc.jpg?itok=qKnSkKzI&v=1685586767"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Chinese Leader Xi Jinping Warns of AI Risks to National Security"
+    excerpt: "A meeting headed by party leader and President Xi Jinping on Tuesday urged “dedicated efforts to safeguard political security and improve the security governance of internet data and artificial intelligence,"
+    publishedDateTime: 2023-05-31T06:52:00Z
+    webUrl: "https://time.com/6283663/xi-jinping-warns-ai-risk-national-security/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 84
+    images:
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
+        isCached: true
+  - title: "US seeks to curb investment in Chinese chips, AI and quantum computing"
+    excerpt: "WASHINGTON (Reuters) - New rules under consideration would restrict the flow of U.S. investments and know-how into Chinese companies working on advanced semiconductors, artificial intelligence and quantum computing, a U.S. Treasury official said on ..."
+    publishedDateTime: 2023-06-01T15:41:00Z
+    webUrl: "https://www.reuters.com/article/usa-china-congress-idCAKBN2XM1F6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20230531&t=2&i=1634411747&r=LYNXMPEJ4U0Q7&w=800"
+        width: 800
+        height: 508
+        isCached: true
+  - title: "AI Means Everyone Can Now Be a Computer Programmer, Says Nvidia Chief"
+    excerpt: "Nvidia has surged to become the world's most valuable listed semiconductor company as a major supplier of chips and computing systems for AI."
+    publishedDateTime: 2023-05-30T06:38:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/ai-artificial-intelligence-everyone-can-be-computer-programmer-nvidia-chief-4078184"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/ai-artificial-intelligence-everyone-can-be-computer-programmer-nvidia-chief-4078184/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/ai-artificial-intelligence-everyone-can-be-computer-programmer-nvidia-chief-4078184/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 59
+    images:
+      - url: "https://i.gadgets360cdn.com/large/NVIDIA_ceo_reuters_1685428692399.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Inside Nvidia's new AI supercomputer"
+    excerpt: "Nvidia's Grace Hopper CPU/GPU combo underpins its supercomputer the company claims can crank out nearly an exaFLOP of AI performance."
+    publishedDateTime: 2023-05-30T15:31:00Z
+    webUrl: "https://www.networkworld.com/article/3697655/inside-nvidias-new-ai-supercomputer.html"
+    ampWebUrl: "https://www.networkworld.com/article/3697655/inside-nvidias-new-ai-supercomputer.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3697655/inside-nvidias-new-ai-supercomputer.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/22/17/nvidia-hopper-100922537-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 702
+        isCached: true
+  - title: "Nvidia Close to $1 Trillion Market Valuation. AI Is Driving the Market."
+    excerpt: "Nvidia NVDA +2.54% was closing in on a market valuation of $1 trillion as the chip maker’s stock rose in premarket trading on Tuesday."
+    publishedDateTime: 2023-05-30T10:00:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-trillion-valuation-ai-89ecb969"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-trillion-valuation-ai-89ecb969"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-trillion-valuation-ai-89ecb969"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-231723/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "NEWSMAKER-Nvidia CEO Jensen Huang: Boss of trillion-dollar chip firm powering the AI boom"
+    excerpt: "But Huang recognized that university labs were using his chips for work in AI, a niche n computer science that held promise of powering everything from virtual assistants to self-driving cars. At the time,"
+    publishedDateTime: 2023-05-30T20:24:00Z
+    webUrl: "https://www.nasdaq.com/articles/newsmaker-nvidia-ceo-jensen-huang:-boss-of-trillion-dollar-chip-firm-powering-the-ai-boom"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 55
+  - title: "Nvidia to demand a premium for AI chips"
+    excerpt: "The AI hype is providing Nvidia with plenty of cashflow. Announcements of new Nvidia partners keep coming, but it seems the company will continue to face"
+    publishedDateTime: 2023-05-30T14:59:00Z
+    webUrl: "https://www.techzine.eu/news/applications/106652/nvidia-to-demand-a-premium-for-ai-chips/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/evk3-300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "NVIDIA: From Chipmaker to Trillion-Dollar AI Powerhouse"
+    excerpt: "From being a renowned chipmaker for computer graphics to an industry titan momentarily reaching a trillion-dollar valuation, Nvidia's journey is one for the business books. This rapid ascent is a testament to the growing significance of artificial intelligence (AI) in shaping the future of technology."
+    publishedDateTime: 2023-05-31T21:19:00Z
+    webUrl: "https://www.unite.ai/nvidia-from-chipmaker-to-trillion-dollar-ai-powerhouse/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 54
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/05/nvidia-og-image-1200x630-1-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "The Rise of In-House AI Chip Production by Tech Giants Threatens Nvidia’s Dominance"
+    excerpt: "Nvidia Corporation (NASDAQ: NVDA), a leading player in the field of artificial intelligence (AI), has enjoyed a strong competitive advantage with its AI moat."
+    publishedDateTime: 2023-06-01T06:10:00Z
+    webUrl: "https://techstory.in/the-rise-of-in-house-ai-chip-production-by-tech-giants-threatens-nvidias-dominance/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 50
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/06/NVIDIA-Logo-inside-at-angle.jpg"
+        width: 1920
+        height: 1081
+        isCached: true
+  - title: "Chipmaker Nvidia Joins $1 Trillion Valuation Club Thanks to the AI Boom"
+    excerpt: "Nvidia has joined the exclusive club of companies with a $1 trillion market capitalization as the chipmaker benefits from the growing use of artificial intelligence. Nvidia Corp. joins tech titans like Alphabet,"
+    publishedDateTime: 2023-05-30T18:34:00Z
+    webUrl: "https://time.com/6283523/nvidia-trillion-valuation-ai/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 47
+  - title: "Nvidia bets on AI hype to help it chip away at Intel"
+    excerpt: "Chip maker Nvidia hopes to mount a stronger challenge to Intel with a new product line that promises the best generative AI capabilities."
+    publishedDateTime: 2023-05-30T12:07:00Z
+    webUrl: "https://telecoms.com/521969/nvidia-bets-on-ai-hype-to-help-it-chip-away-at-intel/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 34
+  - title: "AI means everyone can now be a programmer, Nvidia chief says"
+    excerpt: "Artificial intelligence means everyone can now be a computer programmer as all they need to do is speak to the computer, Nvidia Corp CEO Jensen Huang said on Monday, hailing the end of the \"digital divide\"."
+    publishedDateTime: 2023-05-29T19:58:00Z
+    webUrl: "https://www.channelnewsasia.com/business/ai-means-everyone-can-now-be-programmer-nvidia-chief-says-3522926"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 17
 
 secured: "XCgOdMgkRrZG7xaFx4vwy9lYYIwhLuyvxBylgWnjAwygKJoHfug4zbAiYE6Zn2+3duvjU2rwTSevTH6yig3LBOPpYI/t28nWPf7B0pTXUfQtXP5NHUUCfeFSEwrH9Lw0aolPvUleObnVSTOc+kBXKPCsuTM4ucf4BKo+kyRk6vtz53EavmRqdqKj4yEE0QhUAkdzrhoJl8t8s92Nd03eQKGsS7pUwMz5FayWe827sTS+fxjqKPwRmxiyk7WzrEtVIzk3/brFhhSN8taxBsk9obiWhp5Yb4cA0/ixrFuBNJqk1OWlIHLVfiE6bMufaijtQmZr40nniSxb7ctHqmYpu6I5JnJ2vgV+1MSgC2wPrUFRBxsXM86rEsxwmI3VQhpRpUV5sFYslxFogzeWg53lQjzltArb28raiF1wn8r2kAY9itE1UwriN6QNi83wNIlndXYxOhuwnzWE54h9PWd7pfPDNydXqxPsX1zHzZt90ahmdhNrfmhQpUjiN4fn+/aM3QZGxHSRuzcOL2C0hznn2Q==;RvB3wpBXPr19uYK089ZJ6w=="
 ---

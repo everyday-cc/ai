@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/cloud/microsoft-s-coreweave-deal-adds-ai-
 webUrl: "https://www.crn.com/news/cloud/microsoft-s-coreweave-deal-adds-ai-pressure-to-aws-google"
 type: article
 quality: 71
-heat: 82
+heat: 81
 published: true
 
 provider:

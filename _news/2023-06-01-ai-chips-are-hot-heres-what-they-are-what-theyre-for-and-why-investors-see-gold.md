@@ -1,29 +1,27 @@
 ---
 category: news
 title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
-publishedDateTime: 2023-06-01T13:10:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
-webUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
+publishedDateTime: 2023-06-01T09:31:00Z
+originalUrl: "https://www.local10.com/business/2023/06/01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
+webUrl: "https://www.local10.com/business/2023/06/01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
 type: article
-quality: 68
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: WPLG
+  domain: local10.com
 
 topics:
-  - AI Hardware
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SIQQ7UVKUNDXRHQQE2TFZQO3RU.jpg?_a=ATCqVhC0"
+    width: 700
+    height: 467
     isCached: true
 
 related:
@@ -68,15 +66,6 @@ related:
       name: 92.7 WMAY
       domain: wmay.com
     quality: 46
-  - title: "Using Artificial Intelligence in the healthcare space"
-    excerpt: "Functional Medicine Expert, Dr. Cathleen Gerenger, and the CEO of My Wellness Reader, Gary Kiss, joined Gayle Guyardo, the host of the global health and wellness show, Bloom, to share more about"
-    publishedDateTime: 2023-05-29T18:30:00Z
-    webUrl: "https://www.wfla.com/bloom-tampa-bay/using-artificial-intelligence-in-the-healthcare-space/"
-    type: article
-    provider:
-      name: WFLA News Channel 8
-      domain: wfla.com
-    quality: 34
   - title: "Orlando companies harness the power of AI in revolutionizing health care"
     excerpt: "As the health care industry faces staffing shortages and rising costs, AI is offering a solution that can free up time for health care providers to focus on patient care."
     publishedDateTime: 2023-06-01T04:00:00Z
@@ -105,6 +94,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "MLGUjPARRM8Ah+JQTj8EbrTjXGSrBz0BHB6+MK+e792yv35a2RyoU53oD6tcM4Eem1rXVTCaCjiqs6r0SkG4oAxjslaK2OBsuKQBpwwsWI7TGWFWfZz7VdQXLCzQYZiAaWgdE50oWjMJgKcSj5Op9OL7Z7wZpRvWklLug5ChTrKK9f2uDuE9XUqkmIS4Ngn4mfonebYvrtVamx5F2l8+0JY8ZQCYaYuh280Q/RkITE7EEn7PCB65nxEpAEnc8DAPIhtbR02BbMt82uTol0JdDao5TeI5cbYW3oKca9CUzTmNur7Wc2um42GWajhMgzL32jM4wZIIA7bT/IBg0wuxGSyNKGgeVVKVZ3R+8dZa5u0=;hJU+09NMJD2WJzF3ly2GNA=="
+secured: "H6MHvQ5gc6ctPNFM0YHaejKFrFiN9j25kV8DrpN/D/uSIlaV/ekZaxZC2Vn3DuCobDXdhFT+MRPOddEPKYtddr8+sy2lq1s5ADc38Z93UDjTJJ2oHvNC+h+xtlh0AYkPBIR+3JQgfIkECCNvG0ab2He2koel3Xny3g0mtYEF62u3XwSgTH3tTHhWsorwYEj8s/UzZwb0FW8d3fyuHMVkDZ+ay38ErAbFHOHB6BTJcYriX6Rfh5MlGROHxVIMuT8sd4i2zAx0pxKFR1CRZ1EeZs5kxj7EseokkY//1oha4kz7lKnmwKCBjqUI5EPUlqxC7iHa8oKrccNpkpfeX1qAQGx/jRv+IMM4eMdrsfC5PLQ=;Wxw8uQWq4u6oJ91tozrBSA=="
 ---
 

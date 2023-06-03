@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2023/may/30/nvidia-stock-price-a
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2023/may/30/nvidia-stock-price-ai-chipmaker-technology"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -30,15 +30,22 @@ images:
     isCached: true
 
 related:
-  - title: "NEWSMAKER-Nvidia CEO Jensen Huang: Boss of trillion-dollar chip firm powering the AI boom"
-    excerpt: "But Huang recognized that university labs were using his chips for work in AI, a niche n computer science that held promise of powering everything from virtual assistants to self-driving cars. At the time,"
-    publishedDateTime: 2023-05-30T20:24:00Z
-    webUrl: "https://www.nasdaq.com/articles/newsmaker-nvidia-ceo-jensen-huang:-boss-of-trillion-dollar-chip-firm-powering-the-ai-boom"
+  - title: "Nvidia becomes first chipmaker valued at more than $1tn amid AI boom"
+    excerpt: "Shares in chip company rise on back of hopes for rising demand from artificial intelligence applications"
+    publishedDateTime: 2023-05-30T13:03:00Z
+    webUrl: "https://www.theguardian.com/business/2023/may/30/nvidia-chipmaker-value-ai-chip-shares-artificial-intelligence"
+    ampWebUrl: "https://amp.theguardian.com/business/2023/may/30/nvidia-chipmaker-value-ai-chip-shares-artificial-intelligence"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/may/30/nvidia-chipmaker-value-ai-chip-shares-artificial-intelligence"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 55
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/81f12dadd0e98b3ca222064b416434feaceac722/0_233_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=9ac201c8344dd822183b398db114dee2"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "mrVgvUSCHSnQG9VjhjWhBDLtc56gXrblweCEnM6aEPfFkIgLAUdzw7MLk4qgD6Zvv7M0JyOoTJrTibKBv+DjZOahbLn9RAp4IYu/MUD8XvO80emBLC7nNlvQzNGoD9CPhjEYLEDHUELDNjW2riE4OqJNnrHryDxJEI0cqsJx7M8/+FusWQtNNUdMR5X6b6aRoQzUlZQSYufTZ/PWQ6ea6xKh1vKMlZRIH5dnxtJrv+p7xHMkIfHKqhbmEDwpNoc8ZLkpS/gMRqVkvE7dW3iKa7a+rutH4g1GPsNxikUhFbTDJwwQaGHlOTbuQhAAwVGPk4w2hEJZA2WKVdDCKAkhsLKifDId/RYQMZSOIiRmIs/dgbS1GrPZI7ep5iVAYHrEfnR1fWlcCqxvM48+giidcJCIFG8CK9pcPxz/e5QTZI3OlKsD5o8W2Iru2m04WHedpTqICWGyiOsQKagj0o4L8IchrD7XwA0UZN5LMW+R79WZpMgdeCaqTVQLQmxv573rqo+FAF5Z9rYeQy0T1t52Fg==;R2VAswOMyg6ddcN1j7fSUQ=="
 ---

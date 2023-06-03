@@ -19,51 +19,79 @@ topics:
   - AI
 
 related:
-  - title: "MediaTek taps Nvidia GPU and AI for connected car chipsets"
-    excerpt: "Today at Computex, MediaTek and Nvidia announced a partnership to develop a unique platform for AI-powered connected cars."
-    publishedDateTime: 2023-05-29T17:21:00Z
-    webUrl: "https://venturebeat.com/ai/mediatek-taps-nvidia-gpu-and-ai-for-connected-car-chipsets/"
+  - title: "Opinion: Nvidia and these 6 tech giants will gobble up the AI pie"
+    excerpt: "In fact, the event was all about AI — from integrating artificial intelligence with Windows, Bing and developer tools. Note that many of the offerings were still in “preview” mode. As for Azure, its cloud platform, Microsoft is trying to catch ..."
+    publishedDateTime: 2023-05-31T13:04:00Z
+    webUrl: "https://www.marketwatch.com/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 99
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/NVIDIA-e1685375149906.jpg?w=1200&strip=all"
-        width: 1200
-        height: 599
+      - url: "https://images.mktw.net/im-747436/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Nvidia’s CEO plans trip to meet Chinese tech executives despite US curbs on AI chips"
-    excerpt: "Nvidia CEO Jensen Huang is heading to China to meet with executives from Tencent, ByteDance and EV makers Li Auto and BYD, despite rising tensions between Washington and Beijing."
-    publishedDateTime: 2023-06-01T02:34:00Z
-    webUrl: "https://www.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips"
-    ampWebUrl: "https://amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips"
+  - title: "Opinion: We’ve reached a turning point with AI, expert says"
+    excerpt: "Russell has called for rebuilding AI on a different foundation to ensure our control over the technology — but that ... There are a few other big areas of work in AI. There’s robotics, which is both how do you make a physical robot that can actually ..."
+    publishedDateTime: 2023-05-31T17:38:00Z
+    webUrl: "https://www.cnn.com/2023/05/31/opinions/artificial-intelligence-stuart-russell"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/05/31/opinions/artificial-intelligence-stuart-russell/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/31/opinions/artificial-intelligence-stuart-russell/index.html"
     type: article
     provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 97
+      name: CNN
+      domain: cnn.com
+    quality: 89
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/06/01/bdb2ca71-bbb4-46b6-8dc5-afceee3cce14_a868d5fc.jpg?itok=qKnSkKzI&v=1685586767"
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230525103431-20230525-perils-of-ai-power-on.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Nvidia Isn’t The Only One Getting a Massive AI Boost"
+    excerpt: "Memory chips are in a slump. Thankfully, artificial intelligence has a huge appetite that will benefit the likes of Samsung, SK Hynix and Micron."
+    publishedDateTime: 2023-05-29T20:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-05-29/nvidia-isn-t-the-only-one-getting-a-massive-ai-boost"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inhXHhwFhi2Y/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Nvidia unveils AI supercomputer that will put you out of a job much faster"
+    excerpt: "While AI systems amaze and alarm the world in equal measure, they’re about to get even more powerful. Nvidia has announced a new class of supercomputer that will train the next generation of AI models,"
+    publishedDateTime: 2023-05-30T04:42:00Z
+    webUrl: "https://newatlas.com/computers/nvidia-ai-supercomputer-dgx-gh200/"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 67
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/e16410b/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F24%2F2b%2F319f6a3e407aba43f1f0418ebfed%2Fnvidia-dgx.jpeg&na.image_optimisation=0"
         width: 1200
         height: 630
         isCached: true
-  - title: "What’s Inside Nvidia’s AI Supercomputer? Powerful Chips and a Lot of Memory."
-    excerpt: "This past Monday, chip giant Nvidia which has seen its shares nearly triple to over $400 on rising demand for AI, announced its new DGX GH200 AI supercomputer powered by its GH200 Grace Hopper superchips. That’s a lot of letters, numbers, and supers."
-    publishedDateTime: 2023-06-02T23:35:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-ai-supercomputer-chips-c3ac4da0"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0"
+  - title: "Why Nvidia, C3.ai, and Qualcomm Stocks Keep Going Up"
+    excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services."
+    publishedDateTime: 2023-05-30T15:53:00Z
+    webUrl: "https://www.fool.com/investing/2023/05/30/why-nvidia-c3ai-and-qualcomm-stocks-keep-going-up/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 71
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
     images:
-      - url: "https://images.barrons.com/im-793870/social"
-        width: 1279
-        height: 640
+      - url: "https://g.foolcdn.com/editorial/images/734387/semiconductor-computer-chip-with-the-letters-ai-in-the-middle.jpg"
+        width: 2190
+        height: 1369
         isCached: true
   - title: "Lisa Su Saved AMD. Now She Wants Nvidia's AI Crown"
     excerpt: "AMD's CEO orchestrated one of the great turnarounds in Silicon Valley history, driving the dying semiconductor maker's stock price up nearly 30-fold in less than a decade. Now she's preparing for battle in the coming AI revolution—and she expects to keep winning."
@@ -79,62 +107,35 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia unveils GH200 super chip and DGX GH200 computing platform for AI"
-    excerpt: "By now it's no secret that Nvidia has gone all-in on the idea of selling shovels to companies big and small that are manically digging in"
-    publishedDateTime: 2023-05-29T18:22:00Z
-    webUrl: "https://www.techspot.com/news/98867-nvidia-unveils-gh200-super-chip-dgx-gh200-computing.html"
+  - title: "Bulls Charge Into The Memorial Day Weekend On AI Excitement And Nvidia Earnings Momentum"
+    excerpt: "The Markets To say NVDA (NASDAQ: NVDA) crushed earnings is a drastic understatement. You won’t find fundamental analysis on this page. But it does make sense to pay attention to the smart and experienced traders that know the fundamentals."
+    publishedDateTime: 2023-05-30T17:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/etf/bulls-charge-into-the-memorial-day-weekend-on-ai-excitement-and-nvidia-earnings-momentum-1032358964"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 64
-  - title: "AI Means Everyone Can Now Be a Computer Programmer, Says Nvidia Chief"
-    excerpt: "Nvidia has surged to become the world's most valuable listed semiconductor company as a major supplier of chips and computing systems for AI."
-    publishedDateTime: 2023-05-30T06:38:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/ai-artificial-intelligence-everyone-can-be-computer-programmer-nvidia-chief-4078184"
-    ampWebUrl: "https://www.gadgets360.com/internet/news/ai-artificial-intelligence-everyone-can-be-computer-programmer-nvidia-chief-4078184/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/ai-artificial-intelligence-everyone-can-be-computer-programmer-nvidia-chief-4078184/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
     images:
-      - url: "https://i.gadgets360cdn.com/large/NVIDIA_ceo_reuters_1685428692399.jpg"
-        width: 1200
-        height: 675
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/2-bull-photography-tkriu01wdfm-unsplash.jpg"
+        width: 1024
+        height: 768
         isCached: true
-  - title: "Inside Nvidia's new AI supercomputer"
-    excerpt: "Nvidia's Grace Hopper CPU/GPU combo underpins its supercomputer the company claims can crank out nearly an exaFLOP of AI performance."
-    publishedDateTime: 2023-05-30T15:31:00Z
-    webUrl: "https://www.networkworld.com/article/3697655/inside-nvidias-new-ai-supercomputer.html"
-    ampWebUrl: "https://www.networkworld.com/article/3697655/inside-nvidias-new-ai-supercomputer.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3697655/inside-nvidias-new-ai-supercomputer.amp.html"
+  - title: "Nvidia briefly worth $1 trillion thanks to AI boom"
+    excerpt: "Investors excited about the possibilities for artificial intelligence have sent the US chipmaker's value soaring."
+    publishedDateTime: 2023-05-30T20:22:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-65757812?at_medium=RSS"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-65757812.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65757812.amp"
     type: article
     provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/22/17/nvidia-hopper-100922537-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 702
-        isCached: true
-  - title: "Nvidia becomes first chipmaker valued at more than $1tn amid AI boom"
-    excerpt: "Shares in chip company rise on back of hopes for rising demand from artificial intelligence applications"
-    publishedDateTime: 2023-05-30T13:03:00Z
-    webUrl: "https://www.theguardian.com/business/2023/may/30/nvidia-chipmaker-value-ai-chip-shares-artificial-intelligence"
-    ampWebUrl: "https://amp.theguardian.com/business/2023/may/30/nvidia-chipmaker-value-ai-chip-shares-artificial-intelligence"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/may/30/nvidia-chipmaker-value-ai-chip-shares-artificial-intelligence"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: BBC
+      domain: bbc.co.uk
     quality: 57
     images:
-      - url: "https://i.guim.co.uk/img/media/81f12dadd0e98b3ca222064b416434feaceac722/0_233_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=9ac201c8344dd822183b398db114dee2"
-        width: 620
-        height: 372
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9941/production/_129933293_gettyimages-1258278958.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "NVIDIA is now worth $1 trillion - and it's all about AI, not gaming GPUs"
     excerpt: "NVIDIA is making so much cash from its AI chips, will GeForce gaming graphics cards become increasingly less of a priority? That's not"
@@ -150,34 +151,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia to demand a premium for AI chips"
-    excerpt: "The AI hype is providing Nvidia with plenty of cashflow. Announcements of new Nvidia partners keep coming, but it seems the company will continue to face"
-    publishedDateTime: 2023-05-30T14:59:00Z
-    webUrl: "https://www.techzine.eu/news/applications/106652/nvidia-to-demand-a-premium-for-ai-chips/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/evk3-300x300.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "NVIDIA: From Chipmaker to Trillion-Dollar AI Powerhouse"
-    excerpt: "From being a renowned chipmaker for computer graphics to an industry titan momentarily reaching a trillion-dollar valuation, Nvidia's journey is one for the business books. This rapid ascent is a testament to the growing significance of artificial intelligence (AI) in shaping the future of technology."
-    publishedDateTime: 2023-05-31T21:19:00Z
-    webUrl: "https://www.unite.ai/nvidia-from-chipmaker-to-trillion-dollar-ai-powerhouse/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/05/nvidia-og-image-1200x630-1-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "AI Stocks Soar as Nvidia Joins Trillion-Dollar Club"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: shutterstock.com/Victor Runov Despite a soft opener in the equities"
     publishedDateTime: 2023-05-30T19:34:00Z
@@ -187,29 +160,40 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "The Rise of In-House AI Chip Production by Tech Giants Threatens Nvidia’s Dominance"
-    excerpt: "Nvidia Corporation (NASDAQ: NVDA), a leading player in the field of artificial intelligence (AI), has enjoyed a strong competitive advantage with its AI moat."
-    publishedDateTime: 2023-06-01T06:10:00Z
-    webUrl: "https://techstory.in/the-rise-of-in-house-ai-chip-production-by-tech-giants-threatens-nvidias-dominance/"
+  - title: "Opinion: Why Alphabet is a better bet than Meta Platforms if you’re investing in AI"
+    excerpt: "Then, way back in 2014, it acquired an AI startup named DeepMind — with a string of other acquisitions in between. In other words, if you want a company that has been thinking seriously about AI for years rather than playing with cartoonish avatars and ..."
+    publishedDateTime: 2023-05-30T18:53:00Z
+    webUrl: "https://www.marketwatch.com/story/why-alphabet-is-a-better-bet-than-meta-platforms-if-youre-investing-in-ai-4d46b88"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 50
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+  - title: "Nvidia is not the only firm cashing in on the AI gold rush"
+    excerpt: "A GREY RECTANGULAR building on the outskirts of San Jose houses rows upon rows of blinking machines. Tangles of colourful wires connect high-end servers, networking gear and data-storage systems. Bulky air-conditioning units whirr overhead. The noise forces visitors to shout."
+    publishedDateTime: 2023-05-29T19:34:00Z
+    webUrl: "https://www.economist.com/business/2023/05/29/nvidia-is-not-the-only-firm-cashing-in-on-the-ai-gold-rush"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
     images:
-      - url: "https://techstory.in/wp-content/uploads/2023/06/NVIDIA-Logo-inside-at-angle.jpg"
-        width: 1920
-        height: 1081
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230603_WBD001.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Chipmaker Nvidia Joins $1 Trillion Valuation Club Thanks to the AI Boom"
-    excerpt: "Nvidia has joined the exclusive club of companies with a $1 trillion market capitalization as the chipmaker benefits from the growing use of artificial intelligence. Nvidia Corp. joins tech titans like Alphabet,"
-    publishedDateTime: 2023-05-30T18:34:00Z
-    webUrl: "https://time.com/6283523/nvidia-trillion-valuation-ai/"
+  - title: "Intel cedes spotlight at global tech gala to AI darling Nvidia"
+    excerpt: "Intel, long synonymous with the fastest processors, has seen its all-purpose chips overshadowed by Nvidia's more specialized, parallel-processing architecture."
+    publishedDateTime: 2023-05-31T17:13:00Z
+    webUrl: "https://www.seattletimes.com/business/intel-cedes-spotlight-at-global-tech-gala-to-ai-darling-nvidia/"
+    ampWebUrl: "https://www.seattletimes.com/business/intel-cedes-spotlight-at-global-tech-gala-to-ai-darling-nvidia/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/intel-cedes-spotlight-at-global-tech-gala-to-ai-darling-nvidia/?amp=1"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 47
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 39
   - title: "Charting Nvidia’s 30-Year Ride to Overnight AI Success"
     excerpt: "But an increasing number of its chips are being installed in data centers to help companies like Microsoft Corp., Alphabet Inc., OpenAI, and Amazon.com Inc. build their AI capabilities and offer those services to clients. Last year’s release of ChatGPT ..."
     publishedDateTime: 2023-06-03T03:55:00Z
@@ -224,38 +208,34 @@ related:
         width: 1440
         height: 969
         isCached: true
-  - title: "MediaTek and Nvidia to develop AI cabin solutions for software-defined vehicles"
-    excerpt: "MediaTek will work with Nvidia to deliver automotive solutions that surpass the industry’s growing needs and demands while posing a significant market opportunity for the companies."
-    publishedDateTime: 2023-05-30T05:42:00Z
-    webUrl: "https://www.autocarpro.in/news-international/mediatek-and-nvidia-to-develop-ai-cabin-solutions-for-software-defined-vehicles--115247"
+  - title: "Nvidia's reboot: How the processing giant made the shift from gaming to AI"
+    excerpt: "Here's how Nvidia CEO Jensen Huang presented the results of Q1 2019, five years ago: At the heart of our opportunity is the incredible growth of computing demand of AI, just as traditional computing has slowed. The GPU computing approach we have pioneered ..."
+    publishedDateTime: 2023-05-31T17:45:00Z
+    webUrl: "https://www.usatoday.com/story/money/2023/05/31/how-nvidia-reinvented-itself/70265023007/"
     type: article
     provider:
-      name: Autocar Pro
-      domain: autocarpro.in
-    quality: 35
+      name: USA Today
+      domain: usatoday.com
+    quality: 37
     images:
-      - url: "https://cdni.autocarindia.com/utils/imageresizer.ashx?n=http://img.haymarketsac.in/autocarpro/3402baa9-7f7b-4176-8b37-a212b8ff1fdc_845aKey-Visual_-MediaTek-_-NVIDIA-Press-Image1600x900.jpg"
-        width: 1502
-        height: 845
+      - url: "https://www.gannett-cdn.com/presto/2023/05/25/USAT/96ccb936-a4f1-428e-a72b-d8bd5c1eb7a5-70210697007-artificial-intelligence-ai.jpg?auto=webp&crop=2101,1182,x0,y213&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Nvidia bets on AI hype to help it chip away at Intel"
-    excerpt: "Chip maker Nvidia hopes to mount a stronger challenge to Intel with a new product line that promises the best generative AI capabilities."
-    publishedDateTime: 2023-05-30T12:07:00Z
-    webUrl: "https://telecoms.com/521969/nvidia-bets-on-ai-hype-to-help-it-chip-away-at-intel/"
+  - title: "The AI boom has turbocharged Nvidia’s fortunes. Can it hold its position?"
+    excerpt: "Nvidia’s other strength is its software. CUDA, its ai platform, is popular with programmers and runs only on the company’s chips. By, for instance, giving free access to its chips and software to some AI researchers, the firm focused on encouraging developers to use its software long before its competitors set out to woo them."
+    publishedDateTime: 2023-06-01T08:41:00Z
+    webUrl: "https://www.economist.com/leaders/2023/06/01/the-ai-boom-has-turbocharged-nvidias-fortunes-can-it-hold-its-position"
     type: article
     provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 34
-  - title: "Nvidia's GPU Chiplet Design Unlocks Potential in Emerging Markets"
-    excerpt: "Nvidia When our analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has tripled the market.* They just revealed what they believe are the ten best stocks for investors to buy right"
-    publishedDateTime: 2023-05-31T15:32:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/17331807/nvidias-gpu-chiplet-design-unlocks-potential-in-emerging-markets/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 34
+      name: The Economist
+      domain: economist.com
+    quality: 36
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230603_LDP501.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "MediaTek teams up with Nvidia for auto solutions"
     excerpt: "There has been speculation that MediaTek was in talks with Nvidia to develop chips for Windows on Arm notebook computers and for its first graphics processing unit (GPU). “AI and accelerated computing are fueling the transformation of the entire auto ..."
     publishedDateTime: 2023-05-30T00:00:00Z
@@ -270,24 +250,15 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "MediaTek, Nvidia partner for AI-based in-cabin solutions"
-    excerpt: "The smart cabin automotive offerings will run Nvidia Drive OS, Drive IX, Cuda and TensorRT software technologies. MediaTek will use its Dimensity Auto platform with Nvidia’s advanced driver assistance systems (ADAS) solutions to deliver all-around smarter in-vehicle experiences,"
-    publishedDateTime: 2023-06-01T13:05:00Z
-    webUrl: "https://electronics360.globalspec.com/article/19769/mediatek-nvidia-partner-for-ai-based-in-cabin-solutions"
+  - title: "Nvidia and Broadcom lead robust week for semiconductors and artificial intelligence in the tech sector"
+    excerpt: "This was a major week for semiconductors and artificial intelligence stocks ... Plurilock Security Inc. (TSX-V:PLUR) said an overseas healthcare administrative services provider has placed a new order for its high-margin flagship software platform."
+    publishedDateTime: 2023-06-02T19:37:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1016869/nvidia-and-broadcom-lead-robust-week-for-semiconductors-and-artificial-intelligence-in-the-tech-sector-1016869.html"
     type: article
     provider:
-      name: electronics360.globalspec
-      domain: globalspec.com
-    quality: 19
-  - title: "AI means everyone can now be a programmer, Nvidia chief says"
-    excerpt: "Artificial intelligence means everyone can now be a computer programmer as all they need to do is speak to the computer, Nvidia Corp CEO Jensen Huang said on Monday, hailing the end of the \"digital divide\"."
-    publishedDateTime: 2023-05-29T19:58:00Z
-    webUrl: "https://www.channelnewsasia.com/business/ai-means-everyone-can-now-be-programmer-nvidia-chief-says-3522926"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 17
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 3
 
 secured: "BbkSMRRwPgvMfikKU8gi77HOp0w/OMhnqw5bj7cZIJ5tXFueKuyKNViS3oacaYWrCe7ozuZb1HLsYjHKTVIyoSVwHTH7QnrUjJkkIvAKfXNXkxWhKYo54UyrA/r4dUmtwPwIsRhFA9+/+Y8kUadE67u8NPiM2P5+zT64S7/7KF+G7IgDhqz8iTIO45Uq4DInd8P6oraONUD1uxkKCMDkuFCx95ct7L0QhwpwePHDmY3haP3i56c+C+w8nP31NU6gejkolZRQC3xt7rlqRsuXKgsyKDgtnCbT7NJkuI7p9wfdoF/YPFa+/LpKYSaXOtnJrDbBXTRImVIyt7wpoLMw7I3d3UoNXuc81h/2GY5mEeHTNiX1c41KfuR33zvDl7qSwGeKINhV6sPUc7Q0Xxb4Lx1viZ+3i83WOAUq5d/UkhOlGMEWo83LGyM8IqEyCA5a0ubgNkLxHZWmEiAjOHNxTE/oXWQIcHK1iiYLDBGG2RntWk+RhoTJTdmXsO0qT2jBYGqIiwNxv3w1d771Ujlncw==;qETyVja1H+gfcag5fW14Mw=="
 ---

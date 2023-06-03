@@ -39,20 +39,6 @@ related:
         width: 256
         height: 256
         isCached: true
-  - title: "US seeks to curb investment in Chinese chips, AI and quantum computing"
-    excerpt: "WASHINGTON (Reuters) - New rules under consideration would restrict the flow of U.S. investments and know-how into Chinese companies working on advanced semiconductors, artificial intelligence and quantum computing, a U.S. Treasury official said on ..."
-    publishedDateTime: 2023-06-01T15:41:00Z
-    webUrl: "https://www.reuters.com/article/usa-china-congress-idCAKBN2XM1F6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20230531&t=2&i=1634411747&r=LYNXMPEJ4U0Q7&w=800"
-        width: 800
-        height: 508
-        isCached: true
   - title: "Nowhere for Investors to Hide From AI Hype"
     excerpt: "Investors thinking of putting money into artificial intelligence need to apply a little real intelligence first."
     publishedDateTime: 2023-06-02T11:00:00Z
@@ -98,6 +84,6 @@ related:
         height: 431
         isCached: true
 
-secured: "LMUaKq/bExAnzLVSbEzDmwc5HAjlaElLjhVkjlzUqLEtiV9sE6UGkdw6n+r4rNrPAP/txwM2w8em5ttc4zgc9K6viPgyXqoPRFsICHZXBCK/IWyam4KnAntIKWTx6nM2oCM8j3YFYx06EYsCrF2RDsIa7LIyYJGLeqYbcp4/Zn77B5SkWdyz4kARsxH1B0BndUK0Tbsd0QluuYxw51VkV37lTflzo7fOatrk1fMGLYeI07ymMcajqbmiM3D6eqiCJI/CnhtOagq/0G7ixN6CkRQYqGf/RAX83Y0ANt3vtr6tppHZjlxKJN7sw9lrZKUzqKGBe8Ln2EOWdAbHIRxHHtlzr/LyxuMZPrxNu0soeWU=;JTX7uRQKTTUlU7JMYhcFKA=="
+secured: "0eIc0CbM2nMKj+XuORupYOO9CsRsA+LJW5xHWPF5etYvweb+dKFrEoIp8vCEJC3DpCm5Ua+ol/N70uhE77dO2i2Ag4e8I4yPIClM4jT8u4aYGG4KjVNLYe5wShomn+fkWP+Eob6f6TrUx2D+sBnKlal6e2MRmW1QHyBKzHj5wXwQrxUpgTwsUMvLdcR0xhdrd1Ot8kJ94RRhfCftD8L3EV09AU8oaa5bIRA4gujGsk/biBOwAz/XLHeRdXfu3eFD4IHgpK67qLb9RqpAKIgWNFt1XzlswmatofyIBUJLwIfaFilx/WL7wlrNvmY+G/Xt7WgL2HphXbWvZwHYMrLzizodtzI7HKK0150/m5dlUa1XcnKUiOSUUYZOMrZ3jz85oJjvS0hwtCqR8TJB8kx/ypUw0xR4kQcy4K4fh/p9rfY2b1Dg5lqLpV7a16Q1i94vd7BVd5C7e8syRAXZV5qJVlwFDo0Ncdy8B8zmyFRAryathL6sjBgWC33YWy1ckua9aQGh9E+gX7qTz1ILR1HWGw==;c/2GA9JOLN88APM365bkOg=="
 ---
 

@@ -137,15 +137,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 19
-  - title: "Nvidia and MediaTek partner to introduce next-generation in-car systems with AI"
-    excerpt: "In its efforts to further the infotainment experience inside vehicles and cater to evolving requirements, Nvidia and MediaTek have announced a partnership to introduce next-generation systems that can stream video or games or interact with drivers using artificial intelligence."
-    publishedDateTime: 2023-05-29T18:17:00Z
-    webUrl: "https://interestingengineering.com/innovation/nvidia-and-mediatek-partner-to-introduce-next-generation-in-car-systems-with-ai"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 15
   - title: "Nvidia eclipses $1 trillion market capitalization on artificial intelligence boom"
     excerpt: "The semiconductor company Nvidia crossed the trillion-dollar market capitalization mark Tuesday, riding an artificial intelligence-propelled boom to become the fifth company to pass the historic threshold."
     publishedDateTime: 2023-05-30T13:46:00Z

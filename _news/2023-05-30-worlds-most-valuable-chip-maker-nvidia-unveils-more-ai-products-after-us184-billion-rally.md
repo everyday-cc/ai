@@ -75,6 +75,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "MediaTek, Nvidia partner for AI-based in-cabin solutions"
+    excerpt: "The smart cabin automotive offerings will run Nvidia Drive OS, Drive IX, Cuda and TensorRT software technologies. MediaTek will use its Dimensity Auto platform with Nvidia’s advanced driver assistance systems (ADAS) solutions to deliver all-around smarter in-vehicle experiences,"
+    publishedDateTime: 2023-06-01T13:05:00Z
+    webUrl: "https://electronics360.globalspec.com/article/19769/mediatek-nvidia-partner-for-ai-based-in-cabin-solutions"
+    type: article
+    provider:
+      name: electronics360.globalspec
+      domain: globalspec.com
+    quality: 19
 
 secured: "koClb/wqF3sL5ahe9d5KWrpWmbPXRSoT0ZK4Irz4UIuxfLVdY2lmEHQA8atuHIQl0l/LQU5JLO9fCV/nPct0JsZTU+XhCUuqN2y/EoAhysuN5WVyj9IfbFWp1MYvYlZiieG/qud3Ho06N7IDGZJ9ksR5Wxmu6cIpvQOQkqZsaxexVk+GTMhK21gAvZZVLCDMq13URGko1atgaKd/7bxTBMk46IB8CM5Nb5DGrDQNuTIHRJNXCkdxurfBgeOIFlMeHAfkeT48wlnheF0R5btV0dbuEc6XRuIIN9KhDydMIHTLdE2memULWfW3uG+0EYwmKl1z78Cg1EuvRO2umt41ax6gxBwk2ftq/TXl5C4qZfS0t4Zl2FKaK8VY2XlAUn3tsEEATn9dpny7yWnR4aT1TMXhfF6WSH9yox6raCyhTKLxNpQ85PsAej6F2vfMZSv7R14Gzjn7NBiPNgcPlK96B5djTQbXTHmGF7+3t2ebKuupdyLhdO4PmLoW+7MzmgMnYJwgKypiRpJ1YzkvVGNbyQ==;S397t3QMTlH/ZmdcQeirRA=="
 ---
