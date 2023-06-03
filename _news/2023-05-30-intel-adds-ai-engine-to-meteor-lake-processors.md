@@ -19,34 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Will artificial intelligence revolutionize the hiring process?"
-    excerpt: "It seems like everyone is talking about artificial intelligence and all of the ways it will change the way we live and work in the not-too-distant future. One of the ways that businesses are already using AI is in the recruitment and hiring process."
-    publishedDateTime: 2023-06-02T13:18:00Z
-    webUrl: "https://www.nhbr.com/will-artificial-intelligence-revolutionize-the-hiring-process/"
+  - title: "AI Speed Boost Coming With Intel's Meteor Lake Chip for PCs This Year"
+    excerpt: "The new processor is key to the chipmaker's recovery plans and taking on strong competition from AMD and Apple."
+    publishedDateTime: 2023-06-03T12:00:00Z
+    webUrl: "https://www.cnet.com/tech/computing/ai-speed-boost-coming-with-intels-meteor-lake-chip-for-pcs-this-year/"
     type: article
     provider:
-      name: NH Business Review
-      domain: nhbr.com
-    quality: 39
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.nhbr.com/content/uploads/2023/06/s/c/ai-hiring-process.jpg"
-        width: 2164
-        height: 1385
-        isCached: true
-  - title: "Delhi startup is using AI to fix challenges in the hiring process"
-    excerpt: "TraqCheck uses AI technology and automation to streamline the background verification process. It currently has more than 150 clients, including Reliance Retail, Lenskart, Motherson Sumi, Hero Cycles,"
-    publishedDateTime: 2023-05-30T01:15:00Z
-    webUrl: "https://yourstory.com/2023/05/delhi-startup-ai-hiring-employees-traqcheck"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 37
-    images:
-      - url: "https://images.yourstory.com/cs/2/6c7d986093a511ec98ee9fbd8fa414a8/CopyofImageTaggingnoframesEditorialTeamMaster26-1685361632712.png?fm=png&auto=format"
-        width: 1600
-        height: 800
-        isCached: true
+      name: CNET
+      domain: cnet.com
+    quality: 64
   - title: "Intel's 14th Generation Meteor Lake Processors: Emphasizing AI and Energy Efficiency"
     excerpt: "Intel's 14th generation processors, codenamed Meteor Lake, is set to introduce a focus on AI and energy efficiency. At the Computex 2023 event, Intel revealed details about their upcoming Intel Core"
     publishedDateTime: 2023-05-30T07:26:00Z

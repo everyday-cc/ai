@@ -19,20 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning Chips Market size is set to"
-    excerpt: "The deep learning chips market size is estimated to grow by USD 16,522.93 million from 2023 to 2027, according to Technavio. The market is estimated to grow at a CAGR of 34.58%. North America held the largest share of the global market in 2022,"
-    publishedDateTime: 2023-05-31T09:31:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-deep-learning-chips-market-size-set-grow-usd-/2023/05/31/9823180.htm"
+  - title: "With 28.5% CAGR, Mobile Artificial Intelligence (AI) Market Size is Expected to Reach USD 880.28 Bn by 2029"
+    excerpt: "According to Exactitude Consultancy the Global Mobile Artificial Intelligence (AI) Market Size is expected to reach USD 80.28 Bn by 2029, growing at a 28.5% CAGR of Between Forecast Period 2023 to 2029,"
+    publishedDateTime: 2023-06-02T10:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/n32686506/with-28-5-cagr-mobile-artificial-intelligence-ai-market-size-is-expected-to-reach-usd-880-28-bn-by"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32686506"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32686506"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
     images:
-      - url: "https://mma.prnewswire.com/media/2087900/Technavio_Logo_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
+  - title: "Artificial Intelligence (AI) in security market size worth USD 20.46 billion in 2031 | CAGR: 13.21%"
+    excerpt: "According to the Adroit Market Research study, the global Artificial intelligence (AI) in the security market size is accounted for USD 6.08 billion and it is expected to reach USD 20.46 billion in 2031 at a CAGR of 13."
+    publishedDateTime: 2023-06-02T10:36:00Z
+    webUrl: "https://tynmagazine.com/artificial-intelligence-ai-in-security-market-size-worth-usd-20-46-billion-in-2031-cagr-13-21/"
+    type: article
+    provider:
+      name: tynmagazine.com
+      domain: tynmagazine.com
+    quality: 39
 
 secured: "wThKG7ZVqh/Y4uJH2nK0touV0QqFj768tQM3kod4PnTx6+idJ+YXA6kPh2VXQvmmm9jCJbN2OvECzYAuNojVi6DOioqHpGJZE/JnqCMvFu1TvrB7OLGg/aFl7A9pbWvAfkKTnAsg+clM4wOkyw/Q21VYzAR3DMEzq0q2uMvDIW+6BQz5zLyND5hnQ2FMHl7nv3zZgwvC/L3DpML5EXuDZ28Vh4FarkPjPFl5CQgAGtbMOPG41KJqkiCa5sNJb+2dCMH5rsBMR+x+x8ug1u6opefm9NTOcqnXsumKGO1eeKXDtihUiJxQJGcOzOAr9Y9ge20bVbLxaCSo9AwsAFE33Nt4ikMu5Wr9GACitWS9Q44ohexE4nhSQdMyLDxxfqh4TSDNTnKMoU0D13jDsyvOCYNuvt+IOt867DvL3zG/3nXhEjtmqnw9c97GBW41Y6FCwlTEYsyebSUha0L+nHdfT4IODyycmfxzq3mYjwfs2DY+vWl0O9h/OU6V/dAzUI9nqHKVheLdwsLqFTFPmXVtEA==;i2HXioDPuBz6jNvnt4Tibw=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Woman sent to hospital after self-driving Tesla crashes into tree"
-    excerpt: "A woman hit a tree after law enforcement said she put her Tesla in self-driving mode. The crash happened Sunday night in Mecosta County's Colfax Township on McKinley Road near 135th Avenue. According to the Mecosta County Sheriff's Office,"
-    publishedDateTime: 2023-05-29T22:26:00Z
-    webUrl: "https://local12.com/news/nation-world/woman-sent-to-hospital-after-self-driving-tesla-crashes-into-tree-mecosta-county-michigan-automated"
-    type: article
-    provider:
-      name: Local 12 WKRC Cincinnati
-      domain: local12.com
-    quality: 39
-    images:
-      - url: "https://local12.com/resources/media/4b221edb-c40e-42a3-bf2f-601a147ee531-large16x9_AP23097481304567.jpg?1682101698739"
-        width: 986
-        height: 555
-        isCached: true
   - title: "Self-driving cars lack social intelligence in traffic"
     excerpt: "Self-driving cars fall short when it comes to understanding the social codes in traffic that let human drivers decide whether to give way or drive on, according to new research."
     publishedDateTime: 2023-05-30T22:15:00Z

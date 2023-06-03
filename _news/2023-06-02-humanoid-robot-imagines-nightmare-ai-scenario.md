@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/video/watch/idOV661501062023RP1"
 webUrl: "https://www.reuters.com/video/watch/idOV661501062023RP1"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

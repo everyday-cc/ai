@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2023-06-01/bloomberg-ev
 webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-01/bloomberg-evening-briefing-new-ai-jobs-are-sweeping-across-wall-street"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Wall Street’s AI Moment, Gemini at a Crossroads: A Week of Big Take"
+    excerpt: "The AI revolution is unfolding on Wall Street as wider interest grows in the evolving technology and its likely impact on business."
+    publishedDateTime: 2023-06-03T12:00:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-03/ai-and-gemini-weekend-reads-from-bloomberg-s-big-take"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
   - title: "JPMorgan’s Push Into AI Has Wall Street Rivals Playing Catch-Up"
     excerpt: "Deutsche Bank AG is using artificial intelligence to scan wealthy client portfolios. ING Group NV is screening for potential defaulters. Morgan Stanley says its bankers are “experimenting” in a “safe and contained environment."
     publishedDateTime: 2023-05-31T23:01:00Z

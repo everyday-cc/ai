@@ -185,15 +185,6 @@ related:
       name: Telecoms
       domain: telecoms.com
     quality: 34
-  - title: "AI means everyone can now be a programmer, Nvidia chief says"
-    excerpt: "Artificial intelligence means everyone can now be a computer programmer as all they need to do is speak to the computer, Nvidia Corp CEO Jensen Huang said on Monday, hailing the end of the \"digital divide\"."
-    publishedDateTime: 2023-05-29T19:58:00Z
-    webUrl: "https://www.channelnewsasia.com/business/ai-means-everyone-can-now-be-programmer-nvidia-chief-says-3522926"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 17
 
 secured: "XCgOdMgkRrZG7xaFx4vwy9lYYIwhLuyvxBylgWnjAwygKJoHfug4zbAiYE6Zn2+3duvjU2rwTSevTH6yig3LBOPpYI/t28nWPf7B0pTXUfQtXP5NHUUCfeFSEwrH9Lw0aolPvUleObnVSTOc+kBXKPCsuTM4ucf4BKo+kyRk6vtz53EavmRqdqKj4yEE0QhUAkdzrhoJl8t8s92Nd03eQKGsS7pUwMz5FayWe827sTS+fxjqKPwRmxiyk7WzrEtVIzk3/brFhhSN8taxBsk9obiWhp5Yb4cA0/ixrFuBNJqk1OWlIHLVfiE6bMufaijtQmZr40nniSxb7ctHqmYpu6I5JnJ2vgV+1MSgC2wPrUFRBxsXM86rEsxwmI3VQhpRpUV5sFYslxFogzeWg53lQjzltArb28raiF1wn8r2kAY9itE1UwriN6QNi83wNIlndXYxOhuwnzWE54h9PWd7pfPDNydXqxPsX1zHzZt90ahmdhNrfmhQpUjiN4fn+/aM3QZGxHSRuzcOL2C0hznn2Q==;RvB3wpBXPr19uYK089ZJ6w=="
 ---

@@ -25,6 +25,17 @@ images:
     height: 1152
     isCached: true
 
+related:
+  - title: "Irish police watchdog warns of facial recognition abuse, UK police defends the technology"
+    excerpt: "The police watchdog said that they will need significant funds to track potential abuse of facial recognition technology and body-worn cameras by the police."
+    publishedDateTime: 2023-06-02T18:18:00Z
+    webUrl: "https://www.biometricupdate.com/202306/irish-police-watchdog-warns-of-facial-recognition-abuse-uk-police-defends-the-technology"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 10
+
 secured: "p5aT9npbMGUpa9Vw58TarqakXH3r5yyRPKm7SIBclB6vl07Rzw/JknhixikiBdVniAJ3BxLKOdSSCfvqupti81LaMZvpxEZeN9ahoA/Vq6dPxYzEnZwesnEFX2kM1QWvfyZg8erJXPKp3i9wVbARxqILtH2jc9SMrTvA6ToJ0rugkPJpU57hI1//GYhYIkC1URsgT2KPuye2VjZh5uOPu8lTPtHdevfhc5miwOJtREiqncM8IQeNoqAYsbUaTIbuQbE/JdixSGf12qi+Ajo+H3QvVO7DxEuIWYe3LD3O8zIvO10XGAjGTxFDwW8aduuKBkmSzd1TOCd8c2aEh9HazubzfKYvfNsQfdtl4Xq8VF0fifosaHvRhPsxRyQoEakFguBn2AamUphgnD5BFc8lT0s3utWrZHcxQB8603qxbu/QrSOWHre1MQtvdfEHPqoJqWwMK716IbFP+FP8Veu+co6kQa7F0Eqsf2e2/6vgDzIaZMNHKrk9HhJjUirXYW/RQovILUYGcaTt2Dx2LLhdzw==;bsjnsIFTqx2DdMI91BDrZg=="
 ---
 

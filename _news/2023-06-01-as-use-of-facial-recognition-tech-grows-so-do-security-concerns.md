@@ -7,8 +7,8 @@ originalUrl: "https://www.startribune.com/as-use-of-facial-recognition-technolog
 webUrl: "https://www.startribune.com/as-use-of-facial-recognition-technology-grows-so-do-security-concerns/600279118/"
 type: article
 quality: 56
-heat: 126
-published: true
+heat: -1
+published: false
 
 provider:
   name: Star Tribune
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Plan for facial recognition tech in schools riles rights groups"
+    excerpt: "Teachers and students of the Telangana’s government schools will likely have to mark their attendance on an app that uses facial recognition technology (FRT), even as groups emphasising the right to privacy continue to raise concerns about the use of ..."
+    publishedDateTime: 2023-06-03T15:35:00Z
+    webUrl: "https://www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/exu8vf/article66928332.ece/alternates/FREE_1200/LOCAL%20ELECTIONS"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Greens voice concerns over facial recognition technology"
     excerpt: "A Green Party TD has said it is important to make a distinction between bodycams and facial recognition technology."
     publishedDateTime: 2023-06-01T08:06:00Z
@@ -54,29 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "GSOC chief warns that body cams and facial recognition tech will be open to abuse"
-    excerpt: "GSOC boss Hugh Hume said that the watchdog will need significant investment if it is to keep track of misconduct related to abuse of new technologies."
-    publishedDateTime: 2023-06-01T15:54:00Z
-    webUrl: "https://www.thejournal.ie/gsoc-ireland-6083158-Jun2023/"
+  - title: "Dangers of facial recognition software"
+    excerpt: "What if Clearview AI’s powerful facial recognition software, that could potentially be used for mass surveillance and profiling, fell into the wrong hands? What if it already has? This is the untold story of Clearview AI,"
+    publishedDateTime: 2023-06-03T15:35:00Z
+    webUrl: "https://dunyanews.tv/en/Technology/729044-Dangers-of-facial-recognition-software"
     type: article
     provider:
-      name: TheJournal.ie
-      domain: thejournal.ie
-    quality: 34
+      name: Dunya News
+      domain: dunyanews.tv
+    quality: 39
     images:
-      - url: "https://img2.thejournal.ie/article/6083158/river/?height=400&version=6083316"
-        width: 613
-        height: 400
+      - url: "https://img.dunyanews.tv/news/2023/June/06-03-23/news_big_images/729044_91294148.jpg"
+        width: 752
+        height: 423
         isCached: true
-  - title: "Green Party won't back use of facial recognition technology by gardaí"
-    excerpt: "The Green Party will not back a renewed call from Minister for Justice Simon Harris to support legislation which would pave the way for gardaí to use facial recognition technology."
-    publishedDateTime: 2023-05-31T16:47:00Z
-    webUrl: "https://www.rte.ie/news/2023/0531/1386728-bodycams-green-party/"
-    type: article
-    provider:
-      name: RTE Online
-      domain: www.rte.ie
-    quality: 19
   - title: "Met Police director of intelligence defends facial recognition"
     excerpt: "The Met Police’s director of intelligence has appeared before MPs to make the case for its continuing use of facial recognition technology, following announcements from the force and the Home Office t"
     publishedDateTime: 2023-06-01T09:00:00Z
@@ -86,24 +93,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 19
-  - title: "TSA expands testing of facial recognition technology as some in Congress voice concerns"
-    excerpt: "The agency is expanding its testing phase of facial recognition technology to make sure you match your ID from 16 to 28 airports nationwide."
-    publishedDateTime: 2023-06-02T19:19:00Z
-    webUrl: "https://www.whio.com/news/tsa-expands-testing-facial-recognition-technology-some-congress-voice-concerns/ZCZOEZJBVZB23HDE2VBWY3RARA/"
-    type: article
-    provider:
-      name: WHIO
-      domain: whio.com
-    quality: 13
-  - title: "Irish police watchdog warns of facial recognition abuse, UK police defends the technology"
-    excerpt: "The police watchdog said that they will need significant funds to track potential abuse of facial recognition technology and body-worn cameras by the police."
-    publishedDateTime: 2023-06-02T18:18:00Z
-    webUrl: "https://www.biometricupdate.com/202306/irish-police-watchdog-warns-of-facial-recognition-abuse-uk-police-defends-the-technology"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 10
 
 secured: "6+rLZp8HuEB2nSpQ3piEpus5osAU+A8LVbQMcYTrm7YNTuYYP/WuVtSUSM28pQCnwad+feyybN9f3f7XH8TXODQRxKJyYIu9FVncHqkHlGydhtIH5LS5lVxoPviIX49jBDkxLOMMFOlf2/7OIIeZ5MD/h1wo7KNIAIUvnI2urqFAUqhFLI6d82dINKsy/wx03kRuILlP2kqsRF5ZcoV7zf5gyBnYY2PtUo7BvzLIrTfBabMqRsUJQpCOZmSDIhCkMGbItDAg8UOwPB2ieMH3GOHRZVtm16nMwMoE0qJyHt/hg+9Ue/jFM3wYl6fa06ynq+74t7z9rfwvCIH/uwYAR+OKT90REAOPGVlwi/ZG1Bk=;+C1vugnbVVqQG9VfRetdXQ=="
 ---

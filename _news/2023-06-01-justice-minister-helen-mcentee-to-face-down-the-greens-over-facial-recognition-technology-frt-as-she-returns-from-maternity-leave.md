@@ -7,7 +7,7 @@ originalUrl: "https://www.independent.ie/irish-news/politics/justice-minister-he
 webUrl: "https://www.independent.ie/irish-news/politics/justice-minister-helen-mcentee-to-face-down-the-greens-over-facial-recognition-technology-frt-as-she-returns-from-maternity-leave/a845781306.html"
 type: article
 quality: 9
-heat: 9
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,35 @@ images:
     width: 2000
     height: 1332
     isCached: true
+
+related:
+  - title: "Green Party won't back use of facial recognition technology by gardaí"
+    excerpt: "The Green Party will not back a renewed call from Minister for Justice Simon Harris to support legislation which would pave the way for gardaí to use facial recognition technology."
+    publishedDateTime: 2023-05-31T16:47:00Z
+    webUrl: "https://www.rte.ie/news/2023/0531/1386728-bodycams-green-party/"
+    type: article
+    provider:
+      name: RTE Online
+      domain: www.rte.ie
+    quality: 19
+  - title: "TSA expands testing of facial recognition technology as some in Congress voice concerns"
+    excerpt: "The agency is expanding its testing phase of facial recognition technology to make sure you match your ID from 16 to 28 airports nationwide."
+    publishedDateTime: 2023-06-02T19:19:00Z
+    webUrl: "https://www.whio.com/news/tsa-expands-testing-facial-recognition-technology-some-congress-voice-concerns/ZCZOEZJBVZB23HDE2VBWY3RARA/"
+    type: article
+    provider:
+      name: WHIO
+      domain: whio.com
+    quality: 13
+  - title: "Garda bodycam controversy as Greens attempts to block introducing facial recognition technology"
+    excerpt: "Tensions are continuing to build in the coalition as the Green Party once again attempts to block facial recognition technology (FRT) being introduced as part of legislation for Garda body cams. Simon Harris has said that there are “somethings you can ..."
+    publishedDateTime: 2023-05-31T18:00:00Z
+    webUrl: "https://www.irishmirror.ie/news/irish-news/politics/garda-bodycam-controversy-greens-attempts-30124350.amp"
+    type: article
+    provider:
+      name: Irish Daily Mirror
+      domain: irishmirror.ie
+    quality: 7
 
 secured: "EDmaX901skYFxc+ZTI3hICKUrACXNoTps1Z2QuNJDKm3nQ41cbYyMG6sixRB8A0N8SHaKsHdNW2F8MGv492RTnFyUUVSJvA2Pw31S20BovgBuuq5x+SbJSwlRdhxW72fjnOQzcyxbRBZTkqIYxqzH9u/dqzvn4PSqY1+8xm3f0GnaUVmKljRJwE4Ykm6VYysTMH6TOAeiBykrZ0iuiNGU1pRJv1L6lGtWbqOjqiQQZyE1GU+7+9598pf0mUy3jQN6dU4RkUymnxVRg0YLSMQIvIzhF7rJYYD8I+fAJteG/GMws88xfVeRKTm+M2d+7URsNwYrAvx97ZLMvh0/ZRAXQ3yREAe9ZLFSeWfqULVsu1HVlBh+TJ2UG5ofAS3MuM2hghvoS2bc6yCxAzRS73Cyz+sIhfwagqyxZuAPpuQB4Zt2MDJlcv0aZuPsGteGzLJSMZCYiIm4e18OwlwBZJXuxdXP4pDWVowFLis4xLVJvwXhYxMshfhRJ+RDZsQsFbNBZuPwtrOhdLLUjUXlGsNPQ==;OxWUMUp6tR0tKdPTA1h8Pg=="
 ---

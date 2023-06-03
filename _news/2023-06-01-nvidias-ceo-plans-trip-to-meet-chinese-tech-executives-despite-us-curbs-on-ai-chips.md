@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips"
 type: article
 quality: 97
-heat: 227
+heat: 217
 published: true
 
 provider:
@@ -185,15 +185,6 @@ related:
       name: Telecoms
       domain: telecoms.com
     quality: 34
-  - title: "AI means everyone can now be a programmer, Nvidia chief says"
-    excerpt: "Artificial intelligence means everyone can now be a computer programmer as all they need to do is speak to the computer, Nvidia Corp CEO Jensen Huang said on Monday, hailing the end of the \"digital divide\"."
-    publishedDateTime: 2023-05-29T19:58:00Z
-    webUrl: "https://www.channelnewsasia.com/business/ai-means-everyone-can-now-be-programmer-nvidia-chief-says-3522926"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 17
 
 secured: "UoJRPvVaU1I77ognEZfUZ0gT83eODbiMJaY+FR/so2hIANaABnXMz/xlGUXH5exH4AlfXBBQPUAsOdjLUtgRgHLblvel+KK3O3FfioXT9jEbVJnovkh76vd0abgHhFYZMBkoB+ELv05XkSZ+R97PRML3pm1azqQwNC2e+6ixHmzogrAFc7E54ygz/jQyURwsewkhvHkomkcF3LlFhfgDbVKfONE9rpQBVRRR32KhIsJBRjAxNmhF6ULCuX91YffNFJ4L4csO0emeuGoUyu+rA2RWmjkEKMmCUF07FQi6te0pFV0N74jhrYbD91yIq/+W6pvuSfrlIfjNL8OD3F6o2ByYG5bOmvIAqM6yjf1K2mY=;O5yDtYIEKsA/A6v+wJNGTw=="
 ---

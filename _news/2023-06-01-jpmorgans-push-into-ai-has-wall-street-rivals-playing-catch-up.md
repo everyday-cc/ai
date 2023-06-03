@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Wall Street’s AI Moment, Gemini at a Crossroads: A Week of Big Take"
+    excerpt: "The AI revolution is unfolding on Wall Street as wider interest grows in the evolving technology and its likely impact on business."
+    publishedDateTime: 2023-06-03T12:00:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-06-03/ai-and-gemini-weekend-reads-from-bloomberg-s-big-take"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
 
 secured: "IJ67KhAl3du6/bAJsq+xgQLf+S1vunJ1ZuASAeSrl0OKtRcbPSSbUzYdBdygzuqbDrng1FUN8ciaqt4IB83bEomFWfM7IcJ2xA+xK8ZTJ708Ghk3LRs9c2Al8lzZ16fnQyCZiS3llDnPQ8BR/XKA3TMr3b4FIsQrmoPa6Au1uJ2wx/yRFv0nK0Ig3YfmEefH1wBat82VRg/MJaC8pvDFJYYOL3pSpLPb7fne6MF2yUmgMvjI+0uL49NCudiDswyI2h0feR1LYZw5osVbyd58JVmsZDcIimyfv/0lOefksuE+E2V0cHEMNlGCIIlZxoV95bQVtRH3zDo2oY0D8ly0cigaTdwcxZ7DrRnhQOm4mbM=;pXv2OW6gxXwM1IFRpA/yXg=="
 ---

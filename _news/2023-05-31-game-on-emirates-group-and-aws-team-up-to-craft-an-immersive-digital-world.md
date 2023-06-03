@@ -43,20 +43,6 @@ related:
         width: 2048
         height: 1638
         isCached: true
-  - title: "Emirates Group, AWS team up to craft an immersive digital world"
-    excerpt: "The Emirates Group is embarking on a futuristic immersive digital journey to transform its employee experiences -- a first for the industry -- by collaborating"
-    publishedDateTime: 2023-06-01T00:08:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273849803/emirates-group-aws-team-up-to-craft-an-immersive-digital-world"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1685578399.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Emirates Group and AWS to create immersive digital experience for employees"
     excerpt: "The scope of the collaboration includes the development of an Extended Reality platform, 3D virtual hubs, virtual training, gamified environments, and simulated experiences for learning"
     publishedDateTime: 2023-06-01T07:03:00Z
@@ -80,6 +66,15 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 28
+  - title: "Emirates Group, AWS team up to craft an immersive digital world"
+    excerpt: "The Emirates Group is embarking on a futuristic, immersive digital journey to transform its employee experiences -- a first for the industry -- by collaborating"
+    publishedDateTime: 2023-05-31T23:54:00Z
+    webUrl: "https://www.malaysiasun.com/news/273849803/emirates-group-aws-team-up-to-craft-an-immersive-digital-world"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 19
 
 secured: "lxRNfhpctj5xJmPlAR8ppP0hRcifK7hcUsaBs6qkLIGzeg8r86WigTlwk1DcM+arlgv6SRjMD4YJYs1tb4vAIbuUVTsUlVxBo5yVrvMb/jDpWNjK+C1/j+G/9BqNnkFpsa25SJzob14xIQEkPg/vkDikfJe47OI4+R81BYl5WtYnMJrGUEXv47xiySRy+zwy1tGjWq2SyAxiyykckT1HBrbaJ4OVPAN9BqoPuKGGXBpxr5NLdzruRPm8uO6P81y0WG+A7gbiDLKbii+nYUEp//+VB9nX7zHfkuBfUsJxSVrSbHp/7euFNlzP4nIYqwGsChc+1FiU1mMxMdEEFGhNPzz55kVESN+GboyNqbKlQok/y8vzWCnRRlVtR/OMEtCl9EodO4gcZ2ok91ylBmE5BNbSB+Fn0vcAJcJ1kg2gm1X72ejJbaQasM/RcC2S+8XIRt/54bHsTtLdomw5jA5TQJfW1f2DpwKqyrmhA7YTjahdE7c/wC6/ueAgGYVIbXqLPeBJUTH+PQMFkn44negW4A==;QzC4KDiFoXD9W03pyoDiqw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32682999"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32682999"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1043
     height: 1043
     isCached: true
-
-related:
-  - title: "Artificial Neural Networks Global Market Report 2023: Sector to Reach $1.3 Billion by 2030 at an 11% CAGR"
-    excerpt: "ResearchAndMarkets.com is the world's leading source for international market research reports and market data. We provide you with the latest data on international and regional markets, key industries, the top companies, new products and the latest trends."
-    publishedDateTime: 2023-05-29T22:34:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/n32616857/artificial-neural-networks-global-market-report-2023-sector-to-reach-1-3-billion-by-2030-at-an-11-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32616857"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32616857"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 42
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "r70dYTVVmrQuIqSvuUQ1rmqtnp2J9uEfXfa3/z07gT5alrqN8ETu+zp1V41L7wypyuOwndlHi8fVYl0W0pA9P756UeYS8tufD72GnXi8xlYM+eLfqRrsvHsC6Kkwp2WxVBQc8re0V2HDQLWAKcDeTY3CrgE74lUijK0AantkbbMnwOe7pmldIUJq+OO2Kzc4u7z6iTYg5sHIc3MzC3hg9aEd/IRncuIVgVCWIsO+bngUO2TKzYFtx3z6AWyBnrRw2MIf4P1a3K5hMa/GbJzrRJxJXhcqm6unTzHoz2ic/86TyMFRuv3qfmrCm8lCKzQURUL0vz+62A564VFWercUdqxHJx8FLqaxsdJIORzjIkg=;yyXuAPzCHyPKJnIDXu+CKg=="
 ---

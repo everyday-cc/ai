@@ -131,6 +131,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "A lawyer got ChatGPT to do his research, but he isn’t AI’s biggest fool"
+    excerpt: "The emerging technology is causing pratfalls all over – not least tech bosses begging for someone to regulate them"
+    publishedDateTime: 2023-06-03T14:00:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/jun/03/lawyer-chatgpt-research-avianca-statement-ai-risk-openai-deepmind"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/jun/03/lawyer-chatgpt-research-avianca-statement-ai-risk-openai-deepmind"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/jun/03/lawyer-chatgpt-research-avianca-statement-ai-risk-openai-deepmind"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/1a91376e4676a8b5d2eef35632e0a54adcd7f2cf/0_123_4866_2920/master/4866.jpg?width=620&quality=85&auto=format&fit=max&s=b2774c2461091f7b2b6ea13932897571"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Forget the ChatGPT newcomer — AI is already helping to power global supply chains"
     excerpt: "ChatGPT may be the hot topic but AI has been embedded in enterprise technology for much longer. Samsara's Adam Warren digs into the value of AI in the logistics industry."
     publishedDateTime: 2023-05-31T09:57:00Z
@@ -176,6 +192,20 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/xDPXbHH__.11PlmHjydkZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/5b1ae28d022f8e6817c0cc692dfdd0b9"
         width: 1200
         height: 675
+        isCached: true
+  - title: "3 ChatGPT productivity hacks that’ll change the way you use AI"
+    excerpt: "ChatGPT can be used to improve productivity at work for specific tasks that might require repetition - here are a few use cases."
+    publishedDateTime: 2023-06-03T14:33:00Z
+    webUrl: "https://bgr.com/tech/3-chatgpt-productivity-hacks-thatll-change-the-way-you-use-ai/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/04/rsz_gettyimages-1252207238.jpg?quality=82&strip=all"
+        width: 2500
+        height: 1668
         isCached: true
   - title: "This ChatGPT-inspired large language model speaks fluent finance"
     excerpt: "Mark Dredze, associate professor of computer science, discusses BloombergGPT, the first large language model built specifically for the finance industry"

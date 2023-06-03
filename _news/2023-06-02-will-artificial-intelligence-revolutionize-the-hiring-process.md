@@ -39,24 +39,6 @@ related:
         width: 1600
         height: 800
         isCached: true
-  - title: "Intel adds AI engine to Meteor Lake processors"
-    excerpt: "Intel is going to add an AI engine to all Intel Meteor Lake processors. This is to facilitate the processing of increasingly present AI workloads, the"
-    publishedDateTime: 2023-05-30T11:56:00Z
-    webUrl: "https://www.techzine.eu/news/infrastructure/106627/intel-adds-ai-engine-to-meteor-lake-processors/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 19
-  - title: "Intel's 14th Generation Meteor Lake Processors: Emphasizing AI and Energy Efficiency"
-    excerpt: "Intel's 14th generation processors, codenamed Meteor Lake, is set to introduce a focus on AI and energy efficiency. At the Computex 2023 event, Intel revealed details about their upcoming Intel Core"
-    publishedDateTime: 2023-05-30T07:26:00Z
-    webUrl: "https://www.guru3d.com/news-story/intels-14th-generation-meteor-lake-processors-emphasizing-ai-and-energy-efficiency.html"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 12
 
 secured: "/UL78igfiRN3Ml4FIWb/73C6O6NGVtiUxkUECKKjVhxq5pUhJ2/jzC8sjyt+kutxcgK/j3X4i4OY5c/DmvVF0y9ZtoY5Gfsjlz+SAeD8X3FTtBujdSUUbUSjx1rTCtxUBdt4LgopES2oaykl/9PeebCEAW9OgXaP+fi8+j016CdOOx/8C/hiTpIBwP9FLbqQ1mSGvP5k/YfMW5V+h5ZQ7Ei+zzZZZpKH1NRrI5jZae69RzwTf+iWSrh+2heF4x4myYlj4XuhsPOHGBfH4AXQ5cIQqwhoDsx/oYjTjQ+LHXKGdi7yOqjIfcEFNvXBUPZbv8Kk1SBa0Mj7rk43z9wZ2CH79HwadAWnR7b8weHkXgq1yhSoXzXqF81gQYOGlerFmIivbndkdWCAjX/qxrRTkm7MDQBC09vu+ri9r7T6Q0tKlmhgjK3e4Eoc9eoVfmRCjVMKm5Qn6knkHCmrNlPIbCypfZSneJUPfCP4vfq+sRRLUfieUzZfhAd+/F5jrtMKN7dcVy0vC02CiCXdfbOFyw==;RWAce/vd6m0ghqkWWMZO0w=="
 ---

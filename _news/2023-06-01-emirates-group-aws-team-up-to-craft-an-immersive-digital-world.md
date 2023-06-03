@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Emirates Group, AWS team up to craft an immersive digital world"
-excerpt: "The Emirates Group is embarking on a futuristic immersive digital journey to transform its employee experiences -- a first for the industry -- by collaborating"
-publishedDateTime: 2023-06-01T00:08:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273849803/emirates-group-aws-team-up-to-craft-an-immersive-digital-world"
-webUrl: "https://www.bignewsnetwork.com/news/273849803/emirates-group-aws-team-up-to-craft-an-immersive-digital-world"
+excerpt: "The Emirates Group is embarking on a futuristic, immersive digital journey to transform its employee experiences -- a first for the industry -- by collaborating"
+publishedDateTime: 2023-05-31T23:54:00Z
+originalUrl: "https://www.malaysiasun.com/news/273849803/emirates-group-aws-team-up-to-craft-an-immersive-digital-world"
+webUrl: "https://www.malaysiasun.com/news/273849803/emirates-group-aws-team-up-to-craft-an-immersive-digital-world"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Malaysia Sun
+  domain: malaysiasun.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://cdn.bignewsnetwork.com/ani1685578399.jpg"
-    width: 630
-    height: 420
-    isCached: true
 
 related:
   - title: "Game On! Emirates Group and AWS team up to craft an immersive digital world"
@@ -81,6 +75,6 @@ related:
       domain: itp.net
     quality: 28
 
-secured: "v0bJZZzBtTJL/rdor5oncixTESDab1GSzqU8Hc6wMWyRWyk85Ez7qgzxRE3I+ZLzM/1oa/DAZ+xSuGjqzc4ymC4xdBjehtA4ptS5NCOo6N+s60JiP3KEDnIvAdNvJTqB9iD3Kdaeo+PKRmr7RJmmXjsUVPuyqC+hIb01j/y5cAavZ+R5QAMVOzFTVNj+Gsia7wkbxdksfbIWZeBpOnzlO6y9o9znSh7/8L79pNMo+TFFIW7iK7zb6evkjfHhhmjYX9hX45qq3Ia4AvznYmlp39SHRC0M0hiR8wl5vEZiwv24jXHLIrM8ncRGsRsJ2XoPq7lay5w0oT+uQj+OFwpTl08eOmqX1fQXQm58/3cnOuU=;sMa0YMmhB4QXJYKnKlTVIw=="
+secured: "xNTLjdOYhM+9CCFRYZzW73/HQx7tqzuUgjKTXU3dCu98z+2a+zhqlT/yTDmXFVoFibI373cV78eHgMhixdEE2Ia+tsx1/vgWlaYEK3gcK23Z2iNbmoHBoHb+Jyq9UDvI5WF2t5H3D5hWpn69coT2APCSJgupxZrH0NudfXXLqT71ndr10lp1ILRxYVJVFu851tsnlQ45Jnh8eqcHJSmeib5i+uA3umICnncGHWm4K7vKDFpzz7lBVGsxByY4oZhzzmPotuAVPUMUsUu9gtx4wZUDpo6vqjm6lCGr57egWd90mScHROhMMl1SgyVM2PkL4FVWh28MwPeJeBelMOVGnadedujxiAZfcon3ASOgIexujF7Nu/pMTk6+9FCopv9+/McspXbmfiTmvcEnxM9iIW8Pq/cqFjDsPMIOCntcAEUKa1Isvln+PBRrCu1dERTK9ZX05inxIyr/UCazmqdPV6Af8j3ENPMsiqQyDCox1woDgp6R/wBzPeC24CRpgpK6XlGhs1aaqAOoft3OXVnwMQ==;P3XKCQZVfaSMAzzz3rX2cg=="
 ---
 

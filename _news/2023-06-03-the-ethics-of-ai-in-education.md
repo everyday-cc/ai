@@ -90,6 +90,20 @@ related:
         width: 840
         height: 560
         isCached: true
+  - title: "The ethics of innovation in generative AI and the future of humanity"
+    excerpt: "To address the moral conundrums around generative AI we must understand how it can create positive change, and where it may fall short."
+    publishedDateTime: 2023-06-03T15:19:00Z
+    webUrl: "https://venturebeat.com/ai/the-ethics-of-innovation-in-generative-ai-and-the-future-of-humanity/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1061856486-koto_feja.jpg?w=1200&strip=all"
+        width: 1200
+        height: 613
+        isCached: true
   - title: "AI Acceleration in the Racing Industry"
     excerpt: "In this article, we’ll explore how AI is reshaping the racing landscape and the top companies to invest in the AI self-driving space – specifically race cars. In contrast to normal road traffic, car racing has no rules,"
     publishedDateTime: 2023-06-02T12:52:00Z
@@ -188,6 +202,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 41
+  - title: "Africa is Embracing the Artificial Intelligence Innovation Wave, says Experts"
+    excerpt: "The rise of Artificial intelligence and its revolutionary impact on African business, society, and culture led discussions during the GITEX Africa."
+    publishedDateTime: 2023-06-03T14:09:00Z
+    webUrl: "https://pctechmag.com/2023/06/africa-is-embracing-the-artificial-intelligence-innovation-wave-says-experts/"
+    type: article
+    provider:
+      name: PC Tech Magazine
+      domain: pctechmag.com
+    quality: 36
+    images:
+      - url: "https://pctechmag.com/wp-content/uploads/2023/06/Gitex-Africa-AI-discussion.jpg"
+        width: 1600
+        height: 1024
+        isCached: true
   - title: "XtalPi Announces Collaboration with Lilly, Using AI + Robotics to Uncover First-in-class Therapeutics"
     excerpt: "XtalPi has established itself as an industry leader in combining mutually informative AI \"dry lab\" algorithms with large-scale \"wet lab\" robotics to empower pharmaceutical innovation. Building upon existing success,"
     publishedDateTime: 2023-05-30T12:13:00Z
@@ -235,6 +263,6 @@ related:
         height: 500
         isCached: true
 
-secured: "RioSQyqseib7vWRL0tub4hBu1daOKeDHYpAF5cleL7sgEQqhXpBCqnHkXlv36kgbshVONU4idVoeI3sRiSIQCNdQkXkwM7hlXbVXLvISobjpR2oKQD3WU5MtwRJTn2wS0e8HmJzHrmy7n6kFSWV8nbA9+8pw2WqQc05EXHmq8Yq/au2akbRqI+AcQypcHRQ7n6aY2srkEoGju9D3Nj8k0GVtC7mycQbiNOQ+n9vtvDPsyWIb9NWhewHZ214vZS/21+T7yEaqkJSRARG72AVmFYr8ssS5G3sMStAg8gFMZWRYS0TVl9oftvutdBjRdgO7bxE+etG8Pq/mV6s2UrB4SX8s1hAg0ejz7RppjodZZMI=;ODOxoBAsi5bEQQK0uApj0Q=="
+secured: "WVIcIo0k8g3MnYk7DrL+d1XrCb4kEaIfUXxqgXHr+X8Ydq6YFlmuY1dMDbOCcEE1HY3gQeVxDuAAEov5QsqwYjZ5o45/ZmprCVvbvWUXJjk3sUOz9XK1ocFtqo0HAw/9bEmX5ijYCmZ1ACuKeGCPHrmWvjjQtNwew565guYVPfkpdmbmGWDJn0wTz3108yoD+Q4p/fhPUHrAhqPEdiU/6eLih9Sz6QtdMLbTOIsvPXZst96Ssc/hYB99S/gD1kbG3TVI5OHNJNWko6InbM0cT1otSfF4u2x6Y7CXeY114svb1zpibfjKQxrKqfkfV5BP2apZjIRQft7cBrg/OxEm2LI1JSVzz3d7E43D4GKt+DVD/EXJBB5050xqWfnYtQEpHiHFGzHKBYLBQ9duQWJOJzI9wHeF68KDQUFc5YfHPiZ6rrLNuY+0zvzJ6VbGhu2UR2yTQ2b56Vm1PPmHe4ZwdMG04Of39dmcI8HWvmIm6z1peFB4TESJm2uXnvOfrxug0HsVQMZ7RdrDT7s4PBWpMA==;Xw7Vnbo8w7D1g55JdAhSKg=="
 ---
 
