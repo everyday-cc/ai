@@ -55,22 +55,6 @@ related:
         width: 960
         height: 673
         isCached: true
-  - title: "Woman recovering after Tesla crashes in self-driving mode"
-    excerpt: "A woman hit a tree after law enforcement said she put her Tesla in self-driving mode.The crash happened Sunday night in Me"
-    publishedDateTime: 2023-05-29T14:28:00Z
-    webUrl: "https://wwmt.com/news/state/woman-recovering-after-tesla-crashes-in-self-driving-mode"
-    ampWebUrl: "https://wwmt.com/amp/news/state/woman-recovering-after-tesla-crashes-in-self-driving-mode"
-    cdnAmpWebUrl: "https://wwmt-com.cdn.ampproject.org/c/s/wwmt.com/amp/news/state/woman-recovering-after-tesla-crashes-in-self-driving-mode"
-    type: article
-    provider:
-      name: wwmt
-      domain: wwmt.com
-    quality: 59
-    images:
-      - url: "https://wwmt.com/resources/media/6193ac78-15be-45d3-91c8-bb4f58e011de-large16x9_AP22265426693270.jpg?1663855123407"
-        width: 986
-        height: 555
-        isCached: true
   - title: "Hardware 4.0 spotted in Tesla Model Y, self-driving suite still unofficial"
     excerpt: "The Tesla Model Y is getting Hardware 4.0, an upgraded version of the electric vehicle brand's sensor and software package"
     publishedDateTime: 2023-05-30T20:27:00Z

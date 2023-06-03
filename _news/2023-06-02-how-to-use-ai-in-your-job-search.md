@@ -26,38 +26,45 @@ images:
     isCached: true
 
 related:
-  - title: "How to talk about AI (even if you don’t know much about AI)"
-    excerpt: "There is a trend in the AI community right now to talk about the long-term risks and potential of AI. It’s easy to be distracted by hypothetical scenarios and imagine what the technology could possibly do in the future, but discussions about AI are usually better served by being pragmatic and focusing on the actual, not the what-ifs, Vincent adds."
-    publishedDateTime: 2023-05-30T08:12:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/30/1073680/how-to-talk-about-ai-even-if-you-dont-know-much-about-ai/"
-    ampWebUrl: "https://www.technologyreview.com/2023/05/30/1073680/how-to-talk-about-ai-even-if-you-dont-know-much-about-ai/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/30/1073680/how-to-talk-about-ai-even-if-you-dont-know-much-about-ai/amp/"
+  - title: "Top 5 Artificial Intelligence Start-ups to Watch in 2023"
+    excerpt: "Founded in 2021 by former OpenAI researchers, Anthropic counts Google as a major investor. The Alphabet ( GOOG -0.63%) ( GOOGL -0.75%) subsidiary took a 10% stake earlier in 2023, and Anthopic has had multiple funding rounds this year. It was valued at $4.1 billion in March. It also counts Salesforce ( CRM 1.59%) and Zoom ( ZM -0.89%) as investors."
+    publishedDateTime: 2023-05-30T20:30:00Z
+    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-startups/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/yes-robots-yes-2a.jpeg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://m.foolcdn.com/media/dubs/images/original_imageshttpsg.foolcdn.comeditorialimag.width-600_IFPc1qZ.jpg"
+        width: 600
+        height: 399
         isCached: true
-  - title: "Don’t worry so much about artificial intelligence. It needs us | Letters"
-    excerpt: "AI pioneer Geoffrey Hinton outlines 4 dangers of artificial intelligence | May 7"
-    publishedDateTime: 2023-05-30T09:00:00Z
-    webUrl: "https://www.tampabay.com/opinion/2023/05/30/dont-worry-so-much-about-artificial-intelligence-it-needs-us-letters/"
-    ampWebUrl: "https://www.tampabay.com/opinion/2023/05/30/dont-worry-so-much-about-artificial-intelligence-it-needs-us-letters/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/opinion/2023/05/30/dont-worry-so-much-about-artificial-intelligence-it-needs-us-letters/?outputType=amp"
+  - title: "AIStartups Unveils Comprehensive Directory of AI Tools and Startups"
+    excerpt: "In addition, it provides a subscription service that gives users exclusive access to the latest startup tools and resources, keeping them at the forefront of AI innovation. “Our vision is to help businesses unlock the future of AI and stay ahead of the ..."
+    publishedDateTime: 2023-06-02T22:12:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/ab32701740/aistartups-unveils-comprehensive-directory-of-ai-tools-and-startups"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32701740"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32701740"
     type: article
     provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 56
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
     images:
-      - url: "https://www.tampabay.com/resizer/yU6ClUExOAEvyHa9fuMOpPPEI1A=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/YJH3RAIUC3DQ5P6FVW3MB6H4UI.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
+  - title: "Italy plans state-backed fund to promote AI startups"
+    excerpt: "Italy's government plans to set up an investment fund backed by state lender Cassa Depositi e Prestiti (CDP) to promote startups investing in Artificial Intelligence (AI), cabinet undersecretary Alessio Butti said on Tuesday."
+    publishedDateTime: 2023-05-30T11:23:00Z
+    webUrl: "https://www.reuters.com/technology/italy-plans-state-backed-fund-promote-ai-startups-2023-05-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
 
 secured: "1NlCzqHCaZbt0CgOOUkOjyQiN7nvssPSSzsjoK2wkxp8L+WnEkROXQFcbcc1DadB2Z9uHPy83dogRHzOdCqE8h9JdoKcrOYIxcomum0E1gSRYrcKd3jq6mgzfVE9CGdIXskMZLIjeJuyFXWlwwplOnyNtjZwil+o1qkC2eQ3QMKVotPMSUcJrB0G+fxj2yYEYihQzWaZ3gM9/ZIyXwDCJqOxn+CjWyi5336Ou1k0cLfB3iNb5qbkmn5PGC7IWy3xOxmeCrwr7TBztXblO0dLAm8dVS9ZoytnNGpQ/1leE5vam1cGZ9IO7PZ+apmJt55xaXPOKbA8nlDdFnVLC1+zuplbv3KcoDX/HTHv7M85v2E=;Jpxx6YMI7OnPNYtdpKeXXw=="
 ---

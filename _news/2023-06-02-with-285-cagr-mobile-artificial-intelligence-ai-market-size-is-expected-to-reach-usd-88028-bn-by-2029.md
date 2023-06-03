@@ -2,21 +2,29 @@
 category: news
 title: "With 28.5% CAGR, Mobile Artificial Intelligence (AI) Market Size is Expected to Reach USD 880.28 Bn by 2029"
 excerpt: "According to Exactitude Consultancy the Global Mobile Artificial Intelligence (AI) Market Size is expected to reach USD 80.28 Bn by 2029, growing at a 28.5% CAGR of Between Forecast Period 2023 to 2029,"
-publishedDateTime: 2023-06-02T11:39:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/06/02/9825500.htm"
-webUrl: "https://it.tmcnet.com/news/2023/06/02/9825500.htm"
+publishedDateTime: 2023-06-02T10:03:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32686506/with-28-5-cagr-mobile-artificial-intelligence-ai-market-size-is-expected-to-reach-usd-880-28-bn-by"
+webUrl: "https://www.benzinga.com/pressreleases/23/06/n32686506/with-28-5-cagr-mobile-artificial-intelligence-ai-market-size-is-expected-to-reach-usd-880-28-bn-by"
+ampWebUrl: "https://www.benzinga.com/amp/content/32686506"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32686506"
 type: article
-quality: 16
-heat: -1
-published: false
+quality: 56
+heat: 76
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "Artificial Intelligence (AI) in security market size worth USD 20.46 billion in 2031 | CAGR: 13.21%"
@@ -28,7 +36,16 @@ related:
       name: tynmagazine.com
       domain: tynmagazine.com
     quality: 39
+  - title: "Composite AI Market worth $4.4 billion by 2028 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "The Composite AI Market is estimated to grow from USD 0.9 billion in 2023 to USD 4.4 billion by 2028, at a CAGR of 36.5% during the forecast period, according to a new report by MarketsandMarkets™. The growing availability of data,"
+    publishedDateTime: 2023-05-31T15:10:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/31/9823872.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
 
-secured: "BPIijX3CCfPjyiZ9DR7F7puW9qsVZ33TyVR7BeXUzTZEHRkxOZUXwmE2O4XRsxlf1dEF8B3OVz5H30Y00oc4XeMySJBQHYNGeIGtFcKxWPHX6kt/WoHF7goVH59Y6Nylwlsnk+za4jBmJD5yN2xIQ6t+OVPoIEaFHBUFmeoZZRVZG7fDrnKq4CEMpvhZ+oQOEPMlJ0AOpdQiWyjH1WNcZBFC7JQaMfQtUUiNHhlk5lf6I03VLuaHkrJhU+T89af7FMNg0Iw2oX2x8Zy/N6yL8uD2HqvP0bvE8+Zl23B5or8GhU7N34/G9/D9VC/Diw7a/yVOBOurLRKcwwwqgOnjKwmt44pFW8/ShxAqGpya9uY=;gv/RHr+lWUT1I1ZvhKSpSA=="
+secured: "6deR0ayE94fihDaLu2F95Hn/hvqEU/TIP34oa3P2sjIMMKBfHdkcbMmxm9z7VUHKVPyLsLpxei2J8P5cqU8VT4V/HOSr+nxri72MuRcwc5GKoTzqXOi0BGzD+24PovuVjYhHtYr8vowGXfPY5P00+qqALa7fjyMkdRtrkxc9CjVke37NFQfD5tOFqPDiSl8ruF8CI41wBfK/2OPnIE+9c4gQPDV65ZscTMODotLYC6vyQTwaZV7UTaB8eeNkK8nC7JoBWZ7Y4kIpQRxzvg/Qe1y9Oq0eTiwgR4ThWANJkQmXSslLMNmRl5PJC4x7/E1ujFvoEfABb8BxIgW5DgKAb68rdT/0kGCc6+JivVbMK3U=;yYigw3koagYo6olpSRNSNA=="
 ---
 

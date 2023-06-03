@@ -7,7 +7,7 @@ originalUrl: "https://www.securityinfowatch.com/security-executives/article/5306
 webUrl: "https://www.securityinfowatch.com/security-executives/article/53062275/could-regulations-tamp-down-promise-of-ai-in-security-industry"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "The impact of AI on the financial services industry"
-    excerpt: "Artificial Intelligence (AI) has emerged as a transformative force in various sectors, revolutionizing the way industries operate and deliver services. One such domain experiencing significant disruption is the financial services industry."
-    publishedDateTime: 2023-06-01T15:01:00Z
-    webUrl: "https://www.bworldonline.com/banking-finance/2023/06/02/526310/the-impact-of-ai-on-the-financial-services-industry/"
-    ampWebUrl: "https://www.bworldonline.com/banking-finance/2023/06/02/526310/the-impact-of-ai-on-the-financial-services-industry/?amp"
-    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/banking-finance/2023/06/02/526310/the-impact-of-ai-on-the-financial-services-industry/?amp"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 39
 
 secured: "vuypLBC8gefm3rP9nb5ojk6Fk8Qk3r6w3Nelw7aJvNON3A5wCzv/uy1S7VpG2tWi4f2BzsNE4cuVzRvtRTby3XitwuUtj4K73jxHNfSPZApuAQdYZRSMRcb8GQhGS3wkPuMQiok6gLCZZabrdcqAabrPPsQLbHL8FtMmFugZhnpD3kBlp7dyS8CNzDdQg6LZ837/NdQJwGhgwLQ2IVFhRBGn/KO0Xz4n3JyQAsauTzz0Jap/XaGzvk3A0pVSBTzQE0t1aDTNsN8B5zV5P7WyiwZJkiDbpvgw/HCeQa1qexlfw1tdFIPecrCiZVqOrsBimxfTbDsKZr0dRx8NWfNxPdtShmWtHKjxrRNEzPJjf4zG3w4TKZ3AfA6PJANc0f2+6G7xA5UTA0H65WFrwGqtcUcmVKOzHZW0L7+ZCGFrV90cMy4MoZ3b1XezkpSgiTQxR7kp+BztDpn6Aress4QCeJnmVQD32pi/IiB8cUe8W2pBykJEgd5Ffk/v1vbXXxlsO/1ikV3ePDHUnZSqlkIOvA==;M5By1BQ7AmtGYS/Sr1i8sA=="
 ---

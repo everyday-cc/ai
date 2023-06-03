@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence raises risk of extinction, experts say in new warning"
 excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
 publishedDateTime: 2023-05-31T12:32:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692490"
-webUrl: "https://abcnews.go.com/Business/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692490"
+originalUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692579"
+webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692579"
 type: article
 quality: 49
 heat: -1
@@ -507,20 +507,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Prominent AI Figures Issue Warning On The Global Priority Of Addressing AI's Existential Threat"
-    excerpt: "A group of renowned AI researchers, engineers, and CEOs has jointly expressed concerns over the potential existential threat posed by artificial intelligence (AI) to humanity. The San Francisco-based non-profit,"
-    publishedDateTime: 2023-05-30T12:44:00Z
-    webUrl: "https://www.technobezz.com/prominent-ai-figures-issue-warning-on-the-global-priority-of-addressing-ai-s-existential-threat/"
-    type: article
-    provider:
-      name: Technobezz.com
-      domain: technobezz.com
-    quality: 27
-    images:
-      - url: "https://cdn.technobezz.com/c/image_Carousel_imageformat_lightbox_1034446794_455edf9095/image_Carousel_imageformat_lightbox_1034446794_455edf9095.jpg"
-        width: 1564
-        height: 782
-        isCached: true
   - title: "AI could make humans extinct, say top experts and CEOs in stark warning"
     excerpt: "Surprisingly, however, that latter view is shared by many leading experts in artificial intelligence – including the CEOs of both OpenAI and Google DeepMind … It’s the sort of statement you’d normally expect from conspiracy theorists living in ..."
     publishedDateTime: 2023-05-30T12:54:00Z
@@ -594,6 +580,6 @@ related:
       domain: texasstandard.org
     quality: 0
 
-secured: "8hNlc6Dgfihgm5k3hYbbXZ3kOVhpnEn4BGvOEhCJhMdPbFSirc2bdQnr5XAsU28zYeMdiWmT37J6WDqfhLq6ESzDEUUP7XDMzxERdiqr7bVivW2SKAZLphjXCbdI+M9lyutHL/eiNK6Uuga0/FBgrpVmpgei+i1pVYsz7PRRbwTqzwS2AUo3hqcFFC4vllgM79j6iPLuG01a+TG9mSg64VwaDcR2S32pr7tDa75yeWDA4ZTbIgxQ851fNkTzQ+sR3PuIQrx/mzpmuq5RKSa9ieZ0Gz4zb+4uE/almtdVsBRbZLs2uAwfxztnCVWmxwgttpr+/iluaaBm32ccYpKBFzhNLOyDRW3xsjxFfSTw2AF3MJHQFBMM9nbOCqZnTAvCjmKHPQtFROJbv0yNJN2sop0NpwsVa8XaJ80iXEcwaV4FYRN8rzZCI+Rte8ptNHKxTfBX5o84gOXghkQwNQYS7YDaM6Q2rBNnWoQhdIyGaD/6pyol7skRbb/WzRDsSz7/DRbFbZ47H7Qx5wqD6Rr/WQ==;9ly9iywKE+kr1n+MIyRH+A=="
+secured: "uDxiYRgY8AVjUXYgckSosYFI2G5xKRQdz0tpQpMNJGGUw5Fa1pzXvGIGJI+vW9usGIL/7KoKEinFidR6sFNJs+hQ7UcmExlSIzQMVUGLfsVq4xCcfRaaway+fMWYCCQIHcFRXmlKGrc8VnQoh9WH76iiR2CMucSl26H1XTvyyMXXQq/vxzWzt0+28ThSpdSZzhpATJ8Ek9H4tEezGpBD/Ty3dwd44Q64x97Rk2L4PzMv6iCowjS8FUp13FAFsmfl5GVTz6ekuHDBCkLTbki+ZGmcy9jK1EYZXl0DLsdrDcMIU03AbzhBPyiNk2spd4Rb8BBmu9DxFdPaQoSJBYbtWs0qIpnHnjybTWCYG4Bk3kg=;ge7DOYVI0kPDS+Uy4s341w=="
 ---
 

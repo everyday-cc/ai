@@ -9,7 +9,7 @@ ampWebUrl: "https://abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-i
 cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204479203_204479203-4497212ae77643a5a468fcbbb895bc0c_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
         width: 600
         height: 399
-        isCached: true
-  - title: "What’s new in robots? An AI-powered humanoid machine that writes poems"
-    excerpt: "\"It means we have to build an intuitive system that people can learn in a very short time, like half an hour,\" he said."
-    publishedDateTime: 2023-05-31T12:50:00Z
-    webUrl: "https://sentinelcolorado.com/a-town-magazine/lifestyle/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/"
-    type: article
-    provider:
-      name: Sentinel Colorado
-      domain: sentinelcolorado.com
-    quality: 39
-    images:
-      - url: "https://sentinelcolorado.com/wp-content/uploads/2023/05/AP23150457430119.jpg"
-        width: 1024
-        height: 683
         isCached: true
 
 secured: "eUtRFgYccA9oNz83mVISPwm4J5oq40y2xhc84ik6I39mmClZE53DsoDCB0Za4SyzZkPkyXlbO0/AkXaEkXxZFDG77s2lyU61foWp8Wc0pOAyyQVhG8nUi1Shc73wupsqb/VLjhIM0oVFFpWGQXr99E8j2IdiBRIJ6Nz7UrriPTA214CkIBggupniGtkm78IBWOX8mlUGoReZFmfo1u9Iq5UEyF3MSwxRhnvApkszG98u20L7FiZE6PLvMVqGr+YueEnFGtFrAq7tzOxKezWLt4HIJhzm5BnTVzrWX5CnAjFEZ0lyjFbtDw/OWd2/5S0uIXk8uprIe7xTjjmR8xXybERss/Fws1ZTIwIvubvTy49+v7J2ei274xOmGg7cSUTYrt96FQjT+E4j+ZTbD1gofJA7xmThHojz77nnlLt4ei8ZPepgSbuP0b1IC9V9X5G3jGN5ixIaaFzDWcHI8RrQrf40evddI4d9jr9NPdf8tahNs0nUsxsNoWlfuKE4WBLQwZmyqasNJ0ZMS+zlHyUSrA==;PVYlWVB6WnxBQauiabyDmQ=="

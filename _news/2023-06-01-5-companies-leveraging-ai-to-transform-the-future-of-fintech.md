@@ -7,7 +7,7 @@ originalUrl: "https://ibsintelligence.com/ibsi-news/5-companies-leveraging-ai-to
 webUrl: "https://ibsintelligence.com/ibsi-news/5-companies-leveraging-ai-to-transform-the-future-of-fintech/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AmEx is experimenting cautiously with generative AI for fintech"
-    excerpt: "AmEx Digital Labs is currently exploring ways LLMs could be used “behind the scenes” to analyze the feedback and inquiries customers provide."
-    publishedDateTime: 2023-05-29T14:50:00Z
-    webUrl: "https://venturebeat.com/ai/amex-is-experimenting-cautiously-with-generative-ai-for-fintech/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/blue.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Fintech founder using AI to improve lives and livelihoods in Bangladesh"
     excerpt: "Women in Tech Excellence Rising Star of Financial Services awards winner, Shabnam Wazed is shaping fintech, using AI to make financial services more inclusive."
     publishedDateTime: 2023-06-02T09:31:00Z
@@ -53,6 +39,15 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "STrade GPT Revolutionizes Financial Trading with AI and Machine Learning"
+    excerpt: "By adopting the highly flexible technology of GPT-4 and seamlessly integrating it with their unique AI capabilities, STrade GPT proudly presents Fintech's first Dual Intelligence Logic Training Algorithm (DILTA)."
+    publishedDateTime: 2023-06-01T23:26:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/getnews-2023-6-1-strade-gpt-revolutionizes-financial-trading-with-ai-and-machine-learning"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 35
   - title: "Generative AI Is Moving Into Adtech. But Which Companies Will Stand The Test Of Time?"
     excerpt: "Generative AI is bulldozing through every industry possible, including advertising and brand marketing. And VCs have some choices to make."
     publishedDateTime: 2023-06-02T11:00:00Z

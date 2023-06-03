@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-05-30-ibm-tech-now-may-30-2023.md",
+      "title": "IBM Tech Now: May 30, 2023",
+      "excerpt": "The latest episode of IBM Tech Now looks at IBM Watson Code Assistant, IBM Hybrid Cloud Mesh and IBM Event Automation.\nThe post IBM Tech Now: May 30, 2023 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-tech-now-77/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-tech-now-77/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T06:01:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-the-news-media-ethics-and-chatgpt-for-pr-and-comms-work.md",
       "title": "The News, Media Ethics And ChatGPT For PR And Comms Work",
       "excerpt": "ChatGPT has been an absolute sensation since its launch in November 2022. It brings to bear an impressive array of capabilities, from writing software code to creating hipster craft cocktail recipes. Its generative artificial intelligence (AI) cousins, including Google’s Bard and Microsoft’s Bing AI, deliver similar features and functionality.",
@@ -270,7 +312,7 @@
       "originalUrl": "https://electrek.co/2023/05/30/tesla-driver-claims-crashed-tree-self-driving-mode/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -362,49 +404,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-how-to-talk-about-ai-even-if-you-dont-know-much-about-ai.md",
-      "title": "How to talk about AI (even if you don’t know much about AI)",
-      "excerpt": "There is a trend in the AI community right now to talk about the long-term risks and potential of AI. It’s easy to be distracted by hypothetical scenarios and imagine what the technology could possibly do in the future, but discussions about AI are usually better served by being pragmatic and focusing on the actual, not the what-ifs, Vincent adds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/05/30/1073680/how-to-talk-about-ai-even-if-you-dont-know-much-about-ai/",
-      "originalUrl": "https://www.technologyreview.com/2023/05/30/1073680/how-to-talk-about-ai-even-if-you-dont-know-much-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/05/yes-robots-yes-2a.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/05/30/1073680/how-to-talk-about-ai-even-if-you-dont-know-much-about-ai/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/30/1073680/how-to-talk-about-ai-even-if-you-dont-know-much-about-ai/amp/",
-      "publishedDateTime": "2023-05-30T01:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     },
     {
@@ -701,7 +700,7 @@
       "originalUrl": "https://venturebeat.com/ai/mediatek-taps-nvidia-gpu-and-ai-for-connected-car-chipsets/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 329,
+      "heat": 319,
       "tags": null,
       "images": [
         {

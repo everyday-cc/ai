@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/innovation/aws-picks-biotech
 webUrl: "https://www.beckershospitalreview.com/innovation/aws-picks-biotech-startup-for-ai-accelerator-program.html"
 type: article
 quality: 54
-heat: 74
+heat: 94
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google Invests in AI Startup Runway to Wrest Cloud Business From AWS"
+    excerpt: "Google is investing in Runway, a New York–based startup that lets customers generate video from text descriptions using artificial intelligence it pioneered, at a valuation of around $1.5 billion including the new capital,"
+    publishedDateTime: 2023-05-31T21:48:00Z
+    webUrl: "https://www.theinformation.com/articles/google-invests-in-ai-startup-runway-to-wrest-cloud-business-from-aws"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 54
+    images:
+      - url: "https://tii.imgix.net/production/articles/10624/dc3a7145-40e1-4de6-8155-f1e313c7c6ea.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AWS announces the 25 startups selected for its first 'fintech in Africa' accelerator"
     excerpt: "Cohort participants from Kenya, Nigeria, South Africa, Egypt, Ghana, Uganda, and Cameroon    Description: Sekai Ndemanga, Head of FinTech Venture Capital and Startup Business"
     publishedDateTime: 2023-06-01T21:00:00Z
@@ -39,6 +53,15 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "Alchemist Accelerator loses new managing director to AI startup"
+    excerpt: "Rachel Chalmers took over in September when founder Ravi Belani stepped down last fall. Here's why she's leaving to join an AI startup after helming Alchemist Accelerator for less than a year."
+    publishedDateTime: 2023-05-30T18:09:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/05/30/alchemist-accelerator-rachel-chalmers-steps-down.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
   - title: "AWS announces the 25 startups selected for its first 'fintech in Africa' accelerator"
     excerpt: "African fintech startups have been selected for the inaugural Amazon Web Services (AWS) FinTech Africa Accelerator cohort. This cohort was selected from over 500 applications and is part of the EMEA Startup Loft Accelerator (SLA) program run by AWS."
     publishedDateTime: 2023-06-01T16:43:00Z

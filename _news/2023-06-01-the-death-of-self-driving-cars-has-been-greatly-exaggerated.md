@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 789
         isCached: true
+  - title: "3 artificial intelligence share ideas"
+    excerpt: "Investing in artificial intelligence (AI) has become a key stock market theme in 2023. Here are three share ideas that could benefit."
+    publishedDateTime: 2023-06-01T16:23:00Z
+    webUrl: "https://www.hl.co.uk/news/articles/3-artificial-intelligence-share-ideas"
+    type: article
+    provider:
+      name: Hargreaves Lansdown
+      domain: hl.co.uk
+    quality: 39
+    images:
+      - url: "https://www.hl.co.uk/__data/assets/image/0004/18673762/Graphic-lightbulb.jpg"
+        width: 5150
+        height: 2508
+        isCached: true
 
 secured: "B0/qlVLzrsxOHgs38/3b6C2YfwfjhVfNkqzcr1w/aczR651DOSiNlXnuodYhKaxyz4mzjKEWl58xafibb7v9XDvsGWiHsBNrSZciOdg0KFl1VLIAIuEs6iYdi5j2xYEbqlOHTzA1Mdn40WpJcF+DWuY24quQra6fsrYF26J1WGDkWyZ5vAIuAAnfpfsNfcwdkk86FNBJm8t4Yd7CMmGkQQ2AmbU7UQxYEftzJRey1F7c+Bo8ZQAfuNCwqKYteGrMWwHUU8VsvNaLlrAu1VRlaedKcSpzG3htMGWElhd1+2HaJapq1O7XjVmXo5U97T9YwEe4bsUGWqbhBKnFNiU0Mz6aI7XCONd9bsPes49IXzvNNsrXZq4hcRkXUnLGKFpzn54ltBOTUygnjdH7fBqnMK5QC8QO3hBhnBezQimBNwbj/l4JXt7TNYhanH/bOAELFM0iq0fX12f8AlImqmVb8m4QWOSdbtGNa0hqUl49mYvhAOwTmtAFFCo/Zjo8Va+p/YOLkcBItTRNcqfXJ8QQHg==;5vCu4W/UIyBmEuq9IgbEKw=="
 ---

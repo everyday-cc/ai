@@ -106,6 +106,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-02-your-evening-briefing-ai-is-sweeping-across-wall-street.md",
+      "title": "Your Evening Briefing: AI Is Sweeping Across Wall Street",
+      "excerpt": "JPMorgan is advertising for more AI roles than rivals. Morgan Stanley bankers are, well, “experimenting.” Unsurprisingly, the AI revolution is unfolding rapidly on Wall Street as wider interest grows in the evolving technology and its likely impact on business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2023-06-01/bloomberg-evening-briefing-new-ai-jobs-are-sweeping-across-wall-street",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2023-06-01/bloomberg-evening-briefing-new-ai-jobs-are-sweeping-across-wall-street",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1_ZOx4vSljQ/v0/1200x900.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-the-ethics-of-communication-between-ai-and-humans.md",
       "title": "The Ethics Of Communication Between AI And Humans",
       "excerpt": "AI has taken the world by storm. With the rise of ChatGPT, Bard and autonomous cars, we are changing how we work, live and even comprehend life. With this rise comes worrying concerns around the ethics of communication between AI and humans. Consequently ...",
@@ -207,49 +259,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-how-to-talk-about-ai-even-if-you-dont-know-much-about-ai.md",
-      "title": "How to talk about AI (even if you don’t know much about AI)",
-      "excerpt": "There is a trend in the AI community right now to talk about the long-term risks and potential of AI. It’s easy to be distracted by hypothetical scenarios and imagine what the technology could possibly do in the future, but discussions about AI are usually better served by being pragmatic and focusing on the actual, not the what-ifs, Vincent adds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/05/30/1073680/how-to-talk-about-ai-even-if-you-dont-know-much-about-ai/",
-      "originalUrl": "https://www.technologyreview.com/2023/05/30/1073680/how-to-talk-about-ai-even-if-you-dont-know-much-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/05/yes-robots-yes-2a.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/05/30/1073680/how-to-talk-about-ai-even-if-you-dont-know-much-about-ai/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/30/1073680/how-to-talk-about-ai-even-if-you-dont-know-much-about-ai/amp/",
-      "publishedDateTime": "2023-05-30T01:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     },
     {

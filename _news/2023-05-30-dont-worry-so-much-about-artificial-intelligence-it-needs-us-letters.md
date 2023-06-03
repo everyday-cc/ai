@@ -42,22 +42,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "How to Use AI in Your Job Search"
-    excerpt: "Artificial intelligence is about to transform the job search. Research confirms the value of using AI in your job search. At the very least, AI can be of immediate practical help with your resume."
-    publishedDateTime: 2023-06-01T20:49:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/platform-for-success/202306/how-to-use-ai-in-your-job-search"
-    ampWebUrl: "https://www.psychologytoday.com/za/blog/platform-for-success/202306/how-to-use-ai-in-your-job-search?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/platform-for-success/202306/how-to-use-ai-in-your-job-search?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-06/ai.jpg?itok=YfnF92cM"
-        width: 1528
-        height: 800
-        isCached: true
 
 secured: "cP6od8X5dd3T4F9CUa1ZBJZd2Oq+GRL0NhrcwrwyaRamuVT9CNYw9JOD+kLPgNv4eDsGk8tG8ju9tbwYxNG6p+P+VHqmIM2K/38NjkDCUSFDUW+IL3G3Kg3umMb+UFlih6/iLQeSxqAxLgOzYVpsFnL33XJHcqqyukNcBUAl+WBx98HO/aZEL6GuELhy315ab3VtbGmIJWOriAOKJE+7J6+WAUVZ8ARIWusNBhWvcS0bNVNIXOy8sjZfBkbfuJjvrBdEXb8onuZzUZ7MAzK8WY5sLrMdNP7kz7TqDMUZjzig0OKy2TEHfUe/W2VSPzU2a89bT2U1+mvPDQoGLdi3Frup6/HVU1V2s/1zD9SZasPIBRMaLnokF9Vvoy8DQPq/0fawA/boH1K6zJJVK1icFaVjn18dvUtCvtymyCbfDGByYKB+t/lJRJWr2jcmu/yGX0eXGb/NcZXzVmiZUvqE1nZ50jEPpnvNTowuxezE3BgZbR4WUdE5EPjTg/WF+6tJ862UbiHCancrCjRAjk3pcw==;mIizlqTj25NNe/I5TMGi7g=="
 ---

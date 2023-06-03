@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidbirch/2023/06/02/the-latest-paris-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2023/06/02/the-latest-paris-fashions-in-fintech/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Rise of AI in FinTech"
-    excerpt: "The financial industry has witnessed a significant transformation in recent years with the rise of financial technology (FinTech) and the emergence of open finance. These disruptive forces have revolutionized traditional banking and financial services,"
-    publishedDateTime: 2023-05-30T05:20:00Z
-    webUrl: "https://taxguru.in/finance/rise-ai-fintech.html"
-    type: article
-    provider:
-      name: Tax Guru
-      domain: taxguru.in
-    quality: 39
-    images:
-      - url: "https://taxguru.in/wp-content/uploads/2022/06/Taxguru-Logo-1.jpg"
-        width: 500
-        height: 500
-        isCached: true
   - title: "Why banks are chasing fintech partnerships"
     excerpt: "Traditional banks are keen to partner with fintechs for their knowledge. But what do the digital players get out of the deal?"
     publishedDateTime: 2023-06-02T15:17:00Z

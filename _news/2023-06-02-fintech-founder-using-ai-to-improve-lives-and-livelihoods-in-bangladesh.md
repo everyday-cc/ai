@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AmEx is experimenting cautiously with generative AI for fintech"
-    excerpt: "AmEx Digital Labs is currently exploring ways LLMs could be used “behind the scenes” to analyze the feedback and inquiries customers provide."
-    publishedDateTime: 2023-05-29T14:50:00Z
-    webUrl: "https://venturebeat.com/ai/amex-is-experimenting-cautiously-with-generative-ai-for-fintech/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/blue.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "5 Companies leveraging AI to transform the future of FinTech"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-06-01T07:03:00Z
@@ -53,6 +39,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "STrade GPT Revolutionizes Financial Trading with AI and Machine Learning"
+    excerpt: "By adopting the highly flexible technology of GPT-4 and seamlessly integrating it with their unique AI capabilities, STrade GPT proudly presents Fintech's first Dual Intelligence Logic Training Algorithm (DILTA)."
+    publishedDateTime: 2023-06-01T23:26:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/getnews-2023-6-1-strade-gpt-revolutionizes-financial-trading-with-ai-and-machine-learning"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 35
   - title: "Generative AI Is Moving Into Adtech. But Which Companies Will Stand The Test Of Time?"
     excerpt: "Generative AI is bulldozing through every industry possible, including advertising and brand marketing. And VCs have some choices to make."
     publishedDateTime: 2023-06-02T11:00:00Z

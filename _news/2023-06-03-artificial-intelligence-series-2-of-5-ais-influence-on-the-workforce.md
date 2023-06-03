@@ -1,46 +1,35 @@
 ---
 category: news
-title: "Prominent AI Figures Issue Warning On The Global Priority Of Addressing AI's Existential Threat"
-excerpt: "A group of renowned AI researchers, engineers, and CEOs has jointly expressed concerns over the potential existential threat posed by artificial intelligence (AI) to humanity. The San Francisco-based non-profit,"
-publishedDateTime: 2023-05-30T12:44:00Z
-originalUrl: "https://www.technobezz.com/prominent-ai-figures-issue-warning-on-the-global-priority-of-addressing-ai-s-existential-threat/"
-webUrl: "https://www.technobezz.com/prominent-ai-figures-issue-warning-on-the-global-priority-of-addressing-ai-s-existential-threat/"
+title: "Artificial Intelligence Series 2 Of 5: AI’s Influence On The Workforce"
+excerpt: "Industry disruption from technical advancements has been happening since the beginning of time, but is this time different? What is the impact on jobs?"
+publishedDateTime: 2023-06-03T07:18:00Z
+originalUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/"
+webUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/"
+ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/"
 type: article
-quality: 27
-heat: -1
-published: false
+quality: 102
+heat: 222
+published: true
 
 provider:
-  name: Technobezz.com
-  domain: technobezz.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://cdn.technobezz.com/c/image_Carousel_imageformat_lightbox_1034446794_455edf9095/image_Carousel_imageformat_lightbox_1034446794_455edf9095.jpg"
-    width: 1564
-    height: 782
+  - url: "https://imageio.forbes.com/specials-images/imageserve/647ae893e7fefa617d13b283/0x0.jpg?format=jpg&crop=4500,2107,x0,y201,safe&width=1200"
+    width: 1200
+    height: 562
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Series 2 Of 5: AI’s Influence On The Workforce"
-    excerpt: "Industry disruption from technical advancements has been happening since the beginning of time, but is this time different? What is the impact on jobs?"
-    publishedDateTime: 2023-06-03T07:18:00Z
-    webUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/"
-    ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 102
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647ae893e7fefa617d13b283/0x0.jpg?format=jpg&crop=4500,2107,x0,y201,safe&width=1200"
-        width: 1200
-        height: 562
-        isCached: true
   - title: "AI startup C3.ai’s stock plunges 20% after softer revenue guidance"
     excerpt: "Shares of white-hot Ai startup C3.ai Inc., which had been hurtling toward record highs earlier this week, took an abrupt U-turn Wednesday. The company’s stock AI, -8.96% skidded 14% in after-hours trading in the minutes leading up to its quarterly ..."
     publishedDateTime: 2023-05-31T22:09:00Z
@@ -179,6 +168,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Prominent AI Figures Issue Warning On The Global Priority Of Addressing AI's Existential Threat"
+    excerpt: "A group of renowned AI researchers, engineers, and CEOs has jointly expressed concerns over the potential existential threat posed by artificial intelligence (AI) to humanity. The San Francisco-based non-profit,"
+    publishedDateTime: 2023-05-30T12:44:00Z
+    webUrl: "https://www.technobezz.com/prominent-ai-figures-issue-warning-on-the-global-priority-of-addressing-ai-s-existential-threat/"
+    type: article
+    provider:
+      name: Technobezz.com
+      domain: technobezz.com
+    quality: 27
+    images:
+      - url: "https://cdn.technobezz.com/c/image_Carousel_imageformat_lightbox_1034446794_455edf9095/image_Carousel_imageformat_lightbox_1034446794_455edf9095.jpg"
+        width: 1564
+        height: 782
+        isCached: true
   - title: "We have bigger worries than AI"
     excerpt: "Now, all of a sudden, we’re told that artificial intelligence is a growing menace that should be considered as potentially dangerous as nuclear weapons, climate change, gun deaths or even the mind of Marjorie Taylor Greene."
     publishedDateTime: 2023-06-02T09:38:00Z
@@ -189,6 +192,6 @@ related:
       domain: lasvegassun.com
     quality: 19
 
-secured: "Yn24dKUdy2+EaWZDt5qZwxBjEokSR8z1b10xnQ8u5W1yGVWaWE8IBEXvSfvTP2vq244Pp+eJLdvQZq8JxK6edg430C3uYX5NbN39tspJDPCQ0K+c3+2BmagH9UDy+kpr7trMG8ygXfe86SlX941WcTB+AJi+H56C1fOdNmxVJH6zxc04Bea4HxLxjogXnZ6Gxnmo6/ozR6mGEHYVCtIVj5lHTW2k+H67Y3XPe7/9LDcQ4d6CBVkYWLotxc0QcJb8fSt3L1HiAJKCfdfizhIP0zN0ZJvislr45ByTeeIj9zqgR6lKmm4ZSGLfmoIgb5v9ogVpwHJ/0sPg4JMV+1OjznEvXOL36qOsrwI0rhxns1U=;mmvkhk/X4Z7vhut6EFrTlQ=="
+secured: "FrK2vZiVRFAMdqDRQTIsjEj4SweMhY8k46CzyLKQHu/edvX5uNo1EQAeL13Qyy+Cyp8wkbdg9FjadphCfR2fglqncOCWPbCOrvqQalGfE0qJNPxwU8D432u+H57WHKgX9MZiJ56Txj2BMneUMfEWrxU1oIq8UOlpXhDlVDv14oR72qXHBEOqDiPjjLco1vyCODJd+HhzvXpSfrfIYfiWPBrlx8bMmOal+oUHw0QeDVBWARQGAQuclbSJzDE8N8jlS4oBnRW+UcVEC666fJon/ePjEVEippQS7IbW/2XBQYXq7fM7//I8kAEcCuUrJ893119plPqtoTZ0x6Om1mZAdMIfsI9bwAgY/Tg38rLn7VI=;wAT2dnFl7aVl+PhULNXK/Q=="
 ---
 

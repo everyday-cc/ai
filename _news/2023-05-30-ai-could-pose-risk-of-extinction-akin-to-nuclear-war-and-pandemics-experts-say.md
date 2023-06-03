@@ -367,7 +367,7 @@ related:
   - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
     excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
     publishedDateTime: 2023-05-31T12:32:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692490"
+    webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692579"
     type: article
     provider:
       name: ABC
@@ -506,20 +506,6 @@ related:
       - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/03/Artificial-Intelligence-AI.png"
         width: 1024
         height: 768
-        isCached: true
-  - title: "Prominent AI Figures Issue Warning On The Global Priority Of Addressing AI's Existential Threat"
-    excerpt: "A group of renowned AI researchers, engineers, and CEOs has jointly expressed concerns over the potential existential threat posed by artificial intelligence (AI) to humanity. The San Francisco-based non-profit,"
-    publishedDateTime: 2023-05-30T12:44:00Z
-    webUrl: "https://www.technobezz.com/prominent-ai-figures-issue-warning-on-the-global-priority-of-addressing-ai-s-existential-threat/"
-    type: article
-    provider:
-      name: Technobezz.com
-      domain: technobezz.com
-    quality: 27
-    images:
-      - url: "https://cdn.technobezz.com/c/image_Carousel_imageformat_lightbox_1034446794_455edf9095/image_Carousel_imageformat_lightbox_1034446794_455edf9095.jpg"
-        width: 1564
-        height: 782
         isCached: true
   - title: "AI could make humans extinct, say top experts and CEOs in stark warning"
     excerpt: "Surprisingly, however, that latter view is shared by many leading experts in artificial intelligence – including the CEOs of both OpenAI and Google DeepMind … It’s the sort of statement you’d normally expect from conspiracy theorists living in ..."

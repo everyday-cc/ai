@@ -2,6 +2,112 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-01-investors-see-ai-chips-as-new-gold-heres-why.md",
+      "title": "Investors See AI Chips as New Gold. Here’s Why",
+      "excerpt": "AI chips have suddenly taken center stage in what is considered an AI revolution that could reshape the technology sector—and the world",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6284046/nvidia-ai-chips-investment/",
+      "originalUrl": "https://time.com/6284046/nvidia-ai-chips-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://time.com/img/icons/wallet-connect.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-artificial-intelligence-series-1-of-5-past-present-and-future.md",
+      "title": "Artificial Intelligence Series 1 Of 5: Past, Present, And Future",
+      "excerpt": "Human integration with technology has always been intertwined. From fire to AI. However, the speed of technology development is exponentially changing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/01/artificial-intelligence-series-1-of-5-past-present-and-future/",
+      "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/01/artificial-intelligence-series-1-of-5-past-present-and-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6477eba34d097636f07fb058/0x0.jpg?format=jpg&width=1200",
+          "width": 614,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/01/artificial-intelligence-series-1-of-5-past-present-and-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/01/artificial-intelligence-series-1-of-5-past-present-and-future/amp/",
+      "publishedDateTime": "2023-06-01T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-more-artists-are-embracing-artificial-intelligence-not-fighting-it.md",
       "title": "More Artists Are Embracing Artificial Intelligence, Not Fighting It",
       "excerpt": "Overnight on Wall Street is morning in Europe. Bloomberg Daybreak Europe, anchored live from London, tracks breaking news in Europe and around the world. Markets never sleep, and neither does Bloomberg News. Monitor your investments 24 hours a day, around the clock from around the globe.",
@@ -95,50 +201,6 @@
         "AI",
         "Machine Learning",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-wall-street-banks-seizing-ai-to-rewire-world-of-finance.md",
-      "title": "Wall Street banks seizing AI to rewire world of finance",
-      "excerpt": "The AI revolution is unfolding on Wall Street as wider interest grows in the evolving technology and its likely impact on business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.afr.com/technology/wall-street-banks-seizing-ai-to-rewire-world-of-finance-20230601-p5dd3o",
-      "originalUrl": "https://www.afr.com/technology/wall-street-banks-seizing-ai-to-rewire-world-of-finance-20230601-p5dd3o",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.ffx.io/images/$zoom_0.1226%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/6f1786ce28c16c72663235a343f9913c7b67032b",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T23:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian Financial Review",
-        "domain": "afr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Finance"
       ]
     },
     {
@@ -520,57 +582,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-01-ai-startup-c3ais-stock-plunges-20-after-softer-revenue-guidance.md",
-      "title": "AI startup C3.ai’s stock plunges 20% after softer revenue guidance",
-      "excerpt": "Shares of white-hot Ai startup C3.ai Inc., which had been hurtling toward record highs earlier this week, took an abrupt U-turn Wednesday. The company’s stock AI, -8.96% skidded 14% in after-hours trading in the minutes leading up to its quarterly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66?mod=mw_quote_news",
-      "originalUrl": "https://www.marketwatch.com/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66?mod=mw_quote_news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-789589/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66",
-      "publishedDateTime": "2023-05-31T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-01-wolters-kluwer-at-187-how-an-information-company-adapts-to-ai.md",
       "title": "Wolters Kluwer At 187: How An Information Company Adapts To AI",
       "excerpt": "It’s widely known that to succeed with AI, a company needs to have some distinctive information. Wolters Kluwer, the Netherlands-based professional information, software solutions and services company that does business in over 180 countries today,",
@@ -631,7 +642,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/05/ai-expanded-album-cover-artworks-go-viral-thanks-to-photoshops-generative-fill/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -735,7 +746,7 @@
       "originalUrl": "https://www.beckershospitalreview.com/innovation/aws-picks-biotech-startup-for-ai-accelerator-program.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 94,
       "tags": null,
       "images": [
         {

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rogertrapp/2023/05/30/ai-and-the-battle
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogertrapp/2023/05/30/ai-and-the-battle-to-get-hybrid-working-right/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Unlocking the power of AI"
-    excerpt: "Navigating the impact of AI was the topic under discussion at First Technology’s recent hybrid Microsoft event, held both virtually and in-person at The Leonardo in Sandton, Johannesburg."
-    publishedDateTime: 2023-05-31T10:57:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/494061-unlocking-the-power-of-ai.html"
-    ampWebUrl: "https://mybroadband.co.za/news/industrynews/494061-unlocking-the-power-of-ai.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/494061-unlocking-the-power-of-ai.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
   - title: "2 Things Enterprises Get Right About AI, and 1 Thing They Get Wrong"
     excerpt: "Artificial Intelligence (AI) is having a profound impact on the way enterprises across the globe do business, and it's only continuing to grow. That's unsurprising, as companies across all industries leverage AI as a tool to cut costs,"
     publishedDateTime: 2023-06-01T19:03:00Z

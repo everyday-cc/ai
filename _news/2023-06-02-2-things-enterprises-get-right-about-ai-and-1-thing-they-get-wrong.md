@@ -34,17 +34,6 @@ related:
         width: 1200
         height: 757
         isCached: true
-  - title: "Unlocking the power of AI"
-    excerpt: "Navigating the impact of AI was the topic under discussion at First Technology’s recent hybrid Microsoft event, held both virtually and in-person at The Leonardo in Sandton, Johannesburg."
-    publishedDateTime: 2023-05-31T10:57:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/494061-unlocking-the-power-of-ai.html"
-    ampWebUrl: "https://mybroadband.co.za/news/industrynews/494061-unlocking-the-power-of-ai.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/494061-unlocking-the-power-of-ai.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
 
 secured: "Y3H5WFH2wq0KubU71VDFfIpjj0dL1TutT/StsExaQtJK2IDpjINopuyKytbmJbbbg58mJlWPPk09iNixk3lRmvhJbOHUJAX0K2Kmzf/UhSIHTECBz+I63OOLOtUbzfuqHQhJEpkXA0fJOkAar0qUICM1E4Q/DHCLvKilLd39VryG9g1j+Um0brZ+aoUjPlje9cAo6zGo9VdUdJUrUb5P3vHhRy0ZtW903EgTdvg6yZp++uvZWBeWTMVGG5QoOmwz0iZQnsvfd4ZVzrc5ecXJFPgvzp/w96mnO97Ha8VJmg3aPUCTN/yxlwRIjmFY1x2yDEdiGIPdFDklMsP2UFoFsHtcfvLKWF2J7ct4GlfJWzEYQwdSbvawDlASI7pxGKsCUFbsDaIyIjzMeEbnQyM5m7o+pe1q0eBQHmB+tBOxpYj0r5OmtirZ0Vhjf0+uDV5i2rSLg0ZlAmsohRl2CUzeD/ev1+mQMZVcec6jtLCX638+IvZ+UNOHcSJuWNh6utZoMbVM+ej1tSaA4S9d4DPrWg==;s+UrOXzbIiUoy1xS2naauw=="
 ---

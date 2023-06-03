@@ -211,50 +211,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-01-wall-street-banks-seizing-ai-to-rewire-world-of-finance.md",
-      "title": "Wall Street banks seizing AI to rewire world of finance",
-      "excerpt": "The AI revolution is unfolding on Wall Street as wider interest grows in the evolving technology and its likely impact on business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.afr.com/technology/wall-street-banks-seizing-ai-to-rewire-world-of-finance-20230601-p5dd3o",
-      "originalUrl": "https://www.afr.com/technology/wall-street-banks-seizing-ai-to-rewire-world-of-finance-20230601-p5dd3o",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.ffx.io/images/$zoom_0.1226%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/6f1786ce28c16c72663235a343f9913c7b67032b",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T23:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian Financial Review",
-        "domain": "afr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2023-05-31-hands-are-more-critical-for-robot-intelligence-than-ai-says-robotics-ceo.md",
       "title": "Hands are more critical for robot intelligence than AI, says robotics CEO",
       "excerpt": "In fact, they don't address the central problem of intelligence at all, which is how to understand the world around you, and then act on it. For Rose, and for the humanoid robots built and operated by Sanctuary AI,",
@@ -263,7 +219,7 @@
       "originalUrl": "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1511,6 +1467,59 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-06-good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems.md",
+      "title": "Good bot, bad bot: Using AI and ML to solve data quality problems",
+      "excerpt": "Bots (both good and bad) will soon constitute an even larger share of internet traffic. How to fight them with AI and ML.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems/",
+      "originalUrl": "https://venturebeat.com/ai/good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/annevb_a_good_chatbot_and_a_bad_chatbot._Colorful_futuristic_te_ed17e50e-3d48-4de3-b5d3-f1f04adb84f4.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/good-bot-bad-bot-using-ai-and-ml-to-solve-data-quality-problems/amp/",
+      "publishedDateTime": "2023-05-06T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],
