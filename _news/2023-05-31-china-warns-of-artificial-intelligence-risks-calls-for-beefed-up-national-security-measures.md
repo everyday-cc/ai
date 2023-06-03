@@ -3,10 +3,10 @@ category: news
 title: "China warns of artificial intelligence risks, calls for beefed-up national security measures"
 excerpt: "China has warned of the risks posed by advances in artificial intelligence while calling for heightened national security measures"
 publishedDateTime: 2023-05-31T09:18:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716451"
-webUrl: "https://abcnews.go.com/Business/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716451"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716451"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716451"
+originalUrl: "https://abcnews.go.com/International/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716269"
+webUrl: "https://abcnews.go.com/International/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716269"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716269"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/china-warns-artificial-intelligence-risks-calls-beefed-national-99716269"
 type: article
 quality: 63
 heat: -1
@@ -111,6 +111,6 @@ related:
       domain: chron.com
     quality: 17
 
-secured: "ncE1VcO/bgY65lfUJ7Iz38+RnfkVT4D57aLiXnpvw/yo5N6NiLfdYFu8Ti1VYWfB4zf/C2jhwiWZybNo8pPjW4WV9yWkKxZzUpjmzL3/eIjRdVFCRngOl4ESWLetvxpimXdehDNCv/ihjDrzkU3vXpKDt8cJH00YPbe+BIJZdK5KUZrK8z/3DogShJquW72qM7R/XmQ+I8Bg6Foed9AGYMRKS/z9d5LbLWnkEY73facVdZH6oKPYpzaru+RHn5GO/Yo7eIGQAHqgmEteLlaa9lNxy5LNvnCiPARvtpR8BLeyVkWdDsUBEh9PrftQApVJy6xEK0GDIQxVJyQ3L0ccFW/XY4XVu6+45/j0UCuyQhJ3A0iKk3SQEVXaq9R+F5E4MU+EZaJi3RAHgxZ+AKzqDsXynZWgwP8sym4bcNbyIEw1mSmetF+ZNmb0ipXA+y38RYufhx+LsJwLskLmOz1paIpFjI1ovacAk7XXPfvVf0Z+OoCdbyNzZNtRcXBprUjQkfZDKe8rtWGtJQk5ycSVRg==;wcVYVlIOl1yJ+hPrNH1GOw=="
+secured: "sl/zcqI/JSN1QYoQbwGPWJWTJtS+sd8wHCAzSDUp/c7aVOTgh/25feq6dBPvsOUI2tp0EltIoYZSoxWIUDzJWY3rY1u/Mhmrv5WM64k/C7Is1f0sdEKyaMCqff1Ce9yQZXPFQwCvWLVGmibbgpFVG5ijIF1KjGXNYAE+e4kzzGHXH0QM7j/LI7AP/mFUg/otJCSGGCJTzIGKrCRjj3EcbT19sxyzeHqtycO3dRN/BCI3carcs8GsyBYhjlTYRsTl454WykM8KXBPz9u0t8Q8wQD/Y6w89H20hlP/l4VkyPX8BE6mKzIoWHk3k/sySb+ULSRiyQppCWKRIF1fZUCXwZFBS4odZamTKAMP2mtYK5M=;+Dnjg5wGKaXspm0iWwpHgg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3697793/nvidia-s-new-grace-hopp
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.amp.html"
 type: article
 quality: 72
-heat: 132
+heat: 112
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Nvidia reveals ridiculous supercomputer built to create next-gen AI"
-    excerpt: "Nvidia has revealed its next-generation supercomputer, the DGX GH200, which is built to handle the development of gigantic next-generation AI models."
-    publishedDateTime: 2023-05-29T09:31:00Z
-    webUrl: "https://www.dexerto.com/tech/nvidia-reveals-ridiculous-supercomputer-built-to-create-next-gen-ai-2159061/"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 41
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/29/Nvidia-Supercomputer.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Nvidia to build Israel's most potent AI supercomputer"
     excerpt: "Nvidia is investing hundreds of millions in building Israel's strongest AI supercomputer, Israel-1, promising breakthroughs in AI applications."
     publishedDateTime: 2023-05-29T17:36:00Z
@@ -99,15 +85,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "GIGABYTE's AI Servers with Superchips Shine at COMPUTEX, Redefining a New Era of Computing"
-    excerpt: "Win Big with AI through GIGABYTE's Pioneering GPU/HPC Servers. GIGABYTE and its subsidiary, Giga Computing, are introducing unparalleled AI/HPC server lineups, leading the era of"
-    publishedDateTime: 2023-05-29T10:43:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/29/9822184.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
 
 secured: "kblYyGYlf2ngFSE40zoc6NF3TzOg5AX39jMDJvX77gOTYiS4+NbG9onZhIET31ArHnu/wBmck6cHM2xaJ/SOFt7nxKP/wtiNUEAo/erbld+071ywrvlFftM3JtfNOHu8pgJsPmvp1NAfdOiubQcdi4ugZMN2VpfPbwqCp3yZkzcgAtmJL+S9vDxN3LWeI0LPxO9wUo11dcnHeLw/cHzEJrLYQ+pIISemqrzc9OjnAinJAJAE6pRXoK02vqGgbUY+hZCUgtIcbihrNzGFf+N/5O8c9i0iQe8MfkFy0Yc2iVQ08vLhYLKprUADAd66yxf16xiyT4qmR+kFLIpFPheSzkwXORQge5JBnzsUm6eEDyyXdrffwUHq1efZU+wk1FzfQ3kKJWdC/+0LwoQrjBRN3a3WMMGg7bwpsfdUOuoyfZERqOh0DRNI4/unOp4ubW9GiISvB7v2a/WsWS/jDELsJi2nVh/8diYJTIZV+1NvswZDmLCFsiGgj46gLdaOuJU42XWReuJiQUZxfmRkCr+aIg==;Fyla4JdcapovPd3M0QDQUQ=="
 ---

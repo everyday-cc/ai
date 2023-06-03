@@ -71,20 +71,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Nvidia reveals ridiculous supercomputer built to create next-gen AI"
-    excerpt: "Nvidia has revealed its next-generation supercomputer, the DGX GH200, which is built to handle the development of gigantic next-generation AI models."
-    publishedDateTime: 2023-05-29T09:31:00Z
-    webUrl: "https://www.dexerto.com/tech/nvidia-reveals-ridiculous-supercomputer-built-to-create-next-gen-ai-2159061/"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 41
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/29/Nvidia-Supercomputer.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Nvidia’s GH200 AI supercomputers could build ‘giant’ AI models more powerful than GPT-4"
     excerpt: "Nvidia have just revealed their DGX GH200 AI supercomputer, far surpassing the competition, and potentially leading to the development of GPT-5."
     publishedDateTime: 2023-05-30T10:25:00Z
@@ -99,15 +85,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "GIGABYTE's AI Servers with Superchips Shine at COMPUTEX, Redefining a New Era of Computing"
-    excerpt: "Win Big with AI through GIGABYTE's Pioneering GPU/HPC Servers. GIGABYTE and its subsidiary, Giga Computing, are introducing unparalleled AI/HPC server lineups, leading the era of"
-    publishedDateTime: 2023-05-29T10:43:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/29/9822184.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
 
 secured: "XPui/XqPOYl40JalyKakgBkv1H6PTFZjAb8MjNpiU+RPRTUvNsO873L98bFccD1nWMnyRm0C8OEvANyFhk3oLzkkONhOs8hrODL5gqJ6yeJHKMVlNAVwkkgfUTLJdBjAGF6cKQGz8uIdQmoBvCmWXoQTfX0zy2gPBllxYVOJyKHjn9wmsYtapJKIPoShUMagl6b0dYoNwHrluMUr6AWtUmFOF5wd+XgAz5PemDMP6G6ue9fp97MimNvTfc71ARMez8hI8uMCgjo3Veht0/5xZFuuGBmPEo+tM5NWLOcAS//jRSnARdfllnBEBxdYqd0gVdcJLtVEpBdnIabyA6lvkZCuNiasCFtPbHoiGQVOu+dXaKfWUytLi+pune2CA2dbBd2ffwlo3g9X+/Z+b9+ybkoUEWaiCzLAT+Sdb1x4GGZL4O0Nq4ag328AHq32FDoJ+mGA9VD3KhAo71yUQiEEpzx91fihslgFIschmigM5i5+v3WW6VArXvYECmp12EWNCcW+Wse6T2F1QH1nYBs0pQ==;0fyYz4S6b+GAxOY7GIkYcQ=="
 ---

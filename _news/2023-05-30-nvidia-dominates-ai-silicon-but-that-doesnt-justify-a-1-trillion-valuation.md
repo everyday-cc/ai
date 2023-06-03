@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dom
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/amp/"
 type: article
 quality: 86
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/LkawQJbtVRxsIUQp.gC4OA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/01c8b6ee2eab434aa7e28e0d4477950b"
         width: 1200
         height: 800
-        isCached: true
-  - title: "NVIDIA Grace Hopper enters full production, with insane AI supercomputer coming"
-    excerpt: "Grace Hopper Superchips are on track for late 2023 and the new NVIDIA DGX GH200 AI Supercomputer connects 256 of them in a 1-Exaflop beast."
-    publishedDateTime: 2023-05-29T10:22:00Z
-    webUrl: "https://www.tweaktown.com/news/91635/nvidia-grace-hopper-enters-full-production-with-insane-ai-supercomputer-coming/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 35
-    images:
-      - url: "https://static.tweaktown.com/news/9/1/91635_01_nvidia-grace-hopper-enters-full-production-with-insane-ai-supercomputer-coming_full.jpg"
-        width: 1500
-        height: 843
         isCached: true
 
 secured: "sQPD5id3+FO2m2HROCUbuks+WLU3deb6aGqOPzufaMXZtZUQs3ga+13sA9vLOywsDVVNDPhG1bMQSkL1sSBWvDCId+OWOHT4L8mhtXDDK1qecWoRql7QQ1BfEvuzHgkx7leZnO9o3eGriEiBdxDxqVxyjlTybezURYalrLpT7WURTEcQUWEa8gF2SY3HNhZc/Sqap1qUWTZnkhLQPznqZdgZtKL9NMAR9JnUZjMBwK5V9ZfgjI0MCTqWp/BGovUVCj5cbed7fUTYmocWX40fqo32MBu8KfxOg+nAcrl++wKRARyIuPmatbjvMCZfsllKYb7qtYTyci8fDSp/nn1cztjQycgXMFDAvoepWox4vws=;Iee2offNeLu+YPS+ygPtBw=="

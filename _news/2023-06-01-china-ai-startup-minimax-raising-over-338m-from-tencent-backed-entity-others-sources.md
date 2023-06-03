@@ -54,15 +54,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "China AI Startup MiniMax Raising Over $250 Million From Tencent-Backed Entity, Others - Sources"
-    excerpt: "BEIJING/HONG KONG (Reuters) - Chinese startup MiniMax, working on AI solutions similar to that of Microsoft-backed OpenAI's ChatGPT, is close to completing a fundraising of more than $250 million that will value it at about $1.2 billion, people familiar with the matter said."
-    publishedDateTime: 2023-06-01T04:46:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-06-01/china-ai-startup-minimax-raising-over-250-million-from-tencent-backed-entity-others-sources"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
   - title: "China AI start-up MiniMax raising over US$250 million from Tencent-backed entity: Sources"
     excerpt: "Chinese start-up MiniMax, working on AI solutions similar to that of Microsoft-backed OpenAI's ChatGPT, is close to completing a fundraising of more than US$250 million that will value it at about US$1."
     publishedDateTime: 2023-06-01T05:55:00Z

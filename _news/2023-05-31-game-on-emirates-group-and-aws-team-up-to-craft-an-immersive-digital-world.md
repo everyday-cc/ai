@@ -9,7 +9,7 @@ ampWebUrl: "https://www.albawaba.com/amp/business/pr/game-emirates-group-and-aws
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/game-emirates-group-and-aws-team-craft-immersive-digital-world-1520998"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Game On! Emirates Group and AWS team up to craft an immersive digital world"
+    excerpt: "The Emirates Group is on a immersive digital journey to transform its employee experiences by collaborating with Amazon Web Services (AWS)."
+    publishedDateTime: 2023-06-02T07:52:00Z
+    webUrl: "https://www.traveldailymedia.com/game-on-emirates-group-and-aws-team-up-to-craft-an-immersive-digital-world/"
+    ampWebUrl: "https://www.traveldailymedia.com/game-on-emirates-group-and-aws-team-up-to-craft-an-immersive-digital-world/amp/"
+    cdnAmpWebUrl: "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/game-on-emirates-group-and-aws-team-up-to-craft-an-immersive-digital-world/amp/"
+    type: article
+    provider:
+      name: Travel Daily Media
+      domain: traveldailymedia.com
+    quality: 57
+    images:
+      - url: "https://www.traveldailymedia.com/assets/2023/06/ixr1-scaled.jpg"
+        width: 2048
+        height: 1638
+        isCached: true
   - title: "Emirates Group, AWS team up to craft an immersive digital world"
     excerpt: "The Emirates Group is embarking on a futuristic immersive digital journey to transform its employee experiences -- a first for the industry -- by collaborating"
     publishedDateTime: 2023-06-01T00:08:00Z

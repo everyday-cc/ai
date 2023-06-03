@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/technology-solutions/32231-red-hat-int
 webUrl: "https://www.thefastmode.com/technology-solutions/32231-red-hat-intros-ansible-lightspeed-for-ai-driven-it-automation"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 752
     height: 408
     isCached: true
-
-related:
-  - title: "Red Hat Introduces Ansible Lightspeed for AI-Driven IT Automation"
-    excerpt: "Red Hat, Inc., the world's leading provider of open source solutions, today announced Ansible Lightspeed with IBM Watson Code Assistant, a new generativ"
-    publishedDateTime: 2023-05-29T10:58:00Z
-    webUrl: "https://www.albawaba.com/business/pr/red-hat-introduces-ansible-lightspeed-ai-driven-it-automation-1520688"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/red-hat-introduces-ansible-lightspeed-ai-driven-it-automation-1520688"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/red-hat-introduces-ansible-lightspeed-ai-driven-it-automation-1520688"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 59
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-05/Ashesh%20Badani%2C%20senior%20vice%20president%20and%20Chief%20Product%20Officer%2C%20Red%20Hat.jpg?itok=cYpm4pqe"
-        width: 979
-        height: 653
-        isCached: true
 
 secured: "HGldbaBhHtwrR5ErPUipCs+IlOI4O2N+/izXYyg4sfZ/YeklVqHMaEW5XfPMe5K1kwX2tCWhPoPD7hNNmxraRE8IsFQsJWqL5zePmuwzixCuEiaGnxwYueiup4Eg/41tS62NbUXlOL1rGWgNfYa+jhfjQNqVu71HD63ZDxBC9zXvkie7CLQHTZ4popACRmI8YejWrWqA2JOc2DX4iHRtsuQ0g3ocuQ++PivKI0zXX51MuIjBuySg1agM1KlvCo35dXHU1bW7C8ZBRGPbwzArcYXuBheVWDjChj/COZNQxTWsVAC+sTqr57VlN8mz+ZjelHIoFQ0Sgl1/jXcYeBAmF1RVgX6Jh01kVadE0KiEOgsmuqtS7Wu9M04lirrV6oqh3R8k3Srj+QiGYu/ij7yWyUoMEUkccKeHjXNHyVfkIDvceMXxIUK3b0DkobPh8tn20baGoVX0WY7sX+MiS3ri+KnxcCynMkTAE5dQ0Bsz98N7kNGGQheWvGJbWdv7TFTcnN/VEXgFWos8dxXrYoM/iQ==;XQqMtO7fm+hTkkGA4/gykQ=="
 ---

@@ -1,22 +1,29 @@
 ---
 category: news
 title: "Wanted: An AI Job That (Mostly) Doesn’t Exist Yet"
-excerpt: "But that hasn't stopped job seekers from trying to find out. Prognosticators say artificial intelligence will likely have a similar impact on the labor market — and workers want to get in on the ground floor."
-publishedDateTime: 2023-06-02T02:27:00Z
-originalUrl: "https://www.chron.com/business/personalfinance/article/wanted-an-ai-job-that-mostly-doesn-t-exist-18131058.php"
-webUrl: "https://www.chron.com/business/personalfinance/article/wanted-an-ai-job-that-mostly-doesn-t-exist-18131058.php"
+excerpt: "At one time, no one had ever heard of a telegraph operator. An electrician. Auto mechanic. TV producer. X-ray technician. Software developer. Webmaster. Cybersecurity specialist.Advancements in techno"
+publishedDateTime: 2023-06-02T16:04:00Z
+originalUrl: "https://www.kpcnews.com/news/national/article_2d58d323-33e0-5fee-a25b-812e63bc81b1.html"
+webUrl: "https://www.kpcnews.com/news/national/article_2d58d323-33e0-5fee-a25b-812e63bc81b1.html"
 type: article
-quality: 17
-heat: 17
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: KPCNews
+  domain: kpcnews.com
 
 topics:
+  - AI Ethics
   - AI
 
-secured: "hbPha8eIZ+LLIHFu338r8AULYck32tcKDWQJRy4JWDlTJSlJv4VbGTEQ4Lvgy/Wj7zJWhAXJ7XF29m5Q5I0LdgeB+GnMJpru6se+/gDh6ZbZkyr7K1OORju1k1yz3GOFL9abLnUw0WCG5XDThrjI0tguV01mUUrWor12oBL6EWmlO9fweZsdSNffXXbSjKpTAEIGH/EjVdLqZnO7OycwGr77STo0xAt/zmrm/Evn0etMWv/e1ltjjhsLQmJDcyXknfS9wJD/DN1WcJpvbX89M0KhPjOnSIsxLpPsVpfv8JmkL7p4TS68AWcUqrKyJvmFOo3l4QIBiqHBBhT2m1UtFsCCq2IsCYwOHMzRWPpjxuvmm6T2DPSc2wGbN3m6QXsr7MqgHw4ie46RmVl+560kkmxfKhJq13wj06MEj8GazNtgg2V2IDlZ17qC19414qFk1hqC4RHtQWLd6L4qt/LKWxG1x0IXLj+1d2hrsHN5m81I9eePiX8yRFg7j6QS7OfITyZ9exIuSz6+ehxJ11BtUg==;DdXbxjlBC84OinVZy275Gg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/kpcnews.com/content/tncms/assets/v3/editorial/3/03/303b48d1-c24a-50fd-a2d1-91c7718d6667/64792a2d2f134.image.png?crop=1440%2C756%2C0%2C107&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "qe9LjDCQIav3dgAjMr5EKswJduBOh/y0FZFn+JamiN1BBGL8PvPnY1Xnnph9xlyO3L9EZVlJIIj6oc6CN/ZsXpccEO8rbR54BqatXZ5R3EXBCNlfBTaVnM2Zl/UIHqq/10YuLe1fuTVQee/CgzAkLgR0vR+xg5t36vdXJWXzuYdppJSK8ZxV//iTny3gasojgQvlZDprcNQcX8p29no6PNx9Uu4sZjtCfspwlul+Ga0a3/5fElQjr9jIBXbM6UPmNiOuA9RrrdEs/nCr93lSbCmFllCL7byLa3Qlzx+YB0CD4dXpj9+mND1hqXY2WD1e0jPDkFRwF+tGHJ0sSGH+qpyCBe8qNa2PjB1qUyslXQU=;7qh5nYi+xcbQrxDsMgaQjA=="
 ---
 

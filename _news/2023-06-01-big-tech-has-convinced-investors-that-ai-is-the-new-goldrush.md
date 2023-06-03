@@ -53,6 +53,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nowhere for Investors to Hide From AI Hype"
+    excerpt: "This week, chip maker Nvidia was briefly worth more than $1 trillion, thanks to investor excitement about demand for its chips created by so-called “generative AI,\" the technology behind ChatGPT. Smaller AI-related stocks have also soared as investors search for the big winner from the latest fashionable theme."
+    publishedDateTime: 2023-06-02T23:59:00Z
+    webUrl: "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype-11685708705195.html"
+    ampWebUrl: "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/06/02/600x338/Nvidia_1685708783326_1685708790004.JPG"
+        width: 599
+        height: 338
+        isCached: true
 
 secured: "O9EEsRTIhvel5nc+MbIpbr6B3r+uwZ0DYEf7QFZnpnNBk7haVx1scIuvCuuOm8uAhAdvJbz+WKvFGql71xexfOYZvRXqPpsStI1QFS8qC9CppPeCxhcFpTp1slDdIiSEMbZkKXc/Q5Zeh6ki3zfEaiDuNAjZpxV6hmMAWe3s3IX/nDsOUdIQZVnpLSGsLXjBY5/vZ6u9hgnCE11HipzMjDXShOpgyL9DciB8PAeq5ZoXb1JkTAJXlzfhSngT02MZopOApeD65ykr1vrwMRCBrBU/7G3iY2l5FHC7lLetoCr1h5KSrnEb7ZHSoPUwsmOKFnCGKGBtHgrqsSiUl2+R7uRzQ+zGECjbUJqOlvG1eCVRvmxYY1r9zU531vpSnVqBDq6+qRD+DApY7gYpCWrm3OeFEcSwqyiNi8BKE1Y946pgCTJQV2vVm2ah5dMxqC0cW7NBYczmPe7Xo3WsuzWAMeKIzzI8d1DJRfX4iEGfLrkQCg99z3K+CqUm1RU5hngwCuOy2lLjS7DAfM8z6liX+w==;rWy/RnRXVgZ/4MLcqr+17g=="
 ---

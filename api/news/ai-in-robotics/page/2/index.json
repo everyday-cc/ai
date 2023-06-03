@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-05-24-self-driving-car-startup-haomoai-unveils-low-price-delivery-robot.md",
-      "title": "Self-driving car startup Haomo.ai unveils low price delivery robot",
-      "excerpt": "On Monday, Great Wall Motor-backed Chinese self-driving car startup Haomo.ai unveiled the latest generation of its autonomous delivery vehicle, priced at RMB 89,999 ($12,767), which the company claims makes it the cheapest in the industry. The robot ...",
+      "path": "_news/2023-05-24-ai-startup-figure-raises-70-million-to-build-humanoid-robots.md",
+      "title": "AI startup Figure raises $70 million to build humanoid robots",
+      "excerpt": "(Reuters) - Figure, a startup that wants to build general-purpose humanoid robots, has raised $70 million from investors led by Parkway Venture Capital in its first external round, the company ...",
       "sourceUrl": null,
-      "webUrl": "https://technode.com/2023/05/23/self-driving-car-startup-haomo-ai-unveils-12767-delivery-robot/",
-      "originalUrl": "https://technode.com/2023/05/23/self-driving-car-startup-haomo-ai-unveils-12767-delivery-robot/",
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/05/24/ai-startup-figure-raises-70-million-to-build-humanoid-robots",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/05/24/ai-startup-figure-raises-70-million-to-build-humanoid-robots",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
-          "width": 540,
-          "height": 540,
+          "url": "https://apicms.thestar.com.my/uploads/images/2023/05/24/2089439.jpg",
+          "width": 800,
+          "height": 532,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T06:35:00-07:00",
+      "publishedDateTime": "2023-05-24T03:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
+        "name": "The Star",
+        "domain": "thestar.com.my",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,8 +41,7 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI in Autos"
+        "AI"
       ]
     },
     {

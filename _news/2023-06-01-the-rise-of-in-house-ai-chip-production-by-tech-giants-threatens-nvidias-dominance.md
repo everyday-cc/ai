@@ -157,20 +157,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "New Nvidia generative AI chip employs TSMC CoWoS"
-    excerpt: "Nvidia has announced the launch of a new class of large-memory AI supercomputer, the Nvidia DGX, powered by Nvidia's GH200 Grace Hopper superchips and the Nvidia NVLink Switch System, to enable the development of massive,"
-    publishedDateTime: 2023-05-29T09:05:00Z
-    webUrl: "https://www.digitimes.com/news/a20230529PD208/nvidia-ai-supercomputer-tsmc-cowos.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230529pd208_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Nvidia to demand a premium for AI chips"
     excerpt: "The AI hype is providing Nvidia with plenty of cashflow. Announcements of new Nvidia partners keep coming, but it seems the company will continue to face"
     publishedDateTime: 2023-05-30T14:59:00Z
@@ -230,6 +216,20 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/29/image/jpeg/yD8nZtFgP7hf2lda13UESyo8qm6okOlKPcxawDDm.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Charting Nvidia’s 30-Year Ride to Overnight AI Success"
+    excerpt: "But an increasing number of its chips are being installed in data centers to help companies like Microsoft Corp., Alphabet Inc., OpenAI, and Amazon.com Inc. build their AI capabilities and offer those services to clients. Last year’s release of ChatGPT ..."
+    publishedDateTime: 2023-06-03T03:55:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/06/02/chips-inside-nvidia-s-30-year-ride-to-overnight-ai-success/d74f9838-01c1-11ee-9eb0-6c94dcb16fcf_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2Q74LDABYEI65HVQNSKNZMLPZ4.jpg&w=1440"
+        width: 1440
+        height: 969
         isCached: true
   - title: "Nvidia debuts more AI supercomputers and services as shares continue to soar"
     excerpt: "Nvidia debuted a host of new AI technologies on Monday, as the chip giant's stock price skyrocketed on a positive second quarter outlook."

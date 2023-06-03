@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-excerpt: "Scientists and tech industry leaders, including high-level executives at Microsoft and Google, issued a new warning Tuesday about the perils that artificial intelligence poses to humankind."
-publishedDateTime: 2023-05-30T13:28:00Z
-originalUrl: "https://www.wral.com/story/artificial-intelligence-threatens-extinction-experts-say-in-new-warning/20886276/"
-webUrl: "https://www.wral.com/story/artificial-intelligence-threatens-extinction-experts-say-in-new-warning/20886276/"
-ampWebUrl: "https://www.wral.com/amp/20886276/"
-cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20886276/"
+excerpt: "The CEO of ChatGPT maker OpenAI and Geoffrey Hinton, a computer scientist known as the godfather of artificial intelligence, were among the hundreds who signed the statement."
+publishedDateTime: 2023-05-30T13:52:00Z
+originalUrl: "https://www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/"
+webUrl: "https://www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/"
+ampWebUrl: "https://www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/?outputType=amp"
+cdnAmpWebUrl: "https://www-wbko-com.cdn.ampproject.org/c/s/www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/?outputType=amp"
 type: article
 quality: 71
 heat: -1
 published: false
 
 provider:
-  name: WRAL
-  domain: wral.com
+  name: WBKO
+  domain: wbko.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://wwwcache.wral.com/asset/news/technology/2023/05/30/20886277/6475fa6fa5ee5-media_7dd689f31dad4f5ca5d5ab652dfdfdec-DMID1-5z2v6gjo8-640x480.jpg"
-    width: 640
-    height: 480
+  - url: "https://gray-wbko-prod.cdn.arcpublishing.com/resizer/wrYe8fQWyWO4qsBHNYCCpecnit0=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/Q6MEL7G7DFFQHG4DPHGOYZDKIU.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -595,6 +595,6 @@ related:
       domain: texasstandard.org
     quality: 0
 
-secured: "iiXbYgHaOagIJO6ArPx6XCH7M+aW48Ef/L3hahmuLPjUp2znG3tapnu2BtBJvJb+UxPGoc4HmE0jT2rDMWpKojiDsdKkdzgakYEWEGxKWUecUJXrsFdziM4lSYvxeIDeZsXwqeGOH5+WfQ5q2buu4Ov7u9UFxhVrbN/TCoqCRwoUY5Vk8lbo6bjwTzeD7LnARNHQ2/z60A8sBmsKNeSnHKf2sbARTskquUsb+6yn7uffPRQFWpffpmqTLtwHg/4jIv0wbfq2yxzwP++9y7zUFHOI4+7o6wHrptXQC1gcqcqrf0Pf+Y8vqMbtLYyJ4eRoiCQkhhS4W1wkR4icKKvBK+ymWhf/6axd/n+UmDNRSJo=;TFxIvqkhmNpwh2evCEjo0A=="
+secured: "9e6aLhaWw1c0wmFZjCeElbTOvOqe4KdK6MtbsX4NlIAqmuSh283myO3UE3DRwWl0VHUfLQyhPffdOMdlG8fjDDpZgUdQ/NtRQsR0ZM0Sl/ZMZ6W8c9XwDpv4DkMkHeMOtf6jXmwIrCRDxTYJltXp2OhzGBDIkOeqtnATPPiTYke60pn7yGB8frjsiy3Rmc9DTS0YGM5fkXW//fohru/ZoQqmgm2EKC5cCBom2HGSfbKtRvzQQ5Vd5RkB+y+7sje7P1c9+b6C/Ihl9riawTmsstQ8kFc/RrI1YC3xmABmfO1BT2cPeO0WZZGVj785s3JoePzFqRjhykQyN8KXUeMXd7cWFm6gFbHmDfjLxqFGCfo=;7I5JGPQ/aA6v7lRzdANkXg=="
 ---
 
