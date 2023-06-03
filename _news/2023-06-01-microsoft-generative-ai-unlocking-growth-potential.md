@@ -64,6 +64,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
+  - title: "Nvidia became a $1 trillion company thanks to the AI boom"
+    excerpt: "This latest push comes after Nvidia’s business boomed early in the pandemic during a GPU shortage while they ... team up to build ‘massive’ AI supercomputer 2016: Nvidia bets big on AI ..."
+    publishedDateTime: 2023-05-30T13:47:00Z
+    webUrl: "https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 49
   - title: "AI demand briefly catapults Nvidia into $1 trillion club"
     excerpt: "The total value of computer chip and graphics processing card manufacturer Nvidia briefly touched $1 trillion on May 30 as demand for the company’s artificial intelligence tech surged into overdrive."
     publishedDateTime: 2023-05-31T00:40:00Z

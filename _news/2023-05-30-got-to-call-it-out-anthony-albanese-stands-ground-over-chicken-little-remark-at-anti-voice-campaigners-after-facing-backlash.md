@@ -26,19 +26,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Anthony Albanese says voice opponents aren’t racist, defends putting it in the constitution"
-    excerpt: "Anthony Albanese says Australians who oppose the Indigenous voice to parliament and executive government aren’t racist and declared the advisory body could be refined and changed through legislation over time."
-    publishedDateTime: 2023-05-30T02:13:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/anthony-albanese-says-voice-opponents-arent-racist-defends-putting-it-in-the-constitution/news-story/268ee8daaaa11d7eafe671355bd278d7"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/anthony-albanese-says-voice-opponents-arent-racist-defends-putting-it-in-the-constitution/news-story/268ee8daaaa11d7eafe671355bd278d7?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/anthony-albanese-says-voice-opponents-arent-racist-defends-putting-it-in-the-constitution/news-story/268ee8daaaa11d7eafe671355bd278d7?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 14
-
 secured: "jviW2B4qhbdTXkSmn2zv9Ye20OSW3RRowGBhOXhRhxoYVJPFiGx+7x8PooreODE440uTgL5EYZnpFG2LwPaC2KTkRzSVXtqIuWm4Dq7eplMrqVi5TFgVllqb8LdUhQ7WMomlp0geb3SPd0tWqbcoz6ZwFP2PQgqZd1QW1Oe81oSOrg1pDFnKkYeOiP4YXrzpsTIcwluNKmLsVGhG8YA6hRYTfLCPJZbM9tzPD3Bfz1JDSGUnoFzIQJvifgvalJHWDrQ1gzSQDalrzkA+ZcT+488f0DReOlWKohz1WM1GlfXGHsnBGn9kYJD5/YABISPRPdp0eCgVqQTShyEsZpXm+kXz7fDGCFs+IYLluliuHAA=;VuVxKO1e42woe02W38lnuw=="
 ---
 

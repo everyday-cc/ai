@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/7-ways-you-didnt-know-you-c
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/"
 type: article
 quality: 87
-heat: 172
+heat: 163
 published: true
 
 provider:
@@ -112,20 +112,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/sTCFwy1DXyc5qYFInLVJ5loZ9OY=/1200x630/filters:format(jpg):quality(70):focal(2293x1960:2303x1970)/cloudfront-us-east-1.images.arcpublishing.com/tronc/UPJDSXSRJIER3SHFXQ3B6AB7ZM.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Chinese AI chatbot firm Xiao-I eyes global market after Nasdaq IPO on ChatGPT fever"
-    excerpt: "When Yuan Hui launched his company’s first chatbot two decades ago, the world had yet to catch up on the potential of conversational artificial intelligence (AI). Today, Shanghai-based Xiao-I is worth more than US$400 million,"
-    publishedDateTime: 2023-05-31T04:20:00Z
-    webUrl: "https://www.channelnewsasia.com/business/china-xiao-i-artificial-intelligence-company-nasdaq-3527291"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 33
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--fYeRF4wY--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/05/31/china_xiao-i.png?itok=9K8E7QKU"
-        width: 1200
-        height: 676
         isCached: true
   - title: "US eating disorder helpline takes down AI chatbot over harmful advice"
     excerpt: "National Eating Disorder Association has also been under criticism for firing four employees in March who formed a union"

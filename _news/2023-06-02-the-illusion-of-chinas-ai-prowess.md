@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-02T13:36:00Z
 originalUrl: "https://www.foreignaffairs.com/china/illusion-chinas-ai-prowess-regulation"
 webUrl: "https://www.foreignaffairs.com/china/illusion-chinas-ai-prowess-regulation"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 related:
   - title: "The Ethics Of Communication Between AI And Humans"

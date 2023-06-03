@@ -7,7 +7,7 @@ originalUrl: "https://www.moneymarketing.co.uk/poll/poll-do-you-use-artificial-i
 webUrl: "https://www.moneymarketing.co.uk/poll/poll-do-you-use-artificial-intelligence-in-your-business/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 700
     height: 525
     isCached: true
+
+related:
+  - title: "The secret to making AI effective for your unique business challenges"
+    excerpt: "Fear of AI is largely due to misrepresentation and misunderstanding. AI has been around for years, and businesses already use and trust it."
+    publishedDateTime: 2023-06-03T17:10:00Z
+    webUrl: "https://venturebeat.com/ai/the-secret-to-making-ai-effective-for-your-unique-business-challenges/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "WyraO1e8vIaOVKEdY8sIlNyiIxy84CeK1/Y40TdsY+6gkHZ/3R6mS5beNj4c7W5ev7QooyFGzMVhzzrAQsqmlq26eoT9smxeYvErGWmVTvLnKOUWroan/etQu89ZslFJQXULfOeMOkOM6kjmUZg5J6a2j0hjyjZbjsQGdPZLgBHBgNWQXOOHSuD2im2nX/NahZSgvuL+MBZQQnUYQnNKYQeKkug0t7xTcnjPhtHWi/EQXc4NYK3LJmQBQngUd2/j28f5CjuY7BUm4ol7QnVJiD2yqRozOkSV7ASegk5WESBpYuT7NmxVepr4cktcXy2xepg9WbbyvF1EKUHnSeoVKoSmt/Tw6bMKo2o0McnxtmHYQYAUV+snzHC7/DYQyEWx45uijDSkim+PNinYkUFvQtMhnDxwDhi1m9cd9LuyW5lMwdAhaeGojvBsMVVdtUJ+WtFrxWpeOs0fu+BQ77SPGybtUp8BHrsNmBI37EsPcyetQ1KUzwIQVFdH8UfdwnstCcRcAzNH6iTAmrrU7c2icA==;ug+j04PXWaZcIQ65Y9uLxw=="
 ---

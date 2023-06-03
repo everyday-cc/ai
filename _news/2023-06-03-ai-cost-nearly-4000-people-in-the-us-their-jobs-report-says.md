@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fox9.com/news/ai-cost-nearly-4000-people-in-the-u-s-thei
 cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/ai-cost-nearly-4000-people-in-the-u-s-their-jobs-report-says.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Fox 9
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI cost nearly 4,000 people in the U.S. their jobs, report says"
+    excerpt: "U.S. companies said over 80,000 jobs would be eliminated, the report found. Those cuts brought the total number of job cuts announced by U.S. employers since the start of"
+    publishedDateTime: 2023-06-03T17:43:00Z
+    webUrl: "https://www.fox7austin.com/news/ai-cost-nearly-4000-people-in-the-u-s-their-jobs-report-says"
+    type: article
+    provider:
+      name: FOX 7 Austin KTBC
+      domain: fox7austin.com
+    quality: 19
 
 secured: "xsR59/5V2TxLgEY7aDstYRxZZl7TXRjSjKBMBD+YIeoh9PSuVLQwypPhEAk6DVhIZ2ppXWXOC51TdHSfjtd0f9IL1v3pd6wveabyUuQYJMSSJRJnfsNqg8ZCryjBdVNlASMHA4R2tnGXHADULa/L+rX+phNppY/oDBxujcBNq9R8vAvdX0x40kb5wTq3hJ8R/2bg44IYCsFEgFJuaRNYitakuliGjpD7ooSKTRr+jGlDKlPfSCVxTtRl2gt1kPLo6BC96FMKz4NJ+bLNMb+CPlk0Fm33Kex8h//wWEw32G9QyK5/GRp0egn1dknpcCbXSzkJLWlxwLsn+Fqf2i8L5z/K0tpdpIbgm8DB+fmSISBDdadZRCkFWdkEs1oz7zgJQb+kxbSuDEsNse/iRSR7A+EXVlZNOInEKT5XhVY4tR2Cyg9QWRbBKKMW7Nync0okv/QYB5/fpf5amwrpTcO8kuH9XPIoBdl4JISABbS6plJyv8XwbdwDBeowd3jQGeGddCCch6fRJGVasFBFOjNd1g==;CF58n2eN0iqJ9cdQcKWTRQ=="
 ---

@@ -71,20 +71,6 @@ related:
         width: 740
         height: 492
         isCached: true
-  - title: "Microsoft Build 2023: Bing AI and Copilot Plugins for ChatGPT OpenAI, Microsoft Fabric and More"
-    excerpt: "This year's Microsoft Build was focused on artificial intelligence, with new Copilot experience additions for Windows 11 and Edge, as well as new Bing AI and Copilot plugins for ChatGPT OpenAI. Key announcements also included the Microsoft Fabric analytics platform,"
-    publishedDateTime: 2023-06-02T07:05:00Z
-    webUrl: "https://www.infoq.com/news/2023/06/microsoft-build-2023/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 42
-    images:
-      - url: "https://res.infoq.com/news/2023/06/microsoft-build-2023/en/headerimage/generatedHeaderImage-1685637758526.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Xpr1LSLXleauzT4KhKv3wUhQ24WIvah4cRHmSlNd2BZDOb1CRhNnK697InvHjw+8weMklV0TN0gaHATIXF2oSxY4oejkqDS1cH45dptXIUySWr8JUdy5PsASHTFmLCds5E3OpAjlHQjJvLxXLLPMx0UxZ57CQkLAFp1vCBguAE8HkGJSuIgFycFSMqknqBsrH8y9xOrMA3W2A163xWxdvmHXibPfgzkEDkDrTOnSdnIBmpAYWktp+lgneknNYddONkaKpbqzF09M61UvcetcUhhBiMVfq7TdJ8zGAJJy9c/zKQ9gIRLVtv/rCv9GIbmcT4boKR9m766C3Y97RnqOmUusjQIoKwLCKG85T68G3vb7hizaqJmP4N0bwEJtyEphV7PIHZpYmG5J/x9ULt3pQHz3yyimDVt09N5/ZucxsaAuga/ZeN7vt5BWHP9cc98eUskRyU1fHwsnS3pgUknJIf7TXXLeWj/Jj35PqyU3K7G2dh04kwezmILQqYYCdQV/9G5jRUWBAkNuK5GxoyUO1A==;6R9RrihNhgo2H1RbQTk1yQ=="
 ---

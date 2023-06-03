@@ -78,6 +78,15 @@ related:
         width: 1536
         height: 864
         isCached: true
+  - title: "Nvidia became a $1 trillion company thanks to the AI boom"
+    excerpt: "This latest push comes after Nvidia’s business boomed early in the pandemic during a GPU shortage while they ... team up to build ‘massive’ AI supercomputer 2016: Nvidia bets big on AI ..."
+    publishedDateTime: 2023-05-30T13:47:00Z
+    webUrl: "https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 49
   - title: "Fueled by AI, Nvidia joins the $1 trillion club"
     excerpt: "Booming demand for its AI chips has landed Nvidia (NVDA) a prime spot in one of the most exclusive clubs on Wall Street: The chipmaker hit a market cap of $1 trillion on Tuesday. It’s just the ninth company globally to have achieved such a feat,"
     publishedDateTime: 2023-05-30T20:42:00Z

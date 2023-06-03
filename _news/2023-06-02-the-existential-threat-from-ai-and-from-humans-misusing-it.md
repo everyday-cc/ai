@@ -151,7 +151,7 @@ related:
     provider:
       name: Foreign Affairs
       domain: foreignaffairs.com
-    quality: 19
+    quality: 21
 
 secured: "prKa6uRMnSVpyjEm5EdX4ZVcfoHMe8g7dnehfqHvjVuIEsMjhXjkrTmhl7KshI0TRe7wk02lVECP0WB/UTe9VrsTRQdTl44RiJh02EjzPN9CDK3feX0ZxpyCQr66Lpxm+TSJfJ7zuWo9CrCigLmwhJc018Oat5kJrw7BuXZIm4GdSpakuzW2T72kMq39OIqPqeL4beuI8RdLTRipuiKtwbsq3NfbaIb6rc+lAVgVh8dhaJ/FfnCJvYlUwsz9DFUHusaIsiLPAqcy3iQIXAnqOFB4zO/6R5CDdLv8L37Q4jAFMBLsCrzrMoEu2aEqso+4/UQ8TwQHfjCutMndXXvoLM48LAnonQ9KK+raDkWls8/QSwvLxQQotoKAsm8b1SeNlaxsCRvbNUBpwkfMvh+jZ11kWPaT9b2E4K+xNYNjzRA/9km94JWAlh0dgnVHEGc8u/Ya1RDt++0xCrTF9Ll8x4S9qtuyiWWdcd9U9tJ944BoAVQPeJ13Fnf7ypc18WE0Ez9sQ22BgeEGh7i5DRvj3A==;lnmZFInn648fDmNYaKaG+g=="
 ---

@@ -159,21 +159,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-31-chatgpt-is-cutting-non-english-languages-out-of-the-ai-revolution.md",
-      "title": "ChatGPT Is Cutting Non-English Languages Out of the AI Revolution",
-      "excerpt": "AI chatbots are less fluent in languages other than English, threatening to amplify existing bias in global commerce and innovation.",
+      "path": "_news/2023-05-31-the-future-of-generative-ai-beyond-chatgpt.md",
+      "title": "The Future Of Generative AI Beyond ChatGPT",
+      "excerpt": "Step into the future of artificial intelligence as we explore its extraordinary potential, from next-generation language models to generative design and gaming.",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/chatgpt-non-english-languages-ai-revolution/",
-      "originalUrl": "https://www.wired.com/story/chatgpt-non-english-languages-ai-revolution/",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/31/the-future-of-generative-ai-beyond-chatgpt/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/31/the-future-of-generative-ai-beyond-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 451,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.com/photos/64769756c30f50376ee8747d/191:100/w_1280,c_limit/ChatGPT-Is-Cutting-Non-English-Languages-Business-1417723053.jpg",
-          "width": 1280,
-          "height": 670,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6476f9bd5141e2d7f0a62ddd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 652,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -181,16 +181,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T04:01:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/31/the-future-of-generative-ai-beyond-chatgpt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/31/the-future-of-generative-ai-beyond-chatgpt/amp/",
+      "publishedDateTime": "2023-05-31T00:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -206,8 +206,9 @@
         "news"
       ],
       "topics": [
+        "AI",
         "Natural Language Processing",
-        "AI"
+        "Facebook AI"
       ]
     },
     {
@@ -264,21 +265,21 @@
       ]
     },
     {
-      "path": "_news/2023-05-30-what-are-large-language-models-and-how-are-they-used-in-generative-ai.md",
-      "title": "What are large language models — and how are they used in generative AI?",
-      "excerpt": "Large lanuage models are the algorithmic basis for chatbots like OpenAI's ChatGPT and Google's Bard, but the technology is tied back to billions -- even trillions -- of parameters that can make them both inaccurate and non-specific for vertical industry use.",
+      "path": "_news/2023-05-30-how-are-indian-languages-faring-in-the-age-of-ai-and-language-models.md",
+      "title": "How are Indian languages faring in the age of AI and language models?",
+      "excerpt": "As large language models like ChatGPT find more applications around the world, their adoption also passively spreads a prejudice against languages other than English, including Indian languages. Some researchers are working to remedy this.",
       "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3697649/what-are-large-language-models-and-how-are-they-used-in-generative-ai.html",
-      "originalUrl": "https://www.computerworld.com/article/3697649/what-are-large-language-models-and-how-are-they-used-in-generative-ai.html",
+      "webUrl": "https://www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://images.idgesg.net/images/article/2023/05/llm-image-100941414-large.jpg?auto=webp&quality=85,70",
+          "url": "https://th-i.thgim.com/public/sci-tech/science/12fdik/article66911414.ece/alternates/FREE_1200/aboodi-vesakaran-SOp7CS0-1MA-unsplash.jpg",
           "width": 1200,
-          "height": 800,
+          "height": 867,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -286,13 +287,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3697649/what-are-large-language-models-and-how-are-they-used-in-generative-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3697649/what-are-large-language-models-and-how-are-they-used-in-generative-ai.amp.html",
-      "publishedDateTime": "2023-05-30T00:00:00-07:00",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece/amp/",
+      "publishedDateTime": "2023-05-30T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
+        "name": "The Hindu",
+        "domain": "thehindu.com",
         "images": null,
         "publishers": null,
         "authors": null

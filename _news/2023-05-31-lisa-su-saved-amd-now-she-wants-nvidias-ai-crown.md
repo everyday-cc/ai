@@ -60,20 +60,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Nvidia unveils AI supercomputer that will put you out of a job much faster"
-    excerpt: "While AI systems amaze and alarm the world in equal measure, they’re about to get even more powerful. Nvidia has announced a new class of supercomputer that will train the next generation of AI models,"
-    publishedDateTime: 2023-05-30T04:42:00Z
-    webUrl: "https://newatlas.com/computers/nvidia-ai-supercomputer-dgx-gh200/"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 67
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/e16410b/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F24%2F2b%2F319f6a3e407aba43f1f0418ebfed%2Fnvidia-dgx.jpeg&na.image_optimisation=0"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Why Nvidia, C3.ai, and Qualcomm Stocks Keep Going Up"
     excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services."
     publishedDateTime: 2023-05-30T15:53:00Z

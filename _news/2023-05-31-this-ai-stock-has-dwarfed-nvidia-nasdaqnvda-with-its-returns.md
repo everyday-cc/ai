@@ -36,7 +36,7 @@ related:
     provider:
       name: GEN
       domain: genengnews.com
-    quality: 19
+    quality: 21
   - title: "Nvidia stock price skyrockets on Nasdaq index amid AI boom. Should I own it?"
     excerpt: "Nvidia stock is expensive, but the first-quarter results show that Wall Street is still underestimating its potential in the AI boom. It's the leading chipmaker for generative AI, and that position is unlikely to change as the company continues to innovate with new products like its Hopper GPU architecture."
     publishedDateTime: 2023-05-30T19:06:00Z

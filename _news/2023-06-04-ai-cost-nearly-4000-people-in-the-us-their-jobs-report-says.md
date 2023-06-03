@@ -1,0 +1,57 @@
+---
+category: news
+title: "AI cost nearly 4,000 people in the U.S. their jobs, report says"
+excerpt: "U.S. companies said over 80,000 jobs would be eliminated, the report found. Those cuts brought the total number of job cuts announced by U.S. employers since the start of"
+publishedDateTime: 2023-06-03T17:43:00Z
+originalUrl: "https://www.fox7austin.com/news/ai-cost-nearly-4000-people-in-the-u-s-their-jobs-report-says"
+webUrl: "https://www.fox7austin.com/news/ai-cost-nearly-4000-people-in-the-u-s-their-jobs-report-says"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: FOX 7 Austin KTBC
+  domain: fox7austin.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+related:
+  - title: "AI cost nearly 4,000 people in the U.S. their jobs, report says"
+    excerpt: "U.S. companies said over 80,000 jobs would be eliminated, the report found. Those cuts brought the total number of job cuts announced by U.S. employers since the start of"
+    publishedDateTime: 2023-06-03T15:04:00Z
+    webUrl: "https://www.fox9.com/news/ai-cost-nearly-4000-people-in-the-u-s-their-jobs-report-says"
+    ampWebUrl: "https://www.fox9.com/news/ai-cost-nearly-4000-people-in-the-u-s-their-jobs-report-says.amp"
+    cdnAmpWebUrl: "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/ai-cost-nearly-4000-people-in-the-u-s-their-jobs-report-says.amp"
+    type: article
+    provider:
+      name: Fox 9
+      domain: fox9.com
+    quality: 59
+    images:
+      - url: "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2023/06/932/470/GettyImages-1494885365.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "AI eliminated nearly 4,000 jobs in May, report says"
+    excerpt: "In March, investment bank Goldman Sachs predicted in a report that AI could eventually replace 300 million full-time jobs globally and affect nearly one-fifth of employment — with a particular hit to white-collar jobs often considered automation-proof, such as administrative and legal professions."
+    publishedDateTime: 2023-06-02T21:59:00Z
+    webUrl: "https://www.cbsnews.com/news/ai-job-losses-artificial-intelligence-challenger-report/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/ai-job-losses-artificial-intelligence-challenger-report/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-job-losses-artificial-intelligence-challenger-report/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 57
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/29/4618c34c-20ce-4142-be45-c2160e658017/thumbnail/1200x630/d269443092b6e683ccde089fadcaebef/gettyimages-1475791515.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "TqxM5n7f++nANhfVZ+Ga6DZWoV6wnewQSe5BdAvPTDlmnkU/68I+kuwvn2o0bWy+wrqQjZk4GxzmoGMaFIYXhUWXbykaG+v7mwVAzPwGf/ROIaHnQnJZwC9g3DYqCvxA28nnUIE2Zqhnh+uPeZVOO3t2x0GcQ/+stFJMPYWH3aSVmrKTfi5+9KjbrQbTsQaalrA5+0Ayps3X7Jr/ihjPq0xajtt8RzCKB2AXTTaRW3OQxrricY/wLg3BunNcBhlxCBSJXlgewGN0yB2qMU0TBIwhF7M0dj5RMwJxA2fMf4iIxbkHWr9NhRrrUF38HDPJLHk2pJ+1DEdSXWm+n5NECC4oYrX9iXVhZESdq+yCyVu40f0pTpogbI6S5+pk1ac2KNM5cNhPXvApTH0LYG4a7KjjqAEoGRUR3zGLVmUjPyVorqVG+tILyCLwBTruPgYDcUQeirF4LU+R5ikZ+HA+vh9bAsCBDDqy9ABzkuoaheknNXNzcN+DE8HYv9XFx9Bdz7uhQ02dClw8ZDNL0YPwxg==;/+6eifW+RFFYGn9VX1TCHA=="
+---
+

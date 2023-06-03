@@ -6,8 +6,8 @@ publishedDateTime: 2023-05-31T23:39:00Z
 originalUrl: "https://www.datanami.com/2023/05/31/six-ways-to-bolster-your-data-and-ai-team-in-a-down-economy/"
 webUrl: "https://www.datanami.com/2023/05/31/six-ways-to-bolster-your-data-and-ai-team-in-a-down-economy/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.datanami.com/wp-content/uploads/2023/05/recession_shutterstock_pryzmat.jpg"

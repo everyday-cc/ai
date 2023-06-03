@@ -121,20 +121,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Chinese AI chatbot firm Xiao-I eyes global market after Nasdaq IPO on ChatGPT fever"
-    excerpt: "When Yuan Hui launched his company’s first chatbot two decades ago, the world had yet to catch up on the potential of conversational artificial intelligence (AI). Today, Shanghai-based Xiao-I is worth more than US$400 million,"
-    publishedDateTime: 2023-05-31T04:20:00Z
-    webUrl: "https://www.channelnewsasia.com/business/china-xiao-i-artificial-intelligence-company-nasdaq-3527291"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 33
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--fYeRF4wY--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/05/31/china_xiao-i.png?itok=9K8E7QKU"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "J3jYSopxWDOqD97LwGf2tLArxkGaRmjkObe0mStmtQj1eDQufagZss2QaSKzRfKtmkg5gZNpAyZSZOY1nrua/fBun0YDgOC7WBD8IUaxzyLwuVxAn3KjoVJ2qYz4Y5NcqaaQnu6bW7HW4vZhxFl62C1J17rVi9AdRkuOk9QxMUmhQobK9dgyc2FIf8v5phvZEf0zqLbxisvBcgJKkjYoRK+E3x7uEZmH1S9gVk7ybPQ0y/sZVcvsO/kt7aan+SqLZMSG+2M8J3SsQL/gThoOvtlDsXmBOfTkvtKMjSX6/9RXFcFZzn/p1gu3/UnoWiN41be65mjo4EpSfxcFMx8pL4wb4bT5EfJyZ7pucGAUNYGe1inljRbdfij6VgekawQX+T2JZQZj4njWDEZpKVw2Wg4GtQThxmjV2Im1ipVTC7YOaUQT/MtxDOJ/y6B2BcoCagiyT2OvH9XpKxMozIqE/0gc0eHkRwjTNhSjV2CaErzefylQnYsSLyAfZ9Rw8wVKi6RkiD4Ozk/gKfyKtZCbeQ==;IDo/jxSh2m87Na47owbu/Q=="
 ---

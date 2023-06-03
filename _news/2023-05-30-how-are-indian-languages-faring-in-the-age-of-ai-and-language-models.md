@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/science/indian-languages-chatgpt-l
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: The Hindu
@@ -27,50 +27,59 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT Is Cutting Non-English Languages Out of the AI Revolution"
-    excerpt: "AI chatbots are less fluent in languages other than English, threatening to amplify existing bias in global commerce and innovation."
-    publishedDateTime: 2023-05-31T11:01:00Z
-    webUrl: "https://www.wired.com/story/chatgpt-non-english-languages-ai-revolution/"
+  - title: "What are large language models — and how are they used in generative AI?"
+    excerpt: "Large lanuage models are the algorithmic basis for chatbots like OpenAI's ChatGPT and Google's Bard, but the technology is tied back to billions -- even trillions -- of parameters that can make them both inaccurate and non-specific for vertical industry use."
+    publishedDateTime: 2023-05-30T07:00:00Z
+    webUrl: "https://www.computerworld.com/article/3697649/what-are-large-language-models-and-how-are-they-used-in-generative-ai.html"
+    ampWebUrl: "https://www.computerworld.com/article/3697649/what-are-large-language-models-and-how-are-they-used-in-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3697649/what-are-large-language-models-and-how-are-they-used-in-generative-ai.amp.html"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: Computerworld
+      domain: computerworld.com
+    quality: 58
     images:
-      - url: "https://media.wired.com/photos/64769756c30f50376ee8747d/191:100/w_1280,c_limit/ChatGPT-Is-Cutting-Non-English-Languages-Business-1417723053.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "ChatGPT launched six months ago. Its impact — and fallout — is just beginning | The AI Beat"
-    excerpt: "A mere six months ago today, OpenAI released ChatGPT. It's been a dizzying AI ride, but it's impact — and fallout — is just beginning."
-    publishedDateTime: 2023-05-30T14:37:00Z
-    webUrl: "https://venturebeat.com/ai/chatgpt-launched-six-months-ago-its-impact-and-fallout-is-just-beginning-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-78.png?w=1200&strip=all"
+      - url: "https://images.idgesg.net/images/article/2023/05/llm-image-100941414-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 750
+        height: 800
         isCached: true
-  - title: "Should artificial intelligence be regulated by a U.S. or global body? The head of ChatGPT thinks so"
-    excerpt: "OpenAI CEO Sam Altman speaks before a Senate judiciary subcommittee on privacy, technology and the law hearing on artificial intelligence on Capitol Hill on Tuesday. (Patrick Semansky/The ..."
-    publishedDateTime: 2023-05-30T16:49:00Z
-    webUrl: "https://www.cbc.ca/news/world/artificial-intelligence-regulated-1.6845389"
-    ampWebUrl: "https://www.cbc.ca/amp/1.6845389"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6845389"
+  - title: "The rise of artificial intelligence: How language models and NLP are transforming industries"
+    excerpt: "Frustrated by manual onboarding processes during its quest to grow market share in the corporate sector, Banco Galicia resorted to using Red Hat Inc.’s expertise when creating an NLP platform, according to Erico Behmer (pictured,"
+    publishedDateTime: 2023-05-31T22:05:00Z
+    webUrl: "https://siliconangle.com/2023/05/31/rise-artificial-intelligence-language-models-nlp-transforming-industries-rhsummit/"
     type: article
     provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 45
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 43
     images:
-      - url: "https://i.cbc.ca/1.6845407.1684268021!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/congress-openai-ceo.jpg"
-        width: 620
-        height: 349
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Erico-Behmer-Victoria-Martinez-Clean.jpg"
+        width: 1920
+        height: 1080
         isCached: true
+  - title: "Exploring the Capabilities of Smaller, Open-source Large Language Models"
+    excerpt: "Our AI experts share their key takeaways from exploring the capabilities of open-source language models, which tend are to be much smaller than larger, proprietary models like ChatGPT."
+    publishedDateTime: 2023-06-01T15:30:00Z
+    webUrl: "https://www.wwt.com/article/exploring-the-capabilities-of-smaller-open-source-large-language-models"
+    type: article
+    provider:
+      name: WWT
+      domain: wwt.com
+    quality: 23
+    images:
+      - url: "https://www.wwt.com/api/attachments/6478b46272b1d2f00dead0b5/thumbnail?width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Here Are 30 New Jobs Language Industry CEOs Expect to Hire for in the AI Age"
+    excerpt: "As LLMs are put into production across the translation industry, CEOs will recruit for roles such as Prompt Engineers or Source Language AI Copy Editors."
+    publishedDateTime: 2023-05-31T09:00:00Z
+    webUrl: "https://slator.com/30-new-jobs-language-industry-ceos-expect-to-hire-ai-age/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 16
 
 secured: "MsGT49y2i6Okj6f7dQnTegRhter5j7+j3gvLOULHijMQzfADyWVmdUSDd4IcGPkeAu45CbCDyCbVrnihN2+OfP5neBwyep6Aed94efN6w2Moa6amXzU1iv5ny5Rbioxyi0HdaIsIi+1Cgs/d1YpJcWb1gRLRPS9kncDnykoejY0YgtT7F4xOB8MOKbZ9yL3IdjzzDc8Vil6tk6RPgunwqJaE44N/EKbaiJvp4Nzs5qA60TkEy/hsI7SH6csx+YpMsQgXo1gXqJFp5hOC788uZ2iSMjjBptRK2b4cshjtCVtVhGHE0ApRjVFccMHvek6Pf2A2THI0nBC748NmCghbwpcyY5Ls3XzM8Ie968vjuByDHSoeWEc/RZUTyF7eTHXqJ3tuHxjkF3zphVtTPlvXg2UlXUaCQwOiSkx8TuPH+SklBwrUtpCupWI3GzGOK6WAlwQ5sLCOkXgsrBoMsy+GlSA0VgtPRpn3PCn/PxoYHtCxNX0gC9c35bh+IomOGCw88pZZTmPVUQv7RvV9ncYVIg==;1+uS599iZJfQwNGumbvU4A=="
 ---

@@ -42,6 +42,15 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "AI cost nearly 4,000 people in the U.S. their jobs, report says"
+    excerpt: "U.S. companies said over 80,000 jobs would be eliminated, the report found. Those cuts brought the total number of job cuts announced by U.S. employers since the start of"
+    publishedDateTime: 2023-06-03T17:43:00Z
+    webUrl: "https://www.fox7austin.com/news/ai-cost-nearly-4000-people-in-the-u-s-their-jobs-report-says"
+    type: article
+    provider:
+      name: FOX 7 Austin KTBC
+      domain: fox7austin.com
+    quality: 19
 
 secured: "nZOPV1huzylJIwwBpSQsujRIuxoIhe0ZAmZqkPqM4zomo96MaV1Lj6TPOEz77QoCTqlVha1HisUQVfq8UZOLxzhcWUsWzluVOTEYjXAmyJoHp4JM1HvtMQVoO8TzODdGsgan8dkE5F+M2CpxBuFaulSVlG1p1flzr3l3Wtm8FsOnGcc2HlCcF50EbWOwpBN/xfpR1PT7GXChUBsh9AUMIMU6nKzSRma3jchcPFah351ErGi1JOI787GEM3I7ZNC3p45dEximjw1CbfCUFTcTspp5k/bLJGNtCObYIYOmJNtcMf44eUzIKVbA4p1O/lQJWyEkr681TPn/TF3Rq05vGBONySe5DcikfD67O/qTGu8mQ4L2So/i5pg6gW5hPLjms7vZKBk3vSQMy6+v2YsOCwaNJSB7UaTkh67xWThRl/XX+Ks2n64AM92iGn9M76UrTGAVWIRD9K7ZSVSqe+/059GanjZEA4sIWMN7Xqd6ajXFb6jH5QC75XJh0ChPKaNViwwNQCvB9tSfDnrHt1GQhw==;19qp0CU7aozJCi92qE6VVA=="
 ---

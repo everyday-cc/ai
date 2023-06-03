@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/paycor-strengthens
 webUrl: "https://markets.businessinsider.com/news/stocks/paycor-strengthens-talent-platform-with-ai-generated-job-description-feature-powered-by-microsoft-azure-openai-service-1032364080"
 type: article
 quality: 75
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://mma.prnewswire.com/media/2091414/OneDegree_Global_and_Microsoft_Join_Forces_to_Drive_Insurtech_and_Cybersecurity_Innovations_with_Azu.jpg"
         width: 400
         height: 225
-        isCached: true
-  - title: "Microsoft Build 2023: Bing AI and Copilot Plugins for ChatGPT OpenAI, Microsoft Fabric and More"
-    excerpt: "This year's Microsoft Build was focused on artificial intelligence, with new Copilot experience additions for Windows 11 and Edge, as well as new Bing AI and Copilot plugins for ChatGPT OpenAI. Key announcements also included the Microsoft Fabric analytics platform,"
-    publishedDateTime: 2023-06-02T07:05:00Z
-    webUrl: "https://www.infoq.com/news/2023/06/microsoft-build-2023/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 42
-    images:
-      - url: "https://res.infoq.com/news/2023/06/microsoft-build-2023/en/headerimage/generatedHeaderImage-1685637758526.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "imBsZTgTQRN2WlKaAFZgxi7tsG+WVd3hfto2bPlfDk+/AuaxVFVBEomRRzI3ugAXz4A8D/ohUWVe9dR1WoECzVePyWKVXeIY6sd/4kOcPrzKmzqr4oiSYGIMWKGDy8Sq9RRJJoONPiT9RJe0M9cSDSMFPYFGjhoEwxwg7G4oyxOYUI3IRKpHtnVC0aVUCMhNVOrIjYxpRv4cumxMaDeKRFwRRONWz02o7/FZI7oIf7LngWMyyZMHENjv9sYjURQW0dG/WviQsbkCrIA0d+65FchlzmawaXCW5MpeiUBKg/qx3ZFD7G3AWcF+2Hrera0Je52JKIrVDyXP+UlBLZLXLu1iIJtajNBqFbT4YhcJjbASLue93qcqWVgLSA4OkIvfS/7xqAD2VXq4rv/jp/IeLqXmExjsVKLv+hDrtcD+3iqiEotaQYMOQ1qZ5W7tBzAW+kfz4IjUi5uJhUKppHTPWge9/qWjledTO6KeyusSTLwRccAAtI66SEsR1Xd99q4Nj3hNGPQnB1rceQ1p83k7Pg==;hYdMMWSHUDn1q3Dr2ugMSQ=="
