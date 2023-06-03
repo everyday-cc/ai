@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ibtimes.sg/top-5-ai-careers-2023-unlocking-potential-art
 cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/top-5-ai-careers-2023-unlocking-potential-artificial-intelligence-70424"
 type: article
 quality: 71
-heat: 74
+heat: 71
 published: true
 
 provider:

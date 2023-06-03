@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/amex-is-experimenting-cautiously-with-g
 webUrl: "https://venturebeat.com/ai/amex-is-experimenting-cautiously-with-generative-ai-for-fintech/"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "BM Fintech signs MoU with centre for AI innovation global"
-    excerpt: "BM Fintech Bait Al Mashura Finance Consultations and CEAI (Centre for AI Innovation) MyFinB have signed a memorandum of"
-    publishedDateTime: 2023-05-29T06:02:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/29/05/2023/bm-fintech-signs-mou-with-centre-for-ai-innovation-global"
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 39
-    images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20230529_1685340232-924.jpg?1685340232"
-        width: 1000
-        height: 666
-        isCached: true
   - title: "5 Companies leveraging AI to transform the future of FinTech"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-06-01T07:03:00Z

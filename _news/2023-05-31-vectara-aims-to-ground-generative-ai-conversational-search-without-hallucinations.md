@@ -61,17 +61,6 @@ related:
         width: 3000
         height: 1687
         isCached: true
-  - title: "How generative AI is impacting the creative industry"
-    excerpt: "The root of this is generative AI, a type of artificial intelligence (AI) capable of creating original content. Since the release of ChatGPT in November 2022 by OpenAI, companies like Midjourney, Runway,"
-    publishedDateTime: 2023-05-29T05:59:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/how-generative-ai-impacting-creative-industry"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/digital-economy/how-generative-ai-impacting-creative-industry"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/digital-economy/how-generative-ai-impacting-creative-industry"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 39
 
 secured: "wXMEzHHdU2kxsl4TnKj/kSlotLn49WXHzb4DFuqUgYKsFDb8kFC3HyMLtb42rsAKuI079XmOhwyH6dfkxu+MDCTWaHBUq9+4lUqip6lrx28qXg6iHbbx0ezGU8qZvc/h9REDnRBrJ7AHKOz/+etxJ2R/lMLOfdJ6EWCVp4iQcTO+bwU5GpcibBCFG1deVDJ0+3/CvylGICRTxBEIL9DcUzVYPgdoxqh0Hb9eUUZqVZNXnF9thMWynTNEbBfdgOekIeuCqj8OV71wQyYgqlTMZKXxaYPlCWqjF0nf7JU8UjbN7xUBfP/G1GW179wT0KHdDqsZXVEPVjuUBmzX1gX4Xb+hosZATJ0z88JYeiZxnp/DyEmDtadQBF/20Rld6KG4rF1AzeWJmPmNeGS4gGsX+v47aIrcGBlB/89BZuO1cyRxYfj3eJUuLglPdILyawG2invEq4gl4ss9OTksLmkCL93icgFtawkTGnB/SSQaDzdhbg2CpH8+wqHkPcTtQssNFTqcAdh0XlWV8LEfGLc0zg==;QYT20Lq5L2b5nb7/vs6jSw=="
 ---

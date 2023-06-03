@@ -167,7 +167,7 @@
       "originalUrl": "https://www.businessinsider.com/investing-ai-stocks-to-buy-now-options-trades-goldman-sachs-2023-6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -296,49 +296,6 @@
         "AI in Robotics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-nvidia-is-building-israels-most-powerful-supercomputer-for-ai-applications.md",
-      "title": "Nvidia is building Israel’s most powerful supercomputer for AI applications",
-      "excerpt": "The system, called Israel-1, is expected to deliver performance of up to eight exaflops of AI computing that will essentially make it one of the world",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/articleshow/100621717.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/articleshow/100621717.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-100621670/100621670.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/amp_articleshow/100621717.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/amp_articleshow/100621717.cms",
-      "publishedDateTime": "2023-05-30T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     },
     {
@@ -1501,6 +1458,59 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-chinese-tech-companies-forced-to-think-outside-the-box-to-overcome-us-chip-ban-in-the-race-for-ai-supremacy.md",
+      "title": "Chinese Tech Companies Forced To Think Outside The Box To Overcome US Chip Ban In The Race For AI Supremacy",
+      "excerpt": "By the time the sanctions were issued in October, Chinese institutions were producing 4.5 times more research papers on the topic of AI than American ones, according to a report released by State of AI. The release of ChatGPT in November 2021 by OpenAI ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/chinese-tech-companies-forced-to-think-outside-the-box-to-overcome-us-chip-ban-in-the-race-for-ai-supremacy-1032303426",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/chinese-tech-companies-forced-to-think-outside-the-box-to-overcome-us-chip-ban-in-the-race-for-ai-supremacy-1032303426",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/Computer,Support,Engineer,Installing,Processor.,Microprocessor,With,Clearly,Visible,Silicon.jpeg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

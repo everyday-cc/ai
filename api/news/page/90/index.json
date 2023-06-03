@@ -2,6 +2,40 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2023-04-04-generative-ai-in-fintech-market-size-to-exceed-us-62-bn-by-2032-report-by-marketus.md",
+      "title": "Generative AI In Fintech Market Size To Exceed US$ 6.2 Bn By 2032: Report By Market.Us",
+      "excerpt": "New York, April 03, 2023 (GLOBE NEWSWIRE) -- Market.us forecasts that the generative ai in fintech market will exceed USD 6,256 million by 2032, rising from USD 865 million in 2022. Furthermore ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105938077/Generative-AI-In-Fintech-Market-Size-To-Exceed-US-62-Bn-By-2032-Report-By-MarketUs",
+      "originalUrl": "https://menafn.com/1105938077/Generative-AI-In-Fintech-Market-Size-To-Exceed-US-62-Bn-By-2032-Report-By-MarketUs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-03T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-04-the-worlds-largest-ai-fund-has-surged-23-this-year-beating-even-the-red-hot-nasdaq-index.md",
       "title": "The world's largest AI fund has surged 23% this year, beating even the red-hot Nasdaq index",
       "excerpt": "The rise of ChatGPT has spurred a renewed spike in investor interest in the artificial intelligence sector. That's led the world's largest AI fund, the Global X Robotics & Artificial Intelligence ...",
@@ -933,41 +967,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-02-a-brief-history-of-artificial-intelligence.md",
-      "title": "A brief history of artificial intelligence",
-      "excerpt": "Multiple factors have driven the development of artificial intelligence (AI) over the years. The ability to swiftly and effectively collect and analyze enormous amounts of data has been made ...",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/a-brief-history-of-artificial-intelligence",
-      "originalUrl": "https://cointelegraph.com/news/a-brief-history-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

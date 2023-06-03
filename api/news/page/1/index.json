@@ -2,6 +2,142 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-03-california-lawmakers-question-dmv-regulation-of-driverless-trucks.md",
+      "title": "California Lawmakers Question DMV Regulation of Driverless Trucks",
+      "excerpt": "State lawmakers argue that the state Department of Motor Vehicles has so badly mishandled the driverless car industry that it can't be trusted to oversee big rigs barreling down the highways autonomously.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/fs/california-lawmakers-question-dmv-regulation-of-driverless-trucks",
+      "originalUrl": "https://www.govtech.com/fs/california-lawmakers-question-dmv-regulation-of-driverless-trucks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/5038a0a/2147483647/strip/true/crop/2123x1107+0+203/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F08%2Fd0%2Fa701469f4082a8e002171d503954%2Fbiz-auto-driverless-calif-assembly-dmt.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/fs/california-lawmakers-question-dmv-regulation-of-driverless-trucks?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/california-lawmakers-question-dmv-regulation-of-driverless-trucks?_amp=true",
+      "publishedDateTime": "2023-06-02T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-03-aistartups-unveils-comprehensive-directory-of-ai-tools-and-startups.md",
+      "title": "AIStartups Unveils Comprehensive Directory of AI Tools and Startups",
+      "excerpt": "In addition, it provides a subscription service that gives users exclusive access to the latest startup tools and resources, keeping them at the forefront of AI innovation. “Our vision is to help businesses unlock the future of AI and stay ahead of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/06/ab32701740/aistartups-unveils-comprehensive-directory-of-ai-tools-and-startups",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/06/ab32701740/aistartups-unveils-comprehensive-directory-of-ai-tools-and-startups",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/32701740",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32701740",
+      "publishedDateTime": "2023-06-02T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-03-google-opposed-a-shareholder-proposal-asking-for-more-transparency-around-its-ai-algorithms.md",
+      "title": "Google opposed a shareholder proposal asking for more transparency around its AI algorithms",
+      "excerpt": "During Alphabet's 2023 shareholder meeting,Trillium Asset Management proposed asking the search giant for more accountability on its AI algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-shareholders-meeting-ai-algorithmic-transparency-2023-6",
+      "originalUrl": "https://www.businessinsider.com/google-shareholders-meeting-ai-algorithmic-transparency-2023-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6460f406d391de0019bdd0f7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-shareholders-meeting-ai-algorithmic-transparency-2023-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-shareholders-meeting-ai-algorithmic-transparency-2023-6?amp",
+      "publishedDateTime": "2023-06-02T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-03-the-latest-paris-fashions-in-fintech.md",
       "title": "The Latest Paris Fashions (In Fintech)",
       "excerpt": "I was flattered to be invited to chair the keynote panel on new business models for banking at the Paris Fintech Forum 2023.",
@@ -62,7 +198,7 @@
       "originalUrl": "https://www.kbc.co.ke/ibm-launches-watsonx-to-power-next-generation-ai-foundation-models-for-businesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -252,7 +388,7 @@
       "originalUrl": "https://www.ibm.com/blog/accelerating-ai-innovation-the-future-of-banking-depends-on-core-modernization/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -276,58 +412,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence.md",
-      "title": "How to thrive in a new era of AI with trust and confidence",
-      "excerpt": "AI is already helping organizations achieve great things, but it's time to take advantage of its full business potential.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images2.markets.businessinsider.com/64777c4a085acb0018ff05b5?format=jpeg",
-          "width": 702,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-02T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -449,6 +533,58 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence.md",
+      "title": "How to thrive in a new era of AI with trust and confidence",
+      "excerpt": "AI is already helping organizations achieve great things, but it's time to take advantage of its full business potential.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/sc/how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence",
+      "originalUrl": "https://www.businessinsider.com/sc/how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64777bfedf2567001837dccc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -701,7 +837,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/is-generative-ai-a-friend-or-foe-to-pr-practitioners/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -753,7 +889,7 @@
       "originalUrl": "https://www.businessinsider.com/generative-ai-stokes-digital-blackface-accusations-advertisers-adjust-2023-6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -794,58 +930,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-amd-showcases-new-ryzen-xdna-ai-tech-during-computex-2023.md",
-      "title": "AMD showcases new Ryzen XDNA AI tech during Computex 2023",
-      "excerpt": "With the Computex 2023 event show kicking off, various brands have taken the stage their latest breakthroughs in technology and innovations. AMD is one of these companies and has just announced the new Ryzen XDNA AI tech that was demoed during the major tech event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/06/02/amd-xdna-ai-computex/",
-      "originalUrl": "https://www.gizmochina.com/2023/06/02/amd-xdna-ai-computex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/06/AMD-Ryzen-AI-Main-1-1024x536.png",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-02T00:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -932,49 +1016,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-nvidia-contracts-tsmc-to-manufacture-next-gen-ai-chip-says-huang.md",
-      "title": "Nvidia contracts TSMC to manufacture next-gen AI chip, says Huang",
-      "excerpt": "Nvidia's next-generation AI chip will continue to be manufactured by TSMC, said company CEO Jensen Huang in response to market concerns regarding the processor vendor's partnership with the pure-play foundry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20230601PD213/jensen-huang-nvidia-tsmc.html",
-      "originalUrl": "https://www.digitimes.com/news/a20230601PD213/jensen-huang-nvidia-tsmc.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/ad/en_20230302_dtmember_bigbutton.gif",
-          "width": 336,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -1183,58 +1224,6 @@
         "Microsoft AI",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-broadcom-suffers-sales-slowdown-even-as-it-points-to-ai-gains.md",
-      "title": "Broadcom Suffers Sales Slowdown, Even as It Points to AI Gains",
-      "excerpt": "Broadcom Inc., one of the world’s biggest chipmakers, said that artificial intelligence spending is helping fuel sales, but not enough to offset a broader post-pandemic slowdown.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-06-01/broadcom-suffers-sales-slowdown-even-as-it-points-to-ai-gains",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-06-01/broadcom-suffers-sales-slowdown-even-as-it-points-to-ai-gains",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZW6Tmm1CFkM/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T13:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

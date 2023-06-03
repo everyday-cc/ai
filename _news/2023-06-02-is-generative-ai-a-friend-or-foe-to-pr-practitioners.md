@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/is-gener
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/02/is-generative-ai-a-friend-or-foe-to-pr-practitioners/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -61,17 +61,6 @@ related:
         width: 3000
         height: 1687
         isCached: true
-  - title: "How generative AI is impacting the creative industry"
-    excerpt: "The root of this is generative AI, a type of artificial intelligence (AI) capable of creating original content. Since the release of ChatGPT in November 2022 by OpenAI, companies like Midjourney, Runway,"
-    publishedDateTime: 2023-05-29T05:59:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/digital-economy/how-generative-ai-impacting-creative-industry"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/digital-economy/how-generative-ai-impacting-creative-industry"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/digital-economy/how-generative-ai-impacting-creative-industry"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 39
 
 secured: "H0rA02VS5rtSJqPLCx5zhYTRdoVXDeFAyR06s0HhJNr6cFuzkuvhRmrnwfvLyRVKNRToOu54W4cioEXMpUYTb0QiKEsEwRW+nMdVe0b6354kqRwqGfvQ3ZbIJEoLz+x19u7+BVd/CA5lWxxA9vPJOWGm7bAhL4PzQXLHpvs5A8L2h3pCni+L9cdfBZjkLUHwdKmgDw+AzJrtRA2marZJNrQtSWiVTY0yCY2FAbi4FKqtJ93FhIvniLm6Ypkfr8tD4XxeMDcUru3/aylr6ev3JY9pRp3t8mx4ylTjgAPCnMLMM3XmgleNMUT1N0GvgbfI32OykP6m3x+gqbFBxkoIroAyhHeo8PUJSWVjXsMr3OU=;pzsN7B6mxOnkzrFaLXF7xA=="
 ---

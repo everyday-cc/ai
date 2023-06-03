@@ -10,7 +10,7 @@
       "originalUrl": "https://www.kbc.co.ke/ibm-launches-watsonx-to-power-next-generation-ai-foundation-models-for-businesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -46,101 +46,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-02-amd-showcases-new-ryzen-xdna-ai-tech-during-computex-2023.md",
-      "title": "AMD showcases new Ryzen XDNA AI tech during Computex 2023",
-      "excerpt": "With the Computex 2023 event show kicking off, various brands have taken the stage their latest breakthroughs in technology and innovations. AMD is one of these companies and has just announced the new Ryzen XDNA AI tech that was demoed during the major tech event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/06/02/amd-xdna-ai-computex/",
-      "originalUrl": "https://www.gizmochina.com/2023/06/02/amd-xdna-ai-computex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/06/AMD-Ryzen-AI-Main-1-1024x536.png",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-02T00:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-nvidia-contracts-tsmc-to-manufacture-next-gen-ai-chip-says-huang.md",
-      "title": "Nvidia contracts TSMC to manufacture next-gen AI chip, says Huang",
-      "excerpt": "Nvidia's next-generation AI chip will continue to be manufactured by TSMC, said company CEO Jensen Huang in response to market concerns regarding the processor vendor's partnership with the pure-play foundry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20230601PD213/jensen-huang-nvidia-tsmc.html",
-      "originalUrl": "https://www.digitimes.com/news/a20230601PD213/jensen-huang-nvidia-tsmc.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/ad/en_20230302_dtmember_bigbutton.gif",
-          "width": 336,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-01-2-chip-stocks-that-jp-morgan-says-could-dominate-the-critical-ai-market.md",
       "title": "2 Chip Stocks That J.P. Morgan Says Could Dominate the Critical AI Market",
       "excerpt": "J.P. Morgan says two chip stocks will do well riding the rising demand for custom-designed semiconductors: Broadcom and Marvell Technology Already a subscriber? Sign In",
@@ -149,7 +54,7 @@
       "originalUrl": "https://www.barrons.com/articles/broadcom-marvell-technology-chip-stock-ai-66c05d9b",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -899,7 +804,7 @@
       "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -930,6 +835,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-nvidias-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.md",
+      "title": "Nvidia’s new Grace Hopper superchip to fuel its DGX GH200 AI supercomputer",
+      "excerpt": "The DGX GH200 AI supercomputer is targeted toward developing and supporting large language models. Google Cloud, Meta, and Microsoft already have access to it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.html",
+      "originalUrl": "https://www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/05/nvidia-dgx-gh200-100941527-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.amp.html",
+      "publishedDateTime": "2023-05-30T00:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1004,7 +952,7 @@
       "originalUrl": "https://venturebeat.com/ai/mediatek-taps-nvidia-gpu-and-ai-for-connected-car-chipsets/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 359,
+      "heat": 349,
       "tags": null,
       "images": [
         {
@@ -1453,6 +1401,58 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says.md",
+      "title": "Stock market’s AI frenzy reinforces this crucial rule for traders, RenMac says",
+      "excerpt": "A mind-blowing Thursday surge by shares of chip maker Nvidia Corp. that fed a frenzy for artificial ... the 50-day moving average falls below the 200-day moving average. And the AI rally has some market watchers pondering if another bubble may be in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
+      "originalUrl": "https://www.marketwatch.com/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-789668/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/stock-markets-ai-frenzy-reinforces-this-crucial-rule-for-traders-renmac-says-fc248f84",
+      "publishedDateTime": "2023-05-26T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -55,18 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "WPP, Nvidia Team Up to Build AI-Enabled Content Engine"
-    excerpt: "WPP is teaming up with Nvidia to develop a content engine that uses generative AI for digital advertising."
-    publishedDateTime: 2023-05-29T05:42:00Z
-    webUrl: "https://www.wsj.com/articles/wpp-nvidia-team-up-to-build-ai-enabled-content-engine-f1d0efaa"
+  - title: "What’s Inside Nvidia’s AI Supercomputer? Powerful Chips and a Lot of Memory."
+    excerpt: "This past Monday, chip giant Nvidia which has seen its shares nearly triple to over $400 on rising demand for AI, announced its new DGX GH200 AI supercomputer powered by its GH200 Grace Hopper superchips. That’s a lot of letters, numbers, and supers."
+    publishedDateTime: 2023-06-02T23:35:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-ai-supercomputer-chips-c3ac4da0"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: Barron's
+      domain: barrons.com
+    quality: 71
     images:
-      - url: "https://images.wsj.net/im-790364/social"
-        width: 1280
+      - url: "https://images.barrons.com/im-793870/social"
+        width: 1279
         height: 640
         isCached: true
   - title: "Lisa Su Saved AMD. Now She Wants Nvidia's AI Crown"
@@ -167,20 +169,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230529pd208_files/1_b.jpg"
         width: 640
         height: 427
-        isCached: true
-  - title: "Nvidia AI GPU dominance to bolster key supply partners TSMC, Foxconn"
-    excerpt: "Nvidia has almost monopolized the hottest AI GPU market as the largest beneficiary of the ongoing global generative boom sparked by ChatGPT, which will significantly benefit its manufacturing partners in Taiwan,"
-    publishedDateTime: 2023-05-29T05:56:00Z
-    webUrl: "https://www.digitimes.com/news/a20230529PD200/nvidia-ai-gpu-foxconn-tsmc-gpu-supply-chain.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230529pd200_files/1_2b.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "NVIDIA: From Chipmaker to Trillion-Dollar AI Powerhouse"
     excerpt: "From being a renowned chipmaker for computer graphics to an industry titan momentarily reaching a trillion-dollar valuation, Nvidia's journey is one for the business books. This rapid ascent is a testament to the growing significance of artificial intelligence (AI) in shaping the future of technology."

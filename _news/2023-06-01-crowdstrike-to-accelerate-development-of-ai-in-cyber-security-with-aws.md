@@ -48,22 +48,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "Michael Saylor on how Bitcoin and artificial intelligence together can combat cybersecurity"
-    excerpt: "In a recent interview with Kitco News, Michael Saylor, executive chairman, MicroStrategy, mentioned that Bitcoin might help in cybersecurity if collaborated with artificial intelligence, such as deepfake, stated Cointelegraph."
-    publishedDateTime: 2023-05-29T05:39:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-michael-saylor-on-how-bitcoin-and-artificial-intelligence-together-can-combat-cybersecurity-3105526/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-michael-saylor-on-how-bitcoin-and-artificial-intelligence-together-can-combat-cybersecurity-3105526/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-michael-saylor-on-how-bitcoin-and-artificial-intelligence-together-can-combat-cybersecurity-3105526/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 49
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/Image-credit-Freepik172.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Insider Q&A: Artificial intelligence and cybersecurity in military tech"
     excerpt: "Lospinoso recently told a Senate Armed Services subcommittee how artificial intelligence can help protect military operations. The CEO/programmer discussed the subject with The Associated Press as well how software vulnerabilities in weapons systems are a major threat to the U.S. military. The interview has been edited for clarity and length."
     publishedDateTime: 2023-05-29T17:43:00Z

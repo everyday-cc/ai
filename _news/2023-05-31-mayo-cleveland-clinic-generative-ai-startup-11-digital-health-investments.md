@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/digital-health/mayo-clevelan
 webUrl: "https://www.beckershospitalreview.com/digital-health/mayo-cleveland-clinic-generative-ai-startup-11-digital-health-investments.html"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,56 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "AIStartups Unveils Comprehensive Directory of AI Tools and Startups"
+    excerpt: "In addition, it provides a subscription service that gives users exclusive access to the latest startup tools and resources, keeping them at the forefront of AI innovation. “Our vision is to help businesses unlock the future of AI and stay ahead of the ..."
+    publishedDateTime: 2023-06-02T22:12:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/ab32701740/aistartups-unveils-comprehensive-directory-of-ai-tools-and-startups"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32701740"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32701740"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Google Invests in AI Startup Runway to Wrest Cloud Business From AWS"
+    excerpt: "Google is investing in Runway, a New York–based startup that lets customers generate video from text descriptions using artificial intelligence it pioneered, at a valuation of around $1.5 billion including the new capital,"
+    publishedDateTime: 2023-05-31T21:48:00Z
+    webUrl: "https://www.theinformation.com/articles/google-invests-in-ai-startup-runway-to-wrest-cloud-business-from-aws"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 54
+    images:
+      - url: "https://tii.imgix.net/production/articles/10624/dc3a7145-40e1-4de6-8155-f1e313c7c6ea.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Italy plans state-backed fund to promote AI startups"
+    excerpt: "Italy's government plans to set up an investment fund backed by state lender Cassa Depositi e Prestiti (CDP) to promote startups investing in Artificial Intelligence (AI), cabinet undersecretary Alessio Butti said on Tuesday."
+    publishedDateTime: 2023-05-30T11:23:00Z
+    webUrl: "https://www.reuters.com/technology/italy-plans-state-backed-fund-promote-ai-startups-2023-05-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
+  - title: "Alchemist Accelerator loses new managing director to AI startup"
+    excerpt: "Rachel Chalmers took over in September when founder Ravi Belani stepped down last fall. Here's why she's leaving to join an AI startup after helming Alchemist Accelerator for less than a year."
+    publishedDateTime: 2023-05-30T18:09:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/05/30/alchemist-accelerator-rachel-chalmers-steps-down.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "BCasCS5SIWSCCDNV8GPSBXJj/WUqVfvLfuKzZqoZ7DsoN90fbwaN5nPNybuusAKZ8jSkabWb23ZFgb/FfoH0cEY03482rPWDzt6uZSpoUt0jazDx6Zg1JOF6CyrHPrpynYCmCGM717TBMoFXNParZggnK/68y/DgTsV7ryQOPvhH3yVQgqUNHnd4/hB0Jbon5rB2k40G8xNNFJlzAK96IHah6C6df5/sT3b3N5/4e71VyP9fEpjOdmYj3rVaXD4M48M9iuDcZ3AbaWqZtkRKcU0z2CgRp0nuzlSYpIj8uYBMijkKnQ/ctoP1RXNHreWUoI2sKf+gd9cVzwwHpHLn79nDKCDsvq4+VH+69jAzG2U=;Coghg71aLZZ40DDauU+/tg=="
 ---

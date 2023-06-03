@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "BM Fintech signs MoU with centre for AI innovation global"
-    excerpt: "BM Fintech Bait Al Mashura Finance Consultations and CEAI (Centre for AI Innovation) MyFinB have signed a memorandum of"
-    publishedDateTime: 2023-05-29T06:02:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/29/05/2023/bm-fintech-signs-mou-with-centre-for-ai-innovation-global"
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 39
-    images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20230529_1685340232-924.jpg?1685340232"
-        width: 1000
-        height: 666
-        isCached: true
   - title: "Fintech founder using AI to improve lives and livelihoods in Bangladesh"
     excerpt: "Women in Tech Excellence Rising Star of Financial Services awards winner, Shabnam Wazed is shaping fintech, using AI to make financial services more inclusive."
     publishedDateTime: 2023-06-02T09:31:00Z
@@ -82,6 +68,6 @@ related:
         height: 506
         isCached: true
 
-secured: "IywFVkrAgu+ANsoOwkEMdddEPvP5awkn077hqqr1xurgTzQUyauFpPPUzi6SKdT38hA9SV3W/+byay+7GN+1LWpmSRLdVBiWJdiByrXnFx2jyQTzF76DvWsBnIwaD5OiZke3j2KvdJMfGN8Vet9d8JDCirbztUiPOPdz+UHhiQLUvvp0LdkxykCuZOcYV/ymA4nrPOkUSjfJ0WpJqvvDx+lbiVqEwfqGHxJwkS+Kdwes/SB8FV5tdz6jCRzsQnlWifmzA1XMUESMA1l8cFbfluREsnTCnVwhFlrtij/IIW60zJzbkReeIz++MY3nr8axLypvkY66ZfjxQ3wIjuwGcbLl03qN6Y6WWlZ4XWyJLT4=;6oNqflxoOmVn6xieSuqGdA=="
+secured: "jcJnhXUIPm27JwuTGx6dKLt2znLDGT5Boxgpv2HxvTZG4khLSPOpp2QfsG6D7ET8IJDHjXdTsCNGyi+Z9HxlBwwDdSyYlh4O2aSQco7mkPVovhDJHaZgkQGU2/l8RD7DCzd/K7BrVawgCf0+XyXG/B9YmNqrzrCugaOI2mPQGnxG2XnWTbX9XhGzitXPpRw7h0CjtUvyrWb3Mq1h1w8EUJR8BEsZm3OHC8O8m1ySN2s6wgd+Cs5cMOCHhYL3bFu6C3qBxitSbtGZZFURZ46yQCAygyusM0K2BoZ9AIqvtoUBUceumuqjIbbyCzljViqybHAvyl19C0KcxQDWqPvDRKsXhZoDm9+/NlqyqX2z7Wsoh/rQ/N2NMQt9r2IMeN98mmOylWrUFBpFYVpbobJN1uCN4TCYIS8AeUoqqmv0dtYGaRHAx/g4lcXu3gQPnR+TMVRMUmnfddONcE5ktpD1zj1OrSr5ZWNzq9Aqvc0oFt9MNVjgI9f2hNd8Lgo/L5xhrBcH2+ssyXNOE9Hq0hsI0A==;Febr0H7zsNOH2jN6mWVKpw=="
 ---
 

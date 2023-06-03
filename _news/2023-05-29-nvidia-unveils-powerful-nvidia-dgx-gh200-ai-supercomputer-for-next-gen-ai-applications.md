@@ -19,36 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia unveils new kind of Ethernet for AI, Grace Hopper 'Superchip' in full production"
-    excerpt: "The Spectrum-X ethernet switch offers \"lossless\" transmission via a new kind of congestion control, said Nvidia."
-    publishedDateTime: 2023-05-29T05:23:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 96
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/e496c12a46e4533063ced7ab4bfdf6242b00c860/2023/05/29/05144ef8-05b7-455e-9cd7-72ff48b534c4/nvidia-ceo-jensen-huang-holds-up-spectrum-4-ethernet-switch.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "World’s most valuable chip maker Nvidia unveils more AI products after US$184 billion rally"
-    excerpt: "In a keynote speech at Computex Taiwan, Nvidia CEO Jensen Huang unveiled a new batch of AI products and services, looking to capitalise on a frenzy that has made his company the world’s most valuable chip maker."
-    publishedDateTime: 2023-05-30T02:55:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3222257/worlds-most-valuable-chip-maker-nvidia-unveils-more-ai-products-after-us184-billion-rally"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 74
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/05/30/45d7016d-e83e-411c-a363-e85893b7208b_e6ceab3b.jpg?itok=3dq4j9na&v=1685415274"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nvidia’s new Grace Hopper superchip to fuel its DGX GH200 AI supercomputer"
     excerpt: "The DGX GH200 AI supercomputer is targeted toward developing and supporting large language models. Google Cloud, Meta, and Microsoft already have access to it."
     publishedDateTime: 2023-05-30T07:36:00Z
@@ -65,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia unveils AI supercomputer that will put you out of a job much faster"
-    excerpt: "While AI systems amaze and alarm the world in equal measure, they’re about to get even more powerful. Nvidia has announced a new class of supercomputer that will train the next generation of AI models,"
-    publishedDateTime: 2023-05-30T04:42:00Z
-    webUrl: "https://newatlas.com/computers/nvidia-ai-supercomputer-dgx-gh200/"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 67
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/e16410b/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F24%2F2b%2F319f6a3e407aba43f1f0418ebfed%2Fnvidia-dgx.jpeg&na.image_optimisation=0"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "NVIDIA announces new class of supercomputer and other AI-focused data center services"
     excerpt: "The NVIDIA DGX supercomputer could be the top of its class. Learn what this may mean for enterprise AI and high-performance computing."
     publishedDateTime: 2023-06-01T04:07:00Z
@@ -93,6 +49,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Nvidia is building Israel’s most powerful supercomputer for AI applications"
+    excerpt: "The system, called Israel-1, is expected to deliver performance of up to eight exaflops of AI computing that will essentially make it one of the world"
+    publishedDateTime: 2023-05-30T10:41:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/articleshow/100621717.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/amp_articleshow/100621717.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/amp_articleshow/100621717.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://static.toiimg.com/photo/msid-100621670/100621670.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "NVIDIA: GH200 Grace Hopper Superchips For Accelerated Generative AI Now In Full Production"
     excerpt: "NVIDIA (NVDA) announced its GH200 Grace Hopper Superchip is in full production, and systems with these Superchips are expected to be"
     publishedDateTime: 2023-05-29T07:22:00Z
@@ -102,34 +74,57 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
-  - title: "Nvidia debuts new AI supercomputers and services after shares skyrocket"
-    excerpt: "Nvidia debuted a host of new AI technologies on Monday, as the chip giant's stock price skyrocketed on a positive second quarter outlook."
-    publishedDateTime: 2023-05-30T01:50:00Z
-    webUrl: "https://www.aol.com/finance/nvidia-debuts-more-ai-supercomputers-141021021.html"
+  - title: "Nvidia reveals ridiculous supercomputer built to create next-gen AI"
+    excerpt: "Nvidia has revealed its next-generation supercomputer, the DGX GH200, which is built to handle the development of gigantic next-generation AI models."
+    publishedDateTime: 2023-05-29T09:31:00Z
+    webUrl: "https://www.dexerto.com/tech/nvidia-reveals-ridiculous-supercomputer-built-to-create-next-gen-ai-2159061/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
+      name: Dexerto.com
+      domain: dexerto.com
     quality: 41
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/LkawQJbtVRxsIUQp.gC4OA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/01c8b6ee2eab434aa7e28e0d4477950b"
-        width: 1200
-        height: 800
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/29/Nvidia-Supercomputer.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "NVIDIA Grace Hopper enters full production, with insane AI supercomputer coming"
-    excerpt: "Grace Hopper Superchips are on track for late 2023 and the new NVIDIA DGX GH200 AI Supercomputer connects 256 of them in a 1-Exaflop beast."
-    publishedDateTime: 2023-05-29T10:22:00Z
-    webUrl: "https://www.tweaktown.com/news/91635/nvidia-grace-hopper-enters-full-production-with-insane-ai-supercomputer-coming/index.html"
+  - title: "Nvidia to build Israel's most potent AI supercomputer"
+    excerpt: "Nvidia is investing hundreds of millions in building Israel's strongest AI supercomputer, Israel-1, promising breakthroughs in AI applications."
+    publishedDateTime: 2023-05-29T17:36:00Z
+    webUrl: "https://interestingengineering.com/innovation/nvidia-to-build-israels-most-potent-ai-supercomputer"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 35
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
     images:
-      - url: "https://static.tweaktown.com/news/9/1/91635_01_nvidia-grace-hopper-enters-full-production-with-insane-ai-supercomputer-coming_full.jpg"
-        width: 1500
-        height: 843
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/29/image/jpeg/jEpzwifYF4BB69ZwTB9uBNJSgOcgWayWXzWHUEZr.jpg"
+        width: 1920
+        height: 1080
         isCached: true
+  - title: "Nvidia’s GH200 AI supercomputers could build ‘giant’ AI models more powerful than GPT-4"
+    excerpt: "Nvidia have just revealed their DGX GH200 AI supercomputer, far surpassing the competition, and potentially leading to the development of GPT-5."
+    publishedDateTime: 2023-05-30T10:25:00Z
+    webUrl: "https://www.videogamer.com/news/nvidia-gh200-giant-ai-models/"
+    type: article
+    provider:
+      name: VideoGamer.com
+      domain: videogamer.com
+    quality: 33
+    images:
+      - url: "https://www.videogamer.com/wp-content/uploads/nvidia-grace-hopper-superchip-min.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "GIGABYTE's AI Servers with Superchips Shine at COMPUTEX, Redefining a New Era of Computing"
+    excerpt: "Win Big with AI through GIGABYTE's Pioneering GPU/HPC Servers. GIGABYTE and its subsidiary, Giga Computing, are introducing unparalleled AI/HPC server lineups, leading the era of"
+    publishedDateTime: 2023-05-29T10:43:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/05/29/9822184.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
 
 secured: "4mWu/j+wCUAETpz/kT+1KsKadqlE/fKHcDkfGxB5jViL31v3lRqKKlt4lcJ7bP2SAFVbyZbugXAYHL8VS4Zc3OueVLZE0UI1yaN3Nuz595jPfcUAwcl8Fpx7NhYw3OUq33gvT5FglmchzNUO7kA9lMK040YvdmVWlauRBrHnTTqXC0kj54CVe4JYXJKUMnLKTTFAw8LMftstzBe4Op0lx1ViRYeIqAV7g39MVFyOCLgzk8duKqoTYZqHwM1SNhMwqlv7DmWvUVe9QBylLc2P/6PuzE1K2jm+BlsdIA9yN1c8bfdjJaju1TkM3S9AIyqeMOWXDk1qrJXDUDiiPknEQI2/avmJrM7Ir5iqLNvc5wg=;9LLTgE7JUPibZKSWgkJalg=="
 ---

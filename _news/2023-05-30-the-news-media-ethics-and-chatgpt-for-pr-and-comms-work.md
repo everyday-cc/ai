@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/the-news-media-ethics-and-chatgpt-for-pr-and-comms-work/amp/"
 type: article
 quality: 89
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -186,20 +186,6 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/xDPXbHH__.11PlmHjydkZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/5b1ae28d022f8e6817c0cc692dfdd0b9"
         width: 1200
         height: 675
-        isCached: true
-  - title: "See why AI like ChatGPT has gotten so good, so fast"
-    excerpt: "The results illustrate how quickly the technology has advanced. May 24 at 7:45 p.m. Artificial intelligence has become shockingly capable in the past year. The latest chatbots can conduct fluid ..."
-    publishedDateTime: 2023-05-29T05:40:00Z
-    webUrl: "https://www.washingtonpost.com/business/interactive/2023/artificial-intelligence-tech-rapid-advances/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WGDPFE62DZF4BJ2WYNVFTCRMCA.jpg&w=1200"
-        width: 1200
-        height: 623
         isCached: true
   - title: "This ChatGPT-inspired large language model speaks fluent finance"
     excerpt: "Mark Dredze, associate professor of computer science, discusses BloombergGPT, the first large language model built specifically for the finance industry"

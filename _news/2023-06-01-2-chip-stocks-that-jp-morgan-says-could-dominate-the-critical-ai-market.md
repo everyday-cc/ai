@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/broadcom-marvell-technology-chi
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/broadcom-marvell-technology-chip-stock-ai-66c05d9b"
 type: article
 quality: 73
-heat: 76
+heat: 73
 published: true
 
 provider:

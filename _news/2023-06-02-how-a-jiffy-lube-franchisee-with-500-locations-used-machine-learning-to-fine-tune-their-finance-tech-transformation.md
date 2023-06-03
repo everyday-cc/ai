@@ -167,20 +167,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Pioneering the Future of Oncology: AI and Deep Learning in Lung Cancer Detection and Prognosis"
-    excerpt: "In the dynamic realm of radiology, the advent of artificial intelligence (AI) has ushered in a transformative era. Over 300 AI-powered tools have been greenlit by the FDA, marking a significant stride in the field."
-    publishedDateTime: 2023-05-29T06:16:00Z
-    webUrl: "https://techbullion.com/pioneering-the-future-of-oncology-ai-and-deep-learning-in-lung-cancer-detection-and-prognosis/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 42
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/05/rfsetwet.jpg"
-        width: 560
-        height: 424
-        isCached: true
   - title: "Notion Projects Aims To Revolutionize Workplace Collaboration, With The Help Of AI"
     excerpt: "Notion hopes that AI can help cut down on the fragmentation within this space with its new product, Notion Projects"
     publishedDateTime: 2023-05-31T13:00:00Z
@@ -190,20 +176,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 41
-  - title: "Orca AI: Speeding up the evolution of shipping’s digitalisation journey"
-    excerpt: "Artificial Intelligence (AI) is what is powering the new solutions coming to market and what fuels the coming generation of navigation tools that help tackle the challenges the industry is facing – but the real challenge with AI is in “changing mindsets and behaviours”."
-    publishedDateTime: 2023-05-29T06:21:00Z
-    webUrl: "https://splash247.com/orca-ai-speeding-up-the-evolution-of-shippings-digitalisation-journey/"
-    type: article
-    provider:
-      name: Splash 247
-      domain: splash247.com
-    quality: 37
-    images:
-      - url: "https://splash247.com/wp-content/uploads/2023/05/Orca-AI-Yarden-Gross.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "XtalPi Announces Collaboration with Lilly, Using AI + Robotics to Uncover First-in-class Therapeutics"
     excerpt: "XtalPi has established itself as an industry leader in combining mutually informative AI \"dry lab\" algorithms with large-scale \"wet lab\" robotics to empower pharmaceutical innovation. Building upon existing success,"
     publishedDateTime: 2023-05-30T12:13:00Z

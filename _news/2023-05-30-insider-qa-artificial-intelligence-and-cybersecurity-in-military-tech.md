@@ -62,22 +62,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "Michael Saylor on how Bitcoin and artificial intelligence together can combat cybersecurity"
-    excerpt: "In a recent interview with Kitco News, Michael Saylor, executive chairman, MicroStrategy, mentioned that Bitcoin might help in cybersecurity if collaborated with artificial intelligence, such as deepfake, stated Cointelegraph."
-    publishedDateTime: 2023-05-29T05:39:00Z
-    webUrl: "https://www.financialexpress.com/business/blockchain-michael-saylor-on-how-bitcoin-and-artificial-intelligence-together-can-combat-cybersecurity-3105526/"
-    ampWebUrl: "https://www.financialexpress.com/business/blockchain-michael-saylor-on-how-bitcoin-and-artificial-intelligence-together-can-combat-cybersecurity-3105526/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-michael-saylor-on-how-bitcoin-and-artificial-intelligence-together-can-combat-cybersecurity-3105526/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 49
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/Image-credit-Freepik172.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "CrowdStrike to Accelerate Development of AI in Cybersecurity with AWS"
     excerpt: "CrowdStrike is leveraging new generative AI capabilities of Amazon Bedrock, a fully managed service that makes foundation models (FMs) from leading AI startups and Amazon available via an API, to help customers adopt advanced Falcon Platform search,"
     publishedDateTime: 2023-05-31T13:36:00Z

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-03-california-lawmakers-question-dmv-regulation-of-driverless-trucks.md",
+      "title": "California Lawmakers Question DMV Regulation of Driverless Trucks",
+      "excerpt": "State lawmakers argue that the state Department of Motor Vehicles has so badly mishandled the driverless car industry that it can't be trusted to oversee big rigs barreling down the highways autonomously.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/fs/california-lawmakers-question-dmv-regulation-of-driverless-trucks",
+      "originalUrl": "https://www.govtech.com/fs/california-lawmakers-question-dmv-regulation-of-driverless-trucks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/5038a0a/2147483647/strip/true/crop/2123x1107+0+203/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F08%2Fd0%2Fa701469f4082a8e002171d503954%2Fbiz-auto-driverless-calif-assembly-dmt.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/fs/california-lawmakers-question-dmv-regulation-of-driverless-trucks?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/california-lawmakers-question-dmv-regulation-of-driverless-trucks?_amp=true",
+      "publishedDateTime": "2023-06-02T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-baidus-145m-ai-fund-signals-chinas-push-for-ai-self-reliance.md",
       "title": "Baidu’s $145M AI fund signals China’s push for AI self-reliance",
       "excerpt": "China, in order to reduce dependence on the U.S. technological foundation, has been pursuing its own large language models that match OpenAI's GPT models.",
@@ -1307,58 +1350,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup.md",
-      "title": "Tech Up as Sector Seen Less Vulnerable to Default Fallout -- Tech Roundup",
-      "excerpt": "Chinese search engine Baidu posted a sharp increase in first-quarter revenue. A former Apple engineer was charged with trying to steal the company's self-driving-car technology. Write to Rob Curran at rob.curran@dowjones.com Back to Top",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup-2410f456",
-      "originalUrl": "https://www.marketwatch.com/story/tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup-2410f456",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup-2410f456",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-up-as-sector-seen-less-vulnerable-to-default-fallout-tech-roundup-2410f456",
-      "publishedDateTime": "2023-05-16T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

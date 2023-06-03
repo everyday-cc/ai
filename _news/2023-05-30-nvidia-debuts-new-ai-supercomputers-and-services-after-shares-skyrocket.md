@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia unveils new kind of Ethernet for AI, Grace Hopper 'Superchip' in full production"
-    excerpt: "The Spectrum-X ethernet switch offers \"lossless\" transmission via a new kind of congestion control, said Nvidia."
-    publishedDateTime: 2023-05-29T05:23:00Z
-    webUrl: "https://www.zdnet.com/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/"
+  - title: "Nvidia Dominates AI Silicon, But That Doesn’t Justify A $1 Trillion Valuation"
+    excerpt: "Nvidia (NASDAQ: NVDA) stock surged by 24% in Thursday’s trading after the company posted a better-than-expected set of Q1 FY’24 results and provided Q2 revenue guidance that was well ahead of Street estimates."
+    publishedDateTime: 2023-05-30T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/"
+    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 96
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://www.zdnet.com/a/img/resize/e496c12a46e4533063ced7ab4bfdf6242b00c860/2023/05/29/05144ef8-05b7-455e-9cd7-72ff48b534c4/nvidia-ceo-jensen-huang-holds-up-spectrum-4-ethernet-switch.png?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647591d4304997e476bb5bd0/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
   - title: "World’s most valuable chip maker Nvidia unveils more AI products after US$184 billion rally"
     excerpt: "In a keynote speech at Computex Taiwan, Nvidia CEO Jensen Huang unveiled a new batch of AI products and services, looking to capitalise on a frenzy that has made his company the world’s most valuable chip maker."
@@ -56,59 +56,22 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nvidia’s new Grace Hopper superchip to fuel its DGX GH200 AI supercomputer"
-    excerpt: "The DGX GH200 AI supercomputer is targeted toward developing and supporting large language models. Google Cloud, Meta, and Microsoft already have access to it."
-    publishedDateTime: 2023-05-30T07:36:00Z
-    webUrl: "https://www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.html"
-    ampWebUrl: "https://www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.amp.html"
+  - title: "Red-hot stock: $1 trillion club now includes chip maker Nvidia"
+    excerpt: "Nvidia has joined the exclusive club of companies with a $1 trillion market capitalization as the chipmaker benefits from the growing use of artificial intelligence."
+    publishedDateTime: 2023-05-31T10:17:00Z
+    webUrl: "https://wraltechwire.com/2023/05/31/red-hot-stock-1-trillion-club-now-includes-chip-maker-nvidia/"
+    ampWebUrl: "https://wraltechwire.com/2023/05/31/red-hot-stock-1-trillion-club-now-includes-chip-maker-nvidia/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/31/red-hot-stock-1-trillion-club-now-includes-chip-maker-nvidia/?amp=1"
     type: article
     provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 72
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 59
     images:
-      - url: "https://images.idgesg.net/images/article/2023/05/nvidia-dgx-gh200-100941527-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
+      - url: "https://wraltechwire.com/wp-content/uploads/2021/03/processor-540254_1280-e1616494859780.jpg"
+        width: 1270
+        height: 713
         isCached: true
-  - title: "Nvidia unveils AI supercomputer that will put you out of a job much faster"
-    excerpt: "While AI systems amaze and alarm the world in equal measure, they’re about to get even more powerful. Nvidia has announced a new class of supercomputer that will train the next generation of AI models,"
-    publishedDateTime: 2023-05-30T04:42:00Z
-    webUrl: "https://newatlas.com/computers/nvidia-ai-supercomputer-dgx-gh200/"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 67
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/e16410b/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F24%2F2b%2F319f6a3e407aba43f1f0418ebfed%2Fnvidia-dgx.jpeg&na.image_optimisation=0"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "NVIDIA announces new class of supercomputer and other AI-focused data center services"
-    excerpt: "The NVIDIA DGX supercomputer could be the top of its class. Learn what this may mean for enterprise AI and high-performance computing."
-    publishedDateTime: 2023-06-01T04:07:00Z
-    webUrl: "https://www.techrepublic.com/article/nvidia-dgx-ai-supercomputer-computex-announcements/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 62
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2022/09/nvidia-omniverse-cloud.jpeg"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "NVIDIA: GH200 Grace Hopper Superchips For Accelerated Generative AI Now In Full Production"
-    excerpt: "NVIDIA (NVDA) announced its GH200 Grace Hopper Superchip is in full production, and systems with these Superchips are expected to be"
-    publishedDateTime: 2023-05-29T07:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-gh200-grace-hopper-superchips-for-accelerated-generative-ai-now-in-full-production-1032356200"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
   - title: "NVIDIA Grace Hopper enters full production, with insane AI supercomputer coming"
     excerpt: "Grace Hopper Superchips are on track for late 2023 and the new NVIDIA DGX GH200 AI Supercomputer connects 256 of them in a 1-Exaflop beast."
     publishedDateTime: 2023-05-29T10:22:00Z
@@ -123,15 +86,6 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "NVIDIA Unveils Powerful NVIDIA DGX GH200 AI Supercomputer for Next-Gen AI Applications"
-    excerpt: "NVIDIA has unveiled a groundbreaking AI supercomputer, the NVIDIA DGX GH200. Powered by the innovative NVIDIA GH200 Grace Hopper Superchips and the NVIDIA NVLink Switch"
-    publishedDateTime: 2023-05-29T07:21:00Z
-    webUrl: "https://www.guru3d.com/news-story/nvidia-unveils-powerful-nvidia-dgx-gh200-ai-supercomputer-for-next-gen-ai-applications.html"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 11
 
 secured: "6B83FiGi/gcbsu4l+gHpw0jmVg/BefSc8psH1vMK16DyHoo+kyyPaPH9Rq2yi1E5Vm8lk80h3iHXUWPhDw6AxXyi0yEMlVogpU7fWd2kK920u4UWc2RuxD2tD+idzHLfghA30k1wRvQwAcX39PYXqHyMwsxBATxZDzB4KoSleCYxVQEHTD5jrGdb1uAB/Q10b6Xuw+kTqtuNTkHOXTta6QNbQt2MDkraRr2DrQNv7unr74smvx8joc2wBPqJxE3PkUyUZJYsaifmSr0l9hRH+77SRj2H5D/I6WAZdN1+2ODsivX5Q+iHYmirRi3McHE1D/UZbhatsgvL6ftMgd1RCFKiV5GH7Eu/RBe+PiBo8pARyMK4DNJ6eNkHB9wMZJQtxHCSyvaIgwck6AAW971A9/jzzYmKPy26mSwZUO8w0GLA8BGZdsBpwB8UY3oz9XUeh5gN+E6cx91uj6ctDCsHMvjkteFGllPoZxh6ceIe0h1fa0YDTeGQrh8nqAo9JdRfDrytM/fBWHHM/vLHCIS3RQ==;gEURxcJihR5OhAnkftdK0A=="
 ---

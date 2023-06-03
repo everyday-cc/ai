@@ -7,7 +7,7 @@ originalUrl: "https://www.kbc.co.ke/ibm-launches-watsonx-to-power-next-generatio
 webUrl: "https://www.kbc.co.ke/ibm-launches-watsonx-to-power-next-generation-ai-foundation-models-for-businesses/"
 type: article
 quality: 51
-heat: 81
+heat: 82
 published: true
 
 provider:

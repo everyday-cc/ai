@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nvidia unveils AI supercomputer that will put you out of a job much faster"
+    excerpt: "While AI systems amaze and alarm the world in equal measure, they’re about to get even more powerful. Nvidia has announced a new class of supercomputer that will train the next generation of AI models,"
+    publishedDateTime: 2023-05-30T04:42:00Z
+    webUrl: "https://newatlas.com/computers/nvidia-ai-supercomputer-dgx-gh200/"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 67
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/e16410b/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F24%2F2b%2F319f6a3e407aba43f1f0418ebfed%2Fnvidia-dgx.jpeg&na.image_optimisation=0"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Why Nvidia, C3.ai, and Qualcomm Stocks Keep Going Up"
     excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services."
     publishedDateTime: 2023-05-30T15:53:00Z
@@ -157,20 +171,6 @@ related:
       - url: "https://editors.dexerto.com/wp-content/uploads/2023/05/29/ai-nvidia-gen.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "The ASX stocks that could ride the AI boom like Nvidia"
-    excerpt: "AI has lit a fire underneath tech stocks, but investors are split over whether the innovation will transform business models or end up a fad like blockchain or 3D printing."
-    publishedDateTime: 2023-05-29T06:12:00Z
-    webUrl: "https://www.afr.com/technology/the-asx-stocks-that-could-ride-the-ai-boom-like-nvidia-20230528-p5dbwd"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: "https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_377%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/46be6cceef56a10fe8b9ee36c006c5f59be895d3"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Nvidia is not the only firm cashing in on the AI gold rush"
     excerpt: "A GREY RECTANGULAR building on the outskirts of San Jose houses rows upon rows of blinking machines. Tangles of colourful wires connect high-end servers, networking gear and data-storage systems. Bulky air-conditioning units whirr overhead. The noise forces visitors to shout."

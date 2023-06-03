@@ -2,6 +2,39 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-05-24-ai-startup-anthropic-raises-450m-for-safety-focused-chatbot.md",
+      "title": "AI startup Anthropic raises $450M for safety-focused chatbot",
+      "excerpt": "Anthropic, an artificial intelligence startup positioning itself as the builder of a safer kind of chatbot, said it raised $450 million in funding to bolster the development of its AI bot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/",
+      "originalUrl": "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1",
+      "publishedDateTime": "2023-05-23T22:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-red-hat-extends-openshift-for-the-generative-ai-era.md",
       "title": "Red Hat extends OpenShift for the generative AI era",
       "excerpt": "IBM's Red Hat business unit announces the expansion of its AI capabilities with the new Red Hat OpenShift AI technology.",
@@ -1149,40 +1182,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-ai-first-fintech-platform-line-expands-to-capture-10-trillion-in-annual-spending-power-at-the-bottom-of-the-pyramid-news-journalcom.md",
-      "title": "AI-First FinTech Platform Line expands to capture $10 Trillion in Annual Spending Power at the Bottom of the Pyramid | | news-journal.com",
-      "excerpt": "To learn more about Line, please visit https://useline.com. About Line Financial Line is a profitable AI-First fintech platform that accurately risk ranks the bottom 80% of the US working ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/ai-first-fintech-platform-line-expands-to-capture-10-trillion-in-annual-spending-power-at/article_b3cc3bc1-78fd-565d-bf2f-7b5410f0ece9.html",
-      "originalUrl": "https://www.news-journal.com/ai-first-fintech-platform-line-expands-to-capture-10-trillion-in-annual-spending-power-at/article_b3cc3bc1-78fd-565d-bf2f-7b5410f0ece9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }
