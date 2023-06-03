@@ -175,15 +175,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
-  - title: "Lawyers Getting Tripped Up By Generative AI Such As ChatGPT But Who Really Is To Blame, Asks AI Ethics And AI Law"
-    excerpt: "A recent legal case has seemingly gotten entangled in the use of generative AI by lawyers for one side that have landed in hot water. Lessons for everyone arise."
-    publishedDateTime: 2023-05-29T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/05/29/lawyers-getting-tripped-up-by-generative-ai-such-as-chatgpt-but-who-really-is-to-blame-asks-ai-ethics-and-ai-law/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 43
   - title: "This ChatGPT-inspired large language model speaks fluent finance"
     excerpt: "Mark Dredze, associate professor of computer science, discusses BloombergGPT, the first large language model built specifically for the finance industry"
     publishedDateTime: 2023-05-31T18:44:00Z

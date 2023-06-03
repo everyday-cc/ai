@@ -25,40 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Emerging Markets Report: The Art of Artificial Intelligence"
-    excerpt: "An Emerging Markets Sponsored Commentary ORLANDO, Fla., May 29, 2023 (GLOBE NEWSWIRE) -- It will come as no surprise to even the most passive investor that the market is currently in a full-throated i"
-    publishedDateTime: 2023-05-29T11:07:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/g32613230/emerging-markets-report-the-art-of-artificial-intelligence"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32613230"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32613230"
+  - title: "AI eliminated nearly 4,000 jobs in May, report says"
+    excerpt: "In March, investment bank Goldman Sachs predicted in a report that AI could eventually replace 300 million full-time jobs globally and affect nearly one-fifth of employment — with a particular hit to white-collar jobs often considered automation-proof, such as administrative and legal professions."
+    publishedDateTime: 2023-06-02T21:59:00Z
+    webUrl: "https://www.cbsnews.com/news/ai-job-losses-artificial-intelligence-challenger-report/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/ai-job-losses-artificial-intelligence-challenger-report/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-job-losses-artificial-intelligence-challenger-report/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
+      name: CBS News
+      domain: cbsnews.com
+    quality: 57
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/05/29/4618c34c-20ce-4142-be45-c2160e658017/thumbnail/1200x630/d269443092b6e683ccde089fadcaebef/gettyimages-1475791515.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Military Market worth $38.8 billion by 2028 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "The Artificial Intelligence (AI) in Military Market is estimated to be USD 9.2 billion in 2023 and is projected to reach USD 38.8 billion by 2028, at a CAGR of 33.3% during the forecast period according to a new report by MarketsandMarkets™."
-    publishedDateTime: 2023-05-29T11:42:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/29/9822189.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
-  - title: "Composite AI Market worth $4.4 billion by 2028 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "The Composite AI Market is estimated to grow from USD 0.9 billion in 2023 to USD 4.4 billion by 2028, at a CAGR of 36.5% during the forecast period, according to a new report by MarketsandMarkets™. The growing availability of data,"
-    publishedDateTime: 2023-05-31T15:10:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/31/9823872.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 11
 
 secured: "DwN74TLAzR2eTaTwWdf7X5ZuDyoepAcAgS3gDic4eBXLFUatJ+Il34X1OvM07729/+VnUhjP/L3TgFDXycsYQvEo56gpI7EmjHLGXOUOOdOSPOLELzkWPYF82sxG+frFlsJCfuQiQtjSFE2IW49NQE9+NM6tNsSqfHkX7KokSe2kNbKwkmLwrq5ExjUy4eRK7o1lMVJ3WySJD14ZPsyY9DN3q6dY6pFnx0ZKaBuGYdbIU2VGBNBzHMlvS+qtiED5xPbDdq5zShzExBzDuR+b6QJnFsnkRX+neOKjJjbLQycH5v3ZlRw0FsR//auU1KggEVJI6NHhYU75QgFW01P8UiCW+m1rb6a+7HEMm7Tx4Eg=;K/mi0aQRoX3PgppwU1WXpQ=="
 ---

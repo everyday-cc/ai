@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/paycor-strengthens
 webUrl: "https://markets.businessinsider.com/news/stocks/paycor-strengthens-talent-platform-with-ai-generated-job-description-feature-powered-by-microsoft-azure-openai-service-1032364080"
 type: article
 quality: 75
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -89,15 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Battle Heats Up: Microsoft to Take on Apple Head-on"
-    excerpt: "With Microsoft's new partnerships, the pillars of the PC ecosystem have teamed up to challenge Apple’s dominance in the AI ecosystem."
-    publishedDateTime: 2023-05-29T12:03:00Z
-    webUrl: "https://analyticsindiamag.com/ai-battle-heats-up-microsoft-to-take-on-apple-head-on/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 36
 
 secured: "imBsZTgTQRN2WlKaAFZgxi7tsG+WVd3hfto2bPlfDk+/AuaxVFVBEomRRzI3ugAXz4A8D/ohUWVe9dR1WoECzVePyWKVXeIY6sd/4kOcPrzKmzqr4oiSYGIMWKGDy8Sq9RRJJoONPiT9RJe0M9cSDSMFPYFGjhoEwxwg7G4oyxOYUI3IRKpHtnVC0aVUCMhNVOrIjYxpRv4cumxMaDeKRFwRRONWz02o7/FZI7oIf7LngWMyyZMHENjv9sYjURQW0dG/WviQsbkCrIA0d+65FchlzmawaXCW5MpeiUBKg/qx3ZFD7G3AWcF+2Hrera0Je52JKIrVDyXP+UlBLZLXLu1iIJtajNBqFbT4YhcJjbASLue93qcqWVgLSA4OkIvfS/7xqAD2VXq4rv/jp/IeLqXmExjsVKLv+hDrtcD+3iqiEotaQYMOQ1qZ5W7tBzAW+kfz4IjUi5uJhUKppHTPWge9/qWjledTO6KeyusSTLwRccAAtI66SEsR1Xd99q4Nj3hNGPQnB1rceQ1p83k7Pg==;hYdMMWSHUDn1q3Dr2ugMSQ=="
 ---

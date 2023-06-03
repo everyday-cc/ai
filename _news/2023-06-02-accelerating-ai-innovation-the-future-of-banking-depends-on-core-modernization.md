@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/accelerating-ai-innovation-the-future-of-
 webUrl: "https://www.ibm.com/blog/accelerating-ai-innovation-the-future-of-banking-depends-on-core-modernization/"
 type: article
 quality: 114
-heat: 264
+heat: 254
 published: true
 
 provider:
@@ -221,15 +221,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Artificial intelligence innovation: Leading companies in speed profile estimation for the automotive industry"
-    excerpt: "According to GlobalData’s Technology Foresights, which plots the S-curve for the automotive industry using innovation intensity models built on over 619,000 patents, there are 290+ innovation areas that will shape the future of the industry."
-    publishedDateTime: 2023-05-29T12:24:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-speed-profile-estimation-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 0
 
 secured: "LAWrHK4IMve0/ezrChIUh3HMTGBk3QGJd37XGUKaF4l0gYxHagCDklVeoE/Ytv4LSXgcnsnSWanL+i8DejrYqQ4vgty8sJhyjewyFkl9fSeEc64zknXRfXjNEYqASWuye68qKRbcauyIT724hiiKFlkxiXwSD/zasrc/lTxjOhTIWxQeQir09IBOGLOOPPkX8HGF/NXL+xn9pZU5pfuNAJOvyXgrzKLJjAhdpKoof7NjFL+hyxOrckg/uLByoSxd6zLrQVVxEPpNj9Vw5lbysQbf6JQq1bn1QZdbrmqaC9BW+0UAi8W02cLErFTGH2e4u8QWFEX/yR6RGtori9d2oipA2XyYqxc2wIELSdRLUSg=;SuYle5+2ehd5HfI8FuaWrA=="
 ---

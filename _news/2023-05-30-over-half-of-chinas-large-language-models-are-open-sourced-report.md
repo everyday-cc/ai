@@ -7,7 +7,7 @@ originalUrl: "https://www.macaubusiness.com/over-half-of-chinas-large-language-m
 webUrl: "https://www.macaubusiness.com/over-half-of-chinas-large-language-models-are-open-sourced-report/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 800
     height: 480
     isCached: true
-
-related:
-  - title: "Over half of China's large language models are open sourced: report"
-    excerpt: "China has 14 provincial-level regions that are currently working on the development of large language models LLMs among which mor"
-    publishedDateTime: 2023-05-29T11:31:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273846806/over-half-of-chinas-large-language-models-are-open-sourced-report"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "mI26lQaDNDcfaicf7azarE+zsQ7q6eSIguuX3Xz1kZiAKcgZDVIqWA/8vV4zBFLi96M3XNXaZlZOSb7iBtLX/cvfTvRRAc8svCWFmwvrSuqkk+BP0v67/OjzslxtuZSr+wPb1Q4qZLxPMQ3z7v7xtMYeyJUH2oUvkBMaueOK9rnk5YHLP/N5Az8C1ujInEmkiTBcspsncgh+jC1J6f1vwHwpj6aHOv1rStzyFk+vE0xpLGyVxd/o3jowkszoyOb/SBBfPRb/FaOL2ryrf0e4ekcU4BPxwTyxNTmt+yu6liHA2cGiHR8vQb7nax4h18CZBj6Yjj6nA4/L4NEwAOK/Azm4/IaMxbJd0N6RXVEHFTA=;yM8h4skzUzhxcm3PByyRhA=="
 ---

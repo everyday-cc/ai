@@ -85,15 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Battle Heats Up: Microsoft to Take on Apple Head-on"
-    excerpt: "With Microsoft's new partnerships, the pillars of the PC ecosystem have teamed up to challenge Apple’s dominance in the AI ecosystem."
-    publishedDateTime: 2023-05-29T12:03:00Z
-    webUrl: "https://analyticsindiamag.com/ai-battle-heats-up-microsoft-to-take-on-apple-head-on/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 36
 
 secured: "eQmKj0+R3iE95pTgsc9Lp/8slBJyChFlo/LUECLnR8/3MGCNd3KR6IIFv5UB4kBma27axjkayLBofY/DjB/128IY3Gfer+yAAUHAGKu9RnxJ767Iol+fcspy7m25NLvQGZPfAW8XSxT2uzUBdzjt+gSG072ZmwcwS0IaBYkaW1CVvej3SCK3S/cXlX910tGWOoxkk+4h+cYNx84jSfV2pvKGPCDN3zgpkLmT0wLt1TIKRC2pbehyUGHHo+504ZBBXPnIpKvG/D5oE04mAMjY8b4k5tihE9rFE9YEerTev/mIc5rbdyR7eIDwu3G5AfQBjVkfExyAInFQJNNagGFO2KH7+aVc8LHzbldWtO+E1DY=;3g/utZrPQbN3amR1/NhoPw=="
 ---

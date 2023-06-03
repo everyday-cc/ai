@@ -217,15 +217,6 @@ related:
       name: International Banker
       domain: internationalbanker.com
     quality: 21
-  - title: "Artificial intelligence innovation: Leading companies in speed profile estimation for the automotive industry"
-    excerpt: "According to GlobalData’s Technology Foresights, which plots the S-curve for the automotive industry using innovation intensity models built on over 619,000 patents, there are 290+ innovation areas that will shape the future of the industry."
-    publishedDateTime: 2023-05-29T12:24:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-speed-profile-estimation-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 0
 
 secured: "gWAqGnNDMsS/S8D8PcabgPvVDiccmRvYNom5qE3QUbn8U+BZMk30Zo9jJbSXMP5ZmDWCtbRwYxfoxJEOVKUW+NV8ZZXNdGZSSiSOEyUW6CumU0D2Uett3OOCGUxYyn0GoCwrEvU9A8WrQHQ1E5X+FkLMOx5EqujkI1dTKv9DmF//f8+7zd2epmHEBOKsIUa15UvnRgnIf5Ftfvaqb15iYWWqNXWDd+ikVTWLXuS3Rp7RIxfpJlzU3pZC4jm+q5+quutPOdqB14HRGcbdDKVY+kjmiN9+t0+0Rzn79jDYCjlhdVfLAfa59vqvYzZdUGdCYU/PqDLfxILw1UGdwXVgI5yeMg38X5s9MmpLKXLxEqBtWp98r0j9Ofj7y4cVX8SlVwt5n/Tuw2qIp3tDuYcVP+PHHXiZD53FDQFeR29Zayqe8inXeG/P0S4jjCtSXK8iMT6mtA7d53Lp2M4B87eW5nXG/J0fc9imwQYw44qbyrVHfkX6jFg4h1S8vSzNUk76nLFcUy4/CzWjy/Q2DKIWjQ==;e+9rvX2cS+MbZJf1wUpq7A=="
 ---

@@ -34,15 +34,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
-  - title: "NVIDIA ACE Injects Generative AI Into Game NPCs Enabling Hyper-Realistic Conversations"
-    excerpt: "NVIDIA is showing off an AI model foundry service that leverages AI-powered natural language interactions to make NPCs feel more intelligent."
-    publishedDateTime: 2023-05-29T12:56:00Z
-    webUrl: "https://hothardware.com/news/nvidia-ace-generative-ai-game-npcs-realistic-conversations"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 9
 
 secured: "FnAEQo7r3JdAzXX7floveiBKZ0CwHVw98N6XiQYEFm10JRO0L9IVUdvAEJCMRwQcB1FfLJi5XRlnl/FkvtL/AMSVoA4ShWfLgBck6pKFE+t+XjdYq7IFcwFeYKma05hzUXQ+nhiuo5cCZHwFayI5JMIipw71Q924abpW+P3JNneEgl+ekdCog0H4paQ7tmhfMmie0dJulwkIy4XwbWNYx2gSqTsRCYfMeC7RPzAc1zca4A+7HGQII0pqgHJZXcPybl7l+/tYgt9vopmndotduaZqOA96orxsJTwE9IQaIlcZMuEJ4jREmQHzwqxvi6y9uLXue9c+fKV/CdwRIlveggGKVBUgvBVVlfnvzJQPgNQ=;NfhfstpuOdRBFCmdFsGolA=="
 ---

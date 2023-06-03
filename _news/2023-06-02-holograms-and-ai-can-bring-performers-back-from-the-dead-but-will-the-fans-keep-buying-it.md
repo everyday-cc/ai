@@ -24,6 +24,22 @@ images:
     height: 668
     isCached: true
 
+related:
+  - title: "Holograms and AI can bring performers back from the dead – but will the fans keep buying it?"
+    excerpt: "Fans can mourn the passing of music legends for years, the hits echoing long after the original voice is silenced. Little wonder, then, that recent advances in holographic technology and artificial intelligence have"
+    publishedDateTime: 2023-06-03T03:25:00Z
+    webUrl: "https://www.econotimes.com/Holograms-and-AI-can-bring-performers-back-from-the-dead--but-will-the-fans-keep-buying-it-1657196"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 28
+    images:
+      - url: "https://www.econotimes.com/assets/images/econotimes/metaDefault2.png"
+        width: 400
+        height: 330
+        isCached: true
+
 secured: "29YVXOutcGpStEG+naFpQXpjo5q/aJUF0/Rn0+rIX4PdSokfEKVLfl25RtBT278Kx9/I6ML0YyW0eFoeI6CVps08tTa7jh+kIyKnMjK6ZVJ7sjUCzkpj2ARgRfuKjw/0YcXmeUuWEVmcly5XdwdYkgL5iWBIcpq8LWUSS5XxdX0HoxMauxDunGRLlaRJvgYbtgEZ2T3f+Od7Q7GV5D8dFddItvzYHot7MVpzJG+bAIJ0NnQuWBw3vyye+MTlQgLqPjoO4R8veT+lqQmS6VmscdFWoJ2w/hPcnZbUCrTJqdaQlckZjvIpVPMEYHsfO4erqAcRXrgW6pBsh0G0iZlv+Vso+nnhlUuMkE11OpkIyZlrYmBVaVptSnphHRMz8BX2IgaCmNFjqMZLB6YztuyGeg1EwjOm43c49dE1Yd0XTfdnW0ORtYetrV5z2U0Gmm9mp1T2hoS3yXSaVsKzvYzMkjCLDobaKNRXRryPlIWDYmGN0lMRjO3T7mPx3X5LDUzFiJlzToHO4suNXJOMtEefYQ==;CsFrH+7LiALNdIWyMxKpMQ=="
 ---
 

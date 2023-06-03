@@ -290,15 +290,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Nvidia's New AI Is Coming For Absolutely Every Gaming Job"
-    excerpt: "AI is coming to games, whether you like it or not. Last night’s Nvidia keynote showed just how powerful—and devastating—that’s going to be. The company’s CEO, Jensen Huang, showed off how its freshly announced “Omniverse Avatar Cloud Engine” (ACE) can create real-time interactive AI NPCs,"
-    publishedDateTime: 2023-05-29T12:30:00Z
-    webUrl: "https://kotaku.com/nvidia-ace-ai-rtx-4060-ti-gpu-graphics-gaming-jobs-1850484480"
-    type: article
-    provider:
-      name: Kotaku
-      domain: kotaku.com
-    quality: 19
   - title: "MediaTek, Nvidia partner for AI-based in-cabin solutions"
     excerpt: "The smart cabin automotive offerings will run Nvidia Drive OS, Drive IX, Cuda and TensorRT software technologies. MediaTek will use its Dimensity Auto platform with Nvidia’s advanced driver assistance systems (ADAS) solutions to deliver all-around smarter in-vehicle experiences,"
     publishedDateTime: 2023-06-01T13:05:00Z
@@ -327,6 +318,6 @@ related:
       domain: channelnewsasia.com
     quality: 17
 
-secured: "+IhC415M0q3IwcqodA+hnuPj76gHvRkLbYcr3nkxL6A4s2HJEzdqDfTbsFO7j1HPekPYvHd1QhMvr0/t2o8xrLr/9sMUK8AjkeVxIG4xvGlyFQbsEkWCKO+PzsINbu7TiBLP3xYnbX/oA355Wcu5M//zeI6wHGFrhgOWas+OFD7oiUHOzAb45bA5FAcco9QBrxjOzgPOe2rZIe5f1hZlQo98R3ES7VCUDv9pBxY+aWfGgtDSIj/6OK70oCZXwZFtiGaQeB0ch7A01StyhsmFGWpsIaFN1O7u/9xKwcCjHtM5neFvjcg7ZNT7n5JpgBwcAUtTzGJsnrsCQDibcgphmKQP3p3D9/GL1nFMlPz+kOY=;IGlNl/Ck7CQdezTM5NfQjg=="
+secured: "0aW5xirBSLQ+u2G0R1gSQGaJmtn2SAhrntEtUwMHlsV38s89haet6qHhf6xCzCQx2zqFPEZu9YY30n13MW2EZB65rDk8TlfetQpfQmVyCCWWYSUYmRtelil138BiR8SZWt5njek/Y+RXd91Jhy+wbuBQ3SPuZPnqe17t3PVfgro+MUeNQyya0rhIm33wpRS/dotqd2dbaBU5aYtzqDS8J1YT3NfLnAF2VWHAj736JNKUUrE/KaFOnFelDxvSiLllpy47JkQhw27D41vK2HdRVygTAHkpzzo6TzjPmyB9yBkouzIrSjhsdJg6uItgeGqTGoe7eFV8CZGgv//KLpiefRHg1kxWm3QXDg743G98q0hAt8CQiIM84DM7dMAC303iMzBvAoMmEpfNJzUO3BM1OgXxCPYgPXWeOrxC+uFRZR9onWCsIYr7eX5x/HP7YPT0kA4A7Ii8vo/CbZror7+owWYKzJG2c+Bzif5ad0MCJ1Gvx7AkgDAMPl4zVVr9MNi9Ivpu/sSZO0TOz167tLdYwQ==;OLBJoDrMtqbyLaEo97EIIQ=="
 ---
 

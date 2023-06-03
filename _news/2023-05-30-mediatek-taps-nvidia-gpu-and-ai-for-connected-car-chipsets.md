@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/mediatek-taps-nvidia-gpu-and-ai-for-con
 webUrl: "https://venturebeat.com/ai/mediatek-taps-nvidia-gpu-and-ai-for-connected-car-chipsets/"
 type: article
 quality: 99
-heat: 339
+heat: 329
 published: true
 
 provider:
@@ -294,15 +294,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Nvidia's New AI Is Coming For Absolutely Every Gaming Job"
-    excerpt: "AI is coming to games, whether you like it or not. Last night’s Nvidia keynote showed just how powerful—and devastating—that’s going to be. The company’s CEO, Jensen Huang, showed off how its freshly announced “Omniverse Avatar Cloud Engine” (ACE) can create real-time interactive AI NPCs,"
-    publishedDateTime: 2023-05-29T12:30:00Z
-    webUrl: "https://kotaku.com/nvidia-ace-ai-rtx-4060-ti-gpu-graphics-gaming-jobs-1850484480"
-    type: article
-    provider:
-      name: Kotaku
-      domain: kotaku.com
-    quality: 19
   - title: "MediaTek, Nvidia partner for AI-based in-cabin solutions"
     excerpt: "The smart cabin automotive offerings will run Nvidia Drive OS, Drive IX, Cuda and TensorRT software technologies. MediaTek will use its Dimensity Auto platform with Nvidia’s advanced driver assistance systems (ADAS) solutions to deliver all-around smarter in-vehicle experiences,"
     publishedDateTime: 2023-06-01T13:05:00Z

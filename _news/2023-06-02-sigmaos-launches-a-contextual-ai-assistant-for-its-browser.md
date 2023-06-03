@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

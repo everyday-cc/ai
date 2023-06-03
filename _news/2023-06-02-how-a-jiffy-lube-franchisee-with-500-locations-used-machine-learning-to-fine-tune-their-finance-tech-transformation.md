@@ -222,15 +222,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Artificial intelligence innovation: Leading companies in speed profile estimation for the automotive industry"
-    excerpt: "According to GlobalData’s Technology Foresights, which plots the S-curve for the automotive industry using innovation intensity models built on over 619,000 patents, there are 290+ innovation areas that will shape the future of the industry."
-    publishedDateTime: 2023-05-29T12:24:00Z
-    webUrl: "https://www.just-auto.com/data-insights/innovators-ai-speed-profile-estimation-automotive/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 0
 
 secured: "dsuy966MTxLVynvQTKC+frH/1yGdX+dvK8MSUrmXkk2WkdPustJa4DtS0oM42gbFQJN/+3nz0I+uaeV2rTpJxPkG7p2KRFTBjU3ZDRV+Lru7ptBwsLEavfIJtrn3TzXdyD6zPugezXKzotaPuKkie0ja+7URVEcDRSjFNcIHGBtKT4mJ6RV7X1SOK2jYmUS+XiWlWAudutcok8i5BHqcYQEcWvwK5w1lUlUTPB0E++Zh3HKi2R3zUubOHpxMvQ1BXIPf0wbYWx3AHIjPqcVLvGY14MttC+Om6s6SR2O2PishQKSxALmiC9R2PWkaaBP9bk+QJoQzt4a8c4K3PUOt/shAG1J2SLUz/jKlWQjGg0g=;ppYY3qv4m/wDZf4850LynQ=="
 ---

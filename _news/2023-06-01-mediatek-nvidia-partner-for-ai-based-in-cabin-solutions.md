@@ -298,15 +298,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Nvidia's New AI Is Coming For Absolutely Every Gaming Job"
-    excerpt: "AI is coming to games, whether you like it or not. Last night’s Nvidia keynote showed just how powerful—and devastating—that’s going to be. The company’s CEO, Jensen Huang, showed off how its freshly announced “Omniverse Avatar Cloud Engine” (ACE) can create real-time interactive AI NPCs,"
-    publishedDateTime: 2023-05-29T12:30:00Z
-    webUrl: "https://kotaku.com/nvidia-ace-ai-rtx-4060-ti-gpu-graphics-gaming-jobs-1850484480"
-    type: article
-    provider:
-      name: Kotaku
-      domain: kotaku.com
-    quality: 19
   - title: "Nvidia, The World's Newest, AI-amped Tech Giant"
     excerpt: "Nvidia, a chip technology company, became a trillion dollar enterprise this week and the world’s newest tech giant. Here are a few key facts about the little-known firm."
     publishedDateTime: 2023-05-31T17:18:00Z
