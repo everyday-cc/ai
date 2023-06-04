@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-05-23-qualcomm-revs-up-ai-capabilities-for-snapdragon-laptops-and-tablets.md",
+      "title": "Qualcomm Revs Up AI Capabilities for Snapdragon Laptops and Tablets",
+      "excerpt": "Qualcomm jumps on the AI train at Microsoft Build 2023, bringing AI access directly to devices running on its latest Snapdragon chip for Windows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/qualcomm-revs-up-ai-capabilities-for-snapdragon-laptops-and-tablets",
+      "originalUrl": "https://www.pcmag.com/news/qualcomm-revs-up-ai-capabilities-for-snapdragon-laptops-and-tablets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00zcg433I72hEGoITIdYLvP-1.fit_lim.size_1200x630.v1684800238.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-23-these-generative-ai-tools-coming-to-adobe-photoshop-will-blow-your-mind.md",
       "title": "These generative AI tools coming to Adobe Photoshop will blow your mind",
       "excerpt": "From changing the scenery of images to adding new subjects via text, here's what you need to know about Adobe's new AI image generator tool and when it will be available.",
@@ -394,6 +446,40 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-is-alphabet-a-buy.md",
+      "title": "Is Alphabet a Buy?",
+      "excerpt": "Alphabet 's (NASDAQ: GOOGL) (NASDAQ: GOOG) big reliance on digital advertising can be a boon in robust economic times, but a headwind in weaker ones. The company's revenue was up",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/GOOGL-Q/pressreleases/17435804/is-alphabet-a-buy/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/GOOGL-Q/pressreleases/17435804/is-alphabet-a-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-23T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1143,83 +1229,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-aws-supports-hsuhk-to-establish-hong-kongs-first-cloud-innovation-school.md",
-      "title": "AWS Supports HSUHK to Establish Hong Kong’s First Cloud Innovation School",
-      "excerpt": "HONG KONG SAR - Media OutReach - 23 May 2023 - Amazon Web Services (AWS) today announced its support for The Hang Seng University of Hong Kong (HSUHK) to",
-      "sourceUrl": null,
-      "webUrl": "https://www.macaubusiness.com/aws-supports-hsuhk-to-establish-hong-kongs-first-cloud-innovation-school/",
-      "originalUrl": "https://www.macaubusiness.com/aws-supports-hsuhk-to-establish-hong-kongs-first-cloud-innovation-school/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/05/V6UQ7e.jpeg",
-          "width": 1210,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-22T18:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macau Business",
-        "domain": "macaubusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-cognitive-dissonance-what-to-know.md",
-      "title": "Cognitive dissonance: What to know",
-      "excerpt": "Cognitive dissonance is the discomfort a person feels when their behavior does not align with their values or beliefs. Cognitive dissonance is not a disease or illness. It is a psychological ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medicalnewstoday.com/articles/326738",
-      "originalUrl": "https://www.medicalnewstoday.com/articles/326738",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical News Today",
-        "domain": "medicalnewstoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

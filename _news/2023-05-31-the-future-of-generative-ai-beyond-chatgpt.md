@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/31/the-future-of-ge
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/31/the-future-of-generative-ai-beyond-chatgpt/amp/"
 type: article
 quality: 91
-heat: 351
+heat: 331
 published: true
 
 provider:
@@ -241,20 +241,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How Could ChatGPT and Artificial Intelligence Impact the Economy?"
-    excerpt: "ChatGPT, the first artificial intelligence app developed by OpenAI, has already created sweeping changes in certain industries. Publishers are laying down standards for AI use for writers -- or,"
-    publishedDateTime: 2023-05-30T20:31:00Z
-    webUrl: "https://www.aol.com/could-chatgpt-artificial-intelligence-impact-173250399.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 41
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/xDPXbHH__.11PlmHjydkZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/5b1ae28d022f8e6817c0cc692dfdd0b9"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Lawyer’s AI Blunder Shows Perils of ChatGPT in ‘Early Days’"
     excerpt: "A lawyer’s citation of court decisions fabricated by ChatGPT shows the peril of relying on the artificial intelligence chatbot without proper safeguards."
     publishedDateTime: 2023-05-31T09:30:00Z
@@ -370,15 +356,6 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 19
-  - title: "Albany software company launches AI content platform to compete with ChatGPT"
-    excerpt: "An Albany-based software company has launched an artificial intelligence product that intends to compete with the likes of ChatGPT."
-    publishedDateTime: 2023-05-30T21:18:00Z
-    webUrl: "https://www.bizjournals.com/albany/inno/stories/news/2023/05/30/nowigence-lille-artificial-intelligence-chatgpt.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 14
 
 secured: "ZoOeuNZZSP92gNb/Bcgdy20PIhy068A0RF0Ulu+OGBjXfPs22EJqGU7x3b55cn26I5CzB0smWXo4+nGu6F1aClDnCIacRROEuiAJJlosw14QO5Rd1Jitx0Sf6vvNZ5R7NRw9ScJ+QMEkHKsjI1wRVijbh+T+ryr8QiDvhgBGYpRYDemC1V0MTik8CHhFkArGj6+n845ij78NcplxOPeANHSj7jqKPU5H7hy4HucFpH27J7rMhw6/Qm1yIWDB1JGb69eHcI1WxbO5d2TB5N08/L4yobWQFJQ8K3PeLHTvAFYjmSJEW/vxD2Q8afPtoKCmgKmr4c54MHvZDyPBKmPaNcsgK2ahuqL4jzza8pinaDz34WAk6Ke1VoIRlSrnyKJlm7FhG1UB5Fh2DpyeuY+Hkwptm0to2msUbGgTEYwXmZkRnBRKB+sZf5Jy0powWMfxbuoyDKqay4o2BMZQCzawUMy9cQruYJL+hyXSPD1L+h/rOmdgi/e2N/IRprVsPqn9zDnGBI5POXFlp6gA0hv7Hw==;RRC/vebTGMkpahdLu5LqaA=="
 ---

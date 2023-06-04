@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/generative-ai-stokes-digital-black
 webUrl: "https://www.businessinsider.com/generative-ai-stokes-digital-blackface-accusations-advertisers-adjust-2023-6"
 type: article
 quality: 69
-heat: 81
+heat: 79
 published: true
 
 provider:

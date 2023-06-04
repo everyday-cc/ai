@@ -32,15 +32,6 @@ related:
         width: 1200
         height: 631
         isCached: true
-  - title: "The healthcare disruptors scaring physicians"
-    excerpt: "Six healthcare leaders discuss the biggest disruptors concerning physicians, such as provider burnout, physician shortages, artificial intelligence, and more. L"
-    publishedDateTime: 2023-05-30T19:19:00Z
-    webUrl: "https://www.beckersasc.com/asc-news/the-healthcare-disruptors-scaring-physicians.html"
-    type: article
-    provider:
-      name: Becker's ASC
-      domain: beckersasc.com
-    quality: 19
 
 secured: "l7IjgMOz25KXdMZzOBe7B55UC4fD7yYpNKdk4LumoyMZ9PkOBrq6SptJW3edbsakRCbuiNqiu6JG0RIorjG8usZ1bYXP1pa/r2aac20Bq2W1L03TWFfejo+fMn2Y3shAksTWnX+gHKdispL2aHukx/CSRGmLtw9HBAN+S9DnVOns8GXuXZoaWdL4rzgAVG2akss7vVFfAH5EuIOF/NFuyPsAm7XboLzld8KQ2Cwks47P8GEVQ3hT5Ibi9EtzpeHgEyrvovJrWIz+8cx57KSL9xs1MPVbR7p4cqrcxa5aW2MCfm3egJc35AGlhKQhI0q10vAbaGS3/SmIinxsaMvDe+9rnWNCt5y6uTaM+4LtKu4=;+cgEvlFtFOntj7Vj2FyxPg=="
 ---

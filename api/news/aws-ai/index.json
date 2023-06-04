@@ -192,7 +192,7 @@
       "originalUrl": "https://www.beckershospitalreview.com/innovation/aws-picks-biotech-startup-for-ai-accelerator-program.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -366,6 +366,41 @@
         "AWS AI",
         "Machine Learning",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-salt-security-attains-aws-security-competency-status.md",
+      "title": "Salt Security Attains AWS Security Competency Status",
+      "excerpt": "Salt Security, the leading API security company, today announced that it has achieved Amazon Web Services (AWS) Security Competency status in the Application Security category. Salt is the only API security company to have earned AWS Security Competency.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/05/31/9823421.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/05/31/9823421.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -1368,59 +1403,6 @@
         "AI",
         "AI Hardware",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-amazon-unveils-echo-pop-new-echo-buds-reports-500m-alexa-device-sales-as-ai-upends-market.md",
-      "title": "Amazon unveils Echo Pop, new Echo Buds; reports >500M Alexa device sales as AI upends market",
-      "excerpt": "In-depth Amazon coverage from the tech giant’s hometown, including e-commerce, AWS, Amazon Prime ... broader market is focused on the rapid development in generative artificial intelligence, where sophisticated interactions with new language models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/amazon-unveils-echo-pop-new-echo-buds-reports-500m-alexa-device-sales-as-ai-upends-market/",
-      "originalUrl": "https://www.geekwire.com/2023/amazon-unveils-echo-pop-new-echo-buds-reports-500m-alexa-device-sales-as-ai-upends-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/05/Echo-Pop-All-Colors.png",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

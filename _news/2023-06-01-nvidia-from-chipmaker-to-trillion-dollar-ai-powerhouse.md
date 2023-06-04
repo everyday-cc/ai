@@ -69,15 +69,6 @@ related:
         width: 800
         height: 508
         isCached: true
-  - title: "NEWSMAKER-Nvidia CEO Jensen Huang: Boss of trillion-dollar chip firm powering the AI boom"
-    excerpt: "But Huang recognized that university labs were using his chips for work in AI, a niche n computer science that held promise of powering everything from virtual assistants to self-driving cars. At the time,"
-    publishedDateTime: 2023-05-30T20:24:00Z
-    webUrl: "https://www.nasdaq.com/articles/newsmaker-nvidia-ceo-jensen-huang:-boss-of-trillion-dollar-chip-firm-powering-the-ai-boom"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 55
   - title: "The Rise of In-House AI Chip Production by Tech Giants Threatens Nvidia’s Dominance"
     excerpt: "Nvidia Corporation (NASDAQ: NVDA), a leading player in the field of artificial intelligence (AI), has enjoyed a strong competitive advantage with its AI moat."
     publishedDateTime: 2023-06-01T06:10:00Z

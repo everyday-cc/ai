@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/this-ai-stock-has-
 webUrl: "https://markets.businessinsider.com/news/stocks/this-ai-stock-has-dwarfed-nvidia-nasdaq-nvda-with-its-returns-1032360217"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
       name: GEN
       domain: genengnews.com
     quality: 21
-  - title: "Nvidia stock price skyrockets on Nasdaq index amid AI boom. Should I own it?"
-    excerpt: "Nvidia stock is expensive, but the first-quarter results show that Wall Street is still underestimating its potential in the AI boom. It's the leading chipmaker for generative AI, and that position is unlikely to change as the company continues to innovate with new products like its Hopper GPU architecture."
-    publishedDateTime: 2023-05-30T19:06:00Z
-    webUrl: "https://www.freep.com/story/money/2023/05/30/nvidia-shares-stock-prices-soar/70264847007/"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 16
 
 secured: "M57IoBDSp8rR2qVBaIsiBtgcN46eJ+6aXVcoPO92OSTvu/PIUh8++MsStDFtaEqn6izX8FdpWgn1zdbE7QrM9tBtLlGc0ygie5nRHt0z5Di1YcFdYBsVv42kmIOi7T9hV6EN92un7zrneOARbwEq4bLFOTTwWUW7qc/Ccy3d+W3iixjS1n5HYHyCaqJTt7fkfSJm6JVMcxDz28XTPfvNDILCGXAVPIZqsgP9EfIc90QtnKI9WvNtnUUxsPqQxeWem4tS2U/u02QJQgWfAwyM1pqK/XfNrBcKRkjseZ/9HveAScxe6tqDlK4uLXHX4WVTKD0BOmD9scUhF+cDJ1TpVijctSDxL/1kFLR+uqOo9bw=;ARbD1u8oMs9G1tOAYiYj7w=="
 ---

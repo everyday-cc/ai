@@ -65,31 +65,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia briefly worth $1 trillion thanks to AI boom"
-    excerpt: "Investors excited about the possibilities for artificial intelligence have sent the US chipmaker's value soaring."
-    publishedDateTime: 2023-05-30T20:22:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-65757812?at_medium=RSS"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-65757812.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65757812.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9941/production/_129933293_gettyimages-1258278958.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "AI Stocks Soar as Nvidia Joins Trillion-Dollar Club"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: shutterstock.com/Victor Runov Despite a soft opener in the equities"
-    publishedDateTime: 2023-05-30T19:34:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-soar-as-nvidia-joins-trillion-dollar-club-1032359232"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "AI demand briefly catapults Nvidia into $1 trillion club"
     excerpt: "The total value of computer chip and graphics processing card manufacturer Nvidia briefly touched $1 trillion on May 30 as demand for the company’s artificial intelligence tech surged into overdrive."
     publishedDateTime: 2023-05-31T00:40:00Z
@@ -103,20 +78,6 @@ related:
       - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-05/795d3f2c-200d-4544-9605-74bfbb101f9d.jpg"
         width: 1200
         height: 799
-        isCached: true
-  - title: "Fueled by AI, Nvidia joins the $1 trillion club"
-    excerpt: "Booming demand for its AI chips has landed Nvidia (NVDA) a prime spot in one of the most exclusive clubs on Wall Street: The chipmaker hit a market cap of $1 trillion on Tuesday. It’s just the ninth company globally to have achieved such a feat,"
-    publishedDateTime: 2023-05-30T20:42:00Z
-    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/05/30/nvidia-joins-the-1-trillion-club/"
-    type: article
-    provider:
-      name: KRDO
-      domain: krdo.com
-    quality: 39
-    images:
-      - url: "https://krdo.b-cdn.net/2023/05/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG9uZS10aHVtYm5haWwtNmM4ZTdmNmM3YzhmNDBmZTY2ODg0ODkxMGY4NjFhNTM-L19wYWdlcy9oXzM3MmNkZDY1MDg2YmY2ZTBjZWIyMDkwYjRjZmZhOWYz-300.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Intel cedes spotlight at global tech gala to AI darling Nvidia"
     excerpt: "Intel, long synonymous with the fastest processors, has seen its all-purpose chips overshadowed by Nvidia's more specialized, parallel-processing architecture."
@@ -189,6 +150,15 @@ related:
       name: Proactiveinvestors
       domain: proactiveinvestors.com
     quality: 3
+  - title: "This week in AI: Existential threat from AI, Nvidia announces AI supercomputer, UK wants global AI watchdog and more"
+    excerpt: "The DGX GH200 uses Nvidia's NVLink technology to combine 256 GH200 superchips, which each house an ARM-based Grace CPU, and H100 Tensor Core GPU, that allow for performance up to 1 exaflop (equivalent to one quintillion floating point operations per second) with a whopping 144 Terabytes of shared memory."
+    publishedDateTime: 2023-06-04T13:30:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/this-week-in-ai-existential-threat-from-ai-nvidia-announces-ai-supercomputer-uk-wants-global-ai-watchdog-and-more-10740031.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 0
 
 secured: "BbkSMRRwPgvMfikKU8gi77HOp0w/OMhnqw5bj7cZIJ5tXFueKuyKNViS3oacaYWrCe7ozuZb1HLsYjHKTVIyoSVwHTH7QnrUjJkkIvAKfXNXkxWhKYo54UyrA/r4dUmtwPwIsRhFA9+/+Y8kUadE67u8NPiM2P5+zT64S7/7KF+G7IgDhqz8iTIO45Uq4DInd8P6oraONUD1uxkKCMDkuFCx95ct7L0QhwpwePHDmY3haP3i56c+C+w8nP31NU6gejkolZRQC3xt7rlqRsuXKgsyKDgtnCbT7NJkuI7p9wfdoF/YPFa+/LpKYSaXOtnJrDbBXTRImVIyt7wpoLMw7I3d3UoNXuc81h/2GY5mEeHTNiX1c41KfuR33zvDl7qSwGeKINhV6sPUc7Q0Xxb4Lx1viZ+3i83WOAUq5d/UkhOlGMEWo83LGyM8IqEyCA5a0ubgNkLxHZWmEiAjOHNxTE/oXWQIcHK1iiYLDBGG2RntWk+RhoTJTdmXsO0qT2jBYGqIiwNxv3w1d771Ujlncw==;qETyVja1H+gfcag5fW14Mw=="
 ---

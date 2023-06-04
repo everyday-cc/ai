@@ -37,9 +37,9 @@ related:
   - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
     excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
     publishedDateTime: 2023-06-01T13:10:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+    webUrl: "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
     type: article
     provider:
       name: ABC
@@ -103,6 +103,15 @@ related:
       name: 92.7 WMAY
       domain: wmay.com
     quality: 46
+  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
+    excerpt: "AI chips and their leading designer, Nvidia, are now at the center of what some experts consider an AI revolution that could reshape the technology sector and possibly the world along with it."
+    publishedDateTime: 2023-06-01T18:30:00Z
+    webUrl: "https://omaha.com/business/technology/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_b29fedbe-109c-55f5-96f5-b3b3303c2067.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 28
   - title: "Orlando companies harness the power of AI in revolutionizing health care"
     excerpt: "As the health care industry faces staffing shortages and rising costs, AI is offering a solution that can free up time for health care providers to focus on patient care."
     publishedDateTime: 2023-06-01T04:00:00Z

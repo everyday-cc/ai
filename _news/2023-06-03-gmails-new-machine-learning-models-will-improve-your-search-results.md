@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Google is using machine learning models to speed up Gmail search"
+    excerpt: "Millions of users around the world rely on Gmail as their primary email service. And it's no mystery that the sheer number of emails sent and"
+    publishedDateTime: 2023-06-04T15:38:00Z
+    webUrl: "https://www.techspot.com/news/98937-google-using-machine-learning-models-speed-up-gmail.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-04-image-2.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Gmail gets AI: Google adds machine learning models to help with searching emails on phone"
     excerpt: "Based on a blog posted by Google on Workspace, when searching in Gmail, machine learning models will use the search term, most recent emails and other relevant factors to show you the results that best match the search query. The results will appear at the top of the list in a dedicated section and it will be followed by results based on recency."
     publishedDateTime: 2023-06-03T06:50:00Z

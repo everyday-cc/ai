@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2023/05/31/five-ways-entrepreneu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/31/five-ways-entrepreneurs-can-use-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Top 10 Entrepreneurs to Watch in 2023"
-    excerpt: "Watch out, 2023 — the following groundbreaking entrepreneurs are coming for you! From serial entrepreneurship and investing to trauma-informed therapy and women’s rights, their specialties span a wide range of industries,"
-    publishedDateTime: 2023-05-30T20:44:00Z
-    webUrl: "https://www.laweekly.com/top-10-entrepreneurs-to-watch-in-2023/"
-    type: article
-    provider:
-      name: Laweekly
-      domain: laweekly.com
-    quality: 4
 
 secured: "8hnfoYq7BRtPZtbsD1dktiyufQhlbnoKkwCyKYLZtoe0dFGC03iNNnkWqxq1amOWyuFyGNsbnUriI3WYR+fEwS77dwijiROrHF0LJJDeANW51dm/G8parpgcNsVGMo3A6ZS+009nORM58UCc7azrIbmwgx4kIkFy4gqstQv/IAbtvbbnJgPQuBUVWokGxjp4E5md5vBad7quloF6BXozGxDjTE/3GL1E+J7KD9FAmgIh1N1f4f8FUK4FspptKsYCROLuhMwSDJ4/t0OGyZiWWU9KIuBCjraYvKd0CuD4S5Eu9sK3jpzaM+1aD/CRNjZALhODU/m5Mf+f0U95c0YJZf8zy1i1hvNDaDxl+P3Nf0NfiYhEoYnC/Y4jmyQ0BCJbiF5uSoQw4luQUzIl297zWweF2fhYS2o5qCtNrF6QSfJZQhcCVDqakFF28dnyAllSahUf9rtskWx/qHWmfbKwn4zdHq1MNCZGhpL63a7L251p5L9EuxYMbLADTaAl8Hko5NuJnDvgGoxipwfe+e9P0Q==;YFTvyBVi4AUZ7ghdqoUKvg=="
 ---

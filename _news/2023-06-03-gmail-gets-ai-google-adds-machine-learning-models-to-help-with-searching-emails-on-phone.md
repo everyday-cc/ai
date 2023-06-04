@@ -9,8 +9,8 @@ ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/gm
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/gmail-gets-ai-google-adds-machine-learning-models-for-search-8643588/lite/"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Indian Express
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google is using machine learning models to speed up Gmail search"
+    excerpt: "Millions of users around the world rely on Gmail as their primary email service. And it's no mystery that the sheer number of emails sent and"
+    publishedDateTime: 2023-06-04T15:38:00Z
+    webUrl: "https://www.techspot.com/news/98937-google-using-machine-learning-models-speed-up-gmail.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-04-image-2.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Gmail's new machine learning models will improve your search results"
     excerpt: "Gmail can already do some pretty cool things, like letting you filter results based on the type of attachments, date, labels, and so on. But this should make searching less cumbersome, especially if you have a lot of emails bearing the same or similar keywords."
     publishedDateTime: 2023-06-03T12:00:00Z

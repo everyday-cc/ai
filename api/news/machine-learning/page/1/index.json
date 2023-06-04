@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-06-03-gmail-gets-ai-google-adds-machine-learning-models-to-help-with-searching-emails-on-phone.md",
-      "title": "Gmail gets AI: Google adds machine learning models to help with searching emails on phone",
-      "excerpt": "Based on a blog posted by Google on Workspace, when searching in Gmail, machine learning models will use the search term, most recent emails and other relevant factors to show you the results that best match the search query. The results will appear at the top of the list in a dedicated section and it will be followed by results based on recency.",
+      "path": "_news/2023-06-04-google-is-using-machine-learning-models-to-speed-up-gmail-search.md",
+      "title": "Google is using machine learning models to speed up Gmail search",
+      "excerpt": "Millions of users around the world rely on Gmail as their primary email service. And it's no mystery that the sheer number of emails sent and",
       "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/gmail-gets-ai-google-adds-machine-learning-models-for-search-8643588/",
-      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/gmail-gets-ai-google-adds-machine-learning-models-for-search-8643588/",
+      "webUrl": "https://www.techspot.com/news/98937-google-using-machine-learning-models-speed-up-gmail.html",
+      "originalUrl": "https://www.techspot.com/news/98937-google-using-machine-learning-models-speed-up-gmail.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://images.indianexpress.com/2023/06/Gmail-app.jpg",
-          "width": 1200,
-          "height": 667,
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-04-image-2.jpg",
+          "width": 2400,
+          "height": 1600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/gmail-gets-ai-google-adds-machine-learning-models-for-search-8643588/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/gmail-gets-ai-google-adds-machine-learning-models-for-search-8643588/lite/",
-      "publishedDateTime": "2023-06-02T23:50:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-04T08:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -388,6 +397,49 @@
         "AWS AI",
         "Machine Learning",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-ankylosing-spondylitis-machine-learning-could-pave-the-way-for-early-diagnosis-of-inflammatory-arthritis.md",
+      "title": "Ankylosing spondylitis: machine learning could pave the way for early diagnosis of inflammatory arthritis",
+      "excerpt": "Unfortunately, diagnosing AS can be a lengthy process, taking up to ten years from the onset of symptoms and usually requiring X-rays. The slow progression of the condition, coupled with the lack of a definitive test, contributes to these delays.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/ankylosing-spondylitis-machine-learning-could-pave-the-way-for-early-diagnosis-of-inflammatory-arthritis-203786",
+      "originalUrl": "https://theconversation.com/ankylosing-spondylitis-machine-learning-could-pave-the-way-for-early-diagnosis-of-inflammatory-arthritis-203786",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/526271/original/file-20230515-21229-5sc62o.jpg?ixlib=rb-1.1.0&rect=0%2C700%2C4140%2C2070&q=45&auto=format&w=1356&h=668&fit=crop",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1264,40 +1316,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-23-some-neural-networks-learn-language-like-humans.md",
-      "title": "Some Neural Networks Learn Language Like Humans",
-      "excerpt": "We preselected all newsletters you had before unsubscribing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearscience.com/2023/05/23/some_neural_networks_learn_language_like_humans_901078.html",
-      "originalUrl": "https://www.realclearscience.com/2023/05/23/some_neural_networks_learn_language_like_humans_901078.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-22T23:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearScience",
-        "domain": "realclearscience.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

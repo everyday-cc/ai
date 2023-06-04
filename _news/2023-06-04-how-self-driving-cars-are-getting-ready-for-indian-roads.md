@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars lack social intelligence in traffic"
-    excerpt: "Self-driving cars fall short when it comes to understanding the social codes in traffic that let human drivers decide whether to give way or drive on, according to new research."
-    publishedDateTime: 2023-05-30T22:15:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/05/230530125438.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 34
   - title: "Jeep is working on off-road self-driving and I’m here for it"
     excerpt: "I was just in Utah and had a chance to take a Jeep off-road for the first time. It was a nerve-racking and exciting experience"
     publishedDateTime: 2023-06-02T15:10:00Z

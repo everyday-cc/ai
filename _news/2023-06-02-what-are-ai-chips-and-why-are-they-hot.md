@@ -73,20 +73,6 @@ related:
         width: 680
         height: 879
         isCached: true
-  - title: "Regulators take aim at AI to protect consumers and workers"
-    excerpt: "The nation’s financial watchdog says it’s working to ensure companies follow the law when using artificial intelligence as concerns grow over increasingly powerful AI systems like ChatGPT."
-    publishedDateTime: 2023-05-30T20:03:00Z
-    webUrl: "https://www.stltoday.com/news/regulators-take-aim-at-ai-to-protect-consumers-and-workers/article_b81b2baf-52a2-56db-8d5e-2fe78b89b54f.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/81/b81b2baf-52a2-56db-8d5e-2fe78b89b54f/64736f480e754.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "l/Np1HNwVvAJk5hNS95je1whfyALiiW3fQ3YSS76aLNvJ1CpjLV4cdS6JmH7ylkmn5O/pDkcr1jSx36jtTsAf3Gh4fBZ6LEEyVLCKqX+dRQ5D6CMZTDiYuPN09oJupJp9UzK9fnuXagU+nYrBwgztGfS3KDc3Sk/7ZLQsdnDEyHqKuVClASAdXacl3A+v0zGokGqazOVD5Na6yJkQlMcv9EhaXYRO6EMgbP9ylE12BX3/jFxI+KXO9c6pNntPMn7xvroXd1tiVifSqDUNxE5NuZlMOY3KwfbC+Xho3uH+wY97AyGDug/EPAI4HMkQiWd+lJnb1S9QLNaLirJcLa9VkSxqL2BPR1WvnzNmkp1il/XU70rlaoCUO94fYhZGC+zrUz+g1yLyvVm/EaM2slBpMWzvr3YZrD+xccqehu1XYjC+9bQnm0Q9VsqlR4Kc6nePTpezHfuru/TCKxHdytgP7X3yZkp1mgKCFkrB4iFt/yCcL0r4jpl5riIsgkrDXfQ/YKiyaeouekVIRRK+Mu3vg==;nxbY3J+k9yyAsmTnkjwAVw=="
 ---

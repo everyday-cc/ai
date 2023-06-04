@@ -2,57 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-05-31-ai-doesnt-make-everyone-a-programmer-overnight.md",
-      "title": "AI Doesn't Make Everyone A Programmer Overnight",
-      "excerpt": "Artificial intelligence (AI) is actively transforming the software development industry at a rapid pace. Developers use AI-powered tools to automate tasks, enhance code quality, and accelerate development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidchou/2023/05/30/ai-doesnt-make-everyone-a-programmer-overnight/",
-      "originalUrl": "https://www.forbes.com/sites/davidchou/2023/05/30/ai-doesnt-make-everyone-a-programmer-overnight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647635193b7835edee569957/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidchou/2023/05/30/ai-doesnt-make-everyone-a-programmer-overnight/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/05/30/ai-doesnt-make-everyone-a-programmer-overnight/amp/",
-      "publishedDateTime": "2023-05-30T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-31-universities-as-vistas-of-intellectual-conflicts-in-the-age-of-ai.md",
       "title": "Universities As Vistas Of Intellectual Conflicts In The Age Of AI",
       "excerpt": "Our best hope for AI is that it advances individual freedom. That it presents more options, not more homogeneity. That the freedom to choose and free will still prevail.",
@@ -408,6 +357,40 @@
       ]
     },
     {
+      "path": "_news/2023-05-30-ai-leaders-warn-mitigating-the-risk-of-extinction-from-ai-should-be-a-global-priority.md",
+      "title": "AI Leaders Warn: ‘Mitigating the Risk of Extinction From AI Should Be a Global Priority’",
+      "excerpt": "A statement warning that AI needs to be taken just as seriously as a pandemic or the threat of nuclear war has been signed by OpenAI CEO Sam Altman, Google DeepMind CEO Demis Hassabis and other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thewrap.com/ai-leaders-warn-artificial-intelligence-safety-threat/",
+      "originalUrl": "https://www.thewrap.com/ai-leaders-warn-artificial-intelligence-safety-threat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheWrap",
+        "domain": "thewrap.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-high-quality-human-feedback-for-your-generative-ai-applications-from-amazon-sagemaker-ground-truth-plus.md",
       "title": "High-quality human feedback for your generative AI applications from Amazon SageMaker Ground Truth Plus",
       "excerpt": "Amazon SageMaker Ground Truth Plus helps you prepare high-quality training datasets by removing the undifferentiated heavy lifting associated with building data labeling applications and managing the labeling workforce. All you do is share data along with labeling requirements, and Ground Truth Plus",
@@ -647,6 +630,49 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-ankylosing-spondylitis-machine-learning-could-pave-the-way-for-early-diagnosis-of-inflammatory-arthritis.md",
+      "title": "Ankylosing spondylitis: machine learning could pave the way for early diagnosis of inflammatory arthritis",
+      "excerpt": "Unfortunately, diagnosing AS can be a lengthy process, taking up to ten years from the onset of symptoms and usually requiring X-rays. The slow progression of the condition, coupled with the lack of a definitive test, contributes to these delays.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/ankylosing-spondylitis-machine-learning-could-pave-the-way-for-early-diagnosis-of-inflammatory-arthritis-203786",
+      "originalUrl": "https://theconversation.com/ankylosing-spondylitis-machine-learning-could-pave-the-way-for-early-diagnosis-of-inflammatory-arthritis-203786",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/526271/original/file-20230515-21229-5sc62o.jpg?ixlib=rb-1.1.0&rect=0%2C700%2C4140%2C2070&q=45&auto=format&w=1356&h=668&fit=crop",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1190,59 +1216,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-soxq-etf-front-row-exposure-to-semiconductor-stocks-and-ai.md",
-      "title": "SOXQ ETF: Front-Row Exposure to Semiconductor Stocks and AI",
-      "excerpt": "On the other hand, I also wouldn’t want to not have exposure to these names, as AI is clearly here to stay and is just getting started on disrupting many industries. Thus, my strategy (not financial advice) with an ETF like this would be to start a ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/soxq-etf-front-row-exposure-to-semiconductor-stocks-and-ai-1032356835",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/soxq-etf-front-row-exposure-to-semiconductor-stocks-and-ai-1032356835",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/05/image-798-1024x548.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 1024,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-29T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
       ]
     }
   ],

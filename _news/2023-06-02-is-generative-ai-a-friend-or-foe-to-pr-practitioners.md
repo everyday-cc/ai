@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/is-gener
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/02/is-generative-ai-a-friend-or-foe-to-pr-practitioners/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 801
     isCached: true
-
-related:
-  - title: "Vectara aims to ground generative AI conversational search without hallucinations"
-    excerpt: "AI powered conversational search platform Vectara has new capabilities aiming to improve generative AI for business data."
-    publishedDateTime: 2023-05-30T22:48:00Z
-    webUrl: "https://venturebeat.com/ai/vectara-aims-to-ground-generative-ai-conversational-search-without-hallucinations/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/image1-8.png?w=1200&strip=all"
-        width: 1045
-        height: 598
-        isCached: true
 
 secured: "H0rA02VS5rtSJqPLCx5zhYTRdoVXDeFAyR06s0HhJNr6cFuzkuvhRmrnwfvLyRVKNRToOu54W4cioEXMpUYTb0QiKEsEwRW+nMdVe0b6354kqRwqGfvQ3ZbIJEoLz+x19u7+BVd/CA5lWxxA9vPJOWGm7bAhL4PzQXLHpvs5A8L2h3pCni+L9cdfBZjkLUHwdKmgDw+AzJrtRA2marZJNrQtSWiVTY0yCY2FAbi4FKqtJ93FhIvniLm6Ypkfr8tD4XxeMDcUru3/aylr6ev3JY9pRp3t8mx4ylTjgAPCnMLMM3XmgleNMUT1N0GvgbfI32OykP6m3x+gqbFBxkoIroAyhHeo8PUJSWVjXsMr3OU=;pzsN7B6mxOnkzrFaLXF7xA=="
 ---

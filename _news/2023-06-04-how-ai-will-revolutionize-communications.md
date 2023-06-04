@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI doom, AI boom and the possible destruction of humanity"
+    excerpt: "Will AI solve complex problems and save us? Or will it obfuscate truth, destroying humanity? Like any paradox, the answer is unclear."
+    publishedDateTime: 2023-06-04T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/ai-doom-ai-boom-and-the-possible-destruction-of-humanity/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_shadowy_robotic_figure_with_clouds_gathering_and_lightni_a50019f4-a9ea-4a14-aa55-b83e599bd02c.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The existential threat from AI – and from humans misusing it"
     excerpt: "Letters: Roger Haines writes that there is no evidence of AI sentience, while Prof Paul Huxley recalls Asimov’s laws of robotics, and Phyl Hyde says fears of AI are being overblown"
     publishedDateTime: 2023-06-02T15:17:00Z

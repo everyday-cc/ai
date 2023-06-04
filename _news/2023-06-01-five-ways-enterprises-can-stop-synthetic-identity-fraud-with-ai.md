@@ -60,15 +60,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Top 10 Entrepreneurs to Watch in 2023"
-    excerpt: "Watch out, 2023 — the following groundbreaking entrepreneurs are coming for you! From serial entrepreneurship and investing to trauma-informed therapy and women’s rights, their specialties span a wide range of industries,"
-    publishedDateTime: 2023-05-30T20:44:00Z
-    webUrl: "https://www.laweekly.com/top-10-entrepreneurs-to-watch-in-2023/"
-    type: article
-    provider:
-      name: Laweekly
-      domain: laweekly.com
-    quality: 4
 
 secured: "yLvIVNViHuKQ528Gs8Ae/EHpys9QEKrGsCiO0CWlQf21RPxMKw9fqn429Fmg8zRvCXU9iGzpB8IN10NIbEIyqmF7A+kjclZlt4b0qtV8VI2DvThmFuBc9omYmpfcF3sqk1KuGNrLzIh2KlV2sKslAkNaBREXE2ci88oYFTvcpDv3TcJc8Ul7sMLtY8I9p2zFnogFD9RPahXYCyHxkFDpub/HiYDA2qduaWIB/dUyN8kt6pe9VNTw7XvwH2fUTVH/Obkjse6YILSwXosUQDx/MQU9dZ82e4Dfgbf0tN6P9+HzkBsEfFHD9cRvC1no4GlC09B3IiK+H1l3Z2RKzDFlYZC/6+5KsjQgUyNzbTQeMTVdNhWxzKIe/4IXGMd4995fK7qSpmJryk3zxDyR969t1KCkUUHth47MCIO+URnq6CBdETgDkp2ggceXqBEhXZmRMnxZiHAXU48Y5xZZVzUnoEtJNdBEo0MaqdDW/gTqRIuxbVv4hY+TShDPCbBYNJ+yckYwa/CV6l23dhaDdI5mbg==;xjJXsCBCTfrlQRKTKodT2A=="
 ---

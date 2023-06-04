@@ -7,8 +7,8 @@ originalUrl: "https://technews.tmcnet.com/news/2023/05/31/9823421.htm"
 webUrl: "https://technews.tmcnet.com/news/2023/05/31/9823421.htm"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: TMCnet
@@ -20,15 +20,6 @@ topics:
   - AI in Security
 
 related:
-  - title: "AWS Announces General Availability of Amazon Security Lake"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Security Lake, a service that automatically centralizes an organization's security data from across their AWS environments,"
-    publishedDateTime: 2023-05-30T22:35:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/05/30/9822968.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 51
   - title: "AWS Announces General Availability of Amazon Security Lake"
     excerpt: "Amazon Web Services, Inc. (AWS) has announced the general availability of Amazon Security Lake, a service that automatically"
     publishedDateTime: 2023-05-31T18:31:00Z
@@ -47,15 +38,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 51
-  - title: "ExtraHop now supports Amazon Security Lake to centralise security data on AWS"
-    excerpt: "ExtraHop, a pioneer in cloud-native network detection and response NDR, announces support for Amazon Security Lake from Amazon Web Services (AWS). The offering will allow customers to share"
-    publishedDateTime: 2023-06-01T11:22:00Z
-    webUrl: "https://www.sourcesecurity.com/news/extrahop-now-supports-amazon-security-lake-centralise-security-data-aws-co-11423-ga-co-1537871022-ga.1685606100.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 33
 
 secured: "A9J+vuLorz6ph9w7XLLLYm9UbUB1Rp/Ll/oOC186kSN1W1eJY8WUPpyI0Job/5BKHt67WlIk8VTxBGM+mcljm1Jetv5w6+5pJNoAJX3QSIyQBGchP9bLDdPzA9gi3ycQZn6xCV/mqgMPkU7cHu0pfcqLrmMEy6KC4ulfdfpP8mXBP/idjG9Rnrs6ABkSh+mwzitXc5xnWKCFMMhWpw9EPe6DIUgllqJp9HpnrHJf32SJHDR3GE5QEBq676JzNAbIoiqVaLns546quoNd0ZMUSqq/iKLTxxVypJI/uxCtbuPhVoSiI/AfLvD/OqXt5RHgyjzcuD/ILqlHhOO/35ju0gVFSiKVjON38HWiW30eMow=;XgEPmLsOH5pwkm8pB9HfrQ=="
 ---

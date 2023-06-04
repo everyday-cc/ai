@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/amp/"
 type: article
 quality: 104
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/647994d97ff0e466a60e1090/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "AI doom, AI boom and the possible destruction of humanity"
+    excerpt: "Will AI solve complex problems and save us? Or will it obfuscate truth, destroying humanity? Like any paradox, the answer is unclear."
+    publishedDateTime: 2023-06-04T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/ai-doom-ai-boom-and-the-possible-destruction-of-humanity/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_shadowy_robotic_figure_with_clouds_gathering_and_lightni_a50019f4-a9ea-4a14-aa55-b83e599bd02c.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "The existential threat from AI – and from humans misusing it"
     excerpt: "Letters: Roger Haines writes that there is no evidence of AI sentience, while Prof Paul Huxley recalls Asimov’s laws of robotics, and Phyl Hyde says fears of AI are being overblown"

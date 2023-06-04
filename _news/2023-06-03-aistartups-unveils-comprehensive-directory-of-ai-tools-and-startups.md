@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/32701740"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32701740"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Top 5 Artificial Intelligence Start-ups to Watch in 2023"
-    excerpt: "Founded in 2021 by former OpenAI researchers, Anthropic counts Google as a major investor. The Alphabet ( GOOG -0.63%) ( GOOGL -0.75%) subsidiary took a 10% stake earlier in 2023, and Anthopic has had multiple funding rounds this year. It was valued at $4.1 billion in March. It also counts Salesforce ( CRM 1.59%) and Zoom ( ZM -0.89%) as investors."
-    publishedDateTime: 2023-05-30T20:30:00Z
-    webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-startups/"
+  - title: "Google Invests in AI Startup Runway to Wrest Cloud Business From AWS"
+    excerpt: "Google is investing in Runway, a New York–based startup that lets customers generate video from text descriptions using artificial intelligence it pioneered, at a valuation of around $1.5 billion including the new capital,"
+    publishedDateTime: 2023-05-31T21:48:00Z
+    webUrl: "https://www.theinformation.com/articles/google-invests-in-ai-startup-runway-to-wrest-cloud-business-from-aws"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
+      name: The Information
+      domain: theinformation.com
+    quality: 54
     images:
-      - url: "https://m.foolcdn.com/media/dubs/images/original_imageshttpsg.foolcdn.comeditorialimag.width-600_IFPc1qZ.jpg"
-        width: 600
-        height: 399
+      - url: "https://tii.imgix.net/production/articles/10624/dc3a7145-40e1-4de6-8155-f1e313c7c6ea.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "ANoEdjaLR4STF0z4dp2sdLI1TB8p26sAQN2ZLsdl8QTj4u1z+9flfdNOJVQbhvWukeESlVTjWqJVhRxXirgw8bdTkl0ED/tUkUpiuQPwqZOfNym2UIwsPBMczSyADRKfP3eS7lNnqHlEa4eajWCYtdhQPB7hhA3hDJ8i76YWA5AxQV2mOcv3Mc5QkkfhLuef0lq/oxRCQFKShg9gxhBfn8FFVfMRbwTvW5R5reoyOiV22SVm86I1lLQ3Z7XW4FqTLtcJk07Nf0fFFqFP2nfrvlcFHxWxMGHin/HkUNkxXhXd8YYMbuuz169YZIYfT8ffLy4TS4Dn9LhgaYayxYgGu/Fo2Hj6KBcx/sYU0JlQfQQ=;zXIEiYXhHa4pi7J2bHdF9g=="

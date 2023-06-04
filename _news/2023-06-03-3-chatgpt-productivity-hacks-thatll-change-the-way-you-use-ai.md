@@ -249,20 +249,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How Could ChatGPT and Artificial Intelligence Impact the Economy?"
-    excerpt: "ChatGPT, the first artificial intelligence app developed by OpenAI, has already created sweeping changes in certain industries. Publishers are laying down standards for AI use for writers -- or,"
-    publishedDateTime: 2023-05-30T20:31:00Z
-    webUrl: "https://www.aol.com/could-chatgpt-artificial-intelligence-impact-173250399.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 41
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/xDPXbHH__.11PlmHjydkZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/5b1ae28d022f8e6817c0cc692dfdd0b9"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Lawyer’s AI Blunder Shows Perils of ChatGPT in ‘Early Days’"
     excerpt: "A lawyer’s citation of court decisions fabricated by ChatGPT shows the peril of relying on the artificial intelligence chatbot without proper safeguards."
     publishedDateTime: 2023-05-31T09:30:00Z
@@ -364,15 +350,6 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 19
-  - title: "Albany software company launches AI content platform to compete with ChatGPT"
-    excerpt: "An Albany-based software company has launched an artificial intelligence product that intends to compete with the likes of ChatGPT."
-    publishedDateTime: 2023-05-30T21:18:00Z
-    webUrl: "https://www.bizjournals.com/albany/inno/stories/news/2023/05/30/nowigence-lille-artificial-intelligence-chatgpt.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 14
 
 secured: "UlI2OgF54DMrRZejANw6ztgLsVwKMclGpNeDte8/9ZGnLkJlGv40dXEk4mmUpuXBncmJAw22a4kcxV4lq43BySn+Oar6/cRSwaxaNvogSWFAmK6hKiGrUjuhTxRp++kk3HNtttZvuCjbyCt1ks9PKGXziNJ7puvZaOfbDCKBhDOW75gNPaYLjeIL8NrKvngD6EtdxeGQcEs5m5XnL7+V3Wvj8/sUu8r1yInjOey8uPVlRcHcj4i2rRb/lnAfOquLBoO8KCzKLoA+KGl8hi+0DEulaPr9jQXNWekPfv9SrhuFKi4HEH2qP2+wCRY6DhuKocZm+msVc2wF2sJIEwEytkbxfWu/wE41vgJA/YW7pYgdr8mmApypQGq+xnKUXy4DBXAyP/lUYfgfyG/q1acKzUhle/Xc+C79VOk+FuZR5IUXPYoXcwmTp1OrHuOk3SZSGBwqWKdoXVGp0mO80rAL7QlEwnPdsDoTvKy7zytwRMCpQt46PWci1ODzrL2wNhIrRRMVfmIBi/3EGfQTdsmSkw==;p4j0xz4FBHImb8GNGtsj9Q=="
 ---

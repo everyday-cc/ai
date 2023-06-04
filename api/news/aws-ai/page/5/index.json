@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-04-14-the-best-movies-on-amazon-prime-video-april-2023.md",
+      "title": "The best movies on Amazon Prime Video (April 2023)",
+      "excerpt": "If Amazon Prime Video ever had to rely solely on its original films, it might not be among the streaming giants. Amazon’s MGM library is robust, but Prime Video’s selections can range from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
+      "originalUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/06/Ticket-To-Paradise-Movie.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp",
+      "publishedDateTime": "2023-04-14T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-14-amazon-introduces-bedrock-a-cloud-service-for-ai-generated-text-and-images.md",
       "title": "Amazon introduces Bedrock, a cloud service for AI-generated text and images",
       "excerpt": "Amazon is joining the generative AI fray. Bedrock is the company’s new API for Amazon Web Services (AWS) that lets developers use and customize AI tools that generate text or images. Think of it as a cloud-based and configurable alternative to OpenAI’s ChatGPT and DALL-E 2 aimed at businesses and developers.",
@@ -1232,59 +1284,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-build-end-to-end-document-processing-pipelines-with-amazon-textract-idp-cdk-constructs.md",
-      "title": "Build end-to-end document processing pipelines with Amazon Textract IDP CDK Constructs",
-      "excerpt": "Intelligent document processing (IDP) with AWS helps automate information extraction from documents of different types and formats, quickly and with high accuracy, without the need for machine learning (ML) skills. Faster information extraction with high accuracy can help you make quality business decisions",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-end-to-end-document-processing-pipelines-with-amazon-textract-idp-cdk-constructs/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-end-to-end-document-processing-pipelines-with-amazon-textract-idp-cdk-constructs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/31/build-end-to-end-document-processing.jpg",
-          "width": 1148,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-31T10:03:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

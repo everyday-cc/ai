@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 562
         isCached: true
+  - title: "The Devious Dance Of AI-Generated Misinformation"
+    excerpt: "The rise of generative AI poses a significant threat of misinformation. We must safeguard the truth and integrity of our information landscape."
+    publishedDateTime: 2023-06-04T13:02:00Z
+    webUrl: "https://www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/"
+    ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647aecbada2ba3a38c0e1090/0x0.jpg?format=jpg&width=1200"
+        width: 1125
+        height: 900
+        isCached: true
   - title: "AI startup C3.ai’s stock plunges 20% after softer revenue guidance"
     excerpt: "Shares of white-hot Ai startup C3.ai Inc., which had been hurtling toward record highs earlier this week, took an abrupt U-turn Wednesday. The company’s stock AI, -8.96% skidded 14% in after-hours trading in the minutes leading up to its quarterly ..."
     publishedDateTime: 2023-05-31T22:09:00Z

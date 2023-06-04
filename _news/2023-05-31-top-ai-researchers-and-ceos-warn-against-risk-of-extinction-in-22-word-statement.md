@@ -61,50 +61,6 @@ related:
         width: 976
         height: 549
         isCached: true
-  - title: "Top AI researchers and CEOs warn against ‘risk of extinction’ in joint statement"
-    excerpt: "Experts in the field of artificial intelligence have signed a statement emphasizing the existential threat posed by advanced AI."
-    publishedDateTime: 2023-05-30T22:09:00Z
-    webUrl: "https://venturebeat.com/ai/top-ai-researchers-and-ceos-warn-against-risk-of-extinction-in-joint-statement/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/AI-e1628527067120.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Artificial Intelligence Could Make Humans Extinct, Scientists Warn"
-    excerpt: "Worries about AI systems outsmarting humans and running wild have intensified with the rise of a new generation of highly capable chatbots."
-    publishedDateTime: 2023-05-30T22:40:00Z
-    webUrl: "https://patch.com/us/across-america/artificial-intelligence-could-make-humans-extinct-scientists-warn"
-    ampWebUrl: "https://patch.com/us/across-america/amp/31398946/artificial-intelligence-could-make-humans-extinct-scientists-warn"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/us/across-america/amp/31398946/artificial-intelligence-could-make-humans-extinct-scientists-warn"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 57
-    images:
-      - url: "https://patch.com/img/cdn20/ap/22940811/20230530/063900/styles/patch_image/public/ap23144596433121-1___30183726587.jpg"
-        width: 1066
-        height: 800
-        isCached: true
-  - title: "Artificial intelligence raises risk of extinction, experts warn"
-    excerpt: "Hundreds of leading figures have signed a statement saying it should be a global priority to address what AI is capable of before it's out of control."
-    publishedDateTime: 2023-05-30T21:14:00Z
-    webUrl: "https://www.pressherald.com/2023/05/30/artificial-intelligence-raises-risk-of-extinction-experts-warn/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 52
-    images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/4/2023/05/AP23122568029558-1685481267-1024x682.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
     excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
     publishedDateTime: 2023-05-31T12:32:00Z
@@ -119,22 +75,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "AI leaders warn the technology poses 'risk of extinction' like pandemics and nuclear war"
-    excerpt: "\"Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war,\" said the one-sentence statement released by the San Francisco-based nonprofit Center for AI Safety."
-    publishedDateTime: 2023-05-30T19:55:00Z
-    webUrl: "https://abcnews.go.com/Technology/ai-leaders-warn-technology-poses-risk-extinction-pandemics/story?id=99690874"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/ai-leaders-warn-technology-poses-risk-extinction-pandemics/story?id=99690874"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/ai-leaders-warn-technology-poses-risk-extinction-pandemics/story?id=99690874"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 48
-    images:
-      - url: "https://s.abcnews.com/images/Business/open-ai-sam-altman-gty-moe-010-230530_1685456702322_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "AI experts challenge ‘doomer’ narrative, including ‘extinction risk’ claims"
     excerpt: "“It’s almost a topsy-turvy world,” Sara Hooker, head of the nonprofit Cohere for AI and former research scientist at Google Brain, told VentureBeat. “In the public discourse, [x-risk] is being treated as if it’s the dominant view of this technology."
     publishedDateTime: 2023-05-31T18:08:00Z
@@ -144,20 +84,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "AI industry and researchers sign statement warning of ‘extinction’ risk"
-    excerpt: "Dozens of AI industry leaders, academics and even some celebrities on Tuesday called for reducing the risk of global annihilation due to artificial intelligence, arguing in a brief statement that the threat of an AI extinction event should be a top global priority."
-    publishedDateTime: 2023-05-30T19:35:00Z
-    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/05/30/ai-industry-and-researchers-sign-statement-warning-of-extinction-risk/"
-    type: article
-    provider:
-      name: KRDO
-      domain: krdo.com
-    quality: 39
-    images:
-      - url: "https://krdo.b-cdn.net/2023/05/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG9uZS10aHVtYm5haWwtODMwZjVjNWNjNDYxMjRlNzJiMGM2ZGViMjRlZmIzMzM-L19wYWdlcy9oX2I1NzU0YjE3NDA1NGVhMjUxODM2MDZjNjBjMTcwNjg1-300.jpg"
-        width: 1200
-        height: 592
-        isCached: true
   - title: "Leading experts warn of a risk of extinction from AI"
     excerpt: "The call for guardrails on AI systems has intensified in recent months as public and profit-driven enterprises are embracing new generations of programs."
     publishedDateTime: 2023-05-31T16:59:00Z
@@ -186,15 +112,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Leaders Warn of ‘Risk of Extinction’"
-    excerpt: "In an era marked by rapid technological advancements, the ascension of artificial intelligence (AI) stands at the forefront of innovation. However, this same marvel of human intellect that drives progress and convenience is also raising existential concerns for the future of humanity,"
-    publishedDateTime: 2023-05-30T19:39:00Z
-    webUrl: "https://www.unite.ai/ai-leaders-warn-of-risk-of-extinction/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 19
   - title: "AI poses ‘risk of extinction’ warn industry leaders"
     excerpt: "AI could pose an existential threat to humanity, artificial intelligence luminaries have warned, in an extraordinary one-sentence open letter, urging that it be treated with the same level of urgency as pandemic and nuclear war."
     publishedDateTime: 2023-05-31T11:47:00Z
@@ -204,15 +121,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
-  - title: "Human Extinction From AI is Possible, Developers Warn"
-    excerpt: "\"AGI fear-mongering is overhyped, toxic, likely to lead to regulatory capture by incumbents, and can slow down or hinder the positive applications of AI across society including biological science and medicine,\" he Tweeted ."
-    publishedDateTime: 2023-05-30T20:41:00Z
-    webUrl: "https://www.thestreet.com/technology/human-extinction-from-ai-is-possible-developers-warn"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 17
   - title: "AI: Is there a risk of human extinction?"
     excerpt: "Artificial intelligence could lead to extinction, experts warn"
     publishedDateTime: 2023-06-01T13:19:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-
 cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI-powered humanoid works the crowd at tech show"
-    excerpt: "Will Jackson, director of Engineered Arts, the British company that created Ameca, said his company’s robots are designed for tasks that involve interacting with humans, such as helping"
-    publishedDateTime: 2023-05-30T21:45:00Z
-    webUrl: "https://www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-the-crowd-at-tech-show/"
-    ampWebUrl: "https://www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-the-crowd-at-tech-show/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-the-crowd-at-tech-show/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 59
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2023/05/AP23150442054195.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
     excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said."
     publishedDateTime: 2023-05-31T13:59:00Z
@@ -88,6 +72,6 @@ related:
         height: 399
         isCached: true
 
-secured: "xnQxVDe/ttbCac/t6lrS9MNaXAQiQ7ylc/KkMHH6aJaDxvBvWvz3004DKCIZP7Euv7Cjj7t17wx/PkmmtZ66EywH0Ogu2IhwfwapMzucQuKd98xg5rxL4mD4GjPnq5kfPA4zDtVWXvK8IA8G0hqZ1jxhTLob1By+D9gS49T9DpxUua8N0Og4DOQF1zpeYTZS9Ieu0TElu+4NzEmT8Qm3jCAM2zbV3UhnIRE21MR83yHxyc/VHP3F2PtjgRkgQl5O0aNFcipmbjGA/w0pgCgwwtQOz0t5DNXk/u66rftAAMpVubfnS0pEUoBt5MMTUVMKDhGHauB3XcVkkRzxgUowkeLVXBMWoMU8w5HPy8k9b0Y=;Li4xOTtoVt+CUvPqa2MPEg=="
+secured: "HCEVL+Gj8JMOtc4lM2sQmGajo9Qrhew2BRnP2gtE0o3LKqEnAByEHv+KCKw9xVt+vQ2ZY/DdBVqBZIpc7tAYnaZPCH75bvkLvbuxpB892W9TGEK4DY2IXD58H12s8+ApizrPj0V6ml3k+1Ugbz6Yqx+wqNPjM01NuTNi4R98R9jvmxakBCxGsM9MeIgSQLb5FVRada5wGgDGJASsgMB3XiYiK30QjBpeiTOVdBr5BEsmzTG4opLaEkjbL6ZF1p2dFDGIio77aGQnfMIIfLWD4vkZ+skJm4jGihkJfE3+z8DzNekxuxuqhhIbbbPgQLWCD+XZWKzBpxvTmylVSRcTc4bXXretq2un6J4kNgEGrG4=;PckCpE/NLZDxCxTwq70vDA=="
 ---
 

@@ -70,15 +70,6 @@ related:
         width: 800
         height: 508
         isCached: true
-  - title: "NEWSMAKER-Nvidia CEO Jensen Huang: Boss of trillion-dollar chip firm powering the AI boom"
-    excerpt: "But Huang recognized that university labs were using his chips for work in AI, a niche n computer science that held promise of powering everything from virtual assistants to self-driving cars. At the time,"
-    publishedDateTime: 2023-05-30T20:24:00Z
-    webUrl: "https://www.nasdaq.com/articles/newsmaker-nvidia-ceo-jensen-huang:-boss-of-trillion-dollar-chip-firm-powering-the-ai-boom"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 55
   - title: "NVIDIA: From Chipmaker to Trillion-Dollar AI Powerhouse"
     excerpt: "From being a renowned chipmaker for computer graphics to an industry titan momentarily reaching a trillion-dollar valuation, Nvidia's journey is one for the business books. This rapid ascent is a testament to the growing significance of artificial intelligence (AI) in shaping the future of technology."
     publishedDateTime: 2023-05-31T21:19:00Z

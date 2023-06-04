@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-06-01-aws-picks-biotech-startup-for-ai-accelerator-program.md",
-      "title": "AWS picks biotech startup for AI accelerator program",
-      "excerpt": "Ordaos, a drug design company, was selected for the AWS Generative AI Accelerator, a mentorship program for companies working with generative artificial intelli",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/innovation/aws-picks-biotech-startup-for-ai-accelerator-program.html",
-      "originalUrl": "https://www.beckershospitalreview.com/innovation/aws-picks-biotech-startup-for-ai-accelerator-program.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-01-the-founder-of-artificial-intelligence-sounds-the-alarm-4-major-risks-you-need-to-know.md",
       "title": "The Founder Of Artificial Intelligence Sounds The Alarm: 4 Major Risks You Need To Know",
       "excerpt": "With a BA in Experimental Psychology from the University of Cambridge (1970) and a PhD in Artificial Intelligence from the University of Edinburgh (1978), the 75-year-old has decided to blow the whistle on the technology,",
@@ -497,57 +454,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-31-amazon-turns-to-ai-to-weed-out-damaged-goods.md",
-      "title": "Amazon Turns to AI to Weed Out Damaged Goods",
-      "excerpt": "The company expects artificial intelligence to reduce the number of damaged items moving through fulfillment centers and to speed up deliveries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/amazon-turns-to-ai-to-weed-out-damaged-goods-8572508d",
-      "originalUrl": "https://www.wsj.com/articles/amazon-turns-to-ai-to-weed-out-damaged-goods-8572508d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-791515/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-31-the-cry-wolf-moment-of-ai-hype-is-unhelpful.md",
       "title": "The Cry Wolf Moment Of AI Hype Is Unhelpful",
       "excerpt": "AI increasingly represents a significant cybersecurity threat as an asset for criminals and hostile states. But cybersecurity is a mature industry with plenty of experts well equipped to handle the challenge. There is no reason to shut down AI because of cybersecurity fears.",
@@ -797,7 +703,7 @@
       "originalUrl": "https://www.marketwatch.com/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -925,6 +831,41 @@
       ]
     },
     {
+      "path": "_news/2023-05-31-salt-security-attains-aws-security-competency-status.md",
+      "title": "Salt Security Attains AWS Security Competency Status",
+      "excerpt": "Salt Security, the leading API security company, today announced that it has achieved Amazon Web Services (AWS) Security Competency status in the Application Security category. Salt is the only API security company to have earned AWS Security Competency.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/05/31/9823421.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/05/31/9823421.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-join-us-at-prestocon-day-a-free-virtual-community-event.md",
       "title": "Join us at PrestoCon Day, a free virtual community event",
       "excerpt": "Learn how companies are using Presto to power their data lakehouses at scale by attending the free virtual PrestoCon Day conference.\nThe post Join us at PrestoCon Day, a free virtual community event appeared first on IBM Blog.\n",
@@ -1035,7 +976,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1138,7 +1079,7 @@
       "originalUrl": "https://www.forbes.com/sites/theyec/2023/05/31/five-ways-entrepreneurs-can-use-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1221,6 +1162,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-taiwans-foxconn-predicts-huge-growth-in-ai-server-business.md",
+      "title": "Taiwan's Foxconn Predicts Huge Growth In AI Server Business",
+      "excerpt": "Taiwanese tech giant and key Apple supplier Foxconn predicts three-digit growth for its artificial intelligence server business due to robust demand for AI products such as ChatGPT, its chairman said Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740?refsec=topics_afp-news",
+      "originalUrl": "https://www.barrons.com/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740?refsec=topics_afp-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP6595984239764979366134169632271358072436---1.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740",
+      "publishedDateTime": "2023-05-31T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

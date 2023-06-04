@@ -25,43 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "AWS picks biotech startup for AI accelerator program"
-    excerpt: "Ordaos, a drug design company, was selected for the AWS Generative AI Accelerator, a mentorship program for companies working with generative artificial intelli"
-    publishedDateTime: 2023-05-31T21:04:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/aws-picks-biotech-startup-for-ai-accelerator-program.html"
+  - title: "AIStartups Unveils Comprehensive Directory of AI Tools and Startups"
+    excerpt: "In addition, it provides a subscription service that gives users exclusive access to the latest startup tools and resources, keeping them at the forefront of AI innovation. “Our vision is to help businesses unlock the future of AI and stay ahead of the ..."
+    publishedDateTime: 2023-06-02T22:12:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/ab32701740/aistartups-unveils-comprehensive-directory-of-ai-tools-and-startups"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32701740"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32701740"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "AWS announces the 25 startups selected for its first 'fintech in Africa' accelerator"
-    excerpt: "Cohort participants from Kenya, Nigeria, South Africa, Egypt, Ghana, Uganda, and Cameroon    Description: Sekai Ndemanga, Head of FinTech Venture Capital and Startup Business"
-    publishedDateTime: 2023-06-01T21:00:00Z
-    webUrl: "https://www.asiaone.com/business/aws-announces-25-startups-selected-its-first-fintech-africa-accelerator"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 32
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2023/pr-newswire_500_4_143.jpg?h=7de12b8a&itok=Ap2Qfkdg"
-        width: 600
-        height: 316
-        isCached: true
-  - title: "AWS announces the 25 startups selected for its first 'fintech in Africa' accelerator"
-    excerpt: "African fintech startups have been selected for the inaugural Amazon Web Services (AWS) FinTech Africa Accelerator cohort. This cohort was selected from over 500 applications and is part of the EMEA Startup Loft Accelerator (SLA) program run by AWS."
-    publishedDateTime: 2023-06-01T16:43:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1326213&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 12
 
 secured: "RV6TSI5t7vkm+prEWIe00Dz6esEaekRns/YgD9PkZFJT8fcpkOP9F5p09nGZjho+4rkL813vjPfnU2N8AXBMJwkttnPdIysSFNH0G+rawLKv6TD0sx0Aik3QhoZiWyh/TCZe+xfILG/ZNmq0lsMLVO7z5a9OHt5KuNB80ArIIJx26tGyqZMjBfib6naa/Br+o131D3goXFt6BM5PrA9KPu6NCFhMys5Sn/h5FSlrvo7r4QveqiC/L0dtbKySOEINd26YITgovjCbCzakgCE1enlnh3/5e+s6xrI/BGFFY/cAyu6N58mVvYg8fd8BAkbSszqNL+S1rnCsE/jfItp0O0RTSEkyF5UntSSBDUfozUZMbSQ3ADG+Qi5h1hj9SytGtvzY8e/H7uFGjUpMcJINPzmxWjTEawlQPr2345AcI6SzG5O+5cvH+Jdj+YzK++iFLmS1bc9anqlNW2ky0JiMD94K8zE0KrWUCyUI2xlr6Oy7tWpC0EmXcA4ucCm6JJKBSIGaDdpWKli8VRLfFbKmew==;zhVLuaWU9daFHNWvA/3UCQ=="
 ---

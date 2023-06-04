@@ -5,11 +5,9 @@ excerpt: "KUDO is rolling out v2.0 of its AI Engine ... Their network of 12,000 
 publishedDateTime: 2023-05-31T18:11:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/05/n32654643/kudo-releases-kudo-ai-engine-v-2-0-for-improved-speech-translation-accuracy"
 webUrl: "https://www.benzinga.com/pressreleases/23/05/n32654643/kudo-releases-kudo-ai-engine-v-2-0-for-improved-speech-translation-accuracy"
-ampWebUrl: "https://www.benzinga.com/amp/content/32654643"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32654643"
 type: article
-quality: 57
-heat: 57
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -20,12 +18,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "sZhXjnHjfp/tmLaUFVFPnEj6ZLUKQ6J8FD36jN4GiefpkOFDCg/Bf/ax1BqwYFbCj16PuM2/zab4JHWPxo+pvPfLf7Kv5eExpxMPQAo3HX5kEmPdUhkgRHDxBdMACWGawmtCixNvbqm6xPdzY6ECJBTwZatlvJTeWW8UOvul06tA1pKCswDgMi5795vOSBh/HCF2HVL+nt0EvGGbM+GNYQMGUlQZOzrJQmZLraV/0+p4b99Umt0bPjzraJbfa7nBVhwezVOEA2yTv1xsKyEsMUtNbv5m5nY4EQKQJpBYoOgYVIRCrFBf1DGDwlVsVP+T3l89RvI/umxFDzG1VuaYCRj8akTHGf0XsGhKfesrgr4=;THIrS4BEkwdsA2neDI6bhw=="
+secured: "5zEk3QCZxfS2i52yTbhhEyIcxtmPouQmX806qkBP4J08qD98AsHI62tV3t+yiTNhOtpS9XYvvz8W/WnIcyMIUZRZHRecc+EbDRjwpfKLzw+uEsCGNP9DY3qHdqAP10RGCI+B0jszDJ5+5mcZv5x/ouczbIRnBtH9IL3kncrYa2VjLr6ucr8ZJylFIt5uVozeHvyTqYs5cNFbL46ZUkNsXxvdiXOCvdKFPGNZ9gIsMUFhIYwxb1FV8nOM6Oy9NedmdEjDm1aR6iDihAgY0bcp6g7rA/5ABTyDup1aK+um93UBpEyJprd+8aTDSmuIS+L8NzBSba0x+yulK5AhYIAt2io1LcW30nUeka0OkiyOcSM=;t5HVj/GpXlxp7krKq5zgLA=="
 ---
 

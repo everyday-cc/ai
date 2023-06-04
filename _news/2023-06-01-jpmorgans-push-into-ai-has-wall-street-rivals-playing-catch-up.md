@@ -48,6 +48,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 49
+  - title: "2 Things Enterprises Get Right About AI, and 1 Thing They Get Wrong"
+    excerpt: "Artificial Intelligence (AI) is having a profound impact on the way enterprises across the globe do business, and it's only continuing to grow. That's unsurprising, as companies across all industries leverage AI as a tool to cut costs,"
+    publishedDateTime: 2023-06-01T19:03:00Z
+    webUrl: "https://www.inc.com/sarvarth-misra/2-things-enterprises-get-right-about-ai-1-thing-they-get-wrong.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "IJ67KhAl3du6/bAJsq+xgQLf+S1vunJ1ZuASAeSrl0OKtRcbPSSbUzYdBdygzuqbDrng1FUN8ciaqt4IB83bEomFWfM7IcJ2xA+xK8ZTJ708Ghk3LRs9c2Al8lzZ16fnQyCZiS3llDnPQ8BR/XKA3TMr3b4FIsQrmoPa6Au1uJ2wx/yRFv0nK0Ig3YfmEefH1wBat82VRg/MJaC8pvDFJYYOL3pSpLPb7fne6MF2yUmgMvjI+0uL49NCudiDswyI2h0feR1LYZw5osVbyd58JVmsZDcIimyfv/0lOefksuE+E2V0cHEMNlGCIIlZxoV95bQVtRH3zDo2oY0D8ly0cigaTdwcxZ7DrRnhQOm4mbM=;pXv2OW6gxXwM1IFRpA/yXg=="
 ---

@@ -62,6 +62,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI doom, AI boom and the possible destruction of humanity"
+    excerpt: "Will AI solve complex problems and save us? Or will it obfuscate truth, destroying humanity? Like any paradox, the answer is unclear."
+    publishedDateTime: 2023-06-04T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/ai-doom-ai-boom-and-the-possible-destruction-of-humanity/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_shadowy_robotic_figure_with_clouds_gathering_and_lightni_a50019f4-a9ea-4a14-aa55-b83e599bd02c.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How AI Will Revolutionize Communications"
     excerpt: "The bottom line is that it’s time to face the AI revolution head-on and seize the opportunities it offers. In the fast-paced world of communications, standing still is not an option. Learn how to leverage AI and start to unlock new levels of impact."
     publishedDateTime: 2023-06-03T17:17:00Z

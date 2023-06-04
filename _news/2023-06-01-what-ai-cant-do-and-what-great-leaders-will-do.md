@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ginnywhitelaw/2023/06/01/what-ai-cant-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ginnywhitelaw/2023/06/01/what-ai-cant-do-and-what-great-leaders-will-do/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://www.sciencenews.org/wp-content/uploads/2023/06/060323_feedback_cover.jpg"
         width: 680
         height: 879
-        isCached: true
-  - title: "Regulators take aim at AI to protect consumers and workers"
-    excerpt: "The nation’s financial watchdog says it’s working to ensure companies follow the law when using artificial intelligence as concerns grow over increasingly powerful AI systems like ChatGPT."
-    publishedDateTime: 2023-05-30T20:03:00Z
-    webUrl: "https://www.stltoday.com/news/regulators-take-aim-at-ai-to-protect-consumers-and-workers/article_b81b2baf-52a2-56db-8d5e-2fe78b89b54f.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/81/b81b2baf-52a2-56db-8d5e-2fe78b89b54f/64736f480e754.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "xQffv3Jt2lo+avD8VJ9BNxsIdcza0na7qtvrYfS+BK+Gbm5BvT0Jm0wBL+smHEf/Be82PBIi/L2xM9kmGDDwg6mJ6sql/IfCs0LiVVWvcHQ14B4o6CnxgNGuJ3/8mKejJ1BR3hkNtzeMWgpxJZT7L5nUST9bgzjmUKpQU7P6N7uhrZwtFUVGyUcTmmxBy+z801KIfdRWBNEzG6iSnmSB8TEQoFeD8GxOm00B9nJBsl2GlA9MEVNxJ5KqpLMfDFzcLMwJ/jK2SLLe/gNMkzcbVgW2R86jV4+ZjvXnCwmRdONz1ZUtzdBAwXVmKpQS/T0WLbatwYtd/nGLOVqvJRJYlNQ/6uuJkzMtSWfZoKmMwDI=;/2/ql3qyezbvmiWOfOmkCQ=="

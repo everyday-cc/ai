@@ -57,22 +57,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI-powered humanoid works the crowd at tech show"
-    excerpt: "Will Jackson, director of Engineered Arts, the British company that created Ameca, said his company’s robots are designed for tasks that involve interacting with humans, such as helping"
-    publishedDateTime: 2023-05-30T21:45:00Z
-    webUrl: "https://www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-the-crowd-at-tech-show/"
-    ampWebUrl: "https://www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-the-crowd-at-tech-show/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-the-crowd-at-tech-show/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 59
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2023/05/AP23150442054195.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "What’s new in robots? An AI-powered humanoid machine that writes poems"
     excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
     publishedDateTime: 2023-06-01T08:45:00Z
@@ -88,6 +72,6 @@ related:
         height: 399
         isCached: true
 
-secured: "AMquR6ObNh5nrhWMR4DjEsP0gHY7bbum/YqNvNLljCnMkqHIbdrOSS05Myp0fBtFJrTnuFWoIVw6iCq6Oq2QGhyNAbd/iPxux+CLjhBQSTJdarXD+pHYoUywyy8PPezyYy0C7iGEwf1AEB8E90rvIQk919Tt/K+NJcAoIn5HqJ3X1b3HkgGIYgm/pqTLbZTgeHu5SxyD8orW+LhqB/XlinmYQhvMVucoXw2enAALz98SxrtlDPbf7OYNjR7Ocry3/tH56/dcFY9Jk8hRIZGkcolECr/5Fr9BIaX+y/TtW42RuCqA6x1C3nXGb1aSWwcDzxlQT14TsjK+Puf5ZAD+q3uDC2R9Jwttdd/lfHUsehE=;QhwvGmWSCz1H3yAJy6O8Kw=="
+secured: "SeDS0EpFc8/+amZP8RGlTMK8jtpjCboHN8jgwdrFJdEJOn+gnh/XaLrlFhNgYets45obYDvKaTIPkiMzjMrVmGHhxxJwJzhHaGUwhihO+fBrc06h1R6xC5HdDGCopWYXVZjRCLH5uk35u4yVDRExo68Bbn5B6d0iNIWaht2+HAXzoShBBhTaLFSNa5alK7bS+QO1oBR6hGeDWW0SRKhGhi3/NnYjBV3ND/I2GbS6ktxYzXG8HQW9YIMsK/iPOw/+x2PD0ko4UBxdkWuGRFnIZSWrHW/OIDylTUYiET3dYygjx3KSxlCXaFO0rLsM2xOI1+HDQgEZVOu4RFzTYssWhd7yLYKZ4wDpY+U7T4u0USU=;qhFm8YudZJGKAPtomBfeCg=="
 ---
 

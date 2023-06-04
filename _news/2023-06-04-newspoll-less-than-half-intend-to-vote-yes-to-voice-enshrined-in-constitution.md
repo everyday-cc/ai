@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Constitution Alteration Bill vote in House of Representatives brings Voice referendum step closer"
-    excerpt: "Australians will be a step closer to voting in the country’s first referendum since 1999 by the end of Wednesday, as the lower house firms up the question the government will pose on a Voice to parliament."
-    publishedDateTime: 2023-05-30T22:40:00Z
-    webUrl: "https://www.news.com.au/national/politics/constitution-alteration-bill-vote-in-house-of-representatives-brings-voice-referendum-step-closer/news-story/c3629cc66eac738dd807373d9e39889a"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 0
   - title: "Voice model result of 10-year process for constitutional recognition of Indigenous people"
     excerpt: "The proposal for an indigenous Voice to Parliament is the result of a 10-year process which saw other models of constitutional recognition “strongly rejected”, says Indigenous leader Noel Pearson. Mr Pearson said constitutional conservatives are on board with the current model after initial rejections of earlier ideas."
     publishedDateTime: 2023-06-04T09:42:00Z
