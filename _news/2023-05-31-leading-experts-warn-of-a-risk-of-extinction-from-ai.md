@@ -25,50 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "AI extinction risk warning backed by OpenAI, DeepMind chiefs"
-    excerpt: "Explore the debate on AI's potential threat to humanity, featuring experts from OpenAI, Google DeepMind, and more discussing extinction risks and solutions."
-    publishedDateTime: 2023-05-31T01:38:00Z
-    webUrl: "https://thethaiger.com/news/world/ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs"
-    ampWebUrl: "https://thethaiger.com/news/world/ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs/amp"
-    cdnAmpWebUrl: "https://thethaiger-com.cdn.ampproject.org/c/s/thethaiger.com/news/world/ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs/amp"
+  - title: "Top AI researchers and CEOs warn against ‘risk of extinction’ in 22-word statement"
+    excerpt: "This statement, published by a San Francisco-based non-profit, the Center for AI Safety, has been co-signed by figures including Google DeepMind CEO Demis Hassabis and OpenAI CEO Sam Altman ..."
+    publishedDateTime: 2023-05-31T05:05:00Z
+    webUrl: "https://www.theverge.com/2023/5/30/23742005/ai-risk-warning-22-word-statement-google-deepmind-openai"
     type: article
     provider:
-      name: The Thaiger
-      domain: thethaiger.com
-    quality: 74
+      name: The Verge
+      domain: theverge.com
+    quality: 63
     images:
-      - url: "https://thethaiger.com/wp-content/uploads/2023/05/129902572_gettyimages-1257740282.jpg"
-        width: 976
-        height: 549
+      - url: "https://cdn.vox-cdn.com/thumbor/TVAPXNsHjyXzjCHMtXTMFKUQstA=/0x0:1275x700/1200x628/filters:focal(638x350:639x351)/cdn.vox-cdn.com/uploads/chorus_asset/file/24690541/AlexaSteinbru_ck_ExplainableAI_1275x700.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-    excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
-    publishedDateTime: 2023-05-31T12:32:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692579"
+  - title: "Top AI researcher dismisses AI ‘extinction’ fears, challenges ‘hero scientist’ narrative"
+    excerpt: "Kyunghyun Cho, a prominent AI researcher and associate professor at NYU, expressed frustration with the current discourse around AI risk."
+    publishedDateTime: 2023-06-01T17:02:00Z
+    webUrl: "https://venturebeat.com/ai/top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 49
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 60
     images:
-      - url: "https://s.abcnews.com/images/International/wirestory_54ea8aadc60d1503e5a65878219aad43_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Ez6kELuXoAQ7r_B.jpeg?w=1200&strip=all"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Tech executives sign warning letter regarding artificial intelligence risks"
-    excerpt: "The one-sentence open letter, issued by the nonprofit Center for AI Safety, is both brief and ominous, without extrapolating how the more than 300 signees foresee AI developing into an existential threat to humanity."
-    publishedDateTime: 2023-05-31T14:31:00Z
-    webUrl: "https://kyma.com/dsw-living/technology/2023/05/31/tech-executives-sign-warning-letter-regarding-artificial-intelligence-risks/"
+  - title: "AI experts challenge ‘doomer’ narrative, including ‘extinction risk’ claims"
+    excerpt: "“It’s almost a topsy-turvy world,” Sara Hooker, head of the nonprofit Cohere for AI and former research scientist at Google Brain, told VentureBeat. “In the public discourse, [x-risk] is being treated as if it’s the dominant view of this technology."
+    publishedDateTime: 2023-05-31T18:08:00Z
+    webUrl: "https://venturebeat.com/ai/ai-experts-challenge-doomer-narrative-including-extinction-risk-claims/"
     type: article
     provider:
-      name: KYMA
-      domain: kyma.com
-    quality: 37
-    images:
-      - url: "https://kyma.b-cdn.net/2023/05/InkOHhe2-AI-WARNING-LETTER.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Tech leaders issue dire \"extinction\" risk warning over AI"
     excerpt: "We got an alarming warning this week about artificial intelligence from some of the world's top minds on the matter, explains Dr. Manjeet Rege, chair of the department of software engineering and data science at the University of St."
     publishedDateTime: 2023-06-01T21:50:00Z
@@ -92,6 +85,24 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
+  - title: "AI: Is there a risk of human extinction?"
+    excerpt: "Artificial intelligence could lead to extinction, experts warn"
+    publishedDateTime: 2023-06-01T13:19:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p0frnnsd"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 17
+  - title: "‘Mitigating the risk of extinction’: As the capabilities of artificial intelligence grow, so do calls for regulation"
+    excerpt: "The Center for AI Safety released a statement earlier this week signed by a group of leaders in artificial intelligence about the technology’s risks: “Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks,"
+    publishedDateTime: 2023-06-01T18:53:00Z
+    webUrl: "https://www.texasstandard.org/stories/ai-artificial-intelligence-dangers-deep-fakes-chatgpt-mitigating-risk-exctinction-statement-regulation/"
+    type: article
+    provider:
+      name: Texas Standard
+      domain: texasstandard.org
+    quality: 0
 
 secured: "KpncmRYpTbwJO9HAIGQWaWBF+yEuXKm0JXfmDfg44AR8aDJkYbqhyQNNK35uEyRIAzf9CnqCp8fy+0sq9EtQyXqT7wT4N0ewFdmHDk+Os44T9Ltztqe8EDAMeqJFW1FSZSiLHBlYcdInwdjlLfsQ40oAtskVnwpT9cucG5fDc66OErVdmCU175DRbz6H4V2g80ObbjQZIZSK/JzlGSXDjrlrMgyvLLwHL+2OjDyMj59GSa6tArWONNDPYo3jMJM0H2rsLc6To4w9auCbAE+pNc15mc2wnwjXlfoC0fy1caae4W82D2QBdAt0E2lRF3TA425p1LAEkQ1Ag93DVC9Zjjuv+BkrIWroiRovO9E9dsU=;aAaKo7onth4frskCUFo70Q=="
 ---

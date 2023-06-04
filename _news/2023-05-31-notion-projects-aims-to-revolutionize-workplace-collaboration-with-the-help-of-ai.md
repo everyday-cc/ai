@@ -169,22 +169,6 @@ related:
         width: 1312
         height: 738
         isCached: true
-  - title: "CreativAI srl Launches AI Chat Master: An Innovative AI-Powered Chat Assistant App"
-    excerpt: "AI Chat Master, a powerful AI-powered chat assistant app by CreativAI srl, features natural dialogue, question answering, text generation, automatic translation, and more. AI Chat Master revolutionize"
-    publishedDateTime: 2023-05-31T01:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/ab32640081/creativai-srl-launches-ai-chat-master-an-innovative-ai-powered-chat-assistant-app"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32640081"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32640081"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Africa is Embracing the Artificial Intelligence Innovation Wave, says Experts"
     excerpt: "The rise of Artificial intelligence and its revolutionary impact on African business, society, and culture led discussions during the GITEX Africa."
     publishedDateTime: 2023-06-03T14:09:00Z

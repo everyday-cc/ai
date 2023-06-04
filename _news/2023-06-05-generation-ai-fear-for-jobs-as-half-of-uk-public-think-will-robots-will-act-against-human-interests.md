@@ -3,11 +3,11 @@ category: news
 title: "Generation AI fear for jobs as half of UK public think will robots will act against human interests"
 excerpt: "More than half of 18 to 24-year-olds are concerned about the impact of the technology on their future job prospects"
 publishedDateTime: 2023-06-04T17:17:00Z
-originalUrl: "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893"
-webUrl: "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893"
+originalUrl: "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=most_popular"
+webUrl: "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893?ico=most_popular"
 type: article
-quality: 40
-heat: 40
+quality: 20
+heat: -1
 published: false
 
 provider:
@@ -18,12 +18,22 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://wp.inews.co.uk/wp-content/uploads/2023/04/SEI_151791596-1200x630-pl-exclusive.jpg"
-    width: 1200
-    height: 630
-    isCached: true
+related:
+  - title: "Generation AI fear for jobs as half of UK public think robots will act against human interests"
+    excerpt: "More than half of 18 to 24-year-olds are concerned about the impact of the technology on their future job prospects"
+    publishedDateTime: 2023-06-04T18:06:00Z
+    webUrl: "https://inews.co.uk/news/politics/ai-fear-jobs-uk-public-robots-act-against-human-interests-2385893"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 42
+    images:
+      - url: "https://wp.inews.co.uk/wp-content/uploads/2023/04/SEI_151791596-1200x630-pl-exclusive.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "Esh4uYR47WaJ8IVVm7ua8uEP245QFmcQdXNCM05uiMTeHBK1PQNF48Ia8vEqCqA+6sm6VxJ/k9Syersv2ylwzbLZkQQd+qCaj5Zcnb7rTyysEZRB80jlz2tthNbf+suOUrUyFDBaa/U+3S5DEA5l+XsgoE5VfQs7cY+u0QnRIAPZ63bph/11kOeLM0AJZJCQxYb57BLYM62kQNCXSau3MAyJxE8i+lq2/LKY65YJmNrwrQe3s6/aoqdF+286VF2iGDKGnoG7/80iUybnjswM+RqBfV83mSw8qpwZ5/5VlUbnagdEUULzb0kFz28tQUUgQz0557bFXGjTN8Ih0ILAPh+e0+fySeIrrIwoDLgou9Y=;yzksau2AAhh5X57TlrXg2A=="
+secured: "HNRNIZdAlgWyvdyo/Kmdb04oeYsDCDtYo64FlTy3CYJLLosGp2BoECfCowQYjwyLwkTNjmwS76nhK9/FVQBNJmn8fQWyAgGgdw5WiDjhLAGUCdNdnZba1OPavbkMXbHqStzjjQVYy8ZBfjXXAX+oREi8XBo29toPFQFx0N0F6GkWt8tDxAcDuMtJDEH+mTlrVqoGIqwfu8ppjIvYGv+C7ZbcE36EcyelL4lwN2fKRQWPZHGoA64dCXEL0sVHouTltgvrylZiIjyPA1qxgcIR2t+Xi0fNiw5lGrqoQISBZrhGgZAnDvZCh2ONt3iQXHzDKTBbl2t0LeZuvMq2PAgKgx2VAHMC/BxoK2DhNPtiA0sY9KU0o7193F6i+r2Zt648oTk5hZ19tKWHX6daG5urm4VBYDWyRo9sQe6EM2UteDB8ldif0UuMC8fw5l5Pff+TAPzxiHpzzOLz8O1oa4yAPeG2qxlLYCbB1Q2xO1kStN8li3/V/+jRiHFzTTfeFyRWsHgtaOOyRD6yf3xsS4J/gg==;c+Yf1zrOpMFYHwN5JD8TrA=="
 ---
 

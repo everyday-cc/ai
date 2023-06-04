@@ -41,22 +41,6 @@ related:
         width: 660
         height: 440
         isCached: true
-  - title: "40 Medical Colleges Lost Recognition Over Last 2 Months, 100 More Might Face Same"
-    excerpt: "Around 40 medical colleges in India lost recognition due to failure to follow given rules by the National Medical Commission. 100 more medical colleges are in question."
-    publishedDateTime: 2023-05-31T04:38:00Z
-    webUrl: "https://www.outlookindia.com/national/40-medical-colleges-lost-recognition-over-last-2-months-100-more-might-face-same-news-290813"
-    ampWebUrl: "https://www.outlookindia.com/national/40-medical-colleges-lost-recognition-over-last-2-months-100-more-might-face-same-news-290813/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/40-medical-colleges-lost-recognition-over-last-2-months-100-more-might-face-same-news-290813/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 39
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1649657218.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "yZE2zjO+gP5kajoRy88aFsfQrp0WPqrEimrq18iwaXGCkhdN9vII1U2HNQBwuDE1lg+Myf5FkLvNPaaOAUYJRXUL/oZa8Myh5ucaOro1fQfGcI8rosdYWZW2znRedAnJghkL0mGGYh9V8kzUD4y44IEaeV7WHNgk/mAvw7theWYMAmw9MHxPEh3gx1bhvbt98UpQLI0/uggYI/ZF3TtNZOxL67+Z5LeGcVKyofUKihqV9GQjClnieCN1whngMe6v3h0ZgI9iL8fm0csTNMXEqIpC3zbq5TyUPO9pq39+UzuN+QXE/fJkuIRc6rIRYTuKEP+NSZWajVYbOBePp5b9C+YMkTcI32n1EO8sWH9Jbko=;lMoajIIqLK8WZFadY+c7sQ=="
 ---

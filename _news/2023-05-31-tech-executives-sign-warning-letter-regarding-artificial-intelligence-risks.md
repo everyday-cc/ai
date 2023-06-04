@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI extinction risk warning backed by OpenAI, DeepMind chiefs"
-    excerpt: "Explore the debate on AI's potential threat to humanity, featuring experts from OpenAI, Google DeepMind, and more discussing extinction risks and solutions."
-    publishedDateTime: 2023-05-31T01:38:00Z
-    webUrl: "https://thethaiger.com/news/world/ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs"
-    ampWebUrl: "https://thethaiger.com/news/world/ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs/amp"
-    cdnAmpWebUrl: "https://thethaiger-com.cdn.ampproject.org/c/s/thethaiger.com/news/world/ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs/amp"
+  - title: "AI Poses Threat To Human Existence, Experts In New Warning Letter"
+    excerpt: "But now, this recent letter reportedly endorsed by Microsoft's chief technology and science officers, as well as Demis Hassabis, CEO of Google's AI research lab DeepMind, and two Google executives who lead its AI policy efforts. The statement doesn't ..."
+    publishedDateTime: 2023-06-01T08:38:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ai-poses-threat-to-human-existence-experts-in-new-warning/453287"
     type: article
     provider:
-      name: The Thaiger
-      domain: thethaiger.com
-    quality: 74
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
     images:
-      - url: "https://thethaiger.com/wp-content/uploads/2023/05/129902572_gettyimages-1257740282.jpg"
-        width: 976
-        height: 549
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1685607676-Untitleddesign-2023-06-01T134751526.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Embracing Human Expertise: Top Jobs That Artificial Intelligence Tools Will NOT Take Away"
+    excerpt: "As the world witnesses a rapid advancement in artificial intelligence (AI) and automation, there is a growing concern about job displacement and the impact of these technologies on traditional employment sectors."
+    publishedDateTime: 2023-06-03T15:04:00Z
+    webUrl: "https://www.ibtimes.sg/embracing-human-expertise-top-jobs-that-artificial-intelligence-tools-will-not-take-away-70456"
+    ampWebUrl: "https://amp.ibtimes.sg/embracing-human-expertise-top-jobs-that-artificial-intelligence-tools-will-not-take-away-70456"
+    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/embracing-human-expertise-top-jobs-that-artificial-intelligence-tools-will-not-take-away-70456"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.sg
+    quality: 50
+    images:
+      - url: "https://data.ibtimes.sg/en/full/67980/airesilient-career.jpg"
+        width: 1170
+        height: 780
         isCached: true
   - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
     excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
@@ -55,43 +69,34 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Leading experts warn of a risk of extinction from AI"
-    excerpt: "The call for guardrails on AI systems has intensified in recent months as public and profit-driven enterprises are embracing new generations of programs."
-    publishedDateTime: 2023-05-31T16:59:00Z
-    webUrl: "https://www.ktoo.org/2023/05/31/ai-risk-extinction-chatgpt/"
+  - title: "Does AI pose the same threat as nuclear war?"
+    excerpt: "A new open letter signed by prominent figures in the tech world claims artificial intelligence (AI) carries the same risks to human life as nuclear weapons or pandemics, but digital ethicists and researchers are saying it’s all hype that ignores the technology’s real dangers and promotes a strange ideology."
+    publishedDateTime: 2023-06-01T01:31:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/does-ai-pose-the-same-threat-as-nuclear-war.html"
     type: article
     provider:
-      name: KTOO
-      domain: ktoo.org
+      name: ia.acs
+      domain: acs.org.au
     quality: 39
     images:
-      - url: "https://media.ktoo.org/wp-content/uploads/2023/05/gettyimages-1462188008-882e18cb60aa9f47fd79679ce541032789ee8e02-aspect-ratio-16-9-1536x864.jpg"
-        width: 1536
-        height: 864
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/nuclear-bomb-explode.jpg"
+        width: 1067
+        height: 600
         isCached: true
-  - title: "Tech leaders issue dire \"extinction\" risk warning over AI"
-    excerpt: "We got an alarming warning this week about artificial intelligence from some of the world's top minds on the matter, explains Dr. Manjeet Rege, chair of the department of software engineering and data science at the University of St."
-    publishedDateTime: 2023-06-01T21:50:00Z
-    webUrl: "https://www.cbsnews.com/minnesota/video/tech-leaders-issue-dire-extinction-risk-warning-over-ai/"
+  - title: "One-sentence warning on artificial intelligence"
+    excerpt: "THIS week, 80 artificial intelligence scientists and more than 200 ‘other notable figures’ signed a statement that says ‘mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as"
+    publishedDateTime: 2023-06-04T18:05:00Z
+    webUrl: "https://www.newagebd.net/article/203394/one-sentence-warning-on-artificial-intelligence"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
+      name: New Age
+      domain: newagebd.net
+    quality: 39
     images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/01/8917377a-ae18-4434-be80-f6b4fc308536/thumbnail/1200x630/b78a61166ed28cb57e3005078cbb23b7/c95574ccc46cab15c6d6f35ce3e1976f.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.newagebd.com/files/records/news/202306/203394_og.png"
+        width: 790
+        height: 452
         isCached: true
-  - title: "AI poses ‘risk of extinction’ warn industry leaders"
-    excerpt: "AI could pose an existential threat to humanity, artificial intelligence luminaries have warned, in an extraordinary one-sentence open letter, urging that it be treated with the same level of urgency as pandemic and nuclear war."
-    publishedDateTime: 2023-05-31T11:47:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/ai-poses-risk-of-extinction-warn-industry-leaders/news-story/1fdc1030037dd60fb3813436e8538a9d"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
 
 secured: "vgT2WPvgA1KMYTv1EfOpB9H4JSsXaa9GjVFJNS7zvSqijzx2u0mt5FNLfDTs/3VgCKKaLNB2aP7HYyMMUNbWQQYPAzO3NOuK7QNT+XWTvvahFjPtHtLTtQX1IxYlXgKbhS2ZCFnL0SyoRFrsJDzqRXU+6fctPlTeuaTwEUvLyppYK73k0dRJ+3C6si2cVA2atvO9p5RbQ4K3Z+hgor3fN+m9N5CxwEKxt+GSq7ScmxoXDZe29kBM8fKacwVLlCoidrJLyaW9pAQdRxVEXz5AnswxY7Iml/WM1oi5iDEkgFFQgF+bukbMD9HWqzYi/bTSsrDTMfcSk8gq6sGhMJ6Y/ztCx29cZkxcKuDE6jZovnc=;GYGC/LydbqeV2o9uexUBtA=="
 ---

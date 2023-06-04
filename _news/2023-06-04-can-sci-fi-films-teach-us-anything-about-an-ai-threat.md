@@ -3,8 +3,8 @@ category: news
 title: "Can sci-fi films teach us anything about an AI threat?"
 excerpt: "In an apocalyptic warning this week, big-name researchers cited the plot of a major movie among a series of AI \"disaster scenarios\" they said could threaten humanity's existence. Two of the three so-called \"godfathers of AI\" are worried - though the third could not disagree more, saying such \"prophecies of doom\" are nonsense."
 publishedDateTime: 2023-06-03T23:00:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-65786964"
-webUrl: "https://www.bbc.co.uk/news/technology-65786964"
+originalUrl: "https://www.bbc.co.uk/news/technology-65786964?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/technology-65786964?at_medium=RSS&at_campaign=KARANGA"
 type: article
 quality: 17
 heat: -1
@@ -33,6 +33,6 @@ related:
         height: 616
         isCached: true
 
-secured: "sVlQdIlit9QxMxgblDYFFeAPVxaqv3Tv35RfYgr7YLs1aIwo9C2dmPAvMLv+HR+hOBhUrgD1fVhYm45q2i9wylMDNOAwJX6oSm5Zidbteruyq3XhVZtgLb6YazHcABeoVKlrfo69/WGSWVONY40akJqqTFqsBgFE5jxaEIGM4XnFQrN/NLXZwBJ5tzj4iC29fVndBSoN073v51L2p2mzfrkzNsQ6ZaZ2rdOnyxxGav3NAonQQudjfwNII6PWc66jGrB5uuyMIlihbEYdJohDPaOjfBmuYOCXnG8REm4JbM3oMjX/7V0o3xfMQ1hf5jGUo2nJku3s6oueyewQQe/L7S/rjNEnG36ZjfLf21bumD5lnZYvWpS0bJAzMe43hktXfEbjxOjiyOcUHe6rDcXWo6cffvuyq08/doogyKYP6EG8oA1kQgAPVFrJ1ZRkKsWt3gB3xs7Mpc2ccbstRaCrGx0GMqtekgynhiCnkoH5wNpVf6DphjXlGn8BjyViUK5S5IuBaMlIcwol5LOs7LKZCA==;tjrwGOmddnVuOopEWaVbUg=="
+secured: "ks1CfK+Wq7YK4Y8N8BCWt1cqT8VL0F6JDNHXEsu57zFFPmjUDxu60wxXn15J0vCFP5LqdJlY//vaFmlTBUW18igimIxAuwdHtYW1WFRomBtMmIY/vjatStvLvFGX4JGT7MUtIJvpK5eXF/B3K5JazTMocONj+NCd7SQ0gr1pL2guvirjPfbobPouyZ5mSKRujq/S1BN8hJaCS8mW7CTPN7zXdixczRTQ0vmvR86ZN0kTc6EPyNnFjmF7Qg06ufLUZB8iUJBmUpWR+TliNJqdXLmzzEumPb+fyA/2cNQxUmhym3yFRPLImcFWbJhSTYA0PvwOYJHgCgwvCnef/QGo4AYO9AKebEXylGC4WqE9AretlUamxBTh7HA/UWCsCuGp1wwWL8xF6yOb+lS93g2x49A+8QWS1PNnv2wQINUoeZANWtt3jeMDCFPsFlXUstVJMwvCi6tn/DHMr4/qIJ2OodkTnIfSoFWgmf5a4UCS202mfEHGB9b8vlMzvXGYvUAaKwtktTQsp5d9pPhS5bJaBA==;aVCLensYXaohoS0smpnFtA=="
 ---
 

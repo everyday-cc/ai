@@ -33,6 +33,15 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "Ministers ‘want facial recognition technology embedded in every day policing’"
+    excerpt: "inisters are calling for facial recognition technology to be “embedded” in everyday policing, according to documents presented to the surveillance camera commissioner. Until now, police use of ..."
+    publishedDateTime: 2023-06-03T00:00:00Z
+    webUrl: "https://www.standard.co.uk/news/crime/facial-recognition-technology-policing-surveillance-camera-commissioner-b1081584.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 16
 
 secured: "97XCTEKJxygxKMMbYwC1Icwa7pXeL3fdPJn6rl8QCoPVm/dYnCnLSpjVtjb5Mv9jBHBr1W0OzFIvMeX4wYm5I+Gu61kttsAgC1SWQ94XiwO5ZFM0EYrmWf84Z5OEmGxbn4FeH++oqd9mOrbRru2x7iRpRjIRa7jOo5hPjxG2rCksw2O2a2h3XRLVB/0QhWmcUYr5LO+4WSeD/wMUTAfeHKMwRGDTWy7JR4y2vtV4mAeB1xu5vEZo7tFsQXZIUr8n1HxNAVQ+Tt7NWebwsX51aVVcLdxR6RsIIBLx7ljRsBXAKH0buZNiRMZfsikdYO2AFtTvpENf/7P/aXzGWodMbdHJzWEqkZ1+ulsxgB3GZpchH85GrxAEBiiqXmNVD643IWHbJobXReaJ6Yzb0FLbR2NWTGyv7kTobisnGe6gGAoUVZmmeVTVyREp1JMgBpP2c0TNIwypazKs7SkFOUeEh9ZznWnNmfBo3ccYID93EsC/nKayrs5jPitJkkV6p2/YCmQ+smilbE4nO2JTC+gSWQ==;IZsB/VX49aUVcox4WK0EeA=="
 ---

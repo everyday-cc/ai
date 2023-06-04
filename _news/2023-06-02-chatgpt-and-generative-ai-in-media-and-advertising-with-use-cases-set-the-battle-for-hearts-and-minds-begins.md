@@ -321,20 +321,6 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 34
-  - title: "Chinese AI chatbot firm Xiao-I eyes global market after Nasdaq IPO on ChatGPT fever"
-    excerpt: "When Yuan Hui launched his company’s first chatbot two decades ago, the world had yet to catch up on the potential of conversational artificial intelligence (AI). Today, Shanghai-based Xiao-I is worth more than US$400 million,"
-    publishedDateTime: 2023-05-31T04:20:00Z
-    webUrl: "https://www.channelnewsasia.com/business/china-xiao-i-artificial-intelligence-company-nasdaq-3527291"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 33
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--fYeRF4wY--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/05/31/china_xiao-i.png?itok=9K8E7QKU"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "This ChatGPT-inspired large language model speaks fluent finance"
     excerpt: "Mark Dredze, associate professor of computer science, discusses BloombergGPT, the first large language model built specifically for the finance industry"
     publishedDateTime: 2023-05-31T18:44:00Z

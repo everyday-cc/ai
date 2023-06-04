@@ -2,44 +2,44 @@
 category: news
 title: "What's new in robots? An AI-powered humanoid machine that writes poems"
 excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said."
-publishedDateTime: 2023-05-31T12:27:00Z
-originalUrl: "https://democratherald.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_27cf4892-da67-5bf3-989e-09afa17feb9d.html"
-webUrl: "https://democratherald.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_27cf4892-da67-5bf3-989e-09afa17feb9d.html"
+publishedDateTime: 2023-05-31T12:25:00Z
+originalUrl: "https://auburnpub.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_9358a420-8879-5c39-9798-c4bcbc0818b2.html"
+webUrl: "https://auburnpub.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_9358a420-8879-5c39-9798-c4bcbc0818b2.html"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Albany Democrat-Herald
-  domain: democratherald.com
+  name: Auburn Citizen
+  domain: auburnpub.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/democratherald.com/content/tncms/assets/v3/editorial/2/7c/27cf4892-da67-5bf3-989e-09afa17feb9d/6477381303243.preview.jpg?crop=1739%2C914%2C24%2C33&resize=1200%2C631&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/auburnpub.com/content/tncms/assets/v3/editorial/9/35/9358a420-8879-5c39-9798-c4bcbc0818b2/64773812d005e.preview.jpg?crop=1739%2C914%2C24%2C33&resize=1200%2C631&order=crop%2Cresize"
     width: 1200
     height: 631
     isCached: true
 
 related:
   - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
-    excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said."
-    publishedDateTime: 2023-06-02T10:17:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972"
+    excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
+    publishedDateTime: 2023-06-02T12:59:00Z
+    webUrl: "https://abc13.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+    ampWebUrl: "https://abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
     type: article
     provider:
-      name: ABC News
-      domain: abcnews.go.com
+      name: abc13
+      domain: abc13.com
     quality: 74
     images:
-      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
     excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
@@ -72,6 +72,6 @@ related:
         height: 399
         isCached: true
 
-secured: "GoMKI3CqQugJ3Xpwxnqhu5QMHFhpptMrSoTLu+roSLaqKvSjSZyGtUN/QF3GxpHC8WJSN8xgnSLTIVDpxvfN82TVO75dmU8yUaHbGnAOpSGvC65rRqfilPhNMzAaBsAeksc29FDy0bl6fKBQm677SmYGs7XTtMuT0Rs/d0QlhkAbPeqiDShs8aH+cTIDgZZNXBrD8OVMLAsoecS97VegXEjzBhYAljpmRKy4IfGBwAKjIfDWsFk8I6Em9IYObEmFmeIs+cXeKzSZ2OWnMtWm2/6tqpEZ1N4ekAZDYbLrd8n1WSQanpe7BrFGXRNSEcqgetfGYgvdFZ1cl4h5vNmkrdmvbm6T4wMubAhPZ8QnQHo=;2rCP4+/6g4BmaonvPdjQHA=="
+secured: "U9A2P992Wr2rquF9NZVPuVmov7+L78q5GzzSbnlYvVNV7yJh7DGUYcDuWxlvRH304e8TPyGLeqPY5KjJM2f6im7L4uz60bQAOQcB0QE41Qm36LmrL55P7vCKrje/N+C38RfTSsaB0HI9Uz1+diM4Js3tZ1xNB6B5iJiQs4Xp+czOz5YgHrUa26mTf+pAVzT4odZA2oksJhKYVkP/8/qmfgh+24b+FBeNtlEEELMYcsnaitRG2AokDy+rHMoleGFseGbk43n+PgbMdOVK+lcK8gZCisXsn9UMmXFEqVZoKnCCvpkJv+tGMiM/hgRXjJHI4cz1n1M8VJxA7JH55Wf7i3HYTSlzyiMcOA1Km1GsuEQ=;duNFAEjOJhuB1ls1hZguxg=="
 ---
 

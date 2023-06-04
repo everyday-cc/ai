@@ -55,6 +55,48 @@ related:
         width: 1170
         height: 780
         isCached: true
+  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
+    excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
+    publishedDateTime: 2023-05-31T12:32:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692579"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 49
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_54ea8aadc60d1503e5a65878219aad43_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "One-sentence warning on artificial intelligence"
+    excerpt: "THIS week, 80 artificial intelligence scientists and more than 200 ‘other notable figures’ signed a statement that says ‘mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as"
+    publishedDateTime: 2023-06-04T18:05:00Z
+    webUrl: "https://www.newagebd.net/article/203394/one-sentence-warning-on-artificial-intelligence"
+    type: article
+    provider:
+      name: New Age
+      domain: newagebd.net
+    quality: 39
+    images:
+      - url: "https://www.newagebd.com/files/records/news/202306/203394_og.png"
+        width: 790
+        height: 452
+        isCached: true
+  - title: "Tech executives sign warning letter regarding artificial intelligence risks"
+    excerpt: "The one-sentence open letter, issued by the nonprofit Center for AI Safety, is both brief and ominous, without extrapolating how the more than 300 signees foresee AI developing into an existential threat to humanity."
+    publishedDateTime: 2023-05-31T14:31:00Z
+    webUrl: "https://kyma.com/dsw-living/technology/2023/05/31/tech-executives-sign-warning-letter-regarding-artificial-intelligence-risks/"
+    type: article
+    provider:
+      name: KYMA
+      domain: kyma.com
+    quality: 37
+    images:
+      - url: "https://kyma.b-cdn.net/2023/05/InkOHhe2-AI-WARNING-LETTER.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "3ONqtTe43VrXOBkk4+kxwl3WkuGlsZJ6WE8PDWeWdhwIVBwiYnYbjFO14ndWSf+jSodGCvAFwk3vUU9PdCu1esprzX9T2DQd9D5KSMuEKduTnhhw7bntI0xpIDBSITy8C+TgBh0TLCP7+hkFhCAhRPqv+cvGiwytQnmopmNTDh3zR3KOo+WKjmtZSrHbPBCSIL9uEpTcU39nKduR+7/Y3g2z+YvDZXW5gfUmUK4NR0S+AfErHL8dLrG/ZZePOL5vGWpZVpQKgpTTQZNN+Bp67UnX3SbuxAKa3Ak0wf3nWNprmo5jJHHnHqSfCVGx0tZIxjB0xoJV2DXnKXNtVEqw6N4nK8RpIwaaOKHy0RftFZ11nJobPXe+CxYNT/xzFPYthPFXohZrMmVDWGSbOWdAhzwLZwxSL2otJd6rjKxPPivJjb1V41YAahvqLiKMtaTUyFseYWGDP6LoeJVVAwfAxgreSnOY6bmtwHQgn9wOv6Aev4dXD1HwtkiRZl8PEsvpQY4bHFbjAaRfOsC1M97QDQ==;1NvBcDn32m+FP3p+zgENNA=="
 ---

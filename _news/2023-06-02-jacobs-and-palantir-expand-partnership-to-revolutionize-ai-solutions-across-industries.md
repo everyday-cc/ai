@@ -41,22 +41,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "JazzUp AI Revolutionizes Multiple Industries with Customized Artificial Intelligence Solutions"
-    excerpt: "In a remarkable stride towards empowering industries through artificial intelligence (AI), JazzUp AI today unveiled its comprehensive suite of AI solutions. JazzUp AI's innovative productivity solutio"
-    publishedDateTime: 2023-05-31T01:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/05/ab32640180/jazzup-ai-revolutionizes-multiple-industries-with-customized-artificial-intelligence-solutions"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32640180"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32640180"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 60
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "For more than 2 years: ALSO empowers SMBs with AI solutions"
     excerpt: "Recognizing the immense potential of Artificial Intelligence (AI) for Small and Medium-sized Businesses (SMBs), the Technology Provider established its AI platform roughly two years ago to enable companies of all sizes to make the most of this groundbreaking technology."
     publishedDateTime: 2023-06-01T05:59:00Z

@@ -66,6 +66,20 @@ related:
         width: 706
         height: 593
         isCached: true
+  - title: "AI-Powered Hyro Raises $20M to Advance Responsible Artificial Intelligence-Enhanced Communications for Enterprise"
+    excerpt: "Hyro, which claims to be the leader in plug-and-play conversational AI, announced that it has finalized a $20 million Series B funding round."
+    publishedDateTime: 2023-06-04T11:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/06/208056-ai-powered-hyro-raises-20m-to-advance-responsible-artificial-intelligence-enhanced-communications-for-enterprise/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 33
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Machine-Learning-Artificial-Intelligence-AI.jpg"
+        width: 1400
+        height: 1050
+        isCached: true
 
 secured: "B8o7nUwkookYI/nqwGH6sMBlUUJijBFI2G/ANzqwdbfPn7e27qyscEZaPjtF+xUuizB7TUk+ErF9coEEdJfKMq96k/7alfdH8xeDiNl6XQUGSKG8smotE1p4qbjGjn7oVHyQMkMErlbKP5Q6ShnrRWs684oLHO3odD2XV/VsJ2ElxmsFa9014yuS66NDNrF8cOBbnNUB53jzURQUF774rmuGkTsNqJFBScuIod4GT9/Jj/jYcXyYbC5haAdpB/eRSyXdJz6LSeAMGDY/Nt0Gk2qlMgtx9lFeU+xHMLX3xrGM+fnYoyfsecYEDo6Ttj2GEmIRIthQG3QDx0G/iWDjTn6Y195Qmr25RMTMK+N3hxl1na9p+DsMplwJo7SkItcRglcT3dlomIBxWQRpiv7y0sHsRZNGsDaFI9F3GjQc1OI6RseszlwSATiyU7ZTpy02TL5HH5h2uTjJgaltoSspI0Sxe6EFWKxMiLfVDtmdLWd7Y8+CiEBX3roW4q+hePL0TYbcs9NjXSbHSvfkVP+T7Q==;zR+A7vEVf/QOfNj2HhADtQ=="
 ---

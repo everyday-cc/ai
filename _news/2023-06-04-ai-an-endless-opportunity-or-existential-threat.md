@@ -32,7 +32,7 @@ related:
   - title: "Can sci-fi films teach us anything about an AI threat?"
     excerpt: "In an apocalyptic warning this week, big-name researchers cited the plot of a major movie among a series of AI \"disaster scenarios\" they said could threaten humanity's existence. Two of the three so-called \"godfathers of AI\" are worried - though the third could not disagree more, saying such \"prophecies of doom\" are nonsense."
     publishedDateTime: 2023-06-03T23:00:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-65786964"
+    webUrl: "https://www.bbc.co.uk/news/technology-65786964?at_medium=RSS&at_campaign=KARANGA"
     type: article
     provider:
       name: BBC

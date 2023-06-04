@@ -1,27 +1,29 @@
 ---
 category: news
 title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
-publishedDateTime: 2023-06-01T09:31:00Z
-originalUrl: "https://www.local10.com/business/2023/06/01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
-webUrl: "https://www.local10.com/business/2023/06/01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
+excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
+publishedDateTime: 2023-06-01T13:10:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+webUrl: "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
 type: article
-quality: 33
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: WPLG
-  domain: local10.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - Facebook AI
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SIQQ7UVKUNDXRHQQE2TFZQO3RU.jpg?_a=ATCqVhC0"
-    width: 700
-    height: 467
+  - url: "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -112,15 +114,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 18
-  - title: "AI is scary. Here are 10 things we can do to keep it under control"
-    excerpt: "If it seems artificial intelligence is the biggest technological advancement in history, that’s because it is."
-    publishedDateTime: 2023-05-31T02:14:00Z
-    webUrl: "https://www.northjersey.com/story/tech/2023/05/30/10-things-to-do-so-we-dont-lose-control-over-artificial-intelligence/70269866007/"
-    type: article
-    provider:
-      name: NorthJersey.com
-      domain: northjersey.com
-    quality: 17
   - title: "Clalit Health Services plans to use Artificial Intelligence and Machine Learning to further enhance patient care"
     excerpt: "Liora Shechter, VP Digital & Technology, Clalit Health Services, said, \"We will use Cloudera Data Platform to apply real time interfaces, artificial ... approach to healthcare delivery and its ..."
     publishedDateTime: 2023-05-31T10:23:00Z
@@ -131,6 +124,6 @@ related:
       domain: morningstar.com
     quality: 15
 
-secured: "tdw7Z+xG6VaYlNGKhZY8o8MS3qbQ6m567G5/kpqjINWpAkUPsgsfWWkdWooxR1ToY143/X2pu6jyjDY2bjSQEaXe1Goci6f/nBHZaejEhKSB6jzIMa9ll71Lv7fzJYdBwbfveKOCTrP4YaxgeZuFLq04Vlgr+iC448hyKiZfzSf4VWrgwMHt6pa3jfbwqEQ5VS1Hr5LqCCGIKH5FsKvJPSPLzDyNqRffDHxeyUyMdup/BWUm+hCZoXK2/hpHqUI+aQf8IynQOkQubYXHq4l2u0SoHBQ+txq77jKJXHnu+7rDlFREfpoGlhTV67YVmiVWwmoOPaR++/ZV9mpCPaCkhlDBAmnMBSmglEBTFmHZekY=;Y+57z+J0Qi2WmUY0B5uQ6A=="
+secured: "wkZ0oCzPAJaglWHEN5xvYTo9o2GH1ntKfcNcDqyjHf2iK8SM/3Gt4bPdlEQf6hjAf65oYE3GbTb0uXBGYR77c033y9U5u27A00T3sur+vtI20GjILR7AsGxlXfdRY72zXMZhriLkpS2+0Aop0YQYbSyY60KvUMZRWFyZkxcZhynsKxW76xzlc+HGsOERDEeKHhF4EqPz23lcpfRstoyYerQpLQzc3Nog0Wryf6293xZCXcKR5gWaAaTErE2wna6AJFxuUb6QtnIazHH19E0rvyLcXu64FnY0eZFj683cHMsH8q7tTDf4ZJxiFG/EIqbtgfBWIL3mMImp7+vzsZRm4EJF01+ExCWmWo8I+Dcjhmw=;I0KItesaiQuYGjrX5uft9g=="
 ---
 

@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Ministers ‘want facial recognition technology embedded in every day policing’"
+    excerpt: "inisters are calling for facial recognition technology to be “embedded” in everyday policing, according to documents presented to the surveillance camera commissioner. Until now, police use of ..."
+    publishedDateTime: 2023-06-03T00:00:00Z
+    webUrl: "https://www.standard.co.uk/news/crime/facial-recognition-technology-policing-surveillance-camera-commissioner-b1081584.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 16
   - title: "Irish police watchdog warns of facial recognition abuse, UK police defends the technology"
     excerpt: "The police watchdog said that they will need significant funds to track potential abuse of facial recognition technology and body-worn cameras by the police."
     publishedDateTime: 2023-06-02T18:18:00Z
