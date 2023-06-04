@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-and-these-6-tech-giants
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8"
 type: article
 quality: 89
-heat: 259
+heat: 239
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://media.cnn.com/api/v1/images/stellar/prod/230525103431-20230525-perils-of-ai-power-on.jpg?c=16x9&q=w_800,c_fill"
         width: 800
         height: 450
-        isCached: true
-  - title: "Why Nvidia, C3.ai, and Qualcomm Stocks Keep Going Up"
-    excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services."
-    publishedDateTime: 2023-05-30T15:53:00Z
-    webUrl: "https://www.fool.com/investing/2023/05/30/why-nvidia-c3ai-and-qualcomm-stocks-keep-going-up/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/734387/semiconductor-computer-chip-with-the-letters-ai-in-the-middle.jpg"
-        width: 2190
-        height: 1369
         isCached: true
   - title: "Lisa Su Saved AMD. Now She Wants Nvidia's AI Crown"
     excerpt: "AMD's CEO orchestrated one of the great turnarounds in Silicon Valley history, driving the dying semiconductor maker's stock price up nearly 30-fold in less than a decade. Now she's preparing for battle in the coming AI revolution—and she expects to keep winning."
@@ -104,20 +90,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9941/production/_129933293_gettyimages-1258278958.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "NVIDIA is now worth $1 trillion - and it's all about AI, not gaming GPUs"
-    excerpt: "NVIDIA is making so much cash from its AI chips, will GeForce gaming graphics cards become increasingly less of a priority? That's not"
-    publishedDateTime: 2023-05-30T15:42:00Z
-    webUrl: "https://www.tweaktown.com/news/91657/nvidia-is-now-worth-1-trillion-and-its-all-about-ai-not-gaming-gpus/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 55
-    images:
-      - url: "https://static.tweaktown.com/news/9/1/91657_01_nvidia-is-now-worth-1-trillion-and-its-all-about-ai-not-gaming-gpus_full.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "AI Stocks Soar as Nvidia Joins Trillion-Dollar Club"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: shutterstock.com/Victor Runov Despite a soft opener in the equities"

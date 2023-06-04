@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-inte
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/"
 type: article
 quality: 104
-heat: 197
+heat: 198
 published: true
 
 provider:

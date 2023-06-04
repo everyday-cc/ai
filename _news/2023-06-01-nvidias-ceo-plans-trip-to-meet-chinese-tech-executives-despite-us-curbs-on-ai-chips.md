@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips"
 type: article
 quality: 97
-heat: 197
+heat: 187
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20230531&t=2&i=1634411747&r=LYNXMPEJ4U0Q7&w=800"
         width: 800
         height: 508
-        isCached: true
-  - title: "Inside Nvidia's new AI supercomputer"
-    excerpt: "Nvidia's Grace Hopper CPU/GPU combo underpins its supercomputer the company claims can crank out nearly an exaFLOP of AI performance."
-    publishedDateTime: 2023-05-30T15:31:00Z
-    webUrl: "https://www.networkworld.com/article/3697655/inside-nvidias-new-ai-supercomputer.html"
-    ampWebUrl: "https://www.networkworld.com/article/3697655/inside-nvidias-new-ai-supercomputer.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3697655/inside-nvidias-new-ai-supercomputer.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/22/17/nvidia-hopper-100922537-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 702
         isCached: true
   - title: "NEWSMAKER-Nvidia CEO Jensen Huang: Boss of trillion-dollar chip firm powering the AI boom"
     excerpt: "But Huang recognized that university labs were using his chips for work in AI, a niche n computer science that held promise of powering everything from virtual assistants to self-driving cars. At the time,"

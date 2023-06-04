@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/google-shareholders-meeting-ai-algor
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-shareholders-meeting-ai-algorithmic-transparency-2023-6?amp"
 type: article
 quality: 77
-heat: 77
+heat: 79
 published: true
 
 provider:

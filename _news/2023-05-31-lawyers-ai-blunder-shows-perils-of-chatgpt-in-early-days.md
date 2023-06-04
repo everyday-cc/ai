@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 652
         isCached: true
-  - title: "ChatGPT vs Bing Chat vs Google Bard: Which is the best AI chatbot?"
-    excerpt: "GPT-4 is the largest LLM available for use when compared to all other AI chatbots. GPT-4 has over 100 trillion parameters; GPT-3.5 has 175 billion parameters. More parameters means that, essentially, the model is trained on more data, which makes it more likely to answer questions correctly."
-    publishedDateTime: 2023-05-30T16:26:00Z
-    webUrl: "https://www.zdnet.com/article/chatgpt-vs-bing-chat-vs-google-bard-which-is-the-best-ai-chatbot/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-vs-bing-chat-vs-google-bard-which-is-the-best-ai-chatbot/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-vs-bing-chat-vs-google-bard-which-is-the-best-ai-chatbot/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/3a48a084a7a93ad8c86dde1b9665b51646afbb96/2023/05/24/198d2750-d626-47a5-beca-9735824020a7/versus.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Funding for cloud-based generative AI"
     excerpt: "Get ready for the rush of generative AI applications heading your way in 2024, but watch out for the size of the bill. Who is going to pay for it?"
     publishedDateTime: 2023-06-02T09:04:00Z
@@ -197,20 +181,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "UK startup taps ChatGPT to launch AI playlist generator"
-    excerpt: "A UK startup has tapped ChatGPT to build a text-to-music playlist generator. The AI system is the brainchild of Uppbeat, an audio platform based in Leeds. Targeting content creators, the feature finds copyright-free tracks for video soundtracks."
-    publishedDateTime: 2023-05-30T15:47:00Z
-    webUrl: "https://thenextweb.com/news/uk-startup-uppbeat-taps-chatgpt-to-launch-ai-text-to-music-playlist-generator"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2FUntitled-design-6-1.jpg&signature=5a484168b068ec4ec7870faeb2d42768"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Alibaba to Build ChatGPT-Like AI Into Meeting, Messaging Apps"
     excerpt: "Alibaba Group Holding Ltd. is integrating its most advanced artificial intelligence system into its Slack-like DingTalk messaging app and a meeting assistant named Tingwu."
     publishedDateTime: 2023-06-01T02:15:00Z
@@ -289,22 +259,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Should artificial intelligence be regulated by a U.S. or global body? The head of ChatGPT thinks so"
-    excerpt: "OpenAI CEO Sam Altman speaks before a Senate judiciary subcommittee on privacy, technology and the law hearing on artificial intelligence on Capitol Hill on Tuesday. (Patrick Semansky/The ..."
-    publishedDateTime: 2023-05-30T16:49:00Z
-    webUrl: "https://www.cbc.ca/news/world/artificial-intelligence-regulated-1.6845389"
-    ampWebUrl: "https://www.cbc.ca/amp/1.6845389"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6845389"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 45
-    images:
-      - url: "https://i.cbc.ca/1.6845407.1684268021!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/congress-openai-ceo.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Microsoft Build 2023: Bing AI and Copilot Plugins for ChatGPT OpenAI, Microsoft Fabric and More"
     excerpt: "This year's Microsoft Build was focused on artificial intelligence, with new Copilot experience additions for Windows 11 and Edge, as well as new Bing AI and Copilot plugins for ChatGPT OpenAI. Key announcements also included the Microsoft Fabric analytics platform,"
     publishedDateTime: 2023-06-02T07:05:00Z

@@ -3,10 +3,10 @@ category: news
 title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
 excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
 publishedDateTime: 2023-06-01T13:10:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
-webUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+originalUrl: "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+webUrl: "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
 type: article
 quality: 68
 heat: -1
@@ -124,6 +124,6 @@ related:
       domain: morningstar.com
     quality: 15
 
-secured: "NSL1l54hnHclcxn8BiLGYQC4kwbzXl/gltRKUGlcnJ67uRzs/vxEi5MU6PbyajzuUkVg27xkT5lLlLKBEKmb9vTMC800OkPuRxnwHBcnPyZiHRcdKSbKfx9g9F5fLM+2nBR+o9ZNtTwHRxCUzSRalKyuHxpBAXMlOOCRqZitoqPSMeLx2boPAcfihpsd98/nHFaV8YpL1gQWiqiOnTsEBhiKsgjqarc6FhwM2nPwfKz++U+7x40oHOGY/+syUwkh9Cf6zSa6QMCz+JdUtYIJQ4OJoseQUYFC7Wg+nkUj0dHNRuUpkV+wJHhxRrp2Vp5cWFgmnje5TbBvLJNMqhGwMlcdPuA+kt8ayGSkwf9Doj0=;fsVfAcscVa/tuqLtO+INeA=="
+secured: "pbfoKesVN1VxTh7CTBQAhXdXC/gTqYOUrnw6FxNnUI20LR8pU0vveO3AAl/wTH4QOE+gxnpW9JuTldPIjLqCrHv0wqC6Sf/BxDvKfRqdoEJqDQRs+wu8W52JVHRf1Gp4796gVKXRVebOv3+nqoMHMF/ASxxG4nf4YyVgH7Cf29tjrybSSc3aokouwUEvRzdH8D/BZqfKUw5hOU1tqdKJcsBTfi4cLZfDtWZYiWkkW+FnlQ+kS3zm4zOubU6PfR8tODShsWm7SV3LHrWDHY3cOG1rzAK7wNJQo8fUMIifhP87RMNkYq3UECWdk5dxXbkdYvkm/wj4N14tQkODtFedSnMV2KrF3eK1X7N0HHpon2c=;/p/lJeDsjZrR7CBQWK1d6Q=="
 ---
 

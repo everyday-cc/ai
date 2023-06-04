@@ -48,22 +48,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "How ‘Automation Bias’ Plus Artificial Intelligence Can Lead To Medical Misdiagnoses"
-    excerpt: "The machine does not always know where it’s going! Automation bias is when humans trust the results of a machine, even over the evidence of their senses and knowledge."
-    publishedDateTime: 2023-05-30T16:27:00Z
-    webUrl: "https://www.forbes.com/sites/paulhsieh/2023/05/30/how-automation-bias-plus-artificial-intelligence-can-lead-to-medical-misdiagnoses/"
-    ampWebUrl: "https://www.forbes.com/sites/paulhsieh/2023/05/30/how-automation-bias-plus-artificial-intelligence-can-lead-to-medical-misdiagnoses/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulhsieh/2023/05/30/how-automation-bias-plus-artificial-intelligence-can-lead-to-medical-misdiagnoses/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647622e2daa10678ac569955/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "SECgqD1vH2cw18y5ODP2AtrQvUl7mZouz140TChMO22diX16Vqa8OAsU37peZpbfbxNwsPgyf0QBPFY50OUl2UZSYg9nU1jsJnb48dYSGLlCfHAdi2ws2v3LAiX2p2zfaonSLxylQtE4GH5NVhXDZNHIkoXMJfOqTLDMBMtglNcxotAwIS+txaYvqwAf4zrQrNrrOtlW1FGnAzoWS6zpgM37lfs08AIeFp6KvOHPPEKIWAOae/p5CkrkKxkMjp/KFvJHWGwDvAQnByfzcUlENk9B+aK/+MiFVJIN4l/oP2vETmWxeJytYE+8wi8zYsy450XsLS5KPbmzLUCFDBEHb7tXs3vg4Us9wjNG1FDYWbc=;OyGEWkbT0v8D+n1eBozRmg=="
 ---

@@ -2,6 +2,161 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-05-04-joe-biden-wants-hackers-help-to-keep-ai-chatbots-in-check.md",
+      "title": "Joe Biden Wants Hackers’ Help to Keep AI Chatbots In Check",
+      "excerpt": "The White House will support an event at the Defcon security conference this summer that challenges experts to uncover flaws in generative AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/",
+      "originalUrl": "https://www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6452fde252bb92d7ad7c2fde/master/pass/AI_Biz_GettyImages-1486928284.jpg",
+          "width": 2157,
+          "height": 1618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/joe-biden-hackers-chatgpt-ai-chatbots/amp",
+      "publishedDateTime": "2023-05-04T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-lack-of-ai-and-automation-adoption-hinders-employee-productivity-slack-report.md",
+      "title": "Lack of AI and automation adoption hinders employee productivity: Slack report",
+      "excerpt": "A new Slack report finds companies that have embraced AI are 90% more likely to report increased productivity levels than those that have not.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/lack-of-ai-and-automation-adoption-hinders-employee-productivity-slack-report/",
+      "originalUrl": "https://venturebeat.com/ai/lack-of-ai-and-automation-adoption-hinders-employee-productivity-slack-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/01/IMG_6947-e1683154170277.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/lack-of-ai-and-automation-adoption-hinders-employee-productivity-slack-report/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/lack-of-ai-and-automation-adoption-hinders-employee-productivity-slack-report/amp/",
+      "publishedDateTime": "2023-05-04T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-04-these-robot-dogs-cant-bark-but-they-can-speak-in-full-sentences-thanks-to-chatgpt.md",
+      "title": "These robot dogs can't bark — but they can speak in full sentences thanks to ChatGPT",
+      "excerpt": "Boston Dynamics' robot dogs can now verbally respond in \"plain English\" when asked to describe their previous and future tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/boston-dynamics-robot-dogs-can-speak-full-sentecnes-ai-chatgpt-2023-5",
+      "originalUrl": "https://www.businessinsider.com/boston-dynamics-robot-dogs-can-speak-full-sentecnes-ai-chatgpt-2023-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6452919af6389a0018ef54d5?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/boston-dynamics-robot-dogs-can-speak-full-sentecnes-ai-chatgpt-2023-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/boston-dynamics-robot-dogs-can-speak-full-sentecnes-ai-chatgpt-2023-5?amp",
+      "publishedDateTime": "2023-05-04T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-04-gpt-based-ai-neural-network-decodes-brain-activity-without-surgery.md",
       "title": "GPT-based AI Neural Network Decodes Brain Activity without Surgery",
       "excerpt": "This research can help patients with conditions such as locked-in syndrome, where patients are unable to communicate due to paralysis",
@@ -1074,118 +1229,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-nippon-life-selects-h2oai-to-transform-its-insurance-business-with-machine-learning-and-improve-customer-health.md",
-      "title": "Nippon Life Selects H2O.ai to Transform Its Insurance Business With Machine Learning and Improve Customer Health",
-      "excerpt": "\"AI is transforming the trillion dollar healthcare insurance industry, both the businesses themselves and the care they facilitate,\" said Sri Ambati, CEO and founder of H2O.ai. \"By helping Nippon Life advance their AI initiatives and create better customer experiences,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/05/03/9807216.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/05/03/9807216.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-researchers-detect-and-classify-multiple-objects-without-images.md",
-      "title": "Researchers detect and classify multiple objects without images",
-      "excerpt": "Researchers have developed a new high-speed way to detect the location, size and category of multiple objects without acquiring images or requiring complex scene reconstruction. Because the new approach greatly decreases the computing power necessary for object detection,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-05-multiple-images.html",
-      "originalUrl": "https://phys.org/news/2023-05-multiple-images.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-04-use-a-pre-trained-model.md",
-      "title": "Use a pre-trained model",
-      "excerpt": "In this tutorial you'll explore an example web application that demonstrates transfer learning using the TensorFlow.js Layers API. The example loads a pre-trained model and then retrains the model in the browser. The model has been pre-trained in Python on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/js/tutorials/conversion/pretrained_model",
-      "originalUrl": "https://www.tensorflow.org/js/tutorials/conversion/pretrained_model",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-03T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

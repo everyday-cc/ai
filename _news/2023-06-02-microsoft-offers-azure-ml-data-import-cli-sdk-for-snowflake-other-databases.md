@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.amp.html"
 type: article
 quality: 118
-heat: 169
+heat: 168
 published: true
 
 provider:

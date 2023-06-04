@@ -7,7 +7,7 @@ originalUrl: "https://www.kbc.co.ke/ibm-launches-watsonx-to-power-next-generatio
 webUrl: "https://www.kbc.co.ke/ibm-launches-watsonx-to-power-next-generation-ai-foundation-models-for-businesses/"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
-    excerpt: "Automation Anywhere today announced it is working with Amazon Web Services (AWS) to bring intelligent automation and"
-    publishedDateTime: 2023-06-01T16:38:00Z
-    webUrl: "https://www.datanami.com/this-just-in/automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 13
 
 secured: "Oy4/5YO5Tk677rSD7GqeQP3mEyXsYfCqQbLXAlcXmhZF64hOC+8gPTg6HDrr/HtgYkiCzKYIv4nVLeJJJuPChzFanEXCp9iMPHJq0S+34P7e+xXf7EZuVF11mF6YwKxX+Cm0cKXuCVpXgcm85PRv6IWzqmAwAjZR/GKXva4PYYILrqC16uCSJ554VBANZG67d/Vh0H4Z54TttJqDIKUo/OzFqRqIT6SvCYRSLQuXW/wjCWm7v0C/JFjMk5li5dHN7/gdB0HAVgkfNuV6Gqggtzdp3SdMj+hnZv6Nm/diSfnSbIWLs/d1B3eha1gVA3nOoaP3LdFrC2ZRVbz7YuoOeKo58cNZeGXGsSaLMVtjUZZLnoQPIDjjpicac7te15RP3PACPPs8F/IuMlFrEJp03g1FAPizKmS32ZpADYLPIbtpXrZ6sdkyesgUMCfF5vx3a19I1mNtDsmLOWY4LpXmJ8g4hBWxt7/t82VDoXo6WDN4HRA+AU/9bXrgt10ZKRXSiNOsvCpBy3le4yVE170Fkw==;qPfaj5zQIut/APolB4f26Q=="
 ---

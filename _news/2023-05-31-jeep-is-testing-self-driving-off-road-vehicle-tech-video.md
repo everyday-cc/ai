@@ -47,20 +47,6 @@ related:
         width: 1274
         height: 715
         isCached: true
-  - title: "Jeep is working on off-road self-driving and I’m here for it"
-    excerpt: "I was just in Utah and had a chance to take a Jeep off-road for the first time. It was a nerve-racking and exciting experience"
-    publishedDateTime: 2023-06-02T15:10:00Z
-    webUrl: "https://bgr.com/tech/jeep-is-working-on-off-road-self-driving-and-im-here-for-it/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 24
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/jeep-delf-driving.jpg?quality=82&strip=all"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "atrAw3ga5SaZ8aR05hjI089Bo3XrUtiBWSvLI7qGDo0XGGvYYv0UtqQV1Sej8GTM9tNFJ02/WXaDNpltAUdkGJk2AbwCz18VczQffjLoAyhybEUoPHeH6N60I/tQOZfGUjKxw2CW1mDLPns5TNcQVcvXmjRFeUA5uLZMLeH5qQ8SonanVJaQHlcMt0y3QQb4pV1Dw1jMKUII5V0vWyndW2GsTf1WsA5BpZWK8v6hvymCeSVKtIlq9qkPD5O58sap2al5hLe+UZ/Z+06V4LMfEYO63AtMrwjdxKTadX3rY1H23lRJPaSA+6CSgI2Ok50FljrE6fHQuP1uFfReX6X6FB8L8ApW1drDd8FwChRe8XpjCjwNlgKNqg91Lmsis/7fwnpWoFEn81dPyBXy7sBef2ajyBHl3GsvXUB7fFkS/KSZGxSXPNG6VsN+moMorDNySuKEjOi/MY3P+evmtn2xiTIkU3D58WFqp5Cewph1eMkRAIzX5y3TFBc+D6qXVe+NqAnJm9XLVstr5VwHxpJtww==;3kSwe8QQwlWcArpE6aYtiA=="
 ---

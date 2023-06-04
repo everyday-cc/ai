@@ -55,15 +55,6 @@ related:
         width: 874
         height: 583
         isCached: true
-  - title: "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
-    excerpt: "Automation Anywhere today announced it is working with Amazon Web Services (AWS) to bring intelligent automation and"
-    publishedDateTime: 2023-06-01T16:38:00Z
-    webUrl: "https://www.datanami.com/this-just-in/automation-anywhere-and-aws-bring-the-power-of-generative-ai-to-mission-critical-mainstream-enterprise-processes/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 13
 
 secured: "8rQCdr/GbDSMUqOptJnVf/0BQ6DD7Mxyq3Hjf0WmkF2crEP+P1DwiTKGdFC8U+ztz/Sxbxj+vRrg/ASgnfpK4ZkgIwLKGMVUsV4wkfYyAv44IZewcdzFqc62rN+G0jh8pyt7uUAuViyhb1cJbI3Ov9jqcf4ya42H0ACuzh2g/KdJ+jDbU9Ju9osxKTA135nNOPQlCzQWkOHYU1NYQRPML/WuVkiBIoZM7DdhPiOGfP/HdBK0Rfx9kbbVttfkK2DHpHHjvyFg59aoHSUiFwAQdyJvIQqx5mt2cO1JEn8b5Bb66p4q/HYjGmNYDeEds8mc6tIvm3KOROXwtHqKB4LVomHo7u9rvB5okkcme8pQRXI=;3OppFwneW1VzEL0R7NPHkA=="
 ---

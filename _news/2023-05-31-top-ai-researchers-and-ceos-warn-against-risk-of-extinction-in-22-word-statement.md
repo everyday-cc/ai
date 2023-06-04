@@ -151,38 +151,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Artificial intelligence could lead to extinction, experts warn"
-    excerpt: "Artificial intelligence could lead to the extinction of humanity, experts - including the heads of OpenAI and Google Deepmind - have warned. Dozens have supported a statement published on the webpage of the Centre for AI Safety."
-    publishedDateTime: 2023-05-30T16:32:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-65746524?at_ptr_name=facebook_page&at_medium=social&at_link_type=web_link&at_link_origin=BBC_News&at_campaign_type=owned&at_link_id=73422F66-FEEE-11ED-B559-B5127F934D9D&at_bbc_team=editorial&at_campaign=Social_Flow&at_format=link"
-    ampWebUrl: "https://www.bbc.co.uk/news/uk-65746524.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-65746524.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/18178/production/_129908689_index-pic_sam_altman_getty.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Risk of extinction by AI should be global priority, say experts"
-    excerpt: "Hundreds of tech leaders call for world to treat AI as danger on par with pandemics and nuclear war"
-    publishedDateTime: 2023-05-30T16:10:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/30/risk-of-extinction-by-ai-should-be-global-priority-say-tech-experts"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/may/30/risk-of-extinction-by-ai-should-be-global-priority-say-tech-experts"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/may/30/risk-of-extinction-by-ai-should-be-global-priority-say-tech-experts"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/581f44050956b22bf7e260f66717dd25e9cb4d40/0_917_8000_4800/master/8000.jpg?width=620&quality=85&auto=format&fit=max&s=89ad92c06367fea1c01db6b5d2285a84"
-        width: 620
-        height: 372
-        isCached: true
   - title: "EU officials to meet OpenAI CEO again in June over AI laws"
     excerpt: "The meeting, which is most likely to take place in San Francisco, will see the two parties discuss how OpenAI will implement the EU’s AI regulations that will come into effect in 2026."
     publishedDateTime: 2023-05-31T03:48:00Z
@@ -198,22 +166,6 @@ related:
       - url: "https://images.techhive.com/images/article/2017/01/p029684001801-819244-100706761-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 552
-        isCached: true
-  - title: "AI could pose \"risk of extinction\" akin to nuclear war and pandemics, experts say"
-    excerpt: "Leaders from OpenAI, Google and others involved in artificial intelligence are warning about its potential for societal harm."
-    publishedDateTime: 2023-05-30T16:44:00Z
-    webUrl: "https://www.cbsnews.com/miami/news/ai-risk-of-extinction-warning/"
-    ampWebUrl: "https://www.cbsnews.com/amp/miami/news/ai-risk-of-extinction-warning/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/ai-risk-of-extinction-warning/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 52
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/30/b6bee73f-614d-4bf4-9c9c-236b40f793e1/thumbnail/1200x630/b67df9a2ab281f01fdb948a3e3cbd506/gettyimages-1257903926.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Artificial intelligence raises risk of extinction, experts warn"
     excerpt: "Hundreds of leading figures have signed a statement saying it should be a global priority to address what AI is capable of before it's out of control."
@@ -268,20 +220,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Artificial intelligence could one day cause human extinction, center for AI safety warns"
-    excerpt: "Worries about artificial intelligence systems outsmarting humans and running wild have intensified with the rise of a new generation of highly capable AI chatbots such as ChatGPT."
-    publishedDateTime: 2023-05-30T16:52:00Z
-    webUrl: "https://www.azcentral.com/story/tech/news/2023/05/30/ai-may-cause-human-extinction-experts-warn/70269260007/"
-    type: article
-    provider:
-      name: AZ Central
-      domain: azcentral.com
-    quality: 45
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/05/27/NOKL/d325769a-e0c6-4e71-9a68-4053f00561ba-AP23136685324254.jpg?auto=webp&crop=5745,3232,x0,y292&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI industry and researchers sign statement warning of ‘extinction’ risk"
     excerpt: "Dozens of AI industry leaders, academics and even some celebrities on Tuesday called for reducing the risk of global annihilation due to artificial intelligence, arguing in a brief statement that the threat of an AI extinction event should be a top global priority."
     publishedDateTime: 2023-05-30T19:35:00Z

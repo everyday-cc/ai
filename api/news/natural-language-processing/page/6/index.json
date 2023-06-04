@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-28-closer-look-voice-typing-in-windows-11closer-look-voice-typing-in-windows-11.md",
+      "title": "Closer Look: Voice typing in Windows 11Closer Look: Voice typing in Windows 11",
+      "excerpt": "For other languages, Microsoft has recommended the use of Windows Speech Recognition instead. Voice typing settings in Windows 11 With Windows 11, the first thing I noticed was that Microsoft has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/closer-look-voice-typing-in-windows-11/",
+      "originalUrl": "https://www.neowin.net/news/closer-look-voice-typing-in-windows-11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2021/10/1634794841_vt3_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/closer-look-voice-typing-in-windows-11/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/closer-look-voice-typing-in-windows-11/",
+      "publishedDateTime": "2023-03-27T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-27-can-a-machine-know-that-we-know-what-it-knows.md",
       "title": "Can a Machine Know That We Know What It Knows?",
       "excerpt": "Dr. Ullman noted that machine learning researchers have struggled over the past couple of decades to capture the flexibility of human knowledge in computer models. This difficulty has been a “shadow finding,” he said, hanging behind every exciting ...",

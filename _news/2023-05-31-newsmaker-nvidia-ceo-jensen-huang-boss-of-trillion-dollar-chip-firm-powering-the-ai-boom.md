@@ -63,22 +63,6 @@ related:
         width: 800
         height: 508
         isCached: true
-  - title: "Inside Nvidia's new AI supercomputer"
-    excerpt: "Nvidia's Grace Hopper CPU/GPU combo underpins its supercomputer the company claims can crank out nearly an exaFLOP of AI performance."
-    publishedDateTime: 2023-05-30T15:31:00Z
-    webUrl: "https://www.networkworld.com/article/3697655/inside-nvidias-new-ai-supercomputer.html"
-    ampWebUrl: "https://www.networkworld.com/article/3697655/inside-nvidias-new-ai-supercomputer.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3697655/inside-nvidias-new-ai-supercomputer.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/22/17/nvidia-hopper-100922537-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 702
-        isCached: true
   - title: "NVIDIA: From Chipmaker to Trillion-Dollar AI Powerhouse"
     excerpt: "From being a renowned chipmaker for computer graphics to an industry titan momentarily reaching a trillion-dollar valuation, Nvidia's journey is one for the business books. This rapid ascent is a testament to the growing significance of artificial intelligence (AI) in shaping the future of technology."
     publishedDateTime: 2023-05-31T21:19:00Z

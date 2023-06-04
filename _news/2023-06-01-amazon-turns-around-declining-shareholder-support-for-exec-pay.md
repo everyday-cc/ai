@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/2023/05/30/amazon-turns-around-declining-share
 webUrl: "https://www.law.com/2023/05/30/amazon-turns-around-declining-shareholder-support-for-exec-pay/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Turns Around Declining Shareholder Support for Exec Pay"
-    excerpt: "The tech giant launched a shareholder-outreach effort last year after support for its executive compensation plunged to 56%, down from 97% in 2019. That push appears to have won over some investors."
-    publishedDateTime: 2023-05-30T16:02:00Z
-    webUrl: "https://www.law.com/corpcounsel/2023/05/30/amazon-turns-around-declining-shareholder-support-for-exec-pay/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 24
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/390/2023/04/Amazon-Warehouse-Sign-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
   - title: "Amazon Turns Around Declining Shareholder Support for Exec Pay"
     excerpt: "The tech giant launched a shareholder-outreach effort last year after support for its executive compensation plunged to 56%, down from 97% in 2019. That push appears to have won over some investors."
     publishedDateTime: 2023-05-30T17:39:00Z

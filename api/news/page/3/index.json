@@ -2,6 +2,99 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-01-ibm-cloud-databases-for-elasticsearch-end-of-life-and-pricing-changes.md",
+      "title": "IBM Cloud Databases for Elasticsearch End of Life and pricing changes",
+      "excerpt": "There is action required before November 30, 2023, for your Elasticsearch version 7.9 and 7.10 deployments. On November 30, these versions will be End Of Life.\nThe post IBM Cloud Databases for Elasticsearch End of Life and pricing changes appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-cloud-databases-for-elasticsearch-end-of-life-and-pricing-changes/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-cloud-databases-for-elasticsearch-end-of-life-and-pricing-changes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T06:06:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-01-how-krista-software-helped-zimperium-speed-development-and-reduce-costs-with-ibm-watson.md",
+      "title": "How Krista Software helped Zimperium speed development and reduce costs with IBM Watson",
+      "excerpt": "Successful businesses are embracing the power of AI to help streamline operations, generate insights, boost productivity and drive more value for clients. However, for many enterprises, the barrier to entry for integrating trustworthy, scalable and transparent AI remains high. In fact, 80% of enterprise",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-krista-software-helped-zimperium-speed-development-and-reduce-costs-with-ibm-watson/",
+      "originalUrl": "https://www.ibm.com/blog/how-krista-software-helped-zimperium-speed-development-and-reduce-costs-with-ibm-watson/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/How-Krista-Software-helped-Zimperium-speed-development-and-reduce-costs-with-IBM-Watson-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-secs-climate-disclosure-rule-proposal-explained.md",
       "title": "SEC’s climate disclosure rule proposal explained",
       "excerpt": "The Securities and Exchange Commission&#160;(SEC) has issued a&#160;rule proposal&#160;to standardize the way organizations make climate-related disclosures. The rule proposal would require US publicly traded companies to disclose annually how their businesses are assessing, measuring and managing climate-related",
@@ -701,7 +794,7 @@
       "originalUrl": "https://www.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -1039,6 +1132,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-01-secrets-of-using-ai-and-data-to-supercharge-customer-engagement.md",
+      "title": "Secrets of using AI and data to supercharge customer engagement",
+      "excerpt": "Twilio’s State of Personalization Report found that 92% of companies are already using AI to power personalization to some degree.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/secrets-of-using-ai-and-data-to-supercharge-customer-engagement/",
+      "originalUrl": "https://venturebeat.com/ai/secrets-of-using-ai-and-data-to-supercharge-customer-engagement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/05/AdobeStock_370808984.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-aws-picks-biotech-startup-for-ai-accelerator-program.md",
       "title": "AWS picks biotech startup for AI accelerator program",
       "excerpt": "Ordaos, a drug design company, was selected for the AWS Generative AI Accelerator, a mentorship program for companies working with generative artificial intelli",
@@ -1079,155 +1224,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-the-founder-of-artificial-intelligence-sounds-the-alarm-4-major-risks-you-need-to-know.md",
-      "title": "The Founder Of Artificial Intelligence Sounds The Alarm: 4 Major Risks You Need To Know",
-      "excerpt": "With a BA in Experimental Psychology from the University of Cambridge (1970) and a PhD in Artificial Intelligence from the University of Edinburgh (1978), the 75-year-old has decided to blow the whistle on the technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikepatton/2023/05/31/the-founder-of-artificial-intelligence-sounds-the-alarm-4-major-risks-you-need-to-know/",
-      "originalUrl": "https://www.forbes.com/sites/mikepatton/2023/05/31/the-founder-of-artificial-intelligence-sounds-the-alarm-4-major-risks-you-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6477aeef76a632df0c0e1092/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 855,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mikepatton/2023/05/31/the-founder-of-artificial-intelligence-sounds-the-alarm-4-major-risks-you-need-to-know/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikepatton/2023/05/31/the-founder-of-artificial-intelligence-sounds-the-alarm-4-major-risks-you-need-to-know/amp/",
-      "publishedDateTime": "2023-05-31T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-translate-documents-in-real-time-with-amazon-translate.md",
-      "title": "Translate documents in real time with Amazon Translate",
-      "excerpt": "A critical component of business success is the ability to connect with customers. Businesses today want to connect with their customers by offering their content across multiple languages in real time. For most customers, the content creation process is disconnected from the localization effort of translating",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/translate-documents-in-real-time-with-amazon-translate/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/translate-documents-in-real-time-with-amazon-translate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/31/real-time-document-translation.png",
-          "width": 1020,
-          "height": 508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T13:30:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-scale-your-machine-learning-workloads-on-amazon-ecs-powered-by-aws-trainium-instances.md",
-      "title": "Scale your machine learning workloads on Amazon ECS powered by AWS Trainium instances",
-      "excerpt": "Running machine learning (ML) workloads with containers is becoming a common practice. Containers can fully encapsulate not just your training code, but the entire dependency stack down to the hardware libraries and drivers. What you get is an ML development environment that is consistent and portable.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scale-your-machine-learning-workloads-on-amazon-ecs-powered-by-aws-trainium-instances/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scale-your-machine-learning-workloads-on-amazon-ecs-powered-by-aws-trainium-instances/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T12:49:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

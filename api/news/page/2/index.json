@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-02-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
+      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
+      "excerpt": "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "originalUrl": "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "publishedDateTime": "2023-06-02T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7",
+        "domain": "abc7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-ai-machine-learning-and-automation-what-agencies-need-to-know.md",
       "title": "AI, Machine Learning And Automation: What Agencies Need To Know",
       "excerpt": "Automation refers to the use of machines to automate routine tasks that would otherwise be executed by humans. It involves configuring a set of rules and triggers to initiate actions. While automation is often complex, it lacks AI’s ability to learn from data to optimize performance.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machine-learning-and-automation-what-agencies-need-to-know/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -805,7 +848,7 @@
       "originalUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1040,6 +1083,58 @@
       ]
     },
     {
+      "path": "_news/2023-06-01-automation-anywhere-collaborates-with-aws-to-empower-enterprise-processes-with-generative-ai.md",
+      "title": "Automation Anywhere collaborates with AWS to empower enterprise processes with generative AI",
+      "excerpt": "Automation Anywhere will utilize Amazon SageMaker JumpStart and Bedrock to provide enhanced generative AI capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/automation-anywhere-collaborates-aws-empower-enterprise-processes-generative-ai/",
+      "originalUrl": "https://venturebeat.com/ai/automation-anywhere-collaborates-aws-empower-enterprise-processes-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/AIAAI-VentureBeat-2023-Banner-Ads-1200x675-05312023.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-what-ai-cant-do-and-what-great-leaders-will-do.md",
       "title": "What AI Can’t Do And What Great Leaders Will Do",
       "excerpt": "As AI masters language, it will more easily fool us; reconnecting with the bodily resonance of language helps leaders put AI in service of life.",
@@ -1130,99 +1225,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-ibm-cloud-databases-for-elasticsearch-end-of-life-and-pricing-changes.md",
-      "title": "IBM Cloud Databases for Elasticsearch End of Life and pricing changes",
-      "excerpt": "There is action required before November 30, 2023, for your Elasticsearch version 7.9 and 7.10 deployments. On November 30, these versions will be End Of Life.\nThe post IBM Cloud Databases for Elasticsearch End of Life and pricing changes appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-cloud-databases-for-elasticsearch-end-of-life-and-pricing-changes/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-cloud-databases-for-elasticsearch-end-of-life-and-pricing-changes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T06:06:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-how-krista-software-helped-zimperium-speed-development-and-reduce-costs-with-ibm-watson.md",
-      "title": "How Krista Software helped Zimperium speed development and reduce costs with IBM Watson",
-      "excerpt": "Successful businesses are embracing the power of AI to help streamline operations, generate insights, boost productivity and drive more value for clients. However, for many enterprises, the barrier to entry for integrating trustworthy, scalable and transparent AI remains high. In fact, 80% of enterprise",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-krista-software-helped-zimperium-speed-development-and-reduce-costs-with-ibm-watson/",
-      "originalUrl": "https://www.ibm.com/blog/how-krista-software-helped-zimperium-speed-development-and-reduce-costs-with-ibm-watson/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/How-Krista-Software-helped-Zimperium-speed-development-and-reduce-costs-with-IBM-Watson-scaled.jpg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

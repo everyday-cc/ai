@@ -7,7 +7,7 @@ originalUrl: "https://www.france24.com/en/tv-shows/reporters/20230602-your-face-
 webUrl: "https://www.france24.com/en/tv-shows/reporters/20230602-your-face-is-ours-the-dangers-of-facial-recognition-software"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Adversarial Makeup: Your Contouring Skills Could Defeat Facial Recognition"
+    excerpt: "Facial recognition is everywhere these days. Cloud servers churn through every picture uploaded to social media, phone cameras help put faces to names, and CCTV systems are being used to trace ..."
+    publishedDateTime: 2023-06-03T00:00:00Z
+    webUrl: "https://hackaday.com/2021/09/24/adversarial-makeup-your-contouring-skills-could-defeat-facial-recognition/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 37
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2021/09/E_0pmkmUYAw-AOT.png"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "iCy+Lb07A3KHtwBRl3TtG22Ijm+yeECbX6Bwwm2OFPAf7rf8yWQEQh5iH1h0c5pECvM25vY1T2a4Cyoe57PJoLHvVKI+pMSeIITjBizMtRtKINKLdkG4ne0rN7fwFzyG+eFmNNf+z6DR3DnVtg5W8oYpB4qj1FY4Tc7aau778FaOlYcqo3+uK/31gSqnOcY2XGR9Z6qJVUIZRT0Rm+exlIpp0HXZLtADt7A5q5P+T0SzAw5fWUqjl7YeywAclerjrbjmvxvaGeQtU6wgFdXTTh3UJcy8Tmdqm2y8oZGjetZZDUL1lDmZEKcz/cl+Z9xlwfdUwo6vQkIJq2NFy6EWVUmgxDWeMf2qYbUILpmDlzSrFJBBynBAiXMUdXQ0YcdTTVxSnes17hUfEigCTVZ0lMNP12HpSy4ZCVAQffo/I3ffGZSZuNxBSz1mplPXwLGnBAoIhHHbSl0wjQBac6uxEW4oGXt9KEpntqY9Vu5rnxXdPE5aNVAea6yx7FCQTXfiI/yzmOV/5cS3uFoum9AqNw==;4UZY5PPgpfEqgvWhHSp3AA=="
 ---

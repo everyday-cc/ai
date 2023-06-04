@@ -2,6 +2,155 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-31-more-warnings-come-from-sabi-pipo-say-ai-fit-finish-human-beings.md",
+      "title": "More warnings come from sabi pipo say AI fit finish human beings",
+      "excerpt": "But odas say dem don too overblow di fears. Sam Altman, Chief Executive of ChatGPT-maker OpenAI, Demis Hassabis, Chief Executive of Google DeepMind and Dario Amodei of Anthropic don support di ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/pidgin/articles/c5198kzdy33o",
+      "originalUrl": "https://www.bbc.com/pidgin/articles/c5198kzdy33o",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_pidgin/4c40/live/e131f170-fef6-11ed-92cc-b3a9bf1f67e9.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/pidgin/articles/c5198kzdy33o.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/pidgin/articles/c5198kzdy33o.amp",
+      "publishedDateTime": "2023-05-31T02:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-hands-are-more-critical-for-robot-intelligence-than-ai-says-robotics-ceo.md",
+      "title": "Hands are more critical for robot intelligence than AI, says robotics CEO",
+      "excerpt": "In fact, they don't address the central problem of intelligence at all, which is how to understand the world around you, and then act on it. For Rose, and for the humanoid robots built and operated by Sanctuary AI,",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo",
+      "originalUrl": "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2023-05/597F4F78-034F-4C75-A533-1DD249D8DA70.jpeg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo?amp",
+      "publishedDateTime": "2023-05-31T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-cloud-computing-firm-coreweave-raises-another-200-mln-amid-ai-boom.md",
+      "title": "Cloud computing firm CoreWeave raises another $200 mln amid AI boom",
+      "excerpt": "Specialized cloud computing provider CoreWeave has raised $200 million in funding from its existing investor Magnetar Capital, highlighting investor interest in backing infrastructure powering the generative AI boom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/cloud-computing-firm-coreweave-raises-another-200-mln-amid-ai-boom-2023-05-31/",
+      "originalUrl": "https://www.reuters.com/technology/cloud-computing-firm-coreweave-raises-another-200-mln-amid-ai-boom-2023-05-31/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/arc-authors/reuters/2f90d562-60d3-41b2-a40c-bc52d8bcd4a7.png",
+          "width": 720,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-this-ai-stock-has-dwarfed-nvidia-nasdaqnvda-with-its-returns.md",
       "title": "This AI Stock Has Dwarfed Nvidia (NASDAQ:NVDA) with its Returns",
       "excerpt": "Nvidia (NASDAQ:NVDA) stock is on a stellar bull run, thanks to investors’ positive outlook on generative AI (Artificial Intelligence) and its",
@@ -113,7 +262,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/05/31/the-future-of-generative-ai-beyond-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 411,
+      "heat": 381,
       "tags": null,
       "images": [
         {
@@ -1083,155 +1232,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-amazon-sagemaker-xgboost-now-offers-fully-distributed-gpu-training.md",
-      "title": "Amazon SageMaker XGBoost now offers fully distributed GPU training",
-      "excerpt": "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-xgboost-now-offers-fully-distributed-gpu-training/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-xgboost-now-offers-fully-distributed-gpu-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/30/sagemaker-xgboost-gpu-training.jpg",
-          "width": 1024,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T10:29:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-legged-robots-learn-dynamic-physical-characteristics-of-terrains-like-animals.md",
-      "title": "Legged robots learn dynamic physical characteristics of terrains like animals",
-      "excerpt": "endowing the robot with physical artificial intelligence. Credit: Science China Press Finally, the work conducts both indoor and outdoor hardware experiments, and the experimental results demonstrate that the proposed approach can effectively help robots ...",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-05-legged-robots-dynamic-physical-characteristics.html",
-      "originalUrl": "https://techxplore.com/news/2023-05-legged-robots-dynamic-physical-characteristics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/legged-robots-learn-dy.jpg",
-          "width": 2707,
-          "height": 1225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-05-legged-robots-dynamic-physical-characteristics.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-05-legged-robots-dynamic-physical-characteristics.amp",
-      "publishedDateTime": "2023-05-30T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter.md",
-      "title": "OpenAI execs warn of “risk of extinction” from artificial intelligence in new open letter",
-      "excerpt": "On Tuesday, the Center for AI Safety (CAIS) released a single-sentence statement signed by executives from OpenAI and DeepMind, Turing Award winners, and other AI researchers warning that their life's work could potentially extinguish all of humanity.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 357,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/world_dominating_AI_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/amp/",
-      "publishedDateTime": "2023-05-30T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],
