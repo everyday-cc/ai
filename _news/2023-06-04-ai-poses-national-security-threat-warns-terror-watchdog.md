@@ -1,47 +1,51 @@
 ---
 category: news
-title: "China warns of artificial intelligence risks, calls for beefed-up national security measures"
-excerpt: "The statement underscores the tension between the government’s determination to be technological leaders and concerns about the possible harms of such technologies."
-publishedDateTime: 2023-05-31T14:13:00Z
-originalUrl: "https://www.nbcnews.com/news/world/china-warns-artificial-intelligence-risks-calls-beefed-national-securi-rcna87021"
-webUrl: "https://www.nbcnews.com/news/world/china-warns-artificial-intelligence-risks-calls-beefed-national-securi-rcna87021"
-ampWebUrl: "https://www.nbcnews.com/news/amp/rcna87021"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna87021"
+title: "AI poses national security threat, warns terror watchdog"
+excerpt: "Security services fear the new technology could be used to groom vulnerable people"
+publishedDateTime: 2023-06-04T05:00:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/jun/04/ai-poses-national-security-threat-warns-terror-watchdog"
+webUrl: "https://www.theguardian.com/technology/2023/jun/04/ai-poses-national-security-threat-warns-terror-watchdog"
+ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/04/ai-poses-national-security-threat-warns-terror-watchdog"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/04/ai-poses-national-security-threat-warns-terror-watchdog"
 type: article
-quality: 93
-heat: 133
-published: true
+quality: 74
+heat: -1
+published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Security
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230531-xi-jinping-jm-1004-8797e3.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://i.guim.co.uk/img/media/9a3d98be824baaddccb89605c324a9fa61aacfb4/168_0_3332_2000/master/3332.jpg?width=620&quality=85&auto=format&fit=max&s=e38cf6c3909a4fb8062ed0c96950171c"
+    width: 620
+    height: 372
     isCached: true
 
 related:
-  - title: "AI poses national security threat, warns terror watchdog"
-    excerpt: "Security services fear the new technology could be used to groom vulnerable people"
-    publishedDateTime: 2023-06-04T05:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/04/ai-poses-national-security-threat-warns-terror-watchdog"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/04/ai-poses-national-security-threat-warns-terror-watchdog"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/04/ai-poses-national-security-threat-warns-terror-watchdog"
+  - title: "China warns of artificial intelligence risks, calls for beefed-up national security measures"
+    excerpt: "The statement underscores the tension between the government’s determination to be technological leaders and concerns about the possible harms of such technologies."
+    publishedDateTime: 2023-05-31T14:13:00Z
+    webUrl: "https://www.nbcnews.com/news/world/china-warns-artificial-intelligence-risks-calls-beefed-national-securi-rcna87021"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna87021"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna87021"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 74
+      name: NBC News
+      domain: nbcnews.com
+    quality: 93
     images:
-      - url: "https://i.guim.co.uk/img/media/9a3d98be824baaddccb89605c324a9fa61aacfb4/168_0_3332_2000/master/3332.jpg?width=620&quality=85&auto=format&fit=max&s=e38cf6c3909a4fb8062ed0c96950171c"
-        width: 620
-        height: 372
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230531-xi-jinping-jm-1004-8797e3.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "China warns of risks from artificial intelligence, calls for beefed-up national security measures"
     excerpt: "BEIJING -- China warns of risks from artificial intelligence, calls for beefed-up national security measures."
@@ -83,6 +87,6 @@ related:
       domain: chron.com
     quality: 17
 
-secured: "bUveM5ptGuDUPCt4G9yMuw43tLVta5YVcFI+oOvfuf83RrkFHUofiG76/jKWJ/r+ZRYTF2EZ1bCBdy/OXGFfOCDnhI6x9qulisYPBuELX3RxZlGSF1rpGsmwGFxVOFpJdShtpLHtpEL0yw3PBAXViXBFFSyiUYCSRIJN77b6hNfJBlhtzBAYslUcUx1rWjfcCb5Iedpc//xZSqeC2Uu/wH2HvvChFq/7R7S0FF5y3+aFdHw4Gdzqb15FGK6Bd4gu9Fwt6mcGd0Wn2jaqGaULACi8481nvd71TfAUVjn4By6MWA8IAVuNbjAuifQRMMQeSnFNbParWIVEX16hXNjs2TtZAFJLnRzSZWLOQHWHJKc3nwsmm0r1EBtlDsDeE633GD44k35gIuGW2xvw/R0nBA3oI2rTc9WAzIsx2G0xz43v1KmMqrE1CjhVLOMCC27DHxVBU5baLGRv2xZBPXDcCqs4YIzP7g55vsczOgJ+9mAMedicwMZsspaQ2zVVZhkgVac+yVVg+Z35KvkkMqrfew==;GKGjDkGFl7gIZ/yud9LmDA=="
+secured: "ZBqj6dc7r0ya9tq2Ur7iDuojotB6lYbW+W0z9BXP4etjSwcoq1OVRjhTF4YOjDwzfza3aW55mjYwFUHvNVxIXcAGKGpDHyv6b1BrMyYLpkyYO7IzqEvoNPg1SxpAeM2c/bjIQhjN0g6hsZpmTvfmAqeX6rUU8FQzCdF/rMA7UrMCFhJw4xik/kJmsWiaq3WKDKX/154l84Dh0e0kZnXqDZ7ZRjBXd7lwJtiEnKxFjDpvonRI/3QIBjaJBqXpBWMLAkknYnZYQUaP3PSZD4LX+kv9PRRsL2nqFXJE4B2CCtQDXECr50UQt+sKbp9BJYbq/3JZPuUd9fu4J47BpwvSxvM9pgQVfgwVqpH+GZ0Hwp0=;xbq43eJmMnl5JRUf8lhs7w=="
 ---
 

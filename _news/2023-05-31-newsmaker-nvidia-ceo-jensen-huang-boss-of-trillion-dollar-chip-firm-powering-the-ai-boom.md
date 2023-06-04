@@ -79,20 +79,6 @@ related:
         width: 1200
         height: 702
         isCached: true
-  - title: "Nvidia to demand a premium for AI chips"
-    excerpt: "The AI hype is providing Nvidia with plenty of cashflow. Announcements of new Nvidia partners keep coming, but it seems the company will continue to face"
-    publishedDateTime: 2023-05-30T14:59:00Z
-    webUrl: "https://www.techzine.eu/news/applications/106652/nvidia-to-demand-a-premium-for-ai-chips/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/evk3-300x300.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "NVIDIA: From Chipmaker to Trillion-Dollar AI Powerhouse"
     excerpt: "From being a renowned chipmaker for computer graphics to an industry titan momentarily reaching a trillion-dollar valuation, Nvidia's journey is one for the business books. This rapid ascent is a testament to the growing significance of artificial intelligence (AI) in shaping the future of technology."
     publishedDateTime: 2023-05-31T21:19:00Z
@@ -139,6 +125,34 @@ related:
       name: Time
       domain: time.com
     quality: 47
+  - title: "Nvidia joins trillion-dollar club, riding on the AI boom"
+    excerpt: "Nvidia Corp, the chip-maker, reaches an elite status, joining US companies with a market value of over $1 trillion."
+    publishedDateTime: 2023-05-30T17:10:00Z
+    webUrl: "https://interestingengineering.com/innovation/nvidia-joins-trillion-dollar-club-riding-on-the-ai-boom"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/30/image/jpeg/3sL71HLAMXd4tYS7CJGu8laOnawvwd8VjT2csGpB.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Interest in AI causes developer Nvidia to reach $1 trillion in value"
+    excerpt: "As investors piled more capital into Nvidia the chipmaker has become one of the biggest winners of the artificial intelligence boom"
+    publishedDateTime: 2023-06-02T15:54:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273852108/interest-in-ai-causes-developer-nvidia-to-reach-1-trillion-in-value"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1685591446215.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "XhK6JOqXphiKq3rnDuCUrEFyzmWICFu/4vNxayq3Fpofp9gsbgGxPj//D5U84/6I8zinCkrJX8e5q51564tdw9Hx+EDYlY8u3tK1+WRP9buWx0Vv9mmXDHmhbtwNb05tNqKCVEDbCYHy69dztLpiEzZuAtt/Ru/knsDJeSCfxGcHPqI2uWmUCySh0PFRr2wqnd+vBKkM7QbTLtRb79qWUYGRcSBFRZ9CcD9tEBeNSUTB0lqbIMOivqVIcBt2rRJV4InB3U5i32f5dT3aui3zIDHpJJwGW4Lp9VdL5rpUTUcCLLKadKvnU6WXHuZnYlXqRW/io9wK/g1Fzc95NAbupFxypwIamM3kT77mQkV+h7iVZZUwNAHwZvtA9XwDUOgt7OWcUf8d7GbfObhem/gjnlPQIfxEQOje9t3Wwr98wh2d+7jCu/+s9gYigkhP8tcMbTE11kL8TAsXS1JfuiTLDuJefsCwHjp0qRSzBuQrvRO4XZPsDrXDjAo4RajfGc5SOYs2WNuNDlfO90vyKV/nRA==;yAJkie2kcaYqdcjVYkzeog=="
 ---

@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
+    publishedDateTime: 2023-06-01T13:10:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 68
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "AI chips are hot. Here's what they are."
     excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip,"
     publishedDateTime: 2023-06-01T15:11:00Z
@@ -79,20 +95,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
-    publishedDateTime: 2023-06-01T09:31:00Z
-    webUrl: "https://www.local10.com/business/2023/06/01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
-    type: article
-    provider:
-      name: WPLG
-      domain: local10.com
-    quality: 33
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SIQQ7UVKUNDXRHQQE2TFZQO3RU.jpg?_a=ATCqVhC0"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Orlando companies harness the power of AI in revolutionizing health care"
     excerpt: "As the health care industry faces staffing shortages and rising costs, AI is offering a solution that can free up time for health care providers to focus on patient care."
     publishedDateTime: 2023-06-01T04:00:00Z
@@ -112,13 +114,13 @@ related:
       domain: northjersey.com
     quality: 17
   - title: "Clalit Health Services plans to use Artificial Intelligence and Machine Learning to further enhance patient care"
-    excerpt: "Cloudera, the hybrid data company, today announced its collaboration with Clalit Health Services, the largest of Israel's four state-mandated health service organizations. The health service provider is set to harness the Cloudera Data Platform (CDP) to provide high-quality,"
-    publishedDateTime: 2023-05-31T10:18:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/31/9823225.htm"
+    excerpt: "Liora Shechter, VP Digital & Technology, Clalit Health Services, said, \"We will use Cloudera Data Platform to apply real time interfaces, artificial ... approach to healthcare delivery and its ..."
+    publishedDateTime: 2023-05-31T10:23:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20230531sf15074/clalit-health-services-plans-to-use-artificial-intelligence-and-machine-learning-to-further-enhance-patient-care"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Morningstar
+      domain: morningstar.com
     quality: 15
 
 secured: "uRyguFCEWLh3MCcvlGsQrjowjTi60UjwWmCt6aJgTdB8i9f76pUs8I7jOG4nG3Z1KYiw2CyvfXuR6U7I0jisp/wLsDC+ugbHYda8qMa6RWre+aGxA2UszASsFOExIh+ZZihM1rY2FFG0WhPrVt+2MSJeIbiE2h+dcjcNDCbpL8fxr85TJiu2X/O9XxS/T/dL4OqfiztXupm6b/1ZVYi1pkcCQiP3ihZsT8gtILXkDBdJt8NYB1IgkFCbjVPhZNDU6GyGN+RzxcePovKpCqH3l1kqfAsmoL/Lo8iygf9l8aBwNbpnioXr5rT6KndNQm+06Uh1qVkfkCGj80Y7m/pge2QwGBxjM/CXb/fSehcfhPvJoJKzdZVJJb6A2/Sck79od3OQDea22jDOB2r09o94QzaOkQHxANr/tnK7yPFDS9X4SVV72QrjIs5SshNLCBt2g6A09IiO6EP0RkN+qwgphTuQVDU8DcMlZk5bPo8he+5bi5t4VY+qaIGPdPraxw9Xp3r+Andl0Z6ty+8GpbxHDg==;kfDkjKMQGkXoE0VqRzaC7Q=="

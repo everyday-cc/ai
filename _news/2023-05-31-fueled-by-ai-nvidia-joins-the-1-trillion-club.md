@@ -25,68 +25,128 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI $7 Trillion Ecosystem: Invest In Nvidia, Microsoft, Adobe And More"
-    excerpt: "Worldwide cloud revenue is expected to increase 21.7% in 2023 to $597.3 billion. Gartner IT +1.5% expects generative AI to create “a surge in cloud revenue” driven primarily by these and other hyperscalers. Ultimately, all the investment in generative AI technology must result in applications that people pay money to use."
-    publishedDateTime: 2023-05-30T14:19:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/05/30/generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more/"
-    ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/05/30/generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/05/30/generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more/amp/"
+  - title: "Opinion: Nvidia and these 6 tech giants will gobble up the AI pie"
+    excerpt: "In fact, the event was all about AI — from integrating artificial intelligence with Windows, Bing and developer tools. Note that many of the offerings were still in “preview” mode. As for Azure, its cloud platform, Microsoft is trying to catch ..."
+    publishedDateTime: 2023-05-31T13:04:00Z
+    webUrl: "https://www.marketwatch.com/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 89
+    images:
+      - url: "https://images.mktw.net/im-747436/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Opinion: We’ve reached a turning point with AI, expert says"
+    excerpt: "Russell has called for rebuilding AI on a different foundation to ensure our control over the technology — but that ... There are a few other big areas of work in AI. There’s robotics, which is both how do you make a physical robot that can actually ..."
+    publishedDateTime: 2023-05-31T17:38:00Z
+    webUrl: "https://www.cnn.com/2023/05/31/opinions/artificial-intelligence-stuart-russell"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/05/31/opinions/artificial-intelligence-stuart-russell/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/31/opinions/artificial-intelligence-stuart-russell/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 89
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230525103431-20230525-perils-of-ai-power-on.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Why Nvidia, C3.ai, and Qualcomm Stocks Keep Going Up"
+    excerpt: "Founded in 1993 by brothers Tom and David Gardner, The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, newspaper column, radio show, and premium investing services."
+    publishedDateTime: 2023-05-30T15:53:00Z
+    webUrl: "https://www.fool.com/investing/2023/05/30/why-nvidia-c3ai-and-qualcomm-stocks-keep-going-up/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/734387/semiconductor-computer-chip-with-the-letters-ai-in-the-middle.jpg"
+        width: 2190
+        height: 1369
+        isCached: true
+  - title: "Lisa Su Saved AMD. Now She Wants Nvidia's AI Crown"
+    excerpt: "AMD's CEO orchestrated one of the great turnarounds in Silicon Valley history, driving the dying semiconductor maker's stock price up nearly 30-fold in less than a decade. Now she's preparing for battle in the coming AI revolution—and she expects to keep winning."
+    publishedDateTime: 2023-05-31T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/iainmartin/2023/05/31/lisa-su-saved-amd-now-she-wants-nvidias-ai-crown/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 101
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64733c9329fc673cfa0cb088/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64760ef28d9d32e3a6569955/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Microsoft vets lead secretive education startup using generative AI to help students learn"
-    excerpt: "Two decades after selling their startup to Microsoft, Eran Megiddo and Liviu Asnash are going back to their entrepreneurial roots. The longtime Microsoft leaders are the co-founders of Maximal Learning,"
-    publishedDateTime: 2023-05-31T14:13:00Z
-    webUrl: "https://www.geekwire.com/2023/microsoft-vets-lead-secretive-education-startup-using-generative-ai-to-help-students-learn/"
+  - title: "Bulls Charge Into The Memorial Day Weekend On AI Excitement And Nvidia Earnings Momentum"
+    excerpt: "The Markets To say NVDA (NASDAQ: NVDA) crushed earnings is a drastic understatement. You won’t find fundamental analysis on this page. But it does make sense to pay attention to the smart and experienced traders that know the fundamentals."
+    publishedDateTime: 2023-05-30T17:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/etf/bulls-charge-into-the-memorial-day-weekend-on-ai-excitement-and-nvidia-earnings-momentum-1032358964"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 91
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/05/Screen-Shot-2023-05-31-at-7.07.16-AM.png"
-        width: 1088
-        height: 539
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/2-bull-photography-tkriu01wdfm-unsplash.jpg"
+        width: 1024
+        height: 768
         isCached: true
-  - title: "Microsoft Has Launched “Jugalbandi”—A New Generative AI App for India"
-    excerpt: "India, home to more than 1.4 billion people, is an incredibly ripe market for digital and AI-based innovation."
-    publishedDateTime: 2023-05-31T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/saibala/2023/05/31/microsoft-has-launched-jugalbandi-a-new-generative-ai-app-for-india/"
+  - title: "Nvidia briefly worth $1 trillion thanks to AI boom"
+    excerpt: "Investors excited about the possibilities for artificial intelligence have sent the US chipmaker's value soaring."
+    publishedDateTime: 2023-05-30T20:22:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-65757812?at_medium=RSS"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-65757812.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-65757812.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
-  - title: "Microsoft: Generative AI Unlocking Growth Potential"
-    excerpt: "Microsoft's AI initiatives, including the availability of OpenAI's GPT-4 in Azure, OpenAI Service and the introduction of Azure AI Studio can potentially drive significant growth and expand ..."
-    publishedDateTime: 2023-05-31T23:32:00Z
-    webUrl: "https://seekingalpha.com/article/4608596-microsoft-generative-ai-unlocking-growth-potential"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1464561575/image_1464561575.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 864
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/9941/production/_129933293_gettyimages-1258278958.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Nvidia became a $1 trillion company thanks to the AI boom"
-    excerpt: "This latest push comes after Nvidia’s business boomed early in the pandemic during a GPU shortage while they ... team up to build ‘massive’ AI supercomputer 2016: Nvidia bets big on AI ..."
-    publishedDateTime: 2023-05-30T13:47:00Z
-    webUrl: "https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value"
+  - title: "NVIDIA is now worth $1 trillion - and it's all about AI, not gaming GPUs"
+    excerpt: "NVIDIA is making so much cash from its AI chips, will GeForce gaming graphics cards become increasingly less of a priority? That's not"
+    publishedDateTime: 2023-05-30T15:42:00Z
+    webUrl: "https://www.tweaktown.com/news/91657/nvidia-is-now-worth-1-trillion-and-its-all-about-ai-not-gaming-gpus/index.html"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 49
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 55
+    images:
+      - url: "https://static.tweaktown.com/news/9/1/91657_01_nvidia-is-now-worth-1-trillion-and-its-all-about-ai-not-gaming-gpus_full.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI Stocks Soar as Nvidia Joins Trillion-Dollar Club"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: shutterstock.com/Victor Runov Despite a soft opener in the equities"
+    publishedDateTime: 2023-05-30T19:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-soar-as-nvidia-joins-trillion-dollar-club-1032359232"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "Opinion: Why Alphabet is a better bet than Meta Platforms if you’re investing in AI"
+    excerpt: "Then, way back in 2014, it acquired an AI startup named DeepMind — with a string of other acquisitions in between. In other words, if you want a company that has been thinking seriously about AI for years rather than playing with cartoonish avatars and ..."
+    publishedDateTime: 2023-05-30T18:53:00Z
+    webUrl: "https://www.marketwatch.com/story/why-alphabet-is-a-better-bet-than-meta-platforms-if-youre-investing-in-ai-4d46b88"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
   - title: "AI demand briefly catapults Nvidia into $1 trillion club"
     excerpt: "The total value of computer chip and graphics processing card manufacturer Nvidia briefly touched $1 trillion on May 30 as demand for the company’s artificial intelligence tech surged into overdrive."
     publishedDateTime: 2023-05-31T00:40:00Z
@@ -101,34 +161,68 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Nvidia joins trillion-dollar club, riding on the AI boom"
-    excerpt: "Nvidia Corp, the chip-maker, reaches an elite status, joining US companies with a market value of over $1 trillion."
-    publishedDateTime: 2023-05-30T17:10:00Z
-    webUrl: "https://interestingengineering.com/innovation/nvidia-joins-trillion-dollar-club-riding-on-the-ai-boom"
+  - title: "Intel cedes spotlight at global tech gala to AI darling Nvidia"
+    excerpt: "Intel, long synonymous with the fastest processors, has seen its all-purpose chips overshadowed by Nvidia's more specialized, parallel-processing architecture."
+    publishedDateTime: 2023-05-31T17:13:00Z
+    webUrl: "https://www.seattletimes.com/business/intel-cedes-spotlight-at-global-tech-gala-to-ai-darling-nvidia/"
+    ampWebUrl: "https://www.seattletimes.com/business/intel-cedes-spotlight-at-global-tech-gala-to-ai-darling-nvidia/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/intel-cedes-spotlight-at-global-tech-gala-to-ai-darling-nvidia/?amp=1"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/30/image/jpeg/3sL71HLAMXd4tYS7CJGu8laOnawvwd8VjT2csGpB.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Interest in AI causes developer Nvidia to reach $1 trillion in value"
-    excerpt: "As investors piled more capital into Nvidia the chipmaker has become one of the biggest winners of the artificial intelligence boom"
-    publishedDateTime: 2023-06-02T15:54:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273852108/interest-in-ai-causes-developer-nvidia-to-reach-1-trillion-in-value"
+  - title: "Charting Nvidia’s 30-Year Ride to Overnight AI Success"
+    excerpt: "But an increasing number of its chips are being installed in data centers to help companies like Microsoft Corp., Alphabet Inc., OpenAI, and Amazon.com Inc. build their AI capabilities and offer those services to clients. Last year’s release of ChatGPT ..."
+    publishedDateTime: 2023-06-03T03:55:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/06/02/chips-inside-nvidia-s-30-year-ride-to-overnight-ai-success/d74f9838-01c1-11ee-9eb0-6c94dcb16fcf_story.html"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: The Washington Post
+      domain: washingtonpost.com
     quality: 39
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1685591446215.jpg"
-        width: 630
-        height: 420
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2Q74LDABYEI65HVQNSKNZMLPZ4.jpg&w=1440"
+        width: 1440
+        height: 969
         isCached: true
+  - title: "Nvidia's reboot: How the processing giant made the shift from gaming to AI"
+    excerpt: "Here's how Nvidia CEO Jensen Huang presented the results of Q1 2019, five years ago: At the heart of our opportunity is the incredible growth of computing demand of AI, just as traditional computing has slowed. The GPU computing approach we have pioneered ..."
+    publishedDateTime: 2023-05-31T17:45:00Z
+    webUrl: "https://www.usatoday.com/story/money/2023/05/31/how-nvidia-reinvented-itself/70265023007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 37
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/05/25/USAT/96ccb936-a4f1-428e-a72b-d8bd5c1eb7a5-70210697007-artificial-intelligence-ai.jpg?auto=webp&crop=2101,1182,x0,y213&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The AI boom has turbocharged Nvidia’s fortunes. Can it hold its position?"
+    excerpt: "Nvidia’s other strength is its software. CUDA, its ai platform, is popular with programmers and runs only on the company’s chips. By, for instance, giving free access to its chips and software to some AI researchers, the firm focused on encouraging developers to use its software long before its competitors set out to woo them."
+    publishedDateTime: 2023-06-01T08:41:00Z
+    webUrl: "https://www.economist.com/leaders/2023/06/01/the-ai-boom-has-turbocharged-nvidias-fortunes-can-it-hold-its-position"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 36
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230603_LDP501.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Nvidia, The World's Newest, AI-amped Tech Giant"
+    excerpt: "Nvidia, a chip technology company, became a trillion dollar enterprise this week and the world’s newest tech giant. Here are a few key facts about the little-known firm."
+    publishedDateTime: 2023-05-31T17:18:00Z
+    webUrl: "https://www.barrons.com/news/nvidia-the-world-s-newest-ai-amped-tech-giant-8bf9a0e6"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 19
   - title: "The generative AI hype bubble runs through Nvidia"
     excerpt: "Generative AI is the hottest trend on Wall Street. Ever since OpenAI’s ChatGPT debuted in late 2022, kicking off a flurry of activity in the space, investors have been piling into AI stocks. And Nvidia (NVDA) has been the biggest winner."
     publishedDateTime: 2023-05-31T19:41:00Z
@@ -138,24 +232,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 19
-  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
-    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive"
-    publishedDateTime: 2023-05-31T17:04:00Z
-    webUrl: "https://www.inferse.com/528845/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
+  - title: "Nvidia and Broadcom lead robust week for semiconductors and artificial intelligence in the tech sector"
+    excerpt: "This was a major week for semiconductors and artificial intelligence stocks ... Plurilock Security Inc. (TSX-V:PLUR) said an overseas healthcare administrative services provider has placed a new order for its high-margin flagship software platform."
+    publishedDateTime: 2023-06-02T19:37:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1016869/nvidia-and-broadcom-lead-robust-week-for-semiconductors-and-artificial-intelligence-in-the-tech-sector-1016869.html"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 14
-  - title: "Nvidia eclipses $1 trillion market capitalization on artificial intelligence boom"
-    excerpt: "The semiconductor company Nvidia crossed the trillion-dollar market capitalization mark Tuesday, riding an artificial intelligence-propelled boom to become the fifth company to pass the historic threshold."
-    publishedDateTime: 2023-05-30T13:46:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/nvidia-joins-trillion-multi-dollar-market-cap-"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 12
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 3
 
 secured: "9oUfZl5Ji5WHLaZKgAvtEG0qKfDitsosJJa4t09Pc+Ij+tiC7CYS/z+bw7+buIGeOv4k33YZPu96QqDxVt9mkbWYyW20VdVMhsmEX7zWn63iICeZ4ZAQVXb/QyFJPQoVGS5GkHcJtQlhnAMVsrdP5GkXmXvYfkO7D13h8YpkLwjZqINtIA6F/nOb75brHtvrL5QRs/rgt9CYFHEwYgPcGcCeDvczNS8+h+tvqRk4I0U7stTrdw3IvSuUeaDKChzx0PZu2SpyBi3QeFOQhSMfQExLvFZSTslWG7crp/T9Q7Ex7QNxA+FDhTKOH2ohtwc7Wkjwk3w5Awnpx5PgHG9it8n4mzA8knPUqAdBDp+8veE=;8HfyfV/eh2nelRZSc+LpuA=="
 ---

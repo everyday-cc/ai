@@ -141,6 +141,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
+  - title: "AI demand briefly catapults Nvidia into $1 trillion club"
+    excerpt: "The total value of computer chip and graphics processing card manufacturer Nvidia briefly touched $1 trillion on May 30 as demand for the company’s artificial intelligence tech surged into overdrive."
+    publishedDateTime: 2023-05-31T00:40:00Z
+    webUrl: "https://cointelegraph.com/news/nvidia-briefly-hits-1-trillion-market-cap"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 39
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-05/795d3f2c-200d-4544-9605-74bfbb101f9d.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Fueled by AI, Nvidia joins the $1 trillion club"
+    excerpt: "Booming demand for its AI chips has landed Nvidia (NVDA) a prime spot in one of the most exclusive clubs on Wall Street: The chipmaker hit a market cap of $1 trillion on Tuesday. It’s just the ninth company globally to have achieved such a feat,"
+    publishedDateTime: 2023-05-30T20:42:00Z
+    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/05/30/nvidia-joins-the-1-trillion-club/"
+    type: article
+    provider:
+      name: KRDO
+      domain: krdo.com
+    quality: 39
+    images:
+      - url: "https://krdo.b-cdn.net/2023/05/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG9uZS10aHVtYm5haWwtNmM4ZTdmNmM3YzhmNDBmZTY2ODg0ODkxMGY4NjFhNTM-L19wYWdlcy9oXzM3MmNkZDY1MDg2YmY2ZTBjZWIyMDkwYjRjZmZhOWYz-300.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Intel cedes spotlight at global tech gala to AI darling Nvidia"
     excerpt: "Intel, long synonymous with the fastest processors, has seen its all-purpose chips overshadowed by Nvidia's more specialized, parallel-processing architecture."
     publishedDateTime: 2023-05-31T17:13:00Z
@@ -202,6 +230,15 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
+    quality: 19
+  - title: "The generative AI hype bubble runs through Nvidia"
+    excerpt: "Generative AI is the hottest trend on Wall Street. Ever since OpenAI’s ChatGPT debuted in late 2022, kicking off a flurry of activity in the space, investors have been piling into AI stocks. And Nvidia (NVDA) has been the biggest winner."
+    publishedDateTime: 2023-05-31T19:41:00Z
+    webUrl: "https://www.aol.com/finance/generative-ai-hype-bubble-runs-164142386.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 19
 
 secured: "yTmdBIDHPFfFjRlnRiqxZ/8c7jS/QfH52gTdFjE+yWcYAULIKZw5soQDiCbowxym529t07xJEpwS2NrNZ556H//3Pf+KHeATSWKwW615PAQrtEOzF5f4JQ/fIIOg0C3SRql4r2XSMgZsGUwTRXQ7sKGT013655Ihze44a0gTrLcKCpWksrXiuSqthAODqkZMFeLuVEKn3VdNZKmlXrE3dG3I1Py+bCXeEa/n1wp2cCL7RMhix8uO6RMCg0UllGChhI/1YnKViAat7EsYqVdXB/aQlL4BOfpzNJIaZDeSNTHedDUijTK0fvyYL5yzP2tZR3JACyNRcs0fgcYjz8IlInt6LbvFMMsNR1rZe0710Z6qnwI1bVtEZ9v7lrdOnoPN75j8wzOZZZgklcVPgMm/o/54Cvl+Lj/8jrn/52CENbR1hFloS2iOZ/FuVkkFB+PZEhkfAHVg9HZoVqiTat+bWHze7AvNINFnG7Cyagf891fBsQWjGIGx3FBhxFaraspIx+QsHVDbzurLJG2sQZPa5A==;UEjKvbtRZpv1HLrq+jAF9Q=="

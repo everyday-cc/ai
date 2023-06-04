@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "China isn’t waiting to set down rules on generative AI"
-    excerpt: "The draft regulation released in April is part of a large game of tech industry whack-a-mole. China Report is MIT Technology Review’s newsletter about technology developments in China. Sign up to receive it in your inbox every Tuesday."
-    publishedDateTime: 2023-05-31T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/31/1073743/china-generative-ai-quick-regulation/"
-    ampWebUrl: "https://www.technologyreview.com/2023/05/31/1073743/china-generative-ai-quick-regulation/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/31/1073743/china-generative-ai-quick-regulation/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/AP23075301204542-crop.jpeg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
 
 secured: "wXMEzHHdU2kxsl4TnKj/kSlotLn49WXHzb4DFuqUgYKsFDb8kFC3HyMLtb42rsAKuI079XmOhwyH6dfkxu+MDCTWaHBUq9+4lUqip6lrx28qXg6iHbbx0ezGU8qZvc/h9REDnRBrJ7AHKOz/+etxJ2R/lMLOfdJ6EWCVp4iQcTO+bwU5GpcibBCFG1deVDJ0+3/CvylGICRTxBEIL9DcUzVYPgdoxqh0Hb9eUUZqVZNXnF9thMWynTNEbBfdgOekIeuCqj8OV71wQyYgqlTMZKXxaYPlCWqjF0nf7JU8UjbN7xUBfP/G1GW179wT0KHdDqsZXVEPVjuUBmzX1gX4Xb+hosZATJ0z88JYeiZxnp/DyEmDtadQBF/20Rld6KG4rF1AzeWJmPmNeGS4gGsX+v47aIrcGBlB/89BZuO1cyRxYfj3eJUuLglPdILyawG2invEq4gl4ss9OTksLmkCL93icgFtawkTGnB/SSQaDzdhbg2CpH8+wqHkPcTtQssNFTqcAdh0XlWV8LEfGLc0zg==;QYT20Lq5L2b5nb7/vs6jSw=="
 ---

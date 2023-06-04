@@ -39,15 +39,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "AI executives warn its threat to humanity rivals ‘pandemics and nuclear war’"
-    excerpt: "A group of chief executives and scientists from companies including OpenAI and Google DeepMind has warned the threat to humanity from the fast-developing technology rivals that of nuclear conflict and disease."
-    publishedDateTime: 2023-05-30T13:23:00Z
-    webUrl: "https://www.ft.com/content/084d5627-5193-4bdc-892e-ebf9e30b7ea3"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 14
 
 secured: "3ONqtTe43VrXOBkk4+kxwl3WkuGlsZJ6WE8PDWeWdhwIVBwiYnYbjFO14ndWSf+jSodGCvAFwk3vUU9PdCu1esprzX9T2DQd9D5KSMuEKduTnhhw7bntI0xpIDBSITy8C+TgBh0TLCP7+hkFhCAhRPqv+cvGiwytQnmopmNTDh3zR3KOo+WKjmtZSrHbPBCSIL9uEpTcU39nKduR+7/Y3g2z+YvDZXW5gfUmUK4NR0S+AfErHL8dLrG/ZZePOL5vGWpZVpQKgpTTQZNN+Bp67UnX3SbuxAKa3Ak0wf3nWNprmo5jJHHnHqSfCVGx0tZIxjB0xoJV2DXnKXNtVEqw6N4nK8RpIwaaOKHy0RftFZ11nJobPXe+CxYNT/xzFPYthPFXohZrMmVDWGSbOWdAhzwLZwxSL2otJd6rjKxPPivJjb1V41YAahvqLiKMtaTUyFseYWGDP6LoeJVVAwfAxgreSnOY6bmtwHQgn9wOv6Aev4dXD1HwtkiRZl8PEsvpQY4bHFbjAaRfOsC1M97QDQ==;1NvBcDn32m+FP3p+zgENNA=="
 ---

@@ -138,7 +138,7 @@
       "originalUrl": "https://electrek.co/2023/06/03/tesla-boosts-referral-program-help-sales/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -191,7 +191,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2023/jun/03/ai-danger-doomsday-chatgpt-robots-fears",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -568,7 +568,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidbirch/2023/06/02/the-latest-paris-fashions-in-fintech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -913,7 +913,7 @@
       "originalUrl": "https://www.ibm.com/blog/accelerating-ai-innovation-the-future-of-banking-depends-on-core-modernization/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -1155,21 +1155,21 @@
       ]
     },
     {
-      "path": "_news/2023-06-02-the-instagram-founders-new-news-app-is-actually-an-ai-play.md",
-      "title": "The Instagram Founders’ New News App Is Actually an AI Play",
-      "excerpt": "Artifact offers a personalized feed of news and can also translate clickbait headlines using AI. Kevin Systrom says that’s only the beginning.",
+      "path": "_news/2023-06-02-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
+      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
+      "excerpt": "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face.",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/plaintext-instagram-founders-artifact-news-app-ai/",
-      "originalUrl": "https://www.wired.com/story/plaintext-instagram-founders-artifact-news-app-ai/",
+      "webUrl": "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "originalUrl": "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.com/photos/64791c108ca7067a92af16b6/191:100/w_1280,c_limit/Artifact-News-App-Top-Plaintext-Business.jpg",
+          "url": "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg",
           "width": 1280,
-          "height": 670,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1177,23 +1177,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-02T06:00:00-07:00",
+      "ampWebUrl": "https://abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "publishedDateTime": "2023-06-02T05:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "ABC7",
+        "domain": "abc7.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1202,8 +1193,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Facebook AI"
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

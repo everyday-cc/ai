@@ -1,27 +1,29 @@
 ---
 category: news
 title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
-publishedDateTime: 2023-06-01T09:31:00Z
-originalUrl: "https://www.local10.com/business/2023/06/01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
-webUrl: "https://www.local10.com/business/2023/06/01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
+excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
+publishedDateTime: 2023-06-01T13:10:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+webUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
 type: article
-quality: 33
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: WPLG
-  domain: local10.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - Facebook AI
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SIQQ7UVKUNDXRHQQE2TFZQO3RU.jpg?_a=ATCqVhC0"
-    width: 700
-    height: 467
+  - url: "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -113,15 +115,15 @@ related:
       domain: northjersey.com
     quality: 17
   - title: "Clalit Health Services plans to use Artificial Intelligence and Machine Learning to further enhance patient care"
-    excerpt: "Cloudera, the hybrid data company, today announced its collaboration with Clalit Health Services, the largest of Israel's four state-mandated health service organizations. The health service provider is set to harness the Cloudera Data Platform (CDP) to provide high-quality,"
-    publishedDateTime: 2023-05-31T10:18:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/31/9823225.htm"
+    excerpt: "Liora Shechter, VP Digital & Technology, Clalit Health Services, said, \"We will use Cloudera Data Platform to apply real time interfaces, artificial ... approach to healthcare delivery and its ..."
+    publishedDateTime: 2023-05-31T10:23:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20230531sf15074/clalit-health-services-plans-to-use-artificial-intelligence-and-machine-learning-to-further-enhance-patient-care"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Morningstar
+      domain: morningstar.com
     quality: 15
 
-secured: "jfRBEf1ybtp1WBzL6buDey1wSDMWTtaF2mERDk7HrQn1WBuCzt8s4WaqJ/ehdV4gnqd29YPKQFS4ffeTtiFnRpvs4H4oJ/xusmo8MtUB0fuKDN3faNFISpEf6IctBZrA2gVIKRBW+zOCRn7+IjsXd3wrM1LU4NJ+Nli1lYuUAb7HVO6YD2HGBINP2oYuiqpUD365V2gZcZEvDRUjDZP0WMJ6TH6v3rcbL0rrxj/oAt5xuz44N/H8l2rqs6byTniHMKKUET/tnV5lt3+b+JeN4iopy8FUnGoiqjky6YLChFjOK+zNVFVKVIsXZRoQhf52Z1Sr6v85P84He9x93ZY5ZTPFAxx2g4OU0FiH1Tyih+U=;Dm/y7h2BGkVco56vEzw99A=="
+secured: "NSL1l54hnHclcxn8BiLGYQC4kwbzXl/gltRKUGlcnJ67uRzs/vxEi5MU6PbyajzuUkVg27xkT5lLlLKBEKmb9vTMC800OkPuRxnwHBcnPyZiHRcdKSbKfx9g9F5fLM+2nBR+o9ZNtTwHRxCUzSRalKyuHxpBAXMlOOCRqZitoqPSMeLx2boPAcfihpsd98/nHFaV8YpL1gQWiqiOnTsEBhiKsgjqarc6FhwM2nPwfKz++U+7x40oHOGY/+syUwkh9Cf6zSa6QMCz+JdUtYIJQ4OJoseQUYFC7Wg+nkUj0dHNRuUpkV+wJHhxRrp2Vp5cWFgmnje5TbBvLJNMqhGwMlcdPuA+kt8ayGSkwf9Doj0=;fsVfAcscVa/tuqLtO+INeA=="
 ---
 

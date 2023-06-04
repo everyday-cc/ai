@@ -34,38 +34,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "AI poses 'extinction' risk comparable to nuclear war, CEOs of OpenAI, DeepMind, and Anthropic say"
-    excerpt: "OpenAI's Altman, DeepMind's Hassabis, and Anthropic's Amodei have all supported a statement that compares the risks of AI with nuclear war."
-    publishedDateTime: 2023-05-30T13:39:00Z
-    webUrl: "https://www.businessinsider.com/ai-extinction-risk-openai-deepmind-anthropic-ceos-sam-altman-2023-5"
-    ampWebUrl: "https://www.businessinsider.com/ai-extinction-risk-openai-deepmind-anthropic-ceos-sam-altman-2023-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-extinction-risk-openai-deepmind-anthropic-ceos-sam-altman-2023-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
-    images:
-      - url: "https://i.insider.com/642f1618c328830019d9f954?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "AI Could Cause Human ‘Extinction,’ Tech Leaders Warn"
-    excerpt: "The statement was published by the U.S.-based nonprofit the Center for AI Safety, which works to reduce society-level risks associated with AI by conducting safety research and advocating ... AI and the parent company of Facebook, WhatsApp and Instagram ..."
-    publishedDateTime: 2023-05-30T13:53:00Z
-    webUrl: "https://www.forbes.com/sites/roberthart/2023/05/30/ai-could-cause-human-extinction-tech-leaders-warn/"
-    ampWebUrl: "https://www.forbes.com/sites/roberthart/2023/05/30/ai-could-cause-human-extinction-tech-leaders-warn/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2023/05/30/ai-could-cause-human-extinction-tech-leaders-warn/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6475f0913ec5532ebf996725/0x0.jpg?format=jpg&crop=1643,924,x0,y45,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI risks leading humanity to 'extinction,' experts warn"
     excerpt: "It's the most recent in a series of alarms raised by experts in artificial intelligence — but also one that stoked growing pushback against a focus on what seem to be its overhyped hypothetical harms."
     publishedDateTime: 2023-05-30T23:32:00Z
@@ -130,22 +98,6 @@ related:
         width: 976
         height: 549
         isCached: true
-  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-    excerpt: "The CEO of ChatGPT maker OpenAI and Geoffrey Hinton, a computer scientist known as the godfather of artificial intelligence, were among the hundreds who signed the statement."
-    publishedDateTime: 2023-05-30T13:52:00Z
-    webUrl: "https://www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/"
-    ampWebUrl: "https://www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wbko-com.cdn.ampproject.org/c/s/www.wbko.com/2023/05/30/artificial-intelligence-threatens-extinction-experts-say-new-warning/?outputType=amp"
-    type: article
-    provider:
-      name: WBKO
-      domain: wbko.com
-    quality: 71
-    images:
-      - url: "https://gray-wbko-prod.cdn.arcpublishing.com/resizer/wrYe8fQWyWO4qsBHNYCCpecnit0=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/Q6MEL7G7DFFQHG4DPHGOYZDKIU.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "AI Industry Leaders Sign Statement Warning of 'Extinction' Level Risks"
     excerpt: "The statement, signed by OpenAI CEO Sam Altman and DeepMind CEO Demis Hassabis, says mitigating the risks of AI should be a global priority."
     publishedDateTime: 2023-05-30T17:25:00Z
@@ -173,20 +125,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1685607676-Untitleddesign-2023-06-01T134751526.jpg?format=pjeg&auto=webp"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Runaway AI Is an Extinction Risk, Experts Warn"
-    excerpt: "A new statement from industry leaders cautions that artificial intelligence poses a threat to humanity on par with nuclear war or a pandemic."
-    publishedDateTime: 2023-05-30T13:55:00Z
-    webUrl: "https://www.wired.com/story/runaway-ai-extinction-statement/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/6475fb456b2fffe52ad78f78/191:100/w_1280,c_limit/Lett_AI_biz_GettyImages-1083121110.jpg"
-        width: 1280
-        height: 670
         isCached: true
   - title: "Top AI researchers and CEOs warn against ‘risk of extinction’ in joint statement"
     excerpt: "Experts in the field of artificial intelligence have signed a statement emphasizing the existential threat posed by advanced AI."
@@ -264,20 +202,6 @@ related:
         width: 1200
         height: 552
         isCached: true
-  - title: "Humans risk extinction from AI, Deepmind and OpenAI warn"
-    excerpt: "Artificial intelligence bosses say mitigating risk of extinction from AI should be ‘global priority alongside pandemics and nuclear war’"
-    publishedDateTime: 2023-05-30T15:01:00Z
-    webUrl: "https://www.independent.co.uk/tech/ai-existential-risk-deepmind-openai-b2348380.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 54
-    images:
-      - url: "https://static.independent.co.uk/2023/05/30/17/1fb93159f6448e9580007f27bdc17016Y29udGVudHNlYXJjaGFwaSwxNjg1NTQ4Mjcw-2.29338284.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI could pose \"risk of extinction\" akin to nuclear war and pandemics, experts say"
     excerpt: "Leaders from OpenAI, Google and others involved in artificial intelligence are warning about its potential for societal harm."
     publishedDateTime: 2023-05-30T16:44:00Z
@@ -308,15 +232,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Top AI CEOs, experts raise 'risk of extinction' from AI"
-    excerpt: "AI pioneer Hinton earlier told Reuters that AI could pose a ... Technologycategory China, South Korea agree to strengthen talks on chip industry, Chinese commerce ministry says May 27, 2023 Technologycategory China urges Japan to halt export restrictions ..."
-    publishedDateTime: 2023-05-30T13:10:00Z
-    webUrl: "https://www.reuters.com/technology/top-ai-ceos-experts-raise-risk-extinction-ai-2023-05-30/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
   - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
     excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
     publishedDateTime: 2023-05-31T12:32:00Z
@@ -356,17 +271,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "AI could lead to 'extinction', warn experts including heads of OpenAI and Google Deepmind"
-    excerpt: "World leaders are being called on to halt the risk of 'extinction' at the hands of artificial intelligence. Business and academic leaders, including the heads of OpenAI and Google Deepmind, said the risks from AI should be treated with the same urgency as pandemics or nuclear war."
-    publishedDateTime: 2023-05-30T14:23:00Z
-    webUrl: "https://www.lbc.co.uk/news/ai-could-lead-to-extinction-warn-experts/"
-    ampWebUrl: "https://amp.lbc.co.uk/news/ai-could-lead-to-extinction-warn-experts/"
-    cdnAmpWebUrl: "https://amp-lbc-co-uk.cdn.ampproject.org/c/s/amp.lbc.co.uk/news/ai-could-lead-to-extinction-warn-experts/"
-    type: article
-    provider:
-      name: LBC
-      domain: lbc.co.uk
-    quality: 45
   - title: "Artificial intelligence could one day cause human extinction, center for AI safety warns"
     excerpt: "Worries about artificial intelligence systems outsmarting humans and running wild have intensified with the rise of a new generation of highly capable AI chatbots such as ChatGPT."
     publishedDateTime: 2023-05-30T16:52:00Z
@@ -437,20 +341,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Eminent AI experts and corporate heads caution about the probability of ‘extinction risk’"
-    excerpt: "Renowned figures in the technology industry, including the leaders of OpenAI and Google Deepmind, have issued a warning about the potential dangers associated"
-    publishedDateTime: 2023-05-30T14:37:00Z
-    webUrl: "https://www.onmsft.com/news/eminent-ai-experts-and-corporate-heads-caution-about-the-probability-of-extinction-risk/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 30
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/03/Artificial-Intelligence-AI.png"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "AI Leaders Warn of ‘Risk of Extinction’"
     excerpt: "In an era marked by rapid technological advancements, the ascension of artificial intelligence (AI) stands at the forefront of innovation. However, this same marvel of human intellect that drives progress and convenience is also raising existential concerns for the future of humanity,"
     publishedDateTime: 2023-05-30T19:39:00Z
@@ -478,15 +368,6 @@ related:
       name: BBC
       domain: bbc.co.uk
     quality: 17
-  - title: "Artificial intelligence threatens extinction, experts say in new warning"
-    excerpt: "Sam Altman, CEO of ChatGPT maker OpenAI, and Geoffrey Hinton, a computer scientist known as the godfather of artificial intelligence, were among the hundreds of leading figures who signed the statement,"
-    publishedDateTime: 2023-05-30T14:04:00Z
-    webUrl: "https://www.chron.com/news/world/article/artificial-intelligence-threatens-extinction-18125404.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 16
   - title: "‘Mitigating the risk of extinction’: As the capabilities of artificial intelligence grow, so do calls for regulation"
     excerpt: "The Center for AI Safety released a statement earlier this week signed by a group of leaders in artificial intelligence about the technology’s risks: “Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks,"
     publishedDateTime: 2023-06-01T18:53:00Z

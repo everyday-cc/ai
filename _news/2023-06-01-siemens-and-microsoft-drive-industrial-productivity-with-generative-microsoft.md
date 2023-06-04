@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI $7 Trillion Ecosystem: Invest In Nvidia, Microsoft, Adobe And More"
-    excerpt: "Worldwide cloud revenue is expected to increase 21.7% in 2023 to $597.3 billion. Gartner IT +1.5% expects generative AI to create “a surge in cloud revenue” driven primarily by these and other hyperscalers. Ultimately, all the investment in generative AI technology must result in applications that people pay money to use."
-    publishedDateTime: 2023-05-30T14:19:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/05/30/generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more/"
-    ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/05/30/generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/05/30/generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 101
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64733c9329fc673cfa0cb088/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft vets lead secretive education startup using generative AI to help students learn"
     excerpt: "Two decades after selling their startup to Microsoft, Eran Megiddo and Liviu Asnash are going back to their entrepreneurial roots. The longtime Microsoft leaders are the co-founders of Maximal Learning,"
     publishedDateTime: 2023-05-31T14:13:00Z
@@ -49,6 +33,36 @@ related:
         width: 1088
         height: 539
         isCached: true
+  - title: "Paycor Strengthens Talent Platform with AI-Generated Job Description Feature Powered by Microsoft Azure OpenAI Service"
+    excerpt: "Newest Offering Automates the Process of Creating Job Descriptions, Optimizing the Talent Acquisition Process for Leaders CINCINNATI, June 1,"
+    publishedDateTime: 2023-06-01T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/paycor-strengthens-talent-platform-with-ai-generated-job-description-feature-powered-by-microsoft-azure-openai-service-1032364080"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
+    images:
+      - url: "https://mma.prnewswire.com/media/1738526/PaycorLogo_v2.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Microsoft bolsters AI capabilities with coreWeave partnership"
+    excerpt: "which offers simplified access to Nvidia's powerful GPUs for running AI models. Microsoft's investment in CoreWeave aims to ensure that OpenAI's viral ChatGPT chatbot has sufficient computing power. OpenAI relies on Microsoft's Azure cloud infrastructure ..."
+    publishedDateTime: 2023-06-01T21:37:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1076105-microsoft-bolsters-ai-capabilities-with-coreweave-partnership"
+    ampWebUrl: "https://www.thenews.com.pk/amp/1076105-microsoft-bolsters-ai-capabilities-with-coreweave-partnership"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1076105-microsoft-bolsters-ai-capabilities-with-coreweave-partnership"
+    type: article
+    provider:
+      name: The News International
+      domain: thenews.com.pk
+    quality: 74
+    images:
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-06-02/1076105_024731_updates.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Microsoft Has Launched “Jugalbandi”—A New Generative AI App for India"
     excerpt: "India, home to more than 1.4 billion people, is an incredibly ripe market for digital and AI-based innovation."
     publishedDateTime: 2023-05-31T10:00:00Z
@@ -58,6 +72,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 66
+  - title: "China isn’t waiting to set down rules on generative AI"
+    excerpt: "The draft regulation released in April is part of a large game of tech industry whack-a-mole. China Report is MIT Technology Review’s newsletter about technology developments in China. Sign up to receive it in your inbox every Tuesday."
+    publishedDateTime: 2023-05-31T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/31/1073743/china-generative-ai-quick-regulation/"
+    ampWebUrl: "https://www.technologyreview.com/2023/05/31/1073743/china-generative-ai-quick-regulation/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/31/1073743/china-generative-ai-quick-regulation/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/AP23075301204542-crop.jpeg?w=3000"
+        width: 3000
+        height: 1687
+        isCached: true
   - title: "Microsoft: Generative AI Unlocking Growth Potential"
     excerpt: "Microsoft's AI initiatives, including the availability of OpenAI's GPT-4 in Azure, OpenAI Service and the introduction of Azure AI Studio can potentially drive significant growth and expand ..."
     publishedDateTime: 2023-05-31T23:32:00Z
@@ -72,89 +102,6 @@ related:
         width: 1536
         height: 864
         isCached: true
-  - title: "Nvidia became a $1 trillion company thanks to the AI boom"
-    excerpt: "This latest push comes after Nvidia’s business boomed early in the pandemic during a GPU shortage while they ... team up to build ‘massive’ AI supercomputer 2016: Nvidia bets big on AI ..."
-    publishedDateTime: 2023-05-30T13:47:00Z
-    webUrl: "https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 49
-  - title: "AI demand briefly catapults Nvidia into $1 trillion club"
-    excerpt: "The total value of computer chip and graphics processing card manufacturer Nvidia briefly touched $1 trillion on May 30 as demand for the company’s artificial intelligence tech surged into overdrive."
-    publishedDateTime: 2023-05-31T00:40:00Z
-    webUrl: "https://cointelegraph.com/news/nvidia-briefly-hits-1-trillion-market-cap"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 39
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-05/795d3f2c-200d-4544-9605-74bfbb101f9d.jpg"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "Fueled by AI, Nvidia joins the $1 trillion club"
-    excerpt: "Booming demand for its AI chips has landed Nvidia (NVDA) a prime spot in one of the most exclusive clubs on Wall Street: The chipmaker hit a market cap of $1 trillion on Tuesday. It’s just the ninth company globally to have achieved such a feat,"
-    publishedDateTime: 2023-05-30T20:42:00Z
-    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/05/30/nvidia-joins-the-1-trillion-club/"
-    type: article
-    provider:
-      name: KRDO
-      domain: krdo.com
-    quality: 39
-    images:
-      - url: "https://krdo.b-cdn.net/2023/05/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG9uZS10aHVtYm5haWwtNmM4ZTdmNmM3YzhmNDBmZTY2ODg0ODkxMGY4NjFhNTM-L19wYWdlcy9oXzM3MmNkZDY1MDg2YmY2ZTBjZWIyMDkwYjRjZmZhOWYz-300.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Nvidia joins trillion-dollar club, riding on the AI boom"
-    excerpt: "Nvidia Corp, the chip-maker, reaches an elite status, joining US companies with a market value of over $1 trillion."
-    publishedDateTime: 2023-05-30T17:10:00Z
-    webUrl: "https://interestingengineering.com/innovation/nvidia-joins-trillion-dollar-club-riding-on-the-ai-boom"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/30/image/jpeg/3sL71HLAMXd4tYS7CJGu8laOnawvwd8VjT2csGpB.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Interest in AI causes developer Nvidia to reach $1 trillion in value"
-    excerpt: "As investors piled more capital into Nvidia the chipmaker has become one of the biggest winners of the artificial intelligence boom"
-    publishedDateTime: 2023-06-02T15:54:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273852108/interest-in-ai-causes-developer-nvidia-to-reach-1-trillion-in-value"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1685591446215.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "The generative AI hype bubble runs through Nvidia"
-    excerpt: "Generative AI is the hottest trend on Wall Street. Ever since OpenAI’s ChatGPT debuted in late 2022, kicking off a flurry of activity in the space, investors have been piling into AI stocks. And Nvidia (NVDA) has been the biggest winner."
-    publishedDateTime: 2023-05-31T19:41:00Z
-    webUrl: "https://www.aol.com/finance/generative-ai-hype-bubble-runs-164142386.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
-  - title: "Nvidia eclipses $1 trillion market capitalization on artificial intelligence boom"
-    excerpt: "The semiconductor company Nvidia crossed the trillion-dollar market capitalization mark Tuesday, riding an artificial intelligence-propelled boom to become the fifth company to pass the historic threshold."
-    publishedDateTime: 2023-05-30T13:46:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/nvidia-joins-trillion-multi-dollar-market-cap-"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 12
 
 secured: "jvuGddqN7d/F9x+hiZtUPU+L27bzZL8hDDymvFLoz3q9j4Y+BmUz/1RFUDiFyuinWp4e8lfjpoHkyfUk1hLXfGmxH7gdZLP8q2x9Gls1ELWaR1fkz7drf5R1o0FU2yd3ar41rDDRFZU0FfKV8ylxQxpViIz7wpTTLyP6T1Wvr9TgWta/A1sxWr+P+2sj6mUv3LNRlz+cbYeOPsb3B1IIbkoleakaqyg1QxZ5roZt14ZhG3hJqUn/JF1rWNCgj1OzvML2JES1JrLdyqEHcBKPu5NhTePpkeUsMlixyMlc/UAFEz1CzbM3Qz9NRn/PAVzBfhqGpeARKCuIrIYqltDYJMaHbDy3Lv90PnB+PSc8+fY=;X8B3xyVixN/F+HLJ4PCRTQ=="
 ---

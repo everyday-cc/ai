@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Clalit Health Services plans to use Artificial Intelligence and Machine Learning to further enhance patient care"
-excerpt: "Cloudera, the hybrid data company, today announced its collaboration with Clalit Health Services, the largest of Israel's four state-mandated health service organizations. The health service provider is set to harness the Cloudera Data Platform (CDP) to provide high-quality,"
-publishedDateTime: 2023-05-31T10:18:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/05/31/9823225.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/05/31/9823225.htm"
+excerpt: "Liora Shechter, VP Digital & Technology, Clalit Health Services, said, \"We will use Cloudera Data Platform to apply real time interfaces, artificial ... approach to healthcare delivery and its ..."
+publishedDateTime: 2023-05-31T10:23:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20230531sf15074/clalit-health-services-plans-to-use-artificial-intelligence-and-machine-learning-to-further-enhance-patient-care"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20230531sf15074/clalit-health-services-plans-to-use-artificial-intelligence-and-machine-learning-to-further-enhance-patient-care"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar
+  domain: morningstar.com
 
 topics:
   - AI in Healthcare
@@ -35,6 +35,22 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7cd60392-d2ad-44a6-81e7-6e274b66a4ae/2d72dd9f-59e1-4876-970b-40c3f8b45c87/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
+    publishedDateTime: 2023-06-01T13:10:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 68
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "AI chips are hot. Here's what they are."
     excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip,"
@@ -89,20 +105,6 @@ related:
       name: 92.7 WMAY
       domain: wmay.com
     quality: 46
-  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
-    publishedDateTime: 2023-06-01T09:31:00Z
-    webUrl: "https://www.local10.com/business/2023/06/01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
-    type: article
-    provider:
-      name: WPLG
-      domain: local10.com
-    quality: 33
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SIQQ7UVKUNDXRHQQE2TFZQO3RU.jpg?_a=ATCqVhC0"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Orlando companies harness the power of AI in revolutionizing health care"
     excerpt: "As the health care industry faces staffing shortages and rising costs, AI is offering a solution that can free up time for health care providers to focus on patient care."
     publishedDateTime: 2023-06-01T04:00:00Z
@@ -122,6 +124,6 @@ related:
       domain: northjersey.com
     quality: 17
 
-secured: "q3XtML4fSlS0V7nNY3/uTOV3wmhPQyk7MBft3GSiohDVC+OintE0C/ZajAsuaEFpoj2NiF/Z17UHdKqxoMdZkvdBaY8EGActismQTtXflzoMmVr58d4q0vb9VAhL2NsyBiMLyftKtoHK3KCvX42k64ZfwQ0jGaHSCjRqQApUwAJ72YH5AmWvgA9Ic/+AhRxcZmgRXwsn9MLw9aLSwdlQXF67BOj3leKvqO8Yig3GQfDVU+2Pvd5V3o2BI2UhSHozmKXL4/s1me2JN0TkNbxjDESoG4FC9mO07ZVZm2fYqOag2r8851s6fLT4KnQzXffrRNkH0Y4ImOPYRRCH0ptM4h+/bP+E5Vtw7c7n7h4eQwo=;G8DbQPfGn/PqKNCVytpuIg=="
+secured: "ydoeBDd/gZMzirgsEFpCqoQ8kt3M6Y7V1S1yThtHVEirgGaeOqVFpLE04VbngScCrWzDYo2sNIcDsrDDH+3UGcxZn/Xw5pww0n+dAavaqL5aFbearMnAvrwFvGbEXR+YGUe/suaQU71JFiyhE4w9P0raAFaIGZy+gDw6O4vi4+khwRanN3jsXQzaHuIDyEahfx3MpcY+l6OCXQbgT832Yn/whVfvyOjnXNBQ33nr37rLHkI8KuBp19Hr4xiYnaPL/waV+393EqVJ7G4srWAGcvFSkxA3Kh9awhnEGji+BqvgK397zMdqA3EoV+yu9UEv0Qfp+CKfFe1Vqs6K/QPvNJS8ue+0akmEHeQjrAXUvcY=;HpCLiAKA0HbhG9B80cxgbg=="
 ---
 

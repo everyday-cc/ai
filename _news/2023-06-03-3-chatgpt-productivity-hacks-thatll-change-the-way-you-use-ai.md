@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 652
         isCached: true
-  - title: "AI Tools Like ChatGPT Will Fail Without Data Integrity – Here’s Why"
-    excerpt: "New generative artificial intelligence (AI) tools such as ChatGPT have generated enormous interest in recent months because they can alter how people find information."
-    publishedDateTime: 2023-05-30T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/garydrenik/2023/05/30/ai-tools-like-chatgpt-will-fail-without-data-integrity--heres-why/"
-    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/05/30/ai-tools-like-chatgpt-will-fail-without-data-integrity--heres-why/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/05/30/ai-tools-like-chatgpt-will-fail-without-data-integrity--heres-why/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6470dcd4b55484225b03a700/0x0.jpg?format=jpg&width=1200"
-        width: 640
-        height: 384
-        isCached: true
   - title: "ChatGPT vs Bing Chat vs Google Bard: Which is the best AI chatbot?"
     excerpt: "GPT-4 is the largest LLM available for use when compared to all other AI chatbots. GPT-4 has over 100 trillion parameters; GPT-3.5 has 175 billion parameters. More parameters means that, essentially, the model is trained on more data, which makes it more likely to answer questions correctly."
     publishedDateTime: 2023-05-30T16:26:00Z
@@ -240,20 +224,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "ChatGPT launched six months ago. Its impact — and fallout — is just beginning | The AI Beat"
-    excerpt: "A mere six months ago today, OpenAI released ChatGPT. It's been a dizzying AI ride, but it's impact — and fallout — is just beginning."
-    publishedDateTime: 2023-05-30T14:37:00Z
-    webUrl: "https://venturebeat.com/ai/chatgpt-launched-six-months-ago-its-impact-and-fallout-is-just-beginning-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Untitled-design-78.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "A lawyer got ChatGPT to do his research, but he isn’t AI’s biggest fool"
     excerpt: "The emerging technology is causing pratfalls all over – not least tech bosses begging for someone to regulate them"
     publishedDateTime: 2023-06-03T14:00:00Z
@@ -399,20 +369,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
-  - title: "Generative AI May Be the Future, But APIs Impact Profitability Today"
-    excerpt: "One of the tools that law firms can use right now to impact firm profitability and protect against being unequipped when even more consequential evolutions of generative AI emerge in the future are plug-and-play APIs to get access to structured,"
-    publishedDateTime: 2023-05-30T13:53:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/05/30/generative-ai-may-be-the-future-but-apis-impact-profitability-today/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/05/API-coding-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
   - title: "This test might be an easy way to distinguish humans from AI like ChatGPT"
     excerpt: "A test called the Capital Letter Test might help you discern a human from generative AI software like ChatGPT - here's how it works."
     publishedDateTime: 2023-06-02T17:04:00Z
@@ -458,20 +414,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--fYeRF4wY--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/05/31/china_xiao-i.png?itok=9K8E7QKU"
         width: 1200
         height: 676
-        isCached: true
-  - title: "We can’t put the ChatGPT AI genie back in the bottle, even if it means risking extinction"
-    excerpt: "Top AI researchers sign 22-word \"risk of extinction\" warning - but I think we can't afford to put ChatGPT back in the box."
-    publishedDateTime: 2023-05-30T14:47:00Z
-    webUrl: "https://bgr.com/tech/we-cant-put-the-chatgpt-ai-genie-back-in-the-bottle-even-if-it-means-risking-extinction/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 30
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/02/ChatGPT.jpg?quality=82&strip=all"
-        width: 2000
-        height: 1330
         isCached: true
   - title: "ChatGPT and Generative AI in Media and Advertising: With Use Cases Set, the Battle for Hearts and Minds Begins"
     excerpt: "Generative AI can already do much of the work and low-skilled labor that powers modern media and advertising."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips"
 type: article
 quality: 97
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 55
-  - title: "Nvidia to demand a premium for AI chips"
-    excerpt: "The AI hype is providing Nvidia with plenty of cashflow. Announcements of new Nvidia partners keep coming, but it seems the company will continue to face"
-    publishedDateTime: 2023-05-30T14:59:00Z
-    webUrl: "https://www.techzine.eu/news/applications/106652/nvidia-to-demand-a-premium-for-ai-chips/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/evk3-300x300.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "NVIDIA: From Chipmaker to Trillion-Dollar AI Powerhouse"
     excerpt: "From being a renowned chipmaker for computer graphics to an industry titan momentarily reaching a trillion-dollar valuation, Nvidia's journey is one for the business books. This rapid ascent is a testament to the growing significance of artificial intelligence (AI) in shaping the future of technology."
     publishedDateTime: 2023-05-31T21:19:00Z
@@ -144,6 +130,34 @@ related:
       name: Time
       domain: time.com
     quality: 47
+  - title: "Nvidia joins trillion-dollar club, riding on the AI boom"
+    excerpt: "Nvidia Corp, the chip-maker, reaches an elite status, joining US companies with a market value of over $1 trillion."
+    publishedDateTime: 2023-05-30T17:10:00Z
+    webUrl: "https://interestingengineering.com/innovation/nvidia-joins-trillion-dollar-club-riding-on-the-ai-boom"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/30/image/jpeg/3sL71HLAMXd4tYS7CJGu8laOnawvwd8VjT2csGpB.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Interest in AI causes developer Nvidia to reach $1 trillion in value"
+    excerpt: "As investors piled more capital into Nvidia the chipmaker has become one of the biggest winners of the artificial intelligence boom"
+    publishedDateTime: 2023-06-02T15:54:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273852108/interest-in-ai-causes-developer-nvidia-to-reach-1-trillion-in-value"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1685591446215.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "UoJRPvVaU1I77ognEZfUZ0gT83eODbiMJaY+FR/so2hIANaABnXMz/xlGUXH5exH4AlfXBBQPUAsOdjLUtgRgHLblvel+KK3O3FfioXT9jEbVJnovkh76vd0abgHhFYZMBkoB+ELv05XkSZ+R97PRML3pm1azqQwNC2e+6ixHmzogrAFc7E54ygz/jQyURwsewkhvHkomkcF3LlFhfgDbVKfONE9rpQBVRRR32KhIsJBRjAxNmhF6ULCuX91YffNFJ4L4csO0emeuGoUyu+rA2RWmjkEKMmCUF07FQi6te0pFV0N74jhrYbD91yIq/+W6pvuSfrlIfjNL8OD3F6o2ByYG5bOmvIAqM6yjf1K2mY=;O5yDtYIEKsA/A6v+wJNGTw=="
 ---

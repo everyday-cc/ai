@@ -2,21 +2,27 @@
 category: news
 title: "What's new in robots? An AI-powered humanoid machine that writes poems"
 excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said."
-publishedDateTime: 2023-05-30T17:34:00Z
-originalUrl: "https://www.chron.com/news/world/article/what-s-new-in-robots-an-ai-powered-humanoid-18125979.php"
-webUrl: "https://www.chron.com/news/world/article/what-s-new-in-robots-an-ai-powered-humanoid-18125979.php"
+publishedDateTime: 2023-05-31T13:59:00Z
+originalUrl: "https://poststar.com/news/nation-world/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_212b18b0-04cf-5e72-a6a5-8efdb53ab2a5.html"
+webUrl: "https://poststar.com/news/nation-world/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_212b18b0-04cf-5e72-a6a5-8efdb53ab2a5.html"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: The Post-Star
+  domain: poststar.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/poststar.com/content/tncms/assets/v3/editorial/2/12/212b18b0-04cf-5e72-a6a5-8efdb53ab2a5/6477381b48c4b.preview.jpg?crop=1739%2C914%2C24%2C33&resize=1200%2C631&order=crop%2Cresize"
+    width: 1200
+    height: 631
+    isCached: true
 
 related:
   - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
@@ -82,6 +88,6 @@ related:
         height: 399
         isCached: true
 
-secured: "SkJFbQhZAWb9cT5mvTVKXav2xwLTJ2Qx4OmMuRYk0Z269KarA0T9JSS63anoki8GvvUv7bm8Tnn/k70JWsyRulsx7s1NVyLL7necuKagTiSjuDiduUZQqiurW3ONGXbsMmggtiRrh7qJOmvwpFdzy5JOTJhJ7ZvZQKKHVdv6/ID1DjlSHH13XlcTogEfZD0zfrlN/0Sas043HqgWRiTq2NVgOaOA5o5fTb0d9UANDini7izJnPX8cyTtGvx7nzKDAdA2nimc+8kI5uqL1ke2PjndFBR56EHsN6kXLLJy4HC+XOzK5BEha1VA6Y1O8Tt5JnuDlrRu1PMDE4/gnU15PuT74/TH2kpFdJVgsugCSKs=;fw9BkNnROUUIBtfI1Ttcog=="
+secured: "1C/s193r/0HPZMB8QLkMcT3KH5cCFqw0WcNzocSF+Wib9OARl1t8nyh9lc26ZDaieywCow47LedsB9UmT7+IvhWsmsPsv5IPuaoWGzcdUqMcCaLDlUy5tKEauPuhp1kmU46J1C5Mw0Oeqf/7v9O1kE45FLOzkVfMqCh+yMqrq+GBiYc+ggtJG5LgEEqB7WgPzFBjt00WtlVWFjpJpvH0Re+7JQGgj4/kjTJ+enRjYrpFRUekIwprYxuMP3Uy/rJ07/t3ROAiDj7bMRFbQNTTx7yb1ArNIjtL/hPomczYYPZvZucjmFQ2g0QATIcRymGHxVuJpbJVq6f2FWtjTswprPSzsZNNl/6FZhiYduhmes4=;E7ej4mnNOD/8O5PpUdHecA=="
 ---
 

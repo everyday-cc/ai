@@ -80,22 +80,6 @@ related:
         width: 1200
         height: 613
         isCached: true
-  - title: "AI & IP—Data Protection At The Crossroads Of Innovation And Intellectual Property"
-    excerpt: "From cutting-edge registration techniques to implementing privacy-enhancing technologies, businesses must be creative and forward-thinking in protecting intellectual property in the AI age."
-    publishedDateTime: 2023-05-30T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/30/ai--ip-data-protection-at-the-crossroads-of-innovation-and-intellectual-property/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/05/30/ai--ip-data-protection-at-the-crossroads-of-innovation-and-intellectual-property/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/30/ai--ip-data-protection-at-the-crossroads-of-innovation-and-intellectual-property/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61095ac215869a022481acb3/0x0.jpg?format=jpg&crop=3283,1848,x0,y109,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How a Jiffy Lube franchisee with 500 locations used machine learning to fine-tune their finance tech transformation"
     excerpt: "So, the company made the move to modernize how it handles financial workflows with automation and machine learning. “The first thing we ... after more than three decades of service with the company, according to a Securities and Exchange Commission ..."
     publishedDateTime: 2023-06-02T11:33:00Z
@@ -168,22 +152,6 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/54505-110094-Apple-Siri-xl.jpg"
         width: 1312
         height: 738
-        isCached: true
-  - title: "Deep learning helps in global estimation of phytoplankton pigment concentrations"
-    excerpt: "The community structure of phytoplankton can reflect changes in marine environment and help us understand driving factors behind ecological evolution. Quantifying pigment concentration in phytoplankton is crucial for comprehensive assessment of taxonomic classification and community structure."
-    publishedDateTime: 2023-05-30T14:29:00Z
-    webUrl: "https://phys.org/news/2023-05-deep-global-phytoplankton-pigment.html"
-    ampWebUrl: "https://phys.org/news/2023-05-deep-global-phytoplankton-pigment.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-deep-global-phytoplankton-pigment.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/plankton.jpg"
-        width: 1250
-        height: 1250
         isCached: true
   - title: "CreativAI srl Launches AI Chat Master: An Innovative AI-Powered Chat Assistant App"
     excerpt: "AI Chat Master, a powerful AI-powered chat assistant app by CreativAI srl, features natural dialogue, question answering, text generation, automatic translation, and more. AI Chat Master revolutionize"

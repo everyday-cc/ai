@@ -2,57 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-06-01-how-krista-software-helped-zimperium-speed-development-and-reduce-costs-with-ibm-watson.md",
-      "title": "How Krista Software helped Zimperium speed development and reduce costs with IBM Watson",
-      "excerpt": "Successful businesses are embracing the power of AI to help streamline operations, generate insights, boost productivity and drive more value for clients. However, for many enterprises, the barrier to entry for integrating trustworthy, scalable and transparent AI remains high. In fact, 80% of enterprise",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-krista-software-helped-zimperium-speed-development-and-reduce-costs-with-ibm-watson/",
-      "originalUrl": "https://www.ibm.com/blog/how-krista-software-helped-zimperium-speed-development-and-reduce-costs-with-ibm-watson/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/How-Krista-Software-helped-Zimperium-speed-development-and-reduce-costs-with-IBM-Watson-scaled.jpg",
-          "width": 2560,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-01-secs-climate-disclosure-rule-proposal-explained.md",
       "title": "SEC’s climate disclosure rule proposal explained",
       "excerpt": "The Securities and Exchange Commission&#160;(SEC) has issued a&#160;rule proposal&#160;to standardize the way organizations make climate-related disclosures. The rule proposal would require US publicly traded companies to disclose annually how their businesses are assessing, measuring and managing climate-related",
@@ -658,7 +607,7 @@
       "originalUrl": "https://www.smechannels.com/crowdstrike-to-accelerate-development-of-ai-in-cybersecurity-with-aws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -752,7 +701,7 @@
       "originalUrl": "https://www.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -1235,6 +1184,50 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-scale-your-machine-learning-workloads-on-amazon-ecs-powered-by-aws-trainium-instances.md",
+      "title": "Scale your machine learning workloads on Amazon ECS powered by AWS Trainium instances",
+      "excerpt": "Running machine learning (ML) workloads with containers is becoming a common practice. Containers can fully encapsulate not just your training code, but the entire dependency stack down to the hardware libraries and drivers. What you get is an ML development environment that is consistent and portable.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scale-your-machine-learning-workloads-on-amazon-ecs-powered-by-aws-trainium-instances/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scale-your-machine-learning-workloads-on-amazon-ecs-powered-by-aws-trainium-instances/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T12:49:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
       ]
     }
   ],

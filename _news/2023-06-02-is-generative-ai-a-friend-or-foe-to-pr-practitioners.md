@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/is-gener
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/02/is-generative-ai-a-friend-or-foe-to-pr-practitioners/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/05/image1-8.png?w=1200&strip=all"
         width: 1045
         height: 598
-        isCached: true
-  - title: "China isn’t waiting to set down rules on generative AI"
-    excerpt: "The draft regulation released in April is part of a large game of tech industry whack-a-mole. China Report is MIT Technology Review’s newsletter about technology developments in China. Sign up to receive it in your inbox every Tuesday."
-    publishedDateTime: 2023-05-31T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/31/1073743/china-generative-ai-quick-regulation/"
-    ampWebUrl: "https://www.technologyreview.com/2023/05/31/1073743/china-generative-ai-quick-regulation/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/31/1073743/china-generative-ai-quick-regulation/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/AP23075301204542-crop.jpeg?w=3000"
-        width: 3000
-        height: 1687
         isCached: true
 
 secured: "H0rA02VS5rtSJqPLCx5zhYTRdoVXDeFAyR06s0HhJNr6cFuzkuvhRmrnwfvLyRVKNRToOu54W4cioEXMpUYTb0QiKEsEwRW+nMdVe0b6354kqRwqGfvQ3ZbIJEoLz+x19u7+BVd/CA5lWxxA9vPJOWGm7bAhL4PzQXLHpvs5A8L2h3pCni+L9cdfBZjkLUHwdKmgDw+AzJrtRA2marZJNrQtSWiVTY0yCY2FAbi4FKqtJ93FhIvniLm6Ypkfr8tD4XxeMDcUru3/aylr6ev3JY9pRp3t8mx4ylTjgAPCnMLMM3XmgleNMUT1N0GvgbfI32OykP6m3x+gqbFBxkoIroAyhHeo8PUJSWVjXsMr3OU=;pzsN7B6mxOnkzrFaLXF7xA=="

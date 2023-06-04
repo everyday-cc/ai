@@ -7,7 +7,7 @@ originalUrl: "https://www.smechannels.com/crowdstrike-to-accelerate-development-
 webUrl: "https://www.smechannels.com/crowdstrike-to-accelerate-development-of-ai-in-cybersecurity-with-aws/"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/crowdstrike.png"
         width: 718
         height: 400
+        isCached: true
+  - title: "OneDegree Global and Microsoft Join Forces to Drive Insurtech and Cybersecurity Innovations with Azure OpenAI"
+    excerpt: "OneDegree Global (OneDegree), a leading technology startup in the insurtech and cybersecurity sectors, is thrilled to announce a strategic partnership with Microsoft Hong Kong. This collaboration marks a major milestone as OneDegree integrates Azure OpenAI Service into its IXT insurtech and Cymetrics cybersecurity solutions,"
+    publishedDateTime: 2023-06-02T07:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-onedegree-global-microsoft-jo-forces-drive-insurtech-cybersecurity-/2023/06/02/9825439.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 50
+    images:
+      - url: "https://mma.prnewswire.com/media/2091414/OneDegree_Global_and_Microsoft_Join_Forces_to_Drive_Insurtech_and_Cybersecurity_Innovations_with_Azu.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "CrowdStrike to Accelerate Development of AI in Cybersecurity with AWS"
     excerpt: "CrowdStrike is leveraging new generative AI capabilities of Amazon Bedrock, a fully managed service that makes foundation models (FMs) from leading AI startups and Amazon available via an API, to help customers adopt advanced Falcon Platform search,"

@@ -25,96 +25,121 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI $7 Trillion Ecosystem: Invest In Nvidia, Microsoft, Adobe And More"
-    excerpt: "Worldwide cloud revenue is expected to increase 21.7% in 2023 to $597.3 billion. Gartner IT +1.5% expects generative AI to create “a surge in cloud revenue” driven primarily by these and other hyperscalers. Ultimately, all the investment in generative AI technology must result in applications that people pay money to use."
-    publishedDateTime: 2023-05-30T14:19:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/05/30/generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more/"
-    ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/05/30/generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/05/30/generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more/amp/"
+  - title: "Nvidia’s CEO plans trip to meet Chinese tech executives despite US curbs on AI chips"
+    excerpt: "Nvidia CEO Jensen Huang is heading to China to meet with executives from Tencent, ByteDance and EV makers Li Auto and BYD, despite rising tensions between Washington and Beijing."
+    publishedDateTime: 2023-06-01T02:34:00Z
+    webUrl: "https://www.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips"
+    ampWebUrl: "https://amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 101
+      name: scmp.com
+      domain: scmp.com
+    quality: 97
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64733c9329fc673cfa0cb088/0x0.jpg?format=jpg&width=1200"
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/06/01/bdb2ca71-bbb4-46b6-8dc5-afceee3cce14_a868d5fc.jpg?itok=qKnSkKzI&v=1685586767"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "Microsoft vets lead secretive education startup using generative AI to help students learn"
-    excerpt: "Two decades after selling their startup to Microsoft, Eran Megiddo and Liviu Asnash are going back to their entrepreneurial roots. The longtime Microsoft leaders are the co-founders of Maximal Learning,"
-    publishedDateTime: 2023-05-31T14:13:00Z
-    webUrl: "https://www.geekwire.com/2023/microsoft-vets-lead-secretive-education-startup-using-generative-ai-to-help-students-learn/"
+  - title: "Chinese Leader Xi Jinping Warns of AI Risks to National Security"
+    excerpt: "A meeting headed by party leader and President Xi Jinping on Tuesday urged “dedicated efforts to safeguard political security and improve the security governance of internet data and artificial intelligence,"
+    publishedDateTime: 2023-05-31T06:52:00Z
+    webUrl: "https://time.com/6283663/xi-jinping-warns-ai-risk-national-security/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 91
+      name: Time
+      domain: time.com
+    quality: 84
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/05/Screen-Shot-2023-05-31-at-7.07.16-AM.png"
-        width: 1088
-        height: 539
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
         isCached: true
-  - title: "Microsoft Has Launched “Jugalbandi”—A New Generative AI App for India"
-    excerpt: "India, home to more than 1.4 billion people, is an incredibly ripe market for digital and AI-based innovation."
-    publishedDateTime: 2023-05-31T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/saibala/2023/05/31/microsoft-has-launched-jugalbandi-a-new-generative-ai-app-for-india/"
+  - title: "US seeks to curb investment in Chinese chips, AI and quantum computing"
+    excerpt: "WASHINGTON (Reuters) - New rules under consideration would restrict the flow of U.S. investments and know-how into Chinese companies working on advanced semiconductors, artificial intelligence and quantum computing, a U.S. Treasury official said on ..."
+    publishedDateTime: 2023-06-01T15:41:00Z
+    webUrl: "https://www.reuters.com/article/usa-china-congress-idCAKBN2XM1F6"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
-  - title: "Microsoft: Generative AI Unlocking Growth Potential"
-    excerpt: "Microsoft's AI initiatives, including the availability of OpenAI's GPT-4 in Azure, OpenAI Service and the introduction of Azure AI Studio can potentially drive significant growth and expand ..."
-    publishedDateTime: 2023-05-31T23:32:00Z
-    webUrl: "https://seekingalpha.com/article/4608596-microsoft-generative-ai-unlocking-growth-potential"
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20230531&t=2&i=1634411747&r=LYNXMPEJ4U0Q7&w=800"
+        width: 800
+        height: 508
+        isCached: true
+  - title: "Inside Nvidia's new AI supercomputer"
+    excerpt: "Nvidia's Grace Hopper CPU/GPU combo underpins its supercomputer the company claims can crank out nearly an exaFLOP of AI performance."
+    publishedDateTime: 2023-05-30T15:31:00Z
+    webUrl: "https://www.networkworld.com/article/3697655/inside-nvidias-new-ai-supercomputer.html"
+    ampWebUrl: "https://www.networkworld.com/article/3697655/inside-nvidias-new-ai-supercomputer.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3697655/inside-nvidias-new-ai-supercomputer.amp.html"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/22/17/nvidia-hopper-100922537-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 702
+        isCached: true
+  - title: "NEWSMAKER-Nvidia CEO Jensen Huang: Boss of trillion-dollar chip firm powering the AI boom"
+    excerpt: "But Huang recognized that university labs were using his chips for work in AI, a niche n computer science that held promise of powering everything from virtual assistants to self-driving cars. At the time,"
+    publishedDateTime: 2023-05-30T20:24:00Z
+    webUrl: "https://www.nasdaq.com/articles/newsmaker-nvidia-ceo-jensen-huang:-boss-of-trillion-dollar-chip-firm-powering-the-ai-boom"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 55
+  - title: "NVIDIA: From Chipmaker to Trillion-Dollar AI Powerhouse"
+    excerpt: "From being a renowned chipmaker for computer graphics to an industry titan momentarily reaching a trillion-dollar valuation, Nvidia's journey is one for the business books. This rapid ascent is a testament to the growing significance of artificial intelligence (AI) in shaping the future of technology."
+    publishedDateTime: 2023-05-31T21:19:00Z
+    webUrl: "https://www.unite.ai/nvidia-from-chipmaker-to-trillion-dollar-ai-powerhouse/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
     quality: 54
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1464561575/image_1464561575.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 864
+      - url: "https://www.unite.ai/wp-content/uploads/2023/05/nvidia-og-image-1200x630-1-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "Nvidia became a $1 trillion company thanks to the AI boom"
-    excerpt: "This latest push comes after Nvidia’s business boomed early in the pandemic during a GPU shortage while they ... team up to build ‘massive’ AI supercomputer 2016: Nvidia bets big on AI ..."
-    publishedDateTime: 2023-05-30T13:47:00Z
-    webUrl: "https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value"
+  - title: "The Rise of In-House AI Chip Production by Tech Giants Threatens Nvidia’s Dominance"
+    excerpt: "Nvidia Corporation (NASDAQ: NVDA), a leading player in the field of artificial intelligence (AI), has enjoyed a strong competitive advantage with its AI moat."
+    publishedDateTime: 2023-06-01T06:10:00Z
+    webUrl: "https://techstory.in/the-rise-of-in-house-ai-chip-production-by-tech-giants-threatens-nvidias-dominance/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
+      name: tech
+      domain: techstory.in
+    quality: 50
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2023/06/NVIDIA-Logo-inside-at-angle.jpg"
+        width: 1920
+        height: 1081
+        isCached: true
+  - title: "Nvidia researchers use AI to turn 2D video clips into detailed 3D graphics"
+    excerpt: "Neuralangelo, a new AI model from Nvidia Research, uses AI to take two-dimensional video clips and turn them into detailed 3D."
+    publishedDateTime: 2023-06-01T13:01:00Z
+    webUrl: "https://venturebeat.com/games/nvidia-researchers-use-ai-to-turn-2d-video-clips-into-detailed-3d-graphics/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 49
-  - title: "AI demand briefly catapults Nvidia into $1 trillion club"
-    excerpt: "The total value of computer chip and graphics processing card manufacturer Nvidia briefly touched $1 trillion on May 30 as demand for the company’s artificial intelligence tech surged into overdrive."
-    publishedDateTime: 2023-05-31T00:40:00Z
-    webUrl: "https://cointelegraph.com/news/nvidia-briefly-hits-1-trillion-market-cap"
+  - title: "Chipmaker Nvidia Joins $1 Trillion Valuation Club Thanks to the AI Boom"
+    excerpt: "Nvidia has joined the exclusive club of companies with a $1 trillion market capitalization as the chipmaker benefits from the growing use of artificial intelligence. Nvidia Corp. joins tech titans like Alphabet,"
+    publishedDateTime: 2023-05-30T18:34:00Z
+    webUrl: "https://time.com/6283523/nvidia-trillion-valuation-ai/"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 39
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-05/795d3f2c-200d-4544-9605-74bfbb101f9d.jpg"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "Fueled by AI, Nvidia joins the $1 trillion club"
-    excerpt: "Booming demand for its AI chips has landed Nvidia (NVDA) a prime spot in one of the most exclusive clubs on Wall Street: The chipmaker hit a market cap of $1 trillion on Tuesday. It’s just the ninth company globally to have achieved such a feat,"
-    publishedDateTime: 2023-05-30T20:42:00Z
-    webUrl: "https://krdo.com/money/cnn-business-consumer/2023/05/30/nvidia-joins-the-1-trillion-club/"
-    type: article
-    provider:
-      name: KRDO
-      domain: krdo.com
-    quality: 39
-    images:
-      - url: "https://krdo.b-cdn.net/2023/05/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbG9uZS10aHVtYm5haWwtNmM4ZTdmNmM3YzhmNDBmZTY2ODg0ODkxMGY4NjFhNTM-L19wYWdlcy9oXzM3MmNkZDY1MDg2YmY2ZTBjZWIyMDkwYjRjZmZhOWYz-300.jpg"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Time
+      domain: time.com
+    quality: 47
   - title: "Interest in AI causes developer Nvidia to reach $1 trillion in value"
     excerpt: "As investors piled more capital into Nvidia the chipmaker has become one of the biggest winners of the artificial intelligence boom"
     publishedDateTime: 2023-06-02T15:54:00Z
@@ -129,33 +154,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "The generative AI hype bubble runs through Nvidia"
-    excerpt: "Generative AI is the hottest trend on Wall Street. Ever since OpenAI’s ChatGPT debuted in late 2022, kicking off a flurry of activity in the space, investors have been piling into AI stocks. And Nvidia (NVDA) has been the biggest winner."
-    publishedDateTime: 2023-05-31T19:41:00Z
-    webUrl: "https://www.aol.com/finance/generative-ai-hype-bubble-runs-164142386.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
-  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
-    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive"
-    publishedDateTime: 2023-05-31T17:04:00Z
-    webUrl: "https://www.inferse.com/528845/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 14
-  - title: "Nvidia eclipses $1 trillion market capitalization on artificial intelligence boom"
-    excerpt: "The semiconductor company Nvidia crossed the trillion-dollar market capitalization mark Tuesday, riding an artificial intelligence-propelled boom to become the fifth company to pass the historic threshold."
-    publishedDateTime: 2023-05-30T13:46:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/nvidia-joins-trillion-multi-dollar-market-cap-"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 12
 
 secured: "XK8K8MBCHMwNPsvsPCdRDH8+ml8roqvp/RIMtHfdbPXJWztZS80II57DfiQnzORsbfAQmF4U8JTJv0p3ddWIdtJoxDRgdBCk/e4/phlT4cRqF4UQCxGQDO8ISsW6PayOIWhsYmWpLZYhulKNPBcLPbTreKyiXoLSgQqnTMs7+gkBui5VbeexGPJ4M1r3BJw6pL9YqjM70ko+hdxHuc4VtXygyiCFYD5fVGcq7m8gJMaIFm0UtxsL59Nm/73J+38NEtuHhD2BHTyASH1W4ddy+pNgk4XN1DDQjb6824dL9nk0gASqng77IRSv+LqHE/2dqpfGpjWLjOHtShxgCIPPTswwrBJ/pF8hqUr27T2DWHw=;3DHU5VtSaUrb/bYE/m8IsQ=="
 ---

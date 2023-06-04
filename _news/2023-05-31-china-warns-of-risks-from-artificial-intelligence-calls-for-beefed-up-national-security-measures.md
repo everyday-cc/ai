@@ -43,6 +43,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "AI poses national security threat, warns terror watchdog"
+    excerpt: "Security services fear the new technology could be used to groom vulnerable people"
+    publishedDateTime: 2023-06-04T05:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/04/ai-poses-national-security-threat-warns-terror-watchdog"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/04/ai-poses-national-security-threat-warns-terror-watchdog"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/04/ai-poses-national-security-threat-warns-terror-watchdog"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 74
+    images:
+      - url: "https://i.guim.co.uk/img/media/9a3d98be824baaddccb89605c324a9fa61aacfb4/168_0_3332_2000/master/3332.jpg?width=620&quality=85&auto=format&fit=max&s=e38cf6c3909a4fb8062ed0c96950171c"
+        width: 620
+        height: 372
+        isCached: true
   - title: "AI in China: Xi aims for balance between progress and protection"
     excerpt: "China calls for heightened national security measures for artificial intelligence. A meeting chaired by President Xi Jinping emphasized the need to safeguard political security and improve security governance of internet data and artificial intelligence."
     publishedDateTime: 2023-05-31T15:57:00Z

@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft vets lead secretive education startup using generative AI to help students learn"
+    excerpt: "Two decades after selling their startup to Microsoft, Eran Megiddo and Liviu Asnash are going back to their entrepreneurial roots. The longtime Microsoft leaders are the co-founders of Maximal Learning,"
+    publishedDateTime: 2023-05-31T14:13:00Z
+    webUrl: "https://www.geekwire.com/2023/microsoft-vets-lead-secretive-education-startup-using-generative-ai-to-help-students-learn/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 91
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/05/Screen-Shot-2023-05-31-at-7.07.16-AM.png"
+        width: 1088
+        height: 539
+        isCached: true
   - title: "Paycor Strengthens Talent Platform with AI-Generated Job Description Feature Powered by Microsoft Azure OpenAI Service"
     excerpt: "Newest Offering Automates the Process of Creating Job Descriptions, Optimizing the Talent Acquisition Process for Leaders CINCINNATI, June 1,"
     publishedDateTime: 2023-06-01T14:00:00Z
@@ -41,36 +55,54 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Microsoft pens AI cloud computing deal with former Ethereum miner CoreWeave: CNBC"
-    excerpt: "With more than $400 million worth of funding raised in 2023, and a supposed Microsoft deal on the books, CoreWeave has grown significantly since pivoting from Ethereum mining."
-    publishedDateTime: 2023-06-03T02:19:00Z
-    webUrl: "https://cointelegraph.com/news/microsoft-pens-ai-cloud-computing-deal-with-core-weave"
-    ampWebUrl: "https://cointelegraph.com/news/microsoft-pens-ai-cloud-computing-deal-with-core-weave/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/microsoft-pens-ai-cloud-computing-deal-with-core-weave/amp"
+  - title: "Microsoft Has Launched “Jugalbandi”—A New Generative AI App for India"
+    excerpt: "India, home to more than 1.4 billion people, is an incredibly ripe market for digital and AI-based innovation."
+    publishedDateTime: 2023-05-31T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/saibala/2023/05/31/microsoft-has-launched-jugalbandi-a-new-generative-ai-app-for-india/"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 69
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/75e42a10-f7e8-4c95-a097-723db263e3b9.jpg"
-        width: 740
-        height: 492
-        isCached: true
-  - title: "OneDegree Global and Microsoft Join Forces to Drive Insurtech and Cybersecurity Innovations with Azure OpenAI"
-    excerpt: "OneDegree Global (OneDegree), a leading technology startup in the insurtech and cybersecurity sectors, is thrilled to announce a strategic partnership with Microsoft Hong Kong. This collaboration marks a major milestone as OneDegree integrates Azure OpenAI Service into its IXT insurtech and Cymetrics cybersecurity solutions,"
-    publishedDateTime: 2023-06-02T07:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-onedegree-global-microsoft-jo-forces-drive-insurtech-cybersecurity-/2023/06/02/9825439.htm"
+      name: Forbes
+      domain: forbes.com
+    quality: 66
+  - title: "China isn’t waiting to set down rules on generative AI"
+    excerpt: "The draft regulation released in April is part of a large game of tech industry whack-a-mole. China Report is MIT Technology Review’s newsletter about technology developments in China. Sign up to receive it in your inbox every Tuesday."
+    publishedDateTime: 2023-05-31T10:00:00Z
+    webUrl: "https://www.technologyreview.com/2023/05/31/1073743/china-generative-ai-quick-regulation/"
+    ampWebUrl: "https://www.technologyreview.com/2023/05/31/1073743/china-generative-ai-quick-regulation/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/31/1073743/china-generative-ai-quick-regulation/amp/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 50
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
     images:
-      - url: "https://mma.prnewswire.com/media/2091414/OneDegree_Global_and_Microsoft_Join_Forces_to_Drive_Insurtech_and_Cybersecurity_Innovations_with_Azu.jpg"
-        width: 400
-        height: 225
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/AP23075301204542-crop.jpeg?w=3000"
+        width: 3000
+        height: 1687
         isCached: true
+  - title: "Microsoft: Generative AI Unlocking Growth Potential"
+    excerpt: "Microsoft's AI initiatives, including the availability of OpenAI's GPT-4 in Azure, OpenAI Service and the introduction of Azure AI Studio can potentially drive significant growth and expand ..."
+    publishedDateTime: 2023-05-31T23:32:00Z
+    webUrl: "https://seekingalpha.com/article/4608596-microsoft-generative-ai-unlocking-growth-potential"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1464561575/image_1464561575.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 864
+        isCached: true
+  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
+    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive"
+    publishedDateTime: 2023-05-31T17:04:00Z
+    webUrl: "https://www.inferse.com/528845/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 14
 
 secured: "eQmKj0+R3iE95pTgsc9Lp/8slBJyChFlo/LUECLnR8/3MGCNd3KR6IIFv5UB4kBma27axjkayLBofY/DjB/128IY3Gfer+yAAUHAGKu9RnxJ767Iol+fcspy7m25NLvQGZPfAW8XSxT2uzUBdzjt+gSG072ZmwcwS0IaBYkaW1CVvej3SCK3S/cXlX910tGWOoxkk+4h+cYNx84jSfV2pvKGPCDN3zgpkLmT0wLt1TIKRC2pbehyUGHHo+504ZBBXPnIpKvG/D5oE04mAMjY8b4k5tihE9rFE9YEerTev/mIc5rbdyR7eIDwu3G5AfQBjVkfExyAInFQJNNagGFO2KH7+aVc8LHzbldWtO+E1DY=;3g/utZrPQbN3amR1/NhoPw=="
 ---

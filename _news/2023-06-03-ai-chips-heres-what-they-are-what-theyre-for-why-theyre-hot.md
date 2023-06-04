@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
+    publishedDateTime: 2023-06-01T13:10:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 68
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "AI chips are hot. Here's what they are."
     excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip,"
     publishedDateTime: 2023-06-01T15:11:00Z
@@ -80,20 +96,6 @@ related:
       name: 92.7 WMAY
       domain: wmay.com
     quality: 46
-  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
-    publishedDateTime: 2023-06-01T09:31:00Z
-    webUrl: "https://www.local10.com/business/2023/06/01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
-    type: article
-    provider:
-      name: WPLG
-      domain: local10.com
-    quality: 33
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SIQQ7UVKUNDXRHQQE2TFZQO3RU.jpg?_a=ATCqVhC0"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Orlando companies harness the power of AI in revolutionizing health care"
     excerpt: "As the health care industry faces staffing shortages and rising costs, AI is offering a solution that can free up time for health care providers to focus on patient care."
     publishedDateTime: 2023-06-01T04:00:00Z
@@ -113,13 +115,13 @@ related:
       domain: northjersey.com
     quality: 17
   - title: "Clalit Health Services plans to use Artificial Intelligence and Machine Learning to further enhance patient care"
-    excerpt: "Cloudera, the hybrid data company, today announced its collaboration with Clalit Health Services, the largest of Israel's four state-mandated health service organizations. The health service provider is set to harness the Cloudera Data Platform (CDP) to provide high-quality,"
-    publishedDateTime: 2023-05-31T10:18:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/31/9823225.htm"
+    excerpt: "Liora Shechter, VP Digital & Technology, Clalit Health Services, said, \"We will use Cloudera Data Platform to apply real time interfaces, artificial ... approach to healthcare delivery and its ..."
+    publishedDateTime: 2023-05-31T10:23:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20230531sf15074/clalit-health-services-plans-to-use-artificial-intelligence-and-machine-learning-to-further-enhance-patient-care"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Morningstar
+      domain: morningstar.com
     quality: 15
 
 secured: "EsYnIXvj3ZX1pF0UinuHIT1dFiCnLeirssYsDCa+n4H1mSrsYQ6qDjlhONcjE7ECDalMnNuTpO7TVbpYd7EStEtnxBbg55jR5/IyettTRU4FGTWHJpz9xJFLKnoujQ2L6kPhJInVL0NPETPGbqEUjXbloM+qh3pIATB8Ko5/oKRMtuDoyD4in/RkxQ5JFW4HuIYvNddcJMoolpUAv8mmdS0dbQBN7hMzSrTsDf1nhomBIZ/r+/+E0TLy5kxYz+WLy+/SARk4qhaFfWEf5AKOcpGTvBflQqZA5OmBLbnD2yqt4NxzYHemg2gGtCGFLD9bdphPNjeH+SCs8ROO7gsLgItvik2Wed/t9w2vbED5Gso=;Ol6amK7C1YpW4MowE4hjcQ=="

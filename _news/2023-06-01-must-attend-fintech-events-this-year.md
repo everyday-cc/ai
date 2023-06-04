@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Financial wellness fintech Elifinty launches"
-    excerpt: "UK startup Elifinty has launched its open banking-based \"socially conscious\" debt management platform for consumers and creditors."
-    publishedDateTime: 2023-05-30T13:45:00Z
-    webUrl: "https://www.finextra.com/newsarticle/42388/financial-wellness-fintech-elifinty-launches"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/rszelifinty-maysamrizvi.jpg"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "t+nj0+vBuls1xIf0BSZlLIn3UcF772UrdVrAHrQcer3ykHJUYjJbTyEcFkIlhJN5mdwtZOp1lO+dNoTo7qnGh2VnsIEqvm0XVW3THETuR//jkXulHErGLMZOeXHMFCZgp30DD9J2jytPEC/ulJb73OYdzXsFGBFC9UjrdJtopGU5dw3yU7yioUE0MfU/ZLp7evCrRdNrrqPl17RhrfjgeiIAvXkzjrpQdh+1IcIqryGgUyPdEyoWGBB66Rl4evJg/l746nBGKEoixPQ2gepCoQEm+QvXykQ1pQP1//gtlBQQ49n6qMkcr3EFkBNwQAq12rEPf/HbQ3SBEEx+TSc+yhPLH+uCjw7wKfrE3RefC4Scin7VJoGlGC4czuJQjgHtsfrdlsuvn/wkfqvfu81/YnLPZf8pMlJ6ColF6LHOQUVSbb/3JHG9k9Tj9FpPQ2zTY3Kk732vLEOgmj73nbsyyu7hkheIp4HNXZVkLlN6M1rffgmCJz3pDKRVTnHPuTe/mqxkZgWX3/Xo6Lnc2POEkw==;e/ijhrfrUsKV3NmBtPVdnw=="
 ---
