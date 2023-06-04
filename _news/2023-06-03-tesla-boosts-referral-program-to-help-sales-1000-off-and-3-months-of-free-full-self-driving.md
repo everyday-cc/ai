@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/06/03/tesla-boosts-referral-program-help-
 webUrl: "https://electrek.co/2023/06/03/tesla-boosts-referral-program-help-sales/"
 type: article
 quality: 75
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 472
     height: 1023
     isCached: true
+
+related:
+  - title: "Tesla Driver Says Self-Driving Mode Crashed Her Car Into a Tree"
+    excerpt: "A Michigan woman was taken to the hospital after her Tesla reportedly self-crashed into a tree when in self-driving mode."
+    publishedDateTime: 2023-05-30T19:25:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-driver-self-driving-tree-crash"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 19
 
 secured: "E+e+lf6rU6q1G2gBuBs1LebiEc9HF4/zNrHg2GB+BMbL4krIbQdJbfQvFv2pkAIK5oh1qpB64t26/r1QERRPgWQS+uWwsvQWnNZuknf5lz+kD2h8DWgWgcSgdwfo60rC7ZjI/U2XHljs/hwRmuArbrtE6ZLypWcBdymcjqDRoYZ/+MrVhUD38F1qRYyHNxfWk3xv3cu5ZWPaqFEpdJQCLdzKseabXB+GaVtG3LjqM10hs3fmtlJFGlClyI0b68i6/6/3i+fDYFRYz6MPf78715RwItl6SdsLnjsZIltyusvAABqO6oQaLd0ErZVFR0cV940RUCMa+27squVW0lIP9o3MRIUz9Id0mgiJuYb+jrZ9ww45Bia6T3EqWb4RKYali6k94PnHXFVK2PF6CdhUbLNsdg2DmtAegjYVSIZ6fWPOBUM787PUnXIDkPetWOc+gSCmyu9gXfOD5eOflDLo/G5a/ttrqt0VRvTztYJd4wt5WSxt+BRz916sEafsrnFYYRUTV2cwTDMIZuztEgz7Mw==;P2+GoOHsneQwLwKT58c0/Q=="
 ---

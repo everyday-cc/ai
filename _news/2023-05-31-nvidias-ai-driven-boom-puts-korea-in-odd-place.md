@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nvidia Bulls Are Way Overestimating AI GPU Demand"
+    excerpt: "Given past GPU needs, capturing the entire AI large language model market would increase revenue by $16 billion at the high end. However, this doesn't factor in recent research released in the ..."
+    publishedDateTime: 2023-05-31T13:16:00Z
+    webUrl: "https://seekingalpha.com/article/4608451-nvidia-bulls-way-overestimating-ai-gpu-demand"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 34
 
 secured: "E8V2VqfGClX3KJ1aQjHCRLBAZxAwi1vYTIxb3UnycBa8qJItjAfEPIB3XeJvQ1wsU1+uZ5osCMAb7/3kV97OkbYkHAaTvFAa3NzPHRXhuma0eTB+Cldw67s9w5izQQ7rEzn+V0jQ0Ntap8NhU1RMeWA000yVvKSRDDu/2/WFBLo2i86Hl+y7lvwgBOIt9ab7EurWcImKSuti6UNUAKTnrUJ3LZju3IOOceTYUjISb3AJHgYUo2uCiz/W/xN3BjstpxA3Tsfjmd3EBIeM3MngnVk2Wiapg+jl3cmzsEBbxd9+r6RL4kxX+n23AS+uxLAlj9MV4LgYuGcJervRjjRkvn9oChGdF2teeM+qzPpXfxP/sbEOUe2Glf/RfgQOdLfUSJVxxySForj2H6xzH68vKoZ6nKFskDOHJckFsNJ/1Kjdfcch28a3/W6CIFQLv03Ww4qhzv5eK6v/USQv5c4M6je262VhmnjQaq6xoHid+djN/ejYko3GsKo+JKov4rjpCdCMPQhf4cVGBD7pVp2E/g==;Xzex+RWHJ1eXg6hA73Eocg=="
 ---

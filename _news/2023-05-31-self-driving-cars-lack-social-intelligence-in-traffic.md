@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2023/05/230530125438.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/05/230530125438.htm"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -23,43 +23,24 @@ topics:
   - AI
 
 related:
-  - title: "Tesla driver claims she crashed into a tree on ‘self-driving mode’"
-    excerpt: "A Tesla driver in Michigan claimed that her car was in “self-driving mode” when she crashed into a tree. As usual, it is important to take these claims with a grain of salt until the data is collected. The accident happened on Sunday evening near Big Rapids."
-    publishedDateTime: 2023-05-30T11:00:00Z
-    webUrl: "https://electrek.co/2023/05/30/tesla-driver-claims-crashed-tree-self-driving-mode/"
+  - title: "Would you travel in a self-driving car?"
+    excerpt: "This past week, we polled Twitter users on whether or not they’d use a self-driving car for travel. More than half said they wouldn’t, but another quarter of voters said they may someday try it in the future."
+    publishedDateTime: 2023-05-30T11:54:00Z
+    webUrl: "https://www.wivb.com/wake-up/would-you-travel-in-a-self-driving-car/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 84
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Hardware 4.0 spotted in Tesla Model Y, self-driving suite still unofficial"
-    excerpt: "The Tesla Model Y is getting Hardware 4.0, an upgraded version of the electric vehicle brand's sensor and software package"
-    publishedDateTime: 2023-05-30T20:27:00Z
-    webUrl: "https://www.cbtnews.com/hardware-4-0-spotted-in-tesla-model-y-self-driving-suite-still-unofficial/"
+      name: WIVB-TV
+      domain: wivb.com
+    quality: 4
+  - title: "Self-driving cars shown to lack social intelligence in traffic"
+    excerpt: "Should I go or give way? It is one of the most basic questions in traffic, whether merging in on a motorway or at the door of the metro. The decision is one that humans typically make quickly and intuitively,"
+    publishedDateTime: 2023-05-30T19:08:00Z
+    webUrl: "https://techxplore.com/news/2023-05-self-driving-cars-shown-lack-social.html"
     type: article
     provider:
-      name: cbtnews
-      domain: cbtnews.com
-    quality: 37
-    images:
-      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/05/shutterstock_1349022629.jpg"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "Tesla Driver Says Self-Driving Mode Crashed Her Car Into a Tree"
-    excerpt: "A Michigan woman was taken to the hospital after her Tesla reportedly self-crashed into a tree when in self-driving mode."
-    publishedDateTime: 2023-05-30T19:25:00Z
-    webUrl: "https://futurism.com/the-byte/tesla-driver-self-driving-tree-crash"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 19
+      name: techxplore
+      domain: techxplore.com
+    quality: 4
 
 secured: "ukbMi+M+vmNfgh5YNz+VCtLpkXvZpM00A/6tihW0ukQCM04MFPKNgkvYIcalVYo0Eyf7ykRRIp7xcP40iTNSTS2pq2layrZshoJ/iptCUIU6xUOe6h32N+D9fVCVl6QduNaYwZByJ9pkbGww+vlTxNf0YpY0dd46C3OjY10yN8G6iGfIwhfHcWBXAXJFY9CYqV2V3jspnAHu9caWxidM6LgnUVG4FRz+WTyIQPMp7l0zjyuwdqGItdPkAouaEpma37oIlEA75UmunwhSrkvAEiQthFskwIKRVk2O+ZLmkRz0YJDkg25iXpCZxWDjpseWF3amoMDnACQ6j6pAPt/bDoE6Unpqm86VqDMzUhrwqIo=;D+Bw0XJkrxXs+EfRaLSpsA=="
 ---

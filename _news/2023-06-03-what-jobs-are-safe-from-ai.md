@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/sanfrancisco/video/what-jobs-are-safe-from
 webUrl: "https://www.cbsnews.com/sanfrancisco/video/what-jobs-are-safe-from-ai/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "What's The Point of Expanding Album Covers with AI?"
+    excerpt: "With Photoshop’s new generative fill tool—which uses artificial intelligence to generate an expanded section of a piece of work—pro-AI knuckledraggers across Twitter are revealing the ExPaNdEd EdItIoNs of some of music’s most iconic album covers."
+    publishedDateTime: 2023-06-02T17:10:00Z
+    webUrl: "https://gizmodo.com/ai-ai-art-dall-e-expanded-album-covers-1850495918"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b917b007d29b3cc15579aab8fcefb4c4.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "NqQ8x9+XYhmTcRjOLJLBLAxSNYXUxXtBqgJlMfp654Dy7uU7gU1oZA4C0O1PRbSqRA3lW+cV3Wl6+6++upYL1A1PDpFFS1bglugIMixAHAONdHL4zQPIQa82nejYpLnsFP/DLrjYwIotDUJIKt0MXmBRkeCjwo9xeeg4CTKBwZ3oDYLLASxDOWvnRtfTVT+3tCqe6xu5JBbQCWcK8Sx96bstd2bsfLRueIZakCfAFLJVdRsRTsmprwbbPZ67xDWElLDin4GNfntGz9qVHXeyr1uiWi8NggFwZ7Zzts4kme9+Z5rC/BDZsGxRSJA5XmDBvFnNhE1JsNseRQvsKJlLhnu+ZVGckcl+nfNB8CmTFelVAGe7mZEVl1xJxx/diTSalpX6ZVrMMikzGM6dcU2HSFoiQ4ePUKpjMOphzKa6U4YWiJHtVAtG2pKkLNlqhjOR1Wx8s6xvL0fo7vRPrg/TBHUWBVQjqO+qglBEMtVgALfXhQpJCmRZjKN/7Cl6ei8YpGchidtuUV+x1CvoiDvaRg==;KZ3Cue0z0+l/MxCsgxkqig=="
 ---

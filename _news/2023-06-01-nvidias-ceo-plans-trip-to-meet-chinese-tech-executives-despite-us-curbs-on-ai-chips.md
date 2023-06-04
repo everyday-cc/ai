@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips"
 type: article
 quality: 97
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/22/17/nvidia-hopper-100922537-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 702
-        isCached: true
-  - title: "Nvidia Close to $1 Trillion Market Valuation. AI Is Driving the Market."
-    excerpt: "Nvidia NVDA +2.54% was closing in on a market valuation of $1 trillion as the chip maker’s stock rose in premarket trading on Tuesday."
-    publishedDateTime: 2023-05-30T10:00:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-trillion-valuation-ai-89ecb969"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-trillion-valuation-ai-89ecb969"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-trillion-valuation-ai-89ecb969"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-231723/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "NEWSMAKER-Nvidia CEO Jensen Huang: Boss of trillion-dollar chip firm powering the AI boom"
     excerpt: "But Huang recognized that university labs were using his chips for work in AI, a niche n computer science that held promise of powering everything from virtual assistants to self-driving cars. At the time,"

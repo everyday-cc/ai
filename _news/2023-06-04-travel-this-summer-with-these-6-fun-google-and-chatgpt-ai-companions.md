@@ -94,6 +94,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Funding for cloud-based generative AI"
+    excerpt: "Get ready for the rush of generative AI applications heading your way in 2024, but watch out for the size of the bill. Who is going to pay for it?"
+    publishedDateTime: 2023-06-02T09:04:00Z
+    webUrl: "https://www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/01/red-wheel-barrow_pile-of-money_high-paying-salary-100745643-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
     excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
     publishedDateTime: 2023-06-01T16:31:00Z
@@ -361,6 +377,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Generative AI may be the next AK-47"
+    excerpt: "AI has the potential to change how wars are waged. But few humanitarians are thinking about how it will shape conflicts and crises."
+    publishedDateTime: 2023-05-30T11:33:00Z
+    webUrl: "https://www.thenewhumanitarian.org/opinion/2023/05/30/generative-ai-may-be-next-ak-47"
+    type: article
+    provider:
+      name: thenewhumanitarian
+      domain: thenewhumanitarian.org
+    quality: 39
+    images:
+      - url: "https://assets.thenewhumanitarian.org/s3fs-public/2023-05/ai-computer-crowd.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Lawyer’s AI Blunder Shows Perils of ChatGPT in ‘Early Days’"
     excerpt: "A lawyer’s citation of court decisions fabricated by ChatGPT shows the peril of relying on the artificial intelligence chatbot without proper safeguards."
     publishedDateTime: 2023-05-31T09:30:00Z
@@ -523,6 +553,6 @@ related:
       domain: bizjournals.com
     quality: 14
 
-secured: "gJtxeQCYvyGfNq9NDcp3tQ+Gb5VUXvSxehie4Z9Uz7iw3r5JpLbMmQ1UlxxsdwaRNPPe1nw7psenIdNL7bneHqz+8JoDBFHbelLE49JRGgNszKc4/eqWcc1ndVnsQxt+2CoyfH5BtMsj/6Cr/l1Embiaci2YXiJUUJC0POnKTHYND+O3OnF4cSYeC/BIxVeESyEHN1rByAqLbJH9SM66GwbI1nrioaBdZFJMn+Mi8It9bE4zHSvIgtdQW8cvLmY2RN7uid6VZBEX0DTlbvJNHvySbOihoUi1c43WPCNQIkfOvFdIJ4/gAh2oc1jj8nMuufWRuWmSnNcx7nSlFSO6FwfiLfVBjxyu0ha6X+vDdHc=;7MzjngKKux7WMmby9LGJvA=="
+secured: "MFjWIUKg3YmVM7c4SRjUr3zGLNmnPPog4VCdcajOJTSCkqGPaSLFHgcDKpKQ69Ge4CW0Lo9+zlOvJ7iPeX7+4BTlkmgrxaH82xf/ibrGxgG+HSG4H5gZRhp36AZXBRedaNqpFqw7KLEzH5n2frr3f4/fhAsC/kqxWH3xpfq6b6nLGLZ18XTHVvvOLqpVAdRp3iemYxlTEL9wuH/UQmVdWdLVezG90oaFrU+TLwvh/bDBGrr8VXXLlaywK5OTit4KQ2NCoAMLtTV+Y1S0S/2Le7m2vIza+MQRQ/24zXCylDHE8C4DEWVm2jrygnR0kMtZmY/KPcC4rFtx15B/tSmTFwkJl3AeAL1XWoVwC8kma0iLNVWaA9Ra9w2j0Kxw6E1LUsaXKJEERDZbibZ/yVXM67q8JR4U//2zx/vPfSfANXvkc4wIT21cdRx1S+eWNucbI0DgH5MJ+ysHxoZf1VAvwRHyom79TcHNVWv0eyoQ6EME4QqnFCbrGF2LipcVgTozPve3RqZBCEoLH54Ew2fLTA==;E91ROPdDveoZpROdowOIAw=="
 ---
 

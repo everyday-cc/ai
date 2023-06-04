@@ -57,36 +57,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Nvidia is building Israel’s most powerful supercomputer for AI applications"
-    excerpt: "The system, called Israel-1, is expected to deliver performance of up to eight exaflops of AI computing that will essentially make it one of the world"
-    publishedDateTime: 2023-05-30T10:41:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/articleshow/100621717.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/amp_articleshow/100621717.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/nvidia-is-building-israelis-most-powerful-supercomputer-for-ai-applications/amp_articleshow/100621717.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://static.toiimg.com/photo/msid-100621670/100621670.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Nvidia’s GH200 AI supercomputers could build ‘giant’ AI models more powerful than GPT-4"
-    excerpt: "Nvidia have just revealed their DGX GH200 AI supercomputer, far surpassing the competition, and potentially leading to the development of GPT-5."
-    publishedDateTime: 2023-05-30T10:25:00Z
-    webUrl: "https://www.videogamer.com/news/nvidia-gh200-giant-ai-models/"
-    type: article
-    provider:
-      name: VideoGamer.com
-      domain: videogamer.com
-    quality: 33
-    images:
-      - url: "https://www.videogamer.com/wp-content/uploads/nvidia-grace-hopper-superchip-min.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Innodisk empowers smart factories with NVIDIA AI and Metropolis Platforms, and Aetina's SuperEdge AI Training Platforms"
     excerpt: "Innodisk is collaborating with NVIDIA and Aetina to bring the latest artificial intelligence (AI)-powered industrial digitalization and automated inspection into its factories for advanced electronics manufacturing."
     publishedDateTime: 2023-05-31T13:51:00Z

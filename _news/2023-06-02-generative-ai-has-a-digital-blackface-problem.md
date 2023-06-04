@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/generative-ai-stokes-digital-black
 webUrl: "https://www.businessinsider.com/generative-ai-stokes-digital-blackface-accusations-advertisers-adjust-2023-6"
 type: article
 quality: 69
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pega adds generative AI to Infinity 23"
-    excerpt: "Pega is introducing twenty new generative AI capabilities to its Infinity 23 platform. The capabilities should provide faster decision and workflow"
-    publishedDateTime: 2023-05-30T10:09:00Z
-    webUrl: "https://www.techzine.eu/news/applications/106607/pega-adds-generative-ai-to-infinity-23/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 39
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2020/05/Pega.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "Generative Artificial Intelligence Tool May Support Drug Development"
     excerpt: "Researchers at Ohio State University have developed a generative AI framework that may help accelerate drug design and development."
     publishedDateTime: 2023-05-31T18:02:00Z

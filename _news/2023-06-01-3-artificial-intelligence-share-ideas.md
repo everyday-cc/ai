@@ -57,6 +57,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "AI Chips Are Hot"
+    excerpt: "Such chips have suddenly taken center stage in what some experts consider an AI revolution that could reshape the technology sector — and possibly the world along with it. Share"
+    publishedDateTime: 2023-06-01T14:28:00Z
+    webUrl: "https://www.manufacturing.net/operations/news/22863556/ai-chips-are-hot"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 54
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/06/AP23152002685626.6478ab3b5b0f1.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C99%2C1920%2C1080&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "aLpiqSCnLG5ct5zGnm6ffg8T5phZS+2PPXWk0VC6CesXGqS4e2Aj1CrPcoK4YLmmkdb9NJ27+Lx7IXO8IMnzOJ2DAtHBYHu6i4lToseerMemPHoZyI1rDzR/oInDWAyJTFajBciIEKQohZzIJ7EfHw3fr2g8vqlLA+ysynWL8jmMhveB4dkk2Xjrhpv4CiH+r6fU0OhXOmi+ARGxFlwCziLizAhL89DKR0ZAo2kK/w9zFkt4Zy6lEiZc1fjQagPSKs/KxTBoEog4T/gq4kFTWhi5H+nTrHAIXZ5qhFk7T0ebi1m/2Uc8egN1MEvb2rq09pq9agfnsQNZZt5syy1chGD5BHqinK+CjQdaPvGBoE3REc0Lk07bOuhIVlfrFLyO09Fo5ycvx2jPn6YtpXXoB05+udqIuoA1Jp5KYGNocSmMduTIltbzlypaTomf4ytyVOmSXEf88nnYSqhzOr/iskrbJ91tloeuiiCmQzf+orAw4fd1A1K8lhPR6V5+O3amRPjluznb4g9mhmYfIGrgzw==;fKQNv7/jNMO6HPhvjGwKBQ=="
 ---

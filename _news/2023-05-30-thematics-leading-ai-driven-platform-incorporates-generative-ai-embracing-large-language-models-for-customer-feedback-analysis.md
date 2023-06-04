@@ -19,86 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Five Next-Level Marketing Uses For AI"
-    excerpt: "Tom Wozniak heads up Marketing and Communications as the COO for OPTIZMO Technologies."
-    publishedDateTime: 2023-05-30T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/five-next-level-marketing-uses-for-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/five-next-level-marketing-uses-for-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/five-next-level-marketing-uses-for-ai/amp/"
+  - title: "High-quality human feedback for your generative AI applications from Amazon SageMaker Ground Truth Plus"
+    excerpt: "Amazon SageMaker Ground Truth Plus helps you prepare high-quality training datasets by removing the undifferentiated heavy lifting associated with building data labeling applications and managing the labeling workforce. All you do is share data along with labeling requirements, and Ground Truth Plus"
+    publishedDateTime: 2023-05-30T16:13:43Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/high-quality-human-feedback-for-your-generative-ai-applications-from-amazon-sagemaker-ground-truth-plus/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6470eb7f789ac5b53803a6f8/0x0.jpg?format=jpg&width=1200"
-        width: 400
-        height: 240
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/26/ML-14314-image005-1063x630.png"
+        width: 1063
+        height: 630
         isCached: true
-  - title: "Prepare For An Expanded Job Market, Thanks To Artificial Intelligence"
-    excerpt: "Don't produce the same output as a generative AI tool. Differentiate yourself by adding value on top of the base output."
-    publishedDateTime: 2023-05-30T22:29:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/05/30/prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/05/30/prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/05/30/prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62579c7e40a68b70f7243179/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "Funding for cloud-based generative AI"
-    excerpt: "Get ready for the rush of generative AI applications heading your way in 2024, but watch out for the size of the bill. Who is going to pay for it?"
-    publishedDateTime: 2023-06-02T09:04:00Z
-    webUrl: "https://www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/01/red-wheel-barrow_pile-of-money_high-paying-salary-100745643-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Dear AI Stock Fans, Mark Your Calendars for May 31"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips C3.ai (NYSE:AI) investors are awaiting earnings results due May 31, as the"
-    publishedDateTime: 2023-05-30T13:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dear-ai-stock-fans-mark-your-calendars-for-may-31-1032358444"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Generative AI may be the next AK-47"
-    excerpt: "AI has the potential to change how wars are waged. But few humanitarians are thinking about how it will shape conflicts and crises."
-    publishedDateTime: 2023-05-30T11:33:00Z
-    webUrl: "https://www.thenewhumanitarian.org/opinion/2023/05/30/generative-ai-may-be-next-ak-47"
-    type: article
-    provider:
-      name: thenewhumanitarian
-      domain: thenewhumanitarian.org
-    quality: 39
-    images:
-      - url: "https://assets.thenewhumanitarian.org/s3fs-public/2023-05/ai-computer-crowd.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "ArteraAI Presents New Data Validating AI-Derived Predictive Biomarker at 2023 ASCO Annual Meeting"
-    excerpt: "ArteraAI, the developer of multimodal artificial intelligence-based predictive and prognostic cancer tests, announces new data validating a multimodal AI-derived predictive biomarker, which has been selected as an oral presentation at the 2023 ASCO annual meeting."
-    publishedDateTime: 2023-06-01T13:01:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/arteraai-presents-new-data-validating-ai-derived-predictive-biomarker-at-2023-asco-annual-meeting/article_1d4033b9-b457-503b-904b-003d97c6b125.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 6
 
 secured: "v4ADrxwSWgZHiBmwYr3mZgkCM1OyFKR2DKsjHzjn1F5rn4elXAp7BHHLqSAauZ+OutlUy6lfkCgKHW6IJnsMTo2ehoV5eyJ3xMJfRkwGdfdDWejumI3D37j+covcXa/bsk2wcQc7Po1YCXMNyYxf1E3xH+UzSGY2oWTjjbNxsW+CHLOAYFKx3I0QJPvR6dYZVlec78zWCfOe75cNvF3g7RS7U3EQMTnNv9+Mq9CYpE/ytaZU/B1+K/5umMc6X1N0fhIzqohxMz2WbB739S4dwohI0S4m8nqn/6miNDxbBMX6ff7WG0LHh590JmmyTb1vzGd3Z9ZdLFd+vU3xdfZQ5dqC+5kZeqPnZphaRLv7rYMCqglfelR51hwB+u6qI7lRiLGY9hB3CteBwq1QPGhutob3b0izRwdHI/kCMF04d3EFdpCs4lOxGl2u19gqODuk5aYYqCpOwDngK2M0aKL7aHsarmTT2kiGgJriPPY82+AlpnTIh7Fic+KNTv61G4FpjaytcRO+Qnq+oHLvHlcH+g==;ywnfmEs6NNTiXJX3YscARg=="
 ---

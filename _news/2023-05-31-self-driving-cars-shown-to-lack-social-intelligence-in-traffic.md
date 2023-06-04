@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Self-driving cars lack social intelligence in traffic"
+    excerpt: "Self-driving cars fall short when it comes to understanding the social codes in traffic that let human drivers decide whether to give way or drive on, according to new research."
+    publishedDateTime: 2023-05-30T22:15:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/05/230530125438.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
   - title: "Would you travel in a self-driving car?"
     excerpt: "This past week, we polled Twitter users on whether or not they’d use a self-driving car for travel. More than half said they wouldn’t, but another quarter of voters said they may someday try it in the future."
     publishedDateTime: 2023-05-30T11:54:00Z

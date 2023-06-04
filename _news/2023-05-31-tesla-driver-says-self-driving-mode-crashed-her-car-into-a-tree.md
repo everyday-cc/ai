@@ -19,43 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Tesla driver claims she crashed into a tree on ‘self-driving mode’"
-    excerpt: "A Tesla driver in Michigan claimed that her car was in “self-driving mode” when she crashed into a tree. As usual, it is important to take these claims with a grain of salt until the data is collected. The accident happened on Sunday evening near Big Rapids."
-    publishedDateTime: 2023-05-30T11:00:00Z
-    webUrl: "https://electrek.co/2023/05/30/tesla-driver-claims-crashed-tree-self-driving-mode/"
+  - title: "Tesla boosts referral program to help sales, $1000 off and 3 months of free Full Self-Driving"
+    excerpt: "Tesla is boosting its referral program to help sales at the end of the quarter with $1,000 off and 3 months of free Full Self-Driving for Model S and Model X, and more credits for Model 3 and Model Y."
+    publishedDateTime: 2023-06-03T15:00:00Z
+    webUrl: "https://electrek.co/2023/06/03/tesla-boosts-referral-program-help-sales/"
     type: article
     provider:
       name: Electrek
       domain: electrek.co
-    quality: 84
+    quality: 75
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2023/06/IMG_2404.png?w=472"
+        width: 472
+        height: 1023
         isCached: true
-  - title: "Hardware 4.0 spotted in Tesla Model Y, self-driving suite still unofficial"
-    excerpt: "The Tesla Model Y is getting Hardware 4.0, an upgraded version of the electric vehicle brand's sensor and software package"
-    publishedDateTime: 2023-05-30T20:27:00Z
-    webUrl: "https://www.cbtnews.com/hardware-4-0-spotted-in-tesla-model-y-self-driving-suite-still-unofficial/"
-    type: article
-    provider:
-      name: cbtnews
-      domain: cbtnews.com
-    quality: 37
-    images:
-      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/05/shutterstock_1349022629.jpg"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "Self-driving cars lack social intelligence in traffic"
-    excerpt: "Self-driving cars fall short when it comes to understanding the social codes in traffic that let human drivers decide whether to give way or drive on, according to new research."
-    publishedDateTime: 2023-05-30T22:15:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/05/230530125438.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 34
 
 secured: "HhnaAaTF+vLTR5VaApkEkj1/BVsveCQ1j0HhARnZC3pRqzu7WyNzSW0AuXaMSXVx6GG6OldPdck5NVM7u1XIsfXUhfAFsXpuVjUNKWZMlJWIR+z1VUKLw9R/rVwh3iHJscO5p0bKLzCJFaQk4pUeGSInMvR9m92aVEpnO3HsARWvyLLdX+fp24r7RmJRkx1QMa0TBfnxIzel5AFmxMO/qIQsY+lZTepOdmSf0VGB05/zQo4zXabqqJ6W+Hgo9lUlaNwGaRUbcldfHBcfzAxEAeGyt9+0QCDHlxKZPeLwSKqalwBNGWX5uOWUndt6Ztxshazeh9gngHGHjGEV7IoEP8F44XOjsxJM72MuaMTVOtA=;deBG7W9t4saCIhrHVlvItw=="
 ---

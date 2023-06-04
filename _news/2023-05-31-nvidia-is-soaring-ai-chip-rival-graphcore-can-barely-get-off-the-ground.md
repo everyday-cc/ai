@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2023-05-31/nvidia-is-so
 webUrl: "https://www.bloomberg.com/news/newsletters/2023-05-31/nvidia-is-soaring-ai-chip-rival-graphcore-can-barely-get-off-the-ground"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Nvidia Bulls Are Way Overestimating AI GPU Demand"
+    excerpt: "Given past GPU needs, capturing the entire AI large language model market would increase revenue by $16 billion at the high end. However, this doesn't factor in recent research released in the ..."
+    publishedDateTime: 2023-05-31T13:16:00Z
+    webUrl: "https://seekingalpha.com/article/4608451-nvidia-bulls-way-overestimating-ai-gpu-demand"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 34
 
 secured: "tox265TGEV8zgrCf6eBMfbxbDVFXdt2NY+U5QR3EnuyhHXcEcLua/2oEnoAw5ceWDJx4zLBtJhjMa2sKsfMvZ+0rdLv/8MvNr2bNGIXdutpm/ui2/zuYjIRFYCKEqhE6RmcfDklnxzPoZXtOZ1HeFzxDMLKAVjadAzGheg1b8dvBZeL4px6ZkF+rDKRPnBBE22fjE2O4g8RY1/uvKgNtfYqE68KtejyVPtcwIlVcL65eoCTeg2be6pj+oAKc60tjUZAlQ6TOBi0LRoHG2+nrQB5MEzxs6jgupV8iesP98kfrzWuct0L5kbjSIZEnsvaXN8pkjid2o4YVaIHrJ62hk5z17jBS9WLIZInc3h3xEbQ1GPePlLGnC0jfCPPOnmEM5fB5fI6puW1gZDGSUOCq9pGOblqwwAtSV9I+LnCxdkElYQelRa/6aXtXCsv4MzjnpcrcUeRDDe0IR94+za+cOn5sEJKA8MyU1/g9MCvvUQqVuIMB9BSrQ/RXBoZn6FYhBIht+MZyPIseYfYAT9hbbQ==;6AQ/lTNwWIB33fwMvRMN5A=="
 ---

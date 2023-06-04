@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/how-to-thrive-in-a
 webUrl: "https://markets.businessinsider.com/news/stocks/how-to-thrive-in-a-new-era-of-ai-with-trust-and-confidence"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,21 +29,51 @@ images:
     isCached: true
 
 related:
-  - title: "T&T’s economy in the era of Artificial Intelligence"
-    excerpt: "ARTIFICIAL Intelligence (AI) and robotic technologies are impinging on economic development the world over.In particular, they are improving productivity and enabling competitiveness but in certain ca"
-    publishedDateTime: 2023-05-31T00:01:00Z
-    webUrl: "https://trinidadexpress.com/business/local/t-t-s-economy-in-the-era-of-artificial-intelligence/article_3d627998-ff46-11ed-8f23-832b2bd1be3e.html"
-    ampWebUrl: "https://trinidadexpress.com/business/local/t-t-s-economy-in-the-era-of-artificial-intelligence/article_3d627998-ff46-11ed-8f23-832b2bd1be3e.amp.html"
-    cdnAmpWebUrl: "https://trinidadexpress-com.cdn.ampproject.org/c/s/trinidadexpress.com/business/local/t-t-s-economy-in-the-era-of-artificial-intelligence/article_3d627998-ff46-11ed-8f23-832b2bd1be3e.amp.html"
+  - title: "How Artificial Intelligence Can Help Your Company Thrive"
+    excerpt: "AI has become one of the most important technologies of our time. I believe it will undoubtedly have an impact that will revolutionize the way companies are managed."
+    publishedDateTime: 2023-06-01T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/06/01/how-artificial-intelligence-can-help-your-company-thrive/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/06/01/how-artificial-intelligence-can-help-your-company-thrive/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/06/01/how-artificial-intelligence-can-help-your-company-thrive/amp/"
     type: article
     provider:
-      name: Trinidad Express Newspapers
-      domain: trinidadexpress.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/trinidadexpress.com/content/tncms/assets/v3/editorial/6/33/633c65ac-ff46-11ed-ad02-03b9fe55431e/64768e8cd74b4.image.jpg"
-        width: 732
-        height: 512
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6438211dffe260fd7c13615b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 738
+        isCached: true
+  - title: "French Open Enlists AI Company to Help Players Fight Social Media Hate"
+    excerpt: "The automated software filters out abusive comments on social media platforms including Instagram, TikTok and Twitter."
+    publishedDateTime: 2023-06-01T23:38:00Z
+    webUrl: "https://www.cnet.com/tech/french-open-enlists-ai-company-to-help-players-fight-social-media-hate/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 67
+    images:
+      - url: "https://www.cnet.com/a/img/resize/3e2d53873a7382261bdedb700e09480800d14740/hub/2023/06/01/d873990a-8525-4fb2-9b9a-0aac6336a45a/french-open-getty-1495198907.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How to Use AI in Your Job Search"
+    excerpt: "Artificial intelligence is about to transform the job search. Research confirms the value of using AI in your job search. At the very least, AI can be of immediate practical help with your resume."
+    publishedDateTime: 2023-06-01T20:49:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/platform-for-success/202306/how-to-use-ai-in-your-job-search"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/platform-for-success/202306/how-to-use-ai-in-your-job-search?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/platform-for-success/202306/how-to-use-ai-in-your-job-search?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-06/ai.jpg?itok=YfnF92cM"
+        width: 1528
+        height: 800
         isCached: true
 
 secured: "yRkuvUJ+nHFZBGYndhN52v3CpKlVB+BrSC2OMCiG6Bg8acA4GspsefQ10uZBmj3RAJnMppfaGc8HhKzm9GtnrI1iwZH8Sv3yW8ipzzex1iudErBIG0HJk5xee8BCKkYOSp0U2o32aTB4A3hFsJLOamt9WZejpni0FMQqA5Xiyg60qIFCaA1PxzPspM+86DsO4PrhzJ0aG3pFRK6jdWQDzuhf74YEskPZmzcizZardW+1hkWexE6ZcOpDMfIzUWcFY76XDHSZH7u3/2VuesxUADkqz9zPJRS1uRy5g+1mo2e1dh9dXdD3CvwIeUW2R4EIonw1/KzBpWtFkf6kIaxb6/cC9ljQ6Cw/vwt1gaEgStYr6udT7X6CYhveYhPBdY5XSrR3PgbtR8y5lHobv1NQKACrkpomaTEuMSLTrisMmmgq4NBLKgsjB5mPviQ4M5fMy6sCwij/za5XUDD12x7P546dYnw9Ayie7K3vZEVYnIctGIEMgl88TVf9jby6Ya0pyTl4Wnr5/Nkaabt1vHSUJw==;GGwRaazbffkcBFBlIh3cSQ=="

@@ -72,6 +72,20 @@ related:
         width: 760
         height: 507
         isCached: true
+  - title: "Readers ask about AI ethics, monkey tool use and more"
+    excerpt: "Reader Joel Sanet wondered about student papers that may have been written entirely by AI. Can a human plagiarize or steal the ... an expert in technology ethics at the University of Colorado Boulder. It’s important to remember that in most situations ..."
+    publishedDateTime: 2023-06-04T03:26:00Z
+    webUrl: "https://www.sciencenews.org/article/readers-questions-ai-ethics-monkey-tool-use"
+    type: article
+    provider:
+      name: Science News
+      domain: sciencenews.org
+    quality: 54
+    images:
+      - url: "https://www.sciencenews.org/wp-content/uploads/2023/06/060323_feedback_cover.jpg"
+        width: 680
+        height: 879
+        isCached: true
 
 secured: "MB1CrSRNkVS234XRn+VssNhViC3ygD21wqwhhMJ7AsBIJL+by9JyS5CcOlal8DO+tqIgkd6yYW0uJS+xkkdf0fNFAWuzMpPA5rtyJYqYhk0UXb1RDspS38abibSpcuTGqzHYdnu6owY+seMkyAz/Qe5K0gFGR4WCWDuqaiFL6mSR6OebbRZRHoZnifAGNX3dU2NJ8OUNfJlNbH6H03h7MKx51P95FqXtD+BB63YZu/rQ6iV6szVN6CQZxoVlni50toZlB2kyMvNpvGmuHp/ggQusSV2LcODjc6m4VL0UP6/A7pKJpAOM1cglvbqZoVZmye/SC8DP4nDwVcz6WuhKcgzyqRmiHYgwUvN8AHbyqpE=;vdG3HNiVSGX3QH9F3D+MJw=="
 ---

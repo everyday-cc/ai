@@ -83,6 +83,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Funding for cloud-based generative AI"
+    excerpt: "Get ready for the rush of generative AI applications heading your way in 2024, but watch out for the size of the bill. Who is going to pay for it?"
+    publishedDateTime: 2023-06-02T09:04:00Z
+    webUrl: "https://www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/01/red-wheel-barrow_pile-of-money_high-paying-salary-100745643-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Travel This Summer With These 6 Fun Google And ChatGPT AI Companions"
     excerpt: "Can AI plan three perfect days in Tokyo? You bet. Here's a look at the new chat features from Expedia, Kayak, SnapChat, Google Bard, ChatGPT Mobile and Roam Around."
     publishedDateTime: 2023-06-04T01:08:00Z
@@ -365,6 +381,20 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/xDPXbHH__.11PlmHjydkZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/5b1ae28d022f8e6817c0cc692dfdd0b9"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Generative AI may be the next AK-47"
+    excerpt: "AI has the potential to change how wars are waged. But few humanitarians are thinking about how it will shape conflicts and crises."
+    publishedDateTime: 2023-05-30T11:33:00Z
+    webUrl: "https://www.thenewhumanitarian.org/opinion/2023/05/30/generative-ai-may-be-next-ak-47"
+    type: article
+    provider:
+      name: thenewhumanitarian
+      domain: thenewhumanitarian.org
+    quality: 39
+    images:
+      - url: "https://assets.thenewhumanitarian.org/s3fs-public/2023-05/ai-computer-crowd.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Lawyer’s AI Blunder Shows Perils of ChatGPT in ‘Early Days’"
     excerpt: "A lawyer’s citation of court decisions fabricated by ChatGPT shows the peril of relying on the artificial intelligence chatbot without proper safeguards."

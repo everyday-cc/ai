@@ -71,17 +71,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Microsoft’s Jugalbandi: Know about AI-powered multilingual chatbot"
-    excerpt: "Microsoft has launched a new generative AI chatbot called Jugalbandi, a multilingual chatbot accessible via WhatsApp. “The Jugalbandi AI assistant is powered by language models from AI4Bharat, a government-backed initiative, and reasoning models from Microsoft Azure OpenAI Service,” the tech giant wrote in a blog post."
-    publishedDateTime: 2023-05-30T09:30:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/microsofts-jugalbandi-know-about-ai-powered-multilingual-chatbot/article66911141.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsofts-jugalbandi-know-about-ai-powered-multilingual-chatbot/article66911141.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsofts-jugalbandi-know-about-ai-powered-multilingual-chatbot/article66911141.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 56
   - title: "An Eating Disorder Chatbot Is Suspended for Giving Harmful Advice"
     excerpt: "A nonprofit that helps people with body image problems closed its human-run helpline. The chatbot that remained suggested things like losing weight."
     publishedDateTime: 2023-06-01T11:00:00Z
@@ -95,20 +84,6 @@ related:
       - url: "https://media.wired.com/photos/647691970124a91cee27d944/191:100/w_1280,c_limit/Eating-Disorder-Help-Chatbot-Business-1398764138.jpg"
         width: 1280
         height: 670
-        isCached: true
-  - title: "Jim Warren: AI chatbots have been used to create hundreds of news websites"
-    excerpt: "Misinformation tracker NewsGuard has identified more than 125 websites, published in 10 languages, with news content written by AI tools"
-    publishedDateTime: 2023-05-30T10:00:00Z
-    webUrl: "https://www.chicagotribune.com/opinion/commentary/ct-opinion-ai-fake-news-chatgpt-20230530-dlggdtqypngf7hk6pfsfzwyo64-story.html"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 37
-    images:
-      - url: "https://www.chicagotribune.com/resizer/sTCFwy1DXyc5qYFInLVJ5loZ9OY=/1200x630/filters:format(jpg):quality(70):focal(2293x1960:2303x1970)/cloudfront-us-east-1.images.arcpublishing.com/tronc/UPJDSXSRJIER3SHFXQ3B6AB7ZM.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "US eating disorder helpline takes down AI chatbot over harmful advice"
     excerpt: "National Eating Disorder Association has also been under criticism for firing four employees in March who formed a union"

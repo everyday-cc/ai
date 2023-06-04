@@ -59,6 +59,20 @@ related:
         width: 760
         height: 507
         isCached: true
+  - title: "Readers ask about AI ethics, monkey tool use and more"
+    excerpt: "Reader Joel Sanet wondered about student papers that may have been written entirely by AI. Can a human plagiarize or steal the ... an expert in technology ethics at the University of Colorado Boulder. It’s important to remember that in most situations ..."
+    publishedDateTime: 2023-06-04T03:26:00Z
+    webUrl: "https://www.sciencenews.org/article/readers-questions-ai-ethics-monkey-tool-use"
+    type: article
+    provider:
+      name: Science News
+      domain: sciencenews.org
+    quality: 54
+    images:
+      - url: "https://www.sciencenews.org/wp-content/uploads/2023/06/060323_feedback_cover.jpg"
+        width: 680
+        height: 879
+        isCached: true
   - title: "Regulators take aim at AI to protect consumers and workers"
     excerpt: "The nation’s financial watchdog says it’s working to ensure companies follow the law when using artificial intelligence as concerns grow over increasingly powerful AI systems like ChatGPT."
     publishedDateTime: 2023-05-30T20:03:00Z

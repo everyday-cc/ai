@@ -7,7 +7,7 @@ originalUrl: "https://www.wwt.com/article/exploring-the-capabilities-of-smaller-
 webUrl: "https://www.wwt.com/article/exploring-the-capabilities-of-smaller-open-source-large-language-models"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -23,47 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "How are Indian languages faring in the age of AI and language models?"
-    excerpt: "As large language models like ChatGPT find more applications around the world, their adoption also passively spreads a prejudice against languages other than English, including Indian languages. Some researchers are working to remedy this."
-    publishedDateTime: 2023-05-30T10:00:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://th-i.thgim.com/public/sci-tech/science/12fdik/article66911414.ece/alternates/FREE_1200/aboodi-vesakaran-SOp7CS0-1MA-unsplash.jpg"
-        width: 1200
-        height: 867
-        isCached: true
-  - title: "The rise of artificial intelligence: How language models and NLP are transforming industries"
-    excerpt: "Frustrated by manual onboarding processes during its quest to grow market share in the corporate sector, Banco Galicia resorted to using Red Hat Inc.’s expertise when creating an NLP platform, according to Erico Behmer (pictured,"
-    publishedDateTime: 2023-05-31T22:05:00Z
-    webUrl: "https://siliconangle.com/2023/05/31/rise-artificial-intelligence-language-models-nlp-transforming-industries-rhsummit/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 43
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/Erico-Behmer-Victoria-Martinez-Clean.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Here Are 30 New Jobs Language Industry CEOs Expect to Hire for in the AI Age"
-    excerpt: "As LLMs are put into production across the translation industry, CEOs will recruit for roles such as Prompt Engineers or Source Language AI Copy Editors."
-    publishedDateTime: 2023-05-31T09:00:00Z
-    webUrl: "https://slator.com/30-new-jobs-language-industry-ceos-expect-to-hire-ai-age/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 16
 
 secured: "VbFXh+q28aBfPJDsQu5lJXpcB1iOaYLM/ZnQxsPvMK579lMAC2EQh54iXKy3GkUGCLr4by6wX5vEPe/SDfvJirVa8wpDJZZpnJ+XkDz9H8KZOSNeOno1jn5U7xtID4DycX9+E4JuO9aCZzGNsohlcnTHICUEbSVfCz4p6Pv6Lve2+c1YvpReBhVmMjkjId7UB7xg3H2akTEIqA/g3ugDScH1eRS6i0PszZCsHxZmeL7dlodJZ0qFMdOPSk3yMhfzwH5rheSb5xvskKbStnxAiMx9JGxtKN9720xfozgxD5U/NjL/KJaIrHMA0rCJGSOtTzlsy4hMnIFpvTtmCB02TiBEfjfX/+4/oNv+8yVXdUhjljHiuPMhvlimwv3V0/e9yI+nPTPfZYg3mk8tKeVi6qhc7jHRYRo0WHoh6kSowv7bGImZcgzmoPiSosJe5WbqLjuL1pl+/MOxnViYoNV4FjQ99lZ1bmGZnbFRDgDH7sWpqTjFLifJsX1QwR7eOZB6QtOT1muq+OI1hPahpbeSpQ==;+R3LUabvi/ehDYJhFNxz+g=="
 ---

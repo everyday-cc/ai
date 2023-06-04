@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 702
         isCached: true
-  - title: "Nvidia Close to $1 Trillion Market Valuation. AI Is Driving the Market."
-    excerpt: "Nvidia NVDA +2.54% was closing in on a market valuation of $1 trillion as the chip maker’s stock rose in premarket trading on Tuesday."
-    publishedDateTime: 2023-05-30T10:00:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-trillion-valuation-ai-89ecb969"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-trillion-valuation-ai-89ecb969"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-trillion-valuation-ai-89ecb969"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-231723/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Nvidia to demand a premium for AI chips"
     excerpt: "The AI hype is providing Nvidia with plenty of cashflow. Announcements of new Nvidia partners keep coming, but it seems the company will continue to face"
     publishedDateTime: 2023-05-30T14:59:00Z

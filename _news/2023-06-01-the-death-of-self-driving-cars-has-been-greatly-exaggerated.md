@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 789
         isCached: true
+  - title: "AI Chips Are Hot"
+    excerpt: "Such chips have suddenly taken center stage in what some experts consider an AI revolution that could reshape the technology sector — and possibly the world along with it. Share"
+    publishedDateTime: 2023-06-01T14:28:00Z
+    webUrl: "https://www.manufacturing.net/operations/news/22863556/ai-chips-are-hot"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 54
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/06/AP23152002685626.6478ab3b5b0f1.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C99%2C1920%2C1080&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "3 artificial intelligence share ideas"
     excerpt: "Investing in artificial intelligence (AI) has become a key stock market theme in 2023. Here are three share ideas that could benefit."
     publishedDateTime: 2023-06-01T16:23:00Z

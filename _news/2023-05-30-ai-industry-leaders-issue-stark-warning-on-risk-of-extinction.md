@@ -28,7 +28,7 @@ related:
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 95
+    quality: 97
     images:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/world_dominating_AI_hero-800x450.jpg"
         width: 800

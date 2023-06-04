@@ -9,7 +9,7 @@ ampWebUrl: "https://wraltechwire.com/2023/05/31/red-hot-stock-1-trillion-club-no
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/31/red-hot-stock-1-trillion-club-now-includes-chip-maker-nvidia/?amp=1"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,40 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia Dominates AI Silicon, But That Doesn’t Justify A $1 Trillion Valuation"
-    excerpt: "Nvidia (NASDAQ: NVDA) stock surged by 24% in Thursday’s trading after the company posted a better-than-expected set of Q1 FY’24 results and provided Q2 revenue guidance that was well ahead of Street estimates."
-    publishedDateTime: 2023-05-30T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/"
-    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/amp/"
+  - title: "Nvidia becomes first chipmaker valued at more than $1tn amid AI boom"
+    excerpt: "Shares in chip company rise on back of hopes for rising demand from artificial intelligence applications"
+    publishedDateTime: 2023-05-30T13:03:00Z
+    webUrl: "https://www.theguardian.com/business/2023/may/30/nvidia-chipmaker-value-ai-chip-shares-artificial-intelligence"
+    ampWebUrl: "https://amp.theguardian.com/business/2023/may/30/nvidia-chipmaker-value-ai-chip-shares-artificial-intelligence"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/may/30/nvidia-chipmaker-value-ai-chip-shares-artificial-intelligence"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647591d4304997e476bb5bd0/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://i.guim.co.uk/img/media/81f12dadd0e98b3ca222064b416434feaceac722/0_233_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=9ac201c8344dd822183b398db114dee2"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Nvidia Bulls Are Way Overestimating AI GPU Demand"
-    excerpt: "Given past GPU needs, capturing the entire AI large language model market would increase revenue by $16 billion at the high end. However, this doesn't factor in recent research released in the ..."
-    publishedDateTime: 2023-05-31T13:16:00Z
-    webUrl: "https://seekingalpha.com/article/4608451-nvidia-bulls-way-overestimating-ai-gpu-demand"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
-  - title: "MediaTek, Nvidia partner for AI-based in-cabin solutions"
-    excerpt: "The smart cabin automotive offerings will run Nvidia Drive OS, Drive IX, Cuda and TensorRT software technologies. MediaTek will use its Dimensity Auto platform with Nvidia’s advanced driver assistance systems (ADAS) solutions to deliver all-around smarter in-vehicle experiences,"
-    publishedDateTime: 2023-06-01T13:05:00Z
-    webUrl: "https://electronics360.globalspec.com/article/19769/mediatek-nvidia-partner-for-ai-based-in-cabin-solutions"
-    type: article
-    provider:
-      name: electronics360.globalspec
-      domain: globalspec.com
-    quality: 19
 
 secured: "t8oDcSDtcTELthG4igsBBTK++GdOeZSvtu1joiUwy+oETFL16Pl6c/0V5Vjjw2iCZ94UT0PwFEmvoDuTMf3VWh8LhBzz7DJOtHm/PLvOis4G1JpdBFuGuWdUoSo6rVb4ReNFbWoE9kXuPT3OlCjZrAePTPV++1+5Cy+zXeuiskj0nRQvo6pfFmrI3miRBSqUAJYdgk0gIIp/ALoQoliwd/TrTsEL2d+Da5L2cqz3rKz64xngNUZ3RWsTh4x7PovkT4F/BWNBZkvTu0SoV0soYXRR/jWQmtYPaDggWDkcdEH2gQk/y8j1joJAzpB0p5eY4/MZykIr3D3Qq4yo8Q0WUtruUWR6/mwquxWIrs+uMxQ=;oKvon1LvdTYCKWLtRE9wQw=="
 ---

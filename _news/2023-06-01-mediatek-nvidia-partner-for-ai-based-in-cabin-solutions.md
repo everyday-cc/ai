@@ -19,47 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia Dominates AI Silicon, But That Doesn’t Justify A $1 Trillion Valuation"
-    excerpt: "Nvidia (NASDAQ: NVDA) stock surged by 24% in Thursday’s trading after the company posted a better-than-expected set of Q1 FY’24 results and provided Q2 revenue guidance that was well ahead of Street estimates."
-    publishedDateTime: 2023-05-30T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/"
-    ampWebUrl: "https://www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/05/30/nvidia-dominates-ai-silicon-but-that-doesnt-justify-a-1-trillion-valuation/amp/"
+  - title: "5 AI Scenarios as Nvidia Gains 2 'Intels' of Market Cap in a Week"
+    excerpt: "Just how transformational artificial intelligence will be is unknown, but there will be winners and losers in the space."
+    publishedDateTime: 2023-05-30T15:01:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/stocks/ai-scenarios-nvidia-intel-market-cap-16124930"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647591d4304997e476bb5bd0/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/47d03d54-3901-11e8-903c-97629bda2f18.png"
+        width: 1152
+        height: 768
         isCached: true
-  - title: "Red-hot stock: $1 trillion club now includes chip maker Nvidia"
-    excerpt: "Nvidia has joined the exclusive club of companies with a $1 trillion market capitalization as the chipmaker benefits from the growing use of artificial intelligence."
-    publishedDateTime: 2023-05-31T10:17:00Z
-    webUrl: "https://wraltechwire.com/2023/05/31/red-hot-stock-1-trillion-club-now-includes-chip-maker-nvidia/"
-    ampWebUrl: "https://wraltechwire.com/2023/05/31/red-hot-stock-1-trillion-club-now-includes-chip-maker-nvidia/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/05/31/red-hot-stock-1-trillion-club-now-includes-chip-maker-nvidia/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 59
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2021/03/processor-540254_1280-e1616494859780.jpg"
-        width: 1270
-        height: 713
-        isCached: true
-  - title: "Nvidia Bulls Are Way Overestimating AI GPU Demand"
-    excerpt: "Given past GPU needs, capturing the entire AI large language model market would increase revenue by $16 billion at the high end. However, this doesn't factor in recent research released in the ..."
-    publishedDateTime: 2023-05-31T13:16:00Z
-    webUrl: "https://seekingalpha.com/article/4608451-nvidia-bulls-way-overestimating-ai-gpu-demand"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
 
 secured: "t3iPKdgqRdmmpfnQVxo/I/nMXe7u0+y/XHT0pgeupfVyZ9jDzdb6iyjSJbzuuWZd2Ejuy4Izp2DAC1zUmMqiRyc1ZNQJALMcoY4cp244D+o5C7VFA07Ye4xOcjNpYknCfKXlQFmVP2lQaCau9FPqDoyLyC4sdSiNiBMDCpnPNyVB7utQlVQFS/4MSQHURB53qdZl6+rr6U8UNJiYmbiF09AvG+Ji3NkSz9KLof04xWsDnOhOsZVFjy2jMStEeEP2yLtKFo27szFDNoGh2Vrjj1GSKd2wiV321twDQdWmdQExbZEDCxdK2JEK+TkL4WkikWaaFGrHtLGCM6BrxB+vQfVKCSpQacYBjbgsPwc5ibM0BGczbqRGGw/R8JghdyQoze+b+nnDyNwRtJD4qOx7Q3kAwWX8MURFSiYyZQfUFzYPHpItn8oOZ6vOAqsBdUcUzS+qsYFqgS6HKs0RAqKutIuB1aeVA/hsSxaolSOW0ZK9JczVLD1nzNpJXJCuxvz5cbWgIergqbfEcqcHq9F6JQ==;7DG2Txbgy2PyK3EcvXDdsQ=="
 ---
