@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/06/03/tesla-boosts-referral-program-help-
 webUrl: "https://electrek.co/2023/06/03/tesla-boosts-referral-program-help-sales/"
 type: article
 quality: 75
-heat: 75
+heat: 76
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/science/indian-languages-chatgpt-l
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/indian-languages-chatgpt-large-language-models-training-data-ai4bharat/article66911355.ece/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "What are large language models — and how are they used in generative AI?"
-    excerpt: "Large lanuage models are the algorithmic basis for chatbots like OpenAI's ChatGPT and Google's Bard, but the technology is tied back to billions -- even trillions -- of parameters that can make them both inaccurate and non-specific for vertical industry use."
-    publishedDateTime: 2023-05-30T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3697649/what-are-large-language-models-and-how-are-they-used-in-generative-ai.html"
-    ampWebUrl: "https://www.computerworld.com/article/3697649/what-are-large-language-models-and-how-are-they-used-in-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3697649/what-are-large-language-models-and-how-are-they-used-in-generative-ai.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 58
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/05/llm-image-100941414-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The rise of artificial intelligence: How language models and NLP are transforming industries"
     excerpt: "Frustrated by manual onboarding processes during its quest to grow market share in the corporate sector, Banco Galicia resorted to using Red Hat Inc.’s expertise when creating an NLP platform, according to Erico Behmer (pictured,"
     publishedDateTime: 2023-05-31T22:05:00Z

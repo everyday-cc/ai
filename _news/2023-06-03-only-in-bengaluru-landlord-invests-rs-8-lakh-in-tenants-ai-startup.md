@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/trends/only-in-bengaluru-landlord-
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/only-in-bengaluru-landlord-invests-rs-8-lakh-in-tenants-ai-startup-10736091.html/amp"
 type: article
 quality: 57
-heat: 78
+heat: 79
 published: true
 
 provider:

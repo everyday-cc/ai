@@ -61,6 +61,15 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 35
+  - title: "Klarna’s Q1 results show that the fintech unicorn’s turnaround is in full swing"
+    excerpt: "Klarna managed to nab market share in a contracting market, keeping its own growth story afloat despite stiff headwinds."
+    publishedDateTime: 2023-05-30T18:53:00Z
+    webUrl: "https://techcrunch.com/2023/05/30/klarna-q1-results-analysis-ai/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 30
 
 secured: "OFXVUQ+B+lQ+HRhh27xmxKmagqG872i+5f18tuNSJ3AmdHggFV7wvaSMflC0y4amB6okpegdhbtFpt1uSNkE/cIwoD5Z8UyQ8mr6a45may582y6qhFY8X2o3grHPSKURiA0ipPyOL10oHleRkQKcqYZs7Fa1aongJDoXhtyg+coIMdux8Nrc1XpODf+8I7o6AcH166jWqWnaw4pSm63d0KaKUSKaVs0NYMmOpnngbrj4mTAhL9RWlu9S9pVuip7taVPhT2hqCAZ/oQonQ7opgNHEFIeJbmjKkVHDxRrtfIqM8n4nE3R1sVs3BmMKjoESEvGxDZa8wzBJHHJfn6HDHf2M2Sahwid2xGphr8JLAmc=;QTQRNghhlIgfZkd10a2d8Q=="
 ---

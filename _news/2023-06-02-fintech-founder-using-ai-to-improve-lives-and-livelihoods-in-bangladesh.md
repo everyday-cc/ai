@@ -48,6 +48,15 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 35
+  - title: "Klarna’s Q1 results show that the fintech unicorn’s turnaround is in full swing"
+    excerpt: "Klarna managed to nab market share in a contracting market, keeping its own growth story afloat despite stiff headwinds."
+    publishedDateTime: 2023-05-30T18:53:00Z
+    webUrl: "https://techcrunch.com/2023/05/30/klarna-q1-results-analysis-ai/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 30
   - title: "Generative AI Is Moving Into Adtech. But Which Companies Will Stand The Test Of Time?"
     excerpt: "Generative AI is bulldozing through every industry possible, including advertising and brand marketing. And VCs have some choices to make."
     publishedDateTime: 2023-06-02T11:00:00Z

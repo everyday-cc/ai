@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The ethics of innovation in generative AI and the future of humanity"
+    excerpt: "To address the moral conundrums around generative AI we must understand how it can create positive change, and where it may fall short."
+    publishedDateTime: 2023-06-03T15:19:00Z
+    webUrl: "https://venturebeat.com/ai/the-ethics-of-innovation-in-generative-ai-and-the-future-of-humanity/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1061856486-koto_feja.jpg?w=1200&strip=all"
+        width: 1200
+        height: 613
+        isCached: true
   - title: "AI & IP—Data Protection At The Crossroads Of Innovation And Intellectual Property"
     excerpt: "From cutting-edge registration techniques to implementing privacy-enhancing technologies, businesses must be creative and forward-thinking in protecting intellectual property in the AI age."
     publishedDateTime: 2023-05-30T14:00:00Z
@@ -99,20 +113,6 @@ related:
       - url: "https://content.fortune.com/wp-content/uploads/2023/06/GettyImages-1423782273.jpg?w=840"
         width: 840
         height: 560
-        isCached: true
-  - title: "The ethics of innovation in generative AI and the future of humanity"
-    excerpt: "To address the moral conundrums around generative AI we must understand how it can create positive change, and where it may fall short."
-    publishedDateTime: 2023-06-03T15:19:00Z
-    webUrl: "https://venturebeat.com/ai/the-ethics-of-innovation-in-generative-ai-and-the-future-of-humanity/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1061856486-koto_feja.jpg?w=1200&strip=all"
-        width: 1200
-        height: 613
         isCached: true
   - title: "InnovationRx: The Cost Of Social Care; Plus, AI To Predict Heart Failure"
     excerpt: "The lead author is Sanjay Basu, a doctor and the cofounder of Waymark Health, a startup whose launch we profiled last year. Waymark is trying to help better coordinate care for patients on Medicaid, the government-funded health insurance for low-income ..."

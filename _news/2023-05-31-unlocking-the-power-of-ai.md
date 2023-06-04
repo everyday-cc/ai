@@ -97,20 +97,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Rise of AI in FinTech"
-    excerpt: "The financial industry has witnessed a significant transformation in recent years with the rise of financial technology (FinTech) and the emergence of open finance. These disruptive forces have revolutionized traditional banking and financial services,"
-    publishedDateTime: 2023-05-30T05:20:00Z
-    webUrl: "https://taxguru.in/finance/rise-ai-fintech.html"
-    type: article
-    provider:
-      name: Tax Guru
-      domain: taxguru.in
-    quality: 39
-    images:
-      - url: "https://taxguru.in/wp-content/uploads/2022/06/Taxguru-Logo-1.jpg"
-        width: 500
-        height: 500
-        isCached: true
   - title: "AI set to take the world of weather forecasting by storm"
     excerpt: "Papers have been released by the technology companies Google DeepMind, Huawei and Nvidia that appear to show impressive forecasting results driven by machine learning. Peter Dueben, head of earth ..."
     publishedDateTime: 2023-06-01T02:51:00Z

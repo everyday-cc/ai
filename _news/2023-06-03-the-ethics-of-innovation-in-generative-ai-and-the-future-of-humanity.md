@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-03T15:19:00Z
 originalUrl: "https://venturebeat.com/ai/the-ethics-of-innovation-in-generative-ai-and-the-future-of-humanity/"
 webUrl: "https://venturebeat.com/ai/the-ethics-of-innovation-in-generative-ai-and-the-future-of-humanity/"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1061856486-koto_feja.jpg?w=1200&strip=all"
