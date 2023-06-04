@@ -74,20 +74,20 @@ related:
         height: 683
         isCached: true
   - title: "Amazon to pay $31 million in privacy violation penalties for Alexa voice assistant and Ring camera"
-    excerpt: "Amazon has agreed to pay a $25 million civil penalty to settle Federal Trade Commission allegations it violated a child privacy law and deceived parents by keeping for years kids’ voice and location d"
-    publishedDateTime: 2023-06-01T15:19:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ftc-charges-amazon-privacy-violations-alexa-ring-cameras-99745297"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ftc-charges-amazon-privacy-violations-alexa-ring-cameras-99745297"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ftc-charges-amazon-privacy-violations-alexa-ring-cameras-99745297"
+    excerpt: "Amazon will pay more than $30 million to settle alleged privacy violations involving its voice assistant Alexa and its doorbell camera Ring. The Federal Trade Commission voted to"
+    publishedDateTime: 2023-06-01T14:50:00Z
+    webUrl: "https://thehill.com/homenews/ap/ap-technology/ftc-charges-amazon-with-privacy-violations-over-alexa-and-ring-cameras/"
+    ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ftc-charges-amazon-with-privacy-violations-over-alexa-and-ring-cameras/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ftc-charges-amazon-with-privacy-violations-over-alexa-and-ring-cameras/amp/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: The Hill
+      domain: thehill.com
     quality: 30
     images:
-      - url: "https://s.abcnews.com/images/US/wirestory_971419109d7af10203d7ccfd28fcd0ad_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2023/06/6478b2ee51d799.86293546.jpeg?w=1280"
+        width: 1280
+        height: 880
         isCached: true
   - title: "Amazon to pay $31 million in privacy violation penalties for Alexa voice assistant and Ring camera"
     excerpt: "Amazon said last month that it sold more than a half-billion Alexa-enabled devices globally and use of the service increased 35% last year."

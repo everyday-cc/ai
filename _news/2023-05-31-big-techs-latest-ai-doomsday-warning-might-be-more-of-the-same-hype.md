@@ -9,8 +9,8 @@ ampWebUrl: "https://www.popsci.com/technology/ai-warning-critics/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-warning-critics/?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Popular Science
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tech experts highlight the perils of artificial intelligence in new warning"
-    excerpt: "Worries about artificial intelligence systems outsmarting humans and running wild have intensified with the rise of a new generation of highly capable AI chatbots such as ChatGPT."
-    publishedDateTime: 2023-05-30T21:53:00Z
-    webUrl: "https://www.adn.com/nation-world/2023/05/30/tech-experts-highlight-the-perils-of-artificial-intelligence-in-new-warning/"
-    type: article
-    provider:
-      name: Alaska Dispatch News
-      domain: adn.com
-    quality: 37
-    images:
-      - url: "https://www.adn.com/resizer//a5XrKwCrCY-a4wdkBEBEucq5iXc=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/GXREDENRBKWXL7J3MWHKIHD7MM.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "C3.ai Q1 earnings beat expectations, but shares collapse more than 12%"
     excerpt: "And while shares of AI darling Nvidia are up 162% since the start 2023, C3.ai's stock is up a whopping 252%. C3.ai produces enterprise AI software used by a wide range of industries including transportation, healthcare, and manufacturing. On Tuesday ..."
     publishedDateTime: 2023-05-31T21:21:00Z

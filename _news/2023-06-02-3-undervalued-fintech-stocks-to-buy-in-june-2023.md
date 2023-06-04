@@ -60,15 +60,6 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 35
-  - title: "Klarna’s Q1 results show that the fintech unicorn’s turnaround is in full swing"
-    excerpt: "Klarna managed to nab market share in a contracting market, keeping its own growth story afloat despite stiff headwinds."
-    publishedDateTime: 2023-05-30T18:53:00Z
-    webUrl: "https://techcrunch.com/2023/05/30/klarna-q1-results-analysis-ai/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 30
   - title: "Generative AI Is Moving Into Adtech. But Which Companies Will Stand The Test Of Time?"
     excerpt: "Generative AI is bulldozing through every industry possible, including advertising and brand marketing. And VCs have some choices to make."
     publishedDateTime: 2023-06-02T11:00:00Z
@@ -83,15 +74,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Africa Fintech Summit: AWS announces the 25 startups selected for its first 'fintech in Africa' accelerator"
-    excerpt: "Over 90% of startups we know created their Minimum Viable Product (MVP) on AWS. Products like Compute, Amazon SageMaker among others help them to build fast-scaling products that VCs like us love to back. We are excited to provide our expertise to young ..."
-    publishedDateTime: 2023-06-01T13:08:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59236812-africa-fintech-summit-aws-announces-the-25-startups-selected-for-its-first-fintech-in-africa-accelerator-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 1
 
 secured: "w5KPKKJnuqAVcd2ErscmUh+tqfldV7JmoNYBFwQTEg0NHcbNfwXS3V64I4FbCxQEW9VsVjGrzOSHyXOAG2mdjDRRWOxYn8FM9IStMpxP6/oPum7LjLx5RluE+R8KCQ0NcUuBBWoaBtw6j3MJPgw7d3huQd8JimPXFLlDywdlELyxe4tEsSpkX1YnYYxnbClqnuQ4XEiT/G3Ueh+roxD7tSlfzf6DLJOhrXB6Kheu0oUgYskJIONVgMjk71GfjvsRmnwFZGrlvgOAHv2NX4zFKWAPqcaycoKThzMCdVFBGRk0jH8BoduJwJt2DpsUdUhXGY6Vg1lnDGu3Fd7AXNN3iyrT5tl+KXGpUbciYHwK0172ps8bfw1jofG8DjI1h4EJcElAcs6USuhCJOQfKQiRujerUc2WuORdZUVpNemp0S0dqY7e3BlCS2CsFSrS+uRwC1IJEx13Em8rjcDR0GC1ilzF0WkuJBM14AaXIEXd/pMWBbpvr04hOZFH7FGXIo2looDAZRy0f/iU1PgzCZComg==;ixlCqDV+418si7ZVP7qwPQ=="
 ---

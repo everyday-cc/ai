@@ -3,10 +3,10 @@ category: news
 title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
 excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
 publishedDateTime: 2023-06-01T13:10:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
-webUrl: "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+originalUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+webUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
 type: article
 quality: 68
 heat: -1
@@ -124,6 +124,6 @@ related:
       domain: morningstar.com
     quality: 15
 
-secured: "pbfoKesVN1VxTh7CTBQAhXdXC/gTqYOUrnw6FxNnUI20LR8pU0vveO3AAl/wTH4QOE+gxnpW9JuTldPIjLqCrHv0wqC6Sf/BxDvKfRqdoEJqDQRs+wu8W52JVHRf1Gp4796gVKXRVebOv3+nqoMHMF/ASxxG4nf4YyVgH7Cf29tjrybSSc3aokouwUEvRzdH8D/BZqfKUw5hOU1tqdKJcsBTfi4cLZfDtWZYiWkkW+FnlQ+kS3zm4zOubU6PfR8tODShsWm7SV3LHrWDHY3cOG1rzAK7wNJQo8fUMIifhP87RMNkYq3UECWdk5dxXbkdYvkm/wj4N14tQkODtFedSnMV2KrF3eK1X7N0HHpon2c=;/p/lJeDsjZrR7CBQWK1d6Q=="
+secured: "VSg8/EfGfkUe6fSX3tNQ7jyB/B3VMZDp/7q4oTycqlc4j4Tp74HOwdkggTSkXp/Ajrt+JgqcEt2sb/2PA5VzU1FCZXX8VtXVOGssC/7eacrCwnlWnNcxNa9qP/9osvtQ1o/aBSpwVlNVq/MQw7fwnVmQmaswadPJ26r4dv3iKXDaG3+BoQT8koNxbNRceqih7vpYZr6hSLO+BKGW2Eig+uWJ5tL8Mi7yi0S+xuqzRib4sVDtVJNbtzYtDaECGr6b57sLICGJNLDpE39pWqOLIhZrfpZuBlKiwMWe+9kuwfobH874KAcKMwJL5lNodcuO30LlFJTlfxXzq6MbQJYPgsq24GTu/vu7hg7JhxoUG74=;hGSwo1yXAUmFjTU+4uAMHw=="
 ---
 

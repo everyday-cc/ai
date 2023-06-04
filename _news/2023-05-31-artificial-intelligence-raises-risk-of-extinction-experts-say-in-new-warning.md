@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI execs warn of “risk of extinction” from artificial intelligence in new open letter"
-    excerpt: "On Tuesday, the Center for AI Safety (CAIS) released a single-sentence statement signed by executives from OpenAI and DeepMind, Turing Award winners, and other AI researchers warning that their life's work could potentially extinguish all of humanity."
-    publishedDateTime: 2023-05-30T17:12:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 97
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/05/world_dominating_AI_hero-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "AI risks leading humanity to 'extinction,' experts warn"
     excerpt: "It's the most recent in a series of alarms raised by experts in artificial intelligence — but also one that stoked growing pushback against a focus on what seem to be its overhyped hypothetical harms."
     publishedDateTime: 2023-05-30T23:32:00Z
@@ -50,43 +34,11 @@ related:
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230530-sam-altman-openAI-mn-0935-09934e.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Artificial Intelligence Threatens Extinction, Experts Say In New Warning"
-    excerpt: "Worries about artificial intelligence systems outsmarting humans and running wild have intensified with the rise of a new generation of highly capable AI chatbots such as ChatGPT."
-    publishedDateTime: 2023-05-30T18:17:00Z
-    webUrl: "https://www.huffpost.com/entry/artificial-intelligence-warning_n_64760343e4b0a7554f40cb8d"
-    ampWebUrl: "https://www.huffpost.com/entry/artificial-intelligence-warning_n_64760343e4b0a7554f40cb8d/amp"
-    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/artificial-intelligence-warning_n_64760343e4b0a7554f40cb8d/amp"
-    type: article
-    provider:
-      name: HuffPost
-      domain: huffpost.com
-    quality: 86
-    images:
-      - url: "https://img.huffingtonpost.com/asset/6476033f2400001a00f79e46.jpg?cache=G4PHmwP461&ops=1200_630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "OpenAI found a way to make AI models more logical and avoid hallucinations"
-    excerpt: "The creation of false information has led to widespread concerns about the dissemination of misinformation and its potential negative consequences. In a new research post, OpenAI shares that it may have found a way to make AI models act more logically and avoid hallucinations."
-    publishedDateTime: 2023-06-01T21:33:00Z
-    webUrl: "https://www.zdnet.com/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/dd3e7e04d52ada5ef30e6114a2d7e5e1747c90fd/2023/06/01/2df7ccbe-245b-426a-95df-d9ec5ff9cad3/gettyimages-1460653515.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "AI extinction risk warning backed by OpenAI, DeepMind chiefs"
     excerpt: "Explore the debate on AI's potential threat to humanity, featuring experts from OpenAI, Google DeepMind, and more discussing extinction risks and solutions."
@@ -103,34 +55,6 @@ related:
       - url: "https://thethaiger.com/wp-content/uploads/2023/05/129902572_gettyimages-1257740282.jpg"
         width: 976
         height: 549
-        isCached: true
-  - title: "AI Industry Leaders Sign Statement Warning of 'Extinction' Level Risks"
-    excerpt: "The statement, signed by OpenAI CEO Sam Altman and DeepMind CEO Demis Hassabis, says mitigating the risks of AI should be a global priority."
-    publishedDateTime: 2023-05-30T17:25:00Z
-    webUrl: "https://www.cnet.com/tech/ai-industry-leaders-sign-statement-warning-of-extinction-level-risks/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 69
-    images:
-      - url: "https://www.cnet.com/a/img/resize/2dc3500f203ced9cff4738727c8a636b25abb1a6/hub/2022/12/10/f740691c-a2e7-4119-9d71-bd37ced7afbb/chatgpt-chatbot-art.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Poses Threat To Human Existence, Experts In New Warning Letter"
-    excerpt: "But now, this recent letter reportedly endorsed by Microsoft's chief technology and science officers, as well as Demis Hassabis, CEO of Google's AI research lab DeepMind, and two Google executives who lead its AI policy efforts. The statement doesn't ..."
-    publishedDateTime: 2023-06-01T08:38:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ai-poses-threat-to-human-existence-experts-in-new-warning/453287"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1685607676-Untitleddesign-2023-06-01T134751526.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Top AI researchers and CEOs warn against ‘risk of extinction’ in joint statement"
     excerpt: "Experts in the field of artificial intelligence have signed a statement emphasizing the existential threat posed by advanced AI."
@@ -160,21 +84,21 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "EU officials to meet OpenAI CEO again in June over AI laws"
-    excerpt: "The meeting, which is most likely to take place in San Francisco, will see the two parties discuss how OpenAI will implement the EU’s AI regulations that will come into effect in 2026."
-    publishedDateTime: 2023-05-31T03:48:00Z
-    webUrl: "https://www.computerworld.com/article/3697754/eu-officials-to-meet-openai-ceo-again-in-june-over-ai-laws.html"
-    ampWebUrl: "https://www.computerworld.com/article/3697754/eu-officials-to-meet-openai-ceo-again-in-june-over-ai-laws.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3697754/eu-officials-to-meet-openai-ceo-again-in-june-over-ai-laws.amp.html"
+  - title: "Artificial Intelligence Could Make Humans Extinct, Scientists Warn"
+    excerpt: "Worries about AI systems outsmarting humans and running wild have intensified with the rise of a new generation of highly capable chatbots."
+    publishedDateTime: 2023-05-30T22:40:00Z
+    webUrl: "https://patch.com/us/across-america/artificial-intelligence-could-make-humans-extinct-scientists-warn"
+    ampWebUrl: "https://patch.com/us/across-america/amp/31398946/artificial-intelligence-could-make-humans-extinct-scientists-warn"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/us/across-america/amp/31398946/artificial-intelligence-could-make-humans-extinct-scientists-warn"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
+      name: Patch
+      domain: patch.com
     quality: 57
     images:
-      - url: "https://images.techhive.com/images/article/2017/01/p029684001801-819244-100706761-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 552
+      - url: "https://patch.com/img/cdn20/ap/22940811/20230530/063900/styles/patch_image/public/ap23144596433121-1___30183726587.jpg"
+        width: 1066
+        height: 800
         isCached: true
   - title: "Artificial intelligence raises risk of extinction, experts warn"
     excerpt: "Hundreds of leading figures have signed a statement saying it should be a global priority to address what AI is capable of before it's out of control."
@@ -242,20 +166,6 @@ related:
       - url: "https://media.ktoo.org/wp-content/uploads/2023/05/gettyimages-1462188008-882e18cb60aa9f47fd79679ce541032789ee8e02-aspect-ratio-16-9-1536x864.jpg"
         width: 1536
         height: 864
-        isCached: true
-  - title: "Tech executives sign warning letter regarding artificial intelligence risks"
-    excerpt: "The one-sentence open letter, issued by the nonprofit Center for AI Safety, is both brief and ominous, without extrapolating how the more than 300 signees foresee AI developing into an existential threat to humanity."
-    publishedDateTime: 2023-05-31T14:31:00Z
-    webUrl: "https://kyma.com/dsw-living/technology/2023/05/31/tech-executives-sign-warning-letter-regarding-artificial-intelligence-risks/"
-    type: article
-    provider:
-      name: KYMA
-      domain: kyma.com
-    quality: 37
-    images:
-      - url: "https://kyma.b-cdn.net/2023/05/InkOHhe2-AI-WARNING-LETTER.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Tech leaders issue dire \"extinction\" risk warning over AI"
     excerpt: "We got an alarming warning this week about artificial intelligence from some of the world's top minds on the matter, explains Dr. Manjeet Rege, chair of the department of software engineering and data science at the University of St."

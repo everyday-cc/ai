@@ -153,20 +153,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "A lawyer used ChatGPT to cite bogus cases. What are the ethics?"
-    excerpt: "A New York lawyer is facing potential sanctions over an error-riddled brief he drafted with help from ChatGPT."
-    publishedDateTime: 2023-05-30T18:46:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/lawyer-used-chatgpt-cite-bogus-cases-what-are-ethics-2023-05-30/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/_5viwYdgAYqzIa9RsQKeRVtZJGU=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZGSQRA7Y2JNLBOEYBWCKD3FTZM.jpg"
-        width: 728
-        height: 381
-        isCached: true
   - title: "ChatGPT Is Cutting Non-English Languages Out of the AI Revolution"
     excerpt: "AI chatbots are less fluent in languages other than English, threatening to amplify existing bias in global commerce and innovation."
     publishedDateTime: 2023-05-31T11:01:00Z
@@ -250,15 +236,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
-  - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
-    excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
-    publishedDateTime: 2023-05-30T18:31:00Z
-    webUrl: "https://www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-may"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Microsoft Build 2023: Bing AI and Copilot Plugins for ChatGPT OpenAI, Microsoft Fabric and More"
     excerpt: "This year's Microsoft Build was focused on artificial intelligence, with new Copilot experience additions for Windows 11 and Edge, as well as new Bing AI and Copilot plugins for ChatGPT OpenAI. Key announcements also included the Microsoft Fabric analytics platform,"
     publishedDateTime: 2023-06-02T07:05:00Z
@@ -352,15 +329,6 @@ related:
         width: 3024
         height: 1701
         isCached: true
-  - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
-    excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
-    publishedDateTime: 2023-05-30T17:30:00Z
-    webUrl: "https://www.businessinsider.com/chaptgt-generative-ai-financial-services-whats-next-reality-hype-2023-may"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
   - title: "The hardest part of working with generative AI in healthcare"
     excerpt: "UC San Diego Health is piloting generative artificial intelligence, built by Epic and Microsoft, to help physicians respond to patients' questions. Challenges i"
     publishedDateTime: 2023-06-02T18:28:00Z

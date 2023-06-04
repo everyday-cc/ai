@@ -60,20 +60,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Bulls Charge Into The Memorial Day Weekend On AI Excitement And Nvidia Earnings Momentum"
-    excerpt: "The Markets To say NVDA (NASDAQ: NVDA) crushed earnings is a drastic understatement. You won’t find fundamental analysis on this page. But it does make sense to pay attention to the smart and experienced traders that know the fundamentals."
-    publishedDateTime: 2023-05-30T17:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/etf/bulls-charge-into-the-memorial-day-weekend-on-ai-excitement-and-nvidia-earnings-momentum-1032358964"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/2-bull-photography-tkriu01wdfm-unsplash.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Nvidia briefly worth $1 trillion thanks to AI boom"
     excerpt: "Investors excited about the possibilities for artificial intelligence have sent the US chipmaker's value soaring."
     publishedDateTime: 2023-05-30T20:22:00Z
@@ -99,15 +85,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "Opinion: Why Alphabet is a better bet than Meta Platforms if you’re investing in AI"
-    excerpt: "Then, way back in 2014, it acquired an AI startup named DeepMind — with a string of other acquisitions in between. In other words, if you want a company that has been thinking seriously about AI for years rather than playing with cartoonish avatars and ..."
-    publishedDateTime: 2023-05-30T18:53:00Z
-    webUrl: "https://www.marketwatch.com/story/why-alphabet-is-a-better-bet-than-meta-platforms-if-youre-investing-in-ai-4d46b88"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
   - title: "AI demand briefly catapults Nvidia into $1 trillion club"
     excerpt: "The total value of computer chip and graphics processing card manufacturer Nvidia briefly touched $1 trillion on May 30 as demand for the company’s artificial intelligence tech surged into overdrive."
     publishedDateTime: 2023-05-31T00:40:00Z

@@ -40,20 +40,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Tech experts highlight the perils of artificial intelligence in new warning"
-    excerpt: "Worries about artificial intelligence systems outsmarting humans and running wild have intensified with the rise of a new generation of highly capable AI chatbots such as ChatGPT."
-    publishedDateTime: 2023-05-30T21:53:00Z
-    webUrl: "https://www.adn.com/nation-world/2023/05/30/tech-experts-highlight-the-perils-of-artificial-intelligence-in-new-warning/"
-    type: article
-    provider:
-      name: Alaska Dispatch News
-      domain: adn.com
-    quality: 37
-    images:
-      - url: "https://www.adn.com/resizer//a5XrKwCrCY-a4wdkBEBEucq5iXc=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/GXREDENRBKWXL7J3MWHKIHD7MM.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "00Mb40XI1Hopq8kPq1/iRcTxigmrJnPKMtl7w0QvgWBAazWDsT33iugIr6WqNXaWY8t+J8d6o1jw+v6m17sTT+B9Z9Dj/USnJs4AsttdEml7azCKX66zhlH5LoqXdGZV9Ke5HlQyijHAXHQqtWOiIbHR80HntuEUOHQQUsgoujLj48SypcPgyMFOvdTILbU1Gc7qTIM44yEEIvcVekgVpI66ip1/6IilWVcPDhzMehMLU93tNSsdCyEo6SCJlXxmK4L5nMvecE5bYsBm9KrCcxtbt+jdcLAwkMCvT2dxir6hkGen7WharD+vavovy6M0CCQORiwbR3L4BZHoX0fXA5jFyOttJP0wI9uz49SFxUI=;vibOReGAUK9DgZtAkiW96g=="
 ---

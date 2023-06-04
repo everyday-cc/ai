@@ -70,24 +70,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Klarna’s Q1 results show that the fintech unicorn’s turnaround is in full swing"
-    excerpt: "Klarna managed to nab market share in a contracting market, keeping its own growth story afloat despite stiff headwinds."
-    publishedDateTime: 2023-05-30T18:53:00Z
-    webUrl: "https://techcrunch.com/2023/05/30/klarna-q1-results-analysis-ai/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 30
-  - title: "Africa Fintech Summit: AWS announces the 25 startups selected for its first 'fintech in Africa' accelerator"
-    excerpt: "Over 90% of startups we know created their Minimum Viable Product (MVP) on AWS. Products like Compute, Amazon SageMaker among others help them to build fast-scaling products that VCs like us love to back. We are excited to provide our expertise to young ..."
-    publishedDateTime: 2023-06-01T13:08:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59236812-africa-fintech-summit-aws-announces-the-25-startups-selected-for-its-first-fintech-in-africa-accelerator-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 1
 
 secured: "OFXVUQ+B+lQ+HRhh27xmxKmagqG872i+5f18tuNSJ3AmdHggFV7wvaSMflC0y4amB6okpegdhbtFpt1uSNkE/cIwoD5Z8UyQ8mr6a45may582y6qhFY8X2o3grHPSKURiA0ipPyOL10oHleRkQKcqYZs7Fa1aongJDoXhtyg+coIMdux8Nrc1XpODf+8I7o6AcH166jWqWnaw4pSm63d0KaKUSKaVs0NYMmOpnngbrj4mTAhL9RWlu9S9pVuip7taVPhT2hqCAZ/oQonQ7opgNHEFIeJbmjKkVHDxRrtfIqM8n4nE3R1sVs3BmMKjoESEvGxDZa8wzBJHHJfn6HDHf2M2Sahwid2xGphr8JLAmc=;QTQRNghhlIgfZkd10a2d8Q=="
 ---

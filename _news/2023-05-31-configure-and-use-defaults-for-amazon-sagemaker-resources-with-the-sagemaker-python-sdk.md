@@ -23,20 +23,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "Amazon SageMaker XGBoost now offers fully distributed GPU training"
-    excerpt: "Amazon SageMaker provides a suite of built-in algorithms, pre-trained models, and pre-built solution templates to help data scientists and machine learning (ML) practitioners get started on training and deploying ML models quickly. You can use these algorithms and models for both supervised and unsupervised"
-    publishedDateTime: 2023-05-30T17:29:12Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-xgboost-now-offers-fully-distributed-gpu-training/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 121
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/30/sagemaker-xgboost-gpu-training.jpg"
-        width: 1024
-        height: 509
-        isCached: true
   - title: "Host ML models on Amazon SageMaker using Triton: CV model with PyTorch backend"
     excerpt: "PyTorch is a machine learning (ML) framework based on the Torch library, used for applications such as computer vision and natural language processing. One of the primary reasons that customers are choosing a PyTorch framework is its simplicity and the fact that it’s designed and assembled to work with"
     publishedDateTime: 2023-05-31T18:40:07Z
@@ -46,20 +32,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 99
-  - title: "Accelerate your learning towards AWS Certification exams with automated quiz generation using Amazon SageMaker foundations models"
-    excerpt: "Getting AWS Certified can help you propel your career, whether you’re looking to find a new role, showcase your skills to take on a new project, or become your team’s go-to expert. And because AWS Certification exams are created by experts in the relevant role or technical area, preparing for one of"
-    publishedDateTime: 2023-05-31T16:46:02Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-your-learning-towards-aws-certification-exams-with-automated-quiz-generation-using-amazon-sagemaker-foundations-models/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 75
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/31/aws-certifications-sagemaker.jpg"
-        width: 1022
-        height: 509
-        isCached: true
   - title: "Implement a multi-object tracking solution on a custom dataset with Amazon SageMaker"
     excerpt: "The demand for multi-object tracking (MOT) in video analysis has increased significantly in many industries, such as live sports, manufacturing, and traffic monitoring. For example, in live sports, MOT can track soccer players in real time to analyze physical performance such as real-time speed and moving"
     publishedDateTime: 2023-06-01T18:19:35Z

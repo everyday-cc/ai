@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Amazon to pay $31 million in privacy violation penalties for Alexa voice assistant and Ring camera"
-excerpt: "Amazon has agreed to pay a $25 million civil penalty to settle Federal Trade Commission allegations it violated a child privacy law and deceived parents by keeping for years kids’ voice and location d"
-publishedDateTime: 2023-06-01T15:19:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/ftc-charges-amazon-privacy-violations-alexa-ring-cameras-99745297"
-webUrl: "https://abcnews.go.com/Business/wireStory/ftc-charges-amazon-privacy-violations-alexa-ring-cameras-99745297"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ftc-charges-amazon-privacy-violations-alexa-ring-cameras-99745297"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ftc-charges-amazon-privacy-violations-alexa-ring-cameras-99745297"
+excerpt: "Amazon will pay more than $30 million to settle alleged privacy violations involving its voice assistant Alexa and its doorbell camera Ring. The Federal Trade Commission voted to"
+publishedDateTime: 2023-06-01T14:50:00Z
+originalUrl: "https://thehill.com/homenews/ap/ap-technology/ftc-charges-amazon-with-privacy-violations-over-alexa-and-ring-cameras/"
+webUrl: "https://thehill.com/homenews/ap/ap-technology/ftc-charges-amazon-with-privacy-violations-over-alexa-and-ring-cameras/"
+ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/ftc-charges-amazon-with-privacy-violations-over-alexa-and-ring-cameras/amp/"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/ftc-charges-amazon-with-privacy-violations-over-alexa-and-ring-cameras/amp/"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: The Hill
+  domain: thehill.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/wirestory_971419109d7af10203d7ccfd28fcd0ad_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://thehill.com/wp-content/uploads/sites/2/2023/06/6478b2ee51d799.86293546.jpeg?w=1280"
+    width: 1280
+    height: 880
     isCached: true
 
 related:
@@ -159,6 +159,6 @@ related:
       domain: niagara-gazette.com
     quality: 0
 
-secured: "HqxJBi9Xpfz/wmZeZybsFjn4kTuCI30mAyvq6qBb1GBjntWLkMCcd+wap1qIlGB9c9W/THINdxLhqnCPSmr7vYJqVJ3jz3eUqvh9vxeCihQNWs9P4wu5oH1Qf8w/6fExysEgUjlA+Rh6GrIW4nNlds18SYAai+Hn20whdTjn2StNWm4Si0O/4uTn9LgbdZ5Zkh+YWQeSxC+9OIUcY1gfDHCStOICsf93aULEenQKKWbH3F1AkLZr8nZrjn6yPOI1f/BBWSMpGO8tWoLcHwnJ6mCZu8Jj2QJYV+/ZQs4OrYUFV6sHOR9LyydVmZl5p76lUaGmoUOx9cKHVX9pEN5plSDJEtT+2/ivZvr5BCWwv4I=;vQiP3lqV1SlOzBuWqdff4A=="
+secured: "NGbJsnplIs1zz4kCDZtbxrjIzzKyfdYvIHYgODodeaa09fjcjmD+jzZBiRdyG/xQpj95aXD0aJss0Jocky1GmrmtWT6D4Ya0oYQmPU6op17nXZR4IX4VbOszeY2KRfsPGt7s3b+UD2JVnBEzFuz+2+OgWcYFMy/YIPa8dppm7rCkjd4DmRdZ/4IzjqCvum9tr3MYn6fQYkovk8QCeeWHLvv2rZQcnKplNuru+z1s+ZObOj3E8NY4OBu2kNK/YAACxx2D9nHauxV1YqVGJMgUP7bg+3Z+cjrgZBlJCTEx9CUHTJRuiqVhMp7WqyLBlFERkHZ9AJY/WxuHOtwlKcYT9of6wzF03ZOShvOKcxZZUUw=;BZLWw+o/iCID3aAeClI20A=="
 ---
 

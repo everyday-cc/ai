@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Artifact's new feature to let AI rewrite headline of clickbait article; uses GPT-4 model [details]"
+    excerpt: "Artifact, the AI-powered news app from Instagram co-founders Kevin Systrom and Mike Krieger, has launched a new feature which will let AI (artificial intelligence) rewrite a headline for users if they come across a clickbait article."
+    publishedDateTime: 2023-06-04T11:57:00Z
+    webUrl: "https://www.ibtimes.co.in/artifacts-new-feature-let-ai-rewrite-headline-clickbait-article-uses-gpt-4-model-details-859618"
+    type: article
+    provider:
+      name: IBTimes India
+      domain: ibtimes.co.in
+    quality: 23
+    images:
+      - url: "https://data1.ibtimes.co.in/en/full/785198/chatgpt-creator-warns-about-ai-world-trouble.jpg?w=843&h=470&l=50&t=40"
+        width: 843
+        height: 470
+        isCached: true
+
 secured: "hy6e6BccRB6TzTZEdJRNkbkhDvQMdalQTApOb9VnU8thonA0yZ30tanBeSaiyM41li/GvjVzTfDeN62oes5klxzEksps8nEkfRVsieShbZRMSsnRKhjyuT4qOFzn+2dPmo5mZFaTmTmpDi4yQ8JvAJZ0A9wbgAxp9yPp4Enk7DWWn09Pu1BUyFJm/R6ZEiqJx45IHxrzB4wt/3GRgAt6UcmlAqOMtlwluDUCCBTB/JE5+ur/b2lzXQ4I4Kh5Zd2QlTm2d6IT2WQ40H95d1nc8KisyrIGU2izMy+1nJbcQ8c2Ps1Vj/ckMu+pFlty/J9lW3FwzHc1g4v2b+6WL+rFXxXi6HMenRgErJ4pt2bQFro2Kw87E9k1MmnwUDYhHIYe4RQxBR50hthuJEBWtev4DbGGRUXPD17V0hOhiGD5nbw/ZvsLpXLW3NRlAze1ME7O4anuTV8+Vv3Bu4jd0FP+ByvC4Lr2+E0ZcIkzc+FjQ7u2guRgl2+AxWy9nba3kanbnDFsjmpO0BCdYhULFyQAEg==;cmNCMeAhZNQRgzbVo4ObDQ=="
 ---
 

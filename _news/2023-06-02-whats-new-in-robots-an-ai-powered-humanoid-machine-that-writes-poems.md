@@ -3,18 +3,18 @@ category: news
 title: "What's new in robots? An AI-powered humanoid machine that writes poems"
 excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
 publishedDateTime: 2023-06-02T12:59:00Z
-originalUrl: "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-webUrl: "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-ampWebUrl: "https://abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+originalUrl: "https://abc13.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+webUrl: "https://abc13.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+ampWebUrl: "https://abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
 type: article
 quality: 74
 heat: 114
 published: true
 
 provider:
-  name: ABC7
-  domain: abc7.com
+  name: abc13
+  domain: abc13.com
 
 topics:
   - AI in Robotics
@@ -88,6 +88,6 @@ related:
         height: 399
         isCached: true
 
-secured: "IYXsvGm7Eptt/GazD1lCXQTl3Eqz79e8yVN+EvPif+YV/z7vH5QgXUfu3tSXtNCOTtfFytnEOFE1Okn83MvpCOr/zQ5HQSjaH7liZmCD8agrcPhfLFQS3uAKuUfk8vTPtKn5GVNdx2EFuN8t4YpC39pp9r/KD/AqqE1G343Y3BpH0rS2ORR4mTe2Bizw45aE6DDMPnLTwd99XlAGoytMWZvsNfUqSmfPrIDQwAbqx4uXv4cQVEsrJ4BWg1ITjxskz2M92apIgPVAo/Dl9Dp8onIqQRX/XGOlCn5glTJMxF+jTJBJuIj7czHxmwmiWneCbBu83Gmv2Ncpkce0XaZX+mqNzSRj37QYAQPxIzmFuQU=;rK7CIqO7Hjs2E1GUde5zLA=="
+secured: "xnQxVDe/ttbCac/t6lrS9MNaXAQiQ7ylc/KkMHH6aJaDxvBvWvz3004DKCIZP7Euv7Cjj7t17wx/PkmmtZ66EywH0Ogu2IhwfwapMzucQuKd98xg5rxL4mD4GjPnq5kfPA4zDtVWXvK8IA8G0hqZ1jxhTLob1By+D9gS49T9DpxUua8N0Og4DOQF1zpeYTZS9Ieu0TElu+4NzEmT8Qm3jCAM2zbV3UhnIRE21MR83yHxyc/VHP3F2PtjgRkgQl5O0aNFcipmbjGA/w0pgCgwwtQOz0t5DNXk/u66rftAAMpVubfnS0pEUoBt5MMTUVMKDhGHauB3XcVkkRzxgUowkeLVXBMWoMU8w5HPy8k9b0Y=;Li4xOTtoVt+CUvPqa2MPEg=="
 ---
 

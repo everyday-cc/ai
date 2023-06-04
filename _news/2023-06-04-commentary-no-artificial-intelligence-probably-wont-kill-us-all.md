@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/commentary/artificial-intelligence
 webUrl: "https://www.channelnewsasia.com/commentary/artificial-intelligence-wont-kill-us-fear-openai-microsoft-meta-3530821"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,21 +24,49 @@ images:
     isCached: true
 
 related:
-  - title: "No, AI probably won’t kill us all – and there’s more to this fear campaign than meets the eye"
-    excerpt: "Doomsaying is an old occupation. Artificial intelligence (AI) is a complex subject. Its easy to fear what you dont understand. These three truths go some way towards explaining the oversimplification and"
-    publishedDateTime: 2023-06-03T03:30:00Z
-    webUrl: "https://www.econotimes.com/No-AI-probably-wont-kill-us-all--and-theres-more-to-this-fear-campaign-than-meets-the-eye-1657137"
+  - title: "Comment: What Congress can do to keep an eye on AI"
+    excerpt: "A new federal agency to regulate artificial intellitence (AI) sounds helpful but could become unduly influenced by the tech industry. Instead, Congress can legislate accountability. Instead of licensing companies to release advanced AI technologies, the government could license auditors and push for companies to set up institutional review boards."
+    publishedDateTime: 2023-06-04T08:30:00Z
+    webUrl: "https://www.heraldnet.com/opinion/comment-what-congress-can-do-to-keep-an-eye-on-ai/"
+    type: article
+    provider:
+      name: HeraldNet
+      domain: heraldnet.com
+    quality: 39
+    images:
+      - url: "https://www.heraldnet.com/wp-content/uploads/2023/06/32887389_web1_TSR-230603-edh-opi-AIguardrailes.jpg"
+        width: 1302
+        height: 868
+        isCached: true
+  - title: "Here’s how Congress can regulate AI | Opinion"
+    excerpt: "Takeaways: A new federal agency to regulate AI sounds helpful but could become unduly influenced by the tech industry. Instead, Congress can legislate accountab"
+    publishedDateTime: 2023-06-04T11:17:00Z
+    webUrl: "https://www.penncapital-star.com/commentary/heres-how-congress-can-regulate-ai-opinion/"
+    type: article
+    provider:
+      name: penncapital-star
+      domain: penncapital-star.com
+    quality: 39
+    images:
+      - url: "https://www.penncapital-star.com/wp-content/uploads/2022/03/GettyImages-521369998-scaled.jpg"
+        width: 2560
+        height: 1670
+        isCached: true
+  - title: "How can Congress regulate AI? Erect guardrails, ensure accountability and address monopolistic power"
+    excerpt: "Takeaways: A new federal agency to regulate AI sounds helpful but could become unduly influenced by the tech industry. Instead, Congress can legislate accountability. Instead of licensing companies"
+    publishedDateTime: 2023-06-01T11:41:00Z
+    webUrl: "https://www.econotimes.com/How-can-Congress-regulate-AI-Erect-guardrails-ensure-accountability-and-address-monopolistic-power-1657017"
     type: article
     provider:
       name: EconoTimes
       domain: econotimes.com
-    quality: 28
+    quality: 24
     images:
-      - url: "https://f1.econotimes.com/2023/06/pi8i0qafe7_th_1024x0.jpg"
-        width: 496
-        height: 275
+      - url: "https://www.econotimes.com/assets/images/econotimes/metaDefault2.png"
+        width: 400
+        height: 330
         isCached: true
 
-secured: "YLd0SGUIj+zfb5ZGl2q7+dA1nWDMspGOIADKOP8bnbsFzP1y6xnSZ5PkQOLWf7m/Wf8b38x7kapZWzsYVwAssJ1UlSQyYEHLO5bI4YIVPnDm1r6M8p7C4P2B6wQYxlBEDA0C2PK7jufiZZSooy8tLhqXvkN5Clg1RP+3v7j+gC9hGPS5eUsCjnUGTd7ceykyNh2vfx5wFyNxbcX/QRU8MAvAt6sFXntfrpH1HZ0TeQdY9bMWw+8ICNu2Gj/HaEgwgd1ej8n2Fw+Tld9u2G3vqMeCLpTE0pxSqPgqFswkOGUYpAbFfaIOFM8BcUx8BZWsCSwa7HCdUDXzUQ+Oplxet/Fl+D5asFUrIpt/2OCyuCo=;nJj5wf6Fe8k1DHw/LHhXbQ=="
+secured: "mlb4cdtr7E3qTBv+HmpSNe7PaNSb1osjBpm3vZC71fasQqRm00j+3pbm53ZBQFBMeV7jJhNVH3iU5k/hJYEkXYftDv6FDn0opJfuo9Xspu2TxWX8ETf6FtNYoYfLaU6O8mxcKxDjKB/WjOOeuX1eAHCqcMklnTi2uZXFIq1+y5ruVh3vvBBVGynF3JQAfa21RFgrdZjtFGkoka83F4ki4wndyCc7hv2KFT0V4Mjjntov9bpBY57VhU95a8Dcd0bS3sc148vx/WhPXIu+fTw0Uh6Qa0+eYbL7tj8k2ipZCgLmQbmqAjK0sbTD17744sh+ZAvnTb0NXE7G5gDhvTKm2h3LicKpM4dgGOD7rN6WC0eTn8/GSxkQ04zsN9pv/RBRLnhPpkJzltQFYLIu74WpDxCQGpLtvC2vpQL3YRjbR5kV1pdJfd82OEQ02Y62yI4M0hnYbNTbzyZGnXVUhcvDjLpV0IEXyZCrb/6uXDb4dxqOTi5eLu4X4LE0vxz53gLs3G2GC+OdI+yZ4ULtnEdPqQ==;WWC/QhnRa8qF/X+p3zFn0w=="
 ---
 

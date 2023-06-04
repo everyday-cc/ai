@@ -1,30 +1,20 @@
 ---
 category: news
 title: "AI startup Figure raises $70 million to build humanoid robots"
-excerpt: "REUTERS/Denis Balibouse May 24 (Reuters) - Figure, a startup that wants to build general-purpose humanoid robots, has raised ... tech investments and AI. She has previously covered M&A for Reuters ..."
-publishedDateTime: 2023-05-24T10:07:00Z
-originalUrl: "https://www.reuters.com/technology/ai-startup-figure-raises-70-million-build-humanoid-robots-2023-05-24/"
-webUrl: "https://www.reuters.com/technology/ai-startup-figure-raises-70-million-build-humanoid-robots-2023-05-24/"
+excerpt: "May 24 (Reuters) - Figure, a startup that wants to build general-purpose humanoid robots, has raised $70 million from investors led by Parkway Venture Capital in its first external round ..."
+publishedDateTime: 2023-05-24T15:18:00Z
+originalUrl: "https://www.nasdaq.com/articles/ai-startup-figure-raises-$70-million-to-build-humanoid-robots"
+webUrl: "https://www.nasdaq.com/articles/ai-startup-figure-raises-$70-million-to-build-humanoid-robots"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.reuters.com/resizer/SI1bfTNC-Bz7KNhJOpYooify8JE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XABUQJTBDFJIRDVHJEICSACX74.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "f29ZQEAdsKxZ/1miZUH4H0/piSk8pUwN7TYftyUjlBwlPMtXLDvTqzbsFEevM5FPr4byjnVKN05GTYkiCyN96qTuW1BFBN3ovbfrM8ULpgSKyMkw57aXBHYNBHSvchRKR0g4YdX9XKSB1zNoiCSoQvo57+4nvi0soI/trMz5XcfCj7Y76RXSivqqFz18pBPPrAVBAwk60n+HFxw8CJV+XkZdh7Jj6qR1mi7dPgKrupP4RbUbPB+Mk2EIV3L912nlFqyPl5prKaBP6NEh5yKm0xFPI2G5ab9BlBfDwpnts/mWUpkDFEVMluZPxCYRh94d2tx8LWQA+reT7m01ua+QV+YATEXRQT0cVWeDiIFgkYI=;D6bTXzc7BADkuryAMPH2Ow=="
+secured: "8ACcUIjBm42x+0DCnuzkH28Ae6S2UIJSdcoizpEkjoCvKL6PCj0nT8JxQU3LAGXP09HE8bA96agAidvlP7KSTOI2sBhazYkjwEs2ryblec8j6+CAwk0d5Zy+ocHta0SNTK/8daCuWsnnmBOprdlo/oUHriV4WK4VS+gQSxWAMGuvYcmqayjI0VCXVz6pPlpK7rtAz5e2iCxnKOStTqsxBXDTwWNOTMVHSRSHP5ai8DUfQC/sH6tD+B3LhaqKP0ZnuvwnQ+lrimUV7x4ewPA0ILBPRPTL2o2XzYHl1g7dp3gvzI5W8W8obebylMz4QkM/cOeuwO1W0in72WVyZ460EdeM56SA7uMeYPVEhVKWcUQ=;j+DIdXxiPpBDMAZDjLwRog=="
 ---
 
