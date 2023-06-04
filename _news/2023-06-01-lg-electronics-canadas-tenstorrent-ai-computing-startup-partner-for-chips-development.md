@@ -57,15 +57,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Canadian AI computing startup Tenstorrent and LG partner to build chips"
-    excerpt: "Jim Keller, CEO of Canadian AI computing startup Tenstorrent, poses for a photo at the company's office in Santa Clara, California, U.S. in this picture taken in 2022. Tenstorrent/Handout via ..."
-    publishedDateTime: 2023-05-31T00:47:00Z
-    webUrl: "https://www.reuters.com/technology/canadian-ai-computing-startup-tenstorrent-lg-partner-build-chips-2023-05-30/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
   - title: "LG Partners Canadian Startup To Develop AI Chips"
     excerpt: "LG Electronics and Canadian AI computing startup Tenstorrent said on Wednesday they are working together to develop next-generat"
     publishedDateTime: 2023-05-31T13:06:00Z

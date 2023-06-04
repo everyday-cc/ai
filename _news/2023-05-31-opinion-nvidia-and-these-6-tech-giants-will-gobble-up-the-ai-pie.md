@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-and-these-6-tech-giants
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64760ef28d9d32e3a6569955/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "AI demand briefly catapults Nvidia into $1 trillion club"
-    excerpt: "The total value of computer chip and graphics processing card manufacturer Nvidia briefly touched $1 trillion on May 30 as demand for the company’s artificial intelligence tech surged into overdrive."
-    publishedDateTime: 2023-05-31T00:40:00Z
-    webUrl: "https://cointelegraph.com/news/nvidia-briefly-hits-1-trillion-market-cap"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 39
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-05/795d3f2c-200d-4544-9605-74bfbb101f9d.jpg"
-        width: 1200
-        height: 799
         isCached: true
   - title: "Intel cedes spotlight at global tech gala to AI darling Nvidia"
     excerpt: "Intel, long synonymous with the fastest processors, has seen its all-purpose chips overshadowed by Nvidia's more specialized, parallel-processing architecture."

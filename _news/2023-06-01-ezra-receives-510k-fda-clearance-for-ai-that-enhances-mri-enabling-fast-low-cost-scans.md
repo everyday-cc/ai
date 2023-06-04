@@ -32,6 +32,20 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Ezra Earns FDA Clearance for AI Tool that Makes MRIs Faster & Cheaper"
+    excerpt: "New York-based startup Ezra recently received FDA clearance for an AI tool it plans to use to launch “the world’s first 30-minute full body MRI scan.” The tool, named Ezra Flash, allows radiologists to acquire MR images at a rate much faster than ..."
+    publishedDateTime: 2023-06-04T16:12:00Z
+    webUrl: "https://medcitynews.com/2023/06/fda-artificial-intelligence-ai-mri-cancer-healthcare/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
+    images:
+      - url: "https://medcitynews.com/uploads/2018/05/GettyImages-635475308.jpg"
+        width: 724
+        height: 483
+        isCached: true
 
 secured: "4wMReCxi2vQXWyQa4nE5TQ8WMxS/drLKa0UpwxOVCG44qyypkKQjB9mZIUSWU80kZ1VRKbWY7g7ckB3YDFRh7N6nQeB2UCP2A+OAr/mBlUetx3MJYm9nLtFgwPRpp42cG+9d7UxmNYOvw+sdgzPDyQF5TzBAxx+KOKN40LOZHmCqfifpZazEOBlbJakEYV+ejEYkKQZaiGzzxBGXS5sTr8JC8afau/Gw9e4qeARtR/EFSeUIiWvy3ez8pPQ7iS0fr9RWB+pNdkOe/24v5FjVKkZB/mRKa6JvFdJQPokxz3cG+Emz9RLv39rY/Xb52rNXGwfbRxZv7XqkhCQxu19idPooloiqIlxVfAjLUmj9h/g=;wbqSYD26O7M3N0QBH/Rlnw=="
 ---

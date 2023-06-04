@@ -2,6 +2,211 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2023-05-16-three-ways-process-automation-can-help-modernize-financial-services-firms.md",
+      "title": "Three Ways Process Automation Can Help Modernize Financial Services Firms",
+      "excerpt": "By embracing process orchestration, financial services organizations can meet the ever-changing modern challenges of doing business, including updating legacy systems, meeting compliance and risk requirements and improving the customer experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/16/three-ways-process-automation-can-help-modernize-financial-services-firms/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/16/three-ways-process-automation-can-help-modernize-financial-services-firms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6012e16a009ca2cb00fa7e68/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/16/three-ways-process-automation-can-help-modernize-financial-services-firms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/16/three-ways-process-automation-can-help-modernize-financial-services-firms/amp/",
+      "publishedDateTime": "2023-05-16T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-navigating-the-ai-revolution-how-to-successfully-implement-ai-in-business.md",
+      "title": "Navigating The AI Revolution: How To Successfully Implement AI In Business",
+      "excerpt": "The next step is to test the new processes powered by AI, make the final tweaks and eventually establish service-level agreements (SLAs) for their use. 1. Start small. Begin by implementing AI in a specific area or department and gradually expand to other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2023/05/16/navigating-the-ai-revolution-how-to-successfully-implement-ai-in-business/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2023/05/16/navigating-the-ai-revolution-how-to-successfully-implement-ai-in-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646253945a385db669dd3ff9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/05/16/navigating-the-ai-revolution-how-to-successfully-implement-ai-in-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/16/navigating-the-ai-revolution-how-to-successfully-implement-ai-in-business/amp/",
+      "publishedDateTime": "2023-05-16T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-ai-wont-separate-you-from-your-competitors-but-your-content-strategy-could.md",
+      "title": "AI Won’t Separate You From Your Competitors, But Your Content Strategy Could",
+      "excerpt": "Artificial intelligence is a tool and is only as good as the content you feed it, the people who manage it and the structures you have in place to support it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2023/05/16/ai-wont-separate-you-from-your-competitors-but-your-content-strategy-could/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2023/05/16/ai-wont-separate-you-from-your-competitors-but-your-content-strategy-could/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64595406c962fe6795be84e9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/05/16/ai-wont-separate-you-from-your-competitors-but-your-content-strategy-could/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/05/16/ai-wont-separate-you-from-your-competitors-but-your-content-strategy-could/amp/",
+      "publishedDateTime": "2023-05-16T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-16-activecampaign-introduces-content-generation-powered-by-ai.md",
+      "title": "ActiveCampaign Introduces Content Generation Powered by AI",
+      "excerpt": "The marketing automation provider invests in generative AI, helping customers improve engagement, conversion rates, and the overall customer",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/activecampaign-introduces-content-generation-powered-by-ai-1032330723",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/activecampaign-introduces-content-generation-powered-by-ai-1032330723",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2077354/Chat_GPT_AI_Assistant___Opengraph_Twitter_Linkedin.jpg",
+          "width": 400,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-16T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-16-where-healthcare-meets-tech-three-crucial-areas-of-discussion.md",
       "title": "Where Healthcare Meets Tech: Three Crucial Areas Of Discussion",
       "excerpt": "The first has to do with artificial intelligence, particularly in terms of improving the patient experience, lowering costs, and speeding up patient selection and triage. A lot can be said about the potential of AI when applied to healthcare. According to ...",
@@ -999,189 +1204,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-c3ai-ai-receives-a-sell-from-bank-of-america-securities.md",
-      "title": "C3ai (AI) Receives a Sell from Bank of America Securities",
-      "excerpt": "Bank of America Securities analyst Bradley Sills maintained a Sell rating on C3ai (AI – Research Report) today and set a price target of",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/c3ai-ai-receives-a-sell-from-bank-of-america-securities-1032328975",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/c3ai-ai-receives-a-sell-from-bank-of-america-securities-1032328975",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-tsa-is-testing-facial-recognition-at-us-airports-heres-what-that-means-for-you.md",
-      "title": "TSA is testing facial recognition at U.S. airports. Here's what that means for you",
-      "excerpt": "The TSA hopes new technology can reduce wait times at U.S. airports while keeping passengers safe. Meanwhile, lawmakers worry about privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/tsa-is-testing-facial-recognition-at-u-s-airports-heres-what-that-means-for-you/",
-      "originalUrl": "https://www.zdnet.com/article/tsa-is-testing-facial-recognition-at-u-s-airports-heres-what-that-means-for-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 288,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/837b0af64e0550442a464f17155d73195b7adc7e/2023/05/15/8c20a0c0-55f8-429b-b325-50833ef08105/gettyimages-1252211190.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tsa-is-testing-facial-recognition-at-u-s-airports-heres-what-that-means-for-you/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tsa-is-testing-facial-recognition-at-u-s-airports-heres-what-that-means-for-you/",
-      "publishedDateTime": "2023-05-15T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-facial-recognition-technology-raises-concerns-over-misidentification-implicit-bias.md",
-      "title": "Facial recognition technology raises concerns over misidentification, implicit bias",
-      "excerpt": "Using artificial intelligence can save you precious time. Whether you need a grocery list or to sort through thousands of job applicants, there’s likely a bot that can get it done.",
-      "sourceUrl": null,
-      "webUrl": "https://nbc-2.com/features/tech/2023/05/15/facial-recognition-technology-raises-concerns-over-misidentification-implicit-bias/",
-      "originalUrl": "https://nbc-2.com/features/tech/2023/05/15/facial-recognition-technology-raises-concerns-over-misidentification-implicit-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nbc-2.com/wp-content/uploads/2023/05/NBC2-AI-facial-recognition.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nbc-2.com/features/tech/2023/05/15/facial-recognition-technology-raises-concerns-over-misidentification-implicit-bias/amp/",
-      "cdnAmpWebUrl": "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/features/tech/2023/05/15/facial-recognition-technology-raises-concerns-over-misidentification-implicit-bias/amp/",
-      "publishedDateTime": "2023-05-15T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC2",
-        "domain": "nbc-2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-16-are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security.md",
-      "title": "Are you who you say you are? TSA tests facial recognition technology to boost airport security",
-      "excerpt": "The Transportation Security Administration has started using facial recognition technology at a number of airports across the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/",
-      "originalUrl": "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.boston.com/wp-content/uploads/2023/05/Facial_Recognition_Airports_79172-6461bb4fb69eb-scaled.jpg",
-          "width": 2560,
-          "height": 1708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1",
-      "cdnAmpWebUrl": "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/travel/technology/2023/05/15/are-you-who-you-say-you-are-tsa-tests-facial-recognition-technology-to-boost-airport-security/?amp=1",
-      "publishedDateTime": "2023-05-15T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston.com",
-        "domain": "boston.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

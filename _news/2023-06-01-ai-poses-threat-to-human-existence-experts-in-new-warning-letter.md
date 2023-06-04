@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ai-poses-threat
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ai-poses-threat-to-human-existence-experts-in-new-warning/453287"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/nuclear-bomb-explode.jpg"
         width: 1067
         height: 600
-        isCached: true
-  - title: "Tech executives sign warning letter regarding artificial intelligence risks"
-    excerpt: "The one-sentence open letter, issued by the nonprofit Center for AI Safety, is both brief and ominous, without extrapolating how the more than 300 signees foresee AI developing into an existential threat to humanity."
-    publishedDateTime: 2023-05-31T14:31:00Z
-    webUrl: "https://kyma.com/dsw-living/technology/2023/05/31/tech-executives-sign-warning-letter-regarding-artificial-intelligence-risks/"
-    type: article
-    provider:
-      name: KYMA
-      domain: kyma.com
-    quality: 37
-    images:
-      - url: "https://kyma.b-cdn.net/2023/05/InkOHhe2-AI-WARNING-LETTER.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "njWWnjo2FyuptuNLeHJSXAhpj3ghKJoSkd2e8bMGllEOPaY1HmmsEHO2gF9iJDdsoxegy1todBQBxTSsd/QNoyeWbOCFEIef2sHeh0vSJVu6ZbMWODqYfsBiZyV3EFTrvPN1G0pw68xeeI/aR7j8I4j/ajyKHtG5wYb8nS+0wo1Kw+RiK/sMCyJkzTPP9vAM6Ote6auQGpZLn1sUwy3J/jv19gxKLjVd6+aV8mk/4zfTCLp6G73pwS7rJ0J8ZNO0rxDWVOPskBjS2hFAYAlWWAJyqtT+yq4+dyZufuoztNnvaatKNZDKzgW3R79jI6j865Fb6Bu8O09ry0wycDEpjI/WomIBjKqbq+tN1wGMeNY=;NznsnxcIRfEHSUA/sSydmA=="

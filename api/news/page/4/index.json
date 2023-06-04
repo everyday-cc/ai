@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-01-aws-picks-biotech-startup-for-ai-accelerator-program.md",
+      "title": "AWS picks biotech startup for AI accelerator program",
+      "excerpt": "Ordaos, a drug design company, was selected for the AWS Generative AI Accelerator, a mentorship program for companies working with generative artificial intelli",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/innovation/aws-picks-biotech-startup-for-ai-accelerator-program.html",
+      "originalUrl": "https://www.beckershospitalreview.com/innovation/aws-picks-biotech-startup-for-ai-accelerator-program.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-01-the-founder-of-artificial-intelligence-sounds-the-alarm-4-major-risks-you-need-to-know.md",
       "title": "The Founder Of Artificial Intelligence Sounds The Alarm: 4 Major Risks You Need To Know",
       "excerpt": "With a BA in Experimental Psychology from the University of Cambridge (1970) and a PhD in Artificial Intelligence from the University of Edinburgh (1978), the 75-year-old has decided to blow the whistle on the technology,",
@@ -564,7 +607,7 @@
       "originalUrl": "https://www.nbcnews.com/news/world/china-warns-artificial-intelligence-risks-calls-beefed-national-securi-rcna87021",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -660,7 +703,7 @@
       "originalUrl": "https://www.indiatvnews.com/technology/news/lg-teams-up-with-canadian-startup-for-ai-chip-development-2023-05-31-873619",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -703,7 +746,7 @@
       "originalUrl": "https://www.marketwatch.com/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1162,49 +1205,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-taiwans-foxconn-predicts-huge-growth-in-ai-server-business.md",
-      "title": "Taiwan's Foxconn Predicts Huge Growth In AI Server Business",
-      "excerpt": "Taiwanese tech giant and key Apple supplier Foxconn predicts three-digit growth for its artificial intelligence server business due to robust demand for AI products such as ChatGPT, its chairman said Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740?refsec=topics_afp-news",
-      "originalUrl": "https://www.barrons.com/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740?refsec=topics_afp-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP6595984239764979366134169632271358072436---1.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740",
-      "publishedDateTime": "2023-05-31T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

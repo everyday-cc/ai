@@ -75,6 +75,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Academic warns against using AI as therapy tool, points to security risks"
+    excerpt: "The artificial intelligence (AI) technology is not mature enough to allow the use of ChatGPT in psychotherapy or counseling, he said, urging people with mental health issues to seek help from a psychiatrist or therapist. “Some people who are going ..."
+    publishedDateTime: 2023-06-04T16:07:00Z
+    webUrl: "https://www.taipeitimes.com/News/taiwan/archives/2023/06/05/2003801002"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 70
+    images:
+      - url: "https://www.taipeitimes.com/images/2023/06/05/p03-230605-327.jpg"
+        width: 800
+        height: 527
+        isCached: true
   - title: "AI in China: Xi aims for balance between progress and protection"
     excerpt: "China calls for heightened national security measures for artificial intelligence. A meeting chaired by President Xi Jinping emphasized the need to safeguard political security and improve security governance of internet data and artificial intelligence."
     publishedDateTime: 2023-05-31T15:57:00Z

@@ -2,17 +2,17 @@
 category: news
 title: "Artificial intelligence:Challenging the status quo"
 excerpt: "Getting the regulation of artificial intelligence right is one of the most urgent problems facing our species, and also one of the most delicate. AI has the potential to improve most aspects of our lives;"
-publishedDateTime: 2023-06-04T07:27:00Z
-originalUrl: "https://www.arkansasonline.com/news/2023/jun/04/artificial-intelligencechallenging-the-status-quo/"
-webUrl: "https://www.arkansasonline.com/news/2023/jun/04/artificial-intelligencechallenging-the-status-quo/"
+publishedDateTime: 2023-06-04T07:16:00Z
+originalUrl: "https://www.nwaonline.com/news/2023/jun/04/artificial-intelligencechallenging-the-status-quo/"
+webUrl: "https://www.nwaonline.com/news/2023/jun/04/artificial-intelligencechallenging-the-status-quo/"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Arkansas Democrat-Gazette
-  domain: arkansasonline.com
+  name: Northwest Arkansas Democrat Gazette
+  domain: nwaonline.com
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 399
     isCached: true
 
-secured: "fXdqxWWcaUrfcYX39sG7ePAL2HUvKyEYnBOuZ/tZFiOzBWqxMfZGWgre9nMgDgiTy9tHfKuimU1ss84bVeNJBO+jVtLRKCShpHK3z6icTTE9WchJCH8z3SBicsgFvdqCRKKzuWCDCug0z0KTUIFzJTyi60z4sDlChjANf51U8cL8pXN4YH1PaTJ+CpNezK5BNCA96w2XDH5Vu+I8is3dRo6Uva/pOzOFkcpJiKdL7gMqj1dEI75Yz+M07W9WL/YzbiSS20HGUE5m9GFz+sMQgsn2dIZvJ+8kk1ZG7b0qwAyJd8lA4Qam8p0t/UPetgz+xSYtiGaUS5Q5aNum/FYxk1uBLc4mPl2p4p2ivTWw/qQ=;GfadBdgw9F6XxPDVvO9eKA=="
+secured: "U0TpFace7LgdsQacUVrRIaDqOhTAx/jQ5zAxKYJ5i4GXE17MqCje+XBiDFf8jkGCDx85iiXX4gMu4V38X9PIKXqLYT+zZe80Q+iougCunL9RWfDCQfHEmSi1ivFfN3h1GL5B5ctHrJv8PBYrh+E4gMDa+/It0jzys+Wtx8ncTGbtDqG/tGUDUROBDWKHjL/YtDXH8Rlr8EUeqSCEfli74pKuPSf/torYeWLZ9+NgkDF2vSdl+6L2r8jEWoWce5FIqKtgI+aUUPgqU5FW1+8WWDj54TEuWvnxFs58aVky31H9aQnUawhyIB5YJ8Znx9TDz50wSHPOGGBivgYz+XVGy9/KTej58CoqxsCHk8j4I9I=;numIxX23I4Qzk9f+GBHN2w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna87021"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna87021"
 type: article
 quality: 93
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/9a3d98be824baaddccb89605c324a9fa61aacfb4/168_0_3332_2000/master/3332.jpg?width=620&quality=85&auto=format&fit=max&s=e38cf6c3909a4fb8062ed0c96950171c"
         width: 620
         height: 372
+        isCached: true
+  - title: "Academic warns against using AI as therapy tool, points to security risks"
+    excerpt: "The artificial intelligence (AI) technology is not mature enough to allow the use of ChatGPT in psychotherapy or counseling, he said, urging people with mental health issues to seek help from a psychiatrist or therapist. “Some people who are going ..."
+    publishedDateTime: 2023-06-04T16:07:00Z
+    webUrl: "https://www.taipeitimes.com/News/taiwan/archives/2023/06/05/2003801002"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 70
+    images:
+      - url: "https://www.taipeitimes.com/images/2023/06/05/p03-230605-327.jpg"
+        width: 800
+        height: 527
         isCached: true
   - title: "China warns of risks from artificial intelligence, calls for beefed-up national security measures"
     excerpt: "BEIJING -- China warns of risks from artificial intelligence, calls for beefed-up national security measures."

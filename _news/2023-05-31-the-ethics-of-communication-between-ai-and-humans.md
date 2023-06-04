@@ -55,7 +55,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_shadowy_robotic_figure_with_clouds_gathering_and_lightni_a50019f4-a9ea-4a14-aa55-b83e599bd02c.png?w=1200&strip=all"
         width: 1200

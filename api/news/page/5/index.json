@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-05-31-taiwans-foxconn-predicts-huge-growth-in-ai-server-business.md",
+      "title": "Taiwan's Foxconn Predicts Huge Growth In AI Server Business",
+      "excerpt": "Taiwanese tech giant and key Apple supplier Foxconn predicts three-digit growth for its artificial intelligence server business due to robust demand for AI products such as ChatGPT, its chairman said Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740?refsec=topics_afp-news",
+      "originalUrl": "https://www.barrons.com/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740?refsec=topics_afp-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP6595984239764979366134169632271358072436---1.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740",
+      "publishedDateTime": "2023-05-31T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-more-warnings-come-from-sabi-pipo-say-ai-fit-finish-human-beings.md",
       "title": "More warnings come from sabi pipo say AI fit finish human beings",
       "excerpt": "But odas say dem don too overblow di fears. Sam Altman, Chief Executive of ChatGPT-maker OpenAI, Demis Hassabis, Chief Executive of Google DeepMind and Dario Amodei of Anthropic don support di ...",
@@ -454,6 +497,58 @@
       ]
     },
     {
+      "path": "_news/2023-05-31-top-ai-researchers-and-ceos-warn-against-risk-of-extinction-in-22-word-statement.md",
+      "title": "Top AI researchers and CEOs warn against ‘risk of extinction’ in 22-word statement",
+      "excerpt": "This statement, published by a San Francisco-based non-profit, the Center for AI Safety, has been co-signed by figures including Google DeepMind CEO Demis Hassabis and OpenAI CEO Sam Altman ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/5/30/23742005/ai-risk-warning-22-word-statement-google-deepmind-openai",
+      "originalUrl": "https://www.theverge.com/2023/5/30/23742005/ai-risk-warning-22-word-statement-google-deepmind-openai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/TVAPXNsHjyXzjCHMtXTMFKUQstA=/0x0:1275x700/1200x628/filters:focal(638x350:639x351)/cdn.vox-cdn.com/uploads/chorus_asset/file/24690541/AlexaSteinbru_ck_ExplainableAI_1275x700.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T22:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-deepfaking-it-americas-2024-election-collides-with-ai-boom.md",
       "title": "Deepfaking it: America's 2024 election collides with AI boom",
       "excerpt": "Thousands of deepfakes are surfacing on social media, blurring fact and fiction in the polarized world of U.S. politics.",
@@ -501,6 +596,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs.md",
+      "title": "AI extinction risk warning backed by OpenAI, DeepMind chiefs",
+      "excerpt": "Explore the debate on AI's potential threat to humanity, featuring experts from OpenAI, Google DeepMind, and more discussing extinction risks and solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://thethaiger.com/news/world/ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs",
+      "originalUrl": "https://thethaiger.com/news/world/ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thethaiger.com/wp-content/uploads/2023/05/129902572_gettyimages-1257740282.jpg",
+          "width": 976,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thethaiger.com/news/world/ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs/amp",
+      "cdnAmpWebUrl": "https://thethaiger-com.cdn.ampproject.org/c/s/thethaiger.com/news/world/ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs/amp",
+      "publishedDateTime": "2023-05-30T18:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Thaiger",
+        "domain": "thethaiger.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -1078,151 +1216,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-the-ai-chip-market-landscape-choose-your-battles-carefully.md",
-      "title": "The AI chip market landscape: Choose your battles carefully",
-      "excerpt": "Right now, the world is fixated on Nvidia's dominant position in the market, but it's important to delve into this a bit further. Nvidia is clearly",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/98879-ai-chip-market-landscape-choose-battles-carefully.html",
-      "originalUrl": "https://www.techspot.com/news/98879-ai-chip-market-landscape-choose-battles-carefully.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-30-image-21.jpg",
-          "width": 4000,
-          "height": 3418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-30-websphere-application-server-support.md",
-      "title": "WebSphere Application Server support",
-      "excerpt": "An update on WebSphere Application. Server Support.\nThe post WebSphere Application Server support appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-websphere-application-server-support/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-websphere-application-server-support/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T11:32:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-ai-doesnt-make-everyone-a-programmer-overnight.md",
-      "title": "AI Doesn't Make Everyone A Programmer Overnight",
-      "excerpt": "Artificial intelligence (AI) is actively transforming the software development industry at a rapid pace. Developers use AI-powered tools to automate tasks, enhance code quality, and accelerate development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidchou/2023/05/30/ai-doesnt-make-everyone-a-programmer-overnight/",
-      "originalUrl": "https://www.forbes.com/sites/davidchou/2023/05/30/ai-doesnt-make-everyone-a-programmer-overnight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/647635193b7835edee569957/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidchou/2023/05/30/ai-doesnt-make-everyone-a-programmer-overnight/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/05/30/ai-doesnt-make-everyone-a-programmer-overnight/amp/",
-      "publishedDateTime": "2023-05-30T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

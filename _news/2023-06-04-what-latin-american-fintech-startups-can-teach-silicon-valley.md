@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ilonalimonta-volkova/2023/06/04/what-la
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilonalimonta-volkova/2023/06/04/what-latin-american-fintech-startups-can-teach-silicon-valley/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mexican fintech Kapital raises $65 million to boost its growth in Latam"
-    excerpt: "Kapital recently obtained $65 million in a new round of investment raising, resources that will be used specifically to accelerate the development and implementation of technological tools, such as an advanced artificial intelligence (AI) engine."
-    publishedDateTime: 2023-05-31T00:17:00Z
-    webUrl: "https://aldianews.com/en/leadership/entrepreneurs/supporting-smes-latam"
-    type: article
-    provider:
-      name: AL DA News
-      domain: aldianews.com
-    quality: 39
-    images:
-      - url: "https://aldianews.com/sites/default/files/2023-05/entrepreneur-2904772_1280%20%281%29.jpg"
-        width: 1280
-        height: 730
-        isCached: true
   - title: "Africa Fintech Summit: AWS announces the 25 startups selected for its first 'fintech in Africa' accelerator"
     excerpt: "Over 90% of startups we know created their Minimum Viable Product (MVP) on AWS. Products like Compute, Amazon SageMaker among others help them to build fast-scaling products that VCs like us love to back. We are excited to provide our expertise to young ..."
     publishedDateTime: 2023-06-01T13:08:00Z

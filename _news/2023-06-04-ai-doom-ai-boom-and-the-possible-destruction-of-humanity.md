@@ -6,7 +6,7 @@ publishedDateTime: 2023-06-04T15:20:00Z
 originalUrl: "https://venturebeat.com/ai/ai-doom-ai-boom-and-the-possible-destruction-of-humanity/"
 webUrl: "https://venturebeat.com/ai/ai-doom-ai-boom-and-the-possible-destruction-of-humanity/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_shadowy_robotic_figure_with_clouds_gathering_and_lightni_a50019f4-a9ea-4a14-aa55-b83e599bd02c.png?w=1200&strip=all"
@@ -167,6 +168,6 @@ related:
       domain: foreignaffairs.com
     quality: 21
 
-secured: "uDpiMUKARLGPOOf72/k4ovX9z4L4J/cRod0fBEkwXvQr6OW47ypr6SshJ19+NSChtNMn4YspBn46Mk8jwbRTuw9GdurdoDUPwXs37zQk7Fp3jV1bEK8U8gRy3p3B6q0pDzh6IciTlTJWOrGG1B/JixaAmNOVel93PC5UTAJ2FViYOgJ1eU8Nxj8UHXkIaJdLBlqyq4QPeeUcvm1+WjAYSuEsbRvdIpOdAiSEAu/+TccYFRASRbTOdpwWHVJsEkdm5uphXWJGiPn5AFO/qRSM8o/xg1FuYE60BWhfFgDm8pXw3O4gkgKKah87ZE0yo8RCfMQZUKGdIErmpCZV21ZhMjQiAWDnWSI0T/dy17+iYn0=;FzDgLTbpCmlj6ZPGEYsisA=="
+secured: "+sKVMcsAkc2jfceG3WyB3fRfnJ+rp4ZRX3W6a7m/a80RXRgkeOY9zGsBrbjKOpQzEKTmSXA+QcM1cy93eJs129qqE7N8ZMnJhPG+cgcFqcl7WO0aRATzp9JQMqltAjf52DM1x/jNzLktucK8dBUAGQbZKG9gNnV1z0x9YZznRIZIKuat8m5YXVH723G4Wlpkwtr8jBoqANg17dbDZ+8JsANis18eoOIY70o3kPkU3QB5+sW+UnadsVfnz037PbJYvfr9gbbRyB8FsBIXkIcAd6VoLCzYMbcme/4MjueKkJ5mbIwPrGQ2hzUSi+Q+73L6uvI5vkAHL/RdK1UAWkEDz2qQPWsm8/V+MzrKYzML/gIfE6gkzbq/O5Syqxk1DRJH2BghJI//ywW6Rhwo4mephsmxtbQ3bTAov2h5n57/95o2LfHpJXun1decHoD32+Bs+RzNxkvOicE/kdejTBy8kBFJX64Sz0N0PLs8pARBE5mBJWk4Y+mpDMrbBrUb2+Sh0VCTP4vCnDZuchOkmLghCw==;7v6m1v4c0WmlJs3hwZJWdQ=="
 ---
 

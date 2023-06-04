@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-01/more-artists-ar
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-01/more-artists-are-embracing-artificial-intelligence-not-fighting-it"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 39
-  - title: "Studio Denies Laying Off Artists For AI After Fans Spot Character With Six Fingers"
-    excerpt: "Unfortunately, some of the circulated content is based on mistranslations of our previous statements and false reports'"
-    publishedDateTime: 2023-05-30T23:45:00Z
-    webUrl: "https://kotaku.com/ai-art-layoff-video-game-studio-pc-midjourney-aigc-1850489333"
-    type: article
-    provider:
-      name: Kotaku
-      domain: kotaku.com
-    quality: 31
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/eb56ec43ee65dd0e669d6dc63d99eaa0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "uHdEAx6HxqgE08H6MO2vBeiKOxtEbbzMH/82lsp14DVQxqtHxx4fKwTs9tPZsctBv8UJ9gCfBBEH7eLzaCkv9D+mufLiYBiROHG800f6QTNDQ9YZvh9edSCLNmWBDnx3F7MRIrK0tOB8nOz8G3fvKbAtgu/jG3D03l7tZyEsQjPm5ZSMS+bXNpzLvONZDiPzev6TRLjoRXXrN5Bl6hg3XQSGWnw3eol/W8/45oaIJss6JcybGQoyTwZU6LLtZkqdbPbLqaXF5k/XXCt0hDGlT4UUS8sENXA126h8h4SkkYyQZHtf+R+9asAkT1p2JTLyuz7T3A3GSKac12oVwmZjO1DQni8sSZa79hkQITAM/w/olixbI+jGDLFet3rY0xalPVQezZKLECGjkMK7qnTBM96zPmDtSXCh9oh2UMfYr50XwWtvhu5fyEHgRbynm3KHLonQWiQ9DTpGuMFz4jWTGzf7BD9Ji1B+fSf4tYSNa38vT1NPbjzxMp57HHefz2HgxApId2rm+KibHFoj/YXt4A==;ZNdxVfcBCqi1qYNqd8RO3A=="
 ---

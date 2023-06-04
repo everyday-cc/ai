@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-02-fears-of-ai-are-greatly-exaggerated.md",
+      "title": "Fears Of AI Are Greatly Exaggerated",
+      "excerpt": "Of course there are the usual worker concerns about wages, but fears have also been expressed of how ChatGPT and like AI applications will replace writers. Apart from Hollywood’s concerns, there are also more widespread job fears.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/",
+      "originalUrl": "https://www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6107edfcfc8e877cae7a6fed/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 789,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/amp/",
+      "publishedDateTime": "2023-06-02T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-modernizing-child-support-enforcement-with-ibm-and-aws.md",
       "title": "Modernizing child support enforcement with IBM and AWS",
       "excerpt": "The IBM and AWS partnership can accelerate your child support enforcement modernization journey.\nThe post Modernizing child support enforcement with IBM and AWS appeared first on IBM Blog.\n",
@@ -42,49 +93,6 @@
       "topics": [
         "IBM AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
-      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
-      "excerpt": "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face.",
-      "sourceUrl": null,
-      "webUrl": "https://abc13.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "originalUrl": "https://abc13.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "cdnAmpWebUrl": "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "publishedDateTime": "2023-06-02T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abc13",
-        "domain": "abc13.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -188,6 +196,49 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
+      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
+      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972",
+      "publishedDateTime": "2023-06-02T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1173,48 +1224,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-ibm-cloud-databases-for-elasticsearch-end-of-life-and-pricing-changes.md",
-      "title": "IBM Cloud Databases for Elasticsearch End of Life and pricing changes",
-      "excerpt": "There is action required before November 30, 2023, for your Elasticsearch version 7.9 and 7.10 deployments. On November 30, these versions will be End Of Life.\nThe post IBM Cloud Databases for Elasticsearch End of Life and pricing changes appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-cloud-databases-for-elasticsearch-end-of-life-and-pricing-changes/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-cloud-databases-for-elasticsearch-end-of-life-and-pricing-changes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T06:06:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

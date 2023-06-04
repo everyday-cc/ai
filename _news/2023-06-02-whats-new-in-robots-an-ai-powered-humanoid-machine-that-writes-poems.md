@@ -1,29 +1,29 @@
 ---
 category: news
 title: "What's new in robots? An AI-powered humanoid machine that writes poems"
-excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
-publishedDateTime: 2023-06-02T12:59:00Z
-originalUrl: "https://abc13.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-webUrl: "https://abc13.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-ampWebUrl: "https://abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said."
+publishedDateTime: 2023-06-02T10:17:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972"
+webUrl: "https://abcnews.go.com/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972"
 type: article
 quality: 74
 heat: 104
 published: true
 
 provider:
-  name: abc13
-  domain: abc13.com
+  name: ABC News
+  domain: abcnews.go.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg"
-    width: 1280
-    height: 720
+  - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -45,15 +45,15 @@ related:
         isCached: true
   - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
     excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said."
-    publishedDateTime: 2023-05-31T13:59:00Z
-    webUrl: "https://poststar.com/news/nation-world/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_212b18b0-04cf-5e72-a6a5-8efdb53ab2a5.html"
+    publishedDateTime: 2023-05-31T12:27:00Z
+    webUrl: "https://democratherald.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_27cf4892-da67-5bf3-989e-09afa17feb9d.html"
     type: article
     provider:
-      name: The Post-Star
-      domain: poststar.com
+      name: Albany Democrat-Herald
+      domain: democratherald.com
     quality: 54
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/poststar.com/content/tncms/assets/v3/editorial/2/12/212b18b0-04cf-5e72-a6a5-8efdb53ab2a5/6477381b48c4b.preview.jpg?crop=1739%2C914%2C24%2C33&resize=1200%2C631&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/democratherald.com/content/tncms/assets/v3/editorial/2/7c/27cf4892-da67-5bf3-989e-09afa17feb9d/6477381303243.preview.jpg?crop=1739%2C914%2C24%2C33&resize=1200%2C631&order=crop%2Cresize"
         width: 1200
         height: 631
         isCached: true
@@ -72,6 +72,6 @@ related:
         height: 399
         isCached: true
 
-secured: "HCEVL+Gj8JMOtc4lM2sQmGajo9Qrhew2BRnP2gtE0o3LKqEnAByEHv+KCKw9xVt+vQ2ZY/DdBVqBZIpc7tAYnaZPCH75bvkLvbuxpB892W9TGEK4DY2IXD58H12s8+ApizrPj0V6ml3k+1Ugbz6Yqx+wqNPjM01NuTNi4R98R9jvmxakBCxGsM9MeIgSQLb5FVRada5wGgDGJASsgMB3XiYiK30QjBpeiTOVdBr5BEsmzTG4opLaEkjbL6ZF1p2dFDGIio77aGQnfMIIfLWD4vkZ+skJm4jGihkJfE3+z8DzNekxuxuqhhIbbbPgQLWCD+XZWKzBpxvTmylVSRcTc4bXXretq2un6J4kNgEGrG4=;PckCpE/NLZDxCxTwq70vDA=="
+secured: "oaUUmiAN1RgEC9nbAPo4vGzKjYTE1Rvdj2R3xw6gDbvlhMHMbhOB5Fo6BnefROht2m3gkxbGAZWFWiTdX2ywHnSEmdzXIc6zyjNEl6lw0Ilja0hoKRw5RQFKIuY4r6R2padpKKoUgz7ovAMfqG0wcTfWCq14qTieCklpUAh8zEfI6JwRAxRHRhzPjGOBZ+0rTM4N3liPbuoit7UnF0uZfnfAZKrfvtKt1OJ1J3EcxjXNp4PxZmQvUE+XZS0QDtKJ0Z9FShvvZjIjc1why2LeUx2uNsAlIA8zziT8Vhc87Cobpmfj0MceA1xh7CuwHwcQHlZnMhYafa9JFIWukSZcIkdZOJc1g9S0Ewa/DB53Mlg=;oZ5KdP3zNfd44enrqkEZcQ=="
 ---
 

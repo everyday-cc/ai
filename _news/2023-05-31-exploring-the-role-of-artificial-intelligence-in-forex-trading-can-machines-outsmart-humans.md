@@ -88,20 +88,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Artificial Intelligence to take centre stage at the Singapore FinTech Festival 2023"
-    excerpt: "The Monetary Authority of Singapore (MAS) and Elevandi 1 today announced the theme of the Singapore FinTech Festival (SFF) 2023 – 'Applications of Artificial Intelligence (AI) in Financial Services'."
-    publishedDateTime: 2023-05-31T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-take-centre-stage-the-singapore-fintech-/2023/05/31/9824216.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/2089389/1.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Singapore FinTech Festival 2023 to explore applications of AI in financial services"
     excerpt: "The Monetary Authority of Singapore (MAS) and Elevandi have announced “Application of Artificial Intelligence (AI) in Financial Services” as the theme for Singapore FinTech Festival (SFF) this year. SFF 2023 will focus on the growth and adoption of AI and how the technology can be potentially used in financial services."
     publishedDateTime: 2023-06-01T04:14:00Z

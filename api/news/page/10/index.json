@@ -2,6 +2,143 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-05-26-microsoft-rains-more-machine-learning-on-azure-cloud.md",
+      "title": "Microsoft rains more machine learning on Azure cloud",
+      "excerpt": "Microsoft made sure to include Azure in the AI-fest that was the Build 2023 developer conference this week. As enterprises consider experimenting with or deploying generative AI, they may well look to public clouds and similar scalable compute and storage infrastructure to run things like large-language models (LLMs).",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2023/05/25/microsoft_azure_ai_cloud/",
+      "originalUrl": "https://www.theregister.com/2023/05/25/microsoft_azure_ai_cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T16:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-hands-on-with-magic-compose-the-ai-generating-messages-tool.md",
+      "title": "Hands-on with Magic Compose, the AI-generating Messages tool",
+      "excerpt": "I've had some time to play with an early version of Magic Compose, which uses AI to create texts in Messages. It's fun, but unreliable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/magic-compose-experience-3329552/",
+      "originalUrl": "https://www.androidauthority.com/magic-compose-experience-3329552/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2022/04/Google-Messages-SMS-stock-photo-9.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds.md",
+      "title": "This new AI tool will summarize YouTube videos for you in seconds",
+      "excerpt": "The Eightify Chrome extension uses GPT technology to help you cut straight to the main points of any YouTube video.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/",
+      "originalUrl": "https://www.zdnet.com/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5fe72c33f5b53dda3b2c91139d511c53774776a6/2023/05/25/9ab9c403-1132-4194-ba59-922071931410/screenshot-2023-05-25-at-4-00-28-pm.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/",
+      "publishedDateTime": "2023-05-25T14:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-26-marvell-technology-shares-pop-14-on-ai-lifts-chip-makers.md",
       "title": "Marvell Technology Shares Pop 14% on AI Lifts Chip Makers",
       "excerpt": "\"While we are still in the early stages of our AI ramp, we are forecasting our AI revenue in fiscal ... Shares of Nvidia rocketed Thursday as the graphics-chip maker said the rise of language-generating tools such as OpenAI's ChatGPT and other artificial ...",
@@ -1113,160 +1250,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution.md",
-      "title": "Rapid Advances In Artificial Intelligence And No Code Tools Are Enabling A Creative Revolution",
-      "excerpt": "The creative renaissance that is currently taking place on the internet is being driven by generative AI, Low- and No-Code tools and increases in digital literacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/645502e42d796d7ec61a40c2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joetoscano1/2023/05/25/rapid-advances-in-artificial-intelligence-and-no-code-tools-are-enabling-a-creative-revolution/amp/",
-      "publishedDateTime": "2023-05-25T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-cohesity-forges-google-cloud-ai-downwards-to-data-layer.md",
-      "title": "Cohesity Forges Google Cloud AI ‘Downwards’ To Data Layer",
-      "excerpt": "The current renaissance of Artificial Intelligence (AI) and the Machine Learning (ML) processes that we are now developing and finessing is nothing short of ubiquitous.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/05/25/cohesity-forges-google-cloud-ai-downwards-to-data-layer/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/05/25/cohesity-forges-google-cloud-ai-downwards-to-data-layer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6468d673a3608cf0ba355c45/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 822,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/05/25/cohesity-forges-google-cloud-ai-downwards-to-data-layer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/05/25/cohesity-forges-google-cloud-ai-downwards-to-data-layer/amp/",
-      "publishedDateTime": "2023-05-25T04:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-will-ai-replace-lawyers.md",
-      "title": "Will AI Replace Lawyers?",
-      "excerpt": "This is not to say that lawyers' work won’t change—or even disappear. There will most likely be less administrative work and we will probably need fewer clerks. Lawyers will have to write less, read less, search less and, frankly, also think less. They will become hyper-augmented which might turn them into overqualified project managers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/will-ai-replace-lawyers/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/will-ai-replace-lawyers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646628c4e6757f61ab41e295/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/25/will-ai-replace-lawyers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/25/will-ai-replace-lawyers/amp/",
-      "publishedDateTime": "2023-05-25T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

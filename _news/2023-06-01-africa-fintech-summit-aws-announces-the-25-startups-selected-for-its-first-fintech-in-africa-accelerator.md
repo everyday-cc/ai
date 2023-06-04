@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Mexican fintech Kapital raises $65 million to boost its growth in Latam"
-    excerpt: "Kapital recently obtained $65 million in a new round of investment raising, resources that will be used specifically to accelerate the development and implementation of technological tools, such as an advanced artificial intelligence (AI) engine."
-    publishedDateTime: 2023-05-31T00:17:00Z
-    webUrl: "https://aldianews.com/en/leadership/entrepreneurs/supporting-smes-latam"
-    type: article
-    provider:
-      name: AL DA News
-      domain: aldianews.com
-    quality: 39
-    images:
-      - url: "https://aldianews.com/sites/default/files/2023-05/entrepreneur-2904772_1280%20%281%29.jpg"
-        width: 1280
-        height: 730
-        isCached: true
 
 secured: "l2QpzD4A0YaX3+muOFSlZ7xTWJgfNtUA8YuJE17V2t4049JEXLqEUUjzYIU+qXsZL6JvddsoegLR3/F4F+i/+8s9OUh+jsEagJExhxZgltSaS818W/M1aSTCpOWYBe/iDCa+BmGUzkOJqIdSxzRBfROEFa0ZmOXpMEQKj9+pzMkknn7yTkzk6AkqE/+sJl3GXJNbPiECsXoesPNrmoUQrIN+4JMvuG/bUZKJoYup7R1zq0QqTp9CemKzeUNecMifrS0iVD4bPv1hMbGwz3c9v3m1DVpSP38XEvCUeohgqUsc7NBwURFfe7ioGBdRURW/iLUHckmlS9ol9E2rc8G1iGD1XY0yY2ukdwz/6gHi8hk=;MCWwVlPX8bMFTMYVy18Tbg=="
 ---

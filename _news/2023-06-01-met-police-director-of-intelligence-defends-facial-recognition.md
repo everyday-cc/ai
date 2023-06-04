@@ -91,6 +91,20 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "Police to use facial recognition technology in central London during Coronation"
+    excerpt: "acial recognition technology will be used by police as part of its security operation for King Charles’ Coronation. Ahead of events on Saturday a ring of steel was being put in place around ..."
+    publishedDateTime: 2023-06-03T00:00:00Z
+    webUrl: "https://www.standard.co.uk/news/london/facial-recognition-technology-london-during-coronation-b1078623.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 35
+    images:
+      - url: "https://static.standard.co.uk/2023/04/05/13/d3de2331d15163734af38fab7d31099bY29udGVudHNlYXJjaGFwaSwxNjgwNzgwNDM3-2.69796959.jpg?width=1200&width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "SztOe5mZJ4wjuYns5UO/uDvW+VVXZM5kp64OF7gk0ZGH1CNEEEHBXUqfKQKGI97zASuh7BVq+bk9KRGaSlKnkqNDcWD7MnNe4BB6awvtMiE/GOsz/wEVuW5V4sZAAvEP/GjxkVUKNlq8rlG7ZdnV1qG8b4XMO8pNW1e4r9jpI2tIqKGg50IAdo7PTlZy0bRuqX16xI2Gp7GiFYvpi0xJUxJQ2ymdrnAEsEWe3Ry3M4S5s5ayixXxrFxJT8iasSc2+m7DP1G/No3GhCuQQnT6NJYxtoZjUfeEYgnh0ftY7742ENgfPN6qTfiKot5ZAA5MXVNsOec5GPIG/KXmzrdisctEQWpjut2loxfuVoZAk4KOBIGkOB6GtH8Amm1FWOYyZp/Ztx8FZp3S/4hD5K0IbHKP3RQ8fLb8j7l8/zgwWEOzkoc90MrPOSyMyd+a3GsOKSzoLVMyahIs2jHn/3FOBXnuZOd8Oz6h8QTZfqb5ItHRB4e+qPoyrGrj8fZL+gyyVn0Dskgjp9MC+KMZdI5cuA==;XMsvfnk4jiXNdJMDGcGo9A=="
 ---

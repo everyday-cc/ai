@@ -2,6 +2,126 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-05-27-qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference.md",
+      "title": "Qatar to hold 2nd edition of Fintech Finance Technologies Conference",
+      "excerpt": "The State of Qatar will convene the 2nd edition of Fintech Finance Technologies Conference on May 31, with the participation of several international bodies, banks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference",
+      "originalUrl": "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gulf-times.com/gulftimes/uploads/images/2023/05/26/34940.jpg",
+          "width": 1000,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference/amp",
+      "cdnAmpWebUrl": "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/661819/business/qatar-to-hold-2nd-edition-of-fintech-finance-technologies-conference/amp",
+      "publishedDateTime": "2023-05-26T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf Times",
+        "domain": "gulf-times.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-h2oai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services.md",
+      "title": "H2O.ai Recognized as a Visionary in the 2023 Gartner® Magic Quadrant™ for Cloud AI Developer Services",
+      "excerpt": "“We believe H2O AI Cloud is one of the best autoML and enables organizations to build predictive models and gain insights from their data quickly and easily. “As a community powered organization, our grassroots movement to democratize AI has led us to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/h2o-ai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services/",
+      "originalUrl": "https://www.01net.it/h2o-ai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-26T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-what-you-need-to-know-about-ai-etfs.md",
+      "title": "What You Need to Know About AI ETFs",
+      "excerpt": "BOTZ aims to provide investment returns that generally correspond to performance of the Indxx Global Robotics & Artificial Intelligence Thematic Index (before fees and expenses), Global X says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thinkadvisor.com/2023/05/26/what-you-need-to-know-about-ai-etfs/",
+      "originalUrl": "https://www.thinkadvisor.com/2023/05/26/what-you-need-to-know-about-ai-etfs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2022/02/2022-2-22-artificial-intelligence_Adobe-Stock_640x640_peshkov.jpg",
+          "width": 640,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-26T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Think Advisor",
+        "domain": "thinkadvisor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-26-h2oai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services.md",
       "title": "H2O.ai Recognized as a Visionary in the 2023 Gartner® Magic Quadrant™ for Cloud AI Developer Services",
       "excerpt": "“We believe H2O AI Cloud is one of the best autoML and enables organizations to build predictive models and gain insights from their data quickly and easily. “As a community powered ...",
@@ -1009,143 +1129,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-microsoft-rains-more-machine-learning-on-azure-cloud.md",
-      "title": "Microsoft rains more machine learning on Azure cloud",
-      "excerpt": "Microsoft made sure to include Azure in the AI-fest that was the Build 2023 developer conference this week. As enterprises consider experimenting with or deploying generative AI, they may well look to public clouds and similar scalable compute and storage infrastructure to run things like large-language models (LLMs).",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2023/05/25/microsoft_azure_ai_cloud/",
-      "originalUrl": "https://www.theregister.com/2023/05/25/microsoft_azure_ai_cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-hands-on-with-magic-compose-the-ai-generating-messages-tool.md",
-      "title": "Hands-on with Magic Compose, the AI-generating Messages tool",
-      "excerpt": "I've had some time to play with an early version of Magic Compose, which uses AI to create texts in Messages. It's fun, but unreliable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/magic-compose-experience-3329552/",
-      "originalUrl": "https://www.androidauthority.com/magic-compose-experience-3329552/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2022/04/Google-Messages-SMS-stock-photo-9.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-26-this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds.md",
-      "title": "This new AI tool will summarize YouTube videos for you in seconds",
-      "excerpt": "The Eightify Chrome extension uses GPT technology to help you cut straight to the main points of any YouTube video.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/",
-      "originalUrl": "https://www.zdnet.com/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5fe72c33f5b53dda3b2c91139d511c53774776a6/2023/05/25/9ab9c403-1132-4194-ba59-922071931410/screenshot-2023-05-25-at-4-00-28-pm.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-ai-tool-will-summarize-youtube-videos-for-you-in-seconds/",
-      "publishedDateTime": "2023-05-25T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

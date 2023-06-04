@@ -7,8 +7,8 @@ originalUrl: "https://www.theverge.com/2023/5/30/23742005/ai-risk-warning-22-wor
 webUrl: "https://www.theverge.com/2023/5/30/23742005/ai-risk-warning-22-word-statement-google-deepmind-openai"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 103
+published: true
 
 provider:
   name: The Verge
@@ -29,51 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI risks leading humanity to 'extinction,' experts warn"
-    excerpt: "It's the most recent in a series of alarms raised by experts in artificial intelligence — but also one that stoked growing pushback against a focus on what seem to be its overhyped hypothetical harms."
-    publishedDateTime: 2023-05-30T23:32:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/ai-risks-leading-humanity-extinction-experts-warn-rcna86791"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna86791"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna86791"
+  - title: "Top AI researcher dismisses AI ‘extinction’ fears, challenges ‘hero scientist’ narrative"
+    excerpt: "Kyunghyun Cho, a prominent AI researcher and associate professor at NYU, expressed frustration with the current discourse around AI risk."
+    publishedDateTime: 2023-06-01T17:02:00Z
+    webUrl: "https://venturebeat.com/ai/top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 89
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 60
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230530-sam-altman-openAI-mn-0935-09934e.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "AI extinction risk warning backed by OpenAI, DeepMind chiefs"
-    excerpt: "Explore the debate on AI's potential threat to humanity, featuring experts from OpenAI, Google DeepMind, and more discussing extinction risks and solutions."
-    publishedDateTime: 2023-05-31T01:38:00Z
-    webUrl: "https://thethaiger.com/news/world/ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs"
-    ampWebUrl: "https://thethaiger.com/news/world/ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs/amp"
-    cdnAmpWebUrl: "https://thethaiger-com.cdn.ampproject.org/c/s/thethaiger.com/news/world/ai-extinction-risk-warning-backed-by-openai-deepmind-chiefs/amp"
-    type: article
-    provider:
-      name: The Thaiger
-      domain: thethaiger.com
-    quality: 74
-    images:
-      - url: "https://thethaiger.com/wp-content/uploads/2023/05/129902572_gettyimages-1257740282.jpg"
-        width: 976
-        height: 549
-        isCached: true
-  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-    excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
-    publishedDateTime: 2023-05-31T12:32:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692579"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 49
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_54ea8aadc60d1503e5a65878219aad43_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Ez6kELuXoAQ7r_B.jpeg?w=1200&strip=all"
+        width: 800
+        height: 533
         isCached: true
   - title: "AI experts challenge ‘doomer’ narrative, including ‘extinction risk’ claims"
     excerpt: "“It’s almost a topsy-turvy world,” Sara Hooker, head of the nonprofit Cohere for AI and former research scientist at Google Brain, told VentureBeat. “In the public discourse, [x-risk] is being treated as if it’s the dominant view of this technology."
@@ -84,43 +52,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Leading experts warn of a risk of extinction from AI"
-    excerpt: "The call for guardrails on AI systems has intensified in recent months as public and profit-driven enterprises are embracing new generations of programs."
-    publishedDateTime: 2023-05-31T16:59:00Z
-    webUrl: "https://www.ktoo.org/2023/05/31/ai-risk-extinction-chatgpt/"
-    type: article
-    provider:
-      name: KTOO
-      domain: ktoo.org
-    quality: 39
-    images:
-      - url: "https://media.ktoo.org/wp-content/uploads/2023/05/gettyimages-1462188008-882e18cb60aa9f47fd79679ce541032789ee8e02-aspect-ratio-16-9-1536x864.jpg"
-        width: 1536
-        height: 864
-        isCached: true
-  - title: "Tech leaders issue dire \"extinction\" risk warning over AI"
-    excerpt: "We got an alarming warning this week about artificial intelligence from some of the world's top minds on the matter, explains Dr. Manjeet Rege, chair of the department of software engineering and data science at the University of St."
-    publishedDateTime: 2023-06-01T21:50:00Z
-    webUrl: "https://www.cbsnews.com/minnesota/video/tech-leaders-issue-dire-extinction-risk-warning-over-ai/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/01/8917377a-ae18-4434-be80-f6b4fc308536/thumbnail/1200x630/b78a61166ed28cb57e3005078cbb23b7/c95574ccc46cab15c6d6f35ce3e1976f.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI poses ‘risk of extinction’ warn industry leaders"
-    excerpt: "AI could pose an existential threat to humanity, artificial intelligence luminaries have warned, in an extraordinary one-sentence open letter, urging that it be treated with the same level of urgency as pandemic and nuclear war."
-    publishedDateTime: 2023-05-31T11:47:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/ai-poses-risk-of-extinction-warn-industry-leaders/news-story/1fdc1030037dd60fb3813436e8538a9d"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
   - title: "AI: Is there a risk of human extinction?"
     excerpt: "Artificial intelligence could lead to extinction, experts warn"
     publishedDateTime: 2023-06-01T13:19:00Z

@@ -55,20 +55,6 @@ related:
         width: 1067
         height: 600
         isCached: true
-  - title: "Tech executives sign warning letter regarding artificial intelligence risks"
-    excerpt: "The one-sentence open letter, issued by the nonprofit Center for AI Safety, is both brief and ominous, without extrapolating how the more than 300 signees foresee AI developing into an existential threat to humanity."
-    publishedDateTime: 2023-05-31T14:31:00Z
-    webUrl: "https://kyma.com/dsw-living/technology/2023/05/31/tech-executives-sign-warning-letter-regarding-artificial-intelligence-risks/"
-    type: article
-    provider:
-      name: KYMA
-      domain: kyma.com
-    quality: 37
-    images:
-      - url: "https://kyma.b-cdn.net/2023/05/InkOHhe2-AI-WARNING-LETTER.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "kRvZoWawwVWBOkwz6zinznfs5ynzZIfHKamJr2LkLfpRgep8EhPnfo7dYcf8LgTSk9udI5yrAVeLgj5VXpPGSQmwi/v/DVBe2wwxqc/P3p5HLovhbhCSC+DO+/4CJCtOWrtodFNNJi5/tT0jf0KueBI694fk55PF+3hebWrwm7cDNyqy7MVLcQ/TDSlJ+L1ooqlOu3YcXgY+EzpiMC9MamGTHJHcXjDeAf+ZzC7xJ7bCsORU2QJBpXeunjeCfvqGw8uJelTIFkpr2ShwyDd1bbSoUuHkW33wnNz+p+TuXlgwz16r8OoJaMuh2TBa8sYMHtpxDmPhzLTr+y0Ob+vtpEfRm/+lCsdd8GspoqqcRnyEyiYduekhFck7wJx1AlVGFbiXQzdnv+qFKL388ALWzpm3CEJsuxTs2gtghWQm5j0xKWqX60VOseYbp75nxmv3vJyqR0KEnTAbzue0sWOGlaNJOz2jb0ZIW6EKPYQJlFIw5cH7n7yWy0KrPRp55rS6y7GTSBlM5Av8qlFcEQO3xQ==;VlT0oI1FmGfItV4DEcbn8g=="
 ---
