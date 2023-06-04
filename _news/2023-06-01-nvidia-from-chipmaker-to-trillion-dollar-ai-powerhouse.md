@@ -140,15 +140,6 @@ related:
       name: Time
       domain: time.com
     quality: 47
-  - title: "Nvidia bets on AI hype to help it chip away at Intel"
-    excerpt: "Chip maker Nvidia hopes to mount a stronger challenge to Intel with a new product line that promises the best generative AI capabilities."
-    publishedDateTime: 2023-05-30T12:07:00Z
-    webUrl: "https://telecoms.com/521969/nvidia-bets-on-ai-hype-to-help-it-chip-away-at-intel/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 34
 
 secured: "SqdmX4yXAvD/rtbthXz/ui8/CkIw0G/fDYjr1JQigjuo7M1X7yfMbPiLtmw0dvkb6mAEZ/flckQthQk7eOUBsYoGcQfw7xQyjoesKcpdAecOW4FALJV3/S4BUMoj6AehwK19P5KqE2SPbN0VTQ1dOap1QBgPJZk7YUazctsq2q8YsXr3izy/0IxgSTeFBHfFZ0OzdTeTpC2jSQu2slLmgga8p3/YWYGYuoMdDt1Sn/ZfseP/PbaxBp0J/LP/0EH5P8wIdLS9ETlDGiAmJ81ia9eCDmJ87COM7gtjoqfrS4SH4JgSZ61jiDs6HEBL+HeDXqicIrbBvaIZWsKfLxhHXU79W6JDBUSBMwdVGapGvgI=;jfWpBbk5LRsm6pUdfoIIHg=="
 ---

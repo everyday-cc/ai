@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Would you travel in a self-driving car?"
-    excerpt: "This past week, we polled Twitter users on whether or not they’d use a self-driving car for travel. More than half said they wouldn’t, but another quarter of voters said they may someday try it in the future."
-    publishedDateTime: 2023-05-30T11:54:00Z
-    webUrl: "https://www.wivb.com/wake-up/would-you-travel-in-a-self-driving-car/"
-    type: article
-    provider:
-      name: WIVB-TV
-      domain: wivb.com
-    quality: 4
   - title: "Self-driving cars shown to lack social intelligence in traffic"
     excerpt: "Should I go or give way? It is one of the most basic questions in traffic, whether merging in on a motorway or at the door of the metro. The decision is one that humans typically make quickly and intuitively,"
     publishedDateTime: 2023-05-30T19:08:00Z

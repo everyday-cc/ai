@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips"
 type: article
 quality: 97
-heat: 197
+heat: 187
 published: true
 
 provider:
@@ -144,15 +144,6 @@ related:
       name: Time
       domain: time.com
     quality: 47
-  - title: "Nvidia bets on AI hype to help it chip away at Intel"
-    excerpt: "Chip maker Nvidia hopes to mount a stronger challenge to Intel with a new product line that promises the best generative AI capabilities."
-    publishedDateTime: 2023-05-30T12:07:00Z
-    webUrl: "https://telecoms.com/521969/nvidia-bets-on-ai-hype-to-help-it-chip-away-at-intel/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 34
 
 secured: "UoJRPvVaU1I77ognEZfUZ0gT83eODbiMJaY+FR/so2hIANaABnXMz/xlGUXH5exH4AlfXBBQPUAsOdjLUtgRgHLblvel+KK3O3FfioXT9jEbVJnovkh76vd0abgHhFYZMBkoB+ELv05XkSZ+R97PRML3pm1azqQwNC2e+6ixHmzogrAFc7E54ygz/jQyURwsewkhvHkomkcF3LlFhfgDbVKfONE9rpQBVRRR32KhIsJBRjAxNmhF6ULCuX91YffNFJ4L4csO0emeuGoUyu+rA2RWmjkEKMmCUF07FQi6te0pFV0N74jhrYbD91yIq/+W6pvuSfrlIfjNL8OD3F6o2ByYG5bOmvIAqM6yjf1K2mY=;O5yDtYIEKsA/A6v+wJNGTw=="
 ---

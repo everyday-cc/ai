@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/accelerating-ai-innovation-the-future-of-
 webUrl: "https://www.ibm.com/blog/accelerating-ai-innovation-the-future-of-banking-depends-on-core-modernization/"
 type: article
 quality: 114
-heat: 284
+heat: 274
 published: true
 
 provider:
@@ -219,15 +219,6 @@ related:
         width: 1600
         height: 1024
         isCached: true
-  - title: "XtalPi Announces Collaboration with Lilly, Using AI + Robotics to Uncover First-in-class Therapeutics"
-    excerpt: "XtalPi has established itself as an industry leader in combining mutually informative AI \"dry lab\" algorithms with large-scale \"wet lab\" robotics to empower pharmaceutical innovation. Building upon existing success,"
-    publishedDateTime: 2023-05-30T12:13:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/30/9822516.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
   - title: "Tech leaders call for more AI regulation and 'some degree' of industry coordination"
     excerpt: "The need for a standardized approach towards innovation in AI is fast becoming an urgent matter. AI is currently causing havoc everywhere from plagiarism issues in academia to winning the World Photography Awards back in April,"
     publishedDateTime: 2023-06-01T03:35:00Z

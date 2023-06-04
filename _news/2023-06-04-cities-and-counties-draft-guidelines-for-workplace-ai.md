@@ -1,36 +1,47 @@
 ---
 category: news
-title: "Artificial Intelligence Series 2 Of 5: AI’s Influence On The Workforce"
-excerpt: "Industry disruption from technical advancements has been happening since the beginning of time, but is this time different? What is the impact on jobs?"
-publishedDateTime: 2023-06-03T07:18:00Z
-originalUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/"
-webUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/"
-ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/"
+title: "Cities and Counties Draft Guidelines for Workplace AI"
+excerpt: "Does your local government need a stance on generative AI? Boston encourages staff’s “responsible experimentation,” Seattle’s interim policy outlines cautions, and King County considers what responsible generative AI use might be."
+publishedDateTime: 2023-06-04T05:17:00Z
+originalUrl: "https://www.governing.com/policy/cities-and-counties-draft-guidelines-for-workplace-ai"
+webUrl: "https://www.governing.com/policy/cities-and-counties-draft-guidelines-for-workplace-ai"
+ampWebUrl: "https://www.governing.com/policy/cities-and-counties-draft-guidelines-for-workplace-ai?_amp=true"
+cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/policy/cities-and-counties-draft-guidelines-for-workplace-ai?_amp=true"
 type: article
-quality: 104
-heat: 197
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Governing
+  domain: governing.com
 
 topics:
   - AI
-  - AI Ethics
 
 images:
-  - url: "https://imageio.forbes.com/specials-images/imageserve/647ae893e7fefa617d13b283/0x0.jpg?format=jpg&crop=4500,2107,x0,y201,safe&width=1200"
-    width: 1200
-    height: 562
+  - url: "https://erepublic.brightspotcdn.com/dims4/default/c055d6a/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fad%2Ffa%2Fc71201bd45859940e3d10b77c455%2Fshutterstock-2239373423.jpg"
+    width: 840
+    height: 438
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Series 2 Of 5: AI’s Influence On The Workforce"
+    excerpt: "Industry disruption from technical advancements has been happening since the beginning of time, but is this time different? What is the impact on jobs?"
+    publishedDateTime: 2023-06-03T07:18:00Z
+    webUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/"
+    ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647ae893e7fefa617d13b283/0x0.jpg?format=jpg&crop=4500,2107,x0,y201,safe&width=1200"
+        width: 1200
+        height: 562
+        isCached: true
   - title: "AI startup C3.ai’s stock plunges 20% after softer revenue guidance"
     excerpt: "Shares of white-hot Ai startup C3.ai Inc., which had been hurtling toward record highs earlier this week, took an abrupt U-turn Wednesday. The company’s stock AI, -8.96% skidded 14% in after-hours trading in the minutes leading up to its quarterly ..."
     publishedDateTime: 2023-05-31T22:09:00Z
@@ -76,22 +87,6 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.1226%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/6f1786ce28c16c72663235a343f9913c7b67032b"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Cities and Counties Draft Guidelines for Workplace AI"
-    excerpt: "Does your local government need a stance on generative AI? Boston encourages staff’s “responsible experimentation,” Seattle’s interim policy outlines cautions, and King County considers what responsible generative AI use might be."
-    publishedDateTime: 2023-06-04T05:17:00Z
-    webUrl: "https://www.governing.com/policy/cities-and-counties-draft-guidelines-for-workplace-ai"
-    ampWebUrl: "https://www.governing.com/policy/cities-and-counties-draft-guidelines-for-workplace-ai?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/policy/cities-and-counties-draft-guidelines-for-workplace-ai?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 57
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/c055d6a/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fad%2Ffa%2Fc71201bd45859940e3d10b77c455%2Fshutterstock-2239373423.jpg"
-        width: 840
-        height: 438
         isCached: true
   - title: "Wall Street is using AI to rewire the world of finance"
     excerpt: "Morgan Stanley says its bankers are “experimenting” in a “safe and contained environment.” Meanwhile, JPMorgan Chase is hoovering up talent, advertising for more AI roles than any of its rivals. The AI revolution is unfolding on Wall Street as wider interest grows in the evolving technology and its likely impact on business."
@@ -153,6 +148,6 @@ related:
       domain: lasvegassun.com
     quality: 19
 
-secured: "c+n7xGf9Ly3GHP6jYbnmL+0vvXLpsV9I0pz1m2vlW0Gnfhgbxu0bG/gcilr7dmj4cpJBBZ/b77lPZcp1+exzDS0dfssr5VFKcolI8ojwI3zyhZirJZOSy7b02IQM2lDvjOWaZD98ax2J8CH9vX671VWxujTFacglJe0RThhfI7Lw1hVrWratBJnYbuZKcHYglYiS1y7KV4L7rqziunrmjkwDrAStIHXUh9fMgwm6iY4e4qMGdftG0cYg+sd1TTO7hlNF7DQV/NfZdeUjP0mvCLrxE9KCQshfdF0WByqaHrz4m8XvHr51W8GjFkzK8dyuctYSmOnZ0JxHJDi5DN6piQwpnsueW8oq81Bz/xJTY0sRtQGzHFggrhqz4YqvlY0twtWUPJ9FMZi4zcxa1ZdWGj5fR4Aypzyqyp0OksZ4YuCnfTaOZ6hhdW8wpjrwXFJzWZPrXyZ+GTqiPVRAUBvx5rhn4DLlNyOGn1qsFxYt3jg1rosAjzAAChxGF1/Q7OSEIgoKn1iUGs9KhsgVbzSezA==;QDJyenbTe8KvSKL61gZ4Ng=="
+secured: "hXimoiSFPiKsKeTu5pnZWe6vrW5PqEDBA77Mp6SghaRlGnq9fFfyClzUa7b+asCK3kvZajFHGJSFEscFzOK/5wI9Mm4x7iQBfmIiBc/6GHFV6rsZBoDt2nY9cFKGMXbf64m7anBP0DqApByyzDhWZ342LTql9xcGAT0EAz0QjwUQztB30gFPVGoDW0o3h32il4/7Jk2CME7cQ+Rl7c5LAYQwxiNAVt5dae1E6bKTMqj1LCJqGi6zu3D80Lx6FTMYuRfOTq7OsQ4KnuME5v99xjVV4GLqZqnY9ZeZKtOjA+CxQqDf+sJ6TnwvI/zei3cpTcXo/5AyMR1YvIKGeZH4EgQjN6iH7XeTNqinHKb84zs=;mak28Co/SjpuKWrgRBrQig=="
 ---
 

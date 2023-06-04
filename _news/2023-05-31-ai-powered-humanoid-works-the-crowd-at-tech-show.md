@@ -59,20 +59,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
-    excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said."
-    publishedDateTime: 2023-05-31T13:59:00Z
-    webUrl: "https://poststar.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_212b18b0-04cf-5e72-a6a5-8efdb53ab2a5.html"
-    type: article
-    provider:
-      name: The Post-Star
-      domain: poststar.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/poststar.com/content/tncms/assets/v3/editorial/2/12/212b18b0-04cf-5e72-a6a5-8efdb53ab2a5/6477381b48c4b.preview.jpg?crop=1739%2C914%2C24%2C33&resize=1200%2C631&order=crop%2Cresize"
-        width: 1200
-        height: 631
-        isCached: true
   - title: "What’s new in robots? An AI-powered humanoid machine that writes poems"
     excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
     publishedDateTime: 2023-06-01T08:45:00Z
@@ -87,6 +73,15 @@ related:
         width: 600
         height: 399
         isCached: true
+  - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
+    excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said."
+    publishedDateTime: 2023-05-30T17:34:00Z
+    webUrl: "https://www.chron.com/news/world/article/what-s-new-in-robots-an-ai-powered-humanoid-18125979.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 34
 
 secured: "bxGyyHAFvY9vFq097B/krDjSVWRPLL6b8kA1rYqxpxJg7Hb8NvoiH7k4luz+o3g4weOU7vhJ5JWZfwRmvy5KTZ05lhlQXL10yLqaGtN7T1PgqOW/PZvEM2rg5cGXM0ADX4o0Gp4n/O+1HyqI4dcUh2dVCXyu7ClQbcnriUhXoM77SeDcqgavYpun8y3UEJ+DYPe2Q9jDfK1Y7w+rP9q/Fuyog/x5hQZfC1/BcMFspFSHQ5cWHIZOxN9WJSVdghrQCRGkR/VA4BzJsu/Rnv8wFNFU7w+K0/iT/lNkHG4/f5NkSnRv2r9VcOu2JZq6d4hsAkiGUxAq+noEqLyt0bL2+MpDNAkz4dzBIWSStZqhlBXYEL38r5sf5uljA5IW3EMaGRUJUM9Xir+aClB6py6/29cRqGgz3259GMWqCq1R3R2ur3FkA0+fMWJIPEdeTbf5aBAwoBkC8aeVldhOlnvU2Leujn8pKeUKOZvjleyUqmTCEqwrw4MtX9E6YZiJRXi5ZILuB8TtEJjPcIK5l3iNUg==;cIqbsoRJH4lTdPKO3ZzoKg=="
 ---

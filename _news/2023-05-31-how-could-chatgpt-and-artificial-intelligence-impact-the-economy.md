@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 652
         isCached: true
-  - title: "The News, Media Ethics And ChatGPT For PR And Comms Work"
-    excerpt: "ChatGPT has been an absolute sensation since its launch in November 2022. It brings to bear an impressive array of capabilities, from writing software code to creating hipster craft cocktail recipes. Its generative artificial intelligence (AI) cousins, including Google’s Bard and Microsoft’s Bing AI, deliver similar features and functionality."
-    publishedDateTime: 2023-05-30T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/the-news-media-ethics-and-chatgpt-for-pr-and-comms-work/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/the-news-media-ethics-and-chatgpt-for-pr-and-comms-work/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/30/the-news-media-ethics-and-chatgpt-for-pr-and-comms-work/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6470eeb4176d959a57569955/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI Tools Like ChatGPT Will Fail Without Data Integrity – Here’s Why"
     excerpt: "New generative artificial intelligence (AI) tools such as ChatGPT have generated enormous interest in recent months because they can alter how people find information."
     publishedDateTime: 2023-05-30T14:00:00Z
@@ -327,15 +311,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
-  - title: "Your next job may depend on how well you understand AI tools like ChatGPT"
-    excerpt: "AI is posing a threat to job security, but workers may need to get acquainted with tools like ChatGPT as fast they can to remain employable."
-    publishedDateTime: 2023-05-30T12:19:00Z
-    webUrl: "https://www.businessinsider.com/your-next-job-depends-on-understanding-ai-like-chatgpt-2023-5"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
   - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
     excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"
     publishedDateTime: 2023-05-30T18:31:00Z
@@ -374,20 +349,6 @@ related:
       - url: "https://res.infoq.com/news/2023/06/microsoft-build-2023/en/headerimage/generatedHeaderImage-1685637758526.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Generative AI may be the next AK-47"
-    excerpt: "AI has the potential to change how wars are waged. But few humanitarians are thinking about how it will shape conflicts and crises."
-    publishedDateTime: 2023-05-30T11:33:00Z
-    webUrl: "https://www.thenewhumanitarian.org/opinion/2023/05/30/generative-ai-may-be-next-ak-47"
-    type: article
-    provider:
-      name: thenewhumanitarian
-      domain: thenewhumanitarian.org
-    quality: 39
-    images:
-      - url: "https://assets.thenewhumanitarian.org/s3fs-public/2023-05/ai-computer-crowd.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Lawyer’s AI Blunder Shows Perils of ChatGPT in ‘Early Days’"
     excerpt: "A lawyer’s citation of court decisions fabricated by ChatGPT shows the peril of relying on the artificial intelligence chatbot without proper safeguards."

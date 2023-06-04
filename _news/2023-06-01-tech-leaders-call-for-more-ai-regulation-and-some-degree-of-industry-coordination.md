@@ -229,15 +229,6 @@ related:
         width: 1600
         height: 1024
         isCached: true
-  - title: "XtalPi Announces Collaboration with Lilly, Using AI + Robotics to Uncover First-in-class Therapeutics"
-    excerpt: "XtalPi has established itself as an industry leader in combining mutually informative AI \"dry lab\" algorithms with large-scale \"wet lab\" robotics to empower pharmaceutical innovation. Building upon existing success,"
-    publishedDateTime: 2023-05-30T12:13:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/05/30/9822516.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
   - title: "How the Banking Industry Can Capitalise on Conversational AI"
     excerpt: "Conversational AI has quickly captured the intense interest of consumers and businesses, including banks. The technology promises to help banks achieve hyper-personalised service delivery but requires productive AI platforms."
     publishedDateTime: 2023-05-31T06:37:00Z

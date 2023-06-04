@@ -75,18 +75,13 @@ related:
         isCached: true
   - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
     excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said."
-    publishedDateTime: 2023-05-31T13:59:00Z
-    webUrl: "https://poststar.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_212b18b0-04cf-5e72-a6a5-8efdb53ab2a5.html"
+    publishedDateTime: 2023-05-30T17:34:00Z
+    webUrl: "https://www.chron.com/news/world/article/what-s-new-in-robots-an-ai-powered-humanoid-18125979.php"
     type: article
     provider:
-      name: The Post-Star
-      domain: poststar.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/poststar.com/content/tncms/assets/v3/editorial/2/12/212b18b0-04cf-5e72-a6a5-8efdb53ab2a5/6477381b48c4b.preview.jpg?crop=1739%2C914%2C24%2C33&resize=1200%2C631&order=crop%2Cresize"
-        width: 1200
-        height: 631
-        isCached: true
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 34
 
 secured: "pHoulBKti5jsWtySQazUNFwoIdPNZ4rWHbgfR4RNhE6bJ3hFSBQiUjwCClnAMlhhf+XCv3yC0TeimnzRescLOCf8YtJ16uAWDAakVTGksdOQ6RRXbqYMfG8eGzLvmEIUMGgfAi3qvuVWCEFu3sn8ViszmlzwB39n6I1jCnFl3TjcHK7UwEEK5LP9RSJLozjHROhimLY7cA5tUIYCOP7SRVMOOCzXXH3AB0Y3h0QUu88JNNgNVPv1KDFFQHJZc5891BozXuOfu8zO1PbYBnl4VFTerd7dNHHb85DxOVejyU0MZH+zBlvKxobZOHSA7sIP46Qdcki1OMgyAooYJEKLZE6VAOXbmRm85U00BrbgAq0=;H+ArfeGqMb48dgK3xor0fQ=="
 ---

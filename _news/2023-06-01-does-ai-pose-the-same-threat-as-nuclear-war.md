@@ -7,7 +7,7 @@ originalUrl: "https://ia.acs.org.au/article/2023/does-ai-pose-the-same-threat-as
 webUrl: "https://ia.acs.org.au/article/2023/does-ai-pose-the-same-threat-as-nuclear-war.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI Threat Is on Par With Pandemics, Nuclear War, Tech Executives Warn"
-    excerpt: "Tech executives and artificial-intelligence scientists are sounding the alarm about AI, saying that the technology poses an extinction risk as great as pandemics and nuclear war."
-    publishedDateTime: 2023-05-30T11:03:00Z
-    webUrl: "https://www.wsj.com/articles/ai-threat-is-on-par-with-pandemics-nuclear-war-tech-executives-warn-39105eeb"
+  - title: "AI Researchers Issue Warning: Treat AI Risks as Global Priority"
+    excerpt: "Does artificial intelligence represent an existential threat to humanity along the lines of nuclear war and pandemics? A new statement signed by AI"
+    publishedDateTime: 2023-06-01T17:46:00Z
+    webUrl: "https://www.datanami.com/2023/06/01/ai-researchers-issue-warning-treat-ai-risks-as-global-priority/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2020/04/ai_shutterstock_Michael-Traitov.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "AI executives warn its threat to humanity rivals ‘pandemics and nuclear war’"
     excerpt: "A group of chief executives and scientists from companies including OpenAI and Google DeepMind has warned the threat to humanity from the fast-developing technology rivals that of nuclear conflict and disease."
     publishedDateTime: 2023-05-30T13:23:00Z

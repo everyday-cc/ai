@@ -2,59 +2,6 @@
   "page": 27,
   "value": [
     {
-      "path": "_news/2023-05-15-introducing-amazon-textract-bulk-document-uploader-for-enhanced-evaluation-and-analysis.md",
-      "title": "Introducing Amazon Textract Bulk Document Uploader for enhanced evaluation and analysis",
-      "excerpt": "Amazon Textract is a machine learning (ML) service that automatically extracts text, handwriting, and data from any document or image. To make it simpler to evaluate the capabilities of Amazon Textract, we have launched a new Bulk Document Uploader feature on the Amazon Textract console that enables",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-textract-bulk-document-uploader-for-enhanced-evaluation-and-analysis/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-textract-bulk-document-uploader-for-enhanced-evaluation-and-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/15/introducing-textract-bulk-uploader.jpg",
-          "width": 1070,
-          "height": 537,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-15T10:47:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2023-05-16-dui-suspect-claims-tesla-self-drive-malfunction-after-marin-county-crash.md",
       "title": "DUI suspect claims Tesla self-drive malfunction after Marin County crash",
       "excerpt": "A San Rafael man was arrested on allegations of intoxicated driving after crashing a Tesla into three parked vehicles, police said. The driver told police the Tesla was in “full self-drive” mode, but a witness said it was swerving erratically and moving at inconsistent speeds before the crashes,",
@@ -1230,6 +1177,58 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-outlook-and-forecast-to-2030-airbus-se-general-electric-the-boeing-company.md",
+      "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market Outlook and Forecast to 2030 | Airbus SE, General Electric, The Boeing Company",
+      "excerpt": "The worldwide Artificial Intelligence and Robotics in Aerospace and Defense Market is expected to grow at a booming CAGR of 2023-2030, rising from USD billion in 2023 to USD billion in 2030. It also shows the importance of the Artificial Intelligence and Robotics in Aerospace and Defense Market main players in the sector,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-outlook-and-forecast-to-2030-airbus-se-general-electric-the-boeing-company-2023-05-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-outlook-and-forecast-to-2030-airbus-se-general-electric-the-boeing-company-2023-05-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-15T01:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/stock-market/market-sectors/informa
 webUrl: "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-startups/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Italy plans state-backed fund to promote AI startups"
-    excerpt: "Italy's government plans to set up an investment fund backed by state lender Cassa Depositi e Prestiti (CDP) to promote startups investing in Artificial Intelligence (AI), cabinet undersecretary Alessio Butti said on Tuesday."
-    publishedDateTime: 2023-05-30T11:23:00Z
-    webUrl: "https://www.reuters.com/technology/italy-plans-state-backed-fund-promote-ai-startups-2023-05-30/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
 
 secured: "DqWoAXm6kbFjNktnHI2lo6Nn/IoRttpY60ba8NHwifNd7PdEvHzB3w7WZ245S93qO4uWdu9A9FBDhX8O0Dy7HCDL6gNQq4uFFOxIEUTL0oo+hM0Pf+s9lFg1CbkwTUP+bjMJC8ifHQI5zy6XTBS8BFZOeOrytmA5GeMz1/BWGYEb1wMj6ceXehjPXBiJFoK2fUL3lEizbEY2wQH8QisKdJRG10purFO97Gw57Ou45TZIY7mN94w6z+Yq5VyuO226unKxtAGCeF3dacvtPIkyjCvIQlM5kPXLbs04u9mB6dKU4S+PPSzvvXpbvWDu/9cpR+7urSf/9xGqVaVe9Q8qjU2eiyRQZMPAlow88tu26LcxC3Jmjzpcz23UQannNq2xFNWoGkstioz/LeU9Om/nTTkWxhs97/Q0tyVgvOw0LI4433ApMcvPFzNS5Go5L3q3Nh4BSrC8QvO6KeBJzmHTzrQwyOhUYq53QoFiDJef71iYRPkXvvO42eCK8vRikVNBjDnBEsWYGDPZArb+ysqACA==;BlTq8oJx5FOdNi03Qr/OAA=="
 ---

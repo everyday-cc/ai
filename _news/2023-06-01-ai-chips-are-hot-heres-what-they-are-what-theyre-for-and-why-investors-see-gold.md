@@ -1,29 +1,27 @@
 ---
 category: news
 title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
-publishedDateTime: 2023-06-01T13:10:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
-webUrl: "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
+publishedDateTime: 2023-06-01T09:31:00Z
+originalUrl: "https://www.local10.com/business/2023/06/01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
+webUrl: "https://www.local10.com/business/2023/06/01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
 type: article
-quality: 68
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: WPLG
+  domain: local10.com
 
 topics:
-  - AI Hardware
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SIQQ7UVKUNDXRHQQE2TFZQO3RU.jpg?_a=ATCqVhC0"
+    width: 700
+    height: 467
     isCached: true
 
 related:
@@ -71,6 +69,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It's an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper."
+    publishedDateTime: 2023-06-04T04:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/2023/jun/04/ai-chips-are-hot-tfp/"
+    type: article
+    provider:
+      name: Chattanooga Times Free Press
+      domain: timesfreepress.com
+    quality: 48
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2023/06/03/AP23152002685626_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
   - title: "AP: AI chips are hot. Here’s what they are, what they’re for and why investors see gold"
     excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed"
     publishedDateTime: 2023-06-03T01:02:00Z
@@ -110,6 +122,6 @@ related:
       domain: tmcnet.com
     quality: 15
 
-secured: "3n0UWAMXVu2YOT4aw5k6YzTJ3IrQUGax+0VJhuvZkjLh3qTVGCcb7AswxiU78EkxCXE89O2WSdRsqw3ZqcGWxGuwZhoerpqrq6KknubZs4tQAdtbXap7aToJrTMgSKBfTKHGtMpDBTxXsdtxyC/yRCew0NA7oEhnEkskGr1RhpfuHJev9zUDBqwTyRiM94WtcDT8aRYN5z2/zyDgjIIKbOdnooUlplci132DXgAbbjwnbB3SRIM4GSc9VBjn5wI58yg48IEMunVzAsTgzMBMVfceozVEMk850VVyPsvMNEbB5iZ/fi7zksnY4P01vA17tgk3XoCAz98aLqwIZ3HUx0n/sbjOxPCH24GzSkhhJzY=;MTrlGje6KZissKuVg4fSrA=="
+secured: "jfRBEf1ybtp1WBzL6buDey1wSDMWTtaF2mERDk7HrQn1WBuCzt8s4WaqJ/ehdV4gnqd29YPKQFS4ffeTtiFnRpvs4H4oJ/xusmo8MtUB0fuKDN3faNFISpEf6IctBZrA2gVIKRBW+zOCRn7+IjsXd3wrM1LU4NJ+Nli1lYuUAb7HVO6YD2HGBINP2oYuiqpUD365V2gZcZEvDRUjDZP0WMJ6TH6v3rcbL0rrxj/oAt5xuz44N/H8l2rqs6byTniHMKKUET/tnV5lt3+b+JeN4iopy8FUnGoiqjky6YLChFjOK+zNVFVKVIsXZRoQhf52Z1Sr6v85P84He9x93ZY5ZTPFAxx2g4OU0FiH1Tyih+U=;Dm/y7h2BGkVco56vEzw99A=="
 ---
 

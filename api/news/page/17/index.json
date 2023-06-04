@@ -2,49 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2023-05-22-how-does-ai-add-value-to-sales-intelligence.md",
-      "title": "How Does AI add Value To Sales Intelligence?",
-      "excerpt": "AI improves sales pipeline intelligence by leveraging advanced algorithms and data analysis techniques to extract valuable insights from large volumes of data. Here are several ways AI enhances sales pipeline intelligence:",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/05/21/how-does-ai-add-value-to-sales--intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/05/21/how-does-ai-add-value-to-sales--intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-21T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
       "path": "_news/2023-05-21-how-generative-ais-impact-on-digital-advertising-methodology-is-evolving.md",
       "title": "How generative AI’s impact on digital advertising methodology is evolving",
       "excerpt": "Despite issues around brand safety, intellectual property and security, generative AI tools for brands and advertisers are here to stay.",
@@ -1199,6 +1156,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-20-health-news-roundup-us-fda-approves-genmab-abbvies-blood-cancer-therapy-who-recommends-new-covid-shots-should-target-only-xbb-variants-and.md",
+      "title": "Health News Roundup: US FDA approves Genmab-AbbVie's blood cancer therapy; WHO recommends new COVID shots should target only XBB variants and more",
+      "excerpt": "A U.S. district court judge issued a temporary restraining order late on Wednesday after the two companies and the FTC reached an agreement that both sides said in a joint filing would permit a full briefing and \"less-compressed consideration\" by the court of the FTC request.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/health/2458147-health-news-roundup-us-fda-approves-genmab-abbvies-blood-cancer-therapy-who-recommends-new-covid-shots-should-target-only",
+      "originalUrl": "https://www.devdiscourse.com/article/health/2458147-health-news-roundup-us-fda-approves-genmab-abbvies-blood-cancer-therapy-who-recommends-new-covid-shots-should-target-only",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_12_2021_16_11_27_8166358.jpg?width=1280",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/health/2458147-health-news-roundup-us-fda-approves-genmab-abbvies-blood-cancer-therapy-who-recommends-new-covid-shots-should-target-only?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/health/2458147-health-news-roundup-us-fda-approves-genmab-abbvies-blood-cancer-therapy-who-recommends-new-covid-shots-should-target-only?amp",
+      "publishedDateTime": "2023-05-19T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial intelligence poses 'extinction' risk bosses of top firms warn"
-    excerpt: "Artificial intelligence could lead to the extinction of humanity, experts including the heads of OpenAI and Google Deepmind warn. Dozens have supported a statement published on the webpage of the Centre for AI Safety ."
-    publishedDateTime: 2023-05-30T11:07:00Z
-    webUrl: "https://www.bbc.com/news/uk-65746524"
-    ampWebUrl: "https://www.bbc.com/news/uk-65746524.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-65746524.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 88
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/6B80/production/_129902572_gettyimages-1257740282.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "AI risks leading humanity to 'extinction,' experts warn"
     excerpt: "It's the most recent in a series of alarms raised by experts in artificial intelligence — but also one that stoked growing pushback against a focus on what seem to be its overhyped hypothetical harms."
     publishedDateTime: 2023-05-30T23:32:00Z
@@ -211,15 +195,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "AI Experts Warn Artificial Intelligence Poses 'Risk of Extinction'"
-    excerpt: "Over 100 AI experts, engineers, and notable figures have signed in agreement that the risk of extinction from AI needs to be mitigated."
-    publishedDateTime: 2023-05-30T12:17:00Z
-    webUrl: "https://www.pcmag.com/news/ai-experts-warn-artificial-intelligence-poses-risk-of-extinction"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 64
   - title: "Top AI researchers and CEOs warn against ‘risk of extinction’ in joint statement"
     excerpt: "Experts in the field of artificial intelligence have signed a statement emphasizing the existential threat posed by advanced AI."
     publishedDateTime: 2023-05-30T22:09:00Z
@@ -295,22 +270,6 @@ related:
       - url: "https://images.techhive.com/images/article/2017/01/p029684001801-819244-100706761-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 552
-        isCached: true
-  - title: "Frightening new warning Artificial Intelligence presents 'risk of extinction'"
-    excerpt: "Experts are claiming AI should be seen as a \"global priority\" on the same level as a pandemic or nuclear warfare."
-    publishedDateTime: 2023-05-30T11:51:00Z
-    webUrl: "https://www.express.co.uk/news/uk/1775620/artificial-intelligence-extinction-google-chat-gpt"
-    ampWebUrl: "https://www.express.co.uk/news/uk/1775620/artificial-intelligence-extinction-google-chat-gpt/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/uk/1775620/artificial-intelligence-extinction-google-chat-gpt/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 54
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/1/590x/secondary/Protesters-calling-for-AI-to-be-brought-under-control-4779617.jpg?r=1685447534843"
-        width: 590
-        height: 350
         isCached: true
   - title: "Humans risk extinction from AI, Deepmind and OpenAI warn"
     excerpt: "Artificial intelligence bosses say mitigating risk of extinction from AI should be ‘global priority alongside pandemics and nuclear war’"
@@ -429,15 +388,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Is as Risky as Pandemics and Nuclear War, Top CEOs Say, Urging Global Cooperation"
-    excerpt: "Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war,” the letter, released by California-based non-profit the Center for AI Safety,"
-    publishedDateTime: 2023-05-30T12:29:00Z
-    webUrl: "https://time.com/6283386/ai-risk-openai-deepmind-letter/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 42
   - title: "Leading experts warn of a risk of extinction from AI"
     excerpt: "The call for guardrails on AI systems has intensified in recent months as public and profit-driven enterprises are embracing new generations of programs."
     publishedDateTime: 2023-05-31T16:59:00Z
@@ -494,15 +444,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "AI could make humans extinct, say top experts and CEOs in stark warning"
-    excerpt: "Surprisingly, however, that latter view is shared by many leading experts in artificial intelligence – including the CEOs of both OpenAI and Google DeepMind … It’s the sort of statement you’d normally expect from conspiracy theorists living in ..."
-    publishedDateTime: 2023-05-30T12:54:00Z
-    webUrl: "https://9to5mac.com/2023/05/30/ai-could-make-humans-extinct/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 19
   - title: "AI Leaders Warn of ‘Risk of Extinction’"
     excerpt: "In an era marked by rapid technological advancements, the ascension of artificial intelligence (AI) stands at the forefront of innovation. However, this same marvel of human intellect that drives progress and convenience is also raising existential concerns for the future of humanity,"
     publishedDateTime: 2023-05-30T19:39:00Z
@@ -521,15 +462,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
-  - title: "AI Industry Leaders Issue Stark Warning on ‘Risk of Extinction’"
-    excerpt: "More than 350 top researchers and executives signed a dire one-sentence statement on the dangers of unconstrained artificial intelligence."
-    publishedDateTime: 2023-05-30T11:20:00Z
-    webUrl: "https://www.thedailybeast.com/ai-industry-leaders-issue-stark-warning-on-risk-of-extinction"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 17
   - title: "Human Extinction From AI is Possible, Developers Warn"
     excerpt: "\"AGI fear-mongering is overhyped, toxic, likely to lead to regulatory capture by incumbents, and can slow down or hinder the positive applications of AI across society including biological science and medicine,\" he Tweeted ."
     publishedDateTime: 2023-05-30T20:41:00Z

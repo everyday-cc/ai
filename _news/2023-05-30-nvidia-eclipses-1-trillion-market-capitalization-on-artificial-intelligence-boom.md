@@ -145,6 +145,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 19
+  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
+    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive"
+    publishedDateTime: 2023-05-31T17:04:00Z
+    webUrl: "https://www.inferse.com/528845/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 14
 
 secured: "Ylxpsu3q/TOS8+Ot1jjlMGo4XYSK2OXy0MWdR/GS8yz3h2Tt2Oj9bb4KnelJCyCttqhHDDMx8XyRjTQqknrOZ4wIjNn5+aDKZCklxTjy4bVmrtqTjR8U494zgM+gU0dyyikSMzuHiodxcYSenw9X/eDunoeFL9icLbsuDnYhO8CjXxAYTmZp7lDu7cCMj63RRQTQha64EH+8CLmZWtzp8yz3cW3Bb2XiozWzQi08WNgmW1traXsu5DqGaa/GoRbC40WPIZO0LU2FivqsNrMpVxz9wohaHlIzqchgE8BS2iaxY9WBXyN+NYngluRU4ccVrcFx8CuQfnaDTHhhvd43OoPcjBkw+qfrNwD5jmTVDC+OBW6YSmJXdKlktSaq2mAvwgGNWq2jgGU+sCZXFrOH2tCLfopQUBYLQzrgGV21tNuQKDGZ/K2ko1wdhvDmNEIt9qQ6cS2Gqer/y9FfLxMRLTXZns9EOoien6Shl49OL8oRraac4Mw3cMrnFKZ7M2yYt3ZFXgav8UAqWS4ppKr/iw==;o+MXttdfYDbb5fcwNzabww=="
 ---

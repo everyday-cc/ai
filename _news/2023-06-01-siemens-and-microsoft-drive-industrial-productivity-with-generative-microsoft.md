@@ -1,28 +1,22 @@
 ---
 category: news
-title: "AI demand briefly catapults Nvidia into $1 trillion club"
-excerpt: "The total value of computer chip and graphics processing card manufacturer Nvidia briefly touched $1 trillion on May 30 as demand for the company’s artificial intelligence tech surged into overdrive."
-publishedDateTime: 2023-05-31T00:40:00Z
-originalUrl: "https://cointelegraph.com/news/nvidia-briefly-hits-1-trillion-market-cap"
-webUrl: "https://cointelegraph.com/news/nvidia-briefly-hits-1-trillion-market-cap"
+title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
+excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive"
+publishedDateTime: 2023-05-31T17:04:00Z
+originalUrl: "https://www.inferse.com/528845/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
+webUrl: "https://www.inferse.com/528845/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
 type: article
-quality: 39
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: CoinTelegraph
-  domain: cointelegraph.com
+  name: Inferse
+  domain: inferse.com
 
 topics:
-  - AI Hardware
+  - Microsoft AI
   - AI
-
-images:
-  - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-05/795d3f2c-200d-4544-9605-74bfbb101f9d.jpg"
-    width: 1200
-    height: 799
-    isCached: true
 
 related:
   - title: "Generative AI $7 Trillion Ecosystem: Invest In Nvidia, Microsoft, Adobe And More"
@@ -87,6 +81,20 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 49
+  - title: "AI demand briefly catapults Nvidia into $1 trillion club"
+    excerpt: "The total value of computer chip and graphics processing card manufacturer Nvidia briefly touched $1 trillion on May 30 as demand for the company’s artificial intelligence tech surged into overdrive."
+    publishedDateTime: 2023-05-31T00:40:00Z
+    webUrl: "https://cointelegraph.com/news/nvidia-briefly-hits-1-trillion-market-cap"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 39
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-05/795d3f2c-200d-4544-9605-74bfbb101f9d.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Fueled by AI, Nvidia joins the $1 trillion club"
     excerpt: "Booming demand for its AI chips has landed Nvidia (NVDA) a prime spot in one of the most exclusive clubs on Wall Street: The chipmaker hit a market cap of $1 trillion on Tuesday. It’s just the ninth company globally to have achieved such a feat,"
     publishedDateTime: 2023-05-30T20:42:00Z
@@ -138,15 +146,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 19
-  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
-    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive"
-    publishedDateTime: 2023-05-31T17:04:00Z
-    webUrl: "https://www.inferse.com/528845/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 14
   - title: "Nvidia eclipses $1 trillion market capitalization on artificial intelligence boom"
     excerpt: "The semiconductor company Nvidia crossed the trillion-dollar market capitalization mark Tuesday, riding an artificial intelligence-propelled boom to become the fifth company to pass the historic threshold."
     publishedDateTime: 2023-05-30T13:46:00Z
@@ -157,6 +156,6 @@ related:
       domain: washingtonexaminer.com
     quality: 12
 
-secured: "SnQfx3SMZM6Fxwb3K436vIoEnZSe2Ajzga+VUeFp7kUt0kh5B+VxEU6RaAHgT7OZjTV59xslZGpruxuXP6E7JKmU902yHByBXW3yf0ZucEz7GS0mY0d0QI8iiXU8rQfsi6AodPzBXU3i1f3h32vatsTPQB68QV+v7xfMp5Kdz1IQgpUvyIge3lTIz5uvZNZ2iK508J28PzpeEHPdDHRSD1acsBpSzXqFrzE2Cr8UMiim3wk/dzOhMm31rQgc84pesGkcqRNsWS4KP/VsK12ph8WoxXp2UoA1kfDgCgv+d1vbJ/iltZ9TxIM4PSg3PTORdtH166kVHGUESIwWMivjpG5z8AqwMu4BjGYcgmM2Q60=;tGl4hRceHBlny3SaSuTg7Q=="
+secured: "jvuGddqN7d/F9x+hiZtUPU+L27bzZL8hDDymvFLoz3q9j4Y+BmUz/1RFUDiFyuinWp4e8lfjpoHkyfUk1hLXfGmxH7gdZLP8q2x9Gls1ELWaR1fkz7drf5R1o0FU2yd3ar41rDDRFZU0FfKV8ylxQxpViIz7wpTTLyP6T1Wvr9TgWta/A1sxWr+P+2sj6mUv3LNRlz+cbYeOPsb3B1IIbkoleakaqyg1QxZ5roZt14ZhG3hJqUn/JF1rWNCgj1OzvML2JES1JrLdyqEHcBKPu5NhTePpkeUsMlixyMlc/UAFEz1CzbM3Qz9NRn/PAVzBfhqGpeARKCuIrIYqltDYJMaHbDy3Lv90PnB+PSc8+fY=;X8B3xyVixN/F+HLJ4PCRTQ=="
 ---
 

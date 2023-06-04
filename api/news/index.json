@@ -183,49 +183,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-03-ai-speed-boost-coming-with-intels-meteor-lake-chip-for-pcs-this-year.md",
-      "title": "AI Speed Boost Coming With Intel's Meteor Lake Chip for PCs This Year",
-      "excerpt": "The new processor is key to the chipmaker's recovery plans and taking on strong competition from AMD and Apple.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/ai-speed-boost-coming-with-intels-meteor-lake-chip-for-pcs-this-year/",
-      "originalUrl": "https://www.cnet.com/tech/computing/ai-speed-boost-coming-with-intels-meteor-lake-chip-for-pcs-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-03-robot-takeover-not-quite-heres-what-ai-doomsday-would-look-like.md",
       "title": "Robot takeover? Not quite. Here’s what AI doomsday would look like",
       "excerpt": "Experts say the fallout from powerful AI will be less a nuclear bomb and more a creeping deterioration of society",
@@ -286,7 +243,7 @@
       "originalUrl": "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 217,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -956,7 +913,7 @@
       "originalUrl": "https://www.ibm.com/blog/accelerating-ai-innovation-the-future-of-banking-depends-on-core-modernization/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -1195,6 +1152,58 @@
       "topics": [
         "IBM AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-the-instagram-founders-new-news-app-is-actually-an-ai-play.md",
+      "title": "The Instagram Founders’ New News App Is Actually an AI Play",
+      "excerpt": "Artifact offers a personalized feed of news and can also translate clickbait headlines using AI. Kevin Systrom says that’s only the beginning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/plaintext-instagram-founders-artifact-news-app-ai/",
+      "originalUrl": "https://www.wired.com/story/plaintext-instagram-founders-artifact-news-app-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64791c108ca7067a92af16b6/191:100/w_1280,c_limit/Artifact-News-App-Top-Plaintext-Business.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

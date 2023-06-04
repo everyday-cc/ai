@@ -141,6 +141,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 19
+  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
+    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive"
+    publishedDateTime: 2023-05-31T17:04:00Z
+    webUrl: "https://www.inferse.com/528845/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 14
   - title: "Nvidia eclipses $1 trillion market capitalization on artificial intelligence boom"
     excerpt: "The semiconductor company Nvidia crossed the trillion-dollar market capitalization mark Tuesday, riding an artificial intelligence-propelled boom to become the fifth company to pass the historic threshold."
     publishedDateTime: 2023-05-30T13:46:00Z
