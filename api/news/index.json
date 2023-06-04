@@ -191,7 +191,7 @@
       "originalUrl": "https://www.cnet.com/tech/computing/ai-speed-boost-coming-with-intels-meteor-lake-chip-for-pcs-this-year/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -415,6 +415,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-03-whats-inside-nvidias-ai-supercomputer-powerful-chips-and-a-lot-of-memory.md",
+      "title": "What’s Inside Nvidia’s AI Supercomputer? Powerful Chips and a Lot of Memory.",
+      "excerpt": "This past Monday, chip giant Nvidia which has seen its shares nearly triple to over $400 on rising demand for AI, announced its new DGX GH200 AI supercomputer powered by its GH200 Grace Hopper superchips. That’s a lot of letters, numbers, and supers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
+      "originalUrl": "https://www.barrons.com/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-793870/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0",
+      "publishedDateTime": "2023-06-02T16:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-03-california-lawmakers-question-dmv-regulation-of-driverless-trucks.md",
       "title": "California Lawmakers Question DMV Regulation of Driverless Trucks",
       "excerpt": "State lawmakers argue that the state Department of Motor Vehicles has so badly mishandled the driverless car industry that it can't be trusted to oversee big rigs barreling down the highways autonomously.",
@@ -490,6 +533,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-03-thoughtspot-ceo-sudheesh-nair-on-generative-ai-and-data-analytics.md",
+      "title": "ThoughtSpot CEO Sudheesh Nair on Generative AI and Data Analytics",
+      "excerpt": "The ThoughtSpot CEO details how generative AI is changing the data analytics market. I spoke with Sudheesh Nair, CEO of ThoughtSpot, about how generative AI is changing the data analytics market. Among the topics we discussed:  Also see: 100+ Top AI Companies 2023 Listen to the podcast: Also available on Apple Podcasts Watch the video: eWeek has the latest technology news and analysis,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/thoughtspot-generative-ai-and-data-analytics/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/thoughtspot-generative-ai-and-data-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/06/eSPEAKS-thumbnail.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -759,7 +853,7 @@
       "originalUrl": "https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1102,101 +1196,6 @@
       "topics": [
         "IBM AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-the-instagram-founders-new-news-app-is-actually-an-ai-play.md",
-      "title": "The Instagram Founders’ New News App Is Actually an AI Play",
-      "excerpt": "Artifact offers a personalized feed of news and can also translate clickbait headlines using AI. Kevin Systrom says that’s only the beginning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/plaintext-instagram-founders-artifact-news-app-ai/",
-      "originalUrl": "https://www.wired.com/story/plaintext-instagram-founders-artifact-news-app-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64791c108ca7067a92af16b6/191:100/w_1280,c_limit/Artifact-News-App-Top-Plaintext-Business.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-02T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
-      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
-      "excerpt": "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face.",
-      "sourceUrl": null,
-      "webUrl": "https://abc7news.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "originalUrl": "https://abc7news.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7news.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "publishedDateTime": "2023-06-02T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC7 San Francisco",
-        "domain": "abc7news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

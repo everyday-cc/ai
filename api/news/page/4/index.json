@@ -2,6 +2,111 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-06-01-the-founder-of-artificial-intelligence-sounds-the-alarm-4-major-risks-you-need-to-know.md",
+      "title": "The Founder Of Artificial Intelligence Sounds The Alarm: 4 Major Risks You Need To Know",
+      "excerpt": "With a BA in Experimental Psychology from the University of Cambridge (1970) and a PhD in Artificial Intelligence from the University of Edinburgh (1978), the 75-year-old has decided to blow the whistle on the technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mikepatton/2023/05/31/the-founder-of-artificial-intelligence-sounds-the-alarm-4-major-risks-you-need-to-know/",
+      "originalUrl": "https://www.forbes.com/sites/mikepatton/2023/05/31/the-founder-of-artificial-intelligence-sounds-the-alarm-4-major-risks-you-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6477aeef76a632df0c0e1092/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 855,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mikepatton/2023/05/31/the-founder-of-artificial-intelligence-sounds-the-alarm-4-major-risks-you-need-to-know/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikepatton/2023/05/31/the-founder-of-artificial-intelligence-sounds-the-alarm-4-major-risks-you-need-to-know/amp/",
+      "publishedDateTime": "2023-05-31T13:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-translate-documents-in-real-time-with-amazon-translate.md",
+      "title": "Translate documents in real time with Amazon Translate",
+      "excerpt": "A critical component of business success is the ability to connect with customers. Businesses today want to connect with their customers by offering their content across multiple languages in real time. For most customers, the content creation process is disconnected from the localization effort of translating",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/translate-documents-in-real-time-with-amazon-translate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/translate-documents-in-real-time-with-amazon-translate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/31/real-time-document-translation.png",
+          "width": 1020,
+          "height": 508,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T13:30:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-05-31-scale-your-machine-learning-workloads-on-amazon-ecs-powered-by-aws-trainium-instances.md",
       "title": "Scale your machine learning workloads on Amazon ECS powered by AWS Trainium instances",
       "excerpt": "Running machine learning (ML) workloads with containers is becoming a common practice. Containers can fully encapsulate not just your training code, but the entire dependency stack down to the hardware libraries and drivers. What you get is an ML development environment that is consistent and portable.",
@@ -1122,103 +1227,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-hands-are-more-critical-for-robot-intelligence-than-ai-says-robotics-ceo.md",
-      "title": "Hands are more critical for robot intelligence than AI, says robotics CEO",
-      "excerpt": "In fact, they don't address the central problem of intelligence at all, which is how to understand the world around you, and then act on it. For Rose, and for the humanoid robots built and operated by Sanctuary AI,",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo",
-      "originalUrl": "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2023-05/597F4F78-034F-4C75-A533-1DD249D8DA70.jpeg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo?amp",
-      "publishedDateTime": "2023-05-31T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-cloud-computing-firm-coreweave-raises-another-200-mln-amid-ai-boom.md",
-      "title": "Cloud computing firm CoreWeave raises another $200 mln amid AI boom",
-      "excerpt": "Specialized cloud computing provider CoreWeave has raised $200 million in funding from its existing investor Magnetar Capital, highlighting investor interest in backing infrastructure powering the generative AI boom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/cloud-computing-firm-coreweave-raises-another-200-mln-amid-ai-boom-2023-05-31/",
-      "originalUrl": "https://www.reuters.com/technology/cloud-computing-firm-coreweave-raises-another-200-mln-amid-ai-boom-2023-05-31/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/arc-authors/reuters/2f90d562-60d3-41b2-a40c-bc52d8bcd4a7.png",
-          "width": 720,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

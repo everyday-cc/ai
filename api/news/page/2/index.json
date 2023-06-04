@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-02-the-instagram-founders-new-news-app-is-actually-an-ai-play.md",
+      "title": "The Instagram Founders’ New News App Is Actually an AI Play",
+      "excerpt": "Artifact offers a personalized feed of news and can also translate clickbait headlines using AI. Kevin Systrom says that’s only the beginning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/plaintext-instagram-founders-artifact-news-app-ai/",
+      "originalUrl": "https://www.wired.com/story/plaintext-instagram-founders-artifact-news-app-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64791c108ca7067a92af16b6/191:100/w_1280,c_limit/Artifact-News-App-Top-Plaintext-Business.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
+      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
+      "excerpt": "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "originalUrl": "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "publishedDateTime": "2023-06-02T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7",
+        "domain": "abc7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-ai-machine-learning-and-automation-what-agencies-need-to-know.md",
       "title": "AI, Machine Learning And Automation: What Agencies Need To Know",
       "excerpt": "Automation refers to the use of machines to automate routine tasks that would otherwise be executed by humans. It involves configuring a set of rules and triggers to initiate actions. While automation is often complex, it lacks AI’s ability to learn from data to optimize performance.",
@@ -253,7 +348,7 @@
       "originalUrl": "https://www.cnet.com/tech/french-open-enlists-ai-company-to-help-players-fight-social-media-hate/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1138,100 +1233,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-paycor-strengthens-talent-platform-with-ai-generated-job-description-feature-powered-by-microsoft-azure-openai-service.md",
-      "title": "Paycor Strengthens Talent Platform with AI-Generated Job Description Feature Powered by Microsoft Azure OpenAI Service",
-      "excerpt": "Newest Offering Automates the Process of Creating Job Descriptions, Optimizing the Talent Acquisition Process for Leaders CINCINNATI, June 1,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/paycor-strengthens-talent-platform-with-ai-generated-job-description-feature-powered-by-microsoft-azure-openai-service-1032364080",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/paycor-strengthens-talent-platform-with-ai-generated-job-description-feature-powered-by-microsoft-azure-openai-service-1032364080",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1738526/PaycorLogo_v2.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-ibm-cloud-databases-for-elasticsearch-end-of-life-and-pricing-changes.md",
-      "title": "IBM Cloud Databases for Elasticsearch End of Life and pricing changes",
-      "excerpt": "There is action required before November 30, 2023, for your Elasticsearch version 7.9 and 7.10 deployments. On November 30, these versions will be End Of Life.\nThe post IBM Cloud Databases for Elasticsearch End of Life and pricing changes appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-cloud-databases-for-elasticsearch-end-of-life-and-pricing-changes/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-cloud-databases-for-elasticsearch-end-of-life-and-pricing-changes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T06:06:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

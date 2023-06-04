@@ -3,18 +3,18 @@ category: news
 title: "What's new in robots? An AI-powered humanoid machine that writes poems"
 excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
 publishedDateTime: 2023-06-02T12:59:00Z
-originalUrl: "https://abc7news.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-webUrl: "https://abc7news.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-ampWebUrl: "https://abc7news.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+originalUrl: "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+webUrl: "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+ampWebUrl: "https://abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
-  name: ABC7 San Francisco
-  domain: abc7news.com
+  name: ABC7
+  domain: abc7.com
 
 topics:
   - AI in Robotics
@@ -59,6 +59,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
+    excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said."
+    publishedDateTime: 2023-05-31T13:59:00Z
+    webUrl: "https://poststar.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_212b18b0-04cf-5e72-a6a5-8efdb53ab2a5.html"
+    type: article
+    provider:
+      name: The Post-Star
+      domain: poststar.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/poststar.com/content/tncms/assets/v3/editorial/2/12/212b18b0-04cf-5e72-a6a5-8efdb53ab2a5/6477381b48c4b.preview.jpg?crop=1739%2C914%2C24%2C33&resize=1200%2C631&order=crop%2Cresize"
+        width: 1200
+        height: 631
+        isCached: true
   - title: "What’s new in robots? An AI-powered humanoid machine that writes poems"
     excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
     publishedDateTime: 2023-06-01T08:45:00Z
@@ -74,6 +88,6 @@ related:
         height: 399
         isCached: true
 
-secured: "CTvKCU8lbm+Nq/myb/fJtimCBwMbCE8jzlIGEMgopD/7sbEhKgQbydOsuZ38ShRyA6u8YoYL7lSTgWwEc/+oRzvHi+keTvN1DhVFJrERBDleOr40RDqmO40Y9+n6qQ3Dz8LK2OBiuhQJEPOnqiZrsNDsu8cnIPkAqn5G0Ppx8RCch9SxNsICI4Q5XpJ6835rF3DdgkSSIrqFWUpn+Wk50RS+hYiDaMwZasXAmdICwwRb9gaMNAaGWOHVxLaPVh84AJe24swQKAo68KAF9JwTQLbUUwJbFgr04L8r/YdSpMRhnV3irkhhVub/FaG4NAotb5jOrxq2IC4+gAW4FmWPUJa0ePcPtDeRTq3cFBAIXkI=;RpbRs7TkXBTRvkoHO8Az2Q=="
+secured: "X2xHPALgVlaNbF+WfplDGYuVH0l6T4fAiwrlh7Fvsx+xEyWAS6wARk4Czm56+akzYKH0noOo0WRlD1YDLcCVOHggFEh2r9XUM6vwfldZor+ED8fV2INS2KX52qpzjHx2HKIKNMPKo1Vr526l6ujMni/MgQ4d0JRDd4XQc8dz8BoagpwsCS309pc33Vjz3GaqdZJuxK39yj+gqLvEwPLUebBJDtKNyzOvrPYviBbSWYYPlJVD+1ut19I93xDR8tDcpMyXtwu6SiyHAiY9kPd8MQAHgfFKKTTf+bGdx5GXNvctWJgh1qdIYdfN3iIOa0ld0Hw8NeqAMUxbj/oo3rjnCT/Cjuc/zSP4gEEAKPcJcEs=;cjmGLXzU+dGVVrP5ENTYaQ=="
 ---
 

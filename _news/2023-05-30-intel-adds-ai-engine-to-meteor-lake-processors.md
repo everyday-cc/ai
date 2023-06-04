@@ -28,15 +28,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 64
-  - title: "Intel's 14th Generation Meteor Lake Processors: Emphasizing AI and Energy Efficiency"
-    excerpt: "Intel's 14th generation processors, codenamed Meteor Lake, is set to introduce a focus on AI and energy efficiency. At the Computex 2023 event, Intel revealed details about their upcoming Intel Core"
-    publishedDateTime: 2023-05-30T07:26:00Z
-    webUrl: "https://www.guru3d.com/news-story/intels-14th-generation-meteor-lake-processors-emphasizing-ai-and-energy-efficiency.html"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 12
 
 secured: "Gy8Gsr2mLt8mqPbwROgdSBDI5cJ7FtPcpOQ+HKXOix3Y9H/i6T0tavQxzup7dsHAonC5D7oR0g2YVbew4VW7TDxWX708NYjUTzIuib7Vfieu+pl3Lb7FwFRAaQLWyFpwnZ/Qz/Sq7tUZHubDPz4mZFUEsyDwIKe/ulJa0UzqVT2GyEyklUQkWic0Ks+lRkO/k3Tdraa/otyNNL0NDSTHakY9M68ZpFBSJpj3mp9C91PpX3OsmDu2bqucodqXPndd3yweDsuzvxmgdlpGbsqquwO3IibsLDC6TZ9GoAiirs8yF90aqUvqF2vdw2QJeIcBRCETKjcvZtvDqZJDB7gF7qpAQsBZSx1/fNWSwjOTB2U=;+q1pJc2BKfdkMabKimR79A=="
 ---

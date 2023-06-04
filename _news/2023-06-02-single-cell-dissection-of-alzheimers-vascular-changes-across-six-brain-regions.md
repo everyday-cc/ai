@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-06-single-cell-alzheimer-vascula
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-06-single-cell-alzheimer-vascular-brain-regions.amp"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1748
     height: 2707
     isCached: true
-
-related:
-  - title: "Alzheimer's App Detects Disease Using Speech Data"
-    excerpt: "Researchers have developed a self-administered mobile application that analyzes speech data as an automatic screening tool for the early detection of Alzheimer's disease."
-    publishedDateTime: 2023-05-30T08:08:00Z
-    webUrl: "https://www.technologynetworks.com/diagnostics/news/alzheimers-app-detects-disease-using-speech-data-373944"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 24
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/373944/alzheimers-app-detects-disease-using-speech-data-373944-640x360.jpg?cb=20230530"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "UhMVP/QAVl+v13/ZXEstO/qef1a1Apj9/qDf7YWRM1CJ3prv731Pi55492WvjOJCmE6R0duQZVl6xCc5kj9FvLq1T1kV60m3iJ21z63Pc1o+dDMCXvVgUfgiRxecBt3F7/bfJwT+GM2LfE15rfDMeSFpQlmKL9oC1QdFWjFDHftp0l7Qgas0BCVV8HVpVR+64iKs8KDeaFrLWnMHFsu+Qfs4gFf3V4UDpkCokbz3WLtpqS0sh0iUAZbTrRYAOsWCLOCzdgzld/ERS3ZzqB8QKzmTpgYOlFLkTaWlyGwu09JIWXTDpGWFDPB5PClS+YqopoY5T30GHDVCFxrmCK/i7S3XRC9bxmoe1wh7faplNztiujv3pyKLaC5Up7naoDSey/mGWYbiq0qZHQiRMulOLI7Y8nIyRnNh91ikd2MqpFEwX7+16qgiROQ9DpwojesMOBI11itB4sHS30Yau0gN0fF3BFjkYQ8Cw7Occ0O4+7BjD9q2ebob/5HSTU/l5TnN1GIM8vaQOn6dPLrW6RH2Ig==;8fr1pchNlcTZ7qdmMM5Kmg=="
 ---

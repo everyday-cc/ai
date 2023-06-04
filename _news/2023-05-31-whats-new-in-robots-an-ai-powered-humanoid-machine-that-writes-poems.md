@@ -1,61 +1,93 @@
 ---
 category: news
 title: "What's new in robots? An AI-powered humanoid machine that writes poems"
-excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It's one of hundreds of robots on ..."
-publishedDateTime: 2023-05-31T14:00:00Z
-originalUrl: "https://www.stltoday.com/news/nation-world/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html"
-webUrl: "https://www.stltoday.com/news/nation-world/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html"
+excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said."
+publishedDateTime: 2023-05-31T13:59:00Z
+originalUrl: "https://poststar.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_212b18b0-04cf-5e72-a6a5-8efdb53ab2a5.html"
+webUrl: "https://poststar.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_212b18b0-04cf-5e72-a6a5-8efdb53ab2a5.html"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: The Post-Star
+  domain: poststar.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/90/f904fd40-d989-5782-8c5f-7669aadb68b8/6477381e4afce.preview.jpg?crop=1739%2C914%2C24%2C33&resize=1200%2C631&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/poststar.com/content/tncms/assets/v3/editorial/2/12/212b18b0-04cf-5e72-a6a5-8efdb53ab2a5/6477381b48c4b.preview.jpg?crop=1739%2C914%2C24%2C33&resize=1200%2C631&order=crop%2Cresize"
     width: 1200
     height: 631
     isCached: true
 
 related:
-  - title: "Hands are more critical for robot intelligence than AI, says robotics CEO"
-    excerpt: "In fact, they don't address the central problem of intelligence at all, which is how to understand the world around you, and then act on it. For Rose, and for the humanoid robots built and operated by Sanctuary AI,"
-    publishedDateTime: 2023-05-31T09:29:00Z
-    webUrl: "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo"
-    ampWebUrl: "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo?amp"
+  - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
+    excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
+    publishedDateTime: 2023-06-02T12:59:00Z
+    webUrl: "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+    ampWebUrl: "https://abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 90
+      name: ABC7
+      domain: abc7.com
+    quality: 74
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-05/597F4F78-034F-4C75-A533-1DD249D8DA70.jpeg"
-        width: 770
-        height: 500
+      - url: "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "MassRobotics recognizes 2 women for their robotics accomplishments"
-    excerpt: "This inaugural MassRobotics Robotics Medal award was presented to Nancy Amato for her research on the algorithmic foundations of motion planning and more."
-    publishedDateTime: 2023-06-02T14:24:00Z
-    webUrl: "https://www.therobotreport.com/massrobotics-recognizes-2-women-for-their-robotics-accomplishments/"
+  - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
+    excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
+    publishedDateTime: 2023-06-02T17:59:00Z
+    webUrl: "https://abc7chicago.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+    ampWebUrl: "https://abc7chicago.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 84
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 74
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2023/06/massrobotics-featured.jpg"
-        width: 770
-        height: 500
+      - url: "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "AI-powered humanoid works the crowd at tech show"
+    excerpt: "Will Jackson, director of Engineered Arts, the British company that created Ameca, said his company’s robots are designed for tasks that involve interacting with humans, such as helping"
+    publishedDateTime: 2023-05-30T21:45:00Z
+    webUrl: "https://www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-the-crowd-at-tech-show/"
+    ampWebUrl: "https://www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-the-crowd-at-tech-show/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/05/30/ai-powered-humanoid-works-the-crowd-at-tech-show/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 59
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2023/05/AP23150442054195.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "What’s new in robots? An AI-powered humanoid machine that writes poems"
+    excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
+    publishedDateTime: 2023-06-01T08:45:00Z
+    webUrl: "https://www.nwaonline.com/news/2023/jun/01/whats-new-in-robots-an-ai-powered-humanoid/"
+    type: article
+    provider:
+      name: Northwest Arkansas Democrat Gazette
+      domain: nwaonline.com
+    quality: 54
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204479203_204479203-4497212ae77643a5a468fcbbb895bc0c_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
         isCached: true
 
-secured: "E978qiWHAng3YuUy318kP/vHufgsmmsCNcFN1QvC7cswYthHJu5aj4ehs8dWOIkxIqq2GrX9bX8+LIRH7akH0Y3cuqXiZOukZ/0xwOWmL84SSFRd6zrkNRoPUq3MsSIHda8rmwHR20Rly9tEqsdgX4ils2sJFodJL1DkAoV+Y8SM7ylCtF95UsJiAiko3Et1Z1wgvHPUAJVTpLpF5mW4qoOkSkcWAE5W3VdykT2mD6RgF8rHqZYo3ZCe9jBYnh3daoY+jb7v7wLhT0iFko+FW+PzlE7JFE/d7uYtHU3erQC6mWeMwVLMUkyUokPtvesBRwoYcsLmFGDbpeR9co5eXN412sDZDO+cJnTATnvn4xM=;AvfrqG8Qgk9DBqeUEfUsdw=="
+secured: "Lxzbxq0NgBmfyM+AE5LV37hYyuZx0AFJ9/pRhm+NhGqa5R2RfHzulUAoxDZgwWosP6ikQvohIzPdPgrTmx2zElf2s8o7r/Alz0r9Q5DzdMWNrmP0VslNKjI5UzH6O0/lTdM4Fth/reeNggWcjXxeTtR/55u7+qheU8SgUcBCShheDYDxBhXLvoCeu2nsFzuEbVmM6l0f1qlRRbf0RjHnVze2sX6eBz+57CqB2c/UN2+3Z48L9nuDeN/CJeEX0sGQliFAuh+QHVBa2tDeNPnYB/t1vtKtwHSSiYZmwIqSNBjSWQ6SitVk8vQSN5oBFZSbGO/s11IGrMMTI+GlPdjSNvza5qVnMMKkL++mVJBnElI=;uCVVxXu081ERPccyEeqFaA=="
 ---
 

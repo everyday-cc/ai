@@ -60,6 +60,15 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 35
+  - title: "3 Undervalued Fintech Stocks to Buy in June 2023"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech stocks have continued trading sideways since the selloffs in late 2021"
+    publishedDateTime: 2023-06-02T11:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-undervalued-fintech-stocks-to-buy-in-june-2023-1032367066"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Generative AI Is Moving Into Adtech. But Which Companies Will Stand The Test Of Time?"
     excerpt: "Generative AI is bulldozing through every industry possible, including advertising and brand marketing. And VCs have some choices to make."
     publishedDateTime: 2023-06-02T11:00:00Z
@@ -74,6 +83,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Africa Fintech Summit: AWS announces the 25 startups selected for its first 'fintech in Africa' accelerator"
+    excerpt: "Over 90% of startups we know created their Minimum Viable Product (MVP) on AWS. Products like Compute, Amazon SageMaker among others help them to build fast-scaling products that VCs like us love to back. We are excited to provide our expertise to young ..."
+    publishedDateTime: 2023-06-01T13:08:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59236812-africa-fintech-summit-aws-announces-the-25-startups-selected-for-its-first-fintech-in-africa-accelerator-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 1
 
 secured: "RwCfIMKJgtabvsGOagrhCAwh9Qb0lgCvGMTsBrmjqyD7NNzmCH66sscTIw993GgHQ8C+RYfd/q1IsrmXU3+x732HsgwovwopnUL1fsJtHO0IIy0e6lY29U23nFPRQZxkr0j7Cl95xYigH858ZLjcR10Y8O+xXxbqyPUmgVHMlzzPNLXcK/ncMLk18MPV/tuepxqd35ay8BoCTn9iyn+YwgGUiz9FLGCCtGMIKFAOwJLleYuegVZIbHTrWYYYJJxcY318tNg7sSW+EuupHs1vpIVChMmWDdz9G9Q5MSGVsgTULQUQDCn3M5aI3t+yDy+JLe2jJXEClNgg3L8S1BXcbz3+W4nMG7z86cRjPhxmKZnuIF10LluHZz436CaEC/smqhsMV0xnoDK4gkFbahhJcg44ePVXVOgh7FLJiEy6L4F4hnVLoXyjWx6FxzYt0HDcTGP9pyePGIQji2lTH8VaBvKIE2Dao54de0I0MJWkRzTuV1HjrEi/LJAQ47IiFZrq7d8plK84DX4bxVLMpAzPYw==;lxPGsb6tKgw/ARhzk5rJFQ=="
 ---

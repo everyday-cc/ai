@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/05/30/generative-ai-7-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/05/30/generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more/amp/"
 type: article
 quality: 101
-heat: 211
+heat: 201
 published: true
 
 provider:
@@ -152,15 +152,6 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 12
-  - title: "The Rise And Rise of NVIDIA"
-    excerpt: "Taking another step towards becoming the 7th company in the world to reach a trillion-dollar market cap, NVIDIA and SoftBank have partnered to drive generative AI applications in Japan. SoftBank will use NVIDIA’s GH200 Grace Hopper superchip in its data centers to develop 5G/6G applications,"
-    publishedDateTime: 2023-05-30T08:08:00Z
-    webUrl: "https://analyticsindiamag.com/the-rise-and-rise-of-nvidia/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 4
 
 secured: "Pa289R+2RuRwsmYm3NR8isVHH0tgLkZhBCqdeuU4ZV9dDBuwzdlA5h5b8ueWbdLXiZosXL9JVZM/WJLvYL+6xUIIOz3fDgyd9rkMmF83TEd73r3dJP3dcF9pnplEw2jSTQ9t+22F8y2eutrTCLBnJ62pFdgeKjVtz3V2F4BCiJrlzE5FvUfhashpMc3pxxfGNPcicy3qOLBm9sPLs0KzW1F16m9eLpJcVTeJSrdB+rPap774OXD76FGEjnmWi1U40jx3JXyRyYrVbhS9a55ekwZrAV2K40B2VmvMEM+Gk0fH1HBgZZU+G75sVGm83MHlzPpKPy3qrjP9Ol/8FTvAE57FbCYn/j5v/1EOMAXt6ey1x04gFwtslVyYNkxx+7ACoxRQ3sRGGrpHWOFphZ5Bwd5BY427OEcrkMbhHpglyUG7UtrB+QYZmaeLfYXaeWdYTFmYBdQ71wCAOtorbIcP8Bzt7pVs5rwbW4bU7h1CIMkGA9ana2NAGqnyJ9mayjMSvHXpqrMNPH7VT6oYKOR4/g==;CIhLJoxhzb7CsCjRkC7t7w=="
 ---

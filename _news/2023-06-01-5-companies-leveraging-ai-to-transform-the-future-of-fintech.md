@@ -48,6 +48,15 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 35
+  - title: "3 Undervalued Fintech Stocks to Buy in June 2023"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech stocks have continued trading sideways since the selloffs in late 2021"
+    publishedDateTime: 2023-06-02T11:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-undervalued-fintech-stocks-to-buy-in-june-2023-1032367066"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Klarna’s Q1 results show that the fintech unicorn’s turnaround is in full swing"
     excerpt: "Klarna managed to nab market share in a contracting market, keeping its own growth story afloat despite stiff headwinds."
     publishedDateTime: 2023-05-30T18:53:00Z
@@ -71,6 +80,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Africa Fintech Summit: AWS announces the 25 startups selected for its first 'fintech in Africa' accelerator"
+    excerpt: "Over 90% of startups we know created their Minimum Viable Product (MVP) on AWS. Products like Compute, Amazon SageMaker among others help them to build fast-scaling products that VCs like us love to back. We are excited to provide our expertise to young ..."
+    publishedDateTime: 2023-06-01T13:08:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-06/59236812-africa-fintech-summit-aws-announces-the-25-startups-selected-for-its-first-fintech-in-africa-accelerator-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 1
 
 secured: "jcJnhXUIPm27JwuTGx6dKLt2znLDGT5Boxgpv2HxvTZG4khLSPOpp2QfsG6D7ET8IJDHjXdTsCNGyi+Z9HxlBwwDdSyYlh4O2aSQco7mkPVovhDJHaZgkQGU2/l8RD7DCzd/K7BrVawgCf0+XyXG/B9YmNqrzrCugaOI2mPQGnxG2XnWTbX9XhGzitXPpRw7h0CjtUvyrWb3Mq1h1w8EUJR8BEsZm3OHC8O8m1ySN2s6wgd+Cs5cMOCHhYL3bFu6C3qBxitSbtGZZFURZ46yQCAygyusM0K2BoZ9AIqvtoUBUceumuqjIbbyCzljViqybHAvyl19C0KcxQDWqPvDRKsXhZoDm9+/NlqyqX2z7Wsoh/rQ/N2NMQt9r2IMeN98mmOylWrUFBpFYVpbobJN1uCN4TCYIS8AeUoqqmv0dtYGaRHAx/g4lcXu3gQPnR+TMVRMUmnfddONcE5ktpD1zj1OrSr5ZWNzq9Aqvc0oFt9MNVjgI9f2hNd8Lgo/L5xhrBcH2+ssyXNOE9Hq0hsI0A==;Febr0H7zsNOH2jN6mWVKpw=="
 ---

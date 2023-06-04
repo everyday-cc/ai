@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/05/31/the-future-of-ge
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/05/31/the-future-of-generative-ai-beyond-chatgpt/amp/"
 type: article
 quality: 91
-heat: 451
+heat: 461
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/3a48a084a7a93ad8c86dde1b9665b51646afbb96/2023/05/24/198d2750-d626-47a5-beca-9735824020a7/versus.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Travel This Summer With These 6 Fun Google And ChatGPT AI Companions"
+    excerpt: "Can AI plan three perfect days in Tokyo? You bet. Here's a look at the new chat features from Expedia, Kayak, SnapChat, Google Bard, ChatGPT Mobile and Roam Around."
+    publishedDateTime: 2023-06-04T01:08:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2023/06/03/top-6-ai-companions-to-plan-epic-summer-travel-from-google-and-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/06/03/top-6-ai-companions-to-plan-epic-summer-travel-from-google-and-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/06/03/top-6-ai-companions-to-plan-epic-summer-travel-from-google-and-chatgpt/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647bd1788c78818aad0b6f67/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology"
     excerpt: "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?"

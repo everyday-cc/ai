@@ -94,6 +94,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Travel This Summer With These 6 Fun Google And ChatGPT AI Companions"
+    excerpt: "Can AI plan three perfect days in Tokyo? You bet. Here's a look at the new chat features from Expedia, Kayak, SnapChat, Google Bard, ChatGPT Mobile and Roam Around."
+    publishedDateTime: 2023-06-04T01:08:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2023/06/03/top-6-ai-companions-to-plan-epic-summer-travel-from-google-and-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/06/03/top-6-ai-companions-to-plan-epic-summer-travel-from-google-and-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/06/03/top-6-ai-companions-to-plan-epic-summer-travel-from-google-and-chatgpt/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647bd1788c78818aad0b6f67/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Asus plans on-site ChatGPT-like AI server rentals for privacy and data control"
     excerpt: "Taiwan's Asustek Computer (known popularly as \"Asus\") plans to introduce a rental business AI server that will operate on-site to address security concerns and data control issues that come from cloud-based AI systems,"
     publishedDateTime: 2023-06-01T16:00:00Z

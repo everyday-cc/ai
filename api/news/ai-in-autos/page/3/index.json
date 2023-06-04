@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-05-11-cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas.md",
+      "title": "Cruise expands supervised self-driving ride-hailing to Houston and Dallas",
+      "excerpt": "Cruise is rolling out its self-driving cars to more cities — specifically, to Houston and Dallas as it expands its Texas-based presence. Cruise already started testing its vehicles in Austin at the end of last year,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/05/10/cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas/",
+      "originalUrl": "https://techcrunch.com/2023/05/10/cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/Ridehail-Rider-Entry.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/05/10/cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/10/cruise-expands-supervised-self-driving-ride-hailing-to-houston-and-dallas/amp/",
+      "publishedDateTime": "2023-05-10T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-10-california-self-driving-technology-company-cruise-making-dallas-debut.md",
       "title": "California self-driving technology company Cruise making Dallas debut",
       "excerpt": "Driverless rides to public riders are expected ... The car feeds the data from the sensors into an artificial intelligence brain that powers the autonomous vehicle, giving real-time feedback.",
@@ -1293,58 +1345,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-29-chatbots-are-digesting-the-internet-the-internet-wants-to-get-paid.md",
-      "title": "Chatbots Are Digesting the Internet. The Internet Wants to Get Paid.",
-      "excerpt": "it’s very likely you have played a part in creating the latest generation of artificial intelligence. Google’s Bard chatbot, OpenAI’s ChatGPT, Microsoft’s OpenAI-powered version of Bing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/chatgpt-ai-artificial-intelligence-openai-personal-writing-5328339a",
-      "originalUrl": "https://www.wsj.com/articles/chatgpt-ai-artificial-intelligence-openai-personal-writing-5328339a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-771262/social",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-29T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

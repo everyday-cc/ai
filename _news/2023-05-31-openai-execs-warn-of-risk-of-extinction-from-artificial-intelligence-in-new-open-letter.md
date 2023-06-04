@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/05/openai-execs-
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/05/openai-execs-warn-of-risk-of-extinction-from-artificial-intelligence-in-new-open-letter/amp/"
 type: article
 quality: 95
-heat: 515
+heat: 505
 published: true
 
 provider:
@@ -285,20 +285,6 @@ related:
       - url: "https://images.techhive.com/images/article/2017/01/p029684001801-819244-100706761-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 552
-        isCached: true
-  - title: "A.I. Poses ‘Risk of Extinction,’ Industry Leaders Warn"
-    excerpt: "Leaders from OpenAI, Google Deepmind, Anthropic and other A.I. labs warn that future systems could be as deadly as pandemics and nuclear weapons."
-    publishedDateTime: 2023-05-30T09:00:00Z
-    webUrl: "https://www.nytimes.com/2023/05/30/technology/ai-threat-warning.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 54
-    images:
-      - url: "https://static01.nyt.com/images/2023/05/30/multimedia/30AI-SAFETY-01-jbhq/30AI-SAFETY-01-jbhq-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Frightening new warning Artificial Intelligence presents 'risk of extinction'"
     excerpt: "Experts are claiming AI should be seen as a \"global priority\" on the same level as a pandemic or nuclear warfare."

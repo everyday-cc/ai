@@ -101,11 +101,11 @@
       "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
       "excerpt": "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face.",
       "sourceUrl": null,
-      "webUrl": "https://abc7news.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "originalUrl": "https://abc7news.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "webUrl": "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "originalUrl": "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -119,13 +119,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abc7news.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "ampWebUrl": "https://abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
       "publishedDateTime": "2023-06-02T05:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC7 San Francisco",
-        "domain": "abc7news.com",
+        "name": "ABC7",
+        "domain": "abc7.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -446,7 +446,7 @@
       "originalUrl": "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -810,6 +810,49 @@
       ]
     },
     {
+      "path": "_news/2023-05-27-japan-ai-startup-launches-robot-for-home-use.md",
+      "title": "Japan AI startup launches robot for home use",
+      "excerpt": "A Japanese artificial intelligence startup has launched a robot for home use capable of delivering items in response to verbal commands, such as bringing dishes and condiments to the dining room ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nippon.com/en/news/kd1035016368149234398/",
+      "originalUrl": "https://www.nippon.com/en/news/kd1035016368149234398/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nippon.com/en/ncommon/contents/category_thumbnails/21/1448659/1448659.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-27T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nippon",
+        "domain": "nippon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-27-open-ai-backed-start-up-deploys-robot-as-security-guard.md",
       "title": "Open AI-backed start-up deploys robot as security guard",
       "excerpt": "The Norway-based robotic start-up deployed the AI-enabled robot as patrolling guard at two manufacturing sites, one in the USA and the other in Europe",
@@ -851,49 +894,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-27-japan-ai-startup-launches-robot-for-home-use.md",
-      "title": "Japan AI startup launches robot for home use",
-      "excerpt": "TOKYO (Kyodo) -- A Japanese artificial intelligence startup has launched a robot for home use capable of delivering items in response to verbal commands, such as bringing dishes and condiments to ...",
-      "sourceUrl": null,
-      "webUrl": "https://mainichi.jp/english/articles/20230527/p2g/00m/0na/018000c",
-      "originalUrl": "https://mainichi.jp/english/articles/20230527/p2g/00m/0na/018000c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mainichi.jp/vol1/2023/05/27/20230527p2g00m0na016000p/0c10.jpg?2",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-27T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "毎日新聞",
-        "domain": "mainichi.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {

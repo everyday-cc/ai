@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/hands-are-more-critical-robot-intelligence-ai
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/hands-are-more-critical-robot-intelligence-ai-says-robotics-ceo?amp"
 type: article
 quality: 90
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.therobotreport.com/wp-content/uploads/2023/06/massrobotics-featured.jpg"
         width: 770
         height: 500
-        isCached: true
-  - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
-    excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ability to respond to questions and commands and interact with people. It's one of hundreds of robots on ..."
-    publishedDateTime: 2023-05-31T14:00:00Z
-    webUrl: "https://www.stltoday.com/news/nation-world/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/90/f904fd40-d989-5782-8c5f-7669aadb68b8/6477381e4afce.preview.jpg?crop=1739%2C914%2C24%2C33&resize=1200%2C631&order=crop%2Cresize"
-        width: 1200
-        height: 631
         isCached: true
 
 secured: "+hDlBQ5Ii4zDm3PMa7tosKTS6qf2xBlegxv6L1+9cRRVtNCmdZoO1dC19jCpD/jK7yd/5M09hxQk25Pm/s4Oc7LufAT40jzEF0+vrb4NUy3ru8Q1AgInZO1g8bcQ42tjlgsh499AgAnepdeGge9sZg7nT8O3UO6vfxady9SQQfO6Gt68AWLeZuYBOz+IG+kMxcQUYRkaW60IHwms8ded4imnaJl5dp/8DTiWa6W/tb9gulcBtraz738RYR4i6L1WRfjHIEIfX6jftz4p5bKYeWZXYb+pkYsOJxdUvWxauvrIYnR5q1RmdcqAdKu7EeGthvXrCkF5FEYPbxDTS+y1Y3tqyrH84+gB89H2abbjnsHWg9HG9VIf1Us8QiEvNReQ5eUUn7ZMd2gSa0YSQHreY+vRucOhl3wkBi596g4Vthe1YRln9oR3RNougW6rxDnEx9mrLV7Xg47f7cHp9Gk1+T2DGliJScuTHYgdMt0AxjGceyLgvmeg/yPSqrs2uY6/5Jr84bvIVxreMZr3pahQmA==;wBJ/8nJ9FMQG+xpOPdsMRQ=="

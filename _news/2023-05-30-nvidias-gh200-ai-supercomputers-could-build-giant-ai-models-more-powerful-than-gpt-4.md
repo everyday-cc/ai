@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia’s new Grace Hopper superchip to fuel its DGX GH200 AI supercomputer"
-    excerpt: "The DGX GH200 AI supercomputer is targeted toward developing and supporting large language models. Google Cloud, Meta, and Microsoft already have access to it."
-    publishedDateTime: 2023-05-30T07:36:00Z
-    webUrl: "https://www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.html"
-    ampWebUrl: "https://www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3697793/nvidia-s-new-grace-hopper-superchip-to-fuel-its-dgx-gh200-ai-supercomputer.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 72
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/05/nvidia-dgx-gh200-100941527-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "What’s Inside Nvidia’s AI Supercomputer? Powerful Chips and a Lot of Memory."
     excerpt: "This past Monday, chip giant Nvidia which has seen its shares nearly triple to over $400 on rising demand for AI, announced its new DGX GH200 AI supercomputer powered by its GH200 Grace Hopper superchips. That’s a lot of letters, numbers, and supers."
     publishedDateTime: 2023-06-02T23:35:00Z
@@ -88,6 +72,31 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "NVIDIA Computex 2023 Keynote Biggest Announcements And Developments"
+    excerpt: "Huang confirmed full volume production of GPU server HGX H100 has begun ... NVIDIA has undoubtedly bet big on the world of AI. However, it hasn't sidelined gamers. The company indicated it ..."
+    publishedDateTime: 2023-05-31T00:56:00Z
+    webUrl: "https://www.gizbot.com/tech-biz/nvidia-computex-2023-keynote-biggest-announcements-developments-ai-gpu-085682.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/tech-biz/nvidia-computex-2023-keynote-biggest-announcements-developments-ai-gpu-085682.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/tech-biz/nvidia-computex-2023-keynote-biggest-announcements-developments-ai-gpu-085682.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 44
+    images:
+      - url: "https://www.gizbot.com/img/1200x60x675/img/2023/05/nvidia-computex-2023-keynote-highlights-1685361407.jpeg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Innodisk empowers smart factories with NVIDIA AI and Metropolis Platforms, and Aetina's SuperEdge AI Training Platforms"
+    excerpt: "Innodisk is collaborating with NVIDIA and Aetina to bring the latest artificial intelligence (AI)-powered industrial digitalization and automated inspection into its factories for advanced electronics manufacturing."
+    publishedDateTime: 2023-05-31T13:51:00Z
+    webUrl: "https://electronics360.globalspec.com/article/19762/innodisk-empowers-smart-factories-with-nvidia-ai-and-metropolis-platforms-and-aetina-s-superedge-ai-training-platforms"
+    type: article
+    provider:
+      name: electronics360.globalspec
+      domain: globalspec.com
+    quality: 0
 
 secured: "rpvuzEY9JXMEBUyRZqi0ANZqle20rFOfFYf78h/PEjZzEuvaBPbkZihgK1aegR8NexAmkUijtCgqM8yT/64qVTDxo8UC8WphEWvfNIje2EW7FRgfb7wDe5rFoB/n6lopFDxaG6r19PHzZsAzg3rwXTDhH4kXYC2f8fqBRs9hQ/xV3hYiomb3eMyg7eEA6aucu27oy9lUVG1iY5t2DcLaP4Rvxi+cjvIjzNHjgV1J2Oh/z90Qhi49KJWM+/zCIfLR9eCb2uy4lwzOiwta9XamCFxApZ8/36VbBNQ2HnZDT2bS1Ju+dPMBvs0AEOg/vAB6m32dmNZfPP8aTVib9CuPzFrQyh/1ShzJ+K6iWA+UH9l/Ml4XKn7NZMsKRBl/FdkdNngHlaYx//+6H/xPKbOJ3UfqQS3YYx8MZccTvIo6ZXVisD+x0GOJHpnbTLTij0uECxgJGZKqOVzU9ywMqlB1KoUxWcPKrmkZKrjPIZ6IFkVkBwBXf/HtUunaBKpFbsxL/bJckeXbYSeFHVt7UQD/dg==;4yC3Vvo/LFLIl/gZR70AiQ=="
 ---

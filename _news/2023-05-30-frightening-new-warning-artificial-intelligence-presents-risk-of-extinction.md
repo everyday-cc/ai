@@ -297,20 +297,6 @@ related:
         width: 1200
         height: 552
         isCached: true
-  - title: "A.I. Poses ‘Risk of Extinction,’ Industry Leaders Warn"
-    excerpt: "Leaders from OpenAI, Google Deepmind, Anthropic and other A.I. labs warn that future systems could be as deadly as pandemics and nuclear weapons."
-    publishedDateTime: 2023-05-30T09:00:00Z
-    webUrl: "https://www.nytimes.com/2023/05/30/technology/ai-threat-warning.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 54
-    images:
-      - url: "https://static01.nyt.com/images/2023/05/30/multimedia/30AI-SAFETY-01-jbhq/30AI-SAFETY-01-jbhq-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Humans risk extinction from AI, Deepmind and OpenAI warn"
     excerpt: "Artificial intelligence bosses say mitigating risk of extinction from AI should be ‘global priority alongside pandemics and nuclear war’"
     publishedDateTime: 2023-05-30T15:01:00Z
