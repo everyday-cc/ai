@@ -39,22 +39,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "IBM unveils the Watsonx Platform to power next-generation foundation models for business"
-    excerpt: "Watsonx is a new platform to be released for foundation models and generative AI, offering a studio, data store, and governance toolkit"
-    publishedDateTime: 2023-05-31T09:03:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/ibm-unveils-the-watsonx-platform-to-power-next-generation-foundation-models-for-business-fhardlvb"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/ibm-unveils-the-watsonx-platform-to-power-next-generation-foundation-models-for-business-fhardlvb?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/ibm-unveils-the-watsonx-platform-to-power-next-generation-foundation-models-for-business-fhardlvb?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 50
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NGMwNzZhZTQtNmFkNS00/1/image0-jpeg.jpeg?f=3%3A2"
-        width: 874
-        height: 583
-        isCached: true
 
 secured: "8rQCdr/GbDSMUqOptJnVf/0BQ6DD7Mxyq3Hjf0WmkF2crEP+P1DwiTKGdFC8U+ztz/Sxbxj+vRrg/ASgnfpK4ZkgIwLKGMVUsV4wkfYyAv44IZewcdzFqc62rN+G0jh8pyt7uUAuViyhb1cJbI3Ov9jqcf4ya42H0ACuzh2g/KdJ+jDbU9Ju9osxKTA135nNOPQlCzQWkOHYU1NYQRPML/WuVkiBIoZM7DdhPiOGfP/HdBK0Rfx9kbbVttfkK2DHpHHjvyFg59aoHSUiFwAQdyJvIQqx5mt2cO1JEn8b5Bb66p4q/HYjGmNYDeEds8mc6tIvm3KOROXwtHqKB4LVomHo7u9rvB5okkcme8pQRXI=;3OppFwneW1VzEL0R7NPHkA=="
 ---

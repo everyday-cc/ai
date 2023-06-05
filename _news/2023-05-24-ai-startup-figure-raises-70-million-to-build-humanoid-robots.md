@@ -1,24 +1,20 @@
 ---
 category: news
 title: "AI startup Figure raises $70 million to build humanoid robots"
-excerpt: "REUTERS/Denis Balibouse May 24 (Reuters) - Figure, a startup that wants to build general-purpose humanoid robots, has raised ... tech investments and AI. She has previously covered M&A for Reuters ..."
-publishedDateTime: 2023-05-24T10:07:00Z
-originalUrl: "https://www.reuters.com/technology/ai-startup-figure-raises-70-million-build-humanoid-robots-2023-05-24/"
-webUrl: "https://www.reuters.com/technology/ai-startup-figure-raises-70-million-build-humanoid-robots-2023-05-24/"
+excerpt: "May 24 (Reuters) - Figure, a startup that wants to build general-purpose humanoid robots, has raised $70 million from investors led by Parkway Venture Capital in its first external round ..."
+publishedDateTime: 2023-05-24T15:18:00Z
+originalUrl: "https://www.nasdaq.com/articles/ai-startup-figure-raises-$70-million-to-build-humanoid-robots"
+webUrl: "https://www.nasdaq.com/articles/ai-startup-figure-raises-$70-million-to-build-humanoid-robots"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "zGSFFXaoe65BA80swOhY1ipU4yWdIEuc0sevpK7VoZjpotoLJpz++0r1CxdYmVMTgS243fxNv1wo6yJEwT6Ag1slP57xfj6uvCB5xBUxg0GyDfF1mPMkRVQJoI998ww/H0rldeReyvm6k+F1zI2zCmQT1gLLbsHJrM5jo/5H/qQ7ISbX4lKhFu/gO+mJx5fi6vAOeLGhYXzd/p/oMPzpsts9BURgbDgpdh23EDqdlo4XAw+Nbvw5LmP8CcJK42LzdJ0kheVw2qIU6dM1cPYkaDdRIfPAtIkn0HPec0WyhGg1FnN86QgelGiwzTVhh7H6HNr18TF0e6tZdIof/xhAJZcWaJoHbFG0VvSgUvicavk=;nQjVWGIfuU1qWCMWfq541w=="
+secured: "UXKcC/Cv3fjHx1O17VjmT1AU6nBleP5+Aq/TDeF4ZCY7jrWV8tlRIcATvdMWYQM1PNdAM8+OtW8TqRo2408ZgSmEnHxUNV0PH+7gk/8DvYd2OxKIj2hM8bcr2/doz21sjafXWPGcxwJCGB/s4VNlRJqgCUa1mhclSqtPQdQQU8q9QjcjAp+yvR8QxJGEuesGZflYOFPTp2Og3l+9btSsWtnoUKXaSxYfoy1nU+SjZovSr5F3PeyvuUreZrGlxlWSmXQKwifkQA4FDb4S9KtDJZOCF/wXlNMUa170gvHenEiINcCVPJ6euJzSxmfqAUAtZSTbbiEC1Rv5bi8VhrCsNcdQn3etXRLNvKxuSmaAc1A=;1pKEOlryyoc/DqrBpzYZ/w=="
 ---
 

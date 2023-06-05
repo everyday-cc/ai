@@ -54,59 +54,6 @@
       ]
     },
     {
-      "path": "_news/2023-06-02-generative-ai-startup-runway-taps-google-to-lead-a-100-million-funding-round-and-sign-a-major-cloud-contract.md",
-      "title": "Generative AI startup Runway taps Google to lead a $100 million funding round and sign a major cloud contract",
-      "excerpt": "This is the latest example of a cloud provider making a significant investment in a generative AI startup as tools like ChatGPT become popular.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-runway-ai-invests-generative-startup-cloud-contract-2023-5",
-      "originalUrl": "https://www.businessinsider.com/google-runway-ai-invests-generative-startup-cloud-contract-2023-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6447ec3f6001ce00190644ca?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2023-06-02-top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative.md",
       "title": "Top AI researcher dismisses AI ‘extinction’ fears, challenges ‘hero scientist’ narrative",
       "excerpt": "Kyunghyun Cho, a prominent AI researcher and associate professor at NYU, expressed frustration with the current discourse around AI risk.",
@@ -1503,6 +1450,58 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-05-11-better-ai-stock-nvidia-vs-amd.md",
+      "title": "Better AI Stock: Nvidia vs. AMD",
+      "excerpt": "Grand View Research forecasts the generative AI market to clock annual growth ... a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/05/10/better-ai-stock-nvidia-vs-amd/",
+      "originalUrl": "https://www.fool.com/investing/2023/05/10/better-ai-stock-nvidia-vs-amd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/731445/chatbot-smartphone-person.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-10T11:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     }
   ],

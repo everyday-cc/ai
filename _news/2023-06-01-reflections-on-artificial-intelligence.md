@@ -112,20 +112,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "AI pioneers claim AI could bring about the extinction of humanity"
-    excerpt: "The Centre for AI Safety has published a statement that emphasises the need for implementing appropriate AI risk-reducing controls."
-    publishedDateTime: 2023-05-31T07:51:00Z
-    webUrl: "https://www.ibtimes.co.uk/ai-pioneers-claim-ai-could-bring-about-extinction-humanity-1716236"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 39
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1715771/artificial-intelligence.png"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "The Revolutionary Potential of Humane's Wearable AI"
     excerpt: "A Revolutionary Concept or Just Hype? Humane, a secretive tech startup founded by former Apple veterans, recently unveiled its wearable AI technology that it's been working on. The company has been shrouded in secrecy for over a year,"
     publishedDateTime: 2023-06-01T09:29:00Z

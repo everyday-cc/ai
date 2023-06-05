@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2023-05-31/nvidia-is-so
 webUrl: "https://www.bloomberg.com/news/newsletters/2023-05-31/nvidia-is-soaring-ai-chip-rival-graphcore-can-barely-get-off-the-ground"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia’s AI-Driven Boom Puts Korea In Odd Place"
-    excerpt: "South Korea is experiencing a bit of dumb luck as the artificial intelligence-driven stock boom lifts Seoul’s equity market."
-    publishedDateTime: 2023-05-31T07:24:00Z
-    webUrl: "https://www.forbes.com/sites/williampesek/2023/05/31/nvidias-ai-driven-boom-puts-korea-in-odd-place/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6476eb8534b28c816e7b69d7/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Nvidia Bulls Are Way Overestimating AI GPU Demand"
     excerpt: "Given past GPU needs, capturing the entire AI large language model market would increase revenue by $16 billion at the high end. However, this doesn't factor in recent research released in the ..."
     publishedDateTime: 2023-05-31T13:16:00Z

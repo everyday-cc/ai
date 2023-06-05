@@ -2,6 +2,84 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2023-04-06-ai-company-harvested-billions-of-facebook-photos-for-a-facial-recognition-database-it-sold-to-police.md",
+      "title": "AI company harvested billions of Facebook photos for a facial recognition database it sold to police",
+      "excerpt": "Artificial intelligence is having a cultural moment ... scraped from social media platforms like Facebook and provided them to U.S. law enforcement. The CEO also said that the database has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.salon.com/2023/04/06/ai-company-harvested-billions-of-facebook-photos-for-a-facial-recognition-database-it-sold-to-police/",
+      "originalUrl": "https://www.salon.com/2023/04/06/ai-company-harvested-billions-of-facebook-photos-for-a-facial-recognition-database-it-sold-to-police/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2019/01/facial-recognition2.jpg",
+          "width": 1200,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Salon",
+        "domain": "salon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-meta-unveils-ai-model-for-object-detection-and-largest-dataset-of-its-kind.md",
+      "title": "Meta unveils AI model for object detection and largest dataset of its kind",
+      "excerpt": "Meta has announced the release of an artificial intelligence model that is capable of identifying specific objects within an image. Alongside the model, Meta has also published a dataset of image ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/meta-unveils-ai-model-for-object-detection-and-largest-dataset-of-its-kind-11680750682182.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/meta-unveils-ai-model-for-object-detection-and-largest-dataset-of-its-kind-11680750682182.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-06-alphabet-says-googles-latest-ai-chip-is-17-times-faster-than-nvidia-theres-a-catch.md",
       "title": "Alphabet Says Google's Latest AI Chip is 1.7 Times Faster Than Nvidia. There's a Catch.",
       "excerpt": "Early last year, Nvidia announced the development of the H100 \"Hopper\" chip, which the company said would be nine times faster for training AI models and up to 30 times faster for inference -- the ...",
@@ -934,74 +1012,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-meta-reveals-ai-tool-to-help-brands-target-facebook-instagram-users.md",
-      "title": "Meta Reveals AI Tool to Help Brands Target Facebook, Instagram Users",
-      "excerpt": "Meta’s recent embrace of AI is only growing, with new plans for generative ads—and Meta’s CTO thinks AI will help power the metaverse, too.",
-      "sourceUrl": null,
-      "webUrl": "https://decrypt.co/125512/meta-reveals-ai-tool-help-brands-target-facebook-instagram-users",
-      "originalUrl": "https://decrypt.co/125512/meta-reveals-ai-tool-help-brands-target-facebook-instagram-users",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!Finance",
-        "domain": "decrypt.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-masters-app-website-rolling-out-generative-ai-commentary.md",
-      "title": "Masters app, website rolling out generative AI commentary",
-      "excerpt": "The Masters, in a joint activation with IBM, will not only stream every shot from every round once players tee off tomorrow but will also include generative AI commentary based on Augusta National -specific machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sportsbusinessjournal.com/SB-Blogs/SBJ-Power-Up/2023/04/05/Masters.aspx",
-      "originalUrl": "https://www.sportsbusinessjournal.com/SB-Blogs/SBJ-Power-Up/2023/04/05/Masters.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sports Business Journal",
-        "domain": "sportsbusinessjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

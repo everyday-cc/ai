@@ -74,20 +74,6 @@ related:
         width: 1200
         height: 562
         isCached: true
-  - title: "Microsoft thoughts on the future of AI"
-    excerpt: "Eric Horvitz Chief Scientific Officer at Microsoft has taken to the official Microsoft blog this week to write an article on the future of AI and the"
-    publishedDateTime: 2023-05-31T08:58:00Z
-    webUrl: "https://www.geeky-gadgets.com/the-future-of-ai-31-05-2023/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/the-future-of-AI.jpg"
-        width: 700
-        height: 475
-        isCached: true
   - title: "Localization Professionals Mourn the Demise of Microsoft’s Language Portal"
     excerpt: "Readers chime in on OpenAI’s GPT trademark, language companies’ ownership of language tools, and integrating large language models."
     publishedDateTime: 2023-06-01T08:30:00Z

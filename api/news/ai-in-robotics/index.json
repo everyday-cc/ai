@@ -10,7 +10,7 @@
       "originalUrl": "https://www.fox9.com/news/ai-cost-nearly-4000-people-in-the-u-s-their-jobs-report-says",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -99,19 +99,19 @@
     {
       "path": "_news/2023-06-02-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
       "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
-      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said.",
+      "excerpt": "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972",
+      "webUrl": "https://abc13.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "originalUrl": "https://abc13.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -119,13 +119,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972",
-      "publishedDateTime": "2023-06-02T03:17:00-07:00",
+      "ampWebUrl": "https://abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "cdnAmpWebUrl": "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
+      "publishedDateTime": "2023-06-02T05:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
+        "name": "abc13",
+        "domain": "abc13.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -511,6 +511,40 @@
       "provider": {
         "name": "SiliconANGLE",
         "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
+      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
+      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/world/article/what-s-new-in-robots-an-ai-powered-humanoid-18125979.php",
+      "originalUrl": "https://www.chron.com/news/world/article/what-s-new-in-robots-an-ai-powered-humanoid-18125979.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1332,49 +1366,6 @@
       "provider": {
         "name": "Cold Lake Sun",
         "domain": "coldlakesun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-ai-startup-figure-raises-70-mn-to-build-humanoid-robots.md",
-      "title": "AI startup Figure raises $70 mn to build humanoid robots",
-      "excerpt": "Figure, a startup that wants to build general-purpose humanoid robots, has raised $70 million from investors led by Parkway Venture Capital in its first external round. Figure will use the VC ...",
-      "sourceUrl": null,
-      "webUrl": "https://infotechlead.com/tech/ai-startup-figure-raises-70-mn-to-build-humanoid-robots-78521",
-      "originalUrl": "https://infotechlead.com/tech/ai-startup-figure-raises-70-mn-to-build-humanoid-robots-78521",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://infotechlead.com/wp-content/uploads/2015/11/Robot.jpg",
-          "width": 639,
-          "height": 402,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://infotechlead.com/tech/ai-startup-figure-raises-70-mn-to-build-humanoid-robots-78521?amp=1",
-      "cdnAmpWebUrl": "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/tech/ai-startup-figure-raises-70-mn-to-build-humanoid-robots-78521?amp=1",
-      "publishedDateTime": "2023-05-24T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "infotechlead",
-        "domain": "infotechlead.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Travel This Summer With These 6 Fun Google And ChatGPT AI Companions"
+    excerpt: "Can AI plan three perfect days in Tokyo? You bet. Here's a look at the new chat features from Expedia, Kayak, SnapChat, Google Bard, ChatGPT Mobile and Roam Around."
+    publishedDateTime: 2023-06-04T01:08:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2023/06/03/top-6-ai-companions-to-plan-epic-summer-travel-from-google-and-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/06/03/top-6-ai-companions-to-plan-epic-summer-travel-from-google-and-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/06/03/top-6-ai-companions-to-plan-epic-summer-travel-from-google-and-chatgpt/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647bd1788c78818aad0b6f67/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Character.AI, the a16z-backed chatbot startup, tops 1.7M installs in first week"
     excerpt: "Demand for AI via consumer mobile apps has been climbing, with market leader OpenAI's ChatGPT mobile app topping half a million downloads in its first six days."
     publishedDateTime: 2023-05-31T23:47:00Z
@@ -95,6 +111,29 @@ related:
       - url: "https://talkbusiness.net/wp-content/uploads/2023/06/alphabot-machine-walmart.jpg"
         width: 1200
         height: 626
+        isCached: true
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ..."
+    publishedDateTime: 2023-05-31T19:27:00Z
+    webUrl: "https://techcrunch.com/2023/05/31/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 49
+  - title: "3 ChatGPT productivity hacks that’ll change the way you use AI"
+    excerpt: "ChatGPT can be used to improve productivity at work for specific tasks that might require repetition - here are a few use cases."
+    publishedDateTime: 2023-06-03T14:33:00Z
+    webUrl: "https://bgr.com/tech/3-chatgpt-productivity-hacks-thatll-change-the-way-you-use-ai/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/04/rsz_gettyimages-1252207238.jpg?quality=82&strip=all"
+        width: 2500
+        height: 1668
         isCached: true
 
 secured: "J3jYSopxWDOqD97LwGf2tLArxkGaRmjkObe0mStmtQj1eDQufagZss2QaSKzRfKtmkg5gZNpAyZSZOY1nrua/fBun0YDgOC7WBD8IUaxzyLwuVxAn3KjoVJ2qYz4Y5NcqaaQnu6bW7HW4vZhxFl62C1J17rVi9AdRkuOk9QxMUmhQobK9dgyc2FIf8v5phvZEf0zqLbxisvBcgJKkjYoRK+E3x7uEZmH1S9gVk7ybPQ0y/sZVcvsO/kt7aan+SqLZMSG+2M8J3SsQL/gThoOvtlDsXmBOfTkvtKMjSX6/9RXFcFZzn/p1gu3/UnoWiN41be65mjo4EpSfxcFMx8pL4wb4bT5EfJyZ7pucGAUNYGe1inljRbdfij6VgekawQX+T2JZQZj4njWDEZpKVw2Wg4GtQThxmjV2Im1ipVTC7YOaUQT/MtxDOJ/y6B2BcoCagiyT2OvH9XpKxMozIqE/0gc0eHkRwjTNhSjV2CaErzefylQnYsSLyAfZ9Rw8wVKi6RkiD4Ozk/gKfyKtZCbeQ==;IDo/jxSh2m87Na47owbu/Q=="

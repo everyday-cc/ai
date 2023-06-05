@@ -2,6 +2,111 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2023-05-08-securing-mlflow-in-aws-fine-grained-access-control-with-aws-native-services.md",
+      "title": "Securing MLflow in AWS: Fine-grained access control with AWS native services",
+      "excerpt": "With Amazon SageMaker, you can manage the whole end-to-end machine learning (ML) lifecycle. It offers many native capabilities to help manage ML workflows aspects, such as experiment tracking, and model governance via the model registry. This post provides a solution tailored to customers that are already",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/securing-mlflow-in-aws-fine-grained-access-control-with-aws-native-services/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/securing-mlflow-in-aws-fine-grained-access-control-with-aws-native-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/02/ML-12213-mlflow_architecture-958x630.png",
+          "width": 958,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T10:12:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-08-host-ml-models-on-amazon-sagemaker-using-triton-tensorrt-models.md",
+      "title": "Host ML models on Amazon SageMaker using Triton: TensorRT models",
+      "excerpt": "Sometimes it can be very beneficial to use tools such as compilers that can modify and compile your models for optimal inference performance. In this post, we explore TensorRT and how to use it with Amazon SageMaker inference using NVIDIA Triton Inference Server. We explore how TensorRT works and how",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-tensorrt-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-tensorrt-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/08/host-ml-models-triton-tensorrt-1260x630.jpg",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T10:04:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-05-08-alex-jones-furious-after-falling-for-ai-generated-tucker-carlson-prank-call.md",
       "title": "Alex Jones Furious After Falling For AI-Generated Tucker Carlson Prank Call",
       "excerpt": "Conspiracy theorist Alex Jones went on a rant after being pranked by content creator Chris James, known as \"Prank Stallone.\"",
@@ -1098,92 +1203,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-the-state-of-attention-where-is-attention-led-advertising-going.md",
-      "title": "The State Of Attention: Where Is Attention-Led Advertising Going?",
-      "excerpt": "While there is a general acceptance that attention is the future of digital ad measurement, what is still under debate is how it should be calculated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/08/the-state-of-attention-where-is-attention-led-advertising-going/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/08/the-state-of-attention-where-is-attention-led-advertising-going/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6455020d99dbf6b8c49c02fc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/05/08/the-state-of-attention-where-is-attention-led-advertising-going/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/05/08/the-state-of-attention-where-is-attention-led-advertising-going/amp/",
-      "publishedDateTime": "2023-05-08T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-08-heres-what-the-godfather-of-ai-has-to-say-on-the-dangers-of-artificial-intelligence.md",
-      "title": "Here's what the 'Godfather of AI' has to say on the dangers of artificial intelligence",
-      "excerpt": "Hinton mentioned that there's a recommendation on what people should do but when it comes to AI, there are no recommendations as of now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.headlinestoday.in/technology/heres-what-the-godfather-of-ai-has-to-say-on-the-dangers-of-artificial-intelligence-544949246.html",
-      "originalUrl": "https://www.headlinestoday.in/technology/heres-what-the-godfather-of-ai-has-to-say-on-the-dangers-of-artificial-intelligence-544949246.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-08T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "headlinestoday",
-        "domain": "headlinestoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

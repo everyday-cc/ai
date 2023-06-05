@@ -68,20 +68,6 @@ related:
         width: 1200
         height: 562
         isCached: true
-  - title: "Microsoft thoughts on the future of AI"
-    excerpt: "Eric Horvitz Chief Scientific Officer at Microsoft has taken to the official Microsoft blog this week to write an article on the future of AI and the"
-    publishedDateTime: 2023-05-31T08:58:00Z
-    webUrl: "https://www.geeky-gadgets.com/the-future-of-ai-31-05-2023/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/the-future-of-AI.jpg"
-        width: 700
-        height: 475
-        isCached: true
   - title: "Azure Machine Learning integrates with Snowflake data"
     excerpt: "End users of Snowflake can now seamlessly integrate their data into Azure Machine Learning (Azure ML) for training this data for AI models. Azure ML's"
     publishedDateTime: 2023-06-01T08:28:00Z

@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "This 26-Year-Old Has Raised Another $28 Million To Build An AI Assistant For The Workplace"
+    excerpt: "Stockholm-based learning platform Sana has announced a suite of generative AI tools along with an extension to its Series B round, bringing its total funding to $80"
+    publishedDateTime: 2023-05-31T15:32:00Z
+    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/05/31/this-26-year-old-has-raised-another-28-million-to-build-an-ai-assistant-for-the-workplace/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 57
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647765a27cd337408abdbfe4/0x0.jpg?format=jpg&crop=3823,2868,x0,y729,safe&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Hyro, a conversational AI startup for enterprise, raised $20 million in new funding using this 15-slide pitch deck"
     excerpt: "Hyro, an AI tool for enterprise users like healthcare providers, has brought in new funding to build out its conversational AI products."
     publishedDateTime: 2023-05-31T14:00:00Z

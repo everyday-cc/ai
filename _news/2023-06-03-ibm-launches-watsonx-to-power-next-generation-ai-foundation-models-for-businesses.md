@@ -7,8 +7,8 @@ originalUrl: "https://www.kbc.co.ke/ibm-launches-watsonx-to-power-next-generatio
 webUrl: "https://www.kbc.co.ke/ibm-launches-watsonx-to-power-next-generation-ai-foundation-models-for-businesses/"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Kenya Broadcasting Corporation
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM unveils the Watsonx Platform to power next-generation foundation models for business"
-    excerpt: "Watsonx is a new platform to be released for foundation models and generative AI, offering a studio, data store, and governance toolkit"
-    publishedDateTime: 2023-05-31T09:03:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/ibm-unveils-the-watsonx-platform-to-power-next-generation-foundation-models-for-business-fhardlvb"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/ibm-unveils-the-watsonx-platform-to-power-next-generation-foundation-models-for-business-fhardlvb?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/ibm-unveils-the-watsonx-platform-to-power-next-generation-foundation-models-for-business-fhardlvb?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 50
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NGMwNzZhZTQtNmFkNS00/1/image0-jpeg.jpeg?f=3%3A2"
-        width: 874
-        height: 583
-        isCached: true
   - title: "IBM Launches Watsonx to Power Next-Generation AI Foundation Models for Businesses"
     excerpt: "Kindly share this postIBM has announced IBM watsonx, a new AI and data platform that will enable enterprises to scale and accelerate the impact of the most advanced AI with trusted data. Enterprises turning to AI today need access to a full technology stack that enables them to train,"
     publishedDateTime: 2023-05-31T23:07:00Z

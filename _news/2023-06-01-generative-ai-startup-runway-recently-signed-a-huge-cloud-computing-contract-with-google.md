@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/google-cloud-runway-generative-ai-
 webUrl: "https://www.businessinsider.com/google-cloud-runway-generative-ai-startup-contract-2023-5"
 type: article
 quality: 60
-heat: -1
-published: false
+heat: 100
+published: true
 
 provider:
   name: Business Insider
@@ -29,101 +29,57 @@ images:
     isCached: true
 
 related:
-  - title: "Cloud computing firm CoreWeave raises another $200 mln amid AI boom"
-    excerpt: "Specialized cloud computing provider CoreWeave has raised $200 million in funding from its existing investor Magnetar Capital, highlighting investor interest in backing infrastructure powering the generative AI boom."
-    publishedDateTime: 2023-05-31T09:02:00Z
-    webUrl: "https://www.reuters.com/technology/cloud-computing-firm-coreweave-raises-another-200-mln-amid-ai-boom-2023-05-31/"
+  - title: "Google Invests in AI Startup Runway to Wrest Cloud Business From AWS"
+    excerpt: "Google is investing in Runway, a New York–based startup that lets customers generate video from text descriptions using artificial intelligence it pioneered, at a valuation of around $1.5 billion including the new capital,"
+    publishedDateTime: 2023-05-31T21:48:00Z
+    webUrl: "https://www.theinformation.com/articles/google-invests-in-ai-startup-runway-to-wrest-cloud-business-from-aws"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 71
+      name: The Information
+      domain: theinformation.com
+    quality: 54
     images:
-      - url: "https://s3.amazonaws.com/arc-authors/reuters/2f90d562-60d3-41b2-a40c-bc52d8bcd4a7.png"
-        width: 720
-        height: 719
+      - url: "https://tii.imgix.net/production/articles/10624/dc3a7145-40e1-4de6-8155-f1e313c7c6ea.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Microsoft pens AI cloud computing deal with former Ethereum miner CoreWeave: CNBC"
-    excerpt: "With more than $400 million worth of funding raised in 2023, and a supposed Microsoft deal on the books, CoreWeave has grown significantly since pivoting from Ethereum mining."
-    publishedDateTime: 2023-06-03T02:19:00Z
-    webUrl: "https://cointelegraph.com/news/microsoft-pens-ai-cloud-computing-deal-with-core-weave"
-    ampWebUrl: "https://cointelegraph.com/news/microsoft-pens-ai-cloud-computing-deal-with-core-weave/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/microsoft-pens-ai-cloud-computing-deal-with-core-weave/amp"
+  - title: "Generative AI startup Runway taps Google to lead a $100 million funding round and sign a major cloud contract"
+    excerpt: "This is the latest example of a cloud provider making a significant investment in a generative AI startup as tools like ChatGPT become popular."
+    publishedDateTime: 2023-06-01T20:29:00Z
+    webUrl: "https://www.businessinsider.com/google-runway-ai-invests-generative-startup-cloud-contract-2023-5"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 69
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
     images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/75e42a10-f7e8-4c95-a097-723db263e3b9.jpg"
-        width: 740
-        height: 492
+      - url: "https://i.insider.com/6447ec3f6001ce00190644ca?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Microsoft signs multi-billion dollar deal with GPU cloud provider CoreWeave to meet AI needs"
-    excerpt: "CoreWeave is a specialized cloud provider built for large-scale GPU-accelerated workloads. The company raised $200 million earlier this week - just a month after it raised $221m a"
-    publishedDateTime: 2023-06-02T10:35:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-signs-multi-billion-dollar-deal-with-gpu-cloud-provider-coreweave-to-meet-ai-needs/"
+  - title: "Google invests in generative AI startup Runway, gets it as a cloud customer"
+    excerpt: "Google has invested in generative AI startup Runway in a deal that values the company at around $1.5 billion. The investment, which was part of a $100m funding round, also means that Runway will now use Google Cloud as its preferred cloud provider,"
+    publishedDateTime: 2023-06-02T16:58:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/google-invests-in-generative-ai-startup-runway-gets-it-as-a-cloud-customer/"
     type: article
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 60
+    quality: 35
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://media.datacenterdynamics.com/media/images/Google_Data_Center.2e16d0ba.fill-1200x630.jpg"
+        width: 660
+        height: 348
         isCached: true
-  - title: "This 26-Year-Old Has Raised Another $28 Million To Build An AI Assistant For The Workplace"
-    excerpt: "Stockholm-based learning platform Sana has announced a suite of generative AI tools along with an extension to its Series B round, bringing its total funding to $80"
-    publishedDateTime: 2023-05-31T15:32:00Z
-    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/05/31/this-26-year-old-has-raised-another-28-million-to-build-an-ai-assistant-for-the-workplace/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 57
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647765a27cd337408abdbfe4/0x0.jpg?format=jpg&crop=3823,2868,x0,y729,safe&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "GPU Cloud Provider CoreWeave Secures $200M Series B Extension"
-    excerpt: "CoreWeave, a specialized cloud provider built for large-scale GPU-accelerated workloads, today announced an additional $200 million in funding from Magnetar Capital (“Magnetar”), a leading alternative asset manager."
-    publishedDateTime: 2023-05-31T19:59:00Z
-    webUrl: "https://insidehpc.com/2023/05/gpu-cloud-provider-coreweave-secures-200m-series-b-extension/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2022/05/cloud-computing-shutterstock-622863563.jpg"
-        width: 500
-        height: 334
-        isCached: true
-  - title: "Specialized Cloud Provider CoreWeave Rides AI Wave To Another $200M Round"
-    excerpt: "CoreWeave, an AI cloud infrastructure company, has raised another $200 million in a Series B extension funding round that values it at $2 billion"
-    publishedDateTime: 2023-05-31T16:50:00Z
-    webUrl: "https://news.crunchbase.com/cloud/ai-coreweave-funding-venture/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 38
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Cloud_Computing.jpg"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "GPU-accelerated cloud provider CoreWeave secures $200M led by Magnetar Capital"
-    excerpt: "CoreWeave Inc., a cloud compute provider that specializes in large-scale graphics processing unit-accelerated workloads, announced today that it has raised $200 million in additional funding from Magnetar Capital."
-    publishedDateTime: 2023-05-31T17:54:00Z
-    webUrl: "https://siliconangle.com/2023/05/31/gpu-accelerated-cloud-provider-coreweave-secures-200m-led-magnetar-capital/"
+  - title: "Google reportedly invests in generative AI startup Runway at $1.5B valuation"
+    excerpt: "Google LLC has reportedly invested in Runway AI Inc., a New York-based startup that develops generative artificial intelligence models. The Information reported the deal on Wednesday, citing two sources familiar with the matter."
+    publishedDateTime: 2023-06-01T18:33:00Z
+    webUrl: "https://siliconangle.com/2023/06/01/google-reportedly-invests-generative-ai-startup-runway-1-5b-valuation/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 15
+    quality: 16
 
 secured: "q0mOaKz2mu9sNfuwn6l5alxuOxLpAWAwC38Wblc102tP0/tkxky8y37xwuTNfsthwTqfRUwMKHmwVBO6y0LhTR+dGlFAdiOjpTy/4tukQcVklfqifkkyUevp2uBTgVRpfXcsP3NPpFMHKFOfhztrbY18625IWpEUkiKncKR02mRcI+v6CTxGg+kt9emFt4blOozHdQblY00Nic8ybb+plcZ/75eAZo+I1AF7u5y2mscwcmXWUTccDdqtcPzjJH8C2qhheUpmaYwe6f+ojqXJuy4crMFTCoqCY7ehohhlAPH+GNilIr7OjTt4gFze6iRO8P47VzrgfNYc8pG0ag0km351AyVd41glDgJ2cvA2ouDP+IXBLocZI3ds24tqjQCdZxz5tDzelUA4gPvEaGszoLbIw7dFQsz8q0R8FKNTsphNkJP2a64kuw+ToJAZv/D4qO/O3smEm441gG2EPCVd92eb2MX2jMkrvnH9GMoNqhTUDXfUu2Nw/U5BRQQ8aK5jJqcudi+ODoIG5chhIh/9Ug==;A9slrQaNmZidWiILm+iSIg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-06-qa-professor-discusses-chatgpt-i
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-qa-professor-discusses-chatgpt-inspired-large.amp"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1920
     height: 1358
     isCached: true
+
+related:
+  - title: "This ChatGPT-inspired large language model speaks fluent finance"
+    excerpt: "Mark Dredze, associate professor of computer science, discusses BloombergGPT, the first large language model built specifically for the finance industry"
+    publishedDateTime: 2023-05-31T18:44:00Z
+    webUrl: "https://hub.jhu.edu/2023/05/31/ai-chatbot-speaks-finance/"
+    type: article
+    provider:
+      name: HUB
+      domain: jhu.edu
+    quality: 21
 
 secured: "6uJijBKhZKUUFpcBZcTc2aGj0GOCyzdpT+CmLe/1mbL9j1fR2DX5EaUvaeqK0ibMLkKRc7IWMGHRS+8LsBJ9tYS2E4At/gLyQfmWpbRySeU/6FST1yszhy/E4KZeZY4+mEjth3Mjpt9wNLAxfrmzpbKRTYfzb6Ly1jMEdDMJMkMUFlEnaKiudiw+cDF9vSB53um55zxrrllhiwD9FnuvVSSvLzk60un+mXw1F5247jjcoJ9o6rbaoJI1P522akZmfhg07tLY/te4vXQJv9VJTMMKWpO7auUyDZOWJQosPoDsjSiSkawEYoGL4jGIb1//WXSt8EnykgTXp+W9e5QPoC1jsyz0jtkwWFQ2LSEWzG9NMUyEertj7WZ/OwIuuwJoVYzRpuJW+w2IJnkOcd96hMPZdvxmVqmWPLZa0SPDE49x51lxzHoYPQwxiK/MvMtTfx0iWJpSDt38YLLCOTWbLA3+W1EXrMJsnqG51XkB/JhOmzclA5fD94UCPuiqDC+xy+w/nk5aprCSJouZn8u69A==;XJmFFcDSwNHumCd+rMdFFA=="
 ---

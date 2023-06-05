@@ -2,6 +2,134 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-05-24-opera-takes-on-edge-by-adding-its-own-browser-ai.md",
+      "title": "Opera takes on Edge by adding its own browser AI",
+      "excerpt": "Opera’s browser AI is currently available for both desktop and mobile. However, if you want to try it out, you’ll need to download the developer version of Opera One for deskt",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/opera-browser-ai-aria-3328726/",
+      "originalUrl": "https://www.androidauthority.com/opera-browser-ai-aria-3328726/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/05/Aria-Cover-Image.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-ai-startup-figure-raises-70-million-to-build-humanoid-robots.md",
+      "title": "AI startup Figure raises $70 million to build humanoid robots",
+      "excerpt": "May 24 (Reuters) - Figure, a startup that wants to build general-purpose humanoid robots, has raised $70 million from investors led by Parkway Venture Capital in its first external round ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ai-startup-figure-raises-$70-million-to-build-humanoid-robots",
+      "originalUrl": "https://www.nasdaq.com/articles/ai-startup-figure-raises-$70-million-to-build-humanoid-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-24-the-right-to-react-to-harmful-speech.md",
+      "title": "The right to react to harmful speech",
+      "excerpt": "SCC dismisses a defamation action using anti-SLAPP law, and highlighting the public interest in protecting counter-speech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationalmagazine.ca/en-ca/articles/law/in-depth/2023/the-right-to-react-to-harmful-speech",
+      "originalUrl": "https://www.nationalmagazine.ca/en-ca/articles/law/in-depth/2023/the-right-to-react-to-harmful-speech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nationalmagazine.ca/MediaGallery/NM/NationalMagazine/Articles/Law/Judiciary/SCC1-ARTICLE768.jpg?ext=.jpg\r\n",
+          "width": 769,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-24T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nationalmagazine",
+        "domain": "nationalmagazine.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-24-deep-robotics-launches-lite3-quadruped-robot-with-advanced-front-flipping-mobility.md",
       "title": "DEEP Robotics launches Lite3 quadruped robot with advanced front flipping mobility",
       "excerpt": "DEEP Robotics Co. has announced the launch in Europe of the newest version of its dexterous intelligent robot dog, Lite3.",
@@ -604,49 +732,6 @@
       ]
     },
     {
-      "path": "_news/2023-05-24-ai-startup-figure-raises-70-million-to-build-humanoid-robots.md",
-      "title": "AI startup Figure raises $70 million to build humanoid robots",
-      "excerpt": "REUTERS/Denis Balibouse May 24 (Reuters) - Figure, a startup that wants to build general-purpose humanoid robots, has raised ... tech investments and AI. She has previously covered M&A for Reuters ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ai-startup-figure-raises-70-million-build-humanoid-robots-2023-05-24/",
-      "originalUrl": "https://www.reuters.com/technology/ai-startup-figure-raises-70-million-build-humanoid-robots-2023-05-24/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-24T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-24-ai-startup-figure-raises-70-million-for-humanoid-robot.md",
       "title": "AI Startup Figure Raises $70 Million for Humanoid Robot",
       "excerpt": "AI robotics startup Figure raised $70 million to help develop a humanoid robot that it believes could one day take on a wide range of tasks traditionally performed by people.",
@@ -1081,82 +1166,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-ai-startup-anthropic-raises-450m-for-safety-focused-chatbot.md",
-      "title": "AI startup Anthropic raises $450M for safety-focused chatbot",
-      "excerpt": "Anthropic, an artificial intelligence startup positioning itself as the builder of a safer kind of chatbot, said it raised $450 million in funding to bolster the development of its AI bot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/",
-      "originalUrl": "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-startup-anthropic-raises-450m-for-safety-focused-chatbot/?amp=1",
-      "publishedDateTime": "2023-05-23T22:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-24-red-hat-charges-into-hybrid-cloud-ai-with-openshift-ai-all-you-need-to-know.md",
-      "title": "Red Hat Charges Into Hybrid Cloud AI with OpenShift AI!: All You Need To Know",
-      "excerpt": "Expanding on their battle-hardened OpenShift and OpenShift Data Science suites, they are now providing a robust and scalable foundation for IT operations to adopt AI and exploit its benefits. , Technology & Science News,",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/technology-science/red-hat-charges-into-hybrid-cloud-ai-with-openshift-ai-all-you-need-to-know-article-100464980",
-      "originalUrl": "https://www.timesnownews.com/technology-science/red-hat-charges-into-hybrid-cloud-ai-with-openshift-ai-all-you-need-to-know-article-100464980",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tnn.in/thumb/msid-100464980,updatedat-1684906257646,width-1280,height-720,resizemode-75/100464980.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/technology-science/red-hat-charges-into-hybrid-cloud-ai-with-openshift-ai-all-you-need-to-know-article-100464980/amp",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/red-hat-charges-into-hybrid-cloud-ai-with-openshift-ai-all-you-need-to-know-article-100464980/amp",
-      "publishedDateTime": "2023-05-23T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

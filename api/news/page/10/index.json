@@ -2,6 +2,92 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-05-26-a-new-antibiotic-discovered-with-artificial-intelligence-may-defeat-a-dangerous-superbug.md",
+      "title": "A new antibiotic, discovered with artificial intelligence, may defeat a dangerous superbug",
+      "excerpt": "Using artificial intelligence, researchers say, they’ve found a new type of antibiotic that works against a particularly menacing drug-resistant bacteria. When they tested the antibiotic on the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/05/25/health/antibiotic-artificial-intelligence-superbug/index.html",
+      "originalUrl": "https://www.cnn.com/2023/05/25/health/antibiotic-artificial-intelligence-superbug/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230525180540-ai-antibiotic-superbug-052023.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/05/25/health/antibiotic-artificial-intelligence-superbug/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/25/health/antibiotic-artificial-intelligence-superbug/index.html",
+      "publishedDateTime": "2023-05-25T18:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-26-3-tech-stocks-with-the-best-ai-language-models.md",
+      "title": "3 Tech Stocks With the Best AI Language Models",
+      "excerpt": "translation, and image captioning. The competitive performance of LLaMA compared to existing models like GPT-3 and PaLM showcases rapid advancements in AI language technology. Furthermore ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-tech-stocks-with-the-best-ai-language-models?time=1685126933",
+      "originalUrl": "https://www.nasdaq.com/articles/3-tech-stocks-with-the-best-ai-language-models?time=1685126933",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-26-news-tagged-ai-chips.md",
       "title": "NEWS TAGGED AI CHIPS",
       "excerpt": "A boost in demand for AI chips may help TSMC sustain its annual revenue increase this year, according to market observers. Almost all of TSMC's top-10 customers have readied plans to adopt the ...",
@@ -1130,99 +1216,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-replica-unveils-ai-powered-smart-npcs-for-unreal-engine.md",
-      "title": "Replica unveils AI-powered smart NPCs for Unreal Engine",
-      "excerpt": "Replica Studios is unveiling AI-powered smart NPCs for the Unreal Engine platform. Those NPCs can chat with players using OpenAI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/replica-unveils-ai-powered-smart-npcs-for-unreal-engine/",
-      "originalUrl": "https://venturebeat.com/games/replica-unveils-ai-powered-smart-npcs-for-unreal-engine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/05/replica-4.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 767,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/replica-unveils-ai-powered-smart-npcs-for-unreal-engine/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/replica-unveils-ai-powered-smart-npcs-for-unreal-engine/amp/",
-      "publishedDateTime": "2023-05-25T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-25-the-five-key-benefits-of-aiops-and-automation.md",
-      "title": "The five key benefits of AIOps and automation",
-      "excerpt": "How AIOps can help your IT staff move from a “break-fix” approach to one that’s more predictive and proactive.\nThe post The five key benefits of AIOps and automation appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-five-key-benefits-of-aiops-and-automation/",
-      "originalUrl": "https://www.ibm.com/blog/the-five-key-benefits-of-aiops-and-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-25T06:34:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "This 26-Year-Old Has Raised Another $28 Million To Build An AI Assistant For The Workplace"
+    excerpt: "Stockholm-based learning platform Sana has announced a suite of generative AI tools along with an extension to its Series B round, bringing its total funding to $80"
+    publishedDateTime: 2023-05-31T15:32:00Z
+    webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/05/31/this-26-year-old-has-raised-another-28-million-to-build-an-ai-assistant-for-the-workplace/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 57
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647765a27cd337408abdbfe4/0x0.jpg?format=jpg&crop=3823,2868,x0,y729,safe&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Clemson receives $20M to fund effort to use AI in health care"
     excerpt: "A $20 million grant to Clemson University will tap a statewide network of researchers to help harness artificial intelligence to create more useful and safer health care devices."
     publishedDateTime: 2023-05-31T10:20:00Z

@@ -28,101 +28,76 @@ images:
     isCached: true
 
 related:
-  - title: "Cloud computing firm CoreWeave raises another $200 mln amid AI boom"
-    excerpt: "Specialized cloud computing provider CoreWeave has raised $200 million in funding from its existing investor Magnetar Capital, highlighting investor interest in backing infrastructure powering the generative AI boom."
-    publishedDateTime: 2023-05-31T09:02:00Z
-    webUrl: "https://www.reuters.com/technology/cloud-computing-firm-coreweave-raises-another-200-mln-amid-ai-boom-2023-05-31/"
+  - title: "Hyro doubles down on plug-and-play AI assistants with $20M funding"
+    excerpt: "Hyro, a company offering plug-and-play AI assistants for enterprises, today raised $20 million in a series B funding round."
+    publishedDateTime: 2023-05-31T16:05:00Z
+    webUrl: "https://venturebeat.com/ai/hyro-doubles-down-on-plug-and-play-ai-assistants-with-20m-funding/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 71
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://s3.amazonaws.com/arc-authors/reuters/2f90d562-60d3-41b2-a40c-bc52d8bcd4a7.png"
-        width: 720
-        height: 719
+      - url: "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_734436697-e1685544872753.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Microsoft pens AI cloud computing deal with former Ethereum miner CoreWeave: CNBC"
-    excerpt: "With more than $400 million worth of funding raised in 2023, and a supposed Microsoft deal on the books, CoreWeave has grown significantly since pivoting from Ethereum mining."
-    publishedDateTime: 2023-06-03T02:19:00Z
-    webUrl: "https://cointelegraph.com/news/microsoft-pens-ai-cloud-computing-deal-with-core-weave"
-    ampWebUrl: "https://cointelegraph.com/news/microsoft-pens-ai-cloud-computing-deal-with-core-weave/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/microsoft-pens-ai-cloud-computing-deal-with-core-weave/amp"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 69
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/75e42a10-f7e8-4c95-a097-723db263e3b9.jpg"
-        width: 740
-        height: 492
-        isCached: true
-  - title: "Generative AI startup Runway recently signed a huge cloud computing contract with Google"
-    excerpt: "It indicates the ability to send an email. An curved arrow pointing right. Google and Runway have a major new contract that provides the generative AI startup will millions of dollars in cloud services and related credits. Runway, which has raised funding ..."
-    publishedDateTime: 2023-05-31T22:22:00Z
-    webUrl: "https://www.businessinsider.com/google-cloud-runway-generative-ai-startup-contract-2023-5"
+  - title: "Hyro, a conversational AI startup for enterprise, raised $20 million in new funding using this 15-slide pitch deck"
+    excerpt: "Hyro, an AI tool for enterprise users like healthcare providers, has brought in new funding to build out its conversational AI products."
+    publishedDateTime: 2023-05-31T14:00:00Z
+    webUrl: "https://www.businessinsider.com/hyro-conversational-ai-for-health-raises-20-million-funding-2023-5"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 60
+    quality: 45
     images:
-      - url: "https://i.insider.com/6447ec3f6001ce00190644ca?width=1200&format=jpeg"
+      - url: "https://i.insider.com/64774869085acb0018fefaa1?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft signs multi-billion dollar deal with GPU cloud provider CoreWeave to meet AI needs"
-    excerpt: "CoreWeave is a specialized cloud provider built for large-scale GPU-accelerated workloads. The company raised $200 million earlier this week - just a month after it raised $221m a"
-    publishedDateTime: 2023-06-02T10:35:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-signs-multi-billion-dollar-deal-with-gpu-cloud-provider-coreweave-to-meet-ai-needs/"
+  - title: "Clemson receives $20M to fund effort to use AI in health care"
+    excerpt: "A $20 million grant to Clemson University will tap a statewide network of researchers to help harness artificial intelligence to create more useful and safer health care devices."
+    publishedDateTime: 2023-05-31T10:20:00Z
+    webUrl: "https://www.postandcourier.com/clemson-receives-20m-to-fund-effort-to-use-ai-in-health-care/article_dd6372bb-3457-5e52-9288-c78ca269eaff.html"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 60
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "GPU Cloud Provider CoreWeave Secures $200M Series B Extension"
-    excerpt: "CoreWeave, a specialized cloud provider built for large-scale GPU-accelerated workloads, today announced an additional $200 million in funding from Magnetar Capital (“Magnetar”), a leading alternative asset manager."
-    publishedDateTime: 2023-05-31T19:59:00Z
-    webUrl: "https://insidehpc.com/2023/05/gpu-cloud-provider-coreweave-secures-200m-series-b-extension/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
+      name: Post and Courier
+      domain: postandcourier.com
     quality: 39
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2022/05/cloud-computing-shutterstock-622863563.jpg"
-        width: 500
-        height: 334
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/d/15/d15c6111-da35-5bc9-87aa-ccea2b6efeb8/64771f60ce289.image.jpg?resize=706%2C593"
+        width: 706
+        height: 593
         isCached: true
-  - title: "Specialized Cloud Provider CoreWeave Rides AI Wave To Another $200M Round"
-    excerpt: "CoreWeave, an AI cloud infrastructure company, has raised another $200 million in a Series B extension funding round that values it at $2 billion"
-    publishedDateTime: 2023-05-31T16:50:00Z
-    webUrl: "https://news.crunchbase.com/cloud/ai-coreweave-funding-venture/"
+  - title: "AI-Powered Hyro Raises $20M to Advance Responsible Artificial Intelligence-Enhanced Communications for Enterprise"
+    excerpt: "Hyro, which claims to be the leader in plug-and-play conversational AI, announced that it has finalized a $20 million Series B funding round."
+    publishedDateTime: 2023-06-04T11:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/06/208056-ai-powered-hyro-raises-20m-to-advance-responsible-artificial-intelligence-enhanced-communications-for-enterprise/"
     type: article
     provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 38
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 33
     images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Cloud_Computing.jpg"
-        width: 900
-        height: 506
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Machine-Learning-Artificial-Intelligence-AI.jpg"
+        width: 1400
+        height: 1050
         isCached: true
-  - title: "GPU-accelerated cloud provider CoreWeave secures $200M led by Magnetar Capital"
-    excerpt: "CoreWeave Inc., a cloud compute provider that specializes in large-scale graphics processing unit-accelerated workloads, announced today that it has raised $200 million in additional funding from Magnetar Capital."
-    publishedDateTime: 2023-05-31T17:54:00Z
-    webUrl: "https://siliconangle.com/2023/05/31/gpu-accelerated-cloud-provider-coreweave-secures-200m-led-magnetar-capital/"
+  - title: "Hyro Raises $20M for Conversational AI Assistant Used by Intermountain, Novant & More"
+    excerpt: "Hyro — a New York-based startup selling a conversational AI platform for providers — recently closed a $20 million Series B funding round. The platform is \"mostly plug-and-play\" and requires minimal effort and resources from providers,"
+    publishedDateTime: 2023-06-02T19:34:00Z
+    webUrl: "https://medcitynews.com/2023/06/ai-language-healthcare-technology/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 15
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 30
+    images:
+      - url: "https://medcitynews.com/uploads/2023/05/75.png"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "rq+tl3XqO6kGA1P9uoP2VoyM4gI10/rqtsEenbr+igg7vK5LVp3W2zo1xIGxC0zmSbkvN+4Z9SY51XmVLvfkogWFgrRo+Bmn1i88+LovBBZ/fZKGmrk97Ox17FYLmOng+BN+PNuz2dGwmasPiYdSqOZdZMNVIbIPo8wCcvYb49nZHXRCcfAFgOfanZPdp/MkNYPQ6AkL4aE3bxS5tKxjNDja512qvxTdZ26FKa+OwaSu8Jh9I64km3Z1T4WfluWmQfrKn4RMal/aTrsF/Tu3ggeZXQL7BdHb64vdwG4rkX7d8e/fJo2fB62X/oenIhUSUk6/y0xGQvXuhhykfszwHbnBAjFlCehKEegm002RIc9eWqI4xG4wFoB/dleoAPKVzIQpyj0bpVtH/gR8GRB/Z19o+LkisYCb0V8ZRbWrgOlTXP//7jaUgiIRHJlrtCoG6F4CKP12sRZAKbUQeXb9euN9o+LZI6ep/DTMsJ8HAmeIjZ9oVDzMLXd1U571TpN+EclTuLe2SChoGWRTTnvkGg==;F+qvJBjmCbQP7QeN8fT/jA=="
 ---

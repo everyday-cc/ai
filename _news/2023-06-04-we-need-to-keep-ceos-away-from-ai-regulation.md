@@ -23,17 +23,6 @@ images:
     height: 377
     isCached: true
 
-related:
-  - title: "Here Are 30 New Jobs Language Industry CEOs Expect to Hire for in the AI Age"
-    excerpt: "As LLMs are put into production across the translation industry, CEOs will recruit for roles such as Prompt Engineers or Source Language AI Copy Editors."
-    publishedDateTime: 2023-05-31T09:00:00Z
-    webUrl: "https://slator.com/30-new-jobs-language-industry-ceos-expect-to-hire-ai-age/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 16
-
 secured: "y193b3s03SJpvbabaiU2E/UK63eRGFcVDOdtbUcPL+u0iPdA4vnk9MMbdaa2HGBjZwTV4YAqfdgXcNLMjgO9MOLw0J6JCkavZv9mrS1GT+IQinlUqAhyHiUVBT6wQT9IsRqiGvg8DU0cM0jwYWK4ObPYhmorGM0qBNdlgQAoyCRPZ2zI1bx/PzKVCmS8YE277soiMc6vfsnU42pHyF6dFZ1/y4Y/FVcjo1/VyXatygAXWWYxmkPpXMxH2e+EZs8cZoysYsfA6AzbQCXVejSITA9JVXcW8XE9xVhJvNwwpoYfHUSXi46JEI/FZzQ+6zQOuipStO+dF3cQnRf+S8HeOhluK4YWQ3poYdTahDH5NHFTvlZ2d7cxagBE7HSGYzVEieP4VC9uVbWh1/bMigzQARWV6fusPVkGiUHGWeRIj2y5HV+DBdq1VeBYrBXEdiwRTUArkxdmqDMVR0gzVixGNH2Sf4C7O3j0fN9LUZ/Q4TqHqU3lJpMKxKEJSg4ZrNibA2zGs+7OYxF4gaN2pGfEVQ==;bJNm9wA7ZHMKxXhTtZecHA=="
 ---
 

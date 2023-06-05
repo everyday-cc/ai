@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Makes 4000 People Lose Their Jobs In US"
+    excerpt: "Around 4,000 people in US have lost their jobs because of Artificial Intelligence (AI). According to the report in NDTV, the people who were laid off in May in US this year lost their jobs because of Artificial Intelligence (AI). It said that US employers cited AI as the reason for 3,900 of the layoffs, which is roughly 4.9% of May's job cuts."
+    publishedDateTime: 2023-06-05T00:45:00Z
+    webUrl: "https://www.outlookindia.com/international/artificial-intelligence-makes-4000-people-lose-their-jobs-in-us-news-292033"
+    ampWebUrl: "https://www.outlookindia.com/international/artificial-intelligence-makes-4000-people-lose-their-jobs-in-us-news-292033/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/international/artificial-intelligence-makes-4000-people-lose-their-jobs-in-us-news-292033/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 57
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_1/IMAGE_1646301380.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "TqxM5n7f++nANhfVZ+Ga6DZWoV6wnewQSe5BdAvPTDlmnkU/68I+kuwvn2o0bWy+wrqQjZk4GxzmoGMaFIYXhUWXbykaG+v7mwVAzPwGf/ROIaHnQnJZwC9g3DYqCvxA28nnUIE2Zqhnh+uPeZVOO3t2x0GcQ/+stFJMPYWH3aSVmrKTfi5+9KjbrQbTsQaalrA5+0Ayps3X7Jr/ihjPq0xajtt8RzCKB2AXTTaRW3OQxrricY/wLg3BunNcBhlxCBSJXlgewGN0yB2qMU0TBIwhF7M0dj5RMwJxA2fMf4iIxbkHWr9NhRrrUF38HDPJLHk2pJ+1DEdSXWm+n5NECC4oYrX9iXVhZESdq+yCyVu40f0pTpogbI6S5+pk1ac2KNM5cNhPXvApTH0LYG4a7KjjqAEoGRUR3zGLVmUjPyVorqVG+tILyCLwBTruPgYDcUQeirF4LU+R5ikZ+HA+vh9bAsCBDDqy9ABzkuoaheknNXNzcN+DE8HYv9XFx9Bdz7uhQ02dClw8ZDNL0YPwxg==;/+6eifW+RFFYGn9VX1TCHA=="
 ---

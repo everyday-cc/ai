@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Attorney general urges Australians not to lose sight of principles of Indigenous recognition"
-    excerpt: "The Liberal party amplifies its opposition to the voice to parliament, as government brands opponents ‘a muddle’"
-    publishedDateTime: 2023-05-31T07:42:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/may/31/attorney-general-urges-australians-not-to-lose-sight-of-principles-of-indigenous-recognition"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/may/31/attorney-general-urges-australians-not-to-lose-sight-of-principles-of-indigenous-recognition"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/may/31/attorney-general-urges-australians-not-to-lose-sight-of-principles-of-indigenous-recognition"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 33
-    images:
-      - url: "https://i.guim.co.uk/img/media/37550566f3d36b76f9e657c24d902ad620cddd7e/0_275_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=640f54b5ed37a875fd07df114ef1ad3e"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Young Australians could make voice referendum a success"
     excerpt: "Young Australians are expected to be key to the Indigenous voice referendum succeeding. Cabinet minister Don Farrell told the National Press ClubÂ voters aged over 55 tended to oppose the voice, while Australians under 35 overwhelmingly backed it."
     publishedDateTime: 2023-06-01T05:37:00Z

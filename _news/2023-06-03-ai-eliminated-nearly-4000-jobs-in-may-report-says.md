@@ -42,6 +42,22 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Artificial Intelligence Makes 4000 People Lose Their Jobs In US"
+    excerpt: "Around 4,000 people in US have lost their jobs because of Artificial Intelligence (AI). According to the report in NDTV, the people who were laid off in May in US this year lost their jobs because of Artificial Intelligence (AI). It said that US employers cited AI as the reason for 3,900 of the layoffs, which is roughly 4.9% of May's job cuts."
+    publishedDateTime: 2023-06-05T00:45:00Z
+    webUrl: "https://www.outlookindia.com/international/artificial-intelligence-makes-4000-people-lose-their-jobs-in-us-news-292033"
+    ampWebUrl: "https://www.outlookindia.com/international/artificial-intelligence-makes-4000-people-lose-their-jobs-in-us-news-292033/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/international/artificial-intelligence-makes-4000-people-lose-their-jobs-in-us-news-292033/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 57
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_1/IMAGE_1646301380.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "AI cost nearly 4,000 people in the U.S. their jobs, report says"
     excerpt: "U.S. companies said over 80,000 jobs would be eliminated, the report found. Those cuts brought the total number of job cuts announced by U.S. employers since the start of"
     publishedDateTime: 2023-06-03T17:43:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/google-runway-ai-invests-generativ
 webUrl: "https://www.businessinsider.com/google-runway-ai-invests-generative-startup-cloud-contract-2023-5"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -30,6 +30,34 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI startup Runway recently signed a huge cloud computing contract with Google"
+    excerpt: "It indicates the ability to send an email. An curved arrow pointing right. Google and Runway have a major new contract that provides the generative AI startup will millions of dollars in cloud services and related credits. Runway, which has raised funding ..."
+    publishedDateTime: 2023-05-31T22:22:00Z
+    webUrl: "https://www.businessinsider.com/google-cloud-runway-generative-ai-startup-contract-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
+    images:
+      - url: "https://i.insider.com/6447ec3f6001ce00190644ca?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Google Invests in AI Startup Runway to Wrest Cloud Business From AWS"
+    excerpt: "Google is investing in Runway, a New York–based startup that lets customers generate video from text descriptions using artificial intelligence it pioneered, at a valuation of around $1.5 billion including the new capital,"
+    publishedDateTime: 2023-05-31T21:48:00Z
+    webUrl: "https://www.theinformation.com/articles/google-invests-in-ai-startup-runway-to-wrest-cloud-business-from-aws"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 54
+    images:
+      - url: "https://tii.imgix.net/production/articles/10624/dc3a7145-40e1-4de6-8155-f1e313c7c6ea.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google invests in generative AI startup Runway, gets it as a cloud customer"
     excerpt: "Google has invested in generative AI startup Runway in a deal that values the company at around $1.5 billion. The investment, which was part of a $100m funding round, also means that Runway will now use Google Cloud as its preferred cloud provider,"
     publishedDateTime: 2023-06-02T16:58:00Z

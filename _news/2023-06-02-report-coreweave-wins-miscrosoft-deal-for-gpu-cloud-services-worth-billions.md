@@ -39,6 +39,50 @@ related:
         width: 611
         height: 458
         isCached: true
+  - title: "Microsoft pens AI cloud computing deal with former Ethereum miner CoreWeave: CNBC"
+    excerpt: "With more than $400 million worth of funding raised in 2023, and a supposed Microsoft deal on the books, CoreWeave has grown significantly since pivoting from Ethereum mining."
+    publishedDateTime: 2023-06-03T02:19:00Z
+    webUrl: "https://cointelegraph.com/news/microsoft-pens-ai-cloud-computing-deal-with-core-weave"
+    ampWebUrl: "https://cointelegraph.com/news/microsoft-pens-ai-cloud-computing-deal-with-core-weave/amp"
+    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/microsoft-pens-ai-cloud-computing-deal-with-core-weave/amp"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 69
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=740/https://s3.cointelegraph.com/uploads/2023-06/75e42a10-f7e8-4c95-a097-723db263e3b9.jpg"
+        width: 740
+        height: 492
+        isCached: true
+  - title: "Microsoft signs multi-billion dollar deal with GPU cloud provider CoreWeave to meet AI needs"
+    excerpt: "CoreWeave is a specialized cloud provider built for large-scale GPU-accelerated workloads. The company raised $200 million earlier this week - just a month after it raised $221m a"
+    publishedDateTime: 2023-06-02T10:35:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-signs-multi-billion-dollar-deal-with-gpu-cloud-provider-coreweave-to-meet-ai-needs/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 60
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Specialized Cloud Provider CoreWeave Rides AI Wave To Another $200M Round"
+    excerpt: "CoreWeave, an AI cloud infrastructure company, has raised another $200 million in a Series B extension funding round that values it at $2 billion"
+    publishedDateTime: 2023-05-31T16:50:00Z
+    webUrl: "https://news.crunchbase.com/cloud/ai-coreweave-funding-venture/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 38
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Cloud_Computing.jpg"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "EO/lcxpTQ2xSk/0M4NsflmolpPqCAJEVjhX2Nm6ULSnixn5H8FlRU2cYN5NBzLMVEryiLSNXpEUgxab12sTDTPVrSJgR1DN7Xjrfh9fePSU8ADOT3hvBJtyjBIwx9eh8QW/bIy1Ot2AvPCpanfDgtKQIX9InhI9HgLKulIJLxzwQ+rShF/8ixpsJUk+a4VAXj3FUYpHSaa7a9DTnnXqjcJuX6/NB1bX3UUwAVYg0sfxbvlyJmHFFCxcaHv01O4kbz+3adX0d3AO5ANitOLQbam+6bJT8tPRRPTDHMw5Nel0Po4S6tpRjYKepBDjBEColE+GgYKOAFxsXdhtdroTPddXgT3f9lHsKMXY682H0TsgM1uTxQokIbAtrD6nEBaBo09DWPGf2eRS2HIXUMoOISL/NkYUeHk0oX3zExkGuQBmoxnDM5f7W+arLGEf8m9J/WiU+ke7f0LOj91uKdkoYHMaEvEXokcPH79S8rsU/7Tx14KKEkry7+NXFfFGDxhLtzGevZcgQPKUUVASclKn2ng==;bGnHiF7ydeiGOSacwfwpOQ=="
 ---

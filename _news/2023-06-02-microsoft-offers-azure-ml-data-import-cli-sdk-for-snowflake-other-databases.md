@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.amp.html"
 type: article
 quality: 118
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/647901c847b2a3e2ed11cc53/0x0.jpg?format=jpg&crop=5000,2342,x0,y284,safe&width=1200"
         width: 1200
         height: 562
-        isCached: true
-  - title: "Microsoft thoughts on the future of AI"
-    excerpt: "Eric Horvitz Chief Scientific Officer at Microsoft has taken to the official Microsoft blog this week to write an article on the future of AI and the"
-    publishedDateTime: 2023-05-31T08:58:00Z
-    webUrl: "https://www.geeky-gadgets.com/the-future-of-ai-31-05-2023/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/05/the-future-of-AI.jpg"
-        width: 700
-        height: 475
         isCached: true
   - title: "Azure Machine Learning integrates with Snowflake data"
     excerpt: "End users of Snowflake can now seamlessly integrate their data into Azure Machine Learning (Azure ML) for training this data for AI models. Azure ML's"

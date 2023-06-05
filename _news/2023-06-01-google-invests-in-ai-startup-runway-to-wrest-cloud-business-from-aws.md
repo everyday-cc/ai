@@ -25,22 +25,57 @@ images:
     isCached: true
 
 related:
-  - title: "AIStartups Unveils Comprehensive Directory of AI Tools and Startups"
-    excerpt: "In addition, it provides a subscription service that gives users exclusive access to the latest startup tools and resources, keeping them at the forefront of AI innovation. “Our vision is to help businesses unlock the future of AI and stay ahead of the ..."
-    publishedDateTime: 2023-06-02T22:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/06/ab32701740/aistartups-unveils-comprehensive-directory-of-ai-tools-and-startups"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32701740"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32701740"
+  - title: "Generative AI startup Runway recently signed a huge cloud computing contract with Google"
+    excerpt: "It indicates the ability to send an email. An curved arrow pointing right. Google and Runway have a major new contract that provides the generative AI startup will millions of dollars in cloud services and related credits. Runway, which has raised funding ..."
+    publishedDateTime: 2023-05-31T22:22:00Z
+    webUrl: "https://www.businessinsider.com/google-cloud-runway-generative-ai-startup-contract-2023-5"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 60
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://i.insider.com/6447ec3f6001ce00190644ca?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
+  - title: "Generative AI startup Runway taps Google to lead a $100 million funding round and sign a major cloud contract"
+    excerpt: "This is the latest example of a cloud provider making a significant investment in a generative AI startup as tools like ChatGPT become popular."
+    publishedDateTime: 2023-06-01T20:29:00Z
+    webUrl: "https://www.businessinsider.com/google-runway-ai-invests-generative-startup-cloud-contract-2023-5"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://i.insider.com/6447ec3f6001ce00190644ca?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Google invests in generative AI startup Runway, gets it as a cloud customer"
+    excerpt: "Google has invested in generative AI startup Runway in a deal that values the company at around $1.5 billion. The investment, which was part of a $100m funding round, also means that Runway will now use Google Cloud as its preferred cloud provider,"
+    publishedDateTime: 2023-06-02T16:58:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/google-invests-in-generative-ai-startup-runway-gets-it-as-a-cloud-customer/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 35
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Google_Data_Center.2e16d0ba.fill-1200x630.jpg"
+        width: 660
+        height: 348
+        isCached: true
+  - title: "Google reportedly invests in generative AI startup Runway at $1.5B valuation"
+    excerpt: "Google LLC has reportedly invested in Runway AI Inc., a New York-based startup that develops generative artificial intelligence models. The Information reported the deal on Wednesday, citing two sources familiar with the matter."
+    publishedDateTime: 2023-06-01T18:33:00Z
+    webUrl: "https://siliconangle.com/2023/06/01/google-reportedly-invests-generative-ai-startup-runway-1-5b-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 16
 
 secured: "RV6TSI5t7vkm+prEWIe00Dz6esEaekRns/YgD9PkZFJT8fcpkOP9F5p09nGZjho+4rkL813vjPfnU2N8AXBMJwkttnPdIysSFNH0G+rawLKv6TD0sx0Aik3QhoZiWyh/TCZe+xfILG/ZNmq0lsMLVO7z5a9OHt5KuNB80ArIIJx26tGyqZMjBfib6naa/Br+o131D3goXFt6BM5PrA9KPu6NCFhMys5Sn/h5FSlrvo7r4QveqiC/L0dtbKySOEINd26YITgovjCbCzakgCE1enlnh3/5e+s6xrI/BGFFY/cAyu6N58mVvYg8fd8BAkbSszqNL+S1rnCsE/jfItp0O0RTSEkyF5UntSSBDUfozUZMbSQ3ADG+Qi5h1hj9SytGtvzY8e/H7uFGjUpMcJINPzmxWjTEawlQPr2345AcI6SzG5O+5cvH+Jdj+YzK++iFLmS1bc9anqlNW2ky0JiMD94K8zE0KrWUCyUI2xlr6Oy7tWpC0EmXcA4ucCm6JJKBSIGaDdpWKli8VRLfFbKmew==;zhVLuaWU9daFHNWvA/3UCQ=="
 ---
