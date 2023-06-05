@@ -1,29 +1,27 @@
 ---
 category: news
 title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
-publishedDateTime: 2023-06-01T13:10:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
-webUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
+publishedDateTime: 2023-06-01T09:31:00Z
+originalUrl: "https://www.local10.com/business/2023/06/01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
+webUrl: "https://www.local10.com/business/2023/06/01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
 type: article
-quality: 68
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: WPLG
+  domain: local10.com
 
 topics:
-  - AI Hardware
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SIQQ7UVKUNDXRHQQE2TFZQO3RU.jpg?_a=ATCqVhC0"
+    width: 700
+    height: 467
     isCached: true
 
 related:
@@ -162,6 +160,6 @@ related:
       domain: omaha.com
     quality: 28
 
-secured: "6KvY5qLq7ruIyF8kqAoN14rwRhx/JEzdGhZz5LebuhsG3mVvuvnpFDX67Pgmdi5kGo9aocMlg6wajZInFP3JZSz0VoMzlmF9ARWRMZUr0JbsHHtR9r9QyF7FZ5YWa1n1AneaH9RItaY6ftZ2FFgh685y7YflY3nGLGtPoIZkKNDmdhdjpqTnj85PdpDY+Lgskg6iZfjqXcmxBHj8rO8OSB1rPXPQK2AgCs6Cexf9Lm/G/mL5zdHAd9kbVf7pxrPy56RB+y1r0lAgsdLzcOm88SdZ2YEERFTYfAEUhELUhq41JcnRKVH02uKBlm7GQvkxjxMYl5B/KatJPVhszvsasgAfGEl6OERMxxl7LgnXYBg=;9LhVh3WS5hKrIkHW6C0jYQ=="
+secured: "fgG6aI765ucHJyf2Nu/InCbYvqO8X9wnfCconyct8HSMH7MuEqrNdPt1lx551p8rBhtDBqYzpmBb1+dwQ4deMjzaOM57y9A37rd3HkiyhHox0TcUVhttQVHtFkaIjSy2iphOmPzF5eokHBwvlp6JYaHHyUJw4dnkfZ3S5qmoOaNBnaSpPmFzdujKIv8Hajd4HY/F69aHwj+uNsy6kLkug/FZgE22e57R9Y6U0diwdzWxaM/KfMCOT3BBwIXHRS0NOvNBGUevILcM7+LYQbWdTauxm33uCuizoEWOz5YffmkztXYe+zHEBE+Nd5HHVCrJYWSfOxJHjT3TKaVV3hv/Uejtymsmp9P1FuVDD94MpEI=;/+LDRyBvlnkYIAECAIQ62A=="
 ---
 

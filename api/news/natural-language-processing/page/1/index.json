@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-05-unravelling-the-ethics-of-large-language-models-navigating-concerns-in-chatgpt-and-beyond.md",
+      "title": "Unravelling the ethics of large language models: Navigating concerns in ChatGPT and beyond",
+      "excerpt": "Here's a look at the evolution of the Internet and the growth of online content, leading to the emergence of search engines and the advancement of Natural Language Processing, leading to LLMs",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbesindia.com/article/isbinsight/unravelling-the-ethics-of-large-language-models-navigating-concerns-in-chatgpt-and-beyond/85395/1",
+      "originalUrl": "https://www.forbesindia.com/article/isbinsight/unravelling-the-ethics-of-large-language-models-navigating-concerns-in-chatgpt-and-beyond/85395/1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbesindia.com/media/images/2023/Jun/img_209145_chatgpt.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbesindia.com/amp/article/isbinsight/unravelling-the-ethics-of-large-language-models-navigating-concerns-in-chatgpt-and-beyond/85395/1",
+      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/unravelling-the-ethics-of-large-language-models-navigating-concerns-in-chatgpt-and-beyond/85395/1",
+      "publishedDateTime": "2023-06-05T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes India",
+        "domain": "forbesindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-06-04-derry-singer-roisin-quinn-who-had-stroke-at-14-finds-her-voice-again.md",
       "title": "Derry: Singer Roisin Quinn, who had stroke at 14, finds her voice again",
       "excerpt": "Now, four years on, Roisin has truly found her voice again. She is studying performing arts at Derry's North West Regional College and is choreographing a dance to reflect her journey. Later this month she will perform it at the Derry campus, where she has already starred in re-imaginings of Shakespeare's Romeo and Juliet and Macbeth.",
@@ -1364,58 +1408,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-05-17-2-ai-stocks-i-love-and-1-i-dont.md",
-      "title": "2 AI Stocks I Love, and 1 I Don't",
-      "excerpt": "Not all AI companies are created ... Maybe you rely on Google Translate at work, or for sending emails to your in-laws, cousins, and friends overseas. That's an artificial intelligence system, quite similar to the large language model used by ChatGPT ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/05/17/2-ai-stocks-i-love-and-1-i-dont/",
-      "originalUrl": "https://www.fool.com/investing/2023/05/17/2-ai-stocks-i-love-and-1-i-dont/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/732817/robot-hand-holds-golden-egg.jpg",
-          "width": 4500,
-          "height": 3000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-17T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

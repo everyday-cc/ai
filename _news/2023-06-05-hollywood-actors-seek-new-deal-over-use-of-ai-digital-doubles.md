@@ -1,0 +1,22 @@
+---
+category: news
+title: "Hollywood actors seek new deal over use of AI ‘digital doubles’"
+excerpt: "Unions fear artificial intelligence could cause artists to lose control of their image while making writers obsolete"
+publishedDateTime: 2023-06-05T11:00:00Z
+originalUrl: "https://www.ft.com/content/ffa4e333-b691-4964-ada1-20bf6ce60396"
+webUrl: "https://www.ft.com/content/ffa4e333-b691-4964-ada1-20bf6ce60396"
+type: article
+quality: 17
+heat: 17
+published: false
+
+provider:
+  name: The Financial Times
+  domain: ft.com
+
+topics:
+  - AI
+
+secured: "kFUd9M34yIvnCYAltFaEVbUjJpbfbaMOD0xI0vPIPJ5tkuWR9uJWY0tukFpvbMGVAsM35wvcgbSrYN13mu4FMvR18d8Uzyj/zJfwklef0eQEzGPgAnDDgRKsd6X5Z2x6b2V0cg9YTiZW48KsZsxQs5H5thKSmOw0l9PDylI7Yj7d6qt8cbDxMXlH5jyrbzSNT3wnkhej1CCoYJXIzOISKmWdJ/h/j/Us2Mx8+H0vXMvaLpEzfMs3mIMGuN78Wz3idj5tzDLdUZ3z1McuSGl/+ZYV3sMfLHWHTPxQL/2SDTGVgZpveuUWd9s3IkoWa7IXLLOTG483FPeivXQESt72L756FQ65rC2SGA9gxF7mYrWnkrpKXbIDj7QCeLiCjOdqW9QfrNmoM7V4UaSPENWCQnNe1cv8J9ruHCfGLwLEhahJeZ5l3phkpRp5VRQY0jc3XwSXzNjfP9nwuKVG6IfSoNvl7YdL4Eq7VYrSvVis1UAGuisNapuW7sesmOjmmLR5jEBXXn17aMRToK5Wl7JEIw==;bZwoMVWhoPYpXE0U+3GD7w=="
+---
+

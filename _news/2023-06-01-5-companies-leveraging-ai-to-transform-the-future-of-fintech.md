@@ -57,6 +57,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "AI Disruption in FinTech: Exploring the Impact of AI-powered Tools Like IndexGPT"
+    excerpt: "AI's use cases in fintech continue to grow, from data analysis to customer service. New sophisticated tools like IndexGPT are being developed."
+    publishedDateTime: 2023-06-05T10:35:00Z
+    webUrl: "https://www.techopedia.com/ai-in-fintech-exploring-the-impact-of-tools-like-indexgpt"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 34
+    images:
+      - url: "https://www.techopedia.com/wp-content/uploads/2023/02/benefits-of-cloud-computing-3.jpg"
+        width: 810
+        height: 432
+        isCached: true
   - title: "Generative AI Is Moving Into Adtech. But Which Companies Will Stand The Test Of Time?"
     excerpt: "Generative AI is bulldozing through every industry possible, including advertising and brand marketing. And VCs have some choices to make."
     publishedDateTime: 2023-06-02T11:00:00Z
@@ -70,6 +84,20 @@ related:
       - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Facing.jpg"
         width: 900
         height: 506
+        isCached: true
+  - title: "Fintech On-Premise AI startup HaiVE Submits Proposal to Form Tamil Nadu Artificial Intelligence Alliance to the Secretary of State for IT"
+    excerpt: "HaiVE, an on-premise AI Startup, has announced that the Tamil Nadu government has accepted its proposal for an AI standards body – Tamil Nadu Artifici"
+    publishedDateTime: 2023-06-05T10:26:00Z
+    webUrl: "https://www.indianweb2.com/2023/06/fintech-on-premise-ai-startup-haive.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 21
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht9yxyY5RlPnfmJSA9JDN2NT_VUE7rWO0p_ZmhrU_imROZW6iAva1RwCoV7iXI64yJcm26TNjvWGKqudQRd7p5IhiuJ6abcFiuWVE1XBO2CLzef9OLNkZjYGilObUGo_rLchoz8IBAq73cdz_JshUNWjRYpe3iM7AfsIUsl-9yEaZYXFXU6kNuC1nV/w647-h633/Deepika%20Loganathan,%20Co-Founder%20&%20CEO%20of%20HaiVE%20submitting%20a%20proposal%20for%20formation%20of%20a%20standards%20body%20for%20AI%20to%20Thiru%20J.%20Kumaragurubaran,%20IAS%20Secretary%20of%20State%20for%20Information%20Technology.jpeg"
+        width: 647
+        height: 633
         isCached: true
 
 secured: "jcJnhXUIPm27JwuTGx6dKLt2znLDGT5Boxgpv2HxvTZG4khLSPOpp2QfsG6D7ET8IJDHjXdTsCNGyi+Z9HxlBwwDdSyYlh4O2aSQco7mkPVovhDJHaZgkQGU2/l8RD7DCzd/K7BrVawgCf0+XyXG/B9YmNqrzrCugaOI2mPQGnxG2XnWTbX9XhGzitXPpRw7h0CjtUvyrWb3Mq1h1w8EUJR8BEsZm3OHC8O8m1ySN2s6wgd+Cs5cMOCHhYL3bFu6C3qBxitSbtGZZFURZ46yQCAygyusM0K2BoZ9AIqvtoUBUceumuqjIbbyCzljViqybHAvyl19C0KcxQDWqPvDRKsXhZoDm9+/NlqyqX2z7Wsoh/rQ/N2NMQt9r2IMeN98mmOylWrUFBpFYVpbobJN1uCN4TCYIS8AeUoqqmv0dtYGaRHAx/g4lcXu3gQPnR+TMVRMUmnfddONcE5ktpD1zj1OrSr5ZWNzq9Aqvc0oFt9MNVjgI9f2hNd8Lgo/L5xhrBcH2+ssyXNOE9Hq0hsI0A==;Febr0H7zsNOH2jN6mWVKpw=="

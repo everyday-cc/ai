@@ -113,15 +113,6 @@ related:
         width: 2500
         height: 1668
         isCached: true
-  - title: "US eating disorder helpline takes down AI chatbot over harmful advice"
-    excerpt: "National Eating Disorder Association has also been under criticism for firing four employees in March who formed a union"
-    publishedDateTime: 2023-05-31T17:56:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/may/31/eating-disorder-hotline-union-ai-chatbot-harm"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "FJ8zQwbBoxbj9dT1xmQvsJHG+oFUDCldzjtSxKbKJGnLEAjdWKn3AP51lUCMCF5SgH2+LUSMzOt7m9DJ+mRMJ7tDj3PktDHO4k44wzbPNFfSJKZ6WHf3F9KM5HSplk/6JtwtRtltb3rEJS0Jc1K3LAtmt2CAQ/WaGLVOLHBIMB3+5m4nzVLVgm2C8thA/pTExcUCxLNQcFsiqsl7bF6Df3WiiU5IBBVk9U6a9q6dwVDZjQBBzc/brsNtfwPbGJ+T9saduOIf+uDHhWZl3+o9kvSapLoATlGRKJuC+HAVSf8I9c6LyddwZOkrXlv+fJtCwfkbrd9xHXXbxrP9cj+e8cBRhHaBaye46PPyl/SFpOjkwX7VF/IgcN+BNYEZo7/YxGxF7tGQXjE53IqA86IB7a4ABkZW59Nx6s3BnZNbjYBQhw/ZqFJ9ZSo2ZpsZMwfr2B7HaJjMZebtD1/6Vb4DKtvh9uAE8vv0dziF02CrR+SwjJkfk85QdWXjzhLBpcYHRk+/x545hCU/bq6QLczb0Q==;7SptOPskd6dPL9tQJ257NQ=="
 ---

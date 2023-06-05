@@ -2,6 +2,74 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2023-04-06-renesas-cellular-to-cloud-development-kits-now-connect-seamlessly-to-microsoft-azure-cloud-services.md",
+      "title": "Renesas Cellular-to-Cloud Development Kits Now Connect Seamlessly to Microsoft Azure Cloud Services",
+      "excerpt": "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, today announced that its cellular-to-cloud development kits powered by Renesas' 32-bit microcontrollers (MCUs) now fully support Microsoft's popular Azure cloud services.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/04/06/9790319.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/04/06/9790319.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-06-jon-rahm-four-putted-the-first-hole-at-the-masters-and-even-ibm-watson-was-speechless.md",
+      "title": "Jon Rahm Four-Putted the First Hole at The Masters and Even IBM Watson Was Speechless",
+      "excerpt": "So when faced with Rahm missing a very short putt for bogey the Masters' exclusive Artificial Intelligence commentary provided by IBM simply did not compute. Even Watson was speechless when Rahm ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thebiglead.com/posts/jon-rahm-four-putt-masters-01gxbjgttzhc",
+      "originalUrl": "https://www.thebiglead.com/posts/jon-rahm-four-putt-masters-01gxbjgttzhc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-06T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Big Lead",
+        "domain": "thebiglead.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-06-is-tesla-full-self-driving-worth-it.md",
       "title": "Is Tesla Full Self-Driving worth it?",
       "excerpt": "But companies are also working on the next generation of self-driving cars, and there’s been no company more public about this than Tesla, which offers its Full Self-Driving tech. But while ...",
@@ -936,101 +1004,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-artificial-intelligence-chatbots-market-forecast-2023-2030-google-nuance-communications-aws.md",
-      "title": "Artificial Intelligence Chatbots Market Forecast 2023-2030| Google, Nuance Communications, AWS",
-      "excerpt": "IBM, [24]7.ai, Google, Nuance Communications, AWS, LogMeIn, Inbenta, Kore.ai, Gupshup, AIVO, Yellow Messenger, CogniCor Technologies, Passage AI, Chatfuel, SmartBots.ai The comprehensive Artificial Intelligence Chatbots market report covers various important market-related aspects,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-forecast-2023-2030-google-nuance-communications-aws-2023-04-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-forecast-2023-2030-google-nuance-communications-aws-2023-04-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-04-05T22:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-06-facebook-parent-meta-releases-ai-model-sam-that-can-identify-images-within-photos.md",
-      "title": "Facebook parent Meta releases AI model ‘SAM’ that can identify images within photos",
-      "excerpt": "Facebook parent Meta on Wednesday released a paper detailing its latest AI model that can \"segment\" different items within photographs. The company’s research division said it released the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/facebook-parent-meta-releases-ai-model-sam-can-identify-objects-photos",
-      "originalUrl": "https://www.foxbusiness.com/technology/facebook-parent-meta-releases-ai-model-sam-can-identify-objects-photos",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/6eab9f5c-a22d-4be0-867c-18ce09c171eb/54e80223-4135-408c-a36c-a96162e10bee/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/facebook-parent-meta-releases-ai-model-sam-can-identify-objects-photos.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/facebook-parent-meta-releases-ai-model-sam-can-identify-objects-photos.amp",
-      "publishedDateTime": "2023-04-05T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

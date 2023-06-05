@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/bernardmarr/2023/06/05/ai-anxiety-how-thes
 ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/06/05/ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/05/ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence/amp/"
 type: article
-quality: 94
-heat: 104
+quality: 96
+heat: 106
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/647d767e5317b4aee4d81907/0x0.jpg?format=jpg&width=1200"

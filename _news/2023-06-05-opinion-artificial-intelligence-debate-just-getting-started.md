@@ -32,6 +32,22 @@ related:
         width: 2560
         height: 1280
         isCached: true
+  - title: "Fostering International Collaboration In AI In Healthcare"
+    excerpt: "Combining AI and robotics and healthcare with a mission to extend healthy human life. Meet Richard Yang, partner at Sinovation Ventures"
+    publishedDateTime: 2023-06-05T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647bdd7fddd81ae2fc13b283/0x0.jpg?format=jpg&width=1200"
+        width: 800
+        height: 1200
+        isCached: true
   - title: "The ethics of AI in education"
     excerpt: "One of the ethical concerns of AI in education is the potential impact on mental health. Studies have shown that students who rely heavily on technology for learning, whether it is adaptive learning systems,"
     publishedDateTime: 2023-06-03T10:59:00Z
@@ -63,6 +79,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6478b2a540837295a30e1090/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "How Computer Vision Is Driving Innovation Across Industries"
+    excerpt: "The fusion of AI and computer vision is reshaping countless sectors, ranging from healthcare and manufacturing to retail and transportation."
+    publishedDateTime: 2023-06-05T10:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/05/how-computer-vision-is-driving-innovation-across-industries/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/05/how-computer-vision-is-driving-innovation-across-industries/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/05/how-computer-vision-is-driving-innovation-across-industries/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6479e7d30717c50fb50b6f29/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "The ethics of innovation in generative AI and the future of humanity"
     excerpt: "To address the moral conundrums around generative AI we must understand how it can create positive change, and where it may fall short."
@@ -195,6 +227,15 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
+    excerpt: "Automation Anywhere, the #1 leader in cloud-native intelligent automation, today announced it is working with Amazon Web Services (AWS) to bring intelligent automation and generative AI innovations to market."
+    publishedDateTime: 2023-06-01T16:13:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/01/9824889.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "R60LA9MjDEAgjTxZRWKnNkBymDLW+ejM/QLzt7vBcZEtm43LOVU2sjIMrRgQij5SeuEXQoNrUWi2gHAEFQo1DahK4eSUgHvFRMIpkxcDpdD+mRHuaO6xWOzO0kz6BLSoff57xKJd604A+cHEERzvbmmV2/ya0eAAdpiOtLgZOxb1DXH/m0iHYwbGqFeXfoZYALUJvbRBXz57PAyOTRZ7W/b63oI0eu6qS7+PVs1aUiE6nipoI1ytJwmDCFZNBW4KcjGUinJ43SmwWIP9s0fgrmrTnjISeFgCQJI1XwY8QC+rl1BsNm6QxhD2ukp0JNX5l10yPP3KKuZUxskYlzPlwG4MbvfWu4JSKknr1ZhMYiF4woABtLRUpp5kqFqB3MDXKdhYGQk+6fyIZWLRAvfJ4Sjsy4YLkT0z1/F4sIY9UF3A22K724Q4UBfcd+Y6XKgEyPpXL7OXMNGLR60d4F87drb6ttsiTIrB1Pmh7a5tz9o+pDKSetK4MZDtRzEjd1Wn/HfbAfw7qtBzcSxREG12OQ==;ce5BwC+a9hLfgwVJHCb9jQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/01/baidu-generative-ai-fund-china/amp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/01/baidu-generative-ai-fund-china/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Baidu invests $140 million to foster generative AI startups"
-    excerpt: "Baidu Inc. is investing $140 million to incubate Chinese startups focusing on generative AI. The move marks the company's commitment to innovate in AI."
-    publishedDateTime: 2023-05-31T17:48:00Z
-    webUrl: "https://interestingengineering.com/innovation/baidu-invests-140-million-to-foster-generative-ai-startups"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/05/31/image/jpeg/LfCnAnDpsVJs8IOGReTf67OGBWQlpgvN1fx5CDmz.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "FV1EHYU1ionYF5lZlfcS3ffGn8qu+w2ZT+Jy5GkRlBX4WRdqwWRrW0wTlg2bySLEaUf0sh0XKSl0vKNgTepX5WtGsv6m+3mz45uhMolOlb4NvnYSi8lO5lEmLhdnWXne8RH2fNlcEBublQV/kgGP8DU6RARryuaY0b0wOeAUWVNsfHY/S0sBgHLXOLwnakaGmUyjlmBDreNGinMoD8JJteK+GGf/vdzsSLxFma/4eHyO9eTMwh9Oq53mlCRG7PmSYzVS1AAzhYIhMAn5RvhgLxkXpxXUWZ1LdvROo3qyv61cNfkMiWo3m6oMb3Sglo343BBlyHxSi4F7IqcOl6nuFzHVXFMG+ZAC+szNFENl1U0MZzzPplslZjf4xHC2BSl40I8gpx5QtIKhYhKGWIHuoggALejcnGc7LbxdwcjUu3vjPX90Uwq/BFXNDb9XMG55vxUYU94c0J4ENUqPxXH+adbIhgBBJzbc6+aHn5FPXYjwL50JixpzLS1F8qqT34xbO8hev1DcrTStQVsQhshJrw==;CqwwO18k8upqyLYw31pr9g=="
 ---

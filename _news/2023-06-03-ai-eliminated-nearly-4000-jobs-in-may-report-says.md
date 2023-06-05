@@ -56,6 +56,20 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "AI Eliminated Nearly 4,000 Jobs In May, Report Says"
+    excerpt: "In March, investment bank Goldman Sachs predicted in a report that AI could eventually replace 300 million full-time jobs globally and affect nearly one-fifth of employment — with a particular hit to white-collar jobs often considered automation-proof, such as administrative and legal professions."
+    publishedDateTime: 2023-06-05T11:44:00Z
+    webUrl: "https://www.news9.com/story/647dca954a31c3072cb26ce0/ai-eliminated-nearly-4000-jobs-in-may-report-says"
+    type: article
+    provider:
+      name: News9
+      domain: news9.com
+    quality: 37
+    images:
+      - url: "https://cdn.field59.com/KOTV/d8117c409289221f0c2780d03851090f19fe5088_AI_Eliminated_Nearly_4_000_Jobs_In_May__Report_Says_custom.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AI cost nearly 4,000 people in the U.S. their jobs, report says"
     excerpt: "U.S. companies said over 80,000 jobs would be eliminated, the report found. Those cuts brought the total number of job cuts announced by U.S. employers since the start of"
     publishedDateTime: 2023-06-03T17:43:00Z

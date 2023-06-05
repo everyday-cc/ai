@@ -7,7 +7,7 @@ originalUrl: "https://www.wwt.com/article/exploring-the-capabilities-of-smaller-
 webUrl: "https://www.wwt.com/article/exploring-the-capabilities-of-smaller-open-source-large-language-models"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,40 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Unravelling the ethics of large language models: Navigating concerns in ChatGPT and beyond"
+    excerpt: "Here's a look at the evolution of the Internet and the growth of online content, leading to the emergence of search engines and the advancement of Natural Language Processing, leading to LLMs"
+    publishedDateTime: 2023-06-05T10:14:00Z
+    webUrl: "https://www.forbesindia.com/article/isbinsight/unravelling-the-ethics-of-large-language-models-navigating-concerns-in-chatgpt-and-beyond/85395/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/isbinsight/unravelling-the-ethics-of-large-language-models-navigating-concerns-in-chatgpt-and-beyond/85395/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/unravelling-the-ethics-of-large-language-models-navigating-concerns-in-chatgpt-and-beyond/85395/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 51
+    images:
+      - url: "https://www.forbesindia.com/media/images/2023/Jun/img_209145_chatgpt.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Q&A: Professor discusses ChatGPT-inspired large language model built for the finance industry"
+    excerpt: "First there was ChatGPT, an artificial intelligence model with a seemingly uncanny ability to mimic human language. Now there is the Bloomberg-created BloombergGPT, the first large language model built specifically for the finance industry."
+    publishedDateTime: 2023-06-01T08:41:00Z
+    webUrl: "https://techxplore.com/news/2023-06-qa-professor-discusses-chatgpt-inspired-large.html"
+    ampWebUrl: "https://techxplore.com/news/2023-06-qa-professor-discusses-chatgpt-inspired-large.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-06-qa-professor-discusses-chatgpt-inspired-large.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 50
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-6.jpg"
+        width: 1920
+        height: 1358
+        isCached: true
 
 secured: "VbFXh+q28aBfPJDsQu5lJXpcB1iOaYLM/ZnQxsPvMK579lMAC2EQh54iXKy3GkUGCLr4by6wX5vEPe/SDfvJirVa8wpDJZZpnJ+XkDz9H8KZOSNeOno1jn5U7xtID4DycX9+E4JuO9aCZzGNsohlcnTHICUEbSVfCz4p6Pv6Lve2+c1YvpReBhVmMjkjId7UB7xg3H2akTEIqA/g3ugDScH1eRS6i0PszZCsHxZmeL7dlodJZ0qFMdOPSk3yMhfzwH5rheSb5xvskKbStnxAiMx9JGxtKN9720xfozgxD5U/NjL/KJaIrHMA0rCJGSOtTzlsy4hMnIFpvTtmCB02TiBEfjfX/+4/oNv+8yVXdUhjljHiuPMhvlimwv3V0/e9yI+nPTPfZYg3mk8tKeVi6qhc7jHRYRo0WHoh6kSowv7bGImZcgzmoPiSosJe5WbqLjuL1pl+/MOxnViYoNV4FjQ99lZ1bmGZnbFRDgDH7sWpqTjFLifJsX1QwR7eOZB6QtOT1muq+OI1hPahpbeSpQ==;+R3LUabvi/ehDYJhFNxz+g=="
 ---

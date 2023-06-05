@@ -22,17 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "More Artists Are Embracing Artificial Intelligence, Not Fighting It"
-    excerpt: "Overnight on Wall Street is morning in Europe. Bloomberg Daybreak Europe, anchored live from London, tracks breaking news in Europe and around the world. Markets never sleep, and neither does Bloomberg News. Monitor your investments 24 hours a day, around the clock from around the globe."
-    publishedDateTime: 2023-06-01T07:05:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-06-01/more-artists-are-embracing-artificial-intelligence-not-fighting-it"
+  - title: "Cutting Through The Hype: Smart Deployment Of AI For Growth"
+    excerpt: "The development and adoption of AI are stochastic, meaning that the outcome must account for variability and uncertainty."
+    publishedDateTime: 2023-06-05T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/05/cutting-through-the-hype-smart-deployment-of-ai-for-growth/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/05/cutting-through-the-hype-smart-deployment-of-ai-for-growth/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/05/cutting-through-the-hype-smart-deployment-of-ai-for-growth/amp/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaF3AA6x8BFM/v0/1200x800.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6453b86b434b3a6451eabd2b/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
         isCached: true

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/implement-a-multi-ob
 webUrl: "https://aws.amazon.com/blogs/machine-learning/implement-a-multi-object-tracking-solution-on-a-custom-dataset-with-amazon-sagemaker/"
 type: article
 quality: 62
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -21,26 +21,6 @@ provider:
 topics:
   - AI
   - AWS AI
-
-related:
-  - title: "Host ML models on Amazon SageMaker using Triton: CV model with PyTorch backend"
-    excerpt: "PyTorch is a machine learning (ML) framework based on the Torch library, used for applications such as computer vision and natural language processing. One of the primary reasons that customers are choosing a PyTorch framework is its simplicity and the fact that it’s designed and assembled to work with"
-    publishedDateTime: 2023-05-31T18:40:07Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/host-ml-models-on-amazon-sagemaker-using-triton-cv-model-with-pytorch-backend/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 99
-  - title: "Configure and use defaults for Amazon SageMaker resources with the SageMaker Python SDK"
-    excerpt: "The Amazon SageMaker Python SDK is an open-source library for training and deploying machine learning (ML) models on Amazon SageMaker. Enterprise customers in tightly controlled industries such as healthcare and finance set up security guardrails to ensure their data is encrypted and traffic doesn’t"
-    publishedDateTime: 2023-05-31T18:35:17Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/configure-and-use-defaults-for-amazon-sagemaker-resources-with-the-sagemaker-python-sdk/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 61
 
 secured: "FrgvXgXua2jejxNpZO+WKvvj5ra1TsdgNKurI7v64mvbpqugShD4rhLM7/CTX+MpBZqe2FQrLhD9JozlBeAB6k08Tabw6OVI3ZbqOuTt2D+OZUgZT4qBUu8gk/Ah1IUxDlSg1WaOJp76aBYTZCcNyaZIivOhf0FmPf/vNM77M/S6cYH7Rd0vk2OYh+e0yfAgkE6F9mCusFWRm0kBakIMhKuM+EU5cvYhHmsBQ1/XU/AMh5rUXZgNfISJ87tJhktwAUGahdFBq1vCdNY34WHIgLD0lDHV5rxPniPtrOqUoT7j7qADYfIbnsCLOjKdX6iTtm3smsMWaeOlZxDGfgXv28CJ4w2TLz5l+mcREDAX+rE=;wKkVaqb0eEIga/VNZCJg1Q=="
 ---

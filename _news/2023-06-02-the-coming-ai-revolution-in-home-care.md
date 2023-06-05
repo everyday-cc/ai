@@ -45,6 +45,22 @@ related:
         width: 2560
         height: 1280
         isCached: true
+  - title: "Fostering International Collaboration In AI In Healthcare"
+    excerpt: "Combining AI and robotics and healthcare with a mission to extend healthy human life. Meet Richard Yang, partner at Sinovation Ventures"
+    publishedDateTime: 2023-06-05T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2023/06/05/fostering-international-collaboration-in-ai-in-healthcare/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647bdd7fddd81ae2fc13b283/0x0.jpg?format=jpg&width=1200"
+        width: 800
+        height: 1200
+        isCached: true
   - title: "The ethics of AI in education"
     excerpt: "One of the ethical concerns of AI in education is the potential impact on mental health. Studies have shown that students who rely heavily on technology for learning, whether it is adaptive learning systems,"
     publishedDateTime: 2023-06-03T10:59:00Z
@@ -58,6 +74,22 @@ related:
     quality: 91
     images:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/ai1-1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How Computer Vision Is Driving Innovation Across Industries"
+    excerpt: "The fusion of AI and computer vision is reshaping countless sectors, ranging from healthcare and manufacturing to retail and transportation."
+    publishedDateTime: 2023-06-05T10:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/05/how-computer-vision-is-driving-innovation-across-industries/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/06/05/how-computer-vision-is-driving-innovation-across-industries/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/06/05/how-computer-vision-is-driving-innovation-across-industries/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6479e7d30717c50fb50b6f29/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -201,6 +233,15 @@ related:
       name: Connecticut Post
       domain: ctpost.com
     quality: 17
+  - title: "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
+    excerpt: "Automation Anywhere, the #1 leader in cloud-native intelligent automation, today announced it is working with Amazon Web Services (AWS) to bring intelligent automation and generative AI innovations to market."
+    publishedDateTime: 2023-06-01T16:13:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/01/9824889.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 13
 
 secured: "BiWD4Loyp/u0thCEU8gm3kjXh5FpmyEf626JnCKGgIHMGzlHCHt26IsDC0mGu/OScWa0VbOGsBPAh5drxw7465YJEmKNoUPRm43kwRHE6fJkQqDoYBSv97bp6jBaIuYgjHHay4WW6tkuyErQRS6SP1AkGqUxHMZcokIgsfUZEj8qx6eMCig/LY1FBko/yvGNtMFZrR5UD8FLRzzchISwETwQ5kE/IuC3MAIzW8RzZynHcLsg+T8teX9PH5Sd2eg0DYowlMpDW6lwpkWvMqJ/43BrgccCE31gOFD98Cn2VkEmy4P7k8SsPZ3diCr29mEqvqocqvPkSgDl9NnSziVWNiIU7Ez0iAdZn437gCuCk1d/bhyxZ05hRPHVlSzrVNhM88VrwFovJZOzhZ/7O16lJtMopZF3vsCMHKapa4psYJnQDjCbTrfZS8NAfNXNYnMyxqwVfMqD7NQ+Z63iNCjmiZBTj3i33sRkjhwy7wYftclp7h7S3Gn0tZxVwrjd1rp7/0yL87QTO9Lgwx75GItA3A==;cyjfvC0Bngn8kLzTDF4U/A=="
 ---

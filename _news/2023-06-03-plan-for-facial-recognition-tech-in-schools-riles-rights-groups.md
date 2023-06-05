@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/national/telangana/plan-for-facial-rec
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/plan-for-facial-recognition-tech-in-schools-riles-rights-groups/article66927253.ece/amp/"
 type: article
 quality: 59
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "As use of facial recognition tech grows, so do security concerns"
-    excerpt: "Experts fear the billion-dollar industry's potential for mass surveillance and its lack of safeguards to protect millions of images of real people's faces from theft or alteration."
-    publishedDateTime: 2023-05-31T19:06:00Z
-    webUrl: "https://www.startribune.com/as-use-of-facial-recognition-technology-grows-so-do-security-concerns/600279118/"
-    type: article
-    provider:
-      name: Star Tribune
-      domain: startribune.com
-    quality: 56
-    images:
-      - url: "https://chorus.stimg.co/24691350/merlin_70921675.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Greens voice concerns over facial recognition technology"
     excerpt: "A Green Party TD has said it is important to make a distinction between bodycams and facial recognition technology."
     publishedDateTime: 2023-06-01T08:06:00Z
@@ -54,20 +40,6 @@ related:
       - url: "https://img.rasset.ie/00132672-1600.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "As use of facial recognition tech grows, so do privacy concerns"
-    excerpt: "Experts fear the billion-dollar industry's potential for mass surveillance and its lack of safeguards to protect millions of images of real people's faces from theft or alteration."
-    publishedDateTime: 2023-05-31T19:06:00Z
-    webUrl: "https://www.startribune.com/as-use-of-facial-recognition-technology-grows-so-do-security-concerns/600279118/"
-    type: article
-    provider:
-      name: Star Tribune
-      domain: startribune.com
-    quality: 39
-    images:
-      - url: "https://chorus.stimg.co/24691350/merlin_70921675.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Dangers of facial recognition software"
     excerpt: "What if Clearview AI’s powerful facial recognition software, that could potentially be used for mass surveillance and profiling, fell into the wrong hands? What if it already has? This is the untold story of Clearview AI,"

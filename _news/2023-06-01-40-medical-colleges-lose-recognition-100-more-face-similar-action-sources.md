@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "NMC Recognition for MBBS seats at Stake: KUHS VC Calls Private Medical Colleges Heads for Meeting"
+    excerpt: "Thrissur: After the National Medical Commission (NMC) denied \"continuation of recognition for MBBS degree courses\" for three private medical colleges in Kerala and reduced the intake capacity"
+    publishedDateTime: 2023-06-05T11:45:00Z
+    webUrl: "https://medicaldialogues.in/news/education/medical-colleges/nmc-recognition-for-mbbs-seats-at-stake-kuhs-vc-calls-private-medical-colleges-heads-for-meeting-112484"
+    ampWebUrl: "https://medicaldialogues.in/amp/news/education/medical-colleges/nmc-recognition-for-mbbs-seats-at-stake-kuhs-vc-calls-private-medical-colleges-heads-for-meeting-112484"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/education/medical-colleges/nmc-recognition-for-mbbs-seats-at-stake-kuhs-vc-calls-private-medical-colleges-heads-for-meeting-112484"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 31
+    images:
+      - url: "https://medicaldialogues.in/h-upload/2022/10/20/188624-nmc-recognition.jpg"
+        width: 1500
+        height: 900
+        isCached: true
   - title: "Two local VOICE advocates receive national recognition"
     excerpt: "The Indiana Department of Health is recognizing members of VOICE Indiana who were honored as 2023 Group Youth Advocates of the Year by the Campaign for Tobacco-Free Kids for their advocacy efforts in the fight for a tobacco-free future."
     publishedDateTime: 2023-06-01T00:01:00Z
