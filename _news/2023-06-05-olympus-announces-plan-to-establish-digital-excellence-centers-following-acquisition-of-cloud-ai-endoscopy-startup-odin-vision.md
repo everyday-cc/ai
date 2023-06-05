@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Olympus Announces Plan to Establish Digital Excellence Centers Following Acquisition of Cloud-AI Endoscopy Startup Odin Vision"
-excerpt: "Olympus and Odin Vision will present at HIMSS23 European Healthcare Conference & Exhibition (June 7-9) in Lisbon, PortugalTOKYO & HAMBURG, June 5, 2023 - (JCN Newswire) - Olympus, a global MedTech com"
-publishedDateTime: 2023-06-05T07:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/06/a32708118/olympus-announces-plan-to-establish-digital-excellence-centers-following-acquisition-of-cloud-ai-e"
-webUrl: "https://www.benzinga.com/pressreleases/23/06/a32708118/olympus-announces-plan-to-establish-digital-excellence-centers-following-acquisition-of-cloud-ai-e"
-ampWebUrl: "https://www.benzinga.com/amp/content/32708118"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32708118"
+excerpt: "Olympus, a global MedTech company committed to making people's lives healthier, safer and more fulfilling, announced the plan to establish a series of Digital Excellence Centers (DECs)"
+publishedDateTime: 2023-06-05T07:00:00Z
+originalUrl: "https://www.asiaone.com/business/olympus-announces-plan-establish-digital-excellence-centers-following-acquisition-cloud-ai"
+webUrl: "https://www.asiaone.com/business/olympus-announces-plan-establish-digital-excellence-centers-following-acquisition-cloud-ai"
 type: article
-quality: 29
-heat: 29
+quality: 9
+heat: 9
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2023/asiaone_default.jpg?h=ec041e41&itok=IhKatAM7"
+    width: 600
+    height: 316
     isCached: true
 
-secured: "IobzLdqZryYdALL1LAkXawCdat2hDMl81UyH7g7fTEc4O6yrpIqhUyHjcP9HHCfN48BioR7lxywKupPH5qx/hsGGtRTh22+aWRBJDRTDdOUuuHTTkG+wR0UrZFg8zVaJHETkSXmiJgl2/hehe11d30bmzEg5r3Oy3IkZRXIb0Th3dQExbMHrHW+gWM9b5iNbkFY2Gxlu5eLG/LpZj3mv5GqFfBSn7bLjWjJ6XhfjuoylqLUmeyu9294yA4KcGDm3nMgAcm+gh+5WJWL0baOywzruf0KwywnvNwhNuvMDQkN84zHeMdfr6ZDDWDPb7wxfL26QLkYAmqvy1KbUz9ELO/b8ElLskDCzpcwi5Im4rIg=;hnQa2hU49Rdgsp5Xfa064g=="
+secured: "ZrzbOKKZuWhttg4TvpDyjIeIcONHKQPDZl4hfE9qMS+2lNsVSgXzXDEccdr0b0of37vIGwGVukVvsSZBTvQkp45OtoV2oQavIolqw/a60yBXlM8leNhWC69fKQlkT7dKSJf2GvEx27BSOdituyhbYOxJLKbBgBJgohPRfXT/WsHzDEwq9USJ02f0uwfWHsjFszwlodl2Drkel3MhusWcJZOyyhKHcR4Wn+5m7r47f41HVAkpVFInrXAE/GDYwHS+Zn1KEX2YdHpVQlzZ6dvkoZvlczY4Taj+tJLUW+fMh706RrOkUpOHsNYvQ/Oanv9I/qc0Q5qq0ruiFcOoC6hLUvn/9QugMwjXH7wGsitqhUs=;h7tAGYqsiw+c6nlldB/ygQ=="
 ---
 

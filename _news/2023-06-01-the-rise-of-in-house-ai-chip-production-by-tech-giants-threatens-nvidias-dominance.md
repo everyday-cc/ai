@@ -70,6 +70,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "AI chip shortage to last until 2024, according to top Chinese AI company"
+    excerpt: "The large-scale language model (LLM) has triggered the continuous growth of China's computing industry. SenseTime, which kept a low profile, has recently been tasked to pilot the AI computing supply chain taking shape in the Shanghai FTZ's Lingang New Area."
+    publishedDateTime: 2023-06-05T08:19:00Z
+    webUrl: "https://www.digitimes.com/news/a20230605PD211/ai-china-server-ipc-cloud-computing-iot.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 53
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230605pd211_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Nvidia researchers use AI to turn 2D video clips into detailed 3D graphics"
     excerpt: "Neuralangelo, a new AI model from Nvidia Research, uses AI to take two-dimensional video clips and turn them into detailed 3D."
     publishedDateTime: 2023-06-01T13:01:00Z

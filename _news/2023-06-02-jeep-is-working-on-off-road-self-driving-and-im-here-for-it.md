@@ -7,7 +7,7 @@ originalUrl: "https://bgr.com/tech/jeep-is-working-on-off-road-self-driving-and-
 webUrl: "https://bgr.com/tech/jeep-is-working-on-off-road-self-driving-and-im-here-for-it/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Jeep testing autonomous driving tech for off-road use"
-    excerpt: "Jeep has released a short video highlighting the off-road autonomous driving technology it is developing, perhaps for its new generation of EVs."
-    publishedDateTime: 2023-05-31T15:45:00Z
-    webUrl: "https://www.motorauthority.com/news/1139796_jeep-testing-autonomous-driving-tech-for-off-road-use"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/jeep-grand-cherokee-4xe-autonomous-prototypes-testing-in-moab-utah_100887126_h.jpg"
-        width: 1920
-        height: 1081
-        isCached: true
-  - title: "How Many Sensors For Autonomous Driving?"
-    excerpt: "“Each type of sensor has limitations,” Kouthon said. “Cameras are excellent for object recognition but provide poor distance information, and image processing requires substantial computing resources. In contrast, lidar and radar provide excellent ..."
-    publishedDateTime: 2023-06-01T07:04:00Z
-    webUrl: "https://semiengineering.com/how-many-sensors-for-autonomous-driving/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 24
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/Fig01_Cadence_ProsCons_vehicleSensing_tech.png?fit=1274%2C715&ssl=1"
-        width: 1274
-        height: 715
-        isCached: true
 
 secured: "xb5OMEj27Dd7oiF+CdyPivb+AbeaJh+HIS8leeo8o01HsoQAluWcNu4O09PdxFYY0Sz1gUkCrCslyuYZc8NfE7KgPiAdB2zlcbokRy7D7lY7pHbCgyGYNRWIkRfKNeBFq7UmlTnnFZ21dPNSI2IbdH3AuJb+gOuAKzGHehN5RAxnVlxqlT4dgDkWqSCKjKuQDhMiWpSDYsU0aQDr2J3BGIpxHusYOKrhd3+n4vaFQmJwZJ9uOoNhyx4VPkpfxkYkN4MHG3p0TSvNhnskA6mJLFkGaGRRVl41Z0MbAriYfmFcdb94i1LZS9oja0PZ/AbsBqchEP3WDNgND2Kz1SDHXLFwnWmdDVuDL20ly8XCbdNoIU+Rshuzq2CEDO1IwxkqArAdEbnIvH1aaNmMCjpOoOe4HRUMjdi3Co/F5yzs3oHPAYNm5c3cAMNtsrXG/en4pFUgFODU2K2va57UxOnIg/biFZBnte7bz8pO9BWix0+o8Kfy2K+z0EWQGO8n08Frv7n3PMYtKtGlwIcCauopow==;IV3x4H0ittuV2FFZZGWZ0Q=="
 ---

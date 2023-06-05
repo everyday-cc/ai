@@ -98,20 +98,6 @@ related:
         width: 840
         height: 560
         isCached: true
-  - title: "Accelerate your learning towards AWS Certification exams with automated quiz generation using Amazon SageMaker foundations models"
-    excerpt: "Getting AWS Certified can help you propel your career, whether you’re looking to find a new role, showcase your skills to take on a new project, or become your team’s go-to expert. And because AWS Certification exams are created by experts in the relevant role or technical area, preparing for one of"
-    publishedDateTime: 2023-05-31T16:46:02Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-your-learning-towards-aws-certification-exams-with-automated-quiz-generation-using-amazon-sagemaker-foundations-models/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 75
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/31/aws-certifications-sagemaker.jpg"
-        width: 1022
-        height: 509
-        isCached: true
   - title: "ChatGPT and the Future of Banking: How AI Is Revolutionizing Financial Services"
     excerpt: "How AI Is Revolutionizing Financial Services By Raghuram Madiraju​ ChatGPT is a conversational artificial intelligence (AI) platform that has taken the world by storm. Part of its popularity is due to its responses being so human-like."
     publishedDateTime: 2023-06-02T16:13:00Z

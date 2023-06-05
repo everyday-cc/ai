@@ -52,6 +52,20 @@ related:
         width: 2560
         height: 1670
         isCached: true
+  - title: "Comment: Robots are coming, but with humans at the controls"
+    excerpt: "Take Alfie. It’s the prototype of London startup Prosper Robotics and looks like a Minecraft character made real: slightly taller than a grown man, bulky and gliding slowly around on wheels. It is also steered by a team of gamers in the Philippines, who wear virtual reality headsets throughout the day to control its movements."
+    publishedDateTime: 2023-06-05T08:30:00Z
+    webUrl: "https://www.heraldnet.com/opinion/comment-robots-are-coming-but-with-humans-at-the-controls/"
+    type: article
+    provider:
+      name: HeraldNet
+      domain: heraldnet.com
+    quality: 39
+    images:
+      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
+        width: 400
+        height: 400
+        isCached: true
   - title: "How can Congress regulate AI? Erect guardrails, ensure accountability and address monopolistic power"
     excerpt: "Takeaways: A new federal agency to regulate AI sounds helpful but could become unduly influenced by the tech industry. Instead, Congress can legislate accountability. Instead of licensing companies"
     publishedDateTime: 2023-06-01T11:41:00Z

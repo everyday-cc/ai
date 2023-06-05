@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2023-06-ai-boundaries-wildlife-survey-technolo
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-ai-boundaries-wildlife-survey-technologies.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Phys.org
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Max Cooper is using AI to push the frontiers of creativity and communication"
-    excerpt: "The acclaimed London-based music producer — known for his ethereal sounds and visually hypnotic live performances — discusses the limits of human language, the future of music, the dangers of unchecked AI research and the mysteries of consciousness."
-    publishedDateTime: 2023-05-31T16:14:00Z
-    webUrl: "https://www.thedrum.com/news/2023/05/31/max-cooper-ai-the-future-music-and-consciousness"
-    type: article
-    provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 36
-    images:
-      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/thumbnail_image_6487327.jpeg?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "How developing countries can regulate artificial intelligence, other emerging technologies"
     excerpt: "Artificial Intelligence (AI) and other emerging technologies such as, Internet of Things (IoT), blockchain, big data, cybersecurity, robotics, and"
     publishedDateTime: 2023-06-02T03:29:00Z

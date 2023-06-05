@@ -7,7 +7,7 @@ originalUrl: "https://semiengineering.com/how-many-sensors-for-autonomous-drivin
 webUrl: "https://semiengineering.com/how-many-sensors-for-autonomous-driving/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 1274
     height: 715
     isCached: true
-
-related:
-  - title: "Jeep testing autonomous driving tech for off-road use"
-    excerpt: "Jeep has released a short video highlighting the off-road autonomous driving technology it is developing, perhaps for its new generation of EVs."
-    publishedDateTime: 2023-05-31T15:45:00Z
-    webUrl: "https://www.motorauthority.com/news/1139796_jeep-testing-autonomous-driving-tech-for-off-road-use"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/jeep-grand-cherokee-4xe-autonomous-prototypes-testing-in-moab-utah_100887126_h.jpg"
-        width: 1920
-        height: 1081
-        isCached: true
-  - title: "Jeep is working on off-road self-driving and I’m here for it"
-    excerpt: "I was just in Utah and had a chance to take a Jeep off-road for the first time. It was a nerve-racking and exciting experience"
-    publishedDateTime: 2023-06-02T15:10:00Z
-    webUrl: "https://bgr.com/tech/jeep-is-working-on-off-road-self-driving-and-im-here-for-it/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 24
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/06/jeep-delf-driving.jpg?quality=82&strip=all"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "fEuRZ0gBbJkgCf784IaktvsoM5GyhogaV+Hu1A9h+vO28dndEcozIlheFahewe9s6mq/DyywOCWUDupcTdWyEnWuoindseTskC8GP5TjgGvpscNz4FodqrqU3W2RShyM5nzYQHmPODOZ7P744RPRk3YC8V8kQb5Ul5qgUhM2l2y1J+YfAQS/2q3rYY2RnTMVl6JWC2ls8Gu/XEYoWaHpHFCuR6t4g7Aj2nsjooQNqP67oShl3VYez/EbA5LUe1c5lJO8qruDagUN4yyGXB87Ooi+qx4OuTMiy8VGz1ryY9IAagO4kilHUs43LetwYSm5qifcXWLolA2JxwLbVz4NAD62tR+Qq5OHK2JHnBj+V+hE7AsKQ24n+m6Fz+6rRnzIaeCYQAOtWqixdsou7rlE1EPA9aZ1HPM9UpDDxWJU3j8jME2wx8c3RMfoMLD5XYumVyCa73CiET6yu3N0g9GSspVhqO9Vfpq9ZnbWDrd7yrkOPZU0kG28jzz4li6BJbn3Pq+4TEZyIzCGm9IsGdtKlQ==;TJ8m4wq5dUtFlLx7BMfqiA=="
 ---

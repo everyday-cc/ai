@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 750
     isCached: true
+
+related:
+  - title: "Google Launches Extensive AI Course for Free"
+    excerpt: "Search engine giant Google has announced 7 new generative AI courses that are completely free. These courses are meant to \"advance your cloud career\" and"
+    publishedDateTime: 2023-06-05T07:53:00Z
+    webUrl: "https://propakistani.pk/2023/06/05/google-launches-extensive-ai-course-for-free/"
+    ampWebUrl: "https://propakistani.pk/2023/06/05/google-launches-extensive-ai-course-for-free/amp/?fbclid=IwAR1Yaru5I1qSaH5ZSFdkBXI6BVqX218vhIRH4ivDhpeU7mUW_jhiSFyIhx0"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/06/05/google-launches-extensive-ai-course-for-free/amp/?fbclid=IwAR1Yaru5I1qSaH5ZSFdkBXI6BVqX218vhIRH4ivDhpeU7mUW_jhiSFyIhx0"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 59
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2023/06/geneartive-AI-google-e1685947361160.png"
+        width: 1000
+        height: 562
+        isCached: true
 
 secured: "swAVH0zwyb1cviZFP+NotTFld4qx/FfH4YBdb+GQVpOSBpVI75U8xUPWVbVuODUwyQxLv16yWxqS+g5v0bm3zhPyUuC4wYT0wOmroOxacMRbTprLxg4Fu0xpB6X5zvhvWWz30hrW/QIGT+Hr3hwBf9ZvooD72FEi9g3Mw1D/bQUZsMj5NkLuULBr3jvrQ6RgcxezgH+gIVtixn5GdIMxK0AEqh7+uDFAOYuBd134hbmaAYvAdHJ56yIYrGYVsEAyMN+XK39oHh7G5ep5c4xp2L8qBh0yk4ly5Ch03jjoIjfMYYj3FNcVte7D9ejTfJX9Xr6ntX0qW/9v+GsXGLuzk9b8J1ae+F+/K1qNkkgaxPCOVH3SyKaQ7iBbai78YLFH6fqgrCyuv2TXkee/QSDBnEy1OoxXltQpf8FJxNGsxe+01RAqwec66vGXXExcLmHUOn5LTerQ8zp5sFYxP/CwrF16OSoux1dJLW7NLo6pZFkVUFkCS9RtKA5q+aJdCMU74+veHkCOco480ahFSrN+ZA==;H9LgN21/1c9v9L9kdgF0wg=="
 ---

@@ -40,20 +40,6 @@ related:
         width: 611
         height: 458
         isCached: true
-  - title: "Specialized Cloud Provider CoreWeave Rides AI Wave To Another $200M Round"
-    excerpt: "CoreWeave, an AI cloud infrastructure company, has raised another $200 million in a Series B extension funding round that values it at $2 billion"
-    publishedDateTime: 2023-05-31T16:50:00Z
-    webUrl: "https://news.crunchbase.com/cloud/ai-coreweave-funding-venture/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 38
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Cloud_Computing.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "Report: CoreWeave Wins Miscrosoft Deal for GPU Cloud Services Worth Billions"
     excerpt: "Suddenly, GPU cloud provider CoreWeave is one of the hot tech companies of the week and likely longer. No sooner did the Roseland, NY, startup announce on Wednesday it had secured $200 million in a series B venture round extension than the news broke the next day that CoreWeave has signed a deal with Microsoft"
     publishedDateTime: 2023-06-02T16:52:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.chron.com/news/politics/article/us-europe-working-on-v
 webUrl: "https://www.chron.com/news/politics/article/us-europe-working-on-voluntary-ai-code-of-18127929.php"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -16,33 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "US, Europe working on voluntary AI code of conduct as calls grow for regulation"
-    excerpt: "The United States and Europe are drawing up a voluntary code of conduct for artificial intelligence, with a draft expected in weeks"
-    publishedDateTime: 2023-05-31T16:33:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/us-europe-working-voluntary-ai-code-conduct-calls-99729628"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/us-europe-working-voluntary-ai-code-conduct-calls-99729628"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/us-europe-working-voluntary-ai-code-conduct-calls-99729628"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 53
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Voluntary AI ethics code could come ‘within weeks’, EU chief says"
-    excerpt: "The United States and the European Union are expecting to release a voluntary code of conduct on artificial intelligence (AI) technologies \"very, very soon\", according to officials."
-    publishedDateTime: 2023-06-01T13:05:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/06/voluntary-ai-ethics-code-could-come-within-weeks-eu-chief-says/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 34
 
 secured: "ahOUT0U1zS30y3QZWb5MMndsht6ra4kuczuGX+3dCC/xHmu7H2ozgeLrAWMj14bAaKZGofclbVBy34vUduaLrT/LRPAZ+Ysf7hDhmKZ/46EKAeJSoZ+FYxDBJsZcBz2FsIHRjjKbS6/cW4fysK5iqVLbuwAz2ze8T1y3HGpY8sBQs+R9/wlbwm0B60codHsxynN3m7K2JHLdoxRmxL8OQnUxaS5qkORwUESYe//U5qpjceC2SeE7hX+DPmbKwzW8MBHqvjt7HL6xc6OL1YyHwL9DxZ1frthTPdFLhlOESUNcx7mVO1V8FVs8pBuTbMtJnYgKIgZ4mTQgQqr8oMhCOlk+TdgWXoH+fcgNZXUWrylyYByATxv9gl/ggm6k6IBpWQ+Nj3yToDIR9XA4QEFhc98S6AlxGJYUCKrGrtC1gOXec2m0TxsNuzPAdMerP/HLufYq8AUkCWhfkTe14zPVOSqAlrvYgCqNDUB95FMFYZIefcEeCBslTqaLPrT4Lgs+Dm/u4yG7BHWhhOWXATnwcw==;gHLGk1vzqNb3IIi6TOliug=="
 ---

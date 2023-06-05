@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-has-created-areas-so-gre
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-has-created-areas-so-grey-you-could-write-a-song-about-it/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "It Might Be Controversial, But AI Could Help Create A Greener Future"
+    excerpt: "Arup’s digital services leader, Will Cavendish said it has used AI to calculate where best to deploy nature-based solutions in cities like Shanghai."
+    publishedDateTime: 2023-06-05T08:31:00Z
+    webUrl: "https://www.forbes.com/sites/jamiehailstone/2023/06/05/it-might-be-controversial-but-ai-could-help-create-a-greener-future/"
+    ampWebUrl: "https://www.forbes.com/sites/jamiehailstone/2023/06/05/it-might-be-controversial-but-ai-could-help-create-a-greener-future/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiehailstone/2023/06/05/it-might-be-controversial-but-ai-could-help-create-a-greener-future/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647d9bae4c670bf9090e1092/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 789
+        isCached: true
 
 secured: "PkN0MmWLj8pEzC5tvR/TjF2Xg5g0S4oAm7SuC5bn0TM83wu/PfLYxINRQfHN9EAD+q4d7rfq9ttsnK4PonAq+Tkzj41kBScqdwWUfSA77maUspOlRJeIQR7t5R5zHQYw/E29pWCRGmsynyuOD3VowLdjfHIhn09TDksIX+8IaC9XbQjjv5rxVh9Q1fdCqvrTA7E8ONIr4tIquDCG6ykXFRUCve97nMDJ1RTX+hCrZDY2HId6aXKcU6aWBufFCNc9Jwjgm4iYqH4K0OYm8lIJ17M/RhyRyLOUovoWQnTxFJ/9NsuAFA3KRVY66x61DpF/ZqmJTHClrX6n1HKNOxyGgZOZr+BNnQ0erf4h6qtz2WU=;XmECXPy7eeoghxyFA39i3w=="
 ---

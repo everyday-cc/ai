@@ -39,6 +39,20 @@ related:
         width: 2560
         height: 1670
         isCached: true
+  - title: "Comment: Robots are coming, but with humans at the controls"
+    excerpt: "Take Alfie. It’s the prototype of London startup Prosper Robotics and looks like a Minecraft character made real: slightly taller than a grown man, bulky and gliding slowly around on wheels. It is also steered by a team of gamers in the Philippines, who wear virtual reality headsets throughout the day to control its movements."
+    publishedDateTime: 2023-06-05T08:30:00Z
+    webUrl: "https://www.heraldnet.com/opinion/comment-robots-are-coming-but-with-humans-at-the-controls/"
+    type: article
+    provider:
+      name: HeraldNet
+      domain: heraldnet.com
+    quality: 39
+    images:
+      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Commentary: No, artificial intelligence probably won't kill us all"
     excerpt: "Framing artificial intelligence as an existential threat is merely a doomsaying tactic. There may be more to this fear campaign than meets the eye, says this researcher."
     publishedDateTime: 2023-06-03T22:02:00Z
