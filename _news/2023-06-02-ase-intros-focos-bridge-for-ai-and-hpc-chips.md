@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230601PD216/ase.html"
 webUrl: "https://www.digitimes.com/news/a20230601PD216/ase.html"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 640
     height: 427
     isCached: true
-
-related:
-  - title: "ASE VIPack™ FOCoS-Bridge integrates multiple ASICs and silicon bridges to accelerate AI innovation"
-    excerpt: "FOCoS-Bridge technology addresses the increasing demand for higher bandwidth and faster data transfer rates in AI and HPC applications. It leverages the advantages of highly integrated fan-out structures to overcome the limitations of traditional electrical interconnects,"
-    publishedDateTime: 2023-05-31T11:43:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/05/31/9823232.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "ee6c9EOkdJICRRtvODs88nc3YV2jUMLva28Kdz6Oxd1RS2EP4L14HqTlGq6J9hMofvKi0VNcDatGkNtQwdN3z7iM+/1Y+LyyRiY+66RR8tsjAP8pw0Z3/gOwSDZPxwD608pk3jrIG0883elR2eS3tZoWdzH11MDz60hat/OvQeunTCvZTQB/PNw8a5uONPKm0B95kNkto0BfjaiQcs1dtfU3/22mNJqcF2hLQbc2v5xkOpPNi+zsaD7C7p0pbHFAPNqq2qXHxMkRRb4b1tkn/0qZSqnYBg1Ao+IUW+z8kQzMSBDdnhxbLGGGKHuzMeOFgtwRjxyPUd/D6AAbfw4+QXYTY9bAqlFMNtLYd6i9mrT8igMowiOgYYEGMiyBhEPP58pxkftdfprlCffpl9qjVqn0MMyH+zgV4XtGE7lX8NdieCRxz77J6klQbqrbTDSBNqSB6o3KbVD5dvMBMezeICegQ2FpZpGK1/aZXYHWl8tZtKGWjLEJMXprkSb6bKdzI2tDJrbXKmIyCKLrxD75TQ==;WtG+PSqtjSMsjQBbr4OdLg=="
 ---

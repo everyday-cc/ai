@@ -19,49 +19,36 @@ topics:
   - AI
 
 related:
-  - title: "Opinion: Nvidia and these 6 tech giants will gobble up the AI pie"
-    excerpt: "In fact, the event was all about AI — from integrating artificial intelligence with Windows, Bing and developer tools. Note that many of the offerings were still in “preview” mode. As for Azure, its cloud platform, Microsoft is trying to catch ..."
-    publishedDateTime: 2023-05-31T13:04:00Z
-    webUrl: "https://www.marketwatch.com/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8"
+  - title: "What’s Inside Nvidia’s AI Supercomputer? Powerful Chips and a Lot of Memory."
+    excerpt: "This past Monday, chip giant Nvidia which has seen its shares nearly triple to over $400 on rising demand for AI, announced its new DGX GH200 AI supercomputer powered by its GH200 Grace Hopper superchips. That’s a lot of letters, numbers, and supers."
+    publishedDateTime: 2023-06-02T23:35:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-ai-supercomputer-chips-c3ac4da0"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 89
+      name: Barron's
+      domain: barrons.com
+    quality: 71
     images:
-      - url: "https://images.mktw.net/im-747436/social"
-        width: 1280
+      - url: "https://images.barrons.com/im-793870/social"
+        width: 1279
         height: 640
         isCached: true
-  - title: "Opinion: We’ve reached a turning point with AI, expert says"
-    excerpt: "Russell has called for rebuilding AI on a different foundation to ensure our control over the technology — but that ... There are a few other big areas of work in AI. There’s robotics, which is both how do you make a physical robot that can actually ..."
-    publishedDateTime: 2023-05-31T17:38:00Z
-    webUrl: "https://www.cnn.com/2023/05/31/opinions/artificial-intelligence-stuart-russell"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/05/31/opinions/artificial-intelligence-stuart-russell/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/31/opinions/artificial-intelligence-stuart-russell/index.html"
+  - title: "NVIDIA announces new class of supercomputer and other AI-focused data center services"
+    excerpt: "The NVIDIA DGX supercomputer could be the top of its class. Learn what this may mean for enterprise AI and high-performance computing."
+    publishedDateTime: 2023-06-01T04:07:00Z
+    webUrl: "https://www.techrepublic.com/article/nvidia-dgx-ai-supercomputer-computex-announcements/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 64
     images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230525103431-20230525-perils-of-ai-power-on.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/09/nvidia-omniverse-cloud.jpeg"
+        width: 1200
+        height: 801
         isCached: true
-  - title: "Intel cedes spotlight at global tech gala to AI darling Nvidia"
-    excerpt: "Intel, long synonymous with the fastest processors, has seen its all-purpose chips overshadowed by Nvidia's more specialized, parallel-processing architecture."
-    publishedDateTime: 2023-05-31T17:13:00Z
-    webUrl: "https://www.seattletimes.com/business/intel-cedes-spotlight-at-global-tech-gala-to-ai-darling-nvidia/"
-    ampWebUrl: "https://www.seattletimes.com/business/intel-cedes-spotlight-at-global-tech-gala-to-ai-darling-nvidia/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/intel-cedes-spotlight-at-global-tech-gala-to-ai-darling-nvidia/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
   - title: "Charting Nvidia’s 30-Year Ride to Overnight AI Success"
     excerpt: "But an increasing number of its chips are being installed in data centers to help companies like Microsoft Corp., Alphabet Inc., OpenAI, and Amazon.com Inc. build their AI capabilities and offer those services to clients. Last year’s release of ChatGPT ..."
     publishedDateTime: 2023-06-03T03:55:00Z
@@ -76,61 +63,15 @@ related:
         width: 1440
         height: 969
         isCached: true
-  - title: "Nvidia's reboot: How the processing giant made the shift from gaming to AI"
-    excerpt: "Here's how Nvidia CEO Jensen Huang presented the results of Q1 2019, five years ago: At the heart of our opportunity is the incredible growth of computing demand of AI, just as traditional computing has slowed. The GPU computing approach we have pioneered ..."
-    publishedDateTime: 2023-05-31T17:45:00Z
-    webUrl: "https://www.usatoday.com/story/money/2023/05/31/how-nvidia-reinvented-itself/70265023007/"
+  - title: "Innodisk empowers smart factories with NVIDIA AI and Metropolis Platforms, and Aetina's SuperEdge AI Training Platforms"
+    excerpt: "Innodisk is collaborating with NVIDIA and Aetina to bring the latest artificial intelligence (AI)-powered industrial digitalization and automated inspection into its factories for advanced electronics manufacturing."
+    publishedDateTime: 2023-05-31T13:51:00Z
+    webUrl: "https://electronics360.globalspec.com/article/19762/innodisk-empowers-smart-factories-with-nvidia-ai-and-metropolis-platforms-and-aetina-s-superedge-ai-training-platforms"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 37
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/05/25/USAT/96ccb936-a4f1-428e-a72b-d8bd5c1eb7a5-70210697007-artificial-intelligence-ai.jpg?auto=webp&crop=2101,1182,x0,y213&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The AI boom has turbocharged Nvidia’s fortunes. Can it hold its position?"
-    excerpt: "Nvidia’s other strength is its software. CUDA, its ai platform, is popular with programmers and runs only on the company’s chips. By, for instance, giving free access to its chips and software to some AI researchers, the firm focused on encouraging developers to use its software long before its competitors set out to woo them."
-    publishedDateTime: 2023-06-01T08:41:00Z
-    webUrl: "https://www.economist.com/leaders/2023/06/01/the-ai-boom-has-turbocharged-nvidias-fortunes-can-it-hold-its-position"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 36
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230603_LDP501.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Nvidia, The World's Newest, AI-amped Tech Giant"
-    excerpt: "Nvidia, a chip technology company, became a trillion dollar enterprise this week and the world’s newest tech giant. Here are a few key facts about the little-known firm."
-    publishedDateTime: 2023-05-31T17:18:00Z
-    webUrl: "https://www.barrons.com/news/nvidia-the-world-s-newest-ai-amped-tech-giant-8bf9a0e6"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 19
-  - title: "The generative AI hype bubble runs through Nvidia"
-    excerpt: "Generative AI is the hottest trend on Wall Street. Ever since OpenAI’s ChatGPT debuted in late 2022, kicking off a flurry of activity in the space, investors have been piling into AI stocks. And Nvidia (NVDA) has been the biggest winner."
-    publishedDateTime: 2023-05-31T19:41:00Z
-    webUrl: "https://www.aol.com/finance/generative-ai-hype-bubble-runs-164142386.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
-  - title: "Nvidia and Broadcom lead robust week for semiconductors and artificial intelligence in the tech sector"
-    excerpt: "This was a major week for semiconductors and artificial intelligence stocks ... Plurilock Security Inc. (TSX-V:PLUR) said an overseas healthcare administrative services provider has placed a new order for its high-margin flagship software platform."
-    publishedDateTime: 2023-06-02T19:37:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1016869/nvidia-and-broadcom-lead-robust-week-for-semiconductors-and-artificial-intelligence-in-the-tech-sector-1016869.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 3
+      name: electronics360.globalspec
+      domain: globalspec.com
+    quality: 0
 
 secured: "9Si5q4wXvAQ9rN3tvwI6TSN8l0hCnY9XKmW9CBRiFeIL5r49bmXfsF3v95gjBlIjROtJKKsF0C23UHncXiUnoHmhVDqB64V6sznG9LkjtkGtXST/LVBZwE9QV9RHbZ0lecfcPrHHOR++uUyrURUh5GfdLzKHglsVi43w0N+efqnIKGwZLK0qwh9HynEyQgAXwIfgigYldh+oBrGVzUlrKFlNiAF/PA4X+4w4LQIGbfYKgQaYuKyMcLG4ertcye0qNqJIy9O7ijjM4xZEQb+bDr2hM3ikDgoYvf9kQYUvqVDovnKsnV4vTADRwhPVFCEjMT4AGegfyP0nDdSZJUEODdGBG8/HLgdPR9zR3nbXACie8FmWAYGqivMvjhl+c7RfB6mPWe8P7JLEj2Vc5zJIW4RUoZ052zwOZM6JMCPTEivZOGNpZwhJXwfYbKn7SpUprEAktb8BhFq4647Uiwydp2xc8k8JYzXagYMaFG2s5sWYoCrSIv+n7rYmGhg8EMGX7cEgQDt3NAOPl1keUce8Pg==;7b4N3RzzebH8N2m8zU58fg=="
 ---

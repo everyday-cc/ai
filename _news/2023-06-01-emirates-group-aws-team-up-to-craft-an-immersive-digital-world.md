@@ -49,15 +49,6 @@ related:
         width: 920
         height: 630
         isCached: true
-  - title: "UAE’s Emirates partners with AWS to bring immersive, gamified training to employees"
-    excerpt: "With a brand new Emirates Virtual Hub, the airlines will use iXR technology to provide its cabin crew with an unmatched 3D interactive experience. UAE's Emirates partners with AWS to bring immersive,"
-    publishedDateTime: 2023-05-31T12:10:00Z
-    webUrl: "https://www.itp.net/infrastructure/cloud/uaes-emirates-partners-with-aws-to-bring-immersive-gamified-training-to-employees"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 28
 
 secured: "xNTLjdOYhM+9CCFRYZzW73/HQx7tqzuUgjKTXU3dCu98z+2a+zhqlT/yTDmXFVoFibI373cV78eHgMhixdEE2Ia+tsx1/vgWlaYEK3gcK23Z2iNbmoHBoHb+Jyq9UDvI5WF2t5H3D5hWpn69coT2APCSJgupxZrH0NudfXXLqT71ndr10lp1ILRxYVJVFu851tsnlQ45Jnh8eqcHJSmeib5i+uA3umICnncGHWm4K7vKDFpzz7lBVGsxByY4oZhzzmPotuAVPUMUsUu9gtx4wZUDpo6vqjm6lCGr57egWd90mScHROhMMl1SgyVM2PkL4FVWh28MwPeJeBelMOVGnadedujxiAZfcon3ASOgIexujF7Nu/pMTk6+9FCopv9+/McspXbmfiTmvcEnxM9iIW8Pq/cqFjDsPMIOCntcAEUKa1Isvln+PBRrCu1dERTK9ZX05inxIyr/UCazmqdPV6Af8j3ENPMsiqQyDCox1woDgp6R/wBzPeC24CRpgpK6XlGhs1aaqAOoft3OXVnwMQ==;P3XKCQZVfaSMAzzz3rX2cg=="
 ---

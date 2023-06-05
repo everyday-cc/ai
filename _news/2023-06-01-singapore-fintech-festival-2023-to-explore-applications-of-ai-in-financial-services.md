@@ -90,6 +90,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Here’s What You Need to Know About the AI-Themed Singapore Fintech Festival 2023"
+    excerpt: "The theme for the upcoming Singapore Fintech Festival 2023 would be ‘Applications of Artificial Intelligence (AI) in Financial Services’."
+    publishedDateTime: 2023-06-05T04:05:00Z
+    webUrl: "https://fintechnews.sg/74766/singapore-fintech-festival-2023/heres-what-you-need-to-know-about-the-ai-themed-singapore-fintech-festival-2023/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 34
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/Heres-What-You-Need-to-Know-About-the-AI-Themed-Singapore-Fintech-Festival-2023.png?x90673"
+        width: 1024
+        height: 567
+        isCached: true
 
 secured: "9lgpuUX9xHw666G4cPp0CIg9P1P2hp4im+ffYnlerMsw4mqxG0d4wvoNcchtW3aKIiA9ih7FAyKnRZ0+HBbhH7Vs5J56eBcxe3pcdPTw3Rjl7yucBacR5c/3dmCwWZuym08B0vcQqLm3zynIPo6lyG/HOx4UCcrolzYUxiQDG3JlEeyhjjBNN8BeRvD77WzjQUKZf40kCQMB6ONAGkpQdwMoBJGgygNstzf3Bu5NmWeXE6T//5JjdfL2iU0kZ04xmeVdF2Sg7V9H+Z0Pp8DzSufaq3uWfgDwxXV3YeRkIo7j4Ey2FPBhjLHgmM3CN+EQi87E9vcF/PU8DN4JZygWwoSJPmrBVgokANYoAKLcZqI=;69NotbBEuMewLcjxJw/Bbw=="
 ---

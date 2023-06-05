@@ -19,38 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Opinion: Nvidia and these 6 tech giants will gobble up the AI pie"
-    excerpt: "In fact, the event was all about AI — from integrating artificial intelligence with Windows, Bing and developer tools. Note that many of the offerings were still in “preview” mode. As for Azure, its cloud platform, Microsoft is trying to catch ..."
-    publishedDateTime: 2023-05-31T13:04:00Z
-    webUrl: "https://www.marketwatch.com/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 89
-    images:
-      - url: "https://images.mktw.net/im-747436/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Opinion: We’ve reached a turning point with AI, expert says"
-    excerpt: "Russell has called for rebuilding AI on a different foundation to ensure our control over the technology — but that ... There are a few other big areas of work in AI. There’s robotics, which is both how do you make a physical robot that can actually ..."
-    publishedDateTime: 2023-05-31T17:38:00Z
-    webUrl: "https://www.cnn.com/2023/05/31/opinions/artificial-intelligence-stuart-russell"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/05/31/opinions/artificial-intelligence-stuart-russell/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/05/31/opinions/artificial-intelligence-stuart-russell/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/230525103431-20230525-perils-of-ai-power-on.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Intel cedes spotlight at global tech gala to AI darling Nvidia"
     excerpt: "Intel, long synonymous with the fastest processors, has seen its all-purpose chips overshadowed by Nvidia's more specialized, parallel-processing architecture."
     publishedDateTime: 2023-05-31T17:13:00Z
@@ -62,20 +30,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
-  - title: "Charting Nvidia’s 30-Year Ride to Overnight AI Success"
-    excerpt: "But an increasing number of its chips are being installed in data centers to help companies like Microsoft Corp., Alphabet Inc., OpenAI, and Amazon.com Inc. build their AI capabilities and offer those services to clients. Last year’s release of ChatGPT ..."
-    publishedDateTime: 2023-06-03T03:55:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/06/02/chips-inside-nvidia-s-30-year-ride-to-overnight-ai-success/d74f9838-01c1-11ee-9eb0-6c94dcb16fcf_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2Q74LDABYEI65HVQNSKNZMLPZ4.jpg&w=1440"
-        width: 1440
-        height: 969
-        isCached: true
   - title: "Nvidia's reboot: How the processing giant made the shift from gaming to AI"
     excerpt: "Here's how Nvidia CEO Jensen Huang presented the results of Q1 2019, five years ago: At the heart of our opportunity is the incredible growth of computing demand of AI, just as traditional computing has slowed. The GPU computing approach we have pioneered ..."
     publishedDateTime: 2023-05-31T17:45:00Z
@@ -90,47 +44,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The AI boom has turbocharged Nvidia’s fortunes. Can it hold its position?"
-    excerpt: "Nvidia’s other strength is its software. CUDA, its ai platform, is popular with programmers and runs only on the company’s chips. By, for instance, giving free access to its chips and software to some AI researchers, the firm focused on encouraging developers to use its software long before its competitors set out to woo them."
-    publishedDateTime: 2023-06-01T08:41:00Z
-    webUrl: "https://www.economist.com/leaders/2023/06/01/the-ai-boom-has-turbocharged-nvidias-fortunes-can-it-hold-its-position"
+  - title: "MediaTek, Nvidia partner for AI-based in-cabin solutions"
+    excerpt: "The smart cabin automotive offerings will run Nvidia Drive OS, Drive IX, Cuda and TensorRT software technologies. MediaTek will use its Dimensity Auto platform with Nvidia’s advanced driver assistance systems (ADAS) solutions to deliver all-around smarter in-vehicle experiences,"
+    publishedDateTime: 2023-06-01T13:05:00Z
+    webUrl: "https://electronics360.globalspec.com/article/19769/mediatek-nvidia-partner-for-ai-based-in-cabin-solutions"
     type: article
     provider:
-      name: The Economist
-      domain: economist.com
-    quality: 36
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230603_LDP501.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "The generative AI hype bubble runs through Nvidia"
-    excerpt: "Generative AI is the hottest trend on Wall Street. Ever since OpenAI’s ChatGPT debuted in late 2022, kicking off a flurry of activity in the space, investors have been piling into AI stocks. And Nvidia (NVDA) has been the biggest winner."
-    publishedDateTime: 2023-05-31T19:41:00Z
-    webUrl: "https://www.aol.com/finance/generative-ai-hype-bubble-runs-164142386.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
+      name: electronics360.globalspec
+      domain: globalspec.com
     quality: 19
-  - title: "Nvidia and Broadcom lead robust week for semiconductors and artificial intelligence in the tech sector"
-    excerpt: "This was a major week for semiconductors and artificial intelligence stocks ... Plurilock Security Inc. (TSX-V:PLUR) said an overseas healthcare administrative services provider has placed a new order for its high-margin flagship software platform."
-    publishedDateTime: 2023-06-02T19:37:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1016869/nvidia-and-broadcom-lead-robust-week-for-semiconductors-and-artificial-intelligence-in-the-tech-sector-1016869.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 3
-  - title: "This week in AI: Existential threat from AI, Nvidia announces AI supercomputer, UK wants global AI watchdog and more"
-    excerpt: "The DGX GH200 uses Nvidia's NVLink technology to combine 256 GH200 superchips, which each house an ARM-based Grace CPU, and H100 Tensor Core GPU, that allow for performance up to 1 exaflop (equivalent to one quintillion floating point operations per second) with a whopping 144 Terabytes of shared memory."
-    publishedDateTime: 2023-06-04T13:30:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/this-week-in-ai-existential-threat-from-ai-nvidia-announces-ai-supercomputer-uk-wants-global-ai-watchdog-and-more-10740031.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 0
 
 secured: "BbkSMRRwPgvMfikKU8gi77HOp0w/OMhnqw5bj7cZIJ5tXFueKuyKNViS3oacaYWrCe7ozuZb1HLsYjHKTVIyoSVwHTH7QnrUjJkkIvAKfXNXkxWhKYo54UyrA/r4dUmtwPwIsRhFA9+/+Y8kUadE67u8NPiM2P5+zT64S7/7KF+G7IgDhqz8iTIO45Uq4DInd8P6oraONUD1uxkKCMDkuFCx95ct7L0QhwpwePHDmY3haP3i56c+C+w8nP31NU6gejkolZRQC3xt7rlqRsuXKgsyKDgtnCbT7NJkuI7p9wfdoF/YPFa+/LpKYSaXOtnJrDbBXTRImVIyt7wpoLMw7I3d3UoNXuc81h/2GY5mEeHTNiX1c41KfuR33zvDl7qSwGeKINhV6sPUc7Q0Xxb4Lx1viZ+3i83WOAUq5d/UkhOlGMEWo83LGyM8IqEyCA5a0ubgNkLxHZWmEiAjOHNxTE/oXWQIcHK1iiYLDBGG2RntWk+RhoTJTdmXsO0qT2jBYGqIiwNxv3w1d771Ujlncw==;qETyVja1H+gfcag5fW14Mw=="
 ---

@@ -90,6 +90,20 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "How AI Tools Both Help and Hinder Equity"
+    excerpt: "The technology promises to assist students with disadvantages in developing skills needed for success. But AI also threatens to widen the education gap like no tech before it."
+    publishedDateTime: 2023-06-05T04:05:00Z
+    webUrl: "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2023/06/05/how-ai-tools-both-help-and-hinder-equity"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 37
+    images:
+      - url: "https://www.insidehighered.com/sites/default/files/2023-06/GettyImages-1286627625%20%282%29.jpg"
+        width: 788
+        height: 443
+        isCached: true
 
 secured: "itV9Zyin9+HpUpL+cnIeBinIanUZBsB28CdZAtkuzUDaIC+hAFBz7EEnFJXT41qz8P551UnrYLnG6eFBgaOopH7WM1uYtUQYOOHiy0SVb41Urb40P0ivvOAKQtLIOJm650zSkJcUOSqGxm2hdqrINjQ/IZokzebcdJ5YFdjcZm0DM0u15RYQSAKIfvO41d7dls0/I16NesMGx/ah9mxHnMvfqCpGA/DxCHQKQefDPpiL6TEekYpb2NrGX3/zvZ4jiJlsEiJoXoTsDe2Xz+OlYRdJqdXf4vZG5U90qtT0OnSbsKt4AK4C+5Z2DPDs0pFa5FfCDXoQqjoII+W577p/91MGnaEY80DyOBjxXJxbgKdhce7jf/wf9IZCIzgzAB6C2js+/Y0qRAOs2H4RPJecNQ1oYdd/zQW1ezM/JQ+xNycndEW9rXETx5T+/NXlCoVpVa+v3WSF2LqFYTrvbQlxf6Q2DyTy0sbDoeSg7xOiZu599IivDi5zFvTVHtgOUtVzzTkGog1nzVJsDHzHKcvZSA==;LdemrF8/RV9VDmnSN+237w=="
 ---

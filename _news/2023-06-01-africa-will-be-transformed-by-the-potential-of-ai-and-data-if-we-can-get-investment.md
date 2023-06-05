@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI crop predictor aids Africa's crisis planning"
-    excerpt: "An artificial intelligence (AI) tool is using satellite remote sensing and machine learning to predict agricultural yields of key crops across Africa, to help mitigate the harms of climate change and other crises,"
-    publishedDateTime: 2023-05-31T20:23:00Z
-    webUrl: "https://phys.org/news/2023-05-ai-crop-predictor-aids-africa.html"
-    ampWebUrl: "https://phys.org/news/2023-05-ai-crop-predictor-aids-africa.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-05-ai-crop-predictor-aids-africa.amp"
+  - title: "AI Anxiety: How These 20 Jobs Will Be Transformed By Generative Artificial Intelligence"
+    excerpt: "We explore how generative artificial intelligence will transform twenty jobs across industries and how to embrace these changes and thrive in an AI-driven world."
+    publishedDateTime: 2023-06-05T05:47:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/06/05/ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/06/05/ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/05/ai-anxiety-how-these-20-jobs-will-be-transformed-by-generative-artificial-intelligence/amp/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 94
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-crop-predictor-aids.jpg"
-        width: 1997
-        height: 1227
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647d767e5317b4aee4d81907/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "INziU/u6wzpGj8lLCDJjES5J5kc9cgUMp3r8Ky3CAidB/KPUyqDhyjUEWye2mAXhSFYGsOAuomCBJ2aG221+KTGy8Nwq6QdF3ZVcX+1pPHrwPpmPNHi4HJtL2xfCNW0Bt2Y+XvD1NtAqyqHzKXsThhuYFtbWUyPR9P7cJM95WZfZ7PQ4TnHOi+nj7I+ZyQx+G+aunPYzM/WR/cCRHpzKEe2/dMW9re6EDidSLapWXZtBdsBVg2AXQqow/3NlcSRWJG9uVg/g2Nu0IDV/iG2zP9E9pj65VGg9yzDCEgyO0OiZkH+AXfSxqChtcGeOm9LVjPpt1L4OVs+z8Zkmh5e58oyEEIwSIOfm6v8nIoRCssUHSuZ+qq4NFvWGOqQA4rGvqE5VEdHdP6llDZM0Fbgyfl2d3rV7S3LKc6RDAyn3z72s+hNhQE7oSjB8ndvH1gz2gCaC64LCyYleXwfmlcXA1thsyX3IV8bgCvJ8VDahEq9AvhzggbD5nxsFxhWmGssOjB7Y/K7nskvAm6b3Kgk17g==;/AWB/FHN1+ugQDS+PCq5Lw=="

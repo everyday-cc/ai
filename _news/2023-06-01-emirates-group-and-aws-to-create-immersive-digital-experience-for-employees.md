@@ -41,15 +41,6 @@ related:
         width: 2048
         height: 1638
         isCached: true
-  - title: "UAE’s Emirates partners with AWS to bring immersive, gamified training to employees"
-    excerpt: "With a brand new Emirates Virtual Hub, the airlines will use iXR technology to provide its cabin crew with an unmatched 3D interactive experience. UAE's Emirates partners with AWS to bring immersive,"
-    publishedDateTime: 2023-05-31T12:10:00Z
-    webUrl: "https://www.itp.net/infrastructure/cloud/uaes-emirates-partners-with-aws-to-bring-immersive-gamified-training-to-employees"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 28
   - title: "Emirates Group, AWS team up to craft an immersive digital world"
     excerpt: "The Emirates Group is embarking on a futuristic, immersive digital journey to transform its employee experiences -- a first for the industry -- by collaborating"
     publishedDateTime: 2023-05-31T23:54:00Z

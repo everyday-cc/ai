@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-06-01/broadcom-suffer
 webUrl: "https://www.bloomberg.com/news/articles/2023-06-01/broadcom-suffers-sales-slowdown-even-as-it-points-to-ai-gains"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -70,6 +70,15 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 53
+  - title: "Nvidia and Broadcom lead robust week for semiconductors and artificial intelligence in the tech sector"
+    excerpt: "This was a major week for semiconductors and artificial intelligence stocks ... Plurilock Security Inc. (TSX-V:PLUR) said an overseas healthcare administrative services provider has placed a new order for its high-margin flagship software platform."
+    publishedDateTime: 2023-06-02T19:37:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/1016869/nvidia-and-broadcom-lead-robust-week-for-semiconductors-and-artificial-intelligence-in-the-tech-sector-1016869.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 3
 
 secured: "jM+2BH6Jgh6FungyrQmlE+D0/ATW3ncUr3YK3wuPP0CpMFwyKB56hAnhutZssFOFEClzrrnQSqW3uVfNqXu6uEml5JM8ZltNxjbrclyS6J7X1iDyT+2P8o4VM2lAKu7QW0SsPA55Ps8A5usbBGWe5DC2LTj901yM00MgDYO46qaAXnxTiR4MmtWFjEdi8rFq2oikR+5fCwB9y8vbQszfum5EYbNyuyMdxzw4u+yt//We2EAzYioa3WNVB2Er5dPG1wyudUoNabUmX6RbGuh9ktChKc5436re6QNT6Dm9W88Cs4y7oWoO5L+cjQS6H1VfGX0y22VnVMxgZWV+aoG9ZEQ1OKjgSZfOfH4pov1e/AoSSXcU1ecB++iv1pQT4aqh45aOxm2ZRddzTJ5ZEI5D1yKLXGaUUfrftmqwQg0pFDm92ZPAbIm54HryW+EhvVjxjATIgATtdtW87+lNYWCyMP7Uc65ByyXZrfz0Cstt6KHU951x5qzliWHyZYBKthI2LwqQKjtmmpTu1tBmAaw75Q==;NM6ewDyOzRN7CqQrOc9eYA=="
 ---

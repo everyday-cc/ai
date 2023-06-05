@@ -37,15 +37,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "AI poses ‘risk of extinction’ warn industry leaders"
-    excerpt: "AI could pose an existential threat to humanity, artificial intelligence luminaries have warned, in an extraordinary one-sentence open letter, urging that it be treated with the same level of urgency as pandemic and nuclear war."
-    publishedDateTime: 2023-05-31T11:47:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/ai-poses-risk-of-extinction-warn-industry-leaders/news-story/1fdc1030037dd60fb3813436e8538a9d"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
 
 secured: "uooXiIXiwxj/WI6K7RzXwRVwP9YuGb9O/mXC1kuF6vRhM4petuOR4keSG1/DuybKVcUZkIz84wDin+IonDrbnzQbolVPiZFnk4cMam3fSuEop1w/ANGOWdFL3RA+JdrRcVCudvgEd/1KCO0T0v68nN7tzCryXsYdzTalR8ItnNL0lHdBTc0lh10MBOa34KQqTQSOnXIcrpixYAffioNOsDnUBeho6WRRYatcldUtflbE8UW+Y4OPB3zCFsGLwkiTaRFfU6Q/emRUR0LufChJZpPZ00Jti0HTnbqBYr4ZjMg/SvV/DGlrysvegiqUWala9rtUjWl93AiFOa6fkSou4Hq5X4/CEJZC4oI9iVM7UwM=;u7YpOlaT39b9xoiIlnEOIg=="
 ---

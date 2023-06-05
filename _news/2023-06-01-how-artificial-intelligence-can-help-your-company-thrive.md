@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/06/01/how-art
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/06/01/how-artificial-intelligence-can-help-your-company-thrive/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-06/ai.jpg?itok=YfnF92cM"
         width: 1528
         height: 800
+        isCached: true
+  - title: "How AI Tools Both Help and Hinder Equity"
+    excerpt: "The technology promises to assist students with disadvantages in developing skills needed for success. But AI also threatens to widen the education gap like no tech before it."
+    publishedDateTime: 2023-06-05T04:05:00Z
+    webUrl: "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2023/06/05/how-ai-tools-both-help-and-hinder-equity"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 37
+    images:
+      - url: "https://www.insidehighered.com/sites/default/files/2023-06/GettyImages-1286627625%20%282%29.jpg"
+        width: 788
+        height: 443
         isCached: true
 
 secured: "1n3x+WHpohCZP3d13OAJTAEYf5vN2GUneVQKr4i/7A6hGGHWIm5xBRtq29oaWhsq15PrFVu0RrwLv77cekEkmp0CjFx+tPMqeFTj8eOuKjldlzn2dDE7OYQ0FAjSila0ftO0EpJHE+5PoNUunQSbq9NJiutVlYMiXYSNec9UJaK6zrRWPEervq7Y6jkqlghK21qpNSdzlPKI4kJnXA2v3q9Au2reKyW9aLg0L9CQ7Ws+kJwATMJ2/fJcIvXEKa/1ScZAlwIF1k4SThAjMc9r30sAVRSCY/epfTnvy+AovpSpDdC0VA+Iu1/rRvW93d1/prx+fsZDw8uTK9kO6OQn4mbhsHHgI7cGIsCe8qPMOoswB8VMBZ9nW7dbCUZftpYau5Km2LqBCkQLYc3mxsW9e+Zu4YG1vNA+slR3Y9qP1j0xIW/pYepmuPMBp0Md/FcKcTMbCVLPKKm2v9IhCKv5+QwrAZtddAD4Z/5m5i7LxU50NaFNBtp0Zqhx9V6J+4oVLtvfTV8YKM26fPAbRoqhwA==;4320ujijBVH4GW3Su4/NwA=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/google-duet-ai-for-workspace-3331
 webUrl: "https://www.androidauthority.com/google-duet-ai-for-workspace-3331685/"
 type: article
 quality: 69
-heat: 79
+heat: 81
 published: true
 
 provider:
@@ -44,6 +44,6 @@ related:
         height: 897
         isCached: true
 
-secured: "RB8OHhm1CTbq3/esy25KeSs0IcWXRf6HdXcGXZzM01cqETvJdy/1jVDoDfotdysZIYYr3T3dof2XDI6RL4dw0JAXEhZted6dbTRrK5SZ+ATqQyTnPNNSKf+JliTmMuqNrD9HJfflvAKUvSbRddZFVDYsfaemkuZbtsy5fbqN2RSt/sp0lvK4DS5RFFVIWPOxfczk508l5PJRpJ5EMJnAl2/ZYYdZ/MZGUeO4ofACZJ4qTjqdWwS7kZMXCzO+J1Rp6HDIfGy8XCrtGdeoU0qdidjiqKvaT17btkmuzecw40O6gP9/tcQFAqQTHqTbI1AngoNKjnscIXXYZx/8ncPFbgtFnBBVv7RBufGc2+tse1E=;ZyM4b+xGjrBOyTsYJhi8Aw=="
+secured: "2swfr1zeuigMheuP9gQFll5HANZiDriatFfstfp7sZEtNztpe08DJcvF1+uf1Y5cU/XYUQhpauYxCQJXMI+/3BxPXHBwkS+sPofgwmDe8YLFjAg8MiOxF8Z8vNFZleAxFAR629DphloSpJBTkvz5KebuKk1MuSGQqOlK2poMIpdFTi9rd38PXYlwJdtrQVIKx7EIHzBaNtt/03J1Rg0vBSL6BlLgYkbrWvSZ7X+NjIFWt75Ua9+4s3l3UucG8V3iR8mGzY0VxzmEW4PuYOwZGaOaLOLewqm3T+9NWdXoT3lemLQcRQG+BJRcQ2gfQwErJBhz1brRKyd5ig4wd1Z0m2K1EEGcbWeLXmH3YDPCEWDeLlbEp6OyY7npPtzkDgY4snQsegEHBFr3+/ZGus5rqBMEFVrFKY4tIe8pJQMfoyA6zqxEdjt3Qg2ffVmhxdf1pd29dxVl6MQ7N0mxGNm3lpqCjgzy6hdKlbKUpyR6pdlpDvSqHQZSeT4Zgg+t3TtL9bKjkk2Q15gTqqc0E6peXA==;Zvq+f1PoE4KBsKztyl0LPQ=="
 ---
 

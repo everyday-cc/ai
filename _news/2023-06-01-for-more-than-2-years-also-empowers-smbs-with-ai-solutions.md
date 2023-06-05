@@ -39,6 +39,33 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "How AI Will Revolutionize Communications"
+    excerpt: "The bottom line is that it’s time to face the AI revolution head-on and seize the opportunities it offers. In the fast-paced world of communications, standing still is not an option. Learn how to leverage AI and start to unlock new levels of impact."
+    publishedDateTime: 2023-06-03T17:17:00Z
+    webUrl: "https://www.benzinga.com/news/23/06/32704273/how-ai-will-revolutionize-communications"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32704273"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32704273"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/06/03/portadas_javi_benzinga41.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Delivering high-tech AI/ML solutions for next-generation businesses"
+    excerpt: "Giridharaprasad MP, chief technology officer, Digitap recently spoke to Dataquest to shed more light on the company’s offerings"
+    publishedDateTime: 2023-06-05T04:43:00Z
+    webUrl: "https://www.dqindia.com/delivering-high-tech-ai-ml-solutions-for-next-generation-businesses/"
+    ampWebUrl: "https://www.dqindia.com/delivering-high-tech-ai-ml-solutions-for-next-generation-businesses/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/delivering-high-tech-ai-ml-solutions-for-next-generation-businesses/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 56
   - title: "Jacobs and Palantir Expand Partnership to ‘Revolutionize’ AI Solutions Across Industries"
     excerpt: "The partnership aims to harness Palantir's cutting-edge AI capabilities and revolutionize the commercialization of AI solutions across a range of sectors—including critical infrastructure, advanced facilities,"
     publishedDateTime: 2023-06-01T22:23:00Z
@@ -53,6 +80,15 @@ related:
         width: 970
         height: 464
         isCached: true
+  - title: "Generative AI’s ‘productivity revolution’ will take time to pay off"
+    excerpt: "A boom in generative artificial intelligence and pandemic-induced workplace shifts will unleash a new era of faster productivity growth across the rich world, economists say, though it could take a decade or more for advanced economies to reap the full benefits."
+    publishedDateTime: 2023-06-05T04:00:00Z
+    webUrl: "https://www.ft.com/content/21384711-3506-4901-830c-7ecc3ae6b32a"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "+Clkn4D/0Wr2gEt/DeXu992f2VaFlDolEr3t13lbRdmRpYacOsbVbdlpYUeouyVdf7xFYNpJb5C9YJS6oWRB6kH5oW+zmdt6hFl/BWWolIm4/AVaT14zYmwgKZNhUVxZ+ot3fFRzXFDKOMncBPbVaP94t6/nGIXASeIabiHH3/bw7XgNoLOP0lIFGdscSVXmeRtr3IjxY9/+QtOkQ645kwJhz04sLFjs9p0KdCS5fuxV3nDYNEEAzgJ/GRlFleCsfub0PELIKHNp9iT0janwwf0v2e458SfFvmN6SE+Flb3Jx2U2eINNWFu5pvZtAS6Bv1uPJrQ99GpA8pKgWCBTZv7KvfI77tzO8/zq4FtoMSI=;86oo3NPxI7AbCZmumUhFug=="
 ---

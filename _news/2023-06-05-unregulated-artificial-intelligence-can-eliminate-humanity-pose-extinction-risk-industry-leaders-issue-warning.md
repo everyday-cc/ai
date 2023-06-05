@@ -39,6 +39,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "The existential threat from AI – and from humans misusing it"
+    excerpt: "Letters: Roger Haines writes that there is no evidence of AI sentience, while Prof Paul Huxley recalls Asimov’s laws of robotics, and Phyl Hyde says fears of AI are being overblown"
+    publishedDateTime: 2023-06-02T15:17:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/jun/02/the-existential-threat-from-ai-and-from-humans-misusing-it"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/02/the-existential-threat-from-ai-and-from-humans-misusing-it"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/02/the-existential-threat-from-ai-and-from-humans-misusing-it"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/89ad267be88983be00a29d56b9a48965dfd6aff3/0_0_3235_1942/master/3235.jpg?width=620&quality=85&auto=format&fit=max&s=e090c8964c3e679e4404ffb46a0a3627"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Embracing Human Expertise: Top Jobs That Artificial Intelligence Tools Will NOT Take Away"
     excerpt: "As the world witnesses a rapid advancement in artificial intelligence (AI) and automation, there is a growing concern about job displacement and the impact of these technologies on traditional employment sectors."
     publishedDateTime: 2023-06-03T15:04:00Z
@@ -54,20 +70,6 @@ related:
       - url: "https://data.ibtimes.sg/en/full/67980/airesilient-career.jpg"
         width: 1170
         height: 780
-        isCached: true
-  - title: "Artificial intelligence raises risk of extinction, experts say in new warning"
-    excerpt: "Scientists and tech industry leaders, including executives at Microsoft and Google, have issued a new warning about the perils that artificial intelligence poses to humankind"
-    publishedDateTime: 2023-05-31T12:32:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/artificial-intelligence-threatens-extinction-experts-new-warning-99692579"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 49
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_54ea8aadc60d1503e5a65878219aad43_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Does AI pose the same threat as nuclear war?"
     excerpt: "A new open letter signed by prominent figures in the tech world claims artificial intelligence (AI) carries the same risks to human life as nuclear weapons or pandemics, but digital ethicists and researchers are saying it’s all hype that ignores the technology’s real dangers and promotes a strange ideology."
@@ -112,6 +114,6 @@ related:
         height: 576
         isCached: true
 
-secured: "KgiakiE+He0u48fy8+Zs4zjf99tbukI4EE2KS1yCv4xe/IEXiwvu0HhpQicPA5+m7nfDfNwFU4AZgllasnYR1eIX2q5uwkqWA2rqWpKw8P3MZ3soOMTS83HOOMEhf1djKLfysjl3t2AA2W4M9S3IB4AnjHKNG2IYi6n437zdu4MUyggvb+gWe9MvuD41ISehr2h6nVbXGdpBDiNRDuVi141AA1lvnsrWk55P18oIzcbNMOTBUQudMouUtTkarPQcgsMxxWzDr8vlOlyp4s8YX2RqOb9SEGVYa0obUhlk4bJggZ9cy48NtdlDpchzu6r7xtLj6/Efu52pdJIvb2HZBbRKF/WdSKyp+IS5237rD9c=;pvIz5+qHdqCCQcZIhw6C2w=="
+secured: "kg+PgulLnHIiOk/jwQY7P35D71UY2de0zKdeS1bbhC7snhJHnT4VuqXX37K9PbAq3zFeM9nIW4h6c27MIXKg4ZxuDBj0//l7mbYsNBGvjsXYyZ3rvgGvaG0RN+b7Uekji3Z0BbAl4IRKNel+Z8alAZ8mKA1YEDpmcSu1xJzVP1njly+RCDjH0yLDExe542LgsvjZpgaZlpQb1n46MsoE//OQPv1bm8T9NsuggDPtnTBcbmVmUdX61fj583ialqWdv3laVDsoi9QSzbUAV7FAkIZgl7HLO26sGjXOXE/lua2aSh+h7J5LG7vPQBKjJgQBxBb2h9wXSAW/3K3+yaEx0A4xSJjpmuaKt5hkQiwLY4d0M1DB6AatoWW+2wFNu9+Z/khPzLFXATC/BdQdHwKOze6ONUgIavwF41vrNvU7417UUWVaaQpfae17CzbdS4ZLbZaET5ayeg4zHT9v6UdFyQqdP3hKWiRsEVNi0BlDTtccTe1FvHslhnbPP4uJ48GSc2bC/2qWwghRHTZ5zvOxYQ==;FBh481w8IEL/H99m71tiGw=="
 ---
 

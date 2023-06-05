@@ -26,128 +26,65 @@ images:
     isCached: true
 
 related:
-  - title: "The Ethics Of Communication Between AI And Humans"
-    excerpt: "AI has taken the world by storm. With the rise of ChatGPT, Bard and autonomous cars, we are changing how we work, live and even comprehend life. With this rise comes worrying concerns around the ethics of communication between AI and humans. Consequently ..."
-    publishedDateTime: 2023-05-31T11:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/amp/"
+  - title: "ApexOne.AI Revolutionizes Business Operations with Advanced Artificial Intelligence Solutions"
+    excerpt: "ApexOne.AI, a leading provider of cutting-edge artificial intelligence (AI) solutions, announces the launch of their groundbreaking platform designed to transform business operations and drive unprece"
+    publishedDateTime: 2023-06-02T01:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/ab32684334/apexone-ai-revolutionizes-business-operations-with-advanced-artificial-intelligence-solutions"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32684334"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32684334"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 63
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63ff5b3599f2634f6eaa9372/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "The 15 Biggest Risks Of Artificial Intelligence"
-    excerpt: "There's a dark side to AI. Learn about the potential negative consequences of this transformative technology and how we can help ensure a safer and more balanced future."
-    publishedDateTime: 2023-06-02T07:07:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/06/02/the-15-biggest-risks-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/06/02/the-15-biggest-risks-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/02/the-15-biggest-risks-of-artificial-intelligence/amp/"
+  - title: "Delivering high-tech AI/ML solutions for next-generation businesses"
+    excerpt: "Giridharaprasad MP, chief technology officer, Digitap recently spoke to Dataquest to shed more light on the company’s offerings"
+    publishedDateTime: 2023-06-05T04:43:00Z
+    webUrl: "https://www.dqindia.com/delivering-high-tech-ai-ml-solutions-for-next-generation-businesses/"
+    ampWebUrl: "https://www.dqindia.com/delivering-high-tech-ai-ml-solutions-for-next-generation-businesses/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/delivering-high-tech-ai-ml-solutions-for-next-generation-businesses/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Dataquest
+      domain: dqindia.com
+    quality: 56
+  - title: "For more than 2 years: ALSO empowers SMBs with AI solutions"
+    excerpt: "Recognizing the immense potential of Artificial Intelligence (AI) for Small and Medium-sized Businesses (SMBs), the Technology Provider established its AI platform roughly two years ago to enable companies of all sizes to make the most of this groundbreaking technology."
+    publishedDateTime: 2023-06-01T05:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/for-more-than-2-years-also-empowers-smbs-with-ai-solutions-1032363069"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Jacobs and Palantir Expand Partnership to ‘Revolutionize’ AI Solutions Across Industries"
+    excerpt: "The partnership aims to harness Palantir's cutting-edge AI capabilities and revolutionize the commercialization of AI solutions across a range of sectors—including critical infrastructure, advanced facilities,"
+    publishedDateTime: 2023-06-01T22:23:00Z
+    webUrl: "https://dallasinnovates.com/jacobs-and-palantir-expand-partnership-to-revolutionize-ai-solutions-across-industries/"
+    type: article
+    provider:
+      name: Dallas Innovates
+      domain: dallasinnovates.com
+    quality: 30
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647994d97ff0e466a60e1090/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://s24806.pcdn.co/wp-content/uploads/2023/06/Jacobs_Palantir2-iStock-970.jpg"
+        width: 970
+        height: 464
         isCached: true
-  - title: "AI doom, AI boom and the possible destruction of humanity"
-    excerpt: "Will AI solve complex problems and save us? Or will it obfuscate truth, destroying humanity? Like any paradox, the answer is unclear."
-    publishedDateTime: 2023-06-04T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/ai-doom-ai-boom-and-the-possible-destruction-of-humanity/"
+  - title: "Generative AI’s ‘productivity revolution’ will take time to pay off"
+    excerpt: "A boom in generative artificial intelligence and pandemic-induced workplace shifts will unleash a new era of faster productivity growth across the rich world, economists say, though it could take a decade or more for advanced economies to reap the full benefits."
+    publishedDateTime: 2023-06-05T04:00:00Z
+    webUrl: "https://www.ft.com/content/21384711-3506-4901-830c-7ecc3ae6b32a"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_shadowy_robotic_figure_with_clouds_gathering_and_lightni_a50019f4-a9ea-4a14-aa55-b83e599bd02c.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The existential threat from AI – and from humans misusing it"
-    excerpt: "Letters: Roger Haines writes that there is no evidence of AI sentience, while Prof Paul Huxley recalls Asimov’s laws of robotics, and Phyl Hyde says fears of AI are being overblown"
-    publishedDateTime: 2023-06-02T15:17:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/02/the-existential-threat-from-ai-and-from-humans-misusing-it"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/02/the-existential-threat-from-ai-and-from-humans-misusing-it"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/02/the-existential-threat-from-ai-and-from-humans-misusing-it"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/89ad267be88983be00a29d56b9a48965dfd6aff3/0_0_3235_1942/master/3235.jpg?width=620&quality=85&auto=format&fit=max&s=e090c8964c3e679e4404ffb46a0a3627"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "When AI Needs A Human-In-The-Loop"
-    excerpt: "In her role as senior director of product management for SS&C Blue Prism, Kavitha Chennupati is upbeat about automation and sees a specific space for humans-in-the-loop being brought in later on in the AI deployment process. With specific reference to the process of IDP (Intelligent Document Processing) which transcends into content processing."
-    publishedDateTime: 2023-06-02T13:34:00Z
-    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/06/02/when-ai-needs-a-human-in-the-loop/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Reflections on artificial intelligence"
-    excerpt: "When ChatGPT, a large language model artificial intelligence (AI ... It is not difficult to understand the main ideas of a neural network model being the platform of ChatGPT and other large AI models. It is a vast tangle of networks of input and output ..."
-    publishedDateTime: 2023-06-01T16:05:00Z
-    webUrl: "https://businessmirror.com.ph/2023/06/02/reflections-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 39
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/04/Column-box-Eagle-Watch.jpg"
-        width: 1400
-        height: 735
-        isCached: true
-  - title: "The Revolutionary Potential of Humane's Wearable AI"
-    excerpt: "A Revolutionary Concept or Just Hype? Humane, a secretive tech startup founded by former Apple veterans, recently unveiled its wearable AI technology that it's been working on. The company has been shrouded in secrecy for over a year,"
-    publishedDateTime: 2023-06-01T09:29:00Z
-    webUrl: "https://yourstory.com/2023/05/humane-wearable-ai-revolutionary-concept-or-hype"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 39
-    images:
-      - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Image6o8u-1685609102796.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Max Cooper is using AI to push the frontiers of creativity and communication"
-    excerpt: "The acclaimed London-based music producer — known for his ethereal sounds and visually hypnotic live performances — discusses the limits of human language, the future of music, the dangers of unchecked AI research and the mysteries of consciousness."
-    publishedDateTime: 2023-05-31T16:14:00Z
-    webUrl: "https://www.thedrum.com/news/2023/05/31/max-cooper-ai-the-future-music-and-consciousness"
-    type: article
-    provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 36
-    images:
-      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/thumbnail_image_6487327.jpeg?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "The Illusion of China’s AI Prowess"
-    excerpt: "JENNY XIAO is a venture capitalist investing in AI startups and a Ph.D. candidate at Columbia University. In the abstract, these concerns make sense. It would not serve U.S. interests if a regulatory crackdown crippled the domestic AI industry while Chinese AI companies,"
-    publishedDateTime: 2023-06-02T13:36:00Z
-    webUrl: "https://www.foreignaffairs.com/china/illusion-chinas-ai-prowess-regulation"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 21
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "tRarbvGad6RFUN05ZA2dhAdF9tB6kT5Yi/f+mqsjfTYuxCFBjLRo9hIIkKw3elg1WqleBeYa7j9XFtML80dhABIbijDC4Bx7xqHJN4RernpEBoEZXH9Ihx7tYwWr/OFhPbQNPYuPcltiw1ZjyQKaVoL9yaQVAltWF3hO80lR4uBhROhSXP4fevc0pTUiIbKzYk35SGqnEMzVFd2dki2p8TkDH7FkHCXth2lUg5q3qKXKrgEEHvDY0VXzxiWQDk8V3H8n3al2i8AO/NH97xTgr0C4VJcMTdFf8L5h2Uw59uWinLGINbIpamA5HGYvmAfuGocw6CNZx9GWT3SUoEJA87tL4A2Y42BqBVOFVIZwghk=;9czXtriyAmsvXqRAf2YX4A=="
 ---

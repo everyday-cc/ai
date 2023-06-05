@@ -30,128 +30,92 @@ images:
     isCached: true
 
 related:
-  - title: "The Ethics Of Communication Between AI And Humans"
-    excerpt: "AI has taken the world by storm. With the rise of ChatGPT, Bard and autonomous cars, we are changing how we work, live and even comprehend life. With this rise comes worrying concerns around the ethics of communication between AI and humans. Consequently ..."
-    publishedDateTime: 2023-05-31T11:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/amp/"
+  - title: "AI Poses Threat To Human Existence, Experts In New Warning Letter"
+    excerpt: "But now, this recent letter reportedly endorsed by Microsoft's chief technology and science officers, as well as Demis Hassabis, CEO of Google's AI research lab DeepMind, and two Google executives who lead its AI policy efforts. The statement doesn't ..."
+    publishedDateTime: 2023-06-01T08:38:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ai-poses-threat-to-human-existence-experts-in-new-warning/453287"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63ff5b3599f2634f6eaa9372/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The 15 Biggest Risks Of Artificial Intelligence"
-    excerpt: "There's a dark side to AI. Learn about the potential negative consequences of this transformative technology and how we can help ensure a safer and more balanced future."
-    publishedDateTime: 2023-06-02T07:07:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/06/02/the-15-biggest-risks-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/06/02/the-15-biggest-risks-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/02/the-15-biggest-risks-of-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647994d97ff0e466a60e1090/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI doom, AI boom and the possible destruction of humanity"
-    excerpt: "Will AI solve complex problems and save us? Or will it obfuscate truth, destroying humanity? Like any paradox, the answer is unclear."
-    publishedDateTime: 2023-06-04T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/ai-doom-ai-boom-and-the-possible-destruction-of-humanity/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Entrepreneur
+      domain: entrepreneur.com
     quality: 69
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_shadowy_robotic_figure_with_clouds_gathering_and_lightni_a50019f4-a9ea-4a14-aa55-b83e599bd02c.png?w=1200&strip=all"
-        width: 1200
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1685607676-Untitleddesign-2023-06-01T134751526.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Embracing Human Expertise: Top Jobs That Artificial Intelligence Tools Will NOT Take Away"
+    excerpt: "As the world witnesses a rapid advancement in artificial intelligence (AI) and automation, there is a growing concern about job displacement and the impact of these technologies on traditional employment sectors."
+    publishedDateTime: 2023-06-03T15:04:00Z
+    webUrl: "https://www.ibtimes.sg/embracing-human-expertise-top-jobs-that-artificial-intelligence-tools-will-not-take-away-70456"
+    ampWebUrl: "https://amp.ibtimes.sg/embracing-human-expertise-top-jobs-that-artificial-intelligence-tools-will-not-take-away-70456"
+    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/embracing-human-expertise-top-jobs-that-artificial-intelligence-tools-will-not-take-away-70456"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.sg
+    quality: 50
+    images:
+      - url: "https://data.ibtimes.sg/en/full/67980/airesilient-career.jpg"
+        width: 1170
+        height: 780
+        isCached: true
+  - title: "Does AI pose the same threat as nuclear war?"
+    excerpt: "A new open letter signed by prominent figures in the tech world claims artificial intelligence (AI) carries the same risks to human life as nuclear weapons or pandemics, but digital ethicists and researchers are saying it’s all hype that ignores the technology’s real dangers and promotes a strange ideology."
+    publishedDateTime: 2023-06-01T01:31:00Z
+    webUrl: "https://ia.acs.org.au/article/2023/does-ai-pose-the-same-threat-as-nuclear-war.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/nuclear-bomb-explode.jpg"
+        width: 1067
         height: 600
         isCached: true
-  - title: "How AI Will Revolutionize Communications"
-    excerpt: "The bottom line is that it’s time to face the AI revolution head-on and seize the opportunities it offers. In the fast-paced world of communications, standing still is not an option. Learn how to leverage AI and start to unlock new levels of impact."
-    publishedDateTime: 2023-06-03T17:17:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32704273/how-ai-will-revolutionize-communications"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32704273"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32704273"
+  - title: "One-sentence warning on artificial intelligence"
+    excerpt: "THIS week, 80 artificial intelligence scientists and more than 200 ‘other notable figures’ signed a statement that says ‘mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as"
+    publishedDateTime: 2023-06-04T18:05:00Z
+    webUrl: "https://www.newagebd.net/article/203394/one-sentence-warning-on-artificial-intelligence"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/06/03/portadas_javi_benzinga41.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "When AI Needs A Human-In-The-Loop"
-    excerpt: "In her role as senior director of product management for SS&C Blue Prism, Kavitha Chennupati is upbeat about automation and sees a specific space for humans-in-the-loop being brought in later on in the AI deployment process. With specific reference to the process of IDP (Intelligent Document Processing) which transcends into content processing."
-    publishedDateTime: 2023-06-02T13:34:00Z
-    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/06/02/when-ai-needs-a-human-in-the-loop/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Reflections on artificial intelligence"
-    excerpt: "When ChatGPT, a large language model artificial intelligence (AI ... It is not difficult to understand the main ideas of a neural network model being the platform of ChatGPT and other large AI models. It is a vast tangle of networks of input and output ..."
-    publishedDateTime: 2023-06-01T16:05:00Z
-    webUrl: "https://businessmirror.com.ph/2023/06/02/reflections-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
+      name: New Age
+      domain: newagebd.net
     quality: 39
     images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/04/Column-box-Eagle-Watch.jpg"
-        width: 1400
-        height: 735
+      - url: "https://www.newagebd.com/files/records/news/202306/203394_og.png"
+        width: 790
+        height: 452
         isCached: true
-  - title: "The Revolutionary Potential of Humane's Wearable AI"
-    excerpt: "A Revolutionary Concept or Just Hype? Humane, a secretive tech startup founded by former Apple veterans, recently unveiled its wearable AI technology that it's been working on. The company has been shrouded in secrecy for over a year,"
-    publishedDateTime: 2023-06-01T09:29:00Z
-    webUrl: "https://yourstory.com/2023/05/humane-wearable-ai-revolutionary-concept-or-hype"
+  - title: "Tech executives sign warning letter regarding artificial intelligence risks"
+    excerpt: "The one-sentence open letter, issued by the nonprofit Center for AI Safety, is both brief and ominous, without extrapolating how the more than 300 signees foresee AI developing into an existential threat to humanity."
+    publishedDateTime: 2023-05-31T14:31:00Z
+    webUrl: "https://kyma.com/dsw-living/technology/2023/05/31/tech-executives-sign-warning-letter-regarding-artificial-intelligence-risks/"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 39
+      name: KYMA
+      domain: kyma.com
+    quality: 37
     images:
-      - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Image6o8u-1685609102796.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
+      - url: "https://kyma.b-cdn.net/2023/05/InkOHhe2-AI-WARNING-LETTER.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Max Cooper is using AI to push the frontiers of creativity and communication"
-    excerpt: "The acclaimed London-based music producer — known for his ethereal sounds and visually hypnotic live performances — discusses the limits of human language, the future of music, the dangers of unchecked AI research and the mysteries of consciousness."
-    publishedDateTime: 2023-05-31T16:14:00Z
-    webUrl: "https://www.thedrum.com/news/2023/05/31/max-cooper-ai-the-future-music-and-consciousness"
+  - title: "Unregulated Artificial Intelligence Can Eliminate Humanity, Pose Extinction Risk - Industry Leaders Issue Warning!"
+    excerpt: "Several industry leaders and academics issued a statement warning that there is a need for rigorous mitigation of Artificial Intelligence (AI) associated risks. The statement in brief An open letter was posted by Center for AI Safety which is a San Francisco-based non-profit."
+    publishedDateTime: 2023-06-04T20:47:00Z
+    webUrl: "https://trak.in/stories/unregulated-artificial-intelligence-can-eliminate-humanity-pose-extinction-risk-industry-leaders-issue-warning/"
     type: article
     provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 36
+      name: Trak.in - India Business Blog
+      domain: trak.in
+    quality: 17
     images:
-      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/thumbnail_image_6487327.jpeg?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
-        width: 1280
-        height: 853
+      - url: "https://trak.in/stories/wp-content/uploads/2023/06/Untitled-design-20-1.jpg"
+        width: 1000
+        height: 465
         isCached: true
-  - title: "The Illusion of China’s AI Prowess"
-    excerpt: "JENNY XIAO is a venture capitalist investing in AI startups and a Ph.D. candidate at Columbia University. In the abstract, these concerns make sense. It would not serve U.S. interests if a regulatory crackdown crippled the domestic AI industry while Chinese AI companies,"
-    publishedDateTime: 2023-06-02T13:36:00Z
-    webUrl: "https://www.foreignaffairs.com/china/illusion-chinas-ai-prowess-regulation"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 21
 
 secured: "prKa6uRMnSVpyjEm5EdX4ZVcfoHMe8g7dnehfqHvjVuIEsMjhXjkrTmhl7KshI0TRe7wk02lVECP0WB/UTe9VrsTRQdTl44RiJh02EjzPN9CDK3feX0ZxpyCQr66Lpxm+TSJfJ7zuWo9CrCigLmwhJc018Oat5kJrw7BuXZIm4GdSpakuzW2T72kMq39OIqPqeL4beuI8RdLTRipuiKtwbsq3NfbaIb6rc+lAVgVh8dhaJ/FfnCJvYlUwsz9DFUHusaIsiLPAqcy3iQIXAnqOFB4zO/6R5CDdLv8L37Q4jAFMBLsCrzrMoEu2aEqso+4/UQ8TwQHfjCutMndXXvoLM48LAnonQ9KK+raDkWls8/QSwvLxQQotoKAsm8b1SeNlaxsCRvbNUBpwkfMvh+jZ11kWPaT9b2E4K+xNYNjzRA/9km94JWAlh0dgnVHEGc8u/Ya1RDt++0xCrTF9Ll8x4S9qtuyiWWdcd9U9tJ944BoAVQPeJ13Fnf7ypc18WE0Ez9sQ22BgeEGh7i5DRvj3A==;lnmZFInn648fDmNYaKaG+g=="
 ---

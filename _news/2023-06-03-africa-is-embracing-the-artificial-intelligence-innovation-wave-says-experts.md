@@ -188,15 +188,6 @@ related:
         width: 1312
         height: 738
         isCached: true
-  - title: "Notion Projects Aims To Revolutionize Workplace Collaboration, With The Help Of AI"
-    excerpt: "Notion hopes that AI can help cut down on the fragmentation within this space with its new product, Notion Projects"
-    publishedDateTime: 2023-05-31T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/05/31/notion-projects-shows-how-ai-can-revolutionize-workplace-collaboration/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 41
   - title: "Tech leaders call for more AI regulation and 'some degree' of industry coordination"
     excerpt: "The need for a standardized approach towards innovation in AI is fast becoming an urgent matter. AI is currently causing havoc everywhere from plagiarism issues in academia to winning the World Photography Awards back in April,"
     publishedDateTime: 2023-06-01T03:35:00Z

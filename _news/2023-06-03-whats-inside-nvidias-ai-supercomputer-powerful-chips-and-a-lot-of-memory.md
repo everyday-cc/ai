@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-ai-supercomputer-chips-c3ac4da0"
 type: article
 quality: 71
-heat: 91
+heat: 111
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Charting Nvidia’s 30-Year Ride to Overnight AI Success"
+    excerpt: "But an increasing number of its chips are being installed in data centers to help companies like Microsoft Corp., Alphabet Inc., OpenAI, and Amazon.com Inc. build their AI capabilities and offer those services to clients. Last year’s release of ChatGPT ..."
+    publishedDateTime: 2023-06-03T03:55:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/06/02/chips-inside-nvidia-s-30-year-ride-to-overnight-ai-success/d74f9838-01c1-11ee-9eb0-6c94dcb16fcf_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2Q74LDABYEI65HVQNSKNZMLPZ4.jpg&w=1440"
+        width: 1440
+        height: 969
+        isCached: true
   - title: "Innodisk empowers smart factories with NVIDIA AI and Metropolis Platforms, and Aetina's SuperEdge AI Training Platforms"
     excerpt: "Innodisk is collaborating with NVIDIA and Aetina to bring the latest artificial intelligence (AI)-powered industrial digitalization and automated inspection into its factories for advanced electronics manufacturing."
     publishedDateTime: 2023-05-31T13:51:00Z
@@ -49,6 +63,15 @@ related:
     provider:
       name: electronics360.globalspec
       domain: globalspec.com
+    quality: 0
+  - title: "This week in AI: Existential threat from AI, Nvidia announces AI supercomputer, UK wants global AI watchdog and more"
+    excerpt: "The DGX GH200 uses Nvidia's NVLink technology to combine 256 GH200 superchips, which each house an ARM-based Grace CPU, and H100 Tensor Core GPU, that allow for performance up to 1 exaflop (equivalent to one quintillion floating point operations per second) with a whopping 144 Terabytes of shared memory."
+    publishedDateTime: 2023-06-04T13:30:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/this-week-in-ai-existential-threat-from-ai-nvidia-announces-ai-supercomputer-uk-wants-global-ai-watchdog-and-more-10740031.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
     quality: 0
 
 secured: "00AM+KM1FOgNnw14pzTu2lZJLIr2bp4Jwa40Em+FD7TAgAD+BXrRJPVeFPWYoQlDpAcZaJtsjsEP5g+NzBTYF+yQCsUgPFtTLT6UKdEbE/4qYrenhiAoXxf3diOS+UbZa8IrxZZAMx9tUXFgFfHTol3yg2w2Ygv0G2jSg2lJLZnF2mfzULieEpEjrPVUlTJFzBKCebFbisUODu7M/jBz7MMM8Jn4oZJ418OUUFF9WO68PlKX7Av/UdIsC2sXEQlFMzc0AwCzTEUk+uPOOfbCL9MdC1CU0O5cAR11r1qPyHfxrhcreit7HoN407wkcGTyAlhsS0gmqd9qKxEYRyf1hOEyEH5lZEPlkZfpsq6ZQwaPVrea0P54LoHznwZ61oMIqSEZIph1fuF8Dt6kjJ10+Nkkjno1mvKgknC5pW0/P3W6DwaWHSeDDqhD3+i2Yf2mJC77yYQKah4RxvJ6+jQ3hT2eW2EJjVgpp/kfiEDfUDQdPi5fG7gLHtkcWQ+wpHtxM+EcZCNHs8chrC0Rof2P7A==;DPgNz80VjmK4xnFANly+vQ=="

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/top-ai-researcher-dismisses-ai-extincti
 webUrl: "https://venturebeat.com/ai/top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative/"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "AI poses ‘risk of extinction’ warn industry leaders"
-    excerpt: "AI could pose an existential threat to humanity, artificial intelligence luminaries have warned, in an extraordinary one-sentence open letter, urging that it be treated with the same level of urgency as pandemic and nuclear war."
-    publishedDateTime: 2023-05-31T11:47:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/ai-poses-risk-of-extinction-warn-industry-leaders/news-story/1fdc1030037dd60fb3813436e8538a9d"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
 
 secured: "ajZrktmvuZGUhyh8+Sio7MFpD3KFofPN8yWffSaawBqvwu7Gdrw1kQYicUUG6gEb8xMxEZF2CY4tJm0BV0c+eKZETwQ60AcirBSBNnswhCs2KbJq7+XUPp9vyRjUorgaEdHo3w2JQqOOTqcWYxFVqlib58s/FKwqLmCmGyXscDBvlSrsUQjBxtyCkzblEpoU81ED1IWBZtQ18I8Gf3z6Asb1WFFC10bj8tpZR7snxjEfOlzFsIs2VzwdBvdxiY8zuS2SNheSiP2i7WakuUq0PvdnQICCYq8yd4G9RMphSZXEag69yiVBcoWDFN6T8pUSrVkYBONtbPhMWIcFZND8FBXTCRYokPUPXW0RYEbpCq+yDodYeplFPaTKsv43scm+5co9XkwBBkJRp4ml+TIQm1dk4oR7WV3udhq34ma5vKJweJPLkg3FKA9ua64Q8aekHVWxnLSlcgFSfZ5gy5+r3t5ydeY/0Gqp2bmQu0D7oxfcyK+Sqsf9BkSbu3cA8DzvwbqWxHF/xijsN06LBn72ag==;Srn6r5q/Z4N/WSd2HhBkJA=="
 ---

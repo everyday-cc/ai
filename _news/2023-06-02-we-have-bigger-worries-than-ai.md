@@ -127,6 +127,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "When AI Needs A Human-In-The-Loop"
+    excerpt: "In her role as senior director of product management for SS&C Blue Prism, Kavitha Chennupati is upbeat about automation and sees a specific space for humans-in-the-loop being brought in later on in the AI deployment process. With specific reference to the process of IDP (Intelligent Document Processing) which transcends into content processing."
+    publishedDateTime: 2023-06-02T13:34:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/06/02/when-ai-needs-a-human-in-the-loop/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "AI set to take the world of weather forecasting by storm"
     excerpt: "Papers have been released by the technology companies Google DeepMind, Huawei and Nvidia that appear to show impressive forecasting results driven by machine learning. Peter Dueben, head of earth ..."
     publishedDateTime: 2023-06-01T02:51:00Z
@@ -152,6 +161,15 @@ related:
       name: BusinessWorld
       domain: bworldonline.com
     quality: 39
+  - title: "The Illusion of China’s AI Prowess"
+    excerpt: "JENNY XIAO is a venture capitalist investing in AI startups and a Ph.D. candidate at Columbia University. In the abstract, these concerns make sense. It would not serve U.S. interests if a regulatory crackdown crippled the domestic AI industry while Chinese AI companies,"
+    publishedDateTime: 2023-06-02T13:36:00Z
+    webUrl: "https://www.foreignaffairs.com/china/illusion-chinas-ai-prowess-regulation"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 21
 
 secured: "O+BpqUAcQaapnT3E7M6oDrdQzRABd0MXMhve6llQ8jnFsrNnNdoDOVceQGXe+gdMcIy1XwdvGegTcbePUXEly0VCRON4ThtbG4OdQEijynru/dXUKTOy+BQLzEOCIO8PO+EoKPmlpcxMfxUiTMyb5tivXcHW54allZX9Yj3jUKUQEHvPkCDJg0pUMWYeQZEp4GhpHt88uInxTF1Oa3S82s/MtGFf2rvJcEuW/GR7g7gG5lNFQtYuVZP9PBbMeJhu0CH8Ma4cJpDqoeKAO4Wt3qTb125PUUAs6PREKQB7rboSFCyWN4DC9ePt3Sx8fePdNCuTjACmRdyjvptw4D8hQM0D1pfC1V0UN3SSQRbni8U=;7YxrJ/6RZ6mUnivdnz0tBg=="
 ---

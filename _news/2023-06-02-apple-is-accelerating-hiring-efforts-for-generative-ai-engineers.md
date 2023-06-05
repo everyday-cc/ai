@@ -173,15 +173,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Notion Projects Aims To Revolutionize Workplace Collaboration, With The Help Of AI"
-    excerpt: "Notion hopes that AI can help cut down on the fragmentation within this space with its new product, Notion Projects"
-    publishedDateTime: 2023-05-31T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/05/31/notion-projects-shows-how-ai-can-revolutionize-workplace-collaboration/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 41
   - title: "Africa is Embracing the Artificial Intelligence Innovation Wave, says Experts"
     excerpt: "The rise of Artificial intelligence and its revolutionary impact on African business, society, and culture led discussions during the GITEX Africa."
     publishedDateTime: 2023-06-03T14:09:00Z

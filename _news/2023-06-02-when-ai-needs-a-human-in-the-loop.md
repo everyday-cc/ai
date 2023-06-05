@@ -22,126 +22,139 @@ topics:
   - AI
 
 related:
-  - title: "The Ethics Of Communication Between AI And Humans"
-    excerpt: "AI has taken the world by storm. With the rise of ChatGPT, Bard and autonomous cars, we are changing how we work, live and even comprehend life. With this rise comes worrying concerns around the ethics of communication between AI and humans. Consequently ..."
-    publishedDateTime: 2023-05-31T11:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/05/31/the-ethics-of-communication-between-ai-and-humans/amp/"
+  - title: "Artificial Intelligence Series 2 Of 5: AI’s Influence On The Workforce"
+    excerpt: "Industry disruption from technical advancements has been happening since the beginning of time, but is this time different? What is the impact on jobs?"
+    publishedDateTime: 2023-06-03T07:18:00Z
+    webUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/"
+    ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63ff5b3599f2634f6eaa9372/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647ae893e7fefa617d13b283/0x0.jpg?format=jpg&crop=4500,2107,x0,y201,safe&width=1200"
         width: 1200
-        height: 800
+        height: 562
         isCached: true
-  - title: "The 15 Biggest Risks Of Artificial Intelligence"
-    excerpt: "There's a dark side to AI. Learn about the potential negative consequences of this transformative technology and how we can help ensure a safer and more balanced future."
-    publishedDateTime: 2023-06-02T07:07:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/06/02/the-15-biggest-risks-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/06/02/the-15-biggest-risks-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/06/02/the-15-biggest-risks-of-artificial-intelligence/amp/"
+  - title: "The Devious Dance Of AI-Generated Misinformation"
+    excerpt: "The rise of generative AI poses a significant threat of misinformation. We must safeguard the truth and integrity of our information landscape."
+    publishedDateTime: 2023-06-04T13:02:00Z
+    webUrl: "https://www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/"
+    ampWebUrl: "https://www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glebtsipursky/2023/06/04/the-devious-dance-of-ai-generated-misinformation/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647aecbada2ba3a38c0e1090/0x0.jpg?format=jpg&width=1200"
+        width: 1125
+        height: 900
+        isCached: true
+  - title: "AI startup C3.ai’s stock plunges 20% after softer revenue guidance"
+    excerpt: "Shares of white-hot Ai startup C3.ai Inc., which had been hurtling toward record highs earlier this week, took an abrupt U-turn Wednesday. The company’s stock AI, -8.96% skidded 14% in after-hours trading in the minutes leading up to its quarterly ..."
+    publishedDateTime: 2023-05-31T22:09:00Z
+    webUrl: "https://www.marketwatch.com/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66?mod=mw_quote_news"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/647994d97ff0e466a60e1090/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI doom, AI boom and the possible destruction of humanity"
-    excerpt: "Will AI solve complex problems and save us? Or will it obfuscate truth, destroying humanity? Like any paradox, the answer is unclear."
-    publishedDateTime: 2023-06-04T15:20:00Z
-    webUrl: "https://venturebeat.com/ai/ai-doom-ai-boom-and-the-possible-destruction-of-humanity/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/annevb_shadowy_robotic_figure_with_clouds_gathering_and_lightni_a50019f4-a9ea-4a14-aa55-b83e599bd02c.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The existential threat from AI – and from humans misusing it"
-    excerpt: "Letters: Roger Haines writes that there is no evidence of AI sentience, while Prof Paul Huxley recalls Asimov’s laws of robotics, and Phyl Hyde says fears of AI are being overblown"
-    publishedDateTime: 2023-06-02T15:17:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/jun/02/the-existential-threat-from-ai-and-from-humans-misusing-it"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/jun/02/the-existential-threat-from-ai-and-from-humans-misusing-it"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/02/the-existential-threat-from-ai-and-from-humans-misusing-it"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/89ad267be88983be00a29d56b9a48965dfd6aff3/0_0_3235_1942/master/3235.jpg?width=620&quality=85&auto=format&fit=max&s=e090c8964c3e679e4404ffb46a0a3627"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "How AI Will Revolutionize Communications"
-    excerpt: "The bottom line is that it’s time to face the AI revolution head-on and seize the opportunities it offers. In the fast-paced world of communications, standing still is not an option. Learn how to leverage AI and start to unlock new levels of impact."
-    publishedDateTime: 2023-06-03T17:17:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32704273/how-ai-will-revolutionize-communications"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32704273"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32704273"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/06/03/portadas_javi_benzinga41.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Reflections on artificial intelligence"
-    excerpt: "When ChatGPT, a large language model artificial intelligence (AI ... It is not difficult to understand the main ideas of a neural network model being the platform of ChatGPT and other large AI models. It is a vast tangle of networks of input and output ..."
-    publishedDateTime: 2023-06-01T16:05:00Z
-    webUrl: "https://businessmirror.com.ph/2023/06/02/reflections-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 39
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2021/04/Column-box-Eagle-Watch.jpg"
-        width: 1400
-        height: 735
-        isCached: true
-  - title: "The Revolutionary Potential of Humane's Wearable AI"
-    excerpt: "A Revolutionary Concept or Just Hype? Humane, a secretive tech startup founded by former Apple veterans, recently unveiled its wearable AI technology that it's been working on. The company has been shrouded in secrecy for over a year,"
-    publishedDateTime: 2023-06-01T09:29:00Z
-    webUrl: "https://yourstory.com/2023/05/humane-wearable-ai-revolutionary-concept-or-hype"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 39
-    images:
-      - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Image6o8u-1685609102796.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Max Cooper is using AI to push the frontiers of creativity and communication"
-    excerpt: "The acclaimed London-based music producer — known for his ethereal sounds and visually hypnotic live performances — discusses the limits of human language, the future of music, the dangers of unchecked AI research and the mysteries of consciousness."
-    publishedDateTime: 2023-05-31T16:14:00Z
-    webUrl: "https://www.thedrum.com/news/2023/05/31/max-cooper-ai-the-future-music-and-consciousness"
-    type: article
-    provider:
-      name: The Drum
-      domain: thedrum.com
-    quality: 36
-    images:
-      - url: "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/689017/thumbnail_image_6487327.jpeg?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format"
+      - url: "https://images.mktw.net/im-789589/social"
         width: 1280
-        height: 853
+        height: 640
         isCached: true
+  - title: "AI startup C3.ai’s stock plunges 22% after softer revenue guidance"
+    excerpt: "Shares of white-hot Ai startup C3.ai Inc., which had been hurtling toward record highs earlier this week, took an abrupt U-turn Wednesday. The company’s stock AI, -13.22% skidded 14% in after-hours trading in the minutes leading up to its quarterly financial results."
+    publishedDateTime: 2023-06-01T11:53:00Z
+    webUrl: "https://www.marketwatch.com/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-startup-c3-ais-stock-is-down-20-after-softer-revenue-guidance-82f0bc66"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 87
+    images:
+      - url: "https://images.mktw.net/im-789589/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Wall Street banks seizing AI to rewire world of finance"
+    excerpt: "The AI revolution is unfolding on Wall Street as wider interest grows in the evolving technology and its likely impact on business."
+    publishedDateTime: 2023-06-01T06:37:00Z
+    webUrl: "https://www.afr.com/technology/wall-street-banks-seizing-ai-to-rewire-world-of-finance-20230601-p5dd3o"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 71
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.1226%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/6f1786ce28c16c72663235a343f9913c7b67032b"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Cities and Counties Draft Guidelines for Workplace AI"
+    excerpt: "Does your local government need a stance on generative AI? Boston encourages staff’s “responsible experimentation,” Seattle’s interim policy outlines cautions, and King County considers what responsible generative AI use might be."
+    publishedDateTime: 2023-06-04T05:17:00Z
+    webUrl: "https://www.governing.com/policy/cities-and-counties-draft-guidelines-for-workplace-ai"
+    ampWebUrl: "https://www.governing.com/policy/cities-and-counties-draft-guidelines-for-workplace-ai?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/policy/cities-and-counties-draft-guidelines-for-workplace-ai?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/c055d6a/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fad%2Ffa%2Fc71201bd45859940e3d10b77c455%2Fshutterstock-2239373423.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "Wall Street is using AI to rewire the world of finance"
+    excerpt: "Morgan Stanley says its bankers are “experimenting” in a “safe and contained environment.” Meanwhile, JPMorgan Chase is hoovering up talent, advertising for more AI roles than any of its rivals. The AI revolution is unfolding on Wall Street as wider interest grows in the evolving technology and its likely impact on business."
+    publishedDateTime: 2023-06-01T20:02:00Z
+    webUrl: "https://www.crainsnewyork.com/technology/ai-finance-wall-street-banks-roll-out-new-tools-chatgpt-era"
+    type: article
+    provider:
+      name: Crain's New York
+      domain: crainsnewyork.com
+    quality: 56
+    images:
+      - url: "https://s3-prod.crainsnewyork.com/styles/1200x630/s3/aiwallstreet.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI set to take the world of weather forecasting by storm"
+    excerpt: "Papers have been released by the technology companies Google DeepMind, Huawei and Nvidia that appear to show impressive forecasting results driven by machine learning. Peter Dueben, head of earth ..."
+    publishedDateTime: 2023-06-01T02:51:00Z
+    webUrl: "https://www.thetimes.co.uk/article/ai-set-to-take-the-world-of-weather-forecasting-by-storm-7nsqw3mjh"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F88280ba6-fba8-11ed-bc7a-1444acf8fa38.jpg?crop=4701%2C2644%2C787%2C658&resize=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "The impact of AI on the financial services industry"
+    excerpt: "Artificial Intelligence (AI) has emerged as a transformative force in various sectors, revolutionizing the way industries operate and deliver services. One such domain experiencing significant disruption is the financial services industry."
+    publishedDateTime: 2023-06-01T15:01:00Z
+    webUrl: "https://www.bworldonline.com/banking-finance/2023/06/02/526310/the-impact-of-ai-on-the-financial-services-industry/"
+    ampWebUrl: "https://www.bworldonline.com/banking-finance/2023/06/02/526310/the-impact-of-ai-on-the-financial-services-industry/?amp"
+    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/banking-finance/2023/06/02/526310/the-impact-of-ai-on-the-financial-services-industry/?amp"
+    type: article
+    provider:
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 39
   - title: "The Illusion of China’s AI Prowess"
     excerpt: "JENNY XIAO is a venture capitalist investing in AI startups and a Ph.D. candidate at Columbia University. In the abstract, these concerns make sense. It would not serve U.S. interests if a regulatory crackdown crippled the domestic AI industry while Chinese AI companies,"
     publishedDateTime: 2023-06-02T13:36:00Z
@@ -151,6 +164,15 @@ related:
       name: Foreign Affairs
       domain: foreignaffairs.com
     quality: 21
+  - title: "We have bigger worries than AI"
+    excerpt: "Now, all of a sudden, we’re told that artificial intelligence is a growing menace that should be considered as potentially dangerous as nuclear weapons, climate change, gun deaths or even the mind of Marjorie Taylor Greene."
+    publishedDateTime: 2023-06-02T09:38:00Z
+    webUrl: "https://lasvegassun.com/news/2023/jun/02/we-have-bigger-worries-than-ai/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 19
 
 secured: "oMaSSeuLwIDWpZ1CKuKe3AEjrXpuRFvmgWRGV3w3cQz0/svUpWzshGSBLuo4IsJZW//thc4qMp12WzEE2E7WKnzHp9MHIqxF+DYNyP+sUJamc+iXmfvtDKl97DIhFeAZhyvNQFb0tDAg01XIB6oLO+XP3ytDMGG08hXgiAiSFccQgx6YX0+K8yf5zjgHc5N8GFn+Pi3OBhmtp+vho6SvEmitoFqQ5mKX3cyK9DEfRSm7eI36Mgd3j1Y4N9i4AD/lAfSGd5SdZiXHmEOBLBzqnr3rZMRqj3iUJFGIZVs3WXSRbI/URA5Q2WLUlF8vu/3jd7UuuJ2qkj7Pz9uexTH/yfx8dgDUyyj4FF97+oSAfp54aOmUpaVxz7jhORiYv6BkKdO+cOMBprB7GyMVrQEbdogyyyWxlgp/oZrM8PBCb4sK1kJsY7ZA2eqawlEdpLo6NuZYOmSfSWE4bQzOZF5pS6MppcUTBSAvOZTSuJ/bm0FROypMp5TVx8suaxoW+jafwvME1cONinzvDnEdlcDqCA==;w2qi6vhjgvMcmFEzEnpBZQ=="
 ---

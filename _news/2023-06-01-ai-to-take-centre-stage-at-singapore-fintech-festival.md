@@ -80,6 +80,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 51
+  - title: "Here’s What You Need to Know About the AI-Themed Singapore Fintech Festival 2023"
+    excerpt: "The theme for the upcoming Singapore Fintech Festival 2023 would be ‘Applications of Artificial Intelligence (AI) in Financial Services’."
+    publishedDateTime: 2023-06-05T04:05:00Z
+    webUrl: "https://fintechnews.sg/74766/singapore-fintech-festival-2023/heres-what-you-need-to-know-about-the-ai-themed-singapore-fintech-festival-2023/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 34
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/06/Heres-What-You-Need-to-Know-About-the-AI-Themed-Singapore-Fintech-Festival-2023.png?x90673"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "Singapore FinTech Festival 2023 to explore applications of AI in financial services"
     excerpt: "The Monetary Authority of Singapore (MAS) and Elevandi have announced “Application of Artificial Intelligence (AI) in Financial Services” as the theme for Singapore FinTech Festival (SFF) this year. SFF 2023 will focus on the growth and adoption of AI and how the technology can be potentially used in financial services."
     publishedDateTime: 2023-06-01T04:14:00Z
