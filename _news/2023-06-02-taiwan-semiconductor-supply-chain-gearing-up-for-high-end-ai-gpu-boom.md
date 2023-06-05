@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230601PD212/ai-gpu-nvidia-tsmc.h
 webUrl: "https://www.digitimes.com/news/a20230601PD212/ai-gpu-nvidia-tsmc.html"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1280
     height: 853
     isCached: true
-
-related:
-  - title: "Taiwan's Foxconn Predicts Huge Growth In AI Server Business"
-    excerpt: "Taiwanese tech giant and key Apple supplier Foxconn predicts three-digit growth for its artificial intelligence server business due to robust demand for AI products such as ChatGPT, its chairman said Wednesday."
-    publishedDateTime: 2023-05-31T10:40:00Z
-    webUrl: "https://www.barrons.com/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740?refsec=topics_afp-news"
-    ampWebUrl: "https://www.barrons.com/amp/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP6595984239764979366134169632271358072436---1.jpg"
-        width: 768
-        height: 512
-        isCached: true
 
 secured: "i4Q6HdOVTsQ7v21ugXGqRgCVUGV88oa/Dh/N9WX47sMZ5VDge4ZBH+ecnYO+K116fA/eepcD47GadwnchtPpqdEyo+bO9jRAMhd3aKBlQwvb+irGz8BaayIoIOr0zqdErr8yrzKr1QodHy5Iy5M3ah+Eb4qnfmclC1/0P/gZRAOwz31HlfF6Ekep8/jOIv7kHlaNuST1p+TVJ23pgzH7VwpCmqmnEV5tBG7L9HBxxgEfE7vamOMTLsEDwyuLM0/pwXz6ybykfimVo4Aig1LVnyKKiICwYziP5nS8iU4C9X1S/TYjc2JcqTlZs+jyddi9qct4XsotRLE3+nPKUX1kQgOpGetZ+6gf0p/S5o6lAPZ71D7VnWRn5g49X3pIQU+OM8bIRXnkLrtgEebCD/hw3DT0jjnR6M/uSPgRkK9+gQGGLdZKGJM2VpWI1tZFRNqqvSVW5xz2rpR/Johjfg4jMrei610rtm4KcwmJqXFo3/gfAjjw7OXvTGc2MA/1ne23ADblVpC448bZWDyV84sXjg==;aHwq3zANla3wA05021dn6A=="
 ---

@@ -30,6 +30,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 16
+  - title: "Composite AI Market worth $4.4 billion by 2028 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "The Composite AI Market is estimated to grow from USD 0.9 billion in 2023 to USD 4.4 billion by 2028, at a CAGR of 36.5% during the forecast period, according to a new report by MarketsandMarkets™. The growing availability of data,"
+    publishedDateTime: 2023-05-31T15:10:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/05/31/9823872.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
 
 secured: "OMkZgjTSlzeO56ZJWMLzRFHknUQJ/fD2aYVBH6SbI3l26HUH3LRBdAp7wPN3CWGWlsrfjZTstp5bLOcnYzcL51QQOuf94UoXtmRhIO0f6b6CksM3jkj1NRkX8/BBttYWKzAqBYdI696SaUIebCIyOrjY8TdbGFMy1J3MmPj2Vjf1GmmcKCx6QqpB7LJpEuDWvI02ajdoHSMQci9qsHJd0RSxc+u620uV/ySo4CEC6xSft0rWj6ksFDixGLuJSza1GWDJpvcvBNJe/WEJj5zGZolmwT00joS6x4I+mqApzNw78hJ2vdTHipQD+LM3CqBBDinJubb7V9Xs1rsL/KByIF7rdOGNa5DWnK8IF1VM5tOMeMLDJHv+cx4X8Fyi6Rgsunb+8OcCx5Z5ZKZp8V8Jy1JRveZDdAVzneZBHFOWW1OpPzug63PIzr5auatAR6i3VJnNIgZ758bQbxBPJyFDQvWFxHwtDRZHTWUolU4DBTQlgJfpqqNRDb3GWnogV2adqJgMqzRq4Jzo3apnQUarzg==;9aaKUBKGUqNjqmUwG56sKQ=="
 ---

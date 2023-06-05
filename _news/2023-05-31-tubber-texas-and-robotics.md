@@ -7,7 +7,7 @@ originalUrl: "https://www.westmeathindependent.ie/2023/05/31/tubber-texas-and-ro
 webUrl: "https://www.westmeathindependent.ie/2023/05/31/tubber-texas-and-robotics-2/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "MassRobotics recognizes 2 women for their robotics accomplishments"
+    excerpt: "This inaugural MassRobotics Robotics Medal award was presented to Nancy Amato for her research on the algorithmic foundations of motion planning and more."
+    publishedDateTime: 2023-06-02T14:24:00Z
+    webUrl: "https://www.therobotreport.com/massrobotics-recognizes-2-women-for-their-robotics-accomplishments/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 84
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2023/06/massrobotics-featured.jpg"
+        width: 770
+        height: 500
+        isCached: true
 
 secured: "Op4sFLTS2ngEkCLkS2EGLKNy6AuJSRbj9glXvUEnvqEvKAJKN/j1DXM7d9i+G0y5+DUACpjHuBPiE94t4k1p8YV8HejPL4S7S5G6qxN1STfbqg3Bdg2GMrWRHly7iad1uFQLIfrmKX3GHl4rI5uPHEQZaX1kEG46EtyYwb5mmK3gsmYFRWP7dwQZsoY6DMJ0rsMe9sEQUIWxhYekLWUqu6KfAUGSKUpUMyMBbXS3B7LESHREB6pI9cYftxbojUA7C8zVvtMOR8vvcaDYo81rSegYuvgjyYs7BBO4C5vjPgWEYnd+KCaYaakmGt8w/ZmyCE92dZBbB619rj9TKCXTXWpR2LYyfqASOCAxhB9ThK0MMvOqmIUEAHt+Bwb7u9JpcZCsVnLyHIjWlYZnAMykKkqFnUtxYeAdbBHdEnOoodWsXTxnSM58nsy7L4s3SMmej+SqoVsKsBzqrIMEEZLKHnoW6IvbP75pBJvCejB9l/vvTO5gB53PUr57A4l28JXTEcS31jupODkn2si4aAUCLA==;ihA82bTrXhjz62jugvQIlg=="
 ---

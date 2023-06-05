@@ -7,7 +7,7 @@ originalUrl: "https://bgr.com/science/crazy-new-ai-camera-doesnt-even-have-a-len
 webUrl: "https://bgr.com/science/crazy-new-ai-camera-doesnt-even-have-a-lens-how-does-it-work/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 897
     isCached: true
+
+related:
+  - title: "Duet AI for Google Workspace: What is it and how does it work?"
+    excerpt: "Google has unveiled a new basket of features for its suite of apps, collectively called Duet AI for Workspace. Here's how to use it."
+    publishedDateTime: 2023-06-05T03:14:00Z
+    webUrl: "https://www.androidauthority.com/google-duet-ai-for-workspace-3331685/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 69
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/05/Google-IO-2023-duet-ai-for-workspace.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "zZAAUJcXsITiN8/C3y5hmU+gCoRyiX2MQldDSr2t6eD+tRkCF33YZx7rHitiFpTJVt0rAQCN+HF9RQnu2ij7yFt+rbPKPct3yQjN4PNK0HFgpSoIcX93IZ347g6FvBl7DMVMzChttIEUmQSeKdcxzNJVY1Z1KiGVsWyWS61nVXX6n5bymFU4RbcfDUV15WfrbjfW6R4rtML8IDhHyo8l8QxYn0mNQ1MkilA3ZOHDW6LwDWczyXXD3mteZLT0nz7xPpnSrrL9pOPoaK0P55JkatEX4b4g+zLgpuRTyz/Nd9bdA4ZX/hRzInUw7iHf0BHwd89w3MiD+yoYP7TKv50blFbcel23HCcD2r5g1mpFUxxnVQBppBphSlLS4CImEcEIWuj7bT7AwWYxvL3yAV9gzkSI59uppdbVBMz2MGROuUilApDKAkMsZn8nQWTBLRxPnc3ptHT0ZmaTsxDeA6IJ3OHuFz4uVRa0PvAYuM0pMlBaRbaRLAtPU4MWAYhHbTpihgi019oozN8EkO0reywdkg==;Deto9680qcyD+IPBaFAKcQ=="
 ---

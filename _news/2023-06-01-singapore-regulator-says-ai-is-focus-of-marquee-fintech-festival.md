@@ -95,15 +95,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 33
-  - title: "Exploring the role of Artificial Intelligence in Forex Trading: Can machines outsmart humans?"
-    excerpt: "The future of AI in forex trading looks promising. With technological advancements, AI is expected to become even more integral to forex trading."
-    publishedDateTime: 2023-05-31T09:49:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/493987-exploring-the-role-of-artificial-intelligence-in-forex-trading-can-machines-outsmart-humans.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 8
 
 secured: "DUD9pLZ21wOXyFVvh2DXOa+66rrqEZDpBbhJwpj9PenEtZB37wV3FzrpaXMKuHssjAVY7HlgLHJHer/T4nnPapi8kxG5jtvK4KkRJcgiPgyNPv9jeNJ2yEjrkOQOfkJwHmUrPt6yfvwGLlvKzlcnzmhZjO5Z047jUYuopxMOgZYw/fvl/eTd4DnApNvmOfnIJTGDYwPfjcTEnxLGxfYHngwPgSa58auFOqIrGm0nSOm6Jkv9KJBCDm3DvTiXwECMC88zdYKzXVXRkBOr+8h7VsrC52m/aB1oRKT1WQNXIwJxjGreje5TfehpaKdIrx4uKCmGmorEm2i9+Nn5oUXH5aTXyvluiaBSOZyr3NviKnAjf8OPpdXMcE6rjrQFpqU8zhdNN4Qhv2BgAkiIQzyqocpYuS9xkJ8Unokanp51GxRPTr8WuJtVnGzYhl3dIQWTy8932N8Gy5B/GxItOSoKdNTfQEKdctKFNbtAaAlvEFHK93yzZM21arIHRZ9L45IHfmceW+bPceSImzP37Saijw==;93WpVaZo0hj/HaigrEGQ8Q=="
 ---

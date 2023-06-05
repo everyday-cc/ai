@@ -133,17 +133,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Unlocking the power of AI"
-    excerpt: "Navigating the impact of AI was the topic under discussion at First Technology’s recent hybrid Microsoft event, held both virtually and in-person at The Leonardo in Sandton, Johannesburg."
-    publishedDateTime: 2023-05-31T10:57:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/494061-unlocking-the-power-of-ai.html"
-    ampWebUrl: "https://mybroadband.co.za/news/industrynews/494061-unlocking-the-power-of-ai.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/494061-unlocking-the-power-of-ai.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
   - title: "The impact of AI on the financial services industry"
     excerpt: "Artificial Intelligence (AI) has emerged as a transformative force in various sectors, revolutionizing the way industries operate and deliver services. One such domain experiencing significant disruption is the financial services industry."
     publishedDateTime: 2023-06-01T15:01:00Z

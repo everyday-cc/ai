@@ -3,18 +3,18 @@ category: news
 title: "What's new in robots? An AI-powered humanoid machine that writes poems"
 excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
 publishedDateTime: 2023-06-02T12:59:00Z
-originalUrl: "https://abc13.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-webUrl: "https://abc13.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-ampWebUrl: "https://abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+originalUrl: "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+webUrl: "https://abc7.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+ampWebUrl: "https://abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
-  name: abc13
-  domain: abc13.com
+  name: ABC7
+  domain: abc7.com
 
 topics:
   - AI in Robotics
@@ -43,6 +43,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
+    excerpt: "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said."
+    publishedDateTime: 2023-05-31T12:27:00Z
+    webUrl: "https://democratherald.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_27cf4892-da67-5bf3-989e-09afa17feb9d.html"
+    type: article
+    provider:
+      name: Albany Democrat-Herald
+      domain: democratherald.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/democratherald.com/content/tncms/assets/v3/editorial/2/7c/27cf4892-da67-5bf3-989e-09afa17feb9d/6477381303243.preview.jpg?crop=1739%2C914%2C24%2C33&resize=1200%2C631&order=crop%2Cresize"
+        width: 1200
+        height: 631
+        isCached: true
   - title: "What’s new in robots? An AI-powered humanoid machine that writes poems"
     excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
     publishedDateTime: 2023-06-01T08:45:00Z
@@ -58,6 +72,6 @@ related:
         height: 399
         isCached: true
 
-secured: "wH/zhxMEGjD1kXUy05GvMPekG4rJ9pVTmpzQV8OONOiwO4fCNV6EgHar+ZE1bzdlXkfSqXDG3eSplfMqyJmkTNLvDEHDYQPJoKIgzZ/t8v+rZd9/cFl/9oa8V7/ySCi40/2PlNSCMaNNJbkW/luV8/akmRCFUhGstU5bnWqrm7XUvkZSSfTlAqBfYwGyd+SzOv29TThBHe1jG9bXE8NLHgJf2u1U/222INrAUrbJ2Bnac2Rm8ew3fghlQHQhYriRtykQYsWiNyP3Y6TjmIuiQUDLjIiOG3JePRZq5EoizxD7BXBtjEqu3jtJgOcCAzkjJbFhO1yBQXNFC3oLqTNvbteWi7Wk+VCGx/ob2EzKniY=;plR2oAt9LAo+/BoWSENfpw=="
+secured: "qFoxSWEwHjsTckbX3RxnRXpMcZWBSwg8njK039wpgFzmNa6N3OupZwhiBU9Z3SCHJWPVhYr+0WGuwUdmXqQXOTQ16Borxn8zP66nsCKhAv4w91Y+CFmiOqUaNqXu7DFWYrzMJ/hNrYZIfK8Bos755t0Xr9E+24OaVJM9LoeygzLrI035btjiOxHnm02PrQT0RFuxip2dpmY8kmTE8olBf5mksg2DYz56Lnx0sNJ/SMMHZWQFukS7eBAgNHF0npm2pNxEJ07P/ws6rh8KLCxJjwzLnl14HmI0rZGrW42E0AGGyllBW6Z4eI02ylyqpRNiVaWGRUeA0O2oAbrZMcQCpKqGJT0TbK3r1p+KBRuDuFc=;KTbmonW2HbRYEwcv2rox6w=="
 ---
 

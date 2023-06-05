@@ -63,31 +63,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Microsoft Has Launched “Jugalbandi”—A New Generative AI App for India"
-    excerpt: "India, home to more than 1.4 billion people, is an incredibly ripe market for digital and AI-based innovation."
-    publishedDateTime: 2023-05-31T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/saibala/2023/05/31/microsoft-has-launched-jugalbandi-a-new-generative-ai-app-for-india/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
-  - title: "China isn’t waiting to set down rules on generative AI"
-    excerpt: "The draft regulation released in April is part of a large game of tech industry whack-a-mole. China Report is MIT Technology Review’s newsletter about technology developments in China. Sign up to receive it in your inbox every Tuesday."
-    publishedDateTime: 2023-05-31T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/05/31/1073743/china-generative-ai-quick-regulation/"
-    ampWebUrl: "https://www.technologyreview.com/2023/05/31/1073743/china-generative-ai-quick-regulation/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/05/31/1073743/china-generative-ai-quick-regulation/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/05/AP23075301204542-crop.jpeg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
   - title: "Microsoft: Generative AI Unlocking Growth Potential"
     excerpt: "Microsoft's AI initiatives, including the availability of OpenAI's GPT-4 in Azure, OpenAI Service and the introduction of Azure AI Studio can potentially drive significant growth and expand ..."
     publishedDateTime: 2023-05-31T23:32:00Z

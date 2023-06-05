@@ -41,20 +41,6 @@ related:
         width: 800
         height: 427
         isCached: true
-  - title: "ChatGPT Is Cutting Non-English Languages Out of the AI Revolution"
-    excerpt: "AI chatbots are less fluent in languages other than English, threatening to amplify existing bias in global commerce and innovation."
-    publishedDateTime: 2023-05-31T11:01:00Z
-    webUrl: "https://www.wired.com/story/chatgpt-non-english-languages-ai-revolution/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/64769756c30f50376ee8747d/191:100/w_1280,c_limit/ChatGPT-Is-Cutting-Non-English-Languages-Business-1417723053.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Alibaba to Build ChatGPT-Like AI Into Meeting, Messaging Apps"
     excerpt: "Alibaba Group Holding Ltd. is integrating its most advanced artificial intelligence system into its Slack-like DingTalk messaging app and a meeting assistant named Tingwu."
     publishedDateTime: 2023-06-01T02:15:00Z
@@ -69,22 +55,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Forget the ChatGPT newcomer — AI is already helping to power global supply chains"
-    excerpt: "ChatGPT may be the hot topic but AI has been embedded in enterprise technology for much longer. Samsara's Adam Warren digs into the value of AI in the logistics industry."
-    publishedDateTime: 2023-05-31T09:57:00Z
-    webUrl: "https://diginomica.com/forget-chatgpt-newcomer-ai-already-helping-power-global-supply-chains"
-    ampWebUrl: "https://diginomica.com/forget-chatgpt-newcomer-ai-already-helping-power-global-supply-chains?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/forget-chatgpt-newcomer-ai-already-helping-power-global-supply-chains?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 54
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-05/Shutterstock_2281213913.png"
-        width: 740
-        height: 450
-        isCached: true
   - title: "Microsoft Build 2023: Bing AI and Copilot Plugins for ChatGPT OpenAI, Microsoft Fabric and More"
     excerpt: "This year's Microsoft Build was focused on artificial intelligence, with new Copilot experience additions for Windows 11 and Edge, as well as new Bing AI and Copilot plugins for ChatGPT OpenAI. Key announcements also included the Microsoft Fabric analytics platform,"
     publishedDateTime: 2023-06-02T07:05:00Z
@@ -98,20 +68,6 @@ related:
       - url: "https://res.infoq.com/news/2023/06/microsoft-build-2023/en/headerimage/generatedHeaderImage-1685637758526.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Lawyer’s AI Blunder Shows Perils of ChatGPT in ‘Early Days’"
-    excerpt: "A lawyer’s citation of court decisions fabricated by ChatGPT shows the peril of relying on the artificial intelligence chatbot without proper safeguards."
-    publishedDateTime: 2023-05-31T09:30:00Z
-    webUrl: "https://news.bloomberglaw.com/business-and-practice/lawyers-ai-blunder-shows-perils-of-chatgpt-in-early-days"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 39
-    images:
-      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/d4cd88e/2147483647/crop/3998x1541%2B0%2B102/resize/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2Fbb%2F6a%2Fd098b3bf4e919a9049b7cd6a8ddc%2Fchatgpt.jpg"
-        width: 1920
-        height: 740
         isCached: true
 
 secured: "WTzsAafMJTZv5jud5p7YPo16NjIMCRjLn7fmrHWaDg75ZfWVKnu1Zs3EpIuaisle+ccuMccwKOuAaJA5oLF7KbVAQeukTzeY0wvHbXum1+ZKN3XcUYaXg+gWlwgWMWXPceFtGg3Jzl11oVKmOtyjw5usPE/LqARu85oFmtC01unIWvAu/eWIvc1aQKGqIsAopNWrW9EsCoXJTD/B/pftvxhgjpLmUZLQQdKdzsfGw5UTyGW0rELjOSVUiC+mWRGYfZyYph2VlshKkPgfY1m5HtLkKov8jO/eeclhE6vUoZ3MUkOTygNn7MCWNoqHd62iDE73DsRMuego24ktjCTqSo0q6yrD5OKw2kO1DUpg5nE=;bsULKKKsxo5TwrVwX7NTFQ=="

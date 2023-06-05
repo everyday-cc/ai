@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-inte
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/"
 type: article
 quality: 104
-heat: 208
+heat: 198
 published: true
 
 provider:
@@ -123,17 +123,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Unlocking the power of AI"
-    excerpt: "Navigating the impact of AI was the topic under discussion at First Technology’s recent hybrid Microsoft event, held both virtually and in-person at The Leonardo in Sandton, Johannesburg."
-    publishedDateTime: 2023-05-31T10:57:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/494061-unlocking-the-power-of-ai.html"
-    ampWebUrl: "https://mybroadband.co.za/news/industrynews/494061-unlocking-the-power-of-ai.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/494061-unlocking-the-power-of-ai.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 39
   - title: "AI set to take the world of weather forecasting by storm"
     excerpt: "Papers have been released by the technology companies Google DeepMind, Huawei and Nvidia that appear to show impressive forecasting results driven by machine learning. Peter Dueben, head of earth ..."
     publishedDateTime: 2023-06-01T02:51:00Z

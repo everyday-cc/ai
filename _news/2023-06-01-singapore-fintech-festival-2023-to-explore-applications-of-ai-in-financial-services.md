@@ -90,15 +90,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Exploring the role of Artificial Intelligence in Forex Trading: Can machines outsmart humans?"
-    excerpt: "The future of AI in forex trading looks promising. With technological advancements, AI is expected to become even more integral to forex trading."
-    publishedDateTime: 2023-05-31T09:49:00Z
-    webUrl: "https://mybroadband.co.za/news/industrynews/493987-exploring-the-role-of-artificial-intelligence-in-forex-trading-can-machines-outsmart-humans.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 8
 
 secured: "9lgpuUX9xHw666G4cPp0CIg9P1P2hp4im+ffYnlerMsw4mqxG0d4wvoNcchtW3aKIiA9ih7FAyKnRZ0+HBbhH7Vs5J56eBcxe3pcdPTw3Rjl7yucBacR5c/3dmCwWZuym08B0vcQqLm3zynIPo6lyG/HOx4UCcrolzYUxiQDG3JlEeyhjjBNN8BeRvD77WzjQUKZf40kCQMB6ONAGkpQdwMoBJGgygNstzf3Bu5NmWeXE6T//5JjdfL2iU0kZ04xmeVdF2Sg7V9H+Z0Pp8DzSufaq3uWfgDwxXV3YeRkIo7j4Ey2FPBhjLHgmM3CN+EQi87E9vcF/PU8DN4JZygWwoSJPmrBVgokANYoAKLcZqI=;69NotbBEuMewLcjxJw/Bbw=="
 ---

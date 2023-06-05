@@ -97,6 +97,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Unregulated Artificial Intelligence Can Eliminate Humanity, Pose Extinction Risk - Industry Leaders Issue Warning!"
+    excerpt: "Several industry leaders and academics issued a statement warning that there is a need for rigorous mitigation of Artificial Intelligence (AI) associated risks. The statement in brief An open letter was posted by Center for AI Safety which is a San Francisco-based non-profit."
+    publishedDateTime: 2023-06-04T20:47:00Z
+    webUrl: "https://trak.in/stories/unregulated-artificial-intelligence-can-eliminate-humanity-pose-extinction-risk-industry-leaders-issue-warning/"
+    type: article
+    provider:
+      name: Trak.in - India Business Blog
+      domain: trak.in
+    quality: 17
+    images:
+      - url: "https://trak.in/stories/wp-content/uploads/2023/06/Untitled-design-20-1.jpg"
+        width: 1000
+        height: 465
+        isCached: true
 
 secured: "kRvZoWawwVWBOkwz6zinznfs5ynzZIfHKamJr2LkLfpRgep8EhPnfo7dYcf8LgTSk9udI5yrAVeLgj5VXpPGSQmwi/v/DVBe2wwxqc/P3p5HLovhbhCSC+DO+/4CJCtOWrtodFNNJi5/tT0jf0KueBI694fk55PF+3hebWrwm7cDNyqy7MVLcQ/TDSlJ+L1ooqlOu3YcXgY+EzpiMC9MamGTHJHcXjDeAf+ZzC7xJ7bCsORU2QJBpXeunjeCfvqGw8uJelTIFkpr2ShwyDd1bbSoUuHkW33wnNz+p+TuXlgwz16r8OoJaMuh2TBa8sYMHtpxDmPhzLTr+y0Ob+vtpEfRm/+lCsdd8GspoqqcRnyEyiYduekhFck7wJx1AlVGFbiXQzdnv+qFKL388ALWzpm3CEJsuxTs2gtghWQm5j0xKWqX60VOseYbp75nxmv3vJyqR0KEnTAbzue0sWOGlaNJOz2jb0ZIW6EKPYQJlFIw5cH7n7yWy0KrPRp55rS6y7GTSBlM5Av8qlFcEQO3xQ==;VlT0oI1FmGfItV4DEcbn8g=="
 ---

@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia Is Soaring. AI Chip Rival Graphcore Can Barely Get Off the Ground"
-    excerpt: "Nvidia is barred from selling its highest-end graphics processors in the country. “We’re one of the few alternatives,” he said. Graphcore has been “quite successful” in China and other parts of Asia, Toon said, but beyond partnerships with Alibaba Group Holding Ltd. and Baidu, the company hasn’t cited any specific customers."
-    publishedDateTime: 2023-05-31T11:01:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-05-31/nvidia-is-soaring-ai-chip-rival-graphcore-can-barely-get-off-the-ground"
+  - title: "Nvidia contracts TSMC to manufacture next-gen AI chip, says Huang"
+    excerpt: "Nvidia's next-generation AI chip will continue to be manufactured by TSMC, said company CEO Jensen Huang in response to market concerns regarding the processor vendor's partnership with the pure-play foundry."
+    publishedDateTime: 2023-06-02T01:20:00Z
+    webUrl: "https://www.digitimes.com/news/a20230601PD213/jensen-huang-nvidia-tsmc.html"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 83
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ik2Y9203IpGc/v1/1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://img.digitimes.com/ad/en_20230302_dtmember_bigbutton.gif"
+        width: 336
+        height: 280
         isCached: true
 
 secured: "eb70rxTK8zvDaxBRaPtWt/8145j/IztFNoJD7wPqQ8Rz2iDkfSFHJDiqgkdd4iLoF3DrjT54olSB2uTTXxJHPufCjbs5WFEC4wDs4EDXjF57ppglZFp8t9TT7JLaB3P1kSajDAN0n7FXEW177uZQolsfRKWSIjAqN4w70tcoayk+jmkmBQajbfPacN/jcyW7cHmQvvdGNfvZRtkd10He/f682dQY10Hwit7iUMySt1WrEvAsx4kf9NUUISBmpJKpNlYzHC+RNgwRklQaFqsaW6JeDWML1M3eSa2qNvZwv6mRSu38H/TDT77KOQqinwWslS24RkJX8SfrhiZxonV/TovDWzehZHYIVUkv57hIyxQ=;PaMxI0ouDTTVErdeh1salA=="

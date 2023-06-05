@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "How Companies Can Determine Potential Generative AI Use Cases"
+    excerpt: "While generative AI presents opportunities for some types of businesses, it creates serious challenges for others."
+    publishedDateTime: 2023-06-01T11:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/01/how-companies-can-determine-potential-generative-ai-use-cases/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/01/how-companies-can-determine-potential-generative-ai-use-cases/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/01/how-companies-can-determine-potential-generative-ai-use-cases/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63ff5b3599f2634f6eaa9372/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "French Open Enlists AI Company to Help Players Fight Social Media Hate"
     excerpt: "The automated software filters out abusive comments on social media platforms including Instagram, TikTok and Twitter."
     publishedDateTime: 2023-06-01T23:38:00Z

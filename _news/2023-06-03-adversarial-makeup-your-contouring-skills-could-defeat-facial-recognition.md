@@ -24,17 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Your face is ours: The dangers of facial recognition software"
-    excerpt: "Clearview AI is redefining our privacy. The New York-based firm has said it's aiming to collect 100 billion images – that's 14 for every person on the planet – with the help of Artificial"
-    publishedDateTime: 2023-06-02T18:45:00Z
-    webUrl: "https://www.france24.com/en/tv-shows/reporters/20230602-your-face-is-ours-the-dangers-of-facial-recognition-software"
-    type: article
-    provider:
-      name: France 24
-      domain: france24.com
-    quality: 19
-
 secured: "0nKvoWXHywh/d5T30IxQuen6NV4df8ShORvKiK6vVHJ/C9TsUCj3clzmtvOddY6Xia3PgbXCVBkuiPlr1yAGVej/FnI9sszHgXYSYCelFd4HIh/VKgmekwrl4FG++Gpbb5CFPARNvjIXTTb2sDty0G+2IZDvV5ZGIERCOkO7SK135LogL88Udh2eFLnRnzd9+QqCjJ5E6jhXwlpc3NRPifXO4acDwjaO7S3rXMdnC6H8J/D9fJ0JUNdxiBDuIbvYUcZOjG0tjLV8Vu8LVh/nyCMIxiUJYU6Hinsh4NzQM7iRkw+Ez9cHVKtOoCThz5piLkzbskin4D3BrVZO0AR7R9r5ZUHDU7LmTCTlr5Dhlaw=;iXU68hLZqgGDLuMyouSlSA=="
 ---
 

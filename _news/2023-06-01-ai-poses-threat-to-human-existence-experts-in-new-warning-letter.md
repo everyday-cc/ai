@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ai-poses-threat
 webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ai-poses-threat-to-human-existence-experts-in-new-warning/453287"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -100,6 +100,20 @@ related:
       - url: "https://kyma.b-cdn.net/2023/05/InkOHhe2-AI-WARNING-LETTER.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Unregulated Artificial Intelligence Can Eliminate Humanity, Pose Extinction Risk - Industry Leaders Issue Warning!"
+    excerpt: "Several industry leaders and academics issued a statement warning that there is a need for rigorous mitigation of Artificial Intelligence (AI) associated risks. The statement in brief An open letter was posted by Center for AI Safety which is a San Francisco-based non-profit."
+    publishedDateTime: 2023-06-04T20:47:00Z
+    webUrl: "https://trak.in/stories/unregulated-artificial-intelligence-can-eliminate-humanity-pose-extinction-risk-industry-leaders-issue-warning/"
+    type: article
+    provider:
+      name: Trak.in - India Business Blog
+      domain: trak.in
+    quality: 17
+    images:
+      - url: "https://trak.in/stories/wp-content/uploads/2023/06/Untitled-design-20-1.jpg"
+        width: 1000
+        height: 465
         isCached: true
 
 secured: "njWWnjo2FyuptuNLeHJSXAhpj3ghKJoSkd2e8bMGllEOPaY1HmmsEHO2gF9iJDdsoxegy1todBQBxTSsd/QNoyeWbOCFEIef2sHeh0vSJVu6ZbMWODqYfsBiZyV3EFTrvPN1G0pw68xeeI/aR7j8I4j/ajyKHtG5wYb8nS+0wo1Kw+RiK/sMCyJkzTPP9vAM6Ote6auQGpZLn1sUwy3J/jv19gxKLjVd6+aV8mk/4zfTCLp6G73pwS7rJ0J8ZNO0rxDWVOPskBjS2hFAYAlWWAJyqtT+yq4+dyZufuoztNnvaatKNZDKzgW3R79jI6j865Fb6Bu8O09ry0wycDEpjI/WomIBjKqbq+tN1wGMeNY=;NznsnxcIRfEHSUA/sSydmA=="

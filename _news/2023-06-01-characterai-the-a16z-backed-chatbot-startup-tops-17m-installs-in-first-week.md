@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "I Asked AI Chatbots to Help Me Shop. They All Failed"
-    excerpt: "I test products and write reviews for my job. So I asked ChatGPT, Bard, and Bing Chat to recommend headphones—and I saw exactly where the AI falls short."
-    publishedDateTime: 2023-05-31T11:01:00Z
-    webUrl: "https://www.wired.com/story/ai-product-recommendations/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/64768c549a01d944fee35eba/191:100/w_1280,c_limit/I-Asked-ChatGPT-to-Help-Me-Shop.-It-Failed-Gear-GettyImages-1337276171.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "An Eating Disorder Chatbot Is Suspended for Giving Harmful Advice"
     excerpt: "A nonprofit that helps people with body image problems closed its human-run helpline. The chatbot that remained suggested things like losing weight."
     publishedDateTime: 2023-06-01T11:00:00Z

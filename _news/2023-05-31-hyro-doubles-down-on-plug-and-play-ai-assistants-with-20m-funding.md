@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/hyro-doubles-down-on-plug-and-play-ai-a
 webUrl: "https://venturebeat.com/ai/hyro-doubles-down-on-plug-and-play-ai-assistants-with-20m-funding/"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Clemson receives $20M to fund effort to use AI in health care"
-    excerpt: "A $20 million grant to Clemson University will tap a statewide network of researchers to help harness artificial intelligence to create more useful and safer health care devices."
-    publishedDateTime: 2023-05-31T10:20:00Z
-    webUrl: "https://www.postandcourier.com/clemson-receives-20m-to-fund-effort-to-use-ai-in-health-care/article_dd6372bb-3457-5e52-9288-c78ca269eaff.html"
-    type: article
-    provider:
-      name: Post and Courier
-      domain: postandcourier.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/d/15/d15c6111-da35-5bc9-87aa-ccea2b6efeb8/64771f60ce289.image.jpg?resize=706%2C593"
-        width: 706
-        height: 593
-        isCached: true
   - title: "AI-Powered Hyro Raises $20M to Advance Responsible Artificial Intelligence-Enhanced Communications for Enterprise"
     excerpt: "Hyro, which claims to be the leader in plug-and-play conversational AI, announced that it has finalized a $20 million Series B funding round."
     publishedDateTime: 2023-06-04T11:27:00Z
@@ -78,7 +64,7 @@ related:
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
-    quality: 33
+    quality: 35
     images:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Machine-Learning-Artificial-Intelligence-AI.jpg"
         width: 1400

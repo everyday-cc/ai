@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/06/01/baidu-generative-ai-fund-china/amp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/01/baidu-generative-ai-fund-china/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu to invest $145M on AI start-ups"
-    excerpt: "Chinese internet giant Baidu was tipped to set aside CNY1 billion ($145 million) to fund home-grown AI developers."
-    publishedDateTime: 2023-05-31T10:51:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/baidu-to-invest-145m-on-ai-start-ups/"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/baidu-to-invest-145m-on-ai-start-ups/amp/"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/baidu-to-invest-145m-on-ai-start-ups/amp/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 57
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2023/05/MWL_Baidu_HQ_New_650.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Baidu invests $140 million to foster generative AI startups"
     excerpt: "Baidu Inc. is investing $140 million to incubate Chinese startups focusing on generative AI. The move marks the company's commitment to innovate in AI."
     publishedDateTime: 2023-05-31T17:48:00Z
