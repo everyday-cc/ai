@@ -3,8 +3,8 @@ category: news
 title: "Improving AI chips with the help of human brain cells"
 excerpt: "AI is modeled on the human brain. To copy the brain's functions, an Australian startup has grown human brain cells on electrodes in a petri dish. This means the new"
 publishedDateTime: 2023-06-05T14:16:00Z
-originalUrl: "https://omaha.com/news/science/improving-ai-chips-with-the-help-of-human-brain-cells/video_686ad286-bc62-5d3f-a872-9d00e912b2fe.html"
-webUrl: "https://omaha.com/news/science/improving-ai-chips-with-the-help-of-human-brain-cells/video_686ad286-bc62-5d3f-a872-9d00e912b2fe.html"
+originalUrl: "https://omaha.com/news/science/video_686ad286-bc62-5d3f-a872-9d00e912b2fe.html"
+webUrl: "https://omaha.com/news/science/video_686ad286-bc62-5d3f-a872-9d00e912b2fe.html"
 type: article
 quality: 54
 heat: 54
@@ -24,6 +24,6 @@ images:
     height: 494
     isCached: true
 
-secured: "5prwa+Wl4aLxUE8f0O3mntM8jlNkUFUy58SqdWT+vPmcCrtMhxWvVgT+pjcfbQdaNN/56h18G/ESahZ/UlbkmFh7Bvklo47aVyKSrzm/XBa18+Ju1P8Rr/cj8hbzlsu8r/yteRNZxk6Sk5Idmx6bQrbrMSpWMQHV1+ZVE907/v1ZgL8qhW53jkwkOmPWtIycHqEe+tfdWIjTRmfuHxGyAIxcih6dK6YXJBHEVZfl21qYgBC6cvW0fBkdvOY6rA4sGo07yOTvNKMnGELdDVL04+Qu3DNNatRboWeiAXdfO7IOEwxO6D1HDNturBk545CawQiNzlLE+gE2qe8x7c9WMPfkHBeV85tj/teT0gAwSQw=;yFVad4r1Rrea8V9ii2uU4g=="
+secured: "AkvAa9dA9Af83RzRBm5Zj78Sq7stLzA+mSRK7O39OyCqo3luzjh2RKl6RCzhJ+zKc1qmEm8NTj8IW9n8er1QeHoj/pA+MnWy1x6s3bsopETdY99Pf6gIDViCgxQYcxGeRHEKI09FZRxYeAssSYywP4VGFRV8BCo/6AI5DJrcuqQcktGCp+sU3u04q5nF9AeO/nQxXchqV/uG5jtuOXEwc53lVEH2YsTckdinqkoXib+L7+3/Upfnj4YHOK8DRLNKTf67iHt5BLTtHHI9s1UHdEQwJmB+KFQM1xm7GJTjEGz9GFfOFku50av8bOxTSkfJNmzh6FFmbJlZfgfZ3eR/a0YADWLy3lW1TBv5xmaG2m0=;xPGURMGkSCfI1fflfT+MWQ=="
 ---
 

@@ -39,22 +39,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "How AI Will Revolutionize Communications"
-    excerpt: "The bottom line is that it’s time to face the AI revolution head-on and seize the opportunities it offers. In the fast-paced world of communications, standing still is not an option. Learn how to leverage AI and start to unlock new levels of impact."
-    publishedDateTime: 2023-06-03T17:17:00Z
-    webUrl: "https://www.benzinga.com/news/23/06/32704273/how-ai-will-revolutionize-communications"
-    ampWebUrl: "https://www.benzinga.com/amp/content/32704273"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32704273"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/06/03/portadas_javi_benzinga41.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Delivering high-tech AI/ML solutions for next-generation businesses"
     excerpt: "Giridharaprasad MP, chief technology officer, Digitap recently spoke to Dataquest to shed more light on the company’s offerings"
     publishedDateTime: 2023-06-05T04:43:00Z
@@ -66,19 +50,21 @@ related:
       name: Dataquest
       domain: dqindia.com
     quality: 56
-  - title: "Jacobs and Palantir Expand Partnership to ‘Revolutionize’ AI Solutions Across Industries"
-    excerpt: "The partnership aims to harness Palantir's cutting-edge AI capabilities and revolutionize the commercialization of AI solutions across a range of sectors—including critical infrastructure, advanced facilities,"
-    publishedDateTime: 2023-06-01T22:23:00Z
-    webUrl: "https://dallasinnovates.com/jacobs-and-palantir-expand-partnership-to-revolutionize-ai-solutions-across-industries/"
+  - title: "AI-Powered LetzChat and Managed Health Partner to Revolutionize Language Solutions in Employee Benefits"
+    excerpt: "Are you ready to take your business to new heights and break down language barriers like never before? Enter LetzChat, the revolutionary AI-powered language translation tool that operates live and in"
+    publishedDateTime: 2023-06-05T17:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/06/r32720552/ai-powered-letzchat-and-managed-health-partner-to-revolutionize-language-solutions-in-employee-ben"
+    ampWebUrl: "https://www.benzinga.com/amp/content/32720552"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32720552"
     type: article
     provider:
-      name: Dallas Innovates
-      domain: dallasinnovates.com
-    quality: 30
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
     images:
-      - url: "https://s24806.pcdn.co/wp-content/uploads/2023/06/Jacobs_Palantir2-iStock-970.jpg"
-        width: 970
-        height: 464
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "+Clkn4D/0Wr2gEt/DeXu992f2VaFlDolEr3t13lbRdmRpYacOsbVbdlpYUeouyVdf7xFYNpJb5C9YJS6oWRB6kH5oW+zmdt6hFl/BWWolIm4/AVaT14zYmwgKZNhUVxZ+ot3fFRzXFDKOMncBPbVaP94t6/nGIXASeIabiHH3/bw7XgNoLOP0lIFGdscSVXmeRtr3IjxY9/+QtOkQ645kwJhz04sLFjs9p0KdCS5fuxV3nDYNEEAzgJ/GRlFleCsfub0PELIKHNp9iT0janwwf0v2e458SfFvmN6SE+Flb3Jx2U2eINNWFu5pvZtAS6Bv1uPJrQ99GpA8pKgWCBTZv7KvfI77tzO8/zq4FtoMSI=;86oo3NPxI7AbCZmumUhFug=="

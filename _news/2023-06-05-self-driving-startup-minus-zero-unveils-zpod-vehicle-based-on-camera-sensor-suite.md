@@ -1,0 +1,77 @@
+---
+category: news
+title: "Self-driving Startup Minus Zero Unveils ZPod Vehicle Based On Camera-sensor Suite"
+excerpt: "Autonomous vehicle zPod unveiled by MinusZero can drive itself in all environmental and geographical constraints using camera sensors."
+publishedDateTime: 2023-06-05T16:25:00Z
+originalUrl: "https://www.republicworld.com/business-news/india-business/self-driving-startup-minus-zero-unveils-zpod-vehicle-based-on-camera-sensor-suite-articleshow.html"
+webUrl: "https://www.republicworld.com/business-news/india-business/self-driving-startup-minus-zero-unveils-zpod-vehicle-based-on-camera-sensor-suite-articleshow.html"
+ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/self-driving-startup-minus-zero-unveils-zpod-vehicle-based-on-camera-sensor-suite-articleshow.html"
+cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/self-driving-startup-minus-zero-unveils-zpod-vehicle-based-on-camera-sensor-suite-articleshow.html"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: RepublicWorld
+  domain: republicworld.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/mhzulyros2ktmjaj_1685942650.jpeg"
+    width: 768
+    height: 438
+    isCached: true
+
+related:
+  - title: "India's first self-driving car unveiled, startup plans to emulate Tesla, Google"
+    excerpt: "The Bengaluru-based AI startup, called Minus Zero, unveiled the zPod self-driving car that claims to drive itself in all environmental and geographical constraints."
+    publishedDateTime: 2023-06-05T04:35:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/indias-first-self-driving-car-unveiled-by-bengaluru-based-startup-with-plans-to-emulate-tesla-google-41685937249629.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/indias-first-self-driving-car-unveiled-by-bengaluru-based-startup-with-plans-to-emulate-tesla-google/amp-41685937249629.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/indias-first-self-driving-car-unveiled-by-bengaluru-based-startup-with-plans-to-emulate-tesla-google/amp-41685937249629.html"
+    type: article
+    provider:
+      name: Auto News India
+      domain: hindustantimes.com
+    quality: 55
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2023/06/05/1600x900/Minus_Zero_1685937382520_1685937382698.png"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "How self driving cars are getting ready for Indian roads"
+    excerpt: "Work on autonomous cars is on full throttle in India, but self-driving cars are still some time away"
+    publishedDateTime: 2023-06-04T08:26:00Z
+    webUrl: "https://www.headlinestoday.in/news/how-self-driving-cars-are-getting-ready-for-indian-roads-556665477.html"
+    type: article
+    provider:
+      name: headlinestoday
+      domain: headlinestoday.in
+    quality: 39
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/sites/headlinestoday/resources/images/headlinestoday_fb.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "India's first completely autonomous vehicle is unveiled by AI startup Minus Zero"
+    excerpt: "India's first completely autonomous vehicle is unveiled by AI startup Minus Zero - Minus Zero, an artificial intelligence (AI) startup, unveiled what it claimed is India’s first"
+    publishedDateTime: 2023-06-05T03:01:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/indias-first-completely-autonomous-vehicle-is-unveiled-by-ai-startup-minus-zero-nid-223376-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 32
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/UqCPZEah.jpg"
+        width: 570
+        height: 367
+        isCached: true
+
+secured: "RpJUphb2Kaq/H+ah6JR4nqTw0HODnqSacHjhTWzPNm3a4odrPpQN7s703qluydFoWw1FHh+DlU0qYCRLZe6MNleJOd/rRG6GpTgcYjRIhD+0Rks8kwa0z4Jm5ybnBwNZ6YqYqyU8QfoZZlk0S/DGyirQwlCudVaQXWSHcwf6xiOFu/WmeMU6X959LwHVaPN6w3Ugj2OCFjl0ryVdT57mCfQYihiFtZAoP2Y9iQihkMmoshNaBtn13k3Ym4Y3X5ZmjYF+nemZKwj9sa/fmtbBPyHLXpCDzNNAu3IlTcsKw5/fQyP1pMQRGzb8afdFmHRBbOC0G3QEceIcLxH388Y3TDA1brd6LyqrZdRmw67BXTc=;3th4dHr+u1XDwDzayp1gNw=="
+---
+

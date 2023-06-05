@@ -39,6 +39,22 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
+    publishedDateTime: 2023-06-01T13:10:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 68
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Nowhere for Investors to Hide From AI Hype"
     excerpt: "Investors thinking of putting money into artificial intelligence need to apply a little real intelligence first."
     publishedDateTime: 2023-06-02T11:00:00Z
@@ -136,6 +152,20 @@ related:
       name: 92.7 WMAY
       domain: wmay.com
     quality: 46
+  - title: "AI chips are hot: What they are, what they’re for and why investors see gold AI晶片在紅什麼？為何它是投資人眼中的金礦？"
+    excerpt: "Such chips have suddenly taken center stage in what some experts consider an AI revolution that could reshape the technology sector — and possibly the world along with it. Shares of Nvidia, the leading designer of AI chips,"
+    publishedDateTime: 2023-06-05T16:01:00Z
+    webUrl: "https://www.taipeitimes.com/News/lang/archives/2023/06/06/2003801017"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 40
+    images:
+      - url: "https://www.taipeitimes.com/images/2023/06/06/P14-230606-334.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Big Tech has convinced investors that AI is the new goldrush"
     excerpt: "Investors rushing to put cash into AI based companies In what could be a huge bubble, investors are rushing to put their savings into companies centred around AI technology.  Time Magazine has reported that such chips have suddenly taken center stage in what some experts consider an AI"
     publishedDateTime: 2023-06-01T09:33:00Z
@@ -160,20 +190,6 @@ related:
       domain: firstpost.com
     quality: 34
   - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
-    publishedDateTime: 2023-06-01T09:31:00Z
-    webUrl: "https://www.local10.com/business/2023/06/01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
-    type: article
-    provider:
-      name: WPLG
-      domain: local10.com
-    quality: 33
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SIQQ7UVKUNDXRHQQE2TFZQO3RU.jpg?_a=ATCqVhC0"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
     excerpt: "AI chips and their leading designer, Nvidia, are now at the center of what some experts consider an AI revolution that could reshape the technology sector and possibly the world along with it."
     publishedDateTime: 2023-06-01T18:30:00Z
     webUrl: "https://omaha.com/business/technology/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_b29fedbe-109c-55f5-96f5-b3b3303c2067.html"
@@ -183,6 +199,6 @@ related:
       domain: omaha.com
     quality: 28
 
-secured: "HVOvQOJHUHELu2ejr3J5GdSSWlVnMDvhHjrEdwplRxc8v2bInBSEn4p3HJGqTKuefQZGMGhzvpq02h7O/zKl0U+75xCmZdswvcEQxziH08h70Y65RbubDuTrZg5mdwtCkk1xkWA1ExwiLnmPuM+pK7PGEZHXaj2R9udtN6x1FucLJNUo4YSf/X/tVfMOK8qWwfSfw8GR7qh4iFp0xPPnsxgzovUYHCgHM3n6ySbc6I1+Ojl9A+a/+n4JfsncG00ogWbipT3V3Ycn4CwGlSXnVZ7ASgyabQQSWceheuh59CDe6uzDTL6a/gHda7+WMiZOdCdFKcoXDTpdBPBLnqQbUVL0bG4L3AyhP06zhv2cc3k=;3Wbv5yIblPBs4cBR/j9Sgg=="
+secured: "FHZXCUpGJ7LEhpgBgu45Ssu5L1pygXSJ9kLAowyT1OA7IglNEtRS92O/CuP3qLFQhx9Fz0GsRjLwy/9eDtZ8JtyWYFBrxtjqwbl83M2B8wFAkF89arhbetFfFdQg3HpR7mGACiw87epiInuHLkuwD168CjOQiJicNTRSb2X8KAKZfX7nijJkgMmoAcnrodiDqfox0nUEHUQG8uIiNBUhLEcXLObtX3EY/vNtgOKXQK8YnPZ8vUh1ajbqp/kKj/wmKCtjqItapspzW7DJkUGdLnvoxR6OXQm9wCTXmOs3Vph/Y9ynZ/zbejw7DMzFxOuUMv4alah3ZJElICkCW+NmPi8mmVu7uAqUuj+s2fl9NHQyRbjEAnsnHewkbQT4MtU3Lk/IB/NOunuQ5XCsKpbfTrIRQF3ScNpTEgkelSMlRIKk9a+MwcoiMENOQtaywJ3PRHmF1Du3afYXeTnShYFdWZ63SDs081b3psLAt3u/eHNnDOJZQDkYFbBXWQENOkdyiWGhj+oGqxjf//q6Zukd2A==;qkMD75FOcfE2g6LdBm8jcg=="
 ---
 

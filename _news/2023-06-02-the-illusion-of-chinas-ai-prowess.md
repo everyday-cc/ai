@@ -160,6 +160,20 @@ related:
       name: BusinessWorld
       domain: bworldonline.com
     quality: 39
+  - title: "Advancing Intelligence at the Edge with AI Vision Processors"
+    excerpt: "Sponsored by Texas Instruments. A neural network has an extensive set of parameters that are trained using a set of input images—the network \"learns\" the rules used to perform tasks like object detection or facial recognition on future images."
+    publishedDateTime: 2023-06-05T16:21:00Z
+    webUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepaper/21266232/texas-instruments-advancing-intelligence-at-the-edge-with-ai-vision-processors"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 39
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/05/PROMO__2_.64665a6736110.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "We have bigger worries than AI"
     excerpt: "Now, all of a sudden, we’re told that artificial intelligence is a growing menace that should be considered as potentially dangerous as nuclear weapons, climate change, gun deaths or even the mind of Marjorie Taylor Greene."
     publishedDateTime: 2023-06-02T09:38:00Z
@@ -168,6 +182,15 @@ related:
     provider:
       name: Las Vegas Sun
       domain: lasvegassun.com
+    quality: 19
+  - title: "Keeping an eye on AI"
+    excerpt: "Sunak is expected to discuss the idea of a “Cern for AI” — a research base modelled on the particle physics laboratory in Switzerland — with a global regulatory body that could look something like the International Atomic Energy Agency."
+    publishedDateTime: 2023-06-05T17:15:00Z
+    webUrl: "https://www.ft.com/content/e2980b91-7e8f-4648-96b9-4da6e394942a"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 19
 
 secured: "WrdW3ldK4oSV1A3YQlYaehqS4qj6aquc5TpSxPAsp8ormAlgbZwfeQpMhiBlDd8l/Nq6rn5B5Ls7xRuq3nRDyLtckCitDPTAX7iLgmuYDSxrOC+1t3hPSBWDVGa5bsnwFyHcpZMQUoNAo3dDofGsRnxA42mB/d/ogbFkAJuqK66iopeiCRvZUZ54KeLiCg67QYvvxeOwKlgQD9HAXbSR+U/cS+aAorqpOyAiIoMNm46Gm6psDyxBS/VhhV1KtxB91cD7xtICiB67wU2SP4a0G/rcC1DPcdxgpyYwWnfKru0Sx1RG1lH344w3I1zFs2A5ZWZpBBbR8Ott0Hjv7nrKN2iYnEo77Cawqz0R9XRBpNTt1P+6X2swbwdPbjnRNpVJpo5/urtOsEc7KtJACDMlqx/5zHEJxKp8+Se1EboBsczASr5rahGmHzUwOqr4PYSTkUQIePJz80P97/38I2gotixxeF2JRZ5JUXr+o7MHkC7mq54rcNMr4dMvqWMWdpFi/TneeYbq2ygIy7XAio9NvQ==;Vla0ouhDY2DSLUcO4y+OvA=="

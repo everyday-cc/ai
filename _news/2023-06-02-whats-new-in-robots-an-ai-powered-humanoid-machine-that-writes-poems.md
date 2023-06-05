@@ -9,7 +9,7 @@ ampWebUrl: "https://abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-
 cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -57,18 +57,7 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "How Generative AI-Powered Robots Are Shaking Things Up"
-    excerpt: "Robots are making their way into nearly every sector of the ... Reports suggest that Musk is busy creating his own generative AI startup that would go head-to-head with OpenAI. Image by Twitter While generative AI has already taken the world by storm ..."
-    publishedDateTime: 2023-06-05T15:08:00Z
-    webUrl: "https://www.fxempire.com/forecasts/article/how-generative-ai-powered-robots-are-shaking-things-up-1351853"
-    ampWebUrl: "https://amp.fxempire.com/en/how-generative-ai-powered-robots-are-shaking-things-up/1351853"
-    cdnAmpWebUrl: "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/how-generative-ai-powered-robots-are-shaking-things-up/1351853"
-    type: article
-    provider:
-      name: FXEmpire.com
-      domain: fxempire.com
-    quality: 54
 
-secured: "CI+K8u+HF4gRabhj+GkimIyABrfm0hlJ0wra/qg9zivQfX9a45UnGxe6QABGlMmN8FcaoWbVotSQAW2cqX1eNRpOBm6MZDjOX2rRMUXYV/Z/FYyY/wtiaYKEzkA29ptm+2ihstrbIgJ4O5gNfmyqM3+QDw3X5clUHWq6SqvDZ6EVcrlhSxVX5BJ6RzWiOA8p03w94p5WTYLb7TM3Nu6UK9m9EzUy6Kvq1tB/RJo8gzdOO9ZBCddKk+LVMgER6gRTYMSc2QdX7ApEOKsf16iLIY3TxItH9/Uax0bveR2lMi6+3lst2xd6/CwMne3jipUTdDYadhGSXQ/M+pRf4oPY101JHzymizDMv7Yahg8NyZ8=;lOu96jAlVecpUodvoOPS0A=="
+secured: "cw+Z0fvDxv3iKOh7R68A88RRU2xP9zn8fdWMGa/3jEGEr6297FVLn2aXz8sJgOhm0yEmS/YivGVkl3EhVoj1Ib2vBN10fqOeUkyk4cPbagO7bb+cqFaVlzS5DsAK6ZhKIVxUGPp1uLNWMenwch+5gdfCorh/PAADFQDzzSH7A1wuVEudjQEfK+Eq/iKXYqKhCk9Huv7borAf5wnJq57Gvyc/262WF5d7xfxUgodKd4Zp0Uh8enGLwT/MGYPotlP4hu2HdFiStHAHMP5YarVS6G4Ggd9qgBYjpESpR+wKqhBfcN3FS9JmRpmQFWQckSUL/D4gp0oEWXhSZz6cns1FyQB6RGtUdYy3n6xcPixDgBc=;AKaGJKJHrZVieY0MuPB4ag=="
 ---
 

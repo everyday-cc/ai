@@ -150,6 +150,20 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Advancing Intelligence at the Edge with AI Vision Processors"
+    excerpt: "Sponsored by Texas Instruments. A neural network has an extensive set of parameters that are trained using a set of input images—the network \"learns\" the rules used to perform tasks like object detection or facial recognition on future images."
+    publishedDateTime: 2023-06-05T16:21:00Z
+    webUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepaper/21266232/texas-instruments-advancing-intelligence-at-the-edge-with-ai-vision-processors"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 39
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/05/PROMO__2_.64665a6736110.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Illusion of China’s AI Prowess"
     excerpt: "JENNY XIAO is a venture capitalist investing in AI startups and a Ph.D. candidate at Columbia University. In the abstract, these concerns make sense. It would not serve U.S. interests if a regulatory crackdown crippled the domestic AI industry while Chinese AI companies,"
     publishedDateTime: 2023-06-02T13:36:00Z
@@ -167,6 +181,15 @@ related:
     provider:
       name: Las Vegas Sun
       domain: lasvegassun.com
+    quality: 19
+  - title: "Keeping an eye on AI"
+    excerpt: "Sunak is expected to discuss the idea of a “Cern for AI” — a research base modelled on the particle physics laboratory in Switzerland — with a global regulatory body that could look something like the International Atomic Energy Agency."
+    publishedDateTime: 2023-06-05T17:15:00Z
+    webUrl: "https://www.ft.com/content/e2980b91-7e8f-4648-96b9-4da6e394942a"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 19
 
 secured: "JYSOriN8lD6p66+MVdE4oz/PlA/Bf/WiI2zBlo1NIboe+C8odjIIX6+uS0lkcGnUGwt+nG4emf1l8D6o5tMolvsfAldl/SRwMBW1BX9Gj8KIKKKpfNSu4mmOYoT654vBlI9bDnj/UKTawA/RdCwEqi281dop0fJrf06gT8bqjgG3HVuL2Lekfdqoiwnpgb/9f/uFwp/hgg0SIQ4ruxlhgPTqo8VZG6DeHKl+0LC63EX5aeeXiIhJe+OjoZiwufGJJJ+jTsoNb5Ra/Wm4iOmmMy308XOe9VFXZ0UypRKLv0jKF7hQCZ0hTFhQ90zWbIoAKYoGoIveLmaQCpSwfbpO0LT7BLNeD/09Re/ONIGG8O7cYzEbnewCA3gJ9fXpRNyvbfcM6b4JGZuNP1pP52E3URvxEopaFipVPUv9ibYRMRyd5/a11+Y8xZoWXK/xK/lAF7f1urhhq1lFYuzPiZXkvFvNLGsc8v+l/7HyO4NnMYGmyLUPbOvNo+TCTh2qFcfDxYmKN2LgHMdqmEPpBLR/8g==;/q/aGspTf6RCn+qrhhFpyg=="

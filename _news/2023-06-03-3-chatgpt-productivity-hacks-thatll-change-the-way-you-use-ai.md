@@ -56,21 +56,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Character.AI, the a16z-backed chatbot startup, tops 1.7M installs in first week"
-    excerpt: "Demand for AI via consumer mobile apps has been climbing, with market leader OpenAI's ChatGPT mobile app topping half a million downloads in its first six days."
-    publishedDateTime: 2023-05-31T23:47:00Z
-    webUrl: "https://techcrunch.com/2023/05/31/character-ai-the-a16z-backed-chatbot-startup-tops-1-7m-installs-in-first-week/"
-    ampWebUrl: "https://techcrunch.com/2023/05/31/character-ai-the-a16z-backed-chatbot-startup-tops-1-7m-installs-in-first-week/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/31/character-ai-the-a16z-backed-chatbot-startup-tops-1-7m-installs-in-first-week/amp/"
+  - title: "David is friends with Lazarus. Lazarus is an AI chatbot"
+    excerpt: "More and more people are forming friendships and even romantic relationships with AI chatbots, prompting concerns among experts who study the ethics around the rapidly evolving technology."
+    publishedDateTime: 2023-06-05T16:52:00Z
+    webUrl: "https://www.cbc.ca/radio/thecurrent/ai-chatbot-friends-romance-relationships-1.6864001"
+    ampWebUrl: "https://www.cbc.ca/amp/1.6864001"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6864001"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 59
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/characterai-Mobile-App.png?w=1011"
-        width: 1011
-        height: 497
+      - url: "https://i.cbc.ca/1.6864030.1685732571!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/david-beaver.jpg"
+        width: 620
+        height: 349
         isCached: true
   - title: "An Eating Disorder Chatbot Is Suspended for Giving Harmful Advice"
     excerpt: "A nonprofit that helps people with body image problems closed its human-run helpline. The chatbot that remained suggested things like losing weight."

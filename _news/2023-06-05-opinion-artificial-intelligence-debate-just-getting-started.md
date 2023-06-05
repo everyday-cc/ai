@@ -2,17 +2,17 @@
 category: news
 title: "Opinion: Artificial intelligence debate just getting started"
 excerpt: "Fueled by rapid advances in artificial intelligence, tools enabling the exact digital replication of voices of celebrities and prominent figures are fairly commonplace online. Known as “deepfakes,” these creations can be practically indistinguishable from an actual person speaking."
-publishedDateTime: 2023-06-05T07:06:00Z
-originalUrl: "https://www.ctpost.com/opinion/article/a-ct-resident-says-regulators-need-step-early-18130223.php"
-webUrl: "https://www.ctpost.com/opinion/article/a-ct-resident-says-regulators-need-step-early-18130223.php"
+publishedDateTime: 2023-06-05T11:06:00Z
+originalUrl: "https://www.timesunion.com/opinion/article/a-ct-resident-says-regulators-need-step-early-18130223.php"
+webUrl: "https://www.timesunion.com/opinion/article/a-ct-resident-says-regulators-need-step-early-18130223.php"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Connecticut Post
-  domain: ctpost.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI
@@ -63,22 +63,6 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/ai1-1.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "The Coming AI Revolution In Home Care"
-    excerpt: "I believe that future industry leaders in home care can lead the field by leveraging these AI technologies and tools to enhance the home care experience."
-    publishedDateTime: 2023-06-02T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/02/the-coming-ai-revolution-in-home-care/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/02/the-coming-ai-revolution-in-home-care/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/02/the-coming-ai-revolution-in-home-care/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6478b2a540837295a30e1090/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "How Computer Vision Is Driving Innovation Across Industries"
     excerpt: "The fusion of AI and computer vision is reshaping countless sectors, ranging from healthcare and manufacturing to retail and transportation."
@@ -244,6 +228,6 @@ related:
         height: 480
         isCached: true
 
-secured: "R60LA9MjDEAgjTxZRWKnNkBymDLW+ejM/QLzt7vBcZEtm43LOVU2sjIMrRgQij5SeuEXQoNrUWi2gHAEFQo1DahK4eSUgHvFRMIpkxcDpdD+mRHuaO6xWOzO0kz6BLSoff57xKJd604A+cHEERzvbmmV2/ya0eAAdpiOtLgZOxb1DXH/m0iHYwbGqFeXfoZYALUJvbRBXz57PAyOTRZ7W/b63oI0eu6qS7+PVs1aUiE6nipoI1ytJwmDCFZNBW4KcjGUinJ43SmwWIP9s0fgrmrTnjISeFgCQJI1XwY8QC+rl1BsNm6QxhD2ukp0JNX5l10yPP3KKuZUxskYlzPlwG4MbvfWu4JSKknr1ZhMYiF4woABtLRUpp5kqFqB3MDXKdhYGQk+6fyIZWLRAvfJ4Sjsy4YLkT0z1/F4sIY9UF3A22K724Q4UBfcd+Y6XKgEyPpXL7OXMNGLR60d4F87drb6ttsiTIrB1Pmh7a5tz9o+pDKSetK4MZDtRzEjd1Wn/HfbAfw7qtBzcSxREG12OQ==;ce5BwC+a9hLfgwVJHCb9jQ=="
+secured: "S9XIojcUGcVsp9ACdj2EM2Yv60LykOKz0VTcU8VKfpoMy25uA0l/UJF+HGA1GNxhKffjbyySFYkQ84TBw+iTEVLdHuBE0MetrguQB+IsGnwNMneej2PNDlQARFPEKhFmKErQ4pQldTpD81KgkKwmijBZdSVRlHngYxNCrma3mwak6M6etkAVU2RZCb4Wqot/cxKHiy4VjgJ9P4FnC4wZ8hmbtdHbPANYIcLFvxq6J/17hz3FIW4XUuo3evr15aowjKWMnXNiYuXMK3hyzYCZ3TNFG3CKDabBnXSnp8WfTPxJ/JeVbQpxTNRwlAnV2H0vnFrd4PyE591KzOZxSwU7+KqkigoAex6cbnHA6nwv7k4=;a/B2VFnkQS0gE3EukadsZw=="
 ---
 

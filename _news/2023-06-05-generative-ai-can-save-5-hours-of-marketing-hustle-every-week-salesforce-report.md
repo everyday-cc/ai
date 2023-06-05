@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/generative-ai-can-save-5-hours-of-marke
 webUrl: "https://venturebeat.com/ai/generative-ai-can-save-5-hours-of-marketing-hustle-every-week-salesforce-report/"
 type: article
 quality: 79
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -28,6 +28,74 @@ images:
     height: 600
     isCached: true
 
-secured: "SH7unfH0rODxueEryjhuK376CzbY0kZTz7g2euq2R9Y0n5Hewvx5n1DKWtga3yzCHGMgPbfoOJrIzMPM3xynV1DgSHdwzkif0+p5PB3KRDLLgcOTRHmy/kZ+0gjsYZEE0povHLHCdxEVqF8jQ4+Vj6206YhMSYllqt8wbygLe3/a9uLQRBJCItwN5QufGChokuspqSM7PvviyEvXy2HCf8ILG+b1oICConp4m+TOcXChwIVkjry0iH1QRpI5fdOVLRi1p/bl/GbzzTQx5be8/cOTYtbC7Ba5typpp4//YgW9blDct8yeg24hN66QOLoiQgHi8n0WpsovLH51kDCuqmOh3N7ofXbalOEWu9lpqjo=;YZQ1jrHmRZ1eBy9ewcuoOQ=="
+related:
+  - title: "Generative AI can save marketing pros 5 hours per week, according to research"
+    excerpt: "Generative AI adoption in marketing reveals promising productivity gains with marketers estimating generative AI can save them the equivalent of over a month per year, making room for more meaningful work."
+    publishedDateTime: 2023-06-05T16:59:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-adoption-in-marketing-reveals-productivity-gains/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-adoption-in-marketing-reveals-productivity-gains/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-adoption-in-marketing-reveals-productivity-gains/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/16496ceb203eeb2527b2456b29f8cf1bfc83b0bb/2023/06/05/4cb060d3-f8af-4921-b60d-7f413238c35d/gettyimages-1466924677.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Funding for cloud-based generative AI"
+    excerpt: "Get ready for the rush of generative AI applications heading your way in 2024, but watch out for the size of the bill. Who is going to pay for it?"
+    publishedDateTime: 2023-06-02T09:04:00Z
+    webUrl: "https://www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/01/red-wheel-barrow_pile-of-money_high-paying-salary-100745643-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How Generative AI-Powered Robots Are Shaking Things Up"
+    excerpt: "Robots are making their way into nearly every sector of the ... Reports suggest that Musk is busy creating his own generative AI startup that would go head-to-head with OpenAI. Image by Twitter While generative AI has already taken the world by storm ..."
+    publishedDateTime: 2023-06-05T15:08:00Z
+    webUrl: "https://www.fxempire.com/forecasts/article/how-generative-ai-powered-robots-are-shaking-things-up-1351853"
+    ampWebUrl: "https://amp.fxempire.com/en/how-generative-ai-powered-robots-are-shaking-things-up/1351853"
+    cdnAmpWebUrl: "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/how-generative-ai-powered-robots-are-shaking-things-up/1351853"
+    type: article
+    provider:
+      name: FXEmpire.com
+      domain: fxempire.com
+    quality: 54
+  - title: "Generative AI, digital skills, ageism: 5 interesting stats to start your week"
+    excerpt: "Generative AI is marketers’ top consumer trend. Some 59% of marketers have singled out generative AI as the most important consumer trend to watch, according to Mediaocean’s m"
+    publishedDateTime: 2023-06-05T14:18:00Z
+    webUrl: "https://www.marketingweek.com/generative-ai-digital-skills-ageism-5-interesting-stats-to-start-your-week/"
+    type: article
+    provider:
+      name: Marketing Week
+      domain: marketingweek.com
+    quality: 34
+    images:
+      - url: "https://marketingweek.imgix.net/content/uploads/2023/02/03170259/Numbers.jpg"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "AntChain Launches New Privacy-Preserving Computing Platform, Providing Data Privacy Protection Solution for AI Machine Learning"
+    excerpt: "AntChain announced a new collaboration with Intel to launch AntChain Massive Data Privacy-Preserving Computing Platform (MAPPIC), a new privacy-preserving computing (PPC) platform that brings a data privacy protection solution for large-scale AI machine learning."
+    publishedDateTime: 2023-06-05T11:39:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/05/9825978.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
+
+secured: "d/AmzPO1b0jwT0mP2V0qTkboWd/BwSog5qGMeG7q5yR7OQEYmMpHwAO59bPY/WFIKQQ2otVN1DMthpeXjxaZOSKHFcWXz9nefpIJqSgEfXjF5j4zuGXvRMcY4gNCKWthW+kWj4gpZCkPPkB2WREyoAoM/SBEbStAHcA0Uk/IWxjHnTzpPXQF/x3vidR900r9iotn8jR6lrUzBvlGEyG2RcZCxjIWNYtFw0ZWAZzugqcqMs4LFteLwJ2aKTttJ4NzPiH5LRe8Tldmnv/HkEEabD/Zs5FOf3fwwim+ybzPzUf0ggn708ebbg1p4nQYC2CLjYajVgzY+Haff7Xuwo0BjQPduGkRTc7+Iss2ti4LSlaR2MzANdAGR9kBsawQ5sTVisAVkn3l22pdp0/tdx+jPtGcSbhFUbCailNzK2rK/2WcFOoXhfSWXF18WHGv4PRUUwdIs9alZV9EB9D1efYBW6Hce77FQhH3eZrDEkpGNHEUiOFmo1w+udyELwH86up98EB0i2MOm9XInHvjXA/9rA==;JMjEygMEt1uqJb89/RgnhQ=="
 ---
 

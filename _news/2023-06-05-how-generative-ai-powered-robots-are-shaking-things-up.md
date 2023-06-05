@@ -21,52 +21,75 @@ topics:
   - AI
 
 related:
-  - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
-    excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
-    publishedDateTime: 2023-06-02T12:59:00Z
-    webUrl: "https://abc13.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-    ampWebUrl: "https://abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+  - title: "Generative AI can save marketing pros 5 hours per week, according to research"
+    excerpt: "Generative AI adoption in marketing reveals promising productivity gains with marketers estimating generative AI can save them the equivalent of over a month per year, making room for more meaningful work."
+    publishedDateTime: 2023-06-05T16:59:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-adoption-in-marketing-reveals-productivity-gains/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-adoption-in-marketing-reveals-productivity-gains/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-adoption-in-marketing-reveals-productivity-gains/"
     type: article
     provider:
-      name: abc13
-      domain: abc13.com
-    quality: 74
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.zdnet.com/a/img/resize/16496ceb203eeb2527b2456b29f8cf1bfc83b0bb/2023/06/05/4cb060d3-f8af-4921-b60d-7f413238c35d/gettyimages-1466924677.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "What's new in robots? An AI-powered humanoid machine that writes poems"
-    excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
-    publishedDateTime: 2023-06-02T17:59:00Z
-    webUrl: "https://abc7chicago.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-    ampWebUrl: "https://abc7chicago.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/"
+  - title: "Funding for cloud-based generative AI"
+    excerpt: "Get ready for the rush of generative AI applications heading your way in 2024, but watch out for the size of the bill. Who is going to pay for it?"
+    publishedDateTime: 2023-06-02T09:04:00Z
+    webUrl: "https://www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.amp.html"
     type: article
     provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 74
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg"
-        width: 1280
-        height: 720
+      - url: "https://images.idgesg.net/images/article/2018/01/red-wheel-barrow_pile-of-money_high-paying-salary-100745643-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "What’s new in robots? An AI-powered humanoid machine that writes poems"
-    excerpt: "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face."
-    publishedDateTime: 2023-06-01T08:45:00Z
-    webUrl: "https://www.nwaonline.com/news/2023/jun/01/whats-new-in-robots-an-ai-powered-humanoid/"
+  - title: "Generative AI can save 5 hours of marketing hustle every week: Salesforce report"
+    excerpt: "A survey from Salesforce and YouGov has revealed that generative AI can save marketers' five hours every week, or more than a month in a year."
+    publishedDateTime: 2023-06-05T15:19:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-can-save-5-hours-of-marketing-hustle-every-week-salesforce-report/"
     type: article
     provider:
-      name: Northwest Arkansas Democrat Gazette
-      domain: nwaonline.com
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
     images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/204479203_204479203-4497212ae77643a5a468fcbbb895bc0c_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 399
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1180183363-e1636482579984.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
+  - title: "Generative AI, digital skills, ageism: 5 interesting stats to start your week"
+    excerpt: "Generative AI is marketers’ top consumer trend. Some 59% of marketers have singled out generative AI as the most important consumer trend to watch, according to Mediaocean’s m"
+    publishedDateTime: 2023-06-05T14:18:00Z
+    webUrl: "https://www.marketingweek.com/generative-ai-digital-skills-ageism-5-interesting-stats-to-start-your-week/"
+    type: article
+    provider:
+      name: Marketing Week
+      domain: marketingweek.com
+    quality: 34
+    images:
+      - url: "https://marketingweek.imgix.net/content/uploads/2023/02/03170259/Numbers.jpg"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "AntChain Launches New Privacy-Preserving Computing Platform, Providing Data Privacy Protection Solution for AI Machine Learning"
+    excerpt: "AntChain announced a new collaboration with Intel to launch AntChain Massive Data Privacy-Preserving Computing Platform (MAPPIC), a new privacy-preserving computing (PPC) platform that brings a data privacy protection solution for large-scale AI machine learning."
+    publishedDateTime: 2023-06-05T11:39:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/05/9825978.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "ijp8oVPSp0m6QPbGG98TlCrFEfxwozEBte8Qzttia85MvXZTAXweEXX/R6C+9SIXWyyXLg1YU+f9kN3GHKaTdj+NSbG9SVtpQPM5PHV+rU20HSNW4Bfqvfi95zndA7FELnGoRxYUIkOjLYyCKUtBLEahDx3zFozyT+wntwgiB5fnvnG92i58GVL6VzEZQXOG4Cg3B7C2JlVjvIcy5v/InKHzKEHxjZ3c5W6OOd2Rfngc0TT+Jr9A9kRCeb/VVnN2nc8CanpiITnLwg5yOCi5bRUUv81EZOylKID+6kmYk5WHgSQdrztuZ4BSWzgzh+2RR4nxiGeuhUry0Hg7e2KR1Uen8XilQB5FXm1fogVzjYs=;2AX+kHu2bsJuh9Pkt8m2NA=="
 ---

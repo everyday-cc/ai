@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/accelerating-ai-innovation-the-future-of-
 webUrl: "https://www.ibm.com/blog/accelerating-ai-innovation-the-future-of-banking-depends-on-core-modernization/"
 type: article
 quality: 114
-heat: 264
+heat: 254
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/05/ai1-1.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "The Coming AI Revolution In Home Care"
-    excerpt: "I believe that future industry leaders in home care can lead the field by leveraging these AI technologies and tools to enhance the home care experience."
-    publishedDateTime: 2023-06-02T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/02/the-coming-ai-revolution-in-home-care/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/02/the-coming-ai-revolution-in-home-care/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/02/the-coming-ai-revolution-in-home-care/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6478b2a540837295a30e1090/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "How Computer Vision Is Driving Innovation Across Industries"
     excerpt: "The fusion of AI and computer vision is reshaping countless sectors, ranging from healthcare and manufacturing to retail and transportation."
@@ -242,12 +226,12 @@ related:
         isCached: true
   - title: "Opinion: Artificial intelligence debate just getting started"
     excerpt: "Fueled by rapid advances in artificial intelligence, tools enabling the exact digital replication of voices of celebrities and prominent figures are fairly commonplace online. Known as “deepfakes,” these creations can be practically indistinguishable from an actual person speaking."
-    publishedDateTime: 2023-06-05T07:06:00Z
-    webUrl: "https://www.ctpost.com/opinion/article/a-ct-resident-says-regulators-need-step-early-18130223.php"
+    publishedDateTime: 2023-06-05T11:06:00Z
+    webUrl: "https://www.timesunion.com/opinion/article/a-ct-resident-says-regulators-need-step-early-18130223.php"
     type: article
     provider:
-      name: Connecticut Post
-      domain: ctpost.com
+      name: Times Union
+      domain: timesunion.com
     quality: 17
 
 secured: "LAWrHK4IMve0/ezrChIUh3HMTGBk3QGJd37XGUKaF4l0gYxHagCDklVeoE/Ytv4LSXgcnsnSWanL+i8DejrYqQ4vgty8sJhyjewyFkl9fSeEc64zknXRfXjNEYqASWuye68qKRbcauyIT724hiiKFlkxiXwSD/zasrc/lTxjOhTIWxQeQir09IBOGLOOPPkX8HGF/NXL+xn9pZU5pfuNAJOvyXgrzKLJjAhdpKoof7NjFL+hyxOrckg/uLByoSxd6zLrQVVxEPpNj9Vw5lbysQbf6JQq1bn1QZdbrmqaC9BW+0UAi8W02cLErFTGH2e4u8QWFEX/yR6RGtori9d2oipA2XyYqxc2wIELSdRLUSg=;SuYle5+2ehd5HfI8FuaWrA=="

@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
+    excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
+    publishedDateTime: 2023-06-05T17:30:00Z
+    webUrl: "https://www.businessinsider.com/chaptgt-and-generative-ai-financial-services-reality-hype-whats-next-2023-june"
+    ampWebUrl: "https://www.businessinsider.com/chaptgt-and-generative-ai-financial-services-reality-hype-whats-next-2023-june?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chaptgt-and-generative-ai-financial-services-reality-hype-whats-next-2023-june?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
+    images:
+      - url: "https://i.insider.com/64403454632fda001803b2e0?width=1200&format=jpeg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Guidelines for the Ethical Use of Generative AI (i.e. ChatGPT) on Campus"
     excerpt: "without dishonestly using the AI systems to cheat? The Campus Ethics team, a group of Hackworth Fellows from the Markkula Center for Applied Ethics, study this dilemma, providing a guide for students to help them use ChatGPT ethically. This guide outlines ..."
     publishedDateTime: 2023-06-01T12:39:00Z

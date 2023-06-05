@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-04-25-maxon-partners-with-massrobotics-to-support-the-advancements-of-drive-technology-in-robotics.md",
+      "title": "maxon Partners with MassRobotics to Support the Advancements of Drive Technology in Robotics",
+      "excerpt": "MassRobotics and maxon announce a partnership to support the robotics innovation ecosystem through collaboration and exploration of motion control technologies around automation and manufacturing-related applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/april-2023/maxon-massrobotics-drive-technology-robotics",
+      "originalUrl": "https://www.automation.com/en-us/articles/april-2023/maxon-massrobotics-drive-technology-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-25T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-25-irbo-like-a-mini-botz-this-etf-could-benefit-from-artificial-intelligence-growth.md",
       "title": "IRBO: Like A Mini BOTZ, This ETF Could Benefit From Artificial Intelligence Growth",
       "excerpt": "IRBO invests in companies focused on artificial intelligence (AI) and robotics. AI is one of the hottest topics this year, as its possibilities continue to grow and could move more towards ...",
@@ -1296,59 +1330,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-04-17-ai-demystified-making-sense-of-artificial-intelligence-for-your-business.md",
-      "title": "AI Demystified: Making Sense Of Artificial Intelligence For Your Business",
-      "excerpt": "If you want an AI implementation now, turn your attention to narrow AI. Think about tasks that are manual, repetitive and structured.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/ai-demystified-making-sense-of-artificial-intelligence-for-your-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/ai-demystified-making-sense-of-artificial-intelligence-for-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/617801ba6b3df3f9956729d2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/04/17/ai-demystified-making-sense-of-artificial-intelligence-for-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/04/17/ai-demystified-making-sense-of-artificial-intelligence-for-your-business/amp/",
-      "publishedDateTime": "2023-04-17T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nicolesilver/2023/06/03/artificial-inte
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicolesilver/2023/06/03/artificial-intelligence-series-2-of-5-ais-influence-on-the-workforce/amp/"
 type: article
 quality: 104
-heat: 214
+heat: 234
 published: true
 
 provider:
@@ -155,6 +155,20 @@ related:
       name: BusinessWorld
       domain: bworldonline.com
     quality: 39
+  - title: "Advancing Intelligence at the Edge with AI Vision Processors"
+    excerpt: "Sponsored by Texas Instruments. A neural network has an extensive set of parameters that are trained using a set of input images—the network \"learns\" the rules used to perform tasks like object detection or facial recognition on future images."
+    publishedDateTime: 2023-06-05T16:21:00Z
+    webUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepaper/21266232/texas-instruments-advancing-intelligence-at-the-edge-with-ai-vision-processors"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 39
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/05/PROMO__2_.64665a6736110.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Illusion of China’s AI Prowess"
     excerpt: "JENNY XIAO is a venture capitalist investing in AI startups and a Ph.D. candidate at Columbia University. In the abstract, these concerns make sense. It would not serve U.S. interests if a regulatory crackdown crippled the domestic AI industry while Chinese AI companies,"
     publishedDateTime: 2023-06-02T13:36:00Z
@@ -172,6 +186,15 @@ related:
     provider:
       name: Las Vegas Sun
       domain: lasvegassun.com
+    quality: 19
+  - title: "Keeping an eye on AI"
+    excerpt: "Sunak is expected to discuss the idea of a “Cern for AI” — a research base modelled on the particle physics laboratory in Switzerland — with a global regulatory body that could look something like the International Atomic Energy Agency."
+    publishedDateTime: 2023-06-05T17:15:00Z
+    webUrl: "https://www.ft.com/content/e2980b91-7e8f-4648-96b9-4da6e394942a"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 19
 
 secured: "c+n7xGf9Ly3GHP6jYbnmL+0vvXLpsV9I0pz1m2vlW0Gnfhgbxu0bG/gcilr7dmj4cpJBBZ/b77lPZcp1+exzDS0dfssr5VFKcolI8ojwI3zyhZirJZOSy7b02IQM2lDvjOWaZD98ax2J8CH9vX671VWxujTFacglJe0RThhfI7Lw1hVrWratBJnYbuZKcHYglYiS1y7KV4L7rqziunrmjkwDrAStIHXUh9fMgwm6iY4e4qMGdftG0cYg+sd1TTO7hlNF7DQV/NfZdeUjP0mvCLrxE9KCQshfdF0WByqaHrz4m8XvHr51W8GjFkzK8dyuctYSmOnZ0JxHJDi5DN6piQwpnsueW8oq81Bz/xJTY0sRtQGzHFggrhqz4YqvlY0twtWUPJ9FMZi4zcxa1ZdWGj5fR4Aypzyqyp0OksZ4YuCnfTaOZ6hhdW8wpjrwXFJzWZPrXyZ+GTqiPVRAUBvx5rhn4DLlNyOGn1qsFxYt3jg1rosAjzAAChxGF1/Q7OSEIgoKn1iUGs9KhsgVbzSezA==;QDJyenbTe8KvSKL61gZ4Ng=="

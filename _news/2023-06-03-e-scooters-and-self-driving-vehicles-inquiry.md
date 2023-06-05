@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.co.uk/programmes/m001n2rf"
 webUrl: "https://www.bbc.co.uk/programmes/m001n2rf"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Bikers rally for laws that protect motorcyclists, including from self-driving vehicles"
+    excerpt: "\"I do not want to become a crash test dummy,\" said Ken Edwards, legislative coordinator for Alliance of Bikers Aimed Toward Education of Pennsylvania, at a rally the group held at the Pennsylvania Capitol on Monday that drew hundreds of motorcyclists from across Pennsylvania."
+    publishedDateTime: 2023-06-05T16:18:00Z
+    webUrl: "https://www.pennlive.com/politics/2023/06/bikers-rally-for-laws-that-protect-motorcyclists-including-from-self-driving-vehicles.html"
+    ampWebUrl: "https://www.pennlive.com/politics/2023/06/bikers-rally-for-laws-that-protect-motorcyclists-including-from-self-driving-vehicles.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/politics/2023/06/bikers-rally-for-laws-that-protect-motorcyclists-including-from-self-driving-vehicles.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 36
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6XLHBPHTSJG3PKASL4WIRV6NOA.png"
+        width: 1882
+        height: 1106
+        isCached: true
 
 secured: "XhawD3NUPr4lF64PbI8ncC3s3eSfC+sBkuP49kBivMK401uk/JaneIqMGOAr50UkoyeSszhx+oy1Zr86F7KFg1WZzyctQwSHnTKLaJGQ7ztua/cz8PmVbL8DNmgcILlEuQZ56ogCz/NcnCx27B2RWUp52ujbaUJRsbI0BRNKqHa1PNtp3GWBOcNBhYQT37ZzqoYu/0J8vN2VGpivt8lZNfZoFFNKb1Kj0jnA7myVdvO4MwUMB9+zOyL3vq0fs7epMvyQJqlBHhIuBbuiYfAYr6th5pvmD7xIc1xAJFE+NbS5tijL4z+IfBMVjLyKVILvaOtYDtX6Hqnivy7A5ZKXcdu0OhTXU9DwaRuZz4YsjrokT23q9isXM2wDcmLT6UC2rFAJSr4cQI0kunLfJZbyuWIpnU8cuoG4HmYxNy8ZBuUnaqJjzAsD5r/cd400TTCCicEx1Rx7c/50D66RH+vfIOF25KyxHCsMzt0d9wjpoqrrLpX/T3akFhp75lnbHYJOyIk1KhqTSIPQxKr7GlUXsw==;MwO8czPR1gOwPxjuZdb+GA=="
 ---

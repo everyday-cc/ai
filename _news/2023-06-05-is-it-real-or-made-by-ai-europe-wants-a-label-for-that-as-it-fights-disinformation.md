@@ -9,8 +9,8 @@ ampWebUrl: "https://www.aol.com/amphtml/real-made-ai-europe-wants-125339110.html
 cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/real-made-ai-europe-wants-125339110.html"
 type: article
 quality: 51
-heat: 51
-published: false
+heat: 71
+published: true
 
 provider:
   name: AOL
@@ -24,6 +24,33 @@ images:
     width: 1199
     height: 801
     isCached: true
+
+related:
+  - title: "Europe calls for tech companies to fight disinformation by labeling AI-generated content"
+    excerpt: "A top EU Commission official said Monday that the ability of a new generation of AI chatbots to create complex content and visuals in seconds raises “fresh challenges for the fight against disinformation."
+    publishedDateTime: 2023-06-05T16:26:00Z
+    webUrl: "https://www.pbs.org/newshour/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/science/europe-calls-for-tech-companies-to-fight-disinformation-by-labeling-ai-generated-content"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 48
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/06/2021-11-02T133529Z_974093607_RC2DMQ9I1JJD_RTRMADP_3_TECH-WEBSUMMIT-e1685982315901-1024x614.jpg"
+        width: 1024
+        height: 614
+        isCached: true
+  - title: "Is it real or made by AI? Europe wants a label for that as it fights disinformation"
+    excerpt: "EU Commission Vice President Vera Jourova said the ability of a new generation of AI chatbots to create complex content and visuals in seconds raises “fresh challenges for the fight against disinformation."
+    publishedDateTime: 2023-06-05T17:55:00Z
+    webUrl: "https://www.houstonchronicle.com/news/politics/article/is-it-real-or-made-by-ai-europe-wants-a-label-18135457.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 11
 
 secured: "vNMXP/F8TtRmzf4ZNBGnwauHI1lkphGe/Qt11jbxXxFdyEIJLswOKPJQCpSdOopBAGz7PoJJLxuRU7asYNBVy/QGGE3o5TeUacCT+s5AZn7U24vmL1itJgilettWLuIskucsFi5SkyVku1sXpO4xfA4LbzSRBtcz52Xfi3SNfd+K5XVCLuR7qG8f9Dn14B3F9Q5378Vveiw5EgMut0s1erGxo35tPACKXwl3onDOAUA6MITT2C78LYI/D44kZ7r1vDgcHS5zEgvoIk6xKrDaaVaoilWMCjn7w4nM4AVO8+XGD2HRFcpwm9uwUPJMznD6+dqDbHmrQo/CNLhfNhPJh2HUCZKAoorY2BCi/paqjvE=;BgvjCMlRya9eSXbGnx0hwg=="
 ---

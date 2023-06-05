@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/stability-ceo-says-hes-sad-about-report
 webUrl: "https://venturebeat.com/ai/stability-ceo-says-hes-sad-about-report-he-exaggerated-his-resume/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: VentureBeat
@@ -28,6 +28,22 @@ images:
     height: 500
     isCached: true
 
-secured: "2YgQUrrJvIx0QcQcoUXr2mXS9XO9EEHUIT4kJau18hmmpQrNhY4u6mp1p6hRlF0A1zphUA7bvm22T18/0F2IIW3WlakMIZCzDZqiYlzZETbkaAVr0s5LHM0HazBHIys9PX4w3sOvcrjY7/C7i+6YfU8j8zHUVHCOJKg+ogS7+CAwmlSpHQGfGkt4WirczgpNKdFajiBYeTFSqP89bdJ/SFVcn9kiP8JGc6dGrMk1EqrKirOs8hS5OSWW5KeqFXcvRQkA3xneD3l81f7pVUcxfyr9PYNXcNC7YNrTCZYu6oOJVqEHvxQv7dDUUktjji9cpYsqO1LKv334xtfGxLVAAIllce3bGTQstCbj1B8vJic=;YG2txLkSPSY3LdsVcA4H9w=="
+related:
+  - title: "Stability AI’s Founder Made Misleading Claims — Report"
+    excerpt: "Stability AI’s founder Emad Mostaque made exaggerated statements about both his own background and his generative AI startup, according to a Forbes report."
+    publishedDateTime: 2023-06-05T17:04:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/stability-ai-founder-emad-mostaque-false-claims/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Downturn_Alarm.jpg"
+        width: 900
+        height: 506
+        isCached: true
+
+secured: "CI4Oa6oMyWzilMCbj94Oh4+0hJu3iCdQd7GKcGQMkAjEN7+Jn3lew/efQjcnndw8BzP9u3HBUAzkBxSgEzsPt5eRaxqp1D284O7BsUOKzBY+C1B+6PC5u55ZS7C/7HVC7NiPpgt+VSK9zTNI3rRASL963XR0Son145diiJZTnOsPu0pEHVThrUHf2m/HSLAqAON6VNlw8xg3idWHDY5o1ILv8tPX2T6088u8K2ls5X35vWAzxXRtWyUAU0G0psmOpfi9QrpQ3bHK6sgtThEiN3PuSPyv4qWqxOu4P+PytLel/H1EobWe1/geHSYeeZYWbBcIuijB1QF1Qjbwymgw6VB9ziBWkbAWr71xLzi4jAQ6ZMSBJpAWP/kczR4lpFoH0wrWxlJROAD9BKyr/5q0VklMAOq/s8KTfCPtl1CLYi1I+iJNABUsm0/Jt6Kjd+H3qtW3nZ+DBo6jlQ17PKA2RtyxJwRc4xB+R0auKYufxP4BtQc/hUrP3A0JSYKUR2HgIyfTZt4/n3F4AMutQR/ZYw==;OrelKSPjD474jVg3bfTByw=="
 ---
 

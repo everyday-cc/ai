@@ -1,27 +1,29 @@
 ---
 category: news
 title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
-publishedDateTime: 2023-06-01T09:31:00Z
-originalUrl: "https://www.local10.com/business/2023/06/01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
-webUrl: "https://www.local10.com/business/2023/06/01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
+excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
+publishedDateTime: 2023-06-01T13:10:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+webUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
 type: article
-quality: 33
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: WPLG
-  domain: local10.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - Facebook AI
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SIQQ7UVKUNDXRHQQE2TFZQO3RU.jpg?_a=ATCqVhC0"
-    width: 700
-    height: 467
+  - url: "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -150,6 +152,20 @@ related:
       name: 92.7 WMAY
       domain: wmay.com
     quality: 46
+  - title: "AI chips are hot: What they are, what they’re for and why investors see gold AI晶片在紅什麼？為何它是投資人眼中的金礦？"
+    excerpt: "Such chips have suddenly taken center stage in what some experts consider an AI revolution that could reshape the technology sector — and possibly the world along with it. Shares of Nvidia, the leading designer of AI chips,"
+    publishedDateTime: 2023-06-05T16:01:00Z
+    webUrl: "https://www.taipeitimes.com/News/lang/archives/2023/06/06/2003801017"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 40
+    images:
+      - url: "https://www.taipeitimes.com/images/2023/06/06/P14-230606-334.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Big Tech has convinced investors that AI is the new goldrush"
     excerpt: "Investors rushing to put cash into AI based companies In what could be a huge bubble, investors are rushing to put their savings into companies centred around AI technology.  Time Magazine has reported that such chips have suddenly taken center stage in what some experts consider an AI"
     publishedDateTime: 2023-06-01T09:33:00Z
@@ -183,6 +199,6 @@ related:
       domain: omaha.com
     quality: 28
 
-secured: "xOR0ZnL49avodn1ACeKx2b80Js305qgn4YQOC2y3BRFaYG5tyaHE2fUjn9pIvEZTwoEJfPd13tccV+7oAZDA88CpX7u42trjOsVMckHcQzmGn6KUubDZAh2kU3LTb3YdCpAjFMZ0hsyud2pq88rmGAX81Pk79996cIhmhdAcX9ckdN1fAiyK06Div+ERg3hyhGCth8V+b2Pkn1WlkhzvwFaJ5IFTfOioxtY4XGPwBAOGjaRUyyWeZinQd7U6eEnhq7whqIHGFlKWPCGvwkYPml4lk1MOfLCMT7OpfqXlm8NvkWYm5vIpScWbRM5QAfI/jjS8FBzE8qZ+6nohD++GMTb44gxv9CGFj0GZQJQ391Q=;Vn/OvoI6mDWiLhwrhXtUqg=="
+secured: "DPDh+xXBtn7NjA5pvz9XuqzGwppstnCFCZY49dO8QXpZDV3aLLdiQ2X+HUnqvBWdMONMY0ul30rVe26MO4+etts1Udh7sUiXWi0CozliXPZD6gNhwRlMX7rboh3Zw497snmrphfRqUwWvJU5kTEKRGAuDbZGN6ztyqIfZawy44CIKy6Ii2a74pUjJ5OqoDV+5vzDndilHBY2uX14Vv1JBs8zYlJB/dwMKZLG7GM2u+7irzm5i7YXt91ooBvceNHfxz7TdJ4IXo00NtxG04Msl32rxFDI/lnflm5hB+wLLh0JTQLksUzDqnaH6gTijgqei8am553MUOEz2OHmC69O3NWloEf2L66Ve0M8khBAF+U=;TGpZusIWGvB9Nyc4oi9drQ=="
 ---
 

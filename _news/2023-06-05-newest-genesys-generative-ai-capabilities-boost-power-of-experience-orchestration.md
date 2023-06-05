@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Funding for cloud-based generative AI"
-    excerpt: "Get ready for the rush of generative AI applications heading your way in 2024, but watch out for the size of the bill. Who is going to pay for it?"
-    publishedDateTime: 2023-06-02T09:04:00Z
-    webUrl: "https://www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/01/red-wheel-barrow_pile-of-money_high-paying-salary-100745643-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "sEyyNsSYtyaz9wZzzhemKpx+XJd8wwtAzS8C5mu6gKU7dO0GC2xj1tC8MZWaptJJVSElZvYvlZK69xf20mUuTIKpvo0PeAoSCHwQasB9HxQFcTl7EtVWdiq4sfox9eycheKoII3m8AwtwEV0S34MCXbEIaoaUvWXjuB5FTe/xilgFn1qzbefPN3iJK+M3fQnkOe/PPsAkOEQho9PWYDhlrZ0SZ5/PUM3tn0r0AlUm4W1zRy+on8Q7aUKmFOgIY1sSYPdIy3GkXjNi41gC7+d02fCBN9TQAdbAkLLnKyeCycN37gltEB/rIPcss9cWEvhoU6r4DBTMN8ULAQa0xjTRYlyTe8elDo8s08VWjBPkONnbkpMs/TLmutbrF0fP3LAUyk1rDyzxHe7MX6LMOqzLlQ9Kmw5PccTAwaLYie/pW41ewHYR8hEMBGE/F69G7VIhwuYYbwtV//XKkT8CNd/C6ZhmmHYg9HOqCuHvYBEBIG8dtCvfotAsOUNCguIVMZI7oqWhvgX/gju6HJWqkRoMA==;GyXriMLcV3krxVlu614RKA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/generative-ai-will-elevate-humans-int
 webUrl: "https://www.wsj.com/articles/generative-ai-will-elevate-humans-into-higher-value-jobs-e7eb05de"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
     quality: 42
     images:
       - url: "https://wp.inews.co.uk/wp-content/uploads/2023/04/SEI_151791596-1200x630-pl-exclusive.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How Will Artificial Intelligence Change Higher Ed?"
+    excerpt: "Even discounting for hyperbole, the release of ChatGPT suggests that we’re at the dawn of an era marked by rapid advances in artificial intelligence, with far-reaching consequences for nearly ..."
+    publishedDateTime: 2023-06-04T23:44:00Z
+    webUrl: "https://www.chronicle.com/article/how-will-artificial-intelligence-change-higher-ed"
+    type: article
+    provider:
+      name: The Chronicle of Higher Education
+      domain: chronicle.com
+    quality: 39
+    images:
+      - url: "https://chronicle.brightspotcdn.com/dims4/default/23c4fda/2147483647/strip/true/crop/1680x882+0+119/resize/1200x630!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.amazonaws.com%2F5a%2F21%2Fef77707b4d5bb86422b3d7cf4b69%2Fai-promo.jpg"
         width: 1200
         height: 630
         isCached: true

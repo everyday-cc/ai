@@ -2,6 +2,461 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-06-02-yc-backed-dumme-raises-34m-for-its-ai-video-editor-that-turns-long-form-youtube-videos-into-shorts.md",
+      "title": "YC-backed Dumme raises $3.4M for its AI video editor that turns long-form YouTube videos into Shorts",
+      "excerpt": "Dumme, a startup putting AI to practical use in video editing, is already generating demand before opening up to the public. The Y Combinator-backed company has hundreds of video creators testing its product,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/",
+      "originalUrl": "https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/IMG_0686.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/02/yc-backed-dumme-raises-3-4m-for-its-ai-video-editor-turns-long-form-youtube-videos-into-shorts/amp/",
+      "publishedDateTime": "2023-06-02T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-air-force-denies-running-simulation-where-ai-drone-killed-its-operator.md",
+      "title": "Air Force denies running simulation where AI drone “killed” its operator",
+      "excerpt": "Over the past 24 hours, several news outlets reported a now-retracted story claiming that the US Air Force had run a simulation in which an AI-controlled drone \"went rogue\" and \"killed the operator because that person was keeping it from accomplishing its objective.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/ucav_drone_hero_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/air-force-denies-running-simulation-where-ai-drone-killed-its-operator/amp/",
+      "publishedDateTime": "2023-06-02T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-sigmaos-launches-a-contextual-ai-assistant-for-its-browser.md",
+      "title": "SigmaOS launches a contextual AI assistant for its browser",
+      "excerpt": "LocalGlobe- and Y Combinator-backed web browser startup SigmaOS launched its own AI assistant on Thursday to a limited set of people.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/",
+      "originalUrl": "https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/06/Explain.jpg?resize=1200,750",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/06/02/sigmaos-launches-a-contextual-ai-assistant-for-its-browser/amp/",
+      "publishedDateTime": "2023-06-02T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-accelerating-ai-innovation-the-future-of-banking-depends-on-core-modernization.md",
+      "title": "Accelerating AI & Innovation: the future of banking depends on core modernization",
+      "excerpt": "In the rapidly evolving landscape of financial services, embracing AI and digital innovation at scale has become imperative for banks to stay competitive. With the power of AI and machine learning, financial institutions can leverage predictive analytics, anomaly detection and shared learning models",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/accelerating-ai-innovation-the-future-of-banking-depends-on-core-modernization/",
+      "originalUrl": "https://www.ibm.com/blog/accelerating-ai-innovation-the-future-of-banking-depends-on-core-modernization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 254,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/Accelerating-AI-Innovation-the-future-of-banking-depends-on-core-modernization-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T08:39:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-the-existential-threat-from-ai-and-from-humans-misusing-it.md",
+      "title": "The existential threat from AI – and from humans misusing it",
+      "excerpt": "Letters: Roger Haines writes that there is no evidence of AI sentience, while Prof Paul Huxley recalls Asimov’s laws of robotics, and Phyl Hyde says fears of AI are being overblown",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/jun/02/the-existential-threat-from-ai-and-from-humans-misusing-it",
+      "originalUrl": "https://www.theguardian.com/technology/2023/jun/02/the-existential-threat-from-ai-and-from-humans-misusing-it",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/89ad267be88983be00a29d56b9a48965dfd6aff3/0_0_3235_1942/master/3235.jpg?width=620&quality=85&auto=format&fit=max&s=e090c8964c3e679e4404ffb46a0a3627",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/jun/02/the-existential-threat-from-ai-and-from-humans-misusing-it",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/jun/02/the-existential-threat-from-ai-and-from-humans-misusing-it",
+      "publishedDateTime": "2023-06-02T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots.md",
+      "title": "7 ways you didn't know you can use Bing Chat and other AI chatbots",
+      "excerpt": "You can also use Bing Chat to generate unique drinks from fun prompts. For example, at a Bing press event in NYC, the company had a smoothie bar that used Bing Chat to make smoothies according to your favorite TV character.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/",
+      "originalUrl": "https://www.zdnet.com/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/8647ff8681b655b1556ed0e26907c10c6472ad79/2023/06/01/c92eb6e5-9691-45b3-9ad4-66599a5aa3df/gettyimages-1479076604.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/",
+      "publishedDateTime": "2023-06-02T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence.md",
+      "title": "A Quantum Leap In AI: IonQ Aims To Create Quantum Machine Learning Models At The Level Of General Human Intelligence",
+      "excerpt": "At some point, quantum systems will more easily handle the ongoing exponential growth in data compared to classical computers, which may struggle to keep up. Theoretically, at some point in the not-too-distant future,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6479fa2e14cc95f64c13b283/0x0.jpg?format=jpg&width=1200",
+          "width": 624,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/amp/",
+      "publishedDateTime": "2023-06-02T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-massrobotics-recognizes-2-women-for-their-robotics-accomplishments.md",
+      "title": "MassRobotics recognizes 2 women for their robotics accomplishments",
+      "excerpt": "This inaugural MassRobotics Robotics Medal award was presented to Nancy Amato for her research on the algorithmic foundations of motion planning and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/massrobotics-recognizes-2-women-for-their-robotics-accomplishments/",
+      "originalUrl": "https://www.therobotreport.com/massrobotics-recognizes-2-women-for-their-robotics-accomplishments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/06/massrobotics-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-02T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-fears-of-ai-are-greatly-exaggerated.md",
+      "title": "Fears Of AI Are Greatly Exaggerated",
+      "excerpt": "Of course there are the usual worker concerns about wages, but fears have also been expressed of how ChatGPT and like AI applications will replace writers. Apart from Hollywood’s concerns, there are also more widespread job fears.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/",
+      "originalUrl": "https://www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6107edfcfc8e877cae7a6fed/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 789,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/amp/",
+      "publishedDateTime": "2023-06-02T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-modernizing-child-support-enforcement-with-ibm-and-aws.md",
       "title": "Modernizing child support enforcement with IBM and AWS",
       "excerpt": "The IBM and AWS partnership can accelerate your child support enforcement modernization journey.\nThe post Modernizing child support enforcement with IBM and AWS appeared first on IBM Blog.\n",
@@ -53,7 +508,7 @@
       "originalUrl": "https://abc13.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -148,7 +603,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/is-generative-ai-a-friend-or-foe-to-pr-practitioners/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -188,101 +643,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-generative-ai-has-a-digital-blackface-problem.md",
-      "title": "Generative AI has a Digital Blackface problem",
-      "excerpt": "Generative AI has let brands like Levi's create digital BIPOC models for cheap. Advertisers now weigh how to use AI without cutting out BIPOC talent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/generative-ai-stokes-digital-blackface-accusations-advertisers-adjust-2023-6",
-      "originalUrl": "https://www.businessinsider.com/generative-ai-stokes-digital-blackface-accusations-advertisers-adjust-2023-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/647908c6085acb0018ff3f1c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-02T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-game-on-emirates-group-and-aws-team-up-to-craft-an-immersive-digital-world.md",
-      "title": "Game On! Emirates Group and AWS team up to craft an immersive digital world",
-      "excerpt": "The Emirates Group is on a immersive digital journey to transform its employee experiences by collaborating with Amazon Web Services (AWS).",
-      "sourceUrl": null,
-      "webUrl": "https://www.traveldailymedia.com/game-on-emirates-group-and-aws-team-up-to-craft-an-immersive-digital-world/",
-      "originalUrl": "https://www.traveldailymedia.com/game-on-emirates-group-and-aws-team-up-to-craft-an-immersive-digital-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.traveldailymedia.com/assets/2023/06/ixr1-scaled.jpg",
-          "width": 2048,
-          "height": 1638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.traveldailymedia.com/game-on-emirates-group-and-aws-team-up-to-craft-an-immersive-digital-world/amp/",
-      "cdnAmpWebUrl": "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/game-on-emirates-group-and-aws-team-up-to-craft-an-immersive-digital-world/amp/",
-      "publishedDateTime": "2023-06-02T00:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Travel Daily Media",
-        "domain": "traveldailymedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -390,7 +750,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/23/06/ab32684334/apexone-ai-revolutionizes-business-operations-with-advanced-artificial-intelligence-solutions",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -433,7 +793,7 @@
       "originalUrl": "https://www.zdnet.com/article/openai-found-a-way-to-make-ai-models-more-logical-and-avoid-hallucinations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -871,351 +1231,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-citizens-new-cz-smart-watches-use-ai-to-forecast-your-energy-levels.md",
-      "title": "Citizen’s New CZ Smart Watches Use AI To Forecast Your Energy Levels",
-      "excerpt": "Watchmaker Citizen just launched the newest generation of CZ Smart watches, now featuring an onboard wellness advisor, powered by AI learning via IBM Watson® and NASA research. Available in 16 styles across Sport and Casual Touchscreen and Hybrid Display, the CZ Smart puts a self-care coach right on your wrist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/sponsored/story/citizens-new-cz-smart-watches-use-ai-to-forecast-your-energy-levels/",
-      "originalUrl": "https://www.wired.com/sponsored/story/citizens-new-cz-smart-watches-use-ai-to-forecast-your-energy-levels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/646cf8790227ed23db80423b/master/pass/Shot%2001_172_HERO_3_crop_small.jpg",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/sponsored/story/citizens-new-cz-smart-watches-use-ai-to-forecast-your-energy-levels/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/citizens-new-cz-smart-watches-use-ai-to-forecast-your-energy-levels/amp",
-      "publishedDateTime": "2023-06-01T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-artificial-intelligence-ai-in-finance.md",
-      "title": "Artificial Intelligence (AI) in Finance",
-      "excerpt": "Artificial intelligence is poised to reshape the finance industry, yet finance companies face numerous concerns about this emerging technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/artificial-intelligence-finance/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/artificial-intelligence-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.md",
-      "title": "Microsoft offers Azure ML data import CLI, SDK for Snowflake, other databases",
-      "excerpt": "The new integration, which is in public preview, is designed to bring data into Azure’s ML service from data repositories outside the Azure platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.html",
-      "originalUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2017/08/5_microsoft-azure-100733132-large.jpg?auto=webp&quality=85,70",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.amp.html",
-      "publishedDateTime": "2023-06-01T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-watch-artificial-intelligence-dominates-london-robot-show.md",
-      "title": "Watch: Artificial intelligence dominates London Robot Show",
-      "excerpt": "A quick lesson in artificial intelligence from Ameca who uses OpenAI’s ChatGPT-3 to respond to any question you might have – and can respond in any language.The robot is built by Engineered Arts, a UK-based company.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/news/international/uk/watch-artificial-intelligence-dominates-london-robot-show/videoshow/100685103.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/news/international/uk/watch-artificial-intelligence-dominates-london-robot-show/videoshow/100685103.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.etimg.com/thumb/width-600,height-450,msid-100685103,imgsize-32844/watch-artificial-intelligence-dominates-london-robot-show.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/news/international/uk/watch-artificial-intelligence-dominates-london-robot-show/amp_videoshow/100685103.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/uk/watch-artificial-intelligence-dominates-london-robot-show/amp_videoshow/100685103.cms",
-      "publishedDateTime": "2023-06-01T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-chatgpt-and-generative-ai-our-guide-to-2023s-most-talked-about-technology.md",
-      "title": "ChatGPT and Generative AI: Our Guide to 2023's Most Talked-About Technology",
-      "excerpt": "ChatGPT brought generative AI into the limelight when it hit 1 million users in five days. But how valid is the buzz around ChatGPT?",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june",
-      "originalUrl": "https://www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64403fa23f6f690018de9578?width=1200&format=jpeg",
-          "width": 470,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-chatgpt-guide-to-most-talked-technology-2023-june?amp",
-      "publishedDateTime": "2023-06-01T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-taskus-shares-rise-on-launch-of-ai-customer-service-app.md",
-      "title": "TaskUs Shares Rise on Launch of AI Customer Service App",
-      "excerpt": "By Sabela Ojea Shares of TaskUs on Thursday rose after the company said it launched a generative AI customer service application named TaskGPT. At",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/taskus-shares-rise-on-launch-of-ai-customer-service-app-d7b65df",
-      "originalUrl": "https://www.marketwatch.com/story/taskus-shares-rise-on-launch-of-ai-customer-service-app-d7b65df",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/taskus-shares-rise-on-launch-of-ai-customer-service-app-d7b65df",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/taskus-shares-rise-on-launch-of-ai-customer-service-app-d7b65df",
-      "publishedDateTime": "2023-06-01T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-asus-plans-on-site-chatgpt-like-ai-server-rentals-for-privacy-and-data-control.md",
-      "title": "Asus plans on-site ChatGPT-like AI server rentals for privacy and data control",
-      "excerpt": "Taiwan's Asustek Computer (known popularly as \"Asus\") plans to introduce a rental business AI server that will operate on-site to address security concerns and data control issues that come from cloud-based AI systems,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/06/asus-plans-on-site-chatgpt-like-ai-server-rentals-for-privacy-and-data-control/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/06/asus-plans-on-site-chatgpt-like-ai-server-rentals-for-privacy-and-data-control/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/asus_hero_3-800x427.jpg",
-          "width": 800,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/06/asus-plans-on-site-chatgpt-like-ai-server-rentals-for-privacy-and-data-control/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/asus-plans-on-site-chatgpt-like-ai-server-rentals-for-privacy-and-data-control/amp/",
-      "publishedDateTime": "2023-06-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

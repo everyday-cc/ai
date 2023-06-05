@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Build 2023 Brings AI Tools To Where Work Is Done With Copilots And Plugins"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead shares his highlights from Microsoft Build 2023 and examines how its latest AI developments fit into plugins and copilots."
+    publishedDateTime: 2023-06-05T16:58:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/06/05/microsoft-build-2023-brings-ai-tools-to-where-work-is-done-with-copilots-and-plugins/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/06/05/microsoft-build-2023-brings-ai-tools-to-where-work-is-done-with-copilots-and-plugins/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/05/microsoft-build-2023-brings-ai-tools-to-where-work-is-done-with-copilots-and-plugins/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 97
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647e132a8740135a2713b283/0x0.jpg?format=jpg&width=1200"
+        width: 624
+        height: 416
+        isCached: true
   - title: "Paycor Strengthens Talent Platform with AI-Generated Job Description Feature Powered by Microsoft Azure OpenAI Service"
     excerpt: "Newest Offering Automates the Process of Creating Job Descriptions, Optimizing the Talent Acquisition Process for Leaders CINCINNATI, June 1,"
     publishedDateTime: 2023-06-01T14:00:00Z
@@ -57,33 +73,47 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Microsoft: Generative AI Unlocking Growth Potential"
-    excerpt: "Microsoft's AI initiatives, including the availability of OpenAI's GPT-4 in Azure, OpenAI Service and the introduction of Azure AI Studio can potentially drive significant growth and expand ..."
-    publishedDateTime: 2023-05-31T23:32:00Z
-    webUrl: "https://seekingalpha.com/article/4608596-microsoft-generative-ai-unlocking-growth-potential"
+  - title: "Microsoft’s CoreWeave Deal ‘Adds AI Pressure’ To AWS, Google"
+    excerpt: "Microsoft’s AI deal with Nvidia backed CoreWeave for GPU and cloud infrastructure puts pressure on AWS and Google in the generative AI market."
+    publishedDateTime: 2023-06-02T16:59:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-s-coreweave-deal-adds-ai-pressure-to-aws-google"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
+      name: CRN
+      domain: crn.com
+    quality: 71
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1464561575/image_1464561575.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 864
+      - url: "https://www.crn.com/resources/0282-182941c9d993-f3abf62ff777-1000/coreweave-logo.jpeg"
+        width: 611
+        height: 458
         isCached: true
-  - title: "OneDegree Global and Microsoft Join Forces to Drive Insurtech and Cybersecurity Innovations with Azure OpenAI"
-    excerpt: "OneDegree Global (OneDegree), a leading technology startup in the insurtech and cybersecurity sectors, is thrilled to announce a strategic partnership with Microsoft Hong Kong. This collaboration marks a major milestone as OneDegree integrates Azure OpenAI Service into its IXT insurtech and Cymetrics cybersecurity solutions,"
-    publishedDateTime: 2023-06-02T07:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-onedegree-global-microsoft-jo-forces-drive-insurtech-cybersecurity-/2023/06/02/9825439.htm"
+  - title: "Microsoft signs multi-billion dollar deal with GPU cloud provider CoreWeave to meet AI needs"
+    excerpt: "CoreWeave is a specialized cloud provider built for large-scale GPU-accelerated workloads. The company raised $200 million earlier this week - just a month after it raised $221m a"
+    publishedDateTime: 2023-06-02T10:35:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-signs-multi-billion-dollar-deal-with-gpu-cloud-provider-coreweave-to-meet-ai-needs/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 50
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 60
     images:
-      - url: "https://mma.prnewswire.com/media/2091414/OneDegree_Global_and_Microsoft_Join_Forces_to_Drive_Insurtech_and_Cybersecurity_Innovations_with_Azu.jpg"
-        width: 400
-        height: 225
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Cloud.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft Build 2023: Bing AI and Copilot Plugins for ChatGPT OpenAI, Microsoft Fabric and More"
+    excerpt: "This year's Microsoft Build was focused on artificial intelligence, with new Copilot experience additions for Windows 11 and Edge, as well as new Bing AI and Copilot plugins for ChatGPT OpenAI. Key announcements also included the Microsoft Fabric analytics platform,"
+    publishedDateTime: 2023-06-02T07:05:00Z
+    webUrl: "https://www.infoq.com/news/2023/06/microsoft-build-2023/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 42
+    images:
+      - url: "https://res.infoq.com/news/2023/06/microsoft-build-2023/en/headerimage/generatedHeaderImage-1685637758526.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "w/Y1Zn5EyBCOf4Vd55A4+dKEAQVN/C8WdvAjp6SmmOmUFjkqD1UhwvTzfdhohQhvhbdfVV32qP1cz5IIhrMYUUVSgwE8bq0KPeNrcCYSDD873r8P+Qp/IQj5yGgUcHgco+B3iG2OPZjgUz7LYiKNQ/SkIDQKQ3KArFGUzohvH2kqOFFJvGbSFrP4SmVWmBJZWKDkDC+lbMuoo86NwYokwBTUWkYPKhRNo5Wj2/++zmD17L1RSRvkC6G+YIVMlAptuv7aXbC2gYQ1PtqA1sS0zvKJZsgwMcQ1XNtnRvTy7YyVFH86MCQHP0nQ5UTEzCwabzIT7duK4NRQBOkoIajwwUVrWZYgy6tvAQGE6AVPLDE=;y5fbYsPsQ5n/W/vkKYdQnQ=="

@@ -61,6 +61,20 @@ related:
       name: Voicendata.com
       domain: voicendata.com
     quality: 51
+  - title: "OneDegree Global and Microsoft Join Forces to Drive Insurtech and Cybersecurity Innovations with Azure OpenAI"
+    excerpt: "OneDegree Global (OneDegree), a leading technology startup in the insurtech and cybersecurity sectors, is thrilled to announce a strategic partnership with Microsoft Hong Kong. This collaboration marks a major milestone as OneDegree integrates Azure OpenAI Service into its IXT insurtech and Cymetrics cybersecurity solutions,"
+    publishedDateTime: 2023-06-02T07:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-onedegree-global-microsoft-jo-forces-drive-insurtech-cybersecurity-/2023/06/02/9825439.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 50
+    images:
+      - url: "https://mma.prnewswire.com/media/2091414/OneDegree_Global_and_Microsoft_Join_Forces_to_Drive_Insurtech_and_Cybersecurity_Innovations_with_Azu.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Today’s Cyber Threats Require Modern Cloud Network Security"
     excerpt: "In the past year, network security failures have led to downed websites, delayed flights, unavailable video games, and much more. Such incidents can erode customer, investor, and board member trust and result in the types of headlines you don’t want."
     publishedDateTime: 2023-06-02T13:02:00Z

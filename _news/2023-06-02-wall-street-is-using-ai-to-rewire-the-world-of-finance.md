@@ -152,6 +152,20 @@ related:
       name: BusinessWorld
       domain: bworldonline.com
     quality: 39
+  - title: "Advancing Intelligence at the Edge with AI Vision Processors"
+    excerpt: "Sponsored by Texas Instruments. A neural network has an extensive set of parameters that are trained using a set of input images—the network \"learns\" the rules used to perform tasks like object detection or facial recognition on future images."
+    publishedDateTime: 2023-06-05T16:21:00Z
+    webUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepaper/21266232/texas-instruments-advancing-intelligence-at-the-edge-with-ai-vision-processors"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 39
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/05/PROMO__2_.64665a6736110.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Illusion of China’s AI Prowess"
     excerpt: "JENNY XIAO is a venture capitalist investing in AI startups and a Ph.D. candidate at Columbia University. In the abstract, these concerns make sense. It would not serve U.S. interests if a regulatory crackdown crippled the domestic AI industry while Chinese AI companies,"
     publishedDateTime: 2023-06-02T13:36:00Z
@@ -169,6 +183,15 @@ related:
     provider:
       name: Las Vegas Sun
       domain: lasvegassun.com
+    quality: 19
+  - title: "Keeping an eye on AI"
+    excerpt: "Sunak is expected to discuss the idea of a “Cern for AI” — a research base modelled on the particle physics laboratory in Switzerland — with a global regulatory body that could look something like the International Atomic Energy Agency."
+    publishedDateTime: 2023-06-05T17:15:00Z
+    webUrl: "https://www.ft.com/content/e2980b91-7e8f-4648-96b9-4da6e394942a"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 19
 
 secured: "y/zP1MF8ZsTNBycYjgVvdiXNLLRf6rUiks1spOLM1soKEqTFty7IbrUhRNvHv6gpHc1XL+qbDIelUlVFNw3dGNy+mkpjDj6sKcPvUxy5WEejHF48V0cZ3NiCNOUn+5Nl1G17i6tBk4pUU/ZGRBXuqutvoOvq8AGXHnI5u4ogi3pB4WIHZwOe//WNDy2vPOIaZA5Y7WKV2MWTxxzWK92OBdF5smbtGJuzknUvczH0GgvDhIhEhLFk78qAmp1DYUFutjqNy9zTrdL8L1UPXLk+Zmg1OQCi7Fj7v8ZT35DxRojr1fnFA44LQ52T857nMq2NCdMfR2VWxw4LCR+79gBU0DBmmHDejtS3oA29bw6AUB0=;ANSJmUi8oHqlH6aX5SDpMQ=="

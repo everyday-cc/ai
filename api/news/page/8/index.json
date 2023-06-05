@@ -2,6 +2,283 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-05-30-ai-leaders-warn-mitigating-the-risk-of-extinction-from-ai-should-be-a-global-priority.md",
+      "title": "AI Leaders Warn: ‘Mitigating the Risk of Extinction From AI Should Be a Global Priority’",
+      "excerpt": "A statement warning that AI needs to be taken just as seriously as a pandemic or the threat of nuclear war has been signed by OpenAI CEO Sam Altman, Google DeepMind CEO Demis Hassabis and other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thewrap.com/ai-leaders-warn-artificial-intelligence-safety-threat/",
+      "originalUrl": "https://www.thewrap.com/ai-leaders-warn-artificial-intelligence-safety-threat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheWrap",
+        "domain": "thewrap.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-high-quality-human-feedback-for-your-generative-ai-applications-from-amazon-sagemaker-ground-truth-plus.md",
+      "title": "High-quality human feedback for your generative AI applications from Amazon SageMaker Ground Truth Plus",
+      "excerpt": "Amazon SageMaker Ground Truth Plus helps you prepare high-quality training datasets by removing the undifferentiated heavy lifting associated with building data labeling applications and managing the labeling workforce. All you do is share data along with labeling requirements, and Ground Truth Plus",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/high-quality-human-feedback-for-your-generative-ai-applications-from-amazon-sagemaker-ground-truth-plus/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/high-quality-human-feedback-for-your-generative-ai-applications-from-amazon-sagemaker-ground-truth-plus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/05/26/ML-14314-image005-1063x630.png",
+          "width": 1063,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-30T09:13:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-sap-wants-to-future-proof-businesses-with-ai.md",
+      "title": "SAP Wants To Future-Proof Businesses With AI",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead examines how SAP says it wants to help customers transform business models in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/30/sap-wants-to-future-proof-businesses-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/30/sap-wants-to-future-proof-businesses-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647617a83cda87b81f945378/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/05/30/sap-wants-to-future-proof-businesses-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/05/30/sap-wants-to-future-proof-businesses-with-ai/amp/",
+      "publishedDateTime": "2023-05-30T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-ankylosing-spondylitis-machine-learning-could-pave-the-way-for-early-diagnosis-of-inflammatory-arthritis.md",
+      "title": "Ankylosing spondylitis: Machine learning could pave the way for early diagnosis of inflammatory arthritis",
+      "excerpt": "Ankylosing spondylitis (AS) is the second most common type of inflammatory arthritis, often affecting teenagers and young adults. Symptoms of AS can include back pain, stiffness, joint inflammation (arthritis),",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-05-ankylosing-spondylitis-machine-pave-early.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-05-ankylosing-spondylitis-machine-pave-early.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ankylosing-spondylitis.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-05-ankylosing-spondylitis-machine-pave-early.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-05-ankylosing-spondylitis-machine-pave-early.amp",
+      "publishedDateTime": "2023-05-30T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more.md",
+      "title": "Generative AI $7 Trillion Ecosystem: Invest In Nvidia, Microsoft, Adobe And More",
+      "excerpt": "Worldwide cloud revenue is expected to increase 21.7% in 2023 to $597.3 billion. Gartner IT +1.5% expects generative AI to create “a surge in cloud revenue” driven primarily by these and other hyperscalers. Ultimately, all the investment in generative AI technology must result in applications that people pay money to use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2023/05/30/generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/05/30/generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 211,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64733c9329fc673cfa0cb088/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2023/05/30/generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/05/30/generative-ai-7-trillion-ecosystem-invest-in-nvidia-microsoft-adobe-and-more/amp/",
+      "publishedDateTime": "2023-05-30T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-30-artificial-intelligence-raises-risk-of-extinction-experts-say-in-new-warning.md",
+      "title": "Artificial intelligence raises risk of extinction, experts say in new warning",
+      "excerpt": "Scientists and tech industry leaders, including high-level executives at Microsoft and Google, issued a new warning Tuesday about the perils that artificial intelligence poses to humankind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wral.com/story/artificial-intelligence-threatens-extinction-experts-say-in-new-warning/20886276/",
+      "originalUrl": "https://www.wral.com/story/artificial-intelligence-threatens-extinction-experts-say-in-new-warning/20886276/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wwwcache.wral.com/asset/news/technology/2023/05/30/20886277/6475fa6fa5ee5-media_7dd689f31dad4f5ca5d5ab652dfdfdec-DMID1-5z2v6gjo8-640x480.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wral.com/amp/20886276/",
+      "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/20886276/",
+      "publishedDateTime": "2023-05-30T06:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL",
+        "domain": "wral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-30-ibm-tech-now-may-30-2023.md",
       "title": "IBM Tech Now: May 30, 2023",
       "excerpt": "The latest episode of IBM Tech Now looks at IBM Watson Code Assistant, IBM Hybrid Cloud Mesh and IBM Event Automation.\nThe post IBM Tech Now: May 30, 2023 appeared first on IBM Blog.\n",
@@ -922,292 +1199,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-ai-in-drug-discovery-market-is-expected-to-reach-40-billion-marketsandmarkets.md",
-      "title": "AI in Drug Discovery Market is Expected to Reach $4.0 billion | MarketsandMarkets.",
-      "excerpt": "AI (Artificial Intelligence) is poised to revolutionize the drug discovery industry in the near future, offering immense potential to accelerate and enhance the process of",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/g32613837/ai-in-drug-discovery-market-is-expected-to-reach-4-0-billion-marketsandmarkets",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/g32613837/ai-in-drug-discovery-market-is-expected-to-reach-4-0-billion-marketsandmarkets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32613837",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32613837",
-      "publishedDateTime": "2023-05-29T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-emerging-markets-report-the-art-of-artificial-intelligence.md",
-      "title": "Emerging Markets Report: The Art of Artificial Intelligence",
-      "excerpt": "An Emerging Markets Sponsored Commentary ORLANDO, Fla., May 29, 2023 (GLOBE NEWSWIRE) -- It will come as no surprise to even the most passive investor that the market is currently in a full-throated i",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/g32613230/emerging-markets-report-the-art-of-artificial-intelligence",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/g32613230/emerging-markets-report-the-art-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32613230",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32613230",
-      "publishedDateTime": "2023-05-29T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-self-administered-smartphone-speech-app-may-spot-alzheimers-early-on.md",
-      "title": "Self-administered smartphone speech app may spot Alzheimer’s early on",
-      "excerpt": "Researchers have developed a self-administered smartphone app to screen for neurodegenerative conditions like Alzheimer’s disease and mild cognitive impairment by analyzing speech patterns. With subtle speech disturbances being an early indicator of these conditions,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/health-wellbeing/smartphone-speech-app-may-spot-alzheimers-early-on/",
-      "originalUrl": "https://newatlas.com/health-wellbeing/smartphone-speech-app-may-spot-alzheimers-early-on/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/96441db/2147483647/strip/true/crop/1999x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F8c%2F43%2F688be2a14c71b250a8669ff2d7db%2Fdepositphotos-299713804-l.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/health-wellbeing/smartphone-speech-app-may-spot-alzheimers-early-on/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/health-wellbeing/smartphone-speech-app-may-spot-alzheimers-early-on/?amp=true",
-      "publishedDateTime": "2023-05-29T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production.md",
-      "title": "Nvidia unveils new kind of Ethernet for AI, Grace Hopper 'Superchip' in full production",
-      "excerpt": "The Spectrum-X ethernet switch offers \"lossless\" transmission via a new kind of congestion control, said Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/",
-      "originalUrl": "https://www.zdnet.com/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/e496c12a46e4533063ced7ab4bfdf6242b00c860/2023/05/29/05144ef8-05b7-455e-9cd7-72ff48b534c4/nvidia-ceo-jensen-huang-holds-up-spectrum-4-ethernet-switch.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-new-kind-of-ethernet-for-ai-grace-hopper-superchip-in-full-production/",
-      "publishedDateTime": "2023-05-28T22:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-landing-ais-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropolis.md",
-      "title": "Landing AI's Visual Prompting Makes Building and Deploying Computer Vision Easy with NVIDIA Metropolis",
-      "excerpt": "PALO ALTO, Calif., May 29, 2023 /PRNewswire/ -- Landing AI, a leading computer vision cloud company, today announced at Computex that it is using the new NVIDIA Metropolis for Factories ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/05/n32611926/landing-ais-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropo",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/05/n32611926/landing-ais-visual-prompting-makes-building-and-deploying-computer-vision-easy-with-nvidia-metropo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/32611926",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/32611926",
-      "publishedDateTime": "2023-05-28T21:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-29-as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t.md",
-      "title": "As NVIDIA Approaches $1T, Company Announces AI Tech Needed To Surpass $2T",
-      "excerpt": "The NVIDIA DGX GH200’s massive shared memory space uses NVLink interconnect technology with the NVLink Switch System to combine 256 GH200 superchips, allowing them to",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6473c8a15a1b0fdc91569955/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/05/29/as-nvidia-approaches-1t-company-announces-ai-tech-needed-to-surpass-2t/amp/",
-      "publishedDateTime": "2023-05-28T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

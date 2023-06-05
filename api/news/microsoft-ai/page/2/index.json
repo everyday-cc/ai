@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-05-23-azure-cosmos-db-joins-the-ai-toolchain.md",
-      "title": "Azure Cosmos DB joins the AI toolchain",
-      "excerpt": "Microsoft has introduced a spectrum of new tools to make it easier to customize and focus the output of GPT-based AI models. Cosmos DB plays an important role.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3696980/azure-cosmos-db-joins-the-ai-toolchain.html",
-      "originalUrl": "https://www.infoworld.com/article/3696980/azure-cosmos-db-joins-the-ai-toolchain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/07/10/artificial-intelligence-698122_1280-100698891-large-100932024-large.jpg?auto=webp&quality=85,70",
-          "width": 1199,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3696980/azure-cosmos-db-joins-the-ai-toolchain.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696980/azure-cosmos-db-joins-the-ai-toolchain.amp.html",
-      "publishedDateTime": "2023-05-23T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-05-23-llms-and-the-rise-of-the-ai-code-generators.md",
       "title": "LLMs and the rise of the AI code generators",
       "excerpt": "Large language models like GPT-4 and tools like GitHub Copilot can make good programmers more efficient and bad programmers more dangerous. Are you ready to dive in?",
@@ -1443,6 +1391,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-microsoft-stock-nasdaqmsft-dont-discount-its-early-lead-in-the-ai-race.md",
+      "title": "Microsoft Stock (NASDAQ:MSFT): Don’t Discount Its Early Lead in the AI Race",
+      "excerpt": "Microsoft (NASDAQ:MSFT) stock has been very quick to recover from the brutal bear market of 2022. Year-to-date, MSFT stock is up around 30%,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-nasdaq-msft-don-t-discount-its-early-lead-in-the-ai-race-1032303276",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-nasdaq-msft-don-t-discount-its-early-lead-in-the-ai-race-1032303276",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/05/image-225-1024x348.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 1024,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-08T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

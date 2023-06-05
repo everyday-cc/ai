@@ -76,22 +76,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Coming AI Revolution In Home Care"
-    excerpt: "I believe that future industry leaders in home care can lead the field by leveraging these AI technologies and tools to enhance the home care experience."
-    publishedDateTime: 2023-06-02T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/02/the-coming-ai-revolution-in-home-care/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/02/the-coming-ai-revolution-in-home-care/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/06/02/the-coming-ai-revolution-in-home-care/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6478b2a540837295a30e1090/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How Computer Vision Is Driving Innovation Across Industries"
     excerpt: "The fusion of AI and computer vision is reshaping countless sectors, ranging from healthcare and manufacturing to retail and transportation."
     publishedDateTime: 2023-06-05T10:46:00Z
@@ -243,12 +227,12 @@ related:
         isCached: true
   - title: "Opinion: Artificial intelligence debate just getting started"
     excerpt: "Fueled by rapid advances in artificial intelligence, tools enabling the exact digital replication of voices of celebrities and prominent figures are fairly commonplace online. Known as “deepfakes,” these creations can be practically indistinguishable from an actual person speaking."
-    publishedDateTime: 2023-06-05T07:06:00Z
-    webUrl: "https://www.ctpost.com/opinion/article/a-ct-resident-says-regulators-need-step-early-18130223.php"
+    publishedDateTime: 2023-06-05T11:06:00Z
+    webUrl: "https://www.timesunion.com/opinion/article/a-ct-resident-says-regulators-need-step-early-18130223.php"
     type: article
     provider:
-      name: Connecticut Post
-      domain: ctpost.com
+      name: Times Union
+      domain: timesunion.com
     quality: 17
 
 secured: "t81Y/DfRlqIRjriIQIXJ0B63HvlVtuDO+j1TCOZ+DY68J3HjrtbCzqAsBIzTMK49hjRnWk8ZfycQCHthqAiCwHLMl+mx+IDwUKz4MdrKAtlDUaZFea0zFagAophm4fnuVUEFbT2tbNnZ70ia2Q+GKNAmk1vSqaW1gcO+sROZyPxU8bWCePgVgIDofET1j9XFApRHJMm1QlSLWnzHO3xJ2svH5YLyKK6eWjp2kMRVJ1a6WEQfkZDMsPN0ncLncTffSLtBdrg3MKA/fCdjYRM9qGYHGU2ktxY7aE5JhhkCwyhKFMPJekt5LbTb+XNZOqyPo3URHcBTH3FuhReUmw7ppxr5a5dU0b08ezpHH2I+bBWcnDB6Bg9U5h/dDu8UX7ODidxVSehPJiMU+vJgnHRjzE6yHkYKvQLQ9QzuYoMlXEyd/UQ8G9mYlXD/3erN9CbGpO15qtQk9NypYGRlTDPTZ4JJc38uR6AHDz2V+pU4lx8IX1AIrM1XCqc5+mJPybxCv+4y/u5P46vvpTshncd8KQ==;baS5taAl0i22x2j61rz78g=="

@@ -57,17 +57,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How Generative AI-Powered Robots Are Shaking Things Up"
-    excerpt: "Robots are making their way into nearly every sector of the ... Reports suggest that Musk is busy creating his own generative AI startup that would go head-to-head with OpenAI. Image by Twitter While generative AI has already taken the world by storm ..."
-    publishedDateTime: 2023-06-05T15:08:00Z
-    webUrl: "https://www.fxempire.com/forecasts/article/how-generative-ai-powered-robots-are-shaking-things-up-1351853"
-    ampWebUrl: "https://amp.fxempire.com/en/how-generative-ai-powered-robots-are-shaking-things-up/1351853"
-    cdnAmpWebUrl: "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/how-generative-ai-powered-robots-are-shaking-things-up/1351853"
-    type: article
-    provider:
-      name: FXEmpire.com
-      domain: fxempire.com
-    quality: 54
 
 secured: "pHoulBKti5jsWtySQazUNFwoIdPNZ4rWHbgfR4RNhE6bJ3hFSBQiUjwCClnAMlhhf+XCv3yC0TeimnzRescLOCf8YtJ16uAWDAakVTGksdOQ6RRXbqYMfG8eGzLvmEIUMGgfAi3qvuVWCEFu3sn8ViszmlzwB39n6I1jCnFl3TjcHK7UwEEK5LP9RSJLozjHROhimLY7cA5tUIYCOP7SRVMOOCzXXH3AB0Y3h0QUu88JNNgNVPv1KDFFQHJZc5891BozXuOfu8zO1PbYBnl4VFTerd7dNHHb85DxOVejyU0MZH+zBlvKxobZOHSA7sIP46Qdcki1OMgyAooYJEKLZE6VAOXbmRm85U00BrbgAq0=;H+ArfeGqMb48dgK3xor0fQ=="
 ---

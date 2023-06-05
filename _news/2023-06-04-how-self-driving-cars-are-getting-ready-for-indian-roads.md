@@ -41,6 +41,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Self-driving Startup Minus Zero Unveils ZPod Vehicle Based On Camera-sensor Suite"
+    excerpt: "Autonomous vehicle zPod unveiled by MinusZero can drive itself in all environmental and geographical constraints using camera sensors."
+    publishedDateTime: 2023-06-05T16:25:00Z
+    webUrl: "https://www.republicworld.com/business-news/india-business/self-driving-startup-minus-zero-unveils-zpod-vehicle-based-on-camera-sensor-suite-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/self-driving-startup-minus-zero-unveils-zpod-vehicle-based-on-camera-sensor-suite-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/self-driving-startup-minus-zero-unveils-zpod-vehicle-based-on-camera-sensor-suite-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 39
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/mhzulyros2ktmjaj_1685942650.jpeg"
+        width: 768
+        height: 438
+        isCached: true
   - title: "India's first completely autonomous vehicle is unveiled by AI startup Minus Zero"
     excerpt: "India's first completely autonomous vehicle is unveiled by AI startup Minus Zero - Minus Zero, an artificial intelligence (AI) startup, unveiled what it claimed is India’s first"
     publishedDateTime: 2023-06-05T03:01:00Z

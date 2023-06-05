@@ -24,20 +24,72 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI has a Digital Blackface problem"
-    excerpt: "Generative AI has let brands like Levi's create digital BIPOC models for cheap. Advertisers now weigh how to use AI without cutting out BIPOC talent."
-    publishedDateTime: 2023-06-02T09:01:00Z
-    webUrl: "https://www.businessinsider.com/generative-ai-stokes-digital-blackface-accusations-advertisers-adjust-2023-6"
+  - title: "Generative AI can save marketing pros 5 hours per week, according to research"
+    excerpt: "Generative AI adoption in marketing reveals promising productivity gains with marketers estimating generative AI can save them the equivalent of over a month per year, making room for more meaningful work."
+    publishedDateTime: 2023-06-05T16:59:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-adoption-in-marketing-reveals-productivity-gains/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-adoption-in-marketing-reveals-productivity-gains/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-adoption-in-marketing-reveals-productivity-gains/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
     images:
-      - url: "https://i.insider.com/647908c6085acb0018ff3f1c?width=1200&format=jpeg"
+      - url: "https://www.zdnet.com/a/img/resize/16496ceb203eeb2527b2456b29f8cf1bfc83b0bb/2023/06/05/4cb060d3-f8af-4921-b60d-7f413238c35d/gettyimages-1466924677.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Funding for cloud-based generative AI"
+    excerpt: "Get ready for the rush of generative AI applications heading your way in 2024, but watch out for the size of the bill. Who is going to pay for it?"
+    publishedDateTime: 2023-06-02T09:04:00Z
+    webUrl: "https://www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/01/red-wheel-barrow_pile-of-money_high-paying-salary-100745643-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Generative AI can save 5 hours of marketing hustle every week: Salesforce report"
+    excerpt: "A survey from Salesforce and YouGov has revealed that generative AI can save marketers' five hours every week, or more than a month in a year."
+    publishedDateTime: 2023-06-05T15:19:00Z
+    webUrl: "https://venturebeat.com/ai/generative-ai-can-save-5-hours-of-marketing-hustle-every-week-salesforce-report/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1180183363-e1636482579984.jpg?w=1200&strip=all"
         width: 1200
         height: 600
         isCached: true
+  - title: "How Generative AI-Powered Robots Are Shaking Things Up"
+    excerpt: "Robots are making their way into nearly every sector of the ... Reports suggest that Musk is busy creating his own generative AI startup that would go head-to-head with OpenAI. Image by Twitter While generative AI has already taken the world by storm ..."
+    publishedDateTime: 2023-06-05T15:08:00Z
+    webUrl: "https://www.fxempire.com/forecasts/article/how-generative-ai-powered-robots-are-shaking-things-up-1351853"
+    ampWebUrl: "https://amp.fxempire.com/en/how-generative-ai-powered-robots-are-shaking-things-up/1351853"
+    cdnAmpWebUrl: "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/how-generative-ai-powered-robots-are-shaking-things-up/1351853"
+    type: article
+    provider:
+      name: FXEmpire.com
+      domain: fxempire.com
+    quality: 54
+  - title: "AntChain Launches New Privacy-Preserving Computing Platform, Providing Data Privacy Protection Solution for AI Machine Learning"
+    excerpt: "AntChain announced a new collaboration with Intel to launch AntChain Massive Data Privacy-Preserving Computing Platform (MAPPIC), a new privacy-preserving computing (PPC) platform that brings a data privacy protection solution for large-scale AI machine learning."
+    publishedDateTime: 2023-06-05T11:39:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/06/05/9825978.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "WDTYcowxYznTKfK5nMVUW50nboZbLxE2qiF3P8PiDhtkfDgGRJzD5bBC5kA/ZSynP9jPifnkW+Dh2d5PX7hjGubbaajs8Cs5Mx7tH/q8MzusrgUWBm21I4naLNMy4j59TXDF+1XG1ExiMDsvMViBh8zLh9SMuqdzdfw8yGfivl90JxwkbV78iOx2EUGrGrWfLmid1nHb4/kI0hXYbZaNhA+CzQgpmMibMIXOdnNnlSoAZBJ3+PRx/DUO1J/FJJXxHGZJjquXNEyulWVTHdF4YiFw270LgPlcTBiuJJvyRRpJYBas8s0+PXly5ZkE6gMhD6Fs1HLknJ/gEJRW30WsJUXfyyP8/Nu6m3KkocS9xPE=;pPxNAbYmJzob8XIlk1iNcQ=="
 ---

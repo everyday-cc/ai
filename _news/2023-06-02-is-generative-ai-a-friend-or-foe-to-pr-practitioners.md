@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/is-gener
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/02/is-generative-ai-a-friend-or-foe-to-pr-practitioners/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Funding for cloud-based generative AI"
-    excerpt: "Get ready for the rush of generative AI applications heading your way in 2024, but watch out for the size of the bill. Who is going to pay for it?"
-    publishedDateTime: 2023-06-02T09:04:00Z
-    webUrl: "https://www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3698451/funding-for-cloud-based-generative-ai.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/01/red-wheel-barrow_pile-of-money_high-paying-salary-100745643-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Newest Genesys Generative AI Capabilities Boost Power of Experience Orchestration"
     excerpt: "Using large language models, Genesys Cloud CX helps employees improve quality, speed and accuracy to drive stronger post-customer engagement"
     publishedDateTime: 2023-06-05T12:13:00Z

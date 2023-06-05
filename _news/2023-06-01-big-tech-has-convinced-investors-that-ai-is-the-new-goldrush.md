@@ -39,6 +39,22 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
+    publishedDateTime: 2023-06-01T13:10:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ai-chips-hot-investors-gold-99749108"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 68
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Nowhere for Investors to Hide From AI Hype"
     excerpt: "Investors thinking of putting money into artificial intelligence need to apply a little real intelligence first."
     publishedDateTime: 2023-06-02T11:00:00Z
@@ -150,6 +166,20 @@ related:
       name: 92.7 WMAY
       domain: wmay.com
     quality: 46
+  - title: "AI chips are hot: What they are, what they’re for and why investors see gold AI晶片在紅什麼？為何它是投資人眼中的金礦？"
+    excerpt: "Such chips have suddenly taken center stage in what some experts consider an AI revolution that could reshape the technology sector — and possibly the world along with it. Shares of Nvidia, the leading designer of AI chips,"
+    publishedDateTime: 2023-06-05T16:01:00Z
+    webUrl: "https://www.taipeitimes.com/News/lang/archives/2023/06/06/2003801017"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 40
+    images:
+      - url: "https://www.taipeitimes.com/images/2023/06/06/P14-230606-334.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "What are AI chips and why are they in big demand?"
     excerpt: "Artificial intelligence chips are designed specifically to make building AI systems such as ChatGPT faster and cheaper. They have suddenly taken centre stage in what some experts consider an AI revolu"
     publishedDateTime: 2023-06-05T12:33:00Z
@@ -159,20 +189,6 @@ related:
       name: Firstpost
       domain: firstpost.com
     quality: 34
-  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
-    publishedDateTime: 2023-06-01T09:31:00Z
-    webUrl: "https://www.local10.com/business/2023/06/01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
-    type: article
-    provider:
-      name: WPLG
-      domain: local10.com
-    quality: 33
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SIQQ7UVKUNDXRHQQE2TFZQO3RU.jpg?_a=ATCqVhC0"
-        width: 700
-        height: 467
-        isCached: true
   - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
     excerpt: "AI chips and their leading designer, Nvidia, are now at the center of what some experts consider an AI revolution that could reshape the technology sector and possibly the world along with it."
     publishedDateTime: 2023-06-01T18:30:00Z

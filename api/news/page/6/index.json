@@ -2,21 +2,21 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-05-31-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
-      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
-      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said.",
+      "path": "_news/2023-05-31-china-warns-of-artificial-intelligence-risks-calls-for-beefed-up-national-security-measures.md",
+      "title": "China warns of artificial intelligence risks, calls for beefed-up national security measures",
+      "excerpt": "The statement underscores the tension between the government’s determination to be technological leaders and concerns about the possible harms of such technologies.",
       "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html",
-      "originalUrl": "https://www.stltoday.com/news/whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems/article_f904fd40-d989-5782-8c5f-7669aadb68b8.html",
+      "webUrl": "https://www.nbcnews.com/news/world/china-warns-artificial-intelligence-risks-calls-beefed-national-securi-rcna87021",
+      "originalUrl": "https://www.nbcnews.com/news/world/china-warns-artificial-intelligence-risks-calls-beefed-national-securi-rcna87021",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 133,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/90/f904fd40-d989-5782-8c5f-7669aadb68b8/6477381e4afce.preview.jpg?crop=1739%2C914%2C24%2C33&resize=1200%2C631&order=crop%2Cresize",
-          "width": 1200,
-          "height": 631,
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230531-xi-jinping-jm-1004-8797e3.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-31T05:21:00-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna87021",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna87021",
+      "publishedDateTime": "2023-05-31T07:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
+        "name": "NBC News",
+        "domain": "nbcnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,8 +40,240 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-microsoft-vets-lead-secretive-education-startup-using-generative-ai-to-help-students-learn.md",
+      "title": "Microsoft vets lead secretive education startup using generative AI to help students learn",
+      "excerpt": "Two decades after selling their startup to Microsoft, Eran Megiddo and Liviu Asnash are going back to their entrepreneurial roots. The longtime Microsoft leaders are the co-founders of Maximal Learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/microsoft-vets-lead-secretive-education-startup-using-generative-ai-to-help-students-learn/",
+      "originalUrl": "https://www.geekwire.com/2023/microsoft-vets-lead-secretive-education-startup-using-generative-ai-to-help-students-learn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/05/Screen-Shot-2023-05-31-at-7.07.16-AM.png",
+          "width": 1088,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-lg-teams-up-with-canadian-startup-for-ai-chip-development.md",
+      "title": "LG teams Up with Canadian startup for AI chip development",
+      "excerpt": "Tenstorrent, founded in 2016, specializes in AI computer development, as reported by Yonhap. The CEO, Jim Keller, is a renowned microprocessor engineer celebrated for his achievements at AMD and Apple.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/technology/news/lg-teams-up-with-canadian-startup-for-ai-chip-development-2023-05-31-873619",
+      "originalUrl": "https://www.indiatvnews.com/technology/news/lg-teams-up-with-canadian-startup-for-ai-chip-development-2023-05-31-873619",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/05/lg-logo-1685541471.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/lg-teams-up-with-canadian-startup-for-ai-chip-development-2023-05-31-873619",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/lg-teams-up-with-canadian-startup-for-ai-chip-development-2023-05-31-873619",
+      "publishedDateTime": "2023-05-31T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-opinion-nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie.md",
+      "title": "Opinion: Nvidia and these 6 tech giants will gobble up the AI pie",
+      "excerpt": "In fact, the event was all about AI — from integrating artificial intelligence with Windows, Bing and developer tools. Note that many of the offerings were still in “preview” mode. As for Azure, its cloud platform, Microsoft is trying to catch ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8",
+      "originalUrl": "https://www.marketwatch.com/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-747436/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-and-these-6-tech-giants-will-gobble-up-the-ai-pie-394390a8",
+      "publishedDateTime": "2023-05-31T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-preventive-maintenance-vs-predictive-maintenance.md",
+      "title": "Preventive maintenance vs. predictive maintenance",
+      "excerpt": "Exploring some of the most commonly used proactive maintenance approaches.\nThe post Preventive maintenance vs. predictive maintenance appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/preventive-maintenance-vs-predictive-maintenance/",
+      "originalUrl": "https://www.ibm.com/blog/preventive-maintenance-vs-predictive-maintenance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T05:58:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-31-connected-products-at-the-edge.md",
+      "title": "Connected products at the edge",
+      "excerpt": "A look at the frequently overlooked phenomenon of connected products and how enterprises are using them to their advantage. \nThe post Connected products at the edge appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/connected-products-at-the-edge/",
+      "originalUrl": "https://www.ibm.com/blog/connected-products-at-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-31T05:55:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
       ]
     },
     {
@@ -983,238 +1215,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution.md",
-      "title": "The Amazon Echo Was Just The Beginning Of Alexa's Voice-First Revolution",
-      "excerpt": "With 47 very high quality voices in 23 languages. Finally Amazon Rekognition will allow Alexa projects to also use image recognition to add visual decoding to Alexa-like solutions. These tools are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/530109090/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/amp/",
-      "publishedDateTime": "2023-05-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-ai-risks-leading-humanity-to-extinction-experts-warn.md",
-      "title": "AI risks leading humanity to 'extinction,' experts warn",
-      "excerpt": "It's the most recent in a series of alarms raised by experts in artificial intelligence — but also one that stoked growing pushback against a focus on what seem to be its overhyped hypothetical harms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/ai-risks-leading-humanity-extinction-experts-warn-rcna86791",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/ai-risks-leading-humanity-extinction-experts-warn-rcna86791",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-05/230530-sam-altman-openAI-mn-0935-09934e.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna86791",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna86791",
-      "publishedDateTime": "2023-05-30T16:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-ai-and-the-battle-to-get-hybrid-working-right.md",
-      "title": "AI And The Battle To Get Hybrid Working Right",
-      "excerpt": "New technology has the potential to make the divide between in-person and remote working less apparent. But it also threatens many roles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rogertrapp/2023/05/30/ai-and-the-battle-to-get-hybrid-working-right/",
-      "originalUrl": "https://www.forbes.com/sites/rogertrapp/2023/05/30/ai-and-the-battle-to-get-hybrid-working-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64767a3aae90d099d7569955/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 757,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rogertrapp/2023/05/30/ai-and-the-battle-to-get-hybrid-working-right/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogertrapp/2023/05/30/ai-and-the-battle-to-get-hybrid-working-right/amp/",
-      "publishedDateTime": "2023-05-30T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-aws-announces-general-availability-of-amazon-security-lake.md",
-      "title": "AWS Announces General Availability of Amazon Security Lake",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Security Lake, a service that automatically centralizes an organization's security data from across their AWS environments,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/05/30/9822968.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/05/30/9822968.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-30T15:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence.md",
-      "title": "Prepare For An Expanded Job Market, Thanks To Artificial Intelligence",
-      "excerpt": "Don't produce the same output as a generative AI tool. Differentiate yourself by adding value on top of the base output.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/30/prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/30/prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62579c7e40a68b70f7243179/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/05/30/prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/05/30/prepare-for-an-expanded-job-market-thanks-to-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-05-30T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-06-05-microsoft-build-2023-brings-ai-tools-to-where-work-is-done-with-copilots-and-plugins.md",
+      "title": "Microsoft Build 2023 Brings AI Tools To Where Work Is Done With Copilots And Plugins",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead shares his highlights from Microsoft Build 2023 and examines how its latest AI developments fit into plugins and copilots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/05/microsoft-build-2023-brings-ai-tools-to-where-work-is-done-with-copilots-and-plugins/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/05/microsoft-build-2023-brings-ai-tools-to-where-work-is-done-with-copilots-and-plugins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/647e132a8740135a2713b283/0x0.jpg?format=jpg&width=1200",
+          "width": 624,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/06/05/microsoft-build-2023-brings-ai-tools-to-where-work-is-done-with-copilots-and-plugins/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/06/05/microsoft-build-2023-brings-ai-tools-to-where-work-is-done-with-copilots-and-plugins/amp/",
+      "publishedDateTime": "2023-06-05T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-05-snowflake-cio-identifies-ai-focus-in-2023-data-trends-report.md",
       "title": "Snowflake CIO identifies AI focus in 2023 data trends report",
       "excerpt": "Snowflake CIO optimistic about impact of AI on data trends, with Snowpark framework and acquisitions of search vendor Neeva and Streamlit.",
@@ -103,50 +155,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-microsofts-coreweave-deal-adds-ai-pressure-to-aws-google.md",
-      "title": "Microsoft’s CoreWeave Deal ‘Adds AI Pressure’ To AWS, Google",
-      "excerpt": "Microsoft’s AI deal with Nvidia backed CoreWeave for GPU and cloud infrastructure puts pressure on AWS and Google in the generative AI market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/microsoft-s-coreweave-deal-adds-ai-pressure-to-aws-google",
-      "originalUrl": "https://www.crn.com/news/cloud/microsoft-s-coreweave-deal-adds-ai-pressure-to-aws-google",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0282-182941c9d993-f3abf62ff777-1000/coreweave-logo.jpeg",
-          "width": 611,
-          "height": 458,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-02T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -253,58 +261,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-paycor-strengthens-talent-platform-with-ai-generated-job-description-feature-powered-by-microsoft-azure-openai-service.md",
-      "title": "Paycor Strengthens Talent Platform with AI-Generated Job Description Feature Powered by Microsoft Azure OpenAI Service",
-      "excerpt": "Newest Offering Automates the Process of Creating Job Descriptions, Optimizing the Talent Acquisition Process for Leaders CINCINNATI, June 1,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/paycor-strengthens-talent-platform-with-ai-generated-job-description-feature-powered-by-microsoft-azure-openai-service-1032364080",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/paycor-strengthens-talent-platform-with-ai-generated-job-description-feature-powered-by-microsoft-azure-openai-service-1032364080",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1738526/PaycorLogo_v2.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -1240,17 +1196,17 @@
     {
       "path": "_news/2023-05-24-microsoft-integrates-nvidias-ai-enterprise-suite-with-azure-machine-learning.md",
       "title": "Microsoft integrates Nvidia’s AI Enterprise Suite with Azure Machine Learning",
-      "excerpt": "Microsoft is integrating Nvidia’s AI Enterprise software suite with its Azure Machine Learning service to help enterprise developers build, deploy, and manage applications based on large language models. Nvidia’s AI Enterprise Suite aids in ...",
+      "excerpt": "Microsoft is integrating Nvidia’s AI Enterprise software suite with its Azure Machine Learning service to help enterprise developers build, deploy, and manage applications based on large ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/707309/microsoft-integrates-nvidia-ai-enterprise-suite-azure-machine-learning/",
-      "originalUrl": "https://www.reseller.co.nz/article/707309/microsoft-integrates-nvidia-ai-enterprise-suite-azure-machine-learning/",
+      "webUrl": "https://www.arnnet.com.au/article/707309/microsoft-integrates-nvidia-ai-enterprise-suite-azure-machine-learning/",
+      "originalUrl": "https://www.arnnet.com.au/article/707309/microsoft-integrates-nvidia-ai-enterprise-suite-azure-machine-learning/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/microsoft_headquarters_by_efes_kitap_cc0_via_pixabay_1200x800-100766833-orig-100916747-orig_2.jpgautowebp8570",
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/microsoft_headquarters_by_efes_kitap_cc0_via_pixabay_1200x800-100766833-orig-100916747-orig_2.jpgautowebp8570",
           "width": 472,
           "height": 315,
           "title": null,
@@ -1262,11 +1218,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-23T17:13:00-07:00",
+      "publishedDateTime": "2023-05-23T22:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
+        "name": "ARN",
+        "domain": "arnnet.com.au",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1487,6 +1443,58 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-23-azure-cosmos-db-joins-the-ai-toolchain.md",
+      "title": "Azure Cosmos DB joins the AI toolchain",
+      "excerpt": "Microsoft has introduced a spectrum of new tools to make it easier to customize and focus the output of GPT-based AI models. Cosmos DB plays an important role.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3696980/azure-cosmos-db-joins-the-ai-toolchain.html",
+      "originalUrl": "https://www.infoworld.com/article/3696980/azure-cosmos-db-joins-the-ai-toolchain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/07/10/artificial-intelligence-698122_1280-100698891-large-100932024-large.jpg?auto=webp&quality=85,70",
+          "width": 1199,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3696980/azure-cosmos-db-joins-the-ai-toolchain.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3696980/azure-cosmos-db-joins-the-ai-toolchain.amp.html",
+      "publishedDateTime": "2023-05-23T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

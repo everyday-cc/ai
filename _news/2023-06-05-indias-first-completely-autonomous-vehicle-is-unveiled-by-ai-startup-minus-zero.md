@@ -54,6 +54,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Self-driving Startup Minus Zero Unveils ZPod Vehicle Based On Camera-sensor Suite"
+    excerpt: "Autonomous vehicle zPod unveiled by MinusZero can drive itself in all environmental and geographical constraints using camera sensors."
+    publishedDateTime: 2023-06-05T16:25:00Z
+    webUrl: "https://www.republicworld.com/business-news/india-business/self-driving-startup-minus-zero-unveils-zpod-vehicle-based-on-camera-sensor-suite-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/self-driving-startup-minus-zero-unveils-zpod-vehicle-based-on-camera-sensor-suite-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/self-driving-startup-minus-zero-unveils-zpod-vehicle-based-on-camera-sensor-suite-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 39
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/mhzulyros2ktmjaj_1685942650.jpeg"
+        width: 768
+        height: 438
+        isCached: true
 
 secured: "6hAkLXltNt2u4il5Q7bH4DRI7MnuSpK5XZDSI8jh+48YtXOO5JJLFeXMKDxO9wCs3F0K342iaL2VQb8ga5tuADUnkL9g13WUlnCVFJUs2qgFtGJ7dd+kDSaqWRkK8Yo99XjvlB753WIANpZhiP6kL9PhF62k0VJ1IZ5jQXparXYLzDk9wlEvBu+O6IH/ykCSszU8Ggdo918TWv1jRGEYMEFSgjxZzn3Wo41hpBV3UL3mXewrlvQ1/p7DWlkoKRtL5jmX81lkqeMabisYECR9ttJipx8WkQzC9uBPwce+yH1bkngv3aov0kJL6awR872UZljWbPBO+bOyLRTmpMnM7fzJMPXl46hPKphzTqUcUi6Yfqry/hrOOM3VUSgET+yNV760DHYv9XzLplxzEMbCC6J4LiIoonhm6STLGsyznmLFo5SECgTgwFmcWpWjqLopEoYcFH16r8X38NJaHzE86V8zrouk/DBNk0y8WX1xyK4oAH7WZ8MCuSpheTgumSuUSn4Nnr+IO8WVCiq+JnsNpA==;swlO5cVqq5ipLJO+3RvxCA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/cars/indias-first-self-driving-
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/indias-first-self-driving-car-unveiled-by-bengaluru-based-startup-with-plans-to-emulate-tesla-google/amp-41685937249629.html"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Self-driving Startup Minus Zero Unveils ZPod Vehicle Based On Camera-sensor Suite"
+    excerpt: "Autonomous vehicle zPod unveiled by MinusZero can drive itself in all environmental and geographical constraints using camera sensors."
+    publishedDateTime: 2023-06-05T16:25:00Z
+    webUrl: "https://www.republicworld.com/business-news/india-business/self-driving-startup-minus-zero-unveils-zpod-vehicle-based-on-camera-sensor-suite-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/business-news/india-business/self-driving-startup-minus-zero-unveils-zpod-vehicle-based-on-camera-sensor-suite-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/self-driving-startup-minus-zero-unveils-zpod-vehicle-based-on-camera-sensor-suite-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 39
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/mhzulyros2ktmjaj_1685942650.jpeg"
+        width: 768
+        height: 438
+        isCached: true
   - title: "India's first completely autonomous vehicle is unveiled by AI startup Minus Zero"
     excerpt: "India's first completely autonomous vehicle is unveiled by AI startup Minus Zero - Minus Zero, an artificial intelligence (AI) startup, unveiled what it claimed is India’s first"
     publishedDateTime: 2023-06-05T03:01:00Z
@@ -56,6 +72,6 @@ related:
         height: 367
         isCached: true
 
-secured: "i+WiLCDlfJd/QNONtQ7LHXGnuMEE2qATPfuoApu1zaqEOIVCDqsFkSQcQ7CGA0SOzdzoZ/JorSWsEtQ5GqIyGa3TNu4f9Of1I3uOGkU0ah434tuj3KLt3e0EQJ4aKfzy3+fmUlcskv+ImthXFM4XHHokOxLndhv3ic++9SexeH8PqwAF5UrfdcyQyi505i1NPXRj8gfuDSmR5ZurK710SO/WlUJ9uW/sdQQdeoXNejkVAeGlvMqwWdeZOapxpH8Nxs532cDLlTLM1Gg3EHY2Zi8bIHw3Bb+ZvJ4jLZ5A/vyb2NL9ZHAM4RErCovcgKi+JF1R9HXG83WrX2R6dIA0tXmLlC5sqfdR/wwx3N0W6Z8=;bFd9Sq8tGaIKsQyjxUSMkw=="
+secured: "meAeyQd7T3EjX5/gBf2fy5LZV+XjSZnh9aVkDDAalDHVUJSMZpg0H2hNbd4XjaQyYGzZ5yBPio95HmZWJg3dUrx2g2lg2lRPtwItTg8kTAXTsvp9NK4DLdrEyIFFRQEga6o67ZY5ZrBt0EZDwQla+/Qu5VZ/B3GpGRubVIs8yoKnK6AxYTxn/5Q/es7D5qNynbI/2dOprjOhMcNj118PKdQYLoOQ7nmnw/NYrGbebcYDdcwkAZwkUKEtvXIP8HbdRQDKvxsTwA3xz5rUEI/AHX23FN6Gs+YK18gh5LAN7de0iz3L4H1jI6Su2EqmjfdXTkKwk/hTMrNKFP0IJ7oD6K81x+yHnfjuOdcVbzso1NP2YAwrXZVIP9dq3Rv9pYWhEQo3lhe3vqNWEnjT0JQOmYekHVg7C9Z4JIpKnzeqtMZf/4kdvk+K78UMsdIu0c5PjWYdHFSSq4/a8y1BwHfY8PbYa4GbWXUrrsWZPL9HmPBhRsi3zhHiP2HN08qvi0ScUpTz/ZH7c5nb1w98TuDwWQ==;+GPnukIjTQVExZEK5QQHhA=="
 ---
 
