@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna87021"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna87021"
 type: article
 quality: 93
-heat: 153
+heat: 133
 published: true
 
 provider:
@@ -73,22 +73,6 @@ related:
         width: 800
         height: 527
         isCached: true
-  - title: "China warns of risks from artificial intelligence, calls for beefed-up national security measures"
-    excerpt: "BEIJING -- China warns of risks from artificial intelligence, calls for beefed-up national security measures."
-    publishedDateTime: 2023-05-31T05:27:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/china-warns-risks-artificial-intelligence-calls-beefed-national-99716270"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/china-warns-risks-artificial-intelligence-calls-beefed-national-99716270"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/china-warns-risks-artificial-intelligence-calls-beefed-national-99716270"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 61
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "AI in China: Xi aims for balance between progress and protection"
     excerpt: "China calls for heightened national security measures for artificial intelligence. A meeting chaired by President Xi Jinping emphasized the need to safeguard political security and improve security governance of internet data and artificial intelligence."
     publishedDateTime: 2023-05-31T15:57:00Z
@@ -103,15 +87,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Alert: China warns of risks from artificial intelligence, calls for beefed-up national security measures"
-    excerpt: "China warns of risks from artificial intelligence, calls for beefed-up national security measures."
-    publishedDateTime: 2023-05-31T05:19:00Z
-    webUrl: "https://www.chron.com/news/world/article/alert-china-warns-of-risks-from-artificial-18127134.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 17
 
 secured: "bUveM5ptGuDUPCt4G9yMuw43tLVta5YVcFI+oOvfuf83RrkFHUofiG76/jKWJ/r+ZRYTF2EZ1bCBdy/OXGFfOCDnhI6x9qulisYPBuELX3RxZlGSF1rpGsmwGFxVOFpJdShtpLHtpEL0yw3PBAXViXBFFSyiUYCSRIJN77b6hNfJBlhtzBAYslUcUx1rWjfcCb5Iedpc//xZSqeC2Uu/wH2HvvChFq/7R7S0FF5y3+aFdHw4Gdzqb15FGK6Bd4gu9Fwt6mcGd0Wn2jaqGaULACi8481nvd71TfAUVjn4By6MWA8IAVuNbjAuifQRMMQeSnFNbParWIVEX16hXNjs2TtZAFJLnRzSZWLOQHWHJKc3nwsmm0r1EBtlDsDeE633GD44k35gIuGW2xvw/R0nBA3oI2rTc9WAzIsx2G0xz43v1KmMqrE1CjhVLOMCC27DHxVBU5baLGRv2xZBPXDcCqs4YIzP7g55vsczOgJ+9mAMedicwMZsspaQ2zVVZhkgVac+yVVg+Z35KvkkMqrfew==;GKGjDkGFl7gIZ/yud9LmDA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/news/taiwan-s-foxconn-predicts-huge-grow
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Barron's
@@ -41,15 +41,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Foxconn forecasts its AI server business will double in second half of 2023"
-    excerpt: "Foxconn forecasts its AI server business will at least double in the second half of this year, making the world’s biggest contract electronics manufacturer — best known for making the iPhone — the latest beneficiary of the rapid rise of generative artificial intelligence systems such as ChatGPT."
-    publishedDateTime: 2023-05-31T06:25:00Z
-    webUrl: "https://www.ft.com/content/52c535ad-1f29-4ac9-9ba4-84065efef442"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 15
 
 secured: "HiWZexn9zSejjaYK9hFJyX/aiPph+jSQ/5wEG8Gj0biGqu+cu0c3Ak/yqdyFhbBBckiw0AuHUhXq2PI6Z7vwvCaUO4RuXa8tYnDnEe9hloBHFY0uGrU1c2pUYYU5T5k8vK5Nojir/3XIX+uN8y89sHlt7t4poOTpy1qlQRz0IgVzWRWFgfxlxTjVVu8QZNCqt2pWpjqDijXiCCn9GtyiN1HFnYKMJl034kY1sbHkf4deBrPRytFaTK3WgP1SNBMCOGh9R+eJRe9EU7gqdvTZ08mjSzk8BwgOPvw0lhSbDI5kKVMGgE9+5EqEbiUh1i0by2LH/GmFEOeWGNR2mYTqFMwpdoAn+VCg3DftBjW3vt0=;f/R1hKBOee3A5RhdTsUXhA=="
 ---

@@ -126,6 +126,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 71
+  - title: "ChatGPT and the Future of Banking: How AI Is Revolutionizing Financial Services"
+    excerpt: "How AI Is Revolutionizing Financial Services By Raghuram Madiraju​ ChatGPT is a conversational artificial intelligence (AI) platform that has taken the world by storm. Part of its popularity is due to its responses being so human-like."
+    publishedDateTime: 2023-06-02T16:13:00Z
+    webUrl: "https://www.globalbankingandfinance.com/chatgpt-and-the-future-of-banking-how-ai-is-revolutionizing-financial-services/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/chatgpt-and-the-future-of-banking-how-ai-is-revolutionizing-financial-services/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/chatgpt-and-the-future-of-banking-how-ai-is-revolutionizing-financial-services/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 70
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2023/06/iStock-1488400461.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "InnovationRx: The Cost Of Social Care; Plus, AI To Predict Heart Failure"
     excerpt: "The lead author is Sanjay Basu, a doctor and the cofounder of Waymark Health, a startup whose launch we profiled last year. Waymark is trying to help better coordinate care for patients on Medicaid, the government-funded health insurance for low-income ..."
     publishedDateTime: 2023-05-31T21:40:00Z
@@ -209,15 +225,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "How the Banking Industry Can Capitalise on Conversational AI"
-    excerpt: "Conversational AI has quickly captured the intense interest of consumers and businesses, including banks. The technology promises to help banks achieve hyper-personalised service delivery but requires productive AI platforms."
-    publishedDateTime: 2023-05-31T06:37:00Z
-    webUrl: "https://internationalbanker.com/banking/how-the-banking-industry-can-capitalise-on-conversational-ai/"
-    type: article
-    provider:
-      name: International Banker
-      domain: internationalbanker.com
-    quality: 21
 
 secured: "gWAqGnNDMsS/S8D8PcabgPvVDiccmRvYNom5qE3QUbn8U+BZMk30Zo9jJbSXMP5ZmDWCtbRwYxfoxJEOVKUW+NV8ZZXNdGZSSiSOEyUW6CumU0D2Uett3OOCGUxYyn0GoCwrEvU9A8WrQHQ1E5X+FkLMOx5EqujkI1dTKv9DmF//f8+7zd2epmHEBOKsIUa15UvnRgnIf5Ftfvaqb15iYWWqNXWDd+ikVTWLXuS3Rp7RIxfpJlzU3pZC4jm+q5+quutPOdqB14HRGcbdDKVY+kjmiN9+t0+0Rzn79jDYCjlhdVfLAfa59vqvYzZdUGdCYU/PqDLfxILw1UGdwXVgI5yeMg38X5s9MmpLKXLxEqBtWp98r0j9Ofj7y4cVX8SlVwt5n/Tuw2qIp3tDuYcVP+PHHXiZD53FDQFeR29Zayqe8inXeG/P0S4jjCtSXK8iMT6mtA7d53Lp2M4B87eW5nXG/J0fc9imwQYw44qbyrVHfkX6jFg4h1S8vSzNUk76nLFcUy4/CzWjy/Q2DKIWjQ==;e+9rvX2cS+MbZJf1wUpq7A=="
 ---

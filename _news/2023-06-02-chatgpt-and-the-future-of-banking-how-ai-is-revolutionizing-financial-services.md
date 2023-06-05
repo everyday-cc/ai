@@ -1,25 +1,30 @@
 ---
 category: news
-title: "Notion Projects Aims To Revolutionize Workplace Collaboration, With The Help Of AI"
-excerpt: "Notion hopes that AI can help cut down on the fragmentation within this space with its new product, Notion Projects"
-publishedDateTime: 2023-05-31T13:00:00Z
-originalUrl: "https://www.forbes.com/sites/johanmoreno/2023/05/31/notion-projects-shows-how-ai-can-revolutionize-workplace-collaboration/"
-webUrl: "https://www.forbes.com/sites/johanmoreno/2023/05/31/notion-projects-shows-how-ai-can-revolutionize-workplace-collaboration/"
+title: "ChatGPT and the Future of Banking: How AI Is Revolutionizing Financial Services"
+excerpt: "How AI Is Revolutionizing Financial Services By Raghuram Madiraju​ ChatGPT is a conversational artificial intelligence (AI) platform that has taken the world by storm. Part of its popularity is due to its responses being so human-like."
+publishedDateTime: 2023-06-02T16:13:00Z
+originalUrl: "https://www.globalbankingandfinance.com/chatgpt-and-the-future-of-banking-how-ai-is-revolutionizing-financial-services/"
+webUrl: "https://www.globalbankingandfinance.com/chatgpt-and-the-future-of-banking-how-ai-is-revolutionizing-financial-services/"
+ampWebUrl: "https://www.globalbankingandfinance.com/chatgpt-and-the-future-of-banking-how-ai-is-revolutionizing-financial-services/"
+cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/chatgpt-and-the-future-of-banking-how-ai-is-revolutionizing-financial-services/"
 type: article
-quality: 41
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: List of Banks in Belarus
+  domain: globalbankingandfinance.com
 
 topics:
+  - AI in Finance
   - AI
+
+images:
+  - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2023/06/iStock-1488400461.jpg"
+    width: 750
+    height: 422
+    isCached: true
 
 related:
   - title: "Accelerating AI & Innovation: the future of banking depends on core modernization"
@@ -123,22 +128,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 71
-  - title: "ChatGPT and the Future of Banking: How AI Is Revolutionizing Financial Services"
-    excerpt: "How AI Is Revolutionizing Financial Services By Raghuram Madiraju​ ChatGPT is a conversational artificial intelligence (AI) platform that has taken the world by storm. Part of its popularity is due to its responses being so human-like."
-    publishedDateTime: 2023-06-02T16:13:00Z
-    webUrl: "https://www.globalbankingandfinance.com/chatgpt-and-the-future-of-banking-how-ai-is-revolutionizing-financial-services/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/chatgpt-and-the-future-of-banking-how-ai-is-revolutionizing-financial-services/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/chatgpt-and-the-future-of-banking-how-ai-is-revolutionizing-financial-services/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 70
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2023/06/iStock-1488400461.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "InnovationRx: The Cost Of Social Care; Plus, AI To Predict Heart Failure"
     excerpt: "The lead author is Sanjay Basu, a doctor and the cofounder of Waymark Health, a startup whose launch we profiled last year. Waymark is trying to help better coordinate care for patients on Medicaid, the government-funded health insurance for low-income ..."
     publishedDateTime: 2023-05-31T21:40:00Z
@@ -185,6 +174,15 @@ related:
         width: 1312
         height: 738
         isCached: true
+  - title: "Notion Projects Aims To Revolutionize Workplace Collaboration, With The Help Of AI"
+    excerpt: "Notion hopes that AI can help cut down on the fragmentation within this space with its new product, Notion Projects"
+    publishedDateTime: 2023-05-31T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/05/31/notion-projects-shows-how-ai-can-revolutionize-workplace-collaboration/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 41
   - title: "Africa is Embracing the Artificial Intelligence Innovation Wave, says Experts"
     excerpt: "The rise of Artificial intelligence and its revolutionary impact on African business, society, and culture led discussions during the GITEX Africa."
     publishedDateTime: 2023-06-03T14:09:00Z
@@ -228,6 +226,6 @@ related:
         height: 500
         isCached: true
 
-secured: "DRxh9MLnbCnMymC0D3Sc2Pd8vf9wofuob43P4FPfjC0HQv/9y0yu5ouMmdSkXldQQkH+Ik3ooZz8v0zW6W09mbCikJvvf2PZY8SGWEmkbCg1wJeLU/b53fkWj+2qN5/UFXzTPSKKdY/VZbxOfhKSwlSoqFm9HRArJKgCJKdvJZqDsHxGj/ZSUeJAeDkoOFyksMwiT1kcOv73e8XgDWLXNLjlAFSqRV0pFMHXrMv2kmSbSbe4ro11tamymh+xh9k4oI1gzGwb4e3eWsXxCRX4GVzXbIjmmv1rZIIjgtTuB2t/66YSKWJUnmg3qo2fMxe4eJQmGovTum9MHZ5JKgDiJ9bm8iyK4ebtdxP3Wkn5KncrHJM8jPTpsEct9dhb8mIclQ+m9rxQ5RJjrINzhtrOEZtYY0Gt+ub67loSJgDx0BfEfiUKrPPfbu4LfB8Rq0QnUlfXzi2kfipOY7jDbOvHFwYA/FqMTfezTsQngT3DKmbdtygwPZtkPeFmwWZRIMGzkHI+GBo/enJA31q1cjfrHg==;c2ygAyPWY3hqpAT1vjawcw=="
+secured: "Yk9gFZ9eRSRZGCMcSfDlNbNjNX5t1kWnAaPvwJQ/alF8RoTVJ8t8HRRAKDWg8dDnhMjSufj8PxBBJos5EdztWeYEh6dayXhDSCHGFPool6qiUNHo9vLK16xB+VcRRjMHheL2k+qMdX7ayzzYXtf/7KvPl21pLirGymUASTaTFUrv88EQlFEFZD/As5E7kVX3Yp/laoTAAhdRYmQi+KvCwSUPsdSDpixOgNwZnhDmVlPwMMNhOT8DQgabN8WyhO1sWpzOY7d75v9oQj1eturZldzcz4rhBFVicGSOWtN3Q0OtOZZfUP3WYBHhF2mivNgGlXSL5u0mlobTttMh/SP1V5eanvc9DKeM3EDbe/+5cNI=;jUkr9yZrcrQJRxoHsR+2tQ=="
 ---
 

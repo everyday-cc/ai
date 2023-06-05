@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/7-ways-you-didnt-know-you-c
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/7-ways-you-didnt-know-you-can-use-bing-chat-and-other-ai-chatbots/"
 type: article
 quality: 87
-heat: 143
+heat: 137
 published: true
 
 provider:

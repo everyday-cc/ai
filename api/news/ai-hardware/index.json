@@ -140,7 +140,7 @@
       "originalUrl": "https://time.com/6284046/nvidia-ai-chips-investment/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -237,7 +237,7 @@
       "originalUrl": "https://www.scmp.com/tech/tech-war/article/3222529/nvidias-ceo-plans-trip-meet-chinese-tech-executives-despite-us-curbs-ai-chips",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -416,49 +416,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-31-taiwans-foxconn-predicts-huge-growth-in-ai-server-business.md",
-      "title": "Taiwan's Foxconn Predicts Huge Growth In AI Server Business",
-      "excerpt": "Taiwanese tech giant and key Apple supplier Foxconn predicts three-digit growth for its artificial intelligence server business due to robust demand for AI products such as ChatGPT, its chairman said Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740?refsec=topics_afp-news",
-      "originalUrl": "https://www.barrons.com/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740?refsec=topics_afp-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP6595984239764979366134169632271358072436---1.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/taiwan-s-foxconn-predicts-huge-growth-in-ai-server-business-98705740",
-      "publishedDateTime": "2023-05-31T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1472,6 +1429,40 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-05-27-traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom.md",
+      "title": "Traditional Chip Makers Struggle as GPU Manufacturers Thrive in AI Boom",
+      "excerpt": "The surging demand for AI has brought the stock market’s recent performance into focus, revealing the diverging paths of traditional chip makers and GPU manufacturers and highlighting the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom",
+      "originalUrl": "https://www.nasdaq.com/articles/traditional-chip-makers-struggle-as-gpu-manufacturers-thrive-in-ai-boom",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-27T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

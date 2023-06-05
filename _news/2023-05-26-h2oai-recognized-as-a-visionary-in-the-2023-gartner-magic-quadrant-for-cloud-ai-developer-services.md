@@ -1,20 +1,20 @@
 ---
 category: news
 title: "H2O.ai Recognized as a Visionary in the 2023 Gartner® Magic Quadrant™ for Cloud AI Developer Services"
-excerpt: "“We believe H2O AI Cloud is one of the best autoML and enables organizations to build predictive models and gain insights from their data quickly and easily. “As a community powered ..."
-publishedDateTime: 2023-05-26T16:24:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20230526005264/h2oai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services"
-webUrl: "https://www.morningstar.com/news/business-wire/20230526005264/h2oai-recognized-as-a-visionary-in-the-2023-gartner-magic-quadrant-for-cloud-ai-developer-services"
+excerpt: "The AI cloud leader, H2O.ai, announced it has been named a Visionary in the 20223 Gartner Magic Quadrant for Cloud AI Developer Services. \"H2O.ai is excited to be recognized by Gartner to be the only Visionary in the 2023 Magic Quadrant for Cloud AI Developer Services,"
+publishedDateTime: 2023-05-26T16:37:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/05/26/9821977.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/05/26/9821977.htm"
 type: article
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "ElDYbMA4jsC4Mk8URvJXrG+uhshYO6uAXsHcYRZh6Ytgd6MnU5zX05dHw1D7faisHuzCRMSdKAs7Yfg20zZrkSG3Go95Mqj1pt8tugYPkF0fSN+iuDOyq9BrRg5HouzLJs5IaW/uA3BgNlMcpuSO/tzupMT6I3coJR0MeEdZfUcOg/K6S39Zn3qLe7KLHcPPWlGViVDNFuoDsxl881zLIWUyzhfYTLEmwRfSGA9qGUmAb4qm75Rbm1DxwUmbw30dC82ewCg2dL+ErkeCSLCe4DkRUF7qXcDkODSPyKQeb0xhXcZjeNqzKQpuuqi14jhLpMCy8MPMNIdZWjradnYAcq9dgKXqJRSaE+GjK/8tCAA=;RdbS3jLeJCDfkVPMpP6oAA=="
+secured: "3RmQuUV8eY3R5RJGVpmp0Xl1GwhhKfUd1G9OvGHv6xFsoFjxEo1sdiEqOKsiXm4rPAQYgnyPPn+Nyqh5TzsxdR8pnc6M+iiHeKvFLFIe6to/mMxSQ80jhBdehfHWuRHCLV+Liho4FXvH3LA3THSTvv6RdmfFJ//uGtrqKXrkKk2qPDxDX/2JfLjCW5+yeEYvETRqG4wq2rS4ZyislA530VduZIruiosqiUIGK229UWVKdySt4XDnpEoa1CgPONtSWYxETo7e3ZUJO98oy1h3tcu2xidubDzAcyQkCvcf+uILAFx6M81EO1LEF4upYsO4Ar2N/WF4NUg11c7FxAl4r3Fam7dZh3M7IDhGngG/uq0=;ctVhUxhBNQpb9LDGpdq0CQ=="
 ---
 

@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-06-02-a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence.md",
+      "title": "A Quantum Leap In AI: IonQ Aims To Create Quantum Machine Learning Models At The Level Of General Human Intelligence",
+      "excerpt": "At some point, quantum systems will more easily handle the ongoing exponential growth in data compared to classical computers, which may struggle to keep up. Theoretically, at some point in the not-too-distant future,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6479fa2e14cc95f64c13b283/0x0.jpg?format=jpg&width=1200",
+          "width": 624,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/amp/",
+      "publishedDateTime": "2023-06-02T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-fears-of-ai-are-greatly-exaggerated.md",
       "title": "Fears Of AI Are Greatly Exaggerated",
       "excerpt": "Of course there are the usual worker concerns about wages, but fears have also been expressed of how ChatGPT and like AI applications will replace writers. Apart from Hollywood’s concerns, there are also more widespread job fears.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.forbes.com/sites/miltonezrati/2023/06/02/fears-of-ai-are-greatly-exaggerated/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -93,49 +146,6 @@
       "topics": [
         "IBM AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-02-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
-      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
-      "excerpt": "Ameca can speak French, Chinese or dozens of other languages, instantly compose a poem or sketch a cat on request. Ask for a smile, and you'll get a clenched grin on her rubbery blue face.",
-      "sourceUrl": null,
-      "webUrl": "https://abc13.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "originalUrl": "https://abc13.com/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/13331042_AI-human-robot-AP-TN-img.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "cdnAmpWebUrl": "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/robots-ai-powered-humanoid-machine-artificial-intelligence-international-conference-on-robotics-and-automation/13331019/",
-      "publishedDateTime": "2023-06-02T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abc13",
-        "domain": "abc13.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -243,6 +253,49 @@
       ]
     },
     {
+      "path": "_news/2023-06-02-whats-new-in-robots-an-ai-powered-humanoid-machine-that-writes-poems.md",
+      "title": "What's new in robots? An AI-powered humanoid machine that writes poems",
+      "excerpt": "Ameca is a humanoid robot powered by generative artificial intelligence that gives it the ... someone who's not a member of the team could start using quickly, Ph.D. student Max Schwarz said.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/new-robots-ai-powered-humanoid-machine-writes-poems-99699972",
+      "publishedDateTime": "2023-06-02T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-06-02-generative-ai-has-a-digital-blackface-problem.md",
       "title": "Generative AI has a Digital Blackface problem",
       "excerpt": "Generative AI has let brands like Levi's create digital BIPOC models for cheap. Advertisers now weigh how to use AI without cutting out BIPOC talent.",
@@ -292,6 +345,49 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-game-on-emirates-group-and-aws-team-up-to-craft-an-immersive-digital-world.md",
+      "title": "Game On! Emirates Group and AWS team up to craft an immersive digital world",
+      "excerpt": "The Emirates Group is on a immersive digital journey to transform its employee experiences by collaborating with Amazon Web Services (AWS).",
+      "sourceUrl": null,
+      "webUrl": "https://www.traveldailymedia.com/game-on-emirates-group-and-aws-team-up-to-craft-an-immersive-digital-world/",
+      "originalUrl": "https://www.traveldailymedia.com/game-on-emirates-group-and-aws-team-up-to-craft-an-immersive-digital-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.traveldailymedia.com/assets/2023/06/ixr1-scaled.jpg",
+          "width": 2048,
+          "height": 1638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.traveldailymedia.com/game-on-emirates-group-and-aws-team-up-to-craft-an-immersive-digital-world/amp/",
+      "cdnAmpWebUrl": "https://www-traveldailymedia-com.cdn.ampproject.org/c/s/www.traveldailymedia.com/game-on-emirates-group-and-aws-team-up-to-craft-an-immersive-digital-world/amp/",
+      "publishedDateTime": "2023-06-02T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Travel Daily Media",
+        "domain": "traveldailymedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -899,7 +995,7 @@
       "originalUrl": "https://www.infoworld.com/article/3698271/microsoft-offers-azure-ml-data-import-cli-sdk-for-snowflake-other-databases.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -941,6 +1037,58 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-06-02-top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative.md",
+      "title": "Top AI researcher dismisses AI ‘extinction’ fears, challenges ‘hero scientist’ narrative",
+      "excerpt": "Kyunghyun Cho, a prominent AI researcher and associate professor at NYU, expressed frustration with the current discourse around AI risk.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative/",
+      "originalUrl": "https://venturebeat.com/ai/top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/06/Ez6kELuXoAQ7r_B.jpeg?w=1200&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-06-01T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -1078,151 +1226,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-automation-anywhere-collaborates-with-aws-to-empower-enterprise-processes-with-generative-ai.md",
-      "title": "Automation Anywhere collaborates with AWS to empower enterprise processes with generative AI",
-      "excerpt": "Automation Anywhere will utilize Amazon SageMaker JumpStart and Bedrock to provide enhanced generative AI capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/automation-anywhere-collaborates-aws-empower-enterprise-processes-generative-ai/",
-      "originalUrl": "https://venturebeat.com/ai/automation-anywhere-collaborates-aws-empower-enterprise-processes-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/06/AIAAI-VentureBeat-2023-Banner-Ads-1200x675-05312023.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-06-01T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-what-ai-cant-do-and-what-great-leaders-will-do.md",
-      "title": "What AI Can’t Do And What Great Leaders Will Do",
-      "excerpt": "As AI masters language, it will more easily fool us; reconnecting with the bodily resonance of language helps leaders put AI in service of life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ginnywhitelaw/2023/06/01/what-ai-cant-do-and-what-great-leaders-will-do/",
-      "originalUrl": "https://www.forbes.com/sites/ginnywhitelaw/2023/06/01/what-ai-cant-do-and-what-great-leaders-will-do/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6478ab86174558bfeb7b69d9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ginnywhitelaw/2023/06/01/what-ai-cant-do-and-what-great-leaders-will-do/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ginnywhitelaw/2023/06/01/what-ai-cant-do-and-what-great-leaders-will-do/amp/",
-      "publishedDateTime": "2023-06-01T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-06-01-tottenhams-harry-kane-hopes-artificial-intelligence-can-help-reduce-injuries.md",
-      "title": "Tottenham's Harry Kane hopes artificial intelligence can help reduce injuries",
-      "excerpt": "Kane announced on Thursday his investment in OxeFit, an AI-driven fitness-tech startup, and said he is convinced in the power of real-time data to stop injuries. \"It's been a real shame to see some of the women players go down with those injuries and big injuries as well,",
-      "sourceUrl": null,
-      "webUrl": "https://www.espn.com/soccer/story/_/id/37772984/tottenham-harry-kane-hopes-artificial-intelligence-help-reduce-injuries",
-      "originalUrl": "https://www.espn.com/soccer/story/_/id/37772984/tottenham-harry-kane-hopes-artificial-intelligence-help-reduce-injuries",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0601%2Fr1181036_1296x729_16%2D9.jpg",
-          "width": 1296,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.espn.com/soccer/story/_/id/37772984/tottenham-harry-kane-hopes-artificial-intelligence-help-reduce-injuries?platform=amp",
-      "cdnAmpWebUrl": "https://www-espn-com.cdn.ampproject.org/c/s/www.espn.com/soccer/story/_/id/37772984/tottenham-harry-kane-hopes-artificial-intelligence-help-reduce-injuries?platform=amp",
-      "publishedDateTime": "2023-06-01T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ESPN",
-        "domain": "espn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

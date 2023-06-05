@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/automation-anywhere-collaborates-aws-em
 webUrl: "https://venturebeat.com/ai/automation-anywhere-collaborates-aws-empower-enterprise-processes-generative-ai/"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "How to create generative AI confidence for enterprise success"
+    excerpt: "With transparency and an anti-hallucination framework companies will start to get the benefits of generative AI without the drawbacks."
+    publishedDateTime: 2023-06-04T23:10:00Z
+    webUrl: "https://venturebeat.com/ai/how-to-create-generative-ai-confidence-for-enterprise-success/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1341634418.jpg?w=1200&strip=all"
+        width: 1200
+        height: 579
+        isCached: true
   - title: "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
     excerpt: "Automation Anywhere today announced it is working with Amazon Web Services (AWS) to bring intelligent automation and"
     publishedDateTime: 2023-06-01T16:38:00Z

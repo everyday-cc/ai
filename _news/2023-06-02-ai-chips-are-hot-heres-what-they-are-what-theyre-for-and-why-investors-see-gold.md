@@ -19,37 +19,49 @@ topics:
   - AI
 
 related:
-  - title: "AI is the future of health care, but here's what it can never replace"
-    excerpt: "AI should be viewed as a tool to assist a physician by removing tedious administrative tasks, enhancing diagnostic capability, and improving patient outcomes."
-    publishedDateTime: 2023-05-31T06:00:00Z
-    webUrl: "https://www.foxnews.com/opinion/ai-future-health-care-heres-what-can-never-replace"
-    ampWebUrl: "https://www.foxnews.com/opinion/ai-future-health-care-heres-what-can-never-replace.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/ai-future-health-care-heres-what-can-never-replace.amp"
+  - title: "Investors See AI Chips as New Gold. Here’s Why"
+    excerpt: "AI chips have suddenly taken center stage in what is considered an AI revolution that could reshape the technology sector—and the world"
+    publishedDateTime: 2023-06-01T07:53:00Z
+    webUrl: "https://time.com/6284046/nvidia-ai-chips-investment/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 89
+      name: Time
+      domain: time.com
+    quality: 84
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7cd60392-d2ad-44a6-81e7-6e274b66a4ae/2d72dd9f-59e1-4876-970b-40c3f8b45c87/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
         isCached: true
-  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
-    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics"
-    publishedDateTime: 2023-06-01T13:10:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/ai-chips-hot-investors-gold-99749109"
+  - title: "Nowhere for Investors to Hide From AI Hype"
+    excerpt: "Investors thinking of putting money into artificial intelligence need to apply a little real intelligence first."
+    publishedDateTime: 2023-06-02T11:00:00Z
+    webUrl: "https://www.wsj.com/articles/nowhere-for-investors-to-hide-from-ai-hype-7cb52fd7"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 68
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://s.abcnews.com/images/US/wirestory_9eee108170a799986c066f70829a7215_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://images.wsj.net/im-792763/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Nowhere for Investors to Hide From AI Hype"
+    excerpt: "This week, chip maker Nvidia was briefly worth more than $1 trillion, thanks to investor excitement about demand for its chips created by so-called “generative AI,\" the technology behind ChatGPT. Smaller AI-related stocks have also soared as investors search for the big winner from the latest fashionable theme."
+    publishedDateTime: 2023-06-02T23:59:00Z
+    webUrl: "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype-11685708705195.html"
+    ampWebUrl: "https://www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/weekend/nowhere-for-investors-to-hide-from-ai-hype/amp-11685708705195.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/06/02/600x338/Nvidia_1685708783326_1685708790004.JPG"
+        width: 599
+        height: 338
         isCached: true
   - title: "AI chips are hot. Here's what they are."
     excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip,"
@@ -79,6 +91,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Chips: What They Are and Why Investors See Gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
+    publishedDateTime: 2023-06-03T08:55:00Z
+    webUrl: "https://businessjournaldaily.com/ai-chips-what-they-are-and-why-investors-see-gold/"
+    type: article
+    provider:
+      name: Business Journal Daily
+      domain: businessjournaldaily.com
+    quality: 54
+    images:
+      - url: "https://businessjournaldaily.com/wp-content/uploads/2023/06/Nvidia-HGX-H100-module-AP.jpg"
+        width: 925
+        height: 520
+        isCached: true
   - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
     excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It's an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper."
     publishedDateTime: 2023-06-04T04:00:00Z
@@ -104,24 +130,34 @@ related:
       name: 92.7 WMAY
       domain: wmay.com
     quality: 46
-  - title: "Orlando companies harness the power of AI in revolutionizing health care"
-    excerpt: "As the health care industry faces staffing shortages and rising costs, AI is offering a solution that can free up time for health care providers to focus on patient care."
-    publishedDateTime: 2023-06-01T04:00:00Z
-    webUrl: "https://www.bizjournals.com/orlando/inno/stories/partner-content/2023/06/01/orlando-companies-harness-the-power-of-ai-in.html"
+  - title: "Big Tech has convinced investors that AI is the new goldrush"
+    excerpt: "Investors rushing to put cash into AI based companies In what could be a huge bubble, investors are rushing to put their savings into companies centred around AI technology.  Time Magazine has reported that such chips have suddenly taken center stage in what some experts consider an AI"
+    publishedDateTime: 2023-06-01T09:33:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/57006-big-tech-has-convinced-investors-that-ai-is-the-new-goldrush"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 18
-  - title: "Clalit Health Services plans to use Artificial Intelligence and Machine Learning to further enhance patient care"
-    excerpt: "Liora Shechter, VP Digital & Technology, Clalit Health Services, said, \"We will use Cloudera Data Platform to apply real time interfaces, artificial ... approach to healthcare delivery and its ..."
-    publishedDateTime: 2023-05-31T10:23:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20230531sf15074/clalit-health-services-plans-to-use-artificial-intelligence-and-machine-learning-to-further-enhance-patient-care"
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/a293d8e24c55b90b471899afc06ee65a_L.jpg"
+        width: 620
+        height: 431
+        isCached: true
+  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
+    publishedDateTime: 2023-06-01T09:31:00Z
+    webUrl: "https://www.local10.com/business/2023/06/01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
     type: article
     provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 15
+      name: WPLG
+      domain: local10.com
+    quality: 33
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SIQQ7UVKUNDXRHQQE2TFZQO3RU.jpg?_a=ATCqVhC0"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "q8xD4JnSVhn/Jd9j0q1bGY2+degadXZh3X1WYiIk8pIsIZal9EAw6XwO9cnIg6MCjRcA+veZhL+0PqUolgTCJQJXxinSKGwdhHYN6WKgmfjYNwFr2oY1gJpeYXNyUh8E32zOshM7tniJ7VhNWbtFDtgUnsfeo2EHc/40bsZlsgOysHz01YDDVuJwqvwOY2ofISP/oulijPA6eOy895SivpjmErm80kHNICGSY0a2moTLHrCTf+SI9yjqUpDwWo55ZkIlDm6b4d8BxZACzzXOoUwM7oErDP/dh0njkgqmxW8g+uagI6HccaL3FShoDZuUobRea6DRE/E8wDXJkm3qowSPqYUALa+mqX8IPwLRtjxwkVCA7VJ23IPwf/rdqyH2zCH86sbEepoRwVtuxvk9ZYU5gtLqZgJD3BKyNg+SuKvJ0jEG9YuhA22F+/Xccw7z+kSQQ+e7yN1ocZxBCubXmaaPJ2Cz+sUIUw6tprsYAscBu91RsdvGYkhM03pgCyKQewtq2VB1YOqWTTJ/CcA5Wg==;yj+tRubg4kqEHiOiBSX+kg=="
 ---

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-04-24-software-didnt-eat-the-world.md",
+      "title": "Software Didn’t Eat the World",
+      "excerpt": "This article was co-published with Understanding AI, a newsletter that explores how ... some of them to eventually be as big as Google or Facebook. After all, they thought, industries like ...",
+      "sourceUrl": null,
+      "webUrl": "https://slate.com/technology/2023/04/artificial-intelligence-jobs-software-eating-the-world-andreessen-economy.html",
+      "originalUrl": "https://slate.com/technology/2023/04/artificial-intelligence-jobs-software-eating-the-world-andreessen-economy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://compote.slate.com/images/8a774cc3-3f71-4654-8687-e34438293495.gif?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+          "width": 1560,
+          "height": 1040,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-24T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slate",
+        "domain": "slate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-04-24-kpmg-us-executives-unprepared-for-immediate-adoption-of-generative-ai.md",
       "title": "KPMG: US executives unprepared for immediate adoption of generative AI",
       "excerpt": "In a KPMG survey of executives on generative AI, the technology is seen as potentially the most disruptive to date.",
@@ -1305,58 +1348,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-31-got-it-ais-elmar-challenges-gpt-4-and-llama-scores-well-on-hallucination-benchmarks.md",
-      "title": "Got It AI’s ELMAR challenges GPT-4 and LLaMa, scores well on hallucination benchmarks",
-      "excerpt": "Conversational AI startup Got It AI has released ELMAR, an LLM for dialog-based chatbot Q&A applications that is smaller than GPT-3.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/got-it-ai-elmar-challenges-gpt-4-and-llama/",
-      "originalUrl": "https://venturebeat.com/ai/got-it-ai-elmar-challenges-gpt-4-and-llama/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/bf2f6e_f557172b75c540f9904f2563dee4ac52_mv2.png?w=1200&strip=all",
-          "width": 1198,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/got-it-ai-elmar-challenges-gpt-4-and-llama/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/got-it-ai-elmar-challenges-gpt-4-and-llama/amp/",
-      "publishedDateTime": "2023-03-30T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Facebook AI"
       ]

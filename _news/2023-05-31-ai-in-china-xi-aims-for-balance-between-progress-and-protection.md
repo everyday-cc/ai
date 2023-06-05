@@ -86,31 +86,6 @@ related:
         width: 800
         height: 527
         isCached: true
-  - title: "China warns of risks from artificial intelligence, calls for beefed-up national security measures"
-    excerpt: "BEIJING -- China warns of risks from artificial intelligence, calls for beefed-up national security measures."
-    publishedDateTime: 2023-05-31T05:27:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/china-warns-risks-artificial-intelligence-calls-beefed-national-99716270"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/china-warns-risks-artificial-intelligence-calls-beefed-national-99716270"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/china-warns-risks-artificial-intelligence-calls-beefed-national-99716270"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 61
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Alert: China warns of risks from artificial intelligence, calls for beefed-up national security measures"
-    excerpt: "China warns of risks from artificial intelligence, calls for beefed-up national security measures."
-    publishedDateTime: 2023-05-31T05:19:00Z
-    webUrl: "https://www.chron.com/news/world/article/alert-china-warns-of-risks-from-artificial-18127134.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 17
 
 secured: "ISw7zuBAlCWZ4tMCHraN01P6d514qEEC54xoE1iRjROKhRQTJI8DMsrf54CQTR5LWvm6DL/SOEKsV+VW1zQ5BVSYK7E7crPUBEKc7XdXjwOnYRYkbHUaZga8RfJZmj7dUlEjsSNzN8/0NamU7YfE/vhbF6WoC5sfe0pALv5B9hAC5D7DP9pura43dU1vJ//tWr7/35bu3syevYI9BGpCrV4GXE6N/DxnW2za0/KhaYQVPBIGeac56/thLNajSPv1YHWdJtQ3XAzg2lLI+ry8a6YvCxmBBIRIJgvLj3j2bEL8txaO2RCALAbRJeZLeqoWosO6CgHumaS+y95egf7rTwZYZ6WknqXrG/ZX1oMbsK9JwX74AG/8epZFzK1jMvFmZRoELwe/PZvN5YeehYqBz3xKE76W9X6k21CMpZdlPNoPuveptf4ZNt8yZeb7DyPPSr4XpLbpQRHG5dfOE6tvllYux9MuUrmmqBTrN9jQwTnw3Vp3Dil0GUZ9JcX9q3rNFRkw1Hw/oe915oxGPOfL0w==;GtcHTz4nec992l64kwzPdw=="
 ---

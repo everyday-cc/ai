@@ -2,6 +2,100 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2023-05-10-chatgpt-and-generative-ai-around-the-world-maturity-opportunities-and-hurdles-in-key-regions.md",
+      "title": "ChatGPT and Generative AI Around the World: Maturity, Opportunities, and Hurdles in Key Regions",
+      "excerpt": "ChatGPT has received a lot of press since its November 2022 launch. But while interest in the tool is high, its use is not yet universal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/generative-ai-around-the-world-maturity-opportunities-key-hurdles-2023-may",
+      "originalUrl": "https://www.businessinsider.com/generative-ai-around-the-world-maturity-opportunities-key-hurdles-2023-may",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6441b16a3f6f690018debe44?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/generative-ai-around-the-world-maturity-opportunities-key-hurdles-2023-may?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/generative-ai-around-the-world-maturity-opportunities-key-hurdles-2023-may?amp",
+      "publishedDateTime": "2023-05-09T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-09-ibm-stressing-accuracy-of-responses-in-launch-of-upgraded-ai-offering.md",
+      "title": "IBM stressing accuracy of responses in launch of upgraded AI offering",
+      "excerpt": "IBM’s initial AI program Watson was created to beat humans at the gameshow “Jeopardy!,” but have now updated the AI offering. The new Watsonx program boasts an AI development studio that ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/3995674-ibm-stressing-accuracy-of-responses-in-launch-of-upgraded-ai-offering/",
+      "originalUrl": "https://thehill.com/policy/technology/3995674-ibm-stressing-accuracy-of-responses-in-launch-of-upgraded-ai-offering/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/05/AP20282510496271-e1683647978224.jpg?w=1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/3995674-ibm-stressing-accuracy-of-responses-in-launch-of-upgraded-ai-offering/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/3995674-ibm-stressing-accuracy-of-responses-in-launch-of-upgraded-ai-offering/",
+      "publishedDateTime": "2023-05-09T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-09-after-chatgpt-ai-startups-are-poised-to-boom-see-16-pitch-decks-used-by-founders-in-europe-in-generative-ai-health-and-enterprise.md",
       "title": "After ChatGPT, AI startups are poised to boom. See 16 pitch decks used by founders in Europe in generative AI, health, and enterprise.",
       "excerpt": "Generative AI, media, and design Supernormal, a generative AI startup that automates meeting notes, just raised $10 million. Check out the 17-slide pitch deck it used to bag the seed round.",
@@ -1113,109 +1207,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-edge-ai-chips-market-witness-the-massive-growth-of-the-market-to-2029-nvidia-intel-xilinx-samsung-electronics.md",
-      "title": "Edge AI Chips Market Witness the massive growth of the market to 2029 |Nvidia, Intel, Xilinx, Samsung Electronics",
-      "excerpt": "Nvidia, Intel, Xilinx, Samsung Electronics, Micron Technology, Qualcomm Technologies, IBM, Google, Microsoft, Apple, Huawei  The region-wise coverage of the market is mentioned in the report, mainly focusing on the regions: North America (the USA,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-chips-market-witness-the-massive-growth-of-the-market-to-2029-nvidia-intel-xilinx-samsung-electronics-2023-05-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-chips-market-witness-the-massive-growth-of-the-market-to-2029-nvidia-intel-xilinx-samsung-electronics-2023-05-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-09T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-09-ai-influx-alters-corporate-leadership-qualities-3-essential-strategic-approaches.md",
-      "title": "AI Influx Alters Corporate Leadership Qualities: 3 Essential Strategic Approaches",
-      "excerpt": "Here are three critical traits for leaders seeking to harness employees’ intrinsic motivation to learn and give them responsibility for leading the transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/05/09/ai-influx-alters-corporate-leadership-qualities-3-essential-strategic-approaches/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/05/09/ai-influx-alters-corporate-leadership-qualities-3-essential-strategic-approaches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ef65f436cd39700069ce974/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/05/09/ai-influx-alters-corporate-leadership-qualities-3-essential-strategic-approaches/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/05/09/ai-influx-alters-corporate-leadership-qualities-3-essential-strategic-approaches/amp/",
-      "publishedDateTime": "2023-05-09T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

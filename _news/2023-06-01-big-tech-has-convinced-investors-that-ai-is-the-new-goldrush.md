@@ -69,6 +69,34 @@ related:
         width: 599
         height: 338
         isCached: true
+  - title: "AI chips are hot. Here's what they are."
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip,"
+    publishedDateTime: 2023-06-01T15:11:00Z
+    webUrl: "https://norfolkdailynews.com/news/national/feature_national/ai-chips-are-hot-heres-what-they-are/article_e50444c6-008e-11ee-8e38-6b3227a49a96.html"
+    type: article
+    provider:
+      name: Norfolk Daily News
+      domain: norfolkdailynews.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/assets/v3/editorial/2/f2/2f237702-008f-11ee-8f78-27dd5b461b9c/6478b65123d5c.image.jpg?crop=620%2C326%2C0%2C43&resize=620%2C326&order=crop%2Cresize"
+        width: 620
+        height: 326
+        isCached: true
+  - title: "AI chips: Here’s what they are, what they’re for, why they’re hot"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed spec"
+    publishedDateTime: 2023-06-03T13:05:00Z
+    webUrl: "https://www.columbian.com/news/2023/jun/03/ai-chips-heres-what-they-are-what-theyre-for-why-theyre-hot/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 54
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default-2022.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Chips: What They Are and Why Investors See Gold"
     excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
     publishedDateTime: 2023-06-03T08:55:00Z
@@ -83,6 +111,54 @@ related:
         width: 925
         height: 520
         isCached: true
+  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It's an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper."
+    publishedDateTime: 2023-06-04T04:00:00Z
+    webUrl: "https://www.timesfreepress.com/news/2023/jun/04/ai-chips-are-hot-tfp/"
+    type: article
+    provider:
+      name: Chattanooga Times Free Press
+      domain: timesfreepress.com
+    quality: 48
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/img/photos/2023/06/03/AP23152002685626_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "AP: AI chips are hot. Here’s what they are, what they’re for and why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed"
+    publishedDateTime: 2023-06-03T01:02:00Z
+    webUrl: "https://www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
+    ampWebUrl: "https://www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/?amp=1"
+    cdnAmpWebUrl: "https://www-wmay-com.cdn.ampproject.org/c/s/www.wmay.com/2023/06/02/ap-ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/?amp=1"
+    type: article
+    provider:
+      name: 92.7 WMAY
+      domain: wmay.com
+    quality: 46
+  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics."
+    publishedDateTime: 2023-06-01T09:31:00Z
+    webUrl: "https://www.local10.com/business/2023/06/01/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see-gold/"
+    type: article
+    provider:
+      name: WPLG
+      domain: local10.com
+    quality: 33
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SIQQ7UVKUNDXRHQQE2TFZQO3RU.jpg?_a=ATCqVhC0"
+        width: 700
+        height: 467
+        isCached: true
+  - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
+    excerpt: "AI chips and their leading designer, Nvidia, are now at the center of what some experts consider an AI revolution that could reshape the technology sector and possibly the world along with it."
+    publishedDateTime: 2023-06-01T18:30:00Z
+    webUrl: "https://omaha.com/business/technology/ai-chips-are-hot-heres-what-they-are-what-theyre-for-and-why-investors-see/article_b29fedbe-109c-55f5-96f5-b3b3303c2067.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 28
 
 secured: "O9EEsRTIhvel5nc+MbIpbr6B3r+uwZ0DYEf7QFZnpnNBk7haVx1scIuvCuuOm8uAhAdvJbz+WKvFGql71xexfOYZvRXqPpsStI1QFS8qC9CppPeCxhcFpTp1slDdIiSEMbZkKXc/Q5Zeh6ki3zfEaiDuNAjZpxV6hmMAWe3s3IX/nDsOUdIQZVnpLSGsLXjBY5/vZ6u9hgnCE11HipzMjDXShOpgyL9DciB8PAeq5ZoXb1JkTAJXlzfhSngT02MZopOApeD65ykr1vrwMRCBrBU/7G3iY2l5FHC7lLetoCr1h5KSrnEb7ZHSoPUwsmOKFnCGKGBtHgrqsSiUl2+R7uRzQ+zGECjbUJqOlvG1eCVRvmxYY1r9zU531vpSnVqBDq6+qRD+DApY7gYpCWrm3OeFEcSwqyiNi8BKE1Y946pgCTJQV2vVm2ah5dMxqC0cW7NBYczmPe7Xo3WsuzWAMeKIzzI8d1DJRfX4iEGfLrkQCg99z3K+CqUm1RU5hngwCuOy2lLjS7DAfM8z6liX+w==;rWy/RnRXVgZ/4MLcqr+17g=="
 ---

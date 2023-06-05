@@ -76,22 +76,6 @@ related:
         width: 800
         height: 527
         isCached: true
-  - title: "China warns of risks from artificial intelligence, calls for beefed-up national security measures"
-    excerpt: "BEIJING -- China warns of risks from artificial intelligence, calls for beefed-up national security measures."
-    publishedDateTime: 2023-05-31T05:27:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/china-warns-risks-artificial-intelligence-calls-beefed-national-99716270"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/china-warns-risks-artificial-intelligence-calls-beefed-national-99716270"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/china-warns-risks-artificial-intelligence-calls-beefed-national-99716270"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 61
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "AI in China: Xi aims for balance between progress and protection"
     excerpt: "China calls for heightened national security measures for artificial intelligence. A meeting chaired by President Xi Jinping emphasized the need to safeguard political security and improve security governance of internet data and artificial intelligence."
     publishedDateTime: 2023-05-31T15:57:00Z
@@ -106,15 +90,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Alert: China warns of risks from artificial intelligence, calls for beefed-up national security measures"
-    excerpt: "China warns of risks from artificial intelligence, calls for beefed-up national security measures."
-    publishedDateTime: 2023-05-31T05:19:00Z
-    webUrl: "https://www.chron.com/news/world/article/alert-china-warns-of-risks-from-artificial-18127134.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 17
 
 secured: "r8IvucDc8Xp7tf8Kvub4NuxlRR11xoNrH/Wmj3NR1l8eJ0w3s8vkvB0+ovuxN3iyz55LSjSSF7nePFkZ6a7C5KyLDaICAOJ1sCw7vZmAkNQy6vulRG7xW9IEqwypfCRNaG9yPGyFcleXpxniXwIPZe+aziRgUM49LwfDzCyB6PDrsb0HphLmhQZyCkMmkMxT/m9qOeMrG2YqkZazovgsj+n93AsRoPbHcfVsAS3NAPbbcF1gXiq1F7qDsuf/Tb1nBh6yaaNrc21wAQmYIHYACdMuUThmhtgS8QG3/BcYImW+zrAVfziC3wZ9k9ovw5l3dazJsRJRF1q6LONNAElbr/a2gkjTCW++Uu0wFlHJ7F9j/REEK/sUZEqJp6zs+N8+GtHPkLqoR+BXXq1fD25hQyjiNcqcSLB3zfyr9N7rR6Qrlt9ByC0ay13+2elO3lm0sEsLM77dJSsKfxJY0vwpDHic8cV+zNgFdfVuxAIjwNjB9d6rnjiUhvDJUSTgJ8yBGq1QOtIYgwTtwwLCOuhASw==;XxaM97Fp4L4Bi7fbYn2xvA=="
 ---

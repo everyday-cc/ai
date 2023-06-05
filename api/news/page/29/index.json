@@ -2,6 +2,100 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-05-15-nvidias-ai-chips-will-help-power-these-5-industries-for-years-to-come.md",
+      "title": "Nvidia's AI Chips Will Help Power These 5 Industries for Years to Come",
+      "excerpt": "Nvidia is the world leader in advanced semiconductor chips known as GPUs. The company has leaned into AI, developing hardware and software platforms for customers. Nvidia is poised to grow by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/05/14/nvidias-ai-chips-will-help-power-these-industries/",
+      "originalUrl": "https://www.fool.com/investing/2023/05/14/nvidias-ai-chips-will-help-power-these-industries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/731598/artificial-intelligence-ai-data-deep-processing-2.jpg",
+          "width": 5500,
+          "height": 4125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-14T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-05-15-life-and-death-decisions-are-being-made-by-artificial-intelligence.md",
+      "title": "‘Life and death decisions are being made’ by artificial intelligence",
+      "excerpt": "Jacob Ward reports on how the invisible power structures we are assembling, by accident and on purpose, have the potential to change not just individual lives but the very future of humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/-life-and-death-decisions-are-being-made-by-artifical-intelligence-174337605845",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/-life-and-death-decisions-are-being-made-by-artifical-intelligence-174337605845",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_05/1684078202095_mtp_clip_mtpr602_spot_230512_1920x1080-2b3j1a.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo174337605845",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo174337605845",
+      "publishedDateTime": "2023-05-14T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-05-14-ai-presents-political-peril-for-2024-with-threat-to-mislead-voters.md",
       "title": "AI presents political peril for 2024 with threat to mislead voters",
       "excerpt": "Thanks to recent advances in artificial intelligence, tools that can create lifelike photos, video and audio are now cheap and readily available",
@@ -1123,109 +1217,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-forbes-magazines-new-majority-owner-is-a-28-year-old-billionaire-who-made-his-money-in-self-driving-car-tech.md",
-      "title": "Forbes magazine’s new majority owner is a 28-year-old billionaire who made his money in self-driving car tech",
-      "excerpt": "The Forbes family will not, though Steve Forbes will remain involved. Russell is the chief executive officer of Luminar Technologies Inc., which provides antonymous driving technology to the automotive industry. The company, which has a $2.1 billion market ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2023/05/12/forbes-austin-russell-acquisition-majority-stake/",
-      "originalUrl": "https://fortune.com/2023/05/12/forbes-austin-russell-acquisition-majority-stake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-1248342207-e1683937269697.jpg?w=840",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2023/05/12/forbes-austin-russell-acquisition-majority-stake/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/05/12/forbes-austin-russell-acquisition-majority-stake/amp/",
-      "publishedDateTime": "2023-05-12T18:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-05-13-what-does-ai-mean-for-your-money.md",
-      "title": "What Does AI Mean For Your Money?",
-      "excerpt": "AI – is grabbing headlines at the moment, with some commentators assessing its likely impact on daily life as being on the same scale as the Industrial Revolution or the development of the internet. Still in its relative infancy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/in/personal-finance/what-does-ai-mean-for-your-money/",
-      "originalUrl": "https://www.forbes.com/advisor/in/personal-finance/what-does-ai-mean-for-your-money/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/05/rsz_pexels-thisisengineering-3861969.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-05-12T16:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

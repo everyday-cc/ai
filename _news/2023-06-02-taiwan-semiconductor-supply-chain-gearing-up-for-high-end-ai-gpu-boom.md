@@ -41,15 +41,6 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "Foxconn forecasts its AI server business will double in second half of 2023"
-    excerpt: "Foxconn forecasts its AI server business will at least double in the second half of this year, making the world’s biggest contract electronics manufacturer — best known for making the iPhone — the latest beneficiary of the rapid rise of generative artificial intelligence systems such as ChatGPT."
-    publishedDateTime: 2023-05-31T06:25:00Z
-    webUrl: "https://www.ft.com/content/52c535ad-1f29-4ac9-9ba4-84065efef442"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 15
 
 secured: "i4Q6HdOVTsQ7v21ugXGqRgCVUGV88oa/Dh/N9WX47sMZ5VDge4ZBH+ecnYO+K116fA/eepcD47GadwnchtPpqdEyo+bO9jRAMhd3aKBlQwvb+irGz8BaayIoIOr0zqdErr8yrzKr1QodHy5Iy5M3ah+Eb4qnfmclC1/0P/gZRAOwz31HlfF6Ekep8/jOIv7kHlaNuST1p+TVJ23pgzH7VwpCmqmnEV5tBG7L9HBxxgEfE7vamOMTLsEDwyuLM0/pwXz6ybykfimVo4Aig1LVnyKKiICwYziP5nS8iU4C9X1S/TYjc2JcqTlZs+jyddi9qct4XsotRLE3+nPKUX1kQgOpGetZ+6gf0p/S5o6lAPZ71D7VnWRn5g49X3pIQU+OM8bIRXnkLrtgEebCD/hw3DT0jjnR6M/uSPgRkK9+gQGGLdZKGJM2VpWI1tZFRNqqvSVW5xz2rpR/Johjfg4jMrei610rtm4KcwmJqXFo3/gfAjjw7OXvTGc2MA/1ne23ADblVpC448bZWDyV84sXjg==;aHwq3zANla3wA05021dn6A=="
 ---

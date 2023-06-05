@@ -24,43 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top AI researchers and CEOs warn against ‘risk of extinction’ in 22-word statement"
-    excerpt: "This statement, published by a San Francisco-based non-profit, the Center for AI Safety, has been co-signed by figures including Google DeepMind CEO Demis Hassabis and OpenAI CEO Sam Altman ..."
-    publishedDateTime: 2023-05-31T05:05:00Z
-    webUrl: "https://www.theverge.com/2023/5/30/23742005/ai-risk-warning-22-word-statement-google-deepmind-openai"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 63
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/TVAPXNsHjyXzjCHMtXTMFKUQstA=/0x0:1275x700/1200x628/filters:focal(638x350:639x351)/cdn.vox-cdn.com/uploads/chorus_asset/file/24690541/AlexaSteinbru_ck_ExplainableAI_1275x700.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Top AI researcher dismisses AI ‘extinction’ fears, challenges ‘hero scientist’ narrative"
-    excerpt: "Kyunghyun Cho, a prominent AI researcher and associate professor at NYU, expressed frustration with the current discourse around AI risk."
-    publishedDateTime: 2023-06-01T17:02:00Z
-    webUrl: "https://venturebeat.com/ai/top-ai-researcher-dismisses-ai-extinction-fears-challenges-hero-scientist-narrative/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 60
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/06/Ez6kELuXoAQ7r_B.jpeg?w=1200&strip=all"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "AI experts challenge ‘doomer’ narrative, including ‘extinction risk’ claims"
-    excerpt: "“It’s almost a topsy-turvy world,” Sara Hooker, head of the nonprofit Cohere for AI and former research scientist at Google Brain, told VentureBeat. “In the public discourse, [x-risk] is being treated as if it’s the dominant view of this technology."
-    publishedDateTime: 2023-05-31T18:08:00Z
-    webUrl: "https://venturebeat.com/ai/ai-experts-challenge-doomer-narrative-including-extinction-risk-claims/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "Leading experts warn of a risk of extinction from AI"
     excerpt: "The call for guardrails on AI systems has intensified in recent months as public and profit-driven enterprises are embracing new generations of programs."
     publishedDateTime: 2023-05-31T16:59:00Z
@@ -75,15 +38,6 @@ related:
         width: 1536
         height: 864
         isCached: true
-  - title: "AI poses ‘risk of extinction’ warn industry leaders"
-    excerpt: "AI could pose an existential threat to humanity, artificial intelligence luminaries have warned, in an extraordinary one-sentence open letter, urging that it be treated with the same level of urgency as pandemic and nuclear war."
-    publishedDateTime: 2023-05-31T11:47:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/ai-poses-risk-of-extinction-warn-industry-leaders/news-story/1fdc1030037dd60fb3813436e8538a9d"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
   - title: "AI: Is there a risk of human extinction?"
     excerpt: "Artificial intelligence could lead to extinction, experts warn"
     publishedDateTime: 2023-06-01T13:19:00Z
