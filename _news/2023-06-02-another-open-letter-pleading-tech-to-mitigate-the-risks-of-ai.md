@@ -24,22 +24,6 @@ images:
     height: 960
     isCached: true
 
-related:
-  - title: "Yet another article on artificial intelligence"
-    excerpt: "My original article said they really should put the brakes on this experiment for a while, but I didn’t declare an emergency. We’ve been hearing warnings about AI taking over since the first “Terminator” movie 39 years ago,"
-    publishedDateTime: 2023-06-05T10:00:00Z
-    webUrl: "https://www.bangordailynews.com/2023/06/05/opinion/opinion-contributor/artificial-intelligence-warnings/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 37
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2023/06/Europe-AI-Rules.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
-
 secured: "V+Jgcz0QJmtp1XSgZh93r05LMr2x67eFJujH9q1oB51c8dmo/7Q8vT+YScuGa5f7q0QDWeYq8EFKMWirloeNuhElwO6iJzTaQQPmoYpzuowhyQm6fgVA9e0QaKEkEjsU7EywTgNBbNrrDgrarak35XuLpkp7R49pCF2U3twQDpiD+BuZt7J/aGIG/JMxmftGjn9yWKEoLaBInJ1VA4KllQI2tXb74tgWa4u9Lnz8kr2wk3ZDVW1XjLQblRuEzmi17O+Da2OFhBptBie44vt3na1CWTz31RJ58clXRmLpFcN2ASTBYGUSXhqdCTlicJnENdUEcdyx8Cwp6J+6Jq9+NQd5MwSrx2maJJg8mLs+JnM=;GTixx50E5o/2UUKqeQJPOg=="
 ---
 

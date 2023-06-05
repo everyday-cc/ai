@@ -24,21 +24,23 @@ images:
     isCached: true
 
 related:
-  - title: "Another Open Letter Pleading Tech to Mitigate the Risks of AI"
-    excerpt: "CEOs of AI firms like OpenAI and Google DeepMind want to make sure that mitigating risk of AI is a top priority."
-    publishedDateTime: 2023-06-01T20:53:00Z
-    webUrl: "https://tech.co/news/open-letter-risks-ai"
+  - title: "Nanobiotics: AI for discovering where and how nanoparticles bind with proteins"
+    excerpt: "Identifying whether and how a nanoparticle and protein will bind with one another is an important step toward being able to design antibiotics and antivirals on demand, and a computer model developed at the University of Michigan can do it."
+    publishedDateTime: 2023-06-05T14:56:00Z
+    webUrl: "https://phys.org/news/2023-06-nanobiotics-ai-nanoparticles-proteins.html"
+    ampWebUrl: "https://phys.org/news/2023-06-nanobiotics-ai-nanoparticles-proteins.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-06-nanobiotics-ai-nanoparticles-proteins.amp"
     type: article
     provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
+      name: Phys.org
+      domain: phys.org
+    quality: 53
     images:
-      - url: "https://images.tech.co/wp-content/uploads/2023/06/01135759/risks-ai-robot-work.jpg"
-        width: 1920
-        height: 960
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/nanobiotics-ai-for-dis.jpg"
+        width: 1741
+        height: 1356
         isCached: true
 
-secured: "vs+qeUfa3ONKrSZU3KLm+KBaWbp7V645MbXSE/Svq8+g7viXOBCHX1ndFQEKj+qCghSSUrdhaLGbCyUiDEI6rJgTND78K1bZX+U1tBD59JqNVdzikj4n1qZiCconHPpzZB4dsB0HAB97Sdi7iae2uu8QPDqhjUlRopL3MbaQC9P3I5qRt07fMYKmKjrJdeEh71JnIswdW9xtGOZE6d1OE0Om5yEgHVbR1ZCjV8YcYpGin1gCBxDpbcN6c3Rf/Esg+RdELTRawjbnq2hdgTQM6syuEEt9VOJ+Qkp4VNKt168goIuAuWRgnPkNGAU9aoQrN8UvJcJFt0M5q/vzbFV3WVZ+sTSHxqvJfbfG+oJG5vQ=;RWcCDu7r33naONqIc/3XPw=="
+secured: "gzYMTchkgfzytn7rHHj9RlCYZEiWj0oHf1ITxWQoa/eGGz4tnqS3WLuTCgrlHEmh9VQg2cTL3B3OC8GDYC2Xhi5WRYVznmlLJ3nrvFJ26J9lMfu87mn5wqTSyYQtxivUdgAv6sRopoxVDpYW00109huczclqh1vpXKTK8SpOkAKdGZJH2Zl7anItLVVF7bEk5CJXB9/U2BqwtOCno17IgBlyWUn2MU3nzh+bPK5IOALSJKZdDOFsRbqvuVDXG4HtvCDD3VQJ29FNDCtJfCjYtXyw0j3dQCXn5To03rkpbIfUEw3cy/vE1ASb5+qx4LhzTS/WQNt6mjvGG+8UoqogE3nVS1yzT5wQKEeBfzkGUZXz26M/DLJHOvWzUUf0NSSB/K1RDisOMJWvU3JFND1N/lJxg1WXm3Ry9PGBySF072knsJjOSV8IzD1RnpGXTzOw2kS0QZAejrWe+hWrdeX78ViBmKCtTsf1fKgmW77ubtyl4RHoBqz68Dgt8P2sIk84DK3xOURZi1+QhrjJwjDPUg==;PSgTubwMG+EDDEP3PfnVPQ=="
 ---
 

@@ -111,6 +111,20 @@ related:
         width: 925
         height: 520
         isCached: true
+  - title: "AI chips are hot: Here's why investors see gold"
+    excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It’s an artificial intelligence chip, designed specifically to make"
+    publishedDateTime: 2023-06-05T15:04:00Z
+    webUrl: "https://www.news-journal.com/news/business/ai-chips-are-hot-heres-why-investors-see-gold/article_6d44afb2-03b2-11ee-bc1f-e72181d9132a.html"
+    type: article
+    provider:
+      name: Longview News-Journal
+      domain: news-journal.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/d/77/d7709f22-03b2-11ee-a124-0bc30dd5c12e/647dfa9936f24.image.jpg?crop=1646%2C864%2C0%2C196&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
     excerpt: "The hottest thing in technology is an unprepossessing sliver of silicon closely related to the chips that power video game graphics. It's an artificial intelligence chip, designed specifically to make building AI systems such as ChatGPT faster and cheaper."
     publishedDateTime: 2023-06-04T04:00:00Z
@@ -150,6 +164,15 @@ related:
         width: 620
         height: 431
         isCached: true
+  - title: "What are AI chips and why are they in big demand?"
+    excerpt: "Artificial intelligence chips are designed specifically to make building AI systems such as ChatGPT faster and cheaper. They have suddenly taken centre stage in what some experts consider an AI revolu"
+    publishedDateTime: 2023-06-05T12:33:00Z
+    webUrl: "https://www.firstpost.com/explainers/what-are-ai-chips-and-why-are-they-in-big-demand-12694922.html"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 34
   - title: "AI chips are hot. Here's what they are, what they're for and why investors see gold"
     excerpt: "AI chips and their leading designer, Nvidia, are now at the center of what some experts consider an AI revolution that could reshape the technology sector and possibly the world along with it."
     publishedDateTime: 2023-06-01T18:30:00Z
@@ -160,6 +183,6 @@ related:
       domain: omaha.com
     quality: 28
 
-secured: "fgG6aI765ucHJyf2Nu/InCbYvqO8X9wnfCconyct8HSMH7MuEqrNdPt1lx551p8rBhtDBqYzpmBb1+dwQ4deMjzaOM57y9A37rd3HkiyhHox0TcUVhttQVHtFkaIjSy2iphOmPzF5eokHBwvlp6JYaHHyUJw4dnkfZ3S5qmoOaNBnaSpPmFzdujKIv8Hajd4HY/F69aHwj+uNsy6kLkug/FZgE22e57R9Y6U0diwdzWxaM/KfMCOT3BBwIXHRS0NOvNBGUevILcM7+LYQbWdTauxm33uCuizoEWOz5YffmkztXYe+zHEBE+Nd5HHVCrJYWSfOxJHjT3TKaVV3hv/Uejtymsmp9P1FuVDD94MpEI=;/+LDRyBvlnkYIAECAIQ62A=="
+secured: "xOR0ZnL49avodn1ACeKx2b80Js305qgn4YQOC2y3BRFaYG5tyaHE2fUjn9pIvEZTwoEJfPd13tccV+7oAZDA88CpX7u42trjOsVMckHcQzmGn6KUubDZAh2kU3LTb3YdCpAjFMZ0hsyud2pq88rmGAX81Pk79996cIhmhdAcX9ckdN1fAiyK06Div+ERg3hyhGCth8V+b2Pkn1WlkhzvwFaJ5IFTfOioxtY4XGPwBAOGjaRUyyWeZinQd7U6eEnhq7whqIHGFlKWPCGvwkYPml4lk1MOfLCMT7OpfqXlm8NvkWYm5vIpScWbRM5QAfI/jjS8FBzE8qZ+6nohD++GMTb44gxv9CGFj0GZQJQ391Q=;Vn/OvoI6mDWiLhwrhXtUqg=="
 ---
 

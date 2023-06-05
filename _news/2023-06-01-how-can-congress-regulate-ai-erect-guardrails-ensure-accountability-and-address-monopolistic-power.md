@@ -39,20 +39,6 @@ related:
         width: 1302
         height: 868
         isCached: true
-  - title: "Here’s how Congress can regulate AI | Opinion"
-    excerpt: "Takeaways: A new federal agency to regulate AI sounds helpful but could become unduly influenced by the tech industry. Instead, Congress can legislate accountab"
-    publishedDateTime: 2023-06-04T11:17:00Z
-    webUrl: "https://www.penncapital-star.com/commentary/heres-how-congress-can-regulate-ai-opinion/"
-    type: article
-    provider:
-      name: penncapital-star
-      domain: penncapital-star.com
-    quality: 39
-    images:
-      - url: "https://www.penncapital-star.com/wp-content/uploads/2022/03/GettyImages-521369998-scaled.jpg"
-        width: 2560
-        height: 1670
-        isCached: true
   - title: "Comment: Robots are coming, but with humans at the controls"
     excerpt: "Take Alfie. It’s the prototype of London startup Prosper Robotics and looks like a Minecraft character made real: slightly taller than a grown man, bulky and gliding slowly around on wheels. It is also steered by a team of gamers in the Philippines, who wear virtual reality headsets throughout the day to control its movements."
     publishedDateTime: 2023-06-05T08:30:00Z
@@ -81,6 +67,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Why an octopus-like creature has come to symbolize AI | Commentary"
+    excerpt: "The Shoggoth is a potent metaphor that encapsulates one of the most bizarre facts about the AI world, which is that many of the people working on this technology are somewhat mystified by their own creations."
+    publishedDateTime: 2023-06-05T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/why-an-octopus-like-creature-has-come-to-symbolize-ai-commentary/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "pCI4EJfMAzp1FbEdZ6i9N/wRCKgUTzHmS+8JDXw/6rVxYAGniMm6e4BtYReVtjXY9yM0O4rdOCVIkd392vLKx5EYjv9yYzPR5SpzHMpAB0Q30TB2MQ71DFujrPSxiO2Ikm/G6jePdTchs7MayMOhoBAYKwy4pYoTesvE2gh/LH28CaMYnLrXpAXjF24NI4yfHOxws3S6P7IW7PcuvZFxLAcLSfgQw7uORY8bp25yWvpij0/wrNjeCy2c8rjK3GaJcQVBXl4cQA41QCoQ8og4/X4E39owlr521unzi5aUZCIRHd0vq+IF8cMEENtj6sB/64Glqpl/JV9sfmSiwrZJbHb4vxztSzJpODzRYy9VAeU=;0rJn5KUXwdPnzVoqnMBe7A=="
 ---

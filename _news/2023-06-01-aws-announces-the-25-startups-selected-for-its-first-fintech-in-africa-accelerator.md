@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AWS picks biotech startup for AI accelerator program"
-    excerpt: "Ordaos, a drug design company, was selected for the AWS Generative AI Accelerator, a mentorship program for companies working with generative artificial intelli"
-    publishedDateTime: 2023-05-31T21:04:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/aws-picks-biotech-startup-for-ai-accelerator-program.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "AWS announces the 25 startups selected for its first 'fintech in Africa' accelerator"
     excerpt: "Cohort participants from Kenya, Nigeria, South Africa, Egypt, Ghana, Uganda, and Cameroon    Description: Sekai Ndemanga, Head of FinTech Venture Capital and Startup Business"
     publishedDateTime: 2023-06-01T21:00:00Z

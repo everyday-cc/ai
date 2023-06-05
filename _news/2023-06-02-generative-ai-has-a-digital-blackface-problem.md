@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/generative-ai-stokes-digital-black
 webUrl: "https://www.businessinsider.com/generative-ai-stokes-digital-blackface-accusations-advertisers-adjust-2023-6"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Business Insider
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Generative AI, digital skills, ageism: 5 interesting stats to start your week"
+    excerpt: "Generative AI is marketers’ top consumer trend. Some 59% of marketers have singled out generative AI as the most important consumer trend to watch, according to Mediaocean’s m"
+    publishedDateTime: 2023-06-05T14:18:00Z
+    webUrl: "https://www.marketingweek.com/generative-ai-digital-skills-ageism-5-interesting-stats-to-start-your-week/"
+    type: article
+    provider:
+      name: Marketing Week
+      domain: marketingweek.com
+    quality: 34
+    images:
+      - url: "https://marketingweek.imgix.net/content/uploads/2023/02/03170259/Numbers.jpg"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "vqitOYp4sLbg30V8hgxnIXb+TI5aPAhm+iXMjlVpPUns/PLKZyPO4oDs6Cu7QYatnyiytO/v3lP0NRCAEsYv5nTLMUGdpAA9GyjQmL8wigbylY6qCO6MLycPJgXahqtDa2wvj+7TWZdlhYtnqj2+ifG8Op5WjnlynAdozntE8jb8hQt7qCiMTmzkdyMiqmQO6Dwz5WITPfSPqGCZ16E3gvjhiC9p3XGjwfkDAeKqx12DBD8k+6t2PaWWhGfrJN1d0gPbV4A7kORe52nZ1w8VOEMuM0Vy0kHFn5z27dwBn9Zjrn2LM+7xJGwflvGKLEiuNK+UomdNe4mLMyGjTMo8Fhh9c9OZFsDLPLLKV4ytHJAO4h0+t+CZ3kHLNUpFIzKYqB6MgcTarymEtyRSQ5bI1aieFPJLYP0L5jCRS1b/DCGaBA/nlWpoc0zOAcZkot3u0tEDGCWJt14MPiLSNOEicqj0OOO+C56sPwg92bb0srNutK/BBvLBjS4BvAMZFdnlYo9VoMG2dcNUId83SgatKQ==;6IDv27m65yLspyxVHiZeTw=="
 ---

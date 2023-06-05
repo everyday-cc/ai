@@ -25,61 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Comment: What Congress can do to keep an eye on AI"
-    excerpt: "A new federal agency to regulate artificial intellitence (AI) sounds helpful but could become unduly influenced by the tech industry. Instead, Congress can legislate accountability. Instead of licensing companies to release advanced AI technologies, the government could license auditors and push for companies to set up institutional review boards."
-    publishedDateTime: 2023-06-04T08:30:00Z
-    webUrl: "https://www.heraldnet.com/opinion/comment-what-congress-can-do-to-keep-an-eye-on-ai/"
+  - title: "Artificial Intelligence Is Getting Regulated"
+    excerpt: "Like any new innovation or product, there is an accompanying concern over how the use of artificial intelligence may affect people. There have been calls for regulation in response to privacy, copyright infringement,"
+    publishedDateTime: 2023-06-05T15:50:00Z
+    webUrl: "https://www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/"
+    ampWebUrl: "https://www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/amp/"
     type: article
     provider:
-      name: HeraldNet
-      domain: heraldnet.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.heraldnet.com/wp-content/uploads/2023/06/32887389_web1_TSR-230603-edh-opi-AIguardrailes.jpg"
-        width: 1302
-        height: 868
-        isCached: true
-  - title: "Comment: Robots are coming, but with humans at the controls"
-    excerpt: "Take Alfie. It’s the prototype of London startup Prosper Robotics and looks like a Minecraft character made real: slightly taller than a grown man, bulky and gliding slowly around on wheels. It is also steered by a team of gamers in the Philippines, who wear virtual reality headsets throughout the day to control its movements."
-    publishedDateTime: 2023-06-05T08:30:00Z
-    webUrl: "https://www.heraldnet.com/opinion/comment-robots-are-coming-but-with-humans-at-the-controls/"
-    type: article
-    provider:
-      name: HeraldNet
-      domain: heraldnet.com
-    quality: 39
-    images:
-      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Commentary: No, artificial intelligence probably won't kill us all"
-    excerpt: "Framing artificial intelligence as an existential threat is merely a doomsaying tactic. There may be more to this fear campaign than meets the eye, says this researcher."
-    publishedDateTime: 2023-06-03T22:02:00Z
-    webUrl: "https://www.channelnewsasia.com/commentary/artificial-intelligence-wont-kill-us-fear-openai-microsoft-meta-3530821"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--J961NJ9J--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/06/01/istock-1364859722.jpg?itok=p0zA9twF"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647e0286dd32a0292ad81907/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 676
+        height: 744
         isCached: true
-  - title: "How can Congress regulate AI? Erect guardrails, ensure accountability and address monopolistic power"
-    excerpt: "Takeaways: A new federal agency to regulate AI sounds helpful but could become unduly influenced by the tech industry. Instead, Congress can legislate accountability. Instead of licensing companies"
-    publishedDateTime: 2023-06-01T11:41:00Z
-    webUrl: "https://www.econotimes.com/How-can-Congress-regulate-AI-Erect-guardrails-ensure-accountability-and-address-monopolistic-power-1657017"
+  - title: "Why This Investor Is Betting on AI for Climate Tech"
+    excerpt: "Optimized fish farms? Drones to track solar panels? Artificial intelligence helps fuel this $81 million venture-capital fund’s clean-energy investments."
+    publishedDateTime: 2023-06-01T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/ai-climate-change-clean-energy-investment-e4242a23"
     type: article
     provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 24
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://www.econotimes.com/assets/images/econotimes/metaDefault2.png"
-        width: 400
-        height: 330
+      - url: "https://images.wsj.net/im-791023/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "How the Biden administration is trying to regulate bias in health care AI"
+    excerpt: "Artificial intelligence could revolutionize health care. It could also perpetuate and exacerbate generations of racial inequities."
+    publishedDateTime: 2023-06-01T20:21:00Z
+    webUrl: "https://www.wfyi.org/news/articles/how-the-biden-administration-is-trying-to-regulate-bias-in-health-care-ai"
+    type: article
+    provider:
+      name: WFYI
+      domain: wfyi.org
+    quality: 38
+    images:
+      - url: "https://www.wfyi.org/files/wfyi/articles/original/pexels-ivan-samkov-4989167.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "VzEf2moOVHxqhpVMGR+3bJpgFfFloIlNVrFDWb6S8NP4RSLlR5Gn41fs8YgSPLEDqhG0HyYCp/sN4C/ztLLQZ3Md1wuI/RS4VG9+8RnqrPVKfmwsaxE+ZyoWgIKagTaxkNXSRWHlHppOynIYlO8PfiqoyB1EecUubxEPjBy/87txBBJqaIlO5JMLR8jZfu7NfKDZPigKNKmzYem/uoJzVgz3TliyDxAti8WgBlyxRv6dpWbPjf/9ym48ktz+lwozTuCVeDNqzMhZaQzW/yy3DvVPFY6oGKmrig3W/jMRpDmJlF/XUwawZm0udifGyFvI1TxD0qESM6v24pbXqBoeLdC89BD+ok9Xynm4HdH0NKHyECTCCOroOik7PaYf9/xrV9Fuu8xWu/AP9S0+nen+s4RLsQqekAe+/fZOmmyGYfghKJOKjKqpaUg2E5JZdiUYj//Ih9uwnSq3ExqnvydPKC4t3X+RcwGo6N50m8xICVMibIP+KmeNc3xf6TmikaagMCjV63gdkx7Hdh2oFjCIlA==;nqj+Ec4bvHbnb5nGVJivDA=="

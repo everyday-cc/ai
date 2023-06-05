@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/fs/california-lawmakers-question-dmv-regulat
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/california-lawmakers-question-dmv-regulation-of-driverless-trucks?_amp=true"
 type: article
 quality: 59
-heat: 80
+heat: 79
 published: true
 
 provider:

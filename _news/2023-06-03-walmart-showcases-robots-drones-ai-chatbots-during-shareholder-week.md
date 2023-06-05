@@ -87,15 +87,15 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ..."
-    publishedDateTime: 2023-05-31T19:27:00Z
-    webUrl: "https://techcrunch.com/2023/05/31/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/"
+  - title: "Yellow.ai's generative AI-powered Voicebots and Chatbots Now Available on Genesys AppFoundry"
+    excerpt: "Yellow.ai combines with Genesys marketplace of solutions, enabling enterprises to deliver autonomous, human-like experiences with its Dynamic"
+    publishedDateTime: 2023-06-05T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/yellow-ai-s-generative-ai-powered-voicebots-and-chatbots-now-available-on-genesys-appfoundry-1032370385"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
   - title: "3 ChatGPT productivity hacks that’ll change the way you use AI"
     excerpt: "ChatGPT can be used to improve productivity at work for specific tasks that might require repetition - here are a few use cases."
     publishedDateTime: 2023-06-03T14:33:00Z

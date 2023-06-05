@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/is-gener
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/02/is-generative-ai-a-friend-or-foe-to-pr-practitioners/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Newest Genesys Generative AI Capabilities Boost Power of Experience Orchestration"
+    excerpt: "Using large language models, Genesys Cloud CX helps employees improve quality, speed and accuracy to drive stronger post-customer engagement"
+    publishedDateTime: 2023-06-05T12:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/newest-genesys-generative-ai-capabilities-boost-power-of-experience-orchestration-1032370089"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
 
 secured: "H0rA02VS5rtSJqPLCx5zhYTRdoVXDeFAyR06s0HhJNr6cFuzkuvhRmrnwfvLyRVKNRToOu54W4cioEXMpUYTb0QiKEsEwRW+nMdVe0b6354kqRwqGfvQ3ZbIJEoLz+x19u7+BVd/CA5lWxxA9vPJOWGm7bAhL4PzQXLHpvs5A8L2h3pCni+L9cdfBZjkLUHwdKmgDw+AzJrtRA2marZJNrQtSWiVTY0yCY2FAbi4FKqtJ93FhIvniLm6Ypkfr8tD4XxeMDcUru3/aylr6ev3JY9pRp3t8mx4ylTjgAPCnMLMM3XmgleNMUT1N0GvgbfI32OykP6m3x+gqbFBxkoIroAyhHeo8PUJSWVjXsMr3OU=;pzsN7B6mxOnkzrFaLXF7xA=="
 ---

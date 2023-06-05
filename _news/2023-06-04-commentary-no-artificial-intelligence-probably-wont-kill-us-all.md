@@ -38,20 +38,6 @@ related:
         width: 1302
         height: 868
         isCached: true
-  - title: "Here’s how Congress can regulate AI | Opinion"
-    excerpt: "Takeaways: A new federal agency to regulate AI sounds helpful but could become unduly influenced by the tech industry. Instead, Congress can legislate accountab"
-    publishedDateTime: 2023-06-04T11:17:00Z
-    webUrl: "https://www.penncapital-star.com/commentary/heres-how-congress-can-regulate-ai-opinion/"
-    type: article
-    provider:
-      name: penncapital-star
-      domain: penncapital-star.com
-    quality: 39
-    images:
-      - url: "https://www.penncapital-star.com/wp-content/uploads/2022/03/GettyImages-521369998-scaled.jpg"
-        width: 2560
-        height: 1670
-        isCached: true
   - title: "Comment: Robots are coming, but with humans at the controls"
     excerpt: "Take Alfie. It’s the prototype of London startup Prosper Robotics and looks like a Minecraft character made real: slightly taller than a grown man, bulky and gliding slowly around on wheels. It is also steered by a team of gamers in the Philippines, who wear virtual reality headsets throughout the day to control its movements."
     publishedDateTime: 2023-06-05T08:30:00Z
@@ -80,6 +66,15 @@ related:
         width: 400
         height: 330
         isCached: true
+  - title: "Why an octopus-like creature has come to symbolize AI | Commentary"
+    excerpt: "The Shoggoth is a potent metaphor that encapsulates one of the most bizarre facts about the AI world, which is that many of the people working on this technology are somewhat mystified by their own creations."
+    publishedDateTime: 2023-06-05T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/why-an-octopus-like-creature-has-come-to-symbolize-ai-commentary/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "mlb4cdtr7E3qTBv+HmpSNe7PaNSb1osjBpm3vZC71fasQqRm00j+3pbm53ZBQFBMeV7jJhNVH3iU5k/hJYEkXYftDv6FDn0opJfuo9Xspu2TxWX8ETf6FtNYoYfLaU6O8mxcKxDjKB/WjOOeuX1eAHCqcMklnTi2uZXFIq1+y5ruVh3vvBBVGynF3JQAfa21RFgrdZjtFGkoka83F4ki4wndyCc7hv2KFT0V4Mjjntov9bpBY57VhU95a8Dcd0bS3sc148vx/WhPXIu+fTw0Uh6Qa0+eYbL7tj8k2ipZCgLmQbmqAjK0sbTD17744sh+ZAvnTb0NXE7G5gDhvTKm2h3LicKpM4dgGOD7rN6WC0eTn8/GSxkQ04zsN9pv/RBRLnhPpkJzltQFYLIu74WpDxCQGpLtvC2vpQL3YRjbR5kV1pdJfd82OEQ02Y62yI4M0hnYbNTbzyZGnXVUhcvDjLpV0IEXyZCrb/6uXDb4dxqOTi5eLu4X4LE0vxz53gLs3G2GC+OdI+yZ4ULtnEdPqQ==;WWC/QhnRa8qF/X+p3zFn0w=="
 ---

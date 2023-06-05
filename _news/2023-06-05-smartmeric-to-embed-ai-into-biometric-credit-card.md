@@ -24,6 +24,17 @@ images:
     height: 512
     isCached: true
 
+related:
+  - title: "SmartMetric to embed AI into biometric credit card"
+    excerpt: "While the company is close to releasing its advanced premium fingerprint biometric activated credit card the company’s engineers are now working on adding embedded AI into the card’s electronics."
+    publishedDateTime: 2023-06-05T13:47:00Z
+    webUrl: "https://www.finextra.com/pressarticle/97119/smartmetric-to-embed-ai-into-biometric-credit-card"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
+
 secured: "tQ56/7Ir/sbJfS/fVPY+fuI2S+nF/dLFoIIZYMOHZ3pVmrLhJCKzc+AYnFBEaZSmm2qCmJozFrSCJj2ITPqTzuHxYdR8JJZRv1Wu4jo2itvjC/o2EykKwlYgOEeuh5voyDqDTI59PUlKwawxl6ucTcw3TR8SaVmqIgWHe428Uz0Furtry8rlzcuM6aV0pxJVGFq57Cc4Jrza6XVY9GLgUHm8vlk6GoX/Bkl9Jb829Zz1c6j+9rjR12lOltXt9bZhYqDRFmQiynOwJProftFfdPcVXANbI8B83yhcskqsnAQGGRIy0CGeXq3rZGRHfP40sZ/u3l4yZudBI3hDisvJTFi5vDjrr0Yp1m+v6cWBWYY=;nHkCkOh5x1Z0+go8ZNh8YA=="
 ---
 

@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Image Recognition In Retail Global Market Report 2023: Increasing use of Image Recognition Applications Drives Growth"
-excerpt: "This report provides strategists, marketers and senior management with the critical information they need to assess the market. The global image recognition in retail market is expected to grow from $1."
-publishedDateTime: 2023-06-01T23:40:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/06/01/9825362.htm"
-webUrl: "https://it.tmcnet.com/news/2023/06/01/9825362.htm"
+excerpt: "The main types of image recognition in retail are code recognition, digital image processing, facial recognition, object recognition, and others. Code recognition is an identifying solution that can read and validate both QR codes, all conventional ..."
+publishedDateTime: 2023-06-01T22:21:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/06/n32682999/image-recognition-in-retail-global-market-report-2023-increasing-use-of-image-recognition-applicat"
+webUrl: "https://www.benzinga.com/pressreleases/23/06/n32682999/image-recognition-in-retail-global-market-report-2023-increasing-use-of-image-recognition-applicat"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "ijxfLKYYN/No7vUcOGlmUkUnaK39NDbwueeZNBJX9KbYQcDIJZx8O5NbAWmK2bWGKiPYOoA8dR26bfU585++ckwPPDw9f0T9vId89iwwuOQyXZbGILMERe2jTpB8jArV4WmSCRzOmcf21XZnOZJNRe++lg4M2AvjXQecLccECRQ5pkbX3sc1w7UPDYJ0shzQgBMKJKmrNKw+ktC4c5SW6ds/u4yye2M60I7j/hrNBaf1xXbqBFVCnWhCxsDb5bMUGfL8cTdtHU1ziTfN87OXN+xxMmg8OZYcZIGGAT6K8UAJmgHnCzFAq1Of1NAlk+PrWAlBSZy3qUPFvRxAC67n7dBjAT/A7wCkwob0nULCZLo=;GRuSukLdBKnqN2ccEXzZKQ=="
+secured: "OtSvqaZgzPkW8gJqtirF2CenUnNKi7Czcl9QlW/LP8zHxVWpX3W6Ein4ntsIQBTjmuBbDvRYU9uFSigjsrVKdhqU+2CReXR9HMBniT+hKtKo5FXiFw5y0DUFcGyMO3VPeBnC/tBQ5egZMJKA7IQ8GgLdDdZ2PiYFpGw/+Z5G4zwLsVvLxmwgU4QKVhVnBd8pcCfRKNZiNDmykjKw/GIWZmhYwt5PFRRE6wdHo0sXFctBQhiiZBtumCCzHTxY54juhovVfS7T8mSmUrpKiH1rXnONkL7XTd08Uod3pm/iqigJ5XYyo4aPCtOjc9SxSvYssp2MI/AMPGmz0v0uLHbBZVLAbI3TY7npGeBRe0GdaQI=;jPvqrXxpH8gpHfwLDYKwCA=="
 ---
 

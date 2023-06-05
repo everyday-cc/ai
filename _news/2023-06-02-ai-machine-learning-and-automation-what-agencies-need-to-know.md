@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/06/02/ai-machine-learning-and-automation-what-agencies-need-to-know/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Blink Ops launches AI copilot to streamline security automation"
-    excerpt: "Blink Ops, a cybersecurity startup based in Tel Aviv, has launched a new software product that uses generative AI to create no-code workflows for security and IT operations. The service, called Blink Copilot,"
-    publishedDateTime: 2023-05-31T21:00:00Z
-    webUrl: "https://venturebeat.com/ai/blink-ops-launches-ai-copilot-to-streamline-security-automation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Blink-logo_tel-aviv.png?fit=750%2C422&#038;strip=all"
-        width: 750
-        height: 422
-        isCached: true
   - title: "8Flow.ai Announces Self-Learning Automation Engine for Customer Support, Raises $6.6 Million"
     excerpt: "SAN FRANCISCO / ACCESSWIRE / June 1, 2023 / 8Flow.ai, a startup focused on analyzing and automating customer support workflows, has emerged from stealth and raised $6.6 million in funding. The round was led by Caffeinated Capital, with participation from ..."
     publishedDateTime: 2023-06-01T15:26:00Z

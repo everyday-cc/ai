@@ -7,7 +7,7 @@ originalUrl: "https://www.asiaone.com/business/aws-announces-25-startups-selecte
 webUrl: "https://www.asiaone.com/business/aws-announces-25-startups-selected-its-first-fintech-africa-accelerator"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS picks biotech startup for AI accelerator program"
-    excerpt: "Ordaos, a drug design company, was selected for the AWS Generative AI Accelerator, a mentorship program for companies working with generative artificial intelli"
-    publishedDateTime: 2023-05-31T21:04:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/aws-picks-biotech-startup-for-ai-accelerator-program.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "AWS announces the 25 startups selected for its first 'fintech in Africa' accelerator"
     excerpt: "African fintech startups have been selected for the inaugural Amazon Web Services (AWS) FinTech Africa Accelerator cohort. This cohort was selected from over 500 applications and is part of the EMEA Startup Loft Accelerator (SLA) program run by AWS."
     publishedDateTime: 2023-06-01T16:43:00Z

@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Newest Genesys Generative AI Capabilities Boost Power of Experience Orchestration"
+    excerpt: "Using large language models, Genesys Cloud CX helps employees improve quality, speed and accuracy to drive stronger post-customer engagement"
+    publishedDateTime: 2023-06-05T12:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/newest-genesys-generative-ai-capabilities-boost-power-of-experience-orchestration-1032370089"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
 
 secured: "NDdA6bTnyqdgAvTJgvaKAHWA4WwLg0cKEx58lrYrCKXzM6vPaMh4zLiEoSOMP0Xxd3CsUvMd4yGxEIkMRKmi3u2aTvzFB+bVIcLoOA9shXAUVjGvy2Ec0AAwiB+wXszQKaRyudAxcgf2aIMguW2+HF5t/7QFdy1eya3BkWvsPRS9XUMxAPzOBhWLPM3+ElBEssnw6y7obrjJ1h8MezXWwOqMZZ2heUK5GxXer2Wc1n5fgzK09SEXLR3cn+eziGCgJw+WvA2WwRlQM1f1wepKxRFkx7yHrOSDInUn99JU9Tui3U+MirQevvXvSzUfzIoIQDPPCA9/eeg+090FwdVnJiXyNHKi+0phOF6MZRsFFAtfYcsdQg9q+4wM6r3x24TalJv7cZx6wMjhGbl+Fk1UJBWnukuy7HktHD+mQDGVQF7Iyum2HBq85UApHNVpU6VFJs+K0gWjfw/eUDstSuyCgREg02IGjMCBJ+6bbZZznuG8A1EygemQ+swC6YMEmMNUR7wMQm9miCi7il1q0AKhrQ==;N5QvJAA6uL0YIxGbEvTyFw=="
 ---

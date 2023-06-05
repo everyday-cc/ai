@@ -25,15 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Benefits Recruiting"
-    excerpt: "AI can also perpetuate bias. Because AI is programmed to follow trends in past actions, it’s destined to repeat mistakes if bias exists in your hiring process. Ultimately, AI is best utilized when it solves problems in your systems, maximizes your time and energy with human interactions and prioritizes the needs of the candidate."
-    publishedDateTime: 2023-06-01T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/06/01/how-artificial-intelligence-benefits-recruiting/"
+  - title: "Artificial Intelligence Is Getting Regulated"
+    excerpt: "Like any new innovation or product, there is an accompanying concern over how the use of artificial intelligence may affect people. There have been calls for regulation in response to privacy, copyright infringement,"
+    publishedDateTime: 2023-06-05T15:50:00Z
+    webUrl: "https://www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/"
+    ampWebUrl: "https://www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2023/06/05/artificial-intelligence-is-getting-regulated/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647e0286dd32a0292ad81907/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 744
+        isCached: true
+  - title: "Why This Investor Is Betting on AI for Climate Tech"
+    excerpt: "Optimized fish farms? Drones to track solar panels? Artificial intelligence helps fuel this $81 million venture-capital fund’s clean-energy investments."
+    publishedDateTime: 2023-06-01T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/ai-climate-change-clean-energy-investment-e4242a23"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-791023/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Here’s how Congress can regulate AI | Opinion"
+    excerpt: "Takeaways: A new federal agency to regulate AI sounds helpful but could become unduly influenced by the tech industry. Instead, Congress can legislate accountab"
+    publishedDateTime: 2023-06-04T11:17:00Z
+    webUrl: "https://www.penncapital-star.com/commentary/heres-how-congress-can-regulate-ai-opinion/"
+    type: article
+    provider:
+      name: penncapital-star
+      domain: penncapital-star.com
+    quality: 39
+    images:
+      - url: "https://www.penncapital-star.com/wp-content/uploads/2022/03/GettyImages-521369998-scaled.jpg"
+        width: 2560
+        height: 1670
+        isCached: true
 
 secured: "NCmJ3vL2UDbLpfKdg/fVP5cFjN7PV9b8EOUSW3a1BNNXeUpwXsHOtUBwHlm5ls/OBblTvnVlJATU3Y3qqH5FqVYPue0FEi6XlMB1vLOmEZRlbyg/PDturJk/D7f8+rPaKVC4r8ptN8I4Y20M9OZGiRIFxfd1s/QXJG1BSeacghRbgJB5qNzbnByR2Xewp2J6VDcdX1kOPVIlGYpSKoOsBwvr3Sbh7JrDXMO+bLehCgTjFqUwwmY6zESYKHt1ZHNxrbewTTun/5PgXqAfhO1dHPtB/nKav/o7CFEmxbHhrO3KtfnQjtNsuZYj2XNfTZOF1rVuASm4rRZnb0Bnf0eOgJt5YQVgBTZiWMa90/GN2xOgeOfSe2AWNnurvVhWrUNVie6Yv2Ox1bP4fvBUUUk3l/atLeKwIxbdGpbT1H8Z0uCCHiKTUfs5ak5kVbHh2Fl8+0JVJi/TLALDP0bonvoIKWNIflXB+kBBRZ7WzddRVQ3xcfshp2VnvUdEmfop0RUNXX7IIYdlYnsHt+G6v2q1Zg==;31tmsqYtXnUrO2yw1EJ61g=="
 ---

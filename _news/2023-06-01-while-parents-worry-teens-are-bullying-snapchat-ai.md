@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-m
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/31/people-keep-gaslighting-snapchat-my-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "You can now send Snapchat's AI chatbot photos and get a response (warning, it's creepy)"
-    excerpt: "On Wednesday, Snapchat announced that Snapchat+ users are able to Snap the chatbot photos and receive unique, generative AI messages from the chatbot in return. For example, Snapchat says users can send it a photo of their grocery haul and possibly get a recipe for the ingredients in the picture."
-    publishedDateTime: 2023-05-31T21:32:00Z
-    webUrl: "https://www.zdnet.com/article/you-can-now-send-snapchats-ai-chatbot-photos-and-get-a-response-warning-its-creepy/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/you-can-now-send-snapchats-ai-chatbot-photos-and-get-a-response-warning-its-creepy/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-now-send-snapchats-ai-chatbot-photos-and-get-a-response-warning-its-creepy/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 79
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/b8d1552d3ea9e2b58aec71720062fac7f6afd628/2023/05/31/72c1a77f-a6de-4d7b-a141-d3394ab6d291/screenshot-2023-05-31-at-1-40-18-pm.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "YO/bKOUxLQQxNmHBPPiUT4yvzMZ17PHYcjUO6WFvZPFACqWgp/pwAVDTD8RxaKijw3JmZPjmUcEO2GXkDBD5M4O+T0zINuoFKP1DR7UdyZeJT0QQR3+DbhZvd0vy6rgepiKJd7FqtYGbQpaGwE+KOtOjLtj6dd+IAr8iUJSgyWFOJk5ctj3ZKHerh5nfd+roASAJVG7LsRphqUH5tisqrck3hkge9vA0HYh1WkXNA1svUk7h7pFn7U6ai78X7FS3df/p9cOo9GxJ2MRaFFKQ1QqS6IdOfCxxkTegd60/YZfoWIEilNauTlPjjcesJKEK96ATkSzzHuH2IHAmQIRmNfZwbODQnSSuBS+Vx6vkFYfB5AS0YvHz5yTccjYLBAbQ/xaG/VlWZekbWGfzsY5lrzn1sb4BS/XNTFPWcasjSUPOSy2guzRlcEb+oo+z5AoCGORfetALdA6xkLNGKwmxex48bibOTq0+7/ddrCu4uRqw3Ya6MnhsGzhX7bs1ikozfWzuNsjzzGikfNlw5X6hIA==;g5eXXXRxHEqBC0SZXZB12w=="
 ---

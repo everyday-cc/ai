@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 996
         isCached: true
-  - title: "Blink Ops launches AI copilot to streamline security automation"
-    excerpt: "Blink Ops, a cybersecurity startup based in Tel Aviv, has launched a new software product that uses generative AI to create no-code workflows for security and IT operations. The service, called Blink Copilot,"
-    publishedDateTime: 2023-05-31T21:00:00Z
-    webUrl: "https://venturebeat.com/ai/blink-ops-launches-ai-copilot-to-streamline-security-automation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/05/Blink-logo_tel-aviv.png?fit=750%2C422&#038;strip=all"
-        width: 750
-        height: 422
-        isCached: true
 
 secured: "SECgqD1vH2cw18y5ODP2AtrQvUl7mZouz140TChMO22diX16Vqa8OAsU37peZpbfbxNwsPgyf0QBPFY50OUl2UZSYg9nU1jsJnb48dYSGLlCfHAdi2ws2v3LAiX2p2zfaonSLxylQtE4GH5NVhXDZNHIkoXMJfOqTLDMBMtglNcxotAwIS+txaYvqwAf4zrQrNrrOtlW1FGnAzoWS6zpgM37lfs08AIeFp6KvOHPPEKIWAOae/p5CkrkKxkMjp/KFvJHWGwDvAQnByfzcUlENk9B+aK/+MiFVJIN4l/oP2vETmWxeJytYE+8wi8zYsy450XsLS5KPbmzLUCFDBEHb7tXs3vg4Us9wjNG1FDYWbc=;OyGEWkbT0v8D+n1eBozRmg=="
 ---

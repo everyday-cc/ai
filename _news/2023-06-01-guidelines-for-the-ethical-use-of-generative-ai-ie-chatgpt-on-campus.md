@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "No ChatGPT in my court: Judge orders all AI-generated content must be declared and checked"
-    excerpt: "Few lawyers are foolish enough to let AI make their arguments, but one did, and this judge is making sure that doesn't happen in his court."
-    publishedDateTime: 2023-05-31T21:06:00Z
-    webUrl: "https://techcrunch.com/2023/05/30/no-chatgpt-in-my-court-judge-orders-all-ai-generated-content-must-be-declared-and-checked/"
-    ampWebUrl: "https://techcrunch.com/2023/05/30/no-chatgpt-in-my-court-judge-orders-all-ai-generated-content-must-be-declared-and-checked/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/05/30/no-chatgpt-in-my-court-judge-orders-all-ai-generated-content-must-be-declared-and-checked/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 77
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-853938300.jpg?resize=1200,900"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "ChatGPT and Generative AI in Financial Services: Reality, Hype, What's Next, and How to Prepare"
     excerpt: "Payments, banking, and insurance players are eager to understand generative AI's potential and put it to work."
     publishedDateTime: 2023-06-01T17:30:00Z
@@ -104,6 +88,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/1a91376e4676a8b5d2eef35632e0a54adcd7f2cf/0_123_4866_2920/master/4866.jpg?width=620&quality=85&auto=format&fit=max&s=b2774c2461091f7b2b6ea13932897571"
         width: 620
         height: 372
+        isCached: true
+  - title: "What technology will have the biggest impact on healthcare, per ChatGPT"
+    excerpt: "AI and machine learning algorithms will revolutionize healthcare, improving diagnostics, personalized medicine, and drug discovery."
+    publishedDateTime: 2023-06-05T15:00:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/what-technology-will-have-the-biggest-impact-on-healthcare-per-chatgpt.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "Sensory fast-tracks accurate custom voice UIs using ChatGPT generative AI"
     excerpt: "Beyond its AI capabilities, VoiceHub 2.0 also features a refreshed portal UI layout and supports 25 languages and regional dialects."

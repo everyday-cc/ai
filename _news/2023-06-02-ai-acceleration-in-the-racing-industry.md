@@ -46,7 +46,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/647bdd7fddd81ae2fc13b283/0x0.jpg?format=jpg&width=1200"
         width: 800
@@ -146,20 +146,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "InnovationRx: The Cost Of Social Care; Plus, AI To Predict Heart Failure"
-    excerpt: "The lead author is Sanjay Basu, a doctor and the cofounder of Waymark Health, a startup whose launch we profiled last year. Waymark is trying to help better coordinate care for patients on Medicaid, the government-funded health insurance for low-income ..."
-    publishedDateTime: 2023-05-31T21:40:00Z
-    webUrl: "https://www.forbes.com/sites/katiejennings/2023/05/31/innovationrx-the-cost-of-social-care-plus-ai-to-predict-heart-failure/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6477be43c167819183bdbfe8/0x0.jpg?format=jpg&width=1200"
-        width: 960
-        height: 720
-        isCached: true
   - title: "Analyzing artificial intelligence after calls for regulation"
     excerpt: "Dozens of industry leaders are calling for artificial intelligence regulation, warning it could lead to the threat of extinction."
     publishedDateTime: 2023-06-01T02:49:00Z
@@ -191,6 +177,36 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/54505-110094-Apple-Siri-xl.jpg"
         width: 1312
         height: 738
+        isCached: true
+  - title: "UAE’s Artificial Intelligence Office explores opportunities to Accelerate innovation with precision medicine"
+    excerpt: "The government's approach involves harnessing advanced digital technology and artificial intelligence to address the prevailing challenges in the healthcare sector. This strategic utilisation of cutting-edge innovations has yielded favorable outcomes ..."
+    publishedDateTime: 2023-06-05T13:24:00Z
+    webUrl: "https://www.emirates247.com/technology/uae-s-artificial-intelligence-office-explores-opportunities-to-accelerate-innovation-with-precision-medicine-2023-06-05-1.712597"
+    ampWebUrl: "https://www.emirates247.com/technology/uae-s-artificial-intelligence-office-explores-opportunities-to-accelerate-innovation-with-precision-medicine-2023-06-05-1.712597?ot=ot.AMPPageLayout"
+    cdnAmpWebUrl: "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/technology/uae-s-artificial-intelligence-office-explores-opportunities-to-accelerate-innovation-with-precision-medicine-2023-06-05-1.712597?ot=ot.AMPPageLayout"
+    type: article
+    provider:
+      name: Emirates247
+      domain: emirates247.com
+    quality: 40
+    images:
+      - url: "https://www.emirates247.com/polopoly_fs/1.712598.1685971153!/image/image.jpeg"
+        width: 3828
+        height: 2089
+        isCached: true
+  - title: "AI, Adaptive Leadership, and Innovation: Gartner CFO Conference Highlights"
+    excerpt: "Seven takeaways for finance chiefs and senior finance executives from the Gartner CFO and finance executive conference."
+    publishedDateTime: 2023-06-05T15:47:00Z
+    webUrl: "https://www.cfo.com/finance-leadership/2023/06/gartner-cfo-conference-innovation-artificial-intelligence-leadership-disruptors-technology/"
+    type: article
+    provider:
+      name: CFO
+      domain: cfo.com
+    quality: 37
+    images:
+      - url: "https://assets.cfo.com/images/Zz02N2NjZGJjODAzYTcxMWVlYmMyZWE2OGIzZTQ4YzQxZg==?width=1200"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Africa is Embracing the Artificial Intelligence Innovation Wave, says Experts"
     excerpt: "The rise of Artificial intelligence and its revolutionary impact on African business, society, and culture led discussions during the GITEX Africa."
@@ -229,15 +245,6 @@ related:
       name: Connecticut Post
       domain: ctpost.com
     quality: 17
-  - title: "Automation Anywhere and AWS Bring the Power of Generative AI to Mission Critical Mainstream Enterprise Processes"
-    excerpt: "Automation Anywhere, the #1 leader in cloud-native intelligent automation, today announced it is working with Amazon Web Services (AWS) to bring intelligent automation and generative AI innovations to market."
-    publishedDateTime: 2023-06-01T16:13:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/06/01/9824889.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
 
 secured: "bdMybHxRfEnQHeqHDGCjStTyGDXUVPx7202xn5/Nz/A3tylFdxguxJclzLBEVPfjKWEYhwkIgZnifSlW0NdVioRAdge+j4ttZHmhFSHTPfW3ObLMDv+QKwmgrkJ4ueaOPZvd/qncgG+n6y+NtDmJ6DuEO/jRW+PnKBFxjhJ0yE+m2fTMP+f4hMfBEydYSJdXr6ucUM8yAiOg6luVt9lVvq5GQEVuGXTABd8Z1dL9mx5TbyIKtFGZfTkqY1ryJw49vn6qwQQSLB8KUlOfwZCv8IjROUGoJtUO36ZxEMpx+fH1Jqkex7aMZH6G6ax9fCXGKE8FAugVfsZ0uYTDGV5i1uD1KzW7KlPcHTJ7QhldsJEkgqV1YathcVdZ5ns6jyf1PFsywdY9gEopIodSezcZGr1oqXRoPf+mhEK5NaUDPEosTk6oXns0zeLn6RPHWQDFX2frwmf3EBv+CXZDMLE33oq+DV2dao2T6J6GCgszmAtdT9Ud8K4rIy7APKuui2azUY1vXKN6S4xjev/HtzDPuQ==;2hnr6xAASj7Ihw+t7OSQLA=="
 ---

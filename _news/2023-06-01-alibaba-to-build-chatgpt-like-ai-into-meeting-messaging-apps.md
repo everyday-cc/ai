@@ -58,6 +58,20 @@ related:
         width: 620
         height: 467
         isCached: true
+  - title: "Can ChatGPT AI Answer Your Asphalt Questions?"
+    excerpt: "The rise of \"A.I.\" to the level of household name means everyone has an opinion, but true expertise is harder to come by. What can these algorithms do for the likes of our industry? Can they help you answer your asphalt or business questions?"
+    publishedDateTime: 2023-06-05T13:32:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/article/22861073/can-chatgpt-ai-answer-your-asphalt-questions"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 39
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2023/05/AdobeStock_389670688.6467a8dc2b87b.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C0%2C1920%2C1077&w=1200"
+        width: 1200
+        height: 673
+        isCached: true
 
 secured: "Im+ErFf+cmtzaukTP5oOwqSp5uNjLblvEmHsUkyUNIOhYVBHTz3MPBsaSyQzOvIaY8CWLRuNwpV3MIKzUT9VrTD4fsW8NGx3Z2hsQsgJ6DTkFt+LXii/lJuMB6BRzW5NBKnyJgHHG+B7DPShZIT5DXuNByAC8zyvKIaZNfncozRcdaECwk0GEug0W6OfItyQ/H/LDm7Z1GtRj/9aG7Z3ILfW1GI8SC89t9KwHqaL3f8ktSXzDJvxnsNrvBoe5KIToKOHhGyXahJjc7fWJKvXRRf3TKeAFGQmWmR2r9Nep8S3CvGplM3C78k+27Ia2uRo+awGdp5vzp5fyN9xcNtf02ltl8j/0lcTxcvNEviAmC5wKFUI8DH2I5b5lwU/aB/1+5dzvUbKD02eoSdc8GJiagtCxbl26anGYCj0tsDOlC5U6JfqS+VHfYxuwHhdCnGdyDCjE6F8HMs/heGLpGQsSoFGO+DHuPUj9TAAw41qmKg/aBPz/SE3s8O0TDsVesIKwEO6pBcmUNpOHD/WrGZvPg==;zlJx4QBjTjRjdESwUt1dJQ=="
 ---

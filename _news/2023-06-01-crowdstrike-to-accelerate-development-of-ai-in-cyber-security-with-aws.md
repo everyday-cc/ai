@@ -61,20 +61,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 54
-  - title: "CrowdStrike debuts generative AI cybersecurity chatbot and new AWS integrations"
-    excerpt: "CrowdStrike Holdings Inc. is rolling out new capabilities that will help companies more effectively respond to breach attempts. The first set of features, a collection of integrations for Amazon Web Services Inc."
-    publishedDateTime: 2023-05-31T21:19:00Z
-    webUrl: "https://siliconangle.com/2023/05/31/crowdstrike-debuts-generative-ai-cybersecurity-chatbot-new-aws-integrations/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 50
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/05/crowdstrike.png"
-        width: 718
-        height: 400
-        isCached: true
   - title: "Today’s Cyber Threats Require Modern Cloud Network Security"
     excerpt: "In the past year, network security failures have led to downed websites, delayed flights, unavailable video games, and much more. Such incidents can erode customer, investor, and board member trust and result in the types of headlines you don’t want."
     publishedDateTime: 2023-06-02T13:02:00Z

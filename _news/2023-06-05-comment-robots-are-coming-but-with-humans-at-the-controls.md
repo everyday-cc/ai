@@ -39,20 +39,6 @@ related:
         width: 1302
         height: 868
         isCached: true
-  - title: "Here’s how Congress can regulate AI | Opinion"
-    excerpt: "Takeaways: A new federal agency to regulate AI sounds helpful but could become unduly influenced by the tech industry. Instead, Congress can legislate accountab"
-    publishedDateTime: 2023-06-04T11:17:00Z
-    webUrl: "https://www.penncapital-star.com/commentary/heres-how-congress-can-regulate-ai-opinion/"
-    type: article
-    provider:
-      name: penncapital-star
-      domain: penncapital-star.com
-    quality: 39
-    images:
-      - url: "https://www.penncapital-star.com/wp-content/uploads/2022/03/GettyImages-521369998-scaled.jpg"
-        width: 2560
-        height: 1670
-        isCached: true
   - title: "Commentary: No, artificial intelligence probably won't kill us all"
     excerpt: "Framing artificial intelligence as an existential threat is merely a doomsaying tactic. There may be more to this fear campaign than meets the eye, says this researcher."
     publishedDateTime: 2023-06-03T22:02:00Z
@@ -81,6 +67,15 @@ related:
         width: 400
         height: 330
         isCached: true
+  - title: "Why an octopus-like creature has come to symbolize AI | Commentary"
+    excerpt: "The Shoggoth is a potent metaphor that encapsulates one of the most bizarre facts about the AI world, which is that many of the people working on this technology are somewhat mystified by their own creations."
+    publishedDateTime: 2023-06-05T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/why-an-octopus-like-creature-has-come-to-symbolize-ai-commentary/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "6mIUVhxk65Vr6IqlnpaD9W1/nSEypcMmCpidbqkxzWLnu/74ZwtGzxBJ70YNTPOQdI7VGfaNx7dZL7w6zbG3SuW3fTkE0yyjXa+C+US+IPTXI9HDN+2JSIZADoMG0Zax5r66ZG7ZENzT5xZb0wahYLIZ6ko/lbHKCJNyWFmypJ1t349gfLaH9aMd+PN+ktv3lgLIafSQtTv7eASkRKTiapZsSCw5tV3pN3+RIs10aTKLnrJV6GeGPIEMhBLmWErXXWHE8sG94P0Y+EVWZB6ifbIMmKX90u9ouqd0BdWsFz5GedjIoJpgXD0/puvMAbkZXAPGEv8mJbaGSC09kx+bv1GqPAKbeINLZLKC1krw+9U=;9TAZq9ES9yd6EOwpf6WD+Q=="
 ---

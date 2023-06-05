@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/06/asus-plans-on
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/06/asus-plans-on-site-chatgpt-like-ai-server-rentals-for-privacy-and-data-control/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/5193e407ef1abf82eaf13b9d85bed0eb_L.jpg"
         width: 620
         height: 467
+        isCached: true
+  - title: "Can ChatGPT AI Answer Your Asphalt Questions?"
+    excerpt: "The rise of \"A.I.\" to the level of household name means everyone has an opinion, but true expertise is harder to come by. What can these algorithms do for the likes of our industry? Can they help you answer your asphalt or business questions?"
+    publishedDateTime: 2023-06-05T13:32:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/article/22861073/can-chatgpt-ai-answer-your-asphalt-questions"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 39
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2023/05/AdobeStock_389670688.6467a8dc2b87b.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C0%2C1920%2C1077&w=1200"
+        width: 1200
+        height: 673
         isCached: true
 
 secured: "x0DAFNWKVvu87yHF+HiQTqORvSYxZGbh19b5SDrKBQbR/OOq9uMQooC9q5FAvhREzQkYfBkfdsZu08kWN/amzNacZvLKNaFIQMnWI8IhAHx5ljB+qZdQU1vS0rVFzrnSGc6J5nl6ghu5cUB0aCn1/twoL7MUoLev/gekd5Xq9wnDoxSjig6rQnjXs3ABXusrZ/U9YhUkiyg7eJdBtqh+kcv8LcQ+CNo/MdDK53YMqQ1KhCL0+w+sjjduYq0sddBcPJfudYOE1N4P3o05jCZOuIgLiRhITrN4CkN+CN8Gi4KrZnPvvGC1xTJQ9zSpneEE8Xdi+nxd8qDlkGdQ3u4nA9RiWPQC6A+7UJyzyey6pvBPFaER+uNe66Le5flOxiePmG6o5U09A46wl62y2ksqMCDgOJ63TA9IL9jRlG9RKKsrIG0QvJ6NePYIMQmlbYuBe8Dr5A+n61HmzKvd0yrOW6dzDw/U7AxmXw9WAg2cnPp2l2cFHH/coA4N3+82PVS+w7t3Jwe962DuOPJVhs/8nA==;evIN+r7ANVjp4xmiyVaKsg=="
